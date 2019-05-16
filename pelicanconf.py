@@ -19,8 +19,7 @@ CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
 LANDING_PAGE_ABOUT = {}
 
 
-PROJECTS = [{'name': 'AmazonOfertas25', 'url': 'https://t.me/AmazonOfertas25',
-             'description': 'Ofertas con un 25% de descuento!'}]
+PROJECTS = [{'name': 'AmazonOfertas25', 'url': 'https://t.me/AmazonOfertas25',              'description': 'Ofertas con un 25% de descuento!'}, {'name':"Bebé",'url':  "https://t.me/estodobebe"}, {'name':"Moda",'url':  "https://t.me/estodomoda"}, {'name':"Tecnología",'url':  "https://t.me/todotech"}, {'name':"Domótica",'url':  "https://t.me/estododomotica"}, {'name':"Lego", 'url': "https://t.me/brickchollo"}, {'name':"Playmobil", 'url': "https://t.me/joinchat/AAAAAE3WwL-YCJ5wuLLNhA"}, {'name':"Juguetes",'url':  "https://t.me/estodojuguetes"}, {'name':"Ofertas con 50% o más de descuento",'url':  "https://t.me/joinchat/AAAAAFSZXxC24V2PeMtTSg"}, {'name':"Funko", 'url': "https://t.me/joinchat/AAAAAFA1UfRMI0CV8ZsZuw"}, {'name':"Todas las ofertas",'url':  "https://t.me/amazonfertas"}]
 
 
 LINKS = (('Redken on telegram', 'https://t.me/redken_bot'))
