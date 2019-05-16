@@ -43,7 +43,11 @@ AMAZON_ONELINK = "b63a2115-85f7-43a9-b169-5f4c8c275655"
 
 
 # Extra files customization
-EXTRA_PATH_METADATA = {}
+# Extra files customization
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+}
+
 
 EXTRA_TEMPLATES_PATHS = [
     "plugins/revealmd/templates",  # eg: "plugins/revealmd/templates"
