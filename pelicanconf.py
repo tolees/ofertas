@@ -53,7 +53,7 @@ EXTRA_TEMPLATES_PATHS = [
     "plugins/revealmd/templates",  # eg: "plugins/revealmd/templates"
 ]
 
-STATIC_PATHS = [ 'images' ]
+STATIC_PATHS = [ 'images' , 'extra' ]
 
 
 ## ONLY TOUCH IF YOU KNOW WHAT YOU'RE DOING!
