@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GTJYSV: Oferta en Amazon para LG V30 - Smartphone  64 GB  Android  Ole 
- date: 2019/05/16 15:51:07 +0000 
+ date: 2019/05/24 14:48:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

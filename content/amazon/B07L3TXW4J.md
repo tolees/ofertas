@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L3TXW4J: Oferta en Amazon para Emiqude - Camisa Casual - Button Down -  
- date: 2019/05/16 16:25:11 +0000 
+ date: 2019/05/24 19:13:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Emiqude - Camisa Casual - Button Down - con Botones - Manga Larga - para Hombre Verde Verde/Negro M a precio de oferta de 11.41 EUR (original: 11.41 EUR) en el siguiente enlace! 
+ Tienes Emiqude - Camisa Casual - Button Down - con Botones - Manga Larga - para Hombre Verde Verde/Negro M a precio de oferta de 11.08 EUR (original: 11.08 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/410v70vQezL.jpg) 
  

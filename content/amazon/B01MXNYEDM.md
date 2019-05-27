@@ -1,0 +1,16 @@
+--- 
+ layout: post 
+ title: B01MXNYEDM: Oferta en Amazon para New Balance MS574 Calzado beige 
+ date: 2019/05/24 18:10:03 +0000 
+ comments: true 
+ tags: amazon 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes New Balance MS574 Calzado beige a precio de oferta de 68.22 EUR (original: 68.22 EUR) en el siguiente enlace! 
+ 
+ ![](https://images-eu.ssl-images-amazon.com/images/I/51PD%2BUfjI2L.jpg) 
+ 
+ [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01MXNYEDM/?tag=redken-21)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CJNVM66: Oferta en Amazon para Big Star Terry-Azul Hombre Negro  Black  
- date: 2019/05/16 18:11:58 +0000 
+ date: 2019/05/27 14:21:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Big Star Terry-Azul Hombre Negro  Black 900  W34/L30 a precio de oferta de 22.4 EUR (original: 22.4 EUR) en el siguiente enlace! 
+ Tienes Big Star Terry-Azul Hombre Negro  Black 900  W34/L30 a precio de oferta de 14.38 EUR (original: 14.38 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41yGbC21tjL.jpg) 
  

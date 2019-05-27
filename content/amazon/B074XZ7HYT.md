@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074XZ7HYT: Oferta en Amazon para edc by Esprit 117cc2f003 Camisa  Azul  N 
- date: 2019/05/16 14:10:38 +0000 
+ date: 2019/05/27 12:07:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes edc by Esprit 117cc2f003 Camisa  Azul  Navy 400   Medium para Hombre a precio de oferta de 24.25 EUR (original: 24.25 EUR) en el siguiente enlace! 
+ Tienes edc by Esprit 117cc2f003 Camisa  Azul  Navy 400   Medium para Hombre a precio de oferta de 14.11 EUR (original: 14.11 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51JlrxaumfL.jpg) 
  

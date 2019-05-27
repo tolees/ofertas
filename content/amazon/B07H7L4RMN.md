@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H7L4RMN: Oferta en Amazon para Rowenta Smart Force Essential Aqua RR697 
- date: 2019/05/16 16:03:43 +0000 
+ date: 2019/05/27 13:15:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

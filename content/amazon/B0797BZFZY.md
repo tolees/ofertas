@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0797BZFZY: Oferta en Amazon para HP Slimline 260-a110nl 1 6 GHz Intel® Pe 
- date: 2019/05/16 17:13:51 +0000 
+ date: 2019/05/27 13:04:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes HP Slimline 260-a110nl 1 6 GHz Intel® Pentium® J3710 Negro Mini Tower PC - Ordenador de sobremesa  1 6 GHz  Intel® Pentium®  8 GB  1000 GB  DVD Super Multi  Windows 10 Home  a precio de oferta de 295.4 EUR (original: 295.4 EUR) en el siguiente enlace! 
+ Tienes HP Slimline 260-a110nl 1 6 GHz Intel® Pentium® J3710 Negro Mini Tower PC - Ordenador de sobremesa  1 6 GHz  Intel® Pentium®  8 GB  1000 GB  DVD Super Multi  Windows 10 Home  a precio de oferta de 353.94 EUR (original: 353.94 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41dOvgQ9ZaL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00COLL2IW: Oferta en Amazon para Robot Builder articulado a coleccionable 
- date: 2019/05/16 14:27:28 +0000 
+ date: 2019/05/23 13:59:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

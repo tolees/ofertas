@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004GFWBFW: Oferta en Amazon para POP! Vinilo - Horror: Michael Myers 
- date: 2019/02/06 21:22:13 
+ date: 2019/05/26 20:55:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes POP! Vinilo - Horror: Michael Myers a precio de oferta de 8.61 EUR (original: None EUR) en el siguiente enlace! 
+ Tienes POP! Vinilo - Horror: Michael Myers a precio de oferta de 8.5 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41n0o5y3deL.jpg) 
  

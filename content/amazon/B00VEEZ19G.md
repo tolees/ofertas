@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VEEZ19G: Oferta en Amazon para JVC HA-FX10-B-E - Auriculares in-Ear  Co 
- date: 2019/05/16 17:38:26 +0000 
+ date: 2019/05/24 15:22:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

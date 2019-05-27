@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GCVZNYZ: Oferta en Amazon para AREZ -STRIX-RXVEGA56-O8G-GAMING Radeon R 
- date: 2019/05/16 15:00:43 +0000 
+ date: 2019/05/24 15:54:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

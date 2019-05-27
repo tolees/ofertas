@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CTRNB6R: Oferta en Amazon para Under Armour Lockdown 3  Zapatos de Balo 
- date: 2019/05/16 13:26:27 +0000 
+ date: 2019/05/24 19:20:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   44 EU a precio de oferta de 36.26 EUR (original: 70 EUR) en el siguiente enlace! 
+ Tienes Under Armour Lockdown 3  Zapatos de Baloncesto para Hombre  Rojo  Red/Mod Gray/Black 600   44 EU a precio de oferta de 29.68 EUR (original: 70 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41avF58tTLL.jpg) 
  

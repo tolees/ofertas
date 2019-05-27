@@ -1,0 +1,16 @@
+--- 
+ layout: post 
+ title: B01NB0GV0W: Oferta en Amazon para Tracy s Dog Lubricante Intimo a Base de  
+ date: 2019/05/24 19:02:23 +0000 
+ comments: true 
+ tags: amazon 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes Tracy s Dog Lubricante Intimo a Base de Agua - 300 ml a precio de oferta de 9.99 EUR (original: 9.99 EUR) en el siguiente enlace! 
+ 
+ ![](https://images-eu.ssl-images-amazon.com/images/I/31mXZvwE%2BpL.jpg) 
+ 
+ [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01NB0GV0W/?tag=redken-21)

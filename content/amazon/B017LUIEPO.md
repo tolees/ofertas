@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B017LUIEPO: Oferta en Amazon para Ted Baker Irron3  Zapatos de Cordones De 
- date: 2019/05/16 15:17:43 +0000 
+ date: 2019/05/26 21:01:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Ted Baker Irron3  Zapatos de Cordones Derby para Hombre  Marrón  Tan   44 EU a precio de oferta de 70.9 EUR (original: 70.9 EUR) en el siguiente enlace! 
+ Tienes Ted Baker Irron3  Zapatos de Cordones Derby para Hombre  Marrón  Tan   44 EU a precio de oferta de 62.71 EUR (original: 62.71 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41agVSyRLBL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KUJ1VMG: Oferta en Amazon para Beurer EM49 - Electroestimulador digital 
- date: 2019/05/16 17:46:41 +0000 
+ date: 2019/05/27 11:17:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
