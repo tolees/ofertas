@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B071L1KDVB: Oferta en Amazon para LG 29UM59A-P - Monitor UltraWide de 29"  
- date: 2019/05/26 15:19:18 +0000 
+ title: B071L1KDVB: Oferta en Amazon para LG 29UM59A-P - Monitor Profesional Ultra 
+ date: 2019/05/30 09:01:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LG 29UM59A-P - Monitor UltraWide de 29"  2560 x 1080 pixeles  UltraPanorámico  IPS  21:9  250 cd/m²  1000:1  5 ms  75 Hz  USB Tipo-C  FreeSync  DAS  Color Negro a precio de oferta de 189.01 EUR (original: 259 EUR) en el siguiente enlace! 
+ Tienes LG 29UM59A-P - Monitor Profesional UltraWide FHD de 73 7 cm  29"  con Panel IPS  2560 x 1080 píxeles  21:9  250 cd/m²  sRGB >99%  1000:1  5 ms  75 Hz  Color Negro a precio de oferta de 165.22 EUR (original: 259 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41A0A1wZicL.jpg) 
  

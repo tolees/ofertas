@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00V5LSJ8S: Oferta en Amazon para Kempa Emotion Cazadora con Capucha  Homb 
- date: 2019/05/26 20:15:54 +0000 
+ date: 2019/05/30 09:32:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

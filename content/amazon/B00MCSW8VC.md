@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MCSW8VC: Oferta en Amazon para Remington Pro Ion S7710 - Plancha de Pel 
- date: 2019/05/24 19:30:37 +0000 
+ date: 2019/05/31 06:30:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

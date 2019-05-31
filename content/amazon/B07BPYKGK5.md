@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BPYKGK5: Oferta en Amazon para Altavoz Inalambrica Bluetooth  Estereo   
- date: 2019/05/24 16:56:26 +0000 
+ date: 2019/05/30 12:31:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

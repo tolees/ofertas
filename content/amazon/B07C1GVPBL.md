@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C1GVPBL: Oferta en Amazon para MayFlow - Zapatillas de Running de Lona  
- date: 2019/05/23 13:02:38 +0000 
+ date: 2019/05/30 23:12:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes MayFlow - Zapatillas de Running de Lona para Hombre  Color Naranja  Talla 42 5 EU a precio de oferta de 18.52 EUR (original: 18.52 EUR) en el siguiente enlace! 
+ Tienes MayFlow - Zapatillas de Running de Lona para Hombre  Color Naranja  Talla 42 5 EU a precio de oferta de 18.3 EUR (original: 18.3 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51GOoePCVCL.jpg) 
  

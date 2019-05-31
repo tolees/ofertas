@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015CH1NAQ: Oferta en Amazon para SanDisk Ultra Flair - Memoria Flash USB  
- date: 2019/05/26 17:34:35 +0000 
+ date: 2019/05/31 08:05:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

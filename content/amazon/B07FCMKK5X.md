@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FCMKK5X: Oferta en Amazon para SanDisk Extreme - Tarjeta de memoria mic 
- date: 2019/05/24 14:48:54 +0000 
+ date: 2019/05/31 08:32:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0792TFXLD: Oferta en Amazon para Geox U Brandled A  Botas Chelsea para Ho 
- date: 2019/05/23 13:57:53 +0000 
+ date: 2019/05/31 08:19:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Geox U Brandled A  Botas Chelsea para Hombre   Coffee C6009   44 EU a precio de oferta de 55.35 EUR (original: 55.35 EUR) en el siguiente enlace! 
+ Tienes Geox U Brandled A  Botas Chelsea para Hombre   Coffee C6009   44 EU a precio de oferta de 37.91 EUR (original: 37.91 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31qCe2KriuL.jpg) 
  

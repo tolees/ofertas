@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H7C8HMZ: Oferta en Amazon para HP Pavilion 600 - Auriculares Gaming  So 
- date: 2019/05/27 11:17:00 +0000 
+ date: 2019/05/30 19:04:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

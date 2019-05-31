@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07GF9KW7P: Oferta en Amazon para SKAVIJ Hombres Kurta Vestido Largo con B 
- date: 2019/05/26 18:09:29 +0000 
+ title: B07GF9KW7P: Oferta en Amazon para SKAVIJ Hombre Túnica Camisa Casual De Ma 
+ date: 2019/05/31 06:13:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SKAVIJ Hombres Kurta Vestido Largo con Botones Informal de algodón de Manga Larga Camisa Kurta a precio de oferta de 21.5 EUR (original: 21.5 EUR) en el siguiente enlace! 
+ Tienes SKAVIJ Hombre Túnica Camisa Casual De Manga Larga De Algodón Kurta Negro M a precio de oferta de 24 EUR (original: 24 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31Bh9vtWNBL.jpg) 
  

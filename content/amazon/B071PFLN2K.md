@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071PFLN2K: Oferta en Amazon para Quttin Cuchillo Santoku  Acero Inoxidabl 
- date: 2019/05/24 19:16:19 +0000 
+ date: 2019/05/31 08:15:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

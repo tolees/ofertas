@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DMB1FWQ: Oferta en Amazon para Anthem 
- date: 2019/05/16 18:35:49 +0000 
+ date: 2019/05/31 07:21:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Anthem a precio de oferta de 31.42 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Tienes Anthem a precio de oferta de 28.14 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51yqfZdpMKL.jpg) 
  

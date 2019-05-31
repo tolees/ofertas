@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GS5GV9F: Oferta en Amazon para Rotuladores de Pintura Acrílica  Keten 1 
- date: 2019/05/23 09:22:14 +0000 
+ date: 2019/05/31 07:31:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

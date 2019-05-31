@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B012C1HBHO: Oferta en Amazon para PRASACCO Mochila de Lona Retro para Homb 
- date: 2019/05/27 10:06:08 +0000 
+ date: 2019/05/30 09:06:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes PRASACCO Mochila de Lona Retro para Hombres  Bolsa para Computadora Portátil Mochila Escolar Impermeable de 15.6 Pulgadas con Puerto de Carga USB  Bolsa de Viaje Antirrobo  Bolsa para Excursiones a precio de oferta de 27.99 EUR (original: 27.99 EUR) en el siguiente enlace! 
+ Tienes PRASACCO Mochila de Lona Retro para Hombres  Bolsa para Computadora Portátil Mochila Escolar Impermeable de 15.6 Pulgadas con Puerto de Carga USB  Bolsa de Viaje Antirrobo  Bolsa para Excursiones a precio de oferta de 39.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51vLHjObDuL.jpg) 
  

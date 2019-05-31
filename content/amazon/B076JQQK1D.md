@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076JQQK1D: Oferta en Amazon para Samsung Gear Sport - Smartwatch  1.2"  T 
- date: 2019/05/24 20:41:35 +0000 
+ date: 2019/05/31 07:20:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Samsung Gear Sport - Smartwatch  1.2"  Tizen  768 MB de RAM  Memoria Interna de 4 GB   Color Negro- Versión española a precio de oferta de 163.85 EUR (original: 349 EUR) en el siguiente enlace! 
+ Tienes Samsung Gear Sport - Smartwatch  1.2"  Tizen  768 MB de RAM  Memoria Interna de 4 GB   Color Negro- Versión española a precio de oferta de 159 EUR (original: 349 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/412wXllvX3L.jpg) 
  

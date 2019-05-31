@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D9RMB5Y: Oferta en Amazon para Adidas RUN70S  Zapatillas de Running par 
- date: 2019/05/27 10:14:27 +0000 
+ date: 2019/05/31 05:03:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Adidas RUN70S  Zapatillas de Running para Hombre  Gris Three F17/Ftwr White One F17 Grey  45 EU a precio de oferta de 32.17 EUR (original: 69.95 EUR) en el siguiente enlace! 
+ Tienes Adidas RUN70S  Zapatillas de Running para Hombre  Gris Three F17/Ftwr White One F17 Grey  45 EU a precio de oferta de 27.5 EUR (original: 69.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41b49eSwGeL.jpg) 
  

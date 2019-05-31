@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CWL6CJL: Oferta en Amazon para New Look Riley Abrigo Impermeable  Beige 
- date: 2019/05/24 14:09:44 +0000 
+ date: 2019/05/31 08:06:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Look Riley Abrigo Impermeable  Beige  Stone 16   Medium para Hombre a precio de oferta de 15 EUR (original: 15 EUR) en el siguiente enlace! 
+ Tienes New Look Riley Abrigo Impermeable  Beige  Stone 16   Medium para Hombre a precio de oferta de 13.87 EUR (original: 13.87 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/410tAvSzTSL.jpg) 
  

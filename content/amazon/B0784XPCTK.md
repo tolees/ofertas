@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0784XPCTK: Oferta en Amazon para NUDIE JEANS Lean Dean Vaqueros Slim  Neg 
- date: 2019/05/16 13:58:31 +0000 
+ date: 2019/05/30 08:22:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

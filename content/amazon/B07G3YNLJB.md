@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G3YNLJB: Oferta en Amazon para Crucial BX500 CT240BX500SSD1 - Disco Dur 
- date: 2019/05/24 16:22:54 +0000 
+ date: 2019/05/30 21:23:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

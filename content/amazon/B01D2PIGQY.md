@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01D2PIGQY: Oferta en Amazon para LG PH550G - Proyector Minibeam Portátil  
- date: 2019/05/26 18:03:27 +0000 
+ date: 2019/05/30 09:49:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

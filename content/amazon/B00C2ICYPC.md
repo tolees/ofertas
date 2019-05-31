@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00C2ICYPC: Oferta en Amazon para TP-Link TL-WPA4220 KIT - 2 Adaptadores d 
- date: 2019/05/26 15:22:04 +0000 
+ date: 2019/05/30 08:09:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes TP-Link TL-WPA4220 KIT - 2 Adaptadores de Comunicación por Línea Eléctrica  WiFi AV 600 Mbps  PLC con WiFi  Extensor  Repetidores de Red  Amplificador y Cobertura Internet  3 Puertos  Cable Ethernet  a precio de oferta de 49.99 EUR (original: 79.9 EUR) en el siguiente enlace! 
+ Tienes TP-Link TL-WPA4220 KIT - 2 Adaptadores de Comunicación por Línea Eléctrica  WiFi AV 600 Mbps  PLC con WiFi  Extensor  Repetidores de Red  Amplificador y Cobertura Internet  3 Puertos  Cable Ethernet  a precio de oferta de 42.99 EUR (original: 79.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wnYbKoN5L.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MVVVCSL: Oferta en Amazon para Pringles  Patata de bolsa  Jamón  - 200  
- date: 2019/05/26 16:47:09 +0000 
+ date: 2019/05/30 09:49:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

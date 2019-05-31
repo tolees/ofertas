@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074QWK8VH: Oferta en Amazon para Grundig DSB 950 Inalámbrico y alámbrico  
- date: 2019/05/24 16:48:40 +0000 
+ date: 2019/05/30 21:16:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Grundig DSB 950 Inalámbrico y alámbrico 2.0channels 40W Blanco Altavoz soundbar - Barra de Sonido  2.0 Canales  40 W  40 W  Inalámbrico y alámbrico  A2DP  100 - 240  a precio de oferta de 84.18 EUR (original: 84.18 EUR) en el siguiente enlace! 
+ Tienes Grundig DSB 950 Inalámbrico y alámbrico 2.0channels 40W Blanco Altavoz soundbar - Barra de Sonido  2.0 Canales  40 W  40 W  Inalámbrico y alámbrico  A2DP  100 - 240  a precio de oferta de 82.92 EUR (original: 82.92 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/210b6MTtVpL.jpg) 
  

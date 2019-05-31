@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CHCXZGL: Oferta en Amazon para AX BOXING Zapatillas Hombres Deporte Run 
- date: 2019/05/23 12:23:10 +0000 
+ date: 2019/05/30 11:01:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  41 EU  A8178-Azul  a precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Tienes AX BOXING Zapatillas Hombres Deporte Running Sneakers Zapatos para Correr Gimnasio Deportivas Padel Transpirables Casual 40-46  41 EU  A8178-Azul  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Nt7qQC6KL.jpg) 
  

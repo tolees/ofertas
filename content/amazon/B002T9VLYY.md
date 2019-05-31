@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B002T9VLYY: Oferta en Amazon para Sioux Carol  Mocasines para Hombre  Negr 
- date: 2019/05/24 19:00:32 +0000 
+ date: 2019/05/30 11:37:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Sioux Carol  Mocasines para Hombre  Negro  50 EU a precio de oferta de 46.65 EUR (original: 46.65 EUR) en el siguiente enlace! 
+ Tienes Sioux Carol  Mocasines para Hombre  Negro  50 EU a precio de oferta de 39.35 EUR (original: 39.35 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/410GODuIo8L.jpg) 
  

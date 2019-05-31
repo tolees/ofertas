@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06VVNXL2P: Oferta en Amazon para REK69|#Red Tape Checkley  Zapatos de Cor 
- date: 2019/05/26 21:36:25 +0000 
+ date: 2019/05/31 07:42:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

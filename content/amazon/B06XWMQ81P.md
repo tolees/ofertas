@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XWMQ81P: Oferta en Amazon para SanDisk Extreme - Tarjeta de memoria 32G 
- date: 2019/05/27 11:22:56 +0000 
+ date: 2019/05/30 19:32:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

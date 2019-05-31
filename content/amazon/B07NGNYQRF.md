@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NGNYQRF: Oferta en Amazon para Medion P6705 - Ordenador portátil 15 6"  
- date: 2019/05/27 11:15:23 +0000 
+ date: 2019/05/30 19:24:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

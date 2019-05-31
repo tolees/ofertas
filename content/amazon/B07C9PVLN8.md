@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C9PVLN8: Oferta en Amazon para Transcend USD300S - Tarjeta microSD de 1 
- date: 2019/05/17 00:17:10 +0000 
+ date: 2019/05/31 07:09:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

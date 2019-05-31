@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BLDTWW1: Oferta en Amazon para LEGO Ideas - Voltron  21311   Exclusivo  
- date: 2019/05/26 22:28:52 +0000 
+ date: 2019/05/31 03:39:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO Ideas - Voltron  21311   Exclusivo de Amazon y LEGO  a precio de oferta de 136.7 EUR (original: 189.99 EUR) en el siguiente enlace! 
+ Tienes LEGO Ideas - Voltron  21311   Exclusivo de Amazon y LEGO  a precio de oferta de 141.77 EUR (original: 189.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51Cxl%2B9alLL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078NKTCXZ: Oferta en Amazon para Merrell Thermo Freeze Mid WP  Botas de S 
- date: 2019/05/26 19:13:05 +0000 
+ date: 2019/05/30 22:15:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Merrell Thermo Freeze Mid WP  Botas de Senderismo para Hombre  Negro Black  43.5 EU a precio de oferta de 66.24 EUR (original: 190 EUR) en el siguiente enlace! 
+ Tienes Merrell Thermo Freeze Mid WP  Botas de Senderismo para Hombre  Negro Black  43.5 EU a precio de oferta de 66.49 EUR (original: 190 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41QtrSXZrJL.jpg) 
  

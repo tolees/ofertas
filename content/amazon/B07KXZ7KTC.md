@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KXZ7KTC: Oferta en Amazon para P Prettyia Materiales Respetuosos con Me 
- date: 2019/05/17 05:24:50 +0000 
+ date: 2019/05/31 06:27:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes P Prettyia Materiales Respetuosos con Medio Ambiente  Diseño de Pantalla LCD de 1.77     Mini Cámara de Acción Niños a precio de oferta de 23.98 EUR (original: 43.16 EUR) en el siguiente enlace! 
+ Tienes P Prettyia Materiales Respetuosos con Medio Ambiente  Diseño de Pantalla LCD de 1.77     Mini Cámara de Acción Niños a precio de oferta de 23.65 EUR (original: 42.57 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ZYa37lDJL.jpg) 
  

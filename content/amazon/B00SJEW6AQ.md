@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00SJEW6AQ: Oferta en Amazon para Piku 6227  Silla de coche grupo 2/3  azu 
- date: 2019/05/24 18:08:30 +0000 
+ date: 2019/05/30 08:31:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

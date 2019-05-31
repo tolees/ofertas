@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GPSD2JF: Oferta en Amazon para Xiaomi Mi A2 Lite - Smartphone Dual SIM  
- date: 2019/05/16 18:03:50 +0000 
+ date: 2019/05/31 02:04:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Xiaomi Mi A2 Lite - Smartphone Dual SIM de 5.84"  Octa-Core 2.0 GHz  RAM de 4 GB  memoria de 64 GB  cámara dual de 12+5 MP  Android  color negro [versión española] a precio de oferta de 155.9 EUR (original: 229 EUR) en el siguiente enlace! 
+ Tienes Xiaomi Mi A2 Lite - Smartphone Dual SIM de 5.84"  Octa-Core 2.0 GHz  RAM de 4 GB  memoria de 64 GB  cámara dual de 12+5 MP  Android  color negro [versión española] a precio de oferta de 165.22 EUR (original: 229 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31Tfvo2iuNL.jpg) 
  
