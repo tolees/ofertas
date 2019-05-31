@@ -92,7 +92,7 @@ LOAD_CONTENT_CACHE = False
 PLUGIN_PATHS = ['plugins']
 
 PLUGINS = ['sitemap', 'extract_toc', 'tipue_search', 'liquid_tags.img',
-           'neighbors', 'render_math', 'related_posts', 'share_post',
+           'render_math', 'share_post',
            'series', 'assets', 'post_stats', 'revealmd']
 
            # 'better_codeblock_line_numbering'
