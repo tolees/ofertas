@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079FHY5CN: Oferta en Amazon para DolDer Ordenador portatil Pegatinas ¡ su 
- date: 2019/05/30 09:04:07 +0000 
+ date: 2019/05/31 15:42:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31SHuYZBYxL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B079FHY5CN/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
