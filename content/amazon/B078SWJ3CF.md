@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SWJ3CF: Oferta en Amazon para SanDisk Extreme - Portable SSD  500 GB   
- date: 2019/05/27 10:25:31 +0000 
+ date: 2019/05/31 13:44:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/511CKblEcAL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B078SWJ3CF/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

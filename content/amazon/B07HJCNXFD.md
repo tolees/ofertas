@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HJCNXFD: Oferta en Amazon para Sebago7000H00 - Docksides Portland Hombr 
- date: 2019/05/26 18:42:59 +0000 
+ date: 2019/05/31 13:36:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41KvLSNPQWL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07HJCNXFD/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

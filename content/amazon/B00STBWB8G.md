@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00STBWB8G: Oferta en Amazon para L Oréal Paris Men Expert Hidratante Anti 
- date: 2019/05/30 11:16:56 +0000 
+ date: 2019/05/31 13:06:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41A3pF6FhkL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00STBWB8G/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

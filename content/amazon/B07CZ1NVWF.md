@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CZ1NVWF: Oferta en Amazon para HEOYSN Trípode para Movil  Trípode Flexi 
- date: 2019/05/30 10:43:12 +0000 
+ date: 2019/05/31 10:44:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51b0dz1HqEL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07CZ1NVWF/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

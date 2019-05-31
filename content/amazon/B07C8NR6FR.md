@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C8NR6FR: Oferta en Amazon para Philips 65PUS6523/12 - Smart TV 4K  3840 
- date: 2019/05/27 09:38:32 +0000 
+ date: 2019/05/31 11:30:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41YhtkBMs-L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07C8NR6FR/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

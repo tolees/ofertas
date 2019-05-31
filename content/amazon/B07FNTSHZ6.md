@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNTSHZ6: Oferta en Amazon para LEGO Disney Princess - Castillo en la Co 
- date: 2019/05/30 09:38:07 +0000 
+ date: 2019/05/31 15:20:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51evwuRKozL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07FNTSHZ6/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

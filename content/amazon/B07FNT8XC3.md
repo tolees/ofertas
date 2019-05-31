@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNT8XC3: Oferta en Amazon para LEGO Minecraft - La Aventura del Barco P 
- date: 2019/05/30 09:38:42 +0000 
+ date: 2019/05/31 15:21:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51J6wlecYTL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07FNT8XC3/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

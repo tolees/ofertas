@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GBP8MMT: Oferta en Amazon para Auriculares Bluetooth  ENACFIRE E18 Auri 
- date: 2019/05/24 14:46:56 +0000 
+ date: 2019/05/31 14:18:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/410AKM%2BOq6L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07GBP8MMT/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

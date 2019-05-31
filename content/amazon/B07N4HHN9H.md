@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N4HHN9H: Oferta en Amazon para Medion Akoya E23401 All-in-One - Ordenad 
- date: 2019/05/30 09:39:05 +0000 
+ date: 2019/05/31 14:38:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41XpxLSJJXL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07N4HHN9H/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

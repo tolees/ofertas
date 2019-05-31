@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073RPZGGM: Oferta en Amazon para Helly Hansen Salt Power - Chaqueta para  
- date: 2019/05/27 11:57:58 +0000 
+ date: 2019/05/31 13:09:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Zhsi30r6L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B073RPZGGM/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077V5WFXY: Oferta en Amazon para Maru Astro Jammer – Multi  Multicoloured 
- date: 2019/05/16 19:17:20 +0000 
+ date: 2019/05/31 11:34:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41pH6%2Bv9OUL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B077V5WFXY/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

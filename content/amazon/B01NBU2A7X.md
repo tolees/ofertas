@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NBU2A7X: Oferta en Amazon para Funda Camara Reflex Andoer Bolsa Protect 
- date: 2019/05/30 08:40:52 +0000 
+ date: 2019/05/31 12:33:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51-nJdip7CL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01NBU2A7X/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

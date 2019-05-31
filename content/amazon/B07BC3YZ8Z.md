@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BC3YZ8Z: Oferta en Amazon para Philips OneBlade Pro QP6510/64 - Pack de 
- date: 2019/05/30 13:15:07 +0000 
+ date: 2019/05/31 13:47:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ATIrqpZ%2BL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07BC3YZ8Z/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

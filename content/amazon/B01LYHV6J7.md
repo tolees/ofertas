@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LYHV6J7: Oferta en Amazon para Olympus PEN E-PL8 - Cámara de 16 MP  pan 
- date: 2019/05/23 12:19:53 +0000 
+ date: 2019/05/31 15:17:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51H-lhr0qBL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01LYHV6J7/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

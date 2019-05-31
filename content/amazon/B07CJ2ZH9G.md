@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CJ2ZH9G: Oferta en Amazon para Panasonic SC-HC200EG-W - Microcadena com 
- date: 2019/05/30 13:18:10 +0000 
+ date: 2019/05/31 13:31:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![]() 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07CJ2ZH9G/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

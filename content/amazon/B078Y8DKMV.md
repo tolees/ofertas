@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078Y8DKMV: Oferta en Amazon para CASIO MTPV005D-1B 
- date: 2019/05/26 15:13:08 +0000 
+ date: 2019/05/31 11:38:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/5136e2krrJL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B078Y8DKMV/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

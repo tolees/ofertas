@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GHYZ9G: Oferta en Amazon para LEGO Star Wars - AT-ST de la Primera Ord 
- date: 2019/05/27 11:03:50 +0000 
+ date: 2019/05/31 10:51:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51iE02VrQpL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B075GHYZ9G/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

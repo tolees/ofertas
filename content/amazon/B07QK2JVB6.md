@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QK2JVB6: Oferta en Amazon para Columbia Zero Rules Short Sleeve Shirt C 
- date: 2019/05/26 17:33:11 +0000 
+ date: 2019/05/31 13:07:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31LG6Nkj1GL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07QK2JVB6/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
