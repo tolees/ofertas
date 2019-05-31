@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CJ7FXTN: Oferta en Amazon para Panasonic SC-HC200 Home Audio Micro Syst 
- date: 2019/05/30 09:06:43 +0000 
+ date: 2019/05/31 09:18:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![]() 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07CJ7FXTN/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

@@ -14,3 +14,4 @@
  ![](http://images.amazon.com/images/P/B01LZB5KZP.01._PI_SCMZZZZZZZ_.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01LZB5KZP/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

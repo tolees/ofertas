@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DUWAA7W: Oferta en Amazon para Circulo Rojo Bollería - 152 gr 
- date: 2019/05/26 20:02:19 +0000 
+ date: 2019/05/31 09:41:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qDLSK9atL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01DUWAA7W/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
