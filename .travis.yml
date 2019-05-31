@@ -18,7 +18,6 @@ before_install:
 
 script:
 - travis_wait 30 make html
-- travis_wait 30 make publish
 
 after_success:
 - cp README.md output/
