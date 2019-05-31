@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BHS0R2O: Oferta en Amazon para Oral-B Oxyjet Sistema de Limpieza Irriga 
- date: 2019/05/27 10:10:53 +0000 
+ date: 2019/05/31 09:54:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41o%2BxewgxHL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01BHS0R2O/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

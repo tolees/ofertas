@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes DUAL Pro L-Carnitina | 100 Cápsulas Veganas De Dosis Alta | 500 Mg De L- Carnitina Por Cápsula | Suplemento Dietético 100% Natural Sin Aditivos| Certificado Por Laboratorio | Fabricado En La UE a precio de oferta de None None (original: None None) en el siguiente enlace! 
+ Tienes DUAL Pro L-Carnitina | 100 Cápsulas Veganas De Dosis Alta | 500 Mg De L- Carnitina Por Cápsula | Suplemento Dietético 100% Natural Sin Aditivos| Certificado Por Laboratorio | Fabricado En La UE a precio de oferta de 14.9 EUR (original: 14.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41EweQe7c2L.jpg) 
  

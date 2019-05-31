@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00AH8OR2M: Oferta en Amazon para SONGMICS Baúl Puff Taburete para almacen 
- date: 2019/05/24 17:55:29 +0000 
+ date: 2019/05/31 10:02:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31Z2VNm18aL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00AH8OR2M/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

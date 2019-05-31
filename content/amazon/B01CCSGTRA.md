@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CCSGTRA: Oferta en Amazon para Lote de 18 unidades  adhesivos reflectan 
- date: 2019/05/16 18:18:54 +0000 
+ date: 2019/05/31 10:31:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51FesZEkLpL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01CCSGTRA/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

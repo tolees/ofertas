@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079V6MGSW: Oferta en Amazon para Padders Solar  Mocasines para Hombre   D 
- date: 2019/05/30 09:22:13 +0000 
+ date: 2019/05/31 09:53:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31VivRlcp4L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B079V6MGSW/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

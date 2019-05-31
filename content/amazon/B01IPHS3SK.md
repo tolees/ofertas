@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IPHS3SK: Oferta en Amazon para Persil Handwash Bio lavado Polvo Lavado  
- date: 2019/05/24 15:54:23 +0000 
+ date: 2019/05/31 10:09:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51NGxef0B2L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01IPHS3SK/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

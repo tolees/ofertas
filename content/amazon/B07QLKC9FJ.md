@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QLKC9FJ: Oferta en Amazon para Mini Proyector ELEPHAS  Proyector LED po 
- date: 2019/05/27 14:03:47 +0000 
+ date: 2019/05/31 10:13:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41GjMepl2YL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07QLKC9FJ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

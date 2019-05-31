@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XTRG8V3: Oferta en Amazon para Nenuco Leche Hidratante para Bebé Fragan 
- date: 2019/05/30 09:09:05 +0000 
+ date: 2019/05/31 10:17:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51k%2BhmEvI3L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06XTRG8V3/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

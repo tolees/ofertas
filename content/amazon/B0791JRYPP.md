@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0791JRYPP: Oferta en Amazon para Adidas Copa Tango 18.3  Zapatillas de fú 
- date: 2019/05/16 13:22:32 +0000 
+ date: 2019/05/31 10:34:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41SmAZ5evIL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B0791JRYPP/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
