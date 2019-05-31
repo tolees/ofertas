@@ -17,11 +17,11 @@ before_install:
 - peru sync
 
 script:
-- travis_wait 30 make html
+- make html
 
 after_success:
 - cp README.md output/
 - mv *.png output/
 - sed -i "s#https://github.com#https://${GHTOKEN}@github.com#g" .git/config
 - sed -i "s#git@github.com:#https://${GHTOKEN}@github.com/#g" .git/config
-- travis_wait 30 make github
+- make github
