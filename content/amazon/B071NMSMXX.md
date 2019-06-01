@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071NMSMXX: Oferta en Amazon para s.Oliver 13709613791  Jersey para Hombre 
- date: 2019/05/30 12:30:25 +0000 
+ date: 2019/06/01 12:10:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes s.Oliver 13709613791  Jersey para Hombre  Gris  Blend Grey 97G0  Medium a precio de oferta de 23.01 EUR (original: 23.01 EUR) en el siguiente enlace! 
+ Tienes s.Oliver 13709613791  Jersey para Hombre  Gris  Blend Grey 97G0  Medium a precio de oferta de 21.13 EUR (original: 21.13 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/511-Mal0qsL.jpg) 
  

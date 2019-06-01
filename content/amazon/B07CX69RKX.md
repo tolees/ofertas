@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CX69RKX: Oferta en Amazon para Tarjeta Regalo Amazon.es - €50  Estuche  
- date: 2019/05/26 20:38:54 +0000 
+ date: 2019/06/01 13:25:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

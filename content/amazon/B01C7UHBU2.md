@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01C7UHBU2: Oferta en Amazon para Disney hombre Mickey Mouse Classic Kick  
- date: 2019/05/23 10:28:41 +0000 
+ date: 2019/06/01 11:44:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Disney hombre Mickey Mouse Classic Kick Camisa de entrenamiento Medium Blanco a precio de oferta de 22.25 EUR (original: 22.25 EUR) en el siguiente enlace! 
+ Tienes Disney hombre Mickey Mouse Classic Kick Camisa de entrenamiento Medium Blanco a precio de oferta de 22.11 EUR (original: 22.11 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41FrzrgrdeL.jpg) 
  

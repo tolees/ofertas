@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06W9M1PQC: Oferta en Amazon para El Ganso Cuello Italiano Slim Fit Rayas  
- date: 2019/05/30 09:39:55 +0000 
+ date: 2019/06/01 13:46:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes El Ganso Cuello Italiano Slim Fit Rayas Mas Topitos Camisa Casual  39 para Hombre a precio de oferta de 29.6 EUR (original: 29.6 EUR) en el siguiente enlace! 
+ Tienes El Ganso Cuello Italiano Slim Fit Rayas Mas Topitos Camisa Casual  39 para Hombre a precio de oferta de 26.74 EUR (original: 26.74 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Pu6fo--bL.jpg) 
  

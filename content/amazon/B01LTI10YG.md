@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LTI10YG: Oferta en Amazon para NESCAFÉ Dolce Gusto Café con Leche  Pack 
- date: 2019/05/31 09:24:05 +0000 
+ date: 2019/06/01 12:13:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](http://images.amazon.com/images/P/B01LTI10YG.01._PI_SCMZZZZZZZ_.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01LTI10YG/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

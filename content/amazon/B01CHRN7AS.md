@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CHRN7AS: Oferta en Amazon para Pata Negra Reserva D.O Valdepeñas. Vino  
- date: 2019/05/31 12:32:38 +0000 
+ date: 2019/06/01 13:02:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/513TygcBu1L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01CHRN7AS/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

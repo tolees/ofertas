@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00EPGIEUS: Oferta en Amazon para Vision XL Pro - Protector para Pala  3 U 
- date: 2019/05/23 14:23:27 +0000 
+ date: 2019/06/01 13:16:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
