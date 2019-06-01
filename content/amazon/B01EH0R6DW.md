@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EH0R6DW: Oferta en Amazon para AUKEY Quick Charge 3.0 Cargador USB 60W  
- date: 2019/05/26 16:57:11 +0000 
+ date: 2019/06/01 09:56:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

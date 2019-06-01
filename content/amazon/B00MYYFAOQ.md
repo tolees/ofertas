@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MYYFAOQ: Oferta en Amazon para Plantronics BackBeat Pro - Auriculares d 
- date: 2019/05/30 11:45:19 +0000 
+ date: 2019/06/01 06:35:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Plantronics BackBeat Pro - Auriculares de Diadema Cerrados  Color Negro a precio de oferta de 278.79 EUR (original: 327.5 EUR) en el siguiente enlace! 
+ Tienes Plantronics BackBeat Pro - Auriculares de Diadema Cerrados  Color Negro a precio de oferta de 287.15 EUR (original: 327.5 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41iJsRVXixL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D7LHGSG: Oferta en Amazon para Art Grass  Botas Clasicas para Hombre  M 
- date: 2019/05/23 12:41:52 +0000 
+ date: 2019/06/01 09:14:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Art Grass  Botas Clasicas para Hombre  Marrón Cuero  45 EU a precio de oferta de 63.98 EUR (original: 63.98 EUR) en el siguiente enlace! 
+ Tienes Art Grass  Botas Clasicas para Hombre  Marrón Cuero  45 EU a precio de oferta de 58.89 EUR (original: 58.89 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/417ejoy9BqL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GVFZHD6: Oferta en Amazon para Tensphy Fotografía Triangular Prisma Ópt 
- date: 2019/05/30 13:07:11 +0000 
+ date: 2019/06/01 09:21:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

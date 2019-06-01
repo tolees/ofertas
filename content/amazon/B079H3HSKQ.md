@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079H3HSKQ: Oferta en Amazon para Timberland Sunapee Lake Block  Bañador p 
- date: 2019/05/24 19:54:31 +0000 
+ date: 2019/06/01 08:28:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Timberland Sunapee Lake Block  Bañador para Hombre  Azul  Nebulas Blue J45   Small a precio de oferta de 21.36 EUR (original: 21.36 EUR) en el siguiente enlace! 
+ Tienes Timberland Sunapee Lake Block  Bañador para Hombre  Azul  Nebulas Blue J45   Small a precio de oferta de 18 EUR (original: 18 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41dfWpcG-LL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P6WFBXJ: Oferta en Amazon para Edwaybuy Xiaomi Mi 9 Smartphones 6.39    
- date: 2019/05/31 08:36:23 +0000 
+ date: 2019/06/01 08:45:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41pyxIem2ML.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07P6WFBXJ/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

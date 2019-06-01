@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ALTEQD6: Oferta en Amazon para BenQ MS527 - Proyector DLP 3D  SVGA  330 
- date: 2019/05/30 12:07:26 +0000 
+ date: 2019/06/01 08:24:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

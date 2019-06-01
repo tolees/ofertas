@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KUJ1VMG: Oferta en Amazon para Beurer EM49 - Electroestimulador digital 
- date: 2019/05/27 11:17:27 +0000 
+ date: 2019/06/01 08:56:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular y el fortalecimiento muscular  masaje  EMS  TENS  pantalla LCD azul  2 Canales  4 electrodos autoadhesivos  color blanco a precio de oferta de 54.95 EUR (original: 69.9 EUR) en el siguiente enlace! 
+ Tienes Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular y el fortalecimiento muscular  masaje  EMS  TENS  pantalla LCD azul  2 Canales  4 electrodos autoadhesivos  color blanco a precio de oferta de 45.45 EUR (original: 69.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41IfPlE3Y4L.jpg) 
  

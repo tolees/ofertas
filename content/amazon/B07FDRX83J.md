@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDRX83J: Oferta en Amazon para Victure Camara Deportiva 4k WiFi 16MP Im 
- date: 2019/05/23 10:59:29 +0000 
+ date: 2019/06/01 07:00:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

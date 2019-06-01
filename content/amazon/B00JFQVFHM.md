@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JFQVFHM: Oferta en Amazon para Philips Optimal Temp GC8650/80 - Centro  
- date: 2019/05/31 10:55:15 +0000 
+ date: 2019/06/01 11:14:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41vW4MBTvmL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00JFQVFHM/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

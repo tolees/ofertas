@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B4DJPCC: Oferta en Amazon para Givova  chandal visa  rojo/blanco  XL 
- date: 2019/05/31 05:40:06 +0000 
+ date: 2019/06/01 06:46:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41w0MY%2BLn8L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07B4DJPCC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

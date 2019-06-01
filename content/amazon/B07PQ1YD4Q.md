@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PQ1YD4Q: Oferta en Amazon para Tableta para teléfono Android de 10.1 "  
- date: 2019/05/27 09:51:37 +0000 
+ date: 2019/06/01 07:55:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

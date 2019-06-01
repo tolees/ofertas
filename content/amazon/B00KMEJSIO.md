@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KMEJSIO: Oferta en Amazon para Under Armour Mens Matchplay Tapered Leg  
- date: 2019/05/30 20:48:45 +0000 
+ date: 2019/06/01 07:31:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41sqqjY4kCL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00KMEJSIO/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

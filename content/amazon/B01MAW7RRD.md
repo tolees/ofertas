@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MAW7RRD: Oferta en Amazon para AGPTEK M28- Metal Reproductor de MP3 16  
- date: 2019/05/27 12:16:00 +0000 
+ date: 2019/06/01 11:09:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

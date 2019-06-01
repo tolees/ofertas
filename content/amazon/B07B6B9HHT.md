@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B6B9HHT: Oferta en Amazon para HP 14-bk001ns Pavilion  - Ordenador port 
- date: 2019/05/30 23:09:34 +0000 
+ date: 2019/06/01 09:09:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51XlJ5ddC3L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07B6B9HHT/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

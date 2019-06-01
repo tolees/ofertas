@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNSH9FR: Oferta en Amazon para LEGO Ninjago - Perforadora de Cole  samu 
- date: 2019/05/24 15:28:54 +0000 
+ date: 2019/06/01 06:23:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

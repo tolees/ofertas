@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BP7QYQM: Oferta en Amazon para Wrangler Greensboro Straight Leg 2 Vaque 
- date: 2019/05/23 11:53:17 +0000 
+ date: 2019/06/01 09:55:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

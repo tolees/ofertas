@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00V5LWNV2: Oferta en Amazon para Kempa - Emotion Shirt  Color Azul  Talla 
- date: 2019/05/30 09:40:29 +0000 
+ date: 2019/06/01 08:06:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Kempa - Emotion Shirt  Color Azul  Talla XXS a precio de oferta de 16.41 EUR (original: 16.41 EUR) en el siguiente enlace! 
+ Tienes Kempa - Emotion Shirt  Color Azul  Talla XXS a precio de oferta de 14.81 EUR (original: 14.81 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31uINCkO0bL.jpg) 
  

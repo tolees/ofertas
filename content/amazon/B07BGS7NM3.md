@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BGS7NM3: Oferta en Amazon para VOYOR Afeitadora Mujer Femenina Recortad 
- date: 2019/05/16 18:20:35 +0000 
+ date: 2019/06/01 09:32:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

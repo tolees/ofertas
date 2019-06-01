@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HSFBT1I: Oferta en Amazon para Einhell GC-EL 2500 E - Aspirador-soplado 
- date: 2019/05/31 09:22:12 +0000 
+ date: 2019/06/01 09:30:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wKLBZ3lvL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01HSFBT1I/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

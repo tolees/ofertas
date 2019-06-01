@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PTW1DC6: Oferta en Amazon para Apple iPad Air - Tablet  26 7 cm  10.5"  
- date: 2019/05/31 07:08:57 +0000 
+ date: 2019/06/01 08:46:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Wq6by23fL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07PTW1DC6/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

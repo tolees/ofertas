@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNSH9G6: Oferta en Amazon para LEGO Ninjago - Moto Acuchilladora de Kai 
- date: 2019/05/26 15:42:44 +0000 
+ date: 2019/06/01 06:24:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

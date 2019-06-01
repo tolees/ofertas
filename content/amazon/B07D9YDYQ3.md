@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D9YDYQ3: Oferta en Amazon para Puma Speed Ignite Netfit 2  Zapatillas d 
- date: 2019/05/30 11:25:35 +0000 
+ date: 2019/06/01 10:07:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

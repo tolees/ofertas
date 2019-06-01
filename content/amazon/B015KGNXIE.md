@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015KGNXIE: Oferta en Amazon para Timezone Vaquero Azul W32L34 
- date: 2019/05/26 18:28:13 +0000 
+ date: 2019/06/01 09:27:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

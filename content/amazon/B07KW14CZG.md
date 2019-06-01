@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KW14CZG: Oferta en Amazon para Plancha Ropa Vapor Vertical  AICOK 1500W 
- date: 2019/05/23 08:46:00 +0000 
+ date: 2019/06/01 08:50:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

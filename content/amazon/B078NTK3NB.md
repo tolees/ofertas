@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078NTK3NB: Oferta en Amazon para OneTwoFit Barra de Gimnasio para Puerta  
- date: 2019/05/27 09:05:57 +0000 
+ date: 2019/06/01 10:22:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

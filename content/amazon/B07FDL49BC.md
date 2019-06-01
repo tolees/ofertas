@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDL49BC: Oferta en Amazon para Thomson Neo - Ordenador portátil de 10.1 
- date: 2019/05/24 14:08:34 +0000 
+ date: 2019/06/01 06:17:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Thomson Neo - Ordenador portátil de 10.1"  Atom Z3735  RAM de 1 GB  Memoria de 32 GB  Color Blanco a precio de oferta de 79.9 EUR (original:  EUR) en el siguiente enlace! 
+ Tienes Thomson Neo - Ordenador portátil de 10.1"  Atom Z3735  RAM de 1 GB  Memoria de 32 GB  Color Blanco a precio de oferta de 76.99 EUR (original: 76.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41pM92-WfNL.jpg) 
  

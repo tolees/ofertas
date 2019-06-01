@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FF4HJ2J: Oferta en Amazon para Hurley M One&Only Woven L/S Camisas  Hom 
- date: 2019/05/27 10:04:35 +0000 
+ date: 2019/06/01 07:09:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Hurley M One&Only Woven L/S Camisas  Hombre  Blue Ok  S a precio de oferta de 22.49 EUR (original: 55 EUR) en el siguiente enlace! 
+ Tienes Hurley M One&Only Woven L/S Camisas  Hombre  Blue Ok  S a precio de oferta de 17.6 EUR (original: 55 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41K0IjYtTxL.jpg) 
  

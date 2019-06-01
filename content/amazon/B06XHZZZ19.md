@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XHZZZ19: Oferta en Amazon para Kong: La Isla Calavera Blu-Ray [Blu-ray] 
- date: 2019/05/24 16:50:48 +0000 
+ date: 2019/06/01 10:09:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Kong: La Isla Calavera Blu-Ray [Blu-ray] a precio de oferta de 4 EUR (original: 19.43 EUR) en el siguiente enlace! 
+ Tienes Kong: La Isla Calavera Blu-Ray [Blu-ray] a precio de oferta de 7.99 EUR (original: 19.43 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/5165qjKlzEL.jpg) 
  

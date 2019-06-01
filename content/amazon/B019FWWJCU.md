@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019FWWJCU: Oferta en Amazon para Colore Matite n. 2 con gomma – Matite gi 
- date: 2019/05/31 09:05:42 +0000 
+ date: 2019/06/01 09:10:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51Xmh72OQFL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B019FWWJCU/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CS4TNQC: Oferta en Amazon para TerraMaster D2-310 USB Tipo C Disco Duro 
- date: 2019/05/31 06:18:03 +0000 
+ date: 2019/06/01 06:47:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51t-jNTBf-L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01CS4TNQC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

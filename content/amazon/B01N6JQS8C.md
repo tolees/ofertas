@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N6JQS8C: Oferta en Amazon para Kingston SSD A400 - Disco duro sólido  2 
- date: 2019/05/26 17:07:31 +0000 
+ date: 2019/06/01 08:44:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

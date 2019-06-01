@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07S7GPDNR: Oferta en Amazon para mymotto Refrigerador portátil de 75 litr 
- date: 2019/05/30 09:10:57 +0000 
+ date: 2019/06/01 08:29:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

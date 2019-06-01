@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HM4RD8S: Oferta en Amazon para Apple iPhone XR  de 64GB  - Azul 
- date: 2019/05/30 20:16:20 +0000 
+ date: 2019/06/01 10:27:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,9 +9,8 @@
  description: 
  --- 
  
- Tienes Apple iPhone XR  de 64GB  - Azul a precio de oferta de 709.9 EUR (original: 859 EUR) en el siguiente enlace! 
+ Tienes Apple iPhone XR  de 64GB  - Azul a precio de oferta de 699 EUR (original: 859 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qEt1KLOIL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07HM4RD8S/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

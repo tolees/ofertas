@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNMXFQG: Oferta en Amazon para LEGO Friends - Buggy y Remolque de Steph 
- date: 2019/05/30 19:50:57 +0000 
+ date: 2019/06/01 07:50:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51NqCJIa6aL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07FNMXFQG/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

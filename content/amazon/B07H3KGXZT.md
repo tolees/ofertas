@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H3KGXZT: Oferta en Amazon para Xiaomi Pocophone F1 - Smartphone Dual SI 
- date: 2019/05/16 20:01:03 +0000 
+ date: 2019/06/01 10:56:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Xiaomi Pocophone F1 - Smartphone Dual SIM de 6.18"  4G  Qualcomm Snapdragon 845 2.8 GHz  RAM de 6 GB  memoria de 64 GB  cámara dual  Android   negro  Graphite Black  - [Versión Española] a precio de oferta de 280.5 EUR (original: 280.5 EUR) en el siguiente enlace! 
+ Tienes Xiaomi Pocophone F1 - Smartphone Dual SIM de 6.18"  4G  Qualcomm Snapdragon 845 2.8 GHz  RAM de 6 GB  memoria de 64 GB  cámara dual  Android   negro  Graphite Black  - [Versión Española] a precio de oferta de 272.66 EUR (original: 272.66 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wxF-WzMFL.jpg) 
  

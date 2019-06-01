@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07F81VQKB: Oferta en Amazon para FLYCO Afeitadora Electrica Hombre FS360E 
- date: 2019/05/30 20:32:36 +0000 
+ date: 2019/06/01 10:43:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/515-H9s9V2L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07F81VQKB/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

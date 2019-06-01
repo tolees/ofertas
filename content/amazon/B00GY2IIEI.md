@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00GY2IIEI: Oferta en Amazon para Juanola Jalea Energy - 14 Viales 
- date: 2019/05/31 09:32:11 +0000 
+ date: 2019/06/01 11:16:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41XdianCUFL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00GY2IIEI/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079DDN8SZ: Oferta en Amazon para New Look Keith Tassel  Mocasines para Ho 
- date: 2019/05/31 00:21:52 +0000 
+ date: 2019/06/01 09:49:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41R2xTIkLIL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B079DDN8SZ/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

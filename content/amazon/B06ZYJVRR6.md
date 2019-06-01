@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06ZYJVRR6: Oferta en Amazon para Esprit 997ee2i801 suéter  Rojo  Dark Red 
- date: 2019/05/30 23:21:10 +0000 
+ date: 2019/06/01 09:36:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41FFSI22APL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06ZYJVRR6/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

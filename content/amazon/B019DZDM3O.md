@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019DZDM3O: Oferta en Amazon para Esterilla Puzzle de Fitness – 18 losas d 
- date: 2019/05/31 10:15:56 +0000 
+ date: 2019/06/01 10:20:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/61OpXgC9tiL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B019DZDM3O/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

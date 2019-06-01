@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00GINE3K6: Oferta en Amazon para Inversor de Corriente 12v a 220v 600w BE 
- date: 2019/05/31 10:42:09 +0000 
+ date: 2019/06/01 11:19:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51tOy3f%2BJpL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00GINE3K6/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

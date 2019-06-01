@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CHUKK9M: Oferta en Amazon para caseable - Funda para Kindle y Kindle Pa 
- date: 2019/05/26 20:13:19 +0000 
+ date: 2019/06/01 06:38:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

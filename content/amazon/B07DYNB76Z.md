@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07DYNB76Z: Oferta en Amazon para HP Gaming Pavilion 15-cx0004ns - Ordenad 
- date: 2019/02/07 10:02:34 
+ title: B07DYNB76Z: Oferta en Amazon para HP Pavilion Gaming 15-cx0004ns - Ordenad 
+ date: 2019/06/01 11:02:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes HP Gaming Pavilion 15-cx0004ns - Ordenador Portátil 15.6" FullHD  Intel Core i7-8750H  8GB RAM  256GB SSD  Nvidia GeForce GTX 1050 4GB  Windows 10  Color Negro - Teclado QWERTY Español a precio de oferta de 849.99 EUR (original: None EUR) en el siguiente enlace! 
+ Tienes HP Pavilion Gaming 15-cx0004ns - Ordenador Portátil 15.6" FullHD  Intel Core i7-8750H  8GB RAM  256GB SSD  Nvidia GeForce GTX 1050 4GB  Windows 10  Color Negro - Teclado QWERTY Español a precio de oferta de 859 EUR (original: 999.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41jovuEywKL.jpg) 
  
