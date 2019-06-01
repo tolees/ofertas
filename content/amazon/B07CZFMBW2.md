@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CZFMBW2: Oferta en Amazon para Puma Ignite Limitless 2  Zapatillas de R 
- date: 2019/05/26 21:54:59 +0000 
+ date: 2019/06/01 15:03:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41onw%2BcISPL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07CZFMBW2/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

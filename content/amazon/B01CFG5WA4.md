@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CFG5WA4: Oferta en Amazon para Kempa Bekleidung Teamsport on Fire Camis 
- date: 2019/05/27 10:39:46 +0000 
+ date: 2019/06/01 17:01:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/417MgYxg4XL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01CFG5WA4/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N6ILG7B: Oferta en Amazon para JACK & JONES Jorbadge Sweat Hood Capucha 
- date: 2019/05/31 06:30:33 +0000 
+ date: 2019/06/01 14:27:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DOJZHKQ: Oferta en Amazon para s.Oliver Chaqueta Antracita M 
- date: 2019/05/31 06:48:47 +0000 
+ date: 2019/06/01 14:29:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes s.Oliver Chaqueta Antracita M a precio de oferta de 60.65 EUR (original: 60.65 EUR) en el siguiente enlace! 
+ Tienes s.Oliver Chaqueta Antracita M a precio de oferta de 58.22 EUR (original: 58.22 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/517AtYi3mIL.jpg) 
  

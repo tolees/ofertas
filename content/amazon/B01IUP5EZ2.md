@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IUP5EZ2: Oferta en Amazon para Ultima Pienso para Perros Mini Adultos c 
- date: 2019/05/30 20:03:01 +0000 
+ date: 2019/06/01 20:03:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Ultima Pienso para Perros Mini Adultos con Pollo y Arroz a precio de oferta de 8.25 EUR (original: 10.4 EUR) en el siguiente enlace! 
+ Tienes Ultima Pienso para Perros Mini Adultos con Pollo y Arroz a precio de oferta de 7.84 EUR (original: 10.4 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41l3ClF8IfL.jpg) 
  

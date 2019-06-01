@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SP9NZM: Oferta en Amazon para Teléfono móvil con Tapa para Personas Ma 
- date: 2019/05/26 19:44:16 +0000 
+ date: 2019/06/01 15:47:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41QBdCiD-3L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B078SP9NZM/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

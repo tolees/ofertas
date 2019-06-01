@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077ZKKBBN: Oferta en Amazon para Spyder Limitless Lines - Camiseta y Cuel 
- date: 2019/05/27 10:18:49 +0000 
+ date: 2019/06/01 17:33:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/416dDn6Na9L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B077ZKKBBN/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

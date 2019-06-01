@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DQC2PXH: Oferta en Amazon para Lijadora Orbital  Tacklife 300W 6000-120 
- date: 2019/05/16 17:57:13 +0000 
+ date: 2019/06/01 18:57:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/515UqHHJKvL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07DQC2PXH/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

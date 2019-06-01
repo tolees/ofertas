@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074T2HDNN: Oferta en Amazon para Motorola Moto G5S Plus - Smartphone Libr 
- date: 2019/05/27 13:10:26 +0000 
+ date: 2019/06/01 17:29:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JaOCXQOuL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B074T2HDNN/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

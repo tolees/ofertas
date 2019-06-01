@@ -1,0 +1,17 @@
+--- 
+ layout: post 
+ title: B000TUNMW4: Oferta en Amazon para Bioderma Sebium Gel Moussant Nettoyant P 
+ date: 2019/06/01 17:04:59 +0000 
+ comments: true 
+ tags: amazon 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes Bioderma Sebium Gel Moussant Nettoyant Purifiant 200 ml a precio de oferta de 8.83 EUR (original: 14.1 EUR) en el siguiente enlace! 
+ 
+ ![](https://images-eu.ssl-images-amazon.com/images/I/41E5lQJvicL.jpg) 
+ 
+ [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B000TUNMW4/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

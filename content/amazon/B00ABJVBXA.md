@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ABJVBXA: Oferta en Amazon para Pritt Multitack  65 masillas adhesivas m 
- date: 2019/05/31 11:20:55 +0000 
+ date: 2019/06/01 14:01:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XVBKMBT: Oferta en Amazon para Mars Gaming MT0 - Pasta térmica para ord 
- date: 2019/05/31 11:20:55 +0000 
+ date: 2019/06/01 14:33:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

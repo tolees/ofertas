@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071WK9BPT: Oferta en Amazon para Bobury V07 Bluetooth Wireless Smart Wris 
- date: 2019/05/31 07:05:24 +0000 
+ date: 2019/06/01 14:22:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

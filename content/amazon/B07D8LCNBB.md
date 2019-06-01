@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D8LCNBB: Oferta en Amazon para HP 290 G2 3 7 GHz Intel® Pentium® G5400  
- date: 2019/05/31 07:36:45 +0000 
+ date: 2019/06/01 15:57:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

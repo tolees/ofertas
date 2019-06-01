@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G5FZTSJ: Oferta en Amazon para NEXGADGET Calefactor Cerámico PTC 950W C 
- date: 2019/05/24 14:59:50 +0000 
+ date: 2019/06/01 17:23:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41soW3K6lRL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07G5FZTSJ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

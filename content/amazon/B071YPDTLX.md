@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071YPDTLX: Oferta en Amazon para Ultrawhite Miele Detergente Lavadora par 
- date: 2019/05/30 10:01:52 +0000 
+ date: 2019/06/01 16:16:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B071YPDTLX/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

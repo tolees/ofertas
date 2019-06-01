@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XA3D3NU: Oferta en Amazon para Gallo Pasta Cinta 1 - 250 gr 
- date: 2019/05/31 11:20:55 +0000 
+ date: 2019/06/01 18:01:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

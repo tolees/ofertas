@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B010SOE6HK: Oferta en Amazon para Harrington Hooded Sweat Sudadera con Cap 
- date: 2019/05/26 21:16:02 +0000 
+ date: 2019/06/01 15:26:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/416VMqJCNcL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B010SOE6HK/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

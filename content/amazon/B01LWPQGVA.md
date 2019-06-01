@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LWPQGVA: Oferta en Amazon para Harrington Elvis  Abrigo para Hombre  Ne 
- date: 2019/05/30 20:28:35 +0000 
+ date: 2019/06/01 17:24:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Harrington Elvis  Abrigo para Hombre  Negro Noir  M a precio de oferta de 52.28 EUR (original: 52.28 EUR) en el siguiente enlace! 
+ Tienes Harrington Elvis  Abrigo para Hombre  Negro Noir  M a precio de oferta de 48.18 EUR (original: 48.18 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41N4fKUDunL.jpg) 
  

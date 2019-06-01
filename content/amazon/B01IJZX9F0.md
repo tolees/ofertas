@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IJZX9F0: Oferta en Amazon para Maybelline New York Master Strobing Stic 
- date: 2019/05/16 20:04:56 +0000 
+ date: 2019/06/01 16:14:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01IJZX9F0/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

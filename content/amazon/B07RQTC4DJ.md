@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RQTC4DJ: Oferta en Amazon para Auriculares inalámbricos  SoundPEATS Tru 
- date: 2019/05/30 09:55:07 +0000 
+ date: 2019/06/01 14:24:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/314XUEY8CBL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07RQTC4DJ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

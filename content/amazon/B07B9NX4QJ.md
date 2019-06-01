@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B9NX4QJ: Oferta en Amazon para Festina Reloj Cronógrafo para Hombre de  
- date: 2019/05/31 09:34:22 +0000 
+ date: 2019/06/01 19:41:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F16820/7 a precio de oferta de 72.47 EUR (original: 72.47 EUR) en el siguiente enlace! 
+ Tienes Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F16820/7 a precio de oferta de 65.41 EUR (original: 65.41 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41esX0HAs0L.jpg) 
  

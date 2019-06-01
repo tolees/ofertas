@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071CP4MPX: Oferta en Amazon para ASUS ROG Strix Radeon RX 580 OC Edition  
- date: 2019/05/30 19:52:28 +0000 
+ date: 2019/06/01 16:34:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

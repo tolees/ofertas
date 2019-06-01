@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00GHVDT0E: Oferta en Amazon para Head Pelotas de Padel Pack 9 Lote Unisex 
- date: 2019/05/24 14:30:04 +0000 
+ date: 2019/06/01 16:30:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ufVFlUH6L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00GHVDT0E/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

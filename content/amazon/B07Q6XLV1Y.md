@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Q6XLV1Y: Oferta en Amazon para Amilril Collar Colgante de Corazón Mujer 
- date: 2019/05/27 13:41:47 +0000 
+ date: 2019/06/01 14:49:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07Q6XLV1Y/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

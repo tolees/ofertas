@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074FXB1HL: Oferta en Amazon para J.Rosée Colgante Mujer  Collar Plata de  
- date: 2019/05/31 13:10:51 +0000 
+ date: 2019/06/01 14:00:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

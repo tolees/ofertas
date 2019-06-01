@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ETRGE7M: Oferta en Amazon para Fire TV Stick | Basic Edition 
- date: 2019/05/27 12:24:16 +0000 
+ date: 2019/06/01 18:04:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/415kiMyoKpL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01ETRGE7M/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

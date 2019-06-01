@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JRDHEWS: Oferta en Amazon para VIBOX Vision 2S - Ordenador para Gaming  
- date: 2019/05/31 09:57:00 +0000 
+ date: 2019/06/01 15:10:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

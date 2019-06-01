@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J4TMGQM: Oferta en Amazon para Tidylife Freidora sin Aceite  3.5L Freid 
- date: 2019/05/30 23:20:19 +0000 
+ date: 2019/06/01 18:39:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

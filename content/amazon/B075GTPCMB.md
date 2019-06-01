@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GTPCMB: Oferta en Amazon para Tamboga BB2018  Botas Chukka para Hombre 
- date: 2019/05/30 09:30:24 +0000 
+ date: 2019/06/01 17:00:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41dtYB16DZL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B075GTPCMB/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

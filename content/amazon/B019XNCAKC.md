@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019XNCAKC: Oferta en Amazon para Deconovo Visillo Transparente para Habit 
- date: 2019/05/24 19:50:37 +0000 
+ date: 2019/06/01 19:10:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41pldBrhNrL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B019XNCAKC/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

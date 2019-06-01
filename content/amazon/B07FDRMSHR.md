@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDRMSHR: Oferta en Amazon para MAXTOP Zapatillas de Running Hombre Corr 
- date: 2019/05/27 10:22:01 +0000 
+ date: 2019/06/01 16:36:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/513IQUZy4TL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07FDRMSHR/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

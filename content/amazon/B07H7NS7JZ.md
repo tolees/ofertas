@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H7NS7JZ: Oferta en Amazon para Coronel Tapiocca - Parka de Invierno par 
- date: 2019/05/26 15:27:23 +0000 
+ date: 2019/06/01 16:51:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/413nRlV2IOL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07H7NS7JZ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

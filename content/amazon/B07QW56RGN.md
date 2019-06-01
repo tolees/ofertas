@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QW56RGN: Oferta en Amazon para Auriculares Bluetooth  Auriculares con S 
- date: 2019/05/31 08:34:43 +0000 
+ date: 2019/06/01 17:31:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

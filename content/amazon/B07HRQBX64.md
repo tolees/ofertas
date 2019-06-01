@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HRQBX64: Oferta en Amazon para CHEREEKI Pulsera Actividad [versión Mejo 
- date: 2019/05/27 10:40:08 +0000 
+ date: 2019/06/01 17:45:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51JsIZSarzL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07HRQBX64/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

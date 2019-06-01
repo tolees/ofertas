@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FZ3TSJ1: Oferta en Amazon para Medion Akoya PCC722 - Ordenador de sobre 
- date: 2019/05/31 14:43:34 +0000 
+ date: 2019/06/01 19:03:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

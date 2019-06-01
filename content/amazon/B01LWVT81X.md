@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LWVT81X: Oferta en Amazon para WD My Book - Disco Duro Externo de sobre 
- date: 2019/05/31 10:40:10 +0000 
+ date: 2019/06/01 18:38:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
