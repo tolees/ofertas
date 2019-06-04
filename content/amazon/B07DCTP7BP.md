@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DCTP7BP: Oferta en Amazon para Wood Wood Curtis Sweatshirt  Sudadera pa 
- date: 2019/05/31 10:15:06 +0000 
+ date: 2019/06/04 15:45:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Wood Wood Curtis Sweatshirt  Sudadera para Hombre  Marrón  Khaki  Medium a precio de oferta de 57.54 EUR (original: 57.54 EUR) en el siguiente enlace! 
+ Tienes Wood Wood Curtis Sweatshirt  Sudadera para Hombre  Marrón  Khaki  Medium a precio de oferta de 52.05 EUR (original: 52.05 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41GnHRrQZaL.jpg) 
  

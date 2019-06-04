@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FHP85LT: Oferta en Amazon para JACK & JONES Jcoanaheim Knit Crew Neck   
- date: 2019/06/01 15:40:06 +0000 
+ date: 2019/06/04 19:39:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jcoanaheim Knit Crew Neck  suéter Hombre  Gris  Light Grey Melange Fit:Knit Fit   Large a precio de oferta de 13.65 EUR (original: 13.65 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jcoanaheim Knit Crew Neck  suéter Hombre  Gris  Light Grey Melange Fit:Knit Fit   Large a precio de oferta de 11.7 EUR (original: 11.7 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51zi4FbMxbL.jpg) 
  

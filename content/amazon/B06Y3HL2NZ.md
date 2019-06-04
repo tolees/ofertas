@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y3HL2NZ: Oferta en Amazon para TBS FYRVESTE14-Abrigo Hombre Gris  Carbo 
- date: 2019/05/16 23:42:59 +0000 
+ date: 2019/06/04 16:33:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,8 +9,9 @@
  description: 
  --- 
  
- Tienes TBS FYRVESTE14-Abrigo Hombre Gris  Carbone 014  XXL  Talla del Fabricante: XXL  a precio de oferta de 69.79 EUR (original: 69.79 EUR) en el siguiente enlace! 
+ Tienes TBS FYRVESTE14-Abrigo Hombre Gris  Carbone 014  XXL  Talla del Fabricante: XXL  a precio de oferta de 49.16 EUR (original: 49.16 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/413vBrxj8zL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06Y3HL2NZ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

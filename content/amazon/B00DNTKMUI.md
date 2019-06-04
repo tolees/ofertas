@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DNTKMUI: Oferta en Amazon para Mike Ellis New York M2969ASM/3 - Reloj d 
- date: 2019/05/23 12:50:29 +0000 
+ date: 2019/06/04 19:28:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,8 +9,9 @@
  description: 
  --- 
  
- Tienes Mike Ellis New York M2969ASM/3 - Reloj de Cuarzo para Hombre  Correa de Acero Inoxidable Color Plateado a precio de oferta de 18.21 EUR (original: 34.99 EUR) en el siguiente enlace! 
+ Tienes Mike Ellis New York M2969ASM/3 - Reloj de Cuarzo para Hombre  Correa de Acero Inoxidable Color Plateado a precio de oferta de 15.44 EUR (original: 34.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41knI%2BoB4bL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00DNTKMUI/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

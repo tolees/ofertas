@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K38MVSX: Oferta en Amazon para Apple MacBook Air - Ordenador portátil d 
- date: 2019/06/01 17:15:41 +0000 
+ date: 2019/06/04 16:50:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

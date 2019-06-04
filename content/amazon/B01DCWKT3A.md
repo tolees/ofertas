@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DCWKT3A: Oferta en Amazon para PREUP Funda Kindle Paperwhite de Cuero S 
- date: 2019/05/16 13:16:57 +0000 
+ date: 2019/06/04 16:16:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/514etQLg66L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01DCWKT3A/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

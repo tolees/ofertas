@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MPNTB8G: Oferta en Amazon para Auriculares Bluetooth  Mini Auriculares  
- date: 2019/06/01 07:03:40 +0000 
+ date: 2019/06/04 17:05:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51jswf50VwL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07MPNTB8G/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

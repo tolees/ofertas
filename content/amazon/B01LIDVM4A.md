@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LIDVM4A: Oferta en Amazon para Amway Home SA8 negro detergente líquido  
- date: 2019/06/01 11:21:04 +0000 
+ date: 2019/06/04 15:51:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31oU1yx0c9L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01LIDVM4A/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

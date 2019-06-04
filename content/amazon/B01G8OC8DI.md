@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01G8OC8DI: Oferta en Amazon para Art 1040 Olio Link  Zapatos de cordones  
- date: 2019/05/30 20:31:02 +0000 
+ date: 2019/06/04 17:48:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Art 1040 Olio Link  Zapatos de cordones derby para Unisex adulto  Marrón  41 EU a precio de oferta de 45.84 EUR (original: 45.84 EUR) en el siguiente enlace! 
+ Tienes Art 1040 Olio Link  Zapatos de cordones derby para Unisex adulto  Marrón  41 EU a precio de oferta de 40.63 EUR (original: 40.63 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ISEFILEBL.jpg) 
  

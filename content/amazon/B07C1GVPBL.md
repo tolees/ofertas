@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C1GVPBL: Oferta en Amazon para MayFlow - Zapatillas de Running de Lona  
- date: 2019/06/01 06:26:20 +0000 
+ date: 2019/06/04 13:58:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51GOoePCVCL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07C1GVPBL/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

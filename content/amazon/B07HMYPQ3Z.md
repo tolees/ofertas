@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HMYPQ3Z: Oferta en Amazon para KinCam Cámara de Vigilancia Cámara de Se 
- date: 2019/06/01 07:56:49 +0000 
+ date: 2019/06/04 15:06:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qKumMfFFL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07HMYPQ3Z/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

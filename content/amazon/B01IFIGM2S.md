@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IFIGM2S: Oferta en Amazon para Pierre Cardin - Camisa Casual - con Boto 
- date: 2019/05/31 09:58:43 +0000 
+ date: 2019/06/04 15:28:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

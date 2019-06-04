@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XHD5SXJ: Oferta en Amazon para Helly Hansen Verglas Hooded Down Insulat 
- date: 2019/06/01 13:19:04 +0000 
+ date: 2019/06/04 18:54:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Black  M a precio de oferta de 131.52 EUR (original: 260 EUR) en el siguiente enlace! 
+ Tienes Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Black  M a precio de oferta de 120.95 EUR (original: 260 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41lWhkA8LxL.jpg) 
  

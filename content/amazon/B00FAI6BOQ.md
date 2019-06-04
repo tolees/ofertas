@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00FAI6BOQ: Oferta en Amazon para F-200W-2BS 
- date: 2019/05/27 13:42:44 +0000 
+ date: 2019/06/04 18:16:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41xRd1y5yML.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00FAI6BOQ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

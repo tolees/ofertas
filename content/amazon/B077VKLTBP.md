@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077VKLTBP: Oferta en Amazon para Aigostar Rubik 30JVU - Sandwichera 3 en  
- date: 2019/05/31 14:51:38 +0000 
+ date: 2019/06/04 15:41:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

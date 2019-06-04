@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JNDLP6B: Oferta en Amazon para DAM DMX187SLV - Correa metálica para App 
- date: 2019/05/27 10:07:33 +0000 
+ date: 2019/06/04 13:36:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51DE56d9OhL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07JNDLP6B/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

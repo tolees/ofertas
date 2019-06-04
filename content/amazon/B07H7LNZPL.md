@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H7LNZPL: Oferta en Amazon para Atornillador Inalámbrico TACKLIFE SDP70D 
- date: 2019/06/01 13:08:30 +0000 
+ date: 2019/06/04 19:40:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

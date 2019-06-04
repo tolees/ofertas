@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KAXFLQA: Oferta en Amazon para KangaROOS K-Outdoor 3005W  Botas de piel 
- date: 2019/05/31 09:53:43 +0000 
+ date: 2019/06/04 18:54:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes KangaROOS K-Outdoor 3005W  Botas de piel para hombre  Beige  dk wheat/dk brown 135   46 a precio de oferta de 32.73 EUR (original: 90 EUR) en el siguiente enlace! 
+ Tienes KangaROOS K-Outdoor 3005W  Botas de piel para hombre  Beige  dk wheat/dk brown 135   46 a precio de oferta de 28.31 EUR (original: 90 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/518qmNSKZgL.jpg) 
  

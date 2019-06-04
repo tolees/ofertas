@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M4L2CVF: Oferta en Amazon para Estuche de Maquillaje Kemier Studio Rued 
- date: 2019/06/01 17:05:29 +0000 
+ date: 2019/06/04 18:09:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

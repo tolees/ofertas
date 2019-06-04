@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071YPDTLX: Oferta en Amazon para Ultrawhite Miele Detergente Lavadora par 
- date: 2019/06/01 16:16:27 +0000 
+ date: 2019/06/04 13:55:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Ultrawhite Miele Detergente Lavadora para blancos Cod 10199840 a precio de oferta de 22.41 EUR (original: 22.41 EUR) en el siguiente enlace! 
+ Tienes Ultrawhite Miele Detergente Lavadora para blancos Cod 10199840 a precio de oferta de 24.1 EUR (original: 24.1 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31aCC5H6wtL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N7MYL6T: Oferta en Amazon para BATA 8545174  Mocasines para Hombre  mar 
- date: 2019/05/31 06:13:27 +0000 
+ date: 2019/06/04 17:22:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes BATA 8545174  Mocasines para Hombre  marrón  43 EU a precio de oferta de 35.5 EUR (original: 35.5 EUR) en el siguiente enlace! 
+ Tienes BATA 8545174  Mocasines para Hombre  marrón  43 EU a precio de oferta de 35.46 EUR (original: 35.46 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41vmd5RAcPL.jpg) 
  

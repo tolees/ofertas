@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078VM7MQC: Oferta en Amazon para JACK & JONES Jormatteo Crew Neck suéter  
- date: 2019/05/31 11:47:01 +0000 
+ date: 2019/06/04 17:07:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jormatteo Crew Neck suéter  Azul  Navy Blazer Detail: Knit Fit   Small para Hombre a precio de oferta de 13.39 EUR (original: 13.4 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jormatteo Crew Neck suéter  Azul  Navy Blazer Detail: Knit Fit   Small para Hombre a precio de oferta de 13.38 EUR (original: 13.39 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41U1HOF8gwL.jpg) 
  

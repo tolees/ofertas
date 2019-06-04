@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ECE6FF8: Oferta en Amazon para ESPRIT 996EE2F904  Camisa Hombre  Azul   
- date: 2019/05/31 14:40:46 +0000 
+ date: 2019/06/04 19:05:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes ESPRIT 996EE2F904  Camisa Hombre  Azul  NAVY   X-Large a precio de oferta de 17.27 EUR (original: 17.27 EUR) en el siguiente enlace! 
+ Tienes ESPRIT 996EE2F904  Camisa Hombre  Azul  NAVY   X-Large a precio de oferta de 16.57 EUR (original: 17.27 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51fMFoKYQbL.jpg) 
  

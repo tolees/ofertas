@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D7MNGZD: Oferta en Amazon para Campark Cámara de Caza 14MP 1080P HD Tra 
- date: 2019/05/16 15:13:25 +0000 
+ date: 2019/06/04 16:51:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ZvgsxqeJL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07D7MNGZD/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

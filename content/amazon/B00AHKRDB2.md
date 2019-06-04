@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00AHKRDB2: Oferta en Amazon para BOCKSTIEGEL® PETER Hombres - Cargadores  
- date: 2019/05/30 12:12:57 +0000 
+ date: 2019/06/04 18:31:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31Co2kJ8ZNL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00AHKRDB2/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C6SZJF7: Oferta en Amazon para Marca Amazon- Solimo Cápsulas Mild  comp 
- date: 2019/06/01 06:37:06 +0000 
+ date: 2019/06/04 15:57:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/411247u2OcL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07C6SZJF7/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

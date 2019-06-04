@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MFEPE6G: Oferta en Amazon para Sidas coolday – Zapatos para Hombre  Hom 
- date: 2019/05/31 14:30:24 +0000 
+ date: 2019/06/04 16:39:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Sidas coolday – Zapatos para Hombre  Hombre  Coolday  Duna  Tamaño 46 a precio de oferta de 20.12 EUR (original: 20.12 EUR) en el siguiente enlace! 
+ Tienes Sidas coolday – Zapatos para Hombre  Hombre  Coolday  Duna  Tamaño 46 a precio de oferta de 16.78 EUR (original: 16.78 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41T8Q7AQefL.jpg) 
  
