@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G8WDSZY: Oferta en Amazon para Pistola de Pintura 500W  TECCPO Pistola  
- date: 2019/06/01 10:09:15 +0000 
+ date: 2019/06/04 06:56:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51-OB3qO8vL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07G8WDSZY/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

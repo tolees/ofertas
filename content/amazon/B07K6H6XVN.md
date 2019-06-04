@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K6H6XVN: Oferta en Amazon para Beelink BT3Pro II Mini PC Computer Windo 
- date: 2019/05/30 22:36:35 +0000 
+ date: 2019/06/04 06:27:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wBW29q-uL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07K6H6XVN/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

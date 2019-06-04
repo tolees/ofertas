@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IJ8BUKO: Oferta en Amazon para Philips MCM2300 - Microcadena con reprod 
- date: 2019/05/24 14:08:18 +0000 
+ date: 2019/06/03 23:15:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31ppUm14A3L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00IJ8BUKO/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

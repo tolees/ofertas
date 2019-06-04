@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B017KFXSC4: Oferta en Amazon para Caterpillar Brock  Botas Chukka para Hom 
- date: 2019/06/01 06:36:59 +0000 
+ date: 2019/06/03 23:33:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/416y26MZxdL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B017KFXSC4/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074J5LHVT: Oferta en Amazon para Accesorios para Gopro Kit Accesorios Cam 
- date: 2019/05/26 20:51:03 +0000 
+ date: 2019/06/04 09:14:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ORzrJ1zmL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B074J5LHVT/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

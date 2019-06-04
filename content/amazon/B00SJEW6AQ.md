@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00SJEW6AQ: Oferta en Amazon para Piku 6227  Silla de coche grupo 2/3  azu 
- date: 2019/05/31 10:15:44 +0000 
+ date: 2019/06/04 08:55:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41dkK5Fcg7L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00SJEW6AQ/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CTBM7N1: Oferta en Amazon para VicTsing HMHM174ABEU Homasy V4-Aspirador 
- date: 2019/05/27 13:50:50 +0000 
+ date: 2019/06/04 08:24:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41b9nCOkLiL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07CTBM7N1/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RQMKQFT: Oferta en Amazon para AX BOXING Zapatillas Hombres Deporte Run 
- date: 2019/06/01 17:30:44 +0000 
+ date: 2019/06/04 07:56:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![]() 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07RQMKQFT/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

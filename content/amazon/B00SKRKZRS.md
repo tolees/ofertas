@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00SKRKZRS: Oferta en Amazon para TV USB 2.0 inalámbrico 802.11 Wifi LAN A 
- date: 2019/05/26 15:47:25 +0000 
+ date: 2019/06/03 20:39:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41iyPsxmSqL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00SKRKZRS/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

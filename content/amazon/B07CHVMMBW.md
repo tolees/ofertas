@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CHVMMBW: Oferta en Amazon para Havaianas Power  Chanclas para Hombre  N 
- date: 2019/05/31 09:46:17 +0000 
+ date: 2019/06/03 22:21:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51Os%2BNGEOwL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07CHVMMBW/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

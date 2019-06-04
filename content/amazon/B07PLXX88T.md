@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PLXX88T: Oferta en Amazon para LOBKIN Luces LED Kit de Espejo con 10 Bo 
- date: 2019/05/23 09:23:53 +0000 
+ date: 2019/06/04 07:07:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41YEHiGqD0L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07PLXX88T/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00D7FV0MC: Oferta en Amazon para Kickers Kick Col  Botas Unisex  Negro  N 
- date: 2019/05/30 19:15:57 +0000 
+ date: 2019/06/03 22:45:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41i%2BfoPjx6L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00D7FV0MC/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

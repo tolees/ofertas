@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0774ZHCCZ: Oferta en Amazon para Lenovo Ideapad 520S-14IKB - Ordenador po 
- date: 2019/06/01 08:37:27 +0000 
+ date: 2019/06/04 08:51:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PRCX4q6oL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B0774ZHCCZ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JP5XBVW: Oferta en Amazon para Sebago7000H00 - Docksides Portland Hombr 
- date: 2019/05/30 19:16:32 +0000 
+ date: 2019/06/03 21:54:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41SHbno282L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07JP5XBVW/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

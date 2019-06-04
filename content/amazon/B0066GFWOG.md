@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0066GFWOG: Oferta en Amazon para adidas V42038 Micoach - Sensor de Veloci 
- date: 2019/06/01 16:14:00 +0000 
+ date: 2019/06/04 09:12:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31n5jf%2BDPQL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B0066GFWOG/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

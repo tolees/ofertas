@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SG6DCP: Oferta en Amazon para Farah Classic Oak 4 Way Stretch  Pantalo 
- date: 2019/05/31 09:56:44 +0000 
+ date: 2019/06/04 09:00:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31oGn1ytBvL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B078SG6DCP/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

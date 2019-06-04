@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00F4TCYKG: Oferta en Amazon para Anker Astro Mini - Powebank de 3000 mAh  
- date: 2019/06/01 11:57:54 +0000 
+ date: 2019/06/04 07:41:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41tyAOBtOAL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00F4TCYKG/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

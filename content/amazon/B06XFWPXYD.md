@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XFWPXYD: Oferta en Amazon para Samsung EVO Plus - Tarjeta de Memoria mi 
- date: 2019/05/23 11:36:09 +0000 
+ date: 2019/06/03 21:53:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41tqhZWADuL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06XFWPXYD/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

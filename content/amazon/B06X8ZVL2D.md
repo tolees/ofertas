@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06X8ZVL2D: Oferta en Amazon para Kempa Hombre Poly – Camiseta  Todo el añ 
- date: 2019/05/31 13:34:27 +0000 
+ date: 2019/06/04 07:27:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31HhplGRCAL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06X8ZVL2D/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

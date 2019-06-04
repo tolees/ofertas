@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y5JHZRV: Oferta en Amazon para MARNUR Masajeador de Pies Masaje Shiatsu 
- date: 2019/05/26 14:57:03 +0000 
+ date: 2019/06/04 07:43:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41CR3ecJdCL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06Y5JHZRV/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

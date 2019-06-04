@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WWJNY8R: Oferta en Amazon para Diesel 0AAMT  Bóxer Para Hombre  Multico 
- date: 2019/06/01 12:34:29 +0000 
+ date: 2019/06/04 08:25:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51CiugL0RcL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06WWJNY8R/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

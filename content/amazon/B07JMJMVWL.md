@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JMJMVWL: Oferta en Amazon para adidas Falcon  Zapatillas de Entrenamien 
- date: 2019/05/24 18:10:43 +0000 
+ date: 2019/06/04 10:16:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41mSxyMOvQL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07JMJMVWL/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

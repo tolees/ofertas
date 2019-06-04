@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NCUOW5Q: Oferta en Amazon para Dockers Alpha Khaki Slim  Tapered  -Stre 
- date: 2019/05/31 09:10:37 +0000 
+ date: 2019/06/03 20:57:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/412ODacXpEL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01NCUOW5Q/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

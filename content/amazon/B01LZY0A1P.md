@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LZY0A1P: Oferta en Amazon para Ruicer Toallero Barra Acero Inoxidable F 
- date: 2019/05/30 08:20:10 +0000 
+ date: 2019/06/04 09:18:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51KRnd-3ycL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01LZY0A1P/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

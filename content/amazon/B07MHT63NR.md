@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MHT63NR: Oferta en Amazon para Android TV Box 9.0  2019 El más Nuevo An 
- date: 2019/06/01 18:01:05 +0000 
+ date: 2019/06/04 09:00:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51kmnQ1pR5L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07MHT63NR/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

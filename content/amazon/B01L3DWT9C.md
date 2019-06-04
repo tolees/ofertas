@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01L3DWT9C: Oferta en Amazon para Geographical Norway TEVET Men Color Chaq 
- date: 2019/06/01 10:43:02 +0000 
+ date: 2019/06/04 08:32:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41BaNHFWeoL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01L3DWT9C/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

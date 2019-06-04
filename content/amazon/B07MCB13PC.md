@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MCB13PC: Oferta en Amazon para GreeSuit Espátula de glaseado ángulo  es 
- date: 2019/06/01 20:23:52 +0000 
+ date: 2019/06/04 09:50:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31xJBWgjTtL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07MCB13PC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

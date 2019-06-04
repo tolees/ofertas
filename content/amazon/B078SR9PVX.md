@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SR9PVX: Oferta en Amazon para TACKLIFE Taladro Atornillador 18 V  2 Ve 
- date: 2019/05/31 08:08:31 +0000 
+ date: 2019/06/04 09:31:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51tS%2BoIR75L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B078SR9PVX/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

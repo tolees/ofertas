@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MT28BQB: Oferta en Amazon para Kenneth Cole Men s Casual watch KC149460 
- date: 2019/05/30 20:37:13 +0000 
+ date: 2019/06/04 09:50:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wL9ndPztL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01MT28BQB/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
