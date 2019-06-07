@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073QVQMR6: Oferta en Amazon para Levi s Hayes Crew Sweater 2 Sudadera  Ne 
- date: 2019/06/03 23:54:13 +0000 
+ date: 2019/06/07 16:07:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Levi s Hayes Crew Sweater 2 Sudadera  Negro neps Black Beauty/Multi 0000  Medium para Hombre a precio de oferta de 85.8 EUR (original: 85.8 EUR) en el siguiente enlace! 
+ Tienes Levi s Hayes Crew Sweater 2 Sudadera  Negro neps Black Beauty/Multi 0000  Medium para Hombre a precio de oferta de 35.15 EUR (original: 35.15 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41lllD39OHL.jpg) 
  

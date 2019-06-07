@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EIHQ5VI: Oferta en Amazon para nick&jess - Negro Camisa Casual - Básico 
- date: 2019/06/04 09:57:04 +0000 
+ date: 2019/06/07 18:12:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

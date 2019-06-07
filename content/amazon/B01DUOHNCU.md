@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DUOHNCU: Oferta en Amazon para NK Grave Cámara Deportiva subacuática 4K 
- date: 2019/05/27 09:18:48 +0000 
+ date: 2019/06/07 16:09:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/5132dvEhAML.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01DUOHNCU/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

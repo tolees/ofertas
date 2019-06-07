@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDJ9QL5: Oferta en Amazon para Casals C63009000 Hidrolimpiadora 1400 W  
- date: 2019/06/04 09:00:21 +0000 
+ date: 2019/06/07 16:15:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

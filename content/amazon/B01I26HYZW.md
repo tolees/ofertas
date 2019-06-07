@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01I26HYZW: Oferta en Amazon para Vans UA Brigata Lite  Zapatillas para Ho 
- date: 2019/05/26 15:30:28 +0000 
+ date: 2019/06/07 16:39:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/417l7OcnxHL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01I26HYZW/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

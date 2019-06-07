@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CJFQM9F: Oferta en Amazon para BROADCARE Termómetro digital de frente y 
- date: 2019/06/04 09:42:00 +0000 
+ date: 2019/06/07 19:14:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes BROADCARE Termómetro digital de frente y oreja 3 en 1 Termómetro médico infrarrojo profesional para niños  niños  adultos  objeto y temperatura ambiente a precio de oferta de 15.99 EUR (original:  EUR) en el siguiente enlace! 
+ Tienes BROADCARE Termómetro digital de frente y oreja 3 en 1 Termómetro médico infrarrojo profesional para niños  niños  adultos  objeto y temperatura ambiente a precio de oferta de 15.99 EUR (original: 15.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31R011xM2pL.jpg) 
  

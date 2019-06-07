@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D1FXST4: Oferta en Amazon para Medion MD 60996 - Ordenador portátil 14" 
- date: 2019/06/04 08:06:12 +0000 
+ date: 2019/06/07 21:30:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

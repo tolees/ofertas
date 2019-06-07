@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00STBW4R4: Oferta en Amazon para L Oréal Paris Men Expert Hydra Energetic 
- date: 2019/06/04 15:01:10 +0000 
+ date: 2019/06/07 18:24:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qDyK4tZAL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00STBW4R4/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

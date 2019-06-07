@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CN2PF1F: Oferta en Amazon para Auriculares Bluetooth  Syllable D900P Au 
- date: 2019/06/01 20:01:23 +0000 
+ date: 2019/06/07 14:50:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/418CGDPgt-L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07CN2PF1F/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

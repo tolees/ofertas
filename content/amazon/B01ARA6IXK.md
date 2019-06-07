@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ARA6IXK: Oferta en Amazon para Skiny Short Mix/HR. Shorts  Rojo  Red 15 
- date: 2019/06/03 21:36:32 +0000 
+ date: 2019/06/07 14:24:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Skiny Short Mix/HR. Shorts  Rojo  Red 1512   Large para Hombre a precio de oferta de 11.47 EUR (original: 12.07 EUR) en el siguiente enlace! 
+ Tienes Skiny Short Mix/HR. Shorts  Rojo  Red 1512   Large para Hombre a precio de oferta de 10.08 EUR (original: 10.08 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Kk%2B2QMGwL.jpg) 
  

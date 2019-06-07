@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00PJYBAOC: Oferta en Amazon para VeloChampion Medias de Compresión Recupe 
- date: 2019/05/27 10:19:48 +0000 
+ date: 2019/06/07 15:29:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ZnkMQ5gAL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00PJYBAOC/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

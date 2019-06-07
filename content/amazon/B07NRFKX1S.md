@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NRFKX1S: Oferta en Amazon para Gliss Champú Reparación Total para Cabel 
- date: 2019/06/04 09:20:53 +0000 
+ date: 2019/06/07 18:40:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Gliss Champú Reparación Total para Cabellos Secos  - 2 ud de  650ml - Schwarzkopf a precio de oferta de 5.85 EUR (original: 11 EUR) en el siguiente enlace! 
+ Tienes Gliss Champú Reparación Total para Cabellos Secos  - 2 ud de  650ml - Schwarzkopf a precio de oferta de 5.5 EUR (original: 11 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JmMCY4tnL.jpg) 
  

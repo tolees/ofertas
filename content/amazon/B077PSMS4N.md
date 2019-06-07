@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077PSMS4N: Oferta en Amazon para Papel de Lija de 60 Piezas 40  60  80  1 
- date: 2019/05/23 10:38:24 +0000 
+ date: 2019/06/07 16:56:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51Fu4z7yskL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B077PSMS4N/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

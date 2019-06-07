@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M72VYXM: Oferta en Amazon para Peine Perro  Cepillo Mascotas  Peine de  
- date: 2019/05/26 19:18:53 +0000 
+ date: 2019/06/07 14:55:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41fcdJGawoL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01M72VYXM/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

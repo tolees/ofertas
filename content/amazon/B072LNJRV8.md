@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072LNJRV8: Oferta en Amazon para Ray-Ban Junior 4287 Gafas de Sol  Shiny  
- date: 2019/06/04 10:10:27 +0000 
+ date: 2019/06/07 15:42:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Ray-Ban Junior 4287 Gafas de Sol  Shiny Brown  55 Unisex-Adulto a precio de oferta de 53.25 EUR (original: 53.25 EUR) en el siguiente enlace! 
+ Tienes Ray-Ban Junior 4287 Gafas de Sol  Shiny Brown  55 Unisex-Adulto a precio de oferta de 95.2 EUR (original: 95.2 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31PFppdJQvL.jpg) 
  

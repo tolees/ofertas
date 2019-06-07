@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HE5NE0Q: Oferta en Amazon para ADIDAS Sneakers  Zapatillas para Hombre  
- date: 2019/06/04 18:00:41 +0000 
+ date: 2019/06/07 18:08:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41KjKu7%2BKrL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01HE5NE0Q/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

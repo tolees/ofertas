@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B006ZP2SRW: Oferta en Amazon para Carucci Watches CA2192SL - Reloj analógi 
- date: 2019/06/01 13:37:22 +0000 
+ date: 2019/06/07 15:16:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41k-fWw9GRL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B006ZP2SRW/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

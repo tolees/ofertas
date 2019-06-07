@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NGYMRXE: Oferta en Amazon para Jack & Jones Jcozack Sweat Crew Neck  Su 
- date: 2019/05/31 14:57:12 +0000 
+ date: 2019/06/07 13:27:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41RIYrfC4WL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01NGYMRXE/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CZCKV38: Oferta en Amazon para Keenstone 1.5A Cargador y Mantenedor de  
- date: 2019/06/04 09:05:49 +0000 
+ date: 2019/06/07 17:00:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

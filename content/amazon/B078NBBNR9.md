@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078NBBNR9: Oferta en Amazon para Tommy Jeans Hombre Acid Dobby  Camisa Ma 
- date: 2019/06/04 07:13:16 +0000 
+ date: 2019/06/07 17:51:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tommy Jeans Hombre Acid Dobby  Camisa Manga Corta  Gris  Lt Grey Htr 038  Large a precio de oferta de 32.93 EUR (original: 32.93 EUR) en el siguiente enlace! 
+ Tienes Tommy Jeans Hombre Acid Dobby  Camisa Manga Corta  Gris  Lt Grey Htr 038  Large a precio de oferta de 36.73 EUR (original: 36.73 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41jlIiugDNL.jpg) 
  

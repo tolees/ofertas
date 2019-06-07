@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073VRJKG6: Oferta en Amazon para Esprit 107ee2g033  Abrigo Hombre  Azul   
- date: 2019/06/04 13:41:01 +0000 
+ date: 2019/06/07 19:10:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51DjcHKJXxL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B073VRJKG6/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

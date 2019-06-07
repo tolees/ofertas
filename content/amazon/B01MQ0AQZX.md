@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MQ0AQZX: Oferta en Amazon para Burton Menswear London Chesterfield  Cap 
- date: 2019/06/03 22:36:50 +0000 
+ date: 2019/06/07 13:22:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Burton Menswear London Chesterfield  Cappotti Uomo  Grey  Light Grey   XX-Large a precio de oferta de 34.13 EUR (original: 34.13 EUR) en el siguiente enlace! 
+ Tienes Burton Menswear London Chesterfield  Cappotti Uomo  Grey  Light Grey   XX-Large a precio de oferta de 29.92 EUR (original: 29.92 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41zIV5DhAzL.jpg) 
  

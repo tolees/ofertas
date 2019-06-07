@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078HNKK6W: Oferta en Amazon para Gas Morris  Vaqueros Straight para Hombr 
- date: 2019/06/03 21:51:41 +0000 
+ date: 2019/06/07 18:13:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

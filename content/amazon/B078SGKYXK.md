@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SGKYXK: Oferta en Amazon para G-STAR RAW 5620 3D Loose Tu  Vaqueros Re 
- date: 2019/05/30 23:00:05 +0000 
+ date: 2019/06/07 16:48:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41vp8qP74yL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B078SGKYXK/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01K36EMYU: Oferta en Amazon para USB MP3 Reproductor de Música Grabación  
- date: 2019/06/01 10:09:42 +0000 
+ date: 2019/06/07 13:48:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/312crrkdVNL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01K36EMYU/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

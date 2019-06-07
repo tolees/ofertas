@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GPJB84D: Oferta en Amazon para NXDRS Cinematic Light Letras Box  A5 Caj 
- date: 2019/05/31 09:48:29 +0000 
+ date: 2019/06/07 16:27:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41lxnKfwUkL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07GPJB84D/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

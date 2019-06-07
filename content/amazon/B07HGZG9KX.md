@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HGZG9KX: Oferta en Amazon para Auriculares Bluetooth multifunción S530X 
- date: 2019/05/27 14:32:21 +0000 
+ date: 2019/06/07 15:16:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31hqzPzSf0L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07HGZG9KX/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

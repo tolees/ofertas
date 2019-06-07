@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00V5LSJ8S: Oferta en Amazon para Kempa Emotion Cazadora con Capucha  Homb 
- date: 2019/05/30 09:32:16 +0000 
+ date: 2019/06/07 18:45:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41tr%2BUEvpLL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00V5LSJ8S/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079ZCPLTP: Oferta en Amazon para Lenovo Ideapad Y520-15IKBN -  Ordenador  
- date: 2019/05/27 11:35:08 +0000 
+ date: 2019/06/07 17:35:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41yIyFBsxUL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B079ZCPLTP/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

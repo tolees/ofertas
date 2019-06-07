@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CJ5FPUE: Oferta en Amazon para Logitech G430 - Auriculares Gaming para  
- date: 2019/06/01 11:13:43 +0000 
+ date: 2019/06/07 19:09:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41B5D8ksuvL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00CJ5FPUE/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

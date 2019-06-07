@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00RH2NNPI: Oferta en Amazon para World Brands - Helicóptero nanocoptero P 
- date: 2019/05/30 09:04:56 +0000 
+ date: 2019/06/07 14:45:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41zrp8q4wmL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00RH2NNPI/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

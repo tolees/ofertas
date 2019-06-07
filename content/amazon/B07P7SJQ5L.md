@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P7SJQ5L: Oferta en Amazon para LOBKIN Sin Necesidad de Taladrar Estante 
- date: 2019/06/04 07:08:44 +0000 
+ date: 2019/06/07 18:19:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

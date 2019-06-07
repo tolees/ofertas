@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N2UMXGE: Oferta en Amazon para elago ESTR-Ap-BK Auricular/audífono Acce 
- date: 2019/05/27 13:18:05 +0000 
+ date: 2019/06/07 14:57:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31MwyGO-ixL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01N2UMXGE/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

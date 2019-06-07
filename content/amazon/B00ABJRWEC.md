@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ABJRWEC: Oferta en Amazon para Muñeco Limpiador Alfombras –  300 ml 
- date: 2019/05/24 19:33:43 +0000 
+ date: 2019/06/07 16:25:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41KghiN3psL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00ABJRWEC/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
