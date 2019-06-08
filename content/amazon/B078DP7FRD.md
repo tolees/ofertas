@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078DP7FRD: Oferta en Amazon para Napapijri Gotan Camisa   Fantasy F06   L 
- date: 2019/06/07 14:15:28 +0000 
+ date: 2019/06/08 15:52:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Napapijri Gotan Camisa   Fantasy F06   Large para Hombre a precio de oferta de 40.67 EUR (original: 40.67 EUR) en el siguiente enlace! 
+ Tienes Napapijri Gotan Camisa   Fantasy F06   Large para Hombre a precio de oferta de 38.64 EUR (original: 38.64 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41aaijWsN8L.jpg) 
  

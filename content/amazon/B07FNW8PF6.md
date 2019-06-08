@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNW8PF6: Oferta en Amazon para LEGO La LEGO Película 2 - Ultrakatty y L 
- date: 2019/06/04 17:39:58 +0000 
+ date: 2019/06/08 15:13:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51OzfNWS-VL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07FNW8PF6/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072N9JBRJ: Oferta en Amazon para New Look Kurt Acid Wash Vaqueros Skinny  
- date: 2019/06/07 15:56:03 +0000 
+ date: 2019/06/08 16:28:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Look Kurt Acid Wash Vaqueros Skinny  Azul  Light Blue   W32/L32 para Hombre a precio de oferta de 12.72 EUR (original: 12.72 EUR) en el siguiente enlace! 
+ Tienes New Look Kurt Acid Wash Vaqueros Skinny  Azul  Light Blue   W32/L32 para Hombre a precio de oferta de 12.21 EUR (original: 12.21 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41jhQ-cUTKL.jpg) 
  

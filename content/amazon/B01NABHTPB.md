@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NABHTPB: Oferta en Amazon para Globe Castro LYT  Mocasines para Hombre  
- date: 2019/05/31 05:00:54 +0000 
+ date: 2019/06/08 15:27:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31ERvZ9bFoL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01NABHTPB/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

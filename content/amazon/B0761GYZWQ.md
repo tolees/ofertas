@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0761GYZWQ: Oferta en Amazon para Kit del soldador  Meterk 60W 220-240V 14 
- date: 2019/06/07 15:50:38 +0000 
+ date: 2019/06/08 15:52:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

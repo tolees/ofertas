@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01E2CI9HW: Oferta en Amazon para Moredig Proyector Estrellas  360° Rotaci 
- date: 2019/05/31 14:41:13 +0000 
+ date: 2019/06/08 15:39:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41xD0BOr%2BRL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01E2CI9HW/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

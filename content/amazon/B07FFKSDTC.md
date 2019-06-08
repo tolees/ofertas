@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FFKSDTC: Oferta en Amazon para Logitech K600TV - Teclado inalámbrico pa 
- date: 2019/06/04 09:37:00 +0000 
+ date: 2019/06/08 12:36:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RDWJ27C: Oferta en Amazon para Kaimus Zapatillas Antideslizantes y Lige 
- date: 2019/06/04 19:32:10 +0000 
+ date: 2019/06/08 15:12:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41yGfNuYzRL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07RDWJ27C/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

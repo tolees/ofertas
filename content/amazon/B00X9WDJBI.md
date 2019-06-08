@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00X9WDJBI: Oferta en Amazon para L Oreal Paris Dermo Expertise Crema de D 
- date: 2019/05/30 10:35:11 +0000 
+ date: 2019/06/08 17:06:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31ciMh2CDLL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00X9WDJBI/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

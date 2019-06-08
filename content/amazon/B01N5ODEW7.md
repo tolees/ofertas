@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N5ODEW7: Oferta en Amazon para Jack & Jones Tech 12116620  Chaqueta Par 
- date: 2019/06/07 15:31:46 +0000 
+ date: 2019/06/08 16:15:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Jack & Jones Tech 12116620  Chaqueta Parka Para Hombre  Beige  Twill   X-Large a precio de oferta de 43.69 EUR (original: 43.69 EUR) en el siguiente enlace! 
+ Tienes Jack & Jones Tech 12116620  Chaqueta Parka Para Hombre  Beige  Twill   X-Large a precio de oferta de 41.94 EUR (original: 41.94 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41oG4vtM4kL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078WTSHCF: Oferta en Amazon para Finish Todo en 1 Max Regular Pastillas p 
- date: 2019/06/07 15:05:20 +0000 
+ date: 2019/06/08 16:09:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y69JVNW: Oferta en Amazon para Joma 100801.102 Sudadera  Hombre  Negro/ 
- date: 2019/06/03 23:09:12 +0000 
+ date: 2019/06/08 16:15:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Joma 100801.102 Sudadera  Hombre  Negro/Blanco  L a precio de oferta de 17.02 EUR (original: 21.95 EUR) en el siguiente enlace! 
+ Tienes Joma 100801.102 Sudadera  Hombre  Negro/Blanco  L a precio de oferta de 13.31 EUR (original: 21.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qNErFQt4L.jpg) 
  

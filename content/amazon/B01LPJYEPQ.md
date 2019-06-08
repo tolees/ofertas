@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LPJYEPQ: Oferta en Amazon para Altavoz Bluetooth  ELEGIANT Barra de son 
- date: 2019/05/30 08:36:39 +0000 
+ date: 2019/06/08 15:46:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wzwB%2BfXIL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01LPJYEPQ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

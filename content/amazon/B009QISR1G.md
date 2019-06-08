@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B009QISR1G: Oferta en Amazon para Sector R3253573004 - Reloj analógico de  
- date: 2019/05/26 17:30:37 +0000 
+ date: 2019/06/08 15:19:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51YsvqfLE5L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B009QISR1G/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MTMT5Q8: Oferta en Amazon para adidas Tiro 17 Cotton Polo  Hombre  Azul 
- date: 2019/06/07 14:08:29 +0000 
+ date: 2019/06/08 15:02:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes adidas Tiro 17 Cotton Polo  Hombre  Azul  Maruni/Energi/Blanco   XS a precio de oferta de 11.06 EUR (original: 11.06 EUR) en el siguiente enlace! 
+ Tienes adidas Tiro 17 Cotton Polo  Hombre  Azul  Maruni/Energi/Blanco   XS a precio de oferta de 16.95 EUR (original: 16.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41K4pnXlQNL.jpg) 
  

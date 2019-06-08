@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FCMBLV6: Oferta en Amazon para SanDisk Extreme - Tarjeta de memoria mic 
- date: 2019/05/24 19:26:22 +0000 
+ date: 2019/06/08 15:20:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41q4Op-xPrL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07FCMBLV6/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

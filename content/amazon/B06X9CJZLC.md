@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06X9CJZLC: Oferta en Amazon para Head Sneaker 3p Unisex Calcetines  Hombr 
- date: 2019/05/24 15:36:24 +0000 
+ date: 2019/06/08 17:14:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41o%2BtmW8iUL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06X9CJZLC/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00UBV5ZXK: Oferta en Amazon para adidas Originals Superstar  Zapatillas U 
- date: 2019/06/04 07:45:11 +0000 
+ date: 2019/06/08 12:48:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes adidas Originals Superstar  Zapatillas Unisex Adulto  Negro  Core Black/Core Black/Core Black   38 EU a precio de oferta de 31.7 EUR (original: 99.95 EUR) en el siguiente enlace! 
+ Tienes adidas Originals Superstar  Zapatillas Unisex Adulto  Negro  Core Black/Core Black/Core Black   38 EU a precio de oferta de 36.76 EUR (original: 99.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PvTcVdvYL.jpg) 
  

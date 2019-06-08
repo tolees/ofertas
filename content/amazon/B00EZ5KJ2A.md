@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00EZ5KJ2A: Oferta en Amazon para Nike 3PPK Cushion Quarter  Calcetines un 
- date: 2019/05/30 10:24:19 +0000 
+ date: 2019/06/08 14:35:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/410eaXzpwhL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00EZ5KJ2A/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

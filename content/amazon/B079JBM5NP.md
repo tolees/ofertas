@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079JBM5NP: Oferta en Amazon para Royal RepubliQ - Botines de Cuero Hombre 
- date: 2019/06/03 23:51:11 +0000 
+ date: 2019/06/08 15:57:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Royal RepubliQ - Botines de Cuero Hombre  Color Negro  Talla 45 EU a precio de oferta de 51.7 EUR (original: 51.7 EUR) en el siguiente enlace! 
+ Tienes Royal RepubliQ - Botines de Cuero Hombre  Color Negro  Talla 45 EU a precio de oferta de 49.63 EUR (original: 49.63 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Pw3KQ8H1L.jpg) 
  

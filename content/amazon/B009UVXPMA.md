@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B009UVXPMA: Oferta en Amazon para TomTom VIA 135 M Europe - GPS con Blueto 
- date: 2019/05/31 06:40:18 +0000 
+ date: 2019/06/08 12:17:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](http://images.amazon.com/images/P/B009UVXPMA.01._PI_SCMZZZZZZZ_.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B009UVXPMA/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

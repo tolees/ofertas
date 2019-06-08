@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CET7UC0: Oferta en Amazon para Man Action Action Man-Reloj infantil con 
- date: 2019/06/01 11:58:20 +0000 
+ date: 2019/06/08 13:51:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41p65MaDhSL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01CET7UC0/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

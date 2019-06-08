@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016ZIJAV0: Oferta en Amazon para iRobot Roomba 615 - Robot aspirador para 
- date: 2019/06/07 16:19:33 +0000 
+ date: 2019/06/08 16:37:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes iRobot Roomba 615 - Robot aspirador para suelos duros y alfombras  con tecnología Dirt Detect  sistema de limpieza en 3 fases a precio de oferta de 199 EUR (original: 299 EUR) en el siguiente enlace! 
+ Tienes iRobot Roomba 615 - Robot aspirador para suelos duros y alfombras  con tecnología Dirt Detect  sistema de limpieza en 3 fases a precio de oferta de 179 EUR (original: 299 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51%2BcYTME9NL.jpg) 
  

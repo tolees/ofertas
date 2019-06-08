@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DBX4LXB: Oferta en Amazon para Altavoz Bluetooth  KOOHO S7 Altavoz Inal 
- date: 2019/06/04 13:18:18 +0000 
+ date: 2019/06/08 14:36:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51MZ2NDtzTL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07DBX4LXB/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GJP6XWN: Oferta en Amazon para Sergio Tacchini Parigi Classic Nbx  Zapa 
- date: 2019/06/07 13:24:58 +0000 
+ date: 2019/06/08 15:09:59 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

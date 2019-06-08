@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BBXRZNB: Oferta en Amazon para Call of Duty: Black Ops IIII + Tarjeta d 
- date: 2019/05/26 21:40:51 +0000 
+ date: 2019/06/08 12:30:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,8 +9,9 @@
  description: 
  --- 
  
- Tienes Call of Duty: Black Ops IIII + Tarjeta de visita exclusiva  Edición Exclusiva Amazon  a precio de oferta de 31.9 EUR (original: 59.9 EUR) en el siguiente enlace! 
+ Tienes Call of Duty: Black Ops IIII + Tarjeta de visita exclusiva  Edición Exclusiva Amazon  a precio de oferta de 29.9 EUR (original: 29.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41QkyVXnGQL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07BBXRZNB/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

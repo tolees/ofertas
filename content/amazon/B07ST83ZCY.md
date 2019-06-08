@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07ST83ZCY: Oferta en Amazon para Murieo Bolsa de Sellado para Almacenamie 
- date: 2019/06/07 15:05:09 +0000 
+ date: 2019/06/08 16:49:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

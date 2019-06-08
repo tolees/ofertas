@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LZY0A1P: Oferta en Amazon para Ruicer Toallero Barra Acero Inoxidable F 
- date: 2019/06/04 09:18:11 +0000 
+ date: 2019/06/08 16:28:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

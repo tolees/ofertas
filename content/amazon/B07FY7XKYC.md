@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FY7XKYC: Oferta en Amazon para CUBOT J3  2018  Pantalla 18:9/5.0" Andro 
- date: 2019/05/23 08:39:34 +0000 
+ date: 2019/06/08 13:17:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Kd88V0VTL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07FY7XKYC/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

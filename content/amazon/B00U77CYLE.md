@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00U77CYLE: Oferta en Amazon para Logitech ConferenceCam Connect - Sistema 
- date: 2019/05/30 22:51:21 +0000 
+ date: 2019/06/08 15:41:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31fcFLatynL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00U77CYLE/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DSYVL7Q: Oferta en Amazon para Casio Reloj de Pulsera LA680WEA-7EF 
- date: 2019/06/03 21:21:55 +0000 
+ date: 2019/06/08 15:00:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Casio Reloj de Pulsera LA680WEA-7EF a precio de oferta de 22 EUR (original: 45 EUR) en el siguiente enlace! 
+ Tienes Casio Reloj de Pulsera LA680WEA-7EF a precio de oferta de 27.49 EUR (original: 45 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51dI5NREUjL.jpg) 
  

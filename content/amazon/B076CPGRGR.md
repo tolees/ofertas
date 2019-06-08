@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076CPGRGR: Oferta en Amazon para BraceTek - Kit de Marco Para Manos y Hue 
- date: 2019/05/24 16:00:44 +0000 
+ date: 2019/06/08 12:09:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41FwLiNes1L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B076CPGRGR/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

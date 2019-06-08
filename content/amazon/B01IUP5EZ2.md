@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IUP5EZ2: Oferta en Amazon para Ultima Pienso para Perros Mini Adultos c 
- date: 2019/06/01 20:03:20 +0000 
+ date: 2019/06/08 11:43:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41l3ClF8IfL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01IUP5EZ2/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WRSY87R: Oferta en Amazon para APEMAN Camara Deportiva 4K WiFi 16MP Imp 
- date: 2019/06/01 11:14:45 +0000 
+ date: 2019/06/08 12:16:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/515LKbqO2jL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B06WRSY87R/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XFWPXYD: Oferta en Amazon para Samsung EVO Plus - Tarjeta de Memoria mi 
- date: 2019/06/03 21:53:03 +0000 
+ date: 2019/06/08 11:40:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

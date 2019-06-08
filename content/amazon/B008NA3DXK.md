@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B008NA3DXK: Oferta en Amazon para Zotal - Parasital Collar Antiparasitario 
- date: 2019/06/04 01:38:47 +0000 
+ date: 2019/06/08 13:28:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Zotal - Parasital Collar Antiparasitario de 75 cm para perros grandes a precio de oferta de 6.05 EUR (original: 9.16 EUR) en el siguiente enlace! 
+ Tienes Zotal - Parasital Collar Antiparasitario de 75 cm para perros grandes a precio de oferta de 5.65 EUR (original: 9.16 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41kI51ZRfhL.jpg) 
  
