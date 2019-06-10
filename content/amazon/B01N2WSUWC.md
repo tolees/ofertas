@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N2WSUWC: Oferta en Amazon para Blend 20702999  Vaqueros para Hombre  Bl 
- date: 2019/06/01 15:11:27 +0000 
+ date: 2019/06/09 21:22:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/312N9OM4%2BUL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01N2WSUWC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

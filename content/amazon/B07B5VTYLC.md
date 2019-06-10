@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B5VTYLC: Oferta en Amazon para MODERN LIFE Soporte de Pared para TV de  
- date: 2019/05/31 14:29:53 +0000 
+ date: 2019/06/09 20:24:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41xPGQeXVrL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07B5VTYLC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

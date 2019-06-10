@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DSYVL7Q: Oferta en Amazon para Casio Reloj de Pulsera LA680WEA-7EF 
- date: 2019/06/08 15:00:34 +0000 
+ date: 2019/06/09 19:39:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

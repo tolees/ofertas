@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078S4NPKX: Oferta en Amazon para CMP – Bañador para Hombre  Hombre  Bades 
- date: 2019/06/08 15:45:34 +0000 
+ date: 2019/06/09 23:31:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes CMP – Bañador para Hombre  Hombre  Badeshorts  Ice-Ferrari  XXXL a precio de oferta de 12.13 EUR (original: 12.13 EUR) en el siguiente enlace! 
+ Tienes CMP – Bañador para Hombre  Hombre  Badeshorts  Ice-Ferrari  XXXL a precio de oferta de 11.52 EUR (original: 11.52 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qvH1GJM4L.jpg) 
  

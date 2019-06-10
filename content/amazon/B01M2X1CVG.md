@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M2X1CVG: Oferta en Amazon para flintronic® Cartera Tarjeta de Crédito   
- date: 2019/05/26 15:18:44 +0000 
+ date: 2019/06/09 17:50:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51XEC%2BYzm-L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01M2X1CVG/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

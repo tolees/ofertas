@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071WMFMFT: Oferta en Amazon para Tocadiscos de Vinilo Bluetooth Rojo VC40 
- date: 2019/06/04 14:10:57 +0000 
+ date: 2019/06/09 18:36:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ieuAQoQ8L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B071WMFMFT/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

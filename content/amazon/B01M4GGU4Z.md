@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M4GGU4Z: Oferta en Amazon para [Pack de 4] Neutrex Transpirex Pistola 6 
- date: 2019/06/08 15:15:29 +0000 
+ date: 2019/06/09 19:22:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

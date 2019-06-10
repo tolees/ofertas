@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: A2LJWH84E9: Oferta en Amazon para  
- date: 2019/05/30 08:22:28 +0000 
+ date: 2019/06/09 16:37:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![]() 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/A2LJWH84E9/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

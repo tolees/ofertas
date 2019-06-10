@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SNCH8FL: Oferta en Amazon para kaimus Smart Bracelet i9 Sports Step Cou 
- date: 2019/06/07 16:32:07 +0000 
+ date: 2019/06/09 19:05:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

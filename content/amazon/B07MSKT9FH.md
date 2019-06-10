@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MSKT9FH: Oferta en Amazon para New Look Elasticated Cargo 6137807 Panta 
- date: 2019/06/08 16:04:20 +0000 
+ date: 2019/06/09 20:48:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Look Elasticated Cargo 6137807 Pantalones Green  Dark Khaki 34   34W/32L para Hombre a precio de oferta de 13.82 EUR (original: 28.33 EUR) en el siguiente enlace! 
+ Tienes New Look Elasticated Cargo 6137807 Pantalones Green  Dark Khaki 34   34W/32L para Hombre a precio de oferta de 13.27 EUR (original: 28.33 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31ZpqJjckEL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DMDKS47: Oferta en Amazon para Emporio Armani Underwear 9p717 Bañador   
- date: 2019/06/07 15:01:19 +0000 
+ date: 2019/06/09 18:01:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Emporio Armani Underwear 9p717 Bañador   Antracite/Nero/Onda 22844   Medium para Hombre a precio de oferta de 22.21 EUR (original: 45.09 EUR) en el siguiente enlace! 
+ Tienes Emporio Armani Underwear 9p717 Bañador   Antracite/Nero/Onda 22844   Medium para Hombre a precio de oferta de 21.31 EUR (original: 45.09 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Gc56ajuGL.jpg) 
  

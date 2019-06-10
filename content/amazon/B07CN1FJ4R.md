@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CN1FJ4R: Oferta en Amazon para Hangang Localizador de GPS  Vehículo de  
- date: 2019/06/08 12:47:50 +0000 
+ date: 2019/06/09 20:01:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

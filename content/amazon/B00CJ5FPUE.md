@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CJ5FPUE: Oferta en Amazon para Logitech G430 - Auriculares Gaming para  
- date: 2019/06/07 19:09:25 +0000 
+ date: 2019/06/09 21:23:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

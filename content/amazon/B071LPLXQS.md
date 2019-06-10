@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071LPLXQS: Oferta en Amazon para Toallitas de baño Andrex Washlets Classi 
- date: 2019/06/04 10:12:48 +0000 
+ date: 2019/06/09 17:15:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Toallitas de baño Andrex Washlets Classic Clean desechables  pack de 12 a precio de oferta de 18.21 EUR (original: 18.21 EUR) en el siguiente enlace! 
+ Tienes Toallitas de baño Andrex Washlets Classic Clean desechables  pack de 12 a precio de oferta de 17.06 EUR (original: 17.06 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51VfFduTpvL.jpg) 
  

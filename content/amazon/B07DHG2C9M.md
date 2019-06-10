@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DHG2C9M: Oferta en Amazon para ATOTO 2 DIN A6 Android Car Audio/Video n 
- date: 2019/05/31 08:00:30 +0000 
+ date: 2019/06/09 18:00:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51EJfOY22OL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07DHG2C9M/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

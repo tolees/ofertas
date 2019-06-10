@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H2D4PPL: Oferta en Amazon para Naipo Masajeador eléctrico de Mano Portá 
- date: 2019/05/31 12:56:36 +0000 
+ date: 2019/06/09 19:04:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/410UxbNzV-L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07H2D4PPL/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

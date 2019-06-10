@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HP4BGVY: Oferta en Amazon para Calypso Watches Reloj Digital para Hombr 
- date: 2019/06/03 23:22:14 +0000 
+ date: 2019/06/09 22:54:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Calypso Watches Reloj Digital para Hombre de Cuarzo con Correa en Plástico K5780/2 a precio de oferta de 16.06 EUR (original: 30.82 EUR) en el siguiente enlace! 
+ Tienes Calypso Watches Reloj Digital para Hombre de Cuarzo con Correa en Plástico K5780/2 a precio de oferta de 14.01 EUR (original: 30.82 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41QkocGy3AL.jpg) 
  

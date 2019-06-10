@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00GV45FOA: Oferta en Amazon para CMP Unterhemd - Top interior térmico par 
- date: 2019/06/08 13:18:30 +0000 
+ date: 2019/06/10 00:27:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes CMP Unterhemd - Top interior térmico para hombre  color negro  talla S a precio de oferta de 11.55 EUR (original: 11.55 EUR) en el siguiente enlace! 
+ Tienes CMP Unterhemd - Top interior térmico para hombre  color negro  talla S a precio de oferta de 10.97 EUR (original: 10.97 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41A%2BWHq5cLL.jpg) 
  

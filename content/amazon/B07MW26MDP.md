@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MW26MDP: Oferta en Amazon para Proyector QKK  Proyector Mini con Pantal 
- date: 2019/06/04 08:16:06 +0000 
+ date: 2019/06/09 18:16:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

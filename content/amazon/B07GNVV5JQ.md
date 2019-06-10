@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GNVV5JQ: Oferta en Amazon para JACK & JONES Jcoten Shirt Ls One Pocket  
- date: 2019/06/08 14:39:17 +0000 
+ date: 2019/06/09 19:21:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

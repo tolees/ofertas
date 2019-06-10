@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BG7ZZD6: Oferta en Amazon para G-STAR RAW Faeroes Classic Straight Tape 
- date: 2019/05/30 07:37:06 +0000 
+ date: 2019/06/09 17:06:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31CHyctXQNL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07BG7ZZD6/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

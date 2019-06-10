@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GT5MJK: Oferta en Amazon para J.Rosée Collar Mujer  Collar Perla Origi 
- date: 2019/06/08 14:03:40 +0000 
+ date: 2019/06/09 19:54:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

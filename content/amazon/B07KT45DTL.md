@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KT45DTL: Oferta en Amazon para Mini Altavoz con Forma de Coche Colorido 
- date: 2019/06/01 16:34:11 +0000 
+ date: 2019/06/09 22:16:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PMTU-Q-CL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07KT45DTL/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

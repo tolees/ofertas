@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B008AJKPYE: Oferta en Amazon para Bosch Home and Garden 2 608 000 495 Sier 
- date: 2019/06/08 14:20:32 +0000 
+ date: 2019/06/09 17:00:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Bosch Home and Garden 2 608 000 495 Sierra de Bolsillo  Negro  Azul a precio de oferta de 15.55 EUR (original: 31.82 EUR) en el siguiente enlace! 
+ Tienes Bosch Home and Garden 2 608 000 495 Sierra de Bolsillo  Negro  Azul a precio de oferta de 23.71 EUR (original: 31.82 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL.jpg) 
  

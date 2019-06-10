@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XHQXCBX: Oferta en Amazon para Converse CTAS Ember Boot HI Black/Egret  
- date: 2019/06/08 16:06:51 +0000 
+ date: 2019/06/10 00:36:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Converse CTAS Ember Boot HI Black/Egret  Náuticos Unisex Adulto  Schwarz  36 EU a precio de oferta de 26.15 EUR (original: 26.15 EUR) en el siguiente enlace! 
+ Tienes Converse CTAS Ember Boot HI Black/Egret  Náuticos Unisex Adulto  Schwarz  36 EU a precio de oferta de 25.21 EUR (original: 25.21 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41IZE7J0HtL.jpg) 
  

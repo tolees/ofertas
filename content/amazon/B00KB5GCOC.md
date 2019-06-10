@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KB5GCOC: Oferta en Amazon para DC Comics - Sudadera de Manga Larga con  
- date: 2019/05/31 06:06:38 +0000 
+ date: 2019/06/09 21:38:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/411umCgwlFL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00KB5GCOC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

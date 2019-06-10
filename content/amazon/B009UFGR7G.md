@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B009UFGR7G: Oferta en Amazon para Puntomatic - Detergente Pastillas Tubo   
- date: 2019/05/26 19:35:08 +0000 
+ date: 2019/06/09 18:16:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ZlE5u91LL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B009UFGR7G/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

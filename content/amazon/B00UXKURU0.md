@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00UXKURU0: Oferta en Amazon para Adidas Tubular Runner - Zapatillas para  
- date: 2019/06/01 07:15:51 +0000 
+ date: 2019/06/09 23:10:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41q5uHqkZcL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00UXKURU0/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

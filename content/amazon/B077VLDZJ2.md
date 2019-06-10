@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077VLDZJ2: Oferta en Amazon para Adidas CF Advantage CL  Zapatillas de De 
- date: 2019/06/08 12:47:24 +0000 
+ date: 2019/06/09 17:54:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

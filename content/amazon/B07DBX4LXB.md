@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DBX4LXB: Oferta en Amazon para Altavoz Bluetooth  KOOHO S7 Altavoz Inal 
- date: 2019/06/08 14:36:09 +0000 
+ date: 2019/06/09 19:20:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

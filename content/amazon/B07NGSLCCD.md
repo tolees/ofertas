@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NGSLCCD: Oferta en Amazon para Medion P6705 - Ordenador portátil gaming 
- date: 2019/06/07 17:35:18 +0000 
+ date: 2019/06/09 16:33:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

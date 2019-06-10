@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LEN1TPG: Oferta en Amazon para JACK & JONES JORJAMES SHIRT LS  Camisa H 
- date: 2019/06/08 11:58:23 +0000 
+ date: 2019/06/09 19:21:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

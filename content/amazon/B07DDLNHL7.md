@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DDLNHL7: Oferta en Amazon para Petrol Industries M-FW18-JAC121  Abrigo  
- date: 2019/06/08 15:04:13 +0000 
+ date: 2019/06/09 17:12:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

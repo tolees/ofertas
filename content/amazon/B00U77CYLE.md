@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00U77CYLE: Oferta en Amazon para Logitech ConferenceCam Connect - Sistema 
- date: 2019/06/08 15:41:07 +0000 
+ date: 2019/06/09 19:01:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

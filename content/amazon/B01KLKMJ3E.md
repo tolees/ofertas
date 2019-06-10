@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KLKMJ3E: Oferta en Amazon para SELECTED HOMME SHHROLF CREW NECK  suéter 
- date: 2019/06/08 12:31:14 +0000 
+ date: 2019/06/09 19:48:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SELECTED HOMME SHHROLF CREW NECK  suéter Hombre  Marrón  Dachshund   Medium a precio de oferta de 17.91 EUR (original: 17.91 EUR) en el siguiente enlace! 
+ Tienes SELECTED HOMME SHHROLF CREW NECK  suéter Hombre  Marrón  Dachshund   Medium a precio de oferta de 17.81 EUR (original: 17.81 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41g92ADReDL.jpg) 
  

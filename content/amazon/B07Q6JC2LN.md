@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Q6JC2LN: Oferta en Amazon para TrekPow Arrancador de Coches G39  1200A  
- date: 2019/06/07 18:17:34 +0000 
+ date: 2019/06/09 20:34:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

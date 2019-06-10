@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B014JRR6VU: Oferta en Amazon para Henry London Reloj Analógico para Unisex 
- date: 2019/05/24 18:42:55 +0000 
+ date: 2019/06/09 18:39:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41STcqoCG3L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B014JRR6VU/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

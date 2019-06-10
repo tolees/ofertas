@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XA7HCU6: Oferta en Amazon para Marcilla - Decaffeinated Café Molido Nat 
- date: 2019/06/01 09:33:58 +0000 
+ date: 2019/06/09 17:45:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51p2EBMIauL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00XA7HCU6/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

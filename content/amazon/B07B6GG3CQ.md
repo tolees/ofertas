@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B6GG3CQ: Oferta en Amazon para HP Pavilion 14-bf014ns - Ordenador Portá 
- date: 2019/05/30 12:01:27 +0000 
+ date: 2019/06/10 00:02:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/411QdWhUVoL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07B6GG3CQ/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

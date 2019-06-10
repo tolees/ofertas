@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MFD4MNL: Oferta en Amazon para UMIDIGI F1 Smartphone Libres Android 9.0 
- date: 2019/05/27 09:43:27 +0000 
+ date: 2019/06/09 20:01:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51MSh3co6nL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07MFD4MNL/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

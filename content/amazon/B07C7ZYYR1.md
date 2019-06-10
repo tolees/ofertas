@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C7ZYYR1: Oferta en Amazon para Fly London Meko344fly  Botas Chelsea par 
- date: 2019/06/08 14:42:59 +0000 
+ date: 2019/06/09 20:27:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Fly London Meko344fly  Botas Chelsea para Hombre  Marrón  Brown 002   45 EU a precio de oferta de 65.64 EUR (original: 65.64 EUR) en el siguiente enlace! 
+ Tienes Fly London Meko344fly  Botas Chelsea para Hombre  Marrón  Brown 002   45 EU a precio de oferta de 63.93 EUR (original: 63.93 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/414Ug7WSwzL.jpg) 
  

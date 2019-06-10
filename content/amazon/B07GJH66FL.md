@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GJH66FL: Oferta en Amazon para steanum Soporte Móvil para Coche  Metáli 
- date: 2019/05/30 11:32:19 +0000 
+ date: 2019/06/09 21:17:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/418bqhvSOZL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07GJH66FL/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B014ITCYIE: Oferta en Amazon para Olympus E-M10 Mark-II - Cámara Evil de 1 
- date: 2019/05/30 07:51:49 +0000 
+ date: 2019/06/09 19:20:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41q3M0xFOXL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B014ITCYIE/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CMS3TQS: Oferta en Amazon para Hisense H55A6100 - TV Hisense 55" 4K  HD 
- date: 2019/06/08 16:05:14 +0000 
+ date: 2019/06/09 19:25:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

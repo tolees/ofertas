@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K8MJPFH: Oferta en Amazon para ISWIM Pulsera Actividad  Pulsera Intelig 
- date: 2019/06/08 13:32:11 +0000 
+ date: 2019/06/09 17:14:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

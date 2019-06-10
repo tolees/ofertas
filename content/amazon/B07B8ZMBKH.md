@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B8ZMBKH: Oferta en Amazon para Atelier GARDEUR BILL-18  Vaqueros Slim p 
- date: 2019/06/08 12:54:23 +0000 
+ date: 2019/06/09 23:43:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

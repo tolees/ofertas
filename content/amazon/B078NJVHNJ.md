@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078NJVHNJ: Oferta en Amazon para Asics Gel-Quantum 360 Knit 2  Zapatillas 
- date: 2019/06/08 14:07:32 +0000 
+ date: 2019/06/09 22:36:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

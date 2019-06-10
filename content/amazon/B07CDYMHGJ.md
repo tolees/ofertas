@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CDYMHGJ: Oferta en Amazon para Fat Face Logan Check  Camisa Casual para 
- date: 2019/06/07 14:18:15 +0000 
+ date: 2019/06/09 16:32:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

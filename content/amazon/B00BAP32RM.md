@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00BAP32RM: Oferta en Amazon para Jacques Lemans 1-1708E - Reloj analógico 
- date: 2019/05/27 10:09:47 +0000 
+ date: 2019/06/09 20:21:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PDw2tzgRL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00BAP32RM/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

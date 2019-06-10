@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XS9TG7K: Oferta en Amazon para New Balance Fresh Foam Kaymin  Zapatilla 
- date: 2019/06/08 13:30:46 +0000 
+ date: 2019/06/10 00:27:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Balance Fresh Foam Kaymin  Zapatillas de Running para Hombre  Negro  Black/Grey   42.5 EU a precio de oferta de 45.07 EUR (original: 45.07 EUR) en el siguiente enlace! 
+ Tienes New Balance Fresh Foam Kaymin  Zapatillas de Running para Hombre  Negro  Black/Grey   42.5 EU a precio de oferta de 43.27 EUR (original: 43.27 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41FisZC7HIL.jpg) 
  

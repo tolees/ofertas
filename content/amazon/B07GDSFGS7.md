@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDSFGS7: Oferta en Amazon para Xiaomi MI A2 - Smartphone DE 5.9"  Qualc 
- date: 2019/06/07 18:24:35 +0000 
+ date: 2019/06/09 20:37:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

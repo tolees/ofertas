@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTDNT1R: Oferta en Amazon para adidas ID Stadium PT Pantalón  Hombre  T 
- date: 2019/06/07 15:06:46 +0000 
+ date: 2019/06/09 23:27:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes adidas ID Stadium PT Pantalón  Hombre  Tinley/gricen  S a precio de oferta de 35.37 EUR (original: 35.37 EUR) en el siguiente enlace! 
+ Tienes adidas ID Stadium PT Pantalón  Hombre  Tinley/gricen  S a precio de oferta de 34.92 EUR (original: 34.92 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31myOkNeaGL.jpg) 
  

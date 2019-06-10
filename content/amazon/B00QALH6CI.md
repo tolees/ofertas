@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00QALH6CI: Oferta en Amazon para Brother RJ3050 - Impresora portátil de T 
- date: 2019/06/04 07:43:41 +0000 
+ date: 2019/06/09 16:58:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Brother RJ3050 - Impresora portátil de Tickets de hasta 3" de Ancho  conexión USB  Bluetooth y WiFi  a precio de oferta de 485.35 EUR (original: 618.99 EUR) en el siguiente enlace! 
+ Tienes Brother RJ3050 - Impresora portátil de Tickets de hasta 3" de Ancho  conexión USB  Bluetooth y WiFi  a precio de oferta de 487.06 EUR (original: 618.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31JcLtGVbSL.jpg) 
  

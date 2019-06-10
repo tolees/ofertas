@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HGE17UO: Oferta en Amazon para r-Music Color Box Altavoces PC/Estacione 
- date: 2019/06/03 22:36:44 +0000 
+ date: 2019/06/09 17:31:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes r-Music Color Box Altavoces PC/Estaciones MP3 a precio de oferta de 12.61 EUR (original: 12.61 EUR) en el siguiente enlace! 
+ Tienes r-Music Color Box Altavoces PC/Estaciones MP3 a precio de oferta de 12.75 EUR (original: 12.75 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41UdDMmkZoL.jpg) 
  

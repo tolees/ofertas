@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078WWNG6Z: Oferta en Amazon para Blend Rock  Vaqueros Tapered para Hombre 
- date: 2019/06/08 15:30:52 +0000 
+ date: 2019/06/09 22:49:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

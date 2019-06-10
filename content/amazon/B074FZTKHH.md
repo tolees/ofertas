@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074FZTKHH: Oferta en Amazon para StarTech.com Docking Station para Ordena 
- date: 2019/05/27 12:16:55 +0000 
+ date: 2019/06/09 22:04:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31Smt434pjL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B074FZTKHH/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
