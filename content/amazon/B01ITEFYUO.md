@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ITEFYUO: Oferta en Amazon para dodocool Mini Altavoz Bluetooth para PC  
- date: 2019/06/04 18:42:25 +0000 
+ date: 2019/06/14 10:27:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/311FfR%2BWZyL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01ITEFYUO/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

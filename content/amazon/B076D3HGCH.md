@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076D3HGCH: Oferta en Amazon para GQUEEN Gafas de sol polarizadas Clásico  
- date: 2019/05/23 10:32:50 +0000 
+ date: 2019/06/14 09:30:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31uW8fZH8hL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B076D3HGCH/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

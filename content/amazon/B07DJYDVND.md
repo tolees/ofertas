@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJYDVND: Oferta en Amazon para MAC Lennox  Vaqueros Straight para Hombr 
- date: 2019/06/09 19:25:48 +0000 
+ date: 2019/06/14 12:46:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

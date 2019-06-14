@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IIHK3GC: Oferta en Amazon para little live pets Sleepy Puppy  versión e 
- date: 2019/05/31 14:09:42 +0000 
+ date: 2019/06/14 11:52:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51JrOS%2B5%2B8L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01IIHK3GC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CFM5QRJ: Oferta en Amazon para Huawei P20 - Smartphone de 5.8"  Octa-Co 
- date: 2019/06/07 17:24:40 +0000 
+ date: 2019/06/14 07:42:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

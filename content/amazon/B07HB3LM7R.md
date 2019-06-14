@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HB3LM7R: Oferta en Amazon para Funko 35596 Pop! Vinilo: Boy Meets World 
- date: 2019/06/09 17:52:34 +0000 
+ date: 2019/06/14 09:18:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Funko 35596 Pop! Vinilo: Boy Meets World: Topanga  Multi a precio de oferta de 6.04 EUR (original: 6.04 EUR) en el siguiente enlace! 
+ Tienes Funko 35596 Pop! Vinilo: Boy Meets World: Topanga  Multi a precio de oferta de 5.49 EUR (original: 5.49 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/311zGrs%2BnUL.jpg) 
  

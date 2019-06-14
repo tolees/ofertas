@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003UBKV4Q: Oferta en Amazon para Nike Court Suede  Zapatillas de Gimnasia 
- date: 2019/06/09 17:52:57 +0000 
+ date: 2019/06/14 09:18:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Nike Court Suede  Zapatillas de Gimnasia para Hombre  Azul Deep Royal Blue/Black/Gum 405  43 EU a precio de oferta de 33.34 EUR (original: 60 EUR) en el siguiente enlace! 
+ Tienes Nike Court Suede  Zapatillas de Gimnasia para Hombre  Azul Deep Royal Blue/Black/Gum 405  43 EU a precio de oferta de 30.47 EUR (original: 60 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31VmyPCl8SL.jpg) 
  

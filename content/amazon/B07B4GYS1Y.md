@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B4GYS1Y: Oferta en Amazon para Lenovo TAB10 - Tablet de 10.1" HD  Proce 
- date: 2019/06/08 12:10:31 +0000 
+ date: 2019/06/14 10:37:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lenovo TAB10 - Tablet de 10.1" HD  Procesador Qualcomm Snapdragon 210  2GB de RAM  16GB de eMCP  Camara frontal de 5MP  SO Android 6.0  WiFi + Bluetooth 4.0  color negro a precio de oferta de 119 EUR (original: 149 EUR) en el siguiente enlace! 
+ Tienes Lenovo TAB10 - Tablet de 10.1" HD  Procesador Qualcomm Snapdragon 210  2GB de RAM  16GB de eMCP  Camara frontal de 5MP  SO Android 6.0  WiFi + Bluetooth 4.0  color negro a precio de oferta de 89.4 EUR (original: 149 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51neT4YzIFL.jpg) 
  

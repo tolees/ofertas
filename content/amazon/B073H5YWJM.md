@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073H5YWJM: Oferta en Amazon para Clarks Trace Dusk  Botas Chelsea para Ho 
- date: 2019/06/04 07:04:17 +0000 
+ date: 2019/06/14 13:08:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Clarks Trace Dusk  Botas Chelsea para Hombre  Marrón  Mahogany Leather   42.5 EU a precio de oferta de 91.79 EUR (original: 170 EUR) en el siguiente enlace! 
+ Tienes Clarks Trace Dusk  Botas Chelsea para Hombre  Marrón  Mahogany Leather   42.5 EU a precio de oferta de 73.67 EUR (original: 170 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41LohoRJyQL.jpg) 
  

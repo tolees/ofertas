@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EAOJBUQ: Oferta en Amazon para WD My Passport Wireless Pro - Disco Duro 
- date: 2019/06/04 02:39:10 +0000 
+ date: 2019/06/14 09:55:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes WD My Passport Wireless Pro - Disco Duro Externo portátil de 3 TB  con Wi-Fi AC  SD y USB 3.0  a precio de oferta de 214.72 EUR (original: 249.99 EUR) en el siguiente enlace! 
+ Tienes WD My Passport Wireless Pro - Disco Duro Externo portátil de 3 TB  con Wi-Fi AC  SD y USB 3.0  a precio de oferta de 216.42 EUR (original: 249.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wJPYHDVWL.jpg) 
  

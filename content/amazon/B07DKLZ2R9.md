@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DKLZ2R9: Oferta en Amazon para Edge Entertainment- Lords of Hellas - Es 
- date: 2019/06/01 08:14:24 +0000 
+ date: 2019/06/14 07:51:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51WfqURR20L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07DKLZ2R9/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

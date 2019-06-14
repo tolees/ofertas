@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B47GDLR: Oferta en Amazon para Arthur Macskinny Bañador  Rojo Rouge  Me 
- date: 2019/06/09 20:18:51 +0000 
+ date: 2019/06/14 11:57:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Arthur Macskinny Bañador  Rojo Rouge  Medium para Hombre a precio de oferta de 16.96 EUR (original: 32 EUR) en el siguiente enlace! 
+ Tienes Arthur Macskinny Bañador  Rojo Rouge  Medium para Hombre a precio de oferta de 16.64 EUR (original: 32 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/414Ai9%2BEobL.jpg) 
  

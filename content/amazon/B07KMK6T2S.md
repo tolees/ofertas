@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KMK6T2S: Oferta en Amazon para Contenedores de almacenamiento hermético 
- date: 2019/05/31 10:18:48 +0000 
+ date: 2019/06/14 09:41:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41CE-NfpEwL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07KMK6T2S/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

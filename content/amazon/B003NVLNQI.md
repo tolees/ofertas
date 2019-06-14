@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003NVLNQI: Oferta en Amazon para Manz Capri MOK G Hirsch 103051-12 - Zapa 
- date: 2019/06/07 15:58:02 +0000 
+ date: 2019/06/14 09:45:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

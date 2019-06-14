@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0798DYJKB: Oferta en Amazon para Kickers - Botas de Otra Piel Hombre  Neg 
- date: 2019/05/26 17:09:30 +0000 
+ date: 2019/06/14 10:39:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41GwObPgSeL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B0798DYJKB/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

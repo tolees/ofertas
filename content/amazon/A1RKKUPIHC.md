@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: A1RKKUPIHC: Oferta en Amazon para  
- date: 2019/06/04 17:24:53 +0000 
+ date: 2019/06/14 11:35:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![]() 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/A1RKKUPIHC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

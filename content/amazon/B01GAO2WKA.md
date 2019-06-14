@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GAO2WKA: Oferta en Amazon para Regatta Classic Bomber Chaqueta  Black/S 
- date: 2019/06/08 14:43:06 +0000 
+ date: 2019/06/14 10:13:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Regatta Classic Bomber Chaqueta  Black/Seal  Small para Hombre a precio de oferta de 18.31 EUR (original: 18.31 EUR) en el siguiente enlace! 
+ Tienes Regatta Classic Bomber Chaqueta  Black/Seal  Small para Hombre a precio de oferta de 17.32 EUR (original: 17.32 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31U-9E5aa9L.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FWDX5Y1: Oferta en Amazon para AmazonBasics - Abrillantador para pintur 
- date: 2019/06/07 17:28:57 +0000 
+ date: 2019/06/14 08:04:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes AmazonBasics - Abrillantador para pintura de coche  pack de 2 botellas de 500 ml con tapa abatible a precio de oferta de 8.7 EUR (original: 8.7 EUR) en el siguiente enlace! 
+ Tienes AmazonBasics - Abrillantador para pintura de coche  pack de 2 botellas de 500 ml con tapa abatible a precio de oferta de 8.85 EUR (original: 19.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41rcLzQzZFL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IUKN78E: Oferta en Amazon para 3x Gafas 3D DLP-Link "Wave Xtra" - Full  
- date: 2019/05/30 09:30:30 +0000 
+ date: 2019/06/14 08:39:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41-jb5vJRHL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00IUKN78E/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

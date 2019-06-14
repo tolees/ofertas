@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K9HVXBH: Oferta en Amazon para TACKLIFE Lijadora de Banda  600W Lijador 
- date: 2019/06/08 16:17:46 +0000 
+ date: 2019/06/14 09:31:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

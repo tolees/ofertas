@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LAV6PGK: Oferta en Amazon para LG PH450UG - Proyector LED portátil de T 
- date: 2019/05/31 03:05:31 +0000 
+ date: 2019/06/14 08:55:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,9 +9,9 @@
  description: 
  --- 
  
- Tienes LG PH450UG - Proyector LED portátil de Tiro Ultra Corto  80" a 33 cm   HD Ready 720  Pantalla de hasta 80 Pulgadas  batería de 2 5 Horas y  lampara LED de hasta 30.000 Horas de Vida útil  a precio de oferta de 459.58 EUR (original: 699 EUR) en el siguiente enlace! 
+ Tienes LG PH450UG - Proyector LED portátil de Tiro Ultra Corto  80" a 33 cm   HD Ready 720  Pantalla de hasta 80 Pulgadas  batería de 2 5 Horas y  lampara LED de hasta 30.000 Horas de Vida útil  a precio de oferta de 461.99 EUR (original: 699 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31hXy8HM%2BaL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01LAV6PGK/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

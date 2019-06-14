@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HSLTMG8: Oferta en Amazon para New Look Green Highlight  Camisa para Ho 
- date: 2019/06/09 22:25:32 +0000 
+ date: 2019/06/14 11:36:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

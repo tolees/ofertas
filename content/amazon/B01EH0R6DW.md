@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EH0R6DW: Oferta en Amazon para AUKEY Quick Charge 3.0 Cargador USB 60W  
- date: 2019/06/01 09:56:40 +0000 
+ date: 2019/06/14 09:41:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31ajAdh5PQL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01EH0R6DW/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

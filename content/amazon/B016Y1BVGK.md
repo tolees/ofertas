@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016Y1BVGK: Oferta en Amazon para YUNTAB Videocámara W9 WiFi de Acción-12M 
- date: 2019/06/04 10:26:59 +0000 
+ date: 2019/06/14 13:08:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

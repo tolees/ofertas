@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0731DDNLH: Oferta en Amazon para Varon Dandy Agua De Colonia Flacon - 100 
- date: 2019/06/01 08:22:01 +0000 
+ date: 2019/06/14 11:05:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/3156R5AZ5DL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B0731DDNLH/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

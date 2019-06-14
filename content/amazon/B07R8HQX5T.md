@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07R8HQX5T: Oferta en Amazon para Kaimus Reloj de Pulsera de Cuarzo de For 
- date: 2019/06/04 09:02:09 +0000 
+ date: 2019/06/14 09:37:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

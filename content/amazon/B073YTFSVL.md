@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073YTFSVL: Oferta en Amazon para TACKLIFE Lijadora Eléctrica 130W  12 000 
- date: 2019/05/23 13:03:14 +0000 
+ date: 2019/06/14 08:03:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/414S-P0egHL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B073YTFSVL/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

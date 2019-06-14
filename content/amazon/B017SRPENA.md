@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B017SRPENA: Oferta en Amazon para Salomon Chalten TS CSWP - Calzado Hombre 
- date: 2019/05/24 15:28:11 +0000 
+ date: 2019/06/14 12:27:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/518x5rroVZL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B017SRPENA/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07MZKJT12: Oferta en Amazon para Days Gone + Steelbook  Edición Exclusiva 
- date: 2019/06/09 17:55:07 +0000 
+ title: B07MZKJT12: Oferta en Amazon para Days Gone + Steelbook + PlayStation 4 
+ date: 2019/06/14 10:28:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Days Gone + Steelbook  Edición Exclusiva Amazon  a precio de oferta de 44.9 EUR (original: 62.9 EUR) en el siguiente enlace! 
+ Tienes Days Gone + Steelbook + PlayStation 4 a precio de oferta de 44.9 EUR (original: 62.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ptiwiwQ7L.jpg) 
  

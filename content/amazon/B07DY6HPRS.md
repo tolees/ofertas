@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DY6HPRS: Oferta en Amazon para Mephisto P5128482 Zapatos Hombre Azul 40 
- date: 2019/06/07 15:51:47 +0000 
+ date: 2019/06/14 10:30:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Mephisto P5128482 Zapatos Hombre Azul 40½ a precio de oferta de 107.16 EUR (original: 107.16 EUR) en el siguiente enlace! 
+ Tienes Mephisto P5128482 Zapatos Hombre Azul 40œ a precio de oferta de 100.04 EUR (original: 100.04 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41y5c4XDyjL.jpg) 
  

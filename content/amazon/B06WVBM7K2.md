@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B06WVBM7K2: Oferta en Amazon para LEGO - Technic Camión Grúa Todoterreno 6 
- date: 2019/06/04 03:07:30 +0000 
+ title: B06WVBM7K2: Oferta en Amazon para LEGO Technic - Camión Grúa Todoterreno 6 
+ date: 2019/06/14 13:06:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO - Technic Camión Grúa Todoterreno 6 x 6  Juguete de Máquina de Construcción  42070  a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes LEGO Technic - Camión Grúa Todoterreno 6 x 6  Juguete de Máquina de Construcción  42070  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/61R3daHIqpL.jpg) 
  

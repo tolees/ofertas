@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07BDFWZ3D: Oferta en Amazon para OKCS Dock DE 06 – 06 – 18 Combinado Verd 
- date: 2019/06/04 08:36:40 +0000 
+ title: B07BDFWZ3D: Oferta en Amazon para OKCS Dock DE 06 - 06 - 18 Combinado Verd 
+ date: 2019/06/14 10:52:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes OKCS Dock DE 06 – 06 – 18 Combinado Verde Dockingstation Silber a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes OKCS Dock DE 06 - 06 - 18 Combinado Verde Dockingstation Silber a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41UWYFlDQzL.jpg) 
  

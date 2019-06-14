@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HTBMCTC: Oferta en Amazon para ISWIM Pulsera de Actividad Inteligente E 
- date: 2019/06/04 08:19:38 +0000 
+ date: 2019/06/14 08:21:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

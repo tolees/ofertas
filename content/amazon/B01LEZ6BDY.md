@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LEZ6BDY: Oferta en Amazon para New Look Wool Overcoat Abrigo  Beige  M  
- date: 2019/06/04 10:16:25 +0000 
+ date: 2019/06/14 12:06:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Look Wool Overcoat Abrigo  Beige  M para Hombre a precio de oferta de 38.66 EUR (original: 40.27 EUR) en el siguiente enlace! 
+ Tienes New Look Wool Overcoat Abrigo  Beige  M para Hombre a precio de oferta de 35.17 EUR (original: 35.17 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41j5vwyEb1L.jpg) 
  

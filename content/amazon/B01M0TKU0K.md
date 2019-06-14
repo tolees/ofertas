@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M0TKU0K: Oferta en Amazon para Indicode 20-021-Camisa de Oficina Hombre 
- date: 2019/06/07 19:29:38 +0000 
+ date: 2019/06/14 09:06:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Indicode 20-021-Camisa de Oficina Hombre Azul  Sky Way  S a precio de oferta de 11.22 EUR (original: 11.22 EUR) en el siguiente enlace! 
+ Tienes Indicode 20-021-Camisa de Oficina Hombre Azul  Sky Way  S a precio de oferta de 8.64 EUR (original: 8.64 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/410YHg6xbQL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JXPT2Q6: Oferta en Amazon para Kingston SDCA10/16GBSP - Tarjeta microSD 
- date: 2019/06/07 16:18:28 +0000 
+ date: 2019/06/14 08:15:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
