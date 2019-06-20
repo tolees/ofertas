@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNTSHZF: Oferta en Amazon para LEGO Friends - Cafetería cupcake de oliv 
- date: 2019/06/14 09:01:49 +0000 
+ title: B07FNTSHZF: Oferta en Amazon para LEGO- Cafetería Cupcake de Olivia Heartl 
+ date: 2019/06/20 09:16:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO Friends - Cafetería cupcake de olivia juguete creativo de construcción con detalles para crear tu propia pastelería  41366  a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes LEGO- Cafetería Cupcake de Olivia Heartlake Dragón Dorado  set de ninjas creativo de juguete para construir  Multicolor  41366  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/510vDlw3sHL.jpg) 
  

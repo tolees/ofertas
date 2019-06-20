@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KTWLXB6: Oferta en Amazon para LEGO Ninjago - Shuricóptero  Set de cons 
- date: 2019/06/14 09:00:51 +0000 
+ title: B07KTWLXB6: Oferta en Amazon para LEGO Ninjago - Shuricóptero Set de const 
+ date: 2019/06/20 09:15:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO Ninjago - Shuricóptero  Set de construcción de Helicóptero Ninja de juguete  Incluye dos Samurais de juguete  70673  a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes LEGO Ninjago - Shuricóptero Set de construcción de Helicóptero Ninja de juguete  incluye dos Samurais de juguete  Novedad 2019  70673  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51gOnldCiZL.jpg) 
  

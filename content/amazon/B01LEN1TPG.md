@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LEN1TPG: Oferta en Amazon para JACK & JONES JORJAMES SHIRT LS  Camisa H 
- date: 2019/06/09 19:21:22 +0000 
+ date: 2019/06/20 08:26:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES JORJAMES SHIRT LS  Camisa Hombre  Multicolor  Cloud Dancer   Medium a precio de oferta de 14 EUR (original: 14 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES JORJAMES SHIRT LS  Camisa Hombre  Multicolor  Cloud Dancer   Medium a precio de oferta de 10.4 EUR (original: 10.4 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ewpcXyC5L.jpg) 
  

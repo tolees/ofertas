@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XVDZT2T: Oferta en Amazon para Term Clerk Lace  Zapatos de Cordones Oxf 
- date: 2019/06/14 13:02:06 +0000 
+ date: 2019/06/20 11:46:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

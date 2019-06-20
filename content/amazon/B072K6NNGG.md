@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072K6NNGG: Oferta en Amazon para Apple iPad Pro  10 5 pulgadas y 256GB co 
- date: 2019/06/14 11:24:42 +0000 
+ date: 2019/06/20 13:28:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
