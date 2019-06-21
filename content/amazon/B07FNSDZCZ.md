@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNSDZCZ: Oferta en Amazon para LEGO® - Movie 2 Visitas de Emmet y Lucy  
- date: 2019/06/20 09:16:49 +0000 
+ title: B07FNSDZCZ: Oferta en Amazon para LEGO - DUPLO Movie 2 Visitas de Emmet y  
+ date: 2019/06/20 17:38:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO® - Movie 2 Visitas de Emmet y Lucy desde el Planeta DUPLO  juego de construcción de ladrillos  Multicolor ES 10895  a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes LEGO - DUPLO Movie 2 Visitas de Emmet y Lucy desde el Planeta DUPLO  Juego de construcción de ladrillos  10895  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51H5-Q3g6AL.jpg) 
  
