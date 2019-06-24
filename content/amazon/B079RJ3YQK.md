@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079RJ3YQK: Oferta en Amazon para Geox M Vincit  Abrigo para Hombre  Negro 
- date: 2019/06/20 18:36:25 +0000 
+ date: 2019/06/24 19:45:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Geox M Vincit  Abrigo para Hombre  Negro  Black F9000   Medium  Talla Del Fabricante: 50  a precio de oferta de 85.87 EUR (original: 261.75 EUR) en el siguiente enlace! 
+ Tienes Geox M Vincit  Abrigo para Hombre  Negro  Black F9000   Medium  Talla Del Fabricante: 50  a precio de oferta de 82.44 EUR (original: 85.87 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31PsF2ngNoL.jpg) 
  

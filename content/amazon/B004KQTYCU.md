@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004KQTYCU: Oferta en Amazon para adidas Cuerda de Velocidad 
- date: 2019/06/20 08:46:52 +0000 
+ date: 2019/06/24 15:17:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

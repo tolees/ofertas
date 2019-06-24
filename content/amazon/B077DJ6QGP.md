@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077DJ6QGP: Oferta en Amazon para Synology DiskStation DS218J Ethernet Esc 
- date: 2019/06/20 10:41:32 +0000 
+ date: 2019/06/24 15:42:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BSNLM4Q: Oferta en Amazon para REPLAY Ronas Vaqueros Slim  Azul  Mid Bl 
- date: 2019/06/20 13:06:48 +0000 
+ date: 2019/06/24 14:12:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

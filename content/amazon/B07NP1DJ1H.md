@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NP1DJ1H: Oferta en Amazon para Samsung U32R590CWU Pantalla para PC 80 c 
- date: 2019/06/20 18:03:11 +0000 
+ date: 2019/06/24 16:14:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

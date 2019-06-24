@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075T2KJZD: Oferta en Amazon para LEGO Ninjago - Cuartel General de H.D.G  
- date: 2019/06/20 21:24:04 +0000 
+ date: 2019/06/24 15:17:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO Ninjago - Cuartel General de H.D.G  70640  a precio de oferta de 30.99 EUR (original: 44.99 EUR) en el siguiente enlace! 
+ Tienes LEGO Ninjago - Cuartel General de H.D.G  70640  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51vPtdJjZGL.jpg) 
  

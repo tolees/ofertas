@@ -1,0 +1,17 @@
+--- 
+ layout: post 
+ title: B071L1LTSR: Oferta en Amazon para G-STAR RAW Base R T S/s 2-Pack  Camiseta 
+ date: 2019/06/24 16:31:59 +0000 
+ comments: true 
+ tags: amazon 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes G-STAR RAW Base R T S/s 2-Pack  Camiseta Hombre  Gris  Grey Htr 906   Small a precio de oferta de 18.95 EUR (original: 35 EUR) en el siguiente enlace! 
+ 
+ ![](https://images-eu.ssl-images-amazon.com/images/I/51yzwPURQiL.jpg) 
+ 
+ [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B071L1LTSR/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

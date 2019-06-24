@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KHNYZK1: Oferta en Amazon para Auriculares Bluetooth Deportivos  Syllab 
- date: 2019/06/20 09:51:04 +0000 
+ date: 2019/06/24 19:05:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

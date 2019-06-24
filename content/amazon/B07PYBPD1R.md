@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PYBPD1R: Oferta en Amazon para Moma Bikes Bicicleta Plegable Urbana SHI 
- date: 2019/06/20 08:50:30 +0000 
+ date: 2019/06/24 19:32:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

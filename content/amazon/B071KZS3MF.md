@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071KZS3MF: Oferta en Amazon para Logitech MX Master 2S - Ratón inalámbric 
- date: 2019/06/20 16:46:09 +0000 
+ date: 2019/06/24 16:58:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

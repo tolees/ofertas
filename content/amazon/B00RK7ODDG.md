@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00RK7ODDG: Oferta en Amazon para Sony Handycam HDR-CX405 - Videocámara de 
- date: 2019/06/20 12:09:49 +0000 
+ date: 2019/06/24 14:56:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

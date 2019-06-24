@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MUJKE5U: Oferta en Amazon para Celio Sodark  Vaqueros Rectos para Hombr 
- date: 2019/06/20 11:04:50 +0000 
+ date: 2019/06/24 17:51:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Celio Sodark  Vaqueros Rectos para Hombre  Azul  Brut   W42/L34 a precio de oferta de 12.2 EUR (original: 12.2 EUR) en el siguiente enlace! 
+ Tienes Celio Sodark  Vaqueros Rectos para Hombre  Azul  Brut   W42/L34 a precio de oferta de 11.87 EUR (original: 11.87 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41u77U-8OTL.jpg) 
  
