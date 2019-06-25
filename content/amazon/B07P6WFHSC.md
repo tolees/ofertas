@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P6WFHSC: Oferta en Amazon para Xiaomi Redmi Note 7 Smartphones de 6.3   
- date: 2019/06/20 09:09:00 +0000 
+ date: 2019/06/24 20:48:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

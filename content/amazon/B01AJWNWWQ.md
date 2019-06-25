@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AJWNWWQ: Oferta en Amazon para Maxtor STSHX-M401TCBM - Disco Duro Exter 
- date: 2019/06/20 18:46:40 +0000 
+ date: 2019/06/24 22:26:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

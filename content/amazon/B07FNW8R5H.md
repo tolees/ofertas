@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNW8R5H: Oferta en Amazon para LEGO La LEGO Película 2 - Casa de los Su 
- date: 2019/06/20 17:38:23 +0000 
+ date: 2019/06/24 21:25:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

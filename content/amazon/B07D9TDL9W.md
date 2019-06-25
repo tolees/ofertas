@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D9TDL9W: Oferta en Amazon para Tommy Jeans Hombre Technical Parka Parka 
- date: 2019/06/20 10:55:12 +0000 
+ date: 2019/06/25 00:56:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tommy Jeans Hombre Technical Parka Parka Manga Larga  Negro  Tommy Black 078  X-Large a precio de oferta de 103.59 EUR (original: 103.59 EUR) en el siguiente enlace! 
+ Tienes Tommy Jeans Hombre Technical Parka Parka Manga Larga  Negro  Tommy Black 078  X-Large a precio de oferta de 99.45 EUR (original: 99.45 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41lM-fFkfYL.jpg) 
  

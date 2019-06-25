@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B19DPHJ: Oferta en Amazon para Pierre Cardin Kurzjacke  Chaqueta para H 
- date: 2019/06/20 10:39:17 +0000 
+ date: 2019/06/25 05:46:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Pierre Cardin Kurzjacke  Chaqueta para Hombre  Azul  Marine 3000  XX-Large a precio de oferta de 79.54 EUR (original: 79.54 EUR) en el siguiente enlace! 
+ Tienes Pierre Cardin Kurzjacke  Chaqueta para Hombre  Azul  Marine 3000  XX-Large a precio de oferta de 76.62 EUR (original: 79.54 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41pwiM03RrL.jpg) 
  

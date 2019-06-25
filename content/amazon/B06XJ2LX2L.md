@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XJ2LX2L: Oferta en Amazon para Uhlsport 1006749010001 Brazalete de Capi 
- date: 2019/06/20 20:43:16 +0000 
+ date: 2019/06/25 00:14:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Uhlsport 1006749010001 Brazalete de Capitán  Unisex Adulto   FL.Yellow/shockred   Talla Única a precio de oferta de 8.45 EUR (original: 6.99 EUR) en el siguiente enlace! 
+ Tienes Uhlsport 1006749010001 Brazalete de Capitán  Unisex Adulto   FL.Yellow/shockred   Talla Única a precio de oferta de 4.84 EUR (original: 6.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51i%2BQ7Je18L.jpg) 
  

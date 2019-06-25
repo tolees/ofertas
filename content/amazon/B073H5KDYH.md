@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073H5KDYH: Oferta en Amazon para Mustang High Top Sneaker  Zapatillas Alt 
- date: 2019/06/20 20:18:40 +0000 
+ date: 2019/06/24 21:18:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Mustang High Top Sneaker  Zapatillas Altas para Hombre  Marrón  Kastanie 301   43 EU a precio de oferta de 23.8 EUR (original: 23.8 EUR) en el siguiente enlace! 
+ Tienes Mustang High Top Sneaker  Zapatillas Altas para Hombre  Marrón  Kastanie 301   43 EU a precio de oferta de 28.42 EUR (original: 28.42 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41IAiYoInRL.jpg) 
  

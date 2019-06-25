@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IBIE24M: Oferta en Amazon para JACK & JONES Jjitim Jjoriginal Jos 819 N 
- date: 2019/06/20 13:15:59 +0000 
+ date: 2019/06/24 20:34:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jjitim Jjoriginal Jos 819 Noos  Jeans Hombre  Azul  Blue Denim   W30/L30  Talla del fabricante: 30  a precio de oferta de 43.46 EUR (original: 43.46 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jjitim Jjoriginal Jos 819 Noos  Jeans Hombre  Azul  Blue Denim   W30/L30  Talla del fabricante: 30  a precio de oferta de 37.55 EUR (original: 37.55 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41KHZMynA%2BL.jpg) 
  

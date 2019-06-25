@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016LG7ISS: Oferta en Amazon para T.U.K. Wingtip Viva Creeper Boot - Botas 
- date: 2019/06/20 12:48:37 +0000 
+ date: 2019/06/25 05:29:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes T.U.K. Wingtip Viva Creeper Boot - Botas de Lona Unisex Adultos  Negro  Negro  Black    38 EU a precio de oferta de 22.4 EUR (original: 22.4 EUR) en el siguiente enlace! 
+ Tienes T.U.K. Wingtip Viva Creeper Boot - Botas de Lona Unisex Adultos  Negro  Negro  Black    38 EU a precio de oferta de 20.13 EUR (original: 20.13 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Q0Y4hjZ4L.jpg) 
  
