@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JR5M7HJ: Oferta en Amazon para Nokia 7.1 - Smartphone de 5.84"  Qualcom 
- date: 2019/06/20 18:31:55 +0000 
+ date: 2019/06/25 08:24:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

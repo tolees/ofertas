@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D8RXBNC: Oferta en Amazon para Blend 20706627  Jersey para Hombre  Gris 
- date: 2019/06/20 17:47:47 +0000 
+ date: 2019/06/25 12:34:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Blend 20706627  Jersey para Hombre  Gris  Stone Mix 70813  Medium a precio de oferta de 18.25 EUR (original: 18.87 EUR) en el siguiente enlace! 
+ Tienes Blend 20706627  Jersey para Hombre  Gris  Stone Mix 70813  Medium a precio de oferta de 16.47 EUR (original: 16.47 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51D5jtko1IL.jpg) 
  

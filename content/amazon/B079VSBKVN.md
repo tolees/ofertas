@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079VSBKVN: Oferta en Amazon para OZAVO Tostadora con Capacidad para 2 Reb 
- date: 2019/06/20 17:07:17 +0000 
+ date: 2019/06/25 12:46:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

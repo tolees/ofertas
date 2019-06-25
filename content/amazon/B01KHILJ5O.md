@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KHILJ5O: Oferta en Amazon para Philips Pack de 6 Bombillas Led Foco Gu1 
- date: 2019/06/20 19:26:09 +0000 
+ date: 2019/06/25 07:47:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

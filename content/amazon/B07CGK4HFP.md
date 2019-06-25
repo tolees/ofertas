@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CGK4HFP: Oferta en Amazon para REPLAY Grover Vaqueros Straight  Gris  G 
- date: 2019/06/20 10:07:19 +0000 
+ date: 2019/06/25 07:49:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

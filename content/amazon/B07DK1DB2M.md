@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DK1DB2M: Oferta en Amazon para The North Face Recon Mochila  Unisex Adu 
- date: 2019/06/20 11:14:26 +0000 
+ date: 2019/06/25 09:08:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes The North Face Recon Mochila  Unisex Adultos  Flag Blue Light/TNF White  One Size a precio de oferta de 58.52 EUR (original: 100 EUR) en el siguiente enlace! 
+ Tienes The North Face Recon Mochila  Unisex Adultos  Flag Blue Light/TNF White  One Size a precio de oferta de 52.16 EUR (original: 100 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41hdp2ICkOL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0797PSQSG: Oferta en Amazon para Chatham Faraday  Náuticos para Hombre  A 
- date: 2019/06/20 17:34:18 +0000 
+ date: 2019/06/25 13:09:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Chatham Faraday  Náuticos para Hombre  Azul  Azzure 001   40 EU a precio de oferta de 27.88 EUR (original: 27.88 EUR) en el siguiente enlace! 
+ Tienes Chatham Faraday  Náuticos para Hombre  Azul  Azzure 001   40 EU a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31pz5evvbJL.jpg) 
  

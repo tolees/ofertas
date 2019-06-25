@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00F1EHIWI: Oferta en Amazon para Sony MDRXD150 - Auriculares de Diadema C 
- date: 2019/06/20 17:33:32 +0000 
+ date: 2019/06/25 07:29:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

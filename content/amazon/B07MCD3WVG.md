@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MCD3WVG: Oferta en Amazon para Dark Souls Trilogy 
- date: 2019/06/21 05:48:23 +0000 
+ date: 2019/06/25 11:43:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Dark Souls Trilogy a precio de oferta de 46.9 EUR (original: 71.99 EUR) en el siguiente enlace! 
+ Tienes Dark Souls Trilogy a precio de oferta de 44.99 EUR (original: 71.99 EUR) en el siguiente enlace! 
  
  ![](http://images.amazon.com/images/P/B07MCD3WVG.01._PI_SCMZZZZZZZ_.jpg) 
  

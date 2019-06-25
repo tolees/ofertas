@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01F3JIPVS: Oferta en Amazon para Rieker 33323  Botines para Hombre  Gris  
- date: 2019/06/20 09:22:41 +0000 
+ date: 2019/06/25 07:27:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rieker 33323  Botines para Hombre  Gris  Rauch/Ozean/Graphit / 46   EU a precio de oferta de 18 EUR (original: 18 EUR) en el siguiente enlace! 
+ Tienes Rieker 33323  Botines para Hombre  Gris  Rauch/Ozean/Graphit / 46   EU a precio de oferta de 20.84 EUR (original: 62.24 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41HgELDw6ZL.jpg) 
  

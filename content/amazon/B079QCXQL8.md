@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079QCXQL8: Oferta en Amazon para Hackett London Textured Crew  suéter par 
- date: 2019/06/20 23:39:46 +0000 
+ date: 2019/06/25 06:42:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Hackett London Textured Crew  suéter para Hombre  Rojo  Merlot 297  L a precio de oferta de 54.03 EUR (original: 54.03 EUR) en el siguiente enlace! 
+ Tienes Hackett London Textured Crew  suéter para Hombre  Rojo  Merlot 297  L a precio de oferta de 50.21 EUR (original: 50.21 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31haHss3uhL.jpg) 
  

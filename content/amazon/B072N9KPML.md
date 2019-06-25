@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072N9KPML: Oferta en Amazon para TOM TAILOR3781302 - Botines Hombre  Colo 
- date: 2019/06/21 00:52:00 +0000 
+ date: 2019/06/25 11:40:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes TOM TAILOR3781302 - Botines Hombre  Color marrón  Talla 41 a precio de oferta de 27.05 EUR (original: 27.05 EUR) en el siguiente enlace! 
+ Tienes TOM TAILOR3781302 - Botines Hombre  Color marrón  Talla 41 a precio de oferta de 25.03 EUR (original: 25.03 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41LmyUhLOLL.jpg) 
  

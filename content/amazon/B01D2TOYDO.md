@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01D2TOYDO: Oferta en Amazon para Blend Rock  Azul Para Hombre  Blau  7620 
- date: 2019/06/20 18:45:39 +0000 
+ date: 2019/06/25 07:32:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Blend Rock  Azul Para Hombre  Blau  76201 Denim Middle blue   W30/L34 a precio de oferta de 16.37 EUR (original: 16.37 EUR) en el siguiente enlace! 
+ Tienes Blend Rock  Azul Para Hombre  Blau  76201 Denim Middle blue   W30/L34 a precio de oferta de 17.07 EUR (original: 17.07 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41LSVDN%2BtoL.jpg) 
  
