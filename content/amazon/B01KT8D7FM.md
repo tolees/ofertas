@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KT8D7FM: Oferta en Amazon para Logitech G403 - Ratón óptico con Cable p 
- date: 2019/06/20 08:32:44 +0000 
+ date: 2019/06/26 18:51:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

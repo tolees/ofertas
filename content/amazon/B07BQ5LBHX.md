@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BQ5LBHX: Oferta en Amazon para Lee Slim Button Down Camisa  Azul  Midni 
- date: 2019/06/24 17:36:55 +0000 
+ date: 2019/06/26 21:21:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lee Slim Button Down Camisa  Azul  Midnight Blue En  En  43  Talla del Fabricante: X-Large  para Hombre a precio de oferta de 27.79 EUR (original: 29.25 EUR) en el siguiente enlace! 
+ Tienes Lee Slim Button Down Camisa  Azul  Midnight Blue En  En  43  Talla del Fabricante: X-Large  para Hombre a precio de oferta de 24.57 EUR (original: 24.57 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/414I5uvRtYL.jpg) 
  

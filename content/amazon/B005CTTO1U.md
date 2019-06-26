@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B005CTTO1U: Oferta en Amazon para Schott NYC 210-Vint Chaqueta  Verde  Sag 
- date: 2019/06/25 13:40:58 +0000 
+ date: 2019/06/26 19:49:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Schott NYC 210-Vint Chaqueta  Verde  Sage Green   M para Hombre a precio de oferta de 78.61 EUR (original: 249 EUR) en el siguiente enlace! 
+ Tienes Schott NYC 210-Vint Chaqueta  Verde  Sage Green   M para Hombre a precio de oferta de 75.47 EUR (original: 249 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ipxic5T-L.jpg) 
  

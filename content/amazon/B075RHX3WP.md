@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075RHX3WP: Oferta en Amazon para Blink XT Sistema de cámaras de seguridad 
- date: 2019/06/25 19:40:52 +0000 
+ date: 2019/06/26 15:03:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Blink XT Sistema de cámaras de seguridad con detección de movimiento  instalación en paredes  vídeo HD  2 años de autonomía y almacenamiento en el Cloud - 1 cámara a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes Blink XT Sistema de cámaras de seguridad con detección de movimiento  instalación en paredes  vídeo HD  2 años de autonomía y almacenamiento en el Cloud - 1 cámara a precio de oferta de 119.99 EUR (original: 119.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31WKIKnwdHL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DLFVH96: Oferta en Amazon para Springfield Frq Color Stripe Camisa Casu 
- date: 2019/06/20 17:55:22 +0000 
+ date: 2019/06/26 16:51:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Springfield Frq Color Stripe Camisa Casual   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre a precio de oferta de 13.62 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes Springfield Frq Color Stripe Camisa Casual   Gama Azules 11   Medium  Tamaño del Fabricante:M  para Hombre a precio de oferta de 12.02 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/414t7ESujkL.jpg) 
  

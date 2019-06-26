@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QNC5NHT: Oferta en Amazon para Puma Nrgy Comet  Zapatillas de Running U 
- date: 2019/06/25 08:44:54 +0000 
+ date: 2019/06/26 16:39:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Puma Nrgy Comet  Zapatillas de Running Unisex Adulto a precio de oferta de None None (original: None None) en el siguiente enlace! 
+ Tienes Puma Nrgy Comet  Zapatillas de Running Unisex Adulto a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31o2NtiCSoL.jpg) 
  

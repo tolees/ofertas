@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MY79CJF: Oferta en Amazon para JACK & JONES Jorbech Shirt LS Camisa  Az 
- date: 2019/06/24 14:33:58 +0000 
+ date: 2019/06/26 21:24:56 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jorbech Shirt LS Camisa  Azul  Total Eclipse Fit:reg   Large para Hombre a precio de oferta de 13.58 EUR (original: 13.58 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jorbech Shirt LS Camisa  Azul  Total Eclipse Fit:reg   Large para Hombre a precio de oferta de 12.07 EUR (original: 12.07 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/415y4M8kt5L.jpg) 
  

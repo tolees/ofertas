@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N5VW2YZ: Oferta en Amazon para Pedro del Hierro P-5-BC-B Pima Cotton Ta 
- date: 2019/06/24 14:07:01 +0000 
+ date: 2019/06/26 21:04:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Pedro del Hierro P-5-BC-B Pima Cotton Tail Pantalones  Rojo  Red   40 para Hombre a precio de oferta de 22.03 EUR (original: 89.9 EUR) en el siguiente enlace! 
+ Tienes Pedro del Hierro P-5-BC-B Pima Cotton Tail Pantalones  Rojo  Red   40 para Hombre a precio de oferta de 19.79 EUR (original: 89.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qbrrN5GhL.jpg) 
  

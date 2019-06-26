@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RQKSSP6: Oferta en Amazon para Reproductor MP3 32 GB Bluetooth 4.1 Aspe 
- date: 2019/06/25 18:35:32 +0000 
+ date: 2019/06/26 18:39:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

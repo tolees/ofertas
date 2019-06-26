@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DVR9HD8: Oferta en Amazon para Geox BRANDOLF U844VC Hombre Zapatos de C 
- date: 2019/06/20 09:05:40 +0000 
+ date: 2019/06/26 17:12:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Geox BRANDOLF U844VC Hombre Zapatos de Cordones Calzado de Negocios varón Calzado Cordones cordón Derby del Zapato del Negocio Zapatos de la Oficina Negro 42 EU a precio de oferta de 58.59 EUR (original: 104.95 EUR) en el siguiente enlace! 
+ Tienes Geox BRANDOLF U844VC Hombre Zapatos de Cordones Calzado de Negocios varón Calzado Cordones cordón Derby del Zapato del Negocio Zapatos de la Oficina Negro 42 EU a precio de oferta de 79.9 EUR (original: 79.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31Fhr89oYCL.jpg) 
  

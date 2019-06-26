@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XA8LXEQ: Oferta en Amazon para Carbonell Aceite de oliva virgen - Garra 
- date: 2019/06/20 10:07:29 +0000 
+ date: 2019/06/26 20:37:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Carbonell Aceite de oliva virgen - Garrafa de 3 l a precio de oferta de 10.65 EUR (original: 17.45 EUR) en el siguiente enlace! 
+ Tienes Carbonell Aceite de oliva virgen - Garrafa de 3 l a precio de oferta de 8.97 EUR (original: 17.45 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41QGIcOXYgL.jpg) 
  

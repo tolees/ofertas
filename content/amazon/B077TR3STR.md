@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077TR3STR: Oferta en Amazon para Reebok Zapatillas de Deporte Unisex Adul 
- date: 2019/06/25 12:39:32 +0000 
+ date: 2019/06/26 19:12:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Reebok Zapatillas de Deporte Unisex Adulto   Bs9525  40.5 EU a precio de oferta de 26.72 EUR (original: 55.98 EUR) en el siguiente enlace! 
+ Tienes Reebok Zapatillas de Deporte Unisex Adulto   Bs9525  40.5 EU a precio de oferta de 25.65 EUR (original: 55.98 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/413lRZe3FRL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XFHQGB9: Oferta en Amazon para Samsung EVO Plus - Tarjeta de Memoria mi 
- date: 2019/06/24 14:22:14 +0000 
+ date: 2019/06/26 18:11:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Samsung EVO Plus - Tarjeta de Memoria microSD de 128 GB con Adaptador SD  100 MB/s  U3  Color Rojo y Blanco a precio de oferta de 23.7 EUR (original: 88.99 EUR) en el siguiente enlace! 
+ Tienes Samsung EVO Plus - Tarjeta de Memoria microSD de 128 GB con Adaptador SD  100 MB/s  U3  Color Rojo y Blanco a precio de oferta de 23.68 EUR (original: 88.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/414cS4vku9L.jpg) 
  

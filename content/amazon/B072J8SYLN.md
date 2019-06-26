@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072J8SYLN: Oferta en Amazon para adidas Vengeful M  Zapatillas de Running 
- date: 2019/06/24 19:36:31 +0000 
+ date: 2019/06/26 20:27:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes adidas Vengeful M  Zapatillas de Running para Hombre  Azul Azumis/Azuene  44 EU a precio de oferta de 59.77 EUR (original: 119.95 EUR) en el siguiente enlace! 
+ Tienes adidas Vengeful M  Zapatillas de Running para Hombre  Azul Azumis/Azuene  44 EU a precio de oferta de 55.61 EUR (original: 119.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51UgP-Bl%2BWL.jpg) 
  

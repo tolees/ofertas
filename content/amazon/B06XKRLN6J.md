@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XKRLN6J: Oferta en Amazon para adidas BP Power IV  Mochila Unisex Adult 
- date: 2019/06/20 09:34:09 +0000 
+ date: 2019/06/26 20:03:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

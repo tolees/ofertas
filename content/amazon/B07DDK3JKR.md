@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DDK3JKR: Oferta en Amazon para JACK & JONES PREMIUM Jprmarco Sweat Crew 
- date: 2019/06/25 00:14:16 +0000 
+ date: 2019/06/26 15:46:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES PREMIUM Jprmarco Sweat Crew Neck Sudadera  Azul  Dark Navy Fit:Slim Fit   Medium para Hombre a precio de oferta de 16.26 EUR (original: 17.12 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES PREMIUM Jprmarco Sweat Crew Neck Sudadera  Azul  Dark Navy Fit:Slim Fit   Medium para Hombre a precio de oferta de 15.02 EUR (original: 15.02 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41LQM4KFH6L.jpg) 
  

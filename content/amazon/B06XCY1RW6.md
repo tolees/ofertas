@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XCY1RW6: Oferta en Amazon para Cortefiel 1957341  Pantalón para Hombre  
- date: 2019/06/20 18:26:31 +0000 
+ date: 2019/06/26 20:15:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Cortefiel 1957341  Pantalón para Hombre  Azul  ES 40 a precio de oferta de 16.5 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Tienes Cortefiel 1957341  Pantalón para Hombre  Azul  ES 40 a precio de oferta de 13.28 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41E3RwqAJOL.jpg) 
  

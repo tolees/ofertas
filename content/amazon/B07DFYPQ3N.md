@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DFYPQ3N: Oferta en Amazon para Team Sonic Racing  Nintendo Switch 
- date: 2019/06/24 16:15:25 +0000 
+ date: 2019/06/26 20:56:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Team Sonic Racing  Nintendo Switch a precio de oferta de 25.9 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Tienes Team Sonic Racing  Nintendo Switch a precio de oferta de 22.22 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51%2BIgD0uBcL.jpg) 
  

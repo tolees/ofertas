@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00X3CJHYM: Oferta en Amazon para Hi-Tec Haraka - Zapatillas para Hombre   
- date: 2019/06/25 08:40:48 +0000 
+ date: 2019/06/26 17:30:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Hi-Tec Haraka - Zapatillas para Hombre  Color Negro  Black/White/Blue 022   Talla 44 a precio de oferta de 18.25 EUR (original: 59.95 EUR) en el siguiente enlace! 
+ Tienes Hi-Tec Haraka - Zapatillas para Hombre  Color Negro  Black/White/Blue 022   Talla 44 a precio de oferta de 17.52 EUR (original: 59.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Lx8Cu97JL.jpg) 
  

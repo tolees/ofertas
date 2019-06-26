@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0792RKGYZ: Oferta en Amazon para Kaporal Lena Abrigo  Gris Titani  Large  
- date: 2019/06/20 17:57:26 +0000 
+ date: 2019/06/26 16:15:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Kaporal Lena Abrigo  Gris Titani  Large para Hombre a precio de oferta de 73.47 EUR (original: 190.14 EUR) en el siguiente enlace! 
+ Tienes Kaporal Lena Abrigo  Gris Titani  Large para Hombre a precio de oferta de 65.4 EUR (original: 65.4 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41j52OV2vJL.jpg) 
  

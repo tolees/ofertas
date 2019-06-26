@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C5TY4GG: Oferta en Amazon para QNAP QSW-804-4C No administrado None Neg 
- date: 2019/06/25 19:24:30 +0000 
+ date: 2019/06/26 19:45:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0797JWRGQ: Oferta en Amazon para Marc O Polo 80825005001100 - Botines de  
- date: 2019/06/24 20:52:21 +0000 
+ date: 2019/06/26 18:15:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Marc O Polo 80825005001100 - Botines de Cuero Hombre  Color Negro  Talla 43 EU a precio de oferta de 72.09 EUR (original: 74.6 EUR) en el siguiente enlace! 
+ Tienes Marc O Polo 80825005001100 - Botines de Cuero Hombre  Color Negro  Talla 43 EU a precio de oferta de 69.44 EUR (original: 69.44 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/314hHXOv3sL.jpg) 
  

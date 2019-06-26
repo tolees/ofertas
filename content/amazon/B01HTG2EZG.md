@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HTG2EZG: Oferta en Amazon para Columbia CSC Basic Logo II Sudadera  Hom 
- date: 2019/06/25 05:10:32 +0000 
+ date: 2019/06/26 20:49:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Columbia CSC Basic Logo II Sudadera  Hombre  Negro  Black   XXL a precio de oferta de 24.88 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Tienes Columbia CSC Basic Logo II Sudadera  Hombre  Negro  Black   XXL a precio de oferta de 23.64 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41NNOFKfUJL.jpg) 
  

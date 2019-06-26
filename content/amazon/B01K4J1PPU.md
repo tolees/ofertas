@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01K4J1PPU: Oferta en Amazon para Manos Libres Bluetooth Transmisor FM Coc 
- date: 2019/06/24 20:42:25 +0000 
+ date: 2019/06/26 18:52:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Manos Libres Bluetooth Transmisor FM Coche de VicTsing  Reproductor MP3 Coche  Adaptador de Radio  1.44 Pulgadas Cargador de Coche de USB-Gris a precio de oferta de 17.99 EUR (original: 30.99 EUR) en el siguiente enlace! 
+ Tienes Manos Libres Bluetooth Transmisor FM Coche de VicTsing  Reproductor MP3 Coche  Adaptador de Radio  1.44 Pulgadas Cargador de Coche de USB-Gris a precio de oferta de 17.99 EUR (original: 17.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51RETpdFpoL.jpg) 
  

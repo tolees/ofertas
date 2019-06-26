@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNH1B2H: Oferta en Amazon para Huawei P Smart Plus - Smartphone de 6.3" 
- date: 2019/06/24 23:09:30 +0000 
+ date: 2019/06/26 17:55:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IEQ16CS: Oferta en Amazon para Casio MRW-200HC-7B2V  A867  - Reloj  col 
- date: 2019/06/24 22:21:15 +0000 
+ date: 2019/06/26 20:43:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

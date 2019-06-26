@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KE3FYDG: Oferta en Amazon para Merc of London Winston - Pantalón chino  
- date: 2019/06/25 07:24:14 +0000 
+ date: 2019/06/26 20:00:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Merc of London Winston - Pantalón chino para hombre  Negro  Black   W34/L30 a precio de oferta de 31.46 EUR (original: 70 EUR) en el siguiente enlace! 
+ Tienes Merc of London Winston - Pantalón chino para hombre  Negro  Black   W34/L30 a precio de oferta de 29 EUR (original: 70 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41bSmeGU0wL.jpg) 
  

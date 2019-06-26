@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TG2BCR5: Oferta en Amazon para kaimus Pulsera Elegante Unisex de la Sal 
- date: 2019/06/25 13:38:37 +0000 
+ date: 2019/06/26 18:28:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

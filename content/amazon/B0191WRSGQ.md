@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0191WRSGQ: Oferta en Amazon para Lomography LI200W - Lomo Instant Wide Bl 
- date: 2019/06/25 12:06:41 +0000 
+ date: 2019/06/26 15:43:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lomography LI200W - Lomo Instant Wide Blanco - Cámara instantánea a precio de oferta de 149 EUR (original: 199 EUR) en el siguiente enlace! 
+ Tienes Lomography LI200W - Lomo Instant Wide Blanco - Cámara instantánea a precio de oferta de 104.3 EUR (original: 199 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41GJWa7Nk8L.jpg) 
  

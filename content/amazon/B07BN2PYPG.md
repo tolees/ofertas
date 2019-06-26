@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BN2PYPG: Oferta en Amazon para MSI GL73 8RD-019XES - Ordenador portátil 
- date: 2019/06/25 13:47:34 +0000 
+ date: 2019/06/26 15:21:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

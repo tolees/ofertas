@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QQ4BM6N: Oferta en Amazon para TaoTronics Cascos Auriculares Bluetooth  
- date: 2019/06/24 18:41:11 +0000 
+ date: 2019/06/26 17:41:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

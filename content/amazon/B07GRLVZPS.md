@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GRLVZPS: Oferta en Amazon para Urban Classics Hooded Puffer Jacket Chaq 
- date: 2019/06/24 17:04:09 +0000 
+ date: 2019/06/26 17:30:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

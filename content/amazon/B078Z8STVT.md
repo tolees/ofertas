@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078Z8STVT: Oferta en Amazon para adidas VL Court 2.0  Zapatillas de Skate 
- date: 2019/06/25 12:27:29 +0000 
+ date: 2019/06/26 19:00:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Azul Collegiate Navy FTWR White  37 1/3 EU a precio de oferta de 33.57 EUR (original: 64.95 EUR) en el siguiente enlace! 
+ Tienes adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Azul Collegiate Navy FTWR White  37 1/3 EU a precio de oferta de 32.83 EUR (original: 64.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/513SHVUwATL.jpg) 
  

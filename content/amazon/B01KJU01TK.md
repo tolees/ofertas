@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KJU01TK: Oferta en Amazon para Timberland 6 inch Premium Waterproof  Bo 
- date: 2019/06/24 21:49:38 +0000 
+ date: 2019/06/26 19:34:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Timberland 6 inch Premium Waterproof  Botas para Hombre  Naranja  Rust Nubuck   39 EU a precio de oferta de 91.44 EUR (original: 210 EUR) en el siguiente enlace! 
+ Tienes Timberland 6 inch Premium Waterproof  Botas para Hombre  Naranja  Rust Nubuck   39 EU a precio de oferta de 85.37 EUR (original: 210 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41CteGytukL.jpg) 
  

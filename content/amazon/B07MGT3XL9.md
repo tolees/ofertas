@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MGT3XL9: Oferta en Amazon para Auriculares Estereo Bluetooth 5.0 SoundP 
- date: 2019/06/25 09:08:06 +0000 
+ date: 2019/06/26 17:06:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

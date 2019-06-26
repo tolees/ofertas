@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XC44MJN: Oferta en Amazon para Ballistix Sport LT BLS16G4S26BFSD- Memor 
- date: 2019/06/25 09:08:19 +0000 
+ date: 2019/06/26 19:09:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Ballistix Sport LT BLS16G4S26BFSD- Memoria RAM de 16GB  DDR4  2666 MT/s  PC4-21300  CL16  Dual Rank x8  SODIMM  260-Pin  Gris a precio de oferta de 65.6 EUR (original: 159.71 EUR) en el siguiente enlace! 
+ Tienes Ballistix Sport LT BLS16G4S26BFSD- Memoria RAM de 16GB  DDR4  2666 MT/s  PC4-21300  CL16  Dual Rank x8  SODIMM  260-Pin  Gris a precio de oferta de 67.11 EUR (original: 159.71 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41cj0I1uHrL.jpg) 
  

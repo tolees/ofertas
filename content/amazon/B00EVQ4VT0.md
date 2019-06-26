@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00EVQ4VT0: Oferta en Amazon para Rollei 40259 - Gafas con videocámara  Fu 
- date: 2019/06/24 23:28:00 +0000 
+ date: 2019/06/26 17:58:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rollei 40259 - Gafas con videocámara  Full HD a precio de oferta de 65.56 EUR (original: 65.56 EUR) en el siguiente enlace! 
+ Tienes Rollei 40259 - Gafas con videocámara  Full HD a precio de oferta de 72.37 EUR (original: 72.37 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31woaYU%2BJ6L.jpg) 
  

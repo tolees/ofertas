@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01K9IO3MS: Oferta en Amazon para Funko- Niffler Figura de Vinilo  colecci 
- date: 2019/06/25 07:16:10 +0000 
+ date: 2019/06/26 16:54:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Funko- Niffler Figura de Vinilo  colección de Pop  seria Fantastic Beasts   Standard  10408  a precio de oferta de 13.26 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Tienes Funko- Niffler Figura de Vinilo  colección de Pop  seria Fantastic Beasts   Standard  10408  a precio de oferta de 13.17 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41omwrNCQdL.jpg) 
  

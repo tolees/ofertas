@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076KPSCF4: Oferta en Amazon para Thermals Performance Compression  camise 
- date: 2019/06/20 10:46:41 +0000 
+ date: 2019/06/26 18:40:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Thermals Performance Compression  camiseta térmica para Hombre  Gris  Mid Grey   Large a precio de oferta de 8.25 EUR (original: 16 EUR) en el siguiente enlace! 
+ Tienes Thermals Performance Compression  camiseta térmica para Hombre  Gris  Mid Grey   Large a precio de oferta de 7.01 EUR (original: 16 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41XStTmZxrL.jpg) 
  

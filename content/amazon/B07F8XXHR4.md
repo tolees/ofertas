@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07F8XXHR4: Oferta en Amazon para JACK & JONES Jcoten Jacket Chaqueta  Azu 
- date: 2019/06/25 13:13:26 +0000 
+ date: 2019/06/26 19:30:59 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jcoten Jacket Chaqueta  Azul  Sky Captain   Large para Hombre a precio de oferta de 25.38 EUR (original: 25.38 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jcoten Jacket Chaqueta  Azul  Sky Captain   Large para Hombre a precio de oferta de 24.15 EUR (original: 24.15 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41160yjKI8L.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RCCWKC7: Oferta en Amazon para Aster 
- date: 2019/06/24 21:31:56 +0000 
+ date: 2019/06/26 16:37:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Aster a precio de oferta de 13.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes Aster a precio de oferta de 15.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31H8JSoSyrL.jpg) 
  

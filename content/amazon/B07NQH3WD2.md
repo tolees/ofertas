@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NQH3WD2: Oferta en Amazon para Seneo Reloj Inteligente Hombre  IP68 Sma 
- date: 2019/06/20 13:21:16 +0000 
+ date: 2019/06/26 16:20:59 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

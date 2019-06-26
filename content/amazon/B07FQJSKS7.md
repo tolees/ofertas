@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FQJSKS7: Oferta en Amazon para LUSCREAL Pulsera Actividad  Fitness Trac 
- date: 2019/06/25 12:51:28 +0000 
+ date: 2019/06/26 19:33:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

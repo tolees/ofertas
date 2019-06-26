@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TCGSDBZ: Oferta en Amazon para kaimus Mini Ventilador de Mano de Ajuste 
- date: 2019/06/24 17:52:11 +0000 
+ date: 2019/06/26 16:25:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

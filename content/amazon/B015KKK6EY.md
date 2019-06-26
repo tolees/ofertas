@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015KKK6EY: Oferta en Amazon para Kappa Rocket  Zapatillas Unisex Adulto   
- date: 2019/06/25 09:00:39 +0000 
+ date: 2019/06/26 15:09:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Kappa Rocket  Zapatillas Unisex Adulto  Gris  Anthra/White 1310   42 EU a precio de oferta de 24.54 EUR (original: 29.95 EUR) en el siguiente enlace! 
+ Tienes Kappa Rocket  Zapatillas Unisex Adulto  Gris  Anthra/White 1310   42 EU a precio de oferta de 23.62 EUR (original: 29.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41oHygzsCOL.jpg) 
  
