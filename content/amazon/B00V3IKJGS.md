@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00V3IKJGS: Oferta en Amazon para HP 255 G3 Plata Portátil 39 6 cm  15.6"  
- date: 2019/06/25 00:27:56 +0000 
+ date: 2019/06/26 00:48:59 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes HP 255 G3 Plata Portátil 39 6 cm  15.6"  1366 x 768 Pixeles 1 GHz AMD E E1-2100 - Ordenador portátil  AMD E  1 GHz  39 6 cm  15.6"   1366 x 768 Pixeles  4 GB  500 GB  a precio de oferta de 274.19 EUR (original: 274.19 EUR) en el siguiente enlace! 
+ Tienes HP 255 G3 Plata Portátil 39 6 cm  15.6"  1366 x 768 Pixeles 1 GHz AMD E E1-2100 - Ordenador portátil  AMD E  1 GHz  39 6 cm  15.6"   1366 x 768 Pixeles  4 GB  500 GB  a precio de oferta de 270.54 EUR (original: 270.54 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/318T4VstdBL.jpg) 
  

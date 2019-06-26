@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KNPFWBS: Oferta en Amazon para Levi s 511 Slim Fit  Vaqueros para Hombr 
- date: 2019/06/20 23:39:38 +0000 
+ date: 2019/06/25 21:52:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

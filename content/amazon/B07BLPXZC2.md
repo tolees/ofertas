@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BLPXZC2: Oferta en Amazon para Mpow H7 Cascos Bluetooth Inalámbrico  Au 
- date: 2019/06/20 19:01:09 +0000 
+ date: 2019/06/25 20:41:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

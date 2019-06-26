@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01G5D9HBI: Oferta en Amazon para Caterpillar Thornberry  Botas Chelsea pa 
- date: 2019/06/21 00:00:51 +0000 
+ date: 2019/06/25 19:37:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Caterpillar Thornberry  Botas Chelsea para Hombre  Marrón  Mens Dark Brown   40 EU a precio de oferta de 57.52 EUR (original: 57.52 EUR) en el siguiente enlace! 
+ Tienes Caterpillar Thornberry  Botas Chelsea para Hombre  Marrón  Mens Dark Brown   40 EU a precio de oferta de 48.03 EUR (original: 48.03 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41nWTBtjc5L.jpg) 
  

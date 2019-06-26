@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ZUY5LUU: Oferta en Amazon para REEF R2026ALB  Chanclas Hombre  Marrón   
- date: 2019/06/24 17:51:57 +0000 
+ date: 2019/06/25 21:13:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes REEF R2026ALB  Chanclas Hombre  Marrón  Brown / Gum   36 EU a precio de oferta de 25.73 EUR (original: 52 EUR) en el siguiente enlace! 
+ Tienes REEF R2026ALB  Chanclas Hombre  Marrón  Brown / Gum   36 EU a precio de oferta de 24.95 EUR (original: 52 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31bB3pzP%2BML.jpg) 
  

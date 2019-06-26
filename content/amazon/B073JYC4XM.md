@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073JYC4XM: Oferta en Amazon para SanDisk Ultra - Tarjeta de memoria micro 
- date: 2019/06/24 17:05:03 +0000 
+ date: 2019/06/25 20:44:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

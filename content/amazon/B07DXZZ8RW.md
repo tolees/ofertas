@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DXZZ8RW: Oferta en Amazon para Rieker 16534-14  Zapatos de Cordones Der 
- date: 2019/06/24 20:27:46 +0000 
+ date: 2019/06/25 20:46:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CX47ZBN: Oferta en Amazon para Superdry Microfibresolsticejacket Chaque 
- date: 2019/06/20 18:10:53 +0000 
+ date: 2019/06/26 05:04:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Superdry Microfibresolsticejacket Chaqueta Deportiva  Verde  Low Light Camo Vum   Large para Hombre a precio de oferta de 65.8 EUR (original: 65.8 EUR) en el siguiente enlace! 
+ Tienes Superdry Microfibresolsticejacket Chaqueta Deportiva  Verde  Low Light Camo Vum   Large para Hombre a precio de oferta de 53.95 EUR (original: 53.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JxDy81gLL.jpg) 
  

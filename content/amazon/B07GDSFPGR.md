@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDSFPGR: Oferta en Amazon para Xiaomi Mi A2 - Smartphone Android One  P 
- date: 2019/06/20 21:54:08 +0000 
+ date: 2019/06/26 01:45:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

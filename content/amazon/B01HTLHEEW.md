@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HTLHEEW: Oferta en Amazon para Shine Original Slim fit Jeans-Rough Blue 
- date: 2019/06/24 16:42:24 +0000 
+ date: 2019/06/26 05:04:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Shine Original Slim fit Jeans-Rough Blue  Estrechos   Azul  28W x 32L para Hombre a precio de oferta de 15.49 EUR (original: 15.49 EUR) en el siguiente enlace! 
+ Tienes Shine Original Slim fit Jeans-Rough Blue  Estrechos   Azul  28W x 32L para Hombre a precio de oferta de 14.62 EUR (original: 14.62 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41-X8MiGhPL.jpg) 
  

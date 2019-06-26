@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CHQKWKT: Oferta en Amazon para BOSS Zaster Chaqueta  Verde  Dark Green  
- date: 2019/06/24 17:31:06 +0000 
+ date: 2019/06/25 20:54:56 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes BOSS Zaster Chaqueta  Verde  Dark Green 302   X-Large para Hombre a precio de oferta de 60.48 EUR (original: 122.13 EUR) en el siguiente enlace! 
+ Tienes BOSS Zaster Chaqueta  Verde  Dark Green 302   X-Large para Hombre a precio de oferta de 56.72 EUR (original: 122.13 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31bCcAz8AcL.jpg) 
  

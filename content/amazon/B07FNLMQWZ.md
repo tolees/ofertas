@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNLMQWZ: Oferta en Amazon para ENKEEO Envasadora al Vacío 130W Silencio 
- date: 2019/06/20 12:50:16 +0000 
+ date: 2019/06/25 17:14:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KXW39JD: Oferta en Amazon para S300R Ultra HD 4K WiFi 2.0 Pulgadas 140  
- date: 2019/06/20 09:10:27 +0000 
+ date: 2019/06/26 05:42:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes S300R Ultra HD 4K WiFi 2.0 Pulgadas 140 Grados de Ancho ángel bajo el Agua a Prueba de Agua Casco CAM Cámara de acción Deportiva a precio de oferta de 20.65 EUR (original: 31.05 EUR) en el siguiente enlace! 
+ Tienes S300R Ultra HD 4K WiFi 2.0 Pulgadas 140 Grados de Ancho ángel bajo el Agua a Prueba de Agua Casco CAM Cámara de acción Deportiva a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31RwNLRcgBL.jpg) 
  

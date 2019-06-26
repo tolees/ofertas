@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L3FQRK2: Oferta en Amazon para Tommy Hilfiger Core Corporate Seasonal S 
- date: 2019/06/24 18:04:31 +0000 
+ date: 2019/06/25 19:11:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tommy Hilfiger Core Corporate Seasonal Sneaker  Zapatillas para Hombre  Negro  Black 990   42 EU a precio de oferta de 32.15 EUR (original: 32.15 EUR) en el siguiente enlace! 
+ Tienes Tommy Hilfiger Core Corporate Seasonal Sneaker  Zapatillas para Hombre  Negro  Black 990   42 EU a precio de oferta de 31.67 EUR (original: 32.15 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31eL%2BQg0vsL.jpg) 
  

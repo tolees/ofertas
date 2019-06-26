@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B5DRXN5: Oferta en Amazon para SHOE THE BEAR Nate L  Zapatos de Cordone 
- date: 2019/06/20 19:33:40 +0000 
+ date: 2019/06/25 17:24:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SHOE THE BEAR Nate L  Zapatos de Cordones Derby para Hombre  Negro  Black 110   43 EU a precio de oferta de 38.86 EUR (original: 38.86 EUR) en el siguiente enlace! 
+ Tienes SHOE THE BEAR Nate L  Zapatos de Cordones Derby para Hombre  Negro  Black 110   43 EU a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ylKdf51VL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LCPB8N1: Oferta en Amazon para HP - Fuente de alimentación  90 W  Elite 
- date: 2019/06/24 20:03:22 +0000 
+ date: 2019/06/26 05:25:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

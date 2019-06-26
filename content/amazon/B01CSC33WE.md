@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CSC33WE: Oferta en Amazon para Paladone Lámpara para Mesilla Super Mari 
- date: 2019/06/20 10:29:33 +0000 
+ date: 2019/06/25 17:18:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Paladone Lámpara para Mesilla Super Mario Bros  Multicolor a precio de oferta de 19.28 EUR (original: 19.28 EUR) en el siguiente enlace! 
+ Tienes Paladone Lámpara para Mesilla Super Mario Bros  Multicolor a precio de oferta de 24.91 EUR (original: 24.91 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51tg2f653YL.jpg) 
  

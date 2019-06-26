@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073SCR6VH: Oferta en Amazon para Rayman Legends: Definitive Edition 
- date: 2019/06/20 13:08:17 +0000 
+ date: 2019/06/25 20:14:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rayman Legends: Definitive Edition a precio de oferta de 19.95 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes Rayman Legends: Definitive Edition a precio de oferta de 19.9 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51c6K6FoAJL.jpg) 
  

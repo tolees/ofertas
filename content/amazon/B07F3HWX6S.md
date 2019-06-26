@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07F3HWX6S: Oferta en Amazon para Johnson s -  Vita-Rich Gel de Ducha Reco 
- date: 2019/06/24 17:45:23 +0000 
+ date: 2019/06/25 21:38:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

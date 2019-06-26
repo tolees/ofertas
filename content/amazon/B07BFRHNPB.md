@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BFRHNPB: Oferta en Amazon para Rieker 35362  Botas Clasicas para Hombre 
- date: 2019/06/20 22:57:40 +0000 
+ date: 2019/06/25 18:21:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rieker 35362  Botas Clasicas para Hombre  Negro  Schwarz 02   41 EU a precio de oferta de 38.79 EUR (original: 38.79 EUR) en el siguiente enlace! 
+ Tienes Rieker 35362  Botas Clasicas para Hombre  Negro  Schwarz 02   41 EU a precio de oferta de 35.75 EUR (original: 35.75 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31KyT2fYQHL.jpg) 
  

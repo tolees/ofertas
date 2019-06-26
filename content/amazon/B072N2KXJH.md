@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072N2KXJH: Oferta en Amazon para Levi s 3-in-1 Fishtail Parka  Verde  Oli 
- date: 2019/06/20 09:39:37 +0000 
+ date: 2019/06/25 17:15:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

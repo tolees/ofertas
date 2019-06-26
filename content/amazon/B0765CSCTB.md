@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CSCTB: Oferta en Amazon para Synology DiskStation DS418 - Unidad Raid 
- date: 2019/06/24 19:00:51 +0000 
+ date: 2019/06/25 22:33:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
