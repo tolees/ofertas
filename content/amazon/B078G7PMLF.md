@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078G7PMLF: Oferta en Amazon para BOSS Oriol D Chaqueta  Medium Beige 263  
- date: 2019/06/25 15:34:23 +0000 
+ date: 2019/06/26 21:55:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes BOSS Oriol D Chaqueta  Medium Beige 263  Small  Talla del Fabricante: 48  para Hombre a precio de oferta de 130.97 EUR (original: 130.97 EUR) en el siguiente enlace! 
+ Tienes BOSS Oriol D Chaqueta  Medium Beige 263  Small  Talla del Fabricante: 48  para Hombre a precio de oferta de 125.73 EUR (original: 125.73 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Rv2k4PvBL.jpg) 
  

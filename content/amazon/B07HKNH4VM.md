@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HKNH4VM: Oferta en Amazon para AstroBot: Rescue Mission - Edición Están 
- date: 2019/06/25 14:33:28 +0000 
+ date: 2019/06/26 21:46:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes AstroBot: Rescue Mission - Edición Estándar a precio de oferta de 19.99 EUR (original: 17.08 EUR) en el siguiente enlace! 
+ Tienes AstroBot: Rescue Mission - Edición Estándar a precio de oferta de 19.9 EUR (original: 19.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51TzjtKvXaL.jpg) 
  
