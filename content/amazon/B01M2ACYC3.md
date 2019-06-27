@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M2ACYC3: Oferta en Amazon para Levi s Woods 794  Zapatillas para Hombre 
- date: 2019/06/24 18:16:29 +0000 
+ date: 2019/06/27 06:31:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Levi s Woods 794  Zapatillas para Hombre  Negro  Noir Regular Black   42 EU a precio de oferta de 41.86 EUR (original: 60 EUR) en el siguiente enlace! 
+ Tienes Levi s Woods 794  Zapatillas para Hombre  Negro  Noir Regular Black   42 EU a precio de oferta de 36 EUR (original: 60 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31vqHGh5yWL.jpg) 
  

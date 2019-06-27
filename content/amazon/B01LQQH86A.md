@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LQQH86A: Oferta en Amazon para WD My Passport - Disco Duro Portátil de  
- date: 2019/06/20 19:10:22 +0000 
+ date: 2019/06/27 08:02:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes WD My Passport - Disco Duro Portátil de 4 TB y Software de Copia de Seguridad Automática  Negro a precio de oferta de 106.8 EUR (original: 159.99 EUR) en el siguiente enlace! 
+ Tienes WD My Passport - Disco Duro Portátil de 4 TB y Software de Copia de Seguridad Automática  Negro a precio de oferta de 114.9 EUR (original: 159.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SG6DCP: Oferta en Amazon para Farah Classic Oak 4 Way Stretch  Pantalo 
- date: 2019/06/25 23:12:42 +0000 
+ date: 2019/06/27 05:46:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

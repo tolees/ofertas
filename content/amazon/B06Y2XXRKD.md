@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y2XXRKD: Oferta en Amazon para Alcatel A5 Led  16GBs  color plata 
- date: 2019/06/24 21:51:43 +0000 
+ date: 2019/06/26 22:51:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Alcatel A5 Led  16GBs  color plata a precio de oferta de 98.56 EUR (original: 199.99 EUR) en el siguiente enlace! 
+ Tienes Alcatel A5 Led  16GBs  color plata a precio de oferta de 115 EUR (original: 199.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/411YvxBhKkL.jpg) 
  

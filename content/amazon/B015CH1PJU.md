@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015CH1PJU: Oferta en Amazon para Memoria Flash USB 3.0 SanDisk Ultra Flai 
- date: 2019/06/25 11:56:28 +0000 
+ date: 2019/06/27 06:40:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Memoria Flash USB 3.0 SanDisk Ultra Flair de 128 GB  Velocidad de Lectura de hasta 150 MB/s a precio de oferta de 21.9 EUR (original: 41.99 EUR) en el siguiente enlace! 
+ Tienes Memoria Flash USB 3.0 SanDisk Ultra Flair de 128 GB  Velocidad de Lectura de hasta 150 MB/s a precio de oferta de 17.9 EUR (original: 41.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41xl5f6jfTL.jpg) 
  

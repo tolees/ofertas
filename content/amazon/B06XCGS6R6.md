@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XCGS6R6: Oferta en Amazon para camel active Lederjacke Chaqueta  Negro  
- date: 2019/06/24 14:19:06 +0000 
+ date: 2019/06/27 00:02:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01A6OZENC: Oferta en Amazon para Super Wash Eco-friendly Laundry Ball-For 
- date: 2019/06/25 19:37:25 +0000 
+ date: 2019/06/26 23:06:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Super Wash Eco-friendly Laundry Ball-For 1500 Washings Baby Blue by BERON a precio de oferta de 12.33 EUR (original: 12.33 EUR) en el siguiente enlace! 
+ Tienes Super Wash Eco-friendly Laundry Ball-For 1500 Washings Baby Blue by BERON a precio de oferta de 12.32 EUR (original: 12.32 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/513dKLwy9CL.jpg) 
  

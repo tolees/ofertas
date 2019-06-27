@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00O8GAYQM: Oferta en Amazon para Ecco Holton  Mocasines para Hombre  Negr 
- date: 2019/06/25 23:15:51 +0000 
+ date: 2019/06/27 00:00:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Ecco Holton  Mocasines para Hombre  Negro  BLACK1001   47 EU a precio de oferta de 126.26 EUR (original: 126.27 EUR) en el siguiente enlace! 
+ Tienes Ecco Holton  Mocasines para Hombre  Negro  BLACK1001   47 EU a precio de oferta de 125.73 EUR (original: 125.77 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31S%2BMYuvOBL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0797NJYRG: Oferta en Amazon para Chatham Faraday  Náuticos para Hombre  A 
- date: 2019/06/20 12:16:12 +0000 
+ date: 2019/06/27 08:25:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

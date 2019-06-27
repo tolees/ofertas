@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01N6VG6WC: Oferta en Amazon para Lorus Watches - Reloj de Pulsera Hombre  
- date: 2019/06/25 22:36:35 +0000 
+ title: B01N6VG6WC: Oferta en Amazon para Lorus Watches – Reloj de Pulsera Hombre  
+ date: 2019/06/26 23:10:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lorus Watches - Reloj de Pulsera Hombre r2321lx9 a precio de oferta de 19.16 EUR (original: 19.16 EUR) en el siguiente enlace! 
+ Tienes Lorus Watches – Reloj de Pulsera Hombre r2321lx9 a precio de oferta de 19.14 EUR (original: 19.15 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ikxh07DJL.jpg) 
  

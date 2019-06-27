@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Q2LTPKR: Oferta en Amazon para TTMOW Mini Máquina de Coser Portátil Her 
- date: 2019/06/20 09:12:21 +0000 
+ date: 2019/06/27 07:16:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

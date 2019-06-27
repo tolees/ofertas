@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MQ26RHA: Oferta en Amazon para Pepe Jeans Jacko  Abrigo Hombre  Verde   
- date: 2019/06/25 17:11:20 +0000 
+ date: 2019/06/27 05:34:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Pepe Jeans Jacko  Abrigo Hombre  Verde  Khaki Green   Large a precio de oferta de 75.29 EUR (original: 75.29 EUR) en el siguiente enlace! 
+ Tienes Pepe Jeans Jacko  Abrigo Hombre  Verde  Khaki Green   Large a precio de oferta de 69.41 EUR (original: 69.41 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41w2MkxUD4L.jpg) 
  

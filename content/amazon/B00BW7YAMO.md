@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00BW7YAMO: Oferta en Amazon para Regatta Reid Soft Shell Chaqueta  Negro  
- date: 2019/06/25 06:46:02 +0000 
+ date: 2019/06/27 07:27:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Regatta Reid Soft Shell Chaqueta  Negro  X-Large para Hombre a precio de oferta de 17.51 EUR (original: 17.51 EUR) en el siguiente enlace! 
+ Tienes Regatta Reid Soft Shell Chaqueta  Negro  X-Large para Hombre a precio de oferta de 17.03 EUR (original: 17.03 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41UehcunB6L.jpg) 
  

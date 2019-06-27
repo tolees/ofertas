@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BHFQN7X: Oferta en Amazon para Blazblue Cross Tag Battle Day One 
- date: 2019/06/25 22:28:27 +0000 
+ date: 2019/06/27 06:44:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Blazblue Cross Tag Battle Day One a precio de oferta de 14.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Tienes Blazblue Cross Tag Battle Day One a precio de oferta de 12.82 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/61-EzzhDPiL.jpg) 
  

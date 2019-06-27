@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077HPZCQZ: Oferta en Amazon para Fila Hombre N/A Gafas de sol  Negro  Sem 
- date: 2019/06/25 08:38:35 +0000 
+ date: 2019/06/27 05:55:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Fila Hombre N/A Gafas de sol  Negro  Semi-Matt Black   53 a precio de oferta de 37.83 EUR (original: 37.83 EUR) en el siguiente enlace! 
+ Tienes Fila Hombre N/A Gafas de sol  Negro  Semi-Matt Black   53 a precio de oferta de 36.51 EUR (original: 36.51 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41y4vVskUzL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BKGH6TH: Oferta en Amazon para Sega Mega Drive Classics 
- date: 2019/06/25 20:15:56 +0000 
+ date: 2019/06/27 06:26:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Sega Mega Drive Classics a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes Sega Mega Drive Classics a precio de oferta de 17.09 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  ![](http://images.amazon.com/images/P/B07BKGH6TH.01._PI_SCMZZZZZZZ_.jpg) 
  

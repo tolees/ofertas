@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MT1YM9G: Oferta en Amazon para Blend  20702558 - Bermuda para Hombre  C 
- date: 2019/06/20 23:03:44 +0000 
+ date: 2019/06/27 06:51:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Blend  20702558 - Bermuda para Hombre  Color Azul  76207   Talla M a precio de oferta de 20.96 EUR (original: 39.95 EUR) en el siguiente enlace! 
+ Tienes Blend  20702558 - Bermuda para Hombre  Color Azul  76207   Talla M a precio de oferta de 18.21 EUR (original: 39.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41edGG5%2BR2L.jpg) 
  

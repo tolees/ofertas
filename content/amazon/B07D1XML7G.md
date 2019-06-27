@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D1XML7G: Oferta en Amazon para G-STAR RAW 3301 Slim Shirt L\\s  Camisa  
- date: 2019/06/25 14:02:25 +0000 
+ date: 2019/06/26 23:24:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes G-STAR RAW 3301 Slim Shirt L\\s  Camisa Hombre   Indigo/Carbid Check 9895   Large a precio de oferta de 49.79 EUR (original: 99.95 EUR) en el siguiente enlace! 
+ Tienes G-STAR RAW 3301 Slim Shirt L\\s  Camisa Hombre   Indigo/Carbid Check 9895   Large a precio de oferta de 51.83 EUR (original: 99.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51aXJWAsIvL.jpg) 
  

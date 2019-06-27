@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WD5B3LN: Oferta en Amazon para Kids Karaoke Machine Kit de altavoces po 
- date: 2019/06/25 21:30:14 +0000 
+ date: 2019/06/27 07:07:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HPZMHHC: Oferta en Amazon para Funko- Fortnite Skull Trooper Figura de  
- date: 2019/06/25 06:39:54 +0000 
+ date: 2019/06/27 07:48:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Funko- Fortnite Skull Trooper Figura de Vinilo   34470  a precio de oferta de 10.21 EUR (original: 15.95 EUR) en el siguiente enlace! 
+ Tienes Funko- Fortnite Skull Trooper Figura de Vinilo   34470  a precio de oferta de 11.4 EUR (original: 15.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41z4gF%2BMObL.jpg) 
  

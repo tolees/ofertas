@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073RQHF6P: Oferta en Amazon para Bonobo SKCHECK1H  Camisa de Oficina para 
- date: 2019/06/24 16:36:51 +0000 
+ date: 2019/06/27 05:31:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

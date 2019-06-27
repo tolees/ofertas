@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GRDF23T: Oferta en Amazon para Lenovo Ideapad 520S-14IKB - Ordenador po 
- date: 2019/06/25 22:05:10 +0000 
+ date: 2019/06/27 07:10:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

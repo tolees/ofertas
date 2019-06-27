@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B013WSVSL6: Oferta en Amazon para Werner Trachten Cinturón Piel Marrón Cla 
- date: 2019/06/20 12:25:13 +0000 
+ date: 2019/06/26 22:36:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Werner Trachten Cinturón Piel Marrón Claro 85 cm a precio de oferta de 12.47 EUR (original: 12.47 EUR) en el siguiente enlace! 
+ Tienes Werner Trachten Cinturón Piel Marrón Claro 85 cm a precio de oferta de 12.49 EUR (original: 12.49 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ILwg9vwsL.jpg) 
  

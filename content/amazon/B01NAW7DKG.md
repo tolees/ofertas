@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NAW7DKG: Oferta en Amazon para Carhartt Ch L/S Master Camisa  Verde  Ro 
- date: 2019/06/20 09:05:52 +0000 
+ date: 2019/06/27 08:33:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

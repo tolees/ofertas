@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DDPWAH0: Oferta en Amazon para Vivienne Westwood VV080BKTN - Reloj anal 
- date: 2019/06/25 16:51:44 +0000 
+ date: 2019/06/27 05:48:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Vivienne Westwood VV080BKTN - Reloj analógico de Cuarzo para Hombre  Correa de Cuero  Color marrón a precio de oferta de 145.38 EUR (original: 280 EUR) en el siguiente enlace! 
+ Tienes Vivienne Westwood VV080BKTN - Reloj analógico de Cuarzo para Hombre  Correa de Cuero  Color marrón a precio de oferta de 143.67 EUR (original: 280 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41uUPhcyWaL.jpg) 
  

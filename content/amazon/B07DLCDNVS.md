@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DLCDNVS: Oferta en Amazon para Springfield FR Soul Sudadera   Gama Azul 
- date: 2019/06/25 00:36:46 +0000 
+ date: 2019/06/27 07:24:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Springfield FR Soul Sudadera   Gama Azules 11   Large  Tamaño del Fabricante:L  para Hombre a precio de oferta de 9.08 EUR (original: 19.99 EUR) en el siguiente enlace! 
+ Tienes Springfield FR Soul Sudadera   Gama Azules 11   Large  Tamaño del Fabricante:L  para Hombre a precio de oferta de 8 EUR (original: 19.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/412KP0O0jkL.jpg) 
  

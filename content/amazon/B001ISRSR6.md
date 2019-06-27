@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001ISRSR6: Oferta en Amazon para Canon AC1 - Bandeja de impresora  blanco 
- date: 2019/06/20 11:17:23 +0000 
+ date: 2019/06/27 07:34:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Canon AC1 - Bandeja de impresora  blanco a precio de oferta de 55 EUR (original: 222.04 EUR) en el siguiente enlace! 
+ Tienes Canon AC1 - Bandeja de impresora  blanco a precio de oferta de 43.67 EUR (original: 222.04 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31y1%2BbwTQPL.jpg) 
  

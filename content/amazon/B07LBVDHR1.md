@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LBVDHR1: Oferta en Amazon para Calvin Klein Low Rise Trunk 3PK Bóxer  N 
- date: 2019/06/25 19:53:49 +0000 
+ date: 2019/06/27 07:56:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
