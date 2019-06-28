@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075KKDMB5: Oferta en Amazon para ASUS ZenFone Zoom S - Smartphone de 5.5" 
- date: 2019/06/27 07:04:45 +0000 
+ date: 2019/06/28 21:03:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

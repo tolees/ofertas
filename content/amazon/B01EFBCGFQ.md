@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EFBCGFQ: Oferta en Amazon para ESDDI Softbox Light Kit Studio Lighting  
- date: 2019/06/20 20:40:49 +0000 
+ date: 2019/06/28 15:31:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

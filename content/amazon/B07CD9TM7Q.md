@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CD9TM7Q: Oferta en Amazon para REPLAY Anbass  Vaqueros Slim Hombre  Neg 
- date: 2019/06/26 21:27:26 +0000 
+ date: 2019/06/28 17:06:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes REPLAY Anbass  Vaqueros Slim Hombre  Negro  Black 98   W32/L36 a precio de oferta de 63.68 EUR (original: 119 EUR) en el siguiente enlace! 
+ Tienes REPLAY Anbass  Vaqueros Slim Hombre  Negro  Black 98   W32/L36 a precio de oferta de 63.65 EUR (original: 119 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41iayRhpILL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075RHX3WP: Oferta en Amazon para Blink XT Sistema de cámaras de seguridad 
- date: 2019/06/26 15:03:17 +0000 
+ date: 2019/06/28 19:11:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

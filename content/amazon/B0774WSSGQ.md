@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0774WSSGQ: Oferta en Amazon para Rockport Classic Loafer Penny Black Ii M 
- date: 2019/06/27 07:54:35 +0000 
+ date: 2019/06/28 16:08:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rockport Classic Loafer Penny Black Ii Mocasines Hombre  Negro  Black   46 EU  11 UK  a precio de oferta de 52.69 EUR (original: 52.69 EUR) en el siguiente enlace! 
+ Tienes Rockport Classic Loafer Penny Black Ii Mocasines Hombre  Negro  Black   46 EU  11 UK  a precio de oferta de 50.78 EUR (original: 50.78 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41zW7noobJL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MDQB5O6: Oferta en Amazon para adidas Copa 17.4 Tf  Zapatillas de fútbo 
- date: 2019/06/24 15:39:27 +0000 
+ date: 2019/06/28 16:54:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

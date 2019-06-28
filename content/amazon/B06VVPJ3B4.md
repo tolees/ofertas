@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06VVPJ3B4: Oferta en Amazon para LEGO Star Wars - BB-8  Maqueta de Juguet 
- date: 2019/06/26 20:32:04 +0000 
+ date: 2019/06/28 15:48:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO Star Wars - BB-8  Maqueta de Juguete del Robot de La Guerra de las Galaxias  75187  a precio de oferta de 79.9 EUR (original: 99.99 EUR) en el siguiente enlace! 
+ Tienes LEGO Star Wars - BB-8  Maqueta de Juguete del Robot de La Guerra de las Galaxias  75187  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51O4jb8S2nL.jpg) 
  

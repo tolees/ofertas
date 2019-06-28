@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CFME68W: Oferta en Amazon para GHB Vigilabébé Inalambrico con LCD 2" y  
- date: 2019/06/25 09:06:20 +0000 
+ date: 2019/06/28 16:25:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

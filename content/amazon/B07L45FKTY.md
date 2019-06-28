@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L45FKTY: Oferta en Amazon para The North Face Jester - Mochila  Asphalt 
- date: 2019/06/20 11:08:39 +0000 
+ date: 2019/06/28 19:43:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes The North Face Jester - Mochila  Asphalt Grey Daark  Talla Única a precio de oferta de 38.39 EUR (original: 75 EUR) en el siguiente enlace! 
+ Tienes The North Face Jester - Mochila  Asphalt Grey Daark  Talla Única a precio de oferta de 38.01 EUR (original: 75 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51sZH%2BshY7L.jpg) 
  

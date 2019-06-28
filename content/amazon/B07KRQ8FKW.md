@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KRQ8FKW: Oferta en Amazon para Kappa Evidenz  Mocasines para Hombre  Az 
- date: 2019/06/25 13:15:45 +0000 
+ date: 2019/06/28 19:42:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Kappa Evidenz  Mocasines para Hombre  Azul  Navy/Grey 6716   46 EU a precio de oferta de   (original: 39.95 ) en el siguiente enlace! 
+ Tienes Kappa Evidenz  Mocasines para Hombre  Azul  Navy/Grey 6716   46 EU a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ASXYCpYqL.jpg) 
  

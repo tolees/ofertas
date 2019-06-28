@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01B6KTZBW: Oferta en Amazon para Puma Ignite Ultimate Lay - Zapatillas de 
- date: 2019/06/25 21:16:34 +0000 
+ date: 2019/06/28 16:00:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

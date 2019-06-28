@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CBCWXS4: Oferta en Amazon para Tommy Jeans Hombre Summer Pique  Polo Ma 
- date: 2019/06/27 00:17:16 +0000 
+ date: 2019/06/28 18:31:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tommy Jeans Hombre Summer Pique  Polo Manga Corta Camisa polo Azul  Black Iris 002  Small a precio de oferta de 31.59 EUR (original: 31.59 EUR) en el siguiente enlace! 
+ Tienes Tommy Jeans Hombre Summer Pique  Polo Manga Corta Camisa polo Azul  Black Iris 002  Small a precio de oferta de 31.24 EUR (original: 31.24 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41bKCNRe38L.jpg) 
  

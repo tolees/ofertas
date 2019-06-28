@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CZ3DZ4X: Oferta en Amazon para Puma Speed Racer  Zapatillas de Entrenam 
- date: 2019/06/26 19:52:10 +0000 
+ date: 2019/06/28 17:45:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Puma Speed Racer  Zapatillas de Entrenamiento Unisex Adulto  Negro Black-Asphalt White 01  42 EU a precio de oferta de 53.34 EUR (original: 119.95 EUR) en el siguiente enlace! 
+ Tienes Puma Speed Racer  Zapatillas de Entrenamiento Unisex Adulto  Negro Black-Asphalt White 01  42 EU a precio de oferta de   (original: 119.95 ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41eiw%2BKuHDL.jpg) 
  

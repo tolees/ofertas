@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GXHLTYD: Oferta en Amazon para Nike W Nk Team Gym Bag  Mujer  Rojo  Emb 
- date: 2019/06/26 18:35:48 +0000 
+ date: 2019/06/28 20:04:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

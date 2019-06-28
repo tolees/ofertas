@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01D61OZBE: Oferta en Amazon para Colorado Denim 06942-8029  Azul para Hom 
- date: 2019/06/26 16:27:11 +0000 
+ date: 2019/06/28 15:00:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

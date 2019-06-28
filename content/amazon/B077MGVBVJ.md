@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077MGVBVJ: Oferta en Amazon para Garcia 660/32  Vaqueros Tapered para Hom 
- date: 2019/06/25 16:18:26 +0000 
+ date: 2019/06/28 20:54:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

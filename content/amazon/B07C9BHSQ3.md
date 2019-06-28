@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C9BHSQ3: Oferta en Amazon para New Look and Coral Check Camisa Casual   
- date: 2019/06/26 17:24:50 +0000 
+ date: 2019/06/28 21:30:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

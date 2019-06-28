@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CGX16HW: Oferta en Amazon para REPLAY Rob  Vaqueros Relaxed Hombre  Gri 
- date: 2019/06/20 08:19:42 +0000 
+ date: 2019/06/28 19:12:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes REPLAY Rob  Vaqueros Relaxed Hombre  Gris  Grey Denim 9   W30/L34 a precio de oferta de 23.38 EUR (original: 139 EUR) en el siguiente enlace! 
+ Tienes REPLAY Rob  Vaqueros Relaxed Hombre  Gris  Grey Denim 9   W30/L34 a precio de oferta de 47.54 EUR (original: 139 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41blxM5inrL.jpg) 
  

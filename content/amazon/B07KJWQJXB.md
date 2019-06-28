@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KJWQJXB: Oferta en Amazon para Quiksilver Quik Pool Camiseta de Manga C 
- date: 2019/06/27 08:34:32 +0000 
+ date: 2019/06/28 15:13:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

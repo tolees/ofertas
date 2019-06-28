@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CG7YZGY: Oferta en Amazon para Caramelo Pantalón Verde ES 38 
- date: 2019/06/26 19:44:38 +0000 
+ date: 2019/06/28 19:39:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Caramelo Pantalón Verde ES 38 a precio de oferta de 45.31 EUR (original: 45.31 EUR) en el siguiente enlace! 
+ Tienes Caramelo Pantalón Verde ES 38 a precio de oferta de 42.84 EUR (original: 42.84 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31eEoj02MZL.jpg) 
  

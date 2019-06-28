@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J2MW1ZT: Oferta en Amazon para Razer Phone 2 - Smartphone para Juegos m 
- date: 2019/06/27 08:03:42 +0000 
+ date: 2019/06/28 16:59:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

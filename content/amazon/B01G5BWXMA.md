@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01G5BWXMA: Oferta en Amazon para Venti 001480  Camisa Para Hombre  Azul   
- date: 2019/06/26 20:57:33 +0000 
+ date: 2019/06/28 16:48:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Venti 001480  Camisa Para Hombre  Azul  Azul 111   36 a precio de oferta de 10.97 EUR (original: 10.97 EUR) en el siguiente enlace! 
+ Tienes Venti 001480  Camisa Para Hombre  Azul  Azul 111   36 a precio de oferta de 9.92 EUR (original: 9.92 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41upWgAgWFL.jpg) 
  

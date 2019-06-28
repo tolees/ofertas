@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0725RSCJR: Oferta en Amazon para Harrington Sinatra Chaqueta  Verde Kaki  
- date: 2019/06/26 19:52:02 +0000 
+ date: 2019/06/28 20:01:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HZDLDH4: Oferta en Amazon para Impresora Multifuncional Canon PIXMA MX4 
- date: 2019/06/25 08:06:24 +0000 
+ date: 2019/06/28 17:17:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

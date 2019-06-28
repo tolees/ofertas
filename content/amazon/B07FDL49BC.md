@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDL49BC: Oferta en Amazon para Thomson Neo - Ordenador portátil de 10.1 
- date: 2019/06/24 16:24:30 +0000 
+ date: 2019/06/28 18:50:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

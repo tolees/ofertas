@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DQ8HZJN: Oferta en Amazon para Urban Classics Contrast College Crew Sud 
- date: 2019/06/20 21:02:24 +0000 
+ date: 2019/06/28 14:45:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Urban Classics Contrast College Crew Sudadera   Wht/gry 00230   M para Hombre a precio de oferta de 21.44 EUR (original: 21.44 EUR) en el siguiente enlace! 
+ Tienes Urban Classics Contrast College Crew Sudadera   Wht/gry 00230   M para Hombre a precio de oferta de 19.8 EUR (original: 19.8 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JhQYouAJL.jpg) 
  

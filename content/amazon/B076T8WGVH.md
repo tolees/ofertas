@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076T8WGVH: Oferta en Amazon para Generic - Pelotas hinchables para inflar 
- date: 2019/06/25 21:45:31 +0000 
+ date: 2019/06/28 19:48:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Generic - Pelotas hinchables para inflar Accesorios de inflado a precio de oferta de 9.36 EUR (original: 9.36 EUR) en el siguiente enlace! 
+ Tienes Generic - Pelotas hinchables para inflar Accesorios de inflado a precio de oferta de 8.34 EUR (original: 8.34 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41o7cP2Rq8L.jpg) 
  

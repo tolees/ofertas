@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015T5ECWC: Oferta en Amazon para Calypso K5689/3 - Reloj Digital para Hom 
- date: 2019/06/20 20:06:31 +0000 
+ date: 2019/06/28 20:09:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

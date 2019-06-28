@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SRZMBRN: Oferta en Amazon para COOAU Cámara Deportiva 4K WiFi 16 MP con 
- date: 2019/06/26 15:22:29 +0000 
+ date: 2019/06/28 15:48:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes COOAU Cámara Deportiva 4K WiFi 16 MP con Control Remoto  Camara Accion Acuatica de 40M con 2 Baterías y Cargador Externo  Función EIS Anti-vibración y Slow Motion a precio de oferta de 59.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Tienes COOAU Cámara Deportiva 4K WiFi 16 MP con Control Remoto  Camara Accion Acuatica de 40M con 2 Baterías y Cargador Externo  Función EIS Anti-vibración y Slow Motion a precio de oferta de 59.99 EUR (original: 79.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ps%2BEKfOoL.jpg) 
  

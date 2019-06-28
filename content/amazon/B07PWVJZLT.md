@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PWVJZLT: Oferta en Amazon para MTBD NBA Lebron James  NO.23 Lakers Retr 
- date: 2019/06/27 06:07:03 +0000 
+ date: 2019/06/28 14:39:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes MTBD NBA Lebron James  NO.23 Lakers Retro  Camiseta de Jugador de Básquetbol  Bordado Transpirable y Resistente al Desgaste Camiseta de Fan de Hombres a precio de oferta de 16.4 EUR (original: 16.4 EUR) en el siguiente enlace! 
+ Tienes MTBD NBA Lebron James  NO.23 Lakers Retro  Camiseta de Jugador de Básquetbol  Bordado Transpirable y Resistente al Desgaste Camiseta de Fan de Hombres a precio de oferta de 16.99 EUR (original: 16.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JDwWkUF5L.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MYYFAOQ: Oferta en Amazon para Plantronics BackBeat Pro - Auriculares d 
- date: 2019/06/26 04:40:46 +0000 
+ date: 2019/06/28 15:36:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

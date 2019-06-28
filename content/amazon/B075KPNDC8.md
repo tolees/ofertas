@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075KPNDC8: Oferta en Amazon para JBL Tune 110BT - Auriculares Intraaurale 
- date: 2019/06/25 20:18:13 +0000 
+ date: 2019/06/28 16:13:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

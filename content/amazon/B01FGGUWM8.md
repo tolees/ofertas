@@ -1,0 +1,17 @@
+--- 
+ layout: post 
+ title: B01FGGUWM8: Oferta en Amazon para QNAP HS-251+ NAS Compacto Ethernet Negro 
+ date: 2019/06/28 17:42:41 +0000 
+ comments: true 
+ tags: amazon 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes QNAP HS-251+ NAS Compacto Ethernet Negro - Unidad RAID  8000 GB  Unidad de disco duro  Unidad de disco duro  SSD  SATA  4000 GB  2.5/3.5"  a precio de oferta de 881.51 EUR (original: 881.51 EUR) en el siguiente enlace! 
+ 
+ ![]() 
+ 
+ [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01FGGUWM8/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

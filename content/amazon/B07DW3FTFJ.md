@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DW3FTFJ: Oferta en Amazon para LE COQ SPORTIF Flag  Zapatillas para Hom 
- date: 2019/06/20 09:32:32 +0000 
+ date: 2019/06/28 14:41:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LE COQ SPORTIF Flag  Zapatillas para Hombre  Azul Dress Blue  42 EU a precio de oferta de 32.12 EUR (original: 75 EUR) en el siguiente enlace! 
+ Tienes LE COQ SPORTIF Flag  Zapatillas para Hombre  Azul Dress Blue  42 EU a precio de oferta de 25.29 EUR (original: 75 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31xUkO-QJ0L.jpg) 
  

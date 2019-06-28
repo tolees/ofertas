@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073ZMBZPH: Oferta en Amazon para Western Digital My Book Duo - Disco Duro 
- date: 2019/06/25 11:36:24 +0000 
+ date: 2019/06/28 16:09:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

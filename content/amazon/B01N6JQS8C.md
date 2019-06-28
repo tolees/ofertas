@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N6JQS8C: Oferta en Amazon para Kingston SSD A400 - Disco duro sólido  2 
- date: 2019/06/27 08:04:55 +0000 
+ date: 2019/06/28 15:22:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Kingston SSD A400 - Disco duro sólido  2.5"  SATA 3  120 GB a precio de oferta de 18.99 EUR (original: 62 EUR) en el siguiente enlace! 
+ Tienes Kingston SSD A400 - Disco duro sólido  2.5"  SATA 3  120 GB a precio de oferta de 18 EUR (original: 62 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41EjY-AhQUL.jpg) 
  

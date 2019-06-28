@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01J9SWCOU: Oferta en Amazon para HÄRVIST  Helsinki - Abrigo de manga larg 
- date: 2019/06/26 18:48:56 +0000 
+ date: 2019/06/28 18:09:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes HÄRVIST  Helsinki - Abrigo de manga larga para hombre  color kaki  talla L a precio de oferta de 66.69 EUR (original: 221.58 EUR) en el siguiente enlace! 
+ Tienes HÄRVIST  Helsinki - Abrigo de manga larga para hombre  color kaki  talla L a precio de oferta de 61.49 EUR (original: 221.58 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JQDHgvOuL.jpg) 
  

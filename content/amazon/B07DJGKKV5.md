@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJGKKV5: Oferta en Amazon para Silica DMH165PINK - Smartwatch multifunc 
- date: 2019/06/26 05:18:33 +0000 
+ date: 2019/06/28 17:34:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Silica DMH165PINK - Smartwatch multifunción Bluetooth Pink  Color Rosa a precio de oferta de 17.67 EUR (original: 18.37 EUR) en el siguiente enlace! 
+ Tienes Silica DMH165PINK - Smartwatch multifunción Bluetooth Pink  Color Rosa a precio de oferta de 16.71 EUR (original: 16.71 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41DIqOuegvL.jpg) 
  

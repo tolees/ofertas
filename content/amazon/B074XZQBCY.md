@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074XZQBCY: Oferta en Amazon para edc by Esprit 117cc2f005 Camisa  Rojo  B 
- date: 2019/06/25 23:27:45 +0000 
+ date: 2019/06/28 19:15:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes edc by Esprit 117cc2f005 Camisa  Rojo  Bordeaux Red 600   X-Large para Hombre a precio de oferta de 15.57 EUR (original: 15.57 EUR) en el siguiente enlace! 
+ Tienes edc by Esprit 117cc2f005 Camisa  Rojo  Bordeaux Red 600   X-Large para Hombre a precio de oferta de 13.38 EUR (original: 13.38 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51EqOifANIL.jpg) 
  

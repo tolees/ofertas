@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073RPYP7G: Oferta en Amazon para Bonobo MICROSOULH Abrigo  Gris  Large pa 
- date: 2019/06/20 11:52:18 +0000 
+ date: 2019/06/28 17:15:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Bonobo MICROSOULH Abrigo  Gris  Large para Hombre a precio de oferta de 31.25 EUR (original: 31.25 EUR) en el siguiente enlace! 
+ Tienes Bonobo MICROSOULH Abrigo  Gris  Large para Hombre a precio de oferta de 18.01 EUR (original: 18.01 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41SWSpf9xxL.jpg) 
  

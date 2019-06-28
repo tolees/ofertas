@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B002XAXM1E: Oferta en Amazon para Casio Reloj 19125 
- date: 2019/06/25 12:42:57 +0000 
+ date: 2019/06/28 15:25:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

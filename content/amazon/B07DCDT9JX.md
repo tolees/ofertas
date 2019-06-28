@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DCDT9JX: Oferta en Amazon para JACK & JONES PREMIUM Jprstone Quilt Jack 
- date: 2019/06/20 20:03:45 +0000 
+ date: 2019/06/28 17:07:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNTSDDM: Oferta en Amazon para LEGO La LEGO Película 2 - Buggy de Huida 
- date: 2019/06/24 21:26:34 +0000 
+ date: 2019/06/28 15:50:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

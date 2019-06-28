@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BC46RMD: Oferta en Amazon para Burton Menswear London Check Blazer Amer 
- date: 2019/06/26 15:36:40 +0000 
+ date: 2019/06/28 18:27:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Burton Menswear London Check Blazer Americana  Azul  54 para Hombre a precio de oferta de 26.61 EUR (original: 26.61 EUR) en el siguiente enlace! 
+ Tienes Burton Menswear London Check Blazer Americana  Azul  54 para Hombre a precio de oferta de 22.92 EUR (original: 22.92 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51GWSmdM9UL.jpg) 
  

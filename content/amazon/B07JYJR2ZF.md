@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JYJR2ZF: Oferta en Amazon para Lenovo Ideapad 330-15ICH - Ordenador Por 
- date: 2019/06/27 07:10:55 +0000 
+ date: 2019/06/28 15:24:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

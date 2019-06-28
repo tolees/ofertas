@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D9B3SBL: Oferta en Amazon para Tommy Hilfiger Outdoor Hiking Detail Boo 
- date: 2019/06/27 00:55:32 +0000 
+ date: 2019/06/28 19:09:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tommy Hilfiger Outdoor Hiking Detail Boot  Botas Militar para Hombre  Negro  Black 990   45 EU a precio de oferta de 67.71 EUR (original: 67.71 EUR) en el siguiente enlace! 
+ Tienes Tommy Hilfiger Outdoor Hiking Detail Boot  Botas Militar para Hombre  Negro  Black 990   45 EU a precio de oferta de 61.36 EUR (original: 61.36 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41oNOgnvH7L.jpg) 
  

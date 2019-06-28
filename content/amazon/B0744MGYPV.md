@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0744MGYPV: Oferta en Amazon para Cinque CITRADE  Abrigo para Hombre  Grün 
- date: 2019/06/20 22:12:55 +0000 
+ date: 2019/06/28 21:00:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Cinque CITRADE  Abrigo para Hombre  Grün  Oliv 89  Large  Talla del Fabricante: 50  a precio de oferta de 101.93 EUR (original: 101.93 EUR) en el siguiente enlace! 
+ Tienes Cinque CITRADE  Abrigo para Hombre  Grün  Oliv 89  Large  Talla del Fabricante: 50  a precio de oferta de 84.55 EUR (original: 84.55 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41IXmG5GDdL.jpg) 
  

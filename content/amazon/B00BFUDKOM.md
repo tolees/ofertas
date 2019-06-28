@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00BFUDKOM: Oferta en Amazon para James & Nicholson Poloshirt Men s Long-S 
- date: 2019/06/25 07:07:00 +0000 
+ date: 2019/06/28 17:48:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes James & Nicholson Poloshirt Men s Long-Sleeve - Polo Hombre  Gris  Grey-Melange/Off-White   XX-Large  Talla del Fabricante: XX-Large  a precio de oferta de 15.1 EUR (original: 15.1 EUR) en el siguiente enlace! 
+ Tienes James & Nicholson Poloshirt Men s Long-Sleeve - Polo Hombre  Gris  Grey-Melange/Off-White   XX-Large  Talla del Fabricante: XX-Large  a precio de oferta de 12.64 EUR (original: 12.64 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41DWBF9OluL.jpg) 
  
