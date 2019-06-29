@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M0U5SLO: Oferta en Amazon para Lenovo Moto Z Smartphone de 5 5 Pulgadas 
- date: 2019/06/26 23:43:13 +0000 
+ date: 2019/06/29 13:40:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lenovo Moto Z Smartphone de 5 5 Pulgadas  memoria interna de 32 GB  4GB RAM  cámara de 13 MP  color negro a precio de oferta de 224.77 EUR (original: 224.77 EUR) en el siguiente enlace! 
+ Tienes Lenovo Moto Z Smartphone de 5 5 Pulgadas  memoria interna de 32 GB  4GB RAM  cámara de 13 MP  color negro a precio de oferta de 196.48 EUR (original: 196.48 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Oc1TTJYsL.jpg) 
  

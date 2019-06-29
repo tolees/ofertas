@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PHTY17N: Oferta en Amazon para Judgment 
- date: 2019/06/28 14:39:25 +0000 
+ date: 2019/06/29 14:53:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

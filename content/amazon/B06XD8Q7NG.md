@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XD8Q7NG: Oferta en Amazon para Altavoz Bluetooth  [20w 30h 4400mAh] PIC 
- date: 2019/06/26 19:26:08 +0000 
+ date: 2019/06/29 15:55:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XRVH8MF: Oferta en Amazon para LG SJ6 Inalámbrico y alámbrico 2.1channe 
- date: 2019/06/26 20:07:32 +0000 
+ date: 2019/06/29 17:06:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

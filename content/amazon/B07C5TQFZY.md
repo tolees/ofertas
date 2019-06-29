@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C5TQFZY: Oferta en Amazon para CASUAL FRIDAY Pullover  Jersey para Homb 
- date: 2019/06/26 22:27:48 +0000 
+ date: 2019/06/29 15:03:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes CASUAL FRIDAY Pullover  Jersey para Hombre  Azul  Navy 50410  XX-Large a precio de oferta de 16.89 EUR (original: 16.89 EUR) en el siguiente enlace! 
+ Tienes CASUAL FRIDAY Pullover  Jersey para Hombre  Azul  Navy 50410  XX-Large a precio de oferta de 14.52 EUR (original: 14.52 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31a9o6PpwmL.jpg) 
  

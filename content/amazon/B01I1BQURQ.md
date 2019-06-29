@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01I1BQURQ: Oferta en Amazon para Shine Original Striped Oxford Shirt L/S  
- date: 2019/06/26 23:12:45 +0000 
+ date: 2019/06/29 17:27:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Shine Original Striped Oxford Shirt L/S Camisa  Azul Light Blue  43 Talla del Fabricante: Large  para Hombre a precio de oferta de 21.56 EUR (original: 21.56 EUR) en el siguiente enlace! 
+ Tienes Shine Original Striped Oxford Shirt L/S Camisa  Azul Light Blue  43 Talla del Fabricante: Large  para Hombre a precio de oferta de 19.09 EUR (original: 19.09 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41l16WJBwfL.jpg) 
  

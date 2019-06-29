@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N6ILG7B: Oferta en Amazon para JACK & JONES Jorbadge Sweat Hood Capucha 
- date: 2019/06/20 17:34:35 +0000 
+ date: 2019/06/29 13:15:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jorbadge Sweat Hood Capucha  Verde  Thyme   Large para Hombre a precio de oferta de 20.09 EUR (original: 20.09 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jorbadge Sweat Hood Capucha  Verde  Thyme   Large para Hombre a precio de oferta de 18.92 EUR (original: 18.92 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41RbpjcpmrL.jpg) 
  

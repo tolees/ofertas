@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D85WXWB: Oferta en Amazon para SELECTED HOMME Slhdan Jacket B Chaqueta  
- date: 2019/06/26 17:50:31 +0000 
+ date: 2019/06/29 14:57:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SELECTED HOMME Slhdan Jacket B Chaqueta  Marrón Walnut  Large para Hombre a precio de oferta de 22.06 EUR (original: 22.06 EUR) en el siguiente enlace! 
+ Tienes SELECTED HOMME Slhdan Jacket B Chaqueta  Marrón Walnut  Large para Hombre a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/4111EmPukGL.jpg) 
  

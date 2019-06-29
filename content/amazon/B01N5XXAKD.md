@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N5XXAKD: Oferta en Amazon para Biotin MGM Rosalie Cinturón  Marrón  Cog 
- date: 2019/06/24 19:09:55 +0000 
+ date: 2019/06/29 13:10:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Biotin MGM Rosalie Cinturón  Marrón  Cognac 04   90 para Mujer a precio de oferta de 16.22 EUR (original: 16.22 EUR) en el siguiente enlace! 
+ Tienes Biotin MGM Rosalie Cinturón  Marrón  Cognac 04   90 para Mujer a precio de oferta de 12.5 EUR (original: 12.5 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51%2B0Q4O0jSL.jpg) 
  

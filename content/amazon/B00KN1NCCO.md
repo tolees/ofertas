@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KN1NCCO: Oferta en Amazon para JARRA CERVEZA INTERMINABLE 
- date: 2019/06/28 15:48:16 +0000 
+ date: 2019/06/29 17:10:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

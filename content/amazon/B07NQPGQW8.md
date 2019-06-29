@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NQPGQW8: Oferta en Amazon para Super Mario Maker 2 
- date: 2019/06/25 20:40:04 +0000 
+ date: 2019/06/29 12:58:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Super Mario Maker 2 a precio de oferta de 49.9 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Tienes Super Mario Maker 2 a precio de oferta de 46.9 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  ![](http://images.amazon.com/images/P/B07NQPGQW8.01._PI_SCMZZZZZZZ_.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y68YRTF: Oferta en Amazon para Fujifilm Instax Mini 9 - Cámara instantá 
- date: 2019/06/26 16:03:13 +0000 
+ date: 2019/06/29 16:30:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

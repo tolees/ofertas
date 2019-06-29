@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HK4JNV1: Oferta en Amazon para Xiaomi Redmi Note 6 Pro Smartphone de 6. 
- date: 2019/06/27 08:17:27 +0000 
+ date: 2019/06/29 14:27:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro a precio de oferta de 163 EUR (original: 249 EUR) en el siguiente enlace! 
+ Tienes Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro a precio de oferta de 164.27 EUR (original: 249 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL.jpg) 
  

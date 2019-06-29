@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XBXXGCB: Oferta en Amazon para Smith Clayton/N IN SII 53 Gafas de sol   
- date: 2019/06/25 13:30:36 +0000 
+ date: 2019/06/29 14:34:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Smith Clayton/N IN SII 53 Gafas de sol  Negro  Bkfade Torto/Grey Green Pz   Unisex Adulto a precio de oferta de 57.68 EUR (original: 57.68 EUR) en el siguiente enlace! 
+ Tienes Smith Clayton/N IN SII 53 Gafas de sol  Negro  Bkfade Torto/Grey Green Pz   Unisex Adulto a precio de oferta de 46.93 EUR (original: 46.93 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31zDUkhsDLL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079LJGR1M: Oferta en Amazon para camel active Bolzano 12  Mocasines para  
- date: 2019/06/27 07:42:50 +0000 
+ date: 2019/06/29 13:03:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes camel active Bolzano 12  Mocasines para Hombre  Marrón  Mocca 6   41 EU a precio de oferta de 49.42 EUR (original: 49.42 EUR) en el siguiente enlace! 
+ Tienes camel active Bolzano 12  Mocasines para Hombre  Marrón  Mocca 6   41 EU a precio de oferta de 48.73 EUR (original: 48.73 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31HTdqitXXL.jpg) 
  

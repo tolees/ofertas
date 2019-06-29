@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AAASG7I: Oferta en Amazon para Oblumi OBTAPP001 - Termómetro Inteligent 
- date: 2019/06/27 08:17:39 +0000 
+ date: 2019/06/29 16:55:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Oblumi OBTAPP001 - Termómetro Inteligente inalámbrico por Infrarrojos a precio de oferta de 26.59 EUR (original: 39.95 EUR) en el siguiente enlace! 
+ Tienes Oblumi OBTAPP001 - Termómetro Inteligente inalámbrico por Infrarrojos a precio de oferta de 25.64 EUR (original: 39.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31Oz9Ffuv%2BL.jpg) 
  

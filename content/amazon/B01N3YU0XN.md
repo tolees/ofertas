@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N3YU0XN: Oferta en Amazon para Brandit Dawson Parka  Hombre  Negro  Bla 
- date: 2019/06/25 18:31:20 +0000 
+ date: 2019/06/29 13:36:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Brandit Dawson Parka  Hombre  Negro  Black 2  Large a precio de oferta de 30.61 EUR (original: 29.33 EUR) en el siguiente enlace! 
+ Tienes Brandit Dawson Parka  Hombre  Negro  Black 2  Large a precio de oferta de 26.27 EUR (original: 27.04 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PuzkaJbCL.jpg) 
  

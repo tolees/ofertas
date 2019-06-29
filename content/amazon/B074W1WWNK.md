@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074W1WWNK: Oferta en Amazon para Auriculares Bluetooth 4.1 SoundPEATS Cas 
- date: 2019/06/20 20:16:38 +0000 
+ date: 2019/06/29 13:35:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079QBZVFL: Oferta en Amazon para Hackett London Padded Field JKT  Chaquet 
- date: 2019/06/25 09:49:52 +0000 
+ date: 2019/06/29 16:48:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Hackett London Padded Field JKT  Chaqueta para Hombre  Azul M a precio de oferta de 174.4 EUR (original: 174.4 EUR) en el siguiente enlace! 
+ Tienes Hackett London Padded Field JKT  Chaqueta para Hombre  Azul M a precio de oferta de 147.06 EUR (original: 147.06 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31AN-momviL.jpg) 
  

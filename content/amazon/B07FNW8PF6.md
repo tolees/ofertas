@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNW8PF6: Oferta en Amazon para LEGO La LEGO Película 2 - Ultrakatty y L 
- date: 2019/06/28 15:50:48 +0000 
+ date: 2019/06/29 14:45:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

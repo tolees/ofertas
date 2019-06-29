@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MTFL71A: Oferta en Amazon para JB Reserva - Blended Scotch Whisky -700  
- date: 2019/06/26 22:16:56 +0000 
+ date: 2019/06/29 16:23:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JB Reserva - Blended Scotch Whisky -700 ml a precio de oferta de 20.59 EUR (original: 33.68 EUR) en el siguiente enlace! 
+ Tienes JB Reserva - Blended Scotch Whisky -700 ml a precio de oferta de 19.99 EUR (original: 33.68 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51eDww8tiqL.jpg) 
  
