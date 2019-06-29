@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078BXRK2C: Oferta en Amazon para LTB Jeans Niels Vaqueros Slim  Azul  Cor 
- date: 2019/06/26 21:09:37 +0000 
+ date: 2019/06/29 20:12:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

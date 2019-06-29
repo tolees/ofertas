@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GSFZF7W: Oferta en Amazon para s.Oliver 28.811.52.8516  Abrigo para Hom 
- date: 2019/06/25 16:36:55 +0000 
+ date: 2019/06/29 18:57:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes s.Oliver 28.811.52.8516  Abrigo para Hombre  Gris Medium  Talla del Fabricante:  a precio de oferta de 64.77 EUR (original: 65.32 EUR) en el siguiente enlace! 
+ Tienes s.Oliver 28.811.52.8516  Abrigo para Hombre  Gris Medium  Talla del Fabricante:  a precio de oferta de 64.98 EUR (original: 64.98 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/414jT1yL75L.jpg) 
  

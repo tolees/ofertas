@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B007PS4WHC: Oferta en Amazon para Taurus Alpatec Babel RC - Ventilador de  
- date: 2019/06/28 15:15:23 +0000 
+ date: 2019/06/29 19:41:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Taurus Alpatec Babel RC - Ventilador de torre con control remoto  color gris a precio de oferta de 48 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Tienes Taurus Alpatec Babel RC - Ventilador de torre con control remoto  color gris a precio de oferta de 48.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/21gJHiwxJSL.jpg) 
  

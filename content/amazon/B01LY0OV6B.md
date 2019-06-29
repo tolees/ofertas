@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LY0OV6B: Oferta en Amazon para Memzi Pro 32 GB clase 10 90 Mb/s tarjeta 
- date: 2019/06/20 10:25:12 +0000 
+ date: 2019/06/29 20:06:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Memzi Pro 32 GB clase 10 90 Mb/s tarjeta de memoria Micro SDHC con adaptador SD para VTech Kidizoom cámaras digitales o videocámaras  InnoTab  innotv  digiGO o KidiGo a precio de oferta de 13.06 EUR (original: 13.06 EUR) en el siguiente enlace! 
+ Tienes Memzi Pro 32 GB clase 10 90 Mb/s tarjeta de memoria Micro SDHC con adaptador SD para VTech Kidizoom cámaras digitales o videocámaras  InnoTab  innotv  digiGO o KidiGo a precio de oferta de 12.9 EUR (original: 12.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Gqztwm3sL.jpg) 
  

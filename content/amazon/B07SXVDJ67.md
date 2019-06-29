@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SXVDJ67: Oferta en Amazon para TD Systems K50DLP8F - Televisor Led 50 P 
- date: 2019/06/28 16:32:12 +0000 
+ date: 2019/06/29 18:19:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

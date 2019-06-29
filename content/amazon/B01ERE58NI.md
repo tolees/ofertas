@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ERE58NI: Oferta en Amazon para SHOE THE BEAR Worker  Botines para Hombr 
- date: 2019/06/28 20:09:32 +0000 
+ date: 2019/06/29 20:33:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SHOE THE BEAR Worker  Botines para Hombre  Negro  Black   44 EU a precio de oferta de 33.79 EUR (original: 33.79 EUR) en el siguiente enlace! 
+ Tienes SHOE THE BEAR Worker  Botines para Hombre  Negro  Black   44 EU a precio de oferta de 31.76 EUR (original: 31.76 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41IGR9KqdBL.jpg) 
  

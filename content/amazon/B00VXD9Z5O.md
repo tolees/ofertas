@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VXD9Z5O: Oferta en Amazon para G-Star Holmer Tapered - Vaqueros para ho 
- date: 2019/06/25 17:27:43 +0000 
+ date: 2019/06/29 19:24:59 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes G-Star Holmer Tapered - Vaqueros para hombre  Blau  dk aged 89   28W/32L a precio de oferta de 32.34 EUR (original: 129.95 EUR) en el siguiente enlace! 
+ Tienes G-Star Holmer Tapered - Vaqueros para hombre  Blau  dk aged 89   28W/32L a precio de oferta de 26.87 EUR (original: 129.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41iVyOgAM3L.jpg) 
  

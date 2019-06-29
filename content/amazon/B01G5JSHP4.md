@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01G5JSHP4: Oferta en Amazon para Marc O Polo 720101342472-Camiseta de Man 
- date: 2019/06/25 17:06:47 +0000 
+ date: 2019/06/29 19:12:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Marc O Polo 720101342472-Camiseta de Manga Larga Hombre  Combo E85  XL a precio de oferta de 31.8 EUR (original: 32.6 EUR) en el siguiente enlace! 
+ Tienes Marc O Polo 720101342472-Camiseta de Manga Larga Hombre  Combo E85  XL a precio de oferta de 25.7 EUR (original: 25.7 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41KiXEWrnHL.jpg) 
  

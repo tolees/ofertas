@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNTTF4K: Oferta en Amazon para LEGO Star Wars - Interceptor TIE Black A 
- date: 2019/06/28 15:51:20 +0000 
+ date: 2019/06/29 17:50:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

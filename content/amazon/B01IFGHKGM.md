@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IFGHKGM: Oferta en Amazon para Timberland Heritage 6" Premium Waterproo 
- date: 2019/06/25 14:39:45 +0000 
+ date: 2019/06/29 19:25:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Timberland Heritage 6" Premium Waterproof  Wide fit   Botas Clasicas para Hombre  Marrón  Brown Burnished Full Grain   39 EU a precio de oferta de 117.15 EUR (original: 230 EUR) en el siguiente enlace! 
+ Tienes Timberland Heritage 6" Premium Waterproof  Wide fit   Botas Clasicas para Hombre  Marrón  Brown Burnished Full Grain   39 EU a precio de oferta de 106 EUR (original: 230 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PHRu6nXeL.jpg) 
  
