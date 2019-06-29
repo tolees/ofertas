@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00R88ZSLI: Oferta en Amazon para Acer Portable  PICO & LED  K137I - Proye 
- date: 2019/06/27 04:10:15 +0000 
+ date: 2019/06/29 12:50:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

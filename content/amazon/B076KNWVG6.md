@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076KNWVG6: Oferta en Amazon para HP t530 1.5GHz GX-215JJ 960g Negro - Ord 
- date: 2019/06/20 19:55:29 +0000 
+ date: 2019/06/29 06:39:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes HP t530 1.5GHz GX-215JJ 960g Negro - Ordenador de sobremesa Mini  1 5 GHz  GX-215JJ  AMD G  2 GHz  1 MB  8 GB  a precio de oferta de 471.4 EUR (original: 471.4 EUR) en el siguiente enlace! 
+ Tienes HP t530 1.5GHz GX-215JJ 960g Negro - Ordenador de sobremesa Mini  1 5 GHz  GX-215JJ  AMD G  2 GHz  1 MB  8 GB  a precio de oferta de 490.97 EUR (original: 490.97 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31JhYGbD0UL.jpg) 
  

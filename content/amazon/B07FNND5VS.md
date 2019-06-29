@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNND5VS: Oferta en Amazon para Fitness Reloj de pulsera con pulsómetro  
- date: 2019/06/21 05:24:39 +0000 
+ date: 2019/06/29 08:42:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

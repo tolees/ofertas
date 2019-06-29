@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FMQ12PJ: Oferta en Amazon para Xiaomi A2 Lite 4G 64GB Dual-SIM Gold EU 
- date: 2019/06/24 19:53:54 +0000 
+ date: 2019/06/29 10:23:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Xiaomi A2 Lite 4G 64GB Dual-SIM Gold EU a precio de oferta de 147.67 EUR (original: 147.68 EUR) en el siguiente enlace! 
+ Tienes Xiaomi A2 Lite 4G 64GB Dual-SIM Gold EU a precio de oferta de 142.11 EUR (original: 142.11 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41FuEiuFuvL.jpg) 
  

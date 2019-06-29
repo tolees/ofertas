@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K4DC5FP: Oferta en Amazon para Tom Tailor Casual 1007929 Camisa  Azul   
- date: 2019/06/26 22:42:18 +0000 
+ date: 2019/06/29 10:57:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tom Tailor Casual 1007929 Camisa  Azul  Navy Aral Blue Glenc 15766   X-Large para Hombre a precio de oferta de 12.7 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Tienes Tom Tailor Casual 1007929 Camisa  Azul  Navy Aral Blue Glenc 15766   X-Large para Hombre a precio de oferta de 11.32 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41tXcrFS67L.jpg) 
  

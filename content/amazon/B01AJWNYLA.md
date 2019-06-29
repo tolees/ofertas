@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AJWNYLA: Oferta en Amazon para Maxtor STSHX-M101TCBM - Disco Duro Exter 
- date: 2019/06/26 18:34:41 +0000 
+ date: 2019/06/29 12:38:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Maxtor STSHX-M101TCBM - Disco Duro Externo de 1 TB  2.5"  HDD  USB 3.0/3.1   Color Negro a precio de oferta de 45 EUR (original: 69.11 EUR) en el siguiente enlace! 
+ Tienes Maxtor STSHX-M101TCBM - Disco Duro Externo de 1 TB  2.5"  HDD  USB 3.0/3.1   Color Negro a precio de oferta de 45.9 EUR (original: 69.11 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51U-YqI-6VL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01J3CTNAS: Oferta en Amazon para LattePanda - A Powerful Windows 10 Mini  
- date: 2019/06/26 22:58:31 +0000 
+ date: 2019/06/29 10:51:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

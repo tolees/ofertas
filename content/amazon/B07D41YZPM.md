@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D41YZPM: Oferta en Amazon para TECHNIMEDIA 9179TM80 Sélecteur HDMI 2 ve 
- date: 2019/06/27 07:15:29 +0000 
+ date: 2019/06/29 09:54:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

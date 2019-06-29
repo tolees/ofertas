@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C93YYFB: Oferta en Amazon para Dr. Martens Scotswood  Botas Clasicas pa 
- date: 2019/06/25 06:49:47 +0000 
+ date: 2019/06/29 10:30:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Dr. Martens Scotswood  Botas Clasicas para Hombre  Marrón  Gaucho+Black/Industrial Olive 207   41 EU a precio de oferta de 67.22 EUR (original: 150 EUR) en el siguiente enlace! 
+ Tienes Dr. Martens Scotswood  Botas Clasicas para Hombre  Marrón  Gaucho+Black/Industrial Olive 207   41 EU a precio de oferta de 53.35 EUR (original: 150 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51CwYERhYML.jpg) 
  

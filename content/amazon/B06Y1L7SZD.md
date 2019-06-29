@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y1L7SZD: Oferta en Amazon para Wrangler Western-Shirt Camisa  Azul  Rin 
- date: 2019/06/26 22:18:34 +0000 
+ date: 2019/06/29 10:30:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

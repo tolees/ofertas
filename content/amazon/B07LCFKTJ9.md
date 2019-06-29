@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LCFKTJ9: Oferta en Amazon para HP 15-da1014ns - Ordenador portátil de 1 
- date: 2019/06/25 13:40:22 +0000 
+ date: 2019/06/29 10:15:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes HP 15-da1014ns - Ordenador portátil de 15.6" HD  Intel Core i5-8265U  8GB RAM  256GB SSD  NVIDIA GeForce MX110-2GB  Windows 10  Color Plata - Teclado QWERTY Español a precio de oferta de 499.99 EUR (original: 699.99 EUR) en el siguiente enlace! 
+ Tienes HP 15-da1014ns - Ordenador portátil de 15.6" HD  Intel Core i5-8265U  8GB RAM  256GB SSD  NVIDIA GeForce MX110-2GB  Windows 10  Color Plata - Teclado QWERTY Español a precio de oferta de 499.99 EUR (original: 499.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41%2BWA1vDcML.jpg) 
  

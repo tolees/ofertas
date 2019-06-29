@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XDQZX4Q: Oferta en Amazon para Nesquik - Cacao Soluble - 2 kg 
- date: 2019/06/26 19:09:01 +0000 
+ date: 2019/06/29 10:05:00 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

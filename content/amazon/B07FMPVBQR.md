@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FMPVBQR: Oferta en Amazon para Xiaomi MI A2 - Smartphone Dual Sim  4/64 
- date: 2019/06/26 21:06:06 +0000 
+ date: 2019/06/29 10:23:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Xiaomi MI A2 - Smartphone Dual Sim  4/64 GB  negro  EU Versión  [Versión importada] a precio de oferta de 144.99 EUR (original: 144.99 EUR) en el siguiente enlace! 
+ Tienes Xiaomi MI A2 - Smartphone Dual Sim  4/64 GB  negro  EU Versión  [Versión importada] a precio de oferta de 144.98 EUR (original: 144.98 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51amHMMIbzL.jpg) 
  

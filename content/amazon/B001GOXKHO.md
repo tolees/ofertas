@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001GOXKHO: Oferta en Amazon para Helicóptero Infrarojo azul 
- date: 2019/06/27 06:36:25 +0000 
+ date: 2019/06/29 12:45:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Helicóptero Infrarojo azul a precio de oferta de 14.25 EUR (original: 14.25 EUR) en el siguiente enlace! 
+ Tienes Helicóptero Infrarojo azul a precio de oferta de 13.23 EUR (original: 13.23 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31f3EFBcmuL.jpg) 
  

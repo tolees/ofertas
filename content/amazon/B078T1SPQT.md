@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078T1SPQT: Oferta en Amazon para Alcatel 3C - Smartphone Pantalla de 6" H 
- date: 2019/06/27 03:00:12 +0000 
+ date: 2019/06/29 12:15:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

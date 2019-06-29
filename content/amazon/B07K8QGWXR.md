@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K8QGWXR: Oferta en Amazon para adidas Cpt Soccer Ball  Hombre  Black/So 
- date: 2019/06/20 09:26:08 +0000 
+ date: 2019/06/29 07:15:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes adidas Cpt Soccer Ball  Hombre  Black/Solar Red/Off White  5 a precio de oferta de 9.52 EUR (original: 9.52 EUR) en el siguiente enlace! 
+ Tienes adidas Cpt Soccer Ball  Hombre  Black/Solar Red/Off White  5 a precio de oferta de 9.62 EUR (original: 9.62 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/617xl74zUNL.jpg) 
  

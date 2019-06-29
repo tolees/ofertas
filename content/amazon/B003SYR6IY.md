@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003SYR6IY: Oferta en Amazon para BLACK+DECKER KR714CRESK - Taladro percut 
- date: 2019/06/25 15:21:52 +0000 
+ date: 2019/06/29 07:11:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes BLACK+DECKER KR714CRESK - Taladro percutor con cable 710W  portabrocas 13 mm  incluye maletín a precio de oferta de 52.1 EUR (original: 89.34 EUR) en el siguiente enlace! 
+ Tienes BLACK+DECKER KR714CRESK - Taladro percutor con cable 710W  portabrocas 13 mm  incluye maletín a precio de oferta de 52.08 EUR (original: 89.34 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41VSMN0Uc8L.jpg) 
  

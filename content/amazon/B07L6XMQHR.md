@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L6XMQHR: Oferta en Amazon para CRZDEAL Freidora sin Aceite Digital Frei 
- date: 2019/06/27 07:56:28 +0000 
+ date: 2019/06/29 08:52:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

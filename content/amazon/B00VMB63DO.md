@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VMB63DO: Oferta en Amazon para Ice-Watch - BMW Motorsport  Steel  Black 
- date: 2019/06/25 20:48:45 +0000 
+ date: 2019/06/29 10:13:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Ice-Watch - BMW Motorsport  Steel  Black - Reloj Negro para Hombre con Correa de Cuero - 001111  Medium  a precio de oferta de 99.12 EUR (original: 99.12 EUR) en el siguiente enlace! 
+ Tienes Ice-Watch - BMW Motorsport  Steel  Black - Reloj Negro para Hombre con Correa de Cuero - 001111  Medium  a precio de oferta de 97.77 EUR (original: 97.97 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51Wv9%2BNjndL.jpg) 
  

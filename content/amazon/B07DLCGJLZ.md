@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DLCGJLZ: Oferta en Amazon para Springfield Check Vichy Melange B.S Cami 
- date: 2019/06/20 08:16:19 +0000 
+ date: 2019/06/29 08:08:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Springfield Check Vichy Melange B.S Camisa Casual   Gama Gales 82   Small  Tamaño del Fabricante:S  para Hombre a precio de oferta de 10.38 EUR (original: 25.99 EUR) en el siguiente enlace! 
+ Tienes Springfield Check Vichy Melange B.S Camisa Casual   Gama Gales 82   Small  Tamaño del Fabricante:S  para Hombre a precio de oferta de 8.72 EUR (original: 25.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41F8vufhufL.jpg) 
  

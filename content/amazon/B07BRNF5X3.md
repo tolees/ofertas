@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BRNF5X3: Oferta en Amazon para Medion Akoya S3409 - Ordenador portátil  
- date: 2019/06/27 02:07:15 +0000 
+ date: 2019/06/29 05:43:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

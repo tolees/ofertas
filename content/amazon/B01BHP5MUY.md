@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BHP5MUY: Oferta en Amazon para Marc O Polo Denim Vaquero Azul Denim W31 
- date: 2019/06/25 17:03:42 +0000 
+ date: 2019/06/29 12:15:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Marc O Polo Denim Vaquero Azul Denim W31L34 a precio de oferta de 38.85 EUR (original: 139.9 EUR) en el siguiente enlace! 
+ Tienes Marc O Polo Denim Vaquero Azul Denim W31L34 a precio de oferta de 32.92 EUR (original: 139.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41fAXYtMYPL.jpg) 
  

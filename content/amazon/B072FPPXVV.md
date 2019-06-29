@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072FPPXVV: Oferta en Amazon para JACK & JONES Jcobrio Sweat Mix Pack  Sud 
- date: 2019/06/26 17:17:21 +0000 
+ date: 2019/06/29 12:27:46 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jcobrio Sweat Mix Pack  Sudadera para Hombre  Gris  Monument Fit:reg Crew   Medium a precio de oferta de 7.79 EUR (original: 7.79 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jcobrio Sweat Mix Pack  Sudadera para Hombre  Gris  Monument Fit:reg Crew   Medium a precio de oferta de 8.99 EUR (original: 8.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PvCyfQACL.jpg) 
  

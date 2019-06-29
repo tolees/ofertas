@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0737FKVPG: Oferta en Amazon para Bellfield B LISEBERG K Parka  Verde  Kha 
- date: 2019/06/25 17:53:00 +0000 
+ date: 2019/06/29 11:09:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Bellfield B LISEBERG K Parka  Verde  Khaki   Medium para Hombre a precio de oferta de 33.9 EUR (original: 59.49 EUR) en el siguiente enlace! 
+ Tienes Bellfield B LISEBERG K Parka  Verde  Khaki   Medium para Hombre a precio de oferta de 28.98 EUR (original: 28.98 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41VJTxcUjwL.jpg) 
  

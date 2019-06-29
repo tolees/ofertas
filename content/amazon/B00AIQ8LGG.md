@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00AIQ8LGG: Oferta en Amazon para Intex 68307NP - Kayak hinchable Explorer 
- date: 2019/06/25 14:25:08 +0000 
+ date: 2019/06/29 07:23:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

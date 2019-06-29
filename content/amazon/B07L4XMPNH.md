@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L4XMPNH: Oferta en Amazon para Xiaomi Mi Mix 3 - Smartphone de 6.39"  4 
- date: 2019/06/26 22:04:45 +0000 
+ date: 2019/06/29 10:23:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Xiaomi Mi Mix 3 - Smartphone de 6.39"  4G  Octa Core Qualcomm SD845 2.8 GHz  RAM de 6 GB  Memoria de 128 GB  cámara Dual de 12+12 MP  Android  Color Azul Zafiro a precio de oferta de 429.99 EUR (original: 599 EUR) en el siguiente enlace! 
+ Tienes Xiaomi Mi Mix 3 - Smartphone de 6.39"  4G  Octa Core Qualcomm SD845 2.8 GHz  RAM de 6 GB  Memoria de 128 GB  cámara Dual de 12+12 MP  Android  Color Azul Zafiro a precio de oferta de 420.25 EUR (original: 599 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41yWcvP5UlL.jpg) 
  

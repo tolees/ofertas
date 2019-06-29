@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N5WKIEZ: Oferta en Amazon para Carrera 8022/S SF Gafas de sol  Matte Gr 
- date: 2019/06/26 21:40:40 +0000 
+ date: 2019/06/29 06:48:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Carrera 8022/S SF Gafas de sol  Matte Grey  56 Unisex-Adulto a precio de oferta de 40.61 EUR (original: 40.61 EUR) en el siguiente enlace! 
+ Tienes Carrera 8022/S SF Gafas de sol  Matte Grey  56 Unisex-Adulto a precio de oferta de 34.13 EUR (original: 34.13 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31rdt9BRSHL.jpg) 
  

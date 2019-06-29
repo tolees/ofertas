@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M4ON8DD: Oferta en Amazon para Rieker 15267  Mocasines para Hombre  Azu 
- date: 2019/06/25 17:54:32 +0000 
+ date: 2019/06/29 10:03:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rieker 15267  Mocasines para Hombre  Azul  Ozean/Navy/Polvere / 15   40 EU a precio de oferta de 21.79 EUR (original: 21.99 EUR) en el siguiente enlace! 
+ Tienes Rieker 15267  Mocasines para Hombre  Azul  Ozean/Navy/Polvere / 15   40 EU a precio de oferta de 18.17 EUR (original: 18.17 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41mGIlf1LBL.jpg) 
  

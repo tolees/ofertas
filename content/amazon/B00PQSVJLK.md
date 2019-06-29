@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00PQSVJLK: Oferta en Amazon para Carbonell  Aceite de oliva - 5 l. 
- date: 2019/06/26 15:39:31 +0000 
+ date: 2019/06/29 09:18:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Carbonell  Aceite de oliva - 5 l. a precio de oferta de 12.3 EUR (original: 24.95 EUR) en el siguiente enlace! 
+ Tienes Carbonell  Aceite de oliva - 5 l. a precio de oferta de 12.75 EUR (original: 24.95 EUR) en el siguiente enlace! 
  
  ![](http://images.amazon.com/images/P/B00PQSVJLK.01._PI_SCMZZZZZZZ_.jpg) 
  

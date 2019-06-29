@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XWOCB30: Oferta en Amazon para Nike Court Royale  Zapatillas de Gimnasi 
- date: 2019/06/20 08:38:15 +0000 
+ date: 2019/06/29 12:31:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   43 EU a precio de oferta de 40 EUR (original: 55 EUR) en el siguiente enlace! 
+ Tienes Nike Court Royale  Zapatillas de Gimnasia para Hombre  Blanco  White/White 111   43 EU a precio de oferta de 54.9 EUR (original: 55 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31qM6QZ3GqL.jpg) 
  
