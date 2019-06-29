@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BGM9J5W: Oferta en Amazon para Veet Sensitive Precision - Recortador El 
- date: 2019/06/28 15:52:47 +0000 
+ date: 2019/06/29 17:45:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
