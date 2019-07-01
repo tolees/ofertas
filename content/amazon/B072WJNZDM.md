@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072WJNZDM: Oferta en Amazon para Columbia Molokai Slip  Zapatillas de Tra 
- date: 2019/06/26 22:39:16 +0000 
+ date: 2019/07/01 10:18:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Columbia Molokai Slip  Zapatillas de Trail Running para Hombre  Negro  Graphite  Zour   45 EU a precio de oferta de 43.66 EUR (original: 89.99 EUR) en el siguiente enlace! 
+ Tienes Columbia Molokai Slip  Zapatillas de Trail Running para Hombre  Negro  Graphite  Zour   45 EU a precio de oferta de 41.91 EUR (original: 89.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41qfvDzBA7L.jpg) 
  

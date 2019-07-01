@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073HGZ5RR: Oferta en Amazon para JACK & JONES Tech Jjtmeyland Parka Jacke 
- date: 2019/06/28 16:48:53 +0000 
+ date: 2019/07/01 08:16:53 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

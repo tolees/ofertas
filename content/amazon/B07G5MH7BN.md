@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G5MH7BN: Oferta en Amazon para LG 24MK400H-B - Monitor Gaming FHD de 59 
- date: 2019/06/29 09:31:38 +0000 
+ date: 2019/07/01 09:50:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LG 24MK400H-B - Monitor Gaming FHD de 59 8 cm  23 8"  con Panel TN  1920 x 1080 píxeles  16:9  1 ms  75Hz  250 cd/m²  1000:1  NTSC >72%  Color Negro Mate a precio de oferta de 99.99 EUR (original: 139 EUR) en el siguiente enlace! 
+ Tienes LG 24MK400H-B - Monitor Gaming FHD de 59 8 cm  23 8"  con Panel TN  1920 x 1080 píxeles  16:9  1 ms  75Hz  250 cd/m²  1000:1  NTSC >72%  Color Negro Mate a precio de oferta de 99 EUR (original: 139 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41zMQEk%2B6yL.jpg) 
  

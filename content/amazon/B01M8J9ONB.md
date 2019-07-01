@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M8J9ONB: Oferta en Amazon para Kupton Protector de Pantalla para GoPro  
- date: 2019/06/20 13:20:38 +0000 
+ date: 2019/07/01 10:37:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

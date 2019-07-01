@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078HXGNFK: Oferta en Amazon para Bertie Bandit X  Mocasines para Hombre   
- date: 2019/06/28 19:13:16 +0000 
+ date: 2019/07/01 11:07:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

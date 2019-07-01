@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B000JTM6NG: Oferta en Amazon para Nobo Quantum 2523T - Proyector  2500 lúm 
- date: 2019/06/29 13:51:42 +0000 
+ date: 2019/07/01 11:28:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

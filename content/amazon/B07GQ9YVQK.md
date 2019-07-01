@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GQ9YVQK: Oferta en Amazon para Xiaomi Mi A2 Lite - Smartphone Dual SIM  
- date: 2019/06/28 18:08:24 +0000 
+ date: 2019/07/01 09:33:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

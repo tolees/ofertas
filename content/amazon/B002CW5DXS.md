@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B002CW5DXS: Oferta en Amazon para Thomson Elite - Abrazadera para tija de  
- date: 2019/06/28 21:33:29 +0000 
+ date: 2019/07/01 10:28:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

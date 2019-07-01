@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0773XSZQY: Oferta en Amazon para Tom Tailor Denim Skinny Culver  Vaqueros 
- date: 2019/06/29 05:54:32 +0000 
+ date: 2019/07/01 09:30:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

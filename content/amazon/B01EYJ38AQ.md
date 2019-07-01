@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EYJ38AQ: Oferta en Amazon para Kappa Forward  Zapatillas Altas para Hom 
- date: 2019/06/29 10:34:12 +0000 
+ date: 2019/07/01 07:51:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

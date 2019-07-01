@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KJX12GZ: Oferta en Amazon para New Look Smart Military 5773496 Abrigo   
- date: 2019/06/29 20:21:59 +0000 
+ date: 2019/07/01 09:18:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

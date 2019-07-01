@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JXCMFQ8: Oferta en Amazon para Bodenschatz Sierra  Cartera Hombre^Mujer 
- date: 2019/06/29 10:16:04 +0000 
+ date: 2019/07/01 10:57:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Bodenschatz Sierra  Cartera Hombre^Mujer  Black  11x10x2 cm a precio de oferta de 16.3 EUR (original: 16.3 EUR) en el siguiente enlace! 
+ Tienes Bodenschatz Sierra  Cartera Hombre^Mujer  Black  11x10x2 cm a precio de oferta de 15.42 EUR (original: 15.42 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51qyUi7uE5L.jpg) 
  

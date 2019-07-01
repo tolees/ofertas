@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RDDR9QV: Oferta en Amazon para Xnuoyo USB-C PD 18W Batería Externa 1000 
- date: 2019/06/20 19:57:33 +0000 
+ date: 2019/07/01 10:10:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

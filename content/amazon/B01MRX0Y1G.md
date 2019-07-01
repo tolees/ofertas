@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MRX0Y1G: Oferta en Amazon para Le Formier MITFORD45  Zapatos de Cordone 
- date: 2019/06/29 16:10:02 +0000 
+ date: 2019/07/01 10:52:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Le Formier MITFORD45  Zapatos de Cordones Derby para Hombre   Marron 07   40 EU a precio de oferta de 13.57 EUR (original: 13.57 EUR) en el siguiente enlace! 
+ Tienes Le Formier MITFORD45  Zapatos de Cordones Derby para Hombre   Marron 07   40 EU a precio de oferta de 12.25 EUR (original: 12.25 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31yyDC4U8lL.jpg) 
  

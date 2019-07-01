@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FP6QNQ7: Oferta en Amazon para LEGO Technic - Porsche 911 RSR  maqueta  
- date: 2019/06/26 20:33:38 +0000 
+ date: 2019/07/01 09:02:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes LEGO Technic - Porsche 911 RSR  maqueta de juguete de coche deportivo de carreras para construir  42096  a precio de oferta de 129 EUR (original: 159.99 EUR) en el siguiente enlace! 
+ Tienes LEGO Technic - Porsche 911 RSR  maqueta de juguete de coche deportivo de carreras para construir  42096  a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51kB3KxfR7L.jpg) 
  

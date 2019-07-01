@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BPF94MW: Oferta en Amazon para HP Pavilion 14-bf013ns - Ordenador portá 
- date: 2019/06/20 18:47:52 +0000 
+ date: 2019/07/01 09:06:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CIALC5G: Oferta en Amazon para Rowenta Compact Power Cyclonic RO3753EA  
- date: 2019/06/20 21:11:22 +0000 
+ date: 2019/07/01 08:16:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

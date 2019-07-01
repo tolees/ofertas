@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ZIXJM58: Oferta en Amazon para Hilfiger Denim Scanton Slim-Vaqueros Hom 
- date: 2019/06/29 19:33:35 +0000 
+ date: 2019/07/01 08:10:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

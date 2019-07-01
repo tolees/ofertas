@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BNGIOPW: Oferta en Amazon para Volcom Frickin Modern Stret Pantalones   
- date: 2019/06/29 08:25:03 +0000 
+ date: 2019/07/01 08:54:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

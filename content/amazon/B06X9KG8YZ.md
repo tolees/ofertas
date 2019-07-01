@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06X9KG8YZ: Oferta en Amazon para MagiDeal Sombrero de Cocinero Gorro de T 
- date: 2019/06/29 20:32:32 +0000 
+ date: 2019/07/01 11:03:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

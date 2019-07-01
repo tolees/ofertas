@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00SA3H0HA: Oferta en Amazon para FRETZ men Tosco  Zapatos de Cordones Der 
- date: 2019/06/29 19:22:03 +0000 
+ date: 2019/07/01 10:55:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes FRETZ men Tosco  Zapatos de Cordones Derby para Hombre  Negro  Noir 51   46 EU a precio de oferta de 42.95 EUR (original: 42.95 EUR) en el siguiente enlace! 
+ Tienes FRETZ men Tosco  Zapatos de Cordones Derby para Hombre  Negro  Noir 51   46 EU a precio de oferta de 39.77 EUR (original: 39.77 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41YAxg6jcCL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B013RG5HZQ: Oferta en Amazon para JACK & JONES Glenn Fox Azul  Gris Denim  
- date: 2019/06/29 09:20:14 +0000 
+ date: 2019/07/01 10:05:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Glenn Fox Azul  Gris Denim  W27/L32 para Hombre a precio de oferta de 12.6 EUR (original: 12.6 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Glenn Fox Azul  Gris Denim  W27/L32 para Hombre a precio de oferta de 11.62 EUR (original: 11.62 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/414o4Zi5PsL.jpg) 
  

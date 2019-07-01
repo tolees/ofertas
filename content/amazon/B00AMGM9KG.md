@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00AMGM9KG: Oferta en Amazon para Banana Moon - Bañador de Manga Corta par 
- date: 2019/06/29 18:57:14 +0000 
+ date: 2019/07/01 10:37:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Banana Moon - Bañador de Manga Corta para Hombre  Talla 50 - Talla Francesa a precio de oferta de 12.26 EUR (original: 69 EUR) en el siguiente enlace! 
+ Tienes Banana Moon - Bañador de Manga Corta para Hombre  Talla 50 - Talla Francesa a precio de oferta de 11.07 EUR (original: 69 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/419fQGBGeHL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XWPWLR0: Oferta en Amazon para Nike Tanjun  Zapatillas de Running para  
- date: 2019/06/29 19:54:36 +0000 
+ date: 2019/07/01 08:37:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

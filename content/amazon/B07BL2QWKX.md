@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BL2QWKX: Oferta en Amazon para New Balance X-90  Zapatillas para Hombre 
- date: 2019/06/29 08:28:19 +0000 
+ date: 2019/07/01 08:35:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Balance X-90  Zapatillas para Hombre  Azul  North Sea/Team Away Grey CD   44.5 EU a precio de oferta de 36.19 EUR (original: 120 EUR) en el siguiente enlace! 
+ Tienes New Balance X-90  Zapatillas para Hombre  Azul  North Sea/Team Away Grey CD   44.5 EU a precio de oferta de 39.91 EUR (original: 120 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/4128OJdsw%2BL.jpg) 
  
