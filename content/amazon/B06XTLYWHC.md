@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XTLYWHC: Oferta en Amazon para s.Oliver BLACK LABEL 12709522588-Abrigo  
- date: 2019/06/25 07:34:22 +0000 
+ date: 2019/06/30 20:31:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes s.Oliver BLACK LABEL 12709522588-Abrigo Hombre Negro  Grey/Black Tweed 99P2  54 a precio de oferta de 43.03 EUR (original: 43.03 EUR) en el siguiente enlace! 
+ Tienes s.Oliver BLACK LABEL 12709522588-Abrigo Hombre Negro  Grey/Black Tweed 99P2  54 a precio de oferta de 33.3 EUR (original: 33.3 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41uiODnvukL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078HC5HKQ: Oferta en Amazon para Wrangler Denim Short Pantalones Cortos   
- date: 2019/06/28 19:33:36 +0000 
+ date: 2019/06/30 20:16:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00B9DZP9I: Oferta en Amazon para Trust Tytan 2.1 - Set de Altavoces de Or 
- date: 2019/06/29 11:10:10 +0000 
+ date: 2019/06/30 19:45:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

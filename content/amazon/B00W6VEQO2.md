@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00W6VEQO2: Oferta en Amazon para FRETZ men Andrew - Botas chukka para hom 
- date: 2019/06/26 16:36:22 +0000 
+ date: 2019/07/01 07:49:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes FRETZ men Andrew - Botas chukka para hombre  Negro  51 noir   40 a precio de oferta de 51.5 EUR (original: 53.44 EUR) en el siguiente enlace! 
+ Tienes FRETZ men Andrew - Botas chukka para hombre  Negro  51 noir   40 a precio de oferta de 48.93 EUR (original: 51.5 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41IVBDDJ3qL.jpg) 
  

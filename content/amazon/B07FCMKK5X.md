@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FCMKK5X: Oferta en Amazon para SanDisk Extreme - Tarjeta de memoria mic 
- date: 2019/06/26 15:48:21 +0000 
+ date: 2019/06/30 18:32:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30 a precio de oferta de 27.9 EUR (original: 46.99 EUR) en el siguiente enlace! 
+ Tienes SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30 a precio de oferta de 26.84 EUR (original: 46.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Ob2mex0pL.jpg) 
  

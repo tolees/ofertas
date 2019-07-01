@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D8RXBJ8: Oferta en Amazon para Blend 20706458  Camisa Casual para Hombr 
- date: 2019/06/26 23:22:32 +0000 
+ date: 2019/06/30 22:43:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Blend 20706458  Camisa Casual para Hombre  Blau  Dark Navy Blue 74645  M a precio de oferta de 18.42 EUR (original: 18.42 EUR) en el siguiente enlace! 
+ Tienes Blend 20706458  Camisa Casual para Hombre  Blau  Dark Navy Blue 74645  M a precio de oferta de 14.93 EUR (original: 14.93 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51ZhiM%2BImZL.jpg) 
  

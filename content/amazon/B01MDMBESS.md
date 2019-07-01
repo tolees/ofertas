@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MDMBESS: Oferta en Amazon para Colorado Denim Branson Parka  Verde  M p 
- date: 2019/06/25 17:39:43 +0000 
+ date: 2019/06/30 21:39:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Colorado Denim Branson Parka  Verde  M para Hombre a precio de oferta de 22.41 EUR (original: 22.41 EUR) en el siguiente enlace! 
+ Tienes Colorado Denim Branson Parka  Verde  M para Hombre a precio de oferta de 18.24 EUR (original: 18.24 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51TWBOuEidL.jpg) 
  

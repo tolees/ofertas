@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NBSGJ80: Oferta en Amazon para Canon PowerShot G9 X Mark II - Cámara co 
- date: 2019/06/29 17:53:30 +0000 
+ date: 2019/06/30 19:08:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

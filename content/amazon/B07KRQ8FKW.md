@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KRQ8FKW: Oferta en Amazon para Kappa Evidenz  Mocasines para Hombre  Az 
- date: 2019/06/28 19:42:46 +0000 
+ date: 2019/06/30 20:07:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

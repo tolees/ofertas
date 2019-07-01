@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00YUIM2J0: Oferta en Amazon para Logitech Driving Force G29 - Volante de  
- date: 2019/06/25 22:14:19 +0000 
+ date: 2019/07/01 05:55:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Logitech Driving Force G29 - Volante de carreras para PS4  PS3 y PC a precio de oferta de 232 EUR (original: 399.99 EUR) en el siguiente enlace! 
+ Tienes Logitech Driving Force G29 - Volante de carreras para PS4  PS3 y PC a precio de oferta de 189 EUR (original: 399.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41za6KklhSL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CTHKBCP: Oferta en Amazon para JACK & JONES Jfwalbany Leather Brown Sto 
- date: 2019/06/29 08:13:26 +0000 
+ date: 2019/07/01 05:43:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes JACK & JONES Jfwalbany Leather Brown Stone STS  Botas Estilo Motero para Hombre  Marrón  43 EU a precio de oferta de 54.45 EUR (original: 99.99 EUR) en el siguiente enlace! 
+ Tienes JACK & JONES Jfwalbany Leather Brown Stone STS  Botas Estilo Motero para Hombre  Marrón  43 EU a precio de oferta de 54.95 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/415x-j88YJL.jpg) 
  

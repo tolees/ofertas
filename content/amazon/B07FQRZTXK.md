@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FQRZTXK: Oferta en Amazon para JACK & JONES Jortwin Knit Crew Neck STS  
- date: 2019/06/20 23:09:41 +0000 
+ date: 2019/07/01 05:03:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

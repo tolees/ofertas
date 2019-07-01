@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076DFF7QH: Oferta en Amazon para Philips Serie 9000 S9711/41 - Afeitadora 
- date: 2019/06/25 17:57:27 +0000 
+ date: 2019/07/01 06:46:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Philips Serie 9000 S9711/41 - Afeitadora Eléctrica para Hombre Rotativa con Interfaz digital  Recortador de Barba  Estuche de Viaje  Plata a precio de oferta de 169 EUR (original: 269.99 EUR) en el siguiente enlace! 
+ Tienes Philips Serie 9000 S9711/41 - Afeitadora Eléctrica para Hombre Rotativa con Interfaz digital  Recortador de Barba  Estuche de Viaje  Plata a precio de oferta de 149.99 EUR (original: 269.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51G%2BBQ%2BmYNL.jpg) 
  

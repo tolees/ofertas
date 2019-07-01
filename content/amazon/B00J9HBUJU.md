@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00J9HBUJU: Oferta en Amazon para New Balance ML574  Zapatillas Hombre  Az 
- date: 2019/06/29 15:38:11 +0000 
+ date: 2019/06/30 18:22:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Balance ML574  Zapatillas Hombre  Azul  Navy/Grey   37 EU a precio de oferta de 28.57 EUR (original: 100 EUR) en el siguiente enlace! 
+ Tienes New Balance ML574  Zapatillas Hombre  Azul  Navy/Grey   37 EU a precio de oferta de 26.62 EUR (original: 100 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41DLQR3D0TL.jpg) 
  

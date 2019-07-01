@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XCWPFJL: Oferta en Amazon para Cortefiel 5367042  Falda para Mujer  Neg 
- date: 2019/06/20 12:45:49 +0000 
+ date: 2019/06/30 18:49:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

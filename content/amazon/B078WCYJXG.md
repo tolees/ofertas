@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078WCYJXG: Oferta en Amazon para JACK & JONES Jfwvision Mixed SS Navy Bla 
- date: 2019/06/29 06:21:48 +0000 
+ date: 2019/06/30 18:09:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GSGDYSR: Oferta en Amazon para Esprit 108ee2i018 suéter  Rojo  Bordeaux 
- date: 2019/06/29 12:09:49 +0000 
+ date: 2019/07/01 00:43:20 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Esprit 108ee2i018 suéter  Rojo  Bordeaux Red 600   Large para Hombre a precio de oferta de 17.31 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Tienes Esprit 108ee2i018 suéter  Rojo  Bordeaux Red 600   Large para Hombre a precio de oferta de   (original: 49.99 ) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Zt3uLNcwL.jpg) 
  

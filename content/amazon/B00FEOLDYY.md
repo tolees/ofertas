@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00FEOLDYY: Oferta en Amazon para Thule Tcru-122 Maleta  Adultos Unisex  N 
- date: 2019/06/27 08:10:28 +0000 
+ date: 2019/07/01 02:19:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Thule Tcru-122 Maleta  Adultos Unisex  Negro  Talla única a precio de oferta de 236.15 EUR (original: 329.95 EUR) en el siguiente enlace! 
+ Tienes Thule Tcru-122 Maleta  Adultos Unisex  Negro  Talla única a precio de oferta de 237.87 EUR (original: 329.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51rxC47Ze6L.jpg) 
  

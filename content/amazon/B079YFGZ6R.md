@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079YFGZ6R: Oferta en Amazon para Garcia Russo Vaqueros Tapered  Blau  Med 
- date: 2019/06/29 14:30:25 +0000 
+ date: 2019/06/30 20:55:25 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

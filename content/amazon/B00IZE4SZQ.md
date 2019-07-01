@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IZE4SZQ: Oferta en Amazon para Casio Reloj Analógico para Hombre de Cua 
- date: 2019/06/26 21:39:24 +0000 
+ date: 2019/06/30 18:32:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1183PA-7AEF a precio de oferta de 27 EUR (original: 63.34 EUR) en el siguiente enlace! 
+ Tienes Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1183PA-7AEF a precio de oferta de 29.71 EUR (original: 63.34 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51WXpja9NML.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00SFZ1AE2: Oferta en Amazon para BlackBerry Classic - Smartphone de 3.5"  
- date: 2019/06/28 16:01:51 +0000 
+ date: 2019/06/30 19:44:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

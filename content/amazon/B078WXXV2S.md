@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078WXXV2S: Oferta en Amazon para CASUAL FRIDAY Pants  Pantalones para Hom 
- date: 2019/06/26 22:55:01 +0000 
+ date: 2019/06/30 19:16:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

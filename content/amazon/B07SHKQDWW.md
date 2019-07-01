@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SHKQDWW: Oferta en Amazon para kaimus Unisex a Prueba de Agua Pantalla  
- date: 2019/06/29 15:06:46 +0000 
+ date: 2019/07/01 07:39:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

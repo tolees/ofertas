@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BGTKTUY: Oferta en Amazon para G-STAR RAW 5620 3D Super Slim  Vaqueros  
- date: 2019/06/26 21:58:09 +0000 
+ date: 2019/06/30 18:48:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

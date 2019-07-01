@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DKJS1KP: Oferta en Amazon para Lico Magnus  Botas Clasicas Unisex Adult 
- date: 2019/06/28 21:15:16 +0000 
+ date: 2019/06/30 21:54:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lico Magnus  Botas Clasicas Unisex Adulto  Gris Grau/Marine  41 EU a precio de oferta de 22.22 EUR (original: 59.95 EUR) en el siguiente enlace! 
+ Tienes Lico Magnus  Botas Clasicas Unisex Adulto  Gris Grau/Marine  41 EU a precio de oferta de 21.16 EUR (original: 59.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41%2Bkk39Z4YL.jpg) 
  

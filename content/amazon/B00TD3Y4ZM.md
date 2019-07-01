@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00TD3Y4ZM: Oferta en Amazon para AUKEY Cargador USB con Tecnología AiPowe 
- date: 2019/06/20 19:16:34 +0000 
+ date: 2019/06/30 19:40:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

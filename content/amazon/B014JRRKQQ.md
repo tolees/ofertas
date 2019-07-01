@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B014JRRKQQ: Oferta en Amazon para Henry London Reloj Analógico para Unisex 
- date: 2019/06/27 00:57:22 +0000 
+ date: 2019/07/01 06:51:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Henry London Reloj Analógico para Unisex de Cuarzo con Correa en Cuero 5018479077459 a precio de oferta de 44.8 EUR (original: 169 EUR) en el siguiente enlace! 
+ Tienes Henry London Reloj Analógico para Unisex de Cuarzo con Correa en Cuero 5018479077459 a precio de oferta de 36.49 EUR (original: 169 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31eGaispNzL.jpg) 
  

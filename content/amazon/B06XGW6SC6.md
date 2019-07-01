@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XGW6SC6: Oferta en Amazon para Lenovo Moto Z 14 cm  5.5"  4 GB 32 GB SI 
- date: 2019/06/29 05:36:35 +0000 
+ date: 2019/07/01 00:36:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lenovo Moto Z 14 cm  5.5"  4 GB 32 GB SIM Doble 4G Negro  Gris 2600 mAh - Smartphone  14 cm  5.5"   4 GB  32 GB  13 MP  Android 6.0.1  Negro  Gris  a precio de oferta de 272.73 EUR (original: 272.73 EUR) en el siguiente enlace! 
+ Tienes Lenovo Moto Z 14 cm  5.5"  4 GB 32 GB SIM Doble 4G Negro  Gris 2600 mAh - Smartphone  14 cm  5.5"   4 GB  32 GB  13 MP  Android 6.0.1  Negro  Gris  a precio de oferta de 259.09 EUR (original: 259.09 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41A6yzxNFbL.jpg) 
  

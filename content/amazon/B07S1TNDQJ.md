@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07S1TNDQJ: Oferta en Amazon para SREMTCH Kit del Soldador  60W 220V Solda 
- date: 2019/06/29 13:16:06 +0000 
+ date: 2019/06/30 19:42:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

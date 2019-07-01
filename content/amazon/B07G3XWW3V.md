@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G3XWW3V: Oferta en Amazon para Burton Menswear London Breacon Puffer Ja 
- date: 2019/06/26 20:57:19 +0000 
+ date: 2019/06/30 23:51:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Burton Menswear London Breacon Puffer Jacket Abrigo  Rojo  Red 010   M para Hombre a precio de oferta de 31.24 EUR (original: 31.24 EUR) en el siguiente enlace! 
+ Tienes Burton Menswear London Breacon Puffer Jacket Abrigo  Rojo  Red 010   M para Hombre a precio de oferta de 31.25 EUR (original: 31.25 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41NmliImdSL.jpg) 
  

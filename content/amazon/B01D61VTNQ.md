@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01D61VTNQ: Oferta en Amazon para Colorado Denim 06930-8079 Azul  Grün  Kh 
- date: 2019/06/29 13:12:18 +0000 
+ date: 2019/06/30 19:39:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

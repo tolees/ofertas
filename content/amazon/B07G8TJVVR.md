@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G8TJVVR: Oferta en Amazon para s.Oliver 5-5-14600-22 200  Mocasines par 
- date: 2019/06/28 18:45:08 +0000 
+ date: 2019/06/30 19:27:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes s.Oliver 5-5-14600-22 200  Mocasines para Hombre  Gris  Grey  43 EU a precio de oferta de 31.97 EUR (original: 59.95 EUR) en el siguiente enlace! 
+ Tienes s.Oliver 5-5-14600-22 200  Mocasines para Hombre  Gris  Grey  43 EU a precio de oferta de 31.89 EUR (original: 59.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ItPvtBjkL.jpg) 
  

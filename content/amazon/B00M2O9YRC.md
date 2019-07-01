@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00M2O9YRC: Oferta en Amazon para Cybex - Silla de coche grupo 2/3 Solutio 
- date: 2019/06/29 10:36:30 +0000 
+ date: 2019/07/01 07:34:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

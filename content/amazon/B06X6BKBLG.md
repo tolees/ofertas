@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06X6BKBLG: Oferta en Amazon para Casanova Gaby  Mocasines para Hombre  Ne 
- date: 2019/06/26 17:21:17 +0000 
+ date: 2019/06/30 23:55:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Casanova Gaby  Mocasines para Hombre  Negro  Noir 546   42 EU a precio de oferta de 17.18 EUR (original: 17.18 EUR) en el siguiente enlace! 
+ Tienes Casanova Gaby  Mocasines para Hombre  Negro  Noir 546   42 EU a precio de oferta de 15.81 EUR (original: 15.81 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41YJf9sIf4L.jpg) 
  

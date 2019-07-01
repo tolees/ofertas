@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072MGJC9L: Oferta en Amazon para AMZTM Cuadrado Montura Cristal Lentes Ov 
- date: 2019/06/26 20:27:09 +0000 
+ date: 2019/07/01 07:10:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SVX3DCS: Oferta en Amazon para morpilot Inflador Eléctrico Automático B 
- date: 2019/06/29 10:03:19 +0000 
+ date: 2019/06/30 18:47:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

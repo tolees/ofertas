@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C6T1WPP: Oferta en Amazon para Marca Amazon- Solimo Cápsulas Classic    
- date: 2019/06/26 19:14:44 +0000 
+ date: 2019/06/30 22:29:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Marca Amazon- Solimo Cápsulas Classic   compatibles con Senseo*- café certificado UTZ  90 cápsulas  5x18  a precio de oferta de 5.41 EUR (original: 8.99 EUR) en el siguiente enlace! 
+ Tienes Marca Amazon- Solimo Cápsulas Classic   compatibles con Senseo*- café certificado UTZ  90 cápsulas  5x18  a precio de oferta de 4.7 EUR (original: 4.71 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41HowRIo7iL.jpg) 
  

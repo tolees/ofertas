@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FY54PQG: Oferta en Amazon para Compacto Llavero y Organizador Powerdelu 
- date: 2019/06/28 18:57:27 +0000 
+ date: 2019/07/01 05:35:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

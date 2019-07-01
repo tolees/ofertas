@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJ2ZQGH: Oferta en Amazon para Oxímetro de Pulso，CocoBear Pulsioxímetro 
- date: 2019/06/29 15:45:38 +0000 
+ date: 2019/06/30 18:06:02 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

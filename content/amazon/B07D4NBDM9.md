@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D4NBDM9: Oferta en Amazon para Xiaomi Mi Mix 2S 5.99" SIM Doble 4G 6GB  
- date: 2019/06/29 08:16:33 +0000 
+ date: 2019/07/01 06:46:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

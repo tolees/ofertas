@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078GYCLDR: Oferta en Amazon para Cache Cache SHANGHO-ZIC  Vaqueros Slim p 
- date: 2019/06/29 20:15:43 +0000 
+ date: 2019/06/30 23:51:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

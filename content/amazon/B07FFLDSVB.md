@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FFLDSVB: Oferta en Amazon para Michael Kors Smartwatch MKT5044: Amazon. 
- date: 2019/06/28 19:05:12 +0000 
+ date: 2019/07/01 05:10:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

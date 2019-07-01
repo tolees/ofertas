@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CRJTB: Oferta en Amazon para Synology DiskStation DS418 - Unidad Raid 
- date: 2019/06/26 17:20:40 +0000 
+ date: 2019/06/30 18:15:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Synology DiskStation DS418 - Unidad Raid  4 TB  1000 GB  DiskStation Manager  a precio de oferta de 813.8 EUR (original: 813.8 EUR) en el siguiente enlace! 
+ Tienes Synology DiskStation DS418 - Unidad Raid  4 TB  1000 GB  DiskStation Manager  a precio de oferta de 919.9 EUR (original: 919.9 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31yCNqlQVaL.jpg) 
  

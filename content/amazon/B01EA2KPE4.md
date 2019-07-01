@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EA2KPE4: Oferta en Amazon para Timezone Brooklyntz Biker Pants  Pantalo 
- date: 2019/06/29 13:00:35 +0000 
+ date: 2019/06/30 19:09:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Timezone Brooklyntz Biker Pants  Pantalones para Hombre  Grau  grey shadow 9212   ES 40  EU 46  a precio de oferta de 13.65 EUR (original: 13.65 EUR) en el siguiente enlace! 
+ Tienes Timezone Brooklyntz Biker Pants  Pantalones para Hombre  Grau  grey shadow 9212   ES 40  EU 46  a precio de oferta de 13.1 EUR (original: 13.1 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JjZTTBAcL.jpg) 
  

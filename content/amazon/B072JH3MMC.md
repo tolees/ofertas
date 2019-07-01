@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072JH3MMC: Oferta en Amazon para Carrera Jeans - Abrigo Jeans 450 para Ho 
- date: 2019/06/29 10:46:02 +0000 
+ date: 2019/06/30 20:25:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

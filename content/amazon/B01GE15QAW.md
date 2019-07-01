@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GE15QAW: Oferta en Amazon para Goliath - Man-Tibu-Las  juego de mesa  G 
- date: 2019/06/29 11:30:00 +0000 
+ date: 2019/06/30 20:17:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

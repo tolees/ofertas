@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GRDF23T: Oferta en Amazon para Lenovo Ideapad 520S-14IKB - Ordenador po 
- date: 2019/06/29 17:46:26 +0000 
+ date: 2019/06/30 22:16:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lenovo Ideapad 520S-14IKB - Ordenador portátil 14" FullHD  Intel Core i5-8250U  8 GB RAM  256GB SSD  Intel UHD 620  Windows 10 Home  Bronze - Teclado QWERTY Español a precio de oferta de 579.99 EUR (original: 799.89 EUR) en el siguiente enlace! 
+ Tienes Lenovo Ideapad 520S-14IKB - Ordenador portátil 14" FullHD  Intel Core i5-8250U  8 GB RAM  256GB SSD  Intel UHD 620  Windows 10 Home  Bronze - Teclado QWERTY Español a precio de oferta de 799.93 EUR (original: 799.89 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31V7B90Xw1L.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00GRRSHQE: Oferta en Amazon para CASIO Reloj con Movimiento Cuarzo MTP-13 
- date: 2019/06/28 18:07:11 +0000 
+ date: 2019/06/30 22:21:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

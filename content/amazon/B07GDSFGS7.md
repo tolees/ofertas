@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDSFGS7: Oferta en Amazon para Xiaomi MI A2 - Smartphone DE 5.9"  Qualc 
- date: 2019/06/29 16:28:30 +0000 
+ date: 2019/06/30 18:32:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Xiaomi MI A2 - Smartphone DE 5.9"  Qualcomm Snapdragon 660 a 2.2 GHz  RAM de 4 GB  Memoria de 64 GB  cámara Dual de 12/20 MP  Android  Color Dorado [Versión española] a precio de oferta de 148.8 EUR (original: 279 EUR) en el siguiente enlace! 
+ Tienes Xiaomi MI A2 - Smartphone DE 5.9"  Qualcomm Snapdragon 660 a 2.2 GHz  RAM de 4 GB  Memoria de 64 GB  cámara Dual de 12/20 MP  Android  Color Dorado [Versión española] a precio de oferta de 149 EUR (original: 279 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Bh3RmGJZL.jpg) 
  

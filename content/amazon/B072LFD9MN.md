@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072LFD9MN: Oferta en Amazon para JACK & JONES Jjiliam Jjoriginal Am 450 3 
- date: 2019/06/29 10:51:48 +0000 
+ date: 2019/07/01 05:46:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

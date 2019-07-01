@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NACJDOV: Oferta en Amazon para Batidora de Vaso  1400W 2L Licuadoras Co 
- date: 2019/06/29 16:01:12 +0000 
+ date: 2019/07/01 06:37:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

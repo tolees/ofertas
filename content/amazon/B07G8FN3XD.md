@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G8FN3XD: Oferta en Amazon para Huawei Mate20Lite 4 GB/64 GB Dual SIM Sm 
- date: 2019/06/29 20:24:58 +0000 
+ date: 2019/07/01 05:56:12 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Huawei Mate20Lite 4 GB/64 GB Dual SIM Smartphone - Black  West European  a precio de oferta de 209.99 EUR (original: 192 EUR) en el siguiente enlace! 
+ Tienes Huawei Mate20Lite 4 GB/64 GB Dual SIM Smartphone - Black  West European  a precio de oferta de 199 EUR (original: 199 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41DfOJaNQ%2BL.jpg) 
  

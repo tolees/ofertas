@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XHLQKFW: Oferta en Amazon para Caja de almacenamiento para frigorífico  
- date: 2019/06/26 16:47:00 +0000 
+ date: 2019/06/30 18:04:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

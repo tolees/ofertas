@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0037AOUUQ: Oferta en Amazon para LogiLink USB - Adaptador audio  7.1  USB 
- date: 2019/06/27 02:37:19 +0000 
+ date: 2019/07/01 01:59:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

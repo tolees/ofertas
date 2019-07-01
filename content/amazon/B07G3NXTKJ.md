@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G3NXTKJ: Oferta en Amazon para SELECTED HOMME Slhslimnew-Mark Shirt LS  
- date: 2019/06/21 05:15:55 +0000 
+ date: 2019/06/30 18:03:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SELECTED HOMME Slhslimnew-Mark Shirt LS B Noos Camisa   Dark Sapphire AOP   Small para Hombre a precio de oferta de 15.37 EUR (original: 15.37 EUR) en el siguiente enlace! 
+ Tienes SELECTED HOMME Slhslimnew-Mark Shirt LS B Noos Camisa   Dark Sapphire AOP   Small para Hombre a precio de oferta de 16.97 EUR (original: 16.97 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51GdfSMhzZL.jpg) 
  

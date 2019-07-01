@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PXBLPLZ: Oferta en Amazon para Mini Maquina de Coser Portatil de Mano   
- date: 2019/06/25 15:30:55 +0000 
+ date: 2019/07/01 06:47:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
