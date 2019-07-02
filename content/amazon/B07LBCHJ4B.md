@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LBCHJ4B: Oferta en Amazon para MSI GF63 8RC-457XES - Ordenador portátil 
- date: 2019/07/01 06:38:28 +0000 
+ date: 2019/07/02 08:03:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

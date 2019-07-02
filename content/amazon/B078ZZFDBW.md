@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078ZZFDBW: Oferta en Amazon para TRESemmé Champú Hidratación Intensa - Pa 
- date: 2019/07/01 07:01:42 +0000 
+ date: 2019/07/02 07:24:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

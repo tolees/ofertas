@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HQ1T5PH: Oferta en Amazon para Funko- Pop: Fortnite: Cuddle Team Leader 
- date: 2019/06/26 22:39:38 +0000 
+ date: 2019/07/02 07:12:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Funko- Pop: Fortnite: Cuddle Team Leader   35705  a precio de oferta de 9.26 EUR (original: 15.95 EUR) en el siguiente enlace! 
+ Tienes Funko- Pop: Fortnite: Cuddle Team Leader   35705  a precio de oferta de 10.46 EUR (original: 15.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41H%2BVPsUrrL.jpg) 
  
