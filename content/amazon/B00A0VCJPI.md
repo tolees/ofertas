@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00A0VCJPI: Oferta en Amazon para TP-Link TL-WA850RE - Repetidor de red Wi 
- date: 2019/06/30 18:12:45 +0000 
+ date: 2019/07/01 19:14:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

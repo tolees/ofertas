@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XTB2Y1K: Oferta en Amazon para Pepe Jeans Crew Neck Mens PM581140 Sudad 
- date: 2019/06/28 16:45:38 +0000 
+ date: 2019/07/01 21:19:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Pepe Jeans Crew Neck Mens PM581140 Sudadera  Azul  Navy 595   X-Small para Hombre a precio de oferta de 20.5 EUR (original: 20.5 EUR) en el siguiente enlace! 
+ Tienes Pepe Jeans Crew Neck Mens PM581140 Sudadera  Azul  Navy 595   X-Small para Hombre a precio de oferta de 18.25 EUR (original: 18.25 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41JtoUSCeLL.jpg) 
  

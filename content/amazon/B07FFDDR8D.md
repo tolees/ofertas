@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FFDDR8D: Oferta en Amazon para Karcher SB 800S TV Sistema de Sonido Blu 
- date: 2019/06/29 18:42:38 +0000 
+ date: 2019/07/01 19:10:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Karcher SB 800S TV Sistema de Sonido Bluetooth de Altavoces  con subwoofer  60 W  HDMI ARC  USB  etc.  a precio de oferta de 109.16 EUR (original: 109.16 EUR) en el siguiente enlace! 
+ Tienes Karcher SB 800S TV Sistema de Sonido Bluetooth de Altavoces  con subwoofer  60 W  HDMI ARC  USB  etc.  a precio de oferta de 106.73 EUR (original: 104.62 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31pirIQ8zoL.jpg) 
  

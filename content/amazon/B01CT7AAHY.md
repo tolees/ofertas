@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CT7AAHY: Oferta en Amazon para Regatta Samaris Mid  Zapatos de Senderis 
- date: 2019/06/25 16:18:48 +0000 
+ date: 2019/07/02 00:42:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

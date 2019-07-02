@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XD7SJFZ: Oferta en Amazon para LG 27MP59G-P - Monitor Gaming FHD de 68  
- date: 2019/07/01 06:19:28 +0000 
+ date: 2019/07/02 06:28:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0757MWWXW: Oferta en Amazon para TBS FYRVESTE14032  Abrigo para Hombre  B 
- date: 2019/06/21 00:58:06 +0000 
+ date: 2019/07/01 22:12:13 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes TBS FYRVESTE14032  Abrigo para Hombre  Bleu  Marine 032   Talla del Fabricante: XXL a precio de oferta de 38.7 EUR (original: 38.7 EUR) en el siguiente enlace! 
+ Tienes TBS FYRVESTE14032  Abrigo para Hombre  Bleu  Marine 032   Talla del Fabricante: XXL a precio de oferta de 25.3 EUR (original: 25.3 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41VqrLMCjqL.jpg) 
  

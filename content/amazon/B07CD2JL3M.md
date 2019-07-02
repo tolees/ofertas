@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CD2JL3M: Oferta en Amazon para Fat Face Twill Worker Camisa Casual  Ver 
- date: 2019/06/26 23:43:04 +0000 
+ date: 2019/07/02 00:48:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

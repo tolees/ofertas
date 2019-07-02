@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00LJP0OVU: Oferta en Amazon para Dickies Curtis  Parka para Hombre  Gris  
- date: 2019/06/29 08:50:59 +0000 
+ date: 2019/07/01 17:52:16 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Dickies Curtis  Parka para Hombre  Gris  Charcoal Grey   Medium a precio de oferta de 25.96 EUR (original: 129 EUR) en el siguiente enlace! 
+ Tienes Dickies Curtis  Parka para Hombre  Gris  Charcoal Grey   Medium a precio de oferta de 23.68 EUR (original: 129 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ICPbqN9oL.jpg) 
  

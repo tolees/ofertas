@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0799KQRSR: Oferta en Amazon para Roborock S50 Vacuum 2 - Robot Aspirador  
- date: 2019/06/28 16:18:03 +0000 
+ date: 2019/07/02 05:30:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

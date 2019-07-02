@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DGTJECQ: Oferta en Amazon para ESPRIT Collection 056EO2F006 Mit Struktu 
- date: 2019/06/29 16:33:37 +0000 
+ date: 2019/05/16 22:40:44 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41ALpoyPrCL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01DGTJECQ/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

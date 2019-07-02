@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B006JYDIBO: Oferta en Amazon para Elite Novo Force - Rodillo magnético de  
- date: 2019/06/27 01:35:14 +0000 
+ date: 2019/07/01 17:18:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BM52SBK: Oferta en Amazon para Sorel 1964 Pac T  Botas para Hombre  Mar 
- date: 2019/06/30 19:45:37 +0000 
+ date: 2019/07/02 00:18:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Sorel 1964 Pac T  Botas para Hombre  Marrón  Hickory  228Hickory  Black 228   47 EU a precio de oferta de 42.27 EUR (original: 42.27 EUR) en el siguiente enlace! 
+ Tienes Sorel 1964 Pac T  Botas para Hombre  Marrón  Hickory  228Hickory  Black 228   47 EU a precio de oferta de 40.17 EUR (original: 40.17 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51lZBFYtn2L.jpg) 
  

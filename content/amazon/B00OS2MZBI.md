@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00OS2MZBI: Oferta en Amazon para Farah Vintage DRAKE TWILL-Vaqueros Hombr 
- date: 2019/07/01 06:31:27 +0000 
+ date: 2019/05/31 08:12:54 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41bZ%2BHefvDL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00OS2MZBI/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

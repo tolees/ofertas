@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073XKDRHL: Oferta en Amazon para Timberland Preston Hills  Botas Chelsea  
- date: 2019/07/01 10:37:38 +0000 
+ date: 2019/05/30 11:44:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41O8QtMvi4L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B073XKDRHL/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

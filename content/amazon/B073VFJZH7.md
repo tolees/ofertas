@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073VFJZH7: Oferta en Amazon para Lenovo Moto Z2 Play Smartphone  Tim Bran 
- date: 2019/06/26 23:50:22 +0000 
+ date: 2019/07/01 17:18:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lenovo Moto Z2 Play Smartphone  Tim Brand  64 GB  Gris a precio de oferta de 254.73 EUR (original: 254.73 EUR) en el siguiente enlace! 
+ Tienes Lenovo Moto Z2 Play Smartphone  Tim Brand  64 GB  Gris a precio de oferta de 241.99 EUR (original: 254.73 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41DjhJgPpwL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B000TRJ9SI: Oferta en Amazon para DYLON múltiples  tinte de prendas de ves 
- date: 2019/06/21 00:36:58 +0000 
+ date: 2019/05/16 15:07:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/510ykbBwrdL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B000TRJ9SI/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

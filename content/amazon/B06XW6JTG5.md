@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XW6JTG5: Oferta en Amazon para Dockers by Gerli 34sa801-201206  Zapatil 
- date: 2019/06/29 12:18:36 +0000 
+ date: 2019/07/01 19:10:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Dockers by Gerli 34sa801-201206  Zapatillas para Hombre  Gris  Grau/Blau   44 EU a precio de oferta de 23.21 EUR (original: 23.21 EUR) en el siguiente enlace! 
+ Tienes Dockers by Gerli 34sa801-201206  Zapatillas para Hombre  Gris  Grau/Blau   44 EU a precio de oferta de 20.78 EUR (original: 20.78 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41PIQD8fx%2BL.jpg) 
  

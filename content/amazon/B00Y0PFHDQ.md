@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00Y0PFHDQ: Oferta en Amazon para Williams Oxygen - Gel de afeitar para pi 
- date: 2019/06/20 17:37:04 +0000 
+ date: 2019/05/31 10:47:48 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/512sDjes3ML.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00Y0PFHDQ/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

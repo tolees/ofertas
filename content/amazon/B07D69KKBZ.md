@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D69KKBZ: Oferta en Amazon para LG G7 ThinQ LMG710EM 15 5 cm  6.1"  4 GB 
- date: 2019/06/28 21:24:30 +0000 
+ date: 2019/07/01 20:28:05 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

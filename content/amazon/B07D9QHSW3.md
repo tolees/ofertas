@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D9QHSW3: Oferta en Amazon para Versace Jeans Ea2gsa0s0  Vaqueros Straig 
- date: 2019/06/30 18:03:27 +0000 
+ date: 2019/07/01 21:18:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Versace Jeans Ea2gsa0s0  Vaqueros Straight para Hombre  Azul  Indigo E904  42 a precio de oferta de 111.64 EUR (original: 230 EUR) en el siguiente enlace! 
+ Tienes Versace Jeans Ea2gsa0s0  Vaqueros Straight para Hombre  Azul  Indigo E904  42 a precio de oferta de 107.17 EUR (original: 230 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41pQ0asVV-L.jpg) 
  

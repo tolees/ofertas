@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NAJ5TUB: Oferta en Amazon para find. Vaqueros Rectos para Hombre  Azul  
- date: 2019/06/25 12:39:45 +0000 
+ date: 2019/07/02 05:03:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes find. Vaqueros Rectos para Hombre  Azul  Regular Dark   W32/L34  Talla del fabricante: 32  a precio de oferta de 12.01 EUR (original: 30 EUR) en el siguiente enlace! 
+ Tienes find. Vaqueros Rectos para Hombre  Azul  Regular Dark   W32/L34  Talla del fabricante: 32  a precio de oferta de 11.4 EUR (original: 30 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41FrO2nUQpL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073RQHF6P: Oferta en Amazon para Bonobo SKCHECK1H  Camisa de Oficina para 
- date: 2019/06/27 05:31:28 +0000 
+ date: 2019/05/31 05:49:03 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51IEMYZBjCL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B073RQHF6P/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

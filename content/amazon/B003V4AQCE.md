@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003V4AQCE: Oferta en Amazon para Gevavi Safety Gevavi Safety GS 39 GEVGS3 
- date: 2019/06/28 19:24:25 +0000 
+ date: 2019/05/16 16:54:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41OjOWKvzEL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B003V4AQCE/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

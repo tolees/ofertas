@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CX4ZGFX: Oferta en Amazon para Reef Flex  Chanclas para Hombre  Gris  D 
- date: 2019/06/29 17:18:38 +0000 
+ date: 2019/07/01 17:47:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

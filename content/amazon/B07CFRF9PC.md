@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CFRF9PC: Oferta en Amazon para Rieker 15930  Botas Clasicas para Hombre 
- date: 2019/06/29 10:40:18 +0000 
+ date: 2019/07/02 00:28:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rieker 15930  Botas Clasicas para Hombre  Marrón  Kastanie/Moro 25   46 EU a precio de oferta de 24.76 EUR (original: 24.76 EUR) en el siguiente enlace! 
+ Tienes Rieker 15930  Botas Clasicas para Hombre  Marrón  Kastanie/Moro 25   46 EU a precio de oferta de 24.55 EUR (original: 24.55 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31JeWyS%2BxEL.jpg) 
  

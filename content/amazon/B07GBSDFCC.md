@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GBSDFCC: Oferta en Amazon para ESPRIT Collection 108eo2i006 suéter  Azu 
- date: 2019/06/20 19:24:38 +0000 
+ date: 2019/07/01 19:51:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes ESPRIT Collection 108eo2i006 suéter  Azul  Navy 400   Large para Hombre a precio de oferta de 16.16 EUR (original: 16.16 EUR) en el siguiente enlace! 
+ Tienes ESPRIT Collection 108eo2i006 suéter  Azul  Navy 400   Large para Hombre a precio de oferta de 13 EUR (original: 13 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Q7yKdCvZL.jpg) 
  

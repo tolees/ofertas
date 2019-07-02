@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077PTTNWH: Oferta en Amazon para Tommy Jeans Hombre Lightweight Parka Abr 
- date: 2019/06/29 16:30:19 +0000 
+ date: 2019/07/01 20:16:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tommy Jeans Hombre Lightweight Parka Abrigo Manga Larga  Verde  Deep Lichen 392  Large a precio de oferta de 77.71 EUR (original: 77.71 EUR) en el siguiente enlace! 
+ Tienes Tommy Jeans Hombre Lightweight Parka Abrigo Manga Larga  Verde  Deep Lichen 392  Large a precio de oferta de 74.54 EUR (original: 74.54 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41s-uZxMEqL.jpg) 
  

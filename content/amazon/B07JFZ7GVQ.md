@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JFZ7GVQ: Oferta en Amazon para Oklahoma Jeans R144 Vaqueros Straight  A 
- date: 2019/06/26 22:39:30 +0000 
+ date: 2019/07/01 22:00:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

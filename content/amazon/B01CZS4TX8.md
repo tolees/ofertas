@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CZS4TX8: Oferta en Amazon para EBL 1100mAh AAA Ni-MH 1200 Ciclo de Pila 
- date: 2019/06/29 07:41:36 +0000 
+ date: 2019/05/26 16:08:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51qz0MwWanL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01CZS4TX8/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

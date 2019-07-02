@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IRAU4UA: Oferta en Amazon para Springfield Camisa Hombre Verde M 
- date: 2019/06/26 22:21:42 +0000 
+ date: 2019/07/01 18:24:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Springfield Camisa Hombre Verde M a precio de oferta de 11.58 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes Springfield Camisa Hombre Verde M a precio de oferta de 11.13 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/5109pLBzKsL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DRY3MNN: Oferta en Amazon para ESPRIT Collection 098eo2f005 Camisa  Azu 
- date: 2019/06/25 17:49:07 +0000 
+ date: 2019/07/01 22:54:35 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes ESPRIT Collection 098eo2f005 Camisa  Azul  Blue 430   39 para Hombre a precio de oferta de 17.21 EUR (original: 17.21 EUR) en el siguiente enlace! 
+ Tienes ESPRIT Collection 098eo2f005 Camisa  Azul  Blue 430   39 para Hombre a precio de oferta de 18.47 EUR (original: 18.47 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41t50VR3xNL.jpg) 
  

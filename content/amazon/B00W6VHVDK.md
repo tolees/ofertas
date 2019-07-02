@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00W6VHVDK: Oferta en Amazon para FRETZ men Boris - Zapatos con Cordones d 
- date: 2019/06/29 06:30:42 +0000 
+ date: 2019/07/02 05:42:38 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

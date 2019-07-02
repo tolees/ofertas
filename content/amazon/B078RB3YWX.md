@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078RB3YWX: Oferta en Amazon para Diesel 00SR61 Vaqueros Slim  Hombre  Neg 
- date: 2019/06/27 00:33:21 +0000 
+ date: 2019/07/01 23:36:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Diesel 00SR61 Vaqueros Slim  Hombre  Negro  Black/Denim 02    Tamaño del Fabricante:33  a precio de oferta de 77.92 EUR (original: 170 EUR) en el siguiente enlace! 
+ Tienes Diesel 00SR61 Vaqueros Slim  Hombre  Negro  Black/Denim 02    Tamaño del Fabricante:33  a precio de oferta de 68.04 EUR (original: 170 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41LRTTI9SIL.jpg) 
  

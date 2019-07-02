@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MHZKGXS: Oferta en Amazon para Meihet 10PCS Tipo C Adaptador USB-C de 1 
- date: 2019/06/29 10:20:30 +0000 
+ date: 2019/07/01 20:10:36 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

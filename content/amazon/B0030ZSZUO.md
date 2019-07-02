@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0030ZSZUO: Oferta en Amazon para adidas Duramo Slide  Chanclas Unisex  Ne 
- date: 2019/06/29 11:31:10 +0000 
+ date: 2019/07/01 18:06:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes adidas Duramo Slide  Chanclas Unisex  Negro  Black/White/Black   43 EU a precio de oferta de 14 EUR (original: 19.95 EUR) en el siguiente enlace! 
+ Tienes adidas Duramo Slide  Chanclas Unisex  Negro  Black/White/Black   43 EU a precio de oferta de 9.97 EUR (original: 19.95 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31QRqg99SSL.jpg) 
  

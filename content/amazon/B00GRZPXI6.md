@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00GRZPXI6: Oferta en Amazon para Jack & Jones Dale Colin Tw Ch Grey Core  
- date: 2019/06/27 05:12:20 +0000 
+ date: 2019/05/30 09:44:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41xnymNZuRL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00GRZPXI6/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00OUU5AEC: Oferta en Amazon para XciteRC 55XXS 3D - Cuadricóptero con Con 
- date: 2019/06/29 13:00:57 +0000 
+ date: 2019/07/02 05:51:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes XciteRC 55XXS 3D - Cuadricóptero con Control Remoto Mini a precio de oferta de 21.28 EUR (original: 21.28 EUR) en el siguiente enlace! 
+ Tienes XciteRC 55XXS 3D - Cuadricóptero con Control Remoto Mini a precio de oferta de 19.13 EUR (original: 19.87 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/318dyCIl-9L.jpg) 
  

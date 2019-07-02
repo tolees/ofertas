@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076MCVKMW: Oferta en Amazon para QNAP TS-131P Ethernet Torre Blanco NAS - 
- date: 2019/06/28 19:24:44 +0000 
+ date: 2019/05/26 22:09:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31AcW2dXEYL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B076MCVKMW/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

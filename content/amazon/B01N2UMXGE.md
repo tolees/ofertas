@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N2UMXGE: Oferta en Amazon para elago ESTR-Ap-BK Auricular/audífono Acce 
- date: 2019/06/28 16:40:39 +0000 
+ date: 2019/07/01 19:40:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

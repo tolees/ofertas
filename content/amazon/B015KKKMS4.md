@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015KKKMS4: Oferta en Amazon para Kappa Faro Light  Mocasines Unisex Adult 
- date: 2019/06/30 20:28:02 +0000 
+ date: 2019/07/01 20:57:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

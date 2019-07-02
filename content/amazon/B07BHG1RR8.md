@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BHG1RR8: Oferta en Amazon para Petrol Industries Denim Vaqueros Slim  A 
- date: 2019/06/25 17:16:34 +0000 
+ date: 2019/07/01 20:42:29 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

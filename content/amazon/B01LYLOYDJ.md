@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LYLOYDJ: Oferta en Amazon para New Look Washed Biker  Vaquero Skinny Pa 
- date: 2019/06/30 20:57:13 +0000 
+ date: 2019/07/01 21:57:51 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

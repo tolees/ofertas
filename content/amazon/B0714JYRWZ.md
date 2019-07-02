@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0714JYRWZ: Oferta en Amazon para SELECTED HOMME Shnclash Parka STS  Negro 
- date: 2019/06/26 15:20:23 +0000 
+ date: 2019/07/01 22:21:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SELECTED HOMME Shnclash Parka STS  Negro  Black   Small para Hombre a precio de oferta de 27.41 EUR (original: 27.41 EUR) en el siguiente enlace! 
+ Tienes SELECTED HOMME Shnclash Parka STS  Negro  Black   Small para Hombre a precio de oferta de 22.18 EUR (original: 22.18 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Thoh3oJ%2BL.jpg) 
  

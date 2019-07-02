@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BY8I3MS: Oferta en Amazon para Casio Reloj con Movimiento Cuarzo japoné 
- date: 2019/06/29 09:48:38 +0000 
+ date: 2019/07/01 17:27:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

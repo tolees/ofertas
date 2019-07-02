@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y44YDKW: Oferta en Amazon para Google Pixel XL - Smartphone de 5.5"  4G 
- date: 2019/06/30 20:47:37 +0000 
+ date: 2019/07/01 21:16:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Google Pixel XL - Smartphone de 5.5"  4G  memoria interna de 128 GB  RAM de 4 GB  cámara frontal de 8 MP  Android  Negro a precio de oferta de 335.31 EUR (original: 335.31 EUR) en el siguiente enlace! 
+ Tienes Google Pixel XL - Smartphone de 5.5"  4G  memoria interna de 128 GB  RAM de 4 GB  cámara frontal de 8 MP  Android  Negro a precio de oferta de 318.54 EUR (original: 318.54 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41o7w-ObaWL.jpg) 
  

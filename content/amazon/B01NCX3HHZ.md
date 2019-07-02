@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NCX3HHZ: Oferta en Amazon para Hackett London Cross HTC Dot Pri  Camisa 
- date: 2019/06/27 00:21:59 +0000 
+ date: 2019/07/01 23:42:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Hackett London Cross HTC Dot Pri  Camisa para Hombre   Blue/Red 5AC  L a precio de oferta de 42.07 EUR (original: 42.07 EUR) en el siguiente enlace! 
+ Tienes Hackett London Cross HTC Dot Pri  Camisa para Hombre   Blue/Red 5AC  L a precio de oferta de 32.64 EUR (original: 32.64 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41R2g2gTfpL.jpg) 
  

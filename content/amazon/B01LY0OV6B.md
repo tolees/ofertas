@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LY0OV6B: Oferta en Amazon para Memzi Pro 32 GB clase 10 90 Mb/s tarjeta 
- date: 2019/06/29 20:06:31 +0000 
+ date: 2019/07/01 20:45:24 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

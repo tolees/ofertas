@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0166HPFLY: Oferta en Amazon para G-STAR RAW Type C 3D Skinny  Jeans  Azul 
- date: 2019/06/26 15:00:31 +0000 
+ date: 2019/07/02 00:15:56 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes G-STAR RAW Type C 3D Skinny  Jeans  Azul  lt aged D004-424   35W / 34L para Hombre a precio de oferta de 76.73 EUR (original: 76.73 EUR) en el siguiente enlace! 
+ Tienes G-STAR RAW Type C 3D Skinny  Jeans  Azul  lt aged D004-424   35W / 34L para Hombre a precio de oferta de 62.93 EUR (original: 62.93 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41oS1lX43uL.jpg) 
  

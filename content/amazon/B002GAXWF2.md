@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B002GAXWF2: Oferta en Amazon para Panasonic Slim - Auriculares de clip  10 
- date: 2019/06/20 10:06:06 +0000 
+ date: 2019/05/31 12:05:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41y%2BE9b0E%2BL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B002GAXWF2/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

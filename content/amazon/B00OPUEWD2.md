@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00OPUEWD2: Oferta en Amazon para iHealth Monitor de Actividad y Sueño - 1 
- date: 2019/07/01 00:11:16 +0000 
+ date: 2019/07/02 05:28:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes iHealth Monitor de Actividad y Sueño - 1 Monitor a precio de oferta de 23.67 EUR (original: 61.8 EUR) en el siguiente enlace! 
+ Tienes iHealth Monitor de Actividad y Sueño - 1 Monitor a precio de oferta de 21.37 EUR (original: 61.8 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41VPhX4hFlL.jpg) 
  

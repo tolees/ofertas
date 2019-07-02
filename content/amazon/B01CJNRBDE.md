@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CJNRBDE: Oferta en Amazon para BIG STAR Vaquero Colt Azul W36L34 
- date: 2019/06/29 06:45:58 +0000 
+ date: 2019/07/02 05:15:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MDND6FN: Oferta en Amazon para Lenor Professional Eliminador de Olores  
- date: 2019/06/26 16:57:37 +0000 
+ date: 2019/07/02 00:27:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lenor Professional Eliminador de Olores Suavizante - 3 8 l a precio de oferta de 18.9 EUR (original: 6.99 EUR) en el siguiente enlace! 
+ Tienes Lenor Professional Eliminador de Olores Suavizante - 3 8 l a precio de oferta de 18.02 EUR (original: 6.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41BCPnL5LYL.jpg) 
  

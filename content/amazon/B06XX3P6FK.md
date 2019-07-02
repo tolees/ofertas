@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XX3P6FK: Oferta en Amazon para Consorcio Bonito en Aceite - Paquete de  
- date: 2019/07/01 05:58:24 +0000 
+ date: 2019/07/02 05:59:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00J26LJKI: Oferta en Amazon para Denver ACT-5001 - Cámara Deportiva  1920 
- date: 2019/06/29 16:24:50 +0000 
+ date: 2019/07/01 19:54:56 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Denver ACT-5001 - Cámara Deportiva  1920 x 1080 píxeles  1280 x 720 píxeles  H.264  CMOS  5 MP  JPG   Color Negro  Importado  a precio de oferta de 56.18 EUR (original: 56.18 EUR) en el siguiente enlace! 
+ Tienes Denver ACT-5001 - Cámara Deportiva  1920 x 1080 píxeles  1280 x 720 píxeles  H.264  CMOS  5 MP  JPG   Color Negro  Importado  a precio de oferta de 60.59 EUR (original: 60.59 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51sQMKgHnNL.jpg) 
  

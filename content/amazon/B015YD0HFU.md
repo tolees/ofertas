@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015YD0HFU: Oferta en Amazon para Soulstar - Abrigo - Chaqueta Guateada -  
- date: 2019/06/28 21:27:51 +0000 
+ date: 2019/07/01 19:54:45 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

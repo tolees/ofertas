@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0725XCZDG: Oferta en Amazon para edc by ESPRIT 097cc2f010 Camisa Hombre R 
- date: 2019/06/29 13:07:25 +0000 
+ date: 2019/07/02 06:30:41 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes edc by ESPRIT 097cc2f010 Camisa Hombre Regular Fit  Azul  Navy 400   Large a precio de oferta de 17 EUR (original: 17 EUR) en el siguiente enlace! 
+ Tienes edc by ESPRIT 097cc2f010 Camisa Hombre Regular Fit  Azul  Navy 400   Large a precio de oferta de 14.57 EUR (original: 14.57 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/513uikbqUbL.jpg) 
  

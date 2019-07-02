@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00AA8T0LC: Oferta en Amazon para Dodot Sensitive Toallitas para Bebé  9 p 
- date: 2019/06/25 19:26:41 +0000 
+ date: 2019/05/31 05:02:07 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41fCZ0KdOLL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00AA8T0LC/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

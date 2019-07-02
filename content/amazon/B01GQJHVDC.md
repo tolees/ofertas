@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GQJHVDC: Oferta en Amazon para Reef Mulligan II  Chanclas para Hombre   
- date: 2019/06/29 09:57:18 +0000 
+ date: 2019/07/02 05:48:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Reef Mulligan II  Chanclas para Hombre  Verde  Green GRN   37.5 EU a precio de oferta de 15.35 EUR (original: 15.35 EUR) en el siguiente enlace! 
+ Tienes Reef Mulligan II  Chanclas para Hombre  Verde  Green GRN   37.5 EU a precio de oferta de 14.69 EUR (original: 14.69 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/312b66EaITL.jpg) 
  

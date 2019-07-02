@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LYTFESY: Oferta en Amazon para Chicco London - Silla de paseo  7.2 kg   
- date: 2019/06/30 19:27:01 +0000 
+ date: 2019/07/01 19:32:49 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

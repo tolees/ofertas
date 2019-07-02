@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019UJNBB6: Oferta en Amazon para Kingston 32 GB MicroSD HC Tarjeta de Mem 
- date: 2019/06/30 21:51:32 +0000 
+ date: 2019/07/01 23:24:28 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

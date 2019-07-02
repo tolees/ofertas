@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B9SHNFL: Oferta en Amazon para MAC Ben  Vaqueros Straight para Hombre   
- date: 2019/06/28 18:16:23 +0000 
+ date: 2019/07/01 22:39:19 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

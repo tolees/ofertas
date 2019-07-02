@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NAK37QP: Oferta en Amazon para Paul & Joe Grey E17  Zapatos de Cordones 
- date: 2019/06/27 06:24:50 +0000 
+ date: 2019/07/01 22:45:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Paul & Joe Grey E17  Zapatos de Cordones Derby para Hombre  Negro  Croûte Velours Noir   44 EU a precio de oferta de 97.77 EUR (original: 97.77 EUR) en el siguiente enlace! 
+ Tienes Paul & Joe Grey E17  Zapatos de Cordones Derby para Hombre  Negro  Croûte Velours Noir   44 EU a precio de oferta de 86.63 EUR (original: 86.63 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/314Reri0qEL.jpg) 
  

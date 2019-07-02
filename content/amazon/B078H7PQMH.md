@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078H7PQMH: Oferta en Amazon para REPLAY Anbass Vaqueros Slim  Blanco  Cha 
- date: 2019/06/29 09:00:18 +0000 
+ date: 2019/07/01 22:30:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077N9MFMD: Oferta en Amazon para Anthoni Crown A1MBT10 Cinturón  Negro  S 
- date: 2019/06/29 09:31:10 +0000 
+ date: 2019/05/30 21:30:42 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51QfJEAPR-L.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B077N9MFMD/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

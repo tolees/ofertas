@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KYMKSJ2: Oferta en Amazon para 6 Pairs Mens Cotton Rich Boxers 3XL 
- date: 2019/06/29 12:03:55 +0000 
+ date: 2019/05/31 00:24:57 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41WTLRDr%2BOL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00KYMKSJ2/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

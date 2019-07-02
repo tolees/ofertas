@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MW1DLCE: Oferta en Amazon para Rexxor 242-8900-18 - Reloj de cuarzo par 
- date: 2019/06/25 17:31:29 +0000 
+ date: 2019/07/01 22:15:50 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Rexxor 242-8900-18 - Reloj de cuarzo para hombres  bicolor a precio de oferta de 36.18 EUR (original: 36.18 EUR) en el siguiente enlace! 
+ Tienes Rexxor 242-8900-18 - Reloj de cuarzo para hombres  bicolor a precio de oferta de 32.05 EUR (original: 32.05 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41Q294fw%2B3L.jpg) 
  

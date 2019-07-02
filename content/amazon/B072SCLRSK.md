@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072SCLRSK: Oferta en Amazon para Reloj French Connection - Hombre FC1311B 
- date: 2019/06/29 13:48:39 +0000 
+ date: 2019/07/01 21:13:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Reloj French Connection - Hombre FC1311BB a precio de oferta de 43.84 EUR (original: 44.07 EUR) en el siguiente enlace! 
+ Tienes Reloj French Connection - Hombre FC1311BB a precio de oferta de 44.99 EUR (original: 44.76 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41tykG6Qu9L.jpg) 
  

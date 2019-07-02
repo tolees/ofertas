@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DTLSQA2: Oferta en Amazon para Samsung C32F391FWU - Monitor para PC Des 
- date: 2019/06/29 07:30:42 +0000 
+ date: 2019/07/01 18:39:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

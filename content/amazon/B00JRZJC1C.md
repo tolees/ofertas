@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JRZJC1C: Oferta en Amazon para Kingston 32 GB tarjeta de memoria Micro  
- date: 2019/06/30 20:49:15 +0000 
+ date: 2019/07/01 22:12:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

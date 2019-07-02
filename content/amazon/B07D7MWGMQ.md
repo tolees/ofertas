@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D7MWGMQ: Oferta en Amazon para Guess Vermont  Vaqueros Straight para Ho 
- date: 2019/06/29 11:15:58 +0000 
+ date: 2019/07/01 21:39:27 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

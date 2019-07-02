@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MSOUEQZ: Oferta en Amazon para Geographical Norway TABOULE Lady Chaquet 
- date: 2019/06/26 19:04:25 +0000 
+ date: 2019/07/01 19:58:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Geographical Norway TABOULE Lady Chaqueta técnica  Naranja Coral  Large para Mujer a precio de oferta de 13.22 EUR (original: 13.22 EUR) en el siguiente enlace! 
+ Tienes Geographical Norway TABOULE Lady Chaqueta técnica  Naranja Coral  Large para Mujer a precio de oferta de 10.76 EUR (original: 10.76 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41GRHom-UNL.jpg) 
  

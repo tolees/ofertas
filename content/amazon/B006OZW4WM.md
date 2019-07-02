@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B006OZW4WM: Oferta en Amazon para Speedo Solid Leisure - Bañador de nataci 
- date: 2019/06/26 22:19:15 +0000 
+ date: 2019/07/01 18:35:10 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

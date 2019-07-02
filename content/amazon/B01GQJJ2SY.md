@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GQJJ2SY: Oferta en Amazon para Brooks Glycerin 14  Zapatillas de Deport 
- date: 2019/06/29 10:04:07 +0000 
+ date: 2019/07/01 19:57:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Brooks Glycerin 14  Zapatillas de Deporte para Hombre  Azul  Blue   40.5 EU a precio de oferta de 77.45 EUR (original: 77.45 EUR) en el siguiente enlace! 
+ Tienes Brooks Glycerin 14  Zapatillas de Deporte para Hombre  Azul  Blue   40.5 EU a precio de oferta de 69.66 EUR (original: 69.66 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51R1gQzje3L.jpg) 
  

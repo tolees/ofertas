@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079RT2QWQ: Oferta en Amazon para Pepe Jeans Keith Chaqueta  Negro  Black  
- date: 2019/06/20 20:48:12 +0000 
+ date: 2019/07/02 06:21:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Pepe Jeans Keith Chaqueta  Negro  Black 999   S para Hombre a precio de oferta de 126.53 EUR (original: 290 EUR) en el siguiente enlace! 
+ Tienes Pepe Jeans Keith Chaqueta  Negro  Black 999   S para Hombre a precio de oferta de 156.33 EUR (original: 290 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41rOie0c-uL.jpg) 
  

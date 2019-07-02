@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073FKTZFY: Oferta en Amazon para Physix Gear Sport Calcetines de La Compr 
- date: 2019/06/20 08:45:04 +0000 
+ date: 2019/05/30 21:51:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41j8Bn5%2BlLL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B073FKTZFY/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

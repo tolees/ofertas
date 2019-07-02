@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ASCLPKS: Oferta en Amazon para Citizen Reloj Analógico para Unisex de C 
- date: 2019/06/29 06:18:26 +0000 
+ date: 2019/05/31 14:17:04 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/41NwJqVbChL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01ASCLPKS/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/amazonofertas25)

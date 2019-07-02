@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KXULGJQ: Oferta en Amazon para TP-Link RE200 AC750 - Repetidor de red W 
- date: 2019/06/24 14:12:30 +0000 
+ date: 2019/05/27 11:02:30 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,4 +14,3 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/31wukG4DQDL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00KXULGJQ/?tag=redken-21)
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

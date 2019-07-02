@@ -1,0 +1,17 @@
+--- 
+ layout: post 
+ title: B07BQYHJ6K: Oferta en Amazon para New Balance 574S v2  Zapatillas Unisex N 
+ date: 2019/07/01 19:56:00 +0000 
+ comments: true 
+ tags: amazon 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes New Balance 574S v2  Zapatillas Unisex Niños  Negro  Black/UV Blue SL   38.5 EU a precio de oferta de 28 EUR (original: 75 EUR) en el siguiente enlace! 
+ 
+ ![](https://images-eu.ssl-images-amazon.com/images/I/41Nu39BMoVL.jpg) 
+ 
+ [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B07BQYHJ6K/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
