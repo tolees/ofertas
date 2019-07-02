@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00X9TYMO4: Oferta en Amazon para Garnier Delial Ideal Bronze Spray Revela 
- date: 2019/07/01 08:30:49 +0000 
+ date: 2019/07/02 18:56:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

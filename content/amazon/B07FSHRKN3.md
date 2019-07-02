@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FSHRKN3: Oferta en Amazon para Philips Lumea Advanced BRI922/00 - Depil 
- date: 2019/07/01 08:54:13 +0000 
+ date: 2019/07/02 16:23:56 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

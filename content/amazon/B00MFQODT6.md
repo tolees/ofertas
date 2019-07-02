@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MFQODT6: Oferta en Amazon para Mx Onda - Reloj Analógico de Cuarzo para 
- date: 2019/05/16 19:56:31 +0000 
+ date: 2019/07/02 17:20:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -14,3 +14,4 @@
  ![](https://images-eu.ssl-images-amazon.com/images/I/51tJfa6UKxL.jpg) 
  
  [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B00MFQODT6/?tag=redken-21)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

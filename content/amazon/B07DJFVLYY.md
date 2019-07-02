@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJFVLYY: Oferta en Amazon para Dockers by Gerli 33lk008  Zapatos de Cor 
- date: 2019/06/30 19:48:48 +0000 
+ date: 2019/07/02 16:49:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Dockers by Gerli 33lk008  Zapatos de Cordones Derby para Hombre  Negro  Schwarz/Asphal 123   42 EU a precio de oferta de 22.1 EUR (original: 22.1 EUR) en el siguiente enlace! 
+ Tienes Dockers by Gerli 33lk008  Zapatos de Cordones Derby para Hombre  Negro  Schwarz/Asphal 123   42 EU a precio de oferta de 21.24 EUR (original: 21.24 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31%2BFnHxYUvL.jpg) 
  

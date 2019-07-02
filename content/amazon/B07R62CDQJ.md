@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07R62CDQJ: Oferta en Amazon para H&S Citrus Fresh - Anticaspa Champú para 
- date: 2019/07/01 09:52:06 +0000 
+ date: 2019/07/02 19:25:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

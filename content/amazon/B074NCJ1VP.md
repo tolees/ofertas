@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074NCJ1VP: Oferta en Amazon para Regatta Originals Ardwick Parka Coat Jac 
- date: 2019/06/30 23:28:09 +0000 
+ date: 2019/07/02 14:39:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Regatta Originals Ardwick Parka Coat Jacket  Negro  Medium para Hombre a precio de oferta de 83.93 EUR (original: 83.93 EUR) en el siguiente enlace! 
+ Tienes Regatta Originals Ardwick Parka Coat Jacket  Negro  Medium para Hombre a precio de oferta de 83.99 EUR (original: 83.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41S9QEQZ1VL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073CYHTYW: Oferta en Amazon para Medion MD 60689 - Ordenador portátil con 
- date: 2019/06/30 19:13:53 +0000 
+ date: 2019/07/02 17:45:11 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

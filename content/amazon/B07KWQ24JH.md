@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KWQ24JH: Oferta en Amazon para Lenovo ideapad 330-15ARR - Ordenador Por 
- date: 2019/07/01 10:05:20 +0000 
+ date: 2019/07/02 18:46:01 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

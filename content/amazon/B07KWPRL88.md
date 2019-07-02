@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KWPRL88: Oferta en Amazon para Lenovo Legion Y920 - Ordenador Portátil  
- date: 2019/06/30 22:26:44 +0000 
+ date: 2019/07/02 16:41:40 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078ZYXH7L: Oferta en Amazon para TRESemmé Acondicionador Hidratación Inte 
- date: 2019/07/01 07:01:42 +0000 
+ date: 2019/07/02 14:35:55 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

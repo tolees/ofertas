@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078TJWS1Q: Oferta en Amazon para Crimpadora de terminales - Alicates de t 
- date: 2019/07/01 08:27:22 +0000 
+ date: 2019/07/02 16:31:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

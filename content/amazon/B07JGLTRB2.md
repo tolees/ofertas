@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JGLTRB2: Oferta en Amazon para L Oréal Men Expert Cofre Vitalift Crema  
- date: 2019/07/01 08:34:12 +0000 
+ date: 2019/07/02 14:33:37 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

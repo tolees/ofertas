@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078TTSB8V: Oferta en Amazon para LG 27GK750F-B - Monitor Gaming UltraWide 
- date: 2019/07/01 17:19:54 +0000 
+ date: 2019/07/02 18:10:58 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

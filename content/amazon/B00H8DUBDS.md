@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00H8DUBDS: Oferta en Amazon para Seiko Unisex Reloj Despertador Esfera An 
- date: 2019/07/01 05:51:15 +0000 
+ date: 2019/07/02 14:21:14 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Seiko Unisex Reloj Despertador Esfera Analógica Pantalla y plástico Blanco qhk028s a precio de oferta de 12.82 EUR (original: 13.49 EUR) en el siguiente enlace! 
+ Tienes Seiko Unisex Reloj Despertador Esfera Analógica Pantalla y plástico Blanco qhk028s a precio de oferta de 12.43 EUR (original: 12.43 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/510J1GY7CwL.jpg) 
  

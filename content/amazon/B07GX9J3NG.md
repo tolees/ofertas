@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GX9J3NG: Oferta en Amazon para CUBOT J3 Dual SIM Smartphone 12 63 cm  5 
- date: 2019/06/27 07:25:43 +0000 
+ date: 2019/07/02 17:12:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

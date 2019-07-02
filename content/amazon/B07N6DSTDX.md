@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N6DSTDX: Oferta en Amazon para Pala de padel Royal Padel M27 Carbon Ama 
- date: 2019/06/30 22:26:21 +0000 
+ date: 2019/07/02 16:23:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

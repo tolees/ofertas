@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DVKPQL7: Oferta en Amazon para New Balance 997H  Entrenadores para Homb 
- date: 2019/07/01 17:16:04 +0000 
+ date: 2019/07/02 18:02:39 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Balance 997H  Entrenadores para Hombre  Azul Pigment  44 EU a precio de oferta de 35.95 EUR (original: 90 EUR) en el siguiente enlace! 
+ Tienes New Balance 997H  Entrenadores para Hombre  Azul Pigment  44 EU a precio de oferta de 60 EUR (original: 90 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41U89oupy-L.jpg) 
  

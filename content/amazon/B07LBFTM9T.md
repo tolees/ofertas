@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LBFTM9T: Oferta en Amazon para Slypnos Gaming Silla  Ergonómica Racing  
- date: 2019/07/01 09:23:34 +0000 
+ date: 2019/07/02 14:38:26 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

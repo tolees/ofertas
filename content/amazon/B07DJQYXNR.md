@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJQYXNR: Oferta en Amazon para NBA 2K19 - Edición Estándar 
- date: 2019/07/01 17:49:22 +0000 
+ date: 2019/07/02 17:50:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes NBA 2K19 - Edición Estándar a precio de oferta de 18.9 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Tienes NBA 2K19 - Edición Estándar a precio de oferta de 16.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/61jcwfMTIbL.jpg) 
  

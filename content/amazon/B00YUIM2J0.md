@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00YUIM2J0: Oferta en Amazon para Logitech Driving Force G29 - Volante de  
- date: 2019/07/01 05:55:10 +0000 
+ date: 2019/07/02 18:16:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

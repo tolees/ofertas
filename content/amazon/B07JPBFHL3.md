@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JPBFHL3: Oferta en Amazon para Lenovo Yoga 530-14ARR - Portátil táctil  
- date: 2019/06/30 21:14:20 +0000 
+ date: 2019/07/02 19:47:18 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Lenovo Yoga 530-14ARR - Portátil táctil Convertible de 14" HD  Intel Core i3-7020U  4GB de RAM  128GB de SSD  Windows 10  Gris - Teclado QWERTY Español a precio de oferta de 495.83 EUR (original: 599.99 EUR) en el siguiente enlace! 
+ Tienes Lenovo Yoga 530-14ARR - Portátil táctil Convertible de 14" HD  Intel Core i3-7020U  4GB de RAM  128GB de SSD  Windows 10  Gris - Teclado QWERTY Español a precio de oferta de 449.99 EUR (original: 599.99 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31kOhF-6IrL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LFMQKRX: Oferta en Amazon para SYOSS - Pack de Regalo SalonPlex - Champ 
- date: 2019/07/01 09:29:17 +0000 
+ date: 2019/07/02 14:32:23 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

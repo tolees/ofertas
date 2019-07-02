@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MTQ8DIC: Oferta en Amazon para New Balance MRZHLL1  Zapatillas Hombre   
- date: 2019/06/30 19:27:17 +0000 
+ date: 2019/07/02 19:11:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Balance MRZHLL1  Zapatillas Hombre  Negro  Black/magnet   44 EU a precio de oferta de 23.91 EUR (original: 80 EUR) en el siguiente enlace! 
+ Tienes New Balance MRZHLL1  Zapatillas Hombre  Negro  Black/magnet   44 EU a precio de oferta de 22.29 EUR (original: 80 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41sWkSvTW3L.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KJJD91P: Oferta en Amazon para Brandit - Jersey del ejército de Bundesw 
- date: 2019/06/28 21:36:05 +0000 
+ date: 2019/07/02 16:04:47 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Brandit - Jersey del ejército de Bundeswehr - para Hombre - Azul Marino 5XL a precio de oferta de 35.9 EUR (original: 35.9 EUR) en el siguiente enlace! 
+ Tienes Brandit - Jersey del ejército de Bundeswehr - para Hombre - Azul Marino 5XL a precio de oferta de 34 EUR (original: 34 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41msWwM8rvL.jpg) 
  
