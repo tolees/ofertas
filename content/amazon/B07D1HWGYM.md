@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D1HWGYM: Oferta en Amazon para SELECTED HOMME Slhslimsel-Joey Shirt LS  
- date: 2019/06/30 18:22:16 +0000 
+ date: 2019/07/02 09:31:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes SELECTED HOMME Slhslimsel-Joey Shirt LS Stripes B Noos Camisa   Skyway:.   Medium para Hombre a precio de oferta de 16.31 EUR (original: 16.31 EUR) en el siguiente enlace! 
+ Tienes SELECTED HOMME Slhslimsel-Joey Shirt LS Stripes B Noos Camisa   Skyway:.   Medium para Hombre a precio de oferta de 15.49 EUR (original: 15.49 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/31SIVeMIR0L.jpg) 
  

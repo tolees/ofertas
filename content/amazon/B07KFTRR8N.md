@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KFTRR8N: Oferta en Amazon para New Look Mono Crew 5953988 suéter  Negro 
- date: 2019/07/01 08:44:35 +0000 
+ date: 2019/07/02 11:45:31 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes New Look Mono Crew 5953988 suéter  Negro  Black 1   Large  Talla del Fabricante: 53  para Hombre a precio de oferta de 12.61 EUR (original: 25.44 EUR) en el siguiente enlace! 
+ Tienes New Look Mono Crew 5953988 suéter  Negro  Black 1   Large  Talla del Fabricante: 53  para Hombre a precio de oferta de 12.43 EUR (original: 25.44 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41yGt3Nh2uL.jpg) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01B6KR2WG: Oferta en Amazon para Puma Speed 600 Ignite  Zapatillas de Dep 
- date: 2019/07/01 05:31:33 +0000 
+ date: 2019/07/02 10:16:06 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Puma Speed 600 Ignite  Zapatillas de Deporte Unisex para Adulto  Rojo  red/black/white 06   42 EU a precio de oferta de 51.46 EUR (original: 51.46 EUR) en el siguiente enlace! 
+ Tienes Puma Speed 600 Ignite  Zapatillas de Deporte Unisex para Adulto  Rojo  red/black/white 06   42 EU a precio de oferta de 49.4 EUR (original: 49.4 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/51KAnLcBY7L.jpg) 
  

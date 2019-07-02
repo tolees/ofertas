@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KY9L8BV: Oferta en Amazon para Pancellent - Medidor de pH de Suelo con  
- date: 2019/07/01 09:51:02 +0000 
+ date: 2019/07/02 11:09:22 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

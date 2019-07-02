@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XPCRJRW: Oferta en Amazon para Kipling - Trix  Monederos Mujer  Grau  U 
- date: 2019/07/01 06:14:14 +0000 
+ date: 2019/07/02 11:09:33 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

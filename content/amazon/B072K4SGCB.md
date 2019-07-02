@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072K4SGCB: Oferta en Amazon para Tommy Hilfiger Tailored Clyde OTWFKS1740 
- date: 2019/06/26 23:17:09 +0000 
+ date: 2019/07/02 09:15:21 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Tommy Hilfiger Tailored Clyde OTWFKS17405  Abrigo para Hombre  Gris  010   Small  Talla del Fabricante: 48  a precio de oferta de 126.87 EUR (original: 126.87 EUR) en el siguiente enlace! 
+ Tienes Tommy Hilfiger Tailored Clyde OTWFKS17405  Abrigo para Hombre  Gris  010   Small  Talla del Fabricante: 48  a precio de oferta de 121.29 EUR (original: 121.29 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41wckIJNeYL.jpg) 
  

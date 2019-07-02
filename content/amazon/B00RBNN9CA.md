@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00RBNN9CA: Oferta en Amazon para Hackett London Roll Up Shorts -  Bermuda 
- date: 2019/07/01 07:49:13 +0000 
+ date: 2019/07/02 11:24:34 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes Hackett London Roll Up Shorts -  Bermuda para hombre Azul talla 31 a precio de oferta de 24.7 EUR (original: 24.7 EUR) en el siguiente enlace! 
+ Tienes Hackett London Roll Up Shorts -  Bermuda para hombre Azul talla 31 a precio de oferta de 23.32 EUR (original: 23.32 EUR) en el siguiente enlace! 
  
  ![](https://images-eu.ssl-images-amazon.com/images/I/41iizhwx8RL.jpg) 
  

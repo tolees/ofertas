@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DYX9NWB: Oferta en Amazon para Columbia Horizon Explorer Jacket Chaquet 
- date: 2019/07/01 10:24:57 +0000 
+ date: 2019/07/02 13:34:17 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

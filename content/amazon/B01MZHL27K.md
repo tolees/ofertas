@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MZHL27K: Oferta en Amazon para 5 Cuerdas Elásticas de Fitness WEINAS® S 
- date: 2019/06/30 20:15:26 +0000 
+ date: 2019/07/02 09:16:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

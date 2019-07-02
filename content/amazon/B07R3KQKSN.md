@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07R3KQKSN: Oferta en Amazon para OMORC Bandas Elasticas de Fitness 6 Cint 
- date: 2019/06/28 16:10:36 +0000 
+ date: 2019/07/02 11:53:52 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

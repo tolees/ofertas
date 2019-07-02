@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074P4HGCC: Oferta en Amazon para Gliss - 2 Champús 400 ml + 1 Mascarilla  
- date: 2019/07/01 07:46:31 +0000 
+ date: 2019/07/02 10:20:43 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

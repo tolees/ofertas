@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0725KKYVS: Oferta en Amazon para Puma One 17.1 FG  Zapatillas de Fútbol p 
- date: 2019/06/30 21:52:12 +0000 
+ date: 2019/07/02 09:18:32 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

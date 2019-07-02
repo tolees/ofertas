@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JNDLP6B: Oferta en Amazon para DAM DMX187SLV - Correa metálica para App 
- date: 2019/06/20 22:09:43 +0000 
+ date: 2019/07/02 12:08:15 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

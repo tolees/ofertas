@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DJV3NYM: Oferta en Amazon para Xcore Protein Snack Concentrado 27% de P 
- date: 2019/06/30 22:04:13 +0000 
+ date: 2019/07/02 13:24:09 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 

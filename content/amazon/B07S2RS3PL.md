@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07S2RS3PL: Oferta en Amazon para Cressi Water Shoes Escarpines para todo  
- date: 2019/07/01 07:19:18 +0000 
+ date: 2019/07/02 12:21:08 +0000 
  comments: true 
  tags: amazon 
  category: ofertas 
