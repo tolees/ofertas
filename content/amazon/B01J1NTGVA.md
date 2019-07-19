@@ -1,16 +1,18 @@
 --- 
  layout: post 
- title: B01J1NTGVA: Oferta en Amazon para Philips Lighting Bombilla LED E27  Pack  
- date: 2019/05/26 20:37:28 +0000 
+ title: B01J1NTGVA: Ofertón en Amazon para Philips Lighting Bombilla LED E27  pack  
+ date: 2019/07/19 08:34:29 +0000 
  comments: true 
- tags: amazon 
+ tags: B01J1NTGVA 
  category: ofertas 
  author: ring 
  description: 
  --- 
  
- Tienes Philips Lighting Bombilla LED E27  Pack 2 Unidades  luz Blanca cálida  13 W a precio de oferta de 9.96 EUR (original: 18.99 EUR) en el siguiente enlace! 
+ Tienes [Philips Lighting Bombilla LED E27  pack 2 unidades  luz blanca cálida 13 W](https://www.amazon.es/dp/B01J1NTGVA/?tag=redken-21) a precio de oferta de 10.35 EUR (original: 18.99 EUR) en el siguiente enlace! 
  
- ![](https://images-eu.ssl-images-amazon.com/images/I/41ktxF8ToYL.jpg) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51VfP4t8aZL._SL200_.jpg)](https://www.amazon.es/dp/B01J1NTGVA/?tag=redken-21) 
  
- [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B01J1NTGVA/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B01J1NTGVA/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
