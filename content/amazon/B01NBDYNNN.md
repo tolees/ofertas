@@ -1,0 +1,18 @@
+--- 
+ layout: post 
+ title: B01NBDYNNN: Ofertón en Amazon para Kohree 2 pack de12M 120 LEDs Guinarldas  
+ date: 2019/07/19 15:56:19 +0000 
+ comments: true 
+ tags: B01NBDYNNN 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes [Kohree 2 pack de12M 120 LEDs Guinarldas de Luz Blanca Cálida Con Pilas Decoración de Navida Y Fiestas](https://www.amazon.es/dp/B01NBDYNNN/?tag=redken-21) a precio de oferta de 14.99 EUR (original: 20.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/61ccvt%2BMmeL._SL200_.jpg)](https://www.amazon.es/dp/B01NBDYNNN/?tag=redken-21) 
+ 
+ [Accede a la oferta!!](https://www.amazon.es/dp/B01NBDYNNN/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

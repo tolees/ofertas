@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CRFSD: Ofertón en Amazon para LEGO Ninjago - Llama del destino  70653  
- date: 2019/07/19 13:19:59 +0000 
+ date: 2019/07/19 17:13:23 +0000 
  comments: true 
  tags: B0765CRFSD 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Ninjago - Llama del destino  70653 ](https://www.amazon.es/dp/B0765CRFSD/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [LEGO Ninjago - Llama del destino  70653 ](https://www.amazon.es/dp/B0765CRFSD/?tag=redken-21) a precio de oferta de 69.59 EUR (original: 79.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61g8vq5q5tL._SL200_.jpg)](https://www.amazon.es/dp/B0765CRFSD/?tag=redken-21) 
  
