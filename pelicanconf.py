@@ -20,23 +20,27 @@ LANDING_PAGE_ABOUT = {}
 
 PROJECTS_TITLE = 'Nuestros canales de ofertas'
 
-PROJECTS = [{'name': '🇮🇹 Italia  dsconti','url': 'https://t.me/dsconti',
-'name': '🇫🇷 France Soldes','url': 'https://t.me/soldesamazon',
-'name': '🇩🇪 Germany Skonto','url': 'https://t.me/joinchat/AAAAAEtK4QuTr453Wcwbow',
-'name': '👶 Bebé','url': 'https://t.me/estodobebe',
-'name': '👚Moda','url': 'https://t.me/estodomoda',
-'name': '💻Tecnología','url': 'https://t.me/todotech',
-'name': '🍏Apple','url': 'https://t.me/estodoapple ',
-'name': '🏠Domótica','url': 'https://t.me/estododomotica',
-'name': '🧱Lego','url': 'https://t.me/brickchollo',
-'name': '🎎 Playmobil','url': 'https://t.me/joinchat/AAAAAE3WwL-YCJ5wuLLNhA',
-'name': '🧸 Juguetes','url': 'https://t.me/estodojuguetes',
-'name': '🤯 Funko','url': 'https://t.me/joinchat/AAAAAFA1UfRMI0CV8ZsZuw',
-'name': '🤑 Errores de precio','url': 'https://t.me/errores_de_precio',
-'name': '📊Mínimos históricos','url': 'https://t.me/minimos_historicos',
-'name': '🛍Ofertas con 25% o más de descuento','url': 'https://t.me/amazonofertas25',
-'name': '🛍Ofertas con 50% o más de descuento','url': 'https://t.me/joinchat/AAAAAFSZXxC24V2PeMtTSg',
-'name': '🛍 Todas las ofertas','url': 'https://t.me/amazonfertas'}]
+PROJECTS = [{'name': '🇮🇹 Italia dsconti', 'url': 'https://t.me/dsconti'},
+ {'name': '🇫🇷 France Soldes', 'url': 'https://t.me/soldesamazon'},
+ {'name': '🇩🇪 Germany Skonto',
+  'url': 'https://t.me/joinchat/AAAAAEtK4QuTr453Wcwbow'},
+ {'name': '👶 Bebé', 'url': 'https://t.me/estodobebe'},
+ {'name': '👚Moda', 'url': 'https://t.me/estodomoda'},
+ {'name': '💻Tecnología', 'url': 'https://t.me/todotech'},
+ {'name': '🍏Apple', 'url': 'https://t.me/estodoapple '},
+ {'name': '🏠Domótica', 'url': 'https://t.me/estododomotica'},
+ {'name': '🧱Lego', 'url': 'https://t.me/brickchollo'},
+ {'name': '🎎 Playmobil',
+  'url': 'https://t.me/joinchat/AAAAAE3WwL-YCJ5wuLLNhA'},
+ {'name': '🧸Juguetes', 'url': 'https://t.me/estodojuguetes'},
+ {'name': '🤯 Funko', 'url': 'https://t.me/joinchat/AAAAAFA1UfRMI0CV8ZsZuw'},
+ {'name': '🤑 Errores de precio', 'url': 'https://t.me/errores_de_precio'},
+ {'name': '📊Mínimos históricos', 'url': 'https://t.me/minimos_historicos'},
+ {'name': '🛍Ofertas con 25% o más de descuento',
+  'url': 'https://t.me/amazonofertas25'},
+ {'name': '🛍Ofertas con 50% o más de descuento',
+  'url': 'https://t.me/joinchat/AAAAAFSZXxC24V2PeMtTSg'},
+ {'name': '🛍 Todas las ofertas', 'url': 'https://t.me/amazonfertas'}]
 
 
 LINKS = (('Redken on telegram', 'https://t.me/redken_bot'))
