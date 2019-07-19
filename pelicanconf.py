@@ -19,12 +19,28 @@ CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
 LANDING_PAGE_ABOUT = {}
 
 
-PROJECTS = [{'name': 'AmazonOfertas25', 'url': 'https://t.me/AmazonOfertas25',              'description': 'Ofertas con un 25% de descuento!'}, {'name':"Bebé",'url':  "https://t.me/estodobebe"}, {'name':"Moda",'url':  "https://t.me/estodomoda"}, {'name':"Tecnología",'url':  "https://t.me/todotech"}, {'name':"Domótica",'url':  "https://t.me/estododomotica"}, {'name':"Lego", 'url': "https://t.me/brickchollo"}, {'name':"Playmobil", 'url': "https://t.me/joinchat/AAAAAE3WwL-YCJ5wuLLNhA"}, {'name':"Juguetes",'url':  "https://t.me/estodojuguetes"}, {'name':"Ofertas con 50% o más de descuento",'url':  "https://t.me/joinchat/AAAAAFSZXxC24V2PeMtTSg"}, {'name':"Funko", 'url': "https://t.me/joinchat/AAAAAFA1UfRMI0CV8ZsZuw"}, {'name':"Todas las ofertas",'url':  "https://t.me/amazonfertas"}]
+PROJECTS = [{'name': '🇮🇹 Italia  dsconti','url': 'https://t.me/dsconti',
+'name': '🇫🇷 France Soldes','url': 'https://t.me/soldesamazon',
+'name': '🇩🇪 Germany Skonto','url': 'https://t.me/joinchat/AAAAAEtK4QuTr453Wcwbow',
+'name': '👶 Bebé','url': 'https://t.me/estodobebe',
+'name': '👚Moda','url': 'https://t.me/estodomoda',
+'name': '💻Tecnología','url': 'https://t.me/todotech',
+'name': '🍏Apple','url': 'https://t.me/estodoapple ',
+'name': '🏠Domótica','url': 'https://t.me/estododomotica',
+'name': '🧱Lego','url': 'https://t.me/brickchollo',
+'name': '🎎 Playmobil','url': 'https://t.me/joinchat/AAAAAE3WwL-YCJ5wuLLNhA',
+'name': '🧸 Juguetes','url': 'https://t.me/estodojuguetes',
+'name': '🤯 Funko','url': 'https://t.me/joinchat/AAAAAFA1UfRMI0CV8ZsZuw',
+'name': '🤑 Errores de precio','url': 'https://t.me/errores_de_precio',
+'name': '📊Mínimos históricos','url': 'https://t.me/minimos_historicos',
+'name': '🛍Ofertas con 25% o más de descuento','url': 'https://t.me/amazonofertas25',
+'name': '🛍Ofertas con 50% o más de descuento','url': 'https://t.me/joinchat/AAAAAFSZXxC24V2PeMtTSg',
+'name': '🛍 Todas las ofertas','url': 'https://t.me/amazonfertas'}]
 
 
 LINKS = (('Redken on telegram', 'https://t.me/redken_bot'))
 
-# Keep 'name' like 'twitter' with what 'FontAwesome has for putting the right icon'
+# Keep 'name'like 'twitter'with what 'FontAwesome has for putting the right icon'
 
 SOCIAL = ()
 
@@ -77,7 +93,7 @@ EXTRA_TEMPLATES_PATHS = [
     "plugins/revealmd/templates",  # eg: "plugins/revealmd/templates"
 ]
 
-STATIC_PATHS = [ 'images' , 'extra' ]
+STATIC_PATHS = [ 'images', 'extra']
 
 
 ## ONLY TOUCH IF YOU KNOW WHAT YOU'RE DOING!
