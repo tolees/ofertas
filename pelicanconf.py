@@ -18,6 +18,7 @@ CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
 
 LANDING_PAGE_ABOUT = {}
 
+PROJECTS_TITLE = 'Nuestros canales de ofertas'
 
 PROJECTS = [{'name': '🇮🇹 Italia  dsconti','url': 'https://t.me/dsconti',
 'name': '🇫🇷 France Soldes','url': 'https://t.me/soldesamazon',
