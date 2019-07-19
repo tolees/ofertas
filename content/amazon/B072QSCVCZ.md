@@ -1,17 +1,18 @@
 --- 
  layout: post 
- title: B072QSCVCZ: Oferta en Amazon para Lee Button Down Camisa  Azul  Sodalite B 
- date: 2019/07/01 21:00:11 +0000 
+ title: B072QSCVCZ: Ofertón en Amazon para Lee Button Down Camisa  Azul  Sodalite B 
+ date: 2019/07/19 10:30:14 +0000 
  comments: true 
- tags: amazon 
+ tags: B072QSCVCZ 
  category: ofertas 
  author: ring 
  description: 
  --- 
  
- Tienes Lee Button Down Camisa  Azul  Sodalite Blue Cndi   39  Talla del Fabricante: Medium  para Hombre a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [Lee Button Down Camisa  Azul  Sodalite Blue Cndi   39  Talla del Fabricante: Medium  para Hombre](https://www.amazon.es/dp/B072QSCVCZ/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
- ![](https://images-eu.ssl-images-amazon.com/images/I/41zeegBo5qL.jpg) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41zeegBo5qL._SL200_.jpg)](https://www.amazon.es/dp/B072QSCVCZ/?tag=redken-21) 
  
- [Accede a la oferta pinchando AQUI](https://www.amazon.es/dp/B072QSCVCZ/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B072QSCVCZ/?tag=redken-21)
+
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
