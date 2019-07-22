@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N9T6OCX: Ofertón en Amazon para hummel Niños Runner Short Sleeve tee - C 
- date: 2019/07/19 06:56:17 +0000 
+ date: 2019/07/22 14:39:54 +0000 
  comments: true 
  tags: B01N9T6OCX 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [hummel Niños Runner Short Sleeve tee - Camiseta  Otoño-Invierno  Infantil  Color Weiß  tamaño 116-128](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21) a precio de oferta de 9.06 EUR (original: 9.06 EUR) en el siguiente enlace! 
+ Tienes [hummel Niños Runner Short Sleeve tee - Camiseta  Otoño-Invierno  Infantil  Color Weiß  tamaño 116-128](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21) a precio de oferta de 16.64 EUR (original: 26.82 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31hS4aj9iGL._SL200_.jpg)](https://www.amazon.es/dp/B01N9T6OCX/?tag=redken-21) 
  
