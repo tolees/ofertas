@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K68GFKJ: Ofertón en Amazon para Corrector de postura  apoyo de la clavíc 
- date: 2019/07/19 08:20:56 +0000 
+ date: 2019/07/22 10:08:03 +0000 
  comments: true 
  tags: B07K68GFKJ 
  category: ofertas 

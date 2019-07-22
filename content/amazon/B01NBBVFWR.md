@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NBBVFWR: Ofertón en Amazon para Vexia Challenge Plus WiFi Cámara Deporti 
- date: 2019/07/19 15:57:04 +0000 
+ date: 2019/07/22 13:14:23 +0000 
  comments: true 
  tags: B01NBBVFWR 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Vexia Challenge Plus WiFi Cámara Deportiva con Pantalla de 2" Full HD  Negro](https://www.amazon.es/dp/B01NBBVFWR/?tag=redken-21) a precio de oferta de 39.79 EUR (original: 39.79 EUR) en el siguiente enlace! 
+ Tienes [Vexia Challenge Plus WiFi Cámara Deportiva con Pantalla de 2" Full HD  Negro](https://www.amazon.es/dp/B01NBBVFWR/?tag=redken-21) a precio de oferta de 34.11 EUR (original: 35.91 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/413q7VUlvwL._SL200_.jpg)](https://www.amazon.es/dp/B01NBBVFWR/?tag=redken-21) 
  

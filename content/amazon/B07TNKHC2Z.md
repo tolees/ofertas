@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TNKHC2Z: Ofertón en Amazon para Salomon XA Pro 3D  Zapatillas de Trail R 
- date: 2019/07/19 08:24:27 +0000 
+ date: 2019/07/22 10:46:56 +0000 
  comments: true 
  tags: B07TNKHC2Z 
  category: ofertas 

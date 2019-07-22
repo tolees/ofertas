@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01A8QRVBQ: Ofertón en Amazon para Sony HDRAS50B.CEN - Videocámara  Full HD 
- date: 2019/07/19 11:07:48 +0000 
+ date: 2019/07/22 13:45:57 +0000 
  comments: true 
  tags: B01A8QRVBQ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Sony HDRAS50B.CEN - Videocámara  Full HD 60p  Sensor Exmor-R de 11 1Mp  Steadyshot  Zoom de 3X  Carcasa de 60 m  Negro](https://www.amazon.es/dp/B01A8QRVBQ/?tag=redken-21) a precio de oferta de 162 EUR (original: 220 EUR) en el siguiente enlace! 
+ Tienes [Sony HDRAS50B.CEN - Videocámara  Full HD 60p  Sensor Exmor-R de 11 1Mp  Steadyshot  Zoom de 3X  Carcasa de 60 m  Negro](https://www.amazon.es/dp/B01A8QRVBQ/?tag=redken-21) a precio de oferta de 154.93 EUR (original: 220 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51o7DlD3YUL._SL200_.jpg)](https://www.amazon.es/dp/B01A8QRVBQ/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NYD5KQ2: Ofertón en Amazon para Deik Hervidor Eléctrico de Cristal  Acer 
- date: 2019/07/19 07:02:31 +0000 
+ date: 2019/07/22 12:50:19 +0000 
  comments: true 
  tags: B07NYD5KQ2 
  category: ofertas 

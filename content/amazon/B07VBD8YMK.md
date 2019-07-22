@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VBD8YMK: Ofertón en Amazon para Tomasa Vestidos de Mujer Falda Vestido L 
- date: 2019/07/19 20:15:46 +0000 
+ date: 2019/07/22 14:08:37 +0000 
  comments: true 
  tags: B07VBD8YMK 
  category: ofertas 

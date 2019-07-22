@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BMC4IFC: Ofertón en Amazon para Medion Lifebeat P61078 Barra de Sonido c 
- date: 2019/07/19 16:17:15 +0000 
+ date: 2019/07/22 10:40:57 +0000 
  comments: true 
  tags: B01BMC4IFC 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Medion Lifebeat P61078 Barra de Sonido con Wi-Fi  2 Altavoces de 18 W RMS  subwoofer de 36 W RMS Integrado  Bluetooth y Compatible con DLNA](https://www.amazon.es/dp/B01BMC4IFC/?tag=redken-21) a precio de oferta de 77.1 EUR (original: 77.1 EUR) en el siguiente enlace! 
+ Tienes [Medion Lifebeat P61078 Barra de Sonido con Wi-Fi  2 Altavoces de 18 W RMS  subwoofer de 36 W RMS Integrado  Bluetooth y Compatible con DLNA](https://www.amazon.es/dp/B01BMC4IFC/?tag=redken-21) a precio de oferta de 76.78 EUR (original: 76.78 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/21B9OIvjolL._SL200_.jpg)](https://www.amazon.es/dp/B01BMC4IFC/?tag=redken-21) 
  
