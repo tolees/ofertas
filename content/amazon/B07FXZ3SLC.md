@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FXZ3SLC: Ofertón en Amazon para Corsair K70 RGB MK.2 - Teclado mecánico  
- date: 2019/07/22 11:27:14 +0000 
+ date: 2019/07/23 12:54:38 +0000 
  comments: true 
  tags: B07FXZ3SLC 
  category: ofertas 

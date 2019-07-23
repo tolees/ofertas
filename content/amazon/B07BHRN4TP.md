@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BHRN4TP: Ofertón en Amazon para Hisense H32A5000 - TV Hisense 32" Full H 
- date: 2019/07/22 10:20:58 +0000 
+ date: 2019/07/23 14:00:29 +0000 
  comments: true 
  tags: B07BHRN4TP 
  category: ofertas 
