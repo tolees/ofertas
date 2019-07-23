@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071VKMC9R: Ofertón en Amazon para New Balance MJ81508  Chaqueta Deportiva  
- date: 2019/07/22 10:17:08 +0000 
+ date: 2019/07/23 11:37:52 +0000 
  comments: true 
  tags: B071VKMC9R 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [New Balance MJ81508  Chaqueta Deportiva para Hombre  Gris  Athletic Grey AG   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B071VKMC9R/?tag=redken-21) a precio de oferta de 22.25 EUR (original: 22.25 EUR) en el siguiente enlace! 
+ Tienes [New Balance MJ81508  Chaqueta Deportiva para Hombre  Gris  Athletic Grey AG   Medium  Tamaño del fabricante:M ](https://www.amazon.es/dp/B071VKMC9R/?tag=redken-21) a precio de oferta de 25.16 EUR (original: 25.16 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Ulx7EDBUL._SL200_.jpg)](https://www.amazon.es/dp/B071VKMC9R/?tag=redken-21) 
  

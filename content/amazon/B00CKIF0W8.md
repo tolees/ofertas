@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CKIF0W8: Ofertón en Amazon para Termómetro Higrometro LCD Pantalla Medid 
- date: 2019/07/22 10:27:55 +0000 
+ date: 2019/07/23 12:11:54 +0000 
  comments: true 
  tags: B00CKIF0W8 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Termómetro Higrometro LCD Pantalla Medidor Temperatura](https://www.amazon.es/dp/B00CKIF0W8/?tag=redken-21) a precio de oferta de 1.11 EUR (original: 1.11 EUR) en el siguiente enlace! 
+ Tienes [Termómetro Higrometro LCD Pantalla Medidor Temperatura](https://www.amazon.es/dp/B00CKIF0W8/?tag=redken-21) a precio de oferta de 1.12 EUR (original: 1.12 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/416i7m8HKxL._SL200_.jpg)](https://www.amazon.es/dp/B00CKIF0W8/?tag=redken-21) 
  
