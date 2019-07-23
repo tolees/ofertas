@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DBXJFJJ: Ofertón en Amazon para Altavoces Bluetooth  BARA S5 Bluetooth 4 
- date: 2019/07/22 16:34:53 +0000 
+ date: 2019/07/23 18:30:38 +0000 
  comments: true 
  tags: B07DBXJFJJ 
  category: ofertas 

@@ -1,0 +1,18 @@
+--- 
+ layout: post 
+ title: B01NAVNCKR: Ofertón en Amazon para adidas X 17.1 FG  Zapatillas Deportivas  
+ date: 2019/07/23 17:10:56 +0000 
+ comments: true 
+ tags: B01NAVNCKR 
+ category: ofertas 
+ author: ring 
+ description: 
+ --- 
+ 
+ Tienes [adidas X 17.1 FG  Zapatillas Deportivas para Interior para Hombre   Multicolour Yellow   46 EU](https://www.amazon.es/dp/B01NAVNCKR/?tag=redken-21) a precio de oferta de 60.94 EUR (original: 60.94 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51T-Rc6K9aL._SL200_.jpg)](https://www.amazon.es/dp/B01NAVNCKR/?tag=redken-21) 
+ 
+ [Accede a la oferta!!](https://www.amazon.es/dp/B01NAVNCKR/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

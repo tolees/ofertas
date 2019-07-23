@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0732TRXBB: Ofertón en Amazon para HP 24w - Monitor 24"  Full HD  1920 x 10 
- date: 2019/07/22 11:09:29 +0000 
+ date: 2019/07/23 18:59:54 +0000 
  comments: true 
  tags: B0732TRXBB 
  category: ofertas 

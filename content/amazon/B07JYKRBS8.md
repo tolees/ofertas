@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JYKRBS8: Ofertón en Amazon para adidas I-5923 W  Zapatillas de Gimnasia  
- date: 2019/07/22 18:49:35 +0000 
+ date: 2019/07/23 18:51:28 +0000 
  comments: true 
  tags: B07JYKRBS8 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [adidas I-5923 W  Zapatillas de Gimnasia para Mujer  38 EU  Morado  Periwinkle/Clear Mint/Core Black ](https://www.amazon.es/dp/B07JYKRBS8/?tag=redken-21) a precio de oferta de 31.71 EUR (original: 129.95 EUR) en el siguiente enlace! 
+ Tienes [adidas I-5923 W  Zapatillas de Gimnasia para Mujer  38 EU  Morado  Periwinkle/Clear Mint/Core Black ](https://www.amazon.es/dp/B07JYKRBS8/?tag=redken-21) a precio de oferta de 29.8 EUR (original: 129.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41TEcMHXGAL._SL200_.jpg)](https://www.amazon.es/dp/B07JYKRBS8/?tag=redken-21) 
  
