@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VAG6Y7G: Ofertón en Amazon para Panasonic KX-TGD312 - Teléfono fijo inal 
- date: 2019/07/23 13:42:39 +0000 
+ date: 2019/07/24 19:21:53 +0000 
  comments: true 
  tags: B00VAG6Y7G 
  category: ofertas 

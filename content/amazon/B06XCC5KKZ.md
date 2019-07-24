@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XCC5KKZ: Ofertón en Amazon para find. Top Corto de Flores con Escote Bar 
- date: 2019/07/23 17:35:39 +0000 
+ date: 2019/07/24 20:00:36 +0000 
  comments: true 
  tags: B06XCC5KKZ 
  category: ofertas 

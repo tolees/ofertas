@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00U77CYLE: Ofertón en Amazon para Logitech ConferenceCam Connect - Sistema 
- date: 2019/07/23 11:31:04 +0000 
+ date: 2019/07/24 19:55:40 +0000 
  comments: true 
  tags: B00U77CYLE 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Logitech ConferenceCam Connect - Sistema de videoconferencia](https://www.amazon.es/dp/B00U77CYLE/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [Logitech ConferenceCam Connect - Sistema de videoconferencia](https://www.amazon.es/dp/B00U77CYLE/?tag=redken-21) a precio de oferta de 319.98 EUR (original: 599 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31fcFLatynL._SL200_.jpg)](https://www.amazon.es/dp/B00U77CYLE/?tag=redken-21) 
  
