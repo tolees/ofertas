@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RVMQ3SX: Ofertón en Amazon para Rampow Cable USB C a Lightning [Apple MF 
- date: 2019/07/22 17:15:54 +0000 
+ date: 2019/07/24 12:01:24 +0000 
  comments: true 
  tags: B07RVMQ3SX 
  category: ofertas 

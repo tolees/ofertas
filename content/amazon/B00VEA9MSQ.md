@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VEA9MSQ: Ofertón en Amazon para Samsung Serie Xpress SL-M2026W - Impreso 
- date: 2019/07/22 11:53:41 +0000 
+ date: 2019/07/24 13:25:50 +0000 
  comments: true 
  tags: B00VEA9MSQ 
  category: ofertas 

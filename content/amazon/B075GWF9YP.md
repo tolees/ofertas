@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GWF9YP: Ofertón en Amazon para LEGO City Police - Montaña: Arresto  601 
- date: 2019/07/23 10:17:59 +0000 
+ date: 2019/07/24 12:19:45 +0000 
  comments: true 
  tags: B075GWF9YP 
  category: ofertas 
@@ -11,7 +11,7 @@
  
  Tienes [LEGO City Police - Montaña: Arresto  60173 ](https://www.amazon.es/dp/B075GWF9YP/?tag=redken-21) a precio de oferta de 39.99 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/61seD94BAtL._SL200_.jpg)](https://www.amazon.es/dp/B075GWF9YP/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/619FhOQuq8L._SL200_.jpg)](https://www.amazon.es/dp/B075GWF9YP/?tag=redken-21) 
  
  [Accede a la oferta!!](https://www.amazon.es/dp/B075GWF9YP/?tag=redken-21)
 

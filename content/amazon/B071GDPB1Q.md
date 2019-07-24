@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071GDPB1Q: Ofertón en Amazon para adidas Campus  Zapatillas para Hombre  R 
- date: 2019/07/22 10:02:38 +0000 
+ date: 2019/07/24 11:09:02 +0000 
  comments: true 
  tags: B071GDPB1Q 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [adidas Campus  Zapatillas para Hombre  Rojo  Buruni / Ftwbla / Blatiz   42 EU](https://www.amazon.es/dp/B071GDPB1Q/?tag=redken-21) a precio de oferta de 26.95 EUR (original: 35.95 EUR) en el siguiente enlace! 
+ Tienes [adidas Campus  Zapatillas para Hombre  Rojo  Buruni / Ftwbla / Blatiz   42 EU](https://www.amazon.es/dp/B071GDPB1Q/?tag=redken-21) a precio de oferta de 27 EUR (original: 27 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/4171du4vjWL._SL200_.jpg)](https://www.amazon.es/dp/B071GDPB1Q/?tag=redken-21) 
  

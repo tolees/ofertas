@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VFWSBQ7: Ofertón en Amazon para gensit Nueva Manta de protección Solar E 
- date: 2019/07/23 09:36:17 +0000 
+ date: 2019/07/24 12:37:41 +0000 
  comments: true 
  tags: B07VFWSBQ7 
  category: ofertas 
