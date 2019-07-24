@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072QDPC6B: Ofertón en Amazon para RED WAGON Zapatillas  Back To School  pa 
- date: 2019/07/23 16:16:33 +0000 
+ date: 2019/07/24 16:17:43 +0000 
  comments: true 
  tags: B072QDPC6B 
  category: ofertas 

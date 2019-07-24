@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PXBSWVJ: Ofertón en Amazon para Lecone Cargador inalámbrico con Tela  10 
- date: 2019/07/23 11:38:40 +0000 
+ date: 2019/07/24 18:01:14 +0000 
  comments: true 
  tags: B07PXBSWVJ 
  category: ofertas 

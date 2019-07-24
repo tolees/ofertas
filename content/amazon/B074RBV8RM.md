@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074RBV8RM: Ofertón en Amazon para GLW Super Brillante 30W LED RGB Inundaci 
- date: 2019/07/23 09:49:45 +0000 
+ date: 2019/07/24 15:21:03 +0000 
  comments: true 
  tags: B074RBV8RM 
  category: ofertas 

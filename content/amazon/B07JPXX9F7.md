@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JPXX9F7: Ofertón en Amazon para ZoeeTree S8 - Altavoz Bluetooth Portatil 
- date: 2019/07/22 11:42:51 +0000 
+ date: 2019/07/24 18:40:41 +0000 
  comments: true 
  tags: B07JPXX9F7 
  category: ofertas 

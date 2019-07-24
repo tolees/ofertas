@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NCB8CR2: Ofertón en Amazon para Pepe Jeans Elia Camiseta  Negro  Black 9 
- date: 2019/07/22 17:05:37 +0000 
+ date: 2019/07/24 16:54:29 +0000 
  comments: true 
  tags: B07NCB8CR2 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Pepe Jeans Elia Camiseta  Negro  Black 999   X-Large para Mujer](https://www.amazon.es/dp/B07NCB8CR2/?tag=redken-21) a precio de oferta de 13.03 EUR (original: 29.9 EUR) en el siguiente enlace! 
+ Tienes [Pepe Jeans Elia Camiseta  Negro  Black 999   X-Large para Mujer](https://www.amazon.es/dp/B07NCB8CR2/?tag=redken-21) a precio de oferta de 12.59 EUR (original: 29.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL200_.jpg)](https://www.amazon.es/dp/B07NCB8CR2/?tag=redken-21) 
  

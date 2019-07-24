@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQS7HVW: Ofertón en Amazon para Bluetooth 5.0 Auriculares magnético Blue 
- date: 2019/07/23 11:07:58 +0000 
+ date: 2019/07/24 15:04:17 +0000 
  comments: true 
  tags: B07KQS7HVW 
  category: ofertas 

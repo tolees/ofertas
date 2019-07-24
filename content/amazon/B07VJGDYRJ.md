@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VJGDYRJ: Ofertón en Amazon para Tomasa Placa de natación EVA Kickboard P 
- date: 2019/07/23 09:54:38 +0000 
+ date: 2019/07/24 17:41:05 +0000 
  comments: true 
  tags: B07VJGDYRJ 
  category: ofertas 

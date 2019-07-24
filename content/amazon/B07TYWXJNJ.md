@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TYWXJNJ: Ofertón en Amazon para Fantiff Training Bolsa de boxeo inflable 
- date: 2019/07/23 16:29:39 +0000 
+ date: 2019/07/24 17:06:32 +0000 
  comments: true 
  tags: B07TYWXJNJ 
  category: ofertas 

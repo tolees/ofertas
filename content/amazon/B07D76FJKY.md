@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D76FJKY: Ofertón en Amazon para Levi s 310 Shaping Super Skinny  Vaquero 
- date: 2019/07/23 14:14:55 +0000 
+ date: 2019/07/24 17:25:28 +0000 
  comments: true 
  tags: B07D76FJKY 
  category: ofertas 

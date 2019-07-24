@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0087OTTAS: Ofertón en Amazon para Bosch PST 650 - Sierra de calar 240V  50 
- date: 2019/07/22 17:41:17 +0000 
+ date: 2019/07/24 17:53:18 +0000 
  comments: true 
  tags: B0087OTTAS 
  category: ofertas 

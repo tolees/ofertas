@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GQBNPL: Ofertón en Amazon para LEGO Star Wars - Speeder terrestre de Mo 
- date: 2019/07/23 10:23:29 +0000 
+ date: 2019/07/24 14:03:19 +0000 
  comments: true 
  tags: B075GQBNPL 
  category: ofertas 
@@ -11,7 +11,7 @@
  
  Tienes [LEGO Star Wars - Speeder terrestre de Moloch  75210 ](https://www.amazon.es/dp/B075GQBNPL/?tag=redken-21) a precio de oferta de 39.9 EUR (original: 55.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51BXWCm4lmL._SL200_.jpg)](https://www.amazon.es/dp/B075GQBNPL/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51RtnllTfQL._SL200_.jpg)](https://www.amazon.es/dp/B075GQBNPL/?tag=redken-21) 
  
  [Accede a la oferta!!](https://www.amazon.es/dp/B075GQBNPL/?tag=redken-21)
 

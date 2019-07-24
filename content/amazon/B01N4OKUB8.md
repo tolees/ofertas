@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N4OKUB8: Ofertón en Amazon para Rampow Cable USB Tipo C - Cable USB C a  
- date: 2019/07/22 17:23:34 +0000 
+ date: 2019/07/24 14:42:47 +0000 
  comments: true 
  tags: B01N4OKUB8 
  category: ofertas 

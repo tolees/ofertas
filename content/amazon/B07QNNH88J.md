@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QNNH88J: Ofertón en Amazon para Lecone Ventilador de Mano Plegable Venti 
- date: 2019/07/23 11:37:13 +0000 
+ date: 2019/07/24 15:15:31 +0000 
  comments: true 
  tags: B07QNNH88J 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N1TD7LM: Ofertón en Amazon para Air Wick Flor Freshmatic - Ambientador p 
- date: 2019/07/23 12:53:39 +0000 
+ date: 2019/07/24 17:53:06 +0000 
  comments: true 
  tags: B07N1TD7LM 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Air Wick Flor Freshmatic - Ambientador para el hogar  recambio fragancia  pack de 3 x 250 ml  total de 750 ml](https://www.amazon.es/dp/B07N1TD7LM/?tag=redken-21) a precio de oferta de 8.69 EUR (original: 8.69 EUR) en el siguiente enlace! 
+ Tienes [Air Wick Flor Freshmatic - Ambientador para el hogar  recambio fragancia  pack de 3 x 250 ml  total de 750 ml](https://www.amazon.es/dp/B07N1TD7LM/?tag=redken-21) a precio de oferta de 12 EUR (original: 12 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51od-zmoaML._SL200_.jpg)](https://www.amazon.es/dp/B07N1TD7LM/?tag=redken-21) 
  
