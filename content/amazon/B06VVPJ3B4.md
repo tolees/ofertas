@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06VVPJ3B4: Ofertón en Amazon para LEGO Star Wars - BB-8  Maqueta de Juguet 
- date: 2019/07/24 12:24:43 +0000 
+ date: 2019/07/25 15:43:47 +0000 
  comments: true 
  tags: B06VVPJ3B4 
  category: ofertas 

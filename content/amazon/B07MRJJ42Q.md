@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MRJJ42Q: Ofertón en Amazon para Seagate Backup Plus Slim 2 TB  Disco dur 
- date: 2019/07/23 10:11:48 +0000 
+ date: 2019/07/25 20:04:51 +0000 
  comments: true 
  tags: B07MRJJ42Q 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CRT1WDK: Ofertón en Amazon para Philips 278E9QJAB/00 - Monitor LCD de 27 
- date: 2019/07/24 17:54:35 +0000 
+ date: 2019/07/25 20:00:34 +0000 
  comments: true 
  tags: B07CRT1WDK 
  category: ofertas 

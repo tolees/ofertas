@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KECKDOW: Ofertón en Amazon para VIBOX Vision 2L - Ordenador para Gaming  
- date: 2019/07/22 18:13:26 +0000 
+ date: 2019/07/25 15:01:36 +0000 
  comments: true 
  tags: B00KECKDOW 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [VIBOX Vision 2L - Ordenador para Gaming  AMD A4-6300  16 GB de RAM  1 TB de Disco Duro  AMD Radeon HD 8370D  Color neón Rojo](https://www.amazon.es/dp/B00KECKDOW/?tag=redken-21) a precio de oferta de 273.08 EUR (original: 273.08 EUR) en el siguiente enlace! 
+ Tienes [VIBOX Vision 2L - Ordenador para Gaming  AMD A4-6300  16 GB de RAM  1 TB de Disco Duro  AMD Radeon HD 8370D  Color neón Rojo](https://www.amazon.es/dp/B00KECKDOW/?tag=redken-21) a precio de oferta de 236.63 EUR (original: 236.63 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51pg2TKDusL._SL200_.jpg)](https://www.amazon.es/dp/B00KECKDOW/?tag=redken-21) 
  

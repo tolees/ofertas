@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KLM1GKE: Ofertón en Amazon para ASUS DUAL-GTX1060-3G - Tarjeta gráfica   
- date: 2019/07/24 09:59:33 +0000 
+ date: 2019/07/25 19:09:09 +0000 
  comments: true 
  tags: B01KLM1GKE 
  category: ofertas 

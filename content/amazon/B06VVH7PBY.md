@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06VVH7PBY: Ofertón en Amazon para LEGO Ninjago - Robot del Fuego  70615  
- date: 2019/07/24 12:23:04 +0000 
+ date: 2019/07/25 15:43:08 +0000 
  comments: true 
  tags: B06VVH7PBY 
  category: ofertas 

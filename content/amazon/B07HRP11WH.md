@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HRP11WH: Ofertón en Amazon para Romoss Bateria Externa para Movil  Power 
- date: 2019/07/24 17:49:01 +0000 
+ date: 2019/07/25 18:11:41 +0000 
  comments: true 
  tags: B07HRP11WH 
  category: ofertas 
