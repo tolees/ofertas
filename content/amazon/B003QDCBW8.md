@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003QDCBW8: Ofertón en Amazon para Patron XO Café Tequila - 700 ml 
- date: 2019/07/23 21:13:36 +0000 
+ date: 2019/07/24 21:25:17 +0000 
  comments: true 
  tags: B003QDCBW8 
  category: ofertas 

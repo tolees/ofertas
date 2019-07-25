@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078STRHBX: Ofertón en Amazon para SanDisk Extreme - Portable SSD  1 TB  ha 
- date: 2019/07/23 09:08:41 +0000 
+ date: 2019/07/24 22:02:59 +0000 
  comments: true 
  tags: B078STRHBX 
  category: ofertas 

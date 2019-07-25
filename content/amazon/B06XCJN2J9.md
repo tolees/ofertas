@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XCJN2J9: Ofertón en Amazon para find. Top de Encaje y Cuadros Vichy para 
- date: 2019/07/23 14:47:02 +0000 
+ date: 2019/07/24 20:46:33 +0000 
  comments: true 
  tags: B06XCJN2J9 
  category: ofertas 

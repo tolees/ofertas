@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MGPH9R9: Ofertón en Amazon para Ballistix Sport LT BLS2K8G4D30AESBK Kit  
- date: 2019/07/22 17:20:03 +0000 
+ date: 2019/07/24 22:12:07 +0000 
  comments: true 
  tags: B07MGPH9R9 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Ballistix Sport LT BLS2K8G4D30AESBK Kit de memoria RAM de 16GB  8GBx2   DDR4  3000 MT/s  PC4-24000  CL15  Single Rank x8  DIMM  288-Pin  Gris](https://www.amazon.es/dp/B07MGPH9R9/?tag=redken-21) a precio de oferta de 74 EUR (original: 123.99 EUR) en el siguiente enlace! 
+ Tienes [Ballistix Sport LT BLS2K8G4D30AESBK Kit de memoria RAM de 16GB  8GBx2   DDR4  3000 MT/s  PC4-24000  CL15  Single Rank x8  DIMM  288-Pin  Gris](https://www.amazon.es/dp/B07MGPH9R9/?tag=redken-21) a precio de oferta de 79.99 EUR (original: 123.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41wuCvOGR0L._SL200_.jpg)](https://www.amazon.es/dp/B07MGPH9R9/?tag=redken-21) 
  
