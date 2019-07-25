@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HH9QAT2: Ofertón en Amazon para Kärcher K2 Basic - Hidrolimpiadora de al 
- date: 2019/07/22 16:27:05 +0000 
+ date: 2019/07/25 13:18:25 +0000 
  comments: true 
  tags: B00HH9QAT2 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Kärcher K2 Basic - Hidrolimpiadora de alta presión para exteriores 110 bar  1400 W  360 L/h  1.673-159.0 ](https://www.amazon.es/dp/B00HH9QAT2/?tag=redken-21) a precio de oferta de 59 EUR (original: 59 EUR) en el siguiente enlace! 
+ Tienes [Kärcher K2 Basic - Hidrolimpiadora de alta presión para exteriores 110 bar  1400 W  360 L/h  1.673-159.0 ](https://www.amazon.es/dp/B00HH9QAT2/?tag=redken-21) a precio de oferta de 59 EUR (original: 79 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Kz8KQTPtL._SL200_.jpg)](https://www.amazon.es/dp/B00HH9QAT2/?tag=redken-21) 
  

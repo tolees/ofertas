@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HGTXF95: Ofertón en Amazon para JBL Tune500 - Auriculares supraaurales d 
- date: 2019/07/24 13:10:49 +0000 
+ date: 2019/07/25 13:32:06 +0000 
  comments: true 
  tags: B07HGTXF95 
  category: ofertas 

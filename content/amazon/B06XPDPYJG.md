@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XPDPYJG: Ofertón en Amazon para find. Vaqueros Rectos Ajustados para Hom 
- date: 2019/07/24 11:34:54 +0000 
+ date: 2019/07/25 12:56:23 +0000 
  comments: true 
  tags: B06XPDPYJG 
  category: ofertas 
