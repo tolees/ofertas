@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MVZVMQ8: Ofertón en Amazon para WD My Passport Go 500 GB  disco duro sól 
- date: 2019/07/24 18:31:26 +0000 
+ date: 2019/07/25 21:51:08 +0000 
  comments: true 
  tags: B07MVZVMQ8 
  category: ofertas 
