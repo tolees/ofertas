@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VFIWFG8: Ofertón en Amazon para Samsung Galaxy Tab A T555N 9.7 LTE - Tab 
- date: 2019/07/23 09:06:52 +0000 
+ date: 2019/07/25 07:38:03 +0000 
  comments: true 
  tags: B00VFIWFG8 
  category: ofertas 

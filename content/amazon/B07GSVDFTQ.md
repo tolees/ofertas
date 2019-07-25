@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GSVDFTQ: Ofertón en Amazon para GoPro  HERO7  Black  -  Cámara  de  acci 
- date: 2019/07/22 14:04:57 +0000 
+ date: 2019/07/25 08:26:50 +0000 
  comments: true 
  tags: B07GSVDFTQ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [GoPro  HERO7  Black  -  Cámara  de  acción   sumergible hasta 10m  pantalla  táctil   vídeo  4K  HD   fotos  de  12  MP   transmisión  en  directo  y  estabilizador   color negro](https://www.amazon.es/dp/B07GSVDFTQ/?tag=redken-21) a precio de oferta de 379 EUR (original: 429.99 EUR) en el siguiente enlace! 
+ Tienes [GoPro  HERO7  Black  -  Cámara  de  acción   sumergible hasta 10m  pantalla  táctil   vídeo  4K  HD   fotos  de  12  MP   transmisión  en  directo  y  estabilizador   color negro](https://www.amazon.es/dp/B07GSVDFTQ/?tag=redken-21) a precio de oferta de 378.99 EUR (original: 429.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31fRgbwaVGL._SL200_.jpg)](https://www.amazon.es/dp/B07GSVDFTQ/?tag=redken-21) 
  

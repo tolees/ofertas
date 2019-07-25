@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G1TBYMV: Ofertón en Amazon para Umi. Essentials Higrómetro Digital Termó 
- date: 2019/07/22 17:39:10 +0000 
+ date: 2019/07/25 08:49:46 +0000 
  comments: true 
  tags: B07G1TBYMV 
  category: ofertas 

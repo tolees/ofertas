@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CFDRF: Ofertón en Amazon para LEGO Juniors  - Persecución por los teja 
- date: 2019/07/24 21:56:53 +0000 
+ date: 2019/07/24 23:36:49 +0000 
  comments: true 
  tags: B0765CFDRF 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Juniors  - Persecución por los tejados de Elastigirl  10759 ](https://www.amazon.es/dp/B0765CFDRF/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [LEGO Juniors  - Persecución por los tejados de Elastigirl  10759 ](https://www.amazon.es/dp/B0765CFDRF/?tag=redken-21) a precio de oferta de 25.26 EUR (original: 26.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51rnn9KxkfL._SL200_.jpg)](https://www.amazon.es/dp/B0765CFDRF/?tag=redken-21) 
  
