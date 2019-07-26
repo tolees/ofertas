@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Q1ZPMK2: Ofertón en Amazon para Lenovo Ideapad 330-15IKBR - Ordenador Po 
- date: 2019/07/25 11:57:48 +0000 
+ date: 2019/07/26 15:59:48 +0000 
  comments: true 
  tags: B07Q1ZPMK2 
  category: ofertas 

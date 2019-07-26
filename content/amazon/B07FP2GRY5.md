@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FP2GRY5: Ofertón en Amazon para LEGO Creator - Aventura en Helicóptero   
- date: 2019/07/25 22:38:06 +0000 
+ date: 2019/07/26 16:02:58 +0000 
  comments: true 
  tags: B07FP2GRY5 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Creator - Aventura en Helicóptero  juguete de vehículo para construir y de aventuras aéreas  31092 ](https://www.amazon.es/dp/B07FP2GRY5/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [LEGO Creator - Aventura en Helicóptero  juguete de vehículo para construir y de aventuras aéreas  31092 ](https://www.amazon.es/dp/B07FP2GRY5/?tag=redken-21) a precio de oferta de 9.99 EUR (original: 9.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51vWGrlBxqL._SL200_.jpg)](https://www.amazon.es/dp/B07FP2GRY5/?tag=redken-21) 
  
