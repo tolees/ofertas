@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GYNXD1: Ofertón en Amazon para LEGO Technic - Barco de Competición  Jug 
- date: 2019/07/25 22:40:02 +0000 
+ date: 2019/07/26 19:59:54 +0000 
  comments: true 
  tags: B075GYNXD1 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Technic - Barco de Competición  Juguete de Construcción 2 en 1  42074 ](https://www.amazon.es/dp/B075GYNXD1/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [LEGO Technic - Barco de Competición  Juguete de Construcción 2 en 1  42074 ](https://www.amazon.es/dp/B075GYNXD1/?tag=redken-21) a precio de oferta de 29.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51ww14VGvlL._SL200_.jpg)](https://www.amazon.es/dp/B075GYNXD1/?tag=redken-21) 
  
