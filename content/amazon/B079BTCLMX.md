@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079BTCLMX: Ofertón en Amazon para JACK & JONES Jjejeans Print tee SS Crew  
- date: 2019/07/25 09:10:33 +0000 
+ date: 2019/07/26 12:23:05 +0000 
  comments: true 
  tags: B079BTCLMX 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [JACK & JONES Jjejeans Print tee SS Crew Neck Noos Camiseta  Gris  Light Grey Detail: Slim Fit-Melange   X-Small para Hombre](https://www.amazon.es/dp/B079BTCLMX/?tag=redken-21) a precio de oferta de 5.95 EUR (original: 12.99 EUR) en el siguiente enlace! 
+ Tienes [JACK & JONES Jjejeans Print tee SS Crew Neck Noos Camiseta  Gris  Light Grey Detail: Slim Fit-Melange   X-Small para Hombre](https://www.amazon.es/dp/B079BTCLMX/?tag=redken-21) a precio de oferta de 6.95 EUR (original: 12.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41JhshZ7XSL._SL200_.jpg)](https://www.amazon.es/dp/B079BTCLMX/?tag=redken-21) 
  

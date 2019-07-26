@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BQG3WCC: Ofertón en Amazon para LG 65UK6750PLD - Smart TV de 164 cm  65" 
- date: 2019/07/25 07:21:43 +0000 
+ date: 2019/07/26 09:54:52 +0000 
  comments: true 
  tags: B07BQG3WCC 
  category: ofertas 

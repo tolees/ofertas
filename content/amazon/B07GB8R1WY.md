@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GB8R1WY: Ofertón en Amazon para Casio Reloj Analógico para Hombre de Cua 
- date: 2019/07/24 19:35:24 +0000 
+ date: 2019/07/26 10:11:05 +0000 
  comments: true 
  tags: B07GB8R1WY 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1303PD-1FVEF](https://www.amazon.es/dp/B07GB8R1WY/?tag=redken-21) a precio de oferta de 37.35 EUR (original: 37.35 EUR) en el siguiente enlace! 
+ Tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable MTP-1303PD-1FVEF](https://www.amazon.es/dp/B07GB8R1WY/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ZX7hrDAiL._SL200_.jpg)](https://www.amazon.es/dp/B07GB8R1WY/?tag=redken-21) 
  
