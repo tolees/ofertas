@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DTGXKK7: Ofertón en Amazon para AOC C27G1 - Monitor Gaming Curvo de 27"  
- date: 2019/07/25 09:48:59 +0000 
+ date: 2019/07/26 15:06:29 +0000 
  comments: true 
  tags: B07DTGXKK7 
  category: ofertas 
