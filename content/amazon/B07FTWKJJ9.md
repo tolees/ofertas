@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FTWKJJ9: Ofertón en Amazon para Lee Scarlett Cropped Vaqueros Skinny  Az 
- date: 2019/07/24 12:00:28 +0000 
+ date: 2019/07/25 22:47:20 +0000 
  comments: true 
  tags: B07FTWKJJ9 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Lee Scarlett Cropped Vaqueros Skinny  Azul  High Blue Yon   25W / 33L para Mujer](https://www.amazon.es/dp/B07FTWKJJ9/?tag=redken-21) a precio de oferta de 15.41 EUR (original: 99.95 EUR) en el siguiente enlace! 
+ Tienes [Lee Scarlett Cropped Vaqueros Skinny  Azul  High Blue Yon   25W / 33L para Mujer](https://www.amazon.es/dp/B07FTWKJJ9/?tag=redken-21) a precio de oferta de 14.79 EUR (original: 99.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41%2B0GXPqwkL._SL200_.jpg)](https://www.amazon.es/dp/B07FTWKJJ9/?tag=redken-21) 
  

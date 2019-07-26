@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GYNXD1: Ofertón en Amazon para LEGO Technic - Barco de Competición  Jug 
- date: 2019/07/24 22:03:34 +0000 
+ date: 2019/07/25 22:40:02 +0000 
  comments: true 
  tags: B075GYNXD1 
  category: ofertas 

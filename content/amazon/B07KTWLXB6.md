@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTWLXB6: Ofertón en Amazon para LEGO Ninjago - Shuricóptero Set de const 
- date: 2019/07/25 00:07:38 +0000 
+ date: 2019/07/26 00:24:49 +0000 
  comments: true 
  tags: B07KTWLXB6 
  category: ofertas 
