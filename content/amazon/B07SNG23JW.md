@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SNG23JW: Ofertón en Amazon para Xiaomi Mi Smart Band 4 - Tracker de acti 
- date: 2019/07/26 11:56:22 +0000 
+ date: 2019/07/26 12:54:47 +0000 
  comments: true 
  tags: B07SNG23JW 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Xiaomi Mi Smart Band 4 - Tracker de actividad física con medidor de frecuencia cardíaca - Negro - Unisex](https://www.amazon.es/dp/B07SNG23JW/?tag=redken-21) a precio de oferta de 33 EUR (original: 34.99 EUR) en el siguiente enlace! 
+ Tienes [Xiaomi Mi Smart Band 4 - Tracker de actividad física con medidor de frecuencia cardíaca - Negro - Unisex](https://www.amazon.es/dp/B07SNG23JW/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B07SNG23JW/?tag=redken-21) 
  

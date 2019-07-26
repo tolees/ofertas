@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BIGSRLS: Ofertón en Amazon para WD My Cloud EX2 Ultra - Unidad de Almace 
- date: 2019/07/24 20:30:02 +0000 
+ date: 2019/07/26 16:33:05 +0000 
  comments: true 
  tags: B01BIGSRLS 
  category: ofertas 
