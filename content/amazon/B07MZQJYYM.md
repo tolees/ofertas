@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MZQJYYM: Ofertón en Amazon para MYPIN 4k @ 60fps HD HDR USB 3.0 Captura  
- date: 2019/07/25 08:19:57 +0000 
+ date: 2019/07/26 18:46:33 +0000 
  comments: true 
  tags: B07MZQJYYM 
  category: ofertas 

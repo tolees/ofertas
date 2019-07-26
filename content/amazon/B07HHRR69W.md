@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HHRR69W: Ofertón en Amazon para WACOM Cintiq Pro 32 Monitor Interactivo  
- date: 2019/07/25 07:38:27 +0000 
+ date: 2019/07/26 18:19:26 +0000 
  comments: true 
  tags: B07HHRR69W 
  category: ofertas 

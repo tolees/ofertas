@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00PWQUDCC: Ofertón en Amazon para Lacoste Eau De Lacoste L.12.12 Blanc - A 
- date: 2019/07/25 13:13:50 +0000 
+ date: 2019/07/26 19:16:44 +0000 
  comments: true 
  tags: B00PWQUDCC 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Lacoste Eau De Lacoste L.12.12 Blanc - Agua de toilette  175 ml](https://www.amazon.es/dp/B00PWQUDCC/?tag=redken-21) a precio de oferta de 36.3 EUR (original: 87 EUR) en el siguiente enlace! 
+ Tienes [Lacoste Eau De Lacoste L.12.12 Blanc - Agua de toilette  175 ml](https://www.amazon.es/dp/B00PWQUDCC/?tag=redken-21) a precio de oferta de 45 EUR (original: 87 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/21XNWiRoWdL._SL200_.jpg)](https://www.amazon.es/dp/B00PWQUDCC/?tag=redken-21) 
  

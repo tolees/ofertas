@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06W2KC1QS: Ofertón en Amazon para LEGO Star Wars - Tie Fighter de Kylo Ren 
- date: 2019/07/25 17:55:05 +0000 
+ date: 2019/07/26 18:23:18 +0000 
  comments: true 
  tags: B06W2KC1QS 
  category: ofertas 

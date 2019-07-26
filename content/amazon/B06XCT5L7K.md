@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XCT5L7K: Ofertón en Amazon para Honor 8 Pro - Smartphone libre de 5.7"   
- date: 2019/07/26 06:24:25 +0000 
+ date: 2019/07/26 18:34:41 +0000 
  comments: true 
  tags: B06XCT5L7K 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Honor 8 Pro - Smartphone libre de 5.7"  6 GB de RAM  64 GB de memoria interna  Emotion UI5.0 compatible con Android 7.0  Kirn 960 octa core  cámara de 12 MP + 12 MP  frontal 8 MP   color azul](https://www.amazon.es/dp/B06XCT5L7K/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [Honor 8 Pro - Smartphone libre de 5.7"  6 GB de RAM  64 GB de memoria interna  Emotion UI5.0 compatible con Android 7.0  Kirn 960 octa core  cámara de 12 MP + 12 MP  frontal 8 MP   color azul](https://www.amazon.es/dp/B06XCT5L7K/?tag=redken-21) a precio de oferta de 549 EUR (original: 549 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41lCEUhOoXL._SL200_.jpg)](https://www.amazon.es/dp/B06XCT5L7K/?tag=redken-21) 
  
