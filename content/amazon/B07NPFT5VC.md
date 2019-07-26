@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NPFT5VC: Ofertón en Amazon para Xiaomi Mi LED Desk Lamp  White  Talla Un 
- date: 2019/07/25 06:17:36 +0000 
+ date: 2019/07/26 06:43:16 +0000 
  comments: true 
  tags: B07NPFT5VC 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Xiaomi Mi LED Desk Lamp  White  Talla Unica](https://www.amazon.es/dp/B07NPFT5VC/?tag=redken-21) a precio de oferta de 20 EUR (original: 36 EUR) en el siguiente enlace! 
+ Tienes [Xiaomi Mi LED Desk Lamp  White  Talla Unica](https://www.amazon.es/dp/B07NPFT5VC/?tag=redken-21) a precio de oferta de 20 EUR (original: 20 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/21HfzD9a0yL._SL200_.jpg)](https://www.amazon.es/dp/B07NPFT5VC/?tag=redken-21) 
  

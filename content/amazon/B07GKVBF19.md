@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GKVBF19: Ofertón en Amazon para Xiaomi Mi 8 - Smartphone de 6.21"  Octa- 
- date: 2019/07/24 22:58:15 +0000 
+ date: 2019/07/26 08:58:06 +0000 
  comments: true 
  tags: B07GKVBF19 
  category: ofertas 

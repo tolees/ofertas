@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JNX63DG: Ofertón en Amazon para DAM DMZ055BK - Brazalete Inteligente Blu 
- date: 2019/07/24 23:16:35 +0000 
+ date: 2019/07/26 09:02:49 +0000 
  comments: true 
  tags: B07JNX63DG 
  category: ofertas 

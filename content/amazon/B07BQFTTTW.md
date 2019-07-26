@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BQFTTTW: Ofertón en Amazon para Yesterday Origins 
- date: 2019/07/24 18:29:41 +0000 
+ date: 2019/07/26 06:59:16 +0000 
  comments: true 
  tags: B07BQFTTTW 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Yesterday Origins](https://www.amazon.es/dp/B07BQFTTTW/?tag=redken-21) a precio de oferta de 23.9 EUR (original: 23.93 EUR) en el siguiente enlace! 
+ Tienes [Yesterday Origins](https://www.amazon.es/dp/B07BQFTTTW/?tag=redken-21) a precio de oferta de 23.75 EUR (original: 23.76 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51qARvxUVaL._SL200_.jpg)](https://www.amazon.es/dp/B07BQFTTTW/?tag=redken-21) 
  

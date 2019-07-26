@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HJWK6JV: Ofertón en Amazon para Durex Red - Preservativos Naturales - 20 
- date: 2019/07/23 10:21:54 +0000 
+ date: 2019/07/26 07:55:49 +0000 
  comments: true 
  tags: B07HJWK6JV 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Durex Red - Preservativos Naturales - 20 unidades](https://www.amazon.es/dp/B07HJWK6JV/?tag=redken-21) a precio de oferta de 12.51 EUR (original: 22.6 EUR) en el siguiente enlace! 
+ Tienes [Durex Red - Preservativos Naturales - 20 unidades](https://www.amazon.es/dp/B07HJWK6JV/?tag=redken-21) a precio de oferta de 14.3 EUR (original: 22.6 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/4175MWBDL5L._SL200_.jpg)](https://www.amazon.es/dp/B07HJWK6JV/?tag=redken-21) 
  

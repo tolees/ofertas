@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CW4CM5C: Ofertón en Amazon para  Yi M1 4 K vídeo 20 MP Mirrorless cámara 
- date: 2019/07/23 11:10:27 +0000 
+ date: 2019/07/26 08:07:16 +0000 
  comments: true 
  tags: B01CW4CM5C 
  category: ofertas 

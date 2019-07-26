@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HYTYYNR: Ofertón en Amazon para Lenovo Legion Y530 - Ordenador portátil  
- date: 2019/07/24 15:56:26 +0000 
+ date: 2019/07/26 07:12:58 +0000 
  comments: true 
  tags: B07HYTYYNR 
  category: ofertas 

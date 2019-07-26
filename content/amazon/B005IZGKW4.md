@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B005IZGKW4: Ofertón en Amazon para Panasonic KX-TG1611 - Teléfono fijo inal 
- date: 2019/07/23 13:52:32 +0000 
+ date: 2019/07/26 07:35:02 +0000 
  comments: true 
  tags: B005IZGKW4 
  category: ofertas 

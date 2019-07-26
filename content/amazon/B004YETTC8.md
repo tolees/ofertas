@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004YETTC8: Ofertón en Amazon para Casio F-200W-2A 
- date: 2019/07/23 09:49:28 +0000 
+ date: 2019/07/26 07:19:17 +0000 
  comments: true 
  tags: B004YETTC8 
  category: ofertas 

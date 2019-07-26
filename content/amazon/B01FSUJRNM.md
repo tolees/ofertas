@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01FSUJRNM: Ofertón en Amazon para Marshall Stanmore  Altavoz con Bluetooth 
- date: 2019/07/23 11:25:48 +0000 
+ date: 2019/07/26 08:37:32 +0000 
  comments: true 
  tags: B01FSUJRNM 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JPDDKBZ: Ofertón en Amazon para Dam Tekkiwear - Pulsera inteligente Blue 
- date: 2019/07/23 11:01:42 +0000 
+ date: 2019/07/26 07:48:41 +0000 
  comments: true 
  tags: B07JPDDKBZ 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GM8L3VZ: Ofertón en Amazon para Acer KG241bmiix - Monitor Gaming de 24"  
- date: 2019/07/24 22:40:10 +0000 
+ date: 2019/07/26 08:35:05 +0000 
  comments: true 
  tags: B07GM8L3VZ 
  category: ofertas 

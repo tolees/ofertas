@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GT29PCH: Ofertón en Amazon para Desigual - Bag Mexican Cards Molina Wome 
- date: 2019/07/24 11:55:45 +0000 
+ date: 2019/07/26 09:12:30 +0000 
  comments: true 
  tags: B07GT29PCH 
  category: ofertas 

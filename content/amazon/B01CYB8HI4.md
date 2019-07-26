@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CYB8HI4: Ofertón en Amazon para Veetop Intercomunicador Bluetooth Auricu 
- date: 2019/07/23 11:18:30 +0000 
+ date: 2019/07/26 07:42:31 +0000 
  comments: true 
  tags: B01CYB8HI4 
  category: ofertas 
