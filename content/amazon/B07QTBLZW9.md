@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QTBLZW9: Ofertón en Amazon para Blackview BV5500 Pro Rugged Movil  Andro 
- date: 2019/07/24 21:07:26 +0000 
+ date: 2019/07/26 13:40:40 +0000 
  comments: true 
  tags: B07QTBLZW9 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CKXRVGC: Ofertón en Amazon para Huawei P20 Pro 128 GB/6 GB Single SIM Sm 
- date: 2019/07/25 08:17:10 +0000 
+ date: 2019/07/26 14:13:00 +0000 
  comments: true 
  tags: B07CKXRVGC 
  category: ofertas 
