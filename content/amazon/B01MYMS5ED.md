@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MYMS5ED: Ofertón en Amazon para Lenovo Yoga Book  Tablet de 10.1" FullHD 
- date: 2019/07/25 20:39:29 +0000 
+ date: 2019/07/27 00:56:47 +0000 
  comments: true 
  tags: B01MYMS5ED 
  category: ofertas 

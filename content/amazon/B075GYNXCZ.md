@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GYNXCZ: Ofertón en Amazon para Lego 70920 - Guerra de Comida contra el  
- date: 2019/07/25 22:24:50 +0000 
+ date: 2019/07/26 22:34:16 +0000 
  comments: true 
  tags: B075GYNXCZ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Lego 70920 - Guerra de Comida contra el Robot Cabezahuevo de la película Batman](https://www.amazon.es/dp/B075GYNXCZ/?tag=redken-21) a precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Tienes [Lego 70920 - Guerra de Comida contra el Robot Cabezahuevo de la película Batman](https://www.amazon.es/dp/B075GYNXCZ/?tag=redken-21) a precio de oferta de 27.99 EUR (original: 27.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/517IGXh2DgL._SL200_.jpg)](https://www.amazon.es/dp/B075GYNXCZ/?tag=redken-21) 
  

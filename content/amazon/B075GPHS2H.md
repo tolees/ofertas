@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GPHS2H: Ofertón en Amazon para LEGO DUPLO - Primer puzle de Mascotas  1 
- date: 2019/07/25 22:23:54 +0000 
+ date: 2019/07/26 22:33:31 +0000 
  comments: true 
  tags: B075GPHS2H 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO DUPLO - Primer puzle de Mascotas  10858 ](https://www.amazon.es/dp/B075GPHS2H/?tag=redken-21) a precio de oferta de 6.99 EUR (original: 9.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO DUPLO - Primer puzle de Mascotas  10858 ](https://www.amazon.es/dp/B075GPHS2H/?tag=redken-21) a precio de oferta de 8.18 EUR (original: 9.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51qGnWSl83L._SL200_.jpg)](https://www.amazon.es/dp/B075GPHS2H/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FP2GRWM: Ofertón en Amazon para LEGO Technic - Lancha de Competición  ma 
- date: 2019/07/26 16:20:09 +0000 
+ date: 2019/07/26 22:41:24 +0000 
  comments: true 
  tags: B07FP2GRWM 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Technic - Lancha de Competición  maqueta divertida de barco de juguete 2 en 1 para construir  42089 ](https://www.amazon.es/dp/B07FP2GRWM/?tag=redken-21) a precio de oferta de 13.9 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO Technic - Lancha de Competición  maqueta divertida de barco de juguete 2 en 1 para construir  42089 ](https://www.amazon.es/dp/B07FP2GRWM/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51X3evqW56L._SL200_.jpg)](https://www.amazon.es/dp/B07FP2GRWM/?tag=redken-21) 
  

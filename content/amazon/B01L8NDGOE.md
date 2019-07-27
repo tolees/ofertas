@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01L8NDGOE: Ofertón en Amazon para TomTom GO 620 - Navegador 6 pulgadas  ll 
- date: 2019/07/25 17:31:52 +0000 
+ date: 2019/07/26 23:38:58 +0000 
  comments: true 
  tags: B01L8NDGOE 
  category: ofertas 

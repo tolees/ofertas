@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GMFWWQ: Ofertón en Amazon para LEGO Speed Champions - Ferrari 488 GT3 " 
- date: 2019/07/25 22:22:17 +0000 
+ date: 2019/07/26 22:32:12 +0000 
  comments: true 
  tags: B075GMFWWQ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Speed Champions - Ferrari 488 GT3 "Scuderia Corsa"  75886 ](https://www.amazon.es/dp/B075GMFWWQ/?tag=redken-21) a precio de oferta de 13.99 EUR (original: 15.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO Speed Champions - Ferrari 488 GT3 "Scuderia Corsa"  75886 ](https://www.amazon.es/dp/B075GMFWWQ/?tag=redken-21) a precio de oferta de 14.9 EUR (original: 15.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BkR%2BxkVML._SL200_.jpg)](https://www.amazon.es/dp/B075GMFWWQ/?tag=redken-21) 
  

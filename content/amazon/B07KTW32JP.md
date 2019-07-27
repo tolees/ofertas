@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTW32JP: Ofertón en Amazon para LEGO Jurassic World - Encuentro con el B 
- date: 2019/07/26 00:19:41 +0000 
+ date: 2019/07/27 00:35:48 +0000 
  comments: true 
  tags: B07KTW32JP 
  category: ofertas 

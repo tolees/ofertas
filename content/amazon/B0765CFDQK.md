@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CFDQK: Ofertón en Amazon para LEGO Ninjago - Cole: maestro del dragón  
- date: 2019/07/25 22:26:48 +0000 
+ date: 2019/07/26 22:36:24 +0000 
  comments: true 
  tags: B0765CFDQK 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Ninjago - Cole: maestro del dragón  70645 ](https://www.amazon.es/dp/B0765CFDQK/?tag=redken-21) a precio de oferta de 10.49 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO Ninjago - Cole: maestro del dragón  70645 ](https://www.amazon.es/dp/B0765CFDQK/?tag=redken-21) a precio de oferta de 13.36 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/513m0WGNObL._SL200_.jpg)](https://www.amazon.es/dp/B0765CFDQK/?tag=redken-21) 
  

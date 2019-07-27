@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H9J1YXN: Ofertón en Amazon para SanDisk Extreme Pro - Tarjeta de Memoria 
- date: 2019/07/25 16:14:27 +0000 
+ date: 2019/07/27 07:56:09 +0000 
  comments: true 
  tags: B07H9J1YXN 
  category: ofertas 

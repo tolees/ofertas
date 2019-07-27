@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GWBB8F: Ofertón en Amazon para LEGO DUPLO Town - Establo de los Ponis   
- date: 2019/07/25 22:24:31 +0000 
+ date: 2019/07/26 22:34:05 +0000 
  comments: true 
  tags: B075GWBB8F 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO DUPLO Town - Establo de los Ponis  10868 ](https://www.amazon.es/dp/B075GWBB8F/?tag=redken-21) a precio de oferta de 22.39 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO DUPLO Town - Establo de los Ponis  10868 ](https://www.amazon.es/dp/B075GWBB8F/?tag=redken-21) a precio de oferta de 25.66 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61oOzAnZsDL._SL200_.jpg)](https://www.amazon.es/dp/B075GWBB8F/?tag=redken-21) 
  
