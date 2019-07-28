@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D9VLW5K: Ofertón en Amazon para HP 22y Pantalla para PC 54  6 cm  21.5"  
- date: 2019/07/27 07:12:45 +0000 
+ date: 2019/07/28 09:47:00 +0000 
  comments: true 
  tags: B07D9VLW5K 
  category: ofertas 
