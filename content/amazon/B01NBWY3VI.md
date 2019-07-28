@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NBWY3VI: Ofertón en Amazon para HP 15-BA039NS - Ordenador portátil de 15 
- date: 2019/07/27 02:59:44 +0000 
+ date: 2019/07/28 17:52:51 +0000 
  comments: true 
  tags: B01NBWY3VI 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PB8TYCJ: Ofertón en Amazon para Xiaomi Redmi Note 7 16 cm  6.3"  4 GB 64 
- date: 2019/07/26 20:59:52 +0000 
+ date: 2019/07/28 16:09:17 +0000 
  comments: true 
  tags: B07PB8TYCJ 
  category: ofertas 

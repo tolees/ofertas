@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CNMDL4J: Ofertón en Amazon para JACK & JONES Jjepanther Sweat Hood Noos  
- date: 2019/07/27 00:24:18 +0000 
+ date: 2019/07/28 20:25:27 +0000 
  comments: true 
  tags: B07CNMDL4J 
  category: ofertas 
