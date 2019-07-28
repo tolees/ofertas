@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XCFFTDV: Ofertón en Amazon para Cortefiel Pantalone BLU Navy W30 
- date: 2019/07/26 14:56:22 +0000 
+ date: 2019/07/27 23:53:33 +0000 
  comments: true 
  tags: B06XCFFTDV 
  category: ofertas 

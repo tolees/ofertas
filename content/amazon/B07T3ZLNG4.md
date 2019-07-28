@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07T3ZLNG4: Ofertón en Amazon para Fantiff Doble pantalla digital USB Carga 
- date: 2019/07/26 20:06:18 +0000 
+ date: 2019/07/27 21:13:53 +0000 
  comments: true 
  tags: B07T3ZLNG4 
  category: ofertas 

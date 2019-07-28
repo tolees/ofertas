@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00QV8DHZ0: Ofertón en Amazon para Kiqplan "Beer Belly Blaster" 12 Week Dig 
- date: 2019/07/26 23:41:40 +0000 
+ date: 2019/07/28 05:51:50 +0000 
  comments: true 
  tags: B00QV8DHZ0 
  category: ofertas 

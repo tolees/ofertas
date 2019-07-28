@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MGU5CQO: Ofertón en Amazon para Hudson Hadstone Calf  Derby para Hombre  
- date: 2019/07/26 12:27:39 +0000 
+ date: 2019/07/28 08:18:33 +0000 
  comments: true 
  tags: B00MGU5CQO 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Hudson Hadstone Calf  Derby para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B00MGU5CQO/?tag=redken-21) a precio de oferta de 52.14 EUR (original: 52.14 EUR) en el siguiente enlace! 
+ Tienes [Hudson Hadstone Calf  Derby para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B00MGU5CQO/?tag=redken-21) a precio de oferta de 50.59 EUR (original: 50.59 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41zNF81u27L._SL200_.jpg)](https://www.amazon.es/dp/B00MGU5CQO/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SXVDJ67: Ofertón en Amazon para TD Systems K50DLP8F - Televisor Led 50 P 
- date: 2019/07/26 17:31:57 +0000 
+ date: 2019/07/27 22:30:48 +0000 
  comments: true 
  tags: B07SXVDJ67 
  category: ofertas 

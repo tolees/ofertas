@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HHC66ZR: Ofertón en Amazon para Lee 5 Pocket Short Pantalones Cortos  Az 
- date: 2019/07/26 17:27:24 +0000 
+ date: 2019/07/27 20:29:16 +0000 
  comments: true 
  tags: B07HHC66ZR 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Lee 5 Pocket Short Pantalones Cortos  Azul  Spritz IS   W30  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B07HHC66ZR/?tag=redken-21) a precio de oferta de 26.63 EUR (original: 59.95 EUR) en el siguiente enlace! 
+ Tienes [Lee 5 Pocket Short Pantalones Cortos  Azul  Spritz IS   W30  Talla del Fabricante: 30  para Hombre](https://www.amazon.es/dp/B07HHC66ZR/?tag=redken-21) a precio de oferta de 25.98 EUR (original: 59.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41GjavHlLBL._SL200_.jpg)](https://www.amazon.es/dp/B07HHC66ZR/?tag=redken-21) 
  

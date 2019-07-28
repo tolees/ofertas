@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072K5MXBD: Ofertón en Amazon para Victoria Deportivo Serraje  Zapatillas U 
- date: 2019/07/26 14:01:58 +0000 
+ date: 2019/07/27 21:54:11 +0000 
  comments: true 
  tags: B072K5MXBD 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Victoria Deportivo Serraje  Zapatillas Unisex Adulto  Rojo  Burdeos   39 EU](https://www.amazon.es/dp/B072K5MXBD/?tag=redken-21) a precio de oferta de 22.67 EUR (original: 59.9 EUR) en el siguiente enlace! 
+ Tienes [Victoria Deportivo Serraje  Zapatillas Unisex Adulto  Rojo  Burdeos   39 EU](https://www.amazon.es/dp/B072K5MXBD/?tag=redken-21) a precio de oferta de 31.05 EUR (original: 59.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41DARYPJWhL._SL200_.jpg)](https://www.amazon.es/dp/B072K5MXBD/?tag=redken-21) 
  

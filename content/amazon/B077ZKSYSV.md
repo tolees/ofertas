@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077ZKSYSV: Ofertón en Amazon para Puma Phase Mochila  Unisex  Red Dahlia   
- date: 2019/07/26 12:45:47 +0000 
+ date: 2019/07/27 19:45:13 +0000 
  comments: true 
  tags: B077ZKSYSV 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Puma Phase Mochila  Unisex  Red Dahlia  43.8x35.3x2 cm](https://www.amazon.es/dp/B077ZKSYSV/?tag=redken-21) a precio de oferta de 11.6 EUR (original: 11.69 EUR) en el siguiente enlace! 
+ Tienes [Puma Phase Mochila  Unisex  Red Dahlia  43.8x35.3x2 cm](https://www.amazon.es/dp/B077ZKSYSV/?tag=redken-21) a precio de oferta de 15.23 EUR (original: 15.23 EUR) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B077ZKSYSV/?tag=redken-21) 
  

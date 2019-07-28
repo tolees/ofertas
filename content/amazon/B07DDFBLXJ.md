@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DDFBLXJ: Ofertón en Amazon para Panasonic KX-TU150 - Teléfono móvil Dual 
- date: 2019/07/27 07:53:50 +0000 
+ date: 2019/07/28 07:58:27 +0000 
  comments: true 
  tags: B07DDFBLXJ 
  category: ofertas 

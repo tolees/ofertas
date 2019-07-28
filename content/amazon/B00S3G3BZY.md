@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00S3G3BZY: Ofertón en Amazon para Philips NT3160/10 - Recortador de vello  
- date: 2019/07/26 11:00:03 +0000 
+ date: 2019/07/27 20:44:27 +0000 
  comments: true 
  tags: B00S3G3BZY 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Philips NT3160/10 - Recortador de vello  nariz y orejas  resistente al agua  color negro y plateado  battery-powered](https://www.amazon.es/dp/B00S3G3BZY/?tag=redken-21) a precio de oferta de 11.98 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Tienes [Philips NT3160/10 - Recortador de vello  nariz y orejas  resistente al agua  color negro y plateado  battery-powered](https://www.amazon.es/dp/B00S3G3BZY/?tag=redken-21) a precio de oferta de 11.99 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41dScs9vyWL._SL200_.jpg)](https://www.amazon.es/dp/B00S3G3BZY/?tag=redken-21) 
  
