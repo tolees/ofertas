@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FKMK25C: Ofertón en Amazon para SanCard - Tarjeta de memoria micro SD de 
- date: 2019/07/28 07:29:46 +0000 
+ date: 2019/07/29 07:48:06 +0000 
  comments: true 
  tags: B07FKMK25C 
  category: ofertas 

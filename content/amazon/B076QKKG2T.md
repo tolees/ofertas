@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076QKKG2T: Ofertón en Amazon para Razer Electra V2 7.1 - Auriculares de Ga 
- date: 2019/07/27 20:16:24 +0000 
+ date: 2019/07/29 09:07:53 +0000 
  comments: true 
  tags: B076QKKG2T 
  category: ofertas 

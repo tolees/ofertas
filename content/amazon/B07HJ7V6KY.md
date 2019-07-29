@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07HJ7V6KY: Ofertón en Amazon para  
- date: 2019/07/28 07:56:58 +0000 
+ title: B07HJ7V6KY: Ofertón en Amazon para ATOYX AT-146 FPV Pieghevole Drone  Telec 
+ date: 2019/07/29 08:24:47 +0000 
  comments: true 
  tags: B07HJ7V6KY 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [](https://www.amazon.es/dp/B07HJ7V6KY/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [ATOYX AT-146 FPV Pieghevole Drone  Telecamera HD 720P WiFi FPV 2.4Ghz Modello Senza Testa Quadcopter con Funzione di Flusso Ottico Adatto ai Principanti Bambini  Blu : Amazon.it: Giochi e giocattoli](https://www.amazon.es/dp/B07HJ7V6KY/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B07HJ7V6KY/?tag=redken-21) 
  

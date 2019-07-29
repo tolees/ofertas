@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L3H2BKD: Ofertón en Amazon para Tommy Hilfiger Brooklyn Short Light Twil 
- date: 2019/07/27 19:43:11 +0000 
+ date: 2019/07/29 07:35:16 +0000 
  comments: true 
  tags: B07L3H2BKD 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WGRL6DD: Ofertón en Amazon para Canon EOS M6 - Cámara Evil de 24.2 MP  P 
- date: 2019/07/28 07:40:29 +0000 
+ date: 2019/07/29 08:21:09 +0000 
  comments: true 
  tags: B06WGRL6DD 
  category: ofertas 
