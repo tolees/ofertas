@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B009KZO3PY: Ofertón en Amazon para Logitech MK330 - Pack de Teclado y ratón 
- date: 2019/07/28 00:59:22 +0000 
+ date: 2019/07/29 09:42:35 +0000 
  comments: true 
  tags: B009KZO3PY 
  category: ofertas 
