@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FP6QRDJ: Ofertón en Amazon para LEGO Star Wars - Pack de Combate: Escuad 
- date: 2019/07/27 22:59:07 +0000 
+ date: 2019/07/28 23:29:16 +0000 
  comments: true 
  tags: B07FP6QRDJ 
  category: ofertas 

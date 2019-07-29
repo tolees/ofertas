@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CFDRH: Ofertón en Amazon para LEGO DUPLO Town - Tren de mercancías  10 
- date: 2019/07/27 22:49:29 +0000 
+ date: 2019/07/28 23:17:09 +0000 
  comments: true 
  tags: B0765CFDRH 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO DUPLO Town - Tren de mercancías  10875 ](https://www.amazon.es/dp/B0765CFDRH/?tag=redken-21) a precio de oferta de 110.87 EUR (original: 129.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO DUPLO Town - Tren de mercancías  10875 ](https://www.amazon.es/dp/B0765CFDRH/?tag=redken-21) a precio de oferta de 113.69 EUR (original: 129.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51ps1QlFcXL._SL200_.jpg)](https://www.amazon.es/dp/B0765CFDRH/?tag=redken-21) 
  

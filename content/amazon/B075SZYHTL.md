@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075SZYHTL: Ofertón en Amazon para LEGO Super Heroes - Mighty Micros: Star- 
- date: 2019/07/27 22:48:17 +0000 
+ date: 2019/07/28 23:15:10 +0000 
  comments: true 
  tags: B075SZYHTL 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Super Heroes - Mighty Micros: Star-Lord vs. Nebula  76090 ](https://www.amazon.es/dp/B075SZYHTL/?tag=redken-21) a precio de oferta de 8.95 EUR (original: 9.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO Super Heroes - Mighty Micros: Star-Lord vs. Nebula  76090 ](https://www.amazon.es/dp/B075SZYHTL/?tag=redken-21) a precio de oferta de 7.59 EUR (original: 9.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51Huj4VFYlL._SL200_.jpg)](https://www.amazon.es/dp/B075SZYHTL/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0792RGBRY: Ofertón en Amazon para LEGO Animales Fantásticos - Huida de Gri 
- date: 2019/07/28 00:10:52 +0000 
+ date: 2019/07/29 00:18:07 +0000 
  comments: true 
  tags: B0792RGBRY 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Animales Fantásticos - Huida de Grindelwald  Juguete de Construcción del Mundo Mágico de Fantastic Beasts  75951 ](https://www.amazon.es/dp/B0792RGBRY/?tag=redken-21) a precio de oferta de 14.49 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO Animales Fantásticos - Huida de Grindelwald  Juguete de Construcción del Mundo Mágico de Fantastic Beasts  75951 ](https://www.amazon.es/dp/B0792RGBRY/?tag=redken-21) a precio de oferta de 25.98 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51BzgecVIRL._SL200_.jpg)](https://www.amazon.es/dp/B0792RGBRY/?tag=redken-21) 
  
