@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PB8TYCJ: Ofertón en Amazon para Xiaomi Redmi Note 7 16 cm  6.3"  4 GB 64 
- date: 2019/07/28 16:09:17 +0000 
+ date: 2019/07/30 17:20:06 +0000 
  comments: true 
  tags: B07PB8TYCJ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Xiaomi Redmi Note 7 16 cm  6.3"  4 GB 64 GB Ranura híbrida Dual SIM 4G Azul 4000 mAh - Smartphone  16 cm  6.3"   4 GB  64 GB  48 MP  Android 9.0  Azul ](https://www.amazon.es/dp/B07PB8TYCJ/?tag=redken-21) a precio de oferta de 170 EUR (original: 170 EUR) en el siguiente enlace! 
+ Tienes [Xiaomi Redmi Note 7 16 cm  6.3"  4 GB 64 GB Ranura híbrida Dual SIM 4G Azul 4000 mAh - Smartphone  16 cm  6.3"   4 GB  64 GB  48 MP  Android 9.0  Azul ](https://www.amazon.es/dp/B07PB8TYCJ/?tag=redken-21) a precio de oferta de 167.47 EUR (original: 167.48 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41DcgQrEWqL._SL200_.jpg)](https://www.amazon.es/dp/B07PB8TYCJ/?tag=redken-21) 
  

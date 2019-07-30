@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00M8YPPUQ: Ofertón en Amazon para LESHP Proyector Cine en Casa LCD Full HD 
- date: 2019/07/29 09:31:02 +0000 
+ date: 2019/07/30 15:06:28 +0000 
  comments: true 
  tags: B00M8YPPUQ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LESHP Proyector Cine en Casa LCD Full HD 3200 Lúmenes 1080P  Proyector Portátil LED Home Cinema Soporte / USB / HDMI / VGA / AV / TV para Peliculas  Videojuegos etc.](https://www.amazon.es/dp/B00M8YPPUQ/?tag=redken-21) a precio de oferta de 134.73 EUR (original: 134.73 EUR) en el siguiente enlace! 
+ Tienes [LESHP Proyector Cine en Casa LCD Full HD 3200 Lúmenes 1080P  Proyector Portátil LED Home Cinema Soporte / USB / HDMI / VGA / AV / TV para Peliculas  Videojuegos etc.](https://www.amazon.es/dp/B00M8YPPUQ/?tag=redken-21) a precio de oferta de 125.99 EUR (original: 125.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51kOP46SVJL._SL200_.jpg)](https://www.amazon.es/dp/B00M8YPPUQ/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JQXLDAI: Ofertón en Amazon para Timberland 6 in Basic Alburn Waterproof  
- date: 2019/07/29 09:25:23 +0000 
+ date: 2019/07/30 14:45:02 +0000 
  comments: true 
  tags: B00JQXLDAI 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Timberland 6 in Basic Alburn Waterproof  Botas para Hombre  Negro  Black Nubuck   49 EU](https://www.amazon.es/dp/B00JQXLDAI/?tag=redken-21) a precio de oferta de 113.41 EUR (original: 119.38 EUR) en el siguiente enlace! 
+ Tienes [Timberland 6 in Basic Alburn Waterproof  Botas para Hombre  Negro  Black Nubuck   49 EU](https://www.amazon.es/dp/B00JQXLDAI/?tag=redken-21) a precio de oferta de 109.53 EUR (original: 109.53 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41pZKH80X0L._SL200_.jpg)](https://www.amazon.es/dp/B00JQXLDAI/?tag=redken-21) 
  

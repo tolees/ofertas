@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KKQN5B6: Ofertón en Amazon para Naf Naf Kenr55d Vestido  Verde  Dark Kak 
- date: 2019/07/27 19:32:55 +0000 
+ date: 2019/07/30 19:26:35 +0000 
  comments: true 
  tags: B07KKQN5B6 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Naf Naf Kenr55d Vestido  Verde  Dark Kaki 1406   36 para Mujer](https://www.amazon.es/dp/B07KKQN5B6/?tag=redken-21) a precio de oferta de 31.97 EUR (original: 70 EUR) en el siguiente enlace! 
+ Tienes [Naf Naf Kenr55d Vestido  Verde  Dark Kaki 1406   36 para Mujer](https://www.amazon.es/dp/B07KKQN5B6/?tag=redken-21) a precio de oferta de 28.41 EUR (original: 70 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31yGMth4IeL._SL200_.jpg)](https://www.amazon.es/dp/B07KKQN5B6/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DCNV6SQ: Ofertón en Amazon para JACK & JONES Jortopipop Sweat Hood Capuc 
- date: 2019/07/28 16:53:17 +0000 
+ date: 2019/07/30 17:38:29 +0000 
  comments: true 
  tags: B07DCNV6SQ 
  category: ofertas 

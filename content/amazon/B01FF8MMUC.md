@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01FF8MMUC: Ofertón en Amazon para JACK & JONES JJISTAN JJISAC AKM 249 NOOS 
- date: 2019/07/28 20:10:52 +0000 
+ date: 2019/07/30 16:37:58 +0000 
  comments: true 
  tags: B01FF8MMUC 
  category: ofertas 

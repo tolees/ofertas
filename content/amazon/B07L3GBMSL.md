@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L3GBMSL: Ofertón en Amazon para Tommy Hilfiger Tommy Jacquard City Sneak 
- date: 2019/07/28 17:29:03 +0000 
+ date: 2019/07/30 15:20:16 +0000 
  comments: true 
  tags: B07L3GBMSL 
  category: ofertas 
