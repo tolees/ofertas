@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N2WU7AA: Ofertón en Amazon para New Look 3918649-Jersey Hombre Gris Gris 
- date: 2019/07/30 17:23:30 +0000 
+ date: 2019/07/31 18:03:06 +0000 
  comments: true 
  tags: B01N2WU7AA 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [New Look 3918649-Jersey Hombre Gris Gris  Dark Grey 03  Large](https://www.amazon.es/dp/B01N2WU7AA/?tag=redken-21) a precio de oferta de 9.56 EUR (original: 9.56 EUR) en el siguiente enlace! 
+ Tienes [New Look 3918649-Jersey Hombre Gris Gris  Dark Grey 03  Large](https://www.amazon.es/dp/B01N2WU7AA/?tag=redken-21) a precio de oferta de 9.08 EUR (original: 9.08 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41zoc3YKr-L._SL200_.jpg)](https://www.amazon.es/dp/B01N2WU7AA/?tag=redken-21) 
  

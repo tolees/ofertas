@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XH1P2RH: Ofertón en Amazon para Auriculares bluetooth ELEGIANT 
- date: 2019/07/30 16:49:32 +0000 
+ date: 2019/07/31 17:13:09 +0000 
  comments: true 
  tags: B06XH1P2RH 
  category: ofertas 

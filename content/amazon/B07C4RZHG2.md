@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C4RZHG2: Ofertón en Amazon para ALLPOWERS 22000mAh Batería Externa Power 
- date: 2019/07/30 15:54:12 +0000 
+ date: 2019/07/31 17:42:29 +0000 
  comments: true 
  tags: B07C4RZHG2 
  category: ofertas 

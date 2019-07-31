@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0756CYWWD: Ofertón en Amazon para Bose QuietComfort 35 II - Auriculares in 
- date: 2019/07/30 14:48:11 +0000 
+ date: 2019/07/31 18:01:07 +0000 
  comments: true 
  tags: B0756CYWWD 
  category: ofertas 
