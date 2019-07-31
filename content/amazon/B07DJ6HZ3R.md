@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJ6HZ3R: Ofertón en Amazon para Lacoste Sol 119 1 Cuc  Sandalias de Punt 
- date: 2019/07/29 08:17:12 +0000 
+ date: 2019/07/31 08:20:44 +0000 
  comments: true 
  tags: B07DJ6HZ3R 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Lacoste Sol 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Rosa  Dk Lt Pnk 2j4   33 EU](https://www.amazon.es/dp/B07DJ6HZ3R/?tag=redken-21) a precio de oferta de 21.76 EUR (original: 39 EUR) en el siguiente enlace! 
+ Tienes [Lacoste Sol 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Rosa  Dk Lt Pnk 2j4   33 EU](https://www.amazon.es/dp/B07DJ6HZ3R/?tag=redken-21) a precio de oferta de 19.97 EUR (original: 39 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Yu06x6YWL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6HZ3R/?tag=redken-21) 
  
