@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079K4XZRS: Ofertón en Amazon para Chanclas Juventus adulto antideslizante  
- date: 2019/07/31 20:12:36 +0000 
+ date: 2019/08/01 21:11:36 +0000 
  comments: true 
  tags: B079K4XZRS 
  category: ofertas 

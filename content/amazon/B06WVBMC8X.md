@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WVBMC8X: Ofertón en Amazon para LEGO Elves - Fuga de la fortaleza del re 
- date: 2019/07/31 17:02:21 +0000 
+ date: 2019/08/01 20:48:04 +0000 
  comments: true 
  tags: B06WVBMC8X 
  category: ofertas 

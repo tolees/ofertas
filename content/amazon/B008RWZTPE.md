@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B008RWZTPE: Ofertón en Amazon para PowerPlus POWX0060LI Taladro de Pistola  
- date: 2019/07/31 08:52:53 +0000 
+ date: 2019/08/01 21:44:37 +0000 
  comments: true 
  tags: B008RWZTPE 
  category: ofertas 

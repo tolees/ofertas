@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTVLB3V: Ofertón en Amazon para LEGO Ninjago - Catana 4 x 4 Juguete de c 
- date: 2019/07/31 19:34:35 +0000 
+ date: 2019/08/01 20:59:56 +0000 
  comments: true 
  tags: B07KTVLB3V 
  category: ofertas 

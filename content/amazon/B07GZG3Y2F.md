@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GZG3Y2F: Ofertón en Amazon para ASUS PB60-B5118ZD 1 70 GHz 8ª generación 
- date: 2019/07/31 19:52:18 +0000 
+ date: 2019/08/01 21:02:03 +0000 
  comments: true 
  tags: B07GZG3Y2F 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [ASUS PB60-B5118ZD 1 70 GHz 8ª generación de procesadores Intel® Core i5 i5-8400T Negro Mini PC PB60-B5118ZD  1 70 GHz  8ª generación de procesadores Intel® Core i5  i5-8400T  8 GB ](https://www.amazon.es/dp/B07GZG3Y2F/?tag=redken-21) a precio de oferta de 790.53 EUR (original: 805.03 EUR) en el siguiente enlace! 
+ Tienes [ASUS PB60-B5118ZD 1 70 GHz 8ª generación de procesadores Intel® Core i5 i5-8400T Negro Mini PC PB60-B5118ZD  1 70 GHz  8ª generación de procesadores Intel® Core i5  i5-8400T  8 GB ](https://www.amazon.es/dp/B07GZG3Y2F/?tag=redken-21) a precio de oferta de 823.65 EUR (original: 823.65 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31pa6vJz%2BzL._SL200_.jpg)](https://www.amazon.es/dp/B07GZG3Y2F/?tag=redken-21) 
  

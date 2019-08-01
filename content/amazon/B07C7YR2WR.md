@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C7YR2WR: Ofertón en Amazon para Auriculares Bluetooth  KOOHO E2 Bluetoot 
- date: 2019/07/31 15:29:56 +0000 
+ date: 2019/08/01 17:06:35 +0000 
  comments: true 
  tags: B07C7YR2WR 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WP5BQ9T: Ofertón en Amazon para LEGO Nexo Knights - Castillo de Knighton 
- date: 2019/07/31 19:22:15 +0000 
+ date: 2019/08/01 20:43:46 +0000 
  comments: true 
  tags: B06WP5BQ9T 
  category: ofertas 

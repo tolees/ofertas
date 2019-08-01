@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073ZCNJZH: Ofertón en Amazon para Palo Selfie Trípode con Control Remoto p 
- date: 2019/07/31 16:31:19 +0000 
+ date: 2019/08/01 18:58:25 +0000 
  comments: true 
  tags: B073ZCNJZH 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06X6GN2VQ: Ofertón en Amazon para LEGO BOOST - Caja de Herramientas Creati 
- date: 2019/07/31 16:52:43 +0000 
+ date: 2019/08/01 20:36:45 +0000 
  comments: true 
  tags: B06X6GN2VQ 
  category: ofertas 

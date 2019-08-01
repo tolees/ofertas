@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NAP3YUH: Ofertón en Amazon para BROADCARE Monitor de presión arterial co 
- date: 2019/07/31 11:24:41 +0000 
+ date: 2019/08/01 16:57:57 +0000 
  comments: true 
  tags: B01NAP3YUH 
  category: ofertas 

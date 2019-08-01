@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IST4TG0: Ofertón en Amazon para Lee Daren Zip Fly  Jeans Hombre  Azul  C 
- date: 2019/07/31 17:31:02 +0000 
+ date: 2019/08/01 18:00:30 +0000 
  comments: true 
  tags: B01IST4TG0 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Lee Daren Zip Fly  Jeans Hombre  Azul  Clean Splash   W28/L34  Talla del fabricante: 28 ](https://www.amazon.es/dp/B01IST4TG0/?tag=redken-21) a precio de oferta de 40.01 EUR (original: 89.95 EUR) en el siguiente enlace! 
+ Tienes [Lee Daren Zip Fly  Jeans Hombre  Azul  Clean Splash   W28/L34  Talla del fabricante: 28 ](https://www.amazon.es/dp/B01IST4TG0/?tag=redken-21) a precio de oferta de 39.7 EUR (original: 89.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41rnVfKkR9L._SL200_.jpg)](https://www.amazon.es/dp/B01IST4TG0/?tag=redken-21) 
  

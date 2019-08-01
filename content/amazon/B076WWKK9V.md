@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076WWKK9V: Ofertón en Amazon para SEKONDA Reloj de Pulsera 1521E.05 
- date: 2019/07/31 07:25:48 +0000 
+ date: 2019/08/01 19:11:41 +0000 
  comments: true 
  tags: B076WWKK9V 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [SEKONDA Reloj de Pulsera 1521E.05](https://www.amazon.es/dp/B076WWKK9V/?tag=redken-21) a precio de oferta de 21.02 EUR (original: 34.39 EUR) en el siguiente enlace! 
+ Tienes [SEKONDA Reloj de Pulsera 1521E.05](https://www.amazon.es/dp/B076WWKK9V/?tag=redken-21) a precio de oferta de 21 EUR (original: 34.39 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41oBAb-jwkL._SL200_.jpg)](https://www.amazon.es/dp/B076WWKK9V/?tag=redken-21) 
  

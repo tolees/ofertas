@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074RW6LTS: Ofertón en Amazon para Lee Scarlett High Skinny Vaqueros  Azul  
- date: 2019/07/31 01:50:32 +0000 
+ date: 2019/08/01 18:01:36 +0000 
  comments: true 
  tags: B074RW6LTS 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Lee Scarlett High Skinny Vaqueros  Azul  One Wash Ha45   27W / 33L para Mujer](https://www.amazon.es/dp/B074RW6LTS/?tag=redken-21) a precio de oferta de 29.22 EUR (original: 89.95 EUR) en el siguiente enlace! 
+ Tienes [Lee Scarlett High Skinny Vaqueros  Azul  One Wash Ha45   27W / 33L para Mujer](https://www.amazon.es/dp/B074RW6LTS/?tag=redken-21) a precio de oferta de 27.4 EUR (original: 89.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41wQ1TxMFTL._SL200_.jpg)](https://www.amazon.es/dp/B074RW6LTS/?tag=redken-21) 
  

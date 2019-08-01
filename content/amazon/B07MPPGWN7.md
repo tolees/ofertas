@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MPPGWN7: Ofertón en Amazon para Amazfit Verge Smartwatch con Pantalla AM 
- date: 2019/07/31 10:26:51 +0000 
+ date: 2019/08/01 17:52:03 +0000 
  comments: true 
  tags: B07MPPGWN7 
  category: ofertas 
