@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CJX1XRS: Ofertón en Amazon para Nike Air Vortex Grand Purple/Cargo Khaki 
- date: 2019/07/31 10:15:41 +0000 
+ date: 2019/08/01 13:14:31 +0000 
  comments: true 
  tags: B07CJX1XRS 
  category: ofertas 

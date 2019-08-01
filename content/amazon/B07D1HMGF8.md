@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D1HMGF8: Ofertón en Amazon para Fujifilm X-E3 - Cámara Evil de 24.3 MP y 
- date: 2019/07/31 11:20:57 +0000 
+ date: 2019/08/01 12:37:57 +0000 
  comments: true 
  tags: B07D1HMGF8 
  category: ofertas 

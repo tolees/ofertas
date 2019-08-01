@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00QHXNN8K: Ofertón en Amazon para YONGNUO YN50 50mm F1.8 Lente Enfoque de  
- date: 2019/07/31 08:47:01 +0000 
+ date: 2019/08/01 12:24:42 +0000 
  comments: true 
  tags: B00QHXNN8K 
  category: ofertas 
