@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B36ZQRB: Ofertón en Amazon para LEGO Star Wars - Porg  set de construcci 
- date: 2019/07/31 01:05:49 +0000 
+ date: 2019/08/01 10:36:03 +0000 
  comments: true 
  tags: B07B36ZQRB 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Star Wars - Porg  set de construcción de criatura del universo de La Guerra de las Galaxias  75230 ](https://www.amazon.es/dp/B07B36ZQRB/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [LEGO Star Wars - Porg  set de construcción de criatura del universo de La Guerra de las Galaxias  75230 ](https://www.amazon.es/dp/B07B36ZQRB/?tag=redken-21) a precio de oferta de 59.9 EUR (original: 59.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51mZyisx54L._SL200_.jpg)](https://www.amazon.es/dp/B07B36ZQRB/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDKXQ3F: Ofertón en Amazon para Xiaomi MI Mix 2S - Smartphone DE 5.9"  Q 
- date: 2019/07/30 15:39:16 +0000 
+ date: 2019/08/01 07:51:53 +0000 
  comments: true 
  tags: B07GDKXQ3F 
  category: ofertas 

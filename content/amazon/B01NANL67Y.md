@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NANL67Y: Ofertón en Amazon para Hudson London Enrico  Derby para Hombre  
- date: 2019/07/30 15:34:15 +0000 
+ date: 2019/08/01 09:28:20 +0000 
  comments: true 
  tags: B01NANL67Y 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Hudson London Enrico  Derby para Hombre  Marrón  Tobacco   41 EU](https://www.amazon.es/dp/B01NANL67Y/?tag=redken-21) a precio de oferta de 37.35 EUR (original: 39.1 EUR) en el siguiente enlace! 
+ Tienes [Hudson London Enrico  Derby para Hombre  Marrón  Tobacco   41 EU](https://www.amazon.es/dp/B01NANL67Y/?tag=redken-21) a precio de oferta de 33.94 EUR (original: 33.94 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41YiK1NwGmL._SL200_.jpg)](https://www.amazon.es/dp/B01NANL67Y/?tag=redken-21) 
  

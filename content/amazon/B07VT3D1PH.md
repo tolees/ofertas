@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VT3D1PH: Ofertón en Amazon para Biuday Pulsera Inteligente Bluetooth Spo 
- date: 2019/07/31 05:21:54 +0000 
+ date: 2019/08/01 07:10:31 +0000 
  comments: true 
  tags: B07VT3D1PH 
  category: ofertas 

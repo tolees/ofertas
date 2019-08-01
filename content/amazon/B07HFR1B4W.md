@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HFR1B4W: Ofertón en Amazon para Tablet PC  TECLAST P80 Pro Quad Core 8"  
- date: 2019/07/31 07:55:21 +0000 
+ date: 2019/08/01 08:19:19 +0000 
  comments: true 
  tags: B07HFR1B4W 
  category: ofertas 

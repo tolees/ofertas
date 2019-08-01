@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06X6MKDPY: Ofertón en Amazon para INTEY Plastificador A3 [Caliente / Frío] 
- date: 2019/07/30 17:03:05 +0000 
+ date: 2019/08/01 09:32:35 +0000 
  comments: true 
  tags: B06X6MKDPY 
  category: ofertas 

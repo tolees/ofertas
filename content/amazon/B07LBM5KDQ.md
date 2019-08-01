@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LBM5KDQ: Ofertón en Amazon para Tommy Jeans TJM Tommy Classics tee Camis 
- date: 2019/07/31 08:01:54 +0000 
+ date: 2019/08/01 10:28:07 +0000 
  comments: true 
  tags: B07LBM5KDQ 
  category: ofertas 
