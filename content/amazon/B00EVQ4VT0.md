@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00EVQ4VT0: Ofertón en Amazon para Rollei 40259 - Gafas con videocámara  Fu 
- date: 2019/07/31 18:43:04 +0000 
+ date: 2019/08/02 00:36:53 +0000 
  comments: true 
  tags: B00EVQ4VT0 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Rollei 40259 - Gafas con videocámara  Full HD](https://www.amazon.es/dp/B00EVQ4VT0/?tag=redken-21) a precio de oferta de 66.28 EUR (original: 66.28 EUR) en el siguiente enlace! 
+ Tienes [Rollei 40259 - Gafas con videocámara  Full HD](https://www.amazon.es/dp/B00EVQ4VT0/?tag=redken-21) a precio de oferta de 70.84 EUR (original: 70.84 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31woaYU%2BJ6L._SL200_.jpg)](https://www.amazon.es/dp/B00EVQ4VT0/?tag=redken-21) 
  

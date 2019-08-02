@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XG7W6RT: Ofertón en Amazon para Swarovski Collar Dear  Mediano  Blanco   
- date: 2019/07/31 15:57:46 +0000 
+ date: 2019/08/02 01:29:29 +0000 
  comments: true 
  tags: B06XG7W6RT 
  category: ofertas 

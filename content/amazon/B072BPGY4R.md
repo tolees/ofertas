@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072BPGY4R: Ofertón en Amazon para Samsung Galaxy portatil 10.6 
- date: 2019/07/31 06:58:11 +0000 
+ date: 2019/08/02 00:28:29 +0000 
  comments: true 
  tags: B072BPGY4R 
  category: ofertas 
