@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ZA7QXR2: Ofertón en Amazon para Crock-Pot CSC025X Olla de cocción lenta  
- date: 2019/08/01 08:32:41 +0000 
+ date: 2019/08/04 18:32:00 +0000 
  comments: true 
  tags: B00ZA7QXR2 
  category: ofertas 

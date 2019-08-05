@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KHILJ5O: Ofertón en Amazon para Philips Pack de 6 Bombillas Led Foco Gu1 
- date: 2019/08/02 07:08:16 +0000 
+ date: 2019/08/04 18:09:45 +0000 
  comments: true 
  tags: B01KHILJ5O 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Philips Pack de 6 Bombillas Led Foco Gu10 Cristal  4.6 W Equivalente a 50 W  355 Lúmenes  Luz Blanca Cálida](https://www.amazon.es/dp/B01KHILJ5O/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [Philips Pack de 6 Bombillas Led Foco Gu10 Cristal  4.6 W Equivalente a 50 W  355 Lúmenes  Luz Blanca Cálida](https://www.amazon.es/dp/B01KHILJ5O/?tag=redken-21) a precio de oferta de 16.1 EUR (original: 21.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41SeWHGIN4L._SL200_.jpg)](https://www.amazon.es/dp/B01KHILJ5O/?tag=redken-21) 
  

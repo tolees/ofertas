@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDSFZ25: Ofertón en Amazon para Xiaomi MI A2 - Smartphone de 5.9"  Qualc 
- date: 2019/08/01 18:40:55 +0000 
+ date: 2019/08/04 20:55:16 +0000 
  comments: true 
  tags: B07GDSFZ25 
  category: ofertas 

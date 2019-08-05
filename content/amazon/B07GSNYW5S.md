@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GSNYW5S: Ofertón en Amazon para KollyKolla Botella de Agua Acero Inoxida 
- date: 2019/08/01 16:59:20 +0000 
+ date: 2019/08/04 17:23:49 +0000 
  comments: true 
  tags: B07GSNYW5S 
  category: ofertas 

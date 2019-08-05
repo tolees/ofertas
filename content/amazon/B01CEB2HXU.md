@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CEB2HXU: Ofertón en Amazon para Stedman Apparel Active Padded Jacket/ST5 
- date: 2019/08/01 23:45:29 +0000 
+ date: 2019/08/04 17:52:30 +0000 
  comments: true 
  tags: B01CEB2HXU 
  category: ofertas 

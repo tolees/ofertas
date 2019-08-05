@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0746RPLPM: Ofertón en Amazon para Cartasport Unisex fotoball Bomba de Dobl 
- date: 2019/08/01 08:45:58 +0000 
+ date: 2019/08/05 07:13:29 +0000 
  comments: true 
  tags: B0746RPLPM 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Cartasport Unisex fotoball Bomba de Doble acción  Color Rojo/Azul](https://www.amazon.es/dp/B0746RPLPM/?tag=redken-21) a precio de oferta de 7.35 EUR (original: 7.35 EUR) en el siguiente enlace! 
+ Tienes [Cartasport Unisex fotoball Bomba de Doble acción  Color Rojo/Azul](https://www.amazon.es/dp/B0746RPLPM/?tag=redken-21) a precio de oferta de 7.5 EUR (original: 7.5 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31u8g2rZ0uL._SL200_.jpg)](https://www.amazon.es/dp/B0746RPLPM/?tag=redken-21) 
  

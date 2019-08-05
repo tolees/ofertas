@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GXFL6OY: Ofertón en Amazon para KS - 02 - Zapatos sandalias para hombre  
- date: 2019/08/01 07:21:45 +0000 
+ date: 2019/08/05 05:12:42 +0000 
  comments: true 
  tags: B01GXFL6OY 
  category: ofertas 

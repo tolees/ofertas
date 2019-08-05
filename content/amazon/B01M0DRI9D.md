@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M0DRI9D: Ofertón en Amazon para Private Plaza Xtreme Sports Pix720 - Cám 
- date: 2019/08/01 13:17:21 +0000 
+ date: 2019/08/04 17:55:53 +0000 
  comments: true 
  tags: B01M0DRI9D 
  category: ofertas 

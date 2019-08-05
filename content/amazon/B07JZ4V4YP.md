@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JZ4V4YP: Ofertón en Amazon para adidas N-5923  Zapatillas para Hombre  G 
- date: 2019/08/01 20:07:02 +0000 
+ date: 2019/08/04 18:22:43 +0000 
  comments: true 
  tags: B07JZ4V4YP 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [adidas N-5923  Zapatillas para Hombre  Gris  Grey Six/Core Black/FTWR White   44 2/3 EU](https://www.amazon.es/dp/B07JZ4V4YP/?tag=redken-21) a precio de oferta de 33.23 EUR (original: 89.95 EUR) en el siguiente enlace! 
+ Tienes [adidas N-5923  Zapatillas para Hombre  Gris  Grey Six/Core Black/FTWR White   44 2/3 EU](https://www.amazon.es/dp/B07JZ4V4YP/?tag=redken-21) a precio de oferta de 32.47 EUR (original: 89.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41PKI6cNy1L._SL200_.jpg)](https://www.amazon.es/dp/B07JZ4V4YP/?tag=redken-21) 
  
