@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTDNT1R: Ofertón en Amazon para adidas ID Stadium PT Pantalón  Hombre  T 
- date: 2019/08/01 15:14:42 +0000 
+ date: 2019/08/05 16:15:53 +0000 
  comments: true 
  tags: B07KTDNT1R 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [adidas ID Stadium PT Pantalón  Hombre  Tinley/gricen  S](https://www.amazon.es/dp/B07KTDNT1R/?tag=redken-21) a precio de oferta de 23.35 EUR (original: 23.35 EUR) en el siguiente enlace! 
+ Tienes [adidas ID Stadium PT Pantalón  Hombre  Tinley/gricen  S](https://www.amazon.es/dp/B07KTDNT1R/?tag=redken-21) a precio de oferta de 29 EUR (original: 29 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31myOkNeaGL._SL200_.jpg)](https://www.amazon.es/dp/B07KTDNT1R/?tag=redken-21) 
  

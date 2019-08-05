@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QV2RK9B: Ofertón en Amazon para Maxell Power CE Ventilador DE PIE Indust 
- date: 2019/08/01 18:56:31 +0000 
+ date: 2019/08/05 17:40:58 +0000 
  comments: true 
  tags: B07QV2RK9B 
  category: ofertas 

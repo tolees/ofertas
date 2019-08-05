@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00BIIMMVI: Ofertón en Amazon para Savel  Funda de almohada Cutí 100% algod 
- date: 2019/08/04 17:46:40 +0000 
+ date: 2019/08/05 18:13:58 +0000 
  comments: true 
  tags: B00BIIMMVI 
  category: ofertas 

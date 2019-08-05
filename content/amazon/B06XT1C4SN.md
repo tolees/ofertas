@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XT1C4SN: Ofertón en Amazon para ELEGIANT Cascos Bluetooth Inalámbricos   
- date: 2019/08/01 19:19:05 +0000 
+ date: 2019/08/05 18:03:58 +0000 
  comments: true 
  tags: B06XT1C4SN 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VSMVBF2: Ofertón en Amazon para Mpow iSnap Pro X-Palo Selfie Bluetooth E 
- date: 2019/08/01 11:40:17 +0000 
+ date: 2019/08/05 21:17:11 +0000 
  comments: true 
  tags: B00VSMVBF2 
  category: ofertas 

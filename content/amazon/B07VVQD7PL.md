@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VVQD7PL: Ofertón en Amazon para Tomasa- Temporizador Digital de Cocina   
- date: 2019/08/04 18:02:47 +0000 
+ date: 2019/08/05 20:05:50 +0000 
  comments: true 
  tags: B07VVQD7PL 
  category: ofertas 
