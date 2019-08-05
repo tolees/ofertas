@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XWJ5HMY: Ofertón en Amazon para Huawei Mediapad T3 10 - Tablet 9.6" HD I 
- date: 2019/08/01 19:14:54 +0000 
+ date: 2019/08/05 11:56:45 +0000 
  comments: true 
  tags: B06XWJ5HMY 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Huawei Mediapad T3 10 - Tablet 9.6" HD IPS  WiFi  Procesador Quad-Core Snapdragon 425  2GB de RAM  16GB de Memoria Interna  Android 7   Gris](https://www.amazon.es/dp/B06XWJ5HMY/?tag=redken-21) a precio de oferta de 99 EUR (original: 159 EUR) en el siguiente enlace! 
+ Tienes [Huawei Mediapad T3 10 - Tablet 9.6" HD IPS  WiFi  Procesador Quad-Core Snapdragon 425  2GB de RAM  16GB de Memoria Interna  Android 7   Gris](https://www.amazon.es/dp/B06XWJ5HMY/?tag=redken-21) a precio de oferta de 101.15 EUR (original: 159 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg)](https://www.amazon.es/dp/B06XWJ5HMY/?tag=redken-21) 
  

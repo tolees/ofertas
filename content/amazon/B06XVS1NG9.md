@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XVS1NG9: Ofertón en Amazon para HP 1FK06AA - Pack con maletín y ratón  p 
- date: 2019/08/01 21:09:41 +0000 
+ date: 2019/08/05 12:39:08 +0000 
  comments: true 
  tags: B06XVS1NG9 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073CYHTYW: Ofertón en Amazon para Medion MD 60689 - Ordenador portátil con 
- date: 2019/08/01 12:32:13 +0000 
+ date: 2019/08/05 13:16:05 +0000 
  comments: true 
  tags: B073CYHTYW 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Medion MD 60689 - Ordenador portátil convertible de 11.6" HD  Intel Atom x5-Z8350  RAM de 4 GB  EMMC de 64 GB  Intel HD Graphics  Windows 10  negro - teclado QWERTY Español](https://www.amazon.es/dp/B073CYHTYW/?tag=redken-21) a precio de oferta de 205.15 EUR (original: 299 EUR) en el siguiente enlace! 
+ Tienes [Medion MD 60689 - Ordenador portátil convertible de 11.6" HD  Intel Atom x5-Z8350  RAM de 4 GB  EMMC de 64 GB  Intel HD Graphics  Windows 10  negro - teclado QWERTY Español](https://www.amazon.es/dp/B073CYHTYW/?tag=redken-21) a precio de oferta de 204.97 EUR (original: 299 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/417jl-ljrxL._SL200_.jpg)](https://www.amazon.es/dp/B073CYHTYW/?tag=redken-21) 
  

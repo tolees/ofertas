@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LZK1C4W: Ofertón en Amazon para Digi-Tech Chrono Race - Reloj de Cuarzo  
- date: 2019/08/01 17:23:32 +0000 
+ date: 2019/08/05 10:02:23 +0000 
  comments: true 
  tags: B01LZK1C4W 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Digi-Tech Chrono Race - Reloj de Cuarzo para Hombres  Color Azul](https://www.amazon.es/dp/B01LZK1C4W/?tag=redken-21) a precio de oferta de 19.9 EUR (original: 19.9 EUR) en el siguiente enlace! 
+ Tienes [Digi-Tech Chrono Race - Reloj de Cuarzo para Hombres  Color Azul](https://www.amazon.es/dp/B01LZK1C4W/?tag=redken-21) a precio de oferta de 16.21 EUR (original: 16.21 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41qWwxusvsL._SL200_.jpg)](https://www.amazon.es/dp/B01LZK1C4W/?tag=redken-21) 
  

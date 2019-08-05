@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XGB5BR3: Ofertón en Amazon para Scotch & Soda Ralston Jeans Rectos  Azul 
- date: 2019/08/01 12:30:04 +0000 
+ date: 2019/08/05 14:00:19 +0000 
  comments: true 
  tags: B06XGB5BR3 
  category: ofertas 

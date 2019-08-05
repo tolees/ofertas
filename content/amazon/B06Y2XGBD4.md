@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y2XGBD4: Ofertón en Amazon para VICKERS Tienda Calidad Chino Corduroy Bl 
- date: 2019/08/01 12:40:17 +0000 
+ date: 2019/08/05 14:07:10 +0000 
  comments: true 
  tags: B06Y2XGBD4 
  category: ofertas 

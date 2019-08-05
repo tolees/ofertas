@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CQY4SBK: Ofertón en Amazon para Potensic Drone con Cámara 1080P HD FPV   
- date: 2019/08/01 15:16:34 +0000 
+ date: 2019/08/05 14:11:24 +0000 
  comments: true 
  tags: B07CQY4SBK 
  category: ofertas 

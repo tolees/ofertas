@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G9BC8ZD: Ofertón en Amazon para AirFryer freidora de aire 
- date: 2019/08/01 12:21:26 +0000 
+ date: 2019/08/05 11:03:23 +0000 
  comments: true 
  tags: B07G9BC8ZD 
  category: ofertas 

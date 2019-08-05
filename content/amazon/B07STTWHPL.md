@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07STTWHPL: Ofertón en Amazon para Xiaomi mi Band 4 Pulsera de Fitness Inte 
- date: 2019/08/01 13:13:39 +0000 
+ date: 2019/08/05 12:34:40 +0000 
  comments: true 
  tags: B07STTWHPL 
  category: ofertas 
