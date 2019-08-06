@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XYKDXZG: Ofertón en Amazon para Victure Camara Deportiva 4K 16MP Ultra H 
- date: 2019/08/05 13:14:10 +0000 
+ date: 2019/08/06 18:44:43 +0000 
  comments: true 
  tags: B06XYKDXZG 
  category: ofertas 

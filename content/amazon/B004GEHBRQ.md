@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004GEHBRQ: Ofertón en Amazon para Elo Touch Solution ECM2 2.2GHz E1500 260 
- date: 2019/08/05 12:29:23 +0000 
+ date: 2019/08/06 17:32:47 +0000 
  comments: true 
  tags: B004GEHBRQ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Elo Touch Solution ECM2 2.2GHz E1500 2600g Gris - Ordenador de sobremesa Mini  2 2 GHz  E1500  Intel® Celeron®  800 MHz  0 5 MB  Intel® G41 Express ](https://www.amazon.es/dp/B004GEHBRQ/?tag=redken-21) a precio de oferta de 97.19 EUR (original: 97.29 EUR) en el siguiente enlace! 
+ Tienes [Elo Touch Solution ECM2 2.2GHz E1500 2600g Gris - Ordenador de sobremesa Mini  2 2 GHz  E1500  Intel® Celeron®  800 MHz  0 5 MB  Intel® G41 Express ](https://www.amazon.es/dp/B004GEHBRQ/?tag=redken-21) a precio de oferta de 98.56 EUR (original: 98.76 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/21yGCK6CygL._SL200_.jpg)](https://www.amazon.es/dp/B004GEHBRQ/?tag=redken-21) 
  

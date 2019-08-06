@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016ZIJAV0: Ofertón en Amazon para iRobot Roomba 615 - Robot aspirador para 
- date: 2019/08/05 13:10:09 +0000 
+ date: 2019/08/06 16:17:58 +0000 
  comments: true 
  tags: B016ZIJAV0 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DVXC1DK: Ofertón en Amazon para Levi s Slim 2 Pack Crew tee Camiseta   F 
- date: 2019/08/05 19:15:57 +0000 
+ date: 2019/08/06 19:31:42 +0000 
  comments: true 
  tags: B07DVXC1DK 
  category: ofertas 

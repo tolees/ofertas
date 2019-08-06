@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L5FPY3C: Ofertón en Amazon para ZOTAC ZT-P10620A-10M - Tarjeta gráfica   
- date: 2019/08/05 11:55:50 +0000 
+ date: 2019/08/06 15:57:55 +0000 
  comments: true 
  tags: B07L5FPY3C 
  category: ofertas 

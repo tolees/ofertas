@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DMFLLSV: Ofertón en Amazon para Neewer Profesional Camara Caso Mochila B 
- date: 2019/08/05 16:20:57 +0000 
+ date: 2019/08/06 17:44:36 +0000 
  comments: true 
  tags: B07DMFLLSV 
  category: ofertas 

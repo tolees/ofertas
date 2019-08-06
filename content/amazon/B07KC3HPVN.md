@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KC3HPVN: Ofertón en Amazon para ACCUWEIGHT Báscula Digital para Cocina B 
- date: 2019/08/05 17:13:09 +0000 
+ date: 2019/08/06 19:41:11 +0000 
  comments: true 
  tags: B07KC3HPVN 
  category: ofertas 

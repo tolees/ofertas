@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y1MB8JC: Ofertón en Amazon para Daniel Hechter -Parka Hombre Azul  Navy  
- date: 2019/08/05 10:55:23 +0000 
+ date: 2019/08/06 18:33:46 +0000 
  comments: true 
  tags: B06Y1MB8JC 
  category: ofertas 

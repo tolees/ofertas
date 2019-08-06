@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XA8CRYG: Ofertón en Amazon para Knorr - Ravioli de carne - 250 g 
- date: 2019/08/05 06:27:44 +0000 
+ date: 2019/08/06 15:10:41 +0000 
  comments: true 
  tags: B00XA8CRYG 
  category: ofertas 
@@ -11,7 +11,7 @@
  
  Tienes [Knorr - Ravioli de carne - 250 g](https://www.amazon.es/dp/B00XA8CRYG/?tag=redken-21) a precio de oferta de 1.6 EUR (original: 1.6 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51HEmuc%2B6wL._SL200_.jpg)](https://www.amazon.es/dp/B00XA8CRYG/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51eevFB-HVL._SL200_.jpg)](https://www.amazon.es/dp/B00XA8CRYG/?tag=redken-21) 
  
  [Accede a la oferta!!](https://www.amazon.es/dp/B00XA8CRYG/?tag=redken-21)
 

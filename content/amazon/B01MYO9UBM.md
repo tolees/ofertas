@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MYO9UBM: Ofertón en Amazon para Acer Spin 7 - Ordenador portátil convert 
- date: 2019/08/05 15:54:36 +0000 
+ date: 2019/08/06 16:09:59 +0000 
  comments: true 
  tags: B01MYO9UBM 
  category: ofertas 

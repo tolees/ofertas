@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075FFCTP8: Ofertón en Amazon para 100 Kits Herramientas Metales de Maletín 
- date: 2019/08/04 17:25:50 +0000 
+ date: 2019/08/06 15:33:12 +0000 
  comments: true 
  tags: B075FFCTP8 
  category: ofertas 

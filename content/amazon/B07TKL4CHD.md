@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TKL4CHD: Ofertón en Amazon para Carsge Medidor de pH Digital con Pantall 
- date: 2019/08/04 21:13:16 +0000 
+ date: 2019/08/06 15:37:19 +0000 
  comments: true 
  tags: B07TKL4CHD 
  category: ofertas 

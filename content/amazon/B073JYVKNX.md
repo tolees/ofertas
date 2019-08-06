@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073JYVKNX: Ofertón en Amazon para SanDisk Ultra - Tarjeta de memoria micro 
- date: 2019/08/05 04:44:27 +0000 
+ date: 2019/08/06 16:20:12 +0000 
  comments: true 
  tags: B073JYVKNX 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [SanDisk Ultra - Tarjeta de memoria microSDXC de 64 GB con adaptador SD  velocidad de lectura hasta 100 MB/s  Clase 10  U1 y A1](https://www.amazon.es/dp/B073JYVKNX/?tag=redken-21) a precio de oferta de 9.81 EUR (original: 9.81 EUR) en el siguiente enlace! 
+ Tienes [SanDisk Ultra - Tarjeta de memoria microSDXC de 64 GB con adaptador SD  velocidad de lectura hasta 100 MB/s  Clase 10  U1 y A1](https://www.amazon.es/dp/B073JYVKNX/?tag=redken-21) a precio de oferta de 9.99 EUR (original: 9.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41co619alUL._SL200_.jpg)](https://www.amazon.es/dp/B073JYVKNX/?tag=redken-21) 
  

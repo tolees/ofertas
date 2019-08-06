@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079RT2QWQ: Ofertón en Amazon para Pepe Jeans Keith Chaqueta  Negro  Black  
- date: 2019/08/05 16:22:10 +0000 
+ date: 2019/08/06 16:34:06 +0000 
  comments: true 
  tags: B079RT2QWQ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Pepe Jeans Keith Chaqueta  Negro  Black 999   S para Hombre](https://www.amazon.es/dp/B079RT2QWQ/?tag=redken-21) a precio de oferta de 150.84 EUR (original: 290 EUR) en el siguiente enlace! 
+ Tienes [Pepe Jeans Keith Chaqueta  Negro  Black 999   S para Hombre](https://www.amazon.es/dp/B079RT2QWQ/?tag=redken-21) a precio de oferta de 139.26 EUR (original: 290 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41rOie0c-uL._SL200_.jpg)](https://www.amazon.es/dp/B079RT2QWQ/?tag=redken-21) 
  
