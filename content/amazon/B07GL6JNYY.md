@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GL6JNYY: Ofertón en Amazon para Xiaomi Mi 8 - Smartphone de 6.21"  Octa- 
- date: 2019/08/05 19:52:49 +0000 
+ date: 2019/08/06 20:29:09 +0000 
  comments: true 
  tags: B07GL6JNYY 
  category: ofertas 
