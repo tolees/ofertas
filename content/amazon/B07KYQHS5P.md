@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KYQHS5P: Ofertón en Amazon para REPLAY Jondrill Vaqueros Skinny  Negro   
- date: 2019/08/06 19:25:10 +0000 
+ date: 2019/08/07 20:09:02 +0000 
  comments: true 
  tags: B07KYQHS5P 
  category: ofertas 

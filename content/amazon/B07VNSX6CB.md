@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VNSX6CB: Ofertón en Amazon para kewmer Mujer Verano Casual Floral Cardig 
- date: 2019/08/06 18:19:34 +0000 
+ date: 2019/08/07 18:28:15 +0000 
  comments: true 
  tags: B07VNSX6CB 
  category: ofertas 

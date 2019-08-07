@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QBZ6GG3: Ofertón en Amazon para Mini Auricular inalámbrico  auricular Bl 
- date: 2019/08/05 21:56:32 +0000 
+ date: 2019/08/07 19:21:53 +0000 
  comments: true 
  tags: B07QBZ6GG3 
  category: ofertas 

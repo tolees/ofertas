@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y13QBYL: Ofertón en Amazon para Philips 243V7QDSB/00 - Monitor LCD IPS d 
- date: 2019/08/06 15:21:00 +0000 
+ date: 2019/08/07 20:31:34 +0000 
  comments: true 
  tags: B06Y13QBYL 
  category: ofertas 

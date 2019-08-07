@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MJFGCJW: Ofertón en Amazon para aukey Cable Micro USB de nailon Trenzado 
- date: 2019/08/06 18:09:10 +0000 
+ date: 2019/08/07 19:45:45 +0000 
  comments: true 
  tags: B07MJFGCJW 
  category: ofertas 

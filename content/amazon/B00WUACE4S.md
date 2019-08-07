@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00WUACE4S: Ofertón en Amazon para Samsung U28E590D - Monitor para PC Deskt 
- date: 2019/08/06 20:03:45 +0000 
+ date: 2019/08/07 20:25:02 +0000 
  comments: true 
  tags: B00WUACE4S 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LZTJPLR: Ofertón en Amazon para Polaroid PLD 6016/S PW ZDI Gafas de sol  
- date: 2019/08/05 19:44:30 +0000 
+ date: 2019/08/07 16:56:55 +0000 
  comments: true 
  tags: B01LZTJPLR 
  category: ofertas 
