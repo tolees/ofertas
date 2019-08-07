@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079Z1HBCP: Ofertón en Amazon para Altavoces Karaoke reproductor con Micróf 
- date: 2019/08/05 16:11:33 +0000 
+ date: 2019/08/07 14:36:37 +0000 
  comments: true 
  tags: B079Z1HBCP 
  category: ofertas 

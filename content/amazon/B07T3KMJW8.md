@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07T3KMJW8: Ofertón en Amazon para Xiaomi Redmi 7A Smartphone 2 Go de RAM 1 
- date: 2019/08/06 17:54:35 +0000 
+ date: 2019/08/07 11:51:44 +0000 
  comments: true 
  tags: B07T3KMJW8 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Xiaomi Redmi 7A Smartphone 2 Go de RAM 16Go de ROM](https://www.amazon.es/dp/B07T3KMJW8/?tag=redken-21) a precio de oferta de 81 EUR (original: 81.07 EUR) en el siguiente enlace! 
+ Tienes [Xiaomi Redmi 7A Smartphone 2 Go de RAM 16Go de ROM](https://www.amazon.es/dp/B07T3KMJW8/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41-ZYAvUS2L._SL200_.jpg)](https://www.amazon.es/dp/B07T3KMJW8/?tag=redken-21) 
  

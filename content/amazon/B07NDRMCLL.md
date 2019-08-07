@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NDRMCLL: Ofertón en Amazon para Samsung Galaxy Watch Active - Smartwatch 
- date: 2019/08/05 19:42:24 +0000 
+ date: 2019/08/07 13:13:50 +0000 
  comments: true 
  tags: B07NDRMCLL 
  category: ofertas 
