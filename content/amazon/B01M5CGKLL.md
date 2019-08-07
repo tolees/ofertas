@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M5CGKLL: Ofertón en Amazon para Argo  Blu-Ray 4K Ultra HD+Blu-Ray  [Blu- 
- date: 2019/08/04 22:35:31 +0000 
+ date: 2019/08/07 07:43:56 +0000 
  comments: true 
  tags: B01M5CGKLL 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Argo  Blu-Ray 4K Ultra HD+Blu-Ray  [Blu-ray]](https://www.amazon.es/dp/B01M5CGKLL/?tag=redken-21) a precio de oferta de 7.69 EUR (original: 7.54 EUR) en el siguiente enlace! 
+ Tienes [Argo  Blu-Ray 4K Ultra HD+Blu-Ray  [Blu-ray]](https://www.amazon.es/dp/B01M5CGKLL/?tag=redken-21) a precio de oferta de 9.6 EUR (original: 9.6 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61h-hCnB6mL._SL200_.jpg)](https://www.amazon.es/dp/B01M5CGKLL/?tag=redken-21) 
  

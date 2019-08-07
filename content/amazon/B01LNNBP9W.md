@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LNNBP9W: Ofertón en Amazon para Kodak PIXPRO AZ252 Cámara Puente 16MP 1/ 
- date: 2019/08/05 13:46:25 +0000 
+ date: 2019/08/07 09:15:25 +0000 
  comments: true 
  tags: B01LNNBP9W 
  category: ofertas 

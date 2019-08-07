@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KWTCTLQ: Ofertón en Amazon para Beurer FM150 Botas Presoterapia por Masa 
- date: 2019/08/05 12:35:46 +0000 
+ date: 2019/08/07 09:48:22 +0000 
  comments: true 
  tags: B01KWTCTLQ 
  category: ofertas 

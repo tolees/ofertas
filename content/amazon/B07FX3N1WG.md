@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FX3N1WG: Ofertón en Amazon para Bosch Professional GSB 18V-28 - Taladro  
- date: 2019/08/04 22:09:18 +0000 
+ date: 2019/08/07 09:04:58 +0000 
  comments: true 
  tags: B07FX3N1WG 
  category: ofertas 

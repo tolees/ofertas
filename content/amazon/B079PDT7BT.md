@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079PDT7BT: Ofertón en Amazon para Jam Hang Up Altavoz Bluetooth  Controlad 
- date: 2019/08/05 10:59:03 +0000 
+ date: 2019/08/07 11:11:11 +0000 
  comments: true 
  tags: B079PDT7BT 
  category: ofertas 

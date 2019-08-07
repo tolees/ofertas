@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WWNJVKZ: Ofertón en Amazon para Shuttle XPС Slim XC60J PC/estación de Tr 
- date: 2019/08/05 11:03:13 +0000 
+ date: 2019/08/07 08:49:21 +0000 
  comments: true 
  tags: B06WWNJVKZ 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DQGBYDC: Ofertón en Amazon para Memoria Flash USB 3.0 SanDisk Ultra de 6 
- date: 2019/08/05 07:15:26 +0000 
+ date: 2019/08/07 09:17:33 +0000 
  comments: true 
  tags: B00DQGBYDC 
  category: ofertas 

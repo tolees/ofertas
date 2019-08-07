@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JBNZPFM: Ofertón en Amazon para Kärcher Aspiradores multiuso WD 3  1.629 
- date: 2019/08/05 12:15:36 +0000 
+ date: 2019/08/07 11:01:49 +0000 
  comments: true 
  tags: B00JBNZPFM 
  category: ofertas 

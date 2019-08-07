@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IS5FHA2: Ofertón en Amazon para King Camp Seine Light Blue Tent 
- date: 2019/08/05 17:41:26 +0000 
+ date: 2019/08/07 07:49:46 +0000 
  comments: true 
  tags: B00IS5FHA2 
  category: ofertas 
