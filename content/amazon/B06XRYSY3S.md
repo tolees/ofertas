@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XRYSY3S: Ofertón en Amazon para AUKEY Cargador de Coche 24W Dos Puertos  
- date: 2019/08/07 17:16:11 +0000 
+ date: 2019/08/08 19:58:59 +0000 
  comments: true 
  tags: B06XRYSY3S 
  category: ofertas 

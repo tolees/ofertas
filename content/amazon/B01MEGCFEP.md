@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MEGCFEP: Ofertón en Amazon para Transcend SSD230S Serial ATA III - Disco 
- date: 2019/08/07 17:55:57 +0000 
+ date: 2019/08/08 18:58:13 +0000 
  comments: true 
  tags: B01MEGCFEP 
  category: ofertas 

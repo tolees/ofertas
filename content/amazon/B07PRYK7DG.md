@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PRYK7DG: Ofertón en Amazon para Reebok Classic Leather 3912  Zapatillas  
- date: 2019/08/07 17:55:20 +0000 
+ date: 2019/08/08 19:41:38 +0000 
  comments: true 
  tags: B07PRYK7DG 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Reebok Classic Leather 3912  Zapatillas para Mujer](https://www.amazon.es/dp/B07PRYK7DG/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [Reebok Classic Leather 3912  Zapatillas para Mujer](https://www.amazon.es/dp/B07PRYK7DG/?tag=redken-21) a precio de oferta de None None (original: None None) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B07PRYK7DG/?tag=redken-21) 
  

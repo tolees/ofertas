@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SRJNWG9: Ofertón en Amazon para Nokia 2.2  2+16GB  Negro Libre sin Contr 
- date: 2019/08/07 15:51:02 +0000 
+ date: 2019/08/08 15:56:01 +0000 
  comments: true 
  tags: B07SRJNWG9 
  category: ofertas 

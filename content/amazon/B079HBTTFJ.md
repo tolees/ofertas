@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079HBTTFJ: Ofertón en Amazon para Tom Tailor 5881001  Botas Clasicas para  
- date: 2019/08/07 17:53:04 +0000 
+ date: 2019/08/08 19:29:01 +0000 
  comments: true 
  tags: B079HBTTFJ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Tom Tailor 5881001  Botas Clasicas para Hombre  Negro  Black 00001   44 EU](https://www.amazon.es/dp/B079HBTTFJ/?tag=redken-21) a precio de oferta de 17.51 EUR (original: 17.51 EUR) en el siguiente enlace! 
+ Tienes [Tom Tailor 5881001  Botas Clasicas para Hombre  Negro  Black 00001   44 EU](https://www.amazon.es/dp/B079HBTTFJ/?tag=redken-21) a precio de oferta de 16.63 EUR (original: 16.63 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41pZBIEz0WL._SL200_.jpg)](https://www.amazon.es/dp/B079HBTTFJ/?tag=redken-21) 
  
