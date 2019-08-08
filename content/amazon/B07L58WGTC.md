@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L58WGTC: Ofertón en Amazon para Nokia 5.1 Plus - Smartphone de 5.86"  4G 
- date: 2019/08/05 20:36:26 +0000 
+ date: 2019/08/07 23:26:09 +0000 
  comments: true 
  tags: B07L58WGTC 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Nokia 5.1 Plus - Smartphone de 5.86"  4G  Mediatech Helio P60  RAM de 3 GB  memoria de 32 GB  cámara dual de 13+5 MP  Android 8.1  color blanco](https://www.amazon.es/dp/B07L58WGTC/?tag=redken-21) a precio de oferta de 155.09 EUR (original: 229 EUR) en el siguiente enlace! 
+ Tienes [Nokia 5.1 Plus - Smartphone de 5.86"  4G  Mediatech Helio P60  RAM de 3 GB  memoria de 32 GB  cámara dual de 13+5 MP  Android 8.1  color blanco](https://www.amazon.es/dp/B07L58WGTC/?tag=redken-21) a precio de oferta de 156.75 EUR (original: 229 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/21EMF2cNEUL._SL200_.jpg)](https://www.amazon.es/dp/B07L58WGTC/?tag=redken-21) 
  

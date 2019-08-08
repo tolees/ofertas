@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BN7VKZ4: Ofertón en Amazon para LG V30 LTE - Smartphone de 6    Octa-Cor 
- date: 2019/08/05 21:36:12 +0000 
+ date: 2019/08/08 04:28:13 +0000 
  comments: true 
  tags: B07BN7VKZ4 
  category: ofertas 

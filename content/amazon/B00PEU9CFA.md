@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00PEU9CFA: Ofertón en Amazon para Audio-Technica ATH-MSR7 - Auriculares  A 
- date: 2019/08/06 17:16:34 +0000 
+ date: 2019/08/07 22:44:20 +0000 
  comments: true 
  tags: B00PEU9CFA 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Audio-Technica ATH-MSR7 - Auriculares  Alámbrico  Diadema  Binaural  Circumaural  5-40000 Hz  Negro ](https://www.amazon.es/dp/B00PEU9CFA/?tag=redken-21) a precio de oferta de 173.11 EUR (original: 173.06 EUR) en el siguiente enlace! 
+ Tienes [Audio-Technica ATH-MSR7 - Auriculares  Alámbrico  Diadema  Binaural  Circumaural  5-40000 Hz  Negro ](https://www.amazon.es/dp/B00PEU9CFA/?tag=redken-21) a precio de oferta de 175.93 EUR (original: 175.58 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51GVrS6wNaL._SL200_.jpg)](https://www.amazon.es/dp/B00PEU9CFA/?tag=redken-21) 
  

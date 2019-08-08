@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001FKULOO: Ofertón en Amazon para Regatta Stormbreak - Chaqueta para hombr 
- date: 2019/08/06 15:54:46 +0000 
+ date: 2019/08/08 09:34:57 +0000 
  comments: true 
  tags: B001FKULOO 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016MKK7XG: Ofertón en Amazon para Yellow CabAMAZ M - Botas Hombre  Color M 
- date: 2019/08/06 17:14:30 +0000 
+ date: 2019/08/07 22:36:48 +0000 
  comments: true 
  tags: B016MKK7XG 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Yellow CabAMAZ M - Botas Hombre  Color Marrón  Talla 46](https://www.amazon.es/dp/B016MKK7XG/?tag=redken-21) a precio de oferta de 28.1 EUR (original: 28.39 EUR) en el siguiente enlace! 
+ Tienes [Yellow CabAMAZ M - Botas Hombre  Color Marrón  Talla 46](https://www.amazon.es/dp/B016MKK7XG/?tag=redken-21) a precio de oferta de 26.7 EUR (original: 26.7 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/519L4%2B2cwQL._SL200_.jpg)](https://www.amazon.es/dp/B016MKK7XG/?tag=redken-21) 
  

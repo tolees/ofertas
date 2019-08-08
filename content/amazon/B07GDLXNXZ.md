@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDLXNXZ: Ofertón en Amazon para Xiaomi MI A2 - Smartphone DE 5.9"  Qualc 
- date: 2019/08/07 08:50:16 +0000 
+ date: 2019/08/08 09:31:03 +0000 
  comments: true 
  tags: B07GDLXNXZ 
  category: ofertas 

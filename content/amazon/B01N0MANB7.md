@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N0MANB7: Ofertón en Amazon para Fujifilm X-A10 - Cámara Evil de 16.3 MP  
- date: 2019/08/06 19:28:56 +0000 
+ date: 2019/08/08 07:10:01 +0000 
  comments: true 
  tags: B01N0MANB7 
  category: ofertas 

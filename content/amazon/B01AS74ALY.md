@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AS74ALY: Ofertón en Amazon para Reebok Royal CL Jog 2L Zapatillas de dep 
- date: 2019/08/06 18:34:24 +0000 
+ date: 2019/08/08 08:47:44 +0000 
  comments: true 
  tags: B01AS74ALY 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Reebok Royal CL Jog 2L Zapatillas de deporte  Hombre  Multicolor  Black/White/Flat Grey   talla 39 EU  6 UK ](https://www.amazon.es/dp/B01AS74ALY/?tag=redken-21) a precio de oferta de 27.68 EUR (original: 59.95 EUR) en el siguiente enlace! 
+ Tienes [Reebok Royal CL Jog 2L Zapatillas de deporte  Hombre  Multicolor  Black/White/Flat Grey   talla 39 EU  6 UK ](https://www.amazon.es/dp/B01AS74ALY/?tag=redken-21) a precio de oferta de 24.99 EUR (original: 59.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41WYvXFjp3L._SL200_.jpg)](https://www.amazon.es/dp/B01AS74ALY/?tag=redken-21) 
  

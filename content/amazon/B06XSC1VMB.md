@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XSC1VMB: Ofertón en Amazon para New Balance Mx818V3  Zapatillas Deportiv 
- date: 2019/08/06 15:32:25 +0000 
+ date: 2019/08/08 09:07:37 +0000 
  comments: true 
  tags: B06XSC1VMB 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [New Balance Mx818V3  Zapatillas Deportivas para Interior para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B06XSC1VMB/?tag=redken-21) a precio de oferta de 38.35 EUR (original: 45 EUR) en el siguiente enlace! 
+ Tienes [New Balance Mx818V3  Zapatillas Deportivas para Interior para Hombre  Negro  Black   44 EU](https://www.amazon.es/dp/B06XSC1VMB/?tag=redken-21) a precio de oferta de 39.1 EUR (original: 39.1 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41GL35%2BjqVL._SL200_.jpg)](https://www.amazon.es/dp/B06XSC1VMB/?tag=redken-21) 
  
