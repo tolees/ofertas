@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QSS9VC5: Ofertón en Amazon para Sony KD-55XG8196BAEP - Televisor 4K HDR  
- date: 2019/08/08 18:35:29 +0000 
+ date: 2019/08/09 18:46:31 +0000 
  comments: true 
  tags: B07QSS9VC5 
  category: ofertas 

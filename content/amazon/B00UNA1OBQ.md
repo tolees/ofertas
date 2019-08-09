@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00UNA1OBQ: Ofertón en Amazon para Seagate STEB4000200 - Disco duro de 4 TB 
- date: 2019/08/07 08:46:25 +0000 
+ date: 2019/08/09 17:17:29 +0000 
  comments: true 
  tags: B00UNA1OBQ 
  category: ofertas 

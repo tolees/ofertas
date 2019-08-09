@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FTWSD7P: Ofertón en Amazon para Canon EOS 4000D - Cámara con objetivo  1 
- date: 2019/08/07 19:47:44 +0000 
+ date: 2019/08/09 19:33:26 +0000 
  comments: true 
  tags: B07FTWSD7P 
  category: ofertas 

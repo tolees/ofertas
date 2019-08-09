@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015KKQ7JM: Ofertón en Amazon para Kappa Speed II  Zapatillas Unisex Adulto 
- date: 2019/08/08 07:20:26 +0000 
+ date: 2019/08/09 18:21:52 +0000 
  comments: true 
  tags: B015KKQ7JM 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Kappa Speed II  Zapatillas Unisex Adulto  Azul  6710 Navy/White   43 EU](https://www.amazon.es/dp/B015KKQ7JM/?tag=redken-21) a precio de oferta de 33.83 EUR (original: 27.95 EUR) en el siguiente enlace! 
+ Tienes [Kappa Speed II  Zapatillas Unisex Adulto  Azul  6710 Navy/White   43 EU](https://www.amazon.es/dp/B015KKQ7JM/?tag=redken-21) a precio de oferta de 33.83 EUR (original: 33.83 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/418C%2B%2Bq2aVL._SL200_.jpg)](https://www.amazon.es/dp/B015KKQ7JM/?tag=redken-21) 
  

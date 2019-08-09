@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CRJTB: Ofertón en Amazon para Synology DiskStation DS418 - Unidad Raid 
- date: 2019/08/08 00:08:14 +0000 
+ date: 2019/08/09 18:28:51 +0000 
  comments: true 
  tags: B0765CRJTB 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Synology DiskStation DS418 - Unidad Raid  4 TB  1000 GB  DiskStation Manager ](https://www.amazon.es/dp/B0765CRJTB/?tag=redken-21) a precio de oferta de 841.21 EUR (original: 841.21 EUR) en el siguiente enlace! 
+ Tienes [Synology DiskStation DS418 - Unidad Raid  4 TB  1000 GB  DiskStation Manager ](https://www.amazon.es/dp/B0765CRJTB/?tag=redken-21) a precio de oferta de 814 EUR (original: 814 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31yCNqlQVaL._SL200_.jpg)](https://www.amazon.es/dp/B0765CRJTB/?tag=redken-21) 
  
