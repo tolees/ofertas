@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D85TZHQ: Ofertón en Amazon para LG 49UK6470PLC - Smart TV de 49"  LED  U 
- date: 2019/08/07 19:36:46 +0000 
+ date: 2019/08/08 22:56:25 +0000 
  comments: true 
  tags: B07D85TZHQ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LG 49UK6470PLC - Smart TV de 49"  LED  UHD 4K  Inteligencia Artificial  HDR  Wi-Fi   Color Negro](https://www.amazon.es/dp/B07D85TZHQ/?tag=redken-21) a precio de oferta de 486.18 EUR (original: 699.99 EUR) en el siguiente enlace! 
+ Tienes [LG 49UK6470PLC - Smart TV de 49"  LED  UHD 4K  Inteligencia Artificial  HDR  Wi-Fi   Color Negro](https://www.amazon.es/dp/B07D85TZHQ/?tag=redken-21) a precio de oferta de 515 EUR (original: 699.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51vKJmvWB6L._SL200_.jpg)](https://www.amazon.es/dp/B07D85TZHQ/?tag=redken-21) 
  
