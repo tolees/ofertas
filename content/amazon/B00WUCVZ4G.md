@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00WUCVZ4G: Ofertón en Amazon para Fila 38-098-001 Reloj Cuarzo para Mujer 
- date: 2019/08/08 20:20:22 +0000 
+ date: 2019/08/10 06:48:52 +0000 
  comments: true 
  tags: B00WUCVZ4G 
  category: ofertas 

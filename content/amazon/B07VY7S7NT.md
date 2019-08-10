@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VY7S7NT: Ofertón en Amazon para Monocular de Alta Definición 16x52 Teles 
- date: 2019/08/08 08:52:47 +0000 
+ date: 2019/08/10 07:45:31 +0000 
  comments: true 
  tags: B07VY7S7NT 
  category: ofertas 

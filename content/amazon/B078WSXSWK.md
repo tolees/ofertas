@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078WSXSWK: Ofertón en Amazon para Sony SRSXB31Y - Altavoz portátil Bluetoo 
- date: 2019/08/08 15:28:28 +0000 
+ date: 2019/08/10 07:26:56 +0000 
  comments: true 
  tags: B078WSXSWK 
  category: ofertas 

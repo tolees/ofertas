@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HXE4BVU: Ofertón en Amazon para Samson  Expedition XP106 - PA portátil r 
- date: 2019/08/09 02:30:24 +0000 
+ date: 2019/08/10 08:10:29 +0000 
  comments: true 
  tags: B00HXE4BVU 
  category: ofertas 

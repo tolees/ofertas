@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DIKSGHM: Ofertón en Amazon para Mini Altavoz Bluetooth  iClever minialta 
- date: 2019/08/08 20:06:14 +0000 
+ date: 2019/08/10 08:28:45 +0000 
  comments: true 
  tags: B01DIKSGHM 
  category: ofertas 

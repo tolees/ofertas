@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNTMWY8: Ofertón en Amazon para New Look Borg Denim Chaqueta Vaquera  Az 
- date: 2019/08/08 20:25:03 +0000 
+ date: 2019/08/10 08:40:41 +0000 
  comments: true 
  tags: B07FNTMWY8 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004WLEEHI: Ofertón en Amazon para Opteka 500 mm/1000 mm f/6 3 Tele Lente E 
- date: 2019/08/08 16:55:13 +0000 
+ date: 2019/08/09 23:37:09 +0000 
  comments: true 
  tags: B004WLEEHI 
  category: ofertas 
