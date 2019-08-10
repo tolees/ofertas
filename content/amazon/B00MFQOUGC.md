@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MFQOUGC: Ofertón en Amazon para Tectonic  - Reloj Analógico de Cuarzo pa 
- date: 2019/08/08 21:28:57 +0000 
+ date: 2019/08/10 11:41:23 +0000 
  comments: true 
  tags: B00MFQOUGC 
  category: ofertas 
