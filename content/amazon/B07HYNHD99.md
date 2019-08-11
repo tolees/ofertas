@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HYNHD99: Ofertón en Amazon para Lenovo Yoga 530-14ARR - Portátil táctil  
- date: 2019/08/10 12:38:21 +0000 
+ date: 2019/08/11 15:30:02 +0000 
  comments: true 
  tags: B07HYNHD99 
  category: ofertas 
