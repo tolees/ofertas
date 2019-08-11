@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XKVNRSM: Ofertón en Amazon para AMD Ryzen 5 1500X - Procesador  AMD Ryze 
- date: 2019/08/09 19:33:10 +0000 
+ date: 2019/08/10 20:35:09 +0000 
  comments: true 
  tags: B06XKVNRSM 
  category: ofertas 

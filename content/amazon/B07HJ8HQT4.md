@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HJ8HQT4: Ofertón en Amazon para ASUS ZenScreen GO MB16AP - Monitor portá 
- date: 2019/08/10 00:48:29 +0000 
+ date: 2019/08/11 02:29:30 +0000 
  comments: true 
  tags: B07HJ8HQT4 
  category: ofertas 

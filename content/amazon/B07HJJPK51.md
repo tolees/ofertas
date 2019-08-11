@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HJJPK51: Ofertón en Amazon para Xiaomi Redmi Note 6 Pro Smartphone de 6. 
- date: 2019/08/09 17:26:20 +0000 
+ date: 2019/08/10 19:29:09 +0000 
  comments: true 
  tags: B07HJJPK51 
  category: ofertas 

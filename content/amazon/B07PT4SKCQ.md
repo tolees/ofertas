@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PT4SKCQ: Ofertón en Amazon para SAWAKE Hand Fan  Ventilador Portátil USB 
- date: 2019/08/09 16:19:14 +0000 
+ date: 2019/08/11 06:40:10 +0000 
  comments: true 
  tags: B07PT4SKCQ 
  category: ofertas 
