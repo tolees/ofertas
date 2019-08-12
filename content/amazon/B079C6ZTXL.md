@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079C6ZTXL: Ofertón en Amazon para JACK & JONES Jjecorp Logo tee SS Crew Ne 
- date: 2019/08/10 19:25:54 +0000 
+ date: 2019/08/12 09:31:11 +0000 
  comments: true 
  tags: B079C6ZTXL 
  category: ofertas 
