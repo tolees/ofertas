@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B005XDSJQ6: Ofertón en Amazon para CASIO Reloj con Movimiento Cuarzo W-734- 
- date: 2019/08/10 00:37:22 +0000 
+ date: 2019/08/11 23:28:51 +0000 
  comments: true 
  tags: B005XDSJQ6 
  category: ofertas 

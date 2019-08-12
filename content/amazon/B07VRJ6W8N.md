@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VRJ6W8N: Ofertón en Amazon para EQ9 Monocular Telescopio de Alta Potenci 
- date: 2019/08/11 06:55:35 +0000 
+ date: 2019/08/12 07:17:20 +0000 
  comments: true 
  tags: B07VRJ6W8N 
  category: ofertas 

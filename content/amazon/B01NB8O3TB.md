@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NB8O3TB: Ofertón en Amazon para Asics Gel-Pulse 8 T6E6N2001  Zapatillas  
- date: 2019/08/10 06:38:02 +0000 
+ date: 2019/08/12 06:10:01 +0000 
  comments: true 
  tags: B01NB8O3TB 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Asics Gel-Pulse 8 T6E6N2001  Zapatillas de Running Mujer  Rosa  Diva Pink /     White /     Dark Purple   37.5 EU](https://www.amazon.es/dp/B01NB8O3TB/?tag=redken-21) a precio de oferta de 60.36 EUR (original: 119.95 EUR) en el siguiente enlace! 
+ Tienes [Asics Gel-Pulse 8 T6E6N2001  Zapatillas de Running Mujer  Rosa  Diva Pink /     White /     Dark Purple   37.5 EU](https://www.amazon.es/dp/B01NB8O3TB/?tag=redken-21) a precio de oferta de 54.47 EUR (original: 119.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51x9LPC2EkL._SL200_.jpg)](https://www.amazon.es/dp/B01NB8O3TB/?tag=redken-21) 
  

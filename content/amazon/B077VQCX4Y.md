@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077VQCX4Y: Ofertón en Amazon para Levi s 502 Regular Taper Vaqueros Straig 
- date: 2019/08/10 22:00:45 +0000 
+ date: 2019/08/11 23:28:41 +0000 
  comments: true 
  tags: B077VQCX4Y 
  category: ofertas 

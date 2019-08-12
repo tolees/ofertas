@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073V1GFHN: Ofertón en Amazon para Vero Moda Vmagoura LS O-Neck Blouse A su 
- date: 2019/08/10 22:20:25 +0000 
+ date: 2019/08/11 23:24:27 +0000 
  comments: true 
  tags: B073V1GFHN 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076Q5VJKQ: Ofertón en Amazon para Cargador de Batería para Coche  AUTOXEL  
- date: 2019/08/10 11:28:52 +0000 
+ date: 2019/08/12 06:52:55 +0000 
  comments: true 
  tags: B076Q5VJKQ 
  category: ofertas 
