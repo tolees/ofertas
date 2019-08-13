@@ -181,23 +181,23 @@ USE_FOLDER_AS_CATEGORY = False
 SEARCH_BOX = False
 
 # URL Settings to be compatible with octopress
-ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
-ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
 
-ARTICLE_LANG_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}-{lang}/'
-ARTICLE_LANG_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}-{lang}/index.html'
+ARTICLE_LANG_URL = '{slug}-{lang}/'
+ARTICLE_LANG_SAVE_AS = '{slug}-{lang}/index.html'
 
-YEAR_ARCHIVE_URL = 'blog/archive/{date:%Y}/'
-YEAR_ARCHIVE_SAVE_AS = 'blog/archive/{date:%Y}/index.html'
+YEAR_ARCHIVE_URL = 'archive/{date:%Y}/'
+YEAR_ARCHIVE_SAVE_AS = 'archive/{date:%Y}/index.html'
 
-MONTH_ARCHIVE_URL = 'blog/archive/{date:%Y}/{date:%m}/'
-MONTH_ARCHIVE_SAVE_AS = 'blog/archive/{date:%Y}/{date:%m}/index.html'
+MONTH_ARCHIVE_URL = 'archive/{date:%Y}/{date:%m}/'
+MONTH_ARCHIVE_SAVE_AS = 'archive/{date:%Y}/{date:%m}/index.html'
 
-CATEGORY_URL = 'blog/category/{slug}/'
-CATEGORY_SAVE_AS = 'blog/category/{slug}/index.html'
+CATEGORY_URL = 'category/{slug}/'
+CATEGORY_SAVE_AS = 'category/{slug}/index.html'
 
-TAG_URL = 'blog/tag/{slug}/'
-TAG_SAVE_AS = 'blog/tag/{slug}/index.html'
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
@@ -205,14 +205,14 @@ PAGE_SAVE_AS = '{slug}/index.html'
 AUTHOR_SAVE_AS = ''
 AUTHORS_SAVE_AS = ''
 
-ARCHIVES_URL = 'blog/archives/'
-ARCHIVES_SAVE_AS = 'blog/archives/index.html'
+ARCHIVES_URL = 'archives/'
+ARCHIVES_SAVE_AS = 'archives/index.html'
 
-CATEGORIES_URL = 'blog/categories/'
-CATEGORIES_SAVE_AS = 'blog/categories/index.html'
+CATEGORIES_URL = 'categories/'
+CATEGORIES_SAVE_AS = 'categories/index.html'
 
-TAGS_URL = 'blog/tags/'
-TAGS_SAVE_AS = 'blog/tags/index.html'
+TAGS_URL = 'tags/'
+TAGS_SAVE_AS = 'tags/index.html'
 
 TAGS_URL = 'tags'
 TAGS_SAVE_AS = ''
