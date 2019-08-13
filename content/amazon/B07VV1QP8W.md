@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VV1QP8W: Ofertón en Amazon para Youbegou 170 Wide Angle Lens Full HD 2 I 
- date: 2019/08/13 15:12:07 +0000 
+ date: 2019/08/13 18:25:28 +0000 
  comments: true 
  tags: B07VV1QP8W 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Youbegou 170 Wide Angle Lens Full HD 2 Inch LCD 30m Waterproof Screen Action Camera](https://www.amazon.es/dp/B07VV1QP8W/?tag=redken-21) a precio de oferta de 49.99 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Tienes [Youbegou 170 Wide Angle Lens Full HD 2 Inch LCD 30m Waterproof Screen Action Camera](https://www.amazon.es/dp/B07VV1QP8W/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/514J49FHZDL._SL200_.jpg)](https://www.amazon.es/dp/B07VV1QP8W/?tag=redken-21) 
  

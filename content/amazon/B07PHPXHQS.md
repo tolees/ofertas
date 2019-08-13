@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PHPXHQS: Ofertón en Amazon para Echo Dot  3.ª generación  - Altavoz inte 
- date: 2019/08/12 11:51:59 +0000 
+ date: 2019/08/13 20:13:44 +0000 
  comments: true 
  tags: B07PHPXHQS 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color antracita](https://www.amazon.es/dp/B07PHPXHQS/?tag=redken-21) a precio de oferta de 59.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Tienes [Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color antracita](https://www.amazon.es/dp/B07PHPXHQS/?tag=redken-21) a precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41hX%2B2Es%2BvL._SL200_.jpg)](https://www.amazon.es/dp/B07PHPXHQS/?tag=redken-21) 
  

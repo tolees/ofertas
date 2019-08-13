@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDDXLVK: Ofertón en Amazon para TACKLIFE 18PCS Extractor de Tornillos  B 
- date: 2019/08/12 11:17:12 +0000 
+ date: 2019/08/13 19:49:49 +0000 
  comments: true 
  tags: B07GDDXLVK 
  category: ofertas 
