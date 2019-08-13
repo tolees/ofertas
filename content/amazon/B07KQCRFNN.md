@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQCRFNN: Ofertón en Amazon para Cámara CDR2 24MP 1080P Mini Digital con  
- date: 2019/08/11 22:25:19 +0000 
+ date: 2019/08/13 07:38:48 +0000 
  comments: true 
  tags: B07KQCRFNN 
  category: ofertas 

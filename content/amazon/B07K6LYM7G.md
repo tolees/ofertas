@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K6LYM7G: Ofertón en Amazon para Asics Gel-Nimbus 21  Zapatillas de Runni 
- date: 2019/08/12 06:09:47 +0000 
+ date: 2019/08/13 06:14:24 +0000 
  comments: true 
  tags: B07K6LYM7G 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Asics Gel-Nimbus 21  Zapatillas de Running para Mujer  Gris  Dark Mid Grey 021   35.5 EU](https://www.amazon.es/dp/B07K6LYM7G/?tag=redken-21) a precio de oferta de 72.46 EUR (original: 180 EUR) en el siguiente enlace! 
+ Tienes [Asics Gel-Nimbus 21  Zapatillas de Running para Mujer  Gris  Dark Mid Grey 021   35.5 EU](https://www.amazon.es/dp/B07K6LYM7G/?tag=redken-21) a precio de oferta de 72.44 EUR (original: 180 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Vk2ZH2VnL._SL200_.jpg)](https://www.amazon.es/dp/B07K6LYM7G/?tag=redken-21) 
  

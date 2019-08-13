@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QTGHJ8S: Ofertón en Amazon para BALFER - Auricular Bluetooth sobre el oí 
- date: 2019/08/12 06:11:09 +0000 
+ date: 2019/08/13 06:28:56 +0000 
  comments: true 
  tags: B07QTGHJ8S 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KR9KKWV: Ofertón en Amazon para  
- date: 2019/08/11 01:00:10 +0000 
+ date: 2019/08/13 01:52:44 +0000 
  comments: true 
  tags: B07KR9KKWV 
  category: ofertas 

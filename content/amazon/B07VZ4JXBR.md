@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VZ4JXBR: Ofertón en Amazon para FastDirect Auriculares Inalámbricos Blue 
- date: 2019/08/10 21:17:43 +0000 
+ date: 2019/08/13 08:10:56 +0000 
  comments: true 
  tags: B07VZ4JXBR 
  category: ofertas 

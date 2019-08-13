@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071Z6DCTL: Ofertón en Amazon para Lenovo L27q-10 - Monitor de 27"  QHD  25 
- date: 2019/08/12 08:51:22 +0000 
+ date: 2019/08/13 09:40:38 +0000 
  comments: true 
  tags: B071Z6DCTL 
  category: ofertas 

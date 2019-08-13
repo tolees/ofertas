@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VKSG3FQ: Ofertón en Amazon para VBIGER Mochila PU Escolar Bolso Mujer Ca 
- date: 2019/08/11 16:38:53 +0000 
+ date: 2019/08/13 08:59:49 +0000 
  comments: true 
  tags: B07VKSG3FQ 
  category: ofertas 
