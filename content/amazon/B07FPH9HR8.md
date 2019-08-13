@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FPH9HR8: Ofertón en Amazon para Xiaomi Mi Robot Aspirador 1 Generación A 
- date: 2019/08/12 10:33:46 +0000 
+ date: 2019/08/13 16:54:00 +0000 
  comments: true 
  tags: B07FPH9HR8 
  category: ofertas 

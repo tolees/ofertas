@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073JB4FDZ: Ofertón en Amazon para Cortefiel C7CC Cardigan Circular  Hombre 
- date: 2019/08/12 10:15:27 +0000 
+ date: 2019/08/13 15:28:30 +0000 
  comments: true 
  tags: B073JB4FDZ 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [Cortefiel C7CC Cardigan Circular  Hombre  Azul  Marine blue   X-Large  Tamaño del fabricante:XL ](https://www.amazon.es/dp/B073JB4FDZ/?tag=redken-21) a precio de oferta de 14 EUR (original: 14.74 EUR) en el siguiente enlace! 
+ Tienes [Cortefiel C7CC Cardigan Circular  Hombre  Azul  Marine blue   X-Large  Tamaño del fabricante:XL ](https://www.amazon.es/dp/B073JB4FDZ/?tag=redken-21) a precio de oferta de 13.77 EUR (original: 13.77 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41-2Bd1VEYL._SL200_.jpg)](https://www.amazon.es/dp/B073JB4FDZ/?tag=redken-21) 
  

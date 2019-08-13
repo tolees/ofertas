@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NCNZUG9: Ofertón en Amazon para Rowenta Premiss BS1060V0 - Báscula digit 
- date: 2019/08/12 08:04:07 +0000 
+ date: 2019/08/13 18:28:00 +0000 
  comments: true 
  tags: B01NCNZUG9 
  category: ofertas 

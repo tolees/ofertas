@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073NTJHYY: Ofertón en Amazon para BenQ GL2580H - Monitor Gaming de 24.5"   
- date: 2019/08/12 08:54:49 +0000 
+ date: 2019/08/13 17:12:29 +0000 
  comments: true 
  tags: B073NTJHYY 
  category: ofertas 

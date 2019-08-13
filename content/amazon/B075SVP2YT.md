@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075SVP2YT: Ofertón en Amazon para LEGO Friends - Autocaravana de MIA  4133 
- date: 2019/08/11 21:15:27 +0000 
+ date: 2019/08/13 16:04:44 +0000 
  comments: true 
  tags: B075SVP2YT 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Friends - Autocaravana de MIA  41339 ](https://www.amazon.es/dp/B075SVP2YT/?tag=redken-21) a precio de oferta de 54.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO Friends - Autocaravana de MIA  41339 ](https://www.amazon.es/dp/B075SVP2YT/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61sMTtqsO5L._SL200_.jpg)](https://www.amazon.es/dp/B075SVP2YT/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01D8KOE3W: Ofertón en Amazon para Arta tech - Inkwatch tria + 
- date: 2019/08/12 10:14:58 +0000 
+ date: 2019/08/13 15:21:13 +0000 
  comments: true 
  tags: B01D8KOE3W 
  category: ofertas 

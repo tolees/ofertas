@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06VVH63JC: Ofertón en Amazon para LEGO Ninjago - Templo del Arma Totalment 
- date: 2019/08/11 21:15:10 +0000 
+ date: 2019/08/13 19:33:27 +0000 
  comments: true 
  tags: B06VVH63JC 
  category: ofertas 

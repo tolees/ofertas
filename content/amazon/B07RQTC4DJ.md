@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RQTC4DJ: Ofertón en Amazon para Auriculares inalámbricos  SoundPEATS Tru 
- date: 2019/08/11 23:13:37 +0000 
+ date: 2019/08/13 14:39:03 +0000 
  comments: true 
  tags: B07RQTC4DJ 
  category: ofertas 

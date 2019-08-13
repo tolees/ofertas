@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P3HDJ2V: Ofertón en Amazon para Haofy Pulsoximeter  Dedo Pulsoximeter-He 
- date: 2019/08/12 12:10:53 +0000 
+ date: 2019/08/13 17:03:59 +0000 
  comments: true 
  tags: B07P3HDJ2V 
  category: ofertas 

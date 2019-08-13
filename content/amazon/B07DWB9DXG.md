@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DWB9DXG: Ofertón en Amazon para HOMIEE Oxímetro de Pulso  Pulsioxímetro  
- date: 2019/08/11 20:35:16 +0000 
+ date: 2019/08/13 15:10:05 +0000 
  comments: true 
  tags: B07DWB9DXG 
  category: ofertas 
