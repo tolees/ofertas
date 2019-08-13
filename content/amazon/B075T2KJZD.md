@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075T2KJZD: Ofertón en Amazon para LEGO Ninjago - Cuartel General de H.D.G  
- date: 2019/08/13 03:07:51 +0000 
+ date: 2019/08/13 03:38:17 +0000 
  comments: true 
  tags: B075T2KJZD 
  category: ofertas 
@@ -9,7 +9,7 @@
  description: 
  --- 
  
- Tienes [LEGO Ninjago - Cuartel General de H.D.G  70640 ](https://www.amazon.es/dp/B075T2KJZD/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [LEGO Ninjago - Cuartel General de H.D.G  70640 ](https://www.amazon.es/dp/B075T2KJZD/?tag=redken-21) a precio de oferta de 31.99 EUR (original: 44.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51vPtdJjZGL._SL200_.jpg)](https://www.amazon.es/dp/B075T2KJZD/?tag=redken-21) 
  

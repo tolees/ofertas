@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NVK9R9Y: Ofertón en Amazon para Altavoz Bluetooth con Estereo  COWIN 611 
- date: 2019/08/11 18:27:42 +0000 
+ date: 2019/08/12 20:46:34 +0000 
  comments: true 
  tags: B07NVK9R9Y 
  category: ofertas 
