@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B00SGONPRM: Ofertón en Amazon para hummel Tech de 2 Jacket Chaqueta Niños   
- date: 2019/08/13 09:23:54 +0000 
+ date: 2019/08/14 17:33:12 +0000 
  comments: true 
  tags: B00SGONPRM 
  category: ofertas 
  author: ring 
+ slug: B00SGONPRM 
  description: 
  --- 
  

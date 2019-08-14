@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07RWRLNWF: Ofertón en Amazon para Soporte de carga para teléfono móvil  so 
- date: 2019/08/13 16:08:24 +0000 
+ date: 2019/08/14 18:32:15 +0000 
  comments: true 
  tags: B07RWRLNWF 
  category: ofertas 
  author: ring 
+ slug: B07RWRLNWF 
  description: 
  --- 
  

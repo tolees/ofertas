@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01CP89KZA: Ofertón en Amazon para Mentos Chicle Sin Azúcar Pure Fresh Pock 
- date: 2019/08/13 16:02:29 +0000 
+ date: 2019/08/14 16:14:50 +0000 
  comments: true 
  tags: B01CP89KZA 
  category: ofertas 
  author: ring 
+ slug: B01CP89KZA 
  description: 
  --- 
  

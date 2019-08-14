@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07PDBCV3J: Ofertón en Amazon para Rotuladores Pincel DIAOCARE Set de 24 Ro 
- date: 2019/08/13 09:12:57 +0000 
+ date: 2019/08/14 16:13:03 +0000 
  comments: true 
  tags: B07PDBCV3J 
  category: ofertas 
  author: ring 
+ slug: B07PDBCV3J 
  description: 
  --- 
  

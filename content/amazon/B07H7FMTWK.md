@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07H7FMTWK: Ofertón en Amazon para Cocoda Afeitadora Barba  Mojado y Seco A 
- date: 2019/08/13 07:48:40 +0000 
+ date: 2019/08/14 18:04:13 +0000 
  comments: true 
  tags: B07H7FMTWK 
  category: ofertas 
  author: ring 
+ slug: B07H7FMTWK 
  description: 
  --- 
  

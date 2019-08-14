@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07L4DPMBC: Ofertón en Amazon para Asics Curreo II  Zapatillas de Running p 
- date: 2019/08/13 08:49:15 +0000 
+ date: 2019/08/14 17:02:39 +0000 
  comments: true 
  tags: B07L4DPMBC 
  category: ofertas 
  author: ring 
+ slug: B07L4DPMBC 
  description: 
  --- 
  

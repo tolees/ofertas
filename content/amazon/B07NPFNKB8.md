@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07NPFNKB8: Ofertón en Amazon para Scalpers Dirt tee Camiseta  Rojo  Raspbe 
- date: 2019/08/13 09:30:06 +0000 
+ date: 2019/08/14 16:00:28 +0000 
  comments: true 
  tags: B07NPFNKB8 
  category: ofertas 
  author: ring 
+ slug: B07NPFNKB8 
  description: 
  --- 
  

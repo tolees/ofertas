@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01ECFADSC: Ofertón en Amazon para Panasonic Lumix DMC-GX80EG - Cámara Digi 
- date: 2019/08/13 09:36:12 +0000 
+ date: 2019/08/14 14:45:18 +0000 
  comments: true 
  tags: B01ECFADSC 
  category: ofertas 
  author: ring 
+ slug: B01ECFADSC 
  description: 
  --- 
  

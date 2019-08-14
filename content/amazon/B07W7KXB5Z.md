@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07W7KXB5Z: Ofertón en Amazon para Sioneit Pantalla de Cine Plegable portát 
- date: 2019/08/12 21:36:12 +0000 
+ date: 2019/08/14 13:33:15 +0000 
  comments: true 
  tags: B07W7KXB5Z 
  category: ofertas 
  author: ring 
+ slug: B07W7KXB5Z 
  description: 
  --- 
  

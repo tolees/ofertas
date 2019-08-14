@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B001T3JCGU: Ofertón en Amazon para Oregon Scientific RM-368-P Despertador   
- date: 2019/08/13 15:40:48 +0000 
+ date: 2019/08/14 17:54:52 +0000 
  comments: true 
  tags: B001T3JCGU 
  category: ofertas 
  author: ring 
+ slug: B001T3JCGU 
  description: 
  --- 
  

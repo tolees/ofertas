@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07BBK6JZT: Ofertón en Amazon para COWIN DIDA Altavoz Inalambrica Bluetooth 
- date: 2019/08/13 08:10:01 +0000 
+ date: 2019/08/14 16:23:33 +0000 
  comments: true 
  tags: B07BBK6JZT 
  category: ofertas 
  author: ring 
+ slug: B07BBK6JZT 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07DQFM7ZT: Ofertón en Amazon para DADYPET Funda para Asiento de Perro Prot 
- date: 2019/08/13 07:46:01 +0000 
+ date: 2019/08/14 18:16:03 +0000 
  comments: true 
  tags: B07DQFM7ZT 
  category: ofertas 
  author: ring 
+ slug: B07DQFM7ZT 
  description: 
  --- 
  

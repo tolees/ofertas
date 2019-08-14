@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07LF9Q5LX: Ofertón en Amazon para Flyboo Máscara de Snorkel  180 ° Vista M 
- date: 2019/08/13 07:36:22 +0000 
+ date: 2019/08/14 19:12:12 +0000 
  comments: true 
  tags: B07LF9Q5LX 
  category: ofertas 
  author: ring 
+ slug: B07LF9Q5LX 
  description: 
  --- 
  

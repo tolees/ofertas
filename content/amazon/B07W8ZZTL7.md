@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07W8ZZTL7: Ofertón en Amazon para Tomasa Mujer Cardigan Drapeado de Manga  
- date: 2019/08/13 08:33:47 +0000 
+ date: 2019/08/14 18:16:37 +0000 
  comments: true 
  tags: B07W8ZZTL7 
  category: ofertas 
  author: ring 
+ slug: B07W8ZZTL7 
  description: 
  --- 
  

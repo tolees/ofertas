@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07TYYLXF8: Ofertón en Amazon para Lixada Casco de Bicicleta de Montaña Cas 
- date: 2019/08/13 15:35:34 +0000 
+ date: 2019/08/14 16:12:35 +0000 
  comments: true 
  tags: B07TYYLXF8 
  category: ofertas 
  author: ring 
+ slug: B07TYYLXF8 
  description: 
  --- 
  

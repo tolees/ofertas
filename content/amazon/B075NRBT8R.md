@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B075NRBT8R: Ofertón en Amazon para Cotonella C GU0060000 K2  Camiseta para  
- date: 2019/08/13 09:20:32 +0000 
+ date: 2019/08/14 13:49:24 +0000 
  comments: true 
  tags: B075NRBT8R 
  category: ofertas 
  author: ring 
+ slug: B075NRBT8R 
  description: 
  --- 
  

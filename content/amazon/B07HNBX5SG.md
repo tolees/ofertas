@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07HNBX5SG: Ofertón en Amazon para Taladro Atornillador TACKLIFE 12V  Bater 
- date: 2019/08/13 08:55:42 +0000 
+ date: 2019/08/14 17:09:52 +0000 
  comments: true 
  tags: B07HNBX5SG 
  category: ofertas 
  author: ring 
+ slug: B07HNBX5SG 
  description: 
  --- 
  

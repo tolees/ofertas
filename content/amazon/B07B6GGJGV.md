@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07B6GGJGV: Ofertón en Amazon para iRobot Roomba 981 Robot Aspirador para A 
- date: 2019/08/13 09:24:22 +0000 
+ date: 2019/08/14 17:44:11 +0000 
  comments: true 
  tags: B07B6GGJGV 
  category: ofertas 
  author: ring 
+ slug: B07B6GGJGV 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07FFMTQSK: Ofertón en Amazon para Levi s The Perfect Tee  Camiseta  Mujer  
- date: 2019/08/13 16:01:57 +0000 
+ date: 2019/08/14 16:45:38 +0000 
  comments: true 
  tags: B07FFMTQSK 
  category: ofertas 
  author: ring 
+ slug: B07FFMTQSK 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07Q9PPRDB: Ofertón en Amazon para Etlephe Enchufe Adaptador Universal de V 
- date: 2019/08/13 15:12:18 +0000 
+ date: 2019/08/14 18:00:29 +0000 
  comments: true 
  tags: B07Q9PPRDB 
  category: ofertas 
  author: ring 
+ slug: B07Q9PPRDB 
  description: 
  --- 
  

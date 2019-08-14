@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01FGGUWM8: Ofertón en Amazon para QNAP HS-251+ NAS Compacto Ethernet Negro 
- date: 2019/08/13 15:18:54 +0000 
+ date: 2019/08/14 16:09:42 +0000 
  comments: true 
  tags: B01FGGUWM8 
  category: ofertas 
  author: ring 
+ slug: B01FGGUWM8 
  description: 
  --- 
  

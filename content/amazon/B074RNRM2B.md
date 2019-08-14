@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B074RNRM2B: Ofertón en Amazon para SanDisk Ultra - Tarjeta de memoria micro 
- date: 2019/08/13 09:01:40 +0000 
+ date: 2019/08/14 14:12:24 +0000 
  comments: true 
  tags: B074RNRM2B 
  category: ofertas 
  author: ring 
+ slug: B074RNRM2B 
  description: 
  --- 
  

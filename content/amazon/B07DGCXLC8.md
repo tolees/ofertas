@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07DGCXLC8: Ofertón en Amazon para WISD 50W LED Focos  IP65 Ultralight Ultr 
- date: 2019/08/13 06:46:12 +0000 
+ date: 2019/08/14 15:11:14 +0000 
  comments: true 
  tags: B07DGCXLC8 
  category: ofertas 
  author: ring 
+ slug: B07DGCXLC8 
  description: 
  --- 
  

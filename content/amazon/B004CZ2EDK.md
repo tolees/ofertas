@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B004CZ2EDK: Ofertón en Amazon para Philips Epilier-Set Limited Edition HP65 
- date: 2019/08/12 21:05:36 +0000 
+ date: 2019/08/14 14:39:18 +0000 
  comments: true 
  tags: B004CZ2EDK 
  category: ofertas 
  author: ring 
+ slug: B004CZ2EDK 
  description: 
  --- 
  

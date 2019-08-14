@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07TP3CDX3: Ofertón en Amazon para Mini Cámara Espía Full HD 1080P WiFi Vid 
- date: 2019/08/12 20:32:09 +0000 
+ date: 2019/08/14 18:46:40 +0000 
  comments: true 
  tags: B07TP3CDX3 
  category: ofertas 
  author: ring 
+ slug: B07TP3CDX3 
  description: 
  --- 
  

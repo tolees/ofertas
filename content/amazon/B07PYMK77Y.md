@@ -1,15 +1,16 @@
 --- 
  layout: post 
  title: B07PYMK77Y: Ofertón en Amazon para Apple AirPods con estuche de carga  Últi 
- date: 2019/08/13 09:22:16 +0000 
+ date: 2019/08/14 16:42:31 +0000 
  comments: true 
  tags: B07PYMK77Y 
  category: ofertas 
  author: ring 
+ slug: B07PYMK77Y 
  description: 
  --- 
  
- Tienes [Apple AirPods con estuche de carga  Último Modelo ](https://www.amazon.es/dp/B07PYMK77Y/?tag=redken-21) a precio de oferta de   (original:  ) en el siguiente enlace! 
+ Tienes [Apple AirPods con estuche de carga  Último Modelo ](https://www.amazon.es/dp/B07PYMK77Y/?tag=redken-21) a precio de oferta de 159.99 EUR (original: 179 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/21ExsHmb3WL._SL200_.jpg)](https://www.amazon.es/dp/B07PYMK77Y/?tag=redken-21) 
  

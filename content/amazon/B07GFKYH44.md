@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07GFKYH44: Ofertón en Amazon para SKYSPER 6 Pares Calcetines de Deporte De 
- date: 2019/08/12 21:03:14 +0000 
+ date: 2019/08/14 19:10:47 +0000 
  comments: true 
  tags: B07GFKYH44 
  category: ofertas 
  author: ring 
+ slug: B07GFKYH44 
  description: 
  --- 
  

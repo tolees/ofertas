@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07WLJHX4C: Ofertón en Amazon para Homfa Banco Zapatero Bambú Organizador p 
- date: 2019/08/13 14:40:46 +0000 
+ date: 2019/08/14 16:18:44 +0000 
  comments: true 
  tags: B07WLJHX4C 
  category: ofertas 
  author: ring 
+ slug: B07WLJHX4C 
  description: 
  --- 
  
