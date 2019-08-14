@@ -6,6 +6,7 @@
  tags: B00IJF20VU 
  category: ofertas 
  author: ring 
+ slug: B00IJF20VU 
  description: 
  --- 
  

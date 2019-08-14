@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B073RQHDL9: Ofertón en Amazon para Bonobo PARKWOOLH  Abrigo para Hombre  Gr 
- date: 2019/08/12 10:49:13 +0000 
+ date: 2019/08/13 20:56:28 +0000 
  comments: true 
  tags: B073RQHDL9 
  category: ofertas 
  author: ring 
+ slug: B073RQHDL9 
  description: 
  --- 
  

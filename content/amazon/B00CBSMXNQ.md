@@ -6,6 +6,7 @@
  tags: B00CBSMXNQ 
  category: ofertas 
  author: ring 
+ slug: B00CBSMXNQ 
  description: 
  --- 
  

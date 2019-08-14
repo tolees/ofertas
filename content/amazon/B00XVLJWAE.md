@@ -6,6 +6,7 @@
  tags: B00XVLJWAE 
  category: ofertas 
  author: ring 
+ slug: B00XVLJWAE 
  description: 
  --- 
  

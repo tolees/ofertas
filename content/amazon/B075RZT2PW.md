@@ -6,6 +6,7 @@
  tags: B075RZT2PW 
  category: ofertas 
  author: ring 
+ slug: B075RZT2PW 
  description: 
  --- 
  

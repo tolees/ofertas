@@ -6,6 +6,7 @@
  tags: B00VAGCKE2 
  category: ofertas 
  author: ring 
+ slug: B00VAGCKE2 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B00ELC4U7W 
  category: ofertas 
  author: ring 
+ slug: B00ELC4U7W 
  description: 
  --- 
  

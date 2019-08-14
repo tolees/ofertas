@@ -6,6 +6,7 @@
  tags: B07PTPDT7D 
  category: ofertas 
  author: ring 
+ slug: B07PTPDT7D 
  description: 
  --- 
  

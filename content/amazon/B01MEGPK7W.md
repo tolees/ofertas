@@ -6,6 +6,7 @@
  tags: B01MEGPK7W 
  category: ofertas 
  author: ring 
+ slug: B01MEGPK7W 
  description: 
  --- 
  

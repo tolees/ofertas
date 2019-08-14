@@ -6,6 +6,7 @@
  tags: B00VXD0XFK 
  category: ofertas 
  author: ring 
+ slug: B00VXD0XFK 
  description: 
  --- 
  

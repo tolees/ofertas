@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07F7TZH5S: Ofertón en Amazon para Crock-Pot CSC052X-01 - Olla de cocción l 
- date: 2019/08/13 06:40:20 +0000 
+ date: 2019/08/14 07:19:31 +0000 
  comments: true 
  tags: B07F7TZH5S 
  category: ofertas 
  author: ring 
+ slug: B07F7TZH5S 
  description: 
  --- 
  

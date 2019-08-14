@@ -6,6 +6,7 @@
  tags: B0788RTLDX 
  category: ofertas 
  author: ring 
+ slug: B0788RTLDX 
  description: 
  --- 
  

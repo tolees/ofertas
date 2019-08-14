@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B06XWJ5HMY: Ofertón en Amazon para Huawei Mediapad T3 10 - Tablet 9.6" HD I 
- date: 2019/08/12 11:00:24 +0000 
+ date: 2019/08/13 22:28:43 +0000 
  comments: true 
  tags: B06XWJ5HMY 
  category: ofertas 
  author: ring 
+ slug: B06XWJ5HMY 
  description: 
  --- 
  

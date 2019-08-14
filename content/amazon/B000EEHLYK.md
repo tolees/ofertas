@@ -6,6 +6,7 @@
  tags: B000EEHLYK 
  category: ofertas 
  author: ring 
+ slug: B000EEHLYK 
  description: 
  --- 
  

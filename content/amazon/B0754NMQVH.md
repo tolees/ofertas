@@ -6,6 +6,7 @@
  tags: B0754NMQVH 
  category: ofertas 
  author: ring 
+ slug: B0754NMQVH 
  description: 
  --- 
  

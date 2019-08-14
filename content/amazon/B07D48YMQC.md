@@ -6,6 +6,7 @@
  tags: B07D48YMQC 
  category: ofertas 
  author: ring 
+ slug: B07D48YMQC 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B00NYQPB6U 
  category: ofertas 
  author: ring 
+ slug: B00NYQPB6U 
  description: 
  --- 
  

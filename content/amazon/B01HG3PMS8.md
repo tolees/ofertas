@@ -6,6 +6,7 @@
  tags: B01HG3PMS8 
  category: ofertas 
  author: ring 
+ slug: B01HG3PMS8 
  description: 
  --- 
  

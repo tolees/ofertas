@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01LTI10YG: Ofertón en Amazon para NESCAFÉ Dolce Gusto Café con Leche | Pac 
- date: 2019/08/12 22:22:52 +0000 
+ date: 2019/08/14 00:01:59 +0000 
  comments: true 
  tags: B01LTI10YG 
  category: ofertas 
  author: ring 
+ slug: B01LTI10YG 
  description: 
  --- 
  

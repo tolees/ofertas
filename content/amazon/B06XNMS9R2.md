@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B06XNMS9R2: Ofertón en Amazon para Meiruo Pulsera Brazalete para Garmin Viv 
- date: 2019/08/12 11:29:35 +0000 
+ date: 2019/08/13 22:36:52 +0000 
  comments: true 
  tags: B06XNMS9R2 
  category: ofertas 
  author: ring 
+ slug: B06XNMS9R2 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B00EPM2DTK 
  category: ofertas 
  author: ring 
+ slug: B00EPM2DTK 
  description: 
  --- 
  

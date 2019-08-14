@@ -6,6 +6,7 @@
  tags: B0191WRSGQ 
  category: ofertas 
  author: ring 
+ slug: B0191WRSGQ 
  description: 
  --- 
  

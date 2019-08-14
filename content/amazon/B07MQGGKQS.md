@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07MQGGKQS: Ofertón en Amazon para Darkest Dungeon Collector s 
- date: 2019/08/12 08:44:22 +0000 
+ date: 2019/08/14 08:05:16 +0000 
  comments: true 
  tags: B07MQGGKQS 
  category: ofertas 
  author: ring 
+ slug: B07MQGGKQS 
  description: 
  --- 
  

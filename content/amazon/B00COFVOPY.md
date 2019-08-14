@@ -6,6 +6,7 @@
  tags: B00COFVOPY 
  category: ofertas 
  author: ring 
+ slug: B00COFVOPY 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B075LDJRX2 
  category: ofertas 
  author: ring 
+ slug: B075LDJRX2 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B00WXUZ38Y 
  category: ofertas 
  author: ring 
+ slug: B00WXUZ38Y 
  description: 
  --- 
  

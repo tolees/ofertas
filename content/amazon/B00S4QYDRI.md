@@ -6,6 +6,7 @@
  tags: B00S4QYDRI 
  category: ofertas 
  author: ring 
+ slug: B00S4QYDRI 
  description: 
  --- 
  

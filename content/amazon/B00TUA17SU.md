@@ -6,6 +6,7 @@
  tags: B00TUA17SU 
  category: ofertas 
  author: ring 
+ slug: B00TUA17SU 
  description: 
  --- 
  

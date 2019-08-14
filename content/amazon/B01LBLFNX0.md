@@ -6,6 +6,7 @@
  tags: B01LBLFNX0 
  category: ofertas 
  author: ring 
+ slug: B01LBLFNX0 
  description: 
  --- 
  

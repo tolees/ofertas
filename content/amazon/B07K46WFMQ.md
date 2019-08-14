@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07K46WFMQ: Ofertón en Amazon para WISHDOIT Hombre Moda Clásico Negro Ultra 
- date: 2019/08/12 20:58:53 +0000 
+ date: 2019/08/13 23:48:42 +0000 
  comments: true 
  tags: B07K46WFMQ 
  category: ofertas 
  author: ring 
+ slug: B07K46WFMQ 
  description: 
  --- 
  

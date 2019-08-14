@@ -6,6 +6,7 @@
  tags: B07K6FSMZX 
  category: ofertas 
  author: ring 
+ slug: B07K6FSMZX 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01N97EODE: Ofertón en Amazon para JACK & JONES Jjitim Jjleon Sc 079 Indigo 
- date: 2019/08/12 11:14:55 +0000 
+ date: 2019/08/14 05:44:56 +0000 
  comments: true 
  tags: B01N97EODE 
  category: ofertas 
  author: ring 
+ slug: B01N97EODE 
  description: 
  --- 
  

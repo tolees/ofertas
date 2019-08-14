@@ -6,6 +6,7 @@
  tags: B06XP7SFPS 
  category: ofertas 
  author: ring 
+ slug: B06XP7SFPS 
  description: 
  --- 
  

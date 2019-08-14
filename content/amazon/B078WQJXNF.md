@@ -1,15 +1,16 @@
 --- 
  layout: post 
  title: B078WQJXNF: Ofertón en Amazon para Samsung 860 EVO MZ-76E250B/EU - Disco du 
- date: 2019/08/12 20:53:48 +0000 
+ date: 2019/08/14 04:21:08 +0000 
  comments: true 
  tags: B078WQJXNF 
  category: ofertas 
  author: ring 
+ slug: B078WQJXNF 
  description: 
  --- 
  
- Tienes [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.es/dp/B078WQJXNF/?tag=redken-21) a precio de oferta de 59.56 EUR (original: 119.99 EUR) en el siguiente enlace! 
+ Tienes [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.es/dp/B078WQJXNF/?tag=redken-21) a precio de oferta de 59.55 EUR (original: 119.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31fG43h01HL._SL200_.jpg)](https://www.amazon.es/dp/B078WQJXNF/?tag=redken-21) 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07FFKG2J4: Ofertón en Amazon para Luces Solares para Exteriores Sunix  Luz 
- date: 2019/08/12 11:31:45 +0000 
+ date: 2019/08/14 08:13:20 +0000 
  comments: true 
  tags: B07FFKG2J4 
  category: ofertas 
  author: ring 
+ slug: B07FFKG2J4 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B00FL1IFM8 
  category: ofertas 
  author: ring 
+ slug: B00FL1IFM8 
  description: 
  --- 
  

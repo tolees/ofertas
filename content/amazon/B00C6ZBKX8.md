@@ -6,6 +6,7 @@
  tags: B00C6ZBKX8 
  category: ofertas 
  author: ring 
+ slug: B00C6ZBKX8 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B00DDPWAH0: Ofertón en Amazon para Vivienne Westwood VV080BKTN - Reloj anal 
- date: 2019/08/12 23:01:41 +0000 
+ date: 2019/08/13 23:17:16 +0000 
  comments: true 
  tags: B00DDPWAH0 
  category: ofertas 
  author: ring 
+ slug: B00DDPWAH0 
  description: 
  --- 
  

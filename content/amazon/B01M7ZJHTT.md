@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01M7ZJHTT: Ofertón en Amazon para Generica - Smartwatch dz09 sim y SD Plat 
- date: 2019/08/12 11:23:22 +0000 
+ date: 2019/08/13 22:16:41 +0000 
  comments: true 
  tags: B01M7ZJHTT 
  category: ofertas 
  author: ring 
+ slug: B01M7ZJHTT 
  description: 
  --- 
  

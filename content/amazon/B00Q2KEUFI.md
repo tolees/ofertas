@@ -6,6 +6,7 @@
  tags: B00Q2KEUFI 
  category: ofertas 
  author: ring 
+ slug: B00Q2KEUFI 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B06VVH63JC 
  category: ofertas 
  author: ring 
+ slug: B06VVH63JC 
  description: 
  --- 
  

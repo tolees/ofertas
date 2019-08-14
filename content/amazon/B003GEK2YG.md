@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B003GEK2YG: Ofertón en Amazon para Severin - Mini-Frigorífico  42 L  Ks 982 
- date: 2019/08/13 07:18:11 +0000 
+ date: 2019/08/14 08:04:27 +0000 
  comments: true 
  tags: B003GEK2YG 
  category: ofertas 
  author: ring 
+ slug: B003GEK2YG 
  description: 
  --- 
  

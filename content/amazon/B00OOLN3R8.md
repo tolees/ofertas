@@ -6,6 +6,7 @@
  tags: B00OOLN3R8 
  category: ofertas 
  author: ring 
+ slug: B00OOLN3R8 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B004T8LXDM 
  category: ofertas 
  author: ring 
+ slug: B004T8LXDM 
  description: 
  --- 
  

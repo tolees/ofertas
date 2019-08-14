@@ -6,6 +6,7 @@
  tags: B00PNUHOR4 
  category: ofertas 
  author: ring 
+ slug: B00PNUHOR4 
  description: 
  --- 
  

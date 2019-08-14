@@ -1,15 +1,16 @@
 --- 
  layout: post 
  title: B0751RBMYB: Ofertón en Amazon para New Balance Cypher Run  Zapatillas para  
- date: 2019/08/12 11:38:51 +0000 
+ date: 2019/08/14 06:09:04 +0000 
  comments: true 
  tags: B0751RBMYB 
  category: ofertas 
  author: ring 
+ slug: B0751RBMYB 
  description: 
  --- 
  
- Tienes [New Balance Cypher Run  Zapatillas para Hombre  Negro  Black   46.5 EU](https://www.amazon.es/dp/B0751RBMYB/?tag=redken-21) a precio de oferta de 31.43 EUR (original: 31.43 EUR) en el siguiente enlace! 
+ Tienes [New Balance Cypher Run  Zapatillas para Hombre  Negro  Black   46.5 EU](https://www.amazon.es/dp/B0751RBMYB/?tag=redken-21) a precio de oferta de 28.37 EUR (original: 28.37 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/415MyVLOCdL._SL200_.jpg)](https://www.amazon.es/dp/B0751RBMYB/?tag=redken-21) 
  

@@ -6,6 +6,7 @@
  tags: B01MRN4FTY 
  category: ofertas 
  author: ring 
+ slug: B01MRN4FTY 
  description: 
  --- 
  

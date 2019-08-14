@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B06XWWSQLM: Ofertón en Amazon para Jabra Speak 710 - Altavoz de teleconfere 
- date: 2019/08/11 23:52:55 +0000 
+ date: 2019/08/13 22:05:19 +0000 
  comments: true 
  tags: B06XWWSQLM 
  category: ofertas 
  author: ring 
+ slug: B06XWWSQLM 
  description: 
  --- 
  

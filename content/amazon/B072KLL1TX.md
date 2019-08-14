@@ -6,6 +6,7 @@
  tags: B072KLL1TX 
  category: ofertas 
  author: ring 
+ slug: B072KLL1TX 
  description: 
  --- 
  

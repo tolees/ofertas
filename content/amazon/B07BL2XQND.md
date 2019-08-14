@@ -6,6 +6,7 @@
  tags: B07BL2XQND 
  category: ofertas 
  author: ring 
+ slug: B07BL2XQND 
  description: 
  --- 
  

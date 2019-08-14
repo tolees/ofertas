@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B075H6DVFY: Ofertón en Amazon para Epson EB-X05 - Proyector XGA  Pantalla d 
- date: 2019/08/12 05:16:13 +0000 
+ date: 2019/08/14 01:08:10 +0000 
  comments: true 
  tags: B075H6DVFY 
  category: ofertas 
  author: ring 
+ slug: B075H6DVFY 
  description: 
  --- 
  

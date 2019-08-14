@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B011KLT2YW: Ofertón en Amazon para Salewa Ms Ultra Train  Zapatillas de Sen 
- date: 2019/08/12 20:58:26 +0000 
+ date: 2019/08/13 23:36:32 +0000 
  comments: true 
  tags: B011KLT2YW 
  category: ofertas 
  author: ring 
+ slug: B011KLT2YW 
  description: 
  --- 
  

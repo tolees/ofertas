@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B00LPDLV3G: Ofertón en Amazon para Reebok de Hombre Dauntless 8-Inch sin Co 
- date: 2019/08/12 20:40:53 +0000 
+ date: 2019/08/13 22:52:52 +0000 
  comments: true 
  tags: B00LPDLV3G 
  category: ofertas 
  author: ring 
+ slug: B00LPDLV3G 
  description: 
  --- 
  

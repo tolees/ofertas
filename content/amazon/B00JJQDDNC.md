@@ -6,6 +6,7 @@
  tags: B00JJQDDNC 
  category: ofertas 
  author: ring 
+ slug: B00JJQDDNC 
  description: 
  --- 
  

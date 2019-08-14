@@ -6,6 +6,7 @@
  tags: B00P0USXN6 
  category: ofertas 
  author: ring 
+ slug: B00P0USXN6 
  description: 
  --- 
  

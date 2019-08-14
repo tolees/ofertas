@@ -6,6 +6,7 @@
  tags: B01GILLO6I 
  category: ofertas 
  author: ring 
+ slug: B01GILLO6I 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B06XBXNSHB 
  category: ofertas 
  author: ring 
+ slug: B06XBXNSHB 
  description: 
  --- 
  

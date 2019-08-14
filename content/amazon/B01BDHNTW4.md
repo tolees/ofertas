@@ -6,6 +6,7 @@
  tags: B01BDHNTW4 
  category: ofertas 
  author: ring 
+ slug: B01BDHNTW4 
  description: 
  --- 
  

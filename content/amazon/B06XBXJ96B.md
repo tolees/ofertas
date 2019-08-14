@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B06XBXJ96B: Ofertón en Amazon para find. Zapato Clásico de Piel para Hombre 
- date: 2019/08/12 23:12:13 +0000 
+ date: 2019/08/14 06:04:28 +0000 
  comments: true 
  tags: B06XBXJ96B 
  category: ofertas 
  author: ring 
+ slug: B06XBXJ96B 
  description: 
  --- 
  

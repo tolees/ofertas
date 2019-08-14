@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B073JYVKNX: Ofertón en Amazon para SanDisk Ultra - Tarjeta de memoria micro 
- date: 2019/08/13 07:37:42 +0000 
+ date: 2019/08/14 07:43:10 +0000 
  comments: true 
  tags: B073JYVKNX 
  category: ofertas 
  author: ring 
+ slug: B073JYVKNX 
  description: 
  --- 
  

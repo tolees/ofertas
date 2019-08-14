@@ -6,6 +6,7 @@
  tags: B00MP0RCAY 
  category: ofertas 
  author: ring 
+ slug: B00MP0RCAY 
  description: 
  --- 
  

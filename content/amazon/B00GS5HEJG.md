@@ -6,6 +6,7 @@
  tags: B00GS5HEJG 
  category: ofertas 
  author: ring 
+ slug: B00GS5HEJG 
  description: 
  --- 
  

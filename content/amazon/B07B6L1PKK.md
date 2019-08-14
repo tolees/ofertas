@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07B6L1PKK: Ofertón en Amazon para Kaporal Lenz Abrigo  Verde  DARKOL   S p 
- date: 2019/08/12 22:00:21 +0000 
+ date: 2019/08/14 01:16:11 +0000 
  comments: true 
  tags: B07B6L1PKK 
  category: ofertas 
  author: ring 
+ slug: B07B6L1PKK 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B00BFUFIYM 
  category: ofertas 
  author: ring 
+ slug: B00BFUFIYM 
  description: 
  --- 
  

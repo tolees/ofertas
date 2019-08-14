@@ -6,6 +6,7 @@
  tags: B07TP4SDTW 
  category: ofertas 
  author: ring 
+ slug: B07TP4SDTW 
  description: 
  --- 
  

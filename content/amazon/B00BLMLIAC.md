@@ -6,6 +6,7 @@
  tags: B00BLMLIAC 
  category: ofertas 
  author: ring 
+ slug: B00BLMLIAC 
  description: 
  --- 
  

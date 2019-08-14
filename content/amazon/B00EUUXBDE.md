@@ -6,6 +6,7 @@
  tags: B00EUUXBDE 
  category: ofertas 
  author: ring 
+ slug: B00EUUXBDE 
  description: 
  --- 
  
