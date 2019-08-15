@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VAGCKE2: Ofertón en Amazon para Taurus Cafetera Goteo Verona 6 6 Tazas   
- date: 2019/08/13 19:19:47 +0000 
+ date: 2019/08/15 19:29:36 +0000 
  comments: true 
  tags: B00VAGCKE2 
  category: ofertas 

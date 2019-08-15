@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BPZD3B4: Ofertón en Amazon para Lee Rider Jeans Vaqueros Slim  Negro  Bl 
- date: 2019/08/13 22:24:38 +0000 
+ date: 2019/08/15 19:27:29 +0000 
  comments: true 
  tags: B07BPZD3B4 
  category: ofertas 

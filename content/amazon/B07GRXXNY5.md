@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07GRXXNY5: Ofertón en Amazon para Enchufe Inteligente Wifi  GBlife Enchufe 
- date: 2019/08/13 09:25:20 +0000 
+ date: 2019/08/15 20:23:13 +0000 
  comments: true 
  tags: B07GRXXNY5 
  category: ofertas 
  author: ring 
+ slug: B07GRXXNY5 
  description: 
  --- 
  

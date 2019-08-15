@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DQBFQ2D: Ofertón en Amazon para Seagate 8 TB Expansion  Edición Especial 
- date: 2019/08/14 19:19:52 +0000 
+ date: 2019/08/15 20:29:04 +0000 
  comments: true 
  tags: B07DQBFQ2D 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GW4GYFW: Ofertón en Amazon para Shadow Of The Tomb Raider - Standard Edi 
- date: 2019/08/13 19:07:55 +0000 
+ date: 2019/08/15 19:33:47 +0000 
  comments: true 
  tags: B07GW4GYFW 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Shadow Of The Tomb Raider - Standard Edition](https://www.amazon.es/dp/B07GW4GYFW/?tag=redken-21) a precio de oferta de 25.9 EUR (original: 25.9 EUR) en el siguiente enlace! 
+ Tienes [Shadow Of The Tomb Raider - Standard Edition](https://www.amazon.es/dp/B07GW4GYFW/?tag=redken-21) a precio de oferta de 24.95 EUR (original: 24.95 EUR) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B07GW4GYFW/?tag=redken-21) 
  

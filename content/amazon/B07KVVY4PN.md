@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KVVY4PN: Ofertón en Amazon para Honor View 10 Lite - Smartphone de 6.5"  
- date: 2019/08/14 14:31:03 +0000 
+ date: 2019/08/15 14:37:32 +0000 
  comments: true 
  tags: B07KVVY4PN 
  category: ofertas 

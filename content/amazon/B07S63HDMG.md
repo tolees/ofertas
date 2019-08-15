@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07S63HDMG: Ofertón en Amazon para Bomba de Bola  Bomba de Aire rápida eléc 
- date: 2019/08/13 00:01:17 +0000 
+ date: 2019/08/15 20:48:40 +0000 
  comments: true 
  tags: B07S63HDMG 
  category: ofertas 
  author: ring 
+ slug: B07S63HDMG 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07TTCR1P6: Ofertón en Amazon para Eroihe Cargador de Coche Adaptador USB d 
- date: 2019/08/12 22:25:18 +0000 
+ date: 2019/08/15 20:48:29 +0000 
  comments: true 
  tags: B07TTCR1P6 
  category: ofertas 
  author: ring 
+ slug: B07TTCR1P6 
  description: 
  --- 
  

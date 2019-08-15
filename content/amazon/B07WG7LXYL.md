@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07WG7LXYL: Ofertón en Amazon para Zuionk 3Pcs Nueva Cartera de bolso de ho 
- date: 2019/08/13 16:09:15 +0000 
+ date: 2019/08/15 20:27:01 +0000 
  comments: true 
  tags: B07WG7LXYL 
  category: ofertas 
  author: ring 
+ slug: B07WG7LXYL 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07GCGZC4J: Ofertón en Amazon para Napapijri Hombres Chaquetas/Chaqueta de  
- date: 2019/08/12 21:52:22 +0000 
+ date: 2019/08/15 20:57:32 +0000 
  comments: true 
  tags: B07GCGZC4J 
  category: ofertas 
  author: ring 
+ slug: B07GCGZC4J 
  description: 
  --- 
  

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07P8SVQLB: Ofertón en Amazon para Kit de Accesorios 13 en 1 Para Nintendo  
- date: 2019/08/13 07:36:56 +0000 
+ date: 2019/08/15 18:07:58 +0000 
  comments: true 
  tags: B07P8SVQLB 
  category: ofertas 
  author: ring 
+ slug: B07P8SVQLB 
  description: 
  --- 
  

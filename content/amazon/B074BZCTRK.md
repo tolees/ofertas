@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074BZCTRK: Ofertón en Amazon para Pepe Jeans Kingston Zip  Vaqueros Recto  
- date: 2019/08/14 07:12:56 +0000 
+ date: 2019/08/15 19:34:28 +0000 
  comments: true 
  tags: B074BZCTRK 
  category: ofertas 

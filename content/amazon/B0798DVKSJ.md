@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0798DVKSJ: Ofertón en Amazon para Western Digital My Passport - Disco Duro 
- date: 2019/08/13 21:11:12 +0000 
+ date: 2019/08/15 13:44:21 +0000 
  comments: true 
  tags: B0798DVKSJ 
  category: ofertas 

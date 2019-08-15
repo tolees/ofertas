@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MJKBGYC: Ofertón en Amazon para TEENO 20V Taladro Atornillador Bateria   
- date: 2019/08/13 20:36:22 +0000 
+ date: 2019/08/15 15:05:17 +0000 
  comments: true 
  tags: B07MJKBGYC 
  category: ofertas 

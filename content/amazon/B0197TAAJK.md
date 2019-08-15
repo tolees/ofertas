@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0197TAAJK: Ofertón en Amazon para QNAP TS-251+ Ethernet Torre Negro NAS -  
- date: 2019/08/14 01:04:30 +0000 
+ date: 2019/08/15 19:18:50 +0000 
  comments: true 
  tags: B0197TAAJK 
  category: ofertas 

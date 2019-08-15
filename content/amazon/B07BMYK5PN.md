@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BMYK5PN: Ofertón en Amazon para Valkyria Chronicles 4 - Xbox One 
- date: 2019/08/14 07:14:30 +0000 
+ date: 2019/08/15 20:06:07 +0000 
  comments: true 
  tags: B07BMYK5PN 
  category: ofertas 

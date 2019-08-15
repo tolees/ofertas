@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07FQDGRP4: Ofertón en Amazon para Relojes para Hombre Acero Inoxidable Imp 
- date: 2019/08/13 16:51:04 +0000 
+ date: 2019/08/15 18:36:15 +0000 
  comments: true 
  tags: B07FQDGRP4 
  category: ofertas 
  author: ring 
+ slug: B07FQDGRP4 
  description: 
  --- 
  

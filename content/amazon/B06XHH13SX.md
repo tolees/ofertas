@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B06XHH13SX: Ofertón en Amazon para REEHUT Colchoneta de Yoga de NBR de Alta 
- date: 2019/08/13 07:12:13 +0000 
+ date: 2019/08/15 18:56:23 +0000 
  comments: true 
  tags: B06XHH13SX 
  category: ofertas 
  author: ring 
+ slug: B06XHH13SX 
  description: 
  --- 
  

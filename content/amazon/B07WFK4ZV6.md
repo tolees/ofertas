@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WFK4ZV6: Ofertón en Amazon para Medusa Bolsas de viaje portátiles Bolsas 
- date: 2019/08/14 17:04:54 +0000 
+ date: 2019/08/15 18:26:57 +0000 
  comments: true 
  tags: B07WFK4ZV6 
  category: ofertas 

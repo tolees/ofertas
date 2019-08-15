@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IUC3QGU: Ofertón en Amazon para Cogito Pop - Smartwatch  USB  Bluetooth  
- date: 2019/08/13 21:36:53 +0000 
+ date: 2019/08/15 14:33:24 +0000 
  comments: true 
  tags: B00IUC3QGU 
  category: ofertas 

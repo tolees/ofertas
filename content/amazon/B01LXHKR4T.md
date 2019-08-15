@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LXHKR4T: Ofertón en Amazon para Memoria Flash USB SanDisk Ultra Dual m3. 
- date: 2019/08/14 02:16:19 +0000 
+ date: 2019/08/15 18:20:35 +0000 
  comments: true 
  tags: B01LXHKR4T 
  category: ofertas 

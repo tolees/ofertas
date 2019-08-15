@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00P8XQPY4: Ofertón en Amazon para Memoria Flash USB 3.0 SanDisk Ultra de 1 
- date: 2019/08/14 17:41:59 +0000 
+ date: 2019/08/15 20:18:12 +0000 
  comments: true 
  tags: B00P8XQPY4 
  category: ofertas 

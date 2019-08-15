@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HVMV88P: Ofertón en Amazon para Taladro atornillador inalámbrico  18 V   
- date: 2019/08/14 18:34:15 +0000 
+ date: 2019/08/15 19:09:57 +0000 
  comments: true 
  tags: B07HVMV88P 
  category: ofertas 

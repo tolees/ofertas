@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01M0JCUHY: Ofertón en Amazon para San Ignacio Set de Sarténes  Aluminio  M 
- date: 2019/08/13 08:12:12 +0000 
+ date: 2019/08/15 15:05:56 +0000 
  comments: true 
  tags: B01M0JCUHY 
  category: ofertas 
  author: ring 
+ slug: B01M0JCUHY 
  description: 
  --- 
  

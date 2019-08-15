@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07VNRTRRQ: Ofertón en Amazon para kewmer Collar de la joyería de la Cadena 
- date: 2019/08/13 09:33:55 +0000 
+ date: 2019/08/15 14:16:22 +0000 
  comments: true 
  tags: B07VNRTRRQ 
  category: ofertas 
  author: ring 
+ slug: B07VNRTRRQ 
  description: 
  --- 
  

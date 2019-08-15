@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07CKCFQJZ: Ofertón en Amazon para BOSS Schino-Slim D Pantalones  Azul  Ope 
- date: 2019/08/13 09:15:47 +0000 
+ date: 2019/08/15 14:30:33 +0000 
  comments: true 
  tags: B07CKCFQJZ 
  category: ofertas 
  author: ring 
+ slug: B07CKCFQJZ 
  description: 
  --- 
  

@@ -1,15 +1,16 @@
 --- 
  layout: post 
  title: B01MT9Z5AQ: Ofertón en Amazon para Pepe Jeans Kingston Zip  Vaqueros Regula 
- date: 2019/08/13 16:48:53 +0000 
+ date: 2019/08/15 19:26:11 +0000 
  comments: true 
  tags: B01MT9Z5AQ 
  category: ofertas 
  author: ring 
+ slug: B01MT9Z5AQ 
  description: 
  --- 
  
- Tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Streaky Vintage Used M84   W28/L30](https://www.amazon.es/dp/B01MT9Z5AQ/?tag=redken-21) a precio de oferta de 27.44 EUR (original: 95 EUR) en el siguiente enlace! 
+ Tienes [Pepe Jeans Kingston Zip  Vaqueros Regular para Hombre  Azul  11Oz Streaky Vintage Used M84   W28/L30](https://www.amazon.es/dp/B01MT9Z5AQ/?tag=redken-21) a precio de oferta de 24.82 EUR (original: 95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41H85ioDcJL._SL200_.jpg)](https://www.amazon.es/dp/B01MT9Z5AQ/?tag=redken-21) 
  

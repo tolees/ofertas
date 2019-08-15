@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07HDMDBP5: Ofertón en Amazon para perfk Soporte Universal De La GPS del So 
- date: 2019/08/12 20:36:57 +0000 
+ date: 2019/08/15 15:17:29 +0000 
  comments: true 
  tags: B07HDMDBP5 
  category: ofertas 
  author: ring 
+ slug: B07HDMDBP5 
  description: 
  --- 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P9BZCYC: Ofertón en Amazon para JACK & JONES Jcotony Polo SS WHS  Negro  
- date: 2019/08/14 17:24:07 +0000 
+ date: 2019/08/15 18:44:35 +0000 
  comments: true 
  tags: B07P9BZCYC 
  category: ofertas 
