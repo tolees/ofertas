@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQDRX4Q: Ofertón en Amazon para 710 7 Pulgadas de Pantalla del Coche cam 
- date: 2019/08/13 19:57:41 +0000 
+ date: 2019/08/16 07:54:07 +0000 
  comments: true 
  tags: B07KQDRX4Q 
  category: ofertas 

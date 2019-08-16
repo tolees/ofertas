@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GL2RDHL: Ofertón en Amazon para Wiko View2 Go - Smartphone con pantalla  
- date: 2019/08/14 08:08:48 +0000 
+ date: 2019/08/16 06:28:22 +0000 
  comments: true 
  tags: B07GL2RDHL 
  category: ofertas 

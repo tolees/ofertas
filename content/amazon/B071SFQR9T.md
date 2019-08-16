@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071SFQR9T: Ofertón en Amazon para Bluedio F2  Faith  Auriculares inalámbri 
- date: 2019/08/13 19:12:35 +0000 
+ date: 2019/08/16 10:55:15 +0000 
  comments: true 
  tags: B071SFQR9T 
  category: ofertas 

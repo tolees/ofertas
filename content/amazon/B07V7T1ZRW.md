@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07V7T1ZRW: Ofertón en Amazon para Auriculares Bluetooth V5.0  Auriculares  
- date: 2019/08/14 06:39:49 +0000 
+ date: 2019/08/16 10:14:34 +0000 
  comments: true 
  tags: B07V7T1ZRW 
  category: ofertas 

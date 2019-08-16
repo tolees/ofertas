@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XFYFJF2: Ofertón en Amazon para Bluetooth Altavoz  NILLKIN X-Man Altavoz 
- date: 2019/08/13 19:45:41 +0000 
+ date: 2019/08/16 10:19:56 +0000 
  comments: true 
  tags: B06XFYFJF2 
  category: ofertas 

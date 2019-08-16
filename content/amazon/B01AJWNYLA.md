@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AJWNYLA: Ofertón en Amazon para Maxtor STSHX-M101TCBM - Disco Duro Exter 
- date: 2019/08/14 18:39:54 +0000 
+ date: 2019/08/16 09:46:04 +0000 
  comments: true 
  tags: B01AJWNYLA 
  category: ofertas 

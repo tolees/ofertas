@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LBKP9G2: Ofertón en Amazon para Tommy Jeans TJM Rugby Stripe Sweater Jer 
- date: 2019/08/14 07:24:02 +0000 
+ date: 2019/08/16 08:58:20 +0000 
  comments: true 
  tags: B07LBKP9G2 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Tommy Jeans TJM Rugby Stripe Sweater Jersey  Azul  Limoges 434   S para Hombre](https://www.amazon.es/dp/B07LBKP9G2/?tag=redken-21) a precio de oferta de 27.02 EUR (original: 85 EUR) en el siguiente enlace! 
+ Tienes [Tommy Jeans TJM Rugby Stripe Sweater Jersey  Azul  Limoges 434   S para Hombre](https://www.amazon.es/dp/B07LBKP9G2/?tag=redken-21) a precio de oferta de 26.29 EUR (original: 85 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41L3fbwOX-L._SL200_.jpg)](https://www.amazon.es/dp/B07LBKP9G2/?tag=redken-21) 
  
