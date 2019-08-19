@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WGNLZ9J: Ofertón en Amazon para zeseam Collares pendientes de la cadena  
- date: 2019/08/16 10:02:56 +0000 
+ date: 2019/08/18 16:34:56 +0000 
  comments: true 
  tags: B07WGNLZ9J 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078XBP3XW: Ofertón en Amazon para Casio LA-20WH-1A Reloj de pulsera para m 
- date: 2019/08/15 20:11:34 +0000 
+ date: 2019/08/19 05:28:18 +0000 
  comments: true 
  tags: B078XBP3XW 
  category: ofertas 

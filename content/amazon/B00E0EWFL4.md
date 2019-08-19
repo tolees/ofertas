@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00E0EWFL4: Ofertón en Amazon para Highland Park Viking Honour Whisky Escoc 
- date: 2019/08/15 19:49:11 +0000 
+ date: 2019/08/18 18:11:44 +0000 
  comments: true 
  tags: B00E0EWFL4 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Highland Park Viking Honour Whisky Escocés de 12 años - 700 ml](https://www.amazon.es/dp/B00E0EWFL4/?tag=redken-21) a precio de oferta de 21.22 EUR (original: 32.95 EUR) en el siguiente enlace! 
+ Tienes [Highland Park Viking Honour Whisky Escocés de 12 años - 700 ml](https://www.amazon.es/dp/B00E0EWFL4/?tag=redken-21) a precio de oferta de 21.48 EUR (original: 32.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51GFeqpbcvL._SL200_.jpg)](https://www.amazon.es/dp/B00E0EWFL4/?tag=redken-21) 
  

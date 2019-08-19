@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FVL4CN2: Ofertón en Amazon para ELEGIANT Receptor Bluetooth 5.0  Mini Ad 
- date: 2019/08/15 15:04:45 +0000 
+ date: 2019/08/18 21:49:23 +0000 
  comments: true 
  tags: B07FVL4CN2 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00OA5B4RY: Ofertón en Amazon para Brandit Woodson Heavy Outdoorparka Parka 
- date: 2019/08/16 08:00:36 +0000 
+ date: 2019/08/18 17:35:28 +0000 
  comments: true 
  tags: B00OA5B4RY 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Brandit Woodson Heavy Outdoorparka Parka  Beige  Camel 70   M para Hombre](https://www.amazon.es/dp/B00OA5B4RY/?tag=redken-21) a precio de oferta de 15.86 EUR (original: 15.86 EUR) en el siguiente enlace! 
+ Tienes [Brandit Woodson Heavy Outdoorparka Parka  Beige  Camel 70   M para Hombre](https://www.amazon.es/dp/B00OA5B4RY/?tag=redken-21) a precio de oferta de 22.52 EUR (original: 22.52 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41n8AsX7MxL._SL200_.jpg)](https://www.amazon.es/dp/B00OA5B4RY/?tag=redken-21) 
  

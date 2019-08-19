@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KKVPCLP: Ofertón en Amazon para Naf Naf Kenc26 Blusa  Azul  Bleu Marine  
- date: 2019/08/14 19:16:26 +0000 
+ date: 2019/08/18 19:20:19 +0000 
  comments: true 
  tags: B07KKVPCLP 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Naf Naf Kenc26 Blusa  Azul  Bleu Marine 567   40 para Mujer](https://www.amazon.es/dp/B07KKVPCLP/?tag=redken-21) a precio de oferta de 19.93 EUR (original: 30 EUR) en el siguiente enlace! 
+ Tienes [Naf Naf Kenc26 Blusa  Azul  Bleu Marine 567   40 para Mujer](https://www.amazon.es/dp/B07KKVPCLP/?tag=redken-21) a precio de oferta de 19.15 EUR (original: 30 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41uYCDs1eQL._SL200_.jpg)](https://www.amazon.es/dp/B07KKVPCLP/?tag=redken-21) 
  

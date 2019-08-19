@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004KQTYCU: Ofertón en Amazon para adidas Cuerda de Velocidad 
- date: 2019/08/16 07:43:40 +0000 
+ date: 2019/08/18 18:13:53 +0000 
  comments: true 
  tags: B004KQTYCU 
  category: ofertas 

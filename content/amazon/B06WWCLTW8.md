@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WWCLTW8: Ofertón en Amazon para Jordi Labanda Floral Mochila Grande Trip 
- date: 2019/08/16 10:05:51 +0000 
+ date: 2019/08/18 17:15:31 +0000 
  comments: true 
  tags: B06WWCLTW8 
  category: ofertas 

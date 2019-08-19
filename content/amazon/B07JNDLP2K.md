@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JNDLP2K: Ofertón en Amazon para DAM S968 - Brazalete Inteligente Sumergi 
- date: 2019/08/15 18:49:57 +0000 
+ date: 2019/08/18 17:45:55 +0000 
  comments: true 
  tags: B07JNDLP2K 
  category: ofertas 

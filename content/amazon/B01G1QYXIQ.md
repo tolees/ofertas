@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01G1QYXIQ: Ofertón en Amazon para 3DR solo soporte garantía Gimbal Pierna  
- date: 2019/08/16 11:10:51 +0000 
+ date: 2019/08/18 19:44:55 +0000 
  comments: true 
  tags: B01G1QYXIQ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [3DR solo soporte garantía Gimbal Pierna Landing Feet Leg Extensions](https://www.amazon.es/dp/B01G1QYXIQ/?tag=redken-21) a precio de oferta de 14.4 EUR (original: 14.4 EUR) en el siguiente enlace! 
+ Tienes [3DR solo soporte garantía Gimbal Pierna Landing Feet Leg Extensions](https://www.amazon.es/dp/B01G1QYXIQ/?tag=redken-21) a precio de oferta de 14.37 EUR (original: 14.37 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41zyhrRlEzL._SL200_.jpg)](https://www.amazon.es/dp/B01G1QYXIQ/?tag=redken-21) 
  

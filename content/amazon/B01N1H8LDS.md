@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N1H8LDS: Ofertón en Amazon para Asics T722N 2301  Zapatillas de Deporte  
- date: 2019/08/16 06:42:12 +0000 
+ date: 2019/08/19 06:54:29 +0000 
  comments: true 
  tags: B01N1H8LDS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Asics T722N 2301  Zapatillas de Deporte Unisex Adulto   Royal/Black/White   41.5 EU](https://www.amazon.es/dp/B01N1H8LDS/?tag=redken-21) a precio de oferta de 57.75 EUR (original: 149.85 EUR) en el siguiente enlace! 
+ Tienes [Asics T722N 2301  Zapatillas de Deporte Unisex Adulto   Royal/Black/White   41.5 EU](https://www.amazon.es/dp/B01N1H8LDS/?tag=redken-21) a precio de oferta de 54.52 EUR (original: 149.85 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51KoOdoovFL._SL200_.jpg)](https://www.amazon.es/dp/B01N1H8LDS/?tag=redken-21) 
  

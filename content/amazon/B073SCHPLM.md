@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073SCHPLM: Ofertón en Amazon para Lego Worlds 
- date: 2019/08/16 07:25:45 +0000 
+ date: 2019/08/19 06:59:50 +0000 
  comments: true 
  tags: B073SCHPLM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Lego Worlds](https://www.amazon.es/dp/B073SCHPLM/?tag=redken-21) a precio de oferta de 21.99 EUR (original:  EUR) en el siguiente enlace! 
+ Tienes [Lego Worlds](https://www.amazon.es/dp/B073SCHPLM/?tag=redken-21) a precio de oferta de 21.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51qygTNsTcL._SL200_.jpg)](https://www.amazon.es/dp/B073SCHPLM/?tag=redken-21) 
  

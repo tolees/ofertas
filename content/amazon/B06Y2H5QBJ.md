@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y2H5QBJ: Ofertón en Amazon para Geox U Yoris NP ABX  Zapatos Derby para  
- date: 2019/08/16 11:16:34 +0000 
+ date: 2019/08/18 16:24:58 +0000 
  comments: true 
  tags: B06Y2H5QBJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Geox U Yoris NP ABX  Zapatos Derby para Hombre  Negro  Black   46 EU](https://www.amazon.es/dp/B06Y2H5QBJ/?tag=redken-21) a precio de oferta de 58.49 EUR (original: 58.49 EUR) en el siguiente enlace! 
+ Tienes [Geox U Yoris NP ABX  Zapatos Derby para Hombre  Negro  Black   46 EU](https://www.amazon.es/dp/B06Y2H5QBJ/?tag=redken-21) a precio de oferta de 51.95 EUR (original: 51.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41rJ0BWj1kL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2H5QBJ/?tag=redken-21) 
  
