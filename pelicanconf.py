@@ -80,7 +80,7 @@ AMAZON_BESTAZON = """var BestAzon_Configuration = {
 """
 
 # GOOGLE_ANALYTICS tracking ID
-# GOOGLE_ANALYTICS = "UA-81705-12"
+GOOGLE_ANALYTICS = "UA-81705-17"
 
 ## Configure if you use Disqus for comments
 # DISQUS_SITENAME = "iranzo-github-io"
