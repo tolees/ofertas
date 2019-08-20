@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FH8CKLC: Ofertón en Amazon para Armani Exchange Layered Drawstring Hoode 
- date: 2019/08/19 09:01:30 +0000 
+ date: 2019/08/20 09:15:32 +0000 
  comments: true 
  tags: B07FH8CKLC 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Armani Exchange Layered Drawstring Hooded Abrigo  Verde  G. I. Jane 1837   Medium  Talla del Fabricante: 30  para Mujer](https://www.amazon.es/dp/B07FH8CKLC/?tag=redken-21) a precio de oferta de 74.24 EUR (original: 390 EUR) en el siguiente enlace! 
+ Tienes [Armani Exchange Layered Drawstring Hooded Abrigo  Verde  G. I. Jane 1837   Medium  Talla del Fabricante: 30  para Mujer](https://www.amazon.es/dp/B07FH8CKLC/?tag=redken-21) a precio de oferta de 73.69 EUR (original: 390 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31wnAGzaDtL._SL200_.jpg)](https://www.amazon.es/dp/B07FH8CKLC/?tag=redken-21) 
  

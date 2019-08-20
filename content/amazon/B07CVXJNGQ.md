@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CVXJNGQ: Ofertón en Amazon para Victure Cámara Deportiva WiFi 4k Ultra H 
- date: 2019/08/19 07:56:08 +0000 
+ date: 2019/08/20 09:23:25 +0000 
  comments: true 
  tags: B07CVXJNGQ 
  category: ofertas 

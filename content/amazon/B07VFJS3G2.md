@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VFJS3G2: Ofertón en Amazon para Lenovo ideapad 330-17AST - Ordenador Por 
- date: 2019/08/18 22:05:28 +0000 
+ date: 2019/08/20 06:48:14 +0000 
  comments: true 
  tags: B07VFJS3G2 
  category: ofertas 

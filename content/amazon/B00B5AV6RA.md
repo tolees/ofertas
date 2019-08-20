@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00B5AV6RA: Ofertón en Amazon para Techwood - Plancha de pelo 
- date: 2019/08/18 20:14:23 +0000 
+ date: 2019/08/20 06:11:13 +0000 
  comments: true 
  tags: B00B5AV6RA 
  category: ofertas 

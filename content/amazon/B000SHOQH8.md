@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B000SHOQH8: Ofertón en Amazon para Navigator Expression - Paquete de 500 fo 
- date: 2019/08/19 08:42:51 +0000 
+ date: 2019/08/20 08:51:12 +0000 
  comments: true 
  tags: B000SHOQH8 
  category: ofertas 

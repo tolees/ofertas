@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00Q2Z4FTE: Ofertón en Amazon para Bluedio Turbine 2 Shooting Brake T2SLCA0 
- date: 2019/08/18 17:37:27 +0000 
+ date: 2019/08/20 06:40:57 +0000 
  comments: true 
  tags: B00Q2Z4FTE 
  category: ofertas 

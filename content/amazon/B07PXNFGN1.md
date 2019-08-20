@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PXNFGN1: Ofertón en Amazon para Huawei P30 - Smartphone de 6.1"  Kirin 9 
- date: 2019/08/18 21:13:30 +0000 
+ date: 2019/08/20 01:08:09 +0000 
  comments: true 
  tags: B07PXNFGN1 
  category: ofertas 

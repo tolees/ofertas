@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KXZ7KTC: Ofertón en Amazon para P Prettyia Materiales Respetuosos con Me 
- date: 2019/08/19 00:52:35 +0000 
+ date: 2019/08/20 06:16:44 +0000 
  comments: true 
  tags: B07KXZ7KTC 
  category: ofertas 

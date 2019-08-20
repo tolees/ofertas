@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FGH4HTP: Ofertón en Amazon para Huawei P Smart Plus - Smartphone de 6.3" 
- date: 2019/08/18 16:54:26 +0000 
+ date: 2019/08/20 03:10:12 +0000 
  comments: true 
  tags: B07FGH4HTP 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Huawei P Smart Plus - Smartphone de 6.3"  Kirin 710  RAM de 4 GB  Memoria interna de 64 GB  cámara de 16 MP  Android  Color Negro [Versión española]](https://www.amazon.es/dp/B07FGH4HTP/?tag=redken-21) a precio de oferta de 191.45 EUR (original: 299 EUR) en el siguiente enlace! 
+ Tienes [Huawei P Smart Plus - Smartphone de 6.3"  Kirin 710  RAM de 4 GB  Memoria interna de 64 GB  cámara de 16 MP  Android  Color Negro [Versión española]](https://www.amazon.es/dp/B07FGH4HTP/?tag=redken-21) a precio de oferta de 191.25 EUR (original: 299 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31nTwN4QFTL._SL200_.jpg)](https://www.amazon.es/dp/B07FGH4HTP/?tag=redken-21) 
  
