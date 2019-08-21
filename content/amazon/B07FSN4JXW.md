@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FSN4JXW: Ofertón en Amazon para Aicok Plancha de Vapor  Plancha Ropa 220 
- date: 2019/08/20 09:44:36 +0000 
+ date: 2019/08/21 15:10:14 +0000 
  comments: true 
  tags: B07FSN4JXW 
  category: ofertas 

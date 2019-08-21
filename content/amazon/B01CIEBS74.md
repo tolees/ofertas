@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CIEBS74: Ofertón en Amazon para SanDisk iXpand - Memoria Flash USB de 64 
- date: 2019/08/19 21:32:06 +0000 
+ date: 2019/08/21 19:17:17 +0000 
  comments: true 
  tags: B01CIEBS74 
  category: ofertas 

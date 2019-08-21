@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JMD8NRS: Ofertón en Amazon para Maped 227835 - Kit trazado 4+1  regla de 
- date: 2019/08/20 08:50:09 +0000 
+ date: 2019/08/21 19:03:00 +0000 
  comments: true 
  tags: B00JMD8NRS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Maped 227835 - Kit trazado 4+1  regla de 30 cm  cartabón  escuadra  transportador y regla 20 cm](https://www.amazon.es/dp/B00JMD8NRS/?tag=redken-21) a precio de oferta de 2 EUR (original: 2 EUR) en el siguiente enlace! 
+ Tienes [Maped 227835 - Kit trazado 4+1  regla de 30 cm  cartabón  escuadra  transportador y regla 20 cm](https://www.amazon.es/dp/B00JMD8NRS/?tag=redken-21) a precio de oferta de 2 EUR (original: 15.64 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31JtjTUyHuL._SL200_.jpg)](https://www.amazon.es/dp/B00JMD8NRS/?tag=redken-21) 
  
