@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HFTP1YH: Ofertón en Amazon para Colgate Plax Enjuague  Multiproteccion - 
- date: 2019/08/20 08:41:12 +0000 
+ date: 2019/08/21 10:11:02 +0000 
  comments: true 
  tags: B07HFTP1YH 
  category: ofertas 

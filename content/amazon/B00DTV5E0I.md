@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DTV5E0I: Ofertón en Amazon para Ram Mount® RAM-HOL-GA58U - Soporte  Nave 
- date: 2019/08/20 06:57:28 +0000 
+ date: 2019/08/21 10:34:44 +0000 
  comments: true 
  tags: B00DTV5E0I 
  category: ofertas 
