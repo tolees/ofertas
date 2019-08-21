@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FPNK1C2: Ofertón en Amazon para JACK & JONES Jjitim Jjoriginal Am 781 50 
- date: 2019/08/18 17:36:07 +0000 
+ date: 2019/08/21 07:39:59 +0000 
  comments: true 
  tags: B07FPNK1C2 
  category: ofertas 

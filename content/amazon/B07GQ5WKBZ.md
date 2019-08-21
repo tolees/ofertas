@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GQ5WKBZ: Ofertón en Amazon para Xiaomi Mi A2 Lite - Smartphone Dual SIM  
- date: 2019/08/19 22:04:10 +0000 
+ date: 2019/08/21 00:45:20 +0000 
  comments: true 
  tags: B07GQ5WKBZ 
  category: ofertas 

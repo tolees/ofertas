@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GKM4JNL: Ofertón en Amazon para Asus Workstation ESC500 G4 de m3650 E3 - 
- date: 2019/08/19 08:53:06 +0000 
+ date: 2019/08/21 07:45:56 +0000 
  comments: true 
  tags: B07GKM4JNL 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Asus Workstation ESC500 G4 de m3650 E3 - 1245 8 GB DVR C236 W10p - Workstation  90sf0031 de m03650](https://www.amazon.es/dp/B07GKM4JNL/?tag=redken-21) a precio de oferta de 993.13 EUR (original: 993.13 EUR) en el siguiente enlace! 
+ Tienes [Asus Workstation ESC500 G4 de m3650 E3 - 1245 8 GB DVR C236 W10p - Workstation  90sf0031 de m03650](https://www.amazon.es/dp/B07GKM4JNL/?tag=redken-21) a precio de oferta de 988.33 EUR (original: 988.33 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41WLd8dQnkL._SL200_.jpg)](https://www.amazon.es/dp/B07GKM4JNL/?tag=redken-21) 
  

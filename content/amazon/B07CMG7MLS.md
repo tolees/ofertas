@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CMG7MLS: Ofertón en Amazon para Star Wars - Juguete de Imitación  E0329  
- date: 2019/08/19 21:18:56 +0000 
+ date: 2019/08/21 08:43:51 +0000 
  comments: true 
  tags: B07CMG7MLS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Star Wars - Juguete de Imitación  E0329  Varié](https://www.amazon.es/dp/B07CMG7MLS/?tag=redken-21) a precio de oferta de 13.11 EUR (original: 13.12 EUR) en el siguiente enlace! 
+ Tienes [Star Wars - Juguete de Imitación  E0329  Varié](https://www.amazon.es/dp/B07CMG7MLS/?tag=redken-21) a precio de oferta de 12.26 EUR (original: 12.28 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/410J3o9OgzL._SL200_.jpg)](https://www.amazon.es/dp/B07CMG7MLS/?tag=redken-21) 
  

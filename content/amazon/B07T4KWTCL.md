@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07T4KWTCL: Ofertón en Amazon para Xnuoyo 10000mAh PD Mini Power Bank  USB- 
- date: 2019/08/19 08:29:53 +0000 
+ date: 2019/08/20 23:01:26 +0000 
  comments: true 
  tags: B07T4KWTCL 
  category: ofertas 

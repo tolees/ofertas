@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AJWNWWQ: Ofertón en Amazon para Maxtor STSHX-M401TCBM - Disco Duro Exter 
- date: 2019/08/18 17:42:21 +0000 
+ date: 2019/08/21 06:40:05 +0000 
  comments: true 
  tags: B01AJWNWWQ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Maxtor STSHX-M401TCBM - Disco Duro Externo de 4 TB  2.5"  USB 3.0/3.1 Gen 1 ](https://www.amazon.es/dp/B01AJWNWWQ/?tag=redken-21) a precio de oferta de 92.86 EUR (original: 92.86 EUR) en el siguiente enlace! 
+ Tienes [Maxtor STSHX-M401TCBM - Disco Duro Externo de 4 TB  2.5"  USB 3.0/3.1 Gen 1 ](https://www.amazon.es/dp/B01AJWNWWQ/?tag=redken-21) a precio de oferta de 92.86 EUR (original: 193.1 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51Cgo%2B-xNvL._SL200_.jpg)](https://www.amazon.es/dp/B01AJWNWWQ/?tag=redken-21) 
  
