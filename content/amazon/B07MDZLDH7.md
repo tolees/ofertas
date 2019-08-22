@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MDZLDH7: Ofertón en Amazon para AKASO Pulsera Inteligente GPS de Activid 
- date: 2019/08/20 08:37:05 +0000 
+ date: 2019/08/22 10:20:09 +0000 
  comments: true 
  tags: B07MDZLDH7 
  category: ofertas 

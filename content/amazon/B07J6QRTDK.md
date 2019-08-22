@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J6QRTDK: Ofertón en Amazon para Crosstour Cámara Deportiva 4K 16MP WiFi  
- date: 2019/08/21 10:57:49 +0000 
+ date: 2019/08/22 11:52:33 +0000 
  comments: true 
  tags: B07J6QRTDK 
  category: ofertas 

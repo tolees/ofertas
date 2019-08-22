@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N5NUJA0: Ofertón en Amazon para Guess Mens plica esfera azul de acero de 
- date: 2019/08/21 06:04:36 +0000 
+ date: 2019/08/22 10:43:56 +0000 
  comments: true 
  tags: B01N5NUJA0 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Guess Mens plica esfera azul de acero de dos tonos W0990G4](https://www.amazon.es/dp/B01N5NUJA0/?tag=redken-21) a precio de oferta de 96.73 EUR (original: 96.73 EUR) en el siguiente enlace! 
+ Tienes [Guess Mens plica esfera azul de acero de dos tonos W0990G4](https://www.amazon.es/dp/B01N5NUJA0/?tag=redken-21) a precio de oferta de 96.87 EUR (original: 96.87 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41jz18vfrPL._SL200_.jpg)](https://www.amazon.es/dp/B01N5NUJA0/?tag=redken-21) 
  

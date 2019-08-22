@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CZVK44X: Ofertón en Amazon para QNAP TS-432XU-RP NAS Bastidor  1U  Ether 
- date: 2019/08/20 07:10:37 +0000 
+ date: 2019/08/22 08:09:59 +0000 
  comments: true 
  tags: B07CZVK44X 
  category: ofertas 

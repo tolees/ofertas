@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HG4WJCD: Ofertón en Amazon para ELEGIANT Palo Selfie Móvil Stick Bluetoo 
- date: 2019/08/20 09:48:25 +0000 
+ date: 2019/08/22 06:39:40 +0000 
  comments: true 
  tags: B07HG4WJCD 
  category: ofertas 

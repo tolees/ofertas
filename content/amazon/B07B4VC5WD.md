@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B4VC5WD: Ofertón en Amazon para Sony Xperia XZ2 - Smartphone de 5.7"  Oc 
- date: 2019/08/20 05:12:12 +0000 
+ date: 2019/08/22 00:49:31 +0000 
  comments: true 
  tags: B07B4VC5WD 
  category: ofertas 

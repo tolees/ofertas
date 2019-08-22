@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VSLDDNQ: Ofertón en Amazon para Pistola de Pintura 500W  TECCPO Pistola  
- date: 2019/08/20 07:53:46 +0000 
+ date: 2019/08/22 09:17:46 +0000 
  comments: true 
  tags: B07VSLDDNQ 
  category: ofertas 

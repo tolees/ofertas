@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LBMRV5M: Ofertón en Amazon para Tommy Jeans Mid Rise Boot TJ 1979 DXLT V 
- date: 2019/08/21 07:49:22 +0000 
+ date: 2019/08/22 11:34:01 +0000 
  comments: true 
  tags: B07LBMRV5M 
  category: ofertas 

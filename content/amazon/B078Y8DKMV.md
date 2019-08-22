@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078Y8DKMV: Ofertón en Amazon para CASIO MTPV005D-1B 
- date: 2019/08/20 05:41:05 +0000 
+ date: 2019/08/22 10:53:13 +0000 
  comments: true 
  tags: B078Y8DKMV 
  category: ofertas 

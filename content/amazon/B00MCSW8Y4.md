@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MCSW8Y4: Ofertón en Amazon para Remington Pro Ceramic Ultra S5505 - Plan 
- date: 2019/08/19 21:42:55 +0000 
+ date: 2019/08/22 07:58:46 +0000 
  comments: true 
  tags: B00MCSW8Y4 
  category: ofertas 

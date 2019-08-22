@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KRCBRJS: Ofertón en Amazon para iHaper Hub USB C 7 en 1  Adaptador Type  
- date: 2019/08/21 08:34:45 +0000 
+ date: 2019/08/22 09:52:05 +0000 
  comments: true 
  tags: B07KRCBRJS 
  category: ofertas 
