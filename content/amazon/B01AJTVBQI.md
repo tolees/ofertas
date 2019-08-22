@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AJTVBQI: Ofertón en Amazon para Acer UM.FX1EE.001 - Monitor para gaming  
- date: 2019/08/21 16:32:03 +0000 
+ date: 2019/08/22 20:29:04 +0000 
  comments: true 
  tags: B01AJTVBQI 
  category: ofertas 

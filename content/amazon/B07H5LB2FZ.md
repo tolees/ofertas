@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H5LB2FZ: Ofertón en Amazon para Thomson Neo X - Ordenador portátil de 13 
- date: 2019/08/21 17:38:43 +0000 
+ date: 2019/08/22 19:47:28 +0000 
  comments: true 
  tags: B07H5LB2FZ 
  category: ofertas 

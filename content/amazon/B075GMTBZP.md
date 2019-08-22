@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GMTBZP: Ofertón en Amazon para Pendientes Mujer J.Rosée Pendientes Muje 
- date: 2019/08/21 15:22:14 +0000 
+ date: 2019/08/22 16:02:36 +0000 
  comments: true 
  tags: B075GMTBZP 
  category: ofertas 

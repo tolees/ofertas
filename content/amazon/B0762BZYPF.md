@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0762BZYPF: Ofertón en Amazon para HD 2.5 SSD 120GB SATA3 ADATA SU650 
- date: 2019/08/21 11:50:23 +0000 
+ date: 2019/08/22 18:37:17 +0000 
  comments: true 
  tags: B0762BZYPF 
  category: ofertas 

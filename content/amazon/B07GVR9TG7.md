@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GVR9TG7: Ofertón en Amazon para TP-Link Archer C6 - AC1200 Router inalám 
- date: 2019/08/21 10:43:52 +0000 
+ date: 2019/08/22 16:21:09 +0000 
  comments: true 
  tags: B07GVR9TG7 
  category: ofertas 

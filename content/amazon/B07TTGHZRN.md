@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TTGHZRN: Ofertón en Amazon para Deik Tostadora  Tostadora de 4 rebanadas 
- date: 2019/08/21 08:55:59 +0000 
+ date: 2019/08/22 20:12:40 +0000 
  comments: true 
  tags: B07TTGHZRN 
  category: ofertas 

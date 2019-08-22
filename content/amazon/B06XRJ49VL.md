@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XRJ49VL: Ofertón en Amazon para Sigma 100-400mm f/5-6.3 DG OS HSM MILC/S 
- date: 2019/08/21 17:33:04 +0000 
+ date: 2019/08/22 19:53:12 +0000 
  comments: true 
  tags: B06XRJ49VL 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Sigma 100-400mm f/5-6.3 DG OS HSM MILC/SLR Telephoto Lens Negro - Objetivo  MILC/SLR  21/15  Telephoto Lens  6 3  1 6 m  5-6 3 ](https://www.amazon.es/dp/B06XRJ49VL/?tag=redken-21) a precio de oferta de 442 EUR (original: 442 EUR) en el siguiente enlace! 
+ Tienes [Sigma 100-400mm f/5-6.3 DG OS HSM MILC/SLR Telephoto Lens Negro - Objetivo  MILC/SLR  21/15  Telephoto Lens  6 3  1 6 m  5-6 3 ](https://www.amazon.es/dp/B06XRJ49VL/?tag=redken-21) a precio de oferta de 602 EUR (original: 602 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41TjfzoGmdL._SL200_.jpg)](https://www.amazon.es/dp/B06XRJ49VL/?tag=redken-21) 
  

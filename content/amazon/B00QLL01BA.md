@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00QLL01BA: Ofertón en Amazon para ASUS VX24AH - Monitor de 23.8"  2560 x 1 
- date: 2019/08/21 13:48:34 +0000 
+ date: 2019/08/22 21:22:51 +0000 
  comments: true 
  tags: B00QLL01BA 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [ASUS VX24AH - Monitor de 23.8"  2560 x 1440 píxeles  300 lúmenes  HDMI  Altavoces   Negro](https://www.amazon.es/dp/B00QLL01BA/?tag=redken-21) a precio de oferta de 231.51 EUR (original: 329.43 EUR) en el siguiente enlace! 
+ Tienes [ASUS VX24AH - Monitor de 23.8"  2560 x 1440 píxeles  300 lúmenes  HDMI  Altavoces   Negro](https://www.amazon.es/dp/B00QLL01BA/?tag=redken-21) a precio de oferta de 224.83 EUR (original: 329.43 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41a9dfdoz5L._SL200_.jpg)](https://www.amazon.es/dp/B00QLL01BA/?tag=redken-21) 
  

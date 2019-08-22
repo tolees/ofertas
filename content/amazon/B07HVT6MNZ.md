@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HVT6MNZ: Ofertón en Amazon para AUKEY Cámara de Coche  Dash Cam 1080P Fu 
- date: 2019/08/21 11:35:38 +0000 
+ date: 2019/08/22 20:21:04 +0000 
  comments: true 
  tags: B07HVT6MNZ 
  category: ofertas 

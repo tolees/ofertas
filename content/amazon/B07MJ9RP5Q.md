@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MJ9RP5Q: Ofertón en Amazon para Acer Aspire 3 | A315-53G-5947 - Ordenado 
- date: 2019/08/21 02:31:51 +0000 
+ date: 2019/08/22 18:10:46 +0000 
  comments: true 
  tags: B07MJ9RP5Q 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Acer Aspire 3 | A315-53G-5947 - Ordenador portátil 15.6" HD LED  Intel Core i5-8250U  8 GB de RAM  1 TB HDD  Nvidia MX130 2 GB  Windows 10 Home  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07MJ9RP5Q/?tag=redken-21) a precio de oferta de 497.31 EUR (original: 649.99 EUR) en el siguiente enlace! 
+ Tienes [Acer Aspire 3 | A315-53G-5947 - Ordenador portátil 15.6" HD LED  Intel Core i5-8250U  8 GB de RAM  1 TB HDD  Nvidia MX130 2 GB  Windows 10 Home  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07MJ9RP5Q/?tag=redken-21) a precio de oferta de 423.3 EUR (original: 649.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31jehCzeLrL._SL200_.jpg)](https://www.amazon.es/dp/B07MJ9RP5Q/?tag=redken-21) 
  
