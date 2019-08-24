@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B072KGKTN4: Ofertón en Amazon para edc by Esprit 097cc2g023 Abrigo  Azul  N 
- date: 2019/08/21 16:13:40 +0000 
+ date: 2019/08/24 20:48:36 +0000 
  comments: true 
  tags: B072KGKTN4 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [edc by Esprit 097cc2g023 Abrigo  Azul  Navy 400   Medium para Hombre](https://www.amazon.es/dp/B072KGKTN4/?tag=redken-21) a precio de oferta de 35.89 EUR (original: 35.89 EUR) en el siguiente enlace! 
+ Tienes [edc by Esprit 097cc2g023 Abrigo  Azul  Navy 400   Medium para Hombre](https://www.amazon.es/dp/B072KGKTN4/?tag=redken-21) a precio de oferta de 39.88 EUR (original: 39.88 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41TI4fMF46L._SL200_.jpg)](https://www.amazon.es/dp/B072KGKTN4/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JPBVBT5: Ofertón en Amazon para Dam L2 Plus - Smartwatch Bluetooth 4.0   
- date: 2019/08/22 21:20:32 +0000 
+ date: 2019/08/24 14:45:30 +0000 
  comments: true 
  tags: B07JPBVBT5 
  category: ofertas 

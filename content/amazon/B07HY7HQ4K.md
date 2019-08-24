@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HY7HQ4K: Ofertón en Amazon para San Ignacio Q2928 Set 2pc sartenes 20 y  
- date: 2019/08/22 06:50:01 +0000 
+ date: 2019/08/24 21:37:38 +0000 
  comments: true 
  tags: B07HY7HQ4K 
  category: ofertas 

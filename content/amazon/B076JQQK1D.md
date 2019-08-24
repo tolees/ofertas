@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076JQQK1D: Ofertón en Amazon para Samsung Gear Sport - Smartwatch  1.2"  T 
- date: 2019/08/21 13:55:20 +0000 
+ date: 2019/08/24 17:38:02 +0000 
  comments: true 
  tags: B076JQQK1D 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D7BCKB6: Ofertón en Amazon para Haofy Máquina de Coser  Portátil Máquina 
- date: 2019/08/22 11:58:55 +0000 
+ date: 2019/08/24 15:43:56 +0000 
  comments: true 
  tags: B07D7BCKB6 
  category: ofertas 

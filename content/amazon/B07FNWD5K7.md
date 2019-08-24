@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNWD5K7: Ofertón en Amazon para J.Rosée Collar de Perlas Mujer Joyería P 
- date: 2019/08/21 14:20:32 +0000 
+ date: 2019/08/24 21:35:04 +0000 
  comments: true 
  tags: B07FNWD5K7 
  category: ofertas 

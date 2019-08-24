@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D7MW4DX: Ofertón en Amazon para Dolores Promesas 107381 Vestido Tamaño d 
- date: 2019/08/22 20:07:13 +0000 
+ date: 2019/08/24 19:39:17 +0000 
  comments: true 
  tags: B07D7MW4DX 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Dolores Promesas 107381 Vestido Tamaño del Fabricante:36 para Mujer](https://www.amazon.es/dp/B07D7MW4DX/?tag=redken-21) a precio de oferta de 71.98 EUR (original: 139.9 EUR) en el siguiente enlace! 
+ Tienes [Dolores Promesas 107381 Vestido Tamaño del Fabricante:36 para Mujer](https://www.amazon.es/dp/B07D7MW4DX/?tag=redken-21) a precio de oferta de 69.56 EUR (original: 139.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41cfiHTa%2BwL._SL200_.jpg)](https://www.amazon.es/dp/B07D7MW4DX/?tag=redken-21) 
  

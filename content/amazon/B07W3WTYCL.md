@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07W3WTYCL: Ofertón en Amazon para Cárdigan Mujer Manga 3/4 Bajo Asimétrico 
- date: 2019/08/22 16:03:52 +0000 
+ date: 2019/08/24 19:10:59 +0000 
  comments: true 
  tags: B07W3WTYCL 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00G9WHMHM: Ofertón en Amazon para Kingston DTIG4/128GB Memoria Usb  128 Gb 
- date: 2019/08/22 18:21:18 +0000 
+ date: 2019/08/24 16:43:29 +0000 
  comments: true 
  tags: B00G9WHMHM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Kingston DTIG4/128GB Memoria Usb  128 Gb  Verde / Blanco](https://www.amazon.es/dp/B00G9WHMHM/?tag=redken-21) a precio de oferta de 13.2 EUR (original: 13.2 EUR) en el siguiente enlace! 
+ Tienes [Kingston DTIG4/128GB Memoria Usb  128 Gb  Verde / Blanco](https://www.amazon.es/dp/B00G9WHMHM/?tag=redken-21) a precio de oferta de 18.85 EUR (original: 18.85 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31XuIG7963L._SL200_.jpg)](https://www.amazon.es/dp/B00G9WHMHM/?tag=redken-21) 
  

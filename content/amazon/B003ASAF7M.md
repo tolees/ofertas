@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003ASAF7M: Ofertón en Amazon para Bosch PST 700 E - Sierra de calar con ma 
- date: 2019/08/22 09:41:34 +0000 
+ date: 2019/08/24 18:46:25 +0000 
  comments: true 
  tags: B003ASAF7M 
  category: ofertas 

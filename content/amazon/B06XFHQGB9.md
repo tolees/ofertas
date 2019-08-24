@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XFHQGB9: Ofertón en Amazon para Samsung EVO Plus - Tarjeta de Memoria mi 
- date: 2019/08/21 13:53:10 +0000 
+ date: 2019/08/24 16:57:19 +0000 
  comments: true 
  tags: B06XFHQGB9 
  category: ofertas 

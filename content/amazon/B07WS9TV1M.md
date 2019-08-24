@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WS9TV1M: Ofertón en Amazon para Biuday Reloj Inteligente de Seguimiento  
- date: 2019/08/21 12:21:00 +0000 
+ date: 2019/08/24 21:31:32 +0000 
  comments: true 
  tags: B07WS9TV1M 
  category: ofertas 

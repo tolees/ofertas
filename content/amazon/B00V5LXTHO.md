@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00V5LXTHO: Ofertón en Amazon para Kempa - Emotion Shirt  Color Naranja  Ta 
- date: 2019/08/21 06:16:25 +0000 
+ date: 2019/08/24 18:26:13 +0000 
  comments: true 
  tags: B00V5LXTHO 
  category: ofertas 
