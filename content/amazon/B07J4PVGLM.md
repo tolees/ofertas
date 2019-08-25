@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J4PVGLM: Ofertón en Amazon para Varta Energy - Pack de 30 Pilas Alcalina 
- date: 2019/08/24 19:13:32 +0000 
+ date: 2019/08/25 21:01:25 +0000 
  comments: true 
  tags: B07J4PVGLM 
  category: ofertas 
