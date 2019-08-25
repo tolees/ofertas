@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XXKZCSM: Ofertón en Amazon para Destiny 2 - Standard Edition - PlayStati 
- date: 2019/08/24 19:33:34 +0000 
+ date: 2019/08/25 20:26:30 +0000 
  comments: true 
  tags: B06XXKZCSM 
  category: ofertas 

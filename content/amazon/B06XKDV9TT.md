@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XKDV9TT: Ofertón en Amazon para TESmart 5x1 Conmutador HDMI 5 en 1 Salid 
- date: 2019/08/24 15:46:02 +0000 
+ date: 2019/08/25 18:54:15 +0000 
  comments: true 
  tags: B06XKDV9TT 
  category: ofertas 
