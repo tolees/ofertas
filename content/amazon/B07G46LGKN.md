@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G46LGKN: Ofertón en Amazon para Huawei Media Pad T5 - Tablet 10.1" Full  
- date: 2019/08/25 17:43:26 +0000 
+ date: 2019/08/27 10:41:48 +0000 
  comments: true 
  tags: B07G46LGKN 
  category: ofertas 

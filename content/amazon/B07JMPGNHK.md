@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JMPGNHK: Ofertón en Amazon para Xiaomi Mi 8 Lite 15 9 cm  6.26"  4 GB 64 
- date: 2019/08/24 21:18:57 +0000 
+ date: 2019/08/27 09:51:23 +0000 
  comments: true 
  tags: B07JMPGNHK 
  category: ofertas 

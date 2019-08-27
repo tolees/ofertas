@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CTT5VLT: Ofertón en Amazon para Marca Amazon - Happy Belly Café molido " 
- date: 2019/08/24 19:11:20 +0000 
+ date: 2019/08/27 11:42:31 +0000 
  comments: true 
  tags: B07CTT5VLT 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Marca Amazon - Happy Belly Café molido "Caffè Intenso"  4 x 250g ](https://www.amazon.es/dp/B07CTT5VLT/?tag=redken-21) a precio de oferta de 7.26 EUR (original: 7.26 EUR) en el siguiente enlace! 
+ Tienes [Marca Amazon - Happy Belly Café molido "Caffè Intenso"  4 x 250g ](https://www.amazon.es/dp/B07CTT5VLT/?tag=redken-21) a precio de oferta de 6.65 EUR (original: 6.65 EUR) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B07CTT5VLT/?tag=redken-21) 
  
