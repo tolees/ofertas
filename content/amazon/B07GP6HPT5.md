@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GP6HPT5: Ofertón en Amazon para Samsung Galaxy Tab S4 - Tablet de 10.5"  
- date: 2019/08/27 11:59:05 +0000 
+ date: 2019/08/28 19:45:16 +0000 
  comments: true 
  tags: B07GP6HPT5 
  category: ofertas 

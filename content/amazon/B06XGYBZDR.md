@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XGYBZDR: Ofertón en Amazon para Funko - POP! Vinilo Colección El señor d 
- date: 2019/08/27 08:46:00 +0000 
+ date: 2019/08/28 15:16:59 +0000 
  comments: true 
  tags: B06XGYBZDR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Funko - POP! Vinilo Colección El señor de los anillos - Figura Balrog  13556 ](https://www.amazon.es/dp/B06XGYBZDR/?tag=redken-21) a precio de oferta de 16.91 EUR (original: 23.95 EUR) en el siguiente enlace! 
+ Tienes [Funko - POP! Vinilo Colección El señor de los anillos - Figura Balrog  13556 ](https://www.amazon.es/dp/B06XGYBZDR/?tag=redken-21) a precio de oferta de 16.9 EUR (original: 23.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51XiuYimJSL._SL200_.jpg)](https://www.amazon.es/dp/B06XGYBZDR/?tag=redken-21) 
  

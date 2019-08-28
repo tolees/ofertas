@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071K2RVHF: Ofertón en Amazon para Apple iMac  27 pulgadas  pantalla Retina 
- date: 2019/08/24 16:57:46 +0000 
+ date: 2019/08/28 16:45:19 +0000 
  comments: true 
  tags: B071K2RVHF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Apple iMac  27 pulgadas  pantalla Retina 5K  procesador Intel Core i5 de cuatro núcleos a 3 5 GHz   Modelo precedente ](https://www.amazon.es/dp/B071K2RVHF/?tag=redken-21) a precio de oferta de 1572.96 EUR (original: 2305.59 EUR) en el siguiente enlace! 
+ Tienes [Apple iMac  27 pulgadas  pantalla Retina 5K  procesador Intel Core i5 de cuatro núcleos a 3 5 GHz   Modelo precedente ](https://www.amazon.es/dp/B071K2RVHF/?tag=redken-21) a precio de oferta de 1558.51 EUR (original: 2305.59 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41qLeywkVNL._SL200_.jpg)](https://www.amazon.es/dp/B071K2RVHF/?tag=redken-21) 
  

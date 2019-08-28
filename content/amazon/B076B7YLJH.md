@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076B7YLJH: Ofertón en Amazon para Dual IR 11 - Radio  Internet  Digital  3 
- date: 2019/08/27 09:36:38 +0000 
+ date: 2019/08/28 16:41:38 +0000 
  comments: true 
  tags: B076B7YLJH 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Dual IR 11 - Radio  Internet  Digital  3 W  TFT  6 1 cm  2.4"   WEP WPA WPA2 ](https://www.amazon.es/dp/B076B7YLJH/?tag=redken-21) a precio de oferta de 47.68 EUR (original: 47.68 EUR) en el siguiente enlace! 
+ Tienes [Dual IR 11 - Radio  Internet  Digital  3 W  TFT  6 1 cm  2.4"   WEP WPA WPA2 ](https://www.amazon.es/dp/B076B7YLJH/?tag=redken-21) a precio de oferta de 49.08 EUR (original: 49.08 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51yAlUnyxqL._SL200_.jpg)](https://www.amazon.es/dp/B076B7YLJH/?tag=redken-21) 
  

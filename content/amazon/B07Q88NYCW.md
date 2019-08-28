@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Q88NYCW: Ofertón en Amazon para Xiaomi Redmi Note 7 32GB Dual-SIM Blue E 
- date: 2019/08/27 12:23:12 +0000 
+ date: 2019/08/28 19:46:08 +0000 
  comments: true 
  tags: B07Q88NYCW 
  category: ofertas 

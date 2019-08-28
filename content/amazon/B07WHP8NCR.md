@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WHP8NCR: Ofertón en Amazon para Telescopio monocular de Alta Potencia  m 
- date: 2019/08/27 10:37:59 +0000 
+ date: 2019/08/28 17:47:30 +0000 
  comments: true 
  tags: B07WHP8NCR 
  category: ofertas 

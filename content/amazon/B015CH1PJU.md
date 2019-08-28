@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015CH1PJU: Ofertón en Amazon para Memoria Flash USB 3.0 SanDisk Ultra Flai 
- date: 2019/08/25 18:28:44 +0000 
+ date: 2019/08/28 16:33:50 +0000 
  comments: true 
  tags: B015CH1PJU 
  category: ofertas 

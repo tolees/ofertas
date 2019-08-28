@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FKJKZF7: Ofertón en Amazon para Bestway Kahawai 65308 - Tabla inflable d 
- date: 2019/08/24 16:29:21 +0000 
+ date: 2019/08/28 20:19:52 +0000 
  comments: true 
  tags: B07FKJKZF7 
  category: ofertas 
