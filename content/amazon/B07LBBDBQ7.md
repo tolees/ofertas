@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LBBDBQ7: Ofertón en Amazon para Tommy Jeans TJM Essential Chino Short Ba 
- date: 2019/08/25 14:22:01 +0000 
+ date: 2019/08/28 07:26:55 +0000 
  comments: true 
  tags: B07LBBDBQ7 
  category: ofertas 

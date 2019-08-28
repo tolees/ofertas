@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XXKZCSM: Ofertón en Amazon para Destiny 2 - Standard Edition - PlayStati 
- date: 2019/08/25 20:26:30 +0000 
+ date: 2019/08/27 19:51:04 +0000 
  comments: true 
  tags: B06XXKZCSM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Destiny 2 - Standard Edition - PlayStation 4 [Importación alemana]](https://www.amazon.es/dp/B06XXKZCSM/?tag=redken-21) a precio de oferta de 5.28 EUR (original: 5.51 EUR) en el siguiente enlace! 
+ Tienes [Destiny 2 - Standard Edition - PlayStation 4 [Importación alemana]](https://www.amazon.es/dp/B06XXKZCSM/?tag=redken-21) a precio de oferta de 8.35 EUR (original:  EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51mFYTkeSUL._SL200_.jpg)](https://www.amazon.es/dp/B06XXKZCSM/?tag=redken-21) 
  

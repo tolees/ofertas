@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07V6M7YLT: Ofertón en Amazon para Nintendo Switch Lite - Consola color Ama 
- date: 2019/08/24 20:13:35 +0000 
+ date: 2019/08/28 07:22:34 +0000 
  comments: true 
  tags: B07V6M7YLT 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Nintendo Switch Lite - Consola color Amarillo](https://www.amazon.es/dp/B07V6M7YLT/?tag=redken-21) a precio de oferta de 222.95 EUR (original: 239.99 EUR) en el siguiente enlace! 
+ Tienes [Nintendo Switch Lite - Consola color Amarillo](https://www.amazon.es/dp/B07V6M7YLT/?tag=redken-21) a precio de oferta de 212.29 EUR (original: 229.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41PuilWyQ2L._SL200_.jpg)](https://www.amazon.es/dp/B07V6M7YLT/?tag=redken-21) 
  

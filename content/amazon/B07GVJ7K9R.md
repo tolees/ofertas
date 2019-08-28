@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GVJ7K9R: Ofertón en Amazon para BAMNY Taburete con doble escalón para ni 
- date: 2019/08/25 16:00:04 +0000 
+ date: 2019/08/28 06:36:32 +0000 
  comments: true 
  tags: B07GVJ7K9R 
  category: ofertas 

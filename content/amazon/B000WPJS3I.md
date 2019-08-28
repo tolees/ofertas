@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B000WPJS3I: Ofertón en Amazon para Jamo C607 - Altavoz de suelo de 150W  3- 
- date: 2019/08/24 14:36:36 +0000 
+ date: 2019/08/28 06:33:09 +0000 
  comments: true 
  tags: B000WPJS3I 
  category: ofertas 
