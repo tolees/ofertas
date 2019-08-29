@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00LU5LWQK: Ofertón en Amazon para Kenu Airframe + -  Soporte portátil de s 
- date: 2019/08/27 19:59:54 +0000 
+ date: 2019/08/29 18:23:07 +0000 
  comments: true 
  tags: B00LU5LWQK 
  category: ofertas 

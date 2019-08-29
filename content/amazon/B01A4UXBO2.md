@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01A4UXBO2: Ofertón en Amazon para Lenovo 600GB 2.5" 15K 12GBPS SAS 2.5" -  
- date: 2019/08/28 16:07:43 +0000 
+ date: 2019/08/29 16:18:29 +0000 
  comments: true 
  tags: B01A4UXBO2 
  category: ofertas 

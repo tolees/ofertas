@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KSHCG3R: Ofertón en Amazon para Samsung 860 QVO MZ-76Q1T0BW - Disco Duro 
- date: 2019/08/28 17:45:27 +0000 
+ date: 2019/08/29 19:40:26 +0000 
  comments: true 
  tags: B07KSHCG3R 
  category: ofertas 

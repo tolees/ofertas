@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KO9D4KU: Ofertón en Amazon para VIBOX Standard 3S - Ordenador para Gamin 
- date: 2019/08/28 05:56:43 +0000 
+ date: 2019/08/29 15:15:51 +0000 
  comments: true 
  tags: B00KO9D4KU 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [VIBOX Standard 3S - Ordenador para Gaming  AMD A8-7600  16 GB de RAM  1 TB de Disco Duro  AMD Radeon R7  Windows 10  Color neón Rojo](https://www.amazon.es/dp/B00KO9D4KU/?tag=redken-21) a precio de oferta de 410 EUR (original: 600 EUR) en el siguiente enlace! 
+ Tienes [VIBOX Standard 3S - Ordenador para Gaming  AMD A8-7600  16 GB de RAM  1 TB de Disco Duro  AMD Radeon R7  Windows 10  Color neón Rojo](https://www.amazon.es/dp/B00KO9D4KU/?tag=redken-21) a precio de oferta de 391.17 EUR (original: 391.17 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51ITchnTH6L._SL200_.jpg)](https://www.amazon.es/dp/B00KO9D4KU/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IDFQHFA: Ofertón en Amazon para adidas Gazelle  Zapatillas de deporte Un 
- date: 2019/08/28 18:25:42 +0000 
+ date: 2019/08/29 18:30:58 +0000 
  comments: true 
  tags: B01IDFQHFA 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapour Pink/White/Gold Metalic   48 2/3 EU](https://www.amazon.es/dp/B01IDFQHFA/?tag=redken-21) a precio de oferta de 29.14 EUR (original: 94.95 EUR) en el siguiente enlace! 
+ Tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapour Pink/White/Gold Metalic   48 2/3 EU](https://www.amazon.es/dp/B01IDFQHFA/?tag=redken-21) a precio de oferta de 27.02 EUR (original: 94.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ewE05ipuL._SL200_.jpg)](https://www.amazon.es/dp/B01IDFQHFA/?tag=redken-21) 
  

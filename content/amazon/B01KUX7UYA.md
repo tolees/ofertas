@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KUX7UYA: Ofertón en Amazon para Reebok Estera de Yoga 
- date: 2019/08/27 10:58:37 +0000 
+ date: 2019/08/29 19:45:45 +0000 
  comments: true 
  tags: B01KUX7UYA 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Reebok Estera de Yoga](https://www.amazon.es/dp/B01KUX7UYA/?tag=redken-21) a precio de oferta de 11.12 EUR (original: 23 EUR) en el siguiente enlace! 
+ Tienes [Reebok Estera de Yoga](https://www.amazon.es/dp/B01KUX7UYA/?tag=redken-21) a precio de oferta de 12.81 EUR (original: 23 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31n6m5OCAVL._SL200_.jpg)](https://www.amazon.es/dp/B01KUX7UYA/?tag=redken-21) 
  

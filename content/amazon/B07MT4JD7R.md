@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MT4JD7R: Ofertón en Amazon para JiePai gancho con ventosa para toallas   
- date: 2019/08/28 16:58:58 +0000 
+ date: 2019/08/29 20:03:15 +0000 
  comments: true 
  tags: B07MT4JD7R 
  category: ofertas 

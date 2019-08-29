@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077X6RXLB: Ofertón en Amazon para Magefesa K2 Juego Sartenes Con Antiadher 
- date: 2019/08/28 15:49:06 +0000 
+ date: 2019/08/29 16:49:35 +0000 
  comments: true 
  tags: B077X6RXLB 
  category: ofertas 

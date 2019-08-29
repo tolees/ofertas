@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XK68QDX: Ofertón en Amazon para Pack De Longhi Dolce Gusto Piccolo EDG20 
- date: 2019/08/28 08:38:59 +0000 
+ date: 2019/08/29 18:09:45 +0000 
  comments: true 
  tags: B06XK68QDX 
  category: ofertas 

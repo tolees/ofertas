@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00E3S6SOC: Ofertón en Amazon para Burton Profile Guantes de Snowboard  Muj 
- date: 2019/08/24 15:47:15 +0000 
+ date: 2019/08/29 15:51:36 +0000 
  comments: true 
  tags: B00E3S6SOC 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Burton Profile Guantes de Snowboard  Mujer  Negro  True   XS](https://www.amazon.es/dp/B00E3S6SOC/?tag=redken-21) a precio de oferta de 23.08 EUR (original: 50 EUR) en el siguiente enlace! 
+ Tienes [Burton Profile Guantes de Snowboard  Mujer  Negro  True   XS](https://www.amazon.es/dp/B00E3S6SOC/?tag=redken-21) a precio de oferta de 20.89 EUR (original: 50 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ibsnvn9FL._SL200_.jpg)](https://www.amazon.es/dp/B00E3S6SOC/?tag=redken-21) 
  

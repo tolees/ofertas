@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B93GMKW: Ofertón en Amazon para Kempa Promo - Camiseta de  Todo el año   
- date: 2019/08/28 06:13:07 +0000 
+ date: 2019/08/29 15:12:59 +0000 
  comments: true 
  tags: B07B93GMKW 
  category: ofertas 

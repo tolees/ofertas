@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TB55PJJ: Ofertón en Amazon para Llave de Impacto  TECCPO 350Nm Atornilla 
- date: 2019/08/24 20:00:48 +0000 
+ date: 2019/08/29 15:42:36 +0000 
  comments: true 
  tags: B07TB55PJJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Llave de Impacto  TECCPO 350Nm Atornillador Impacto con 4 0 Ah batería  3pcs Vasos de Impacto Profundo 17  19  21 mm  Tornillos Ruedas Coche  13 mm  Ahorra 15 00 € con code: BLFC6957](https://www.amazon.es/dp/B07TB55PJJ/?tag=redken-21) a precio de oferta de 129.99 EUR (original: 219.99 EUR) en el siguiente enlace! 
+ Tienes [Llave de Impacto  TECCPO 350Nm Atornillador Impacto con 4 0 Ah batería  3pcs Vasos de Impacto Profundo 17  19  21 mm  Tornillos Ruedas Coche  Mandril de 13 mm  Caja Compacta - TDIW01P](https://www.amazon.es/dp/B07TB55PJJ/?tag=redken-21) a precio de oferta de 129.99 EUR (original: 219.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51IHRKlcJcL._SL200_.jpg)](https://www.amazon.es/dp/B07TB55PJJ/?tag=redken-21) 
  

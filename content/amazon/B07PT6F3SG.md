@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PT6F3SG: Ofertón en Amazon para Meowoo Lupa Lectura Lupa con luz 3 LED   
- date: 2019/08/27 20:05:07 +0000 
+ date: 2019/08/29 15:14:43 +0000 
  comments: true 
  tags: B07PT6F3SG 
  category: ofertas 

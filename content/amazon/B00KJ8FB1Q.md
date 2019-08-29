@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KJ8FB1Q: Ofertón en Amazon para OMRON M2 Basic - Tensiómetro de brazo di 
- date: 2019/08/24 18:19:35 +0000 
+ date: 2019/08/29 19:25:55 +0000 
  comments: true 
  tags: B00KJ8FB1Q 
  category: ofertas 

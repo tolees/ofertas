@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P5Y9CNV: Ofertón en Amazon para Xiaomi Redmi Note 7 Smartphones de 6.3   
- date: 2019/08/25 17:58:39 +0000 
+ date: 2019/08/29 18:36:16 +0000 
  comments: true 
  tags: B07P5Y9CNV 
  category: ofertas 

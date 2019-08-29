@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y5LTPF1: Ofertón en Amazon para INTEY Bandas Elásticas Set de 5 Loop Res 
- date: 2019/08/28 06:57:30 +0000 
+ date: 2019/08/29 17:41:51 +0000 
  comments: true 
  tags: B06Y5LTPF1 
  category: ofertas 

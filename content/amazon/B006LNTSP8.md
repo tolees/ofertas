@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B006LNTSP8: Ofertón en Amazon para Logitech MK220 - Pack de teclado y ratón 
- date: 2019/08/28 18:00:50 +0000 
+ date: 2019/08/29 18:38:43 +0000 
  comments: true 
  tags: B006LNTSP8 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01JJ1VDQK: Ofertón en Amazon para Vanja Lector Tarjeta de Memoria SD/Micro 
- date: 2019/08/24 17:06:20 +0000 
+ date: 2019/08/29 15:04:35 +0000 
  comments: true 
  tags: B01JJ1VDQK 
  category: ofertas 
