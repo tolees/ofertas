@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019FRDKWI: Ofertón en Amazon para Crucial CT4G4SFS824A Memoria RAM de 4 GB 
- date: 2019/08/28 20:59:59 +0000 
+ date: 2019/08/30 07:32:17 +0000 
  comments: true 
  tags: B019FRDKWI 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Crucial CT4G4SFS824A Memoria RAM de 4 GB  DDR4  2400 MT/s  PC4-19200  Single Rank x 8  SODIMM  260-Pin ](https://www.amazon.es/dp/B019FRDKWI/?tag=redken-21) a precio de oferta de 13.57 EUR (original: 38.71 EUR) en el siguiente enlace! 
+ Tienes [Crucial CT4G4SFS824A Memoria RAM de 4 GB  DDR4  2400 MT/s  PC4-19200  Single Rank x 8  SODIMM  260-Pin ](https://www.amazon.es/dp/B019FRDKWI/?tag=redken-21) a precio de oferta de 20.1 EUR (original: 38.71 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31w6W8jbDVL._SL200_.jpg)](https://www.amazon.es/dp/B019FRDKWI/?tag=redken-21) 
  
