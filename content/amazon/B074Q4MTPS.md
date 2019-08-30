@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074Q4MTPS: Ofertón en Amazon para Licor del Polo - Pasta de dientes 2 en 1 
- date: 2019/08/28 06:33:34 +0000 
+ date: 2019/08/30 00:14:51 +0000 
  comments: true 
  tags: B074Q4MTPS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Licor del Polo - Pasta de dientes 2 en 1 Non Stop Fresh - 6 uds de 75ml](https://www.amazon.es/dp/B074Q4MTPS/?tag=redken-21) a precio de oferta de 5.53 EUR (original: 11.7 EUR) en el siguiente enlace! 
+ Tienes [Licor del Polo - Pasta de dientes 2 en 1 Non Stop Fresh - 6 uds de 75ml](https://www.amazon.es/dp/B074Q4MTPS/?tag=redken-21) a precio de oferta de 5.46 EUR (original: 11.7 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51sQQ3DZbCL._SL200_.jpg)](https://www.amazon.es/dp/B074Q4MTPS/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JM94FJW: Ofertón en Amazon para Mascot 13079 - 230 - 1809 - 82 C62 panta 
- date: 2019/08/27 21:08:47 +0000 
+ date: 2019/08/30 06:16:40 +0000 
  comments: true 
  tags: B00JM94FJW 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Mascot 13079 - 230 - 1809 - 82 C62 pantalón talla L82 cm/C62 Antracita Oscuro/Negro](https://www.amazon.es/dp/B00JM94FJW/?tag=redken-21) a precio de oferta de 27.46 EUR (original: 27.46 EUR) en el siguiente enlace! 
+ Tienes [Mascot 13079 - 230 - 1809 - 82 C62 pantalón talla L82 cm/C62 Antracita Oscuro/Negro](https://www.amazon.es/dp/B00JM94FJW/?tag=redken-21) a precio de oferta de 24.75 EUR (original: 24.75 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41kBR1T4FnL._SL200_.jpg)](https://www.amazon.es/dp/B00JM94FJW/?tag=redken-21) 
  

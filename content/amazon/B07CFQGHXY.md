@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CFQGHXY: Ofertón en Amazon para Yuanguo Pulsera de Actividad Inteligente 
- date: 2019/08/28 00:53:00 +0000 
+ date: 2019/08/30 05:40:54 +0000 
  comments: true 
  tags: B07CFQGHXY 
  category: ofertas 

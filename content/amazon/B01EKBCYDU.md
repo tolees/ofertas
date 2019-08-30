@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EKBCYDU: Ofertón en Amazon para Playmobil Playmobil-5390 Playset   Misce 
- date: 2019/08/28 07:53:04 +0000 
+ date: 2019/08/30 06:44:29 +0000 
  comments: true 
  tags: B01EKBCYDU 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil Playmobil-5390 Playset   Miscelanea  5390](https://www.amazon.es/dp/B01EKBCYDU/?tag=redken-21) a precio de oferta de 39.3 EUR (original: 40 EUR) en el siguiente enlace! 
+ Tienes [Playmobil Playmobil-5390 Playset   Miscelanea  5390](https://www.amazon.es/dp/B01EKBCYDU/?tag=redken-21) a precio de oferta de 39.56 EUR (original: 39.56 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51BaizuTffL._SL200_.jpg)](https://www.amazon.es/dp/B01EKBCYDU/?tag=redken-21) 
  

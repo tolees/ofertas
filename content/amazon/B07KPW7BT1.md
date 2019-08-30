@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KPW7BT1: Ofertón en Amazon para Lenovo Ideapad S130 - Ordenador Portátil 
- date: 2019/08/28 01:01:09 +0000 
+ date: 2019/08/30 06:16:59 +0000 
  comments: true 
  tags: B07KPW7BT1 
  category: ofertas 

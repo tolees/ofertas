@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AJPCLOI: Ofertón en Amazon para Playmobil Coche de Policía con Luces y S 
- date: 2019/08/28 07:52:11 +0000 
+ date: 2019/08/30 06:43:45 +0000 
  comments: true 
  tags: B01AJPCLOI 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil Coche de Policía con Luces y Sonido 6920](https://www.amazon.es/dp/B01AJPCLOI/?tag=redken-21) a precio de oferta de 28.99 EUR (original: 28.99 EUR) en el siguiente enlace! 
+ Tienes [Playmobil Coche de Policía con Luces y Sonido 6920](https://www.amazon.es/dp/B01AJPCLOI/?tag=redken-21) a precio de oferta de 29.38 EUR (original: 29.38 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51lcwDU3xSL._SL200_.jpg)](https://www.amazon.es/dp/B01AJPCLOI/?tag=redken-21) 
  

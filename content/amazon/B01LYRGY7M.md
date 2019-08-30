@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LYRGY7M: Ofertón en Amazon para Playmobil - Cuartel parque de bomberos G 
- date: 2019/08/28 07:52:22 +0000 
+ date: 2019/08/30 06:43:56 +0000 
  comments: true 
  tags: B01LYRGY7M 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil - Cuartel parque de bomberos Ghostbusters  9219 ](https://www.amazon.es/dp/B01LYRGY7M/?tag=redken-21) a precio de oferta de 69.85 EUR (original: 69.85 EUR) en el siguiente enlace! 
+ Tienes [Playmobil - Cuartel parque de bomberos Ghostbusters  9219 ](https://www.amazon.es/dp/B01LYRGY7M/?tag=redken-21) a precio de oferta de 69.95 EUR (original: 69.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61I9BpoU%2B1L._SL200_.jpg)](https://www.amazon.es/dp/B01LYRGY7M/?tag=redken-21) 
  

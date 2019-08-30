@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NGMKF28: Ofertón en Amazon para MEDION ERAZER P6705 - Ordenador portátil 
- date: 2019/08/27 22:05:45 +0000 
+ date: 2019/08/29 20:50:09 +0000 
  comments: true 
  tags: B07NGMKF28 
  category: ofertas 
