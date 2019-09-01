@@ -6,6 +6,7 @@
  tags: B005XMJCWC 
  category: ofertas 
  author: ring 
+ slug: B005XMJCWC 
  description: 
  --- 
  

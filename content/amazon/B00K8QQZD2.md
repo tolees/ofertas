@@ -6,6 +6,7 @@
  tags: B00K8QQZD2 
  category: ofertas 
  author: ring 
+ slug: B00K8QQZD2 
  description: 
  --- 
  

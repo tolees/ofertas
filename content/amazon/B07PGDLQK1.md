@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07PGDLQK1: Ofertón en Amazon para AVIWIS Cable USB Tipo C  [3Pack  1M 2M 3 
+ date: 2019/09/01 10:30:55 +0000 
+ comments: true 
+ tags: B07PGDLQK1 
+ category: ofertas 
+ author: ring 
+ slug: B07PGDLQK1 
+ description: 
+ --- 
+ 
+ Tienes [AVIWIS Cable USB Tipo C  [3Pack  1M 2M 3M] Cargador USB Tipo C de Nylon Trenzado Carga Rápida y Sincronización para Samsung S9/ S8/ Note8  Xiaomi Mi A1/A2  Moto G6  Huawei P20/Mate20  LG  Sony Xperia](https://www.amazon.es/dp/B07PGDLQK1/?tag=redken-21) a precio de oferta de 8.99 EUR (original: 16.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51hfIcQgZPL._SL200_.jpg)](https://www.amazon.es/dp/B07PGDLQK1/?tag=redken-21) 
+ 
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07PGDLQK1/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

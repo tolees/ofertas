@@ -6,6 +6,7 @@
  tags: B01BATE3OI 
  category: ofertas 
  author: ring 
+ slug: B01BATE3OI 
  description: 
  --- 
  

@@ -6,6 +6,7 @@
  tags: B07CTTLCML 
  category: ofertas 
  author: ring 
+ slug: B07CTTLCML 
  description: 
  --- 
  

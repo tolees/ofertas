@@ -6,6 +6,7 @@
  tags: B01B9XUBLE 
  category: ofertas 
  author: ring 
+ slug: B01B9XUBLE 
  description: 
  --- 
  

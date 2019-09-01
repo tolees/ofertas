@@ -6,6 +6,7 @@
  tags: B00QMGQWCG 
  category: ofertas 
  author: ring 
+ slug: B00QMGQWCG 
  description: 
  --- 
  

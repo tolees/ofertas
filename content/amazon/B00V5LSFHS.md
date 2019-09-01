@@ -6,6 +6,7 @@
  tags: B00V5LSFHS 
  category: ofertas 
  author: ring 
+ slug: B00V5LSFHS 
  description: 
  --- 
  

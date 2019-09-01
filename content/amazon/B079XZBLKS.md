@@ -6,6 +6,7 @@
  tags: B079XZBLKS 
  category: ofertas 
  author: ring 
+ slug: B079XZBLKS 
  description: 
  --- 
  

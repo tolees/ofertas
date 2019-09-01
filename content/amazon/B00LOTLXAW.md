@@ -6,6 +6,7 @@
  tags: B00LOTLXAW 
  category: ofertas 
  author: ring 
+ slug: B00LOTLXAW 
  description: 
  --- 
  

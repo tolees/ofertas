@@ -6,6 +6,7 @@
  tags: B005XMJO7U 
  category: ofertas 
  author: ring 
+ slug: B005XMJO7U 
  description: 
  --- 
  

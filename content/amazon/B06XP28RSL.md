@@ -6,6 +6,7 @@
  tags: B06XP28RSL 
  category: ofertas 
  author: ring 
+ slug: B06XP28RSL 
  description: 
  --- 
  

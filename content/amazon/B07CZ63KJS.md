@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CZ63KJS: Ofertón en Amazon para G-STAR RAW 5620 Elwood 3D Slim Jeans Vaq 
- date: 2019/08/30 00:44:35 +0000 
+ date: 2019/09/01 10:48:45 +0000 
  comments: true 
  tags: B07CZ63KJS 
  category: ofertas 

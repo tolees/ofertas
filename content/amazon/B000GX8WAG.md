@@ -6,6 +6,7 @@
  tags: B000GX8WAG 
  category: ofertas 
  author: ring 
+ slug: B000GX8WAG 
  description: 
  --- 
  

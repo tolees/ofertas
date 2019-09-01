@@ -6,6 +6,7 @@
  tags: B00RQ4D6EU 
  category: ofertas 
  author: ring 
+ slug: B00RQ4D6EU 
  description: 
  --- 
  

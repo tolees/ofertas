@@ -6,6 +6,7 @@
  tags: B00VHAZPW0 
  category: ofertas 
  author: ring 
+ slug: B00VHAZPW0 
  description: 
  --- 
  

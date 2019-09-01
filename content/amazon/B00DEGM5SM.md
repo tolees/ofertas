@@ -6,6 +6,7 @@
  tags: B00DEGM5SM 
  category: ofertas 
  author: ring 
+ slug: B00DEGM5SM 
  description: 
  --- 
  

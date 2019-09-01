@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GZG3Y2F: Ofertón en Amazon para ASUS PB60-B5118ZD 1 70 GHz 8ª generación 
- date: 2019/08/30 13:22:18 +0000 
+ date: 2019/09/01 09:22:22 +0000 
  comments: true 
  tags: B07GZG3Y2F 
  category: ofertas 

@@ -6,6 +6,7 @@
  tags: B00BAP32RM 
  category: ofertas 
  author: ring 
+ slug: B00BAP32RM 
  description: 
  --- 
  

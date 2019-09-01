@@ -6,6 +6,7 @@
  tags: B01LAV6PF6 
  category: ofertas 
  author: ring 
+ slug: B01LAV6PF6 
  description: 
  --- 
  

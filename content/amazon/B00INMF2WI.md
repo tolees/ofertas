@@ -6,6 +6,7 @@
  tags: B00INMF2WI 
  category: ofertas 
  author: ring 
+ slug: B00INMF2WI 
  description: 
  --- 
  

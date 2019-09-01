@@ -6,6 +6,7 @@
  tags: B06XSWMKW7 
  category: ofertas 
  author: ring 
+ slug: B06XSWMKW7 
  description: 
  --- 
  

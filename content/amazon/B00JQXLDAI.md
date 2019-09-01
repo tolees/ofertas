@@ -6,6 +6,7 @@
  tags: B00JQXLDAI 
  category: ofertas 
  author: ring 
+ slug: B00JQXLDAI 
  description: 
  --- 
  

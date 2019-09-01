@@ -6,10 +6,11 @@
  tags: B015NMAW0M 
  category: ofertas 
  author: ring 
+ slug: B015NMAW0M 
  description: 
  --- 
  
- Tienes [Mustela 48623 - Crema corporal anti estrías  formato duplo  2X250 ml](https://www.amazon.es/dp/B015NMAW0M/?tag=redken-21) a precio de oferta de None None (original: None None) en el siguiente enlace! 
+ Tienes [Mustela 48623 - Crema corporal anti estrías  formato duplo  2X250 ml](https://www.amazon.es/dp/B015NMAW0M/?tag=redken-21) a precio de oferta de 24.85 EUR (original: 34.67 EUR) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B015NMAW0M/?tag=redken-21) 
  

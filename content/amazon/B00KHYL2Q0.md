@@ -6,6 +6,7 @@
  tags: B00KHYL2Q0 
  category: ofertas 
  author: ring 
+ slug: B00KHYL2Q0 
  description: 
  --- 
  

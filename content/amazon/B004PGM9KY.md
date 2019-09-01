@@ -6,6 +6,7 @@
  tags: B004PGM9KY 
  category: ofertas 
  author: ring 
+ slug: B004PGM9KY 
  description: 
  --- 
  

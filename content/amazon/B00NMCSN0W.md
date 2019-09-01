@@ -6,6 +6,7 @@
  tags: B00NMCSN0W 
  category: ofertas 
  author: ring 
+ slug: B00NMCSN0W 
  description: 
  --- 
  
