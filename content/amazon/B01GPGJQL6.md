@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B01GPGJQL6: Ofertón en Amazon para Huawei P9 Lite - Smartphone libre Androi 
- date: 2019/08/28 18:13:01 +0000 
+ date: 2019/09/01 01:14:07 +0000 
  comments: true 
  tags: B01GPGJQL6 
  category: ofertas 
  author: ring 
- slug: B01GPGJQL6 
  description: 
  --- 
  

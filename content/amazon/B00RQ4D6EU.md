@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B00RQ4D6EU: Ofertón en Amazon para OKI MB472dnw - Equipo multifunción con t 
- date: 2019/08/29 18:02:26 +0000 
+ date: 2019/09/01 04:35:21 +0000 
  comments: true 
  tags: B00RQ4D6EU 
  category: ofertas 
  author: ring 
- slug: B00RQ4D6EU 
  description: 
  --- 
  

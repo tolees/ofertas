@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07KZ8JM2J: Ofertón en Amazon para Mars Gaming MGC218 - Silla profesional   
- date: 2019/08/30 10:38:40 +0000 
+ date: 2019/08/31 19:19:11 +0000 
  comments: true 
  tags: B07KZ8JM2J 
  category: ofertas 
  author: ring 
- slug: B07KZ8JM2J 
  description: 
  --- 
  

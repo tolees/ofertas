@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07KPWNSGJ: Ofertón en Amazon para DC-77 de 16MP 4X Zoom Digital de Alta de 
- date: 2019/08/30 13:40:34 +0000 
+ date: 2019/08/31 18:17:09 +0000 
  comments: true 
  tags: B07KPWNSGJ 
  category: ofertas 
  author: ring 
- slug: B07KPWNSGJ 
  description: 
  --- 
  

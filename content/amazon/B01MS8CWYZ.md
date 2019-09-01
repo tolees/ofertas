@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B01MS8CWYZ: Ofertón en Amazon para INTEY - 57 Piezas Caja de Herramientas | 
- date: 2019/08/29 21:21:43 +0000 
+ date: 2019/08/31 19:00:07 +0000 
  comments: true 
  tags: B01MS8CWYZ 
  category: ofertas 
  author: ring 
- slug: B01MS8CWYZ 
  description: 
  --- 
  

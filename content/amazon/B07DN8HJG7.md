@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07DN8HJG7: Ofertón en Amazon para Auriculares Gaming PS4  Auriculares Casc 
- date: 2019/08/30 11:50:40 +0000 
+ date: 2019/08/31 19:00:01 +0000 
  comments: true 
  tags: B07DN8HJG7 
  category: ofertas 
  author: ring 
- slug: B07DN8HJG7 
  description: 
  --- 
  

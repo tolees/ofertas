@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B00WXUZ38Y: Ofertón en Amazon para High-Tech Place Iradish i8 - SmartWatch  
- date: 2019/08/30 11:09:02 +0000 
+ date: 2019/09/01 00:40:17 +0000 
  comments: true 
  tags: B00WXUZ38Y 
  category: ofertas 
  author: ring 
- slug: B00WXUZ38Y 
  description: 
  --- 
  

@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B00QMGQWCG: Ofertón en Amazon para Wrangler The Walker Incense  Parka para  
- date: 2019/08/30 07:12:15 +0000 
+ date: 2019/09/01 01:28:52 +0000 
  comments: true 
  tags: B00QMGQWCG 
  category: ofertas 
  author: ring 
- slug: B00QMGQWCG 
  description: 
  --- 
  

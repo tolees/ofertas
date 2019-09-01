@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B00Q8ZEXEK: Ofertón en Amazon para SportPlus Smartwatch Striiv Touch runor- 
- date: 2019/08/29 16:14:42 +0000 
+ date: 2019/08/31 19:19:44 +0000 
  comments: true 
  tags: B00Q8ZEXEK 
  category: ofertas 
  author: ring 
- slug: B00Q8ZEXEK 
  description: 
  --- 
  

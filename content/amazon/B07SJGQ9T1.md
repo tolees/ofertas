@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07SJGQ9T1: Ofertón en Amazon para Tronsmart T6 Plus Altavoces Bluetooth 40 
- date: 2019/08/28 15:59:26 +0000 
+ date: 2019/08/31 20:15:14 +0000 
  comments: true 
  tags: B07SJGQ9T1 
  category: ofertas 
  author: ring 
- slug: B07SJGQ9T1 
  description: 
  --- 
  

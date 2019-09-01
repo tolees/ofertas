@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07CVKMYGR: Ofertón en Amazon para TD Systems K40DLM8FS - Televisor LED de  
- date: 2019/08/30 08:45:03 +0000 
+ date: 2019/08/31 23:10:49 +0000 
  comments: true 
  tags: B07CVKMYGR 
  category: ofertas 
  author: ring 
- slug: B07CVKMYGR 
  description: 
  --- 
  

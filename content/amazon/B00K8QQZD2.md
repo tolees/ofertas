@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B00K8QQZD2: Ofertón en Amazon para Panama Jack Panama 03 Aviator  Botas Mil 
- date: 2019/08/30 12:23:22 +0000 
+ date: 2019/09/01 05:48:51 +0000 
  comments: true 
  tags: B00K8QQZD2 
  category: ofertas 
  author: ring 
- slug: B00K8QQZD2 
  description: 
  --- 
  

@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07KRTDKVT: Ofertón en Amazon para Sanzhileg Cámara de acción Profesional c 
- date: 2019/08/29 20:44:56 +0000 
+ date: 2019/08/31 22:52:52 +0000 
  comments: true 
  tags: B07KRTDKVT 
  category: ofertas 
  author: ring 
- slug: B07KRTDKVT 
  description: 
  --- 
  

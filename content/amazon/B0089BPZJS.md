@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B0089BPZJS: Ofertón en Amazon para Canterbury Professional - Pantalón de Ru 
- date: 2019/08/29 20:56:42 +0000 
+ date: 2019/08/31 18:55:11 +0000 
  comments: true 
  tags: B0089BPZJS 
  category: ofertas 
  author: ring 
- slug: B0089BPZJS 
  description: 
  --- 
  

@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B01D4ETK4U: Ofertón en Amazon para EKids TR de 115 Trolls Karaoke Equipo pa 
- date: 2019/08/28 16:15:51 +0000 
+ date: 2019/09/01 05:44:56 +0000 
  comments: true 
  tags: B01D4ETK4U 
  category: ofertas 
  author: ring 
- slug: B01D4ETK4U 
  description: 
  --- 
  

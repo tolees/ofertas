@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B0779FFCXC: Ofertón en Amazon para ASUS 4G-AC68U - Router inalámbrico Gigab 
- date: 2019/08/29 15:51:11 +0000 
+ date: 2019/08/31 19:34:08 +0000 
  comments: true 
  tags: B0779FFCXC 
  category: ofertas 
  author: ring 
- slug: B0779FFCXC 
  description: 
  --- 
  

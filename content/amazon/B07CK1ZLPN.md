@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07CK1ZLPN: Ofertón en Amazon para Sharplace Adaptador Soporte de Extension 
- date: 2019/08/30 13:47:54 +0000 
+ date: 2019/08/31 21:24:17 +0000 
  comments: true 
  tags: B07CK1ZLPN 
  category: ofertas 
  author: ring 
- slug: B07CK1ZLPN 
  description: 
  --- 
  

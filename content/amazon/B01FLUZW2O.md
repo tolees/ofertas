@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B01FLUZW2O: Ofertón en Amazon para Duck and Cover Radical  Abrigo para Homb 
- date: 2019/08/29 16:04:07 +0000 
+ date: 2019/09/01 05:20:47 +0000 
  comments: true 
  tags: B01FLUZW2O 
  category: ofertas 
  author: ring 
- slug: B01FLUZW2O 
  description: 
  --- 
  

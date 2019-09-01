@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07JXVBKGC: Ofertón en Amazon para Dam Digital DX18 - Smartwatch Bluetooth  
- date: 2019/08/30 11:56:50 +0000 
+ date: 2019/09/01 00:52:42 +0000 
  comments: true 
  tags: B07JXVBKGC 
  category: ofertas 
  author: ring 
- slug: B07JXVBKGC 
  description: 
  --- 
  

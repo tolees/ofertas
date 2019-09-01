@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B071LM1HYK: Ofertón en Amazon para HP Z4N74AA - Monitor curvo Full HD de 27 
- date: 2019/08/29 15:17:26 +0000 
+ date: 2019/08/31 22:35:10 +0000 
  comments: true 
  tags: B071LM1HYK 
  category: ofertas 
  author: ring 
- slug: B071LM1HYK 
  description: 
  --- 
  

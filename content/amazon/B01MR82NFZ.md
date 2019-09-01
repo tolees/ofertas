@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B01MR82NFZ: Ofertón en Amazon para YI Cámara Vigilancia  Cámara IP  Wifi 10 
- date: 2019/08/30 13:20:52 +0000 
+ date: 2019/09/01 02:33:40 +0000 
  comments: true 
  tags: B01MR82NFZ 
  category: ofertas 
  author: ring 
- slug: B01MR82NFZ 
  description: 
  --- 
  

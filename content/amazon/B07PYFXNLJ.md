@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07PYFXNLJ: Ofertón en Amazon para Envasadora al Vacío ACTOPP Sellador de V 
- date: 2019/08/30 11:08:29 +0000 
+ date: 2019/08/31 18:01:06 +0000 
  comments: true 
  tags: B07PYFXNLJ 
  category: ofertas 
  author: ring 
- slug: B07PYFXNLJ 
  description: 
  --- 
  

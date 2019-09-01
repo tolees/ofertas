@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B01KLY1WKQ: Ofertón en Amazon para Moto G 3rd Gen Music - Smartphone de 5"  
- date: 2019/08/28 21:12:05 +0000 
+ date: 2019/08/31 23:11:37 +0000 
  comments: true 
  tags: B01KLY1WKQ 
  category: ofertas 
  author: ring 
- slug: B01KLY1WKQ 
  description: 
  --- 
  

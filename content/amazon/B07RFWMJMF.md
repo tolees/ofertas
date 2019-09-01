@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07RFWMJMF: Ofertón en Amazon para ASUS ZenBook UX410UA-GV028T - Ordenador  
- date: 2019/08/30 12:46:38 +0000 
+ date: 2019/08/31 19:10:18 +0000 
  comments: true 
  tags: B07RFWMJMF 
  category: ofertas 
  author: ring 
- slug: B07RFWMJMF 
  description: 
  --- 
  

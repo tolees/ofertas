@@ -1,12 +1,11 @@
 --- 
  layout: post 
  title: B07CZ87NFR: Ofertón en Amazon para G-STAR RAW Bronson Tuxedo Slim Pants Pan 
- date: 2019/08/29 17:01:17 +0000 
+ date: 2019/09/01 06:32:17 +0000 
  comments: true 
  tags: B07CZ87NFR 
  category: ofertas 
  author: ring 
- slug: B07CZ87NFR 
  description: 
  --- 
  
