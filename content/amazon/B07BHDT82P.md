@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BHDT82P: Ofertón en Amazon para Kaporal Iseo  Botas y Botines Flexibles  
- date: 2019/08/29 15:22:56 +0000 
+ date: 2019/09/02 06:17:45 +0000 
  comments: true 
  tags: B07BHDT82P 
  category: ofertas 

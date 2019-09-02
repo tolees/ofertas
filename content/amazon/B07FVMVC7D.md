@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FVMVC7D: Ofertón en Amazon para Lomvum Medidor Laser de Distancia  50M P 
- date: 2019/08/29 19:18:05 +0000 
+ date: 2019/09/02 09:12:13 +0000 
  comments: true 
  tags: B07FVMVC7D 
  category: ofertas 

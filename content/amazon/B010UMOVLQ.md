@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B010UMOVLQ: Ofertón en Amazon para Panasonic HC-V770EP-K soporte de - Video 
- date: 2019/08/30 11:25:34 +0000 
+ date: 2019/09/02 10:15:34 +0000 
  comments: true 
  tags: B010UMOVLQ 
  category: ofertas 

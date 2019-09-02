@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07RR2BPPJ: Ofertón en Amazon para Minlop Máscara para Los Ojos  Máscara pa 
- date: 2019/08/31 23:35:07 +0000 
+ date: 2019/09/02 11:18:17 +0000 
  comments: true 
  tags: B07RR2BPPJ 
  category: ofertas 
  author: ring 
+ slug: B07RR2BPPJ 
  description: 
  --- 
  

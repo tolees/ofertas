@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JPDDC6L: Ofertón en Amazon para DAM DMX196BK - Correa de Piel sintética  
- date: 2019/08/30 08:53:37 +0000 
+ date: 2019/09/02 07:20:10 +0000 
  comments: true 
  tags: B07JPDDC6L 
  category: ofertas 

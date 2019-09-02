@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NDDDJRN: Ofertón en Amazon para Samsung Galaxy S10 - Smartphone de 6.1"  
- date: 2019/08/28 17:44:33 +0000 
+ date: 2019/09/02 07:11:03 +0000 
  comments: true 
  tags: B07NDDDJRN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Samsung Galaxy S10 - Smartphone de 6.1"   Dual SIM  Negro  Prism Black   - [Version español]](https://www.amazon.es/dp/B07NDDDJRN/?tag=redken-21) a precio de oferta de 675 EUR (original: 909 EUR) en el siguiente enlace! 
+ Tienes [Samsung Galaxy S10 - Smartphone de 6.1"   Dual SIM  Negro  Prism Black   - [Version español]](https://www.amazon.es/dp/B07NDDDJRN/?tag=redken-21) a precio de oferta de 671.99 EUR (original: 909 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31zMiVkPbeL._SL200_.jpg)](https://www.amazon.es/dp/B07NDDDJRN/?tag=redken-21) 
  

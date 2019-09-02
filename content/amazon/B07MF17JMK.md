@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07MF17JMK: Ofertón en Amazon para JIMMY Xiaomi JV51 Aspirador escoba  Aspi 
- date: 2019/08/31 20:27:19 +0000 
+ date: 2019/09/02 01:55:14 +0000 
  comments: true 
  tags: B07MF17JMK 
  category: ofertas 
  author: ring 
+ slug: B07MF17JMK 
  description: 
  --- 
  

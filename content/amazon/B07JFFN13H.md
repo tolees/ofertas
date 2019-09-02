@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07JFFN13H: Ofertón en Amazon para Roidmi F8 Storm - Aspiradora sin cable d 
- date: 2019/08/31 22:29:12 +0000 
+ date: 2019/09/02 06:30:48 +0000 
  comments: true 
  tags: B07JFFN13H 
  category: ofertas 
  author: ring 
+ slug: B07JFFN13H 
  description: 
  --- 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XS8SR1J: Ofertón en Amazon para Versa 18790697 Perchero pie blanco - Met 
- date: 2019/08/28 18:18:51 +0000 
+ date: 2019/09/02 06:03:04 +0000 
  comments: true 
  tags: B06XS8SR1J 
  category: ofertas 

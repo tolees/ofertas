@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01I1SYJ0O: Ofertón en Amazon para Altavoz Portátil Bluetooth 3.0 USB 
- date: 2019/08/30 09:36:48 +0000 
+ date: 2019/09/02 06:37:14 +0000 
  comments: true 
  tags: B01I1SYJ0O 
  category: ofertas 

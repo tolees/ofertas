@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07TYNX6SW: Ofertón en Amazon para Vannico Camara Fotos  Camara para Niños  
- date: 2019/08/31 19:06:16 +0000 
+ date: 2019/09/02 08:34:06 +0000 
  comments: true 
  tags: B07TYNX6SW 
  category: ofertas 
  author: ring 
+ slug: B07TYNX6SW 
  description: 
  --- 
  

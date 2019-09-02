@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CNWZYXY: Ofertón en Amazon para ESDDI Flash Speedlite para Canon Nikon P 
- date: 2019/08/29 21:02:35 +0000 
+ date: 2019/09/02 09:15:17 +0000 
  comments: true 
  tags: B07CNWZYXY 
  category: ofertas 

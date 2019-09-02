@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B017NGPYR2: Ofertón en Amazon para ELINKUME 10x pack 48 SMD 6W GU10 LED Spo 
- date: 2019/08/31 20:01:57 +0000 
+ date: 2019/09/02 07:38:29 +0000 
  comments: true 
  tags: B017NGPYR2 
  category: ofertas 
  author: ring 
+ slug: B017NGPYR2 
  description: 
  --- 
  

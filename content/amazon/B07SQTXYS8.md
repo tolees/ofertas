@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SQTXYS8: Ofertón en Amazon para Delimira - Sujetador Reductor Copa Compl 
- date: 2019/08/28 19:09:58 +0000 
+ date: 2019/09/02 07:56:21 +0000 
  comments: true 
  tags: B07SQTXYS8 
  category: ofertas 

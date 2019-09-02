@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CSWNGJ5: Ofertón en Amazon para Pandora Anillo Mujer plata - 197093CZ-56 
- date: 2019/09/01 07:46:35 +0000 
+ date: 2019/09/02 08:05:11 +0000 
  comments: true 
  tags: B07CSWNGJ5 
  category: ofertas 

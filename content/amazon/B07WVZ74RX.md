@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07WVZ74RX: Ofertón en Amazon para Likiy Mujeres Cuello con Capucha Casual  
- date: 2019/08/31 23:03:57 +0000 
+ date: 2019/09/02 08:48:17 +0000 
  comments: true 
  tags: B07WVZ74RX 
  category: ofertas 
  author: ring 
+ slug: B07WVZ74RX 
  description: 
  --- 
  

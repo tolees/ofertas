@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07RFXG4QC: Ofertón en Amazon para ASUS ROG Strix G531GT-BQ005 - Ordenador  
- date: 2019/08/31 22:02:41 +0000 
+ date: 2019/09/02 08:12:57 +0000 
  comments: true 
  tags: B07RFXG4QC 
  category: ofertas 
  author: ring 
+ slug: B07RFXG4QC 
  description: 
  --- 
  

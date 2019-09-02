@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CKNKR92: Ofertón en Amazon para BassPal SoundRo X3 - Altavoz Bluetooth P 
- date: 2019/08/29 18:27:15 +0000 
+ date: 2019/09/02 05:13:06 +0000 
  comments: true 
  tags: B07CKNKR92 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SR88CFV: Ofertón en Amazon para J.Endéar Pulsera de Granate Hecha a Mano 
- date: 2019/09/01 07:38:35 +0000 
+ date: 2019/09/02 08:27:16 +0000 
  comments: true 
  tags: B07SR88CFV 
  category: ofertas 

@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B00TU6MKPS: Ofertón en Amazon para Portwest TX11 - Pantalones de contraste  
- date: 2019/08/31 19:23:07 +0000 
+ date: 2019/09/02 09:01:24 +0000 
  comments: true 
  tags: B00TU6MKPS 
  category: ofertas 
  author: ring 
+ slug: B00TU6MKPS 
  description: 
  --- 
  

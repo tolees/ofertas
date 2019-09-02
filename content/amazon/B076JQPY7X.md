@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B076JQPY7X: Ofertón en Amazon para Samsung Gear Sport - Smartwatch  Tizen   
- date: 2019/08/31 19:30:05 +0000 
+ date: 2019/09/02 08:37:33 +0000 
  comments: true 
  tags: B076JQPY7X 
  category: ofertas 
  author: ring 
+ slug: B076JQPY7X 
  description: 
  --- 
  
