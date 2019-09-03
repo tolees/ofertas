@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SNG23JW: Ofertón en Amazon para Xiaomi Mi Smart Band 4 - Tracker de acti 
- date: 2019/09/01 11:13:44 +0000 
+ date: 2019/09/02 21:18:21 +0000 
  comments: true 
  tags: B07SNG23JW 
  category: ofertas 

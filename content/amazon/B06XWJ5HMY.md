@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XWJ5HMY: Ofertón en Amazon para Huawei Mediapad T3 10 Tablet WiFi  CPU Q 
- date: 2019/09/01 01:33:22 +0000 
+ date: 2019/09/03 06:32:42 +0000 
  comments: true 
  tags: B06XWJ5HMY 
  category: ofertas 

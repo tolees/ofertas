@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00SA3H0HA: Ofertón en Amazon para FRETZ men Tosco  Zapatos de Cordones Der 
- date: 2019/08/30 11:22:24 +0000 
+ date: 2019/09/02 22:23:40 +0000 
  comments: true 
  tags: B00SA3H0HA 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [FRETZ men Tosco  Zapatos de Cordones Derby para Hombre  Negro  Noir 51   46 EU](https://www.amazon.es/dp/B00SA3H0HA/?tag=redken-21) a precio de oferta de 45.71 EUR (original: 45.71 EUR) en el siguiente enlace! 
+ Tienes [FRETZ men Tosco  Zapatos de Cordones Derby para Hombre  Negro  Noir 51   46 EU](https://www.amazon.es/dp/B00SA3H0HA/?tag=redken-21) a precio de oferta de 43.05 EUR (original: 43.05 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41YAxg6jcCL._SL200_.jpg)](https://www.amazon.es/dp/B00SA3H0HA/?tag=redken-21) 
  

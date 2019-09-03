@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B00TUA0NJO: Ofertón en Amazon para Juego de repuestos palanca Pitchkompensa 
- date: 2019/08/31 20:24:45 +0000 
+ date: 2019/09/03 05:52:19 +0000 
  comments: true 
  tags: B00TUA0NJO 
  category: ofertas 
  author: ring 
+ slug: B00TUA0NJO 
  description: 
  --- 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VLV7ZVE: Ofertón en Amazon para Playmobil 6678 - Buque corsario 
- date: 2019/08/30 06:42:53 +0000 
+ date: 2019/09/02 23:15:12 +0000 
  comments: true 
  tags: B00VLV7ZVE 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil 6678 - Buque corsario](https://www.amazon.es/dp/B00VLV7ZVE/?tag=redken-21) a precio de oferta de 55.29 EUR (original: 55.29 EUR) en el siguiente enlace! 
+ Tienes [Playmobil 6678 - Buque corsario](https://www.amazon.es/dp/B00VLV7ZVE/?tag=redken-21) a precio de oferta de 66.95 EUR (original: 66.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61zZrhaBACL._SL200_.jpg)](https://www.amazon.es/dp/B00VLV7ZVE/?tag=redken-21) 
  

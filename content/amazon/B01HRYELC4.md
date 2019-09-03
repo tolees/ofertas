@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HRYELC4: Ofertón en Amazon para Samsung S24D330H - Monitor para PC Deskt 
- date: 2019/08/28 20:27:44 +0000 
+ date: 2019/09/02 21:46:42 +0000 
  comments: true 
  tags: B01HRYELC4 
  category: ofertas 

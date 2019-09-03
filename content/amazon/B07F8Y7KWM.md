@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07F8Y7KWM: Ofertón en Amazon para Xiaowa Youth Robot Aspirador Sweeping In 
- date: 2019/08/31 21:43:37 +0000 
+ date: 2019/09/02 22:17:18 +0000 
  comments: true 
  tags: B07F8Y7KWM 
  category: ofertas 
  author: ring 
+ slug: B07F8Y7KWM 
  description: 
  --- 
  

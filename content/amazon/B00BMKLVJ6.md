@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00BMKLVJ6: Ofertón en Amazon para LEGO Mindstorms - EV3  31313  
- date: 2019/08/30 13:28:21 +0000 
+ date: 2019/09/02 22:59:06 +0000 
  comments: true 
  tags: B00BMKLVJ6 
  category: ofertas 

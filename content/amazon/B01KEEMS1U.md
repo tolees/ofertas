@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B01KEEMS1U: Ofertón en Amazon para ViewSonic TD2421 - Monitor 24" Full HD M 
- date: 2019/08/31 23:34:57 +0000 
+ date: 2019/09/03 05:28:08 +0000 
  comments: true 
  tags: B01KEEMS1U 
  category: ofertas 
  author: ring 
+ slug: B01KEEMS1U 
  description: 
  --- 
  

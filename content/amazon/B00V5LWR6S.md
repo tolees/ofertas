@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00V5LWR6S: Ofertón en Amazon para Kempa - Emotion Shirt  Color Azul  Talla 
- date: 2019/08/30 06:57:14 +0000 
+ date: 2019/09/02 22:17:03 +0000 
  comments: true 
  tags: B00V5LWR6S 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00J4FUA7U: Ofertón en Amazon para Portwest S887 - Pantalones de acción  co 
- date: 2019/08/29 23:32:22 +0000 
+ date: 2019/09/02 22:28:13 +0000 
  comments: true 
  tags: B00J4FUA7U 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Portwest S887 - Pantalones de acción  color Marina de guerra  talla 33](https://www.amazon.es/dp/B00J4FUA7U/?tag=redken-21) a precio de oferta de 8.64 EUR (original: 8.64 EUR) en el siguiente enlace! 
+ Tienes [Portwest S887 - Pantalones de acción  color Marina de guerra  talla 33](https://www.amazon.es/dp/B00J4FUA7U/?tag=redken-21) a precio de oferta de 8.49 EUR (original: 8.64 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31NUZVzQysL._SL200_.jpg)](https://www.amazon.es/dp/B00J4FUA7U/?tag=redken-21) 
  

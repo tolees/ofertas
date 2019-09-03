@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01B5YRKJ8: Ofertón en Amazon para THECUS N2810 
- date: 2019/08/29 15:54:09 +0000 
+ date: 2019/09/03 01:32:30 +0000 
  comments: true 
  tags: B01B5YRKJ8 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [THECUS N2810](https://www.amazon.es/dp/B01B5YRKJ8/?tag=redken-21) a precio de oferta de 294.24 EUR (original: 294.24 EUR) en el siguiente enlace! 
+ Tienes [THECUS N2810](https://www.amazon.es/dp/B01B5YRKJ8/?tag=redken-21) a precio de oferta de 300.16 EUR (original: 300.16 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51-7uZaPpJL._SL200_.jpg)](https://www.amazon.es/dp/B01B5YRKJ8/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MGRAICA: Ofertón en Amazon para HP Value Backpack 15.6 - Mochila para po 
- date: 2019/08/28 18:48:36 +0000 
+ date: 2019/09/02 21:15:36 +0000 
  comments: true 
  tags: B00MGRAICA 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [HP Value Backpack 15.6 - Mochila para portátiles de hasta 15.6"  gris y azul](https://www.amazon.es/dp/B00MGRAICA/?tag=redken-21) a precio de oferta de 9.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes [HP Value Backpack 15.6 - Mochila para portátiles de hasta 15.6"  gris y azul](https://www.amazon.es/dp/B00MGRAICA/?tag=redken-21) a precio de oferta de 15.18 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41VjCNX7NDL._SL200_.jpg)](https://www.amazon.es/dp/B00MGRAICA/?tag=redken-21) 
  

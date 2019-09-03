@@ -1,11 +1,12 @@
 --- 
  layout: post 
  title: B07DJ6FVJV: Ofertón en Amazon para Matrícula del kit de cámara de visión no 
- date: 2019/08/31 20:04:04 +0000 
+ date: 2019/09/02 22:05:51 +0000 
  comments: true 
  tags: B07DJ6FVJV 
  category: ofertas 
  author: ring 
+ slug: B07DJ6FVJV 
  description: 
  --- 
  

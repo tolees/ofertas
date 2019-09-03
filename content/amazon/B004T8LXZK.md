@@ -1,15 +1,16 @@
 --- 
  layout: post 
  title: B004T8LXZK: Ofertón en Amazon para Beco Unisex V Men V de Strap de Slipper  
- date: 2019/08/31 19:38:34 +0000 
+ date: 2019/09/02 21:53:18 +0000 
  comments: true 
  tags: B004T8LXZK 
  category: ofertas 
  author: ring 
+ slug: B004T8LXZK 
  description: 
  --- 
  
- Tienes [Beco Unisex V Men V de Strap de Slipper  Unisex  V-Strap-Slipper  Men  Marine  44](https://www.amazon.es/dp/B004T8LXZK/?tag=redken-21) a precio de oferta de 9.19 EUR (original: 9.19 EUR) en el siguiente enlace! 
+ Tienes [Beco Unisex V Men V de Strap de Slipper  Unisex  V-Strap-Slipper  Men  Marine  44](https://www.amazon.es/dp/B004T8LXZK/?tag=redken-21) a precio de oferta de 9.33 EUR (original: 9.33 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41STLWpWmaL._SL200_.jpg)](https://www.amazon.es/dp/B004T8LXZK/?tag=redken-21) 
  

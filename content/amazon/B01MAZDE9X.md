@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MAZDE9X: Ofertón en Amazon para [Pack de 4] VERNEL Suavizante Concentrad 
- date: 2019/08/29 20:52:33 +0000 
+ date: 2019/09/02 22:13:21 +0000 
  comments: true 
  tags: B01MAZDE9X 
  category: ofertas 
