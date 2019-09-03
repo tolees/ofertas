@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00T2XXJQS: Ofertón en Amazon para Remington Delicates BHT250 - Afeitadora  
- date: 2019/09/02 07:33:15 +0000 
+ date: 2019/09/03 11:14:25 +0000 
  comments: true 
  tags: B00T2XXJQS 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JT8AJZ0: Ofertón en Amazon para WD Elements Desktop - Disco duro externo 
- date: 2019/09/02 05:12:13 +0000 
+ date: 2019/09/03 10:12:43 +0000 
  comments: true 
  tags: B00JT8AJZ0 
  category: ofertas 

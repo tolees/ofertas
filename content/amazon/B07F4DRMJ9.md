@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07F4DRMJ9: Ofertón en Amazon para Sebago Wilson Suede  Zapatos de Cordones 
- date: 2019/09/02 07:36:15 +0000 
+ date: 2019/09/03 09:52:13 +0000 
  comments: true 
  tags: B07F4DRMJ9 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Sebago Wilson Suede  Zapatos de Cordones Derby para Hombre  Azul  Bleu 908   44 EU](https://www.amazon.es/dp/B07F4DRMJ9/?tag=redken-21) a precio de oferta de 74.19 EUR (original: 200 EUR) en el siguiente enlace! 
+ Tienes [Sebago Wilson Suede  Zapatos de Cordones Derby para Hombre  Azul  Bleu 908   44 EU](https://www.amazon.es/dp/B07F4DRMJ9/?tag=redken-21) a precio de oferta de 70.48 EUR (original: 200 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31Xe8bEcWvL._SL200_.jpg)](https://www.amazon.es/dp/B07F4DRMJ9/?tag=redken-21) 
  

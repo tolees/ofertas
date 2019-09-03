@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NRH4KSQ: Ofertón en Amazon para SYOSS - Champú Rizos Pro - Definición e  
- date: 2019/09/02 05:35:24 +0000 
+ date: 2019/09/03 11:03:57 +0000 
  comments: true 
  tags: B07NRH4KSQ 
  category: ofertas 

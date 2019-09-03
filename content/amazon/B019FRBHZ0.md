@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019FRBHZ0: Ofertón en Amazon para Crucial CT16G4SFD824A Memoria RAM de 16  
- date: 2019/09/02 09:46:09 +0000 
+ date: 2019/09/03 10:32:18 +0000 
  comments: true 
  tags: B019FRBHZ0 
  category: ofertas 

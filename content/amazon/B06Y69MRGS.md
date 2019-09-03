@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y69MRGS: Ofertón en Amazon para Fujifilm Instax Mini 9 - Cámara instantá 
- date: 2019/09/02 06:32:41 +0000 
+ date: 2019/09/03 10:26:21 +0000 
  comments: true 
  tags: B06Y69MRGS 
  category: ofertas 
