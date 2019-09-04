@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06ZZ2LC7Y: Ofertón en Amazon para Auriculares AUDIO-TECHNICA ATH-AR3BT Col 
- date: 2019/09/02 20:57:15 +0000 
+ date: 2019/09/04 07:21:13 +0000 
  comments: true 
  tags: B06ZZ2LC7Y 
  category: ofertas 

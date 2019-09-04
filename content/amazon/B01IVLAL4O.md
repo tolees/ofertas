@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B01IVLAL4O: Ofertón en Amazon para Head Basic 2P  Bóxer para Hombre  Negro  
+ date: 2019/09/04 07:45:42 +0000 
+ comments: true 
+ tags: B01IVLAL4O 
+ category: ofertas 
+ author: ring 
+ slug: B01IVLAL4O 
+ description: 
+ --- 
+ 
+ Tienes [Head Basic 2P  Bóxer para Hombre  Negro  Red/Blue   XL   Pack de 2 ](https://www.amazon.es/dp/B01IVLAL4O/?tag=redken-21) a precio de oferta de 8.95 EUR (original: 9.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/31XpnEKg9QL._SL200_.jpg)](https://www.amazon.es/dp/B01IVLAL4O/?tag=redken-21) 
+ 
+ [Accede a la oferta!!](https://www.amazon.es/dp/B01IVLAL4O/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

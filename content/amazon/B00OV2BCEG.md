@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00OV2BCEG: Ofertón en Amazon para Béaba Babycook Solo - Robot de cocina  c 
- date: 2019/09/03 08:16:25 +0000 
+ date: 2019/09/04 09:50:47 +0000 
  comments: true 
  tags: B00OV2BCEG 
  category: ofertas 

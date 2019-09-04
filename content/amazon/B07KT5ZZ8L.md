@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KT5ZZ8L: Ofertón en Amazon para DC-77 16MP 4X Zoom Videocámara Digital d 
- date: 2019/09/02 22:48:13 +0000 
+ date: 2019/09/04 00:44:59 +0000 
  comments: true 
  tags: B07KT5ZZ8L 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RZSSGM6: Ofertón en Amazon para ASUS ROG Strix Hero III G731GU-EV044 - P 
- date: 2019/09/03 09:36:59 +0000 
+ date: 2019/09/04 10:32:48 +0000 
  comments: true 
  tags: B07RZSSGM6 
  category: ofertas 

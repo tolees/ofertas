@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WGSB8Y1: Ofertón en Amazon para cámara de salpicadero  cámara de salpica 
- date: 2019/09/03 07:48:50 +0000 
+ date: 2019/09/04 08:06:45 +0000 
  comments: true 
  tags: B07WGSB8Y1 
  category: ofertas 

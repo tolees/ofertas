@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NSC3YVW: Ofertón en Amazon para Irrigador Bucal Portátil con 6 Boquillas 
- date: 2019/09/02 09:04:45 +0000 
+ date: 2019/09/04 06:02:34 +0000 
  comments: true 
  tags: B07NSC3YVW 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NPGLPDV: Ofertón en Amazon para Tensiómetro Superior Arealer  Tecnología 
- date: 2019/09/03 07:22:09 +0000 
+ date: 2019/09/04 08:33:52 +0000 
  comments: true 
  tags: B07NPGLPDV 
  category: ofertas 
