@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QYQHWKZ: Ofertón en Amazon para ELEHOT Altavoz Bluetooth Portatil con Lu 
- date: 2019/09/02 22:44:18 +0000 
+ date: 2019/09/04 16:53:48 +0000 
  comments: true 
  tags: B07QYQHWKZ 
  category: ofertas 

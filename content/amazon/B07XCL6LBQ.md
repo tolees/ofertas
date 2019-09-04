@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XCL6LBQ: Ofertón en Amazon para Jintes Sombreros Resistentes de Invierno 
- date: 2019/09/03 11:09:18 +0000 
+ date: 2019/09/04 14:26:29 +0000 
  comments: true 
  tags: B07XCL6LBQ 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CHHDY66: Ofertón en Amazon para Logitech MK270 - Pack de teclado y ratón 
- date: 2019/09/03 10:10:18 +0000 
+ date: 2019/09/04 18:38:26 +0000 
  comments: true 
  tags: B00CHHDY66 
  category: ofertas 

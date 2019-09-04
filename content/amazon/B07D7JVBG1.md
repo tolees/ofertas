@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D7JVBG1: Ofertón en Amazon para Dolores Promesas 107385 Vestido  Marrón  
- date: 2019/09/02 20:59:07 +0000 
+ date: 2019/09/04 19:33:11 +0000 
  comments: true 
  tags: B07D7JVBG1 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Dolores Promesas 107385 Vestido  Marrón Leopa   Tamaño del Fabricante:40  para Mujer](https://www.amazon.es/dp/B07D7JVBG1/?tag=redken-21) a precio de oferta de 61.41 EUR (original: 159.9 EUR) en el siguiente enlace! 
+ Tienes [Dolores Promesas 107385 Vestido  Marrón Leopa   Tamaño del Fabricante:40  para Mujer](https://www.amazon.es/dp/B07D7JVBG1/?tag=redken-21) a precio de oferta de 58.19 EUR (original: 159.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41y6W6bvxgL._SL200_.jpg)](https://www.amazon.es/dp/B07D7JVBG1/?tag=redken-21) 
  

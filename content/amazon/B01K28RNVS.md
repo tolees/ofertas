@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01K28RNVS: Ofertón en Amazon para Polar M600 Smartwatch con GPS Integrado  
- date: 2019/09/03 06:55:36 +0000 
+ date: 2019/09/04 14:33:18 +0000 
  comments: true 
  tags: B01K28RNVS 
  category: ofertas 

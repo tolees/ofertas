@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HNQ7QKN: Ofertón en Amazon para Linterna Frontal LED USB Recargable 1200 
- date: 2019/09/03 11:00:25 +0000 
+ date: 2019/09/04 17:07:02 +0000 
  comments: true 
  tags: B07HNQ7QKN 
  category: ofertas 

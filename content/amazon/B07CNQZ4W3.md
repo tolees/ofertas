@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CNQZ4W3: Ofertón en Amazon para Sony KD55XF7004BAEP - Smart TV de 55" 4K 
- date: 2019/09/03 07:10:42 +0000 
+ date: 2019/09/04 16:25:31 +0000 
  comments: true 
  tags: B07CNQZ4W3 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TGKCY19: Ofertón en Amazon para Vistefly V10 Pro Aspirador sin Cable Pot 
- date: 2019/09/03 08:37:17 +0000 
+ date: 2019/09/04 18:34:45 +0000 
  comments: true 
  tags: B07TGKCY19 
  category: ofertas 
