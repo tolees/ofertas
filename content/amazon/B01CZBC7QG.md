@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CZBC7QG: Ofertón en Amazon para BC Master BCM-CQ01 Quick Charge 3.0 USB  
- date: 2019/09/02 21:15:49 +0000 
+ date: 2019/09/05 05:42:33 +0000 
  comments: true 
  tags: B01CZBC7QG 
  category: ofertas 

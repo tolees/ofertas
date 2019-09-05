@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0751GBCKM: Ofertón en Amazon para Garmin Vivoactive 3 - Smartwatch con GPS 
- date: 2019/09/03 08:27:57 +0000 
+ date: 2019/09/05 06:03:21 +0000 
  comments: true 
  tags: B0751GBCKM 
  category: ofertas 
