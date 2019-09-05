@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C28HBMV: Ofertón en Amazon para JACK & JONES Jjejeans Sweat Hood Noos Ca 
- date: 2019/09/04 16:19:54 +0000 
+ date: 2019/09/05 17:52:54 +0000 
  comments: true 
  tags: B07C28HBMV 
  category: ofertas 
