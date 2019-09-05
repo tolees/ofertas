@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001GNBVRQ: Ofertón en Amazon para Max Factor Pan Stick Base de maquillaje  
- date: 2019/09/04 07:18:47 +0000 
+ date: 2019/09/05 14:08:55 +0000 
  comments: true 
  tags: B001GNBVRQ 
  category: ofertas 

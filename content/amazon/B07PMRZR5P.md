@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PMRZR5P: Ofertón en Amazon para Samsung 4K UHD 2019 55RU7405 - Smart TV  
- date: 2019/09/04 10:20:11 +0000 
+ date: 2019/09/05 21:53:16 +0000 
  comments: true 
  tags: B07PMRZR5P 
  category: ofertas 

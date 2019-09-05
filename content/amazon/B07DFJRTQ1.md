@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DFJRTQ1: Ofertón en Amazon para SIMBR Soporte Monitor con Brazo Simple p 
- date: 2019/09/04 07:29:02 +0000 
+ date: 2019/09/05 19:41:11 +0000 
  comments: true 
  tags: B07DFJRTQ1 
  category: ofertas 
