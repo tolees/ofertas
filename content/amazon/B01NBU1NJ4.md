@@ -1,6 +1,6 @@
 --- 
  layout: post 
- title: B01NBU1NJ4: Ofertón en Amazon para Epson EcoTank ET-2650 - Impresora multif 
+ title: B01NBU1NJ4: Rebaja en Epson EcoTank ET-2650 - Impresora multif en Amazon 
  date: 2019/09/05 16:23:40 +0000 
  comments: true 
  tags: B01NBU1NJ4 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Tienes [Epson EcoTank ET-2650 - Impresora multifunción  de inyección  4 Botellas de Tinta Individuales de Color  Negro](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21) a precio de oferta de 166.35 EUR (original: 302.99 EUR) en el siguiente enlace! 
+ Está [Epson EcoTank ET-2650 - Impresora multifunción  de inyección  4 Botellas de Tinta Individuales de Color  Negro](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21) por 166.35 EUR (original: 302.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg)](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
