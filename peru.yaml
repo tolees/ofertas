@@ -16,7 +16,6 @@ imports:
     plugins|assets: plugins/
     plugins|post_stats: plugins/
     revealmd: plugins/revealmd/
-    tolees: output/
 
 
 git module elegant:
@@ -69,7 +68,3 @@ rule assets:
 
 rule post_stats:
     pick: post_stats
-
-git module tolees:
-    url: https://github.com/tolees/ofertas.git
-    rev: master
