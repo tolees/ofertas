@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B64YWDV: Ahorra en JACK & JONES Jjejeans Sweat Hood Noos Ca 
- date: 2019/09/05 17:52:54 +0000 
+ date: 2019/09/07 08:07:22 +0000 
  comments: true 
  tags: B07B64YWDV 
  category: ofertas 

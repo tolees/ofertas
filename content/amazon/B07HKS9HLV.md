@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HKS9HLV: Ofertón en Amazon para Smart TV 40   LED  CHiQ U40E6000  UHD 4k 
- date: 2019/09/04 07:16:47 +0000 
+ date: 2019/09/07 09:49:03 +0000 
  comments: true 
  tags: B07HKS9HLV 
  category: ofertas 

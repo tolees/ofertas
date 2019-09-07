@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PWZVJ2T: Ahorra en LG XBOOM LK72B - Conjunto de Altavoces 2 
- date: 2019/09/05 19:55:32 +0000 
+ date: 2019/09/07 12:44:47 +0000 
  comments: true 
  tags: B07PWZVJ2T 
  category: ofertas 

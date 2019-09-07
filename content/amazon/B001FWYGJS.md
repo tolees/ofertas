@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001FWYGJS: Ofertón en Amazon para TP-Link TL-WR841N - WiFi router inalámbr 
- date: 2019/09/04 18:07:19 +0000 
+ date: 2019/09/07 13:03:35 +0000 
  comments: true 
  tags: B001FWYGJS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [TP-Link TL-WR841N - WiFi router inalámbrico  300 Mbps de velocidad WiFi  antenas de 5 dBi  modo multi  fácil de usar  4 puertos LAN de 10/100 Mbps  1 puerto WAN de 10/100 Mbps](https://www.amazon.es/dp/B001FWYGJS/?tag=redken-21) a precio de oferta de 16.99 EUR (original: 29.9 EUR) en el siguiente enlace! 
+ Tienes [TP-Link TL-WR841N - WiFi router inalámbrico  300 Mbps de velocidad WiFi  antenas de 5 dBi  modo multi  fácil de usar  4 puertos LAN de 10/100 Mbps  1 puerto WAN de 10/100 Mbps](https://www.amazon.es/dp/B001FWYGJS/?tag=redken-21) a precio de oferta de 16.5 EUR (original: 29.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41RzOBnf8eL._SL200_.jpg)](https://www.amazon.es/dp/B001FWYGJS/?tag=redken-21) 
  
