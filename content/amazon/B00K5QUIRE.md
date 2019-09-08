@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00K5QUIRE: Rebaja en Wrangler Regular Fit Straight Leg Vaquer en Amazon 
- date: 2019/09/07 07:56:51 +0000 
+ date: 2019/09/08 08:27:09 +0000 
  comments: true 
  tags: B00K5QUIRE 
  category: ofertas 
