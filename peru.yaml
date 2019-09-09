@@ -18,7 +18,6 @@ imports:
     revealmd: plugins/revealmd/
 
 
-
 git module elegant:
     url: https://github.com/Pelican-Elegant/elegant.git
 

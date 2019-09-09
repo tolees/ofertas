@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079BWLFL2: Ofertón en Amazon para JACK & JONES Jjecorp Logo tee SS Crew Ne 
- date: 2019/09/04 01:02:08 +0000 
+ date: 2019/09/09 14:17:44 +0000 
  comments: true 
  tags: B079BWLFL2 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [JACK & JONES Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blazer Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079BWLFL2/?tag=redken-21) a precio de oferta de 9.99 EUR (original: 9.99 EUR) en el siguiente enlace! 
+ Tienes [JACK & JONES Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blazer Detail: Slim Fit   Medium para Hombre](https://www.amazon.es/dp/B079BWLFL2/?tag=redken-21) a precio de oferta de 5.95 EUR (original: 9.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41F%2BkzKQnqL._SL200_.jpg)](https://www.amazon.es/dp/B079BWLFL2/?tag=redken-21) 
  

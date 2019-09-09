@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FCHKL6G: Ofertón en Amazon para Cable USB C  iVANKY Cable USB Tipo C [1  
- date: 2019/09/04 07:31:59 +0000 
+ date: 2019/09/08 23:02:39 +0000 
  comments: true 
  tags: B07FCHKL6G 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GNV5CDH: Ofertón en Amazon para Samsung Galaxy Tab A - Tablet de 10.5"   
- date: 2019/09/04 14:46:32 +0000 
+ date: 2019/09/08 13:35:42 +0000 
  comments: true 
  tags: B07GNV5CDH 
  category: ofertas 

@@ -24,17 +24,18 @@ PROJECTS = [{'name': '🇮🇹 Italia dsconti', 'url': 'https://t.me/dsconti'},
  {'name': '🇫🇷 France Soldes', 'url': 'https://t.me/soldesamazon'},
  {'name': '🇩🇪 Germany Skonto',
   'url': 'https://t.me/joinchat/AAAAAEtK4QuTr453Wcwbow'},
- {'name': '👶 Bebé', 'url': 'https://t.me/estodobebe'},
+ {'name': '👶Bebé', 'url': 'https://t.me/estodobebe'},
  {'name': '👚Moda', 'url': 'https://t.me/estodomoda'},
+ {'name': '📏Material Escolar', 'url': 'https://t.me/vueltaalcole'},
  {'name': '💻Tecnología', 'url': 'https://t.me/todotech'},
  {'name': '🍏Apple', 'url': 'https://t.me/estodoapple '},
  {'name': '🏠Domótica', 'url': 'https://t.me/estododomotica'},
  {'name': '🧱Lego', 'url': 'https://t.me/brickchollo'},
- {'name': '🎎 Playmobil',
+ {'name': '🎎Playmobil',
   'url': 'https://t.me/joinchat/AAAAAE3WwL-YCJ5wuLLNhA'},
  {'name': '🧸Juguetes', 'url': 'https://t.me/estodojuguetes'},
- {'name': '🤯 Funko', 'url': 'https://t.me/joinchat/AAAAAFA1UfRMI0CV8ZsZuw'},
- {'name': '🤑 Errores de precio', 'url': 'https://t.me/errores_de_precio'},
+ {'name': '🤯Funko', 'url': 'https://t.me/joinchat/AAAAAFA1UfRMI0CV8ZsZuw'},
+ {'name': '🤑Errores de precio', 'url': 'https://t.me/errores_de_precio'},
  {'name': '📊Mínimos históricos', 'url': 'https://t.me/minimos_historicos'},
  {'name': '🛍Ofertas con 25% o más de descuento',
   'url': 'https://t.me/amazonofertas25'},
@@ -116,17 +117,17 @@ RSS_FEED_SUMMARY_ONLY = False
 
 # Feed generation is usually not desired when developing
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_ALL_RSS = 'feeds/all.rss'
+FEED_ALL_ATOM = ''
+FEED_ALL_RSS = ''
 
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
-CATEGORY_FEED_RSS = 'feeds/{slug}.rss'
-TRANSLATION_FEED_ATOM = 'feeds/{lang}.atom.xml'
-TRANSLATION_FEED_RSS = 'feeds/{lang}.rss'
-AUTHOR_FEED_ATOM = 'feeds/{slug}.atom.xml'
-AUTHOR_FEED_RSS = 'feeds/{slug}.rss'
-TAG_FEED_ATOM = 'feeds/tag_{slug}.atom.xml'
-TAG_FEED_RSS = 'feeds/tag_{slug}.rss'
+CATEGORY_FEED_ATOM = ''
+CATEGORY_FEED_RSS = ''
+TRANSLATION_FEED_ATOM = ''
+TRANSLATION_FEED_RSS = ''
+AUTHOR_FEED_ATOM = ''
+AUTHOR_FEED_RSS = ''
+TAG_FEED_ATOM = ''
+TAG_FEED_RSS = ''
 
 DISPLAY_PAGES_ON_MENU = True
 

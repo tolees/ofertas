@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HK4JNV1: Ofertón en Amazon para Xiaomi Redmi Note 6 Pro Smartphone de 6. 
- date: 2019/09/04 14:06:56 +0000 
+ date: 2019/09/08 14:52:49 +0000 
  comments: true 
  tags: B07HK4JNV1 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.es/dp/B07HK4JNV1/?tag=redken-21) a precio de oferta de 179 EUR (original: 249 EUR) en el siguiente enlace! 
+ Tienes [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.es/dp/B07HK4JNV1/?tag=redken-21) a precio de oferta de 182 EUR (original: 249 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL._SL200_.jpg)](https://www.amazon.es/dp/B07HK4JNV1/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RKNPQX4: Ofertón en Amazon para DJI Osmo Action Cam - Cámara digital con 
- date: 2019/09/05 14:49:40 +0000 
+ date: 2019/09/09 15:21:08 +0000 
  comments: true 
  tags: B07RKNPQX4 
  category: ofertas 

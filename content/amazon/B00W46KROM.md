@@ -1,7 +1,11 @@
 --- 
  layout: post 
  title: B00W46KROM: Ofertón en Amazon para Sony Cyber-Shot DSC-WX500 - Cámara compa 
+<<<<<<< HEAD
  date: 2019/09/05 17:45:40 +0000 
+=======
+ date: 2019/09/08 17:39:25 +0000 
+>>>>>>> 942b19cd69269e143ebd0b64d94343ac2a00897b
  comments: true 
  tags: B00W46KROM 
  category: ofertas 

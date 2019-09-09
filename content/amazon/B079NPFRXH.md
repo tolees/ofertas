@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079NPFRXH: Ofertón en Amazon para Acer SF514-52T Swift 5 - Ordenador portá 
- date: 2019/09/04 05:54:41 +0000 
+ date: 2019/09/09 10:17:30 +0000 
  comments: true 
  tags: B079NPFRXH 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003WOKJF2: Ofertón en Amazon para Remington Pearl S9500 - Plancha de Pelo  
- date: 2019/09/05 14:12:26 +0000 
+ date: 2019/09/09 17:31:40 +0000 
  comments: true 
  tags: B003WOKJF2 
  category: ofertas 

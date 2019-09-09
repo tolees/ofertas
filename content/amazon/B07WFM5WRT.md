@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WFM5WRT: Ofertón en Amazon para Taladro con Percusión  TECCPO Atornillad 
- date: 2019/09/05 16:44:25 +0000 
+ date: 2019/09/09 14:04:27 +0000 
  comments: true 
  tags: B07WFM5WRT 
  category: ofertas 

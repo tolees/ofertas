@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RC6CSBT: Ofertón en Amazon para Hisense H50BE7000 - Smart TV 50  4K Ultr 
- date: 2019/09/05 18:35:27 +0000 
+ date: 2019/09/09 18:47:17 +0000 
  comments: true 
  tags: B07RC6CSBT 
  category: ofertas 

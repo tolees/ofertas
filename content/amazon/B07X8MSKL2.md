@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07X8MSKL2: Ofertón en Amazon para amiubo Ropa Manta Bolsa Almacenamiento O 
- date: 2019/09/04 19:22:23 +0000 
+ date: 2019/09/08 21:19:21 +0000 
  comments: true 
  tags: B07X8MSKL2 
  category: ofertas 

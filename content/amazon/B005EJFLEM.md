@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B005EJFLEM: Ofertón en Amazon para Duracell - Plus AAA  Pilas Alcalinas  pa 
- date: 2019/09/04 22:29:46 +0000 
+ date: 2019/09/07 21:27:10 +0000 
  comments: true 
  tags: B005EJFLEM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Duracell - Plus AAA  Pilas Alcalinas  paquete de 12  1 5 Voltios LR03 MN2400  el embalaje puede variar ](https://www.amazon.es/dp/B005EJFLEM/?tag=redken-21) a precio de oferta de 9.39 EUR (original: 14.2 EUR) en el siguiente enlace! 
+ Tienes [Duracell - Plus AAA  Pilas Alcalinas  paquete de 12  1 5 Voltios LR03 MN2400  el embalaje puede variar ](https://www.amazon.es/dp/B005EJFLEM/?tag=redken-21) a precio de oferta de 9.82 EUR (original: 14.2 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51TYKFYiNiL._SL200_.jpg)](https://www.amazon.es/dp/B005EJFLEM/?tag=redken-21) 
  
