@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SWJ3CF: Ofertón en Amazon para SanDisk Extreme - Portable SSD  500 GB   
- date: 2019/09/09 13:38:46 +0000 
+ date: 2019/09/11 12:16:20 +0000 
  comments: true 
  tags: B078SWJ3CF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [SanDisk Extreme - Portable SSD  500 GB  hasta 550 MB/s de Velocidad de Lectura  Color Negro](https://www.amazon.es/dp/B078SWJ3CF/?tag=redken-21) a precio de oferta de 107.82 EUR (original: 151.99 EUR) en el siguiente enlace! 
+ Tienes [SanDisk Extreme - Portable SSD  500 GB  hasta 550 MB/s de Velocidad de Lectura  Color Negro](https://www.amazon.es/dp/B078SWJ3CF/?tag=redken-21) a precio de oferta de 99.99 EUR (original: 151.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/511CKblEcAL._SL200_.jpg)](https://www.amazon.es/dp/B078SWJ3CF/?tag=redken-21) 
  

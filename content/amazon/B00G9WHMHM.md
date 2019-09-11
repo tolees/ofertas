@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00G9WHMHM: Ofertón en Amazon para Kingston DTIG4/128GB Memoria Usb  128 Gb 
- date: 2019/09/09 18:08:53 +0000 
+ date: 2019/09/11 07:04:15 +0000 
  comments: true 
  tags: B00G9WHMHM 
  category: ofertas 

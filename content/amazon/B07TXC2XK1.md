@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TXC2XK1: Rebaja en Teclast F7 Plus Ordenador Portatil 14.0  en Amazon 
- date: 2019/09/09 13:14:54 +0000 
+ date: 2019/09/11 07:19:44 +0000 
  comments: true 
  tags: B07TXC2XK1 
  category: ofertas 

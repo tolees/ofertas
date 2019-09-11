@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0749PYVHC: Ofertón en Amazon para Bosch TAS6003 Tassimo My Way - Cafetera  
- date: 2019/09/09 18:53:29 +0000 
+ date: 2019/09/11 07:06:52 +0000 
  comments: true 
  tags: B0749PYVHC 
  category: ofertas 
