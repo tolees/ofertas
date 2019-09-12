@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XWXDMC2: Ahorra en Samsung Galaxy S8 Plus - Smartphone libr 
- date: 2019/09/08 08:15:55 +0000 
+ date: 2019/09/12 16:56:39 +0000 
  comments: true 
  tags: B06XWXDMC2 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Samsung Galaxy S8 Plus - Smartphone libre de 6.2" QHD+  4 G  Bluetooth  Octa-Core S  64 GB memoria interna  4 GB RAM  camara de 12 MP  Android   Gris orquídea  - [Versión española]](https://www.amazon.es/dp/B06XWXDMC2/?tag=redken-21) a 998.54 EUR (original: 909 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Samsung Galaxy S8 Plus - Smartphone libre de 6.2" QHD+  4 G  Bluetooth  Octa-Core S  64 GB memoria interna  4 GB RAM  camara de 12 MP  Android   Gris orquídea  - [Versión española]](https://www.amazon.es/dp/B06XWXDMC2/?tag=redken-21) a 988.58 EUR (original: 909 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31Jqs%2BrLHsL._SL200_.jpg)](https://www.amazon.es/dp/B06XWXDMC2/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00SL5I0XA: Ofertón en Amazon para Tecatel K80C1LS - Kit parabólica 80 cm   
- date: 2019/09/09 13:59:14 +0000 
+ date: 2019/09/12 18:18:36 +0000 
  comments: true 
  tags: B00SL5I0XA 
  category: ofertas 
