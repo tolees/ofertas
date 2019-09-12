@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07Q1YLRBS: Ahorra en Huawei P30 - Smartphone de 6.1"  Kirin 9 
- date: 2019/09/08 14:51:34 +0000 
+ title: B07Q1YLRBS: Rebaja en Huawei P30 - Smartphone de 6.1"  Kirin 9 en Amazon 
+ date: 2019/09/11 23:50:06 +0000 
  comments: true 
  tags: B07Q1YLRBS 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [Huawei P30 - Smartphone de 6.1"  Kirin 980 Octa-Core de 2.6GHz  RAM de 6 GB  Memoria interna de 128 GB  cámara de 40 MP  Android  Color Negro [Versión española]](https://www.amazon.es/dp/B07Q1YLRBS/?tag=redken-21) a 449.99 EUR (original: 749 EUR) en el siguiente enlace! 
+ Está [Huawei P30 - Smartphone de 6.1"  Kirin 980 Octa-Core de 2.6GHz  RAM de 6 GB  Memoria interna de 128 GB  cámara de 40 MP  Android  Color Negro [Versión española]](https://www.amazon.es/dp/B07Q1YLRBS/?tag=redken-21) por 524.98 EUR (original: 749 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31Ho8t2HdkL._SL200_.jpg)](https://www.amazon.es/dp/B07Q1YLRBS/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07Q1YLRBS/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07Q1YLRBS/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

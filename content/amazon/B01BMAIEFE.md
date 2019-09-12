@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BMAIEFE: Ofertón en Amazon para Sony Alpha A6300 - Cámara compacta con M 
- date: 2019/09/09 15:16:51 +0000 
+ date: 2019/09/12 09:02:46 +0000 
  comments: true 
  tags: B01BMAIEFE 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Sony Alpha A6300 - Cámara compacta con Montura Tipo E  Sensor APS-C CMOS Exmor R  procesador BIONZ X de 24 2 MP  425 Puntos AF y grabación 4K   Color Negro](https://www.amazon.es/dp/B01BMAIEFE/?tag=redken-21) a precio de oferta de 1204.9 EUR (original:  EUR) en el siguiente enlace! 
+ Tienes [Sony Alpha A6300 - Cámara compacta con Montura Tipo E  Sensor APS-C CMOS Exmor R  procesador BIONZ X de 24 2 MP  425 Puntos AF y grabación 4K   Color Negro](https://www.amazon.es/dp/B01BMAIEFE/?tag=redken-21) a precio de oferta de 1114.19 EUR (original:  EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/410GBoyVwVL._SL200_.jpg)](https://www.amazon.es/dp/B01BMAIEFE/?tag=redken-21) 
  

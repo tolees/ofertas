@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RB16JKR: Ofertón en Amazon para FITFORT Pulsera de Actividad Reloj Intel 
- date: 2019/09/11 06:44:40 +0000 
+ date: 2019/09/12 09:02:26 +0000 
  comments: true 
  tags: B07RB16JKR 
  category: ofertas 

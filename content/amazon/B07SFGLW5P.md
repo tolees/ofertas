@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07SFGLW5P: Ofertón en Amazon para Sidiwen Android 8.1 TV Box F1 1GB RAM 8G 
+ date: 2019/09/11 18:34:31 +0000 
+ comments: true 
+ tags: B07SFGLW5P 
+ category: ofertas 
+ author: ring 
+ slug: B07SFGLW5P 
+ description: 
+ --- 
+ 
+ Tienes [Sidiwen Android 8.1 TV Box F1 1GB RAM 8GB ROM Amlogic S905W Quad-Core Cortex-A53 CPU 2.4G WiFi Ethernet Compatible 3D 4K H.265 Smart Media Player](https://www.amazon.es/dp/B07SFGLW5P/?tag=redken-21) a precio de oferta de 23.99 EUR (original: 23.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/419BOid262L._SL200_.jpg)](https://www.amazon.es/dp/B07SFGLW5P/?tag=redken-21) 
+ 
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07SFGLW5P/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

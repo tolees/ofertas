@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CK7WVNJ: Ofertón en Amazon para The Banner Saga Trilogy 
- date: 2019/09/09 09:16:27 +0000 
+ date: 2019/09/12 06:52:08 +0000 
  comments: true 
  tags: B07CK7WVNJ 
  category: ofertas 

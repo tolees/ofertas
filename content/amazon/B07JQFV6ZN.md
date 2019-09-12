@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JQFV6ZN: Ofertón en Amazon para SODIAL Cable USB Tipo C  Cable De Sincro 
- date: 2019/09/09 16:17:39 +0000 
+ date: 2019/09/12 06:20:46 +0000 
  comments: true 
  tags: B07JQFV6ZN 
  category: ofertas 
