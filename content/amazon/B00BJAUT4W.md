@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00BJAUT4W: Ofertón en Amazon para Philips SNOW Super Speed 32 GB USB Flash 
- date: 2019/09/12 09:05:55 +0000 
+ date: 2019/09/13 22:50:48 +0000 
  comments: true 
  tags: B00BJAUT4W 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079N1WFRR: Ofertón en Amazon para Altavoz Bluetooth Estéreo Premium Donble 
- date: 2019/09/12 18:54:36 +0000 
+ date: 2019/09/14 08:30:55 +0000 
  comments: true 
  tags: B079N1WFRR 
  category: ofertas 

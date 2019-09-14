@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B06XRVKC27: Rebaja en Neewer 50cm Mini Trípode Macro Escritori en Amazon 
- date: 2019/09/12 06:27:45 +0000 
+ title: B06XRVKC27: Ahorra en Neewer 50cm Mini Trípode Macro Escritori 
+ date: 2019/09/14 08:58:19 +0000 
  comments: true 
  tags: B06XRVKC27 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Neewer 50cm Mini Trípode Macro Escritorio Compacto Portátil con Cabeza de Bola 360 Grados 1/4" Placa de Zapata Rápida Bolso para Cámara DSLR Cámara Vídeo hasta 5kg Rojo ](https://www.amazon.es/dp/B06XRVKC27/?tag=redken-21) por 37.79 EUR (original: 37.79 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Neewer 50cm Mini Trípode Macro Escritorio Compacto Portátil con Cabeza de Bola 360 Grados 1/4" Placa de Zapata Rápida Bolso para Cámara DSLR Cámara Vídeo hasta 5kg Rojo ](https://www.amazon.es/dp/B06XRVKC27/?tag=redken-21) a 37.79 EUR (original: 37.79 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BJq4lVwQL._SL200_.jpg)](https://www.amazon.es/dp/B06XRVKC27/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B06XRVKC27/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B06XRVKC27/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
