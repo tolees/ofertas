@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07QRGQY3Y: Rebaja en Looffy Memoria USB 128GB para iPhone Mem en Amazon 
+ date: 2019/09/14 15:13:56 +0000 
+ comments: true 
+ tags: B07QRGQY3Y 
+ category: ofertas 
+ author: ring 
+ slug: B07QRGQY3Y 
+ description: 
+ --- 
+ 
+ Está [Looffy Memoria USB 128GB para iPhone Memoria iOS Flash Drive USB 3.0 con Tipo C para iPhone iPad Android Móvil Tableta PC Macbook 4 in 1](https://www.amazon.es/dp/B07QRGQY3Y/?tag=redken-21) por 49.99 EUR (original: 79.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41viX6QsiVL._SL200_.jpg)](https://www.amazon.es/dp/B07QRGQY3Y/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B07QRGQY3Y/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
