@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VQJ72YB: Rebaja en Tableta Android 7.0 10 Pulgadas con 4GB  en Amazon 
- date: 2019/09/14 08:35:59 +0000 
+ date: 2019/09/15 09:46:46 +0000 
  comments: true 
  tags: B07VQJ72YB 
  category: ofertas 

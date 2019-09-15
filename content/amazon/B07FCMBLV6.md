@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FCMBLV6: Rebaja en SanDisk Extreme - Tarjeta de memoria mic en Amazon 
- date: 2019/09/11 19:59:58 +0000 
+ date: 2019/09/14 19:25:28 +0000 
  comments: true 
  tags: B07FCMBLV6 
  category: ofertas 

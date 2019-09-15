@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NDRMCLL: Ahorra en Samsung Galaxy Watch Active - Smartwatch 
- date: 2019/09/12 14:52:58 +0000 
+ date: 2019/09/15 08:47:09 +0000 
  comments: true 
  tags: B07NDRMCLL 
  category: ofertas 
