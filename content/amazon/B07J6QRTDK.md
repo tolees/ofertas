@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J6QRTDK: Ahorra en Crosstour Cámara Deportiva 4K 16MP WiFi  
- date: 2019/09/12 07:19:25 +0000 
+ date: 2019/09/15 11:17:47 +0000 
  comments: true 
  tags: B07J6QRTDK 
  category: ofertas 

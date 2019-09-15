@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Q2VFQPN: Ahorra en Reloj Inteligente  HOLALEI Smartwatch Pu 
- date: 2019/09/12 18:37:13 +0000 
+ date: 2019/09/15 13:11:01 +0000 
  comments: true 
  tags: B07Q2VFQPN 
  category: ofertas 
