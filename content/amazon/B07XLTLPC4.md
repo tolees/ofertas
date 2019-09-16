@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XLTLPC4: Ofertón en Amazon para Assassin s Creed: The Rebel Collection 
- date: 2019/09/14 19:27:21 +0000 
+ date: 2019/09/16 07:45:13 +0000 
  comments: true 
  tags: B07XLTLPC4 
  category: ofertas 

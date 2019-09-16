@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JQ62CSZ: Rebaja en Jintes Nueva Consola portátil de Juegos  en Amazon 
- date: 2019/09/13 19:58:16 +0000 
+ date: 2019/09/15 16:12:30 +0000 
  comments: true 
  tags: B07JQ62CSZ 
  category: ofertas 
