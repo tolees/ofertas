@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JCWYLFJ: Ofertón en Amazon para Báscula Digital de Cocina Houzetek Balan 
- date: 2019/09/15 08:56:56 +0000 
+ date: 2019/09/16 14:57:49 +0000 
  comments: true 
  tags: B07JCWYLFJ 
  category: ofertas 
