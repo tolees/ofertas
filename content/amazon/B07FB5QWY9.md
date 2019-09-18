@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FB5QWY9: Rebaja en Lenovo L24e Monitor de  23 8"  Pantalla  en Amazon 
- date: 2019/09/16 09:31:21 +0000 
+ date: 2019/09/18 08:52:34 +0000 
  comments: true 
  tags: B07FB5QWY9 
  category: ofertas 

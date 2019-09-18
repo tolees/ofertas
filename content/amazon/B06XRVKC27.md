@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XRVKC27: Ahorra en Neewer 50cm Mini Trípode Macro Escritori 
- date: 2019/09/14 08:58:19 +0000 
+ date: 2019/09/17 19:46:57 +0000 
  comments: true 
  tags: B06XRVKC27 
  category: ofertas 

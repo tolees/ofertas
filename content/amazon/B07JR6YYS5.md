@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JR6YYS5: Ofertón en Amazon para HP Elite 8300 - Ordenador de sobremesa   
- date: 2019/09/14 21:32:04 +0000 
+ date: 2019/09/18 01:35:07 +0000 
  comments: true 
  tags: B07JR6YYS5 
  category: ofertas 

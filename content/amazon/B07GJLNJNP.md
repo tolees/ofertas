@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GJLNJNP: Rebaja en The Banner Saga Trilogy en Amazon 
- date: 2019/09/15 08:42:42 +0000 
+ date: 2019/09/17 20:07:27 +0000 
  comments: true 
  tags: B07GJLNJNP 
  category: ofertas 

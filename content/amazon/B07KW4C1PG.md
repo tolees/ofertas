@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KW4C1PG: Ahorra en INTEY 3 N1 Detector de Pared  Metal Stud 
- date: 2019/09/15 16:33:59 +0000 
+ date: 2019/09/18 07:52:22 +0000 
  comments: true 
  tags: B07KW4C1PG 
  category: ofertas 
