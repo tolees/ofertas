@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07X3DHWX3: Ahorra en Televisor Led 32 Pulgadas HD  TD Systems 
- date: 2019/09/17 22:07:19 +0000 
+ date: 2019/09/19 06:38:51 +0000 
  comments: true 
  tags: B07X3DHWX3 
  category: ofertas 

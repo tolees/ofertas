@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00BQTIWBS: Ahorra en Mini Ralink RT5370 USB Wifi Adaptador WL 
- date: 2019/09/17 19:27:09 +0000 
+ date: 2019/09/18 21:32:01 +0000 
  comments: true 
  tags: B00BQTIWBS 
  category: ofertas 

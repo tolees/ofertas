@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015CH1NAQ: Rebaja en SanDisk Ultra Flair - Memoria Flash USB  en Amazon 
- date: 2019/09/18 09:01:07 +0000 
+ date: 2019/09/19 09:39:06 +0000 
  comments: true 
  tags: B015CH1NAQ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [SanDisk Ultra Flair - Memoria Flash USB 3.0 de 64 GB](https://www.amazon.es/dp/B015CH1NAQ/?tag=redken-21) por 9.75 EUR (original: 15.99 EUR) en el siguiente enlace! 
+ Está [SanDisk Ultra Flair - Memoria Flash USB 3.0 de 64 GB](https://www.amazon.es/dp/B015CH1NAQ/?tag=redken-21) por 9.63 EUR (original: 15.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41xl5f6jfTL._SL200_.jpg)](https://www.amazon.es/dp/B015CH1NAQ/?tag=redken-21) 
  
