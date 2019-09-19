@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RDZ7R2R: Ofertón en Amazon para ASUS VivoBook 15 S512UA-BR252T - Ordenad 
- date: 2019/09/18 08:57:30 +0000 
+ date: 2019/09/19 12:49:07 +0000 
  comments: true 
  tags: B07RDZ7R2R 
  category: ofertas 

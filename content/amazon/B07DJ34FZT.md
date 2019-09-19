@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJ34FZT: Ofertón en Amazon para New Balance 411  Zapatillas de Running p 
- date: 2019/09/18 09:26:09 +0000 
+ date: 2019/09/19 10:37:56 +0000 
  comments: true 
  tags: B07DJ34FZT 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [New Balance 411  Zapatillas de Running para Mujer  Negro Black/Silver  36.5 EU](https://www.amazon.es/dp/B07DJ34FZT/?tag=redken-21) a precio de oferta de 17.6 EUR (original: 17.6 EUR) en el siguiente enlace! 
+ Tienes [New Balance 411  Zapatillas de Running para Mujer  Negro Black/Silver  36.5 EU](https://www.amazon.es/dp/B07DJ34FZT/?tag=redken-21) a precio de oferta de 16.63 EUR (original: 16.7 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41QEsZr%2BuOL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ34FZT/?tag=redken-21) 
  
