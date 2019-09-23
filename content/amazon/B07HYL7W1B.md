@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HYL7W1B: Ofertón en Amazon para MEDION E4251 - Ordenador portátil de 14" 
- date: 2019/09/19 07:18:46 +0000 
+ date: 2019/09/22 21:00:59 +0000 
  comments: true 
  tags: B07HYL7W1B 
  category: ofertas 

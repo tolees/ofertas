@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VHRHW8H: Rebaja en Xiaomi Mi A3 - Android One  AMOLED de 6  en Amazon 
- date: 2019/09/18 19:23:25 +0000 
+ date: 2019/09/22 22:15:33 +0000 
  comments: true 
  tags: B07VHRHW8H 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Xiaomi Mi A3 - Android One  AMOLED de 6 088"  Cámara Frontal de 32 MP  Trasera de 48 + 8 + 2 MP，4030 mAh  Jack de 3 5 mm  Qualcomm Snapdragon 665 2 0 GHz  4 + 64 GB  Color Azulón [Versión española]](https://www.amazon.es/dp/B07VHRHW8H/?tag=redken-21) por 198.5 EUR (original: 198.5 EUR) en el siguiente enlace! 
+ Está [Xiaomi Mi A3 - Android One  AMOLED de 6 088"  Cámara Frontal de 32 MP  Trasera de 48 + 8 + 2 MP，4030 mAh  Jack de 3 5 mm  Qualcomm Snapdragon 665 2 0 GHz  4 + 64 GB  Color Azulón [Versión española]](https://www.amazon.es/dp/B07VHRHW8H/?tag=redken-21) por 196.89 EUR (original: 196.89 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51Xm9ay971L._SL200_.jpg)](https://www.amazon.es/dp/B07VHRHW8H/?tag=redken-21) 
  
