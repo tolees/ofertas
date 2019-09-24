@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NGTQVYP: Ofertón en Amazon para MEDION MD61339 - Ordenador portátil de 1 
- date: 2019/09/23 14:43:34 +0000 
+ date: 2019/09/24 17:20:20 +0000 
  comments: true 
  tags: B07NGTQVYP 
  category: ofertas 

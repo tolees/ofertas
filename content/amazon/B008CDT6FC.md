@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B008CDT6FC: Ofertón en Amazon para Columbia Fast Trek II Chaqueta Polar par 
- date: 2019/09/23 13:42:48 +0000 
+ date: 2019/09/24 17:07:01 +0000 
  comments: true 
  tags: B008CDT6FC 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FKS3L8T: Ahorra en Garmin Forerunner 235 - Reloj con pulsóm 
- date: 2019/09/23 13:03:21 +0000 
+ date: 2019/09/24 17:33:06 +0000 
  comments: true 
  tags: B07FKS3L8T 
  category: ofertas 
