@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019NFPE2G: Ahorra en Logitech G502 Proteus Spectrum - Ratón p 
- date: 2019/09/24 09:22:29 +0000 
+ date: 2019/09/25 16:30:08 +0000 
  comments: true 
  tags: B019NFPE2G 
  category: ofertas 

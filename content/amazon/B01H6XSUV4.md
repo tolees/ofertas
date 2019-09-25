@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01H6XSUV4: Ofertón en Amazon para 32GB PenDrive - SODIAL R  USB memoria mi 
- date: 2019/09/24 15:21:51 +0000 
+ date: 2019/09/25 18:13:58 +0000 
  comments: true 
  tags: B01H6XSUV4 
  category: ofertas 

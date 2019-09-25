@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BZRL2W3: Rebaja en Dragon Quest XI : Ecos de un Pasado Perd en Amazon 
- date: 2019/09/23 19:22:37 +0000 
+ date: 2019/09/25 17:31:44 +0000 
  comments: true 
  tags: B07BZRL2W3 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Dragon Quest XI : Ecos de un Pasado Perdido Edition of Light](https://www.amazon.es/dp/B07BZRL2W3/?tag=redken-21) por 22.88 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Está [Dragon Quest XI : Ecos de un Pasado Perdido Edition of Light](https://www.amazon.es/dp/B07BZRL2W3/?tag=redken-21) por 25.22 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51jn0tvv6HL._SL200_.jpg)](https://www.amazon.es/dp/B07BZRL2W3/?tag=redken-21) 
  
