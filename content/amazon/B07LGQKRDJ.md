@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LGQKRDJ: Ofertón en Amazon para HP 15-da1013ns - Ordenador portátil de 1 
- date: 2019/09/24 16:22:31 +0000 
+ date: 2019/09/27 14:01:31 +0000 
  comments: true 
  tags: B07LGQKRDJ 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B0787KBMLZ: Ofertón en Amazon para Brother DCPL2530DW - Impresora multifunc 
- date: 2019/09/24 18:39:38 +0000 
+ title: B0787KBMLZ: Rebaja en Brother DCPL2530DW - Impresora multifunc en Amazon 
+ date: 2019/09/27 13:21:27 +0000 
  comments: true 
  tags: B0787KBMLZ 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Tienes [Brother DCPL2530DW - Impresora multifunción láser monocromo Wifi con impresión dúplex  30 ppm  USB 2.0  Wifi Direct  procesador de 600 MHz  memoria de 64 MB  gris  39.8 x 27.2 x 41 cm](https://www.amazon.es/dp/B0787KBMLZ/?tag=redken-21) a precio de oferta de 113.44 EUR (original: 160.99 EUR) en el siguiente enlace! 
+ Está [Brother DCPL2530DW - Impresora multifunción láser monocromo Wifi con impresión dúplex  30 ppm  USB 2.0  Wifi Direct  procesador de 600 MHz  memoria de 64 MB  gris  39.8 x 27.2 x 41 cm](https://www.amazon.es/dp/B0787KBMLZ/?tag=redken-21) por 117.52 EUR (original: 160.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41OOO1UxrBL._SL200_.jpg)](https://www.amazon.es/dp/B0787KBMLZ/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B0787KBMLZ/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B0787KBMLZ/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

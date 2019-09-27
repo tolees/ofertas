@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TFJSZT8: Ofertón en Amazon para Lenovo ideapad 330-15IKB - Ordenador Por 
- date: 2019/09/24 06:07:26 +0000 
+ date: 2019/09/27 17:03:35 +0000 
  comments: true 
  tags: B07TFJSZT8 
  category: ofertas 
