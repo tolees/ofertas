@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B003KJTZYK: Rebaja en D-Link DGS-1210-10P - Switch PoE 8 Puert en Amazon 
+ date: 2019/09/27 20:20:35 +0000 
+ comments: true 
+ tags: B003KJTZYK 
+ category: ofertas 
+ author: ring 
+ slug: B003KJTZYK 
+ description: 
+ --- 
+ 
+ Está [D-Link DGS-1210-10P - Switch PoE 8 Puertos Gigabit y 2 Puertos SFP  8 x PoE máx. 30W por Puerto hasta un Total 65W máx.   Altura 1U  VLAN automática para Video vigilancia y telefonía IP](https://www.amazon.es/dp/B003KJTZYK/?tag=redken-21) por 124.11 EUR (original: 241.9 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/414hRJLgRDL._SL200_.jpg)](https://www.amazon.es/dp/B003KJTZYK/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B003KJTZYK/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
