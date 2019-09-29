@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07J2Q4SWZ: Ofertón en Amazon para Crucial P1 CT1000P1SSD8 - Disco Duro sól 
+ date: 2019/09/29 08:29:32 +0000 
+ comments: true 
+ tags: B07J2Q4SWZ 
+ category: ofertas 
+ author: ring 
+ slug: B07J2Q4SWZ 
+ description: 
+ --- 
+ 
+ Tienes [Crucial P1 CT1000P1SSD8 - Disco Duro sólido Interno SSD de 1 TB  3D NAND  NVMe  PCIe  M.2  string](https://www.amazon.es/dp/B07J2Q4SWZ/?tag=redken-21) a precio de oferta de 120.97 EUR (original: 113.73 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41xA85LtW6L._SL200_.jpg)](https://www.amazon.es/dp/B07J2Q4SWZ/?tag=redken-21) 
+ 
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07J2Q4SWZ/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
