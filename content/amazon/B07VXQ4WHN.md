@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VXQ4WHN: Ahorra en Mosen Termómetro Digital Bebé con Modo F 
- date: 2019/09/29 10:01:23 +0000 
+ date: 2019/09/30 10:59:11 +0000 
  comments: true 
  tags: B07VXQ4WHN 
  category: ofertas 
