@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07NDBGVG1: Rebaja en LEGO Technic - Grúa sobre Orugas Compact en Amazon 
- date: 2019/09/27 22:42:18 +0000 
+ title: B07NDBGVG1: Ofertón en Amazon para LEGO 42097 Technic Compact Crawler Crane 
+ date: 2019/09/30 01:53:54 +0000 
  comments: true 
  tags: B07NDBGVG1 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [LEGO Technic - Grúa sobre Orugas Compacta  Juguete de construcción de Maquinaria  Novedad 2019  42097 ](https://www.amazon.es/dp/B07NDBGVG1/?tag=redken-21) por 82.36 EUR (original: 82.36 EUR) en el siguiente enlace! 
+ Tienes [LEGO 42097 Technic Compact Crawler Crane and Tower Crane  2 in 1 Spiderlike Model  Construction Set](https://www.amazon.es/dp/B07NDBGVG1/?tag=redken-21) a precio de oferta de 53 GBP (original: 79.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51RaQve%2B1PL._SL200_.jpg)](https://www.amazon.es/dp/B07NDBGVG1/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07NDBGVG1/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07NDBGVG1/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

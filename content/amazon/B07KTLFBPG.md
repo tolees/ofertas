@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KTLFBPG: Rebaja en LEGO 31095 - Creator 3-in-1-Set Jahrmark en Amazon 
- date: 2019/09/27 23:09:05 +0000 
+ title: B07KTLFBPG: Rebaja en LEGO 31095 Creator 3in1 Fairground Carou en Amazon 
+ date: 2019/09/30 01:50:10 +0000 
  comments: true 
  tags: B07KTLFBPG 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO 31095 - Creator 3-in-1-Set Jahrmarktkarussell](https://www.amazon.es/dp/B07KTLFBPG/?tag=redken-21) por 32.99 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Está [LEGO 31095 Creator 3in1 Fairground Carousel Set  Fair Fun Adventures  Space Themed Model](https://www.amazon.es/dp/B07KTLFBPG/?tag=redken-21) por 30 GBP (original: 44.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51qnXNOMc-L._SL200_.jpg)](https://www.amazon.es/dp/B07KTLFBPG/?tag=redken-21) 
  
