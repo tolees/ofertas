@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTK6PNY: Ofertón en Amazon para LEGO 70678 NINJAGO Castle of the Forsake 
- date: 2019/09/30 01:48:16 +0000 
+ date: 2019/10/01 02:02:22 +0000 
  comments: true 
  tags: B07KTK6PNY 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNSH9G6: Ofertón en Amazon para LEGO 70667 Ninjago Kai s Blade Cycle and 
- date: 2019/09/30 01:43:39 +0000 
+ date: 2019/10/01 01:57:27 +0000 
  comments: true 
  tags: B07FNSH9G6 
  category: ofertas 

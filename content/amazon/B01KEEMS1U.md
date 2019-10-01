@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KEEMS1U: Rebaja en ViewSonic TD2421 - Monitor 24" Full HD M en Amazon 
- date: 2019/09/29 18:11:18 +0000 
+ date: 2019/10/01 05:03:42 +0000 
  comments: true 
  tags: B01KEEMS1U 
  category: ofertas 

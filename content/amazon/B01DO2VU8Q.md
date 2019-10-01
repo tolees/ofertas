@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DO2VU8Q: Ofertón en Amazon para Huawei P9 - Smartphone de 5.2    4G  3 G 
- date: 2019/09/29 20:12:59 +0000 
+ date: 2019/10/01 01:09:38 +0000 
  comments: true 
  tags: B01DO2VU8Q 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Huawei P9 - Smartphone de 5.2    4G  3 GB de RAM  Memoria Interna de 32 GB  cámara de 12 MP  Android 6.0   Color Gris - [versión de Europa Occidental]](https://www.amazon.es/dp/B01DO2VU8Q/?tag=redken-21) a precio de oferta de 193 EUR (original: 599.9 EUR) en el siguiente enlace! 
+ Tienes [Huawei P9 - Smartphone de 5.2    4G  3 GB de RAM  Memoria Interna de 32 GB  cámara de 12 MP  Android 6.0   Color Gris - [versión de Europa Occidental]](https://www.amazon.es/dp/B01DO2VU8Q/?tag=redken-21) a precio de oferta de 189 EUR (original: 599.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41p7TjbIgML._SL200_.jpg)](https://www.amazon.es/dp/B01DO2VU8Q/?tag=redken-21) 
  
