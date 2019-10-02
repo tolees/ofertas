@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KTK9B3Z: Ahorra en LEGO 21045 - Architecture Trafalgar Squa 
- date: 2019/09/30 10:14:49 +0000 
+ title: B07KTK9B3Z: Ofertón en Amazon para LEGO 21045 - Architecture Trafalgar Squa 
+ date: 2019/10/02 01:40:32 +0000 
  comments: true 
  tags: B07KTK9B3Z 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 21045 - Architecture Trafalgar Square  Bauset](https://www.amazon.es/dp/B07KTK9B3Z/?tag=redken-21) a 51.21 EUR (original: 79.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO 21045 - Architecture Trafalgar Square  Bauset](https://www.amazon.es/dp/B07KTK9B3Z/?tag=redken-21) a precio de oferta de 51.21 EUR (original: 79.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51EjS8vm1jL._SL200_.jpg)](https://www.amazon.es/dp/B07KTK9B3Z/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07KTK9B3Z/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07KTK9B3Z/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

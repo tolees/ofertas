@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B01IDFQGJC: Rebaja en adidas Gazelle  Zapatillas de deporte Un en Amazon 
+ date: 2019/10/02 00:41:42 +0000 
+ comments: true 
+ tags: B01IDFQGJC 
+ category: ofertas 
+ author: ring 
+ slug: B01IDFQGJC 
+ description: 
+ --- 
+ 
+ Está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Vapour Pink/White/Gold Metalic   48 EU](https://www.amazon.es/dp/B01IDFQGJC/?tag=redken-21) por 41.24 EUR (original: 94.95 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41ewE05ipuL._SL200_.jpg)](https://www.amazon.es/dp/B01IDFQGJC/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B01IDFQGJC/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

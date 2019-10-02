@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MTMP4RX: Ahorra en Microsoft Xbox One X - Consola 1 TB + Me 
- date: 2019/09/30 16:16:21 +0000 
+ date: 2019/10/02 01:49:08 +0000 
  comments: true 
  tags: B07MTMP4RX 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Microsoft Xbox One X - Consola 1 TB + Metro Exodus Collection](https://www.amazon.es/dp/B07MTMP4RX/?tag=redken-21) a 449 EUR (original: 499 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Microsoft Xbox One X - Consola 1 TB + Metro Exodus Collection](https://www.amazon.es/dp/B07MTMP4RX/?tag=redken-21) a 349 EUR (original: 499 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/5100Te5bNDL._SL200_.jpg)](https://www.amazon.es/dp/B07MTMP4RX/?tag=redken-21) 
  

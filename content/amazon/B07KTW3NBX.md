@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KTW3NBX: Ofertón en Amazon para LEGO 70672 NINJAGO Cole s Dirt Bike Ninj 
- date: 2019/10/01 02:06:26 +0000 
+ title: B07KTW3NBX: Ahorra en LEGO 70672 NINJAGO Cole s Dirt Bike Ninj 
+ date: 2019/10/02 02:25:45 +0000 
  comments: true 
  tags: B07KTW3NBX 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Tienes [LEGO 70672 NINJAGO Cole s Dirt Bike Ninja Motorbike with Caterpillar Tracks and 3 Minifigures  Adventure Toy for Kids](https://www.amazon.es/dp/B07KTW3NBX/?tag=redken-21) a precio de oferta de 12 GBP (original: 17.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 70672 NINJAGO Cole s Dirt Bike Ninja Motorbike with Caterpillar Tracks and 3 Minifigures  Adventure Toy for Kids](https://www.amazon.es/dp/B07KTW3NBX/?tag=redken-21) a 12 GBP (original: 17.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/518uzjNMPeL._SL200_.jpg)](https://www.amazon.es/dp/B07KTW3NBX/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B07KTW3NBX/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B07KTW3NBX/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

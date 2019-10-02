@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B019DVCW3E: Rebaja en Logitech G502 Proteus Spectrum - Ratón p en Amazon 
- date: 2019/09/29 22:16:51 +0000 
+ date: 2019/10/02 00:04:39 +0000 
  comments: true 
  tags: B019DVCW3E 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Logitech G502 Proteus Spectrum - Ratón para gaming con RGB ajustable y 11 botones programables  Negro](https://www.amazon.es/dp/B019DVCW3E/?tag=redken-21) por 44.99 EUR (original: 92.99 EUR) en el siguiente enlace! 
+ Está [Logitech G502 Proteus Spectrum - Ratón para gaming con RGB ajustable y 11 botones programables  Negro](https://www.amazon.es/dp/B019DVCW3E/?tag=redken-21) por 60 EUR (original: 92.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41s6XZCkWVL._SL200_.jpg)](https://www.amazon.es/dp/B019DVCW3E/?tag=redken-21) 
  

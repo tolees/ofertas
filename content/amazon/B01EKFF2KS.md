@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EKFF2KS: Ofertón en Amazon para Playmobil Pirámide del Faraón 5386 
- date: 2019/10/01 01:35:11 +0000 
+ date: 2019/10/02 02:06:12 +0000 
  comments: true 
  tags: B01EKFF2KS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil Pirámide del Faraón 5386](https://www.amazon.es/dp/B01EKFF2KS/?tag=redken-21) a precio de oferta de 56.6 EUR (original: 74.31 EUR) en el siguiente enlace! 
+ Tienes [Playmobil Pirámide del Faraón 5386](https://www.amazon.es/dp/B01EKFF2KS/?tag=redken-21) a precio de oferta de 63.7 EUR (original: 74.31 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/516TffMehWL._SL200_.jpg)](https://www.amazon.es/dp/B01EKFF2KS/?tag=redken-21) 
  

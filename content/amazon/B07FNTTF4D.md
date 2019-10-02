@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNTTF4D: Ofertón en Amazon para LEGO 60221 City Great Vehicles Diving Ya 
- date: 2019/10/01 01:58:58 +0000 
+ title: B07FNTTF4D: Rebaja en LEGO 60221 City Great Vehicles Diving Ya en Amazon 
+ date: 2019/10/02 02:18:42 +0000 
  comments: true 
  tags: B07FNTTF4D 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Tienes [LEGO 60221 City Great Vehicles Diving Yacht Boat Toy with Diver Minifigures  Sea Creatures and Swordfish Figure  Deep Sea Set for Kids 5+ Years Old](https://www.amazon.es/dp/B07FNTTF4D/?tag=redken-21) a precio de oferta de 12 GBP (original: 17.99 GBP) en el siguiente enlace! 
+ Está [LEGO 60221 City Great Vehicles Diving Yacht Boat Toy with Diver Minifigures  Sea Creatures and Swordfish Figure  Deep Sea Set for Kids 5+ Years Old](https://www.amazon.es/dp/B07FNTTF4D/?tag=redken-21) por 12 GBP (original: 17.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51aigIabc0L._SL200_.jpg)](https://www.amazon.es/dp/B07FNTTF4D/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B07FNTTF4D/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07FNTTF4D/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07LB9CKV6: Rebaja en Lenovo Yoga 530-14ARR - Portátil táctil  en Amazon 
+ date: 2019/10/01 23:58:15 +0000 
+ comments: true 
+ tags: B07LB9CKV6 
+ category: ofertas 
+ author: ring 
+ slug: B07LB9CKV6 
+ description: 
+ --- 
+ 
+ Está [Lenovo Yoga 530-14ARR - Portátil táctil Convertible de 14" HD  AMD Ryzen3 2200U  4GB de RAM  128GB de SSD  Windows 10  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07LB9CKV6/?tag=redken-21) por 460.76 EUR (original: 599.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/31acB1ydXjL._SL200_.jpg)](https://www.amazon.es/dp/B07LB9CKV6/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B07LB9CKV6/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
