@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GKVQHSP: Ahorra en Xiaomi Mi 8 - Smartphone de 6.21"  Octa- 
- date: 2019/10/02 02:08:49 +0000 
+ date: 2019/10/03 08:42:23 +0000 
  comments: true 
  tags: B07GKVQHSP 
  category: ofertas 

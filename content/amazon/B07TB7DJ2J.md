@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07TB7DJ2J: Rebaja en Xiaomi Redmi 7A Smartphone 2GB RAM 32GB  en Amazon 
+ date: 2019/10/03 06:04:20 +0000 
+ comments: true 
+ tags: B07TB7DJ2J 
+ category: ofertas 
+ author: ring 
+ slug: B07TB7DJ2J 
+ description: 
+ --- 
+ 
+ Está [Xiaomi Redmi 7A Smartphone 2GB RAM 32GB ROM Dual SIM 5.45    Pantalla Completa HD  Qualcomm Snapdragon SDM439 Octa-Core Procesador Fuente Grande Cámara Trasera de 13MP Cámara Frontal de 5MP  Negro ](https://www.amazon.es/dp/B07TB7DJ2J/?tag=redken-21) por 85.79 EUR (original: 85.79 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41qW7XnwFBL._SL200_.jpg)](https://www.amazon.es/dp/B07TB7DJ2J/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B07TB7DJ2J/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00F5XAMHS: Ofertón en Amazon para Bosch TDA703021A  - Plancha de vapor  30 
- date: 2019/10/01 10:52:14 +0000 
+ date: 2019/10/03 03:16:04 +0000 
  comments: true 
  tags: B00F5XAMHS 
  category: ofertas 

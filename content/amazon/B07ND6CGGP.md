@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07ND6CGGP: Rebaja en LEGO 70418 Hidden Side J.B. s Ghost Lab  en Amazon 
- date: 2019/10/02 05:37:12 +0000 
+ date: 2019/10/03 05:42:41 +0000 
  comments: true 
  tags: B07ND6CGGP 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO 70418 Hidden Side J.B. s Ghost Lab Set  AR Games App  Interactive Augmented Reality Playset for iPhone/Android](https://www.amazon.es/dp/B07ND6CGGP/?tag=redken-21) por 10.8 GBP (original: 17.99 GBP) en el siguiente enlace! 
+ Está [LEGO 70418 Hidden Side J.B. s Ghost Lab Set  AR Games App  Interactive Augmented Reality Playset for iPhone/Android](https://www.amazon.es/dp/B07ND6CGGP/?tag=redken-21) por 10 GBP (original: 17.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51BkWaWgYiL._SL200_.jpg)](https://www.amazon.es/dp/B07ND6CGGP/?tag=redken-21) 
  

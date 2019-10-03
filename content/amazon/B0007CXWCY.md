@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0007CXWCY: Ofertón en Amazon para American Crew Spray Para Acabado  Fijaci 
- date: 2019/10/02 00:47:28 +0000 
+ date: 2019/10/03 03:46:16 +0000 
  comments: true 
  tags: B0007CXWCY 
  category: ofertas 

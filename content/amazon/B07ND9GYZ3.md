@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07ND9GYZ3: Ahorra en LEGO 70420 Hidden Side Geheimnisvoller F 
- date: 2019/10/02 01:41:46 +0000 
+ title: B07ND9GYZ3: Ahorra en LEGO 70420 Hidden Side Graveyard Mystery 
+ date: 2019/10/03 05:43:36 +0000 
  comments: true 
  tags: B07ND9GYZ3 
  category: ofertas 
@@ -10,9 +10,9 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 70420 Hidden Side Geheimnisvoller Friedhof Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.es/dp/B07ND9GYZ3/?tag=redken-21) a 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 70420 Hidden Side Graveyard Mystery Building Set  AR Games App  Interactive Augmented Reality Ghost Playset for iPhone/Android](https://www.amazon.es/dp/B07ND9GYZ3/?tag=redken-21) a 18.75 GBP (original: 24.99 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51Df4K8C69L._SL200_.jpg)](https://www.amazon.es/dp/B07ND9GYZ3/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51Px980DuiL._SL200_.jpg)](https://www.amazon.es/dp/B07ND9GYZ3/?tag=redken-21) 
  
  [Visítala!!!](https://www.amazon.es/dp/B07ND9GYZ3/?tag=redken-21)
 
