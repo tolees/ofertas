@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RN6VC9R: Ahorra en Ghost Recon Breakpoint - Gold Edition 
- date: 2019/10/01 23:03:18 +0000 
+ date: 2019/10/03 15:46:54 +0000 
  comments: true 
  tags: B07RN6VC9R 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Ghost Recon Breakpoint - Gold Edition](https://www.amazon.es/dp/B07RN6VC9R/?tag=redken-21) a 89.9 EUR (original: 99.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Ghost Recon Breakpoint - Gold Edition](https://www.amazon.es/dp/B07RN6VC9R/?tag=redken-21) a 84.9 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51G6YC7ykTL._SL200_.jpg)](https://www.amazon.es/dp/B07RN6VC9R/?tag=redken-21) 
  

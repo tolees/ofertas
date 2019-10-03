@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNWJ12T: Ofertón en Amazon para THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus 
- date: 2019/10/02 01:38:07 +0000 
+ title: B07FNWJ12T: Ofertón en Amazon para LEGO 70828 Movie 2 with 2 Buildable Figu 
+ date: 2019/10/03 20:15:00 +0000 
  comments: true 
  tags: B07FNWJ12T 
  category: ofertas 
@@ -10,9 +10,9 @@
  description: 
  --- 
  
- Tienes [THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21) a precio de oferta de 59.98 EUR (original: 89.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO 70828 Movie 2 with 2 Buildable Figures Unikitty as Disco Kitty and Zebe  plus Tempo and Melody Mini dolls Constrution Set](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21) a precio de oferta de 59.99 GBP (original: 79.99 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51DeqeDsW2L._SL200_.jpg)](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/514SyurffVL._SL200_.jpg)](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21) 
  
  [Accede a la oferta!!](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21)
 

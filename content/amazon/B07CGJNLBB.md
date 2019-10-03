@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CGJNLBB: Ahorra en Samsung 970 EVO - Disco Duro sólido de 1 
- date: 2019/10/02 02:30:07 +0000 
+ date: 2019/10/03 17:02:42 +0000 
  comments: true 
  tags: B07CGJNLBB 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Samsung 970 EVO - Disco Duro sólido de 1 TB](https://www.amazon.es/dp/B07CGJNLBB/?tag=redken-21) a 221.5 EUR (original: 299.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Samsung 970 EVO - Disco Duro sólido de 1 TB](https://www.amazon.es/dp/B07CGJNLBB/?tag=redken-21) a 214.98 EUR (original: 299.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/416QtNO0BtL._SL200_.jpg)](https://www.amazon.es/dp/B07CGJNLBB/?tag=redken-21) 
  
