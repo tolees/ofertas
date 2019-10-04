@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NVMYB7K: Rebaja en SEGA Megadrive Mini en Amazon 
- date: 2019/10/03 04:47:30 +0000 
+ date: 2019/10/04 09:52:33 +0000 
  comments: true 
  tags: B07NVMYB7K 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [SEGA Megadrive Mini](https://www.amazon.es/dp/B07NVMYB7K/?tag=redken-21) por 79.9 EUR (original: 79.9 EUR) en el siguiente enlace! 
+ Está [SEGA Megadrive Mini](https://www.amazon.es/dp/B07NVMYB7K/?tag=redken-21) por 76.99 EUR (original: 76.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/519SkrGNjrL._SL200_.jpg)](https://www.amazon.es/dp/B07NVMYB7K/?tag=redken-21) 
  
