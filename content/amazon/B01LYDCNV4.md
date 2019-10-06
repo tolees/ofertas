@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B01LYDCNV4: Ahorra en Parker Urban 1931586 - Bolígrafo roller  
+ date: 2019/10/06 19:22:34 +0000 
+ comments: true 
+ tags: B01LYDCNV4 
+ category: ofertas 
+ author: ring 
+ slug: B01LYDCNV4 
+ description: 
+ --- 
+ 
+ Ahora mismo tienes [Parker Urban 1931586 - Bolígrafo roller  purpurina plateada  recambio de tinta negra para punta fina ](https://www.amazon.es/dp/B01LYDCNV4/?tag=redken-21) a 40 EUR (original: 75.63 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41bhWK6JfKL._SL200_.jpg)](https://www.amazon.es/dp/B01LYDCNV4/?tag=redken-21) 
+ 
+ [Visítala!!!](https://www.amazon.es/dp/B01LYDCNV4/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
