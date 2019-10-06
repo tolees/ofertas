@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765CRJTB: Ofertón en Amazon para Synology DiskStation DS418 - Unidad Raid 
- date: 2019/10/03 16:27:42 +0000 
+ date: 2019/10/06 11:14:57 +0000 
  comments: true 
  tags: B0765CRJTB 
  category: ofertas 
