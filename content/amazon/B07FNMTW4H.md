@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNMTW4H: Ofertón en Amazon para Lego 60208 City Polizei Flucht mit dem F 
- date: 2019/10/06 01:28:48 +0000 
+ title: B07FNMTW4H: Ofertón en Amazon para LEGO 60208 City Police Sky Police Parach 
+ date: 2019/10/06 12:25:26 +0000 
  comments: true 
  tags: B07FNMTW4H 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Lego 60208 City Polizei Flucht mit dem Fallschirm  bunt](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO 60208 City Police Sky Police Parachute Arrest with 3 Vehicles: Aeroplane  Car and Motorbike Toys  Crook s Chase Sets for Kids](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) a precio de oferta de 16 GBP (original: 24.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg)](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) 
  
