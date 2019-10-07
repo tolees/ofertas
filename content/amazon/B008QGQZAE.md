@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B008QGQZAE: Ofertón en Amazon para Kingston DTSE9H/32GB - Memoria USB  32 G 
- date: 2019/10/06 09:08:59 +0000 
+ date: 2019/10/07 16:31:32 +0000 
  comments: true 
  tags: B008QGQZAE 
  category: ofertas 

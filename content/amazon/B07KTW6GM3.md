@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTW6GM3: Ofertón en Amazon para LEGO 70677 NINJAGO Land Bounty Vehicle   
- date: 2019/10/06 12:30:37 +0000 
+ date: 2019/10/07 15:00:40 +0000 
  comments: true 
  tags: B07KTW6GM3 
  category: ofertas 
