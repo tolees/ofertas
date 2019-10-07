@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Y2ZTBPT: Ofertón en Amazon para Auriculares Bluetooth  Auriculares con S 
- date: 2019/10/06 09:16:54 +0000 
+ date: 2019/10/07 09:18:57 +0000 
  comments: true 
  tags: B07Y2ZTBPT 
  category: ofertas 

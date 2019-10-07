@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XKZQ9LQ: Ofertón en Amazon para Adolenb Cortador de Verduras Multifuncio 
- date: 2019/10/06 07:56:04 +0000 
+ date: 2019/10/07 08:01:53 +0000 
  comments: true 
  tags: B07XKZQ9LQ 
  category: ofertas 

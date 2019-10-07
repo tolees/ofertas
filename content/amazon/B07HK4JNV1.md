@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HK4JNV1: Rebaja en Xiaomi Redmi Note 6 Pro Smartphone de 6. en Amazon 
- date: 2019/10/06 02:37:34 +0000 
+ date: 2019/10/07 09:09:20 +0000 
  comments: true 
  tags: B07HK4JNV1 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0769LLXHD: Ahorra en Vexia Cleverbook Plus - Ordenador portát 
- date: 2019/10/06 05:21:09 +0000 
+ date: 2019/10/07 10:13:22 +0000 
  comments: true 
  tags: B0769LLXHD 
  category: ofertas 
