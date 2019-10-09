@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BB3VZ7K: Rebaja en Panasonic SC-HC2040EGW blanco en Amazon 
- date: 2019/10/06 08:19:49 +0000 
+ date: 2019/10/09 15:29:32 +0000 
  comments: true 
  tags: B07BB3VZ7K 
  category: ofertas 

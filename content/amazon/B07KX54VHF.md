@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KX54VHF: Ahorra en LEGO Harry Potter - Autobús Noctámbulo   
- date: 2019/10/06 18:24:31 +0000 
+ title: B07KX54VHF: Ahorra en LEGO Harry Potter und der Gefangene von  
+ date: 2019/10/09 16:18:18 +0000 
  comments: true 
  tags: B07KX54VHF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO Harry Potter - Autobús Noctámbulo  Juguete de Construcción del Mágico Autobús de 3 Plantas  Incluye 3 Minifiguras  75957 ](https://www.amazon.es/dp/B07KX54VHF/?tag=redken-21) a 29.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO Harry Potter und der Gefangene von Askaban - Der Fahrende Ritter  75957   Bauset](https://www.amazon.es/dp/B07KX54VHF/?tag=redken-21) a 31.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg)](https://www.amazon.es/dp/B07KX54VHF/?tag=redken-21) 
  
