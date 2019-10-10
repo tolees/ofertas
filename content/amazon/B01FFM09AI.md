@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01FFM09AI: Ofertón en Amazon para CAT CATLI005 - Smartphone de 4.7"  4G  3 
- date: 2019/10/09 19:50:57 +0000 
+ date: 2019/10/10 23:01:48 +0000 
  comments: true 
  tags: B01FFM09AI 
  category: ofertas 

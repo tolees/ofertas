@@ -1,6 +1,6 @@
 --- 
  layout: post 
- title: B07NC1MQDD: Rebaja en A Plague Tale: Innocence en Amazon 
+ title: B07NC1MQDD: Ofertón en Amazon para A Plague Tale: Innocence 
  date: 2019/10/10 20:42:17 +0000 
  comments: true 
  tags: B07NC1MQDD 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [A Plague Tale: Innocence](https://www.amazon.es/dp/B07NC1MQDD/?tag=redken-21) por 38.47 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Tienes [A Plague Tale: Innocence](https://www.amazon.es/dp/B07NC1MQDD/?tag=redken-21) a precio de oferta de 38.47 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
  [![](http://images.amazon.com/images/P/B07NC1MQDD.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B07NC1MQDD/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07NC1MQDD/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07NC1MQDD/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
