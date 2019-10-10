@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XD4XMYR: Rebaja en APEMAN A80 Cámara Deportiva 4K WiFi 20MP en Amazon 
- date: 2019/10/09 16:54:48 +0000 
+ date: 2019/10/10 21:45:04 +0000 
  comments: true 
  tags: B07XD4XMYR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [APEMAN A80 Cámara Deportiva 4K WiFi 20MP Cámara de Video Acuática Agua de 40M Estabilización Giroscópica Modo de Submarinismo 2 baterías de 20 Accesorios con Estuche de Transporte](https://www.amazon.es/dp/B07XD4XMYR/?tag=redken-21) por 74.99 EUR (original: 74.99 EUR) en el siguiente enlace! 
+ Está [APEMAN A80 Cámara Deportiva 4K WiFi 20MP Cámara de Video Acuática Agua de 40M Estabilización Giroscópica Modo de Submarinismo 2 baterías de 20 Accesorios con Estuche de Transporte](https://www.amazon.es/dp/B07XD4XMYR/?tag=redken-21) por 81.99 EUR (original: 74.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/512gtIU7U1L._SL200_.jpg)](https://www.amazon.es/dp/B07XD4XMYR/?tag=redken-21) 
  
