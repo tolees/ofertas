@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GEBHN3A: Ahorra en Black Crevice Abrigo Corto Azul Marino L 
- date: 2019/10/11 07:12:26 +0000 
+ date: 2019/10/12 10:17:26 +0000 
  comments: true 
  tags: B01GEBHN3A 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Black Crevice Abrigo Corto Azul Marino L](https://www.amazon.es/dp/B01GEBHN3A/?tag=redken-21) a 29.99 EUR (original: 139.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Black Crevice Abrigo Corto Azul Marino L](https://www.amazon.es/dp/B01GEBHN3A/?tag=redken-21) a 34.34 EUR (original: 139.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41bfLjk8CXL._SL200_.jpg)](https://www.amazon.es/dp/B01GEBHN3A/?tag=redken-21) 
  

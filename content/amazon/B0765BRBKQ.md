@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B0765BRBKQ: Ofertón en Amazon para LEGO City- Ártico: Base móvil de explora 
- date: 2019/10/11 06:42:53 +0000 
+ title: B0765BRBKQ: Ahorra en LEGO City- Ártico: Base móvil de explora 
+ date: 2019/10/12 08:22:28 +0000 
  comments: true 
  tags: B0765BRBKQ 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Tienes [LEGO City- Ártico: Base móvil de exploración City Arctic Expediti Juego de construcción  Multicolor  60195 ](https://www.amazon.es/dp/B0765BRBKQ/?tag=redken-21) a precio de oferta de 79 EUR (original: 109.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO City- Ártico: Base móvil de exploración City Arctic Expediti Juego de construcción  Multicolor  60195 ](https://www.amazon.es/dp/B0765BRBKQ/?tag=redken-21) a 79 EUR (original: 109.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51o1Qzo1I1L._SL200_.jpg)](https://www.amazon.es/dp/B0765BRBKQ/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B0765BRBKQ/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B0765BRBKQ/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
