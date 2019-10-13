@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00G7LQAQY: Ahorra en Seagate Backup Plus Slim - Disco duro ex 
- date: 2019/10/12 11:40:57 +0000 
+ date: 2019/10/13 15:56:58 +0000 
  comments: true 
  tags: B00G7LQAQY 
  category: ofertas 

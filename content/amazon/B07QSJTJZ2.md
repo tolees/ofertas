@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07QSJTJZ2: Ahorra en YOTOPT 3G Tablet de 10.1" Full HD - 3G/W 
+ date: 2019/10/13 15:19:36 +0000 
+ comments: true 
+ tags: B07QSJTJZ2 
+ category: ofertas 
+ author: ring 
+ slug: B07QSJTJZ2 
+ description: 
+ --- 
+ 
+ Ahora mismo tienes [YOTOPT 3G Tablet de 10.1" Full HD - 3G/Wi-Fi  32GB de ROM  2GB de RAM  Android 7.0  Bluetooth 4.0  GPS  Negro ](https://www.amazon.es/dp/B07QSJTJZ2/?tag=redken-21) a 85.98 EUR (original: 189.98 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41HyJCQlAEL._SL200_.jpg)](https://www.amazon.es/dp/B07QSJTJZ2/?tag=redken-21) 
+ 
+ [Visítala!!!](https://www.amazon.es/dp/B07QSJTJZ2/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
