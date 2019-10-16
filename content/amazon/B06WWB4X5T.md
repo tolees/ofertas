@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WWB4X5T: Rebaja en Jordi Labanda Floral Mochila Grande  20  en Amazon 
- date: 2019/10/14 05:34:29 +0000 
+ date: 2019/10/15 21:20:25 +0000 
  comments: true 
  tags: B06WWB4X5T 
  category: ofertas 
