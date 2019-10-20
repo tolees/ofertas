@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B073SBZ8YH: Rebaja en Western Digital WDS500G2B0A WD Blue 500G en Amazon 
- date: 2019/10/15 19:54:28 +0000 
+ title: B073SBZ8YH: Ofertón en Amazon para Western Digital WDS500G2B0A WD Blue 500G 
+ date: 2019/10/20 16:57:10 +0000 
  comments: true 
  tags: B073SBZ8YH 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Western Digital WDS500G2B0A WD Blue 500GB  3D NAND Internal SSD - Disco de estado sólido  2.5" SATA](https://www.amazon.es/dp/B073SBZ8YH/?tag=redken-21) por 64.99 EUR (original: 127.26 EUR) en el siguiente enlace! 
+ Tienes [Western Digital WDS500G2B0A WD Blue 500GB  3D NAND Internal SSD - Disco de estado sólido  2.5" SATA](https://www.amazon.es/dp/B073SBZ8YH/?tag=redken-21) a precio de oferta de 64.99 EUR (original: 127.26 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41L99Y-L4bL._SL200_.jpg)](https://www.amazon.es/dp/B073SBZ8YH/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B073SBZ8YH/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B073SBZ8YH/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

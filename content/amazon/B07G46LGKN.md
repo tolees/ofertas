@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G46LGKN: Rebaja en Huawei Media Pad T5 - Tablet 10.1" Full  en Amazon 
- date: 2019/10/16 03:47:10 +0000 
+ date: 2019/10/20 19:10:22 +0000 
  comments: true 
  tags: B07G46LGKN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Huawei Media Pad T5 - Tablet 10.1" Full HD  Wifi  RAM de 3 GB  ROM de 32 GB  Android 8.0  EMUI 8.0  Color Negro](https://www.amazon.es/dp/B07G46LGKN/?tag=redken-21) por 164.99 EUR (original: 229 EUR) en el siguiente enlace! 
+ Está [Huawei Media Pad T5 - Tablet 10.1" Full HD  Wifi  RAM de 3 GB  ROM de 32 GB  Android 8.0  EMUI 8.0  Color Negro](https://www.amazon.es/dp/B07G46LGKN/?tag=redken-21) por 158.05 EUR (original: 229 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41JHqNHV14L._SL200_.jpg)](https://www.amazon.es/dp/B07G46LGKN/?tag=redken-21) 
  
