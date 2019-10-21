@@ -23,7 +23,7 @@ PROJECTS_TITLE = 'Nuestros canales de ofertas'
 PROJECTS = [{'name': '🇮🇹 Italia dsconti', 'url': 'https://t.me/dsconti'},
  {'name': '🇫🇷France Soldes', 'url': 'https://t.me/soldesamazon'},
  {'name': '🇩🇪Germany Skonto', 'url': 'https://t.me/skontozone'},
- {'name': '🇬🇧UK Deals in amazon', 'url':'https://t.me/allukdeals'},
+ {'name': '🇬🇧UK Deals', 'url':'https://t.me/allukdeals'},
  {'name': '👶Bebé', 'url': 'https://t.me/estodobebe'},
  {'name': '👚Moda', 'url': 'https://t.me/estodomoda'},
  {'name': '📏Material Escolar', 'url': 'https://t.me/vueltaalcole'},
