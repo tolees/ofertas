@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B074RNRM2B: Ofertón en Amazon para SanDisk Ultra - Tarjeta de memoria micro 
- date: 2019/10/21 10:09:43 +0000 
+ title: B074RNRM2B: Ofertón en Amazon para SanDisk Ultra 400GB microSDXC Speicherka 
+ date: 2019/10/21 12:09:18 +0000 
  comments: true 
  tags: B074RNRM2B 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [SanDisk Ultra - Tarjeta de memoria microSDXC de 400 GB con adaptador SD  velocidad de lectura hasta 100 MB/s  Clase 10  U1 y A1](https://www.amazon.es/dp/B074RNRM2B/?tag=redken-21) a precio de oferta de 73.98 EUR (original: 136.99 EUR) en el siguiente enlace! 
+ Tienes [SanDisk Ultra 400GB microSDXC Speicherkarte + Adapter bis zu 100 MB/Sek  Class 10  U1  A1](https://www.amazon.es/dp/B074RNRM2B/?tag=redken-21) a precio de oferta de 56 EUR (original: 141.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg)](https://www.amazon.es/dp/B074RNRM2B/?tag=redken-21) 
  
