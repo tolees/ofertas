@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B01M9ASS9U: Ahorra en AKAI TV LED 50" Full HD 1920 X 1080 DVB- 
+ date: 2019/10/21 11:42:11 +0000 
+ comments: true 
+ tags: B01M9ASS9U 
+ category: ofertas 
+ author: ring 
+ slug: B01M9ASS9U 
+ description: 
+ --- 
+ 
+ Ahora mismo tienes [AKAI TV LED 50" Full HD 1920 X 1080 DVB-T2/S2 FUNZIONE Hotel 3 HDMI Gold](https://www.amazon.es/dp/B01M9ASS9U/?tag=redken-21) a 354.85 EUR (original: 354.85 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/414USu6FlHL._SL200_.jpg)](https://www.amazon.es/dp/B01M9ASS9U/?tag=redken-21) 
+ 
+ [Visítala!!!](https://www.amazon.es/dp/B01M9ASS9U/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
