@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MTQNHQF: Ahorra en Samsung Galaxy S10e 128GB Dual SIM Prism 
- date: 2019/10/20 22:00:58 +0000 
+ date: 2019/10/21 22:41:14 +0000 
  comments: true 
  tags: B07MTQNHQF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Samsung Galaxy S10e 128GB Dual SIM Prism Black Versión Alemana](https://www.amazon.es/dp/B07MTQNHQF/?tag=redken-21) a 537.67 EUR (original: 749 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Samsung Galaxy S10e 128GB Dual SIM Prism Black Versión Alemana](https://www.amazon.es/dp/B07MTQNHQF/?tag=redken-21) a 535 EUR (original: 749 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41oi470U2YL._SL200_.jpg)](https://www.amazon.es/dp/B07MTQNHQF/?tag=redken-21) 
  

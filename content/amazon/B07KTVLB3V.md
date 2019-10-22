@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07KTVLB3V: Rebaja en Lego Ninjago 70675 Katana 4x4  Bauset en Amazon 
+ date: 2019/10/22 02:36:57 +0000 
+ comments: true 
+ tags: B07KTVLB3V 
+ category: ofertas 
+ author: ring 
+ slug: B07KTVLB3V 
+ description: 
+ --- 
+ 
+ Está [Lego Ninjago 70675 Katana 4x4  Bauset](https://www.amazon.es/dp/B07KTVLB3V/?tag=redken-21) por 37.99 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51j-4R9BxKL._SL200_.jpg)](https://www.amazon.es/dp/B07KTVLB3V/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B07KTVLB3V/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

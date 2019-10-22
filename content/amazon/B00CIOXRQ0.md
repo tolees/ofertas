@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CIOXRQ0: Ofertón en Amazon para Fonestar 3360 Negro altavoz - Altavoces  
- date: 2019/10/20 14:19:25 +0000 
+ date: 2019/10/22 00:40:54 +0000 
  comments: true 
  tags: B00CIOXRQ0 
  category: ofertas 

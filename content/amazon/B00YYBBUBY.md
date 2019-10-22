@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00YYBBUBY: Ofertón en Amazon para Bosch Professional GSB 12V-15 - Taladro  
- date: 2019/10/20 22:12:11 +0000 
+ date: 2019/10/22 06:35:14 +0000 
  comments: true 
  tags: B00YYBBUBY 
  category: ofertas 
