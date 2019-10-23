@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SLL8MZ7: Ofertón en Amazon para CYCL - Intermitente Fijo para Bicicleta  
- date: 2019/10/20 21:10:17 +0000 
+ date: 2019/10/22 23:06:19 +0000 
  comments: true 
  tags: B07SLL8MZ7 
  category: ofertas 

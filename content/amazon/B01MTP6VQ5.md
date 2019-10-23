@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B01MTP6VQ5: Rebaja en Nixon Reloj Analógico para Hombre de Cua en Amazon 
+ date: 2019/10/23 03:40:04 +0000 
+ comments: true 
+ tags: B01MTP6VQ5 
+ category: ofertas 
+ author: ring 
+ slug: B01MTP6VQ5 
+ description: 
+ --- 
+ 
+ Está [Nixon Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable A1072-632-00](https://www.amazon.es/dp/B01MTP6VQ5/?tag=redken-21) por 110.01 EUR (original: 200 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41h21b2qL1L._SL200_.jpg)](https://www.amazon.es/dp/B01MTP6VQ5/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B01MTP6VQ5/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

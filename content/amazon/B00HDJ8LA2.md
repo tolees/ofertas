@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HDJ8LA2: Rebaja en Remington Cordless Wet and Dry Lady Shav en Amazon 
- date: 2019/10/21 21:53:36 +0000 
+ date: 2019/10/23 06:09:36 +0000 
  comments: true 
  tags: B00HDJ8LA2 
  category: ofertas 
