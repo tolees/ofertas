@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07ND99DMY: Ofertón en Amazon para LEGO 70423 Hidden Side Paranormal Interc 
- date: 2019/10/23 01:50:03 +0000 
+ title: B07ND99DMY: Ofertón en Amazon para LEGO 70423 Hidden Side Spezialbus Geiste 
+ date: 2019/10/24 02:51:44 +0000 
  comments: true 
  tags: B07ND99DMY 
  category: ofertas 
@@ -10,9 +10,9 @@
  description: 
  --- 
  
- Tienes [LEGO 70423 Hidden Side Paranormal Intercept Bus AR Games App  Interactive Augmented Reality Ghost Playset for iPhone/Android](https://www.amazon.es/dp/B07ND99DMY/?tag=redken-21) a precio de oferta de 36.99 GBP (original: 54.99 GBP) en el siguiente enlace! 
+ Tienes [LEGO 70423 Hidden Side Spezialbus Geisterschreck 3000 Kinderspielzeug  Augmented Reality Funktionen](https://www.amazon.es/dp/B07ND99DMY/?tag=redken-21) a precio de oferta de 51.2 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51ZzUGVRSTL._SL200_.jpg)](https://www.amazon.es/dp/B07ND99DMY/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/617091s5rsL._SL200_.jpg)](https://www.amazon.es/dp/B07ND99DMY/?tag=redken-21) 
  
  [Accede a la oferta!!](https://www.amazon.es/dp/B07ND99DMY/?tag=redken-21)
 

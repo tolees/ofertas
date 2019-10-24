@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XCCCHHT: Ofertón en Amazon para MVPower 60 * 30cm Almohadilla Térmica co 
- date: 2019/10/22 22:19:20 +0000 
+ date: 2019/10/24 00:00:39 +0000 
  comments: true 
  tags: B07XCCCHHT 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MBFGGXZ: Ahorra en INTEY Faja Reductora Adelgazante Neopren 
- date: 2019/10/22 09:51:59 +0000 
+ date: 2019/10/23 22:21:49 +0000 
  comments: true 
  tags: B07MBFGGXZ 
  category: ofertas 
