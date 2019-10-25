@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0765BXGND: Ofertón en Amazon para Synology DS918+ NAS Escritorio Ethernet  
- date: 2019/10/22 21:47:16 +0000 
+ date: 2019/10/25 16:58:15 +0000 
  comments: true 
  tags: B0765BXGND 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Synology DS918+ NAS Escritorio Ethernet Negro - Unidad Raid  12000 GB  Unidad de Disco Duro  Unidad de Disco Duro  SSD  M.2  SATA  3000 GB  2.5/3.5" ](https://www.amazon.es/dp/B0765BXGND/?tag=redken-21) a precio de oferta de 667.03 EUR (original: 667.03 EUR) en el siguiente enlace! 
+ Tienes [Synology DS918+ NAS Escritorio Ethernet Negro - Unidad Raid  12000 GB  Unidad de Disco Duro  Unidad de Disco Duro  SSD  M.2  SATA  3000 GB  2.5/3.5" ](https://www.amazon.es/dp/B0765BXGND/?tag=redken-21) a precio de oferta de 919.21 EUR (original: 919.21 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31sS3gmfMaL._SL200_.jpg)](https://www.amazon.es/dp/B0765BXGND/?tag=redken-21) 
  
