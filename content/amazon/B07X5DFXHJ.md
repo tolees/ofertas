@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07X5DFXHJ: Ofertón en Amazon para HP Pavilion 15-bc500ns - Ordenador portá 
- date: 2019/10/25 17:01:32 +0000 
+ date: 2019/10/26 20:23:12 +0000 
  comments: true 
  tags: B07X5DFXHJ 
  category: ofertas 
