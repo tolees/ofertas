@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KAVHGPQ: Ahorra en USB 2.0 + Micro USB OTG SD ST Lector De  
- date: 2019/10/25 20:32:33 +0000 
+ date: 2019/10/27 12:13:13 +0000 
  comments: true 
  tags: B00KAVHGPQ 
  category: ofertas 
