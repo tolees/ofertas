@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Y8JMPJM: Rebaja en MEDION Ultrafino S6445 - MD61389 - Orden en Amazon 
- date: 2019/10/26 19:05:59 +0000 
+ date: 2019/10/27 19:43:39 +0000 
  comments: true 
  tags: B07Y8JMPJM 
  category: ofertas 
