@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LQQH86A: Ofertón en Amazon para WD My Passport - Disco Duro Portátil de  
- date: 2019/10/27 09:35:05 +0000 
+ date: 2019/10/28 11:44:55 +0000 
  comments: true 
  tags: B01LQQH86A 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [WD My Passport - Disco Duro Portátil de 4 TB y Software de Copia de Seguridad Automática  Negro](https://www.amazon.es/dp/B01LQQH86A/?tag=redken-21) a precio de oferta de 104 EUR (original: 159.99 EUR) en el siguiente enlace! 
+ Tienes [WD My Passport - Disco Duro Portátil de 4 TB y Software de Copia de Seguridad Automática  Negro](https://www.amazon.es/dp/B01LQQH86A/?tag=redken-21) a precio de oferta de 109.99 EUR (original: 159.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41yZXe004KL._SL200_.jpg)](https://www.amazon.es/dp/B01LQQH86A/?tag=redken-21) 
  

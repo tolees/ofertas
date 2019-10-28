@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJ8QCZF: Ahorra en TELMU Microscopio Optico 40-1000X - Micr 
- date: 2019/10/26 19:03:53 +0000 
+ date: 2019/10/28 11:01:09 +0000 
  comments: true 
  tags: B07DJ8QCZF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [TELMU Microscopio Optico 40-1000X - Microscopio Biologico Monocular con Fuente De Luz LED Y Soporte para Teléfono Móvil](https://www.amazon.es/dp/B07DJ8QCZF/?tag=redken-21) a 89.99 EUR (original: 129 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [TELMU Microscopio Optico 40-1000X - Microscopio Biologico Monocular con Fuente De Luz LED Y Soporte para Teléfono Móvil](https://www.amazon.es/dp/B07DJ8QCZF/?tag=redken-21) a 83.46 EUR (original: 159.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41OK9t%2BNiWL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ8QCZF/?tag=redken-21) 
  

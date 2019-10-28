@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N4NH4MC: Ahorra en Motorola Moto G7 Plus - Smartphone Andro 
- date: 2019/10/27 08:17:07 +0000 
+ date: 2019/10/28 11:52:47 +0000 
  comments: true 
  tags: B07N4NH4MC 
  category: ofertas 
