@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XT1RRDL: Ahorra en vobome Cámara portátil de Video Digital  
- date: 2019/10/28 10:44:23 +0000 
+ date: 2019/10/29 11:13:14 +0000 
  comments: true 
  tags: B07XT1RRDL 
  category: ofertas 
