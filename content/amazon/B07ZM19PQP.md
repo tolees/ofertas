@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07ZM19PQP: Ofertón en Amazon para pairris 4 Puertos USB Colorido Cargador  
- date: 2019/10/28 16:10:45 +0000 
+ date: 2019/10/29 17:14:14 +0000 
  comments: true 
  tags: B07ZM19PQP 
  category: ofertas 

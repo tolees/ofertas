@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07V5JKSQ1: Rebaja en Nintendo Switch Lite Set Accesorios  Fun en Amazon 
- date: 2019/10/28 17:58:48 +0000 
+ date: 2019/10/29 20:35:59 +0000 
  comments: true 
  tags: B07V5JKSQ1 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Nintendo Switch Lite Set Accesorios  Funda + protector LCD ](https://www.amazon.es/dp/B07V5JKSQ1/?tag=redken-21) por 11.98 EUR (original: 11.98 EUR) en el siguiente enlace! 
+ Está [Nintendo Switch Lite Set Accesorios  Funda + protector LCD ](https://www.amazon.es/dp/B07V5JKSQ1/?tag=redken-21) por 11.71 EUR (original: 11.71 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31aE2mATvxL._SL200_.jpg)](https://www.amazon.es/dp/B07V5JKSQ1/?tag=redken-21) 
  

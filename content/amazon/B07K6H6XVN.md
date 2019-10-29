@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K6H6XVN: Ofertón en Amazon para Beelink BT3Pro II Mini PC Computer Windo 
- date: 2019/10/28 12:58:18 +0000 
+ date: 2019/10/29 16:13:43 +0000 
  comments: true 
  tags: B07K6H6XVN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Beelink BT3Pro II Mini PC Computer Windows 10 4GB Ram 64GB eMMC Intel Atom x5-Z8350 Multi Media Desktop HDMI VGA Dual Display  Full 4K HD H.265 / 1000Mbps LAN / 2.4G+5.8G Dual WiFi/VESA Mount](https://www.amazon.es/dp/B07K6H6XVN/?tag=redken-21) a precio de oferta de 146.75 EUR (original: 209.31 EUR) en el siguiente enlace! 
+ Tienes [Beelink BT3Pro II Mini PC Computer Windows 10 4GB Ram 64GB eMMC Intel Atom x5-Z8350 Multi Media Desktop HDMI VGA Dual Display  Full 4K HD H.265 / 1000Mbps LAN / 2.4G+5.8G Dual WiFi/VESA Mount](https://www.amazon.es/dp/B07K6H6XVN/?tag=redken-21) a precio de oferta de 139.9 EUR (original: 299.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41wBW29q-uL._SL200_.jpg)](https://www.amazon.es/dp/B07K6H6XVN/?tag=redken-21) 
  
