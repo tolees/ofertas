@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HFR1B4W: Ahorra en TECLAST Tablet PC P80Pro Quad Core 8" Fu 
- date: 2019/10/29 11:07:13 +0000 
+ date: 2019/10/30 12:32:43 +0000 
  comments: true 
  tags: B07HFR1B4W 
  category: ofertas 
