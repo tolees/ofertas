@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KPWGPKP: Ahorra en adidas Supernova Short Pantalón  Hombre  
- date: 2019/10/28 19:42:33 +0000 
+ date: 2019/10/30 18:49:17 +0000 
  comments: true 
  tags: B07KPWGPKP 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [adidas Supernova Short Pantalón  Hombre  Gris  grisei   XS](https://www.amazon.es/dp/B07KPWGPKP/?tag=redken-21) a 23.15 EUR (original: 23.15 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [adidas Supernova Short Pantalón  Hombre  Gris  grisei   XS](https://www.amazon.es/dp/B07KPWGPKP/?tag=redken-21) a 22.48 EUR (original: 22.48 EUR) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B07KPWGPKP/?tag=redken-21) 
  

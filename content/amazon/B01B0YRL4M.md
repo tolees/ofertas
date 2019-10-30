@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01B0YRL4M: Ofertón en Amazon para Russell Hobbs Mix & Go - Batidora de Vas 
- date: 2019/10/29 12:30:06 +0000 
+ date: 2019/10/30 18:34:00 +0000 
  comments: true 
  tags: B01B0YRL4M 
  category: ofertas 
