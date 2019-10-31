@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KTSGWDJ: Ahorra en LEGO 60228 - City Weltraumrakete mit Kon 
- date: 2019/10/29 16:24:13 +0000 
+ title: B07KTSGWDJ: Ahorra en LEGO 60228 City Deep Space Rocket and La 
+ date: 2019/10/31 06:48:15 +0000 
  comments: true 
  tags: B07KTSGWDJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 60228 - City Weltraumrakete mit Kontrollzentrum  Bauset](https://www.amazon.es/dp/B07KTSGWDJ/?tag=redken-21) a 83 EUR (original: 99.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 60228 City Deep Space Rocket and Launch Control Mars Expedition Set  Space Toys for Kids inspired by NASA with Astronauts  Scientists and Robot Minifigures](https://www.amazon.es/dp/B07KTSGWDJ/?tag=redken-21) a 68.95 GBP (original: 89.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/511jFmZ4I-L._SL200_.jpg)](https://www.amazon.es/dp/B07KTSGWDJ/?tag=redken-21) 
  
