@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FCMKK5X: Ofertón en Amazon para SanDisk Extreme - Tarjeta de memoria mic 
- date: 2019/10/31 08:36:03 +0000 
+ title: B07FCMKK5X: Rebaja en SanDisk Extreme - Tarjeta de memoria mic en Amazon 
+ date: 2019/11/02 12:02:32 +0000 
  comments: true 
  tags: B07FCMKK5X 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Tienes [SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21) a precio de oferta de 22.9 EUR (original: 46.99 EUR) en el siguiente enlace! 
+ Está [SanDisk Extreme - Tarjeta de memoria microSDXC de 128 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21) por 21.99 EUR (original: 46.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Ob2mex0pL._SL200_.jpg)](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07FCMKK5X/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

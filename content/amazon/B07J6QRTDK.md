@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J6QRTDK: Ahorra en Crosstour CT8500 Cámara Deportiva 4K Wi- 
- date: 2019/10/30 11:57:38 +0000 
+ date: 2019/11/02 11:38:54 +0000 
  comments: true 
  tags: B07J6QRTDK 
  category: ofertas 

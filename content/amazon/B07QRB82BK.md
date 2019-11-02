@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QRB82BK: Rebaja en Samsung Galagy Tab A - Tablet de 10.1" F en Amazon 
- date: 2019/10/31 08:26:20 +0000 
+ date: 2019/11/02 08:31:35 +0000 
  comments: true 
  tags: B07QRB82BK 
  category: ofertas 
