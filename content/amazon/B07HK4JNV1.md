@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HK4JNV1: Ahorra en Xiaomi Redmi Note 6 Pro Smartphone de 6. 
- date: 2019/11/02 09:21:47 +0000 
+ date: 2019/11/03 16:59:09 +0000 
  comments: true 
  tags: B07HK4JNV1 
  category: ofertas 
