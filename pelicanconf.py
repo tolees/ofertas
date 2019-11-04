@@ -7,10 +7,10 @@ import datetime
 ## ---------------------------------------------------------------------
 
 AUTHOR = u'AmazonOfertas25'
-SITENAME = u'Ofertas que te dejarán sentado!'
-SITESUBTITLE = u'Las ofertas del canal @amazonofertas25 en Telegram'
+SITENAME = u'Ofertas del día en Amazon que te dejarán helado!'
+SITESUBTITLE = u'Las ofertas del canal @amazonofertas25 y amigos en Telegram'
 SITEURL = u'/'
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'es'
 DEFAULT_CATEGORY = 'ofertas'
 CLAIM_GOOGLE = "7QrCnaeuK3HPjHwmZ4DWrwgo5ySpPLwJE2ZTFvrNGeI"
 CLAIM_BING = "8FF1B025212A47B5B27CC47163A042F0"
@@ -41,7 +41,7 @@ PROJECTS = [{'name': '🇮🇹 Italia dsconti', 'url': 'https://t.me/dsconti'},
  {'name': '🛍 Todas las ofertas', 'url': 'https://t.me/amazonfertas'}]
 
 
-LINKS = (('Redken on telegram', 'https://t.me/redken_bot'))
+LINKS = (('Descuenbot on telegram', 'https://t.me/descuenbot'))
 
 # Keep 'name'like 'twitter'with what 'FontAwesome has for putting the right icon'
 
