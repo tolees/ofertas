@@ -3,7 +3,7 @@
  title: B01LXRYYN4: Ofertón en Amazon para ASUS PB27UQ - Monitor de 27" 4K Ultra HD 
  date: 2019/11/03 20:08:11 +0000 
  comments: true 
- tags: B01LXRYYN4 
+ tags: B01LXRYYN4, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B01LXRYYN4 

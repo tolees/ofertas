@@ -3,7 +3,7 @@
  title: B07BB4YR3X: Ofertón en Amazon para Hurley W One&Only Fleece Jogger Pantalon 
  date: 2019/11/03 20:18:42 +0000 
  comments: true 
- tags: B07BB4YR3X 
+ tags: B07BB4YR3X, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07BB4YR3X 

@@ -3,7 +3,7 @@
  title: B00GBDY9PM: Ofertón en Amazon para Ferrero Collection Chocolate Gift Set  I 
  date: 2019/11/03 17:42:32 +0000 
  comments: true 
- tags: B00GBDY9PM 
+ tags: B00GBDY9PM, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00GBDY9PM 

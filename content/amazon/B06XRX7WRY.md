@@ -3,7 +3,7 @@
  title: B06XRX7WRY: Ofertón en Amazon para Mactronic PSL0021 Foco de mano recargabl 
  date: 2019/11/03 20:31:34 +0000 
  comments: true 
- tags: B06XRX7WRY 
+ tags: B06XRX7WRY, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B06XRX7WRY 

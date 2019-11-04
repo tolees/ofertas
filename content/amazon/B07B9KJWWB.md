@@ -3,7 +3,7 @@
  title: B07B9KJWWB: Ofertón en Amazon para Pikolinos Berna M8j  Zapatos de Cordones 
  date: 2019/11/03 21:28:23 +0000 
  comments: true 
- tags: B07B9KJWWB 
+ tags: B07B9KJWWB, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07B9KJWWB 

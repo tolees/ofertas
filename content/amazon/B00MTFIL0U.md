@@ -3,7 +3,7 @@
  title: B00MTFIL0U: Ofertón en Amazon para Buchanan s Deluxe Whisky Escocés - 1000  
  date: 2019/11/03 17:10:26 +0000 
  comments: true 
- tags: B00MTFIL0U 
+ tags: B00MTFIL0U, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00MTFIL0U 

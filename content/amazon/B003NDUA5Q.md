@@ -3,7 +3,7 @@
  title: B003NDUA5Q: Ofertón en Amazon para LevelOne USB-0401 Adaptador y Tarjeta de 
  date: 2019/11/03 17:48:34 +0000 
  comments: true 
- tags: B003NDUA5Q 
+ tags: B003NDUA5Q, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B003NDUA5Q 

@@ -3,7 +3,7 @@
  title: B07BNS5B3W: Ofertón en Amazon para Catherine Lansfield Glamour - Cortinas   
  date: 2019/11/03 19:11:23 +0000 
  comments: true 
- tags: B07BNS5B3W 
+ tags: B07BNS5B3W, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07BNS5B3W 

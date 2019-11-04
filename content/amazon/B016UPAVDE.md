@@ -3,7 +3,7 @@
  title: B016UPAVDE: Ofertón en Amazon para Apple Magic Mouse 2 - Plata 
  date: 2019/11/03 18:52:54 +0000 
  comments: true 
- tags: B016UPAVDE 
+ tags: B016UPAVDE, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B016UPAVDE 

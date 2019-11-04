@@ -3,7 +3,7 @@
  title: B07BDP43FZ: Ofertón en Amazon para American Tourister Sunside Spinner 55/20 
  date: 2019/11/03 18:07:47 +0000 
  comments: true 
- tags: B07BDP43FZ 
+ tags: B07BDP43FZ, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07BDP43FZ 

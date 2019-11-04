@@ -3,7 +3,7 @@
  title: B01M2D4SNT: Ofertón en Amazon para Belkin - Thunderbolt 3 Express Docking S 
  date: 2019/11/03 19:48:49 +0000 
  comments: true 
- tags: B01M2D4SNT 
+ tags: B01M2D4SNT, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B01M2D4SNT 

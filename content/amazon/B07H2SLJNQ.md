@@ -3,7 +3,7 @@
  title: B07H2SLJNQ: Ofertón en Amazon para VicTsing Teclado USB Cable  Teclado  Esp 
  date: 2019/11/03 18:52:54 +0000 
  comments: true 
- tags: B07H2SLJNQ 
+ tags: B07H2SLJNQ, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07H2SLJNQ 

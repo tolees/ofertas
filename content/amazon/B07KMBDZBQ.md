@@ -3,7 +3,7 @@
  title: B07KMBDZBQ: Ofertón en Amazon para Merrell Agility Synthesis Flex  Zapatill 
  date: 2019/11/03 19:12:50 +0000 
  comments: true 
- tags: B07KMBDZBQ 
+ tags: B07KMBDZBQ, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07KMBDZBQ 

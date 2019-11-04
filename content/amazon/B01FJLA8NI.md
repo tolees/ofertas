@@ -3,7 +3,7 @@
  title: B01FJLA8NI: Ofertón en Amazon para Intel i7-6800K - Procesador Core  3.4 GH 
  date: 2019/11/03 19:53:46 +0000 
  comments: true 
- tags: B01FJLA8NI 
+ tags: B01FJLA8NI, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B01FJLA8NI 

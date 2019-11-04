@@ -3,7 +3,7 @@
  title: B07VZZ1M6N: Ofertón en Amazon para AYUTOY Prismaticos Profesionales 12x42 H 
  date: 2019/11/03 19:21:47 +0000 
  comments: true 
- tags: B07VZZ1M6N 
+ tags: B07VZZ1M6N, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07VZZ1M6N 

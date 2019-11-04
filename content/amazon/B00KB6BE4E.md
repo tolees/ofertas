@@ -3,7 +3,7 @@
  title: B00KB6BE4E: Ofertón en Amazon para Orbegozo MI 2015 - Microondas sin grill  
  date: 2019/11/03 17:40:17 +0000 
  comments: true 
- tags: B00KB6BE4E 
+ tags: B00KB6BE4E, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00KB6BE4E 

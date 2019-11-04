@@ -3,7 +3,7 @@
  title: B07FP6QRDL: Ofertón en Amazon para LEGO City - Police Policía Aérea: Robo d 
  date: 2019/11/03 18:14:47 +0000 
  comments: true 
- tags: B07FP6QRDL 
+ tags: B07FP6QRDL, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07FP6QRDL 

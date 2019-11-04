@@ -3,7 +3,7 @@
  title: B077YC1NDH: Ofertón en Amazon para Puma Active CREE tee 1P Packed Shorts  G 
  date: 2019/11/03 18:52:54 +0000 
  comments: true 
- tags: B077YC1NDH 
+ tags: B077YC1NDH, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B077YC1NDH 

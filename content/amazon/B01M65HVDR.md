@@ -3,7 +3,7 @@
  title: B01M65HVDR: Ofertón en Amazon para HaoYiShang Microondas 4 minutos Chaqueta 
  date: 2019/11/03 21:34:50 +0000 
  comments: true 
- tags: B01M65HVDR 
+ tags: B01M65HVDR, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B01M65HVDR 

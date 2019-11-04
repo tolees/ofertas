@@ -3,7 +3,7 @@
  title: B016XLYKO6: Ofertón en Amazon para Black+Decker BDCDD12KB-QW - Taladro ator 
  date: 2019/11/03 17:48:34 +0000 
  comments: true 
- tags: B016XLYKO6 
+ tags: B016XLYKO6, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B016XLYKO6 

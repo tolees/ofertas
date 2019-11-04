@@ -3,7 +3,7 @@
  title: B07K7HBLPK: Ofertón en Amazon para adidas Tiro19 WOV SHO Pantalón Corto  Ho 
  date: 2019/11/03 19:21:47 +0000 
  comments: true 
- tags: B07K7HBLPK 
+ tags: B07K7HBLPK, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07K7HBLPK 

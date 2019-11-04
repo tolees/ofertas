@@ -3,7 +3,7 @@
  title: B01A9GPF4A: Ofertón en Amazon para Inter-Tech GD-25LK01 2.5" Caja de Disco  
  date: 2019/11/03 17:13:06 +0000 
  comments: true 
- tags: B01A9GPF4A 
+ tags: B01A9GPF4A, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B01A9GPF4A 

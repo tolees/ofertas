@@ -3,7 +3,7 @@
  title: B07KYNP67G: Ofertón en Amazon para Springfield 5.J.Ap.T.Emerald Jersey  Muj 
  date: 2019/11/03 19:30:06 +0000 
  comments: true 
- tags: B07KYNP67G 
+ tags: B07KYNP67G, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07KYNP67G 

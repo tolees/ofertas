@@ -3,7 +3,7 @@
  title: B07P5TQPNK: Ofertón en Amazon para Earwaves ® Rex Grips - Calleras Crossfit 
  date: 2019/11/03 17:42:32 +0000 
  comments: true 
- tags: B07P5TQPNK 
+ tags: B07P5TQPNK, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07P5TQPNK 

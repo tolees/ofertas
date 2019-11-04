@@ -3,7 +3,7 @@
  title: B00HELBMPA: Ofertón en Amazon para Bikers Gear Australia - Jeans de moto pa 
  date: 2019/11/03 21:31:35 +0000 
  comments: true 
- tags: B00HELBMPA 
+ tags: B00HELBMPA, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00HELBMPA 

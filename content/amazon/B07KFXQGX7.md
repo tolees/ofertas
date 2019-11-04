@@ -3,7 +3,7 @@
  title: B07KFXQGX7: Ofertón en Amazon para PUMJV|#Puma Vista Zapatillas Unisex adul 
  date: 2019/11/03 18:27:26 +0000 
  comments: true 
- tags: B07KFXQGX7 
+ tags: B07KFXQGX7, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07KFXQGX7 

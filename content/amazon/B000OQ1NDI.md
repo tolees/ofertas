@@ -3,7 +3,7 @@
  title: B000OQ1NDI: Ofertón en Amazon para Dugena 4167821 - Reloj analógico de caba 
  date: 2019/11/03 18:22:18 +0000 
  comments: true 
- tags: B000OQ1NDI 
+ tags: B000OQ1NDI, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B000OQ1NDI 

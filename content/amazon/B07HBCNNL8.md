@@ -3,7 +3,7 @@
  title: B07HBCNNL8: Ofertón en Amazon para Apple iPhone XS Max  512 GB  - Space Gra 
  date: 2019/11/03 20:59:05 +0000 
  comments: true 
- tags: B07HBCNNL8 
+ tags: B07HBCNNL8, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07HBCNNL8 

@@ -3,7 +3,7 @@
  title: B075K7KBJQ: Ofertón en Amazon para AmazonBasics - Estación de carga y expos 
  date: 2019/11/03 18:04:38 +0000 
  comments: true 
- tags: B075K7KBJQ 
+ tags: B075K7KBJQ, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B075K7KBJQ 

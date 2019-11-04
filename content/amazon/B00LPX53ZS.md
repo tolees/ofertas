@@ -3,7 +3,7 @@
  title: B00LPX53ZS: Ofertón en Amazon para Ogio Lifestyle 2015 Outlaw 15 Green Moch 
  date: 2019/11/03 19:06:38 +0000 
  comments: true 
- tags: B00LPX53ZS 
+ tags: B00LPX53ZS, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00LPX53ZS 

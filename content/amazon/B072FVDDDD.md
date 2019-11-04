@@ -3,7 +3,7 @@
  title: B072FVDDDD: Ofertón en Amazon para Levi s 501 Levi s Original Fit Vaqueros  
  date: 2019/11/03 18:01:59 +0000 
  comments: true 
- tags: B072FVDDDD 
+ tags: B072FVDDDD, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B072FVDDDD 

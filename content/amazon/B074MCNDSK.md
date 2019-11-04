@@ -3,7 +3,7 @@
  title: B074MCNDSK: Ofertón en Amazon para Samsung T5 2TB - Disco Estado sólido SSD 
  date: 2019/11/03 19:44:18 +0000 
  comments: true 
- tags: B074MCNDSK 
+ tags: B074MCNDSK, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B074MCNDSK 

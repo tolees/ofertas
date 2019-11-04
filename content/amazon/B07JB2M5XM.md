@@ -3,7 +3,7 @@
  title: B07JB2M5XM: Ofertón en Amazon para Grundig 55 VLO 9895 BP - Smart TV de 55" 
  date: 2019/11/03 20:28:19 +0000 
  comments: true 
- tags: B07JB2M5XM 
+ tags: B07JB2M5XM, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07JB2M5XM 

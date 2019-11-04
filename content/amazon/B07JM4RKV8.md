@@ -3,7 +3,7 @@
  title: B07JM4RKV8: Ofertón en Amazon para Amazon Essentials - Calcetines de deport 
  date: 2019/11/03 21:29:42 +0000 
  comments: true 
- tags: B07JM4RKV8 
+ tags: B07JM4RKV8, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07JM4RKV8 

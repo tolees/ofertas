@@ -3,7 +3,7 @@
  title: B07VDBWGW8: Ofertón en Amazon para Victorig Lámpara de escritorio LED Lámpa 
  date: 2019/11/03 20:40:29 +0000 
  comments: true 
- tags: B07VDBWGW8 
+ tags: B07VDBWGW8, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07VDBWGW8 

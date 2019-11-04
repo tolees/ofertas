@@ -3,7 +3,7 @@
  title: B0759HJPYH: Ofertón en Amazon para Tommy Hilfiger Mixed Ithaca STP Rf3  Cam 
  date: 2019/11/03 17:35:31 +0000 
  comments: true 
- tags: B0759HJPYH 
+ tags: B0759HJPYH, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B0759HJPYH 

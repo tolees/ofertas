@@ -3,7 +3,7 @@
  title: B07LBG24GF: Ofertón en Amazon para Love Moschino - Borsa Soft Grain Pu  Bol 
  date: 2019/11/03 21:22:26 +0000 
  comments: true 
- tags: B07LBG24GF 
+ tags: B07LBG24GF, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07LBG24GF 

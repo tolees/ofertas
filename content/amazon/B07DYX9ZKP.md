@@ -3,7 +3,7 @@
  title: B07DYX9ZKP: Ofertón en Amazon para Columbia Chaqueta Polar con Media Cremal 
  date: 2019/11/03 17:40:17 +0000 
  comments: true 
- tags: B07DYX9ZKP 
+ tags: B07DYX9ZKP, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07DYX9ZKP 

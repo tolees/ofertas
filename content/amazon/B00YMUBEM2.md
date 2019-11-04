@@ -3,7 +3,7 @@
  title: B00YMUBEM2: Ofertón en Amazon para YUNIQUE  R  Drone WLtoys V686G FPV RC Qu 
  date: 2019/11/03 18:28:26 +0000 
  comments: true 
- tags: B00YMUBEM2 
+ tags: B00YMUBEM2, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00YMUBEM2 

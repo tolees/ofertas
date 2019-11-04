@@ -3,7 +3,7 @@
  title: B00WGLUELQ: Ofertón en Amazon para HP F6U68AE 302XL Cartucho de Tinta Origi 
  date: 2019/11/03 17:15:32 +0000 
  comments: true 
- tags: B00WGLUELQ 
+ tags: B00WGLUELQ, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00WGLUELQ 

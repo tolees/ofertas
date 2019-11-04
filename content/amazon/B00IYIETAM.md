@@ -3,7 +3,7 @@
  title: B00IYIETAM: Ofertón en Amazon para Braun CJ3050 - Exprimidor zumo de naranj 
  date: 2019/11/03 19:49:10 +0000 
  comments: true 
- tags: B00IYIETAM 
+ tags: B00IYIETAM, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00IYIETAM 

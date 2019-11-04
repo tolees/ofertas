@@ -3,7 +3,7 @@
  title: B078WVYGG4: Ofertón en Amazon para Cortefiel Vestido Manga Larga   Varios 3 
  date: 2019/11/03 18:52:54 +0000 
  comments: true 
- tags: B078WVYGG4 
+ tags: B078WVYGG4, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B078WVYGG4 

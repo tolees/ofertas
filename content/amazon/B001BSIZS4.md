@@ -3,7 +3,7 @@
  title: B001BSIZS4: Ofertón en Amazon para Tous Touch 100ml 
  date: 2019/11/03 20:27:26 +0000 
  comments: true 
- tags: B001BSIZS4 
+ tags: B001BSIZS4, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B001BSIZS4 
