@@ -1,9 +1,9 @@
 --- 
  layout: post 
  title: B07TJFVZQR: Ofertón en Amazon para Cámara espía FREDI HD 1080P WiFi Cámara  
- date: 2019/11/03 13:37:56 +0000 
+ date: 2019/11/05 08:05:37 +0000 
  comments: true 
- tags: B07TJFVZQR 
+ tags: B07TJFVZQR, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07TJFVZQR 

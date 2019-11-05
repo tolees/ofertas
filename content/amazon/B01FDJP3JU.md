@@ -1,9 +1,9 @@
 --- 
  layout: post 
  title: B01FDJP3JU: Ofertón en Amazon para Aceite de Chía -Aquisana | salud para nu 
- date: 2019/11/03 13:05:46 +0000 
+ date: 2019/11/05 08:30:20 +0000 
  comments: true 
- tags: B01FDJP3JU 
+ tags: B01FDJP3JU, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B01FDJP3JU 

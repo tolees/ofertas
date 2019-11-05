@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06X3QS3ZP: Ahorra en Kempa Curve Jersey de Entrenamiento  Hom 
- date: 2019/11/03 15:40:27 +0000 
+ date: 2019/11/05 07:57:51 +0000 
  comments: true 
  tags: B06X3QS3ZP 
  category: ofertas 

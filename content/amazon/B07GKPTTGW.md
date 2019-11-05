@@ -1,9 +1,9 @@
 --- 
  layout: post 
  title: B07GKPTTGW: Ofertón en Amazon para Levi s Big and Tall 501 Button Fly B&t V 
- date: 2019/11/03 14:08:55 +0000 
+ date: 2019/11/05 08:53:07 +0000 
  comments: true 
- tags: B07GKPTTGW 
+ tags: B07GKPTTGW, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07GKPTTGW 

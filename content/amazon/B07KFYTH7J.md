@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KFYTH7J: Ofertón en Amazon para Puma Carina Zapatillas Mujer   Bridal Ro 
- date: 2019/11/03 18:07:47 +0000 
+ date: 2019/11/04 22:03:48 +0000 
  comments: true 
  tags: B07KFYTH7J, oferta, amazon, chollo, descuento 
  category: ofertas 

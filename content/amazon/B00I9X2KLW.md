@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00I9X2KLW: Rebaja en Sony DSC-HX60 - Cámara compacta de 20.4  en Amazon 
- date: 2019/11/03 22:38:34 +0000 
+ date: 2019/11/05 08:32:37 +0000 
  comments: true 
  tags: B00I9X2KLW 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Sony DSC-HX60 - Cámara compacta de 20.4 Mp  pantalla de 3"  zoom óptico 30x  estabilizador óptico  vídeo Full HD   negro](https://www.amazon.es/dp/B00I9X2KLW/?tag=redken-21) por 191.2 EUR (original: 410 EUR) en el siguiente enlace! 
+ Está [Sony DSC-HX60 - Cámara compacta de 20.4 Mp  pantalla de 3"  zoom óptico 30x  estabilizador óptico  vídeo Full HD   negro](https://www.amazon.es/dp/B00I9X2KLW/?tag=redken-21) por 219 EUR (original: 410 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41W9E7oct4L._SL200_.jpg)](https://www.amazon.es/dp/B00I9X2KLW/?tag=redken-21) 
  
