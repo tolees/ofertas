@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B00DNDF2OU: Ahorra en Sony SmartWatch 2 - Android  pantalla LC 
+ date: 2019/11/08 08:26:44 +0000 
+ comments: true 
+ tags: B00DNDF2OU 
+ category: ofertas 
+ author: ring 
+ slug: B00DNDF2OU 
+ description: 
+ --- 
+ 
+ Ahora mismo tienes [Sony SmartWatch 2 - Android  pantalla LCD 1.6"  220x176   Bluetooth 3.0 con NFC  Color negro](https://www.amazon.es/dp/B00DNDF2OU/?tag=redken-21) a 99 EUR (original:  EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41fykLwsUKL._SL200_.jpg)](https://www.amazon.es/dp/B00DNDF2OU/?tag=redken-21) 
+ 
+ [Visítala!!!](https://www.amazon.es/dp/B00DNDF2OU/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

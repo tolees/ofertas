@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XSXD4TY: Ahorra en Moto G 5ª Generación Plus - Smartphone l 
- date: 2019/11/06 19:07:57 +0000 
+ date: 2019/11/08 07:31:29 +0000 
  comments: true 
  tags: B06XSXD4TY 
  category: ofertas 

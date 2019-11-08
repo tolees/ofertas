@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B07JNC7SRW: Ahorra en Android TV Box 9.0【4GB RAM+64GB ROM】 Liv 
+ date: 2019/11/08 08:14:56 +0000 
+ comments: true 
+ tags: B07JNC7SRW 
+ category: ofertas 
+ author: ring 
+ slug: B07JNC7SRW 
+ description: 
+ --- 
+ 
+ Ahora mismo tienes [Android TV Box 9.0【4GB RAM+64GB ROM】 Livebox TV Box RK3318 Quad Core 64 bit Cortex-A53 Smart TV Box  Wi-Fi-Dual 5G/2.4G  BT 4.1  Box TV UHD 4K TV  USB 3.0](https://www.amazon.es/dp/B07JNC7SRW/?tag=redken-21) a 52.99 EUR (original: 52.99 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51aSjhLckwL._SL200_.jpg)](https://www.amazon.es/dp/B07JNC7SRW/?tag=redken-21) 
+ 
+ [Visítala!!!](https://www.amazon.es/dp/B07JNC7SRW/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

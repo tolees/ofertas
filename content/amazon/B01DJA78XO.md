@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DJA78XO: Rebaja en Monopoly Electronic Banking  Versión Esp en Amazon 
- date: 2019/11/06 16:38:14 +0000 
+ date: 2019/11/08 09:11:28 +0000 
  comments: true 
  tags: B01DJA78XO 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Monopoly Electronic Banking  Versión Española    Hasbro B6677105 ](https://www.amazon.es/dp/B01DJA78XO/?tag=redken-21) por 22.2 EUR (original: 44 EUR) en el siguiente enlace! 
+ Está [Monopoly Electronic Banking  Versión Española    Hasbro B6677105 ](https://www.amazon.es/dp/B01DJA78XO/?tag=redken-21) por 30.4 EUR (original: 44 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51-2SDE-k9L._SL200_.jpg)](https://www.amazon.es/dp/B01DJA78XO/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNN17CM: Ahorra en LEGO City 60215 Feuerwehr-Station 
- date: 2019/11/04 23:52:26 +0000 
+ title: B07FNN17CM: Ahorra en LEGO 60215 City Fire Fire Station Garage 
+ date: 2019/11/08 08:47:10 +0000 
  comments: true 
  tags: B07FNN17CM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO City 60215 Feuerwehr-Station](https://www.amazon.es/dp/B07FNN17CM/?tag=redken-21) a 53.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 60215 City Fire Fire Station Garage Building Set with Truck Toy  Water Scooter  Drone and 3 Firefighter Minifigures plus Light and Sound Brick  Fireman Toys for Kids](https://www.amazon.es/dp/B07FNN17CM/?tag=redken-21) a 38.4 GBP (original: 59.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51t4%2BQG9wrL._SL200_.jpg)](https://www.amazon.es/dp/B07FNN17CM/?tag=redken-21) 
  
