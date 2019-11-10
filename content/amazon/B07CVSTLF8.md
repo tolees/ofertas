@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CVSTLF8: Rebaja en XuanPad Mini Proyector Multimedia Vídeo  en Amazon 
- date: 2019/11/07 16:55:11 +0000 
+ date: 2019/11/09 20:03:18 +0000 
  comments: true 
  tags: B07CVSTLF8 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [XuanPad Mini Proyector Multimedia Vídeo Proyector LCD  55000 Horas Proyector de Cine en casa con Sistema de Cine en casa](https://www.amazon.es/dp/B07CVSTLF8/?tag=redken-21) por 79.99 EUR (original: 198 EUR) en el siguiente enlace! 
+ Está [XuanPad Mini Proyector Multimedia Vídeo Proyector LCD  55000 Horas Proyector de Cine en casa con Sistema de Cine en casa](https://www.amazon.es/dp/B07CVSTLF8/?tag=redken-21) por 79.99 EUR (original: 299 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/418knE5ozaL._SL200_.jpg)](https://www.amazon.es/dp/B07CVSTLF8/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078MHSVVN: Ofertón en Amazon para Asics GT-1000 6  Zapatillas de Entrenami 
- date: 2019/11/07 15:49:04 +0000 
+ date: 2019/11/08 17:15:31 +0000 
  comments: true 
  tags: B078MHSVVN, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Asics GT-1000 6  Zapatillas de Entrenamiento para Mujer  Negro  Black/canteloupe/Carbon 9030   37.5 EU](https://www.amazon.es/dp/B078MHSVVN/?tag=redken-21) a precio de oferta de 39.9 EUR (original: 120 EUR) en el siguiente enlace! 
+ Tienes [Asics GT-1000 6  Zapatillas de Entrenamiento para Mujer  Negro  Black/canteloupe/Carbon 9030   37.5 EU](https://www.amazon.es/dp/B078MHSVVN/?tag=redken-21) a precio de oferta de 75.18 EUR (original: 120 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/418aXluflSL._SL200_.jpg)](https://www.amazon.es/dp/B078MHSVVN/?tag=redken-21) 
  

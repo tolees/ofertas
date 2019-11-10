@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079YC3YJT: Ofertón en Amazon para Funko Pop!- L3-37 Star Wars: Red Cup Fig 
- date: 2019/11/06 11:39:50 +0000 
+ date: 2019/11/10 09:21:38 +0000 
  comments: true 
  tags: B079YC3YJT, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Funko Pop!- L3-37 Star Wars: Red Cup Figura de Vinilo  Multicolor  26990 ](https://www.amazon.es/dp/B079YC3YJT/?tag=redken-21) a precio de oferta de 5.4 EUR (original: 15.95 EUR) en el siguiente enlace! 
+ Tienes [Funko Pop!- L3-37 Star Wars: Red Cup Figura de Vinilo  Multicolor  26990 ](https://www.amazon.es/dp/B079YC3YJT/?tag=redken-21) a precio de oferta de 5.22 EUR (original: 15.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41h-GzbX%2BTL._SL200_.jpg)](https://www.amazon.es/dp/B079YC3YJT/?tag=redken-21) 
  

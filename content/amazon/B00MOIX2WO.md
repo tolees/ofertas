@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MOIX2WO: Ofertón en Amazon para Beurer IPL9000 + - Depiladora de luz  pu 
- date: 2019/11/07 18:23:37 +0000 
+ date: 2019/11/09 18:52:27 +0000 
  comments: true 
  tags: B00MOIX2WO, oferta, amazon, chollo, descuento 
  category: ofertas 

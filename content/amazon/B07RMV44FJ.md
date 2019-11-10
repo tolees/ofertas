@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RMV44FJ: Rebaja en Telémetro láser 50m  TECCPO Medidor láse en Amazon 
- date: 2019/11/06 14:23:08 +0000 
+ date: 2019/11/08 23:02:16 +0000 
  comments: true 
  tags: B07RMV44FJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Telémetro láser 50m  TECCPO Medidor láser con Sensor de ángulo electrónico  m/in/ft/ft+in  Función de silencio  30 Almacenamiento de Datos  Distancia  área  volumen de Pythagore  ángulo  IP54  TDLM21P](https://www.amazon.es/dp/B07RMV44FJ/?tag=redken-21) por 19.54 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Está [Telémetro láser 50m  TECCPO Medidor láser con Sensor de ángulo electrónico  m/in/ft/ft+in  Función de silencio  30 Almacenamiento de Datos  Distancia  área  volumen de Pythagore  ángulo  IP54  TDLM21P](https://www.amazon.es/dp/B07RMV44FJ/?tag=redken-21) por 25.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51QJrDkhWxL._SL200_.jpg)](https://www.amazon.es/dp/B07RMV44FJ/?tag=redken-21) 
  

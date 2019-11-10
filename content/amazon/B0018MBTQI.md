@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0018MBTQI: Rebaja en Dickies Short Sleeve Work Shirt Camisa   en Amazon 
- date: 2019/11/07 11:08:07 +0000 
+ date: 2019/11/10 04:21:44 +0000 
  comments: true 
  tags: B0018MBTQI 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Dickies Short Sleeve Work Shirt Camisa  Azul  Royal Blue   S para Hombre](https://www.amazon.es/dp/B0018MBTQI/?tag=redken-21) por 16.45 EUR (original: 45 EUR) en el siguiente enlace! 
+ Está [Dickies Short Sleeve Work Shirt Camisa  Azul  Royal Blue   S para Hombre](https://www.amazon.es/dp/B0018MBTQI/?tag=redken-21) por 15 EUR (original: 45 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41nngufYv0L._SL200_.jpg)](https://www.amazon.es/dp/B0018MBTQI/?tag=redken-21) 
  

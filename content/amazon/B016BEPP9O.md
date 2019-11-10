@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016BEPP9O: Ahorra en Kingston DT100G3/128GB DataTraveler 100  
- date: 2019/11/07 13:54:42 +0000 
+ date: 2019/11/09 20:32:36 +0000 
  comments: true 
  tags: B016BEPP9O 
  category: ofertas 

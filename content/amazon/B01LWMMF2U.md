@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LWMMF2U: Ofertón en Amazon para Panasonic Lumix DMC-G80M MILC 16MP Live  
- date: 2019/11/06 18:08:50 +0000 
+ date: 2019/11/09 14:41:19 +0000 
  comments: true 
  tags: B01LWMMF2U, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MQZWY65: Ofertón en Amazon para Camara Vigilancia SUPEREYE 1080P Cámara  
- date: 2019/11/08 08:16:28 +0000 
+ date: 2019/11/09 09:02:56 +0000 
  comments: true 
  tags: B07MQZWY65, oferta, amazon, chollo, descuento 
  category: ofertas 

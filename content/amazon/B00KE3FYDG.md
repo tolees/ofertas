@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KE3FYDG: Ahorra en Merc of London Winston - Pantalón chino  
- date: 2019/11/08 06:04:21 +0000 
+ date: 2019/11/09 10:07:04 +0000 
  comments: true 
  tags: B00KE3FYDG 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Merc of London Winston - Pantalón chino para hombre  Negro  Black   W34/L30](https://www.amazon.es/dp/B00KE3FYDG/?tag=redken-21) a 34.55 EUR (original: 34.55 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Merc of London Winston - Pantalón chino para hombre  Negro  Black   W34/L30](https://www.amazon.es/dp/B00KE3FYDG/?tag=redken-21) a 34.19 EUR (original: 70 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41bSmeGU0wL._SL200_.jpg)](https://www.amazon.es/dp/B00KE3FYDG/?tag=redken-21) 
  

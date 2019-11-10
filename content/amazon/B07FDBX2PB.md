@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDBX2PB: Rebaja en Henry London Reloj Analógico para Unisex en Amazon 
- date: 2019/11/07 08:43:22 +0000 
+ date: 2019/11/09 11:27:50 +0000 
  comments: true 
  tags: B07FDBX2PB 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero HL34-S-0342](https://www.amazon.es/dp/B07FDBX2PB/?tag=redken-21) por 36.22 EUR (original: 133.18 EUR) en el siguiente enlace! 
+ Está [Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero HL34-S-0342](https://www.amazon.es/dp/B07FDBX2PB/?tag=redken-21) por 35.88 EUR (original: 133.18 EUR) en el siguiente enlace! 
  
  [![](._SL200_)](https://www.amazon.es/dp/B07FDBX2PB/?tag=redken-21) 
  
