@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AJWNXAM: Ofertón en Amazon para Maxtor HX-M201TCB/GM - Disco Duro Extern 
- date: 2019/11/08 15:35:12 +0000 
+ date: 2019/11/11 17:46:42 +0000 
  comments: true 
  tags: B01AJWNXAM, oferta, amazon, chollo, descuento 
  category: ofertas 
