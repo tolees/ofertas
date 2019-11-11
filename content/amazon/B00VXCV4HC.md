@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VXCV4HC: Ofertón en Amazon para G-Star RAW Stean Tapered  Vaqueros para  
- date: 2019/11/10 14:41:13 +0000 
+ date: 2019/11/11 21:12:10 +0000 
  comments: true 
  tags: B00VXCV4HC, oferta, amazon, chollo, descuento 
  category: ofertas 
