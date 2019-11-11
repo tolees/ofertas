@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073SBZ8YH: Ofertón en Amazon para Western Digital WDS500G2B0A WD Blue 500G 
- date: 2019/11/08 08:36:08 +0000 
+ date: 2019/11/11 06:22:40 +0000 
  comments: true 
  tags: B073SBZ8YH, oferta, amazon, chollo, descuento 
  category: ofertas 
