@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FCMBLV6: Ahorra en SanDisk Extreme - Tarjeta de memoria mic 
- date: 2019/11/10 10:17:00 +0000 
+ date: 2019/11/11 15:38:41 +0000 
  comments: true 
  tags: B07FCMBLV6 
  category: ofertas 

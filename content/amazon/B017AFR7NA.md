@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B017AFR7NA: Ahorra en Polaroid PLD 3013/S Y2 T12 57 Gafas de s 
+ date: 2019/11/11 12:31:13 +0000 
+ comments: true 
+ tags: B017AFR7NA 
+ category: ofertas 
+ author: ring 
+ slug: B017AFR7NA 
+ description: 
+ --- 
+ 
+ Ahora mismo tienes [Polaroid PLD 3013/S Y2 T12 57 Gafas de sol  Verde  Dark Khaki/Grey Pz   Hombre](https://www.amazon.es/dp/B017AFR7NA/?tag=redken-21) a 31.48 EUR (original: 61 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41DRS5xX0OL._SL200_.jpg)](https://www.amazon.es/dp/B017AFR7NA/?tag=redken-21) 
+ 
+ [Visítala!!!](https://www.amazon.es/dp/B017AFR7NA/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
