@@ -34,10 +34,12 @@ PROJECTS = [{'name': '🇮🇹 Italia dsconti', 'url': 'https://t.me/dsconti'},
  {'name': '🎎Playmobil', 'url': 'https://t.me/estodoplaymobil'},
  {'name': '🧸Juguetes', 'url': 'https://t.me/estodojuguetes'},
  {'name': '🤯Funko', 'url': 'https://t.me/estodofunko'},
+ {'name': '🎅🎄🤶🎁 Navidad', 'url':'https://t.me/esnavidad'},
  {'name': '🤑Errores de precio', 'url': 'https://t.me/errores_de_precio'},
  {'name': '📊Mínimos históricos', 'url': 'https://t.me/minimos_historicos'},
  {'name': '🛍Ofertas con 25% o más de descuento', 'url': 'https://t.me/amazonofertas25'},
  {'name': '🛍Ofertas con 50% o más de descuento', 'url': 'https://t.me/joinchat/AAAAAFSZXxC24V2PeMtTSg'},
+ {'name': '🛍Ofertas con 70% o más de descuento', 'url': 'https://t.me/joinchat/AAAAAFP-Sa1NBQFpTcYKlA'},
  {'name': '🛍 Todas las ofertas', 'url': 'https://t.me/amazonfertas'}]
 
 
