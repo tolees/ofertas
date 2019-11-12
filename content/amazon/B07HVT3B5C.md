@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HVT3B5C: Ofertón en Amazon para Auriculares Bluetooth Inalámbricos  Vigo 
- date: 2019/11/11 04:15:17 +0000 
+ date: 2019/11/12 06:01:12 +0000 
  comments: true 
  tags: B07HVT3B5C, oferta, amazon, chollo, descuento 
  category: ofertas 

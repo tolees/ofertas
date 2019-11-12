@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B01N7G0KEG: Rebaja en deAO RC Coche TodoTerreno Rock Crawler 4 en Amazon 
+ title: B01N7G0KEG: Ofertón en Amazon para deAO RC Coche TodoTerreno Rock Crawler 4 
  date: 2019/11/11 12:20:20 +0000 
  comments: true 
- tags: B01N7G0KEG 
+ tags: B01N7G0KEG, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B01N7G0KEG 
  description: 
  --- 
  
- Está [deAO RC Coche TodoTerreno Rock Crawler 4x4 a Control Remoto - 1:18 Rastreador de Roca 2.4GHz Sync System modo Multi Jugador  Rojo ](https://www.amazon.es/dp/B01N7G0KEG/?tag=redken-21) por 22.99 EUR (original: 38.99 EUR) en el siguiente enlace! 
+ Tienes [deAO RC Coche TodoTerreno Rock Crawler 4x4 a Control Remoto - 1:18 Rastreador de Roca 2.4GHz Sync System modo Multi Jugador  Rojo ](https://www.amazon.es/dp/B01N7G0KEG/?tag=redken-21) a precio de oferta de 22.99 EUR (original: 38.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51GqBhVDOoL._SL200_.jpg)](https://www.amazon.es/dp/B01N7G0KEG/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B01N7G0KEG/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B01N7G0KEG/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
