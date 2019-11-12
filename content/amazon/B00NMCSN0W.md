@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B00NMCSN0W: Rebaja en Easypix GoXtreme - Cámara Video con WiFi en Amazon 
- date: 2019/11/09 15:06:16 +0000 
+ title: B00NMCSN0W: Ofertón en Amazon para Easypix GoXtreme - Cámara Video con WiFi 
+ date: 2019/11/12 08:24:20 +0000 
  comments: true 
- tags: B00NMCSN0W 
+ tags: B00NMCSN0W, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00NMCSN0W 
  description: 
  --- 
  
- Está [Easypix GoXtreme - Cámara Video con WiFi  Plata](https://www.amazon.es/dp/B00NMCSN0W/?tag=redken-21) por 60 EUR (original: 119 EUR) en el siguiente enlace! 
+ Tienes [Easypix GoXtreme - Cámara Video con WiFi  Plata](https://www.amazon.es/dp/B00NMCSN0W/?tag=redken-21) a precio de oferta de 60 EUR (original: 119 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41NKxux8ZVL._SL200_.jpg)](https://www.amazon.es/dp/B00NMCSN0W/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B00NMCSN0W/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B00NMCSN0W/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

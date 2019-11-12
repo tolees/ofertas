@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07R5PSTC9: Ofertón en Amazon para Xiaomi Redmi AirDots -  Bluetooth Auricu 
- date: 2019/11/11 13:12:47 +0000 
+ date: 2019/11/12 18:42:44 +0000 
  comments: true 
  tags: B07R5PSTC9, oferta, amazon, chollo, descuento 
  category: ofertas 

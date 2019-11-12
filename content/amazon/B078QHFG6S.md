@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078QHFG6S: Ofertón en Amazon para Teva M Voya Canvas Flip  Chanclas para H 
- date: 2019/11/10 23:37:06 +0000 
+ date: 2019/11/12 08:33:22 +0000 
  comments: true 
  tags: B078QHFG6S, oferta, amazon, chollo, descuento 
  category: ofertas 
