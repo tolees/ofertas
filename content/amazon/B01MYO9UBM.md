@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MYO9UBM: Rebaja en Acer Spin 7 - Ordenador portátil convert en Amazon 
- date: 2019/11/12 08:56:45 +0000 
+ date: 2019/11/13 11:04:35 +0000 
  comments: true 
  tags: B01MYO9UBM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Acer Spin 7 - Ordenador portátil convertible de 14" Full HD  Intel Core i7  8 GB de RAM  256 GB SSD  UMA  Windows 10 Home   negro](https://www.amazon.es/dp/B01MYO9UBM/?tag=redken-21) por 824.97 EUR (original: 1299.99 EUR) en el siguiente enlace! 
+ Está [Acer Spin 7 - Ordenador portátil convertible de 14" Full HD  Intel Core i7  8 GB de RAM  256 GB SSD  UMA  Windows 10 Home   negro](https://www.amazon.es/dp/B01MYO9UBM/?tag=redken-21) por 821.69 EUR (original: 1299.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41pJ-YLwxSL._SL200_.jpg)](https://www.amazon.es/dp/B01MYO9UBM/?tag=redken-21) 
  

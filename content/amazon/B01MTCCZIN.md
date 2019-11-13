@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01MTCCZIN: Rebaja en Ocean Eye Gafas de Sol   Oro/Verde   58  en Amazon 
- date: 2019/11/11 17:45:29 +0000 
+ title: B01MTCCZIN: Rebaja en Ocean Eye Gafas de sol  Verde  Oro/verde en Amazon 
+ date: 2019/11/13 14:25:22 +0000 
  comments: true 
  tags: B01MTCCZIN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Ocean Eye Gafas de Sol   Oro/Verde   58 Unisex Adulto](https://www.amazon.es/dp/B01MTCCZIN/?tag=redken-21) por 26.01 EUR (original: 119 EUR) en el siguiente enlace! 
+ Está [Ocean Eye Gafas de sol  Verde  Oro/verde   58 Unisex Adulto](https://www.amazon.es/dp/B01MTCCZIN/?tag=redken-21) por 25.99 EUR (original: 119 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31z9h6v9VxL._SL200_.jpg)](https://www.amazon.es/dp/B01MTCCZIN/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KXSTVRJ: Ahorra en Jack & Jones NOS JJEDESERT Bomber Noos C 
- date: 2019/11/11 20:39:19 +0000 
+ date: 2019/11/13 11:08:43 +0000 
  comments: true 
  tags: B07KXSTVRJ 
  category: ofertas 

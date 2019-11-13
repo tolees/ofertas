@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01DVJBCG2: Ahorra en Samsonite 63416/1251 Attack SLG Monedero 
- date: 2019/11/12 09:33:17 +0000 
+ date: 2019/11/13 11:24:34 +0000 
  comments: true 
  tags: B01DVJBCG2 
  category: ofertas 
