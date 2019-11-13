@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G3MDMBJ: Ofertón en Amazon para Motorola One - Smartphone Android One  p 
- date: 2019/11/11 23:51:08 +0000 
+ date: 2019/11/13 01:02:06 +0000 
  comments: true 
  tags: B07G3MDMBJ, oferta, amazon, chollo, descuento 
  category: ofertas 

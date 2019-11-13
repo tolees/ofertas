@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00YOMKOTM: Ofertón en Amazon para Bosch Sensixx x DA30 TDA302801W - Planch 
- date: 2019/11/10 15:08:19 +0000 
+ date: 2019/11/12 23:14:25 +0000 
  comments: true 
  tags: B00YOMKOTM, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074SWF9SM: Ofertón en Amazon para Hurley Phantom One&Only 18 Bañador  Homb 
- date: 2019/11/11 17:13:37 +0000 
+ date: 2019/11/13 09:02:55 +0000 
  comments: true 
  tags: B074SWF9SM, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Hurley Phantom One&Only 18 Bañador  Hombre  Negro  S/31](https://www.amazon.es/dp/B074SWF9SM/?tag=redken-21) a precio de oferta de 23.62 EUR (original: 55 EUR) en el siguiente enlace! 
+ Tienes [Hurley Phantom One&Only 18 Bañador  Hombre  Negro  S/31](https://www.amazon.es/dp/B074SWF9SM/?tag=redken-21) a precio de oferta de 23.45 EUR (original: 55 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/413Du4EydnL._SL200_.jpg)](https://www.amazon.es/dp/B074SWF9SM/?tag=redken-21) 
  
