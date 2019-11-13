@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GQFWPJG: Rebaja en Clarks Coling Limit  Zapatos de Cordones en Amazon 
- date: 2019/11/12 11:24:14 +0000 
+ date: 2019/11/13 15:45:01 +0000 
  comments: true 
  tags: B01GQFWPJG 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Clarks Coling Limit  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   44.5 EU](https://www.amazon.es/dp/B01GQFWPJG/?tag=redken-21) por 81.78 EUR (original: 150 EUR) en el siguiente enlace! 
+ Está [Clarks Coling Limit  Zapatos de Cordones Derby para Hombre  Negro  Black Leather   44.5 EU](https://www.amazon.es/dp/B01GQFWPJG/?tag=redken-21) por 81.21 EUR (original: 150 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Mvtg2k61L._SL200_.jpg)](https://www.amazon.es/dp/B01GQFWPJG/?tag=redken-21) 
  
