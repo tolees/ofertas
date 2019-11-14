@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CJKREL6: Ofertón en Amazon para Carrera 5030/S NH QW1 Gafas de sol  Rosa 
- date: 2019/11/11 23:00:37 +0000 
+ date: 2019/11/14 07:00:59 +0000 
  comments: true 
  tags: B01CJKREL6, oferta, amazon, chollo, descuento 
  category: ofertas 
