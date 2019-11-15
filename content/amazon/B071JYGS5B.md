@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071JYGS5B: Rebaja en Apple MacBook  de 12 pulgadas: Intel Cor en Amazon 
- date: 2019/11/14 07:31:01 +0000 
+ date: 2019/11/15 09:42:22 +0000 
  comments: true 
  tags: B071JYGS5B 
  category: ofertas 

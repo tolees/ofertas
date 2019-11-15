@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CVSTLF8: Ofertón en Amazon para XuanPad Mini Proyector Multimedia Vídeo  
- date: 2019/11/13 10:40:55 +0000 
+ date: 2019/11/15 14:04:09 +0000 
  comments: true 
  tags: B07CVSTLF8, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00UEMEI20: Rebaja en PHILIPS - PicoPix Fun PPX4350 I Proyecto en Amazon 
- date: 2019/11/11 09:20:18 +0000 
+ date: 2019/11/15 00:12:46 +0000 
  comments: true 
  tags: B00UEMEI20 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [PHILIPS - PicoPix Fun PPX4350 I Proyector Portátil 1080p |Altavoz incorporado | Hasta 60 Pulgadas | 50 Lúmenes](https://www.amazon.es/dp/B00UEMEI20/?tag=redken-21) por 198.57 EUR (original: 349.99 EUR) en el siguiente enlace! 
+ Está [PHILIPS - PicoPix Fun PPX4350 I Proyector Portátil 1080p |Altavoz incorporado | Hasta 60 Pulgadas | 50 Lúmenes](https://www.amazon.es/dp/B00UEMEI20/?tag=redken-21) por 199 EUR (original: 349.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31V0jwNpigL._SL200_.jpg)](https://www.amazon.es/dp/B00UEMEI20/?tag=redken-21) 
  

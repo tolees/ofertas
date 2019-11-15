@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNW8PF6: Ofertón en Amazon para THE LEGO MOVIE 2 70827 Ultrakatty & Krie 
- date: 2019/11/13 06:18:40 +0000 
+ date: 2019/11/15 09:35:23 +0000 
  comments: true 
  tags: B07FNW8PF6, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!](https://www.amazon.es/dp/B07FNW8PF6/?tag=redken-21) a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes [THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!](https://www.amazon.es/dp/B07FNW8PF6/?tag=redken-21) a precio de oferta de 19.94 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51OzfNWS-VL._SL200_.jpg)](https://www.amazon.es/dp/B07FNW8PF6/?tag=redken-21) 
  

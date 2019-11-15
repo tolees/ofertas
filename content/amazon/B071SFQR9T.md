@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071SFQR9T: Rebaja en Bluedio F2  Faith  Auriculares inalámbri en Amazon 
- date: 2019/11/12 12:56:56 +0000 
+ date: 2019/11/14 17:08:40 +0000 
  comments: true 
  tags: B071SFQR9T 
  category: ofertas 

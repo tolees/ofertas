@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XZRPZDN: Rebaja en Philips Everplay BT6900B - Altavoz Bluet en Amazon 
- date: 2019/11/12 10:14:00 +0000 
+ date: 2019/11/14 15:09:39 +0000 
  comments: true 
  tags: B06XZRPZDN 
  category: ofertas 

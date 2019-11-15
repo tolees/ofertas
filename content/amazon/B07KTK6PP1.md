@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07KTK6PP1: Ofertón en Amazon para LEGO Classic 11004 - Bausteine kreativ m 
- date: 2019/11/13 06:18:40 +0000 
+ title: B07KTK6PP1: Rebaja en LEGO Classic - Ventanas Creativas Nuevo  en Amazon 
+ date: 2019/11/15 09:42:22 +0000 
  comments: true 
- tags: B07KTK6PP1, oferta, amazon, chollo, descuento 
+ tags: B07KTK6PP1 
  category: ofertas 
  author: ring 
  slug: B07KTK6PP1 
  description: 
  --- 
  
- Tienes [LEGO Classic 11004 - Bausteine kreativ mit Fenstern  Bauset](https://www.amazon.es/dp/B07KTK6PP1/?tag=redken-21) a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Está [LEGO Classic - Ventanas Creativas Nuevo juguete de construcción creativo de Ladrillos Clásicos de Colores  11004 ](https://www.amazon.es/dp/B07KTK6PP1/?tag=redken-21) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/618xcKQc7WL._SL200_.jpg)](https://www.amazon.es/dp/B07KTK6PP1/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B07KTK6PP1/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07KTK6PP1/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

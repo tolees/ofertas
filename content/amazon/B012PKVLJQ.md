@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B012PKVLJQ: Ahorra en Tarjeta Lexar High-Performance 256GB 633 
- date: 2019/11/13 13:47:39 +0000 
+ date: 2019/11/14 14:39:16 +0000 
  comments: true 
  tags: B012PKVLJQ 
  category: ofertas 

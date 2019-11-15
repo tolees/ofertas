@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B01IJZQXT4: Ofertón en Amazon para Philips SB300B/00 - Altavoz Bluetooth po 
- date: 2019/11/12 15:44:03 +0000 
+ title: B01IJZQXT4: Rebaja en Philips SB300B/00 - Altavoz Bluetooth po en Amazon 
+ date: 2019/11/15 10:48:34 +0000 
  comments: true 
- tags: B01IJZQXT4, oferta, amazon, chollo, descuento 
+ tags: B01IJZQXT4 
  category: ofertas 
  author: ring 
  slug: B01IJZQXT4 
  description: 
  --- 
  
- Tienes [Philips SB300B/00 - Altavoz Bluetooth portátil inalámbrico  Luces LED  a Prueba de Agua IPX7 y Golpes  LED Multicolor   Negro](https://www.amazon.es/dp/B01IJZQXT4/?tag=redken-21) a precio de oferta de 32.03 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Está [Philips SB300B/00 - Altavoz Bluetooth portátil inalámbrico  Luces LED  a Prueba de Agua IPX7 y Golpes  LED Multicolor   Negro](https://www.amazon.es/dp/B01IJZQXT4/?tag=redken-21) por 30.04 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg)](https://www.amazon.es/dp/B01IJZQXT4/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B01IJZQXT4/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B01IJZQXT4/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
