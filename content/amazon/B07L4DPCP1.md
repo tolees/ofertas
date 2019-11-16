@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L4DPCP1: Ofertón en Amazon para LEGO 41337 - Friends Schaukel mit Loopin 
- date: 2019/11/15 09:42:22 +0000 
+ date: 2019/11/16 09:58:39 +0000 
  comments: true 
  tags: B07L4DPCP1, oferta, amazon, chollo, descuento 
  category: ofertas 

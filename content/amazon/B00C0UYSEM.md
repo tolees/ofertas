@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00C0UYSEM: Rebaja en deAO Taller Mecánico Plegable Maletín He en Amazon 
- date: 2019/11/12 15:38:45 +0000 
+ date: 2019/11/16 12:42:08 +0000 
  comments: true 
  tags: B00C0UYSEM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [deAO Taller Mecánico Plegable Maletín Herramientas y Accesorios de Juguete Playset Portátil Juego de Imitación Conjunto Incluye 60 Accesorios y Taladro](https://www.amazon.es/dp/B00C0UYSEM/?tag=redken-21) por 23.39 EUR (original: 43.99 EUR) en el siguiente enlace! 
+ Está [deAO Taller Mecánico Plegable Maletín Herramientas y Accesorios de Juguete Playset Portátil Juego de Imitación Conjunto Incluye 60 Accesorios y Taladro para Niños y Niñas](https://www.amazon.es/dp/B00C0UYSEM/?tag=redken-21) por 23.39 EUR (original: 43.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51l0QAwaeVL._SL200_.jpg)](https://www.amazon.es/dp/B00C0UYSEM/?tag=redken-21) 
  
