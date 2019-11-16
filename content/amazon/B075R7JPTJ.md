@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075R7JPTJ: Rebaja en New Balance Fresh Foam Cruz v2  Zapatill en Amazon 
- date: 2019/11/15 13:30:21 +0000 
+ date: 2019/11/16 15:16:06 +0000 
  comments: true 
  tags: B075R7JPTJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [New Balance Fresh Foam Cruz v2  Zapatillas para Mujer  Azul  Smoke Blue/Light Petrol Ns2   36 EU](https://www.amazon.es/dp/B075R7JPTJ/?tag=redken-21) por 28 EUR (original: 95 EUR) en el siguiente enlace! 
+ Está [New Balance Fresh Foam Cruz v2  Zapatillas para Mujer  Azul  Smoke Blue/Light Petrol Ns2   36 EU](https://www.amazon.es/dp/B075R7JPTJ/?tag=redken-21) por 26.88 EUR (original: 95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51hDqt5AY5L._SL200_.jpg)](https://www.amazon.es/dp/B075R7JPTJ/?tag=redken-21) 
  
