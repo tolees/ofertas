@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L9PTXRP: Ofertón en Amazon para Napapijri Rainforest M Sum 1 New Olive G 
- date: 2019/11/16 10:27:12 +0000 
+ date: 2019/11/17 13:33:41 +0000 
  comments: true 
  tags: B07L9PTXRP, oferta, amazon, chollo, descuento 
  category: ofertas 

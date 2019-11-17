@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JZOO2UG: Ofertón en Amazon para Imetec Intellisense manta eléctrica indi 
- date: 2019/11/13 12:38:23 +0000 
+ date: 2019/11/17 20:28:37 +0000 
  comments: true 
  tags: B00JZOO2UG, oferta, amazon, chollo, descuento 
  category: ofertas 

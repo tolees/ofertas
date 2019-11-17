@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CSN5DZ4: Ahorra en Columbia Fast Trek II Chaqueta Polar par 
- date: 2019/11/16 14:49:23 +0000 
+ date: 2019/11/17 16:43:31 +0000 
  comments: true 
  tags: B00CSN5DZ4 
  category: ofertas 

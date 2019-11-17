@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNTTF4K: Ofertón en Amazon para LEGO 75242 Star Wars Black Ace Tie Inter 
- date: 2019/11/14 20:49:50 +0000 
+ title: B07FNTTF4K: Ofertón en Amazon para LEGO Star Wars 75242 - Resistance Tie In 
+ date: 2019/11/16 09:55:08 +0000 
  comments: true 
  tags: B07FNTTF4K, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO 75242 Star Wars Black Ace Tie Interceptor Starfighter Set Includes mini BB-8 and Poe Dameron Minifigures  Resistance TV Show  Multi-Colour](https://www.amazon.es/dp/B07FNTTF4K/?tag=redken-21) a precio de oferta de 29.99 GBP (original: 44.99 GBP) en el siguiente enlace! 
+ Tienes [LEGO Star Wars 75242 - Resistance Tie Interceptor mit Allianz-Pilot  Spielzeug](https://www.amazon.es/dp/B07FNTTF4K/?tag=redken-21) a precio de oferta de 32.2 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51WF8vf0kwL._SL200_.jpg)](https://www.amazon.es/dp/B07FNTTF4K/?tag=redken-21) 
  

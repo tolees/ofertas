@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079FZYD7G: Ofertón en Amazon para Energy Phone Pro 4G Navy  4G  Quad-Core  
- date: 2019/11/15 10:18:31 +0000 
+ date: 2019/11/17 11:49:36 +0000 
  comments: true 
  tags: B079FZYD7G, oferta, amazon, chollo, descuento 
  category: ofertas 

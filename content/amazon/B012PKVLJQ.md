@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B012PKVLJQ: Rebaja en Tarjeta Lexar High-Performance 256GB 633 en Amazon 
- date: 2019/11/14 14:39:16 +0000 
+ date: 2019/11/17 20:57:18 +0000 
  comments: true 
  tags: B012PKVLJQ 
  category: ofertas 
