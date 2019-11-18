@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073ZMBZPH: Rebaja en WD My Book Duo Disco duro externo de Sob en Amazon 
- date: 2019/11/14 19:34:20 +0000 
+ date: 2019/11/18 16:49:47 +0000 
  comments: true 
  tags: B073ZMBZPH 
  category: ofertas 

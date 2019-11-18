@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNW8PF6: Ofertón en Amazon para THE LEGO MOVIE 2 70827 Ultrakatty & Krie 
- date: 2019/11/16 09:55:08 +0000 
+ date: 2019/11/18 09:29:29 +0000 
  comments: true 
  tags: B07FNW8PF6, oferta, amazon, chollo, descuento 
  category: ofertas 

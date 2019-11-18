@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CFHFLF7: Ahorra en JACK & JONES Jjebasic Knit V-Neck Noos s 
- date: 2019/11/16 06:40:37 +0000 
+ date: 2019/11/18 08:59:02 +0000 
  comments: true 
  tags: B07CFHFLF7 
  category: ofertas 

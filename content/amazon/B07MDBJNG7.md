@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MDBJNG7: Rebaja en G-STAR RAW 3301 Slim Jacket Chaqueta  Az en Amazon 
- date: 2019/11/17 16:35:40 +0000 
+ date: 2019/11/18 21:23:25 +0000 
  comments: true 
  tags: B07MDBJNG7 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [G-STAR RAW 3301 Slim Jacket Chaqueta  Azul  Medium Aged Fringe A172   Small para Mujer](https://www.amazon.es/dp/B07MDBJNG7/?tag=redken-21) por 37.36 EUR (original: 129.95 EUR) en el siguiente enlace! 
+ Está [G-STAR RAW 3301 Slim Jacket Chaqueta  Azul  Medium Aged Fringe A172   Small para Mujer](https://www.amazon.es/dp/B07MDBJNG7/?tag=redken-21) por 35.87 EUR (original: 129.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41f6vpXB7lL._SL200_.jpg)](https://www.amazon.es/dp/B07MDBJNG7/?tag=redken-21) 
  

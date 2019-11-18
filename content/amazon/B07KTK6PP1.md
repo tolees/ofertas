@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTK6PP1: Ofertón en Amazon para LEGO Classic 11004 - Bausteine kreativ m 
- date: 2019/11/16 09:55:08 +0000 
+ date: 2019/11/18 09:34:34 +0000 
  comments: true 
  tags: B07KTK6PP1, oferta, amazon, chollo, descuento 
  category: ofertas 
