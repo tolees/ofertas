@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HIXQMEO: Ofertón en Amazon para AmazonBasics - Mochila para cámara  para 
- date: 2019/11/18 17:04:16 +0000 
+ date: 2019/11/19 19:33:30 +0000 
  comments: true 
  tags: B01HIXQMEO, oferta, amazon, chollo, descuento 
  category: ofertas 

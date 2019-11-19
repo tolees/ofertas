@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00WVGZTHK: Ofertón en Amazon para BLACK+DECKER KS501-QS - Sierra de calar  
- date: 2019/11/18 13:17:14 +0000 
+ date: 2019/11/19 15:06:48 +0000 
  comments: true 
  tags: B00WVGZTHK, oferta, amazon, chollo, descuento 
  category: ofertas 

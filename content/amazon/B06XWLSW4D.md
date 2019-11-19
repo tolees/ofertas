@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XWLSW4D: Ofertón en Amazon para Enkeeo 20-60x60AE Telescopio Monocular c 
- date: 2019/11/17 11:10:40 +0000 
+ date: 2019/11/19 10:12:17 +0000 
  comments: true 
  tags: B06XWLSW4D, oferta, amazon, chollo, descuento 
  category: ofertas 

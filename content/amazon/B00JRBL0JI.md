@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00JRBL0JI: Rebaja en Nerf - Lanzadardos Strongarm Elite  Hasb en Amazon 
- date: 2019/11/17 20:28:37 +0000 
+ date: 2019/11/19 16:37:51 +0000 
  comments: true 
  tags: B00JRBL0JI 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Nerf - Lanzadardos Strongarm Elite  Hasbro 36033E35 ](https://www.amazon.es/dp/B00JRBL0JI/?tag=redken-21) por 14.99 EUR (original: 28 EUR) en el siguiente enlace! 
+ Está [Nerf - Lanzadardos Strongarm Elite  Hasbro 36033E35 . Exclusivo de Amazon.](https://www.amazon.es/dp/B00JRBL0JI/?tag=redken-21) por 14.99 EUR (original: 28 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41hGzHDlTdL._SL200_.jpg)](https://www.amazon.es/dp/B00JRBL0JI/?tag=redken-21) 
  

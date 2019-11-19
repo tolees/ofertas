@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JNDLCDF: Ofertón en Amazon para DAM TEKKIWEAR. DMX222BK. Pulsera Intelig 
- date: 2019/11/18 09:57:17 +0000 
+ date: 2019/11/19 10:42:01 +0000 
  comments: true 
  tags: B07JNDLCDF, oferta, amazon, chollo, descuento 
  category: ofertas 
