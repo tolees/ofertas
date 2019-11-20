@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNWJ12T: Ofertón en Amazon para LEGO Película 2 - Fiestabús Pop-Up  set  
- date: 2019/11/18 06:46:05 +0000 
+ title: B07FNWJ12T: Ofertón en Amazon para LEGO 70828 Movie 2 with 2 Buildable Figu 
+ date: 2019/11/18 08:56:07 +0000 
  comments: true 
  tags: B07FNWJ12T, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO Película 2 - Fiestabús Pop-Up  set divertido para construir autobús de juguete convertible en pista de baile  70828 ](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21) a precio de oferta de 63.66 EUR (original: 99.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO 70828 Movie 2 with 2 Buildable Figures Unikitty as Disco Kitty and Zebe  plus Tempo and Melody Mini dolls Constrution Set](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21) a precio de oferta de 49.98 GBP (original: 79.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/514SyurffVL._SL200_.jpg)](https://www.amazon.es/dp/B07FNWJ12T/?tag=redken-21) 
  
