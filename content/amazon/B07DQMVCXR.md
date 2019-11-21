@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DQMVCXR: Ofertón en Amazon para Relojes Hombres Deportes Reloj Cronógraf 
- date: 2019/11/18 11:16:48 +0000 
+ date: 2019/11/20 08:57:09 +0000 
  comments: true 
  tags: B07DQMVCXR, oferta, amazon, chollo, descuento 
  category: ofertas 

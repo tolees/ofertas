@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C9DC5WF: Ofertón en Amazon para Naipo Mesa de Masaje Plegable de 2 Secci 
- date: 2019/11/18 22:01:02 +0000 
+ date: 2019/11/20 20:26:23 +0000 
  comments: true 
  tags: B07C9DC5WF, oferta, amazon, chollo, descuento 
  category: ofertas 

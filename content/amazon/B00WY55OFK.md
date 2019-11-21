@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00WY55OFK: Ofertón en Amazon para BLACK+DECKER CS3651LC-QW - Atornillador  
- date: 2019/11/18 20:09:35 +0000 
+ date: 2019/11/20 20:01:59 +0000 
  comments: true 
  tags: B00WY55OFK, oferta, amazon, chollo, descuento 
  category: ofertas 

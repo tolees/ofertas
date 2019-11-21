@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IIOI9FS: Rebaja en OMRON M3 - Tensiómetro de brazo digital  en Amazon 
- date: 2019/11/18 08:59:02 +0000 
+ date: 2019/11/20 17:50:16 +0000 
  comments: true 
  tags: B00IIOI9FS 
  category: ofertas 

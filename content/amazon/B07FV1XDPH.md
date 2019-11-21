@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FV1XDPH: Rebaja en Lee Luke Vaqueros Tapered  Azul  Blue Wo en Amazon 
- date: 2019/11/19 15:32:51 +0000 
+ date: 2019/11/21 06:38:43 +0000 
  comments: true 
  tags: B07FV1XDPH 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lee Luke Vaqueros Tapered  Azul  Blue Worn In Ga   27W / 32L para Hombre](https://www.amazon.es/dp/B07FV1XDPH/?tag=redken-21) por 24 EUR (original: 89.95 EUR) en el siguiente enlace! 
+ Está [Lee Luke Vaqueros Tapered  Azul  Blue Worn In Ga   27W / 32L para Hombre](https://www.amazon.es/dp/B07FV1XDPH/?tag=redken-21) por 23.44 EUR (original: 89.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41RGuPj1p%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07FV1XDPH/?tag=redken-21) 
  
