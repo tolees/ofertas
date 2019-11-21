@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CU0CM7G: Ofertón en Amazon para Naipo Masajeador de Cuello y Hombros Bás 
- date: 2019/11/18 19:33:31 +0000 
+ date: 2019/11/21 12:18:46 +0000 
  comments: true 
  tags: B01CU0CM7G, oferta, amazon, chollo, descuento 
  category: ofertas 

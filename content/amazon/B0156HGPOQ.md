@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0156HGPOQ: Ofertón en Amazon para OQAN QHP10 Basiq - Auriculares 
- date: 2019/11/19 13:08:51 +0000 
+ date: 2019/11/21 12:18:46 +0000 
  comments: true 
  tags: B0156HGPOQ, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016XLYKMS: Ofertón en Amazon para BLACK+DECKER BDCD8-QW - Taladro atornill 
- date: 2019/11/20 07:05:59 +0000 
+ date: 2019/11/21 17:04:24 +0000 
  comments: true 
  tags: B016XLYKMS, oferta, amazon, chollo, descuento 
  category: ofertas 

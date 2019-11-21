@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00LWA7OWY: Ofertón en Amazon para LEE  DAREN  - Pantalones para hombre  Az 
- date: 2019/11/18 09:12:28 +0000 
+ date: 2019/11/21 15:01:27 +0000 
  comments: true 
  tags: B00LWA7OWY, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEE  DAREN  - Pantalones para hombre  Azul  Rinse   30W x 34L](https://www.amazon.es/dp/B00LWA7OWY/?tag=redken-21) a precio de oferta de 47.41 EUR (original: 89.95 EUR) en el siguiente enlace! 
+ Tienes [LEE  DAREN  - Pantalones para hombre  Azul  Rinse   30W x 34L](https://www.amazon.es/dp/B00LWA7OWY/?tag=redken-21) a precio de oferta de 45.34 EUR (original: 89.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31vRCLABeBL._SL200_.jpg)](https://www.amazon.es/dp/B00LWA7OWY/?tag=redken-21) 
  

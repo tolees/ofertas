@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HPCSJVX: Ofertón en Amazon para Cartera Pepe Jeans Delta horizontal con  
- date: 2019/11/18 21:12:32 +0000 
+ date: 2019/11/21 14:53:27 +0000 
  comments: true 
  tags: B07HPCSJVX, oferta, amazon, chollo, descuento 
  category: ofertas 
