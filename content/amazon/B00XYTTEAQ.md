@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XYTTEAQ: Rebaja en Logitech K400 Plus - Teclado inalámbrico en Amazon 
- date: 2019/11/20 23:20:20 +0000 
+ date: 2019/11/22 00:20:59 +0000 
  comments: true 
  tags: B00XYTTEAQ 
  category: ofertas 

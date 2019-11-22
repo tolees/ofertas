@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CMJSYRR: Ahorra en Huawei P20 Pro - Smartphone de 6 1"  Kir 
- date: 2019/11/20 19:52:46 +0000 
+ date: 2019/11/22 06:35:20 +0000 
  comments: true 
  tags: B07CMJSYRR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Huawei P20 Pro - Smartphone de 6 1"  Kirin 970 AI  6G de RAM  128 GB de memoria interna  Triple Cámara Leica  Android  8.1  Single Sim  Color Azul [Versión española]](https://www.amazon.es/dp/B07CMJSYRR/?tag=redken-21) a 430 EUR (original: 699 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Huawei P20 Pro - Smartphone de 6 1"  Kirin 970 AI  6G de RAM  128 GB de memoria interna  Triple Cámara Leica  Android  8.1  Single Sim  Color Azul [Versión española]](https://www.amazon.es/dp/B07CMJSYRR/?tag=redken-21) a 459 EUR (original: 699 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41jdravShpL._SL200_.jpg)](https://www.amazon.es/dp/B07CMJSYRR/?tag=redken-21) 
  
