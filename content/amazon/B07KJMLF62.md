@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KJMLF62: Ofertón en Amazon para Almohada de Viaje Almohada Cervical  SGO 
- date: 2019/11/20 16:47:43 +0000 
+ date: 2019/11/22 14:02:32 +0000 
  comments: true 
  tags: B07KJMLF62, oferta, amazon, chollo, descuento 
  category: ofertas 

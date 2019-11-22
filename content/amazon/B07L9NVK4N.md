@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L9NVK4N: Ofertón en Amazon para Lacoste Carnaby EVO Strap 319 2 Su  Zapa 
- date: 2019/11/20 14:52:28 +0000 
+ date: 2019/11/22 13:02:29 +0000 
  comments: true 
  tags: B07L9NVK4N, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Lacoste Carnaby EVO Strap 319 2 Su  Zapatillas Unisex Niños  Plateado  Silver/White 19l   38 EU](https://www.amazon.es/dp/B07L9NVK4N/?tag=redken-21) a precio de oferta de 30.06 EUR (original: 69 EUR) en el siguiente enlace! 
+ Tienes [Lacoste Carnaby EVO Strap 319 2 Su  Zapatillas Unisex Niños  Plateado  Silver/White 19l   38 EU](https://www.amazon.es/dp/B07L9NVK4N/?tag=redken-21) a precio de oferta de 29.61 EUR (original: 69 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41T4zhJR-iL._SL200_.jpg)](https://www.amazon.es/dp/B07L9NVK4N/?tag=redken-21) 
  

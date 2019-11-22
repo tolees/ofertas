@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0748PGNBX: Ofertón en Amazon para Bose Soundlink Bose - Altavoz Multimedia 
- date: 2019/11/21 16:54:08 +0000 
+ date: 2019/11/22 19:12:27 +0000 
  comments: true 
  tags: B0748PGNBX, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNTSHZC: Rebaja en LEGO DUPLO 10902 - Polizeistation en Amazon 
- date: 2019/11/20 09:44:56 +0000 
+ date: 2019/11/22 10:54:14 +0000 
  comments: true 
  tags: B07FNTSHZC 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO DUPLO 10902 - Polizeistation](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Está [LEGO DUPLO 10902 - Polizeistation](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21) por 19.79 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg)](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QWPK2QP: Ofertón en Amazon para Planchas del Pelo Profesional  HQQNUO 2e 
- date: 2019/11/19 18:44:49 +0000 
+ date: 2019/11/22 15:50:38 +0000 
  comments: true 
  tags: B07QWPK2QP, oferta, amazon, chollo, descuento 
  category: ofertas 
