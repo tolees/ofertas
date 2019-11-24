@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EIHQ5VI: Ofertón en Amazon para nick&jess - Negro Camisa Casual - Básico 
- date: 2019/11/19 17:09:11 +0000 
+ date: 2019/11/24 19:33:20 +0000 
  comments: true 
  tags: B01EIHQ5VI, oferta, amazon, chollo, descuento 
  category: ofertas 

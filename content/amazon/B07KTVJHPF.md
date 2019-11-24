@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTVJHPF: Ahorra en LEGO 60226 - City Mars-Forschungsshuttle 
- date: 2019/11/21 21:40:55 +0000 
+ date: 2019/11/24 09:19:48 +0000 
  comments: true 
  tags: B07KTVJHPF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 60226 - City Mars-Forschungsshuttle  Bauset](https://www.amazon.es/dp/B07KTVJHPF/?tag=redken-21) a 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 60226 - City Mars-Forschungsshuttle  Bauset](https://www.amazon.es/dp/B07KTVJHPF/?tag=redken-21) a 14.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51AhIenYAHL._SL200_.jpg)](https://www.amazon.es/dp/B07KTVJHPF/?tag=redken-21) 
  

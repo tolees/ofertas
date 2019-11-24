@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075FPNWM2: Ofertón en Amazon para TEENO taladro sin cable 21V+2 baterías d 
- date: 2019/11/19 16:01:43 +0000 
+ date: 2019/11/23 21:53:21 +0000 
  comments: true 
  tags: B075FPNWM2, oferta, amazon, chollo, descuento 
  category: ofertas 

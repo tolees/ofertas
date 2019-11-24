@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J6QWP2N: Ofertón en Amazon para Hackett Polo   Indigo 561   X-Large para 
- date: 2019/11/21 17:37:58 +0000 
+ date: 2019/11/24 09:09:31 +0000 
  comments: true 
  tags: B07J6QWP2N, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Hackett Polo   Indigo 561   X-Large para Hombre](https://www.amazon.es/dp/B07J6QWP2N/?tag=redken-21) a precio de oferta de 54.27 EUR (original: 95 EUR) en el siguiente enlace! 
+ Tienes [Hackett Polo   Indigo 561   X-Large para Hombre](https://www.amazon.es/dp/B07J6QWP2N/?tag=redken-21) a precio de oferta de 51.14 EUR (original: 95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31RrXs7j6JL._SL200_.jpg)](https://www.amazon.es/dp/B07J6QWP2N/?tag=redken-21) 
  

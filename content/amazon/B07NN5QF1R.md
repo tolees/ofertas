@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NN5QF1R: Ofertón en Amazon para Pack Vikingos 15 Bluray [Blu-ray] 
- date: 2019/11/22 07:44:04 +0000 
+ date: 2019/11/23 23:36:32 +0000 
  comments: true 
  tags: B07NN5QF1R, oferta, amazon, chollo, descuento 
  category: ofertas 

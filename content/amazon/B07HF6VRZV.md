@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HF6VRZV: Ofertón en Amazon para Pengo 4K HDMI Pass-Through Grabber  Capt 
- date: 2019/11/21 17:19:10 +0000 
+ date: 2019/11/24 19:18:49 +0000 
  comments: true 
  tags: B07HF6VRZV, oferta, amazon, chollo, descuento 
  category: ofertas 

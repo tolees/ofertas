@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B011J4BPWC: Ofertón en Amazon para AmazonBasics Adventure - Mochila para po 
- date: 2019/11/22 10:27:57 +0000 
+ date: 2019/11/24 19:48:32 +0000 
  comments: true 
  tags: B011J4BPWC, oferta, amazon, chollo, descuento 
  category: ofertas 

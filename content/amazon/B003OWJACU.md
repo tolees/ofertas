@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003OWJACU: Ofertón en Amazon para Lékué - Estuche de vapor  Con bandeja  V 
- date: 2019/11/23 10:40:22 +0000 
+ date: 2019/11/24 16:08:36 +0000 
  comments: true 
  tags: B003OWJACU, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Lékué - Estuche de vapor  Con bandeja  Verde  3 - 4 personas  1400ml ](https://www.amazon.es/dp/B003OWJACU/?tag=redken-21) a precio de oferta de 19 EUR (original: 41.9 EUR) en el siguiente enlace! 
+ Tienes [Lékué - Estuche de vapor  Con bandeja  Verde  3 - 4 personas  1400ml ](https://www.amazon.es/dp/B003OWJACU/?tag=redken-21) a precio de oferta de 19.53 EUR (original: 41.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31WvhzSYbhL._SL200_.jpg)](https://www.amazon.es/dp/B003OWJACU/?tag=redken-21) 
  

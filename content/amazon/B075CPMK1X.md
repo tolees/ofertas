@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075CPMK1X: Ahorra en Epson Workforce WF-7720DTWF - Impresora  
- date: 2019/11/23 09:48:23 +0000 
+ date: 2019/11/24 12:32:39 +0000 
  comments: true 
  tags: B075CPMK1X 
  category: ofertas 
