@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MFQOTKO: Ofertón en Amazon para Tectonic 41-6103-14 - Reloj de cuarzo un 
- date: 2019/11/21 06:48:24 +0000 
+ date: 2019/11/25 13:08:19 +0000 
  comments: true 
  tags: B00MFQOTKO, oferta, amazon, chollo, descuento 
  category: ofertas 

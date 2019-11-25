@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTW6GM3: Ahorra en LEGO 70677 NINJAGO Land Bounty Vehicle   
- date: 2019/11/23 09:01:41 +0000 
+ date: 2019/11/25 12:40:32 +0000 
  comments: true 
  tags: B07KTW6GM3 
  category: ofertas 
