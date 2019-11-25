@@ -1,6 +1,6 @@
 --- 
  layout: post 
- title: B07GL8WRMZ: Rebaja en Xiaomi Mi 8 - Smartphone de 6.21"  Octa- en Amazon 
+ title: B07GL8WRMZ: Ahorra en Xiaomi Mi 8 - Smartphone de 6.21"  Octa- 
  date: 2019/11/25 16:21:33 +0000 
  comments: true 
  tags: B07GL8WRMZ 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Xiaomi Mi 8 - Smartphone de 6.21"  Octa-Core Kryo 2.8 GHz  RAM de 6 GB  Memoria de 128 GB  cámara de 20 MP  Android 8.0  Color Negro [Versión española]](https://www.amazon.es/dp/B07GL8WRMZ/?tag=redken-21) por 299 EUR (original: 549 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Xiaomi Mi 8 - Smartphone de 6.21"  Octa-Core Kryo 2.8 GHz  RAM de 6 GB  Memoria de 128 GB  cámara de 20 MP  Android 8.0  Color Negro [Versión española]](https://www.amazon.es/dp/B07GL8WRMZ/?tag=redken-21) a 299 EUR (original: 549 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41mNBGj5CUL._SL200_.jpg)](https://www.amazon.es/dp/B07GL8WRMZ/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07GL8WRMZ/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B07GL8WRMZ/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
