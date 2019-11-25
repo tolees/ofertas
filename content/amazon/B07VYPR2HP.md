@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VYPR2HP: Rebaja en YABER Proyector Full HD 1080P  1920 x 10 en Amazon 
- date: 2019/11/23 06:32:29 +0000 
+ date: 2019/11/25 22:05:09 +0000 
  comments: true 
  tags: B07VYPR2HP 
  category: ofertas 

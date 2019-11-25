@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0779FSTGW: Rebaja en Clarks Originals Wallabee  Zapatos de Co en Amazon 
- date: 2019/11/23 09:57:35 +0000 
+ date: 2019/11/25 18:09:01 +0000 
  comments: true 
  tags: B0779FSTGW 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Clarks Originals Wallabee  Zapatos de Cordones Derby para Hombre  Marrón  Cola-   46 EU](https://www.amazon.es/dp/B0779FSTGW/?tag=redken-21) por 80.93 EUR (original: 160 EUR) en el siguiente enlace! 
+ Está [Clarks Originals Wallabee  Zapatos de Cordones Derby para Hombre  Marrón  Cola-   46 EU](https://www.amazon.es/dp/B0779FSTGW/?tag=redken-21) por 76.88 EUR (original: 160 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41X0I7bWOdL._SL200_.jpg)](https://www.amazon.es/dp/B0779FSTGW/?tag=redken-21) 
  

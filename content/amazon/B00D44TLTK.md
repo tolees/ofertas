@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00D44TLTK: Ofertón en Amazon para AmazonBasics - Plastificadora A4 
- date: 2019/11/23 10:15:29 +0000 
+ date: 2019/11/25 20:46:40 +0000 
  comments: true 
  tags: B00D44TLTK, oferta, amazon, chollo, descuento 
  category: ofertas 
