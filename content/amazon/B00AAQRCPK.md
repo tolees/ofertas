@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00AAQRCPK: Ofertón en Amazon para Schott NYC LC1140 - Chaqueta de manga la 
- date: 2019/11/24 15:52:15 +0000 
+ date: 2019/11/26 06:12:42 +0000 
  comments: true 
  tags: B00AAQRCPK, oferta, amazon, chollo, descuento 
  category: ofertas 

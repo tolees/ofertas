@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L7YYGFX: Ofertón en Amazon para Altavoz Bluetooth Potente  Tronsmart For 
- date: 2019/11/25 13:37:38 +0000 
+ date: 2019/11/26 20:35:48 +0000 
  comments: true 
  tags: B07L7YYGFX, oferta, amazon, chollo, descuento 
  category: ofertas 

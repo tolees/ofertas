@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNTMWMT: Ofertón en Amazon para LEGO 75894 Speed Champions 1967 S Rally  
- date: 2019/11/25 12:38:54 +0000 
+ title: B07FNTMWMT: Ofertón en Amazon para LEGO Speed Champions - Mini Cooper S Ral 
+ date: 2019/11/26 12:54:24 +0000 
  comments: true 
  tags: B07FNTMWMT, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO 75894 Speed Champions 1967 S Rally and 2018 Mini John Cooper Works Buggy 4 Minifigures Car Building Set  Vehicle Toys for Kids  Forza Horizon 4 Expansion Pack Model](https://www.amazon.es/dp/B07FNTMWMT/?tag=redken-21) a precio de oferta de 29.97 GBP (original: 44.99 GBP) en el siguiente enlace! 
+ Tienes [LEGO Speed Champions - Mini Cooper S Rally de 1967 y MINI John Cooper Works Buggy de 2018  juguete de construcción de coches  75894 ](https://www.amazon.es/dp/B07FNTMWMT/?tag=redken-21) a precio de oferta de 29.97 GBP (original: 44.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51tVbDpcaFL._SL200_.jpg)](https://www.amazon.es/dp/B07FNTMWMT/?tag=redken-21) 
  
