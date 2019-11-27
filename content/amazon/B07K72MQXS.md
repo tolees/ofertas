@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K72MQXS: Ofertón en Amazon para Asics Patriot 10  Zapatillas de Running  
- date: 2019/11/26 18:36:03 +0000 
+ date: 2019/11/27 20:52:49 +0000 
  comments: true 
  tags: B07K72MQXS, oferta, amazon, chollo, descuento 
  category: ofertas 

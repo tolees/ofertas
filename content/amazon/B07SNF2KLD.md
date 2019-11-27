@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SNF2KLD: Ahorra en LATEC Pulsera Actividad Reloj Inteligent 
- date: 2019/11/26 11:48:38 +0000 
+ date: 2019/11/27 19:51:05 +0000 
  comments: true 
  tags: B07SNF2KLD 
  category: ofertas 

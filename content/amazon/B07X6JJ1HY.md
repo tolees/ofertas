@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07X6JJ1HY: Rebaja en Sony - Dualshock 4 Controller Electric P en Amazon 
- date: 2019/11/26 14:20:37 +0000 
+ date: 2019/11/27 15:39:20 +0000 
  comments: true 
  tags: B07X6JJ1HY 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Sony - Dualshock 4 Controller Electric Purple  PS 4 ](https://www.amazon.es/dp/B07X6JJ1HY/?tag=redken-21) por 39.99 EUR (original: 66.99 EUR) en el siguiente enlace! 
+ Está [Sony - Dualshock 4 Controller Electric Purple  PS 4 ](https://www.amazon.es/dp/B07X6JJ1HY/?tag=redken-21) por 39.9 EUR (original: 66.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51TwGv-uxvL._SL200_.jpg)](https://www.amazon.es/dp/B07X6JJ1HY/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VN9HTX2: Rebaja en Xbox One S Gears 5 en Amazon 
- date: 2019/11/25 23:11:06 +0000 
+ date: 2019/11/27 16:27:50 +0000 
  comments: true 
  tags: B07VN9HTX2 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Xbox One S Gears 5](https://www.amazon.es/dp/B07VN9HTX2/?tag=redken-21) por 189.9 EUR (original: 299 EUR) en el siguiente enlace! 
+ Está [Xbox One S Gears 5](https://www.amazon.es/dp/B07VN9HTX2/?tag=redken-21) por 189 EUR (original: 299 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51crK6L-aUL._SL200_.jpg)](https://www.amazon.es/dp/B07VN9HTX2/?tag=redken-21) 
  

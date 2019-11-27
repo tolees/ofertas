@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HSB5ZM2: Ofertón en Amazon para SHARP PS940 - Altavoces Bluetooth Karaok 
- date: 2019/11/26 08:26:03 +0000 
+ date: 2019/11/27 18:28:20 +0000 
  comments: true 
  tags: B07HSB5ZM2, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FB5QWY9: Ofertón en Amazon para Lenovo L24e Monitor de  23 8"  Pantalla  
- date: 2019/11/25 16:47:13 +0000 
+ date: 2019/11/27 19:38:14 +0000 
  comments: true 
  tags: B07FB5QWY9, oferta, amazon, chollo, descuento 
  category: ofertas 

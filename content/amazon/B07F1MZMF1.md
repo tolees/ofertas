@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07F1MZMF1: Ofertón en Amazon para Vernee M6 Teléfono Móvil Android  Pantal 
- date: 2019/11/25 15:04:16 +0000 
+ date: 2019/11/27 17:48:50 +0000 
  comments: true 
  tags: B07F1MZMF1, oferta, amazon, chollo, descuento 
  category: ofertas 

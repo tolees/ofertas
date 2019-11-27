@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KJWW7LB: Ofertón en Amazon para Under Armour UA Waist Bag - Riñonera  Un 
- date: 2019/11/26 10:06:57 +0000 
+ date: 2019/11/27 17:29:36 +0000 
  comments: true 
  tags: B07KJWW7LB, oferta, amazon, chollo, descuento 
  category: ofertas 

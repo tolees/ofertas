@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B01LONAA56: Rebaja en Bosch TDS6030 EasyComfort Serie 6 - Cent en Amazon 
+ date: 2019/11/27 19:06:53 +0000 
+ comments: true 
+ tags: B01LONAA56 
+ category: ofertas 
+ author: ring 
+ slug: B01LONAA56 
+ description: 
+ --- 
+ 
+ Está [Bosch TDS6030 EasyComfort Serie 6 - Centro de planchado  2.400 W  5.7 bares  con 370 g de supervapor  función iTemp  color blanco y violeta](https://www.amazon.es/dp/B01LONAA56/?tag=redken-21) por 111 EUR (original: 169 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51QQPv9OvNL._SL200_.jpg)](https://www.amazon.es/dp/B01LONAA56/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B01LONAA56/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
