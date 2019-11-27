@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ECBKODQ: Ofertón en Amazon para Remington  D5210 Pro Air - Secador de Pe 
- date: 2019/11/24 17:56:21 +0000 
+ date: 2019/11/27 07:26:03 +0000 
  comments: true 
  tags: B00ECBKODQ, oferta, amazon, chollo, descuento 
  category: ofertas 

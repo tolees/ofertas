@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00YCATDXY: Ofertón en Amazon para Crock-Pot AutoStir CSC012X Olla de cocci 
- date: 2019/11/25 18:12:32 +0000 
+ date: 2019/11/26 21:36:01 +0000 
  comments: true 
  tags: B00YCATDXY, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Crock-Pot AutoStir CSC012X Olla de cocción Lenta  240 W  5.7 litros  1 Decibeles  Acero Inoxidable  Gris Inox](https://www.amazon.es/dp/B00YCATDXY/?tag=redken-21) a precio de oferta de 62.99 EUR (original: 134.9 EUR) en el siguiente enlace! 
+ Tienes [Crock-Pot AutoStir CSC012X Olla de cocción Lenta  240 W  5.7 litros  1 Decibeles  Acero Inoxidable  Gris Inox](https://www.amazon.es/dp/B00YCATDXY/?tag=redken-21) a precio de oferta de 59 EUR (original: 134.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/5104yJEGcHL._SL200_.jpg)](https://www.amazon.es/dp/B00YCATDXY/?tag=redken-21) 
  

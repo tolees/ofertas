@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DK9QYP3: Ofertón en Amazon para SLYPNOS - Caja Fuerte  8 5L   Caja Fuert 
- date: 2019/11/26 00:50:17 +0000 
+ date: 2019/11/27 10:50:41 +0000 
  comments: true 
  tags: B07DK9QYP3, oferta, amazon, chollo, descuento 
  category: ofertas 

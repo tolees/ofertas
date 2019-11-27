@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GRJPJDY: Ahorra en Samsung Galaxy Watch - Reloj Inteligente 
- date: 2019/11/26 06:19:21 +0000 
+ date: 2019/11/27 09:42:26 +0000 
  comments: true 
  tags: B07GRJPJDY 
  category: ofertas 
