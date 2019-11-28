@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07X2QPX2Y: Rebaja en Grborn 32GB Tarjeta de Memoria Clase 10  en Amazon 
- date: 2019/11/24 19:36:57 +0000 
+ date: 2019/11/28 10:43:17 +0000 
  comments: true 
  tags: B07X2QPX2Y 
  category: ofertas 

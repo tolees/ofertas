@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GFXDNLX: Ofertón en Amazon para Sony WF-SP900B - Auriculares Deportivos  
- date: 2019/11/25 15:42:46 +0000 
+ date: 2019/11/28 13:09:27 +0000 
  comments: true 
  tags: B07GFXDNLX, oferta, amazon, chollo, descuento 
  category: ofertas 

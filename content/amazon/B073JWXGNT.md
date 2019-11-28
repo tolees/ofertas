@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073JWXGNT: Ofertón en Amazon para SanDisk Ultra - Tarjeta de memoria micro 
- date: 2019/11/27 08:16:02 +0000 
+ date: 2019/11/28 10:25:44 +0000 
  comments: true 
  tags: B073JWXGNT, oferta, amazon, chollo, descuento 
  category: ofertas 

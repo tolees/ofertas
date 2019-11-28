@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FP6QNQ7: Ahorra en LEGO 42096 Technic Porsche 911 RSR Race  
- date: 2019/11/26 12:54:24 +0000 
+ title: B07FP6QNQ7: Rebaja en LEGO Technic - Porsche 911 RSR  maqueta  en Amazon 
+ date: 2019/11/28 13:03:08 +0000 
  comments: true 
  tags: B07FP6QNQ7 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 42096 Technic Porsche 911 RSR Race Car Advanced Building Set  Exclusive Collectible Model](https://www.amazon.es/dp/B07FP6QNQ7/?tag=redken-21) a 87.99 GBP (original: 139.99 GBP) en el siguiente enlace! 
+ Está [LEGO Technic - Porsche 911 RSR  maqueta de juguete de coche deportivo de carreras para construir  42096 ](https://www.amazon.es/dp/B07FP6QNQ7/?tag=redken-21) por 87.99 GBP (original: 139.99 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg)](https://www.amazon.es/dp/B07FP6QNQ7/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51Q691bHwPL._SL200_.jpg)](https://www.amazon.es/dp/B07FP6QNQ7/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07FP6QNQ7/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07FP6QNQ7/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
