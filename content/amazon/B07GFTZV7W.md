@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07GFTZV7W: Ahorra en Hitman 2 - Standard Edition 
+ title: B07GFTZV7W: Ofertón en Amazon para Hitman 2 - Standard Edition 
  date: 2019/11/28 14:03:26 +0000 
  comments: true 
- tags: B07GFTZV7W 
+ tags: B07GFTZV7W, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07GFTZV7W 
  description: 
  --- 
  
- Ahora mismo tienes [Hitman 2 - Standard Edition](https://www.amazon.es/dp/B07GFTZV7W/?tag=redken-21) a 14.9 EUR (original: 39.95 EUR) en el siguiente enlace! 
+ Tienes [Hitman 2 - Standard Edition](https://www.amazon.es/dp/B07GFTZV7W/?tag=redken-21) a precio de oferta de 14.9 EUR (original: 39.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BVt9wSsBL._SL200_.jpg)](https://www.amazon.es/dp/B07GFTZV7W/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07GFTZV7W/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07GFTZV7W/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

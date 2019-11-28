@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LS8JJTU: Ofertón en Amazon para L Oreal Paris Dermo Expertise Crema Rell 
- date: 2019/11/26 11:22:02 +0000 
+ date: 2019/11/28 17:54:52 +0000 
  comments: true 
  tags: B01LS8JJTU, oferta, amazon, chollo, descuento 
  category: ofertas 
