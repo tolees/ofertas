@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H2WSKVK: Ofertón en Amazon para Echo Plus  2.ª generación   tela de colo 
- date: 2019/11/25 12:22:25 +0000 
+ date: 2019/11/28 07:01:04 +0000 
  comments: true 
  tags: B07H2WSKVK, oferta, amazon, chollo, descuento 
  category: ofertas 

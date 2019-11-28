@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QVL8HBR: Rebaja en Huawei P30 Lite - Smartphone de 6.15"  W en Amazon 
- date: 2019/11/25 20:14:22 +0000 
+ date: 2019/11/28 06:00:29 +0000 
  comments: true 
  tags: B07QVL8HBR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Huawei P30 Lite - Smartphone de 6.15"  WiFi  Kirin 710  RAM de 4 GB  memoria de 128 GB  cámara de 48+2+8 MP  Android 9  Negro](https://www.amazon.es/dp/B07QVL8HBR/?tag=redken-21) por 230.06 EUR (original: 349 EUR) en el siguiente enlace! 
+ Está [Huawei P30 Lite - Smartphone de 6.15"  WiFi  Kirin 710  RAM de 4 GB  memoria de 128 GB  cámara de 48+2+8 MP  Android 9  Negro](https://www.amazon.es/dp/B07QVL8HBR/?tag=redken-21) por 230.07 EUR (original: 349 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/417FcltSL7L._SL200_.jpg)](https://www.amazon.es/dp/B07QVL8HBR/?tag=redken-21) 
  
