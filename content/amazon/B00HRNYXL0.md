@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B00HRNYXL0: Ahorra en WD Red - Disco duro para NAS  4 TB 
- date: 2019/11/28 23:56:21 +0000 
+ title: B00HRNYXL0: Ahorra en WD 4 TB NAS Internal Hard Drive - Red 
+ date: 2019/11/23 15:05:53 +0000 
  comments: true 
  tags: B00HRNYXL0 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [WD Red - Disco duro para NAS  4 TB](https://www.amazon.es/dp/B00HRNYXL0/?tag=redken-21) a 91.49 EUR (original: 149.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [WD 4 TB NAS Internal Hard Drive - Red](https://www.amazon.es/dp/B00HRNYXL0/?tag=redken-21) a 98.99 GBP (original: 155.19 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41zVjxVyJbL._SL200_.jpg)](https://www.amazon.es/dp/B00HRNYXL0/?tag=redken-21) 
  
