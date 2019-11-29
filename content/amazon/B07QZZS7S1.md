@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QZZS7S1: Ahorra en Logitech C920 HD Pro Webcam  Videoconfer 
- date: 2019/11/27 12:51:35 +0000 
+ date: 2019/11/29 02:00:37 +0000 
  comments: true 
  tags: B07QZZS7S1 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075VNGBZM: Ofertón en Amazon para AUKEY Bateria Externa 20000mAh  Cargador 
- date: 2019/11/27 00:19:28 +0000 
+ date: 2019/11/29 01:55:57 +0000 
  comments: true 
  tags: B075VNGBZM, oferta, amazon, chollo, descuento 
  category: ofertas 

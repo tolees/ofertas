@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NGSLC7T: Ofertón en Amazon para MEDION Ultrafino S6445 - Ordenador portá 
- date: 2019/11/27 21:42:48 +0000 
+ date: 2019/11/29 00:07:53 +0000 
  comments: true 
  tags: B07NGSLC7T, oferta, amazon, chollo, descuento 
  category: ofertas 
