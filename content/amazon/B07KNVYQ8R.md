@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KNVYQ8R: Rebaja en HP Envy 5010 - Impresora multifunción  W en Amazon 
- date: 2019/11/25 13:02:32 +0000 
+ date: 2019/11/30 23:49:16 +0000 
  comments: true 
  tags: B07KNVYQ8R 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [HP Envy 5010 - Impresora multifunción  Wifi  Bluetooth  HP Smart  pantalla táctil  bandeja de entrada de 80 hojas ](https://www.amazon.es/dp/B07KNVYQ8R/?tag=redken-21) por 49.99 EUR (original: 79 EUR) en el siguiente enlace! 
+ Está [HP Envy 5010 - Impresora multifunción  Wifi  Bluetooth  HP Smart  pantalla táctil  bandeja de entrada de 80 hojas ](https://www.amazon.es/dp/B07KNVYQ8R/?tag=redken-21) por 39.9 EUR (original: 79 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/315IJr-wqeL._SL200_.jpg)](https://www.amazon.es/dp/B07KNVYQ8R/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M6YIR2E: Ofertón en Amazon para Red Dead Redemption 2  Xbox One  
- date: 2019/11/26 13:24:08 +0000 
+ date: 2019/11/29 12:16:03 +0000 
  comments: true 
  tags: B01M6YIR2E, oferta, amazon, chollo, descuento 
  category: ofertas 

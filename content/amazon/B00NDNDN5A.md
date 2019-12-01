@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00NDNDN5A: Ofertón en Amazon para Beurer FC95 - Cepillo facial sónico  2 i 
- date: 2019/11/24 15:19:00 +0000 
+ date: 2019/11/29 09:42:25 +0000 
  comments: true 
  tags: B00NDNDN5A, oferta, amazon, chollo, descuento 
  category: ofertas 

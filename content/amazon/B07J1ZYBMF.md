@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J1ZYBMF: Ofertón en Amazon para Tefal Actifry Genius Snaking FZ761015 -  
- date: 2019/11/27 12:28:00 +0000 
+ date: 2019/11/29 21:12:02 +0000 
  comments: true 
  tags: B07J1ZYBMF, oferta, amazon, chollo, descuento 
  category: ofertas 

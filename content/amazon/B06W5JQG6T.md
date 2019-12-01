@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06W5JQG6T: Ofertón en Amazon para Philips AirFryer HD9216/80 - Freidora si 
- date: 2019/11/27 10:37:46 +0000 
+ date: 2019/11/29 19:22:28 +0000 
  comments: true 
  tags: B06W5JQG6T, oferta, amazon, chollo, descuento 
  category: ofertas 

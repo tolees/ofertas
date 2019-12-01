@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01HRJDTOU: Ofertón en Amazon para HP OfficeJet Pro 6960 - Impresora multif 
- date: 2019/11/28 12:06:36 +0000 
+ date: 2019/11/30 21:21:26 +0000 
  comments: true 
  tags: B01HRJDTOU, oferta, amazon, chollo, descuento 
  category: ofertas 

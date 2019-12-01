@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073Q3QPLV: Ofertón en Amazon para Apple Smart Keyboard  para el iPad de 10 
- date: 2019/11/27 11:29:46 +0000 
+ date: 2019/11/29 17:47:15 +0000 
  comments: true 
  tags: B073Q3QPLV, oferta, amazon, chollo, descuento 
  category: ofertas 

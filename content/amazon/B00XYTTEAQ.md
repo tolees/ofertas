@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XYTTEAQ: Ahorra en Logitech K400 Plus - Teclado inalámbrico 
- date: 2019/11/27 12:52:43 +0000 
+ date: 2019/11/30 14:02:37 +0000 
  comments: true 
  tags: B00XYTTEAQ 
  category: ofertas 

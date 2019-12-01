@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FG2LZFD: Ofertón en Amazon para HP Pavilion 590-p0305ns - Ordenador de s 
- date: 2019/11/29 01:55:57 +0000 
+ date: 2019/11/30 06:16:06 +0000 
  comments: true 
  tags: B07FG2LZFD, oferta, amazon, chollo, descuento 
  category: ofertas 

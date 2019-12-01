@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KH2HLJL: Ofertón en Amazon para Sony - PlayStation VR Casco De Realidad  
- date: 2019/11/28 06:16:01 +0000 
+ date: 2019/11/29 09:33:19 +0000 
  comments: true 
  tags: B07KH2HLJL, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Sony - PlayStation VR Casco De Realidad Virtual Mk4/SPA + VR Worlds + Cámara  PS4 ](https://www.amazon.es/dp/B07KH2HLJL/?tag=redken-21) a precio de oferta de 199 EUR (original: 299.9 EUR) en el siguiente enlace! 
+ Tienes [Sony - PlayStation VR Casco De Realidad Virtual Mk4/SPA + VR Worlds + Cámara  PS4 ](https://www.amazon.es/dp/B07KH2HLJL/?tag=redken-21) a precio de oferta de 189.95 EUR (original: 299.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31gTz0WyURL._SL200_.jpg)](https://www.amazon.es/dp/B07KH2HLJL/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B014CZJ8CE: Ofertón en Amazon para Puntero Laser Presentaciones Doosl Mando 
- date: 2019/11/24 21:28:25 +0000 
+ date: 2019/11/29 16:59:48 +0000 
  comments: true 
  tags: B014CZJ8CE, oferta, amazon, chollo, descuento 
  category: ofertas 

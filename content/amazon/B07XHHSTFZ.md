@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XHHSTFZ: Ofertón en Amazon para HolyHigh Auriculares Inalámbricos Blueto 
- date: 2019/11/28 15:11:24 +0000 
+ date: 2019/11/29 21:34:45 +0000 
  comments: true 
  tags: B07XHHSTFZ, oferta, amazon, chollo, descuento 
  category: ofertas 

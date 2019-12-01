@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WTRC77Z: Rebaja en Marvel s Spider-Man  PS4  Game of the Ye en Amazon 
- date: 2019/11/26 20:31:28 +0000 
+ date: 2019/11/29 21:29:39 +0000 
  comments: true 
  tags: B07WTRC77Z 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Marvel s Spider-Man  PS4  Game of the Year Edition  GOTY ](https://www.amazon.es/dp/B07WTRC77Z/?tag=redken-21) por 29.9 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Está [Marvel s Spider-Man  PS4  Game of the Year Edition  GOTY ](https://www.amazon.es/dp/B07WTRC77Z/?tag=redken-21) por 32.05 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51L4rKx8MuL._SL200_.jpg)](https://www.amazon.es/dp/B07WTRC77Z/?tag=redken-21) 
  

@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B0127DILJY: Rebaja en Juego De Tronos Temporada 1 Blu-Ray  Ste en Amazon 
- date: 2019/11/28 06:04:11 +0000 
+ title: B0127DILJY: Ofertón en Amazon para Juego De Tronos Temporada 1 Blu-Ray  Ste 
+ date: 2019/11/29 10:29:51 +0000 
  comments: true 
- tags: B0127DILJY 
+ tags: B0127DILJY, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B0127DILJY 
  description: 
  --- 
  
- Está [Juego De Tronos Temporada 1 Blu-Ray  Steelbook [Blu-ray]](https://www.amazon.es/dp/B0127DILJY/?tag=redken-21) por 12.5 EUR (original: 52.5 EUR) en el siguiente enlace! 
+ Tienes [Juego De Tronos Temporada 1 Blu-Ray  Steelbook [Blu-ray]](https://www.amazon.es/dp/B0127DILJY/?tag=redken-21) a precio de oferta de 16.24 EUR (original: 52.5 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51x6Dc%2B8iOL._SL200_.jpg)](https://www.amazon.es/dp/B0127DILJY/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B0127DILJY/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B0127DILJY/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

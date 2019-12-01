@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07YNRY97Y: Ofertón en Amazon para Televisor Led 40 Pulgadas Full HD  TD Sy 
- date: 2019/11/28 12:36:23 +0000 
+ date: 2019/11/29 13:18:14 +0000 
  comments: true 
  tags: B07YNRY97Y, oferta, amazon, chollo, descuento 
  category: ofertas 

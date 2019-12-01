@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XBBMBSG: Ofertón en Amazon para Desmontar y ensamblar Coches con la Herr 
- date: 2019/11/28 19:21:12 +0000 
+ date: 2019/11/29 19:22:20 +0000 
  comments: true 
  tags: B06XBBMBSG, oferta, amazon, chollo, descuento 
  category: ofertas 

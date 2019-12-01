@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GRLTDK2: Ofertón en Amazon para Samsung Galaxy Watch - Reloj Inteligente 
- date: 2019/11/27 08:31:56 +0000 
+ date: 2019/11/30 11:53:58 +0000 
  comments: true 
  tags: B07GRLTDK2, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B007FDSPF2: Rebaja en Twister - Hasbro Gaming  Hasbro 98831175 en Amazon 
- date: 2019/11/26 15:38:40 +0000 
+ date: 2019/11/29 10:05:07 +0000 
  comments: true 
  tags: B007FDSPF2 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Twister - Hasbro Gaming  Hasbro 98831175 ](https://www.amazon.es/dp/B007FDSPF2/?tag=redken-21) por 16.84 EUR (original: 26 EUR) en el siguiente enlace! 
+ Está [Twister - Hasbro Gaming  Hasbro 98831175 ](https://www.amazon.es/dp/B007FDSPF2/?tag=redken-21) por 12.99 EUR (original: 26 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51TK6fdfZzL._SL200_.jpg)](https://www.amazon.es/dp/B007FDSPF2/?tag=redken-21) 
  

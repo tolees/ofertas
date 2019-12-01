@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001CBZB5K: Ahorra en Singer 2250  Tradition -  Máquina de Cos 
- date: 2019/11/29 00:02:13 +0000 
+ date: 2019/11/30 07:57:24 +0000 
  comments: true 
  tags: B001CBZB5K 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Singer 2250  Tradition -  Máquina de Coser mecánica  10 Puntadas  43 x 22 x 35 2 cm  Blanco](https://www.amazon.es/dp/B001CBZB5K/?tag=redken-21) a 84.99 EUR (original: 141.43 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Singer 2250  Tradition -  Máquina de Coser mecánica  10 Puntadas  43 x 22 x 35 2 cm  Blanco](https://www.amazon.es/dp/B001CBZB5K/?tag=redken-21) a 79.8 EUR (original: 141.43 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31UlEYKWwNL._SL200_.jpg)](https://www.amazon.es/dp/B001CBZB5K/?tag=redken-21) 
  

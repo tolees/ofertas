@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IEEVDOK: Ofertón en Amazon para iRobot Roomba 960 - Robot Aspirador Ópti 
- date: 2019/11/27 13:02:15 +0000 
+ date: 2019/11/29 14:30:50 +0000 
  comments: true 
  tags: B01IEEVDOK, oferta, amazon, chollo, descuento 
  category: ofertas 
