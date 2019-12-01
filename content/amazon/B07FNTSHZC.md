@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07FNTSHZC: Rebaja en LEGO Duplo Town - Comisaría de policía   en Amazon 
- date: 2019/11/29 09:59:42 +0000 
+ title: B07FNTSHZC: Ofertón en Amazon para LEGO DUPLO 10902 - Polizeistation 
+ date: 2019/12/01 13:28:52 +0000 
  comments: true 
- tags: B07FNTSHZC 
+ tags: B07FNTSHZC, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07FNTSHZC 
  description: 
  --- 
  
- Está [LEGO Duplo Town - Comisaría de policía  Juguete Creativo de construcción y Aventuras  10902 ](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO DUPLO 10902 - Polizeistation](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21) a precio de oferta de 19.79 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg)](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07FNTSHZC/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

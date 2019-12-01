@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GFK4FKC: Ahorra en P Prettyia 1080P HD 1.5    Pantalla Mini 
- date: 2019/11/30 13:33:56 +0000 
+ date: 2019/12/01 17:40:26 +0000 
  comments: true 
  tags: B07GFK4FKC 
  category: ofertas 

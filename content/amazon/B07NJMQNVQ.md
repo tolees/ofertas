@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NJMQNVQ: Ofertón en Amazon para Lenovo Yoga 530-14IKB Portátil táctil Co 
- date: 2019/11/29 23:23:24 +0000 
+ date: 2019/12/01 10:18:51 +0000 
  comments: true 
  tags: B07NJMQNVQ, oferta, amazon, chollo, descuento 
  category: ofertas 

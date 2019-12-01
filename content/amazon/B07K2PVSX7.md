@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K2PVSX7: Ofertón en Amazon para Samsung Galaxy A9 - Smartphone de 6.3"   
- date: 2019/11/30 01:11:05 +0000 
+ date: 2019/12/01 16:29:46 +0000 
  comments: true 
  tags: B07K2PVSX7, oferta, amazon, chollo, descuento 
  category: ofertas 

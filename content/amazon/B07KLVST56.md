@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KLVST56: Ofertón en Amazon para EZVIZ Cámara de vigilancia WI-FI Interio 
- date: 2019/11/30 09:56:09 +0000 
+ date: 2019/12/01 11:51:08 +0000 
  comments: true 
  tags: B07KLVST56, oferta, amazon, chollo, descuento 
  category: ofertas 

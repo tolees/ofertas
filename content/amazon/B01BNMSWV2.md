@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BNMSWV2: Ofertón en Amazon para Philips Satinelle Advanced BRE620/00 - D 
- date: 2019/11/27 12:39:28 +0000 
+ date: 2019/12/01 13:04:29 +0000 
  comments: true 
  tags: B01BNMSWV2, oferta, amazon, chollo, descuento 
  category: ofertas 

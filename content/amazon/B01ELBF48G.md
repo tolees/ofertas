@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01ELBF48G: Ofertón en Amazon para adidas Superstar  Zapatillas para Mujer  
- date: 2019/11/30 19:32:14 +0000 
+ date: 2019/12/01 19:40:19 +0000 
  comments: true 
  tags: B01ELBF48G, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [adidas Superstar  Zapatillas para Mujer  Blanco  Footwear White/Core Black/Footwear White 0   44 2/3 EU](https://www.amazon.es/dp/B01ELBF48G/?tag=redken-21) a precio de oferta de 56.38 EUR (original: 99.95 EUR) en el siguiente enlace! 
+ Tienes [adidas Superstar  Zapatillas para Mujer  Blanco  Footwear White/Core Black/Footwear White 0   44 2/3 EU](https://www.amazon.es/dp/B01ELBF48G/?tag=redken-21) a precio de oferta de 54.41 EUR (original: 99.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41O6n1A0eEL._SL200_.jpg)](https://www.amazon.es/dp/B01ELBF48G/?tag=redken-21) 
  

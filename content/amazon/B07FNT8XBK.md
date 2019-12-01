@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNT8XBK: Ahorra en LEGO 11001 Classic Bricks and Ideas Buil 
- date: 2019/11/29 13:41:59 +0000 
+ title: B07FNT8XBK: Rebaja en LEGO 11001 Classic Bricks and Ideas Buil en Amazon 
+ date: 2019/12/01 17:08:00 +0000 
  comments: true 
  tags: B07FNT8XBK 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 11001 Classic Bricks and Ideas Building Set with Eyes  Wheels and Hinges for Kids 4+ Years Old](https://www.amazon.es/dp/B07FNT8XBK/?tag=redken-21) a 6 GBP (original: 8.99 GBP) en el siguiente enlace! 
+ Está [LEGO 11001 Classic Bricks and Ideas Building Set with Eyes  Wheels and Hinges for Kids 4+ Years Old](https://www.amazon.es/dp/B07FNT8XBK/?tag=redken-21) por 6 GBP (original: 8.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51Pl9YVlUXL._SL200_.jpg)](https://www.amazon.es/dp/B07FNT8XBK/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07FNT8XBK/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07FNT8XBK/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
