@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07W7MQMD9: Rebaja en Logitech G502 Hero Ratón Gaming con Cabl en Amazon 
+ title: B07W7MQMD9: Ofertón en Amazon para Logitech G502 Hero Ratón Gaming con Cabl 
  date: 2019/11/30 09:05:17 +0000 
  comments: true 
- tags: B07W7MQMD9 
+ tags: B07W7MQMD9, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07W7MQMD9 
  description: 
  --- 
  
- Está [Logitech G502 Hero Ratón Gaming con Cable Alto Rendimiento  Sensor Hero 16K  16 000 dpi  RGB  Peso Personalizable  11 Botones Programables  Memoria Integrada  PC/Mac  Negro y Blanco](https://www.amazon.es/dp/B07W7MQMD9/?tag=redken-21) por 39.9 EUR (original: 89.99 EUR) en el siguiente enlace! 
+ Tienes [Logitech G502 Hero Ratón Gaming con Cable Alto Rendimiento  Sensor Hero 16K  16 000 dpi  RGB  Peso Personalizable  11 Botones Programables  Memoria Integrada  PC/Mac  Negro y Blanco](https://www.amazon.es/dp/B07W7MQMD9/?tag=redken-21) a precio de oferta de 39.9 EUR (original: 89.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31nqwo1fmBL._SL200_.jpg)](https://www.amazon.es/dp/B07W7MQMD9/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07W7MQMD9/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07W7MQMD9/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

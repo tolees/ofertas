@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HFR1B4W: Ofertón en Amazon para TECLAST Tablet PC P80Pro 8" FHD 1920*120 
- date: 2019/11/30 09:08:03 +0000 
+ date: 2019/12/01 21:20:53 +0000 
  comments: true 
  tags: B07HFR1B4W, oferta, amazon, chollo, descuento 
  category: ofertas 

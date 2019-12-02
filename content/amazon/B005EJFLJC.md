@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B005EJFLJC: Ofertón en Amazon para Duracell - Plus AA  Pilas Alcalinas  paq 
- date: 2019/11/29 17:03:53 +0000 
+ date: 2019/12/02 04:45:32 +0000 
  comments: true 
  tags: B005EJFLJC, oferta, amazon, chollo, descuento 
  category: ofertas 

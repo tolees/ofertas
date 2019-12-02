@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076QKKG2T: Ofertón en Amazon para Razer Electra V2 - Auriculares analógico 
- date: 2019/11/26 18:32:18 +0000 
+ date: 2019/12/01 23:14:53 +0000 
  comments: true 
  tags: B076QKKG2T, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Razer Electra V2 - Auriculares analógicos para juegos y música  compatible con PC  PS4  Xbox One  Switch y dispositivos móviles](https://www.amazon.es/dp/B076QKKG2T/?tag=redken-21) a precio de oferta de 39.9 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Tienes [Razer Electra V2 - Auriculares analógicos para juegos y música  compatible con PC  PS4  Xbox One  Switch y dispositivos móviles](https://www.amazon.es/dp/B076QKKG2T/?tag=redken-21) a precio de oferta de 29.9 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41z9cEHubfL._SL200_.jpg)](https://www.amazon.es/dp/B076QKKG2T/?tag=redken-21) 
  

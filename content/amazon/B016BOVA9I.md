@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B016BOVA9I: Rebaja en Fantasy Flight Games Juego de Tronos LCG en Amazon 
- date: 2019/11/29 17:09:48 +0000 
+ date: 2019/12/02 00:17:58 +0000 
  comments: true 
  tags: B016BOVA9I 
  category: ofertas 

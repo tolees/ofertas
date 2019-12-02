@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078WTSHCF: Ofertón en Amazon para Finish Todo en 1 Max Regular Pastillas p 
- date: 2019/11/30 22:16:11 +0000 
+ date: 2019/12/02 05:01:05 +0000 
  comments: true 
  tags: B078WTSHCF, oferta, amazon, chollo, descuento 
  category: ofertas 

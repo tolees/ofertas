@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B081JYDTGL: Ofertón en Amazon para Televisor Led 55 Pulgadas Ultra HD 4K Sm 
- date: 2019/11/28 15:12:45 +0000 
+ date: 2019/12/02 08:01:28 +0000 
  comments: true 
  tags: B081JYDTGL, oferta, amazon, chollo, descuento 
  category: ofertas 
