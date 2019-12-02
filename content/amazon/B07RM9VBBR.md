@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RM9VBBR: Ofertón en Amazon para JACK & JONES Jjitim Jjoriginal Am 814 Va 
- date: 2019/11/30 19:24:36 +0000 
+ date: 2019/12/02 10:37:45 +0000 
  comments: true 
  tags: B07RM9VBBR, oferta, amazon, chollo, descuento 
  category: ofertas 

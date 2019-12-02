@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P3VWTWF: Ahorra en LEGO 75964 Harry Potter Advent Calendar  
- date: 2019/11/30 08:53:10 +0000 
+ date: 2019/12/02 15:00:12 +0000 
  comments: true 
  tags: B07P3VWTWF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 75964 Harry Potter Advent Calendar 2019 with 7 Minifigures  Micro Hogwarts Express Train and Hedwig Figure](https://www.amazon.es/dp/B07P3VWTWF/?tag=redken-21) a 17.99 GBP (original: 34.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 75964 Harry Potter Advent Calendar 2019 with 7 Minifigures  Micro Hogwarts Express Train and Hedwig Figure](https://www.amazon.es/dp/B07P3VWTWF/?tag=redken-21) a 16.7 GBP (original: 34.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51iMtENCn3L._SL200_.jpg)](https://www.amazon.es/dp/B07P3VWTWF/?tag=redken-21) 
  

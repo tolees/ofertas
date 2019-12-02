@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNS9YSZ: Ofertón en Amazon para LEGO Star Wars 75233 - Droid Gunship 
- date: 2019/11/29 19:01:52 +0000 
+ title: B07FNS9YSZ: Ofertón en Amazon para LEGO 75233 Star Wars Droid Gunship Battl 
+ date: 2019/12/01 17:08:11 +0000 
  comments: true 
  tags: B07FNS9YSZ, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO Star Wars 75233 - Droid Gunship](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21) a precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO 75233 Star Wars Droid Gunship Battlefront Games Set Collection with Chief Tarfful and Yoda Minifigures  plus 2 Kashyyyk Battle Droids](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21) a precio de oferta de 36.66 GBP (original: 54.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51-js3ZUS4L._SL200_.jpg)](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21) 
  
