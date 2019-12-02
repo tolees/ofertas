@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NGSLC7T: Ahorra en MEDION Ultrafino S6445 - Ordenador portá 
- date: 2019/12/01 04:37:29 +0000 
+ date: 2019/12/02 19:48:07 +0000 
  comments: true 
  tags: B07NGSLC7T 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full HD  Intel Core i3-8145u  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Plata](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21) a 421 EUR (original: 699 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [MEDION Ultrafino S6445 - Ordenador portátil de 15.6" Full HD  Intel Core i3-8145u  RAM de 8 GB DDR4  SSD de 256 GB  Intel Graphics  Windows 10 Home  Plata](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21) a 445.63 EUR (original: 699 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41kMK-UIM0L._SL200_.jpg)](https://www.amazon.es/dp/B07NGSLC7T/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GJS4SCZ: Rebaja en Police Reloj de Pulsera 15525JSR/02 en Amazon 
- date: 2019/12/01 04:25:35 +0000 
+ date: 2019/12/02 22:53:07 +0000 
  comments: true 
  tags: B07GJS4SCZ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Police Reloj de Pulsera 15525JSR/02](https://www.amazon.es/dp/B07GJS4SCZ/?tag=redken-21) por 95.53 EUR (original: 169.79 EUR) en el siguiente enlace! 
+ Está [Police Reloj de Pulsera 15525JSR/02](https://www.amazon.es/dp/B07GJS4SCZ/?tag=redken-21) por 92.19 EUR (original: 169.79 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Hvm0Mu1iL._SL200_.jpg)](https://www.amazon.es/dp/B07GJS4SCZ/?tag=redken-21) 
  

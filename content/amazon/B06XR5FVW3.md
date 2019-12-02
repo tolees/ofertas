@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XR5FVW3: Ahorra en Bosch Universal Impact 800 - Taladro per 
- date: 2019/11/30 18:45:23 +0000 
+ date: 2019/12/02 18:36:33 +0000 
  comments: true 
  tags: B06XR5FVW3 
  category: ofertas 

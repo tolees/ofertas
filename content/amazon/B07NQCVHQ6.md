@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NQCVHQ6: Ofertón en Amazon para Nuevo Echo Dot  3.ª generación  - Altavo 
- date: 2019/12/01 17:05:13 +0000 
+ date: 2019/12/02 22:55:11 +0000 
  comments: true 
  tags: B07NQCVHQ6, oferta, amazon, chollo, descuento 
  category: ofertas 

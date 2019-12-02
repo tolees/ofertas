@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XYTTEAQ: Ofertón en Amazon para Logitech K400 Plus - Teclado inalámbrico 
- date: 2019/11/30 14:02:37 +0000 
+ date: 2019/12/02 17:58:35 +0000 
  comments: true 
  tags: B00XYTTEAQ, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Logitech K400 Plus - Teclado inalámbrico para televisores conectados a PC  Qwerty español  color negro](https://www.amazon.es/dp/B00XYTTEAQ/?tag=redken-21) a precio de oferta de 19.9 EUR (original: 44.89 EUR) en el siguiente enlace! 
+ Tienes [Logitech K400 Plus - Teclado inalámbrico para televisores conectados a PC  Qwerty español  color negro](https://www.amazon.es/dp/B00XYTTEAQ/?tag=redken-21) a precio de oferta de 19.99 EUR (original: 44.89 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41MNxoa%2BW%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00XYTTEAQ/?tag=redken-21) 
  

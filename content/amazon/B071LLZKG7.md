@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B071LLZKG7: Ofertón en Amazon para Sphero R2-D2 App-Enabled Droid de Sphero 
- date: 2019/11/24 15:53:30 +0000 
+ title: B071LLZKG7: Ofertón en Amazon para Sphero Star Wars R2D2 | Appgesteuerter D 
+ date: 2019/12/02 17:34:43 +0000 
  comments: true 
  tags: B071LLZKG7, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Sphero R2-D2 App-Enabled Droid de Sphero](https://www.amazon.es/dp/B071LLZKG7/?tag=redken-21) a precio de oferta de 72.87 EUR (original: 149.99 EUR) en el siguiente enlace! 
+ Tienes [Sphero Star Wars R2D2 | Appgesteuerter Droide](https://www.amazon.es/dp/B071LLZKG7/?tag=redken-21) a precio de oferta de 77.49 EUR (original: 199.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51PCqzoAdlL._SL200_.jpg)](https://www.amazon.es/dp/B071LLZKG7/?tag=redken-21) 
  
