@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNTTF3B: Ofertón en Amazon para LEGO 70668 Ninjago Legacy Jay s Storm Fi 
- date: 2019/12/02 08:48:58 +0000 
+ date: 2019/12/03 09:12:16 +0000 
  comments: true 
  tags: B07FNTTF3B, oferta, amazon, chollo, descuento 
  category: ofertas 

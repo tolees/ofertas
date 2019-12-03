@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ZIW2V1Q: Ofertón en Amazon para Watch Dogs 2 - Standard Edition 
- date: 2019/11/27 17:45:24 +0000 
+ date: 2019/12/03 10:39:30 +0000 
  comments: true 
  tags: B00ZIW2V1Q, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Watch Dogs 2 - Standard Edition](https://www.amazon.es/dp/B00ZIW2V1Q/?tag=redken-21) a precio de oferta de 13.9 EUR (original: 29.95 EUR) en el siguiente enlace! 
+ Tienes [Watch Dogs 2 - Standard Edition](https://www.amazon.es/dp/B00ZIW2V1Q/?tag=redken-21) a precio de oferta de 14.95 EUR (original: 29.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61ocRea-QwL._SL200_.jpg)](https://www.amazon.es/dp/B00ZIW2V1Q/?tag=redken-21) 
  
