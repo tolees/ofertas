@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IM7BIY0: Rebaja en Bosch Professional - Set de 32 unidades  en Amazon 
- date: 2019/11/26 10:32:27 +0000 
+ date: 2019/12/04 11:38:36 +0000 
  comments: true 
  tags: B00IM7BIY0 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Bosch Professional - Set de 32 unidades para atornillar](https://www.amazon.es/dp/B00IM7BIY0/?tag=redken-21) por 9.49 EUR (original: 21.24 EUR) en el siguiente enlace! 
+ Está [Bosch Professional - Set de 32 unidades para atornillar](https://www.amazon.es/dp/B00IM7BIY0/?tag=redken-21) por 11.99 EUR (original: 21.24 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51O0NPyCBrL._SL200_.jpg)](https://www.amazon.es/dp/B00IM7BIY0/?tag=redken-21) 
  
