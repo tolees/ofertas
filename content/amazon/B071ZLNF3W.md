@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071ZLNF3W: Rebaja en Motorola Moto E4 - Smartphone Libre de 5 en Amazon 
- date: 2019/12/02 14:55:34 +0000 
+ date: 2019/12/04 09:48:10 +0000 
  comments: true 
  tags: B071ZLNF3W 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Motorola Moto E4 - Smartphone Libre de 5" HD  2.800 mAh de batería  cámara de 8 MP  2 GB de RAM + 16 GB de Almacenamiento  procesador Quad-Core de 1.3 GHz  Color Gris](https://www.amazon.es/dp/B071ZLNF3W/?tag=redken-21) por 98.95 EUR (original: 149 EUR) en el siguiente enlace! 
+ Está [Motorola Moto E4 - Smartphone Libre de 5" HD  2.800 mAh de batería  cámara de 8 MP  2 GB de RAM + 16 GB de Almacenamiento  procesador Quad-Core de 1.3 GHz  Color Gris](https://www.amazon.es/dp/B071ZLNF3W/?tag=redken-21) por 97 EUR (original: 149 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31W5424OMiL._SL200_.jpg)](https://www.amazon.es/dp/B071ZLNF3W/?tag=redken-21) 
  

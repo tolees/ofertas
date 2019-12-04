@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTK9B3Z: Ofertón en Amazon para LEGO 21045 - Architecture Trafalgar Squa 
- date: 2019/12/02 19:01:13 +0000 
+ date: 2019/12/03 21:55:50 +0000 
  comments: true 
  tags: B07KTK9B3Z, oferta, amazon, chollo, descuento 
  category: ofertas 

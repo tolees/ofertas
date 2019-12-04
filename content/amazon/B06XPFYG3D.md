@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XPFYG3D: Ofertón en Amazon para Bose SoundLink Revolve  tragbarer Blueto 
- date: 2019/12/02 16:19:13 +0000 
+ date: 2019/12/03 21:09:11 +0000 
  comments: true 
  tags: B06XPFYG3D, oferta, amazon, chollo, descuento 
  category: ofertas 

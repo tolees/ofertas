@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNSDZCZ: Rebaja en LEGO - DUPLO Movie 2 Visitas de Emmet y  en Amazon 
- date: 2019/12/02 11:23:48 +0000 
+ title: B07FNSDZCZ: Rebaja en LEGO 10895 DUPLO Movie 2 Emmet and Lucy  en Amazon 
+ date: 2019/12/02 12:49:51 +0000 
  comments: true 
  tags: B07FNSDZCZ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO - DUPLO Movie 2 Visitas de Emmet y Lucy desde el Planeta DUPLO  Juego de construcción de ladrillos  10895 ](https://www.amazon.es/dp/B07FNSDZCZ/?tag=redken-21) por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Está [LEGO 10895 DUPLO Movie 2 Emmet and Lucy s Visitors from the DUPLO Planet Set with 4 Buildable Aliens](https://www.amazon.es/dp/B07FNSDZCZ/?tag=redken-21) por 16.24 GBP (original: 24.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51dNKuMCZjL._SL200_.jpg)](https://www.amazon.es/dp/B07FNSDZCZ/?tag=redken-21) 
  

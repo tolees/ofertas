@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Y8L5XBG: Ofertón en Amazon para Sierra Circular  TECCPO 480W 3500RPM Min 
- date: 2019/11/29 20:49:36 +0000 
+ date: 2019/12/03 12:32:24 +0000 
  comments: true 
  tags: B07Y8L5XBG, oferta, amazon, chollo, descuento 
  category: ofertas 

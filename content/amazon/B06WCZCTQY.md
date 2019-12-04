@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B06WCZCTQY: Ofertón en Amazon para Cómo entrenar a tu dragón-Eret con Balle 
- date: 2019/12/02 18:23:57 +0000 
+ title: B06WCZCTQY: Ofertón en Amazon para Playmobil 9249 DreamWorks Dragons Eret w 
+ date: 2019/12/03 07:46:43 +0000 
  comments: true 
  tags: B06WCZCTQY, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Cómo entrenar a tu dragón-Eret con Ballesta de 4 Disparos Playset de figuras de juguete  color marrón  28 4 x 9 3 x 18 7 cm Playmobil 9249](https://www.amazon.es/dp/B06WCZCTQY/?tag=redken-21) a precio de oferta de 11.6 EUR (original: 21.2 EUR) en el siguiente enlace! 
+ Tienes [Playmobil 9249 DreamWorks Dragons Eret with 4 Shot Firing Ballista](https://www.amazon.es/dp/B06WCZCTQY/?tag=redken-21) a precio de oferta de 10.38 GBP (original: 19.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51K-wq40LIL._SL200_.jpg)](https://www.amazon.es/dp/B06WCZCTQY/?tag=redken-21) 
  

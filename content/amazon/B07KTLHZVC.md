@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTLHZVC: Rebaja en LEGO 21046 - Architecture Empire State B en Amazon 
- date: 2019/12/02 18:50:12 +0000 
+ date: 2019/12/03 21:57:52 +0000 
  comments: true 
  tags: B07KTLHZVC 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO 21046 - Architecture Empire State Buildinb  Bauset](https://www.amazon.es/dp/B07KTLHZVC/?tag=redken-21) por 63.91 EUR (original: 99.99 EUR) en el siguiente enlace! 
+ Está [LEGO 21046 - Architecture Empire State Buildinb  Bauset](https://www.amazon.es/dp/B07KTLHZVC/?tag=redken-21) por 64.99 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Kf9Ax0j4L._SL200_.jpg)](https://www.amazon.es/dp/B07KTLHZVC/?tag=redken-21) 
  

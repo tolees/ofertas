@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C5YJF2C: Ofertón en Amazon para JACK & JONES Jjitim Jjoriginal JJ 119 Li 
- date: 2019/12/02 11:54:07 +0000 
+ date: 2019/12/03 23:52:25 +0000 
  comments: true 
  tags: B07C5YJF2C, oferta, amazon, chollo, descuento 
  category: ofertas 

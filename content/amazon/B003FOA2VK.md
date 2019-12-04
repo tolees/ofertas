@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003FOA2VK: Ofertón en Amazon para LEGO Lego301516 8879 Remote Control Infr 
- date: 2019/12/02 17:42:00 +0000 
+ date: 2019/12/03 21:33:37 +0000 
  comments: true 
  tags: B003FOA2VK, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO Lego301516 8879 Remote Control Infrared Ir-Rx](https://www.amazon.es/dp/B003FOA2VK/?tag=redken-21) a precio de oferta de 19.39 GBP (original: 30 GBP) en el siguiente enlace! 
+ Tienes [LEGO Lego301516 8879 Remote Control Infrared Ir-Rx](https://www.amazon.es/dp/B003FOA2VK/?tag=redken-21) a precio de oferta de 19.09 GBP (original: 30 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41C5JUBi44L._SL200_.jpg)](https://www.amazon.es/dp/B003FOA2VK/?tag=redken-21) 
  

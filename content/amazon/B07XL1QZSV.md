@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XL1QZSV: Ofertón en Amazon para TXXCI Acrylic Display Case/Box Dustproof 
- date: 2019/12/02 16:18:02 +0000 
+ date: 2019/12/03 21:25:25 +0000 
  comments: true 
  tags: B07XL1QZSV, oferta, amazon, chollo, descuento 
  category: ofertas 
