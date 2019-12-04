@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XHD5SXJ: Ofertón en Amazon para Helly Hansen Verglas Hooded Down Insulat 
- date: 2019/11/30 07:00:21 +0000 
+ date: 2019/12/04 16:40:54 +0000 
  comments: true 
  tags: B06XHD5SXJ, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Black  M](https://www.amazon.es/dp/B06XHD5SXJ/?tag=redken-21) a precio de oferta de 122.58 EUR (original: 260 EUR) en el siguiente enlace! 
+ Tienes [Helly Hansen Verglas Hooded Down Insulator Jacket  Hombre  Black  M](https://www.amazon.es/dp/B06XHD5SXJ/?tag=redken-21) a precio de oferta de 127.79 EUR (original: 260 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Kb98aGuML._SL200_.jpg)](https://www.amazon.es/dp/B06XHD5SXJ/?tag=redken-21) 
  

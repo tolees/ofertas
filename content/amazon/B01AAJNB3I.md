@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01AAJNB3I: Ofertón en Amazon para Columbia Fleece Fast Trek II Full Zip Fo 
- date: 2019/12/02 15:43:12 +0000 
+ date: 2019/12/04 16:01:20 +0000 
  comments: true 
  tags: B01AAJNB3I, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GKVQHSP: Ofertón en Amazon para Xiaomi Mi 8 - Smartphone de 6.21"  Octa- 
- date: 2019/12/03 09:54:30 +0000 
+ date: 2019/12/04 18:09:01 +0000 
  comments: true 
  tags: B07GKVQHSP, oferta, amazon, chollo, descuento 
  category: ofertas 

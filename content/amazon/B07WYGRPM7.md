@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WYGRPM7: Ofertón en Amazon para AISITIN Faja Reductora  Faja Lumbar Trim 
- date: 2019/12/03 09:34:51 +0000 
+ date: 2019/12/04 17:33:31 +0000 
  comments: true 
  tags: B07WYGRPM7, oferta, amazon, chollo, descuento 
  category: ofertas 

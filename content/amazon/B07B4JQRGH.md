@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B4JQRGH: Ofertón en Amazon para Auriculares Bluetooth  Manos Libres Orej 
- date: 2019/12/01 22:10:14 +0000 
+ date: 2019/12/04 16:57:06 +0000 
  comments: true 
  tags: B07B4JQRGH, oferta, amazon, chollo, descuento 
  category: ofertas 

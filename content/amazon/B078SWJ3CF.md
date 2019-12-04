@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SWJ3CF: Ahorra en SanDisk Extreme - Portable SSD  500 GB   
- date: 2019/12/03 15:10:11 +0000 
+ date: 2019/12/04 17:46:12 +0000 
  comments: true 
  tags: B078SWJ3CF 
  category: ofertas 

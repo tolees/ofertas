@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073HDJL4J: Ofertón en Amazon para Timberland Killington New Leather Chukka 
- date: 2019/12/02 19:28:06 +0000 
+ date: 2019/12/04 16:52:16 +0000 
  comments: true 
  tags: B073HDJL4J, oferta, amazon, chollo, descuento 
  category: ofertas 
