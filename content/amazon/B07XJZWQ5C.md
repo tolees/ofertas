@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XJZWQ5C: Rebaja en KASTEWILL Bluetooth Adapter 5.0 Transmit en Amazon 
- date: 2019/12/03 21:09:14 +0000 
+ date: 2019/12/04 21:13:57 +0000 
  comments: true 
  tags: B07XJZWQ5C 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KCWNMSB: Ofertón en Amazon para Hurley M DRI-FIT Coronado Top S/S Partes 
- date: 2019/12/02 18:57:24 +0000 
+ date: 2019/12/05 17:03:59 +0000 
  comments: true 
  tags: B07KCWNMSB, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Hurley M DRI-FIT Coronado Top S/S Partes DE Arriba  Hombre  dk Char Heather](https://www.amazon.es/dp/B07KCWNMSB/?tag=redken-21) a precio de oferta de 12.65 EUR (original: 35 EUR) en el siguiente enlace! 
+ Tienes [Hurley M DRI-FIT Coronado Top S/S Partes DE Arriba  Hombre  dk Char Heather](https://www.amazon.es/dp/B07KCWNMSB/?tag=redken-21) a precio de oferta de 11.99 EUR (original: 35 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41aR3QE%2BXPL._SL200_.jpg)](https://www.amazon.es/dp/B07KCWNMSB/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GDSFGS7: Ofertón en Amazon para Xiaomi MI A2 - Smartphone DE 5.9"  Qualc 
- date: 2019/12/03 14:37:44 +0000 
+ date: 2019/12/05 03:06:07 +0000 
  comments: true 
  tags: B07GDSFGS7, oferta, amazon, chollo, descuento 
  category: ofertas 

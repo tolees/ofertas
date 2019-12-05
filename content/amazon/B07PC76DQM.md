@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PC76DQM: Ofertón en Amazon para Lenovo T530-28ICB - Ordenador sobremesa  
- date: 2019/12/04 16:15:41 +0000 
+ date: 2019/12/05 16:41:10 +0000 
  comments: true 
  tags: B07PC76DQM, oferta, amazon, chollo, descuento 
  category: ofertas 

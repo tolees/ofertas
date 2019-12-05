@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XPS18RM: Ofertón en Amazon para Calzado Deportivo Masculino de Seguridad 
- date: 2019/12/03 23:48:25 +0000 
+ date: 2019/12/05 14:08:47 +0000 
  comments: true 
  tags: B06XPS18RM, oferta, amazon, chollo, descuento 
  category: ofertas 

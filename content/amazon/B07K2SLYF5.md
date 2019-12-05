@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K2SLYF5: Ofertón en Amazon para Armani Exchange - Embossed Logo Crossbod 
- date: 2019/12/03 06:24:35 +0000 
+ date: 2019/12/05 01:28:17 +0000 
  comments: true 
  tags: B07K2SLYF5, oferta, amazon, chollo, descuento 
  category: ofertas 

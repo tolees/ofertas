@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B078W6JNKF: Ofertón en Amazon para Corsair Dark Core RGB SE Wireless/Wired  
- date: 2019/11/28 03:08:54 +0000 
+ title: B078W6JNKF: Ofertón en Amazon para Corsair Dark Core RGB SE - Ratón óptico  
+ date: 2019/12/05 17:11:27 +0000 
  comments: true 
  tags: B078W6JNKF, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Corsair Dark Core RGB SE Wireless/Wired Gaming Mouse with Qi Wireless Charging  16000 DPI Optical Sensor  9 Programmable Side Buttons  RGB Multi-Colour Backlighting  Xbox One Compatible  - Black](https://www.amazon.es/dp/B078W6JNKF/?tag=redken-21) a precio de oferta de 54.99 GBP (original: 94.99 GBP) en el siguiente enlace! 
+ Tienes [Corsair Dark Core RGB SE - Ratón óptico para Juegos inalámbrico  con Carga inalámbrica Qi  retroiluminación LED RGB  16 000 PPP  inalámbrico   color Negro](https://www.amazon.es/dp/B078W6JNKF/?tag=redken-21) a precio de oferta de 69.99 EUR (original: 109.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41oY97%2Beu3L._SL200_.jpg)](https://www.amazon.es/dp/B078W6JNKF/?tag=redken-21) 
  

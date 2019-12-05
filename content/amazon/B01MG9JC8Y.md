@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MG9JC8Y: Ofertón en Amazon para King Kong 2017 12477 6-Inch Pop Vinyl Fi 
- date: 2019/12/02 23:33:20 +0000 
+ date: 2019/12/05 05:11:23 +0000 
  comments: true 
  tags: B01MG9JC8Y, oferta, amazon, chollo, descuento 
  category: ofertas 
