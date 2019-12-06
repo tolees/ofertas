@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077H1TYYH: Ofertón en Amazon para Acer KG1 KG251Q - Monitor Gaming de 24.5 
- date: 2019/12/05 10:38:35 +0000 
+ date: 2019/12/06 16:16:50 +0000 
  comments: true 
  tags: B077H1TYYH, oferta, amazon, chollo, descuento 
  category: ofertas 

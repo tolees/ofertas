@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KWJF66Y: Rebaja en Lightailing Light Set for  Parisian Rest en Amazon 
- date: 2019/12/04 05:15:54 +0000 
+ title: B07KWJF66Y: Rebaja en LIGHTAILING Light Set For  Parisian Rest en Amazon 
+ date: 2019/12/06 13:17:27 +0000 
  comments: true 
  tags: B07KWJF66Y 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lightailing Light Set for  Parisian Restaurant  Building Blocks Model - Led Light kit Compatible with Lego 10243 NOT Included The Model ](https://www.amazon.es/dp/B07KWJF66Y/?tag=redken-21) por 24.99 GBP (original: 80 GBP) en el siguiente enlace! 
+ Está [LIGHTAILING Light Set For  Parisian Restaurant  Building Blocks Model - Led Light kit Compatible With Lego 10243 NOT Included The Model ](https://www.amazon.es/dp/B07KWJF66Y/?tag=redken-21) por 29.99 GBP (original: 60 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51T8kbx6v9L._SL200_.jpg)](https://www.amazon.es/dp/B07KWJF66Y/?tag=redken-21) 
  

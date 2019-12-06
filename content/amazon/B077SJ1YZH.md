@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077SJ1YZH: Ofertón en Amazon para PUMA Liga Casual Sudadera  Hombre  Red/W 
- date: 2019/12/05 05:00:47 +0000 
+ date: 2019/12/06 13:50:23 +0000 
  comments: true 
  tags: B077SJ1YZH, oferta, amazon, chollo, descuento 
  category: ofertas 

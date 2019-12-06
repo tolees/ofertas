@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQNBG9H: Rebaja en Helly Hansen KOS Polo  Hombre  Azul  Azu en Amazon 
- date: 2019/12/04 12:58:57 +0000 
+ date: 2019/12/06 13:07:24 +0000 
  comments: true 
  tags: B07KQNBG9H 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Helly Hansen KOS Polo  Hombre  Azul  Azul 563   M](https://www.amazon.es/dp/B07KQNBG9H/?tag=redken-21) por 32.3 EUR (original: 65 EUR) en el siguiente enlace! 
+ Está [Helly Hansen KOS Polo  Hombre  Azul  Azul 563   M](https://www.amazon.es/dp/B07KQNBG9H/?tag=redken-21) por 29.16 EUR (original: 65 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41xSFtBVNLL._SL200_.jpg)](https://www.amazon.es/dp/B07KQNBG9H/?tag=redken-21) 
  

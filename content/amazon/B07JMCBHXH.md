@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JMCBHXH: Ofertón en Amazon para Playmobil 70172 Ghostbusters Collector s 
- date: 2019/12/03 22:06:30 +0000 
+ date: 2019/12/06 13:22:58 +0000 
  comments: true 
  tags: B07JMCBHXH, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil 70172 Ghostbusters Collector s Edition P. Venkman](https://www.amazon.es/dp/B07JMCBHXH/?tag=redken-21) a precio de oferta de 18.99 GBP (original: 38.66 GBP) en el siguiente enlace! 
+ Tienes [Playmobil 70172 Ghostbusters Collector s Edition P. Venkman](https://www.amazon.es/dp/B07JMCBHXH/?tag=redken-21) a precio de oferta de 18.99 GBP (original: 38 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg)](https://www.amazon.es/dp/B07JMCBHXH/?tag=redken-21) 
  
