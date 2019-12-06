@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CG3FHB4: Ofertón en Amazon para JACK & JONES Jjebasic Knit Crew Neck Noo 
- date: 2019/11/30 12:20:25 +0000 
+ date: 2019/12/06 06:17:22 +0000 
  comments: true 
  tags: B07CG3FHB4, oferta, amazon, chollo, descuento 
  category: ofertas 

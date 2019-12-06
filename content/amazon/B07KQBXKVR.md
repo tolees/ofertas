@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQBXKVR: Ofertón en Amazon para The Lego Movie 2 70837 Schimmerndes Glit 
- date: 2019/12/02 18:50:12 +0000 
+ date: 2019/12/05 23:00:39 +0000 
  comments: true 
  tags: B07KQBXKVR, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [The Lego Movie 2 70837 Schimmerndes Glitzer-Spa  Bauset](https://www.amazon.es/dp/B07KQBXKVR/?tag=redken-21) a precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Tienes [The Lego Movie 2 70837 Schimmerndes Glitzer-Spa  Bauset](https://www.amazon.es/dp/B07KQBXKVR/?tag=redken-21) a precio de oferta de 44.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51yWE7XgidL._SL200_.jpg)](https://www.amazon.es/dp/B07KQBXKVR/?tag=redken-21) 
  

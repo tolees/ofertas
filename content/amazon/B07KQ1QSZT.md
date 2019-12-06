@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQ1QSZT: Ofertón en Amazon para LEGO MOVIE 2 70839 The Rexcelsior! Rex a 
- date: 2019/12/05 08:34:23 +0000 
+ date: 2019/12/06 08:41:36 +0000 
  comments: true 
  tags: B07KQ1QSZT, oferta, amazon, chollo, descuento 
  category: ofertas 

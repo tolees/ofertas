@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075GQBMMV: Rebaja en LEGO 10864 DUPLO My First Large Playgrou en Amazon 
- date: 2019/12/01 08:27:53 +0000 
+ date: 2019/12/06 08:40:01 +0000 
  comments: true 
  tags: B075GQBMMV 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO 10864 DUPLO My First Large Playground Brick Box with Bouncy Car and Windmill  Easy Toy Storage Set for Kids 2-5](https://www.amazon.es/dp/B075GQBMMV/?tag=redken-21) por 21.99 GBP (original: 39.99 GBP) en el siguiente enlace! 
+ Está [LEGO 10864 DUPLO My First Large Playground Brick Box with Bouncy Car and Windmill  Easy Toy Storage Set for Kids 2-5](https://www.amazon.es/dp/B075GQBMMV/?tag=redken-21) por 20 GBP (original: 39.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51I6cfG671L._SL200_.jpg)](https://www.amazon.es/dp/B075GQBMMV/?tag=redken-21) 
  

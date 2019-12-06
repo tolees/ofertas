@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B01DLMD5O6: Ofertón en Amazon para Sony SEL50F18F.SYX - Objetivo Fijo  FE 5 
+ title: B01DLMD5O6: Ahorra en Sony SEL50F18F.SYX - Objetivo Fijo  FE 5 
  date: 2019/11/29 12:58:12 +0000 
  comments: true 
- tags: B01DLMD5O6, oferta, amazon, chollo, descuento 
+ tags: B01DLMD5O6 
  category: ofertas 
  author: ring 
  slug: B01DLMD5O6 
  description: 
  --- 
  
- Tienes [Sony SEL50F18F.SYX - Objetivo Fijo  FE 50mm  F1.8   Negro](https://www.amazon.es/dp/B01DLMD5O6/?tag=redken-21) a precio de oferta de 149 EUR (original: 330 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Sony SEL50F18F.SYX - Objetivo Fijo  FE 50mm  F1.8   Negro](https://www.amazon.es/dp/B01DLMD5O6/?tag=redken-21) a 149 EUR (original: 330 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.es/dp/B01DLMD5O6/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B01DLMD5O6/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B01DLMD5O6/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

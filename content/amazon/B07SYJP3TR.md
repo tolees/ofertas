@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SYJP3TR: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego St en Amazon 
- date: 2019/12/03 22:38:08 +0000 
+ date: 2019/12/05 22:06:52 +0000 
  comments: true 
  tags: B07SYJP3TR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial Star Destroyer  Kompatibel Mit Lego 75055 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07SYJP3TR/?tag=redken-21) por 32.99 EUR (original: 52.99 EUR) en el siguiente enlace! 
+ Está [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Imperial Star Destroyer  Kompatibel Mit Lego 75055 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07SYJP3TR/?tag=redken-21) por 34.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51oPpWZbERL._SL200_.jpg)](https://www.amazon.es/dp/B07SYJP3TR/?tag=redken-21) 
  
