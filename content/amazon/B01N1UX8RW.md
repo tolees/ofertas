@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N1UX8RW: Ofertón en Amazon para RENPHO Bluetooth Body Fat Scale  Digital 
- date: 2019/12/03 00:10:44 +0000 
+ date: 2019/12/07 05:11:09 +0000 
  comments: true 
  tags: B01N1UX8RW, oferta, amazon, chollo, descuento 
  category: ofertas 

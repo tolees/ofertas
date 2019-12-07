@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074MCNDSK: Ahorra en Samsung T5 2TB - Disco Estado sólido SSD 
- date: 2019/12/01 20:54:32 +0000 
+ date: 2019/12/07 18:53:59 +0000 
  comments: true 
  tags: B074MCNDSK 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Samsung T5 2TB - Disco Estado sólido SSD Externo  2TB  USB   Color Negro](https://www.amazon.es/dp/B074MCNDSK/?tag=redken-21) a 289.99 EUR (original: 769.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Samsung T5 2TB - Disco Estado sólido SSD Externo  2TB  USB   Color Negro](https://www.amazon.es/dp/B074MCNDSK/?tag=redken-21) a 329.55 EUR (original: 769.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31EXg6Xja2L._SL200_.jpg)](https://www.amazon.es/dp/B074MCNDSK/?tag=redken-21) 
  

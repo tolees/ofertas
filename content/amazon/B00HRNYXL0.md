@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HRNYXL0: Rebaja en WD Red - Disco duro para NAS  4 TB en Amazon 
- date: 2019/12/06 09:29:38 +0000 
+ date: 2019/12/07 11:05:52 +0000 
  comments: true 
  tags: B00HRNYXL0 
  category: ofertas 

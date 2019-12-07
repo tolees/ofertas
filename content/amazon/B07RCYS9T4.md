@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RCYS9T4: Ofertón en Amazon para Q-Man Ingenious Toys / WWII military bom 
- date: 2019/12/05 13:19:33 +0000 
+ date: 2019/12/07 05:21:14 +0000 
  comments: true 
  tags: B07RCYS9T4, oferta, amazon, chollo, descuento 
  category: ofertas 

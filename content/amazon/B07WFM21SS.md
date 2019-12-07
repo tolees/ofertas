@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WFM21SS: Ofertón en Amazon para Aigoss Altavoz Bluetooth Portátil Sonido 
- date: 2019/12/05 05:23:21 +0000 
+ date: 2019/12/07 10:01:19 +0000 
  comments: true 
  tags: B07WFM21SS, oferta, amazon, chollo, descuento 
  category: ofertas 

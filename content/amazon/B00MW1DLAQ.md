@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MW1DLAQ: Ofertón en Amazon para Rexxor 239-6066-99 - Reloj de cuarzo par 
- date: 2019/12/06 13:08:49 +0000 
+ date: 2019/12/07 17:32:42 +0000 
  comments: true 
  tags: B00MW1DLAQ, oferta, amazon, chollo, descuento 
  category: ofertas 

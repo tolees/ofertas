@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FP6QNQ1: Ofertón en Amazon para LEGO Creator 31089 - Rennwagen 
- date: 2019/12/06 17:44:16 +0000 
+ date: 2019/12/07 17:48:23 +0000 
  comments: true 
  tags: B07FP6QNQ1, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO Creator 31089 - Rennwagen](https://www.amazon.es/dp/B07FP6QNQ1/?tag=redken-21) a precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace! 
+ Tienes [LEGO Creator 31089 - Rennwagen](https://www.amazon.es/dp/B07FP6QNQ1/?tag=redken-21) a precio de oferta de 12.78 EUR (original: 19.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51uAnAVl0rL._SL200_.jpg)](https://www.amazon.es/dp/B07FP6QNQ1/?tag=redken-21) 
  

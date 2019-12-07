@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DT2Q5PN: Ofertón en Amazon para HP Pavilion 590-a0002ns - Ordenador de s 
- date: 2019/12/05 07:34:05 +0000 
+ date: 2019/12/07 00:03:53 +0000 
  comments: true 
  tags: B07DT2Q5PN, oferta, amazon, chollo, descuento 
  category: ofertas 

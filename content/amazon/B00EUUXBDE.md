@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00EUUXBDE: Ofertón en Amazon para Logitech Z200 2.0 Altavoces Estéreo 10 V 
- date: 2019/12/06 13:24:28 +0000 
+ date: 2019/12/07 14:35:55 +0000 
  comments: true 
  tags: B00EUUXBDE, oferta, amazon, chollo, descuento 
  category: ofertas 

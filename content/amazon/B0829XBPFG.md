@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0829XBPFG: Ofertón en Amazon para GODNECE Technic Off-road Car  2.4G RC Of 
- date: 2019/12/05 21:51:59 +0000 
+ date: 2019/12/07 09:59:03 +0000 
  comments: true 
  tags: B0829XBPFG, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CIEBXZG: Ofertón en Amazon para SanDisk iXpand - Memoria Flash USB de 12 
- date: 2019/11/30 15:24:37 +0000 
+ date: 2019/12/07 16:52:16 +0000 
  comments: true 
  tags: B01CIEBXZG, oferta, amazon, chollo, descuento 
  category: ofertas 
