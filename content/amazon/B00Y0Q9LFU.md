@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00Y0Q9LFU: Ofertón en Amazon para Bowers & Wilkins P5 Wireless - Auricular 
- date: 2019/12/03 12:36:46 +0000 
+ date: 2019/12/08 20:08:49 +0000 
  comments: true 
  tags: B00Y0Q9LFU, oferta, amazon, chollo, descuento 
  category: ofertas 

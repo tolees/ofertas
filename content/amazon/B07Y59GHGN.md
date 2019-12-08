@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Y59GHGN: Ofertón en Amazon para Tablet 10 Pulgadas YOTOPT  4GB de RAM y  
- date: 2019/12/06 21:05:14 +0000 
+ date: 2019/12/08 19:53:09 +0000 
  comments: true 
  tags: B07Y59GHGN, oferta, amazon, chollo, descuento 
  category: ofertas 

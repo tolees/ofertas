@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00UM5J4IM: Ofertón en Amazon para The North Face Horizon Plus Pantalón Con 
- date: 2019/12/02 13:53:41 +0000 
+ date: 2019/12/08 17:32:55 +0000 
  comments: true 
  tags: B00UM5J4IM, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [The North Face Horizon Plus Pantalón Convertible  Mujer  Marron  34](https://www.amazon.es/dp/B00UM5J4IM/?tag=redken-21) a precio de oferta de 23.74 EUR (original: 75 EUR) en el siguiente enlace! 
+ Tienes [The North Face Horizon Plus Pantalón Convertible  Mujer  Marron  34](https://www.amazon.es/dp/B00UM5J4IM/?tag=redken-21) a precio de oferta de 24.38 EUR (original: 75 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31COub36raL._SL200_.jpg)](https://www.amazon.es/dp/B00UM5J4IM/?tag=redken-21) 
  
