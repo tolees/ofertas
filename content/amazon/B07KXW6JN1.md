@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KXW6JN1: Ofertón en Amazon para Jack & Jones NOS JJEDESERT Bomber Noos C 
- date: 2019/12/05 03:14:11 +0000 
+ date: 2019/12/07 21:23:14 +0000 
  comments: true 
  tags: B07KXW6JN1, oferta, amazon, chollo, descuento 
  category: ofertas 
