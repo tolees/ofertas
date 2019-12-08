@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WV9L2DH: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for Ideas Wome 
- date: 2019/12/05 21:27:28 +0000 
+ date: 2019/12/08 01:19:41 +0000 
  comments: true 
  tags: B07WV9L2DH, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MSDCB7G: Ofertón en Amazon para LEGO Ninjago Movie 23480K Lego Kai Class 
- date: 2019/12/05 05:12:06 +0000 
+ date: 2019/12/08 09:10:45 +0000 
  comments: true 
  tags: B01MSDCB7G, oferta, amazon, chollo, descuento 
  category: ofertas 

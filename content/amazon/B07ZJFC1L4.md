@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07ZJFC1L4: Ahorra en Adaptador Bluetooth Transmisor Receptor  
- date: 2019/12/05 22:06:46 +0000 
+ date: 2019/12/08 01:52:54 +0000 
  comments: true 
  tags: B07ZJFC1L4 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MKQQRPK: Ofertón en Amazon para Towinle Caja Pulseras Gomas 6800 Bandas  
- date: 2019/12/07 05:31:44 +0000 
+ date: 2019/12/08 09:32:32 +0000 
  comments: true 
  tags: B07MKQQRPK, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TZPGNBR: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/05 22:45:04 +0000 
+ title: B07TZPGNBR: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego St 
+ date: 2019/12/07 18:25:40 +0000 
  comments: true 
  tags: B07TZPGNBR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Kylo Ren s Tie Fighter- Compatible with Lego 75179 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TZPGNBR/?tag=redken-21) a 31.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s Tie Fighter  Kompatibel Mit Lego 75179 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07TZPGNBR/?tag=redken-21) a 38.99 EUR (original: 63.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41UYfQp1jBL._SL200_.jpg)](https://www.amazon.es/dp/B07TZPGNBR/?tag=redken-21) 
  

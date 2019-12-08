@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N19SWHF: Rebaja en Lee Crew Sws  Sudadera para Hombre  Nara en Amazon 
- date: 2019/12/04 21:35:55 +0000 
+ date: 2019/12/08 12:16:03 +0000 
  comments: true 
  tags: B07N19SWHF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lee Crew Sws  Sudadera para Hombre  Naranja  Sign Orange Me   Small](https://www.amazon.es/dp/B07N19SWHF/?tag=redken-21) por 23.92 EUR (original: 59.95 EUR) en el siguiente enlace! 
+ Está [Lee Crew Sws  Sudadera para Hombre  Naranja  Sign Orange Me   Small](https://www.amazon.es/dp/B07N19SWHF/?tag=redken-21) por 19.16 EUR (original: 59.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41tS%2BHuO-xL._SL200_.jpg)](https://www.amazon.es/dp/B07N19SWHF/?tag=redken-21) 
  

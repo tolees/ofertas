@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079MMDF5V: Rebaja en PLAYMOBIL Magic 9473 Schneetroll mit Sch en Amazon 
- date: 2019/12/07 05:28:16 +0000 
+ date: 2019/12/08 09:19:30 +0000 
  comments: true 
  tags: B079MMDF5V 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und Lichteffekt  Ab 4 Jahren](https://www.amazon.es/dp/B079MMDF5V/?tag=redken-21) por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace! 
+ Está [PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und Lichteffekt  Ab 4 Jahren](https://www.amazon.es/dp/B079MMDF5V/?tag=redken-21) por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51AYzCF1umL._SL200_.jpg)](https://www.amazon.es/dp/B079MMDF5V/?tag=redken-21) 
  

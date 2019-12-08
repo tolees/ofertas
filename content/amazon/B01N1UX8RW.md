@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N1UX8RW: Ahorra en RENPHO Bluetooth Body Fat Scale  Digital 
- date: 2019/12/07 05:11:09 +0000 
+ date: 2019/12/08 09:14:23 +0000 
  comments: true 
  tags: B01N1UX8RW 
  category: ofertas 
