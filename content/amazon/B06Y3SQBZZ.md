@@ -1,6 +1,6 @@
 --- 
  layout: post 
- title: B06Y3SQBZZ: Ahorra en ELEGOO Kit Básico de Componentes Electró 
+ title: B06Y3SQBZZ: Rebaja en ELEGOO Kit Básico de Componentes Electró en Amazon 
  date: 2019/12/02 13:05:59 +0000 
  comments: true 
  tags: B06Y3SQBZZ 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [ELEGOO Kit Básico de Componentes Electrónicos con Resistencias  Leds  Condensadores  Zumbador  Potenciómetro Compatible con Arduino UNO R3  Mega 2560  Raspberry Pi  Nano  Hoja de Datos Disponible](https://www.amazon.es/dp/B06Y3SQBZZ/?tag=redken-21) a 7.99 EUR (original: 18.99 EUR) en el siguiente enlace! 
+ Está [ELEGOO Kit Básico de Componentes Electrónicos con Resistencias  Leds  Condensadores  Zumbador  Potenciómetro Compatible con Arduino UNO R3  Mega 2560  Raspberry Pi  Nano  Hoja de Datos Disponible](https://www.amazon.es/dp/B06Y3SQBZZ/?tag=redken-21) por 7.99 EUR (original: 18.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61slcN0Pr6L._SL200_.jpg)](https://www.amazon.es/dp/B06Y3SQBZZ/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B06Y3SQBZZ/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B06Y3SQBZZ/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

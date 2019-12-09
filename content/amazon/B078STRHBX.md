@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078STRHBX: Ahorra en SanDisk Extreme - Portable SSD  1 TB  ha 
- date: 2019/12/02 13:21:02 +0000 
+ date: 2019/12/09 06:12:43 +0000 
  comments: true 
  tags: B078STRHBX 
  category: ofertas 
