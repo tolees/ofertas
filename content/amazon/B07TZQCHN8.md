@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TZQCHN8: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Id en Amazon 
- date: 2019/12/04 21:32:38 +0000 
+ title: B07TZQCHN8: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Ideas en Amazon 
+ date: 2019/12/10 11:20:09 +0000 
  comments: true 
  tags: B07TZQCHN8 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Beleuchtungsset für Lego Ideas Pop-Up-Buch  Kompatibel Mit Lego 21315 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07TZQCHN8/?tag=redken-21) por 29.99 EUR (original: 89.99 EUR) en el siguiente enlace! 
+ Está [BRIKSMAX Led Lighting Kit for LEGO Ideas Pop-up Book- Compatible with Lego 21315 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TZQCHN8/?tag=redken-21) por 26.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41dimpRDQaL._SL200_.jpg)](https://www.amazon.es/dp/B07TZQCHN8/?tag=redken-21) 
  

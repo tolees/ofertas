@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RL6RG5P: Ofertón en Amazon para FREDI Cámara IP Exterior Cámara de Vigil 
- date: 2019/12/02 11:34:41 +0000 
+ date: 2019/12/09 19:42:02 +0000 
  comments: true 
  tags: B07RL6RG5P, oferta, amazon, chollo, descuento 
  category: ofertas 

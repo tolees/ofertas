@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MKCFGLZ: Ofertón en Amazon para Lighting Universal LED Light Lighting Ki 
- date: 2019/12/09 10:37:12 +0000 
+ date: 2019/12/10 15:42:41 +0000 
  comments: true 
  tags: B07MKCFGLZ, oferta, amazon, chollo, descuento 
  category: ofertas 

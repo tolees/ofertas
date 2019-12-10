@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079YC3YJT: Rebaja en Funko Pop Star Wars Solo 26990 L3-37 en Amazon 
- date: 2019/12/08 01:03:48 +0000 
+ date: 2019/12/10 10:57:58 +0000 
  comments: true 
  tags: B079YC3YJT 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Funko Pop Star Wars Solo 26990 L3-37](https://www.amazon.es/dp/B079YC3YJT/?tag=redken-21) por 5 GBP (original: 9.27 GBP) en el siguiente enlace! 
+ Está [Funko Pop Star Wars Solo 26990 L3-37](https://www.amazon.es/dp/B079YC3YJT/?tag=redken-21) por 5 GBP (original: 9.12 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41h-GzbX%2BTL._SL200_.jpg)](https://www.amazon.es/dp/B079YC3YJT/?tag=redken-21) 
  

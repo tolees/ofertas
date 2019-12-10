@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07YTWYW9X: Ofertón en Amazon para 4G LTE Tablet 10 Pulgadas YOTOPT - Andro 
- date: 2019/12/06 09:19:35 +0000 
+ date: 2019/12/10 13:46:24 +0000 
  comments: true 
  tags: B07YTWYW9X, oferta, amazon, chollo, descuento 
  category: ofertas 

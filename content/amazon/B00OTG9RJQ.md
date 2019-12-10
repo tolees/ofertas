@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00OTG9RJQ: Ofertón en Amazon para Audio-Technica ATH-PG1 - Auriculares de  
- date: 2019/12/09 12:13:19 +0000 
+ date: 2019/12/10 16:54:18 +0000 
  comments: true 
  tags: B00OTG9RJQ, oferta, amazon, chollo, descuento 
  category: ofertas 

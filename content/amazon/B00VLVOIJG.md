@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VLVOIJG: Rebaja en Playmobil 6692 Super 4 Techno Chameleon  en Amazon 
- date: 2019/12/07 18:05:30 +0000 
+ date: 2019/12/09 21:17:43 +0000 
  comments: true 
  tags: B00VLVOIJG 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Playmobil 6692 Super 4 Techno Chameleon with Gene](https://www.amazon.es/dp/B00VLVOIJG/?tag=redken-21) por 20.28 GBP (original: 39.99 GBP) en el siguiente enlace! 
+ Está [Playmobil 6692 Super 4 Techno Chameleon with Gene](https://www.amazon.es/dp/B00VLVOIJG/?tag=redken-21) por 19.81 GBP (original: 39.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51CEZEXS%2BiL._SL200_.jpg)](https://www.amazon.es/dp/B00VLVOIJG/?tag=redken-21) 
  

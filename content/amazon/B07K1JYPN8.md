@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K1JYPN8: Ofertón en Amazon para LIGHTAILING Light Set For   Expert Detec 
- date: 2019/12/08 17:08:39 +0000 
+ date: 2019/12/10 19:41:27 +0000 
  comments: true 
  tags: B07K1JYPN8, oferta, amazon, chollo, descuento 
  category: ofertas 

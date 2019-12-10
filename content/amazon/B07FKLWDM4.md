@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FKLWDM4: Ofertón en Amazon para Apple Funda de piel  para el MacBook de  
- date: 2019/12/05 14:29:13 +0000 
+ date: 2019/12/10 14:31:35 +0000 
  comments: true 
  tags: B07FKLWDM4, oferta, amazon, chollo, descuento 
  category: ofertas 

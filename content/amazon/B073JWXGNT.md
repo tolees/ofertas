@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073JWXGNT: Ahorra en SanDisk Ultra - Tarjeta de memoria micro 
- date: 2019/12/07 18:50:17 +0000 
+ date: 2019/12/09 15:16:39 +0000 
  comments: true 
  tags: B073JWXGNT 
  category: ofertas 

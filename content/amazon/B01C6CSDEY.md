@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01C6CSDEY: Ofertón en Amazon para American Tourister - Road quest bolsa de 
- date: 2019/12/01 11:53:05 +0000 
+ date: 2019/12/09 16:22:02 +0000 
  comments: true 
  tags: B01C6CSDEY, oferta, amazon, chollo, descuento 
  category: ofertas 

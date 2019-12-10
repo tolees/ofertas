@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FP6QRDL: Ofertón en Amazon para LEGO 60209 City Police Sky Police Diamon 
- date: 2019/12/07 16:46:14 +0000 
+ date: 2019/12/10 19:43:17 +0000 
  comments: true 
  tags: B07FP6QRDL, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO 60209 City Police Sky Police Diamond Heist with Chase Helicopter and Truck Toys plus Jetpack  4 Minifigures and Light and Sound Brick  Jail Break Sets for Kids](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21) a precio de oferta de 28.29 GBP (original: 44.99 GBP) en el siguiente enlace! 
+ Tienes [LEGO 60209 City Police Sky Police Diamond Heist with Chase Helicopter and Truck Toys plus Jetpack  4 Minifigures and Light and Sound Brick  Jail Break Sets for Kids](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21) a precio de oferta de 28 GBP (original: 44.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51xrHWft5zL._SL200_.jpg)](https://www.amazon.es/dp/B07FP6QRDL/?tag=redken-21) 
  
