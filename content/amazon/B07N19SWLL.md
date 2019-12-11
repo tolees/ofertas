@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N19SWLL: Ofertón en Amazon para Lee Western Shirt Camisa  Warp Red  M pa 
- date: 2019/12/09 21:04:14 +0000 
+ date: 2019/12/11 19:58:06 +0000 
  comments: true 
  tags: B07N19SWLL, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Lee Western Shirt Camisa  Warp Red  M para Hombre](https://www.amazon.es/dp/B07N19SWLL/?tag=redken-21) a precio de oferta de 28.27 EUR (original: 65 EUR) en el siguiente enlace! 
+ Tienes [Lee Western Shirt Camisa  Warp Red  M para Hombre](https://www.amazon.es/dp/B07N19SWLL/?tag=redken-21) a precio de oferta de 30.68 EUR (original: 65 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg)](https://www.amazon.es/dp/B07N19SWLL/?tag=redken-21) 
  

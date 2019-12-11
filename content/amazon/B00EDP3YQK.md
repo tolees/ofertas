@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00EDP3YQK: Ofertón en Amazon para Remington Silk S9600 - Plancha de Pelo   
- date: 2019/12/03 14:15:32 +0000 
+ date: 2019/12/11 17:34:02 +0000 
  comments: true 
  tags: B00EDP3YQK, oferta, amazon, chollo, descuento 
  category: ofertas 
