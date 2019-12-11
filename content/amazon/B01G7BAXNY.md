@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01G7BAXNY: Ofertón en Amazon para Henry London Reloj Analógico para Mujer  
- date: 2019/12/01 01:04:38 +0000 
+ date: 2019/12/11 01:14:41 +0000 
  comments: true 
  tags: B01G7BAXNY, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Henry London Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 5018479079903](https://www.amazon.es/dp/B01G7BAXNY/?tag=redken-21) a precio de oferta de 89.07 EUR (original: 149 EUR) en el siguiente enlace! 
+ Tienes [Henry London Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 5018479079903](https://www.amazon.es/dp/B01G7BAXNY/?tag=redken-21) a precio de oferta de 90.86 EUR (original: 149 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41SGIBxSZHL._SL200_.jpg)](https://www.amazon.es/dp/B01G7BAXNY/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00PDUE8TG: Ofertón en Amazon para Ultimate Ears Megaboom - Altavoz portáti 
- date: 2019/12/07 23:00:58 +0000 
+ date: 2019/12/11 08:40:38 +0000 
  comments: true 
  tags: B00PDUE8TG, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Q4PVL6S: Rebaja en Henry London Reloj Analógico para Unisex en Amazon 
- date: 2019/12/05 23:06:18 +0000 
+ date: 2019/12/10 22:39:34 +0000 
  comments: true 
  tags: B07Q4PVL6S 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero HL34-S-0408](https://www.amazon.es/dp/B07Q4PVL6S/?tag=redken-21) por 37.7 EUR (original: 133.18 EUR) en el siguiente enlace! 
+ Está [Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero HL34-S-0408](https://www.amazon.es/dp/B07Q4PVL6S/?tag=redken-21) por 35.11 EUR (original: 133.18 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31VHptIjiNL._SL200_.jpg)](https://www.amazon.es/dp/B07Q4PVL6S/?tag=redken-21) 
  
