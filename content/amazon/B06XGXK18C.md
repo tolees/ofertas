@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XGXK18C: Rebaja en Funko Pop Disney Cars 3 13242 Cruz Ramir en Amazon 
- date: 2019/12/07 09:49:14 +0000 
+ date: 2019/12/11 21:52:29 +0000 
  comments: true 
  tags: B06XGXK18C 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Funko Pop Disney Cars 3 13242 Cruz Ramirez](https://www.amazon.es/dp/B06XGXK18C/?tag=redken-21) por 5.95 GBP (original: 9.34 GBP) en el siguiente enlace! 
+ Está [Funko Pop Disney Cars 3 13242 Cruz Ramirez](https://www.amazon.es/dp/B06XGXK18C/?tag=redken-21) por 5.95 GBP (original: 9.12 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/413o6zR6TML._SL200_.jpg)](https://www.amazon.es/dp/B06XGXK18C/?tag=redken-21) 
  
