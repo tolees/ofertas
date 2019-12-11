@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KWLMNHN: Ofertón en Amazon para BRIKSMAX Volkswagen T1 Camper Van Led Li 
- date: 2019/12/10 11:09:04 +0000 
+ date: 2019/12/11 13:48:27 +0000 
  comments: true 
  tags: B07KWLMNHN, oferta, amazon, chollo, descuento 
  category: ofertas 

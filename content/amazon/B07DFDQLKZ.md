@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DFDQLKZ: Rebaja en Funko Pop Animation: Simpsons-Bart-Bartm en Amazon 
- date: 2019/12/09 09:28:37 +0000 
+ date: 2019/12/11 14:45:25 +0000 
  comments: true 
  tags: B07DFDQLKZ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Funko Pop Animation: Simpsons-Bart-Bartman Figura Coleccionable  Multicolor  33876 ](https://www.amazon.es/dp/B07DFDQLKZ/?tag=redken-21) por 10.5 EUR (original: 15.95 EUR) en el siguiente enlace! 
+ Está [Funko Pop Animation: Simpsons-Bart-Bartman Figura Coleccionable  Multicolor  33876 ](https://www.amazon.es/dp/B07DFDQLKZ/?tag=redken-21) por 8.75 EUR (original: 15.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41OoKyXRJoL._SL200_.jpg)](https://www.amazon.es/dp/B07DFDQLKZ/?tag=redken-21) 
  

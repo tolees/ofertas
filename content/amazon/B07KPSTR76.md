@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KPSTR76: Rebaja en Funko Vinyl: Disney: Dumbo: Pop 2 Dreaml en Amazon 
- date: 2019/12/10 12:36:11 +0000 
+ date: 2019/12/11 14:48:28 +0000 
  comments: true 
  tags: B07KPSTR76 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Funko Vinyl: Disney: Dumbo: Pop 2 Dreamland Figura de Vinilo  Multicolor  34217 ](https://www.amazon.es/dp/B07KPSTR76/?tag=redken-21) por 10.5 EUR (original: 15.95 EUR) en el siguiente enlace! 
+ Está [Funko Vinyl: Disney: Dumbo: Pop 2 Dreamland Figura de Vinilo  Multicolor  34217 ](https://www.amazon.es/dp/B07KPSTR76/?tag=redken-21) por 8.75 EUR (original: 15.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41s-eepkylL._SL200_.jpg)](https://www.amazon.es/dp/B07KPSTR76/?tag=redken-21) 
  
