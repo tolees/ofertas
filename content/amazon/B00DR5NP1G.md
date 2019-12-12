@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00DR5NP1G: Rebaja en Lee Luke Vaqueros  Clean Black  28W / 34 en Amazon 
- date: 2019/12/06 10:17:10 +0000 
+ date: 2019/12/12 02:41:00 +0000 
  comments: true 
  tags: B00DR5NP1G 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lee Luke Vaqueros  Clean Black  28W / 34L para Hombre](https://www.amazon.es/dp/B00DR5NP1G/?tag=redken-21) por 45.48 EUR (original: 89.95 EUR) en el siguiente enlace! 
+ Está [Lee Luke Vaqueros  Clean Black  28W / 34L para Hombre](https://www.amazon.es/dp/B00DR5NP1G/?tag=redken-21) por 49.28 EUR (original: 89.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg)](https://www.amazon.es/dp/B00DR5NP1G/?tag=redken-21) 
  

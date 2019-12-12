@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNWD35D: Ofertón en Amazon para LEGO 75237 Star Wars TIE Fighter Attack  
- date: 2019/12/10 21:58:56 +0000 
+ date: 2019/12/11 22:55:33 +0000 
  comments: true 
  tags: B07FNWD35D, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NDDLVZY: Ofertón en Amazon para Samsung Galaxy S10e - Smartphone  128GB  
- date: 2019/12/05 16:41:12 +0000 
+ date: 2019/12/12 00:07:53 +0000 
  comments: true 
  tags: B07NDDLVZY, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Samsung Galaxy S10e - Smartphone  128GB  Dual SIM  Pantalla 5.8 "Full HD + Dynamic AMOLED  3100mAh  típico    Negro  Prism Black   [ Versión Española]](https://www.amazon.es/dp/B07NDDLVZY/?tag=redken-21) a precio de oferta de 491 EUR (original: 759 EUR) en el siguiente enlace! 
+ Tienes [Samsung Galaxy S10e - Smartphone  128GB  Dual SIM  Pantalla 5.8 "Full HD + Dynamic AMOLED  3100mAh  típico    Negro  Prism Black   [ Versión Española]](https://www.amazon.es/dp/B07NDDLVZY/?tag=redken-21) a precio de oferta de 489 EUR (original: 759 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41rWenKtdTL._SL200_.jpg)](https://www.amazon.es/dp/B07NDDLVZY/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N1HD6ZJ: Ofertón en Amazon para Kipling ELSIL - Bolso bandolera  10 lite 
- date: 2019/12/10 18:59:07 +0000 
+ date: 2019/12/11 22:55:51 +0000 
  comments: true 
  tags: B07N1HD6ZJ, oferta, amazon, chollo, descuento 
  category: ofertas 

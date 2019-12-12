@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JLS3T7P: Rebaja en Playmobil 70171 Ghostbusters Collector s en Amazon 
- date: 2019/12/10 21:51:01 +0000 
+ date: 2019/12/11 22:28:30 +0000 
  comments: true 
  tags: B07JLS3T7P 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Playmobil 70171 Ghostbusters Collector s Edition W. Zeddemore](https://www.amazon.es/dp/B07JLS3T7P/?tag=redken-21) por 19.14 GBP (original: 38.04 GBP) en el siguiente enlace! 
+ Está [Playmobil 70171 Ghostbusters Collector s Edition W. Zeddemore](https://www.amazon.es/dp/B07JLS3T7P/?tag=redken-21) por 18.18 GBP (original: 38 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/518ZA5UWX6L._SL200_.jpg)](https://www.amazon.es/dp/B07JLS3T7P/?tag=redken-21) 
  

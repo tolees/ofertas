@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00B3QT3PS: Rebaja en Playmobil 5470 City Action Construction  en Amazon 
- date: 2019/12/10 21:47:38 +0000 
+ date: 2019/12/11 22:21:43 +0000 
  comments: true 
  tags: B00B3QT3PS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Playmobil 5470 City Action Construction Site Supervisors Vehicle - Yellow](https://www.amazon.es/dp/B00B3QT3PS/?tag=redken-21) por 20.96 GBP (original: 33.84 GBP) en el siguiente enlace! 
+ Está [Playmobil 5470 City Action Construction Site Supervisors Vehicle - Yellow](https://www.amazon.es/dp/B00B3QT3PS/?tag=redken-21) por 21.99 GBP (original: 33.84 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61ddmVJx8%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00B3QT3PS/?tag=redken-21) 
  
