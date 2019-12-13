@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07ZNQCYNJ: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Techn en Amazon 
- date: 2019/12/11 13:59:05 +0000 
+ title: B07ZNQCYNJ: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Te en Amazon 
+ date: 2019/12/11 14:18:22 +0000 
  comments: true 
  tags: B07ZNQCYNJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Lighting Kit for LEGO Technic First Responder Compatible with LEGO 42075 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B07ZNQCYNJ/?tag=redken-21) por 34.99 GBP (original: 89.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Led Beleuchtungsset für Lego Technic First Responder Kompatibel Mit Lego 42075 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07ZNQCYNJ/?tag=redken-21) por 42.99 EUR (original: 67.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51LKB%2B7QK2L._SL200_.jpg)](https://www.amazon.es/dp/B07ZNQCYNJ/?tag=redken-21) 
  

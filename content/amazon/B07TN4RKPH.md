@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TN4RKPH: Ahorra en Bluetooth V5.0 Headset Wireless Earpiece 
- date: 2019/12/11 13:09:34 +0000 
+ date: 2019/12/13 12:34:02 +0000 
  comments: true 
  tags: B07TN4RKPH 
  category: ofertas 

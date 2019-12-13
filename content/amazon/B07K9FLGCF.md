@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07K9FLGCF: Ahorra en LEGO Star Wars Boost - Comandante Droide 
- date: 2019/12/10 01:52:42 +0000 
+ title: B07K9FLGCF: Rebaja en LEGO Star Wars 75253  BOOST Droide  App- en Amazon 
+ date: 2019/12/13 13:33:33 +0000 
  comments: true 
  tags: B07K9FLGCF 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO Star Wars Boost - Comandante Droide  Juguete de Construcción con 3 Robots Controlados por App  con R2-D2  Incluye sensor de distancia  motor y bluetooth  Set robótico programable  75253 ](https://www.amazon.es/dp/B07K9FLGCF/?tag=redken-21) a 127.99 EUR (original: 199.99 EUR) en el siguiente enlace! 
+ Está [LEGO Star Wars 75253  BOOST Droide  App-gesteuerte und programmierbare Roboter  Programmierset für Kinder  Roboterspielzeug](https://www.amazon.es/dp/B07K9FLGCF/?tag=redken-21) por 124.8 EUR (original: 199.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51ABfVigAOL._SL200_.jpg)](https://www.amazon.es/dp/B07K9FLGCF/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/513riy2qpvL._SL200_.jpg)](https://www.amazon.es/dp/B07K9FLGCF/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07K9FLGCF/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07K9FLGCF/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

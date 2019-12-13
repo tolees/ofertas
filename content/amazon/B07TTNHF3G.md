@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TTNHF3G: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Techn 
- date: 2019/12/11 13:58:15 +0000 
+ title: B07TTNHF3G: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego Te 
+ date: 2019/12/11 14:11:42 +0000 
  comments: true 
  tags: B07TTNHF3G 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Technic Getaway Toy Truck- Compatible with Lego 42090 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TTNHF3G/?tag=redken-21) a 17.99 GBP (original: 69.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Technic Fluchtfahrzeug  Kompatibel Mit Lego 42090 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07TTNHF3G/?tag=redken-21) a 22.99 EUR (original: 47.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41tj9iBl3TL._SL200_.jpg)](https://www.amazon.es/dp/B07TTNHF3G/?tag=redken-21) 
  

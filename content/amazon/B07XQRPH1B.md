@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07XQRPH1B: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/11 13:53:10 +0000 
+ title: B07XQRPH1B: Rebaja en BRIKSMAX Kit de Iluminación Led para Leg en Amazon 
+ date: 2019/12/11 15:03:59 +0000 
  comments: true 
  tags: B07XQRPH1B 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Snowspeeder Compatible with Lego 75259 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21) a 24.99 GBP (original: 59.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Snowspeeder Compatible con Ladrillos de Construcción Lego Modelo 75259  Juego de Legos no Incluido](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21) por 29.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg)](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

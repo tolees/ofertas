@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TYY7KK8: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Frien 
- date: 2019/12/11 12:59:13 +0000 
+ date: 2019/12/13 13:03:36 +0000 
  comments: true 
  tags: B07TYY7KK8, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JBSBGZF: Ofertón en Amazon para L.O.L. Surprise! Switch Sequin Purse and 
- date: 2019/12/11 12:45:53 +0000 
+ date: 2019/12/13 12:40:32 +0000 
  comments: true 
  tags: B07JBSBGZF, oferta, amazon, chollo, descuento 
  category: ofertas 
