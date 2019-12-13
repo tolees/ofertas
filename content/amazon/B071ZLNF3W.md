@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071ZLNF3W: Ofertón en Amazon para Motorola Moto E4 - Smartphone Libre de 5 
- date: 2019/12/10 02:45:07 +0000 
+ date: 2019/12/12 14:02:04 +0000 
  comments: true 
  tags: B071ZLNF3W, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QZRWJ6D: Ofertón en Amazon para Huawei P30 Lite - Smartphone de 6.15"  W 
- date: 2019/12/12 01:52:07 +0000 
+ date: 2019/12/13 06:25:07 +0000 
  comments: true 
  tags: B07QZRWJ6D, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07THGWS4M: Rebaja en LIGHTAILING Conjunto de Luces  Technic P en Amazon 
- date: 2019/12/05 05:28:23 +0000 
+ title: B07THGWS4M: Rebaja en LIGHTAILING Light Set For  Technic Porsc en Amazon 
+ date: 2019/12/08 02:03:54 +0000 
  comments: true 
  tags: B07THGWS4M 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LIGHTAILING Conjunto de Luces  Technic Porsche 911 RSR  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 42096  NO Incluido en el Modelo ](https://www.amazon.es/dp/B07THGWS4M/?tag=redken-21) por 39.99 EUR (original: 80 EUR) en el siguiente enlace! 
+ Está [LIGHTAILING Light Set For  Technic Porsche 911 RSR  Building Blocks Model - Led Light kit Compatible With Lego 42096 NOT Included The Model ](https://www.amazon.es/dp/B07THGWS4M/?tag=redken-21) por 34.99 GBP (original: 60 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/413dfJDqETL._SL200_.jpg)](https://www.amazon.es/dp/B07THGWS4M/?tag=redken-21) 
  

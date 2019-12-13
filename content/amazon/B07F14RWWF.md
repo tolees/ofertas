@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07F14RWWF: Ofertón en Amazon para JACK & JONES Jjeholmen Sweat Crew Neck N 
- date: 2019/11/30 20:21:34 +0000 
+ date: 2019/12/12 20:42:51 +0000 
  comments: true 
  tags: B07F14RWWF, oferta, amazon, chollo, descuento 
  category: ofertas 

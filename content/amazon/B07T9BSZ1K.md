@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07T9BSZ1K: Ofertón en Amazon para Upgrade Transmisor FM Bluetooth 5.0 Coch 
- date: 2019/12/06 13:35:19 +0000 
+ date: 2019/12/13 00:15:57 +0000 
  comments: true 
  tags: B07T9BSZ1K, oferta, amazon, chollo, descuento 
  category: ofertas 

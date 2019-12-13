@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GVDFC1Q: Ofertón en Amazon para Flower205 Altavoz Bluetooth Que Lleva el 
- date: 2019/12/08 02:40:00 +0000 
+ date: 2019/12/12 18:17:21 +0000 
  comments: true 
  tags: B07GVDFC1Q, oferta, amazon, chollo, descuento 
  category: ofertas 

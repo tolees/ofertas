@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FVNNLC1: Ofertón en Amazon para Medidor Laser de Distancia LOMVUM 50M Pr 
- date: 2019/12/07 08:11:04 +0000 
+ date: 2019/12/12 09:29:19 +0000 
  comments: true 
  tags: B07FVNNLC1, oferta, amazon, chollo, descuento 
  category: ofertas 

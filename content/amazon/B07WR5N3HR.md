@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WR5N3HR: Ofertón en Amazon para TXXCI LED Light Kit Compatible with Lego 
- date: 2019/12/11 12:36:55 +0000 
+ date: 2019/12/12 12:45:37 +0000 
  comments: true 
  tags: B07WR5N3HR, oferta, amazon, chollo, descuento 
  category: ofertas 
