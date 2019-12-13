@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ZIW2V1Q: Ofertón en Amazon para Watch Dogs 2 - Standard Edition 
- date: 2019/12/06 16:07:15 +0000 
+ date: 2019/12/13 15:12:33 +0000 
  comments: true 
  tags: B00ZIW2V1Q, oferta, amazon, chollo, descuento 
  category: ofertas 

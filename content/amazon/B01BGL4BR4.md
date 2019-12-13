@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BGL4BR4: Ofertón en Amazon para fischertechnik - 536620 PROFI Dynamic S  
- date: 2019/12/11 14:11:47 +0000 
+ date: 2019/12/13 16:55:19 +0000 
  comments: true 
  tags: B01BGL4BR4, oferta, amazon, chollo, descuento 
  category: ofertas 

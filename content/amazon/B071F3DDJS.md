@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B071F3DDJS: Ofertón en Amazon para Collar Mujer  J.Rosée "Tú Eres Mi Única  
- date: 2019/12/12 09:53:12 +0000 
+ date: 2019/12/13 18:35:27 +0000 
  comments: true 
  tags: B071F3DDJS, oferta, amazon, chollo, descuento 
  category: ofertas 

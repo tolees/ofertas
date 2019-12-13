@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07B8PFFSP: Ahorra en LEGO Star Wars Minifigur 4-Lom mit 2 GAL 
- date: 2019/12/11 14:04:10 +0000 
+ title: B07B8PFFSP: Rebaja en LEGO Star Wars Minifigur 4-Lom mit 2 GAL en Amazon 
+ date: 2019/12/13 14:10:39 +0000 
  comments: true 
  tags: B07B8PFFSP 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen](https://www.amazon.es/dp/B07B8PFFSP/?tag=redken-21) a 6.99 EUR (original: 11.99 EUR) en el siguiente enlace! 
+ Está [LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen](https://www.amazon.es/dp/B07B8PFFSP/?tag=redken-21) por 6.99 EUR (original: 11.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg)](https://www.amazon.es/dp/B07B8PFFSP/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07B8PFFSP/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07B8PFFSP/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
