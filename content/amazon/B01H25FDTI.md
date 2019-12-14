@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01H25FDTI: Ahorra en Marvel s Spider-Man  PS4  
- date: 2019/12/12 19:26:39 +0000 
+ date: 2019/12/14 10:00:09 +0000 
  comments: true 
  tags: B01H25FDTI 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B01H25FDTI/?tag=redken-21) a 22.83 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B01H25FDTI/?tag=redken-21) a 20.88 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](http://images.amazon.com/images/P/B01H25FDTI.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B01H25FDTI/?tag=redken-21) 
  

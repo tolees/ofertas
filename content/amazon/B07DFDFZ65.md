@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DFDFZ65: Rebaja en Funko 33411 Vinyl: Disney: Wreck-It-Ralp en Amazon 
- date: 2019/12/13 04:34:59 +0000 
+ date: 2019/12/14 07:07:54 +0000 
  comments: true 
  tags: B07DFDFZ65 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Funko 33411 Vinyl: Disney: Wreck-It-Ralph 2: POP 2  Multi](https://www.amazon.es/dp/B07DFDFZ65/?tag=redken-21) por 7.35 GBP (original: 12.99 GBP) en el siguiente enlace! 
+ Está [Funko 33411 Vinyl: Disney: Wreck-It-Ralph 2: POP 2  Multi](https://www.amazon.es/dp/B07DFDFZ65/?tag=redken-21) por 7.34 GBP (original: 12.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41OasJSVnhL._SL200_.jpg)](https://www.amazon.es/dp/B07DFDFZ65/?tag=redken-21) 
  

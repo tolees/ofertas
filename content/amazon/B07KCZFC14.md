@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KCZFC14: Rebaja en Compacto de Alta precisión y Experimento en Amazon 
- date: 2019/12/12 20:28:22 +0000 
+ date: 2019/12/14 01:08:45 +0000 
  comments: true 
  tags: B07KCZFC14 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KZN6G1S: Ofertón en Amazon para Yuntab BL20  proyector multimedia portát 
- date: 2019/12/09 11:55:14 +0000 
+ date: 2019/12/14 12:24:48 +0000 
  comments: true 
  tags: B01KZN6G1S, oferta, amazon, chollo, descuento 
  category: ofertas 

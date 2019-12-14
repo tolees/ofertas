@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FGH4HTP: Ofertón en Amazon para Huawei P Smart Plus - Smartphone de 6.3" 
- date: 2019/12/10 18:59:52 +0000 
+ date: 2019/12/14 10:47:42 +0000 
  comments: true 
  tags: B07FGH4HTP, oferta, amazon, chollo, descuento 
  category: ofertas 
