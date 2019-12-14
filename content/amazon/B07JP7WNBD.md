@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JP7WNBD: Ofertón en Amazon para DAM TEKKIWEAR. DMW007DBL. Smartwatch GPS 
- date: 2019/12/05 13:24:48 +0000 
+ date: 2019/12/13 19:08:52 +0000 
  comments: true 
  tags: B07JP7WNBD, oferta, amazon, chollo, descuento 
  category: ofertas 

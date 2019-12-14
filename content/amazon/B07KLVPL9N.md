@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KLVPL9N: Ofertón en Amazon para Bulova Reloj Cronógrafo para Hombre de C 
- date: 2019/12/03 23:24:37 +0000 
+ date: 2019/12/13 22:56:06 +0000 
  comments: true 
  tags: B07KLVPL9N, oferta, amazon, chollo, descuento 
  category: ofertas 

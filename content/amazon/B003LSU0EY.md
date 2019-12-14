@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B003LSU0EY: Rebaja en Casio Reloj de Pulsera EF-552-1AVEF en Amazon 
- date: 2019/12/12 10:52:44 +0000 
+ title: B003LSU0EY: Rebaja en Casio EDIFICE Reloj en caja sólida de ac en Amazon 
+ date: 2019/12/13 19:27:34 +0000 
  comments: true 
  tags: B003LSU0EY 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Casio Reloj de Pulsera EF-552-1AVEF](https://www.amazon.es/dp/B003LSU0EY/?tag=redken-21) por 77.63 EUR (original: 190.03 EUR) en el siguiente enlace! 
+ Está [Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Negro  para Hombre  con Correa de Acero macizo  EF-552-1AVEF](https://www.amazon.es/dp/B003LSU0EY/?tag=redken-21) por 77.63 EUR (original: 190.03 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg)](https://www.amazon.es/dp/B003LSU0EY/?tag=redken-21) 
  

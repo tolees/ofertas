@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDQB5P5: Ofertón en Amazon para Altavoz 30W Portátil Bluetooth 4.2 AY  I 
- date: 2019/12/11 22:42:04 +0000 
+ date: 2019/12/13 23:41:03 +0000 
  comments: true 
  tags: B07FDQB5P5, oferta, amazon, chollo, descuento 
  category: ofertas 
