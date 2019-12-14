@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TXVSWZ6: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/13 13:01:19 +0000 
+ title: B07TXVSWZ6: Ahorra en BRIKSMAX Kit de Iluminación Led para Leg 
+ date: 2019/12/13 14:40:30 +0000 
  comments: true 
  tags: B07TXVSWZ6 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Kessel Run Millennium Falcon- Compatible with Lego 75212 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TXVSWZ6/?tag=redken-21) a 37.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón Milenario del Corredor De Kessel  Compatible con Ladrillos de Construcción Lego Modelo 75212  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TXVSWZ6/?tag=redken-21) a 44.99 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41BaRYBmAgL._SL200_.jpg)](https://www.amazon.es/dp/B07TXVSWZ6/?tag=redken-21) 
  

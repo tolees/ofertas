@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07YY1TBTM: Rebaja en BRIKSMAX Led Lighting Kit for LEGO STAR  en Amazon 
- date: 2019/12/12 13:06:16 +0000 
+ title: B07YY1TBTM: Ahorra en BRIKSMAX Kit de Iluminación Led para Leg 
+ date: 2019/12/13 14:43:22 +0000 
  comments: true 
  tags: B07YY1TBTM 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Lighting Kit for LEGO STAR WARS The Last Jedi Porg Compatible with LEGO 75230 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B07YY1TBTM/?tag=redken-21) por 19.99 GBP (original: 59.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars PORG Compatible con Ladrillos de Construcción Lego Modelo 75230  Juego de Legos no Incluido](https://www.amazon.es/dp/B07YY1TBTM/?tag=redken-21) a 24.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41zjuigto7L._SL200_.jpg)](https://www.amazon.es/dp/B07YY1TBTM/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07YY1TBTM/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B07YY1TBTM/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

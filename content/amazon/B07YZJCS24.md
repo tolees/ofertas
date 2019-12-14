@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07YZJCS24: Ahorra en cabletrans Bluetooth Adapter  Wireless A 
- date: 2019/12/12 04:29:13 +0000 
+ date: 2019/12/14 15:01:29 +0000 
  comments: true 
  tags: B07YZJCS24 
  category: ofertas 
