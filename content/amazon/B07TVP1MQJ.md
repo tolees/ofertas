@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TVP1MQJ: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Id en Amazon 
- date: 2019/12/13 13:39:29 +0000 
+ title: B07TVP1MQJ: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Ideas en Amazon 
+ date: 2019/12/14 15:20:36 +0000 
  comments: true 
  tags: B07TVP1MQJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Beleuchtungsset für Lego Ideas TRON Legacy  Kompatibel Mit Lego 21314 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07TVP1MQJ/?tag=redken-21) por 29.99 EUR (original: 54.99 EUR) en el siguiente enlace! 
+ Está [BRIKSMAX Led Lighting Kit for LEGO Ideas TRON Legacy- Compatible with Lego 21314 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TVP1MQJ/?tag=redken-21) por 22.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51hypQH9lHL._SL200_.jpg)](https://www.amazon.es/dp/B07TVP1MQJ/?tag=redken-21) 
  

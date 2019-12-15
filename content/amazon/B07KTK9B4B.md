@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07KTK9B4B: Ofertón en Amazon para LEGO 41362 Friends Heartlake City Superm 
+ title: B07KTK9B4B: Ahorra en LEGO 41362 Friends Heartlake City Superm 
  date: 2019/12/07 20:48:49 +0000 
  comments: true 
- tags: B07KTK9B4B, oferta, amazon, chollo, descuento 
+ tags: B07KTK9B4B 
  category: ofertas 
  author: ring 
  slug: B07KTK9B4B 
  description: 
  --- 
  
- Tienes [LEGO 41362 Friends Heartlake City Supermarket Grocery Store Set  Toy for 4 Year Old Girl and Boy with Buildable Toy Car](https://www.amazon.es/dp/B07KTK9B4B/?tag=redken-21) a precio de oferta de 16.5 GBP (original: 24.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 41362 Friends Heartlake City Supermarket Grocery Store Set  Toy for 4 Year Old Girl and Boy with Buildable Toy Car](https://www.amazon.es/dp/B07KTK9B4B/?tag=redken-21) a 16.5 GBP (original: 24.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51YLHN02s0L._SL200_.jpg)](https://www.amazon.es/dp/B07KTK9B4B/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B07KTK9B4B/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B07KTK9B4B/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

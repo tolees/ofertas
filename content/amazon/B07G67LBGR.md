@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G67LBGR: Ofertón en Amazon para Michael Kors Reloj Analógico para Mujer  
- date: 2019/12/13 19:15:26 +0000 
+ date: 2019/12/14 23:03:11 +0000 
  comments: true 
  tags: B07G67LBGR, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6613](https://www.amazon.es/dp/B07G67LBGR/?tag=redken-21) a precio de oferta de 139.6 EUR (original: 349 EUR) en el siguiente enlace! 
+ Tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6613](https://www.amazon.es/dp/B07G67LBGR/?tag=redken-21) a precio de oferta de 139.6 EUR (original: 349.0 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41Gcg%2B1rhTL._SL200_.jpg)](https://www.amazon.es/dp/B07G67LBGR/?tag=redken-21) 
  

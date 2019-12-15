@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07MX72ZXC: Ahorra en Conjunto de luces Lightailing para  Star 
- date: 2019/12/13 14:31:28 +0000 
+ title: B07MX72ZXC: Ahorra en Lightailing Light Set for  Star Wars Sup 
+ date: 2019/12/14 15:47:06 +0000 
  comments: true 
  tags: B07MX72ZXC 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Conjunto de luces Lightailing para  Star Wars Destructor Estelar  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 10221 NO incluido en el modelo ](https://www.amazon.es/dp/B07MX72ZXC/?tag=redken-21) a 74.99 EUR (original: 200 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Lightailing Light Set for  Star Wars Super Star Destroyer  Building Blocks Model - Led Light kit Compatible with Lego 10221 NOT Included The Model ](https://www.amazon.es/dp/B07MX72ZXC/?tag=redken-21) a 64.99 GBP (original: 200 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/411X71mRl%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07MX72ZXC/?tag=redken-21) 
  

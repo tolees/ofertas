@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00B8KMPW2: Ofertón en Amazon para Carucci Watches Turin CA2198LB-BK - Relo 
- date: 2019/12/12 13:37:03 +0000 
+ date: 2019/12/14 22:30:11 +0000 
  comments: true 
  tags: B00B8KMPW2, oferta, amazon, chollo, descuento 
  category: ofertas 

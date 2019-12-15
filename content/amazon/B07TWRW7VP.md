@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TWRW7VP: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/11 12:55:19 +0000 
+ date: 2019/12/14 23:11:13 +0000 
  comments: true 
  tags: B07TWRW7VP, oferta, amazon, chollo, descuento 
  category: ofertas 

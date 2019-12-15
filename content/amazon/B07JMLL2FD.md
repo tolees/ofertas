@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JMLL2FD: Ofertón en Amazon para dreamlock vehículo articulado y retrofri 
- date: 2019/12/13 14:31:04 +0000 
+ date: 2019/12/14 17:18:52 +0000 
  comments: true 
  tags: B07JMLL2FD, oferta, amazon, chollo, descuento 
  category: ofertas 

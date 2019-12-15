@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07W6VDYPY: Ofertón en Amazon para Freaky Doll LoLa Cute Crazy  Rosa  Flieg 
- date: 2019/12/13 23:12:36 +0000 
+ date: 2019/12/14 23:19:15 +0000 
  comments: true 
  tags: B07W6VDYPY, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KTKCRYR: Ahorra en LEGO 41371 Friends Mia s Horse Trailer T 
- date: 2019/12/14 08:39:29 +0000 
+ title: B07KTKCRYR: Ahorra en LEGO 41371 - Friends  Mias Pferdetranspo 
+ date: 2019/12/14 13:40:50 +0000 
  comments: true 
  tags: B07KTKCRYR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO 41371 Friends Mia s Horse Trailer Toy  Stable Extension Set  4 x 4 Buggy  Mia and Emma Mini Dolls](https://www.amazon.es/dp/B07KTKCRYR/?tag=redken-21) a 15.99 GBP (original: 24.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO 41371 - Friends  Mias Pferdetransporter  Bauset](https://www.amazon.es/dp/B07KTKCRYR/?tag=redken-21) a 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51omG-DWfxL._SL200_.jpg)](https://www.amazon.es/dp/B07KTKCRYR/?tag=redken-21) 
  
