@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B076JJ5BYY: Ofertón en Amazon para Rwest X Calcetines de compresión Medias  
- date: 2019/12/14 08:45:05 +0000 
+ date: 2019/12/15 16:52:05 +0000 
  comments: true 
  tags: B076JJ5BYY, oferta, amazon, chollo, descuento 
  category: ofertas 

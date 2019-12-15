@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PLT6PXG: Ofertón en Amazon para Auricular Bluetooth 5.0 Auricular Manos  
- date: 2019/12/14 07:27:47 +0000 
+ date: 2019/12/15 15:58:01 +0000 
  comments: true 
  tags: B07PLT6PXG, oferta, amazon, chollo, descuento 
  category: ofertas 
