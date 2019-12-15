@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Y5BCG4X: Rebaja en Tablet 10 Pulgadas YOTOPT  4GB de RAM y  en Amazon 
- date: 2019/12/14 11:13:11 +0000 
+ date: 2019/12/15 12:23:50 +0000 
  comments: true 
  tags: B07Y5BCG4X 
  category: ofertas 

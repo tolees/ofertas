@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SYQ91LD: Ahorra en Mpow Bluetooth Headset  Bluetooth Earpie 
- date: 2019/12/14 15:01:29 +0000 
+ date: 2019/12/15 15:03:15 +0000 
  comments: true 
  tags: B07SYQ91LD 
  category: ofertas 

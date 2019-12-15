@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01M9COSMD: Ofertón en Amazon para Take Two Interactive  - Red Dead Redempt 
- date: 2019/12/14 08:35:38 +0000 
+ date: 2019/12/15 11:22:00 +0000 
  comments: true 
  tags: B01M9COSMD, oferta, amazon, chollo, descuento 
  category: ofertas 

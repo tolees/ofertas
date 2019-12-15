@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNMXFQ9: Ofertón en Amazon para LEGO 60219 City Great Vehicles Construct 
- date: 2019/12/12 08:50:55 +0000 
+ date: 2019/12/15 12:50:47 +0000 
  comments: true 
  tags: B07FNMXFQ9, oferta, amazon, chollo, descuento 
  category: ofertas 

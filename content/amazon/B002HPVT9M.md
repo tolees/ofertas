@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B002HPVT9M: Ofertón en Amazon para Cisco RJ45-DB9 - Cable de Red  1 8 m  RJ 
+ title: B002HPVT9M: Ahorra en Cisco RJ45-DB9 - Cable de Red  1 8 m  RJ 
  date: 2019/12/13 21:41:20 +0000 
  comments: true 
- tags: B002HPVT9M, oferta, amazon, chollo, descuento 
+ tags: B002HPVT9M 
  category: ofertas 
  author: ring 
  slug: B002HPVT9M 
  description: 
  --- 
  
- Tienes [Cisco RJ45-DB9 - Cable de Red  1 8 m  RJ-45  Gris ](https://www.amazon.es/dp/B002HPVT9M/?tag=redken-21) a precio de oferta de 0.01 GBP (original: 24.69 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [Cisco RJ45-DB9 - Cable de Red  1 8 m  RJ-45  Gris ](https://www.amazon.es/dp/B002HPVT9M/?tag=redken-21) a 0.01 GBP (original: 24.69 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/4120m167DUL._SL200_.jpg)](https://www.amazon.es/dp/B002HPVT9M/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B002HPVT9M/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B002HPVT9M/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

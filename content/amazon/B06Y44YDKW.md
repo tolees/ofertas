@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06Y44YDKW: Ahorra en Google Pixel XL - Smartphone de 5.5"  4G 
- date: 2019/12/14 12:21:14 +0000 
+ date: 2019/12/15 12:59:21 +0000 
  comments: true 
  tags: B06Y44YDKW 
  category: ofertas 
