@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B078STRHBX: Rebaja en SanDisk Extreme - Portable SSD  1 TB  ha en Amazon 
- date: 2019/12/09 06:12:43 +0000 
+ title: B078STRHBX: Rebaja en SanDisk Extreme Portable SSD externe Fes en Amazon 
+ date: 2019/12/12 21:00:47 +0000 
  comments: true 
  tags: B078STRHBX 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [SanDisk Extreme - Portable SSD  1 TB  hasta 550 MB/s de Velocidad de Lectura  Color Negro](https://www.amazon.es/dp/B078STRHBX/?tag=redken-21) por 176.82 EUR (original: 294.99 EUR) en el siguiente enlace! 
+ Está [SanDisk Extreme Portable SSD externe Festplatte 1TB  SSD extern 2 5 Zoll  550 MB/s Übertragungsraten  stoßfest  AES-Verschlüsselung wasser- und staubfest  grau](https://www.amazon.es/dp/B078STRHBX/?tag=redken-21) por 132.99 EUR (original: 254.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/511CKblEcAL._SL200_.jpg)](https://www.amazon.es/dp/B078STRHBX/?tag=redken-21) 
  

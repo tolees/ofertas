@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FQBXZ2H: Ahorra en Aigoss Transmisor Bluetooth USB Adaptado 
- date: 2019/12/14 16:43:04 +0000 
+ date: 2019/12/16 16:04:46 +0000 
  comments: true 
  tags: B07FQBXZ2H 
  category: ofertas 

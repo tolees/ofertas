@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01M9COSMD: Ahorra en Take Two Interactive  - Red Dead Redempt 
- date: 2019/12/15 11:22:00 +0000 
+ title: B01M9COSMD: Rebaja en Take Two Interactive  - Red Dead Redempt en Amazon 
+ date: 2019/12/17 05:57:57 +0000 
  comments: true 
  tags: B01M9COSMD 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [Take Two Interactive  - Red Dead Redemption 2  PS4 ](https://www.amazon.es/dp/B01M9COSMD/?tag=redken-21) a 29.9 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Está [Take Two Interactive  - Red Dead Redemption 2  PS4 ](https://www.amazon.es/dp/B01M9COSMD/?tag=redken-21) por 29.9 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](http://images.amazon.com/images/P/B01M9COSMD.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B01M9COSMD/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B01M9COSMD/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B01M9COSMD/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

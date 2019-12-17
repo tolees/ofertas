@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B009B0YWDG: Ahorra en Games of Thrones 3012 Actionfigur Daener 
- date: 2019/12/08 09:14:23 +0000 
+ title: B009B0YWDG: Ahorra en Funko - POP! Vinilo Colección Juego de t 
+ date: 2019/12/16 21:05:35 +0000 
  comments: true 
  tags: B009B0YWDG 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Games of Thrones 3012 Actionfigur Daenerys Targaryen](https://www.amazon.es/dp/B009B0YWDG/?tag=redken-21) a 8.99 EUR (original: 13.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Funko - POP! Vinilo Colección Juego de tronos - Figura Daenerys Targaryen  FU3012 ](https://www.amazon.es/dp/B009B0YWDG/?tag=redken-21) a 8.75 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/416KbfPjDwL._SL200_.jpg)](https://www.amazon.es/dp/B009B0YWDG/?tag=redken-21) 
  

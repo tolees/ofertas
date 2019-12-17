@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B008AJKPYE: Rebaja en Bosch Professional 2 608 000 495 Sierra  en Amazon 
- date: 2019/12/14 12:09:36 +0000 
+ date: 2019/12/17 08:53:18 +0000 
  comments: true 
  tags: B008AJKPYE 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Bosch Professional 2 608 000 495 Sierra de bolsillo  Negro  Azul](https://www.amazon.es/dp/B008AJKPYE/?tag=redken-21) por 13.96 EUR (original: 31.82 EUR) en el siguiente enlace! 
+ Está [Bosch Professional 2 608 000 495 Sierra de bolsillo  Negro  Azul](https://www.amazon.es/dp/B008AJKPYE/?tag=redken-21) por 9.9 EUR (original: 31.82 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg)](https://www.amazon.es/dp/B008AJKPYE/?tag=redken-21) 
  

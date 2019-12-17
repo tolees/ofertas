@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004PGM9KY: Ofertón en Amazon para Logitech Z906 5.1 Sistema de Altavoces S 
- date: 2019/12/14 10:26:57 +0000 
+ date: 2019/12/16 22:37:26 +0000 
  comments: true 
  tags: B004PGM9KY, oferta, amazon, chollo, descuento 
  category: ofertas 

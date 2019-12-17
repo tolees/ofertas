@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CS4TNQC: Ofertón en Amazon para TerraMaster D2-310 USB Tipo C Disco Duro 
- date: 2019/12/14 20:30:18 +0000 
+ date: 2019/12/16 11:42:26 +0000 
  comments: true 
  tags: B01CS4TNQC, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [TerraMaster D2-310 USB Tipo C Disco Duro Externo Raid Caja USB3.0 Gen1  5Gbps  2 Bahía Raid Almacenamiento Sin Disco ](https://www.amazon.es/dp/B01CS4TNQC/?tag=redken-21) a precio de oferta de 159.99 EUR (original: 259.99 EUR) en el siguiente enlace! 
+ Tienes [TerraMaster D2-310 USB Tipo C Disco Duro Externo Raid Caja USB3.0 Gen1  5Gbps  2 Bahía Raid Almacenamiento Sin Disco ](https://www.amazon.es/dp/B01CS4TNQC/?tag=redken-21) a precio de oferta de 143.99 EUR (original: 259.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51t-jNTBf-L._SL200_.jpg)](https://www.amazon.es/dp/B01CS4TNQC/?tag=redken-21) 
  

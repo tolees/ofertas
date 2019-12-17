@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07X5YKB4K: Ofertón en Amazon para Proyector  TOPTRO Mini Proyector Portáti 
- date: 2019/12/11 19:54:30 +0000 
+ date: 2019/12/16 10:17:44 +0000 
  comments: true 
  tags: B07X5YKB4K, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Proyector  TOPTRO Mini Proyector Portátil de Cine en Casa 4500 Lúmenes Soporte Full HD 1080P con Altavoces Estéreo HiFi  Cubierta de Metal  Sistema de Refrigeración Doble Ventiladors  LED 55000 Horas](https://www.amazon.es/dp/B07X5YKB4K/?tag=redken-21) a precio de oferta de 129.99 EUR (original: 199.99 EUR) en el siguiente enlace! 
+ Tienes [Proyector  TOPTRO Mini Proyector Portátil de Cine en Casa 4500 Lúmenes Soporte Full HD 1080P con Altavoces Estéreo HiFi  Cubierta de Metal  Sistema de Refrigeración Doble Ventiladors  LED 55000 Horas](https://www.amazon.es/dp/B07X5YKB4K/?tag=redken-21) a precio de oferta de 95.99 EUR (original: 199.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51tFthNLDNL._SL200_.jpg)](https://www.amazon.es/dp/B07X5YKB4K/?tag=redken-21) 
  

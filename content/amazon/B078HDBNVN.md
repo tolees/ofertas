@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078HDBNVN: Ahorra en Wrangler Larston Vaqueros Tapered  Azul  
- date: 2019/12/13 11:48:21 +0000 
+ date: 2019/12/15 17:56:08 +0000 
  comments: true 
  tags: B078HDBNVN 
  category: ofertas 

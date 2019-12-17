@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CKQHCBL: Ahorra en ENACFIRE E18 Bluetooth 5.0 Wireless Head 
- date: 2019/12/13 22:59:36 +0000 
+ date: 2019/12/16 23:22:51 +0000 
  comments: true 
  tags: B07CKQHCBL 
  category: ofertas 

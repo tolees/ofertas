@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07DTKTSGM: Ofertón en Amazon para AmazonBasics USB A Cable with Lightning  
- date: 2019/12/08 20:51:42 +0000 
+ title: B07DTKTSGM: Ofertón en Amazon para AmazonBasics - Cable de conector Lightni 
+ date: 2019/12/14 04:24:58 +0000 
  comments: true 
  tags: B07DTKTSGM, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [AmazonBasics USB A Cable with Lightning Connector  Advanced Collection - 6 Feet  1.8 Meters  - Single - Blue](https://www.amazon.es/dp/B07DTKTSGM/?tag=redken-21) a precio de oferta de 4.5 GBP (original: 6.84 GBP) en el siguiente enlace! 
+ Tienes [AmazonBasics - Cable de conector Lightning a USB A para iPhone y iPad - 1 8 m - 1 unidad  Azul](https://www.amazon.es/dp/B07DTKTSGM/?tag=redken-21) a precio de oferta de 5 EUR (original: 8.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41yUaf2NDcL._SL200_.jpg)](https://www.amazon.es/dp/B07DTKTSGM/?tag=redken-21) 
  

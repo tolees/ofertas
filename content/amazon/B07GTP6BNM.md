@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GTP6BNM: Rebaja en Playmobil - Privatjet en Amazon 
- date: 2019/12/14 07:27:47 +0000 
+ date: 2019/12/16 07:23:24 +0000 
  comments: true 
  tags: B07GTP6BNM 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Playmobil - Privatjet](https://www.amazon.es/dp/B07GTP6BNM/?tag=redken-21) por 19.23 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Está [Playmobil - Privatjet](https://www.amazon.es/dp/B07GTP6BNM/?tag=redken-21) por 13.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51qbGmzBGAL._SL200_.jpg)](https://www.amazon.es/dp/B07GTP6BNM/?tag=redken-21) 
  

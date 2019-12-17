@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N5WGWQT: Ofertón en Amazon para Funko- Pop Vinilo: Big Bang Theory S2: H 
- date: 2019/12/14 16:48:41 +0000 
+ date: 2019/12/16 16:26:55 +0000 
  comments: true 
  tags: B07N5WGWQT, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Funko- Pop Vinilo: Big Bang Theory S2: Howard Figura Coleccionable   38578 ](https://www.amazon.es/dp/B07N5WGWQT/?tag=redken-21) a precio de oferta de 8.75 EUR (original: 15.95 EUR) en el siguiente enlace! 
+ Tienes [Funko- Pop Vinilo: Big Bang Theory S2: Howard Figura Coleccionable  Multicolor  38578 ](https://www.amazon.es/dp/B07N5WGWQT/?tag=redken-21) a precio de oferta de 8.75 EUR (original: 15.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41whwnpeYvL._SL200_.jpg)](https://www.amazon.es/dp/B07N5WGWQT/?tag=redken-21) 
  

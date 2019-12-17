@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JBSBGZF: Rebaja en L.O.L. Surprise! Switch Sequin Purse and en Amazon 
- date: 2019/12/15 15:11:08 +0000 
+ date: 2019/12/17 15:20:00 +0000 
  comments: true 
  tags: B07JBSBGZF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [L.O.L. Surprise! Switch Sequin Purse and Jewellery Making Kit for Girls LOL Dolls Confetti Pop Diva Rocker Mc Swag  Pink](https://www.amazon.es/dp/B07JBSBGZF/?tag=redken-21) por 8.95 GBP (original: 14.99 GBP) en el siguiente enlace! 
+ Está [L.O.L. Surprise! Switch Sequin Purse and Jewellery Making Kit for Girls LOL Dolls Confetti Pop Diva Rocker Mc Swag  Pink](https://www.amazon.es/dp/B07JBSBGZF/?tag=redken-21) por 5.99 GBP (original: 14.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51M-uGTXqNL._SL200_.jpg)](https://www.amazon.es/dp/B07JBSBGZF/?tag=redken-21) 
  

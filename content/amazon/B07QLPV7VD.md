@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07QLPV7VD: Ofertón en Amazon para Briksmax Led Lighting Kit for Ford Musta 
- date: 2019/12/13 04:40:27 +0000 
+ title: B07QLPV7VD: Ofertón en Amazon para BRIKSMAX Led Beleuchtungsset für Ford Mu 
+ date: 2019/12/15 23:55:11 +0000 
  comments: true 
  tags: B07QLPV7VD, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Briksmax Led Lighting Kit for Ford Mustang-Compatible with Lego 10265 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07QLPV7VD/?tag=redken-21) a precio de oferta de 32.99 GBP (original: 49.99 GBP) en el siguiente enlace! 
+ Tienes [BRIKSMAX Led Beleuchtungsset für Ford Mustang  Kompatibel Mit Lego 10265 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07QLPV7VD/?tag=redken-21) a precio de oferta de 39.99 EUR (original: 64.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41mKQjPeSpL._SL200_.jpg)](https://www.amazon.es/dp/B07QLPV7VD/?tag=redken-21) 
  

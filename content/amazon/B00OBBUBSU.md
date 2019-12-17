@@ -1,0 +1,19 @@
+--- 
+ layout: post 
+ title: B00OBBUBSU: Rebaja en Bosch Professional BT 150 - Trípode de c en Amazon 
+ date: 2019/12/15 22:23:03 +0000 
+ comments: true 
+ tags: B00OBBUBSU 
+ category: ofertas 
+ author: ring 
+ slug: B00OBBUBSU 
+ description: 
+ --- 
+ 
+ Está [Bosch Professional BT 150 - Trípode de construcción  55 - 157 cm  rosca 1/4"  en caja ](https://www.amazon.es/dp/B00OBBUBSU/?tag=redken-21) por 34.9 EUR (original: 58.8 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/31dyNC5uz7L._SL200_.jpg)](https://www.amazon.es/dp/B00OBBUBSU/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B00OBBUBSU/?tag=redken-21)
+
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

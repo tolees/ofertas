@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DFGTG8P: Ofertón en Amazon para Funko Pop The Simpsons Figura Lisa Simps 
- date: 2019/12/13 23:54:31 +0000 
+ date: 2019/12/16 21:11:24 +0000 
  comments: true 
  tags: B07DFGTG8P, oferta, amazon, chollo, descuento 
  category: ofertas 

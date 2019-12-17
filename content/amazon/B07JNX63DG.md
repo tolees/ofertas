@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JNX63DG: Ahorra en DAM. DMZ055BK. Brazalete Inteligente con 
- date: 2019/12/13 13:58:28 +0000 
+ date: 2019/12/16 08:01:03 +0000 
  comments: true 
  tags: B07JNX63DG 
  category: ofertas 

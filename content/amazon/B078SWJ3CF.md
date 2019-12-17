@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SWJ3CF: Ofertón en Amazon para SanDisk Extreme - Portable SSD  500 GB   
- date: 2019/12/14 20:24:31 +0000 
+ date: 2019/12/16 04:19:31 +0000 
  comments: true 
  tags: B078SWJ3CF, oferta, amazon, chollo, descuento 
  category: ofertas 

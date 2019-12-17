@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RCV9T2J: Ofertón en Amazon para Q-Man Ingenious Toys / technic the Falco 
- date: 2019/12/14 15:47:06 +0000 
+ date: 2019/12/16 15:50:41 +0000 
  comments: true 
  tags: B07RCV9T2J, oferta, amazon, chollo, descuento 
  category: ofertas 

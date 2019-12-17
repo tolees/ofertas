@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P6GCLZP: Rebaja en Superzings - Serie 4 - Display de 8 vehí en Amazon 
- date: 2019/12/15 16:07:46 +0000 
+ date: 2019/12/17 12:44:12 +0000 
  comments: true 
  tags: B07P6GCLZP 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Superzings - Serie 4 - Display de 8 vehículos MegaJet con figuras SuperZings](https://www.amazon.es/dp/B07P6GCLZP/?tag=redken-21) por 20.95 EUR (original: 32.0 EUR) en el siguiente enlace! 
+ Está [Superzings - Serie 4 - Display de 8 vehículos MegaJet con figuras SuperZings](https://www.amazon.es/dp/B07P6GCLZP/?tag=redken-21) por 20.95 EUR (original: 32 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ee%2BnK9vJL._SL200_.jpg)](https://www.amazon.es/dp/B07P6GCLZP/?tag=redken-21) 
  

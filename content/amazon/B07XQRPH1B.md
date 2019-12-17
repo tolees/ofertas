@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07XQRPH1B: Ofertón en Amazon para BRIKSMAX Led Beleuchtungsset für Lego St 
- date: 2019/12/14 07:27:47 +0000 
+ title: B07XQRPH1B: Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Leg 
+ date: 2019/12/16 17:20:45 +0000 
  comments: true 
  tags: B07XQRPH1B, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Das Imperium schlägt zurück Snowspeeder Kompatibel Mit Lego 75259 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21) a precio de oferta de 32.99 EUR (original: 57.99 EUR) en el siguiente enlace! 
+ Tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Snowspeeder Compatible con Ladrillos de Construcción Lego Modelo 75259  Juego de Legos no Incluido](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21) a precio de oferta de 29.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg)](https://www.amazon.es/dp/B07XQRPH1B/?tag=redken-21) 
  
