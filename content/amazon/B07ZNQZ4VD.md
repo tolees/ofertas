@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07ZNQZ4VD: Ahorra en BRIKSMAX Kit de Iluminación Led para Leg 
- date: 2019/12/16 17:20:45 +0000 
+ title: B07ZNQZ4VD: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego St 
+ date: 2019/12/17 07:41:46 +0000 
  comments: true 
  tags: B07ZNQZ4VD 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Caza Tie del Mayor Vonreg Compatible con Ladrillos de Construcción Lego Modelo 75240  Juego de Legos no Incluido](https://www.amazon.es/dp/B07ZNQZ4VD/?tag=redken-21) a 44.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance Major Vonreg s TIE-Fighter Kompatibel Mit Lego 75240 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07ZNQZ4VD/?tag=redken-21) a 45.99 EUR (original: 70.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/510h3OQpdEL._SL200_.jpg)](https://www.amazon.es/dp/B07ZNQZ4VD/?tag=redken-21) 
  

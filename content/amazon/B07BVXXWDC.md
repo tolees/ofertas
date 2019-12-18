@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BVXXWDC: Ofertón en Amazon para seQoya - Baobab | Reloj de Madera con Es 
- date: 2019/12/16 12:50:25 +0000 
+ date: 2019/12/18 17:29:51 +0000 
  comments: true 
  tags: B07BVXXWDC, oferta, amazon, chollo, descuento 
  category: ofertas 

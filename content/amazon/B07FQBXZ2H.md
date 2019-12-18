@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FQBXZ2H: Ofertón en Amazon para Aigoss Transmisor Bluetooth USB Adaptado 
- date: 2019/12/16 16:04:46 +0000 
+ date: 2019/12/18 16:37:15 +0000 
  comments: true 
  tags: B07FQBXZ2H, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07XL6KZFG: Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Leg 
- date: 2019/12/16 17:20:45 +0000 
+ title: B07XL6KZFG: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Star  
+ date: 2019/12/17 15:49:36 +0000 
  comments: true 
  tags: B07XL6KZFG, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Clone Scout Walker Compatible con Ladrillos de Construcción Lego Modelo 75261  Juego de Legos no Incluido](https://www.amazon.es/dp/B07XL6KZFG/?tag=redken-21) a precio de oferta de 19.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
+ Tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Clone Scout Walker - Compatible with Lego 75261 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B07XL6KZFG/?tag=redken-21) a precio de oferta de 17.99 GBP (original: 59.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41RP6BohioL._SL200_.jpg)](https://www.amazon.es/dp/B07XL6KZFG/?tag=redken-21) 
  

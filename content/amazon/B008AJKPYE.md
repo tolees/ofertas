@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B008AJKPYE: Ofertón en Amazon para Bosch Professional 2 608 000 495 Sierra  
- date: 2019/12/17 08:53:18 +0000 
+ date: 2019/12/18 17:47:53 +0000 
  comments: true 
  tags: B008AJKPYE, oferta, amazon, chollo, descuento 
  category: ofertas 

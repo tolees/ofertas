@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WQGY2RW: Rebaja en Polar M430 Reloj de Running con GPS  Adu en Amazon 
- date: 2019/12/16 07:42:01 +0000 
+ date: 2019/12/18 21:01:51 +0000 
  comments: true 
  tags: B07WQGY2RW 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Polar M430 Reloj de Running con GPS  Adultos Unisex  Negro  S](https://www.amazon.es/dp/B07WQGY2RW/?tag=redken-21) por 99.9 EUR (original: 199.9 EUR) en el siguiente enlace! 
+ Está [Polar M430 Reloj de Running con GPS  Adultos Unisex  Negro  S](https://www.amazon.es/dp/B07WQGY2RW/?tag=redken-21) por 119.9 EUR (original: 199.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41UO2U05jOL._SL200_.jpg)](https://www.amazon.es/dp/B07WQGY2RW/?tag=redken-21) 
  

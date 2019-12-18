@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07JBPRXWN: Rebaja en LEGO Super Heroes - Jet Stark y el Ataqu en Amazon 
- date: 2019/12/16 16:49:01 +0000 
+ title: B07JBPRXWN: Rebaja en LEGO Marvel Spider-Man 76130 - Far From  en Amazon 
+ date: 2019/12/18 16:15:59 +0000 
  comments: true 
  tags: B07JBPRXWN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO Super Heroes - Jet Stark y el Ataque del Dron  Set de Construcción de Avión de Juguete de Aventuras de Spiderman  76130 ](https://www.amazon.es/dp/B07JBPRXWN/?tag=redken-21) por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Está [LEGO Marvel Spider-Man 76130 - Far From Home Stark-Jet und der Drohnenangriff  Bauset](https://www.amazon.es/dp/B07JBPRXWN/?tag=redken-21) por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/516qGh2jrPL._SL200_.jpg)](https://www.amazon.es/dp/B07JBPRXWN/?tag=redken-21) 
  
