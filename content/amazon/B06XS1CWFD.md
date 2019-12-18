@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XS1CWFD: Ofertón en Amazon para Bowmore No.1 Whisky Escocés -700 ml 
- date: 2019/12/15 10:31:39 +0000 
+ date: 2019/12/18 11:17:46 +0000 
  comments: true 
  tags: B06XS1CWFD, oferta, amazon, chollo, descuento 
  category: ofertas 

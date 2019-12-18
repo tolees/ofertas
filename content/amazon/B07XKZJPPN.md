@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XKZJPPN: Ofertón en Amazon para TXXCI Acrylic Display Case/Box Dustproof 
- date: 2019/12/15 23:36:04 +0000 
+ date: 2019/12/18 15:29:40 +0000 
  comments: true 
  tags: B07XKZJPPN, oferta, amazon, chollo, descuento 
  category: ofertas 

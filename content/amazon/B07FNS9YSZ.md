@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07FNS9YSZ: Ofertón en Amazon para LEGO Star Wars 75233 - Droid Gunship 
+ title: B07FNS9YSZ: Rebaja en LEGO Star Wars 75233 - Droid Gunship en Amazon 
  date: 2019/12/18 09:33:48 +0000 
  comments: true 
- tags: B07FNS9YSZ, oferta, amazon, chollo, descuento 
+ tags: B07FNS9YSZ 
  category: ofertas 
  author: ring 
  slug: B07FNS9YSZ 
  description: 
  --- 
  
- Tienes [LEGO Star Wars 75233 - Droid Gunship](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21) a precio de oferta de 38.49 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Está [LEGO Star Wars 75233 - Droid Gunship](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21) por 38.49 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51-js3ZUS4L._SL200_.jpg)](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07FNS9YSZ/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTLHZVC: Ofertón en Amazon para LEGO 21046 - Architecture Empire State B 
- date: 2019/12/16 16:04:46 +0000 
+ date: 2019/12/18 15:42:38 +0000 
  comments: true 
  tags: B07KTLHZVC, oferta, amazon, chollo, descuento 
  category: ofertas 
