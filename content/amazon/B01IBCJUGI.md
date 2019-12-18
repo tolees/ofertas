@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01IBCJUGI: Rebaja en Tekken 7 - Standard Edition en Amazon 
- date: 2019/12/15 20:38:27 +0000 
+ date: 2019/12/18 06:15:56 +0000 
  comments: true 
  tags: B01IBCJUGI 
  category: ofertas 
@@ -12,7 +12,7 @@
  
  Está [Tekken 7 - Standard Edition](https://www.amazon.es/dp/B01IBCJUGI/?tag=redken-21) por 17.09 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
- [![](http://images.amazon.com/images/P/B01IBCJUGI.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B01IBCJUGI/?tag=redken-21) 
+ [![](None._SL200_)](https://www.amazon.es/dp/B01IBCJUGI/?tag=redken-21) 
  
  [Ver la oferta!!](https://www.amazon.es/dp/B01IBCJUGI/?tag=redken-21)
 

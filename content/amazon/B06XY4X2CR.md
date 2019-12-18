@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XY4X2CR: Ahorra en Bosch TDS8060 Serie 8 - Centro de planch 
- date: 2019/12/15 23:42:33 +0000 
+ date: 2019/12/18 05:32:10 +0000 
  comments: true 
  tags: B06XY4X2CR 
  category: ofertas 
