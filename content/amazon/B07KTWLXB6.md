@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTWLXB6: Rebaja en Lego Ninjago 70673 ShuriCopter  Bauset en Amazon 
- date: 2019/12/17 23:13:37 +0000 
+ date: 2019/12/18 23:24:04 +0000 
  comments: true 
  tags: B07KTWLXB6 
  category: ofertas 

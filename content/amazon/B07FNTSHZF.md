@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNTSHZF: Rebaja en LEGO 41366 Friends Olivia s Cupcake Café en Amazon 
- date: 2019/12/16 22:04:05 +0000 
+ title: B07FNTSHZF: Rebaja en Lego 41366 Friends Olivias Cupcake-Café  en Amazon 
+ date: 2019/12/18 19:02:29 +0000 
  comments: true 
  tags: B07FNTSHZF 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO 41366 Friends Olivia s Cupcake Café Playset  Olivia and Emma mini-dolls Toy Scooter and Accessories  Fun Set for Kids](https://www.amazon.es/dp/B07FNTSHZF/?tag=redken-21) por 15.99 GBP (original: 24.99 GBP) en el siguiente enlace! 
+ Está [Lego 41366 Friends Olivias Cupcake-Café  bunt](https://www.amazon.es/dp/B07FNTSHZF/?tag=redken-21) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/510vDlw3sHL._SL200_.jpg)](https://www.amazon.es/dp/B07FNTSHZF/?tag=redken-21) 
  

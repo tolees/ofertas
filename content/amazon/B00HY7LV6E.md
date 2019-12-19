@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HY7LV6E: Ofertón en Amazon para Bosch 2607017322 Rainbow Evo Set destorn 
- date: 2019/12/15 09:02:52 +0000 
+ date: 2019/12/18 22:21:17 +0000 
  comments: true 
  tags: B00HY7LV6E, oferta, amazon, chollo, descuento 
  category: ofertas 
