@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQB4S7H: Ofertón en Amazon para LEGO MOVIE 2 70838 Queen Watevra s Space 
- date: 2019/12/18 08:58:21 +0000 
+ date: 2019/12/19 09:29:36 +0000 
  comments: true 
  tags: B07KQB4S7H, oferta, amazon, chollo, descuento 
  category: ofertas 

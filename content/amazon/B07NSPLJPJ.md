@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07NSPLJPJ: Ahorra en Funko 39454 POP Town: Ghostbusters-Peter 
- date: 2019/12/17 15:14:27 +0000 
+ title: B07NSPLJPJ: Ahorra en Funko 39454 Pop Town: Ghostbusters-Peter 
+ date: 2019/12/18 23:51:10 +0000 
  comments: true 
  tags: B07NSPLJPJ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Funko 39454 POP Town: Ghostbusters-Peter with House Collectible Figure  Multicolour](https://www.amazon.es/dp/B07NSPLJPJ/?tag=redken-21) a 12.49 GBP (original: 22.5 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [Funko 39454 Pop Town: Ghostbusters-Peter with House Collectible Figure  Multicolor Los Cazafantasmas Venkman w/Firehouse Coleccionable](https://www.amazon.es/dp/B07NSPLJPJ/?tag=redken-21) a 27.63 EUR (original: 44.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg)](https://www.amazon.es/dp/B07NSPLJPJ/?tag=redken-21) 
  

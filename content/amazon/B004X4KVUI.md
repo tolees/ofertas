@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004X4KVUI: Rebaja en Braun BN0021BKBKG - Reloj analógico de c en Amazon 
- date: 2019/12/15 17:03:26 +0000 
+ date: 2019/12/19 14:44:37 +0000 
  comments: true 
  tags: B004X4KVUI 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Braun BN0021BKBKG - Reloj analógico de caballero de cuarzo con correa de piel negra](https://www.amazon.es/dp/B004X4KVUI/?tag=redken-21) por 46.62 EUR (original: 135.0 EUR) en el siguiente enlace! 
+ Está [Braun BN0021BKBKG - Reloj analógico de caballero de cuarzo con correa de piel negra](https://www.amazon.es/dp/B004X4KVUI/?tag=redken-21) por 46.62 EUR (original: 135 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/414ZvIDVvvL._SL200_.jpg)](https://www.amazon.es/dp/B004X4KVUI/?tag=redken-21) 
  

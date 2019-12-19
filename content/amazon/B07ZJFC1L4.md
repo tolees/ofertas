@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07ZJFC1L4: Rebaja en Adaptador Bluetooth Transmisor Receptor  en Amazon 
- date: 2019/12/18 16:43:46 +0000 
+ date: 2019/12/19 16:52:03 +0000 
  comments: true 
  tags: B07ZJFC1L4 
  category: ofertas 

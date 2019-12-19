@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KSQPGNM: Ofertón en Amazon para BaByliss IPro Slim ST387E - Plancha de p 
- date: 2019/12/12 07:23:57 +0000 
+ date: 2019/12/19 20:55:18 +0000 
  comments: true 
  tags: B00KSQPGNM, oferta, amazon, chollo, descuento 
  category: ofertas 
