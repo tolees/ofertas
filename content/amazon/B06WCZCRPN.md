@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06WCZCRPN: Ofertón en Amazon para Playmobil 9243 DreamWorks Dragons Berk I 
- date: 2019/12/18 07:19:14 +0000 
+ date: 2019/12/20 02:04:57 +0000 
  comments: true 
  tags: B06WCZCRPN, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil 9243 DreamWorks Dragons Berk Island Fortress with Firing Cannons](https://www.amazon.es/dp/B06WCZCRPN/?tag=redken-21) a precio de oferta de 43.92 GBP (original: 119.99 GBP) en el siguiente enlace! 
+ Tienes [Playmobil 9243 DreamWorks Dragons Berk Island Fortress with Firing Cannons](https://www.amazon.es/dp/B06WCZCRPN/?tag=redken-21) a precio de oferta de 52.99 GBP (original: 119.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg)](https://www.amazon.es/dp/B06WCZCRPN/?tag=redken-21) 
  

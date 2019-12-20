@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07NFK1HV6: Ofertón en Amazon para STANLEY FATMAX FMC627D2SA-QW - Taladro p 
- date: 2019/12/19 11:35:15 +0000 
+ date: 2019/12/20 19:35:07 +0000 
  comments: true 
  tags: B07NFK1HV6, oferta, amazon, chollo, descuento 
  category: ofertas 

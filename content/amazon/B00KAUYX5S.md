@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00KAUYX5S: Ofertón en Amazon para Krups The Sub Heineken VB650E10 - Tirado 
- date: 2019/12/13 05:33:05 +0000 
+ date: 2019/12/20 13:13:35 +0000 
  comments: true 
  tags: B00KAUYX5S, oferta, amazon, chollo, descuento 
  category: ofertas 

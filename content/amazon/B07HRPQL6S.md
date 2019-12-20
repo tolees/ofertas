@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HRPQL6S: Ahorra en L.O.L. Surprise! 557128 L.O.L. Surprise  
- date: 2019/12/18 23:09:51 +0000 
+ date: 2019/12/20 07:05:16 +0000 
  comments: true 
  tags: B07HRPQL6S 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [L.O.L. Surprise! 557128 L.O.L. Surprise Fuzzy Pets Ball-Series 5-2A  Multicolour](https://www.amazon.es/dp/B07HRPQL6S/?tag=redken-21) a 7.27 GBP (original: 13.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [L.O.L. Surprise! 557128 L.O.L. Surprise Fuzzy Pets Ball-Series 5-2A  Multicolour](https://www.amazon.es/dp/B07HRPQL6S/?tag=redken-21) a 8 GBP (original: 13.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41VFhVMh8uL._SL200_.jpg)](https://www.amazon.es/dp/B07HRPQL6S/?tag=redken-21) 
  

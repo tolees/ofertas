@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KWN9QVY: Ofertón en Amazon para Lego Wear Jungen LWTIGER 652-T-SHIRT L/S 
- date: 2019/12/17 15:27:16 +0000 
+ date: 2019/12/20 17:50:03 +0000 
  comments: true 
  tags: B07KWN9QVY, oferta, amazon, chollo, descuento 
  category: ofertas 

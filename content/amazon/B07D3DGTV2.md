@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07D3DGTV2: Ahorra en Panasonic Lumix DC-FT7EG-A - Cámara 4K a 
- date: 2019/12/17 14:17:57 +0000 
+ date: 2019/12/20 08:40:09 +0000 
  comments: true 
  tags: B07D3DGTV2 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07S6MNSRQ: Ofertón en Amazon para Carpeta de Archivos Desplegable 13 bolsi 
- date: 2019/12/14 17:59:52 +0000 
+ date: 2019/12/19 23:39:03 +0000 
  comments: true 
  tags: B07S6MNSRQ, oferta, amazon, chollo, descuento 
  category: ofertas 

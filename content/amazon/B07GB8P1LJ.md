@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GB8P1LJ: Ofertón en Amazon para Casio Reloj Digital para Hombre de Cuarz 
- date: 2019/12/18 19:26:39 +0000 
+ date: 2019/12/19 22:44:21 +0000 
  comments: true 
  tags: B07GB8P1LJ, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FP2KPWV: Ofertón en Amazon para LEGO Technic 42092 - Rettungshubschraube 
- date: 2019/12/16 19:27:01 +0000 
+ date: 2019/12/20 01:18:13 +0000 
  comments: true 
  tags: B07FP2KPWV, oferta, amazon, chollo, descuento 
  category: ofertas 

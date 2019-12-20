@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BHGBC3D: Ahorra en Cardinal Games 6044936L.O.L. Surprise! 4 
- date: 2019/12/19 15:34:58 +0000 
+ date: 2019/12/20 16:34:20 +0000 
  comments: true 
  tags: B07BHGBC3D 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Cardinal Games 6044936L.O.L. Surprise! 48-piece Kids Tower Puzzle  Multicolour](https://www.amazon.es/dp/B07BHGBC3D/?tag=redken-21) a 5 GBP (original: 8.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [Cardinal Games 6044936L.O.L. Surprise! 48-piece Kids Tower Puzzle  Multicolour](https://www.amazon.es/dp/B07BHGBC3D/?tag=redken-21) a 4.5 GBP (original: 8.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51bn-8fyxxL._SL200_.jpg)](https://www.amazon.es/dp/B07BHGBC3D/?tag=redken-21) 
  

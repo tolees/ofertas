@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G6CRZ2Q: Ofertón en Amazon para Ultimate Ears Boom 3 Altavoz portátil  B 
- date: 2019/12/17 20:24:33 +0000 
+ date: 2019/12/20 21:14:21 +0000 
  comments: true 
  tags: B07G6CRZ2Q, oferta, amazon, chollo, descuento 
  category: ofertas 

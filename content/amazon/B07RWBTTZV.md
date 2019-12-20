@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07RWBTTZV: Rebaja en Hasbro Disney Frozen Arendelle Elsa E684 en Amazon 
- date: 2019/12/19 16:26:17 +0000 
+ date: 2019/12/20 17:36:18 +0000 
  comments: true 
  tags: B07RWBTTZV 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Hasbro Disney Frozen Arendelle Elsa E6844ES0](https://www.amazon.es/dp/B07RWBTTZV/?tag=redken-21) por 28.3 EUR (original: 42.99 EUR) en el siguiente enlace! 
+ Está [Hasbro Disney Frozen Arendelle Elsa E6844ES0](https://www.amazon.es/dp/B07RWBTTZV/?tag=redken-21) por 26.83 EUR (original: 42.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41NvT7DlgGL._SL200_.jpg)](https://www.amazon.es/dp/B07RWBTTZV/?tag=redken-21) 
  

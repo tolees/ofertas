@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B079PGCKV4: Ofertón en Amazon para FunKo  26902 Pop Bobble Marvel Proxima M 
- date: 2019/12/19 15:27:00 +0000 
+ date: 2019/12/20 16:27:47 +0000 
  comments: true 
  tags: B079PGCKV4, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [FunKo  26902 Pop Bobble Marvel Proxima Midnight Figurine](https://www.amazon.es/dp/B079PGCKV4/?tag=redken-21) a precio de oferta de 4 GBP (original: 9.13 GBP) en el siguiente enlace! 
+ Tienes [FunKo  26902 Pop Bobble Marvel Proxima Midnight Figurine](https://www.amazon.es/dp/B079PGCKV4/?tag=redken-21) a precio de oferta de 4 GBP (original: 9.17 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51R-ncMUMIL._SL200_.jpg)](https://www.amazon.es/dp/B079PGCKV4/?tag=redken-21) 
  

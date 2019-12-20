@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07YBPJCJB: Ofertón en Amazon para Yu-No: A Girl who chants Love at the bou 
- date: 2019/12/18 12:26:48 +0000 
+ date: 2019/12/20 14:56:47 +0000 
  comments: true 
  tags: B07YBPJCJB, oferta, amazon, chollo, descuento 
  category: ofertas 

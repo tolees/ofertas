@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00K85SKCW: Ofertón en Amazon para BRA Terra - Set de 3 sartenes  aluminio  
- date: 2019/12/16 00:41:30 +0000 
+ date: 2019/12/20 19:40:35 +0000 
  comments: true 
  tags: B00K85SKCW, oferta, amazon, chollo, descuento 
  category: ofertas 

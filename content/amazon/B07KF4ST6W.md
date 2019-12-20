@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KF4ST6W: Ofertón en Amazon para Levi s SS Battery Hm Shirt Camisa  Blanc 
- date: 2019/12/15 12:06:54 +0000 
+ date: 2019/12/20 20:12:24 +0000 
  comments: true 
  tags: B07KF4ST6W, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Levi s SS Battery Hm Shirt Camisa  Blanco  White X 0000   X-Large para Hombre](https://www.amazon.es/dp/B07KF4ST6W/?tag=redken-21) a precio de oferta de 22.49 EUR (original: 50.0 EUR) en el siguiente enlace! 
+ Tienes [Levi s SS Battery Hm Shirt Camisa  Blanco  White X 0000   X-Large para Hombre](https://www.amazon.es/dp/B07KF4ST6W/?tag=redken-21) a precio de oferta de 22.49 EUR (original: 50 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41qL2Q8K-zL._SL200_.jpg)](https://www.amazon.es/dp/B07KF4ST6W/?tag=redken-21) 
  

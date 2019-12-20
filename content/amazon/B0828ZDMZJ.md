@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0828ZDMZJ: Ofertón en Amazon para GODNECE Build Truck RC Models  Truck Mod 
- date: 2019/12/19 07:20:18 +0000 
+ date: 2019/12/20 07:21:18 +0000 
  comments: true 
  tags: B0828ZDMZJ, oferta, amazon, chollo, descuento 
  category: ofertas 
