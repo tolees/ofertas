@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ZATHW20: Ofertón en Amazon para EXZACT Smart - Escala Analizadora Inteli 
- date: 2019/12/19 20:44:46 +0000 
+ date: 2019/12/21 08:32:37 +0000 
  comments: true 
  tags: B00ZATHW20, oferta, amazon, chollo, descuento 
  category: ofertas 

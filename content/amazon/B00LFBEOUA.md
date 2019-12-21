@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B00LFBEOUA: Rebaja en Logitech G402 Hyperion Fury Wired Gaming en Amazon 
- date: 2019/12/13 20:09:29 +0000 
+ title: B00LFBEOUA: Rebaja en Logitech G402 Hyperion Fury Ratón Gaming en Amazon 
+ date: 2019/12/18 09:46:28 +0000 
  comments: true 
  tags: B00LFBEOUA 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Logitech G402 Hyperion Fury Wired Gaming Mouse  4 000 DPI  Lightweight  8 Programmable Buttons  Compatible with PC / Mac - Black](https://www.amazon.es/dp/B00LFBEOUA/?tag=redken-21) por 17.39 GBP (original: 49.99 GBP) en el siguiente enlace! 
+ Está [Logitech G402 Hyperion Fury Ratón Gaming con Cable  Seguimento Óptico 4 000 DPI  Peso Reducido  8 Botones Programables  PC/Mac   Negro](https://www.amazon.es/dp/B00LFBEOUA/?tag=redken-21) por 24.9 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41448v1RpLL._SL200_.jpg)](https://www.amazon.es/dp/B00LFBEOUA/?tag=redken-21) 
  

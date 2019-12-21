@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TRMNK27: Rebaja en Motorola One Action - Smartphone Dual SI en Amazon 
- date: 2019/12/18 04:49:06 +0000 
+ date: 2019/12/21 08:20:24 +0000 
  comments: true 
  tags: B07TRMNK27 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Motorola One Action - Smartphone Dual SIM  Triple cámara: 12 MP + 5 MP y video de 16 MP con ultra gran angular  128 GB/4 GB  Pantalla 6 3" FHD+  Android 9.0  - Color Blanco [Versión Española]](https://www.amazon.es/dp/B07TRMNK27/?tag=redken-21) por 179.91 EUR (original: 279 EUR) en el siguiente enlace! 
+ Está [Motorola One Action - Smartphone Dual SIM  Triple cámara: 12 MP + 5 MP y video de 16 MP con ultra gran angular  128 GB/4 GB  Pantalla 6 3" FHD+  Android 9.0  - Color Blanco [Versión Española]](https://www.amazon.es/dp/B07TRMNK27/?tag=redken-21) por 179.9 EUR (original: 279 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41VjPi0mRmL._SL200_.jpg)](https://www.amazon.es/dp/B07TRMNK27/?tag=redken-21) 
  

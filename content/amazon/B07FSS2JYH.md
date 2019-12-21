@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FSS2JYH: Rebaja en Samsung SM-N960F/DS Galaxy Note9  6.4"   en Amazon 
- date: 2019/12/15 17:49:46 +0000 
+ date: 2019/12/21 04:56:15 +0000 
  comments: true 
  tags: B07FSS2JYH 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue ](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21) por 739.0 EUR (original: 1259.0 EUR) en el siguiente enlace! 
+ Está [Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue ](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21) por 739 EUR (original: 1259 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg)](https://www.amazon.es/dp/B07FSS2JYH/?tag=redken-21) 
  

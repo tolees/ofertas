@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TWRW7VP: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/20 07:15:27 +0000 
+ title: B07TWRW7VP: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego St 
+ date: 2019/12/20 07:34:58 +0000 
  comments: true 
  tags: B07TWRW7VP 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Darth Vader s Castle - Compatible with Lego 75251 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TWRW7VP/?tag=redken-21) a 28.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Darth Vader s Castle  Kompatibel Mit Lego 75251 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07TWRW7VP/?tag=redken-21) a 34.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41qR8-qIIHL._SL200_.jpg)](https://www.amazon.es/dp/B07TWRW7VP/?tag=redken-21) 
  
