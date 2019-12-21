@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LYCTHJG: Ofertón en Amazon para Tefal Comfort Grip - Set 3 sartenes alum 
- date: 2019/12/12 16:18:16 +0000 
+ date: 2019/12/21 14:24:26 +0000 
  comments: true 
  tags: B01LYCTHJG, oferta, amazon, chollo, descuento 
  category: ofertas 

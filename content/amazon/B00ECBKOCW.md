@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00ECBKOCW: Ofertón en Amazon para Remington AC9096 Silk - Secador de Pelo  
- date: 2019/12/20 10:43:37 +0000 
+ date: 2019/12/21 12:06:45 +0000 
  comments: true 
  tags: B00ECBKOCW, oferta, amazon, chollo, descuento 
  category: ofertas 

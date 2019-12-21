@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LYWPQUN: Rebaja en Sony - Dualshock 4 V2 Mando Inalámbrico  en Amazon 
- date: 2019/12/19 00:21:45 +0000 
+ date: 2019/12/21 12:45:58 +0000 
  comments: true 
  tags: B01LYWPQUN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Negro V2  PS4 ](https://www.amazon.es/dp/B01LYWPQUN/?tag=redken-21) por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Negro V2  PS4 ](https://www.amazon.es/dp/B01LYWPQUN/?tag=redken-21) por 39.9 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BCVDEeATL._SL200_.jpg)](https://www.amazon.es/dp/B01LYWPQUN/?tag=redken-21) 
  

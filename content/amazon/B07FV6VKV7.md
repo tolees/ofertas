@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FV6VKV7: Ahorra en HUION Kamvas Pro 13 Tableta Grafica con  
- date: 2019/12/20 03:20:11 +0000 
+ date: 2019/12/21 12:27:10 +0000 
  comments: true 
  tags: B07FV6VKV7 
  category: ofertas 

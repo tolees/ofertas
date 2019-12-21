@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LGXKSD9: Rebaja en The North Face Dryzzle Chaqueta para Muj en Amazon 
- date: 2019/12/19 14:13:13 +0000 
+ date: 2019/12/21 14:13:25 +0000 
  comments: true 
  tags: B07LGXKSD9 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [The North Face Dryzzle Chaqueta para Mujer  Negro  TNF Black   L](https://www.amazon.es/dp/B07LGXKSD9/?tag=redken-21) por 83.28 EUR (original: 200 EUR) en el siguiente enlace! 
+ Está [The North Face Dryzzle Chaqueta para Mujer  Negro  TNF Black   L](https://www.amazon.es/dp/B07LGXKSD9/?tag=redken-21) por 81.46 EUR (original: 200 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31FSoh357tL._SL200_.jpg)](https://www.amazon.es/dp/B07LGXKSD9/?tag=redken-21) 
  

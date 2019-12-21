@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SHSBCPN: Ofertón en Amazon para Reproductor MP3 Bluetooth 4.1 - MP3 Blue 
- date: 2019/12/19 20:36:46 +0000 
+ date: 2019/12/21 15:49:48 +0000 
  comments: true 
  tags: B07SHSBCPN, oferta, amazon, chollo, descuento 
  category: ofertas 
