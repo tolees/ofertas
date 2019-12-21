@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001BXS0ZM: Ofertón en Amazon para Timex T5K1959J - Reloj digital con corre 
- date: 2019/12/13 19:15:26 +0000 
+ date: 2019/12/21 18:06:09 +0000 
  comments: true 
  tags: B001BXS0ZM, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003WOKJF2: Ahorra en Remington Pearl S9500 - Plancha de Pelo  
- date: 2019/12/20 01:33:15 +0000 
+ date: 2019/12/21 17:41:43 +0000 
  comments: true 
  tags: B003WOKJF2 
  category: ofertas 

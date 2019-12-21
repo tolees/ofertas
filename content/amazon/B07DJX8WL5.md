@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DJX8WL5: Ofertón en Amazon para TEKKIWEAR. DMX121BK. Smartwatch Phone H1 
- date: 2019/12/14 12:17:29 +0000 
+ date: 2019/12/21 18:48:59 +0000 
  comments: true 
  tags: B07DJX8WL5, oferta, amazon, chollo, descuento 
  category: ofertas 
