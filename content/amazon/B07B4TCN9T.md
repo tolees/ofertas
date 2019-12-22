@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B4TCN9T: Ofertón en Amazon para Sony Xperia XZ2 - Smartphone de 5.7"  Oc 
- date: 2019/12/19 20:36:46 +0000 
+ date: 2019/12/22 10:48:13 +0000 
  comments: true 
  tags: B07B4TCN9T, oferta, amazon, chollo, descuento 
  category: ofertas 

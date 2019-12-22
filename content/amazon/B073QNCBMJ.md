@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073QNCBMJ: Ofertón en Amazon para find. Chaqueta Biker Hombre  Gris  Grau  
- date: 2019/12/20 10:59:54 +0000 
+ date: 2019/12/22 10:43:05 +0000 
  comments: true 
  tags: B073QNCBMJ, oferta, amazon, chollo, descuento 
  category: ofertas 
