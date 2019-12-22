@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01J9LPS4S: Ofertón en Amazon para Russell Hobbs Retro - Tostadora Vintage  
- date: 2019/12/19 13:09:22 +0000 
+ date: 2019/12/22 00:06:12 +0000 
  comments: true 
  tags: B01J9LPS4S, oferta, amazon, chollo, descuento 
  category: ofertas 

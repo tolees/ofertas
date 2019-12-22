@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KQNRRHF: Ofertón en Amazon para KESOTO 3 Piezas Barril de Cerveza Modelo 
- date: 2019/12/21 00:57:04 +0000 
+ date: 2019/12/22 01:28:21 +0000 
  comments: true 
  tags: B07KQNRRHF, oferta, amazon, chollo, descuento 
  category: ofertas 

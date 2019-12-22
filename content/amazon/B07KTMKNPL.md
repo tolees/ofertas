@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTMKNPL: Ofertón en Amazon para LAPPAZO- Reloj Niña de Analógico Cuarzo  
- date: 2019/12/20 02:36:56 +0000 
+ date: 2019/12/22 01:15:29 +0000 
  comments: true 
  tags: B07KTMKNPL, oferta, amazon, chollo, descuento 
  category: ofertas 

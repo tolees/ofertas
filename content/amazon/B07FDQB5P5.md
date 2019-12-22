@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDQB5P5: Rebaja en Altavoz 30W Portátil Bluetooth 4.2 AY  I en Amazon 
- date: 2019/12/20 02:30:15 +0000 
+ date: 2019/12/22 01:02:22 +0000 
  comments: true 
  tags: B07FDQB5P5 
  category: ofertas 
