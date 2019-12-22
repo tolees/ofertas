@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B00EC6VARA: Rebaja en Disney Infinity -  Toy Box Set: Frozen   en Amazon 
+ title: B00EC6VARA: Ofertón en Amazon para Disney Infinity -  Toy Box Set: Frozen   
  date: 2019/12/22 01:15:29 +0000 
  comments: true 
- tags: B00EC6VARA 
+ tags: B00EC6VARA, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00EC6VARA 
  description: 
  --- 
  
- Está [Disney Infinity -  Toy Box Set: Frozen  Anna  Elsa + 2 Power Discs ](https://www.amazon.es/dp/B00EC6VARA/?tag=redken-21) por 7.77 EUR (original: 59 EUR) en el siguiente enlace! 
+ Tienes [Disney Infinity -  Toy Box Set: Frozen  Anna  Elsa + 2 Power Discs ](https://www.amazon.es/dp/B00EC6VARA/?tag=redken-21) a precio de oferta de 7.77 EUR (original: 59 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51hLzxS04jL._SL200_.jpg)](https://www.amazon.es/dp/B00EC6VARA/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B00EC6VARA/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B00EC6VARA/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

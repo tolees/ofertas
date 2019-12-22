@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNSDZCZ: Ofertón en Amazon para LEGO 10895 DUPLO Movie 2 Emmet and Lucy  
- date: 2019/12/15 08:48:29 +0000 
+ title: B07FNSDZCZ: Ofertón en Amazon para Lego 10895 Duplo The Lego Movie 2 Besuch 
+ date: 2019/12/21 10:15:33 +0000 
  comments: true 
  tags: B07FNSDZCZ, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [LEGO 10895 DUPLO Movie 2 Emmet and Lucy s Visitors from the DUPLO Planet Set with 4 Buildable Aliens](https://www.amazon.es/dp/B07FNSDZCZ/?tag=redken-21) a precio de oferta de 13.99 GBP (original: 24.99 GBP) en el siguiente enlace! 
+ Tienes [Lego 10895 Duplo The Lego Movie 2 Besucher vom Lego Duplo Planeten  bunt](https://www.amazon.es/dp/B07FNSDZCZ/?tag=redken-21) a precio de oferta de 17 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51dNKuMCZjL._SL200_.jpg)](https://www.amazon.es/dp/B07FNSDZCZ/?tag=redken-21) 
  

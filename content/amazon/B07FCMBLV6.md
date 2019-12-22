@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FCMBLV6: Rebaja en SanDisk Extreme - Tarjeta de memoria mic en Amazon 
- date: 2019/12/18 14:40:20 +0000 
+ date: 2019/12/22 16:59:34 +0000 
  comments: true 
  tags: B07FCMBLV6 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [SanDisk Extreme - Tarjeta de memoria microSDXC de 64 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMBLV6/?tag=redken-21) por 13 EUR (original: 24.99 EUR) en el siguiente enlace! 
+ Está [SanDisk Extreme - Tarjeta de memoria microSDXC de 64 GB con adaptador SD  A2  hasta 160 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07FCMBLV6/?tag=redken-21) por 13.9 EUR (original: 24.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41q4Op-xPrL._SL200_.jpg)](https://www.amazon.es/dp/B07FCMBLV6/?tag=redken-21) 
  

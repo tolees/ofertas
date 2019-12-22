@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07S1GX5GL: Ofertón en Amazon para Agenda 2020 con Vista Semanal - Planific 
- date: 2019/12/20 12:56:31 +0000 
+ date: 2019/12/22 14:45:55 +0000 
  comments: true 
  tags: B07S1GX5GL, oferta, amazon, chollo, descuento 
  category: ofertas 

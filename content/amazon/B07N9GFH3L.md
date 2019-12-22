@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N9GFH3L: Ofertón en Amazon para Timex Reloj de Pulsera TW2R93900 
- date: 2019/12/20 23:42:53 +0000 
+ date: 2019/12/22 21:57:57 +0000 
  comments: true 
  tags: B07N9GFH3L, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Timex Reloj de Pulsera TW2R93900](https://www.amazon.es/dp/B07N9GFH3L/?tag=redken-21) a precio de oferta de 69.99 EUR (original: 119 EUR) en el siguiente enlace! 
+ Tienes [Timex Reloj de Pulsera TW2R93900](https://www.amazon.es/dp/B07N9GFH3L/?tag=redken-21) a precio de oferta de 63.17 EUR (original: 119 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31Ww39vfWgL._SL200_.jpg)](https://www.amazon.es/dp/B07N9GFH3L/?tag=redken-21) 
  

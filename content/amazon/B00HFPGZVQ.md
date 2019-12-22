@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HFPGZVQ: Rebaja en Lego Star Wars Chewbacca Key Light [With en Amazon 
- date: 2019/12/20 18:37:06 +0000 
+ date: 2019/12/22 18:27:04 +0000 
  comments: true 
  tags: B00HFPGZVQ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lego Star Wars Chewbacca Key Light [With Battery]](https://www.amazon.es/dp/B00HFPGZVQ/?tag=redken-21) por 6.21 EUR (original: 12.99 EUR) en el siguiente enlace! 
+ Está [Lego Star Wars Chewbacca Key Light [With Battery]](https://www.amazon.es/dp/B00HFPGZVQ/?tag=redken-21) por 6.64 EUR (original: 12.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg)](https://www.amazon.es/dp/B00HFPGZVQ/?tag=redken-21) 
  
