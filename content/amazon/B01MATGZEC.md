@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01MATGZEC: Ofertón en Amazon para STANLEY FATMAX FMST1-75672 - Mesa de tra 
- date: 2019/12/22 19:38:50 +0000 
+ date: 2019/12/24 13:03:21 +0000 
  comments: true 
  tags: B01MATGZEC, oferta, amazon, chollo, descuento 
  category: ofertas 

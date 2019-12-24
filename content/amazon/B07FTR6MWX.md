@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FTR6MWX: Rebaja en Lee Elly Vaqueros  Azul  Light Rugged GE en Amazon 
- date: 2019/12/19 22:50:02 +0000 
+ date: 2019/12/23 18:25:40 +0000 
  comments: true 
  tags: B07FTR6MWX 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lee Elly Vaqueros  Azul  Light Rugged GE   25W / 31L para Mujer](https://www.amazon.es/dp/B07FTR6MWX/?tag=redken-21) por 18.47 EUR (original: 99.95 EUR) en el siguiente enlace! 
+ Está [Lee Elly Vaqueros  Azul  Light Rugged GE   25W / 31L para Mujer](https://www.amazon.es/dp/B07FTR6MWX/?tag=redken-21) por 17.73 EUR (original: 99.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg)](https://www.amazon.es/dp/B07FTR6MWX/?tag=redken-21) 
  

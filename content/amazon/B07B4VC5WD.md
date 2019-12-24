@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B4VC5WD: Rebaja en Sony Xperia XZ2 - Smartphone de 5.7"  Oc en Amazon 
- date: 2019/12/22 09:17:25 +0000 
+ date: 2019/12/24 07:59:09 +0000 
  comments: true 
  tags: B07B4VC5WD 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Sony Xperia XZ2 - Smartphone de 5.7"  Octa-Core de 2.8 GHz  RAM de 4 GB  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Plata](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21) por 459 EUR (original: 799 EUR) en el siguiente enlace! 
+ Está [Sony Xperia XZ2 - Smartphone de 5.7"  Octa-Core de 2.8 GHz  RAM de 4 GB  Memoria Interna de 64 GB  cámara de 19 MP  Android  Color Plata](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21) por 499.99 EUR (original: 799 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41lIXdu0TJL._SL200_.jpg)](https://www.amazon.es/dp/B07B4VC5WD/?tag=redken-21) 
  

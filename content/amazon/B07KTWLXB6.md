@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTWLXB6: Rebaja en Lego Ninjago 70673 ShuriCopter  Bauset en Amazon 
- date: 2019/12/22 00:55:58 +0000 
+ date: 2019/12/24 00:44:17 +0000 
  comments: true 
  tags: B07KTWLXB6 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lego Ninjago 70673 ShuriCopter  Bauset](https://www.amazon.es/dp/B07KTWLXB6/?tag=redken-21) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Está [Lego Ninjago 70673 ShuriCopter  Bauset](https://www.amazon.es/dp/B07KTWLXB6/?tag=redken-21) por 19.96 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51dmGgo2wxL._SL200_.jpg)](https://www.amazon.es/dp/B07KTWLXB6/?tag=redken-21) 
  

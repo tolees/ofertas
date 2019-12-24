@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0766DJPRQ: Ofertón en Amazon para Playmobil 9427 City Life Wedding Carriag 
- date: 2019/12/18 15:56:32 +0000 
+ date: 2019/12/23 16:40:34 +0000 
  comments: true 
  tags: B0766DJPRQ, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil 9427 City Life Wedding Carriage with Tin Can Trail](https://www.amazon.es/dp/B0766DJPRQ/?tag=redken-21) a precio de oferta de 8.54 GBP (original: 19.99 GBP) en el siguiente enlace! 
+ Tienes [Playmobil 9427 City Life Wedding Carriage with Tin Can Trail](https://www.amazon.es/dp/B0766DJPRQ/?tag=redken-21) a precio de oferta de 10.67 GBP (original: 19.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/61esAw31c8L._SL200_.jpg)](https://www.amazon.es/dp/B0766DJPRQ/?tag=redken-21) 
  

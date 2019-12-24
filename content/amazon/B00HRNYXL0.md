@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HRNYXL0: Ofertón en Amazon para WD Red - Disco duro para NAS  4 TB 
- date: 2019/12/20 11:09:31 +0000 
+ date: 2019/12/23 07:36:48 +0000 
  comments: true 
  tags: B00HRNYXL0, oferta, amazon, chollo, descuento 
  category: ofertas 

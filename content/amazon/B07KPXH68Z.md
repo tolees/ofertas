@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KPXH68Z: Ofertón en Amazon para Fantasyworld SJ60 Impermeable 2.0" LCD 4 
- date: 2019/12/20 16:13:13 +0000 
+ date: 2019/12/23 18:32:43 +0000 
  comments: true 
  tags: B07KPXH68Z, oferta, amazon, chollo, descuento 
  category: ofertas 

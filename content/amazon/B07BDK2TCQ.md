@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07BDK2TCQ: Ofertón en Amazon para Aicok Bascula Grasa Corporal   Báscula d 
- date: 2019/12/18 20:28:44 +0000 
+ date: 2019/12/23 21:35:33 +0000 
  comments: true 
  tags: B07BDK2TCQ, oferta, amazon, chollo, descuento 
  category: ofertas 

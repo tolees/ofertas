@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WPSBBY3: Ofertón en Amazon para Original Xiaomi MiBand Band 4  Global Ve 
- date: 2019/12/20 21:14:21 +0000 
+ date: 2019/12/22 23:21:33 +0000 
  comments: true 
  tags: B07WPSBBY3, oferta, amazon, chollo, descuento 
  category: ofertas 

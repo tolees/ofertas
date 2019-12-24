@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075WXQXHJ: Ofertón en Amazon para L CARNITINA-Navit Plus. Complemento alim 
- date: 2019/12/14 22:41:56 +0000 
+ date: 2019/12/23 16:05:36 +0000 
  comments: true 
  tags: B075WXQXHJ, oferta, amazon, chollo, descuento 
  category: ofertas 

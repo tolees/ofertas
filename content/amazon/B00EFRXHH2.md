@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00EFRXHH2: Ofertón en Amazon para Helly Hansen Daybreaker Fleece Jacket Ch 
- date: 2019/12/22 17:39:22 +0000 
+ date: 2019/12/23 22:06:09 +0000 
  comments: true 
  tags: B00EFRXHH2, oferta, amazon, chollo, descuento 
  category: ofertas 

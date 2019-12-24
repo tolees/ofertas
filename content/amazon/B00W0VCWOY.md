@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00W0VCWOY: Ofertón en Amazon para Amscan International Frozen Scene Setter 
- date: 2019/12/20 07:15:27 +0000 
+ date: 2019/12/23 16:31:07 +0000 
  comments: true 
  tags: B00W0VCWOY, oferta, amazon, chollo, descuento 
  category: ofertas 

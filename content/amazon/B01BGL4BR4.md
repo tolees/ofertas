@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BGL4BR4: Ofertón en Amazon para fischertechnik Dynamic S Kugelbahn mit K 
- date: 2019/12/20 08:27:48 +0000 
+ date: 2019/12/23 00:48:03 +0000 
  comments: true 
  tags: B01BGL4BR4, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001BSIZS4: Ofertón en Amazon para Tous Touch 100ml 
- date: 2019/12/22 11:56:12 +0000 
+ date: 2019/12/23 19:53:22 +0000 
  comments: true 
  tags: B001BSIZS4, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Tous Touch 100ml](https://www.amazon.es/dp/B001BSIZS4/?tag=redken-21) a precio de oferta de 34.7 EUR (original: 82 EUR) en el siguiente enlace! 
+ Tienes [Tous Touch 100ml](https://www.amazon.es/dp/B001BSIZS4/?tag=redken-21) a precio de oferta de 41.75 EUR (original: 82 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/414KXaqH8TL._SL200_.jpg)](https://www.amazon.es/dp/B001BSIZS4/?tag=redken-21) 
  

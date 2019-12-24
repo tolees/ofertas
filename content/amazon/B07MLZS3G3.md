@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MLZS3G3: Ofertón en Amazon para Spieland 35St. Custom Waffen Set für Min 
- date: 2019/12/19 07:42:20 +0000 
+ date: 2019/12/23 00:52:03 +0000 
  comments: true 
  tags: B07MLZS3G3, oferta, amazon, chollo, descuento 
  category: ofertas 

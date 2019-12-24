@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07R7PMCRB: Ahorra en LG 55UM7610PLB - Smart TV 4K UHD de 139  
- date: 2019/12/21 19:05:20 +0000 
+ date: 2019/12/23 20:04:15 +0000 
  comments: true 
  tags: B07R7PMCRB 
  category: ofertas 

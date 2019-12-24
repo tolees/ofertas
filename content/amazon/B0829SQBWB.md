@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0829SQBWB: Ofertón en Amazon para GODNECE Technic Racing Car  1:10 2.4G Mo 
- date: 2019/12/22 17:06:18 +0000 
+ date: 2019/12/24 00:51:56 +0000 
  comments: true 
  tags: B0829SQBWB, oferta, amazon, chollo, descuento 
  category: ofertas 

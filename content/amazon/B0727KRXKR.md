@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0727KRXKR: Ofertón en Amazon para Sony Xperia XA1 - Smartphone con pantall 
- date: 2019/12/22 01:34:57 +0000 
+ date: 2019/12/24 11:05:30 +0000 
  comments: true 
  tags: B0727KRXKR, oferta, amazon, chollo, descuento 
  category: ofertas 

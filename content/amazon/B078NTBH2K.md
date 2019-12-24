@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078NTBH2K: Ofertón en Amazon para IPOTCH SFR1M44-U100K USB Floppy Drive pa 
- date: 2019/12/21 01:56:46 +0000 
+ date: 2019/12/24 08:49:43 +0000 
  comments: true 
  tags: B078NTBH2K, oferta, amazon, chollo, descuento 
  category: ofertas 

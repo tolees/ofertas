@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07GTBRSCY: Rebaja en Sony SRSXB01B - Altavoz inalámbrico port en Amazon 
- date: 2019/12/14 14:52:35 +0000 
+ title: B07GTBRSCY: Rebaja en Sony SRS-XB01 Compact Portable Water Res en Amazon 
+ date: 2019/12/24 08:24:02 +0000 
  comments: true 
  tags: B07GTBRSCY 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Sony SRSXB01B - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Negro](https://www.amazon.es/dp/B07GTBRSCY/?tag=redken-21) por 22.99 EUR (original: 35 EUR) en el siguiente enlace! 
+ Está [Sony SRS-XB01 Compact Portable Water Resistant Wireless Bluetooth Speaker with Extra Bass - Black](https://www.amazon.es/dp/B07GTBRSCY/?tag=redken-21) por 16.99 GBP (original: 30 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41jJaaWKNbL._SL200_.jpg)](https://www.amazon.es/dp/B07GTBRSCY/?tag=redken-21) 
  

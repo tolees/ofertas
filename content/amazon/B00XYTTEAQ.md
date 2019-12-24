@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XYTTEAQ: Ofertón en Amazon para Logitech K400 Plus - Teclado inalámbrico 
- date: 2019/12/20 17:50:03 +0000 
+ date: 2019/12/23 12:26:48 +0000 
  comments: true 
  tags: B00XYTTEAQ, oferta, amazon, chollo, descuento 
  category: ofertas 

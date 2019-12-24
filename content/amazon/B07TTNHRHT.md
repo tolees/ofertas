@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TTNHRHT: Ahorra en BRIKSMAX Led Lighting Kit for LEGO City  
- date: 2019/12/20 16:42:06 +0000 
+ title: B07TTNHRHT: Ahorra en BRIKSMAX Kit de Iluminación Led para Leg 
+ date: 2019/12/20 18:22:27 +0000 
  comments: true 
  tags: B07TTNHRHT 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO City Fire Station- Compatible with Lego 60215 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TTNHRHT/?tag=redken-21) a 29.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego City Fire Parque de Bomberos  Compatible con Ladrillos de Construcción Lego Modelo 60215  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TTNHRHT/?tag=redken-21) a 36.99 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51GXmXwEZqL._SL200_.jpg)](https://www.amazon.es/dp/B07TTNHRHT/?tag=redken-21) 
  

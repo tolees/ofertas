@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNW8R5H: Ofertón en Amazon para LEGO La LEGO Película 2 - Casa de los Su 
- date: 2019/12/21 07:01:45 +0000 
+ date: 2019/12/24 08:18:40 +0000 
  comments: true 
  tags: B07FNW8R5H, oferta, amazon, chollo, descuento 
  category: ofertas 

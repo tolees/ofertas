@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XS6CMCN: Rebaja en Football Manager 2020 en Amazon 
- date: 2019/12/16 09:18:40 +0000 
+ date: 2019/12/24 12:03:58 +0000 
  comments: true 
  tags: B07XS6CMCN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Football Manager 2020](https://www.amazon.es/dp/B07XS6CMCN/?tag=redken-21) por 29.92 EUR (original: 54.99 EUR) en el siguiente enlace! 
+ Está [Football Manager 2020](https://www.amazon.es/dp/B07XS6CMCN/?tag=redken-21) por 29.9 EUR (original: 54.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg)](https://www.amazon.es/dp/B07XS6CMCN/?tag=redken-21) 
  
