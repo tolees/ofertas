@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KTKCRYR: Rebaja en LEGO 41371 - Friends  Mias Pferdetranspo en Amazon 
- date: 2019/12/22 17:26:09 +0000 
+ date: 2019/12/24 16:52:41 +0000 
  comments: true 
  tags: B07KTKCRYR 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [LEGO 41371 - Friends  Mias Pferdetransporter  Bauset](https://www.amazon.es/dp/B07KTKCRYR/?tag=redken-21) por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Está [LEGO 41371 - Friends  Mias Pferdetransporter  Bauset](https://www.amazon.es/dp/B07KTKCRYR/?tag=redken-21) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51omG-DWfxL._SL200_.jpg)](https://www.amazon.es/dp/B07KTKCRYR/?tag=redken-21) 
  

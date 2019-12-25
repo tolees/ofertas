@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07YYXDXWH: Ofertón en Amazon para LAYJOY Funda Xiaomi Mi A3  Ligera Carcas 
- date: 2019/12/23 00:24:56 +0000 
+ date: 2019/12/25 03:45:06 +0000 
  comments: true 
  tags: B07YYXDXWH, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07KJCR5F9: Rebaja en OPPO RX17 Neo case  KuGi Ultra-thin Soft en Amazon 
+ title: B07KJCR5F9: Ofertón en Amazon para OPPO RX17 Neo case  KuGi Ultra-thin Soft 
  date: 2019/12/21 17:58:31 +0000 
  comments: true 
- tags: B07KJCR5F9 
+ tags: B07KJCR5F9, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07KJCR5F9 
  description: 
  --- 
  
- Está [OPPO RX17 Neo case  KuGi Ultra-thin Soft TPU Gel Cover [Slim-Fit] [Anti-Scratch] [Shock Absorption] fit for OPPO RX17 Neo Smartphone. Clear](https://www.amazon.es/dp/B07KJCR5F9/?tag=redken-21) por 3.5 GBP (original: 29.95 GBP) en el siguiente enlace! 
+ Tienes [OPPO RX17 Neo case  KuGi Ultra-thin Soft TPU Gel Cover [Slim-Fit] [Anti-Scratch] [Shock Absorption] fit for OPPO RX17 Neo Smartphone. Clear](https://www.amazon.es/dp/B07KJCR5F9/?tag=redken-21) a precio de oferta de 3.5 GBP (original: 29.95 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/512NK%2BglPEL._SL200_.jpg)](https://www.amazon.es/dp/B07KJCR5F9/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07KJCR5F9/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07KJCR5F9/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

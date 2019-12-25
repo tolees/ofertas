@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01NBU1NJ4: Ofertón en Amazon para Epson EcoTank ET-2650 | Impresora Wi-Fi  
- date: 2019/12/18 08:20:32 +0000 
+ title: B01NBU1NJ4: Ofertón en Amazon para Epson EcoTank ET-2650  Impresora  WiFi   
+ date: 2019/12/24 22:10:14 +0000 
  comments: true 
  tags: B01NBU1NJ4, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Epson EcoTank ET-2650 | Impresora Wi-Fi A4 Multifunción con Pantalla LCD Color | Copia/Escaneado/Impresión | Velocidad 33ppm | Resolución 5760x1440ppp | Tinta Incluida 4000/6500 páginas Negro/Color](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21) a precio de oferta de 159.99 EUR (original: 302.99 EUR) en el siguiente enlace! 
+ Tienes [Epson EcoTank ET-2650  Impresora  WiFi  Tamaño Único  Negro](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21) a precio de oferta de 159.99 EUR (original: 302.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg)](https://www.amazon.es/dp/B01NBU1NJ4/?tag=redken-21) 
  

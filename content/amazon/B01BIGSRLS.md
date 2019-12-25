@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01BIGSRLS: Rebaja en WD My Cloud EX2 Ultra - Unidad de Almace en Amazon 
- date: 2019/12/24 08:28:40 +0000 
+ title: B01BIGSRLS: Rebaja en WD My Cloud EX2 Ultra NAS Festplatte 8 T en Amazon 
+ date: 2019/12/24 19:33:08 +0000 
  comments: true 
  tags: B01BIGSRLS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [WD My Cloud EX2 Ultra - Unidad de Almacenamiento en Red de 8 TB con Dos Compartimentos  Raid  sincronización de Archivos  transmisión  Servidor Multimedia](https://www.amazon.es/dp/B01BIGSRLS/?tag=redken-21) por 364 EUR (original: 599.99 EUR) en el siguiente enlace! 
+ Está [WD My Cloud EX2 Ultra NAS Festplatte 8 TB  zentraler Netzwerkspeicher  einfache Installation  zwei Laufwerkschächte  mobiler Zugriff  automatische Backups ](https://www.amazon.es/dp/B01BIGSRLS/?tag=redken-21) por 329 EUR (original: 516 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg)](https://www.amazon.es/dp/B01BIGSRLS/?tag=redken-21) 
  

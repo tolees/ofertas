@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SFJ7KRL: Ofertón en Amazon para Nike Court Royale  Zapatillas de Tenis p 
- date: 2019/12/22 18:57:18 +0000 
+ date: 2019/12/24 20:37:45 +0000 
  comments: true 
  tags: B07SFJ7KRL, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Nike Court Royale  Zapatillas de Tenis para Hombre  Multicolor  Mahogany/Pale Ivory/Dusty Peach 200   44 1/2 EU](https://www.amazon.es/dp/B07SFJ7KRL/?tag=redken-21) a precio de oferta de 33.53 EUR (original: 55 EUR) en el siguiente enlace! 
+ Tienes [Nike Court Royale  Zapatillas de Tenis para Hombre  Multicolor  Mahogany/Pale Ivory/Dusty Peach 200   44 1/2 EU](https://www.amazon.es/dp/B07SFJ7KRL/?tag=redken-21) a precio de oferta de 31.95 EUR (original: 55 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/315nrtBvECL._SL200_.jpg)](https://www.amazon.es/dp/B07SFJ7KRL/?tag=redken-21) 
  

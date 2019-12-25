@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CYZO6RW: Ofertón en Amazon para Timex Expedition Shock XL - Reloj análog 
- date: 2019/12/17 17:25:42 +0000 
+ date: 2019/12/24 15:24:54 +0000 
  comments: true 
  tags: B00CYZO6RW, oferta, amazon, chollo, descuento 
  category: ofertas 

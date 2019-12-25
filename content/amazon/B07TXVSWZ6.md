@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TXVSWZ6: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/22 17:12:59 +0000 
+ date: 2019/12/24 17:11:35 +0000 
  comments: true 
  tags: B07TXVSWZ6, oferta, amazon, chollo, descuento 
  category: ofertas 

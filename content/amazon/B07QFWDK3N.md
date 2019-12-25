@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QFWDK3N: Ahorra en Simba 6315877639 Disney Frozen 2  Friend 
- date: 2019/12/23 17:01:54 +0000 
+ date: 2019/12/24 17:18:34 +0000 
  comments: true 
  tags: B07QFWDK3N 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Simba 6315877639 Disney Frozen 2  Friends Anna 25cm](https://www.amazon.es/dp/B07QFWDK3N/?tag=redken-21) a 10.78 EUR (original: 19.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Simba 6315877639 Disney Frozen 2  Friends Anna 25cm](https://www.amazon.es/dp/B07QFWDK3N/?tag=redken-21) a 10.77 EUR (original: 19.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41uUrGLHg9L._SL200_.jpg)](https://www.amazon.es/dp/B07QFWDK3N/?tag=redken-21) 
  
