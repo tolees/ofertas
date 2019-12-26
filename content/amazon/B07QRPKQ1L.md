@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QRPKQ1L: Ofertón en Amazon para LANGRIA Zapatero de bambú de 4 Niveles A 
- date: 2019/12/24 16:52:41 +0000 
+ date: 2019/12/25 17:31:09 +0000 
  comments: true 
  tags: B07QRPKQ1L, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNMTW4H: Rebaja en LEGO City - Police Policía Aérea: Arrest en Amazon 
- date: 2019/12/23 09:03:37 +0000 
+ title: B07FNMTW4H: Ahorra en Lego 60208 City Polizei Flucht mit dem F 
+ date: 2019/12/25 17:27:40 +0000 
  comments: true 
  tags: B07FNMTW4H 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) por 19.49 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Lego 60208 City Polizei Flucht mit dem Fallschirm  bunt](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) a 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg)](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B07FNMTW4H/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
