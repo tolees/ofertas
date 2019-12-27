@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01LYRIWZ0: Ofertón en Amazon para Playmobil 9220 Ghostbusters Ecto 1 with  
- date: 2019/12/18 07:19:14 +0000 
+ title: B01LYRIWZ0: Ofertón en Amazon para PLAYMOBIL Ghostbusters 9220 Ecto-1 mit L 
+ date: 2019/12/26 18:34:42 +0000 
  comments: true 
  tags: B01LYRIWZ0, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,9 +10,9 @@
  description: 
  --- 
  
- Tienes [Playmobil 9220 Ghostbusters Ecto 1 with Lights and Sound](https://www.amazon.es/dp/B01LYRIWZ0/?tag=redken-21) a precio de oferta de 19.18 GBP (original: 39.99 GBP) en el siguiente enlace! 
+ Tienes [PLAYMOBIL Ghostbusters 9220 Ecto-1 mit Licht- und Soundeffekten  Ab 6 Jahren](https://www.amazon.es/dp/B01LYRIWZ0/?tag=redken-21) a precio de oferta de 29 EUR (original: 54.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/617-1iOSI9L._SL200_.jpg)](https://www.amazon.es/dp/B01LYRIWZ0/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/61YQ1xNEfrL._SL200_.jpg)](https://www.amazon.es/dp/B01LYRIWZ0/?tag=redken-21) 
  
  [Accede a la oferta!!](https://www.amazon.es/dp/B01LYRIWZ0/?tag=redken-21)
 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07G94WZWC: Ofertón en Amazon para Michael Kors Smartwatch para Mujer con C 
- date: 2019/12/24 19:58:02 +0000 
+ date: 2019/12/26 20:50:32 +0000 
  comments: true 
  tags: B07G94WZWC, oferta, amazon, chollo, descuento 
  category: ofertas 

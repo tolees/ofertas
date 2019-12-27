@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XPGCV5S: Ofertón en Amazon para find. Vaqueros Ajustados para Hombre  Az 
- date: 2019/12/23 18:39:17 +0000 
+ date: 2019/12/27 15:16:58 +0000 
  comments: true 
  tags: B06XPGCV5S, oferta, amazon, chollo, descuento 
  category: ofertas 

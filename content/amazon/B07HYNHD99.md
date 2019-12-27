@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HYNHD99: Ahorra en Lenovo Yoga 530-14ARR - Portátil táctil  
- date: 2019/12/25 09:10:16 +0000 
+ date: 2019/12/27 02:12:33 +0000 
  comments: true 
  tags: B07HYNHD99 
  category: ofertas 

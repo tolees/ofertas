@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07WS7QQX7: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego Te 
- date: 2019/12/24 17:49:56 +0000 
+ title: B07WS7QQX7: Ahorra en BRIKSMAX Kit de Iluminación Led para Leg 
+ date: 2019/12/26 18:14:24 +0000 
  comments: true 
  tags: B07WS7QQX7 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Technic Container Transport Kompatibel Mit Lego 42062 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07WS7QQX7/?tag=redken-21) a 32.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Technic Depósito de contenedores Compatible con Ladrillos de Construcción Lego Modelo 42062  Juego de Legos no Incluido](https://www.amazon.es/dp/B07WS7QQX7/?tag=redken-21) a 34.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51UV5w0g6mL._SL200_.jpg)](https://www.amazon.es/dp/B07WS7QQX7/?tag=redken-21) 
  

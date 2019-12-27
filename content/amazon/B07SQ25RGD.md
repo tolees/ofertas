@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SQ25RGD: Rebaja en Samsung 4K UHD 2019 55RU8005 - Smart TV  en Amazon 
- date: 2019/12/20 01:38:30 +0000 
+ date: 2019/12/27 15:32:42 +0000 
  comments: true 
  tags: B07SQ25RGD 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FWTKXJM: Ahorra en Bosch Professional GSB 18V-21 - Taladro  
- date: 2019/12/25 12:37:51 +0000 
+ date: 2019/12/27 13:35:38 +0000 
  comments: true 
  tags: B07FWTKXJM 
  category: ofertas 

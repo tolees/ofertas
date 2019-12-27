@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B00R25QZDC: Rebaja en UGREEN 2 Cargador USB de pared 17W 5V 3. en Amazon 
+ title: B00R25QZDC: Ofertón en Amazon para UGREEN 2 Cargador USB de pared 17W 5V 3. 
  date: 2019/12/19 23:11:50 +0000 
  comments: true 
- tags: B00R25QZDC 
+ tags: B00R25QZDC, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B00R25QZDC 
  description: 
  --- 
  
- Está [UGREEN 2 Cargador USB de pared 17W 5V 3.4A Cargador USB Enchufe para iPhone XS Max XR X 8 7 6 iPad Pro Mini teléfono inteligente Samsung S10 S9 S8 A50 A8 A6 J6 M20 Huawei P20 Lite Mate 20 Lite- Blanco](https://www.amazon.es/dp/B00R25QZDC/?tag=redken-21) por 9.59 EUR (original: 18.99 EUR) en el siguiente enlace! 
+ Tienes [UGREEN 2 Cargador USB de pared 17W 5V 3.4A Cargador USB Enchufe para iPhone XS Max XR X 8 7 6 iPad Pro Mini teléfono inteligente Samsung S10 S9 S8 A50 A8 A6 J6 M20 Huawei P20 Lite Mate 20 Lite- Blanco](https://www.amazon.es/dp/B00R25QZDC/?tag=redken-21) a precio de oferta de 9.59 EUR (original: 18.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31yBsx9BUSL._SL200_.jpg)](https://www.amazon.es/dp/B00R25QZDC/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B00R25QZDC/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B00R25QZDC/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07JLFBTD3: Ahorra en Lee Breese Pantalones para Mujer  Negro  
- date: 2019/12/20 20:26:15 +0000 
+ date: 2019/12/27 16:14:11 +0000 
  comments: true 
  tags: B07JLFBTD3 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   27W / 35L](https://www.amazon.es/dp/B07JLFBTD3/?tag=redken-21) a 13.06 EUR (original: 89.95 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Lee Breese Pantalones para Mujer  Negro  Black Rinse 47   27W / 35L](https://www.amazon.es/dp/B07JLFBTD3/?tag=redken-21) a 9.68 EUR (original: 89.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg)](https://www.amazon.es/dp/B07JLFBTD3/?tag=redken-21) 
  

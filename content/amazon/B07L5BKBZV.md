@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07L5BKBZV: Ofertón en Amazon para BRA Efficient - Batería 4 piezas  de alu 
- date: 2019/12/25 12:44:28 +0000 
+ date: 2019/12/26 12:51:29 +0000 
  comments: true 
  tags: B07L5BKBZV, oferta, amazon, chollo, descuento 
  category: ofertas 
