@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QMQ3W8M: Ofertón en Amazon para Guzack Riñonera Deportivo Bolso Cintura  
- date: 2019/12/26 17:32:48 +0000 
+ date: 2019/12/28 13:30:03 +0000 
  comments: true 
  tags: B07QMQ3W8M, oferta, amazon, chollo, descuento 
  category: ofertas 

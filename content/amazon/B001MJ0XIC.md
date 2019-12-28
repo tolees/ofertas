@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B001MJ0XIC: Rebaja en Hugo Boss 11563 - Desodorante en Amazon 
- date: 2019/12/23 16:05:36 +0000 
+ date: 2019/12/28 14:16:42 +0000 
  comments: true 
  tags: B001MJ0XIC 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Hugo Boss 11563 - Desodorante](https://www.amazon.es/dp/B001MJ0XIC/?tag=redken-21) por 14.95 EUR (original: 23 EUR) en el siguiente enlace! 
+ Está [Hugo Boss 11563 - Desodorante](https://www.amazon.es/dp/B001MJ0XIC/?tag=redken-21) por 13.46 EUR (original: 23 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/3151zFIFWoL._SL200_.jpg)](https://www.amazon.es/dp/B001MJ0XIC/?tag=redken-21) 
  

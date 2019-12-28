@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07YKGGB22: Ahorra en Altavoz Bluetooth 30W  VTIN B2 Altavoz B 
- date: 2019/12/19 09:02:53 +0000 
+ date: 2019/12/28 18:15:42 +0000 
  comments: true 
  tags: B07YKGGB22 
  category: ofertas 
