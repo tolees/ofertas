@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QVKMZLW: Ofertón en Amazon para Receptor Bluetooth Jack 3.5 MM  ieGeek A 
- date: 2019/12/26 01:13:04 +0000 
+ date: 2019/12/28 00:59:06 +0000 
  comments: true 
  tags: B07QVKMZLW, oferta, amazon, chollo, descuento 
  category: ofertas 
