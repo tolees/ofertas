@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MBFV9Q2: Ofertón en Amazon para Columbia Lake 22 Chaqueta De Plumón  Hom 
- date: 2019/12/26 23:09:46 +0000 
+ date: 2019/12/28 10:07:16 +0000 
  comments: true 
  tags: B07MBFV9Q2, oferta, amazon, chollo, descuento 
  category: ofertas 
