@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00N5TOVAS: Ofertón en Amazon para Medisana HU 665 Calientacamas  150 x 80  
- date: 2019/12/27 20:02:52 +0000 
+ date: 2019/12/29 09:26:40 +0000 
  comments: true 
  tags: B00N5TOVAS, oferta, amazon, chollo, descuento 
  category: ofertas 

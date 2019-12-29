@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNS6J8H: Ahorra en LEGO La LEGO Película 2 - Triciclo de Em 
- date: 2019/12/27 22:48:27 +0000 
+ title: B07FNS6J8H: Ahorra en THE LEGO MOVIE 2 70823 Emmets Dreirad! 
+ date: 2019/12/28 21:55:27 +0000 
  comments: true 
  tags: B07FNS6J8H 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO La LEGO Película 2 - Triciclo de Emmet  set creativo de construcción con vehículo de juguete  incluye figura de Planty  70823 ](https://www.amazon.es/dp/B07FNS6J8H/?tag=redken-21) a 9.99 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [THE LEGO MOVIE 2 70823 Emmets Dreirad!](https://www.amazon.es/dp/B07FNS6J8H/?tag=redken-21) a 9.9 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51wfX%2BxsoyL._SL200_.jpg)](https://www.amazon.es/dp/B07FNS6J8H/?tag=redken-21) 
  

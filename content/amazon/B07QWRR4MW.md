@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QWRR4MW: Ofertón en Amazon para ELEGIANT Auriculares Bluetooth 5.0  TWS  
- date: 2019/12/27 09:47:09 +0000 
+ date: 2019/12/29 11:07:49 +0000 
  comments: true 
  tags: B07QWRR4MW, oferta, amazon, chollo, descuento 
  category: ofertas 

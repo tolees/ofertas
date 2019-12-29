@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01NAK0DSD: Ofertón en Amazon para Garmin fēnix 5S Smartwatch Gps-multispor 
- date: 2019/12/25 10:29:50 +0000 
+ date: 2019/12/29 10:57:47 +0000 
  comments: true 
  tags: B01NAK0DSD, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Garmin fēnix 5S Smartwatch Gps-multisportuhr  schwarz  S](https://www.amazon.es/dp/B01NAK0DSD/?tag=redken-21) a precio de oferta de 293.37 EUR (original: 599.99 EUR) en el siguiente enlace! 
+ Tienes [Garmin fēnix 5S Smartwatch Gps-multisportuhr  schwarz  S](https://www.amazon.es/dp/B01NAK0DSD/?tag=redken-21) a precio de oferta de 299.92 EUR (original: 599.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41643zq87xL._SL200_.jpg)](https://www.amazon.es/dp/B01NAK0DSD/?tag=redken-21) 
  

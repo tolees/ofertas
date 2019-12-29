@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00AZTKZXS: Ofertón en Amazon para Tefal Actifry YV960120 - Freidora 2 en 1 
- date: 2019/12/25 20:33:07 +0000 
+ date: 2019/12/29 14:53:03 +0000 
  comments: true 
  tags: B00AZTKZXS, oferta, amazon, chollo, descuento 
  category: ofertas 
