@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07Y7ZF3YC: Ofertón en Amazon para LAYJOY Funda Xiaomi Redmi 7A  Ligera Car 
- date: 2019/12/27 17:22:55 +0000 
+ date: 2019/12/29 04:26:07 +0000 
  comments: true 
  tags: B07Y7ZF3YC, oferta, amazon, chollo, descuento 
  category: ofertas 

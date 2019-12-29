@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0719QNMLW: Ofertón en Amazon para NAKOSITE SB2433 Reloj inteligente mujer  
- date: 2019/12/18 21:27:20 +0000 
+ date: 2019/12/28 18:59:31 +0000 
  comments: true 
  tags: B0719QNMLW, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XQGZV1J: Ofertón en Amazon para Montse Interiors  S.L. Cuadrante o Cojín 
- date: 2019/12/28 01:01:41 +0000 
+ date: 2019/12/29 01:10:06 +0000 
  comments: true 
  tags: B07XQGZV1J, oferta, amazon, chollo, descuento 
  category: ofertas 

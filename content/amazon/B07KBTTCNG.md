@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KBTTCNG: Rebaja en Lightailing Licht-Set Für  Star Wars Tod en Amazon 
- date: 2019/12/28 00:51:39 +0000 
+ title: B07KBTTCNG: Rebaja en Lightailing Light Set for  Star Wars Dea en Amazon 
+ date: 2019/12/28 17:04:09 +0000 
  comments: true 
  tags: B07KBTTCNG 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Lightailing Licht-Set Für  Star Wars Todesstern  Modell - LED Licht-Set Kompatibel Mit Lego 10188 Modell NICHT Enthalten ](https://www.amazon.es/dp/B07KBTTCNG/?tag=redken-21) por 74.99 EUR (original: 200 EUR) en el siguiente enlace! 
+ Está [Lightailing Light Set for  Star Wars Death Star  Building Blocks Model - Led Light kit Compatible with Lego 10188 NOT Included The Model ](https://www.amazon.es/dp/B07KBTTCNG/?tag=redken-21) por 69.99 GBP (original: 180 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.es/dp/B07KBTTCNG/?tag=redken-21) 
  

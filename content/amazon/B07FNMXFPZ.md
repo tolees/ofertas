@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07FNMXFPZ: Ahorra en LEGO City Fire - Rescate del Incendio en 
- date: 2019/12/20 11:09:31 +0000 
+ title: B07FNMXFPZ: Ahorra en LEGO City 60214 Feuerwehreinsatz im Burg 
+ date: 2019/12/28 21:51:11 +0000 
  comments: true 
  tags: B07FNMXFPZ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO City Fire - Rescate del Incendio en la Hamburguesería  Set de Construcción de Aventuras de Bomberos  Incluye Camión y Moto de Juguete  60214 ](https://www.amazon.es/dp/B07FNMXFPZ/?tag=redken-21) a 19.94 EUR (original: 29.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO City 60214 Feuerwehreinsatz im Burger-Restaurant](https://www.amazon.es/dp/B07FNMXFPZ/?tag=redken-21) a 19.99 EUR (original: 29.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51LNPGDGcmL._SL200_.jpg)](https://www.amazon.es/dp/B07FNMXFPZ/?tag=redken-21) 
  
