@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01J1RJH7Y: Ofertón en Amazon para Russell Hobbs Retro - Hervidor de Agua E 
- date: 2019/12/21 21:26:32 +0000 
+ date: 2019/12/30 07:09:34 +0000 
  comments: true 
  tags: B01J1RJH7Y, oferta, amazon, chollo, descuento 
  category: ofertas 
