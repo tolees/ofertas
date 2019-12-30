@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0079WCPFU: Ofertón en Amazon para Orbegozo HO 232 Horno eléctrico de sobre 
- date: 2019/12/25 10:31:14 +0000 
+ date: 2019/12/30 15:46:49 +0000 
  comments: true 
  tags: B0079WCPFU, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Orbegozo HO 232 Horno eléctrico de sobremesa  1500 W  23 litros  Gris](https://www.amazon.es/dp/B0079WCPFU/?tag=redken-21) a precio de oferta de 47 EUR (original: 79.9 EUR) en el siguiente enlace! 
+ Tienes [Orbegozo HO 232 Horno eléctrico de sobremesa  1500 W  23 litros  Gris](https://www.amazon.es/dp/B0079WCPFU/?tag=redken-21) a precio de oferta de 48.78 EUR (original: 79.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41NcqslxvZL._SL200_.jpg)](https://www.amazon.es/dp/B0079WCPFU/?tag=redken-21) 
  

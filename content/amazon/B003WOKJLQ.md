@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003WOKJLQ: Ofertón en Amazon para Remington Genius HC5810 - Máquina de Cor 
- date: 2019/12/29 09:12:21 +0000 
+ date: 2019/12/30 14:59:26 +0000 
  comments: true 
  tags: B003WOKJLQ, oferta, amazon, chollo, descuento 
  category: ofertas 

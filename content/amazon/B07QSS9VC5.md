@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QSS9VC5: Rebaja en Sony KD-55XG8196BAEP - Televisor 4K HDR  en Amazon 
- date: 2019/12/25 20:33:07 +0000 
+ date: 2019/12/30 16:26:32 +0000 
  comments: true 
  tags: B07QSS9VC5 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Sony KD-55XG8196BAEP - Televisor 4K HDR de 55"  Android TV  Triluminos  procesador 4K X-Reality Pro  HDR  Control por Voz  ClearAudio+  Negro](https://www.amazon.es/dp/B07QSS9VC5/?tag=redken-21) por 599 EUR (original: 1099 EUR) en el siguiente enlace! 
+ Está [Sony KD-55XG8196BAEP - Televisor 4K HDR de 55"  Android TV  Triluminos  procesador 4K X-Reality Pro  HDR  Control por Voz  ClearAudio+  Negro](https://www.amazon.es/dp/B07QSS9VC5/?tag=redken-21) por 699 EUR (original: 1099 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41ms9gt0caL._SL200_.jpg)](https://www.amazon.es/dp/B07QSS9VC5/?tag=redken-21) 
  
