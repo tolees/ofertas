@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01L1LNURG: Ofertón en Amazon para Tefal Fry Delight FX100015 - Freidora si 
- date: 2019/12/24 03:20:25 +0000 
+ date: 2019/12/30 07:03:53 +0000 
  comments: true 
  tags: B01L1LNURG, oferta, amazon, chollo, descuento 
  category: ofertas 
