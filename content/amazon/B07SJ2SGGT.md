@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07SJ2SGGT: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego Id 
- date: 2019/12/30 09:30:06 +0000 
+ title: B07SJ2SGGT: Ahorra en BRIKSMAX Led Lighting Kit for Lego Ideas 
+ date: 2019/12/30 22:28:22 +0000 
  comments: true 
  tags: B07SJ2SGGT 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Ideas Wall E  Kompatibel Mit Lego 21303 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07SJ2SGGT/?tag=redken-21) a 21.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Led Lighting Kit for Lego Ideas WALL E-Compatible with Lego 21303 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B07SJ2SGGT/?tag=redken-21) a 19.99 GBP (original: 59.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg)](https://www.amazon.es/dp/B07SJ2SGGT/?tag=redken-21) 
  
