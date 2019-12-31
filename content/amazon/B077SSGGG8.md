@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B077SSGGG8: Ofertón en Amazon para Adaptador de Viaje  Cargador de Pared co 
- date: 2019/12/27 14:32:55 +0000 
+ date: 2019/12/31 09:56:27 +0000 
  comments: true 
  tags: B077SSGGG8, oferta, amazon, chollo, descuento 
  category: ofertas 

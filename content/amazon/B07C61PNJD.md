@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07C61PNJD: Ofertón en Amazon para JACK & JONES Jjesheridan Shirt L/s Camis 
- date: 2019/12/28 21:41:33 +0000 
+ date: 2019/12/31 12:15:06 +0000 
  comments: true 
  tags: B07C61PNJD, oferta, amazon, chollo, descuento 
  category: ofertas 

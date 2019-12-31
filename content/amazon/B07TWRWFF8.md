@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TWRWFF8: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Techn en Amazon 
- date: 2019/12/20 17:15:28 +0000 
+ title: B07TWRWFF8: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Te en Amazon 
+ date: 2019/12/30 23:28:12 +0000 
  comments: true 
  tags: B07TWRWFF8 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Lighting Kit for LEGO Technic Tracked Loader Excavator- Compatible with Lego 4094 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TWRWFF8/?tag=redken-21) por 28.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Led Beleuchtungsset für Lego Technic Raupenlader  Kompatibel Mit Lego 42094 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07TWRWFF8/?tag=redken-21) por 31.99 EUR (original: 89.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51fh3GhoDPL._SL200_.jpg)](https://www.amazon.es/dp/B07TWRWFF8/?tag=redken-21) 
  

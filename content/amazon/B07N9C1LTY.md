@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N9C1LTY: Rebaja en BOSS Prime Polo  Azul  Bright Blue 434   en Amazon 
- date: 2019/12/27 13:29:26 +0000 
+ date: 2019/12/31 00:04:29 +0000 
  comments: true 
  tags: B07N9C1LTY 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BOSS Prime Polo  Azul  Bright Blue 434   Large para Hombre](https://www.amazon.es/dp/B07N9C1LTY/?tag=redken-21) por 19.12 EUR (original: 69.95 EUR) en el siguiente enlace! 
+ Está [BOSS Prime Polo  Azul  Bright Blue 434   Large para Hombre](https://www.amazon.es/dp/B07N9C1LTY/?tag=redken-21) por 23.41 EUR (original: 69.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31IsfJzygxL._SL200_.jpg)](https://www.amazon.es/dp/B07N9C1LTY/?tag=redken-21) 
  

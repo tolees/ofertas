@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FDQB5P5: Ahorra en Altavoz 30W Portátil Bluetooth 4.2 AY  I 
- date: 2019/12/29 01:10:06 +0000 
+ date: 2019/12/31 06:32:13 +0000 
  comments: true 
  tags: B07FDQB5P5 
  category: ofertas 

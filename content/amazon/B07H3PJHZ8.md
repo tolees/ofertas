@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07H3PJHZ8: Ofertón en Amazon para Lenovo Ideapad 330-15IKB - Ordenador Por 
- date: 2019/12/27 07:22:09 +0000 
+ date: 2019/12/31 05:47:59 +0000 
  comments: true 
  tags: B07H3PJHZ8, oferta, amazon, chollo, descuento 
  category: ofertas 

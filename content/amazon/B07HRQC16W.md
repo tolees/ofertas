@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HRQC16W: Rebaja en L.O.L Surprise! Fuzzy Pets en Amazon 
- date: 2019/12/28 16:37:30 +0000 
+ date: 2019/12/30 22:00:57 +0000 
  comments: true 
  tags: B07HRQC16W 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [L.O.L Surprise! Fuzzy Pets](https://www.amazon.es/dp/B07HRQC16W/?tag=redken-21) por 5 GBP (original: 13.99 GBP) en el siguiente enlace! 
+ Está [L.O.L Surprise! Fuzzy Pets](https://www.amazon.es/dp/B07HRQC16W/?tag=redken-21) por 7.99 GBP (original: 13.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41RZ9H6DY8L._SL200_.jpg)](https://www.amazon.es/dp/B07HRQC16W/?tag=redken-21) 
  

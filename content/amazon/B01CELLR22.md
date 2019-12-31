@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01CELLR22: Ofertón en Amazon para Hasbro Gaming Clasico Cluedo  Versión Es 
- date: 2019/12/29 01:23:48 +0000 
+ date: 2019/12/30 22:53:03 +0000 
  comments: true 
  tags: B01CELLR22, oferta, amazon, chollo, descuento 
  category: ofertas 

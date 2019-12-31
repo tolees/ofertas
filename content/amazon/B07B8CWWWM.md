@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B8CWWWM: Ofertón en Amazon para Lifewit 15L Bolsa Isotermica de Almuerzo 
- date: 2019/12/20 19:13:50 +0000 
+ date: 2019/12/31 01:45:22 +0000 
  comments: true 
  tags: B07B8CWWWM, oferta, amazon, chollo, descuento 
  category: ofertas 

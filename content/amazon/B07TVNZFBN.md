@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TVNZFBN: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/28 16:41:40 +0000 
+ title: B07TVNZFBN: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Star  en Amazon 
+ date: 2019/12/30 22:35:53 +0000 
  comments: true 
  tags: B07TVNZFBN 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Slave I- Compatible with Lego 75243 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TVNZFBN/?tag=redken-21) a 28.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Led Lighting Kit for LEGO Star Wars Slave I- Compatible with Lego 75243 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TVNZFBN/?tag=redken-21) por 28.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg)](https://www.amazon.es/dp/B07TVNZFBN/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07TVNZFBN/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07TVNZFBN/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

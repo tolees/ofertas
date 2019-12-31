@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07N9DW8BX: Ahorra en JBL LIVE 400BT Auriculares Inalámbricos  
- date: 2019/12/29 22:01:07 +0000 
+ date: 2019/12/31 09:49:27 +0000 
  comments: true 
  tags: B07N9DW8BX 
  category: ofertas 

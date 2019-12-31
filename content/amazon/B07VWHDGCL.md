@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VWHDGCL: Rebaja en Abafia USB Bluetooth Adapter  2-in-1 Emp en Amazon 
- date: 2019/12/22 17:06:18 +0000 
+ date: 2019/12/31 06:24:43 +0000 
  comments: true 
  tags: B07VWHDGCL 
  category: ofertas 

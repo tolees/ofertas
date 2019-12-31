@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07QTVCJCQ: Ofertón en Amazon para Monopoly Game: L.O.L. Surprise Edition B 
- date: 2019/12/30 08:29:06 +0000 
+ date: 2019/12/31 14:19:41 +0000 
  comments: true 
  tags: B07QTVCJCQ, oferta, amazon, chollo, descuento 
  category: ofertas 
