@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XB4YH3Q: Ofertón en Amazon para Microsoft - Consola 1 TB  Mando Inalámbr 
- date: 2019/12/23 07:24:16 +0000 
+ date: 2019-12-31 19:31:59 
  comments: true 
  tags: B07XB4YH3Q, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Microsoft - Consola 1 TB  Mando Inalámbrico + Star Wars Jedi: Fallen Order  Xbox One S ](https://www.amazon.es/dp/B07XB4YH3Q/?tag=redken-21) a precio de oferta de 189 EUR (original: 299 EUR) en el siguiente enlace! 
+ Tienes [Microsoft - Consola 1 TB  Mando Inalámbrico + Star Wars Jedi: Fallen Order  Xbox One S ](https://www.amazon.es/dp/B07XB4YH3Q/?tag=redken-21) a precio de oferta de 169.95 EUR (original: 299 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51CzPwpyLYL._SL200_.jpg)](https://www.amazon.es/dp/B07XB4YH3Q/?tag=redken-21) 
  
