@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B081RJTX8G: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Techn 
- date: 2019/12/30 09:30:04 +0000 
+ title: B081RJTX8G: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego Te 
+ date: 2019/12/30 23:28:12 +0000 
  comments: true 
  tags: B081RJTX8G 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Technic Land Rover Defender Compatible with LEGO 42110 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B081RJTX8G/?tag=redken-21) a 49.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover Defender Kompatibel Mit Lego 42110 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B081RJTX8G/?tag=redken-21) a 54.99 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51oeqBli15L._SL200_.jpg)](https://www.amazon.es/dp/B081RJTX8G/?tag=redken-21) 
  

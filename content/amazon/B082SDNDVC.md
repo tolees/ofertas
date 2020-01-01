@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B082SDNDVC: Ofertón en Amazon para LloydBP Displayport zum HDMI-Adapterkabe 
- date: 2019/12/30 09:55:45 +0000 
+ date: 2020-01-01 14:25:26 
  comments: true 
  tags: B082SDNDVC, oferta, amazon, chollo, descuento 
  category: ofertas 

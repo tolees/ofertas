@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TTNF2F7: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Star  
- date: 2019/12/30 09:10:47 +0000 
+ title: B07TTNF2F7: Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Leg 
+ date: 2019/12/31 06:54:16 +0000 
  comments: true 
  tags: B07TTNF2F7, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Y-Wing Starfighter- Compatible with Lego 75172 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TTNF2F7/?tag=redken-21) a precio de oferta de 29.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Y-Wing Starfighter  Compatible con Ladrillos de Construcción Lego Modelo 75172  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TTNF2F7/?tag=redken-21) a precio de oferta de 34.99 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41abc2RKv6L._SL200_.jpg)](https://www.amazon.es/dp/B07TTNF2F7/?tag=redken-21) 
  
