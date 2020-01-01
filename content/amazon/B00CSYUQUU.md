@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00CSYUQUU: Ofertón en Amazon para Hacienda Zorita Natural Reserve Syrah Vi 
- date: 2019/12/30 19:39:19 +0000 
+ date: 2020-01-01 09:21:57 
  comments: true 
  tags: B00CSYUQUU, oferta, amazon, chollo, descuento 
  category: ofertas 

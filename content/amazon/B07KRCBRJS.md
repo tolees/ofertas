@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07KRCBRJS: Ofertón en Amazon para iHaper USB C Hub 7 in 1  Aluminum Type C 
- date: 2019/12/23 12:06:56 +0000 
+ title: B07KRCBRJS: Rebaja en iHaper Hub USB C 7 en 1  Adaptador Type  en Amazon 
+ date: 2020-01-01 08:26:33 
  comments: true 
- tags: B07KRCBRJS, oferta, amazon, chollo, descuento 
+ tags: B07KRCBRJS 
  category: ofertas 
  author: ring 
  slug: B07KRCBRJS 
  description: 
  --- 
  
- Tienes [iHaper USB C Hub 7 in 1  Aluminum Type C Adapter HDMI with 4K Output 60W USB C Power Delivery  3 USB 3.0  SD/TF Card Reader  Google Chromebook Pixel  Lenovo Yoga and more](https://www.amazon.es/dp/B07KRCBRJS/?tag=redken-21) a precio de oferta de 19.99 GBP (original: 33.99 GBP) en el siguiente enlace! 
+ Está [iHaper Hub USB C 7 en 1  Adaptador Type C HDMI Aluminio con 4K Ultra HD 60W USB C Power Delivery  3 USB 3.0  Lector de Tarjetas SD/TF para MacBook  Chromebook  DELL XPS  Lenovo Yoga y Más Gris](https://www.amazon.es/dp/B07KRCBRJS/?tag=redken-21) por 18.99 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41wzFU5p53L._SL200_.jpg)](https://www.amazon.es/dp/B07KRCBRJS/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B07KRCBRJS/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07KRCBRJS/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

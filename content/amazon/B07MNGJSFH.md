@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MNGJSFH: Ofertón en Amazon para Braun MGK7020 10 En 1 - Recortadora Barb 
- date: 2019/12/30 19:35:26 +0000 
+ date: 2020-01-01 09:22:49 
  comments: true 
  tags: B07MNGJSFH, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01KLT1AQM: Ofertón en Amazon para Skagen Reloj Unisex de Analogico con Cor 
- date: 2019/12/30 16:14:36 +0000 
+ date: 2020-01-01 10:40:21 
  comments: true 
  tags: B01KLT1AQM, oferta, amazon, chollo, descuento 
  category: ofertas 

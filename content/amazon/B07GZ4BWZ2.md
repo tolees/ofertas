@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GZ4BWZ2: Ofertón en Amazon para BLACK+DECKER BEH710K-QS Taladro Percutor 
- date: 2019/12/29 17:35:23 +0000 
+ date: 2020-01-01 09:08:08 
  comments: true 
  tags: B07GZ4BWZ2, oferta, amazon, chollo, descuento 
  category: ofertas 
