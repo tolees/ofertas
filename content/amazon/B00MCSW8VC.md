@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00MCSW8VC: Ahorra en Remington Pro Ion S7710 - Plancha de Pel 
- date: 2019/12/26 19:27:53 +0000 
+ date: 2019-12-31 23:14:21 
  comments: true 
  tags: B00MCSW8VC 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KWJF66Y: Ofertón en Amazon para LIGHTAILING Light Set For  Parisian Rest 
- date: 2019/12/31 06:02:22 +0000 
+ date: 2020-01-01 06:05:17 
  comments: true 
  tags: B07KWJF66Y, oferta, amazon, chollo, descuento 
  category: ofertas 
