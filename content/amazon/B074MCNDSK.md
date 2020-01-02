@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B074MCNDSK: Ahorra en Samsung T5 2TB - Disco Estado sólido SSD 
- date: 2020-01-01 09:07:03 
+ date: 2020-01-02 11:58:23 
  comments: true 
  tags: B074MCNDSK 
  category: ofertas 

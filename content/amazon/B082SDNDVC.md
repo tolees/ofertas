@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B082SDNDVC: Ahorra en LloydBP Displayport zum HDMI-Adapterkabe 
- date: 2020-01-01 14:25:26 
+ date: 2020-01-02 14:33:09 
  comments: true 
  tags: B082SDNDVC 
  category: ofertas 

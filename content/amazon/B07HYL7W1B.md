@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HYL7W1B: Ahorra en MEDION E4251 - Ordenador portátil de 14" 
- date: 2019-12-31 20:23:59 
+ date: 2020-01-02 12:18:26 
  comments: true 
  tags: B07HYL7W1B 
  category: ofertas 

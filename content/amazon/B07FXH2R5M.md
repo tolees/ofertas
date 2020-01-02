@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FXH2R5M: Ofertón en Amazon para Multímetro Digital Profesional  LOMVUM T 
- date: 2019/12/31 05:01:41 +0000 
+ date: 2020-01-02 10:39:09 
  comments: true 
  tags: B07FXH2R5M, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01N1SMBBN: Ofertón en Amazon para find. 13646 vestido fiesta mujer  Negro  
- date: 2019/12/23 13:09:25 +0000 
+ date: 2020-01-02 13:14:22 
  comments: true 
  tags: B01N1SMBBN, oferta, amazon, chollo, descuento 
  category: ofertas 

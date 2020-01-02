@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073RJQXB1: Ofertón en Amazon para Samsung C49HG90DMU - Monitor Curvo Gamin 
- date: 2019/12/27 11:37:10 +0000 
+ date: 2020-01-02 14:16:15 
  comments: true 
  tags: B073RJQXB1, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Samsung C49HG90DMU - Monitor Curvo Gaming 49"  QLED  2 x Full HD  32:9  144 Hz  1 ms  HDR  3000:1  1800R  FreeSync ](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21) a precio de oferta de 813.2 EUR (original: 1299 EUR) en el siguiente enlace! 
+ Tienes [Samsung C49HG90DMU - Monitor Curvo Gaming 49"  QLED  2 x Full HD  32:9  144 Hz  1 ms  HDR  3000:1  1800R  FreeSync ](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21) a precio de oferta de 799.99 EUR (original: 1299 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41O3KuikMjL._SL200_.jpg)](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21) 
  

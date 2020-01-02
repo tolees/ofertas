@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003TWP5GK: Ofertón en Amazon para Bosch 2607010630 - Hojas de sierra de ca 
- date: 2019/12/24 19:28:17 +0000 
+ date: 2020-01-02 15:35:20 
  comments: true 
  tags: B003TWP5GK, oferta, amazon, chollo, descuento 
  category: ofertas 

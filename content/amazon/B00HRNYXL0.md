@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00HRNYXL0: Ahorra en WD Red - Disco duro para NAS  4 TB 
- date: 2019/12/28 11:51:32 +0000 
+ date: 2020-01-02 14:44:30 
  comments: true 
  tags: B00HRNYXL0 
  category: ofertas 

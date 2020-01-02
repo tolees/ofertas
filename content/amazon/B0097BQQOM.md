@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0097BQQOM: Ofertón en Amazon para BLACK+DECKER MT300KA-QS Multiherramienta 
- date: 2019/12/26 10:50:29 +0000 
+ date: 2020-01-02 10:46:29 
  comments: true 
  tags: B0097BQQOM, oferta, amazon, chollo, descuento 
  category: ofertas 
