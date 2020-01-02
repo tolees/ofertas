@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CGPZ3ZQ: Ofertón en Amazon para Logitech G305 Lightspeed  Raton Inalámbr 
- date: 2019/12/31 00:19:52 +0000 
+ date: 2020-01-01 23:43:42 
  comments: true 
  tags: B07CGPZ3ZQ, oferta, amazon, chollo, descuento 
  category: ofertas 

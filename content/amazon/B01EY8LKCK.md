@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01EY8LKCK: Ofertón en Amazon para Oral-B Genius 8900 - Cepillo de dientes  
- date: 2019/12/30 10:44:06 +0000 
+ date: 2020-01-02 07:34:57 
  comments: true 
  tags: B01EY8LKCK, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Oral-B Genius 8900 - Cepillo de dientes eléctrico  con Tecnología de Braun  2 unidades](https://www.amazon.es/dp/B01EY8LKCK/?tag=redken-21) a precio de oferta de 135.95 EUR (original: 314.99 EUR) en el siguiente enlace! 
+ Tienes [Oral-B Genius 8900 - Cepillo de dientes eléctrico  con Tecnología de Braun  2 unidades](https://www.amazon.es/dp/B01EY8LKCK/?tag=redken-21) a precio de oferta de 119.99 EUR (original: 314.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51lICSuwhxL._SL200_.jpg)](https://www.amazon.es/dp/B01EY8LKCK/?tag=redken-21) 
  

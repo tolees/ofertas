@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FQFDNPF: Ofertón en Amazon para Buff Adventure Junior Frozen Tubular Pol 
- date: 2019/12/31 06:39:19 +0000 
+ date: 2020-01-02 06:27:36 
  comments: true 
  tags: B07FQFDNPF, oferta, amazon, chollo, descuento 
  category: ofertas 

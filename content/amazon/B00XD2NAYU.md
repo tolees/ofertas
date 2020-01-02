@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00XD2NAYU: Ofertón en Amazon para Pepe Jeans Spike Vaqueros  Azul  11OZ ST 
- date: 2019/12/31 11:31:59 +0000 
+ date: 2020-01-01 19:08:53 
  comments: true 
  tags: B00XD2NAYU, oferta, amazon, chollo, descuento 
  category: ofertas 
