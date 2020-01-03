@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XPCVB4F: Rebaja en Mpow Bluetooth 4.0 USB Dongle Adapter  B en Amazon 
- date: 2020-01-01 22:05:14 
+ date: 2020-01-02 22:09:43 
  comments: true 
  tags: B06XPCVB4F 
  category: ofertas 

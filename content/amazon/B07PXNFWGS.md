@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PXNFWGS: Ahorra en Huawei P30 Pro - Smartphone de 6.47"  Ki 
- date: 2019-12-31 20:59:32 
+ date: 2020-01-02 23:29:29 
  comments: true 
  tags: B07PXNFWGS 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07V6LB7FF: Ofertón en Amazon para Frozen 2 Sing Along Microphone and MP3 K 
- date: 2019-12-31 22:16:37 
+ date: 2020-01-02 22:03:36 
  comments: true 
  tags: B07V6LB7FF, oferta, amazon, chollo, descuento 
  category: ofertas 

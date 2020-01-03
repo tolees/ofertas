@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07J4QMCXM: Ofertón en Amazon para Funko 35576 POP Vinyl: Animation: 90s Ni 
- date: 2019/12/31 06:05:24 +0000 
+ date: 2020-01-03 06:11:38 
  comments: true 
  tags: B07J4QMCXM, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Funko 35576 POP Vinyl: Animation: 90s Nickelodeon: Eliza  Multi](https://www.amazon.es/dp/B07J4QMCXM/?tag=redken-21) a precio de oferta de 5.99 GBP (original: 9.17 GBP) en el siguiente enlace! 
+ Tienes [Funko 35576 POP Vinyl: Animation: 90s Nickelodeon: Eliza  Multi](https://www.amazon.es/dp/B07J4QMCXM/?tag=redken-21) a precio de oferta de 5.99 GBP (original: 9.04 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51cQ0FhWIeL._SL200_.jpg)](https://www.amazon.es/dp/B07J4QMCXM/?tag=redken-21) 
  

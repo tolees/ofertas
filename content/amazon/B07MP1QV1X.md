@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07MP1QV1X: Rebaja en BRIKSMAX James Bond Aston Martin DB5 Led en Amazon 
- date: 2019/12/30 09:20:30 +0000 
+ title: B07MP1QV1X: Ahorra en BRIKSMAX Kit de Iluminación Led para Ast 
+ date: 2020-01-01 06:27:29 
  comments: true 
  tags: B07MP1QV1X 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [BRIKSMAX James Bond Aston Martin DB5 Led Lighting Kit- Compatible with Lego 10262 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07MP1QV1X/?tag=redken-21) por 27.99 GBP (original: 49.99 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Aston Martin DB5-Compatible con Ladrillos de Construcción Lego Modelo 10262-Juego de Legos no Incluido](https://www.amazon.es/dp/B07MP1QV1X/?tag=redken-21) a 29.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41i3883WyXL._SL200_.jpg)](https://www.amazon.es/dp/B07MP1QV1X/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07MP1QV1X/?tag=redken-21)
+ [Visítala!!!](https://www.amazon.es/dp/B07MP1QV1X/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

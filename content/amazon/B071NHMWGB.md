@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B071NHMWGB: Rebaja en Funko 12332 Pop! TV: Game Of Thrones - B en Amazon 
- date: 2019/12/25 00:24:34 +0000 
+ title: B071NHMWGB: Rebaja en Game of Thrones Figura BRAN Stark  Multi en Amazon 
+ date: 2019/12/26 10:10:50 +0000 
  comments: true 
  tags: B071NHMWGB 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Funko 12332 Pop! TV: Game Of Thrones - Bran Stark Vinyl Figure](https://www.amazon.es/dp/B071NHMWGB/?tag=redken-21) por 5.95 GBP (original: 9.22 GBP) en el siguiente enlace! 
+ Está [Game of Thrones Figura BRAN Stark  Multicolor  Standard  Funko 12332 ](https://www.amazon.es/dp/B071NHMWGB/?tag=redken-21) por 7.48 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51eGMkp396L._SL200_.jpg)](https://www.amazon.es/dp/B071NHMWGB/?tag=redken-21) 
  

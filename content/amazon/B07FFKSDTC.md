@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FFKSDTC: Ofertón en Amazon para Logitech K600  Teclado Para Smart TV  To 
- date: 2019/12/25 21:24:17 +0000 
+ date: 2020-01-02 20:11:27 
  comments: true 
  tags: B07FFKSDTC, oferta, amazon, chollo, descuento 
  category: ofertas 

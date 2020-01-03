@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00RC7WAM0: Ofertón en Amazon para Sports Cars Top Trumps Card Game 
- date: 2020-01-01 06:07:58 
+ date: 2020-01-03 14:19:13 
  comments: true 
  tags: B00RC7WAM0, oferta, amazon, chollo, descuento 
  category: ofertas 

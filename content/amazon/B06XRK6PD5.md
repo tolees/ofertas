@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XRK6PD5: Rebaja en Solac BV5713 Batidora de Vaso  1000 W  1 en Amazon 
- date: 2019/12/26 11:50:22 +0000 
+ date: 2020-01-03 11:06:51 
  comments: true 
  tags: B06XRK6PD5 
  category: ofertas 

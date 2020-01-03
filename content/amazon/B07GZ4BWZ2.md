@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GZ4BWZ2: Ahorra en BLACK+DECKER BEH710K-QS Taladro Percutor 
- date: 2020-01-02 09:39:27 
+ date: 2020-01-03 13:32:01 
  comments: true 
  tags: B07GZ4BWZ2 
  category: ofertas 

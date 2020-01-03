@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GVSX3OE: Ofertón en Amazon para Bungsa® B - Silberner Buchstaben Kristal 
- date: 2020-01-01 22:46:33 
+ date: 2020-01-03 06:30:21 
  comments: true 
  tags: B01GVSX3OE, oferta, amazon, chollo, descuento 
  category: ofertas 

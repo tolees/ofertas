@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNWJ5P7: Ahorra en LEGO NINJAGO 70665 - Samurai-Roboter 
- date: 2019/12/31 13:23:59 +0000 
+ date: 2020-01-03 06:29:22 
  comments: true 
  tags: B07FNWJ5P7 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LEGO NINJAGO 70665 - Samurai-Roboter](https://www.amazon.es/dp/B07FNWJ5P7/?tag=redken-21) a 9.42 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [LEGO NINJAGO 70665 - Samurai-Roboter](https://www.amazon.es/dp/B07FNWJ5P7/?tag=redken-21) a 8.18 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg)](https://www.amazon.es/dp/B07FNWJ5P7/?tag=redken-21) 
  

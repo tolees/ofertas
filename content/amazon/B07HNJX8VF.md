@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HNJX8VF: Rebaja en TAIFU 65W AC Adapter for ASUS X551M X555 en Amazon 
- date: 2020-01-01 22:01:56 
+ date: 2020-01-02 22:14:54 
  comments: true 
  tags: B07HNJX8VF 
  category: ofertas 

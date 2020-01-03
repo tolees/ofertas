@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07KWLMNHN: Rebaja en BRIKSMAX Volkswagen T1 Camper Van Led Li en Amazon 
- date: 2019/12/29 00:43:25 +0000 
+ title: B07KWLMNHN: Rebaja en BRIKSMAX Volkswagen T1 Campingbus Led Be en Amazon 
+ date: 2020-01-01 22:59:46 
  comments: true 
  tags: B07KWLMNHN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Volkswagen T1 Camper Van Led Lighting Kit- Compatible with Lego 10220 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07KWLMNHN/?tag=redken-21) por 23.99 GBP (original: 50.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Volkswagen T1 Campingbus Led Beleuchtungsset - Kompatibel Mit Lego 10220 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07KWLMNHN/?tag=redken-21) por 25.99 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg)](https://www.amazon.es/dp/B07KWLMNHN/?tag=redken-21) 
  

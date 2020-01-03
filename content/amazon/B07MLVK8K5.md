@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MLVK8K5: Rebaja en WD Black SN750 - SSD Interno NVMe con di en Amazon 
- date: 2020-01-02 02:58:55 
+ date: 2020-01-03 12:42:15 
  comments: true 
  tags: B07MLVK8K5 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [WD Black SN750 - SSD Interno NVMe con disipador térmico para Gaming de Alto Rendimiento  2 TB](https://www.amazon.es/dp/B07MLVK8K5/?tag=redken-21) por 346.53 EUR (original: 565.99 EUR) en el siguiente enlace! 
+ Está [WD Black SN750 - SSD Interno NVMe con disipador térmico para Gaming de Alto Rendimiento  2 TB](https://www.amazon.es/dp/B07MLVK8K5/?tag=redken-21) por 374.21 EUR (original: 565.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41kbV9VA-aL._SL200_.jpg)](https://www.amazon.es/dp/B07MLVK8K5/?tag=redken-21) 
  

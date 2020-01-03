@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07JR8Y8LW: Rebaja en Funko 34684 5 Star: Fortnite: TomatoHead en Amazon 
+ title: B07JR8Y8LW: Ofertón en Amazon para Funko 34684 5 Star: Fortnite: TomatoHead 
  date: 2019-12-31 22:07:21 
  comments: true 
- tags: B07JR8Y8LW 
+ tags: B07JR8Y8LW, oferta, amazon, chollo, descuento 
  category: ofertas 
  author: ring 
  slug: B07JR8Y8LW 
  description: 
  --- 
  
- Está [Funko 34684 5 Star: Fortnite: TomatoHead Collectible Figure  Multicolour](https://www.amazon.es/dp/B07JR8Y8LW/?tag=redken-21) por 5 GBP (original: 9.17 GBP) en el siguiente enlace! 
+ Tienes [Funko 34684 5 Star: Fortnite: TomatoHead Collectible Figure  Multicolour](https://www.amazon.es/dp/B07JR8Y8LW/?tag=redken-21) a precio de oferta de 5 GBP (original: 9.17 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41DVCZjpEfL._SL200_.jpg)](https://www.amazon.es/dp/B07JR8Y8LW/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07JR8Y8LW/?tag=redken-21)
+ [Accede a la oferta!!](https://www.amazon.es/dp/B07JR8Y8LW/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07TXVSWZ6: Ofertón en Amazon para BRIKSMAX Led Beleuchtungsset für Lego St 
- date: 2020-01-01 06:16:45 
+ title: B07TXVSWZ6: Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Leg 
+ date: 2020-01-01 23:38:21 
  comments: true 
  tags: B07TXVSWZ6, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kessel Run Millennium Falcon  Kompatibel Mit Lego 75212 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B07TXVSWZ6/?tag=redken-21) a precio de oferta de 49.99 EUR (original: 74.99 EUR) en el siguiente enlace! 
+ Tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Halcón Milenario del Corredor De Kessel  Compatible con Ladrillos de Construcción Lego Modelo 75212  Juego de Legos no Incluido](https://www.amazon.es/dp/B07TXVSWZ6/?tag=redken-21) a precio de oferta de 44.99 EUR (original: 99.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41BaRYBmAgL._SL200_.jpg)](https://www.amazon.es/dp/B07TXVSWZ6/?tag=redken-21) 
  

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VHLKWGI: Ofertón en Amazon para 1/12 Casa De Munecas Muebles En Miniatur 
- date: 2020-01-02 06:38:15 
+ date: 2020-01-03 06:41:13 
  comments: true 
  tags: B00VHLKWGI, oferta, amazon, chollo, descuento 
  category: ofertas 
