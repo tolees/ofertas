@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01JGIF3DU: Ahorra en Einhell Pack taladro percutor y 15 pieza 
- date: 2020-01-02 10:37:59 
+ date: 2020-01-03 18:25:07 
  comments: true 
  tags: B01JGIF3DU 
  category: ofertas 

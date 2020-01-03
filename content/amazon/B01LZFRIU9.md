@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01LZFRIU9: Ofertón en Amazon para Funko Vi Figura de Vinilo  colección de  
- date: 2020-01-01 14:44:25 
+ date: 2020-01-03 15:03:28 
  comments: true 
  tags: B01LZFRIU9, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Funko Vi Figura de Vinilo  colección de Pop  seria League of Legends  Multicolor  10302 ](https://www.amazon.es/dp/B01LZFRIU9/?tag=redken-21) a precio de oferta de 8.34 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Tienes [Funko Vi Figura de Vinilo  colección de Pop  seria League of Legends  Multicolor  10302 ](https://www.amazon.es/dp/B01LZFRIU9/?tag=redken-21) a precio de oferta de 8.4 EUR (original: 14.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41G010Nb6vL._SL200_.jpg)](https://www.amazon.es/dp/B01LZFRIU9/?tag=redken-21) 
  

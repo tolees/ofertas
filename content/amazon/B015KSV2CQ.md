@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015KSV2CQ: Ofertón en Amazon para NNJXD Vestido de Fiesta de Princesa con  
- date: 2020-01-01 06:24:33 
+ date: 2020-01-03 15:09:32 
  comments: true 
  tags: B015KSV2CQ, oferta, amazon, chollo, descuento 
  category: ofertas 

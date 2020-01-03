@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GJVY4D1: Ofertón en Amazon para Krups Dolce Gusto Infinissima KP1705 - C 
- date: 2019/12/26 13:11:16 +0000 
+ date: 2020-01-03 18:14:31 
  comments: true 
  tags: B07GJVY4D1, oferta, amazon, chollo, descuento 
  category: ofertas 

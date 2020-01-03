@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CHMV7W1: Ahorra en ALCATEL 3X Smartphone Quad Core 1.28 GHz 
- date: 2020-01-02 17:42:26 
+ date: 2020-01-03 18:42:19 
  comments: true 
  tags: B07CHMV7W1 
  category: ofertas 

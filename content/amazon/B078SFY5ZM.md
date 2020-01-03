@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B078SFY5ZM: Ofertón en Amazon para Alcatel 3v - Smartphone de 6"  Quad-Core 
+ title: B078SFY5ZM: Rebaja en Alcatel 3v - Smartphone de 6"  Quad-Core en Amazon 
  date: 2020-01-02 22:46:05 
  comments: true 
- tags: B078SFY5ZM, oferta, amazon, chollo, descuento 
+ tags: B078SFY5ZM 
  category: ofertas 
  author: ring 
  slug: B078SFY5ZM 
  description: 
  --- 
  
- Tienes [Alcatel 3v - Smartphone de 6"  Quad-Core 1.45 GHz  Memoria 16 GB Ampliable hasta MicroSD de 128 GB  cámara DE 16 MP AF + 2 MP  Android 8.0  Color Azul](https://www.amazon.es/dp/B078SFY5ZM/?tag=redken-21) a precio de oferta de 114.98 EUR (original: 179.99 EUR) en el siguiente enlace! 
+ Está [Alcatel 3v - Smartphone de 6"  Quad-Core 1.45 GHz  Memoria 16 GB Ampliable hasta MicroSD de 128 GB  cámara DE 16 MP AF + 2 MP  Android 8.0  Color Azul](https://www.amazon.es/dp/B078SFY5ZM/?tag=redken-21) por 114.98 EUR (original: 179.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41%2B-h7hGuTL._SL200_.jpg)](https://www.amazon.es/dp/B078SFY5ZM/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.es/dp/B078SFY5ZM/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B078SFY5ZM/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
