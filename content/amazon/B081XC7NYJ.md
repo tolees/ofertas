@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B081XC7NYJ: Rebaja en GOODTEL Ordenador Portátil de 14 Pulgada en Amazon 
- date: 2020-01-02 13:07:10 
+ date: 2020-01-03 20:14:55 
  comments: true 
  tags: B081XC7NYJ 
  category: ofertas 
