@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TTNHF3G: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Techn 
- date: 2020-01-01 22:31:28 
+ date: 2020-01-03 22:21:59 
  comments: true 
  tags: B07TTNHF3G, oferta, amazon, chollo, descuento 
  category: ofertas 

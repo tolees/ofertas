@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00VLVMPUA: Ofertón en Amazon para Playmobil 6687 Super 4 Lost Island - Mul 
- date: 2020-01-01 22:37:19 
+ date: 2020-01-03 22:22:29 
  comments: true 
  tags: B00VLVMPUA, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil 6687 Super 4 Lost Island - Multi-Colour](https://www.amazon.es/dp/B00VLVMPUA/?tag=redken-21) a precio de oferta de 9.3 GBP (original: 14.99 GBP) en el siguiente enlace! 
+ Tienes [Playmobil 6687 Super 4 Lost Island - Multi-Colour](https://www.amazon.es/dp/B00VLVMPUA/?tag=redken-21) a precio de oferta de 9.14 GBP (original: 14.99 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/613E7PMiqzL._SL200_.jpg)](https://www.amazon.es/dp/B00VLVMPUA/?tag=redken-21) 
  

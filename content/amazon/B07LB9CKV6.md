@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07LB9CKV6: Ahorra en Lenovo  Portátil Táctil Convertible de 1 
- date: 2020-01-01 04:44:58 
+ date: 2020-01-04 08:15:34 
  comments: true 
  tags: B07LB9CKV6 
  category: ofertas 

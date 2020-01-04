@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TVP1MQJ: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Ideas 
- date: 2020-01-01 22:20:32 
+ date: 2020-01-03 22:13:02 
  comments: true 
  tags: B07TVP1MQJ, oferta, amazon, chollo, descuento 
  category: ofertas 

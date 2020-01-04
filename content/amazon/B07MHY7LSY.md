@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MHY7LSY: Ofertón en Amazon para Funko 37019 POP Keychain: Toy Story-Buzz 
- date: 2020-01-02 14:10:16 
+ date: 2020-01-03 22:07:21 
  comments: true 
  tags: B07MHY7LSY, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Funko 37019 POP Keychain: Toy Story-Buzz Collectible Figure  Multicolour](https://www.amazon.es/dp/B07MHY7LSY/?tag=redken-21) a precio de oferta de 4.34 GBP (original: 6.78 GBP) en el siguiente enlace! 
+ Tienes [Funko 37019 POP Keychain: Toy Story-Buzz Collectible Figure  Multicolour](https://www.amazon.es/dp/B07MHY7LSY/?tag=redken-21) a precio de oferta de 4.35 GBP (original: 6.78 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51B-GiMpbEL._SL200_.jpg)](https://www.amazon.es/dp/B07MHY7LSY/?tag=redken-21) 
  

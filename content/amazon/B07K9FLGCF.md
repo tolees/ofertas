@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07K9FLGCF: Ofertón en Amazon para LEGO Star Wars 75253  BOOST Droide  App- 
- date: 2020-01-01 22:43:16 
+ date: 2020-01-03 22:39:42 
  comments: true 
  tags: B07K9FLGCF, oferta, amazon, chollo, descuento 
  category: ofertas 

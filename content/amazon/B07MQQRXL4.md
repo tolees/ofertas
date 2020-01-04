@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07MQQRXL4: Ofertón en Amazon para ANTIMI Bluetooth Headphones Wireless Ear 
- date: 2020-01-01 22:11:02 
+ date: 2020-01-03 22:09:11 
  comments: true 
  tags: B07MQQRXL4, oferta, amazon, chollo, descuento 
  category: ofertas 
