@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CHTGLL2: Rebaja en ALCATEL 3X Smartphone Quad Core 1.28 GHz en Amazon 
- date: 2020-01-02 20:27:12 
+ date: 2020-01-04 21:37:13 
  comments: true 
  tags: B07CHTGLL2 
  category: ofertas 

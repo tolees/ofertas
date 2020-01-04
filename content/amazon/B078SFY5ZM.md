@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B078SFY5ZM: Ahorra en Alcatel 3v - Smartphone de 6"  Quad-Core 
- date: 2020-01-02 22:46:05 
+ date: 2020-01-04 17:05:13 
  comments: true 
  tags: B078SFY5ZM 
  category: ofertas 

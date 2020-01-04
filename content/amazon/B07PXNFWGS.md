@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PXNFWGS: Ofertón en Amazon para Huawei P30 Pro - Smartphone de 6.47"  Ki 
- date: 2020-01-02 23:29:29 
+ date: 2020-01-04 18:36:06 
  comments: true 
  tags: B07PXNFWGS, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01GRFF1ZK: Rebaja en WD My Cloud PR2100 4 TB - Network Attach en Amazon 
- date: 2019/12/26 13:15:50 +0000 
+ title: B01GRFF1ZK: Rebaja en Western Digital My Cloud Pro Series PR21 en Amazon 
+ date: 2020-01-03 15:23:09 
  comments: true 
  tags: B01GRFF1ZK 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [WD My Cloud PR2100 4 TB - Network Attached Storage - 2 Bay NAS Pro-Serie - integrierte Videotranskodierung - WDBBCL0040JBK-EESN](https://www.amazon.es/dp/B01GRFF1ZK/?tag=redken-21) por 382.95 EUR (original: 725 EUR) en el siguiente enlace! 
+ Está [Western Digital My Cloud Pro Series PR2100 - Almacenamiento en red  NAS  de 4 TB y servidor multimedia con transcodificación](https://www.amazon.es/dp/B01GRFF1ZK/?tag=redken-21) por 375.49 EUR (original: 577.92 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41LwFjgG8IL._SL200_.jpg)](https://www.amazon.es/dp/B01GRFF1ZK/?tag=redken-21) 
  

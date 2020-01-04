@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XFLC4TD: Ofertón en Amazon para Bosch MUC88B68ES AutoCook - Robot de coc 
- date: 2019/12/29 16:20:47 +0000 
+ date: 2020-01-04 17:52:31 
  comments: true 
  tags: B06XFLC4TD, oferta, amazon, chollo, descuento 
  category: ofertas 
