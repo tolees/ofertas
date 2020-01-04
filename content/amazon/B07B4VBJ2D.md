@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07B4VBJ2D: Ahorra en Sony Xperia XZ2 - Smartphone de 5.7"  Oc 
- date: 2020-01-03 06:44:07 
+ date: 2020-01-04 13:14:22 
  comments: true 
  tags: B07B4VBJ2D 
  category: ofertas 

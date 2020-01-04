@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FVJRGD8: Ofertón en Amazon para Willful Smartwatch  Reloj Inteligente An 
- date: 2019-12-31 18:49:46 
+ date: 2020-01-04 13:07:23 
  comments: true 
  tags: B07FVJRGD8, oferta, amazon, chollo, descuento 
  category: ofertas 
