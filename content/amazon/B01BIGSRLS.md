@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01BIGSRLS: Ofertón en Amazon para WD My Cloud EX2 Ultra NAS Festplatte 8 T 
- date: 2019/12/30 07:22:26 +0000 
+ date: 2020-01-05 07:16:19 
  comments: true 
  tags: B01BIGSRLS, oferta, amazon, chollo, descuento 
  category: ofertas 

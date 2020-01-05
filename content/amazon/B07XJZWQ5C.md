@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07XJZWQ5C: Ahorra en KASTEWILL Bluetooth Adapter 5.0 Transmit 
- date: 2020-01-03 06:17:16 
+ date: 2020-01-05 06:09:29 
  comments: true 
  tags: B07XJZWQ5C 
  category: ofertas 

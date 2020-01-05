@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B01A7H0RDA: Ahorra en Funko 7232 Agent 13  Marvel Captain Amer 
- date: 2020-01-03 06:08:49 
+ title: B01A7H0RDA: Rebaja en Funko 7232 Agent 13  Marvel Captain Amer en Amazon 
+ date: 2020-01-05 06:03:44 
  comments: true 
  tags: B01A7H0RDA 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [Funko 7232 Agent 13  Marvel Captain America Bobble Head](https://www.amazon.es/dp/B01A7H0RDA/?tag=redken-21) a 4.97 GBP (original: 9.04 GBP) en el siguiente enlace! 
+ Está [Funko 7232 Agent 13  Marvel Captain America Bobble Head](https://www.amazon.es/dp/B01A7H0RDA/?tag=redken-21) por 4.97 GBP (original: 9.13 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/516tuuyjMDL._SL200_.jpg)](https://www.amazon.es/dp/B01A7H0RDA/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B01A7H0RDA/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B01A7H0RDA/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

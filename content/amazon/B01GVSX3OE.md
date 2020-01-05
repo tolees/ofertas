@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B01GVSX3OE: Ahorra en Bungsa® B - Silberner Buchstaben Kristal 
- date: 2020-01-03 06:30:21 
+ date: 2020-01-05 06:17:37 
  comments: true 
  tags: B01GVSX3OE 
  category: ofertas 

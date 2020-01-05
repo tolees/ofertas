@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DX4T6JC: Ofertón en Amazon para find. Shearling Funnel Neck Chaqueta  Be 
- date: 2020-01-03 16:52:43 
+ date: 2020-01-04 23:08:14 
  comments: true 
  tags: B07DX4T6JC, oferta, amazon, chollo, descuento 
  category: ofertas 

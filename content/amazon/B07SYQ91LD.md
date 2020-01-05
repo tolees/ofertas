@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07SYQ91LD: Ofertón en Amazon para Mpow Bluetooth Headset  Bluetooth Earpie 
- date: 2020-01-04 06:01:54 
+ date: 2020-01-05 06:09:34 
  comments: true 
  tags: B07SYQ91LD, oferta, amazon, chollo, descuento 
  category: ofertas 

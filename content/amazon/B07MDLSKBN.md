@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07MDLSKBN: Ahorra en LIGHTAILING Light Set For  Ghostbusters  
- date: 2020-01-03 06:06:57 
+ title: B07MDLSKBN: Ahorra en LIGHTAILING Conjunto de Luces  Ghostbust 
+ date: 2020-01-03 23:15:56 
  comments: true 
  tags: B07MDLSKBN 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [LIGHTAILING Light Set For  Ghostbusters Ecto-1  Building Blocks Model - Led Light kit Compatible With Lego 21108 NOT Included The Model ](https://www.amazon.es/dp/B07MDLSKBN/?tag=redken-21) a 29.99 GBP (original: 60 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Ghostbusters Ecto-1  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21108  NO Incluido en el Modelo ](https://www.amazon.es/dp/B07MDLSKBN/?tag=redken-21) a 34.99 EUR (original: 80 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51nxbOdoRxL._SL200_.jpg)](https://www.amazon.es/dp/B07MDLSKBN/?tag=redken-21) 
  
