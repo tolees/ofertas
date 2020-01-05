@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FNTSDDM: Ofertón en Amazon para LEGO La LEGO Película 2 - Buggy de Huida 
- date: 2020-01-03 18:36:42 
+ date: 2020-01-05 09:01:52 
  comments: true 
  tags: B07FNTSDDM, oferta, amazon, chollo, descuento 
  category: ofertas 
