@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0097BQQOM: Ahorra en BLACK+DECKER MT300KA-QS Multiherramienta 
- date: 2020-01-02 10:46:29 
+ date: 2020-01-05 10:05:00 
  comments: true 
  tags: B0097BQQOM 
  category: ofertas 

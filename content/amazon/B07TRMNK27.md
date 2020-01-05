@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TRMNK27: Ofertón en Amazon para Motorola One Action - Smartphone Dual SI 
- date: 2020-01-03 04:16:12 
+ date: 2020-01-05 11:33:43 
  comments: true 
  tags: B07TRMNK27, oferta, amazon, chollo, descuento 
  category: ofertas 
