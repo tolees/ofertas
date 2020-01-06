@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07PVJ83XK: Ofertón en Amazon para Tronsmart Groove Altavoz Exterior Blueto 
- date: 2019/12/30 23:06:54 +0000 
+ date: 2020-01-06 00:46:45 
  comments: true 
  tags: B07PVJ83XK, oferta, amazon, chollo, descuento 
  category: ofertas 

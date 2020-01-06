@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B0759FTRZL: Rebaja en Intel Core i3-8100 Retail -  1151/Quad C en Amazon 
- date: 2020-01-03 14:04:04 
+ date: 2020-01-05 14:09:55 
  comments: true 
  tags: B0759FTRZL 
  category: ofertas 

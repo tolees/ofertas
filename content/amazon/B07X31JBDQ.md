@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07X31JBDQ: Ofertón en Amazon para Tronsmart T2 Plus Altavoz Bluetooth 20W  
- date: 2020-01-03 22:37:19 
+ date: 2020-01-05 23:02:54 
  comments: true 
  tags: B07X31JBDQ, oferta, amazon, chollo, descuento 
  category: ofertas 

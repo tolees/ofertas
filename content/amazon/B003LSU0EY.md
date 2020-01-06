@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B003LSU0EY: Ofertón en Amazon para Casio EDIFICE Reloj en caja sólida de ac 
- date: 2019/12/28 11:29:49 +0000 
+ date: 2020-01-05 16:24:41 
  comments: true 
  tags: B003LSU0EY, oferta, amazon, chollo, descuento 
  category: ofertas 

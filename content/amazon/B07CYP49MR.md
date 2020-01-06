@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CYP49MR: Ofertón en Amazon para Levi s Graphic Set-in Neck  Camiseta par 
- date: 2020-01-04 14:50:57 
+ date: 2020-01-06 08:07:57 
  comments: true 
  tags: B07CYP49MR, oferta, amazon, chollo, descuento 
  category: ofertas 

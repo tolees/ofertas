@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07YY1QDX4: Rebaja en BRIKSMAX Led Lighting Kit for LEGO STAR  en Amazon 
- date: 2020-01-04 14:20:05 
+ title: B07YY1QDX4: Rebaja en BRIKSMAX Kit de Iluminación Led para Leg en Amazon 
+ date: 2020-01-05 06:30:48 
  comments: true 
  tags: B07YY1QDX4 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Lighting Kit for LEGO STAR WARS VIII First Order Star Destroyer Compatible with LEGO 75190 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B07YY1QDX4/?tag=redken-21) por 34.99 GBP (original: 69.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Kit de Iluminación Led para Lego Star Wars First Order Star Destroyer Compatible con Ladrillos de Construcción Lego Modelo 75190  Juego de Legos no Incluido](https://www.amazon.es/dp/B07YY1QDX4/?tag=redken-21) por 43.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51hbDbtVRTL._SL200_.jpg)](https://www.amazon.es/dp/B07YY1QDX4/?tag=redken-21) 
  

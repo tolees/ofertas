@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00IM7BIY0: Ahorra en Bosch Professional - Set de 32 unidades  
- date: 2020-01-04 09:34:59 
+ date: 2020-01-06 13:19:36 
  comments: true 
  tags: B00IM7BIY0 
  category: ofertas 

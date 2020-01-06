@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B079MV8VYH: Ofertón en Amazon para Playmobil  DreamWorks Spirit DreamWorks  
- date: 2019/12/27 08:57:17 +0000 
+ title: B079MV8VYH: Ofertón en Amazon para Playmobil 9481 Spielzeug-Maricela 
+ date: 2020-01-01 23:07:58 
  comments: true 
  tags: B079MV8VYH, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Playmobil  DreamWorks Spirit DreamWorks Spirit 9481 Maricela by Playmobil  Multicolour](https://www.amazon.es/dp/B079MV8VYH/?tag=redken-21) a precio de oferta de 3.99 GBP (original: 7.68 GBP) en el siguiente enlace! 
+ Tienes [Playmobil 9481 Spielzeug-Maricela](https://www.amazon.es/dp/B079MV8VYH/?tag=redken-21) a precio de oferta de 1.97 EUR (original: 3.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg)](https://www.amazon.es/dp/B079MV8VYH/?tag=redken-21) 
  

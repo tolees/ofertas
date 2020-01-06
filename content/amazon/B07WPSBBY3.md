@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07WPSBBY3: Ahorra en Original Xiaomi MiBand Band 4  Global Ve 
- date: 2020-01-04 16:43:23 
+ date: 2020-01-06 00:45:28 
  comments: true 
  tags: B07WPSBBY3 
  category: ofertas 

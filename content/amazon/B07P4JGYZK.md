@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07P4JGYZK: Ofertón en Amazon para Superdry Classic Lite Micro Pique Polo   
- date: 2020-01-04 11:45:07 
+ date: 2020-01-06 11:42:44 
  comments: true 
  tags: B07P4JGYZK, oferta, amazon, chollo, descuento 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Tienes [Superdry Classic Lite Micro Pique Polo  Blanco  Optic 01c   Medium para Hombre](https://www.amazon.es/dp/B07P4JGYZK/?tag=redken-21) a precio de oferta de 21.44 EUR (original: 49.99 EUR) en el siguiente enlace! 
+ Tienes [Superdry Classic Lite Micro Pique Polo  Blanco  Optic 01c   Medium para Hombre](https://www.amazon.es/dp/B07P4JGYZK/?tag=redken-21) a precio de oferta de 19.34 EUR (original: 49.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/31V5ReoqYwL._SL200_.jpg)](https://www.amazon.es/dp/B07P4JGYZK/?tag=redken-21) 
  

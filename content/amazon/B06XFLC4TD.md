@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B06XFLC4TD: Ahorra en Bosch MUC88B68ES AutoCook - Robot de coc 
- date: 2020-01-04 17:52:31 
+ date: 2020-01-05 18:31:29 
  comments: true 
  tags: B06XFLC4TD 
  category: ofertas 

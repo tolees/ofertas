@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07FKQTL3X: Ofertón en Amazon para adidas 3Mc  Zapatillas de Skateboard Uni 
- date: 2020-01-02 19:42:15 
+ date: 2020-01-06 15:03:35 
  comments: true 
  tags: B07FKQTL3X, oferta, amazon, chollo, descuento 
  category: ofertas 

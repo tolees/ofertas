@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07W21JCNH: Ofertón en Amazon para LIGHTAILING Light Set For  Star Wars Y-W 
- date: 2020-01-04 14:19:06 
+ date: 2020-01-06 14:23:03 
  comments: true 
  tags: B07W21JCNH, oferta, amazon, chollo, descuento 
  category: ofertas 

@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TN4RKPH: Rebaja en Bluetooth V5.0 Headset Wireless Earpiece en Amazon 
- date: 2020-01-04 14:09:44 
+ date: 2020-01-06 14:03:50 
  comments: true 
  tags: B07TN4RKPH 
  category: ofertas 

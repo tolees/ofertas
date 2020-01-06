@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07ZP4NVP5: Rebaja en BANLVS Smartwatch  1.4 Inch Reloj Inteli en Amazon 
- date: 2020-01-02 12:19:22 
+ date: 2020-01-06 17:47:31 
  comments: true 
  tags: B07ZP4NVP5 
  category: ofertas 

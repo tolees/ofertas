@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07VHPWTNX: Ofertón en Amazon para Women s Casual Loose Sleeveless Sundress 
- date: 2020-01-03 06:03:58 
+ date: 2020-01-06 06:04:33 
  comments: true 
  tags: B07VHPWTNX, oferta, amazon, chollo, descuento 
  category: ofertas 

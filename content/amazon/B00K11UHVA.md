@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B00K11UHVA: Ofertón en Amazon para TP-Link TL-WA860RE - Repetidor de red Wi 
- date: 2020-01-05 11:17:39 
+ date: 2020-01-06 16:06:10 
  comments: true 
  tags: B00K11UHVA, oferta, amazon, chollo, descuento 
  category: ofertas 

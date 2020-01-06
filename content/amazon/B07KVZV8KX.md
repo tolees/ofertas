@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KVZV8KX: Ofertón en Amazon para Cámara DV180 16MP Mini vídeo Digital con 
- date: 2020-01-03 06:29:38 
+ date: 2020-01-06 12:37:40 
  comments: true 
  tags: B07KVZV8KX, oferta, amazon, chollo, descuento 
  category: ofertas 

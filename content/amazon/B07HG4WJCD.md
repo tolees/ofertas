@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07HG4WJCD: Ofertón en Amazon para ELEGIANT Palo Selfie Trípode  Selfie Sti 
- date: 2020-01-02 11:41:16 
+ date: 2020-01-05 17:37:31 
  comments: true 
  tags: B07HG4WJCD, oferta, amazon, chollo, descuento 
  category: ofertas 

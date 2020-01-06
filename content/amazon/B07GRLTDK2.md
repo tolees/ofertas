@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07GRLTDK2: Ahorra en Samsung Galaxy Watch - Reloj Inteligente 
- date: 2020-01-04 23:12:39 
+ date: 2020-01-06 12:27:54 
  comments: true 
  tags: B07GRLTDK2 
  category: ofertas 

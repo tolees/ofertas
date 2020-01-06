@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07TYYD4FB: Ofertón en Amazon para TXXCI LED Light Kit Compatible with Lego 
- date: 2020-01-03 22:30:06 
+ date: 2020-01-06 14:23:23 
  comments: true 
  tags: B07TYYD4FB, oferta, amazon, chollo, descuento 
  category: ofertas 

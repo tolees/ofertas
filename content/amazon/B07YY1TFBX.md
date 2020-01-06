@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07YY1TFBX: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Techn 
- date: 2020-01-03 14:26:29 
+ title: B07YY1TFBX: Rebaja en BRIKSMAX Kit de Iluminación Led para Leg en Amazon 
+ date: 2020-01-05 14:38:09 
  comments: true 
  tags: B07YY1TFBX 
  category: ofertas 
@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Technic 4X4 X-treme off-roader Compatible with LEGO 42099 Building Blocks Model- Not Include the Lego Set](https://www.amazon.es/dp/B07YY1TFBX/?tag=redken-21) a 29.99 GBP (original: 59.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Kit de Iluminación Led para Lego Technic Todoterreno Radical 4 x 4 Compatible con Ladrillos de Construcción Lego Modelo 42099  Juego de Legos no Incluido](https://www.amazon.es/dp/B07YY1TFBX/?tag=redken-21) por 34.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg)](https://www.amazon.es/dp/B07YY1TFBX/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.es/dp/B07YY1TFBX/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07YY1TFBX/?tag=redken-21)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

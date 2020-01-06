@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CVSTLF8: Ahorra en XuanPad Mini Proyector Multimedia Vídeo  
- date: 2020-01-04 12:17:09 
+ date: 2020-01-06 11:41:40 
  comments: true 
  tags: B07CVSTLF8 
  category: ofertas 
