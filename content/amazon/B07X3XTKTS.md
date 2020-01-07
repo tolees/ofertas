@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [FROZEN II Jewellery Advent Calendars 2019](https://www.amazon.es/dp/B07X3XTKTS/?tag=redken-21) por 12 GBP (original: 18 GBP) en el siguiente enlace! 
+ Está [FROZEN II Jewellery Advent Calendars 2019](https://www.amazon.com/dp/B07X3XTKTS/?tag=redken08-20) por 12 GBP (original: 18 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/41DqZutYIGL._SL200_.jpg)](https://www.amazon.es/dp/B07X3XTKTS/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41DqZutYIGL._SL200_.jpg)](https://www.amazon.com/dp/B07X3XTKTS/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07X3XTKTS/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B07X3XTKTS/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

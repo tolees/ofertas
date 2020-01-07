@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Bloodstained: Ritual of the night](https://www.amazon.es/dp/B07RHVKRML/?tag=redken-21) por 22.63 EUR (original: 41.01 EUR) en el siguiente enlace! 
+ Está [Bloodstained: Ritual of the night](https://www.amazon.com/dp/B07RHVKRML/?tag=redken08-20) por 22.63 EUR (original: 41.01 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51efBSC2OtL._SL200_.jpg)](https://www.amazon.es/dp/B07RHVKRML/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51efBSC2OtL._SL200_.jpg)](https://www.amazon.com/dp/B07RHVKRML/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07RHVKRML/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B07RHVKRML/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

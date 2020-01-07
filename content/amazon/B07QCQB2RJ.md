@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Funko 41169 POP Vinyl Directors: Jason Blum Collectible Figure  Multicolour](https://www.amazon.es/dp/B07QCQB2RJ/?tag=redken-21) por 4.99 GBP (original: 9.04 GBP) en el siguiente enlace! 
+ Está [Funko 41169 POP Vinyl Directors: Jason Blum Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QCQB2RJ/?tag=redken08-20) por 4.99 GBP (original: 9.04 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/31V5IfsOO1L._SL200_.jpg)](https://www.amazon.es/dp/B07QCQB2RJ/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/31V5IfsOO1L._SL200_.jpg)](https://www.amazon.com/dp/B07QCQB2RJ/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07QCQB2RJ/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B07QCQB2RJ/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

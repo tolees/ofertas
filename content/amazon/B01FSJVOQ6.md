@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Rimmel London Kate Sculpting Palette Paleta de Maquillaje Tono 1 Golden Sands  18 5 g](https://www.amazon.es/dp/B01FSJVOQ6/?tag=redken-21) por 3.4 EUR (original: 7.35 EUR) en el siguiente enlace! 
+ Está [Rimmel London Kate Sculpting Palette Paleta de Maquillaje Tono 1 Golden Sands  18 5 g](https://www.amazon.com/dp/B01FSJVOQ6/?tag=redken08-20) por 3.4 EUR (original: 7.35 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/412ymhRvVrL._SL200_.jpg)](https://www.amazon.es/dp/B01FSJVOQ6/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/412ymhRvVrL._SL200_.jpg)](https://www.amazon.com/dp/B01FSJVOQ6/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B01FSJVOQ6/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B01FSJVOQ6/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [LEGO City 60217 Löschflugzeug der Feuerwehr  Kinderspielzeug](https://www.amazon.es/dp/B07FNS6J8X/?tag=redken-21) por 26.48 EUR (original: 39.99 EUR) en el siguiente enlace! 
+ Está [LEGO City 60217 Löschflugzeug der Feuerwehr  Kinderspielzeug](https://www.amazon.com/dp/B07FNS6J8X/?tag=redken08-20) por 26.48 EUR (original: 39.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51JR%2BYwVqGL._SL200_.jpg)](https://www.amazon.es/dp/B07FNS6J8X/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51JR%2BYwVqGL._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6J8X/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07FNS6J8X/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B07FNS6J8X/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

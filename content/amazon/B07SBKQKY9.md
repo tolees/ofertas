@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [AmazonBasics Cable HDMI 1.4b  182 8 cm  alta velocidad  blanco  1 unidad](https://www.amazon.es/dp/B07SBKQKY9/?tag=redken-21) por 6.99 EUR (original: 13.65 EUR) en el siguiente enlace! 
+ Está [AmazonBasics Cable HDMI 1.4b  182 8 cm  alta velocidad  blanco  1 unidad](https://www.amazon.com/dp/B07SBKQKY9/?tag=redken08-20) por 6.99 EUR (original: 13.65 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/31iAQqbiNlL._SL200_.jpg)](https://www.amazon.es/dp/B07SBKQKY9/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/31iAQqbiNlL._SL200_.jpg)](https://www.amazon.com/dp/B07SBKQKY9/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07SBKQKY9/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B07SBKQKY9/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

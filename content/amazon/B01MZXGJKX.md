@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Pedea GmbH SET012-65065422-0009 - Funda para cámara con protección contra la Lluvia y Protector de Pantalla  L  Color Verde](https://www.amazon.es/dp/B01MZXGJKX/?tag=redken-21) por 15.38 EUR (original: 35.54 EUR) en el siguiente enlace! 
+ Está [Pedea GmbH SET012-65065422-0009 - Funda para cámara con protección contra la Lluvia y Protector de Pantalla  L  Color Verde](https://www.amazon.com/dp/B01MZXGJKX/?tag=redken08-20) por 15.38 EUR (original: 35.54 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51CEVc13iOL._SL200_.jpg)](https://www.amazon.es/dp/B01MZXGJKX/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51CEVc13iOL._SL200_.jpg)](https://www.amazon.com/dp/B01MZXGJKX/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B01MZXGJKX/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B01MZXGJKX/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)

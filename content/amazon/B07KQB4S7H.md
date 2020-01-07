@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [LEGO MOVIE 2 70838 Queen Watevra s Space Palace Set with Mini-Spaceships and 6 Minifigures](https://www.amazon.es/dp/B07KQB4S7H/?tag=redken-21) por 56 GBP (original: 94.99 GBP) en el siguiente enlace! 
+ Está [LEGO MOVIE 2 70838 Queen Watevra s Space Palace Set with Mini-Spaceships and 6 Minifigures](https://www.amazon.com/dp/B07KQB4S7H/?tag=redken08-20) por 56 GBP (original: 94.99 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51I3-8XqdpL._SL200_.jpg)](https://www.amazon.es/dp/B07KQB4S7H/?tag=redken-21) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51I3-8XqdpL._SL200_.jpg)](https://www.amazon.com/dp/B07KQB4S7H/?tag=redken08-20) 
  
- [Ver la oferta!!](https://www.amazon.es/dp/B07KQB4S7H/?tag=redken-21)
+ [Ver la oferta!!](https://www.amazon.com/dp/B07KQB4S7H/?tag=redken08-20)
 
  [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
