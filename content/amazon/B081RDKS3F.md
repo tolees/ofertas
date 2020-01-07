@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B081RDKS3F: Rebaja en BRIKSMAX Kit de Iluminación Led para Leg en Amazon 
- date: 2020-01-05 06:29:20 
+ title: B081RDKS3F: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Te en Amazon 
+ date: 2020-01-07 06:32:59 
  comments: true 
  tags: B081RDKS3F 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [BRIKSMAX Kit de Iluminación Led para Lego Technic Camión de Transporte de Vehículos Compatible con Ladrillos de Construcción Lego Modelo 42098  Juego de Legos no Incluido](https://www.amazon.es/dp/B081RDKS3F/?tag=redken-21) por 99.99 EUR (original: 149.99 EUR) en el siguiente enlace! 
+ Está [BRIKSMAX Led Beleuchtungsset für Lego Technic Autotransporter Kompatibel Mit Lego 42098 Bausteinen Modell - Ohne Lego Set](https://www.amazon.es/dp/B081RDKS3F/?tag=redken-21) por 99.99 EUR (original: 149.99 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51rNEBLy9hL._SL200_.jpg)](https://www.amazon.es/dp/B081RDKS3F/?tag=redken-21) 
  

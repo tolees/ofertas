@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07DFCTKWH: Rebaja en Funko 31938 Pint Sized Heroes Marvel Stu en Amazon 
- date: 2020-01-06 06:02:39 
+ date: 2020-01-07 06:08:02 
  comments: true 
  tags: B07DFCTKWH 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Funko 31938 Pint Sized Heroes Marvel Studios 10: Blindbags 12pc PDQ  CDU 12  Collectible Figure  Multicolour](https://www.amazon.es/dp/B07DFCTKWH/?tag=redken-21) por 3.74 GBP (original: 6.78 GBP) en el siguiente enlace! 
+ Está [Funko 31938 Pint Sized Heroes Marvel Studios 10: Blindbags 12pc PDQ  CDU 12  Collectible Figure  Multicolour](https://www.amazon.es/dp/B07DFCTKWH/?tag=redken-21) por 3.74 GBP (original: 6.87 GBP) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/51YGRGao6vL._SL200_.jpg)](https://www.amazon.es/dp/B07DFCTKWH/?tag=redken-21) 
  

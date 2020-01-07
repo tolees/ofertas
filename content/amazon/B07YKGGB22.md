@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07YKGGB22: Rebaja en Altavoz Bluetooth 30W  VTIN B2 Altavoz B en Amazon 
- date: 2019/12/28 18:15:42 +0000 
+ date: 2020-01-06 18:49:34 
  comments: true 
  tags: B07YKGGB22 
  category: ofertas 

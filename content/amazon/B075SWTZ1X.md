@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B075SWTZ1X: Ofertón en Amazon para BRA Silver- Set sartenes 18 - 22 - 26 cm 
- date: 2020-01-05 19:03:19 
+ date: 2020-01-06 20:59:24 
  comments: true 
  tags: B075SWTZ1X, oferta, amazon, chollo, descuento 
  category: ofertas 

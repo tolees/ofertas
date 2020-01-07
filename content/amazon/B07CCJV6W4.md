@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07CCJV6W4: Ofertón en Amazon para 30 pieza Neodimio Imán 10x3 mm Unidad im 
- date: 2019/12/28 10:56:28 +0000 
+ date: 2020-01-06 18:55:47 
  comments: true 
  tags: B07CCJV6W4, oferta, amazon, chollo, descuento 
  category: ofertas 

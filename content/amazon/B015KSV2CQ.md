@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B015KSV2CQ: Rebaja en NNJXD Vestido de Fiesta de Princesa con  en Amazon 
- date: 2020-01-03 15:09:32 
+ date: 2020-01-06 22:21:28 
  comments: true 
  tags: B015KSV2CQ 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de 3D sin Mangas para Niñas Talla 90  1-1.5 Años Rosa](https://www.amazon.es/dp/B015KSV2CQ/?tag=redken-21) por 15.99 EUR (original: 25.69 EUR) en el siguiente enlace! 
+ Está [NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de 3D sin Mangas para Niñas Talla 90  1-1.5 Años Rosa](https://www.amazon.es/dp/B015KSV2CQ/?tag=redken-21) por 14.39 EUR (original: 25.69 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/418uJAw1ljL._SL200_.jpg)](https://www.amazon.es/dp/B015KSV2CQ/?tag=redken-21) 
  

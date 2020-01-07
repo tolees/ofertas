@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B07KXBXFKR: Ofertón en Amazon para Bronchotos Pediátrico - Jarabe tos seca  
- date: 2019/12/27 09:31:02 +0000 
+ date: 2020-01-06 23:41:04 
  comments: true 
  tags: B07KXBXFKR, oferta, amazon, chollo, descuento 
  category: ofertas 

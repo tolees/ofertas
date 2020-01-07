@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B004RFEH6C: Ofertón en Amazon para Magnet Expert - Imán elevador  50 x 24 x 
- date: 2019/12/28 12:58:34 +0000 
+ date: 2020-01-06 21:15:36 
  comments: true 
  tags: B004RFEH6C, oferta, amazon, chollo, descuento 
  category: ofertas 
