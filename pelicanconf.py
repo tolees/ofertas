@@ -163,7 +163,7 @@ PLUGINS = [
 # 'better_codeblock_line_numbering'
 # 'better_figures_and_images'
 
-THEME = "themes/classilegant"
+THEME = "themes/elegant"
 
 # elegant
 TYPOGRIFY = True
