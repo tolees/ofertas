@@ -1,19 +1,19 @@
---- 
- layout: post 
- title: B079FLNWJY: Ofertón en Amazon para HDMI Switch  Techole Conmutador HDMI Swi 
- date: 2020-01-07 08:54:35 
- comments: true 
- tags: B079FLNWJY, oferta, amazon, chollo, descuento 
- category: ofertas 
- author: ring 
- slug: B079FLNWJY 
- description: 
- --- 
- 
- Tienes [HDMI Switch  Techole Conmutador HDMI Switcher Bidireccional Entrada 2 a 1 Salida o Switch 1 a 2 Salida  Soporta 4K  3D y 1080P para HDTV  BLU-Ray Player  PS3  PS4  DVD  DVR  Xbox  etc](https://www.amazon.com/dp/B079FLNWJY/?tag=redken08-20) a precio de oferta de 12.99 EUR (original: 21.99 EUR) en el siguiente enlace! 
- 
- [![](None._SL200_)](https://www.amazon.com/dp/B079FLNWJY/?tag=redken08-20) 
- 
- [Accede a la oferta!!](https://www.amazon.com/dp/B079FLNWJY/?tag=redken08-20)
+---
+layout: post
+title: 'B079FLNWJY - Ofertón en Amazon para HDMI Switch  Techole Conmutador HDMI Swi'
+date: 2020-01-07 08:54:35
+comments: true
+tags: [ 'B079FLNWJY' ]
+category: ofertas
+author: ring
+slug: B079FLNWJY
+description:
+---
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+Tienes [HDMI Switch  Techole Conmutador HDMI Switcher Bidireccional Entrada 2 a 1 Salida o Switch 1 a 2 Salida  Soporta 4K  3D y 1080P para HDTV  BLU-Ray Player  PS3  PS4  DVD  DVR  Xbox  etc](https://www.amazon.es/dp/B079FLNWJY/?tag=redken-21) a precio de oferta de 12.99 EUR (original: 21.99 EUR) en el siguiente enlace!
+
+[![](None._SL200_)](https://www.amazon.es/dp/B079FLNWJY/?tag=redken-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B079FLNWJY/?tag=redken-21)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

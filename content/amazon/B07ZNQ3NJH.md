@@ -1,19 +1,19 @@
 --- 
  layout: post 
- title: B07ZNQ3NJH: Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO City  
- date: 2020-01-06 14:09:30 
+ title: B07ZNQ3NJH: Rebaja en BRIKSMAX Kit de Iluminación Led para Leg en Amazon 
+ date: 2019/12/21 09:13:12 +0000 
  comments: true 
- tags: B07ZNQ3NJH, oferta, amazon, chollo, descuento 
+ tags: B07ZNQ3NJH 
  category: ofertas 
  author: ring 
  slug: B07ZNQ3NJH 
  description: 
  --- 
  
- Tienes [BRIKSMAX Led Lighting Kit for LEGO City Police Mobile Command Center Compatible with LEGO 60139 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07ZNQ3NJH/?tag=redken08-20) a precio de oferta de 34.99 GBP (original: 89.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Kit de Iluminación Led para Lego City Centro de Control Móvil Compatible con Ladrillos de Construcción Lego Modelo 60139  Juego de Legos no Incluido](https://www.amazon.es/dp/B07ZNQ3NJH/?tag=redken-21) por 41.99 EUR (original: 69.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51Tx4d3nWuL._SL200_.jpg)](https://www.amazon.com/dp/B07ZNQ3NJH/?tag=redken08-20) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51Tx4d3nWuL._SL200_.jpg)](https://www.amazon.es/dp/B07ZNQ3NJH/?tag=redken-21) 
  
- [Accede a la oferta!!](https://www.amazon.com/dp/B07ZNQ3NJH/?tag=redken08-20)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07ZNQ3NJH/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

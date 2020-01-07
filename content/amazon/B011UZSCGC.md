@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-White  40 EU](https://www.amazon.com/dp/B011UZSCGC/?tag=redken08-20) por 47.95 EUR (original: 84.95 EUR) en el siguiente enlace! 
+ Está [PUMA Basket Classic LFS  Zapatillas Unisex Adultos  White-White  40 EU](https://www.amazon.es/dp/B011UZSCGC/?tag=redken-21) por 47.95 EUR (original: 84.95 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/41XO6-ZvBiL._SL200_.jpg)](https://www.amazon.com/dp/B011UZSCGC/?tag=redken08-20) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41XO6-ZvBiL._SL200_.jpg)](https://www.amazon.es/dp/B011UZSCGC/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.com/dp/B011UZSCGC/?tag=redken08-20)
+ [Ver la oferta!!](https://www.amazon.es/dp/B011UZSCGC/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

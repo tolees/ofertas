@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [Samsung Galaxy A9  Single SIM  128GB 6.3 Inch FHD+ Android 8.0 Oreo UK Version SIM-Free Smartphone - Black](https://www.amazon.com/dp/B07JWJQYPJ/?tag=redken08-20) a 289.5 GBP (original: 549 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [Samsung Galaxy A9  Single SIM  128GB 6.3 Inch FHD+ Android 8.0 Oreo UK Version SIM-Free Smartphone - Black](https://www.amazon.es/dp/B07JWJQYPJ/?tag=redken-21) a 289.5 GBP (original: 549 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/31TQXsqwjeL._SL200_.jpg)](https://www.amazon.com/dp/B07JWJQYPJ/?tag=redken08-20) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/31TQXsqwjeL._SL200_.jpg)](https://www.amazon.es/dp/B07JWJQYPJ/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.com/dp/B07JWJQYPJ/?tag=redken08-20)
+ [Visítala!!!](https://www.amazon.es/dp/B07JWJQYPJ/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

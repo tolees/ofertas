@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Amzdeal Softbox 50 x 70 cm Kit de lluminación Ventana de luz para fotográfico  Lluminación Continua Estudio Fotografía - 1x 135W Bombilla+ 1x Softbox + 1x Trípode Montaje Universal + Bolsa de Tela versión](https://www.amazon.com/dp/B01G6S8MFE/?tag=redken08-20) por 33.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
+ Está [Amzdeal Softbox 50 x 70 cm Kit de lluminación Ventana de luz para fotográfico  Lluminación Continua Estudio Fotografía - 1x 135W Bombilla+ 1x Softbox + 1x Trípode Montaje Universal + Bolsa de Tela versión](https://www.amazon.es/dp/B01G6S8MFE/?tag=redken-21) por 33.99 EUR (original: 59.99 EUR) en el siguiente enlace! 
  
- [![](None._SL200_)](https://www.amazon.com/dp/B01G6S8MFE/?tag=redken08-20) 
+ [![](None._SL200_)](https://www.amazon.es/dp/B01G6S8MFE/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.com/dp/B01G6S8MFE/?tag=redken08-20)
+ [Ver la oferta!!](https://www.amazon.es/dp/B01G6S8MFE/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

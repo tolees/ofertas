@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [Bombilla LED Colores  2 Pack   OMERIL RGBW Bombilla LED E27 10W con Control Remoto  Función de Temporización y Memoria  12 RGB Colores  Luz Ambiente Regulable para Hogar  Decoración  Bar  Fiesta  KTV](https://www.amazon.com/dp/B07SRTJKC1/?tag=redken08-20) por 11.18 EUR (original: 21.99 EUR) en el siguiente enlace! 
+ Está [Bombilla LED Colores  2 Pack   OMERIL RGBW Bombilla LED E27 10W con Control Remoto  Función de Temporización y Memoria  12 RGB Colores  Luz Ambiente Regulable para Hogar  Decoración  Bar  Fiesta  KTV](https://www.amazon.es/dp/B07SRTJKC1/?tag=redken-21) por 11.18 EUR (original: 21.99 EUR) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/41-MucjbDdL._SL200_.jpg)](https://www.amazon.com/dp/B07SRTJKC1/?tag=redken08-20) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/41-MucjbDdL._SL200_.jpg)](https://www.amazon.es/dp/B07SRTJKC1/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.com/dp/B07SRTJKC1/?tag=redken08-20)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07SRTJKC1/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

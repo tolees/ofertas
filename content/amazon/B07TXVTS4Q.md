@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Está [BRIKSMAX Led Lighting Kit for LEGO Jurassic World Raptor Rescue Truck - Compatible with Lego 10757 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TXVTS4Q/?tag=redken08-20) por 18.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
+ Está [BRIKSMAX Led Lighting Kit for LEGO Jurassic World Raptor Rescue Truck - Compatible with Lego 10757 Building Blocks Model- Not Include The Lego Set](https://www.amazon.es/dp/B07TXVTS4Q/?tag=redken-21) por 18.99 GBP (original: 99.99 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/51YJ9FkKNVL._SL200_.jpg)](https://www.amazon.com/dp/B07TXVTS4Q/?tag=redken08-20) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/51YJ9FkKNVL._SL200_.jpg)](https://www.amazon.es/dp/B07TXVTS4Q/?tag=redken-21) 
  
- [Ver la oferta!!](https://www.amazon.com/dp/B07TXVTS4Q/?tag=redken08-20)
+ [Ver la oferta!!](https://www.amazon.es/dp/B07TXVTS4Q/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

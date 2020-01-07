@@ -10,10 +10,10 @@
  description: 
  --- 
  
- Ahora mismo tienes [Playmobil 5470 City Action Construction Site Supervisors Vehicle - Yellow](https://www.amazon.com/dp/B00B3QT3PS/?tag=redken08-20) a 20.96 GBP (original: 34.25 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [Playmobil 5470 City Action Construction Site Supervisors Vehicle - Yellow](https://www.amazon.es/dp/B00B3QT3PS/?tag=redken-21) a 20.96 GBP (original: 34.25 GBP) en el siguiente enlace! 
  
- [![](https://images-eu.ssl-images-amazon.com/images/I/61ddmVJx8%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00B3QT3PS/?tag=redken08-20) 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/61ddmVJx8%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00B3QT3PS/?tag=redken-21) 
  
- [Visítala!!!](https://www.amazon.com/dp/B00B3QT3PS/?tag=redken08-20)
+ [Visítala!!!](https://www.amazon.es/dp/B00B3QT3PS/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

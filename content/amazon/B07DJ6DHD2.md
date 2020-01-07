@@ -16,4 +16,4 @@
  
  [Ver la oferta!!](https://www.amazon.es/dp/B07DJ6DHD2/?tag=redken-21)
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/amazonofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
