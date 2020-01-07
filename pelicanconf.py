@@ -6,9 +6,9 @@ import datetime
 ## THINGS TO CONFIGURE
 ## ---------------------------------------------------------------------
 
-AUTHOR = "AmazonOfertas25"
+AUTHOR = "Ofertas25"
 SITENAME = "Ofertas del día en Amazon que te dejarán helado!"
-SITESUBTITLE = "Las ofertas del canal @amazonofertas25 y amigos en Telegram"
+SITESUBTITLE = "Las ofertas del canal @ofertas25 y amigos en Telegram"
 SITEURL = "/"
 DEFAULT_LANG = "es"
 DEFAULT_CATEGORY = "ofertas"
@@ -68,32 +68,32 @@ SOCIAL = ()
 
 # TWITTER_USERNAME = "fillit"
 # Update if you use amazon links
-# AMAZON_ONELINK = "23824450-ef77-4537-9259-8590465886f1"
+AMAZON_ONELINK = "70923797-e15b-4a5a-ae7e-3e5882c9d248"
 
-AMAZON_BESTAZON = """var BestAzon_Configuration = {
-"Amzn_AfiliateID_US": "redken00-20",
-"Amzn_AfiliateID_CA": "redken05-20",
-"Amzn_AfiliateID_GB": "redken01-21",
-"Amzn_AfiliateID_DE": "redken02-21",
-"Amzn_AfiliateID_FR": "redken0c-21",
-"Amzn_AfiliateID_ES": "redken-21",
-"Amzn_AfiliateID_IT": "redken015-21",
-"Amzn_AfiliateID_JP": "",
-"Amzn_AfiliateID_IN": "",
-"Amzn_AfiliateID_CN": "",
-"Amzn_AfiliateID_MX": "",
-"Amzn_AfiliateID_BR": "",
-"Conf_Custom_Class": " BestAzon_Amazon_Link ", //enter if you'll like to add any CSS class to the Amazon links (can be used for styling)
-"Conf_New_Window": "1", //enter "1" if you'll like to open Amazon links in new window (recommended), "2" to force open in the same window, keep blank if you'd use the defaults
-"Conf_Link_Follow": "1", //enter "1" if you'll like to add no-follow to the Amazon links (recommended), "2" to not add no-follow
-"Conf_Product_Link": "1", //enter "1" if you'll like to redirect international visitors to equivalent search page on local Amazon stores (recommended and fast), "2" if you want them to go to equiavalent product page (slow)
-"Conf_Tracking": "1", //enter "1" if you'll like to enable tracking (useful to optimize the service to you), "2" to disable
-"Conf_Footer": "1", //enter "1" to add credit in footer (recommended), "2" to disable
-"Conf_Link_Keywords": "", //enter additional keywords - if any of these keywords is found in any URL on your site, that will be sent to Bestazon for localization (useful if you use short links like bitly to hide your affiliate links). E.g. enter "/amazon/" if all your Amazon links containt the string /amazon/
-"Conf_Hide_Redirect_Link": "1", //enter "1" to not replace your original link with bestazon links (recommended), "2" if you want to replace (not recommended)
-"Conf_Source": "BestAzonScript" //DO NOT CHANGE THIS
-};
-"""
+# AMAZON_BESTAZON = """var BestAzon_Configuration = {
+# "Amzn_AfiliateID_US": "redken00-20",
+# "Amzn_AfiliateID_CA": "redken05-20",
+# "Amzn_AfiliateID_GB": "redken01-21",
+# "Amzn_AfiliateID_DE": "redken02-21",
+# "Amzn_AfiliateID_FR": "redken0c-21",
+# "Amzn_AfiliateID_ES": "redken-21",
+# "Amzn_AfiliateID_IT": "redken015-21",
+# "Amzn_AfiliateID_JP": "",
+# "Amzn_AfiliateID_IN": "",
+# "Amzn_AfiliateID_CN": "",
+# "Amzn_AfiliateID_MX": "",
+# "Amzn_AfiliateID_BR": "",
+# "Conf_Custom_Class": " BestAzon_Amazon_Link ", //enter if you'll like to add any CSS class to the Amazon links (can be used for styling)
+# "Conf_New_Window": "1", //enter "1" if you'll like to open Amazon links in new window (recommended), "2" to force open in the same window, keep blank if you'd use the defaults
+# "Conf_Link_Follow": "1", //enter "1" if you'll like to add no-follow to the Amazon links (recommended), "2" to not add no-follow
+# "Conf_Product_Link": "1", //enter "1" if you'll like to redirect international visitors to equivalent search page on local Amazon stores (recommended and fast), "2" if you want them to go to equiavalent product page (slow)
+# "Conf_Tracking": "1", //enter "1" if you'll like to enable tracking (useful to optimize the service to you), "2" to disable
+# "Conf_Footer": "1", //enter "1" to add credit in footer (recommended), "2" to disable
+# "Conf_Link_Keywords": "", //enter additional keywords - if any of these keywords is found in any URL on your site, that will be sent to Bestazon for localization (useful if you use short links like bitly to hide your affiliate links). E.g. enter "/amazon/" if all your Amazon links containt the string /amazon/
+# "Conf_Hide_Redirect_Link": "1", //enter "1" to not replace your original link with bestazon links (recommended), "2" if you want to replace (not recommended)
+# "Conf_Source": "BestAzonScript" //DO NOT CHANGE THIS
+# };
+# """
 
 # GOOGLE_ANALYTICS tracking ID
 GOOGLE_ANALYTICS = "UA-81705-17"
