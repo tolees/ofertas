@@ -3,7 +3,6 @@ layout: post
 title: 'B00V5LSQYU - Ofertón en Amazon para Kempa Pantalón Deporte Core Modern Gris '
 date: 2020-01-06 08:51:05
 comments: true
-tags: [ 'B00V5LSQYU' ]
 category: ofertas
 author: ring
 slug: B00V5LSQYU

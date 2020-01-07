@@ -3,7 +3,6 @@ layout: post
 title: 'B07RCN9Q4Q - Ofertón en Amazon para Columbia Centennial Creek Chaqueta De Pl'
 date: 2020-01-05 10:43:20
 comments: true
-tags: [ 'B07RCN9Q4Q' ]
 category: ofertas
 author: ring
 slug: B07RCN9Q4Q

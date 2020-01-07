@@ -3,7 +3,6 @@ layout: post
 title: 'B07Q6MPVB5 - Ofertón en Amazon para Simba 6315877627 Disney Frozen 2  Chunky'
 date: 2019/12/25 16:57:09 +0000
 comments: true
-tags: [ 'B07Q6MPVB5' ]
 category: ofertas
 author: ring
 slug: B07Q6MPVB5

@@ -3,7 +3,6 @@ layout: post
 title: 'B00YFSF6QG - Ofertón en Amazon para valcena - crema de noche - Multi Active '
 date: 2020-01-04 10:27:18
 comments: true
-tags: [ 'B00YFSF6QG' ]
 category: ofertas
 author: ring
 slug: B00YFSF6QG

@@ -3,7 +3,6 @@ layout: post
 title: 'B07WLZ2L1H - Ofertón en Amazon para flintronic® Pulsera Hombre  6 Piezas Per'
 date: 2019/12/29 22:02:25 +0000
 comments: true
-tags: [ 'B07WLZ2L1H' ]
 category: ofertas
 author: ring
 slug: B07WLZ2L1H

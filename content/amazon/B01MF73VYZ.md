@@ -3,7 +3,6 @@ layout: post
 title: 'B01MF73VYZ - Ofertón en Amazon para Kayhan Hombre Camisa Mailand  Black  S '
 date: 2019/12/29 10:46:24 +0000
 comments: true
-tags: [ 'B01MF73VYZ' ]
 category: ofertas
 author: ring
 slug: B01MF73VYZ

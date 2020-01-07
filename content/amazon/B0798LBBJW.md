@@ -3,7 +3,6 @@ layout: post
 title: 'B0798LBBJW - Ofertón en Amazon para Sony NW-A45R High Resolution Walkman MP3'
 date: 2019/12/17 14:17:57 +0000
 comments: true
-tags: [ 'B0798LBBJW' ]
 category: ofertas
 author: ring
 slug: B0798LBBJW

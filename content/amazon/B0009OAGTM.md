@@ -3,7 +3,6 @@ layout: post
 title: 'B0009OAGTM - Ofertón en Amazon para Calvin Klein Escape  Agua de perfume par'
 date: 2019/12/25 13:02:06 +0000
 comments: true
-tags: [ 'B0009OAGTM' ]
 category: ofertas
 author: ring
 slug: B0009OAGTM

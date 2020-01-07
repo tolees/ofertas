@@ -3,7 +3,6 @@ layout: post
 title: 'B07S4TYLRN - Ofertón en Amazon para Tennis World Tour - Roland-Garros Editio'
 date: 2019/12/21 19:54:15 +0000
 comments: true
-tags: [ 'B07S4TYLRN' ]
 category: ofertas
 author: ring
 slug: B07S4TYLRN

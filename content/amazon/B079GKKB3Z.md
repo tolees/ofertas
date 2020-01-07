@@ -3,7 +3,6 @@ layout: post
 title: 'B079GKKB3Z - Ofertón en Amazon para Sylvanian Families Town - Grand Departme'
 date: 2020-01-05 22:35:36
 comments: true
-tags: [ 'B079GKKB3Z' ]
 category: ofertas
 author: ring
 slug: B079GKKB3Z

@@ -3,7 +3,6 @@ layout: post
 title: 'B01MSEXEBJ - Ofertón en Amazon para Panasonic Wings RP-BTS10E-W- Auriculares'
 date: 2019/12/26 05:08:17 +0000
 comments: true
-tags: [ 'B01MSEXEBJ' ]
 category: ofertas
 author: ring
 slug: B01MSEXEBJ

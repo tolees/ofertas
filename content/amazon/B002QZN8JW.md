@@ -3,7 +3,6 @@ layout: post
 title: 'B002QZN8JW - Ofertón en Amazon para Optimum Nutrition Suplemento Dietético e'
 date: 2020-01-01 12:27:11
 comments: true
-tags: [ 'B002QZN8JW' ]
 category: ofertas
 author: ring
 slug: B002QZN8JW

@@ -3,7 +3,6 @@ layout: post
 title: 'B07DWB9DXG - Ofertón en Amazon para HOMIEE Oxímetro de Pulso  Pulsioxímetro '
 date: 2020-01-03 18:06:10
 comments: true
-tags: [ 'B07DWB9DXG' ]
 category: ofertas
 author: ring
 slug: B07DWB9DXG

@@ -3,7 +3,6 @@ layout: post
 title: 'B07DYLM63Q - Ofertón en Amazon para TOPELEK Teclado y Raton Inálambrico con '
 date: 2020-01-03 18:10:20
 comments: true
-tags: [ 'B07DYLM63Q' ]
 category: ofertas
 author: ring
 slug: B07DYLM63Q

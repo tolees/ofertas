@@ -3,7 +3,6 @@ layout: post
 title: 'B07RWBTTZV - Ofertón en Amazon para Hasbro Disney Frozen Arendelle Elsa E684'
 date: 2020-01-05 22:29:24
 comments: true
-tags: [ 'B07RWBTTZV' ]
 category: ofertas
 author: ring
 slug: B07RWBTTZV

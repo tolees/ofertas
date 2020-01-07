@@ -3,7 +3,6 @@ layout: post
 title: 'B01N1SOVEW - Ofertón en Amazon para find. Chubasquero Largo con Estampado pa'
 date: 2019/12/24 13:17:44 +0000
 comments: true
-tags: [ 'B01N1SOVEW' ]
 category: ofertas
 author: ring
 slug: B01N1SOVEW

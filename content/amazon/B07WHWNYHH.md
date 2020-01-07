@@ -3,7 +3,6 @@ layout: post
 title: 'B07WHWNYHH - Ofertón en Amazon para Acrylic Display Case for Minifigures Bri'
 date: 2019/12/22 16:30:19 +0000
 comments: true
-tags: [ 'B07WHWNYHH' ]
 category: ofertas
 author: ring
 slug: B07WHWNYHH

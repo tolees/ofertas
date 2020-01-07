@@ -3,7 +3,6 @@ layout: post
 title: 'B01H57PGUE - Ofertón en Amazon para Timewanderer - Guirnalda de luces LED de'
 date: 2020-01-06 16:35:42
 comments: true
-tags: [ 'B01H57PGUE' ]
 category: ofertas
 author: ring
 slug: B01H57PGUE

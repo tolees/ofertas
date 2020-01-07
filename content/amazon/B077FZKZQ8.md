@@ -3,7 +3,6 @@ layout: post
 title: 'B077FZKZQ8 - Ofertón en Amazon para find. AMZ129 Botas Desert  Negro  Black '
 date: 2019/12/20 01:25:44 +0000
 comments: true
-tags: [ 'B077FZKZQ8' ]
 category: ofertas
 author: ring
 slug: B077FZKZQ8

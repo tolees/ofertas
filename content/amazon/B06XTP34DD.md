@@ -3,7 +3,6 @@ layout: post
 title: 'B06XTP34DD - Ofertón en Amazon para LUNA play plus de FOREO es el cepillo fa'
 date: 2019/12/23 09:48:38 +0000
 comments: true
-tags: [ 'B06XTP34DD' ]
 category: ofertas
 author: ring
 slug: B06XTP34DD

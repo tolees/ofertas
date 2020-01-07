@@ -3,7 +3,6 @@ layout: post
 title: 'B07RH2Y1YL - Ofertón en Amazon para G-STAR RAW Revend Skinny Vaqueros  Antic'
 date: 2019/12/28 12:05:17 +0000
 comments: true
-tags: [ 'B07RH2Y1YL' ]
 category: ofertas
 author: ring
 slug: B07RH2Y1YL

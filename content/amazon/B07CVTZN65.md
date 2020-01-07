@@ -3,7 +3,6 @@ layout: post
 title: 'B07CVTZN65 - Ofertón en Amazon para Lámpara Camping LED Linterna de Camping '
 date: 2020-01-01 11:38:25
 comments: true
-tags: [ 'B07CVTZN65' ]
 category: ofertas
 author: ring
 slug: B07CVTZN65

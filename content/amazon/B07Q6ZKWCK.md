@@ -3,7 +3,6 @@ layout: post
 title: 'B07Q6ZKWCK - Ofertón en Amazon para deAO 2-in-1 Puppenhaus Handtasche Traget'
 date: 2020-01-01 22:48:01
 comments: true
-tags: [ 'B07Q6ZKWCK' ]
 category: ofertas
 author: ring
 slug: B07Q6ZKWCK

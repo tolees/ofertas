@@ -3,7 +3,6 @@ layout: post
 title: 'B07FWTKXJM - Ofertón en Amazon para Bosch Professional GSB 18V-21 - Taladro '
 date: 2020-01-07 08:40:30
 comments: true
-tags: [ 'B07FWTKXJM' ]
 category: ofertas
 author: ring
 slug: B07FWTKXJM

@@ -3,7 +3,6 @@ layout: post
 title: 'B01NA6SMTK - Ofertón en Amazon para Pioneer SE-MS7BT-K - Auriculares de Tipo'
 date: 2020-01-04 15:15:21
 comments: true
-tags: [ 'B01NA6SMTK' ]
 category: ofertas
 author: ring
 slug: B01NA6SMTK

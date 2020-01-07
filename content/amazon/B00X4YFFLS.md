@@ -3,7 +3,6 @@ layout: post
 title: 'B00X4YFFLS - Ofertón en Amazon para Guerlain L Homme Ideal agua de colonia V'
 date: 2020-01-01 04:45:18
 comments: true
-tags: [ 'B00X4YFFLS' ]
 category: ofertas
 author: ring
 slug: B00X4YFFLS

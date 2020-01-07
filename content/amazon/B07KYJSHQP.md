@@ -3,7 +3,6 @@ layout: post
 title: 'B07KYJSHQP - Ofertón en Amazon para EASYCEL 60M HDMI Extender Transmitter an'
 date: 2020-01-06 16:16:11
 comments: true
-tags: [ 'B07KYJSHQP' ]
 category: ofertas
 author: ring
 slug: B07KYJSHQP

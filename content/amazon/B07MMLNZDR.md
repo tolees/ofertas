@@ -3,7 +3,6 @@ layout: post
 title: 'B07MMLNZDR - Ofertón en Amazon para Napapijri DROZ Jersey  Azul  French Blue'
 date: 2020-01-03 10:28:50
 comments: true
-tags: [ 'B07MMLNZDR' ]
 category: ofertas
 author: ring
 slug: B07MMLNZDR

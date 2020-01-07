@@ -3,7 +3,6 @@ layout: post
 title: 'B00QM4WKT2 - Ofertón en Amazon para Ravensburger 29841 - 2-in-1 Mandala Desi'
 date: 2020-01-03 22:48:39
 comments: true
-tags: [ 'B00QM4WKT2' ]
 category: ofertas
 author: ring
 slug: B00QM4WKT2

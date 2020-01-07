@@ -3,7 +3,6 @@ layout: post
 title: 'B00FYZ5Q3C - Ofertón en Amazon para Rubie s Official Disney Princess Classic'
 date: 2019/12/23 16:27:50 +0000
 comments: true
-tags: [ 'B00FYZ5Q3C' ]
 category: ofertas
 author: ring
 slug: B00FYZ5Q3C

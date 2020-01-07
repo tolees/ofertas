@@ -3,7 +3,6 @@ layout: post
 title: 'B07TDJ7TF7 - Ofertón en Amazon para JeVx Altavoz Furgoneta Volkswagen T1 Blu'
 date: 2019/12/24 14:08:20 +0000
 comments: true
-tags: [ 'B07TDJ7TF7' ]
 category: ofertas
 author: ring
 slug: B07TDJ7TF7

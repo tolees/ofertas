@@ -3,7 +3,6 @@ layout: post
 title: 'B06XF3CSMD - Ofertón en Amazon para XL-S Medical Xanthigen Quema Calorías Av'
 date: 2019/12/29 10:35:50 +0000
 comments: true
-tags: [ 'B06XF3CSMD' ]
 category: ofertas
 author: ring
 slug: B06XF3CSMD

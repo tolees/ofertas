@@ -3,7 +3,6 @@ layout: post
 title: 'B07JZ5V5LG - Ofertón en Amazon para Cecotec Microondas ProClean 3030. Capaci'
 date: 2020-01-02 18:00:10
 comments: true
-tags: [ 'B07JZ5V5LG' ]
 category: ofertas
 author: ring
 slug: B07JZ5V5LG

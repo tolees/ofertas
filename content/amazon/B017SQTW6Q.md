@@ -3,7 +3,6 @@ layout: post
 title: 'B017SQTW6Q - Ofertón en Amazon para Salomon Speedcross 4 GTX W  Zapatillas d'
 date: 2020-01-04 17:41:48
 comments: true
-tags: [ 'B017SQTW6Q' ]
 category: ofertas
 author: ring
 slug: B017SQTW6Q

@@ -3,7 +3,6 @@ layout: post
 title: 'B014LWP8EA - Ofertón en Amazon para Bosch Professional 2607010903 Hojas de S'
 date: 2020-01-04 21:03:07
 comments: true
-tags: [ 'B014LWP8EA' ]
 category: ofertas
 author: ring
 slug: B014LWP8EA

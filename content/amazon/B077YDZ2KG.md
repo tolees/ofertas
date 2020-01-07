@@ -3,7 +3,6 @@ layout: post
 title: 'B077YDZ2KG - Ofertón en Amazon para HIKARO Chaleco de Plumas con Capucha Hom'
 date: 2019/12/23 12:39:14 +0000
 comments: true
-tags: [ 'B077YDZ2KG' ]
 category: ofertas
 author: ring
 slug: B077YDZ2KG

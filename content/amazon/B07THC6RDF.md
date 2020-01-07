@@ -3,7 +3,6 @@ layout: post
 title: 'B07THC6RDF - Ofertón en Amazon para Horizon - Complete Edition HITS'
 date: 2020-01-01 17:03:10
 comments: true
-tags: [ 'B07THC6RDF' ]
 category: ofertas
 author: ring
 slug: B07THC6RDF

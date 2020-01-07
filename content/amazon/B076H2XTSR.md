@@ -3,7 +3,6 @@ layout: post
 title: 'B076H2XTSR - Ofertón en Amazon para Cargador Inalámbrico  ELEGIANT Cargador '
 date: 2019/12/24 21:31:19 +0000
 comments: true
-tags: [ 'B076H2XTSR' ]
 category: ofertas
 author: ring
 slug: B076H2XTSR

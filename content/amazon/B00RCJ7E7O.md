@@ -3,7 +3,6 @@ layout: post
 title: 'B00RCJ7E7O - Ofertón en Amazon para Crocs Creative Crocs Frozen Fuzz Lined C'
 date: 2020-01-03 22:55:29
 comments: true
-tags: [ 'B00RCJ7E7O' ]
 category: ofertas
 author: ring
 slug: B00RCJ7E7O

@@ -3,7 +3,6 @@ layout: post
 title: 'B07N1JX2FL - Ofertón en Amazon para Clarks Un Maui Lace  Zapatillas para Muj'
 date: 2020-01-06 12:13:04
 comments: true
-tags: [ 'B07N1JX2FL' ]
 category: ofertas
 author: ring
 slug: B07N1JX2FL

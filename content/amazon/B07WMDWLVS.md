@@ -3,7 +3,6 @@ layout: post
 title: 'B07WMDWLVS - Ofertón en Amazon para Mocolo Bolsas de la Compra Reutilizables'
 date: 2019/12/25 13:46:00 +0000
 comments: true
-tags: [ 'B07WMDWLVS' ]
 category: ofertas
 author: ring
 slug: B07WMDWLVS

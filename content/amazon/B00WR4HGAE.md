@@ -3,7 +3,6 @@ layout: post
 title: 'B00WR4HGAE - Ofertón en Amazon para L Oréal Paris 24H Mate  Base Maquillaje '
 date: 2020-01-05 11:04:23
 comments: true
-tags: [ 'B00WR4HGAE' ]
 category: ofertas
 author: ring
 slug: B00WR4HGAE

@@ -3,7 +3,6 @@ layout: post
 title: 'B00Y0UCQV2 - Ofertón en Amazon para Superga 2790-COTROPEW  Zapatillas Mujer '
 date: 2020-01-03 14:24:23
 comments: true
-tags: [ 'B00Y0UCQV2' ]
 category: ofertas
 author: ring
 slug: B00Y0UCQV2

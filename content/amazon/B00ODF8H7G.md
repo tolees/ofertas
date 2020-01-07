@@ -3,7 +3,6 @@ layout: post
 title: 'B00ODF8H7G - Ofertón en Amazon para Whirlpool JT 479 IX Encimera - Microonda'
 date: 2019/12/29 19:18:04 +0000
 comments: true
-tags: [ 'B00ODF8H7G' ]
 category: ofertas
 author: ring
 slug: B00ODF8H7G

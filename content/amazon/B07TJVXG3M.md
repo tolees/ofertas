@@ -3,7 +3,6 @@ layout: post
 title: 'B07TJVXG3M - Ofertón en Amazon para Nioh HITS'
 date: 2020-01-07 11:46:38
 comments: true
-tags: [ 'B07TJVXG3M' ]
 category: ofertas
 author: ring
 slug: B07TJVXG3M

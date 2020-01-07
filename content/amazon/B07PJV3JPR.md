@@ -3,7 +3,6 @@ layout: post
 title: 'B07PJV3JPR - Ofertón en Amazon para Echo Dot  3rd Gen  - Smart speaker with '
 date: 2020-01-02 13:04:01
 comments: true
-tags: [ 'B07PJV3JPR' ]
 category: ofertas
 author: ring
 slug: B07PJV3JPR

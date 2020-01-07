@@ -3,7 +3,6 @@ layout: post
 title: 'B079LCTZV7 - Ofertón en Amazon para Lacoste TH6709  Camiseta para Hombre  Az'
 date: 2020-01-03 18:25:43
 comments: true
-tags: [ 'B079LCTZV7' ]
 category: ofertas
 author: ring
 slug: B079LCTZV7

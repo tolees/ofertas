@@ -3,7 +3,6 @@ layout: post
 title: 'B01M6U9IVN - Ofertón en Amazon para Umbro Loyal Pantalones  Hombre  Negro  L'
 date: 2020-01-03 13:09:14
 comments: true
-tags: [ 'B01M6U9IVN' ]
 category: ofertas
 author: ring
 slug: B01M6U9IVN

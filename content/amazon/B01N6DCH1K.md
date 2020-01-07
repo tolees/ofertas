@@ -3,7 +3,6 @@ layout: post
 title: 'B01N6DCH1K - Ofertón en Amazon para USB C a HDMI Adaptador  CHOETECH Adaptad'
 date: 2020-01-06 10:21:37
 comments: true
-tags: [ 'B01N6DCH1K' ]
 category: ofertas
 author: ring
 slug: B01N6DCH1K

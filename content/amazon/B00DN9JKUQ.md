@@ -3,7 +3,6 @@ layout: post
 title: 'B00DN9JKUQ - Ofertón en Amazon para Meritene Meritene Junior Batido Chocolat'
 date: 2020-01-03 09:48:52
 comments: true
-tags: [ 'B00DN9JKUQ' ]
 category: ofertas
 author: ring
 slug: B00DN9JKUQ

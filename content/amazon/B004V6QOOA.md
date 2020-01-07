@@ -3,7 +3,6 @@ layout: post
 title: 'B004V6QOOA - Ofertón en Amazon para Saica Hinchable  Azul'
 date: 2019/12/28 20:15:02 +0000
 comments: true
-tags: [ 'B004V6QOOA' ]
 category: ofertas
 author: ring
 slug: B004V6QOOA

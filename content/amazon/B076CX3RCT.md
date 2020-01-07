@@ -3,7 +3,6 @@ layout: post
 title: 'B076CX3RCT - Ofertón en Amazon para Panasonic ES-CV51-S803 Afeitadora Premiu'
 date: 2019/12/19 15:15:03 +0000
 comments: true
-tags: [ 'B076CX3RCT' ]
 category: ofertas
 author: ring
 slug: B076CX3RCT

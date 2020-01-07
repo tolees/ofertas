@@ -3,7 +3,6 @@ layout: post
 title: 'B06XGSBK3P - Ofertón en Amazon para find. Pantalón Cargo Hombre  Beige  W32/'
 date: 2019/12/22 16:13:01 +0000
 comments: true
-tags: [ 'B06XGSBK3P' ]
 category: ofertas
 author: ring
 slug: B06XGSBK3P

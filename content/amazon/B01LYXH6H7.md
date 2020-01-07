@@ -3,7 +3,6 @@ layout: post
 title: 'B01LYXH6H7 - Ofertón en Amazon para Official Disney Frozen Create Your Own B'
 date: 2019/12/29 08:32:48 +0000
 comments: true
-tags: [ 'B01LYXH6H7' ]
 category: ofertas
 author: ring
 slug: B01LYXH6H7

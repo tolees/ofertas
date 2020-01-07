@@ -3,7 +3,6 @@ layout: post
 title: 'B009SANMNU - Ofertón en Amazon para Halloween Man 125 ml'
 date: 2020-01-03 20:35:41
 comments: true
-tags: [ 'B009SANMNU' ]
 category: ofertas
 author: ring
 slug: B009SANMNU

@@ -3,7 +3,6 @@ layout: post
 title: 'B07HBCCGY8 - Ofertón en Amazon para Apple iPhone XS  64GB  - Space Grau'
 date: 2020-01-05 08:45:46
 comments: true
-tags: [ 'B07HBCCGY8' ]
 category: ofertas
 author: ring
 slug: B07HBCCGY8

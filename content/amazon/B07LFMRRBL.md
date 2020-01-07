@@ -3,7 +3,6 @@ layout: post
 title: 'B07LFMRRBL - Ofertón en Amazon para Levi s LS Baby tee Camiseta  Gris  Smoke'
 date: 2020-01-04 15:55:00
 comments: true
-tags: [ 'B07LFMRRBL' ]
 category: ofertas
 author: ring
 slug: B07LFMRRBL

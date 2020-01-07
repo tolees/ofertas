@@ -3,7 +3,6 @@ layout: post
 title: 'B07M8L2FKP - Ofertón en Amazon para Lee Chino Corduroy Pantalones  Azul  Dar'
 date: 2020-01-05 09:45:13
 comments: true
-tags: [ 'B07M8L2FKP' ]
 category: ofertas
 author: ring
 slug: B07M8L2FKP

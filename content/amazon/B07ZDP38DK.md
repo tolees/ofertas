@@ -3,7 +3,6 @@ layout: post
 title: 'B07ZDP38DK - Ofertón en Amazon para Hieha Calentador de Manos  Hieha 5200mAh'
 date: 2019/12/27 20:16:35 +0000
 comments: true
-tags: [ 'B07ZDP38DK' ]
 category: ofertas
 author: ring
 slug: B07ZDP38DK

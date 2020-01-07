@@ -3,7 +3,6 @@ layout: post
 title: 'B07DRK7CGM - Ofertón en Amazon para FM London Paquete de 5 camisetas Hombre '
 date: 2019/12/17 09:38:42 +0000
 comments: true
-tags: [ 'B07DRK7CGM' ]
 category: ofertas
 author: ring
 slug: B07DRK7CGM

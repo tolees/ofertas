@@ -3,7 +3,6 @@ layout: post
 title: 'B07FNT38FV - Ofertón en Amazon para AmazonBasics Mochila para todos los días'
 date: 2020-01-07 08:46:46
 comments: true
-tags: [ 'B07FNT38FV' ]
 category: ofertas
 author: ring
 slug: B07FNT38FV

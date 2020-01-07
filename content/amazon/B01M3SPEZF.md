@@ -3,7 +3,6 @@ layout: post
 title: 'B01M3SPEZF - Ofertón en Amazon para Einhell Kit con Cargador y batería de re'
 date: 2020-01-04 19:48:07
 comments: true
-tags: [ 'B01M3SPEZF' ]
 category: ofertas
 author: ring
 slug: B01M3SPEZF

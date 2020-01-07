@@ -3,7 +3,6 @@ layout: post
 title: 'B00IZAALM4 - Ofertón en Amazon para STANLEY FATMAX FMC761M2-QW - Amoladora 1'
 date: 2019/12/18 09:16:06 +0000
 comments: true
-tags: [ 'B00IZAALM4' ]
 category: ofertas
 author: ring
 slug: B00IZAALM4

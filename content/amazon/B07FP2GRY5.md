@@ -3,7 +3,6 @@ layout: post
 title: 'B07FP2GRY5 - Ofertón en Amazon para LEGO Creator 31092 - Hubschrauber - Aben'
 date: 2019-12-31 17:55:38
 comments: true
-tags: [ 'B07FP2GRY5' ]
 category: ofertas
 author: ring
 slug: B07FP2GRY5

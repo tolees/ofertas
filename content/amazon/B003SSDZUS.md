@@ -3,7 +3,6 @@ layout: post
 title: 'B003SSDZUS - Ofertón en Amazon para Sylvanian Families Country Kitchen Set'
 date: 2020-01-05 22:35:50
 comments: true
-tags: [ 'B003SSDZUS' ]
 category: ofertas
 author: ring
 slug: B003SSDZUS

@@ -3,7 +3,6 @@ layout: post
 title: 'B07SXD1HC9 - Ofertón en Amazon para s.Oliver Jungen 61.908.31.8710 Langarmsh'
 date: 2019/12/17 07:16:58 +0000
 comments: true
-tags: [ 'B07SXD1HC9' ]
 category: ofertas
 author: ring
 slug: B07SXD1HC9

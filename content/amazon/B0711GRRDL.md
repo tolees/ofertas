@@ -3,7 +3,6 @@ layout: post
 title: 'B0711GRRDL - Ofertón en Amazon para Philips SHB3075RD - Auriculares Inalambr'
 date: 2019-12-31 17:39:21
 comments: true
-tags: [ 'B0711GRRDL' ]
 category: ofertas
 author: ring
 slug: B0711GRRDL

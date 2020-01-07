@@ -3,7 +3,6 @@ layout: post
 title: 'B07SBFJY6T - Ofertón en Amazon para adidas Country X Kamanda  Zapatillas de '
 date: 2019/12/17 19:30:29 +0000
 comments: true
-tags: [ 'B07SBFJY6T' ]
 category: ofertas
 author: ring
 slug: B07SBFJY6T

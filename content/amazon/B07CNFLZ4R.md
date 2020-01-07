@@ -3,7 +3,6 @@ layout: post
 title: 'B07CNFLZ4R - Ofertón en Amazon para Diesel UMLT-JAKE  Camiseta para Hombre  '
 date: 2019/12/19 10:40:23 +0000
 comments: true
-tags: [ 'B07CNFLZ4R' ]
 category: ofertas
 author: ring
 slug: B07CNFLZ4R

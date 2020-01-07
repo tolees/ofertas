@@ -3,7 +3,6 @@ layout: post
 title: 'B0009OAHBY - Ofertón en Amazon para Davidoff Cool Water Eau de Toilette Vapo'
 date: 2019/12/21 06:28:42 +0000
 comments: true
-tags: [ 'B0009OAHBY' ]
 category: ofertas
 author: ring
 slug: B0009OAHBY

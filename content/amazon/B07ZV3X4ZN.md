@@ -3,7 +3,6 @@ layout: post
 title: 'B07ZV3X4ZN - Ofertón en Amazon para DADYPET Juguetes para Gatos interactivos'
 date: 2019/12/31 12:35:09 +0000
 comments: true
-tags: [ 'B07ZV3X4ZN' ]
 category: ofertas
 author: ring
 slug: B07ZV3X4ZN

@@ -3,7 +3,6 @@ layout: post
 title: 'B071SKF7WT - Ofertón en Amazon para Zuru Mayka Toy Block Tape  2 metre Assor'
 date: 2020-01-05 22:14:07
 comments: true
-tags: [ 'B071SKF7WT' ]
 category: ofertas
 author: ring
 slug: B071SKF7WT

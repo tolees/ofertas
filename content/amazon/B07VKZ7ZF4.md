@@ -3,7 +3,6 @@ layout: post
 title: 'B07VKZ7ZF4 - Ofertón en Amazon para OBEEII Disfraz Rapunzel Niña Carnaval Ve'
 date: 2020-01-02 22:36:50
 comments: true
-tags: [ 'B07VKZ7ZF4' ]
 category: ofertas
 author: ring
 slug: B07VKZ7ZF4

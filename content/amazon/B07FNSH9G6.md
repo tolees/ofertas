@@ -3,7 +3,6 @@ layout: post
 title: 'B07FNSH9G6 - Ofertón en Amazon para LEGO NINJAGO 70667 - Kais Feuer-Bike & Z'
 date: 2019/12/30 21:45:02 +0000
 comments: true
-tags: [ 'B07FNSH9G6' ]
 category: ofertas
 author: ring
 slug: B07FNSH9G6

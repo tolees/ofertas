@@ -3,7 +3,6 @@ layout: post
 title: 'B06XKVNRSM - Ofertón en Amazon para AMD Ryzen 5 1500X Desktop CPU-AM4 Quad C'
 date: 2020-01-05 11:28:29
 comments: true
-tags: [ 'B06XKVNRSM' ]
 category: ofertas
 author: ring
 slug: B06XKVNRSM

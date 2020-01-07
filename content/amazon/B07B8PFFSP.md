@@ -3,7 +3,6 @@ layout: post
 title: 'B07B8PFFSP - Ofertón en Amazon para LEGO Star Wars Minifigur 4-Lom mit 2 GAL'
 date: 2020-01-05 14:20:58
 comments: true
-tags: [ 'B07B8PFFSP' ]
 category: ofertas
 author: ring
 slug: B07B8PFFSP

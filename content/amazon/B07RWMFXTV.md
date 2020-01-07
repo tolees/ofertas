@@ -3,7 +3,6 @@ layout: post
 title: 'B07RWMFXTV - Ofertón en Amazon para AiRunTech Cintura Fanny Pack Riñoneras D'
 date: 2020-01-06 22:55:59
 comments: true
-tags: [ 'B07RWMFXTV' ]
 category: ofertas
 author: ring
 slug: B07RWMFXTV

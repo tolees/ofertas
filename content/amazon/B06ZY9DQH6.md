@@ -3,7 +3,6 @@ layout: post
 title: 'B06ZY9DQH6 - Ofertón en Amazon para ZENBRE Altavoz Bluetooth  Z4 Parlante Es'
 date: 2019-12-31 17:17:35
 comments: true
-tags: [ 'B06ZY9DQH6' ]
 category: ofertas
 author: ring
 slug: B06ZY9DQH6

@@ -3,7 +3,6 @@ layout: post
 title: 'B073SCHNSY - Ofertón en Amazon para find. Sudadera para Hombre  Azul  Mariti'
 date: 2020-01-05 11:13:01
 comments: true
-tags: [ 'B073SCHNSY' ]
 category: ofertas
 author: ring
 slug: B073SCHNSY

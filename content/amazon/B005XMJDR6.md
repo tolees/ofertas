@@ -3,7 +3,6 @@ layout: post
 title: 'B005XMJDR6 - Ofertón en Amazon para DIM Generous Invisible Sujetador  Blanco'
 date: 2019/12/24 08:06:38 +0000
 comments: true
-tags: [ 'B005XMJDR6' ]
 category: ofertas
 author: ring
 slug: B005XMJDR6

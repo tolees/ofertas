@@ -3,7 +3,6 @@ layout: post
 title: 'B074FY7NWS - Ofertón en Amazon para Star Wars HQ2026 Pijama de una Pieza  Ni'
 date: 2019/12/24 14:12:25 +0000
 comments: true
-tags: [ 'B074FY7NWS' ]
 category: ofertas
 author: ring
 slug: B074FY7NWS

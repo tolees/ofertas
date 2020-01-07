@@ -3,7 +3,6 @@ layout: post
 title: 'B07M8LKTM5 - Ofertón en Amazon para Wrangler SS Logo tee Camiseta  Azul  Nav'
 date: 2020-01-05 18:40:50
 comments: true
-tags: [ 'B07M8LKTM5' ]
 category: ofertas
 author: ring
 slug: B07M8LKTM5

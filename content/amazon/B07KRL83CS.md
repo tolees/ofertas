@@ -3,7 +3,6 @@ layout: post
 title: 'B07KRL83CS - Ofertón en Amazon para New Balance 574v2  Zapatillas para Mujer'
 date: 2020-01-05 09:05:16
 comments: true
-tags: [ 'B07KRL83CS' ]
 category: ofertas
 author: ring
 slug: B07KRL83CS

@@ -3,7 +3,6 @@ layout: post
 title: 'B0009OAGWY - Ofertón en Amazon para Giorgio Beverly Hills Yellow Agua de toi'
 date: 2019/12/29 10:35:50 +0000
 comments: true
-tags: [ 'B0009OAGWY' ]
 category: ofertas
 author: ring
 slug: B0009OAGWY

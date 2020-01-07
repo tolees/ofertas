@@ -3,7 +3,6 @@ layout: post
 title: 'B07SBKQKY9 - Ofertón en Amazon para AmazonBasics Cable HDMI 1.4b  182 8 cm  '
 date: 2020-01-06 16:05:25
 comments: true
-tags: [ 'B07SBKQKY9' ]
 category: ofertas
 author: ring
 slug: B07SBKQKY9

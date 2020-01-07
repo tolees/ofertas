@@ -3,7 +3,6 @@ layout: post
 title: 'B07F6DSX2J - Ofertón en Amazon para Baja tu Colesterol | Reduce los niveles '
 date: 2020-01-04 06:04:20
 comments: true
-tags: [ 'B07F6DSX2J' ]
 category: ofertas
 author: ring
 slug: B07F6DSX2J

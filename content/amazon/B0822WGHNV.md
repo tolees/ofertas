@@ -3,7 +3,6 @@ layout: post
 title: 'B0822WGHNV - Ofertón en Amazon para OwlFay Disfraz Elsa Frozen Niñas Princes'
 date: 2020-01-05 14:31:20
 comments: true
-tags: [ 'B0822WGHNV' ]
 category: ofertas
 author: ring
 slug: B0822WGHNV

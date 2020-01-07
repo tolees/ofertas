@@ -3,7 +3,6 @@ layout: post
 title: 'B07NDL73KD - Ofertón en Amazon para G-STAR RAW Graphic 22 Optic Slim Round N'
 date: 2020-01-03 20:03:58
 comments: true
-tags: [ 'B07NDL73KD' ]
 category: ofertas
 author: ring
 slug: B07NDL73KD

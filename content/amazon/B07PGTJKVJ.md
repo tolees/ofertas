@@ -3,7 +3,6 @@ layout: post
 title: 'B07PGTJKVJ - Ofertón en Amazon para YGJT Juguete de Niño 1 año Niña Niño Jug'
 date: 2019/12/29 10:38:07 +0000
 comments: true
-tags: [ 'B07PGTJKVJ' ]
 category: ofertas
 author: ring
 slug: B07PGTJKVJ

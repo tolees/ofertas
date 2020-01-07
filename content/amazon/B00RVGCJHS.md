@@ -3,7 +3,6 @@ layout: post
 title: 'B00RVGCJHS - Ofertón en Amazon para TenGO RT3067BT - Mando de juegos Bluetoo'
 date: 2019/12/21 17:41:43 +0000
 comments: true
-tags: [ 'B00RVGCJHS' ]
 category: ofertas
 author: ring
 slug: B00RVGCJHS

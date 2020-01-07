@@ -3,7 +3,6 @@ layout: post
 title: 'B00MFQPPP2 - Ofertón en Amazon para Tectonic - Reloj Analógico de Cuarzo uni'
 date: 2020-01-06 01:32:51
 comments: true
-tags: [ 'B00MFQPPP2' ]
 category: ofertas
 author: ring
 slug: B00MFQPPP2

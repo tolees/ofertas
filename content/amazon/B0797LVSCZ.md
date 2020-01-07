@@ -3,7 +3,6 @@ layout: post
 title: 'B0797LVSCZ - Ofertón en Amazon para Puma LIGA Sideline Poly Core  Chaqueta d'
 date: 2019/12/19 14:39:28 +0000
 comments: true
-tags: [ 'B0797LVSCZ' ]
 category: ofertas
 author: ring
 slug: B0797LVSCZ

@@ -3,7 +3,6 @@ layout: post
 title: 'B07NDQ2MLJ - Ofertón en Amazon para G-STAR RAW CPO Slim Camisa Vaquera  Mult'
 date: 2020-01-02 18:59:51
 comments: true
-tags: [ 'B07NDQ2MLJ' ]
 category: ofertas
 author: ring
 slug: B07NDQ2MLJ

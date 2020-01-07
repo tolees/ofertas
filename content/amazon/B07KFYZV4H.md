@@ -3,7 +3,6 @@ layout: post
 title: 'B07KFYZV4H - Ofertón en Amazon para PUMA Storm Pulse  Zapatillas Unisex Adul'
 date: 2020-01-05 15:42:56
 comments: true
-tags: [ 'B07KFYZV4H' ]
 category: ofertas
 author: ring
 slug: B07KFYZV4H

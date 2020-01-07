@@ -3,7 +3,6 @@ layout: post
 title: 'B07PQJ57BS - Ofertón en Amazon para TACKLIFE Sierra Circular  1500W  2 Cuchi'
 date: 2019/12/17 04:16:16 +0000
 comments: true
-tags: [ 'B07PQJ57BS' ]
 category: ofertas
 author: ring
 slug: B07PQJ57BS

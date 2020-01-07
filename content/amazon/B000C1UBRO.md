@@ -3,7 +3,6 @@ layout: post
 title: 'B000C1UBRO - Ofertón en Amazon para Calvin Klein Eternity Moment - Agua de p'
 date: 2019/12/24 17:11:35 +0000
 comments: true
-tags: [ 'B000C1UBRO' ]
 category: ofertas
 author: ring
 slug: B000C1UBRO

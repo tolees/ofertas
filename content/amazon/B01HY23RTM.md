@@ -3,7 +3,6 @@ layout: post
 title: 'B01HY23RTM - Ofertón en Amazon para Lee Rider Jeans Vaqueros  Black Rinse Yc'
 date: 2020-01-04 08:44:33
 comments: true
-tags: [ 'B01HY23RTM' ]
 category: ofertas
 author: ring
 slug: B01HY23RTM

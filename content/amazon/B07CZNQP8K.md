@@ -3,7 +3,6 @@ layout: post
 title: 'B07CZNQP8K - Ofertón en Amazon para APEX Construct'
 date: 2019/12/31 12:15:06 +0000
 comments: true
-tags: [ 'B07CZNQP8K' ]
 category: ofertas
 author: ring
 slug: B07CZNQP8K

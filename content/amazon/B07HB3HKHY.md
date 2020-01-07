@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B07HB3HKHY: Ahorra en Funko 36342 POP Captain Marvel-Vers Coll 
- date: 2019-12-31 22:07:07 
+ title: B07HB3HKHY: Ahorra en Pop! Captain Marvel - Figura de Vinilo V 
+ date: 2019/12/16 21:11:24 +0000 
  comments: true 
  tags: B07HB3HKHY 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Funko 36342 POP Captain Marvel-Vers Collectible Figure  Multicolor](https://www.amazon.es/dp/B07HB3HKHY/?tag=redken-21) a 6 GBP (original: 9.17 GBP) en el siguiente enlace! 
+ Ahora mismo tienes [Pop! Captain Marvel - Figura de Vinilo Vers](https://www.amazon.es/dp/B07HB3HKHY/?tag=redken-21) a 8.75 EUR (original: 15.95 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41N%2B%2BICSnrL._SL200_.jpg)](https://www.amazon.es/dp/B07HB3HKHY/?tag=redken-21) 
  

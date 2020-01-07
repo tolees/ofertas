@@ -3,7 +3,6 @@ layout: post
 title: 'B07MV9SYCV - Ofertón en Amazon para Kipling - Amiel  Bolsos maletín Mujer  N'
 date: 2020-01-05 15:11:52
 comments: true
-tags: [ 'B07MV9SYCV' ]
 category: ofertas
 author: ring
 slug: B07MV9SYCV

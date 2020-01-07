@@ -3,7 +3,6 @@ layout: post
 title: 'B07RM9TZT8 - Ofertón en Amazon para JACK & JONES Jjitim Jjoriginal Am 814 Va'
 date: 2020-01-02 10:51:44
 comments: true
-tags: [ 'B07RM9TZT8' ]
 category: ofertas
 author: ring
 slug: B07RM9TZT8

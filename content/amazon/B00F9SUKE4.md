@@ -3,7 +3,6 @@ layout: post
 title: 'B00F9SUKE4 - Ofertón en Amazon para Russell Hobbs SteamGlide Professional 20'
 date: 2019/12/29 10:14:20 +0000
 comments: true
-tags: [ 'B00F9SUKE4' ]
 category: ofertas
 author: ring
 slug: B00F9SUKE4

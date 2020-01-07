@@ -3,7 +3,6 @@ layout: post
 title: 'B01EBO9MKE - Ofertón en Amazon para Dickies - Sudadera con Capucha de Alta V'
 date: 2019/12/25 12:16:04 +0000
 comments: true
-tags: [ 'B01EBO9MKE' ]
 category: ofertas
 author: ring
 slug: B01EBO9MKE

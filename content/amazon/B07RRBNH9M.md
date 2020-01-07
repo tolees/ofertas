@@ -3,7 +3,6 @@ layout: post
 title: 'B07RRBNH9M - Ofertón en Amazon para Oral-B Genius 10000N - Cepillo Eléctrico'
 date: 2019/12/18 06:25:28 +0000
 comments: true
-tags: [ 'B07RRBNH9M' ]
 category: ofertas
 author: ring
 slug: B07RRBNH9M

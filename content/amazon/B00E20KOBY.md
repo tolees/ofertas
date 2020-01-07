@@ -3,7 +3,6 @@ layout: post
 title: 'B00E20KOBY - Ofertón en Amazon para Vogel s BASE 05 L  Ultra fuerte soporte '
 date: 2019/12/17 20:16:25 +0000
 comments: true
-tags: [ 'B00E20KOBY' ]
 category: ofertas
 author: ring
 slug: B00E20KOBY

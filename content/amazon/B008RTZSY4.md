@@ -3,7 +3,6 @@ layout: post
 title: 'B008RTZSY4 - Ofertón en Amazon para Tipp-Ex Shake n Squeeze Corrector Líquid'
 date: 2020-01-05 23:45:11
 comments: true
-tags: [ 'B008RTZSY4' ]
 category: ofertas
 author: ring
 slug: B008RTZSY4

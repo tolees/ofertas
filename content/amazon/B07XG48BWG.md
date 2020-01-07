@@ -3,7 +3,6 @@ layout: post
 title: 'B07XG48BWG - Ofertón en Amazon para edc by Esprit 109cc1k023 Camisa Manga La'
 date: 2020-01-01 21:26:53
 comments: true
-tags: [ 'B07XG48BWG' ]
 category: ofertas
 author: ring
 slug: B07XG48BWG

@@ -3,7 +3,6 @@ layout: post
 title: 'B06XHDDFJ4 - Ofertón en Amazon para Helly Hansen VERGLAS Down Insulator - Ch'
 date: 2019/12/26 14:07:04 +0000
 comments: true
-tags: [ 'B06XHDDFJ4' ]
 category: ofertas
 author: ring
 slug: B06XHDDFJ4

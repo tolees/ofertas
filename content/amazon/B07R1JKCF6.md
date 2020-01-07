@@ -3,7 +3,6 @@ layout: post
 title: 'B07R1JKCF6 - Ofertón en Amazon para Bolso de Fiesta Pequeña Elegante Noche D'
 date: 2019/12/30 13:29:41 +0000
 comments: true
-tags: [ 'B07R1JKCF6' ]
 category: ofertas
 author: ring
 slug: B07R1JKCF6

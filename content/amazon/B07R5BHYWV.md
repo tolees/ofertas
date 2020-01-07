@@ -3,7 +3,6 @@ layout: post
 title: 'B07R5BHYWV - Ofertón en Amazon para Toki'
 date: 2020-01-05 09:06:49
 comments: true
-tags: [ 'B07R5BHYWV' ]
 category: ofertas
 author: ring
 slug: B07R5BHYWV

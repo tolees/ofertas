@@ -3,7 +3,6 @@ layout: post
 title: 'B07MS91TRQ - Ofertón en Amazon para Sony WI-C600N - Auriculares Neckband ina'
 date: 2020-01-05 13:10:35
 comments: true
-tags: [ 'B07MS91TRQ' ]
 category: ofertas
 author: ring
 slug: B07MS91TRQ

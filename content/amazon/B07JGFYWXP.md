@@ -3,7 +3,6 @@ layout: post
 title: 'B07JGFYWXP - Ofertón en Amazon para Crocs Crocband Rain Boot Kids  Botas de '
 date: 2020-01-03 23:35:45
 comments: true
-tags: [ 'B07JGFYWXP' ]
 category: ofertas
 author: ring
 slug: B07JGFYWXP

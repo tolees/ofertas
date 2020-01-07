@@ -3,7 +3,6 @@ layout: post
 title: 'B00TWFTVRW - Ofertón en Amazon para fischertechnik Kugelbahn Dynamic M mit K'
 date: 2020-01-01 22:57:53
 comments: true
-tags: [ 'B00TWFTVRW' ]
 category: ofertas
 author: ring
 slug: B00TWFTVRW

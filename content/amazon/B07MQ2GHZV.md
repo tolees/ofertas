@@ -3,7 +3,6 @@ layout: post
 title: 'B07MQ2GHZV - Ofertón en Amazon para Clarks Un Costa Lace  Zapatos de Cordone'
 date: 2019/12/21 17:41:43 +0000
 comments: true
-tags: [ 'B07MQ2GHZV' ]
 category: ofertas
 author: ring
 slug: B07MQ2GHZV

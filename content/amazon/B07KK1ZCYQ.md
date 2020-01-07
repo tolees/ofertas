@@ -3,7 +3,6 @@ layout: post
 title: 'B07KK1ZCYQ - Ofertón en Amazon para Safety 1st BOLID  Warm Gray  - Andador  '
 date: 2020-01-06 13:27:56
 comments: true
-tags: [ 'B07KK1ZCYQ' ]
 category: ofertas
 author: ring
 slug: B07KK1ZCYQ

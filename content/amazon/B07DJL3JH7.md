@@ -3,7 +3,6 @@ layout: post
 title: 'B07DJL3JH7 - Ofertón en Amazon para Jabra Elite 65t - Auriculares inalámbric'
 date: 2019/12/25 10:51:08 +0000
 comments: true
-tags: [ 'B07DJL3JH7' ]
 category: ofertas
 author: ring
 slug: B07DJL3JH7

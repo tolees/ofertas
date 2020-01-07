@@ -3,7 +3,6 @@ layout: post
 title: 'B002WGHYKY - Ofertón en Amazon para Superga 2750 COTU Classic  Zapatillas Un'
 date: 2019/12/27 19:23:35 +0000
 comments: true
-tags: [ 'B002WGHYKY' ]
 category: ofertas
 author: ring
 slug: B002WGHYKY

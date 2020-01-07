@@ -3,7 +3,6 @@ layout: post
 title: 'B00PIVVV5Y - Ofertón en Amazon para HOMCOM Árbol de Navidad 120cm Artificial'
 date: 2019/12/17 00:25:36 +0000
 comments: true
-tags: [ 'B00PIVVV5Y' ]
 category: ofertas
 author: ring
 slug: B00PIVVV5Y

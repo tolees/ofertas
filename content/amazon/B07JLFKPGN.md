@@ -3,7 +3,6 @@ layout: post
 title: 'B07JLFKPGN - Ofertón en Amazon para Playmobil 70067 City Action Porsche 911 '
 date: 2020-01-03 23:07:07
 comments: true
-tags: [ 'B07JLFKPGN' ]
 category: ofertas
 author: ring
 slug: B07JLFKPGN

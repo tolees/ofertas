@@ -3,7 +3,6 @@ layout: post
 title: 'B07Y4NXC1T - Ofertón en Amazon para maxineer 7" Tablet PC Quad Core 512MB RA'
 date: 2019/12/31 11:31:59 +0000
 comments: true
-tags: [ 'B07Y4NXC1T' ]
 category: ofertas
 author: ring
 slug: B07Y4NXC1T

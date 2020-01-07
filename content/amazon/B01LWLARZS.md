@@ -3,7 +3,6 @@ layout: post
 title: 'B01LWLARZS - Ofertón en Amazon para OMRON DuoBaby Inhalador con aspirador na'
 date: 2020-01-04 18:43:17
 comments: true
-tags: [ 'B01LWLARZS' ]
 category: ofertas
 author: ring
 slug: B01LWLARZS

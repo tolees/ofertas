@@ -3,7 +3,6 @@ layout: post
 title: 'B07NGKBKZ1 - Ofertón en Amazon para Acer Swift 3  SF314-56-53MU  35 6 cm  14'
 date: 2019/12/17 13:19:46 +0000
 comments: true
-tags: [ 'B07NGKBKZ1' ]
 category: ofertas
 author: ring
 slug: B07NGKBKZ1

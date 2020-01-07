@@ -3,7 +3,6 @@ layout: post
 title: 'B071JR6NHL - Ofertón en Amazon para HP Omen 600 - Ratón con Cable Gaming 120'
 date: 2019/12/30 17:08:21 +0000
 comments: true
-tags: [ 'B071JR6NHL' ]
 category: ofertas
 author: ring
 slug: B071JR6NHL

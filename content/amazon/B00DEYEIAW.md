@@ -3,7 +3,6 @@ layout: post
 title: 'B00DEYEIAW - Ofertón en Amazon para Patron Silver Tequila - 700 ml'
 date: 2019/12/28 08:12:18 +0000
 comments: true
-tags: [ 'B00DEYEIAW' ]
 category: ofertas
 author: ring
 slug: B00DEYEIAW

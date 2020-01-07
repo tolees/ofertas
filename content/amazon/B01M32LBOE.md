@@ -3,7 +3,6 @@ layout: post
 title: 'B01M32LBOE - Ofertón en Amazon para Rotuladores de tiza líquida Aolestar 8 c'
 date: 2019/12/18 17:53:20 +0000
 comments: true
-tags: [ 'B01M32LBOE' ]
 category: ofertas
 author: ring
 slug: B01M32LBOE

@@ -3,7 +3,6 @@ layout: post
 title: 'B00N45GLZQ - Ofertón en Amazon para Fluval Filtro Externo Fx4 2650 Lph'
 date: 2019/12/27 17:50:49 +0000
 comments: true
-tags: [ 'B00N45GLZQ' ]
 category: ofertas
 author: ring
 slug: B00N45GLZQ

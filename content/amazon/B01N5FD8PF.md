@@ -3,7 +3,6 @@ layout: post
 title: 'B01N5FD8PF - Ofertón en Amazon para Blaze and the Monster Machines - Camiset'
 date: 2019/12/27 13:45:02 +0000
 comments: true
-tags: [ 'B01N5FD8PF' ]
 category: ofertas
 author: ring
 slug: B01N5FD8PF

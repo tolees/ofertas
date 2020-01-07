@@ -3,7 +3,6 @@ layout: post
 title: 'B06XCC7QR8 - Ofertón en Amazon para find. 13672 vestidos mujer  Multicolor  '
 date: 2020-01-04 08:48:54
 comments: true
-tags: [ 'B06XCC7QR8' ]
 category: ofertas
 author: ring
 slug: B06XCC7QR8

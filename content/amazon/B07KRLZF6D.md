@@ -3,7 +3,6 @@ layout: post
 title: 'B07KRLZF6D - Ofertón en Amazon para New Balance Yc373v1  Zapatillas para Niñ'
 date: 2020-01-02 08:30:00
 comments: true
-tags: [ 'B07KRLZF6D' ]
 category: ofertas
 author: ring
 slug: B07KRLZF6D

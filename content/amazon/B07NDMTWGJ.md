@@ -3,7 +3,6 @@ layout: post
 title: 'B07NDMTWGJ - Ofertón en Amazon para Pepe Jeans Regent Vaqueros Pitillo Hombr'
 date: 2019/12/28 18:05:34 +0000
 comments: true
-tags: [ 'B07NDMTWGJ' ]
 category: ofertas
 author: ring
 slug: B07NDMTWGJ

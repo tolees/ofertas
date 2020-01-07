@@ -3,7 +3,6 @@ layout: post
 title: 'B07YBVZ8WN - Ofertón en Amazon para  Adaptador USB C a HDMI 4K  Adaptador US'
 date: 2019/12/31 13:31:41 +0000
 comments: true
-tags: [ 'B07YBVZ8WN' ]
 category: ofertas
 author: ring
 slug: B07YBVZ8WN

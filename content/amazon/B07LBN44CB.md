@@ -3,7 +3,6 @@ layout: post
 title: 'B07LBN44CB - Ofertón en Amazon para Kappa Dolomo  Botas Clasicas para Hombre'
 date: 2019/12/25 13:47:08 +0000
 comments: true
-tags: [ 'B07LBN44CB' ]
 category: ofertas
 author: ring
 slug: B07LBN44CB

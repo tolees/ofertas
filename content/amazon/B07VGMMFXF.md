@@ -3,7 +3,6 @@ layout: post
 title: 'B07VGMMFXF - Ofertón en Amazon para Sony - DualShock 4 V2 Fortnite VCH 2019 '
 date: 2019/12/25 15:36:08 +0000
 comments: true
-tags: [ 'B07VGMMFXF' ]
 category: ofertas
 author: ring
 slug: B07VGMMFXF

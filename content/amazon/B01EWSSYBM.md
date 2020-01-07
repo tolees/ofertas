@@ -3,7 +3,6 @@ layout: post
 title: 'B01EWSSYBM - Ofertón en Amazon para Llavero Colgante Joya Diamantes de Imita'
 date: 2020-01-06 15:32:39
 comments: true
-tags: [ 'B01EWSSYBM' ]
 category: ofertas
 author: ring
 slug: B01EWSSYBM

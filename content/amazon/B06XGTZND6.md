@@ -3,7 +3,6 @@ layout: post
 title: 'B06XGTZND6 - Ofertón en Amazon para Moulinex Optimo OX484810 - Horno de Conv'
 date: 2019/12/29 14:13:10 +0000
 comments: true
-tags: [ 'B06XGTZND6' ]
 category: ofertas
 author: ring
 slug: B06XGTZND6

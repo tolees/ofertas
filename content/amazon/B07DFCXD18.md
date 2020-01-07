@@ -3,7 +3,6 @@ layout: post
 title: 'B07DFCXD18 - Ofertón en Amazon para Pop! Crash Bandicoot - Figura de Vinilo '
 date: 2020-01-06 18:10:48
 comments: true
-tags: [ 'B07DFCXD18' ]
 category: ofertas
 author: ring
 slug: B07DFCXD18

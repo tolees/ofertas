@@ -3,7 +3,6 @@ layout: post
 title: 'B07XYDZM4H - Ofertón en Amazon para Proze Sport Auriculares Inalámbricos Blu'
 date: 2020-01-03 12:29:31
 comments: true
-tags: [ 'B07XYDZM4H' ]
 category: ofertas
 author: ring
 slug: B07XYDZM4H

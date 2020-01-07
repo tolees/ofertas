@@ -3,7 +3,6 @@ layout: post
 title: 'B07XG3GBTX - Ofertón en Amazon para Esprit 109Ee1K003 Camiseta de Manga Larg'
 date: 2019/12/19 14:23:41 +0000
 comments: true
-tags: [ 'B07XG3GBTX' ]
 category: ofertas
 author: ring
 slug: B07XG3GBTX

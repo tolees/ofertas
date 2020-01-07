@@ -3,7 +3,6 @@ layout: post
 title: 'B07WRQSFHJ - Ofertón en Amazon para Espejo Retrovisor Coche Bebé para Ver su'
 date: 2019/12/24 19:19:00 +0000
 comments: true
-tags: [ 'B07WRQSFHJ' ]
 category: ofertas
 author: ring
 slug: B07WRQSFHJ

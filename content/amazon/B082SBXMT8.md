@@ -3,7 +3,6 @@ layout: post
 title: 'B082SBXMT8 - Ofertón en Amazon para OBEEII Disfraz Elsa Anna Traje Frozen Ni'
 date: 2020-01-05 23:09:44
 comments: true
-tags: [ 'B082SBXMT8' ]
 category: ofertas
 author: ring
 slug: B082SBXMT8

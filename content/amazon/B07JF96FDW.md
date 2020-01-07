@@ -3,7 +3,6 @@ layout: post
 title: 'B07JF96FDW - Ofertón en Amazon para Qlebao Recambios Cepillo para Oral B  16'
 date: 2020-01-03 15:52:39
 comments: true
-tags: [ 'B07JF96FDW' ]
 category: ofertas
 author: ring
 slug: B07JF96FDW

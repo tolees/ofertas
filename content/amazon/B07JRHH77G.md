@@ -3,7 +3,6 @@ layout: post
 title: 'B07JRHH77G - Ofertón en Amazon para OTHA 4K Proyector  Mini Proyector V5  Pr'
 date: 2019/12/17 16:59:51 +0000
 comments: true
-tags: [ 'B07JRHH77G' ]
 category: ofertas
 author: ring
 slug: B07JRHH77G

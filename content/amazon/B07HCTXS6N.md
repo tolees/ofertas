@@ -3,7 +3,6 @@ layout: post
 title: 'B07HCTXS6N - Ofertón en Amazon para Tommy Hilfiger - Th Core Pouch W/Wristle'
 date: 2020-01-02 00:53:31
 comments: true
-tags: [ 'B07HCTXS6N' ]
 category: ofertas
 author: ring
 slug: B07HCTXS6N

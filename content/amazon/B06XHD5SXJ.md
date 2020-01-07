@@ -3,7 +3,6 @@ layout: post
 title: 'B06XHD5SXJ - Ofertón en Amazon para Helly Hansen Verglas Hooded Down Insulat'
 date: 2019/12/20 01:33:16 +0000
 comments: true
-tags: [ 'B06XHD5SXJ' ]
 category: ofertas
 author: ring
 slug: B06XHD5SXJ

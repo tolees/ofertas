@@ -3,7 +3,6 @@ layout: post
 title: 'B07GS6ZS8J - Ofertón en Amazon para Logitech G502 HERO High-Performance Gami'
 date: 2019/12/24 19:19:00 +0000
 comments: true
-tags: [ 'B07GS6ZS8J' ]
 category: ofertas
 author: ring
 slug: B07GS6ZS8J

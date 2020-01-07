@@ -3,7 +3,6 @@ layout: post
 title: 'B07LB9CKV6 - Ofertón en Amazon para Lenovo  Portátil Táctil Convertible de 1'
 date: 2020-01-06 14:42:43
 comments: true
-tags: [ 'B07LB9CKV6' ]
 category: ofertas
 author: ring
 slug: B07LB9CKV6

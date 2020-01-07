@@ -1,7 +1,7 @@
 --- 
  layout: post 
  title: B073RJQXB1: Ahorra en Samsung C49HG90DMU - Monitor Curvo Gamin 
- date: 2020-01-02 14:16:15 
+ date: 2019/12/16 17:33:00 +0000 
  comments: true 
  tags: B073RJQXB1 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Ahora mismo tienes [Samsung C49HG90DMU - Monitor Curvo Gaming 49"  QLED  2 x Full HD  32:9  144 Hz  1 ms  HDR  3000:1  1800R  FreeSync ](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21) a 799.99 EUR (original: 1299 EUR) en el siguiente enlace! 
+ Ahora mismo tienes [Samsung C49HG90DMU - Monitor Curvo Gaming 49"  QLED  2 x Full HD  32:9  144 Hz  1 ms  HDR  3000:1  1800R  FreeSync ](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21) a 819 EUR (original: 1559 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41O3KuikMjL._SL200_.jpg)](https://www.amazon.es/dp/B073RJQXB1/?tag=redken-21) 
  

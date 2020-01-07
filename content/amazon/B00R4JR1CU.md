@@ -3,7 +3,6 @@ layout: post
 title: 'B00R4JR1CU - Ofertón en Amazon para Izas Larvick Chaqueta de montaña  Mujer '
 date: 2019/12/28 22:46:15 +0000
 comments: true
-tags: [ 'B00R4JR1CU' ]
 category: ofertas
 author: ring
 slug: B00R4JR1CU

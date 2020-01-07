@@ -3,7 +3,6 @@ layout: post
 title: 'B07DF9CH4L - Ofertón en Amazon para Pop! One Piece - Figura de Vinilo Nico R'
 date: 2020-01-03 22:52:07
 comments: true
-tags: [ 'B07DF9CH4L' ]
 category: ofertas
 author: ring
 slug: B07DF9CH4L

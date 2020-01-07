@@ -3,7 +3,6 @@ layout: post
 title: 'B0714MTQJY - Ofertón en Amazon para Khanomak - Pantalón Corto Deportivo - pa'
 date: 2020-01-04 12:40:45
 comments: true
-tags: [ 'B0714MTQJY' ]
 category: ofertas
 author: ring
 slug: B0714MTQJY

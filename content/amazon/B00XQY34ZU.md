@@ -3,7 +3,6 @@ layout: post
 title: 'B00XQY34ZU - Ofertón en Amazon para Pepe Jeans Spike Vaqueros  Azul  Fonce D'
 date: 2020-01-04 13:47:06
 comments: true
-tags: [ 'B00XQY34ZU' ]
 category: ofertas
 author: ring
 slug: B00XQY34ZU

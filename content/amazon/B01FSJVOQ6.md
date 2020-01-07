@@ -3,7 +3,6 @@ layout: post
 title: 'B01FSJVOQ6 - Ofertón en Amazon para Rimmel London Kate Sculpting Palette Pal'
 date: 2020-01-06 13:45:29
 comments: true
-tags: [ 'B01FSJVOQ6' ]
 category: ofertas
 author: ring
 slug: B01FSJVOQ6

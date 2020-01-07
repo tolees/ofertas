@@ -3,7 +3,6 @@ layout: post
 title: 'B0833YWVKR - Ofertón en Amazon para GODNECE Technic Sports Car  RC Race Car '
 date: 2020-01-07 06:21:36
 comments: true
-tags: [ 'B0833YWVKR' ]
 category: ofertas
 author: ring
 slug: B0833YWVKR

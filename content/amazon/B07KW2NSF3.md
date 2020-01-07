@@ -3,7 +3,6 @@ layout: post
 title: 'B07KW2NSF3 - Ofertón en Amazon para Baseus Cargador de Coche Quick Charge 3.'
 date: 2020-01-03 10:11:30
 comments: true
-tags: [ 'B07KW2NSF3' ]
 category: ofertas
 author: ring
 slug: B07KW2NSF3

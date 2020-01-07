@@ -3,7 +3,6 @@ layout: post
 title: 'B078GNYR4G - Ofertón en Amazon para Brother DCP-L2510D A4 Mono Laser Printer'
 date: 2020-01-02 11:44:07
 comments: true
-tags: [ 'B078GNYR4G' ]
 category: ofertas
 author: ring
 slug: B078GNYR4G

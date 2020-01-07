@@ -3,7 +3,6 @@ layout: post
 title: 'B07VCS65BP - Ofertón en Amazon para GODNECE Light Set for Lego  Led Lighting'
 date: 2020-01-06 14:22:15
 comments: true
-tags: [ 'B07VCS65BP' ]
 category: ofertas
 author: ring
 slug: B07VCS65BP

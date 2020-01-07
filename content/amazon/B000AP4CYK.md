@@ -3,7 +3,6 @@ layout: post
 title: 'B000AP4CYK - Ofertón en Amazon para Reebok Classic Nylon Zapatilla de Runnin'
 date: 2020-01-07 10:29:02
 comments: true
-tags: [ 'B000AP4CYK' ]
 category: ofertas
 author: ring
 slug: B000AP4CYK

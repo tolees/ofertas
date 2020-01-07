@@ -3,7 +3,6 @@ layout: post
 title: 'B07B7GYGJJ - Ofertón en Amazon para J.Rosée Collares Mujer Colgante Plata de'
 date: 2019/12/21 18:33:51 +0000
 comments: true
-tags: [ 'B07B7GYGJJ' ]
 category: ofertas
 author: ring
 slug: B07B7GYGJJ

@@ -3,7 +3,6 @@ layout: post
 title: 'B01M98FUFN - Ofertón en Amazon para Umbro Loyal Pantalones  Hombre  Azul Mar'
 date: 2020-01-03 10:40:42
 comments: true
-tags: [ 'B01M98FUFN' ]
 category: ofertas
 author: ring
 slug: B01M98FUFN

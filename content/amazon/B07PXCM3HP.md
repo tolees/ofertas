@@ -3,7 +3,6 @@ layout: post
 title: 'B07PXCM3HP - Ofertón en Amazon para LAYJOY Funda Xiaomi Mi 9  Ligera Carcasa'
 date: 2019/12/28 03:58:05 +0000
 comments: true
-tags: [ 'B07PXCM3HP' ]
 category: ofertas
 author: ring
 slug: B07PXCM3HP

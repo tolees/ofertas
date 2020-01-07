@@ -3,7 +3,6 @@ layout: post
 title: 'B01MRR1YNT - Ofertón en Amazon para AmazonBasics - Paños de algodón  30 5 x '
 date: 2019/12/26 11:43:57 +0000
 comments: true
-tags: [ 'B01MRR1YNT' ]
 category: ofertas
 author: ring
 slug: B01MRR1YNT

@@ -3,7 +3,6 @@ layout: post
 title: 'B07WRQK4ZX - Ofertón en Amazon para Monkey King: Hero is Back - PS4'
 date: 2020-01-01 17:50:25
 comments: true
-tags: [ 'B07WRQK4ZX' ]
 category: ofertas
 author: ring
 slug: B07WRQK4ZX

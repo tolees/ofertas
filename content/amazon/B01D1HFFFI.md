@@ -3,7 +3,6 @@ layout: post
 title: 'B01D1HFFFI - Ofertón en Amazon para Rimmel London Sculpting Palette  Polvos '
 date: 2019/12/20 14:35:38 +0000
 comments: true
-tags: [ 'B01D1HFFFI' ]
 category: ofertas
 author: ring
 slug: B01D1HFFFI

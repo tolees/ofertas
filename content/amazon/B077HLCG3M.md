@@ -3,7 +3,6 @@ layout: post
 title: 'B077HLCG3M - Ofertón en Amazon para find. MDR 40625 vestidos mujer  Verde  G'
 date: 2020-01-03 00:28:46
 comments: true
-tags: [ 'B077HLCG3M' ]
 category: ofertas
 author: ring
 slug: B077HLCG3M

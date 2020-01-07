@@ -3,7 +3,6 @@ layout: post
 title: 'B0779CBPSG - Ofertón en Amazon para adidas Entrada 18 JSY Jersey  Niños  Neg'
 date: 2020-01-06 18:42:50
 comments: true
-tags: [ 'B0779CBPSG' ]
 category: ofertas
 author: ring
 slug: B0779CBPSG

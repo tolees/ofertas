@@ -3,7 +3,6 @@ layout: post
 title: 'B00VWZUP70 - Ofertón en Amazon para falksson Personalisierbare Girlande Die '
 date: 2019/12/23 00:34:39 +0000
 comments: true
-tags: [ 'B00VWZUP70' ]
 category: ofertas
 author: ring
 slug: B00VWZUP70

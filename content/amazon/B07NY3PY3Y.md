@@ -3,7 +3,6 @@ layout: post
 title: 'B07NY3PY3Y - Ofertón en Amazon para Superdry Core Utility Pant Pantalones  N'
 date: 2020-01-06 11:42:51
 comments: true
-tags: [ 'B07NY3PY3Y' ]
 category: ofertas
 author: ring
 slug: B07NY3PY3Y

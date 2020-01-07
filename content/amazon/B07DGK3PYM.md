@@ -3,7 +3,6 @@ layout: post
 title: 'B07DGK3PYM - Ofertón en Amazon para Oral-B Junior - Cepillo Eléctrico Recarg'
 date: 2019/12/19 21:48:48 +0000
 comments: true
-tags: [ 'B07DGK3PYM' ]
 category: ofertas
 author: ring
 slug: B07DGK3PYM

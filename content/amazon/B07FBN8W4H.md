@@ -3,7 +3,6 @@ layout: post
 title: 'B07FBN8W4H - Ofertón en Amazon para Skechers Flex Appeal 3.0-First Insight  '
 date: 2020-01-06 10:58:05
 comments: true
-tags: [ 'B07FBN8W4H' ]
 category: ofertas
 author: ring
 slug: B07FBN8W4H

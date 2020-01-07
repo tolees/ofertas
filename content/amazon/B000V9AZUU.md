@@ -3,7 +3,6 @@ layout: post
 title: 'B000V9AZUU - Ofertón en Amazon para Trixie Set Higiene Dental  Pasta y cepil'
 date: 2020-01-02 17:04:09
 comments: true
-tags: [ 'B000V9AZUU' ]
 category: ofertas
 author: ring
 slug: B000V9AZUU

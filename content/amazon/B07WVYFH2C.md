@@ -3,7 +3,6 @@ layout: post
 title: 'B07WVYFH2C - Ofertón en Amazon para FLYLAND Bluetooth Adapter  Wireless Audi'
 date: 2020-01-07 06:07:14
 comments: true
-tags: [ 'B07WVYFH2C' ]
 category: ofertas
 author: ring
 slug: B07WVYFH2C

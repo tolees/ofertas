@@ -3,7 +3,6 @@ layout: post
 title: 'B079MV8VYH - Ofertón en Amazon para Playmobil 9481 Spielzeug-Maricela'
 date: 2020-01-01 23:07:58
 comments: true
-tags: [ 'B079MV8VYH' ]
 category: ofertas
 author: ring
 slug: B079MV8VYH

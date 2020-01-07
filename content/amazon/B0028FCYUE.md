@@ -3,7 +3,6 @@ layout: post
 title: 'B0028FCYUE - Ofertón en Amazon para Trixie 44567 Poste Rascador Isaba  62 cm'
 date: 2019/12/18 20:23:43 +0000
 comments: true
-tags: [ 'B0028FCYUE' ]
 category: ofertas
 author: ring
 slug: B0028FCYUE

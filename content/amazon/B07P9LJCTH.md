@@ -3,7 +3,6 @@ layout: post
 title: 'B07P9LJCTH - Ofertón en Amazon para ALLCELE Fun Recording Talking Robot for '
 date: 2019/12/22 16:52:40 +0000
 comments: true
-tags: [ 'B07P9LJCTH' ]
 category: ofertas
 author: ring
 slug: B07P9LJCTH

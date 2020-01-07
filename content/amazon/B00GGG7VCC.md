@@ -3,7 +3,6 @@ layout: post
 title: 'B00GGG7VCC - Ofertón en Amazon para Clerks 1 Y 2  + Poster  [DVD]'
 date: 2019/12/30 21:20:21 +0000
 comments: true
-tags: [ 'B00GGG7VCC' ]
 category: ofertas
 author: ring
 slug: B00GGG7VCC

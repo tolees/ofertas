@@ -3,7 +3,6 @@ layout: post
 title: 'B004PGM9KY - Ofertón en Amazon para Logitech Z906 5.1 Surround Sound Speaker'
 date: 2020-01-01 21:37:26
 comments: true
-tags: [ 'B004PGM9KY' ]
 category: ofertas
 author: ring
 slug: B004PGM9KY

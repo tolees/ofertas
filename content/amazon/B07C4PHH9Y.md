@@ -3,7 +3,6 @@ layout: post
 title: 'B07C4PHH9Y - Ofertón en Amazon para ACHIOOWA Mujer Vestido Elegante Playa Ca'
 date: 2019/12/21 12:00:13 +0000
 comments: true
-tags: [ 'B07C4PHH9Y' ]
 category: ofertas
 author: ring
 slug: B07C4PHH9Y

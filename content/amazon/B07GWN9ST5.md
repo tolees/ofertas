@@ -3,7 +3,6 @@ layout: post
 title: 'B07GWN9ST5 - Ofertón en Amazon para NNJXD Partido del Unicornio Flor de Las '
 date: 2020-01-06 14:32:43
 comments: true
-tags: [ 'B07GWN9ST5' ]
 category: ofertas
 author: ring
 slug: B07GWN9ST5

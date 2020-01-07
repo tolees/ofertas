@@ -3,7 +3,6 @@ layout: post
 title: 'B07JWX1FJP - Ofertón en Amazon para Columbia Ivo Trail  Zapatillas para Homb'
 date: 2020-01-07 08:08:55
 comments: true
-tags: [ 'B07JWX1FJP' ]
 category: ofertas
 author: ring
 slug: B07JWX1FJP

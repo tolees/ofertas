@@ -3,7 +3,6 @@ layout: post
 title: 'B00B9GWXJ0 - Ofertón en Amazon para Braun Series 9 9385cc Afeitadora Eléctri'
 date: 2019/12/17 10:37:51 +0000
 comments: true
-tags: [ 'B00B9GWXJ0' ]
 category: ofertas
 author: ring
 slug: B00B9GWXJ0

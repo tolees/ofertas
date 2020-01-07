@@ -3,7 +3,6 @@ layout: post
 title: 'B00JOM9RSQ - Ofertón en Amazon para Fantasy Flight Games Star Wars - Tantive'
 date: 2020-01-06 22:28:04
 comments: true
-tags: [ 'B00JOM9RSQ' ]
 category: ofertas
 author: ring
 slug: B00JOM9RSQ

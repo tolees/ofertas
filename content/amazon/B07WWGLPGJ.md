@@ -3,7 +3,6 @@ layout: post
 title: 'B07WWGLPGJ - Ofertón en Amazon para BRIKSMAX Led Lighting Kit for Friends Ol'
 date: 2019/12/30 22:11:38 +0000
 comments: true
-tags: [ 'B07WWGLPGJ' ]
 category: ofertas
 author: ring
 slug: B07WWGLPGJ

@@ -3,7 +3,6 @@ layout: post
 title: 'B07JGLWGDG - Ofertón en Amazon para Energy Smart Speaker 5 Altavoz Inteligen'
 date: 2020-01-06 10:40:31
 comments: true
-tags: [ 'B07JGLWGDG' ]
 category: ofertas
 author: ring
 slug: B07JGLWGDG

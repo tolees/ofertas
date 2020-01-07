@@ -3,7 +3,6 @@ layout: post
 title: 'B07CZM1BRJ - Ofertón en Amazon para Under Armour Rival Fleece Logo Sweatshor'
 date: 2020-01-04 13:15:50
 comments: true
-tags: [ 'B07CZM1BRJ' ]
 category: ofertas
 author: ring
 slug: B07CZM1BRJ

@@ -3,7 +3,6 @@ layout: post
 title: 'B07KQQTJDF - Ofertón en Amazon para Salomon XA Pro 3D GTX W  Zapatillas de T'
 date: 2019/12/18 23:57:55 +0000
 comments: true
-tags: [ 'B07KQQTJDF' ]
 category: ofertas
 author: ring
 slug: B07KQQTJDF

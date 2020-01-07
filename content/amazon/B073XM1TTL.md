@@ -3,7 +3,6 @@ layout: post
 title: 'B073XM1TTL - Ofertón en Amazon para homgeek Batidora de Vaso  Licuadora Smoo'
 date: 2020-01-06 19:15:55
 comments: true
-tags: [ 'B073XM1TTL' ]
 category: ofertas
 author: ring
 slug: B073XM1TTL

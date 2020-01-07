@@ -1,19 +1,19 @@
----
-layout: post
-title: 'B07RD8CG3W - Ofertón en Amazon para Satechi Adaptador Multimedia Dual Tipo-C'
-date: 2020-01-06 20:54:40
-comments: true
-tags: [ 'B07RD8CG3W' ]
-category: ofertas
-author: ring
-slug: B07RD8CG3W
-description:
----
+--- 
+ layout: post 
+ title: B07RD8CG3W: Rebaja en Satechi Adaptador Multimedia Dual Tipo-C en Amazon 
+ date: 2020-01-06 20:54:40 
+ comments: true 
+ tags: B07RD8CG3W 
+ category: ofertas 
+ author: ring 
+ slug: B07RD8CG3W 
+ description: 
+ --- 
+ 
+ Está [Satechi Adaptador Multimedia Dual Tipo-C con HDMI 4k Dual  USB-C PD  Gigabit Ethernet  Lector de Tarjetas MicroSD  USB 3.0 - Compatible con 2019/18 MacBook Pro  2018 MacBook Air  2018 Mac Mini  Plata ](https://www.amazon.es/dp/B07RD8CG3W/?tag=redken-21) por 69.99 EUR (original: 109 EUR) en el siguiente enlace! 
+ 
+ [![](https://images-eu.ssl-images-amazon.com/images/I/412A8aPsiZL._SL200_.jpg)](https://www.amazon.es/dp/B07RD8CG3W/?tag=redken-21) 
+ 
+ [Ver la oferta!!](https://www.amazon.es/dp/B07RD8CG3W/?tag=redken-21)
 
-Tienes [Satechi Adaptador Multimedia Dual Tipo-C con HDMI 4k Dual  USB-C PD  Gigabit Ethernet  Lector de Tarjetas MicroSD  USB 3.0 - Compatible con 2019/18 MacBook Pro  2018 MacBook Air  2018 Mac Mini  Plata ](https://www.amazon.es/dp/B07RD8CG3W/?tag=redken-21) a precio de oferta de 69.99 EUR (original: 109 EUR) en el siguiente enlace!
-
-[![](https://images-eu.ssl-images-amazon.com/images/I/412A8aPsiZL._SL200_.jpg)](https://www.amazon.es/dp/B07RD8CG3W/?tag=redken-21)
-
-[Accede a la oferta!!](https://www.amazon.es/dp/B07RD8CG3W/?tag=redken-21)
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+ [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

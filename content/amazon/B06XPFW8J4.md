@@ -3,7 +3,6 @@ layout: post
 title: 'B06XPFW8J4 - Ofertón en Amazon para Desigual 17WGTK59  Camiseta de Manga Lar'
 date: 2019/12/27 13:25:41 +0000
 comments: true
-tags: [ 'B06XPFW8J4' ]
 category: ofertas
 author: ring
 slug: B06XPFW8J4

@@ -3,7 +3,6 @@ layout: post
 title: 'B079KGMKMW - Ofertón en Amazon para Lee Rider Jeans Vaqueros  Shrewd Blue  3'
 date: 2019/12/27 08:50:12 +0000
 comments: true
-tags: [ 'B079KGMKMW' ]
 category: ofertas
 author: ring
 slug: B079KGMKMW

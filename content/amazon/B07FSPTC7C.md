@@ -3,7 +3,6 @@ layout: post
 title: 'B07FSPTC7C - Ofertón en Amazon para Memoria Flash Universal 128 GB  aleación'
 date: 2020-01-02 14:14:26
 comments: true
-tags: [ 'B07FSPTC7C' ]
 category: ofertas
 author: ring
 slug: B07FSPTC7C

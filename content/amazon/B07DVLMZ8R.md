@@ -3,7 +3,6 @@ layout: post
 title: 'B07DVLMZ8R - Ofertón en Amazon para New Balance Fresh Foam Roav  Zapatillas '
 date: 2020-01-02 13:06:54
 comments: true
-tags: [ 'B07DVLMZ8R' ]
 category: ofertas
 author: ring
 slug: B07DVLMZ8R

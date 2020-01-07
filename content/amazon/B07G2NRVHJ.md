@@ -3,7 +3,6 @@ layout: post
 title: 'B07G2NRVHJ - Ofertón en Amazon para AURIQUE Half Zip Sports Chaqueta Rojo  P'
 date: 2020-01-05 20:00:41
 comments: true
-tags: [ 'B07G2NRVHJ' ]
 category: ofertas
 author: ring
 slug: B07G2NRVHJ

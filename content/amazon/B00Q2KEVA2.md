@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B00Q2KEVA2: Rebaja en Sony Alpha ILCE-7M2K - Cámara EVIL con m en Amazon 
- date: 2019/12/23 11:44:26 +0000 
+ title: B00Q2KEVA2: Rebaja en Sony Alpha 7M2 E-Mount Vollformat Digita en Amazon 
+ date: 2019/11/17 19:41:55 +0000 
  comments: true 
  tags: B00Q2KEVA2 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Sony Alpha ILCE-7M2K - Cámara EVIL con montura tipo E y sensor de fotograma completo  color negro](https://www.amazon.es/dp/B00Q2KEVA2/?tag=redken-21) por 999.99 EUR (original: 2000 EUR) en el siguiente enlace! 
+ Está [Sony Alpha 7M2 E-Mount Vollformat Digitalkamera ILCE-7M2  24 3 Megapixel  7 6cm  3 Zoll  LC-Display  Full HD Video  XAVC S  AVCHD   Vollformat Exmor CMOS Sensor  inkl. SEL-2870 Objektiv  schwarz](https://www.amazon.es/dp/B00Q2KEVA2/?tag=redken-21) por 850 EUR (original: 1999 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41dKx7eF5oL._SL200_.jpg)](https://www.amazon.es/dp/B00Q2KEVA2/?tag=redken-21) 
  

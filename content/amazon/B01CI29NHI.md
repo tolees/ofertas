@@ -3,7 +3,6 @@ layout: post
 title: 'B01CI29NHI - Ofertón en Amazon para Tefal Optigrill GC712D12 - Plancha Grill'
 date: 2020-01-05 14:15:45
 comments: true
-tags: [ 'B01CI29NHI' ]
 category: ofertas
 author: ring
 slug: B01CI29NHI

@@ -3,7 +3,6 @@ layout: post
 title: 'B00J5MORYY - Ofertón en Amazon para WMF 1886569992 Juego de Cuchillos con Ba'
 date: 2020-01-06 23:00:22
 comments: true
-tags: [ 'B00J5MORYY' ]
 category: ofertas
 author: ring
 slug: B00J5MORYY

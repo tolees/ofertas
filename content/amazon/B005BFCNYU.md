@@ -3,7 +3,6 @@ layout: post
 title: 'B005BFCNYU - Ofertón en Amazon para Logitech H390 Auriculares con Cable  Son'
 date: 2019/12/31 13:00:49 +0000
 comments: true
-tags: [ 'B005BFCNYU' ]
 category: ofertas
 author: ring
 slug: B005BFCNYU

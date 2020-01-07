@@ -3,7 +3,6 @@ layout: post
 title: 'B01N6ZGWCJ - Ofertón en Amazon para Jako Chaqueta De Presentación de Champ O'
 date: 2019/12/18 09:10:46 +0000
 comments: true
-tags: [ 'B01N6ZGWCJ' ]
 category: ofertas
 author: ring
 slug: B01N6ZGWCJ

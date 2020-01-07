@@ -3,7 +3,6 @@ layout: post
 title: 'B07PDXL9W6 - Ofertón en Amazon para Lego Movie Camiseta de Manga Larga para '
 date: 2020-01-06 14:35:54
 comments: true
-tags: [ 'B07PDXL9W6' ]
 category: ofertas
 author: ring
 slug: B07PDXL9W6

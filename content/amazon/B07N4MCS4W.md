@@ -3,7 +3,6 @@ layout: post
 title: 'B07N4MCS4W - Ofertón en Amazon para Teléfonos Móviles para Mayores con Tecla'
 date: 2019/12/24 12:53:00 +0000
 comments: true
-tags: [ 'B07N4MCS4W' ]
 category: ofertas
 author: ring
 slug: B07N4MCS4W

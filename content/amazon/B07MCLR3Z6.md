@@ -3,7 +3,6 @@ layout: post
 title: 'B07MCLR3Z6 - Ofertón en Amazon para Superzings - Serie 3 - Caja 24 vehículos'
 date: 2019/12/29 11:02:03 +0000
 comments: true
-tags: [ 'B07MCLR3Z6' ]
 category: ofertas
 author: ring
 slug: B07MCLR3Z6

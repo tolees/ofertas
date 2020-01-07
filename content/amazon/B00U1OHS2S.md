@@ -3,7 +3,6 @@ layout: post
 title: 'B00U1OHS2S - Ofertón en Amazon para Tesa Assa Abloy  TX853535L  Cilindro de '
 date: 2019/12/28 08:49:56 +0000
 comments: true
-tags: [ 'B00U1OHS2S' ]
 category: ofertas
 author: ring
 slug: B00U1OHS2S

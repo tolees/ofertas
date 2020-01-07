@@ -3,7 +3,6 @@ layout: post
 title: 'B078JLQWG9 - Ofertón en Amazon para Timex Reloj Analógico para Hombre de Cua'
 date: 2020-01-04 01:33:27
 comments: true
-tags: [ 'B078JLQWG9' ]
 category: ofertas
 author: ring
 slug: B078JLQWG9

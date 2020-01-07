@@ -3,7 +3,6 @@ layout: post
 title: 'B01C5WOND0 - Ofertón en Amazon para Ravensburger tiptoi Wir spielen Schule S'
 date: 2019/12/20 08:21:36 +0000
 comments: true
-tags: [ 'B01C5WOND0' ]
 category: ofertas
 author: ring
 slug: B01C5WOND0

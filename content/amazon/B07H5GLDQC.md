@@ -3,7 +3,6 @@ layout: post
 title: 'B07H5GLDQC - Ofertón en Amazon para Yamay Auriculares Inalámbricos para Depo'
 date: 2019-12-31 21:01:41
 comments: true
-tags: [ 'B07H5GLDQC' ]
 category: ofertas
 author: ring
 slug: B07H5GLDQC

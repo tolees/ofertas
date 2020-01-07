@@ -3,7 +3,6 @@ layout: post
 title: 'B07FMRRB6S - Ofertón en Amazon para Adidas Terrex AX2R CP K  Zapatillas de S'
 date: 2019/12/26 11:33:05 +0000
 comments: true
-tags: [ 'B07FMRRB6S' ]
 category: ofertas
 author: ring
 slug: B07FMRRB6S

@@ -3,7 +3,6 @@ layout: post
 title: 'B00IGQZFTQ - Ofertón en Amazon para Einhell TE-AG 230/2000 Amoladora  2000 W'
 date: 2019/12/28 10:49:40 +0000
 comments: true
-tags: [ 'B00IGQZFTQ' ]
 category: ofertas
 author: ring
 slug: B00IGQZFTQ

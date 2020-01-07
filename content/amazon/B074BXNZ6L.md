@@ -3,7 +3,6 @@ layout: post
 title: 'B074BXNZ6L - Ofertón en Amazon para Pepe Jeans Hatch  Vaqueros Slim para Hom'
 date: 2019/12/29 10:27:36 +0000
 comments: true
-tags: [ 'B074BXNZ6L' ]
 category: ofertas
 author: ring
 slug: B074BXNZ6L

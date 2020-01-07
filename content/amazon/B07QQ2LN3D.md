@@ -3,7 +3,6 @@ layout: post
 title: 'B07QQ2LN3D - Ofertón en Amazon para Funko 40888 POP. Disney: Frozen 2 - Youn'
 date: 2020-01-07 06:07:10
 comments: true
-tags: [ 'B07QQ2LN3D' ]
 category: ofertas
 author: ring
 slug: B07QQ2LN3D

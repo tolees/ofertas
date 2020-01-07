@@ -3,7 +3,6 @@ layout: post
 title: 'B01MXYOPSH - Ofertón en Amazon para The North Face Back-to-Berkeley Redux Le'
 date: 2019/12/27 10:00:30 +0000
 comments: true
-tags: [ 'B01MXYOPSH' ]
 category: ofertas
 author: ring
 slug: B01MXYOPSH

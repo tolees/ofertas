@@ -3,7 +3,6 @@ layout: post
 title: 'B07B8PWKC7 - Ofertón en Amazon para Fila Disruptor Low  Zapatillas para Homb'
 date: 2020-01-05 17:38:21
 comments: true
-tags: [ 'B07B8PWKC7' ]
 category: ofertas
 author: ring
 slug: B07B8PWKC7

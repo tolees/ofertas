@@ -3,7 +3,6 @@ layout: post
 title: 'B07LFPKP38 - Ofertón en Amazon para Riot: Civil Unrest - Signature Edition'
 date: 2020-01-02 19:10:39
 comments: true
-tags: [ 'B07LFPKP38' ]
 category: ofertas
 author: ring
 slug: B07LFPKP38

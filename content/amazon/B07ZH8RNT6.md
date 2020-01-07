@@ -3,7 +3,6 @@ layout: post
 title: 'B07ZH8RNT6 - Ofertón en Amazon para Lubricante Intimo a Base de Agua Natural'
 date: 2019/12/19 13:32:40 +0000
 comments: true
-tags: [ 'B07ZH8RNT6' ]
 category: ofertas
 author: ring
 slug: B07ZH8RNT6

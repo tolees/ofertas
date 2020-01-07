@@ -3,7 +3,6 @@ layout: post
 title: 'B001KNVPXM - Ofertón en Amazon para Max Factor LipFinity Colour & Gloss Lip '
 date: 2020-01-04 21:28:30
 comments: true
-tags: [ 'B001KNVPXM' ]
 category: ofertas
 author: ring
 slug: B001KNVPXM

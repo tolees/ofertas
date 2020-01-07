@@ -3,7 +3,6 @@ layout: post
 title: 'B00OAFBJFQ - Ofertón en Amazon para STANLEY XTHT0-33501 - Flexómetro AutoLoc'
 date: 2019/12/20 09:38:55 +0000
 comments: true
-tags: [ 'B00OAFBJFQ' ]
 category: ofertas
 author: ring
 slug: B00OAFBJFQ

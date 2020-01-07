@@ -3,7 +3,6 @@ layout: post
 title: 'B00OM57YSK - Ofertón en Amazon para Heineken Cerveza Barril - Paquete de 2 x'
 date: 2019/12/27 07:54:21 +0000
 comments: true
-tags: [ 'B00OM57YSK' ]
 category: ofertas
 author: ring
 slug: B00OM57YSK

@@ -3,7 +3,6 @@ layout: post
 title: 'B07P2ZPYF6 - Ofertón en Amazon para Head Club Lucy W Camisetas  Mujer  Magen'
 date: 2020-01-03 16:52:22
 comments: true
-tags: [ 'B07P2ZPYF6' ]
 category: ofertas
 author: ring
 slug: B07P2ZPYF6

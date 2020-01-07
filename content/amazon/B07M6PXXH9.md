@@ -3,7 +3,6 @@ layout: post
 title: 'B07M6PXXH9 - Ofertón en Amazon para Pantalla de proyector de Montaje en Pare'
 date: 2019/12/30 19:11:42 +0000
 comments: true
-tags: [ 'B07M6PXXH9' ]
 category: ofertas
 author: ring
 slug: B07M6PXXH9

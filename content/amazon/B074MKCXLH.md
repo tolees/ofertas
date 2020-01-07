@@ -3,7 +3,6 @@ layout: post
 title: 'B074MKCXLH - Ofertón en Amazon para Havaianas Brasil Logo Zehentrenner Unise'
 date: 2020-01-02 21:51:09
 comments: true
-tags: [ 'B074MKCXLH' ]
 category: ofertas
 author: ring
 slug: B074MKCXLH

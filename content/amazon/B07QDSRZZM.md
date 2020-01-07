@@ -3,7 +3,6 @@ layout: post
 title: 'B07QDSRZZM - Ofertón en Amazon para FREDI Cámara de vigilancia para Exterior'
 date: 2020-01-04 08:32:27
 comments: true
-tags: [ 'B07QDSRZZM' ]
 category: ofertas
 author: ring
 slug: B07QDSRZZM

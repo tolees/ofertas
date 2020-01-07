@@ -3,7 +3,6 @@ layout: post
 title: 'B0792LLFLD - Ofertón en Amazon para Geox Women s D Asheely D Biker Boots   B'
 date: 2019/12/17 07:48:23 +0000
 comments: true
-tags: [ 'B0792LLFLD' ]
 category: ofertas
 author: ring
 slug: B0792LLFLD

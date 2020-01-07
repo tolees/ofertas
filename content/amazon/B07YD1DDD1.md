@@ -3,7 +3,6 @@ layout: post
 title: 'B07YD1DDD1 - Ofertón en Amazon para ZUNTO Estanteria Baño Autoadhesivo Estan'
 date: 2020-01-03 17:47:13
 comments: true
-tags: [ 'B07YD1DDD1' ]
 category: ofertas
 author: ring
 slug: B07YD1DDD1

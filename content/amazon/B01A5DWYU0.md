@@ -3,7 +3,6 @@ layout: post
 title: 'B01A5DWYU0 - Ofertón en Amazon para Crocs Crocband LodgePoint Boot Kids  Bot'
 date: 2019/12/27 15:08:54 +0000
 comments: true
-tags: [ 'B01A5DWYU0' ]
 category: ofertas
 author: ring
 slug: B01A5DWYU0

@@ -3,7 +3,6 @@ layout: post
 title: 'B07CVY4BQV - Ofertón en Amazon para AZDOME Arrancador de Coche Booster 800A '
 date: 2019/12/24 02:01:19 +0000
 comments: true
-tags: [ 'B07CVY4BQV' ]
 category: ofertas
 author: ring
 slug: B07CVY4BQV

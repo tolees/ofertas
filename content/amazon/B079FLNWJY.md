@@ -3,7 +3,6 @@ layout: post
 title: 'B079FLNWJY - Ofertón en Amazon para HDMI Switch  Techole Conmutador HDMI Swi'
 date: 2020-01-07 08:54:35
 comments: true
-tags: [ 'B079FLNWJY' ]
 category: ofertas
 author: ring
 slug: B079FLNWJY

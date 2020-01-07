@@ -3,7 +3,6 @@ layout: post
 title: 'B07X84GJPY - Ofertón en Amazon para Disney Classic Games: Aladdin and The Li'
 date: 2019/12/18 21:42:48 +0000
 comments: true
-tags: [ 'B07X84GJPY' ]
 category: ofertas
 author: ring
 slug: B07X84GJPY

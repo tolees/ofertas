@@ -3,7 +3,6 @@ layout: post
 title: 'B01HD6REGG - Ofertón en Amazon para Salomon XA Pro 3D GTX  Zapatillas de Tra'
 date: 2019/12/21 09:27:36 +0000
 comments: true
-tags: [ 'B01HD6REGG' ]
 category: ofertas
 author: ring
 slug: B01HD6REGG

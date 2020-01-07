@@ -3,7 +3,6 @@ layout: post
 title: 'B07DK69SYT - Ofertón en Amazon para INTEY Detector de Metales LCD Pantalla D'
 date: 2019/12/29 19:16:29 +0000
 comments: true
-tags: [ 'B07DK69SYT' ]
 category: ofertas
 author: ring
 slug: B07DK69SYT

@@ -3,7 +3,6 @@ layout: post
 title: 'B01CLO3YA0 - Ofertón en Amazon para Bourjois Radiance Reveal Corrector Tono '
 date: 2019/12/26 22:52:53 +0000
 comments: true
-tags: [ 'B01CLO3YA0' ]
 category: ofertas
 author: ring
 slug: B01CLO3YA0

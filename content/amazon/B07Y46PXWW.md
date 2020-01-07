@@ -3,7 +3,6 @@ layout: post
 title: 'B07Y46PXWW - Ofertón en Amazon para ThiEYE Cámara Deportiva 4K 30fps Cámara '
 date: 2019/12/18 22:46:45 +0000
 comments: true
-tags: [ 'B07Y46PXWW' ]
 category: ofertas
 author: ring
 slug: B07Y46PXWW

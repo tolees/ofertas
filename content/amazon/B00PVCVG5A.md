@@ -3,7 +3,6 @@ layout: post
 title: 'B00PVCVG5A - Ofertón en Amazon para D-Link DIR-869 - Router WiFi AC 1750 Ap '
 date: 2020-01-01 14:35:59
 comments: true
-tags: [ 'B00PVCVG5A' ]
 category: ofertas
 author: ring
 slug: B00PVCVG5A

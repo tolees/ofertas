@@ -3,7 +3,6 @@ layout: post
 title: 'B06XCVSBJB - Ofertón en Amazon para Pepe Jeans Spike Vaqueros  Azul  Fonce D'
 date: 2019/12/30 11:07:56 +0000
 comments: true
-tags: [ 'B06XCVSBJB' ]
 category: ofertas
 author: ring
 slug: B06XCVSBJB

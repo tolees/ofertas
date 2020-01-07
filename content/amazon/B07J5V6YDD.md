@@ -3,7 +3,6 @@ layout: post
 title: 'B07J5V6YDD - Ofertón en Amazon para Hawiton Pijama Mujer de Algodón Invierno'
 date: 2020-01-02 14:16:12
 comments: true
-tags: [ 'B07J5V6YDD' ]
 category: ofertas
 author: ring
 slug: B07J5V6YDD

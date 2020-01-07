@@ -3,7 +3,6 @@ layout: post
 title: 'B013SL1YXO - Ofertón en Amazon para Logitech K380 Multi-Device Bluetooth Key'
 date: 2020-01-06 06:06:53
 comments: true
-tags: [ 'B013SL1YXO' ]
 category: ofertas
 author: ring
 slug: B013SL1YXO

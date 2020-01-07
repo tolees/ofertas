@@ -3,7 +3,6 @@ layout: post
 title: 'B01J3VGNZM - Ofertón en Amazon para Suunto - Spartan Ultra Black HR - SS0226'
 date: 2019/12/30 21:26:25 +0000
 comments: true
-tags: [ 'B01J3VGNZM' ]
 category: ofertas
 author: ring
 slug: B01J3VGNZM

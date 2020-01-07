@@ -3,7 +3,6 @@ layout: post
 title: 'B07G1DSVZV - Ofertón en Amazon para Superdry O L Vintage Embroidery L/s tee '
 date: 2019/12/23 09:23:23 +0000
 comments: true
-tags: [ 'B07G1DSVZV' ]
 category: ofertas
 author: ring
 slug: B07G1DSVZV

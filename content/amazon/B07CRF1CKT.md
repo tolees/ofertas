@@ -3,7 +3,6 @@ layout: post
 title: 'B07CRF1CKT - Ofertón en Amazon para Pepe Jeans Pixlette Jeans  Azul  Dark Us'
 date: 2019/12/24 11:27:48 +0000
 comments: true
-tags: [ 'B07CRF1CKT' ]
 category: ofertas
 author: ring
 slug: B07CRF1CKT

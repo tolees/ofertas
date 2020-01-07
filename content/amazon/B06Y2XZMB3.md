@@ -3,7 +3,6 @@ layout: post
 title: 'B06Y2XZMB3 - Ofertón en Amazon para New Balance 574 Core Zapatillas Hombre  '
 date: 2019/12/20 08:10:24 +0000
 comments: true
-tags: [ 'B06Y2XZMB3' ]
 category: ofertas
 author: ring
 slug: B06Y2XZMB3

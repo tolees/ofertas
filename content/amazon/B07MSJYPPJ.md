@@ -3,7 +3,6 @@ layout: post
 title: 'B07MSJYPPJ - Ofertón en Amazon para Clarks - Botines de Cuero Hombre  Color '
 date: 2019-10-29 11:03:42
 comments: true
-tags: [ 'B07MSJYPPJ' ]
 category: ofertas
 author: ring
 slug: B07MSJYPPJ

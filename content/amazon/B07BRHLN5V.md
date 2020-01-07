@@ -3,7 +3,6 @@ layout: post
 title: 'B07BRHLN5V - Ofertón en Amazon para Lifewit Bolsa Térmica Grande Porta Alime'
 date: 2020-01-02 13:48:44
 comments: true
-tags: [ 'B07BRHLN5V' ]
 category: ofertas
 author: ring
 slug: B07BRHLN5V

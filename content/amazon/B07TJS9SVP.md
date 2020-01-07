@@ -3,7 +3,6 @@ layout: post
 title: 'B07TJS9SVP - Ofertón en Amazon para Double Pack: Assassin s Creed Odyssey + '
 date: 2019/12/17 12:21:57 +0000
 comments: true
-tags: [ 'B07TJS9SVP' ]
 category: ofertas
 author: ring
 slug: B07TJS9SVP

@@ -3,7 +3,6 @@ layout: post
 title: 'B008HRFFJE - Ofertón en Amazon para Bosch 2 607 017 082 - Juego de 7 brocas '
 date: 2019/12/30 08:07:39 +0000
 comments: true
-tags: [ 'B008HRFFJE' ]
 category: ofertas
 author: ring
 slug: B008HRFFJE

@@ -3,7 +3,6 @@ layout: post
 title: 'B00Q2THAQK - Ofertón en Amazon para Panter 457521700 - SEPANG NEGRO S1P Tall'
 date: 2019/12/24 13:13:03 +0000
 comments: true
-tags: [ 'B00Q2THAQK' ]
 category: ofertas
 author: ring
 slug: B00Q2THAQK

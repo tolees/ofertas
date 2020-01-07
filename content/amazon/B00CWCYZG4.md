@@ -3,7 +3,6 @@ layout: post
 title: 'B00CWCYZG4 - Ofertón en Amazon para Zwilling TWIN POLLUX - Set de 5 cuchillo'
 date: 2019/12/17 22:14:29 +0000
 comments: true
-tags: [ 'B00CWCYZG4' ]
 category: ofertas
 author: ring
 slug: B00CWCYZG4

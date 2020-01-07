@@ -3,7 +3,6 @@ layout: post
 title: 'B07MNZHR98 - Ofertón en Amazon para Lacoste HH9553 Pantalones  Beige  Vienno'
 date: 2020-01-04 09:35:29
 comments: true
-tags: [ 'B07MNZHR98' ]
 category: ofertas
 author: ring
 slug: B07MNZHR98

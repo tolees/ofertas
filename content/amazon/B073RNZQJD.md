@@ -3,7 +3,6 @@ layout: post
 title: 'B073RNZQJD - Ofertón en Amazon para Helly Hansen Logo Hoodie Sudadera con Ca'
 date: 2019/12/27 09:10:46 +0000
 comments: true
-tags: [ 'B073RNZQJD' ]
 category: ofertas
 author: ring
 slug: B073RNZQJD

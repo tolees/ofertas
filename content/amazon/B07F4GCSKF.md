@@ -3,7 +3,6 @@ layout: post
 title: 'B07F4GCSKF - Ofertón en Amazon para Maybelline New York - Superstay Matte In'
 date: 2020-01-02 11:38:13
 comments: true
-tags: [ 'B07F4GCSKF' ]
 category: ofertas
 author: ring
 slug: B07F4GCSKF

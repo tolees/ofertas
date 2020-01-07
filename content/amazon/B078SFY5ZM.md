@@ -3,7 +3,6 @@ layout: post
 title: 'B078SFY5ZM - Ofertón en Amazon para Alcatel 3v - Smartphone de 6"  Quad-Core'
 date: 2020-01-07 06:31:07
 comments: true
-tags: [ 'B078SFY5ZM' ]
 category: ofertas
 author: ring
 slug: B078SFY5ZM

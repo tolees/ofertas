@@ -3,7 +3,6 @@ layout: post
 title: 'B07CT1D6VS - Ofertón en Amazon para Diablo III: Eternal Collection'
 date: 2019/12/26 16:03:55 +0000
 comments: true
-tags: [ 'B07CT1D6VS' ]
 category: ofertas
 author: ring
 slug: B07CT1D6VS

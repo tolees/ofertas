@@ -3,7 +3,6 @@ layout: post
 title: 'B00GDKRIOM - Ofertón en Amazon para Lee Luke Vaqueros  Clean Black  26W / 32'
 date: 2019/12/17 23:01:28 +0000
 comments: true
-tags: [ 'B00GDKRIOM' ]
 category: ofertas
 author: ring
 slug: B00GDKRIOM

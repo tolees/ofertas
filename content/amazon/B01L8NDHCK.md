@@ -3,7 +3,6 @@ layout: post
 title: 'B01L8NDHCK - Ofertón en Amazon para TomTom GO 520 - Navegador 5 pulgadas  ll'
 date: 2019/12/20 00:14:34 +0000
 comments: true
-tags: [ 'B01L8NDHCK' ]
 category: ofertas
 author: ring
 slug: B01L8NDHCK

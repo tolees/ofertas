@@ -3,7 +3,6 @@ layout: post
 title: 'B07JMCXMNY - Ofertón en Amazon para Lee Austin Vaqueros Tapered  Azul  Dark '
 date: 2019/12/28 13:46:05 +0000
 comments: true
-tags: [ 'B07JMCXMNY' ]
 category: ofertas
 author: ring
 slug: B07JMCXMNY

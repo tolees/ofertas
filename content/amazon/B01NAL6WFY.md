@@ -3,7 +3,6 @@ layout: post
 title: 'B01NAL6WFY - Ofertón en Amazon para s.Oliver 14703512907-Chaqueta Mujer Azul'
 date: 2019/12/27 07:51:53 +0000
 comments: true
-tags: [ 'B01NAL6WFY' ]
 category: ofertas
 author: ring
 slug: B01NAL6WFY

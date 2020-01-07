@@ -3,7 +3,6 @@ layout: post
 title: 'B077YKDPXG - Ofertón en Amazon para Crema Correctoras y Anti-Imperfecciones '
 date: 2020-01-06 14:08:04
 comments: true
-tags: [ 'B077YKDPXG' ]
 category: ofertas
 author: ring
 slug: B077YKDPXG

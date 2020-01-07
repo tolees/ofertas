@@ -3,7 +3,6 @@ layout: post
 title: 'B075YCPG3Y - Ofertón en Amazon para Metal MP3 Reproductor Bluetooth con Pant'
 date: 2020-01-06 12:16:39
 comments: true
-tags: [ 'B075YCPG3Y' ]
 category: ofertas
 author: ring
 slug: B075YCPG3Y

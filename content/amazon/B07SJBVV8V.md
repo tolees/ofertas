@@ -3,7 +3,6 @@ layout: post
 title: 'B07SJBVV8V - Ofertón en Amazon para Introducing Echo Show 8 | 8" HD smart di'
 date: 2020-01-02 13:16:04
 comments: true
-tags: [ 'B07SJBVV8V' ]
 category: ofertas
 author: ring
 slug: B07SJBVV8V

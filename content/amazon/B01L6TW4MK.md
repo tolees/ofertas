@@ -3,7 +3,6 @@ layout: post
 title: 'B01L6TW4MK - Ofertón en Amazon para Lee Rider Jeans Vaqueros  Black Rinse Yc'
 date: 2020-01-04 21:21:52
 comments: true
-tags: [ 'B01L6TW4MK' ]
 category: ofertas
 author: ring
 slug: B01L6TW4MK

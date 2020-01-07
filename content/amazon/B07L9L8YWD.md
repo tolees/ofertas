@@ -3,7 +3,6 @@ layout: post
 title: 'B07L9L8YWD - Ofertón en Amazon para Lacoste Straightset 319 2 Cfa  Zapatilla'
 date: 2020-01-04 09:52:45
 comments: true
-tags: [ 'B07L9L8YWD' ]
 category: ofertas
 author: ring
 slug: B07L9L8YWD

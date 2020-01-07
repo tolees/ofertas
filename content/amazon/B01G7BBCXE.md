@@ -3,7 +3,6 @@ layout: post
 title: 'B01G7BBCXE - Ofertón en Amazon para Henry London Reloj Análogo clásico para '
 date: 2019/12/20 01:11:42 +0000
 comments: true
-tags: [ 'B01G7BBCXE' ]
 category: ofertas
 author: ring
 slug: B01G7BBCXE

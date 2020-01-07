@@ -3,7 +3,6 @@ layout: post
 title: 'B005X4TDSI - Ofertón en Amazon para Goliath - Juego Triominos de Viaje en Ca'
 date: 2020-01-02 13:05:59
 comments: true
-tags: [ 'B005X4TDSI' ]
 category: ofertas
 author: ring
 slug: B005X4TDSI

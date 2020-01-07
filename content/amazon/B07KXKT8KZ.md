@@ -3,7 +3,6 @@ layout: post
 title: 'B07KXKT8KZ - Ofertón en Amazon para Olay Regenerist Whip Crema Hidratante Pi'
 date: 2019/12/18 19:09:05 +0000
 comments: true
-tags: [ 'B07KXKT8KZ' ]
 category: ofertas
 author: ring
 slug: B07KXKT8KZ

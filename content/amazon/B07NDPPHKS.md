@@ -3,7 +3,6 @@ layout: post
 title: 'B07NDPPHKS - Ofertón en Amazon para G-STAR RAW Graphic 22 Optic Slim Round N'
 date: 2020-01-04 10:51:37
 comments: true
-tags: [ 'B07NDPPHKS' ]
 category: ofertas
 author: ring
 slug: B07NDPPHKS

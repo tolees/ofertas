@@ -3,7 +3,6 @@ layout: post
 title: 'B07Q3TYJYY - Ofertón en Amazon para TTYAOVO Chicas Arco Iris Unicornio Fancy'
 date: 2019/12/28 01:07:51 +0000
 comments: true
-tags: [ 'B07Q3TYJYY' ]
 category: ofertas
 author: ring
 slug: B07Q3TYJYY

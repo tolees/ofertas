@@ -3,7 +3,6 @@ layout: post
 title: 'B00HRRD8R6 - Ofertón en Amazon para Sylvanian Families - Cedar Terrace'
 date: 2020-01-04 22:17:31
 comments: true
-tags: [ 'B00HRRD8R6' ]
 category: ofertas
 author: ring
 slug: B00HRRD8R6

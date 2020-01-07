@@ -3,7 +3,6 @@ layout: post
 title: 'B07RBB4GJB - Ofertón en Amazon para deAO Tienda de Campaña Tipi Castillo con'
 date: 2020-01-03 10:43:21
 comments: true
-tags: [ 'B07RBB4GJB' ]
 category: ofertas
 author: ring
 slug: B07RBB4GJB

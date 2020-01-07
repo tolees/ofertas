@@ -3,7 +3,6 @@ layout: post
 title: 'B07TWRWFF8 - Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Techn'
 date: 2019/12/20 17:15:28 +0000
 comments: true
-tags: [ 'B07TWRWFF8' ]
 category: ofertas
 author: ring
 slug: B07TWRWFF8

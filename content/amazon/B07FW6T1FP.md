@@ -3,7 +3,6 @@ layout: post
 title: 'B07FW6T1FP - Ofertón en Amazon para Razer Blackwidow Elite - Teclado mecánic'
 date: 2019/12/18 08:41:56 +0000
 comments: true
-tags: [ 'B07FW6T1FP' ]
 category: ofertas
 author: ring
 slug: B07FW6T1FP

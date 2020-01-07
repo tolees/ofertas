@@ -3,7 +3,6 @@ layout: post
 title: 'B074PRCH6D - Ofertón en Amazon para Gant Lambswool V-Neck suéter  Rojo  Dark'
 date: 2019/12/24 21:27:08 +0000
 comments: true
-tags: [ 'B074PRCH6D' ]
 category: ofertas
 author: ring
 slug: B074PRCH6D

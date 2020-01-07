@@ -3,7 +3,6 @@ layout: post
 title: 'B06XD68MFP - Ofertón en Amazon para Jimmy Choo Eau de Courreges Gel de Ducha'
 date: 2019/12/20 13:39:51 +0000
 comments: true
-tags: [ 'B06XD68MFP' ]
 category: ofertas
 author: ring
 slug: B06XD68MFP

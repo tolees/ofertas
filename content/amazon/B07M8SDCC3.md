@@ -3,7 +3,6 @@ layout: post
 title: 'B07M8SDCC3 - Ofertón en Amazon para Ecoiffier- Hamburguesería de Juguete  Co'
 date: 2019/12/22 22:35:33 +0000
 comments: true
-tags: [ 'B07M8SDCC3' ]
 category: ofertas
 author: ring
 slug: B07M8SDCC3

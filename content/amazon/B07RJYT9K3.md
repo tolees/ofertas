@@ -3,7 +3,6 @@ layout: post
 title: 'B07RJYT9K3 - Ofertón en Amazon para Levadura Roja de Arroz Concentrada 10mg '
 date: 2019/12/17 10:21:31 +0000
 comments: true
-tags: [ 'B07RJYT9K3' ]
 category: ofertas
 author: ring
 slug: B07RJYT9K3

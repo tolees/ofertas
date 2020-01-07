@@ -3,7 +3,6 @@ layout: post
 title: 'B07MPBWTK1 - Ofertón en Amazon para Transmisor FM  Manos Libres Bluetooth pa'
 date: 2019/12/24 16:59:00 +0000
 comments: true
-tags: [ 'B07MPBWTK1' ]
 category: ofertas
 author: ring
 slug: B07MPBWTK1

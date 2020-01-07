@@ -3,7 +3,6 @@ layout: post
 title: 'B079NBYP2S - Ofertón en Amazon para HSP Himoto Space Car Renn-Auto aus Baust'
 date: 2020-01-06 22:12:14
 comments: true
-tags: [ 'B079NBYP2S' ]
 category: ofertas
 author: ring
 slug: B079NBYP2S

@@ -3,7 +3,6 @@ layout: post
 title: 'B07SQNQ97Q - Ofertón en Amazon para Parfois - Mochila Efecto Piel - Mujeres '
 date: 2020-01-07 08:09:33
 comments: true
-tags: [ 'B07SQNQ97Q' ]
 category: ofertas
 author: ring
 slug: B07SQNQ97Q

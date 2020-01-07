@@ -3,7 +3,6 @@ layout: post
 title: 'B07X6RYZSZ - Ofertón en Amazon para VEOMED® Dispositivo Anti Ronquidos efica'
 date: 2020-01-05 18:38:27
 comments: true
-tags: [ 'B07X6RYZSZ' ]
 category: ofertas
 author: ring
 slug: B07X6RYZSZ

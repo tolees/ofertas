@@ -3,7 +3,6 @@ layout: post
 title: 'B002C1AZRS - Ofertón en Amazon para Shock Absorber Classic Support - Sujetad'
 date: 2019/12/27 20:02:52 +0000
 comments: true
-tags: [ 'B002C1AZRS' ]
 category: ofertas
 author: ring
 slug: B002C1AZRS

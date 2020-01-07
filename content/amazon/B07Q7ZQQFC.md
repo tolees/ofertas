@@ -3,7 +3,6 @@ layout: post
 title: 'B07Q7ZQQFC - Ofertón en Amazon para Xnuoyo Mochila de Bandolera  Bolso de Pe'
 date: 2019/12/26 15:25:15 +0000
 comments: true
-tags: [ 'B07Q7ZQQFC' ]
 category: ofertas
 author: ring
 slug: B07Q7ZQQFC

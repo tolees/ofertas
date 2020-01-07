@@ -3,7 +3,6 @@ layout: post
 title: 'B01EY8LKCK - Ofertón en Amazon para Oral-B Genius 8900 - Cepillo de dientes '
 date: 2020-01-02 07:34:57
 comments: true
-tags: [ 'B01EY8LKCK' ]
 category: ofertas
 author: ring
 slug: B01EY8LKCK

@@ -3,7 +3,6 @@ layout: post
 title: 'B014CZJ8CE - Ofertón en Amazon para Puntero Laser Presentaciones Doosl Mando'
 date: 2020-01-06 21:27:33
 comments: true
-tags: [ 'B014CZJ8CE' ]
 category: ofertas
 author: ring
 slug: B014CZJ8CE

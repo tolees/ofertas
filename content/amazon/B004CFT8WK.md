@@ -3,7 +3,6 @@ layout: post
 title: 'B004CFT8WK - Ofertón en Amazon para Apple Adaptador de alimentación MagSafe '
 date: 2019-12-31 15:14:08
 comments: true
-tags: [ 'B004CFT8WK' ]
 category: ofertas
 author: ring
 slug: B004CFT8WK

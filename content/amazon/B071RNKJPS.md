@@ -1,7 +1,7 @@
 --- 
  layout: post 
- title: B071RNKJPS: Rebaja en Game of Thrones-Funko Pop Figura S7 Tyri en Amazon 
- date: 2020-01-05 23:10:57 
+ title: B071RNKJPS: Rebaja en Funko Pop! TV: Game of Thrones - Das Lie en Amazon 
+ date: 2019/12/14 16:19:05 +0000 
  comments: true 
  tags: B071RNKJPS 
  category: ofertas 
@@ -10,7 +10,7 @@
  description: 
  --- 
  
- Está [Game of Thrones-Funko Pop Figura S7 Tyrion Lannister  Multicolor 12216](https://www.amazon.es/dp/B071RNKJPS/?tag=redken-21) por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace! 
+ Está [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Tyrion Lannister Vinyl Figur](https://www.amazon.es/dp/B071RNKJPS/?tag=redken-21) por 8.99 EUR (original: 15.9 EUR) en el siguiente enlace! 
  
  [![](https://images-eu.ssl-images-amazon.com/images/I/41TLzp6Of%2BL._SL200_.jpg)](https://www.amazon.es/dp/B071RNKJPS/?tag=redken-21) 
  

@@ -3,7 +3,6 @@ layout: post
 title: 'B00RD3WMAI - Ofertón en Amazon para Mars Gaming MCP1 - Combo gaming de tecla'
 date: 2020-01-05 11:07:14
 comments: true
-tags: [ 'B00RD3WMAI' ]
 category: ofertas
 author: ring
 slug: B00RD3WMAI

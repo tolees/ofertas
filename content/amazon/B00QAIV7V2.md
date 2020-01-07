@@ -3,7 +3,6 @@ layout: post
 title: 'B00QAIV7V2 - Ofertón en Amazon para Versace Eros Pour Femme Agua de Perfume '
 date: 2019/12/22 04:40:44 +0000
 comments: true
-tags: [ 'B00QAIV7V2' ]
 category: ofertas
 author: ring
 slug: B00QAIV7V2

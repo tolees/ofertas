@@ -3,7 +3,6 @@ layout: post
 title: 'B01GT4RAD0 - Ofertón en Amazon para DKNY Intimates Skyline-Essential Microf '
 date: 2019/12/19 08:28:07 +0000
 comments: true
-tags: [ 'B01GT4RAD0' ]
 category: ofertas
 author: ring
 slug: B01GT4RAD0

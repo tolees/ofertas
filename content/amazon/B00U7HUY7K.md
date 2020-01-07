@@ -3,7 +3,6 @@ layout: post
 title: 'B00U7HUY7K - Ofertón en Amazon para Smile Pin Up Style - Bolsa reversible pa'
 date: 2019/12/19 21:29:47 +0000
 comments: true
-tags: [ 'B00U7HUY7K' ]
 category: ofertas
 author: ring
 slug: B00U7HUY7K

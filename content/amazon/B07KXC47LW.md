@@ -3,7 +3,6 @@ layout: post
 title: 'B07KXC47LW - Ofertón en Amazon para Apisérum Intelecto Viales Bebibles - Fav'
 date: 2019/12/19 04:14:25 +0000
 comments: true
-tags: [ 'B07KXC47LW' ]
 category: ofertas
 author: ring
 slug: B07KXC47LW

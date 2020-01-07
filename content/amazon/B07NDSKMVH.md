@@ -3,7 +3,6 @@ layout: post
 title: 'B07NDSKMVH - Ofertón en Amazon para MEDION X30 RGB - Ordenador de sobremesa '
 date: 2020-01-04 12:37:30
 comments: true
-tags: [ 'B07NDSKMVH' ]
 category: ofertas
 author: ring
 slug: B07NDSKMVH

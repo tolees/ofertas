@@ -3,7 +3,6 @@ layout: post
 title: 'B07WSZ35SL - Ofertón en Amazon para jerryvon Dinosaurios Juguetes con Luces '
 date: 2020-01-07 11:39:08
 comments: true
-tags: [ 'B07WSZ35SL' ]
 category: ofertas
 author: ring
 slug: B07WSZ35SL

@@ -3,7 +3,6 @@ layout: post
 title: 'B07DGK4WTB - Ofertón en Amazon para Braun 9 en 1 MGK3085 - Corta Barbas homb'
 date: 2020-01-06 14:39:53
 comments: true
-tags: [ 'B07DGK4WTB' ]
 category: ofertas
 author: ring
 slug: B07DGK4WTB

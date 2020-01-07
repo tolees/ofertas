@@ -3,7 +3,6 @@ layout: post
 title: 'B07XXZWYK2 - Ofertón en Amazon para Princess Elsa Dress Elsa Frozen Dress Sn'
 date: 2019/12/30 00:36:59 +0000
 comments: true
-tags: [ 'B07XXZWYK2' ]
 category: ofertas
 author: ring
 slug: B07XXZWYK2

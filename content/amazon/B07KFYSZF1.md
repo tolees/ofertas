@@ -3,7 +3,6 @@ layout: post
 title: 'B07KFYSZF1 - Ofertón en Amazon para PUMA Cell Venom Alert  Zapatillas Unisex'
 date: 2019/12/17 20:55:03 +0000
 comments: true
-tags: [ 'B07KFYSZF1' ]
 category: ofertas
 author: ring
 slug: B07KFYSZF1

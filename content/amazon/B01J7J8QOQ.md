@@ -3,7 +3,6 @@ layout: post
 title: 'B01J7J8QOQ - Ofertón en Amazon para morpilot Funda Coche Perro  Cubierta Asi'
 date: 2020-01-03 18:27:01
 comments: true
-tags: [ 'B01J7J8QOQ' ]
 category: ofertas
 author: ring
 slug: B01J7J8QOQ

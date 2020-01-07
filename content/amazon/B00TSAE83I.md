@@ -3,7 +3,6 @@ layout: post
 title: 'B00TSAE83I - Ofertón en Amazon para Scholl Plantillas Gel Activ Uso Diario M'
 date: 2019/12/18 08:09:57 +0000
 comments: true
-tags: [ 'B00TSAE83I' ]
 category: ofertas
 author: ring
 slug: B00TSAE83I

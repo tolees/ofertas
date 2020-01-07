@@ -3,7 +3,6 @@ layout: post
 title: 'B07G2XRKX6 - Ofertón en Amazon para ammoon Amplificador de Guitarra Portátil'
 date: 2019/12/17 18:26:25 +0000
 comments: true
-tags: [ 'B07G2XRKX6' ]
 category: ofertas
 author: ring
 slug: B07G2XRKX6

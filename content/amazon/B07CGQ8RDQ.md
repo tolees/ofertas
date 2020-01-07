@@ -3,7 +3,6 @@ layout: post
 title: 'B07CGQ8RDQ - Ofertón en Amazon para motorola moto g6 5.7-Inch Android 8.0 Or'
 date: 2020-01-02 13:23:52
 comments: true
-tags: [ 'B07CGQ8RDQ' ]
 category: ofertas
 author: ring
 slug: B07CGQ8RDQ

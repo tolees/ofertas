@@ -3,7 +3,6 @@ layout: post
 title: 'B00X9WDJBI - Ofertón en Amazon para L Oreal Paris Dermo Expertise Crema de D'
 date: 2019/12/31 12:29:04 +0000
 comments: true
-tags: [ 'B00X9WDJBI' ]
 category: ofertas
 author: ring
 slug: B00X9WDJBI

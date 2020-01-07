@@ -3,7 +3,6 @@ layout: post
 title: 'B01KOF1BGW - Ofertón en Amazon para BaByliss C903PE - Rizador automático  do'
 date: 2020-01-01 11:46:29
 comments: true
-tags: [ 'B01KOF1BGW' ]
 category: ofertas
 author: ring
 slug: B01KOF1BGW

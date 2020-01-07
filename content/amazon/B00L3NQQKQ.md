@@ -3,7 +3,6 @@ layout: post
 title: 'B00L3NQQKQ - Ofertón en Amazon para KidKraft- Mesa de madera redonda natural'
 date: 2019/12/29 08:02:54 +0000
 comments: true
-tags: [ 'B00L3NQQKQ' ]
 category: ofertas
 author: ring
 slug: B00L3NQQKQ

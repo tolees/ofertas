@@ -3,7 +3,6 @@ layout: post
 title: 'B01FYFK2R6 - Ofertón en Amazon para Aceite de Argán ORGÁNICO Certificado Veg'
 date: 2020-01-03 22:13:36
 comments: true
-tags: [ 'B01FYFK2R6' ]
 category: ofertas
 author: ring
 slug: B01FYFK2R6

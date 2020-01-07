@@ -3,7 +3,6 @@ layout: post
 title: 'B07CHJPZWH - Ofertón en Amazon para JACK & JONES Jfwstoke Nubuck  Botas Clas'
 date: 2019/12/22 17:59:02 +0000
 comments: true
-tags: [ 'B07CHJPZWH' ]
 category: ofertas
 author: ring
 slug: B07CHJPZWH

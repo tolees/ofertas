@@ -3,7 +3,6 @@ layout: post
 title: 'B008HIWJG0 - Ofertón en Amazon para Fontaneda - La Buena Maria Galletas - 80'
 date: 2020-01-03 11:37:44
 comments: true
-tags: [ 'B008HIWJG0' ]
 category: ofertas
 author: ring
 slug: B008HIWJG0

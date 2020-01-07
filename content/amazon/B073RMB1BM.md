@@ -3,7 +3,6 @@ layout: post
 title: 'B073RMB1BM - Ofertón en Amazon para find. Chaqueta de Satén Estilo Bómber Mu'
 date: 2019/12/20 09:44:33 +0000
 comments: true
-tags: [ 'B073RMB1BM' ]
 category: ofertas
 author: ring
 slug: B073RMB1BM
