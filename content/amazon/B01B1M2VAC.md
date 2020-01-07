@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B01B1M2VAC - Ofertón en Amazon para WMF Alteo - Cubertería de acero inoxidab'
+date: 2019/10/22 14:45:51 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B01B1M2VAC
+description:
+---
+
+Tienes [WMF Alteo - Cubertería de acero inoxidable con acabado pulido  60 piezas  12 comensales   cromargan protect](https://www.amazon.com/dp/B01B1M2VAC/?tag=redken08-20) a precio de oferta de 89.99 EUR (original: 179.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41TCIxjw6WL._SL200_.jpg)](https://www.amazon.com/dp/B01B1M2VAC/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B01B1M2VAC/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

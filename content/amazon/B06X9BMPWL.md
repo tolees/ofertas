@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B06X9BMPWL - Ofertón en Amazon para Transformers- Play-Doh Autobot Sqweeks  '
+date: 2019/09/26 13:13:33 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B06X9BMPWL
+description:
+---
+
+Tienes [Transformers- Play-Doh Autobot Sqweeks   24 x 24 x 15 cm  Hasbro C0935EU4 ](https://www.amazon.com/dp/B06X9BMPWL/?tag=redken08-20) a precio de oferta de 30 EUR (original: 83 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/510rOs2veyL._SL200_.jpg)](https://www.amazon.com/dp/B06X9BMPWL/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B06X9BMPWL/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B01K7QOZV6 - Ofertón en Amazon para MARCILLA Gran Aroma Café Molido Mezcla -'
+date: 2019/09/18 19:49:21 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B01K7QOZV6
+description:
+---
+
+Tienes [MARCILLA Gran Aroma Café Molido Mezcla - 250 gr](https://www.amazon.com/dp/B01K7QOZV6/?tag=redken08-20) a precio de oferta de 1.17 EUR (original: 2.49 EUR) en el siguiente enlace!
+
+[![](http://images.amazon.com/images/P/B01K7QOZV6.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.com/dp/B01K7QOZV6/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B01K7QOZV6/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

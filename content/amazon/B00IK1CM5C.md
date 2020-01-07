@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B00IK1CM5C - Ofertón en Amazon para Matrix 61616 - Acondicionador  1094 ml'
+date: 2019/08/27 05:10:13 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B00IK1CM5C
+description:
+---
+
+Tienes [Matrix 61616 - Acondicionador  1094 ml](https://www.amazon.com/dp/B00IK1CM5C/?tag=redken08-20) a precio de oferta de 22.09 EUR (original: 43.41 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/415xJa40yHL._SL200_.jpg)](https://www.amazon.com/dp/B00IK1CM5C/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B00IK1CM5C/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B000JLNBW4 - Ofertón en Amazon para Coca Cola KWC4 Nevera eléctrica Unisex  '
+date: 2019/08/18 11:37:01 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B000JLNBW4
+description:
+---
+
+Tienes [Coca Cola KWC4 Nevera eléctrica Unisex  roja](https://www.amazon.com/dp/B000JLNBW4/?tag=redken08-20) a precio de oferta de 57.68 EUR (original: 129.07 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41xuS92Rw8L._SL200_.jpg)](https://www.amazon.com/dp/B000JLNBW4/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B000JLNBW4/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

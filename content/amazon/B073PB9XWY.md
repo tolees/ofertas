@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B073PB9XWY - Ofertón en Amazon para Filamento PLA Plus de la impresora SUNLU'
+date: 2019/10/13 09:08:47 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B073PB9XWY
+description:
+---
+
+Tienes [Filamento PLA Plus de la impresora SUNLU 3D  filamento PLA de 1.75 mm  filamento de impresión 3D de bajo olor  precisión dimensional +/- 0.02 mm  filamento 3D del carrete 3D  negro PLA +](https://www.amazon.com/dp/B073PB9XWY/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/51C5CS5MsIL._SL200_.jpg)](https://www.amazon.com/dp/B073PB9XWY/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B073PB9XWY/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

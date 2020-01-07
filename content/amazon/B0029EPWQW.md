@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B0029EPWQW - Ofertón en Amazon para Trixie Set Comed.Cerám+Pie  2x1.6 l  ø20'
+date: 2019/09/13 08:35:36 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B0029EPWQW
+description:
+---
+
+Tienes [Trixie Set Comed.Cerám+Pie  2x1.6 l  ø20 cm  Blco/Ng](https://www.amazon.com/dp/B0029EPWQW/?tag=redken08-20) a precio de oferta de 16.99 EUR (original: 32.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41wkvwwNqdL._SL200_.jpg)](https://www.amazon.com/dp/B0029EPWQW/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B0029EPWQW/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
