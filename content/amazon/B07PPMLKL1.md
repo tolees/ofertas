@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pistola de aire caliente  TECCPO 2000W 2'
-date: 2019/12/19 22:26:31 +0000
+date: 2020-01-07 19:04:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K-%2BB64sCL._SL200_.jpg'
 comments: true
 category: ofertas

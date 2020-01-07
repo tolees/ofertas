@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRA Prior - Set de 2 sartenes  aluminio '
-date: 2020-01-06 16:50:07
+date: 2020-01-07 20:52:37
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412TA96JZlL._SL200_.jpg'
 category: ofertas

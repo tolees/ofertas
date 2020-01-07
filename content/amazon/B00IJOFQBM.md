@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Mix & Go - Batidora de Vas'
-date: 2020-01-06 12:41:30
+date: 2020-01-07 19:09:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IKyoXl%2BgL._SL200_.jpg'
 comments: true
 category: ofertas

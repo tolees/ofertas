@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VOYOR 4-In-1 Limpiador de Poros BR410 Li'
-date: 2020-01-04 16:24:30
+date: 2020-01-07 19:45:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e5-KHaQvL._SL200_.jpg'
 comments: true
 category: ofertas
