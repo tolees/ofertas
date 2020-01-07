@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B01MXETNGP - Ofertón en Amazon para Umbro King Pantalón de fútbol  Hombre  A'
+title: B01MXETNGP: Rebaja en Umbro King Pantalón de fútbol  Hombre  A en Amazon
 date: 2019/08/21 15:28:18 +0000
 comments: true
+tags: B01MXETNGP
 category: ofertas
 author: ring
 slug: B01MXETNGP
 description:
 ---
 
-Tienes [Umbro King Pantalón de fútbol  Hombre  Azul Cielo  M](https://www.amazon.com/dp/B01MXETNGP/?tag=redken08-20) a precio de oferta de 5.79 EUR (original: 9 EUR) en el siguiente enlace!
+Está [Umbro King Pantalón de fútbol  Hombre  Azul Cielo  M](https://www.amazon.com/dp/B01MXETNGP/?tag=redken08-20) por 5.79 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qPsnrsQ4L._SL200_.jpg)](https://www.amazon.com/dp/B01MXETNGP/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01MXETNGP/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MXETNGP/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

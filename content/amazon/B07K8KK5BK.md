@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B07K8KK5BK - Ofertón en Amazon para 2 PACK Enchufe Inteligente WIFI de GBlif'
+title: B07K8KK5BK: Rebaja en 2 PACK Enchufe Inteligente WIFI de GBlif en Amazon
 date: 2019/10/20 09:53:07 +0000
 comments: true
+tags: B07K8KK5BK
 category: ofertas
 author: ring
 slug: B07K8KK5BK
 description:
 ---
 
-Tienes [2 PACK Enchufe Inteligente WIFI de GBlife  PE1004T  Control Remoto Mando de Voz Compatible con Amazon Alexa/Google Home/IFTTT  NO Compatible con HomeKit  Contactar con Vendedor por Manual en Español](https://www.amazon.com/dp/B07K8KK5BK/?tag=redken08-20) a precio de oferta de 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [2 PACK Enchufe Inteligente WIFI de GBlife  PE1004T  Control Remoto Mando de Voz Compatible con Amazon Alexa/Google Home/IFTTT  NO Compatible con HomeKit  Contactar con Vendedor por Manual en Español](https://www.amazon.com/dp/B07K8KK5BK/?tag=redken08-20) por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41h3sAif2tL._SL200_.jpg)](https://www.amazon.com/dp/B07K8KK5BK/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07K8KK5BK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07K8KK5BK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

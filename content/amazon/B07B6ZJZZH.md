@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'B07B6ZJZZH - Ofertón en Amazon para New Balance W480V6  Zapatillas de Runnin'
+date: 2019/10/25 01:15:03 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B07B6ZJZZH
+description:
+---
+
+Tienes [New Balance W480V6  Zapatillas de Running para Mujer  Negro  Black/Grey Black/Grey   40 EU](https://www.amazon.com/dp/B07B6ZJZZH/?tag=redken08-20) a precio de oferta de 32.46 EUR (original: 70 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41FIAsq8nmL._SL200_.jpg)](https://www.amazon.com/dp/B07B6ZJZZH/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B07B6ZJZZH/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

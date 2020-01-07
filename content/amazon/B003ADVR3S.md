@@ -1,0 +1,19 @@
+---
+layout: post
+title: B003ADVR3S: Rebaja en KidKraft- Casa de muñecas de madera con  en Amazon
+date: 2020-01-07 06:41:11
+comments: true
+tags: B003ADVR3S
+category: ofertas
+author: ring
+slug: B003ADVR3S
+description:
+---
+
+Está [KidKraft- Casa de muñecas de madera con muebles y accesorios incluidos  3 pisos  para muñecas de 30 cm   Color Rosa  65054  ](https://www.amazon.com/dp/B003ADVR3S/?tag=redken08-20) por 79.87 EUR (original: 119.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/51KlQ566siL._SL200_.jpg)](https://www.amazon.com/dp/B003ADVR3S/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B003ADVR3S/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

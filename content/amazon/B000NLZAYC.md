@@ -1,0 +1,19 @@
+---
+layout: post
+title: B000NLZAYC: Rebaja en Rapesco Documentos - Carpeta portafolios en Amazon
+date: 2019/09/14 07:42:28 +0000
+comments: true
+tags: B000NLZAYC
+category: ofertas
+author: ring
+slug: B000NLZAYC
+description:
+---
+
+Está [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios colores traslúcidos  5 unidades  polipropileno  foolscap](https://www.amazon.com/dp/B000NLZAYC/?tag=redken08-20) por 3.11 EUR (original: 4.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41ZqQzaVKYL._SL200_.jpg)](https://www.amazon.com/dp/B000NLZAYC/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B000NLZAYC/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,0 +1,19 @@
+---
+layout: post
+title: B004VLE2ZI: Ahorra en Wella Sp Deep Cleanser Shampoo Champú - 
+date: 2019/10/13 13:19:26 +0000
+comments: true
+tags: B004VLE2ZI
+category: ofertas
+author: ring
+slug: B004VLE2ZI
+description:
+---
+
+Ahora mismo tienes [Wella Sp Deep Cleanser Shampoo Champú - 1000 ml](https://www.amazon.com/dp/B004VLE2ZI/?tag=redken08-20) a 25 EUR (original: 45.5 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/31vGxOUI7SL._SL200_.jpg)](https://www.amazon.com/dp/B004VLE2ZI/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B004VLE2ZI/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

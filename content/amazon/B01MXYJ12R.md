@@ -1,0 +1,19 @@
+---
+layout: post
+title: B01MXYJ12R: Rebaja en Levi s 501 Levi s Original Fit Vaqueros  en Amazon
+date: 2019/10/12 17:32:51 +0000
+comments: true
+tags: B01MXYJ12R
+category: ofertas
+author: ring
+slug: B01MXYJ12R
+description:
+---
+
+Está [Levi s 501 Levi s Original Fit Vaqueros  Blue Jd  33W / 36L para Hombre](https://www.amazon.com/dp/B01MXYJ12R/?tag=redken08-20) por 39.49 EUR (original: 100 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41p1GH4UN1L._SL200_.jpg)](https://www.amazon.com/dp/B01MXYJ12R/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B01MXYJ12R/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
