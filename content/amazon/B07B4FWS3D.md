@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B07B4FWS3D: Rebaja en Trust GXT 664 Unca 2.1 Soundbar  mit Sub en Amazon
-date: 2019/11/16 22:16:21 +0000
+title: B07B4FWS3D: Rebaja en Trust Gaming GXT 664 Unca - Barra de Son en Amazon
+date: 2020-01-02 13:52:44
 comments: true
 tags: B07B4FWS3D
 category: ofertas
@@ -10,7 +10,7 @@ slug: B07B4FWS3D
 description:
 ---
 
-Está [Trust GXT 664 Unca 2.1 Soundbar  mit Subwoofer Lautsprecher Set für PC und TV-Gerät  schwarz](https://www.amazon.com/dp/B07B4FWS3D/?tag=redken08-20) por 33.07 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Trust Gaming GXT 664 Unca - Barra de Sonido 2.1 con subwoofer  Color Negro](https://www.amazon.com/dp/B07B4FWS3D/?tag=redken08-20) por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GeZ8zrHqL._SL200_.jpg)](https://www.amazon.com/dp/B07B4FWS3D/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B00HRNYXL0: Rebaja en WD 4 TB NAS Internal Hard Drive - Red en Amazon
-date: 2019/11/23 15:05:53 +0000
+title: B00HRNYXL0: Rebaja en WD Red - Disco duro para NAS  4 TB en Amazon
+date: 2020-01-04 11:42:08
 comments: true
 tags: B00HRNYXL0
 category: ofertas
@@ -10,7 +10,7 @@ slug: B00HRNYXL0
 description:
 ---
 
-Está [WD 4 TB NAS Internal Hard Drive - Red](https://www.amazon.com/dp/B00HRNYXL0/?tag=redken08-20) por 98.99 GBP (original: 155.19 GBP) en el siguiente enlace!
+Está [WD Red - Disco duro para NAS  4 TB](https://www.amazon.com/dp/B00HRNYXL0/?tag=redken08-20) por 115.43 EUR (original: 252.27 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zVjxVyJbL._SL200_.jpg)](https://www.amazon.com/dp/B00HRNYXL0/?tag=redken08-20)
 

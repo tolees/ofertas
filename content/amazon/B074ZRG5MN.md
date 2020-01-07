@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B074ZRG5MN: Ahorra en Sony WH-1000XM2 Bluetooth High-Resolutio
-date: 2019/11/30 13:27:33 +0000
+title: B074ZRG5MN: Ahorra en Sony WH-1000XM2 Wireless Bluetooth Over-
+date: 2019/12/21 12:00:13 +0000
 comments: true
 tags: B074ZRG5MN
 category: ofertas
@@ -10,7 +10,7 @@ slug: B074ZRG5MN
 description:
 ---
 
-Ahora mismo tienes [Sony WH-1000XM2 Bluetooth High-Resolution Kopfhörer  Noise Cancelling  kabellos  NFC  Headphones Connect App  bis zu 30 Stunden Akku  Amazon Alexa  schwarz](https://www.amazon.com/dp/B074ZRG5MN/?tag=redken08-20) a 229 EUR (original: 379 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony WH-1000XM2 Wireless Bluetooth Over-Ear Noise Cancelling High Resolution Headphones with Gesture Control  Activity Recognition  30 Hours Battery Life  Amazon Alexa - Black](https://www.amazon.com/dp/B074ZRG5MN/?tag=redken08-20) a 211.45 GBP (original: 330 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31kgP5UvbRL._SL200_.jpg)](https://www.amazon.com/dp/B074ZRG5MN/?tag=redken08-20)
 

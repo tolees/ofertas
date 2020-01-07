@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B07WS7QQX7: Rebaja en BRIKSMAX Led Lighting Kit for Technic Co en Amazon
-date: 2019/12/05 13:19:23 +0000
+title: B07WS7QQX7: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Te en Amazon
+date: 2020-01-05 22:47:53
 comments: true
 tags: B07WS7QQX7
 category: ofertas
@@ -10,7 +10,7 @@ slug: B07WS7QQX7
 description:
 ---
 
-Está [BRIKSMAX Led Lighting Kit for Technic Container Yard - Compatible with Lego 42062 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07WS7QQX7/?tag=redken08-20) por 28.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Lego Technic Container Transport Kompatibel Mit Lego 42062 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07WS7QQX7/?tag=redken08-20) por 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UV5w0g6mL._SL200_.jpg)](https://www.amazon.com/dp/B07WS7QQX7/?tag=redken08-20)
 

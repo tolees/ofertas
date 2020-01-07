@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B07BW8YP5D: Rebaja en Jakks Pacific 32382-11L G.L.O.W. Stick   en Amazon
-date: 2019/12/05 13:17:35 +0000
+title: B07BW8YP5D: Rebaja en G.L.O.W. Stick en Amazon
+date: 2019/12/25 16:26:16 +0000
 comments: true
 tags: B07BW8YP5D
 category: ofertas
@@ -10,7 +10,7 @@ slug: B07BW8YP5D
 description:
 ---
 
-Está [Jakks Pacific 32382-11L G.L.O.W. Stick  Mehrfarbig](https://www.amazon.com/dp/B07BW8YP5D/?tag=redken08-20) por 11.72 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [G.L.O.W. Stick](https://www.amazon.com/dp/B07BW8YP5D/?tag=redken08-20) por 6.79 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qS7zBv0OL._SL200_.jpg)](https://www.amazon.com/dp/B07BW8YP5D/?tag=redken08-20)
 

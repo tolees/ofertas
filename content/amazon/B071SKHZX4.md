@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B071SKHZX4: Rebaja en AmazonBasics - Cargador de coche  de 4 8 en Amazon
-date: 2019/11/23 16:15:38 +0000
+title: B071SKHZX4: Rebaja en AmazonBasics - Kfz-Ladegerät für Apple-  en Amazon
+date: 2019/12/16 21:30:21 +0000
 comments: true
 tags: B071SKHZX4
 category: ofertas
@@ -10,7 +10,7 @@ slug: B071SKHZX4
 description:
 ---
 
-Está [AmazonBasics - Cargador de coche  de 4 8 A / 24 W  2 puertos USB  para dispositivos Apple y Android  Blanco](https://www.amazon.com/dp/B071SKHZX4/?tag=redken08-20) por 4.15 EUR (original: 8.29 EUR) en el siguiente enlace!
+Está [AmazonBasics - Kfz-Ladegerät für Apple- & Android-Geräte  USB-Anschluss: 2 Eingänge  4 8 Ampere / 24 W  Weiß](https://www.amazon.com/dp/B071SKHZX4/?tag=redken08-20) por 4 EUR (original: 7.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nPZEmMd9L._SL200_.jpg)](https://www.amazon.com/dp/B071SKHZX4/?tag=redken08-20)
 

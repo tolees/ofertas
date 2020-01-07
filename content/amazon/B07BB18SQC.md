@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B07BB18SQC - Ofertón en Amazon para Lego Star Wars Minifigur A-Wing Pilot Ta'
+title: B07BB18SQC: Rebaja en Lego Star Wars Minifigur A-Wing Pilot Ta en Amazon
 date: 2020-01-03 22:42:05
 comments: true
+tags: B07BB18SQC
 category: ofertas
 author: ring
 slug: B07BB18SQC
 description:
 ---
 
-Tienes [Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit GALAXYARMS Waffe](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20) a precio de oferta de 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!
+Está [Lego Star Wars Minifigur A-Wing Pilot Tallissan Lintra mit GALAXYARMS Waffe](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20) por 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51SAtd27MvL._SL200_.jpg)](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07BB18SQC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
