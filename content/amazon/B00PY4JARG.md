@@ -9,10 +9,10 @@ slug: B00PY4JARG
 description:
 ---
 
-Tienes [KRISP 6488-NVY-18  Vestido Corto Fruncido Busto  Azul Marino  6488   46](https://www.amazon.es/dp/B00PY4JARG/?tag=redken-21) a precio de oferta de 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!
+Tienes [KRISP 6488-NVY-18  Vestido Corto Fruncido Busto  Azul Marino  6488   46](https://www.amazon.com/dp/B00PY4JARG/?tag=redken08-20) a precio de oferta de 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg)](https://www.amazon.es/dp/B00PY4JARG/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg)](https://www.amazon.com/dp/B00PY4JARG/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00PY4JARG/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00PY4JARG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

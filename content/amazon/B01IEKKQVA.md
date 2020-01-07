@@ -9,10 +9,10 @@ slug: B01IEKKQVA
 description:
 ---
 
-Tienes [Curver 230010 Rectangular  Azul Bruma  27.6x20.2x15.2 cm](https://www.amazon.es/dp/B01IEKKQVA/?tag=redken-21) a precio de oferta de 4.99 EUR (original: 10.95 EUR) en el siguiente enlace!
+Tienes [Curver 230010 Rectangular  Azul Bruma  27.6x20.2x15.2 cm](https://www.amazon.com/dp/B01IEKKQVA/?tag=redken08-20) a precio de oferta de 4.99 EUR (original: 10.95 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/61Cl7ABaFUL._SL200_.jpg)](https://www.amazon.es/dp/B01IEKKQVA/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/61Cl7ABaFUL._SL200_.jpg)](https://www.amazon.com/dp/B01IEKKQVA/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01IEKKQVA/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01IEKKQVA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

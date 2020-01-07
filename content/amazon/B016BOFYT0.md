@@ -9,10 +9,10 @@ slug: B016BOFYT0
 description:
 ---
 
-Tienes [Microsoft Lumia 950 5.2 inch 32 GB SIM-Free Smartphone - Black](https://www.amazon.es/dp/B016BOFYT0/?tag=redken-21) a precio de oferta de 137.87 GBP (original: 449.99 GBP) en el siguiente enlace!
+Tienes [Microsoft Lumia 950 5.2 inch 32 GB SIM-Free Smartphone - Black](https://www.amazon.com/dp/B016BOFYT0/?tag=redken08-20) a precio de oferta de 137.87 GBP (original: 449.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41hy%2BAJwekL._SL200_.jpg)](https://www.amazon.es/dp/B016BOFYT0/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41hy%2BAJwekL._SL200_.jpg)](https://www.amazon.com/dp/B016BOFYT0/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B016BOFYT0/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B016BOFYT0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

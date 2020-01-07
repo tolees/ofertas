@@ -9,10 +9,10 @@ slug: B018EGTEK8
 description:
 ---
 
-Tienes [Corsair Vengeance LPX - Módulo de memoria XMP 2.0 de alto rendimiento de 16 GB  2 x 8 GB  DDR4  2400 MHz  C16   color rojo](https://www.amazon.es/dp/B018EGTEK8/?tag=redken-21) a precio de oferta de 55 EUR (original: 111.04 EUR) en el siguiente enlace!
+Tienes [Corsair Vengeance LPX - Módulo de memoria XMP 2.0 de alto rendimiento de 16 GB  2 x 8 GB  DDR4  2400 MHz  C16   color rojo](https://www.amazon.com/dp/B018EGTEK8/?tag=redken08-20) a precio de oferta de 55 EUR (original: 111.04 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.es/dp/B018EGTEK8/?tag=redken-21)
+[![](._SL200_)](https://www.amazon.com/dp/B018EGTEK8/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B018EGTEK8/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B018EGTEK8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

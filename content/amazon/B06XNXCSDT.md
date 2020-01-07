@@ -9,10 +9,10 @@ slug: B06XNXCSDT
 description:
 ---
 
-Tienes [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Jon Snow König des Nordens Vinyl Figur](https://www.amazon.es/dp/B06XNXCSDT/?tag=redken-21) a precio de oferta de 9.06 EUR (original: 13.99 EUR) en el siguiente enlace!
+Tienes [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Jon Snow König des Nordens Vinyl Figur](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20) a precio de oferta de 9.06 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41Ej9QAKaQL._SL200_.jpg)](https://www.amazon.es/dp/B06XNXCSDT/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41Ej9QAKaQL._SL200_.jpg)](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B06XNXCSDT/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

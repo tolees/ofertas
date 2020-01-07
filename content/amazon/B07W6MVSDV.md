@@ -9,10 +9,10 @@ slug: B07W6MVSDV
 description:
 ---
 
-Tienes [Moviles 4G  Android 9.0  5.5" Full HD 3GB RAM 32GB ROM/128GB Expansión  13MP Cámara 4800mAh Batería  Dual SIM Facial ID y Dactilar Móviles y Smartphones Libres  Púrpura. ](https://www.amazon.es/dp/B07W6MVSDV/?tag=redken-21) a precio de oferta de 79.99 EUR (original: 199.99 EUR) en el siguiente enlace!
+Tienes [Moviles 4G  Android 9.0  5.5" Full HD 3GB RAM 32GB ROM/128GB Expansión  13MP Cámara 4800mAh Batería  Dual SIM Facial ID y Dactilar Móviles y Smartphones Libres  Púrpura. ](https://www.amazon.com/dp/B07W6MVSDV/?tag=redken08-20) a precio de oferta de 79.99 EUR (original: 199.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41tlZbAJkUL._SL200_.jpg)](https://www.amazon.es/dp/B07W6MVSDV/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41tlZbAJkUL._SL200_.jpg)](https://www.amazon.com/dp/B07W6MVSDV/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07W6MVSDV/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07W6MVSDV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

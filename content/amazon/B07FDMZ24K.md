@@ -9,10 +9,10 @@ slug: B07FDMZ24K
 description:
 ---
 
-Tienes [The walking dead  8ª temporada  [Blu-ray]](https://www.amazon.es/dp/B07FDMZ24K/?tag=redken-21) a precio de oferta de 20.99 EUR (original: 34.1 EUR) en el siguiente enlace!
+Tienes [The walking dead  8ª temporada  [Blu-ray]](https://www.amazon.com/dp/B07FDMZ24K/?tag=redken08-20) a precio de oferta de 20.99 EUR (original: 34.1 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51QffScnuNL._SL200_.jpg)](https://www.amazon.es/dp/B07FDMZ24K/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51QffScnuNL._SL200_.jpg)](https://www.amazon.com/dp/B07FDMZ24K/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07FDMZ24K/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FDMZ24K/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

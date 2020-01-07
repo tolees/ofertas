@@ -9,10 +9,10 @@ slug: B00MC7T9WO
 description:
 ---
 
-Tienes [Funko - Peluche Star Wars - Darth Vader Fabricación 15cm - 0849803047849 - Peluche Funjo Star Wars Darth Vader  15 cm ](https://www.amazon.es/dp/B00MC7T9WO/?tag=redken-21) a precio de oferta de 8.86 EUR (original: 29.31 EUR) en el siguiente enlace!
+Tienes [Funko - Peluche Star Wars - Darth Vader Fabricación 15cm - 0849803047849 - Peluche Funjo Star Wars Darth Vader  15 cm ](https://www.amazon.com/dp/B00MC7T9WO/?tag=redken08-20) a precio de oferta de 8.86 EUR (original: 29.31 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51b05i3p4bL._SL200_.jpg)](https://www.amazon.es/dp/B00MC7T9WO/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51b05i3p4bL._SL200_.jpg)](https://www.amazon.com/dp/B00MC7T9WO/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00MC7T9WO/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00MC7T9WO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

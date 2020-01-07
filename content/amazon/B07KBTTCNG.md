@@ -9,10 +9,10 @@ slug: B07KBTTCNG
 description:
 ---
 
-Tienes [Conjunto de luces Lightailing para  Star Wars Estrella De La Muerte  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 10188  NO incluido en el modelo ](https://www.amazon.es/dp/B07KBTTCNG/?tag=redken-21) a precio de oferta de 79.99 EUR (original: 200 EUR) en el siguiente enlace!
+Tienes [Conjunto de luces Lightailing para  Star Wars Estrella De La Muerte  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 10188  NO incluido en el modelo ](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20) a precio de oferta de 79.99 EUR (original: 200 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.es/dp/B07KBTTCNG/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51f9z8v6doL._SL200_.jpg)](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07KBTTCNG/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KBTTCNG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

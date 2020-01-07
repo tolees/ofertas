@@ -9,10 +9,10 @@ slug: B01FFM09AI
 description:
 ---
 
-Tienes [CAT CATLI005 - Smartphone de 4.7"  4G  3 GB de RAM  memoria interna 32 GB cámara frontal 5 MP  SIM doble   negro](https://www.amazon.es/dp/B01FFM09AI/?tag=redken-21) a precio de oferta de 343 EUR (original: 749.99 EUR) en el siguiente enlace!
+Tienes [CAT CATLI005 - Smartphone de 4.7"  4G  3 GB de RAM  memoria interna 32 GB cámara frontal 5 MP  SIM doble   negro](https://www.amazon.com/dp/B01FFM09AI/?tag=redken08-20) a precio de oferta de 343 EUR (original: 749.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41Xxzu7%2BgLL._SL200_.jpg)](https://www.amazon.es/dp/B01FFM09AI/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41Xxzu7%2BgLL._SL200_.jpg)](https://www.amazon.com/dp/B01FFM09AI/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01FFM09AI/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01FFM09AI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

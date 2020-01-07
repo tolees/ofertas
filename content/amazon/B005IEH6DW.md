@@ -9,10 +9,10 @@ slug: B005IEH6DW
 description:
 ---
 
-Tienes [Bourjois Healthy Mix Serum Base de Maquillaje Tono 55 Dark beige - 63 gr.](https://www.amazon.es/dp/B005IEH6DW/?tag=redken-21) a precio de oferta de 9.2 EUR (original: 13.75 EUR) en el siguiente enlace!
+Tienes [Bourjois Healthy Mix Serum Base de Maquillaje Tono 55 Dark beige - 63 gr.](https://www.amazon.com/dp/B005IEH6DW/?tag=redken08-20) a precio de oferta de 9.2 EUR (original: 13.75 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/417NNrN9SEL._SL200_.jpg)](https://www.amazon.es/dp/B005IEH6DW/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/417NNrN9SEL._SL200_.jpg)](https://www.amazon.com/dp/B005IEH6DW/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B005IEH6DW/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B005IEH6DW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

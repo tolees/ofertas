@@ -9,10 +9,10 @@ slug: B01IJZX9F0
 description:
 ---
 
-Tienes [Maybelline New York - Master Strobing Stick Iluminador  Tono 200 Medium pieles medias. - 9GR](https://www.amazon.es/dp/B01IJZX9F0/?tag=redken-21) a precio de oferta de 5.75 EUR (original: 8.99 EUR) en el siguiente enlace!
+Tienes [Maybelline New York - Master Strobing Stick Iluminador  Tono 200 Medium pieles medias. - 9GR](https://www.amazon.com/dp/B01IJZX9F0/?tag=redken08-20) a precio de oferta de 5.75 EUR (original: 8.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg)](https://www.amazon.es/dp/B01IJZX9F0/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg)](https://www.amazon.com/dp/B01IJZX9F0/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01IJZX9F0/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01IJZX9F0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

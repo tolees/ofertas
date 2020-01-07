@@ -9,10 +9,10 @@ slug: B06WCZCTQY
 description:
 ---
 
-Tienes [Playmobil 9249 DreamWorks Dragons Eret with 4 Shot Firing Ballista](https://www.amazon.es/dp/B06WCZCTQY/?tag=redken-21) a precio de oferta de 9.49 GBP (original: 19.99 GBP) en el siguiente enlace!
+Tienes [Playmobil 9249 DreamWorks Dragons Eret with 4 Shot Firing Ballista](https://www.amazon.com/dp/B06WCZCTQY/?tag=redken08-20) a precio de oferta de 9.49 GBP (original: 19.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51K-wq40LIL._SL200_.jpg)](https://www.amazon.es/dp/B06WCZCTQY/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51K-wq40LIL._SL200_.jpg)](https://www.amazon.com/dp/B06WCZCTQY/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B06WCZCTQY/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06WCZCTQY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

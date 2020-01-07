@@ -9,10 +9,10 @@ slug: B07KGQ5XTL
 description:
 ---
 
-Tienes [Lenovo PHAB 2 - Tablet de 7" HD  Procesador MediaTek 8735  RAM de 3GB  Memoria Interna de 32GB  Android  Bluetooth 4.0 + WiFi  Color Gris](https://www.amazon.es/dp/B07KGQ5XTL/?tag=redken-21) a precio de oferta de 119.99 EUR (original: 199 EUR) en el siguiente enlace!
+Tienes [Lenovo PHAB 2 - Tablet de 7" HD  Procesador MediaTek 8735  RAM de 3GB  Memoria Interna de 32GB  Android  Bluetooth 4.0 + WiFi  Color Gris](https://www.amazon.com/dp/B07KGQ5XTL/?tag=redken08-20) a precio de oferta de 119.99 EUR (original: 199 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/219VR9AC8lL._SL200_.jpg)](https://www.amazon.es/dp/B07KGQ5XTL/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/219VR9AC8lL._SL200_.jpg)](https://www.amazon.com/dp/B07KGQ5XTL/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07KGQ5XTL/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KGQ5XTL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

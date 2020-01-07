@@ -9,10 +9,10 @@ slug: B06XGW3KRV
 description:
 ---
 
-Tienes [Funko 13693 63650 Actionfigur Trollhunters: Jim Armored  Multicolour](https://www.amazon.es/dp/B06XGW3KRV/?tag=redken-21) a precio de oferta de 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!
+Tienes [Funko 13693 63650 Actionfigur Trollhunters: Jim Armored  Multicolour](https://www.amazon.com/dp/B06XGW3KRV/?tag=redken08-20) a precio de oferta de 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51o5Rr58LVL._SL200_.jpg)](https://www.amazon.es/dp/B06XGW3KRV/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51o5Rr58LVL._SL200_.jpg)](https://www.amazon.com/dp/B06XGW3KRV/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B06XGW3KRV/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06XGW3KRV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -9,10 +9,10 @@ slug: B00FF9GVNG
 description:
 ---
 
-Tienes [Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B00FF9GVNG/?tag=redken-21) a precio de oferta de 42.45 EUR (original: 98.39 EUR) en el siguiente enlace!
+Tienes [Pack Friends Temporada 1-10 Colección Completa Blu-Ray [Blu-ray]](https://www.amazon.com/dp/B00FF9GVNG/?tag=redken08-20) a precio de oferta de 42.45 EUR (original: 98.39 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51boQsXcv0L._SL200_.jpg)](https://www.amazon.es/dp/B00FF9GVNG/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51boQsXcv0L._SL200_.jpg)](https://www.amazon.com/dp/B00FF9GVNG/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00FF9GVNG/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00FF9GVNG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -9,10 +9,10 @@ slug: B07YFDNQ8V
 description:
 ---
 
-Tienes [Mc Haus - Sofa Evy gris claro 2 plazas diseño nordico salon comedor 160x80x76cm](https://www.amazon.es/dp/B07YFDNQ8V/?tag=redken-21) a precio de oferta de 199.99 EUR (original: 349.99 EUR) en el siguiente enlace!
+Tienes [Mc Haus - Sofa Evy gris claro 2 plazas diseño nordico salon comedor 160x80x76cm](https://www.amazon.com/dp/B07YFDNQ8V/?tag=redken08-20) a precio de oferta de 199.99 EUR (original: 349.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51Etcu1HikL._SL200_.jpg)](https://www.amazon.es/dp/B07YFDNQ8V/?tag=redken-21)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51Etcu1HikL._SL200_.jpg)](https://www.amazon.com/dp/B07YFDNQ8V/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07YFDNQ8V/?tag=redken-21)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07YFDNQ8V/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
