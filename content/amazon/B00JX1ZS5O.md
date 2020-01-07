@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00JX1ZS5O: Rebaja en Sabrent Concentrador USB 3.0 con 4 Puert en Amazon
+title: 'B00JX1ZS5O: Rebaja en Sabrent Concentrador USB 3.0 con 4 Puert en Amazon'
 date: 2020-01-03 15:15:26
 comments: true
 tags: B00JX1ZS5O

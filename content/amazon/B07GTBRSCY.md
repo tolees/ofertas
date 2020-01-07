@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GTBRSCY: Ahorra en Sony SRSXB01B - Altavoz inalámbrico port
+title: 'B07GTBRSCY: Ahorra en Sony SRSXB01B - Altavoz inalámbrico port'
 date: 2019/12/14 14:52:35 +0000
 comments: true
 tags: B07GTBRSCY

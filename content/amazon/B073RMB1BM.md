@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B073RMB1BM: Rebaja en find. Chaqueta de Satén Estilo Bómber Mu en Amazon
+title: 'B073RMB1BM: Rebaja en find. Chaqueta de Satén Estilo Bómber Mu en Amazon'
 date: 2019/12/20 09:44:33 +0000
 comments: true
 tags: B073RMB1BM

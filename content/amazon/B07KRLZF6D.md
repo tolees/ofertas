@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KRLZF6D: Ahorra en New Balance Yc373v1  Zapatillas para Niñ
+title: 'B07KRLZF6D: Ahorra en New Balance Yc373v1  Zapatillas para Niñ'
 date: 2020-01-02 08:30:00
 comments: true
 tags: B07KRLZF6D

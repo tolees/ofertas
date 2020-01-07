@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07B4VBJ2D: Rebaja en Sony Xperia XZ2 - Smartphone de 5.7"  Oc en Amazon
+title: 'B07B4VBJ2D: Rebaja en Sony Xperia XZ2 - Smartphone de 5.7"  Oc en Amazon'
 date: 2020-01-07 10:49:30
 comments: true
 tags: B07B4VBJ2D

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06XXBFQ8X: Rebaja en New Balance WL574EB  Zapatillas Mujer  G en Amazon
+title: 'B06XXBFQ8X: Rebaja en New Balance WL574EB  Zapatillas Mujer  G en Amazon'
 date: 2020-01-01 17:38:02
 comments: true
 tags: B06XXBFQ8X

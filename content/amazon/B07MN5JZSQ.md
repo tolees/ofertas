@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MN5JZSQ: Rebaja en Wrangler Logo Hoodie Capucha  Gris  Dark en Amazon
+title: 'B07MN5JZSQ: Rebaja en Wrangler Logo Hoodie Capucha  Gris  Dark en Amazon'
 date: 2019/12/13 19:02:33 +0000
 comments: true
 tags: B07MN5JZSQ

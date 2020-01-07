@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KMBY28R: Rebaja en Merrell Vapor Glove 4  Zapatillas Deport en Amazon
+title: 'B07KMBY28R: Rebaja en Merrell Vapor Glove 4  Zapatillas Deport en Amazon'
 date: 2020-01-07 12:57:38
 comments: true
 tags: B07KMBY28R

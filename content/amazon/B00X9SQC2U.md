@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00X9SQC2U: Ahorra en BaByliss iPro 230 Steam - Plancha de vap
+title: 'B00X9SQC2U: Ahorra en BaByliss iPro 230 Steam - Plancha de vap'
 date: 2020-01-04 06:08:48
 comments: true
 tags: B00X9SQC2U

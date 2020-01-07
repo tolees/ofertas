@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01IVU6U1I: Rebaja en Colgante  J.Rosée Collares Mujer Colgant en Amazon
+title: 'B01IVU6U1I: Rebaja en Colgante  J.Rosée Collares Mujer Colgant en Amazon'
 date: 2019/12/19 15:02:18 +0000
 comments: true
 tags: B01IVU6U1I

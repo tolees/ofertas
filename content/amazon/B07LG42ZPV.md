@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07LG42ZPV: Rebaja en Geox J Kalispera Girl A  Zapatillas Alta en Amazon
+title: 'B07LG42ZPV: Rebaja en Geox J Kalispera Girl A  Zapatillas Alta en Amazon'
 date: 2020-01-03 08:43:10
 comments: true
 tags: B07LG42ZPV

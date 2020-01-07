@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07PMJ3MS9: Ahorra en HUION la Tableta gráfica HS610  con la f
+title: 'B07PMJ3MS9: Ahorra en HUION la Tableta gráfica HS610  con la f'
 date: 2019/12/15 23:00:59 +0000
 comments: true
 tags: B07PMJ3MS9

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MTXLFXV: Ahorra en Logitech G432 Surround Sound Gaming Head
+title: 'B07MTXLFXV: Ahorra en Logitech G432 Surround Sound Gaming Head'
 date: 2019/12/23 21:51:50 +0000
 comments: true
 tags: B07MTXLFXV

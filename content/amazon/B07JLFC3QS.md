@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JLFC3QS: Rebaja en Lee Austin Vaqueros Tapered  Azul  Mid D en Amazon
+title: 'B07JLFC3QS: Rebaja en Lee Austin Vaqueros Tapered  Azul  Mid D en Amazon'
 date: 2019/12/27 09:03:22 +0000
 comments: true
 tags: B07JLFC3QS

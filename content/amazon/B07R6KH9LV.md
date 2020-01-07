@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07R6KH9LV: Rebaja en RAOYI 2X 32GB Memoria USB 3.0  Pendrive  en Amazon
+title: 'B07R6KH9LV: Rebaja en RAOYI 2X 32GB Memoria USB 3.0  Pendrive  en Amazon'
 date: 2019/12/15 23:29:37 +0000
 comments: true
 tags: B07R6KH9LV

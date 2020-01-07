@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07B9PSJGV: Rebaja en Fitbit Versa - Reloj Deportivo Smartwatc en Amazon
+title: 'B07B9PSJGV: Rebaja en Fitbit Versa - Reloj Deportivo Smartwatc en Amazon'
 date: 2019/12/23 11:19:54 +0000
 comments: true
 tags: B07B9PSJGV

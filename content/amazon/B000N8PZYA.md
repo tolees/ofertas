@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B000N8PZYA: Ahorra en Dickies Men s Original 874 Work Pant  Pa
+title: 'B000N8PZYA: Ahorra en Dickies Men s Original 874 Work Pant  Pa'
 date: 2019/12/21 12:32:51 +0000
 comments: true
 tags: B000N8PZYA

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01MYGUYKX: Rebaja en find. 50202 vaqueros mujer  Azul  Lilla  en Amazon
+title: 'B01MYGUYKX: Rebaja en find. 50202 vaqueros mujer  Azul  Lilla  en Amazon'
 date: 2019/12/22 13:44:21 +0000
 comments: true
 tags: B01MYGUYKX

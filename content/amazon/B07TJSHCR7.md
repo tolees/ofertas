@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07TJSHCR7: Rebaja en BLCPRO Repelente Ultrasónico de Plagas 2 en Amazon
+title: 'B07TJSHCR7: Rebaja en BLCPRO Repelente Ultrasónico de Plagas 2 en Amazon'
 date: 2019/12/27 08:03:59 +0000
 comments: true
 tags: B07TJSHCR7

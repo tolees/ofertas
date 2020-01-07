@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B019JIAB1G: Rebaja en Funko-6560 Triwizard Tournament Figura d en Amazon
+title: 'B019JIAB1G: Rebaja en Funko-6560 Triwizard Tournament Figura d en Amazon'
 date: 2019-12-30 14:07:27
 comments: true
 tags: B019JIAB1G

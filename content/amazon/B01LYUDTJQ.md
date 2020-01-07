@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01LYUDTJQ: Rebaja en Muvit MUACC0166 - Transformador USB  2.4 en Amazon
+title: 'B01LYUDTJQ: Rebaja en Muvit MUACC0166 - Transformador USB  2.4 en Amazon'
 date: 2019/12/14 11:27:40 +0000
 comments: true
 tags: B01LYUDTJQ

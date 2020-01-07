@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FTSD5FV: Ahorra en Lee Brooklyn Comfort Vaqueros Straight  
+title: 'B07FTSD5FV: Ahorra en Lee Brooklyn Comfort Vaqueros Straight  '
 date: 2019/12/19 22:59:56 +0000
 comments: true
 tags: B07FTSD5FV

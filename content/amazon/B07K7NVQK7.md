@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07K7NVQK7: Rebaja en Levi s 502 Regular Taper Vaqueros  Gris  en Amazon
+title: 'B07K7NVQK7: Rebaja en Levi s 502 Regular Taper Vaqueros  Gris  en Amazon'
 date: 2020-01-06 09:42:02
 comments: true
 tags: B07K7NVQK7

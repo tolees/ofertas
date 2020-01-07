@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07QFWNR8H: Ahorra en Simpeak Funda Compatible con Kindle 2019
+title: 'B07QFWNR8H: Ahorra en Simpeak Funda Compatible con Kindle 2019'
 date: 2019/12/31 13:08:59 +0000
 comments: true
 tags: B07QFWNR8H

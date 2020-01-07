@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GDBKC3F: Ahorra en Televisor Philips 24PFS5863/12  24 Pulga
+title: 'B07GDBKC3F: Ahorra en Televisor Philips 24PFS5863/12  24 Pulga'
 date: 2019/12/31 11:31:59 +0000
 comments: true
 tags: B07GDBKC3F

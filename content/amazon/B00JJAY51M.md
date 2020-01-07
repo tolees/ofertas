@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00JJAY51M: Ahorra en WMF Stelio Aroma Cafetera de 1000 W con 
+title: 'B00JJAY51M: Ahorra en WMF Stelio Aroma Cafetera de 1000 W con '
 date: 2020-01-04 18:45:11
 comments: true
 tags: B00JJAY51M

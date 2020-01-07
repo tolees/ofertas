@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BMKC85Z: Rebaja en Fantasy Flight Games- AT-RT  FFSWL04  en Amazon
+title: 'B07BMKC85Z: Rebaja en Fantasy Flight Games- AT-RT  FFSWL04  en Amazon'
 date: 2019/12/24 20:08:55 +0000
 comments: true
 tags: B07BMKC85Z

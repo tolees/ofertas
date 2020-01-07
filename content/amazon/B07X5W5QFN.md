@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07X5W5QFN: Rebaja en Luz Solar Exterior 228 LED  Trswyop [2 U en Amazon
+title: 'B07X5W5QFN: Rebaja en Luz Solar Exterior 228 LED  Trswyop [2 U en Amazon'
 date: 2019/12/13 15:00:05 +0000
 comments: true
 tags: B07X5W5QFN

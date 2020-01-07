@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00JEWC5UI: Ahorra en Blend 700522 Blizzard - Vaqueros para ho
+title: 'B00JEWC5UI: Ahorra en Blend 700522 Blizzard - Vaqueros para ho'
 date: 2019/12/25 12:32:14 +0000
 comments: true
 tags: B00JEWC5UI

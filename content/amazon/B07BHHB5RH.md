@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BHHB5RH: Ahorra en Soundcore Spirit Bluetooth Kopfhörer  In
+title: 'B07BHHB5RH: Ahorra en Soundcore Spirit Bluetooth Kopfhörer  In'
 date: 2019/12/29 11:25:09 +0000
 comments: true
 tags: B07BHHB5RH

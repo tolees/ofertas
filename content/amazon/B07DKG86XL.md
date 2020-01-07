@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07DKG86XL: Rebaja en Kipling - Earthbeat S  Bolsos bandolera  en Amazon
+title: 'B07DKG86XL: Rebaja en Kipling - Earthbeat S  Bolsos bandolera  en Amazon'
 date: 2019/12/19 11:35:15 +0000
 comments: true
 tags: B07DKG86XL

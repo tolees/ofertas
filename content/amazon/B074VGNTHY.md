@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B074VGNTHY: Ahorra en Sony WIC400 - Auriculares Neckband inalá
+title: 'B074VGNTHY: Ahorra en Sony WIC400 - Auriculares Neckband inalá'
 date: 2019/12/29 17:20:09 +0000
 comments: true
 tags: B074VGNTHY

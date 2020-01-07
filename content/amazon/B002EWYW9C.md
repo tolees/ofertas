@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B002EWYW9C: Rebaja en Bosch Home and Garden 0.603.502.002 Sier en Amazon
+title: 'B002EWYW9C: Rebaja en Bosch Home and Garden 0.603.502.002 Sier en Amazon'
 date: 2020-01-02 17:12:45
 comments: true
 tags: B002EWYW9C

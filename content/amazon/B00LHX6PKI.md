@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00LHX6PKI: Rebaja en Einhell Bohrhammer TE-RH 32 E  1250 W  5 en Amazon
+title: 'B00LHX6PKI: Rebaja en Einhell Bohrhammer TE-RH 32 E  1250 W  5 en Amazon'
 date: 2019/12/25 18:37:58 +0000
 comments: true
 tags: B00LHX6PKI

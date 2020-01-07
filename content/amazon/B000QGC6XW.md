@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B000QGC6XW: Rebaja en Dremel Versatip 2000 - Pirograbador a ga en Amazon
+title: 'B000QGC6XW: Rebaja en Dremel Versatip 2000 - Pirograbador a ga en Amazon'
 date: 2020-01-02 18:50:57
 comments: true
 tags: B000QGC6XW

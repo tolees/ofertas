@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JGZWRBS: Rebaja en Tablet 10 Pulgadas  Tablet Android 5G Wi en Amazon
+title: 'B07JGZWRBS: Rebaja en Tablet 10 Pulgadas  Tablet Android 5G Wi en Amazon'
 date: 2019/12/13 22:32:36 +0000
 comments: true
 tags: B07JGZWRBS

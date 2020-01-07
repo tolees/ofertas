@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KPXH68Z: Ahorra en Fantasyworld SJ60 Impermeable 2.0" LCD 4
+title: 'B07KPXH68Z: Ahorra en Fantasyworld SJ60 Impermeable 2.0" LCD 4'
 date: 2020-01-03 13:16:52
 comments: true
 tags: B07KPXH68Z

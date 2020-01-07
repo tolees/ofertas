@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KR9RH3Q: Ahorra en New Balance 624v5  Zapatillas Deportivas
+title: 'B07KR9RH3Q: Ahorra en New Balance 624v5  Zapatillas Deportivas'
 date: 2020-01-02 10:29:22
 comments: true
 tags: B07KR9RH3Q

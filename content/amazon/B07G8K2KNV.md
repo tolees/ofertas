@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07G8K2KNV: Ahorra en Russell Hobbs Victory - Hervidor de Agua
+title: 'B07G8K2KNV: Ahorra en Russell Hobbs Victory - Hervidor de Agua'
 date: 2019/12/23 08:06:06 +0000
 comments: true
 tags: B07G8K2KNV

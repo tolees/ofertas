@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01BSO6LKY: Ahorra en Philips S3110/06 - Afeitadora eléctrica 
+title: 'B01BSO6LKY: Ahorra en Philips S3110/06 - Afeitadora eléctrica '
 date: 2019/12/23 21:36:54 +0000
 comments: true
 tags: B01BSO6LKY

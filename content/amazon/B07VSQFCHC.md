@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07VSQFCHC: Rebaja en LUDOS Clamor Auriculares con Micrófono y en Amazon
+title: 'B07VSQFCHC: Rebaja en LUDOS Clamor Auriculares con Micrófono y en Amazon'
 date: 2019/12/24 09:50:09 +0000
 comments: true
 tags: B07VSQFCHC

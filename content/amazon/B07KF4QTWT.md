@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KF4QTWT: Rebaja en Levi s 510 Skinny Fit  Vaqueros para Hom en Amazon
+title: 'B07KF4QTWT: Rebaja en Levi s 510 Skinny Fit  Vaqueros para Hom en Amazon'
 date: 2020-01-06 21:22:37
 comments: true
 tags: B07KF4QTWT

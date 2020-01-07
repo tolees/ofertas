@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B007FDSPF2: Ahorra en Twister - Hasbro Gaming  Hasbro 98831175
+title: 'B007FDSPF2: Ahorra en Twister - Hasbro Gaming  Hasbro 98831175'
 date: 2020-01-01 12:10:27
 comments: true
 tags: B007FDSPF2

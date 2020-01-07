@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07TZR9CBV: Ahorra en Herramientas oscilantes  GALAX PRO 400W 
+title: 'B07TZR9CBV: Ahorra en Herramientas oscilantes  GALAX PRO 400W '
 date: 2020-01-02 17:44:44
 comments: true
 tags: B07TZR9CBV

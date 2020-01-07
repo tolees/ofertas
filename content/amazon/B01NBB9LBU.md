@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01NBB9LBU: Ahorra en Wrangler Greensboro Regular Jeans Vaquer
+title: 'B01NBB9LBU: Ahorra en Wrangler Greensboro Regular Jeans Vaquer'
 date: 2019/12/27 11:47:31 +0000
 comments: true
 tags: B01NBB9LBU

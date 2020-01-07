@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01D9KX8KG: Ahorra en SALCAR Carcasa USB 3.0 para Discos Duros
+title: 'B01D9KX8KG: Ahorra en SALCAR Carcasa USB 3.0 para Discos Duros'
 date: 2020-01-02 18:23:21
 comments: true
 tags: B01D9KX8KG

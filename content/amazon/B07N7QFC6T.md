@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07N7QFC6T: Rebaja en keeeper Fredo Fresh Fiambreras  PP  Azul en Amazon
+title: 'B07N7QFC6T: Rebaja en keeeper Fredo Fresh Fiambreras  PP  Azul en Amazon'
 date: 2019/12/27 08:07:10 +0000
 comments: true
 tags: B07N7QFC6T

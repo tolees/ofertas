@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07S6KMQMT: Rebaja en HP Pavilion Gaming 15-dk0007ng  15 6 Zol en Amazon
+title: 'B07S6KMQMT: Rebaja en HP Pavilion Gaming 15-dk0007ng  15 6 Zol en Amazon'
 date: 2020-01-06 16:08:29
 comments: true
 tags: B07S6KMQMT

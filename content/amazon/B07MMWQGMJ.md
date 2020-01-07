@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MMWQGMJ: Ahorra en Wrangler Greensboro Vaqueros  Azul  Ice 
+title: 'B07MMWQGMJ: Ahorra en Wrangler Greensboro Vaqueros  Azul  Ice '
 date: 2020-01-06 22:55:39
 comments: true
 tags: B07MMWQGMJ

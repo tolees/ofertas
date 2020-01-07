@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GYQ46NM: Ahorra en Netgear Orbi RBS40V-100EUS Voice Mesh WL
+title: 'B07GYQ46NM: Ahorra en Netgear Orbi RBS40V-100EUS Voice Mesh WL'
 date: 2019/12/11 19:54:11 +0000
 comments: true
 tags: B07GYQ46NM

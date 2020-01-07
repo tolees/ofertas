@@ -1,19 +1,18 @@
 ---
 layout: post
-title: B07K9FLGCF: Rebaja en LEGO Star Wars 75253  BOOST Droide  App- en Amazon
+title: 'B07K9FLGCF - Ofertón en Amazon para LEGO Star Wars 75253  BOOST Droide  App-'
 date: 2020-01-05 22:43:44
 comments: true
-tags: B07K9FLGCF
 category: ofertas
 author: ring
 slug: B07K9FLGCF
 description:
 ---
 
-Está [LEGO Star Wars 75253  BOOST Droide  App-gesteuerte und programmierbare Roboter  Programmierset für Kinder  Roboterspielzeug](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20) por 124.8 EUR (original: 199.99 EUR) en el siguiente enlace!
+Tienes [LEGO Star Wars 75253  BOOST Droide  App-gesteuerte und programmierbare Roboter  Programmierset für Kinder  Roboterspielzeug](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20) a precio de oferta de 124.8 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513riy2qpvL._SL200_.jpg)](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

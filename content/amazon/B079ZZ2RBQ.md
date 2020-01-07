@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B079ZZ2RBQ: Ahorra en VAIRO Short Columns XXL
+title: 'B079ZZ2RBQ: Ahorra en VAIRO Short Columns XXL'
 date: 2019-12-31 19:41:31
 comments: true
 tags: B079ZZ2RBQ

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JWX1FJP: Rebaja en Columbia Ivo Trail  Zapatillas para Homb en Amazon
+title: 'B07JWX1FJP: Rebaja en Columbia Ivo Trail  Zapatillas para Homb en Amazon'
 date: 2020-01-07 08:08:55
 comments: true
 tags: B07JWX1FJP

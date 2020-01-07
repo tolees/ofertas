@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07YDCC68B: Rebaja en Memoria USB 3.0 32GB Moreslan Pen Drive  en Amazon
+title: 'B07YDCC68B: Rebaja en Memoria USB 3.0 32GB Moreslan Pen Drive  en Amazon'
 date: 2019/12/15 23:02:59 +0000
 comments: true
 tags: B07YDCC68B

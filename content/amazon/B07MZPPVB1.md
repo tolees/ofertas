@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MZPPVB1: Rebaja en Funko- Pop Vinilo: Spongebob Squarepants en Amazon
+title: 'B07MZPPVB1: Rebaja en Funko- Pop Vinilo: Spongebob Squarepants en Amazon'
 date: 2019/12/14 16:48:40 +0000
 comments: true
 tags: B07MZPPVB1

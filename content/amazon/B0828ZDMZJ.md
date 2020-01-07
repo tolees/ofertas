@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0828ZDMZJ: Rebaja en GODNECE Build Truck RC Models  Truck Mod en Amazon
+title: 'B0828ZDMZJ: Rebaja en GODNECE Build Truck RC Models  Truck Mod en Amazon'
 date: 2020-01-02 06:12:32
 comments: true
 tags: B0828ZDMZJ

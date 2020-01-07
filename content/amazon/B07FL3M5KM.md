@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FL3M5KM: Rebaja en BLEND Outerwear Chaqueta  Blau  Dark Nav en Amazon
+title: 'B07FL3M5KM: Rebaja en BLEND Outerwear Chaqueta  Blau  Dark Nav en Amazon'
 date: 2019/12/24 13:01:38 +0000
 comments: true
 tags: B07FL3M5KM

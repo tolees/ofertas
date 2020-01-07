@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01IJZQXT4: Ahorra en Philips SB300B/00 - Altavoz Bluetooth po
+title: 'B01IJZQXT4: Ahorra en Philips SB300B/00 - Altavoz Bluetooth po'
 date: 2020-01-04 15:16:42
 comments: true
 tags: B01IJZQXT4

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07CJXHK79: Rebaja en MARNUR Báscula Digital Báscula de Grasa  en Amazon
+title: 'B07CJXHK79: Rebaja en MARNUR Báscula Digital Báscula de Grasa  en Amazon'
 date: 2019/12/23 08:25:11 +0000
 comments: true
 tags: B07CJXHK79

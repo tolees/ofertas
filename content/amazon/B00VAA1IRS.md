@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00VAA1IRS: Ahorra en Philips HF3506/05 Wake-up Light LED  Auf
+title: 'B00VAA1IRS: Ahorra en Philips HF3506/05 Wake-up Light LED  Auf'
 date: 2019/12/12 00:34:38 +0000
 comments: true
 tags: B00VAA1IRS

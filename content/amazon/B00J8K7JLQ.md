@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00J8K7JLQ: Rebaja en Bourjois Velvet Barra de Labios Líquida  en Amazon
+title: 'B00J8K7JLQ: Rebaja en Bourjois Velvet Barra de Labios Líquida  en Amazon'
 date: 2019/12/19 22:38:02 +0000
 comments: true
 tags: B00J8K7JLQ

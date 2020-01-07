@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MSRJ11J: Rebaja en HP 27fwa - Monitor Full HD de 27"  1920  en Amazon
+title: 'B07MSRJ11J: Rebaja en HP 27fwa - Monitor Full HD de 27"  1920  en Amazon'
 date: 2019/12/27 12:22:11 +0000
 comments: true
 tags: B07MSRJ11J

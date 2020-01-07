@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FTKG12X: Ahorra en Lee Brooklyn Vaqueros Straight  Azul  Da
+title: 'B07FTKG12X: Ahorra en Lee Brooklyn Vaqueros Straight  Azul  Da'
 date: 2020-01-02 18:12:51
 comments: true
 tags: B07FTKG12X

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00DR5NP1G: Rebaja en Lee Luke Vaqueros  Clean Black  28W / 34 en Amazon
+title: 'B00DR5NP1G: Rebaja en Lee Luke Vaqueros  Clean Black  28W / 34 en Amazon'
 date: 2019/12/12 02:41:00 +0000
 comments: true
 tags: B00DR5NP1G

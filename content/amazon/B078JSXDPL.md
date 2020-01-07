@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B078JSXDPL: Ahorra en ghd gold styler - Plancha de pelo profes
+title: 'B078JSXDPL: Ahorra en ghd gold styler - Plancha de pelo profes'
 date: 2020-01-07 10:12:42
 comments: true
 tags: B078JSXDPL

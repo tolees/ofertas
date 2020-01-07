@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06XBLS9B4: Ahorra en HUAWEI Watch 2  Bluetooth  Smartwatch mi
+title: 'B06XBLS9B4: Ahorra en HUAWEI Watch 2  Bluetooth  Smartwatch mi'
 date: 2019/12/28 21:14:29 +0000
 comments: true
 tags: B06XBLS9B4

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00WB1PI5S: Ahorra en DeWalt XR Akku-Schlagschrauber DCF899NT 
+title: 'B00WB1PI5S: Ahorra en DeWalt XR Akku-Schlagschrauber DCF899NT '
 date: 2020-01-02 10:22:25
 comments: true
 tags: B00WB1PI5S

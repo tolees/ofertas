@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07G8SKT1H: Ahorra en HUION H610PRO V2 Battery-free Pen Graphi
+title: 'B07G8SKT1H: Ahorra en HUION H610PRO V2 Battery-free Pen Graphi'
 date: 2019/12/20 00:24:52 +0000
 comments: true
 tags: B07G8SKT1H

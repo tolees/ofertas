@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B079FYJFLD: Rebaja en Samsung Hyperknit - Funda para Galaxy S9 en Amazon
+title: 'B079FYJFLD: Rebaja en Samsung Hyperknit - Funda para Galaxy S9 en Amazon'
 date: 2019/12/30 12:22:42 +0000
 comments: true
 tags: B079FYJFLD

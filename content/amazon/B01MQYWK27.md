@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01MQYWK27: Rebaja en Prodigiosa: Las aventuras de Ladybug - P en Amazon
+title: 'B01MQYWK27: Rebaja en Prodigiosa: Las aventuras de Ladybug - P en Amazon'
 date: 2020-01-01 19:56:13
 comments: true
 tags: B01MQYWK27

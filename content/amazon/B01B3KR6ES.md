@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01B3KR6ES: Ahorra en DIM Generous Minimizer Sujetador Reducto
+title: 'B01B3KR6ES: Ahorra en DIM Generous Minimizer Sujetador Reducto'
 date: 2020-01-05 13:04:12
 comments: true
 tags: B01B3KR6ES

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B077TRDGLG: Rebaja en find. Vestido Cruzado Mujer  Negro  Blac en Amazon
+title: 'B077TRDGLG: Rebaja en find. Vestido Cruzado Mujer  Negro  Blac en Amazon'
 date: 2019/12/29 13:29:48 +0000
 comments: true
 tags: B077TRDGLG

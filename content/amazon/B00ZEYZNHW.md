@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00ZEYZNHW: Ahorra en Street Fighter V
+title: 'B00ZEYZNHW: Ahorra en Street Fighter V'
 date: 2020-01-05 10:46:06
 comments: true
 tags: B00ZEYZNHW

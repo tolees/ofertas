@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KRM5XKZ: Ahorra en New Balance 247v2  Zapatillas para Hombr
+title: 'B07KRM5XKZ: Ahorra en New Balance 247v2  Zapatillas para Hombr'
 date: 2019/12/27 07:03:22 +0000
 comments: true
 tags: B07KRM5XKZ

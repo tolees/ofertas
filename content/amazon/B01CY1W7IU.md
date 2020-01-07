@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01CY1W7IU: Ahorra en HUION Inalámbrico Tableta Gráfica  WH140
+title: 'B01CY1W7IU: Ahorra en HUION Inalámbrico Tableta Gráfica  WH140'
 date: 2020-01-01 06:18:59
 comments: true
 tags: B01CY1W7IU

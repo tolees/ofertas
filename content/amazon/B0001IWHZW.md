@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0001IWHZW: Rebaja en Black&Decker A6481-XJ - Bobina con Hilo  en Amazon
+title: 'B0001IWHZW: Rebaja en Black&Decker A6481-XJ - Bobina con Hilo  en Amazon'
 date: 2019/12/19 00:28:20 +0000
 comments: true
 tags: B0001IWHZW

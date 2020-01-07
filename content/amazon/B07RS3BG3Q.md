@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RS3BG3Q: Ahorra en LG 49UM7100PLB 49 Inch UHD 4K HDR Smart 
+title: 'B07RS3BG3Q: Ahorra en LG 49UM7100PLB 49 Inch UHD 4K HDR Smart '
 date: 2019/12/16 14:10:18 +0000
 comments: true
 tags: B07RS3BG3Q

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00ULI8CHO: Rebaja en Samsonite Neopulse - Spinner S  Ancho: 2 en Amazon
+title: 'B00ULI8CHO: Rebaja en Samsonite Neopulse - Spinner S  Ancho: 2 en Amazon'
 date: 2020-01-06 10:43:51
 comments: true
 tags: B00ULI8CHO

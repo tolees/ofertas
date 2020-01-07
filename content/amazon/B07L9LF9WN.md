@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07L9LF9WN: Ahorra en YaYuu Gear S3 Frontier/Classic Correa de
+title: 'B07L9LF9WN: Ahorra en YaYuu Gear S3 Frontier/Classic Correa de'
 date: 2020-01-02 17:09:25
 comments: true
 tags: B07L9LF9WN

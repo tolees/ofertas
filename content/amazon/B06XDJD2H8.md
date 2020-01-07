@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06XDJD2H8: Rebaja en Samsung EJ-CG955BBEGDE Keyboard Cover  g en Amazon
+title: 'B06XDJD2H8: Rebaja en Samsung EJ-CG955BBEGDE Keyboard Cover  g en Amazon'
 date: 2019/12/20 10:21:58 +0000
 comments: true
 tags: B06XDJD2H8

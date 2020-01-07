@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GS6ZS8J: Ahorra en Logitech G502 HERO High-Performance Gami
+title: 'B07GS6ZS8J: Ahorra en Logitech G502 HERO High-Performance Gami'
 date: 2019/12/24 19:19:00 +0000
 comments: true
 tags: B07GS6ZS8J

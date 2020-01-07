@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07M6R1BMV: Rebaja en Columbia Lake 22 Chaqueta De Plumón  Hom en Amazon
+title: 'B07M6R1BMV: Rebaja en Columbia Lake 22 Chaqueta De Plumón  Hom en Amazon'
 date: 2019/12/28 10:07:16 +0000
 comments: true
 tags: B07M6R1BMV

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B073WR1SGV: Rebaja en Mando Inalámbrico para Juegos  Maegoo 2. en Amazon
+title: 'B073WR1SGV: Rebaja en Mando Inalámbrico para Juegos  Maegoo 2. en Amazon'
 date: 2020-01-05 14:46:12
 comments: true
 tags: B073WR1SGV

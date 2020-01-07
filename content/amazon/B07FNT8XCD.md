@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FNT8XCD: Ahorra en Lego 41368 Friends Andreas Talentshow  b
+title: 'B07FNT8XCD: Ahorra en Lego 41368 Friends Andreas Talentshow  b'
 date: 2019/12/30 21:45:02 +0000
 comments: true
 tags: B07FNT8XCD

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B004PGM9KY: Ahorra en Logitech Z906 5.1 Surround Sound Speaker
+title: 'B004PGM9KY: Ahorra en Logitech Z906 5.1 Surround Sound Speaker'
 date: 2020-01-01 21:37:26
 comments: true
 tags: B004PGM9KY

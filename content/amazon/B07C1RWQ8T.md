@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07C1RWQ8T: Rebaja en BaByliss Straight and Curl Brilliance Ha en Amazon
+title: 'B07C1RWQ8T: Rebaja en BaByliss Straight and Curl Brilliance Ha en Amazon'
 date: 2019/12/26 20:47:29 +0000
 comments: true
 tags: B07C1RWQ8T

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B079BVKB5F: Rebaja en JACK & JONES Jjepaulos Polo SS Noos  Gri en Amazon
+title: 'B079BVKB5F: Rebaja en JACK & JONES Jjepaulos Polo SS Noos  Gri en Amazon'
 date: 2019/12/29 20:53:51 +0000
 comments: true
 tags: B079BVKB5F

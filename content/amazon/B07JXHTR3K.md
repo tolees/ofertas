@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JXHTR3K: Rebaja en Wrangler Ringer tee Camiseta  Blanco  Wh en Amazon
+title: 'B07JXHTR3K: Rebaja en Wrangler Ringer tee Camiseta  Blanco  Wh en Amazon'
 date: 2019/12/21 14:09:11 +0000
 comments: true
 tags: B07JXHTR3K

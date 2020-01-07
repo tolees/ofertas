@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JXH5TJF: Rebaja en Wrangler Regular Jacket Chaqueta  Azul   en Amazon
+title: 'B07JXH5TJF: Rebaja en Wrangler Regular Jacket Chaqueta  Azul   en Amazon'
 date: 2019/12/13 11:13:03 +0000
 comments: true
 tags: B07JXH5TJF

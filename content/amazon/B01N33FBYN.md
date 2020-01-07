@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01N33FBYN: Rebaja en DC Comics Funko Pop! 12541 Vinyl Wonder  en Amazon
+title: 'B01N33FBYN: Rebaja en DC Comics Funko Pop! 12541 Vinyl Wonder  en Amazon'
 date: 2019/12/19 07:02:34 +0000
 comments: true
 tags: B01N33FBYN

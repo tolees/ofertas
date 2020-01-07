@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B017XAFRS4: Ahorra en Kärcher Pistola pulverizadora  2.645-265
+title: 'B017XAFRS4: Ahorra en Kärcher Pistola pulverizadora  2.645-265'
 date: 2020-01-06 12:02:49
 comments: true
 tags: B017XAFRS4

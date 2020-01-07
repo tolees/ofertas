@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KFY2M9H: Rebaja en PUMA Source Mid Buzzer  Zapatillas Altas en Amazon
+title: 'B07KFY2M9H: Rebaja en PUMA Source Mid Buzzer  Zapatillas Altas en Amazon'
 date: 2020-01-06 11:09:55
 comments: true
 tags: B07KFY2M9H

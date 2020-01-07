@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07PHMBSMT: Rebaja en Memoria USB para iPhone y iPad [MFi Cert en Amazon
+title: 'B07PHMBSMT: Rebaja en Memoria USB para iPhone y iPad [MFi Cert en Amazon'
 date: 2019/12/22 23:21:33 +0000
 comments: true
 tags: B07PHMBSMT

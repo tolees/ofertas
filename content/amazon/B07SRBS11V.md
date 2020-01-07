@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07SRBS11V: Ahorra en Oral-B PRO 2 2000 - Cepillo Eléctrico Re
+title: 'B07SRBS11V: Ahorra en Oral-B PRO 2 2000 - Cepillo Eléctrico Re'
 date: 2019/12/30 07:02:01 +0000
 comments: true
 tags: B07SRBS11V

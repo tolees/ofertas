@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07R7KSGTQ: Ahorra en 4 Piezas 64GB USB 3.0 ENUODA Pendrive Pi
+title: 'B07R7KSGTQ: Ahorra en 4 Piezas 64GB USB 3.0 ENUODA Pendrive Pi'
 date: 2020-01-05 09:56:28
 comments: true
 tags: B07R7KSGTQ

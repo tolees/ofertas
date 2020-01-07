@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01H1QKDMA: Rebaja en KLIMTM Fusion - Auriculares con micrófon en Amazon
+title: 'B01H1QKDMA: Rebaja en KLIMTM Fusion - Auriculares con micrófon en Amazon'
 date: 2020-01-03 11:55:58
 comments: true
 tags: B01H1QKDMA

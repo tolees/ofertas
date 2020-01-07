@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BPLMSMC: Rebaja en Jura 10 Year Old Single Malt Whisky  70  en Amazon
+title: 'B07BPLMSMC: Rebaja en Jura 10 Year Old Single Malt Whisky  70  en Amazon'
 date: 2019/12/12 20:46:17 +0000
 comments: true
 tags: B07BPLMSMC

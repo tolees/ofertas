@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B074H5LYTZ: Ahorra en Russell Hobbs Light & Easy Brights - Pla
+title: 'B074H5LYTZ: Ahorra en Russell Hobbs Light & Easy Brights - Pla'
 date: 2019/12/20 14:49:55 +0000
 comments: true
 tags: B074H5LYTZ

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07LFGV2QG: Ahorra en Levi s 514 Vaqueros Straight  Azul  Appl
+title: 'B07LFGV2QG: Ahorra en Levi s 514 Vaqueros Straight  Azul  Appl'
 date: 2020-01-05 18:23:58
 comments: true
 tags: B07LFGV2QG

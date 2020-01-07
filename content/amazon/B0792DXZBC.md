@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0792DXZBC: Rebaja en Geox J Xunday Boy A  Botas Chukka para N en Amazon
+title: 'B0792DXZBC: Rebaja en Geox J Xunday Boy A  Botas Chukka para N en Amazon'
 date: 2020-01-02 18:42:13
 comments: true
 tags: B0792DXZBC

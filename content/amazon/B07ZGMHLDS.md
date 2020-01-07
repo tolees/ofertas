@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07ZGMHLDS: Ahorra en Auriculares Bluetooth  SYOSIN TWS Auricu
+title: 'B07ZGMHLDS: Ahorra en Auriculares Bluetooth  SYOSIN TWS Auricu'
 date: 2020-01-06 11:13:35
 comments: true
 tags: B07ZGMHLDS

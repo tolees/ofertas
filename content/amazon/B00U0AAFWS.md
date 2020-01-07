@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00U0AAFWS: Ahorra en Panasonic Lumix DC-TZ70 - Cámara Compact
+title: 'B00U0AAFWS: Ahorra en Panasonic Lumix DC-TZ70 - Cámara Compact'
 date: 2019/12/16 09:08:37 +0000
 comments: true
 tags: B00U0AAFWS

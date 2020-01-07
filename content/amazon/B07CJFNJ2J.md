@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07CJFNJ2J: Rebaja en REPLAY Grover Vaqueros Straight  Azul  D en Amazon
+title: 'B07CJFNJ2J: Rebaja en REPLAY Grover Vaqueros Straight  Azul  D en Amazon'
 date: 2019/12/17 11:10:36 +0000
 comments: true
 tags: B07CJFNJ2J

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07NFK1HV6: Ahorra en STANLEY FATMAX FMC627D2SA-QW - Taladro p
+title: 'B07NFK1HV6: Ahorra en STANLEY FATMAX FMC627D2SA-QW - Taladro p'
 date: 2019/12/29 15:33:03 +0000
 comments: true
 tags: B07NFK1HV6

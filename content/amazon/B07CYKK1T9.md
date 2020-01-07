@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07CYKK1T9: Rebaja en NOBES Tableta de Escritura LCD 8.5 Inch  en Amazon
+title: 'B07CYKK1T9: Rebaja en NOBES Tableta de Escritura LCD 8.5 Inch  en Amazon'
 date: 2020-01-02 09:22:21
 comments: true
 tags: B07CYKK1T9

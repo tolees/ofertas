@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B07K3FNMBT - Ofertón en Amazon para The Dark Pictures: Man Of Medan for Xbox'
+title: 'B07K3FNMBT: Ahorra en The Dark Pictures: Man Of Medan for Xbox'
 date: 2019/12/18 14:57:06 +0000
 comments: true
+tags: B07K3FNMBT
 category: ofertas
 author: ring
 slug: B07K3FNMBT
 description:
 ---
 
-Tienes [The Dark Pictures: Man Of Medan for Xbox One](https://www.amazon.com/dp/B07K3FNMBT/?tag=redken08-20) a precio de oferta de 18.67 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [The Dark Pictures: Man Of Medan for Xbox One](https://www.amazon.com/dp/B07K3FNMBT/?tag=redken08-20) a 18.67 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517loSX4vML._SL200_.jpg)](https://www.amazon.com/dp/B07K3FNMBT/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07K3FNMBT/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07K3FNMBT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

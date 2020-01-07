@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07H7TFQCS: Rebaja en OPTOMA TECHNOLOGY LV130 - Proyector LED  en Amazon
+title: 'B07H7TFQCS: Rebaja en OPTOMA TECHNOLOGY LV130 - Proyector LED  en Amazon'
 date: 2019/12/26 10:40:59 +0000
 comments: true
 tags: B07H7TFQCS

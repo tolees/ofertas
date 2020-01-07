@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00LPLDERE: Rebaja en L Oréal Paris - Infallible 24H  Maquilla en Amazon
+title: 'B00LPLDERE: Rebaja en L Oréal Paris - Infallible 24H  Maquilla en Amazon'
 date: 2019/12/13 09:12:59 +0000
 comments: true
 tags: B00LPLDERE

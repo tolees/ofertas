@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FTJC59X: Rebaja en BONAI Bateria Externa Wireless 12000mAh  en Amazon
+title: 'B07FTJC59X: Rebaja en BONAI Bateria Externa Wireless 12000mAh  en Amazon'
 date: 2019/12/28 07:49:32 +0000
 comments: true
 tags: B07FTJC59X

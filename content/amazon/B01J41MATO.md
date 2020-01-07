@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01J41MATO: Rebaja en LEGO Nexo Knights 70372 - Combo Kräfte S en Amazon
+title: 'B01J41MATO: Rebaja en LEGO Nexo Knights 70372 - Combo Kräfte S en Amazon'
 date: 2019/12/23 00:52:03 +0000
 comments: true
 tags: B01J41MATO

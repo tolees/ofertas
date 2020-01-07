@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B009RUKXT2: Ahorra en Johnnie Walker Blue Whisky Escocés - 700
+title: 'B009RUKXT2: Ahorra en Johnnie Walker Blue Whisky Escocés - 700'
 date: 2019-12-31 19:33:48
 comments: true
 tags: B009RUKXT2

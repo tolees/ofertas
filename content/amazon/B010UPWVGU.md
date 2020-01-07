@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B010UPWVGU: Ahorra en Garmin eTrex Touch 35 Fahrrad-Outdoor-Na
+title: 'B010UPWVGU: Ahorra en Garmin eTrex Touch 35 Fahrrad-Outdoor-Na'
 date: 2019/12/14 09:06:45 +0000
 comments: true
 tags: B010UPWVGU

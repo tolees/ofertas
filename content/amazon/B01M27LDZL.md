@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01M27LDZL: Rebaja en Dunlop OMEGA - Pala de pádel 38mm  2017  en Amazon
+title: 'B01M27LDZL: Rebaja en Dunlop OMEGA - Pala de pádel 38mm  2017  en Amazon'
 date: 2019/12/29 17:20:09 +0000
 comments: true
 tags: B01M27LDZL

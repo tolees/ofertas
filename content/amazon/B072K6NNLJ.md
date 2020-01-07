@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B072K6NNLJ: Ahorra en Apple Magic Keyboard con teclado numéric
+title: 'B072K6NNLJ: Ahorra en Apple Magic Keyboard con teclado numéric'
 date: 2019/12/25 16:02:56 +0000
 comments: true
 tags: B072K6NNLJ

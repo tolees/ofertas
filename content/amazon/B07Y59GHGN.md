@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07Y59GHGN: Ahorra en Tablet 10 Pulgadas YOTOPT  4GB de RAM y 
+title: 'B07Y59GHGN: Ahorra en Tablet 10 Pulgadas YOTOPT  4GB de RAM y '
 date: 2019/12/14 21:32:59 +0000
 comments: true
 tags: B07Y59GHGN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B078SWJ3CF: Rebaja en SanDisk Extreme  Portable SSD  hasta 550 en Amazon
+title: 'B078SWJ3CF: Rebaja en SanDisk Extreme  Portable SSD  hasta 550 en Amazon'
 date: 2020-01-05 09:55:40
 comments: true
 tags: B078SWJ3CF

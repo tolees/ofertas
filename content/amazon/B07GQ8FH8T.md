@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GQ8FH8T: Ahorra en Bosch TAS1006 Tassimo Happy Cafetera Mon
+title: 'B07GQ8FH8T: Ahorra en Bosch TAS1006 Tassimo Happy Cafetera Mon'
 date: 2020-01-06 16:34:30
 comments: true
 tags: B07GQ8FH8T

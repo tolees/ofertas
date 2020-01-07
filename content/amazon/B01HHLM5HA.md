@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01HHLM5HA: Ahorra en Puzle coloreable 20 piezas. Frozen  Puzl
+title: 'B01HHLM5HA: Ahorra en Puzle coloreable 20 piezas. Frozen  Puzl'
 date: 2020-01-06 14:26:01
 comments: true
 tags: B01HHLM5HA

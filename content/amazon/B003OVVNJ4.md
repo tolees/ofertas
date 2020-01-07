@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B003OVVNJ4: Ahorra en Blecua - Vino D.O. Somontano - 750 ml
+title: 'B003OVVNJ4: Ahorra en Blecua - Vino D.O. Somontano - 750 ml'
 date: 2019/12/18 08:09:57 +0000
 comments: true
 tags: B003OVVNJ4

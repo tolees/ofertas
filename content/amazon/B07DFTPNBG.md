@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07DFTPNBG: Ahorra en Calvin Klein Thong Tanga  Negro  Black 0
+title: 'B07DFTPNBG: Ahorra en Calvin Klein Thong Tanga  Negro  Black 0'
 date: 2020-01-06 19:25:39
 comments: true
 tags: B07DFTPNBG

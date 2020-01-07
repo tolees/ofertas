@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07SBKQKY9: Rebaja en AmazonBasics Cable HDMI 1.4b  182 8 cm   en Amazon
+title: 'B07SBKQKY9: Rebaja en AmazonBasics Cable HDMI 1.4b  182 8 cm   en Amazon'
 date: 2020-01-06 16:05:25
 comments: true
 tags: B07SBKQKY9

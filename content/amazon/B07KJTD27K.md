@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KJTD27K: Rebaja en El Naturalista N5156 VAQUETILLA Trivia   en Amazon
+title: 'B07KJTD27K: Rebaja en El Naturalista N5156 VAQUETILLA Trivia   en Amazon'
 date: 2019/12/12 15:35:22 +0000
 comments: true
 tags: B07KJTD27K

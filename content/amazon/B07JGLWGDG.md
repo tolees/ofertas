@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JGLWGDG: Rebaja en Energy Smart Speaker 5 Altavoz Inteligen en Amazon
+title: 'B07JGLWGDG: Rebaja en Energy Smart Speaker 5 Altavoz Inteligen en Amazon'
 date: 2020-01-06 10:40:31
 comments: true
 tags: B07JGLWGDG

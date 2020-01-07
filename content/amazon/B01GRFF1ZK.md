@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01GRFF1ZK: Ahorra en WD My Cloud PR2100 4 TB - Network Attach
+title: 'B01GRFF1ZK: Ahorra en WD My Cloud PR2100 4 TB - Network Attach'
 date: 2019/12/26 13:15:50 +0000
 comments: true
 tags: B01GRFF1ZK

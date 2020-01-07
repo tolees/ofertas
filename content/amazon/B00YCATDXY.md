@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00YCATDXY: Ahorra en Crock-Pot AutoStir CSC012X Olla de cocci
+title: 'B00YCATDXY: Ahorra en Crock-Pot AutoStir CSC012X Olla de cocci'
 date: 2020-01-07 11:07:31
 comments: true
 tags: B00YCATDXY

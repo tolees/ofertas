@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00HUHNCB0: Ahorra en Weber 1126704 - Barbacoa Weber Smokey Jo
+title: 'B00HUHNCB0: Ahorra en Weber 1126704 - Barbacoa Weber Smokey Jo'
 date: 2019/12/21 14:35:37 +0000
 comments: true
 tags: B00HUHNCB0

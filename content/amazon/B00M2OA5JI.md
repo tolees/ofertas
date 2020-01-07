@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00M2OA5JI: Ahorra en Cybex Silver Solution X2-Fix - Silla de 
+title: 'B00M2OA5JI: Ahorra en Cybex Silver Solution X2-Fix - Silla de '
 date: 2020-01-02 15:07:17
 comments: true
 tags: B00M2OA5JI

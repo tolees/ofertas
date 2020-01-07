@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RFYRRMF: Rebaja en G-STAR RAW Revend Skinny Vaqueros  Antic en Amazon
+title: 'B07RFYRRMF: Rebaja en G-STAR RAW Revend Skinny Vaqueros  Antic en Amazon'
 date: 2019/12/28 08:23:48 +0000
 comments: true
 tags: B07RFYRRMF

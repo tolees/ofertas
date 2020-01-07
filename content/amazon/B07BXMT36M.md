@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BXMT36M: Ahorra en Mini Proyector  Tenswall Portátil DLP Vi
+title: 'B07BXMT36M: Ahorra en Mini Proyector  Tenswall Portátil DLP Vi'
 date: 2020-01-02 20:14:30
 comments: true
 tags: B07BXMT36M

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01KHHC3K0: Rebaja en Yamaha MusicCast R-N402D - Receptor esté en Amazon
+title: 'B01KHHC3K0: Rebaja en Yamaha MusicCast R-N402D - Receptor esté en Amazon'
 date: 2019/12/16 00:30:19 +0000
 comments: true
 tags: B01KHHC3K0

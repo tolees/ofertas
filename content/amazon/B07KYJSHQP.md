@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KYJSHQP: Rebaja en EASYCEL 60M HDMI Extender Transmitter an en Amazon
+title: 'B07KYJSHQP: Rebaja en EASYCEL 60M HDMI Extender Transmitter an en Amazon'
 date: 2020-01-06 16:16:11
 comments: true
 tags: B07KYJSHQP

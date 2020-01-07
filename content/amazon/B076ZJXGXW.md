@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B076ZJXGXW: Rebaja en 1mii Receptor Bluetooth  Adaptador de Au en Amazon
+title: 'B076ZJXGXW: Rebaja en 1mii Receptor Bluetooth  Adaptador de Au en Amazon'
 date: 2020-01-02 16:16:35
 comments: true
 tags: B076ZJXGXW

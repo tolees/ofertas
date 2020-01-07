@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07VFDGBHV: Rebaja en WAVLINK 1200Mbps Dual Band Smart WiFi 2  en Amazon
+title: 'B07VFDGBHV: Rebaja en WAVLINK 1200Mbps Dual Band Smart WiFi 2  en Amazon'
 date: 2019/12/30 01:35:33 +0000
 comments: true
 tags: B07VFDGBHV

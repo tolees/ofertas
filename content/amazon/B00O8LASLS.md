@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00O8LASLS: Rebaja en Onkyo CS-265 B  CD HiFi Minisystem  CD P en Amazon
+title: 'B00O8LASLS: Rebaja en Onkyo CS-265 B  CD HiFi Minisystem  CD P en Amazon'
 date: 2019/12/19 10:21:34 +0000
 comments: true
 tags: B00O8LASLS

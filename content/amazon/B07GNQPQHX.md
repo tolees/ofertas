@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GNQPQHX: Rebaja en AmazonBasics Maleta  diseño geométrico   en Amazon
+title: 'B07GNQPQHX: Rebaja en AmazonBasics Maleta  diseño geométrico   en Amazon'
 date: 2019/12/26 10:35:48 +0000
 comments: true
 tags: B07GNQPQHX

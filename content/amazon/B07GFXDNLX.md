@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GFXDNLX: Ahorra en Sony WF-SP900B - Auriculares Deportivos 
+title: 'B07GFXDNLX: Ahorra en Sony WF-SP900B - Auriculares Deportivos '
 date: 2019/12/15 14:02:23 +0000
 comments: true
 tags: B07GFXDNLX

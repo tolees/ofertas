@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B078W6JNKF: Ahorra en Corsair Dark Core RGB SE - Ratón óptico 
+title: 'B078W6JNKF: Ahorra en Corsair Dark Core RGB SE - Ratón óptico '
 date: 2019/12/19 07:05:18 +0000
 comments: true
 tags: B078W6JNKF

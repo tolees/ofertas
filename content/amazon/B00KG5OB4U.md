@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00KG5OB4U: Rebaja en Love2Wait Sophia Pantalones  Negro  Schw en Amazon
+title: 'B00KG5OB4U: Rebaja en Love2Wait Sophia Pantalones  Negro  Schw en Amazon'
 date: 2020-01-07 12:06:30
 comments: true
 tags: B00KG5OB4U

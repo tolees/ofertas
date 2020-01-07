@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B078BNYJHR: Ahorra en Canton DM5 Soundbar - Black Glass
+title: 'B078BNYJHR: Ahorra en Canton DM5 Soundbar - Black Glass'
 date: 2019/12/25 15:19:58 +0000
 comments: true
 tags: B078BNYJHR

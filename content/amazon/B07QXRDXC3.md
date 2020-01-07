@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07QXRDXC3: Ahorra en GALAX PRO Taladro Atornillador  20V Bate
+title: 'B07QXRDXC3: Ahorra en GALAX PRO Taladro Atornillador  20V Bate'
 date: 2019/12/21 18:30:48 +0000
 comments: true
 tags: B07QXRDXC3

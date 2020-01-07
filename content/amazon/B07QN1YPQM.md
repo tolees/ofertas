@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07QN1YPQM: Ahorra en HolyHigh Auriculares Bluetooth 5.0 Auric
+title: 'B07QN1YPQM: Ahorra en HolyHigh Auriculares Bluetooth 5.0 Auric'
 date: 2019-12-31 15:35:02
 comments: true
 tags: B07QN1YPQM

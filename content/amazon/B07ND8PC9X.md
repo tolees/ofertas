@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07ND8PC9X: Ahorra en Samsung Galaxy S10+ - Smartphone de 6.4"
+title: 'B07ND8PC9X: Ahorra en Samsung Galaxy S10+ - Smartphone de 6.4"'
 date: 2019/12/14 06:45:08 +0000
 comments: true
 tags: B07ND8PC9X

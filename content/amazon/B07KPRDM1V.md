@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KPRDM1V: Ahorra en GANT Herren O1. The Panel Down Vest Outd
+title: 'B07KPRDM1V: Ahorra en GANT Herren O1. The Panel Down Vest Outd'
 date: 2020-01-03 11:54:38
 comments: true
 tags: B07KPRDM1V

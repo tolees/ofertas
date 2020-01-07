@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JQ57SFT: Rebaja en Belkin F8J235VFBLK drahtlose Ladestation en Amazon
+title: 'B07JQ57SFT: Rebaja en Belkin F8J235VFBLK drahtlose Ladestation en Amazon'
 date: 2019/12/15 19:12:55 +0000
 comments: true
 tags: B07JQ57SFT

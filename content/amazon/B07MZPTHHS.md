@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MZPTHHS: Ahorra en Pepe Jeans Soho Vaqueros  Old Navy  27W 
+title: 'B07MZPTHHS: Ahorra en Pepe Jeans Soho Vaqueros  Old Navy  27W '
 date: 2019/12/17 17:15:19 +0000
 comments: true
 tags: B07MZPTHHS

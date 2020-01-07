@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B072PRPGR8: Rebaja en Acer Switch 5  SW512-52-5819  30 48 cm   en Amazon
+title: 'B072PRPGR8: Rebaja en Acer Switch 5  SW512-52-5819  30 48 cm   en Amazon'
 date: 2019/12/15 12:42:11 +0000
 comments: true
 tags: B072PRPGR8

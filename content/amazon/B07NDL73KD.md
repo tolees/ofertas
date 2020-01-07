@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07NDL73KD: Ahorra en G-STAR RAW Graphic 22 Optic Slim Round N
+title: 'B07NDL73KD: Ahorra en G-STAR RAW Graphic 22 Optic Slim Round N'
 date: 2020-01-03 20:03:58
 comments: true
 tags: B07NDL73KD

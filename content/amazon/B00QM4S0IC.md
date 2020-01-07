@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00QM4S0IC: Rebaja en Ultimate Ears Megaboom - Altavoz portáti en Amazon
+title: 'B00QM4S0IC: Rebaja en Ultimate Ears Megaboom - Altavoz portáti en Amazon'
 date: 2019/12/28 15:16:54 +0000
 comments: true
 tags: B00QM4S0IC

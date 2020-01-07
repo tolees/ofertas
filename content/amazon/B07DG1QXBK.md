@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07DG1QXBK: Rebaja en Sharp LC-55UI8652E - UHD Smart TV Slim d en Amazon
+title: 'B07DG1QXBK: Rebaja en Sharp LC-55UI8652E - UHD Smart TV Slim d en Amazon'
 date: 2019/12/20 20:22:06 +0000
 comments: true
 tags: B07DG1QXBK

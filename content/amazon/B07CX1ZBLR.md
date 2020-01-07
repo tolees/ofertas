@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07CX1ZBLR: Rebaja en Belkin drahtloser Boost Up Ladeständer   en Amazon
+title: 'B07CX1ZBLR: Rebaja en Belkin drahtloser Boost Up Ladeständer   en Amazon'
 date: 2019/12/31 11:50:35 +0000
 comments: true
 tags: B07CX1ZBLR

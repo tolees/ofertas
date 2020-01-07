@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0719QNMLW: Rebaja en NAKOSITE SB2433 Reloj inteligente mujer  en Amazon
+title: 'B0719QNMLW: Rebaja en NAKOSITE SB2433 Reloj inteligente mujer  en Amazon'
 date: 2019/12/28 18:59:31 +0000
 comments: true
 tags: B0719QNMLW

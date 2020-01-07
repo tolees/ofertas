@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MC4BM5M: Rebaja en Scotch & Soda Maison Classic Tailored Bl en Amazon
+title: 'B07MC4BM5M: Rebaja en Scotch & Soda Maison Classic Tailored Bl en Amazon'
 date: 2019/12/28 21:47:13 +0000
 comments: true
 tags: B07MC4BM5M

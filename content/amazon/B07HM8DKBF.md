@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07HM8DKBF: Ahorra en Torre Sonido PRIMUX TW02 Bass
+title: 'B07HM8DKBF: Ahorra en Torre Sonido PRIMUX TW02 Bass'
 date: 2019/12/11 21:05:22 +0000
 comments: true
 tags: B07HM8DKBF

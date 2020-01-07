@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07HRXBPMB: Rebaja en Lenovo Tab E7 - Tablet de 7" HD  Procesa en Amazon
+title: 'B07HRXBPMB: Rebaja en Lenovo Tab E7 - Tablet de 7" HD  Procesa en Amazon'
 date: 2019/12/20 20:22:06 +0000
 comments: true
 tags: B07HRXBPMB

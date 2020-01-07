@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JZ5V5LG: Rebaja en Cecotec Microondas ProClean 3030. Capaci en Amazon
+title: 'B07JZ5V5LG: Rebaja en Cecotec Microondas ProClean 3030. Capaci en Amazon'
 date: 2020-01-02 18:00:10
 comments: true
 tags: B07JZ5V5LG

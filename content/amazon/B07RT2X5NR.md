@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RT2X5NR: Rebaja en HUION Tableta gráfica Kamvas Pro 16 - IP en Amazon
+title: 'B07RT2X5NR: Rebaja en HUION Tableta gráfica Kamvas Pro 16 - IP en Amazon'
 date: 2019/12/30 04:10:11 +0000
 comments: true
 tags: B07RT2X5NR

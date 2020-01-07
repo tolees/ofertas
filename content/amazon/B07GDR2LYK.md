@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GDR2LYK: Rebaja en Sony WH-1000XM3 Bluetooth Noise Cancelli en Amazon
+title: 'B07GDR2LYK: Rebaja en Sony WH-1000XM3 Bluetooth Noise Cancelli en Amazon'
 date: 2019/12/19 17:09:47 +0000
 comments: true
 tags: B07GDR2LYK

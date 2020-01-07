@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0771GLCZL: Rebaja en Eastpak Tranverz Maleta  51 cm  42 L  co en Amazon
+title: 'B0771GLCZL: Rebaja en Eastpak Tranverz Maleta  51 cm  42 L  co en Amazon'
 date: 2019/12/13 14:15:05 +0000
 comments: true
 tags: B0771GLCZL

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FH9SX8T: Rebaja en Levi s The Jacket  Chaqueta Vaquera  Neg en Amazon
+title: 'B07FH9SX8T: Rebaja en Levi s The Jacket  Chaqueta Vaquera  Neg en Amazon'
 date: 2019/12/17 09:04:55 +0000
 comments: true
 tags: B07FH9SX8T

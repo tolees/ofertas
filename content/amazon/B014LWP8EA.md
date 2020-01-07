@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B014LWP8EA: Ahorra en Bosch Professional 2607010903 Hojas de S
+title: 'B014LWP8EA: Ahorra en Bosch Professional 2607010903 Hojas de S'
 date: 2020-01-04 21:03:07
 comments: true
 tags: B014LWP8EA

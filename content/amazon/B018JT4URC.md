@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B018JT4URC: Rebaja en Levi s 200Sf Trunk 2P  Boxer para Hombre en Amazon
+title: 'B018JT4URC: Rebaja en Levi s 200Sf Trunk 2P  Boxer para Hombre en Amazon'
 date: 2020-01-02 12:58:48
 comments: true
 tags: B018JT4URC

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00JEWC0VW: Rebaja en Blend 700522 Blizzard - Vaqueros para ho en Amazon
+title: 'B00JEWC0VW: Rebaja en Blend 700522 Blizzard - Vaqueros para ho en Amazon'
 date: 2019/12/28 13:14:42 +0000
 comments: true
 tags: B00JEWC0VW

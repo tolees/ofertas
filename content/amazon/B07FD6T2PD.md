@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FD6T2PD: Rebaja en BrizLabs Cadena Luces Solares 2 Paquete  en Amazon
+title: 'B07FD6T2PD: Rebaja en BrizLabs Cadena Luces Solares 2 Paquete  en Amazon'
 date: 2020-01-05 10:47:10
 comments: true
 tags: B07FD6T2PD

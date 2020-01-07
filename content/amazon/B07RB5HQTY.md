@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RB5HQTY: Rebaja en Hisense H50U7B - Smart TV ULED 50  4K Ul en Amazon
+title: 'B07RB5HQTY: Rebaja en Hisense H50U7B - Smart TV ULED 50  4K Ul en Amazon'
 date: 2020-01-03 05:25:47
 comments: true
 tags: B07RB5HQTY

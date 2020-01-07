@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07QVKMZLW: Ahorra en Receptor Bluetooth Jack 3.5 MM  ieGeek A
+title: 'B07QVKMZLW: Ahorra en Receptor Bluetooth Jack 3.5 MM  ieGeek A'
 date: 2020-01-05 23:02:03
 comments: true
 tags: B07QVKMZLW

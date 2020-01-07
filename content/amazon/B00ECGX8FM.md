@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00ECGX8FM: Rebaja en Nikon AF-S DX 18-140mm f/3.5-5.6G ED VR  en Amazon
+title: 'B00ECGX8FM: Rebaja en Nikon AF-S DX 18-140mm f/3.5-5.6G ED VR  en Amazon'
 date: 2019/12/27 16:10:53 +0000
 comments: true
 tags: B00ECGX8FM

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07HNJX8VF: Ahorra en TAIFU 65W AC Adapter for ASUS X551M X555
+title: 'B07HNJX8VF: Ahorra en TAIFU 65W AC Adapter for ASUS X551M X555'
 date: 2020-01-02 22:14:54
 comments: true
 tags: B07HNJX8VF

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07NC9L2KB: Ahorra en Pepe Jeans Mable Vaqueros Straight  Azul
+title: 'B07NC9L2KB: Ahorra en Pepe Jeans Mable Vaqueros Straight  Azul'
 date: 2019/12/29 17:13:52 +0000
 comments: true
 tags: B07NC9L2KB

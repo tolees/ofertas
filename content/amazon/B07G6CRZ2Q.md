@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07G6CRZ2Q: Rebaja en Ultimate Ears Boom 3 Altavoz portátil  B en Amazon
+title: 'B07G6CRZ2Q: Rebaja en Ultimate Ears Boom 3 Altavoz portátil  B en Amazon'
 date: 2019/12/23 19:02:33 +0000
 comments: true
 tags: B07G6CRZ2Q

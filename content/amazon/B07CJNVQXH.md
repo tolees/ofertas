@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07CJNVQXH: Rebaja en VTIN Mini Auriculares Bluetooth 4.1  Man en Amazon
+title: 'B07CJNVQXH: Rebaja en VTIN Mini Auriculares Bluetooth 4.1  Man en Amazon'
 date: 2020-01-04 15:18:13
 comments: true
 tags: B07CJNVQXH

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07DX4T6JC: Rebaja en find. Shearling Funnel Neck Chaqueta  Be en Amazon
+title: 'B07DX4T6JC: Rebaja en find. Shearling Funnel Neck Chaqueta  Be en Amazon'
 date: 2020-01-06 18:04:50
 comments: true
 tags: B07DX4T6JC

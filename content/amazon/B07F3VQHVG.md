@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07F3VQHVG: Ahorra en Bonsenkitchen Báscula Digital Balanza de
+title: 'B07F3VQHVG: Ahorra en Bonsenkitchen Báscula Digital Balanza de'
 date: 2020-01-03 15:34:37
 comments: true
 tags: B07F3VQHVG

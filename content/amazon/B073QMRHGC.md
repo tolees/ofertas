@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B073QMRHGC: Rebaja en find. Chaqueta Efecto Cuero para Hombre  en Amazon
+title: 'B073QMRHGC: Rebaja en find. Chaqueta Efecto Cuero para Hombre  en Amazon'
 date: 2020-01-07 12:40:59
 comments: true
 tags: B073QMRHGC

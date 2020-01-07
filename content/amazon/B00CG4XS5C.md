@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00CG4XS5C: Rebaja en Bosch 2 608 588 167 - Juego de 7 brocas  en Amazon
+title: 'B00CG4XS5C: Rebaja en Bosch 2 608 588 167 - Juego de 7 brocas  en Amazon'
 date: 2019/12/23 14:22:51 +0000
 comments: true
 tags: B00CG4XS5C

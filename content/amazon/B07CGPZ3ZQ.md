@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07CGPZ3ZQ: Rebaja en Logitech G305 Lightspeed  Raton Inalámbr en Amazon
+title: 'B07CGPZ3ZQ: Rebaja en Logitech G305 Lightspeed  Raton Inalámbr en Amazon'
 date: 2020-01-06 16:55:30
 comments: true
 tags: B07CGPZ3ZQ

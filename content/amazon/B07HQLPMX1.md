@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07HQLPMX1: Rebaja en SLTX Remote Controller with Free Silicon en Amazon
+title: 'B07HQLPMX1: Rebaja en SLTX Remote Controller with Free Silicon en Amazon'
 date: 2019/12/11 09:11:58 +0000
 comments: true
 tags: B07HQLPMX1

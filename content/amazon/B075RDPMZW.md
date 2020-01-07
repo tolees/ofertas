@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B075RDPMZW: Rebaja en Campingaz Xpert 200 L Vario Barbacoa Gas en Amazon
+title: 'B075RDPMZW: Rebaja en Campingaz Xpert 200 L Vario Barbacoa Gas en Amazon'
 date: 2019/12/28 13:38:49 +0000
 comments: true
 tags: B075RDPMZW

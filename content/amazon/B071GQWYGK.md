@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B071GQWYGK: Rebaja en Collar Mujer  J.Rosée Plata de Ley 925 B en Amazon
+title: 'B071GQWYGK: Rebaja en Collar Mujer  J.Rosée Plata de Ley 925 B en Amazon'
 date: 2019/12/11 09:35:59 +0000
 comments: true
 tags: B071GQWYGK

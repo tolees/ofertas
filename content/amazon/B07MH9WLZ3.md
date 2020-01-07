@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MH9WLZ3: Ahorra en Kipling Gabbie S  Bolsos Bandolera para 
+title: 'B07MH9WLZ3: Ahorra en Kipling Gabbie S  Bolsos Bandolera para '
 date: 2019/12/17 07:02:10 +0000
 comments: true
 tags: B07MH9WLZ3

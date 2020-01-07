@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07ZJ3BND2: Ahorra en Auriculares Bluetooth inalámbricos BT5.0
+title: 'B07ZJ3BND2: Ahorra en Auriculares Bluetooth inalámbricos BT5.0'
 date: 2020-01-04 08:09:32
 comments: true
 tags: B07ZJ3BND2

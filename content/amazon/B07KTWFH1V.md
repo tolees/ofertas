@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KTWFH1V: Ahorra en LEGO 70681 NINJAGO Spinjitzu Slam - Lloy
+title: 'B07KTWFH1V: Ahorra en LEGO 70681 NINJAGO Spinjitzu Slam - Lloy'
 date: 2019/12/15 08:49:41 +0000
 comments: true
 tags: B07KTWFH1V

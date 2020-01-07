@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RBNSBF9: Ahorra en Tipo C Memoria USB 64GB  RAOYI Metal Pen
+title: 'B07RBNSBF9: Ahorra en Tipo C Memoria USB 64GB  RAOYI Metal Pen'
 date: 2019/12/14 02:09:20 +0000
 comments: true
 tags: B07RBNSBF9

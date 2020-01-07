@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JBBVPQ6: Rebaja en LEGO 40253 Build Up Playset  24-in-1 Mod en Amazon
+title: 'B07JBBVPQ6: Rebaja en LEGO 40253 Build Up Playset  24-in-1 Mod en Amazon'
 date: 2020-01-05 22:14:17
 comments: true
 tags: B07JBBVPQ6

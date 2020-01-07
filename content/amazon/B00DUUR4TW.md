@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00DUUR4TW: Rebaja en SBS TEPOCHEXLR - Funda universal para mó en Amazon
+title: 'B00DUUR4TW: Rebaja en SBS TEPOCHEXLR - Funda universal para mó en Amazon'
 date: 2020-01-03 00:06:41
 comments: true
 tags: B00DUUR4TW

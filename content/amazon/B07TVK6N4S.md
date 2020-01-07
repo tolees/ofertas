@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07TVK6N4S: Ahorra en KOSPET Classic Smartwatch  1.39" AMOLED 
+title: 'B07TVK6N4S: Ahorra en KOSPET Classic Smartwatch  1.39" AMOLED '
 date: 2019/12/18 20:49:23 +0000
 comments: true
 tags: B07TVK6N4S

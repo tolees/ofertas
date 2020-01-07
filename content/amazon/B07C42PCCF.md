@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07C42PCCF: Rebaja en H. Koenig stc68 aspirador Multi Ciclónic en Amazon
+title: 'B07C42PCCF: Rebaja en H. Koenig stc68 aspirador Multi Ciclónic en Amazon'
 date: 2020-01-01 18:59:28
 comments: true
 tags: B07C42PCCF

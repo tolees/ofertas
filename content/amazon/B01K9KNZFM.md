@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01K9KNZFM: Ahorra en Samsung GEAR VR  2016  R323
+title: 'B01K9KNZFM: Ahorra en Samsung GEAR VR  2016  R323'
 date: 2019/12/30 16:32:40 +0000
 comments: true
 tags: B01K9KNZFM

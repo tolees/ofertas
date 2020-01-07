@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B018NMTBOC: Rebaja en Bizak-5025123225111  Color  61952511  en Amazon
+title: 'B018NMTBOC: Rebaja en Bizak-5025123225111  Color  61952511  en Amazon'
 date: 2020-01-02 00:02:19
 comments: true
 tags: B018NMTBOC

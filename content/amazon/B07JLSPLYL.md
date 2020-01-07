@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JLSPLYL: Rebaja en Memoria USB Universal de 128 GB  Pen Dri en Amazon
+title: 'B07JLSPLYL: Rebaja en Memoria USB Universal de 128 GB  Pen Dri en Amazon'
 date: 2019/12/15 23:02:59 +0000
 comments: true
 tags: B07JLSPLYL

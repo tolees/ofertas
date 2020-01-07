@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00RD3WMAI: Rebaja en Mars Gaming MCP1 - Combo gaming de tecla en Amazon
+title: 'B00RD3WMAI: Rebaja en Mars Gaming MCP1 - Combo gaming de tecla en Amazon'
 date: 2020-01-05 11:07:14
 comments: true
 tags: B00RD3WMAI

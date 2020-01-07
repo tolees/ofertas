@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00ZUFRD4Q: Ahorra en Sony Cyber-shot DSC-RX100M4 - Cámara com
+title: 'B00ZUFRD4Q: Ahorra en Sony Cyber-shot DSC-RX100M4 - Cámara com'
 date: 2019/12/23 08:11:35 +0000
 comments: true
 tags: B00ZUFRD4Q

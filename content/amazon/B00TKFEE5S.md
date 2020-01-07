@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00TKFEE5S: Ahorra en Seagate STEA2000400 - Disco duro de 2 TB
+title: 'B00TKFEE5S: Ahorra en Seagate STEA2000400 - Disco duro de 2 TB'
 date: 2020-01-04 13:33:08
 comments: true
 tags: B00TKFEE5S

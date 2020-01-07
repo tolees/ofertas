@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00PITWZ92: Ahorra en ON.EARZ P105 - Altavoz inalámbrico FM Bl
+title: 'B00PITWZ92: Ahorra en ON.EARZ P105 - Altavoz inalámbrico FM Bl'
 date: 2019/12/29 12:24:01 +0000
 comments: true
 tags: B00PITWZ92

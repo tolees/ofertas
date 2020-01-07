@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07T7KBYS3: Ahorra en Vero Moda Vmsimone Aw19 Hoody Short Jack
+title: 'B07T7KBYS3: Ahorra en Vero Moda Vmsimone Aw19 Hoody Short Jack'
 date: 2020-01-07 12:18:50
 comments: true
 tags: B07T7KBYS3

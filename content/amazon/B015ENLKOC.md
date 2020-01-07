@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B015ENLKOC: Ahorra en Funko Pop! - Vinyl: Disney: Stitch Seate
+title: 'B015ENLKOC: Ahorra en Funko Pop! - Vinyl: Disney: Stitch Seate'
 date: 2019/12/27 14:00:25 +0000
 comments: true
 tags: B015ENLKOC

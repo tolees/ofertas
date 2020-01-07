@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00KSQPGNM: Ahorra en BaByliss IPro Slim ST387E - Plancha de p
+title: 'B00KSQPGNM: Ahorra en BaByliss IPro Slim ST387E - Plancha de p'
 date: 2019/12/19 20:55:18 +0000
 comments: true
 tags: B00KSQPGNM

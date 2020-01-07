@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00CBAUIEU: Ahorra en Verbatim 44082 - Tarjeta de Memoria Micr
+title: 'B00CBAUIEU: Ahorra en Verbatim 44082 - Tarjeta de Memoria Micr'
 date: 2019/12/24 14:14:03 +0000
 comments: true
 tags: B00CBAUIEU

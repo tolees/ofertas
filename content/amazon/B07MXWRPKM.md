@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MXWRPKM: Ahorra en Desigual 19WAXPAF - Bolso de hombro de S
+title: 'B07MXWRPKM: Ahorra en Desigual 19WAXPAF - Bolso de hombro de S'
 date: 2020-01-02 10:02:11
 comments: true
 tags: B07MXWRPKM

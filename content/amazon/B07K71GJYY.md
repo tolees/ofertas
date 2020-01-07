@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07K71GJYY: Rebaja en Levi s 502 Regular Taper Vaqueros  Azul  en Amazon
+title: 'B07K71GJYY: Rebaja en Levi s 502 Regular Taper Vaqueros  Azul  en Amazon'
 date: 2019/12/17 18:03:28 +0000
 comments: true
 tags: B07K71GJYY

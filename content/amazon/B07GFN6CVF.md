@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GFN6CVF: Ahorra en YD295XA8AFWOF AMD Ryzen Threadripper 295
+title: 'B07GFN6CVF: Ahorra en YD295XA8AFWOF AMD Ryzen Threadripper 295'
 date: 2019/12/17 14:23:34 +0000
 comments: true
 tags: B07GFN6CVF

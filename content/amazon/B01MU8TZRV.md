@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01MU8TZRV: Ahorra en Memoria Flash USB 3.1 de Estado sólido S
+title: 'B01MU8TZRV: Ahorra en Memoria Flash USB 3.1 de Estado sólido S'
 date: 2019/12/29 14:09:36 +0000
 comments: true
 tags: B01MU8TZRV

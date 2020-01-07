@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GYXHRJ1: Ahorra en Samyang SA7081 - Objetivo 14 mm F2.8 par
+title: 'B07GYXHRJ1: Ahorra en Samyang SA7081 - Objetivo 14 mm F2.8 par'
 date: 2019/12/29 09:22:59 +0000
 comments: true
 tags: B07GYXHRJ1

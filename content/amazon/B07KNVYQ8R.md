@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KNVYQ8R: Rebaja en HP Envy 5010 - Impresora multifunción  W en Amazon
+title: 'B07KNVYQ8R: Rebaja en HP Envy 5010 - Impresora multifunción  W en Amazon'
 date: 2020-01-04 13:17:53
 comments: true
 tags: B07KNVYQ8R

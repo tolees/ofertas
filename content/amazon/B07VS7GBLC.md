@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07VS7GBLC: Rebaja en LUDOS Clamor Auriculares con Micrófono y en Amazon
+title: 'B07VS7GBLC: Rebaja en LUDOS Clamor Auriculares con Micrófono y en Amazon'
 date: 2019/12/17 01:47:02 +0000
 comments: true
 tags: B07VS7GBLC

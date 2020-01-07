@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01MXOXX6Y: Ahorra en Wrangler Vaqueros Skinny para Mujer  Neg
+title: 'B01MXOXX6Y: Ahorra en Wrangler Vaqueros Skinny para Mujer  Neg'
 date: 2019/12/11 23:14:07 +0000
 comments: true
 tags: B01MXOXX6Y

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MYZHC25: Ahorra en Skechers Flex Appeal 3.0-First Insight  
+title: 'B07MYZHC25: Ahorra en Skechers Flex Appeal 3.0-First Insight  '
 date: 2019/12/22 15:44:11 +0000
 comments: true
 tags: B07MYZHC25

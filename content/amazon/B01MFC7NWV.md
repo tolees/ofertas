@@ -1,19 +1,18 @@
 ---
 layout: post
-title: B01MFC7NWV: Rebaja en Lego Ninjago Boys Ninjago Sweatshirt Age en Amazon
-date: 2019/12/10 21:29:35 +0000
+title: 'B01MFC7NWV - Ofertón en Amazon para Lego Ninjago Suéter para Niños niño Lego'
+date: 2019/12/21 09:07:47 +0000
 comments: true
-tags: B01MFC7NWV
 category: ofertas
 author: ring
 slug: B01MFC7NWV
 description:
 ---
 
-Está [Lego Ninjago Boys Ninjago Sweatshirt Age 8 to 9 Years](https://www.amazon.com/dp/B01MFC7NWV/?tag=redken08-20) por 9.95 GBP (original: 16.95 GBP) en el siguiente enlace!
+Tienes [Lego Ninjago Suéter para Niños niño Lego Ninjago - 8 - 9 Años](https://www.amazon.com/dp/B01MFC7NWV/?tag=redken08-20) a precio de oferta de 12.95 EUR (original: 20.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51LwDXS-o8L._SL200_.jpg)](https://www.amazon.com/dp/B01MFC7NWV/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01MFC7NWV/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01MFC7NWV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

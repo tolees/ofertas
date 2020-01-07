@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B073JHFY4D: Rebaja en find. D7832 vestido fiesta mujer  Rojo   en Amazon
+title: 'B073JHFY4D: Rebaja en find. D7832 vestido fiesta mujer  Rojo   en Amazon'
 date: 2020-01-06 20:08:37
 comments: true
 tags: B073JHFY4D

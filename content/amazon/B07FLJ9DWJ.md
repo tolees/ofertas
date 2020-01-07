@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FLJ9DWJ: Ahorra en KLIMTM Chroma Wireless - Teclado Inalámb
+title: 'B07FLJ9DWJ: Ahorra en KLIMTM Chroma Wireless - Teclado Inalámb'
 date: 2020-01-03 19:39:44
 comments: true
 tags: B07FLJ9DWJ

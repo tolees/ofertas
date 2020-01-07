@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07Q8KXQTL: Rebaja en SYOSIN Auriculares Bluetooth V5.0  TWS A en Amazon
+title: 'B07Q8KXQTL: Rebaja en SYOSIN Auriculares Bluetooth V5.0  TWS A en Amazon'
 date: 2019/12/21 05:31:18 +0000
 comments: true
 tags: B07Q8KXQTL

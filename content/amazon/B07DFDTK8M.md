@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07DFDTK8M: Rebaja en Funko Pop Power Rangers Figura de Vinilo en Amazon
+title: 'B07DFDTK8M: Rebaja en Funko Pop Power Rangers Figura de Vinilo en Amazon'
 date: 2019/12/13 12:49:09 +0000
 comments: true
 tags: B07DFDTK8M

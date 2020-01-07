@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00STL6PJW: Rebaja en Hasbro Gaming Gaming Clasico Pictureka   en Amazon
+title: 'B00STL6PJW: Rebaja en Hasbro Gaming Gaming Clasico Pictureka   en Amazon'
 date: 2020-01-03 11:08:58
 comments: true
 tags: B00STL6PJW

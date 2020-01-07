@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07YHJG42G: Ahorra en Attikee Upgraded Bluetooth 5.0 Beanie Ha
+title: 'B07YHJG42G: Ahorra en Attikee Upgraded Bluetooth 5.0 Beanie Ha'
 date: 2020-01-01 22:10:14
 comments: true
 tags: B07YHJG42G

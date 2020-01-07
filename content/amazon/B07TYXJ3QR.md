@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07TYXJ3QR: Rebaja en CSL - kabelloses Headset mit Ladestation en Amazon
+title: 'B07TYXJ3QR: Rebaja en CSL - kabelloses Headset mit Ladestation en Amazon'
 date: 2019/12/17 15:23:45 +0000
 comments: true
 tags: B07TYXJ3QR

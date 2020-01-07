@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07SZKZCWJ: Ahorra en IWAVION Cable Lightning 3ft/1m 4pack Cab
+title: 'B07SZKZCWJ: Ahorra en IWAVION Cable Lightning 3ft/1m 4pack Cab'
 date: 2019/12/24 13:55:26 +0000
 comments: true
 tags: B07SZKZCWJ

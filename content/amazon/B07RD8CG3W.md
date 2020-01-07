@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RD8CG3W: Rebaja en Satechi Adaptador Multimedia Dual Tipo-C en Amazon
+title: 'B07RD8CG3W: Rebaja en Satechi Adaptador Multimedia Dual Tipo-C en Amazon'
 date: 2020-01-06 20:54:40
 comments: true
 tags: B07RD8CG3W

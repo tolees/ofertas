@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07N9DW8BX: Rebaja en JBL LIVE 400BT Auriculares Inalámbricos  en Amazon
+title: 'B07N9DW8BX: Rebaja en JBL LIVE 400BT Auriculares Inalámbricos  en Amazon'
 date: 2020-01-03 17:07:56
 comments: true
 tags: B07N9DW8BX

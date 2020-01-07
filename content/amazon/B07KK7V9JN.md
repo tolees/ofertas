@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KK7V9JN: Rebaja en ELEGIANT Mini LED Luz USB con Altavoz Bl en Amazon
+title: 'B07KK7V9JN: Rebaja en ELEGIANT Mini LED Luz USB con Altavoz Bl en Amazon'
 date: 2020-01-07 11:13:51
 comments: true
 tags: B07KK7V9JN

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B077K2RFQL: Rebaja en REPLAY Jacksy Vaqueros Skinny  Azul  Dar en Amazon
+title: 'B077K2RFQL: Rebaja en REPLAY Jacksy Vaqueros Skinny  Azul  Dar en Amazon'
 date: 2019/12/17 10:09:45 +0000
 comments: true
 tags: B077K2RFQL

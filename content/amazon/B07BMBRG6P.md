@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BMBRG6P: Ahorra en Wrangler Larston Vaqueros  Indigo Wit  3
+title: 'B07BMBRG6P: Ahorra en Wrangler Larston Vaqueros  Indigo Wit  3'
 date: 2019/12/19 11:53:37 +0000
 comments: true
 tags: B07BMBRG6P

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07GQZHV12: Rebaja en AVIWIS Cable Micro USB  [3-Unidades 2M]  en Amazon
+title: 'B07GQZHV12: Rebaja en AVIWIS Cable Micro USB  [3-Unidades 2M]  en Amazon'
 date: 2019/12/24 13:53:31 +0000
 comments: true
 tags: B07GQZHV12

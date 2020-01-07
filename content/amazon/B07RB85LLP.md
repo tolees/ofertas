@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RB85LLP: Rebaja en Samsung 4K UHD 2019 65RU8005 - Smart TV  en Amazon
+title: 'B07RB85LLP: Rebaja en Samsung 4K UHD 2019 65RU8005 - Smart TV  en Amazon'
 date: 2019/12/20 20:48:30 +0000
 comments: true
 tags: B07RB85LLP

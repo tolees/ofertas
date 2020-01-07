@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07XHHSTFZ: Rebaja en HolyHigh Auriculares Inalámbricos Blueto en Amazon
+title: 'B07XHHSTFZ: Rebaja en HolyHigh Auriculares Inalámbricos Blueto en Amazon'
 date: 2019/12/19 12:00:22 +0000
 comments: true
 tags: B07XHHSTFZ

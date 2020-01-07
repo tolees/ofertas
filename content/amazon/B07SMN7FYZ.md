@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07SMN7FYZ: Rebaja en Introducing Echo Show 8 | 8" HD smart di en Amazon
+title: 'B07SMN7FYZ: Rebaja en Introducing Echo Show 8 | 8" HD smart di en Amazon'
 date: 2020-01-02 13:07:24
 comments: true
 tags: B07SMN7FYZ

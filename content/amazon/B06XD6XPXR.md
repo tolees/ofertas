@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06XD6XPXR: Rebaja en Hasbro Gaming - Juego infantil Vater loc en Amazon
+title: 'B06XD6XPXR: Rebaja en Hasbro Gaming - Juego infantil Vater loc en Amazon'
 date: 2020-01-02 12:36:42
 comments: true
 tags: B06XD6XPXR

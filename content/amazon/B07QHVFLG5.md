@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07QHVFLG5: Ahorra en KFD 19V 65W Power Adapter Netzteil Ladeg
+title: 'B07QHVFLG5: Ahorra en KFD 19V 65W Power Adapter Netzteil Ladeg'
 date: 2019/12/23 00:39:20 +0000
 comments: true
 tags: B07QHVFLG5

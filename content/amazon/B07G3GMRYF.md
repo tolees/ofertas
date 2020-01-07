@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07G3GMRYF: Ahorra en SanDisk Extreme PRO - Tarjeta de memoria
+title: 'B07G3GMRYF: Ahorra en SanDisk Extreme PRO - Tarjeta de memoria'
 date: 2020-01-03 07:33:43
 comments: true
 tags: B07G3GMRYF

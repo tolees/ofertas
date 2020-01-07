@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06Y2KHM7N: Rebaja en Geox J Kalispera Girl I  Zapatillas Alta en Amazon
+title: 'B06Y2KHM7N: Rebaja en Geox J Kalispera Girl I  Zapatillas Alta en Amazon'
 date: 2020-01-04 09:03:53
 comments: true
 tags: B06Y2KHM7N

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07SQ25RGD: Ahorra en Samsung 4K UHD 2019 55RU8005 - Smart TV 
+title: 'B07SQ25RGD: Ahorra en Samsung 4K UHD 2019 55RU8005 - Smart TV '
 date: 2019/12/27 15:32:42 +0000
 comments: true
 tags: B07SQ25RGD

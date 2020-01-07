@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07NDDLVZY: Rebaja en Samsung Galaxy S10e - Smartphone  128GB  en Amazon
+title: 'B07NDDLVZY: Rebaja en Samsung Galaxy S10e - Smartphone  128GB  en Amazon'
 date: 2020-01-05 13:04:20
 comments: true
 tags: B07NDDLVZY

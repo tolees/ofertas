@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07Y4RRSW8: Ahorra en maxineer 7" Tablet PC Quad Core 512MB RA
+title: 'B07Y4RRSW8: Ahorra en maxineer 7" Tablet PC Quad Core 512MB RA'
 date: 2019/12/20 23:34:28 +0000
 comments: true
 tags: B07Y4RRSW8

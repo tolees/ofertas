@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07N1G3FKZ: Rebaja en Days Gone - Edición Especial en Amazon
+title: 'B07N1G3FKZ: Rebaja en Days Gone - Edición Especial en Amazon'
 date: 2020-01-01 17:36:08
 comments: true
 tags: B07N1G3FKZ

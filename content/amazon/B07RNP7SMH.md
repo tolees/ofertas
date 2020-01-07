@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RNP7SMH: Rebaja en Polarduck Mini Tripod  Mobile Phone Trip en Amazon
+title: 'B07RNP7SMH: Rebaja en Polarduck Mini Tripod  Mobile Phone Trip en Amazon'
 date: 2020-01-04 13:57:40
 comments: true
 tags: B07RNP7SMH

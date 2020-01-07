@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06XWBB4P7: Ahorra en find. Blusa con Manga Acampanada para Mu
+title: 'B06XWBB4P7: Ahorra en find. Blusa con Manga Acampanada para Mu'
 date: 2020-01-07 10:25:13
 comments: true
 tags: B06XWBB4P7

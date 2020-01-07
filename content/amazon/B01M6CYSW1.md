@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01M6CYSW1: Rebaja en POP! Vinilo - Lost: Man in Black en Amazon
+title: 'B01M6CYSW1: Rebaja en POP! Vinilo - Lost: Man in Black en Amazon'
 date: 2019/12/13 23:47:51 +0000
 comments: true
 tags: B01M6CYSW1

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07H3CWJL7: Rebaja en Hi-Tec V-Lite Wild-Life Scorpion I  Zapa en Amazon
+title: 'B07H3CWJL7: Rebaja en Hi-Tec V-Lite Wild-Life Scorpion I  Zapa en Amazon'
 date: 2019/12/22 20:26:46 +0000
 comments: true
 tags: B07H3CWJL7

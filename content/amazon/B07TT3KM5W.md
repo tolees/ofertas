@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07TT3KM5W: Rebaja en SZMDLX Bluetooth Adapter  Transmitter un en Amazon
+title: 'B07TT3KM5W: Rebaja en SZMDLX Bluetooth Adapter  Transmitter un en Amazon'
 date: 2019/12/14 07:21:05 +0000
 comments: true
 tags: B07TT3KM5W

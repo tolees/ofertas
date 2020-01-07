@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07WTL49QM: Rebaja en AngLink Linterna de Buceo  2000 Lumens C en Amazon
+title: 'B07WTL49QM: Rebaja en AngLink Linterna de Buceo  2000 Lumens C en Amazon'
 date: 2020-01-02 19:38:28
 comments: true
 tags: B07WTL49QM

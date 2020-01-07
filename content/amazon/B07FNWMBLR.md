@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FNWMBLR: Rebaja en LEGO NINJAGO 70659 - Spinjitzu Kai en Amazon
+title: 'B07FNWMBLR: Rebaja en LEGO NINJAGO 70659 - Spinjitzu Kai en Amazon'
 date: 2019/12/20 01:18:14 +0000
 comments: true
 tags: B07FNWMBLR

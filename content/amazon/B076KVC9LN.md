@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B076KVC9LN: Rebaja en VAUDE Silk Road L  I de Rack  Cilindro d en Amazon
+title: 'B076KVC9LN: Rebaja en VAUDE Silk Road L  I de Rack  Cilindro d en Amazon'
 date: 2019/12/29 22:29:18 +0000
 comments: true
 tags: B076KVC9LN

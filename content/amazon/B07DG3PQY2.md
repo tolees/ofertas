@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07DG3PQY2: Rebaja en Bosch TAS1001 Tassimo Happy Cafetera Mon en Amazon
+title: 'B07DG3PQY2: Rebaja en Bosch TAS1001 Tassimo Happy Cafetera Mon en Amazon'
 date: 2020-01-03 07:12:58
 comments: true
 tags: B07DG3PQY2

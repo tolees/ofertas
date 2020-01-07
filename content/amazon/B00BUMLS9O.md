@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00BUMLS9O: Rebaja en DIM Generous Minimizer Sujetador reducto en Amazon
+title: 'B00BUMLS9O: Rebaja en DIM Generous Minimizer Sujetador reducto en Amazon'
 date: 2019/12/20 09:38:55 +0000
 comments: true
 tags: B00BUMLS9O

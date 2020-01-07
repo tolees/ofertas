@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KPT1H2W: Rebaja en Funko 37685 POP Captain Marvel Holding L en Amazon
+title: 'B07KPT1H2W: Rebaja en Funko 37685 POP Captain Marvel Holding L en Amazon'
 date: 2020-01-03 06:14:14
 comments: true
 tags: B07KPT1H2W

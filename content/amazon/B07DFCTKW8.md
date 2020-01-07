@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07DFCTKW8: Rebaja en Funko 32348 POP Vinyl: Horror 2: Drag Gr en Amazon
+title: 'B07DFCTKW8: Rebaja en Funko 32348 POP Vinyl: Horror 2: Drag Gr en Amazon'
 date: 2019/12/16 07:01:24 +0000
 comments: true
 tags: B07DFCTKW8

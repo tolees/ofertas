@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KK1SL6S: Ahorra en KuGi for Honor 10 lite case  Ultra-thin 
+title: 'B07KK1SL6S: Ahorra en KuGi for Honor 10 lite case  Ultra-thin '
 date: 2020-01-02 09:58:03
 comments: true
 tags: B07KK1SL6S

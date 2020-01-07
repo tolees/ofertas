@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07YS8YCSZ: Rebaja en 2019 Auriculares inalámbricos Bluetooth  en Amazon
+title: 'B07YS8YCSZ: Rebaja en 2019 Auriculares inalámbricos Bluetooth  en Amazon'
 date: 2020-01-05 17:46:26
 comments: true
 tags: B07YS8YCSZ

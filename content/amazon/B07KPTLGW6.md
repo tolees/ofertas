@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KPTLGW6: Rebaja en CYMBAINK 4 Pack Compatible for HP 203X 2 en Amazon
+title: 'B07KPTLGW6: Rebaja en CYMBAINK 4 Pack Compatible for HP 203X 2 en Amazon'
 date: 2019-12-31 16:16:22
 comments: true
 tags: B07KPTLGW6

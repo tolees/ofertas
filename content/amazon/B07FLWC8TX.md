@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07FLWC8TX: Rebaja en Little Big Planet 3 Hits - Versión 14 en Amazon
+title: 'B07FLWC8TX: Rebaja en Little Big Planet 3 Hits - Versión 14 en Amazon'
 date: 2019/12/27 08:37:14 +0000
 comments: true
 tags: B07FLWC8TX

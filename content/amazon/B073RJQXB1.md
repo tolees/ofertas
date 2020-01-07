@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B073RJQXB1: Ahorra en Samsung C49HG90DMU - Monitor Curvo Gamin
+title: 'B073RJQXB1: Ahorra en Samsung C49HG90DMU - Monitor Curvo Gamin'
 date: 2019/12/16 17:33:00 +0000
 comments: true
 tags: B073RJQXB1

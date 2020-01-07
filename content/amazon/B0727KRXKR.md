@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0727KRXKR: Rebaja en Sony Xperia XA1 - Smartphone con pantall en Amazon
+title: 'B0727KRXKR: Rebaja en Sony Xperia XA1 - Smartphone con pantall en Amazon'
 date: 2019/12/24 11:05:30 +0000
 comments: true
 tags: B0727KRXKR

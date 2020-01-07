@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07L9VT8YY: Ahorra en Beikell Lector Tarjetas de Memoria SD/Mi
+title: 'B07L9VT8YY: Ahorra en Beikell Lector Tarjetas de Memoria SD/Mi'
 date: 2020-01-02 11:27:50
 comments: true
 tags: B07L9VT8YY

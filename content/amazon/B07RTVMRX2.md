@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07RTVMRX2: Rebaja en LTDNB Cargador Inalámbrico Rápido Qi Wir en Amazon
+title: 'B07RTVMRX2: Rebaja en LTDNB Cargador Inalámbrico Rápido Qi Wir en Amazon'
 date: 2019/12/14 10:31:26 +0000
 comments: true
 tags: B07RTVMRX2

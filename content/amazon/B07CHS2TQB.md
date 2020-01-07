@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07CHS2TQB: Rebaja en Puma Liga Core Jersey  Hombre  703509  P en Amazon
+title: 'B07CHS2TQB: Rebaja en Puma Liga Core Jersey  Hombre  703509  P en Amazon'
 date: 2019/12/20 23:01:20 +0000
 comments: true
 tags: B07CHS2TQB

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00MW1DSA4: Ahorra en Rexxor 242-7904-18 - Reloj de cuarzo par
+title: 'B00MW1DSA4: Ahorra en Rexxor 242-7904-18 - Reloj de cuarzo par'
 date: 2020-01-03 23:56:32
 comments: true
 tags: B00MW1DSA4

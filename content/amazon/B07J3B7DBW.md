@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07J3B7DBW: Rebaja en Moleskine - Agenda Semanal de 18 Meses E en Amazon
+title: 'B07J3B7DBW: Rebaja en Moleskine - Agenda Semanal de 18 Meses E en Amazon'
 date: 2019/12/12 16:31:10 +0000
 comments: true
 tags: B07J3B7DBW

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B000V9AZUU: Ahorra en Trixie Set Higiene Dental  Pasta y cepil
+title: 'B000V9AZUU: Ahorra en Trixie Set Higiene Dental  Pasta y cepil'
 date: 2020-01-02 17:04:09
 comments: true
 tags: B000V9AZUU

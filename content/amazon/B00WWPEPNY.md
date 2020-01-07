@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00WWPEPNY: Rebaja en Jack and Jones Sense Trunks 3-Pack Bóxer en Amazon
+title: 'B00WWPEPNY: Rebaja en Jack and Jones Sense Trunks 3-Pack Bóxer en Amazon'
 date: 2020-01-04 14:15:50
 comments: true
 tags: B00WWPEPNY

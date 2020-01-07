@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07QV6RXQZ: Rebaja en USB 3.0 Pen Drive 32 GB  Colourstone 3 e en Amazon
+title: 'B07QV6RXQZ: Rebaja en USB 3.0 Pen Drive 32 GB  Colourstone 3 e en Amazon'
 date: 2019/12/14 02:11:20 +0000
 comments: true
 tags: B07QV6RXQZ

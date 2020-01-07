@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B075QLCNMG: Ahorra en WaveSound 3 Auriculares inalámbricos con
+title: 'B075QLCNMG: Ahorra en WaveSound 3 Auriculares inalámbricos con'
 date: 2019/12/19 08:35:12 +0000
 comments: true
 tags: B075QLCNMG

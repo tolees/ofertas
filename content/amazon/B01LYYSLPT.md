@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01LYYSLPT: Ahorra en Smilodox Shorts  Pantalones Cortos para 
+title: 'B01LYYSLPT: Ahorra en Smilodox Shorts  Pantalones Cortos para '
 date: 2020-01-02 13:56:27
 comments: true
 tags: B01LYYSLPT

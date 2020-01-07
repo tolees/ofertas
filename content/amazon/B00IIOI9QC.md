@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00IIOI9QC: Rebaja en Omron Healthcare M6 Comfort Monitor de p en Amazon
+title: 'B00IIOI9QC: Rebaja en Omron Healthcare M6 Comfort Monitor de p en Amazon'
 date: 2019/12/16 12:57:42 +0000
 comments: true
 tags: B00IIOI9QC

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B000IYEMYI: Rebaja en Bosch MFQ3540 Batidora y Amasadora con A en Amazon
+title: 'B000IYEMYI: Rebaja en Bosch MFQ3540 Batidora y Amasadora con A en Amazon'
 date: 2019-12-31 19:51:45
 comments: true
 tags: B000IYEMYI

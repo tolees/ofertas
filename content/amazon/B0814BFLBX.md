@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0814BFLBX: Ahorra en Echo Show 5  blanco + EZVIZ ezTube 1080p
+title: 'B0814BFLBX: Ahorra en Echo Show 5  blanco + EZVIZ ezTube 1080p'
 date: 2019/12/19 22:08:25 +0000
 comments: true
 tags: B0814BFLBX

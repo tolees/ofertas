@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B001CBZB5K: Rebaja en Singer 2250  Tradition -  Máquina de Cos en Amazon
+title: 'B001CBZB5K: Rebaja en Singer 2250  Tradition -  Máquina de Cos en Amazon'
 date: 2019/12/28 13:58:30 +0000
 comments: true
 tags: B001CBZB5K

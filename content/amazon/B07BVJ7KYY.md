@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BVJ7KYY: Ahorra en Kappa Alyn Sudadera  Mujer  Gris/Negro  
+title: 'B07BVJ7KYY: Ahorra en Kappa Alyn Sudadera  Mujer  Gris/Negro  '
 date: 2019/12/13 11:01:40 +0000
 comments: true
 tags: B07BVJ7KYY

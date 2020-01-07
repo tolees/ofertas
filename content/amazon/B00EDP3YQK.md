@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00EDP3YQK: Ahorra en Remington Silk S9600 - Plancha de Pelo  
+title: 'B00EDP3YQK: Ahorra en Remington Silk S9600 - Plancha de Pelo  '
 date: 2020-01-05 11:46:38
 comments: true
 tags: B00EDP3YQK

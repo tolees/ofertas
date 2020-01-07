@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01LZAKOSA: Ahorra en REDWAGON Denim Jacket - Chaqueta Niñas  
+title: 'B01LZAKOSA: Ahorra en REDWAGON Denim Jacket - Chaqueta Niñas  '
 date: 2019/12/23 18:08:43 +0000
 comments: true
 tags: B01LZAKOSA

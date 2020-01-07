@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B0711HGWJH: Ahorra en VAUDE Men s Me Spectra Softshell II Jack
+title: 'B0711HGWJH: Ahorra en VAUDE Men s Me Spectra Softshell II Jack'
 date: 2019/12/11 19:36:38 +0000
 comments: true
 tags: B0711HGWJH

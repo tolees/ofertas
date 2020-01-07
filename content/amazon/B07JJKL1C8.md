@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07JJKL1C8: Rebaja en Assassin s Creed Odyssey - Standard Edit en Amazon
+title: 'B07JJKL1C8: Rebaja en Assassin s Creed Odyssey - Standard Edit en Amazon'
 date: 2019/12/12 21:26:27 +0000
 comments: true
 tags: B07JJKL1C8

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B079VSQ3FP: Rebaja en Crosshatch Barrington Vaqueros Slim  Gre en Amazon
+title: 'B079VSQ3FP: Rebaja en Crosshatch Barrington Vaqueros Slim  Gre en Amazon'
 date: 2019/12/16 00:47:38 +0000
 comments: true
 tags: B079VSQ3FP

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BHBQT1N: Ahorra en Kipling Firefly Up  Mochila para Mujer  
+title: 'B07BHBQT1N: Ahorra en Kipling Firefly Up  Mochila para Mujer  '
 date: 2019/12/17 08:24:39 +0000
 comments: true
 tags: B07BHBQT1N

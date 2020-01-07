@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06XDGMYG4: Ahorra en Artix Bluetooth Auriculares inalámbricos
+title: 'B06XDGMYG4: Ahorra en Artix Bluetooth Auriculares inalámbricos'
 date: 2019/12/17 14:17:57 +0000
 comments: true
 tags: B06XDGMYG4

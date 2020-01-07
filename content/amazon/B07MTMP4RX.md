@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07MTMP4RX: Rebaja en Microsoft Xbox One X - Consola 1 TB + Me en Amazon
+title: 'B07MTMP4RX: Rebaja en Microsoft Xbox One X - Consola 1 TB + Me en Amazon'
 date: 2020-01-05 12:45:16
 comments: true
 tags: B07MTMP4RX

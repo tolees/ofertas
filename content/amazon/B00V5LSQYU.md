@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00V5LSQYU: Ahorra en Kempa Pantalón Deporte Core Modern Gris 
+title: 'B00V5LSQYU: Ahorra en Kempa Pantalón Deporte Core Modern Gris '
 date: 2020-01-06 08:51:05
 comments: true
 tags: B00V5LSQYU

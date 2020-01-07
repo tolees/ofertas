@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B016E7EBPM: Rebaja en Toshiba Hayabusa - Memoria USB 2.0 de 64 en Amazon
+title: 'B016E7EBPM: Rebaja en Toshiba Hayabusa - Memoria USB 2.0 de 64 en Amazon'
 date: 2019/12/29 11:22:41 +0000
 comments: true
 tags: B016E7EBPM

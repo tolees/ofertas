@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B076CJDT7R: Ahorra en Harman-Kardon Allure Altavoces inteligen
+title: 'B076CJDT7R: Ahorra en Harman-Kardon Allure Altavoces inteligen'
 date: 2019/12/13 19:45:41 +0000
 comments: true
 tags: B076CJDT7R

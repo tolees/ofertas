@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B06XPGCV5S: Rebaja en find. Vaqueros Ajustados para Hombre  Az en Amazon
+title: 'B06XPGCV5S: Rebaja en find. Vaqueros Ajustados para Hombre  Az en Amazon'
 date: 2020-01-03 14:52:53
 comments: true
 tags: B06XPGCV5S

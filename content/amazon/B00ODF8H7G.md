@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00ODF8H7G: Rebaja en Whirlpool JT 479 IX Encimera - Microonda en Amazon
+title: 'B00ODF8H7G: Rebaja en Whirlpool JT 479 IX Encimera - Microonda en Amazon'
 date: 2019/12/29 19:18:04 +0000
 comments: true
 tags: B00ODF8H7G

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01E9GE1CI: Rebaja en La popelín de poliéster Lino Rectangular en Amazon
+title: 'B01E9GE1CI: Rebaja en La popelín de poliéster Lino Rectangular en Amazon'
 date: 2019/12/18 07:51:36 +0000
 comments: true
 tags: B01E9GE1CI

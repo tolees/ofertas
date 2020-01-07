@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B00VUQ8LUO: Rebaja en Kappa Trust Footwear  Zapatillas Unisex  en Amazon
+title: 'B00VUQ8LUO: Rebaja en Kappa Trust Footwear  Zapatillas Unisex  en Amazon'
 date: 2020-01-02 15:04:20
 comments: true
 tags: B00VUQ8LUO

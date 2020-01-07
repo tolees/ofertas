@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07HRZLRVH: Ahorra en Lenovo 520S-14IKB - Ordenador portátil 1
+title: 'B07HRZLRVH: Ahorra en Lenovo 520S-14IKB - Ordenador portátil 1'
 date: 2020-01-02 11:21:43
 comments: true
 tags: B07HRZLRVH

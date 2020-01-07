@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B01D52LIZA: Ahorra en Fitfiu -AST1000  Stepper de aeróbico
+title: 'B01D52LIZA: Ahorra en Fitfiu -AST1000  Stepper de aeróbico'
 date: 2019/12/19 12:50:42 +0000
 comments: true
 tags: B01D52LIZA

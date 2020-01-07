@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07PDHSPXT: Rebaja en Echo Dot  3.ª generación  - Altavoz inte en Amazon
+title: 'B07PDHSPXT: Rebaja en Echo Dot  3.ª generación  - Altavoz inte en Amazon'
 date: 2020-01-02 22:58:52
 comments: true
 tags: B07PDHSPXT

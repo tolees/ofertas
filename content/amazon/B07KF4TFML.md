@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07KF4TFML: Rebaja en Levi s The Jacket  Chaqueta Vaquera  Azu en Amazon
+title: 'B07KF4TFML: Rebaja en Levi s The Jacket  Chaqueta Vaquera  Azu en Amazon'
 date: 2019/12/17 09:04:55 +0000
 comments: true
 tags: B07KF4TFML

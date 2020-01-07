@@ -1,6 +1,6 @@
 ---
 layout: post
-title: B07BG8SVQP: Rebaja en G-STAR RAW 3301 Straight Vaqueros  Mediu en Amazon
+title: 'B07BG8SVQP: Rebaja en G-STAR RAW 3301 Straight Vaqueros  Mediu en Amazon'
 date: 2019/12/25 12:43:54 +0000
 comments: true
 tags: B07BG8SVQP
