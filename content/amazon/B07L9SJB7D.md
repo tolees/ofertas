@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07L9SJB7D - Ofertón en Amazon para Lacoste Masters 319 1 SMA  Zapatillas pa'
+title: 'Lacoste Masters 319 1 SMA  Zapatillas pa'
 date: 2020-01-01 12:25:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Qp9Uj73xL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Qp9Uj73xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GD9MBMG: Rebaja en Android 9.0 TV Box 【4GB RAM 64GB ROM】H96 en Amazon'
+title: 'Android 9.0 TV Box 【4GB RAM 64GB ROM】H96'
 date: 2019/12/15 15:17:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LwYFQ7wCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LwYFQ7wCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GD9MBMG

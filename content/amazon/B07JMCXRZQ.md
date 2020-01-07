@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JMCXRZQ - Ofertón en Amazon para Lee Scarlett Vaqueros  Clean Wheaton In '
+title: 'Lee Scarlett Vaqueros  Clean Wheaton In '
 date: 2019/12/25 19:02:33 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/310DLI9CJOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310DLI9CJOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

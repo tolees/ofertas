@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VBF1JRL: Ahorra en Hunletai Cable iPhone Cable Lightning [3'
+title: 'Hunletai Cable iPhone Cable Lightning [3'
 date: 2020-01-06 21:00:25
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51zsogqNIeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zsogqNIeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VBF1JRL

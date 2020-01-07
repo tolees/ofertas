@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B010FV8QZO: Ahorra en Cajonera metálica Realspace 2 cajones gr'
+title: 'Cajonera metálica Realspace 2 cajones gr'
 date: 2019/12/22 09:44:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31docen1MfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31docen1MfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B010FV8QZO

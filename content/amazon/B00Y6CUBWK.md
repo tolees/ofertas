@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00Y6CUBWK: Ahorra en Philips Sonicare EasyClean Zahnbürste HX'
+title: 'Philips Sonicare EasyClean Zahnbürste HX'
 date: 2019/12/12 00:33:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TgZiCxFdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TgZiCxFdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00Y6CUBWK

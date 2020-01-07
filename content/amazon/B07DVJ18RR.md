@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DVJ18RR - Ofertón en Amazon para New Balance M1400V6  Zapatillas de Runni'
+title: 'New Balance M1400V6  Zapatillas de Runni'
 date: 2019/12/30 20:04:12 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

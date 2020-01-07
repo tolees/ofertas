@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00D3HZSUO - Ofertón en Amazon para Lutsine Xeramance  Emulsión Reestructura'
+title: 'Lutsine Xeramance  Emulsión Reestructura'
 date: 2019/12/29 08:06:33 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a0JbG136L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

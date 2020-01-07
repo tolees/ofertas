@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BB8M8HJ - Ofertón en Amazon para CUENCO CERAMICA DESAYUNO MARVEL'
+title: 'CUENCO CERAMICA DESAYUNO MARVEL'
 date: 2019-12-31 20:03:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41USvT3HWDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41USvT3HWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

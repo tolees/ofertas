@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07Y6BPDLN - Ofertón en Amazon para 【2019 Nuevo Versión】 Auriculares Inalamb'
+title: '【2019 Nuevo Versión】 Auriculares Inalamb'
 date: 2020-01-07 07:56:38
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TIWQjfbjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TIWQjfbjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

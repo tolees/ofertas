@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0792FNHFQ: Ahorra en Geox D Myria B  Zapatillas para Mujer  B'
+title: 'Geox D Myria B  Zapatillas para Mujer  B'
 date: 2019/12/26 15:27:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jfq52auSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jfq52auSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0792FNHFQ

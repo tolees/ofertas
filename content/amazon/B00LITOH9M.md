@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00LITOH9M: Rebaja en Tuscany Silver Pulsera de mujer con plat en Amazon'
+title: 'Tuscany Silver Pulsera de mujer con plat'
 date: 2019/12/17 08:07:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/317skwgZmKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317skwgZmKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00LITOH9M

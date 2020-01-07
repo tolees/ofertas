@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BNF1ZLC: Ahorra en Hoomtaook Estante de baño Cesta para duc'
+title: 'Hoomtaook Estante de baño Cesta para duc'
 date: 2019/12/25 18:32:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416%2BYURjnOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416%2BYURjnOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BNF1ZLC

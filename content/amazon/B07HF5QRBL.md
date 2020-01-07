@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HF5QRBL: Ahorra en Bolso Mujer Pequeño Bolso Bandolera Muje'
+title: 'Bolso Mujer Pequeño Bolso Bandolera Muje'
 date: 2019/12/29 19:32:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416ST56mYUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416ST56mYUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HF5QRBL

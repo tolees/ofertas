@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KWPWP5K: Rebaja en Bolsa de Deporte Hombre Bolsas Gimnasio  en Amazon'
+title: 'Bolsa de Deporte Hombre Bolsas Gimnasio '
 date: 2019/12/18 08:35:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uSn2xwxsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uSn2xwxsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KWPWP5K

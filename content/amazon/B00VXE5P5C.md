@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00VXE5P5C: Ahorra en Moma Bikes Patinete Electrico Plegable I'
+title: 'Moma Bikes Patinete Electrico Plegable I'
 date: 2019/12/28 23:08:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4107u4VQHrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4107u4VQHrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VXE5P5C

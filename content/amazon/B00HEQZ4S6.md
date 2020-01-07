@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HEQZ4S6: Rebaja en Timberland 6 Inch Premium Waterproof  Bo en Amazon'
+title: 'Timberland 6 Inch Premium Waterproof  Bo'
 date: 2019/12/30 18:21:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31sWg54DWYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sWg54DWYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HEQZ4S6

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HNHG84W: Ahorra en TOPELEK Luz de Lectura Recargable con 60'
+title: 'TOPELEK Luz de Lectura Recargable con 60'
 date: 2020-01-04 18:32:02
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41s1mFc9NLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s1mFc9NLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HNHG84W

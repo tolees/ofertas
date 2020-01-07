@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F3VQHVG: Ahorra en Bonsenkitchen Báscula Digital Balanza de'
+title: 'Bonsenkitchen Báscula Digital Balanza de'
 date: 2020-01-03 15:34:37
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qTqtEiMvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qTqtEiMvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F3VQHVG

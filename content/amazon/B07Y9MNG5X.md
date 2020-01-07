@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Y9MNG5X: Ahorra en flintronic Organizador de Llaves | Llave'
+title: 'flintronic Organizador de Llaves | Llave'
 date: 2019/12/30 07:45:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412tNElQy0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412tNElQy0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Y9MNG5X

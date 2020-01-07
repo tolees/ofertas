@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JPDDKBZ - Ofertón en Amazon para DAM TEKKIWEAR. DMX222BKRED. Pulsera Inte'
+title: 'DAM TEKKIWEAR. DMX222BKRED. Pulsera Inte'
 date: 2019/12/13 16:01:14 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01BEQYUQS - Ofertón en Amazon para El Naturalista N758  Botines para Mujer '
+title: 'El Naturalista N758  Botines para Mujer '
 date: 2020-01-06 16:39:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

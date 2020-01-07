@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B075GMTBZP - Ofertón en Amazon para Pendientes Mujer J.Rosée Pendientes Muje'
+title: 'Pendientes Mujer J.Rosée Pendientes Muje'
 date: 2020-01-06 13:10:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315J2oI5nzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315J2oI5nzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

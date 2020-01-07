@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PJJQKKH: Rebaja en Adaptador Antena WiFi USB 3.0 Dongle Rec en Amazon'
+title: 'Adaptador Antena WiFi USB 3.0 Dongle Rec'
 date: 2019/12/23 06:16:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41x5WEfb3tL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x5WEfb3tL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PJJQKKH

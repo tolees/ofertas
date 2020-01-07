@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01KKAL7AQ: Rebaja en Glamorise Underwire Lace Bra Sujetador C en Amazon'
+title: 'Glamorise Underwire Lace Bra Sujetador C'
 date: 2019/12/17 09:38:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410HW73d73L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410HW73d73L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01KKAL7AQ

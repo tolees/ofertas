@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RCN9Q4Q: Rebaja en Columbia Centennial Creek Chaqueta De Pl en Amazon'
+title: 'Columbia Centennial Creek Chaqueta De Pl'
 date: 2020-01-05 10:43:20
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DYr5ygulL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DYr5ygulL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RCN9Q4Q

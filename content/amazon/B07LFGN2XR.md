@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LFGN2XR - Ofertón en Amazon para Levi s LS Battery Hm Shirt Camisa  Azul '
+title: 'Levi s LS Battery Hm Shirt Camisa  Azul '
 date: 2019/12/29 12:01:09 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41x4rtMyOGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x4rtMyOGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

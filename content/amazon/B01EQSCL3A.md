@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01EQSCL3A: Rebaja en TOUCHBeauty TB-1583 40 °C Caliente Masaj en Amazon'
+title: 'TOUCHBeauty TB-1583 40 °C Caliente Masaj'
 date: 2019/12/17 11:16:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fXfLodJZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fXfLodJZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01EQSCL3A

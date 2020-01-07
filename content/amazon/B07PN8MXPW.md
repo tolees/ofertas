@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PN8MXPW: Ahorra en Maxi-Cosi Tobi Car Seat  Nomad Black'
+title: 'Maxi-Cosi Tobi Car Seat  Nomad Black'
 date: 2020-01-05 08:47:55
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ivugGq1uL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ivugGq1uL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PN8MXPW

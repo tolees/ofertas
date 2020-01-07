@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RH2Y1YL: Ahorra en G-STAR RAW Revend Skinny Vaqueros  Antic'
+title: 'G-STAR RAW Revend Skinny Vaqueros  Antic'
 date: 2019/12/28 12:05:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MLE8KS-GL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MLE8KS-GL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RH2Y1YL

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DFF22GQ - Ofertón en Amazon para Funko 34910 Pocket POP Keychain: Game of'
+title: 'Funko 34910 Pocket POP Keychain: Game of'
 date: 2019-12-31 22:06:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51WjlX7nj8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WjlX7nj8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

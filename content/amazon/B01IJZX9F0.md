@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01IJZX9F0: Rebaja en Maybelline New York - Master Strobing St en Amazon'
+title: 'Maybelline New York - Master Strobing St'
 date: 2019/12/29 10:08:23 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01IJZX9F0

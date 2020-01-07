@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071F3DDJS: Rebaja en Collar Mujer  J.Rosée "Tú Eres Mi Única  en Amazon'
+title: 'Collar Mujer  J.Rosée "Tú Eres Mi Única '
 date: 2019/12/13 18:35:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ihJLplwpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ihJLplwpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071F3DDJS

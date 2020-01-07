@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LFGV2QG - Ofertón en Amazon para Levi s 514 Vaqueros Straight  Azul  Appl'
+title: 'Levi s 514 Vaqueros Straight  Azul  Appl'
 date: 2020-01-05 18:23:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418FfDBeIjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418FfDBeIjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

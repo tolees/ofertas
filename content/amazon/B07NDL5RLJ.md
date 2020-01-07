@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDL5RLJ: Ahorra en G-STAR RAW Core Super Slim Camisa Vaquer'
+title: 'G-STAR RAW Core Super Slim Camisa Vaquer'
 date: 2019/12/25 20:15:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uZv5OJxFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uZv5OJxFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDL5RLJ

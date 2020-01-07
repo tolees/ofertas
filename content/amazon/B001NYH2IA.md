@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B001NYH2IA: Rebaja en Reebok Classic Leather Zapatillas  Mujer en Amazon'
+title: 'Reebok Classic Leather Zapatillas  Mujer'
 date: 2019/12/20 15:39:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B001NYH2IA

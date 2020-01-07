@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Q43BTSF: Ahorra en Donerton Auriculares Bluetooth 5.0  IPX7'
+title: 'Donerton Auriculares Bluetooth 5.0  IPX7'
 date: 2019/12/28 21:31:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BpCS6daL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BpCS6daL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q43BTSF

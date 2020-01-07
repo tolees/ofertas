@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H3KBJL4: Rebaja en ZAFUL Mujeres Pantalones con Cordones a  en Amazon'
+title: 'ZAFUL Mujeres Pantalones con Cordones a '
 date: 2019/12/26 06:36:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hSpPZcVUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSpPZcVUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H3KBJL4

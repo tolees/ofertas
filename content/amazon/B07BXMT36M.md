@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BXMT36M: Rebaja en Mini Proyector  Tenswall Portátil DLP Vi en Amazon'
+title: 'Mini Proyector  Tenswall Portátil DLP Vi'
 date: 2020-01-02 20:14:30
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51iqbCOtsjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iqbCOtsjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BXMT36M

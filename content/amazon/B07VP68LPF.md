@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VP68LPF: Rebaja en Amilril Collar Estrella Mujer  Plata de  en Amazon'
+title: 'Amilril Collar Estrella Mujer  Plata de '
 date: 2020-01-07 12:16:04
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41m1qXwC35L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m1qXwC35L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VP68LPF

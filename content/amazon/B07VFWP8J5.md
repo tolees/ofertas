@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VFWP8J5 - Ofertón en Amazon para Reebok Boxer para Hombre  Multicolor  Sm'
+title: 'Reebok Boxer para Hombre  Multicolor  Sm'
 date: 2020-01-04 15:57:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cv7h2HX2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cv7h2HX2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

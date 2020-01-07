@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07YYB6SMZ - Ofertón en Amazon para 16 Pcs Juego de Limas y Escofinas Preciv'
+title: '16 Pcs Juego de Limas y Escofinas Preciv'
 date: 2019/12/26 19:42:51 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51qMDZfXXoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qMDZfXXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

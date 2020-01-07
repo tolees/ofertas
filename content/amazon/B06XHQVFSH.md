@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XHQVFSH: Ahorra en Shock Absorber Ultimate Run Bra  Sujetad'
+title: 'Shock Absorber Ultimate Run Bra  Sujetad'
 date: 2019/12/26 13:32:30 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe3g6RjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe3g6RjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XHQVFSH

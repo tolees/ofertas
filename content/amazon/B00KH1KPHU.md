@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00KH1KPHU - Ofertón en Amazon para L Or Espresso Café Or Noir Intensidad 11'
+title: 'L Or Espresso Café Or Noir Intensidad 11'
 date: 2019/12/28 23:29:31 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XSNFKZO%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSNFKZO%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

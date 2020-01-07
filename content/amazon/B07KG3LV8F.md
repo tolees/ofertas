@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KG3LV8F: Ahorra en Lightailing Licht-Set Für  Bugatti Chiro'
+title: 'Lightailing Licht-Set Für  Bugatti Chiro'
 date: 2020-01-05 22:45:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tGZbFMOML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tGZbFMOML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG3LV8F

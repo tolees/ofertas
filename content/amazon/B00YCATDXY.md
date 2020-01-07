@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00YCATDXY: Rebaja en Crock-Pot AutoStir CSC012X Olla de cocci en Amazon'
+title: 'Crock-Pot AutoStir CSC012X Olla de cocci'
 date: 2020-01-07 11:07:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5104yJEGcHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5104yJEGcHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00YCATDXY

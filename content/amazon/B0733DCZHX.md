@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0733DCZHX: Rebaja en find. Pantalones estilo  Jogger  Slim pa en Amazon'
+title: 'find. Pantalones estilo  Jogger  Slim pa'
 date: 2019/12/23 09:54:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mnM8Kvj7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mnM8Kvj7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0733DCZHX

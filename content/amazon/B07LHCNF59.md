@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LHCNF59: Ahorra en THE NORTH FACE Herren Mountain Light II '
+title: 'THE NORTH FACE Herren Mountain Light II '
 date: 2019/12/13 07:27:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XLcpIgTqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XLcpIgTqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LHCNF59

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BL2TPCM - Ofertón en Amazon para New Balance Fresh Foam Arishi  Zapatilla'
+title: 'New Balance Fresh Foam Arishi  Zapatilla'
 date: 2019/12/11 18:37:04 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413ugWXeNIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ugWXeNIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

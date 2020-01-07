@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WR2FHVK: Ahorra en X-TIGER Ciclismo Maillots para Hombres c'
+title: 'X-TIGER Ciclismo Maillots para Hombres c'
 date: 2019/12/20 03:14:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bGrVIbnhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bGrVIbnhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WR2FHVK

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00MN26FWU - Ofertón en Amazon para Samsung SAEPTA12EW - Transformador  cabl'
+title: 'Samsung SAEPTA12EW - Transformador  cabl'
 date: 2020-01-06 15:09:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31XvmrFdurL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XvmrFdurL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GFLKDGY: Rebaja en Harry Potter Pijama para Niños Marauders en Amazon'
+title: 'Harry Potter Pijama para Niños Marauders'
 date: 2019/12/23 14:18:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uFIPeiWzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uFIPeiWzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GFLKDGY

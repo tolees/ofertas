@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07L9QB6FZ - Ofertón en Amazon para Napapijri Seitem Camiseta  Blanco  Brigh'
+title: 'Napapijri Seitem Camiseta  Blanco  Brigh'
 date: 2019/12/17 14:44:15 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KeBRiHnyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KeBRiHnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

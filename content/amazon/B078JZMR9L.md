@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B078JZMR9L - Ofertón en Amazon para CHOETECH USB C a HDMI Cable 4K@60Hz  PD '
+title: 'CHOETECH USB C a HDMI Cable 4K@60Hz  PD '
 date: 2019/12/19 11:35:15 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vGbp968vL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vGbp968vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N4Q2JUD: Rebaja en Lego 30522 The Batman Movie Exclusive Po en Amazon'
+title: 'Lego 30522 The Batman Movie Exclusive Po'
 date: 2020-01-07 06:14:14
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lKctdnGtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lKctdnGtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N4Q2JUD

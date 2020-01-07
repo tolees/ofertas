@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KJ2TDMR: Rebaja en TP-Link Deco M4 Mesh WLAN Router AC1200  en Amazon'
+title: 'TP-Link Deco M4 Mesh WLAN Router AC1200 '
 date: 2019/12/17 12:00:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lfPb6rEwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lfPb6rEwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KJ2TDMR

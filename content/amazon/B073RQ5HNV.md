@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073RQ5HNV: Ahorra en Yetech 78 Piezas Pulseras de Juguete  Re'
+title: 'Yetech 78 Piezas Pulseras de Juguete  Re'
 date: 2019/12/26 11:09:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61c00jk2BbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61c00jk2BbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073RQ5HNV

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00EXW0XVC: Rebaja en Calvin Klein Euphoria Perfume con vapori en Amazon'
+title: 'Calvin Klein Euphoria Perfume con vapori'
 date: 2019/12/23 20:04:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zgP6WY7kL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zgP6WY7kL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00EXW0XVC

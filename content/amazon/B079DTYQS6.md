@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079DTYQS6: Ahorra en Regalo del día de la madre  un AAA plati'
+title: 'Regalo del día de la madre  un AAA plati'
 date: 2020-01-01 13:27:48
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411MjanWj3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411MjanWj3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079DTYQS6

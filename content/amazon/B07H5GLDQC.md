@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H5GLDQC: Ahorra en Yamay Auriculares Inalámbricos para Depo'
+title: 'Yamay Auriculares Inalámbricos para Depo'
 date: 2019-12-31 21:01:41
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31UhI-j6NUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UhI-j6NUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H5GLDQC

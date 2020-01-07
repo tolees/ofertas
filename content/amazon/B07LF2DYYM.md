@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LF2DYYM: Ahorra en Labanema Mate 20 Lite Funda  360 Rotatin'
+title: 'Labanema Mate 20 Lite Funda  360 Rotatin'
 date: 2019/12/12 10:33:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51MnFv0Ak4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MnFv0Ak4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LF2DYYM

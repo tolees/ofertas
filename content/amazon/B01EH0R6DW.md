@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01EH0R6DW: Ahorra en AUKEY Quick Charge 3.0 Cargador USB 60W '
+title: 'AUKEY Quick Charge 3.0 Cargador USB 60W '
 date: 2019-12-31 21:16:40
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ajAdh5PQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ajAdh5PQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01EH0R6DW

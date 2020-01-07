@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FZKYH3R - Ofertón en Amazon para adidas Tiro19 PES Jkt Sport Jacket  Homb'
+title: 'adidas Tiro19 PES Jkt Sport Jacket  Homb'
 date: 2019/12/13 17:55:25 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000BC7QMM: Ahorra en D-Link DGS-105 - Switch de red  5 puerto'
+title: 'D-Link DGS-105 - Switch de red  5 puerto'
 date: 2020-01-06 15:32:53
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41aWYxWM04L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aWYxWM04L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000BC7QMM

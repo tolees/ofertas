@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07R1JKCF6: Ahorra en Bolso de Fiesta Pequeña Elegante Noche D'
+title: 'Bolso de Fiesta Pequeña Elegante Noche D'
 date: 2019/12/30 13:29:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ArEHHDjLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ArEHHDjLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R1JKCF6

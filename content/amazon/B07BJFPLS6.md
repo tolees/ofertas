@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BJFPLS6: Ahorra en Lost Kitties- Pack de Gatitos  Hasbro E4'
+title: 'Lost Kitties- Pack de Gatitos  Hasbro E4'
 date: 2019/12/12 15:40:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51NfG-lftuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NfG-lftuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BJFPLS6

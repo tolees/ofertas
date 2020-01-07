@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GSDKZ43 - Ofertón en Amazon para L.O.L Surprise! Girls Diva and Rocker Py'
+title: 'L.O.L Surprise! Girls Diva and Rocker Py'
 date: 2019/12/11 21:56:32 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51KDNTFvhJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KDNTFvhJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

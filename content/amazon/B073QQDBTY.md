@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073QQDBTY: Rebaja en find. Jersey de Cuello Alto con Cremalle en Amazon'
+title: 'find. Jersey de Cuello Alto con Cremalle'
 date: 2019/12/21 08:00:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y-l4uYusL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y-l4uYusL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073QQDBTY

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WW5QFBL: Rebaja en YOSICIL Vestido Elsa con Capa Disfraz de en Amazon'
+title: 'YOSICIL Vestido Elsa con Capa Disfraz de'
 date: 2019/12/30 00:53:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ejZHNGl%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ejZHNGl%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WW5QFBL

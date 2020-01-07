@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GRRWS39 - Ofertón en Amazon para Bovon Brazalete Deportivo  Brazalete par'
+title: 'Bovon Brazalete Deportivo  Brazalete par'
 date: 2019/12/11 09:00:19 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wjvic2FPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wjvic2FPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

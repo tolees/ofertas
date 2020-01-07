@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07YPNQNL7: Ahorra en Altavoz Bluetooth  Altavoces Bluetooth P'
+title: 'Altavoz Bluetooth  Altavoces Bluetooth P'
 date: 2019/12/16 14:15:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61D9tw4Wu0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61D9tw4Wu0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YPNQNL7

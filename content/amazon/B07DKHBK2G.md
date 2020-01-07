@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DKHBK2G: Rebaja en Kipling - Money Power  Carteras Mujer  M en Amazon'
+title: 'Kipling - Money Power  Carteras Mujer  M'
 date: 2019-12-31 17:02:48
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CZe3oD1LL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CZe3oD1LL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DKHBK2G

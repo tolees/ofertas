@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FTCRVNH - Ofertón en Amazon para AmzBarley Girls Princess Anna Coronation'
+title: 'AmzBarley Girls Princess Anna Coronation'
 date: 2019/12/22 08:26:48 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/512GUWrVBuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512GUWrVBuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

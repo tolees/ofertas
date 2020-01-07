@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PHMBSMT: Ahorra en Memoria USB para iPhone y iPad [MFi Cert'
+title: 'Memoria USB para iPhone y iPad [MFi Cert'
 date: 2019/12/22 23:21:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uGTd8II4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uGTd8II4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PHMBSMT

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07WWXV5BZ - Ofertón en Amazon para PowerA - Funda De Transporte Roja Stealt'
+title: 'PowerA - Funda De Transporte Roja Stealt'
 date: 2019/12/22 09:51:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411Ur7LwPOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Ur7LwPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

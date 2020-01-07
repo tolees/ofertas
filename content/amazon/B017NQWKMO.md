@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B017NQWKMO: Ahorra en Funko Pocket Pop Keychain : Harry Potter'
+title: 'Funko Pocket Pop Keychain : Harry Potter'
 date: 2019/12/16 15:05:30 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KG6aEp8TL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KG6aEp8TL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B017NQWKMO

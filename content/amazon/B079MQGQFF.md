@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079MQGQFF: Ahorra en find. Gabardina Estilo Trench Mujer  Azu'
+title: 'find. Gabardina Estilo Trench Mujer  Azu'
 date: 2019/12/22 20:26:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41c3Sv3oaDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c3Sv3oaDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079MQGQFF

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JKLB7JR: Ahorra en Power Bank 25000mAh  Bateria Externa par'
+title: 'Power Bank 25000mAh  Bateria Externa par'
 date: 2019/12/10 23:31:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Y6muIiA5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y6muIiA5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JKLB7JR

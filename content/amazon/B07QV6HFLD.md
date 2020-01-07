@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QV6HFLD: Rebaja en DOOKEY Pinturas Cara para Niños  Pintura en Amazon'
+title: 'DOOKEY Pinturas Cara para Niños  Pintura'
 date: 2019/12/22 12:50:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Byng0sehL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Byng0sehL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QV6HFLD

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QWWY1MZ: Rebaja en HOMIEE Mochila PC 13-15.6 Pulgadas  Moch en Amazon'
+title: 'HOMIEE Mochila PC 13-15.6 Pulgadas  Moch'
 date: 2019/12/16 01:44:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BB7XsZ3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2BB7XsZ3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QWWY1MZ

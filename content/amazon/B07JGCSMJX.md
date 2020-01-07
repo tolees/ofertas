@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JGCSMJX: Ahorra en CPU INTEL Core I7-9800X 3.80GHZ 16.50M L'
+title: 'CPU INTEL Core I7-9800X 3.80GHZ 16.50M L'
 date: 2019/12/12 11:44:47 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415yuU6DjDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415yuU6DjDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JGCSMJX

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B075SWTZ1X: Ahorra en BRA Silver- Set sartenes 18 - 22 - 26 cm'
+title: 'BRA Silver- Set sartenes 18 - 22 - 26 cm'
 date: 2020-01-06 20:59:24
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31olLneCNXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31olLneCNXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075SWTZ1X

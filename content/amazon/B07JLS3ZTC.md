@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JLS3ZTC: Ahorra en Playmobil 70173 Ghostbusters Toy  Multic'
+title: 'Playmobil 70173 Ghostbusters Toy  Multic'
 date: 2019/12/30 09:20:30 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51XHLcpoJNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XHLcpoJNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JLS3ZTC

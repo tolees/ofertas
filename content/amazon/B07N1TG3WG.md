@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N1TG3WG: Rebaja en AmazonBasics - Mopa para el polvo  trapo en Amazon'
+title: 'AmazonBasics - Mopa para el polvo  trapo'
 date: 2019/12/11 21:45:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21CKkBb-fkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21CKkBb-fkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N1TG3WG

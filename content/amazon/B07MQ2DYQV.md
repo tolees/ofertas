@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MQ2DYQV: Rebaja en Clarks - Botines de Cuero Hombre  Color  en Amazon'
+title: 'Clarks - Botines de Cuero Hombre  Color '
 date: 2020-01-04 07:39:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MQ2DYQV

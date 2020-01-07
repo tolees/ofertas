@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000VMRCNU: Rebaja en Timberland Heritage 6 Inch Premium Water en Amazon'
+title: 'Timberland Heritage 6 Inch Premium Water'
 date: 2019/12/21 11:28:11 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41j3dXuP%2BFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j3dXuP%2BFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000VMRCNU

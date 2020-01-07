@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00IRBB1O8: Ahorra en Cartier - La Panthère Gel de ducha'
+title: 'Cartier - La Panthère Gel de ducha'
 date: 2020-01-04 21:21:25
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411ZNGnoYCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ZNGnoYCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00IRBB1O8

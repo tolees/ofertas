@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GRKDFR1: Ahorra en The Division 2: Dark Zone - Collector s '
+title: 'The Division 2: Dark Zone - Collector s '
 date: 2020-01-02 16:15:47
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51te4eVbn5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51te4eVbn5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GRKDFR1

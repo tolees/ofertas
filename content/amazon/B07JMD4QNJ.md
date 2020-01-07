@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JMD4QNJ: Ahorra en PLAYMOBIL Country 70132 Großer Bauernhof'
+title: 'PLAYMOBIL Country 70132 Großer Bauernhof'
 date: 2020-01-02 10:04:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61CPTD3JMgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61CPTD3JMgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JMD4QNJ

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B007FDSPF2: Rebaja en Twister - Hasbro Gaming  Hasbro 98831175 en Amazon'
+title: 'Twister - Hasbro Gaming  Hasbro 98831175'
 date: 2020-01-01 12:10:27
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TK6fdfZzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TK6fdfZzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B007FDSPF2

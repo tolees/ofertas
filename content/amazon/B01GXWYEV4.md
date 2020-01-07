@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01GXWYEV4 - Ofertón en Amazon para Hollister Wave For Her Perfume - 50 ml'
+title: 'Hollister Wave For Her Perfume - 50 ml'
 date: 2019/12/27 06:16:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqijUB5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqijUB5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

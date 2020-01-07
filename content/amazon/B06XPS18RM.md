@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06XPS18RM - Ofertón en Amazon para Calzado Deportivo Masculino de Seguridad'
+title: 'Calzado Deportivo Masculino de Seguridad'
 date: 2019/12/23 16:10:27 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51o0hdyLcRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o0hdyLcRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01M8M6ETG: Rebaja en DANISH ENDURANCE Calcetines de Compresió en Amazon'
+title: 'DANISH ENDURANCE Calcetines de Compresió'
 date: 2019/12/22 11:24:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VQgTBMajL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VQgTBMajL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01M8M6ETG

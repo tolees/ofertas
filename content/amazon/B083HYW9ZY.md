@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B083HYW9ZY: Ahorra en K9CK Luces LED para Technic Todoterreno '
+title: 'K9CK Luces LED para Technic Todoterreno '
 date: 2020-01-07 15:07:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PNs51xsdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PNs51xsdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B083HYW9ZY

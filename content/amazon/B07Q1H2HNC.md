@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Q1H2HNC: Ahorra en ReliBeauty Little Girls Princess Fancy D'
+title: 'ReliBeauty Little Girls Princess Fancy D'
 date: 2020-01-06 14:04:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hFD3koa4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hFD3koa4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q1H2HNC

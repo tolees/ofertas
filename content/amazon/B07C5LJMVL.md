@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07C5LJMVL: Ahorra en JACK & JONES Jjebasic Knit Crew Neck Noo'
+title: 'JACK & JONES Jjebasic Knit Crew Neck Noo'
 date: 2019/12/14 15:27:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412G-CAeMiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412G-CAeMiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C5LJMVL

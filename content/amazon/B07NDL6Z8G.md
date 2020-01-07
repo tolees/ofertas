@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDL6Z8G: Ahorra en G-STAR RAW Rovic Wrap Cargo Falda  Gris '
+title: 'G-STAR RAW Rovic Wrap Cargo Falda  Gris '
 date: 2020-01-05 19:11:49
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Cw1lO9mLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Cw1lO9mLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDL6Z8G

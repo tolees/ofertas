@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QQ45TRP: Rebaja en Ferilinso Funda para Xiaomi Mi A3 Elegan en Amazon'
+title: 'Ferilinso Funda para Xiaomi Mi A3 Elegan'
 date: 2020-01-05 16:13:38
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QQ45TRP

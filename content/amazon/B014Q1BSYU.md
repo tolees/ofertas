@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B014Q1BSYU - Ofertón en Amazon para Sunstech ARGOS4GBBL - Reproductor MP3 de'
+title: 'Sunstech ARGOS4GBBL - Reproductor MP3 de'
 date: 2020-01-03 20:24:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uy2AmVWJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uy2AmVWJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

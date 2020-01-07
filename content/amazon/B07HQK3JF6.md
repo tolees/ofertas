@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HQK3JF6: Rebaja en FiiO M9 High Resolution Lossless Audio P en Amazon'
+title: 'FiiO M9 High Resolution Lossless Audio P'
 date: 2019/12/18 08:35:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31mTasQdTzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mTasQdTzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HQK3JF6

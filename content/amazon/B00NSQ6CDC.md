@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00NSQ6CDC - Ofertón en Amazon para 4Protect 20-003371-S - Chaqueta soft she'
+title: '4Protect 20-003371-S - Chaqueta soft she'
 date: 2019/12/31 13:17:33 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qh6tF1NiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qh6tF1NiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

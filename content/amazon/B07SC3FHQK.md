@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SC3FHQK: Ahorra en Ferilinso Funda para Xiaomi Mi 9T Pro/Mi'
+title: 'Ferilinso Funda para Xiaomi Mi 9T Pro/Mi'
 date: 2020-01-02 19:26:25
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/516Ls6Nv8UL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Ls6Nv8UL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SC3FHQK

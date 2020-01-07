@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NTSMBH8 - Ofertón en Amazon para Funko 39362 Spider-Man POP Vinyl Figure '
+title: 'Funko 39362 Spider-Man POP Vinyl Figure '
 date: 2020-01-01 22:15:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31bojvMvrAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bojvMvrAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

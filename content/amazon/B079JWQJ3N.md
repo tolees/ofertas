@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B079JWQJ3N - Ofertón en Amazon para NNDOLL Vestido de Princesa Carnaval Vest'
+title: 'NNDOLL Vestido de Princesa Carnaval Vest'
 date: 2020-01-05 14:28:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

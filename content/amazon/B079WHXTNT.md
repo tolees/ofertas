@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079WHXTNT: Ahorra en Pepe Jeans Hatch  Vaqueros Slim para Hom'
+title: 'Pepe Jeans Hatch  Vaqueros Slim para Hom'
 date: 2019-12-31 21:23:38
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416Oo30VNVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Oo30VNVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079WHXTNT

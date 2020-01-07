@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07G38BVRK - Ofertón en Amazon para Chicco Miinimo2 Silla de paseo ultracomp'
+title: 'Chicco Miinimo2 Silla de paseo ultracomp'
 date: 2019/12/24 16:02:23 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418uiPQaeSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418uiPQaeSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

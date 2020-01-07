@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Y59GHGN: Rebaja en Tablet 10 Pulgadas YOTOPT  4GB de RAM y  en Amazon'
+title: 'Tablet 10 Pulgadas YOTOPT  4GB de RAM y '
 date: 2019/12/14 21:32:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51XfI6-WE3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XfI6-WE3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Y59GHGN

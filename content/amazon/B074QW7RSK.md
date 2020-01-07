@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074QW7RSK: Rebaja en Yo-Kai Watch 2: Mentespectros en Amazon'
+title: 'Yo-Kai Watch 2: Mentespectros'
 date: 2019/12/21 10:08:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/615j%2BI388BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615j%2BI388BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074QW7RSK

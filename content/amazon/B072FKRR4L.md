@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B072FKRR4L - Ofertón en Amazon para Dunlop OMEGA - Pala de pádel 38mm  2017 '
+title: 'Dunlop OMEGA - Pala de pádel 38mm  2017 '
 date: 2019/12/22 12:35:31 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515QcEClkhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515QcEClkhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

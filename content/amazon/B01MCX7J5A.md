@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MCX7J5A: Ahorra en NGS Roller Glow 3 W Azul  Rojo - Altavoc'
+title: 'NGS Roller Glow 3 W Azul  Rojo - Altavoc'
 date: 2019/12/27 17:01:52 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51P-5OQbydL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P-5OQbydL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MCX7J5A

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079GS5RWH: Rebaja en 1home Soporte portátil ergónomico Adjust en Amazon'
+title: '1home Soporte portátil ergónomico Adjust'
 date: 2020-01-06 14:56:09
 comments: true
-image: 'None._SL200_'
+thumbnailImage: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B079GS5RWH

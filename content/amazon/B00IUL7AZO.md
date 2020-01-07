@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00IUL7AZO - Ofertón en Amazon para Philips Daily HR1625/00 - Batidora de Ma'
+title: 'Philips Daily HR1625/00 - Batidora de Ma'
 date: 2019/12/30 13:58:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31NPZ7-3W%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NPZ7-3W%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

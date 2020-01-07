@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07S8Q5GTJ: Ahorra en Guirnalda navidad de luz 300 LED Blanco '
+title: 'Guirnalda navidad de luz 300 LED Blanco '
 date: 2020-01-06 09:59:17
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51C48yzuAEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C48yzuAEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S8Q5GTJ

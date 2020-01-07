@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KFWV33R - Ofertón en Amazon para PUMA Aeon Heritage Wn s  Zapatillas Depo'
+title: 'PUMA Aeon Heritage Wn s  Zapatillas Depo'
 date: 2019/12/21 09:46:37 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-hu8KQOpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-hu8KQOpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

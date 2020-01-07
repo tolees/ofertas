@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01D9KX8KG: Rebaja en SALCAR Carcasa USB 3.0 para Discos Duros en Amazon'
+title: 'SALCAR Carcasa USB 3.0 para Discos Duros'
 date: 2020-01-02 18:23:21
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UJDp2SxdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UJDp2SxdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01D9KX8KG

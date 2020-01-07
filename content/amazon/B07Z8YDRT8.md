@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07Z8YDRT8 - Ofertón en Amazon para NUBILY Bolsa de Deporte Bolsa Gimnasio d'
+title: 'NUBILY Bolsa de Deporte Bolsa Gimnasio d'
 date: 2019/12/16 21:00:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51MFF-OsKqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MFF-OsKqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

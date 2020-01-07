@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RCP9XZK: Ahorra en Columbia Canyon Point Sudadera Polar con'
+title: 'Columbia Canyon Point Sudadera Polar con'
 date: 2019/12/26 14:40:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kDPiIhdgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kDPiIhdgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RCP9XZK

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H1VTD4K: Rebaja en ORNARTO Funda Huawei Mate 20 Lite Mate 2 en Amazon'
+title: 'ORNARTO Funda Huawei Mate 20 Lite Mate 2'
 date: 2019/12/18 10:08:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Gd0JrhTlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Gd0JrhTlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H1VTD4K

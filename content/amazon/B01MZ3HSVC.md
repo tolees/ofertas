@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MZ3HSVC: Rebaja en Speedo Splice de 7 cm Bañador Tipo Slip  en Amazon'
+title: 'Speedo Splice de 7 cm Bañador Tipo Slip '
 date: 2019/12/27 11:30:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kZVQNsJrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kZVQNsJrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MZ3HSVC

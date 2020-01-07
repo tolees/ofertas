@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LF5XYSF: Rebaja en Levi s Coit Down Puffer Chaqueta  Negro  en Amazon'
+title: 'Levi s Coit Down Puffer Chaqueta  Negro '
 date: 2020-01-03 15:40:08
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LF5XYSF

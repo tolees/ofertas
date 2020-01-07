@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00BHGNREC: Rebaja en PUMA Hose Spirit Pants W Zipped Leg Open en Amazon'
+title: 'PUMA Hose Spirit Pants W Zipped Leg Open'
 date: 2019/12/16 12:29:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418i2tCTssL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418i2tCTssL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BHGNREC

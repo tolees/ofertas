@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00LI3Y6TE: Rebaja en TP-Link UH720 - USB 3.0  hub de 7 Puerto en Amazon'
+title: 'TP-Link UH720 - USB 3.0  hub de 7 Puerto'
 date: 2019/12/17 16:15:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31sZrDKTmiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sZrDKTmiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00LI3Y6TE

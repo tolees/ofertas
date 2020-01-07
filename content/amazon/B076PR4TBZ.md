@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B076PR4TBZ: Ahorra en SUAOKI - 150Wh Generador Portátil Solar '
+title: 'SUAOKI - 150Wh Generador Portátil Solar '
 date: 2019/12/17 19:15:27 +0000
 comments: true
-image: '._SL200_'
+thumbnailImage: '._SL200_'
 category: ofertas
 author: ring
 slug: B076PR4TBZ

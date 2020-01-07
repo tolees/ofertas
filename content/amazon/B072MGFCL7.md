@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072MGFCL7: Rebaja en Pecute Comedero para Gatos Perros Mascot en Amazon'
+title: 'Pecute Comedero para Gatos Perros Mascot'
 date: 2020-01-06 10:10:36
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E8NkBgBJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E8NkBgBJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072MGFCL7

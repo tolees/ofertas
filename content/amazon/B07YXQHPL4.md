@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07YXQHPL4 - Ofertón en Amazon para Máscara para pelo  Cabello Mascarillas  '
+title: 'Máscara para pelo  Cabello Mascarillas  '
 date: 2019/12/17 16:25:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Gfkgr1bPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Gfkgr1bPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JNX63DG: Rebaja en DAM. DMZ055BK. Brazalete Inteligente con en Amazon'
+title: 'DAM. DMZ055BK. Brazalete Inteligente con'
 date: 2019/12/16 08:01:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41n5X2mieFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n5X2mieFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JNX63DG

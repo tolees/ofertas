@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00UJV8AIE: Rebaja en Metal Gear Solid V: Phantom Pain - Day O en Amazon'
+title: 'Metal Gear Solid V: Phantom Pain - Day O'
 date: 2019/12/22 18:19:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51whANkq5nL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51whANkq5nL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00UJV8AIE

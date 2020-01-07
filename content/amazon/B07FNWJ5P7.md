@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FNWJ5P7: Ahorra en LEGO NINJAGO 70665 - Samurai-Roboter'
+title: 'LEGO NINJAGO 70665 - Samurai-Roboter'
 date: 2020-01-07 14:30:21
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNWJ5P7

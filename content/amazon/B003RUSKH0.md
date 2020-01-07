@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B003RUSKH0: Ahorra en Bombay Sapphire London Dry Gin  1 x 0.7 '
+title: 'Bombay Sapphire London Dry Gin  1 x 0.7 '
 date: 2019/12/16 16:41:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-BPiOE6GL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-BPiOE6GL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B003RUSKH0

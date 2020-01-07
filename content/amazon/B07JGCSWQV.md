@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JGCSWQV: Rebaja en Lacoste Sh6382 Sudadera  Azul  Marine 16 en Amazon'
+title: 'Lacoste Sh6382 Sudadera  Azul  Marine 16'
 date: 2019/12/30 19:29:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ok6i057WL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ok6i057WL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JGCSWQV

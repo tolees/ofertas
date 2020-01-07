@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RYN2KZB: Ahorra en Asics Gel-Bondi  Zapatillas de Running p'
+title: 'Asics Gel-Bondi  Zapatillas de Running p'
 date: 2020-01-06 20:32:08
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RYN2KZB

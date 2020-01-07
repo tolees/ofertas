@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07J3QVWC8: Rebaja en Dim Soutien-Gorge Sans Armature Invisifi en Amazon'
+title: 'Dim Soutien-Gorge Sans Armature Invisifi'
 date: 2020-01-04 20:23:00
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BPf-JrN9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BPf-JrN9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J3QVWC8

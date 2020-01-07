@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B072KKCFWF - Ofertón en Amazon para PUMA 074896 02 Bolsa Pequeña  Unisex Adu'
+title: 'PUMA 074896 02 Bolsa Pequeña  Unisex Adu'
 date: 2019/12/23 06:25:20 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41F8QVcuNSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F8QVcuNSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

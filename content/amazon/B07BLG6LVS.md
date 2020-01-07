@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BLG6LVS: Rebaja en Esprit 998ee1k812 Camisa Manga Larga  Ne en Amazon'
+title: 'Esprit 998ee1k812 Camisa Manga Larga  Ne'
 date: 2019/12/13 15:06:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yXaLr7KtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yXaLr7KtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BLG6LVS

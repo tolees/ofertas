@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BHYHJ2F: Rebaja en Jabra Elite 65t True Wireless Bluetooth  en Amazon'
+title: 'Jabra Elite 65t True Wireless Bluetooth '
 date: 2019/12/21 21:39:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bw10374uL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bw10374uL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BHYHJ2F

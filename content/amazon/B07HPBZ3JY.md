@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HPBZ3JY - Ofertón en Amazon para Huawei Flexible Protective Silicone Case'
+title: 'Huawei Flexible Protective Silicone Case'
 date: 2019/12/20 01:11:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/212rCd9zAAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/212rCd9zAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

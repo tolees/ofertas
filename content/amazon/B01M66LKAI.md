@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01M66LKAI: Rebaja en Under Armour Rival Fitted Pull Over Suda en Amazon'
+title: 'Under Armour Rival Fitted Pull Over Suda'
 date: 2019/12/17 18:29:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ARkW7vVcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ARkW7vVcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01M66LKAI

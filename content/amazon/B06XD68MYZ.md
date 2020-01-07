@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06XD68MYZ - Ofertón en Amazon para L Oréal Paris Glam Beige Maquillaje Perf'
+title: 'L Oréal Paris Glam Beige Maquillaje Perf'
 date: 2019/12/17 09:53:27 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuDH5dkLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuDH5dkLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

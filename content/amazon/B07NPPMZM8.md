@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NPPMZM8: Ahorra en Nene Toys - Torre de Bloques de Madera 4'
+title: 'Nene Toys - Torre de Bloques de Madera 4'
 date: 2020-01-06 12:20:37
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/513bespKpbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513bespKpbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NPPMZM8

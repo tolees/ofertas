@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B081SDTZ2G: Ahorra en Disney Frozen 2 Anna Fancy Dress Set wit'
+title: 'Disney Frozen 2 Anna Fancy Dress Set wit'
 date: 2020-01-05 22:09:32
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51yD92zEY6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yD92zEY6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081SDTZ2G

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079GKKB3Z: Ahorra en Sylvanian Families Town - Grand Departme'
+title: 'Sylvanian Families Town - Grand Departme'
 date: 2020-01-05 22:35:36
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Fk-Q5a5IL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Fk-Q5a5IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079GKKB3Z

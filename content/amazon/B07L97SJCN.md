@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07L97SJCN - Ofertón en Amazon para Under Armour Challenger III Training Pan'
+title: 'Under Armour Challenger III Training Pan'
 date: 2019/12/18 17:59:35 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KqYv87czL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KqYv87czL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

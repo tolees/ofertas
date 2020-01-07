@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07M5F8LRG: Ahorra en Baby Jogger City Tour LUX DUO Cochecito '
+title: 'Baby Jogger City Tour LUX DUO Cochecito '
 date: 2020-01-01 23:49:41
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M5F8LRG

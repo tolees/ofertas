@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077TVN6ZW: Rebaja en Reebok Work N Cushion 3.0  Zapatillas de en Amazon'
+title: 'Reebok Work N Cushion 3.0  Zapatillas de'
 date: 2019/12/18 12:19:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414BSHFmWSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414BSHFmWSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077TVN6ZW

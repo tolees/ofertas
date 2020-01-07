@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GLD8D8M: Rebaja en Cybex - Silla de coche grupo 0+/1 Sirona en Amazon'
+title: 'Cybex - Silla de coche grupo 0+/1 Sirona'
 date: 2019/12/30 20:34:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31SE%2B%2BqB5EL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SE%2B%2BqB5EL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GLD8D8M

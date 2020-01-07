@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00XAER5QU: Rebaja en Durex Preservativos Placer Prolongado co en Amazon'
+title: 'Durex Preservativos Placer Prolongado co'
 date: 2019/12/20 18:56:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qy0i2FV4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qy0i2FV4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00XAER5QU

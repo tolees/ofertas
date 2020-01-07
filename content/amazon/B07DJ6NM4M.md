@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DJ6NM4M: Rebaja en Geox U Terence a  Zapatos de Cordones Br en Amazon'
+title: 'Geox U Terence a  Zapatos de Cordones Br'
 date: 2019/12/11 09:20:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31vIx7urTlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vIx7urTlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DJ6NM4M

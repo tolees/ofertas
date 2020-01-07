@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VN9HTX2: Rebaja en Xbox One S Gears 5 en Amazon'
+title: 'Xbox One S Gears 5'
 date: 2020-01-01 20:31:22
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51crK6L-aUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51crK6L-aUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VN9HTX2

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KYDN27Y - Ofertón en Amazon para Saro 1435-C - Porta chupete  unisex'
+title: 'Saro 1435-C - Porta chupete  unisex'
 date: 2020-01-03 09:44:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21MaTKxU23L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21MaTKxU23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

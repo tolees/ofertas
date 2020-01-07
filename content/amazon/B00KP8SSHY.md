@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00KP8SSHY - Ofertón en Amazon para adidas Originals Stan Smith  Zapatillas '
+title: 'adidas Originals Stan Smith  Zapatillas '
 date: 2019/12/28 15:36:33 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WGnV0dySL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WGnV0dySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

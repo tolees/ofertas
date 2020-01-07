@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000GIL1UE: Rebaja en Versace Crystal Noir Agua de Tocador Vap en Amazon'
+title: 'Versace Crystal Noir Agua de Tocador Vap'
 date: 2019/12/31 11:39:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31tNyXKA32L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tNyXKA32L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000GIL1UE

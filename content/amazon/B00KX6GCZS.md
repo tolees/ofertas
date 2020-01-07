@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00KX6GCZS: Rebaja en BERING Reloj Analógico para Hombre de Cu en Amazon'
+title: 'BERING Reloj Analógico para Hombre de Cu'
 date: 2019/12/19 11:02:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418hGDGqpzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418hGDGqpzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KX6GCZS

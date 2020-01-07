@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LFZG92K: Ahorra en adidas W E Lin Slim T Camiseta de Manga '
+title: 'adidas W E Lin Slim T Camiseta de Manga '
 date: 2020-01-05 19:34:20
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFZG92K

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NC5L8QT - Ofertón en Amazon para Barbie - Chelsea Muñeca y Su Caravana  c'
+title: 'Barbie - Chelsea Muñeca y Su Caravana  c'
 date: 2019/12/29 18:11:13 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51BG%2BNshBHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BG%2BNshBHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

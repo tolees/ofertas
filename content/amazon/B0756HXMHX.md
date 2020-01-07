@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0756HXMHX: Ahorra en Tiny Love 3 in 1 Close to Me Bouncer - B'
+title: 'Tiny Love 3 in 1 Close to Me Bouncer - B'
 date: 2020-01-06 22:54:24
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PQTY4KL7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PQTY4KL7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0756HXMHX

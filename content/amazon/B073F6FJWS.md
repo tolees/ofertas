@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B073F6FJWS - Ofertón en Amazon para LOSMILE Hombres Lona Bolso de Bandolera '
+title: 'LOSMILE Hombres Lona Bolso de Bandolera '
 date: 2020-01-05 20:19:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51DDelNpDvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DDelNpDvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

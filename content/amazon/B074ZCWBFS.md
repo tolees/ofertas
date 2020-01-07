@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074ZCWBFS: Rebaja en Seiko Reloj Analógico para Hombre de Cua en Amazon'
+title: 'Seiko Reloj Analógico para Hombre de Cua'
 date: 2019/12/25 21:48:52 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51loVKELrXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51loVKELrXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074ZCWBFS

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CGVM93H: Ahorra en REPLAY Grover Vaqueros Straight  Negro  '
+title: 'REPLAY Grover Vaqueros Straight  Negro  '
 date: 2019/12/17 16:04:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41229tKvIRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41229tKvIRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CGVM93H

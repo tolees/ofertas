@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00M1WDEOO: Rebaja en Einhell Expert TE-CD 18-2 Li-I Kit - Tal en Amazon'
+title: 'Einhell Expert TE-CD 18-2 Li-I Kit - Tal'
 date: 2020-01-05 13:43:12
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PwMVacvFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PwMVacvFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00M1WDEOO

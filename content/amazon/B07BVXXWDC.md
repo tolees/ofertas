@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BVXXWDC - Ofertón en Amazon para seQoya - Baobab | Reloj de Madera con Es'
+title: 'seQoya - Baobab | Reloj de Madera con Es'
 date: 2019/12/24 10:42:17 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qO%2Bcpu-RL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qO%2Bcpu-RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

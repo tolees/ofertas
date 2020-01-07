@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F2KGKF6 - Ofertón en Amazon para Calvin Klein Sonnenbrille Ck2156S 60 Gaf'
+title: 'Calvin Klein Sonnenbrille Ck2156S 60 Gaf'
 date: 2019/12/28 13:11:39 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31RqoWavlUL._SL200_.jpg'
 comments: true
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RqoWavlUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F2KGKF6
@@ -13,10 +13,10 @@ comparePrice: 181 EUR
 inStock: true
 ---
 
-Tienes [Calvin Klein Sonnenbrille Ck2156S 60 Gafas de sol  Gris  Gr   54.0 para Hombre](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20) a precio de oferta de 29.91 EUR (original: 181 EUR) en el siguiente enlace!
+Está [Calvin Klein Sonnenbrille Ck2156S 60 Gafas de sol  Gris  Gr   54.0 para Hombre](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20) por 29.91 EUR (original: 181 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RqoWavlUL._SL200_.jpg)](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

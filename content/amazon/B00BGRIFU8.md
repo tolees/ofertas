@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00BGRIFU8: Ahorra en Dickie Toys 203462411 - Giant Crane  kab'
+title: 'Dickie Toys 203462411 - Giant Crane  kab'
 date: 2019/12/13 13:56:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417IFXI0PdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417IFXI0PdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BGRIFU8

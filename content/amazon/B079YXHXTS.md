@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079YXHXTS: Rebaja en Hugo BOSS Reloj Cronógrafo para Hombre d en Amazon'
+title: 'Hugo BOSS Reloj Cronógrafo para Hombre d'
 date: 2019/12/20 01:33:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hX%2BmwKUCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hX%2BmwKUCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079YXHXTS

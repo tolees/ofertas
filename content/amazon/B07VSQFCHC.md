@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VSQFCHC - Ofertón en Amazon para LUDOS Clamor Auriculares con Micrófono y'
+title: 'LUDOS Clamor Auriculares con Micrófono y'
 date: 2019/12/24 09:50:09 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ANlSNjDcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ANlSNjDcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

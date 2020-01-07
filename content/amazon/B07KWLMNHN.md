@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KWLMNHN - Ofertón en Amazon para BRIKSMAX Volkswagen T1 Camper Van Led Li'
+title: 'BRIKSMAX Volkswagen T1 Camper Van Led Li'
 date: 2020-01-05 22:13:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

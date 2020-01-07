@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07S1TQ5XW: Rebaja en Ultimate Fat Burner | Potente quemagrasa en Amazon'
+title: 'Ultimate Fat Burner | Potente quemagrasa'
 date: 2019/12/17 23:55:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41K618MI2TL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K618MI2TL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S1TQ5XW

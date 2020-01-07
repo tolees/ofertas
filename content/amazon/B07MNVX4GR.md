@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MNVX4GR: Ahorra en SINOES Zapatos De Los Hombres De Microfi'
+title: 'SINOES Zapatos De Los Hombres De Microfi'
 date: 2020-01-05 20:23:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51QyIRzQljL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QyIRzQljL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MNVX4GR

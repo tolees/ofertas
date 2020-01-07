@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GKKY6S9: Rebaja en FITTOO Mallas Pantalones Deportivos Legg en Amazon'
+title: 'FITTOO Mallas Pantalones Deportivos Legg'
 date: 2019-12-31 17:54:47
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2BZIO9udL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2BZIO9udL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GKKY6S9

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GJF4SPT: Rebaja en Alexis Leroy Botas con Tacón para Mujer  en Amazon'
+title: 'Alexis Leroy Botas con Tacón para Mujer '
 date: 2019/12/29 13:09:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IO7IxtXFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IO7IxtXFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GJF4SPT

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07K79JTGT - Ofertón en Amazon para WOSTOO Crayones  9 Colores Crayones de H'
+title: 'WOSTOO Crayones  9 Colores Crayones de H'
 date: 2019/12/14 10:57:13 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51h0ZmFy94L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h0ZmFy94L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

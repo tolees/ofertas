@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00PA99NSG: Ahorra en Woxter Big Bass 110 R - Altavoces multim'
+title: 'Woxter Big Bass 110 R - Altavoces multim'
 date: 2019/12/12 07:54:43 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HQuLO9zqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HQuLO9zqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00PA99NSG

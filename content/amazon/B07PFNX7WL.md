@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PFNX7WL: Rebaja en YZPUSI 32 GB Memoria USB  2 en 1 USB 2.0 en Amazon'
+title: 'YZPUSI 32 GB Memoria USB  2 en 1 USB 2.0'
 date: 2019/12/24 13:46:43 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DvJfIgZ-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DvJfIgZ-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PFNX7WL

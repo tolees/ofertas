@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B012NOWNZ0 - Ofertón en Amazon para Hugo Boss  Agua de colonia para hombres '
+title: 'Hugo Boss  Agua de colonia para hombres '
 date: 2020-01-03 02:39:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fymHi7oSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fymHi7oSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B076GTW4SS: Ahorra en Boy Botas de Baloncesto Zapatillas Depor'
+title: 'Boy Botas de Baloncesto Zapatillas Depor'
 date: 2019/12/30 19:11:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51GG49lFn5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GG49lFn5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076GTW4SS

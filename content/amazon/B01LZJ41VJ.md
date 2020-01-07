@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01LZJ41VJ: Ahorra en HP CF279A 79A Cartucho de Tóner Original'
+title: 'HP CF279A 79A Cartucho de Tóner Original'
 date: 2019/12/11 10:21:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41g23WgU9qL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g23WgU9qL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LZJ41VJ

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01H4OHASE - Ofertón en Amazon para Impermeable Con Cremallera Bolsa De Paña'
+title: 'Impermeable Con Cremallera Bolsa De Paña'
 date: 2020-01-06 13:41:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51cOBfEIjOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cOBfEIjOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

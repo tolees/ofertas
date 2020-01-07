@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07M5F4GTM: Ahorra en Wrangler Logo Hoodie Capucha  Gris  Dark'
+title: 'Wrangler Logo Hoodie Capucha  Gris  Dark'
 date: 2019/12/15 16:35:54 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M5F4GTM

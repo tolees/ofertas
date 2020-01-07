@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B002NSMOTM - Ofertón en Amazon para Accurist Reloj de Pulsera IN4402RCH'
+title: 'Accurist Reloj de Pulsera IN4402RCH'
 date: 2019/12/28 12:51:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XxHuhhvxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XxHuhhvxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

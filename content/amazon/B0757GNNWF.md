@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0757GNNWF - Ofertón en Amazon para URCERI Telémetro Láser 60m  Medidor Láse'
+title: 'URCERI Telémetro Láser 60m  Medidor Láse'
 date: 2019/12/16 07:16:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cMxqTKFcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

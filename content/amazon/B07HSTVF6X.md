@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HSTVF6X: Ahorra en WISHDOIT Hombre Elegante Deportes Imperm'
+title: 'WISHDOIT Hombre Elegante Deportes Imperm'
 date: 2019/12/14 22:20:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51HJow5jw3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HJow5jw3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HSTVF6X

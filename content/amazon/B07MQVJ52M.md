@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MQVJ52M: Ahorra en Napapijri Berber WOM H Sudadera  Negro  '
+title: 'Napapijri Berber WOM H Sudadera  Negro  '
 date: 2019/12/12 15:40:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MQVJ52M

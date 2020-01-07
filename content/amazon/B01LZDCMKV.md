@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01LZDCMKV: Rebaja en MisterCraft D de 216 - Maqueta de devoit en Amazon'
+title: 'MisterCraft D de 216 - Maqueta de devoit'
 date: 2020-01-03 18:45:59
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LZDCMKV

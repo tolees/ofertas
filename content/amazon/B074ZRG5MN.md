@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074ZRG5MN: Rebaja en Sony WH-1000XM2 Wireless Bluetooth Over- en Amazon'
+title: 'Sony WH-1000XM2 Wireless Bluetooth Over-'
 date: 2019/12/21 12:00:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31kgP5UvbRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kgP5UvbRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074ZRG5MN

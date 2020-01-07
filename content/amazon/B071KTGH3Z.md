@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071KTGH3Z: Rebaja en Rimmel London Stay Matte Liquid Lip Colo en Amazon'
+title: 'Rimmel London Stay Matte Liquid Lip Colo'
 date: 2019/12/24 12:03:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ILgDy2bcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ILgDy2bcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071KTGH3Z

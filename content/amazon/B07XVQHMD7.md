@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XVQHMD7: Rebaja en Esprit 119ee1i004 suéter  Blanco  Off Wh en Amazon'
+title: 'Esprit 119ee1i004 suéter  Blanco  Off Wh'
 date: 2019/12/19 20:36:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nEyxb73PL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nEyxb73PL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XVQHMD7

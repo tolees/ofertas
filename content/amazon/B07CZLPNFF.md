@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CZLPNFF: Ahorra en FOREO UFO mini - Tratamineto de Mascaril'
+title: 'FOREO UFO mini - Tratamineto de Mascaril'
 date: 2020-01-07 08:38:05
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41u1q0uhYVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u1q0uhYVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CZLPNFF

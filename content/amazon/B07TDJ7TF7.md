@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TDJ7TF7: Ahorra en JeVx Altavoz Furgoneta Volkswagen T1 Blu'
+title: 'JeVx Altavoz Furgoneta Volkswagen T1 Blu'
 date: 2019/12/24 14:08:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DZfnOZLBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DZfnOZLBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TDJ7TF7

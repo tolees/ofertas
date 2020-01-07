@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01CK88IBC: Ahorra en Redken Curvaceous Unisex Champú 300 ml -'
+title: 'Redken Curvaceous Unisex Champú 300 ml -'
 date: 2020-01-01 20:57:18
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CK88IBC

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FY6VHSH: Rebaja en Champion The Curvy Sujetador Deportivo   en Amazon'
+title: 'Champion The Curvy Sujetador Deportivo  '
 date: 2020-01-06 18:09:18
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FY6VHSH

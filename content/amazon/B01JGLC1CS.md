@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01JGLC1CS - Ofertón en Amazon para Tria Beauty HRL4X G/W - Depiladora láser'
+title: 'Tria Beauty HRL4X G/W - Depiladora láser'
 date: 2020-01-03 13:39:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31hoLwPFSEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hoLwPFSEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

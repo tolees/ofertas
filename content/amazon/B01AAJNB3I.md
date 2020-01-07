@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01AAJNB3I: Rebaja en Columbia Fleece Fast Trek II Full Zip Fo en Amazon'
+title: 'Columbia Fleece Fast Trek II Full Zip Fo'
 date: 2019/12/11 17:40:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TykzzwbmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TykzzwbmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AAJNB3I

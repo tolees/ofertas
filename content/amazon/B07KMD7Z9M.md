@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KMD7Z9M - Ofertón en Amazon para Vigilabebés Inalambrico Bebé Monitor con'
+title: 'Vigilabebés Inalambrico Bebé Monitor con'
 date: 2019/12/26 05:03:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417XGP4H%2BjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417XGP4H%2BjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

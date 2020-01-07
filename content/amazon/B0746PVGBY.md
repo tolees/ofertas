@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0746PVGBY - Ofertón en Amazon para Tiny Love 3-in-1 Rocker Napper  Newborn '
+title: 'Tiny Love 3-in-1 Rocker Napper  Newborn '
 date: 2020-01-01 10:19:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eCaxSjZ-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eCaxSjZ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

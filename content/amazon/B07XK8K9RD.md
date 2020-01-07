@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XK8K9RD: Rebaja en Opret Kit de Protector para Bebés y Niño en Amazon'
+title: 'Opret Kit de Protector para Bebés y Niño'
 date: 2019/12/14 10:28:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GC2lbbWnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GC2lbbWnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XK8K9RD

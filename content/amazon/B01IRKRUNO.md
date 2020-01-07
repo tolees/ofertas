@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01IRKRUNO: Ahorra en NIXON Reloj Analógico para Hombre de Cua'
+title: 'NIXON Reloj Analógico para Hombre de Cua'
 date: 2020-01-01 23:44:32
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8W0ATebL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8W0ATebL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01IRKRUNO

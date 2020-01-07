@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CCJV6W4 - Ofertón en Amazon para 30 pieza Neodimio Imán 10x3 mm Unidad im'
+title: '30 pieza Neodimio Imán 10x3 mm Unidad im'
 date: 2020-01-06 18:55:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ullxprZGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ullxprZGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

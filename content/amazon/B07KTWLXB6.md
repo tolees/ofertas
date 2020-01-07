@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KTWLXB6 - Ofertón en Amazon para Lego Ninjago 70673 ShuriCopter  Bauset'
+title: 'Lego Ninjago 70673 ShuriCopter  Bauset'
 date: 2020-01-07 14:38:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51dmGgo2wxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dmGgo2wxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

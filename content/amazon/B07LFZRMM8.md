@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LFZRMM8 - Ofertón en Amazon para Geox JR Agata F  Botas de Montar para Ni'
+title: 'Geox JR Agata F  Botas de Montar para Ni'
 date: 2019/12/13 08:14:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314AOysUo7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314AOysUo7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PQSKG1M - Ofertón en Amazon para ISUDA Corrector de postura para la corre'
+title: 'ISUDA Corrector de postura para la corre'
 date: 2019/12/27 09:10:46 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/510sbHNp3wL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510sbHNp3wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

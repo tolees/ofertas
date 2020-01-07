@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L9VDQGS: Rebaja en Lacoste Masters Cup 319 1 SMA  Zapatilla en Amazon'
+title: 'Lacoste Masters Cup 319 1 SMA  Zapatilla'
 date: 2020-01-03 12:27:33
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9VDQGS

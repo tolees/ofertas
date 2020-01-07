@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00S6OMGY0 - Ofertón en Amazon para MAKITA DGA504Z Herramienta'
+title: 'MAKITA DGA504Z Herramienta'
 date: 2020-01-04 11:58:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

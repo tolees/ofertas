@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HRRANWY: Rebaja en Sylvanian Families - Kangaroo Family en Amazon'
+title: 'Sylvanian Families - Kangaroo Family'
 date: 2019/12/22 17:32:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VewcRhL8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VewcRhL8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HRRANWY

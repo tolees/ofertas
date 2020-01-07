@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000WFC1AU: Ahorra en Trixie 19471 2 Botas Confort Walker  Per'
+title: 'Trixie 19471 2 Botas Confort Walker  Per'
 date: 2019/12/23 23:04:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fce76epLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fce76epLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000WFC1AU

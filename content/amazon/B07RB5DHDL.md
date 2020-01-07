@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RB5DHDL: Rebaja en PUMA Fundamentals Sports Bag M Bolsa Dep en Amazon'
+title: 'PUMA Fundamentals Sports Bag M Bolsa Dep'
 date: 2019/12/19 23:11:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jgm419jiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jgm419jiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RB5DHDL

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07G2K7CCB: Rebaja en Taiko No Tatsujin: Drum n Fun en Amazon'
+title: 'Taiko No Tatsujin: Drum n Fun'
 date: 2020-01-07 06:10:09
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G2K7CCB

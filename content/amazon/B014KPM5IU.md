@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B014KPM5IU - Ofertón en Amazon para Reebok Pesos de la Muñeca - 1.5 kg'
+title: 'Reebok Pesos de la Muñeca - 1.5 kg'
 date: 2019/12/11 09:05:43 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51IKLP9MxmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IKLP9MxmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

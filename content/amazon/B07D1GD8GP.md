@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07D1GD8GP - Ofertón en Amazon para Alienwork Reloj Unisex Relojes Hombre Mu'
+title: 'Alienwork Reloj Unisex Relojes Hombre Mu'
 date: 2020-01-06 06:23:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uDQElbuzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uDQElbuzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

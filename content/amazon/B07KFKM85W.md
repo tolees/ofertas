@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KFKM85W: Ahorra en adidas Advantage  Zapatillas de Gimnasia'
+title: 'adidas Advantage  Zapatillas de Gimnasia'
 date: 2019/12/17 10:37:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/313qxXx2lgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313qxXx2lgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFKM85W

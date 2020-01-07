@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07ZQGRQKC: Rebaja en Tronsmart T6 Mini Altavoces Bluetooth 15 en Amazon'
+title: 'Tronsmart T6 Mini Altavoces Bluetooth 15'
 date: 2019/12/30 09:49:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515FVM4HnvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515FVM4HnvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZQGRQKC

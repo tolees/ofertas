@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NCNXR3E: Ahorra en Lacoste Lerond Bl 1 CAM  Zapatillas para'
+title: 'Lacoste Lerond Bl 1 CAM  Zapatillas para'
 date: 2019/12/19 09:43:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31W8xH9oxgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W8xH9oxgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NCNXR3E

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LG42ZPV - Ofertón en Amazon para Geox J Kalispera Girl A  Zapatillas Alta'
+title: 'Geox J Kalispera Girl A  Zapatillas Alta'
 date: 2020-01-03 08:43:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

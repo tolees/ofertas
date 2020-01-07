@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000C1VYSO: Rebaja en Lacoste Touch of Pink  Agua de Tocador V en Amazon'
+title: 'Lacoste Touch of Pink  Agua de Tocador V'
 date: 2019/12/17 18:58:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31UkyZnPJNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UkyZnPJNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000C1VYSO

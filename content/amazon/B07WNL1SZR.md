@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07WNL1SZR - Ofertón en Amazon para Cámara para Niños Camara Fotos Niños 108'
+title: 'Cámara para Niños Camara Fotos Niños 108'
 date: 2019/12/16 17:38:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51HO3vftLiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HO3vftLiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

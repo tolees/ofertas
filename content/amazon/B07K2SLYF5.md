@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07K2SLYF5: Rebaja en Armani Exchange - Embossed Logo Crossbod en Amazon'
+title: 'Armani Exchange - Embossed Logo Crossbod'
 date: 2019/12/30 19:54:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bU0XVd0NL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bU0XVd0NL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K2SLYF5

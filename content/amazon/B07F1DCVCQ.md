@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F1DCVCQ: Ahorra en JACK & JONES Jjeholmen Sweat Crew Neck N'
+title: 'JACK & JONES Jjeholmen Sweat Crew Neck N'
 date: 2020-01-03 12:51:40
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-mKGbSUaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-mKGbSUaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F1DCVCQ

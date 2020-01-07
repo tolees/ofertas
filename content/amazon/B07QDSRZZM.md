@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QDSRZZM: Ahorra en FREDI Cámara de vigilancia para Exterior'
+title: 'FREDI Cámara de vigilancia para Exterior'
 date: 2020-01-04 08:32:27
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DuvTGw04L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QDSRZZM

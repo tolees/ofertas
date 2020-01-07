@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N2I7VXA: Ahorra en Outerdo Chaleco reflectante de alta visi'
+title: 'Outerdo Chaleco reflectante de alta visi'
 date: 2020-01-04 12:29:37
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519l1BsVv5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519l1BsVv5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N2I7VXA

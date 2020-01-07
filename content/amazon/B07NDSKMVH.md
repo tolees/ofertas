@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NDSKMVH - Ofertón en Amazon para MEDION X30 RGB - Ordenador de sobremesa '
+title: 'MEDION X30 RGB - Ordenador de sobremesa '
 date: 2020-01-04 12:37:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

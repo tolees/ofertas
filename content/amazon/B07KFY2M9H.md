@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KFY2M9H: Ahorra en PUMA Source Mid Buzzer  Zapatillas Altas'
+title: 'PUMA Source Mid Buzzer  Zapatillas Altas'
 date: 2020-01-06 11:09:55
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFY2M9H

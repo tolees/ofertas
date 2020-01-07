@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VG5ZT7K - Ofertón en Amazon para Grebarley Guantes de Ciclismo Bicicleta '
+title: 'Grebarley Guantes de Ciclismo Bicicleta '
 date: 2020-01-01 16:41:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YvoGp1kGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YvoGp1kGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

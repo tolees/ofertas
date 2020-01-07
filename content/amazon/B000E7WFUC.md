@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000E7WFUC: Rebaja en ESTÉE LAUDER WHITE LINEN agua de perfume en Amazon'
+title: 'ESTÉE LAUDER WHITE LINEN agua de perfume'
 date: 2019/12/31 13:12:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000E7WFUC

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B079K7CCQS - Ofertón en Amazon para Lee Marion Straight Vaqueros  Black Rins'
+title: 'Lee Marion Straight Vaqueros  Black Rins'
 date: 2019/12/18 19:26:39 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31w05U%2B4BkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w05U%2B4BkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01NCOWB0L - Ofertón en Amazon para Reebok Classic Leather  Zapatillas de Tr'
+title: 'Reebok Classic Leather  Zapatillas de Tr'
 date: 2019/12/21 12:06:46 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31p3O5qfXZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p3O5qfXZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

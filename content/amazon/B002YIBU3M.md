@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B002YIBU3M: Ahorra en Máquina para Hacer Hielo  Silenciosa  10'
+title: 'Máquina para Hacer Hielo  Silenciosa  10'
 date: 2020-01-01 06:10:37
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002YIBU3M

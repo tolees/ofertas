@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B078KWXRYP - Ofertón en Amazon para adidas Originals X_PLR  Zapatillas para '
+title: 'adidas Originals X_PLR  Zapatillas para '
 date: 2020-01-04 20:50:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

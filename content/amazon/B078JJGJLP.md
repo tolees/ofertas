@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078JJGJLP: Ahorra en Hoomtaook Rinconera de baño  Cesta trian'
+title: 'Hoomtaook Rinconera de baño  Cesta trian'
 date: 2019/12/24 16:04:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zi2dAHlCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zi2dAHlCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078JJGJLP

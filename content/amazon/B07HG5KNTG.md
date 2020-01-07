@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HG5KNTG: Rebaja en New Balance FuelCell Propel  Zapatillas  en Amazon'
+title: 'New Balance FuelCell Propel  Zapatillas '
 date: 2020-01-03 15:19:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XnEffiP8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XnEffiP8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HG5KNTG

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KR92NYQ - Ofertón en Amazon para GRANDI GIOCHI Great Games LLD21000  Watc'
+title: 'GRANDI GIOCHI Great Games LLD21000  Watc'
 date: 2020-01-07 06:03:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ww3%2BotZPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ww3%2BotZPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

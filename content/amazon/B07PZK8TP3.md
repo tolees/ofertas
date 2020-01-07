@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PZK8TP3 - Ofertón en Amazon para Amzdeal Alcachofa de Ducha  Cabezal de D'
+title: 'Amzdeal Alcachofa de Ducha  Cabezal de D'
 date: 2019/12/27 08:14:07 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-%2B0xTYerL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-%2B0xTYerL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B009AU9DJA: Ahorra en Sony SELP1650 Standard-Zoom-Objektiv  16'
+title: 'Sony SELP1650 Standard-Zoom-Objektiv  16'
 date: 2019/12/22 18:13:12 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31nL-3BPxBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nL-3BPxBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B009AU9DJA

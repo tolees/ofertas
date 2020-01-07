@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00IN2C8KC - Ofertón en Amazon para Samyang F1111006101 - Objetivo fotográfi'
+title: 'Samyang F1111006101 - Objetivo fotográfi'
 date: 2020-01-07 13:08:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dp6GfivAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dp6GfivAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

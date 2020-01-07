@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MTGHFRE: Rebaja en Timberland Adventure 2.0 Cupsole  Zapati en Amazon'
+title: 'Timberland Adventure 2.0 Cupsole  Zapati'
 date: 2019/12/16 12:46:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BS8%2BTCyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BS8%2BTCyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MTGHFRE

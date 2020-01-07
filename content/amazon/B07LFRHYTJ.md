@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LFRHYTJ: Rebaja en Geox U Nebula C  Zapatillas para Hombre  en Amazon'
+title: 'Geox U Nebula C  Zapatillas para Hombre '
 date: 2019/12/12 16:19:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31xkauV6rRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xkauV6rRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFRHYTJ

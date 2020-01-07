@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NDNWLGZ - Ofertón en Amazon para edc by Esprit 049cc2c023 Pantalones Cort'
+title: 'edc by Esprit 049cc2c023 Pantalones Cort'
 date: 2019/12/13 08:20:27 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416zgavPbQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416zgavPbQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

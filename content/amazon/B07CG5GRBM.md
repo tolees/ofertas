@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CG5GRBM - Ofertón en Amazon para Felicidad Asiento del Coche de Seguridad'
+title: 'Felicidad Asiento del Coche de Seguridad'
 date: 2019/12/14 10:09:29 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51sXZ6WYBzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sXZ6WYBzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

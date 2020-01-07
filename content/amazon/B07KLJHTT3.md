@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KLJHTT3 - Ofertón en Amazon para Bulova Reloj de Pulsera 96C105'
+title: 'Bulova Reloj de Pulsera 96C105'
 date: 2019/12/16 22:26:32 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415NuLNCXjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415NuLNCXjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

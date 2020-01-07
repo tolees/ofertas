@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01J7VIUAY - Ofertón en Amazon para X-Men: Saga Completa Blu-Ray [Blu-ray]'
+title: 'X-Men: Saga Completa Blu-Ray [Blu-ray]'
 date: 2020-01-06 15:32:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

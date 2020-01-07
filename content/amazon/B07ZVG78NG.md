@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07ZVG78NG - Ofertón en Amazon para 3W GRT Leggings mujer fitness Mallas Dep'
+title: '3W GRT Leggings mujer fitness Mallas Dep'
 date: 2019/12/27 10:15:50 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41oKU675IIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oKU675IIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

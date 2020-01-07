@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00P9PUOIY: Ahorra en American Crew Champú Diario 250 ml'
+title: 'American Crew Champú Diario 250 ml'
 date: 2019/12/28 09:54:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00P9PUOIY

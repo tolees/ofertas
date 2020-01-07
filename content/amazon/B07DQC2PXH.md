@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DQC2PXH: Ahorra en TACKLIFE Lijadora Orbital  Lijadora Eléc'
+title: 'TACKLIFE Lijadora Orbital  Lijadora Eléc'
 date: 2020-01-07 09:13:41
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519q2dFEoiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519q2dFEoiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DQC2PXH

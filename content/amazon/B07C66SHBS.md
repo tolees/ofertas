@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07C66SHBS - Ofertón en Amazon para 4 pieza Perfume  rellenable vaporizador '
+title: '4 pieza Perfume  rellenable vaporizador '
 date: 2019/12/29 11:35:04 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pxlZ%2B%2BD2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pxlZ%2B%2BD2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

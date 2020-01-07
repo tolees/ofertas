@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JBN38KW: Ahorra en Columbia Powder Lite Jacket Chaqueta  Ho'
+title: 'Columbia Powder Lite Jacket Chaqueta  Ho'
 date: 2019/12/30 20:09:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JBN38KW

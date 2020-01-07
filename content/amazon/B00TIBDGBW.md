@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00TIBDGBW: Ahorra en Targus AMM163EU - Stylus para Pantalla t'
+title: 'Targus AMM163EU - Stylus para Pantalla t'
 date: 2019/12/23 18:03:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Je33tJNiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Je33tJNiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TIBDGBW

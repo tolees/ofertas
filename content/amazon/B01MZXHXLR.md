@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MZXHXLR: Ahorra en DURAGADGET Bandolera para Videocámara So'
+title: 'DURAGADGET Bandolera para Videocámara So'
 date: 2020-01-02 14:11:07
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51MZTxpbBRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MZTxpbBRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MZXHXLR

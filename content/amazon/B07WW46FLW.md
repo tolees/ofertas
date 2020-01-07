@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WW46FLW: Ahorra en Cable USB Tipo C  ZKAPOR [4Pack 0.3M 1M '
+title: 'Cable USB Tipo C  ZKAPOR [4Pack 0.3M 1M '
 date: 2019-12-31 21:00:11
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51yjHFALeML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yjHFALeML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WW46FLW

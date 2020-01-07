@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00IMU0RDA: Rebaja en Elizabeth Arden  Agua de colonia para mu en Amazon'
+title: 'Elizabeth Arden  Agua de colonia para mu'
 date: 2019/12/12 12:05:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410Qgek2dkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Qgek2dkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00IMU0RDA

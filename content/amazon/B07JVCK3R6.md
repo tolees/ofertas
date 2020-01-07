@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JVCK3R6 - Ofertón en Amazon para Under Armour Favorite Tote Bolsa Deporti'
+title: 'Under Armour Favorite Tote Bolsa Deporti'
 date: 2019/12/16 17:33:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FQyC8Ew1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FQyC8Ew1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

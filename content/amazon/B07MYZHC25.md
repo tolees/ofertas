@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MYZHC25 - Ofertón en Amazon para Skechers Flex Appeal 3.0-First Insight  '
+title: 'Skechers Flex Appeal 3.0-First Insight  '
 date: 2019/12/22 15:44:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419i5BEOMcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419i5BEOMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

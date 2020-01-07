@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TKVW1SN: Rebaja en 500ml Botella de Agua de Acero Inoxidabl en Amazon'
+title: '500ml Botella de Agua de Acero Inoxidabl'
 date: 2019/12/21 12:32:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515HWhbsBYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515HWhbsBYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TKVW1SN

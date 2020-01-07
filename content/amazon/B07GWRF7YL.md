@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GWRF7YL - Ofertón en Amazon para Suunto 9 Multisport-GPS-Uhr  Unisex  Bla'
+title: 'Suunto 9 Multisport-GPS-Uhr  Unisex  Bla'
 date: 2019/12/22 18:54:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TzmP%2BgPnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TzmP%2BgPnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

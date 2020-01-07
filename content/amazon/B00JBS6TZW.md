@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00JBS6TZW: Rebaja en Kempa Gold Classic Mujer Cazadora De Ent en Amazon'
+title: 'Kempa Gold Classic Mujer Cazadora De Ent'
 date: 2019/12/14 20:55:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hpJFdPCrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hpJFdPCrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JBS6TZW

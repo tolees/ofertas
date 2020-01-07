@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00RBJWAP6 - Ofertón en Amazon para Quemagrasas potente para adelgazar  100%'
+title: 'Quemagrasas potente para adelgazar  100%'
 date: 2019/12/21 18:10:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PO5ycnkrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PO5ycnkrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

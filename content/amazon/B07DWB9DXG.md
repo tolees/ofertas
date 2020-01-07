@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DWB9DXG: Ahorra en HOMIEE Oxímetro de Pulso  Pulsioxímetro '
+title: 'HOMIEE Oxímetro de Pulso  Pulsioxímetro '
 date: 2020-01-03 18:06:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2B4sR889L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2B4sR889L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DWB9DXG

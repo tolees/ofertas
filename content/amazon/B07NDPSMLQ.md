@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDPSMLQ: Ahorra en G-STAR RAW Fascia Polo  Multicolor  Milk'
+title: 'G-STAR RAW Fascia Polo  Multicolor  Milk'
 date: 2019/12/20 20:02:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wFxjAIQHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wFxjAIQHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDPSMLQ

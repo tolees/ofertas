@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RVMQ3SX: Ahorra en Rampow Cable USB C a Lightning [Apple MF'
+title: 'Rampow Cable USB C a Lightning [Apple MF'
 date: 2019/12/18 09:51:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31LZRQ8ExCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LZRQ8ExCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RVMQ3SX

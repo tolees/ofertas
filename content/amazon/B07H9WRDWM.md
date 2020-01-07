@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H9WRDWM: Ahorra en The Glenrothes 12 Años Whisky Escocés Si'
+title: 'The Glenrothes 12 Años Whisky Escocés Si'
 date: 2019-12-31 16:35:02
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-9Dp%2B-TEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-9Dp%2B-TEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H9WRDWM

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01FNRWNPO: Rebaja en HP Z5000  W2Q00AA  kabellose Maus  Bluet en Amazon'
+title: 'HP Z5000  W2Q00AA  kabellose Maus  Bluet'
 date: 2020-01-02 22:26:03
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419UlKOS3CL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419UlKOS3CL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01FNRWNPO

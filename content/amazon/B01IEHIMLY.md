@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01IEHIMLY: Rebaja en WaveSound 3 Auriculares inalámbricos con en Amazon'
+title: 'WaveSound 3 Auriculares inalámbricos con'
 date: 2019/12/12 07:02:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21ED2pH4CCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21ED2pH4CCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01IEHIMLY

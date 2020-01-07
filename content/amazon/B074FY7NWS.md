@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074FY7NWS: Rebaja en Star Wars HQ2026 Pijama de una Pieza  Ni en Amazon'
+title: 'Star Wars HQ2026 Pijama de una Pieza  Ni'
 date: 2019/12/24 14:12:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41a8p8qZM2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a8p8qZM2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074FY7NWS

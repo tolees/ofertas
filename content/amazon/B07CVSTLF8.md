@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CVSTLF8: Rebaja en XuanPad Mini Proyector Multimedia Vídeo  en Amazon'
-date: 2020-01-06 11:41:40
+title: 'XuanPad Mini Proyector Multimedia Vídeo '
+date: 2020-01-07 16:03:46
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418knE5ozaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418knE5ozaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CVSTLF8

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DJ3GGXT: Rebaja en AmazonBasics - Juego de ropa de cama con en Amazon'
+title: 'AmazonBasics - Juego de ropa de cama con'
 date: 2019/12/30 18:48:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wVYfVBCqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wVYfVBCqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DJ3GGXT

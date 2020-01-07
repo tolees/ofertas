@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FNT8XCD - Ofertón en Amazon para Lego 41368 Friends Andreas Talentshow  b'
+title: 'Lego 41368 Friends Andreas Talentshow  b'
 date: 2019/12/30 21:45:02 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51qgQ3G4OmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qgQ3G4OmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

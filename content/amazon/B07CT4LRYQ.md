@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CT4LRYQ: Rebaja en The Platinum Tailor - Chaqueta Impermeab en Amazon'
+title: 'The Platinum Tailor - Chaqueta Impermeab'
 date: 2020-01-02 22:48:44
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31IWqAVl4CL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IWqAVl4CL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CT4LRYQ

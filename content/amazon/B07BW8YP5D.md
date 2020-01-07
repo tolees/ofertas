@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BW8YP5D - Ofertón en Amazon para G.L.O.W. Stick'
+title: 'G.L.O.W. Stick'
 date: 2019/12/25 16:26:16 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51qS7zBv0OL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qS7zBv0OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

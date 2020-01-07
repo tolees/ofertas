@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XS6CMCN: Ahorra en Football Manager 2020'
+title: 'Football Manager 2020'
 date: 2020-01-01 10:20:15
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XS6CMCN

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TZ2BM3T: Ahorra en PUTUO Chaqueta Vaquera Niña Chaqueta de '
+title: 'PUTUO Chaqueta Vaquera Niña Chaqueta de '
 date: 2019/12/23 21:20:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zX4CM8k4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zX4CM8k4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TZ2BM3T

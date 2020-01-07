@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B081RDKS3F: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Te en Amazon'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Te'
 date: 2020-01-07 06:32:59
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51rNEBLy9hL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rNEBLy9hL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081RDKS3F

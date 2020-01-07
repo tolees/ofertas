@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XD2PQXM - Ofertón en Amazon para Columbia Winter Pass Print - Chaqueta de'
+title: 'Columbia Winter Pass Print - Chaqueta de'
 date: 2019/12/30 15:38:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rVPXvX39L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rVPXvX39L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

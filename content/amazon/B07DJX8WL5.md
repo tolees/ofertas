@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DJX8WL5 - Ofertón en Amazon para TEKKIWEAR. DMX121BK. Smartwatch Phone H1'
+title: 'TEKKIWEAR. DMX121BK. Smartwatch Phone H1'
 date: 2020-01-02 12:40:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51nbwItCmLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nbwItCmLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

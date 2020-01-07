@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079MSHJKS: Rebaja en PLAYMOBIL City Life 9456 Chemieunterrich en Amazon'
+title: 'PLAYMOBIL City Life 9456 Chemieunterrich'
 date: 2019/12/17 15:47:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tQsD60iXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tQsD60iXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079MSHJKS

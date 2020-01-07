@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B011REOTBI: Ahorra en Aigostar - Bombilla LED B5 T3 3U  E27  9'
+title: 'Aigostar - Bombilla LED B5 T3 3U  E27  9'
 date: 2020-01-07 13:06:58
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dBRdPSVkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dBRdPSVkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B011REOTBI

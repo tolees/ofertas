@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0776YHLPW: Rebaja en Apple Funda de piel  para el MacBook de  en Amazon'
+title: 'Apple Funda de piel  para el MacBook de '
 date: 2019/12/12 14:54:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31OCFB0VBAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OCFB0VBAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0776YHLPW

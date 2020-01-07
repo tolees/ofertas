@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077MJGVRX: Ahorra en Puma Smash V2 L  Zapatillas Unisex Adult'
+title: 'Puma Smash V2 L  Zapatillas Unisex Adult'
 date: 2019/12/15 10:42:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31simushe5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31simushe5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077MJGVRX

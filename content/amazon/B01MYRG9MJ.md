@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01MYRG9MJ - Ofertón en Amazon para Puma Suede Classic+  Zapatillas Unisex A'
+title: 'Puma Suede Classic+  Zapatillas Unisex A'
 date: 2020-01-01 20:21:13
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wfp9cuMpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wfp9cuMpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

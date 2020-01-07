@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FKRYFRL: Rebaja en Smart Steckdosenleiste Koogeek Intellige en Amazon'
+title: 'Smart Steckdosenleiste Koogeek Intellige'
 date: 2019/12/27 10:22:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uefN-rUQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uefN-rUQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FKRYFRL

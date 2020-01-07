@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KG1SXN8 - Ofertón en Amazon para Puma Unisex-Erwachsene Rise XT 4 Futsals'
+title: 'Puma Unisex-Erwachsene Rise XT 4 Futsals'
 date: 2019/12/13 06:33:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41L2j0gEyBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L2j0gEyBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

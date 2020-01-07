@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DFZ2DRM - Ofertón en Amazon para Vero Moda Vmnancy LS Knit Dress Noos Ves'
+title: 'Vero Moda Vmnancy LS Knit Dress Noos Ves'
 date: 2019/12/31 12:15:06 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wqXAFtDUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wqXAFtDUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MJ7GNY8 - Ofertón en Amazon para Clarks - Botines de Cuero Hombre  Color '
+title: 'Clarks - Botines de Cuero Hombre  Color '
 date: 2019/12/25 19:05:12 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411ybthY6bL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ybthY6bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

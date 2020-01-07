@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00BQPFK8A: Ahorra en Rimmel London Lasting Finish by Kate Bar'
+title: 'Rimmel London Lasting Finish by Kate Bar'
 date: 2020-01-06 16:47:16
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31wWv2E7AdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wWv2E7AdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BQPFK8A

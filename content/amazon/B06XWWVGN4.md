@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XWWVGN4: Rebaja en IMC Toys IMC Toys-96073 Lovely Tresse Tr en Amazon'
+title: 'IMC Toys IMC Toys-96073 Lovely Tresse Tr'
 date: 2019/12/22 09:17:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/616sbtLYV9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/616sbtLYV9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XWWVGN4

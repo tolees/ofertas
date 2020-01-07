@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DRK7CGM: Ahorra en FM London Paquete de 5 camisetas Hombre '
+title: 'FM London Paquete de 5 camisetas Hombre '
 date: 2019/12/17 09:38:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lyGnP-W4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lyGnP-W4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DRK7CGM

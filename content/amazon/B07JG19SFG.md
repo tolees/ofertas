@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JG19SFG: Rebaja en PUTUO Calcetines de Dedos Mujer Calcetin en Amazon'
+title: 'PUTUO Calcetines de Dedos Mujer Calcetin'
 date: 2019/12/14 17:30:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZE9gyClJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZE9gyClJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JG19SFG

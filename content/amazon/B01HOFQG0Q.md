@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01HOFQG0Q: Ahorra en La casa de los bebés de Baby Nurse con 1'
+title: 'La casa de los bebés de Baby Nurse con 1'
 date: 2019/12/11 11:13:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41imh3EGixL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41imh3EGixL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01HOFQG0Q

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HRRD8R6: Rebaja en Sylvanian Families - Cedar Terrace en Amazon'
+title: 'Sylvanian Families - Cedar Terrace'
 date: 2020-01-04 22:17:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PqQRyG25L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PqQRyG25L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HRRD8R6

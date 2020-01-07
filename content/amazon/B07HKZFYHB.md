@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HKZFYHB: Rebaja en Bluetooth Headphones  Riwbox CT-7 Cat Ea en Amazon'
+title: 'Bluetooth Headphones  Riwbox CT-7 Cat Ea'
 date: 2019/12/16 08:54:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414FtCinIWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414FtCinIWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HKZFYHB

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00KCHI9UO: Ahorra en BLEND 701711 Vaqueros  Black/ 70155  31 '
+title: 'BLEND 701711 Vaqueros  Black/ 70155  31 '
 date: 2019/12/16 12:40:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KCHI9UO

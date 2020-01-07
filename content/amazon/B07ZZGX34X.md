@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07ZZGX34X: Rebaja en Charles Wilson Jersey de Punto Fino de A en Amazon'
+title: 'Charles Wilson Jersey de Punto Fino de A'
 date: 2019/12/28 19:57:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yrERdMSbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yrERdMSbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZZGX34X

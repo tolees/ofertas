@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HB4VSF3: Ahorra en Pop! Romeo & Juliet - Figura de Vinilo R'
+title: 'Pop! Romeo & Juliet - Figura de Vinilo R'
 date: 2020-01-06 14:28:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E40vynErL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E40vynErL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HB4VSF3

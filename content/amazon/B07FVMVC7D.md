@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FVMVC7D: Ahorra en Lomvum Medidor Laser de Distancia  50M P'
+title: 'Lomvum Medidor Laser de Distancia  50M P'
 date: 2020-01-05 23:23:50
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418roTPBW2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418roTPBW2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FVMVC7D

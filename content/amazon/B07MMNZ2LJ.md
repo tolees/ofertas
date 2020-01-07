@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MMNZ2LJ: Ahorra en Under Armour Rival Fleece Sportstyle Log'
+title: 'Under Armour Rival Fleece Sportstyle Log'
 date: 2019/12/17 20:45:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Noedw1smL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Noedw1smL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MMNZ2LJ

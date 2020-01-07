@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FW1WL8C: Rebaja en Lee Luke Vaqueros  Light Daze ZX  33W /  en Amazon'
+title: 'Lee Luke Vaqueros  Light Daze ZX  33W / '
 date: 2019/12/27 14:53:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41T8YlHc4zL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T8YlHc4zL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FW1WL8C

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072K8WVVD: Rebaja en Pizarra Planificadora de Comidas y de Pl en Amazon'
+title: 'Pizarra Planificadora de Comidas y de Pl'
 date: 2019/12/19 09:22:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Aos%2BqOd2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Aos%2BqOd2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072K8WVVD

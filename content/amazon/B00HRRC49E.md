@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HRRC49E: Rebaja en Sylvanian Families - Chocolate Rabbit Ba en Amazon'
+title: 'Sylvanian Families - Chocolate Rabbit Ba'
 date: 2019/12/28 17:13:47 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51FWitjdyqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FWitjdyqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HRRC49E

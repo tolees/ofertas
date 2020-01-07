@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MCX81FH: Ahorra en 6 jinetes V6 Pro Auricular de intercomun'
+title: '6 jinetes V6 Pro Auricular de intercomun'
 date: 2020-01-04 12:47:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i9nNsywaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i9nNsywaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MCX81FH

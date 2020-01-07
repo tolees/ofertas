@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MCXGHV9: Rebaja en BOROK 140Pcs Weapons Set Custom Army Ves en Amazon'
+title: 'BOROK 140Pcs Weapons Set Custom Army Ves'
 date: 2020-01-06 22:06:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61jWhWJvd4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61jWhWJvd4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MCXGHV9

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B081RZ8NDW - Ofertón en Amazon para Tablets P9 10.1 Pulgadas Full HD  Androi'
+title: 'Tablets P9 10.1 Pulgadas Full HD  Androi'
 date: 2020-01-07 11:19:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51IUne6sNpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IUne6sNpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

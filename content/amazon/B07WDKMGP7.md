@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07WDKMGP7 - Ofertón en Amazon para VBIGER Riñonera Running para Botellas de'
+title: 'VBIGER Riñonera Running para Botellas de'
 date: 2019/12/27 20:50:33 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411RQwAUz%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411RQwAUz%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06WLL3M8Z: Ahorra en LEGO Star Wars The Last Jedi 75528 Rey T'
+title: 'LEGO Star Wars The Last Jedi 75528 Rey T'
 date: 2019/12/23 17:01:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06WLL3M8Z

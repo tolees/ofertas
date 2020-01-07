@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BZ1NZF8: Rebaja en Xpansy Hose Manguera Extensible Modelo B en Amazon'
+title: 'Xpansy Hose Manguera Extensible Modelo B'
 date: 2019/12/28 08:49:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51pIKK7VoLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pIKK7VoLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BZ1NZF8

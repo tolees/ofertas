@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B002XFI7YG: Ahorra en Dickies Slim Fit Straight - Pantalones p'
+title: 'Dickies Slim Fit Straight - Pantalones p'
 date: 2019/12/28 12:51:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41T-vqG4fgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T-vqG4fgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002XFI7YG

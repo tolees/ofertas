@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B078RRYS7P - Ofertón en Amazon para Fossil Reloj Analogico para Mujer de Cua'
+title: 'Fossil Reloj Analogico para Mujer de Cua'
 date: 2019-12-31 19:29:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pYHTG94DL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pYHTG94DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

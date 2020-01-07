@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07YS8YCSZ: Rebaja en 2019 Auriculares inalámbricos Bluetooth  en Amazon'
+title: '2019 Auriculares inalámbricos Bluetooth '
 date: 2020-01-05 17:46:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419hBKHq0UL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419hBKHq0UL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YS8YCSZ

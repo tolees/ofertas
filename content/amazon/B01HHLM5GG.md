@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01HHLM5GG: Rebaja en Set de colorear. Frozen en Amazon'
+title: 'Set de colorear. Frozen'
 date: 2019/12/16 16:34:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61rtTcBbjWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61rtTcBbjWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01HHLM5GG

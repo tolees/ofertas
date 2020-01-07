@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078VHHPFS: Rebaja en Sony WI-SP500B - Auriculares Deportivos  en Amazon'
+title: 'Sony WI-SP500B - Auriculares Deportivos '
 date: 2019/12/20 09:13:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WPnCKFRLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WPnCKFRLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078VHHPFS

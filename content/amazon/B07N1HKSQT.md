@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07N1HKSQT - Ofertón en Amazon para Kipling SEOUL S - Mochila escolar  14 li'
+title: 'Kipling SEOUL S - Mochila escolar  14 li'
 date: 2019/12/22 19:26:51 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51R7zuvuc9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R7zuvuc9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

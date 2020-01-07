@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B078WSCXHX - Ofertón en Amazon para Sony UBP-X700 4K Ultra HD Blu-ray Disc P'
+title: 'Sony UBP-X700 4K Ultra HD Blu-ray Disc P'
 date: 2019/12/17 18:33:19 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/316gnldMjnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316gnldMjnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

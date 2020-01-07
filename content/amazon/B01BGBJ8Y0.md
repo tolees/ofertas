@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01BGBJ8Y0 - Ofertón en Amazon para Logitech C270 HD - Webcam para videoconf'
+title: 'Logitech C270 HD - Webcam para videoconf'
 date: 2019/12/30 11:42:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/317opepNcEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317opepNcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

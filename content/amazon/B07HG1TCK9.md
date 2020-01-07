@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HG1TCK9: Rebaja en New Balance 373 Zapatillas Hombre  Negro en Amazon'
+title: 'New Balance 373 Zapatillas Hombre  Negro'
 date: 2020-01-02 10:51:06
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HG1TCK9

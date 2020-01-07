@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00U8KSIVA: Ahorra en Panasonic Lumix DC-TZ70 - Cámara Compact'
+title: 'Panasonic Lumix DC-TZ70 - Cámara Compact'
 date: 2020-01-05 20:45:57
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41M0VoLGlbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M0VoLGlbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00U8KSIVA

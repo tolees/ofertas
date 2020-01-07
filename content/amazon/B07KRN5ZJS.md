@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KRN5ZJS: Ahorra en New Balance Cm997hv1  Zapatillas para Ho'
+title: 'New Balance Cm997hv1  Zapatillas para Ho'
 date: 2019/12/23 22:58:00 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HplG-8fAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HplG-8fAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KRN5ZJS

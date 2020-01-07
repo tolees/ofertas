@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079JTYYPY: Rebaja en K-Way Damen Claudette Jacke  Rot  Red Fl en Amazon'
+title: 'K-Way Damen Claudette Jacke  Rot  Red Fl'
 date: 2019/12/28 14:29:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4175AjWChDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4175AjWChDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079JTYYPY

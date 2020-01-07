@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01BSO6LJA - Ofertón en Amazon para Philips Sonicare CleanCare HX3212/03 - C'
+title: 'Philips Sonicare CleanCare HX3212/03 - C'
 date: 2019/12/30 19:24:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415mbbX9SJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415mbbX9SJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

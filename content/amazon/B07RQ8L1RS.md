@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RQ8L1RS: Ahorra en LOHOTEK Guantes de Ciclismo Motocicleta '
+title: 'LOHOTEK Guantes de Ciclismo Motocicleta '
 date: 2019/12/11 00:35:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q1q1QGNeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q1q1QGNeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RQ8L1RS

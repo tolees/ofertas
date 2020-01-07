@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F6CL6MV: Rebaja en SuperColágeno | Colágeno puro Peptan con en Amazon'
+title: 'SuperColágeno | Colágeno puro Peptan con'
 date: 2019/12/27 02:10:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41sVe4%2BamoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sVe4%2BamoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F6CL6MV

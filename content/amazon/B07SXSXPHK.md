@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SXSXPHK: Rebaja en Hori - Real Arcade Pro.V Hayabusa  Edici en Amazon'
+title: 'Hori - Real Arcade Pro.V Hayabusa  Edici'
 date: 2019/12/19 09:36:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41sXUiNDutL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sXUiNDutL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SXSXPHK

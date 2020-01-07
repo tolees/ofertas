@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07WBZY44D - Ofertón en Amazon para JACK & JONES JCOMILLA Sweat Hood Sudader'
+title: 'JACK & JONES JCOMILLA Sweat Hood Sudader'
 date: 2019/12/11 19:27:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BPuy20dcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BPuy20dcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

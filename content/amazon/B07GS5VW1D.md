@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GS5VW1D: Rebaja en Tales Of Vesperia: Definitive Edition -  en Amazon'
+title: 'Tales Of Vesperia: Definitive Edition - '
 date: 2019/12/23 09:59:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51NsrijazeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NsrijazeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GS5VW1D

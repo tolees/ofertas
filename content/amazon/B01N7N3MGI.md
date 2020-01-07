@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N7N3MGI: Ahorra en Thomas Earnhshaw - Reloj mecánico de hom'
+title: 'Thomas Earnhshaw - Reloj mecánico de hom'
 date: 2019/12/12 22:29:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51BiWOeuNUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BiWOeuNUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N7N3MGI

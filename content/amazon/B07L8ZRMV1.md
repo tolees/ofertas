@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L8ZRMV1: Rebaja en Replay Herren Anbass Slim Jeans  Blau  D en Amazon'
+title: 'Replay Herren Anbass Slim Jeans  Blau  D'
 date: 2019/12/11 23:48:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BxdhLomL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BxdhLomL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L8ZRMV1

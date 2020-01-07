@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KJ6FFBX: Rebaja en Love Moschino Jc4094pp18lp0000  bolso ba en Amazon'
+title: 'Love Moschino Jc4094pp18lp0000  bolso ba'
 date: 2019/12/24 12:03:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OFmuzkjhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OFmuzkjhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KJ6FFBX

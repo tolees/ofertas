@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LFV9MTM: Ahorra en Geox U HALLSON A  Botas Chukka para Homb'
+title: 'Geox U HALLSON A  Botas Chukka para Homb'
 date: 2020-01-01 20:28:18
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFV9MTM

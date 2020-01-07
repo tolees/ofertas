@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N1B6NQV: Ahorra en Lee Crewneck SWS  Sudadera para Hombre  '
+title: 'Lee Crewneck SWS  Sudadera para Hombre  '
 date: 2019/12/29 23:09:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qV2kAnyZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qV2kAnyZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N1B6NQV

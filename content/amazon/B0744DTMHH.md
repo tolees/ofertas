@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0744DTMHH: Ahorra en 128GB Memoria Flash USB 3.0 para iPhone '
+title: '128GB Memoria Flash USB 3.0 para iPhone '
 date: 2019/12/31 09:12:34 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMsGyUFDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FMsGyUFDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0744DTMHH

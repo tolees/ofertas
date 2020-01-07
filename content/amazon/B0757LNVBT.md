@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0757LNVBT: Rebaja en Ratón Inalámbrico Recargable  Silencioso en Amazon'
+title: 'Ratón Inalámbrico Recargable  Silencioso'
 date: 2019/12/26 19:27:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SQ1q7XiBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SQ1q7XiBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0757LNVBT

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078WWLSTY: Rebaja en Maclaren Techno XLR WD1G150092 Silla de  en Amazon'
+title: 'Maclaren Techno XLR WD1G150092 Silla de '
 date: 2019/12/26 19:42:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lSLuWBBvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lSLuWBBvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078WWLSTY

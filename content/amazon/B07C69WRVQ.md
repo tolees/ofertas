@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07C69WRVQ: Rebaja en UGREEN Carcasa Disco Duro 2.5"  Caja Dis en Amazon'
+title: 'UGREEN Carcasa Disco Duro 2.5"  Caja Dis'
 date: 2019/12/16 00:36:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51xwCNqCFqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xwCNqCFqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C69WRVQ

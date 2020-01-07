@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KFLB8HJ: Ahorra en ASUS ZenBook 13 UX333FA  90NB0JV3-M00300'
+title: 'ASUS ZenBook 13 UX333FA  90NB0JV3-M00300'
 date: 2020-01-06 15:58:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WDhlT6HDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WDhlT6HDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFLB8HJ

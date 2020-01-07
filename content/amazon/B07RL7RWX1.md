@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RL7RWX1 - Ofertón en Amazon para JACK & JONES Jcosteve Shirt LS Worker Ca'
+title: 'JACK & JONES Jcosteve Shirt LS Worker Ca'
 date: 2020-01-05 17:15:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wdKtX%2BDSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wdKtX%2BDSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

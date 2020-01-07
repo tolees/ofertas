@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N5X6NVB: Ahorra en Funko- Pop Vinilo: Big Bang Theory S2: P'
+title: 'Funko- Pop Vinilo: Big Bang Theory S2: P'
 date: 2019/12/22 17:59:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AIahdChAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AIahdChAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N5X6NVB

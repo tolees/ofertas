@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01IF9WCFS: Ahorra en The North Face S/S Simple Dome H Camiset'
+title: 'The North Face S/S Simple Dome H Camiset'
 date: 2020-01-05 17:43:13
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zrfnDU0PL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zrfnDU0PL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01IF9WCFS

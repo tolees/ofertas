@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07N5WGWQT - Ofertón en Amazon para Funko- Pop Vinilo: Big Bang Theory S2: H'
+title: 'Funko- Pop Vinilo: Big Bang Theory S2: H'
 date: 2019/12/29 01:16:56 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41whwnpeYvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41whwnpeYvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

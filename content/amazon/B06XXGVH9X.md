@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XXGVH9X: Ahorra en Vera Mont 2702/4023-Falda Mujer  Red/Ros'
+title: 'Vera Mont 2702/4023-Falda Mujer  Red/Ros'
 date: 2019/12/18 12:31:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wFJ4AnEKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wFJ4AnEKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XXGVH9X

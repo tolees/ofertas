@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07M8B4QLD: Rebaja en Wrangler Western Check Shirt Blusa  Azul en Amazon'
+title: 'Wrangler Western Check Shirt Blusa  Azul'
 date: 2019/12/22 08:32:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51RPbJTrQoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RPbJTrQoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M8B4QLD

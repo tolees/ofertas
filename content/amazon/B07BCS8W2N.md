@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BCS8W2N: Rebaja en Rowenta Power Steam VR8216F0 - Centro pl en Amazon'
+title: 'Rowenta Power Steam VR8216F0 - Centro pl'
 date: 2019/12/14 09:08:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41A9jAa6xLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A9jAa6xLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BCS8W2N

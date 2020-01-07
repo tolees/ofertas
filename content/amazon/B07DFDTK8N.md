@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DFDTK8N - Ofertón en Amazon para Funko 32804 POP Vinyl: Power Blue Ranger'
+title: 'Funko 32804 POP Vinyl: Power Blue Ranger'
 date: 2020-01-05 06:06:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rDYE3o6QL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rDYE3o6QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

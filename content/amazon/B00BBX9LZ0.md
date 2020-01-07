@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00BBX9LZ0: Ahorra en Inter Home - Funda organizadora de zapat'
+title: 'Inter Home - Funda organizadora de zapat'
 date: 2019/12/11 16:43:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bpRUGz3LL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bpRUGz3LL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BBX9LZ0

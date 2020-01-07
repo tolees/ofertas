@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NY3PY3Y: Ahorra en Superdry Core Utility Pant Pantalones  N'
+title: 'Superdry Core Utility Pant Pantalones  N'
 date: 2020-01-06 11:42:51
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31sB0-C%2ByVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sB0-C%2ByVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NY3PY3Y

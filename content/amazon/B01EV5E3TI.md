@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01EV5E3TI - Ofertón en Amazon para IntimaTe WM Heart Giratoria de Oficina S'
+title: 'IntimaTe WM Heart Giratoria de Oficina S'
 date: 2020-01-05 23:07:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vOTd7AgoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vOTd7AgoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

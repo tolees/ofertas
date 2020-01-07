@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B075XQ7VJJ - Ofertón en Amazon para Hombres en Boxer Hombre Calzoncillos Hom'
+title: 'Hombres en Boxer Hombre Calzoncillos Hom'
 date: 2019/12/18 20:35:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41al7-dDMCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41al7-dDMCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

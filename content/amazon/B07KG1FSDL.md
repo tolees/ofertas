@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KG1FSDL: Ahorra en LIGHTAILING Licht-Set Für  Schiff in der'
+title: 'LIGHTAILING Licht-Set Für  Schiff in der'
 date: 2020-01-05 22:44:16
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG1FSDL

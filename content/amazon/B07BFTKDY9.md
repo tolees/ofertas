@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BFTKDY9 - Ofertón en Amazon para Timex Reloj de Pulsera TW2R64300'
+title: 'Timex Reloj de Pulsera TW2R64300'
 date: 2019/12/31 00:26:23 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412aPQjTUnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412aPQjTUnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

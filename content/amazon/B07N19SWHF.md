@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07N19SWHF - Ofertón en Amazon para Lee Crew Sws  Sudadera para Hombre  Nara'
+title: 'Lee Crew Sws  Sudadera para Hombre  Nara'
 date: 2019/12/13 20:32:38 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tS%2BHuO-xL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tS%2BHuO-xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

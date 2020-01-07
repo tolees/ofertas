@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B074DWXFG8 - Ofertón en Amazon para Versace 19v69 Funda Nórdico y Almohada p'
+title: 'Versace 19v69 Funda Nórdico y Almohada p'
 date: 2019/12/13 15:11:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51SqFzhoEnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SqFzhoEnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

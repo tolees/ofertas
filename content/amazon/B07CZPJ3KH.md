@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CZPJ3KH: Rebaja en Under Armour HG Armour Graphic Legging L en Amazon'
+title: 'Under Armour HG Armour Graphic Legging L'
 date: 2020-01-02 08:26:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414QAHIFMrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414QAHIFMrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CZPJ3KH

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KPS9H5G: Rebaja en Funko Vinyl: Disney: Dumbo: Pop 1 Firema en Amazon'
+title: 'Funko Vinyl: Disney: Dumbo: Pop 1 Firema'
 date: 2020-01-06 14:30:58
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QLjpzDp2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QLjpzDp2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KPS9H5G

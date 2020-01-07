@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GPW5H2B - Ofertón en Amazon para "If You Can Read This Bring Me Some Tea!'
+title: '"If You Can Read This Bring Me Some Tea!'
 date: 2019/12/22 16:52:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51s5zDPBTiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s5zDPBTiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

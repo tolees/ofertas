@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06XFT9THZ - Ofertón en Amazon para find. Camisa Entallada de Algodón de Man'
+title: 'find. Camisa Entallada de Algodón de Man'
 date: 2019/12/15 13:09:54 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bi1-hPqGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bi1-hPqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

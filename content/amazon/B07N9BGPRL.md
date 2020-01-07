@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07N9BGPRL - Ofertón en Amazon para Pepe Jeans Flag Logo Camiseta  Gris  Gre'
+title: 'Pepe Jeans Flag Logo Camiseta  Gris  Gre'
 date: 2019/12/30 12:08:24 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OmIjWdyYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OmIjWdyYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WSQGRLK: Ahorra en Nuevo Versión Transmisor FM Manos Libres'
+title: 'Nuevo Versión Transmisor FM Manos Libres'
 date: 2019/12/21 19:45:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51rUjMAm9eL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rUjMAm9eL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WSQGRLK

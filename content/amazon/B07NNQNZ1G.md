@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NNQNZ1G - Ofertón en Amazon para Suplemento Para Ansiedad + Insomnio Vega'
+title: 'Suplemento Para Ansiedad + Insomnio Vega'
 date: 2019/12/27 14:32:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UO9aIPd%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UO9aIPd%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

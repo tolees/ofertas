@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07M7PCDF9: Rebaja en Our World is Ended - Day One Edition en Amazon'
+title: 'Our World is Ended - Day One Edition'
 date: 2019/12/28 11:41:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M7PCDF9

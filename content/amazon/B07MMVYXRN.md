@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MMVYXRN - Ofertón en Amazon para Lee Marion Vaqueros Straight  Azul  Mid '
+title: 'Lee Marion Vaqueros Straight  Azul  Mid '
 date: 2020-01-04 18:06:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OB8aROOjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OB8aROOjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

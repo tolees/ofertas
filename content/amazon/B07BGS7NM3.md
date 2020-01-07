@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BGS7NM3 - Ofertón en Amazon para VOYOR Afeitadora Mujer Femenina Recortad'
+title: 'VOYOR Afeitadora Mujer Femenina Recortad'
 date: 2020-01-05 09:21:36
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YNg7aTNhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YNg7aTNhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

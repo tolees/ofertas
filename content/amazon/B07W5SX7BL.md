@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07W5SX7BL: Rebaja en KONVINIT Gorro Navideño para Niño Gorro  en Amazon'
+title: 'KONVINIT Gorro Navideño para Niño Gorro '
 date: 2020-01-07 15:03:06
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41JaGMKBh8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JaGMKBh8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07W5SX7BL

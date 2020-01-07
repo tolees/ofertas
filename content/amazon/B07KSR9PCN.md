@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KSR9PCN - Ofertón en Amazon para Under Armour Move Graphic Pant Pantalone'
+title: 'Under Armour Move Graphic Pant Pantalone'
 date: 2019/12/16 02:02:22 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ivnq8gOEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ivnq8gOEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

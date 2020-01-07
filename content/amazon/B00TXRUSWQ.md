@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00TXRUSWQ: Rebaja en Olay Total Effects 7en1 Hidratante Anti- en Amazon'
+title: 'Olay Total Effects 7en1 Hidratante Anti-'
 date: 2020-01-05 14:20:38
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410VHCQ05sL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410VHCQ05sL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TXRUSWQ

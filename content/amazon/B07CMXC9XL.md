@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CMXC9XL - Ofertón en Amazon para Memoria USB Pendrive 128GB 64GB 32GB Wan'
+title: 'Memoria USB Pendrive 128GB 64GB 32GB Wan'
 date: 2019/12/14 02:08:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41JtBum8hyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JtBum8hyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

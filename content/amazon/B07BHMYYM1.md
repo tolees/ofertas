@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BHMYYM1 - Ofertón en Amazon para Meloive Pegatinas de Estrellas para Pare'
+title: 'Meloive Pegatinas de Estrellas para Pare'
 date: 2019/12/25 15:05:06 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51xUDGcv3ZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xUDGcv3ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

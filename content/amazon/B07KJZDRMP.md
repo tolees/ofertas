@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KJZDRMP: Ahorra en Under Armour Under Armour Crossbody 1327'
+title: 'Under Armour Under Armour Crossbody 1327'
 date: 2019/12/16 09:52:30 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Lhbf8HDGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lhbf8HDGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KJZDRMP

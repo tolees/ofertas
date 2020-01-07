@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004FP9STU: Rebaja en Royal Canin C-08314 S.N. Mini Starter -  en Amazon'
+title: 'Royal Canin C-08314 S.N. Mini Starter - '
 date: 2020-01-04 10:32:11
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51QRJEqlY7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QRJEqlY7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004FP9STU

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06Y5XDNXF - Ofertón en Amazon para Taurus Robot 600 Plus Batidor Potencia d'
+title: 'Taurus Robot 600 Plus Batidor Potencia d'
 date: 2020-01-07 11:11:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41o67uCIq5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o67uCIq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

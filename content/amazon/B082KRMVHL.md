@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B082KRMVHL: Ahorra en K9CK Juego de Luces para Lego Technic La'
+title: 'K9CK Juego de Luces para Lego Technic La'
 date: 2020-01-07 15:02:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51KdvXxMWHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KdvXxMWHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082KRMVHL

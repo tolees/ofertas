@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HGR99DL: Ahorra en 4G Tablet 10 Pulgadas HD WiFi  2GB RAM  '
+title: '4G Tablet 10 Pulgadas HD WiFi  2GB RAM  '
 date: 2019/12/22 10:03:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51iR5VPDudL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iR5VPDudL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HGR99DL

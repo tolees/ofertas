@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VC8MJXB: Rebaja en 32GB Grabadora de Voz Digital  ADOKEY Gr en Amazon'
+title: '32GB Grabadora de Voz Digital  ADOKEY Gr'
 date: 2019/12/30 19:19:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417PPmsvJNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417PPmsvJNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VC8MJXB

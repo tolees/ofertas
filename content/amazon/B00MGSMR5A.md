@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00MGSMR5A - Ofertón en Amazon para Clips 539-6000-48 - Reloj de Pulsera Hom'
+title: 'Clips 539-6000-48 - Reloj de Pulsera Hom'
 date: 2020-01-07 13:18:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41N8xVQPuQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N8xVQPuQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

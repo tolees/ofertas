@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TWRW7VP: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Star  en Amazon'
+title: 'BRIKSMAX Led Lighting Kit for LEGO Star '
 date: 2019/12/30 22:35:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qR8-qIIHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qR8-qIIHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TWRW7VP

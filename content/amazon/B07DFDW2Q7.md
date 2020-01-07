@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DFDW2Q7: Rebaja en Pop! Five Nights At Freddy S - Figura de en Amazon'
+title: 'Pop! Five Nights At Freddy S - Figura de'
 date: 2019/12/15 23:55:11 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51N9LDn8mjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N9LDn8mjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFDW2Q7

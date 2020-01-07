@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00Y0UCQV2: Rebaja en Superga 2790-COTROPEW  Zapatillas Mujer  en Amazon'
+title: 'Superga 2790-COTROPEW  Zapatillas Mujer '
 date: 2020-01-03 14:24:23
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51zt-QAtdcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zt-QAtdcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00Y0UCQV2

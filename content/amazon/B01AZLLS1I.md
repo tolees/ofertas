@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01AZLLS1I: Ahorra en New Balance 500 Core  Zapatillas para Ho'
+title: 'New Balance 500 Core  Zapatillas para Ho'
 date: 2019/12/17 12:09:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QrVGy0r8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QrVGy0r8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AZLLS1I

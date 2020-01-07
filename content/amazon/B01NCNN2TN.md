@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NCNN2TN: Ahorra en find. 16563 vestido fiesta mujer  Rosa  '
+title: 'find. 16563 vestido fiesta mujer  Rosa  '
 date: 2020-01-04 12:20:44
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vbNy9oXwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vbNy9oXwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NCNN2TN

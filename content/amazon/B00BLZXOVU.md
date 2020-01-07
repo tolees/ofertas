@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00BLZXOVU - Ofertón en Amazon para Einhell Zug Kapp Gehrungssäge TC-SM 2131'
+title: 'Einhell Zug Kapp Gehrungssäge TC-SM 2131'
 date: 2019/12/16 12:29:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

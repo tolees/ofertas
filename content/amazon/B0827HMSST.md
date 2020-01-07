@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0827HMSST: Rebaja en IMEKIS Mädchen Prinzessin Eiskönigin ELS en Amazon'
+title: 'IMEKIS Mädchen Prinzessin Eiskönigin ELS'
 date: 2019/12/11 04:44:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51mIA8vehEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mIA8vehEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0827HMSST

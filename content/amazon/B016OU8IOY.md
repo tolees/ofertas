@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B016OU8IOY: Ahorra en STANLEY FATMAX FMC692L-QW - Cargador de '
+title: 'STANLEY FATMAX FMC692L-QW - Cargador de '
 date: 2019/12/17 06:23:15 +0000
+thumbnailImage: '._SL200_'
 comments: true
-image: '._SL200_'
 category: ofertas
 author: ring
 slug: B016OU8IOY
@@ -13,10 +13,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [STANLEY FATMAX FMC692L-QW - Cargador de 2Ah para baterías de litio 14.4V/18V](https://www.amazon.com/dp/B016OU8IOY/?tag=redken08-20) a 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [STANLEY FATMAX FMC692L-QW - Cargador de 2Ah para baterías de litio 14.4V/18V](https://www.amazon.com/dp/B016OU8IOY/?tag=redken08-20) a precio de oferta de 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](._SL200_)](https://www.amazon.com/dp/B016OU8IOY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B016OU8IOY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B016OU8IOY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

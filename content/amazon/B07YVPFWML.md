@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07YVPFWML: Ahorra en Nike Revolution 5  Zapatillas de Atletis'
+title: 'Nike Revolution 5  Zapatillas de Atletis'
 date: 2020-01-07 12:15:17
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q6A33qWOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q6A33qWOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YVPFWML

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FSNJT9Z: Ahorra en Clarks Un Adorn Zip  Mocasines para Muje'
+title: 'Clarks Un Adorn Zip  Mocasines para Muje'
 date: 2019/12/26 13:57:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31iD5w8JXGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iD5w8JXGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FSNJT9Z

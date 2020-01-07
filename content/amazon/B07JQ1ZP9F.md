@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JQ1ZP9F - Ofertón en Amazon para Cámara Digital réflex Digital de Alta de'
+title: 'Cámara Digital réflex Digital de Alta de'
 date: 2020-01-07 12:32:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41taB1FGeHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41taB1FGeHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

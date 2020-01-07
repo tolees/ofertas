@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B000JVVTCI - Ofertón en Amazon para NUBY Llaves de dentición refrigerantes c'
+title: 'NUBY Llaves de dentición refrigerantes c'
 date: 2019/12/30 18:21:36 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rmwehF3KL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rmwehF3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

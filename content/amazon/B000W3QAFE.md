@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000W3QAFE: Ahorra en Max Factor Lasting Performance Base de M'
+title: 'Max Factor Lasting Performance Base de M'
 date: 2019/12/21 12:39:11 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/312MvsTNzeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312MvsTNzeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000W3QAFE

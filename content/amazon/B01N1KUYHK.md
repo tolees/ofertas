@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N1KUYHK: Ahorra en NIZZIN Eric suéter Azul  Navy  Large'
+title: 'NIZZIN Eric suéter Azul  Navy  Large'
 date: 2019/12/20 16:21:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51AOZABxOxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AOZABxOxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N1KUYHK

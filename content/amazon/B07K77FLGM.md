@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07K77FLGM: Ahorra en Asics Patriot 10  Zapatillas de Running '
+title: 'Asics Patriot 10  Zapatillas de Running '
 date: 2019/12/14 13:52:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qw7ZjrehL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qw7ZjrehL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K77FLGM

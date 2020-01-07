@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N18FDYH: Ahorra en Reebok Royal Cljog 2  Zapatillas de Trai'
+title: 'Reebok Royal Cljog 2  Zapatillas de Trai'
 date: 2019/12/13 08:06:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41H2Ft41F7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H2Ft41F7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N18FDYH

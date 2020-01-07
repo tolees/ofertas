@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KF5BLXJ - Ofertón en Amazon para Levi s SS Original Hm tee Camiseta  Rojo'
+title: 'Levi s SS Original Hm tee Camiseta  Rojo'
 date: 2019/12/18 19:26:39 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FZ98BdZRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FZ98BdZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

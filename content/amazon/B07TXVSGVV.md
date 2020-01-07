@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TXVSGVV: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Ideas en Amazon'
+title: 'BRIKSMAX Led Lighting Kit for LEGO Ideas'
 date: 2020-01-05 22:22:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TXVSGVV

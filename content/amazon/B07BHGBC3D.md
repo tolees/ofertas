@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BHGBC3D: Rebaja en Cardinal Games 6044936L.O.L. Surprise! 4 en Amazon'
+title: 'Cardinal Games 6044936L.O.L. Surprise! 4'
 date: 2020-01-03 14:14:48
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bn-8fyxxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bn-8fyxxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BHGBC3D

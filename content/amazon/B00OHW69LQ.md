@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00OHW69LQ: Ahorra en HP OMEN - Mochila para portátiles gaming'
+title: 'HP OMEN - Mochila para portátiles gaming'
 date: 2020-01-05 18:53:33
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31umO4dL4rL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31umO4dL4rL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00OHW69LQ

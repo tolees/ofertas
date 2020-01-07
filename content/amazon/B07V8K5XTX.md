@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07V8K5XTX: Rebaja en Norton 360 Premium 2020 - Antivirus soft en Amazon'
+title: 'Norton 360 Premium 2020 - Antivirus soft'
 date: 2019/12/20 07:08:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51CiJHlPCrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CiJHlPCrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07V8K5XTX

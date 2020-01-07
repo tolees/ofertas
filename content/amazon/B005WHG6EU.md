@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B005WHG6EU: Rebaja en DeWalt Paneelsäge 1675W DWS780 inkl. Zub en Amazon'
+title: 'DeWalt Paneelsäge 1675W DWS780 inkl. Zub'
 date: 2020-01-01 13:29:45
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51j5fOeBgtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j5fOeBgtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B005WHG6EU

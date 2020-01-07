@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SM5JYC5: Rebaja en New front Niñas Bailarina Zapatos de Els en Amazon'
+title: 'New front Niñas Bailarina Zapatos de Els'
 date: 2020-01-07 06:33:44
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51zfC2OTR6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zfC2OTR6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SM5JYC5

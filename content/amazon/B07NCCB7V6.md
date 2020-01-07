@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NCCB7V6 - Ofertón en Amazon para Pepe Jeans Saturn Vaqueros  Destroy Deni'
+title: 'Pepe Jeans Saturn Vaqueros  Destroy Deni'
 date: 2019/12/17 06:58:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ovAM7XZKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ovAM7XZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

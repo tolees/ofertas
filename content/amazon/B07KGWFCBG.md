@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KGWFCBG - Ofertón en Amazon para Buff Kernel Trucker  Hombre  Brown  Tall'
+title: 'Buff Kernel Trucker  Hombre  Brown  Tall'
 date: 2019/12/12 22:38:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31My6MbzAKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31My6MbzAKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

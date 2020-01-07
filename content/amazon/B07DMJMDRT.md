@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DMJMDRT - Ofertón en Amazon para Lacoste Esparre Bl 1  Zapatillas para Ho'
+title: 'Lacoste Esparre Bl 1  Zapatillas para Ho'
 date: 2019/12/19 09:55:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/316ozDY1rhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316ozDY1rhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

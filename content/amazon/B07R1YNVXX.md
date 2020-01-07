@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07R1YNVXX - Ofertón en Amazon para Under Armour UA GL Foundation SS T Camis'
+title: 'Under Armour UA GL Foundation SS T Camis'
 date: 2019/12/17 11:10:36 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jE8fB5SXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jE8fB5SXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

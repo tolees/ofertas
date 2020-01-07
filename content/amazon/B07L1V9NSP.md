@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L1V9NSP: Ahorra en Reebok FLEXAGON FIT  Zapatillas de Depor'
+title: 'Reebok FLEXAGON FIT  Zapatillas de Depor'
 date: 2019/12/24 18:58:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xEiptXHEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xEiptXHEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L1V9NSP

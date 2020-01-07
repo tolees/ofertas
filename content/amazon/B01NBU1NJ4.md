@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NBU1NJ4: Ahorra en Epson EcoTank ET-2650  Impresora  WiFi  '
+title: 'Epson EcoTank ET-2650  Impresora  WiFi  '
 date: 2020-01-06 15:45:54
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NBU1NJ4

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B013HTPNHA - Ofertón en Amazon para Philips HR2744/90 - Exprimidor  Color Ne'
+title: 'Philips HR2744/90 - Exprimidor  Color Ne'
 date: 2019/12/29 22:34:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417yjJheQaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417yjJheQaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DD3RDPH - Ofertón en Amazon para Pikmi Pops Serie 2 -  Piruleta 1 Peluche'
+title: 'Pikmi Pops Serie 2 -  Piruleta 1 Peluche'
 date: 2019/12/28 23:10:09 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517HNYuZdwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517HNYuZdwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07K7MKZPX - Ofertón en Amazon para Asics Patriot 10  Zapatillas de Running '
+title: 'Asics Patriot 10  Zapatillas de Running '
 date: 2019/12/30 13:51:22 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

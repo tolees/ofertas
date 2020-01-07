@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NAPUJ8F: Ahorra en Lacoste Herren-Armbanduhr - 2010901'
+title: 'Lacoste Herren-Armbanduhr - 2010901'
 date: 2020-01-04 21:13:38
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4126gRJW8GL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NAPUJ8F

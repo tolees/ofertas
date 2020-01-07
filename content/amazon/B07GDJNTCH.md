@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GDJNTCH: Rebaja en Microfono Inalambrico Bluetooth  Micrófo en Amazon'
+title: 'Microfono Inalambrico Bluetooth  Micrófo'
 date: 2020-01-03 20:58:58
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wk1s-pskL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wk1s-pskL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GDJNTCH

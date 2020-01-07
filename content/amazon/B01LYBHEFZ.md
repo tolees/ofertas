@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01LYBHEFZ - Ofertón en Amazon para Sony Xperia XZ Mineral Black - Telefono '
+title: 'Sony Xperia XZ Mineral Black - Telefono '
 date: 2019/12/26 12:49:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/318WHw2lPZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318WHw2lPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

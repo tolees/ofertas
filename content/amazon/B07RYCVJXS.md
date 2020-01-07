@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RYCVJXS: Rebaja en LIGHTAILING Licht-Set Für  Creator Exper en Amazon'
+title: 'LIGHTAILING Licht-Set Für  Creator Exper'
 date: 2019/12/11 04:46:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411wNAF3x9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411wNAF3x9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RYCVJXS

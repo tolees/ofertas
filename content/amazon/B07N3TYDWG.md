@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N3TYDWG: Ahorra en Umi. Essentials - Auriculares de botón i'
+title: 'Umi. Essentials - Auriculares de botón i'
 date: 2019/12/22 09:08:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ughOAhmoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ughOAhmoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N3TYDWG

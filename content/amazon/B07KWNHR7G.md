@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KWNHR7G: Ahorra en Lego Wear Jungen LWTIGER 652-T-SHIRT L/S'
+title: 'Lego Wear Jungen LWTIGER 652-T-SHIRT L/S'
 date: 2019/12/19 07:42:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KWNHR7G

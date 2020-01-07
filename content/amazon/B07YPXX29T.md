@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07YPXX29T - Ofertón en Amazon para Disney Frozen 2 99487 Tischdecke  Blau'
+title: 'Disney Frozen 2 99487 Tischdecke  Blau'
 date: 2020-01-06 22:11:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HvKdEIpPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HvKdEIpPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

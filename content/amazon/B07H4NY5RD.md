@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H4NY5RD: Rebaja en Staedtler Noris 511 05 PSBK - Afilalápic en Amazon'
+title: 'Staedtler Noris 511 05 PSBK - Afilalápic'
 date: 2019/12/28 19:22:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DUjVlndxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DUjVlndxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H4NY5RD

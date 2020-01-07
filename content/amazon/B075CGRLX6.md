@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B075CGRLX6: Ahorra en Essort Funda Mesa Jardin 123x123x74cm  F'
+title: 'Essort Funda Mesa Jardin 123x123x74cm  F'
 date: 2019/12/28 09:51:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51G%2B%2BADz%2BXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G%2B%2BADz%2BXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075CGRLX6

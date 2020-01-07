@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B079ZZ2RBQ - Ofertón en Amazon para VAIRO Short Columns XXL'
+title: 'VAIRO Short Columns XXL'
 date: 2019-12-31 19:41:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

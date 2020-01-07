@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QDNDK9Q: Ahorra en AmazonBasics - Canasto de tela  alto  cú'
+title: 'AmazonBasics - Canasto de tela  alto  cú'
 date: 2019/12/12 18:07:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31UjO%2BzpmML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UjO%2BzpmML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QDNDK9Q

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B075FFBY7L: Rebaja en Maxi-Cosi CABRIOFIX  Nomad Black  - Sill en Amazon'
+title: 'Maxi-Cosi CABRIOFIX  Nomad Black  - Sill'
 date: 2019/12/25 17:12:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31m9bjWz03L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m9bjWz03L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075FFBY7L

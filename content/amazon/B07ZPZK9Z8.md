@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07ZPZK9Z8: Rebaja en Masajeador Electrónico 10 Modos Vibració en Amazon'
+title: 'Masajeador Electrónico 10 Modos Vibració'
 date: 2020-01-05 08:55:53
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Hhb-lBKmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hhb-lBKmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZPZK9Z8

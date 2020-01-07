@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01KXEGPG0: Ahorra en Reloj para mujer Hugo Boss 1502395.'
+title: 'Reloj para mujer Hugo Boss 1502395.'
 date: 2019/12/10 23:23:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31H7V5aZbzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H7V5aZbzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01KXEGPG0

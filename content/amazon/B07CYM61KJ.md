@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CYM61KJ: Ahorra en Levi s Graphic Set-in Neck  Camiseta par'
+title: 'Levi s Graphic Set-in Neck  Camiseta par'
 date: 2020-01-05 23:21:04
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CYM61KJ

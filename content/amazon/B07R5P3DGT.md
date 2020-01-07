@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07R5P3DGT: Ahorra en find. - Cinturón - para hombre multicolo'
+title: 'find. - Cinturón - para hombre multicolo'
 date: 2019/12/24 11:44:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-RsWvZFUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-RsWvZFUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R5P3DGT

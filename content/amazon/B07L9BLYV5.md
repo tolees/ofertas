@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L9BLYV5: Ahorra en Under Armour Armour Down Hooded Chaqueta'
+title: 'Under Armour Armour Down Hooded Chaqueta'
 date: 2019/12/16 07:11:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414VWuPwkdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414VWuPwkdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9BLYV5

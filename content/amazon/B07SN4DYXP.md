@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SN4DYXP: Ahorra en Umi. Essentials - Auriculares de botón i'
+title: 'Umi. Essentials - Auriculares de botón i'
 date: 2020-01-05 17:49:09
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ciUHQchSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ciUHQchSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SN4DYXP

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01HQQ4F4C - Ofertón en Amazon para The North Face Chaqueta Dryzzle  Hombre '
+title: 'The North Face Chaqueta Dryzzle  Hombre '
 date: 2019/12/21 13:57:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31oj%2BMiyzsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oj%2BMiyzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GDCLHJT: Rebaja en Autopmall GPS Tracker Bicicleta Tiempo d en Amazon'
+title: 'Autopmall GPS Tracker Bicicleta Tiempo d'
 date: 2019/12/24 01:52:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S7VmkYl7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S7VmkYl7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GDCLHJT

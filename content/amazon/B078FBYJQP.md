@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078FBYJQP: Rebaja en find. 64635 vaqueros mujer  Azul  Blue   en Amazon'
+title: 'find. 64635 vaqueros mujer  Azul  Blue  '
 date: 2019/12/21 18:38:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4173lBMcj5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4173lBMcj5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078FBYJQP

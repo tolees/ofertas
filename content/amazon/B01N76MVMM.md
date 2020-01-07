@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01N76MVMM - Ofertón en Amazon para PUMA Popcat  Zapatos de Playa y Piscina '
+title: 'PUMA Popcat  Zapatos de Playa y Piscina '
 date: 2020-01-02 16:53:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ebl2mQkNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ebl2mQkNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

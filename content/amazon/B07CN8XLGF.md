@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CN8XLGF: Rebaja en Crocs Crocband Strap Flip  Chanclas Unis en Amazon'
+title: 'Crocs Crocband Strap Flip  Chanclas Unis'
 date: 2019/12/23 23:04:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41So9xz76VL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41So9xz76VL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CN8XLGF

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J2Z5DBM - Ofertón en Amazon para TOZO T10 TWS audífonos estéreo inalámbri'
+title: 'TOZO T10 TWS audífonos estéreo inalámbri'
 date: 2020-01-05 12:22:30
-image: 'None._SL200_'
+thumbnailImage: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring

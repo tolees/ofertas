@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XYYPTVV - Ofertón en Amazon para YANGOO Pulsera Actividad Inteligente Imp'
+title: 'YANGOO Pulsera Actividad Inteligente Imp'
 date: 2020-01-03 18:51:53
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51u4wEmrdBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u4wEmrdBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0763NHJPL: Ahorra en WOLA estilo de redonda gafas de sol en m'
+title: 'WOLA estilo de redonda gafas de sol en m'
 date: 2019/12/21 07:40:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41JbpiClTyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JbpiClTyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0763NHJPL

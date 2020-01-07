@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DYGSR6B: Rebaja en LOL Surprise Lockable Secret Diary & Pom en Amazon'
+title: 'LOL Surprise Lockable Secret Diary & Pom'
 date: 2020-01-07 14:13:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51H3bv914FL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H3bv914FL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DYGSR6B

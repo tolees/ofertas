@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07R4JMR4B: Ahorra en Receptor Bluetooth  TedGem Bluetooth par'
+title: 'Receptor Bluetooth  TedGem Bluetooth par'
 date: 2020-01-06 06:22:04
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlILP7SDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlILP7SDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R4JMR4B

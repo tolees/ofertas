@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B075SRRYRL - Ofertón en Amazon para jerryvon Frutas y Verduras Juguete para '
+title: 'jerryvon Frutas y Verduras Juguete para '
 date: 2020-01-01 23:59:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

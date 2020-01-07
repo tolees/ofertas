@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MSEYUIC: Ahorra en Philips Avent SCF169/25 - Set de 2 chupe'
+title: 'Philips Avent SCF169/25 - Set de 2 chupe'
 date: 2019/12/30 19:19:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413IYXCkufL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413IYXCkufL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MSEYUIC

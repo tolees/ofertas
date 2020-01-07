@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B009KSSK9G: Rebaja en Totes - Chaqueta Impermeable - para Homb en Amazon'
+title: 'Totes - Chaqueta Impermeable - para Homb'
 date: 2019/12/16 01:13:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/310Sthv67dL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310Sthv67dL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B009KSSK9G

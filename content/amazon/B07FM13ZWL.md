@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FM13ZWL - Ofertón en Amazon para De Mujer con Cuello en V Profunda con Vo'
+title: 'De Mujer con Cuello en V Profunda con Vo'
 date: 2019/12/13 22:16:20 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51BUI1OXyFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BUI1OXyFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

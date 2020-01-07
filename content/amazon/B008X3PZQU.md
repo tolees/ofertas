@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B008X3PZQU - Ofertón en Amazon para Geox U SIRON A  Mocasines para Hombre  N'
+title: 'Geox U SIRON A  Mocasines para Hombre  N'
 date: 2019/12/11 17:23:17 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51iZK1e7KPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iZK1e7KPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JFL6CJ6: Rebaja en Puma Carina Zapatillas Mujer  Negro  Pum en Amazon'
+title: 'Puma Carina Zapatillas Mujer  Negro  Pum'
 date: 2020-01-05 22:36:52
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31t6kx3BqlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t6kx3BqlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JFL6CJ6

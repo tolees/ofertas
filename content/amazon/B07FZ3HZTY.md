@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FZ3HZTY - Ofertón en Amazon para Kipling - Fundamental Nc  Mochilas Mujer'
+title: 'Kipling - Fundamental Nc  Mochilas Mujer'
 date: 2019/12/26 12:37:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CK11ASVrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CK11ASVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

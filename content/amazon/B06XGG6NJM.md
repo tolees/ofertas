@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XGG6NJM: Rebaja en Stranger Things Llavero de Vinilo Eleven en Amazon'
+title: 'Stranger Things Llavero de Vinilo Eleven'
 date: 2019/12/28 17:44:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31meuzeZx%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31meuzeZx%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XGG6NJM

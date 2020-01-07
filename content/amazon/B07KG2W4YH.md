@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KG2W4YH: Rebaja en PUMA One 5.3 FG/AG  Botas de fútbol para en Amazon'
+title: 'PUMA One 5.3 FG/AG  Botas de fútbol para'
 date: 2019/12/26 07:09:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RDKBwh%2B2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RDKBwh%2B2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG2W4YH

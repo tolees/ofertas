@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00PQTF1UY: Rebaja en Carbonell Aceite de Oliva Virgen Extra 5 en Amazon'
+title: 'Carbonell Aceite de Oliva Virgen Extra 5'
 date: 2019/12/27 13:20:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ycZPWtnHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ycZPWtnHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00PQTF1UY

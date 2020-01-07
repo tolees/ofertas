@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CGRZQ87 - Ofertón en Amazon para L Óreal Paris Perfilador de Cejas Brow A'
+title: 'L Óreal Paris Perfilador de Cejas Brow A'
 date: 2019/12/25 08:41:19 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/218kP2-eEVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/218kP2-eEVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

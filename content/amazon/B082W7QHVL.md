@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B082W7QHVL: Ahorra en GODNECE Technic Racing Car  1:8 Race Car'
+title: 'GODNECE Technic Racing Car  1:8 Race Car'
 date: 2020-01-07 06:22:04
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rXmEtBRoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rXmEtBRoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082W7QHVL

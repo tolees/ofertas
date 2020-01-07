@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B082PDPCF7: Ahorra en Vestido de Niña Elsa Reina de Las Nieves'
+title: 'Vestido de Niña Elsa Reina de Las Nieves'
 date: 2019/12/22 01:21:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082PDPCF7

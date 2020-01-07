@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TJGB4F6: Ahorra en Maegoo Mando Controlador Inalámbrico par'
+title: 'Maegoo Mando Controlador Inalámbrico par'
 date: 2019/12/25 15:50:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41po8HVhcnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41po8HVhcnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TJGB4F6

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N3TYXYK: Rebaja en Pastillas para la limpieza de cafeteras  en Amazon'
+title: 'Pastillas para la limpieza de cafeteras '
 date: 2019/12/15 09:02:52 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CysxvmAAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CysxvmAAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N3TYXYK

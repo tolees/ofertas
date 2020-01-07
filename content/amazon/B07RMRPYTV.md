@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RMRPYTV: Rebaja en Nike Revolution 4  Zapatillas de Running en Amazon'
+title: 'Nike Revolution 4  Zapatillas de Running'
 date: 2019/12/25 16:09:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kbG%2B7G-tL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kbG%2B7G-tL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RMRPYTV

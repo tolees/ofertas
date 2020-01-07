@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QF9Q2SS - Ofertón en Amazon para Puma Logo 7/8 Tight Mallas Deporte  Muje'
+title: 'Puma Logo 7/8 Tight Mallas Deporte  Muje'
 date: 2019/12/23 12:26:48 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KDTREFMYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KDTREFMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

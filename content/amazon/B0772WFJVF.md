@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0772WFJVF: Rebaja en Funko 22058 S1 Pop Vinyl Ready Player On en Amazon'
+title: 'Funko 22058 S1 Pop Vinyl Ready Player On'
 date: 2019/12/29 08:28:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fp2srutuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fp2srutuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0772WFJVF

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07T9PTTW8: Rebaja en GODNECE LED Licht-Set für Baustein  Led  en Amazon'
+title: 'GODNECE LED Licht-Set für Baustein  Led '
 date: 2019/12/23 00:48:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5133rMDopXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5133rMDopXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07T9PTTW8

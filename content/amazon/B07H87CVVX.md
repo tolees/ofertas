@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07H87CVVX - Ofertón en Amazon para Amplificador WiFi Repetidor Extensor de '
+title: 'Amplificador WiFi Repetidor Extensor de '
 date: 2019/12/30 00:46:47 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41enVlXIJCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41enVlXIJCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

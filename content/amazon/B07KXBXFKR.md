@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KXBXFKR - Ofertón en Amazon para Bronchotos Pediátrico - Jarabe tos seca '
+title: 'Bronchotos Pediátrico - Jarabe tos seca '
 date: 2020-01-06 23:41:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HYkHVdkBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HYkHVdkBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

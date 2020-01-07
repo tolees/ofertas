@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J3DLLXH - Ofertón en Amazon para Under Armour UA Streaker 2.0 Longsleeve '
+title: 'Under Armour UA Streaker 2.0 Longsleeve '
 date: 2019/12/29 01:40:10 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31xlzILr1gL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xlzILr1gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

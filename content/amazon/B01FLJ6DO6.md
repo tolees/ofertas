@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01FLJ6DO6 - Ofertón en Amazon para Bosch Professional GCL 2-15 - Nivel láse'
+title: 'Bosch Professional GCL 2-15 - Nivel láse'
 date: 2019/12/20 03:20:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXCcm8QhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXCcm8QhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

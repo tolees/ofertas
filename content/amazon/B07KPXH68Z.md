@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KPXH68Z: Ahorra en Fantasyworld SJ60 Impermeable 2.0" LCD 4'
+title: 'Fantasyworld SJ60 Impermeable 2.0" LCD 4'
 date: 2020-01-03 13:16:52
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4190mapcI5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190mapcI5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KPXH68Z

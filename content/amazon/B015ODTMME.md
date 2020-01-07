@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B015ODTMME: Rebaja en Vileda Virobi Slim - Mopa robot con sist en Amazon'
+title: 'Vileda Virobi Slim - Mopa robot con sist'
 date: 2019/12/19 06:47:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nxhVj73QL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nxhVj73QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B015ODTMME

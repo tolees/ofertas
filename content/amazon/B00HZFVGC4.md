@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HZFVGC4: Rebaja en SHIMANO Adaptador SM-RTAD05 Center-Lock  en Amazon'
+title: 'SHIMANO Adaptador SM-RTAD05 Center-Lock '
 date: 2019/12/31 09:49:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51jYJW1xxLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jYJW1xxLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HZFVGC4

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DTTPM9S: Rebaja en Napapijri HAPPY DAY PACK Mochila tipo ca en Amazon'
+title: 'Napapijri HAPPY DAY PACK Mochila tipo ca'
 date: 2019/12/29 19:49:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31epOWyj1qL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31epOWyj1qL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DTTPM9S

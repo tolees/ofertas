@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RQVKJSL: Rebaja en LEGO City Satellite Polybag Set 30365  B en Amazon'
+title: 'LEGO City Satellite Polybag Set 30365  B'
 date: 2020-01-05 22:14:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514EssHpbRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514EssHpbRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RQVKJSL

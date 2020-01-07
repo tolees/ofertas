@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DJ5Z3LC: Ahorra en SIPHEW Gafas Conduccion Nocturna Polariz'
+title: 'SIPHEW Gafas Conduccion Nocturna Polariz'
 date: 2019/12/27 19:52:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LiagAygdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LiagAygdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DJ5Z3LC

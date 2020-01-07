@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07G94WZWC: Rebaja en Michael Kors Smartwatch para Mujer con C en Amazon'
+title: 'Michael Kors Smartwatch para Mujer con C'
 date: 2019/12/26 20:50:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41o7r8uFG6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o7r8uFG6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G94WZWC

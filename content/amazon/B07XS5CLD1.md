@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XS5CLD1 - Ofertón en Amazon para Medisana FWS Calentador eléctrica de pie'
+title: 'Medisana FWS Calentador eléctrica de pie'
 date: 2019/12/13 08:56:10 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dTov0ZWRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dTov0ZWRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

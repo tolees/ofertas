@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0719DCJDW: Ahorra en Funko Sister Location - Ballora  Assorte'
+title: 'Funko Sister Location - Ballora  Assorte'
 date: 2019/12/20 16:27:47 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pAD0TMO1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pAD0TMO1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0719DCJDW

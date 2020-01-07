@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BVSFNXT: Rebaja en seQoya · Volcano | Reloj de Piedra Hecho en Amazon'
+title: 'seQoya · Volcano | Reloj de Piedra Hecho'
 date: 2019/12/21 15:29:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nGbjCCzBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nGbjCCzBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BVSFNXT

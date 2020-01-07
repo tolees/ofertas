@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07WLT8RLB - Ofertón en Amazon para Echo Dot  3rd Gen  - Smart speaker with '
+title: 'Echo Dot  3rd Gen  - Smart speaker with '
 date: 2020-01-02 13:14:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

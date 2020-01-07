@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XCJYQC9: Ahorra en Clarks Adriel Viola  Zapatos de Tacón pa'
+title: 'Clarks Adriel Viola  Zapatos de Tacón pa'
 date: 2019/12/14 11:34:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uQd%2BsUV3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uQd%2BsUV3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XCJYQC9

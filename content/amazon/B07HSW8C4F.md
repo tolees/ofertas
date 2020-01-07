@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HSW8C4F: Ahorra en TUTUO Dock para Nintendo Switch  USB C a'
+title: 'TUTUO Dock para Nintendo Switch  USB C a'
 date: 2019/12/13 15:49:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KfISgpKBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KfISgpKBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HSW8C4F

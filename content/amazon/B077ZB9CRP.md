@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077ZB9CRP: Ahorra en NV Compression Race and Recover Calentad'
+title: 'NV Compression Race and Recover Calentad'
 date: 2019/12/18 19:15:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XaT0uOZpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XaT0uOZpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077ZB9CRP

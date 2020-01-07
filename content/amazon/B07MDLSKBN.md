@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MDLSKBN: Rebaja en LIGHTAILING Conjunto de Luces  Ghostbust en Amazon'
+title: 'LIGHTAILING Conjunto de Luces  Ghostbust'
 date: 2020-01-05 23:09:34
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51nxbOdoRxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nxbOdoRxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MDLSKBN

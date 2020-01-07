@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B005EJFLJC: Rebaja en Duracell Plus Power  Pilas Alcalinas AA  en Amazon'
+title: 'Duracell Plus Power  Pilas Alcalinas AA '
 date: 2020-01-06 17:45:53
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51fS8gFdmvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fS8gFdmvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B005EJFLJC

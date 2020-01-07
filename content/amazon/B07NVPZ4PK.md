@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NVPZ4PK: Rebaja en Tostadora Pan 1 Ranura Ancha  1200 W  3  en Amazon'
+title: 'Tostadora Pan 1 Ranura Ancha  1200 W  3 '
 date: 2019/12/23 21:22:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XkntYgIqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XkntYgIqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NVPZ4PK

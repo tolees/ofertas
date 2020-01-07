@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TFHRTPB: Ahorra en Cámara para Niños Kidizoom con Pantalla '
+title: 'Cámara para Niños Kidizoom con Pantalla '
 date: 2019/12/19 12:00:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51MuAen3k9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MuAen3k9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TFHRTPB

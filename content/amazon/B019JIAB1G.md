@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B019JIAB1G - Ofertón en Amazon para Funko-6560 Triwizard Tournament Figura d'
+title: 'Funko-6560 Triwizard Tournament Figura d'
 date: 2019-12-30 14:07:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JQnpqZ1fL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JQnpqZ1fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

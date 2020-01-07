@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DFYPQ3N: Rebaja en Team Sonic Racing  Nintendo Switch en Amazon'
+title: 'Team Sonic Racing  Nintendo Switch'
 date: 2019/12/19 11:19:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BIgD0uBcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BIgD0uBcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFYPQ3N

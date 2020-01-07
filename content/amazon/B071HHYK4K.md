@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B071HHYK4K - Ofertón en Amazon para Huawei P10 SIM-Free Smartphone - Black'
+title: 'Huawei P10 SIM-Free Smartphone - Black'
 date: 2019/12/18 18:50:38 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qNpOCWcFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qNpOCWcFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

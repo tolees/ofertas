@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LFWQ7MS - Ofertón en Amazon para Mortal Kombat 11 - Standard Edition'
+title: 'Mortal Kombat 11 - Standard Edition'
 date: 2019/12/19 10:09:01 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51RdRbBLo2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RdRbBLo2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

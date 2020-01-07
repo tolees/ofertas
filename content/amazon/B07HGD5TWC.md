@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HGD5TWC: Rebaja en Calzado Deportivo para Hombre  Color Azu en Amazon'
+title: 'Calzado Deportivo para Hombre  Color Azu'
 date: 2019/12/20 00:19:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31MpX5%2BwkAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MpX5%2BwkAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HGD5TWC

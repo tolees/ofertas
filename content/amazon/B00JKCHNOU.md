@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00JKCHNOU - Ofertón en Amazon para Transcend JetDrive 520 240GB SATA III 6G'
+title: 'Transcend JetDrive 520 240GB SATA III 6G'
 date: 2019/12/22 10:37:59 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/215ozOoOSAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/215ozOoOSAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

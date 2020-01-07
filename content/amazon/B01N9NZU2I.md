@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N9NZU2I: Ahorra en Cecotec Aspirador Trineo Conga Turbocicl'
+title: 'Cecotec Aspirador Trineo Conga Turbocicl'
 date: 2020-01-04 22:27:17
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41X6t2yTSzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X6t2yTSzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N9NZU2I

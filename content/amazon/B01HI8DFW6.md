@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01HI8DFW6 - Ofertón en Amazon para Cooko Abridor de Vino Abrebotellas Sacac'
+title: 'Cooko Abridor de Vino Abrebotellas Sacac'
 date: 2019/12/23 08:43:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51v6p5%2B78HL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v6p5%2B78HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

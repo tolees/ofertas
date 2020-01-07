@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07D1GYWWP - Ofertón en Amazon para Asics Aaron  Zapatillas para Hombre  Azu'
+title: 'Asics Aaron  Zapatillas para Hombre  Azu'
 date: 2020-01-06 09:39:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ghP-3FGmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ghP-3FGmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

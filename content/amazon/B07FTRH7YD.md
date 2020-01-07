@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FTRH7YD: Rebaja en Lee Lee Belt  Cinturón Mujer  Marrón  Da en Amazon'
+title: 'Lee Lee Belt  Cinturón Mujer  Marrón  Da'
 date: 2019/12/25 16:26:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dv4%2BaOF3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dv4%2BaOF3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FTRH7YD

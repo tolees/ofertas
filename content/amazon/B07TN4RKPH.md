@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07TN4RKPH - Ofertón en Amazon para Bluetooth V5.0 Headset Wireless Earpiece'
+title: 'Bluetooth V5.0 Headset Wireless Earpiece'
 date: 2020-01-07 14:11:56
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41r7GaYXSiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r7GaYXSiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

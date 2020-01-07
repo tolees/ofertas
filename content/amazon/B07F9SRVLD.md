@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F9SRVLD: Rebaja en AmazonBasics - Lightning-auf-USB-A-Kabel en Amazon'
+title: 'AmazonBasics - Lightning-auf-USB-A-Kabel'
 date: 2019/12/26 12:28:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAHm-KurL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IAHm-KurL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F9SRVLD

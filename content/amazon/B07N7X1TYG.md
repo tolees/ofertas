@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N7X1TYG: Rebaja en keeeper Fredo Fresh Fiambreras  PP  Azul en Amazon'
+title: 'keeeper Fredo Fresh Fiambreras  PP  Azul'
 date: 2019/12/27 08:07:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kGnvZ92-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kGnvZ92-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N7X1TYG

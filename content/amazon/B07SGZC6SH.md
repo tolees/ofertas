@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SGZC6SH: Rebaja en Samsung Galaxy S10 Smartphone Bundle  15 en Amazon'
+title: 'Samsung Galaxy S10 Smartphone Bundle  15'
 date: 2019/12/29 05:26:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31YXpoFf3wL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YXpoFf3wL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SGZC6SH

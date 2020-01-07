@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MLCC3S5: Ahorra en LOBKIN Bluetooth Wireless Earbuds  Lates'
+title: 'LOBKIN Bluetooth Wireless Earbuds  Lates'
 date: 2020-01-06 14:08:06
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417sDX-jPVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417sDX-jPVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MLCC3S5

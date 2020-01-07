@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07S1WSY1C: Rebaja en Melissa Pack Hilo Acrílico Ovillos de La en Amazon'
+title: 'Melissa Pack Hilo Acrílico Ovillos de La'
 date: 2020-01-05 10:11:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518zdIi86FL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518zdIi86FL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S1WSY1C

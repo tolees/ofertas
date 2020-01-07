@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PJKNZTD - Ofertón en Amazon para Yunteng Precisión Cosido y Durable Drago'
+title: 'Yunteng Precisión Cosido y Durable Drago'
 date: 2020-01-05 06:30:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41oZeuE1KBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oZeuE1KBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

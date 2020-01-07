@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XHG55ZP - Ofertón en Amazon para NUBILY Bolso Mujer Bolsos Bandolera para'
+title: 'NUBILY Bolso Mujer Bolsos Bandolera para'
 date: 2019/12/13 22:30:19 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SPyfACFVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SPyfACFVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

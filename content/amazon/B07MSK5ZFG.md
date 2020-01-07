@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MSK5ZFG: Rebaja en Clarks - Botines de Sintético Hombre  Co en Amazon'
+title: 'Clarks - Botines de Sintético Hombre  Co'
 date: 2019/12/19 22:14:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31oEuKN6WJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oEuKN6WJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MSK5ZFG

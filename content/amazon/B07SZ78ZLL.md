@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SZ78ZLL: Ahorra en ieGeek Autoradio Bluetooth  Estéreo RDS '
+title: 'ieGeek Autoradio Bluetooth  Estéreo RDS '
 date: 2020-01-07 11:27:22
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YoRtrilKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YoRtrilKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SZ78ZLL

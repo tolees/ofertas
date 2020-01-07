@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GVJJ87R - Ofertón en Amazon para Figurízate | Potente adelgazante con acc'
+title: 'Figurízate | Potente adelgazante con acc'
 date: 2019/12/24 23:33:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41frxGB1o6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41frxGB1o6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074H3HYWK: Ahorra en find. Camisa con Volantes para Mujer  Az'
+title: 'find. Camisa con Volantes para Mujer  Az'
 date: 2020-01-06 06:26:05
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VZ1vnH0QL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VZ1vnH0QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074H3HYWK

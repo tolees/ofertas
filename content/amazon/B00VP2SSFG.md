@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00VP2SSFG - Ofertón en Amazon para Maybelline New York - Lash Sensational  '
+title: 'Maybelline New York - Lash Sensational  '
 date: 2020-01-03 10:07:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xk9%2BoGrtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Xk9%2BoGrtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H57JSVM: Ahorra en X-TIGER Hombres de Bicicleta Manga Corta'
+title: 'X-TIGER Hombres de Bicicleta Manga Corta'
 date: 2019/12/30 10:31:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eeCHGjVLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eeCHGjVLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H57JSVM

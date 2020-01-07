@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01LY0PTO9: Ahorra en Linksys WRT3200ACM-EU - Router Wi-Fi Gig'
+title: 'Linksys WRT3200ACM-EU - Router Wi-Fi Gig'
 date: 2019/12/21 09:13:12 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31op8k0FoYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31op8k0FoYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LY0PTO9

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00HNLQZXA - Ofertón en Amazon para Einhell  4513495 RT-SD 3 6/2 Li Kit  -  '
+title: 'Einhell  4513495 RT-SD 3 6/2 Li Kit  -  '
 date: 2020-01-07 07:14:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

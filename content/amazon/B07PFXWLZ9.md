@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PFXWLZ9 - Ofertón en Amazon para BLEND 20708531 Camisa Casual  Azul  Dark'
+title: 'BLEND 20708531 Camisa Casual  Azul  Dark'
 date: 2020-01-02 16:03:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OT42drluL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OT42drluL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

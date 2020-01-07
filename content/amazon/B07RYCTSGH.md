@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RYCTSGH - Ofertón en Amazon para LIGHTAILING Light Set For  Architecture '
+title: 'LIGHTAILING Light Set For  Architecture '
 date: 2020-01-06 14:13:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41p2fpYYoUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p2fpYYoUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

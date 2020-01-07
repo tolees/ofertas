@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KTMKNPL: Ahorra en LAPPAZO- Reloj Niña de Analógico Cuarzo '
+title: 'LAPPAZO- Reloj Niña de Analógico Cuarzo '
 date: 2020-01-07 14:54:18
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ORYcebOPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ORYcebOPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KTMKNPL

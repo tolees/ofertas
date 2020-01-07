@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N15FXKF: Ahorra en The North Face Zion  Camiseta Para Mujer'
+title: 'The North Face Zion  Camiseta Para Mujer'
 date: 2019/12/19 14:13:12 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41T1o29xA0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T1o29xA0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N15FXKF

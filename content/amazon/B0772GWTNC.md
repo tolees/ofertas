@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0772GWTNC - Ofertón en Amazon para IRIS & LILLY Tanga Body Smooth Mujer  Pa'
+title: 'IRIS & LILLY Tanga Body Smooth Mujer  Pa'
 date: 2019/12/27 16:58:22 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-0Id1jTvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-0Id1jTvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01G7DMXOE - Ofertón en Amazon para Sorel Newbie  Botas para Mujer  Marrón  '
+title: 'Sorel Newbie  Botas para Mujer  Marrón  '
 date: 2019/12/18 19:26:39 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TMUiiDc3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TMUiiDc3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

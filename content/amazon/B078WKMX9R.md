@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B078WKMX9R - Ofertón en Amazon para Auriculares Gaming Premium para PS4  PC '
+title: 'Auriculares Gaming Premium para PS4  PC '
 date: 2019/12/27 13:03:12 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515-OvQF1LL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515-OvQF1LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

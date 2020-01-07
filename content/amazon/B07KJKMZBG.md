@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KJKMZBG - Ofertón en Amazon para Marca Amazon- Mama Bear  Gel y champú  p'
+title: 'Marca Amazon- Mama Bear  Gel y champú  p'
 date: 2019/12/12 19:07:44 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31mm2fYn8vL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mm2fYn8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

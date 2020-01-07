@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079QHMFWC: Rebaja en Fire TV Stick 4K Ultra HD mit Alexa-Spra en Amazon'
+title: 'Fire TV Stick 4K Ultra HD mit Alexa-Spra'
 date: 2019/12/19 00:21:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ixcs-oR3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ixcs-oR3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079QHMFWC

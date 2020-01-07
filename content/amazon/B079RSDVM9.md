@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B079RSDVM9 - Ofertón en Amazon para Pepe Jeans Hiddleston PM305474 Camisa  A'
+title: 'Pepe Jeans Hiddleston PM305474 Camisa  A'
 date: 2019/12/12 12:18:22 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lYy0fjg4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lYy0fjg4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

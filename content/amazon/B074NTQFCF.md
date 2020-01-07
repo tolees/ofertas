@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074NTQFCF: Ahorra en SALCAR Caja con USB 3.0 para Disco Duro '
+title: 'SALCAR Caja con USB 3.0 para Disco Duro '
 date: 2019/12/25 19:50:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XwRziGVVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XwRziGVVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074NTQFCF

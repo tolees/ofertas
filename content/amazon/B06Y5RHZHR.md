@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06Y5RHZHR: Rebaja en Pikolin Home - Protector de colchón/Cubr en Amazon'
+title: 'Pikolin Home - Protector de colchón/Cubr'
 date: 2019/12/13 11:05:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yPn-zeLFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yPn-zeLFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06Y5RHZHR

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B003TWP5GK: Rebaja en Bosch 2607010630 - Hojas de sierra de ca en Amazon'
+title: 'Bosch 2607010630 - Hojas de sierra de ca'
 date: 2020-01-02 15:35:20
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hwHSqydrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hwHSqydrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B003TWP5GK

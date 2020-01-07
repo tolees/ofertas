@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HN8WK5P - Ofertón en Amazon para Nike Dri-FIT Miler Camiseta  Hombre  Azu'
+title: 'Nike Dri-FIT Miler Camiseta  Hombre  Azu'
 date: 2019/12/13 20:21:04 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XOSKd3bNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XOSKd3bNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

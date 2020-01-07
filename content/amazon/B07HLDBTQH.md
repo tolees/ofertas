@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HLDBTQH: Rebaja en READ Reloj para Hombre  Reloj de Cuarzo  en Amazon'
+title: 'READ Reloj para Hombre  Reloj de Cuarzo '
 date: 2019/12/21 16:54:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41z8fb580vL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z8fb580vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HLDBTQH

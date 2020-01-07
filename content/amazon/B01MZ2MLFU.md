@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MZ2MLFU: Ahorra en Reebok Royal Glide S Clip  Zapatillas pa'
+title: 'Reebok Royal Glide S Clip  Zapatillas pa'
 date: 2019/12/26 20:17:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KGEjTeJlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KGEjTeJlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MZ2MLFU

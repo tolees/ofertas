@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07ND9GYZ3: Ahorra en LEGO 70420 Hidden Side Geheimnisvoller F'
+title: 'LEGO 70420 Hidden Side Geheimnisvoller F'
 date: 2020-01-07 06:28:49
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51oc2sgDhTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oc2sgDhTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ND9GYZ3

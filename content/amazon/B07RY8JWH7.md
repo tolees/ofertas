@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RY8JWH7: Ahorra en BRIKSMAX Led Lighting Kit for Friends He'
+title: 'BRIKSMAX Led Lighting Kit for Friends He'
 date: 2019/12/24 00:30:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vfCRHoUgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vfCRHoUgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RY8JWH7

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RC8DQQF - Ofertón en Amazon para Columbia Klamath Range II Forro Polar co'
+title: 'Columbia Klamath Range II Forro Polar co'
 date: 2019/12/26 12:04:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416OtCnFRdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416OtCnFRdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

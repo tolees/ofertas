@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F6Q3DCG: Rebaja en Salomon Trailblazer Mochila de Senderism en Amazon'
+title: 'Salomon Trailblazer Mochila de Senderism'
 date: 2019/12/13 11:21:54 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31eY5a1mBbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eY5a1mBbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F6Q3DCG

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XKBRLX5: Rebaja en Indivisible en Amazon'
+title: 'Indivisible'
 date: 2020-01-02 15:54:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5170TFnKDDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5170TFnKDDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XKBRLX5

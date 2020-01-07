@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RBNP5VG: Rebaja en Meinkind Silla de Coche Niños Grupo 1 2  en Amazon'
+title: 'Meinkind Silla de Coche Niños Grupo 1 2 '
 date: 2020-01-07 14:44:35
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411KuGAulUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411KuGAulUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RBNP5VG

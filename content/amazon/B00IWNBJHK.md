@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00IWNBJHK: Rebaja en Jack & Jones Tim Original - Vaqueros sli en Amazon'
+title: 'Jack & Jones Tim Original - Vaqueros sli'
 date: 2019/12/14 12:04:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00IWNBJHK

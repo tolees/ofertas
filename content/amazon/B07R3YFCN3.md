@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07R3YFCN3: Ahorra en Meinkind Espejo Retrovisor Bebé para Vig'
+title: 'Meinkind Espejo Retrovisor Bebé para Vig'
 date: 2020-01-03 05:56:13
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418igKkxXWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418igKkxXWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R3YFCN3

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07D29ZQMF: Ahorra en LIGE Relojes Hombre Impermeable Deporte '
+title: 'LIGE Relojes Hombre Impermeable Deporte '
 date: 2019/12/29 11:14:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51WeqpmMd5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WeqpmMd5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D29ZQMF

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071WYMBHG: Ahorra en find.  Zapatillas Deportivas para Mujer '
+title: 'find.  Zapatillas Deportivas para Mujer '
 date: 2019/12/29 15:36:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31nAKc60giL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nAKc60giL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WYMBHG

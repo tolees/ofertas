@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GK7J9GH: Ahorra en LEABAGS Lewes Llavero de Cuero'
+title: 'LEABAGS Lewes Llavero de Cuero'
 date: 2019/12/19 13:15:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xn42JtbyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Xn42JtbyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GK7J9GH

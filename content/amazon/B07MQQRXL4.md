@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MQQRXL4: Rebaja en ANTIMI Bluetooth Headphones Wireless Ear en Amazon'
+title: 'ANTIMI Bluetooth Headphones Wireless Ear'
 date: 2020-01-07 06:06:49
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MQQRXL4

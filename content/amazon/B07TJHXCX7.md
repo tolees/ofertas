@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TJHXCX7: Rebaja en Hawkers Gafas de Sol Hombre polarizadas- en Amazon'
+title: 'Hawkers Gafas de Sol Hombre polarizadas-'
 date: 2019/12/17 19:21:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31EBULZyE-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EBULZyE-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TJHXCX7

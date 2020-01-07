@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XPXZDDK: Rebaja en AWDis Raglan Sweatshirt Sudadera  Verde  en Amazon'
+title: 'AWDis Raglan Sweatshirt Sudadera  Verde '
 date: 2019/12/13 18:19:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YB8QVLKbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YB8QVLKbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XPXZDDK

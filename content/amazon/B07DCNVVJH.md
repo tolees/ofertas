@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DCNVVJH - Ofertón en Amazon para find. Wax Coated Belted Chaqueta  Negro '
+title: 'find. Wax Coated Belted Chaqueta  Negro '
 date: 2019/12/25 09:52:37 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419gD1rXnxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419gD1rXnxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

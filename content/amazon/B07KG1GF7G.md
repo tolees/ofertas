@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KG1GF7G: Ahorra en PUMA Cell Venom Alert  Zapatillas Unisex'
+title: 'PUMA Cell Venom Alert  Zapatillas Unisex'
 date: 2019/12/26 00:12:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG1GF7G

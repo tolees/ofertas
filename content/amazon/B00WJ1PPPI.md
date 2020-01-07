@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00WJ1PPPI - Ofertón en Amazon para LeapFrog Learning Library Frozen'
+title: 'LeapFrog Learning Library Frozen'
 date: 2019/12/14 15:27:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51s5x33OAFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s5x33OAFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

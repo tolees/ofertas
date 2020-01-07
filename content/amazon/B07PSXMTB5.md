@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PSXMTB5 - Ofertón en Amazon para New Balance 373  Zapatillas para Hombre '
+title: 'New Balance 373  Zapatillas para Hombre '
 date: 2020-01-02 00:04:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

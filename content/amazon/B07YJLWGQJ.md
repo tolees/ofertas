@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07YJLWGQJ: Rebaja en Aitsite 8 Piezas Navidad Cocina Cubierto en Amazon'
+title: 'Aitsite 8 Piezas Navidad Cocina Cubierto'
 date: 2019/12/28 04:31:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51rrQ7uqmjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rrQ7uqmjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YJLWGQJ

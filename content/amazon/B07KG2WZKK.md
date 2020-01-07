@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KG2WZKK: Ahorra en PUMA Cilia Lux  Zapatillas para Mujer  B'
+title: 'PUMA Cilia Lux  Zapatillas para Mujer  B'
 date: 2019/12/15 10:21:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31I45YXI5NL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I45YXI5NL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG2WZKK

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00EL8UTAI: Ahorra en STANLEY FATMAX FME1250K-QS - Martillo pe'
+title: 'STANLEY FATMAX FME1250K-QS - Martillo pe'
 date: 2019/12/18 12:35:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bYn3FS8-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bYn3FS8-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00EL8UTAI

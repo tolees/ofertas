@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H8BFTHG: Rebaja en [2 Pack] Protector de Pantalla Huawei Ma en Amazon'
+title: '[2 Pack] Protector de Pantalla Huawei Ma'
 date: 2019/12/31 15:02:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BY9HNLg6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BY9HNLg6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H8BFTHG

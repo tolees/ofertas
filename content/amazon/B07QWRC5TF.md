@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QWRC5TF - Ofertón en Amazon para Amilril Collar  Amor Corazon Colgantes M'
+title: 'Amilril Collar  Amor Corazon Colgantes M'
 date: 2019/12/19 08:35:12 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GK7%2BkySPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GK7%2BkySPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

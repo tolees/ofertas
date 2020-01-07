@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FY2J9LR: Rebaja en Teléfono Móvil para Personas Mayores Tec en Amazon'
+title: 'Teléfono Móvil para Personas Mayores Tec'
 date: 2019/12/14 08:05:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vG03r0yXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vG03r0yXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FY2J9LR

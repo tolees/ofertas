@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B000BMZHVY - Ofertón en Amazon para HP Q6471A - Cartucho de tóner'
+title: 'HP Q6471A - Cartucho de tóner'
 date: 2019/12/25 12:37:51 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

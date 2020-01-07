@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01NCKFJWH - Ofertón en Amazon para find. Oversized Blusa para Mujer  Rojo  '
+title: 'find. Oversized Blusa para Mujer  Rojo  '
 date: 2020-01-02 12:06:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pc5DScCdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pc5DScCdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

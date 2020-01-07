@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RZMS2ZH: Ahorra en YABER Arrancador de Coches  1200A Arranc'
+title: 'YABER Arrancador de Coches  1200A Arranc'
 date: 2019/12/26 20:00:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51dO0OaeZoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dO0OaeZoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RZMS2ZH

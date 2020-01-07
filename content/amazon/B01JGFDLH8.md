@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01JGFDLH8 - Ofertón en Amazon para Bourjois La Palette  Sombra de Ojos  Ton'
+title: 'Bourjois La Palette  Sombra de Ojos  Ton'
 date: 2020-01-05 23:15:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-JZFZxzGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-JZFZxzGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

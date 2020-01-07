@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01CERBVE0 - Ofertón en Amazon para American Tourister Air Force 1 - Maleta '
+title: 'American Tourister Air Force 1 - Maleta '
 date: 2020-01-05 12:58:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418JoN39uYL._SL200_.jpg'
 comments: true
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418JoN39uYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CERBVE0
@@ -13,10 +13,10 @@ comparePrice: 160 EUR
 inStock: true
 ---
 
-Tienes [American Tourister Air Force 1 - Maleta  Turquesa  Aero Turquoise   M  66cm-69L ](https://www.amazon.com/dp/B01CERBVE0/?tag=redken08-20) a precio de oferta de 83.4 EUR (original: 160 EUR) en el siguiente enlace!
+Está [American Tourister Air Force 1 - Maleta  Turquesa  Aero Turquoise   M  66cm-69L ](https://www.amazon.com/dp/B01CERBVE0/?tag=redken08-20) por 83.4 EUR (original: 160 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418JoN39uYL._SL200_.jpg)](https://www.amazon.com/dp/B01CERBVE0/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01CERBVE0/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01CERBVE0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BHY7M8P: Rebaja en Jabra Elite Active 65t True Wireless Blu en Amazon'
+title: 'Jabra Elite Active 65t True Wireless Blu'
 date: 2019/12/16 14:40:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PR6t5SmOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PR6t5SmOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BHY7M8P

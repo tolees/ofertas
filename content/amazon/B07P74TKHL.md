@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07P74TKHL - Ofertón en Amazon para Probióticos y Prebióticos Intestinales  '
+title: 'Probióticos y Prebióticos Intestinales  '
 date: 2019/12/17 09:22:14 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YMMlFCIcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YMMlFCIcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

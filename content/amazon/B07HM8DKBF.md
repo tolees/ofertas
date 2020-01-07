@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HM8DKBF: Rebaja en Torre Sonido PRIMUX TW02 Bass en Amazon'
+title: 'Torre Sonido PRIMUX TW02 Bass'
 date: 2019/12/11 21:05:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31y9sQBZAOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y9sQBZAOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HM8DKBF

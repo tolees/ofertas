@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GKLK6WR - Ofertón en Amazon para Olymbros Cámara de Caza 16MP 1080P IP66 '
+title: 'Olymbros Cámara de Caza 16MP 1080P IP66 '
 date: 2020-01-05 13:35:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51J9FHHGHFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J9FHHGHFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

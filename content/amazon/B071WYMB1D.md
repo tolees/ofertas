@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071WYMB1D: Rebaja en find. Botines Años 60 Efecto Ante con Cr en Amazon'
+title: 'find. Botines Años 60 Efecto Ante con Cr'
 date: 2019/12/20 19:24:47 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31YKjgThVtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YKjgThVtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WYMB1D

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDMTWGJ: Ahorra en Pepe Jeans Regent Vaqueros Pitillo Hombr'
+title: 'Pepe Jeans Regent Vaqueros Pitillo Hombr'
 date: 2019/12/28 18:05:34 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411072hQ9nL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411072hQ9nL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDMTWGJ

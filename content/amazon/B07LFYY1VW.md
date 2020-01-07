@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LFYY1VW - Ofertón en Amazon para Geox U Terence C  Botas Clasicas para Ho'
+title: 'Geox U Terence C  Botas Clasicas para Ho'
 date: 2019/12/27 07:54:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41sx3aTjzeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sx3aTjzeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

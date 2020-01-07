@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SFJ7KRL: Ahorra en Nike Court Royale  Zapatillas de Tenis p'
+title: 'Nike Court Royale  Zapatillas de Tenis p'
 date: 2019/12/24 20:37:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315nrtBvECL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315nrtBvECL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SFJ7KRL

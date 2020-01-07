@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GB1LLHF - Ofertón en Amazon para Sjpzwcrl Pepper Grinder  Molinillo de Pi'
+title: 'Sjpzwcrl Pepper Grinder  Molinillo de Pi'
 date: 2019/12/18 20:49:23 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dehv898kL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dehv898kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

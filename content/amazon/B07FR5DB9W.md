@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FR5DB9W - Ofertón en Amazon para Clarks Calla Rose Zapatos de Tacón Mujer'
+title: 'Clarks Calla Rose Zapatos de Tacón Mujer'
 date: 2019/12/13 10:26:50 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31YJEtZaU1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YJEtZaU1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

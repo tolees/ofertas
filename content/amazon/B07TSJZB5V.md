@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TSJZB5V: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego St en Amazon'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego St'
 date: 2020-01-05 22:48:46
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KOy7xr-uL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KOy7xr-uL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TSJZB5V

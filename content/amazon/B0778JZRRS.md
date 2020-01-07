@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0778JZRRS: Rebaja en Pro Breeze Calefactor Eléctrico Cerámico en Amazon'
+title: 'Pro Breeze Calefactor Eléctrico Cerámico'
 date: 2020-01-01 10:29:35
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51DxG-ZWvRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DxG-ZWvRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0778JZRRS

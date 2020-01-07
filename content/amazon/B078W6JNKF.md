@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078W6JNKF: Rebaja en Corsair Dark Core RGB SE - Ratón óptico  en Amazon'
+title: 'Corsair Dark Core RGB SE - Ratón óptico '
 date: 2019/12/19 07:05:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41oY97%2Beu3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oY97%2Beu3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078W6JNKF

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073RJQXB1: Rebaja en Samsung C49HG90DMU - Monitor Curvo Gamin en Amazon'
+title: 'Samsung C49HG90DMU - Monitor Curvo Gamin'
 date: 2019/12/16 17:33:00 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41O3KuikMjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O3KuikMjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073RJQXB1

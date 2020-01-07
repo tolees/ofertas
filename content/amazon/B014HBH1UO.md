@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B014HBH1UO: Rebaja en Seiko Reloj Analógico para Hombre de Ene en Amazon'
+title: 'Seiko Reloj Analógico para Hombre de Ene'
 date: 2019/12/20 10:11:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41paKBuyXBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41paKBuyXBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B014HBH1UO

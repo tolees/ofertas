@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077PGY1SB: Ahorra en NOX Pala ML10 Pro Cup Survivor'
+title: 'NOX Pala ML10 Pro Cup Survivor'
 date: 2019/12/28 21:07:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Oc%2BmqT54L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Oc%2BmqT54L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077PGY1SB

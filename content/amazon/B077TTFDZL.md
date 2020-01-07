@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077TTFDZL: Ahorra en Reebok Work N Cushion 3.0  Zapatillas de'
+title: 'Reebok Work N Cushion 3.0  Zapatillas de'
 date: 2019/12/13 12:55:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HAtEJ8raL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HAtEJ8raL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077TTFDZL

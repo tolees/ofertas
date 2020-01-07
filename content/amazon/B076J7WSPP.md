@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B076J7WSPP - Ofertón en Amazon para VOYOR 4-In-1 Limpiador de Poros BR410 Li'
+title: 'VOYOR 4-In-1 Limpiador de Poros BR410 Li'
 date: 2020-01-04 16:24:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51e5-KHaQvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e5-KHaQvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

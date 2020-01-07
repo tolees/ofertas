@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000AREHO8: Rebaja en Skechers Energy  Zapatillas para Mujer   en Amazon'
+title: 'Skechers Energy  Zapatillas para Mujer  '
 date: 2019/12/18 14:07:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cUEBw-OpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cUEBw-OpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000AREHO8

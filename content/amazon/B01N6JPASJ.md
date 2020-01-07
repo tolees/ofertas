@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01N6JPASJ - Ofertón en Amazon para eXtremeRate 2 Pares de Gatillo Extensor '
+title: 'eXtremeRate 2 Pares de Gatillo Extensor '
 date: 2020-01-06 12:45:42
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51eNtRPmVWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eNtRPmVWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

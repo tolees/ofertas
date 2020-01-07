@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07SFYJW9J - Ofertón en Amazon para Nike Air Huarache Run Ultra GS  Zapatill'
+title: 'Nike Air Huarache Run Ultra GS  Zapatill'
 date: 2019/12/27 16:14:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41y3W9yKgDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y3W9yKgDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

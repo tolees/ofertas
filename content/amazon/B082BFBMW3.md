@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B082BFBMW3: Ahorra en IWEMEK Mädchen Eiskönigin ELSA Kleid Sch'
+title: 'IWEMEK Mädchen Eiskönigin ELSA Kleid Sch'
 date: 2020-01-05 22:26:23
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NQkWPtmwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NQkWPtmwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082BFBMW3

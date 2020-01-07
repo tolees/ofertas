@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GXP8YBX: Ahorra en UTTU Topper Viscoelástico  Topper Colcho'
+title: 'UTTU Topper Viscoelástico  Topper Colcho'
 date: 2019/12/17 15:03:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51aiHyJe-gL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aiHyJe-gL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GXP8YBX

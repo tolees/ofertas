@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071VTSR2X: Rebaja en Avenzo AV631CH - Auricular imantado  Col en Amazon'
+title: 'Avenzo AV631CH - Auricular imantado  Col'
 date: 2019/12/25 13:15:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-zTGVve%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-zTGVve%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071VTSR2X

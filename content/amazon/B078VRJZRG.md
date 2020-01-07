@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B078VRJZRG - Ofertón en Amazon para Volcom Miter II Cargo Bermudas  Hombre  '
+title: 'Volcom Miter II Cargo Bermudas  Hombre  '
 date: 2020-01-07 12:57:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B56y3X4rL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B56y3X4rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

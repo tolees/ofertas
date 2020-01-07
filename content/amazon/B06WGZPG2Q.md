@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06WGZPG2Q: Rebaja en Philips S5630/45 - Afeitadora electrica  en Amazon'
+title: 'Philips S5630/45 - Afeitadora electrica '
 date: 2019/12/26 12:32:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jabZ5CqSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jabZ5CqSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06WGZPG2Q

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FN6QWPM: Rebaja en Superdry Herren O L Vintage Embroidery L en Amazon'
+title: 'Superdry Herren O L Vintage Embroidery L'
 date: 2020-01-01 22:48:41
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311-NHZPhpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311-NHZPhpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FN6QWPM

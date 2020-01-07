@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VSF4J5H - Ofertón en Amazon para NAIXUES Smartwatch  Reloj Inteligente IP'
+title: 'NAIXUES Smartwatch  Reloj Inteligente IP'
 date: 2020-01-07 11:32:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51UZTwAoiEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UZTwAoiEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

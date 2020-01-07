@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CLRK7Y8 - Ofertón en Amazon para OMRON VIVA - Báscula inteligente y monit'
+title: 'OMRON VIVA - Báscula inteligente y monit'
 date: 2020-01-07 12:36:09
-image: 'None._SL200_'
+thumbnailImage: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring

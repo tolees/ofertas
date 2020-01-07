@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01FFNDWXI: Rebaja en Under Armour HG Armour 2.0 Legging Leggi en Amazon'
+title: 'Under Armour HG Armour 2.0 Legging Leggi'
 date: 2019/12/20 11:18:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01FFNDWXI

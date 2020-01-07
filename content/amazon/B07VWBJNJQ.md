@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VWBJNJQ - Ofertón en Amazon para Recambios Cepillo Compatible  Aiemok 16 '
+title: 'Recambios Cepillo Compatible  Aiemok 16 '
 date: 2020-01-05 06:36:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YGvOhlQUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YGvOhlQUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079JZW7KK: Ahorra en Napapijri Aerons Stand Jacke Chaqueta  A'
+title: 'Napapijri Aerons Stand Jacke Chaqueta  A'
 date: 2019/12/27 17:45:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tU2IIzeKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tU2IIzeKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079JZW7KK

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KH1R1XZ - Ofertón en Amazon para Under Armour Favorite Big Logo Legging L'
+title: 'Under Armour Favorite Big Logo Legging L'
 date: 2019/12/17 13:49:38 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

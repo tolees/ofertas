@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RWBTTZV: Ahorra en Hasbro Disney Frozen Arendelle Elsa E684'
+title: 'Hasbro Disney Frozen Arendelle Elsa E684'
 date: 2020-01-05 22:29:24
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NvT7DlgGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NvT7DlgGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RWBTTZV

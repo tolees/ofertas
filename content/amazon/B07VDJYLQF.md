@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VDJYLQF - Ofertón en Amazon para Memoria USB 3.0 de 64GB Pendrive con Lla'
+title: 'Memoria USB 3.0 de 64GB Pendrive con Lla'
 date: 2019/12/10 23:27:29 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ge47qQyOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ge47qQyOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

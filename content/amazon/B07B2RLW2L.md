@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07B2RLW2L - Ofertón en Amazon para VR Gafas de Realidad Virtual  Gafas vr C'
+title: 'VR Gafas de Realidad Virtual  Gafas vr C'
 date: 2020-01-06 14:25:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cpNHt1gWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cpNHt1gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

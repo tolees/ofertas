@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00GEEB1HM - Ofertón en Amazon para Columbia Tech Shade Gorra  Unisex  Negro'
+title: 'Columbia Tech Shade Gorra  Unisex  Negro'
 date: 2020-01-01 02:23:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41o4UetWWbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o4UetWWbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

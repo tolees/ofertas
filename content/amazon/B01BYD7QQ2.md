@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01BYD7QQ2 - Ofertón en Amazon para Oral-B Genius 9000N Cepillo de Dientes E'
+title: 'Oral-B Genius 9000N Cepillo de Dientes E'
 date: 2020-01-01 06:09:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51s7xr0c6sL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s7xr0c6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

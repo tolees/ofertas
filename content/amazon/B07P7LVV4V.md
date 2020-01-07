@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07P7LVV4V - Ofertón en Amazon para Fade to Silence - PlayStation 4'
+title: 'Fade to Silence - PlayStation 4'
 date: 2020-01-02 22:26:15
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51auS8H3D8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51auS8H3D8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MA5BH3L: Rebaja en eXtremeRate® Black Vertical Stand for PS en Amazon'
+title: 'eXtremeRate® Black Vertical Stand for PS'
 date: 2019/12/11 15:37:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/513jwY4bhiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513jwY4bhiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MA5BH3L

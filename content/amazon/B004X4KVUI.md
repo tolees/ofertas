@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004X4KVUI: Rebaja en Braun BN0021BKBKG - Reloj analógico de c en Amazon'
+title: 'Braun BN0021BKBKG - Reloj analógico de c'
 date: 2019/12/19 14:44:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414ZvIDVvvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414ZvIDVvvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004X4KVUI

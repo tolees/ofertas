@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078HJKHVR: Rebaja en IRIS & LILLY Braguita Estilo Culotte Muj en Amazon'
+title: 'IRIS & LILLY Braguita Estilo Culotte Muj'
 date: 2019/12/21 17:19:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078HJKHVR

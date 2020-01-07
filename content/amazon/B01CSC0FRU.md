@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01CSC0FRU - Ofertón en Amazon para LEABAGS Illinois Monedero de auténtico C'
+title: 'LEABAGS Illinois Monedero de auténtico C'
 date: 2019/12/19 13:53:30 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418JmQcS8LL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418JmQcS8LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

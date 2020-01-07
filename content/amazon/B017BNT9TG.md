@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B017BNT9TG: Rebaja en Runtastic Moment Fun - Monitor de activi en Amazon'
+title: 'Runtastic Moment Fun - Monitor de activi'
 date: 2019/12/29 17:41:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415IKHr99ML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415IKHr99ML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B017BNT9TG

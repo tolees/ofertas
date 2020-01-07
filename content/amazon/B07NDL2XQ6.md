@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDL2XQ6: Rebaja en G-STAR RAW 3301 Slim Vaqueros  Pitch Bla en Amazon'
+title: 'G-STAR RAW 3301 Slim Vaqueros  Pitch Bla'
 date: 2019-12-31 15:31:44
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315uQxkLe4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315uQxkLe4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDL2XQ6

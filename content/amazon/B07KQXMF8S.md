@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KQXMF8S: Rebaja en Helly Hansen Classic Duffel Bag Bolsa De en Amazon'
+title: 'Helly Hansen Classic Duffel Bag Bolsa De'
 date: 2019/12/24 10:18:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xg6x4c6HL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xg6x4c6HL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQXMF8S

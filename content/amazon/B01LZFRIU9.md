@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01LZFRIU9: Ahorra en Funko Vi Figura de Vinilo  colección de '
+title: 'Funko Vi Figura de Vinilo  colección de '
 date: 2020-01-06 14:29:12
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41G010Nb6vL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G010Nb6vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LZFRIU9

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FNN12PM: Rebaja en Lego 60237 City Kurve und Kreuzung  bunt en Amazon'
+title: 'Lego 60237 City Kurve und Kreuzung  bunt'
 date: 2020-01-05 09:33:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Xx79D%2BxSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xx79D%2BxSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNN12PM

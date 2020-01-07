@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LGTDKRP - Ofertón en Amazon para Bombilla Inteligente WiFi LED 7W  iHaper'
+title: 'Bombilla Inteligente WiFi LED 7W  iHaper'
 date: 2019/12/13 16:09:31 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31kqTfVsZiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kqTfVsZiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

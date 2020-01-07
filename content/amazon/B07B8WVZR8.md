@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07B8WVZR8 - Ofertón en Amazon para Clarks Damen Mascarpone Bay Schlupfstief'
+title: 'Clarks Damen Mascarpone Bay Schlupfstief'
 date: 2019/12/22 09:47:33 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31vF8o3YMuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vF8o3YMuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

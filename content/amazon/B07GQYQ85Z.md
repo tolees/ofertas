@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GQYQ85Z: Ahorra en EVGA GeForce RTX 2080 Ti XC Ultra Gaming'
+title: 'EVGA GeForce RTX 2080 Ti XC Ultra Gaming'
 date: 2019/12/20 12:11:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/512YkprjjHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512YkprjjHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GQYQ85Z

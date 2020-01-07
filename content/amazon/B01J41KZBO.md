@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01J41KZBO - Ofertón en Amazon para LEGO 75524 Star Wars Chirrut Imwe'
+title: 'LEGO 75524 Star Wars Chirrut Imwe'
 date: 2020-01-05 22:13:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

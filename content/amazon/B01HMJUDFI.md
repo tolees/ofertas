@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01HMJUDFI: Rebaja en PUMA Men s Roma Basic Low-Top Sneakers   en Amazon'
+title: 'PUMA Men s Roma Basic Low-Top Sneakers  '
 date: 2020-01-03 11:26:33
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01HMJUDFI

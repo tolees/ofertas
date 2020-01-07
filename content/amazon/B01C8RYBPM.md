@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01C8RYBPM - Ofertón en Amazon para Police Reloj Multiesfera para Hombre de '
+title: 'Police Reloj Multiesfera para Hombre de '
 date: 2019/12/20 09:38:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51jZmFo%2BusL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jZmFo%2BusL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

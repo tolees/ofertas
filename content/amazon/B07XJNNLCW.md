@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XJNNLCW: Ahorra en Pack Figura cable guys Clap Trap para so'
+title: 'Pack Figura cable guys Clap Trap para so'
 date: 2019/12/28 10:21:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41JFAzQUnjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JFAzQUnjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XJNNLCW

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GPSYNHK: Rebaja en Disney Frozen Pijama para niñas El Reino en Amazon'
+title: 'Disney Frozen Pijama para niñas El Reino'
 date: 2019/12/25 08:58:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/516raS1YWOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516raS1YWOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GPSYNHK

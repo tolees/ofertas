@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01IHZP8LU - Ofertón en Amazon para The North Face Tekware TNF Jersey 100 Gl'
+title: 'The North Face Tekware TNF Jersey 100 Gl'
 date: 2019/12/15 10:36:56 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6nHTnSHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6nHTnSHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01EWSSYBM: Rebaja en Llavero Colgante Joya Diamantes de Imita en Amazon'
+title: 'Llavero Colgante Joya Diamantes de Imita'
 date: 2020-01-06 15:32:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bt0hKyRwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bt0hKyRwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01EWSSYBM

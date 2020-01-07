@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072JVKWC5: Ahorra en Pecute Comedero para Perro Gato y Mascot'
+title: 'Pecute Comedero para Perro Gato y Mascot'
 date: 2019/12/18 08:58:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41oox58FnxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oox58FnxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072JVKWC5

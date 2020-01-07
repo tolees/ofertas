@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B071KD1JRX - Ofertón en Amazon para Quiksilver Mission V-Shoes For Men  Bota'
+title: 'Quiksilver Mission V-Shoes For Men  Bota'
 date: 2019/12/21 18:16:36 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QZRtRyVeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QZRtRyVeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

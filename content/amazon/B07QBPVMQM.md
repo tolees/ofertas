@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QBPVMQM: Rebaja en Proyector  WiMiUS 6000 Lúmenes Proyector en Amazon'
+title: 'Proyector  WiMiUS 6000 Lúmenes Proyector'
 date: 2019/12/26 10:55:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ks2e29P4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ks2e29P4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QBPVMQM

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DFF22FX - Ofertón en Amazon para LAST LEVEL- Funko Disney: Wreck-It-Ralph'
+title: 'LAST LEVEL- Funko Disney: Wreck-It-Ralph'
 date: 2020-01-05 23:14:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

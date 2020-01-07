@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06VSJ8VC1: Ahorra en boboli 204129 Chaqueta Deportiva  Gris V'
+title: 'boboli 204129 Chaqueta Deportiva  Gris V'
 date: 2019/12/18 09:10:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51LW5r7RA1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LW5r7RA1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06VSJ8VC1

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00OHFDZW4: Ahorra en Disney Frozen Anker Elsa & Anna Carry Al'
+title: 'Disney Frozen Anker Elsa & Anna Carry Al'
 date: 2019/12/20 07:08:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51pSi7VNC1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pSi7VNC1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00OHFDZW4

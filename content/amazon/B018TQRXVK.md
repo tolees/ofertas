@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B018TQRXVK: Rebaja en PUMA Leadcat  Chanclas Unisex Adulto  Pe en Amazon'
+title: 'PUMA Leadcat  Chanclas Unisex Adulto  Pe'
 date: 2019/12/26 03:30:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51FKYT2HXjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FKYT2HXjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B018TQRXVK

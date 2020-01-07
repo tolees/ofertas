@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L9QXSGD: Ahorra en Napapijri Rainforest M Sum 1 Amber Orang'
+title: 'Napapijri Rainforest M Sum 1 Amber Orang'
 date: 2019/12/24 14:56:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414ZUwMpN2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414ZUwMpN2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9QXSGD

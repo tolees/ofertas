@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WRJFKMZ: Ahorra en YOSICIL Disfraz Princesa Zapatos Frozen '
+title: 'YOSICIL Disfraz Princesa Zapatos Frozen '
 date: 2020-01-07 14:55:01
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51LTPxHsDzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LTPxHsDzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WRJFKMZ

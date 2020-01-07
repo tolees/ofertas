@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B075FPNWM2: Rebaja en Teeno Li - Taladro destornillador sin ca en Amazon'
+title: 'Teeno Li - Taladro destornillador sin ca'
 date: 2019/12/25 15:10:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075FPNWM2

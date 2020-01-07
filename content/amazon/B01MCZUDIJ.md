@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MCZUDIJ: Ahorra en Pepe Jeans New Brooke Vaqueros  Azul  10'
+title: 'Pepe Jeans New Brooke Vaqueros  Azul  10'
 date: 2020-01-02 21:02:16
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415MaCHSa7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415MaCHSa7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MCZUDIJ

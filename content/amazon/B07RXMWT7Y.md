@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RXMWT7Y - Ofertón en Amazon para Hapilife 360 Grifo de Cocina Grifo Mezcl'
+title: 'Hapilife 360 Grifo de Cocina Grifo Mezcl'
 date: 2019/12/17 08:13:12 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XixJ1BP0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XixJ1BP0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

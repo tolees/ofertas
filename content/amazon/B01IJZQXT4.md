@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01IJZQXT4 - Ofertón en Amazon para Philips SB300B/00 - Altavoz Bluetooth po'
+title: 'Philips SB300B/00 - Altavoz Bluetooth po'
 date: 2020-01-04 15:16:42
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

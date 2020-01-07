@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00MGRAC30: Ahorra en HP Essential Top Load 15.6" - Funda band'
+title: 'HP Essential Top Load 15.6" - Funda band'
 date: 2019/12/29 15:05:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xA7aDei4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xA7aDei4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MGRAC30

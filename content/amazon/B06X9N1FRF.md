@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06X9N1FRF: Ahorra en Sylvanian Families - Sky Ride Adventure '
+title: 'Sylvanian Families - Sky Ride Adventure '
 date: 2020-01-06 14:16:38
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51nNcKv4dHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nNcKv4dHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06X9N1FRF

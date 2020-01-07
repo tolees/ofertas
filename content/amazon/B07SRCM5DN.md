@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SRCM5DN: Rebaja en adidas Coast Star  Zapatillas de Gimnasi en Amazon'
+title: 'adidas Coast Star  Zapatillas de Gimnasi'
 date: 2019/12/13 11:17:11 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311nnmJ43lL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311nnmJ43lL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SRCM5DN

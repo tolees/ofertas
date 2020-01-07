@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FH5MNR4: Rebaja en BILLABONG Matt Jacket Chaqueta  Hombre   en Amazon'
+title: 'BILLABONG Matt Jacket Chaqueta  Hombre  '
 date: 2019/12/18 12:46:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414DMbJ1fuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414DMbJ1fuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FH5MNR4

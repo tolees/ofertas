@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XF8SZF3: Ahorra en TONGJI Acryl Vitrine Mit Beleuchtungsset'
+title: 'TONGJI Acryl Vitrine Mit Beleuchtungsset'
 date: 2019/12/11 14:11:43 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51OMak8T8KL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OMak8T8KL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XF8SZF3

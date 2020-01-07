@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B075B2YXNZ: Ahorra en Hugo Boss Orange Reloj Análogo clásico p'
+title: 'Hugo Boss Orange Reloj Análogo clásico p'
 date: 2019/12/20 01:33:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41O0RxfrlvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O0RxfrlvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075B2YXNZ

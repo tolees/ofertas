@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B075GG7LZX: Ahorra en HP Laser Jet Pro M254dw - Impresora Colo'
+title: 'HP Laser Jet Pro M254dw - Impresora Colo'
 date: 2019/12/29 21:33:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe7o6-XL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe7o6-XL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075GG7LZX

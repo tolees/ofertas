@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MYQYOSL: Ahorra en Rotulador puntafina STABILO point 88 - E'
+title: 'Rotulador puntafina STABILO point 88 - E'
 date: 2019/12/30 03:58:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dq6qt0sTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dq6qt0sTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MYQYOSL

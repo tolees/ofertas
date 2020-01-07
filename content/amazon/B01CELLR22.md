@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01CELLR22 - Ofertón en Amazon para Hasbro Gaming Clasico Cluedo  Versión Es'
+title: 'Hasbro Gaming Clasico Cluedo  Versión Es'
 date: 2020-01-06 17:07:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51HvfDdgRaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HvfDdgRaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

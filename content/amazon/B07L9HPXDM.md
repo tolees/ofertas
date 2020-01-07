@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L9HPXDM: Ahorra en Under Armour Rival Fleece Sportstyle Pan'
+title: 'Under Armour Rival Fleece Sportstyle Pan'
 date: 2019/12/18 09:27:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31IYqXZD5pL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IYqXZD5pL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9HPXDM

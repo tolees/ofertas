@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDNVQWN: Ahorra en G-STAR RAW Graphic 14 Core Hooded Sudade'
+title: 'G-STAR RAW Graphic 14 Core Hooded Sudade'
 date: 2020-01-04 18:54:01
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDNVQWN

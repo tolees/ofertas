@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0711HGWJH - Ofertón en Amazon para VAUDE Men s Me Spectra Softshell II Jack'
+title: 'VAUDE Men s Me Spectra Softshell II Jack'
 date: 2019/12/11 19:36:38 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xQuB8MENL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xQuB8MENL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

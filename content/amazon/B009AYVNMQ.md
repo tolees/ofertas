@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B009AYVNMQ: Ahorra en Toshiba MQ01ABD0100 - Disco duro interno'
+title: 'Toshiba MQ01ABD0100 - Disco duro interno'
 date: 2019/12/12 15:40:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MExZzbSRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MExZzbSRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B009AYVNMQ

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07TVNZFBN - Ofertón en Amazon para BRIKSMAX Led Beleuchtungsset für Lego St'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego St'
 date: 2020-01-06 22:16:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KG22YRR - Ofertón en Amazon para PUMA RS 9.8 Space  Zapatillas Unisex Adu'
+title: 'PUMA RS 9.8 Space  Zapatillas Unisex Adu'
 date: 2019/12/23 22:58:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ppD60IP0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ppD60IP0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DC3ZQW1 - Ofertón en Amazon para XP-PEN Deco 02 Tableta de Dibujo Gráfico'
+title: 'XP-PEN Deco 02 Tableta de Dibujo Gráfico'
 date: 2019/12/26 14:18:08 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31IzDXipkeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IzDXipkeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01KXVMYOK - Ofertón en Amazon para Dim Generous Invisible Sujetador  Beige '
+title: 'Dim Generous Invisible Sujetador  Beige '
 date: 2019/12/23 07:58:44 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VvjCDKpiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VvjCDKpiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

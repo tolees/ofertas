@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NX6P7CS - Ofertón en Amazon para Superdry Tyler Vaqueros Slim  Negro  Por'
+title: 'Superdry Tyler Vaqueros Slim  Negro  Por'
 date: 2019/12/22 14:55:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31BnX7xLDsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BnX7xLDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01N7VDPYN - Ofertón en Amazon para Geox UOMO Symbol B  Zapatos de Cordones '
+title: 'Geox UOMO Symbol B  Zapatos de Cordones '
 date: 2019/12/12 19:24:37 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31XnNddeROL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XnNddeROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

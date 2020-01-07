@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B003DZDYMU - Ofertón en Amazon para Casio Smart Watch Armbanduhr AE-1000W-1B'
+title: 'Casio Smart Watch Armbanduhr AE-1000W-1B'
 date: 2019/12/24 06:52:43 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51CkCv4LBwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CkCv4LBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

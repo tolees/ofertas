@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NBZ1RCF - Ofertón en Amazon para BOSS Brief 3p Co/El Bóxer  Multicolor  O'
+title: 'BOSS Brief 3p Co/El Bóxer  Multicolor  O'
 date: 2019/12/13 20:45:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y3NIU6iIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y3NIU6iIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

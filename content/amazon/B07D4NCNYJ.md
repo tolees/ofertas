@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07D4NCNYJ: Ahorra en Krups Dispensador de cerveza The Sub Com'
+title: 'Krups Dispensador de cerveza The Sub Com'
 date: 2019/12/24 20:03:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31HV2dtBj1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HV2dtBj1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D4NCNYJ

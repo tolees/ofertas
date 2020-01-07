@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KR9DBL4: Ahorra en New Balance 247v2  Zapatillas para Hombr'
+title: 'New Balance 247v2  Zapatillas para Hombr'
 date: 2019/12/23 23:04:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2CQv5%2BUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W2CQv5%2BUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KR9DBL4

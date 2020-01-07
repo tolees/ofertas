@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07C2KZR1T - Ofertón en Amazon para Swiss Alpine Military by Grovana Hombre '
+title: 'Swiss Alpine Military by Grovana Hombre '
 date: 2020-01-01 23:56:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51jsU4a4HUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jsU4a4HUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

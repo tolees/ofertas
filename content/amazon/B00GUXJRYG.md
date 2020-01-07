@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00GUXJRYG: Rebaja en Columbia Peakfreak Nomad  Botas de Sende en Amazon'
+title: 'Columbia Peakfreak Nomad  Botas de Sende'
 date: 2019/12/15 07:06:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00GUXJRYG

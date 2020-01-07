@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B001NYP7JG: Ahorra en BaByliss 2735E - Cepillo rotativo de air'
+title: 'BaByliss 2735E - Cepillo rotativo de air'
 date: 2019/12/19 14:23:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B001NYP7JG

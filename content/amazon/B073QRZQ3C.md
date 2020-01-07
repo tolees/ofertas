@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073QRZQ3C: Ahorra en Activewear Top con Detalle en la Manga p'
+title: 'Activewear Top con Detalle en la Manga p'
 date: 2019/12/23 08:20:52 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414H5lGsl1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414H5lGsl1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073QRZQ3C

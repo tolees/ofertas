@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07V6BVXMG - Ofertón en Amazon para La Croquetera Pack Kit INICIACIÓN  Plást'
+title: 'La Croquetera Pack Kit INICIACIÓN  Plást'
 date: 2019/12/22 18:57:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51svCDt5xZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51svCDt5xZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

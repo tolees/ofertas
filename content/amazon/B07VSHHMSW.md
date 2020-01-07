@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VSHHMSW: Ahorra en Amilril Collar  Colgante Luna y Gato  Pl'
+title: 'Amilril Collar  Colgante Luna y Gato  Pl'
 date: 2020-01-06 10:03:57
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VSHHMSW

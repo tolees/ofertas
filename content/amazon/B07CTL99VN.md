@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CTL99VN: Ahorra en Under Armour UA W Charged Rogue  Zapatil'
+title: 'Under Armour UA W Charged Rogue  Zapatil'
 date: 2019/12/29 20:13:34 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419YEPl%2BSbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419YEPl%2BSbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CTL99VN

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07SVY3Z2T - Ofertón en Amazon para Aigostar 30KDF - Espumador de leche elec'
+title: 'Aigostar 30KDF - Espumador de leche elec'
 date: 2019/12/30 11:28:09 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/319TdzZ3mIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319TdzZ3mIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RX9HML9: Rebaja en Grebarley Fitness Gloves Levantamiento d en Amazon'
+title: 'Grebarley Fitness Gloves Levantamiento d'
 date: 2019/12/31 10:10:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51WS7AS5abL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WS7AS5abL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RX9HML9

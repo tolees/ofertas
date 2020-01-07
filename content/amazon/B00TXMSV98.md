@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00TXMSV98: Ahorra en Mad Max - Oltre la Sfera del Tuono [Ital'
+title: 'Mad Max - Oltre la Sfera del Tuono [Ital'
 date: 2019/12/15 20:21:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61hKXGeWyZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61hKXGeWyZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TXMSV98

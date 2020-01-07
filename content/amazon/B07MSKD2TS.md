@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MSKD2TS - Ofertón en Amazon para Clarks Ronnie Walk  Zapatos de Cordones '
+title: 'Clarks Ronnie Walk  Zapatos de Cordones '
 date: 2019/12/23 07:41:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31WgOujQPLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WgOujQPLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

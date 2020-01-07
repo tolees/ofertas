@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DX4T6JC - Ofertón en Amazon para find. Shearling Funnel Neck Chaqueta  Be'
+title: 'find. Shearling Funnel Neck Chaqueta  Be'
 date: 2020-01-06 18:04:50
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KdFjZ5D-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KdFjZ5D-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

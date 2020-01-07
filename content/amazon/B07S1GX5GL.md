@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07S1GX5GL: Rebaja en Agenda 2020 con Vista Semanal - Planific en Amazon'
+title: 'Agenda 2020 con Vista Semanal - Planific'
 date: 2019/12/22 14:45:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S1GX5GL

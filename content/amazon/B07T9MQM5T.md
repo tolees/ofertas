@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07T9MQM5T: Rebaja en Lotus Reloj Cronógrafo para Hombre de Cu en Amazon'
+title: 'Lotus Reloj Cronógrafo para Hombre de Cu'
 date: 2019/12/20 01:18:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QFc-MeKIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QFc-MeKIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07T9MQM5T

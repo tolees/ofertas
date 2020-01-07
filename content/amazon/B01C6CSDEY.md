@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01C6CSDEY - Ofertón en Amazon para American Tourister - Road quest bolsa de'
+title: 'American Tourister - Road quest bolsa de'
 date: 2020-01-02 19:45:41
-image: 'None._SL200_'
+thumbnailImage: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring

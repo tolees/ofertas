@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078NYPGK3: Rebaja en JAIMIE JACOBS Cartera Hombre Nano Boy Ca en Amazon'
+title: 'JAIMIE JACOBS Cartera Hombre Nano Boy Ca'
 date: 2019/12/28 05:46:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BAayvyC5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BAayvyC5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078NYPGK3

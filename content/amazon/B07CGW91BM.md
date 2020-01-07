@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CGW91BM: Rebaja en deAO Mi Pequeño Doctor Playset Centro Mé en Amazon'
+title: 'deAO Mi Pequeño Doctor Playset Centro Mé'
 date: 2019/12/30 11:49:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51u%2BB4xVTEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u%2BB4xVTEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CGW91BM

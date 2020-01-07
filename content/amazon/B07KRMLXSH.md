@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KRMLXSH: Rebaja en New Balance 373 Zapatillas Hombre  Azul  en Amazon'
+title: 'New Balance 373 Zapatillas Hombre  Azul '
 date: 2020-01-04 18:33:29
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MY2dtL9YL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MY2dtL9YL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KRMLXSH

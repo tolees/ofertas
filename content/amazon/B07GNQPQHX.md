@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GNQPQHX: Ahorra en AmazonBasics Maleta  diseño geométrico  '
+title: 'AmazonBasics Maleta  diseño geométrico  '
 date: 2019/12/26 10:35:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4110clIgwcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4110clIgwcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GNQPQHX

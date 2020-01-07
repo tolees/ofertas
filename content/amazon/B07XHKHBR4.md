@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XHKHBR4: Ahorra en Toptellite Localizador GPS 4G para Vehíc'
+title: 'Toptellite Localizador GPS 4G para Vehíc'
 date: 2019/12/24 14:21:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XuMYRcvGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XuMYRcvGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XHKHBR4

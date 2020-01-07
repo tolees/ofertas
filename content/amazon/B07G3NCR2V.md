@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07G3NCR2V - Ofertón en Amazon para Samsung Galaxy Note 9  Single SIM  128 G'
+title: 'Samsung Galaxy Note 9  Single SIM  128 G'
 date: 2019/12/16 16:26:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41t-rkKbp7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t-rkKbp7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

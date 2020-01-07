@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B076CXKBVQ - Ofertón en Amazon para Tommy Hilfiger Men s Core Stretch Slim O'
+title: 'Tommy Hilfiger Men s Core Stretch Slim O'
 date: 2019/12/13 08:53:29 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z97UOqUDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z97UOqUDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

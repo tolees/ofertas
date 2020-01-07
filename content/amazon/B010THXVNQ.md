@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B010THXVNQ - Ofertón en Amazon para Sony Alpha ILCE7RM2B - Cámara EVIL Full '
+title: 'Sony Alpha ILCE7RM2B - Cámara EVIL Full '
 date: 2019/12/13 07:05:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

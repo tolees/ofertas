@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077V4TPBD: Rebaja en Kipling Multiple Riñonera de Marcha  25  en Amazon'
+title: 'Kipling Multiple Riñonera de Marcha  25 '
 date: 2019/12/17 10:32:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41a6k9Tzn3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a6k9Tzn3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077V4TPBD

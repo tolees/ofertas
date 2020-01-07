@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L4DPCQQ: Ahorra en BRA Premiere - Batería 4 piezas de alumi'
+title: 'BRA Premiere - Batería 4 piezas de alumi'
 date: 2019/12/14 07:40:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AF9XiNqbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AF9XiNqbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L4DPCQQ

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KWTZZBC - Ofertón en Amazon para RAVPOWER Bateria Externa para Movil  Pow'
+title: 'RAVPOWER Bateria Externa para Movil  Pow'
 date: 2019/12/12 07:30:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31xE00pgliL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xE00pgliL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

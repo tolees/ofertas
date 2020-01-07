@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GVSY3NZ: Ahorra en edc by Esprit 118cc1b003 Pantalones  Azu'
+title: 'edc by Esprit 118cc1b003 Pantalones  Azu'
 date: 2020-01-07 11:11:56
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314LB%2BQMbvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314LB%2BQMbvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GVSY3NZ

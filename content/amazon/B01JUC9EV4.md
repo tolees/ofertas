@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01JUC9EV4: Ahorra en Nespresso Krups Expert Milk XN6018 - Caf'
+title: 'Nespresso Krups Expert Milk XN6018 - Caf'
 date: 2019/12/12 10:41:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418V1Ae8iOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418V1Ae8iOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01JUC9EV4

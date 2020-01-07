@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07Q7GG8BD - Ofertón en Amazon para Umi. Essentials - Auriculares de botón i'
+title: 'Umi. Essentials - Auriculares de botón i'
 date: 2019/12/29 21:56:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41N7Z3K77vL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N7Z3K77vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

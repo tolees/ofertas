@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MYRHKFH: Rebaja en Andven Autoradio Bluetooth  4×60W Manos  en Amazon'
+title: 'Andven Autoradio Bluetooth  4×60W Manos '
 date: 2019/12/22 14:02:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51CqU4qxywL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CqU4qxywL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MYRHKFH

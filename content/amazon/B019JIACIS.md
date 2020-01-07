@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B019JIACIS: Rebaja en Funko - Pop! Vinilo Colección Harry Pott en Amazon'
+title: 'Funko - Pop! Vinilo Colección Harry Pott'
 date: 2019/12/25 18:01:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4168R%2BHVkUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4168R%2BHVkUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B019JIACIS

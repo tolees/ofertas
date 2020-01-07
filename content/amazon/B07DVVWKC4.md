@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DVVWKC4: Rebaja en ISDIN Bexident Blanqueante Pasta Dentífr en Amazon'
+title: 'ISDIN Bexident Blanqueante Pasta Dentífr'
 date: 2020-01-02 09:30:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nygLOTiML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nygLOTiML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DVVWKC4

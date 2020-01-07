@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDND9G5: Ahorra en G-STAR RAW Motac Slim Tapered Pantalones'
+title: 'G-STAR RAW Motac Slim Tapered Pantalones'
 date: 2019/12/28 16:07:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/3112o6RSsIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3112o6RSsIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDND9G5

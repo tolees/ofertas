@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FXN5FX8: Rebaja en Seiko Reloj analogico para Mujer de Cuar en Amazon'
+title: 'Seiko Reloj analogico para Mujer de Cuar'
 date: 2019/12/16 22:20:54 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QYir5pRIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QYir5pRIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FXN5FX8

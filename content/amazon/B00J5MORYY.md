@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00J5MORYY: Rebaja en WMF 1886569992 Juego de Cuchillos con Ba en Amazon'
+title: 'WMF 1886569992 Juego de Cuchillos con Ba'
 date: 2020-01-06 23:00:22
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PCCg6pbnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PCCg6pbnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00J5MORYY

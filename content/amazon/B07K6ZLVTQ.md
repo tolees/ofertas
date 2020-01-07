@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07K6ZLVTQ: Ahorra en Asics Gel-Cumulus 20 1011a008-401  Zapat'
+title: 'Asics Gel-Cumulus 20 1011a008-401  Zapat'
 date: 2019/12/18 08:13:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41U573yul3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U573yul3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K6ZLVTQ

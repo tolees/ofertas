@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FH9N3DM - Ofertón en Amazon para Levi s Damen 314 Shaping Straight Jeans '
+title: 'Levi s Damen 314 Shaping Straight Jeans '
 date: 2019/12/17 08:00:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yycm2mPDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yycm2mPDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

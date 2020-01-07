@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FQFLWV7: Ahorra en Taladro Atornillador 20V  LOMVUM Taladro'
+title: 'Taladro Atornillador 20V  LOMVUM Taladro'
 date: 2020-01-01 12:04:27
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ar7LiEpCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ar7LiEpCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FQFLWV7

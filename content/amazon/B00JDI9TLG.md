@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00JDI9TLG: Ahorra en Gimcat Gimcat Malt Soft Extra 200G 1 Uni'
+title: 'Gimcat Gimcat Malt Soft Extra 200G 1 Uni'
 date: 2020-01-05 18:03:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41L7IuUJA0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L7IuUJA0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JDI9TLG

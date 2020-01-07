@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073WZ2BDD: Ahorra en Rimmel London Magnifeyes Palette Blush E'
+title: 'Rimmel London Magnifeyes Palette Blush E'
 date: 2020-01-04 09:05:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41puOj2k-IL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41puOj2k-IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073WZ2BDD

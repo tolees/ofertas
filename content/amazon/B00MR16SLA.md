@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00MR16SLA: Rebaja en G-STAR Lynn Mid Skinny Wmn - frakto supe en Amazon'
+title: 'G-STAR Lynn Mid Skinny Wmn - frakto supe'
 date: 2019/12/21 17:46:52 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MR16SLA

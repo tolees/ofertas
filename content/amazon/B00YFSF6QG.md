@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00YFSF6QG: Rebaja en valcena - crema de noche - Multi Active  en Amazon'
+title: 'valcena - crema de noche - Multi Active '
 date: 2020-01-04 10:27:18
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41svoOxuJDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41svoOxuJDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00YFSF6QG

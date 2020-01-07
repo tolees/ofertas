@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0043YKXUG: Rebaja en Mattel Games V9364 - UNO Extreme Kartens en Amazon'
+title: 'Mattel Games V9364 - UNO Extreme Kartens'
 date: 2019/12/30 09:42:23 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41buRa3EFEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41buRa3EFEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0043YKXUG

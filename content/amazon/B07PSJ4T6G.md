@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PSJ4T6G: Rebaja en Hurley Prem Enjoy tee SS Geo Camisetas   en Amazon'
+title: 'Hurley Prem Enjoy tee SS Geo Camisetas  '
 date: 2020-01-05 02:55:49
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ifTMiaFhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ifTMiaFhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PSJ4T6G

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HPZQGXK - Ofertón en Amazon para Funko 34469 POP Vinyl: Fortnite: Moonwal'
+title: 'Funko 34469 POP Vinyl: Fortnite: Moonwal'
 date: 2019/12/16 15:11:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wiCAizFHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wiCAizFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

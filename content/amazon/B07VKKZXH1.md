@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VKKZXH1: Ahorra en memumi Soporte de Portátil Ajustable par'
+title: 'memumi Soporte de Portátil Ajustable par'
 date: 2019/12/21 23:05:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rh5X-2P0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rh5X-2P0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VKKZXH1

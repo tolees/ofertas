@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WR3QQTN: Ahorra en Auriculares Bluetooth  iporachx Auricula'
+title: 'Auriculares Bluetooth  iporachx Auricula'
 date: 2019/12/21 00:46:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51eLZDDLpXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eLZDDLpXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WR3QQTN

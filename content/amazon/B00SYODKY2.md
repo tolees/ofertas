@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00SYODKY2 - Ofertón en Amazon para Disney Frozen Anker Peel and Stick'
+title: 'Disney Frozen Anker Peel and Stick'
 date: 2019/12/29 16:28:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YlYGNERVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YlYGNERVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B073S1JVGR - Ofertón en Amazon para Finether-Chimenea Eléctrica de la Pared '
+title: 'Finether-Chimenea Eléctrica de la Pared '
 date: 2019-12-31 17:05:16
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311owFN58KL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311owFN58KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

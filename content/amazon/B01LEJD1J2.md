@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01LEJD1J2 - Ofertón en Amazon para Street Fighter 11659 "POP! Vinyl Dan Fig'
+title: 'Street Fighter 11659 "POP! Vinyl Dan Fig'
 date: 2019/12/20 07:08:14 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51g096LkvRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g096LkvRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

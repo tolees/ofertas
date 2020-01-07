@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PNQ6JWC: Ahorra en Maxesla WiFi Adaptador AC 600Mbps Mini U'
+title: 'Maxesla WiFi Adaptador AC 600Mbps Mini U'
 date: 2019/12/25 09:40:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bWagPgbVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bWagPgbVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PNQ6JWC

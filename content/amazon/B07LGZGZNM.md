@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LGZGZNM - Ofertón en Amazon para BRIKSMAX High-Speed Passenger Train Led '
+title: 'BRIKSMAX High-Speed Passenger Train Led '
 date: 2020-01-05 22:22:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

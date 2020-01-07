@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B071Z7NVWC - Ofertón en Amazon para ONTA® Auriculares para Niños Plegable Có'
+title: 'ONTA® Auriculares para Niños Plegable Có'
 date: 2019/12/23 13:24:20 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vO3d0F2CL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vO3d0F2CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

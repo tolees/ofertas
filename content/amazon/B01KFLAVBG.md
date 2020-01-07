@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01KFLAVBG - Ofertón en Amazon para Philips GC9405/80 - Centro de Planchado '
+title: 'Philips GC9405/80 - Centro de Planchado '
 date: 2020-01-05 11:03:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pdMHa8rbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pdMHa8rbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

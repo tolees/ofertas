@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HJBNQ79: Ahorra en Timex Reloj de Pulsera TW2R85400'
+title: 'Timex Reloj de Pulsera TW2R85400'
 date: 2019/12/31 00:26:23 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZhuSbaZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZhuSbaZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HJBNQ79

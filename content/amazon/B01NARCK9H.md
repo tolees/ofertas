@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01NARCK9H - Ofertón en Amazon para SuSenGo Titanic Building Block Kit 1021 '
+title: 'SuSenGo Titanic Building Block Kit 1021 '
 date: 2020-01-03 06:07:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gRWKsAS8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gRWKsAS8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DFGC7FR: Ahorra en Funko 34618 Game of Thrones: Bran Stark '
+title: 'Funko 34618 Game of Thrones: Bran Stark '
 date: 2019/12/11 13:26:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414CoIaTWpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414CoIaTWpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFGC7FR

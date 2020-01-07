@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KPY9XXW - Ofertón en Amazon para Polti Vaporella Express VE30.10 Plancha '
+title: 'Polti Vaporella Express VE30.10 Plancha '
 date: 2020-01-06 10:50:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-x6uOxjXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-x6uOxjXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

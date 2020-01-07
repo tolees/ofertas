@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DG3PQY2 - Ofertón en Amazon para Bosch TAS1001 Tassimo Happy Cafetera Mon'
+title: 'Bosch TAS1001 Tassimo Happy Cafetera Mon'
 date: 2020-01-03 07:12:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zNQoN9f3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zNQoN9f3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

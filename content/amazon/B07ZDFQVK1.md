@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07ZDFQVK1: Rebaja en Tablets 10 Pulgadas 64GB  3GB RAM 4G Dua en Amazon'
+title: 'Tablets 10 Pulgadas 64GB  3GB RAM 4G Dua'
 date: 2019/12/20 00:41:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51AV1q55YnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AV1q55YnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZDFQVK1

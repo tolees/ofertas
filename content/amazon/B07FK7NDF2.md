@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FK7NDF2 - Ofertón en Amazon para hummel Nile Canvas Low  Zapatillas Unise'
+title: 'hummel Nile Canvas Low  Zapatillas Unise'
 date: 2019/12/11 18:50:22 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bUUp7OBlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bUUp7OBlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

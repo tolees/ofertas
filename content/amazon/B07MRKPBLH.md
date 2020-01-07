@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MRKPBLH - Ofertón en Amazon para OMRON RS7 Intelli IT - Tensiómetro de mu'
+title: 'OMRON RS7 Intelli IT - Tensiómetro de mu'
 date: 2020-01-04 07:04:48
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ctf35vR-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ctf35vR-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

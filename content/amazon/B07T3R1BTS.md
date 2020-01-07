@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07T3R1BTS - Ofertón en Amazon para Nike Barcelona 2019/2020 Camiseta  Hombr'
+title: 'Nike Barcelona 2019/2020 Camiseta  Hombr'
 date: 2019/12/15 22:28:17 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41A9JOy8iML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A9JOy8iML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

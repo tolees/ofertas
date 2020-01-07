@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00NZ43TMY: Rebaja en Star Wars - Cuaderno 3D  15 x 21 cm  Mer en Amazon'
+title: 'Star Wars - Cuaderno 3D  15 x 21 cm  Mer'
 date: 2019/12/26 20:23:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5196-1%2B6cZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5196-1%2B6cZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NZ43TMY

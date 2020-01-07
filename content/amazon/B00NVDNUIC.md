@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00NVDNUIC: Rebaja en LEGO Classic - Complementos Creativos de en Amazon'
+title: 'LEGO Classic - Complementos Creativos de'
 date: 2019/12/19 07:56:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51LzG3N93zL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LzG3N93zL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NVDNUIC

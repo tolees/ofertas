@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073JP5JYY: Ahorra en find. Jersey de Algodón Hombre  Verde   '
+title: 'find. Jersey de Algodón Hombre  Verde   '
 date: 2019/12/28 13:52:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ajwN-nZ3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ajwN-nZ3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073JP5JYY

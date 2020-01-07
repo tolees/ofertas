@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01LYRGY7M - Ofertón en Amazon para PLAYMOBIL Ghostbusters 9219 Feuerwache  '
+title: 'PLAYMOBIL Ghostbusters 9219 Feuerwache  '
 date: 2020-01-07 06:40:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61NZwsJ45XL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61NZwsJ45XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

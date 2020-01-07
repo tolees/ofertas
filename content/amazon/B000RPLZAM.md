@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000RPLZAM: Rebaja en Boss Bottled by Hugo Boss Eau De Toilett en Amazon'
+title: 'Boss Bottled by Hugo Boss Eau De Toilett'
 date: 2019/12/12 09:03:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jDnPsRi2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jDnPsRi2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000RPLZAM

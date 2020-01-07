@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00NOWA7AE: Ahorra en Bausch & Lomb -  Soflens Color - Lentes '
+title: 'Bausch & Lomb -  Soflens Color - Lentes '
 date: 2020-01-05 21:56:29
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41atX0etlWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41atX0etlWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NOWA7AE

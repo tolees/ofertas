@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0792DXZBC: Ahorra en Geox J Xunday Boy A  Botas Chukka para N'
+title: 'Geox J Xunday Boy A  Botas Chukka para N'
 date: 2020-01-02 18:42:13
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0792DXZBC

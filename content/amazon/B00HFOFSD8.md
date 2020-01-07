@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HFOFSD8: Rebaja en Keep Out Gaming R4 - Alfombrilla  450x37 en Amazon'
+title: 'Keep Out Gaming R4 - Alfombrilla  450x37'
 date: 2020-01-04 19:57:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HFOFSD8

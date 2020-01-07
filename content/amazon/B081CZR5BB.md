@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B081CZR5BB - Ofertón en Amazon para Geographical Norway Parka DE NIÑA Baby A'
+title: 'Geographical Norway Parka DE NIÑA Baby A'
 date: 2019/12/30 12:34:49 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XaXsImj4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XaXsImj4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

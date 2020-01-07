@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N8MNXDP: Rebaja en TOMMY CORE BACKPACKHombreMonederosAzul   en Amazon'
+title: 'TOMMY CORE BACKPACKHombreMonederosAzul  '
 date: 2020-01-06 10:16:56
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGBThqZPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGBThqZPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N8MNXDP

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079GZNQ2B: Ahorra en TP-Link Router 4G móvil Wifi MiFi 4G Cat'
+title: 'TP-Link Router 4G móvil Wifi MiFi 4G Cat'
 date: 2020-01-07 07:22:21
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518thDKj1ML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518thDKj1ML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079GZNQ2B

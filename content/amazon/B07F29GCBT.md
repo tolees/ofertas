@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F29GCBT: Ahorra en Timberland Bradstreet Leather Sensorflex'
+title: 'Timberland Bradstreet Leather Sensorflex'
 date: 2019/12/28 14:29:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ymwobcVML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ymwobcVML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F29GCBT

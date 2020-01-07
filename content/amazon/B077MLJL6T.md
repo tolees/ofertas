@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077MLJL6T: Ahorra en Clarilou Funda Smartphone - Diseño Exclu'
+title: 'Clarilou Funda Smartphone - Diseño Exclu'
 date: 2020-01-03 02:46:56
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31OmUHo9nqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OmUHo9nqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077MLJL6T

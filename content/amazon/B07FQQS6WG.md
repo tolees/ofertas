@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FQQS6WG - Ofertón en Amazon para Clarks Un Trail Form  Zapatos de Cordone'
+title: 'Clarks Un Trail Form  Zapatos de Cordone'
 date: 2019/12/12 14:32:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315t8BRj6hL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315t8BRj6hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

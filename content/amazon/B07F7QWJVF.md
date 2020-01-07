@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07F7QWJVF - Ofertón en Amazon para Dermacol - Delineador 12h True Colour No'
+title: 'Dermacol - Delineador 12h True Colour No'
 date: 2019/12/14 14:23:15 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21WgIUa0MYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21WgIUa0MYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

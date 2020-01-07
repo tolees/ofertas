@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JMLL2FD: Ahorra en dreamlock vehículo articulado y retrofri'
+title: 'dreamlock vehículo articulado y retrofri'
 date: 2019/12/24 18:03:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51l0ZjdRI6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l0ZjdRI6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JMLL2FD

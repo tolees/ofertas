@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VCSQDFH - Ofertón en Amazon para GODNECE Light Set for Lego  Led Lighting'
+title: 'GODNECE Light Set for Lego  Led Lighting'
 date: 2020-01-07 06:11:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417554j4IkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417554j4IkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

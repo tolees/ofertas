@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KH9JSPL: Ahorra en KEXIN 64GB Memoria USB Tipo C y 64GB Mem'
+title: 'KEXIN 64GB Memoria USB Tipo C y 64GB Mem'
 date: 2019/12/17 13:49:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31IU4SqKViL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IU4SqKViL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KH9JSPL

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QW1TX5H - Ofertón en Amazon para Cali Zapatos Deportivos para Mujer Blanc'
+title: 'Cali Zapatos Deportivos para Mujer Blanc'
 date: 2019/12/25 20:13:44 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31xcrMb5wxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xcrMb5wxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B005OVT0RY: Ahorra en BERING Reloj Analógico para Hombre de Cu'
+title: 'BERING Reloj Analógico para Hombre de Cu'
 date: 2019/12/16 13:05:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B005OVT0RY

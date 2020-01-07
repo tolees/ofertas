@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00L1UNU7S - Ofertón en Amazon para Skechers Equalizer-Persistent  Zapatilla'
+title: 'Skechers Equalizer-Persistent  Zapatilla'
 date: 2019/12/23 16:10:27 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zDLjP3FvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zDLjP3FvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

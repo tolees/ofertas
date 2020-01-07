@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B004APOFQ6 - Ofertón en Amazon para Seiko Reloj Analógico de Cuarzo para Hom'
+title: 'Seiko Reloj Analógico de Cuarzo para Hom'
 date: 2019/12/21 01:24:43 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tjAu95hAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tjAu95hAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

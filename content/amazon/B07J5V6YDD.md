@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J5V6YDD - Ofertón en Amazon para Hawiton Pijama Mujer de Algodón Invierno'
+title: 'Hawiton Pijama Mujer de Algodón Invierno'
 date: 2020-01-02 14:16:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31A90DaxC8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A90DaxC8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

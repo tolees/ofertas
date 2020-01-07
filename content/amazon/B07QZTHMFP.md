@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QZTHMFP - Ofertón en Amazon para Under Armour Metallic Woven FZ Parte Sup'
+title: 'Under Armour Metallic Woven FZ Parte Sup'
 date: 2019/12/17 17:15:19 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41a%2B3Y4jrTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a%2B3Y4jrTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NGYOTLE: Ahorra en Reebok Royal Complete CLN  Zapatillas de'
+title: 'Reebok Royal Complete CLN  Zapatillas de'
 date: 2019/12/27 13:58:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VO4B3W14L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VO4B3W14L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NGYOTLE

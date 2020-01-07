@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HHCLVN5 - Ofertón en Amazon para Tommy Hilfiger Jazlyn Kick Pant Pantalon'
+title: 'Tommy Hilfiger Jazlyn Kick Pant Pantalon'
 date: 2019/12/18 08:13:46 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/317Ng1iBicL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Ng1iBicL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

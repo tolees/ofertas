@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077JLR8HN: Rebaja en SOLS - Pantalones Cortos Modelo Janeiro  en Amazon'
+title: 'SOLS - Pantalones Cortos Modelo Janeiro '
 date: 2019/12/20 11:28:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418Gw2PIaqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Gw2PIaqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077JLR8HN

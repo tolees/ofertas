@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HCKW52J: Ahorra en Rosefield Reloj Analógico para Mujer de '
+title: 'Rosefield Reloj Analógico para Mujer de '
 date: 2019/12/25 12:21:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41oQL1wvNLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oQL1wvNLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HCKW52J

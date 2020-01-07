@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004OYUNMI: Ahorra en Casio G-SHOCK Reloj Analógico-Digital  2'
+title: 'Casio G-SHOCK Reloj Analógico-Digital  2'
 date: 2019/12/18 13:23:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-4nRxx%2BmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-4nRxx%2BmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004OYUNMI

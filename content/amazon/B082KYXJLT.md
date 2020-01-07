@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B082KYXJLT - Ofertón en Amazon para IWEMEK Disfraz Anna Frozen Niña Vestido '
+title: 'IWEMEK Disfraz Anna Frozen Niña Vestido '
 date: 2020-01-04 14:29:02
-image: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

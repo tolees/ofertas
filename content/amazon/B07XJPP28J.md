@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XJPP28J: Rebaja en YOSICIL Vestido de Princesa Elsa Niña Di en Amazon'
+title: 'YOSICIL Vestido de Princesa Elsa Niña Di'
 date: 2020-01-06 22:24:03
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51M8ZRt0sPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M8ZRt0sPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XJPP28J

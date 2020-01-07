@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N8QBHRL: Ahorra en Dim Soutien-Gorge Avec Armatures SUBLIM '
+title: 'Dim Soutien-Gorge Avec Armatures SUBLIM '
 date: 2019/12/20 09:23:47 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415JnsMnA3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415JnsMnA3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N8QBHRL

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GBVHT7W - Ofertón en Amazon para FORLADY Rose Flower Ring Hoop Beach Holi'
+title: 'FORLADY Rose Flower Ring Hoop Beach Holi'
 date: 2019/12/16 09:04:37 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EqMB-WQxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EqMB-WQxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

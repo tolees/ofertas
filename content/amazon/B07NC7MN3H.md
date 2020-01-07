@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NC7MN3H - Ofertón en Amazon para Pepe Jeans Stanley Vaqueros Straight  Az'
+title: 'Pepe Jeans Stanley Vaqueros Straight  Az'
 date: 2020-01-01 16:05:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

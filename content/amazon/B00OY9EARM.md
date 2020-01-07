@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00OY9EARM - Ofertón en Amazon para VAUDE Jacke Girls Centipede Jacket - Sof'
+title: 'VAUDE Jacke Girls Centipede Jacket - Sof'
 date: 2020-01-02 08:14:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51eBnLgKshL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eBnLgKshL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

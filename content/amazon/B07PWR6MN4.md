@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PWR6MN4: Ahorra en Chanson D Eau Edt Mar Azul para Mujer - '
+title: 'Chanson D Eau Edt Mar Azul para Mujer - '
 date: 2019/12/24 12:06:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418EmcUAaaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418EmcUAaaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PWR6MN4

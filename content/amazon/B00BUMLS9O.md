@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00BUMLS9O - Ofertón en Amazon para DIM Generous Minimizer Sujetador reducto'
+title: 'DIM Generous Minimizer Sujetador reducto'
 date: 2019/12/20 09:38:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SAfxiMHnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SAfxiMHnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

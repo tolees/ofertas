@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HWTEN14: Ahorra en Naturalia - Colchón cuna baby memory vis'
+title: 'Naturalia - Colchón cuna baby memory vis'
 date: 2019/12/20 20:16:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FlmWYvBiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HWTEN14

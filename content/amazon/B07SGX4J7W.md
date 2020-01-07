@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SGX4J7W: Ahorra en Relojes Hombre De Malla Ultra Fino Negro'
+title: 'Relojes Hombre De Malla Ultra Fino Negro'
 date: 2019/12/16 18:56:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xWGghsm1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xWGghsm1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SGX4J7W

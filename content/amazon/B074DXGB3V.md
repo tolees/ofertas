@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074DXGB3V: Rebaja en Western Digital My Cloud Home - Nube Per en Amazon'
+title: 'Western Digital My Cloud Home - Nube Per'
 date: 2020-01-06 02:03:01
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074DXGB3V

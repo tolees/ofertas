@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TSJZ2FD: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego Te'
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Te'
 date: 2020-01-05 22:48:24
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51D9Scu1CPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D9Scu1CPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TSJZ2FD

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00C3TJV3I: Rebaja en Ravensburger tiptoi Dein Körper und Du S en Amazon'
+title: 'Ravensburger tiptoi Dein Körper und Du S'
 date: 2020-01-01 22:48:37
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uspegdGsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uspegdGsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00C3TJV3I

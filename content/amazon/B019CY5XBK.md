@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B019CY5XBK - Ofertón en Amazon para Portwest S441 - Portwest Pantalón de llu'
+title: 'Portwest S441 - Portwest Pantalón de llu'
 date: 2019/12/12 18:41:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eH0GpENoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eH0GpENoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

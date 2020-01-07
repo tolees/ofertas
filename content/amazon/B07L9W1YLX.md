@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L9W1YLX: Rebaja en Lacoste Carnaby EVO 319 3 SMA  Zapatilla en Amazon'
+title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatilla'
 date: 2020-01-04 12:43:02
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ARgAl-mYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ARgAl-mYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9W1YLX

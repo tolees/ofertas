@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00B9B5VPS - Ofertón en Amazon para Newton Telescopio 130/650 Sph.'
+title: 'Newton Telescopio 130/650 Sph.'
 date: 2020-01-06 17:33:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dub12bPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

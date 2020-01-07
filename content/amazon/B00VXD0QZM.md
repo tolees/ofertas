@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00VXD0QZM: Rebaja en G-STAR RAW ARC 3D Vaqueros  Dk Aged 4639 en Amazon'
+title: 'G-STAR RAW ARC 3D Vaqueros  Dk Aged 4639'
 date: 2019/12/29 21:05:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VXD0QZM

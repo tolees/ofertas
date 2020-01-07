@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B014DDMCX2: Ahorra en Timberland Bradstreet Leather Sensorflex'
+title: 'Timberland Bradstreet Leather Sensorflex'
 date: 2019/12/25 10:01:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yNpUxv61L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yNpUxv61L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B014DDMCX2

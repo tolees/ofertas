@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QWLFQNR - Ofertón en Amazon para Bovon Soporte Tablet para Coche  Soporte'
+title: 'Bovon Soporte Tablet para Coche  Soporte'
 date: 2020-01-07 07:21:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51GbZugc4bL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GbZugc4bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

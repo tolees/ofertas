@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HHJC8K7: Rebaja en Microsoft Surface Pro 6  31 25 cm  12 3  en Amazon'
+title: 'Microsoft Surface Pro 6  31 25 cm  12 3 '
 date: 2019/12/22 16:05:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31CHFrnPz4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CHFrnPz4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HHJC8K7

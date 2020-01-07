@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HLBN8XK - Ofertón en Amazon para READ Reloj para Hombre  Reloj de Cuarzo '
+title: 'READ Reloj para Hombre  Reloj de Cuarzo '
 date: 2020-01-06 09:40:39
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41R5vKD5STL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R5vKD5STL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

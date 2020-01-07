@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MRWE5AX: Rebaja en KLIMTM Wind + Base de refrigeración para en Amazon'
+title: 'KLIMTM Wind + Base de refrigeración para'
 date: 2019/12/29 12:50:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519ugHFX2AL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519ugHFX2AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MRWE5AX

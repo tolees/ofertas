@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JM57DRH: Ahorra en PLAYMOBIL Magic 70094 Korallenpavillon m'
+title: 'PLAYMOBIL Magic 70094 Korallenpavillon m'
 date: 2020-01-03 23:07:29
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61jlSweHfHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61jlSweHfHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JM57DRH

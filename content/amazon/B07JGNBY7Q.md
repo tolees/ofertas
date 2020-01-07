@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JGNBY7Q: Ahorra en Orient Reloj Analógico para Unisex Adult'
+title: 'Orient Reloj Analógico para Unisex Adult'
 date: 2019/12/18 22:01:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/512nb%2BOQe4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512nb%2BOQe4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JGNBY7Q

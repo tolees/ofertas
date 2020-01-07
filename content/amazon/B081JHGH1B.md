@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B081JHGH1B - Ofertón en Amazon para IMEKIS Mädchen Eiskönigin Anna Kleid mit'
+title: 'IMEKIS Mädchen Eiskönigin Anna Kleid mit'
 date: 2019/12/15 23:29:37 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

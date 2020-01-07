@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B017SQZSE6 - Ofertón en Amazon para Salomon Speedcross 4 W  Zapatillas de Tr'
+title: 'Salomon Speedcross 4 W  Zapatillas de Tr'
 date: 2019/12/14 21:33:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41JKv0KMsDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JKv0KMsDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

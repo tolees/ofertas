@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B002DPMR7Y: Rebaja en Reebok CL LTHR 3912 - Zapatillas de cuer en Amazon'
+title: 'Reebok CL LTHR 3912 - Zapatillas de cuer'
 date: 2019/12/28 12:51:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002DPMR7Y

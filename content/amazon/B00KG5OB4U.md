@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00KG5OB4U: Ahorra en Love2Wait Sophia Pantalones  Negro  Schw'
+title: 'Love2Wait Sophia Pantalones  Negro  Schw'
 date: 2020-01-07 12:06:30
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KG5OB4U

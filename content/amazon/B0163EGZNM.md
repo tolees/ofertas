@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0163EGZNM: Rebaja en Dim Invisi Fit Sujetador  New Skin  85C  en Amazon'
+title: 'Dim Invisi Fit Sujetador  New Skin  85C '
 date: 2019/12/20 08:56:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0163EGZNM

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HG21JSG - Ofertón en Amazon para New Balance 997h  Zapatillas para Mujer '
+title: 'New Balance 997h  Zapatillas para Mujer '
 date: 2019/12/12 18:35:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

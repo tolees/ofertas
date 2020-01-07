@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N7GDWE2: Rebaja en Corsair Force MP500 - Unidad de Estado s en Amazon'
+title: 'Corsair Force MP500 - Unidad de Estado s'
 date: 2019/12/13 09:17:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ii6Sn0b2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ii6Sn0b2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N7GDWE2

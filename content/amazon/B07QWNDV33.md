@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QWNDV33: Ahorra en Under Armour Rival Fleece Graphic Novelt'
+title: 'Under Armour Rival Fleece Graphic Novelt'
 date: 2019/12/26 10:17:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VH0G0f7CL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QWNDV33

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00GH52TPQ - Ofertón en Amazon para Nespresso Krups Inissia XN1005 - Cafeter'
-date: 2020-01-01 16:41:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlAIPT26L._SL200_.jpg'
+title: 'Nespresso Krups Inissia XN1005 - Cafeter'
+date: 2020-01-07 15:31:27
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlAIPT26L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

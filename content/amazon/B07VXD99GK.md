@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VXD99GK: Rebaja en FITTOO Mallas Leggings Mujer Pantalones  en Amazon'
+title: 'FITTOO Mallas Leggings Mujer Pantalones '
 date: 2020-01-02 16:06:05
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31hDtP5dEzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hDtP5dEzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VXD99GK

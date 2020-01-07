@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LGB1HCQ - Ofertón en Amazon para Lagavulin - Whisky Scotch Islay Single M'
+title: 'Lagavulin - Whisky Scotch Islay Single M'
 date: 2019/12/29 00:16:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412bMN3s%2B2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412bMN3s%2B2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DKNDZ88: Ahorra en Garmin fenix 5S Plus Schwarz Multisport-'
+title: 'Garmin fenix 5S Plus Schwarz Multisport-'
 date: 2019/12/28 11:21:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41X3Pr0BtGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X3Pr0BtGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DKNDZ88

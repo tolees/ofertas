@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HRQC16W - Ofertón en Amazon para L.O.L Surprise! Fuzzy Pets'
+title: 'L.O.L Surprise! Fuzzy Pets'
 date: 2020-01-01 22:01:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RZ9H6DY8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RZ9H6DY8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07YTNR85W - Ofertón en Amazon para Samsonite Paradiver Light Mochila Infant'
+title: 'Samsonite Paradiver Light Mochila Infant'
 date: 2019/12/11 16:21:29 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31B86dVnZdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B86dVnZdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

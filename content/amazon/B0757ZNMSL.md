@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0757ZNMSL: Rebaja en find. Vaqueros Super Skinny Hombre  Gris en Amazon'
+title: 'find. Vaqueros Super Skinny Hombre  Gris'
 date: 2019/12/21 19:11:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410yJd0lNiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410yJd0lNiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0757ZNMSL

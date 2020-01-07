@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GJMBXXV - Ofertón en Amazon para Aigital WiFi Repetidor Router  300Mbps E'
+title: 'Aigital WiFi Repetidor Router  300Mbps E'
 date: 2020-01-03 09:06:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2BQV23JxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z%2BQV23JxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

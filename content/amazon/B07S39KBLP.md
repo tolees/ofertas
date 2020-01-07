@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07S39KBLP: Rebaja en Maletín de Herramientas  102 Kit Caja He en Amazon'
+title: 'Maletín de Herramientas  102 Kit Caja He'
 date: 2020-01-05 11:47:59
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5194rrJhgYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5194rrJhgYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S39KBLP

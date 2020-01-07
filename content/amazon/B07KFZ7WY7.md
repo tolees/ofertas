@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KFZ7WY7 - Ofertón en Amazon para Puma Flyer Runner  Zapatillas de Running'
+title: 'Puma Flyer Runner  Zapatillas de Running'
 date: 2020-01-02 16:22:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

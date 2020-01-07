@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CJFNJ2J - Ofertón en Amazon para REPLAY Grover Vaqueros Straight  Azul  D'
+title: 'REPLAY Grover Vaqueros Straight  Azul  D'
 date: 2019/12/17 11:10:36 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31BeRLVu4GL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BeRLVu4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

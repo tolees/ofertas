@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078SBDGHM: Rebaja en L CARNITINA Natural 2000. Suplemento L-C en Amazon'
+title: 'L CARNITINA Natural 2000. Suplemento L-C'
 date: 2019/12/17 10:15:34 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E0b-BtSOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E0b-BtSOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078SBDGHM

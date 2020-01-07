@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00KSG4RB4: Rebaja en MOTORKIT MOT3543 Anticongelante 10% -4º  en Amazon'
+title: 'MOTORKIT MOT3543 Anticongelante 10% -4º '
 date: 2019/12/14 20:50:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CtzEMQhtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CtzEMQhtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KSG4RB4

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B003XUFOW8 - Ofertón en Amazon para Einhell Abbruchhammer BT-DH 1600/1  1600'
+title: 'Einhell Abbruchhammer BT-DH 1600/1  1600'
 date: 2019/12/17 17:25:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419FECkwu%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419FECkwu%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

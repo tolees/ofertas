@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CQC28VL: Ahorra en Bosch Unlimited Serie 8 BCS1TOPNC - Aspi'
+title: 'Bosch Unlimited Serie 8 BCS1TOPNC - Aspi'
 date: 2020-01-02 12:08:54
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41N9ZCWa8-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N9ZCWa8-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CQC28VL

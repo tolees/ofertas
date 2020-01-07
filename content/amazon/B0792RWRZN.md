@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0792RWRZN: Ahorra en Rwest X Calcetines de compresión Medias '
+title: 'Rwest X Calcetines de compresión Medias '
 date: 2019/12/31 01:16:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51y6mXNH7lL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y6mXNH7lL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0792RWRZN

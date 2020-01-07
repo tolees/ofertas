@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J6SXGWF - Ofertón en Amazon para Pop! Rugrats - Figura de Vinilo Angelica'
+title: 'Pop! Rugrats - Figura de Vinilo Angelica'
 date: 2020-01-05 23:15:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

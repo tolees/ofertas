@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RC67WCY: Rebaja en PUMA Challenger Duffel Bag M Bolsa Depor en Amazon'
+title: 'PUMA Challenger Duffel Bag M Bolsa Depor'
 date: 2019/12/17 16:48:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uGb8tnC6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uGb8tnC6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RC67WCY

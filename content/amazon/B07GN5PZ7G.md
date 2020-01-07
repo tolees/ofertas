@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GN5PZ7G: Rebaja en Collar Antiladridos Recargable para Perr en Amazon'
+title: 'Collar Antiladridos Recargable para Perr'
 date: 2019/12/17 09:53:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51UJBjBZPRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UJBjBZPRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GN5PZ7G

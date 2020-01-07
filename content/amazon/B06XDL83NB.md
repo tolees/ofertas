@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XDL83NB: Ahorra en find. Camisa de Rayas con Hombros al Air'
+title: 'find. Camisa de Rayas con Hombros al Air'
 date: 2020-01-02 13:14:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41w0uMmuoDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w0uMmuoDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XDL83NB

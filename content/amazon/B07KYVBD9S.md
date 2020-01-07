@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KYVBD9S: Rebaja en AmazonBasics - Juego de fundas de edredó en Amazon'
+title: 'AmazonBasics - Juego de fundas de edredó'
 date: 2019/12/11 18:14:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31OauQdrsKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OauQdrsKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KYVBD9S

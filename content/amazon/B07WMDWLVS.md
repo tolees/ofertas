@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WMDWLVS: Rebaja en Mocolo Bolsas de la Compra Reutilizables en Amazon'
+title: 'Mocolo Bolsas de la Compra Reutilizables'
 date: 2019/12/25 13:46:00 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41o%2BL%2Bt8%2BLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o%2BL%2Bt8%2BLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WMDWLVS

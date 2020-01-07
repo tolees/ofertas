@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00TZABEKG: Rebaja en Kempa Emotion Classic Chaqueta De Chanda en Amazon'
+title: 'Kempa Emotion Classic Chaqueta De Chanda'
 date: 2019/12/16 14:36:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ETsaC5O6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ETsaC5O6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TZABEKG

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078NPPS5H: Ahorra en Baby Playpen - Centro de actividades par'
+title: 'Baby Playpen - Centro de actividades par'
 date: 2019/12/16 20:07:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xQx6%2B9kmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xQx6%2B9kmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078NPPS5H

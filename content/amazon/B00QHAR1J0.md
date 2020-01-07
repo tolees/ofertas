@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00QHAR1J0 - Ofertón en Amazon para Under Armour UA CG Armour Mock Camiseta '
+title: 'Under Armour UA CG Armour Mock Camiseta '
 date: 2019/12/19 12:37:51 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/319G8QYWhKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319G8QYWhKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

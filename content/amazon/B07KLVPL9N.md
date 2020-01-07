@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KLVPL9N: Rebaja en Bulova Reloj Cronógrafo para Hombre de C en Amazon'
+title: 'Bulova Reloj Cronógrafo para Hombre de C'
 date: 2019/12/13 22:56:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-C6LUK0TL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-C6LUK0TL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KLVPL9N

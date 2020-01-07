@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FPF2KY4 - Ofertón en Amazon para Alitoo Auriculares Inalámbricos Bluetoot'
+title: 'Alitoo Auriculares Inalámbricos Bluetoot'
 date: 2019/12/17 00:16:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tl7%2BBpYvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tl7%2BBpYvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

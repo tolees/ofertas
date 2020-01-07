@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07B41KGLH - Ofertón en Amazon para PLAYMOBIL Christmas 9494 Lichterbogen "W'
+title: 'PLAYMOBIL Christmas 9494 Lichterbogen "W'
 date: 2019/12/20 08:33:46 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/615dDUL6-2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615dDUL6-2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

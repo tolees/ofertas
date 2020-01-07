@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SRTJKC1: Ahorra en Bombilla LED Colores  2 Pack   OMERIL RG'
+title: 'Bombilla LED Colores  2 Pack   OMERIL RG'
 date: 2020-01-01 09:07:35
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-MucjbDdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-MucjbDdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SRTJKC1

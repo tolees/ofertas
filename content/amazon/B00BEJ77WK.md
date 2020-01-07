@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00BEJ77WK: Ahorra en Russell Hobbs Cook@Home 19750-56 - Vapor'
+title: 'Russell Hobbs Cook@Home 19750-56 - Vapor'
 date: 2019/12/29 15:30:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418KJlb7B8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418KJlb7B8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BEJ77WK

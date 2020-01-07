@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00SAYCXWG: Ahorra en HyperX KHX-HSCP-RD Cloud II - Gaming Kop'
+title: 'HyperX KHX-HSCP-RD Cloud II - Gaming Kop'
 date: 2019/12/19 00:33:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41A8DlSp0lL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A8DlSp0lL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00SAYCXWG

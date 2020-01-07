@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JWQNDHV: Rebaja en Pepe Jeans Adai Pl401683 Chaqueta    Dar en Amazon'
+title: 'Pepe Jeans Adai Pl401683 Chaqueta    Dar'
 date: 2019/12/13 08:16:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ejRf0bLML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ejRf0bLML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JWQNDHV

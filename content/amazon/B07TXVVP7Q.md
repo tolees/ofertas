@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TXVVP7Q: Rebaja en BRIKSMAX Led Lighting Kit for LEGO City  en Amazon'
+title: 'BRIKSMAX Led Lighting Kit for LEGO City '
 date: 2019/12/30 22:11:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TXVVP7Q

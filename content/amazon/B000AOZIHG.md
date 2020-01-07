@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000AOZIHG: Ahorra en Reebok Classic Nylon - Zapatillas para h'
+title: 'Reebok Classic Nylon - Zapatillas para h'
 date: 2019/12/24 11:43:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41v6Z5tC2jL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v6Z5tC2jL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000AOZIHG

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00YPDNJ0G - Ofertón en Amazon para Einhell TC-SD - Atornillador litio  Ion '
+title: 'Einhell TC-SD - Atornillador litio  Ion '
 date: 2020-01-06 18:08:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51FISa8dcRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FISa8dcRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

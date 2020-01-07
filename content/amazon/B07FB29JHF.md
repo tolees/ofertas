@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FB29JHF - Ofertón en Amazon para Seiko Reloj Cronografo para Hombre de Cu'
+title: 'Seiko Reloj Cronografo para Hombre de Cu'
 date: 2019-12-31 23:02:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51XwegfSygL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XwegfSygL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B083HVFG2T - Ofertón en Amazon para K9CK Luces LED para Technic Grúa Todoter'
+title: 'K9CK Luces LED para Technic Grúa Todoter'
 date: 2020-01-06 06:29:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51yFL9uTmXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yFL9uTmXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

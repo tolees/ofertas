@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XCC7QR8: Ahorra en find. 13672 vestidos mujer  Multicolor  '
+title: 'find. 13672 vestidos mujer  Multicolor  '
 date: 2020-01-04 08:48:54
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z9hs0d43L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z9hs0d43L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XCC7QR8

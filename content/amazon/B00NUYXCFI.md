@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00NUYXCFI: Ahorra en Lego Batman 3: Mas Allá De Gotham'
+title: 'Lego Batman 3: Mas Allá De Gotham'
 date: 2020-01-07 08:18:47
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61SuoP6K6NL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61SuoP6K6NL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NUYXCFI

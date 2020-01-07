@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NW8VRZF - Ofertón en Amazon para Skechers D lites 3.0-Proven Force  Zapat'
+title: 'Skechers D lites 3.0-Proven Force  Zapat'
 date: 2020-01-05 13:50:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31vjsveFHCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vjsveFHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

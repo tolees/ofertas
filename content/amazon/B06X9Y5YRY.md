@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06X9Y5YRY - Ofertón en Amazon para IRIS & LILLY Tanga Body Smooth para Muje'
+title: 'IRIS & LILLY Tanga Body Smooth para Muje'
 date: 2019/12/27 16:58:22 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21H1M3xhqoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21H1M3xhqoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

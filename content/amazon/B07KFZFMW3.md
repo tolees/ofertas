@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KFZFMW3: Rebaja en PUMA Hybrid Fuego  Zapatillas de Running en Amazon'
+title: 'PUMA Hybrid Fuego  Zapatillas de Running'
 date: 2019/12/13 10:27:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31JVNvsdwEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JVNvsdwEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFZFMW3

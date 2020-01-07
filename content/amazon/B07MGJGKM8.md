@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MGJGKM8: Rebaja en Aibrou Clásico Pijamas Hombre Invierno A en Amazon'
+title: 'Aibrou Clásico Pijamas Hombre Invierno A'
 date: 2019/12/11 07:18:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GH%2BjxT9vL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GH%2BjxT9vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MGJGKM8

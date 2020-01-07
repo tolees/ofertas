@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FR7V2FV: Ahorra en Clarks Batcombe Hall Derby - Zapatos de '
+title: 'Clarks Batcombe Hall Derby - Zapatos de '
 date: 2020-01-05 12:37:16
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fKck3U9vL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fKck3U9vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FR7V2FV

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MCKTVNG - Ofertón en Amazon para Wilbest Cartera de Tarjetas  Cartera Hom'
+title: 'Wilbest Cartera de Tarjetas  Cartera Hom'
 date: 2020-01-04 13:15:33
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418B3Cpd4GL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418B3Cpd4GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

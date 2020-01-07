@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FQ5WHZP: Ahorra en FITTOO Mallas Pantalones Deportivos Legg'
+title: 'FITTOO Mallas Pantalones Deportivos Legg'
 date: 2019/12/26 20:17:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fxz6vLIDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fxz6vLIDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FQ5WHZP

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072KK1FSM: Rebaja en Festina Reloj Cronógrafo para Hombre de  en Amazon'
+title: 'Festina Reloj Cronógrafo para Hombre de '
 date: 2019/12/25 21:46:12 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wjKVoxBHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wjKVoxBHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072KK1FSM

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01N4EJEJS - Ofertón en Amazon para 1 4kg Hapilife Grifo Cocina Pared Monoma'
+title: '1 4kg Hapilife Grifo Cocina Pared Monoma'
 date: 2019/12/17 08:13:12 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FlIN6IhtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FlIN6IhtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RHLVPZ9 - Ofertón en Amazon para Fullmosa 3 Colores para Correa Metálica '
+title: 'Fullmosa 3 Colores para Correa Metálica '
 date: 2019/12/21 02:45:46 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31nUkVI1mUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nUkVI1mUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

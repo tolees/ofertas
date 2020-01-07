@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KYDVYJW - Ofertón en Amazon para Saro - Cajita portachupetes "Sweet Dream'
+title: 'Saro - Cajita portachupetes "Sweet Dream'
 date: 2019/12/25 14:01:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31dQi075TuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dQi075TuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

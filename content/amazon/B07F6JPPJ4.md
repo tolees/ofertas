@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F6JPPJ4: Rebaja en Ballistix Sport AT BLS8G4D30CESTK - Memo en Amazon'
+title: 'Ballistix Sport AT BLS8G4D30CESTK - Memo'
 date: 2019/12/18 21:48:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RdcErYDhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RdcErYDhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F6JPPJ4

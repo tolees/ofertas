@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07WRP2BZR - Ofertón en Amazon para HEYSTOP Funda para Nintendo Switch Lite '
+title: 'HEYSTOP Funda para Nintendo Switch Lite '
 date: 2019/12/11 22:42:47 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515rbJI12AL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515rbJI12AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

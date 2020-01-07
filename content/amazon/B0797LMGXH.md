@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0797LMGXH: Rebaja en Logitech MK540  Teclado y Ratón para Win en Amazon'
+title: 'Logitech MK540  Teclado y Ratón para Win'
 date: 2019/12/30 10:37:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzjhTUF9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzjhTUF9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0797LMGXH

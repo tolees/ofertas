@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07YBVZ8WN: Ahorra en  Adaptador USB C a HDMI 4K  Adaptador US'
+title: ' Adaptador USB C a HDMI 4K  Adaptador US'
 date: 2019/12/31 13:31:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SNpmnrhiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SNpmnrhiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YBVZ8WN

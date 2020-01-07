@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FHDG88J - Ofertón en Amazon para PUMA Cilia  Zapatillas para Mujer  Black'
+title: 'PUMA Cilia  Zapatillas para Mujer  Black'
 date: 2020-01-04 12:26:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

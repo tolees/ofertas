@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MNGGKNN: Rebaja en Ausomely Lighting LED Light Kit for LEGO en Amazon'
+title: 'Ausomely Lighting LED Light Kit for LEGO'
 date: 2019/12/22 17:06:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EHPV6OQwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EHPV6OQwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MNGGKNN

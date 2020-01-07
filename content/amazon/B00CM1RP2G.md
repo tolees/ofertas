@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00CM1RP2G - Ofertón en Amazon para Jacques Lemans 1-1770E - Reloj analógico'
+title: 'Jacques Lemans 1-1770E - Reloj analógico'
 date: 2019/12/20 03:07:58 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z2K4wC37L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z2K4wC37L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

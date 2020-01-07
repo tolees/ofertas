@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00WL6KZDI: Rebaja en Toy State Cat Construcción de vehículo d en Amazon'
+title: 'Toy State Cat Construcción de vehículo d'
 date: 2019/12/21 22:35:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IxCgBmrOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IxCgBmrOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00WL6KZDI

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0777TRHPQ - Ofertón en Amazon para AOC 32" Q3279VWF QUAD HD VGA/DVI/HDMI/Di'
+title: 'AOC 32" Q3279VWF QUAD HD VGA/DVI/HDMI/Di'
 date: 2019-12-31 19:34:09
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fXcZc25tL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fXcZc25tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

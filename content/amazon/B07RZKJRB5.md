@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RZKJRB5: Ahorra en Destornillador Eléctrico Inalámbrico  LO'
+title: 'Destornillador Eléctrico Inalámbrico  LO'
 date: 2020-01-02 11:32:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JC2m3xJpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RZKJRB5

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B079MNQZW6 - Ofertón en Amazon para PLAYMOBIL Magic 9470 Suche nach dem Lieb'
+title: 'PLAYMOBIL Magic 9470 Suche nach dem Lieb'
 date: 2019/12/26 09:40:28 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51nucH38GsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nucH38GsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NBU5UED: Ahorra en find. Camisa de Cuadros de Manga Larga p'
+title: 'find. Camisa de Cuadros de Manga Larga p'
 date: 2020-01-01 10:01:05
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51URVSSNPxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51URVSSNPxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NBU5UED

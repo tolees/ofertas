@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01BPEA9PA: Ahorra en Bombas de Baño ORGÁNICAS con Aceites Ese'
+title: 'Bombas de Baño ORGÁNICAS con Aceites Ese'
 date: 2020-01-01 09:55:17
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51d0Md-C7RL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d0Md-C7RL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BPEA9PA

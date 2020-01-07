@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BGVF49W: Rebaja en Navaja táctica de BGT  plegable  con sis en Amazon'
+title: 'Navaja táctica de BGT  plegable  con sis'
 date: 2020-01-05 18:21:06
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HqKUlSJzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HqKUlSJzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BGVF49W

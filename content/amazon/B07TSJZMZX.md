@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TSJZMZX: Ahorra en BRIKSMAX Kit de Iluminación Led para Leg'
+title: 'BRIKSMAX Kit de Iluminación Led para Leg'
 date: 2020-01-05 22:57:55
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TSJZMZX

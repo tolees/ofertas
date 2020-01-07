@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HCPXMZ3: Ahorra en Skechers Equalizer 3.0  Zapatillas para '
+title: 'Skechers Equalizer 3.0  Zapatillas para '
 date: 2019/12/23 22:41:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gZSu9elCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gZSu9elCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HCPXMZ3

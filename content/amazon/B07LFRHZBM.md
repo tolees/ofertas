@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LFRHZBM: Rebaja en Geox D ANNYTAH C  Bailarinas para Mujer  en Amazon'
+title: 'Geox D ANNYTAH C  Bailarinas para Mujer '
 date: 2020-01-07 11:26:21
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31htBToEerL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31htBToEerL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFRHZBM

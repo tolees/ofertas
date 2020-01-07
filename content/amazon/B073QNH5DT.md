@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073QNH5DT: Ahorra en find. Chaqueta Efecto Piel para Mujer  N'
+title: 'find. Chaqueta Efecto Piel para Mujer  N'
 date: 2019/12/20 19:19:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41X78TaS4QL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X78TaS4QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073QNH5DT

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HZ5HBFT - Ofertón en Amazon para Apple iPad 3 64GB 4G - White - Unlocked '
+title: 'Apple iPad 3 64GB 4G - White - Unlocked '
 date: 2019/12/26 19:48:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41N7POKPU7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N7POKPU7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

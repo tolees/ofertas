@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PMM8W5Q: Ahorra en Auriculares Bluetooth 5.0  Manos Libres '
+title: 'Auriculares Bluetooth 5.0  Manos Libres '
 date: 2019/12/15 14:11:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41STdmLVwtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41STdmLVwtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PMM8W5Q

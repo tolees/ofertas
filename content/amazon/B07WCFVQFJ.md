@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WCFVQFJ: Ahorra en Guirnalda luces pilas【2 * 10M】  OxaOxe 2'
+title: 'Guirnalda luces pilas【2 * 10M】  OxaOxe 2'
 date: 2019/12/29 11:01:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WCFVQFJ

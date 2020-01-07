@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01CDNGUV4: Rebaja en Rowenta CF3710F0 Expertise So Curls - Ri en Amazon'
+title: 'Rowenta CF3710F0 Expertise So Curls - Ri'
 date: 2020-01-02 21:57:25
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419XJRezqWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419XJRezqWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CDNGUV4

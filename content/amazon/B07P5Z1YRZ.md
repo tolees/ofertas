@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07P5Z1YRZ: Rebaja en YAMAY Pulsera de Actividad Inteligente I en Amazon'
+title: 'YAMAY Pulsera de Actividad Inteligente I'
 date: 2019/12/22 14:50:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uS2HkxXSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uS2HkxXSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P5Z1YRZ

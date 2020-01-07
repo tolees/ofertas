@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KPRXJFY - Ofertón en Amazon para Asics Patriot 10 SP  Zapatillas de Runni'
+title: 'Asics Patriot 10 SP  Zapatillas de Runni'
 date: 2019/12/15 20:28:24 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41s6EGUOjNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s6EGUOjNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

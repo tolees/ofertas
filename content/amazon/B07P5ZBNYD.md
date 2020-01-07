@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07P5ZBNYD - Ofertón en Amazon para Funko 40705 POP Bobble: Marvel: Venom S2'
+title: 'Funko 40705 POP Bobble: Marvel: Venom S2'
 date: 2019/12/22 00:34:52 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SDxuPq9HL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SDxuPq9HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

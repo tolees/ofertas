@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07C5YJF2C: Ahorra en JACK & JONES Jjitim Jjoriginal JJ 119 Li'
+title: 'JACK & JONES Jjitim Jjoriginal JJ 119 Li'
 date: 2019/12/29 13:01:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C5YJF2C

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01BC1YW7C: Ahorra en Casio EDIFICE Reloj en caja sólida  10 B'
+title: 'Casio EDIFICE Reloj en caja sólida  10 B'
 date: 2020-01-06 18:37:14
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51B%2BblET7oL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B%2BblET7oL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BC1YW7C

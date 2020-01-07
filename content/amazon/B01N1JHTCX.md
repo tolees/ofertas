@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01N1JHTCX - Ofertón en Amazon para Einhell CC-po 1100/2 CC-po 1100/2 Pulido'
+title: 'Einhell CC-po 1100/2 CC-po 1100/2 Pulido'
 date: 2020-01-02 11:32:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41sZFlaeFsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sZFlaeFsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

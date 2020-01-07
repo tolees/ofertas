@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00TVA4VS2 - Ofertón en Amazon para Dickies 11" Slim Straght Work Short Pant'
+title: 'Dickies 11" Slim Straght Work Short Pant'
 date: 2019/12/19 12:30:47 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OjC4lG4PL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OjC4lG4PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

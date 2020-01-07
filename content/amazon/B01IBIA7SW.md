@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01IBIA7SW: Rebaja en JACK & JONES JJIPAUL JJLEATHER BELT NOOS en Amazon'
+title: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS'
 date: 2020-01-04 17:13:59
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qPzTlrLhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qPzTlrLhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01IBIA7SW

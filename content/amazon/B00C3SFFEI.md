@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00C3SFFEI - Ofertón en Amazon para Ravensburger 26601 Scotland Yard Strateg'
+title: 'Ravensburger 26601 Scotland Yard Strateg'
 date: 2020-01-04 06:10:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/513bYMivdDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513bYMivdDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

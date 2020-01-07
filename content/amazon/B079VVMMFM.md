@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079VVMMFM: Rebaja en Desigual - Bols_brilli Cuenca  Shoppers  en Amazon'
+title: 'Desigual - Bols_brilli Cuenca  Shoppers '
 date: 2020-01-06 20:04:54
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AArF2EyCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AArF2EyCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079VVMMFM

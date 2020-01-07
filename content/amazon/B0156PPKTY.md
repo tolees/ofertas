@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0156PPKTY: Rebaja en G-STAR RAW Women s Midge Cody Mid Waist  en Amazon'
+title: 'G-STAR RAW Women s Midge Cody Mid Waist '
 date: 2020-01-03 11:47:50
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31h6CdnM13L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h6CdnM13L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0156PPKTY

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KRCBRJS: Ahorra en iHaper Hub USB C 7 en 1  Adaptador Type '
+title: 'iHaper Hub USB C 7 en 1  Adaptador Type '
 date: 2020-01-01 08:26:33
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wzFU5p53L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wzFU5p53L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KRCBRJS

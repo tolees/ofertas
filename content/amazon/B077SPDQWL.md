@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077SPDQWL: Ahorra en Puma Liga Casuals Hoody Sudadera con Cap'
+title: 'Puma Liga Casuals Hoody Sudadera con Cap'
 date: 2019/12/17 08:19:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BhOzGGt3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BhOzGGt3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077SPDQWL

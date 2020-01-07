@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01D8SPM4Y - Ofertón en Amazon para L Oreal Paris Dermo Expertise Sublime Su'
+title: 'L Oreal Paris Dermo Expertise Sublime Su'
 date: 2019/12/11 23:09:54 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQCtkOkdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RQCtkOkdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

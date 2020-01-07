@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07K3GXBXB: Ahorra en Object Objbay 3/4 Top Noos Blusa  Azul S'
+title: 'Object Objbay 3/4 Top Noos Blusa  Azul S'
 date: 2019/12/16 16:04:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jhpp7gOYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jhpp7gOYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K3GXBXB

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B076CKZTNK - Ofertón en Amazon para Cecotec Exprimidor Eléctrico ZitrusEasy '
+title: 'Cecotec Exprimidor Eléctrico ZitrusEasy '
 date: 2020-01-02 14:41:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fDxZa-fBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fDxZa-fBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

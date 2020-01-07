@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MCSPC9B - Ofertón en Amazon para Napapijri Aric Chaqueta  Azul  BLU Marin'
+title: 'Napapijri Aric Chaqueta  Azul  BLU Marin'
 date: 2019/12/24 14:56:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dQLkCasDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQLkCasDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

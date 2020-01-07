@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JLFBTD3: Rebaja en Lee Breese Pantalones para Mujer  Negro  en Amazon'
+title: 'Lee Breese Pantalones para Mujer  Negro '
 date: 2019-12-31 17:05:03
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JLFBTD3

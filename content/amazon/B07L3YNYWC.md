@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L3YNYWC: Rebaja en Orient FER27001B0 - Reloj de Pulsera par en Amazon'
+title: 'Orient FER27001B0 - Reloj de Pulsera par'
 date: 2019/12/12 00:35:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cccC9hWCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cccC9hWCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L3YNYWC

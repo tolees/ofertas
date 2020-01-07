@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B075CGLK1Q: Ahorra en Essort Funda Mesa Jardin 213x123x74cm  F'
+title: 'Essort Funda Mesa Jardin 213x123x74cm  F'
 date: 2019/12/19 14:50:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075CGLK1Q

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01DWIY39A: Rebaja en Garmin 735XT Forerunner Reloj multisport en Amazon'
+title: 'Garmin 735XT Forerunner Reloj multisport'
 date: 2020-01-04 18:29:22
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411pOYQBE0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411pOYQBE0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01DWIY39A

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JYNVQD4 - Ofertón en Amazon para Tommy Hilfiger Essential Craft Vulc  Zap'
+title: 'Tommy Hilfiger Essential Craft Vulc  Zap'
 date: 2019/12/18 12:46:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31TGjcpB0uL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TGjcpB0uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

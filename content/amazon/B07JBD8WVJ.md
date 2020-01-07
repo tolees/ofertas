@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JBD8WVJ: Ahorra en LEGO Jungen Langarmshirt Lego Boy Ninjag'
+title: 'LEGO Jungen Langarmshirt Lego Boy Ninjag'
 date: 2019/12/15 23:42:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ByeHFaRML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ByeHFaRML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JBD8WVJ

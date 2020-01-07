@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01GTC6VXM - Ofertón en Amazon para HP Odyssey - Mochila para portátiles de '
+title: 'HP Odyssey - Mochila para portátiles de '
 date: 2019/12/23 15:48:23 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KHAd2jDTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KHAd2jDTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

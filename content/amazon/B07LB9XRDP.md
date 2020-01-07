@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LB9XRDP - Ofertón en Amazon para Tommy Hilfiger Saba Short Packable Windb'
+title: 'Tommy Hilfiger Saba Short Packable Windb'
 date: 2019/12/25 11:33:33 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411x7T5eyXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411x7T5eyXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

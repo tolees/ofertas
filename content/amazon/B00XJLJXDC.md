@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00XJLJXDC: Ahorra en Bounty Zartherb  1 Packung mit 24 Riegel'
+title: 'Bounty Zartherb  1 Packung mit 24 Riegel'
 date: 2019/12/22 21:44:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41k%2BRa7lJrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k%2BRa7lJrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00XJLJXDC

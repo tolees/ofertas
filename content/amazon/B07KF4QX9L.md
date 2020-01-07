@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KF4QX9L: Rebaja en Levi s The Perfect Tee  Camiseta  Mujer  en Amazon'
+title: 'Levi s The Perfect Tee  Camiseta  Mujer '
 date: 2019/12/29 20:11:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41F1C28NArL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F1C28NArL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KF4QX9L

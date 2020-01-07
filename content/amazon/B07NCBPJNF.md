@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NCBPJNF - Ofertón en Amazon para Pepe Jeans Elia Camiseta  Negro  Black 9'
+title: 'Pepe Jeans Elia Camiseta  Negro  Black 9'
 date: 2020-01-04 13:05:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

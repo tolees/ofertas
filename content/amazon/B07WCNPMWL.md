@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WCNPMWL: Ahorra en Asterix & Obelix XXL3: The Crystal Menhi'
+title: 'Asterix & Obelix XXL3: The Crystal Menhi'
 date: 2020-01-03 12:09:46
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61-TUF8AgXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-TUF8AgXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WCNPMWL

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KK7V9JN - Ofertón en Amazon para ELEGIANT Mini LED Luz USB con Altavoz Bl'
+title: 'ELEGIANT Mini LED Luz USB con Altavoz Bl'
 date: 2020-01-07 11:13:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41y0%2BYvq6aL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y0%2BYvq6aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

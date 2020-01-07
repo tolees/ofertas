@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01DK8EFSG: Ahorra en Habor Cocina  Digital Termometro de Horn'
+title: 'Habor Cocina  Digital Termometro de Horn'
 date: 2019/12/29 10:33:15 +0000
 comments: true
-image: 'None._SL200_'
+thumbnailImage: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B01DK8EFSG

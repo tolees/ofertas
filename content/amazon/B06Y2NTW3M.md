@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06Y2NTW3M - Ofertón en Amazon para VIEWEE - Detector de Metales para Jóvene'
+title: 'VIEWEE - Detector de Metales para Jóvene'
 date: 2019/12/24 07:02:20 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uuxzygU1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uuxzygU1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QGD5BRC: Ahorra en Roc Soleil - Pack Ahorro con Neceser de '
+title: 'Roc Soleil - Pack Ahorro con Neceser de '
 date: 2020-01-06 14:43:00
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51gEjqMAZiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gEjqMAZiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QGD5BRC

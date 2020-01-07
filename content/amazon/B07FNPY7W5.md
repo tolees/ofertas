@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FNPY7W5: Rebaja en The North Face W TBL Sport Jkt Chaqueta  en Amazon'
+title: 'The North Face W TBL Sport Jkt Chaqueta '
 date: 2019/12/15 16:46:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dqya-KTHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dqya-KTHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNPY7W5

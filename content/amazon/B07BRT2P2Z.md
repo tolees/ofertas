@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BRT2P2Z: Rebaja en Asics Kanmei 2  Zapatillas de Running pa en Amazon'
+title: 'Asics Kanmei 2  Zapatillas de Running pa'
 date: 2020-01-05 23:22:32
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BRT2P2Z

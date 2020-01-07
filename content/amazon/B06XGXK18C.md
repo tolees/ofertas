@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06XGXK18C - Ofertón en Amazon para Funko Pop Disney Cars 3 13242 Cruz Ramir'
+title: 'Funko Pop Disney Cars 3 13242 Cruz Ramir'
 date: 2019/12/14 23:00:36 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413o6zR6TML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413o6zR6TML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

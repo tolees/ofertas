@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FPJM3V1: Rebaja en Bovon Soporte Movil Bicicleta  Anti Vibr en Amazon'
+title: 'Bovon Soporte Movil Bicicleta  Anti Vibr'
 date: 2019/12/20 11:22:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41m3dRoC7BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m3dRoC7BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FPJM3V1

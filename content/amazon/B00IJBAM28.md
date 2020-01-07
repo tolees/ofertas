@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00IJBAM28: Rebaja en Sweet Art - Cupcakes  Juego para cocinar en Amazon'
+title: 'Sweet Art - Cupcakes  Juego para cocinar'
 date: 2019/12/30 14:45:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51SPMr2ChvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SPMr2ChvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00IJBAM28

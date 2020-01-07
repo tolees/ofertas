@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004V6QOOA: Rebaja en Saica Hinchable  Azul en Amazon'
+title: 'Saica Hinchable  Azul'
 date: 2019/12/28 20:15:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S0sAHKyPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S0sAHKyPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004V6QOOA

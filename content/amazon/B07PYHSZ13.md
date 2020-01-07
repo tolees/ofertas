@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PYHSZ13: Rebaja en Liu Jo A19066E0002 Bolso de baldolera Ac en Amazon'
+title: 'Liu Jo A19066E0002 Bolso de baldolera Ac'
 date: 2020-01-04 10:07:55
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DUO4kj5xL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DUO4kj5xL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PYHSZ13

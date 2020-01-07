@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07N1GTSCT - Ofertón en Amazon para Exquisite Gaming MMFTSW300085 Meta Merch'
+title: 'Exquisite Gaming MMFTSW300085 Meta Merch'
 date: 2019/12/20 21:25:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wlXnyx8UL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wlXnyx8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

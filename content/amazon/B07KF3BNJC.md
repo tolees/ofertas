@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KF3BNJC: Rebaja en Levi s Graphic Set-in Neck  Camiseta par en Amazon'
+title: 'Levi s Graphic Set-in Neck  Camiseta par'
 date: 2019/12/29 11:28:52 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KF3BNJC

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07SLK5XZ3 - Ofertón en Amazon para adidas Deerupt Runner  Zapatillas de Gim'
+title: 'adidas Deerupt Runner  Zapatillas de Gim'
 date: 2019/12/18 20:28:44 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4112CHt8KKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4112CHt8KKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

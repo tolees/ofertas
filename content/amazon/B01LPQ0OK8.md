@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01LPQ0OK8 - Ofertón en Amazon para L Oréal Paris Arcillas Puras Mascarilla '
+title: 'L Oréal Paris Arcillas Puras Mascarilla '
 date: 2020-01-04 15:42:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31bU0eVISFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bU0eVISFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

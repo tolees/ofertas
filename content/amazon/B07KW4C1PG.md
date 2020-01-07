@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KW4C1PG: Ahorra en INTEY 3 N1 Detector de Pared  Metal Stud'
+title: 'INTEY 3 N1 Detector de Pared  Metal Stud'
 date: 2020-01-01 19:20:27
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9eQqSfUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9eQqSfUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KW4C1PG

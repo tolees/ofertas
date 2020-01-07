@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07TDLXG26 - Ofertón en Amazon para Quiksilver Motherfly Flannel-Camisa De M'
+title: 'Quiksilver Motherfly Flannel-Camisa De M'
 date: 2019/12/28 18:05:34 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UuHL7R9DL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UuHL7R9DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

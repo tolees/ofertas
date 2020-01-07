@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07R7VBSC4: Rebaja en PUMA Originals Backpack Trend Mochilla   en Amazon'
+title: 'PUMA Originals Backpack Trend Mochilla  '
 date: 2019/12/16 10:27:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4134vR8VQpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4134vR8VQpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R7VBSC4

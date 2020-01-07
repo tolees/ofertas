@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QB3YX5B - Ofertón en Amazon para Skagen Reloj Analógico para Unisex Adult'
+title: 'Skagen Reloj Analógico para Unisex Adult'
 date: 2020-01-01 12:43:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/310BHkT1i1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310BHkT1i1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

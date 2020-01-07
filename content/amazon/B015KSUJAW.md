@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B015KSUJAW - Ofertón en Amazon para NNJXD Vestido de Fiesta de Princesa con '
+title: 'NNJXD Vestido de Fiesta de Princesa con '
 date: 2020-01-06 22:21:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51t4sNcDvyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t4sNcDvyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

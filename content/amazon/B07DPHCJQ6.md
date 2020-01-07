@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DPHCJQ6: Rebaja en Wolfenstein Youngblood - Edición Deluxe  en Amazon'
+title: 'Wolfenstein Youngblood - Edición Deluxe '
 date: 2019/12/23 18:14:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TqV83lErL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TqV83lErL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DPHCJQ6

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0713YJWMH: Ahorra en SELECTED HOMME Shnslim-Leon 1001 St JNS '
+title: 'SELECTED HOMME Shnslim-Leon 1001 St JNS '
 date: 2019/12/21 10:52:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vJFv2LAvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vJFv2LAvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0713YJWMH

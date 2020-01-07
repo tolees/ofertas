@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JWJQYPJ: Ahorra en Samsung Galaxy A9  Single SIM  128GB 6.3'
+title: 'Samsung Galaxy A9  Single SIM  128GB 6.3'
 date: 2019/12/29 14:48:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31TQXsqwjeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TQXsqwjeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JWJQYPJ

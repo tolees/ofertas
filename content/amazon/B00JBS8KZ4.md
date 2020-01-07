@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00JBS8KZ4: Ahorra en uhlsport Match Classic - Chaqueta  Color'
+title: 'uhlsport Match Classic - Chaqueta  Color'
 date: 2019/12/16 08:01:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414TUgIoXiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414TUgIoXiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JBS8KZ4

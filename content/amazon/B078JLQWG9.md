@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078JLQWG9: Ahorra en Timex Reloj Analógico para Hombre de Cua'
+title: 'Timex Reloj Analógico para Hombre de Cua'
 date: 2020-01-04 01:33:27
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOqMWfCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOqMWfCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078JLQWG9

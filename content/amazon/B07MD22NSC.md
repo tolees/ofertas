@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MD22NSC: Ahorra en Le Coq Sportif COURTSTAR Craft  Zapatill'
+title: 'Le Coq Sportif COURTSTAR Craft  Zapatill'
 date: 2019/12/23 15:50:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31iz4j72ayL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iz4j72ayL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MD22NSC

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HF1S3CZ: Rebaja en ZOORE Soporte Teléfono Coche para Salpic en Amazon'
+title: 'ZOORE Soporte Teléfono Coche para Salpic'
 date: 2019/12/12 12:26:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/510gweIrINL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510gweIrINL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HF1S3CZ

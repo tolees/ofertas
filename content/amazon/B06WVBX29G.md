@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06WVBX29G: Ahorra en Wilson B Shoulder W Sudadera  Niños  Mul'
+title: 'Wilson B Shoulder W Sudadera  Niños  Mul'
 date: 2019/12/18 12:32:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DwYi9PBrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DwYi9PBrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06WVBX29G

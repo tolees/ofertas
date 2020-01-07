@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0793TFZVR: Rebaja en deAO Centro Médico y Enfermería Set de D en Amazon'
+title: 'deAO Centro Médico y Enfermería Set de D'
 date: 2019/12/20 08:27:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51f%2BEyVXV0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f%2BEyVXV0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0793TFZVR

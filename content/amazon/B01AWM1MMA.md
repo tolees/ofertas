@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01AWM1MMA - Ofertón en Amazon para Collar con colgante en forma de copo de '
+title: 'Collar con colgante en forma de copo de '
 date: 2019/12/29 01:16:56 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wqjFlEyGL._SL200_.jpg'
 comments: true
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wqjFlEyGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AWM1MMA
@@ -13,10 +13,10 @@ comparePrice: 24.66 EUR
 inStock: true
 ---
 
-Tienes [Collar con colgante en forma de copo de nieve de cristal  inspirado en Frozen](https://www.amazon.com/dp/B01AWM1MMA/?tag=redken08-20) a precio de oferta de 15.38 EUR (original: 24.66 EUR) en el siguiente enlace!
+Está [Collar con colgante en forma de copo de nieve de cristal  inspirado en Frozen](https://www.amazon.com/dp/B01AWM1MMA/?tag=redken08-20) por 15.38 EUR (original: 24.66 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wqjFlEyGL._SL200_.jpg)](https://www.amazon.com/dp/B01AWM1MMA/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01AWM1MMA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01AWM1MMA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

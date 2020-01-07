@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07P7KKCNQ: Rebaja en Playmobil 70076 Movie Toy  Multicolor  O en Amazon'
+title: 'Playmobil 70076 Movie Toy  Multicolor  O'
 date: 2019/12/27 09:00:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51z8eoFt89L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z8eoFt89L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P7KKCNQ

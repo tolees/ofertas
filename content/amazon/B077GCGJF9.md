@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077GCGJF9: Ahorra en find. AMZ129 Botas Desert  Gris  Stone  '
+title: 'find. AMZ129 Botas Desert  Gris  Stone  '
 date: 2019/12/24 09:44:00 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31iaQWlRMRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iaQWlRMRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077GCGJF9

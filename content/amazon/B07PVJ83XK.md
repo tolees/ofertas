@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PVJ83XK - Ofertón en Amazon para Tronsmart Groove Altavoz Exterior Blueto'
+title: 'Tronsmart Groove Altavoz Exterior Blueto'
 date: 2020-01-06 00:46:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ub%2BiClBgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ub%2BiClBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

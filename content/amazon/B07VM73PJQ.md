@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VM73PJQ: Ahorra en edc by Esprit 099cc1k048 Camisa Manga La'
+title: 'edc by Esprit 099cc1k048 Camisa Manga La'
 date: 2019/12/24 08:06:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31wSoo0L3hL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wSoo0L3hL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VM73PJQ

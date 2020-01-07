@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074Q5BLSL: Rebaja en MERAKI Pantalones Capri Mujer  Gris  Mar en Amazon'
+title: 'MERAKI Pantalones Capri Mujer  Gris  Mar'
 date: 2019/12/25 07:24:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31TLujMt4TL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TLujMt4TL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074Q5BLSL

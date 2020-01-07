@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MYAXRPE: Ahorra en Garmin DriveSmart 51 Western EU LMT-S - '
+title: 'Garmin DriveSmart 51 Western EU LMT-S - '
 date: 2019/12/23 15:12:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/516Me%2BgH6lL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Me%2BgH6lL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MYAXRPE

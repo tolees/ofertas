@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01G6DGSB4: Rebaja en Utensilios barbacoa  Blusmart Juego de u en Amazon'
+title: 'Utensilios barbacoa  Blusmart Juego de u'
 date: 2020-01-06 09:15:44
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01G6DGSB4

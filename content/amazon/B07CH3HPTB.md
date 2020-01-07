@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CH3HPTB: Rebaja en PUTUO Mujer cinco dedos calcetines de de en Amazon'
+title: 'PUTUO Mujer cinco dedos calcetines de de'
 date: 2019/12/14 18:10:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517S0z00TuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517S0z00TuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CH3HPTB

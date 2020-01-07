@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LGR1TF1 - Ofertón en Amazon para iEFiEL Damen Prinzessin Kostüm Königin P'
+title: 'iEFiEL Damen Prinzessin Kostüm Königin P'
 date: 2020-01-03 22:56:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4180WYdOIYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4180WYdOIYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

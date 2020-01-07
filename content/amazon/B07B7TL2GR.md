@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07B7TL2GR: Ahorra en SAGE SJE520 the Nutri Juicer Plus Entsaf'
+title: 'SAGE SJE520 the Nutri Juicer Plus Entsaf'
 date: 2019/12/17 21:47:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ihSGlb0rL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ihSGlb0rL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B7TL2GR

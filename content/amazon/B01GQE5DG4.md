@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01GQE5DG4: Ahorra en Marantz CD6006/N1SG CD-Player  geeignet '
+title: 'Marantz CD6006/N1SG CD-Player  geeignet '
 date: 2019/12/14 12:27:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31jDHNhzc3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jDHNhzc3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01GQE5DG4

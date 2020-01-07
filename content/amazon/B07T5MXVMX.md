@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07T5MXVMX - Ofertón en Amazon para Fossil Reloj Analógico para Hombre de Cu'
+title: 'Fossil Reloj Analógico para Hombre de Cu'
 date: 2019/12/18 00:03:37 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zlnK6Ky-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zlnK6Ky-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

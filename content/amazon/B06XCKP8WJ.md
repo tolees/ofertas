@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XCKP8WJ: Rebaja en Huion KAMVAS GT-191 Tabletas gráficas de en Amazon'
+title: 'Huion KAMVAS GT-191 Tabletas gráficas de'
 date: 2019/12/18 04:22:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BBg-ECYzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BBg-ECYzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XCKP8WJ

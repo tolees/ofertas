@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MSKXW68 - Ofertón en Amazon para Celtic FC - Bolsa de cuerdas  44 x 33cm/'
+title: 'Celtic FC - Bolsa de cuerdas  44 x 33cm/'
 date: 2019/12/15 11:31:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51SrWqlXabL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SrWqlXabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BWRWMZL - Ofertón en Amazon para Glamorise MagicLift Full Figure Support '
+title: 'Glamorise MagicLift Full Figure Support '
 date: 2019/12/17 15:32:54 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ldkihr6fL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ldkihr6fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

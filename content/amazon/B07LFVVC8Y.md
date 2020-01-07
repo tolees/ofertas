@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LFVVC8Y: Ahorra en Geox J Pavel Girl B  Zapatillas para Niñ'
+title: 'Geox J Pavel Girl B  Zapatillas para Niñ'
 date: 2019/12/14 21:12:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xKRLWhXWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xKRLWhXWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFVVC8Y

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PDHSPXT - Ofertón en Amazon para Echo Dot  3.ª generación  - Altavoz inte'
+title: 'Echo Dot  3.ª generación  - Altavoz inte'
 date: 2020-01-02 22:58:52
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410NAOZ6TML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410NAOZ6TML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

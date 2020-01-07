@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073QN7WKD: Rebaja en find. Chaqueta Efecto Cuero para Hombre  en Amazon'
+title: 'find. Chaqueta Efecto Cuero para Hombre '
 date: 2019/12/29 20:39:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073QN7WKD

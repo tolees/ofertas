@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FNWJ12V: Rebaja en LEGO Star Wars 75241 - Action Battle  Ba en Amazon'
+title: 'LEGO Star Wars 75241 - Action Battle  Ba'
 date: 2019/12/11 19:17:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51gxZl-GEtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gxZl-GEtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNWJ12V

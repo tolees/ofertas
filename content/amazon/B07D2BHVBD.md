@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07D2BHVBD: Ahorra en Caja Disco Duro Externo 2.5"  UGREEN Car'
+title: 'Caja Disco Duro Externo 2.5"  UGREEN Car'
 date: 2020-01-06 21:05:08
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311sIjV7iHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311sIjV7iHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D2BHVBD

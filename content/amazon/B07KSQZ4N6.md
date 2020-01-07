@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KSQZ4N6: Ahorra en Columbia Inner Limits Chaqueta para Lluv'
+title: 'Columbia Inner Limits Chaqueta para Lluv'
 date: 2019/12/22 14:47:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KSQZ4N6

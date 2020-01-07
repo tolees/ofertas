@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TJ3SNM1: Rebaja en Cámara de Video Videocámara Full HD 1080 en Amazon'
+title: 'Cámara de Video Videocámara Full HD 1080'
 date: 2019/12/31 09:12:34 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vlRwtWhaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vlRwtWhaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TJ3SNM1

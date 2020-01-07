@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BFFQZZP - Ofertón en Amazon para G-Star 3301 Shirt L/s Camisa Vaquera  Az'
+title: 'G-Star 3301 Shirt L/s Camisa Vaquera  Az'
 date: 2019/12/24 14:14:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lXmXEtmUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lXmXEtmUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

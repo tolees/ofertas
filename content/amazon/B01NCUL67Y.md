@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01NCUL67Y - Ofertón en Amazon para dockers Alpha Original Khaki Slim Tapere'
+title: 'dockers Alpha Original Khaki Slim Tapere'
 date: 2019/12/20 14:56:47 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

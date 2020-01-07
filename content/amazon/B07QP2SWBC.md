@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QP2SWBC - Ofertón en Amazon para find. Belk073m5 calzoncillos hombre  Mul'
+title: 'find. Belk073m5 calzoncillos hombre  Mul'
 date: 2019/12/24 11:05:30 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hi6Ux%2BcGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hi6Ux%2BcGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

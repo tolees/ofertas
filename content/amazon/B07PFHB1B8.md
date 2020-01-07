@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PFHB1B8: Rebaja en Kit de 48 Tubos de Pintura Acrílica  12m en Amazon'
+title: 'Kit de 48 Tubos de Pintura Acrílica  12m'
 date: 2019-12-31 17:06:03
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51lDu9p48KL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lDu9p48KL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PFHB1B8

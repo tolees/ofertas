@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07J34TNPQ: Ahorra en Funko- Pop Bobble Marvel Studios 10: Doc'
+title: 'Funko- Pop Bobble Marvel Studios 10: Doc'
 date: 2019/12/14 09:38:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51kUnGpAA5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kUnGpAA5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J34TNPQ

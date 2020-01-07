@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073X1VSNS: Ahorra en Eastpak Padded Pak R Mochila  24 L  Azul'
+title: 'Eastpak Padded Pak R Mochila  24 L  Azul'
 date: 2019/12/13 20:21:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41STY-rnTyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41STY-rnTyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073X1VSNS

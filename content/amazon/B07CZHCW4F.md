@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CZHCW4F: Rebaja en Asics Gel-Lyte  Zapatillas Unisex Niños  en Amazon'
+title: 'Asics Gel-Lyte  Zapatillas Unisex Niños '
 date: 2019/12/18 22:07:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CZHCW4F

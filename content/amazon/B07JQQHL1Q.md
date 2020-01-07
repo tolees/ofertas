@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JQQHL1Q: Ahorra en iiniim Damen Festlich Kleid Königin Prin'
+title: 'iiniim Damen Festlich Kleid Königin Prin'
 date: 2020-01-04 06:18:27
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NKzqavQrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NKzqavQrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JQQHL1Q

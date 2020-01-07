@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MFGPCJZ - Ofertón en Amazon para Mardozon 14 Piezas Correas Xiaomi Mi Ban'
+title: 'Mardozon 14 Piezas Correas Xiaomi Mi Ban'
 date: 2019-12-31 18:38:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Tjmy2hQ3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Tjmy2hQ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

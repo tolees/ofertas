@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KYZ8JSD - Ofertón en Amazon para Springfield 4.Pc.Ap.Nautica.Texto Cor  C'
+title: 'Springfield 4.Pc.Ap.Nautica.Texto Cor  C'
 date: 2019/12/20 16:24:16 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rgK-K3MML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rgK-K3MML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

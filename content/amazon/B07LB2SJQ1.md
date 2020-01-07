@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LB2SJQ1: Ahorra en Yacikos Luz Solar Exterior 82 LED  Foco '
+title: 'Yacikos Luz Solar Exterior 82 LED  Foco '
 date: 2019/12/29 07:46:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519M6oFTghL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519M6oFTghL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LB2SJQ1

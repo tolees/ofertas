@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00BBTIONE - Ofertón en Amazon para Bombay Sapphire London Dry Gin  1 x 1 l '
+title: 'Bombay Sapphire London Dry Gin  1 x 1 l '
 date: 2019/12/16 16:41:46 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41I63001u3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I63001u3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

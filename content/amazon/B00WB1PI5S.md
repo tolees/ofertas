@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00WB1PI5S: Ahorra en DeWalt XR Akku-Schlagschrauber DCF899NT '
+title: 'DeWalt XR Akku-Schlagschrauber DCF899NT '
 date: 2020-01-02 10:22:25
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wmJxltjHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00WB1PI5S

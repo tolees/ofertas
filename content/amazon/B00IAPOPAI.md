@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00IAPOPAI - Ofertón en Amazon para Kärcher Mehrzwecksauger WD 3 Premium  Be'
+title: 'Kärcher Mehrzwecksauger WD 3 Premium  Be'
 date: 2020-01-02 20:44:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311F7wuTMnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311F7wuTMnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

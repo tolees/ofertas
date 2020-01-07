@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JH4GD4T: Rebaja en Eono Essentials - Chaqueta de esquí híbr en Amazon'
+title: 'Eono Essentials - Chaqueta de esquí híbr'
 date: 2020-01-03 08:06:58
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JH4GD4T

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DVJYPWF: Ahorra en New Balance Fresh Foam Roav   Zapatillas'
+title: 'New Balance Fresh Foam Roav   Zapatillas'
 date: 2019/12/31 12:41:43 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KTAX8N1qL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KTAX8N1qL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DVJYPWF

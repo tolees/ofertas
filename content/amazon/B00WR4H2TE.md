@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00WR4H2TE: Ahorra en L Oréal Paris Barra de Labios Color Rich'
+title: 'L Oréal Paris Barra de Labios Color Rich'
 date: 2019/12/18 02:25:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31wsmWfgBQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wsmWfgBQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00WR4H2TE

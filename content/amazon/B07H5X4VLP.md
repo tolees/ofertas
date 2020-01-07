@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H5X4VLP: Ahorra en AmazonBasics - Espejo de doble cara para'
+title: 'AmazonBasics - Espejo de doble cara para'
 date: 2019/12/30 19:11:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41avdQJ80XL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41avdQJ80XL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H5X4VLP

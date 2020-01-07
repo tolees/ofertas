@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072DS3PDW: Rebaja en SELECTED HOMME Shharo Ss Embroidery Polo en Amazon'
+title: 'SELECTED HOMME Shharo Ss Embroidery Polo'
 date: 2019/12/31 08:25:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41viAQtJXqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41viAQtJXqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072DS3PDW

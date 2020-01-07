@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B003NE4USI: Rebaja en BLACK+DECKER A7063-QZ - Kit de 76 herram en Amazon'
+title: 'BLACK+DECKER A7063-QZ - Kit de 76 herram'
 date: 2019/12/19 21:08:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YJNGVUYbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YJNGVUYbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B003NE4USI

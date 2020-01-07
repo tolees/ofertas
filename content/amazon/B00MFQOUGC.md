@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00MFQOUGC - Ofertón en Amazon para Tectonic  - Reloj Analógico de Cuarzo pa'
+title: 'Tectonic  - Reloj Analógico de Cuarzo pa'
 date: 2020-01-07 13:48:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411g5%2B5gDGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411g5%2B5gDGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

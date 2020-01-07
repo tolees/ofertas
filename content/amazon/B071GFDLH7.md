@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B071GFDLH7 - Ofertón en Amazon para find. Zapatillas Deportivas con Textura '
+title: 'find. Zapatillas Deportivas con Textura '
 date: 2019/12/23 12:00:59 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ldW3xZcTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ldW3xZcTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

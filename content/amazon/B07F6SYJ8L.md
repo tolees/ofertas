@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F6SYJ8L: Ahorra en Salomon Agile Belt Set Riñonera de hidra'
+title: 'Salomon Agile Belt Set Riñonera de hidra'
 date: 2019/12/13 10:15:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41TA8tzienL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TA8tzienL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F6SYJ8L

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SYVJN7B: Rebaja en s.Oliver Jungen 61.908.31.8710 Langarmsh en Amazon'
+title: 's.Oliver Jungen 61.908.31.8710 Langarmsh'
 date: 2019/12/17 07:16:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410DDutNPRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410DDutNPRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SYVJN7B

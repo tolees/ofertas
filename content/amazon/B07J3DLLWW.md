@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J3DLLWW - Ofertón en Amazon para Under Armour  UNDKU Tech Camisa Polo  Ho'
+title: 'Under Armour  UNDKU Tech Camisa Polo  Ho'
 date: 2019/12/11 15:40:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rEMyG%2BSCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rEMyG%2BSCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

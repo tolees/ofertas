@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N1GN4SL: Ahorra en Clarks Sillian2.0pace  Zapatillas para M'
+title: 'Clarks Sillian2.0pace  Zapatillas para M'
 date: 2019/12/18 18:22:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31v-Y2YO5kL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v-Y2YO5kL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N1GN4SL

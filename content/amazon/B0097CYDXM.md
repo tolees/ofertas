@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0097CYDXM: Rebaja en Dremel Moto-Saw MS20 - Sierra de calar e en Amazon'
+title: 'Dremel Moto-Saw MS20 - Sierra de calar e'
 date: 2019/12/23 15:24:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41b-FLhATOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b-FLhATOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0097CYDXM

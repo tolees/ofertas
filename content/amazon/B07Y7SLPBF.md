@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07Y7SLPBF - Ofertón en Amazon para X-EUCO Calentador de Manos  Hieha 7800mA'
+title: 'X-EUCO Calentador de Manos  Hieha 7800mA'
 date: 2019/12/31 10:22:53 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hvFRP92mL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hvFRP92mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

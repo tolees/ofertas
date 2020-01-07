@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N9JOCR1: Rebaja en find. Falda Plisada de Encaje para Mujer en Amazon'
+title: 'find. Falda Plisada de Encaje para Mujer'
 date: 2020-01-07 12:00:08
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410%2BPDwU6fL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410%2BPDwU6fL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N9JOCR1

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07K3FNMBT - Ofertón en Amazon para The Dark Pictures: Man Of Medan for Xbox'
+title: 'The Dark Pictures: Man Of Medan for Xbox'
 date: 2019/12/18 14:57:06 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517loSX4vML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517loSX4vML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

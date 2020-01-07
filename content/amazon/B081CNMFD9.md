@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B081CNMFD9: Ahorra en Geographical Norway Parka Hombre Boomera'
+title: 'Geographical Norway Parka Hombre Boomera'
 date: 2019/12/16 12:29:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081CNMFD9

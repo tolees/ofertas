@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FNN17DK: Ahorra en Lego 60207 City Polizei Drohnenjagd  bun'
+title: 'Lego 60207 City Polizei Drohnenjagd  bun'
 date: 2020-01-03 22:57:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51gNDDfCPML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gNDDfCPML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNN17DK

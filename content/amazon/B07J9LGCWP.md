@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J9LGCWP - Ofertón en Amazon para Skechers Side Street-Sunset Walks  Zapat'
+title: 'Skechers Side Street-Sunset Walks  Zapat'
 date: 2020-01-05 11:16:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/312udNo7b2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312udNo7b2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

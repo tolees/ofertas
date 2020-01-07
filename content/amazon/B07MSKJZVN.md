@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MSKJZVN: Ahorra en Clarks - Botines de Cuero Hombre  Color '
+title: 'Clarks - Botines de Cuero Hombre  Color '
 date: 2019/12/11 16:00:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MSKJZVN

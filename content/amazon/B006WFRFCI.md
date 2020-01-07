@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B006WFRFCI - Ofertón en Amazon para Nike 3PPK Value Cotton Crew - Calcetines'
+title: 'Nike 3PPK Value Cotton Crew - Calcetines'
 date: 2019/12/29 12:44:53 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517PfF0RGKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517PfF0RGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

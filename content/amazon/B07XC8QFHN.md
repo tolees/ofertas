@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XC8QFHN - Ofertón en Amazon para Caja de Regalo Antiedad de Lujo Orgánico'
+title: 'Caja de Regalo Antiedad de Lujo Orgánico'
 date: 2019/12/27 13:39:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51l1EtOALzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l1EtOALzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DDG17CQ - Ofertón en Amazon para Antirrobo Mochila para Portátil  Imperme'
+title: 'Antirrobo Mochila para Portátil  Imperme'
 date: 2019/12/22 02:07:22 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PUqdIM48L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PUqdIM48L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

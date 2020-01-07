@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01CS4TNQC: Rebaja en TerraMaster D2-310 USB Tipo C Disco Duro en Amazon'
+title: 'TerraMaster D2-310 USB Tipo C Disco Duro'
 date: 2019-12-31 20:21:36
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51t-jNTBf-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t-jNTBf-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CS4TNQC

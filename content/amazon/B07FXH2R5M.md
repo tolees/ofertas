@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FXH2R5M: Rebaja en Multímetro Digital Profesional  LOMVUM T en Amazon'
-date: 2020-01-02 10:39:09
+title: 'Multímetro Digital Profesional  LOMVUM T'
+date: 2020-01-07 16:06:51
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51RHxqaj3AL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RHxqaj3AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FXH2R5M

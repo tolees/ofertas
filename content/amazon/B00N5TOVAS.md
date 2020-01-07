@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00N5TOVAS: Ahorra en Medisana HU 665 Calientacamas  150 x 80 '
+title: 'Medisana HU 665 Calientacamas  150 x 80 '
 date: 2020-01-04 16:11:03
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqHYn0tL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqHYn0tL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00N5TOVAS

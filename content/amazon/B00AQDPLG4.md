@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00AQDPLG4: Ahorra en LŽOréal Paris Make Up Artist Pintalabios'
+title: 'LŽOréal Paris Make Up Artist Pintalabios'
 date: 2019/12/30 19:19:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21lTRVy9L7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21lTRVy9L7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00AQDPLG4

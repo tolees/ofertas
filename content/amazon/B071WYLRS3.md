@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071WYLRS3: Ahorra en find. Botas de Cordones para Mujer  Rojo'
+title: 'find. Botas de Cordones para Mujer  Rojo'
 date: 2019/12/23 13:34:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CBkyw62pL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CBkyw62pL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WYLRS3

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TZQJKNH: Rebaja en Finether Carretilla Plegable  Carro de T en Amazon'
+title: 'Finether Carretilla Plegable  Carro de T'
 date: 2019/12/29 13:32:24 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dQStT4sWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQStT4sWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TZQJKNH

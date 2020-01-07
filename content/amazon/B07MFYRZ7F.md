@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MFYRZ7F - Ofertón en Amazon para Ferilinso Cristal Templado para Xiaomi M'
+title: 'Ferilinso Cristal Templado para Xiaomi M'
 date: 2019/12/29 16:14:45 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51WQhTx5KfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WQhTx5KfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

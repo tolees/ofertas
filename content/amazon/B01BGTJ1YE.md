@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01BGTJ1YE: Rebaja en G-STAR RAW 3301 Tapered Vaqueros para Ho en Amazon'
+title: 'G-STAR RAW 3301 Tapered Vaqueros para Ho'
 date: 2019/12/21 20:55:43 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31AalU92FmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AalU92FmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BGTJ1YE

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077HWRCLR: Rebaja en find. MDR 40621 vestidos mujer  Azul  Bl en Amazon'
+title: 'find. MDR 40621 vestidos mujer  Azul  Bl'
 date: 2020-01-06 13:34:08
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077HWRCLR

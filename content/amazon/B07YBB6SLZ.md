@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07YBB6SLZ: Ahorra en Lsnisni Estilo de Cadena de Acero Inoxid'
+title: 'Lsnisni Estilo de Cadena de Acero Inoxid'
 date: 2019/12/12 16:46:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41r2ycqEDbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r2ycqEDbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YBB6SLZ

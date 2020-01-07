@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DFCTM4Y: Rebaja en Funko 32186 POP Vinyl: Disney 90th Anniv en Amazon'
+title: 'Funko 32186 POP Vinyl: Disney 90th Anniv'
 date: 2020-01-01 22:17:06
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BMlzNuIpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BMlzNuIpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFCTM4Y

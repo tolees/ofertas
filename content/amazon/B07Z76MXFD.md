@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Z76MXFD: Rebaja en Pantalla de Proyector de 100 Pulgadas  P en Amazon'
+title: 'Pantalla de Proyector de 100 Pulgadas  P'
 date: 2019/12/25 10:54:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51x4QTe48QL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51x4QTe48QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Z76MXFD

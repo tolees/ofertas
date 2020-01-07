@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CTB2K7D - Ofertón en Amazon para Skechers Bobs Squad Total Glam 32502  Za'
+title: 'Skechers Bobs Squad Total Glam 32502  Za'
 date: 2019/12/30 18:33:29 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31SYXd-5VxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SYXd-5VxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

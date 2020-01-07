@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FNFPQP9 - Ofertón en Amazon para Clarks Cloud Air T  Zapatillas Altas par'
+title: 'Clarks Cloud Air T  Zapatillas Altas par'
 date: 2020-01-06 10:28:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41muLzZRaeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41muLzZRaeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

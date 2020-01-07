@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FQDGRP4: Ahorra en Relojes para Hombre Acero Inoxidable Imp'
+title: 'Relojes para Hombre Acero Inoxidable Imp'
 date: 2020-01-03 12:34:49
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hnVvAP9iL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hnVvAP9iL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FQDGRP4

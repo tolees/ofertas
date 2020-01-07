@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07D3R6MSF: Rebaja en Sharp LC-55UI8762ES - Smart TV 55" 4K Ul en Amazon'
+title: 'Sharp LC-55UI8762ES - Smart TV 55" 4K Ul'
 date: 2019/12/18 15:08:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51qvMjascdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qvMjascdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D3R6MSF

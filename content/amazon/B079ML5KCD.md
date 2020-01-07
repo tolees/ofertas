@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B079ML5KCD - Ofertón en Amazon para MERAKI Camiseta Slim Fit de Manga Corta '
+title: 'MERAKI Camiseta Slim Fit de Manga Corta '
 date: 2019/12/25 12:01:58 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31v7NULUYFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v7NULUYFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

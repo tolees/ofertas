@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000UDNRT8: Rebaja en Eastpak Doggy Bag Riñonera  27 cm  3 L   en Amazon'
+title: 'Eastpak Doggy Bag Riñonera  27 cm  3 L  '
 date: 2019/12/18 20:55:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zCaUGRGOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zCaUGRGOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000UDNRT8

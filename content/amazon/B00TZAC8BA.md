@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00TZAC8BA - Ofertón en Amazon para uhlsport Stream 3.0 Ml Camiseta De Juego'
+title: 'uhlsport Stream 3.0 Ml Camiseta De Juego'
 date: 2019/12/30 12:34:49 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41L5erFddnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L5erFddnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B074WXQ4YR - Ofertón en Amazon para find. Pantalón de Traje Ajustado Hombre '
+title: 'find. Pantalón de Traje Ajustado Hombre '
 date: 2019/12/20 09:50:31 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ITlV9OKxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ITlV9OKxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

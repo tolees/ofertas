@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00G7JVOOO: Ahorra en Caterpillar Cat Holton Botas de trabajo '
+title: 'Caterpillar Cat Holton Botas de trabajo '
 date: 2019/12/23 16:36:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ojlq77NpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ojlq77NpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00G7JVOOO

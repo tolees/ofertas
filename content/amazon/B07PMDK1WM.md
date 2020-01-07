@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PMDK1WM: Ahorra en Medela Swing Flex 2-Phase - Extractor de'
+title: 'Medela Swing Flex 2-Phase - Extractor de'
 date: 2020-01-05 09:18:34
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PUw7i1o0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PUw7i1o0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PMDK1WM

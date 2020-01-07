@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00KOUALMS - Ofertón en Amazon para El Mejor Suero Vitamina C Para la Cara c'
+title: 'El Mejor Suero Vitamina C Para la Cara c'
 date: 2019/12/30 01:01:48 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PmAeWYmOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PmAeWYmOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

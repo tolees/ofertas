@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QTZFH38: Rebaja en Asics Gel-Nimbus 21  Zapatillas de Runni en Amazon'
+title: 'Asics Gel-Nimbus 21  Zapatillas de Runni'
 date: 2020-01-05 18:23:03
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MvnIdsslL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MvnIdsslL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QTZFH38

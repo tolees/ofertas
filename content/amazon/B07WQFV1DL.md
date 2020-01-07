@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WQFV1DL: Ahorra en Kuako Zapatillas de Estar por casa con F'
+title: 'Kuako Zapatillas de Estar por casa con F'
 date: 2019/12/25 17:34:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4125BG9Kt-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4125BG9Kt-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WQFV1DL

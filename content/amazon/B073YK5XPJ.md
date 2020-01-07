@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073YK5XPJ: Rebaja en Russell Hobbs EasyPrep 22990-56 - Batido en Amazon'
+title: 'Russell Hobbs EasyPrep 22990-56 - Batido'
 date: 2020-01-06 19:53:29
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412ryI9XvTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412ryI9XvTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073YK5XPJ

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SVZVLB7: Ahorra en LEGO Star Wars: La Saga Skywalker'
+title: 'LEGO Star Wars: La Saga Skywalker'
 date: 2019/12/17 11:16:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XQHNen6JL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XQHNen6JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SVZVLB7

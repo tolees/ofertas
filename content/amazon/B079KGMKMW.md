@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079KGMKMW: Ahorra en Lee Rider Jeans Vaqueros  Shrewd Blue  3'
+title: 'Lee Rider Jeans Vaqueros  Shrewd Blue  3'
 date: 2019/12/27 08:50:12 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixZ2EedIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ixZ2EedIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079KGMKMW

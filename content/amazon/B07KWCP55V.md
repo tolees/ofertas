@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KWCP55V: Ahorra en Lego Wear Jungen LWTIGER 650-T-SHIRT L/S'
+title: 'Lego Wear Jungen LWTIGER 650-T-SHIRT L/S'
 date: 2019/12/14 23:19:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CBbHKHj9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CBbHKHj9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KWCP55V

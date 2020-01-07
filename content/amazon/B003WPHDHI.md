@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B003WPHDHI - Ofertón en Amazon para Orlane Fermete Sérum Thermo Actif 30 ml'
+title: 'Orlane Fermete Sérum Thermo Actif 30 ml'
 date: 2019/12/15 14:56:58 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31gWEiC-vDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gWEiC-vDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

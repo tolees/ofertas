@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JM4R3YQ - Ofertón en Amazon para decool 2 en 1 Hover Craft o Lucha Avión '
+title: 'decool 2 en 1 Hover Craft o Lucha Avión '
 date: 2020-01-05 22:57:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51LLBi1YJbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LLBi1YJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

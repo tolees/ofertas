@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01ASC7QOW: Rebaja en FM London Button Fly  Bóxer para Hombre  en Amazon'
+title: 'FM London Button Fly  Bóxer para Hombre '
 date: 2019/12/17 13:44:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YoIrrHh9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YoIrrHh9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01ASC7QOW

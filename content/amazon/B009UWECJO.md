@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B009UWECJO - Ofertón en Amazon para Glenfarclas - Single Highland Malt Minia'
+title: 'Glenfarclas - Single Highland Malt Minia'
 date: 2019/12/27 12:13:34 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

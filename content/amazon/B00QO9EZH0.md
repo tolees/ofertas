@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00QO9EZH0: Rebaja en Guirnaldas Solares Luminosas de 50 LEDs  en Amazon'
+title: 'Guirnaldas Solares Luminosas de 50 LEDs '
 date: 2019/12/29 18:06:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51rvQoo4J2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rvQoo4J2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00QO9EZH0

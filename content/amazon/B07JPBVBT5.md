@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JPBVBT5 - Ofertón en Amazon para DAM. DMZ038BL. Smartwatch L2 Plus con Mo'
+title: 'DAM. DMZ038BL. Smartwatch L2 Plus con Mo'
 date: 2019/12/28 06:04:12 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Oq3P1jOuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Oq3P1jOuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00LPLJ0GI - Ofertón en Amazon para Instituto Español Desodorante Roll On de'
-date: 2020-01-06 16:27:52
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S2ofDWbNL._SL200_.jpg'
+title: 'Instituto Español Desodorante Roll On de'
+date: 2020-01-07 18:04:52
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S2ofDWbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

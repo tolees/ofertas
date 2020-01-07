@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079PGCKV4: Rebaja en FunKo  26902 Pop Bobble Marvel Proxima M en Amazon'
+title: 'FunKo  26902 Pop Bobble Marvel Proxima M'
 date: 2019/12/20 16:27:47 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51R-ncMUMIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R-ncMUMIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079PGCKV4

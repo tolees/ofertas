@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BYMG51N: Rebaja en MARSGAMING Mars Gaming MMBC - Ratón Gami en Amazon'
+title: 'MARSGAMING Mars Gaming MMBC - Ratón Gami'
 date: 2020-01-06 07:07:24
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415A3HjhYjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415A3HjhYjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BYMG51N

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01IBCJUGI: Ahorra en Tekken 7 - Standard Edition'
+title: 'Tekken 7 - Standard Edition'
 date: 2019/12/18 06:15:56 +0000
 comments: true
-image: 'None._SL200_'
+thumbnailImage: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B01IBCJUGI

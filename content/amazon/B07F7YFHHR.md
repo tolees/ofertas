@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07F7YFHHR - Ofertón en Amazon para Ferilinso Funda para Xiaomi Redmi Note 6'
+title: 'Ferilinso Funda para Xiaomi Redmi Note 6'
 date: 2020-01-02 13:25:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41c1w0vtu-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c1w0vtu-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0719QNMLW: Ahorra en NAKOSITE SB2433 Reloj inteligente mujer '
+title: 'NAKOSITE SB2433 Reloj inteligente mujer '
 date: 2019/12/28 18:59:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Hr5eGS59L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Hr5eGS59L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0719QNMLW

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HNVL57S - Ofertón en Amazon para Kami Idea Regalos Navidad Mujer Brazalet'
+title: 'Kami Idea Regalos Navidad Mujer Brazalet'
 date: 2020-01-06 16:56:40
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41F3GTpbx-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F3GTpbx-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

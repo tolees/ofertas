@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01F6X4CFE: Ahorra en Solac SD 5052 BUON Sandwich SD5052-Sandw'
+title: 'Solac SD 5052 BUON Sandwich SD5052-Sandw'
 date: 2019/12/17 20:25:30 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41q2M%2BSQH6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q2M%2BSQH6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01F6X4CFE

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DQSP2RL - Ofertón en Amazon para HUGO Reloj Analógico para Hombre de Cuar'
+title: 'HUGO Reloj Analógico para Hombre de Cuar'
 date: 2019/12/13 09:34:25 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ymkBMnugL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ymkBMnugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JMCWRKS: Rebaja en Wrangler Playsuits Mono Corto  Azul  Wor en Amazon'
+title: 'Wrangler Playsuits Mono Corto  Azul  Wor'
 date: 2019/12/30 15:06:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kUXPsglnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kUXPsglnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JMCWRKS

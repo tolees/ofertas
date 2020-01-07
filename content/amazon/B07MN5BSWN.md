@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MN5BSWN: Rebaja en Braun BT7040 - Recortadora Barba y Corta en Amazon'
+title: 'Braun BT7040 - Recortadora Barba y Corta'
 date: 2019/12/18 08:58:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nDjJFIUAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nDjJFIUAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MN5BSWN

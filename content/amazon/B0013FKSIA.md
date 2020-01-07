@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0013FKSIA - Ofertón en Amazon para Boucheron Jaipur Homme Eau de Toilette V'
+title: 'Boucheron Jaipur Homme Eau de Toilette V'
 date: 2020-01-05 07:39:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZjxPz0sL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZjxPz0sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

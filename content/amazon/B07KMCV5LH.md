@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KMCV5LH: Rebaja en Clarks Un Rio Lace  Zapatillas para Muje en Amazon'
+title: 'Clarks Un Rio Lace  Zapatillas para Muje'
 date: 2020-01-07 09:11:14
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTEYjAlDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OTEYjAlDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KMCV5LH

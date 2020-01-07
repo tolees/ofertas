@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00J5ERY7O: Ahorra en De Longhi Dolce Gusto Jovia EDG250.R - C'
+title: 'De Longhi Dolce Gusto Jovia EDG250.R - C'
 date: 2019/12/26 19:37:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411HbwBpj8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411HbwBpj8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00J5ERY7O

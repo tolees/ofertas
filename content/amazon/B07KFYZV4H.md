@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KFYZV4H: Rebaja en PUMA Storm Pulse  Zapatillas Unisex Adul en Amazon'
+title: 'PUMA Storm Pulse  Zapatillas Unisex Adul'
 date: 2020-01-05 15:42:56
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410iw7GBq1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410iw7GBq1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFYZV4H

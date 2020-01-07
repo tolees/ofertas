@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00EMKBLIY - Ofertón en Amazon para deAO Cocinita de Juguete Mi Little Chef '
+title: 'deAO Cocinita de Juguete Mi Little Chef '
 date: 2020-01-02 11:06:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51affCIdv7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51affCIdv7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

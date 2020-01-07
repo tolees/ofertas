@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FVJRGD8 - Ofertón en Amazon para Willful Smartwatch  Reloj Inteligente An'
-date: 2020-01-04 13:07:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41n-wdFRreL._SL200_.jpg'
+title: 'Willful Smartwatch  Reloj Inteligente An'
+date: 2020-01-07 16:58:59
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n-wdFRreL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QH2KPRD: Rebaja en HYLOGY Tensiómetro de Brazo  Monitor de  en Amazon'
+title: 'HYLOGY Tensiómetro de Brazo  Monitor de '
 date: 2019/12/30 19:24:00 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QH2KPRD

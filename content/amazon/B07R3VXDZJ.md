@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07R3VXDZJ - Ofertón en Amazon para Helly Hansen Lifaloft Insulator Jacket C'
+title: 'Helly Hansen Lifaloft Insulator Jacket C'
 date: 2019/12/26 14:22:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51EEISKK%2B2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EEISKK%2B2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B000NOPRBA - Ofertón en Amazon para Shimano SMMAF180PSA - Adaptador Pinza De'
+title: 'Shimano SMMAF180PSA - Adaptador Pinza De'
 date: 2019/12/14 03:10:44 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41u0yHJmwiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u0yHJmwiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

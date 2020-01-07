@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01HT9VOKO: Ahorra en Kärcher Glasreiniger-Konzentrat RM 503  '
+title: 'Kärcher Glasreiniger-Konzentrat RM 503  '
 date: 2019/12/26 12:19:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ecqHMIiBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ecqHMIiBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01HT9VOKO

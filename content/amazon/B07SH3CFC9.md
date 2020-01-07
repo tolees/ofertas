@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SH3CFC9: Ahorra en BRIKSMAX Led Lighting Kit for Lego Darth'
+title: 'BRIKSMAX Led Lighting Kit for Lego Darth'
 date: 2019/12/15 23:49:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51WUQLwfOzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WUQLwfOzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SH3CFC9

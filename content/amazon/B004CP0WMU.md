@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004CP0WMU: Rebaja en Triumph Infinite Sensation W01 Sujetador en Amazon'
+title: 'Triumph Infinite Sensation W01 Sujetador'
 date: 2019/12/25 15:25:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41aTbjpbX9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aTbjpbX9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004CP0WMU

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DCRZTHC: Rebaja en LIGHTAILING Licht-Set Für  Volkswagen T1 en Amazon'
+title: 'LIGHTAILING Licht-Set Für  Volkswagen T1'
 date: 2020-01-07 14:32:06
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519AVgi%2BfHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519AVgi%2BfHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DCRZTHC

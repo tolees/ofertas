@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DGK4WTB: Ahorra en Braun 9 en 1 MGK3085 - Corta Barbas homb'
+title: 'Braun 9 en 1 MGK3085 - Corta Barbas homb'
 date: 2020-01-06 14:39:53
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51HS3Nx-DWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HS3Nx-DWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DGK4WTB

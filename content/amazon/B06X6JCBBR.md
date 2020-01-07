@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06X6JCBBR - Ofertón en Amazon para Ultimate Ears Wonderboom Altavoz Portáti'
+title: 'Ultimate Ears Wonderboom Altavoz Portáti'
 date: 2019/12/23 17:06:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51k1sj7YWFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k1sj7YWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

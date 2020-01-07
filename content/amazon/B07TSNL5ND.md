@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TSNL5ND: Ahorra en SYROKAN - Sujetador Deportivo Espalda De'
+title: 'SYROKAN - Sujetador Deportivo Espalda De'
 date: 2019/12/31 11:08:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51B1WzBxGbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B1WzBxGbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TSNL5ND

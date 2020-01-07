@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01BETGB9O - Ofertón en Amazon para Michael Kors - Reloj de Pulsera de Mujer'
+title: 'Michael Kors - Reloj de Pulsera de Mujer'
 date: 2019/12/16 09:32:29 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nAsPHa5sL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nAsPHa5sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

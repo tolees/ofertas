@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TY9KHZL: Rebaja en Parfois - Bandolera De Ante - Mujeres -  en Amazon'
+title: 'Parfois - Bandolera De Ante - Mujeres - '
 date: 2020-01-07 08:10:05
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41E3TwoMYIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E3TwoMYIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TY9KHZL

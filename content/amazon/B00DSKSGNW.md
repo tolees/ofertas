@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00DSKSGNW - Ofertón en Amazon para Cybex Silver Pallas-Fix 514110003 Silla '
+title: 'Cybex Silver Pallas-Fix 514110003 Silla '
 date: 2019/12/12 07:03:39 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yi51qg%2BmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yi51qg%2BmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

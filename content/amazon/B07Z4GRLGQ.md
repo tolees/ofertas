@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07Z4GRLGQ - Ofertón en Amazon para Auriculares Cascos Gaming PS4 Gamer PC c'
+title: 'Auriculares Cascos Gaming PS4 Gamer PC c'
 date: 2020-01-06 13:14:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VzDkkhCbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VzDkkhCbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

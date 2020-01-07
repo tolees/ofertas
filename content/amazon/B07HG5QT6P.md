@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HG5QT6P: Rebaja en New Balance 247v2  Zapatillas para Hombr en Amazon'
+title: 'New Balance 247v2  Zapatillas para Hombr'
 date: 2019/12/26 20:23:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HG5QT6P

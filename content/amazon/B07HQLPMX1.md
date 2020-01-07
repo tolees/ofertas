@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HQLPMX1 - Ofertón en Amazon para SLTX Remote Controller with Free Silicon'
+title: 'SLTX Remote Controller with Free Silicon'
 date: 2019/12/11 09:11:58 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/317ALlM54JL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317ALlM54JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

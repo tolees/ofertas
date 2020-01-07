@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07X31JBDQ - Ofertón en Amazon para Tronsmart T2 Plus Altavoz Bluetooth 20W '
+title: 'Tronsmart T2 Plus Altavoz Bluetooth 20W '
 date: 2020-01-05 23:02:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410tLr0KaJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410tLr0KaJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

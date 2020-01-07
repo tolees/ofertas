@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0743BNRPW: Rebaja en TRUTH & FABLE 13791 vestido fiesta mujer en Amazon'
+title: 'TRUTH & FABLE 13791 vestido fiesta mujer'
 date: 2019/12/20 00:35:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IWgpqgb%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IWgpqgb%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0743BNRPW

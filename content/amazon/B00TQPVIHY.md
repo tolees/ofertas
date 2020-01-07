@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00TQPVIHY: Ahorra en Zoch 601105077 Spinderella  Kinderspiel '
+title: 'Zoch 601105077 Spinderella  Kinderspiel '
 date: 2019/12/15 09:56:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vVWpKDMOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vVWpKDMOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TQPVIHY

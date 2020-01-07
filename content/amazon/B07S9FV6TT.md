@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07S9FV6TT: Ahorra en Lotus Reloj Cronógrafo para Hombre de Cu'
+title: 'Lotus Reloj Cronógrafo para Hombre de Cu'
 date: 2019/12/20 01:25:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bW8cNFuvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bW8cNFuvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S9FV6TT

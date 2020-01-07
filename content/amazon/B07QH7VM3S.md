@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QH7VM3S: Rebaja en Bulova Reloj Analógico para Mujer de Cua en Amazon'
+title: 'Bulova Reloj Analógico para Mujer de Cua'
 date: 2019/12/11 00:33:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bx-Bf8f5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bx-Bf8f5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QH7VM3S

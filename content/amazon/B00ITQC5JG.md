@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00ITQC5JG: Rebaja en LUMA asistencia para los niños L01604 al en Amazon'
+title: 'LUMA asistencia para los niños L01604 al'
 date: 2019/12/19 08:28:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tSaouOAVL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tSaouOAVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00ITQC5JG

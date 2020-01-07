@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07V8LZX8Z - Ofertón en Amazon para SaponinTree Lámpara Escritorio LED  Lámp'
+title: 'SaponinTree Lámpara Escritorio LED  Lámp'
 date: 2019/12/21 11:21:44 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S3yhligzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S3yhligzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

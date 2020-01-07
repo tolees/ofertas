@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0009OAGWY: Ahorra en Giorgio Beverly Hills Yellow Agua de toi'
+title: 'Giorgio Beverly Hills Yellow Agua de toi'
 date: 2019/12/29 10:35:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XZvEd%2BAeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XZvEd%2BAeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0009OAGWY

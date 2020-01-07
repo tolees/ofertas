@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PB34KNW: Ahorra en deAO Caja Registradora Electrónica de Ju'
+title: 'deAO Caja Registradora Electrónica de Ju'
 date: 2019/12/13 14:10:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tDG73PyAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tDG73PyAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PB34KNW

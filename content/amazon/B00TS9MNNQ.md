@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00TS9MNNQ: Rebaja en GREAT ART Selva Animales Papel Pintado d en Amazon'
+title: 'GREAT ART Selva Animales Papel Pintado d'
 date: 2019/12/30 20:50:09 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61rMsW3abdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61rMsW3abdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TS9MNNQ

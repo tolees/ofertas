@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01B6YYO7I: Ahorra en Puma Suede Classic Mono Ref Iced Calzado'
+title: 'Puma Suede Classic Mono Ref Iced Calzado'
 date: 2019-12-31 16:47:49
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41aN9qSGSNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aN9qSGSNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01B6YYO7I

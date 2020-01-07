@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01LZUBRL0: Ahorra en Asus Cerberus Artic - Teclado gaming ret'
+title: 'Asus Cerberus Artic - Teclado gaming ret'
 date: 2019/12/21 14:29:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416etlEpMiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416etlEpMiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LZUBRL0

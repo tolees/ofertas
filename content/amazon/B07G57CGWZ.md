@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07G57CGWZ: Rebaja en Max Factor  Delineador de ojos  Tono: 00 en Amazon'
+title: 'Max Factor  Delineador de ojos  Tono: 00'
 date: 2019/12/17 17:59:23 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31OadBIy3kL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OadBIy3kL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G57CGWZ

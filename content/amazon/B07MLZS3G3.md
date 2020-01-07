@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MLZS3G3: Ahorra en Spieland 35St. Custom Waffen Set für Min'
+title: 'Spieland 35St. Custom Waffen Set für Min'
 date: 2020-01-05 14:20:32
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qtkreln-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qtkreln-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MLZS3G3

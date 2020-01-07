@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QFTNH71: Ahorra en NUBILY Cinturon Hombre Cuero Negro Marró'
+title: 'NUBILY Cinturon Hombre Cuero Negro Marró'
 date: 2020-01-05 11:52:18
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2UVsyQZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2UVsyQZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QFTNH71

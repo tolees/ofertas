@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RHVKRML: Ahorra en Bloodstained: Ritual of the night'
+title: 'Bloodstained: Ritual of the night'
 date: 2019/12/29 15:53:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51efBSC2OtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51efBSC2OtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RHVKRML

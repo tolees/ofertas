@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B002D0WXXW - Ofertón en Amazon para Moser Schneidekopf Genius/belissima Stan'
+title: 'Moser Schneidekopf Genius/belissima Stan'
 date: 2019/12/12 11:54:48 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZntTHd0cL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZntTHd0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

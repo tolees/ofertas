@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07W4DG8RF - Ofertón en Amazon para Logitech G332 Wired Gaming Headset Speci'
+title: 'Logitech G332 Wired Gaming Headset Speci'
 date: 2019/12/26 20:38:45 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41du6dAuokL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41du6dAuokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DJ3C1CD - Ofertón en Amazon para Geox U Leitan B  Zapatos de Cordones Der'
+title: 'Geox U Leitan B  Zapatos de Cordones Der'
 date: 2019/12/21 12:57:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31eh-ZCd9WL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eh-ZCd9WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

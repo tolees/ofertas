@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NCBXBGN: Rebaja en Pepe Jeans Hatch Vaqueros  Black Used De en Amazon'
+title: 'Pepe Jeans Hatch Vaqueros  Black Used De'
 date: 2019/12/29 12:36:54 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NCBXBGN

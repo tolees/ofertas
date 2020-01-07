@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WH5WBN5: Rebaja en YxFlower Custom Bausteine   1:8 2.4GHz R en Amazon'
+title: 'YxFlower Custom Bausteine   1:8 2.4GHz R'
 date: 2020-01-01 23:03:05
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WH5WBN5

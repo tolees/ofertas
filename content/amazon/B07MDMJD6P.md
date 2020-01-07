@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MDMJD6P: Ahorra en Cocoda Soporte para Echo Dot 3.ª Generac'
+title: 'Cocoda Soporte para Echo Dot 3.ª Generac'
 date: 2019/12/20 01:33:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41msSQnom1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41msSQnom1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MDMJD6P

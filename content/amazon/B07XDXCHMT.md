@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XDXCHMT: Ahorra en LOSMILE Mochila Portatil para Hombre Moc'
+title: 'LOSMILE Mochila Portatil para Hombre Moc'
 date: 2020-01-04 17:36:35
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41oLl6IhUDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oLl6IhUDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XDXCHMT

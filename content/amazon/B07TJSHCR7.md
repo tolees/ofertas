@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TJSHCR7: Ahorra en BLCPRO Repelente Ultrasónico de Plagas 2'
+title: 'BLCPRO Repelente Ultrasónico de Plagas 2'
 date: 2019/12/27 08:03:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i3jVZHvwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i3jVZHvwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TJSHCR7

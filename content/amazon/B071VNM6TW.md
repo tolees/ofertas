@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071VNM6TW: Ahorra en Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapat'
+title: 'Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapat'
 date: 2019/12/25 20:37:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-7FlxNWJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-7FlxNWJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071VNM6TW

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HLVZ7WS: Rebaja en Timex Reloj Análogo clásico para Hombre  en Amazon'
+title: 'Timex Reloj Análogo clásico para Hombre '
 date: 2019/12/21 14:34:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51KWiKBvQgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KWiKBvQgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HLVZ7WS

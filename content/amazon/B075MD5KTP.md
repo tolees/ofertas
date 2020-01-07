@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B075MD5KTP - Ofertón en Amazon para Fantasy Flight Games- Caja de Inicio par'
+title: 'Fantasy Flight Games- Caja de Inicio par'
 date: 2020-01-06 12:05:18
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01BGTRN2Q: Ahorra en G-STAR RAW Midge Saddle Mid Waist Bootcu'
+title: 'G-STAR RAW Midge Saddle Mid Waist Bootcu'
 date: 2019/12/17 18:38:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BGTRN2Q

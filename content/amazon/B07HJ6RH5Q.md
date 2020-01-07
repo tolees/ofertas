@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HJ6RH5Q - Ofertón en Amazon para Funko - POP Vinyl Animación Morty: Profe'
+title: 'Funko - POP Vinyl Animación Morty: Profe'
 date: 2019/12/16 18:16:02 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

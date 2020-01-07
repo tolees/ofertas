@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01AKYXUKC: Ahorra en Beurer UB 75 Wärmeunterbett  mit sechs T'
+title: 'Beurer UB 75 Wärmeunterbett  mit sechs T'
 date: 2019/12/13 21:05:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517xC9QD5HL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517xC9QD5HL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AKYXUKC

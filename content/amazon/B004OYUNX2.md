@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004OYUNX2: Ahorra en Casio Reloj de Pulsera R1551100025'
+title: 'Casio Reloj de Pulsera R1551100025'
 date: 2019/12/28 19:57:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CQzwGf6ZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CQzwGf6ZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004OYUNX2

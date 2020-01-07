@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LG1HL5D: Ahorra en Geox J Alonisso Boy N  Zapatillas Altas '
+title: 'Geox J Alonisso Boy N  Zapatillas Altas '
 date: 2019/12/21 22:13:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YNJhzQjGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YNJhzQjGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LG1HL5D

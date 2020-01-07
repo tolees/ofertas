@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078GY7QML: Rebaja en Adidas Duramo 9  Zapatillas de Entrenami en Amazon'
+title: 'Adidas Duramo 9  Zapatillas de Entrenami'
 date: 2019/12/17 10:09:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HpgBo9EiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HpgBo9EiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078GY7QML

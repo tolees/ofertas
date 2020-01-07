@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NDNQ8D5: Ahorra en G-STAR RAW Graphic 8 Round Neck Camiseta'
+title: 'G-STAR RAW Graphic 8 Round Neck Camiseta'
 date: 2019/12/25 20:15:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pk5t%2BKZlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pk5t%2BKZlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDNQ8D5

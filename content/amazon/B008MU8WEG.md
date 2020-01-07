@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B008MU8WEG: Rebaja en Gossard Sujetador para Mujer  Color Negr en Amazon'
+title: 'Gossard Sujetador para Mujer  Color Negr'
 date: 2019/12/20 08:33:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51fvdE7MBUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fvdE7MBUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B008MU8WEG

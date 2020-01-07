@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NYD2SFM: Rebaja en AVIWIS Cable Magnético Tipo C  [2Pack 1M en Amazon'
+title: 'AVIWIS Cable Magnético Tipo C  [2Pack 1M'
 date: 2019/12/21 10:38:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-Yaf%2BymHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-Yaf%2BymHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NYD2SFM

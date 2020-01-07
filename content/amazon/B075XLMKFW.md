@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B075XLMKFW - Ofertón en Amazon para New Balance Fuel Core 5000  Zapatillas d'
+title: 'New Balance Fuel Core 5000  Zapatillas d'
 date: 2019/12/14 22:53:23 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PEINp%2Bd8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PEINp%2Bd8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

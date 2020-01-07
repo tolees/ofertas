@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01NA9J6BW - Ofertón en Amazon para Marvel - Figura de Spiderman  Armadura L'
+title: 'Marvel - Figura de Spiderman  Armadura L'
 date: 2019/12/16 09:35:59 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B9Y6BenL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B9Y6BenL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

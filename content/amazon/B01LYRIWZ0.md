@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01LYRIWZ0: Rebaja en Playmobil 9220 Ghostbusters Ecto 1 with  en Amazon'
+title: 'Playmobil 9220 Ghostbusters Ecto 1 with '
 date: 2019/12/18 07:19:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/617-1iOSI9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/617-1iOSI9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LYRIWZ0

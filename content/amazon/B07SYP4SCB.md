@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SYP4SCB: Rebaja en Depiladora de luz pulsada  depiladora po en Amazon'
+title: 'Depiladora de luz pulsada  depiladora po'
 date: 2019/12/31 11:13:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31pCU7PfCSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pCU7PfCSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SYP4SCB

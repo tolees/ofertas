@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JMD4SKD: Ahorra en PLAYMOBIL Top Agents 70005 Team S.H.A.R.'
+title: 'PLAYMOBIL Top Agents 70005 Team S.H.A.R.'
 date: 2019/12/16 16:19:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61RL0VAn1TL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61RL0VAn1TL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JMD4SKD

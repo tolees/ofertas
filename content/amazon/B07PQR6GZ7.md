@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PQR6GZ7: Rebaja en AUCARY Proyector  Mini Proyector T7  Pro en Amazon'
+title: 'AUCARY Proyector  Mini Proyector T7  Pro'
 date: 2019/12/28 19:44:23 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41808fnaY0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41808fnaY0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PQR6GZ7

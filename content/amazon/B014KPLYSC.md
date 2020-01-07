@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B014KPLYSC - Ofertón en Amazon para Reebok Tube de Resistencia - Pesado'
+title: 'Reebok Tube de Resistencia - Pesado'
 date: 2020-01-03 00:36:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41liw2Pyo2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41liw2Pyo2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

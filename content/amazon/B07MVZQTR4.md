@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MVZQTR4: Ahorra en SVMUU Reproductor MP3 MP4 Bluetooth 8 GB'
+title: 'SVMUU Reproductor MP3 MP4 Bluetooth 8 GB'
 date: 2019-12-31 15:49:47
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2f7QE8NL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2f7QE8NL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MVZQTR4

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06WRMZZD5 - Ofertón en Amazon para Playmobil 9244 - Dragos Schiff'
+title: 'Playmobil 9244 - Dragos Schiff'
 date: 2019/12/23 17:11:49 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61EnMZk9cJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61EnMZk9cJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

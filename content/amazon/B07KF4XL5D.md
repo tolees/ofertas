@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KF4XL5D: Rebaja en Levi s Housemark Graphic tee Camiseta  B en Amazon'
+title: 'Levi s Housemark Graphic tee Camiseta  B'
 date: 2019/12/26 15:01:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CxKryp7rL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxKryp7rL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KF4XL5D

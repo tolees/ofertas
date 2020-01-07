@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07G1YG9XJ - Ofertón en Amazon para TACKLIFE Llaves de Vaso Hexagonales Prof'
+title: 'TACKLIFE Llaves de Vaso Hexagonales Prof'
 date: 2020-01-03 07:35:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51HfyJOfcOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HfyJOfcOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

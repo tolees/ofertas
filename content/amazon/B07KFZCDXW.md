@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KFZCDXW: Ahorra en PUMA ICRA Trainer SD V PS  Zapatillas Un'
+title: 'PUMA ICRA Trainer SD V PS  Zapatillas Un'
 date: 2019/12/16 12:40:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31mXhBzIpCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mXhBzIpCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFZCDXW

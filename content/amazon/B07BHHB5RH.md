@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BHHB5RH - Ofertón en Amazon para Soundcore Spirit Bluetooth Kopfhörer  In'
+title: 'Soundcore Spirit Bluetooth Kopfhörer  In'
 date: 2019/12/29 11:25:09 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-f-%2BGYKQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-f-%2BGYKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

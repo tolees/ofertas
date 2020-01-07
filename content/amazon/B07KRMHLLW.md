@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KRMHLLW - Ofertón en Amazon para New Balance 373  Zapatillas para Mujer  '
+title: 'New Balance 373  Zapatillas para Mujer  '
 date: 2019/12/28 11:13:56 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jLzySOs-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jLzySOs-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

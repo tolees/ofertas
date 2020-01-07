@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07ZGMHLDS - Ofertón en Amazon para Auriculares Bluetooth  SYOSIN TWS Auricu'
+title: 'Auriculares Bluetooth  SYOSIN TWS Auricu'
 date: 2020-01-06 11:13:35
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pWeOnWgiL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pWeOnWgiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

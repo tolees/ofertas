@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07HJB9JD2 - Ofertón en Amazon para Funko 32191 POP Vinyl: Disney: Mickey s '
+title: 'Funko 32191 POP Vinyl: Disney: Mickey s '
 date: 2019-12-31 22:04:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DkNjmn27L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DkNjmn27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

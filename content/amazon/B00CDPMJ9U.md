@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00CDPMJ9U - Ofertón en Amazon para Tesa Assa Abloy  TX853040N  Cilindro de '
+title: 'Tesa Assa Abloy  TX853040N  Cilindro de '
 date: 2019/12/28 09:59:07 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31OnKT11akL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OnKT11akL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

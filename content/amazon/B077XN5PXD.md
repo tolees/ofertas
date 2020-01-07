@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077XN5PXD: Rebaja en Under Armour Rival Fleece Pantalones Cor en Amazon'
+title: 'Under Armour Rival Fleece Pantalones Cor'
 date: 2019/12/19 21:15:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41W46DyfFYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W46DyfFYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077XN5PXD

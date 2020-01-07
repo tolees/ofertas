@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07F19XBWP - Ofertón en Amazon para Marca Amazon - Goodthreads - Camiseta es'
+title: 'Marca Amazon - Goodthreads - Camiseta es'
 date: 2019/12/19 14:50:07 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mewhc4s4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mewhc4s4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

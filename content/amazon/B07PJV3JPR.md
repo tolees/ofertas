@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PJV3JPR: Ahorra en Echo Dot  3rd Gen  - Smart speaker with '
+title: 'Echo Dot  3rd Gen  - Smart speaker with '
 date: 2020-01-02 13:04:01
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hX%2B2Es%2BvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hX%2B2Es%2BvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PJV3JPR

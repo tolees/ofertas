@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01FV4SXXA: Ahorra en Anne Moller Pour Homme Control Triple Ac'
+title: 'Anne Moller Pour Homme Control Triple Ac'
 date: 2019/12/12 19:13:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31rG-G13ufL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rG-G13ufL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01FV4SXXA

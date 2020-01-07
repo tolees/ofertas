@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073QNMVJT: Ahorra en Zecti Mochila profesional antigolpes par'
+title: 'Zecti Mochila profesional antigolpes par'
 date: 2019/12/23 09:48:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515IBa3wSUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515IBa3wSUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073QNMVJT

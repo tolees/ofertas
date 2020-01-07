@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FDQB5P5 - Ofertón en Amazon para Altavoz 30W Portátil Bluetooth 4.2 AY  I'
+title: 'Altavoz 30W Portátil Bluetooth 4.2 AY  I'
 date: 2020-01-07 06:35:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

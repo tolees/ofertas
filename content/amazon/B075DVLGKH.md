@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B075DVLGKH - Ofertón en Amazon para Street One 252596  Cárdigan para Mujer  '
+title: 'Street One 252596  Cárdigan para Mujer  '
 date: 2019/12/27 09:52:54 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51fW%2BtdPa4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fW%2BtdPa4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

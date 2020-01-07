@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VDMTVR6 - Ofertón en Amazon para Susan Y regalos de Navidad Pulsera Mujer'
+title: 'Susan Y regalos de Navidad Pulsera Mujer'
 date: 2019-12-31 17:13:08
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yZNTVSiML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yZNTVSiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078XY2KLD: Rebaja en Nautica Reloj Analogico para Hombre de C en Amazon'
+title: 'Nautica Reloj Analogico para Hombre de C'
 date: 2019/12/17 23:46:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41C2or8JgdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C2or8JgdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078XY2KLD

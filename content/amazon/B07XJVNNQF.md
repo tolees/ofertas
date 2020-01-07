@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XJVNNQF - Ofertón en Amazon para TXXCI Acrylic Display Case/Box Dustproof'
+title: 'TXXCI Acrylic Display Case/Box Dustproof'
 date: 2019/12/18 23:24:04 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5197yCliVaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5197yCliVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

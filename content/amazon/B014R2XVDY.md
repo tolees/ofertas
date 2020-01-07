@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B014R2XVDY - Ofertón en Amazon para Sony MDRXB50APW.CE7 - Auriculares intrau'
+title: 'Sony MDRXB50APW.CE7 - Auriculares intrau'
 date: 2019/12/29 18:20:50 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31pmslv3rvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pmslv3rvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

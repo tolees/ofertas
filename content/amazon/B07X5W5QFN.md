@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07X5W5QFN - Ofertón en Amazon para Luz Solar Exterior 228 LED  Trswyop [2 U'
+title: 'Luz Solar Exterior 228 LED  Trswyop [2 U'
 date: 2019/12/13 15:00:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51q5VbetAoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q5VbetAoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

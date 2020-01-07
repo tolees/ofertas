@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01A7H0RDA: Rebaja en Funko 7232 Agent 13  Marvel Captain Amer en Amazon'
+title: 'Funko 7232 Agent 13  Marvel Captain Amer'
 date: 2020-01-07 06:04:18
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/516tuuyjMDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516tuuyjMDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01A7H0RDA

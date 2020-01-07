@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HRRCXGI: Ahorra en Sylvanian Families - Girl s Bedroom Set'
+title: 'Sylvanian Families - Girl s Bedroom Set'
 date: 2020-01-01 14:36:19
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51p8YY1jzoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p8YY1jzoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HRRCXGI

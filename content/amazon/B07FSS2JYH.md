@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FSS2JYH: Rebaja en Samsung SM-N960F/DS Galaxy Note9  6.4"   en Amazon'
+title: 'Samsung SM-N960F/DS Galaxy Note9  6.4"  '
 date: 2019/12/22 07:46:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FSS2JYH

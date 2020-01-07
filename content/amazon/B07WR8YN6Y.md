@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07WR8YN6Y - Ofertón en Amazon para PewinGo Electroestimulador Muscular Abdo'
+title: 'PewinGo Electroestimulador Muscular Abdo'
 date: 2019/12/23 18:14:25 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51T1CkJ34nL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T1CkJ34nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

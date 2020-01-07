@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FPVCK5S: Ahorra en PUMA Axis  Zapatillas Unisex Adulto  Bla'
+title: 'PUMA Axis  Zapatillas Unisex Adulto  Bla'
 date: 2019/12/21 13:56:20 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FPVCK5S

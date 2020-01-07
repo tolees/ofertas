@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L9GWSQR: Rebaja en Under Armour Rival Fleece Parte Superior en Amazon'
+title: 'Under Armour Rival Fleece Parte Superior'
 date: 2019/12/17 20:03:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41edxpnVg4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edxpnVg4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9GWSQR

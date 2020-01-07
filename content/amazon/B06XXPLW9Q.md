@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06XXPLW9Q - Ofertón en Amazon para Samsonite Spark SNG - Wheeled Duffle Bag'
+title: 'Samsonite Spark SNG - Wheeled Duffle Bag'
 date: 2019/12/13 10:02:19 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KmKGG82HL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KmKGG82HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

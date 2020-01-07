@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HPY5YF5: Ahorra en Funko 34842 POP Vinyl: Fortnite: Love Ra'
+title: 'Funko 34842 POP Vinyl: Fortnite: Love Ra'
 date: 2019/12/16 15:11:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31wtDp7spDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wtDp7spDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HPY5YF5

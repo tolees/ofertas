@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00SF99TXC - Ofertón en Amazon para G-STAR RAW 3301 Straight Fit Jeans  Azul'
+title: 'G-STAR RAW 3301 Straight Fit Jeans  Azul'
 date: 2019/12/16 08:56:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41W8BqEpTDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W8BqEpTDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

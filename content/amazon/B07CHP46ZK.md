@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CHP46ZK: Ahorra en No Mans Sky'
+title: 'No Mans Sky'
 date: 2019/12/19 05:02:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51eF5HXwm8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eF5HXwm8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CHP46ZK

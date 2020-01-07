@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KZ3NWYB - Ofertón en Amazon para FurReal Friends JJ  mein hopsender Mops'
+title: 'FurReal Friends JJ  mein hopsender Mops'
 date: 2019/12/21 16:15:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XPaozXiIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XPaozXiIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

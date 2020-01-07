@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000RPQTUS: Ahorra en Yves Saint Laurent Opium Gel De Ducha 20'
+title: 'Yves Saint Laurent Opium Gel De Ducha 20'
 date: 2019/12/16 22:32:00 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31pvfQxzyLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pvfQxzyLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000RPQTUS

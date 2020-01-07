@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07P66VKJR - Ofertón en Amazon para Multivitaminas y Minerales Vegano para H'
+title: 'Multivitaminas y Minerales Vegano para H'
 date: 2019/12/30 14:08:28 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uKBgaY53L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uKBgaY53L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

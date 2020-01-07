@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QM8CG4Q - Ofertón en Amazon para Montse Interiors  S.L. Cuadrante o Cojín'
+title: 'Montse Interiors  S.L. Cuadrante o Cojín'
 date: 2019/12/17 07:48:23 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Wgl3NZKyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wgl3NZKyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

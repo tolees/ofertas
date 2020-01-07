@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MRVW1CR: Ahorra en G-STAR RAW Eyben Slim R T Wmn S/s Camise'
+title: 'G-STAR RAW Eyben Slim R T Wmn S/s Camise'
 date: 2020-01-02 18:37:43
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IsvkWH06L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IsvkWH06L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MRVW1CR

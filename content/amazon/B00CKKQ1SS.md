@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00CKKQ1SS - Ofertón en Amazon para SportPlus Multiestación de Musculación p'
+title: 'SportPlus Multiestación de Musculación p'
 date: 2019/12/23 17:22:56 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lQokB3YSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lQokB3YSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

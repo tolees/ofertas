@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B076CPGRGR - Ofertón en Amazon para BraceTek - Kit de Marco Para Manos y Hue'
+title: 'BraceTek - Kit de Marco Para Manos y Hue'
 date: 2020-01-05 09:07:19
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FwLiNes1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FwLiNes1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VQSNW92 - Ofertón en Amazon para Aitsite Bolas de Navidad 6 cm Bolas de á'
+title: 'Aitsite Bolas de Navidad 6 cm Bolas de á'
 date: 2019/12/20 21:40:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51DnsycXFaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DnsycXFaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

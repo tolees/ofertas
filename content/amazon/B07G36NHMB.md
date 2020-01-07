@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07G36NHMB: Rebaja en Maybelline New York - Superstay Matte In en Amazon'
+title: 'Maybelline New York - Superstay Matte In'
 date: 2020-01-02 11:37:59
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31EaYNRUouL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EaYNRUouL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G36NHMB

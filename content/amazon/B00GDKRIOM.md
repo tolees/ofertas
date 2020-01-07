@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00GDKRIOM: Ahorra en Lee Luke Vaqueros  Clean Black  26W / 32'
+title: 'Lee Luke Vaqueros  Clean Black  26W / 32'
 date: 2019/12/17 23:01:28 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00GDKRIOM

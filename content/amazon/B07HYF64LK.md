@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HYF64LK: Rebaja en LEGO Deluxe Emmet Costume en Amazon'
+title: 'LEGO Deluxe Emmet Costume'
 date: 2019/12/25 00:30:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419Kym7W5BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Kym7W5BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HYF64LK

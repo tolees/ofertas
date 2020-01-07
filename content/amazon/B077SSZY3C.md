@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B077SSZY3C - Ofertón en Amazon para Puma Liga Casuals Hoody Sudadera con Cap'
+title: 'Puma Liga Casuals Hoody Sudadera con Cap'
 date: 2019/12/17 09:22:14 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BhOzGGt3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BhOzGGt3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00MCHGXF0: Ahorra en Barbie - Muñeco Ken y muñeca Barbie con '
+title: 'Barbie - Muñeco Ken y muñeca Barbie con '
 date: 2019/12/24 22:27:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pgRU05GKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pgRU05GKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MCHGXF0

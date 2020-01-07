@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MUAD0DU: Ahorra en Guzack Brazalete Deportivo Running para '
+title: 'Guzack Brazalete Deportivo Running para '
 date: 2019/12/26 19:33:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZTVl46lfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZTVl46lfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MUAD0DU

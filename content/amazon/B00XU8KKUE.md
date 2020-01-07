@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00XU8KKUE - Ofertón en Amazon para Burberry My Burberry Edt Vapo 90 Ml 1 Un'
+title: 'Burberry My Burberry Edt Vapo 90 Ml 1 Un'
 date: 2019/12/14 20:30:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31VzPsWgp-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VzPsWgp-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

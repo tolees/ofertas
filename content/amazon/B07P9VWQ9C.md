@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07P9VWQ9C: Ahorra en ElPlayer Barret Sudadera  Hombre  Grigio'
+title: 'ElPlayer Barret Sudadera  Hombre  Grigio'
 date: 2019/12/31 10:55:40 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417RPdqKgTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417RPdqKgTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P9VWQ9C

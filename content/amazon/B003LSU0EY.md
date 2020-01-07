@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B003LSU0EY - Ofertón en Amazon para Casio EDIFICE Reloj en caja sólida de ac'
+title: 'Casio EDIFICE Reloj en caja sólida de ac'
 date: 2020-01-05 16:24:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

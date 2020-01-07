@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07YZJCS24: Rebaja en cabletrans Bluetooth Adapter  Wireless A en Amazon'
+title: 'cabletrans Bluetooth Adapter  Wireless A'
 date: 2019/12/14 15:01:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dlr44VcNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dlr44VcNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YZJCS24

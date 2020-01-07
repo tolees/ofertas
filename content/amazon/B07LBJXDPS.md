@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07LBJXDPS - Ofertón en Amazon para adidas Carbon Control 1.9 Palas  Adultos'
+title: 'adidas Carbon Control 1.9 Palas  Adultos'
 date: 2019/12/29 11:22:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QxKCqsOZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QxKCqsOZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B076DX5MVZ - Ofertón en Amazon para Bolsas de Vacio 3 Rolls 20x500cm con Caj'
+title: 'Bolsas de Vacio 3 Rolls 20x500cm con Caj'
 date: 2020-01-06 19:31:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51545l8CsPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51545l8CsPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

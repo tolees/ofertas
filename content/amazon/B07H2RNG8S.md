@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H2RNG8S: Ahorra en Citizen Reloj Analógico para Mujer de Cu'
+title: 'Citizen Reloj Analógico para Mujer de Cu'
 date: 2019/12/16 22:42:08 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IKKaZP%2B0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IKKaZP%2B0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H2RNG8S

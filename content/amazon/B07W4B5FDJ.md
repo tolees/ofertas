@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07W4B5FDJ - Ofertón en Amazon para JACK & JONES Jcoglobe Parka Abrigos Homb'
+title: 'JACK & JONES Jcoglobe Parka Abrigos Homb'
 date: 2019/12/27 13:25:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

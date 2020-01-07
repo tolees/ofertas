@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0817VDMSJ: Rebaja en Auricular Bluetooth Verdadero Deporte in en Amazon'
+title: 'Auricular Bluetooth Verdadero Deporte in'
 date: 2020-01-06 20:46:14
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0817VDMSJ

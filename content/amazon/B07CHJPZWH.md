@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CHJPZWH: Ahorra en JACK & JONES Jfwstoke Nubuck  Botas Clas'
+title: 'JACK & JONES Jfwstoke Nubuck  Botas Clas'
 date: 2019/12/22 17:59:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kw1Ed8koL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kw1Ed8koL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CHJPZWH

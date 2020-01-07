@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RWSRYR3 - Ofertón en Amazon para Pecute Bolso Perro Pequeño  Bolsa Bandol'
+title: 'Pecute Bolso Perro Pequeño  Bolsa Bandol'
 date: 2019/12/14 10:58:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51niyLITPfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51niyLITPfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

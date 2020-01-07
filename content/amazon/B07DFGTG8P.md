@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DFGTG8P: Ahorra en Funko Pop The Simpsons Figura Lisa Simps'
+title: 'Funko Pop The Simpsons Figura Lisa Simps'
 date: 2019/12/22 08:46:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UcLrnympL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UcLrnympL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFGTG8P

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01IDFQGJC - Ofertón en Amazon para adidas Gazelle  Zapatillas de deporte Un'
+title: 'adidas Gazelle  Zapatillas de deporte Un'
 date: 2019/12/25 17:50:16 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41c4KgrT6BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c4KgrT6BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

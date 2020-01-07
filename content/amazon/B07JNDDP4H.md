@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JNDDP4H: Rebaja en Bulova Reloj Analógico para Hombre de Cu en Amazon'
+title: 'Bulova Reloj Analógico para Hombre de Cu'
 date: 2019/12/13 22:32:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dscv6xRGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dscv6xRGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JNDDP4H

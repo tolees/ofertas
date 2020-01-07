@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KRLJN2N - Ofertón en Amazon para New Balance 373 Zapatillas Hombre  Marró'
+title: 'New Balance 373 Zapatillas Hombre  Marró'
 date: 2020-01-02 12:36:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

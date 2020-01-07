@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07S81FMGT: Rebaja en WisFox Packs de Teclado y Ratón Inalámbr en Amazon'
+title: 'WisFox Packs de Teclado y Ratón Inalámbr'
 date: 2019/12/20 01:51:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410Rz60Uj6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Rz60Uj6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S81FMGT

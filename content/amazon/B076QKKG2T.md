@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B076QKKG2T: Rebaja en Razer Electra V2 - Auriculares analógico en Amazon'
+title: 'Razer Electra V2 - Auriculares analógico'
 date: 2020-01-05 17:49:36
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41z9cEHubfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z9cEHubfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076QKKG2T

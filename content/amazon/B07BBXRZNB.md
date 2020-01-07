@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BBXRZNB - Ofertón en Amazon para Call of Duty: Black Ops IIII + Tarjeta d'
+title: 'Call of Duty: Black Ops IIII + Tarjeta d'
 date: 2019/12/25 21:14:24 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QkyVXnGQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QkyVXnGQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

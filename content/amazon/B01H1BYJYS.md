@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01H1BYJYS: Rebaja en Panasonic Lumix DMC-GX80K - Cámara EVIL  en Amazon'
+title: 'Panasonic Lumix DMC-GX80K - Cámara EVIL '
 date: 2020-01-03 18:50:14
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411wFT0IdtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411wFT0IdtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01H1BYJYS

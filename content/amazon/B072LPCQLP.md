@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072LPCQLP: Ahorra en iDesign Plato giratorio para cocina  org'
+title: 'iDesign Plato giratorio para cocina  org'
 date: 2019/12/23 19:18:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51rLdeCSfYL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rLdeCSfYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072LPCQLP

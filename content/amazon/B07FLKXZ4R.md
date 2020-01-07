@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FLKXZ4R - Ofertón en Amazon para Superdry Orange Label Jogger Chándal  Az'
+title: 'Superdry Orange Label Jogger Chándal  Az'
 date: 2019/12/15 11:56:38 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ggIqRX%2B4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ggIqRX%2B4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

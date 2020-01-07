@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JK2WD3P - Ofertón en Amazon para TOTTO Estuche Juvenil  Estuche una Crema'
+title: 'TOTTO Estuche Juvenil  Estuche una Crema'
 date: 2019/12/24 11:27:48 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31bUIo93u6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bUIo93u6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

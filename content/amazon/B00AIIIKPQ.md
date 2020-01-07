@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00AIIIKPQ: Ahorra en Logitech® Professional Presenter R700 - '
+title: 'Logitech® Professional Presenter R700 - '
 date: 2019/12/23 19:26:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31HvkSTbptL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HvkSTbptL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00AIIIKPQ

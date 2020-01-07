@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07TNJL21G - Ofertón en Amazon para Amzdeal Lijadora Orbital Excéntrica Neum'
+title: 'Amzdeal Lijadora Orbital Excéntrica Neum'
 date: 2019/12/30 17:27:15 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51RYNcZELHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RYNcZELHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

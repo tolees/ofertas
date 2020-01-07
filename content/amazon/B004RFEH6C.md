@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004RFEH6C: Rebaja en Magnet Expert - Imán elevador  50 x 24 x en Amazon'
+title: 'Magnet Expert - Imán elevador  50 x 24 x'
 date: 2020-01-06 21:15:36
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2BODLhuQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2BODLhuQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004RFEH6C

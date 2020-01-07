@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00RZTV5B2: Rebaja en Wilson Tour Slam Raqueta de Tenis Cuerda en Amazon'
+title: 'Wilson Tour Slam Raqueta de Tenis Cuerda'
 date: 2020-01-06 11:21:57
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00RZTV5B2

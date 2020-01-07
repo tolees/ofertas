@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079DBPZ5X: Rebaja en Regatta Chubasquero Lyle IV Impermeable  en Amazon'
+title: 'Regatta Chubasquero Lyle IV Impermeable '
 date: 2019/12/15 10:55:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PLdD%2BchFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PLdD%2BchFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079DBPZ5X

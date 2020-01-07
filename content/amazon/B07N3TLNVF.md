@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N3TLNVF: Ahorra en Desigual Blouse LUMBE Blusa  Negro  Negr'
+title: 'Desigual Blouse LUMBE Blusa  Negro  Negr'
 date: 2020-01-05 20:04:48
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N3TLNVF

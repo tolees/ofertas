@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00J5ERYEW: Rebaja en Nescafé Dolce Gusto Jovia by De Longhi - en Amazon'
+title: 'Nescafé Dolce Gusto Jovia by De Longhi -'
 date: 2020-01-04 21:30:58
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418VJyzI3QL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418VJyzI3QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00J5ERYEW

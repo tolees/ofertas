@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01LEJD98A: Rebaja en Funko Mad-Eye Moody Figura de Vinilo  co en Amazon'
+title: 'Funko Mad-Eye Moody Figura de Vinilo  co'
 date: 2019/12/12 00:01:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SRT1DlG9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SRT1DlG9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LEJD98A

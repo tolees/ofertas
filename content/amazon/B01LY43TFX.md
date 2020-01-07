@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01LY43TFX - Ofertón en Amazon para Playmobil 9228 City Life Wedding Recepti'
+title: 'Playmobil 9228 City Life Wedding Recepti'
 date: 2019/12/19 07:30:08 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61DvPtpmPTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61DvPtpmPTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

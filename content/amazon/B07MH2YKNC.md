@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MH2YKNC: Rebaja en Inventor Mini Nevera A+ con Compresor  6 en Amazon'
+title: 'Inventor Mini Nevera A+ con Compresor  6'
 date: 2019/12/17 16:37:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31TVuxCAqJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TVuxCAqJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MH2YKNC

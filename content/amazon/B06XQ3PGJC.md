@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XQ3PGJC: Ahorra en RED WAGON Vaqueros Niños  Azul  Blue   9'
+title: 'RED WAGON Vaqueros Niños  Azul  Blue   9'
 date: 2020-01-03 15:40:50
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51dr-lEIWeL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dr-lEIWeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XQ3PGJC

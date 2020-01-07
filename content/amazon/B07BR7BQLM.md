@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BR7BQLM: Rebaja en Carrera 2005T/S Gafas de sol  Negro  MTT en Amazon'
+title: 'Carrera 2005T/S Gafas de sol  Negro  MTT'
 date: 2019/12/12 15:40:54 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31dKdHVanEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dKdHVanEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BR7BQLM

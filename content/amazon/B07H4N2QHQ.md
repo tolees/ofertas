@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H4N2QHQ: Ahorra en Juego de rodillos de ruedas Ab 3 en 1 Ro'
+title: 'Juego de rodillos de ruedas Ab 3 en 1 Ro'
 date: 2019/12/31 00:26:23 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51f9m%2BVM1tL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f9m%2BVM1tL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H4N2QHQ

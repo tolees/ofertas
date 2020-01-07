@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079MV8VYH: Rebaja en Playmobil 9481 Spielzeug-Maricela en Amazon'
+title: 'Playmobil 9481 Spielzeug-Maricela'
 date: 2020-01-01 23:07:58
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079MV8VYH

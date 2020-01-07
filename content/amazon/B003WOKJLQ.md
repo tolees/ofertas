@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B003WOKJLQ - Ofertón en Amazon para Remington Haarschneidemaschine HC5810  s'
+title: 'Remington Haarschneidemaschine HC5810  s'
 date: 2019/12/21 16:28:06 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51gE5gZYViL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gE5gZYViL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

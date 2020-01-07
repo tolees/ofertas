@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00VA5HMAU: Rebaja en LE CREUSET Evolution Cocotte con Tapa  O en Amazon'
+title: 'LE CREUSET Evolution Cocotte con Tapa  O'
 date: 2019/12/25 19:36:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rdJ6u1p2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rdJ6u1p2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VA5HMAU

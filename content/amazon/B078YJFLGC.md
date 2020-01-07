@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B078YJFLGC - Ofertón en Amazon para Versión Actualizada Hapilife Grifo Lavab'
+title: 'Versión Actualizada Hapilife Grifo Lavab'
 date: 2019/12/27 18:17:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mNbvZvniL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mNbvZvniL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

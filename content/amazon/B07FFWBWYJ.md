@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FFWBWYJ - Ofertón en Amazon para Eono Essentials - Chaqueta impermeable p'
+title: 'Eono Essentials - Chaqueta impermeable p'
 date: 2020-01-02 07:06:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41scYxEdoZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41scYxEdoZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

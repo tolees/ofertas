@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N8VS2QK: Ahorra en Wonderbra Ultimate Silhouette Sans Armat'
+title: 'Wonderbra Ultimate Silhouette Sans Armat'
 date: 2019/12/15 08:07:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fgxCdCIzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fgxCdCIzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N8VS2QK

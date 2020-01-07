@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CLPCKWG - Ofertón en Amazon para Nobunaga s Ambition : Taishi'
+title: 'Nobunaga s Ambition : Taishi'
 date: 2020-01-04 10:36:03
-image: 'https://images-eu.ssl-images-amazon.com/images/I/614YaAhF3KL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/614YaAhF3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

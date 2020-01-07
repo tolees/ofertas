@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CGQ8RDQ: Rebaja en motorola moto g6 5.7-Inch Android 8.0 Or en Amazon'
+title: 'motorola moto g6 5.7-Inch Android 8.0 Or'
 date: 2020-01-02 13:23:52
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419Yy0LsbSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Yy0LsbSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CGQ8RDQ

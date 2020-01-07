@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XKS8HWJ: Ahorra en LileZbox - Soporte Expositor de acrílico'
+title: 'LileZbox - Soporte Expositor de acrílico'
 date: 2019/12/30 15:53:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Te1Lnn8VL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Te1Lnn8VL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XKS8HWJ

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07TTNH41B - Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Marve'
+title: 'BRIKSMAX Led Lighting Kit for LEGO Marve'
 date: 2019/12/29 08:29:59 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416XN6kdkuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416XN6kdkuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

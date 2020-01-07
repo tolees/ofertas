@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07W65VQQF: Ahorra en QNIGLO Q188 Walkie Talkie Niños Recargab'
+title: 'QNIGLO Q188 Walkie Talkie Niños Recargab'
 date: 2019/12/11 19:43:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dup2AR5SL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dup2AR5SL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07W65VQQF

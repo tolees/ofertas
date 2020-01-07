@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QVJSCSB: Rebaja en KEXIN 64GB Memoria USB 2.0 Llave Pendriv en Amazon'
+title: 'KEXIN 64GB Memoria USB 2.0 Llave Pendriv'
 date: 2019/12/22 23:19:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kJtE1UdhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kJtE1UdhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QVJSCSB

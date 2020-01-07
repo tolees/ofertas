@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QTMLWVH: Rebaja en Columbia 1420421  Chaqueta Forro Polar H en Amazon'
+title: 'Columbia 1420421  Chaqueta Forro Polar H'
 date: 2020-01-03 10:40:07
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QTMLWVH

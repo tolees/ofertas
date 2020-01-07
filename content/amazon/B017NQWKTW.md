@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B017NQWKTW - Ofertón en Amazon para Funko Pop! Keychain: Harry Potter - Harr'
+title: 'Funko Pop! Keychain: Harry Potter - Harr'
 date: 2019-12-31 22:03:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iJzXu6H7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iJzXu6H7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

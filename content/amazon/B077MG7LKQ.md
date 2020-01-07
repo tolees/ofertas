@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B077MG7LKQ: Rebaja en Puma Puma Smash v2  Unisex-Erwachsene Sn en Amazon'
+title: 'Puma Puma Smash v2  Unisex-Erwachsene Sn'
 date: 2019/12/13 07:50:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51icT8Y3QML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51icT8Y3QML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077MG7LKQ

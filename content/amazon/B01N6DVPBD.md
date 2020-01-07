@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N6DVPBD: Rebaja en Honeywell 6243855-37/7 Fresco  MID  S1P  en Amazon'
+title: 'Honeywell 6243855-37/7 Fresco  MID  S1P '
 date: 2019/12/13 09:53:53 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51NvpcQkAhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NvpcQkAhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N6DVPBD

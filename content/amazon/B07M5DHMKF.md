@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07M5DHMKF: Rebaja en Lee Stripe tee Camiseta  Azul  Midnight  en Amazon'
+title: 'Lee Stripe tee Camiseta  Azul  Midnight '
 date: 2019/12/24 19:08:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jHJ2OUSXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jHJ2OUSXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M5DHMKF

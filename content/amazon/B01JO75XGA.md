@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01JO75XGA: Ahorra en Timex Reloj Analógico para Hombre de Cua'
+title: 'Timex Reloj Analógico para Hombre de Cua'
 date: 2019/12/23 22:21:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BKyWF30RL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BKyWF30RL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01JO75XGA

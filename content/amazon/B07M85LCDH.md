@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07M85LCDH: Rebaja en GANT D1.Winter TWI Buffalo Check Reg BD  en Amazon'
+title: 'GANT D1.Winter TWI Buffalo Check Reg BD '
 date: 2019/12/16 22:14:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YODsYamKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YODsYamKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M85LCDH

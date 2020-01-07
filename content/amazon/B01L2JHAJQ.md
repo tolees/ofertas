@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01L2JHAJQ - Ofertón en Amazon para Lacoste 2000959 Lacoste.12.12 Lady - Rel'
+title: 'Lacoste 2000959 Lacoste.12.12 Lady - Rel'
 date: 2019/12/12 06:50:47 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

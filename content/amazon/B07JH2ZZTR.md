@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JH2ZZTR: Rebaja en Puma ftblNXT Pro Shirt Camiseta  Hombre  en Amazon'
+title: 'Puma ftblNXT Pro Shirt Camiseta  Hombre '
 date: 2019/12/22 20:59:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419TPAVR6EL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419TPAVR6EL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JH2ZZTR

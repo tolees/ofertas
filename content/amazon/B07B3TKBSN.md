@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07B3TKBSN: Rebaja en Zenacolor 72 Lápices de Colores Acuarela en Amazon'
+title: 'Zenacolor 72 Lápices de Colores Acuarela'
 date: 2019/12/10 23:03:42 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51M2NxGvFbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M2NxGvFbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B3TKBSN

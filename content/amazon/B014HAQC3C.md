@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B014HAQC3C: Ahorra en Philips Avent SCD506/26 - Vigilabebés di'
+title: 'Philips Avent SCD506/26 - Vigilabebés di'
 date: 2020-01-02 12:07:57
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41A17vSOVuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A17vSOVuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B014HAQC3C

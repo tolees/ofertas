@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07M8CYX9V - Ofertón en Amazon para Braun Silk·Expert Pro 5 PL5137 Depilador'
+title: 'Braun Silk·Expert Pro 5 PL5137 Depilador'
 date: 2019/12/25 13:02:06 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xLpjS945L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xLpjS945L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

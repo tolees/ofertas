@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00HT95ABE: Ahorra en Einhell Pistola de aire caliente - decap'
+title: 'Einhell Pistola de aire caliente - decap'
 date: 2020-01-04 15:38:46
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Zu1YASJbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zu1YASJbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HT95ABE

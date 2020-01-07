@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PJSKLB6: Rebaja en XTI 86140  Shopper para Mujer  Azul  Nav en Amazon'
+title: 'XTI 86140  Shopper para Mujer  Azul  Nav'
 date: 2019/12/25 17:17:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DiIymjwLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DiIymjwLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PJSKLB6

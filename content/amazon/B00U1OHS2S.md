@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00U1OHS2S: Ahorra en Tesa Assa Abloy  TX853535L  Cilindro de '
+title: 'Tesa Assa Abloy  TX853535L  Cilindro de '
 date: 2019/12/28 08:49:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31FHqltpU6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FHqltpU6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00U1OHS2S

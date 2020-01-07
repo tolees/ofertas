@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XZ52NBB: Ahorra en Funda para Nintendo Switch  slopehill Es'
+title: 'Funda para Nintendo Switch  slopehill Es'
 date: 2019/12/14 19:42:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51BaztVii6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BaztVii6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XZ52NBB

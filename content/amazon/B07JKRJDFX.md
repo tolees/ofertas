@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JKRJDFX: Rebaja en Assassin s Creed Odyssey - Ultimate Edit en Amazon'
+title: 'Assassin s Creed Odyssey - Ultimate Edit'
 date: 2019/12/14 17:53:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JKRJDFX

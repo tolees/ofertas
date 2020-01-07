@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07L9NVPJL - Ofertón en Amazon para Lacoste Carnaby EVO 319 1 SUI  Zapatilla'
+title: 'Lacoste Carnaby EVO 319 1 SUI  Zapatilla'
 date: 2020-01-06 10:31:57
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

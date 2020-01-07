@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01GG3QERW - Ofertón en Amazon para NINETEC Luna Wireless Home Bluetooth NFC'
+title: 'NINETEC Luna Wireless Home Bluetooth NFC'
 date: 2019/12/12 00:18:50 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MhAvu6dLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MhAvu6dLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

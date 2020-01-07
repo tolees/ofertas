@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KQVV4MK: Ahorra en L.O.L. Surprise! 59045 Stickerbuch  Mehr'
+title: 'L.O.L. Surprise! 59045 Stickerbuch  Mehr'
 date: 2019/12/16 23:35:11 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514CpD-HF2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514CpD-HF2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQVV4MK

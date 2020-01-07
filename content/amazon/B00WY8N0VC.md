@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00WY8N0VC - Ofertón en Amazon para Chicco 00006811000000 Niño/niña 30pieza '
+title: 'Chicco 00006811000000 Niño/niña 30pieza '
 date: 2019/12/19 09:09:36 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tTbpol4YL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tTbpol4YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00BN36NMM: Ahorra en D-Link DWR-921 - Router wireless 4G/LTE '
+title: 'D-Link DWR-921 - Router wireless 4G/LTE '
 date: 2019/12/31 05:06:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31oBGe4vK9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oBGe4vK9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BN36NMM

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00KHTNKF6: Rebaja en Under Armour UA HG Armour LS Camiseta de en Amazon'
+title: 'Under Armour UA HG Armour LS Camiseta de'
 date: 2019/12/17 16:37:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31-EXU0KznL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-EXU0KznL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KHTNKF6

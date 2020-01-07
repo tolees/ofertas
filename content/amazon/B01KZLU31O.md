@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01KZLU31O: Ahorra en Levi s Graphic Set-In Neck  Camiseta par'
+title: 'Levi s Graphic Set-In Neck  Camiseta par'
 date: 2019/12/17 00:09:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dmnoDLF-L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dmnoDLF-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01KZLU31O

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N5MQX4N: Rebaja en Sony MDR-XB950N1 kabelloser Kopfhörer mi en Amazon'
+title: 'Sony MDR-XB950N1 kabelloser Kopfhörer mi'
 date: 2019/12/29 10:57:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414uGa%2B-EpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414uGa%2B-EpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N5MQX4N

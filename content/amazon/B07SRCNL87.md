@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SRCNL87: Rebaja en adidas EQT Gazelle  Zapatillas de Gimnas en Amazon'
+title: 'adidas EQT Gazelle  Zapatillas de Gimnas'
 date: 2019/12/13 17:08:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SRCNL87

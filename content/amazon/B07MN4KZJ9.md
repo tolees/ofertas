@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MN4KZJ9: Rebaja en adidas Ultraboost 19 M  Zapatillas de Ru en Amazon'
+title: 'adidas Ultraboost 19 M  Zapatillas de Ru'
 date: 2020-01-05 08:40:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41QJrcgV1wL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QJrcgV1wL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MN4KZJ9

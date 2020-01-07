@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07TK18LYC: Rebaja en Disney Pijama para Mujer Toy Story Multi en Amazon'
+title: 'Disney Pijama para Mujer Toy Story Multi'
 date: 2019/12/24 13:44:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31UMJP9RUCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UMJP9RUCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TK18LYC

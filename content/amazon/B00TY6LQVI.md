@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00TY6LQVI - Ofertón en Amazon para The North Face W Horizon Cvtbl Pls Panta'
+title: 'The North Face W Horizon Cvtbl Pls Panta'
 date: 2019/12/18 14:02:53 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31scKfO8pNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31scKfO8pNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KFYZTXP - Ofertón en Amazon para PUMA Source Mid Buzzer  Zapatillas Altas'
+title: 'PUMA Source Mid Buzzer  Zapatillas Altas'
 date: 2019/12/17 13:56:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

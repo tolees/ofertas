@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QRQKH8Q - Ofertón en Amazon para AmzBarley Anna Coronation Dress for Girl'
+title: 'AmzBarley Anna Coronation Dress for Girl'
 date: 2019/12/28 08:38:16 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GlvuJTHGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GlvuJTHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

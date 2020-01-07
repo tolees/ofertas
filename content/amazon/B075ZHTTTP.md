@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B075ZHTTTP - Ofertón en Amazon para Mr. Wonderful ME2019AI - Neceser'
+title: 'Mr. Wonderful ME2019AI - Neceser'
 date: 2019/12/27 11:14:50 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZgFbKUSEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZgFbKUSEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

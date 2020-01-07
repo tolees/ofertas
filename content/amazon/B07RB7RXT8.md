@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RB7RXT8 - Ofertón en Amazon para Columbia Powder Lite Hooded Chaqueta De '
+title: 'Columbia Powder Lite Hooded Chaqueta De '
 date: 2019/12/26 11:20:58 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Mx-uzWmNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mx-uzWmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

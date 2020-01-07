@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00MHFHTY6 - Ofertón en Amazon para Krups Dolce Gusto Oblo KP1105 - Cafetera'
+title: 'Krups Dolce Gusto Oblo KP1105 - Cafetera'
 date: 2020-01-05 09:14:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Se-vNYLnL._SL200_.jpg'
 comments: true
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Se-vNYLnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MHFHTY6
@@ -13,10 +13,10 @@ comparePrice: 89 EUR
 inStock: true
 ---
 
-Tienes [Krups Dolce Gusto Oblo KP1105 - Cafetera de cápsulas  15 bares de presión  color rojo](https://www.amazon.com/dp/B00MHFHTY6/?tag=redken08-20) a precio de oferta de 36.85 EUR (original: 89 EUR) en el siguiente enlace!
+Está [Krups Dolce Gusto Oblo KP1105 - Cafetera de cápsulas  15 bares de presión  color rojo](https://www.amazon.com/dp/B00MHFHTY6/?tag=redken08-20) por 36.85 EUR (original: 89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Se-vNYLnL._SL200_.jpg)](https://www.amazon.com/dp/B00MHFHTY6/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00MHFHTY6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00MHFHTY6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

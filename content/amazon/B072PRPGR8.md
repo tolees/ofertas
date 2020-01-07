@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B072PRPGR8 - Ofertón en Amazon para Acer Switch 5  SW512-52-5819  30 48 cm  '
+title: 'Acer Switch 5  SW512-52-5819  30 48 cm  '
 date: 2019/12/15 12:42:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uX7Z1tu0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uX7Z1tu0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

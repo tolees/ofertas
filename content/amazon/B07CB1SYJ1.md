@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CB1SYJ1 - Ofertón en Amazon para BIC Gelocity Illusion - Blíster de 3 bol'
+title: 'BIC Gelocity Illusion - Blíster de 3 bol'
 date: 2019/12/23 09:59:46 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/511EIW01DnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511EIW01DnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

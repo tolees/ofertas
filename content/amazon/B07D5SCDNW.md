@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07D5SCDNW: Rebaja en Puma ESS Logo tee Camiseta Deportiva  Mu en Amazon'
+title: 'Puma ESS Logo tee Camiseta Deportiva  Mu'
 date: 2019/12/23 10:58:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/317E30C%2BdkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317E30C%2BdkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D5SCDNW

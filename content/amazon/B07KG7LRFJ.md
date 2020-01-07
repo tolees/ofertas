@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KG7LRFJ: Ahorra en PUMA Nova Wn s  Zapatillas Deportivas pa'
+title: 'PUMA Nova Wn s  Zapatillas Deportivas pa'
 date: 2019/12/16 08:42:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31pwsmRGtPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pwsmRGtPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG7LRFJ

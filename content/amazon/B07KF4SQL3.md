@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KF4SQL3: Rebaja en Levi s 311 Shaping Skinny Vaqueros  Pari en Amazon'
+title: 'Levi s 311 Shaping Skinny Vaqueros  Pari'
 date: 2020-01-05 12:25:42
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KF4SQL3

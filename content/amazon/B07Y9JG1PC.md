@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Y9JG1PC: Ahorra en Downupdown de Punk Bolsa de Hombro Unise'
+title: 'Downupdown de Punk Bolsa de Hombro Unise'
 date: 2019/12/26 11:09:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41EhtPKFIpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EhtPKFIpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Y9JG1PC

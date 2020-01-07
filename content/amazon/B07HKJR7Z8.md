@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HKJR7Z8: Ahorra en Under Armour UA HOVR Havoc 2  Zapatos de'
+title: 'Under Armour UA HOVR Havoc 2  Zapatos de'
 date: 2019/12/16 08:35:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NUqE%2B9r8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NUqE%2B9r8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HKJR7Z8

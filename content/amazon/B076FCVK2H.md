@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B076FCVK2H: Ahorra en RED WAGON Camiseta Print Niñas  Pack de '
+title: 'RED WAGON Camiseta Print Niñas  Pack de '
 date: 2019/12/19 22:08:25 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LH66MdIRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LH66MdIRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076FCVK2H

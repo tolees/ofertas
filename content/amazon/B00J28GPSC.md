@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00J28GPSC - Ofertón en Amazon para Philips Avent SCH400/30  Set Para Cuidad'
+title: 'Philips Avent SCH400/30  Set Para Cuidad'
 date: 2020-01-06 09:08:27
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51zEgrZxUdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zEgrZxUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

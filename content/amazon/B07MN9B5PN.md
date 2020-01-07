@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MN9B5PN: Ahorra en edc by Esprit 029CC1F014 Blusa  Verde  D'
+title: 'edc by Esprit 029CC1F014 Blusa  Verde  D'
 date: 2019/12/18 22:55:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2B5i-qL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2B5i-qL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MN9B5PN

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N3CSKBH: Ahorra en Timex Reloj de Pulsera TW4B14700'
+title: 'Timex Reloj de Pulsera TW4B14700'
 date: 2019/12/20 22:11:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419KUQNlJaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419KUQNlJaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N3CSKBH

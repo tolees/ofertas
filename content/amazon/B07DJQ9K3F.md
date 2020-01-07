@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DJQ9K3F: Ahorra en DAM TEKKIWEAR. DMX043BLACK. Smartwatch M'
+title: 'DAM TEKKIWEAR. DMX043BLACK. Smartwatch M'
 date: 2019/12/20 09:44:33 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519SDb3GxbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519SDb3GxbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DJQ9K3F

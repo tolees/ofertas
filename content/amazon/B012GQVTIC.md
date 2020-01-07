@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B012GQVTIC: Rebaja en Capital Sports Adjustar Banco de entrena en Amazon'
+title: 'Capital Sports Adjustar Banco de entrena'
 date: 2020-01-06 22:15:55
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LBfmXubTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LBfmXubTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B012GQVTIC

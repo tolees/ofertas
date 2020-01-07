@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07G35JCPN - Ofertón en Amazon para Match L.O.L. Surprise'
+title: 'Match L.O.L. Surprise'
 date: 2020-01-07 06:25:54
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51YUL6auA0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YUL6auA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

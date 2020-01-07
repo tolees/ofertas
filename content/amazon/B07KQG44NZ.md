@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KQG44NZ - Ofertón en Amazon para Salomon ALPHACROSS W  Zapatillas de Trai'
+title: 'Salomon ALPHACROSS W  Zapatillas de Trai'
 date: 2019/12/16 13:40:23 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

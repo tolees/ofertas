@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B074PM7SMP - Ofertón en Amazon para Pdp - Auriculares Stereo AG 6 con Licenc'
+title: 'Pdp - Auriculares Stereo AG 6 con Licenc'
 date: 2019/12/25 15:05:06 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xKLrMQHAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xKLrMQHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

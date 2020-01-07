@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07B4R8QGM: Ahorra en Sony Alpha 7M3 E-Mount Vollformat Digita'
+title: 'Sony Alpha 7M3 E-Mount Vollformat Digita'
 date: 2019/12/15 10:01:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OO9sjjfWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OO9sjjfWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B4R8QGM

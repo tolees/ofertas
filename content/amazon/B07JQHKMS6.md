@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JQHKMS6 - Ofertón en Amazon para Under Armour Huddle 2.0 Gorra  Hombre  V'
+title: 'Under Armour Huddle 2.0 Gorra  Hombre  V'
 date: 2020-01-04 10:42:01
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51auFHMq9ML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51auFHMq9ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PNMWZPN: Rebaja en FUSKANG Spin Duster 360 ° Hurricane Spin en Amazon'
+title: 'FUSKANG Spin Duster 360 ° Hurricane Spin'
 date: 2019/12/16 12:19:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/512h7oIACkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512h7oIACkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PNMWZPN

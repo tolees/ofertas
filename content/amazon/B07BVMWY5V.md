@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BVMWY5V - Ofertón en Amazon para Zequins- Muñeco Emmy  Famosa 700014680 '
+title: 'Zequins- Muñeco Emmy  Famosa 700014680 '
 date: 2020-01-04 14:41:59
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

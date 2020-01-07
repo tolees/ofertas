@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01BGL4BR4: Ahorra en fischertechnik Dynamic S Kugelbahn mit K'
+title: 'fischertechnik Dynamic S Kugelbahn mit K'
 date: 2020-01-01 22:57:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bOSVGiRmL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bOSVGiRmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BGL4BR4

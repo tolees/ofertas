@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00MFQOTKO - Ofertón en Amazon para Tectonic 41-6103-14 - Reloj de cuarzo un'
-date: 2019/12/24 15:17:35 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PrDt7OLYL._SL200_.jpg'
+title: 'Tectonic 41-6103-14 - Reloj de cuarzo un'
+date: 2020-01-07 15:46:51
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PrDt7OLYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

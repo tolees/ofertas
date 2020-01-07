@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B081CNPXR2: Ahorra en Geographical Norway Parka Hombre Boomera'
+title: 'Geographical Norway Parka Hombre Boomera'
 date: 2019/12/27 07:58:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tappN7TaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tappN7TaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081CNPXR2

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MK44LBM - Ofertón en Amazon para Under Armour Rival Fleece Open Pantalón '
+title: 'Under Armour Rival Fleece Open Pantalón '
 date: 2019/12/17 14:11:48 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311VajClt5L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311VajClt5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

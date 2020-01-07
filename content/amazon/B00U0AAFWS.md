@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00U0AAFWS: Rebaja en Panasonic Lumix DC-TZ70 - Cámara Compact en Amazon'
+title: 'Panasonic Lumix DC-TZ70 - Cámara Compact'
 date: 2019/12/16 09:08:37 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ufaejrzNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ufaejrzNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00U0AAFWS

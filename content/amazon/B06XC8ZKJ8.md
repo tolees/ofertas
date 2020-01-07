@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06XC8ZKJ8 - Ofertón en Amazon para Nobleza - Rascador para Gatos de cartón.'
+title: 'Nobleza - Rascador para Gatos de cartón.'
 date: 2019/12/25 10:57:25 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vNbRVqltL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vNbRVqltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KTJJLT3 - Ofertón en Amazon para Volcom Frickin Mdrn Stch 19 - Pantalones'
+title: 'Volcom Frickin Mdrn Stch 19 - Pantalones'
 date: 2019/12/11 21:50:54 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2BLnQSE1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2BLnQSE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

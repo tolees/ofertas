@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NBB9LBU: Rebaja en Wrangler Greensboro Regular Jeans Vaquer en Amazon'
+title: 'Wrangler Greensboro Regular Jeans Vaquer'
 date: 2019/12/27 11:47:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PCAtmIeyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PCAtmIeyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NBB9LBU

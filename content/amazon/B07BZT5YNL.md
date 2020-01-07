@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07BZT5YNL - Ofertón en Amazon para Triumph Amourette 300 W X Sujetador con '
+title: 'Triumph Amourette 300 W X Sujetador con '
 date: 2019/12/16 13:25:38 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519aRZpDEuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519aRZpDEuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

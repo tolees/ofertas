@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07TFWBQ5Y - Ofertón en Amazon para Yooka-Laylee and the Impossible Lair'
+title: 'Yooka-Laylee and the Impossible Lair'
 date: 2020-01-03 06:02:49
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51aFfyX3r4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aFfyX3r4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

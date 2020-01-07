@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FHDD5X2: Ahorra en Salomon XA Gap Gorra  para Entrenamiento'
+title: 'Salomon XA Gap Gorra  para Entrenamiento'
 date: 2020-01-04 15:34:53
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Hqv1JoX9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hqv1JoX9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FHDD5X2

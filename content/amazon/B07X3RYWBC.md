@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07X3RYWBC: Rebaja en coskefy Guantes Ciclismo Invierno Guante en Amazon'
+title: 'coskefy Guantes Ciclismo Invierno Guante'
 date: 2019/12/14 20:19:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51v9Nt-ZEgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v9Nt-ZEgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07X3RYWBC

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072LNNTCH: Rebaja en Crocs Crocs Fun Lab Frozen Clog Kids  Mä en Amazon'
+title: 'Crocs Crocs Fun Lab Frozen Clog Kids  Mä'
 date: 2019/12/14 07:15:01 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dmye7GdLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dmye7GdLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072LNNTCH

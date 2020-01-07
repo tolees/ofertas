@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Z7NXD3B: Rebaja en Mini proyector  ELEPHAS Video Proyector  en Amazon'
+title: 'Mini proyector  ELEPHAS Video Proyector '
 date: 2019/12/23 18:03:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/417wBzszXAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417wBzszXAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Z7NXD3B

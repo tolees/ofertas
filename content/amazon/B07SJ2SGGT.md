@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SJ2SGGT: Ahorra en BRIKSMAX Led Lighting Kit for Lego Ideas'
+title: 'BRIKSMAX Led Lighting Kit for Lego Ideas'
 date: 2020-01-05 22:19:01
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SJ2SGGT

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VHRMY4T - Ofertón en Amazon para 00779 XuanPad'
+title: '00779 XuanPad'
 date: 2019/12/28 16:07:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OSZlBr3wL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OSZlBr3wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

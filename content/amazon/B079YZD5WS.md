@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079YZD5WS: Rebaja en Runbow - Deluxe Edition en Amazon'
+title: 'Runbow - Deluxe Edition'
 date: 2019/12/24 10:51:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51qTD1QQaAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qTD1QQaAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079YZD5WS

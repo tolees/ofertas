@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07W4BT2BB: Ahorra en Xpreen Sarro Dental Limpieza Dental kit '
+title: 'Xpreen Sarro Dental Limpieza Dental kit '
 date: 2019/12/13 03:00:54 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rp65OsblL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rp65OsblL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07W4BT2BB

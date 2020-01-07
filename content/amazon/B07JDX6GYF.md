@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JDX6GYF: Ahorra en Crocs Crocband Rain Boot Kids  Botas de '
+title: 'Crocs Crocband Rain Boot Kids  Botas de '
 date: 2020-01-03 13:10:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31isqnkdUJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31isqnkdUJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JDX6GYF

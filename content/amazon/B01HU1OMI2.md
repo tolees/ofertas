@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01HU1OMI2 - Ofertón en Amazon para Bulova Reloj Cronógrafo para Hombre de C'
+title: 'Bulova Reloj Cronógrafo para Hombre de C'
 date: 2019/12/13 22:55:44 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bnBp5LCnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bnBp5LCnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

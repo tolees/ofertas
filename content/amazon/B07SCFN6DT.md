@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07SCFN6DT - Ofertón en Amazon para adidas Real Madrid Mini Home Kids Equipa'
+title: 'adidas Real Madrid Mini Home Kids Equipa'
 date: 2019/12/12 10:32:45 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zEpswGsqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zEpswGsqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

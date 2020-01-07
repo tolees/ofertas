@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07FNS6J8X - Ofertón en Amazon para LEGO City 60217 Löschflugzeug der Feuerw'
+title: 'LEGO City 60217 Löschflugzeug der Feuerw'
 date: 2019/12/30 21:45:02 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51JR%2BYwVqGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JR%2BYwVqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

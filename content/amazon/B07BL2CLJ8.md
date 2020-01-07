@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BL2CLJ8: Rebaja en New Balance Fresh Foam Zante Pursuit  Za en Amazon'
+title: 'New Balance Fresh Foam Zante Pursuit  Za'
 date: 2019/12/24 12:03:58 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41wsAinWnzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wsAinWnzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BL2CLJ8

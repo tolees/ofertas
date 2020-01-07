@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07K8FNGKJ: Ahorra en DADYPET Cortauñas Perros  Cortauñas Elec'
+title: 'DADYPET Cortauñas Perros  Cortauñas Elec'
 date: 2020-01-03 12:16:50
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fy9p9xK8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fy9p9xK8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K8FNGKJ

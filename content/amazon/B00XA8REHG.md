@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00XA8REHG - Ofertón en Amazon para Hojiblanca  Aceite de oliva  Virgen extr'
+title: 'Hojiblanca  Aceite de oliva  Virgen extr'
 date: 2020-01-04 09:12:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41z5nY8R5PL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z5nY8R5PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

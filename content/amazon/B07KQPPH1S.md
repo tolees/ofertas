@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KQPPH1S: Ahorra en Salomon ALPHACROSS GTX W  Zapatillas de '
+title: 'Salomon ALPHACROSS GTX W  Zapatillas de '
 date: 2020-01-05 18:49:15
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31PDXw56oKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PDXw56oKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQPPH1S

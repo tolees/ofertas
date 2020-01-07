@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073JNTDHW: Rebaja en find. Camiseta Manga Larga Hombre  Azul  en Amazon'
+title: 'find. Camiseta Manga Larga Hombre  Azul '
 date: 2019/12/17 13:39:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41SKRdAXvNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SKRdAXvNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073JNTDHW

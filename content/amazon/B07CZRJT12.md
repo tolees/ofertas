@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07CZRJT12 - Ofertón en Amazon para Under Armour Favorite Legging WM Ar Legg'
+title: 'Under Armour Favorite Legging WM Ar Legg'
 date: 2019/12/16 15:50:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Bfu2nVVsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Bfu2nVVsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

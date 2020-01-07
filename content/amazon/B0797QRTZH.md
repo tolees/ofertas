@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0797QRTZH: Rebaja en Puma LIGA Sideline Poly Core  Chaqueta d en Amazon'
+title: 'Puma LIGA Sideline Poly Core  Chaqueta d'
 date: 2019/12/29 16:23:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GDfVj4w2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GDfVj4w2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0797QRTZH

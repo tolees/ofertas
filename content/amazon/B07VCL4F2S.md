@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VCL4F2S - Ofertón en Amazon para deAO Mi Primera Muñeca Bebé Conjunto Set'
+title: 'deAO Mi Primera Muñeca Bebé Conjunto Set'
 date: 2019/12/14 20:07:49 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/514TCCOzwOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514TCCOzwOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

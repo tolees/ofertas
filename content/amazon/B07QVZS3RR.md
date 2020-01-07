@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QVZS3RR: Ahorra en Asics Jolt 2 GS  Zapatillas de Entrenami'
+title: 'Asics Jolt 2 GS  Zapatillas de Entrenami'
 date: 2019/12/22 13:41:30 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RuP6uA5VL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RuP6uA5VL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QVZS3RR

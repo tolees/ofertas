@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KR9RH3Q - Ofertón en Amazon para New Balance 624v5  Zapatillas Deportivas'
+title: 'New Balance 624v5  Zapatillas Deportivas'
 date: 2020-01-02 10:29:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

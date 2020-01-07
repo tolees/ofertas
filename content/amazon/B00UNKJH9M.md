@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00UNKJH9M: Rebaja en Philips HC5438/80 - Cortapelos con cuchi en Amazon'
+title: 'Philips HC5438/80 - Cortapelos con cuchi'
 date: 2020-01-07 10:52:30
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hAfA-I7IL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hAfA-I7IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00UNKJH9M

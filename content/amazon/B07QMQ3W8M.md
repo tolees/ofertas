@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QMQ3W8M: Ahorra en Guzack Riñonera Deportivo Bolso Cintura '
+title: 'Guzack Riñonera Deportivo Bolso Cintura '
 date: 2019/12/28 13:30:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419RK9SOenL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419RK9SOenL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QMQ3W8M

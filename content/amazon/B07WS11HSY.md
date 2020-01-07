@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WS11HSY: Ahorra en ELEGIANT Altavoz PC  Barra de Sonido Blu'
+title: 'ELEGIANT Altavoz PC  Barra de Sonido Blu'
 date: 2020-01-03 09:14:22
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41aDfigsTuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aDfigsTuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WS11HSY

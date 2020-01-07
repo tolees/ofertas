@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CT1D6VS: Ahorra en Diablo III: Eternal Collection'
+title: 'Diablo III: Eternal Collection'
 date: 2019/12/26 16:03:55 +0000
 comments: true
-image: 'None._SL200_'
+thumbnailImage: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B07CT1D6VS

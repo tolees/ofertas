@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PQSRGJF: Ahorra en deAO Conjunto de Herramientas 3 en 1 de '
+title: 'deAO Conjunto de Herramientas 3 en 1 de '
 date: 2020-01-03 10:53:15
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XUFIdSkcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XUFIdSkcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PQSRGJF

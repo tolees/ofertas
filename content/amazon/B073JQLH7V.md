@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B073JQLH7V - Ofertón en Amazon para find. Cazadora Estilo Bomber para Hombre'
+title: 'find. Cazadora Estilo Bomber para Hombre'
 date: 2019/12/22 19:44:43 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XHt0XmGBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XHt0XmGBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

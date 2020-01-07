@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WTWDSVS: Rebaja en Volwco Luz LED de Noche de arcoíris  de  en Amazon'
+title: 'Volwco Luz LED de Noche de arcoíris  de '
 date: 2019/12/12 08:43:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41DpoSYQD8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DpoSYQD8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WTWDSVS

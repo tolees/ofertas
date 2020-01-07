@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07D5SSMN9 - Ofertón en Amazon para Puma ESS Logo Crew TR Camisa de Entrenam'
+title: 'Puma ESS Logo Crew TR Camisa de Entrenam'
 date: 2019/12/22 20:10:00 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314a35IRXnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314a35IRXnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

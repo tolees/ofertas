@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BLH7FT8: Rebaja en World Of Warcraft: Battle For Azeroth -  en Amazon'
+title: 'World Of Warcraft: Battle For Azeroth - '
 date: 2019/12/27 20:02:52 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51CGUehZOsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CGUehZOsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BLH7FT8

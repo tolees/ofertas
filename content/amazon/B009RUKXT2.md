@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B009RUKXT2: Rebaja en Johnnie Walker Blue Whisky Escocés - 700 en Amazon'
+title: 'Johnnie Walker Blue Whisky Escocés - 700'
 date: 2019-12-31 19:33:48
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ivH6iYEZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ivH6iYEZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B009RUKXT2

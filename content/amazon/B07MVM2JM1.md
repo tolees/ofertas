@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MVM2JM1: Rebaja en super.natural Bequemer Herren Pullover   en Amazon'
+title: 'super.natural Bequemer Herren Pullover  '
 date: 2020-01-03 13:43:31
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311jZigggTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311jZigggTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MVM2JM1

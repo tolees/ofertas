@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PBFMS75: Ahorra en inphic Ratón inalámbrico  Slim Silent Cl'
+title: 'inphic Ratón inalámbrico  Slim Silent Cl'
 date: 2019/12/19 08:21:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31vQUalMHyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vQUalMHyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PBFMS75

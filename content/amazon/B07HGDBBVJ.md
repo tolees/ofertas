@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HGDBBVJ: Ahorra en New Balance Wsx90tv1  Zapatillas para Mu'
+title: 'New Balance Wsx90tv1  Zapatillas para Mu'
 date: 2019/12/11 18:45:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OsY2E-4IL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OsY2E-4IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HGDBBVJ

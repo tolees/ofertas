@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07VDPXYG8: Rebaja en CONTROL Kit de 3 geles 2in1 Masajes & Lu en Amazon'
+title: 'CONTROL Kit de 3 geles 2in1 Masajes & Lu'
 date: 2019/12/11 08:20:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51noxkR6NbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51noxkR6NbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VDPXYG8

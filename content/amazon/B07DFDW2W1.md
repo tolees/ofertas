@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DFDW2W1 - Ofertón en Amazon para Funko Simpsons Pop Maggie Simpson  Multi'
+title: 'Funko Simpsons Pop Maggie Simpson  Multi'
 date: 2019/12/22 08:46:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31EINuK4BpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EINuK4BpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

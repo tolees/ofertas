@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BDK2TCQ: Rebaja en Aicok Bascula Grasa Corporal   Báscula d en Amazon'
+title: 'Aicok Bascula Grasa Corporal   Báscula d'
 date: 2020-01-05 07:06:28
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nNyDyOoFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nNyDyOoFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BDK2TCQ

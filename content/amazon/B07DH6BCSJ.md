@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DH6BCSJ: Rebaja en BNTTEAM 6 Paquetes 2.1m  2.4m  3.0m 3.6m en Amazon'
+title: 'BNTTEAM 6 Paquetes 2.1m  2.4m  3.0m 3.6m'
 date: 2019/12/11 00:55:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5103VB8aG9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5103VB8aG9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DH6BCSJ

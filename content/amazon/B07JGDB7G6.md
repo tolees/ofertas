@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JGDB7G6 - Ofertón en Amazon para Columbia Ivo Trail  Zapatillas para Homb'
+title: 'Columbia Ivo Trail  Zapatillas para Homb'
 date: 2020-01-06 18:49:34
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

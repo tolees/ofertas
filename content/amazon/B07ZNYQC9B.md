@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07ZNYQC9B - Ofertón en Amazon para Valsole Plantillas Ortopédicas soportes '
+title: 'Valsole Plantillas Ortopédicas soportes '
 date: 2020-01-01 15:51:58
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-gykdu7LL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-gykdu7LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

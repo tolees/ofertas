@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F6Y3LYZ: Rebaja en Stop Caída + Crecimiento | Potente trata en Amazon'
+title: 'Stop Caída + Crecimiento | Potente trata'
 date: 2019/12/23 08:11:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41grqGfHRuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41grqGfHRuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F6Y3LYZ

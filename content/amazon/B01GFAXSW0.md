@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01GFAXSW0: Rebaja en Montana S34 gafas de sol  Multicolor  Bl en Amazon'
+title: 'Montana S34 gafas de sol  Multicolor  Bl'
 date: 2019/12/24 15:55:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41PTsAh4E1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PTsAh4E1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01GFAXSW0

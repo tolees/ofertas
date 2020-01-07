@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06Y2QHBXD - Ofertón en Amazon para New Balance 574 Core Zapatillas Hombre  '
+title: 'New Balance 574 Core Zapatillas Hombre  '
 date: 2019/12/28 11:39:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 comments: true
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06Y2QHBXD
@@ -13,10 +13,10 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Tienes [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   36 EU  3.5 UK ](https://www.amazon.com/dp/B06Y2QHBXD/?tag=redken08-20) a precio de oferta de 34.9 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   36 EU  3.5 UK ](https://www.amazon.com/dp/B06Y2QHBXD/?tag=redken08-20) por 34.9 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg)](https://www.amazon.com/dp/B06Y2QHBXD/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B06Y2QHBXD/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06Y2QHBXD/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01H1KWEQY - Ofertón en Amazon para Michael Kors Reloj para Mujer de MK6176'
+title: 'Michael Kors Reloj para Mujer de MK6176'
 date: 2019/12/26 20:17:24 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411bzfGzE8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411bzfGzE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

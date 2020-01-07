@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XYDZM4H - Ofertón en Amazon para Proze Sport Auriculares Inalámbricos Blu'
+title: 'Proze Sport Auriculares Inalámbricos Blu'
 date: 2020-01-03 12:29:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-6ZmqqknL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-6ZmqqknL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

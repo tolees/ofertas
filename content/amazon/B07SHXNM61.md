@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07SHXNM61 - Ofertón en Amazon para Samsung Galaxy S10 Smartphone Bundle  15'
+title: 'Samsung Galaxy S10 Smartphone Bundle  15'
 date: 2019/12/29 05:26:57 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31sNjwjeglL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sNjwjeglL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

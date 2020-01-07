@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NGTTM3N - Ofertón en Amazon para adidas  Bolso Weekend 1.9 2019 Gris Adul'
+title: 'adidas  Bolso Weekend 1.9 2019 Gris Adul'
 date: 2020-01-06 20:38:32
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31YjPbvvrkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YjPbvvrkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

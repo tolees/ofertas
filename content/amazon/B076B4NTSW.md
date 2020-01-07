@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B076B4NTSW: Rebaja en Nadal 736928 Misterio 28 Blanco  18x10x1 en Amazon'
+title: 'Nadal 736928 Misterio 28 Blanco  18x10x1'
 date: 2019/12/15 01:30:34 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/319PK2UxLOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319PK2UxLOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076B4NTSW

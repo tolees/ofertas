@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B001ADYWO6 - Ofertón en Amazon para Relaxdays Soporte Bicicleta Suspensión'
+title: 'Relaxdays Soporte Bicicleta Suspensión'
 date: 2019/12/16 16:11:48 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ClfzFUlSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ClfzFUlSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

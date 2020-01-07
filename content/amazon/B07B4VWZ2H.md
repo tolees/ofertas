@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07B4VWZ2H: Ahorra en Timbre Inalámbrico  VOXON Impermeable Do'
+title: 'Timbre Inalámbrico  VOXON Impermeable Do'
 date: 2019-12-31 17:35:46
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51xQCWBb45L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xQCWBb45L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B4VWZ2H

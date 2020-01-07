@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00TVKEAUG: Rebaja en Fantasy Fields Enchanted Woodland TD-117 en Amazon'
+title: 'Fantasy Fields Enchanted Woodland TD-117'
 date: 2020-01-02 20:32:19
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61yIMXdPxNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61yIMXdPxNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TVKEAUG

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B016UQNQ1C: Rebaja en StilGut Bluetooth Altavoz portátil  3W   en Amazon'
+title: 'StilGut Bluetooth Altavoz portátil  3W  '
 date: 2019/12/18 19:44:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51uCfljoxWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uCfljoxWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B016UQNQ1C

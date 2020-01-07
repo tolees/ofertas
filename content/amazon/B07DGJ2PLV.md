@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DGJ2PLV - Ofertón en Amazon para Oral-B Genius 8000N CrossAction - Cepill'
+title: 'Oral-B Genius 8000N CrossAction - Cepill'
 date: 2019-12-31 20:35:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Pqv0lXykL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Pqv0lXykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

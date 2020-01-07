@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00IIOI9QC - Ofertón en Amazon para Omron Healthcare M6 Comfort Monitor de p'
+title: 'Omron Healthcare M6 Comfort Monitor de p'
 date: 2019/12/16 12:57:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/414lgnWKjLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414lgnWKjLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

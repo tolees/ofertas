@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HBBC9B5: Rebaja en LAST LEVEL- Funko 17 Figura Pop Dragon B en Amazon'
+title: 'LAST LEVEL- Funko 17 Figura Pop Dragon B'
 date: 2019/12/16 21:17:23 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41457hHTOvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41457hHTOvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HBBC9B5

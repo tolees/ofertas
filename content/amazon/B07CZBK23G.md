@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CZBK23G: Ahorra en Under Armour UA Qualifier Singlet Tanque'
+title: 'Under Armour UA Qualifier Singlet Tanque'
 date: 2019/12/28 15:44:31 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31DiLnB3bFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DiLnB3bFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CZBK23G

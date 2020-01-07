@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00UGV0ZT4: Rebaja en Kempa Core Modern Pantalones De Entrenam en Amazon'
+title: 'Kempa Core Modern Pantalones De Entrenam'
 date: 2019/12/19 11:53:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41AEeGXImJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AEeGXImJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00UGV0ZT4

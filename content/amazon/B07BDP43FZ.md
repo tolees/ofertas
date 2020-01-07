@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BDP43FZ: Ahorra en American Tourister Sunside Spinner 55/20'
+title: 'American Tourister Sunside Spinner 55/20'
 date: 2019/12/12 09:16:11 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ST3957PDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ST3957PDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BDP43FZ

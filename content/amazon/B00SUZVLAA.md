@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00SUZVLAA: Ahorra en Sennheiser Momentum 2.0 Over-Ear Wireles'
+title: 'Sennheiser Momentum 2.0 Over-Ear Wireles'
 date: 2019/12/12 14:38:17 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411rS9qej8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411rS9qej8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00SUZVLAA

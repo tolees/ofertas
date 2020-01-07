@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KPT1H2W - Ofertón en Amazon para Funko 37685 POP Captain Marvel Holding L'
+title: 'Funko 37685 POP Captain Marvel Holding L'
 date: 2020-01-03 06:14:14
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41WIvtVmz9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WIvtVmz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

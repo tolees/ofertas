@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01FF8FCUE: Rebaja en JACK & JONES Jjiliam Jjoriginal Am 010 L en Amazon'
+title: 'JACK & JONES Jjiliam Jjoriginal Am 010 L'
 date: 2020-01-03 18:49:29
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41v5wMrr%2BZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v5wMrr%2BZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01FF8FCUE

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JBBBMKY - Ofertón en Amazon para LEGO 75972 - Overwatch Dorado-Showdown  '
+title: 'LEGO 75972 - Overwatch Dorado-Showdown  '
 date: 2019/12/28 21:55:27 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51oT9WqrcNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oT9WqrcNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

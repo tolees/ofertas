@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01N6DCH1K: Ahorra en USB C a HDMI Adaptador  CHOETECH Adaptad'
+title: 'USB C a HDMI Adaptador  CHOETECH Adaptad'
 date: 2020-01-06 10:21:37
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MSlJd4aWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MSlJd4aWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N6DCH1K

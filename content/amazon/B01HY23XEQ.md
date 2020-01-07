@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01HY23XEQ - Ofertón en Amazon para Lee Rider Jeans Vaqueros  Black Rinse Yc'
+title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc'
 date: 2019/12/26 10:46:28 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RELjNt5cL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RELjNt5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

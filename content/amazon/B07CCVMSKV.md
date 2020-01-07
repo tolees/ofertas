@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CCVMSKV: Rebaja en Scottex Acolchado Papel Higiénico - 63 r en Amazon'
+title: 'Scottex Acolchado Papel Higiénico - 63 r'
 date: 2019/12/15 16:12:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51VaP0h0v2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VaP0h0v2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CCVMSKV

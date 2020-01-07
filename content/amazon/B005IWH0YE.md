@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B005IWH0YE: Rebaja en Motorola MBP 8 - Vigilabebés audio "plug en Amazon'
+title: 'Motorola MBP 8 - Vigilabebés audio "plug'
 date: 2020-01-03 12:25:37
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CeOzgoFuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CeOzgoFuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B005IWH0YE

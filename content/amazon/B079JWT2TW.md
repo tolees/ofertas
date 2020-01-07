@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079JWT2TW: Rebaja en Napapijri Aerons Stand Jacke Chaqueta  A en Amazon'
+title: 'Napapijri Aerons Stand Jacke Chaqueta  A'
 date: 2019/12/27 16:17:21 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41tU2IIzeKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tU2IIzeKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079JWT2TW

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B077TBWS8W - Ofertón en Amazon para Trespass unificar de la Mujer Manga Larg'
+title: 'Trespass unificar de la Mujer Manga Larg'
 date: 2020-01-03 18:09:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hrn2fpFuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hrn2fpFuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

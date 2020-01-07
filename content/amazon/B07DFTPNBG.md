@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DFTPNBG: Rebaja en Calvin Klein Thong Tanga  Negro  Black 0 en Amazon'
+title: 'Calvin Klein Thong Tanga  Negro  Black 0'
 date: 2020-01-06 19:25:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qMXaO1pwL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qMXaO1pwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFTPNBG

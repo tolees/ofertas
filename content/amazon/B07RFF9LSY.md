@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RFF9LSY - Ofertón en Amazon para Cable de Carga para iPhone con Certifica'
+title: 'Cable de Carga para iPhone con Certifica'
 date: 2019/12/15 23:16:10 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51efPsr3L6L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51efPsr3L6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

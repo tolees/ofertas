@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JKWPRQL: Ahorra en Playmobil 70013 Western Stagecoach'
+title: 'Playmobil 70013 Western Stagecoach'
 date: 2020-01-05 22:30:45
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JKWPRQL

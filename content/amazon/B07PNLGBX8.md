@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PNLGBX8: Ahorra en OTHA Mini Proyector Portátil 3D  Proyect'
+title: 'OTHA Mini Proyector Portátil 3D  Proyect'
 date: 2019/12/28 21:38:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ho2-Y1z9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ho2-Y1z9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PNLGBX8

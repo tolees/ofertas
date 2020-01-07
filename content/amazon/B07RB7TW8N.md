@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RB7TW8N - Ofertón en Amazon para Columbia Pike Lake Chaqueta  Mujer  Verd'
+title: 'Columbia Pike Lake Chaqueta  Mujer  Verd'
 date: 2019/12/22 20:50:38 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bTLdi2e8L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bTLdi2e8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

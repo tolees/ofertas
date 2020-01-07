@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07G4BRMDZ: Rebaja en Carrera Sport Carrera Sonnenbrille Carre en Amazon'
+title: 'Carrera Sport Carrera Sonnenbrille Carre'
 date: 2019/12/20 15:12:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31UjWmjZwrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UjWmjZwrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G4BRMDZ

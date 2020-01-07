@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B074VGNTHY - Ofertón en Amazon para Sony WIC400 - Auriculares Neckband inalá'
+title: 'Sony WIC400 - Auriculares Neckband inalá'
 date: 2019/12/29 17:20:09 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41eB8e0GCgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eB8e0GCgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

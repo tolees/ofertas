@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01MYPGLT5 - Ofertón en Amazon para New Balance 220  Zapatillas para Hombre '
+title: 'New Balance 220  Zapatillas para Hombre '
 date: 2019/12/18 05:02:20 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41sMWh-pTdL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sMWh-pTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

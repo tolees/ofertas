@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B000VCXUYA: Ahorra en TPF Comercial 0007699330005 Mandil de so'
+title: 'TPF Comercial 0007699330005 Mandil de so'
 date: 2019/12/18 21:54:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31rkoMOK1YL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rkoMOK1YL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000VCXUYA

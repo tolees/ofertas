@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07H4JFMLS - Ofertón en Amazon para 16G Reproductor MP3 Bluetooth 4.0 Mibao '
+title: '16G Reproductor MP3 Bluetooth 4.0 Mibao '
 date: 2020-01-04 09:15:55
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51AK53e56pL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AK53e56pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

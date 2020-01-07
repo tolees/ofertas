@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B009DG5DWW - Ofertón en Amazon para Esi  Crema diurna facial - 50 ml.'
+title: 'Esi  Crema diurna facial - 50 ml.'
 date: 2019/12/23 10:23:04 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411nmpjRA3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411nmpjRA3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072LNNT6Q: Ahorra en Crocs Electro III Clog Kids  Unisex Niño'
+title: 'Crocs Electro III Clog Kids  Unisex Niño'
 date: 2019/12/11 18:32:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NjXqlYmrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NjXqlYmrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072LNNT6Q

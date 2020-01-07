@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QPY6QFM: Rebaja en LAYJOY Funda Xiaomi Redmi Note 7/ Xiaomi en Amazon'
+title: 'LAYJOY Funda Xiaomi Redmi Note 7/ Xiaomi'
 date: 2020-01-07 06:46:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31lOWAF5PRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lOWAF5PRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QPY6QFM

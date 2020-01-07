@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MQWI1CQ: Rebaja en Columbia Fairbanks Omni-Heat  Bota de In en Amazon'
+title: 'Columbia Fairbanks Omni-Heat  Bota de In'
 date: 2019/12/12 09:24:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31r%2BOghASvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31r%2BOghASvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MQWI1CQ

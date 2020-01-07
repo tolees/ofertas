@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JJ4BJYC - Ofertón en Amazon para G-STAR RAW 3301 Ripped Mid Waist Boyfrie'
+title: 'G-STAR RAW 3301 Ripped Mid Waist Boyfrie'
 date: 2019/12/17 18:38:49 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31C9IzYN0BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C9IzYN0BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

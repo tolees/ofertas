@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B077XNQH5Q - Ofertón en Amazon para Under Armour UA Tech 2.0 1/2 Zip Parte S'
+title: 'Under Armour UA Tech 2.0 1/2 Zip Parte S'
 date: 2019/12/16 11:06:16 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41efBGIhr0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41efBGIhr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

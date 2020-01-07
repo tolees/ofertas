@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PM3ZBMY: Ahorra en Onshine 14 Pedazos Conjunto de Juguetes '
+title: 'Onshine 14 Pedazos Conjunto de Juguetes '
 date: 2020-01-03 10:02:39
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51h8x7y2WFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h8x7y2WFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PM3ZBMY

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WRQSFHJ: Ahorra en Espejo Retrovisor Coche Bebé para Ver su'
+title: 'Espejo Retrovisor Coche Bebé para Ver su'
 date: 2019/12/24 19:19:00 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ex1-5EboL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ex1-5EboL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WRQSFHJ

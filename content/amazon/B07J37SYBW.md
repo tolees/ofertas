@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07J37SYBW: Ahorra en Under Armour Undeniable Duffel 4.0 MD Bo'
+title: 'Under Armour Undeniable Duffel 4.0 MD Bo'
 date: 2019/12/17 10:59:16 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41rSFNogTgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rSFNogTgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J37SYBW

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00JBS7BOK: Rebaja en Kempa Gold Camiseta  Hombre  Amarillo li en Amazon'
+title: 'Kempa Gold Camiseta  Hombre  Amarillo li'
 date: 2019/12/17 01:36:13 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419Tj0my0WL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Tj0my0WL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JBS7BOK

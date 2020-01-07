@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01JZB5LDK - Ofertón en Amazon para Rimmel London Scandaleyes Micro Eyeliner'
+title: 'Rimmel London Scandaleyes Micro Eyeliner'
 date: 2019/12/21 12:57:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31zcQ93yzsL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zcQ93yzsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

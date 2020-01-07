@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JHSN2J3: Ahorra en G-STAR RAW 3301 Mid Waist Boyfriend Colo'
+title: 'G-STAR RAW 3301 Mid Waist Boyfriend Colo'
 date: 2019/12/18 20:06:07 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21yrekYR2SL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21yrekYR2SL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JHSN2J3

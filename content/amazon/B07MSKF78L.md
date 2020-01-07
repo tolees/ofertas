@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MSKF78L: Rebaja en Clarks - Botines de Cuero Hombre  Color  en Amazon'
+title: 'Clarks - Botines de Cuero Hombre  Color '
 date: 2019/12/14 09:14:26 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LKQBJo08L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LKQBJo08L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MSKF78L

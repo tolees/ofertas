@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DFDD3CY - Ofertón en Amazon para Funko 32221 POP Vinyl: Married w/Childre'
+title: 'Funko 32221 POP Vinyl: Married w/Childre'
 date: 2020-01-04 14:08:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31rOcrRmaWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rOcrRmaWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

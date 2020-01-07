@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07VBZJCDX - Ofertón en Amazon para zhi wei Mochila Antirrobo Impermeable Mo'
+title: 'zhi wei Mochila Antirrobo Impermeable Mo'
 date: 2019/12/31 09:12:35 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41erCFvSw%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erCFvSw%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

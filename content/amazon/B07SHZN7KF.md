@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SHZN7KF: Rebaja en Nike Court Royale  Zapatillas de Tenis p en Amazon'
+title: 'Nike Court Royale  Zapatillas de Tenis p'
 date: 2020-01-01 16:40:01
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/315nrtBvECL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315nrtBvECL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SHZN7KF

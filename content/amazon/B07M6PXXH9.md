@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07M6PXXH9 - Ofertón en Amazon para Pantalla de proyector de Montaje en Pare'
+title: 'Pantalla de proyector de Montaje en Pare'
 date: 2019/12/30 19:11:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51AUg60cyBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AUg60cyBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

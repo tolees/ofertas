@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B071JT5WJG: Ahorra en CHILIPET Correa para Perros de 122cm de '
+title: 'CHILIPET Correa para Perros de 122cm de '
 date: 2019/12/15 09:38:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51bvrEUFKWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bvrEUFKWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071JT5WJG

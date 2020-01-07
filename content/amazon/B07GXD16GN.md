@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07GXD16GN - Ofertón en Amazon para DH-QN05 Calefactor Portátil Eléctrico PT'
+title: 'DH-QN05 Calefactor Portátil Eléctrico PT'
 date: 2019/12/31 13:30:54 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41M8L38MtSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M8L38MtSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

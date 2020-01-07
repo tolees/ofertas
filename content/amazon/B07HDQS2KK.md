@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HDQS2KK: Ahorra en perfk Soporte De Bicicleta Soporte De Ba'
+title: 'perfk Soporte De Bicicleta Soporte De Ba'
 date: 2019/12/11 08:59:48 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41covCVnafL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41covCVnafL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HDQS2KK

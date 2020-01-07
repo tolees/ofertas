@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00UC0I9PQ - Ofertón en Amazon para EXPERT E010602 - Mochila con ruedas'
+title: 'EXPERT E010602 - Mochila con ruedas'
 date: 2019/12/28 06:10:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41GQUatWL2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GQUatWL2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

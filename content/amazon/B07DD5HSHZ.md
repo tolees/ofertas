@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DD5HSHZ: Ahorra en Odlo Hoody Midlayer 1/2 Zip Steam Sudade'
+title: 'Odlo Hoody Midlayer 1/2 Zip Steam Sudade'
 date: 2020-01-04 17:25:42
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OvxuDyS4L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OvxuDyS4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DD5HSHZ

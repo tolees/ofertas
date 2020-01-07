@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RTKB1WF: Rebaja en Oral-B Kids Cars Elektrische Zahnbürste  en Amazon'
+title: 'Oral-B Kids Cars Elektrische Zahnbürste '
 date: 2019/12/16 00:30:19 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wV6pQ76%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wV6pQ76%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RTKB1WF

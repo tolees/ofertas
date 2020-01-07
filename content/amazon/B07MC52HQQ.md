@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MC52HQQ: Rebaja en Wilson WTB9017XB05 Pelota de Baloncesto  en Amazon'
+title: 'Wilson WTB9017XB05 Pelota de Baloncesto '
 date: 2019/12/23 12:19:47 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410hJBBNdGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410hJBBNdGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MC52HQQ

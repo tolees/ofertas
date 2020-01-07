@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DHGFKQ5: Ahorra en AngLink Guantes Barbacoa  Resistentes Al'
+title: 'AngLink Guantes Barbacoa  Resistentes Al'
 date: 2019/12/30 03:15:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51PFlLDFD0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PFlLDFD0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DHGFKQ5

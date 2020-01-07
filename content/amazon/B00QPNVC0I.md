@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00QPNVC0I: Ahorra en Real Techniques  Esponja para maquillaje'
+title: 'Real Techniques  Esponja para maquillaje'
 date: 2019/12/26 11:09:10 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gB73CzXTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gB73CzXTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00QPNVC0I

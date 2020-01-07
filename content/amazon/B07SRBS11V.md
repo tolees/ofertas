@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07SRBS11V - Ofertón en Amazon para Oral-B PRO 2 2000 - Cepillo Eléctrico Re'
+title: 'Oral-B PRO 2 2000 - Cepillo Eléctrico Re'
 date: 2019/12/30 07:02:01 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

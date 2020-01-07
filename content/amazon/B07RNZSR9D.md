@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07RNZSR9D: Rebaja en Camara de Caza EXCELVAN Ángulo de detecc en Amazon'
+title: 'Camara de Caza EXCELVAN Ángulo de detecc'
 date: 2019/12/17 18:16:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-sFhg8u1L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-sFhg8u1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RNZSR9D

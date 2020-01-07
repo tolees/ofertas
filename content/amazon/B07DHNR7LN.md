@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07DHNR7LN - Ofertón en Amazon para Aussie Hair 3 Minute Miracle Stop The Br'
+title: 'Aussie Hair 3 Minute Miracle Stop The Br'
 date: 2019/12/24 00:37:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31oJNnsOXfL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oJNnsOXfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

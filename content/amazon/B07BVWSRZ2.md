@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BVWSRZ2: Ahorra en seQoya - General Sherman | Reloj de Made'
+title: 'seQoya - General Sherman | Reloj de Made'
 date: 2019/12/21 17:19:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416FIOMuc9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416FIOMuc9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BVWSRZ2

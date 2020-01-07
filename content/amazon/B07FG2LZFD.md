@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FG2LZFD: Ahorra en HP Pavilion 590-p0305ns - Ordenador de s'
+title: 'HP Pavilion 590-p0305ns - Ordenador de s'
 date: 2019/12/29 20:22:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Wv9FIqqTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Wv9FIqqTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FG2LZFD

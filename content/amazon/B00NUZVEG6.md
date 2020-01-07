@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00NUZVEG6: Rebaja en Tous Love Moments Agua de Colonia - 30 m en Amazon'
+title: 'Tous Love Moments Agua de Colonia - 30 m'
 date: 2019/12/16 13:03:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VmokBmyRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VmokBmyRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NUZVEG6

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CNNXWDP: Rebaja en Diesel UMLT-JAKE  Camiseta para Hombre   en Amazon'
+title: 'Diesel UMLT-JAKE  Camiseta para Hombre  '
 date: 2019/12/11 17:09:14 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416DJ69O17L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416DJ69O17L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CNNXWDP

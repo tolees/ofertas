@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B005X4TDSI: Ahorra en Goliath - Juego Triominos de Viaje en Ca'
+title: 'Goliath - Juego Triominos de Viaje en Ca'
 date: 2020-01-02 13:05:59
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/517eM9XZFqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517eM9XZFqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B005X4TDSI

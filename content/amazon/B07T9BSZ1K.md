@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07T9BSZ1K - Ofertón en Amazon para Upgrade Transmisor FM Bluetooth 5.0 Coch'
+title: 'Upgrade Transmisor FM Bluetooth 5.0 Coch'
 date: 2019/12/30 09:49:06 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51d6Tuoj4WL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d6Tuoj4WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

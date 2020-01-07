@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07HFZV95W: Rebaja en New Balance 997h  Zapatillas para Mujer  en Amazon'
+title: 'New Balance 997h  Zapatillas para Mujer '
 date: 2019/12/12 10:41:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HFZV95W

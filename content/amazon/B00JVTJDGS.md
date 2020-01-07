@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00JVTJDGS: Ahorra en Fossil Collar de Mujer con Acero Inoxida'
+title: 'Fossil Collar de Mujer con Acero Inoxida'
 date: 2019/12/16 19:15:11 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31gvuZwyKqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gvuZwyKqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JVTJDGS

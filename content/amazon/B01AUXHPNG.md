@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01AUXHPNG - Ofertón en Amazon para amscan - Velas de cumpleaños Mario Bros '
+title: 'amscan - Velas de cumpleaños Mario Bros '
 date: 2020-01-05 22:02:23
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51wc718u3gL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wc718u3gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

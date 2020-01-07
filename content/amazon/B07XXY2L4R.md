@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XXY2L4R: Ahorra en Calcetines de Dedos Mujer Calcetines Cin'
+title: 'Calcetines de Dedos Mujer Calcetines Cin'
 date: 2019/12/14 12:11:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51iUljkbRoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iUljkbRoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XXY2L4R

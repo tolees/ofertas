@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JZ5B1RW: Rebaja en Tommy Hilfiger Essential Basic Down Jack en Amazon'
+title: 'Tommy Hilfiger Essential Basic Down Jack'
 date: 2019/12/16 22:14:59 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uAJybkZzL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uAJybkZzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JZ5B1RW

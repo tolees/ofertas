@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JDTFC6W - Ofertón en Amazon para Lacoste Hh9553 Pantalones  Beige  Vienno'
+title: 'Lacoste Hh9553 Pantalones  Beige  Vienno'
 date: 2019/12/22 12:39:01 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

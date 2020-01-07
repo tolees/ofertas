@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00U8QXDO6: Rebaja en Beter Swing - Lima ergonómica láser en Amazon'
+title: 'Beter Swing - Lima ergonómica láser'
 date: 2020-01-04 19:16:13
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21fYWCI93bL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21fYWCI93bL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00U8QXDO6

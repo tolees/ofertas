@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KXTYN19: Rebaja en JACK & JONES NOS JJEDESERT Bomber Noos C en Amazon'
+title: 'JACK & JONES NOS JJEDESERT Bomber Noos C'
 date: 2019/12/29 10:33:15 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31P5KuKr9HL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P5KuKr9HL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KXTYN19

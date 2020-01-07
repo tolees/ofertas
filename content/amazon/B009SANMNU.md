@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B009SANMNU: Ahorra en Halloween Man 125 ml'
+title: 'Halloween Man 125 ml'
 date: 2020-01-03 20:35:41
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IBwV-rJUL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IBwV-rJUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B009SANMNU

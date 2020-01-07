@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B073SCHNSY: Ahorra en find. Sudadera para Hombre  Azul  Mariti'
+title: 'find. Sudadera para Hombre  Azul  Mariti'
 date: 2020-01-05 11:13:01
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073SCHNSY

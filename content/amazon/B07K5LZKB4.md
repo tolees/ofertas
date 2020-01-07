@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07K5LZKB4: Ahorra en Levi s 502 Regular Taper Vaqueros  Azul '
+title: 'Levi s 502 Regular Taper Vaqueros  Azul '
 date: 2019/12/17 21:50:43 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41nNKcUwKLL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nNKcUwKLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K5LZKB4

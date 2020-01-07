@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BWJP5BV: Rebaja en FCBARCELONA Cluedo FC Barcelona  63409   en Amazon'
+title: 'FCBARCELONA Cluedo FC Barcelona  63409  '
 date: 2019/12/15 14:34:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61leUmUXj%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61leUmUXj%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BWJP5BV

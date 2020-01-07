@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07L9QTV6T: Rebaja en Napapijri Herren Rainforest S PKT Jacke  en Amazon'
+title: 'Napapijri Herren Rainforest S PKT Jacke '
 date: 2019/12/13 19:20:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41bltr60DxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bltr60DxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9QTV6T

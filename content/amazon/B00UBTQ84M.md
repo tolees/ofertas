@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00UBTQ84M - Ofertón en Amazon para G-STAR RAW 3301 Tapered Jeans  Azul  dk '
+title: 'G-STAR RAW 3301 Tapered Jeans  Azul  dk '
 date: 2019/12/15 08:03:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31nrBbg0kAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nrBbg0kAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

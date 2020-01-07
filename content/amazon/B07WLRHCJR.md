@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WLRHCJR: Rebaja en Zspeed Stylus Pen 2nd Gen para iPad 2018 en Amazon'
+title: 'Zspeed Stylus Pen 2nd Gen para iPad 2018'
 date: 2019/12/26 09:27:02 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/21jlNwvW3SL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21jlNwvW3SL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WLRHCJR

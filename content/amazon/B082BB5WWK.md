@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B082BB5WWK: Ahorra en Geographical Norway Chaqueta Softshell H'
+title: 'Geographical Norway Chaqueta Softshell H'
 date: 2019/12/16 13:21:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RsaYA8UtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082BB5WWK

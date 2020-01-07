@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00P8XQPY4 - Ofertón en Amazon para Memoria Flash USB 3.0 SanDisk Ultra de 1'
+title: 'Memoria Flash USB 3.0 SanDisk Ultra de 1'
 date: 2020-01-06 22:12:20
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31CEA7ALWpL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CEA7ALWpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

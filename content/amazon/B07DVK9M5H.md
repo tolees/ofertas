@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DVK9M5H: Ahorra en New Balance Men s Summit Unknown Trail R'
+title: 'New Balance Men s Summit Unknown Trail R'
 date: 2019/12/24 22:45:50 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41T812voRxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T812voRxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DVK9M5H

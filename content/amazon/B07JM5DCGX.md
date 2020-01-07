@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JM5DCGX: Ahorra en Playmobil 70146 City Life Mitnehm-Tierkl'
+title: 'Playmobil 70146 City Life Mitnehm-Tierkl'
 date: 2020-01-05 22:39:43
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tiyfMPGZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tiyfMPGZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JM5DCGX

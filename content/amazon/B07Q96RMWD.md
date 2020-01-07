@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07Q96RMWD: Ahorra en Far Cry New Dawn - Ultimate Edition  Bun'
+title: 'Far Cry New Dawn - Ultimate Edition  Bun'
 date: 2019/12/29 18:14:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/519CmIY9umL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519CmIY9umL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q96RMWD

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B005FMZWD8 - Ofertón en Amazon para Invicta 1513 I-Force Reloj para Hombre a'
+title: 'Invicta 1513 I-Force Reloj para Hombre a'
 date: 2020-01-03 01:24:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qqt%2BVGPjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qqt%2BVGPjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

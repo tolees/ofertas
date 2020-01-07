@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XG3GBTX - Ofertón en Amazon para Esprit 109Ee1K003 Camiseta de Manga Larg'
+title: 'Esprit 109Ee1K003 Camiseta de Manga Larg'
 date: 2019/12/19 14:23:41 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314tbaBR13L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314tbaBR13L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KFZ7XZR - Ofertón en Amazon para Puma Icra Trainer Sd V Inf Zapatillas Un'
+title: 'Puma Icra Trainer Sd V Inf Zapatillas Un'
 date: 2020-01-06 10:28:12
-image: 'https://images-eu.ssl-images-amazon.com/images/I/411OePTwGGL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411OePTwGGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

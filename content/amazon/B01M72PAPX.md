@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01M72PAPX - Ofertón en Amazon para hummel Slimmer Stadil Low  Zapatillas Un'
+title: 'hummel Slimmer Stadil Low  Zapatillas Un'
 date: 2019/12/17 22:39:52 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41n8tdrnttL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n8tdrnttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

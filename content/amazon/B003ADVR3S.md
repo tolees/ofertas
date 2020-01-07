@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B003ADVR3S: Ahorra en KidKraft- Casa de muñecas de madera con '
+title: 'KidKraft- Casa de muñecas de madera con '
 date: 2020-01-07 06:41:11
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51KlQ566siL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KlQ566siL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B003ADVR3S

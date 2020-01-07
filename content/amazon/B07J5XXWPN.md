@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J5XXWPN - Ofertón en Amazon para Skechers Bounder  Zapatillas para Hombre'
+title: 'Skechers Bounder  Zapatillas para Hombre'
 date: 2019/12/11 21:05:02 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41UKCeNSYEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UKCeNSYEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

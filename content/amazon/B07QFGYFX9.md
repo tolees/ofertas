@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QFGYFX9 - Ofertón en Amazon para Skagen Reloj Analógico para Hombre de Cu'
+title: 'Skagen Reloj Analógico para Hombre de Cu'
 date: 2020-01-07 11:42:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41lQD5uqkkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lQD5uqkkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

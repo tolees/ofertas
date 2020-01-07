@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0140IEGIE - Ofertón en Amazon para Oral-B PRO 750 CrossAction Pack Regalo  '
+title: 'Oral-B PRO 750 CrossAction Pack Regalo  '
 date: 2019-12-31 21:51:00
-image: 'https://images-eu.ssl-images-amazon.com/images/I/511fBXScl2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511fBXScl2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

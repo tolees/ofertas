@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H2RBQSQ: Rebaja en Godmorn Cafetera italiana Cafetera espre en Amazon'
+title: 'Godmorn Cafetera italiana Cafetera espre'
 date: 2020-01-06 11:06:29
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KreqzjSPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KreqzjSPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H2RBQSQ

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GVFHKKF: Ahorra en iPosible Luz Solar Jardín  Upgraded 60 L'
+title: 'iPosible Luz Solar Jardín  Upgraded 60 L'
 date: 2019/12/22 19:59:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51aIBjBEyoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aIBjBEyoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GVFHKKF

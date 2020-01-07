@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B002VJJYCS - Ofertón en Amazon para Tuscany Silver Cadena de mujer con plata'
+title: 'Tuscany Silver Cadena de mujer con plata'
 date: 2019/12/17 08:53:18 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31tIQ5m-%2BAL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tIQ5m-%2BAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00SF8N9NY: Rebaja en G-STAR RAW Lynn Mid Waist Skinny  Vaquer en Amazon'
+title: 'G-STAR RAW Lynn Mid Waist Skinny  Vaquer'
 date: 2020-01-04 12:55:36
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41x7O3x%2BD9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x7O3x%2BD9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00SF8N9NY

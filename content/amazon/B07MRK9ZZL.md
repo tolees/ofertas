@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MRK9ZZL: Rebaja en Lacoste Hh9553 Pantalones  Beige  Vienno en Amazon'
+title: 'Lacoste Hh9553 Pantalones  Beige  Vienno'
 date: 2020-01-01 09:27:38
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31TdECoKggL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TdECoKggL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MRK9ZZL

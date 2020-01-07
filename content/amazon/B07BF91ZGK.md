@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07BF91ZGK: Rebaja en XL-S Medical Captagrasas para Perder Pes en Amazon'
+title: 'XL-S Medical Captagrasas para Perder Pes'
 date: 2019/12/11 00:10:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41v9a72Xg0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v9a72Xg0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BF91ZGK

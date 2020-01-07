@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B001VEIXIK - Ofertón en Amazon para Drumond Park The LOGO Board Game - The F'
+title: 'Drumond Park The LOGO Board Game - The F'
 date: 2019/12/22 16:52:40 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

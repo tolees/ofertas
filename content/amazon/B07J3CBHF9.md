@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07J3CBHF9 - Ofertón en Amazon para Under Armour Undeniable Duffel 4.0 MD Bo'
+title: 'Under Armour Undeniable Duffel 4.0 MD Bo'
 date: 2019/12/17 09:10:45 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41xnKa4uIrL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnKa4uIrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

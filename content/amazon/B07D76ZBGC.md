@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07D76ZBGC - Ofertón en Amazon para Levi s Mile High Super Skinny Vaqueros  '
+title: 'Levi s Mile High Super Skinny Vaqueros  '
 date: 2019/12/11 12:18:31 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

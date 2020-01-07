@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NZY9LLD: Rebaja en Skechers Oak Canyon-Ironhide  Zapatillas en Amazon'
+title: 'Skechers Oak Canyon-Ironhide  Zapatillas'
 date: 2019/12/24 18:58:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/419i2qBirIL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419i2qBirIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NZY9LLD

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07S69JRPC - Ofertón en Amazon para Karen Millen Tie Waist Eyelet Trouser Pa'
+title: 'Karen Millen Tie Waist Eyelet Trouser Pa'
 date: 2019/12/23 15:35:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31sWu7ROv3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sWu7ROv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

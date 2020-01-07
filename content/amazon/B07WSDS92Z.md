@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07WSDS92Z: Ahorra en Luz Solar Exterior  Ekrist【Iluminación d'
+title: 'Luz Solar Exterior  Ekrist【Iluminación d'
 date: 2020-01-05 14:43:47
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51FgVwSgPoL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FgVwSgPoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WSDS92Z
@@ -13,10 +13,10 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Luz Solar Exterior  Ekrist【Iluminación de 5 Lados】118 LED Luces Solares Foco Solar Exterior con Sensor de Movimiento  270°Gran Angular Impermeable Lampara Solar Exterior Para Jardín 2-Paquete](https://www.amazon.com/dp/B07WSDS92Z/?tag=redken08-20) a 25.95 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [Luz Solar Exterior  Ekrist【Iluminación de 5 Lados】118 LED Luces Solares Foco Solar Exterior con Sensor de Movimiento  270°Gran Angular Impermeable Lampara Solar Exterior Para Jardín 2-Paquete](https://www.amazon.com/dp/B07WSDS92Z/?tag=redken08-20) por 25.95 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51FgVwSgPoL._SL200_.jpg)](https://www.amazon.com/dp/B07WSDS92Z/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07WSDS92Z/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07WSDS92Z/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

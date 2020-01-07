@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00NHDSIEM - Ofertón en Amazon para Venom - Controller Kit  PS4 '
+title: 'Venom - Controller Kit  PS4 '
 date: 2019/12/14 21:44:43 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z9UNN5CvL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z9UNN5CvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

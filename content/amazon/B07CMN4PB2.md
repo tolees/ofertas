@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CMN4PB2: Ahorra en Negro Billeteras Hombre Wilbest  Cartera'
+title: 'Negro Billeteras Hombre Wilbest  Cartera'
 date: 2020-01-06 12:30:00
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41yfXdXK-AL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yfXdXK-AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CMN4PB2

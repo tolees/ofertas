@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07D9L2XPT: Ahorra en Adidas X 18.3 FG  Zapatillas de Fútbol p'
+title: 'Adidas X 18.3 FG  Zapatillas de Fútbol p'
 date: 2019/12/15 20:49:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41cqIvj-ZkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cqIvj-ZkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D9L2XPT

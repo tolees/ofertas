@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07PZXLH33 - Ofertón en Amazon para Lenovo Ideapad 530S-14IKB  Ordenador Por'
+title: 'Lenovo Ideapad 530S-14IKB  Ordenador Por'
 date: 2020-01-02 12:16:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

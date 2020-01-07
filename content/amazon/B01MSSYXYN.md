@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01MSSYXYN - Ofertón en Amazon para Victoria Botin Basket Autoclave  Zapatil'
+title: 'Victoria Botin Basket Autoclave  Zapatil'
 date: 2019/12/15 14:28:37 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41hwl4SJB2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hwl4SJB2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

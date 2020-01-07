@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07ZGF4YRP - Ofertón en Amazon para Proyector  YABER 6500 Lúmenes Proyector '
+title: 'Proyector  YABER 6500 Lúmenes Proyector '
 date: 2020-01-03 15:35:41
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51rMF4QRgBL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rMF4QRgBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

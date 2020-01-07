@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07CR4QSPN: Rebaja en Revell Control Technik 24712 RC Car  Kon en Amazon'
+title: 'Revell Control Technik 24712 RC Car  Kon'
 date: 2019/12/23 00:48:03 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51-gjqu3qWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-gjqu3qWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CR4QSPN

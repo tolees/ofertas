@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MCSPK4M - Ofertón en Amazon para Napapijri DAMAVAND Crew Jersey  Rojo  Re'
+title: 'Napapijri DAMAVAND Crew Jersey  Rojo  Re'
 date: 2019/12/23 15:00:03 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31PdD0hV7CL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PdD0hV7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

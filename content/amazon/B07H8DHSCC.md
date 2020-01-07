@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07H8DHSCC: Ahorra en Lee Malone Vaqueros  Azul  Blue Drop Em '
+title: 'Lee Malone Vaqueros  Azul  Blue Drop Em '
 date: 2019/12/19 22:59:56 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41stim4gb%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41stim4gb%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H8DHSCC

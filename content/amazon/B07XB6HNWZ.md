@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07XB6HNWZ - Ofertón en Amazon para Vigorun Smartwatch Reloj Inteligente Hom'
+title: 'Vigorun Smartwatch Reloj Inteligente Hom'
 date: 2019/12/28 16:07:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51IMFVnv6EL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IMFVnv6EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

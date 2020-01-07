@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MSK3T2M - Ofertón en Amazon para Clarks Arla Free  Zapatos de Cordones De'
+title: 'Clarks Arla Free  Zapatos de Cordones De'
 date: 2020-01-04 15:55:28
-image: 'https://images-eu.ssl-images-amazon.com/images/I/413uucksQlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413uucksQlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

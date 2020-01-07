@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KJWW7LB - Ofertón en Amazon para Under Armour UA Waist Bag - Riñonera  Un'
+title: 'Under Armour UA Waist Bag - Riñonera  Un'
 date: 2019/12/18 14:32:04 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFLys078L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFLys078L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00K11UHVA - Ofertón en Amazon para TP-Link TL-WA860RE - Repetidor de red Wi'
+title: 'TP-Link TL-WA860RE - Repetidor de red Wi'
 date: 2020-01-06 16:06:10
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XGwMS1eqL._SL200_.jpg'
 comments: true
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XGwMS1eqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00K11UHVA
@@ -13,10 +13,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas ](https://www.amazon.com/dp/B00K11UHVA/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas ](https://www.amazon.com/dp/B00K11UHVA/?tag=redken08-20) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XGwMS1eqL._SL200_.jpg)](https://www.amazon.com/dp/B00K11UHVA/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00K11UHVA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00K11UHVA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

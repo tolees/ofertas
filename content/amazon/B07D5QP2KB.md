@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07D5QP2KB: Rebaja en PUMA ESS Logo Pants  Mujer  Negro  Cotto en Amazon'
+title: 'PUMA ESS Logo Pants  Mujer  Negro  Cotto'
 date: 2019/12/16 20:01:38 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D5QP2KB

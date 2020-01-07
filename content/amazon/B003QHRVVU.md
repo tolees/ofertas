@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B003QHRVVU - Ofertón en Amazon para Reebok CL LTHR 2232 - Zapatillas de depo'
+title: 'Reebok CL LTHR 2232 - Zapatillas de depo'
 date: 2020-01-02 15:33:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

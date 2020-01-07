@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RB85LLP - Ofertón en Amazon para Samsung 4K UHD 2019 65RU8005 - Smart TV '
+title: 'Samsung 4K UHD 2019 65RU8005 - Smart TV '
 date: 2019/12/20 20:48:30 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/412KNEtVZbL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412KNEtVZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

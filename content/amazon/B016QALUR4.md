@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B016QALUR4: Rebaja en adidas Parma 16 SHO Sport Shorts  Hombre en Amazon'
+title: 'adidas Parma 16 SHO Sport Shorts  Hombre'
 date: 2019/12/25 17:49:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B016QALUR4

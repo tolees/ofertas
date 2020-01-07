@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B079BVKB5F - Ofertón en Amazon para JACK & JONES Jjepaulos Polo SS Noos  Gri'
+title: 'JACK & JONES Jjepaulos Polo SS Noos  Gri'
 date: 2019/12/29 20:53:51 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gKxt%2BfFZL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gKxt%2BfFZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

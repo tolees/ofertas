@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B06XKVNRSM: Ahorra en AMD Ryzen 5 1500X Desktop CPU-AM4 Quad C'
+title: 'AMD Ryzen 5 1500X Desktop CPU-AM4 Quad C'
 date: 2020-01-05 11:28:29
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31enCJU9cKL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31enCJU9cKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XKVNRSM

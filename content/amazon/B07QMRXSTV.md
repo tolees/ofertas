@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07QMRXSTV - Ofertón en Amazon para Succionador de Clítoris  FIDECH Masajead'
+title: 'Succionador de Clítoris  FIDECH Masajead'
 date: 2019/12/18 19:20:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41kU2XaBY7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kU2XaBY7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MTWHWZ1 - Ofertón en Amazon para Logitech G332 Gaming-Kopfhörer  mit Ster'
+title: 'Logitech G332 Gaming-Kopfhörer  mit Ster'
 date: 2019/12/14 10:00:09 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41qhXHRKvkL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qhXHRKvkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

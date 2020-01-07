@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07P7MXZPC: Ahorra en Báscula Digital de Cocina hanmir Peso de'
+title: 'Báscula Digital de Cocina hanmir Peso de'
 date: 2019/12/23 15:31:57 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YDO84BmCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YDO84BmCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P7MXZPC

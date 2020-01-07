@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0735CDLYF: Ahorra en Apple iPad Pro  12 9 Pulgadas y 512 GB c'
+title: 'Apple iPad Pro  12 9 Pulgadas y 512 GB c'
 date: 2019/12/18 13:06:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41YYQxWbzuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YYQxWbzuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0735CDLYF

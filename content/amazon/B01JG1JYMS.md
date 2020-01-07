@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B01JG1JYMS - Ofertón en Amazon para Ingersoll Men s The Grafton Quartz Watch'
+title: 'Ingersoll Men s The Grafton Quartz Watch'
 date: 2019/12/12 22:29:49 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51HXWq1ZaSL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HXWq1ZaSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

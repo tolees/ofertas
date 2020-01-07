@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00VWJM09M: Rebaja en Pepe Jeans Venus Vaqueros  Azul  10Oz Ri en Amazon'
+title: 'Pepe Jeans Venus Vaqueros  Azul  10Oz Ri'
 date: 2019/12/25 10:04:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/317ddOuM7IL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317ddOuM7IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VWJM09M

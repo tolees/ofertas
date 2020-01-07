@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07JZPDZJG - Ofertón en Amazon para adidas N-5923  Zapatillas de Gimnasia pa'
+title: 'adidas N-5923  Zapatillas de Gimnasia pa'
 date: 2019/12/28 13:46:05 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

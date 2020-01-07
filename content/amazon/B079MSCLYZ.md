@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B079MSCLYZ: Ahorra en Owlboy'
+title: 'Owlboy'
 date: 2019/12/14 07:59:45 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51aCA5szPuL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aCA5szPuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079MSCLYZ

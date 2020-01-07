@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QS5FKQG: Rebaja en Asics Gel-Kayano 26  Zapatillas de Runni en Amazon'
+title: 'Asics Gel-Kayano 26  Zapatillas de Runni'
 date: 2019/12/25 09:40:22 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/416-qrD1NXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416-qrD1NXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QS5FKQG

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B0757YQLJB: Ahorra en find. Vaqueros Skinny con Rotos Hombre G'
+title: 'find. Vaqueros Skinny con Rotos Hombre G'
 date: 2019/12/20 11:42:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41t1y7uF5IL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1y7uF5IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0757YQLJB

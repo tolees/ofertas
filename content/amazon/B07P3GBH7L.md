@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07P3GBH7L: Rebaja en LIGE La Moda Relojes Hombre Negocios Imp en Amazon'
+title: 'LIGE La Moda Relojes Hombre Negocios Imp'
 date: 2019/12/16 20:51:04 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51pPTbYkesL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pPTbYkesL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P3GBH7L

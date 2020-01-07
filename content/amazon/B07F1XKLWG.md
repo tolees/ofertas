@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07F1XKLWG: Ahorra en Element Dulcey Chaqueta  Hombre  Negro  '
+title: 'Element Dulcey Chaqueta  Hombre  Negro  '
 date: 2019/12/14 18:33:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F1XKLWG

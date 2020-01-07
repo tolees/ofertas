@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07N6GXV4T: Ahorra en Homelody Tapa y AsientoTapadera WC Unive'
+title: 'Homelody Tapa y AsientoTapadera WC Unive'
 date: 2019/12/22 19:20:51 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311oeI1JGyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311oeI1JGyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N6GXV4T

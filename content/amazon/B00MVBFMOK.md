@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00MVBFMOK: Rebaja en deAO Camión de Construcción Excavador de en Amazon'
+title: 'deAO Camión de Construcción Excavador de'
 date: 2019/12/29 11:07:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TFjlViUgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TFjlViUgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MVBFMOK

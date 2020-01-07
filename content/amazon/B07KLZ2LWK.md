@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07KLZ2LWK - Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Bar'
+title: 'BRIKSMAX Kit de Iluminación Led para Bar'
 date: 2019/12/29 01:20:13 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BBJQZmofL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BBJQZmofL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

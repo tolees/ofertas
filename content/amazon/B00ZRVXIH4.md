@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00ZRVXIH4: Rebaja en Ghost Recon Wildlands - Standard Edition en Amazon'
+title: 'Ghost Recon Wildlands - Standard Edition'
 date: 2019/12/13 15:31:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51z8XozVZNL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z8XozVZNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00ZRVXIH4

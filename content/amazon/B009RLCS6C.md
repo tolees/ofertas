@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B009RLCS6C: Rebaja en Braun Satin Hair 7 ST780 - Plancha de pe en Amazon'
+title: 'Braun Satin Hair 7 ST780 - Plancha de pe'
 date: 2019/12/30 11:15:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41x62sUVSWL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x62sUVSWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B009RLCS6C

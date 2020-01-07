@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00ZUFRD4Q: Ahorra en Sony Cyber-shot DSC-RX100M4 - Cámara com'
+title: 'Sony Cyber-shot DSC-RX100M4 - Cámara com'
 date: 2019/12/23 08:11:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41StNRN6UDL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41StNRN6UDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00ZUFRD4Q

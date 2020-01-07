@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07RBNSBF9 - Ofertón en Amazon para Tipo C Memoria USB 64GB  RAOYI Metal Pen'
+title: 'Tipo C Memoria USB 64GB  RAOYI Metal Pen'
 date: 2019/12/14 02:09:20 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/3186rb8SjCL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3186rb8SjCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

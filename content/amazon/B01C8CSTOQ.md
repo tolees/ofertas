@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01C8CSTOQ: Ahorra en Grohe Vitalio Start -  Sistema de ducha '
+title: 'Grohe Vitalio Start -  Sistema de ducha '
 date: 2020-01-06 01:01:47
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/311XnCd%2BTgL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311XnCd%2BTgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01C8CSTOQ

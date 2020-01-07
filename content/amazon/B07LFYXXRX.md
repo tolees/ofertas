@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07LFYXXRX: Rebaja en Geox J INEK Boy C  Zapatillas Altas para en Amazon'
+title: 'Geox J INEK Boy C  Zapatillas Altas para'
 date: 2019/12/11 20:34:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jtxneG4GL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jtxneG4GL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFYXXRX

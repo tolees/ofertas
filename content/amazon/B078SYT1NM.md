@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B078SYT1NM: Ahorra en Salomon Speedcross 4 GTX  Zapatillas de '
+title: 'Salomon Speedcross 4 GTX  Zapatillas de '
 date: 2019/12/25 13:45:05 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078SYT1NM

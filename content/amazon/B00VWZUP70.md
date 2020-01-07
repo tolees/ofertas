@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00VWZUP70: Rebaja en falksson Personalisierbare Girlande Die  en Amazon'
+title: 'falksson Personalisierbare Girlande Die '
 date: 2019/12/23 00:34:39 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TmWAGwAlL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TmWAGwAlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VWZUP70

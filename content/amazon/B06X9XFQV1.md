@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06X9XFQV1 - Ofertón en Amazon para find. Zapatos de Piel Brogue para Mujer '
+title: 'find. Zapatos de Piel Brogue para Mujer '
 date: 2019/12/20 11:09:31 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31TE7H9uX9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TE7H9uX9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01M8LCPH3: Rebaja en Redford Nizza  Camisa Hombre  Azul  Blau en Amazon'
+title: 'Redford Nizza  Camisa Hombre  Azul  Blau'
 date: 2020-01-06 11:09:04
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01M8LCPH3

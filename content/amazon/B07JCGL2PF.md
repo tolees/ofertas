@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JCGL2PF: Ahorra en Columbia Alpine Action Chaqueta OH Ski d'
+title: 'Columbia Alpine Action Chaqueta OH Ski d'
 date: 2020-01-03 17:44:46
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JCGL2PF

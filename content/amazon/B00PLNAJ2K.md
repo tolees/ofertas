@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00PLNAJ2K - Ofertón en Amazon para Speedo - Traje de baño para mujer  color'
+title: 'Speedo - Traje de baño para mujer  color'
 date: 2019/12/30 18:56:55 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31rOcfqJSPL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rOcfqJSPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

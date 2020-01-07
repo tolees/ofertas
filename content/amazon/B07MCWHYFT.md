@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MCWHYFT - Ofertón en Amazon para Jeerhope Guantes de silicona para lavava'
+title: 'Jeerhope Guantes de silicona para lavava'
 date: 2019/12/19 09:55:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41dCGkACwRL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dCGkACwRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

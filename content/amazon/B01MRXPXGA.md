@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01MRXPXGA: Rebaja en find. Flared Sleeve Blusa para Mujer  Ne en Amazon'
+title: 'find. Flared Sleeve Blusa para Mujer  Ne'
 date: 2020-01-02 13:14:10
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515%2By6M52JL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515%2By6M52JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MRXPXGA

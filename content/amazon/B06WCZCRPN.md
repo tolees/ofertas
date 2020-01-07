@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B06WCZCRPN - Ofertón en Amazon para Playmobil 9243 DreamWorks Dragons Berk I'
+title: 'Playmobil 9243 DreamWorks Dragons Berk I'
 date: 2020-01-05 22:33:05
-image: 'https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

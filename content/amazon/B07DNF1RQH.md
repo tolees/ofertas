@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07DNF1RQH: Rebaja en Calcetines de Algodón 3 Pares  Gris  EU  en Amazon'
+title: 'Calcetines de Algodón 3 Pares  Gris  EU '
 date: 2019/12/17 08:13:12 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41NUW3Os4JL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NUW3Os4JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DNF1RQH

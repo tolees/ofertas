@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B076CW6BJK - Ofertón en Amazon para Hoover Telios Extra TX60PET - Aspirador '
+title: 'Hoover Telios Extra TX60PET - Aspirador '
 date: 2020-01-02 14:21:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41pjHLVbA0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pjHLVbA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

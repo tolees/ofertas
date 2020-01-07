@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B074HC2ZDC: Ahorra en Vila Clothes Vilucy L/s Shirt-Noos Blusa'
+title: 'Vila Clothes Vilucy L/s Shirt-Noos Blusa'
 date: 2019/12/27 07:53:06 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41-YsaEMcFL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-YsaEMcFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074HC2ZDC

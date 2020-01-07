@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B001HZY8OG - Ofertón en Amazon para Shunga Incienso  Velas De Masaje  Polvos'
+title: 'Shunga Incienso  Velas De Masaje  Polvos'
 date: 2020-01-01 05:15:24
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51OCnhhWahL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OCnhhWahL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

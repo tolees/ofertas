@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B005FN0WRI - Ofertón en Amazon para Invicta 1769 Pro Diver Reloj para Hombre'
+title: 'Invicta 1769 Pro Diver Reloj para Hombre'
 date: 2019/12/11 23:36:42 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41a5WnIUK2L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a5WnIUK2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

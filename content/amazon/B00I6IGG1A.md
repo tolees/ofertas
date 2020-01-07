@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B00I6IGG1A: Rebaja en Ergobaby 360 - Mochila portabebé  color  en Amazon'
+title: 'Ergobaby 360 - Mochila portabebé  color '
 date: 2019/12/29 18:14:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00I6IGG1A

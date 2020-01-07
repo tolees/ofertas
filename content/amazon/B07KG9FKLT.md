@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07KG9FKLT: Ahorra en Heiyo Lápiz Surface 200 Horas de Trabajo'
+title: 'Heiyo Lápiz Surface 200 Horas de Trabajo'
 date: 2019/12/19 06:08:55 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41jNw2wTtyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jNw2wTtyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG9FKLT

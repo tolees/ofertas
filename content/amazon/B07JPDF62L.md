@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JPDF62L: Ahorra en DAM TEKKIWEAR. DMZ010BK. Smartwatch Phon'
+title: 'DAM TEKKIWEAR. DMZ010BK. Smartwatch Phon'
 date: 2019/12/15 19:43:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41IeQCSvoyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IeQCSvoyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JPDF62L

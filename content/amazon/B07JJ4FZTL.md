@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07JJ4FZTL: Ahorra en Vigilabebés Inalambrico con Cámara  BOIF'
+title: 'Vigilabebés Inalambrico con Cámara  BOIF'
 date: 2019/12/30 13:00:49 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41gBBNWyCnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gBBNWyCnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JJ4FZTL

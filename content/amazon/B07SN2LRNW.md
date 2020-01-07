@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SN2LRNW: Rebaja en Excelvan Teclado de Juego Español Teclad en Amazon'
+title: 'Excelvan Teclado de Juego Español Teclad'
 date: 2019/12/25 21:27:44 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tj3zUxntL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tj3zUxntL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SN2LRNW

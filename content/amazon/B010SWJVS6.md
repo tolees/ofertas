@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B010SWJVS6: Ahorra en JBL Xtreme - Altavoz Bluetooth portátil '
+title: 'JBL Xtreme - Altavoz Bluetooth portátil '
 date: 2020-01-05 13:55:33
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41MM84bHypL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MM84bHypL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B010SWJVS6

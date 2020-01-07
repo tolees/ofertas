@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07SKKWBKY: Rebaja en adidas Superstar  Zapatillas para Hombre en Amazon'
+title: 'adidas Superstar  Zapatillas para Hombre'
 date: 2019/12/17 19:30:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/3181blPQ%2B3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3181blPQ%2B3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SKKWBKY

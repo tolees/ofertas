@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07C9DC5WF - Ofertón en Amazon para Naipo Mesa de Masaje Plegable de 2 Secci'
+title: 'Naipo Mesa de Masaje Plegable de 2 Secci'
 date: 2020-01-07 08:02:17
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41a99RiF1SL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a99RiF1SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

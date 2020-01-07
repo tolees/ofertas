@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'B07GYVYXLG: Rebaja en 60 LED 10M Cadena Solar de Luces  IP65 I en Amazon'
-date: 2019/12/30 18:21:36 +0000
+title: '60 LED 10M Cadena Solar de Luces  IP65 I'
+date: 2020-01-07 17:39:53
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GYVYXLG
 description:
-actualPrice: 15.29 EUR
+actualPrice: 16.99 EUR
 comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [60 LED 10M Cadena Solar de Luces  IP65 Impermeable 8 Modos Luces Decorativas  Guirnaldas Luminosas para Exterior Interior  Jardines  Casas  Boda  Fiesta de Navidad  Amarillo ](https://www.amazon.com/dp/B07GYVYXLG/?tag=redken08-20) por 15.29 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [60 LED 10M Cadena Solar de Luces  IP65 Impermeable 8 Modos Luces Decorativas  Guirnalda Luces Exterior Luminosas para Exterior Interior  Jardines  Casas  Boda  Fiesta de Navidad  Amarillo ](https://www.amazon.com/dp/B07GYVYXLG/?tag=redken08-20) por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg)](https://www.amazon.com/dp/B07GYVYXLG/?tag=redken08-20)
 

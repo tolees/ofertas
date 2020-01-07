@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01NAIEG87: Ahorra en KRISP 6252-GRY-20  Vestido Corto Patinad'
+title: 'KRISP 6252-GRY-20  Vestido Corto Patinad'
 date: 2020-01-04 11:16:46
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NAIEG87

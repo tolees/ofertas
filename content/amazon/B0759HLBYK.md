@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B0759HLBYK - Ofertón en Amazon para Tommy Hilfiger Keon Chaqueta Bomber  Azu'
+title: 'Tommy Hilfiger Keon Chaqueta Bomber  Azu'
 date: 2019/12/11 01:45:11 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418aiTaK3KL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418aiTaK3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

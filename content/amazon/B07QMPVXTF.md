@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QMPVXTF: Ahorra en GACHI Powerbank  15000mAh Externer Akku '
+title: 'GACHI Powerbank  15000mAh Externer Akku '
 date: 2019/12/17 11:16:27 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41HX-%2B-jVaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HX-%2B-jVaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QMPVXTF

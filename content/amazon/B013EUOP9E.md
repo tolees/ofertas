@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B013EUOP9E - Ofertón en Amazon para Toms Linen Rope Sole Alpargata ESP  Gris'
+title: 'Toms Linen Rope Sole Alpargata ESP  Gris'
 date: 2019/12/26 15:20:27 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XMUjyAM9L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XMUjyAM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

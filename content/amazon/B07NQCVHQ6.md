@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07NQCVHQ6: Ahorra en Nuevo Echo Dot  3.ª generación  - Altavo'
+title: 'Nuevo Echo Dot  3.ª generación  - Altavo'
 date: 2020-01-06 18:18:24
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NQCVHQ6

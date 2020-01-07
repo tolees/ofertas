@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07QJ59TFJ: Rebaja en WIKO View3 Pro 128GB+6GB Smartphone   6  en Amazon'
+title: 'WIKO View3 Pro 128GB+6GB Smartphone   6 '
 date: 2019/12/29 09:44:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0mQ1w5HL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i0mQ1w5HL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QJ59TFJ

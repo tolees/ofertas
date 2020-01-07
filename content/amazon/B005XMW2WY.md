@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B005XMW2WY - Ofertón en Amazon para DIM Generous Sujetador  Negro  100E para'
+title: 'DIM Generous Sujetador  Negro  100E para'
 date: 2020-01-05 13:25:51
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41VS4brCRcL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VS4brCRcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

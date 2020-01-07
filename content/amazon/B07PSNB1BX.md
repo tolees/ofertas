@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07PSNB1BX: Rebaja en Gun Gun Pixies - Day One Edition en Amazon'
+title: 'Gun Gun Pixies - Day One Edition'
 date: 2019/12/27 08:27:32 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51TAqFlWh3L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TAqFlWh3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PSNB1BX

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07MPFX8RR: Rebaja en Columbia Lake 22 Chaqueta De Plumón  Hom en Amazon'
+title: 'Columbia Lake 22 Chaqueta De Plumón  Hom'
 date: 2019/12/28 09:28:46 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/415f0zWQmnL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415f0zWQmnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MPFX8RR

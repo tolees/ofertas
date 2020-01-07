@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FSPTC7C: Ahorra en Memoria Flash Universal 128 GB  aleación'
+title: 'Memoria Flash Universal 128 GB  aleación'
 date: 2020-01-02 14:14:26
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41Vp81PQeaL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vp81PQeaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FSPTC7C

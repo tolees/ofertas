@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00LPLDERE - Ofertón en Amazon para L Oréal Paris - Infallible 24H  Maquilla'
+title: 'L Oréal Paris - Infallible 24H  Maquilla'
 date: 2019/12/13 09:12:59 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51ruDUD0s%2BL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ruDUD0s%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B00XVRL0WG - Ofertón en Amazon para Russell Hobbs Classics 22760-56 - Exprim'
+title: 'Russell Hobbs Classics 22760-56 - Exprim'
 date: 2019/12/21 23:57:26 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41fkLBZAaEL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fkLBZAaEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

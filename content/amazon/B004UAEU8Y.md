@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B004UAEU8Y: Rebaja en Spalding Mid Cut Calcetines  3 Pares  Si en Amazon'
+title: 'Spalding Mid Cut Calcetines  3 Pares  Si'
 date: 2019/12/30 10:49:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31B418ym8UL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B418ym8UL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004UAEU8Y

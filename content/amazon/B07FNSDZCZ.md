@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FNSDZCZ: Ahorra en LEGO 10895 DUPLO Movie 2 Emmet and Lucy '
+title: 'LEGO 10895 DUPLO Movie 2 Emmet and Lucy '
 date: 2019/12/15 08:48:29 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51dNKuMCZjL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dNKuMCZjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNSDZCZ

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07MC4BM5M - Ofertón en Amazon para Scotch & Soda Maison Classic Tailored Bl'
+title: 'Scotch & Soda Maison Classic Tailored Bl'
 date: 2019/12/28 21:47:13 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/518hLtYeOXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518hLtYeOXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

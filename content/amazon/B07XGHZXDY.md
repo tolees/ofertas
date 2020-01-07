@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07XGHZXDY: Rebaja en Ayete Smartwatch Fitness Tracker con fre en Amazon'
+title: 'Ayete Smartwatch Fitness Tracker con fre'
 date: 2020-01-06 12:11:14
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/418rqSdXe0L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418rqSdXe0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XGHZXDY

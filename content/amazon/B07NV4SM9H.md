@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'B07NV4SM9H - Ofertón en Amazon para Qlebao Recambios Cepillo para Braun Oral'
+title: 'Qlebao Recambios Cepillo para Braun Oral'
 date: 2019/12/26 10:23:21 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/510si2d7buL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510si2d7buL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

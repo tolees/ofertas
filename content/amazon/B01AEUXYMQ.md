@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B01AEUXYMQ: Rebaja en Disney Frozen - Die Eiskönigin völlig un en Amazon'
+title: 'Disney Frozen - Die Eiskönigin völlig un'
 date: 2019/12/28 08:57:35 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41XdAiVLglL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XdAiVLglL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AEUXYMQ

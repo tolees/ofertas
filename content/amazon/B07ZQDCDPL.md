@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07ZQDCDPL: Ahorra en Wireless Headphones AIKELA Wireless Earp'
+title: 'Wireless Headphones AIKELA Wireless Earp'
 date: 2019/12/30 22:19:36 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41OjndSN88L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OjndSN88L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZQDCDPL

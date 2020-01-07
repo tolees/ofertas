@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07GFSPCZH: Ahorra en Tenda MW5S Sistemas WiFi Mesh AC1200 Rou'
+title: 'Tenda MW5S Sistemas WiFi Mesh AC1200 Rou'
 date: 2019/12/12 08:09:18 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/211MrcfRgXL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/211MrcfRgXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GFSPCZH

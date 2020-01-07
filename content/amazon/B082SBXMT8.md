@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B082SBXMT8: Rebaja en OBEEII Disfraz Elsa Anna Traje Frozen Ni en Amazon'
+title: 'OBEEII Disfraz Elsa Anna Traje Frozen Ni'
 date: 2020-01-05 23:09:44
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082SBXMT8

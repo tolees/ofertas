@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B07FPX7QCV: Ahorra en Cepillo de dientes eléctrico de plástico'
+title: 'Cepillo de dientes eléctrico de plástico'
 date: 2020-01-02 16:32:23
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/4119G1Dyx7L._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4119G1Dyx7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FPX7QCV

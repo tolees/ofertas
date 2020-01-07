@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'B072LSGQ5Z: Rebaja en RED WAGON Zapatillas de Lona para Niños  en Amazon'
+title: 'RED WAGON Zapatillas de Lona para Niños '
 date: 2019/12/25 23:28:41 +0000
 comments: true
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41G2c07laTL._SL200_.jpg'
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G2c07laTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072LSGQ5Z
