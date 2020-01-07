@@ -3,7 +3,7 @@ layout: post
 title: 'B01KXVMYOK: Ahorra en Dim Generous Invisible Sujetador  Beige '
 date: 2019/12/23 07:58:44 +0000
 comments: true
-tags: B01KXVMYOK
+image: https://images-eu.ssl-images-amazon.com/images/I/41VvjCDKpiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01KXVMYOK

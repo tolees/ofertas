@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KFT9Z6T - Ofertón en Amazon para Burton Tinder Mochilas  Unisex Adulto  H'
 date: 2019/12/19 21:36:18 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/416m0PkPZ7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

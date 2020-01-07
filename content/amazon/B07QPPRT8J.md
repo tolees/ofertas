@@ -3,7 +3,7 @@ layout: post
 title: 'B07QPPRT8J: Rebaja en Star Wars Jedi Fallen Order - PS4 en Amazon'
 date: 2020-01-01 07:00:26
 comments: true
-tags: B07QPPRT8J
+image: https://images-eu.ssl-images-amazon.com/images/I/51Mt7XwMY5L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QPPRT8J

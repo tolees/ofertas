@@ -2,6 +2,7 @@
 layout: post
 title: 'B07WR7KSL2 - Ofertón en Amazon para Aibrou Clásico Pijamas Hombre Invierno A'
 date: 2019/12/11 07:18:14 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41SQ-y-sc-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

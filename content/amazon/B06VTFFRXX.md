@@ -3,7 +3,7 @@ layout: post
 title: 'B06VTFFRXX: Rebaja en Salvatore Ferragamo Signorina In Fiore A en Amazon'
 date: 2019/12/31 08:22:14 +0000
 comments: true
-tags: B06VTFFRXX
+image: https://images-eu.ssl-images-amazon.com/images/I/41-rfEPPoBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06VTFFRXX

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07K8R8QCX - Ofertón en Amazon para infactory Bauspielzeug: Selbstklebendes '
 date: 2020-01-01 23:15:47
+image: https://images-eu.ssl-images-amazon.com/images/I/51lWilHwhtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

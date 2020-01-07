@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBCPCN1: Rebaja en Kappa Modus II  Zapatillas Unisex Adulto en Amazon'
 date: 2019/12/12 13:56:23 +0000
 comments: true
-tags: B07LBCPCN1
+image: https://images-eu.ssl-images-amazon.com/images/I/31uYTv7Ft-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LBCPCN1

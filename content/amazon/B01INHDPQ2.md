@@ -3,7 +3,7 @@ layout: post
 title: 'B01INHDPQ2: Rebaja en !Solid 6162580  Suéter Para Hombre  Azul en Amazon'
 date: 2019/12/27 14:17:59 +0000
 comments: true
-tags: B01INHDPQ2
+image: https://images-eu.ssl-images-amazon.com/images/I/41bolJriFyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01INHDPQ2

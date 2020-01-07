@@ -3,7 +3,7 @@ layout: post
 title: 'B07XGHZXDY: Ahorra en Ayete Smartwatch Fitness Tracker con fre'
 date: 2020-01-06 12:11:14
 comments: true
-tags: B07XGHZXDY
+image: https://images-eu.ssl-images-amazon.com/images/I/418rqSdXe0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XGHZXDY

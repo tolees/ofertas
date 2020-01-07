@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DP3M5QJ - Ofertón en Amazon para Eastpak EK04320W Orbit Mochila 10 L  Tur'
 date: 2019/12/28 22:23:41 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/416X9AdLiiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

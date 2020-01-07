@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GZMKMDD - Ofertón en Amazon para Max Factor Miracle Prep Illuminating & H'
 date: 2019/12/26 11:33:05 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31AfG9uC%2BQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00HZFVGC4 - Ofertón en Amazon para SHIMANO Adaptador SM-RTAD05 Center-Lock '
 date: 2019/12/31 09:49:27 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51jYJW1xxLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

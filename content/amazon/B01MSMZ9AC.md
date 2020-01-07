@@ -3,7 +3,7 @@ layout: post
 title: 'B01MSMZ9AC: Ahorra en Superga 2750 COTU Classic  Zapatillas Un'
 date: 2019-12-31 18:04:51
 comments: true
-tags: B01MSMZ9AC
+image: https://images-eu.ssl-images-amazon.com/images/I/41Ot4JJUd2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MSMZ9AC

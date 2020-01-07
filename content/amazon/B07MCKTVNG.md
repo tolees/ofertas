@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCKTVNG: Ahorra en Wilbest Cartera de Tarjetas  Cartera Hom'
 date: 2020-01-04 13:15:33
 comments: true
-tags: B07MCKTVNG
+image: https://images-eu.ssl-images-amazon.com/images/I/418B3Cpd4GL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MCKTVNG

@@ -3,7 +3,7 @@ layout: post
 title: 'B06X1FT3QG: Rebaja en Doritos Nacho Cheese - Käse Tortilla Nac en Amazon'
 date: 2019/12/18 08:47:36 +0000
 comments: true
-tags: B06X1FT3QG
+image: https://images-eu.ssl-images-amazon.com/images/I/51jmZDzUejL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06X1FT3QG

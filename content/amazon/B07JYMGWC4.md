@@ -3,7 +3,7 @@ layout: post
 title: 'B07JYMGWC4: Rebaja en Tommy Hilfiger Tommy Jute City Sneaker   en Amazon'
 date: 2019/12/24 19:04:14 +0000
 comments: true
-tags: B07JYMGWC4
+image: https://images-eu.ssl-images-amazon.com/images/I/41DOoUbWCuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JYMGWC4

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VLVMPUA - Ofertón en Amazon para Playmobil 6687 Super 4 Lost Island - Mul'
 date: 2020-01-05 22:31:27
+image: https://images-eu.ssl-images-amazon.com/images/I/613E7PMiqzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

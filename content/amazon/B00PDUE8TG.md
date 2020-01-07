@@ -2,6 +2,7 @@
 layout: post
 title: 'B00PDUE8TG - Ofertón en Amazon para Ultimate Ears Megaboom - Altavoz portáti'
 date: 2020-01-03 15:46:07
+image: https://images-eu.ssl-images-amazon.com/images/I/41wNc1mH%2B%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

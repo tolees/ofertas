@@ -2,6 +2,7 @@
 layout: post
 title: 'B006MAFUE8 - Ofertón en Amazon para FEBER - Moto Jumper  Moto correpasillos '
 date: 2019/12/16 19:32:57 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51zMNbo5PXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

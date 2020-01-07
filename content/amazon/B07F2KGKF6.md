@@ -3,7 +3,7 @@ layout: post
 title: 'B07F2KGKF6: Rebaja en Calvin Klein Sonnenbrille Ck2156S 60 Gaf en Amazon'
 date: 2019/12/28 13:11:39 +0000
 comments: true
-tags: B07F2KGKF6
+image: https://images-eu.ssl-images-amazon.com/images/I/31RqoWavlUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F2KGKF6

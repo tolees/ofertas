@@ -3,7 +3,7 @@ layout: post
 title: 'B07F5LQWM9: Rebaja en Luchild 8pcs Tope Clip Protector Puerta  en Amazon'
 date: 2019/12/18 09:56:57 +0000
 comments: true
-tags: B07F5LQWM9
+image: https://images-eu.ssl-images-amazon.com/images/I/31uIh%2BfjvxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F5LQWM9

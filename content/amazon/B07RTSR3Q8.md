@@ -2,6 +2,7 @@
 layout: post
 title: 'B07RTSR3Q8 - Ofertón en Amazon para koulate Bombillas WiFi Regulables  RGBCW'
 date: 2020-01-02 15:46:56
+image: https://images-eu.ssl-images-amazon.com/images/I/31s4rlP9qdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

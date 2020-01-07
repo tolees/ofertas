@@ -2,6 +2,7 @@
 layout: post
 title: 'B07P6NCXX6 - Ofertón en Amazon para Gliss - Champú Fiber Therapy para cabell'
 date: 2019/12/30 17:40:00 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41cB-1AdXYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

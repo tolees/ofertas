@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCSNQ1C: Ahorra en Jack & Jones NOS JJEHUGO tee SS Crew Nec'
 date: 2019/12/22 16:02:37 +0000
 comments: true
-tags: B07MCSNQ1C
+image: https://images-eu.ssl-images-amazon.com/images/I/31XCqkU%2BQFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MCSNQ1C

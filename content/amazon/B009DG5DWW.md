@@ -3,7 +3,7 @@ layout: post
 title: 'B009DG5DWW: Rebaja en Esi  Crema diurna facial - 50 ml. en Amazon'
 date: 2019/12/23 10:23:04 +0000
 comments: true
-tags: B009DG5DWW
+image: https://images-eu.ssl-images-amazon.com/images/I/411nmpjRA3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B009DG5DWW

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07G66BZZG - Ofertón en Amazon para Fossil Reloj Analógico para Mujer de Cua'
 date: 2019/12/11 04:48:47 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/318OoIqTiML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

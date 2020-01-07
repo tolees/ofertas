@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XWWVGN4 - Ofertón en Amazon para IMC Toys IMC Toys-96073 Lovely Tresse Tr'
 date: 2019/12/22 09:17:25 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/616sbtLYV9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

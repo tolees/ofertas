@@ -3,7 +3,7 @@ layout: post
 title: 'B01MSZ5EDP: Ahorra en s.Oliver 14704783465  Falda para Mujer  '
 date: 2020-01-02 08:11:03
 comments: true
-tags: B01MSZ5EDP
+image: https://images-eu.ssl-images-amazon.com/images/I/31dP-Le2rBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MSZ5EDP

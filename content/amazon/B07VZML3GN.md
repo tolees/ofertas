@@ -3,7 +3,7 @@ layout: post
 title: 'B07VZML3GN: Rebaja en Secador de Pelo Profesional Iónico Motor en Amazon'
 date: 2019-12-31 15:26:06
 comments: true
-tags: B07VZML3GN
+image: https://images-eu.ssl-images-amazon.com/images/I/41V0QOF71CL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VZML3GN

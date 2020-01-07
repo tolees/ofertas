@@ -3,7 +3,7 @@ layout: post
 title: 'B07RRBNH9M: Ahorra en Oral-B Genius 10000N - Cepillo Eléctrico'
 date: 2019/12/18 06:25:28 +0000
 comments: true
-tags: B07RRBNH9M
+image: https://images-eu.ssl-images-amazon.com/images/I/51VwOanMcsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RRBNH9M

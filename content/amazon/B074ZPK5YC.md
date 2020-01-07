@@ -3,7 +3,7 @@ layout: post
 title: 'B074ZPK5YC: Rebaja en Under Armour HOVR Sonic - Zapatillas de  en Amazon'
 date: 2019/12/13 09:35:05 +0000
 comments: true
-tags: B074ZPK5YC
+image: https://images-eu.ssl-images-amazon.com/images/I/41%2BDFNKlC4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B074ZPK5YC

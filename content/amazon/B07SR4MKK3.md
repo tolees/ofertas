@@ -3,7 +3,7 @@ layout: post
 title: 'B07SR4MKK3: Ahorra en LOHOTEK Zapatillas Hombres Zapatos Depor'
 date: 2020-01-05 16:29:07
 comments: true
-tags: B07SR4MKK3
+image: https://images-eu.ssl-images-amazon.com/images/I/41-xMCuvLgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SR4MKK3

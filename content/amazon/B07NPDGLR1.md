@@ -3,7 +3,7 @@ layout: post
 title: 'B07NPDGLR1: Rebaja en Skechers Dynamight 2.0-fallford  Zapatil en Amazon'
 date: 2019/12/15 10:09:25 +0000
 comments: true
-tags: B07NPDGLR1
+image: https://images-eu.ssl-images-amazon.com/images/I/41y8NY3-aHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NPDGLR1

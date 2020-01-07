@@ -3,7 +3,7 @@ layout: post
 title: 'B07GZLH9GQ: Ahorra en CHICTRY Tanga de Hombres Sexy Calzoncill'
 date: 2019/12/28 21:23:49 +0000
 comments: true
-tags: B07GZLH9GQ
+image: https://images-eu.ssl-images-amazon.com/images/I/4131ripjaVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GZLH9GQ

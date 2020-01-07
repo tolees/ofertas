@@ -2,6 +2,7 @@
 layout: post
 title: 'B07P7VKTGH - Ofertón en Amazon para Axe Dark Temptation Pack Duplo Ahorro - '
 date: 2019/12/13 07:22:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51CepEjLuiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

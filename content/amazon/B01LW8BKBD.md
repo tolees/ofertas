@@ -2,6 +2,7 @@
 layout: post
 title: 'B01LW8BKBD - Ofertón en Amazon para Powerbeats3 Wireless Earphones - Black'
 date: 2019/12/16 11:00:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31Zv3AWbjTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

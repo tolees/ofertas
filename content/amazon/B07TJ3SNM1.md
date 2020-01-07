@@ -3,7 +3,7 @@ layout: post
 title: 'B07TJ3SNM1: Ahorra en Cámara de Video Videocámara Full HD 1080'
 date: 2019/12/31 09:12:34 +0000
 comments: true
-tags: B07TJ3SNM1
+image: https://images-eu.ssl-images-amazon.com/images/I/51vlRwtWhaL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TJ3SNM1

@@ -3,7 +3,7 @@ layout: post
 title: 'B01KLT1AA8: Ahorra en Skagen Unisex Hybrid Smartwatch SKT1104'
 date: 2019/12/16 20:51:04 +0000
 comments: true
-tags: B01KLT1AA8
+image: https://images-eu.ssl-images-amazon.com/images/I/41q%2BH-veJgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01KLT1AA8

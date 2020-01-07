@@ -3,7 +3,7 @@ layout: post
 title: 'B07JYVVKV6: Ahorra en Tommy Hilfiger Rome Straight Ankle RW NA'
 date: 2019/12/27 18:35:37 +0000
 comments: true
-tags: B07JYVVKV6
+image: https://images-eu.ssl-images-amazon.com/images/I/41RR03xyJ%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JYVVKV6

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00XA8LXEQ - Ofertón en Amazon para Carbonell Aceite de oliva virgen - Garra'
 date: 2020-01-07 11:38:55
+image: https://images-eu.ssl-images-amazon.com/images/I/41QGIcOXYgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

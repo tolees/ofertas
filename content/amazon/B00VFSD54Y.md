@@ -3,7 +3,7 @@ layout: post
 title: 'B00VFSD54Y: Ahorra en uhlsport Stream 3.0 Pantalón Classic Cha'
 date: 2019/12/12 11:34:43 +0000
 comments: true
-tags: B00VFSD54Y
+image: https://images-eu.ssl-images-amazon.com/images/I/31ZV-g6je3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00VFSD54Y

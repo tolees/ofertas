@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CNFGV61 - Ofertón en Amazon para Cámaras de Vigilancia WiFi Exterior  Net'
 date: 2020-01-06 01:55:52
+image: https://images-eu.ssl-images-amazon.com/images/I/41iRd8z7pXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

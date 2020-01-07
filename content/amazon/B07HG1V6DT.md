@@ -3,7 +3,7 @@ layout: post
 title: 'B07HG1V6DT: Ahorra en New Balance 997h  Zapatillas para Mujer '
 date: 2019/12/26 21:49:16 +0000
 comments: true
-tags: B07HG1V6DT
+image: https://images-eu.ssl-images-amazon.com/images/I/411nTAdVtHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HG1V6DT

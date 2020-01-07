@@ -2,6 +2,7 @@
 layout: post
 title: 'B009AU9DJA - Ofertón en Amazon para Sony SELP1650 Standard-Zoom-Objektiv  16'
 date: 2019/12/22 18:13:12 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31nL-3BPxBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

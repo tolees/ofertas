@@ -3,7 +3,7 @@ layout: post
 title: 'B00PNUHXCK: Rebaja en Adidas Superstar Foundation - Zapatillas en Amazon'
 date: 2019/12/19 23:50:41 +0000
 comments: true
-tags: B00PNUHXCK
+image: https://images-eu.ssl-images-amazon.com/images/I/41avZ%2BSyzkL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00PNUHXCK

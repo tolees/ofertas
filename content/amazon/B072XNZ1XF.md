@@ -3,7 +3,7 @@ layout: post
 title: 'B072XNZ1XF: Rebaja en JACK & JONES NOS Jacdna Knit Scarf Noos  en Amazon'
 date: 2019/12/29 20:17:21 +0000
 comments: true
-tags: B072XNZ1XF
+image: https://images-eu.ssl-images-amazon.com/images/I/41cekdXm0-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072XNZ1XF

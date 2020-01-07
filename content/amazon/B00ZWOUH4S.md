@@ -3,7 +3,7 @@ layout: post
 title: 'B00ZWOUH4S: Rebaja en Logitech Driving Force Shifter  Palanca  en Amazon'
 date: 2020-01-07 08:04:36
 comments: true
-tags: B00ZWOUH4S
+image: https://images-eu.ssl-images-amazon.com/images/I/41v3Cd1bzaL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00ZWOUH4S

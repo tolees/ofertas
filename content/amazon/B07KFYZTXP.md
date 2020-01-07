@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFYZTXP: Ahorra en PUMA Source Mid Buzzer  Zapatillas Altas'
 date: 2019/12/17 13:56:57 +0000
 comments: true
-tags: B07KFYZTXP
+image: https://images-eu.ssl-images-amazon.com/images/I/41gRp2075NL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KFYZTXP

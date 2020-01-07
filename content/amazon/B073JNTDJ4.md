@@ -2,6 +2,7 @@
 layout: post
 title: 'B073JNTDJ4 - Ofertón en Amazon para find. Jersey de Algodón Hombre  Negro  X'
 date: 2019/12/20 11:09:31 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41EL-nUDD0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07BN97CVR - Ofertón en Amazon para MQIAOHAM área de juego para niños colcho'
 date: 2020-01-06 09:35:41
+image: https://images-eu.ssl-images-amazon.com/images/I/51SJfcVLvqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

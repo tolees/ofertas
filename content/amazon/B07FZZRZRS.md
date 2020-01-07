@@ -3,7 +3,7 @@ layout: post
 title: 'B07FZZRZRS: Ahorra en Tire Hacia Atrás el Coches de Juguetes M'
 date: 2020-01-02 09:01:09
 comments: true
-tags: B07FZZRZRS
+image: https://images-eu.ssl-images-amazon.com/images/I/51GjifqUzIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FZZRZRS

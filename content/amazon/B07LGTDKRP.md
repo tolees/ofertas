@@ -3,7 +3,7 @@ layout: post
 title: 'B07LGTDKRP: Rebaja en Bombilla Inteligente WiFi LED 7W  iHaper en Amazon'
 date: 2019/12/13 16:09:31 +0000
 comments: true
-tags: B07LGTDKRP
+image: https://images-eu.ssl-images-amazon.com/images/I/31kqTfVsZiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LGTDKRP

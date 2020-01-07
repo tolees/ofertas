@@ -3,7 +3,7 @@ layout: post
 title: 'B078WWCLH5: Rebaja en Maclaren Quest - Silla de paseo para rec en Amazon'
 date: 2019-12-31 18:43:50
 comments: true
-tags: B078WWCLH5
+image: https://images-eu.ssl-images-amazon.com/images/I/41vcLNfLSjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078WWCLH5

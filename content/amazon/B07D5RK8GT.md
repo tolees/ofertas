@@ -2,6 +2,7 @@
 layout: post
 title: 'B07D5RK8GT - Ofertón en Amazon para PUMA ESS Logo TR op SRL Pantalones  Homb'
 date: 2019/12/19 21:48:48 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/417oe7gH6jL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

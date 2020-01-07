@@ -3,7 +3,7 @@ layout: post
 title: 'B07WK2MC6B: Rebaja en Ropa Interior Térmica Hombre  Camiseta T en Amazon'
 date: 2020-01-04 10:53:59
 comments: true
-tags: B07WK2MC6B
+image: https://images-eu.ssl-images-amazon.com/images/I/41-aN0rwQgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WK2MC6B

@@ -3,7 +3,7 @@ layout: post
 title: 'B07FNNGXWZ: Ahorra en JACK & JONES Jjiace Jjharper WW Olive Ni'
 date: 2019/12/17 14:17:57 +0000
 comments: true
-tags: B07FNNGXWZ
+image: https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FNNGXWZ

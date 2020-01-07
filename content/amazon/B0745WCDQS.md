@@ -3,7 +3,7 @@ layout: post
 title: 'B0745WCDQS: Ahorra en Nakosite PET2433 El Mejor Collar Anti-La'
 date: 2019-12-31 20:12:11
 comments: true
-tags: B0745WCDQS
+image: https://images-eu.ssl-images-amazon.com/images/I/51Y6gRy-HCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0745WCDQS

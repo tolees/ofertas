@@ -3,7 +3,7 @@ layout: post
 title: 'B07HNVL57S: Ahorra en Kami Idea Regalos Navidad Mujer Brazalet'
 date: 2020-01-06 16:56:40
 comments: true
-tags: B07HNVL57S
+image: https://images-eu.ssl-images-amazon.com/images/I/41F3GTpbx-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HNVL57S

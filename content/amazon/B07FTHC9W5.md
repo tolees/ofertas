@@ -3,7 +3,7 @@ layout: post
 title: 'B07FTHC9W5: Ahorra en PUTUO Calcetines de Algodón Niñas Navida'
 date: 2020-01-05 17:10:26
 comments: true
-tags: B07FTHC9W5
+image: https://images-eu.ssl-images-amazon.com/images/I/411xdeE7HiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FTHC9W5

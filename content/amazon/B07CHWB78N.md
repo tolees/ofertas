@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CHWB78N - Ofertón en Amazon para Lifewit Mochila Portatil 15.6 Pulgadas p'
 date: 2019/12/30 08:02:37 +0000
+image: None._SL200_
 comments: true
 category: ofertas
 author: ring

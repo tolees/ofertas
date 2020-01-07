@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XKJHDC3 - Ofertón en Amazon para Paladone Vaso Game Boy  15x9x9 cm'
 date: 2019/12/11 08:37:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41NIQkt1YHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

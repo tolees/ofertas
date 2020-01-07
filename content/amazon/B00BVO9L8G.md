@@ -3,7 +3,7 @@ layout: post
 title: 'B00BVO9L8G: Rebaja en New Rochas Femme New Rochas Femme Edt Sp en Amazon'
 date: 2019/12/21 18:25:40 +0000
 comments: true
-tags: B00BVO9L8G
+image: https://images-eu.ssl-images-amazon.com/images/I/41vTj64DHCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00BVO9L8G

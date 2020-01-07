@@ -3,7 +3,7 @@ layout: post
 title: 'B07GXLFWDB: Ahorra en Nikon D750 - Cámara réflex digital de 24'
 date: 2019/12/23 19:30:27 +0000
 comments: true
-tags: B07GXLFWDB
+image: https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GXLFWDB

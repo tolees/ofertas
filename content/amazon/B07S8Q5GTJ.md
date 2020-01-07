@@ -3,7 +3,7 @@ layout: post
 title: 'B07S8Q5GTJ: Rebaja en Guirnalda navidad de luz 300 LED Blanco  en Amazon'
 date: 2020-01-06 09:59:17
 comments: true
-tags: B07S8Q5GTJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51C48yzuAEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07S8Q5GTJ

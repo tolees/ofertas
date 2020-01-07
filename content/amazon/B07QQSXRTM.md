@@ -3,7 +3,7 @@ layout: post
 title: 'B07QQSXRTM: Ahorra en Nike Classic Cortez Leather  Zapatillas '
 date: 2020-01-01 10:32:02
 comments: true
-tags: B07QQSXRTM
+image: https://images-eu.ssl-images-amazon.com/images/I/317ae4vo8eL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QQSXRTM

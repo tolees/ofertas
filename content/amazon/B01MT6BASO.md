@@ -3,7 +3,7 @@ layout: post
 title: 'B01MT6BASO: Ahorra en Reloj Scuderia Ferrari para Hombre 08303'
 date: 2019/12/11 06:01:17 +0000
 comments: true
-tags: B01MT6BASO
+image: ._SL200_
 category: ofertas
 author: ring
 slug: B01MT6BASO

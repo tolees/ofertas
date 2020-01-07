@@ -3,7 +3,7 @@ layout: post
 title: 'B01KVO1I7S: Ahorra en OMRON M7 Intelli IT - Tensiómetro de bra'
 date: 2020-01-04 19:42:41
 comments: true
-tags: B01KVO1I7S
+image: https://images-eu.ssl-images-amazon.com/images/I/416312OaoUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01KVO1I7S

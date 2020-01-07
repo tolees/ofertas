@@ -2,6 +2,7 @@
 layout: post
 title: 'B07G36NHMB - Ofertón en Amazon para Maybelline New York - Superstay Matte In'
 date: 2020-01-02 11:37:59
+image: https://images-eu.ssl-images-amazon.com/images/I/31EaYNRUouL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

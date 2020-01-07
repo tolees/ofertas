@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9TRZBW: Ahorra en Lacoste Straightset 319 2 Cfa  Zapatilla'
 date: 2019/12/12 09:47:40 +0000
 comments: true
-tags: B07L9TRZBW
+image: https://images-eu.ssl-images-amazon.com/images/I/31POZeRY%2B8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07L9TRZBW

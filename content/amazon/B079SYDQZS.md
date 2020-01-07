@@ -3,7 +3,7 @@ layout: post
 title: 'B079SYDQZS: Rebaja en Bizak- Collector Toilet  61928805  en Amazon'
 date: 2019/12/28 10:18:22 +0000
 comments: true
-tags: B079SYDQZS
+image: https://images-eu.ssl-images-amazon.com/images/I/610tOtLgVML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079SYDQZS

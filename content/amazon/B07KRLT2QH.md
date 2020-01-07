@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRLT2QH: Rebaja en New Balance Fresh Foam Zante Pursuit  Za en Amazon'
 date: 2019/12/31 11:45:00 +0000
 comments: true
-tags: B07KRLT2QH
+image: https://images-eu.ssl-images-amazon.com/images/I/41F4VQ2g3UL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KRLT2QH

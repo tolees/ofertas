@@ -2,6 +2,7 @@
 layout: post
 title: 'B01J7MYKSE - Ofertón en Amazon para Ankway Guirnalda luz Solar 8 Modos  5M 3'
 date: 2020-01-03 20:09:46
+image: https://images-eu.ssl-images-amazon.com/images/I/51eMt19%2BftL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

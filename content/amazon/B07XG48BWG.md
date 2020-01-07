@@ -3,7 +3,7 @@ layout: post
 title: 'B07XG48BWG: Rebaja en edc by Esprit 109cc1k023 Camisa Manga La en Amazon'
 date: 2020-01-01 21:26:53
 comments: true
-tags: B07XG48BWG
+image: https://images-eu.ssl-images-amazon.com/images/I/51PzVT%2BmsPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XG48BWG

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HJ88FMJ - Ofertón en Amazon para Funko- Pop Vinyl: Animation: Rick & Mort'
 date: 2019/12/16 18:16:02 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/5151OYZ2unL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

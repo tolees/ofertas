@@ -2,6 +2,7 @@
 layout: post
 title: 'B07H81GQWZ - Ofertón en Amazon para Nike Wmns Downshifter 9  Zapatillas de R'
 date: 2020-01-07 09:05:52
+image: https://images-eu.ssl-images-amazon.com/images/I/412h1jfmVeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

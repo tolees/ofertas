@@ -3,7 +3,7 @@ layout: post
 title: 'B07GKWFDDZ: Rebaja en NUÜR Luz de Neón  Estrella Lunar LED Señ en Amazon'
 date: 2020-01-06 12:57:38
 comments: true
-tags: B07GKWFDDZ
+image: https://images-eu.ssl-images-amazon.com/images/I/51jXgmefDeL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GKWFDDZ

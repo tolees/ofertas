@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XHFVQVB - Ofertón en Amazon para Yuntab K17 Tablet táctil IPS 10.1 Pulgad'
 date: 2019/12/23 12:49:36 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51caNamSHVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

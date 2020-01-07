@@ -2,6 +2,7 @@
 layout: post
 title: 'B07SR3L9YB - Ofertón en Amazon para Bizak- Detective Pikachu Multi 6 Figuras'
 date: 2019/12/29 10:21:18 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51xzUsYzqqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

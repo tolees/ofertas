@@ -3,7 +3,7 @@ layout: post
 title: 'B072LX8HTL: Ahorra en VTech Triciclo Inteligente Evolutivo 4 e'
 date: 2019/12/16 22:48:03 +0000
 comments: true
-tags: B072LX8HTL
+image: https://images-eu.ssl-images-amazon.com/images/I/41NPj73PkAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072LX8HTL

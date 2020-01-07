@@ -3,7 +3,7 @@ layout: post
 title: 'B00UKH27RW: Rebaja en Clementoni - Puzzle 3 x 48  Avengers  25 en Amazon'
 date: 2019/12/29 15:02:41 +0000
 comments: true
-tags: B00UKH27RW
+image: https://images-eu.ssl-images-amazon.com/images/I/51DBx8ty5zL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00UKH27RW

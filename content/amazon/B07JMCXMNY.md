@@ -3,7 +3,7 @@ layout: post
 title: 'B07JMCXMNY: Ahorra en Lee Austin Vaqueros Tapered  Azul  Dark '
 date: 2019/12/28 13:46:05 +0000
 comments: true
-tags: B07JMCXMNY
+image: https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JMCXMNY

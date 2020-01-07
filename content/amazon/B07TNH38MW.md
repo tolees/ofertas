@@ -3,7 +3,7 @@ layout: post
 title: 'B07TNH38MW: Rebaja en ROMIX Esterilla Yoga Antideslizante  Ext en Amazon'
 date: 2020-01-03 12:26:47
 comments: true
-tags: B07TNH38MW
+image: https://images-eu.ssl-images-amazon.com/images/I/41lDUO3-iAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TNH38MW

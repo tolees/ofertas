@@ -3,7 +3,7 @@ layout: post
 title: 'B01BGTO8IS: Rebaja en G-Star Raw Bronson  Pantalones Para Homb en Amazon'
 date: 2019/12/27 16:53:14 +0000
 comments: true
-tags: B01BGTO8IS
+image: https://images-eu.ssl-images-amazon.com/images/I/31ZfTGAZ8FL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01BGTO8IS

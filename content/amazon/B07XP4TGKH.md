@@ -3,7 +3,7 @@ layout: post
 title: 'B07XP4TGKH: Ahorra en DOOGEE S40 Lite Dual SIM Movil Todoterre'
 date: 2020-01-02 15:55:37
 comments: true
-tags: B07XP4TGKH
+image: https://images-eu.ssl-images-amazon.com/images/I/51X6fUhcSCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XP4TGKH

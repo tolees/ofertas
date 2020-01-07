@@ -3,7 +3,7 @@ layout: post
 title: 'B00GYPIDIG: Ahorra en Monogram Marvel Llavero Martillo Thor  M'
 date: 2019/12/14 21:01:27 +0000
 comments: true
-tags: B00GYPIDIG
+image: https://images-eu.ssl-images-amazon.com/images/I/51UySXCv7UL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00GYPIDIG

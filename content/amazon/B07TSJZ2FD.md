@@ -3,7 +3,7 @@ layout: post
 title: 'B07TSJZ2FD: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Te en Amazon'
 date: 2020-01-05 22:48:24
 comments: true
-tags: B07TSJZ2FD
+image: https://images-eu.ssl-images-amazon.com/images/I/51D9Scu1CPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TSJZ2FD

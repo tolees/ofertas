@@ -2,6 +2,7 @@
 layout: post
 title: 'B07BVWSRZ2 - Ofertón en Amazon para seQoya - General Sherman | Reloj de Made'
 date: 2019/12/21 17:19:39 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/416FIOMuc9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

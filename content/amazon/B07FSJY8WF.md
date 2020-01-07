@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FSJY8WF - Ofertón en Amazon para Memoria Flash Universal 64 GB  aleación '
 date: 2019/12/16 03:01:20 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41drvf%2BDlUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

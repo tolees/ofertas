@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CTKSLP4 - Ofertón en Amazon para JACK & JONES Jfwalbany Leather Anthracit'
 date: 2019/12/15 17:19:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41LYntT1CrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

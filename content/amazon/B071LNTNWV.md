@@ -2,6 +2,7 @@
 layout: post
 title: 'B071LNTNWV - Ofertón en Amazon para LEGO Teo 802 L/S Camiseta  Blanco  Off W'
 date: 2019/12/11 08:33:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51HDY6WjeWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00STBW4R4: Ahorra en L Oréal Paris Men Expert Hydra Energetic'
 date: 2020-01-04 17:35:20
 comments: true
-tags: B00STBW4R4
+image: https://images-eu.ssl-images-amazon.com/images/I/41qDyK4tZAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00STBW4R4

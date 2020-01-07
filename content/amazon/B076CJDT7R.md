@@ -3,7 +3,7 @@ layout: post
 title: 'B076CJDT7R: Ahorra en Harman-Kardon Allure Altavoces inteligen'
 date: 2019/12/13 19:45:41 +0000
 comments: true
-tags: B076CJDT7R
+image: https://images-eu.ssl-images-amazon.com/images/I/41QwqmOKBoL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B076CJDT7R

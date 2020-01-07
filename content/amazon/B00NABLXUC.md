@@ -3,7 +3,7 @@ layout: post
 title: 'B00NABLXUC: Rebaja en Beurer FC100  Exfoliador facial Pureo De en Amazon'
 date: 2019/12/19 06:02:18 +0000
 comments: true
-tags: B00NABLXUC
+image: https://images-eu.ssl-images-amazon.com/images/I/41LSSnxGcVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00NABLXUC

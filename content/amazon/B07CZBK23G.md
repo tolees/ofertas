@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CZBK23G - Ofertón en Amazon para Under Armour UA Qualifier Singlet Tanque'
 date: 2019/12/28 15:44:31 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31DiLnB3bFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

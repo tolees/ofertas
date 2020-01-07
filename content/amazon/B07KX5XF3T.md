@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KX5XF3T - Ofertón en Amazon para Sycle circle 2in1 Toy Storage Bag & Floo'
 date: 2020-01-05 22:14:49
+image: https://images-eu.ssl-images-amazon.com/images/I/51N9dFF1xpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

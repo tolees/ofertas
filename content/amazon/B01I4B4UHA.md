@@ -3,7 +3,7 @@ layout: post
 title: 'B01I4B4UHA: Ahorra en Vans UA ISO 2  Zapatillas para Hombre  G'
 date: 2020-01-07 14:55:18
 comments: true
-tags: B01I4B4UHA
+image: https://images-eu.ssl-images-amazon.com/images/I/415-ykr9mEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01I4B4UHA

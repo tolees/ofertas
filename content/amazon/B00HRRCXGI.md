@@ -3,7 +3,7 @@ layout: post
 title: 'B00HRRCXGI: Rebaja en Sylvanian Families - Girl s Bedroom Set en Amazon'
 date: 2020-01-01 14:36:19
 comments: true
-tags: B00HRRCXGI
+image: https://images-eu.ssl-images-amazon.com/images/I/51p8YY1jzoL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00HRRCXGI

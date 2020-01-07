@@ -3,7 +3,7 @@ layout: post
 title: 'B07KJSCGH4: Rebaja en REPLAY Karyna Pantalones  Verde  Militar en Amazon'
 date: 2019/12/17 10:37:51 +0000
 comments: true
-tags: B07KJSCGH4
+image: https://images-eu.ssl-images-amazon.com/images/I/31hc-RfvEDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KJSCGH4

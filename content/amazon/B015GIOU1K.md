@@ -2,6 +2,7 @@
 layout: post
 title: 'B015GIOU1K - Ofertón en Amazon para Nike Jr Mercurial Victory V TF  Botas de'
 date: 2019/12/15 11:32:43 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/316snJa53YL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

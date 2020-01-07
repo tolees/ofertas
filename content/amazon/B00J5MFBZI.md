@@ -3,7 +3,7 @@ layout: post
 title: 'B00J5MFBZI: Ahorra en Bourjois Velvet Barra de Labios Líquida '
 date: 2019/12/28 11:39:11 +0000
 comments: true
-tags: B00J5MFBZI
+image: https://images-eu.ssl-images-amazon.com/images/I/4134bDvSjFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00J5MFBZI

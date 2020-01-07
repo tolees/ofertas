@@ -3,7 +3,7 @@ layout: post
 title: 'B07SYXLS1V: Ahorra en Casco de moto con gafas de protección un'
 date: 2019/12/21 12:00:13 +0000
 comments: true
-tags: B07SYXLS1V
+image: https://images-eu.ssl-images-amazon.com/images/I/41blhTtw8aL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SYXLS1V

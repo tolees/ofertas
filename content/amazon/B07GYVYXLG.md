@@ -3,7 +3,7 @@ layout: post
 title: 'B07GYVYXLG: Ahorra en 60 LED 10M Cadena Solar de Luces  IP65 I'
 date: 2019/12/30 18:21:36 +0000
 comments: true
-tags: B07GYVYXLG
+image: https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GYVYXLG

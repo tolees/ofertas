@@ -3,7 +3,7 @@ layout: post
 title: 'B07LGR1TF1: Ahorra en iEFiEL Damen Prinzessin Kostüm Königin P'
 date: 2020-01-03 22:56:34
 comments: true
-tags: B07LGR1TF1
+image: https://images-eu.ssl-images-amazon.com/images/I/4180WYdOIYL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LGR1TF1

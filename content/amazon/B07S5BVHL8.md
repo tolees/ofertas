@@ -3,7 +3,7 @@ layout: post
 title: 'B07S5BVHL8: Rebaja en Nene Toys - Juguete Educativo para Niños en Amazon'
 date: 2020-01-06 10:36:20
 comments: true
-tags: B07S5BVHL8
+image: https://images-eu.ssl-images-amazon.com/images/I/51h5r52Pi8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07S5BVHL8

@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBN77MJ: Rebaja en Helly Hansen HH Logo Crew Sudadera Depor en Amazon'
 date: 2020-01-03 09:10:15
 comments: true
-tags: B07LBN77MJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41BE3REvlwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LBN77MJ

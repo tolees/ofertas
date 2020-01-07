@@ -3,7 +3,7 @@ layout: post
 title: 'B07WVXXQ88: Ahorra en J.Endéar Letra Inicial A Pulseras Mujer '
 date: 2019/12/15 14:45:45 +0000
 comments: true
-tags: B07WVXXQ88
+image: https://images-eu.ssl-images-amazon.com/images/I/414oKzXiv0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WVXXQ88

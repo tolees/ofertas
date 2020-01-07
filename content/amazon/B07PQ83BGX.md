@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PQ83BGX - Ofertón en Amazon para New Look 915 Jackie Ripped Cargo Pantalo'
 date: 2019/12/11 08:35:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31DE9b-lWgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

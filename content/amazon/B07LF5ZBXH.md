@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LF5ZBXH - Ofertón en Amazon para Levi s 2pk Crewneck 1 Camiseta  Multicol'
 date: 2019/12/23 15:12:03 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31M1t5keBuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

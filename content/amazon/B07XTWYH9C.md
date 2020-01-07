@@ -3,7 +3,7 @@ layout: post
 title: 'B07XTWYH9C: Ahorra en Trust Gaming GXT 698 Torro Dolby Digital'
 date: 2019/12/26 21:26:36 +0000
 comments: true
-tags: B07XTWYH9C
+image: https://images-eu.ssl-images-amazon.com/images/I/41PWNSpghGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XTWYH9C

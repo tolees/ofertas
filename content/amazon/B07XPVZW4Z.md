@@ -3,7 +3,7 @@ layout: post
 title: 'B07XPVZW4Z: Ahorra en YOSICIL Niñas Disfraz Anna Frozen Elsa c'
 date: 2020-01-06 22:24:17
 comments: true
-tags: B07XPVZW4Z
+image: https://images-eu.ssl-images-amazon.com/images/I/41rU92IOppL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XPVZW4Z

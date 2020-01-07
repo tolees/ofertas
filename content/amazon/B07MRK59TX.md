@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MRK59TX - Ofertón en Amazon para Lacoste Ch0763 Camisa  Blanco  Blanc 001'
 date: 2019/12/21 09:46:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31dXYK6kfsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

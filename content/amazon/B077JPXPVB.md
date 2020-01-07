@@ -2,6 +2,7 @@
 layout: post
 title: 'B077JPXPVB - Ofertón en Amazon para GOXAWEE Herramienta rotativa multifunció'
 date: 2019/12/27 07:50:52 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/518H2qI-KZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

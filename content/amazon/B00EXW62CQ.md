@@ -2,6 +2,7 @@
 layout: post
 title: 'B00EXW62CQ - Ofertón en Amazon para Elizabeth Arden Eight Hour Lip Protectan'
 date: 2019/12/21 00:12:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/311swdVloKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

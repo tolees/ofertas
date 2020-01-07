@@ -3,7 +3,7 @@ layout: post
 title: 'B07VT6J6TB: Rebaja en Pendientes Mujer  Amilril Pendientes de  en Amazon'
 date: 2019/12/22 11:48:02 +0000
 comments: true
-tags: B07VT6J6TB
+image: https://images-eu.ssl-images-amazon.com/images/I/41JarQ5%2BLdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VT6J6TB

@@ -2,6 +2,7 @@
 layout: post
 title: 'B075NPYJJT - Ofertón en Amazon para NUOLUX Jumbo Foil Love Balloon romántica'
 date: 2020-01-02 21:52:22
+image: https://images-eu.ssl-images-amazon.com/images/I/51WlK8Uu3CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

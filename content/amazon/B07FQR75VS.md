@@ -3,7 +3,7 @@ layout: post
 title: 'B07FQR75VS: Rebaja en JACK & JONES Jjespace Sweat Zip Hood Noo en Amazon'
 date: 2019/12/27 11:08:19 +0000
 comments: true
-tags: B07FQR75VS
+image: https://images-eu.ssl-images-amazon.com/images/I/41Hq1HWXNZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FQR75VS

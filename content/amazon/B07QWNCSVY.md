@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QWNCSVY - Ofertón en Amazon para Under Armour Gametime Coldgear Mock Cami'
 date: 2019/12/20 07:34:58 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41pEfcaH7CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

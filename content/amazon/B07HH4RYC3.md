@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HH4RYC3 - Ofertón en Amazon para The North Face Borealis Classic Mochila '
 date: 2019/12/15 11:26:44 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41nDghAekFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

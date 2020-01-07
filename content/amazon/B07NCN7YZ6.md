@@ -3,7 +3,7 @@ layout: post
 title: 'B07NCN7YZ6: Ahorra en Naturalia Somier Fortuna  Tubo de Acero '
 date: 2020-01-06 23:01:31
 comments: true
-tags: B07NCN7YZ6
+image: https://images-eu.ssl-images-amazon.com/images/I/41s852aJlRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NCN7YZ6

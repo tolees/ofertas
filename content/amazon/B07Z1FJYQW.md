@@ -3,7 +3,7 @@ layout: post
 title: 'B07Z1FJYQW: Rebaja en Eléctrica Depiladora Cejas - Xpreen Afei en Amazon'
 date: 2020-01-05 20:31:54
 comments: true
-tags: B07Z1FJYQW
+image: https://images-eu.ssl-images-amazon.com/images/I/411Zf2dS3%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Z1FJYQW

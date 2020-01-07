@@ -3,7 +3,7 @@ layout: post
 title: 'B07RZ8H5NB: Rebaja en Levi s Graphic Sport Hoodie Capucha  Bla en Amazon'
 date: 2020-01-06 13:33:17
 comments: true
-tags: B07RZ8H5NB
+image: https://images-eu.ssl-images-amazon.com/images/I/31USCJGqbCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RZ8H5NB

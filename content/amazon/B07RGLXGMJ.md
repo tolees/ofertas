@@ -3,7 +3,7 @@ layout: post
 title: 'B07RGLXGMJ: Rebaja en adidas Deerupt Runner  Zapatillas para H en Amazon'
 date: 2019/12/29 20:13:02 +0000
 comments: true
-tags: B07RGLXGMJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41-PCWpeiKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RGLXGMJ

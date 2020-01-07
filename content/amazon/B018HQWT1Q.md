@@ -3,7 +3,7 @@ layout: post
 title: 'B018HQWT1Q: Rebaja en Salomon Agile Warm Glove U Guantes de Ca en Amazon'
 date: 2019/12/29 09:19:50 +0000
 comments: true
-tags: B018HQWT1Q
+image: https://images-eu.ssl-images-amazon.com/images/I/51ZTRwQLK-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B018HQWT1Q

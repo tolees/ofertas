@@ -3,7 +3,7 @@ layout: post
 title: 'B077PLWQLK: Rebaja en find. Botines Ajustados de Tacón Mujer   en Amazon'
 date: 2019/12/20 09:50:31 +0000
 comments: true
-tags: B077PLWQLK
+image: https://images-eu.ssl-images-amazon.com/images/I/51dBQ81U43L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077PLWQLK

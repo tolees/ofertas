@@ -2,6 +2,7 @@
 layout: post
 title: 'B014HBH1UO - Ofertón en Amazon para Seiko Reloj Analógico para Hombre de Ene'
 date: 2019/12/20 10:11:19 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41paKBuyXBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

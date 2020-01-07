@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XGYX3QW - Ofertón en Amazon para Funko Vinyl: Valerian: Doghan Daguis  10'
 date: 2019/12/15 20:35:20 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41uHoXroPfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

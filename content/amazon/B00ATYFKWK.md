@@ -3,7 +3,7 @@ layout: post
 title: 'B00ATYFKWK: Ahorra en Creative Toys - Pulsera de Juguete  CT56'
 date: 2019/12/19 10:02:11 +0000
 comments: true
-tags: B00ATYFKWK
+image: https://images-eu.ssl-images-amazon.com/images/I/516R404-8qL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00ATYFKWK

@@ -2,6 +2,7 @@
 layout: post
 title: 'B01G6S8MFE - Ofertón en Amazon para Amzdeal Softbox 50 x 70 cm Kit de llumin'
 date: 2019/12/30 01:46:55 +0000
+image: None._SL200_
 comments: true
 category: ofertas
 author: ring

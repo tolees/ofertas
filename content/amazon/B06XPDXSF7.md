@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XPDXSF7 - Ofertón en Amazon para find. Vaqueros Ajustados para Hombre  Az'
 date: 2019/12/23 08:19:33 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

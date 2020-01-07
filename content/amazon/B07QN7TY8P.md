@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QN7TY8P - Ofertón en Amazon para New Look Liv Animal Chaqueta de Traje  M'
 date: 2019/12/23 18:44:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51iAk97zKcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

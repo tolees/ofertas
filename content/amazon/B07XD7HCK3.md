@@ -3,7 +3,7 @@ layout: post
 title: 'B07XD7HCK3: Rebaja en TONGJI Acryl Vitrine Mit Beleuchtungsset en Amazon'
 date: 2019/12/17 15:54:21 +0000
 comments: true
-tags: B07XD7HCK3
+image: https://images-eu.ssl-images-amazon.com/images/I/41HBdqq4qbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XD7HCK3

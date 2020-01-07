@@ -3,7 +3,7 @@ layout: post
 title: 'B07JDX3X7D: Ahorra en DUNLOP Explosion Sport Naranja Fluor'
 date: 2020-01-06 09:06:01
 comments: true
-tags: B07JDX3X7D
+image: https://images-eu.ssl-images-amazon.com/images/I/41Y0gwOA1OL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JDX3X7D

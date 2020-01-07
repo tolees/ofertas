@@ -3,7 +3,7 @@ layout: post
 title: 'B01MZXGJKX: Ahorra en Pedea GmbH SET012-65065422-0009 - Funda '
 date: 2019/12/30 16:56:54 +0000
 comments: true
-tags: B01MZXGJKX
+image: https://images-eu.ssl-images-amazon.com/images/I/51CEVc13iOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MZXGJKX

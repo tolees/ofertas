@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DCKN61P - Ofertón en Amazon para DADYPET Alfombrilla Gato  Mascotas Gatos'
 date: 2020-01-03 10:47:13
+image: https://images-eu.ssl-images-amazon.com/images/I/51pLhr2YJYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

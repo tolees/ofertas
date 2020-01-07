@@ -2,6 +2,7 @@
 layout: post
 title: 'B00FZE1AZU - Ofertón en Amazon para Michael Kors Reloj analogico para Mujer '
 date: 2019/12/27 09:24:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41nNyzPXuYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

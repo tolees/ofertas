@@ -3,7 +3,7 @@ layout: post
 title: 'B07N19CPTJ: Ahorra en Lee Logo tee  Camiseta para Hombre  Rojo'
 date: 2020-01-06 15:11:37
 comments: true
-tags: B07N19CPTJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41kv84a6qIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N19CPTJ

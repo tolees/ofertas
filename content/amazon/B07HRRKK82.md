@@ -3,7 +3,7 @@ layout: post
 title: 'B07HRRKK82: Ahorra en Funko Pop! Movies: Elf - Buddy Elf'
 date: 2019/12/30 00:30:14 +0000
 comments: true
-tags: B07HRRKK82
+image: https://images-eu.ssl-images-amazon.com/images/I/41lJ9-rvcYL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HRRKK82

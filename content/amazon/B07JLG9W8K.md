@@ -3,7 +3,7 @@ layout: post
 title: 'B07JLG9W8K: Rebaja en HP Spectre x360 13-ap0110ng  13 3 Zoll / en Amazon'
 date: 2020-01-06 15:26:48
 comments: true
-tags: B07JLG9W8K
+image: https://images-eu.ssl-images-amazon.com/images/I/418e0nzvPfL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JLG9W8K

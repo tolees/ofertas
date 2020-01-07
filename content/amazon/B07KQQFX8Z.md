@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQQFX8Z: Rebaja en Salomon Trailster GTX W  Zapatillas de T en Amazon'
 date: 2020-01-04 13:40:52
 comments: true
-tags: B07KQQFX8Z
+image: https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KQQFX8Z

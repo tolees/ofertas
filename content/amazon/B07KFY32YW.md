@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFY32YW: Rebaja en PUMA Smash v2 SD V Inf  Zapatillas Unise en Amazon'
 date: 2019/12/16 12:50:25 +0000
 comments: true
-tags: B07KFY32YW
+image: https://images-eu.ssl-images-amazon.com/images/I/419hh-bxKLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KFY32YW

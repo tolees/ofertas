@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFDTK8N: Rebaja en Funko 32804 POP Vinyl: Power Blue Ranger en Amazon'
 date: 2020-01-05 06:06:59
 comments: true
-tags: B07DFDTK8N
+image: https://images-eu.ssl-images-amazon.com/images/I/41rDYE3o6QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DFDTK8N

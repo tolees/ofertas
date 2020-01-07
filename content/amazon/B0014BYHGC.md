@@ -2,6 +2,7 @@
 layout: post
 title: 'B0014BYHGC - Ofertón en Amazon para Crocs Classic Clog  Zuecos Unisex Adulto'
 date: 2020-01-06 20:33:02
+image: https://images-eu.ssl-images-amazon.com/images/I/31UU23-ft3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

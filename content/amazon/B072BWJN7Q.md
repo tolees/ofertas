@@ -2,6 +2,7 @@
 layout: post
 title: 'B072BWJN7Q - Ofertón en Amazon para Under Armour Men s Launch AV Cap Gorra  '
 date: 2019/12/20 19:55:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31CzuMgSN1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

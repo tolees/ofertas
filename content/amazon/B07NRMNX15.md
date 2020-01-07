@@ -3,7 +3,7 @@ layout: post
 title: 'B07NRMNX15: Ahorra en Cámara IP Exterior  Camara IP WiFi 1080p'
 date: 2020-01-04 07:53:46
 comments: true
-tags: B07NRMNX15
+image: https://images-eu.ssl-images-amazon.com/images/I/41iUyzKggkL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NRMNX15

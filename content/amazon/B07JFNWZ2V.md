@@ -3,7 +3,7 @@ layout: post
 title: 'B07JFNWZ2V: Ahorra en Lifewit 15L Bolsa Isotermica de Almuerzo'
 date: 2019/12/31 06:24:43 +0000
 comments: true
-tags: B07JFNWZ2V
+image: https://images-eu.ssl-images-amazon.com/images/I/51HY05qLYCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JFNWZ2V

@@ -2,6 +2,7 @@
 layout: post
 title: 'B077NM6HBV - Ofertón en Amazon para DKNY Intimates Sheers Convertible Sujeta'
 date: 2019/12/20 08:27:48 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41oX-BhzmWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07B4JQRGH - Ofertón en Amazon para Auriculares Bluetooth  Manos Libres Orej'
 date: 2020-01-06 13:06:36
+image: https://images-eu.ssl-images-amazon.com/images/I/41rQWEk%2B0AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

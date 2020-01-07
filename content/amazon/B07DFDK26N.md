@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFDK26N: Rebaja en Funko Simpsons Pop Abuelo Simpson  Multi en Amazon'
 date: 2019/12/16 21:11:24 +0000
 comments: true
-tags: B07DFDK26N
+image: https://images-eu.ssl-images-amazon.com/images/I/318S649jJ9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DFDK26N

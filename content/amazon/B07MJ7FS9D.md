@@ -3,7 +3,7 @@ layout: post
 title: 'B07MJ7FS9D: Rebaja en Clarks Arla Free  Zapatos de Cordones De en Amazon'
 date: 2020-01-04 21:11:08
 comments: true
-tags: B07MJ7FS9D
+image: https://images-eu.ssl-images-amazon.com/images/I/31PUDrtsvAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MJ7FS9D

@@ -3,7 +3,7 @@ layout: post
 title: 'B07GJFM1QP: Ahorra en Alexis Leroy Botas con Tacón para Mujer '
 date: 2019/12/24 19:33:08 +0000
 comments: true
-tags: B07GJFM1QP
+image: https://images-eu.ssl-images-amazon.com/images/I/41IO7IxtXFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GJFM1QP

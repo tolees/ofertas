@@ -3,7 +3,7 @@ layout: post
 title: 'B07RZV8LZM: Rebaja en ASUS Zenbook 13 UX392FA  90NB0KY1-M00610 en Amazon'
 date: 2019/12/11 19:58:11 +0000
 comments: true
-tags: B07RZV8LZM
+image: https://images-eu.ssl-images-amazon.com/images/I/41cv7q3n68L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RZV8LZM

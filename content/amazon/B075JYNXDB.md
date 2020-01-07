@@ -3,7 +3,7 @@ layout: post
 title: 'B075JYNXDB: Ahorra en Cable USB C  Techole Cable Tipo C a USB '
 date: 2020-01-06 10:23:54
 comments: true
-tags: B075JYNXDB
+image: https://images-eu.ssl-images-amazon.com/images/I/412QWlUriBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B075JYNXDB

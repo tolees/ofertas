@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FF4WWXM - Ofertón en Amazon para Woxter UPS 2000 VA - Sistema SAI de alim'
 date: 2019/12/24 14:49:04 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31bM4GPtivL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

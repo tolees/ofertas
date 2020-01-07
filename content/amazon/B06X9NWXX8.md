@@ -2,6 +2,7 @@
 layout: post
 title: 'B06X9NWXX8 - Ofertón en Amazon para Fitbit Alta HR Armband zur Herzfrequenz-'
 date: 2019/12/19 10:21:34 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31YiX-5Ni2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

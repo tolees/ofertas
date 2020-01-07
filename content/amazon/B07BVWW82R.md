@@ -3,7 +3,7 @@ layout: post
 title: 'B07BVWW82R: Rebaja en Buyger 22pcs Juguete de Helados Juguetes en Amazon'
 date: 2019/12/24 15:17:35 +0000
 comments: true
-tags: B07BVWW82R
+image: https://images-eu.ssl-images-amazon.com/images/I/412YzNjer1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BVWW82R

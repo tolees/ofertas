@@ -2,6 +2,7 @@
 layout: post
 title: 'B075XNCWNX - Ofertón en Amazon para McAfee Total Protection 2020 - Antivirus'
 date: 2019/12/14 11:41:10 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41s2l1LlJlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

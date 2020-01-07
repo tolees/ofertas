@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KFY13NV - Ofertón en Amazon para PUMA LQDCell Shatter XT Wn s  Zapatillas'
 date: 2019/12/30 18:56:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41uTY7MQksL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

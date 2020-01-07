@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MVLN3WN - Ofertón en Amazon para JACK & JONES Jcoviking tee SS Crew Neck '
 date: 2019/12/21 20:16:44 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41TPwSuxHNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

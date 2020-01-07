@@ -2,6 +2,7 @@
 layout: post
 title: 'B01FNRWNPO - Ofertón en Amazon para HP Z5000  W2Q00AA  kabellose Maus  Bluet'
 date: 2020-01-02 22:26:03
+image: https://images-eu.ssl-images-amazon.com/images/I/419UlKOS3CL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

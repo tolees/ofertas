@@ -3,7 +3,7 @@ layout: post
 title: 'B07WR4PBGB: Ahorra en Louviva Masajeador  12 Modos  Impermeabl'
 date: 2019/12/13 12:31:29 +0000
 comments: true
-tags: B07WR4PBGB
+image: https://images-eu.ssl-images-amazon.com/images/I/41J14%2BPhiPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WR4PBGB

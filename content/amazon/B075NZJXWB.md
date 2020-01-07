@@ -3,7 +3,7 @@ layout: post
 title: 'B075NZJXWB: Ahorra en Apple - Funda de Piel  para el iPad Pro '
 date: 2019/12/28 20:01:09 +0000
 comments: true
-tags: B075NZJXWB
+image: https://images-eu.ssl-images-amazon.com/images/I/318EPNrYHcL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B075NZJXWB

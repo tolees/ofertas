@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HKTJNLQ - Ofertón en Amazon para Under Armour Sc 3zer0 Iii Zapatos de Bal'
 date: 2020-01-01 14:29:43
+image: https://images-eu.ssl-images-amazon.com/images/I/41S0G-HVX%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

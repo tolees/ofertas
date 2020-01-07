@@ -3,7 +3,7 @@ layout: post
 title: 'B01DPQ4S1C: Rebaja en Thrustmaster TMX Force Feedback - Volant en Amazon'
 date: 2019/12/13 21:58:10 +0000
 comments: true
-tags: B01DPQ4S1C
+image: https://images-eu.ssl-images-amazon.com/images/I/51cUr17W4wL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01DPQ4S1C

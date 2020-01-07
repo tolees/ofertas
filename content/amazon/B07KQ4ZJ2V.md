@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQ4ZJ2V: Rebaja en Calvin Klein Jeans Core Monogram Logo Re en Amazon'
 date: 2019/12/20 11:18:20 +0000
 comments: true
-tags: B07KQ4ZJ2V
+image: https://images-eu.ssl-images-amazon.com/images/I/41PsrtdyXEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KQ4ZJ2V

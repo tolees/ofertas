@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XGZTD14 - Ofertón en Amazon para find. Pantalón Cargo Hombre  Azul  Navy '
 date: 2019/12/20 12:08:41 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41KF%2B1weshL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

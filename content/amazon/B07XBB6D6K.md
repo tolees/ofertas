@@ -3,7 +3,7 @@ layout: post
 title: 'B07XBB6D6K: Ahorra en Bolso de Hombro para Mujer  Bolsos Cruza'
 date: 2019/12/29 09:53:56 +0000
 comments: true
-tags: B07XBB6D6K
+image: https://images-eu.ssl-images-amazon.com/images/I/41Cj0XKfhEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XBB6D6K

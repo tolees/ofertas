@@ -2,6 +2,7 @@
 layout: post
 title: 'B07BLG6LVS - Ofertón en Amazon para Esprit 998ee1k812 Camisa Manga Larga  Ne'
 date: 2019/12/13 15:06:13 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41yXaLr7KtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B006Q7CDPG: Ahorra en Speedo Solid Leisure - Bañador de nataci'
 date: 2019/12/16 06:08:47 +0000
 comments: true
-tags: B006Q7CDPG
+image: https://images-eu.ssl-images-amazon.com/images/I/415T7-25vGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B006Q7CDPG

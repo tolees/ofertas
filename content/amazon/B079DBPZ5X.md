@@ -2,6 +2,7 @@
 layout: post
 title: 'B079DBPZ5X - Ofertón en Amazon para Regatta Chubasquero Lyle IV Impermeable '
 date: 2019/12/15 10:55:32 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41PLdD%2BchFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

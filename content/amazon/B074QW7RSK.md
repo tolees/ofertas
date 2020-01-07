@@ -2,6 +2,7 @@
 layout: post
 title: 'B074QW7RSK - Ofertón en Amazon para Yo-Kai Watch 2: Mentespectros'
 date: 2019/12/21 10:08:27 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/615j%2BI388BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

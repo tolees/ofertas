@@ -3,7 +3,7 @@ layout: post
 title: 'B007GZCUCI: Rebaja en Campos 75223 Nevera Termo rigida  Azul   en Amazon'
 date: 2020-01-03 20:01:18
 comments: true
-tags: B007GZCUCI
+image: https://images-eu.ssl-images-amazon.com/images/I/312NCSD0B7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B007GZCUCI

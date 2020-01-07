@@ -3,7 +3,7 @@ layout: post
 title: 'B07DGHC6VN: Ahorra en Regatta - Forro Polar con Capucha y Crem'
 date: 2019/12/23 15:42:59 +0000
 comments: true
-tags: B07DGHC6VN
+image: https://images-eu.ssl-images-amazon.com/images/I/4160i0stdPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DGHC6VN

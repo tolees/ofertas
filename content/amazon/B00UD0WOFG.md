@@ -2,6 +2,7 @@
 layout: post
 title: 'B00UD0WOFG - Ofertón en Amazon para Star Wars - Disfraz de R2-D2 para mascot'
 date: 2019/12/22 09:40:52 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/411vCvIU%2B9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

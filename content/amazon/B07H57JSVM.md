@@ -3,7 +3,7 @@ layout: post
 title: 'B07H57JSVM: Rebaja en X-TIGER Hombres de Bicicleta Manga Corta en Amazon'
 date: 2019/12/30 10:31:25 +0000
 comments: true
-tags: B07H57JSVM
+image: https://images-eu.ssl-images-amazon.com/images/I/41eeCHGjVLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07H57JSVM

@@ -3,7 +3,7 @@ layout: post
 title: 'B07BRHLN5V: Ahorra en Lifewit Bolsa Térmica Grande Porta Alime'
 date: 2020-01-02 13:48:44
 comments: true
-tags: B07BRHLN5V
+image: https://images-eu.ssl-images-amazon.com/images/I/510EUd7VP8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BRHLN5V

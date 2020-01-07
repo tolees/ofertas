@@ -3,7 +3,7 @@ layout: post
 title: 'B078BMQYRK: Rebaja en find. Botines Chukka de Piel Hombre  Mar en Amazon'
 date: 2020-01-06 11:40:19
 comments: true
-tags: B078BMQYRK
+image: https://images-eu.ssl-images-amazon.com/images/I/31JLpxgKMhL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078BMQYRK

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QNYY67Y - Ofertón en Amazon para deAO Colección de Muñecas Bebé Tamaño Mi'
 date: 2020-01-03 15:21:30
+image: https://images-eu.ssl-images-amazon.com/images/I/51FZj3s43RL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01BGTW29A: Rebaja en G-STAR RAW Rovic Zip 3D Tapered  Pantalo en Amazon'
 date: 2019/12/13 01:45:01 +0000
 comments: true
-tags: B01BGTW29A
+image: https://images-eu.ssl-images-amazon.com/images/I/41Yu9uxgLyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01BGTW29A

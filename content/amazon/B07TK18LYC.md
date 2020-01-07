@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TK18LYC - Ofertón en Amazon para Disney Pijama para Mujer Toy Story Multi'
 date: 2019/12/24 13:44:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31UMJP9RUCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

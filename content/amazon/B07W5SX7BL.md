@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'B07W5SX7BL: Ahorra en KONVINIT Gorro Navideño para Niño Gorro '
-date: 2020-01-07 14:58:32
+date: 2020-01-07 15:03:06
 comments: true
-tags: B07W5SX7BL
+image: https://images-eu.ssl-images-amazon.com/images/I/41JaGMKBh8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07W5SX7BL

@@ -3,7 +3,7 @@ layout: post
 title: 'B07G64DVKJ: Ahorra en Atrapasueños Charms de plata de ley 925 '
 date: 2019/12/10 22:44:06 +0000
 comments: true
-tags: B07G64DVKJ
+image: https://images-eu.ssl-images-amazon.com/images/I/411n22KjbuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G64DVKJ

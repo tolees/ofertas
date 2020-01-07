@@ -2,6 +2,7 @@
 layout: post
 title: 'B077SWT9YM - Ofertón en Amazon para Nike U Nk H86 Cap Metal Swoosh Hat  Unis'
 date: 2019/12/30 12:54:20 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31c-AEjiboL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

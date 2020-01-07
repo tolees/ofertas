@@ -3,7 +3,7 @@ layout: post
 title: 'B01GRE7W9O: Rebaja en Logitech C925E Pro - Cámara Web  Full HD en Amazon'
 date: 2020-01-03 17:57:23
 comments: true
-tags: B01GRE7W9O
+image: https://images-eu.ssl-images-amazon.com/images/I/41ZCAGIoyIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01GRE7W9O

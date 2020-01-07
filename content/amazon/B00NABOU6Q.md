@@ -2,6 +2,7 @@
 layout: post
 title: 'B00NABOU6Q - Ofertón en Amazon para Beurer FC72 - Sauna facial iónica  color'
 date: 2019/12/19 06:27:52 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31h0nGkpvIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07M8LKJKH - Ofertón en Amazon para Wrangler High Rise Skinny Vaqueros  Azul'
 date: 2019/12/28 20:39:43 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/315m5EguhCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

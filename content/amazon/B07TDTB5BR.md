@@ -3,7 +3,7 @@ layout: post
 title: 'B07TDTB5BR: Ahorra en Lotus Reloj Cronógrafo para Mujer de Cua'
 date: 2019/12/20 01:25:45 +0000
 comments: true
-tags: B07TDTB5BR
+image: https://images-eu.ssl-images-amazon.com/images/I/41ejJiuX3JL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TDTB5BR

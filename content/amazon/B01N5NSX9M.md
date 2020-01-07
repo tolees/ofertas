@@ -3,7 +3,7 @@ layout: post
 title: 'B01N5NSX9M: Ahorra en AUKEY Soporte Móvil Coche Magnético Univ'
 date: 2020-01-06 19:53:41
 comments: true
-tags: B01N5NSX9M
+image: None._SL200_
 category: ofertas
 author: ring
 slug: B01N5NSX9M

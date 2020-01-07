@@ -3,7 +3,7 @@ layout: post
 title: 'B01CLHBLTI: Ahorra en Disney Frozen 15335 Disney Disney Frozen'
 date: 2019/12/27 16:37:14 +0000
 comments: true
-tags: B01CLHBLTI
+image: https://images-eu.ssl-images-amazon.com/images/I/51%2BB4BrBE3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01CLHBLTI

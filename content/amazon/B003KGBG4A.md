@@ -2,6 +2,7 @@
 layout: post
 title: 'B003KGBG4A - Ofertón en Amazon para Porsche Design 09/18/19110-01 - Monedero'
 date: 2019/12/27 09:27:25 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41ul-8-mlBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B001ICYAVO: Rebaja en WIDMANN Desconocido Disfraz para Adulto en Amazon'
 date: 2019/12/14 23:53:51 +0000
 comments: true
-tags: B001ICYAVO
+image: https://images-eu.ssl-images-amazon.com/images/I/415PtKU9QCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B001ICYAVO

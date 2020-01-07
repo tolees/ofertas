@@ -3,7 +3,7 @@ layout: post
 title: 'B07LH3YSJ5: Rebaja en DazSpirit 7Piezas boligrafo de Tinta Inv en Amazon'
 date: 2020-01-07 09:13:22
 comments: true
-tags: B07LH3YSJ5
+image: https://images-eu.ssl-images-amazon.com/images/I/515mt8dmFDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LH3YSJ5

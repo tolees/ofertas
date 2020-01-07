@@ -3,7 +3,7 @@ layout: post
 title: 'B073JQLH7V: Ahorra en find. Cazadora Estilo Bomber para Hombre'
 date: 2019/12/22 19:44:43 +0000
 comments: true
-tags: B073JQLH7V
+image: https://images-eu.ssl-images-amazon.com/images/I/41XHt0XmGBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073JQLH7V

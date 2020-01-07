@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRCD8JM: Rebaja en GANT FOOTWEAR Portland  Zapatillas para  en Amazon'
 date: 2020-01-06 12:02:07
 comments: true
-tags: B07KRCD8JM
+image: https://images-eu.ssl-images-amazon.com/images/I/41UwEX-8sfL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KRCD8JM

@@ -3,7 +3,7 @@ layout: post
 title: 'B07F8TXSCN: Rebaja en TACKLIFE 2 Piezas Encendedor Eléctrico   en Amazon'
 date: 2019/12/13 10:35:20 +0000
 comments: true
-tags: B07F8TXSCN
+image: https://images-eu.ssl-images-amazon.com/images/I/41e2tCNgPwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F8TXSCN

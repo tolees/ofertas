@@ -2,6 +2,7 @@
 layout: post
 title: 'B07VZ6PW3D - Ofertón en Amazon para Showyoo Fitness Pulsera de Actividad Int'
 date: 2020-01-05 11:16:49
+image: https://images-eu.ssl-images-amazon.com/images/I/518PO%2Bh2q7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

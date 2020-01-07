@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JLQ1T6J - Ofertón en Amazon para Timberland Adventure 2.0 Cupsole Modern '
 date: 2019/12/15 20:57:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41g2DL3ktcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

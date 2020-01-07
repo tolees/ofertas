@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MQNPDU4 - Ofertón en Amazon para Energy Sistem Tower 1 - Sistema de Altav'
 date: 2019/12/12 08:38:23 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31M3JbUyM%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

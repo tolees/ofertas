@@ -3,7 +3,7 @@ layout: post
 title: 'B07QZRVY84: Ahorra en Altavoz Bluetooth Portátil IP67 Impermea'
 date: 2020-01-06 08:47:06
 comments: true
-tags: B07QZRVY84
+image: https://images-eu.ssl-images-amazon.com/images/I/51b0pp0%2B9JL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QZRVY84

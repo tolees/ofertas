@@ -3,7 +3,7 @@ layout: post
 title: 'B07CN2PF1F: Ahorra en Auriculares Bluetooth  Syllable D900P Au'
 date: 2019/12/14 01:17:16 +0000
 comments: true
-tags: B07CN2PF1F
+image: https://images-eu.ssl-images-amazon.com/images/I/418CGDPgt-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CN2PF1F

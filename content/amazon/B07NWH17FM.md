@@ -3,7 +3,7 @@ layout: post
 title: 'B07NWH17FM: Rebaja en Ruicer Portarrollo para Papel Higiénico  en Amazon'
 date: 2019/12/22 14:02:18 +0000
 comments: true
-tags: B07NWH17FM
+image: https://images-eu.ssl-images-amazon.com/images/I/51ZByQo9B4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NWH17FM

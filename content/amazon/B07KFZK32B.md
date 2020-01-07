@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFZK32B: Ahorra en Puma Future Runner Premium  Zapatillas U'
 date: 2019/12/20 19:19:09 +0000
 comments: true
-tags: B07KFZK32B
+image: https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KFZK32B

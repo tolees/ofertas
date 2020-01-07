@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VR1IMBU - Ofertón en Amazon para Ecco Irving   Mocasines para Hombre  Neg'
 date: 2020-01-06 14:42:38
+image: https://images-eu.ssl-images-amazon.com/images/I/41e19dI30XL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07P74JPDP: Rebaja en Seiko Reloj Analógico para Hombre de Ene en Amazon'
 date: 2019/12/16 22:20:54 +0000
 comments: true
-tags: B07P74JPDP
+image: https://images-eu.ssl-images-amazon.com/images/I/51ZbPTBSkoL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07P74JPDP

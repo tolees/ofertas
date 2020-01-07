@@ -3,7 +3,7 @@ layout: post
 title: 'B0779CBPSG: Ahorra en adidas Entrada 18 JSY Jersey  Niños  Neg'
 date: 2020-01-06 18:42:50
 comments: true
-tags: B0779CBPSG
+image: https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0779CBPSG

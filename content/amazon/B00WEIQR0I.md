@@ -2,6 +2,7 @@
 layout: post
 title: 'B00WEIQR0I - Ofertón en Amazon para Sony Handycam FDR-AX33 4KUHD - Videocáma'
 date: 2019/12/30 16:44:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41L4VsxbtbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

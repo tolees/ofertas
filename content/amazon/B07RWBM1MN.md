@@ -3,7 +3,7 @@ layout: post
 title: 'B07RWBM1MN: Ahorra en Neutrogena Aceite en loción hidratación '
 date: 2019/12/29 16:22:13 +0000
 comments: true
-tags: B07RWBM1MN
+image: https://images-eu.ssl-images-amazon.com/images/I/41SdBjDSSFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RWBM1MN

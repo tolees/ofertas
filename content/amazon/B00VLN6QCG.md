@@ -3,7 +3,7 @@ layout: post
 title: 'B00VLN6QCG: Ahorra en Levi s The Perfect Tee  Camiseta  Mujer '
 date: 2019/12/17 00:16:21 +0000
 comments: true
-tags: B00VLN6QCG
+image: https://images-eu.ssl-images-amazon.com/images/I/41QZjr54L7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00VLN6QCG

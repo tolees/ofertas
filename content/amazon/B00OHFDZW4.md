@@ -3,7 +3,7 @@ layout: post
 title: 'B00OHFDZW4: Rebaja en Disney Frozen Anker Elsa & Anna Carry Al en Amazon'
 date: 2019/12/20 07:08:14 +0000
 comments: true
-tags: B00OHFDZW4
+image: https://images-eu.ssl-images-amazon.com/images/I/51pSi7VNC1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00OHFDZW4

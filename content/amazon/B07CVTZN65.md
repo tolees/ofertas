@@ -3,7 +3,7 @@ layout: post
 title: 'B07CVTZN65: Ahorra en Lámpara Camping LED Linterna de Camping '
 date: 2020-01-01 11:38:25
 comments: true
-tags: B07CVTZN65
+image: https://images-eu.ssl-images-amazon.com/images/I/41XaCbGtCsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CVTZN65

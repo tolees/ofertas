@@ -3,7 +3,7 @@ layout: post
 title: 'B073TTRB9F: Ahorra en Sennheiser Ambeo Smart Headset  iOS  für'
 date: 2019/12/17 11:53:56 +0000
 comments: true
-tags: B073TTRB9F
+image: https://images-eu.ssl-images-amazon.com/images/I/314icNrRgVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073TTRB9F

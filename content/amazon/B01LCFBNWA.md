@@ -3,7 +3,7 @@ layout: post
 title: 'B01LCFBNWA: Rebaja en Tamron T80177 - Objetivo SP 150-600 mm F en Amazon'
 date: 2019/12/28 15:45:46 +0000
 comments: true
-tags: B01LCFBNWA
+image: https://images-eu.ssl-images-amazon.com/images/I/41Uy7rQT2UL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LCFBNWA

@@ -3,7 +3,7 @@ layout: post
 title: 'B06XHGPDFQ: Rebaja en Helly Hansen HH LIFA Crew LS Baselayer   en Amazon'
 date: 2019/12/25 06:25:26 +0000
 comments: true
-tags: B06XHGPDFQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41qyD%2BmMELL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XHGPDFQ

@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XCHL3BF - Ofertón en Amazon para Clarks Adriel Viola  Zapatos de Tacón pa'
 date: 2019/12/22 20:21:18 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41uQd%2BsUV3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

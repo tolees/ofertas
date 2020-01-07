@@ -3,7 +3,7 @@ layout: post
 title: 'B07WNJ3YRC: Ahorra en YOSICIL Zapatos de la Princesa Elsa niña'
 date: 2019/12/16 23:51:30 +0000
 comments: true
-tags: B07WNJ3YRC
+image: https://images-eu.ssl-images-amazon.com/images/I/519k%2Bhw3TQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WNJ3YRC

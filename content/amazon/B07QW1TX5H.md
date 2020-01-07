@@ -3,7 +3,7 @@ layout: post
 title: 'B07QW1TX5H: Rebaja en Cali Zapatos Deportivos para Mujer Blanc en Amazon'
 date: 2019/12/25 20:13:44 +0000
 comments: true
-tags: B07QW1TX5H
+image: https://images-eu.ssl-images-amazon.com/images/I/31xcrMb5wxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QW1TX5H

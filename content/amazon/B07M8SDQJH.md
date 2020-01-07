@@ -3,7 +3,7 @@ layout: post
 title: 'B07M8SDQJH: Rebaja en Frozen Disney Die Eiskönigin II Königlic en Amazon'
 date: 2020-01-05 22:28:30
 comments: true
-tags: B07M8SDQJH
+image: https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M8SDQJH

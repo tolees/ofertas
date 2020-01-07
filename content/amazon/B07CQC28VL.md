@@ -3,7 +3,7 @@ layout: post
 title: 'B07CQC28VL: Rebaja en Bosch Unlimited Serie 8 BCS1TOPNC - Aspi en Amazon'
 date: 2020-01-02 12:08:54
 comments: true
-tags: B07CQC28VL
+image: https://images-eu.ssl-images-amazon.com/images/I/41N9ZCWa8-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CQC28VL

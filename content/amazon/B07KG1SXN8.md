@@ -3,7 +3,7 @@ layout: post
 title: 'B07KG1SXN8: Rebaja en Puma Unisex-Erwachsene Rise XT 4 Futsals en Amazon'
 date: 2019/12/13 06:33:40 +0000
 comments: true
-tags: B07KG1SXN8
+image: https://images-eu.ssl-images-amazon.com/images/I/41L2j0gEyBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KG1SXN8

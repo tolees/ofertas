@@ -3,7 +3,7 @@ layout: post
 title: 'B07SRCP92T: Rebaja en adidas Coast Star  Zapatillas de Gimnasi en Amazon'
 date: 2019/12/13 15:05:17 +0000
 comments: true
-tags: B07SRCP92T
+image: https://images-eu.ssl-images-amazon.com/images/I/311nnmJ43lL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SRCP92T

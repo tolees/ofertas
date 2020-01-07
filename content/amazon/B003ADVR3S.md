@@ -2,6 +2,7 @@
 layout: post
 title: 'B003ADVR3S - Ofertón en Amazon para KidKraft- Casa de muñecas de madera con '
 date: 2020-01-07 06:41:11
+image: https://images-eu.ssl-images-amazon.com/images/I/51KlQ566siL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

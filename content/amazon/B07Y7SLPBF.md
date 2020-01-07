@@ -3,7 +3,7 @@ layout: post
 title: 'B07Y7SLPBF: Rebaja en X-EUCO Calentador de Manos  Hieha 7800mA en Amazon'
 date: 2019/12/31 10:22:53 +0000
 comments: true
-tags: B07Y7SLPBF
+image: https://images-eu.ssl-images-amazon.com/images/I/41hvFRP92mL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Y7SLPBF

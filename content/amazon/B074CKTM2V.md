@@ -2,6 +2,7 @@
 layout: post
 title: 'B074CKTM2V - Ofertón en Amazon para CamelBak Lobo Mochila de Hidratación  Ho'
 date: 2019/12/12 14:37:59 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41PCb3K52NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

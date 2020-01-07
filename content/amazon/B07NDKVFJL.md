@@ -3,7 +3,7 @@ layout: post
 title: 'B07NDKVFJL: Ahorra en Skechers Dynamight 2.0-fallford  Zapatil'
 date: 2019/12/21 10:11:42 +0000
 comments: true
-tags: B07NDKVFJL
+image: https://images-eu.ssl-images-amazon.com/images/I/311frTxxXuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NDKVFJL

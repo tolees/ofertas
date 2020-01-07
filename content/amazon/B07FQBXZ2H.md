@@ -3,7 +3,7 @@ layout: post
 title: 'B07FQBXZ2H: Rebaja en Aigoss Transmisor Bluetooth USB Adaptado en Amazon'
 date: 2020-01-05 23:00:50
 comments: true
-tags: B07FQBXZ2H
+image: https://images-eu.ssl-images-amazon.com/images/I/41xptdP5oPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FQBXZ2H

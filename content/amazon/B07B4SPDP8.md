@@ -3,7 +3,7 @@ layout: post
 title: 'B07B4SPDP8: Ahorra en L Oreal Paris Dermo Expertise Exfoliante'
 date: 2019-12-31 15:59:16
 comments: true
-tags: B07B4SPDP8
+image: https://images-eu.ssl-images-amazon.com/images/I/41kiUvSEcIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B4SPDP8

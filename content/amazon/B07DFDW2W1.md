@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFDW2W1: Ahorra en Funko Simpsons Pop Maggie Simpson  Multi'
 date: 2019/12/22 08:46:26 +0000
 comments: true
-tags: B07DFDW2W1
+image: https://images-eu.ssl-images-amazon.com/images/I/31EINuK4BpL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DFDW2W1

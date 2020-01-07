@@ -2,6 +2,7 @@
 layout: post
 title: 'B00MS3UDJU - Ofertón en Amazon para Maxi-Cosi CabrioFix Silla de auto  recli'
 date: 2020-01-07 08:37:18
+image: https://images-eu.ssl-images-amazon.com/images/I/41bMFidXJbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

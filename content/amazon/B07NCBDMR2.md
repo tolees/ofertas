@@ -3,7 +3,7 @@ layout: post
 title: 'B07NCBDMR2: Rebaja en Pepe Jeans Hatch Vaqueros  Black Used De en Amazon'
 date: 2019/12/29 20:03:16 +0000
 comments: true
-tags: B07NCBDMR2
+image: https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NCBDMR2

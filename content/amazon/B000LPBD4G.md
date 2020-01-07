@@ -3,7 +3,7 @@ layout: post
 title: 'B000LPBD4G: Rebaja en Trixie 30514 Capa Orleans  S  40 cm  Ref en Amazon'
 date: 2019/12/28 20:11:36 +0000
 comments: true
-tags: B000LPBD4G
+image: https://images-eu.ssl-images-amazon.com/images/I/41vxbHKjsqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B000LPBD4G

@@ -2,6 +2,7 @@
 layout: post
 title: 'B077YBJXFP - Ofertón en Amazon para HIKARO Sudadera con Print Hombre  Negro '
 date: 2020-01-05 07:24:59
+image: https://images-eu.ssl-images-amazon.com/images/I/41HhJQriUAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

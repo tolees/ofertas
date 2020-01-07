@@ -3,7 +3,7 @@ layout: post
 title: 'B07MSJYPPJ: Ahorra en Clarks - Botines de Cuero Hombre  Color '
 date: 2019-10-29 11:03:42
 comments: true
-tags: B07MSJYPPJ
+image: https://images-eu.ssl-images-amazon.com/images/I/31PZG%2BleznL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MSJYPPJ

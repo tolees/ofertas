@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFB8DKB: Ahorra en Funko- Pop Vinyl: Disney: NBX: Sally Pes'
 date: 2019/12/16 07:36:06 +0000
 comments: true
-tags: B07DFB8DKB
+image: https://images-eu.ssl-images-amazon.com/images/I/51y%2BddEiFfL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DFB8DKB

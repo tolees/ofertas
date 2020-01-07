@@ -3,7 +3,7 @@ layout: post
 title: 'B00INT57DA: Rebaja en Bolsa de agua caliente forrada | Mobicli en Amazon'
 date: 2019/12/16 06:57:19 +0000
 comments: true
-tags: B00INT57DA
+image: https://images-eu.ssl-images-amazon.com/images/I/41X9-xAn%2BEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00INT57DA

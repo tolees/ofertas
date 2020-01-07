@@ -3,7 +3,7 @@ layout: post
 title: 'B01MRXPXGA: Ahorra en find. Flared Sleeve Blusa para Mujer  Ne'
 date: 2020-01-02 13:14:10
 comments: true
-tags: B01MRXPXGA
+image: https://images-eu.ssl-images-amazon.com/images/I/515%2By6M52JL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MRXPXGA

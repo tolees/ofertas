@@ -3,7 +3,7 @@ layout: post
 title: 'B074VCNGX7: Rebaja en Fossil Pendiente colgantes Mujer acero i en Amazon'
 date: 2019/12/16 19:32:57 +0000
 comments: true
-tags: B074VCNGX7
+image: ._SL200_
 category: ofertas
 author: ring
 slug: B074VCNGX7

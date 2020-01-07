@@ -3,7 +3,7 @@ layout: post
 title: 'B06XPKL8GS: Ahorra en Nier Automata'
 date: 2019/12/15 15:11:08 +0000
 comments: true
-tags: B06XPKL8GS
+image: https://images-eu.ssl-images-amazon.com/images/I/41mP-vlgB2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XPKL8GS

@@ -3,7 +3,7 @@ layout: post
 title: 'B07FVJRGD8: Rebaja en Willful Smartwatch  Reloj Inteligente An en Amazon'
 date: 2020-01-04 13:07:23
 comments: true
-tags: B07FVJRGD8
+image: https://images-eu.ssl-images-amazon.com/images/I/41n-wdFRreL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FVJRGD8

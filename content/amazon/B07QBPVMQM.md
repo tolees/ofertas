@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QBPVMQM - Ofertón en Amazon para Proyector  WiMiUS 6000 Lúmenes Proyector'
 date: 2019/12/26 10:55:22 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41ks2e29P4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

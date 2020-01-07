@@ -3,7 +3,7 @@ layout: post
 title: 'B01LQ4BLUG: Ahorra en Razer Goliathus - Suave Alfombrilla de R'
 date: 2019/12/18 20:17:11 +0000
 comments: true
-tags: B01LQ4BLUG
+image: https://images-eu.ssl-images-amazon.com/images/I/41PQZ-Vgk0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LQ4BLUG

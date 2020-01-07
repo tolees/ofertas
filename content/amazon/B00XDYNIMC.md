@@ -3,7 +3,7 @@ layout: post
 title: 'B00XDYNIMC: Rebaja en Tommy Hilfiger New Danny Belt Cinturón   en Amazon'
 date: 2019/12/14 20:45:12 +0000
 comments: true
-tags: B00XDYNIMC
+image: https://images-eu.ssl-images-amazon.com/images/I/51NsICOJ1XL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00XDYNIMC

@@ -2,6 +2,7 @@
 layout: post
 title: 'B073JQF5LN - Ofertón en Amazon para find. Pantalones Estilo  Jogger  Hombre '
 date: 2019/12/28 10:11:16 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41RZTkjpFLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

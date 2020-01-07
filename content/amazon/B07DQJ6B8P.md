@@ -3,7 +3,7 @@ layout: post
 title: 'B07DQJ6B8P: Rebaja en TACKLIFE Lijadora Eléctrica 200W  Placa  en Amazon'
 date: 2019/12/24 19:08:25 +0000
 comments: true
-tags: B07DQJ6B8P
+image: https://images-eu.ssl-images-amazon.com/images/I/41-dnwNIssL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DQJ6B8P

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DK51XYV: Ahorra en Geox J Sandal Karly Girl H  Sandalias co'
 date: 2019/12/11 18:37:11 +0000
 comments: true
-tags: B07DK51XYV
+image: https://images-eu.ssl-images-amazon.com/images/I/41DtUPqveIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DK51XYV

@@ -3,7 +3,7 @@ layout: post
 title: 'B07LFZM7MT: Ahorra en Geox U Terence C  Botas Clasicas para Ho'
 date: 2019/12/27 09:27:25 +0000
 comments: true
-tags: B07LFZM7MT
+image: https://images-eu.ssl-images-amazon.com/images/I/41sx3aTjzeL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LFZM7MT

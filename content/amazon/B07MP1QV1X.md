@@ -3,7 +3,7 @@ layout: post
 title: 'B07MP1QV1X: Rebaja en BRIKSMAX Led Beleuchtungsset für James B en Amazon'
 date: 2019/12/23 00:48:03 +0000
 comments: true
-tags: B07MP1QV1X
+image: https://images-eu.ssl-images-amazon.com/images/I/41i3883WyXL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MP1QV1X

@@ -3,7 +3,7 @@ layout: post
 title: 'B01B4X4RUK: Ahorra en Tous Happy Moments 90ml'
 date: 2020-01-04 09:37:04
 comments: true
-tags: B01B4X4RUK
+image: https://images-eu.ssl-images-amazon.com/images/I/51Qlrh-3m-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01B4X4RUK

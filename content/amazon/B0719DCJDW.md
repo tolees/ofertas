@@ -2,6 +2,7 @@
 layout: post
 title: 'B0719DCJDW - Ofertón en Amazon para Funko Sister Location - Ballora  Assorte'
 date: 2019/12/20 16:27:47 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41pAD0TMO1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

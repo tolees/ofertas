@@ -2,6 +2,7 @@
 layout: post
 title: 'B01N4GIVRI - Ofertón en Amazon para find. BAY001013W170205 vaqueros mujer ci'
 date: 2019/12/23 10:28:59 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41HZn4faFrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

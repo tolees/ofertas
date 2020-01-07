@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PCNJNVT - Ofertón en Amazon para Tablet 10 Pulgadas 4G LTE Dual Sim - TOS'
 date: 2020-01-06 18:03:20
+image: https://images-eu.ssl-images-amazon.com/images/I/41Way73ZDhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

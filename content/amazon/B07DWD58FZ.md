@@ -3,7 +3,7 @@ layout: post
 title: 'B07DWD58FZ: Ahorra en AmazonBasics USB A Cable with Lightning '
 date: 2019/12/16 19:49:49 +0000
 comments: true
-tags: B07DWD58FZ
+image: https://images-eu.ssl-images-amazon.com/images/I/41PCx-nmJgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DWD58FZ

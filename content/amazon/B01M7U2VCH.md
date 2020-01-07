@@ -2,6 +2,7 @@
 layout: post
 title: 'B01M7U2VCH - Ofertón en Amazon para Panama Jack Panama 03 Igloo  Botas Milit'
 date: 2019/12/23 20:36:35 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41BgIhqbOsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

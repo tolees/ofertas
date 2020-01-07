@@ -3,7 +3,7 @@ layout: post
 title: 'B013ZR4PZK: Ahorra en Philips Daily Collection HD4825/00 Tosta'
 date: 2020-01-05 16:27:27
 comments: true
-tags: B013ZR4PZK
+image: https://images-eu.ssl-images-amazon.com/images/I/41QQGEMB0GL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B013ZR4PZK

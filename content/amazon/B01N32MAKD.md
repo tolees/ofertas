@@ -3,7 +3,7 @@ layout: post
 title: 'B01N32MAKD: Rebaja en Kappa Talucci Jkt Chaqueta  Unisex infan en Amazon'
 date: 2019/12/13 18:24:32 +0000
 comments: true
-tags: B01N32MAKD
+image: https://images-eu.ssl-images-amazon.com/images/I/41GDQ3HZh%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N32MAKD

@@ -3,7 +3,7 @@ layout: post
 title: 'B06XG69ZTL: Ahorra en find. Camisa de Cuadros para Hombre  Mul'
 date: 2019/12/20 14:33:10 +0000
 comments: true
-tags: B06XG69ZTL
+image: https://images-eu.ssl-images-amazon.com/images/I/51dQeRN7qkL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XG69ZTL

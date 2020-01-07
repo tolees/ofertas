@@ -3,7 +3,7 @@ layout: post
 title: 'B07DKHBK2G: Ahorra en Kipling - Money Power  Carteras Mujer  M'
 date: 2019-12-31 17:02:48
 comments: true
-tags: B07DKHBK2G
+image: https://images-eu.ssl-images-amazon.com/images/I/41CZe3oD1LL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DKHBK2G

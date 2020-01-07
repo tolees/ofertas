@@ -3,7 +3,7 @@ layout: post
 title: 'B00PYAJGT2: Rebaja en Control Peppermint Preservativos - 12 Un en Amazon'
 date: 2019/12/16 14:26:19 +0000
 comments: true
-tags: B00PYAJGT2
+image: https://images-eu.ssl-images-amazon.com/images/I/41i3EQKGLBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00PYAJGT2

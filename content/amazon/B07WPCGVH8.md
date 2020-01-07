@@ -3,7 +3,7 @@ layout: post
 title: 'B07WPCGVH8: Rebaja en Gimbal Estabilizador para Cámaras de Acc en Amazon'
 date: 2019/12/30 14:51:40 +0000
 comments: true
-tags: B07WPCGVH8
+image: https://images-eu.ssl-images-amazon.com/images/I/517oog0ocRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WPCGVH8

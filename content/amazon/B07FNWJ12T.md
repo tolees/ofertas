@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FNWJ12T - Ofertón en Amazon para THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus'
 date: 2019/12/19 22:31:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/514SyurffVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

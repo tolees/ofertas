@@ -3,7 +3,7 @@ layout: post
 title: 'B07FM2GLNQ: Ahorra en Trust Verto - Ratón ergonómico Vertical '
 date: 2019/12/27 13:06:52 +0000
 comments: true
-tags: B07FM2GLNQ
+image: https://images-eu.ssl-images-amazon.com/images/I/31j42k2svUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FM2GLNQ

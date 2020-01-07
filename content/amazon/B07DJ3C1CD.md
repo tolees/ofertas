@@ -3,7 +3,7 @@ layout: post
 title: 'B07DJ3C1CD: Rebaja en Geox U Leitan B  Zapatos de Cordones Der en Amazon'
 date: 2019/12/21 12:57:55 +0000
 comments: true
-tags: B07DJ3C1CD
+image: https://images-eu.ssl-images-amazon.com/images/I/31eh-ZCd9WL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DJ3C1CD

@@ -3,7 +3,7 @@ layout: post
 title: 'B00MFREXP4: Rebaja en Lee Damen Marion-straight Jeanshose   Bl en Amazon'
 date: 2019/12/27 08:10:55 +0000
 comments: true
-tags: B00MFREXP4
+image: https://images-eu.ssl-images-amazon.com/images/I/31kCmDvRF1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00MFREXP4

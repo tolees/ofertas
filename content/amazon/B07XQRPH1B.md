@@ -3,7 +3,7 @@ layout: post
 title: 'B07XQRPH1B: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego St en Amazon'
 date: 2019/12/28 09:17:16 +0000
 comments: true
-tags: B07XQRPH1B
+image: https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XQRPH1B

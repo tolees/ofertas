@@ -3,7 +3,7 @@ layout: post
 title: 'B01N1KUYHK: Rebaja en NIZZIN Eric suéter Azul  Navy  Large en Amazon'
 date: 2019/12/20 16:21:03 +0000
 comments: true
-tags: B01N1KUYHK
+image: https://images-eu.ssl-images-amazon.com/images/I/51AOZABxOxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N1KUYHK

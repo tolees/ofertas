@@ -3,7 +3,7 @@ layout: post
 title: 'B06WVPG5K4: Rebaja en PLAYMOBIL Family Fun 9280 Skihütte  Ab 4 en Amazon'
 date: 2020-01-07 14:38:49
 comments: true
-tags: B06WVPG5K4
+image: https://images-eu.ssl-images-amazon.com/images/I/61snoZyE%2B9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06WVPG5K4

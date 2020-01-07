@@ -3,7 +3,7 @@ layout: post
 title: 'B0792GPXLP: Rebaja en Geox U NORWOLK B  Botas Chukka para Homb en Amazon'
 date: 2020-01-03 23:34:19
 comments: true
-tags: B0792GPXLP
+image: https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0792GPXLP

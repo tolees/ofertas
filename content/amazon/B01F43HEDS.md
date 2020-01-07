@@ -3,7 +3,7 @@ layout: post
 title: 'B01F43HEDS: Ahorra en Energy Sistem Multiroom Tower Wi-Fi - Si'
 date: 2020-01-04 18:12:33
 comments: true
-tags: B01F43HEDS
+image: https://images-eu.ssl-images-amazon.com/images/I/31NiSiGkT2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01F43HEDS

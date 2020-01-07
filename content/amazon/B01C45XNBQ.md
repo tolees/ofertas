@@ -3,7 +3,7 @@ layout: post
 title: 'B01C45XNBQ: Ahorra en DIM Generous Sujetador  Beige  New Skin '
 date: 2020-01-01 14:56:01
 comments: true
-tags: B01C45XNBQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41norz5v4%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01C45XNBQ

@@ -3,7 +3,7 @@ layout: post
 title: 'B077JLR8HN: Ahorra en SOLS - Pantalones Cortos Modelo Janeiro '
 date: 2019/12/20 11:28:18 +0000
 comments: true
-tags: B077JLR8HN
+image: https://images-eu.ssl-images-amazon.com/images/I/418Gw2PIaqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077JLR8HN

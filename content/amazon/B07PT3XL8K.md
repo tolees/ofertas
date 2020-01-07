@@ -3,7 +3,7 @@ layout: post
 title: 'B07PT3XL8K: Ahorra en Muñeco Peluche Unicornio con Manta Bebé '
 date: 2019/12/13 10:08:56 +0000
 comments: true
-tags: B07PT3XL8K
+image: https://images-eu.ssl-images-amazon.com/images/I/31NED6azYqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PT3XL8K

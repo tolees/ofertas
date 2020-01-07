@@ -3,7 +3,7 @@ layout: post
 title: 'B07Y2TFRNB: Ahorra en 2019 Tablet 10 Pulgadas 4G Call IPS/HD  '
 date: 2020-01-01 07:34:38
 comments: true
-tags: B07Y2TFRNB
+image: https://images-eu.ssl-images-amazon.com/images/I/41rBgtxGg2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Y2TFRNB

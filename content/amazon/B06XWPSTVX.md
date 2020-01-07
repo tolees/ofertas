@@ -3,7 +3,7 @@ layout: post
 title: 'B06XWPSTVX: Ahorra en s.Oliver 13708732477-Pantalones Hombre B'
 date: 2019/12/15 13:53:25 +0000
 comments: true
-tags: B06XWPSTVX
+image: https://images-eu.ssl-images-amazon.com/images/I/41y38uHVTbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XWPSTVX

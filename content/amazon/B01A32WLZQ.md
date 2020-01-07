@@ -3,7 +3,7 @@ layout: post
 title: 'B01A32WLZQ: Ahorra en ZENBRE Parlante Bluetooth  Z3 10W Parlan'
 date: 2020-01-05 11:05:35
 comments: true
-tags: B01A32WLZQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41PrdJ-eY9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01A32WLZQ

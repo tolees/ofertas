@@ -3,7 +3,7 @@ layout: post
 title: 'B07PRZCX59: Rebaja en New Balance 373  Zapatillas para Hombre  en Amazon'
 date: 2019/12/31 10:10:38 +0000
 comments: true
-tags: B07PRZCX59
+image: https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PRZCX59

@@ -3,7 +3,7 @@ layout: post
 title: 'B07LF5ZH7L: Ahorra en Levi s Men s Thermore Padded Parka  Blac'
 date: 2020-01-04 10:11:53
 comments: true
-tags: B07LF5ZH7L
+image: https://images-eu.ssl-images-amazon.com/images/I/3155c2PVeAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LF5ZH7L

@@ -3,7 +3,7 @@ layout: post
 title: 'B004X4KVUI: Ahorra en Braun BN0021BKBKG - Reloj analógico de c'
 date: 2019/12/19 14:44:37 +0000
 comments: true
-tags: B004X4KVUI
+image: https://images-eu.ssl-images-amazon.com/images/I/414ZvIDVvvL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B004X4KVUI

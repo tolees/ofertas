@@ -3,7 +3,7 @@ layout: post
 title: 'B07KJZBHG6: Rebaja en BILLABONG Scheme Cargo Pantalones Cortos en Amazon'
 date: 2019/12/20 14:38:39 +0000
 comments: true
-tags: B07KJZBHG6
+image: https://images-eu.ssl-images-amazon.com/images/I/41MiA5cjhwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KJZBHG6

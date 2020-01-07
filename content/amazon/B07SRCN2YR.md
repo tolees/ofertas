@@ -3,7 +3,7 @@ layout: post
 title: 'B07SRCN2YR: Rebaja en adidas EQT Gazelle  Hombre  Azul  Colleg en Amazon'
 date: 2020-01-05 10:27:15
 comments: true
-tags: B07SRCN2YR
+image: https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SRCN2YR

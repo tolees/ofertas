@@ -3,7 +3,7 @@ layout: post
 title: 'B01JRZIN4S: Rebaja en Russell Hobbs Retro - Hervidor de Agua E en Amazon'
 date: 2019/12/18 19:38:23 +0000
 comments: true
-tags: B01JRZIN4S
+image: https://images-eu.ssl-images-amazon.com/images/I/41mc7tM4F6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01JRZIN4S

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00XJLJXDC - Ofertón en Amazon para Bounty Zartherb  1 Packung mit 24 Riegel'
 date: 2019/12/22 21:44:42 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41k%2BRa7lJrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

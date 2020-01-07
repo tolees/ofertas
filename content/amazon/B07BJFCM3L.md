@@ -3,7 +3,7 @@ layout: post
 title: 'B07BJFCM3L: Ahorra en IRIS & LILLY Tanga de Encaje Suave Mujer'
 date: 2019/12/20 00:08:51 +0000
 comments: true
-tags: B07BJFCM3L
+image: https://images-eu.ssl-images-amazon.com/images/I/41KiqzW5EJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BJFCM3L

@@ -3,7 +3,7 @@ layout: post
 title: 'B07XHCNBBS: Rebaja en Overwatch - Legendary Edition  Este jueg en Amazon'
 date: 2019/12/28 16:10:49 +0000
 comments: true
-tags: B07XHCNBBS
+image: https://images-eu.ssl-images-amazon.com/images/I/51vBHm1T6gL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XHCNBBS

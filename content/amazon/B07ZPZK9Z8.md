@@ -2,6 +2,7 @@
 layout: post
 title: 'B07ZPZK9Z8 - Ofertón en Amazon para Masajeador Electrónico 10 Modos Vibració'
 date: 2020-01-05 08:55:53
+image: https://images-eu.ssl-images-amazon.com/images/I/41Hhb-lBKmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

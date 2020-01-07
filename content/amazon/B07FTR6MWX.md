@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FTR6MWX - Ofertón en Amazon para Lee Elly Vaqueros  Azul  Light Rugged GE'
 date: 2019/12/23 18:25:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

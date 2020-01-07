@@ -3,7 +3,7 @@ layout: post
 title: 'B07WSVP5BK: Ahorra en Bluetooth Kopfhörer  Iporachx Bluetooth '
 date: 2019/12/17 15:23:45 +0000
 comments: true
-tags: B07WSVP5BK
+image: https://images-eu.ssl-images-amazon.com/images/I/51rDGekNjgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WSVP5BK

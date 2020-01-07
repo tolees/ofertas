@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9NVP5M: Rebaja en Lacoste Courtline 319 1 Us Cfa  Zapatill en Amazon'
 date: 2019/12/24 10:01:29 +0000
 comments: true
-tags: B07L9NVP5M
+image: https://images-eu.ssl-images-amazon.com/images/I/316SUjgRlQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07L9NVP5M

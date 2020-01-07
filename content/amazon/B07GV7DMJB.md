@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GV7DMJB - Ofertón en Amazon para Digital TV  Portable TV with Freeview DV'
 date: 2020-01-01 08:03:10
+image: https://images-eu.ssl-images-amazon.com/images/I/51n7F9nAoJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

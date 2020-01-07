@@ -3,7 +3,7 @@ layout: post
 title: 'B005UOPX5I: Rebaja en Berghoff Set de Pasta 20 Piezas en Amazon'
 date: 2019/12/14 21:22:58 +0000
 comments: true
-tags: B005UOPX5I
+image: https://images-eu.ssl-images-amazon.com/images/I/31t4JwzuVqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B005UOPX5I

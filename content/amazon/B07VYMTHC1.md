@@ -3,7 +3,7 @@ layout: post
 title: 'B07VYMTHC1: Rebaja en Razer Kitty Gaming Bundle con Basilisk E en Amazon'
 date: 2019/12/11 17:48:13 +0000
 comments: true
-tags: B07VYMTHC1
+image: https://images-eu.ssl-images-amazon.com/images/I/41TuUk12NQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VYMTHC1

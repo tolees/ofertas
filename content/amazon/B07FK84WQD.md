@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FK84WQD - Ofertón en Amazon para Giradiscos dl Record Player de 3 Velocid'
 date: 2019/12/13 12:50:11 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51kbtV74LHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

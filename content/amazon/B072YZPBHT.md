@@ -3,7 +3,7 @@ layout: post
 title: 'B072YZPBHT: Rebaja en Funko 14424  POP!  Stranger Things Eleve en Amazon'
 date: 2019/12/16 18:10:22 +0000
 comments: true
-tags: B072YZPBHT
+image: https://images-eu.ssl-images-amazon.com/images/I/41Gm6F7D4BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072YZPBHT

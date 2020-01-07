@@ -3,7 +3,7 @@ layout: post
 title: 'B017RNUW0U: Rebaja en LEABAGS Hong Kong Bolso de Hombro de aut en Amazon'
 date: 2019/12/19 22:20:26 +0000
 comments: true
-tags: B017RNUW0U
+image: https://images-eu.ssl-images-amazon.com/images/I/51doNLHm7tL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B017RNUW0U

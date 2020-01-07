@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JMCC3CC - Ofertón en Amazon para PLAYMOBIL-Clase Srta. Flores Juguete  Mu'
 date: 2019/12/15 18:22:56 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51fn08X2VoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

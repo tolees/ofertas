@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MX4YJ7F - Ofertón en Amazon para Fivejoy Juguetes de Construcción  Bloque'
 date: 2020-01-04 12:13:51
+image: https://images-eu.ssl-images-amazon.com/images/I/51VTG6p15hL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

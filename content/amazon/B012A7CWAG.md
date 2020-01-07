@@ -3,7 +3,7 @@ layout: post
 title: 'B012A7CWAG: Ahorra en DKNY Intimates Modern Lights-Mesh Litewe'
 date: 2019/12/20 08:27:48 +0000
 comments: true
-tags: B012A7CWAG
+image: https://images-eu.ssl-images-amazon.com/images/I/41WnsGT7twL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B012A7CWAG

@@ -3,7 +3,7 @@ layout: post
 title: 'B07VHPWTNX: Rebaja en Women s Casual Loose Sleeveless Sundress en Amazon'
 date: 2020-01-06 06:04:33
 comments: true
-tags: B07VHPWTNX
+image: https://images-eu.ssl-images-amazon.com/images/I/41UnhfXGF7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VHPWTNX

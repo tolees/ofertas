@@ -2,6 +2,7 @@
 layout: post
 title: 'B07P2HZT6W - Ofertón en Amazon para Reebok Royal Glide LX  Zapatillas de Tra'
 date: 2020-01-02 22:45:36
+image: https://images-eu.ssl-images-amazon.com/images/I/31pqrby7JsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FPX7QCV - Ofertón en Amazon para Cepillo de dientes eléctrico de plástico'
 date: 2020-01-02 16:32:23
+image: https://images-eu.ssl-images-amazon.com/images/I/4119G1Dyx7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B017DAWEG2 - Ofertón en Amazon para BERING Reloj Analógico para Unisex Adult'
 date: 2019/12/23 13:04:17 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41D9WqvGHcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

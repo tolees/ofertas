@@ -3,7 +3,7 @@ layout: post
 title: 'B07BH2QSPV: Ahorra en Fútbol Trainer  Ayuda al Entrenamiento p'
 date: 2019/12/30 11:42:41 +0000
 comments: true
-tags: B07BH2QSPV
+image: https://images-eu.ssl-images-amazon.com/images/I/51AZN8w3kCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BH2QSPV

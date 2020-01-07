@@ -3,7 +3,7 @@ layout: post
 title: 'B07TYCX12D: Rebaja en Q-Man Ingenious Toys / WWII military sta en Amazon'
 date: 2019/12/30 09:30:04 +0000
 comments: true
-tags: B07TYCX12D
+image: https://images-eu.ssl-images-amazon.com/images/I/414yr0JW7xL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TYCX12D

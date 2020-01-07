@@ -3,7 +3,7 @@ layout: post
 title: 'B07RJS98ZP: Rebaja en Rodillo de jade  Incluye tres cabezas re en Amazon'
 date: 2020-01-01 13:03:03
 comments: true
-tags: B07RJS98ZP
+image: https://images-eu.ssl-images-amazon.com/images/I/41cl%2B5A8tbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RJS98ZP

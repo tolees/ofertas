@@ -3,7 +3,7 @@ layout: post
 title: 'B01M2VG0FM: Rebaja en DC Heathrow M Zapatillas  Hombre  Negro  en Amazon'
 date: 2020-01-03 18:15:45
 comments: true
-tags: B01M2VG0FM
+image: https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01M2VG0FM

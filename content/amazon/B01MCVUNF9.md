@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MCVUNF9 - Ofertón en Amazon para Neutrogena Limpiador Hydro Boost  - 200 '
 date: 2019/12/19 08:51:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31M-ptp6NVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

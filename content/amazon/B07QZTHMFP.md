@@ -3,7 +3,7 @@ layout: post
 title: 'B07QZTHMFP: Rebaja en Under Armour Metallic Woven FZ Parte Sup en Amazon'
 date: 2019/12/17 17:15:19 +0000
 comments: true
-tags: B07QZTHMFP
+image: https://images-eu.ssl-images-amazon.com/images/I/41a%2B3Y4jrTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QZTHMFP

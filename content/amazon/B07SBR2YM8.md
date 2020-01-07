@@ -3,7 +3,7 @@ layout: post
 title: 'B07SBR2YM8: Rebaja en Airpods Case Cover Compatible with AirPo en Amazon'
 date: 2019/12/21 17:41:43 +0000
 comments: true
-tags: B07SBR2YM8
+image: https://images-eu.ssl-images-amazon.com/images/I/31o2Rxt%2BRLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SBR2YM8

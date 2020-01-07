@@ -3,7 +3,7 @@ layout: post
 title: 'B07YDKWG4Z: Ahorra en Calentador de Café  Calentador de Bebida'
 date: 2020-01-01 10:11:46
 comments: true
-tags: B07YDKWG4Z
+image: https://images-eu.ssl-images-amazon.com/images/I/31S-XGu2NqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07YDKWG4Z

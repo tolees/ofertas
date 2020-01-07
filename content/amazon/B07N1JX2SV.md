@@ -3,7 +3,7 @@ layout: post
 title: 'B07N1JX2SV: Rebaja en Clarks Un Maui Lace  Zapatillas para Muj en Amazon'
 date: 2020-01-06 19:32:33
 comments: true
-tags: B07N1JX2SV
+image: https://images-eu.ssl-images-amazon.com/images/I/41mpuvE48QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N1JX2SV

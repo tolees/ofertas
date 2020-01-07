@@ -3,7 +3,7 @@ layout: post
 title: 'B07B4FWS3D: Ahorra en Trust Gaming GXT 664 Unca - Barra de Son'
 date: 2020-01-02 13:52:44
 comments: true
-tags: B07B4FWS3D
+image: https://images-eu.ssl-images-amazon.com/images/I/41GeZ8zrHqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B4FWS3D

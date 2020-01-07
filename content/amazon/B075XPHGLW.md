@@ -2,6 +2,7 @@
 layout: post
 title: 'B075XPHGLW - Ofertón en Amazon para Think Gizmos Build Your Own Robot Toys f'
 date: 2020-01-05 06:20:04
+image: https://images-eu.ssl-images-amazon.com/images/I/611gAO%2BZWKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

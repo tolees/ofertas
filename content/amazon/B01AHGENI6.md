@@ -2,6 +2,7 @@
 layout: post
 title: 'B01AHGENI6 - Ofertón en Amazon para Citizen Reloj Analógico para Unisex de C'
 date: 2020-01-01 18:33:02
+image: https://images-eu.ssl-images-amazon.com/images/I/41omFE4X3NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

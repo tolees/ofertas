@@ -3,7 +3,7 @@ layout: post
 title: 'B07NLJ2GMW: Ahorra en Versace Jeans CouturePortafoglioMujerCar'
 date: 2019/12/14 12:26:35 +0000
 comments: true
-tags: B07NLJ2GMW
+image: https://images-eu.ssl-images-amazon.com/images/I/41Wpg5EAhFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NLJ2GMW

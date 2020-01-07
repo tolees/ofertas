@@ -3,7 +3,7 @@ layout: post
 title: 'B07FPF2KY4: Rebaja en Alitoo Auriculares Inalámbricos Bluetoot en Amazon'
 date: 2019/12/17 00:16:21 +0000
 comments: true
-tags: B07FPF2KY4
+image: https://images-eu.ssl-images-amazon.com/images/I/41Tl7%2BBpYvL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FPF2KY4

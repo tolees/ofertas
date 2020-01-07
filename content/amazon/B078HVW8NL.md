@@ -2,6 +2,7 @@
 layout: post
 title: 'B078HVW8NL - Ofertón en Amazon para Braun Silk-épil 5 5/890 Depiladora Mujer'
 date: 2020-01-06 13:02:52
+image: https://images-eu.ssl-images-amazon.com/images/I/417p-tPFIDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

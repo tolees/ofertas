@@ -3,7 +3,7 @@ layout: post
 title: 'B07RQVKJSL: Ahorra en LEGO City Satellite Polybag Set 30365  B'
 date: 2020-01-05 22:14:10
 comments: true
-tags: B07RQVKJSL
+image: https://images-eu.ssl-images-amazon.com/images/I/514EssHpbRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RQVKJSL

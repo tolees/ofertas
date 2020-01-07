@@ -3,7 +3,7 @@ layout: post
 title: 'B01MCZGIM8: Rebaja en Pepe Jeans Hatch  Vaqueros Slim para Hom en Amazon'
 date: 2019/12/29 15:39:14 +0000
 comments: true
-tags: B01MCZGIM8
+image: https://images-eu.ssl-images-amazon.com/images/I/41gcCC50KiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MCZGIM8

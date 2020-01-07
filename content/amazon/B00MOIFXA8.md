@@ -2,6 +2,7 @@
 layout: post
 title: 'B00MOIFXA8 - Ofertón en Amazon para Dremel 660 Juego de Fresas - Kit de Acce'
 date: 2019/12/21 14:32:35 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41heC-%2BBZfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

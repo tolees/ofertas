@@ -3,7 +3,7 @@ layout: post
 title: 'B074PMGMHL: Rebaja en Nuevo SADES SA810 Multi-Platform Auricul en Amazon'
 date: 2019/12/25 19:15:36 +0000
 comments: true
-tags: B074PMGMHL
+image: https://images-eu.ssl-images-amazon.com/images/I/41JIV3l4i3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B074PMGMHL

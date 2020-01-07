@@ -3,7 +3,7 @@ layout: post
 title: 'B071CMPHXB: Rebaja en Happers Puff Pelota Polipiel Indoor Turq en Amazon'
 date: 2019/12/13 19:08:52 +0000
 comments: true
-tags: B071CMPHXB
+image: https://images-eu.ssl-images-amazon.com/images/I/31lOtw2kvzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B071CMPHXB

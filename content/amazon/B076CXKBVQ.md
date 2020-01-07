@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B076CXKBVQ - Ofertón en Amazon para Tommy Hilfiger Men s Core Stretch Slim O'
+title: 'B076CXKBVQ: Rebaja en Tommy Hilfiger Men s Core Stretch Slim O en Amazon'
 date: 2019/12/13 08:53:29 +0000
 comments: true
+image: https://images-eu.ssl-images-amazon.com/images/I/31Z97UOqUDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B076CXKBVQ
 description:
 ---
 
-Tienes [Tommy Hilfiger Men s Core Stretch Slim Oxford Casual  Blue  Shirt Blue 474   Large](https://www.amazon.com/dp/B076CXKBVQ/?tag=redken08-20) a precio de oferta de 36.21 GBP (original: 85 GBP) en el siguiente enlace!
+Está [Tommy Hilfiger Men s Core Stretch Slim Oxford Casual  Blue  Shirt Blue 474   Large](https://www.amazon.com/dp/B076CXKBVQ/?tag=redken08-20) por 36.21 GBP (original: 85 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Z97UOqUDL._SL200_.jpg)](https://www.amazon.com/dp/B076CXKBVQ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B076CXKBVQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076CXKBVQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

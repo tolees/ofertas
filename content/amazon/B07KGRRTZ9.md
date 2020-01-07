@@ -3,7 +3,7 @@ layout: post
 title: 'B07KGRRTZ9: Ahorra en Safety 1st CALIDOO  Warm Gray  - Moisés '
 date: 2019/12/22 10:36:01 +0000
 comments: true
-tags: B07KGRRTZ9
+image: https://images-eu.ssl-images-amazon.com/images/I/41i-R0JMOeL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KGRRTZ9

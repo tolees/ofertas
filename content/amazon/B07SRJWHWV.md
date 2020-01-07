@@ -2,6 +2,7 @@
 layout: post
 title: 'B07SRJWHWV - Ofertón en Amazon para adidas X 19.3 FG J  Zapatillas de Fútbol'
 date: 2019/12/22 12:37:31 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41rItz3Vd6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01MSEYUIC: Rebaja en Philips Avent SCF169/25 - Set de 2 chupe en Amazon'
 date: 2019/12/30 19:19:22 +0000
 comments: true
-tags: B01MSEYUIC
+image: https://images-eu.ssl-images-amazon.com/images/I/413IYXCkufL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MSEYUIC

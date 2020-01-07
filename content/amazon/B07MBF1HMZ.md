@@ -3,7 +3,7 @@ layout: post
 title: 'B07MBF1HMZ: Rebaja en INTEY Bandas Elásticas  13 PCS Látex Ban en Amazon'
 date: 2019/12/27 12:31:20 +0000
 comments: true
-tags: B07MBF1HMZ
+image: https://images-eu.ssl-images-amazon.com/images/I/511Krt33a-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MBF1HMZ

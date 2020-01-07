@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CKQHCBL - Ofertón en Amazon para ENACFIRE E18 Bluetooth 5.0 Wireless Head'
 date: 2019/12/30 08:35:36 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41HZO2aQvIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

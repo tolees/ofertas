@@ -3,7 +3,7 @@ layout: post
 title: 'B00SUNGRF6: Rebaja en Shunga Vela De Masaje Verde Exótico - 17 en Amazon'
 date: 2019/12/20 05:39:25 +0000
 comments: true
-tags: B00SUNGRF6
+image: https://images-eu.ssl-images-amazon.com/images/I/41y4id%2BtrML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00SUNGRF6

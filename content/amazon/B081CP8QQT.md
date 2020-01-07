@@ -3,7 +3,7 @@ layout: post
 title: 'B081CP8QQT: Rebaja en Geographical Norway Parka Hombre Boomera en Amazon'
 date: 2019/12/27 10:19:25 +0000
 comments: true
-tags: B081CP8QQT
+image: https://images-eu.ssl-images-amazon.com/images/I/415P5OVNHyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B081CP8QQT

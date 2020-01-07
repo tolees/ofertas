@@ -3,7 +3,7 @@ layout: post
 title: 'B077V4TPBD: Ahorra en Kipling Multiple Riñonera de Marcha  25 '
 date: 2019/12/17 10:32:19 +0000
 comments: true
-tags: B077V4TPBD
+image: https://images-eu.ssl-images-amazon.com/images/I/41a6k9Tzn3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077V4TPBD

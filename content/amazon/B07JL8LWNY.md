@@ -3,7 +3,7 @@ layout: post
 title: 'B07JL8LWNY: Ahorra en dreamlock vehículo articulado retrofrict'
 date: 2019/12/18 17:05:16 +0000
 comments: true
-tags: B07JL8LWNY
+image: https://images-eu.ssl-images-amazon.com/images/I/51j5p6cDnjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JL8LWNY

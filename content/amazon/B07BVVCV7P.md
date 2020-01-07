@@ -3,7 +3,7 @@ layout: post
 title: 'B07BVVCV7P: Ahorra en 3D Lámpara de Escritorio Win-Y LED 7 del'
 date: 2020-01-04 14:50:36
 comments: true
-tags: B07BVVCV7P
+image: https://images-eu.ssl-images-amazon.com/images/I/51rB7Gu6OKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BVVCV7P

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GTJ3YS8 - Ofertón en Amazon para Zater - Pantalón - para Hombre Dorado Ta'
 date: 2019/12/17 00:09:29 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41ztl2WuuDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B073RPGCJZ - Ofertón en Amazon para Helly Hansen Logo Hoodie Sudadera con Ca'
 date: 2019/12/21 11:54:00 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/419Qc2X4ofL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

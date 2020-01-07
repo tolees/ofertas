@@ -3,7 +3,7 @@ layout: post
 title: 'B07P6FJ3ZG: Ahorra en PLAYMOBIL City Life 70190 Großes Kranken'
 date: 2020-01-05 22:38:17
 comments: true
-tags: B07P6FJ3ZG
+image: https://images-eu.ssl-images-amazon.com/images/I/61nTlu5hlSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07P6FJ3ZG

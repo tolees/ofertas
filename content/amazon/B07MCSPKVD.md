@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCSPKVD: Ahorra en Napapijri Rainforest W PKT 2 Chaqueta  B'
 date: 2019/12/29 09:08:22 +0000
 comments: true
-tags: B07MCSPKVD
+image: https://images-eu.ssl-images-amazon.com/images/I/41sFsKx203L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MCSPKVD

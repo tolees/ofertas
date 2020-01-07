@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GN5PZ7G - Ofertón en Amazon para Collar Antiladridos Recargable para Perr'
 date: 2019/12/17 09:53:27 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51UJBjBZPRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

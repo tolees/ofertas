@@ -3,7 +3,7 @@ layout: post
 title: 'B07JBYTPXQ: Rebaja en Lee Extreme Motion Pantalones  Beige  Co en Amazon'
 date: 2019/12/17 14:11:48 +0000
 comments: true
-tags: B07JBYTPXQ
+image: https://images-eu.ssl-images-amazon.com/images/I/31ktMlIIo1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JBYTPXQ

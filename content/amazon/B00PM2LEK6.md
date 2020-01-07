@@ -2,6 +2,7 @@
 layout: post
 title: 'B00PM2LEK6 - Ofertón en Amazon para Unique Party 72026 - Disney Frozen Door '
 date: 2019/12/31 06:05:24 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51u-m%2BJHR7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

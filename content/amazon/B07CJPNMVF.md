@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CJPNMVF - Ofertón en Amazon para Skagen Reloj Analógico para Mujer de Cua'
 date: 2019/12/17 22:37:21 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41wKuLb0AKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

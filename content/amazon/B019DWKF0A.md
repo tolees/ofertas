@@ -2,6 +2,7 @@
 layout: post
 title: 'B019DWKF0A - Ofertón en Amazon para Russell Hobbs Cook@Home - Olla de Cocció'
 date: 2019/12/27 19:56:33 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41VVOOlkTsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

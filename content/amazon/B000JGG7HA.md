@@ -2,6 +2,7 @@
 layout: post
 title: 'B000JGG7HA - Ofertón en Amazon para HP Q7553X - Cartucho de tóner'
 date: 2019/12/23 15:17:13 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

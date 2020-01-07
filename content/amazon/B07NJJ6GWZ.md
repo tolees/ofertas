@@ -3,7 +3,7 @@ layout: post
 title: 'B07NJJ6GWZ: Rebaja en Lower East LE105 T-Shirt  Forged Iron  L en Amazon'
 date: 2019/12/22 10:08:59 +0000
 comments: true
-tags: B07NJJ6GWZ
+image: https://images-eu.ssl-images-amazon.com/images/I/313Sf337PVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NJJ6GWZ

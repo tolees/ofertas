@@ -3,7 +3,7 @@ layout: post
 title: 'B00LOD1NPS: Rebaja en The North Face Evolution II Triclimate C en Amazon'
 date: 2019/12/15 11:13:57 +0000
 comments: true
-tags: B00LOD1NPS
+image: https://images-eu.ssl-images-amazon.com/images/I/41gsSKDZwHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00LOD1NPS

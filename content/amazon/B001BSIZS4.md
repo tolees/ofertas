@@ -3,7 +3,7 @@ layout: post
 title: 'B001BSIZS4: Rebaja en Tous Touch 100ml en Amazon'
 date: 2019-12-31 19:01:43
 comments: true
-tags: B001BSIZS4
+image: https://images-eu.ssl-images-amazon.com/images/I/414KXaqH8TL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B001BSIZS4

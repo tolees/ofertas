@@ -3,7 +3,7 @@ layout: post
 title: 'B0028FCYUE: Rebaja en Trixie 44567 Poste Rascador Isaba  62 cm en Amazon'
 date: 2019/12/18 20:23:43 +0000
 comments: true
-tags: B0028FCYUE
+image: https://images-eu.ssl-images-amazon.com/images/I/51n0X0d9VpL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0028FCYUE

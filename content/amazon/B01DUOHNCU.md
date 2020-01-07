@@ -2,6 +2,7 @@
 layout: post
 title: 'B01DUOHNCU - Ofertón en Amazon para NK NK-AC3061 4K  Cámara Deportiva Subacu'
 date: 2020-01-01 12:49:41
+image: https://images-eu.ssl-images-amazon.com/images/I/5132dvEhAML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

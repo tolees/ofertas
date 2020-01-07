@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VIDY1GC - Ofertón en Amazon para VAHDAM  Juego De Regalo De Té Surtido - '
 date: 2019/12/21 10:38:39 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41W-lGoNYsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

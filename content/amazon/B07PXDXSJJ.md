@@ -3,7 +3,7 @@ layout: post
 title: 'B07PXDXSJJ: Rebaja en Auriculares KidRox Tiger-Ear para niños  en Amazon'
 date: 2019/12/13 15:49:32 +0000
 comments: true
-tags: B07PXDXSJJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41FJw7Iqv9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PXDXSJJ

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QZ1ZXP6 - Ofertón en Amazon para Lámpara Antimosquitos  Repelente Mosquit'
 date: 2019/12/27 09:50:18 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41PVfK9qHgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

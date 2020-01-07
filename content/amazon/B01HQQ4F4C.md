@@ -3,7 +3,7 @@ layout: post
 title: 'B01HQQ4F4C: Ahorra en The North Face Chaqueta Dryzzle  Hombre '
 date: 2019/12/21 13:57:05 +0000
 comments: true
-tags: B01HQQ4F4C
+image: https://images-eu.ssl-images-amazon.com/images/I/31oj%2BMiyzsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01HQQ4F4C

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JQM2V9Y - Ofertón en Amazon para Under Armour Men s Storm Gaiter del Cuel'
 date: 2019/12/16 08:46:11 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51UDhltvR%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

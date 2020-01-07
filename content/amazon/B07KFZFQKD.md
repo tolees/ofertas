@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFZFQKD: Rebaja en PUMA Future 4.3 Netfit FG/AG Jr  Botas d en Amazon'
 date: 2020-01-05 17:04:35
 comments: true
-tags: B07KFZFQKD
+image: https://images-eu.ssl-images-amazon.com/images/I/41QqHRatUsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KFZFQKD

@@ -3,7 +3,7 @@ layout: post
 title: 'B07VSNJKYR: Rebaja en Krups Piccolo KP1A08 - Cafetera cápsulas en Amazon'
 date: 2019/12/13 16:20:17 +0000
 comments: true
-tags: B07VSNJKYR
+image: https://images-eu.ssl-images-amazon.com/images/I/31VErHKcrIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VSNJKYR

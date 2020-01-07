@@ -2,6 +2,7 @@
 layout: post
 title: 'B00YAGNL9M - Ofertón en Amazon para Logitech K400 Plus - Teclado inalámbrico'
 date: 2019/12/23 14:56:01 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31jfi5sLCoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DWTZ48H: Ahorra en OTHA Proyector Portátil  Mini Proyector '
 date: 2019/12/20 03:14:04 +0000
 comments: true
-tags: B07DWTZ48H
+image: https://images-eu.ssl-images-amazon.com/images/I/41vDj4hsxML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DWTZ48H

@@ -3,7 +3,7 @@ layout: post
 title: 'B07D2KTM8V: Ahorra en Levi s 510 Skinny Fit  Vaqueros para Hom'
 date: 2019/12/11 15:58:05 +0000
 comments: true
-tags: B07D2KTM8V
+image: https://images-eu.ssl-images-amazon.com/images/I/41JnSFBS1%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07D2KTM8V

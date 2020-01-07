@@ -3,7 +3,7 @@ layout: post
 title: 'B01GE15QAW: Rebaja en Goliath - Man-Tibu-Las  juego de mesa  G en Amazon'
 date: 2020-01-02 09:55:52
 comments: true
-tags: B01GE15QAW
+image: https://images-eu.ssl-images-amazon.com/images/I/51sc%2BbpX0NL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01GE15QAW

@@ -3,7 +3,7 @@ layout: post
 title: 'B0787XDNTW: Ahorra en Fossil Reloj Analogico para Mujer de Cua'
 date: 2019/12/22 14:35:29 +0000
 comments: true
-tags: B0787XDNTW
+image: https://images-eu.ssl-images-amazon.com/images/I/413MdE1enmL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0787XDNTW

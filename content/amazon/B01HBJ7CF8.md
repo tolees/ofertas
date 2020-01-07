@@ -3,7 +3,7 @@ layout: post
 title: 'B01HBJ7CF8: Rebaja en Reloj analógico para hombre Tommy Hilfig en Amazon'
 date: 2019/12/15 06:48:36 +0000
 comments: true
-tags: B01HBJ7CF8
+image: https://images-eu.ssl-images-amazon.com/images/I/41-OjSN7WGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01HBJ7CF8

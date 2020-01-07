@@ -2,6 +2,7 @@
 layout: post
 title: 'B01KBZK7NS - Ofertón en Amazon para Senston Anti Slip Sobregrip Racket Overg'
 date: 2019/12/23 17:09:03 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/411hi1UJPBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

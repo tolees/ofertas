@@ -3,7 +3,7 @@ layout: post
 title: 'B081Z6KNCK: Rebaja en Disfraz Elsa Frozen Niñas con Capa Princ en Amazon'
 date: 2020-01-06 22:24:05
 comments: true
-tags: B081Z6KNCK
+image: https://images-eu.ssl-images-amazon.com/images/I/5195nOhoNyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B081Z6KNCK

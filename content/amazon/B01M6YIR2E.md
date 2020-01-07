@@ -3,7 +3,7 @@ layout: post
 title: 'B01M6YIR2E: Rebaja en Red Dead Redemption 2  Xbox One  en Amazon'
 date: 2019/12/22 19:15:06 +0000
 comments: true
-tags: B01M6YIR2E
+image: None._SL200_
 category: ofertas
 author: ring
 slug: B01M6YIR2E

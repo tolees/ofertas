@@ -3,7 +3,7 @@ layout: post
 title: 'B07LB9CKV6: Rebaja en Lenovo  Portátil Táctil Convertible de 1 en Amazon'
 date: 2020-01-06 14:42:43
 comments: true
-tags: B07LB9CKV6
+image: https://images-eu.ssl-images-amazon.com/images/I/31acB1ydXjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LB9CKV6

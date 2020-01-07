@@ -3,7 +3,7 @@ layout: post
 title: 'B07WYDHQ7Z: Ahorra en Omasi Gafas de esquí  Máscara Gafas Esqu'
 date: 2019/12/11 04:16:06 +0000
 comments: true
-tags: B07WYDHQ7Z
+image: https://images-eu.ssl-images-amazon.com/images/I/516J5IL%2B%2BeL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WYDHQ7Z

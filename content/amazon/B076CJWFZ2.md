@@ -2,6 +2,7 @@
 layout: post
 title: 'B076CJWFZ2 - Ofertón en Amazon para Caja de Regalo Reloj Hombre Negro - Lámp'
 date: 2019/12/19 09:49:21 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/413WekE2iRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

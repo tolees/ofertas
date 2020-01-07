@@ -3,7 +3,7 @@ layout: post
 title: 'B00IINTKDE: Rebaja en Lancaster Sun Beauty Velvet Tanning Milk en Amazon'
 date: 2020-01-04 01:49:58
 comments: true
-tags: B00IINTKDE
+image: https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00IINTKDE

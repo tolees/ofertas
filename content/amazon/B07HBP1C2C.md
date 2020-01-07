@@ -3,7 +3,7 @@ layout: post
 title: 'B07HBP1C2C: Rebaja en Apple iPhone XS  64GB  - Silber en Amazon'
 date: 2019/12/18 14:49:16 +0000
 comments: true
-tags: B07HBP1C2C
+image: https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HBP1C2C

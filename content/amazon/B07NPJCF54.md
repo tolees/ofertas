@@ -3,7 +3,7 @@ layout: post
 title: 'B07NPJCF54: Ahorra en Skechers Dynamight 2.0-fallford  Zapatil'
 date: 2019-12-31 17:13:49
 comments: true
-tags: B07NPJCF54
+image: https://images-eu.ssl-images-amazon.com/images/I/41y8NY3-aHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NPJCF54

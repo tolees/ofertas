@@ -3,7 +3,7 @@ layout: post
 title: 'B07H2B4XJJ: Rebaja en X-TIGER Mujer Ropa Interior de Bicicleta en Amazon'
 date: 2019/12/19 00:33:38 +0000
 comments: true
-tags: B07H2B4XJJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41FvsisKsGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07H2B4XJJ

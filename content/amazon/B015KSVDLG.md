@@ -3,7 +3,7 @@ layout: post
 title: 'B015KSVDLG: Rebaja en NNJXD Vestido de Fiesta de Princesa con  en Amazon'
 date: 2020-01-06 22:24:15
 comments: true
-tags: B015KSVDLG
+image: https://images-eu.ssl-images-amazon.com/images/I/5118%2BEVh6sL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B015KSVDLG

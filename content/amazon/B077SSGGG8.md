@@ -3,7 +3,7 @@ layout: post
 title: 'B077SSGGG8: Rebaja en Adaptador de Viaje  Cargador de Pared co en Amazon'
 date: 2020-01-03 19:17:19
 comments: true
-tags: B077SSGGG8
+image: https://images-eu.ssl-images-amazon.com/images/I/51xlZKUq2HL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077SSGGG8

@@ -3,7 +3,7 @@ layout: post
 title: 'B07PFXWLZ9: Rebaja en BLEND 20708531 Camisa Casual  Azul  Dark en Amazon'
 date: 2020-01-02 16:03:45
 comments: true
-tags: B07PFXWLZ9
+image: https://images-eu.ssl-images-amazon.com/images/I/41OT42drluL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PFXWLZ9

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DWFXRQH: Rebaja en AmazonBasics - Lightning-auf-USB-A-Kabel en Amazon'
 date: 2019/12/26 12:42:50 +0000
 comments: true
-tags: B07DWFXRQH
+image: https://images-eu.ssl-images-amazon.com/images/I/31fSxVfG4KL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DWFXRQH

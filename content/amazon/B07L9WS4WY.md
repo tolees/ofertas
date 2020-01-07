@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9WS4WY: Rebaja en Lacoste Chaymon 319 1 CMA  Zapatillas pa en Amazon'
 date: 2019/12/18 09:56:57 +0000
 comments: true
-tags: B07L9WS4WY
+image: https://images-eu.ssl-images-amazon.com/images/I/31kS%2BUs4M3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07L9WS4WY

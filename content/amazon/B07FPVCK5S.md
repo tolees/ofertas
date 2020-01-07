@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FPVCK5S - Ofertón en Amazon para PUMA Axis  Zapatillas Unisex Adulto  Bla'
 date: 2019/12/21 13:56:20 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CYRZ4WP - Ofertón en Amazon para Skechers Flex Appeal 3.0-Endless Glamo  '
 date: 2019/12/22 15:42:29 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41321GUFtvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

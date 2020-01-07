@@ -3,7 +3,7 @@ layout: post
 title: 'B01M25TDER: Ahorra en Timberland Bradstreet Leather Sensorflex'
 date: 2019/12/18 13:26:17 +0000
 comments: true
-tags: B01M25TDER
+image: https://images-eu.ssl-images-amazon.com/images/I/41cIpRtfOsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01M25TDER

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00BUSDVBQ - Ofertón en Amazon para TP-Link Archer C7 - AC1750 Router Gigabi'
 date: 2020-01-06 19:17:30
+image: https://images-eu.ssl-images-amazon.com/images/I/415vAIn9uEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

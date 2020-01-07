@@ -2,6 +2,7 @@
 layout: post
 title: 'B012GQVTIC - Ofertón en Amazon para Capital Sports Adjustar Banco de entrena'
 date: 2020-01-06 22:15:55
+image: https://images-eu.ssl-images-amazon.com/images/I/41LBfmXubTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

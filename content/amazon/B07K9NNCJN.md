@@ -2,6 +2,7 @@
 layout: post
 title: 'B07K9NNCJN - Ofertón en Amazon para Reloj - Guanqin - para - GJ16132'
 date: 2020-01-04 16:48:54
+image: https://images-eu.ssl-images-amazon.com/images/I/5100A8WIbjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

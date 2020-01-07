@@ -3,7 +3,7 @@ layout: post
 title: 'B07Z5QCGWC: Ahorra en LEADSTAR Bolsa de Pañales  3 PCS Wetbag '
 date: 2019/12/19 07:49:36 +0000
 comments: true
-tags: B07Z5QCGWC
+image: https://images-eu.ssl-images-amazon.com/images/I/61CIi5wd6GL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Z5QCGWC

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DXVJYSX: Ahorra en Under Armour UA GL Foundation SS T Camis'
 date: 2019/12/16 10:12:24 +0000
 comments: true
-tags: B07DXVJYSX
+image: https://images-eu.ssl-images-amazon.com/images/I/417Fks8MgBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DXVJYSX

@@ -3,7 +3,7 @@ layout: post
 title: 'B01DOZ5UJS: Rebaja en Burberry  Agua de colonia para hombres - en Amazon'
 date: 2019/12/25 05:54:23 +0000
 comments: true
-tags: B01DOZ5UJS
+image: https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01DOZ5UJS

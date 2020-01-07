@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QC9RY4J - Ofertón en Amazon para Reebok FLEXAGON Force  Zapatillas de Dep'
 date: 2019/12/19 22:20:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41LmwmGVFwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

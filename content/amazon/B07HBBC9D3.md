@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HBBC9D3 - Ofertón en Amazon para LAST LEVEL- Pop Vinyl: Dragonball Z S5: '
 date: 2019/12/16 21:17:23 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41xDi8Ps6uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

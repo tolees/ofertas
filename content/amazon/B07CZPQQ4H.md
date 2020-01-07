@@ -3,7 +3,7 @@ layout: post
 title: 'B07CZPQQ4H: Ahorra en Under Armour Sportstyle Logo Tank Tanque'
 date: 2019/12/20 16:16:23 +0000
 comments: true
-tags: B07CZPQQ4H
+image: https://images-eu.ssl-images-amazon.com/images/I/41jju86F%2BnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CZPQQ4H

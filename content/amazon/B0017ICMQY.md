@@ -2,6 +2,7 @@
 layout: post
 title: 'B0017ICMQY - Ofertón en Amazon para BaByliss 271CE - Tenacillas de pelo para'
 date: 2019/12/16 04:17:38 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31EgJuP5lrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

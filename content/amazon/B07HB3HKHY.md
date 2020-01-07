@@ -3,7 +3,7 @@ layout: post
 title: 'B07HB3HKHY: Ahorra en Pop! Captain Marvel - Figura de Vinilo V'
 date: 2019/12/16 21:11:24 +0000
 comments: true
-tags: B07HB3HKHY
+image: https://images-eu.ssl-images-amazon.com/images/I/41N%2B%2BICSnrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HB3HKHY

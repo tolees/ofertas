@@ -3,7 +3,7 @@ layout: post
 title: 'B017NQWKMO: Rebaja en Funko Pocket Pop Keychain : Harry Potter en Amazon'
 date: 2019/12/16 15:05:30 +0000
 comments: true
-tags: B017NQWKMO
+image: https://images-eu.ssl-images-amazon.com/images/I/31KG6aEp8TL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B017NQWKMO

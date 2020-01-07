@@ -3,7 +3,7 @@ layout: post
 title: 'B07FFH5DQC: Rebaja en Lego Dc Super-Villans en Amazon'
 date: 2020-01-04 09:02:55
 comments: true
-tags: B07FFH5DQC
+image: https://images-eu.ssl-images-amazon.com/images/I/51dUj1VlxCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FFH5DQC

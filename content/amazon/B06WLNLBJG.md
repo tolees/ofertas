@@ -3,7 +3,7 @@ layout: post
 title: 'B06WLNLBJG: Ahorra en Star Wars C1439EU4 Last Jedi Hyper Drive'
 date: 2020-01-05 14:20:02
 comments: true
-tags: B06WLNLBJG
+image: https://images-eu.ssl-images-amazon.com/images/I/51Bhw042OAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06WLNLBJG

@@ -3,7 +3,7 @@ layout: post
 title: 'B00MVWZL6I: Ahorra en Crock-Pot SCV400RD-050 Scv400Rd  210 W  '
 date: 2020-01-05 16:49:13
 comments: true
-tags: B00MVWZL6I
+image: https://images-eu.ssl-images-amazon.com/images/I/41eBYCnJ%2B8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00MVWZL6I

@@ -3,7 +3,7 @@ layout: post
 title: 'B07BNZ94PT: Rebaja en Gant The Broadcloth Banker Reg BD Camisa en Amazon'
 date: 2019/12/13 00:44:55 +0000
 comments: true
-tags: B07BNZ94PT
+image: https://images-eu.ssl-images-amazon.com/images/I/41bRce-sAGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BNZ94PT

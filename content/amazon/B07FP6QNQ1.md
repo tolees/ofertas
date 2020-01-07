@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FP6QNQ1 - Ofertón en Amazon para LEGO Creator 31089 - Rennwagen'
 date: 2019/12/31 10:03:49 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51uAnAVl0rL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

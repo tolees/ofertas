@@ -3,7 +3,7 @@ layout: post
 title: 'B01FLADSW0: Ahorra en Lowcy skarbow'
 date: 2020-01-01 20:15:48
 comments: true
-tags: B01FLADSW0
+image: https://images-eu.ssl-images-amazon.com/images/I/61EUo4ESbdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01FLADSW0

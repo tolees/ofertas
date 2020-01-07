@@ -2,6 +2,7 @@
 layout: post
 title: 'B01M9JZG7Y - Ofertón en Amazon para POP! Vinilo - Lost: Kate Austen'
 date: 2020-01-03 15:05:26
+image: https://images-eu.ssl-images-amazon.com/images/I/51dKl5VHiXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

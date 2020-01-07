@@ -2,6 +2,7 @@
 layout: post
 title: 'B00KZFY4DO - Ofertón en Amazon para Funko - Pop! Vinilo Colección Dragonball'
 date: 2019/12/16 21:05:35 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51s8i1ayyaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

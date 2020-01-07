@@ -2,6 +2,7 @@
 layout: post
 title: 'B00O8LASFY - Ofertón en Amazon para Onkyo CS-265  Y  - Sistema mini  Bluetoo'
 date: 2019/12/14 09:14:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41vHcavuraL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

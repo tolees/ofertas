@@ -3,7 +3,7 @@ layout: post
 title: 'B07CLRK7Y8: Rebaja en OMRON VIVA - Báscula inteligente y monit en Amazon'
 date: 2020-01-07 12:36:09
 comments: true
-tags: B07CLRK7Y8
+image: None._SL200_
 category: ofertas
 author: ring
 slug: B07CLRK7Y8

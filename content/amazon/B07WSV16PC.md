@@ -3,7 +3,7 @@ layout: post
 title: 'B07WSV16PC: Ahorra en Awroutdoor Organizadores para Asientos d'
 date: 2019/12/20 09:18:40 +0000
 comments: true
-tags: B07WSV16PC
+image: https://images-eu.ssl-images-amazon.com/images/I/51VM1U1NY%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WSV16PC

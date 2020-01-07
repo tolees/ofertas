@@ -3,7 +3,7 @@ layout: post
 title: 'B06XCVSBJB: Ahorra en Pepe Jeans Spike Vaqueros  Azul  Fonce D'
 date: 2019/12/30 11:07:56 +0000
 comments: true
-tags: B06XCVSBJB
+image: https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XCVSBJB

@@ -2,6 +2,7 @@
 layout: post
 title: 'B01J5FFW9Y - Ofertón en Amazon para Philips Daily HD2637/90 - Tostador 950 W'
 date: 2019/12/18 14:12:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/417qaaaIOKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

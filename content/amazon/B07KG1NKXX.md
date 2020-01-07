@@ -3,7 +3,7 @@ layout: post
 title: 'B07KG1NKXX: Rebaja en PUMA Ignite Flash Evoknit  Zapatillas de en Amazon'
 date: 2019/12/16 19:55:52 +0000
 comments: true
-tags: B07KG1NKXX
+image: https://images-eu.ssl-images-amazon.com/images/I/41g3U2E3QSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KG1NKXX

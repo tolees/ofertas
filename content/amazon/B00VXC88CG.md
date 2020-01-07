@@ -3,7 +3,7 @@ layout: post
 title: 'B00VXC88CG: Ahorra en G-Star RAW 3301 Straight  Vaqueros para '
 date: 2019/12/23 18:39:18 +0000
 comments: true
-tags: B00VXC88CG
+image: https://images-eu.ssl-images-amazon.com/images/I/41-0tZ3qVqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00VXC88CG

@@ -3,7 +3,7 @@ layout: post
 title: 'B00SF99TXC: Rebaja en G-STAR RAW 3301 Straight Fit Jeans  Azul en Amazon'
 date: 2019/12/16 08:56:55 +0000
 comments: true
-tags: B00SF99TXC
+image: https://images-eu.ssl-images-amazon.com/images/I/41W8BqEpTDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00SF99TXC

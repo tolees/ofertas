@@ -2,6 +2,7 @@
 layout: post
 title: 'B00KTFH63K - Ofertón en Amazon para Dickies - Mens industria de 260 pantalon'
 date: 2019/12/18 11:07:56 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31bi4%2By5IiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

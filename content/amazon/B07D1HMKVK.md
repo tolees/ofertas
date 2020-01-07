@@ -2,6 +2,7 @@
 layout: post
 title: 'B07D1HMKVK - Ofertón en Amazon para find. Stud Detail Vaqueros skinny  Azul '
 date: 2020-01-05 23:26:59
+image: https://images-eu.ssl-images-amazon.com/images/I/41ToVTyXUhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

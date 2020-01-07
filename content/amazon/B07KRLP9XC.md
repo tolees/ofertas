@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRLP9XC: Ahorra en New Balance Yc373v1  Zapatillas para Niñ'
 date: 2019/12/31 12:29:04 +0000
 comments: true
-tags: B07KRLP9XC
+image: https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KRLP9XC

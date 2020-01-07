@@ -3,7 +3,7 @@ layout: post
 title: 'B073PVDMT5: Ahorra en AmazonBasics - Maletín de transporte par'
 date: 2019/12/14 03:11:58 +0000
 comments: true
-tags: B073PVDMT5
+image: https://images-eu.ssl-images-amazon.com/images/I/4137nROrC1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073PVDMT5

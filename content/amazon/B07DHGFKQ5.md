@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DHGFKQ5 - Ofertón en Amazon para AngLink Guantes Barbacoa  Resistentes Al'
 date: 2019/12/30 03:15:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51PFlLDFD0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

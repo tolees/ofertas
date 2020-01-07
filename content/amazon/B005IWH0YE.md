@@ -2,6 +2,7 @@
 layout: post
 title: 'B005IWH0YE - Ofertón en Amazon para Motorola MBP 8 - Vigilabebés audio "plug'
 date: 2020-01-03 12:25:37
+image: https://images-eu.ssl-images-amazon.com/images/I/41CeOzgoFuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

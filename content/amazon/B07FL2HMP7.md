@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FL2HMP7 - Ofertón en Amazon para LG 24MK600M-B - Monitor FHD de 60 4 cm  '
 date: 2020-01-06 09:03:56
+image: https://images-eu.ssl-images-amazon.com/images/I/41uokJ8VwNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

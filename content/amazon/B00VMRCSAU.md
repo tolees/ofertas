@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VMRCSAU - Ofertón en Amazon para Jako Chaqueta con Capucha Team Azul Tall'
 date: 2019/12/17 18:07:30 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/416wrH5JUBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07JHCGGMY: Rebaja en Columbia Ivo Trail  Zapatillas para Homb en Amazon'
 date: 2020-01-06 19:03:32
 comments: true
-tags: B07JHCGGMY
+image: https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JHCGGMY

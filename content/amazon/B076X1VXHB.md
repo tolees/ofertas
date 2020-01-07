@@ -3,7 +3,7 @@ layout: post
 title: 'B076X1VXHB: Ahorra en Pecute Funda de Asiento para Perros  Pro'
 date: 2020-01-03 11:42:11
 comments: true
-tags: B076X1VXHB
+image: https://images-eu.ssl-images-amazon.com/images/I/51n8CiZ1vWL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B076X1VXHB

@@ -3,7 +3,7 @@ layout: post
 title: 'B07J9RLLP7: Rebaja en Nautica NAD14533G - Reloj Analógico para en Amazon'
 date: 2019/12/20 02:30:15 +0000
 comments: true
-tags: B07J9RLLP7
+image: https://images-eu.ssl-images-amazon.com/images/I/31ftfvJ2E-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07J9RLLP7

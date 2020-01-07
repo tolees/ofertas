@@ -3,7 +3,7 @@ layout: post
 title: 'B07F7TZGV8: Ahorra en AmazonBasics - Vajilla de 18 piezas  Exp'
 date: 2019/12/18 10:52:21 +0000
 comments: true
-tags: B07F7TZGV8
+image: https://images-eu.ssl-images-amazon.com/images/I/410kF5Q9cpL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F7TZGV8

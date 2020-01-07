@@ -3,7 +3,7 @@ layout: post
 title: 'B07BJFPLS6: Rebaja en Lost Kitties- Pack de Gatitos  Hasbro E4 en Amazon'
 date: 2019/12/12 15:40:45 +0000
 comments: true
-tags: B07BJFPLS6
+image: https://images-eu.ssl-images-amazon.com/images/I/51NfG-lftuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BJFPLS6

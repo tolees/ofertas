@@ -3,7 +3,7 @@ layout: post
 title: 'B00R4KOXMU: Rebaja en Izas Seefeld  Pantalón Térmico Para Homb en Amazon'
 date: 2019/12/24 11:25:34 +0000
 comments: true
-tags: B00R4KOXMU
+image: https://images-eu.ssl-images-amazon.com/images/I/31D3L90shzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00R4KOXMU

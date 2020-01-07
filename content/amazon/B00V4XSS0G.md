@@ -2,6 +2,7 @@
 layout: post
 title: 'B00V4XSS0G - Ofertón en Amazon para Scholl Plantillas Gel Activ Sport Hombre'
 date: 2019/12/18 08:09:57 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51OfJpP21GL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

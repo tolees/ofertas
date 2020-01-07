@@ -2,6 +2,7 @@
 layout: post
 title: 'B07W5CKB2J - Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Harry'
 date: 2020-01-03 06:06:35
+image: https://images-eu.ssl-images-amazon.com/images/I/517HtVRu%2B4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

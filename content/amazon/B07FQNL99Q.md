@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FQNL99Q - Ofertón en Amazon para Medidor Laser de Distancia LOMVUM 80M Pr'
 date: 2019/12/30 20:09:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/416SW07PqbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

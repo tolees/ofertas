@@ -2,6 +2,7 @@
 layout: post
 title: 'B01FFSGSQ6 - Ofertón en Amazon para Britax Römer car seat 9-36 kg  EVOLVA 12'
 date: 2020-01-03 23:31:27
+image: https://images-eu.ssl-images-amazon.com/images/I/31cuN1WPfML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

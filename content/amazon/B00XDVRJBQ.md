@@ -3,7 +3,7 @@ layout: post
 title: 'B00XDVRJBQ: Ahorra en NIVEA SUN Protege & Hidrata Spray Solar '
 date: 2019/12/12 01:37:15 +0000
 comments: true
-tags: B00XDVRJBQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41ctDtd9GDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00XDVRJBQ

@@ -3,7 +3,7 @@ layout: post
 title: 'B07LG1HBLD: Ahorra en Geox U Terence C  Botas Clasicas para Ho'
 date: 2019/12/28 14:51:16 +0000
 comments: true
-tags: B07LG1HBLD
+image: https://images-eu.ssl-images-amazon.com/images/I/41sx3aTjzeL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LG1HBLD

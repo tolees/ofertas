@@ -2,6 +2,7 @@
 layout: post
 title: 'B07BL2CLJ8 - Ofertón en Amazon para New Balance Fresh Foam Zante Pursuit  Za'
 date: 2019/12/24 12:03:58 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41wsAinWnzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

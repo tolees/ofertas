@@ -2,6 +2,7 @@
 layout: post
 title: 'B07VFLVS5K - Ofertón en Amazon para HANPURE Bluetooth Mütze Damen & Herren G'
 date: 2019/12/15 15:47:56 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51svYrNzvxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

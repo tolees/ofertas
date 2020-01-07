@@ -3,7 +3,7 @@ layout: post
 title: 'B01ET4MO5Q: Ahorra en Helly Hansen W Aden Long Chaqueta  Mujer'
 date: 2019/12/23 07:56:41 +0000
 comments: true
-tags: B01ET4MO5Q
+image: https://images-eu.ssl-images-amazon.com/images/I/41ceB9oLOKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01ET4MO5Q

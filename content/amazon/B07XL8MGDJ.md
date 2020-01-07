@@ -2,6 +2,7 @@
 layout: post
 title: 'B07XL8MGDJ - Ofertón en Amazon para Geographical Norway Parka Mujer BOOMERA '
 date: 2019/12/29 21:07:59 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41IfVnKvLvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

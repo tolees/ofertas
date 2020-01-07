@@ -3,7 +3,7 @@ layout: post
 title: 'B01N4EJEJS: Rebaja en 1 4kg Hapilife Grifo Cocina Pared Monoma en Amazon'
 date: 2019/12/17 08:13:12 +0000
 comments: true
-tags: B01N4EJEJS
+image: https://images-eu.ssl-images-amazon.com/images/I/41FlIN6IhtL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N4EJEJS

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07N6W8JPM - Ofertón en Amazon para Tommy Hilfiger Leather Lifestyle Sneaker'
 date: 2019/12/28 12:58:34 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41B4rfxOxAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

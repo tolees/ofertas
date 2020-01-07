@@ -3,7 +3,7 @@ layout: post
 title: 'B06XQ5SFGM: Rebaja en find. FB00895 camisetas  Marfil  White M en Amazon'
 date: 2019/12/20 16:22:38 +0000
 comments: true
-tags: B06XQ5SFGM
+image: https://images-eu.ssl-images-amazon.com/images/I/41J92OgAWzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XQ5SFGM

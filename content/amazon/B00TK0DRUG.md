@@ -2,6 +2,7 @@
 layout: post
 title: 'B00TK0DRUG - Ofertón en Amazon para Revell Star Wars EasyKit Episode Vii The'
 date: 2019/12/11 22:13:45 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51rEo8bsMoL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

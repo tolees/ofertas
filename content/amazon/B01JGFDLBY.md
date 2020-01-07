@@ -3,7 +3,7 @@ layout: post
 title: 'B01JGFDLBY: Rebaja en Bourjois Volume Reveal Máscara de pestañ en Amazon'
 date: 2020-01-07 10:22:23
 comments: true
-tags: B01JGFDLBY
+image: https://images-eu.ssl-images-amazon.com/images/I/41-p7BrMZ8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01JGFDLBY

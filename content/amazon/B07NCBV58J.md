@@ -3,7 +3,7 @@ layout: post
 title: 'B07NCBV58J: Ahorra en Pepe Jeans Saturn Vaqueros  Azul  Medium'
 date: 2019/12/28 16:53:10 +0000
 comments: true
-tags: B07NCBV58J
+image: https://images-eu.ssl-images-amazon.com/images/I/41sgHElgqdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NCBV58J

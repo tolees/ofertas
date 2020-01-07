@@ -2,6 +2,7 @@
 layout: post
 title: 'B01N28MVVX - Ofertón en Amazon para Lee Snap Jacket Chaqueta  Azul  Bleached'
 date: 2019/12/27 20:36:14 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/417I6ClC9%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

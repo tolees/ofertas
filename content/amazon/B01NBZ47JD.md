@@ -2,6 +2,7 @@
 layout: post
 title: 'B01NBZ47JD - Ofertón en Amazon para G-Star Raw 3301 Straight  Jeans Dritto U'
 date: 2020-01-01 11:05:39
+image: https://images-eu.ssl-images-amazon.com/images/I/41EqqVqOzML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

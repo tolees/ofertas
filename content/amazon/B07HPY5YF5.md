@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HPY5YF5 - Ofertón en Amazon para Funko 34842 POP Vinyl: Fortnite: Love Ra'
 date: 2019/12/16 15:11:57 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31wtDp7spDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

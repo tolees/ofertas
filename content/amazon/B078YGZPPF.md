@@ -3,7 +3,7 @@ layout: post
 title: 'B078YGZPPF: Ahorra en Schiesser Puppy Love Baby Anzug 2-Teilig'
 date: 2020-01-02 16:21:13
 comments: true
-tags: B078YGZPPF
+image: https://images-eu.ssl-images-amazon.com/images/I/41sTmYyMquL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078YGZPPF

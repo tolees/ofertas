@@ -3,7 +3,7 @@ layout: post
 title: 'B01LWYINUU: Ahorra en CRSM - Cárdigan - para Hombre Negro M'
 date: 2019/12/24 15:53:04 +0000
 comments: true
-tags: B01LWYINUU
+image: https://images-eu.ssl-images-amazon.com/images/I/51j5pC9vSAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LWYINUU

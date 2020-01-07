@@ -3,7 +3,7 @@ layout: post
 title: 'B07D3S6JQV: Rebaja en Teclado de Unidad de Disco Flojo de Memo en Amazon'
 date: 2019-12-31 15:17:10
 comments: true
-tags: B07D3S6JQV
+image: https://images-eu.ssl-images-amazon.com/images/I/31-YyRP6zOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07D3S6JQV

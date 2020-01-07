@@ -3,7 +3,7 @@ layout: post
 title: 'B073SCHNSY: Rebaja en find. Sudadera para Hombre  Azul  Mariti en Amazon'
 date: 2020-01-05 11:13:01
 comments: true
-tags: B073SCHNSY
+image: https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073SCHNSY

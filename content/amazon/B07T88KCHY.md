@@ -3,7 +3,7 @@ layout: post
 title: 'B07T88KCHY: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Marve en Amazon'
 date: 2019/12/11 04:37:51 +0000
 comments: true
-tags: B07T88KCHY
+image: https://images-eu.ssl-images-amazon.com/images/I/41DsSKxfoDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07T88KCHY

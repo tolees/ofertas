@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KRHFY2F - Ofertón en Amazon para Olla a presion 22 cm 6 L CAPRI MATT acer'
 date: 2019/12/29 11:35:04 +0000
+image: None._SL200_
 comments: true
 category: ofertas
 author: ring

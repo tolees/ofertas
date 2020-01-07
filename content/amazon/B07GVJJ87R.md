@@ -3,7 +3,7 @@ layout: post
 title: 'B07GVJJ87R: Rebaja en Figurízate | Potente adelgazante con acc en Amazon'
 date: 2019/12/24 23:33:41 +0000
 comments: true
-tags: B07GVJJ87R
+image: https://images-eu.ssl-images-amazon.com/images/I/41frxGB1o6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GVJJ87R

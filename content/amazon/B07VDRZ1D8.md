@@ -2,6 +2,7 @@
 layout: post
 title: 'B07VDRZ1D8 - Ofertón en Amazon para Aizhy Bomba para Bicicleta  Bomba ergonó'
 date: 2020-01-07 13:16:39
+image: https://images-eu.ssl-images-amazon.com/images/I/413dhUrlliL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

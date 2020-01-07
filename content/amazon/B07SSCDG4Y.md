@@ -3,7 +3,7 @@ layout: post
 title: 'B07SSCDG4Y: Rebaja en adidas Coast Star  Zapatillas de Gimnasi en Amazon'
 date: 2019/12/13 11:22:36 +0000
 comments: true
-tags: B07SSCDG4Y
+image: https://images-eu.ssl-images-amazon.com/images/I/311nnmJ43lL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SSCDG4Y

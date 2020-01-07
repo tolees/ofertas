@@ -3,7 +3,7 @@ layout: post
 title: 'B07BSB9JYG: Ahorra en BelleStyle Doodle Agua  4 Colores Agua D'
 date: 2020-01-06 22:27:56
 comments: true
-tags: B07BSB9JYG
+image: https://images-eu.ssl-images-amazon.com/images/I/51E%2B14C6XOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BSB9JYG

@@ -3,7 +3,7 @@ layout: post
 title: 'B00J5ERXZM: Ahorra en De Longhi Dolce Gusto Jovia EDG250.B - C'
 date: 2019/12/12 05:36:13 +0000
 comments: true
-tags: B00J5ERXZM
+image: https://images-eu.ssl-images-amazon.com/images/I/41Vogh5zT-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00J5ERXZM

@@ -3,7 +3,7 @@ layout: post
 title: 'B00OPW3SAS: Ahorra en Superga 2750 COTU Classic  Zapatillas Un'
 date: 2019/12/20 11:51:56 +0000
 comments: true
-tags: B00OPW3SAS
+image: https://images-eu.ssl-images-amazon.com/images/I/31uYLWgo8FL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00OPW3SAS

@@ -3,7 +3,7 @@ layout: post
 title: 'B07Z8T8SGC: Rebaja en bakibo Auriculares Inalámbricos Bluetoot en Amazon'
 date: 2019/12/24 19:39:18 +0000
 comments: true
-tags: B07Z8T8SGC
+image: https://images-eu.ssl-images-amazon.com/images/I/41XpXwUIuHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Z8T8SGC

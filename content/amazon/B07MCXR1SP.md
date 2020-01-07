@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCXR1SP: Ahorra en Telémetros láser LOMVUM Medidor de Dista'
 date: 2019/12/30 20:32:38 +0000
 comments: true
-tags: B07MCXR1SP
+image: https://images-eu.ssl-images-amazon.com/images/I/41IMQsyr%2B4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MCXR1SP

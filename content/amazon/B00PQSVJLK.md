@@ -2,6 +2,7 @@
 layout: post
 title: 'B00PQSVJLK - Ofertón en Amazon para Carbonell  Aceite de oliva - 5 l.'
 date: 2020-01-05 16:47:20
+image: None._SL200_
 comments: true
 category: ofertas
 author: ring

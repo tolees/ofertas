@@ -3,7 +3,7 @@ layout: post
 title: 'B07QWKCJP9: Rebaja en REEXBON 【Versión actualizada】 Linterna F en Amazon'
 date: 2019/12/28 11:03:26 +0000
 comments: true
-tags: B07QWKCJP9
+image: https://images-eu.ssl-images-amazon.com/images/I/51RFP9KCPwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QWKCJP9

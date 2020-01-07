@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FTH9ZSG - Ofertón en Amazon para Lee Slim Rider Chaqueta Vaquera  Azul  F'
 date: 2020-01-06 12:54:25
+image: https://images-eu.ssl-images-amazon.com/images/I/41cs1Tu5tHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

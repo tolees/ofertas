@@ -3,7 +3,7 @@ layout: post
 title: 'B07JGLWGDG: Rebaja en Energy Smart Speaker 5 Altavoz Inteligen en Amazon'
 date: 2020-01-06 10:40:31
 comments: true
-tags: B07JGLWGDG
+image: https://images-eu.ssl-images-amazon.com/images/I/41V3SyIwbVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JGLWGDG

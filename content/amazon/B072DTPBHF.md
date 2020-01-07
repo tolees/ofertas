@@ -2,6 +2,7 @@
 layout: post
 title: 'B072DTPBHF - Ofertón en Amazon para Oral-B Pro 3 3000 CrossAction Electric R'
 date: 2019/12/16 17:26:57 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51GcGh7GzML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

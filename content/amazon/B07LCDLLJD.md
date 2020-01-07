@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LCDLLJD - Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Res'
 date: 2020-01-07 06:39:51
+image: https://images-eu.ssl-images-amazon.com/images/I/51gBCLIU-gL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

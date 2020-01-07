@@ -3,7 +3,7 @@ layout: post
 title: 'B07XJWFFGT: Ahorra en MessBebe Mujeres Gorros de Punto Inviern'
 date: 2019/12/13 16:25:40 +0000
 comments: true
-tags: B07XJWFFGT
+image: https://images-eu.ssl-images-amazon.com/images/I/41kQczGB6UL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XJWFFGT

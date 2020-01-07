@@ -3,7 +3,7 @@ layout: post
 title: 'B07PK4BXPB: Ahorra en Clementoni - Memo Frozen 2  18052 '
 date: 2019/12/15 18:45:47 +0000
 comments: true
-tags: B07PK4BXPB
+image: https://images-eu.ssl-images-amazon.com/images/I/517nchEwC6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PK4BXPB

@@ -3,7 +3,7 @@ layout: post
 title: 'B06XSSLW4C: Rebaja en Neutrogena Visibly Renew Loción Corporal en Amazon'
 date: 2019/12/29 06:07:22 +0000
 comments: true
-tags: B06XSSLW4C
+image: https://images-eu.ssl-images-amazon.com/images/I/21rxFTxcrBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XSSLW4C

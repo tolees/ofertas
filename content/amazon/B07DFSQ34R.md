@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFSQ34R: Ahorra en Puma Liga Training Pant Core Pants  Homb'
 date: 2019/12/27 20:10:59 +0000
 comments: true
-tags: B07DFSQ34R
+image: https://images-eu.ssl-images-amazon.com/images/I/31w7DahuhHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DFSQ34R

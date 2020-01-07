@@ -3,7 +3,7 @@ layout: post
 title: 'B07JQLFC6T: Rebaja en ESPRIT Collection 998eo2f802 Camisa  Azu en Amazon'
 date: 2019/12/26 20:11:48 +0000
 comments: true
-tags: B07JQLFC6T
+image: https://images-eu.ssl-images-amazon.com/images/I/31vnqQXhqxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JQLFC6T

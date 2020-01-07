@@ -3,7 +3,7 @@ layout: post
 title: 'B07ML1VNSL: Rebaja en Set de aceites esenciales de aromaterapi en Amazon'
 date: 2019/12/31 01:54:08 +0000
 comments: true
-tags: B07ML1VNSL
+image: https://images-eu.ssl-images-amazon.com/images/I/51l6-HKgAVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07ML1VNSL

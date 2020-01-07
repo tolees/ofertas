@@ -2,6 +2,7 @@
 layout: post
 title: 'B07NDB4Q7S - Ofertón en Amazon para LEGO Star Wars TM - Halcón Milenario  Ju'
 date: 2019/12/23 09:41:48 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51j2ZIsMsRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

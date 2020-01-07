@@ -3,7 +3,7 @@ layout: post
 title: 'B07GDLNLD2: Rebaja en WE.Lock - Bloqueo inteligente con huella en Amazon'
 date: 2019/12/15 12:32:12 +0000
 comments: true
-tags: B07GDLNLD2
+image: https://images-eu.ssl-images-amazon.com/images/I/41EXPX5uZXL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GDLNLD2

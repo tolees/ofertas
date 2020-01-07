@@ -3,7 +3,7 @@ layout: post
 title: 'B07N4LZSSL: Rebaja en Levi s Fowler  Botas Slouch para Hombre  en Amazon'
 date: 2019/12/21 19:33:10 +0000
 comments: true
-tags: B07N4LZSSL
+image: https://images-eu.ssl-images-amazon.com/images/I/41jk7ZFITgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N4LZSSL

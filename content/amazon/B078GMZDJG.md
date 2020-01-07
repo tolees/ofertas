@@ -3,7 +3,7 @@ layout: post
 title: 'B078GMZDJG: Ahorra en Monix Mineral Lote de Sartenes  Aluminio'
 date: 2020-01-05 09:20:22
 comments: true
-tags: B078GMZDJG
+image: https://images-eu.ssl-images-amazon.com/images/I/41tfnvEFKlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078GMZDJG

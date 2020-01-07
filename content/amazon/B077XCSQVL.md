@@ -3,7 +3,7 @@ layout: post
 title: 'B077XCSQVL: Ahorra en Ravensburger Kinderspiele 21353 Monsters'
 date: 2019/12/26 09:05:55 +0000
 comments: true
-tags: B077XCSQVL
+image: https://images-eu.ssl-images-amazon.com/images/I/610QYYl6sDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077XCSQVL

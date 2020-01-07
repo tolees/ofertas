@@ -3,7 +3,7 @@ layout: post
 title: 'B07F4FC1MS: Ahorra en Rowenta Intense Comfort Hot SO9420F0 Cal'
 date: 2019/12/22 15:14:14 +0000
 comments: true
-tags: B07F4FC1MS
+image: https://images-eu.ssl-images-amazon.com/images/I/313qVVWVM3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F4FC1MS

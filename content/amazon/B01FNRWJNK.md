@@ -3,7 +3,7 @@ layout: post
 title: 'B01FNRWJNK: Rebaja en HP Z3700 RF Raton óptico inalámbrico 120 en Amazon'
 date: 2019/12/27 16:32:47 +0000
 comments: true
-tags: B01FNRWJNK
+image: https://images-eu.ssl-images-amazon.com/images/I/31eVI6gL8QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01FNRWJNK

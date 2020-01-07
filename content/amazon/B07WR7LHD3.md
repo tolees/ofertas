@@ -2,6 +2,7 @@
 layout: post
 title: 'B07WR7LHD3 - Ofertón en Amazon para LOHOTEK Guantes de Bicicleta Acolchados '
 date: 2019/12/10 23:29:13 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51MC6nu%2BcqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

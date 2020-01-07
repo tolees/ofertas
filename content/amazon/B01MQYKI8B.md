@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MQYKI8B - Ofertón en Amazon para find. BAY001017W170205 vaqueros mujer  A'
 date: 2020-01-06 20:01:10
+image: https://images-eu.ssl-images-amazon.com/images/I/41rN0UkYD0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

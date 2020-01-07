@@ -3,7 +3,7 @@ layout: post
 title: 'B077YDTT7G: Ahorra en HIKARO Chaqueta con Cremallera y Capucha'
 date: 2019/12/20 14:46:46 +0000
 comments: true
-tags: B077YDTT7G
+image: https://images-eu.ssl-images-amazon.com/images/I/41aKTJRD5FL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077YDTT7G

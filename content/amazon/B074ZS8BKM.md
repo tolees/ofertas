@@ -2,6 +2,7 @@
 layout: post
 title: 'B074ZS8BKM - Ofertón en Amazon para H.Koenig Máquina para Hacer Hielo  Silen'
 date: 2019/12/30 18:15:08 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41k1SISyqAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

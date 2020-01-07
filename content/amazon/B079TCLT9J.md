@@ -3,7 +3,7 @@ layout: post
 title: 'B079TCLT9J: Rebaja en Funko Television Figura Pop Stranger Thi en Amazon'
 date: 2019/12/16 18:10:22 +0000
 comments: true
-tags: B079TCLT9J
+image: https://images-eu.ssl-images-amazon.com/images/I/41Huds1eMRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079TCLT9J

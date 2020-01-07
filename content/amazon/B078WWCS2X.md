@@ -3,7 +3,7 @@ layout: post
 title: 'B078WWCS2X: Rebaja en Maclaren Triumph Silla de paseo - ligera en Amazon'
 date: 2020-01-05 17:05:52
 comments: true
-tags: B078WWCS2X
+image: https://images-eu.ssl-images-amazon.com/images/I/41Q-WoDquFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078WWCS2X

@@ -3,7 +3,7 @@ layout: post
 title: 'B07NXCZLPJ: Ahorra en Superdry Tyler Vaqueros Slim  Negro  Por'
 date: 2019/12/28 20:25:19 +0000
 comments: true
-tags: B07NXCZLPJ
+image: https://images-eu.ssl-images-amazon.com/images/I/31BnX7xLDsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NXCZLPJ

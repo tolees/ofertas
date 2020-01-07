@@ -3,7 +3,7 @@ layout: post
 title: 'B00PLNAJ2K: Ahorra en Speedo - Traje de baño para mujer  color'
 date: 2019/12/30 18:56:55 +0000
 comments: true
-tags: B00PLNAJ2K
+image: https://images-eu.ssl-images-amazon.com/images/I/31rOcfqJSPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00PLNAJ2K

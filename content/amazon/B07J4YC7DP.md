@@ -3,7 +3,7 @@ layout: post
 title: 'B07J4YC7DP: Ahorra en Freefly Frozen Girls Princess Costume Co'
 date: 2020-01-03 06:13:30
 comments: true
-tags: B07J4YC7DP
+image: https://images-eu.ssl-images-amazon.com/images/I/41mdytdoV-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07J4YC7DP

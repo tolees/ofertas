@@ -3,7 +3,7 @@ layout: post
 title: 'B073JPN9CN: Rebaja en find. Textured Overhead  Sudadera con Ca en Amazon'
 date: 2019/12/28 11:36:21 +0000
 comments: true
-tags: B073JPN9CN
+image: https://images-eu.ssl-images-amazon.com/images/I/41Sr-eox5tL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073JPN9CN

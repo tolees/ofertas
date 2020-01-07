@@ -3,7 +3,7 @@ layout: post
 title: 'B07HKGNFNV: Ahorra en Alex Perry regalos de navidad mujer coll'
 date: 2020-01-05 11:16:00
 comments: true
-tags: B07HKGNFNV
+image: https://images-eu.ssl-images-amazon.com/images/I/51Df3m7FLjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HKGNFNV

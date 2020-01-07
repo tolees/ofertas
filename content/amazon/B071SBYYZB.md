@@ -3,7 +3,7 @@ layout: post
 title: 'B071SBYYZB: Ahorra en find. Zapatillas Deportivas de Cordones '
 date: 2019/12/20 09:44:33 +0000
 comments: true
-tags: B071SBYYZB
+image: https://images-eu.ssl-images-amazon.com/images/I/21UY7wCbCQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B071SBYYZB

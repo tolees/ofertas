@@ -3,7 +3,7 @@ layout: post
 title: 'B07D36WFVV: Rebaja en IntimaTe WM Heart Racing Silla Gamer  Si en Amazon'
 date: 2019/12/14 13:50:32 +0000
 comments: true
-tags: B07D36WFVV
+image: https://images-eu.ssl-images-amazon.com/images/I/41t9cHxr5QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07D36WFVV

@@ -3,7 +3,7 @@ layout: post
 title: 'B07F8TLP9R: Ahorra en Huawei MateBook X Pro 35 31 cm  13 9 Zol'
 date: 2019/12/11 19:26:58 +0000
 comments: true
-tags: B07F8TLP9R
+image: https://images-eu.ssl-images-amazon.com/images/I/41ObP1eJ%2BlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F8TLP9R

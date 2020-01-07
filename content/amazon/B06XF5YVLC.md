@@ -3,7 +3,7 @@ layout: post
 title: 'B06XF5YVLC: Rebaja en PHOENISING - Pantalón Corto - para Mujer en Amazon'
 date: 2020-01-01 10:40:28
 comments: true
-tags: B06XF5YVLC
+image: https://images-eu.ssl-images-amazon.com/images/I/51JT5sWRzYL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XF5YVLC

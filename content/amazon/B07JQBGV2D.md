@@ -3,7 +3,7 @@ layout: post
 title: 'B07JQBGV2D: Rebaja en Tommy Hilfiger Modern Hardware Belt 2.5  en Amazon'
 date: 2019/12/29 08:41:47 +0000
 comments: true
-tags: B07JQBGV2D
+image: https://images-eu.ssl-images-amazon.com/images/I/31lIQSeVmZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JQBGV2D

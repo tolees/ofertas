@@ -2,6 +2,7 @@
 layout: post
 title: 'B06WGZPG2Q - Ofertón en Amazon para Philips S5630/45 - Afeitadora electrica '
 date: 2019/12/26 12:32:27 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41jabZ5CqSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DHF1HJF: Rebaja en Orient Reloj Analógico para Hombre de Au en Amazon'
 date: 2019/12/11 23:35:59 +0000
 comments: true
-tags: B07DHF1HJF
+image: https://images-eu.ssl-images-amazon.com/images/I/51aJFgG%2Bv0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DHF1HJF

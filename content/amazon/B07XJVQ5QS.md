@@ -3,7 +3,7 @@ layout: post
 title: 'B07XJVQ5QS: Rebaja en LEADSTAR Toalla Facial Infantil  10 Piez en Amazon'
 date: 2019/12/12 14:38:17 +0000
 comments: true
-tags: B07XJVQ5QS
+image: https://images-eu.ssl-images-amazon.com/images/I/41Ub9dhqTtL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XJVQ5QS

@@ -3,7 +3,7 @@ layout: post
 title: 'B00OUWQVUM: Ahorra en adidas Superstar  Zapatillas de deporte '
 date: 2019/12/18 14:57:27 +0000
 comments: true
-tags: B00OUWQVUM
+image: https://images-eu.ssl-images-amazon.com/images/I/416KiniGdOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00OUWQVUM

@@ -3,7 +3,7 @@ layout: post
 title: 'B07BWRWMZL: Rebaja en Glamorise MagicLift Full Figure Support  en Amazon'
 date: 2019/12/17 15:32:54 +0000
 comments: true
-tags: B07BWRWMZL
+image: https://images-eu.ssl-images-amazon.com/images/I/51Ldkihr6fL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BWRWMZL

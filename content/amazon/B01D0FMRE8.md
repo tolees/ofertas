@@ -3,7 +3,7 @@ layout: post
 title: 'B01D0FMRE8: Rebaja en Great Art Gráfico artistico de Lirio Mur en Amazon'
 date: 2020-01-01 19:35:24
 comments: true
-tags: B01D0FMRE8
+image: https://images-eu.ssl-images-amazon.com/images/I/51xxt0lYi6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01D0FMRE8

@@ -3,7 +3,7 @@ layout: post
 title: 'B07WDKXDHJ: Rebaja en Vans VN0A3UI6 - Mochila de Sintético muj en Amazon'
 date: 2020-01-02 17:11:16
 comments: true
-tags: B07WDKXDHJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51pDSl7xukL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WDKXDHJ

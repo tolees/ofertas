@@ -3,7 +3,7 @@ layout: post
 title: 'B07TKDQT1Z: Ahorra en Max Power Digital Funda para Samsung Gal'
 date: 2020-01-06 23:31:03
 comments: true
-tags: B07TKDQT1Z
+image: https://images-eu.ssl-images-amazon.com/images/I/51uGfT-yDWL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TKDQT1Z

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DP13FNT: Ahorra en Umbro Set de 5 boxers  5NEGROS  -100% al'
 date: 2020-01-07 12:32:08
 comments: true
-tags: B07DP13FNT
+image: https://images-eu.ssl-images-amazon.com/images/I/41jyxkGtf7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DP13FNT

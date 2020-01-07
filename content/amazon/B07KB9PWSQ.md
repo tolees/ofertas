@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KB9PWSQ - Ofertón en Amazon para Vero Moda Vmeva Abby 3/4 Trenchcoat Noos'
 date: 2019/12/20 21:19:58 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41ZoeuQlDHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

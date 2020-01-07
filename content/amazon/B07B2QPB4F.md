@@ -2,6 +2,7 @@
 layout: post
 title: 'B07B2QPB4F - Ofertón en Amazon para Yasolote 22M Guirnalda de Luces Solares '
 date: 2019/12/21 20:34:38 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

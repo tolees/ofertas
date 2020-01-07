@@ -2,6 +2,7 @@
 layout: post
 title: 'B079NZB8HS - Ofertón en Amazon para Hapilife Grifo De Cocina Extraible Monom'
 date: 2019/12/22 21:27:31 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/318JIINGAzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

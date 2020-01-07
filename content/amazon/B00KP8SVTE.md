@@ -3,7 +3,7 @@ layout: post
 title: 'B00KP8SVTE: Ahorra en XL-S Medical Carboblocker - 60 comprimid'
 date: 2019/12/17 02:31:19 +0000
 comments: true
-tags: B00KP8SVTE
+image: https://images-eu.ssl-images-amazon.com/images/I/41brNRGsFiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00KP8SVTE

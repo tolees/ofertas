@@ -3,7 +3,7 @@ layout: post
 title: 'B00B3IUKI0: Rebaja en Carita Progressif Huile-En-Mousse Nettoy en Amazon'
 date: 2019/12/12 01:06:40 +0000
 comments: true
-tags: B00B3IUKI0
+image: https://images-eu.ssl-images-amazon.com/images/I/31I3x03MnAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00B3IUKI0

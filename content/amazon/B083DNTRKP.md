@@ -3,7 +3,7 @@ layout: post
 title: 'B083DNTRKP: Rebaja en DXX Technik Bausteine Auto Benz G500  13 en Amazon'
 date: 2020-01-05 06:29:54
 comments: true
-tags: B083DNTRKP
+image: https://images-eu.ssl-images-amazon.com/images/I/51D6gipVJAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B083DNTRKP

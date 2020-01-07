@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FNSDT36 - Ofertón en Amazon para Seiko Reloj Analogico para Hombre de Cua'
 date: 2020-01-06 21:18:04
+image: https://images-eu.ssl-images-amazon.com/images/I/41Y3WayIRmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

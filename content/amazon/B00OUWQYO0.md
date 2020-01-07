@@ -2,6 +2,7 @@
 layout: post
 title: 'B00OUWQYO0 - Ofertón en Amazon para adidas Superstar  Zapatillas de deporte '
 date: 2020-01-01 17:39:58
+image: https://images-eu.ssl-images-amazon.com/images/I/416KiniGdOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

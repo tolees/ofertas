@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DVKVKND - Ofertón en Amazon para New Balance Fresh Foam Roav   Zapatillas'
 date: 2020-01-06 20:50:35
+image: https://images-eu.ssl-images-amazon.com/images/I/41XvpaZKj9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

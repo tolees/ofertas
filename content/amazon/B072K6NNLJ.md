@@ -3,7 +3,7 @@ layout: post
 title: 'B072K6NNLJ: Ahorra en Apple Magic Keyboard con teclado numéric'
 date: 2019/12/25 16:02:56 +0000
 comments: true
-tags: B072K6NNLJ
+image: https://images-eu.ssl-images-amazon.com/images/I/21Eqwbg0YJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072K6NNLJ

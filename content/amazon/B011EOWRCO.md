@@ -2,6 +2,7 @@
 layout: post
 title: 'B011EOWRCO - Ofertón en Amazon para Teka MWE 225 G Microondas con Grill  105'
 date: 2020-01-02 12:10:20
+image: https://images-eu.ssl-images-amazon.com/images/I/41wfO%2B04fbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

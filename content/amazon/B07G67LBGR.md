@@ -3,7 +3,7 @@ layout: post
 title: 'B07G67LBGR: Rebaja en Michael Kors Reloj Analógico para Mujer  en Amazon'
 date: 2019/12/14 23:03:11 +0000
 comments: true
-tags: B07G67LBGR
+image: https://images-eu.ssl-images-amazon.com/images/I/41Gcg%2B1rhTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G67LBGR

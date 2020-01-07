@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JJF3Q2D - Ofertón en Amazon para Philips Series 5000 Beard and Stubble Tr'
 date: 2019/12/14 07:40:31 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51smvUBqIwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

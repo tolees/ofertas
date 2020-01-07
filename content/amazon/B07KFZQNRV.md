@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KFZQNRV - Ofertón en Amazon para Puma Future Runner Premium  Zapatillas U'
 date: 2020-01-07 11:11:04
+image: https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

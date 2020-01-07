@@ -3,7 +3,7 @@ layout: post
 title: 'B079ML5KCD: Ahorra en MERAKI Camiseta Slim Fit de Manga Corta '
 date: 2019/12/25 12:01:58 +0000
 comments: true
-tags: B079ML5KCD
+image: https://images-eu.ssl-images-amazon.com/images/I/31v7NULUYFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079ML5KCD

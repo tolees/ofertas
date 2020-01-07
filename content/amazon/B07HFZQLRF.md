@@ -3,7 +3,7 @@ layout: post
 title: 'B07HFZQLRF: Rebaja en New Balance 247v2  Zapatillas para Hombr en Amazon'
 date: 2019/12/27 07:02:58 +0000
 comments: true
-tags: B07HFZQLRF
+image: https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HFZQLRF

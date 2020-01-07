@@ -2,6 +2,7 @@
 layout: post
 title: 'B07RTP99LW - Ofertón en Amazon para Ruicer 4 Piezas Ganchos Adhesivos para P'
 date: 2019/12/12 20:03:32 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41bJeD4NpJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

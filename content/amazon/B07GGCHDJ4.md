@@ -3,7 +3,7 @@ layout: post
 title: 'B07GGCHDJ4: Ahorra en Champion Freedom Seamless X2 Sujetador d'
 date: 2019/12/17 10:09:45 +0000
 comments: true
-tags: B07GGCHDJ4
+image: https://images-eu.ssl-images-amazon.com/images/I/41EjqXSFeZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GGCHDJ4

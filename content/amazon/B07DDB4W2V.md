@@ -3,7 +3,7 @@ layout: post
 title: 'B07DDB4W2V: Ahorra en find. Wool Mix Borg Collar Harrington Ch'
 date: 2019/12/24 08:28:40 +0000
 comments: true
-tags: B07DDB4W2V
+image: https://images-eu.ssl-images-amazon.com/images/I/31D%2BtEdj3ML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DDB4W2V

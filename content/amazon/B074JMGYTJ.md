@@ -3,7 +3,7 @@ layout: post
 title: 'B074JMGYTJ: Rebaja en Bulova Reloj de Pulsera 97C106 en Amazon'
 date: 2019/12/18 22:13:39 +0000
 comments: true
-tags: B074JMGYTJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41KQzrVbG3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B074JMGYTJ

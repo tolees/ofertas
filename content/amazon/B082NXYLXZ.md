@@ -3,7 +3,7 @@ layout: post
 title: 'B082NXYLXZ: Ahorra en MEGALITH Relojes Hombre Relojes de Pulse'
 date: 2020-01-04 19:40:04
 comments: true
-tags: B082NXYLXZ
+image: https://images-eu.ssl-images-amazon.com/images/I/61w4MVrEYcL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B082NXYLXZ

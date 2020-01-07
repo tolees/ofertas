@@ -3,7 +3,7 @@ layout: post
 title: 'B01DJNPZFY: Ahorra en Nike Wmns Court Borough Low  Zapatillas '
 date: 2019/12/16 22:37:26 +0000
 comments: true
-tags: B01DJNPZFY
+image: https://images-eu.ssl-images-amazon.com/images/I/41ntu9RdV9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01DJNPZFY

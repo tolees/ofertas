@@ -3,7 +3,7 @@ layout: post
 title: 'B07QGW93ZV: Rebaja en AmazonBasics - Canasto de tela  alto  cú en Amazon'
 date: 2019/12/12 18:06:27 +0000
 comments: true
-tags: B07QGW93ZV
+image: https://images-eu.ssl-images-amazon.com/images/I/41yDCnvjGSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QGW93ZV

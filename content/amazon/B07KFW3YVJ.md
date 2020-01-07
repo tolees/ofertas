@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFW3YVJ: Ahorra en PUMA Weave XT Wn s  Zapatillas Deportiva'
 date: 2020-01-03 11:41:26
 comments: true
-tags: B07KFW3YVJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41LFFP2VfdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KFW3YVJ

@@ -3,7 +3,7 @@ layout: post
 title: 'B07MX72ZXC: Rebaja en Conjunto de luces Lightailing para  Star en Amazon'
 date: 2020-01-05 23:15:01
 comments: true
-tags: B07MX72ZXC
+image: https://images-eu.ssl-images-amazon.com/images/I/411X71mRl%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MX72ZXC

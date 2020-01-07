@@ -2,6 +2,7 @@
 layout: post
 title: 'B0829XJDLN - Ofertón en Amazon para GODNECE Model Trucks to Build  3361Pcs C'
 date: 2019/12/26 17:05:28 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41q0uOuD5xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

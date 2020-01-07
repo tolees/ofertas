@@ -3,7 +3,7 @@ layout: post
 title: 'B079FWGHPF: Ahorra en find. Botín de Ante con Tacón Western Mu'
 date: 2019/12/21 09:07:47 +0000
 comments: true
-tags: B079FWGHPF
+image: https://images-eu.ssl-images-amazon.com/images/I/31oZ6fU4R-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079FWGHPF

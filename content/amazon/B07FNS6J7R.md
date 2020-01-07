@@ -3,7 +3,7 @@ layout: post
 title: 'B07FNS6J7R: Ahorra en LEGO Creator 31088 - Bewohner der Tiefse'
 date: 2020-01-05 22:35:14
 comments: true
-tags: B07FNS6J7R
+image: https://images-eu.ssl-images-amazon.com/images/I/51INW-hJ4jL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FNS6J7R

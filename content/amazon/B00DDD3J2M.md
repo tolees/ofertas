@@ -3,7 +3,7 @@ layout: post
 title: 'B00DDD3J2M: Ahorra en Oral-B TriZone 600 - Cepillo eléctrico r'
 date: 2020-01-06 18:41:19
 comments: true
-tags: B00DDD3J2M
+image: https://images-eu.ssl-images-amazon.com/images/I/51syjBWnvLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00DDD3J2M

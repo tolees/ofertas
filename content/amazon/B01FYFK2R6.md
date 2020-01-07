@@ -3,7 +3,7 @@ layout: post
 title: 'B01FYFK2R6: Rebaja en Aceite de Argán ORGÁNICO Certificado Veg en Amazon'
 date: 2020-01-03 22:13:36
 comments: true
-tags: B01FYFK2R6
+image: https://images-eu.ssl-images-amazon.com/images/I/41fbBKNHQcL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01FYFK2R6

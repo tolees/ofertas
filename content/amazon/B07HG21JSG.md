@@ -3,7 +3,7 @@ layout: post
 title: 'B07HG21JSG: Rebaja en New Balance 997h  Zapatillas para Mujer  en Amazon'
 date: 2019/12/12 18:35:42 +0000
 comments: true
-tags: B07HG21JSG
+image: https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HG21JSG

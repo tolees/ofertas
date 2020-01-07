@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRBQ6FC: Ahorra en GANT Footwear Portland  Zapatillas para '
 date: 2019/12/13 04:31:40 +0000
 comments: true
-tags: B07KRBQ6FC
+image: https://images-eu.ssl-images-amazon.com/images/I/41DZ%2BixcebL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KRBQ6FC

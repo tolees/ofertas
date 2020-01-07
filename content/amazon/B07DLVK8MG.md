@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DLVK8MG - Ofertón en Amazon para Tayhot - Reloj digital para hombre  colo'
 date: 2020-01-03 23:40:34
+image: https://images-eu.ssl-images-amazon.com/images/I/41uhX30pRBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

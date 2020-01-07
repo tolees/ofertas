@@ -3,7 +3,7 @@ layout: post
 title: 'B07MDTQX5L: Rebaja en The North Face Base Camp-M Mochila Duffe en Amazon'
 date: 2020-01-06 05:06:03
 comments: true
-tags: B07MDTQX5L
+image: https://images-eu.ssl-images-amazon.com/images/I/41tC3drPrzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MDTQX5L

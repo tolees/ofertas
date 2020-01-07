@@ -3,7 +3,7 @@ layout: post
 title: 'B00W7H3ZME: Ahorra en LEABAGS Fort Wayne Estuche de auténtico '
 date: 2019/12/19 08:13:57 +0000
 comments: true
-tags: B00W7H3ZME
+image: https://images-eu.ssl-images-amazon.com/images/I/41L62SXxy-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00W7H3ZME

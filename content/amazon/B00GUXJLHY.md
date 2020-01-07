@@ -3,7 +3,7 @@ layout: post
 title: 'B00GUXJLHY: Ahorra en Columbia Peakfreak Nomad Chukka WP Omni-'
 date: 2019/12/23 10:52:45 +0000
 comments: true
-tags: B00GUXJLHY
+image: https://images-eu.ssl-images-amazon.com/images/I/31gZd2IFgSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00GUXJLHY

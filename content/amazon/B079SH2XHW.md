@@ -3,7 +3,7 @@ layout: post
 title: 'B079SH2XHW: Rebaja en Pinypon By Piny - Casa de Estudiantes  F en Amazon'
 date: 2019/12/29 14:45:46 +0000
 comments: true
-tags: B079SH2XHW
+image: https://images-eu.ssl-images-amazon.com/images/I/51OufUTZdcL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079SH2XHW

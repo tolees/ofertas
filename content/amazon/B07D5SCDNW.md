@@ -2,6 +2,7 @@
 layout: post
 title: 'B07D5SCDNW - Ofertón en Amazon para Puma ESS Logo tee Camiseta Deportiva  Mu'
 date: 2019/12/23 10:58:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/317E30C%2BdkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

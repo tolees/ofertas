@@ -3,7 +3,7 @@ layout: post
 title: 'B01LX4RZDI: Rebaja en Playmobil 9060 Family Fun Aquarium with  en Amazon'
 date: 2020-01-07 06:26:55
 comments: true
-tags: B01LX4RZDI
+image: https://images-eu.ssl-images-amazon.com/images/I/51%2BvxgcMxzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LX4RZDI

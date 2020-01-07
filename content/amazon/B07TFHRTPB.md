@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TFHRTPB - Ofertón en Amazon para Cámara para Niños Kidizoom con Pantalla '
 date: 2019/12/19 12:00:22 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51MuAen3k9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

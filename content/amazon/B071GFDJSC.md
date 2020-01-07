@@ -2,6 +2,7 @@
 layout: post
 title: 'B071GFDJSC - Ofertón en Amazon para find. Zapatillas Deportivas con Textura '
 date: 2019/12/21 12:52:02 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31g5b-CiUDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

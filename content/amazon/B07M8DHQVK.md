@@ -3,7 +3,7 @@ layout: post
 title: 'B07M8DHQVK: Rebaja en Geox W Phaolae F Abrigo  Azul  Blue Nigh en Amazon'
 date: 2019/12/28 11:51:32 +0000
 comments: true
-tags: B07M8DHQVK
+image: https://images-eu.ssl-images-amazon.com/images/I/41WEudiiqwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M8DHQVK

@@ -3,7 +3,7 @@ layout: post
 title: 'B000EWYCX0: Rebaja en Faber-Castell 110011 - Estuche de metal  en Amazon'
 date: 2020-01-04 16:52:47
 comments: true
-tags: B000EWYCX0
+image: https://images-eu.ssl-images-amazon.com/images/I/41n6CbHU--L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B000EWYCX0

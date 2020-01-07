@@ -3,7 +3,7 @@ layout: post
 title: 'B07MLZS3G3: Rebaja en Spieland 35St. Custom Waffen Set für Min en Amazon'
 date: 2020-01-05 14:20:32
 comments: true
-tags: B07MLZS3G3
+image: https://images-eu.ssl-images-amazon.com/images/I/51Qtkreln-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MLZS3G3

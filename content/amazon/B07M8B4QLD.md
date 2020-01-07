@@ -3,7 +3,7 @@ layout: post
 title: 'B07M8B4QLD: Ahorra en Wrangler Western Check Shirt Blusa  Azul'
 date: 2019/12/22 08:32:02 +0000
 comments: true
-tags: B07M8B4QLD
+image: https://images-eu.ssl-images-amazon.com/images/I/51RPbJTrQoL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M8B4QLD

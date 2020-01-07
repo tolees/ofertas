@@ -3,7 +3,7 @@ layout: post
 title: 'B01L8DZWWS: Ahorra en Coche Electrico de Bateria 12V para Niño'
 date: 2020-01-06 17:50:07
 comments: true
-tags: B01L8DZWWS
+image: https://images-eu.ssl-images-amazon.com/images/I/51JomA-Y3QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01L8DZWWS

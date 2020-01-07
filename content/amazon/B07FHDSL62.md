@@ -3,7 +3,7 @@ layout: post
 title: 'B07FHDSL62: Ahorra en Stonefly Space Man 3 Nappa  Zapatos de C'
 date: 2019/12/18 15:47:41 +0000
 comments: true
-tags: B07FHDSL62
+image: https://images-eu.ssl-images-amazon.com/images/I/31RhdLJiuuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FHDSL62

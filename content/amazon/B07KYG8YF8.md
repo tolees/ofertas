@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KYG8YF8 - Ofertón en Amazon para Moliies Cámara Full HD 1080P DV Mini cám'
 date: 2019/12/18 13:52:23 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41eu9W1JIaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

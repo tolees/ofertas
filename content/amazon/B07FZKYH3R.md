@@ -3,7 +3,7 @@ layout: post
 title: 'B07FZKYH3R: Ahorra en adidas Tiro19 PES Jkt Sport Jacket  Homb'
 date: 2019/12/13 17:55:25 +0000
 comments: true
-tags: B07FZKYH3R
+image: https://images-eu.ssl-images-amazon.com/images/I/41q45FVyZ2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FZKYH3R

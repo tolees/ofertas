@@ -3,7 +3,7 @@ layout: post
 title: 'B07CWP94BP: Rebaja en TOUCHBeauty Rizador eléctrico portátil g en Amazon'
 date: 2019/12/16 08:18:32 +0000
 comments: true
-tags: B07CWP94BP
+image: https://images-eu.ssl-images-amazon.com/images/I/41HbqAcPfJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CWP94BP

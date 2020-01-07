@@ -2,6 +2,7 @@
 layout: post
 title: 'B01M20RZZE - Ofertón en Amazon para Playmobil 9134 Friendly Dragon with Baby'
 date: 2019/12/30 22:59:52 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51K9MPixFpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

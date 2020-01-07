@@ -3,7 +3,7 @@ layout: post
 title: 'B07WH1F5MC: Rebaja en NAIXUES 2019 Smartwatch Niños  Reloj Int en Amazon'
 date: 2020-01-01 14:56:26
 comments: true
-tags: B07WH1F5MC
+image: https://images-eu.ssl-images-amazon.com/images/I/51bsO3JrITL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WH1F5MC

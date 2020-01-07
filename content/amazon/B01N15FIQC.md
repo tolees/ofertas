@@ -3,7 +3,7 @@ layout: post
 title: 'B01N15FIQC: Ahorra en Set de 24 tubos de pinturas acrílicas Ze'
 date: 2020-01-06 18:29:58
 comments: true
-tags: B01N15FIQC
+image: https://images-eu.ssl-images-amazon.com/images/I/51UNZ6nK7gL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N15FIQC

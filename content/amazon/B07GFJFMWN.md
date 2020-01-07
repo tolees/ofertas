@@ -3,7 +3,7 @@ layout: post
 title: 'B07GFJFMWN: Ahorra en MASCHERI Protector de Pantalla para Sams'
 date: 2019/12/11 19:11:43 +0000
 comments: true
-tags: B07GFJFMWN
+image: https://images-eu.ssl-images-amazon.com/images/I/51Sty4mVXmL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GFJFMWN

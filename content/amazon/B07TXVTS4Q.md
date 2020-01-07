@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TXVTS4Q - Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Juras'
 date: 2020-01-06 06:06:59
+image: https://images-eu.ssl-images-amazon.com/images/I/51YJ9FkKNVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

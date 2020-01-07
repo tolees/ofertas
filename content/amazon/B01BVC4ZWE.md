@@ -2,6 +2,7 @@
 layout: post
 title: 'B01BVC4ZWE - Ofertón en Amazon para Christopeit Türreck Klimmzugstange  1688'
 date: 2020-01-02 19:17:54
+image: https://images-eu.ssl-images-amazon.com/images/I/41JPk%2Bw9YDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

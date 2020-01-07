@@ -3,7 +3,7 @@ layout: post
 title: 'B079NQMNFC: Ahorra en WMF Motion - Jarra de agua 1 25 l  altur'
 date: 2019/12/17 19:03:54 +0000
 comments: true
-tags: B079NQMNFC
+image: https://images-eu.ssl-images-amazon.com/images/I/41UduCLJcwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079NQMNFC

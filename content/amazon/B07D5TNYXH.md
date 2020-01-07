@@ -3,7 +3,7 @@ layout: post
 title: 'B07D5TNYXH: Ahorra en Celio Maestro Camisa  Blanc  Large para '
 date: 2020-01-02 14:57:33
 comments: true
-tags: B07D5TNYXH
+image: https://images-eu.ssl-images-amazon.com/images/I/31C7tGnW1HL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07D5TNYXH

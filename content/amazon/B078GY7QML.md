@@ -2,6 +2,7 @@
 layout: post
 title: 'B078GY7QML - Ofertón en Amazon para Adidas Duramo 9  Zapatillas de Entrenami'
 date: 2019/12/17 10:09:45 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41HpgBo9EiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

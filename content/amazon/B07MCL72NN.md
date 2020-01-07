@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MCL72NN - Ofertón en Amazon para Amilril Pendientes Mujer  Pendientes Per'
 date: 2019/12/28 10:49:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41xqY-ibIdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

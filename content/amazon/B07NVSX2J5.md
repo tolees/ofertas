@@ -3,7 +3,7 @@ layout: post
 title: 'B07NVSX2J5: Ahorra en Passionata Georgia Sujetador para Camise'
 date: 2019/12/23 17:52:41 +0000
 comments: true
-tags: B07NVSX2J5
+image: https://images-eu.ssl-images-amazon.com/images/I/41yTqVnE9fL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NVSX2J5

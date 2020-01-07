@@ -3,7 +3,7 @@ layout: post
 title: 'B00G7JVOOO: Rebaja en Caterpillar Cat Holton Botas de trabajo  en Amazon'
 date: 2019/12/23 16:36:57 +0000
 comments: true
-tags: B00G7JVOOO
+image: https://images-eu.ssl-images-amazon.com/images/I/41Ojlq77NpL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00G7JVOOO

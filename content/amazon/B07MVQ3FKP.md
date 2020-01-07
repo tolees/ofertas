@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MVQ3FKP - Ofertón en Amazon para PJ Masks - Megarover  Bandai 95380 '
 date: 2020-01-04 06:05:16
+image: https://images-eu.ssl-images-amazon.com/images/I/51mhQIWxbeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

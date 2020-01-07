@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KFZSGPG - Ofertón en Amazon para PUMA Drift Cat 5 AC  Zapatillas Unisex A'
 date: 2019/12/25 23:53:43 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31m7YwiNXTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00Y7R1RZO: Ahorra en Phenovo 25pcs Adornos Madera Forma Estre'
 date: 2019/12/23 01:25:13 +0000
 comments: true
-tags: B00Y7R1RZO
+image: https://images-eu.ssl-images-amazon.com/images/I/51XpHoNjQ9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00Y7R1RZO

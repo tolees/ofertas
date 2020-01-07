@@ -3,7 +3,7 @@ layout: post
 title: 'B07NBXSR9X: Ahorra en BOSS Piranha Pantalones Cortos  Rojo  Op'
 date: 2019/12/29 15:09:03 +0000
 comments: true
-tags: B07NBXSR9X
+image: https://images-eu.ssl-images-amazon.com/images/I/51dLYMaL8lL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NBXSR9X

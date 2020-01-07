@@ -3,7 +3,7 @@ layout: post
 title: 'B00JKCHNOU: Rebaja en Transcend JetDrive 520 240GB SATA III 6G en Amazon'
 date: 2019/12/22 10:37:59 +0000
 comments: true
-tags: B00JKCHNOU
+image: https://images-eu.ssl-images-amazon.com/images/I/215ozOoOSAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00JKCHNOU

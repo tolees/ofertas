@@ -3,7 +3,7 @@ layout: post
 title: 'B07MJRSTCR: Rebaja en HONCENMAX Funda Cubre Sofá - Protector p en Amazon'
 date: 2019/12/31 09:49:27 +0000
 comments: true
-tags: B07MJRSTCR
+image: https://images-eu.ssl-images-amazon.com/images/I/41OJlXhZ1CL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MJRSTCR

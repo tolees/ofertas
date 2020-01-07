@@ -3,7 +3,7 @@ layout: post
 title: 'B07N6VNZ4H: Ahorra en Tommy Hilfiger Leather Lifestyle Sneaker'
 date: 2019/12/28 20:25:19 +0000
 comments: true
-tags: B07N6VNZ4H
+image: https://images-eu.ssl-images-amazon.com/images/I/41B4rfxOxAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N6VNZ4H

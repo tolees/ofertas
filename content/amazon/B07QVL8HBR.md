@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QVL8HBR - Ofertón en Amazon para Huawei P30 Lite - Smartphone de 6.15"  W'
 date: 2020-01-05 20:39:11
+image: https://images-eu.ssl-images-amazon.com/images/I/417FcltSL7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

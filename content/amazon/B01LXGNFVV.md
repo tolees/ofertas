@@ -3,7 +3,7 @@ layout: post
 title: 'B01LXGNFVV: Rebaja en Playmobil 9003 Super 4 Skyjet with Dr. X en Amazon'
 date: 2019/12/11 13:34:02 +0000
 comments: true
-tags: B01LXGNFVV
+image: https://images-eu.ssl-images-amazon.com/images/I/61Yn9cdJcyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LXGNFVV

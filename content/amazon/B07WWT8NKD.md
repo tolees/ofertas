@@ -3,7 +3,7 @@ layout: post
 title: 'B07WWT8NKD: Rebaja en YOSICIL Princesa Disfraz de Princesa Fro en Amazon'
 date: 2020-01-07 06:35:30
 comments: true
-tags: B07WWT8NKD
+image: https://images-eu.ssl-images-amazon.com/images/I/51EalQ%2BHNEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WWT8NKD

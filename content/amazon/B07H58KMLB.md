@@ -3,7 +3,7 @@ layout: post
 title: 'B07H58KMLB: Ahorra en Garmin Instinct - wasserdichte Sport-Sma'
 date: 2019/12/29 08:54:17 +0000
 comments: true
-tags: B07H58KMLB
+image: https://images-eu.ssl-images-amazon.com/images/I/51Y7lwDQwRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07H58KMLB

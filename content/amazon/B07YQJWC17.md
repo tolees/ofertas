@@ -2,6 +2,7 @@
 layout: post
 title: 'B07YQJWC17 - Ofertón en Amazon para INPHIC Ratón inalámbrico  Slim Silent Cl'
 date: 2019/12/11 21:16:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/316Hl845bAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

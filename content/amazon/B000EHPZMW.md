@@ -2,6 +2,7 @@
 layout: post
 title: 'B000EHPZMW - Ofertón en Amazon para fischertechnik - 41859 ADVANCED Seilbahn'
 date: 2019/12/13 16:55:19 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51HJ3jr50bL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

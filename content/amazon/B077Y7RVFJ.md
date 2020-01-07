@@ -3,7 +3,7 @@ layout: post
 title: 'B077Y7RVFJ: Rebaja en HIKARO Chaqueta Ligera Estilo Parka con  en Amazon'
 date: 2019/12/20 01:38:29 +0000
 comments: true
-tags: B077Y7RVFJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41Iq2XgqaxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077Y7RVFJ

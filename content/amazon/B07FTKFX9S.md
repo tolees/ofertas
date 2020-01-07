@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FTKFX9S - Ofertón en Amazon para Lee Malone  Vaqueros Skinny para Hombre '
 date: 2019/12/21 18:13:52 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41UGesLMC%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

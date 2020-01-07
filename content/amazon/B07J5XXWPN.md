@@ -3,7 +3,7 @@ layout: post
 title: 'B07J5XXWPN: Ahorra en Skechers Bounder  Zapatillas para Hombre'
 date: 2019/12/11 21:05:02 +0000
 comments: true
-tags: B07J5XXWPN
+image: https://images-eu.ssl-images-amazon.com/images/I/41UKCeNSYEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07J5XXWPN

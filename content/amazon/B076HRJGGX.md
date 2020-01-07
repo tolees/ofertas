@@ -2,6 +2,7 @@
 layout: post
 title: 'B076HRJGGX - Ofertón en Amazon para adidas Regi18 TR Pantalón  Sin género  N'
 date: 2019/12/15 12:23:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41jf9w-OXjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

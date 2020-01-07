@@ -3,7 +3,7 @@ layout: post
 title: 'B01DJ0J4BI: Rebaja en EMPO Máscara para Dormir Máscara para lo en Amazon'
 date: 2019/12/30 12:47:08 +0000
 comments: true
-tags: B01DJ0J4BI
+image: https://images-eu.ssl-images-amazon.com/images/I/512FWE2PLqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01DJ0J4BI

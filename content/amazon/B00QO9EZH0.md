@@ -2,6 +2,7 @@
 layout: post
 title: 'B00QO9EZH0 - Ofertón en Amazon para Guirnaldas Solares Luminosas de 50 LEDs '
 date: 2019/12/29 18:06:16 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51rvQoo4J2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B0079WCPFU: Rebaja en Orbegozo HO 232 Horno eléctrico de sobre en Amazon'
 date: 2020-01-05 21:01:12
 comments: true
-tags: B0079WCPFU
+image: https://images-eu.ssl-images-amazon.com/images/I/41NcqslxvZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0079WCPFU

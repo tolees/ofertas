@@ -2,6 +2,7 @@
 layout: post
 title: 'B00CGPJRO2 - Ofertón en Amazon para Invisibobble Goma Color Amarillo - 3 Uni'
 date: 2019/12/25 21:08:46 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41XRpAJLOjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

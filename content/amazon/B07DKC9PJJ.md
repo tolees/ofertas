@@ -3,7 +3,7 @@ layout: post
 title: 'B07DKC9PJJ: Rebaja en Puma ESS Crew Sweat TR Big Logo Sweatshi en Amazon'
 date: 2019/12/18 22:11:28 +0000
 comments: true
-tags: B07DKC9PJJ
+image: https://images-eu.ssl-images-amazon.com/images/I/31S2mR1lFBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DKC9PJJ

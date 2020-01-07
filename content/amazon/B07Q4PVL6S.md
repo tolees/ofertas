@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q4PVL6S: Rebaja en Henry London Reloj Analógico para Unisex en Amazon'
 date: 2019/12/20 01:11:42 +0000
 comments: true
-tags: B07Q4PVL6S
+image: https://images-eu.ssl-images-amazon.com/images/I/31VHptIjiNL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Q4PVL6S

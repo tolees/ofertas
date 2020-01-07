@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZGM92SK: Ahorra en TONGJI Acryl Vitrine Mit Beleuchtungsset'
 date: 2019/12/11 14:19:51 +0000
 comments: true
-tags: B07ZGM92SK
+image: https://images-eu.ssl-images-amazon.com/images/I/412cq0J-Q9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07ZGM92SK

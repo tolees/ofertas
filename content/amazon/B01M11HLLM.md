@@ -3,7 +3,7 @@ layout: post
 title: 'B01M11HLLM: Ahorra en PLAYMOBIL Action 9090 RC-Rocket-Racer mi'
 date: 2019/12/16 00:01:22 +0000
 comments: true
-tags: B01M11HLLM
+image: https://images-eu.ssl-images-amazon.com/images/I/515S1CjCQGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01M11HLLM

@@ -3,7 +3,7 @@ layout: post
 title: 'B00TXSA6R2: Ahorra en Boucheron Quatre Agua de Perfume - 100 m'
 date: 2019/12/27 14:36:35 +0000
 comments: true
-tags: B00TXSA6R2
+image: https://images-eu.ssl-images-amazon.com/images/I/41sL3Zpv2VL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00TXSA6R2

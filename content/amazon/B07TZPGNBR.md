@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZPGNBR: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Star  en Amazon'
 date: 2020-01-07 06:15:49
 comments: true
-tags: B07TZPGNBR
+image: https://images-eu.ssl-images-amazon.com/images/I/41UYfQp1jBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TZPGNBR

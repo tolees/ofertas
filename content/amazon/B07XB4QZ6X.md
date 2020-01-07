@@ -2,6 +2,7 @@
 layout: post
 title: 'B07XB4QZ6X - Ofertón en Amazon para LAYJOY Funda iPhone XS MAX  Carcasa Lige'
 date: 2020-01-04 17:16:25
+image: https://images-eu.ssl-images-amazon.com/images/I/41AOuRS175L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

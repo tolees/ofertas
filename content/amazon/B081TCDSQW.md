@@ -3,7 +3,7 @@ layout: post
 title: 'B081TCDSQW: Ahorra en Disfraz Anna Frozen Niñas con Capa Princ'
 date: 2019/12/23 00:52:03 +0000
 comments: true
-tags: B081TCDSQW
+image: https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B081TCDSQW

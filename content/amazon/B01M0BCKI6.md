@@ -2,6 +2,7 @@
 layout: post
 title: 'B01M0BCKI6 - Ofertón en Amazon para Levi s 511 Mens Slim Fit Jeans - Comfort'
 date: 2019/12/30 07:20:59 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31JcB5855NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

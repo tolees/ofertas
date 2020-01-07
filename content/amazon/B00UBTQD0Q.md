@@ -3,7 +3,7 @@ layout: post
 title: 'B00UBTQD0Q: Rebaja en G-STAR RAW 3301 Tapered Jeans  Azul  dk  en Amazon'
 date: 2019/12/19 23:44:55 +0000
 comments: true
-tags: B00UBTQD0Q
+image: https://images-eu.ssl-images-amazon.com/images/I/31nrBbg0kAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00UBTQD0Q

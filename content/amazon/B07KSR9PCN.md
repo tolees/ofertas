@@ -3,7 +3,7 @@ layout: post
 title: 'B07KSR9PCN: Ahorra en Under Armour Move Graphic Pant Pantalone'
 date: 2019/12/16 02:02:22 +0000
 comments: true
-tags: B07KSR9PCN
+image: https://images-eu.ssl-images-amazon.com/images/I/41Ivnq8gOEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KSR9PCN

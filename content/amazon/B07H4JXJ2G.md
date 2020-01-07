@@ -3,7 +3,7 @@ layout: post
 title: 'B07H4JXJ2G: Rebaja en J.Endéar Pendientes de gota de Navidad   en Amazon'
 date: 2019/12/20 08:03:52 +0000
 comments: true
-tags: B07H4JXJ2G
+image: https://images-eu.ssl-images-amazon.com/images/I/4118U%2BmtdqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07H4JXJ2G

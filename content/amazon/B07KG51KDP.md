@@ -3,7 +3,7 @@ layout: post
 title: 'B07KG51KDP: Ahorra en Puma Future Runner Premium  Zapatillas U'
 date: 2020-01-03 17:13:30
 comments: true
-tags: B07KG51KDP
+image: https://images-eu.ssl-images-amazon.com/images/I/418nlXjohRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KG51KDP

@@ -3,7 +3,7 @@ layout: post
 title: 'B06XS1F4SG: Ahorra en Smoby 320212 - Disney Princess Frisiersa'
 date: 2019/12/29 16:17:05 +0000
 comments: true
-tags: B06XS1F4SG
+image: https://images-eu.ssl-images-amazon.com/images/I/41TweQG1LdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XS1F4SG

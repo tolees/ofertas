@@ -3,7 +3,7 @@ layout: post
 title: 'B07DMFRLZ3: Rebaja en Philips Avent SCD301/01 - Set de recién  en Amazon'
 date: 2020-01-05 13:11:16
 comments: true
-tags: B07DMFRLZ3
+image: https://images-eu.ssl-images-amazon.com/images/I/41Ku%2Bdz3L6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DMFRLZ3

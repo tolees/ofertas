@@ -3,7 +3,7 @@ layout: post
 title: 'B07KWTZZBC: Ahorra en RAVPOWER Bateria Externa para Movil  Pow'
 date: 2019/12/12 07:30:00 +0000
 comments: true
-tags: B07KWTZZBC
+image: https://images-eu.ssl-images-amazon.com/images/I/31xE00pgliL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KWTZZBC

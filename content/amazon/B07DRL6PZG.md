@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DRL6PZG - Ofertón en Amazon para Kipling ART POUCH Monedero  28 cm  1.5 l'
 date: 2020-01-05 19:05:29
+image: https://images-eu.ssl-images-amazon.com/images/I/41cuWP%2B0l3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

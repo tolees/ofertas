@@ -3,7 +3,7 @@ layout: post
 title: 'B07W5QZDXJ: Ahorra en Pop the Office Dwight as Elf Vinyl Figur'
 date: 2020-01-07 14:49:28
 comments: true
-tags: B07W5QZDXJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41VLxazFoNL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07W5QZDXJ

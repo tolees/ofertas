@@ -3,7 +3,7 @@ layout: post
 title: 'B01H57PGUE: Rebaja en Timewanderer - Guirnalda de luces LED de en Amazon'
 date: 2020-01-06 16:35:42
 comments: true
-tags: B01H57PGUE
+image: https://images-eu.ssl-images-amazon.com/images/I/511r6EgKrrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01H57PGUE

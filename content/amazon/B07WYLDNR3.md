@@ -3,7 +3,7 @@ layout: post
 title: 'B07WYLDNR3: Rebaja en Cargador de Batería Coche  BUDDYGO Nueva en Amazon'
 date: 2020-01-06 09:31:00
 comments: true
-tags: B07WYLDNR3
+image: https://images-eu.ssl-images-amazon.com/images/I/51hB8DQ-U9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WYLDNR3

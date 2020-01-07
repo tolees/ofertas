@@ -3,7 +3,7 @@ layout: post
 title: 'B07PLTMQ4W: Rebaja en Marco Digital de Fotos y Videos  RegeMou en Amazon'
 date: 2020-01-06 11:32:58
 comments: true
-tags: B07PLTMQ4W
+image: https://images-eu.ssl-images-amazon.com/images/I/41ADARaMiTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PLTMQ4W

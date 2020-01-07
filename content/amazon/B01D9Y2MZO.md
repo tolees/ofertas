@@ -3,7 +3,7 @@ layout: post
 title: 'B01D9Y2MZO: Ahorra en Clarins Solaire Lait Fondant Auto-Bronza'
 date: 2020-01-01 01:53:44
 comments: true
-tags: B01D9Y2MZO
+image: https://images-eu.ssl-images-amazon.com/images/I/31H1AuXbhVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01D9Y2MZO

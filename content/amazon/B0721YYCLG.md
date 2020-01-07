@@ -3,7 +3,7 @@ layout: post
 title: 'B0721YYCLG: Ahorra en Nike Bravata II TF  Zapatillas de Fútbol'
 date: 2019/12/16 13:46:03 +0000
 comments: true
-tags: B0721YYCLG
+image: https://images-eu.ssl-images-amazon.com/images/I/31zZZQw2PJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0721YYCLG

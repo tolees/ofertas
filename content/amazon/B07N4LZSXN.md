@@ -3,7 +3,7 @@ layout: post
 title: 'B07N4LZSXN: Ahorra en Levi s Fowler  Botas Slouch para Hombre '
 date: 2019/12/21 20:57:58 +0000
 comments: true
-tags: B07N4LZSXN
+image: https://images-eu.ssl-images-amazon.com/images/I/41scHiUuPLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N4LZSXN

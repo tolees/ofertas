@@ -2,6 +2,7 @@
 layout: post
 title: 'B07WS7PSFD - Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Leg'
 date: 2019/12/18 23:51:11 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51OMaVyAoJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

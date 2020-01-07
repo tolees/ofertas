@@ -3,7 +3,7 @@ layout: post
 title: 'B07BBF6G8J: Rebaja en Nautica Reloj Analogico para Hombre de C en Amazon'
 date: 2019/12/15 21:21:57 +0000
 comments: true
-tags: B07BBF6G8J
+image: https://images-eu.ssl-images-amazon.com/images/I/51YPt2VeOEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BBF6G8J

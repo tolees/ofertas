@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HHQNMCS - Ofertón en Amazon para Elegear Ski Gafas Snowboard Gafas Esquí '
 date: 2019/12/15 17:09:36 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/413d2okUShL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00NVDKWMY: Ahorra en LEGO Star Wars 75083 - AT-DP'
 date: 2019/12/26 09:12:37 +0000
 comments: true
-tags: B00NVDKWMY
+image: https://images-eu.ssl-images-amazon.com/images/I/61D4iyYDlEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00NVDKWMY

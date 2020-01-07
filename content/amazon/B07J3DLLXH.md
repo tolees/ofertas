@@ -3,7 +3,7 @@ layout: post
 title: 'B07J3DLLXH: Ahorra en Under Armour UA Streaker 2.0 Longsleeve '
 date: 2019/12/29 01:40:10 +0000
 comments: true
-tags: B07J3DLLXH
+image: https://images-eu.ssl-images-amazon.com/images/I/31xlzILr1gL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07J3DLLXH

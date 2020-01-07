@@ -3,7 +3,7 @@ layout: post
 title: 'B07V4CPYFM: Ahorra en Shinehalo Juego Conecta 4 en Línea Jumbo'
 date: 2020-01-02 11:39:50
 comments: true
-tags: B07V4CPYFM
+image: https://images-eu.ssl-images-amazon.com/images/I/41W2LhIyuCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07V4CPYFM

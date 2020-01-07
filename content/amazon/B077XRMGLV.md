@@ -3,7 +3,7 @@ layout: post
 title: 'B077XRMGLV: Rebaja en Under Armour Mens CGI Run Liner Guantes  en Amazon'
 date: 2019/12/16 09:16:30 +0000
 comments: true
-tags: B077XRMGLV
+image: https://images-eu.ssl-images-amazon.com/images/I/41jIO8VQLOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077XRMGLV

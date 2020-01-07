@@ -3,7 +3,7 @@ layout: post
 title: 'B07TLCC6W3: Rebaja en ROMIX Colchoneta de Yoga  Antideslizante en Amazon'
 date: 2019/12/25 20:49:01 +0000
 comments: true
-tags: B07TLCC6W3
+image: https://images-eu.ssl-images-amazon.com/images/I/51O0-iBag6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TLCC6W3

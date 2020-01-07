@@ -3,7 +3,7 @@ layout: post
 title: 'B00PVTJLCS: Rebaja en Marvel Avengers Assemble Hulk Stay Angry en Amazon'
 date: 2019/12/31 10:55:40 +0000
 comments: true
-tags: B00PVTJLCS
+image: https://images-eu.ssl-images-amazon.com/images/I/41LfruI1lPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00PVTJLCS

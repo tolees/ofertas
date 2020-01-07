@@ -2,6 +2,7 @@
 layout: post
 title: 'B07D9CG1RY - Ofertón en Amazon para TOSING X3 Micrófono de Karaoke para niño'
 date: 2019/12/12 11:30:29 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41n4uQHHuOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

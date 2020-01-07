@@ -3,7 +3,7 @@ layout: post
 title: 'B07QJLPGB2: Rebaja en Puma Reactive Chaqueta De Entrenamiento  en Amazon'
 date: 2019/12/25 19:56:17 +0000
 comments: true
-tags: B07QJLPGB2
+image: https://images-eu.ssl-images-amazon.com/images/I/41hifWWL1fL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QJLPGB2

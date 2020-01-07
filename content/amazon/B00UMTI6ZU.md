@@ -3,7 +3,7 @@ layout: post
 title: 'B00UMTI6ZU: Ahorra en Remolque Bicicleta Perros Mascota 1 Band'
 date: 2020-01-05 16:04:28
 comments: true
-tags: B00UMTI6ZU
+image: https://images-eu.ssl-images-amazon.com/images/I/4114XpYPjYL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00UMTI6ZU

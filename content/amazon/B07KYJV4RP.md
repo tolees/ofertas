@@ -3,7 +3,7 @@ layout: post
 title: 'B07KYJV4RP: Rebaja en AmazonBasics - Juego de fundas de edredó en Amazon'
 date: 2019/12/26 18:14:24 +0000
 comments: true
-tags: B07KYJV4RP
+image: https://images-eu.ssl-images-amazon.com/images/I/41Y4ODTUFTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KYJV4RP

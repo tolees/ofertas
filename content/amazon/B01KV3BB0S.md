@@ -3,7 +3,7 @@ layout: post
 title: 'B01KV3BB0S: Ahorra en Sennheiser GSP 300 Gaming Headset  mit N'
 date: 2019/12/10 22:29:42 +0000
 comments: true
-tags: B01KV3BB0S
+image: https://images-eu.ssl-images-amazon.com/images/I/41Rx5OJN-OL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01KV3BB0S

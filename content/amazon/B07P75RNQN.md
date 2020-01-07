@@ -2,6 +2,7 @@
 layout: post
 title: 'B07P75RNQN - Ofertón en Amazon para deAO Unidad de Defensa Base Militar Vehí'
 date: 2020-01-02 16:07:26
+image: https://images-eu.ssl-images-amazon.com/images/I/51GyzqncBSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

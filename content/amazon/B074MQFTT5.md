@@ -2,6 +2,7 @@
 layout: post
 title: 'B074MQFTT5 - Ofertón en Amazon para Cámara de acción Sansnail H9 Outdoor  mi'
 date: 2020-01-06 11:01:48
+image: https://images-eu.ssl-images-amazon.com/images/I/51P8yeRsU-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

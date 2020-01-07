@@ -2,6 +2,7 @@
 layout: post
 title: 'B00TZABEKG - Ofertón en Amazon para Kempa Emotion Classic Chaqueta De Chanda'
 date: 2019/12/16 14:36:45 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41ETsaC5O6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

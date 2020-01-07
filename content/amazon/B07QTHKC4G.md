@@ -3,7 +3,7 @@ layout: post
 title: 'B07QTHKC4G: Rebaja en HOMIEE Mochila para Portátil con Puerto  en Amazon'
 date: 2019/12/22 09:47:07 +0000
 comments: true
-tags: B07QTHKC4G
+image: https://images-eu.ssl-images-amazon.com/images/I/5108FqjNOrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QTHKC4G

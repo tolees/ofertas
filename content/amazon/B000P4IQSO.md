@@ -3,7 +3,7 @@ layout: post
 title: 'B000P4IQSO: Rebaja en Bosch X-Line Titanio - Maletín de 103 un en Amazon'
 date: 2019/12/31 07:31:56 +0000
 comments: true
-tags: B000P4IQSO
+image: https://images-eu.ssl-images-amazon.com/images/I/51dHAQ0LLBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B000P4IQSO

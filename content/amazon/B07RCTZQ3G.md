@@ -2,6 +2,7 @@
 layout: post
 title: 'B07RCTZQ3G - Ofertón en Amazon para Tosbess 12 Piezas Minifiguras y Arma  Po'
 date: 2020-01-07 06:45:48
+image: https://images-eu.ssl-images-amazon.com/images/I/51j83TD1BYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

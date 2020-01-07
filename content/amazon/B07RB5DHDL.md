@@ -2,6 +2,7 @@
 layout: post
 title: 'B07RB5DHDL - Ofertón en Amazon para PUMA Fundamentals Sports Bag M Bolsa Dep'
 date: 2019/12/19 23:11:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41Jgm419jiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00AXIVGVQ - Ofertón en Amazon para Result- Chaqueta Core cortavientos e imp'
 date: 2019/12/28 13:30:03 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41%2BA5gByJlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

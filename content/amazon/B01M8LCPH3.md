@@ -3,7 +3,7 @@ layout: post
 title: 'B01M8LCPH3: Ahorra en Redford Nizza  Camisa Hombre  Azul  Blau'
 date: 2020-01-06 11:09:04
 comments: true
-tags: B01M8LCPH3
+image: https://images-eu.ssl-images-amazon.com/images/I/31BPBUxSpQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01M8LCPH3

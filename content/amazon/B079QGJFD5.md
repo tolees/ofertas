@@ -3,7 +3,7 @@ layout: post
 title: 'B079QGJFD5: Rebaja en Levi s 502 Regular Taper Vaqueros  Azul  en Amazon'
 date: 2019/12/17 08:41:12 +0000
 comments: true
-tags: B079QGJFD5
+image: https://images-eu.ssl-images-amazon.com/images/I/41WjiOVeQqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079QGJFD5

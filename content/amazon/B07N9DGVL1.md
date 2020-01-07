@@ -2,6 +2,7 @@
 layout: post
 title: 'B07N9DGVL1 - Ofertón en Amazon para Timex Reloj de Pulsera TW2R70400'
 date: 2020-01-03 23:27:19
+image: https://images-eu.ssl-images-amazon.com/images/I/412krqpE6iL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

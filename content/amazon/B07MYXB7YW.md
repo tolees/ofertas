@@ -3,7 +3,7 @@ layout: post
 title: 'B07MYXB7YW: Ahorra en FLOUREON Cargador de Pilas  4 Ranuras Un'
 date: 2019/12/15 10:36:56 +0000
 comments: true
-tags: B07MYXB7YW
+image: https://images-eu.ssl-images-amazon.com/images/I/41%2BPh2X99HL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MYXB7YW

@@ -3,7 +3,7 @@ layout: post
 title: 'B077CWTKJY: Ahorra en Mapa Mundi Rascar viene con un Mapa Sorp'
 date: 2019/12/30 15:33:06 +0000
 comments: true
-tags: B077CWTKJY
+image: https://images-eu.ssl-images-amazon.com/images/I/612ufWy%2Bs1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077CWTKJY

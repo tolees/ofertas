@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CXXBTSQ - Ofertón en Amazon para Samsung EVO Select - Tarjeta de Memoria '
 date: 2020-01-05 17:55:48
+image: https://images-eu.ssl-images-amazon.com/images/I/31kZSTDY9AL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

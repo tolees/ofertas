@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JBZ3XP1 - Ofertón en Amazon para Columbia Powder Lite Jacket Chaqueta  Ho'
 date: 2019/12/30 18:56:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07HFVTY94: Rebaja en Autmor OBD II Auto Diagnóstico de Coches en Amazon'
 date: 2020-01-04 17:21:15
 comments: true
-tags: B07HFVTY94
+image: https://images-eu.ssl-images-amazon.com/images/I/41Hz2i1-2VL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HFVTY94

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DJ2LFP9 - Ofertón en Amazon para New Balance 230  Zapatos de Playa y Pisc'
 date: 2020-01-07 05:28:13
+image: https://images-eu.ssl-images-amazon.com/images/I/31pPKZzw1WL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

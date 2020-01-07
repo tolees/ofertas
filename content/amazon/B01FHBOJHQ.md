@@ -3,7 +3,7 @@ layout: post
 title: 'B01FHBOJHQ: Ahorra en URAQT Disfraz de Princesa Frozen Elsa  T'
 date: 2020-01-07 06:33:45
 comments: true
-tags: B01FHBOJHQ
+image: https://images-eu.ssl-images-amazon.com/images/I/51V0eml4PKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01FHBOJHQ

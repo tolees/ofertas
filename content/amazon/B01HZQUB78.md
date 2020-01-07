@@ -2,6 +2,7 @@
 layout: post
 title: 'B01HZQUB78 - Ofertón en Amazon para Nike Men s Air Max Command Multisport Ou'
 date: 2019/12/12 16:02:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41H5k2yt0oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

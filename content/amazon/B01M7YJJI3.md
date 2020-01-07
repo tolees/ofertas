@@ -3,7 +3,7 @@ layout: post
 title: 'B01M7YJJI3: Rebaja en Funko Pop! - Bobble: Marvel: Guardians O en Amazon'
 date: 2019/12/21 14:38:40 +0000
 comments: true
-tags: B01M7YJJI3
+image: https://images-eu.ssl-images-amazon.com/images/I/51n4dkiJ0RL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01M7YJJI3

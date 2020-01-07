@@ -3,7 +3,7 @@ layout: post
 title: 'B01H4OHASE: Rebaja en Impermeable Con Cremallera Bolsa De Paña en Amazon'
 date: 2020-01-06 13:41:09
 comments: true
-tags: B01H4OHASE
+image: https://images-eu.ssl-images-amazon.com/images/I/51cOBfEIjOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01H4OHASE

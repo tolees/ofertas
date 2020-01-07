@@ -3,7 +3,7 @@ layout: post
 title: 'B07KH2XV6J: Rebaja en Under Armour UA Rush Tank Tanque  Mujer  en Amazon'
 date: 2019/12/24 07:31:59 +0000
 comments: true
-tags: B07KH2XV6J
+image: https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KH2XV6J

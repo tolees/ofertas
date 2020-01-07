@@ -3,7 +3,7 @@ layout: post
 title: 'B07W4BHM6W: Rebaja en DOOGEE N20 Smartphone Libres  2019 Andro en Amazon'
 date: 2019-12-31 19:46:58
 comments: true
-tags: B07W4BHM6W
+image: https://images-eu.ssl-images-amazon.com/images/I/417-TEvXn6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07W4BHM6W

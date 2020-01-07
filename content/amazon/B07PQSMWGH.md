@@ -3,7 +3,7 @@ layout: post
 title: 'B07PQSMWGH: Rebaja en deAO Juego del Lejano Oeste Conjunto de  en Amazon'
 date: 2019/12/24 18:09:49 +0000
 comments: true
-tags: B07PQSMWGH
+image: https://images-eu.ssl-images-amazon.com/images/I/51bqswWB4tL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PQSMWGH

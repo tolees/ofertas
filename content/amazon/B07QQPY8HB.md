@@ -3,7 +3,7 @@ layout: post
 title: 'B07QQPY8HB: Ahorra en AmzBarley Anna Coronation Dress for Girl'
 date: 2019/12/22 08:26:48 +0000
 comments: true
-tags: B07QQPY8HB
+image: https://images-eu.ssl-images-amazon.com/images/I/41GlvuJTHGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QQPY8HB

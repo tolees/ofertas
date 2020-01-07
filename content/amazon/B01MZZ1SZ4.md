@@ -3,7 +3,7 @@ layout: post
 title: 'B01MZZ1SZ4: Rebaja en Esprit - Reloj de Cuarzo para Mujer en Amazon'
 date: 2019/12/14 09:08:57 +0000
 comments: true
-tags: B01MZZ1SZ4
+image: https://images-eu.ssl-images-amazon.com/images/I/510JDt7kdnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MZZ1SZ4

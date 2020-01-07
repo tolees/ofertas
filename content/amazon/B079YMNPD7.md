@@ -3,7 +3,7 @@ layout: post
 title: 'B079YMNPD7: Rebaja en Funko Pop!- Pop Marvel: Spider-Man Miles en Amazon'
 date: 2019/12/14 00:29:26 +0000
 comments: true
-tags: B079YMNPD7
+image: https://images-eu.ssl-images-amazon.com/images/I/41rUfpxmNEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079YMNPD7

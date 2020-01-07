@@ -3,7 +3,7 @@ layout: post
 title: 'B07MTWHWZ1: Ahorra en Logitech G332 Gaming-Kopfhörer  mit Ster'
 date: 2019/12/14 10:00:09 +0000
 comments: true
-tags: B07MTWHWZ1
+image: https://images-eu.ssl-images-amazon.com/images/I/41qhXHRKvkL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MTWHWZ1

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QX2SVGY - Ofertón en Amazon para Sistema de riego de jardín  Emooqi 90 Pc'
 date: 2019/12/29 08:01:05 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51IPiGxIkRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

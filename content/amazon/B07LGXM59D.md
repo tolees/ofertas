@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LGXM59D - Ofertón en Amazon para Salomon Trailblazer Mochila de Senderism'
 date: 2019/12/13 11:22:07 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41SDOFeHR9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CMD1BC4 - Ofertón en Amazon para LG PK3 XBOOM Go Bluetooth Party Speaker '
 date: 2020-01-03 11:47:55
+image: https://images-eu.ssl-images-amazon.com/images/I/41uA02ff82L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

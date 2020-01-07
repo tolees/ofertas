@@ -3,7 +3,7 @@ layout: post
 title: 'B07F19XBWP: Rebaja en Marca Amazon - Goodthreads - Camiseta es en Amazon'
 date: 2019/12/19 14:50:07 +0000
 comments: true
-tags: B07F19XBWP
+image: https://images-eu.ssl-images-amazon.com/images/I/41mewhc4s4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F19XBWP

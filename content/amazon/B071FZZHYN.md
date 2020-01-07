@@ -3,7 +3,7 @@ layout: post
 title: 'B071FZZHYN: Rebaja en Memoria USB 32GB  Flash Drive Aluminio   en Amazon'
 date: 2019/12/11 08:33:58 +0000
 comments: true
-tags: B071FZZHYN
+image: https://images-eu.ssl-images-amazon.com/images/I/311ZUBrG6pL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B071FZZHYN

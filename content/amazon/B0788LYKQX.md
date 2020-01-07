@@ -3,7 +3,7 @@ layout: post
 title: 'B0788LYKQX: Rebaja en Tommy Hilfiger X Sujetador Estilo Bralet en Amazon'
 date: 2019/12/20 10:29:10 +0000
 comments: true
-tags: B0788LYKQX
+image: https://images-eu.ssl-images-amazon.com/images/I/51VyRqgkgmL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0788LYKQX

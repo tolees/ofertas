@@ -3,7 +3,7 @@ layout: post
 title: 'B079LFKZ2G: Ahorra en Relojes Hombre Relojes de Pulsera Marea '
 date: 2020-01-05 15:03:06
 comments: true
-tags: B079LFKZ2G
+image: https://images-eu.ssl-images-amazon.com/images/I/61K4dE8lD9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079LFKZ2G

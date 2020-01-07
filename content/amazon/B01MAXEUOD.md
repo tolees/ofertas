@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MAXEUOD - Ofertón en Amazon para Vicloon Ice Princess Elsa Accessories Se'
 date: 2019/12/31 06:12:47 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41THogHw7BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

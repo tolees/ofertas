@@ -3,7 +3,7 @@ layout: post
 title: 'B082W5MMSM: Ahorra en GODNECE Technic Racing Car  1:8 Race Car'
 date: 2020-01-07 06:22:09
 comments: true
-tags: B082W5MMSM
+image: https://images-eu.ssl-images-amazon.com/images/I/51etCFJo21L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B082W5MMSM

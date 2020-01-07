@@ -3,7 +3,7 @@ layout: post
 title: 'B07RQGZ6DL: Ahorra en E27 Retro Bombilla  Vintage Straight Wir'
 date: 2019/12/23 18:51:16 +0000
 comments: true
-tags: B07RQGZ6DL
+image: https://images-eu.ssl-images-amazon.com/images/I/31rMCJpzLCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RQGZ6DL

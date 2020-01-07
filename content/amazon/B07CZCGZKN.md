@@ -3,7 +3,7 @@ layout: post
 title: 'B07CZCGZKN: Rebaja en Salomon XA Pro 3D GTX W  Zapatillas de T en Amazon'
 date: 2019/12/17 18:46:14 +0000
 comments: true
-tags: B07CZCGZKN
+image: https://images-eu.ssl-images-amazon.com/images/I/51i6Y2M62YL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CZCGZKN

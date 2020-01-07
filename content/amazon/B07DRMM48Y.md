@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DRMM48Y - Ofertón en Amazon para Kipling ART M Bolsa de tela y playa  58 '
 date: 2019/12/24 14:03:16 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41zaGnJd0cL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

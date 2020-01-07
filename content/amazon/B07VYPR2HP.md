@@ -2,6 +2,7 @@
 layout: post
 title: 'B07VYPR2HP - Ofertón en Amazon para YABER Proyector Full HD 1080P  1920 x 10'
 date: 2020-01-06 00:45:32
+image: https://images-eu.ssl-images-amazon.com/images/I/41q20fn58dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRL2JB8: Rebaja en New Balance Cm997hv1  Zapatillas para Ho en Amazon'
 date: 2019/12/26 15:47:12 +0000
 comments: true
-tags: B07KRL2JB8
+image: https://images-eu.ssl-images-amazon.com/images/I/41HplG-8fAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KRL2JB8

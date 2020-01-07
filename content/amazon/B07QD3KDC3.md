@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QD3KDC3 - Ofertón en Amazon para WisFox Ratón inalámbrico  2.4G Óptico Ra'
 date: 2020-01-03 07:20:23
+image: https://images-eu.ssl-images-amazon.com/images/I/41W86cozLHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

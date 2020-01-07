@@ -3,7 +3,7 @@ layout: post
 title: 'B07LGHWPR7: Ahorra en BRIKSMAX Volkswagen Käfer Led Beleuchtun'
 date: 2019/12/23 00:48:04 +0000
 comments: true
-tags: B07LGHWPR7
+image: https://images-eu.ssl-images-amazon.com/images/I/41o4VVON9hL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LGHWPR7

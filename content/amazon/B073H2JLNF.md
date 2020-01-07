@@ -3,7 +3,7 @@ layout: post
 title: 'B073H2JLNF: Ahorra en Clarks Batcombe Hall Derby - Zapatos de '
 date: 2019/12/24 11:42:56 +0000
 comments: true
-tags: B073H2JLNF
+image: https://images-eu.ssl-images-amazon.com/images/I/41xmAPK7g7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073H2JLNF

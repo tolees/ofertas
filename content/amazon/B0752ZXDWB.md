@@ -2,6 +2,7 @@
 layout: post
 title: 'B0752ZXDWB - Ofertón en Amazon para PowerA - Caja Para Juegos Premium  Model'
 date: 2019/12/16 12:18:48 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/318AoKoNdbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

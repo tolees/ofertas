@@ -2,6 +2,7 @@
 layout: post
 title: 'B007BTYLFI - Ofertón en Amazon para ACV - Marco de metal para radio de coche'
 date: 2019/12/12 17:25:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51KfXNki5LL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

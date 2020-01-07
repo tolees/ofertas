@@ -3,7 +3,7 @@ layout: post
 title: 'B00MFQOTKO: Rebaja en Tectonic 41-6103-14 - Reloj de cuarzo un en Amazon'
 date: 2019/12/24 15:17:35 +0000
 comments: true
-tags: B00MFQOTKO
+image: https://images-eu.ssl-images-amazon.com/images/I/41PrDt7OLYL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00MFQOTKO

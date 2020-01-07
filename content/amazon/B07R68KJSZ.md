@@ -2,6 +2,7 @@
 layout: post
 title: 'B07R68KJSZ - Ofertón en Amazon para Cabezal de Recambio para Oral-B Cepillo '
 date: 2019/12/14 19:37:35 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

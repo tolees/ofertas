@@ -2,6 +2,7 @@
 layout: post
 title: 'B07F1QGH2H - Ofertón en Amazon para Hatteker Cortapelos Profesional Hombre C'
 date: 2020-01-03 09:07:59
+image: https://images-eu.ssl-images-amazon.com/images/I/41jJUGuOepL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

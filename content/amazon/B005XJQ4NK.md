@@ -3,7 +3,7 @@ layout: post
 title: 'B005XJQ4NK: Rebaja en Eastpak Rusher Bolso bandolera  23 cm  c en Amazon'
 date: 2020-01-07 07:41:32
 comments: true
-tags: B005XJQ4NK
+image: https://images-eu.ssl-images-amazon.com/images/I/41Zmy9GwheL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B005XJQ4NK

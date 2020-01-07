@@ -3,7 +3,7 @@ layout: post
 title: 'B07N17RTPN: Ahorra en Lee Hoodie SWS  Sudadera para Hombre  Am'
 date: 2020-01-05 22:22:34
 comments: true
-tags: B07N17RTPN
+image: https://images-eu.ssl-images-amazon.com/images/I/41-j9M2Z1fL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N17RTPN

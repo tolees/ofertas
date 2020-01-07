@@ -3,7 +3,7 @@ layout: post
 title: 'B07DCBLYBH: Ahorra en PUMA Vikky Stacked L  Zapatillas para Mu'
 date: 2019/12/30 20:56:27 +0000
 comments: true
-tags: B07DCBLYBH
+image: https://images-eu.ssl-images-amazon.com/images/I/31a-eg57S6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DCBLYBH

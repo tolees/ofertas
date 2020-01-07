@@ -3,7 +3,7 @@ layout: post
 title: 'B07VBM1HW8: Ahorra en GODNECE Light Set for Lego  Led Lighting'
 date: 2020-01-06 14:22:16
 comments: true
-tags: B07VBM1HW8
+image: https://images-eu.ssl-images-amazon.com/images/I/41hm2Y3G-iL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VBM1HW8

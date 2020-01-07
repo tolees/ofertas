@@ -3,7 +3,7 @@ layout: post
 title: 'B07JZ5NWH2: Rebaja en Adidas Forest Grove C  Zapatillas de Gim en Amazon'
 date: 2019/12/30 20:43:00 +0000
 comments: true
-tags: B07JZ5NWH2
+image: https://images-eu.ssl-images-amazon.com/images/I/31LWiIJta9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JZ5NWH2

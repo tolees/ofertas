@@ -3,7 +3,7 @@ layout: post
 title: 'B07PZXLH33: Rebaja en Lenovo Ideapad 530S-14IKB  Ordenador Por en Amazon'
 date: 2020-01-02 12:16:24
 comments: true
-tags: B07PZXLH33
+image: https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PZXLH33

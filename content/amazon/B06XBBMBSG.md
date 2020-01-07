@@ -3,7 +3,7 @@ layout: post
 title: 'B06XBBMBSG: Rebaja en Desmontar y ensamblar Coches con la Herr en Amazon'
 date: 2020-01-05 08:26:23
 comments: true
-tags: B06XBBMBSG
+image: https://images-eu.ssl-images-amazon.com/images/I/51LPs4NWw1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XBBMBSG

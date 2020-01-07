@@ -3,7 +3,7 @@ layout: post
 title: 'B07FQNN2MB: Rebaja en iRobot Roomba e5154 - Robot Aspirador Óp en Amazon'
 date: 2020-01-04 19:22:44
 comments: true
-tags: B07FQNN2MB
+image: https://images-eu.ssl-images-amazon.com/images/I/41i0OnzwSlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FQNN2MB

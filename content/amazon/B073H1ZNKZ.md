@@ -3,7 +3,7 @@ layout: post
 title: 'B073H1ZNKZ: Rebaja en Clarks Batcombe Hall Derby - Zapatos de  en Amazon'
 date: 2019/12/26 12:53:34 +0000
 comments: true
-tags: B073H1ZNKZ
+image: https://images-eu.ssl-images-amazon.com/images/I/41xmAPK7g7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073H1ZNKZ

@@ -3,7 +3,7 @@ layout: post
 title: 'B01L8NDHCK: Rebaja en TomTom GO 520 - Navegador 5 pulgadas  ll en Amazon'
 date: 2019/12/20 00:14:34 +0000
 comments: true
-tags: B01L8NDHCK
+image: https://images-eu.ssl-images-amazon.com/images/I/51MkLc2IrKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01L8NDHCK

@@ -2,6 +2,7 @@
 layout: post
 title: 'B077MG7LKQ - Ofertón en Amazon para Puma Puma Smash v2  Unisex-Erwachsene Sn'
 date: 2019/12/13 07:50:14 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51icT8Y3QML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B078KNZC5G: Rebaja en Urban Classics 2-Tone Tech Windrunner Ch en Amazon'
 date: 2019-12-31 17:34:20
 comments: true
-tags: B078KNZC5G
+image: https://images-eu.ssl-images-amazon.com/images/I/41wCUOUIdqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078KNZC5G

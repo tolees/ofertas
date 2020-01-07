@@ -2,6 +2,7 @@
 layout: post
 title: 'B07D17WXRL - Ofertón en Amazon para find. Leopard Jacquard Falda de Mujer  N'
 date: 2019/12/28 12:19:53 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31yYC092LVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

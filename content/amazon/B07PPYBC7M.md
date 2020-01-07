@@ -3,7 +3,7 @@ layout: post
 title: 'B07PPYBC7M: Ahorra en Mochila Antirrobo Impermeable  Mochila P'
 date: 2020-01-06 10:21:13
 comments: true
-tags: B07PPYBC7M
+image: https://images-eu.ssl-images-amazon.com/images/I/41gyBijCY1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PPYBC7M

@@ -3,7 +3,7 @@ layout: post
 title: 'B077V6BWXW: Rebaja en Kipling Creativity L  Monedero para Muje en Amazon'
 date: 2019/12/17 18:03:28 +0000
 comments: true
-tags: B077V6BWXW
+image: https://images-eu.ssl-images-amazon.com/images/I/417w3qd0eoL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077V6BWXW

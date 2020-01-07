@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KWL7JFQ - Ofertón en Amazon para Lego Wear Jungen Lego Tec Play LWPLATON '
 date: 2019/12/12 13:15:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31l%2BdQrejrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

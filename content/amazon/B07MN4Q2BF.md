@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MN4Q2BF - Ofertón en Amazon para Wrangler Texas Contrast Vaqueros  Azul  '
 date: 2019/12/23 08:16:25 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41-dweQdcHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

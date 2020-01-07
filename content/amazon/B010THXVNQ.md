@@ -3,7 +3,7 @@ layout: post
 title: 'B010THXVNQ: Ahorra en Sony Alpha ILCE7RM2B - Cámara EVIL Full '
 date: 2019/12/13 07:05:11 +0000
 comments: true
-tags: B010THXVNQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B010THXVNQ

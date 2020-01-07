@@ -2,6 +2,7 @@
 layout: post
 title: 'B00U3O8QIG - Ofertón en Amazon para Pepe Jeans Hatch  Vaqueros Slim para Hom'
 date: 2019/12/29 19:57:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31Zqbe-QkbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

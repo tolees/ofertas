@@ -3,7 +3,7 @@ layout: post
 title: 'B07MSK5Z5G: Ahorra en Clarks Arla Free  Zapatos de Cordones De'
 date: 2019-12-31 19:06:42
 comments: true
-tags: B07MSK5Z5G
+image: https://images-eu.ssl-images-amazon.com/images/I/31PUDrtsvAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MSK5Z5G

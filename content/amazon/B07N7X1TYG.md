@@ -2,6 +2,7 @@
 layout: post
 title: 'B07N7X1TYG - Ofertón en Amazon para keeeper Fredo Fresh Fiambreras  PP  Azul'
 date: 2019/12/27 08:07:10 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41kGnvZ92-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

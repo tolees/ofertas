@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCXS3ZV: Rebaja en Invicta 28147 Aviator  Reloj para Hombre en Amazon'
 date: 2019/12/11 23:49:29 +0000
 comments: true
-tags: B07MCXS3ZV
+image: https://images-eu.ssl-images-amazon.com/images/I/41eL5u-g%2BJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MCXS3ZV

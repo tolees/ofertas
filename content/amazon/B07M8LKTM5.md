@@ -3,7 +3,7 @@ layout: post
 title: 'B07M8LKTM5: Rebaja en Wrangler SS Logo tee Camiseta  Azul  Nav en Amazon'
 date: 2020-01-05 18:40:50
 comments: true
-tags: B07M8LKTM5
+image: https://images-eu.ssl-images-amazon.com/images/I/41Vucur85TL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M8LKTM5

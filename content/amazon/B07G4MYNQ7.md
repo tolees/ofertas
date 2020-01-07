@@ -2,6 +2,7 @@
 layout: post
 title: 'B07G4MYNQ7 - Ofertón en Amazon para Michael Kors Reloj Analógico para Mujer '
 date: 2019/12/26 11:33:05 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41GR7cfV2PL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

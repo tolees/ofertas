@@ -3,7 +3,7 @@ layout: post
 title: 'B071NZPH5R: Rebaja en Thomas Earnshaw Smart Watch Armbanduhr E en Amazon'
 date: 2019/12/11 00:54:04 +0000
 comments: true
-tags: B071NZPH5R
+image: https://images-eu.ssl-images-amazon.com/images/I/415ehzxpDML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B071NZPH5R

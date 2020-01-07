@@ -3,7 +3,7 @@ layout: post
 title: 'B0714FLNKL: Rebaja en Dickie Coche radiocontrol Rayo McQueen d en Amazon'
 date: 2019/12/15 18:21:31 +0000
 comments: true
-tags: B0714FLNKL
+image: https://images-eu.ssl-images-amazon.com/images/I/51al37DtslL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0714FLNKL

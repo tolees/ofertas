@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TX5YRKG - Ofertón en Amazon para Women s Casual Loose Sleeveless Sundress'
 date: 2020-01-05 22:08:27
+image: https://images-eu.ssl-images-amazon.com/images/I/41eNpcqj0uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

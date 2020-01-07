@@ -3,7 +3,7 @@ layout: post
 title: 'B07GBC1PHM: Rebaja en Cordel de Yute 2 Rollo 328 Pies de Cuerd en Amazon'
 date: 2019-12-31 22:44:03
 comments: true
-tags: B07GBC1PHM
+image: https://images-eu.ssl-images-amazon.com/images/I/518EE%2BHbbtL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GBC1PHM

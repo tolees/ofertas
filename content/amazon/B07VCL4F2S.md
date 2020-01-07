@@ -3,7 +3,7 @@ layout: post
 title: 'B07VCL4F2S: Rebaja en deAO Mi Primera Muñeca Bebé Conjunto Set en Amazon'
 date: 2019/12/14 20:07:49 +0000
 comments: true
-tags: B07VCL4F2S
+image: https://images-eu.ssl-images-amazon.com/images/I/514TCCOzwOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VCL4F2S

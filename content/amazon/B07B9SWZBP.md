@@ -3,7 +3,7 @@ layout: post
 title: 'B07B9SWZBP: Ahorra en Relojes para Hombres LIGE mecánico autom'
 date: 2020-01-06 12:44:36
 comments: true
-tags: B07B9SWZBP
+image: https://images-eu.ssl-images-amazon.com/images/I/51IOPyRjvKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B9SWZBP

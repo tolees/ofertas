@@ -3,7 +3,7 @@ layout: post
 title: 'B06XCJKRL4: Rebaja en Clarks Adriel Viola  Zapatos de Tacón pa en Amazon'
 date: 2019/12/16 17:45:08 +0000
 comments: true
-tags: B06XCJKRL4
+image: https://images-eu.ssl-images-amazon.com/images/I/41uQd%2BsUV3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XCJKRL4

@@ -3,7 +3,7 @@ layout: post
 title: 'B07B8PWKC7: Ahorra en Fila Disruptor Low  Zapatillas para Homb'
 date: 2020-01-05 17:38:21
 comments: true
-tags: B07B8PWKC7
+image: https://images-eu.ssl-images-amazon.com/images/I/41NsxWy2n%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B8PWKC7

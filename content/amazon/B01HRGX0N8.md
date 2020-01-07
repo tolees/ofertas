@@ -3,7 +3,7 @@ layout: post
 title: 'B01HRGX0N8: Rebaja en Ravensburger- Juego Laberinto  Glow in T en Amazon'
 date: 2019/12/30 17:45:18 +0000
 comments: true
-tags: B01HRGX0N8
+image: https://images-eu.ssl-images-amazon.com/images/I/61SaNdT7XkL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01HRGX0N8

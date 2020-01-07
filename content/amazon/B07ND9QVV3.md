@@ -2,6 +2,7 @@
 layout: post
 title: 'B07ND9QVV3 - Ofertón en Amazon para LEGO 41168 Disney Frozen II Elsa s Jewel'
 date: 2019/12/17 12:49:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51c6cBEOlLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

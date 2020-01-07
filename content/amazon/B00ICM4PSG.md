@@ -2,6 +2,7 @@
 layout: post
 title: 'B00ICM4PSG - Ofertón en Amazon para Jaegerndorfer JaegerndorferJC54400 6 Pie'
 date: 2020-01-04 22:15:49
+image: https://images-eu.ssl-images-amazon.com/images/I/413n6Wl3cnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

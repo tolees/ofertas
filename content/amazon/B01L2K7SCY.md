@@ -3,7 +3,7 @@ layout: post
 title: 'B01L2K7SCY: Rebaja en BaByliss ST481E Pure Metal Plancha de pe en Amazon'
 date: 2019/12/26 11:27:17 +0000
 comments: true
-tags: B01L2K7SCY
+image: https://images-eu.ssl-images-amazon.com/images/I/319WCAw2UZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01L2K7SCY

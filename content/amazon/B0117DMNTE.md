@@ -2,6 +2,7 @@
 layout: post
 title: 'B0117DMNTE - Ofertón en Amazon para Citizen Reloj Analógico para Hombre de C'
 date: 2019/12/16 22:42:08 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41RPE1jTcXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

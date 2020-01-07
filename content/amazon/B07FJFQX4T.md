@@ -3,7 +3,7 @@ layout: post
 title: 'B07FJFQX4T: Rebaja en Adidas Tubular Shadow CK  Zapatillas par en Amazon'
 date: 2019/12/12 18:03:25 +0000
 comments: true
-tags: B07FJFQX4T
+image: https://images-eu.ssl-images-amazon.com/images/I/41vIQP4pUnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FJFQX4T

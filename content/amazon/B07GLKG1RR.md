@@ -3,7 +3,7 @@ layout: post
 title: 'B07GLKG1RR: Rebaja en Cybex Gold - Silla de coche Solution S-F en Amazon'
 date: 2019-12-31 18:18:09
 comments: true
-tags: B07GLKG1RR
+image: https://images-eu.ssl-images-amazon.com/images/I/41STnNEkWqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GLKG1RR

@@ -3,7 +3,7 @@ layout: post
 title: 'B07PBBYT46: Ahorra en Funko 41965 POP Vinyl: Movies: Silence o'
 date: 2020-01-05 14:08:41
 comments: true
-tags: B07PBBYT46
+image: https://images-eu.ssl-images-amazon.com/images/I/31KZj7GOwSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PBBYT46

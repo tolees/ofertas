@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBLLN5C: Ahorra en Tommy Hilfiger Saba Short Packable Windb'
 date: 2019/12/28 08:10:48 +0000
 comments: true
-tags: B07LBLLN5C
+image: https://images-eu.ssl-images-amazon.com/images/I/411x7T5eyXL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LBLLN5C

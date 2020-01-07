@@ -2,6 +2,7 @@
 layout: post
 title: 'B00NPXZUOU - Ofertón en Amazon para HOMCOM Pizarra Magnética con 10 Imanes +'
 date: 2019/12/30 12:13:57 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41hHfm8joWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

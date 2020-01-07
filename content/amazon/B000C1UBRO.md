@@ -3,7 +3,7 @@ layout: post
 title: 'B000C1UBRO: Ahorra en Calvin Klein Eternity Moment - Agua de p'
 date: 2019/12/24 17:11:35 +0000
 comments: true
-tags: B000C1UBRO
+image: https://images-eu.ssl-images-amazon.com/images/I/21LbU0TUI0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B000C1UBRO

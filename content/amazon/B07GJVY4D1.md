@@ -3,7 +3,7 @@ layout: post
 title: 'B07GJVY4D1: Rebaja en Krups Dolce Gusto Infinissima KP1705 - C en Amazon'
 date: 2020-01-03 18:14:31
 comments: true
-tags: B07GJVY4D1
+image: https://images-eu.ssl-images-amazon.com/images/I/41RSXEWdNuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GJVY4D1

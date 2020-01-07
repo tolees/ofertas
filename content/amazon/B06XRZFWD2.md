@@ -3,7 +3,7 @@ layout: post
 title: 'B06XRZFWD2: Rebaja en Boxfresh BARKOW SH Cnvs NVY  Zapatillas  en Amazon'
 date: 2020-01-07 13:40:31
 comments: true
-tags: B06XRZFWD2
+image: https://images-eu.ssl-images-amazon.com/images/I/41i7-zTc8uL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XRZFWD2

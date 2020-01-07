@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZQJKNH: Ahorra en Finether Carretilla Plegable  Carro de T'
 date: 2019/12/29 13:32:24 +0000
 comments: true
-tags: B07TZQJKNH
+image: https://images-eu.ssl-images-amazon.com/images/I/41dQStT4sWL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TZQJKNH

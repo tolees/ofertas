@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HMYPQ3Z - Ofertón en Amazon para KinCam Cámara de Vigilancia Cámara de Se'
 date: 2019/12/17 03:32:25 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41qKumMfFFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

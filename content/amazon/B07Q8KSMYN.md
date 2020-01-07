@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q8KSMYN: Ahorra en Umi. Essentials - Auriculares de botón i'
 date: 2019/12/28 23:27:51 +0000
 comments: true
-tags: B07Q8KSMYN
+image: https://images-eu.ssl-images-amazon.com/images/I/41jx9M23A9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Q8KSMYN

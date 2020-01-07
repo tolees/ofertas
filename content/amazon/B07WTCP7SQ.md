@@ -3,7 +3,7 @@ layout: post
 title: 'B07WTCP7SQ: Ahorra en BRIKSMAX Kit de Iluminación Led para Leg'
 date: 2019/12/21 09:13:12 +0000
 comments: true
-tags: B07WTCP7SQ
+image: https://images-eu.ssl-images-amazon.com/images/I/516%2BphcB6HL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WTCP7SQ

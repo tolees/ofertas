@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QFR6Y1M - Ofertón en Amazon para AmazonBasics - Canasto de tela  alto  cú'
 date: 2019/12/21 19:26:32 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31uQbvgkPBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

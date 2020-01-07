@@ -3,7 +3,7 @@ layout: post
 title: 'B07JQR9PJY: Rebaja en Tommy Hilfiger Essential Craft Vulc  Zap en Amazon'
 date: 2020-01-07 10:33:12
 comments: true
-tags: B07JQR9PJY
+image: https://images-eu.ssl-images-amazon.com/images/I/41IuIBF50GL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JQR9PJY

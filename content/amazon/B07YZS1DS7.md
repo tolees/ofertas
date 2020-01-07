@@ -3,7 +3,7 @@ layout: post
 title: 'B07YZS1DS7: Ahorra en Ogrifox OX-Nitricar_Bs8 Guantes de prote'
 date: 2019/12/16 12:19:41 +0000
 comments: true
-tags: B07YZS1DS7
+image: https://images-eu.ssl-images-amazon.com/images/I/411-GXIK6qL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07YZS1DS7

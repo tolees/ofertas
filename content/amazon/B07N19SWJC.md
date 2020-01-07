@@ -2,6 +2,7 @@
 layout: post
 title: 'B07N19SWJC - Ofertón en Amazon para Lee Slim Button Down Camisa  Azul  Frost'
 date: 2020-01-01 19:26:42
+image: https://images-eu.ssl-images-amazon.com/images/I/41ImKTSGQsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

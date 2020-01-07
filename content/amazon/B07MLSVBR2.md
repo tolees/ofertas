@@ -3,7 +3,7 @@ layout: post
 title: 'B07MLSVBR2: Ahorra en Clarks Ronnie Limit  Zapatos de Cordones'
 date: 2020-01-02 19:37:50
 comments: true
-tags: B07MLSVBR2
+image: https://images-eu.ssl-images-amazon.com/images/I/31y0OPHE0QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MLSVBR2

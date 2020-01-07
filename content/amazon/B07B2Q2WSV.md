@@ -3,7 +3,7 @@ layout: post
 title: 'B07B2Q2WSV: Ahorra en Yasolote 22M Guirnalda de Luces Solares '
 date: 2019/12/21 16:18:12 +0000
 comments: true
-tags: B07B2Q2WSV
+image: https://images-eu.ssl-images-amazon.com/images/I/51ymGTH2e9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B2Q2WSV

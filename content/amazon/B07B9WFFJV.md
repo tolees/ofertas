@@ -2,6 +2,7 @@
 layout: post
 title: 'B07B9WFFJV - Ofertón en Amazon para Fitbit Versa Smartwatch Deportivo  Meloc'
 date: 2020-01-04 09:11:17
+image: https://images-eu.ssl-images-amazon.com/images/I/41HIqEATGBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

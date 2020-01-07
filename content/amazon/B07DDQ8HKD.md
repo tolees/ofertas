@@ -3,7 +3,7 @@ layout: post
 title: 'B07DDQ8HKD: Ahorra en Vila Clothes Viplace V-Neck Knit Top-Noo'
 date: 2020-01-02 15:33:54
 comments: true
-tags: B07DDQ8HKD
+image: https://images-eu.ssl-images-amazon.com/images/I/41hW8rwkYnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DDQ8HKD

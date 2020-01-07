@@ -3,7 +3,7 @@ layout: post
 title: 'B07MMWSLWC: Ahorra en Wrangler Texas Contrast Vaqueros  Azul  '
 date: 2019/12/25 10:26:39 +0000
 comments: true
-tags: B07MMWSLWC
+image: https://images-eu.ssl-images-amazon.com/images/I/41-dweQdcHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MMWSLWC

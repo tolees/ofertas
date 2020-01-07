@@ -3,7 +3,7 @@ layout: post
 title: 'B07RSFP6KM: Rebaja en Nike FCB I Nk BRT Kit Hm Football Set  U en Amazon'
 date: 2019/12/20 21:40:18 +0000
 comments: true
-tags: B07RSFP6KM
+image: https://images-eu.ssl-images-amazon.com/images/I/41tzxEgaBLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RSFP6KM

@@ -3,7 +3,7 @@ layout: post
 title: 'B019IGD9TU: Rebaja en OUTERDO Toy Storage Bag  Large Tidy Bag  en Amazon'
 date: 2020-01-05 22:12:45
 comments: true
-tags: B019IGD9TU
+image: https://images-eu.ssl-images-amazon.com/images/I/61PygzBvVAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B019IGD9TU

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TD1RD4R - Ofertón en Amazon para Pistola Silicona 50W Tilswall  Pistola d'
 date: 2020-01-02 09:18:57
+image: https://images-eu.ssl-images-amazon.com/images/I/51SuTRMBNmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

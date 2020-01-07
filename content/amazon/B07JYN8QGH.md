@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JYN8QGH - Ofertón en Amazon para Tommy Hilfiger Technical Details Flexi S'
 date: 2019/12/29 19:54:08 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41mdGrxGXSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

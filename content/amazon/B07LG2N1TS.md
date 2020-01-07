@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LG2N1TS - Ofertón en Amazon para Geox U Renan B  Zapatillas para Hombre  '
 date: 2020-01-01 20:24:22
+image: https://images-eu.ssl-images-amazon.com/images/I/31yklR0EBOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01DLVOA32: Rebaja en Geographical Norway Galvoda  Sudadera co en Amazon'
 date: 2019/12/24 14:03:16 +0000
 comments: true
-tags: B01DLVOA32
+image: https://images-eu.ssl-images-amazon.com/images/I/51pTPAx5GuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01DLVOA32

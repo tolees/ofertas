@@ -3,7 +3,7 @@ layout: post
 title: 'B078TGWBZ9: Rebaja en TUTUO Nintendo Switch Controlador Mando  en Amazon'
 date: 2020-01-04 13:45:51
 comments: true
-tags: B078TGWBZ9
+image: https://images-eu.ssl-images-amazon.com/images/I/41PEOx9fwJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078TGWBZ9

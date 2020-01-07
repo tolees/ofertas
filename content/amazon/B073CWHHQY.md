@@ -3,7 +3,7 @@ layout: post
 title: 'B073CWHHQY: Ahorra en Oral-B PRO 2 2950N CrossAction - Cepillo'
 date: 2020-01-06 09:34:54
 comments: true
-tags: B073CWHHQY
+image: https://images-eu.ssl-images-amazon.com/images/I/51pABiCh0sL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073CWHHQY

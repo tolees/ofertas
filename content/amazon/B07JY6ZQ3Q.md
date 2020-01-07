@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JY6ZQ3Q - Ofertón en Amazon para Zapatos de Cuero para Hombres Patrón de '
 date: 2020-01-04 09:09:02
+image: https://images-eu.ssl-images-amazon.com/images/I/314hFFO0S9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

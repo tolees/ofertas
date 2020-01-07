@@ -3,7 +3,7 @@ layout: post
 title: 'B018SVQXU8: Ahorra en LG Electronics OM4560 High Power Hifianl'
 date: 2019/12/12 07:12:03 +0000
 comments: true
-tags: B018SVQXU8
+image: https://images-eu.ssl-images-amazon.com/images/I/51%2B8LH9vc5L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B018SVQXU8

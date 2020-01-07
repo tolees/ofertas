@@ -3,7 +3,7 @@ layout: post
 title: 'B07PHPX2X9: Ahorra en Echo Dot  3rd Gen  - Smart speaker with '
 date: 2020-01-02 12:39:43
 comments: true
-tags: B07PHPX2X9
+image: https://images-eu.ssl-images-amazon.com/images/I/41kS3T3nrHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PHPX2X9

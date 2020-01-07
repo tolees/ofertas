@@ -3,7 +3,7 @@ layout: post
 title: 'B07JM94PQM: Rebaja en Wrangler SS 1 Pkt Button Down Camisa  Mu en Amazon'
 date: 2019/12/25 20:21:57 +0000
 comments: true
-tags: B07JM94PQM
+image: https://images-eu.ssl-images-amazon.com/images/I/5197fdgzUUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JM94PQM

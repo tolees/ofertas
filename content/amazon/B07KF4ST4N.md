@@ -3,7 +3,7 @@ layout: post
 title: 'B07KF4ST4N: Ahorra en Levi s 510 Skinny Fit  Vaqueros para Hom'
 date: 2020-01-06 19:11:24
 comments: true
-tags: B07KF4ST4N
+image: https://images-eu.ssl-images-amazon.com/images/I/31OOKVbTGUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KF4ST4N

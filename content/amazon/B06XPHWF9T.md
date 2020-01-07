@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XPHWF9T - Ofertón en Amazon para find. 16 12 RB040 camisetas  Blanco  Whi'
 date: 2019/12/23 14:55:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41FPav09kRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

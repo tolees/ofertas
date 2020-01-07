@@ -3,7 +3,7 @@ layout: post
 title: 'B00J28GPSC: Rebaja en Philips Avent SCH400/30  Set Para Cuidad en Amazon'
 date: 2020-01-06 09:08:27
 comments: true
-tags: B00J28GPSC
+image: https://images-eu.ssl-images-amazon.com/images/I/51zEgrZxUdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00J28GPSC

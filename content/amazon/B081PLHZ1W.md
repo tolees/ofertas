@@ -2,6 +2,7 @@
 layout: post
 title: 'B081PLHZ1W - Ofertón en Amazon para Zapatillas de Baloncesto Altas Superiore'
 date: 2020-01-02 10:18:05
+image: https://images-eu.ssl-images-amazon.com/images/I/51fXeVke2-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

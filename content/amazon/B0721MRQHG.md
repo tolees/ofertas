@@ -3,7 +3,7 @@ layout: post
 title: 'B0721MRQHG: Ahorra en Panasonic Lumix  Cámara Compacta de 20 3'
 date: 2019/12/27 17:53:45 +0000
 comments: true
-tags: B0721MRQHG
+image: https://images-eu.ssl-images-amazon.com/images/I/31PuCGz6FPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0721MRQHG

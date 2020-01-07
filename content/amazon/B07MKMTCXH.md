@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MKMTCXH - Ofertón en Amazon para HoneyHolly Botella de Agua Deporte 400ml'
 date: 2019/12/20 12:18:01 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51om95p40kL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

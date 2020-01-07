@@ -3,7 +3,7 @@ layout: post
 title: 'B07WS87YMH: Ahorra en Mochila para Portátil  REYLEO Mochila Ne'
 date: 2020-01-06 09:22:20
 comments: true
-tags: B07WS87YMH
+image: https://images-eu.ssl-images-amazon.com/images/I/41p1Jhu830L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WS87YMH

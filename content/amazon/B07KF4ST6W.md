@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KF4ST6W - Ofertón en Amazon para Levi s SS Battery Hm Shirt Camisa  Blanc'
 date: 2019/12/20 20:12:24 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41qL2Q8K-zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

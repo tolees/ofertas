@@ -3,7 +3,7 @@ layout: post
 title: 'B07BWQFMWB: Rebaja en Hugo BOSS Unisex-Armbanduhr 1513581 en Amazon'
 date: 2019/12/17 12:21:57 +0000
 comments: true
-tags: B07BWQFMWB
+image: https://images-eu.ssl-images-amazon.com/images/I/412Q%2BmAPuRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BWQFMWB

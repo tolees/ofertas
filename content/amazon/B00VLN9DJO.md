@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VLN9DJO - Ofertón en Amazon para Levi s Graphic Set-In Neck  Camiseta par'
 date: 2019/12/17 08:41:11 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

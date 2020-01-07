@@ -2,6 +2,7 @@
 layout: post
 title: 'B00KHTM25A - Ofertón en Amazon para Under Armour UA HG Armour SS Camiseta  H'
 date: 2019/12/16 19:49:49 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/314PuBYP50L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B06WCZCRPN: Rebaja en Playmobil 9243 DreamWorks Dragons Berk I en Amazon'
 date: 2020-01-05 22:33:05
 comments: true
-tags: B06WCZCRPN
+image: https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06WCZCRPN

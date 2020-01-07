@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GQYQ85Z - Ofertón en Amazon para EVGA GeForce RTX 2080 Ti XC Ultra Gaming'
 date: 2019/12/20 12:11:58 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/512YkprjjHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

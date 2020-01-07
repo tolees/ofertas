@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZH4M5HC: Ahorra en Gamogo Auriculares inalámbricos Verdader'
 date: 2019/12/15 10:26:11 +0000
 comments: true
-tags: B07ZH4M5HC
+image: https://images-eu.ssl-images-amazon.com/images/I/31s3mQP630L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07ZH4M5HC

@@ -3,7 +3,7 @@ layout: post
 title: 'B06XRXFKQ4: Rebaja en deAO Camiones de Construcción para Monta en Amazon'
 date: 2019/12/20 00:49:37 +0000
 comments: true
-tags: B06XRXFKQ4
+image: https://images-eu.ssl-images-amazon.com/images/I/51OblHz2tDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XRXFKQ4

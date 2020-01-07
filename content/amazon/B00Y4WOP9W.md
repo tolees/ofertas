@@ -3,7 +3,7 @@ layout: post
 title: 'B00Y4WOP9W: Rebaja en Neosens  S849 Restored Skin Rococo Zapat en Amazon'
 date: 2020-01-05 10:00:39
 comments: true
-tags: B00Y4WOP9W
+image: https://images-eu.ssl-images-amazon.com/images/I/41ikXJqer-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00Y4WOP9W

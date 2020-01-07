@@ -2,6 +2,7 @@
 layout: post
 title: 'B01NCNN2TN - Ofertón en Amazon para find. 16563 vestido fiesta mujer  Rosa  '
 date: 2020-01-04 12:20:44
+image: https://images-eu.ssl-images-amazon.com/images/I/41vbNy9oXwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

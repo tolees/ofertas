@@ -2,6 +2,7 @@
 layout: post
 title: 'B00P9PUOIY - Ofertón en Amazon para American Crew Champú Diario 250 ml'
 date: 2019/12/28 09:54:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

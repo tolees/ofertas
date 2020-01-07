@@ -3,7 +3,7 @@ layout: post
 title: 'B07BL17GCN: Ahorra en New Balance Fresh Foam Zante Pursuit  Za'
 date: 2019/12/30 18:48:01 +0000
 comments: true
-tags: B07BL17GCN
+image: https://images-eu.ssl-images-amazon.com/images/I/4183NJGuQTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BL17GCN

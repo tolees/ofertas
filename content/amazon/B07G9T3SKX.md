@@ -3,7 +3,7 @@ layout: post
 title: 'B07G9T3SKX: Rebaja en Joy Toy 62137 Mickey Mouse Relief Taza 3 en Amazon'
 date: 2019/12/13 21:11:56 +0000
 comments: true
-tags: B07G9T3SKX
+image: https://images-eu.ssl-images-amazon.com/images/I/41QdfWP2BRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G9T3SKX

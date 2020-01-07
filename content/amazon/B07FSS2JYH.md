@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FSS2JYH - Ofertón en Amazon para Samsung SM-N960F/DS Galaxy Note9  6.4"  '
 date: 2019/12/22 07:46:08 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

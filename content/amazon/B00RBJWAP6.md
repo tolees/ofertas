@@ -3,7 +3,7 @@ layout: post
 title: 'B00RBJWAP6: Rebaja en Quemagrasas potente para adelgazar  100% en Amazon'
 date: 2019/12/21 18:10:18 +0000
 comments: true
-tags: B00RBJWAP6
+image: https://images-eu.ssl-images-amazon.com/images/I/41PO5ycnkrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00RBJWAP6

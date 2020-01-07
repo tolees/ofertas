@@ -3,7 +3,7 @@ layout: post
 title: 'B07TY9KHZL: Ahorra en Parfois - Bandolera De Ante - Mujeres - '
 date: 2020-01-07 08:10:05
 comments: true
-tags: B07TY9KHZL
+image: https://images-eu.ssl-images-amazon.com/images/I/41E3TwoMYIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TY9KHZL

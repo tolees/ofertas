@@ -3,7 +3,7 @@ layout: post
 title: 'B07RB7VKBW: Ahorra en Chaqueta polar Columbia Fast Trek II Ful'
 date: 2019/12/11 16:50:31 +0000
 comments: true
-tags: B07RB7VKBW
+image: https://images-eu.ssl-images-amazon.com/images/I/41tvXEFUMLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RB7VKBW

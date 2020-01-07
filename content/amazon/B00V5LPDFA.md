@@ -3,7 +3,7 @@ layout: post
 title: 'B00V5LPDFA: Rebaja en uhlsport Stream 3.0 Chaqueta Classic Cha en Amazon'
 date: 2019/12/16 08:01:03 +0000
 comments: true
-tags: B00V5LPDFA
+image: https://images-eu.ssl-images-amazon.com/images/I/41ITXg2eYgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00V5LPDFA

@@ -3,7 +3,7 @@ layout: post
 title: 'B075XLMKFW: Rebaja en New Balance Fuel Core 5000  Zapatillas d en Amazon'
 date: 2019/12/14 22:53:23 +0000
 comments: true
-tags: B075XLMKFW
+image: https://images-eu.ssl-images-amazon.com/images/I/41PEINp%2Bd8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B075XLMKFW

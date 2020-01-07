@@ -3,7 +3,7 @@ layout: post
 title: 'B07NNQNZ1G: Rebaja en Suplemento Para Ansiedad + Insomnio Vega en Amazon'
 date: 2019/12/27 14:32:55 +0000
 comments: true
-tags: B07NNQNZ1G
+image: https://images-eu.ssl-images-amazon.com/images/I/41UO9aIPd%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NNQNZ1G

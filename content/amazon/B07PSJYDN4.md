@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PSJYDN4 - Ofertón en Amazon para Samsung Q60R 108 cm  43 Zoll  4K QLED Fe'
 date: 2019/12/30 13:58:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51rV6n9cxdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

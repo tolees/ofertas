@@ -3,7 +3,7 @@ layout: post
 title: 'B076XCYB8V: Ahorra en Geox J Sveth A  Zapatilla Baja para Niño'
 date: 2020-01-06 10:27:51
 comments: true
-tags: B076XCYB8V
+image: https://images-eu.ssl-images-amazon.com/images/I/51dUEfuPy0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B076XCYB8V

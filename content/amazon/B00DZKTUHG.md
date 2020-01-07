@@ -2,6 +2,7 @@
 layout: post
 title: 'B00DZKTUHG - Ofertón en Amazon para Organizador universal de Maclaren: Tenga'
 date: 2020-01-05 08:00:59
+image: https://images-eu.ssl-images-amazon.com/images/I/41GkI5LroSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

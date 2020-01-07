@@ -2,6 +2,7 @@
 layout: post
 title: 'B01H1BYJYS - Ofertón en Amazon para Panasonic Lumix DMC-GX80K - Cámara EVIL '
 date: 2020-01-03 18:50:14
+image: https://images-eu.ssl-images-amazon.com/images/I/411wFT0IdtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

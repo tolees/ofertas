@@ -3,7 +3,7 @@ layout: post
 title: 'B07MMVYXRN: Ahorra en Lee Marion Vaqueros Straight  Azul  Mid '
 date: 2020-01-04 18:06:24
 comments: true
-tags: B07MMVYXRN
+image: https://images-eu.ssl-images-amazon.com/images/I/41OB8aROOjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MMVYXRN

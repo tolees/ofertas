@@ -3,7 +3,7 @@ layout: post
 title: 'B07CRF1CKT: Ahorra en Pepe Jeans Pixlette Jeans  Azul  Dark Us'
 date: 2019/12/24 11:27:48 +0000
 comments: true
-tags: B07CRF1CKT
+image: https://images-eu.ssl-images-amazon.com/images/I/4196uANVrEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CRF1CKT

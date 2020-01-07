@@ -2,6 +2,7 @@
 layout: post
 title: 'B07G2GBDSJ - Ofertón en Amazon para Crema Facial Crilu con extracto de baba '
 date: 2019/12/14 20:40:21 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41PdIXLuwqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

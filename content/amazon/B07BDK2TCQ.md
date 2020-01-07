@@ -2,6 +2,7 @@
 layout: post
 title: 'B07BDK2TCQ - Ofertón en Amazon para Aicok Bascula Grasa Corporal   Báscula d'
 date: 2020-01-05 07:06:28
+image: https://images-eu.ssl-images-amazon.com/images/I/41nNyDyOoFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

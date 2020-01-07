@@ -3,7 +3,7 @@ layout: post
 title: 'B07CQKBTND: Rebaja en Orient Reloj Analógico para Hombre de Au en Amazon'
 date: 2019/12/18 22:01:06 +0000
 comments: true
-tags: B07CQKBTND
+image: https://images-eu.ssl-images-amazon.com/images/I/515poF5sZGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CQKBTND

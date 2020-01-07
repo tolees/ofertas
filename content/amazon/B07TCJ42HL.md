@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TCJ42HL - Ofertón en Amazon para ProbioMax X7 [60 billones de CFU] | Fórm'
 date: 2020-01-06 06:03:12
+image: https://images-eu.ssl-images-amazon.com/images/I/41y5THZTkbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

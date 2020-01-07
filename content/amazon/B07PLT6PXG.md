@@ -3,7 +3,7 @@ layout: post
 title: 'B07PLT6PXG: Rebaja en Auricular Bluetooth 5.0 Auricular Manos  en Amazon'
 date: 2019/12/27 17:12:06 +0000
 comments: true
-tags: B07PLT6PXG
+image: https://images-eu.ssl-images-amazon.com/images/I/41c9b3RHTEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PLT6PXG

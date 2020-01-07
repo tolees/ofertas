@@ -3,7 +3,7 @@ layout: post
 title: 'B01CSDJOFI: Ahorra en LEABAGS Cambridge Bolso Bandolera de aut'
 date: 2019/12/19 11:02:48 +0000
 comments: true
-tags: B01CSDJOFI
+image: https://images-eu.ssl-images-amazon.com/images/I/41iV7-UBxlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01CSDJOFI

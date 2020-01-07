@@ -3,7 +3,7 @@ layout: post
 title: 'B07HSRHGHL: Rebaja en Hello Neighbor: Hide And Seek en Amazon'
 date: 2019/12/26 19:10:18 +0000
 comments: true
-tags: B07HSRHGHL
+image: https://images-eu.ssl-images-amazon.com/images/I/51bwjFPjWAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HSRHGHL

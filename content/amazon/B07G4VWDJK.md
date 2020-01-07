@@ -3,7 +3,7 @@ layout: post
 title: 'B07G4VWDJK: Ahorra en Lacoste Reloj Analógico para Hombre de C'
 date: 2019/12/12 08:09:29 +0000
 comments: true
-tags: B07G4VWDJK
+image: https://images-eu.ssl-images-amazon.com/images/I/51gSSF92ZlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G4VWDJK

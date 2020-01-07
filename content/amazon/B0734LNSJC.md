@@ -2,6 +2,7 @@
 layout: post
 title: 'B0734LNSJC - Ofertón en Amazon para TAZA CERAMICA 325 ML CON CAJA | BATMAN L'
 date: 2020-01-01 09:32:14
+image: https://images-eu.ssl-images-amazon.com/images/I/51M0RgjbCKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

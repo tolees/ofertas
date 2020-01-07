@@ -3,7 +3,7 @@ layout: post
 title: 'B07BGV33XC: Rebaja en Bolsa de Almacenamiento de Juguetes para en Amazon'
 date: 2020-01-01 18:56:41
 comments: true
-tags: B07BGV33XC
+image: https://images-eu.ssl-images-amazon.com/images/I/51vUKGJRhAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BGV33XC

@@ -3,7 +3,7 @@ layout: post
 title: 'B06XSM2KWM: Rebaja en Skechers Larson-Raxton  Zapatillas de En en Amazon'
 date: 2019/12/21 14:25:56 +0000
 comments: true
-tags: B06XSM2KWM
+image: https://images-eu.ssl-images-amazon.com/images/I/41bWRGUpGQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XSM2KWM

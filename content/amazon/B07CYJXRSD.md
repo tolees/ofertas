@@ -3,7 +3,7 @@ layout: post
 title: 'B07CYJXRSD: Ahorra en LENBEST Bullet Journal Stencil  Dibujo P'
 date: 2019/12/25 15:38:49 +0000
 comments: true
-tags: B07CYJXRSD
+image: https://images-eu.ssl-images-amazon.com/images/I/61wBs%2BQ39jL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CYJXRSD

@@ -3,7 +3,7 @@ layout: post
 title: 'B07HQWRT5J: Rebaja en Cecotec Robot Aspirador Conga Serie 950. en Amazon'
 date: 2020-01-02 18:37:37
 comments: true
-tags: B07HQWRT5J
+image: https://images-eu.ssl-images-amazon.com/images/I/31OEgKFC2dL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HQWRT5J

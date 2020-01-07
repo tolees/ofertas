@@ -3,7 +3,7 @@ layout: post
 title: 'B072FPPN3Z: Ahorra en adidas Superstar  Zapatillas de deporte '
 date: 2019/12/23 14:05:13 +0000
 comments: true
-tags: B072FPPN3Z
+image: https://images-eu.ssl-images-amazon.com/images/I/41iWfWOIX3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072FPPN3Z

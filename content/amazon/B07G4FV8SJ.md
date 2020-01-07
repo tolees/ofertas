@@ -3,7 +3,7 @@ layout: post
 title: 'B07G4FV8SJ: Rebaja en Hugo Boss Reloj Multiesfera para Hombre  en Amazon'
 date: 2019/12/15 22:08:43 +0000
 comments: true
-tags: B07G4FV8SJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41HC9%2BSAMjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G4FV8SJ

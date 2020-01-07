@@ -3,7 +3,7 @@ layout: post
 title: 'B00KCHFMY0: Ahorra en BLEND Jeans-Noos Cirrus Parte de Arriba '
 date: 2019/12/18 13:12:18 +0000
 comments: true
-tags: B00KCHFMY0
+image: https://images-eu.ssl-images-amazon.com/images/I/41kMfZwocfL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00KCHFMY0

@@ -3,7 +3,7 @@ layout: post
 title: 'B07HL9PLDC: Rebaja en READ Reloj para Hombre  Reloj de Cuarzo  en Amazon'
 date: 2019/12/21 07:12:12 +0000
 comments: true
-tags: B07HL9PLDC
+image: https://images-eu.ssl-images-amazon.com/images/I/416xXLJMrdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HL9PLDC

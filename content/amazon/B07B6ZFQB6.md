@@ -3,7 +3,7 @@ layout: post
 title: 'B07B6ZFQB6: Rebaja en New Balance 247v2  Zapatillas para Mujer en Amazon'
 date: 2019/12/18 22:36:43 +0000
 comments: true
-tags: B07B6ZFQB6
+image: https://images-eu.ssl-images-amazon.com/images/I/41GzZWDhliL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B6ZFQB6

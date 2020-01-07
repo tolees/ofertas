@@ -3,7 +3,7 @@ layout: post
 title: 'B075GQX5QY: Rebaja en Bresser Optics - Estación Meterológica B en Amazon'
 date: 2020-01-06 13:05:15
 comments: true
-tags: B075GQX5QY
+image: https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B075GQX5QY

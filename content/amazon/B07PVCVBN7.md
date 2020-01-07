@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PVCVBN7 - Ofertón en Amazon para Fire TV Stick mit Alexa-Sprachfernbedien'
 date: 2019/12/22 20:54:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31pZ7kV6WDL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B077Y7VQHG - Ofertón en Amazon para HIKARO Parka Corta Hombre  Verde  Khaki '
 date: 2019/12/25 14:59:53 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41o7TRhZoyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

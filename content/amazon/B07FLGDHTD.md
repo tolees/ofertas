@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FLGDHTD - Ofertón en Amazon para Philips Avent SCD287/25 - Set de regalo '
 date: 2019/12/25 20:29:04 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41ez3CWYGCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B000EDVTQM - Ofertón en Amazon para Makita BL1830 18V 3Ah LXT Li-ion Battery'
 date: 2019/12/13 09:02:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51SFt0VqLkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

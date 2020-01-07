@@ -3,7 +3,7 @@ layout: post
 title: 'B07DCXPCV4: Ahorra en adidas Real Madrid Fbl Balón  Hombre  Gr'
 date: 2019/12/25 18:44:03 +0000
 comments: true
-tags: B07DCXPCV4
+image: None._SL200_
 category: ofertas
 author: ring
 slug: B07DCXPCV4

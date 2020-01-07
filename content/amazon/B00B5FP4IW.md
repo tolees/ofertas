@@ -3,7 +3,7 @@ layout: post
 title: 'B00B5FP4IW: Ahorra en Ambientair Mikado Ambientador para Hogar'
 date: 2019/12/14 10:25:56 +0000
 comments: true
-tags: B00B5FP4IW
+image: https://images-eu.ssl-images-amazon.com/images/I/41oedTabkOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00B5FP4IW

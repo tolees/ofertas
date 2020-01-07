@@ -3,7 +3,7 @@ layout: post
 title: 'B07VDDK6KP: Ahorra en Ulikey 4 Juegos de Kit de Soporte de Glo'
 date: 2019/12/22 11:40:27 +0000
 comments: true
-tags: B07VDDK6KP
+image: https://images-eu.ssl-images-amazon.com/images/I/31761DKSq7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VDDK6KP

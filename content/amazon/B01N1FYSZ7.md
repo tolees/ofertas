@@ -3,7 +3,7 @@ layout: post
 title: 'B01N1FYSZ7: Rebaja en Pioneer SE-MS7BT  Auriculares de Tipo Di en Amazon'
 date: 2020-01-05 08:54:12
 comments: true
-tags: B01N1FYSZ7
+image: https://images-eu.ssl-images-amazon.com/images/I/4173kTv2I9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N1FYSZ7

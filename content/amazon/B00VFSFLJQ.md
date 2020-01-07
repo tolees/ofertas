@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VFSFLJQ - Ofertón en Amazon para uhlsport Stream 3.0 Pantalón Classic Cha'
 date: 2019/12/12 09:41:12 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41smTQqYaWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

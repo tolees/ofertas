@@ -3,7 +3,7 @@ layout: post
 title: 'B07DVK1LRP: Rebaja en New Balance Fresh Foam Gobi  Zapatillas  en Amazon'
 date: 2019/12/13 02:32:54 +0000
 comments: true
-tags: B07DVK1LRP
+image: https://images-eu.ssl-images-amazon.com/images/I/41iwXQ4ppnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DVK1LRP

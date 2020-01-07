@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FLTT8RG - Ofertón en Amazon para Willful Pulsera Actividad  Pulsera Activ'
 date: 2019/12/25 19:31:04 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/415M3F-b-TL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

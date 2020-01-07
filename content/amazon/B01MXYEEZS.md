@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MXYEEZS - Ofertón en Amazon para King Love - Consolador realista de 20 5 '
 date: 2019/12/26 20:51:18 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/4184iN17WTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

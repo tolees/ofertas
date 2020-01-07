@@ -3,7 +3,7 @@ layout: post
 title: 'B06XTN7XRQ: Ahorra en Pepe Jeans Thru Mens PM581155 Sudadera c'
 date: 2020-01-05 08:08:54
 comments: true
-tags: B06XTN7XRQ
+image: https://images-eu.ssl-images-amazon.com/images/I/31J1SvetaEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XTN7XRQ

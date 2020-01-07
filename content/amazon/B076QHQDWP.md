@@ -3,7 +3,7 @@ layout: post
 title: 'B076QHQDWP: Rebaja en Funko 24743 POP Vinyl  Multi Colour en Amazon'
 date: 2019/12/11 21:50:55 +0000
 comments: true
-tags: B076QHQDWP
+image: https://images-eu.ssl-images-amazon.com/images/I/51elIW8VDxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B076QHQDWP

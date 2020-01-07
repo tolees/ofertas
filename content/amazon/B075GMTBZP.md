@@ -3,7 +3,7 @@ layout: post
 title: 'B075GMTBZP: Rebaja en Pendientes Mujer J.Rosée Pendientes Muje en Amazon'
 date: 2020-01-06 13:10:59
 comments: true
-tags: B075GMTBZP
+image: https://images-eu.ssl-images-amazon.com/images/I/315J2oI5nzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B075GMTBZP

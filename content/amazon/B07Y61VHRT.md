@@ -3,7 +3,7 @@ layout: post
 title: 'B07Y61VHRT: Rebaja en Powcan Auricular Bluetooth  Gorro Blueto en Amazon'
 date: 2019/12/21 20:47:34 +0000
 comments: true
-tags: B07Y61VHRT
+image: https://images-eu.ssl-images-amazon.com/images/I/51cEw3LoQcL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Y61VHRT

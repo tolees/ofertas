@@ -3,7 +3,7 @@ layout: post
 title: 'B07JY1YK8B: Ahorra en Under Armour Men s Men s Baseball UA Bli'
 date: 2019/12/15 11:44:01 +0000
 comments: true
-tags: B07JY1YK8B
+image: https://images-eu.ssl-images-amazon.com/images/I/41Tpn52ftnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JY1YK8B

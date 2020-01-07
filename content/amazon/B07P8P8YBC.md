@@ -3,7 +3,7 @@ layout: post
 title: 'B07P8P8YBC: Rebaja en PLAYMOBIL:THE MOVIE 70075 Del s Food Tru en Amazon'
 date: 2020-01-05 22:41:54
 comments: true
-tags: B07P8P8YBC
+image: https://images-eu.ssl-images-amazon.com/images/I/51Yep-afXKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07P8P8YBC

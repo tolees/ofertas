@@ -2,6 +2,7 @@
 layout: post
 title: 'B009AU9CQO - Ofertón en Amazon para Sony SEL1018 E Mount - APS-C 10-18 mm F4'
 date: 2019/12/13 17:55:25 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41wK-6LaWVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

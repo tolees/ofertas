@@ -3,7 +3,7 @@ layout: post
 title: 'B01JG1JYMS: Rebaja en Ingersoll Men s The Grafton Quartz Watch en Amazon'
 date: 2019/12/12 22:29:49 +0000
 comments: true
-tags: B01JG1JYMS
+image: https://images-eu.ssl-images-amazon.com/images/I/51HXWq1ZaSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01JG1JYMS

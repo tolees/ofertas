@@ -3,7 +3,7 @@ layout: post
 title: 'B07GBKFFDJ: Rebaja en PUMA ESS Logo tee T-Shirt  Hombre  Mediu en Amazon'
 date: 2019/12/18 10:52:21 +0000
 comments: true
-tags: B07GBKFFDJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41xG1pn8B2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GBKFFDJ

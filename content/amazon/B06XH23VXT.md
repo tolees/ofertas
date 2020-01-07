@@ -3,7 +3,7 @@ layout: post
 title: 'B06XH23VXT: Rebaja en Helly Hansen Coastal 2 Parka  Hombre  Ro en Amazon'
 date: 2019/12/27 12:11:05 +0000
 comments: true
-tags: B06XH23VXT
+image: https://images-eu.ssl-images-amazon.com/images/I/41BFqpAOqyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XH23VXT

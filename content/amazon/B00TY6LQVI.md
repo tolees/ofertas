@@ -3,7 +3,7 @@ layout: post
 title: 'B00TY6LQVI: Ahorra en The North Face W Horizon Cvtbl Pls Panta'
 date: 2019/12/18 14:02:53 +0000
 comments: true
-tags: B00TY6LQVI
+image: https://images-eu.ssl-images-amazon.com/images/I/31scKfO8pNL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00TY6LQVI

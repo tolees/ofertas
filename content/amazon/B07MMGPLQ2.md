@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MMGPLQ2 - Ofertón en Amazon para B Baosity Hebilla de Silicona para Mujer'
 date: 2019/12/26 16:03:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31UptD-YmpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

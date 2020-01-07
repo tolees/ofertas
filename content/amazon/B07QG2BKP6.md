@@ -3,7 +3,7 @@ layout: post
 title: 'B07QG2BKP6: Rebaja en Multiherramienta oscilante multifunción  en Amazon'
 date: 2019/12/24 14:33:12 +0000
 comments: true
-tags: B07QG2BKP6
+image: https://images-eu.ssl-images-amazon.com/images/I/41A1wUs1BqL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07QG2BKP6

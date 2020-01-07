@@ -2,6 +2,7 @@
 layout: post
 title: 'B078NYPGK3 - Ofertón en Amazon para JAIMIE JACOBS Cartera Hombre Nano Boy Ca'
 date: 2019/12/28 05:46:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41BAayvyC5L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

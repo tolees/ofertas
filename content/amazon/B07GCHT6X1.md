@@ -3,7 +3,7 @@ layout: post
 title: 'B07GCHT6X1: Ahorra en Bio Aromaterapia Aceite esencial para to'
 date: 2020-01-03 07:50:32
 comments: true
-tags: B07GCHT6X1
+image: https://images-eu.ssl-images-amazon.com/images/I/51tQUjvvquL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GCHT6X1

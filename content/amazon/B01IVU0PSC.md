@@ -3,7 +3,7 @@ layout: post
 title: 'B01IVU0PSC: Ahorra en Colgante  J.Rosée Collares Mujer Plata d'
 date: 2020-01-04 09:37:26
 comments: true
-tags: B01IVU0PSC
+image: https://images-eu.ssl-images-amazon.com/images/I/413m22jLZjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01IVU0PSC

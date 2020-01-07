@@ -3,7 +3,7 @@ layout: post
 title: 'B07SMSMDV6: Rebaja en Baldur s Gate: Enhanced - Edition Pack en Amazon'
 date: 2019/12/17 11:05:29 +0000
 comments: true
-tags: B07SMSMDV6
+image: https://images-eu.ssl-images-amazon.com/images/I/51SIPK04HQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SMSMDV6

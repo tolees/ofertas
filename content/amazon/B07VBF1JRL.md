@@ -3,7 +3,7 @@ layout: post
 title: 'B07VBF1JRL: Rebaja en Hunletai Cable iPhone Cable Lightning [3 en Amazon'
 date: 2020-01-06 21:00:25
 comments: true
-tags: B07VBF1JRL
+image: https://images-eu.ssl-images-amazon.com/images/I/51zsogqNIeL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VBF1JRL

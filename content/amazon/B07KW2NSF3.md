@@ -3,7 +3,7 @@ layout: post
 title: 'B07KW2NSF3: Ahorra en Baseus Cargador de Coche Quick Charge 3.'
 date: 2020-01-03 10:11:30
 comments: true
-tags: B07KW2NSF3
+image: https://images-eu.ssl-images-amazon.com/images/I/41nbj3bOXwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KW2NSF3

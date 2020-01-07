@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JMWT9TQ - Ofertón en Amazon para TerraMaster F5-221 Caja de Servidor NAS '
 date: 2019/12/15 23:02:58 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/415rGqJkctL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

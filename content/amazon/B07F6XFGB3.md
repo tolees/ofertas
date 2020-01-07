@@ -2,6 +2,7 @@
 layout: post
 title: 'B07F6XFGB3 - Ofertón en Amazon para Salomon Trailblazer Mochila para Carrera'
 date: 2019/12/13 08:04:48 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31-sym-Iv%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

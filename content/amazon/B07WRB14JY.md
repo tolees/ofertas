@@ -3,7 +3,7 @@ layout: post
 title: 'B07WRB14JY: Rebaja en Botas de Nieve para niños y niñas  Camin en Amazon'
 date: 2020-01-06 11:04:28
 comments: true
-tags: B07WRB14JY
+image: https://images-eu.ssl-images-amazon.com/images/I/41IINXuc4QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WRB14JY

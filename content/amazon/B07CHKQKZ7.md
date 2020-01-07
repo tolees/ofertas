@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CHKQKZ7 - Ofertón en Amazon para JACK & JONES Jfwstoke Nubuck  Botas Clas'
 date: 2020-01-02 23:04:30
+image: https://images-eu.ssl-images-amazon.com/images/I/41kw1Ed8koL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

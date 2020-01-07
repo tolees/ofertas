@@ -3,7 +3,7 @@ layout: post
 title: 'B079YZTPJK: Rebaja en Hugo BOSS Reloj Cronógrafo para Hombre d en Amazon'
 date: 2019/12/13 21:48:03 +0000
 comments: true
-tags: B079YZTPJK
+image: https://images-eu.ssl-images-amazon.com/images/I/51scKCnl1eL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079YZTPJK

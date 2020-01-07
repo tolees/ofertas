@@ -3,7 +3,7 @@ layout: post
 title: 'B0086QEODO: Ahorra en Tangle Teezer Original  Cepillo para el '
 date: 2019/12/16 19:49:49 +0000
 comments: true
-tags: B0086QEODO
+image: https://images-eu.ssl-images-amazon.com/images/I/31wPn50qB-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0086QEODO

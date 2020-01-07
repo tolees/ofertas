@@ -3,7 +3,7 @@ layout: post
 title: 'B07WPCYF6F: Rebaja en BRIKSMAX Led Lighting Kit for Frozen Els en Amazon'
 date: 2019/12/24 08:28:40 +0000
 comments: true
-tags: B07WPCYF6F
+image: https://images-eu.ssl-images-amazon.com/images/I/51HionmCY5L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WPCYF6F

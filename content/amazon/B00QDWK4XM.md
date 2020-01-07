@@ -2,6 +2,7 @@
 layout: post
 title: 'B00QDWK4XM - Ofertón en Amazon para Ravensburger 17956 - Roll your Puzzle Pu'
 date: 2020-01-05 06:17:49
+image: https://images-eu.ssl-images-amazon.com/images/I/61586B6wVML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

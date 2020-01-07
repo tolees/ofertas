@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PMXCJJX - Ofertón en Amazon para Pantalones de Sauna Adelgazantes Mujer N'
 date: 2019/12/30 11:42:41 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41pDCP4zF%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01L1LNURG: Rebaja en Tefal Fry Delight FX100015 - Freidora si en Amazon'
 date: 2020-01-06 21:57:16
 comments: true
-tags: B01L1LNURG
+image: https://images-eu.ssl-images-amazon.com/images/I/41tF10YAeDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01L1LNURG

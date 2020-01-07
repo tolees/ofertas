@@ -3,7 +3,7 @@ layout: post
 title: 'B075XQ7VJJ: Rebaja en Hombres en Boxer Hombre Calzoncillos Hom en Amazon'
 date: 2019/12/18 20:35:00 +0000
 comments: true
-tags: B075XQ7VJJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41al7-dDMCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B075XQ7VJJ

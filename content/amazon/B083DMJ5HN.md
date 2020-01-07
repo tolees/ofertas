@@ -3,7 +3,7 @@ layout: post
 title: 'B083DMJ5HN: Ahorra en DXX Technik Bausteine FRR-F1 Racing Auto'
 date: 2020-01-07 06:35:24
 comments: true
-tags: B083DMJ5HN
+image: https://images-eu.ssl-images-amazon.com/images/I/51EFpS6it%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B083DMJ5HN

@@ -3,7 +3,7 @@ layout: post
 title: 'B07HGDBBVJ: Rebaja en New Balance Wsx90tv1  Zapatillas para Mu en Amazon'
 date: 2019/12/11 18:45:03 +0000
 comments: true
-tags: B07HGDBBVJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41OsY2E-4IL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HGDBBVJ

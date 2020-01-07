@@ -3,7 +3,7 @@ layout: post
 title: 'B07MMWNNBD: Ahorra en Wrangler 80\u00b4s Retro Sweat Sudadera '
 date: 2020-01-07 14:07:06
 comments: true
-tags: B07MMWNNBD
+image: https://images-eu.ssl-images-amazon.com/images/I/31o9nePv4lL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MMWNNBD

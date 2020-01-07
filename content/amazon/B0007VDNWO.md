@@ -3,7 +3,7 @@ layout: post
 title: 'B0007VDNWO: Rebaja en Ravensburger 09074 - Nordlichter en Amazon'
 date: 2020-01-03 22:51:44
 comments: true
-tags: B0007VDNWO
+image: https://images-eu.ssl-images-amazon.com/images/I/61K%2BsYOqvzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0007VDNWO

@@ -3,7 +3,7 @@ layout: post
 title: 'B01BP6GPV0: Rebaja en Hasbro B5573EU4 - N-Strike Elite Hyper-F en Amazon'
 date: 2019/12/14 09:38:28 +0000
 comments: true
-tags: B01BP6GPV0
+image: https://images-eu.ssl-images-amazon.com/images/I/515aEPXmGAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01BP6GPV0

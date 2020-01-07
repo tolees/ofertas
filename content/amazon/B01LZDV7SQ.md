@@ -3,7 +3,7 @@ layout: post
 title: 'B01LZDV7SQ: Ahorra en Seiko Reloj Cronógrafo para Unisex Adult'
 date: 2019/12/25 12:35:29 +0000
 comments: true
-tags: B01LZDV7SQ
+image: https://images-eu.ssl-images-amazon.com/images/I/51DwwAuGHwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LZDV7SQ

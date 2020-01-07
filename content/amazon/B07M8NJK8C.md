@@ -3,7 +3,7 @@ layout: post
 title: 'B07M8NJK8C: Rebaja en Braun MGK5080 - 9 en 1 Recortadora Todo  en Amazon'
 date: 2019/12/27 11:43:57 +0000
 comments: true
-tags: B07M8NJK8C
+image: https://images-eu.ssl-images-amazon.com/images/I/41W%2BLs43bXL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M8NJK8C

@@ -3,7 +3,7 @@ layout: post
 title: 'B079FH7CLD: Ahorra en IRIS & LILLY Tanga para Mujer  Multicolo'
 date: 2019/12/27 16:58:22 +0000
 comments: true
-tags: B079FH7CLD
+image: https://images-eu.ssl-images-amazon.com/images/I/413cZmqtpWL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079FH7CLD

@@ -3,7 +3,7 @@ layout: post
 title: 'B07HFQ63PC: Ahorra en Only NOS Onlsuzana L/s Pullover Knt Noos'
 date: 2019/12/22 14:48:59 +0000
 comments: true
-tags: B07HFQ63PC
+image: https://images-eu.ssl-images-amazon.com/images/I/41pwNBdovcL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HFQ63PC

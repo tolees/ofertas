@@ -3,7 +3,7 @@ layout: post
 title: 'B07RCYS9T4: Rebaja en Q-Man Ingenious Toys / WWII military bom en Amazon'
 date: 2019/12/30 09:20:30 +0000
 comments: true
-tags: B07RCYS9T4
+image: https://images-eu.ssl-images-amazon.com/images/I/518zbzP21GL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RCYS9T4

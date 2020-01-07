@@ -3,7 +3,7 @@ layout: post
 title: 'B07KJCR5F9: Rebaja en OPPO RX17 Neo case  KuGi Ultra-thin Soft en Amazon'
 date: 2019/12/21 17:58:31 +0000
 comments: true
-tags: B07KJCR5F9
+image: https://images-eu.ssl-images-amazon.com/images/I/512NK%2BglPEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KJCR5F9

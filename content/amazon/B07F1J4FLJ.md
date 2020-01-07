@@ -3,7 +3,7 @@ layout: post
 title: 'B07F1J4FLJ: Rebaja en DUNLOP Nitro 25 - Raqueta de Tenis Unise en Amazon'
 date: 2019/12/22 20:21:18 +0000
 comments: true
-tags: B07F1J4FLJ
+image: None._SL200_
 category: ofertas
 author: ring
 slug: B07F1J4FLJ

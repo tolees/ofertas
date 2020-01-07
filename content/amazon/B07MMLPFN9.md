@@ -3,7 +3,7 @@ layout: post
 title: 'B07MMLPFN9: Rebaja en Napapijri BOVES C Sudadera  Rojo  Red Sc en Amazon'
 date: 2020-01-04 18:53:21
 comments: true
-tags: B07MMLPFN9
+image: https://images-eu.ssl-images-amazon.com/images/I/41hN2GFbhNL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MMLPFN9

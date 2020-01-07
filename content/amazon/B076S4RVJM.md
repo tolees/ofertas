@@ -3,7 +3,7 @@ layout: post
 title: 'B076S4RVJM: Rebaja en Under Armour Lockdown 3 3020622-001  Zap en Amazon'
 date: 2019/12/17 16:25:26 +0000
 comments: true
-tags: B076S4RVJM
+image: https://images-eu.ssl-images-amazon.com/images/I/41LLmTu4ZuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B076S4RVJM

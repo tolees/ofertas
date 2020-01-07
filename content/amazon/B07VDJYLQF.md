@@ -3,7 +3,7 @@ layout: post
 title: 'B07VDJYLQF: Ahorra en Memoria USB 3.0 de 64GB Pendrive con Lla'
 date: 2019/12/10 23:27:29 +0000
 comments: true
-tags: B07VDJYLQF
+image: https://images-eu.ssl-images-amazon.com/images/I/31Ge47qQyOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VDJYLQF

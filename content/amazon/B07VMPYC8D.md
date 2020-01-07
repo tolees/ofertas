@@ -3,7 +3,7 @@ layout: post
 title: 'B07VMPYC8D: Ahorra en Tuokay 12M Cadena de Luces Solares 8 Mod'
 date: 2019/12/16 12:40:35 +0000
 comments: true
-tags: B07VMPYC8D
+image: https://images-eu.ssl-images-amazon.com/images/I/51vlShDJ4yL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VMPYC8D

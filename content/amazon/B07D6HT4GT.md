@@ -2,6 +2,7 @@
 layout: post
 title: 'B07D6HT4GT - Ofertón en Amazon para Kyansin Reconstruido Cartuchos de Tinta '
 date: 2019/12/23 18:20:01 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31INYETXVjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

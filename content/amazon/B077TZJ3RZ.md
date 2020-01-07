@@ -2,6 +2,7 @@
 layout: post
 title: 'B077TZJ3RZ - Ofertón en Amazon para Kipling Amiel  Bolso bandolera para Muje'
 date: 2019/12/17 00:33:27 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41k8EQz2rIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

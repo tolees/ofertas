@@ -3,7 +3,7 @@ layout: post
 title: 'B07XGG4KTF: Ahorra en LK Protector de Pantalla para Xiaomi Red'
 date: 2020-01-01 15:18:56
 comments: true
-tags: B07XGG4KTF
+image: https://images-eu.ssl-images-amazon.com/images/I/51iHBt6ejEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XGG4KTF

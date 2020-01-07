@@ -2,6 +2,7 @@
 layout: post
 title: 'B01BTZQYIQ - Ofertón en Amazon para REPLAY MA955 Newbill Vaqueros Straight  '
 date: 2019/12/15 08:03:41 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41JXbw2ouUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

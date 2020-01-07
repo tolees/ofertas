@@ -3,7 +3,7 @@ layout: post
 title: 'B07KPTZ9VX: Ahorra en Funko 37436 POP Games: Overwatch-Pharah '
 date: 2019/12/11 12:45:13 +0000
 comments: true
-tags: B07KPTZ9VX
+image: https://images-eu.ssl-images-amazon.com/images/I/41HgzgLVOuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KPTZ9VX

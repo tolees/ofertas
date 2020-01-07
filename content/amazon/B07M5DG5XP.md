@@ -3,7 +3,7 @@ layout: post
 title: 'B07M5DG5XP: Ahorra en Lee Rider Jeans Vaqueros  Dark Marine  3'
 date: 2020-01-07 08:05:11
 comments: true
-tags: B07M5DG5XP
+image: https://images-eu.ssl-images-amazon.com/images/I/31-AzPGCjlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M5DG5XP

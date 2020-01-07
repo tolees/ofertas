@@ -2,6 +2,7 @@
 layout: post
 title: 'B07VV5S8GV - Ofertón en Amazon para Abeyete Pulsera de Actividad Reloj Intel'
 date: 2020-01-02 10:21:12
+image: https://images-eu.ssl-images-amazon.com/images/I/51ROaWMmqjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

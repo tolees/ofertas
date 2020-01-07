@@ -3,7 +3,7 @@ layout: post
 title: 'B07TN4RKPH: Ahorra en Bluetooth V5.0 Headset Wireless Earpiece'
 date: 2020-01-07 14:11:56
 comments: true
-tags: B07TN4RKPH
+image: https://images-eu.ssl-images-amazon.com/images/I/41r7GaYXSiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TN4RKPH

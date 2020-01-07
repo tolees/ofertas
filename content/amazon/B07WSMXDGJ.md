@@ -3,7 +3,7 @@ layout: post
 title: 'B07WSMXDGJ: Ahorra en GODNECE LED Licht-Set für Baustein  Led '
 date: 2020-01-07 14:50:19
 comments: true
-tags: B07WSMXDGJ
+image: https://images-eu.ssl-images-amazon.com/images/I/41xQYJ%2B%2BTxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WSMXDGJ

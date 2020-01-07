@@ -2,6 +2,7 @@
 layout: post
 title: 'B0827HMSST - Ofertón en Amazon para IMEKIS Mädchen Prinzessin Eiskönigin ELS'
 date: 2019/12/11 04:44:46 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51mIA8vehEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

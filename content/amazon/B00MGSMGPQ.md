@@ -2,6 +2,7 @@
 layout: post
 title: 'B00MGSMGPQ - Ofertón en Amazon para Clips 539-6003-44 - Reloj de Pulsera Hom'
 date: 2020-01-02 14:57:12
+image: https://images-eu.ssl-images-amazon.com/images/I/41lGKg4MDWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

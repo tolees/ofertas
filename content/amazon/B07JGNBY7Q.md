@@ -3,7 +3,7 @@ layout: post
 title: 'B07JGNBY7Q: Rebaja en Orient Reloj Analógico para Unisex Adult en Amazon'
 date: 2019/12/18 22:01:06 +0000
 comments: true
-tags: B07JGNBY7Q
+image: https://images-eu.ssl-images-amazon.com/images/I/512nb%2BOQe4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JGNBY7Q

@@ -3,7 +3,7 @@ layout: post
 title: 'B00YUOVBZK: Ahorra en Logitech G29 Driving Force Racing Wheel '
 date: 2019/12/27 11:24:45 +0000
 comments: true
-tags: B00YUOVBZK
+image: https://images-eu.ssl-images-amazon.com/images/I/41t2I-h0YLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00YUOVBZK

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00R25QZDC - Ofertón en Amazon para UGREEN 2 Cargador USB de pared 17W 5V 3.'
 date: 2019/12/19 23:11:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31yBsx9BUSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

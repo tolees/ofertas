@@ -3,7 +3,7 @@ layout: post
 title: 'B01GT4QQQ2: Ahorra en DKNY Intimates Skyline-Essential Microf '
 date: 2019/12/13 08:10:54 +0000
 comments: true
-tags: B01GT4QQQ2
+image: https://images-eu.ssl-images-amazon.com/images/I/41u-VwVl0jL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01GT4QQQ2

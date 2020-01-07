@@ -3,7 +3,7 @@ layout: post
 title: 'B07J6SXGWF: Ahorra en Pop! Rugrats - Figura de Vinilo Angelica'
 date: 2020-01-05 23:15:11
 comments: true
-tags: B07J6SXGWF
+image: https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07J6SXGWF

@@ -3,7 +3,7 @@ layout: post
 title: 'B01N0KNVXL: Ahorra en Easton Marlowe 6 PR Calcetines Estampado'
 date: 2019/12/29 09:25:15 +0000
 comments: true
-tags: B01N0KNVXL
+image: https://images-eu.ssl-images-amazon.com/images/I/51AXK81dmDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N0KNVXL

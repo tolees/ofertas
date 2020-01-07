@@ -3,7 +3,7 @@ layout: post
 title: 'B079P8ZVXL: Ahorra en Edge Entertainment- Colonias en Guerra J'
 date: 2020-01-05 15:32:36
 comments: true
-tags: B079P8ZVXL
+image: https://images-eu.ssl-images-amazon.com/images/I/51Bwz3cIDSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079P8ZVXL

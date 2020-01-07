@@ -3,7 +3,7 @@ layout: post
 title: 'B07T4RQDNC: Ahorra en Tikea Bolsa Geométrica de Corcho Natural'
 date: 2020-01-01 16:50:50
 comments: true
-tags: B07T4RQDNC
+image: https://images-eu.ssl-images-amazon.com/images/I/51ljaMmOhKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07T4RQDNC

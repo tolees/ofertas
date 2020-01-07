@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LF68GPR - Ofertón en Amazon para BIC Cristal Multicolour - Pack de 15 uni'
 date: 2019/12/17 18:07:30 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51hyE4nzbZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

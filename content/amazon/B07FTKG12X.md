@@ -3,7 +3,7 @@ layout: post
 title: 'B07FTKG12X: Ahorra en Lee Brooklyn Vaqueros Straight  Azul  Da'
 date: 2020-01-02 18:12:51
 comments: true
-tags: B07FTKG12X
+image: https://images-eu.ssl-images-amazon.com/images/I/41iKNTsIwVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FTKG12X

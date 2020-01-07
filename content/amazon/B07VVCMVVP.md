@@ -2,6 +2,7 @@
 layout: post
 title: 'B07VVCMVVP - Ofertón en Amazon para CRXOOX 3 Piezas Protector de Pantalla pa'
 date: 2019/12/12 12:03:04 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51vU9EkN-2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

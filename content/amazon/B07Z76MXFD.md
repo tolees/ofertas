@@ -3,7 +3,7 @@ layout: post
 title: 'B07Z76MXFD: Ahorra en Pantalla de Proyector de 100 Pulgadas  P'
 date: 2019/12/25 10:54:50 +0000
 comments: true
-tags: B07Z76MXFD
+image: https://images-eu.ssl-images-amazon.com/images/I/51x4QTe48QL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Z76MXFD

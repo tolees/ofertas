@@ -3,7 +3,7 @@ layout: post
 title: 'B07VTPBRSL: Ahorra en GODNECE Vitrine Acryl  Staubschutzhaube '
 date: 2019/12/26 09:40:29 +0000
 comments: true
-tags: B07VTPBRSL
+image: https://images-eu.ssl-images-amazon.com/images/I/41k9rl-MIIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VTPBRSL

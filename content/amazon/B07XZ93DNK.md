@@ -2,6 +2,7 @@
 layout: post
 title: 'B07XZ93DNK - Ofertón en Amazon para 【2019 Nuevo Versión】 Auriculares Inalamb'
 date: 2020-01-04 10:07:01
+image: https://images-eu.ssl-images-amazon.com/images/I/413BeBm2l%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

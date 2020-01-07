@@ -3,7 +3,7 @@ layout: post
 title: 'B07WVBPGCJ: Rebaja en BRIKSMAX Led Lighting Kit for Friends St en Amazon'
 date: 2020-01-06 06:07:40
 comments: true
-tags: B07WVBPGCJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51RFJE9%2BnfL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WVBPGCJ

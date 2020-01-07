@@ -3,7 +3,7 @@ layout: post
 title: 'B07DNF8NPY: Rebaja en Calcetines de Algodón 3 Pares  Negro  EU en Amazon'
 date: 2019/12/17 06:50:48 +0000
 comments: true
-tags: B07DNF8NPY
+image: https://images-eu.ssl-images-amazon.com/images/I/417MuirZe6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DNF8NPY

@@ -3,7 +3,7 @@ layout: post
 title: 'B005XMJ7TU: Rebaja en Dim Generous Invisible Sujetador  Negro  en Amazon'
 date: 2019/12/25 08:04:58 +0000
 comments: true
-tags: B005XMJ7TU
+image: https://images-eu.ssl-images-amazon.com/images/I/41omeGmEAJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B005XMJ7TU

@@ -2,6 +2,7 @@
 layout: post
 title: 'B073SCR6VH - Ofertón en Amazon para Rayman Legends: Definitive Edition'
 date: 2020-01-02 13:17:17
+image: https://images-eu.ssl-images-amazon.com/images/I/51c6K6FoAJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

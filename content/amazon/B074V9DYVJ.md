@@ -3,7 +3,7 @@ layout: post
 title: 'B074V9DYVJ: Rebaja en Pulsera Actividad AIMIUVEI Pulsera Intel en Amazon'
 date: 2020-01-06 12:46:20
 comments: true
-tags: B074V9DYVJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51nZiEz2kZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B074V9DYVJ

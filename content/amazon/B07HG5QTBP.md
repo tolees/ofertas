@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HG5QTBP - Ofertón en Amazon para New Balance Cm997hv1  Zapatillas para Ho'
 date: 2019/12/30 15:33:06 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41XVrTdLAOL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

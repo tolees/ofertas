@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZFDZ63L: Ahorra en 50 Colores Velvet Scrunchies Terciopelo '
 date: 2019/12/12 09:09:26 +0000
 comments: true
-tags: B07ZFDZ63L
+image: https://images-eu.ssl-images-amazon.com/images/I/51OgPcNG1LL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07ZFDZ63L

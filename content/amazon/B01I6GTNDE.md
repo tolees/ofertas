@@ -3,7 +3,7 @@ layout: post
 title: 'B01I6GTNDE: Rebaja en Ecco Soft 8 Ladies  Zapatillas Altas par en Amazon'
 date: 2019/12/28 00:01:09 +0000
 comments: true
-tags: B01I6GTNDE
+image: https://images-eu.ssl-images-amazon.com/images/I/411Ac1klFkL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01I6GTNDE

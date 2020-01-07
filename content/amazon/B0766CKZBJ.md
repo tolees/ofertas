@@ -2,6 +2,7 @@
 layout: post
 title: 'B0766CKZBJ - Ofertón en Amazon para PLAYMOBIL Dinos 9432 Forschermobil mit S'
 date: 2020-01-05 22:40:45
+image: None._SL200_
 comments: true
 category: ofertas
 author: ring

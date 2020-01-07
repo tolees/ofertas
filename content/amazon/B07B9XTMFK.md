@@ -3,7 +3,7 @@ layout: post
 title: 'B07B9XTMFK: Rebaja en Dreamzie Almohada Cervical y Ortopédica  en Amazon'
 date: 2019/12/14 23:53:51 +0000
 comments: true
-tags: B07B9XTMFK
+image: https://images-eu.ssl-images-amazon.com/images/I/41v3Bu2atjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B9XTMFK

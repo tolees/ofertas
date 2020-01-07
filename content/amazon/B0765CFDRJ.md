@@ -3,7 +3,7 @@ layout: post
 title: 'B0765CFDRJ: Ahorra en LEGO DUPLO Eisenbahnbrücke und Schienen '
 date: 2019/12/27 10:03:46 +0000
 comments: true
-tags: B0765CFDRJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51K5%2BLp65iL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0765CFDRJ

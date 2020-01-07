@@ -3,7 +3,7 @@ layout: post
 title: 'B07LGSWDS4: Rebaja en iEFiEL Damen Prinzessin Kostüm Königin P en Amazon'
 date: 2020-01-04 22:18:50
 comments: true
-tags: B07LGSWDS4
+image: https://images-eu.ssl-images-amazon.com/images/I/4180WYdOIYL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LGSWDS4

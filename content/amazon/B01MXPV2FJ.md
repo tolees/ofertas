@@ -3,7 +3,7 @@ layout: post
 title: 'B01MXPV2FJ: Ahorra en Energy Sistem Tower 1 -  Sistema de alta'
 date: 2020-01-05 07:31:33
 comments: true
-tags: B01MXPV2FJ
+image: https://images-eu.ssl-images-amazon.com/images/I/31gKut3TC7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MXPV2FJ

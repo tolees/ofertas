@@ -3,7 +3,7 @@ layout: post
 title: 'B07B37TBLL: Ahorra en Marqués de Carrión Reserva Vino Tinto D.'
 date: 2020-01-02 10:22:23
 comments: true
-tags: B07B37TBLL
+image: https://images-eu.ssl-images-amazon.com/images/I/41JJz9BJAwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07B37TBLL

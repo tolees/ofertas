@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GSSYQ33 - Ofertón en Amazon para Sjpzwcrl para GoPro Bolso  Protectora Mi'
 date: 2019/12/18 19:09:05 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41S02SC0cfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

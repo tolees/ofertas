@@ -3,7 +3,7 @@ layout: post
 title: 'B06X6JCBBR: Rebaja en Ultimate Ears Wonderboom Altavoz Portáti en Amazon'
 date: 2019/12/23 17:06:11 +0000
 comments: true
-tags: B06X6JCBBR
+image: https://images-eu.ssl-images-amazon.com/images/I/51k1sj7YWFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06X6JCBBR

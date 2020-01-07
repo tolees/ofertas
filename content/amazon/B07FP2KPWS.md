@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FP2KPWS - Ofertón en Amazon para LEGO Classic 11003 - Bausteine - Witzige'
 date: 2019/12/30 21:45:02 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/618tTt3QPeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

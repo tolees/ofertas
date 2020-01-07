@@ -3,7 +3,7 @@ layout: post
 title: 'B07JMXPZFV: Ahorra en Timberland Euro Sprint Fabric  Zapatilla'
 date: 2019/12/13 10:21:06 +0000
 comments: true
-tags: B07JMXPZFV
+image: https://images-eu.ssl-images-amazon.com/images/I/51xVs-F9u3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JMXPZFV

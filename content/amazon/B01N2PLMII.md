@@ -2,6 +2,7 @@
 layout: post
 title: 'B01N2PLMII - Ofertón en Amazon para adidas 6P Cotton Gorra de Tenis  Hombre '
 date: 2020-01-02 21:56:02
+image: https://images-eu.ssl-images-amazon.com/images/I/41zHJAa%2BfsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

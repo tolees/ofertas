@@ -3,7 +3,7 @@ layout: post
 title: 'B077HXPCR5: Rebaja en Seiko Reloj Analógico para Mujer de Cuar en Amazon'
 date: 2019/12/20 01:05:10 +0000
 comments: true
-tags: B077HXPCR5
+image: https://images-eu.ssl-images-amazon.com/images/I/313fGx0EewL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077HXPCR5

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FQVQVB7 - Ofertón en Amazon para GANT FOOTWEAR New Haven  Zapatillas para'
 date: 2020-01-05 23:54:57
+image: https://images-eu.ssl-images-amazon.com/images/I/31SN1vdH7oL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

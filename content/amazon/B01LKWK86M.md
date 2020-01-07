@@ -3,7 +3,7 @@ layout: post
 title: 'B01LKWK86M: Rebaja en Epson WFDS530 - Escáner de Documentos en en Amazon'
 date: 2020-01-03 05:20:14
 comments: true
-tags: B01LKWK86M
+image: https://images-eu.ssl-images-amazon.com/images/I/41nURRkiT4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LKWK86M

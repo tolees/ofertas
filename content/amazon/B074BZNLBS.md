@@ -3,7 +3,7 @@ layout: post
 title: 'B074BZNLBS: Ahorra en Pepe Jeans Kingston Zip  Vaqueros Recto '
 date: 2019/12/30 20:26:36 +0000
 comments: true
-tags: B074BZNLBS
+image: https://images-eu.ssl-images-amazon.com/images/I/41VnX5cnsUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B074BZNLBS

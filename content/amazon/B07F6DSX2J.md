@@ -3,7 +3,7 @@ layout: post
 title: 'B07F6DSX2J: Rebaja en Baja tu Colesterol | Reduce los niveles  en Amazon'
 date: 2020-01-04 06:04:20
 comments: true
-tags: B07F6DSX2J
+image: https://images-eu.ssl-images-amazon.com/images/I/41spLc3XenL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F6DSX2J

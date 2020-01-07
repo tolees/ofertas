@@ -3,7 +3,7 @@ layout: post
 title: 'B07BPZDYGG: Ahorra en Lee Daren Vaqueros Straight  Azul  Blue '
 date: 2019/12/12 11:56:29 +0000
 comments: true
-tags: B07BPZDYGG
+image: https://images-eu.ssl-images-amazon.com/images/I/417lEVIAn4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BPZDYGG

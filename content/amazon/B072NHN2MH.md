@@ -3,7 +3,7 @@ layout: post
 title: 'B072NHN2MH: Ahorra en RED WAGON Botas con Cremallera para Niño'
 date: 2019/12/23 23:04:37 +0000
 comments: true
-tags: B072NHN2MH
+image: https://images-eu.ssl-images-amazon.com/images/I/31UlORPF4gL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072NHN2MH

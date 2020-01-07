@@ -3,7 +3,7 @@ layout: post
 title: 'B004EPYIXW: Ahorra en Scitec Whey Protein Professional Mezcla '
 date: 2019/12/22 09:08:46 +0000
 comments: true
-tags: B004EPYIXW
+image: https://images-eu.ssl-images-amazon.com/images/I/415BvN4%2BDiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B004EPYIXW

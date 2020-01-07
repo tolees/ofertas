@@ -3,7 +3,7 @@ layout: post
 title: 'B00MGSMO80: Ahorra en Clips 539-6004-44 - Reloj de Pulsera Hom'
 date: 2019/12/24 16:16:39 +0000
 comments: true
-tags: B00MGSMO80
+image: https://images-eu.ssl-images-amazon.com/images/I/41VJpKSdtUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00MGSMO80

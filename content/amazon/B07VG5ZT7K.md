@@ -3,7 +3,7 @@ layout: post
 title: 'B07VG5ZT7K: Rebaja en Grebarley Guantes de Ciclismo Bicicleta  en Amazon'
 date: 2020-01-01 16:41:47
 comments: true
-tags: B07VG5ZT7K
+image: https://images-eu.ssl-images-amazon.com/images/I/51YvoGp1kGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VG5ZT7K

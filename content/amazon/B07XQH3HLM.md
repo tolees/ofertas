@@ -3,7 +3,7 @@ layout: post
 title: 'B07XQH3HLM: Ahorra en Montse Interiors  S.L. Cuadrante o Cojín'
 date: 2020-01-06 22:31:46
 comments: true
-tags: B07XQH3HLM
+image: https://images-eu.ssl-images-amazon.com/images/I/31NAEu3XypL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XQH3HLM

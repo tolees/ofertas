@@ -3,7 +3,7 @@ layout: post
 title: 'B07S1CB8YG: Rebaja en New Look Tasmim Texture Chaqueta de Traj en Amazon'
 date: 2020-01-03 08:20:15
 comments: true
-tags: B07S1CB8YG
+image: https://images-eu.ssl-images-amazon.com/images/I/41a4hBPqw7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07S1CB8YG

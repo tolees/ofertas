@@ -2,6 +2,7 @@
 layout: post
 title: 'B07B4ZBHNL - Ofertón en Amazon para JACK & JONES Jjeunion Knit Crew Neck Noo'
 date: 2019/12/13 08:19:36 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51tRFsa564L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

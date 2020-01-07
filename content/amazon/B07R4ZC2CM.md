@@ -3,7 +3,7 @@ layout: post
 title: 'B07R4ZC2CM: Ahorra en UMIDIGI Power Smartphone Libres Android '
 date: 2019/12/18 08:58:21 +0000
 comments: true
-tags: B07R4ZC2CM
+image: https://images-eu.ssl-images-amazon.com/images/I/41L8f7aYqCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07R4ZC2CM

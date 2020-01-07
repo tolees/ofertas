@@ -2,6 +2,7 @@
 layout: post
 title: 'B07BS3MSQR - Ofertón en Amazon para Naipo Cojín de Masaje Respaldo Masajeado'
 date: 2019/12/30 08:12:00 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41hktHhLaUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07SFYJW9J: Rebaja en Nike Air Huarache Run Ultra GS  Zapatill en Amazon'
 date: 2019/12/27 16:14:11 +0000
 comments: true
-tags: B07SFYJW9J
+image: https://images-eu.ssl-images-amazon.com/images/I/41y3W9yKgDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SFYJW9J

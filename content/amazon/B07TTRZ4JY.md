@@ -3,7 +3,7 @@ layout: post
 title: 'B07TTRZ4JY: Rebaja en YANGOO Pulsera Actividad Inteligente Imp en Amazon'
 date: 2019/12/20 00:00:58 +0000
 comments: true
-tags: B07TTRZ4JY
+image: https://images-eu.ssl-images-amazon.com/images/I/51NkwL-gifL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TTRZ4JY

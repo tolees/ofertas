@@ -2,6 +2,7 @@
 layout: post
 title: 'B072R1ZHCK - Ofertón en Amazon para 24 Tubos de Pintura de Acuarela de Zenac'
 date: 2019/12/26 07:15:43 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51t8VLbhBEL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

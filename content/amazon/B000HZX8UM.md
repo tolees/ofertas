@@ -3,7 +3,7 @@ layout: post
 title: 'B000HZX8UM: Ahorra en Timex T2H281 - Reloj análogico de cuarzo'
 date: 2019/12/20 22:47:49 +0000
 comments: true
-tags: B000HZX8UM
+image: https://images-eu.ssl-images-amazon.com/images/I/41FXXt28wpL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B000HZX8UM

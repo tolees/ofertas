@@ -3,7 +3,7 @@ layout: post
 title: 'B07BNJ1SGJ: Ahorra en Disney Frozen - El reino del hielo Bañad'
 date: 2020-01-05 14:27:26
 comments: true
-tags: B07BNJ1SGJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51-mE1b%2BmUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BNJ1SGJ

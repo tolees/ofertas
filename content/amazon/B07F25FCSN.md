@@ -2,6 +2,7 @@
 layout: post
 title: 'B07F25FCSN - Ofertón en Amazon para Amzdeal Grifo de Cocina 360° Giratorio  '
 date: 2020-01-04 12:48:39
+image: https://images-eu.ssl-images-amazon.com/images/I/31VLp6QRihL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07HJCD7B5: Ahorra en Pop! Stranger Things S2 - Figura de Vini'
 date: 2020-01-07 14:42:53
 comments: true
-tags: B07HJCD7B5
+image: https://images-eu.ssl-images-amazon.com/images/I/41rDluAmTNL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HJCD7B5

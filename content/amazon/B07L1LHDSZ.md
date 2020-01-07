@@ -2,6 +2,7 @@
 layout: post
 title: 'B07L1LHDSZ - Ofertón en Amazon para Vicloon Babero de Bebé del Silicona 2pcs'
 date: 2020-01-04 18:24:37
+image: https://images-eu.ssl-images-amazon.com/images/I/41xPb9xLFxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

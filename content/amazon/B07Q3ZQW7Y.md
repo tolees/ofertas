@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q3ZQW7Y: Ahorra en licaso Jutebeutel Bedruckt Love Liebe L '
 date: 2020-01-01 22:48:35
 comments: true
-tags: B07Q3ZQW7Y
+image: https://images-eu.ssl-images-amazon.com/images/I/31o5rZwptxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Q3ZQW7Y

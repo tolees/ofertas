@@ -3,7 +3,7 @@ layout: post
 title: 'B01MT9CCZG: Ahorra en The LEGO Batman Movie MiniFigure - Batma'
 date: 2019/12/26 00:34:09 +0000
 comments: true
-tags: B01MT9CCZG
+image: https://images-eu.ssl-images-amazon.com/images/I/41HDhCwse6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MT9CCZG

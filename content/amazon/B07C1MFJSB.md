@@ -3,7 +3,7 @@ layout: post
 title: 'B07C1MFJSB: Rebaja en Beneyond Tienda para niños cercados / In en Amazon'
 date: 2019/12/13 12:35:16 +0000
 comments: true
-tags: B07C1MFJSB
+image: https://images-eu.ssl-images-amazon.com/images/I/51mpgeimOKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07C1MFJSB

@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XPC9SS6 - Ofertón en Amazon para Bose SoundLink Revolve Plus Bluetooth Sp'
 date: 2019/12/12 22:15:31 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41GSYS84DmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

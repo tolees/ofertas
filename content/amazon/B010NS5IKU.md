@@ -3,7 +3,7 @@ layout: post
 title: 'B010NS5IKU: Ahorra en Rascador Gato Altura 40cm Arbol Poste pa'
 date: 2019/12/29 19:08:59 +0000
 comments: true
-tags: B010NS5IKU
+image: https://images-eu.ssl-images-amazon.com/images/I/411E2v9VN8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B010NS5IKU

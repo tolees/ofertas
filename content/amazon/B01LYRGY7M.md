@@ -3,7 +3,7 @@ layout: post
 title: 'B01LYRGY7M: Ahorra en PLAYMOBIL Ghostbusters 9219 Feuerwache  '
 date: 2020-01-07 06:40:01
 comments: true
-tags: B01LYRGY7M
+image: https://images-eu.ssl-images-amazon.com/images/I/61NZwsJ45XL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LYRGY7M

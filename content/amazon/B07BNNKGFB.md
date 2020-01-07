@@ -3,7 +3,7 @@ layout: post
 title: 'B07BNNKGFB: Rebaja en meiqicool de Puzzle para niños schaumsto en Amazon'
 date: 2019/12/15 16:57:33 +0000
 comments: true
-tags: B07BNNKGFB
+image: https://images-eu.ssl-images-amazon.com/images/I/51BadWiCkaL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BNNKGFB

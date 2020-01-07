@@ -3,7 +3,7 @@ layout: post
 title: 'B001NYF3HM: Rebaja en Reebok Classic Leather Zapatillas  Mujer en Amazon'
 date: 2019/12/15 12:27:54 +0000
 comments: true
-tags: B001NYF3HM
+image: https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B001NYF3HM

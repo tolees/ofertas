@@ -3,7 +3,7 @@ layout: post
 title: 'B077YDGGF6: Rebaja en Cybex Gold Pallas S-Fix - Silla de coche en Amazon'
 date: 2020-01-02 07:55:49
 comments: true
-tags: B077YDGGF6
+image: https://images-eu.ssl-images-amazon.com/images/I/31kHp4YQvKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077YDGGF6

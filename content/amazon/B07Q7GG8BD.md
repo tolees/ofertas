@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q7GG8BD: Rebaja en Umi. Essentials - Auriculares de botón i en Amazon'
 date: 2019/12/29 21:56:40 +0000
 comments: true
-tags: B07Q7GG8BD
+image: https://images-eu.ssl-images-amazon.com/images/I/41N7Z3K77vL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Q7GG8BD

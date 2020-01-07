@@ -2,6 +2,7 @@
 layout: post
 title: 'B076PM1GSK - Ofertón en Amazon para Scholl Lima Electrónica de Pies Rosa y 2'
 date: 2020-01-03 19:04:04
+image: https://images-eu.ssl-images-amazon.com/images/I/5164gKLN2IL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

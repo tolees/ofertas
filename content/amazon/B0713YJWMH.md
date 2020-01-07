@@ -3,7 +3,7 @@ layout: post
 title: 'B0713YJWMH: Rebaja en SELECTED HOMME Shnslim-Leon 1001 St JNS  en Amazon'
 date: 2019/12/21 10:52:13 +0000
 comments: true
-tags: B0713YJWMH
+image: https://images-eu.ssl-images-amazon.com/images/I/41vJFv2LAvL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0713YJWMH

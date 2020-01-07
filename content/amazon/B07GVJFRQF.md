@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GVJFRQF - Ofertón en Amazon para Lápiz Stylus Pen  40 Horas de Trabajo Co'
 date: 2020-01-07 08:40:35
+image: https://images-eu.ssl-images-amazon.com/images/I/41WUL2GVh-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

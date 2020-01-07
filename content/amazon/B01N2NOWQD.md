@@ -3,7 +3,7 @@ layout: post
 title: 'B01N2NOWQD: Rebaja en Easton Marlowe 6 PR Calcetines Estampado en Amazon'
 date: 2019/12/25 11:33:33 +0000
 comments: true
-tags: B01N2NOWQD
+image: https://images-eu.ssl-images-amazon.com/images/I/51SCEPtUNOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N2NOWQD

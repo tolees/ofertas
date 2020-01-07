@@ -3,7 +3,7 @@ layout: post
 title: 'B075FFCCJJ: Ahorra en Maxi-Cosi CABRIOFIX  Sparkling Grey  - S'
 date: 2020-01-05 12:35:42
 comments: true
-tags: B075FFCCJJ
+image: https://images-eu.ssl-images-amazon.com/images/I/414iijCqdPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B075FFCCJJ

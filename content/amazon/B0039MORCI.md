@@ -3,7 +3,7 @@ layout: post
 title: 'B0039MORCI: Ahorra en Sylvanian Families Igloo Tent'
 date: 2020-01-05 22:36:29
 comments: true
-tags: B0039MORCI
+image: https://images-eu.ssl-images-amazon.com/images/I/5118K364s8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0039MORCI

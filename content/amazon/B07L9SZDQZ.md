@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9SZDQZ: Ahorra en Lacoste Graduate Bl 1 SMA  Zapatillas pa'
 date: 2019/12/22 13:45:41 +0000
 comments: true
-tags: B07L9SZDQZ
+image: https://images-eu.ssl-images-amazon.com/images/I/31orbdrPgUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07L9SZDQZ

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DWLZGZJ: Rebaja en find. Leather Cleated Botas Chelsea  Neg en Amazon'
 date: 2019/12/20 14:33:10 +0000
 comments: true
-tags: B07DWLZGZJ
+image: https://images-eu.ssl-images-amazon.com/images/I/31l7pO3xzKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DWLZGZJ

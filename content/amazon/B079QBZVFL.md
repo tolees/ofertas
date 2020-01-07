@@ -2,6 +2,7 @@
 layout: post
 title: 'B079QBZVFL - Ofertón en Amazon para Hackett London Padded Field JKT  Chaquet'
 date: 2019/12/19 07:49:35 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31AN-momviL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

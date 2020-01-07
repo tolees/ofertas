@@ -3,7 +3,7 @@ layout: post
 title: 'B01NAIEG87: Rebaja en KRISP 6252-GRY-20  Vestido Corto Patinad en Amazon'
 date: 2020-01-04 11:16:46
 comments: true
-tags: B01NAIEG87
+image: https://images-eu.ssl-images-amazon.com/images/I/41S097vM1DL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01NAIEG87

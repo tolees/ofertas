@@ -3,7 +3,7 @@ layout: post
 title: 'B07DP3JBCT: Ahorra en Eastpak Padded Pak R Mochila  24 L  Azul'
 date: 2019/12/13 20:21:04 +0000
 comments: true
-tags: B07DP3JBCT
+image: https://images-eu.ssl-images-amazon.com/images/I/41Eh1BfeC-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DP3JBCT

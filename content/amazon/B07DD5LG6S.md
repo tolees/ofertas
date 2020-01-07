@@ -3,7 +3,7 @@ layout: post
 title: 'B07DD5LG6S: Rebaja en Dreambuilder toy Classic Building Base P en Amazon'
 date: 2019/12/26 00:34:09 +0000
 comments: true
-tags: B07DD5LG6S
+image: https://images-eu.ssl-images-amazon.com/images/I/51ZxDDqGZIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DD5LG6S

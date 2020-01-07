@@ -3,7 +3,7 @@ layout: post
 title: 'B07DD3RDPH: Rebaja en Pikmi Pops Serie 2 -  Piruleta 1 Peluche en Amazon'
 date: 2019/12/28 23:10:09 +0000
 comments: true
-tags: B07DD3RDPH
+image: https://images-eu.ssl-images-amazon.com/images/I/517HNYuZdwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DD3RDPH

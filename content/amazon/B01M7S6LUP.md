@@ -3,7 +3,7 @@ layout: post
 title: 'B01M7S6LUP: Ahorra en Under Armour Sportstyle Tricot Jogger Pa'
 date: 2019/12/18 18:22:22 +0000
 comments: true
-tags: B01M7S6LUP
+image: https://images-eu.ssl-images-amazon.com/images/I/413cM30AyGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01M7S6LUP

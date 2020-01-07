@@ -3,7 +3,7 @@ layout: post
 title: 'B06Y2WSJJQ: Ahorra en New Balance 574 Core Zapatillas Hombre  '
 date: 2019/12/29 08:10:19 +0000
 comments: true
-tags: B06Y2WSJJQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06Y2WSJJQ

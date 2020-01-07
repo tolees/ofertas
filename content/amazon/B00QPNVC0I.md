@@ -2,6 +2,7 @@
 layout: post
 title: 'B00QPNVC0I - Ofertón en Amazon para Real Techniques  Esponja para maquillaje'
 date: 2019/12/26 11:09:10 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41gB73CzXTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

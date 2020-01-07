@@ -2,6 +2,7 @@
 layout: post
 title: 'B07SGX4J7W - Ofertón en Amazon para Relojes Hombre De Malla Ultra Fino Negro'
 date: 2019/12/16 18:56:04 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41xWGghsm1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B073ZLTQML: Ahorra en WD My Book Duo Disco duro externo de Sob'
 date: 2020-01-04 10:50:52
 comments: true
-tags: B073ZLTQML
+image: https://images-eu.ssl-images-amazon.com/images/I/31yyf%2B9XFuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073ZLTQML

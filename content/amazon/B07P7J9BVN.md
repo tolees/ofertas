@@ -3,7 +3,7 @@ layout: post
 title: 'B07P7J9BVN: Ahorra en Portable Charger 10000mAh With Bright Fl'
 date: 2019/12/12 19:33:33 +0000
 comments: true
-tags: B07P7J9BVN
+image: https://images-eu.ssl-images-amazon.com/images/I/31uSJGjMoSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07P7J9BVN

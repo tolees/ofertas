@@ -3,7 +3,7 @@ layout: post
 title: 'B07LGXKSD9: Rebaja en The North Face Dryzzle Chaqueta para Muj en Amazon'
 date: 2019/12/21 14:13:25 +0000
 comments: true
-tags: B07LGXKSD9
+image: https://images-eu.ssl-images-amazon.com/images/I/31FSoh357tL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LGXKSD9

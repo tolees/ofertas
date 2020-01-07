@@ -3,7 +3,7 @@ layout: post
 title: 'B004APOFQ6: Rebaja en Seiko Reloj Analógico de Cuarzo para Hom en Amazon'
 date: 2019/12/21 01:24:43 +0000
 comments: true
-tags: B004APOFQ6
+image: https://images-eu.ssl-images-amazon.com/images/I/41tjAu95hAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B004APOFQ6

@@ -3,7 +3,7 @@ layout: post
 title: 'B01MG9GCU0: Ahorra en yoptote Frutas y Verduras Juguete para C'
 date: 2019/12/29 17:13:52 +0000
 comments: true
-tags: B01MG9GCU0
+image: https://images-eu.ssl-images-amazon.com/images/I/51Mhcl5bwyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MG9GCU0

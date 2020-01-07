@@ -3,7 +3,7 @@ layout: post
 title: 'B000JL7WQK: Rebaja en Vera Wang Princess Eau de Toilette - 100 en Amazon'
 date: 2019/12/30 17:40:00 +0000
 comments: true
-tags: B000JL7WQK
+image: https://images-eu.ssl-images-amazon.com/images/I/41CR8%2BmVW8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B000JL7WQK

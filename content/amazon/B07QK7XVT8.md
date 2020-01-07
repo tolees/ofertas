@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QK7XVT8 - Ofertón en Amazon para Panini 1 Road To Euro 2020 Adrenalyn XL '
 date: 2019/12/22 15:22:39 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/61IvLu5ZhrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

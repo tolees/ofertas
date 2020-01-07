@@ -3,7 +3,7 @@ layout: post
 title: 'B004WJ0IPM: Rebaja en Furminator Herramienta de muda para Perr en Amazon'
 date: 2020-01-06 00:29:40
 comments: true
-tags: B004WJ0IPM
+image: https://images-eu.ssl-images-amazon.com/images/I/411hra9MHrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B004WJ0IPM

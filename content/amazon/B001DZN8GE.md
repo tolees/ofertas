@@ -2,6 +2,7 @@
 layout: post
 title: 'B001DZN8GE - Ofertón en Amazon para Epson Durabrite Ultra Ink para Stylus SX'
 date: 2019/12/23 03:34:24 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

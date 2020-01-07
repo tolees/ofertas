@@ -3,7 +3,7 @@ layout: post
 title: 'B07CZJJ1DD: Rebaja en Powerbeats3 Wireless Earphones - The Bea en Amazon'
 date: 2019/12/12 11:04:52 +0000
 comments: true
-tags: B07CZJJ1DD
+image: https://images-eu.ssl-images-amazon.com/images/I/31q2kVCu6XL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CZJJ1DD

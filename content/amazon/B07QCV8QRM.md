@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QCV8QRM - Ofertón en Amazon para Hombre Zapatillas Deporte para Zapatilla'
 date: 2019/12/27 14:06:07 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41m8RA9SQ6L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

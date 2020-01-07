@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'B01J41KZBO: Rebaja en LEGO STAR WARS - Chirrut Îmwe  75524  en Amazon'
-date: 2020-01-05 14:40:15
+title: 'B01J41KZBO: Rebaja en LEGO 75524 Star Wars Chirrut Imwe en Amazon'
+date: 2020-01-05 22:13:10
 comments: true
-tags: B01J41KZBO
+image: https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01J41KZBO
 description:
 ---
 
-Está [LEGO STAR WARS - Chirrut Îmwe  75524 ](https://www.amazon.com/dp/B01J41KZBO/?tag=redken08-20) por 13.5 EUR (original: 26.99 EUR) en el siguiente enlace!
+Está [LEGO 75524 Star Wars Chirrut Imwe](https://www.amazon.com/dp/B01J41KZBO/?tag=redken08-20) por 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg)](https://www.amazon.com/dp/B01J41KZBO/?tag=redken08-20)
 

@@ -3,7 +3,7 @@ layout: post
 title: 'B01N7DIW2Q: Ahorra en MUSITREND Tocadiscos Bluetooth  Reproduc'
 date: 2019/12/14 06:02:27 +0000
 comments: true
-tags: B01N7DIW2Q
+image: ._SL200_
 category: ofertas
 author: ring
 slug: B01N7DIW2Q

@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQ7BYRP: Ahorra en L.O.L Surprise! Girls Dolls Nightdress P'
 date: 2019/12/27 16:27:57 +0000
 comments: true
-tags: B07KQ7BYRP
+image: https://images-eu.ssl-images-amazon.com/images/I/51C0R0MAe0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KQ7BYRP

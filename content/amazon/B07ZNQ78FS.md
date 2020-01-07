@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZNQ78FS: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Frien'
 date: 2020-01-05 22:21:14
 comments: true
-tags: B07ZNQ78FS
+image: https://images-eu.ssl-images-amazon.com/images/I/51RgNC1i8XL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07ZNQ78FS

@@ -3,7 +3,7 @@ layout: post
 title: 'B00SAEQFHU: Rebaja en Joma Londres - Chubasquero para niño de  en Amazon'
 date: 2019/12/24 10:18:41 +0000
 comments: true
-tags: B00SAEQFHU
+image: https://images-eu.ssl-images-amazon.com/images/I/41b1-dPvSBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00SAEQFHU

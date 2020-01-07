@@ -3,7 +3,7 @@ layout: post
 title: 'B01MA3TFY2: Ahorra en Bissell PowerFresh Lift Off Mopa a Vapor'
 date: 2019/12/29 13:13:42 +0000
 comments: true
-tags: B01MA3TFY2
+image: https://images-eu.ssl-images-amazon.com/images/I/31LkdgLK8rL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MA3TFY2

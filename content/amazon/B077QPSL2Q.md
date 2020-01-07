@@ -2,6 +2,7 @@
 layout: post
 title: 'B077QPSL2Q - Ofertón en Amazon para Superga 2750-cotbumpj  Zapatillas de Gim'
 date: 2020-01-03 10:22:26
+image: https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

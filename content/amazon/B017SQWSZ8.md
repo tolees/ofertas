@@ -3,7 +3,7 @@ layout: post
 title: 'B017SQWSZ8: Rebaja en Salomon Speedcross 4  Zapatillas de Trai en Amazon'
 date: 2019/12/16 10:17:44 +0000
 comments: true
-tags: B017SQWSZ8
+image: https://images-eu.ssl-images-amazon.com/images/I/51B3iU1ndRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B017SQWSZ8

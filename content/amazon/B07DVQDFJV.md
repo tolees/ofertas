@@ -3,7 +3,7 @@ layout: post
 title: 'B07DVQDFJV: Ahorra en New Balance Fresh Foam Roav   Zapatillas'
 date: 2019/12/30 20:41:06 +0000
 comments: true
-tags: B07DVQDFJV
+image: https://images-eu.ssl-images-amazon.com/images/I/41XvpaZKj9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DVQDFJV

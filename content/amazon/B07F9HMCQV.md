@@ -2,6 +2,7 @@
 layout: post
 title: 'B07F9HMCQV - Ofertón en Amazon para adidas 3Mc  Zapatillas de Skateboard Uni'
 date: 2020-01-03 08:12:50
+image: https://images-eu.ssl-images-amazon.com/images/I/31A6rkgAAKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

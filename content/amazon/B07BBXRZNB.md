@@ -3,7 +3,7 @@ layout: post
 title: 'B07BBXRZNB: Rebaja en Call of Duty: Black Ops IIII + Tarjeta d en Amazon'
 date: 2019/12/25 21:14:24 +0000
 comments: true
-tags: B07BBXRZNB
+image: https://images-eu.ssl-images-amazon.com/images/I/41QkyVXnGQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BBXRZNB

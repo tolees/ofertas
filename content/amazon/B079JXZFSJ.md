@@ -3,7 +3,7 @@ layout: post
 title: 'B079JXZFSJ: Rebaja en Napapijri Mana Stretch  Pantalones  Azul en Amazon'
 date: 2020-01-07 10:29:08
 comments: true
-tags: B079JXZFSJ
+image: https://images-eu.ssl-images-amazon.com/images/I/31gwBTv9-JL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079JXZFSJ

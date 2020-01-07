@@ -3,7 +3,7 @@ layout: post
 title: 'B00DSN2XJW: Rebaja en Columbia Klamath Range II Forro Polar co en Amazon'
 date: 2019/12/26 15:23:22 +0000
 comments: true
-tags: B00DSN2XJW
+image: https://images-eu.ssl-images-amazon.com/images/I/41qGQ8Zn6ZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00DSN2XJW

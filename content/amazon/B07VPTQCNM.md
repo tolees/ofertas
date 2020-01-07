@@ -3,7 +3,7 @@ layout: post
 title: 'B07VPTQCNM: Ahorra en Izod Faux Down Hooded Parka  Azul  Navy '
 date: 2019/12/21 19:43:13 +0000
 comments: true
-tags: B07VPTQCNM
+image: https://images-eu.ssl-images-amazon.com/images/I/412pqmuYG8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VPTQCNM

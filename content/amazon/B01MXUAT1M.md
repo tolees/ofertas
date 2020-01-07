@@ -3,7 +3,7 @@ layout: post
 title: 'B01MXUAT1M: Ahorra en Bluetooth CSR 4.0 USB Dongle Adapter  EK'
 date: 2020-01-07 14:12:49
 comments: true
-tags: B01MXUAT1M
+image: https://images-eu.ssl-images-amazon.com/images/I/41VLfOa4VyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MXUAT1M

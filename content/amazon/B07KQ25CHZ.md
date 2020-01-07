@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KQ25CHZ - Ofertón en Amazon para VicTsing Lámpara de Mesa 18 LEDs Recarga'
 date: 2020-01-01 09:11:34
+image: https://images-eu.ssl-images-amazon.com/images/I/217R1DHZzdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

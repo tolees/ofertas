@@ -3,7 +3,7 @@ layout: post
 title: 'B07NFJN2SL: Ahorra en Kipling Seoul GO S Mochila Infantil  35 '
 date: 2019/12/11 23:53:24 +0000
 comments: true
-tags: B07NFJN2SL
+image: https://images-eu.ssl-images-amazon.com/images/I/41fei4mdSHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NFJN2SL

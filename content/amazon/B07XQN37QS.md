@@ -3,7 +3,7 @@ layout: post
 title: 'B07XQN37QS: Ahorra en Sternitz Botella de Agua Hydra Acero Ino'
 date: 2019/12/18 08:47:36 +0000
 comments: true
-tags: B07XQN37QS
+image: https://images-eu.ssl-images-amazon.com/images/I/41LbH3q3GnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XQN37QS

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KF4TL5L - Ofertón en Amazon para Levi s 511 Slim Fit Vaqueros  Adriatico '
 date: 2020-01-07 12:05:32
+image: https://images-eu.ssl-images-amazon.com/images/I/41nhRYwwkYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

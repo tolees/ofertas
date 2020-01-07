@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CVBXCTP - Ofertón en Amazon para Paquete de 6 Piezas de Ropa Interior de '
 date: 2019/12/26 10:23:21 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51ay-WnLE4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

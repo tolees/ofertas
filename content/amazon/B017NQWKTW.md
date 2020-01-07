@@ -3,7 +3,7 @@ layout: post
 title: 'B017NQWKTW: Rebaja en Funko Pop! Keychain: Harry Potter - Harr en Amazon'
 date: 2019-12-31 22:03:12
 comments: true
-tags: B017NQWKTW
+image: https://images-eu.ssl-images-amazon.com/images/I/41iJzXu6H7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B017NQWKTW

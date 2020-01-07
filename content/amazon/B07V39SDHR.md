@@ -2,6 +2,7 @@
 layout: post
 title: 'B07V39SDHR - Ofertón en Amazon para Lenovo Ideapad 330  15"   Ordenador Port'
 date: 2020-01-06 20:34:46
+image: https://images-eu.ssl-images-amazon.com/images/I/41s1B0jYj-L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

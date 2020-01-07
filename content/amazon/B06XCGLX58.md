@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XCGLX58 - Ofertón en Amazon para Activewear Polo Clásico para Hombre  Azu'
 date: 2019/12/20 00:35:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41IRKqg6K9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

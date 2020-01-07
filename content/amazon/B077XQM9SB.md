@@ -3,7 +3,7 @@ layout: post
 title: 'B077XQM9SB: Ahorra en Under Armour Sportstyle Left Chest SS Ca'
 date: 2019/12/17 08:53:18 +0000
 comments: true
-tags: B077XQM9SB
+image: https://images-eu.ssl-images-amazon.com/images/I/41Urpg2hj3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077XQM9SB

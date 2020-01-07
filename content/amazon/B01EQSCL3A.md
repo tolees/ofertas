@@ -2,6 +2,7 @@
 layout: post
 title: 'B01EQSCL3A - Ofertón en Amazon para TOUCHBeauty TB-1583 40 °C Caliente Masaj'
 date: 2019/12/17 11:16:27 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41fXfLodJZL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

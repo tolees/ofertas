@@ -3,7 +3,7 @@ layout: post
 title: 'B07CMZNW5Q: Ahorra en Crocs Handle It Rain Boot K  Botas de Ag'
 date: 2019/12/13 17:55:26 +0000
 comments: true
-tags: B07CMZNW5Q
+image: https://images-eu.ssl-images-amazon.com/images/I/31XnMf-7%2BYL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CMZNW5Q

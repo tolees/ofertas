@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JCVVJ3G - Ofertón en Amazon para KAKOO 4pcs brazaletes Reflectantes Visib'
 date: 2019/12/20 09:18:40 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41s%2BFOdb0uL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

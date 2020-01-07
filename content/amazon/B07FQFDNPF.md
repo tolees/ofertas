@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FQFDNPF - Ofertón en Amazon para Buff Adventure Junior Frozen Tubular Pol'
 date: 2020-01-07 14:54:20
+image: https://images-eu.ssl-images-amazon.com/images/I/41%2Bw8q1DDSL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

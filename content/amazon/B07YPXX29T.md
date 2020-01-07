@@ -3,7 +3,7 @@ layout: post
 title: 'B07YPXX29T: Ahorra en Disney Frozen 2 99487 Tischdecke  Blau'
 date: 2020-01-06 22:11:20
 comments: true
-tags: B07YPXX29T
+image: https://images-eu.ssl-images-amazon.com/images/I/41HvKdEIpPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07YPXX29T

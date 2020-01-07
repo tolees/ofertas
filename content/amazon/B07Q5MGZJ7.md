@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q5MGZJ7: Rebaja en Máscara para los ojos  Parches para los  en Amazon'
 date: 2019/12/24 18:58:44 +0000
 comments: true
-tags: B07Q5MGZJ7
+image: https://images-eu.ssl-images-amazon.com/images/I/51ymdERP2cL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Q5MGZJ7

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LFRMY4S - Ofertón en Amazon para Geox U Kristof A  Zapatillas para Hombre'
 date: 2020-01-03 18:36:36
+image: https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

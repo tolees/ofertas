@@ -3,7 +3,7 @@ layout: post
 title: 'B003OWJACU: Ahorra en Lékué - Estuche de vapor con bandeja  3-'
 date: 2019/12/27 07:45:48 +0000
 comments: true
-tags: B003OWJACU
+image: https://images-eu.ssl-images-amazon.com/images/I/31WvhzSYbhL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B003OWJACU

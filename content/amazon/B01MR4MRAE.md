@@ -3,7 +3,7 @@ layout: post
 title: 'B01MR4MRAE: Rebaja en find. Zapatos De Cordones con Perforacio en Amazon'
 date: 2019/12/30 14:59:26 +0000
 comments: true
-tags: B01MR4MRAE
+image: https://images-eu.ssl-images-amazon.com/images/I/31xAqq87G4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01MR4MRAE

@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MQQBIHG - Ofertón en Amazon para Real Techniques Sculpting set - kit de b'
 date: 2019/12/26 06:03:25 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41UG67Q0DPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

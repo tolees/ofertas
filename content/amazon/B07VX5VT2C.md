@@ -3,7 +3,7 @@ layout: post
 title: 'B07VX5VT2C: Ahorra en Qishare 2 Pares de Calcetines Antidesliz'
 date: 2019/12/29 22:31:48 +0000
 comments: true
-tags: B07VX5VT2C
+image: https://images-eu.ssl-images-amazon.com/images/I/41eMD45DukL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VX5VT2C

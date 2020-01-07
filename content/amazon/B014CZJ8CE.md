@@ -3,7 +3,7 @@ layout: post
 title: 'B014CZJ8CE: Ahorra en Puntero Laser Presentaciones Doosl Mando'
 date: 2020-01-06 21:27:33
 comments: true
-tags: B014CZJ8CE
+image: https://images-eu.ssl-images-amazon.com/images/I/31MQtrM3VyL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B014CZJ8CE

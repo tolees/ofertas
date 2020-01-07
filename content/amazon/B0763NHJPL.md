@@ -2,6 +2,7 @@
 layout: post
 title: 'B0763NHJPL - Ofertón en Amazon para WOLA estilo de redonda gafas de sol en m'
 date: 2019/12/21 07:40:20 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41JbpiClTyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

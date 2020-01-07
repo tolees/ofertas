@@ -3,7 +3,7 @@ layout: post
 title: 'B0766DJPQV: Rebaja en PLAYMOBIL Knights 9340 Mobile Zwergenfes en Amazon'
 date: 2020-01-05 22:41:41
 comments: true
-tags: B0766DJPQV
+image: https://images-eu.ssl-images-amazon.com/images/I/61eWaP0MI4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0766DJPQV

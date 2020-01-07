@@ -3,7 +3,7 @@ layout: post
 title: 'B07M5SZPRX: Ahorra en La Lego Película 2: El Videojuego'
 date: 2019/12/21 12:00:13 +0000
 comments: true
-tags: B07M5SZPRX
+image: https://images-eu.ssl-images-amazon.com/images/I/512QH1mBDFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M5SZPRX

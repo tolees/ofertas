@@ -2,6 +2,7 @@
 layout: post
 title: 'B002DPMR7Y - Ofertón en Amazon para Reebok CL LTHR 3912 - Zapatillas de cuer'
 date: 2019/12/28 12:51:21 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

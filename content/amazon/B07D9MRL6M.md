@@ -3,7 +3,7 @@ layout: post
 title: 'B07D9MRL6M: Rebaja en Ferilinso Funda Para Xiaomi Redmi Note 8 en Amazon'
 date: 2019/12/28 21:27:21 +0000
 comments: true
-tags: B07D9MRL6M
+image: https://images-eu.ssl-images-amazon.com/images/I/51S%2BSaiPXJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07D9MRL6M

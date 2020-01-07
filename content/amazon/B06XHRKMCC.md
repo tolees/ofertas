@@ -3,7 +3,7 @@ layout: post
 title: 'B06XHRKMCC: Rebaja en find. Camisa de Manga Larga Slim Fit con en Amazon'
 date: 2020-01-02 08:14:17
 comments: true
-tags: B06XHRKMCC
+image: https://images-eu.ssl-images-amazon.com/images/I/41PiaeudqUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XHRKMCC

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FMZWHFV - Ofertón en Amazon para DeLonghi EDG736.RM | NESCAFÉ Dolce Gusto'
 date: 2019/12/13 08:58:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41RpUdjPPYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

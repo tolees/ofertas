@@ -3,7 +3,7 @@ layout: post
 title: 'B07CPPKMQ1: Rebaja en GPS Ciclocomputer con ANT+ iGPSPORT iGS1 en Amazon'
 date: 2019/12/18 19:09:04 +0000
 comments: true
-tags: B07CPPKMQ1
+image: https://images-eu.ssl-images-amazon.com/images/I/41gMormYlJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CPPKMQ1

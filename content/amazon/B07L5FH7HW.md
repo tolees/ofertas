@@ -3,7 +3,7 @@ layout: post
 title: 'B07L5FH7HW: Ahorra en Girl Elsa Shoes Princess Dress Up Girls '
 date: 2019/12/22 08:26:48 +0000
 comments: true
-tags: B07L5FH7HW
+image: https://images-eu.ssl-images-amazon.com/images/I/51JqrTPNEWL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07L5FH7HW

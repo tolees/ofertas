@@ -3,7 +3,7 @@ layout: post
 title: 'B072PZBSYJ: Ahorra en Finether 4 1M Escalera Telescópica de Al'
 date: 2020-01-06 10:36:12
 comments: true
-tags: B072PZBSYJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072PZBSYJ

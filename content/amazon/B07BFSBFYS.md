@@ -3,7 +3,7 @@ layout: post
 title: 'B07BFSBFYS: Rebaja en Panasonic Lumix DC-TZ200EG-K - Cámara Co en Amazon'
 date: 2020-01-01 19:28:25
 comments: true
-tags: B07BFSBFYS
+image: https://images-eu.ssl-images-amazon.com/images/I/3130CC7zPFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BFSBFYS

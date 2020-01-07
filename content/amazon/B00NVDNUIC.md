@@ -2,6 +2,7 @@
 layout: post
 title: 'B00NVDNUIC - Ofertón en Amazon para LEGO Classic - Complementos Creativos de'
 date: 2019/12/19 07:56:22 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51LzG3N93zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

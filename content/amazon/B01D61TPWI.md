@@ -2,6 +2,7 @@
 layout: post
 title: 'B01D61TPWI - Ofertón en Amazon para TRANGO Brood Sn Pant. Pirata  Hombre  Ka'
 date: 2020-01-04 22:55:37
+image: https://images-eu.ssl-images-amazon.com/images/I/31ANEda2sPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

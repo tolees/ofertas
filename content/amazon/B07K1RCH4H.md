@@ -3,7 +3,7 @@ layout: post
 title: 'B07K1RCH4H: Ahorra en Luces de Discoteca Luz nocturna Emooqi B'
 date: 2019-12-31 15:36:08
 comments: true
-tags: B07K1RCH4H
+image: https://images-eu.ssl-images-amazon.com/images/I/51Ox0mCxyDL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07K1RCH4H

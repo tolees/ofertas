@@ -3,7 +3,7 @@ layout: post
 title: 'B00HNLQZXA: Rebaja en Einhell  4513495 RT-SD 3 6/2 Li Kit  -   en Amazon'
 date: 2020-01-07 07:14:28
 comments: true
-tags: B00HNLQZXA
+image: https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00HNLQZXA

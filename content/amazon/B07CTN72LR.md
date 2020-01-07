@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CTN72LR - Ofertón en Amazon para Under Armour UA Micro G Pursuit SE  Zapa'
 date: 2019/12/16 18:22:23 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41A6iAHmwlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

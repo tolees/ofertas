@@ -3,7 +3,7 @@ layout: post
 title: 'B07F44CVFQ: Rebaja en Maybelline New York - Superstay Matte In en Amazon'
 date: 2020-01-02 11:37:22
 comments: true
-tags: B07F44CVFQ
+image: https://images-eu.ssl-images-amazon.com/images/I/31H8Z3CPmUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F44CVFQ

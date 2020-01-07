@@ -3,7 +3,7 @@ layout: post
 title: 'B07G1YG9XJ: Rebaja en TACKLIFE Llaves de Vaso Hexagonales Prof en Amazon'
 date: 2020-01-03 07:35:44
 comments: true
-tags: B07G1YG9XJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51HfyJOfcOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G1YG9XJ

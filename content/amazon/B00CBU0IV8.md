@@ -3,7 +3,7 @@ layout: post
 title: 'B00CBU0IV8: Rebaja en Panasonic RP-HJE125E-K Auriculares Boton en Amazon'
 date: 2019/12/17 07:02:10 +0000
 comments: true
-tags: B00CBU0IV8
+image: https://images-eu.ssl-images-amazon.com/images/I/31vIE47Vi-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00CBU0IV8

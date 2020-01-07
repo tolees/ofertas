@@ -2,6 +2,7 @@
 layout: post
 title: 'B00TS9MNNQ - Ofertón en Amazon para GREAT ART Selva Animales Papel Pintado d'
 date: 2019/12/30 20:50:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/61rMsW3abdL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

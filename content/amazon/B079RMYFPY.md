@@ -3,7 +3,7 @@ layout: post
 title: 'B079RMYFPY: Rebaja en IRIS & LILLY Tanga Body Smooth Mujer  Pa en Amazon'
 date: 2019/12/27 17:01:52 +0000
 comments: true
-tags: B079RMYFPY
+image: https://images-eu.ssl-images-amazon.com/images/I/417kg8ikpwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079RMYFPY

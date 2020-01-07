@@ -2,6 +2,7 @@
 layout: post
 title: 'B07G2LNLKF - Ofertón en Amazon para Frozen FZ007413/SIL Mädchen Hausschuh Ka'
 date: 2019/12/27 08:50:12 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31FQrt357zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

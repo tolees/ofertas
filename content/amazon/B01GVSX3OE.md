@@ -2,6 +2,7 @@
 layout: post
 title: 'B01GVSX3OE - Ofertón en Amazon para Bungsa® B - Silberner Buchstaben Kristal'
 date: 2020-01-05 06:17:37
+image: https://images-eu.ssl-images-amazon.com/images/I/51U9tItjwqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

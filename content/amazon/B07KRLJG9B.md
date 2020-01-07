@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KRLJG9B - Ofertón en Amazon para New Balance - 574v2  Zapatillas Mujer  M'
 date: 2019/12/29 23:07:11 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/419mVWFrxHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

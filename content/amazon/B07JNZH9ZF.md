@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JNZH9ZF - Ofertón en Amazon para Cocoda Soporte de Pared para Dot 3.ª Gen'
 date: 2019/12/16 19:09:15 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41zDY%2BQ796L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

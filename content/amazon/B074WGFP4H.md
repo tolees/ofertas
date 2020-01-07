@@ -2,6 +2,7 @@
 layout: post
 title: 'B074WGFP4H - Ofertón en Amazon para Sheaffer A5 Star Wars Collection R2 D2 -'
 date: 2020-01-06 09:33:11
+image: https://images-eu.ssl-images-amazon.com/images/I/41247fjPzJL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

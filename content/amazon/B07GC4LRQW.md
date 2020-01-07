@@ -3,7 +3,7 @@ layout: post
 title: 'B07GC4LRQW: Ahorra en Logitech® M110 Silent - Mid Gray - USB -'
 date: 2019/12/27 12:46:33 +0000
 comments: true
-tags: B07GC4LRQW
+image: https://images-eu.ssl-images-amazon.com/images/I/31e7at3Fu3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GC4LRQW

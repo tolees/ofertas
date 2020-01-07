@@ -2,6 +2,7 @@
 layout: post
 title: 'B07RB7TJNP - Ofertón en Amazon para Columbia 1420421  Chaqueta Forro Polar H'
 date: 2019/12/31 15:04:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41tvXEFUMLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JZ3DTHG - Ofertón en Amazon para Pinzas de Precisión Kit 12pcs Kieenass A'
 date: 2020-01-06 15:47:42
+image: https://images-eu.ssl-images-amazon.com/images/I/41uvD3TULUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

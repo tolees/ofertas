@@ -3,7 +3,7 @@ layout: post
 title: 'B07DD3QJ9N: Rebaja en Ready 2 Robot Serie 1 - Big Slime Battle en Amazon'
 date: 2019/12/22 09:51:40 +0000
 comments: true
-tags: B07DD3QJ9N
+image: https://images-eu.ssl-images-amazon.com/images/I/51n-oVYinsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DD3QJ9N

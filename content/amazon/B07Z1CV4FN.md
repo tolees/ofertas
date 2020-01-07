@@ -3,7 +3,7 @@ layout: post
 title: 'B07Z1CV4FN: Rebaja en Auriculares Bluetooth  Auriculares Inala en Amazon'
 date: 2020-01-05 08:47:29
 comments: true
-tags: B07Z1CV4FN
+image: https://images-eu.ssl-images-amazon.com/images/I/41ah4gUAacL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Z1CV4FN

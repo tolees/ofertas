@@ -3,7 +3,7 @@ layout: post
 title: 'B073YCBMTY: Ahorra en Street One Utina-Camiseta Mujer Orange  '
 date: 2019/12/24 13:13:59 +0000
 comments: true
-tags: B073YCBMTY
+image: https://images-eu.ssl-images-amazon.com/images/I/41f4KuPfYbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073YCBMTY

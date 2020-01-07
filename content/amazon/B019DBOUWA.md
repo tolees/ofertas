@@ -3,7 +3,7 @@ layout: post
 title: 'B019DBOUWA: Rebaja en NETGEAR Nighthawk S8000 8-Port Gigabit S en Amazon'
 date: 2019/12/11 06:05:54 +0000
 comments: true
-tags: B019DBOUWA
+image: https://images-eu.ssl-images-amazon.com/images/I/31kI5HUdl7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B019DBOUWA

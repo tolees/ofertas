@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KGHKK89 - Ofertón en Amazon para PEKITAS Bebe Juego De Sábanas Franela Co'
 date: 2019/12/26 11:14:56 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41lb1CDIm1L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

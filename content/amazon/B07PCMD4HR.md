@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PCMD4HR - Ofertón en Amazon para TOSING XR Micrófono de Karaoke Inalámbri'
 date: 2019/12/29 12:40:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41h7FNrBYmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

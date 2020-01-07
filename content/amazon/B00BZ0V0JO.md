@@ -2,6 +2,7 @@
 layout: post
 title: 'B00BZ0V0JO - Ofertón en Amazon para Green Lantern Logo Camiseta  Verde  M pa'
 date: 2019/12/28 09:43:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41hrnKUMHlL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

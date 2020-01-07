@@ -2,6 +2,7 @@
 layout: post
 title: 'B000BZURG6 - Ofertón en Amazon para Linksys WRT54GL-EU - Router Wi-Fi Wirele'
 date: 2020-01-07 12:54:27
+image: https://images-eu.ssl-images-amazon.com/images/I/41kDtCN6w9L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VWWVH0C - Ofertón en Amazon para Versa Perchero de pie Blanco  Metal Laca'
 date: 2019/12/14 13:24:08 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/21ilqbcybuL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DR4HC7S - Ofertón en Amazon para hummel Slimmer Stadil Low  Zapatillas Un'
 date: 2019/12/18 14:34:23 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41WXL%2BPgvyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

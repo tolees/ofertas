@@ -3,7 +3,7 @@ layout: post
 title: 'B07NX6P7CS: Rebaja en Superdry Tyler Vaqueros Slim  Negro  Por en Amazon'
 date: 2019/12/22 14:55:41 +0000
 comments: true
-tags: B07NX6P7CS
+image: https://images-eu.ssl-images-amazon.com/images/I/31BnX7xLDsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NX6P7CS

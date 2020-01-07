@@ -2,6 +2,7 @@
 layout: post
 title: 'B07BVPCTS6 - Ofertón en Amazon para Zequins- Muñeco Dazz  Famosa 700014680 '
 date: 2020-01-04 14:42:01
+image: https://images-eu.ssl-images-amazon.com/images/I/41F4VkZ4jsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

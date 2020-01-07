@@ -3,7 +3,7 @@ layout: post
 title: 'B078SYRBVB: Rebaja en Salomon Damen Winterschuhe  ELLIPSE FREE en Amazon'
 date: 2019/12/24 15:06:50 +0000
 comments: true
-tags: B078SYRBVB
+image: https://images-eu.ssl-images-amazon.com/images/I/41DzBGLT6pL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B078SYRBVB

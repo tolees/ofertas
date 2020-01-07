@@ -3,7 +3,7 @@ layout: post
 title: 'B07TDLXG26: Ahorra en Quiksilver Motherfly Flannel-Camisa De M'
 date: 2019/12/28 18:05:34 +0000
 comments: true
-tags: B07TDLXG26
+image: https://images-eu.ssl-images-amazon.com/images/I/41UuHL7R9DL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TDLXG26

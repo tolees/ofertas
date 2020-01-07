@@ -2,6 +2,7 @@
 layout: post
 title: 'B01KJSU45S - Ofertón en Amazon para HIHIGOU Lámpara Escritorio LED 3.5W USB '
 date: 2019/12/18 20:11:34 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41IEagQx3VL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

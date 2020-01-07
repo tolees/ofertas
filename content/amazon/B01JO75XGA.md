@@ -3,7 +3,7 @@ layout: post
 title: 'B01JO75XGA: Rebaja en Timex Reloj Analógico para Hombre de Cua en Amazon'
 date: 2019/12/23 22:21:59 +0000
 comments: true
-tags: B01JO75XGA
+image: https://images-eu.ssl-images-amazon.com/images/I/51%2BKyWF30RL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01JO75XGA

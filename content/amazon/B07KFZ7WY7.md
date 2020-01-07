@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFZ7WY7: Rebaja en Puma Flyer Runner  Zapatillas de Running en Amazon'
 date: 2020-01-02 16:22:30
 comments: true
-tags: B07KFZ7WY7
+image: https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KFZ7WY7

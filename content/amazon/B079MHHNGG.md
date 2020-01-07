@@ -2,6 +2,7 @@
 layout: post
 title: 'B079MHHNGG - Ofertón en Amazon para Salomon Speedcross CSWP J  Zapatillas de'
 date: 2019/12/24 17:11:35 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41eMwQxhCPL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBV7B4V: Ahorra en LIGE Relojes Hombres Cronógrafo Impermea'
 date: 2019-12-31 18:47:25
 comments: true
-tags: B07LBV7B4V
+image: https://images-eu.ssl-images-amazon.com/images/I/51cEI0htUZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LBV7B4V

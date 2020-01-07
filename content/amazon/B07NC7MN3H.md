@@ -3,7 +3,7 @@ layout: post
 title: 'B07NC7MN3H: Rebaja en Pepe Jeans Stanley Vaqueros Straight  Az en Amazon'
 date: 2020-01-01 16:05:14
 comments: true
-tags: B07NC7MN3H
+image: https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NC7MN3H

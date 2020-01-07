@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FNJJLK2 - Ofertón en Amazon para Homcom 3 EN 1 Triciclo para Niños +18 Me'
 date: 2019/12/11 09:26:17 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/413C8GMUcwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LF8MF2K - Ofertón en Amazon para XLTOK Cable USB Tipo C  Cable USB C [ 3P'
 date: 2019/12/20 20:07:25 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41quLeFtJVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

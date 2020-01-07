@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CMJKPKG - Ofertón en Amazon para Philips 328E9FJAB/00 80 cm  31 5 Zoll  C'
 date: 2019/12/22 19:08:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41fQwuoToQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

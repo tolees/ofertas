@@ -2,6 +2,7 @@
 layout: post
 title: 'B00Y4QGPY6 - Ofertón en Amazon para Cherub WST-2046BD - Afinador cromático d'
 date: 2019/12/26 15:36:32 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41tLBXgGk%2BL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

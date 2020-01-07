@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZNZL2F9: Ahorra en Reductor WC  DALMO Adaptador WC ergonómi'
 date: 2019/12/13 18:14:01 +0000
 comments: true
-tags: B07ZNZL2F9
+image: https://images-eu.ssl-images-amazon.com/images/I/41ZBk96mcjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07ZNZL2F9

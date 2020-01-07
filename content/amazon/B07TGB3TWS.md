@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TGB3TWS - Ofertón en Amazon para steanum Cargador inalámbrico Coche  Qi 1'
 date: 2020-01-06 03:32:10
+image: https://images-eu.ssl-images-amazon.com/images/I/51PthX%2B0csL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

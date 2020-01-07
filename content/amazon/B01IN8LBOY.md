@@ -3,7 +3,7 @@ layout: post
 title: 'B01IN8LBOY: Ahorra en Braun Series 7 Electric Shaver for Men 7'
 date: 2019/12/12 07:23:31 +0000
 comments: true
-tags: B01IN8LBOY
+image: https://images-eu.ssl-images-amazon.com/images/I/41JmUUedP7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01IN8LBOY

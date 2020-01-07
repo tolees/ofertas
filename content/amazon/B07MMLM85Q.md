@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MMLM85Q - Ofertón en Amazon para Napapijri Berber WOM H Sudadera  Negro  '
 date: 2019/12/19 15:20:10 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

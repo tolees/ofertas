@@ -3,7 +3,7 @@ layout: post
 title: 'B01BGTVYM6: Ahorra en G-STAR RAW Rovic Zip 3D Tapered  Pantalo'
 date: 2019/12/19 22:20:26 +0000
 comments: true
-tags: B01BGTVYM6
+image: https://images-eu.ssl-images-amazon.com/images/I/41xPnFbwFOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01BGTVYM6

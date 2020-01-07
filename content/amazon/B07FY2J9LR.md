@@ -2,6 +2,7 @@
 layout: post
 title: 'B07FY2J9LR - Ofertón en Amazon para Teléfono Móvil para Personas Mayores Tec'
 date: 2019/12/14 08:05:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41vG03r0yXL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

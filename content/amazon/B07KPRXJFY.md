@@ -3,7 +3,7 @@ layout: post
 title: 'B07KPRXJFY: Rebaja en Asics Patriot 10 SP  Zapatillas de Runni en Amazon'
 date: 2019/12/15 20:28:24 +0000
 comments: true
-tags: B07KPRXJFY
+image: https://images-eu.ssl-images-amazon.com/images/I/41s6EGUOjNL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KPRXJFY

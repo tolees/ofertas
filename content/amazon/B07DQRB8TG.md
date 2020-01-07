@@ -3,7 +3,7 @@ layout: post
 title: 'B07DQRB8TG: Rebaja en Marc O Polo 830097270282 Parka  Blau  Da en Amazon'
 date: 2019/12/11 01:05:01 +0000
 comments: true
-tags: B07DQRB8TG
+image: https://images-eu.ssl-images-amazon.com/images/I/41e4VT8lejL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DQRB8TG

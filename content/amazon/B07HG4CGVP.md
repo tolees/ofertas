@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HG4CGVP - Ofertón en Amazon para New Balance 373  Zapatillas para Mujer  '
 date: 2020-01-05 09:32:07
+image: https://images-eu.ssl-images-amazon.com/images/I/41JX35Jz85L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

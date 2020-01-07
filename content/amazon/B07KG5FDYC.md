@@ -3,7 +3,7 @@ layout: post
 title: 'B07KG5FDYC: Rebaja en Puma Future Runner Premium  Zapatillas U en Amazon'
 date: 2019/12/16 06:49:39 +0000
 comments: true
-tags: B07KG5FDYC
+image: https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KG5FDYC

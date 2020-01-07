@@ -3,7 +3,7 @@ layout: post
 title: 'B01HMRRFHO: Ahorra en The North Face S/S Easy H Camiseta de Ma'
 date: 2019/12/26 20:36:55 +0000
 comments: true
-tags: B01HMRRFHO
+image: https://images-eu.ssl-images-amazon.com/images/I/31Jon4SR2RL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01HMRRFHO

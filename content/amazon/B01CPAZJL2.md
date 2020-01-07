@@ -3,7 +3,7 @@ layout: post
 title: 'B01CPAZJL2: Ahorra en Haribo Torcidas Geles Dulces - 300 gr'
 date: 2020-01-05 14:58:05
 comments: true
-tags: B01CPAZJL2
+image: https://images-eu.ssl-images-amazon.com/images/I/413Zu3OgjSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01CPAZJL2

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07B4C3NCY - Ofertón en Amazon para Unbekannt Disney Puzzlematte Spiel Fuß B'
 date: 2019/12/14 07:15:01 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51WgcvZBkjL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

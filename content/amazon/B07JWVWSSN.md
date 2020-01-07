@@ -3,7 +3,7 @@ layout: post
 title: 'B07JWVWSSN: Rebaja en PUMA ftblNXT Casuals Hoody Sudadera  Hom en Amazon'
 date: 2019/12/25 20:03:16 +0000
 comments: true
-tags: B07JWVWSSN
+image: https://images-eu.ssl-images-amazon.com/images/I/31CEsBv1JBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JWVWSSN

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DJ2X2QM - Ofertón en Amazon para Geox U KENNET B  Zapatillas para Hombre '
 date: 2019/12/11 19:13:46 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31ndetLcSML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

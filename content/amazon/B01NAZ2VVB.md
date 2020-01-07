@@ -3,7 +3,7 @@ layout: post
 title: 'B01NAZ2VVB: Rebaja en Jimmy Choo L Eau Perfume - 60 ml en Amazon'
 date: 2019/12/14 19:06:42 +0000
 comments: true
-tags: B01NAZ2VVB
+image: https://images-eu.ssl-images-amazon.com/images/I/41BOQm5gmLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01NAZ2VVB

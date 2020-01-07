@@ -3,7 +3,7 @@ layout: post
 title: 'B07KTY3JTY: Ahorra en GC Controller Adapter  BEBONCOOL Super S'
 date: 2019/12/28 16:07:05 +0000
 comments: true
-tags: B07KTY3JTY
+image: https://images-eu.ssl-images-amazon.com/images/I/41qI9oAJwVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KTY3JTY

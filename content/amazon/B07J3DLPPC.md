@@ -2,6 +2,7 @@
 layout: post
 title: 'B07J3DLPPC - Ofertón en Amazon para Under Armour Tech Camisa Polo  Hombre  R'
 date: 2019/12/28 10:59:59 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41NJLEsqCML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

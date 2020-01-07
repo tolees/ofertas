@@ -2,6 +2,7 @@
 layout: post
 title: 'B078PP1WZX - Ofertón en Amazon para SIMYJOY Pareja BTS Love Yourself Sudader'
 date: 2019/12/25 23:04:48 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41LwdStp88L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

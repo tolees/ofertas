@@ -3,7 +3,7 @@ layout: post
 title: 'B07XJZKRVL: Ahorra en Sternitz Botella de Agua Hydra Acero Ino'
 date: 2019/12/18 08:47:36 +0000
 comments: true
-tags: B07XJZKRVL
+image: https://images-eu.ssl-images-amazon.com/images/I/515mWTafa-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XJZKRVL

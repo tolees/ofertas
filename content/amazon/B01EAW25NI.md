@@ -3,7 +3,7 @@ layout: post
 title: 'B01EAW25NI: Rebaja en DP Grifería G-642 Columna de Hidromasaje en Amazon'
 date: 2019/12/14 19:55:55 +0000
 comments: true
-tags: B01EAW25NI
+image: https://images-eu.ssl-images-amazon.com/images/I/31dCGlyHO%2BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01EAW25NI

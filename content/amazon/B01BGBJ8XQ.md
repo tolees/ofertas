@@ -3,7 +3,7 @@ layout: post
 title: 'B01BGBJ8XQ: Ahorra en Logitech C170 Webcam schwarz'
 date: 2019/12/14 19:42:18 +0000
 comments: true
-tags: B01BGBJ8XQ
+image: https://images-eu.ssl-images-amazon.com/images/I/31h5fXugyUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01BGBJ8XQ

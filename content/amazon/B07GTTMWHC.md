@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GTTMWHC - Ofertón en Amazon para PUMA Active Big Logo tee Camiseta  Hombr'
 date: 2019/12/17 15:29:58 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41vUNKNj62L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

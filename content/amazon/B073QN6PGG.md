@@ -3,7 +3,7 @@ layout: post
 title: 'B073QN6PGG: Ahorra en find.  Chaqueta de Leñador para Hombre  '
 date: 2019/12/24 10:01:29 +0000
 comments: true
-tags: B073QN6PGG
+image: https://images-eu.ssl-images-amazon.com/images/I/412dTv6kEdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B073QN6PGG

@@ -2,6 +2,7 @@
 layout: post
 title: 'B01CJ1PXHW - Ofertón en Amazon para Funko Pop! Marvel: Captain America Civil'
 date: 2020-01-07 06:05:43
+image: https://images-eu.ssl-images-amazon.com/images/I/51fANeTPiML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00G98EJHM - Ofertón en Amazon para Nespresso Krups Inissia XN1001 - Cafeter'
 date: 2020-01-06 20:19:42
+image: https://images-eu.ssl-images-amazon.com/images/I/41gob6VxrNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DD72NKR - Ofertón en Amazon para Hasbro Gaming - Juego infantil Corona Co'
 date: 2019/12/19 09:09:36 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51T6OQKugzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

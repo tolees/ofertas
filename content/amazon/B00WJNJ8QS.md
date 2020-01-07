@@ -3,7 +3,7 @@ layout: post
 title: 'B00WJNJ8QS: Ahorra en Philips Avent SCF553/05 - Vaso con boqui'
 date: 2019/12/29 12:53:17 +0000
 comments: true
-tags: B00WJNJ8QS
+image: https://images-eu.ssl-images-amazon.com/images/I/31DZ1FJBhVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00WJNJ8QS

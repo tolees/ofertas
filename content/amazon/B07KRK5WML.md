@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRK5WML: Ahorra en New Balance 624v5  Zapatillas Deportivas'
 date: 2020-01-02 10:27:00
 comments: true
-tags: B07KRK5WML
+image: https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KRK5WML

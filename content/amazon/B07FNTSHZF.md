@@ -3,7 +3,7 @@ layout: post
 title: 'B07FNTSHZF: Rebaja en Lego 41366 Friends Olivias Cupcake-Café  en Amazon'
 date: 2019/12/19 22:31:40 +0000
 comments: true
-tags: B07FNTSHZF
+image: https://images-eu.ssl-images-amazon.com/images/I/510vDlw3sHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FNTSHZF

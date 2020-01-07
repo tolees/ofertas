@@ -2,6 +2,7 @@
 layout: post
 title: 'B0786PNPLD - Ofertón en Amazon para Puma Liga Training Pant Core Pantalones '
 date: 2019/12/26 21:03:13 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31BXuR4Ow0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

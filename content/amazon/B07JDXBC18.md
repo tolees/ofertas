@@ -2,6 +2,7 @@
 layout: post
 title: 'B07JDXBC18 - Ofertón en Amazon para Crocs Crocband Rain Boot Kids  Botas de '
 date: 2020-01-03 13:35:18
+image: https://images-eu.ssl-images-amazon.com/images/I/31VM9bdzx2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B06X3VQRC7: Ahorra en YIWER LED Velas sin Llama Φ 8CM x H 10cm'
 date: 2019/12/18 13:57:52 +0000
 comments: true
-tags: B06X3VQRC7
+image: https://images-eu.ssl-images-amazon.com/images/I/41Lyqq63ptL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06X3VQRC7

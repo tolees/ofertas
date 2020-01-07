@@ -3,7 +3,7 @@ layout: post
 title: 'B07H9WZL2W: Ahorra en Wimypet Refuerzo de Coche para Perros  F'
 date: 2019/12/20 12:11:58 +0000
 comments: true
-tags: B07H9WZL2W
+image: None._SL200_
 category: ofertas
 author: ring
 slug: B07H9WZL2W

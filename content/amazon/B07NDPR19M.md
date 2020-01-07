@@ -3,7 +3,7 @@ layout: post
 title: 'B07NDPR19M: Rebaja en G-STAR RAW Starkon Loose Round Neck Cami en Amazon'
 date: 2019/12/27 18:51:06 +0000
 comments: true
-tags: B07NDPR19M
+image: https://images-eu.ssl-images-amazon.com/images/I/41woZ9HTuIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NDPR19M

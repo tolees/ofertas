@@ -2,6 +2,7 @@
 layout: post
 title: 'B00HFPGZVQ - Ofertón en Amazon para Lego Star Wars Chewbacca Key Light [With'
 date: 2020-01-05 23:14:08
+image: https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

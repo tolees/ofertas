@@ -3,7 +3,7 @@ layout: post
 title: 'B07VYXTH5R: Rebaja en CoolBELL Maletín Ordenadores portátiles  en Amazon'
 date: 2020-01-04 23:55:21
 comments: true
-tags: B07VYXTH5R
+image: https://images-eu.ssl-images-amazon.com/images/I/412AUm-xvbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VYXTH5R

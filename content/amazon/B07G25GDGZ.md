@@ -3,7 +3,7 @@ layout: post
 title: 'B07G25GDGZ: Rebaja en Hoomtaook Bandeja de baño triangular neg en Amazon'
 date: 2019/12/22 13:30:58 +0000
 comments: true
-tags: B07G25GDGZ
+image: https://images-eu.ssl-images-amazon.com/images/I/419F9Fsa6-L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G25GDGZ

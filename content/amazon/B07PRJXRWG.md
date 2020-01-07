@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PRJXRWG - Ofertón en Amazon para Snow Queen Elsa Dress Frozen Princess Co'
 date: 2020-01-02 22:05:53
+image: https://images-eu.ssl-images-amazon.com/images/I/419ezLaMGkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

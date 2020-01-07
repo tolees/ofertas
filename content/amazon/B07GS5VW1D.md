@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GS5VW1D - Ofertón en Amazon para Tales Of Vesperia: Definitive Edition - '
 date: 2019/12/23 09:59:45 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51NsrijazeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

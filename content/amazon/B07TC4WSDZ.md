@@ -3,7 +3,7 @@ layout: post
 title: 'B07TC4WSDZ: Ahorra en Medias de Compresión para Mujeres y Homb'
 date: 2019/12/27 19:54:19 +0000
 comments: true
-tags: B07TC4WSDZ
+image: https://images-eu.ssl-images-amazon.com/images/I/31S4ttPsBjL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TC4WSDZ

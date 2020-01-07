@@ -3,7 +3,7 @@ layout: post
 title: 'B07W8P7NNW: Rebaja en JACK & JONES Jcoglobe Parka Abrigos Homb en Amazon'
 date: 2019/12/27 08:46:26 +0000
 comments: true
-tags: B07W8P7NNW
+image: https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07W8P7NNW

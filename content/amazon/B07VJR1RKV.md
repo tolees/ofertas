@@ -3,7 +3,7 @@ layout: post
 title: 'B07VJR1RKV: Rebaja en Maybelline Superstay Matte Ink - Pintala en Amazon'
 date: 2019/12/27 19:47:19 +0000
 comments: true
-tags: B07VJR1RKV
+image: https://images-eu.ssl-images-amazon.com/images/I/31jPSaFPn3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07VJR1RKV

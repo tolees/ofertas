@@ -3,7 +3,7 @@ layout: post
 title: 'B00IM7BIY0: Rebaja en Bosch Professional - Set de 32 unidades  en Amazon'
 date: 2020-01-06 13:19:36
 comments: true
-tags: B00IM7BIY0
+image: https://images-eu.ssl-images-amazon.com/images/I/51O0NPyCBrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00IM7BIY0

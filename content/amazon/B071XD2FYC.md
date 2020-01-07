@@ -3,7 +3,7 @@ layout: post
 title: 'B071XD2FYC: Rebaja en Funko pop! Masters of the Universe - Evi en Amazon'
 date: 2019-12-31 22:03:21
 comments: true
-tags: B071XD2FYC
+image: https://images-eu.ssl-images-amazon.com/images/I/41tQeGfX9iL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B071XD2FYC

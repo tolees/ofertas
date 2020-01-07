@@ -3,7 +3,7 @@ layout: post
 title: 'B07HFFNCVC: Ahorra en Tommy Hilfiger Tju Sport Cap Gorra de bé'
 date: 2019/12/26 20:40:20 +0000
 comments: true
-tags: B07HFFNCVC
+image: https://images-eu.ssl-images-amazon.com/images/I/41eHqqsSwOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HFFNCVC

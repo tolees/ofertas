@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MNLXJ11 - Ofertón en Amazon para Spin Master Games - Perplexus Beast  3D-'
 date: 2019/12/11 09:29:45 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51IFDvyfu2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

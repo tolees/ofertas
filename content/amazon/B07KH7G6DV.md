@@ -3,7 +3,7 @@ layout: post
 title: 'B07KH7G6DV: Ahorra en Under Armour EU Tech Pant Pantalón de Go'
 date: 2019/12/29 07:48:16 +0000
 comments: true
-tags: B07KH7G6DV
+image: https://images-eu.ssl-images-amazon.com/images/I/31HnqQQFyIL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KH7G6DV

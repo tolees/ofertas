@@ -2,6 +2,7 @@
 layout: post
 title: 'B002XFI7YG - Ofertón en Amazon para Dickies Slim Fit Straight - Pantalones p'
 date: 2019/12/28 12:51:22 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41T-vqG4fgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

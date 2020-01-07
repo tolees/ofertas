@@ -3,7 +3,7 @@ layout: post
 title: 'B081T6HKHD: Ahorra en Disfraz Anna Frozen Niñas con Capa Princ'
 date: 2019/12/26 17:39:47 +0000
 comments: true
-tags: B081T6HKHD
+image: https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B081T6HKHD

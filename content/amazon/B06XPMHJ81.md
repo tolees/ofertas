@@ -3,7 +3,7 @@ layout: post
 title: 'B06XPMHJ81: Ahorra en Kiwisac Bolso Atrapasueños para Carro de'
 date: 2019/12/25 22:41:08 +0000
 comments: true
-tags: B06XPMHJ81
+image: https://images-eu.ssl-images-amazon.com/images/I/51HAjsKeDiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XPMHJ81

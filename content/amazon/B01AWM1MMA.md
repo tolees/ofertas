@@ -3,7 +3,7 @@ layout: post
 title: 'B01AWM1MMA: Ahorra en Collar con colgante en forma de copo de '
 date: 2019/12/29 01:16:56 +0000
 comments: true
-tags: B01AWM1MMA
+image: https://images-eu.ssl-images-amazon.com/images/I/51wqjFlEyGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01AWM1MMA

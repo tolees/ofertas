@@ -3,7 +3,7 @@ layout: post
 title: 'B0784BLQMS: Ahorra en TRUTH & FABLE ACB024 vestido fiesta muje'
 date: 2019/12/21 10:15:33 +0000
 comments: true
-tags: B0784BLQMS
+image: https://images-eu.ssl-images-amazon.com/images/I/41o-pw5VjGL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0784BLQMS

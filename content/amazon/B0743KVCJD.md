@@ -2,6 +2,7 @@
 layout: post
 title: 'B0743KVCJD - Ofertón en Amazon para Philips MG7770/15 18 en 1 - Recortadora '
 date: 2019/12/18 12:02:42 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41gYR%2BaP8bL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

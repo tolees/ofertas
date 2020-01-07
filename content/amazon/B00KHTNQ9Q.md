@@ -2,6 +2,7 @@
 layout: post
 title: 'B00KHTNQ9Q - Ofertón en Amazon para Under Armour UA HG Armour LS Camiseta de'
 date: 2019/12/16 08:28:13 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31W5v4hdlFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

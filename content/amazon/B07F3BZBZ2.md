@@ -3,7 +3,7 @@ layout: post
 title: 'B07F3BZBZ2: Ahorra en Geox U Nebula A  Zapatillas para Hombre '
 date: 2019/12/11 09:28:43 +0000
 comments: true
-tags: B07F3BZBZ2
+image: https://images-eu.ssl-images-amazon.com/images/I/31pnfbslrTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07F3BZBZ2

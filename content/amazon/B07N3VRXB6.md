@@ -2,6 +2,7 @@
 layout: post
 title: 'B07N3VRXB6 - Ofertón en Amazon para Desigual Dress Marian Vestido  Blanco  C'
 date: 2019/12/30 18:27:54 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41%2BUn745sAL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

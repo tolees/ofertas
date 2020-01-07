@@ -3,7 +3,7 @@ layout: post
 title: 'B07BSNLM4Q: Ahorra en REPLAY Ronas Vaqueros Slim  Azul  Mid Bl'
 date: 2019/12/17 22:44:39 +0000
 comments: true
-tags: B07BSNLM4Q
+image: https://images-eu.ssl-images-amazon.com/images/I/41wi4VAOiBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BSNLM4Q

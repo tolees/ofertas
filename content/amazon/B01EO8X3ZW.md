@@ -3,7 +3,7 @@ layout: post
 title: 'B01EO8X3ZW: Rebaja en COFIT Cubierta de Volante de Cuero de Mi en Amazon'
 date: 2019/12/21 17:35:30 +0000
 comments: true
-tags: B01EO8X3ZW
+image: https://images-eu.ssl-images-amazon.com/images/I/51gCBrO9sZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01EO8X3ZW

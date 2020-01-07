@@ -2,6 +2,7 @@
 layout: post
 title: 'B00C3MXOSS - Ofertón en Amazon para Ravensburger 09264 - Abenteuer im Winter'
 date: 2020-01-04 06:16:08
+image: https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

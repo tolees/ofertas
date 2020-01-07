@@ -3,7 +3,7 @@ layout: post
 title: 'B07RBV8XCD: Rebaja en APEMAN Action Camera 4K 20MP WiFi Sports en Amazon'
 date: 2020-01-03 13:33:36
 comments: true
-tags: B07RBV8XCD
+image: https://images-eu.ssl-images-amazon.com/images/I/51rZXTcD81L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RBV8XCD

@@ -3,7 +3,7 @@ layout: post
 title: 'B07G26PDJQ: Rebaja en Fitbit Charge 3 Pulsera Avanzada de Acti en Amazon'
 date: 2020-01-02 19:39:16
 comments: true
-tags: B07G26PDJQ
+image: https://images-eu.ssl-images-amazon.com/images/I/312qTh5hKvL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07G26PDJQ

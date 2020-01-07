@@ -3,7 +3,7 @@ layout: post
 title: 'B07XKZJPPN: Rebaja en TXXCI Acrylic Display Case/Box Dustproof en Amazon'
 date: 2020-01-07 06:19:24
 comments: true
-tags: B07XKZJPPN
+image: https://images-eu.ssl-images-amazon.com/images/I/41Jg-cqGPSL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XKZJPPN

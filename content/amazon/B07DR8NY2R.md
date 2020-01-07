@@ -3,7 +3,7 @@ layout: post
 title: 'B07DR8NY2R: Rebaja en hummel Slimmer Stadil High  Zapatillas A en Amazon'
 date: 2019/12/23 17:14:41 +0000
 comments: true
-tags: B07DR8NY2R
+image: https://images-eu.ssl-images-amazon.com/images/I/41crU9VQzJL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DR8NY2R

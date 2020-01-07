@@ -2,6 +2,7 @@
 layout: post
 title: 'B07WVBKW8G - Ofertón en Amazon para 5.0MP 1920P Cámara IP Exterior  Vitorcam'
 date: 2019/12/31 12:21:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41i2MBoL04L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

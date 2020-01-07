@@ -2,6 +2,7 @@
 layout: post
 title: 'B07GQPZXFN - Ofertón en Amazon para Vestido Alinear De Punto Mujer Elegantes'
 date: 2019/12/22 13:48:16 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41Bbt9qlysL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

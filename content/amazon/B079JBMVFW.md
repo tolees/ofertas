@@ -3,7 +3,7 @@ layout: post
 title: 'B079JBMVFW: Ahorra en Barbie Ambulancia Hospital 2 en 1  acces'
 date: 2019/12/26 12:53:34 +0000
 comments: true
-tags: B079JBMVFW
+image: https://images-eu.ssl-images-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079JBMVFW

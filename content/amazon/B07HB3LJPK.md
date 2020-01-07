@@ -3,7 +3,7 @@ layout: post
 title: 'B07HB3LJPK: Rebaja en LAST LEVEL- Funko Figura Pop Dragon Ball en Amazon'
 date: 2019/12/16 21:11:24 +0000
 comments: true
-tags: B07HB3LJPK
+image: https://images-eu.ssl-images-amazon.com/images/I/41i%2B1r95YsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HB3LJPK

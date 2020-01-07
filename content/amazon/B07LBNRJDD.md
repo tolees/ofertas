@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBNRJDD: Ahorra en Helly Hansen HH Logo Crew Sudadera Depor'
 date: 2019/12/16 22:53:07 +0000
 comments: true
-tags: B07LBNRJDD
+image: https://images-eu.ssl-images-amazon.com/images/I/41TLvzJAtEL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LBNRJDD

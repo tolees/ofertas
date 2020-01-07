@@ -2,6 +2,7 @@
 layout: post
 title: 'B07ZHV5RDS - Ofertón en Amazon para F1 2019'
 date: 2020-01-05 17:34:57
+image: https://images-eu.ssl-images-amazon.com/images/I/51o2V-qA%2BxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

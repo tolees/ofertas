@@ -2,6 +2,7 @@
 layout: post
 title: 'B07L9QXSGD - Ofertón en Amazon para Napapijri Rainforest M Sum 1 Amber Orang'
 date: 2019/12/24 14:56:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/414ZUwMpN2L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

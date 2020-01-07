@@ -3,7 +3,7 @@ layout: post
 title: 'B00QG0YLJ4: Rebaja en adidas Terrex Swift Solo  Zapatilla de V en Amazon'
 date: 2019/12/20 20:26:15 +0000
 comments: true
-tags: B00QG0YLJ4
+image: https://images-eu.ssl-images-amazon.com/images/I/31lP6liQtbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00QG0YLJ4

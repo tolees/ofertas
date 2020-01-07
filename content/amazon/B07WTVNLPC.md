@@ -3,7 +3,7 @@ layout: post
 title: 'B07WTVNLPC: Ahorra en Bojie Smartwatch Niños IP67 Impermeable '
 date: 2020-01-05 00:02:33
 comments: true
-tags: B07WTVNLPC
+image: https://images-eu.ssl-images-amazon.com/images/I/51rAqOUe2ML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WTVNLPC

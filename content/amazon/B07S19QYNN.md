@@ -3,7 +3,7 @@ layout: post
 title: 'B07S19QYNN: Rebaja en edc by Esprit 089cc1e028 Vestido  Azul   en Amazon'
 date: 2019/12/24 11:10:00 +0000
 comments: true
-tags: B07S19QYNN
+image: https://images-eu.ssl-images-amazon.com/images/I/31Lh5UM5Z0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07S19QYNN

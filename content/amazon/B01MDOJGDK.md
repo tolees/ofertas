@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MDOJGDK - Ofertón en Amazon para Neutrogena Limpiador Facial Gel de Agua '
 date: 2020-01-05 12:16:51
+image: https://images-eu.ssl-images-amazon.com/images/I/31BBsx7VGtL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

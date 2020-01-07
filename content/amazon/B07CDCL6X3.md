@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CDCL6X3 - Ofertón en Amazon para OCYCLONE Fundas para Samsung S9 Plus Pur'
 date: 2019/12/13 20:59:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51UQwSvE14L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

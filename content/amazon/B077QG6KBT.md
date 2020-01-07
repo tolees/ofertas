@@ -3,7 +3,7 @@ layout: post
 title: 'B077QG6KBT: Rebaja en L Oréal Paris Barra de Labios Color Rich en Amazon'
 date: 2019/12/17 02:45:07 +0000
 comments: true
-tags: B077QG6KBT
+image: https://images-eu.ssl-images-amazon.com/images/I/415x357HtvL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077QG6KBT

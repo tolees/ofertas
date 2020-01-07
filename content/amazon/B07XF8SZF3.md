@@ -2,6 +2,7 @@
 layout: post
 title: 'B07XF8SZF3 - Ofertón en Amazon para TONGJI Acryl Vitrine Mit Beleuchtungsset'
 date: 2019/12/11 14:11:43 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51OMak8T8KL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

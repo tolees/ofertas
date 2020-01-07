@@ -3,7 +3,7 @@ layout: post
 title: 'B01A8IEG2G: Ahorra en RAMPOW Cable Micro USB 2 4A Carga Rápida'
 date: 2020-01-02 11:07:58
 comments: true
-tags: B01A8IEG2G
+image: https://images-eu.ssl-images-amazon.com/images/I/41j1UYufEaL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01A8IEG2G

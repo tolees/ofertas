@@ -3,7 +3,7 @@ layout: post
 title: 'B07NC3BQC5: Ahorra en Wonderbra Glamour Raffine Triangle Padde'
 date: 2019/12/15 08:07:42 +0000
 comments: true
-tags: B07NC3BQC5
+image: https://images-eu.ssl-images-amazon.com/images/I/51WSTk2ortL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NC3BQC5

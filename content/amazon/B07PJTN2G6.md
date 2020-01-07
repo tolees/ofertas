@@ -3,7 +3,7 @@ layout: post
 title: 'B07PJTN2G6: Rebaja en Disney Girls Frozen Pyjamas Blue Age 5 t en Amazon'
 date: 2019/12/18 23:17:01 +0000
 comments: true
-tags: B07PJTN2G6
+image: https://images-eu.ssl-images-amazon.com/images/I/51rgmfUM4dL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PJTN2G6

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07SN2LRNW - Ofertón en Amazon para Excelvan Teclado de Juego Español Teclad'
 date: 2019/12/25 21:27:44 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41Tj3zUxntL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

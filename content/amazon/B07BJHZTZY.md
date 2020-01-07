@@ -3,7 +3,7 @@ layout: post
 title: 'B07BJHZTZY: Ahorra en G-STAR RAW Lynn Mid-Waist Skinny Vaquero'
 date: 2020-01-02 21:08:18
 comments: true
-tags: B07BJHZTZY
+image: https://images-eu.ssl-images-amazon.com/images/I/41IgER6YihL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BJHZTZY

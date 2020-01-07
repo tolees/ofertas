@@ -2,6 +2,7 @@
 layout: post
 title: 'B00VLN6RYS - Ofertón en Amazon para Levi s The Perfect Tee  Camiseta para Mu'
 date: 2019/12/17 00:00:14 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41QZjr54L7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

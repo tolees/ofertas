@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DHZ2V6K - Ofertón en Amazon para New Balance 373  Zapatillas para Mujer  '
 date: 2019/12/29 19:24:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41EI419nvxL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

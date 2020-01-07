@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCP1N7G: Rebaja en Funko 36680 Pocket POP Keychain: Avenger en Amazon'
 date: 2019/12/16 15:11:57 +0000
 comments: true
-tags: B07MCP1N7G
+image: https://images-eu.ssl-images-amazon.com/images/I/31rctu3HAPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MCP1N7G

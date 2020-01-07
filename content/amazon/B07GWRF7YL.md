@@ -3,7 +3,7 @@ layout: post
 title: 'B07GWRF7YL: Ahorra en Suunto 9 Multisport-GPS-Uhr  Unisex  Bla'
 date: 2019/12/22 18:54:00 +0000
 comments: true
-tags: B07GWRF7YL
+image: https://images-eu.ssl-images-amazon.com/images/I/41TzmP%2BgPnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07GWRF7YL

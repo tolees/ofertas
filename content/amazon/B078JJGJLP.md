@@ -2,6 +2,7 @@
 layout: post
 title: 'B078JJGJLP - Ofertón en Amazon para Hoomtaook Rinconera de baño  Cesta trian'
 date: 2019/12/24 16:04:44 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41Zi2dAHlCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01EY8LKCK: Ahorra en Oral-B Genius 8900 - Cepillo de dientes '
 date: 2020-01-02 07:34:57
 comments: true
-tags: B01EY8LKCK
+image: https://images-eu.ssl-images-amazon.com/images/I/51lICSuwhxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01EY8LKCK

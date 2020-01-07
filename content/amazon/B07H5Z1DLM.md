@@ -2,6 +2,7 @@
 layout: post
 title: 'B07H5Z1DLM - Ofertón en Amazon para Skechers Flex Appeal 3.0  Zapatillas par'
 date: 2020-01-06 18:26:50
+image: https://images-eu.ssl-images-amazon.com/images/I/41vW9mFamsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

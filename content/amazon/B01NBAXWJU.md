@@ -3,7 +3,7 @@ layout: post
 title: 'B01NBAXWJU: Ahorra en Marvel - Figura de Spiderman  alas Lanza'
 date: 2019/12/22 19:50:08 +0000
 comments: true
-tags: B01NBAXWJU
+image: https://images-eu.ssl-images-amazon.com/images/I/51eon1l0y7L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01NBAXWJU

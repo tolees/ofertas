@@ -3,7 +3,7 @@ layout: post
 title: 'B071HHYK4K: Rebaja en Huawei P10 SIM-Free Smartphone - Black en Amazon'
 date: 2019/12/18 18:50:38 +0000
 comments: true
-tags: B071HHYK4K
+image: https://images-eu.ssl-images-amazon.com/images/I/41qNpOCWcFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B071HHYK4K

@@ -2,6 +2,7 @@
 layout: post
 title: 'B01NBU1NJ4 - Ofertón en Amazon para Epson EcoTank ET-2650  Impresora  WiFi  '
 date: 2020-01-06 15:45:54
+image: https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07PVSCK67 - Ofertón en Amazon para INPHIC Alfombrilla Ratón Grande Gaming M'
 date: 2019/12/29 10:43:20 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31JXUMxEaML._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

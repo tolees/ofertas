@@ -3,7 +3,7 @@ layout: post
 title: 'B07SR1CZML: Ahorra en NWOUIIAY Aspiradora de Coche Potente Sin'
 date: 2020-01-05 10:30:27
 comments: true
-tags: B07SR1CZML
+image: https://images-eu.ssl-images-amazon.com/images/I/51jMcdT9K6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SR1CZML

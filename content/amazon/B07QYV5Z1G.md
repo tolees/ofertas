@@ -2,6 +2,7 @@
 layout: post
 title: 'B07QYV5Z1G - Ofertón en Amazon para Auriculares Gaming PS4  YINSAN Cascos Ga'
 date: 2020-01-06 10:18:44
+image: https://images-eu.ssl-images-amazon.com/images/I/5120mBhD9JL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

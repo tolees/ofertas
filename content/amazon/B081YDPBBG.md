@@ -3,7 +3,7 @@ layout: post
 title: 'B081YDPBBG: Rebaja en Kids Frozen 2 Elsa Anna Costume Deluxe C en Amazon'
 date: 2019/12/11 22:07:27 +0000
 comments: true
-tags: B081YDPBBG
+image: https://images-eu.ssl-images-amazon.com/images/I/515reKLLeFL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B081YDPBBG

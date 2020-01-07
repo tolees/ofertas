@@ -2,6 +2,7 @@
 layout: post
 title: 'B081XC7NYJ - Ofertón en Amazon para GOODTEL Ordenador Portátil de 14 Pulgada'
 date: 2020-01-05 10:20:10
+image: https://images-eu.ssl-images-amazon.com/images/I/41CvbzS0NTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

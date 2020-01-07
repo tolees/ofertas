@@ -3,7 +3,7 @@ layout: post
 title: 'B07KPTBSP2: Rebaja en Funko 36673 POP Bobble: Avengers Endgame en Amazon'
 date: 2019/12/11 21:52:02 +0000
 comments: true
-tags: B07KPTBSP2
+image: https://images-eu.ssl-images-amazon.com/images/I/41Ytkr01OBL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KPTBSP2

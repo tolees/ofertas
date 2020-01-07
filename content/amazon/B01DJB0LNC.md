@@ -3,7 +3,7 @@ layout: post
 title: 'B01DJB0LNC: Ahorra en Rimmel London Volume Colourist Máscara d'
 date: 2020-01-06 16:05:01
 comments: true
-tags: B01DJB0LNC
+image: https://images-eu.ssl-images-amazon.com/images/I/41ghKbJ227L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01DJB0LNC

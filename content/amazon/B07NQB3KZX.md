@@ -3,7 +3,7 @@ layout: post
 title: 'B07NQB3KZX: Rebaja en Barbie - Crea sus Ondas  Muñeca Rubia co en Amazon'
 date: 2019/12/24 10:56:12 +0000
 comments: true
-tags: B07NQB3KZX
+image: https://images-eu.ssl-images-amazon.com/images/I/41%2BSEw6TTZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NQB3KZX

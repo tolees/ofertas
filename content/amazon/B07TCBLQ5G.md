@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TCBLQ5G - Ofertón en Amazon para The North Face M Gotham Chaqueta De Plum'
 date: 2019/12/13 08:32:53 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41--zAmYeKL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

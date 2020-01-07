@@ -3,7 +3,7 @@ layout: post
 title: 'B07L8BRBGL: Rebaja en OBEEII Cenicienta Disfraz Cinderella Car en Amazon'
 date: 2020-01-05 14:27:59
 comments: true
-tags: B07L8BRBGL
+image: https://images-eu.ssl-images-amazon.com/images/I/51jcl92-0EL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07L8BRBGL

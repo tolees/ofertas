@@ -2,6 +2,7 @@
 layout: post
 title: 'B00AA9VUUU - Ofertón en Amazon para Advance Sensitive Pienso para Gato Ester'
 date: 2020-01-05 20:14:27
+image: https://images-eu.ssl-images-amazon.com/images/I/41pnfpVkwCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

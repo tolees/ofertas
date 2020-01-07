@@ -2,6 +2,7 @@
 layout: post
 title: 'B07CSCPPFZ - Ofertón en Amazon para Pepe Jeans Marta Pantalones    Multi Ble'
 date: 2019/12/26 20:11:48 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41USxm4zxkL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HZSBQSM - Ofertón en Amazon para New Look Herringbone Tie Waist Pantalone'
 date: 2019/12/16 11:03:18 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/410VLaD5eVL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

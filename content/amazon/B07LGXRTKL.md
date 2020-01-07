@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LGXRTKL - Ofertón en Amazon para The North Face Ambition P Pantalón  Muje'
 date: 2020-01-07 10:49:29
+image: https://images-eu.ssl-images-amazon.com/images/I/41Qz0LWT8JL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

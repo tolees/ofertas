@@ -3,7 +3,7 @@ layout: post
 title: 'B01N1UDXXP: Ahorra en find. 70114 camisetas  Rosa  Old Rose   '
 date: 2019/12/20 12:28:01 +0000
 comments: true
-tags: B01N1UDXXP
+image: https://images-eu.ssl-images-amazon.com/images/I/41FyKgV-RiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01N1UDXXP

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07HFZXN9C - Ofertón en Amazon para New Balance 247v2  Zapatillas para Mujer'
 date: 2020-01-03 18:17:31
+image: https://images-eu.ssl-images-amazon.com/images/I/41mvR3lWl7L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

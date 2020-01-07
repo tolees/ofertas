@@ -3,7 +3,7 @@ layout: post
 title: 'B07FQDMRTC: Ahorra en The North Face Sport Hoodie Sudadera Dep'
 date: 2019/12/19 00:21:45 +0000
 comments: true
-tags: B07FQDMRTC
+image: https://images-eu.ssl-images-amazon.com/images/I/41TB3xLkdML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07FQDMRTC

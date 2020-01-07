@@ -3,7 +3,7 @@ layout: post
 title: 'B00TZAC7VQ: Ahorra en Kempa Emotion Classic Chaqueta De Chanda'
 date: 2019/12/31 13:17:33 +0000
 comments: true
-tags: B00TZAC7VQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41qLMDnw2pL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00TZAC7VQ

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFVF2BR: Rebaja en ONLY NOS Onlsedona Boucle Wool Coat Otw  en Amazon'
 date: 2020-01-06 17:06:24
 comments: true
-tags: B07DFVF2BR
+image: https://images-eu.ssl-images-amazon.com/images/I/41G1ZwMd93L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DFVF2BR

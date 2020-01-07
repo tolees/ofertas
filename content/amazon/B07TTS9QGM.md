@@ -3,7 +3,7 @@ layout: post
 title: 'B07TTS9QGM: Ahorra en New Look Iris Utility Paperbag Pantalone'
 date: 2020-01-03 11:45:24
 comments: true
-tags: B07TTS9QGM
+image: https://images-eu.ssl-images-amazon.com/images/I/31a9x8do9SL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TTS9QGM

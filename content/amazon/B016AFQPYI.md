@@ -3,7 +3,7 @@ layout: post
 title: 'B016AFQPYI: Rebaja en Dormio Ortopédico - Colchón de Eliocel   en Amazon'
 date: 2019/12/17 11:22:43 +0000
 comments: true
-tags: B016AFQPYI
+image: https://images-eu.ssl-images-amazon.com/images/I/41RsJLSZhgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B016AFQPYI

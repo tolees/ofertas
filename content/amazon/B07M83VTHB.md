@@ -2,6 +2,7 @@
 layout: post
 title: 'B07M83VTHB - Ofertón en Amazon para Napapijri Serber WOM Camiseta  Azul  BLU'
 date: 2019/12/24 14:39:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31feSirSEsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

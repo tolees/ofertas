@@ -3,7 +3,7 @@ layout: post
 title: 'B012DC0OHQ: Ahorra en Whisky Hibiki Japanese Harmony'
 date: 2019/12/21 12:00:13 +0000
 comments: true
-tags: B012DC0OHQ
+image: https://images-eu.ssl-images-amazon.com/images/I/41FiEAS-MVL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B012DC0OHQ

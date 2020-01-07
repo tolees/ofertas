@@ -3,7 +3,7 @@ layout: post
 title: 'B000BPLGZC: Rebaja en HP 643A - Cartucho de tóner original Las en Amazon'
 date: 2019/12/24 11:22:51 +0000
 comments: true
-tags: B000BPLGZC
+image: https://images-eu.ssl-images-amazon.com/images/I/51ICqug-QWL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B000BPLGZC

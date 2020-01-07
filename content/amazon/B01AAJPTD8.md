@@ -3,7 +3,7 @@ layout: post
 title: 'B01AAJPTD8: Rebaja en Columbia Cascade Explorer Pantalón Conve en Amazon'
 date: 2019/12/12 09:03:36 +0000
 comments: true
-tags: B01AAJPTD8
+image: https://images-eu.ssl-images-amazon.com/images/I/4168ouY50AL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01AAJPTD8

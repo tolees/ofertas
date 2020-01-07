@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9NNY6W: Rebaja en Philips Avent Vigilabebés con cámara SCD en Amazon'
 date: 2019/12/30 16:20:55 +0000
 comments: true
-tags: B07L9NNY6W
+image: https://images-eu.ssl-images-amazon.com/images/I/41B%2B-z7Gr6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07L9NNY6W

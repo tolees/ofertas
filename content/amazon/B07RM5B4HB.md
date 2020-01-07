@@ -3,7 +3,7 @@ layout: post
 title: 'B07RM5B4HB: Rebaja en SUPRBIRD Guantes Ciclismo MTB Dedo Medio en Amazon'
 date: 2020-01-02 17:37:41
 comments: true
-tags: B07RM5B4HB
+image: https://images-eu.ssl-images-amazon.com/images/I/41jo317uPZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RM5B4HB

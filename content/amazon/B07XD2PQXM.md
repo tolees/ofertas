@@ -3,7 +3,7 @@ layout: post
 title: 'B07XD2PQXM: Rebaja en Columbia Winter Pass Print - Chaqueta de en Amazon'
 date: 2019/12/30 15:38:57 +0000
 comments: true
-tags: B07XD2PQXM
+image: https://images-eu.ssl-images-amazon.com/images/I/41rVPXvX39L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XD2PQXM

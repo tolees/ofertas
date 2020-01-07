@@ -3,7 +3,7 @@ layout: post
 title: 'B07SS1VTY7: Rebaja en FTIMILD Men s Stand Collar Leather Jacke en Amazon'
 date: 2019/12/27 08:11:46 +0000
 comments: true
-tags: B07SS1VTY7
+image: https://images-eu.ssl-images-amazon.com/images/I/41PwWkOYCbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SS1VTY7

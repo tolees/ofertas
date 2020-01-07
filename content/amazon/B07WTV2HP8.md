@@ -3,7 +3,7 @@ layout: post
 title: 'B07WTV2HP8: Ahorra en J.Endéar Letra Inicial N Pulseras Mujer '
 date: 2020-01-02 10:42:12
 comments: true
-tags: B07WTV2HP8
+image: https://images-eu.ssl-images-amazon.com/images/I/41suiqxzPHL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WTV2HP8

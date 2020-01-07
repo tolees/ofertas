@@ -3,7 +3,7 @@ layout: post
 title: 'B077QLXGWM: Rebaja en Salcar Carcasa Box Externa para Disco Du en Amazon'
 date: 2019/12/15 23:22:37 +0000
 comments: true
-tags: B077QLXGWM
+image: https://images-eu.ssl-images-amazon.com/images/I/41UrqD%2BYBnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077QLXGWM

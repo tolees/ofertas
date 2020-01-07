@@ -3,7 +3,7 @@ layout: post
 title: 'B019IJZEDG: Rebaja en Almirón 2 Leche de continuación en polvo en Amazon'
 date: 2019/12/17 08:07:09 +0000
 comments: true
-tags: B019IJZEDG
+image: http://images.amazon.com/images/P/B019IJZEDG.01._PI_SCMZZZZZZZ_._SL200_.jpg
 category: ofertas
 author: ring
 slug: B019IJZEDG

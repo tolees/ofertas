@@ -3,7 +3,7 @@ layout: post
 title: 'B0727RKJFL: Ahorra en KEEPOW Paños de limpieza de microfibra p'
 date: 2019-12-31 20:03:10
 comments: true
-tags: B0727RKJFL
+image: https://images-eu.ssl-images-amazon.com/images/I/51HqKAYF-BL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B0727RKJFL

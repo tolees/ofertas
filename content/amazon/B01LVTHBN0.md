@@ -2,6 +2,7 @@
 layout: post
 title: 'B01LVTHBN0 - Ofertón en Amazon para Borrador Mágnetico para Pizarra Blanca -'
 date: 2020-01-06 14:46:15
+image: https://images-eu.ssl-images-amazon.com/images/I/41vUir0cUeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

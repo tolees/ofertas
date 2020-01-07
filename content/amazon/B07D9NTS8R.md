@@ -3,7 +3,7 @@ layout: post
 title: 'B07D9NTS8R: Rebaja en Adidas Duramo 9  Zapatillas de Running p en Amazon'
 date: 2019/12/13 13:45:07 +0000
 comments: true
-tags: B07D9NTS8R
+image: https://images-eu.ssl-images-amazon.com/images/I/41VAqZ5hwML._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07D9NTS8R

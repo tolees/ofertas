@@ -3,7 +3,7 @@ layout: post
 title: 'B07W7HNKLV: Rebaja en Walkie Talkie Niños 2 Pack por 9 Channel en Amazon'
 date: 2019/12/18 09:10:46 +0000
 comments: true
-tags: B07W7HNKLV
+image: https://images-eu.ssl-images-amazon.com/images/I/41zA%2Bev2K5L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07W7HNKLV

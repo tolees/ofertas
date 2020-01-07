@@ -2,6 +2,7 @@
 layout: post
 title: 'B000ZO5ZMY - Ofertón en Amazon para Pelikan 361363 - Cartucho de tinta Broth'
 date: 2019/12/14 23:40:20 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51NBtSr2-PL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

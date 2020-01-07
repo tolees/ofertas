@@ -3,7 +3,7 @@ layout: post
 title: 'B07KT45DTL: Rebaja en Mini Altavoz con Forma de Coche Colorido en Amazon'
 date: 2019/12/17 22:24:36 +0000
 comments: true
-tags: B07KT45DTL
+image: https://images-eu.ssl-images-amazon.com/images/I/41PMTU-Q-CL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KT45DTL

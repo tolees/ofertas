@@ -2,6 +2,7 @@
 layout: post
 title: 'B07VMRWVNG - Ofertón en Amazon para GHYUGR Sudadera con Capucha Hombre Contr'
 date: 2019/12/21 19:54:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41gukom0aFL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

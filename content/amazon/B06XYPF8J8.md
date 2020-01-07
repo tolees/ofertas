@@ -3,7 +3,7 @@ layout: post
 title: 'B06XYPF8J8: Rebaja en find. 53669  Chaqueta Para Mujer  Azul   en Amazon'
 date: 2019/12/28 17:27:48 +0000
 comments: true
-tags: B06XYPF8J8
+image: https://images-eu.ssl-images-amazon.com/images/I/41Pzl5lB6AL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B06XYPF8J8

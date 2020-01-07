@@ -3,7 +3,7 @@ layout: post
 title: 'B00SN4GQRQ: Rebaja en Chicco - Calienta biberón de casa y viaj en Amazon'
 date: 2019-12-31 18:42:00
 comments: true
-tags: B00SN4GQRQ
+image: https://images-eu.ssl-images-amazon.com/images/I/31fZ5CRyN4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00SN4GQRQ

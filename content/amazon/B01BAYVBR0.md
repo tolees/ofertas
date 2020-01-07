@@ -3,7 +3,7 @@ layout: post
 title: 'B01BAYVBR0: Rebaja en Kibath 1151414 higiene íntima para susti en Amazon'
 date: 2020-01-01 11:05:29
 comments: true
-tags: B01BAYVBR0
+image: https://images-eu.ssl-images-amazon.com/images/I/41WS3HZy27L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01BAYVBR0

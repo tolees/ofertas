@@ -3,7 +3,7 @@ layout: post
 title: 'B07M9QKTTR: Ahorra en G-STAR RAW Xpo Overshirt Chaqueta  Negro'
 date: 2020-01-05 20:44:05
 comments: true
-tags: B07M9QKTTR
+image: https://images-eu.ssl-images-amazon.com/images/I/41t9R-IXr3L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07M9QKTTR

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00NPD2PUW - Ofertón en Amazon para Thomas Earnshaw Smart Watch Armbanduhr E'
 date: 2019/12/21 05:10:13 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51F1G7cZmHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B072BYVRCR - Ofertón en Amazon para South Park Figura de Vinilo Terrance  Fu'
 date: 2019/12/16 13:52:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51SOz51gKiL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

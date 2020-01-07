@@ -2,6 +2,7 @@
 layout: post
 title: 'B07MQK7RWL - Ofertón en Amazon para Pecute Correa de Perro Retráctil 2019 Ve'
 date: 2019/12/25 11:50:47 +0000
+image: None._SL200_
 comments: true
 category: ofertas
 author: ring

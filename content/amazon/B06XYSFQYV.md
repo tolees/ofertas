@@ -2,6 +2,7 @@
 layout: post
 title: 'B06XYSFQYV - Ofertón en Amazon para Star Wars Mascara electrónica Kylo REN  '
 date: 2020-01-03 09:04:37
+image: https://images-eu.ssl-images-amazon.com/images/I/51EagkTgLRL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

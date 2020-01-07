@@ -3,7 +3,7 @@ layout: post
 title: 'B07SSJNP82: Rebaja en Reebok Flexagon Energy MT  Zapatillas de en Amazon'
 date: 2019/12/20 22:03:17 +0000
 comments: true
-tags: B07SSJNP82
+image: https://images-eu.ssl-images-amazon.com/images/I/41ui9O%2BbKbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SSJNP82

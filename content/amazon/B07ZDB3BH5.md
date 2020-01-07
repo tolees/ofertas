@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZDB3BH5: Rebaja en Homemaxs Dampfbügeleisen  【Aktualisierte en Amazon'
 date: 2019/12/11 16:16:18 +0000
 comments: true
-tags: B07ZDB3BH5
+image: https://images-eu.ssl-images-amazon.com/images/I/41IF7MA058L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07ZDB3BH5

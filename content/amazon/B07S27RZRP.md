@@ -3,7 +3,7 @@ layout: post
 title: 'B07S27RZRP: Rebaja en Nike M Nk Dry tee Db Athlete T-Shirt  Ho en Amazon'
 date: 2019/12/12 14:33:40 +0000
 comments: true
-tags: B07S27RZRP
+image: https://images-eu.ssl-images-amazon.com/images/I/41x5shktyUL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07S27RZRP

@@ -2,6 +2,7 @@
 layout: post
 title: 'B07K1BT4MK - Ofertón en Amazon para adidas Estro 19 JSY T-Shirt  Niños  Whit'
 date: 2019/12/15 17:09:37 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/318jnQORnvL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

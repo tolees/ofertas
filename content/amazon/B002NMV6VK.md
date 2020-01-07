@@ -2,6 +2,7 @@
 layout: post
 title: 'B002NMV6VK - Ofertón en Amazon para GARDENA combisystem Schneeschieber KST 4'
 date: 2019/12/30 19:35:26 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41jebW77wYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

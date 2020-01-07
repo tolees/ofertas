@@ -2,6 +2,7 @@
 layout: post
 title: 'B01A32WMPU - Ofertón en Amazon para ZENBRE Altavoz Bluetooth  Z3 10W Altavoz'
 date: 2019/12/17 10:37:51 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41YRo%2Bb%2BDpL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

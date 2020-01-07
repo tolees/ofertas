@@ -3,7 +3,7 @@ layout: post
 title: 'B07SYJP3TR: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego St en Amazon'
 date: 2020-01-05 22:49:45
 comments: true
-tags: B07SYJP3TR
+image: https://images-eu.ssl-images-amazon.com/images/I/51oPpWZbERL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SYJP3TR

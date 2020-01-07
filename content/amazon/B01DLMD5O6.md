@@ -2,6 +2,7 @@
 layout: post
 title: 'B01DLMD5O6 - Ofertón en Amazon para Sony SEL50F18F.SYX - Objetivo Fijo  FE 5'
 date: 2019/12/23 20:02:07 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

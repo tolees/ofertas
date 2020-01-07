@@ -3,7 +3,7 @@ layout: post
 title: 'B07R3VXDZJ: Rebaja en Helly Hansen Lifaloft Insulator Jacket C en Amazon'
 date: 2019/12/26 14:22:26 +0000
 comments: true
-tags: B07R3VXDZJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51EEISKK%2B2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07R3VXDZJ

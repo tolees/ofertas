@@ -3,7 +3,7 @@ layout: post
 title: 'B07SQPLB5H: Rebaja en Pepe Jeans Calvin Mochila Adaptable  Mul en Amazon'
 date: 2020-01-03 09:32:44
 comments: true
-tags: B07SQPLB5H
+image: https://images-eu.ssl-images-amazon.com/images/I/51yJ9avT2gL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07SQPLB5H

@@ -3,7 +3,7 @@ layout: post
 title: 'B07H4JFMLS: Rebaja en 16G Reproductor MP3 Bluetooth 4.0 Mibao  en Amazon'
 date: 2020-01-04 09:15:55
 comments: true
-tags: B07H4JFMLS
+image: https://images-eu.ssl-images-amazon.com/images/I/51AK53e56pL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07H4JFMLS

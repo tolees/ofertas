@@ -3,7 +3,7 @@ layout: post
 title: 'B07MK1QLV6: Rebaja en Napapijri ERBER Polo  Azul  BLU Marine 1 en Amazon'
 date: 2019/12/23 15:00:03 +0000
 comments: true
-tags: B07MK1QLV6
+image: https://images-eu.ssl-images-amazon.com/images/I/31hUcsVYnAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MK1QLV6

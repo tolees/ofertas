@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LFMQ3Z5 - Ofertón en Amazon para Levi s 310 Shaping Super Skinny  Vaquero'
 date: 2020-01-05 13:36:22
+image: https://images-eu.ssl-images-amazon.com/images/I/41NaeTpsH8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

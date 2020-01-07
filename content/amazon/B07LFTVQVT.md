@@ -2,6 +2,7 @@
 layout: post
 title: 'B07LFTVQVT - Ofertón en Amazon para Geox J INEK Boy C  Zapatillas Altas para'
 date: 2019/12/11 09:57:55 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/417jZNSQFQL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

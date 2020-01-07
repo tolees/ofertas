@@ -3,7 +3,7 @@ layout: post
 title: 'B071NVJDGX: Rebaja en TACKLIFE Alicates Multiusos Plegables  P en Amazon'
 date: 2019-12-31 19:33:27
 comments: true
-tags: B071NVJDGX
+image: https://images-eu.ssl-images-amazon.com/images/I/51JsiXi1gsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B071NVJDGX

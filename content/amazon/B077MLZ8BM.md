@@ -3,7 +3,7 @@ layout: post
 title: 'B077MLZ8BM: Ahorra en Puma Smash V2 L  Zapatillas Unisex Adult'
 date: 2019/12/30 11:20:50 +0000
 comments: true
-tags: B077MLZ8BM
+image: https://images-eu.ssl-images-amazon.com/images/I/31s8fRTR-KL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B077MLZ8BM

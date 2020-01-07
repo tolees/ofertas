@@ -2,6 +2,7 @@
 layout: post
 title: 'B01N9NZU2I - Ofertón en Amazon para Cecotec Aspirador Trineo Conga Turbocicl'
 date: 2020-01-04 22:27:17
+image: https://images-eu.ssl-images-amazon.com/images/I/41X6t2yTSzL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

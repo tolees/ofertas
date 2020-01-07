@@ -2,6 +2,7 @@
 layout: post
 title: 'B01MXWQ2YS - Ofertón en Amazon para find. Vaqueros Skinny para Hombre  Azul '
 date: 2019/12/12 06:04:07 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41Od8x7kpCL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

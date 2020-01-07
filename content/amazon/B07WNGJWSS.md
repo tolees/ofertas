@@ -3,7 +3,7 @@ layout: post
 title: 'B07WNGJWSS: Ahorra en Aibrou Clásico Pijamas Hombre Invierno A'
 date: 2019/12/11 07:18:13 +0000
 comments: true
-tags: B07WNGJWSS
+image: https://images-eu.ssl-images-amazon.com/images/I/31n7kj0-Q4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WNGJWSS

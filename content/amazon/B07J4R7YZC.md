@@ -3,7 +3,7 @@ layout: post
 title: 'B07J4R7YZC: Ahorra en Philips Hue White and Color Ambiance Pac'
 date: 2020-01-04 18:55:19
 comments: true
-tags: B07J4R7YZC
+image: https://images-eu.ssl-images-amazon.com/images/I/41YYW-PT8AL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07J4R7YZC

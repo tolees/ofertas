@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KPQJFBN - Ofertón en Amazon para Helly Hansen Driftline Camiseta Tipo Pol'
 date: 2019/12/26 14:55:36 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31gn4Hj5EwL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -2,6 +2,7 @@
 layout: post
 title: 'B00M3H9DBU - Ofertón en Amazon para deAO Cocinita de Juguete Playset Taburet'
 date: 2019/12/29 12:06:27 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/51DQaCYjNWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

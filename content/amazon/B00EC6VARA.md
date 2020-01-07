@@ -3,7 +3,7 @@ layout: post
 title: 'B00EC6VARA: Ahorra en Disney Infinity -  Toy Box Set: Frozen  '
 date: 2019/12/26 09:27:02 +0000
 comments: true
-tags: B00EC6VARA
+image: https://images-eu.ssl-images-amazon.com/images/I/51hLzxS04jL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00EC6VARA

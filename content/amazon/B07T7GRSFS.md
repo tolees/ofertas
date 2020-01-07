@@ -3,7 +3,7 @@ layout: post
 title: 'B07T7GRSFS: Ahorra en Sendowtek Alarma de Humo Independiente  '
 date: 2019/12/27 11:01:05 +0000
 comments: true
-tags: B07T7GRSFS
+image: https://images-eu.ssl-images-amazon.com/images/I/41is5yUXHuL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07T7GRSFS

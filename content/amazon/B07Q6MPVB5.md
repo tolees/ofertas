@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q6MPVB5: Rebaja en Simba 6315877627 Disney Frozen 2  Chunky en Amazon'
 date: 2019/12/25 16:57:09 +0000
 comments: true
-tags: B07Q6MPVB5
+image: https://images-eu.ssl-images-amazon.com/images/I/31QNao07NLL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07Q6MPVB5

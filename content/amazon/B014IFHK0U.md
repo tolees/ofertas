@@ -3,7 +3,7 @@ layout: post
 title: 'B014IFHK0U: Rebaja en Wonderbra Women s Refined Glamour Triang en Amazon'
 date: 2019/12/20 08:50:36 +0000
 comments: true
-tags: B014IFHK0U
+image: https://images-eu.ssl-images-amazon.com/images/I/51i1vlcbkPL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B014IFHK0U

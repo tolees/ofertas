@@ -3,7 +3,7 @@ layout: post
 title: 'B015LSEUS8: Ahorra en Arteck Bluetooth Keyboard  Stainless Ste'
 date: 2019/12/14 06:59:57 +0000
 comments: true
-tags: B015LSEUS8
+image: https://images-eu.ssl-images-amazon.com/images/I/41Q9nBWd5JL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B015LSEUS8

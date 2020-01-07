@@ -3,7 +3,7 @@ layout: post
 title: 'B07CZSM4LJ: Ahorra en Under Armour Favorite Legging WM Ar Legg'
 date: 2019/12/16 15:50:41 +0000
 comments: true
-tags: B07CZSM4LJ
+image: https://images-eu.ssl-images-amazon.com/images/I/31JmUuYxYaL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07CZSM4LJ

@@ -3,7 +3,7 @@ layout: post
 title: 'B01NCOWB0L: Ahorra en Reebok Classic Leather  Zapatillas de Tr'
 date: 2019/12/21 12:06:46 +0000
 comments: true
-tags: B01NCOWB0L
+image: https://images-eu.ssl-images-amazon.com/images/I/31p3O5qfXZL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01NCOWB0L

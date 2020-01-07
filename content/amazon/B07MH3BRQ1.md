@@ -3,7 +3,7 @@ layout: post
 title: 'B07MH3BRQ1: Rebaja en The Division 2  Edición Exclusiva Amazon en Amazon'
 date: 2020-01-05 11:54:02
 comments: true
-tags: B07MH3BRQ1
+image: https://images-eu.ssl-images-amazon.com/images/I/51Ek3ciU8JL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MH3BRQ1

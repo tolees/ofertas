@@ -3,7 +3,7 @@ layout: post
 title: 'B079YC3YJT: Rebaja en Funko Pop Star Wars Solo 26990 L3-37 en Amazon'
 date: 2020-01-05 22:05:25
 comments: true
-tags: B079YC3YJT
+image: https://images-eu.ssl-images-amazon.com/images/I/41h-GzbX%2BTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B079YC3YJT

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DGWMV2R: Ahorra en Surface Lápiz  200 Horas de Trabajo y 36'
 date: 2019/12/17 05:40:16 +0000
 comments: true
-tags: B07DGWMV2R
+image: https://images-eu.ssl-images-amazon.com/images/I/31HiQzoc5EL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DGWMV2R

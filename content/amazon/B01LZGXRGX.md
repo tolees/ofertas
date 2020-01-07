@@ -3,7 +3,7 @@ layout: post
 title: 'B01LZGXRGX: Rebaja en Happy Cherry - Saco de Dormir Infantil M en Amazon'
 date: 2019/12/28 12:41:04 +0000
 comments: true
-tags: B01LZGXRGX
+image: https://images-eu.ssl-images-amazon.com/images/I/41SBTpUdDnL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01LZGXRGX

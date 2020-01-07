@@ -2,6 +2,7 @@
 layout: post
 title: 'B003R7JYBY - Ofertón en Amazon para Fossil Reloj Cronógrafo para Hombre de C'
 date: 2020-01-01 18:49:27
+image: https://images-eu.ssl-images-amazon.com/images/I/41Wz5a%2B2xBL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

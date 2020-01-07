@@ -3,7 +3,7 @@ layout: post
 title: 'B07WF8CPQZ: Ahorra en LIGE Relojes Hombre Militar Impermeable '
 date: 2019/12/15 16:52:05 +0000
 comments: true
-tags: B07WF8CPQZ
+image: https://images-eu.ssl-images-amazon.com/images/I/51Z63fuXe1L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07WF8CPQZ

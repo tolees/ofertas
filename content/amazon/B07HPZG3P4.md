@@ -3,7 +3,7 @@ layout: post
 title: 'B07HPZG3P4: Ahorra en Funko Fortnite Omega Figura De Vinilo  M'
 date: 2020-01-05 23:14:03
 comments: true
-tags: B07HPZG3P4
+image: https://images-eu.ssl-images-amazon.com/images/I/4103rJ6hC0L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HPZG3P4

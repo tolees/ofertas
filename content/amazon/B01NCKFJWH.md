@@ -3,7 +3,7 @@ layout: post
 title: 'B01NCKFJWH: Rebaja en find. Oversized Blusa para Mujer  Rojo   en Amazon'
 date: 2020-01-02 12:06:58
 comments: true
-tags: B01NCKFJWH
+image: https://images-eu.ssl-images-amazon.com/images/I/41Pc5DScCdL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01NCKFJWH

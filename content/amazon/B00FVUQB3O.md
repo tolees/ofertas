@@ -3,7 +3,7 @@ layout: post
 title: 'B00FVUQB3O: Ahorra en Jia Jia Wedding 3113 Zapatos de Boda Zap'
 date: 2019/12/28 06:48:05 +0000
 comments: true
-tags: B00FVUQB3O
+image: https://images-eu.ssl-images-amazon.com/images/I/41BG8vsMn4L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00FVUQB3O

@@ -2,6 +2,7 @@
 layout: post
 title: 'B0792JMMLB - Ofertón en Amazon para Geox U NORWOLK B  Botas Chukka para Homb'
 date: 2020-01-04 11:08:04
+image: https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

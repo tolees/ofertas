@@ -2,6 +2,7 @@
 layout: post
 title: 'B0817VGXBQ - Ofertón en Amazon para 2019 Nuevo Toque Auriculares Bluetooth  '
 date: 2020-01-06 13:33:24
+image: https://images-eu.ssl-images-amazon.com/images/I/4152IAumUsL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

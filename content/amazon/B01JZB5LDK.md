@@ -3,7 +3,7 @@ layout: post
 title: 'B01JZB5LDK: Rebaja en Rimmel London Scandaleyes Micro Eyeliner en Amazon'
 date: 2019/12/21 12:57:55 +0000
 comments: true
-tags: B01JZB5LDK
+image: https://images-eu.ssl-images-amazon.com/images/I/31zcQ93yzsL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01JZB5LDK

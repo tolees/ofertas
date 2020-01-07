@@ -2,6 +2,7 @@
 layout: post
 title: 'B073QNH5DT - Ofertón en Amazon para find. Chaqueta Efecto Piel para Mujer  N'
 date: 2019/12/20 19:19:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41X78TaS4QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

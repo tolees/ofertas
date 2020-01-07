@@ -3,7 +3,7 @@ layout: post
 title: 'B082Y1JDKC: Rebaja en NAIXUES 2019 Smartwatch Niños  Reloj Int en Amazon'
 date: 2019/12/22 11:56:44 +0000
 comments: true
-tags: B082Y1JDKC
+image: https://images-eu.ssl-images-amazon.com/images/I/61uwx4Eb4KL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B082Y1JDKC

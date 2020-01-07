@@ -3,7 +3,7 @@ layout: post
 title: 'B07MYFVCLR: Ahorra en Pepe Jeans Cane Vaqueros  Medium Used De'
 date: 2019/12/28 14:13:02 +0000
 comments: true
-tags: B07MYFVCLR
+image: https://images-eu.ssl-images-amazon.com/images/I/41ZwRtO%2BzAL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MYFVCLR

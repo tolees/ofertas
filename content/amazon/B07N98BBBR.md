@@ -3,7 +3,7 @@ layout: post
 title: 'B07N98BBBR: Ahorra en BOSS Prime Polo  Azul  Bright Blue 434  '
 date: 2020-01-02 21:05:54
 comments: true
-tags: B07N98BBBR
+image: https://images-eu.ssl-images-amazon.com/images/I/31IsfJzygxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N98BBBR

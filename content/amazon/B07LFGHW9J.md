@@ -3,7 +3,7 @@ layout: post
 title: 'B07LFGHW9J: Rebaja en Levi s Coit Down Puffer Chaqueta  Negro  en Amazon'
 date: 2020-01-03 13:05:56
 comments: true
-tags: B07LFGHW9J
+image: https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07LFGHW9J

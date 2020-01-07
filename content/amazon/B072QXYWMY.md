@@ -3,7 +3,7 @@ layout: post
 title: 'B072QXYWMY: Rebaja en find. Pantalones Estrechos para Mujer    en Amazon'
 date: 2019/12/28 23:07:56 +0000
 comments: true
-tags: B072QXYWMY
+image: https://images-eu.ssl-images-amazon.com/images/I/31Re5AecGeL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B072QXYWMY

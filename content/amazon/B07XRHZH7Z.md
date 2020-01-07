@@ -2,6 +2,7 @@
 layout: post
 title: 'B07XRHZH7Z - Ofertón en Amazon para Geographical Norway Parka Hombre BOKER N'
 date: 2019/12/28 20:01:09 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41YpGzD5iNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

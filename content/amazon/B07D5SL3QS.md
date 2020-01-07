@@ -3,7 +3,7 @@ layout: post
 title: 'B07D5SL3QS: Ahorra en Puma ESS Logo Crew TR Camisa de Entrenam'
 date: 2019/12/23 08:10:59 +0000
 comments: true
-tags: B07D5SL3QS
+image: https://images-eu.ssl-images-amazon.com/images/I/31tzqjk8rhL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07D5SL3QS

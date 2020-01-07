@@ -2,6 +2,7 @@
 layout: post
 title: 'B07N1JPGH8 - Ofertón en Amazon para Clarks Sharon Noel  Zapatos de Cordones '
 date: 2019/12/16 09:35:59 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/3116CR4G1NL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

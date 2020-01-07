@@ -3,7 +3,7 @@ layout: post
 title: 'B074H6QSWW: Rebaja en Russell Hobbs Supreme Steam Pro - Planch en Amazon'
 date: 2019/12/20 06:41:37 +0000
 comments: true
-tags: B074H6QSWW
+image: https://images-eu.ssl-images-amazon.com/images/I/41eTalZArlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B074H6QSWW

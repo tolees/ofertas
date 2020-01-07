@@ -3,7 +3,7 @@ layout: post
 title: 'B07KF4SQL3: Ahorra en Levi s 311 Shaping Skinny Vaqueros  Pari'
 date: 2020-01-05 12:25:42
 comments: true
-tags: B07KF4SQL3
+image: https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KF4SQL3

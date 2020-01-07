@@ -3,7 +3,7 @@ layout: post
 title: 'B07PSJ5JB6: Ahorra en BRIKSMAX Led Lighting Kit for New Carous'
 date: 2019/12/27 00:42:47 +0000
 comments: true
-tags: B07PSJ5JB6
+image: https://images-eu.ssl-images-amazon.com/images/I/51k6HYiTmOL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07PSJ5JB6

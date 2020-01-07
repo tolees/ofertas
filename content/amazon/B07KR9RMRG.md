@@ -3,7 +3,7 @@ layout: post
 title: 'B07KR9RMRG: Ahorra en New Balance 373  Zapatillas para Hombre '
 date: 2019/12/13 21:05:59 +0000
 comments: true
-tags: B07KR9RMRG
+image: https://images-eu.ssl-images-amazon.com/images/I/31SULb5Cn5L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KR9RMRG

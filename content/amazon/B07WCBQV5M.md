@@ -2,6 +2,7 @@
 layout: post
 title: 'B07WCBQV5M - Ofertón en Amazon para JACK JONES Jorexplore Parka Hombre  Verd'
 date: 2019/12/12 22:43:41 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41PJCUTCqeL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

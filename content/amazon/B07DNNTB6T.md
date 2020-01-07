@@ -2,6 +2,7 @@
 layout: post
 title: 'B07DNNTB6T - Ofertón en Amazon para Panasonic DMC-FT7EB-A Tough compact Came'
 date: 2019/12/21 21:52:57 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41VKB9W9gcL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

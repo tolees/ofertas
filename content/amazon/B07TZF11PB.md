@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZF11PB: Ahorra en Parfois - Bandolera Con Asa De Cadena - '
 date: 2020-01-07 12:24:37
 comments: true
-tags: B07TZF11PB
+image: https://images-eu.ssl-images-amazon.com/images/I/41%2Bc4rg%2BinL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TZF11PB

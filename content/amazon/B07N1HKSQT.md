@@ -3,7 +3,7 @@ layout: post
 title: 'B07N1HKSQT: Ahorra en Kipling SEOUL S - Mochila escolar  14 li'
 date: 2019/12/22 19:26:51 +0000
 comments: true
-tags: B07N1HKSQT
+image: https://images-eu.ssl-images-amazon.com/images/I/51R7zuvuc9L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07N1HKSQT

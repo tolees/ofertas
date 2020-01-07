@@ -3,7 +3,7 @@ layout: post
 title: 'B07K19RDDC: Ahorra en adidas Tiro19 2in1 SHO Sport Trousers  H'
 date: 2020-01-06 12:23:50
 comments: true
-tags: B07K19RDDC
+image: https://images-eu.ssl-images-amazon.com/images/I/31Cwzs%2BA3bL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07K19RDDC

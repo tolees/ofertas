@@ -2,6 +2,7 @@
 layout: post
 title: 'B07X3WMWVC - Ofertón en Amazon para DaMei Personalizada Pulseras para Hombre'
 date: 2019/12/17 17:34:08 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41lDE-LdgNL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

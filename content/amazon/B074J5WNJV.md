@@ -3,7 +3,7 @@ layout: post
 title: 'B074J5WNJV: Ahorra en BelleStyle Toy Storage Bag and Kids Play'
 date: 2020-01-05 22:13:28
 comments: true
-tags: B074J5WNJV
+image: https://images-eu.ssl-images-amazon.com/images/I/51haPMfINTL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B074J5WNJV

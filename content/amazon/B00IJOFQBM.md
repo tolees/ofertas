@@ -3,7 +3,7 @@ layout: post
 title: 'B00IJOFQBM: Rebaja en Russell Hobbs Mix & Go - Batidora de Vas en Amazon'
 date: 2020-01-06 12:41:30
 comments: true
-tags: B00IJOFQBM
+image: https://images-eu.ssl-images-amazon.com/images/I/41IKyoXl%2BgL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00IJOFQBM

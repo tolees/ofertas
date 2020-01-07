@@ -3,7 +3,7 @@ layout: post
 title: 'B07BL17GMV: Rebaja en New Balance 997H  Zapatillas para Mujer  en Amazon'
 date: 2019/12/13 07:59:29 +0000
 comments: true
-tags: B07BL17GMV
+image: https://images-eu.ssl-images-amazon.com/images/I/41e2jdH9bbL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07BL17GMV

@@ -3,7 +3,7 @@ layout: post
 title: 'B07HR6T8WD: Rebaja en Radio de Coche  Rixow Autoradio FM Estér en Amazon'
 date: 2020-01-02 16:56:03
 comments: true
-tags: B07HR6T8WD
+image: https://images-eu.ssl-images-amazon.com/images/I/41h0EekQUQL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HR6T8WD

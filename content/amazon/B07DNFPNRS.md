@@ -3,7 +3,7 @@ layout: post
 title: 'B07DNFPNRS: Ahorra en Forza Horizon 4'
 date: 2019/12/15 23:42:33 +0000
 comments: true
-tags: B07DNFPNRS
+image: https://images-eu.ssl-images-amazon.com/images/I/51GNKgHe%2BrL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07DNFPNRS

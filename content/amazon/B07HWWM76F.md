@@ -3,7 +3,7 @@ layout: post
 title: 'B07HWWM76F: Rebaja en Gant D1. Harvest Moon Ruffle Dress Vesti en Amazon'
 date: 2019/12/11 00:33:25 +0000
 comments: true
-tags: B07HWWM76F
+image: https://images-eu.ssl-images-amazon.com/images/I/51BBDX5ZqiL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07HWWM76F

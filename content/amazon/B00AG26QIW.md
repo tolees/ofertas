@@ -3,7 +3,7 @@ layout: post
 title: 'B00AG26QIW: Ahorra en Anillo vibrador de silicona lila'
 date: 2019/12/13 17:55:25 +0000
 comments: true
-tags: B00AG26QIW
+image: https://images-eu.ssl-images-amazon.com/images/I/41ZLqmE8%2BhL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00AG26QIW

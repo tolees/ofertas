@@ -3,7 +3,7 @@ layout: post
 title: 'B07NKTK4RC: Rebaja en Seiko Reloj Analógico para Hombre de Aut en Amazon'
 date: 2019/12/11 23:31:28 +0000
 comments: true
-tags: B07NKTK4RC
+image: https://images-eu.ssl-images-amazon.com/images/I/41oVmqAqJCL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07NKTK4RC

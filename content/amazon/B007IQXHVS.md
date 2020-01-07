@@ -3,7 +3,7 @@ layout: post
 title: 'B007IQXHVS: Ahorra en Star Wars Clone Wars - Reloj Digital de '
 date: 2019/12/24 09:50:09 +0000
 comments: true
-tags: B007IQXHVS
+image: https://images-eu.ssl-images-amazon.com/images/I/31SLtadx0KL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B007IQXHVS

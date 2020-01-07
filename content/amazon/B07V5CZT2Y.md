@@ -2,6 +2,7 @@
 layout: post
 title: 'B07V5CZT2Y - Ofertón en Amazon para WiMiUS Cámara de Caza 16MP 1080P  Camara'
 date: 2019/12/27 23:35:50 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/518NsHLOZ4L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

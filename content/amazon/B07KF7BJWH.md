@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KF7BJWH - Ofertón en Amazon para Levi s 510 Skinny Fit  Vaqueros para Hom'
 date: 2019/12/21 12:06:45 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31qtNyddRUL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

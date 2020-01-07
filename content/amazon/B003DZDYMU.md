@@ -3,7 +3,7 @@ layout: post
 title: 'B003DZDYMU: Ahorra en Casio Smart Watch Armbanduhr AE-1000W-1B'
 date: 2019/12/24 06:52:43 +0000
 comments: true
-tags: B003DZDYMU
+image: https://images-eu.ssl-images-amazon.com/images/I/51CkCv4LBwL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B003DZDYMU

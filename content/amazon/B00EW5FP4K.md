@@ -3,7 +3,7 @@ layout: post
 title: 'B00EW5FP4K: Ahorra en Nike Revolution 4  GS   Zapatillas de Ru'
 date: 2019/12/21 19:19:57 +0000
 comments: true
-tags: B00EW5FP4K
+image: https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00EW5FP4K

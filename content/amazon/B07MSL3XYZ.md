@@ -3,7 +3,7 @@ layout: post
 title: 'B07MSL3XYZ: Ahorra en Clarks Un Costa Lace  Zapatos de Cordone'
 date: 2019/12/21 19:23:14 +0000
 comments: true
-tags: B07MSL3XYZ
+image: https://images-eu.ssl-images-amazon.com/images/I/418pIhNy0wL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07MSL3XYZ

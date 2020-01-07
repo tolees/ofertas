@@ -2,6 +2,7 @@
 layout: post
 title: 'B07TXQH5ZZ - Ofertón en Amazon para deAO Coches 2en1 para Montar y Desmontar'
 date: 2020-01-03 13:33:54
+image: https://images-eu.ssl-images-amazon.com/images/I/51AANbqBGgL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

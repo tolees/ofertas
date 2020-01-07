@@ -2,6 +2,7 @@
 layout: post
 title: 'B07SQ9LHT5 - Ofertón en Amazon para adidas Coast Star  Zapatillas de Gimnasi'
 date: 2019/12/13 11:21:19 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/311nnmJ43lL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

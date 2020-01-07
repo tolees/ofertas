@@ -3,7 +3,7 @@ layout: post
 title: 'B07RMV44FJ: Rebaja en Telémetro láser 50m  TECCPO Medidor láse en Amazon'
 date: 2019/12/22 09:14:28 +0000
 comments: true
-tags: B07RMV44FJ
+image: https://images-eu.ssl-images-amazon.com/images/I/51QJrDkhWxL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07RMV44FJ

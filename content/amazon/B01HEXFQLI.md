@@ -3,7 +3,7 @@ layout: post
 title: 'B01HEXFQLI: Rebaja en Crocs Crocband Clog Kids  Zuecos Unisex  en Amazon'
 date: 2019/12/24 13:55:26 +0000
 comments: true
-tags: B01HEXFQLI
+image: https://images-eu.ssl-images-amazon.com/images/I/41FzYeh-8UL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B01HEXFQLI

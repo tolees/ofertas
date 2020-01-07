@@ -3,7 +3,7 @@ layout: post
 title: 'B00XACW13O: Ahorra en Durex Preservativos Dame Placer con Punt'
 date: 2020-01-07 10:18:26
 comments: true
-tags: B00XACW13O
+image: https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B00XACW13O

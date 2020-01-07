@@ -2,6 +2,7 @@
 layout: post
 title: 'B07F9QY4NL - Ofertón en Amazon para AmazonBasics - Lightning-auf-USB-A-Kabel'
 date: 2019/12/16 12:04:47 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/41OXG-p1iqL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07TQLF3QD: Ahorra en ROMIX Esterilla Deporte  Antideslizante '
 date: 2019/12/16 20:28:42 +0000
 comments: true
-tags: B07TQLF3QD
+image: https://images-eu.ssl-images-amazon.com/images/I/51mSjmayc6L._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07TQLF3QD

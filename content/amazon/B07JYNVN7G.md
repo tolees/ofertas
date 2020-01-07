@@ -3,7 +3,7 @@ layout: post
 title: 'B07JYNVN7G: Ahorra en Tommy Hilfiger Jute Detail Flatform Snea'
 date: 2019/12/22 08:26:48 +0000
 comments: true
-tags: B07JYNVN7G
+image: https://images-eu.ssl-images-amazon.com/images/I/41g8iv0NjRL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07JYNVN7G

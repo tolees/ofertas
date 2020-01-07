@@ -3,7 +3,7 @@ layout: post
 title: 'B07XHHJMG3: Rebaja en SKEY Compresor de Aire Coche Portatil Bo en Amazon'
 date: 2020-01-01 13:36:49
 comments: true
-tags: B07XHHJMG3
+image: https://images-eu.ssl-images-amazon.com/images/I/51ffpcTLHKL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07XHHJMG3

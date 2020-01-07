@@ -2,6 +2,7 @@
 layout: post
 title: 'B07KXTYN19 - Ofertón en Amazon para JACK & JONES NOS JJEDESERT Bomber Noos C'
 date: 2019/12/29 10:33:15 +0000
+image: https://images-eu.ssl-images-amazon.com/images/I/31P5KuKr9HL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring

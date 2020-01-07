@@ -3,7 +3,7 @@ layout: post
 title: 'B07KS5JSRY: Ahorra en dPois Damen Prinzessin Kleid Märchen Kle'
 date: 2019/12/26 00:46:22 +0000
 comments: true
-tags: B07KS5JSRY
+image: https://images-eu.ssl-images-amazon.com/images/I/41TzZusM%2BlL._SL200_.jpg
 category: ofertas
 author: ring
 slug: B07KS5JSRY
