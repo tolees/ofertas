@@ -20,7 +20,8 @@ LANDING_PAGE_ABOUT = {}
 
 PROJECTS_TITLE = "Nuestros canales de ofertas"
 
-PROJECTS = [
+# Commented to hide section
+OPROJECTS = [
     {"name": "💻Es Todo Tecnología", "url": "https://t.me/todotech"},
     {"name": "🧱Brickchollo (Lego)", "url": "https://t.me/brickchollo"},
     {"name": "🎎Es todo playmobil", "url": "https://t.me/estodoplaymobil"},
@@ -144,7 +145,7 @@ AUTHOR_FEED_RSS = ""
 TAG_FEED_ATOM = ""
 TAG_FEED_RSS = ""
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 
 CACHE_CONTENT = False
 CACHE_PATH = ".cache"
@@ -155,21 +156,14 @@ PLUGIN_PATHS = ["plugins"]
 
 PLUGINS = [
     "sitemap",
-    "extract_toc",
-    "tipue_search",
     "liquid_tags.img",
-    "render_math",
-    "share_post",
-    "series",
     "assets",
-    "post_stats",
-    "revealmd",
 ]
 
 # 'better_codeblock_line_numbering'
 # 'better_figures_and_images'
 
-THEME = "themes/elegant"
+THEME = "themes/classilegant"
 
 # elegant
 TYPOGRIFY = True
@@ -213,14 +207,14 @@ YEAR_ARCHIVE_SAVE_AS = "archive/{date:%Y}/index.html"
 MONTH_ARCHIVE_URL = "archive/{date:%Y}/{date:%m}/"
 MONTH_ARCHIVE_SAVE_AS = "archive/{date:%Y}/{date:%m}/index.html"
 
-CATEGORY_URL = "category/{slug}/"
-CATEGORY_SAVE_AS = "category/{slug}/index.html"
+CATEGORY_URL = ""
+CATEGORY_SAVE_AS = ""
 
-TAG_URL = "tag/{slug}/"
-TAG_SAVE_AS = "tag/{slug}/index.html"
+TAG_URL = ""
+TAG_SAVE_AS = ""
 
-PAGE_URL = "{slug}/"
-PAGE_SAVE_AS = "{slug}/index.html"
+PAGE_URL = ""
+PAGE_SAVE_AS = ""
 
 AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
@@ -228,22 +222,18 @@ AUTHORS_SAVE_AS = ""
 ARCHIVES_URL = "archives/"
 ARCHIVES_SAVE_AS = "archives/index.html"
 
-CATEGORIES_URL = "categories/"
-CATEGORIES_SAVE_AS = "categories/index.html"
-
-TAGS_URL = "tags/"
-TAGS_SAVE_AS = "tags/index.html"
-
-TAGS_URL = "tags"
-TAGS_SAVE_AS = ""
-AUTHORS_URL = "authors"
-AUTHORS_SAVE_AS = ""
-CATEGORIES_URL = "categories"
+CATEGORIES_URL = ""
 CATEGORIES_SAVE_AS = ""
-ARCHIVES_URL = "archives"
-ARCHIVES_SAVE_AS = ""
 
-DEFAULT_PAGINATION = 30
+TAGS_URL = ""
+TAGS_SAVE_AS = ""
+
+AUTHORS_URL = ""
+AUTHORS_SAVE_AS = ""
+ARCHIVES_URL = "archives"
+ARCHIVES_SAVE_AS = 'archives/index.html'
+
+DEFAULT_PAGINATION = 0
 DEFAULT_ORPHANS = 0
 
 PAGINATION_PATTERNS = (
@@ -266,6 +256,5 @@ SITE_UPDATED = datetime.date.today()
 
 # use those if you want pelican standard pages to appear in your menu
 MENU_INTERNAL_PAGES = (
-    ("Tags", TAGS_URL, TAGS_SAVE_AS),
     ("Archives", ARCHIVES_URL, ARCHIVES_SAVE_AS),
 )
