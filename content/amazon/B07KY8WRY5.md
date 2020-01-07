@@ -3,7 +3,7 @@ layout: post
 title: 'B07KY8WRY5: Ahorra en Eastpak Padded PAK R Mochila Tipo Casual'
 date: 2019/12/20 22:15:18 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/4132TP14RWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4132TP14RWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KY8WRY5

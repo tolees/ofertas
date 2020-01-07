@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QC8P4CF - Ofertón en Amazon para Puma AC Milan Kinder Replica Camiseta de'
 date: 2019/12/27 19:13:50 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51BpXRAnOBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BpXRAnOBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

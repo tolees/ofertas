@@ -2,7 +2,7 @@
 layout: post
 title: 'B01FW03BDK - Ofertón en Amazon para Philips Iluminación infantil LED integra'
 date: 2019/12/17 21:57:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/516-aMojPRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516-aMojPRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

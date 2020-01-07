@@ -3,7 +3,7 @@ layout: post
 title: 'B07JKDR6H3: Rebaja en CMP Strick Fleece Chaqueta  Mujer  Verde en Amazon'
 date: 2019/12/25 09:22:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ezEDGjO7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ezEDGjO7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JKDR6H3

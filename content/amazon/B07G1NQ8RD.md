@@ -2,7 +2,7 @@
 layout: post
 title: 'B07G1NQ8RD - Ofertón en Amazon para Fitbit Charge 3 Pulsera Avanzada de Salu'
 date: 2019/12/15 23:42:32 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/316qVAv1VcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316qVAv1VcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZDBNFG6: Ahorra en mysticall Cinta de Correr Walking Pad Pl'
 date: 2020-01-05 20:04:45
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41CB%2BAE2NUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CB%2BAE2NUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZDBNFG6

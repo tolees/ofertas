@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZRKXXW: Rebaja en BRIKSMAX Kit de Iluminación Led para Ego en Amazon'
 date: 2020-01-05 23:19:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TZRKXXW

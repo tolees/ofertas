@@ -3,7 +3,7 @@ layout: post
 title: 'B00WJXPNG2: Rebaja en Lee LF0450FZ  Cinturón Para Hombre  Marr en Amazon'
 date: 2019-12-31 18:18:09
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41JsnPSNs2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41JsnPSNs2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00WJXPNG2

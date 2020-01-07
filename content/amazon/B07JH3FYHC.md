@@ -3,7 +3,7 @@ layout: post
 title: 'B07JH3FYHC: Ahorra en Pepe Jeans Fidall Pm541220 Polo   Optic '
 date: 2019/12/18 06:05:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41VUo0urCpL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VUo0urCpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JH3FYHC

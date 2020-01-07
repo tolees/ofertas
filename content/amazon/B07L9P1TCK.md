@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L9P1TCK - Ofertón en Amazon para Lacoste Masters Cup 319 1 SMA  Zapatilla'
 date: 2019/12/26 12:32:27 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

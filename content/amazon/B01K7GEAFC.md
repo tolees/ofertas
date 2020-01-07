@@ -2,7 +2,7 @@
 layout: post
 title: 'B01K7GEAFC - Ofertón en Amazon para Logitech M330 Silent Plus Ratón Inalámbr'
 date: 2020-01-06 08:05:25
-image: https://images-eu.ssl-images-amazon.com/images/I/41iEF8PkyTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iEF8PkyTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

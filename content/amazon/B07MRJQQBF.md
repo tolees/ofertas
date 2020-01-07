@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MRJQQBF - Ofertón en Amazon para GIOVARA - Juego de 10 Herramientas de ja'
 date: 2019/12/30 02:31:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51LLlqpdS9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LLlqpdS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

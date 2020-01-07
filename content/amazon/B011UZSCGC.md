@@ -3,7 +3,7 @@ layout: post
 title: 'B011UZSCGC: Rebaja en PUMA Basket Classic LFS  Zapatillas Unis en Amazon'
 date: 2019/12/28 18:08:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41XO6-ZvBiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XO6-ZvBiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B011UZSCGC

@@ -3,7 +3,7 @@ layout: post
 title: 'B079GXDWDL: Rebaja en PUMA NRGY Neko Knit  Zapatillas de Entre en Amazon'
 date: 2019/12/16 03:47:02 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419-g6TNOOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079GXDWDL

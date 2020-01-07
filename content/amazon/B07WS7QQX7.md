@@ -3,7 +3,7 @@ layout: post
 title: 'B07WS7QQX7: Ahorra en BRIKSMAX Led Beleuchtungsset für Lego Te'
 date: 2020-01-05 22:47:53
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51UV5w0g6mL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UV5w0g6mL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WS7QQX7

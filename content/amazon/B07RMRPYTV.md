@@ -2,7 +2,7 @@
 layout: post
 title: 'B07RMRPYTV - Ofertón en Amazon para Nike Revolution 4  Zapatillas de Running'
 date: 2019/12/25 16:09:22 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41kbG%2B7G-tL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kbG%2B7G-tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

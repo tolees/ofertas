@@ -3,7 +3,7 @@ layout: post
 title: 'B07QQ1H9QN: Rebaja en Nautica Reloj Cronógrafo para Hombre de  en Amazon'
 date: 2019/12/12 23:17:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51hzIJvlsRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hzIJvlsRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QQ1H9QN

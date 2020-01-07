@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XRZS1T3 - Ofertón en Amazon para deAO Cocinita "Mi Pequeño Chef" con Cara'
 date: 2020-01-03 19:38:41
-image: https://images-eu.ssl-images-amazon.com/images/I/517IqW0n1lL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517IqW0n1lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

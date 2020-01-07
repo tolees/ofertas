@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FNWJ5P7 - Ofertón en Amazon para LEGO NINJAGO 70665 - Samurai-Roboter'
 date: 2020-01-07 14:30:21
-image: https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07CWKXNV2: Rebaja en XIAPIA Dispensador de Agua Automático pa en Amazon'
 date: 2019/12/23 11:49:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419rQTa3UUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419rQTa3UUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CWKXNV2

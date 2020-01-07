@@ -2,7 +2,7 @@
 layout: post
 title: 'B01IQT4BII - Ofertón en Amazon para Patrulla Canina | Neceser infantil | Den'
 date: 2019/12/23 17:48:19 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51Wz8sdX7yL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Wz8sdX7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

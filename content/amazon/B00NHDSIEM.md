@@ -3,7 +3,7 @@ layout: post
 title: 'B00NHDSIEM: Rebaja en Venom - Controller Kit  PS4  en Amazon'
 date: 2019/12/14 21:44:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Z9UNN5CvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z9UNN5CvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NHDSIEM

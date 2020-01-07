@@ -2,7 +2,7 @@
 layout: post
 title: 'B01M4QCFBE - Ofertón en Amazon para Festina Reloj Análogo clásico para Hombr'
 date: 2019/12/20 01:51:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41O6eGVC5UL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O6eGVC5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

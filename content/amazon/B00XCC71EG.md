@@ -2,7 +2,7 @@
 layout: post
 title: 'B00XCC71EG - Ofertón en Amazon para Leibniz PiCK UP! Black´n White 24 x 28 g'
 date: 2019/12/19 14:56:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51CHUgKFy2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CHUgKFy2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

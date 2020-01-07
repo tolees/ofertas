@@ -3,7 +3,7 @@ layout: post
 title: 'B01AXYMEZ6: Ahorra en MASERATI Reloj Cronógrafo para Hombre de'
 date: 2020-01-02 12:36:54
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51iFMFGheBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iFMFGheBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AXYMEZ6

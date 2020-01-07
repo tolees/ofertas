@@ -3,7 +3,7 @@ layout: post
 title: 'B07JVMWPR4: Ahorra en Mini Cámara Espía Oculta 1080P DIY Portá'
 date: 2020-01-03 08:10:58
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419RhE9FDPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419RhE9FDPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JVMWPR4

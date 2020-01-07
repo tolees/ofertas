@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQQFX78: Ahorra en Salomon XA Pro 3D GTX  Zapatillas de Tra'
 date: 2020-01-01 11:32:08
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQQFX78

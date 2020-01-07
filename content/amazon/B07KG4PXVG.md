@@ -3,7 +3,7 @@ layout: post
 title: 'B07KG4PXVG: Rebaja en PUMA Axis Plus SD  Zapatillas Unisex Adu en Amazon'
 date: 2019/12/13 10:43:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413Xka0riwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413Xka0riwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG4PXVG

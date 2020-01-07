@@ -3,7 +3,7 @@ layout: post
 title: 'B07DJ6MKT2: Ahorra en Geox U Kennet B  Zapatillas para Hombre '
 date: 2019/12/11 15:33:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DJ6MKT2

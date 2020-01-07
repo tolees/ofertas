@@ -2,7 +2,7 @@
 layout: post
 title: 'B07F8PWKZ7 - Ofertón en Amazon para HOMIEE Bebé Monitor Vigilabebés con cáma'
 date: 2019/12/17 20:27:32 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41mIEHGho5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mIEHGho5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

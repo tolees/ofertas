@@ -3,7 +3,7 @@ layout: post
 title: 'B00J5X0MWE: Rebaja en uhlsport Match Chaqueta De Entrenamiento en Amazon'
 date: 2020-01-03 10:55:54
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41O6WVrAHwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41O6WVrAHwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00J5X0MWE

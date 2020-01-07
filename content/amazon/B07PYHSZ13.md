@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PYHSZ13 - Ofertón en Amazon para Liu Jo A19066E0002 Bolso de baldolera Ac'
 date: 2020-01-04 10:07:55
-image: https://images-eu.ssl-images-amazon.com/images/I/41DUO4kj5xL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DUO4kj5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

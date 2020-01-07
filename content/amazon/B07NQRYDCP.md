@@ -3,7 +3,7 @@ layout: post
 title: 'B07NQRYDCP: Rebaja en Sylvanian Families 5302 Red Roof Country en Amazon'
 date: 2019/12/18 16:15:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51v%2BWYY6tmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51v%2BWYY6tmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NQRYDCP

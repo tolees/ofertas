@@ -3,7 +3,7 @@ layout: post
 title: 'B07G6MYMKD: Rebaja en Ultimate Ears Megaboom 3  Altavoz Blueto en Amazon'
 date: 2019/12/27 13:13:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41BoPBx1yoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BoPBx1yoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G6MYMKD

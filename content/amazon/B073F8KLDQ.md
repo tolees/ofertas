@@ -3,7 +3,7 @@ layout: post
 title: 'B073F8KLDQ: Ahorra en LOSMILE Hombres Lona Bolso de Bandolera '
 date: 2019/12/16 21:58:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51OjdxOhSTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OjdxOhSTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073F8KLDQ

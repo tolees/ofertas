@@ -3,7 +3,7 @@ layout: post
 title: 'B07S8W7SYM: Rebaja en GODNECE LED Licht-Set für Baustein  Led  en Amazon'
 date: 2019/12/22 17:39:21 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51-jNSWWz4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-jNSWWz4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S8W7SYM

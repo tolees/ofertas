@@ -3,7 +3,7 @@ layout: post
 title: 'B07HCTXS6N: Rebaja en Tommy Hilfiger - Th Core Pouch W/Wristle en Amazon'
 date: 2020-01-02 00:53:31
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yg%2B4uwEVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yg%2B4uwEVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HCTXS6N

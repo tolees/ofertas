@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QS8MNB4 - Ofertón en Amazon para Meinkind Mochila Portabebe Ergonomica Mu'
 date: 2019/12/15 07:19:14 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51YUvoQKOIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YUvoQKOIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

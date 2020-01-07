@@ -3,7 +3,7 @@ layout: post
 title: 'B07PSZY5WG: Ahorra en New Balance 373  Zapatillas para Hombre '
 date: 2019/12/31 08:17:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PSZY5WG

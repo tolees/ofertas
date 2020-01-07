@@ -3,7 +3,7 @@ layout: post
 title: 'B07MTT7DTB: Rebaja en MSI GS65 8SF-057 Stealth 39 6 cm  15 6 Z en Amazon'
 date: 2019/12/17 16:25:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31MKyKaFuqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MKyKaFuqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MTT7DTB

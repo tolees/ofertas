@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCSPP51: Rebaja en Napapijri K Rainforest 1 Chaqueta  Azul  en Amazon'
 date: 2019/12/28 19:05:44 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41S%2BK%2BQDetL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2BK%2BQDetL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MCSPP51

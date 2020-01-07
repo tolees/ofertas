@@ -2,7 +2,7 @@
 layout: post
 title: 'B00Y9WSDG8 - Ofertón en Amazon para STAR WARS - RD Control Hero vehicule  4 '
 date: 2019/12/13 09:06:34 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51xcQkRSdZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xcQkRSdZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

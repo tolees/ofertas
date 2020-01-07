@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KWYPV1X - Ofertón en Amazon para Victure AC700 Cámara Deportiva 4K Wi-Fi '
 date: 2020-01-07 15:05:22
-image: https://images-eu.ssl-images-amazon.com/images/I/51NMoEa06FL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NMoEa06FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

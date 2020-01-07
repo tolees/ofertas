@@ -2,7 +2,7 @@
 layout: post
 title: 'B01LWT5KBH - Ofertón en Amazon para Playmobil 9081 - Geldautomat'
 date: 2019/12/13 17:01:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/61TMFXGyO%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61TMFXGyO%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

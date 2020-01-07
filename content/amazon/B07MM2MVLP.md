@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MM2MVLP - Ofertón en Amazon para ASUS ROG Zephyrus S GX701GX  90NR00X1-M0'
 date: 2019/12/16 13:52:50 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41woJwVA3VL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41woJwVA3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

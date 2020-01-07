@@ -2,7 +2,7 @@
 layout: post
 title: 'B00ATULLC2 - Ofertón en Amazon para Invicta 14397 Angel Reloj para Mujer ace'
 date: 2019/12/20 01:25:45 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41UyQ2FsEjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UyQ2FsEjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

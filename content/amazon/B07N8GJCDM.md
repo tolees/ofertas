@@ -3,7 +3,7 @@ layout: post
 title: 'B07N8GJCDM: Rebaja en Dim Slip Generous Classique Pantis  Viol en Amazon'
 date: 2019/12/20 09:07:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Pi3-rpwEL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Pi3-rpwEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N8GJCDM

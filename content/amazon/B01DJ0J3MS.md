@@ -2,7 +2,7 @@
 layout: post
 title: 'B01DJ0J3MS - Ofertón en Amazon para 2 Linterna LED Acampada portátil luz Int'
 date: 2019/12/31 12:21:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51TKEn9ayPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TKEn9ayPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

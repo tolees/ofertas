@@ -3,7 +3,7 @@ layout: post
 title: 'B07TXTJT97: Ahorra en WisFox Explosion Box  Creativo DIY Hecho'
 date: 2019/12/13 12:06:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61fqsdzej0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61fqsdzej0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TXTJT97

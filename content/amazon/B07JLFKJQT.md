@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JLFKJQT - Ofertón en Amazon para PLAYMOBIL City Life 70049 Rettungswagen '
 date: 2020-01-02 14:38:26
-image: https://images-eu.ssl-images-amazon.com/images/I/61T5g42nGLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61T5g42nGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

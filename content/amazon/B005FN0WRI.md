@@ -3,7 +3,7 @@ layout: post
 title: 'B005FN0WRI: Ahorra en Invicta 1769 Pro Diver Reloj para Hombre'
 date: 2019/12/11 23:36:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41a5WnIUK2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a5WnIUK2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B005FN0WRI

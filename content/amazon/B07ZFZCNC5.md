@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZFZCNC5: Ahorra en Relojes para Hombre Moda Cuarzo Analógic'
 date: 2019/12/22 11:55:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51NWMiJX6QL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NWMiJX6QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZFZCNC5

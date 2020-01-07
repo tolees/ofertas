@@ -3,7 +3,7 @@ layout: post
 title: 'B07JJ4BJYC: Rebaja en G-STAR RAW 3301 Ripped Mid Waist Boyfrie en Amazon'
 date: 2019/12/17 18:38:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31C9IzYN0BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C9IzYN0BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JJ4BJYC

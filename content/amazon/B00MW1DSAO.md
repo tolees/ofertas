@@ -3,7 +3,7 @@ layout: post
 title: 'B00MW1DSAO: Ahorra en Rexxor 242-7904-98 - Reloj de Cuarzo par'
 date: 2020-01-05 20:01:08
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41cN-K-x7xL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cN-K-x7xL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MW1DSAO

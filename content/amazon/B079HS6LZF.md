@@ -3,7 +3,7 @@ layout: post
 title: 'B079HS6LZF: Rebaja en Bloques de construcción de Bloques magné en Amazon'
 date: 2019/12/11 15:13:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61p7SsM3PrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61p7SsM3PrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079HS6LZF

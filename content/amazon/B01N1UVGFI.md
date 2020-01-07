@@ -3,7 +3,7 @@ layout: post
 title: 'B01N1UVGFI: Ahorra en find. BAY001019W170205 vaqueros mujer  B'
 date: 2019/12/24 15:37:28 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31p3sJJYFLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31p3sJJYFLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N1UVGFI

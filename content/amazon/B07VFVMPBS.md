@@ -3,7 +3,7 @@ layout: post
 title: 'B07VFVMPBS: Ahorra en YOSICIL Princesa Disfraz Frozen Elsa Ver'
 date: 2020-01-05 23:10:49
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VFVMPBS

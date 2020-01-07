@@ -3,7 +3,7 @@ layout: post
 title: 'B001LLUPIY: Rebaja en Auchentoshan Whisky Three Wood - 700 ml en Amazon'
 date: 2020-01-04 09:04:01
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/416GJMFiy6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416GJMFiy6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B001LLUPIY

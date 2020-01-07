@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CZBJPSK - Ofertón en Amazon para Wonderbra Fabulous Feel Padded Wireless '
 date: 2019/12/12 08:14:22 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41FQaTLiSTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FQaTLiSTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

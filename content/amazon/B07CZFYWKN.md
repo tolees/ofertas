@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CZFYWKN - Ofertón en Amazon para Under Armour Armour Fly Fast Capri Leggi'
 date: 2019/12/18 19:26:39 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31jMobFqXYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31jMobFqXYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

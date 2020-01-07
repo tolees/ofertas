@@ -3,7 +3,7 @@ layout: post
 title: 'B0013FKSIA: Ahorra en Boucheron Jaipur Homme Eau de Toilette V'
 date: 2020-01-05 07:39:23
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41AZjxPz0sL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AZjxPz0sL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0013FKSIA

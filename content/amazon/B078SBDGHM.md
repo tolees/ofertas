@@ -2,7 +2,7 @@
 layout: post
 title: 'B078SBDGHM - Ofertón en Amazon para L CARNITINA Natural 2000. Suplemento L-C'
 date: 2019/12/17 10:15:34 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41E0b-BtSOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E0b-BtSOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

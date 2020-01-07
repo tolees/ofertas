@@ -3,7 +3,7 @@ layout: post
 title: 'B07DYC9T4P: Rebaja en adidas Easy Vulc 2.0  Zapatillas de Skat en Amazon'
 date: 2019/12/28 21:14:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41tTfO29xGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tTfO29xGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DYC9T4P

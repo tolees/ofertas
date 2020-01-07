@@ -3,7 +3,7 @@ layout: post
 title: 'B074H5LYTZ: Ahorra en Russell Hobbs Light & Easy Brights - Pla'
 date: 2019/12/20 14:49:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41J7iEeX18L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J7iEeX18L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074H5LYTZ

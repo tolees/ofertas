@@ -3,7 +3,7 @@ layout: post
 title: 'B01N7VDPYN: Ahorra en Geox UOMO Symbol B  Zapatos de Cordones '
 date: 2019/12/12 19:24:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31XnNddeROL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XnNddeROL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N7VDPYN

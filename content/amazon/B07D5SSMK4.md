@@ -3,7 +3,7 @@ layout: post
 title: 'B07D5SSMK4: Ahorra en Puma ESS Logo Crew TR Sweatshirt  Mujer '
 date: 2019/12/16 11:47:02 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Cb9WVZ6FL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cb9WVZ6FL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D5SSMK4

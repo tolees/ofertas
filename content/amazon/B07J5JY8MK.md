@@ -3,7 +3,7 @@ layout: post
 title: 'B07J5JY8MK: Rebaja en MUSTRIEND Tocadiscos 33/45/78 Reproducto en Amazon'
 date: 2019/12/21 03:16:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51EUrQk1AzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EUrQk1AzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J5JY8MK

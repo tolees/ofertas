@@ -3,7 +3,7 @@ layout: post
 title: 'B01KFLAVBG: Rebaja en Philips GC9405/80 - Centro de Planchado  en Amazon'
 date: 2020-01-05 11:03:44
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41pdMHa8rbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pdMHa8rbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01KFLAVBG

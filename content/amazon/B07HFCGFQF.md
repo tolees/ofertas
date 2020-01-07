@@ -3,7 +3,7 @@ layout: post
 title: 'B07HFCGFQF: Rebaja en SIMYJOY Mujere BTS Fans Estrellado Sudad en Amazon'
 date: 2019/12/24 12:53:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31f6lvawxuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31f6lvawxuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HFCGFQF

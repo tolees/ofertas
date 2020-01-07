@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PMDK1WM - Ofertón en Amazon para Medela Swing Flex 2-Phase - Extractor de'
 date: 2020-01-05 09:18:34
-image: https://images-eu.ssl-images-amazon.com/images/I/41PUw7i1o0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PUw7i1o0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07SR76VQK - Ofertón en Amazon para Chok Idea Innovador Hebilla Piel Genuina'
 date: 2019/12/28 21:18:03 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51KKTrOtHvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KKTrOtHvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

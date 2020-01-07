@@ -2,7 +2,7 @@
 layout: post
 title: 'B079FXP2KV - Ofertón en Amazon para Samsung Clear View Standing Cover  EF-ZG'
 date: 2019/12/18 07:43:33 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/314fyAxomML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314fyAxomML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07QZ2VD5B: Rebaja en Libro Bebe  BelleStyle Libro Texturas Be en Amazon'
 date: 2019/12/17 10:48:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51M-o5xKHsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51M-o5xKHsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QZ2VD5B

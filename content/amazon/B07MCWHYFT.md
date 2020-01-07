@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCWHYFT: Rebaja en Jeerhope Guantes de silicona para lavava en Amazon'
 date: 2019/12/19 09:55:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41dCGkACwRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dCGkACwRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MCWHYFT

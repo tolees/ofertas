@@ -2,7 +2,7 @@
 layout: post
 title: 'B00WWPEWIM - Ofertón en Amazon para Jack and Jones Sense Trunks 3-Pack Bóxer'
 date: 2019/12/11 17:24:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41kt28NDORL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kt28NDORL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

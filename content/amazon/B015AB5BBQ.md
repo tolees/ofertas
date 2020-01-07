@@ -2,7 +2,7 @@
 layout: post
 title: 'B015AB5BBQ - Ofertón en Amazon para Marc Jacobs  Agua de tocador para mujere'
 date: 2019/12/21 12:45:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31-Utfy%2BxAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-Utfy%2BxAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

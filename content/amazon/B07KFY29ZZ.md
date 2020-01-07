@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFY29ZZ: Ahorra en Puma Unisex Adulto Axis Zapatillas  Azul'
 date: 2020-01-07 11:08:36
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFY29ZZ

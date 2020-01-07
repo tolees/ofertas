@@ -3,7 +3,7 @@ layout: post
 title: 'B0779FSTGW: Ahorra en Clarks Originals Wallabee  Zapatos de Co'
 date: 2019/12/24 11:44:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41X0I7bWOdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X0I7bWOdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0779FSTGW

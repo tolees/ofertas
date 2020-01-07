@@ -3,7 +3,7 @@ layout: post
 title: 'B07GR6PG7W: Rebaja en Cinta Métrica Láser 2 En 1  TACKLIFE Met en Amazon'
 date: 2020-01-04 10:34:10
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51XoBWP28AL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XoBWP28AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GR6PG7W

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01FXGWF0S - Ofertón en Amazon para Under Armour Tech Pant Pantalón de Golf '
 date: 2019/12/25 13:11:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31rP7je2azL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rP7je2azL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

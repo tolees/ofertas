@@ -3,7 +3,7 @@ layout: post
 title: 'B07VQSHMZ3: Ahorra en ENKEEO Ciclocomputadores Inalámbrica Rec'
 date: 2019/12/25 13:35:51 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41J2VjhBvxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J2VjhBvxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VQSHMZ3

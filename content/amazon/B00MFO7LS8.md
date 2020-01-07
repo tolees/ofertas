@@ -3,7 +3,7 @@ layout: post
 title: 'B00MFO7LS8: Ahorra en Wrangler Greensboro Cool Vantage Vaquero'
 date: 2019/12/10 22:59:34 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31GpL1iaMdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31GpL1iaMdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MFO7LS8

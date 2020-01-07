@@ -2,7 +2,7 @@
 layout: post
 title: 'B07HGD5TWC - Ofertón en Amazon para Calzado Deportivo para Hombre  Color Azu'
 date: 2019/12/20 00:19:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31MpX5%2BwkAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31MpX5%2BwkAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

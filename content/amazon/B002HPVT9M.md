@@ -3,7 +3,7 @@ layout: post
 title: 'B002HPVT9M: Ahorra en Cisco RJ45-DB9 - Cable de Red  1 8 m  RJ'
 date: 2019/12/13 21:41:20 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/4120m167DUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4120m167DUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002HPVT9M

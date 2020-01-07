@@ -3,7 +3,7 @@ layout: post
 title: 'B07QFTLXXF: Ahorra en NUBILY Cinturon Hombre Cuero Negro Marró'
 date: 2019/12/27 18:51:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41g2UVsyQZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41g2UVsyQZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QFTLXXF

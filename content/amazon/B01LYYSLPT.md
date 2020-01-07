@@ -3,7 +3,7 @@ layout: post
 title: 'B01LYYSLPT: Ahorra en Smilodox Shorts  Pantalones Cortos para '
 date: 2020-01-02 13:56:27
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413w-PMo4qL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413w-PMo4qL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LYYSLPT

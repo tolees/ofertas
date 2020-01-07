@@ -3,7 +3,7 @@ layout: post
 title: 'B07WJKBJ51: Rebaja en BENYAR Cronógrafo de Cuero de Moda Reloj en Amazon'
 date: 2019/12/11 15:51:20 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51asM7ooPGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51asM7ooPGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WJKBJ51

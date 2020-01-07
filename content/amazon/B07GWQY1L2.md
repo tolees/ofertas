@@ -3,7 +3,7 @@ layout: post
 title: 'B07GWQY1L2: Ahorra en NNJXD Partido del Unicornio Flor de Las '
 date: 2020-01-06 14:34:44
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41src-Nz7ML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41src-Nz7ML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GWQY1L2

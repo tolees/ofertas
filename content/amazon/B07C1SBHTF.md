@@ -2,7 +2,7 @@
 layout: post
 title: 'B07C1SBHTF - Ofertón en Amazon para Zwilling 36133-000-0 Gourmet Selbstschär'
 date: 2019/12/11 13:02:39 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/411wnDpKLrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411wnDpKLrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

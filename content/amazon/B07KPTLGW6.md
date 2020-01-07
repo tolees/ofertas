@@ -3,7 +3,7 @@ layout: post
 title: 'B07KPTLGW6: Ahorra en CYMBAINK 4 Pack Compatible for HP 203X 2'
 date: 2019-12-31 16:16:22
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51u9B%2BYw%2BAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51u9B%2BYw%2BAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KPTLGW6

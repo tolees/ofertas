@@ -3,7 +3,7 @@ layout: post
 title: 'B01LYCTHJG: Rebaja en Tefal Comfort Grip - Juego de 3 Sartenes en Amazon'
 date: 2020-01-06 17:28:40
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41jce1koRuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jce1koRuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LYCTHJG

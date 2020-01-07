@@ -3,7 +3,7 @@ layout: post
 title: 'B079JWQJ3N: Rebaja en NNDOLL Vestido de Princesa Carnaval Vest en Amazon'
 date: 2020-01-05 14:28:05
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079JWQJ3N

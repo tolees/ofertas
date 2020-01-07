@@ -3,7 +3,7 @@ layout: post
 title: 'B075FCCFJ5: Ahorra en Martellato Cortador de Pizza  95 x 250 m'
 date: 2019/12/16 16:11:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31FboqJDepL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FboqJDepL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075FCCFJ5

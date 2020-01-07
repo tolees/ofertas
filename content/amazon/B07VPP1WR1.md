@@ -3,7 +3,7 @@ layout: post
 title: 'B07VPP1WR1: Ahorra en UTTORA Coche Teledirigido   Coches RC de'
 date: 2020-01-07 06:41:24
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/5102Lve9d5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5102Lve9d5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VPP1WR1

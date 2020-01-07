@@ -3,7 +3,7 @@ layout: post
 title: 'B07WHWNYHH: Ahorra en Acrylic Display Case for Minifigures Bri'
 date: 2019/12/22 16:30:19 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41BRO4qrDTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BRO4qrDTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WHWNYHH

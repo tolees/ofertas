@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQQ95SQ: Ahorra en Salomon XA Pro 3D  Zapatillas de Trail R'
 date: 2020-01-05 10:46:40
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41KJMlvn3YL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KJMlvn3YL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQQ95SQ

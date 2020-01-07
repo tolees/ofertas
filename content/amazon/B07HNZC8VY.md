@@ -2,7 +2,7 @@
 layout: post
 title: 'B07HNZC8VY - Ofertón en Amazon para FREEFLY Frozen Girls Princess Costume Co'
 date: 2019/12/24 08:28:40 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41QoG32V-dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QoG32V-dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

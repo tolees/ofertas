@@ -3,7 +3,7 @@ layout: post
 title: 'B00X5P8BJO: Ahorra en Arteck Universal Backlit 7-Colors & Adju'
 date: 2020-01-04 22:04:34
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41cjZTl4kRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cjZTl4kRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00X5P8BJO

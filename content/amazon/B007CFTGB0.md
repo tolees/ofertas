@@ -3,7 +3,7 @@ layout: post
 title: 'B007CFTGB0: Ahorra en Orbegozo HO 810 A Mini horno- tostador m'
 date: 2020-01-06 14:21:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41XVFNmXLPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XVFNmXLPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B007CFTGB0

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07NSN9VW2 - Ofertón en Amazon para New Look Utility Shacket Chaqueta  Beige'
 date: 2019/12/19 22:02:29 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41MwUtY-hQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MwUtY-hQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

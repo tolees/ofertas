@@ -3,7 +3,7 @@ layout: post
 title: 'B01MDLOHK2: Ahorra en Kayhan Hombre Camisa Mailand  Lightblue '
 date: 2019/12/19 13:29:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51CD5dapyVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CD5dapyVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MDLOHK2

@@ -2,7 +2,7 @@
 layout: post
 title: 'B000KTB1BI - Ofertón en Amazon para WEDO 78909 - Cúter  9 mm   color azul y '
 date: 2019/12/31 10:34:57 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31paVf2mVeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31paVf2mVeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

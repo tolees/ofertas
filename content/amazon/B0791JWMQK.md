@@ -2,7 +2,7 @@
 layout: post
 title: 'B0791JWMQK - Ofertón en Amazon para Nella Muñeca Canta y Habla  Multicolor  '
 date: 2019/12/21 18:21:01 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51aHBnu246L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aHBnu246L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

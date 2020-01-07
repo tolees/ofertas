@@ -3,7 +3,7 @@ layout: post
 title: 'B00MCHGXF0: Rebaja en Barbie - Muñeco Ken y muñeca Barbie con  en Amazon'
 date: 2019/12/24 22:27:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41pgRU05GKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pgRU05GKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MCHGXF0

@@ -3,7 +3,7 @@ layout: post
 title: 'B00EFRXHH2: Ahorra en Helly Hansen Daybreaker Fleece Jacket Ch'
 date: 2019/12/23 22:06:09 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/318recuxSxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318recuxSxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00EFRXHH2

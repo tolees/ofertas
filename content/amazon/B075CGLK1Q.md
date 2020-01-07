@@ -2,7 +2,7 @@
 layout: post
 title: 'B075CGLK1Q - Ofertón en Amazon para Essort Funda Mesa Jardin 213x123x74cm  F'
 date: 2019/12/19 14:50:07 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

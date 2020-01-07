@@ -3,7 +3,7 @@ layout: post
 title: 'B07KM9MBFD: Ahorra en Corsair M65 Elite RGB FPS Gaming Maus  1'
 date: 2019/12/17 12:49:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31fhTixC9fL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31fhTixC9fL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KM9MBFD

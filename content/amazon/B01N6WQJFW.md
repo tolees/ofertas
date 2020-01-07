@@ -3,7 +3,7 @@ layout: post
 title: 'B01N6WQJFW: Ahorra en Smart Panda Calendario Magnético para Ne'
 date: 2019/12/26 08:09:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/510ithvINLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/510ithvINLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N6WQJFW

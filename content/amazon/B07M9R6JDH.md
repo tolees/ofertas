@@ -2,7 +2,7 @@
 layout: post
 title: 'B07M9R6JDH - Ofertón en Amazon para Angelady Collar de Pendientes Juego de J'
 date: 2019/12/11 07:50:44 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Y6iO%2BwmtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6iO%2BwmtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

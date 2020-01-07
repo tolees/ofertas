@@ -2,7 +2,7 @@
 layout: post
 title: 'B06Y2X2MWG - Ofertón en Amazon para Petcomer Mochila Cápsula Impermeable Tra'
 date: 2019/12/28 22:12:44 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41kXzEFc5UL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kXzEFc5UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCSPK4M: Ahorra en Napapijri DAMAVAND Crew Jersey  Rojo  Re'
 date: 2019/12/23 15:00:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31PdD0hV7CL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PdD0hV7CL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MCSPK4M

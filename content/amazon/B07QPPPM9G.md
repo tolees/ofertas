@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QPPPM9G - Ofertón en Amazon para Panasonic TX-40GX800B 40 inch LED 4K Ult'
 date: 2019/12/30 16:20:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41THMKq76QL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41THMKq76QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

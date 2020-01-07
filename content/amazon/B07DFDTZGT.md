@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DFDTZGT - Ofertón en Amazon para Funko 33519 POP Bobble Marvel Studios 10'
 date: 2019/12/21 08:30:24 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

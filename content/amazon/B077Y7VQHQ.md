@@ -3,7 +3,7 @@ layout: post
 title: 'B077Y7VQHQ: Rebaja en HIKARO Chaqueta con Cremallera Mujer  Az en Amazon'
 date: 2019/12/20 20:54:11 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41mVrA%2BVrCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mVrA%2BVrCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077Y7VQHQ

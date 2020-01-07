@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PHP4ZYC - Ofertón en Amazon para AmazonBasics - Teléfono fijo DECT con co'
 date: 2019/12/14 10:09:29 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41AVpNQ4XXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AVpNQ4XXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01AKYXUKC - Ofertón en Amazon para Beurer UB 75 Wärmeunterbett  mit sechs T'
 date: 2019/12/13 21:05:59 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/517xC9QD5HL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517xC9QD5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

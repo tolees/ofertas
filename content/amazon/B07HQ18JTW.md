@@ -2,7 +2,7 @@
 layout: post
 title: 'B07HQ18JTW - Ofertón en Amazon para Funko 34465 POP Vinyl: Fortnite: High Ri'
 date: 2019/12/28 08:44:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41CD-BtY5VL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CD-BtY5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

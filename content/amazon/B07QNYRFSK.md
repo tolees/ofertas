@@ -3,7 +3,7 @@ layout: post
 title: 'B07QNYRFSK: Ahorra en Bulova Reloj Analógico para Mujer de Cua'
 date: 2019/12/18 22:29:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41pjSNcBGuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pjSNcBGuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QNYRFSK

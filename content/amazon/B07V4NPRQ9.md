@@ -3,7 +3,7 @@ layout: post
 title: 'B07V4NPRQ9: Ahorra en MSI GT76 9SG-028 Titan DT 4K  43 9 cm/17'
 date: 2019/12/17 16:31:16 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51oEVU4oqzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oEVU4oqzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07V4NPRQ9

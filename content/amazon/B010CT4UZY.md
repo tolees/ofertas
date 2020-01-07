@@ -2,7 +2,7 @@
 layout: post
 title: 'B010CT4UZY - Ofertón en Amazon para Teka MWE 225 G Microondas de Libre insta'
 date: 2019/12/26 19:42:51 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41ViBNGhUmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ViBNGhUmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

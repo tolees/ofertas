@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JKRJDFX - Ofertón en Amazon para Assassin s Creed Odyssey - Ultimate Edit'
 date: 2019/12/14 17:53:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

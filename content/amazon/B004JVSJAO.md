@@ -3,7 +3,7 @@ layout: post
 title: 'B004JVSJAO: Ahorra en Michael Kors Reloj de Cuarzo MK5354'
 date: 2019-12-31 16:08:05
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41a-YJRejiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a-YJRejiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004JVSJAO

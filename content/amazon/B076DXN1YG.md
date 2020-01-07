@@ -3,7 +3,7 @@ layout: post
 title: 'B076DXN1YG: Rebaja en KitchenBoss Bolsas de Vacío 3 Rolls 15x5 en Amazon'
 date: 2019/12/26 15:33:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51gX0hR29gL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gX0hR29gL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076DXN1YG

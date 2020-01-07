@@ -2,7 +2,7 @@
 layout: post
 title: 'B077KXGQXH - Ofertón en Amazon para VICTSING Ratón Inalámbrico Bluetooth 4.0'
 date: 2020-01-06 13:14:13
-image: https://images-eu.ssl-images-amazon.com/images/I/41v2vYpPTcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2vYpPTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

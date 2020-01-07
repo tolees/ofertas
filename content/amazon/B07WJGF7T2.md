@@ -3,7 +3,7 @@ layout: post
 title: 'B07WJGF7T2: Rebaja en LIGHTAILING Licht-Set Für  Creator NASA  en Amazon'
 date: 2019/12/11 04:44:34 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51iVd8ZAugL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iVd8ZAugL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WJGF7T2

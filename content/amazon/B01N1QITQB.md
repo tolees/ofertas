@@ -2,7 +2,7 @@
 layout: post
 title: 'B01N1QITQB - Ofertón en Amazon para Timberland Adventure 2.0 Cupsole  Zapati'
 date: 2019/12/17 21:43:06 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41fTD-r7mGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fTD-r7mGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

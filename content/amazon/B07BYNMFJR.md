@@ -2,7 +2,7 @@
 layout: post
 title: 'B07BYNMFJR - Ofertón en Amazon para L Oréal Paris Men Expert Vitalift Contor'
 date: 2019/12/23 10:06:14 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31-OBO-98AL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-OBO-98AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

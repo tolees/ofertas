@@ -3,7 +3,7 @@ layout: post
 title: 'B07F2RZLW6: Ahorra en Helly Hansen HH Logo Crew Sudadera  Homb'
 date: 2019/12/28 10:59:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41YgfMR5sWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YgfMR5sWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F2RZLW6

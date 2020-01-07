@@ -3,7 +3,7 @@ layout: post
 title: 'B01BEQYUQS: Rebaja en El Naturalista N758  Botines para Mujer  en Amazon'
 date: 2020-01-06 16:39:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BEQYUQS

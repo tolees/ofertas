@@ -3,7 +3,7 @@ layout: post
 title: 'B07NY3RNJX: Rebaja en Superdry OL Elite Crew Sudadera  Morado  en Amazon'
 date: 2019/12/30 16:01:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31HBhwJH9gL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HBhwJH9gL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NY3RNJX

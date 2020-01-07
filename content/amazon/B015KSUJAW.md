@@ -3,7 +3,7 @@ layout: post
 title: 'B015KSUJAW: Rebaja en NNJXD Vestido de Fiesta de Princesa con  en Amazon'
 date: 2020-01-06 22:21:32
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51t4sNcDvyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51t4sNcDvyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B015KSUJAW

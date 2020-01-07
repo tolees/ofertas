@@ -3,7 +3,7 @@ layout: post
 title: 'B01FXC7JWQ: Ahorra en Furbo - CÁMARA para Perros: Telecámara H'
 date: 2019/12/12 13:10:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418zueeZSQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418zueeZSQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01FXC7JWQ

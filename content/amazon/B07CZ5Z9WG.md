@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CZ5Z9WG - Ofertón en Amazon para Puma Mantra Fusefit  Zapatillas de Depor'
 date: 2019/12/25 19:56:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41H4FviKkiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H4FviKkiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

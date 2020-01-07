@@ -3,7 +3,7 @@ layout: post
 title: 'B073GW2TPP: Ahorra en Bveyzi Mujeres RFID Bloqueo Billetera Cu'
 date: 2020-01-05 18:18:15
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41B3eQJGh7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41B3eQJGh7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073GW2TPP

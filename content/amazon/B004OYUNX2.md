@@ -2,7 +2,7 @@
 layout: post
 title: 'B004OYUNX2 - Ofertón en Amazon para Casio Reloj de Pulsera R1551100025'
 date: 2019/12/28 19:57:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41CQzwGf6ZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CQzwGf6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

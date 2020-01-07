@@ -3,7 +3,7 @@ layout: post
 title: 'B07G3NCR2V: Ahorra en Samsung Galaxy Note 9  Single SIM  128 G'
 date: 2019/12/16 16:26:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41t-rkKbp7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41t-rkKbp7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G3NCR2V

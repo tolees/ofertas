@@ -3,7 +3,7 @@ layout: post
 title: 'B001XSBLLK: Rebaja en Reebok Classic Leather  Zapatillas de Ru en Amazon'
 date: 2020-01-07 09:24:13
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31pR9E0oudL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pR9E0oudL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B001XSBLLK

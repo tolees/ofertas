@@ -3,7 +3,7 @@ layout: post
 title: 'B07NYTKD5T: Ahorra en Skechers Elite Flex-Belburn  Zapatillas '
 date: 2019/12/28 11:55:01 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41AyU-eX1xL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AyU-eX1xL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NYTKD5T

@@ -3,7 +3,7 @@ layout: post
 title: 'B00EALB1E4: Ahorra en Bausch & Lomb - Biotrue One Day Esférica'
 date: 2020-01-01 19:18:15
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00EALB1E4

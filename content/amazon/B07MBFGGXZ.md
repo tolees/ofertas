@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MBFGGXZ - Ofertón en Amazon para INTEY Faja Reductora Adelgazante Neopren'
 date: 2020-01-02 17:21:08
-image: https://images-eu.ssl-images-amazon.com/images/I/41PPUgbkr-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPUgbkr-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00MHFHTY6: Ahorra en Krups Dolce Gusto Oblo KP1105 - Cafetera'
 date: 2020-01-05 09:14:11
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Se-vNYLnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Se-vNYLnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MHFHTY6

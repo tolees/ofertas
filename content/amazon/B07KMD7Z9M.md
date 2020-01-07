@@ -3,7 +3,7 @@ layout: post
 title: 'B07KMD7Z9M: Rebaja en Vigilabebés Inalambrico Bebé Monitor con en Amazon'
 date: 2019/12/26 05:03:18 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/417XGP4H%2BjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417XGP4H%2BjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KMD7Z9M

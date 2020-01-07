@@ -3,7 +3,7 @@ layout: post
 title: 'B07KPRQ7P3: Rebaja en REPLAY Dominiqli Vaqueros Corte de Bota  en Amazon'
 date: 2019/12/17 00:21:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31diSQqdcOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31diSQqdcOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KPRQ7P3

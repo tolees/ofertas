@@ -3,7 +3,7 @@ layout: post
 title: 'B07JGD4CBM: Rebaja en Puma ftblNXT Pro Shirt Camiseta  Hombre  en Amazon'
 date: 2020-01-05 16:54:13
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419TPAVR6EL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419TPAVR6EL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JGD4CBM

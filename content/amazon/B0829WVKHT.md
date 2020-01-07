@@ -3,7 +3,7 @@ layout: post
 title: 'B0829WVKHT: Ahorra en GODNECE Technic Container Truck  902Pcs '
 date: 2020-01-07 06:21:50
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41f9BZex9ZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f9BZex9ZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0829WVKHT

@@ -2,7 +2,7 @@
 layout: post
 title: 'B0006ZPKTU - Ofertón en Amazon para Invicta 0073 Pro Diver - Scuba Reloj par'
 date: 2019/12/27 16:22:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51XBcCarNuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51XBcCarNuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

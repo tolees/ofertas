@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QVJQXJN - Ofertón en Amazon para AUNEK Airpods Silicone Cases  9 in 1 Air'
 date: 2020-01-07 10:13:34
-image: https://images-eu.ssl-images-amazon.com/images/I/414FL7MIzwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414FL7MIzwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

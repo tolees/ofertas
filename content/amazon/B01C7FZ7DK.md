@@ -3,7 +3,7 @@ layout: post
 title: 'B01C7FZ7DK: Rebaja en Olay Total Effects 7en1 Hidratante Anti- en Amazon'
 date: 2020-01-05 12:18:12
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41rYDH-oldL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rYDH-oldL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01C7FZ7DK

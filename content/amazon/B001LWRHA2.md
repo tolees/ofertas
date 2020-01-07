@@ -3,7 +3,7 @@ layout: post
 title: 'B001LWRHA2: Rebaja en Hagen Catit Design Senses Massage Centre en Amazon'
 date: 2019/12/25 21:05:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41lirWYsDJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lirWYsDJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B001LWRHA2

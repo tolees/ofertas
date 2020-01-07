@@ -3,7 +3,7 @@ layout: post
 title: 'B07QW1DCYR: Ahorra en Puma Cali Fluo Pack W Calzado puma White'
 date: 2019/12/16 12:50:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31xcrMb5wxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31xcrMb5wxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QW1DCYR

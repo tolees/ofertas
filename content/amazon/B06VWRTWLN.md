@@ -3,7 +3,7 @@ layout: post
 title: 'B06VWRTWLN: Ahorra en Lock S Quest'
 date: 2020-01-04 13:22:35
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61iiCGh7JkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61iiCGh7JkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06VWRTWLN

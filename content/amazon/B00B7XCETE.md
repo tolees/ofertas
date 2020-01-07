@@ -3,7 +3,7 @@ layout: post
 title: 'B00B7XCETE: Rebaja en The North Face Sudadera Drew Peak  Hombr en Amazon'
 date: 2019/12/17 11:10:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LWGHKtN9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00B7XCETE

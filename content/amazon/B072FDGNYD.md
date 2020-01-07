@@ -2,7 +2,7 @@
 layout: post
 title: 'B072FDGNYD - Ofertón en Amazon para Puma Suede Heart Safari  Zapatillas para'
 date: 2019/12/11 18:30:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41YIaoAsHQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YIaoAsHQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

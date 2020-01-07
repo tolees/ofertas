@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q4PCBL4: Ahorra en Amzdeal Alcachofa de ducha Cabezal de Du'
 date: 2020-01-01 08:51:04
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41fMn6XMOpL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fMn6XMOpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q4PCBL4

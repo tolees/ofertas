@@ -3,7 +3,7 @@ layout: post
 title: 'B079MMDF5V: Rebaja en PLAYMOBIL Magic 9473 Schneetroll mit Sch en Amazon'
 date: 2020-01-01 23:10:22
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51AYzCF1umL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AYzCF1umL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079MMDF5V

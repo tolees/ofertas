@@ -2,7 +2,7 @@
 layout: post
 title: 'B07D4ZP9NW - Ofertón en Amazon para Rage 2'
 date: 2019/12/26 11:33:05 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/619keLHZtML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/619keLHZtML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

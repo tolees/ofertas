@@ -3,7 +3,7 @@ layout: post
 title: 'B07D76ZBGC: Rebaja en Levi s Mile High Super Skinny Vaqueros   en Amazon'
 date: 2019/12/11 12:18:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D76ZBGC

@@ -3,7 +3,7 @@ layout: post
 title: 'B078MXCZ2F: Ahorra en StillCool DIY bebé Handprint y Marco de '
 date: 2019/12/18 11:28:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2B-dJX3GhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-dJX3GhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078MXCZ2F

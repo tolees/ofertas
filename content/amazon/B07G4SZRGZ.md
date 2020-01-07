@@ -2,7 +2,7 @@
 layout: post
 title: 'B07G4SZRGZ - Ofertón en Amazon para Hugo Boss Reloj Cronógrafo para Hombre d'
 date: 2019/12/15 22:08:43 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41OA9GzJlyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OA9GzJlyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

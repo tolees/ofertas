@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PLDK73K - Ofertón en Amazon para BLEND 20708633 Chaqueta  Verde  Olive Ni'
 date: 2020-01-02 20:03:24
-image: https://images-eu.ssl-images-amazon.com/images/I/41UxnfAKqtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UxnfAKqtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

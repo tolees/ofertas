@@ -2,7 +2,7 @@
 layout: post
 title: 'B005OVT0RY - Ofertón en Amazon para BERING Reloj Analógico para Hombre de Cu'
 date: 2019/12/16 13:05:28 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

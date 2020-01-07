@@ -3,7 +3,7 @@ layout: post
 title: 'B07K74HNHW: Rebaja en Asics Patriot 10  Zapatillas de Running  en Amazon'
 date: 2019/12/24 18:28:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K74HNHW

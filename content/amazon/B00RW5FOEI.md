@@ -2,7 +2,7 @@
 layout: post
 title: 'B00RW5FOEI - Ofertón en Amazon para Reef Twinpin  Sandalias con Correa de To'
 date: 2020-01-05 17:48:18
-image: https://images-eu.ssl-images-amazon.com/images/I/41GTGqWjt8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GTGqWjt8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

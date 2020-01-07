@@ -3,7 +3,7 @@ layout: post
 title: 'B01J1QFAQW: Rebaja en Intex 64132 - Colchón hinchable Dura-Bea en Amazon'
 date: 2019/12/18 18:39:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31VZYtizDiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VZYtizDiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01J1QFAQW

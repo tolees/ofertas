@@ -3,7 +3,7 @@ layout: post
 title: 'B07S48TRGF: Ahorra en GLEADING Correa Retráctil para Usar Mano'
 date: 2019/12/30 14:45:06 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ocm-%2BhmuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ocm-%2BhmuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S48TRGF

@@ -3,7 +3,7 @@ layout: post
 title: 'B07XRWRMWZ: Rebaja en Puzzles Rompecabezas de Madera Magnética en Amazon'
 date: 2019/12/11 15:43:52 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51mSczKRD9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mSczKRD9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XRWRMWZ

@@ -3,7 +3,7 @@ layout: post
 title: 'B07BF9B2LS: Ahorra en Rochas  Agua de colonia para mujeres - 5'
 date: 2019/12/13 19:15:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31VCWSE0AdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VCWSE0AdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BF9B2LS

@@ -3,7 +3,7 @@ layout: post
 title: 'B07KJZN34H: Ahorra en Under Armour Under Armour Crossbody 1327'
 date: 2019/12/20 12:33:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Cl8Q5whDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cl8Q5whDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KJZN34H

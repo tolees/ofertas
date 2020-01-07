@@ -3,7 +3,7 @@ layout: post
 title: 'B01FWRFQN6: Rebaja en Sternitz Botella de Agua Hydra Acero Ino en Amazon'
 date: 2019/12/18 08:47:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41oViV-%2BtRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oViV-%2BtRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01FWRFQN6

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WMVJRX8 - Ofertón en Amazon para BANLVS Smartwatch Niños  2019 Nuevo Relo'
 date: 2019/12/30 17:14:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51e8WTOoglL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e8WTOoglL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

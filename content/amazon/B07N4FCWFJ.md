@@ -2,7 +2,7 @@
 layout: post
 title: 'B07N4FCWFJ - Ofertón en Amazon para Superga 2750 COTU Classic  Zapatillas Un'
 date: 2019/12/19 08:35:12 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41fJwsmQWaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fJwsmQWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

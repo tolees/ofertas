@@ -3,7 +3,7 @@ layout: post
 title: 'B07B7GYGJJ: Rebaja en J.Rosée Collares Mujer Colgante Plata de en Amazon'
 date: 2019/12/21 18:33:51 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41DR5aP5w0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DR5aP5w0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B7GYGJJ

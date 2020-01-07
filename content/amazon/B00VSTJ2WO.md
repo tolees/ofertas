@@ -2,7 +2,7 @@
 layout: post
 title: 'B00VSTJ2WO - Ofertón en Amazon para Philips Audio SHB3075BK/00 On-Ear Kopfhö'
 date: 2020-01-03 06:19:11
-image: https://images-eu.ssl-images-amazon.com/images/I/41obCBLFOIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41obCBLFOIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

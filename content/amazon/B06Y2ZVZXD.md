@@ -3,7 +3,7 @@ layout: post
 title: 'B06Y2ZVZXD: Ahorra en Joma Olimpia Pantalones Cortos  Hombre  '
 date: 2019/12/14 09:26:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41BFZ0xrrBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BFZ0xrrBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06Y2ZVZXD

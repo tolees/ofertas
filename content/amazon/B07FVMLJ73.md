@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FVMLJ73 - Ofertón en Amazon para GOXAWEE Mini Amoladora Eléctrica Multihe'
 date: 2019/12/29 11:22:41 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51-KUQyQMyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-KUQyQMyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

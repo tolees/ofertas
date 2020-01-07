@@ -2,7 +2,7 @@
 layout: post
 title: 'B00AF9JDIQ - Ofertón en Amazon para James Bond White Tux Octopussy  James Bo'
 date: 2019/12/24 16:25:07 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41GmcbyzXXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GmcbyzXXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

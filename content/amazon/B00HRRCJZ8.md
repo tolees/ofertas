@@ -3,7 +3,7 @@ layout: post
 title: 'B00HRRCJZ8: Ahorra en Sylvanian Families 5021 - Refrigerator S'
 date: 2020-01-01 14:34:30
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41nWv%2BoEboL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nWv%2BoEboL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HRRCJZ8

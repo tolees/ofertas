@@ -3,7 +3,7 @@ layout: post
 title: 'B07Z7WQD2M: Rebaja en Álvarez Gómez - Flores Mediterráneas Ver en Amazon'
 date: 2020-01-01 22:05:40
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41f%2B7zil8uL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2B7zil8uL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Z7WQD2M

@@ -3,7 +3,7 @@ layout: post
 title: 'B07P74TKHL: Rebaja en Probióticos y Prebióticos Intestinales   en Amazon'
 date: 2019/12/17 09:22:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51YMMlFCIcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YMMlFCIcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P74TKHL

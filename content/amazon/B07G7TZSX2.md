@@ -2,7 +2,7 @@
 layout: post
 title: 'B07G7TZSX2 - Ofertón en Amazon para Wilbest Billetera Hombre  Cartera Hombre'
 date: 2019/12/27 18:11:09 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/419SFzohovL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419SFzohovL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07V5CJTWS: Rebaja en Titular de pasaporte minimalista xperg   en Amazon'
 date: 2020-01-01 19:02:08
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/314ihukAdCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314ihukAdCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07V5CJTWS

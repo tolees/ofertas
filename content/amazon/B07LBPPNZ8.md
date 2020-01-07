@@ -2,7 +2,7 @@
 layout: post
 title: 'B07LBPPNZ8 - Ofertón en Amazon para Adidas Drive 1.9 Palas  Adultos Unisex  '
 date: 2020-01-06 16:57:34
-image: https://images-eu.ssl-images-amazon.com/images/I/412msYxX6ZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412msYxX6ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

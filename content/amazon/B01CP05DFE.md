@@ -3,7 +3,7 @@ layout: post
 title: 'B01CP05DFE: Rebaja en Eshow Bolso Bandolera a Hombro para Muje en Amazon'
 date: 2019/12/30 21:01:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/511kgoafOSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511kgoafOSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CP05DFE

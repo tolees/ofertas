@@ -2,7 +2,7 @@
 layout: post
 title: 'B06WW7PT1D - Ofertón en Amazon para Goonies / Gremlins / Gremlins 2 [Edizion'
 date: 2020-01-03 20:03:30
-image: https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

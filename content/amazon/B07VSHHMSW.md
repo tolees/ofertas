@@ -2,7 +2,7 @@
 layout: post
 title: 'B07VSHHMSW - Ofertón en Amazon para Amilril Collar  Colgante Luna y Gato  Pl'
 date: 2020-01-06 10:03:57
-image: https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KG17PGQ - Ofertón en Amazon para PUMA Future 4.4 FG/AG Jr  Botas de fútbo'
 date: 2019/12/14 12:24:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51f2JOrfQhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f2JOrfQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

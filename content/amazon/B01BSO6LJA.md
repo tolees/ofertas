@@ -3,7 +3,7 @@ layout: post
 title: 'B01BSO6LJA: Ahorra en Philips Sonicare CleanCare HX3212/03 - C'
 date: 2019/12/30 19:24:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/415mbbX9SJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415mbbX9SJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BSO6LJA

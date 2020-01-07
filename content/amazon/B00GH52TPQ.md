@@ -3,7 +3,7 @@ layout: post
 title: 'B00GH52TPQ: Rebaja en Nespresso Krups Inissia XN1005 - Cafeter en Amazon'
 date: 2020-01-01 16:41:35
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41dlAIPT26L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dlAIPT26L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00GH52TPQ

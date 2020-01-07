@@ -3,7 +3,7 @@ layout: post
 title: 'B07PDZG1QV: Rebaja en iRobot Roomba i7156 Robot Aspirador Adap en Amazon'
 date: 2020-01-05 17:42:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/416DpmWlVxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416DpmWlVxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PDZG1QV

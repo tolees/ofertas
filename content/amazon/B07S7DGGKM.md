@@ -3,7 +3,7 @@ layout: post
 title: 'B07S7DGGKM: Rebaja en Oral-B Genius X 20000N - Cepillo de Dien en Amazon'
 date: 2020-01-02 10:14:38
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ttW65turL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ttW65turL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S7DGGKM

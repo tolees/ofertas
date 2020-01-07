@@ -3,7 +3,7 @@ layout: post
 title: 'B07R7XNRQ4: Ahorra en Columbia 1420421 Chaqueta polar para hom'
 date: 2019/12/14 21:06:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Yy3nHderL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yy3nHderL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R7XNRQ4

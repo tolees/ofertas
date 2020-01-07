@@ -3,7 +3,7 @@ layout: post
 title: 'B07QSJHXQ3: Ahorra en Nike Downshifter 9  PSV   Zapatillas de '
 date: 2020-01-04 21:29:33
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GCUI2Hl7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GCUI2Hl7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QSJHXQ3

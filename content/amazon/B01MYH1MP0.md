@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MYH1MP0 - Ofertón en Amazon para Festina Reloj Análogo clásico para Mujer'
 date: 2019/12/20 02:30:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31SZisyxtnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SZisyxtnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

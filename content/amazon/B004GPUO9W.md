@@ -2,7 +2,7 @@
 layout: post
 title: 'B004GPUO9W - Ofertón en Amazon para Cisco SG200-26P Smart Switch 24 Gigabit '
 date: 2019/12/11 15:23:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/112kh2BPwtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/112kh2BPwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01MTYXKFM: Rebaja en find. Lace Up Capucha Para Mujer  Negro  en Amazon'
 date: 2019/12/20 08:33:46 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/415qc%2BeDJxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415qc%2BeDJxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MTYXKFM

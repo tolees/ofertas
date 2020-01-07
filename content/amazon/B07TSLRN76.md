@@ -3,7 +3,7 @@ layout: post
 title: 'B07TSLRN76: Rebaja en PUTUO Chaqueta Vaquera Niña Chaqueta de  en Amazon'
 date: 2019/12/27 17:50:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41zX4CM8k4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zX4CM8k4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TSLRN76

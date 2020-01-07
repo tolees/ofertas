@@ -3,7 +3,7 @@ layout: post
 title: 'B07WMMG2TG: Rebaja en Crucial Ballistix Tactical Tracer BLT2K8 en Amazon'
 date: 2019/12/15 23:22:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41655fYf-7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41655fYf-7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WMMG2TG

@@ -3,7 +3,7 @@ layout: post
 title: 'B07RYMHKHC: Ahorra en San Ignacio Q3063 Set 3Pcs Sartenes Venu'
 date: 2019/12/29 13:41:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419iGs5OdtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419iGs5OdtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RYMHKHC

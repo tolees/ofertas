@@ -3,7 +3,7 @@ layout: post
 title: 'B078KWXRYP: Ahorra en adidas Originals X_PLR  Zapatillas para '
 date: 2020-01-04 20:50:30
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078KWXRYP

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MKL65JN - Ofertón en Amazon para TK.DILIGARM Look At You Becoming A Medic'
 date: 2020-01-06 22:27:56
-image: https://images-eu.ssl-images-amazon.com/images/I/41gJEBZKS%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gJEBZKS%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

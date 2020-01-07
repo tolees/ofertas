@@ -2,7 +2,7 @@
 layout: post
 title: 'B07M5F8LRG - Ofertón en Amazon para Baby Jogger City Tour LUX DUO Cochecito '
 date: 2020-01-01 23:49:41
-image: https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

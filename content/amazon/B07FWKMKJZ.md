@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FWKMKJZ - Ofertón en Amazon para Mattel Disney Toy Story 4 Pack de 10 ami'
 date: 2019/12/28 08:16:00 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/516Xg8cDtML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516Xg8cDtML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

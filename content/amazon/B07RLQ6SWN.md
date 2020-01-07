@@ -2,7 +2,7 @@
 layout: post
 title: 'B07RLQ6SWN - Ofertón en Amazon para J.Rosee Collares Mujer Colgante Plata de'
 date: 2020-01-04 09:36:54
-image: https://images-eu.ssl-images-amazon.com/images/I/412RJ9ecsTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412RJ9ecsTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

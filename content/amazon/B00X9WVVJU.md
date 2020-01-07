@@ -2,7 +2,7 @@
 layout: post
 title: 'B00X9WVVJU - Ofertón en Amazon para L Oreal París - Barra de Labios Color Ri'
 date: 2019/12/24 01:31:19 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31t9TOMQaUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31t9TOMQaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

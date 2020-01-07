@@ -3,7 +3,7 @@ layout: post
 title: 'B07R33QNQQ: Rebaja en 4m/13ft CAT8 Ethernet Cable Veetop 40Gbp en Amazon'
 date: 2019-12-31 21:32:19
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41kUD00nGrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kUD00nGrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R33QNQQ

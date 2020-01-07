@@ -3,7 +3,7 @@ layout: post
 title: 'B01B6YYO7I: Rebaja en Puma Suede Classic Mono Ref Iced Calzado en Amazon'
 date: 2019-12-31 16:47:49
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41aN9qSGSNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aN9qSGSNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01B6YYO7I

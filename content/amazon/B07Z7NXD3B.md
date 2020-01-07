@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Z7NXD3B - Ofertón en Amazon para Mini proyector  ELEPHAS Video Proyector '
 date: 2019/12/23 18:03:05 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/417wBzszXAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417wBzszXAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

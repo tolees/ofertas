@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DFGTG9J - Ofertón en Amazon para Funko 33515 POP Bobble Marvel Studios 10'
 date: 2020-01-07 14:18:43
-image: https://images-eu.ssl-images-amazon.com/images/I/519HKjnNooL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519HKjnNooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

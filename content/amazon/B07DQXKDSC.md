@@ -3,7 +3,7 @@ layout: post
 title: 'B07DQXKDSC: Ahorra en Volcom Crisp Stone BSC SS Camiseta  Homb'
 date: 2019/12/17 23:46:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41UilUK9tmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UilUK9tmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DQXKDSC

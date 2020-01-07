@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Z6GXKFV - Ofertón en Amazon para blumfeldt Loomy L Kugelleuchte mit LED-B'
 date: 2019/12/22 00:49:00 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31ePROaAVXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ePROaAVXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

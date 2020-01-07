@@ -2,7 +2,7 @@
 layout: post
 title: 'B07RH2ZCMC - Ofertón en Amazon para G-STAR RAW Graphic 13 Sudadera  Gris  Lt'
 date: 2020-01-06 20:05:07
-image: https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaDUPNTzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

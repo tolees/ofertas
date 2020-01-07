@@ -2,7 +2,7 @@
 layout: post
 title: 'B002NPY4JS - Ofertón en Amazon para LUPO USB 2.0 XD Memory Card Reader For F'
 date: 2020-01-04 12:56:36
-image: https://images-eu.ssl-images-amazon.com/images/I/41ylU-o9YOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ylU-o9YOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

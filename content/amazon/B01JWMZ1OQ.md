@@ -3,7 +3,7 @@ layout: post
 title: 'B01JWMZ1OQ: Rebaja en Prada L Homme Agua de Tocador - 50 ml en Amazon'
 date: 2019/12/12 17:05:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41e9RZ3QSiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e9RZ3QSiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01JWMZ1OQ

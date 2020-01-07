@@ -3,7 +3,7 @@ layout: post
 title: 'B07BBPQQ28: Rebaja en denicer Pedicure Foot File Professional  en Amazon'
 date: 2019/12/24 15:06:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41bVKWr3EwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bVKWr3EwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BBPQQ28

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Y6MHXBP - Ofertón en Amazon para Proze - Carcasa Delgada de Silicona para'
 date: 2019/12/24 14:46:59 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41-ugk8sRsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-ugk8sRsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

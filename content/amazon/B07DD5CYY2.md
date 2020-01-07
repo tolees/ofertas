@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DD5CYY2 - Ofertón en Amazon para Cefa Toys- Equipo Profesional de Médico '
 date: 2019/12/30 18:21:36 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51-sUQ5EgHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-sUQ5EgHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

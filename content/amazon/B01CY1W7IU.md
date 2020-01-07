@@ -2,7 +2,7 @@
 layout: post
 title: 'B01CY1W7IU - Ofertón en Amazon para HUION Inalámbrico Tableta Gráfica  WH140'
 date: 2020-01-01 06:18:59
-image: https://images-eu.ssl-images-amazon.com/images/I/31vU9Mtb6hL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vU9Mtb6hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

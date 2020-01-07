@@ -3,7 +3,7 @@ layout: post
 title: 'B06XPFDMX9: Rebaja en find. Vaqueros Ajustados para Hombre  Az en Amazon'
 date: 2019/12/24 22:56:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XPFDMX9

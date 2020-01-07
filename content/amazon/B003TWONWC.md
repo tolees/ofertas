@@ -2,7 +2,7 @@
 layout: post
 title: 'B003TWONWC - Ofertón en Amazon para Bosch Professional 2 607 019 927 Bosch 9'
 date: 2019/12/11 17:51:25 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41PesUJYM2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PesUJYM2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

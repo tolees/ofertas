@@ -3,7 +3,7 @@ layout: post
 title: 'B079MM5TMQ: Ahorra en PLAYMOBIL City Life 9454 Turnhalle  Ab 5'
 date: 2019/12/22 01:08:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51G3x9bJOTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51G3x9bJOTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079MM5TMQ

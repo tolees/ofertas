@@ -3,7 +3,7 @@ layout: post
 title: 'B07JLS3T7P: Rebaja en Playmobil 70171 Ghostbusters Collector s en Amazon'
 date: 2019/12/11 22:28:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/518ZA5UWX6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518ZA5UWX6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JLS3T7P

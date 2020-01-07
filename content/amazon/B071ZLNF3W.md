@@ -3,7 +3,7 @@ layout: post
 title: 'B071ZLNF3W: Ahorra en Motorola Moto E4 - Smartphone Libre de 5'
 date: 2020-01-05 06:14:22
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31W5424OMiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31W5424OMiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071ZLNF3W

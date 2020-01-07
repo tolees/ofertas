@@ -2,7 +2,7 @@
 layout: post
 title: 'B003OVVNJ4 - Ofertón en Amazon para Blecua - Vino D.O. Somontano - 750 ml'
 date: 2019/12/18 08:09:57 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31ixaHy%2BHnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ixaHy%2BHnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

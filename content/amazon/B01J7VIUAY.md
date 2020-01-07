@@ -3,7 +3,7 @@ layout: post
 title: 'B01J7VIUAY: Rebaja en X-Men: Saga Completa Blu-Ray [Blu-ray] en Amazon'
 date: 2020-01-06 15:32:04
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01J7VIUAY

@@ -3,7 +3,7 @@ layout: post
 title: 'B071LLZKG7: Rebaja en Sphero R2-D2 App-Enabled Droid de Sphero en Amazon'
 date: 2019/12/29 22:01:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51PCqzoAdlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PCqzoAdlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071LLZKG7

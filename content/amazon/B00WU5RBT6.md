@@ -3,7 +3,7 @@ layout: post
 title: 'B00WU5RBT6: Ahorra en Levi s Graphic Set-In Neck  Camiseta par'
 date: 2019/12/17 13:44:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00WU5RBT6

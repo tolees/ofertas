@@ -3,7 +3,7 @@ layout: post
 title: 'B07DGNCBY5: Rebaja en Oral-B Smart 5 5000N CrossAction - Cepil en Amazon'
 date: 2019/12/22 19:50:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51f%2B-tYIf4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f%2B-tYIf4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DGNCBY5

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07G4C7ZPF - Ofertón en Amazon para JACK & JONES Jjepanther Sweat Hood Noos '
 date: 2019/12/20 21:04:32 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/516TtDtLwDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516TtDtLwDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

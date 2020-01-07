@@ -2,7 +2,7 @@
 layout: post
 title: 'B07SN4DYXP - Ofertón en Amazon para Umi. Essentials - Auriculares de botón i'
 date: 2020-01-05 17:49:09
-image: https://images-eu.ssl-images-amazon.com/images/I/41ciUHQchSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ciUHQchSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

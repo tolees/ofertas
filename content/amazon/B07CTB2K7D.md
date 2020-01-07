@@ -3,7 +3,7 @@ layout: post
 title: 'B07CTB2K7D: Ahorra en Skechers Bobs Squad Total Glam 32502  Za'
 date: 2019/12/30 18:33:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31SYXd-5VxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31SYXd-5VxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CTB2K7D

@@ -2,7 +2,7 @@
 layout: post
 title: 'B00VLV0LKG - Ofertón en Amazon para Playmobil 6659 - Röntgenraum'
 date: 2019/12/13 04:55:35 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/61C2Y7r3fbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61C2Y7r3fbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

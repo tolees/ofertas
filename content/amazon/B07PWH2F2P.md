@@ -3,7 +3,7 @@ layout: post
 title: 'B07PWH2F2P: Rebaja en Huawei P30 Pro - Smartphone de 6.47"  Ki en Amazon'
 date: 2019-12-31 17:57:12
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31XZtVz8reL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31XZtVz8reL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PWH2F2P

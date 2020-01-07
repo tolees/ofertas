@@ -3,7 +3,7 @@ layout: post
 title: 'B07NZPGQ7M: Rebaja en BRIKSMAX Led Beleuchtungsset für Star Wa en Amazon'
 date: 2020-01-05 22:50:27
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NZPGQ7M

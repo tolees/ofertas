@@ -2,7 +2,7 @@
 layout: post
 title: 'B016UBXH3O - Ofertón en Amazon para UGREEN Adaptador de USB 3.0 a SATA III c'
 date: 2019/12/15 23:22:37 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41dRJf-uavL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dRJf-uavL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

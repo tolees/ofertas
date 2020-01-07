@@ -3,7 +3,7 @@ layout: post
 title: 'B06XFT9THZ: Ahorra en find. Camisa Entallada de Algodón de Man'
 date: 2019/12/15 13:09:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Bi1-hPqGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bi1-hPqGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XFT9THZ

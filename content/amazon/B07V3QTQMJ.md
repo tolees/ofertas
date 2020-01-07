@@ -3,7 +3,7 @@ layout: post
 title: 'B07V3QTQMJ: Rebaja en gracosy Botas Nieve Mujer de Piel Invier en Amazon'
 date: 2020-01-01 17:05:27
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51mkdFbwYrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mkdFbwYrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07V3QTQMJ

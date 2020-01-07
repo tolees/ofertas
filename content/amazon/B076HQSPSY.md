@@ -3,7 +3,7 @@ layout: post
 title: 'B076HQSPSY: Ahorra en adidas Core18 Hoody Y Sweatshirt  Unisex'
 date: 2019/12/25 15:09:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41dWhXCn2hL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dWhXCn2hL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076HQSPSY

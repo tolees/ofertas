@@ -3,7 +3,7 @@ layout: post
 title: 'B07R7XMPZD: Ahorra en Columbia Klamath Range II Forro Polar co'
 date: 2019/12/26 12:04:18 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41QIJC07YcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QIJC07YcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R7XMPZD

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MQVG2RG - Ofertón en Amazon para Napapijri BAUNT FZH Sudadera  Negro  Bla'
 date: 2019/12/16 14:34:35 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41li3zV7hJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41li3zV7hJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B073WCLTQX - Ofertón en Amazon para Trespass MASONVILLE -Male Microfleece AT'
 date: 2019/12/13 15:05:20 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41sskAldy-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sskAldy-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

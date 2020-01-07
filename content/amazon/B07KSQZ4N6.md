@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KSQZ4N6 - Ofertón en Amazon para Columbia Inner Limits Chaqueta para Lluv'
 date: 2019/12/22 14:47:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

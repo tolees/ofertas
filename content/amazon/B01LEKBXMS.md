@@ -3,7 +3,7 @@ layout: post
 title: 'B01LEKBXMS: Rebaja en Rimmel London  Lápiz de ojos - 1 Unidad en Amazon'
 date: 2019/12/13 04:04:51 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41vPzoQmmGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vPzoQmmGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LEKBXMS

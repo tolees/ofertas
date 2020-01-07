@@ -3,7 +3,7 @@ layout: post
 title: 'B07N9FFYJD: Rebaja en Timex Reloj de Pulsera TW2R71200 en Amazon'
 date: 2019/12/14 21:55:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41G4UhkmWhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G4UhkmWhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N9FFYJD

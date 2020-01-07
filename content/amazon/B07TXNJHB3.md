@@ -3,7 +3,7 @@ layout: post
 title: 'B07TXNJHB3: Rebaja en NEWSTYLE Set Para El Cuidado Del Bebé 12 en Amazon'
 date: 2019/12/29 19:01:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41EiQhswQrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EiQhswQrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TXNJHB3

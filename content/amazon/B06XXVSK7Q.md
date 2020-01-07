@@ -3,7 +3,7 @@ layout: post
 title: 'B06XXVSK7Q: Rebaja en USB C a HDMI Cable 3m  USB 3.1 Tipo C a  en Amazon'
 date: 2020-01-05 12:40:11
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/410TvNixdkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410TvNixdkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XXVSK7Q

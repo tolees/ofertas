@@ -3,7 +3,7 @@ layout: post
 title: 'B07HZFYDZM: Ahorra en Philips Avent SCD806/03 - Set de recién '
 date: 2020-01-05 10:34:24
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/318kOuOtZFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318kOuOtZFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HZFYDZM

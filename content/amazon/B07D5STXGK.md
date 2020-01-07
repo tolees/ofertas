@@ -3,7 +3,7 @@ layout: post
 title: 'B07D5STXGK: Rebaja en PUMA ESS Logo tee Camiseta  Mujer  Gris  en Amazon'
 date: 2019/12/21 13:44:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/414co5%2B5suL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414co5%2B5suL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D5STXGK

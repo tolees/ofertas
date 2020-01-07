@@ -2,7 +2,7 @@
 layout: post
 title: 'B07LFPKP38 - Ofertón en Amazon para Riot: Civil Unrest - Signature Edition'
 date: 2020-01-02 19:10:39
-image: https://images-eu.ssl-images-amazon.com/images/I/51hBccUClpL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hBccUClpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

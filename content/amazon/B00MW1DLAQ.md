@@ -3,7 +3,7 @@ layout: post
 title: 'B00MW1DLAQ: Ahorra en Rexxor 239-6066-99 - Reloj de cuarzo par'
 date: 2020-01-03 23:42:29
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Zv-kVmqAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Zv-kVmqAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MW1DLAQ

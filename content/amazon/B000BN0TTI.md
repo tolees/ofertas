@@ -3,7 +3,7 @@ layout: post
 title: 'B000BN0TTI: Ahorra en HP Q7582A - Cartucho de tóner'
 date: 2019/12/11 05:22:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418hhPQgePL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418hhPQgePL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000BN0TTI

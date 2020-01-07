@@ -3,7 +3,7 @@ layout: post
 title: 'B07GXSWQCS: Ahorra en Salomon Pulse Belt Riñonera de hidrataci'
 date: 2019/12/13 09:58:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41QvM414W6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QvM414W6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GXSWQCS

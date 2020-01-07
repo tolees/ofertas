@@ -3,7 +3,7 @@ layout: post
 title: 'B01H1KWEQY: Rebaja en Michael Kors Reloj para Mujer de MK6176 en Amazon'
 date: 2019/12/26 20:17:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411bzfGzE8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411bzfGzE8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01H1KWEQY

@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q8JRXPD: Ahorra en Auriculares Bluetooth  Syllable S101 Aur'
 date: 2019/12/16 03:46:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411ieLc0q1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ieLc0q1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q8JRXPD

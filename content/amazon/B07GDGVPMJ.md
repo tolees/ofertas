@@ -3,7 +3,7 @@ layout: post
 title: 'B07GDGVPMJ: Ahorra en adidas All Me 3-Stripes Sujetador Deport'
 date: 2020-01-06 09:16:47
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41EcAhnpS8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EcAhnpS8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GDGVPMJ

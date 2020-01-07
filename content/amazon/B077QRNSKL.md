@@ -3,7 +3,7 @@ layout: post
 title: 'B077QRNSKL: Ahorra en Festina Reloj Análogo clásico para Mujer'
 date: 2019/12/12 00:08:21 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31EI9baI6QL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EI9baI6QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077QRNSKL

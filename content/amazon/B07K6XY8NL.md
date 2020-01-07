@@ -3,7 +3,7 @@ layout: post
 title: 'B07K6XY8NL: Rebaja en Levi s 312 Shaping Slim Vaqueros  Azul   en Amazon'
 date: 2019/12/30 11:07:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AVM-6qYKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K6XY8NL

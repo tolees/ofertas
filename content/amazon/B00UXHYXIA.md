@@ -2,7 +2,7 @@
 layout: post
 title: 'B00UXHYXIA - Ofertón en Amazon para LEGO Jurassic World [Importación Italian'
 date: 2019/12/25 09:16:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51S15YH30nL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51S15YH30nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

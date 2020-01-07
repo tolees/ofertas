@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q4NQP7V: Rebaja en Amilril Pendientes Perlas Mujer  Plata d en Amazon'
 date: 2020-01-06 13:04:56
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41IycuHlBrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IycuHlBrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q4NQP7V

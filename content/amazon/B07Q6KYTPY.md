@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Q6KYTPY - Ofertón en Amazon para Esterilizador Biberones Eléctrico Calien'
 date: 2019/12/28 13:11:39 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31hKWddEhXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hKWddEhXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

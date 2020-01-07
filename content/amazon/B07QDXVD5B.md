@@ -3,7 +3,7 @@ layout: post
 title: 'B07QDXVD5B: Rebaja en 12che LED Light Kit for Lego Speed Champ en Amazon'
 date: 2020-01-05 22:22:39
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41vBNipAT-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vBNipAT-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QDXVD5B

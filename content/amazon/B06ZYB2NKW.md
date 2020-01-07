@@ -3,7 +3,7 @@ layout: post
 title: 'B06ZYB2NKW: Rebaja en REPLAY MA955 Newbill Jeans Rectos  Gris  en Amazon'
 date: 2019/12/19 01:46:28 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Cef91JD8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cef91JD8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06ZYB2NKW

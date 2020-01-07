@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KQVV4MK - Ofertón en Amazon para L.O.L. Surprise! 59045 Stickerbuch  Mehr'
 date: 2019/12/16 23:35:11 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/514CpD-HF2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514CpD-HF2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

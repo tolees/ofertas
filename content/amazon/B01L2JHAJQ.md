@@ -3,7 +3,7 @@ layout: post
 title: 'B01L2JHAJQ: Ahorra en Lacoste 2000959 Lacoste.12.12 Lady - Rel'
 date: 2019/12/12 06:50:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01L2JHAJQ

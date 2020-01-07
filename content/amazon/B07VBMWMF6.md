@@ -2,7 +2,7 @@
 layout: post
 title: 'B07VBMWMF6 - Ofertón en Amazon para Bee Simulator NSW [Versión Española]'
 date: 2019/12/20 13:07:56 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51qqdbJkpDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qqdbJkpDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

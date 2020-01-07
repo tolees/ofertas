@@ -3,7 +3,7 @@ layout: post
 title: 'B00R4JR1CU: Ahorra en Izas Larvick Chaqueta de montaña  Mujer '
 date: 2019/12/28 22:46:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41EeCypyUvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EeCypyUvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00R4JR1CU

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01IDG8JB4 - Ofertón en Amazon para MINILAND BABY - Humidificador'
 date: 2019/12/13 21:23:50 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31eGb98YPHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31eGb98YPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

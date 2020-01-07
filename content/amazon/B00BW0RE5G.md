@@ -3,7 +3,7 @@ layout: post
 title: 'B00BW0RE5G: Rebaja en POP! Vinilo - BTTF: Marty McFly en Amazon'
 date: 2020-01-06 22:14:36
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/410UX0QB0AL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410UX0QB0AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BW0RE5G

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DJ6NM4M - Ofertón en Amazon para Geox U Terence a  Zapatos de Cordones Br'
 date: 2019/12/11 09:20:41 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31vIx7urTlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vIx7urTlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

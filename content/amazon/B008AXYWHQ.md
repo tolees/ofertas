@@ -3,7 +3,7 @@ layout: post
 title: 'B008AXYWHQ: Ahorra en Fossil Reloj Cronógrafo para Hombre de C'
 date: 2019/12/21 22:31:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/416z0pkVtJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416z0pkVtJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B008AXYWHQ

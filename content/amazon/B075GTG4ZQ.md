@@ -3,7 +3,7 @@ layout: post
 title: 'B075GTG4ZQ: Rebaja en ESPRIT Collection 018eo2i002 suéter  Gri en Amazon'
 date: 2019/12/28 11:10:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41quPD4W5mL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41quPD4W5mL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075GTG4ZQ

@@ -3,7 +3,7 @@ layout: post
 title: 'B00TSAE83I: Rebaja en Scholl Plantillas Gel Activ Uso Diario M en Amazon'
 date: 2019/12/18 08:09:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Xv%2Bll7X6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xv%2Bll7X6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TSAE83I

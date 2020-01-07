@@ -3,7 +3,7 @@ layout: post
 title: 'B07MVJX92J: Ahorra en Napapijri Eils SS Polo  Verde  Green For'
 date: 2020-01-04 22:57:17
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MVJX92J

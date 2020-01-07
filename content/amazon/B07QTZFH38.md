@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QTZFH38 - Ofertón en Amazon para Asics Gel-Nimbus 21  Zapatillas de Runni'
 date: 2020-01-05 18:23:03
-image: https://images-eu.ssl-images-amazon.com/images/I/41MvnIdsslL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MvnIdsslL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

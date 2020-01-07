@@ -3,7 +3,7 @@ layout: post
 title: 'B07N1G3FKZ: Ahorra en Days Gone - Edición Especial'
 date: 2020-01-01 17:36:08
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B07N1G3FKZ

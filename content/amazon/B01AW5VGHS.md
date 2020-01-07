@@ -3,7 +3,7 @@ layout: post
 title: 'B01AW5VGHS: Ahorra en Funko - POP! Vinilo Colección Juego de t'
 date: 2020-01-05 23:10:33
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41NsWm9xeGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NsWm9xeGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AW5VGHS

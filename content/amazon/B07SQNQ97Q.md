@@ -3,7 +3,7 @@ layout: post
 title: 'B07SQNQ97Q: Ahorra en Parfois - Mochila Efecto Piel - Mujeres '
 date: 2020-01-07 08:09:33
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31AtD2knkiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AtD2knkiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SQNQ97Q

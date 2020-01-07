@@ -2,7 +2,7 @@
 layout: post
 title: 'B0759HQHGV - Ofertón en Amazon para Funko Pop!- DC Batwoman Figura de Vinilo'
 date: 2019/12/16 13:52:50 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41qLoFZRpiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qLoFZRpiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

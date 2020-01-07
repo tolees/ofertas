@@ -2,7 +2,7 @@
 layout: post
 title: 'B078GFQCP8 - Ofertón en Amazon para L Oreal Paris Stylista Big Hair Spray - '
 date: 2019/12/24 03:26:27 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31ET28p1D6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ET28p1D6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

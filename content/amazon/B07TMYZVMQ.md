@@ -2,7 +2,7 @@
 layout: post
 title: 'B07TMYZVMQ - Ofertón en Amazon para Cortapelos Nariz y Oreja Recargable 5 en'
 date: 2019-12-31 15:21:38
-image: https://images-eu.ssl-images-amazon.com/images/I/51AtYFtXz%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AtYFtXz%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

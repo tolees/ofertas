@@ -3,7 +3,7 @@ layout: post
 title: 'B07N7TKGTX: Ahorra en FEBER- Triciclo evolutivo Baby Plus Musi'
 date: 2019/12/21 13:08:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41VXzbD7dKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VXzbD7dKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N7TKGTX

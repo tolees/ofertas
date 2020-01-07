@@ -3,7 +3,7 @@ layout: post
 title: 'B075VG8VNW: Rebaja en Exquisite Games - Big Box Call Of Duty W en Amazon'
 date: 2020-01-04 10:41:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/516H5gEdGYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516H5gEdGYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075VG8VNW

@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZR9CBV: Rebaja en Herramientas oscilantes  GALAX PRO 400W  en Amazon'
 date: 2020-01-02 17:44:44
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51YfXAeSh5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YfXAeSh5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TZR9CBV

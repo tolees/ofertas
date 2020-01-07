@@ -2,7 +2,7 @@
 layout: post
 title: 'B07S9XTYSQ - Ofertón en Amazon para GODNECE LED Licht-Set für Baustein  Led '
 date: 2020-01-07 14:36:56
-image: https://images-eu.ssl-images-amazon.com/images/I/41VlzUT7cXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VlzUT7cXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00LVQTCJ2: Rebaja en ROCCAT Tyon Multi-Button 8200dpi Laser R en Amazon'
 date: 2019/12/20 14:20:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31lwTMDlsPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lwTMDlsPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00LVQTCJ2

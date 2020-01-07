@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBLW3K9: Rebaja en Kappa Dolomo  Botas Clasicas para Hombre en Amazon'
 date: 2019-12-31 19:07:45
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LBLW3K9

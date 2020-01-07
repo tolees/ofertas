@@ -3,7 +3,7 @@ layout: post
 title: 'B073TW9VCV: Rebaja en Nachttischlampe mit Bluetooth Lautsprech en Amazon'
 date: 2020-01-05 06:09:29
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41dWMOOoOyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dWMOOoOyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073TW9VCV

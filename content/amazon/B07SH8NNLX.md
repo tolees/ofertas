@@ -3,7 +3,7 @@ layout: post
 title: 'B07SH8NNLX: Rebaja en IKOHS Retro Fridge - Frigorífico con dis en Amazon'
 date: 2019/12/30 13:51:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SH8NNLX

@@ -3,7 +3,7 @@ layout: post
 title: 'B00M35VXEW: Ahorra en NUK First Choice Plus 10225106 Boy Juego'
 date: 2019/12/27 14:36:35 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Bco6Xwh-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bco6Xwh-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00M35VXEW

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFRY1YJ: Rebaja en Ecco Lisbon  Zapatos de Cordones Oxford  en Amazon'
 date: 2019/12/15 11:42:51 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41oMHZw0lGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oMHZw0lGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFRY1YJ

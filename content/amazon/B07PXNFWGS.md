@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PXNFWGS - Ofertón en Amazon para Huawei P30 Pro - Smartphone de 6.47"  Ki'
 date: 2020-01-04 18:36:06
-image: https://images-eu.ssl-images-amazon.com/images/I/41kFPqz84kL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kFPqz84kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

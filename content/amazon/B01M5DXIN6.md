@@ -3,7 +3,7 @@ layout: post
 title: 'B01M5DXIN6: Ahorra en Under Armour Rival Fitted Pull Over Suda'
 date: 2019/12/18 08:32:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ARkW7vVcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ARkW7vVcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01M5DXIN6

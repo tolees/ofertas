@@ -3,7 +3,7 @@ layout: post
 title: 'B073PRKZNX: Rebaja en NICOLE&DORIS Elegante Tote Bolsos de Man en Amazon'
 date: 2019/12/15 19:13:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ZZ1PIZ8LL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZZ1PIZ8LL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073PRKZNX

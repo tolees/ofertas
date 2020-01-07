@@ -3,7 +3,7 @@ layout: post
 title: 'B07NCBRTSN: Ahorra en Pepe Jeans Stanley Vaqueros Straight  Az'
 date: 2019/12/17 07:41:46 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41At0pzVDQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41At0pzVDQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NCBRTSN

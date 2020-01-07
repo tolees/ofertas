@@ -2,7 +2,7 @@
 layout: post
 title: 'B00HRRD8US - Ofertón en Amazon para Sylvanian Families - Beechwood Hall  453'
 date: 2020-01-05 22:34:41
-image: https://images-eu.ssl-images-amazon.com/images/I/51kYUE3-ZZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51kYUE3-ZZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

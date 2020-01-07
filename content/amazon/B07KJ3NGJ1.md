@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KJ3NGJ1 - Ofertón en Amazon para ASICS Gel-Game 7 Clay/OC  Zapatillas de '
 date: 2020-01-04 13:05:00
-image: https://images-eu.ssl-images-amazon.com/images/I/41blZIUgwYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41blZIUgwYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

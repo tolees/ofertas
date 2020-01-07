@@ -3,7 +3,7 @@ layout: post
 title: 'B076PDCB1F: Ahorra en MERAKI Anorak Mujer con Cuello Alto  Pla'
 date: 2019/12/20 09:50:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ssqZamcmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ssqZamcmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076PDCB1F

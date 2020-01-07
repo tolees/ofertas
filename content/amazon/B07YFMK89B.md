@@ -3,7 +3,7 @@ layout: post
 title: 'B07YFMK89B: Rebaja en Auriculares Bluetooth 5.0 de Hasta 50 Ho en Amazon'
 date: 2019/12/17 12:44:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41r2ynn9rXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r2ynn9rXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YFMK89B

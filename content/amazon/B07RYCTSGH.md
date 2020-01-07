@@ -3,7 +3,7 @@ layout: post
 title: 'B07RYCTSGH: Rebaja en LIGHTAILING Light Set For  Architecture  en Amazon'
 date: 2020-01-06 14:13:37
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41p2fpYYoUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p2fpYYoUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RYCTSGH

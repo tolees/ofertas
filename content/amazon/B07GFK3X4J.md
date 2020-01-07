@@ -2,7 +2,7 @@
 layout: post
 title: 'B07GFK3X4J - Ofertón en Amazon para Sony WF-SP900 True Wireless Sports Headp'
 date: 2019/12/25 10:09:04 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31zzzemBYYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zzzemBYYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

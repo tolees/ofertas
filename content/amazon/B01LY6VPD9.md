@@ -3,7 +3,7 @@ layout: post
 title: 'B01LY6VPD9: Rebaja en Hairfinity Acondicionador Unisex  Negro  en Amazon'
 date: 2019/12/24 22:45:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41e%2BVq85zfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2BVq85zfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LY6VPD9

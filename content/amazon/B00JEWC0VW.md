@@ -3,7 +3,7 @@ layout: post
 title: 'B00JEWC0VW: Ahorra en Blend 700522 Blizzard - Vaqueros para ho'
 date: 2019/12/28 13:14:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41SP9WYObXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SP9WYObXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JEWC0VW

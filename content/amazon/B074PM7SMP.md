@@ -3,7 +3,7 @@ layout: post
 title: 'B074PM7SMP: Rebaja en Pdp - Auriculares Stereo AG 6 con Licenc en Amazon'
 date: 2019/12/25 15:05:06 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41xKLrMQHAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xKLrMQHAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074PM7SMP

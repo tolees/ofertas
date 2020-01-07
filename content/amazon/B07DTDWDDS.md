@@ -3,7 +3,7 @@ layout: post
 title: 'B07DTDWDDS: Ahorra en Pro Breeze Purificador de Aire Mini con '
 date: 2019/12/26 20:23:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZuJofd3YL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DTDWDDS

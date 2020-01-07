@@ -3,7 +3,7 @@ layout: post
 title: 'B07H8DBNYP: Ahorra en WinCret Piel Carteras para Hombre con Mo'
 date: 2019/12/28 21:23:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/516tJ5qO4pL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516tJ5qO4pL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H8DBNYP

@@ -3,7 +3,7 @@ layout: post
 title: 'B082DZPKKJ: Rebaja en GODNECE Technic Racing Car  1:10 2.4G RC en Amazon'
 date: 2019/12/27 17:07:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51h7dagsUaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51h7dagsUaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082DZPKKJ

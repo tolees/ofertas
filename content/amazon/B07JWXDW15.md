@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JWXDW15 - Ofertón en Amazon para Columbia Ivo Trail  Zapatillas para Homb'
 date: 2020-01-05 15:25:03
-image: https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

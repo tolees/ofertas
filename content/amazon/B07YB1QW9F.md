@@ -2,7 +2,7 @@
 layout: post
 title: 'B07YB1QW9F - Ofertón en Amazon para Guzack Brazalete Deportivo Brazalete Cor'
 date: 2020-01-02 07:12:04
-image: https://images-eu.ssl-images-amazon.com/images/I/51J1r6ZQSML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J1r6ZQSML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

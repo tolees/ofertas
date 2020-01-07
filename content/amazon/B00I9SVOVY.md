@@ -3,7 +3,7 @@ layout: post
 title: 'B00I9SVOVY: Ahorra en The Big Bang Theory SDTWRN02581 - Taza d'
 date: 2019/12/17 20:03:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41U7Bm%2BWMrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00I9SVOVY

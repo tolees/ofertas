@@ -3,7 +3,7 @@ layout: post
 title: 'B07LG42ZPV: Ahorra en Geox J Kalispera Girl A  Zapatillas Alta'
 date: 2020-01-03 08:43:10
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LG42ZPV

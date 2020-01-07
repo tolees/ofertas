@@ -3,7 +3,7 @@ layout: post
 title: 'B07XVWLLSP: Rebaja en Microsoft Surface Laptop 3  15 Zoll Lapt en Amazon'
 date: 2019/12/17 17:15:19 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/318PJtygs3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318PJtygs3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XVWLLSP

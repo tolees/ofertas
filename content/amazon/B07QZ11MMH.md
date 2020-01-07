@@ -3,7 +3,7 @@ layout: post
 title: 'B07QZ11MMH: Ahorra en adidas Real Madrid 2019/2020 Camiseta  H'
 date: 2019/12/14 17:42:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ofgFwokoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ofgFwokoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QZ11MMH

@@ -3,7 +3,7 @@ layout: post
 title: 'B07CFMK6C5: Ahorra en Spyro Reignited Trilogy'
 date: 2019/12/29 09:22:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CFMK6C5

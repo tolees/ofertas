@@ -3,7 +3,7 @@ layout: post
 title: 'B00HZDLDH4: Ahorra en Impresora Multifuncional Canon PIXMA MX4'
 date: 2019/12/21 20:14:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51jlTQ7bdrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jlTQ7bdrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HZDLDH4

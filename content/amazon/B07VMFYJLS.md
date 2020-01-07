@@ -3,7 +3,7 @@ layout: post
 title: 'B07VMFYJLS: Ahorra en DOOGEE N20 2019 Smartphone Libre 4G  And'
 date: 2019/12/23 07:13:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41VHrRAuVbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VHrRAuVbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VMFYJLS

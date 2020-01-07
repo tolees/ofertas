@@ -3,7 +3,7 @@ layout: post
 title: 'B07JPDDKBZ: Ahorra en DAM TEKKIWEAR. DMX222BKRED. Pulsera Inte'
 date: 2019/12/13 16:01:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JPDDKBZ

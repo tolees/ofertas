@@ -3,7 +3,7 @@ layout: post
 title: 'B017M3ZMKU: Ahorra en Pack 10 OSCAR a la Mejor Película de Hab'
 date: 2019/12/14 14:47:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GbQVGkZzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GbQVGkZzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B017M3ZMKU

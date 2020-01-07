@@ -3,7 +3,7 @@ layout: post
 title: 'B07G1CW1LG: Ahorra en SAGE SES500 the Bambino Plus mit automat'
 date: 2019/12/11 06:06:32 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41uKbyW1a9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uKbyW1a9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G1CW1LG

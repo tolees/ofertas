@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FNMTW4H - Ofertón en Amazon para LEGO 60208 City Police Sky Police Parach'
 date: 2019/12/30 17:27:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

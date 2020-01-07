@@ -3,7 +3,7 @@ layout: post
 title: 'B06WRNCYVV: Rebaja en adidas Pala de Pádel Ctrl 1 7  unisex  a en Amazon'
 date: 2019-12-31 17:38:52
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51MArq1HbVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MArq1HbVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06WRNCYVV

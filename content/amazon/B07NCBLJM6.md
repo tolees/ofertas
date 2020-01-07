@@ -3,7 +3,7 @@ layout: post
 title: 'B07NCBLJM6: Ahorra en Pepe Jeans Hatch Vaqueros  Black Used De'
 date: 2019/12/29 16:57:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NCBLJM6

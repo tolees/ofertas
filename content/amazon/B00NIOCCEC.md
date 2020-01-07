@@ -3,7 +3,7 @@ layout: post
 title: 'B00NIOCCEC: Rebaja en Panasonic ER-GB80-S503 - Cortapelos impe en Amazon'
 date: 2019/12/21 12:39:11 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51qApDpkhvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qApDpkhvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NIOCCEC

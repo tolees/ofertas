@@ -2,7 +2,7 @@
 layout: post
 title: 'B01LEJD98A - Ofertón en Amazon para Funko Mad-Eye Moody Figura de Vinilo  co'
 date: 2019/12/12 00:01:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41SRT1DlG9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SRT1DlG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

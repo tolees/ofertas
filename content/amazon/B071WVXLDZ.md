@@ -3,7 +3,7 @@ layout: post
 title: 'B071WVXLDZ: Ahorra en Braun Series 5 5147 s -  Afeitadora eléc'
 date: 2019/12/24 20:08:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51%2BSRGsTnhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BSRGsTnhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WVXLDZ

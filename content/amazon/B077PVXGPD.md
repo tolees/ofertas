@@ -3,7 +3,7 @@ layout: post
 title: 'B077PVXGPD: Ahorra en TRUTH & FABLE JCM-36282 vestido dama de '
 date: 2019/12/24 18:28:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/315tpAqGqQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315tpAqGqQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077PVXGPD

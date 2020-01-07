@@ -3,7 +3,7 @@ layout: post
 title: 'B017SQU1WK: Rebaja en Salomon Speedcross 4 GTX W  Zapatillas d en Amazon'
 date: 2019/12/27 19:08:32 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51dIksIzgCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dIksIzgCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B017SQU1WK

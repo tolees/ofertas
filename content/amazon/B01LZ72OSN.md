@@ -3,7 +3,7 @@ layout: post
 title: 'B01LZ72OSN: Rebaja en Eagle Flight en Amazon'
 date: 2020-01-02 16:59:51
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/512VbRwRYBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512VbRwRYBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LZ72OSN

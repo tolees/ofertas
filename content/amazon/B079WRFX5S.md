@@ -2,7 +2,7 @@
 layout: post
 title: 'B079WRFX5S - Ofertón en Amazon para Sans Complexe Coton D ARUM Sujetador sin'
 date: 2020-01-01 18:25:54
-image: https://images-eu.ssl-images-amazon.com/images/I/41FYNrMmoCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FYNrMmoCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

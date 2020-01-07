@@ -3,7 +3,7 @@ layout: post
 title: 'B07SKVK2GD: Rebaja en JOOMFEEN Cargador de Coche Quick Charge  en Amazon'
 date: 2019/12/29 09:46:46 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ptZL-z3iL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ptZL-z3iL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SKVK2GD

@@ -2,7 +2,7 @@
 layout: post
 title: 'B0742KQTYF - Ofertón en Amazon para Build a Bot- Mascota-Robot Dinosaurio  M'
 date: 2019/12/23 11:19:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/411H-bq4ZSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411H-bq4ZSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

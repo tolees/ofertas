@@ -3,7 +3,7 @@ layout: post
 title: 'B07NBYWW6P: Rebaja en BOSS Trunk 3p One Design Bóxer   Open Mi en Amazon'
 date: 2020-01-05 13:35:44
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41MwynXMj4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MwynXMj4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NBYWW6P

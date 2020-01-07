@@ -2,7 +2,7 @@
 layout: post
 title: 'B01N6XO6TK - Ofertón en Amazon para Russell Hobbs Victory - Tostadora  1 Ran'
 date: 2019/12/31 00:19:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31WHpIoUd3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31WHpIoUd3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

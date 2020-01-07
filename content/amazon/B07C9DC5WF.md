@@ -3,7 +3,7 @@ layout: post
 title: 'B07C9DC5WF: Ahorra en Naipo Mesa de Masaje Plegable de 2 Secci'
 date: 2020-01-07 08:02:17
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41a99RiF1SL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41a99RiF1SL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C9DC5WF

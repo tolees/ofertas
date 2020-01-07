@@ -3,7 +3,7 @@ layout: post
 title: 'B017A5HTGA: Ahorra en Red Bull Energy Drink Dosen Getränke 24e'
 date: 2019/12/31 10:34:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51n1JsFhbsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51n1JsFhbsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B017A5HTGA

@@ -3,7 +3,7 @@ layout: post
 title: 'B07MG7F4PY: Ahorra en Amilril Pulseras  925 Plata de Ley Amor '
 date: 2019/12/28 12:23:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41f69Be1MmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41f69Be1MmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MG7F4PY

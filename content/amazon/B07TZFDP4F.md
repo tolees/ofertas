@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZFDP4F: Ahorra en Ferilinso Funda para Xiaomi Redmi 7A Ele'
 date: 2020-01-01 19:45:26
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41kDY9qu%2BfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kDY9qu%2BfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TZFDP4F

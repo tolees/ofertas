@@ -2,7 +2,7 @@
 layout: post
 title: 'B01BGTRN2Q - Ofertón en Amazon para G-STAR RAW Midge Saddle Mid Waist Bootcu'
 date: 2019/12/17 18:38:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

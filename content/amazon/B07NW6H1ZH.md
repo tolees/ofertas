@@ -2,7 +2,7 @@
 layout: post
 title: 'B07NW6H1ZH - Ofertón en Amazon para Skechers Keepsakes 2.0 Botines Mujer  Ma'
 date: 2019/12/21 10:15:33 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41F0ZTUdRFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F0ZTUdRFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

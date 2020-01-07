@@ -3,7 +3,7 @@ layout: post
 title: 'B07JMMNZYW: Rebaja en Timberland Euro Sprint Fabric  Zapatilla en Amazon'
 date: 2019/12/13 19:45:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51xVs-F9u3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xVs-F9u3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JMMNZYW

@@ -3,7 +3,7 @@ layout: post
 title: 'B07KF6MCT9: Ahorra en Levi s Graphic Set-in Neck  Camiseta par'
 date: 2019/12/29 21:49:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KF6MCT9

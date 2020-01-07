@@ -3,7 +3,7 @@ layout: post
 title: 'B077TBWS8W: Ahorra en Trespass unificar de la Mujer Manga Larg'
 date: 2020-01-03 18:09:44
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41hrn2fpFuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hrn2fpFuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077TBWS8W

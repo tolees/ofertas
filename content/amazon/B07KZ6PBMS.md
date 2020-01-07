@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KZ6PBMS - Ofertón en Amazon para DC Shoes Mastaford Jackets  Hombre  Blac'
 date: 2019/12/26 16:07:42 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31hgwoNvYSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hgwoNvYSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QH2KPRD - Ofertón en Amazon para HYLOGY Tensiómetro de Brazo  Monitor de '
 date: 2019/12/30 19:24:00 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

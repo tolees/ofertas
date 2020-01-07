@@ -3,7 +3,7 @@ layout: post
 title: 'B07L11WNQN: Ahorra en Under Armour Rival Fleece LC Logo Novelt'
 date: 2019/12/16 09:35:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41xRJc3kOVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xRJc3kOVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L11WNQN

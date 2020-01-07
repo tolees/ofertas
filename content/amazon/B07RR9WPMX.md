@@ -2,7 +2,7 @@
 layout: post
 title: 'B07RR9WPMX - Ofertón en Amazon para TEEHON Cartera para Hombre  Monedero con'
 date: 2019/12/28 12:23:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41k6MFJnI4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k6MFJnI4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07XBLJVJ7 - Ofertón en Amazon para coskefy Guantes Esquí Impermeable para H'
 date: 2019/12/11 01:15:44 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51q0gbfGpfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51q0gbfGpfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B017XAFRS4: Ahorra en Kärcher Pistola pulverizadora  2.645-265'
 date: 2020-01-06 12:02:49
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41c9tasLOJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c9tasLOJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B017XAFRS4

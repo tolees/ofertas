@@ -3,7 +3,7 @@ layout: post
 title: 'B07F2JZQ9Z: Ahorra en Levi s Original Sherpa Trucker Chaqueta '
 date: 2019/12/26 15:04:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41C7lAIV6sL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C7lAIV6sL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F2JZQ9Z

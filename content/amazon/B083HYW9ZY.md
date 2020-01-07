@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'B083HYW9ZY: Rebaja en K9CK Luces LED para Technic Todoterreno  en Amazon'
-date: 2020-01-06 14:36:33
+date: 2020-01-07 15:07:10
 comments: true
-tags: B083HYW9ZY
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51PNs51xsdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B083HYW9ZY

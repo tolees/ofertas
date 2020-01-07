@@ -3,7 +3,7 @@ layout: post
 title: 'B07FNQHDZF: Ahorra en JACK & JONES Jjiglenn Jjoriginal Jos 102'
 date: 2019/12/26 20:56:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNQHDZF

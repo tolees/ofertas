@@ -3,7 +3,7 @@ layout: post
 title: 'B07MVLT3PW: Rebaja en Napapijri Eils SS Polo  Blanco  Bright W en Amazon'
 date: 2020-01-04 13:33:35
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MVLT3PW

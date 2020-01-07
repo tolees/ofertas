@@ -3,7 +3,7 @@ layout: post
 title: 'B06XKS59KG: Rebaja en Bosch PIJ651BB2E - Integrado Placa  Inte en Amazon'
 date: 2019/12/16 13:19:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31imWQ5A5vL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31imWQ5A5vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XKS59KG

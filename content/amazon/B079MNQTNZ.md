@@ -3,7 +3,7 @@ layout: post
 title: 'B079MNQTNZ: Rebaja en PLAYMOBIL City Action 9464 Feuerwehr-Rüs en Amazon'
 date: 2020-01-05 22:41:08
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51b1JeHqjBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51b1JeHqjBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079MNQTNZ

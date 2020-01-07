@@ -2,7 +2,7 @@
 layout: post
 title: 'B01N4RBDSC - Ofertón en Amazon para Huawei 22040267 In-Ear Bass Kopfhörer mi'
 date: 2019/12/16 21:41:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/21RXWWP1iRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21RXWWP1iRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

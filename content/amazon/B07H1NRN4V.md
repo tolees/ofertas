@@ -2,7 +2,7 @@
 layout: post
 title: 'B07H1NRN4V - Ofertón en Amazon para Vmosgo 903 903XL Remanufacturado Reempla'
 date: 2019/12/26 11:20:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51IYrZGwg6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IYrZGwg6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

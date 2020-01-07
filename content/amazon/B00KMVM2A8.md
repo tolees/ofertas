@@ -3,7 +3,7 @@ layout: post
 title: 'B00KMVM2A8: Ahorra en Columbia Klamath Range II Forro Polar co'
 date: 2019/12/26 12:04:18 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/412zNtR2XSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412zNtR2XSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KMVM2A8

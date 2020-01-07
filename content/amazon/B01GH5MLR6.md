@@ -3,7 +3,7 @@ layout: post
 title: 'B01GH5MLR6: Rebaja en Under Armour Tech Polo  Hombre  Rojo  Re en Amazon'
 date: 2019/12/16 21:35:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41-8L1GtfSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-8L1GtfSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01GH5MLR6

@@ -3,7 +3,7 @@ layout: post
 title: 'B072BWKBCV: Rebaja en Under Armour Men s Blitzing 3.0 Cap Gorr en Amazon'
 date: 2019/12/17 13:12:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Ast8iKolL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Ast8iKolL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072BWKBCV

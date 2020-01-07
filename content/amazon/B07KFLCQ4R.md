@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KFLCQ4R - Ofertón en Amazon para Adidas Solar Lt Trainer W  Zapatillas de'
 date: 2019/12/13 10:58:40 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41QtKkILgKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QtKkILgKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B074H2ZNMW - Ofertón en Amazon para find. Camisa con Volantes para Mujer  Az'
 date: 2019/12/15 13:16:16 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41VZ1vnH0QL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VZ1vnH0QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

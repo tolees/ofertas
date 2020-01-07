@@ -2,7 +2,7 @@
 layout: post
 title: 'B00MFQP4EY - Ofertón en Amazon para Mx Onda - Reloj Analógico de Cuarzo para'
 date: 2019/12/17 18:01:36 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51ayFPY853L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ayFPY853L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

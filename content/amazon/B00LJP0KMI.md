@@ -2,7 +2,7 @@
 layout: post
 title: 'B00LJP0KMI - Ofertón en Amazon para Dickies Curtis  Parka para Hombre  Negro'
 date: 2019/12/11 01:16:31 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

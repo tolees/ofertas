@@ -2,7 +2,7 @@
 layout: post
 title: 'B07BQ2NVLH - Ofertón en Amazon para PawHut Árbol para Gatos Rascador con Pos'
 date: 2019/12/13 10:20:46 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41QCQ-fZVnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QCQ-fZVnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

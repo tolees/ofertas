@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9JVJSG: Rebaja en Napapijri Elbas 2 Polo  Verde  Pale Gree en Amazon'
 date: 2019/12/17 14:29:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31U4BazPMFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31U4BazPMFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9JVJSG

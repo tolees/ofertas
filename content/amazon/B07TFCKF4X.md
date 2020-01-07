@@ -3,7 +3,7 @@ layout: post
 title: 'B07TFCKF4X: Rebaja en TEEHON Billetera Hombre de Piel  Cartera en Amazon'
 date: 2020-01-03 01:30:24
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41DaTlSmy8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DaTlSmy8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TFCKF4X

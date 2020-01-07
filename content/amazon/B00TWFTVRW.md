@@ -3,7 +3,7 @@ layout: post
 title: 'B00TWFTVRW: Ahorra en fischertechnik Kugelbahn Dynamic M mit K'
 date: 2020-01-01 22:57:53
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51BjZ5-PTrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BjZ5-PTrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00TWFTVRW

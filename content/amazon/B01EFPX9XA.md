@@ -3,7 +3,7 @@ layout: post
 title: 'B01EFPX9XA: Rebaja en UGREEN Lector Tarjetas SD  USB 3.0 Lecto en Amazon'
 date: 2020-01-06 20:54:27
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ID4wF0MnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ID4wF0MnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01EFPX9XA

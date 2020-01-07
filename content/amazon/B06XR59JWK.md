@@ -3,7 +3,7 @@ layout: post
 title: 'B06XR59JWK: Rebaja en Bosch UniversalImpact 700 - Taladro Perc en Amazon'
 date: 2020-01-01 15:24:27
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41h-du7UbHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h-du7UbHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XR59JWK

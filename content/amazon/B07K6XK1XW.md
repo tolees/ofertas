@@ -3,7 +3,7 @@ layout: post
 title: 'B07K6XK1XW: Rebaja en Levi s 502 Regular Taper Vaqueros  Gris  en Amazon'
 date: 2020-01-06 11:43:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K6XK1XW

@@ -3,7 +3,7 @@ layout: post
 title: 'B073RNYJM6: Rebaja en Helly Hansen Logo Hoodie Sudadera con Ca en Amazon'
 date: 2019/12/24 11:05:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41DkLYBGmGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DkLYBGmGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073RNYJM6

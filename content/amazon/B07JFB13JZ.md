@@ -3,7 +3,7 @@ layout: post
 title: 'B07JFB13JZ: Ahorra en WOSTOO Fuente de Agua para Gato  Bebeder'
 date: 2019/12/19 12:25:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51IcpKogYgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IcpKogYgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JFB13JZ

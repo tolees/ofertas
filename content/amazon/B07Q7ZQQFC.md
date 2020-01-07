@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q7ZQQFC: Ahorra en Xnuoyo Mochila de Bandolera  Bolso de Pe'
 date: 2019/12/26 15:25:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31Dzt38L9qL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Dzt38L9qL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q7ZQQFC

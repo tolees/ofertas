@@ -3,7 +3,7 @@ layout: post
 title: 'B07CNQZ4W3: Ahorra en Sony KD55XF7004BAEP - Smart TV de 55" 4K'
 date: 2020-01-05 18:21:34
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51tdODxgjjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tdODxgjjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CNQZ4W3

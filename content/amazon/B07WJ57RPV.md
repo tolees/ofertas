@@ -3,7 +3,7 @@ layout: post
 title: 'B07WJ57RPV: Rebaja en Kuako Zapatillas de Estar por casa con F en Amazon'
 date: 2020-01-02 20:42:29
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41CN9knPjNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CN9knPjNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WJ57RPV

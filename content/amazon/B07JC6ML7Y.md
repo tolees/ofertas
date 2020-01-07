@@ -3,7 +3,7 @@ layout: post
 title: 'B07JC6ML7Y: Ahorra en Apple Watch Series 4  GPS + Cellular  co'
 date: 2020-01-06 19:09:04
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41srIAxFihL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41srIAxFihL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JC6ML7Y

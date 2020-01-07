@@ -3,7 +3,7 @@ layout: post
 title: 'B07F1CR7VC: Rebaja en BILLABONG Disaster Gorro  Hombre  Black  en Amazon'
 date: 2019/12/11 15:37:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61rEMXXvZ3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61rEMXXvZ3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F1CR7VC

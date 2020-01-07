@@ -2,7 +2,7 @@
 layout: post
 title: 'B00STBWB8G - Ofertón en Amazon para L Oréal Paris Men Expert Crema Hidratant'
 date: 2020-01-05 16:55:05
-image: https://images-eu.ssl-images-amazon.com/images/I/41A3pF6FhkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41A3pF6FhkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B076PR4TBZ - Ofertón en Amazon para SUAOKI - 150Wh Generador Portátil Solar '
 date: 2019/12/17 19:15:27 +0000
-image: ._SL200_
+image: '._SL200_'
 comments: true
 category: ofertas
 author: ring

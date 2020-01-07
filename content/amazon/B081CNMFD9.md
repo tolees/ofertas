@@ -2,7 +2,7 @@
 layout: post
 title: 'B081CNMFD9 - Ofertón en Amazon para Geographical Norway Parka Hombre Boomera'
 date: 2019/12/16 12:29:18 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

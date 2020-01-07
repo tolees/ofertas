@@ -3,7 +3,7 @@ layout: post
 title: 'B06VS9YXRB: Rebaja en Nautica Reloj de Pulsera NAPMIA003 en Amazon'
 date: 2019/12/12 23:18:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413q3d1Z9yL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413q3d1Z9yL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06VS9YXRB

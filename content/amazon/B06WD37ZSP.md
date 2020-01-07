@@ -2,7 +2,7 @@
 layout: post
 title: 'B06WD37ZSP - Ofertón en Amazon para Braun Silk-épil 9 SkinSpa 9-969v - Depil'
 date: 2019-12-31 17:17:01
-image: https://images-eu.ssl-images-amazon.com/images/I/419hraipckL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419hraipckL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

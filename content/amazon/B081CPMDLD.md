@@ -3,7 +3,7 @@ layout: post
 title: 'B081CPMDLD: Ahorra en Geographical Norway Parka HOMRBE Boomera'
 date: 2019/12/30 11:07:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081CPMDLD

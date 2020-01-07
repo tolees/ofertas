@@ -3,7 +3,7 @@ layout: post
 title: 'B07R5NC1VH: Rebaja en Extracto de Maca Andina Ecológica Premiu en Amazon'
 date: 2020-01-04 19:49:29
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41VEaWvaoiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VEaWvaoiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R5NC1VH

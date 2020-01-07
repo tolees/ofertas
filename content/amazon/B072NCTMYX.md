@@ -3,7 +3,7 @@ layout: post
 title: 'B072NCTMYX: Ahorra en adidas ESS Lin Fzhoodb Sudadera  Hombre '
 date: 2020-01-07 13:21:23
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B072NCTMYX

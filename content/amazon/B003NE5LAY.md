@@ -2,7 +2,7 @@
 layout: post
 title: 'B003NE5LAY - Ofertón en Amazon para LEGO Brick 4 Knobs Stackable Storage Box'
 date: 2019/12/26 08:28:18 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31NSZI-AzKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NSZI-AzKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

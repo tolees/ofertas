@@ -3,7 +3,7 @@ layout: post
 title: 'B082FGQYQ2: Rebaja en IWEMEK Disfraz Elsa Frozen 2 Vestido de  en Amazon'
 date: 2020-01-07 06:34:37
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413dmH4DosL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413dmH4DosL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082FGQYQ2

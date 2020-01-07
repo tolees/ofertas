@@ -3,7 +3,7 @@ layout: post
 title: 'B07Y7NCCS5: Ahorra en MEDION M80 - Ordenador de sobremesa  Int'
 date: 2020-01-01 16:37:54
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31%2BuGBknjiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BuGBknjiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Y7NCCS5

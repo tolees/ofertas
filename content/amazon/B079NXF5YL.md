@@ -3,7 +3,7 @@ layout: post
 title: 'B079NXF5YL: Rebaja en Hapilife Grifo Cocina Pared 15 CM Plegab en Amazon'
 date: 2020-01-04 22:36:16
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ziv7wOGAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ziv7wOGAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079NXF5YL

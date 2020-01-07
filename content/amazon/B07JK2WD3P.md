@@ -3,7 +3,7 @@ layout: post
 title: 'B07JK2WD3P: Ahorra en TOTTO Estuche Juvenil  Estuche una Crema'
 date: 2019/12/24 11:27:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31bUIo93u6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bUIo93u6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JK2WD3P

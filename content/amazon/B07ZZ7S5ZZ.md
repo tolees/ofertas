@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZZ7S5ZZ: Ahorra en Boxer Calzoncillos Hombre Algodón Orgáni'
 date: 2019/12/29 09:53:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31Q3qwcFLzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Q3qwcFLzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZZ7S5ZZ

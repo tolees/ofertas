@@ -3,7 +3,7 @@ layout: post
 title: 'B010F9XVBU: Ahorra en Philips Sonicare AirFloss HX8210/22 - Ir'
 date: 2019/12/18 15:15:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31sYsAQfzTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sYsAQfzTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B010F9XVBU

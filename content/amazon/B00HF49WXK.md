@@ -2,7 +2,7 @@
 layout: post
 title: 'B00HF49WXK - Ofertón en Amazon para Timex Expedition - Reloj análogico de cu'
 date: 2019/12/13 12:08:35 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51Bo85LS0%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Bo85LS0%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

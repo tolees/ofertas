@@ -3,7 +3,7 @@ layout: post
 title: 'B018UYHBK4: Rebaja en Artix Auriculares Plegables con Micrófon en Amazon'
 date: 2019/12/20 22:17:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/417bFjVb-JL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417bFjVb-JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B018UYHBK4

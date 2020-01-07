@@ -2,7 +2,7 @@
 layout: post
 title: 'B00DUU8GHQ - Ofertón en Amazon para Elizabeth Arden Eight Hour Bálsamo Nutri'
 date: 2019/12/20 12:46:04 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31UJtQnAbQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UJtQnAbQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

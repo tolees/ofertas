@@ -3,7 +3,7 @@ layout: post
 title: 'B01M4LNTM4: Ahorra en Casa de Muñecas con Muebles Mobiliario C'
 date: 2020-01-07 06:42:43
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51l3G%2BfXKHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l3G%2BfXKHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01M4LNTM4

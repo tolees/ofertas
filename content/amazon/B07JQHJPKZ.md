@@ -3,7 +3,7 @@ layout: post
 title: 'B07JQHJPKZ: Rebaja en AngLink Encendedor Electrico  USB Encend en Amazon'
 date: 2020-01-03 19:56:28
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Do2360GqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Do2360GqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JQHJPKZ

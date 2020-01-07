@@ -3,7 +3,7 @@ layout: post
 title: 'B07NYB3HMC: Ahorra en Satechi Ratón Bluetooth M1 Inalámbrico d'
 date: 2019/12/14 01:47:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31DBCOwrOnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DBCOwrOnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NYB3HMC

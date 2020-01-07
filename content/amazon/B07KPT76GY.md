@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KPT76GY - Ofertón en Amazon para Funko- Pop Vinilo: Castlevania: Vlad Dra'
 date: 2019/12/16 21:17:23 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41HDQoNOOKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HDQoNOOKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07GJVVP7F: Rebaja en AmazonBasics - Juego de cubertería de ac en Amazon'
 date: 2019/12/15 09:27:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/315ArsgNPFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315ArsgNPFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GJVVP7F

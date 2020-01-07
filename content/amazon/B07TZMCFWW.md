@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZMCFWW: Ahorra en Mini Amoladora Eléctrica  TECCPO 200W Mu'
 date: 2020-01-04 13:05:39
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51BSGzi9LZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51BSGzi9LZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TZMCFWW

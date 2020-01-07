@@ -3,7 +3,7 @@ layout: post
 title: 'B07V1LFYCJ: Rebaja en Herramienta rotativa eléctrica  TECCPO M en Amazon'
 date: 2020-01-04 15:03:18
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51J9WffDCuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J9WffDCuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07V1LFYCJ

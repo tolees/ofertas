@@ -3,7 +3,7 @@ layout: post
 title: 'B01EJM4UNW: Rebaja en Pala ML 10 Pro Cup 2016 Legend en Amazon'
 date: 2019/12/22 11:29:23 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418li2P5YdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418li2P5YdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01EJM4UNW

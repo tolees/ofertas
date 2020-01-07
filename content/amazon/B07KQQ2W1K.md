@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KQQ2W1K - Ofertón en Amazon para Salomon Alphacross GTX  Zapatillas de Tr'
 date: 2019/12/22 09:48:11 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41BuBqq%2B6gL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BuBqq%2B6gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

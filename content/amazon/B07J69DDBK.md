@@ -3,7 +3,7 @@ layout: post
 title: 'B07J69DDBK: Ahorra en LEGO 76128 Marvel Spider-Man Molten Man '
 date: 2019/12/23 20:44:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51tYJZtouCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tYJZtouCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J69DDBK

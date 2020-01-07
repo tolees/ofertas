@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MT1OY1N - Ofertón en Amazon para Edge Entertainment Hora de Aventuras - B'
 date: 2020-01-03 16:09:11
-image: https://images-eu.ssl-images-amazon.com/images/I/41YLBmV0rsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YLBmV0rsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B079YXHXTS - Ofertón en Amazon para Hugo BOSS Reloj Cronógrafo para Hombre d'
 date: 2019/12/20 01:33:16 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51hX%2BmwKUCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hX%2BmwKUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

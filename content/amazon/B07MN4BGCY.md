@@ -3,7 +3,7 @@ layout: post
 title: 'B07MN4BGCY: Rebaja en Wrangler Texas Contrast Vaqueros  Azul   en Amazon'
 date: 2019/12/23 14:41:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41mzx45mZaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mzx45mZaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MN4BGCY

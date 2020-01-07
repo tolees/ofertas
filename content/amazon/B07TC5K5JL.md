@@ -3,7 +3,7 @@ layout: post
 title: 'B07TC5K5JL: Ahorra en Vero Moda Vmsimone Aw19 Hoody Short Jack'
 date: 2020-01-01 18:23:07
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41s5cEhQ2dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s5cEhQ2dL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TC5K5JL

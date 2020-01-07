@@ -3,7 +3,7 @@ layout: post
 title: 'B002L3TSLQ: Rebaja en Logitech® Wireless Presenter R400 - N/A  en Amazon'
 date: 2019/12/23 17:52:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ldVUBwBFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ldVUBwBFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002L3TSLQ

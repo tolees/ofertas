@@ -2,7 +2,7 @@
 layout: post
 title: 'B00EC7ULM4 - Ofertón en Amazon para L Oreal Paris - Brow Artist Shaper  Lápi'
 date: 2019/12/17 10:37:51 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31TVS7-DXoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TVS7-DXoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

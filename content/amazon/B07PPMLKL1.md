@@ -3,7 +3,7 @@ layout: post
 title: 'B07PPMLKL1: Ahorra en Pistola de aire caliente  TECCPO 2000W 2'
 date: 2019/12/19 22:26:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41K-%2BB64sCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K-%2BB64sCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PPMLKL1

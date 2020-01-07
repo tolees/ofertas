@@ -3,7 +3,7 @@ layout: post
 title: 'B07L8DRH9V: Rebaja en Naipo Cojín para Asiento de Espuma con M en Amazon'
 date: 2019/12/17 23:55:19 +0000
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B07L8DRH9V

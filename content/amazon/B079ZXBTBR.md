@@ -3,7 +3,7 @@ layout: post
 title: 'B079ZXBTBR: Rebaja en SIMYJOY Pareja Loro Dorado Pullover Loro en Amazon'
 date: 2020-01-04 23:56:32
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41oPz2VjhsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oPz2VjhsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079ZXBTBR

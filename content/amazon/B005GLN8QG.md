@@ -3,7 +3,7 @@ layout: post
 title: 'B005GLN8QG: Ahorra en GWinner - Pantalones para mujer  tamaño '
 date: 2019/12/31 12:01:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31N%2B6cnd6OL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31N%2B6cnd6OL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B005GLN8QG

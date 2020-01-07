@@ -3,7 +3,7 @@ layout: post
 title: 'B01JRJXJMA: Rebaja en Tomshine Luz Bicicleta LED USB  Super Br en Amazon'
 date: 2020-01-02 14:30:44
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B01JRJXJMA

@@ -2,7 +2,7 @@
 layout: post
 title: 'B00LIXTM6G - Ofertón en Amazon para Smokies Hombres Zapato de Novia Charlie '
 date: 2019/12/24 12:48:12 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

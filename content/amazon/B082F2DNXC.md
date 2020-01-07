@@ -3,7 +3,7 @@ layout: post
 title: 'B082F2DNXC: Rebaja en Luces solares al aire libre   100 LED 8  en Amazon'
 date: 2020-01-03 09:46:51
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082F2DNXC

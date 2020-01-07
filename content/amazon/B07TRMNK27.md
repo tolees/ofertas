@@ -3,7 +3,7 @@ layout: post
 title: 'B07TRMNK27: Rebaja en Motorola One Action - Smartphone Dual SI en Amazon'
 date: 2020-01-05 11:33:43
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41VjPi0mRmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VjPi0mRmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TRMNK27

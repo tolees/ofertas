@@ -3,7 +3,7 @@ layout: post
 title: 'B07H87CVVX: Rebaja en Amplificador WiFi Repetidor Extensor de  en Amazon'
 date: 2019/12/30 00:46:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41enVlXIJCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41enVlXIJCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H87CVVX

@@ -2,7 +2,7 @@
 layout: post
 title: 'B06WLQFZ6L - Ofertón en Amazon para Grohe Essence Professional - Grifo de fr'
 date: 2019/12/17 13:12:27 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31HzpZ8ZPXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HzpZ8ZPXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

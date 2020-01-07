@@ -3,7 +3,7 @@ layout: post
 title: 'B07GY5BTHC: Rebaja en edc by Esprit 998cc1b825 Vaqueros Corte  en Amazon'
 date: 2019/12/19 22:02:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418w3ncjxsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418w3ncjxsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GY5BTHC

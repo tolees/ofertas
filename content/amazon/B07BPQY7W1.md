@@ -3,7 +3,7 @@ layout: post
 title: 'B07BPQY7W1: Rebaja en Jura Journey Single Malt Whisky  70 cl en Amazon'
 date: 2019/12/17 23:09:39 +0000
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B07BPQY7W1

@@ -3,7 +3,7 @@ layout: post
 title: 'B0793MPVCC: Rebaja en Chlorella Ecológica Premium para 165 día en Amazon'
 date: 2020-01-01 10:04:19
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51rXjz%2B7dAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rXjz%2B7dAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0793MPVCC

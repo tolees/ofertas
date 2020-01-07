@@ -3,7 +3,7 @@ layout: post
 title: 'B07SC9RLQ1: Rebaja en AICOK Sous Vide Aparato de Cocina Precis en Amazon'
 date: 2020-01-01 19:16:00
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41C8RIQ0HQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C8RIQ0HQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SC9RLQ1

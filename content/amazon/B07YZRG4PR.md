@@ -3,7 +3,7 @@ layout: post
 title: 'B07YZRG4PR: Rebaja en HORI - Mando inalámbrico Onyx Plus  PS4/ en Amazon'
 date: 2020-01-07 08:22:51
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41S7hNfrvYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41S7hNfrvYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YZRG4PR

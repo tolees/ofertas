@@ -3,7 +3,7 @@ layout: post
 title: 'B01M34UQEK: Rebaja en G-STAR RAW Lynn Mid Waist Skinny  Vaquer en Amazon'
 date: 2019/12/31 08:40:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31YcPEstuqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YcPEstuqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01M34UQEK

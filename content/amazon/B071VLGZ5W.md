@@ -2,7 +2,7 @@
 layout: post
 title: 'B071VLGZ5W - Ofertón en Amazon para find. Sudadera Manga Fruncida para Mujer'
 date: 2019/12/20 00:35:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41WRlJHb9UL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WRlJHb9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

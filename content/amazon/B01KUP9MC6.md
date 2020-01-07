@@ -3,7 +3,7 @@ layout: post
 title: 'B01KUP9MC6: Rebaja en Little Helper lienzo caja Galerie envelo en Amazon'
 date: 2019/12/18 07:51:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31YF4VP-1lL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YF4VP-1lL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01KUP9MC6

@@ -3,7 +3,7 @@ layout: post
 title: 'B07YY1QDX4: Ahorra en BRIKSMAX Led Lighting Kit for LEGO STAR '
 date: 2020-01-06 14:23:57
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51hbDbtVRTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hbDbtVRTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YY1QDX4

@@ -3,7 +3,7 @@ layout: post
 title: 'B00EB1SWHW: Ahorra en Krups Dolce Gusto Mini Me KP1208 - Cafet'
 date: 2020-01-01 08:07:26
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/412lnaEpkdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412lnaEpkdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00EB1SWHW

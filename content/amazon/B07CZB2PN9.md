@@ -3,7 +3,7 @@ layout: post
 title: 'B07CZB2PN9: Ahorra en Asics Gel-Lyte PS  Zapatillas Unisex Niñ'
 date: 2020-01-06 10:28:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CZB2PN9

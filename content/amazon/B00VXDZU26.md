@@ -2,7 +2,7 @@
 layout: post
 title: 'B00VXDZU26 - Ofertón en Amazon para Sylvanian Families - Cedar Terrace  Gift'
 date: 2019/12/21 16:39:19 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51UM69UxMcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UM69UxMcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

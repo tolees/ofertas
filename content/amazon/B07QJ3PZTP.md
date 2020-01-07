@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QJ3PZTP - Ofertón en Amazon para LNMBBS 3G Tablet de 10.1 Pulgadas  3G/Wi'
 date: 2019/12/12 23:46:21 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51HYmYG1RxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HYmYG1RxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

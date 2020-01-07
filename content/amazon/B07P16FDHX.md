@@ -2,7 +2,7 @@
 layout: post
 title: 'B07P16FDHX - Ofertón en Amazon para Superdry Orange Label Cotton Crew Suéter'
 date: 2019/12/16 11:47:02 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31yYmUyoQhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yYmUyoQhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

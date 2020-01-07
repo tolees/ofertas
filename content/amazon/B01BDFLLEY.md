@@ -2,7 +2,7 @@
 layout: post
 title: 'B01BDFLLEY - Ofertón en Amazon para adidas Cloudfoam Pure W  Zapatillas de D'
 date: 2019/12/27 09:21:20 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Gv3yMvnWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Gv3yMvnWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

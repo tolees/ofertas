@@ -3,7 +3,7 @@ layout: post
 title: 'B07RV6Z6BL: Rebaja en Televisor Philips 70PUS6704/12  70 pulga en Amazon'
 date: 2019/12/17 09:22:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41uBApFCoRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uBApFCoRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RV6Z6BL

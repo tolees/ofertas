@@ -3,7 +3,7 @@ layout: post
 title: 'B072MTS9KN: Ahorra en find. Zapatillas Deportivas con Textura '
 date: 2019/12/20 11:04:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31g5b-CiUDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g5b-CiUDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072MTS9KN

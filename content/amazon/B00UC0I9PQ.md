@@ -3,7 +3,7 @@ layout: post
 title: 'B00UC0I9PQ: Rebaja en EXPERT E010602 - Mochila con ruedas en Amazon'
 date: 2019/12/28 06:10:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GQUatWL2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GQUatWL2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00UC0I9PQ

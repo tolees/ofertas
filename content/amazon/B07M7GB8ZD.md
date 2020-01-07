@@ -3,7 +3,7 @@ layout: post
 title: 'B07M7GB8ZD: Rebaja en Pilas AA Recargable POWEROWL Alta Capaci en Amazon'
 date: 2020-01-03 16:05:27
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41DJPlxe%2B4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJPlxe%2B4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M7GB8ZD

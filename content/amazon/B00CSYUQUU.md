@@ -3,7 +3,7 @@ layout: post
 title: 'B00CSYUQUU: Rebaja en Hacienda Zorita Natural Reserve Syrah Vi en Amazon'
 date: 2020-01-01 09:21:57
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31Ux3qifaOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Ux3qifaOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00CSYUQUU

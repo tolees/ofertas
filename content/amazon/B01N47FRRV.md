@@ -2,7 +2,7 @@
 layout: post
 title: 'B01N47FRRV - Ofertón en Amazon para Lotto Cityride II Amf  Zapatillas de Dep'
 date: 2019/12/23 14:00:09 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41gLKfCbvaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gLKfCbvaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

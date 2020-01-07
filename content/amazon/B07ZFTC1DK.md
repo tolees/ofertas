@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZFTC1DK: Ahorra en YWLINK 1 UNID Falda Moda Bebé NiñOs NiñA'
 date: 2020-01-07 07:02:31
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41nGh3a1HcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nGh3a1HcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZFTC1DK

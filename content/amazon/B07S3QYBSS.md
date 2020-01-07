@@ -2,7 +2,7 @@
 layout: post
 title: 'B07S3QYBSS - Ofertón en Amazon para koulate Luz De Gabinete Led  2 Piezas De'
 date: 2020-01-02 17:37:25
-image: https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

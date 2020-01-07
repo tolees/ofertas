@@ -3,7 +3,7 @@ layout: post
 title: 'B07KG12XGP: Rebaja en PUMA St Runner V2 Mesh  Zapatillas Unise en Amazon'
 date: 2019/12/28 19:16:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG12XGP

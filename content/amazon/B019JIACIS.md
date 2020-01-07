@@ -2,7 +2,7 @@
 layout: post
 title: 'B019JIACIS - Ofertón en Amazon para Funko - Pop! Vinilo Colección Harry Pott'
 date: 2019/12/25 18:01:40 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/4168R%2BHVkUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4168R%2BHVkUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

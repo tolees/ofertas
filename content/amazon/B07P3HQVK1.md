@@ -2,7 +2,7 @@
 layout: post
 title: 'B07P3HQVK1 - Ofertón en Amazon para HENGKEXIN Cámara Deportiva 4K Ultra HD  '
 date: 2019/12/17 03:36:06 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51tMF8hxVpL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tMF8hxVpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

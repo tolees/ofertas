@@ -2,7 +2,7 @@
 layout: post
 title: 'B081CDVHP4 - Ofertón en Amazon para Geographical Norway Chaqueta DE NIÑO BOK'
 date: 2019/12/17 11:28:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

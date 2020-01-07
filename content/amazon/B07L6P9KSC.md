@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L6P9KSC - Ofertón en Amazon para Fitflop Women s Chai Ankle Boots  Brown '
 date: 2020-01-03 11:17:17
-image: https://images-eu.ssl-images-amazon.com/images/I/31kdQ7Ckh0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kdQ7Ckh0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

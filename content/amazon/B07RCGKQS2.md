@@ -3,7 +3,7 @@ layout: post
 title: 'B07RCGKQS2: Rebaja en Columbia Pouring Adventure II Chaqueta p en Amazon'
 date: 2020-01-06 16:03:22
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41CqAFTJLeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CqAFTJLeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RCGKQS2

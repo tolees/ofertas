@@ -2,7 +2,7 @@
 layout: post
 title: 'B00GUXJPHA - Ofertón en Amazon para Columbia Peakfreak Nomad  Botas de Sende'
 date: 2019/12/25 09:22:03 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

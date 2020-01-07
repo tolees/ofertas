@@ -3,7 +3,7 @@ layout: post
 title: 'B00U8QYLTC: Ahorra en Beter 34062 - Pinzas  punta cangrejo  do'
 date: 2019/12/19 05:15:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31KepSMOqbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KepSMOqbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00U8QYLTC

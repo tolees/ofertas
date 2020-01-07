@@ -3,7 +3,7 @@ layout: post
 title: 'B07MRKTVBQ: Rebaja en United Colors of Benetton Basic B1  Cami en Amazon'
 date: 2019/12/15 12:55:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41qRT6TZXBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qRT6TZXBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MRKTVBQ

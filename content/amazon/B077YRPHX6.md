@@ -2,7 +2,7 @@
 layout: post
 title: 'B077YRPHX6 - Ofertón en Amazon para The North Face Damen W Hh Hike Ii Gtx Tr'
 date: 2019/12/17 08:00:41 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31BVfnH6nyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BVfnH6nyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

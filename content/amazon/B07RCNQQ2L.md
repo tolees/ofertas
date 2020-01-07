@@ -3,7 +3,7 @@ layout: post
 title: 'B07RCNQQ2L: Ahorra en Columbia Northbounder Turbodown Parka  H'
 date: 2019/12/22 22:27:35 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41QDj2kZYBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QDj2kZYBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RCNQQ2L

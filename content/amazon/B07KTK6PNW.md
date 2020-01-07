@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KTK6PNW - Ofertón en Amazon para Lego 41376 Friends Mission Boat Playset '
 date: 2020-01-07 08:49:12
-image: https://images-eu.ssl-images-amazon.com/images/I/51Djn1k7b4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Djn1k7b4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

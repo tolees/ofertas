@@ -3,7 +3,7 @@ layout: post
 title: 'B00OHVT2SO: Ahorra en Marshall Mode EQ - Auriculares in-ear  c'
 date: 2019/12/21 12:39:11 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31EYC5PtiaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31EYC5PtiaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00OHVT2SO

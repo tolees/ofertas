@@ -2,7 +2,7 @@
 layout: post
 title: 'B01CBME5OQ - Ofertón en Amazon para Funko 9357 Funko Pop! Keychain - Suicide'
 date: 2019/12/27 00:28:59 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41C-ydn72dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C-ydn72dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

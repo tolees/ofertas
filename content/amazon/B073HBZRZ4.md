@@ -3,7 +3,7 @@ layout: post
 title: 'B073HBZRZ4: Ahorra en Maybelline New York - Pintalabios Mate L'
 date: 2020-01-02 11:34:33
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31-QyhmaqLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-QyhmaqLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073HBZRZ4

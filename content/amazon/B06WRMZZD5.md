@@ -3,7 +3,7 @@ layout: post
 title: 'B06WRMZZD5: Rebaja en Playmobil 9244 - Dragos Schiff en Amazon'
 date: 2019/12/23 17:11:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61EnMZk9cJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61EnMZk9cJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06WRMZZD5

@@ -3,7 +3,7 @@ layout: post
 title: 'B012NOWNZ0: Ahorra en Hugo Boss  Agua de colonia para hombres '
 date: 2020-01-03 02:39:12
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41fymHi7oSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fymHi7oSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B012NOWNZ0

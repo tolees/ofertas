@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JHX3LKY - Ofertón en Amazon para PUMA Cup Casuals tee Camiseta  Hombre  G'
 date: 2019/12/20 20:48:30 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/4130LoQCbdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4130LoQCbdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

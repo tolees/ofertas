@@ -2,7 +2,7 @@
 layout: post
 title: 'B00NP2SBAG - Ofertón en Amazon para HOMCOM Alfombra puzle 192x192 cm Niños 3'
 date: 2020-01-06 11:32:39
-image: https://images-eu.ssl-images-amazon.com/images/I/51TxCalx3fL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TxCalx3fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

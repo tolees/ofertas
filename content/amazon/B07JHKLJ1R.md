@@ -3,7 +3,7 @@ layout: post
 title: 'B07JHKLJ1R: Rebaja en G-STAR RAW Bristum Slim Flare Fringe Ves en Amazon'
 date: 2019/12/23 18:56:38 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31tvPA3TgzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31tvPA3TgzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JHKLJ1R

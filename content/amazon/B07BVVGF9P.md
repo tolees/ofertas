@@ -3,7 +3,7 @@ layout: post
 title: 'B07BVVGF9P: Rebaja en Proficare BHT 3015 - Set de Cortapelo  a en Amazon'
 date: 2019/12/20 06:09:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41SLGRH1jzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SLGRH1jzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BVVGF9P

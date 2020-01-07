@@ -2,7 +2,7 @@
 layout: post
 title: 'B079VR2SYQ - Ofertón en Amazon para Artist Fabrica Monstruosa Slime  BIZAK 6'
 date: 2020-01-07 12:56:38
-image: https://images-eu.ssl-images-amazon.com/images/I/51GN7gtJQqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GN7gtJQqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

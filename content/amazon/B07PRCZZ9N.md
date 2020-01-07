@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PRCZZ9N - Ofertón en Amazon para Playtex Soutien-Gorge Emboitant Avec Arm'
 date: 2020-01-05 11:13:39
-image: https://images-eu.ssl-images-amazon.com/images/I/51d0xmSbsbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51d0xmSbsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

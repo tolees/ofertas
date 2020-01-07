@@ -3,7 +3,7 @@ layout: post
 title: 'B07B9CS3VL: Ahorra en The North Face Horizon Pantalón Converti'
 date: 2019/12/17 13:44:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/310YvHyLlPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310YvHyLlPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B9CS3VL

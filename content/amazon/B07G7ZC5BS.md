@@ -3,7 +3,7 @@ layout: post
 title: 'B07G7ZC5BS: Ahorra en Wilbest Cartera Hombre  Billetera Hombre'
 date: 2019/12/28 10:35:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51F8LrWvdlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51F8LrWvdlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G7ZC5BS

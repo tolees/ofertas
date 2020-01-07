@@ -3,7 +3,7 @@ layout: post
 title: 'B07TFCWZ6T: Rebaja en YABER Arrancador de Coches 13800mAh 1000 en Amazon'
 date: 2020-01-04 06:32:48
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41AtnukH7dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AtnukH7dL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TFCWZ6T

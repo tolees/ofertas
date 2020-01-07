@@ -3,7 +3,7 @@ layout: post
 title: 'B00E20KOBY: Ahorra en Vogel s BASE 05 L  Ultra fuerte soporte '
 date: 2019/12/17 20:16:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31F5Mf8XynL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F5Mf8XynL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00E20KOBY

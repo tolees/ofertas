@@ -3,7 +3,7 @@ layout: post
 title: 'B07MLSVC3W: Ahorra en Clarks Arla Free  Zapatos de Cordones De'
 date: 2020-01-04 09:38:25
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31PUDrtsvAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31PUDrtsvAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MLSVC3W

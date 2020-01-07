@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MNZKLJG - Ofertón en Amazon para Lacoste Th8550 Camiseta  Azul  Marine 16'
 date: 2020-01-07 09:54:20
-image: https://images-eu.ssl-images-amazon.com/images/I/414RfMSOamL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414RfMSOamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01FKL2H9K - Ofertón en Amazon para Revlon Ultra HD Pintalabios Mate  Crush '
 date: 2019/12/11 10:20:37 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31QULJ-lCGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QULJ-lCGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

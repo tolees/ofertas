@@ -3,7 +3,7 @@ layout: post
 title: 'B0771GLCZL: Ahorra en Eastpak Tranverz Maleta  51 cm  42 L  co'
 date: 2019/12/13 14:15:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0771GLCZL

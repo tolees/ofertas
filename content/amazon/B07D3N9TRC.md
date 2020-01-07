@@ -3,7 +3,7 @@ layout: post
 title: 'B07D3N9TRC: Rebaja en Turtle Beach Stealth 300 Auriculares Gam en Amazon'
 date: 2019/12/11 19:57:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41K8u510ZrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41K8u510ZrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D3N9TRC

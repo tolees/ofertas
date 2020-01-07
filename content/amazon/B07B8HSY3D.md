@@ -3,7 +3,7 @@ layout: post
 title: 'B07B8HSY3D: Rebaja en BGT 10 Unidades/Set Juego de Utensilios  en Amazon'
 date: 2019/12/25 10:57:44 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51TCD9MngxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TCD9MngxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B8HSY3D

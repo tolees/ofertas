@@ -3,7 +3,7 @@ layout: post
 title: 'B07THZZQ91: Ahorra en BRA Advanced Cacerola baja 28 cm  alumin'
 date: 2019/12/19 10:02:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31wgTa3KzBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wgTa3KzBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07THZZQ91

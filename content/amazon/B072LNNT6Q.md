@@ -2,7 +2,7 @@
 layout: post
 title: 'B072LNNT6Q - Ofertón en Amazon para Crocs Electro III Clog Kids  Unisex Niño'
 date: 2019/12/11 18:32:35 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41NjXqlYmrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NjXqlYmrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

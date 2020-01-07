@@ -2,7 +2,7 @@
 layout: post
 title: 'B01LZFRIU9 - Ofertón en Amazon para Funko Vi Figura de Vinilo  colección de '
 date: 2020-01-06 14:29:12
-image: https://images-eu.ssl-images-amazon.com/images/I/41G010Nb6vL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41G010Nb6vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

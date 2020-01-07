@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Q14HPKL - Ofertón en Amazon para Crossmen Eau de Toilette Sport para Homb'
 date: 2020-01-05 09:03:31
-image: https://images-eu.ssl-images-amazon.com/images/I/41pQ46SK2yL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pQ46SK2yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

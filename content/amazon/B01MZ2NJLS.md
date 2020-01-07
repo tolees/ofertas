@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MZ2NJLS - Ofertón en Amazon para TR Turn Raise Cuadro Médico Conjunto Enf'
 date: 2019/12/16 21:35:33 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51Gy4jrrW5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Gy4jrrW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

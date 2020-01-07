@@ -3,7 +3,7 @@ layout: post
 title: 'B07NDBGW4F: Rebaja en LEGO 41165 Disney Frozen II Anna s Canoe en Amazon'
 date: 2019/12/17 16:59:52 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51uhQCPb9iL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uhQCPb9iL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDBGW4F

@@ -3,7 +3,7 @@ layout: post
 title: 'B07W14DXJV: Ahorra en Citadel Forged with Fire - PS4'
 date: 2020-01-04 08:56:58
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51TN3Zekb-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51TN3Zekb-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07W14DXJV

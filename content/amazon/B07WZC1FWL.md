@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WZC1FWL - Ofertón en Amazon para Asbww | Dron GPS con Cámara Full HD 1080'
 date: 2019/12/23 09:35:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41meCze8lUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41meCze8lUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B000BZ6BXE - Ofertón en Amazon para Bodum 1446-01 Milchschäumer mit Glasgrif'
 date: 2019/12/29 14:29:07 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Wl6DfnOSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Wl6DfnOSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

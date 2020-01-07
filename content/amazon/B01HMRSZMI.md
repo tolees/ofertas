@@ -3,7 +3,7 @@ layout: post
 title: 'B01HMRSZMI: Ahorra en The North Face S/S Simple Dome H Camiset'
 date: 2019/12/20 16:08:45 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419iPnyt8BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419iPnyt8BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01HMRSZMI

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MFVLYF6 - Ofertón en Amazon para Pikolinos Cadaques para Mujer'
 date: 2019/12/24 07:48:05 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41th5cIhX-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41th5cIhX-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

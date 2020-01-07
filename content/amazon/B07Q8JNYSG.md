@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q8JNYSG: Rebaja en Anoopsyche Hub USB Tipo C 10 en 1  Alumi en Amazon'
 date: 2019/12/24 16:30:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41CWGkI2MAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CWGkI2MAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q8JNYSG

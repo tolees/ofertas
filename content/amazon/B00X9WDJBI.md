@@ -2,7 +2,7 @@
 layout: post
 title: 'B00X9WDJBI - Ofertón en Amazon para L Oreal Paris Dermo Expertise Crema de D'
 date: 2019/12/31 12:29:04 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31ciMh2CDLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ciMh2CDLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

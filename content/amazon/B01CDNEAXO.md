@@ -2,7 +2,7 @@
 layout: post
 title: 'B01CDNEAXO - Ofertón en Amazon para Sony PS-HX500 Plattenspieler  High-Resol'
 date: 2019/12/18 22:36:43 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41yIFCQpUbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yIFCQpUbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

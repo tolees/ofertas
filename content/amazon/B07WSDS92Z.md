@@ -3,7 +3,7 @@ layout: post
 title: 'B07WSDS92Z: Ahorra en Luz Solar Exterior  Ekrist【Iluminación d'
 date: 2020-01-05 14:43:47
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51FgVwSgPoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FgVwSgPoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WSDS92Z

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DJ34FZT - Ofertón en Amazon para New Balance 411  Zapatillas de Running p'
 date: 2020-01-02 01:32:39
-image: https://images-eu.ssl-images-amazon.com/images/I/41QEsZr%2BuOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QEsZr%2BuOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

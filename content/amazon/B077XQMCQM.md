@@ -3,7 +3,7 @@ layout: post
 title: 'B077XQMCQM: Ahorra en Under Armour UA Tech Graphic Short Panta'
 date: 2019/12/21 17:46:52 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41wHP27--8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wHP27--8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077XQMCQM

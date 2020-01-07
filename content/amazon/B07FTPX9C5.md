@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FTPX9C5 - Ofertón en Amazon para Lee SS Western Camisa  Marfil  Blueprint'
 date: 2019/12/26 10:40:59 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i0LjdXFzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

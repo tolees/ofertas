@@ -2,7 +2,7 @@
 layout: post
 title: 'B07N5ZCBHL - Ofertón en Amazon para AINOYA Protector de Pantalla para Huawei'
 date: 2019/12/11 09:31:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51z%2BEz6I7CL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51z%2BEz6I7CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

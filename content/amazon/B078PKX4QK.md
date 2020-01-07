@@ -3,7 +3,7 @@ layout: post
 title: 'B078PKX4QK: Rebaja en D-Link DAP-1610 - Repetidor WiFi AC1200  en Amazon'
 date: 2019/12/21 01:14:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31VNFeVSi3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VNFeVSi3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078PKX4QK

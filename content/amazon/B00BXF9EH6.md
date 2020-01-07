@@ -3,7 +3,7 @@ layout: post
 title: 'B00BXF9EH6: Rebaja en Piz Buin Piz Buin Wet Skin Transparent S en Amazon'
 date: 2019/12/14 19:42:18 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31z7MoQyn4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z7MoQyn4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BXF9EH6

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MXXIR3U - Ofertón en Amazon para Under Armour UA W Thrill 3  Zapatillas d'
 date: 2019-12-31 15:12:11
-image: https://images-eu.ssl-images-amazon.com/images/I/41Bbcguz-lL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bbcguz-lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

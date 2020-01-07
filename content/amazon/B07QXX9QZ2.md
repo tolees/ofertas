@@ -3,7 +3,7 @@ layout: post
 title: 'B07QXX9QZ2: Ahorra en XLTOK Cable USB Tipo C  Cable USB C [ 3P'
 date: 2019/12/20 20:02:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41quLeFtJVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41quLeFtJVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QXX9QZ2

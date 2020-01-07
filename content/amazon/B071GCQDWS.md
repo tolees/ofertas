@@ -3,7 +3,7 @@ layout: post
 title: 'B071GCQDWS: Rebaja en Brandit Ripstop Trouser M65-Pantalones M en Amazon'
 date: 2019/12/18 15:36:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41E9rkYxSNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E9rkYxSNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071GCQDWS

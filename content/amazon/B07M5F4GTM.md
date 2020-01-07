@@ -2,7 +2,7 @@
 layout: post
 title: 'B07M5F4GTM - Ofertón en Amazon para Wrangler Logo Hoodie Capucha  Gris  Dark'
 date: 2019/12/15 16:35:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

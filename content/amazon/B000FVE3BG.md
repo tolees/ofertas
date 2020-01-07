@@ -2,7 +2,7 @@
 layout: post
 title: 'B000FVE3BG - Ofertón en Amazon para Invicta 3329 I-Force Reloj para Hombre a'
 date: 2019/12/12 21:43:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51p98zzApYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51p98zzApYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

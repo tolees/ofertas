@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PSMQRY7 - Ofertón en Amazon para PUMA Weave XT Wn s  Zapatillas Deportiva'
 date: 2019/12/16 18:56:04 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Y9GX%2BnYkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y9GX%2BnYkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

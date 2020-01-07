@@ -3,7 +3,7 @@ layout: post
 title: 'B016QAKJVC: Rebaja en adidas Parma 16 SHO Sport Shorts  Hombre en Amazon'
 date: 2019/12/12 21:27:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B016QAKJVC

@@ -2,7 +2,7 @@
 layout: post
 title: 'B073K1TZLL - Ofertón en Amazon para Reebok Royal Complete Bs7343  Zapatillas'
 date: 2019/12/12 19:13:30 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41NDXcJdgWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NDXcJdgWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

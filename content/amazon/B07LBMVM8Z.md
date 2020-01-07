@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBMVM8Z: Ahorra en Kappa 242373-1611  Botas de Invierno Cue'
 date: 2019/12/29 18:25:46 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41PWH-ipbTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PWH-ipbTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LBMVM8Z

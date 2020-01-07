@@ -3,7 +3,7 @@ layout: post
 title: 'B004X4KVXA: Rebaja en Braun BN0024WHBKG - Reloj analógico de c en Amazon'
 date: 2019/12/15 06:28:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ukYj0%2BpRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ukYj0%2BpRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004X4KVXA

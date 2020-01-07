@@ -3,7 +3,7 @@ layout: post
 title: 'B07FVMVC7D: Rebaja en Lomvum Medidor Laser de Distancia  50M P en Amazon'
 date: 2020-01-05 23:23:50
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418roTPBW2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418roTPBW2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FVMVC7D

@@ -3,7 +3,7 @@ layout: post
 title: 'B078GMZ9PQ: Ahorra en Jabra Elite 65t - Auriculares inalámbric'
 date: 2019/12/23 21:59:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411NEXAY0EL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411NEXAY0EL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078GMZ9PQ

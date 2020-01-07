@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FNFFFMN - Ofertón en Amazon para REPLAY M4001 .000.41b 337 Camisa Vaquera'
 date: 2019/12/17 17:15:19 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2B3oLV70WL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B3oLV70WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

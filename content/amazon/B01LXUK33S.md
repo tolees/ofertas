@@ -3,7 +3,7 @@ layout: post
 title: 'B01LXUK33S: Ahorra en DKNY Intimates Classic Lace Unlined Suje'
 date: 2019/12/19 08:28:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51pAB-H9b5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pAB-H9b5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LXUK33S

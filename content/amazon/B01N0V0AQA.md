@@ -2,7 +2,7 @@
 layout: post
 title: 'B01N0V0AQA - Ofertón en Amazon para Asus Intel H270 LGA-1151 ATX - Placa con'
 date: 2019/12/27 07:31:33 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51GPp6i%2BL%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GPp6i%2BL%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

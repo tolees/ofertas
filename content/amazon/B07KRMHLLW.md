@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRMHLLW: Rebaja en New Balance 373  Zapatillas para Mujer   en Amazon'
 date: 2019/12/28 11:13:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41jLzySOs-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jLzySOs-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KRMHLLW

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07NW6WMGD - Ofertón en Amazon para Dodot Aqua Pure Toallitas Bebé con 99% A'
 date: 2020-01-07 14:35:09
-image: https://images-eu.ssl-images-amazon.com/images/I/51ZLLg-mGsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZLLg-mGsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01MA23BDC: Ahorra en Geox D Yuki A  Mocasines para Mujer  Azu'
 date: 2019/12/13 19:33:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Nm3IAnWjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nm3IAnWjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MA23BDC

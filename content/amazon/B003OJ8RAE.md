@@ -3,7 +3,7 @@ layout: post
 title: 'B003OJ8RAE: Ahorra en Eastpak Padded Pak R Mochila  24 L  Gris'
 date: 2019/12/13 20:21:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51eU1wzfeHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eU1wzfeHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B003OJ8RAE

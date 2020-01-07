@@ -3,7 +3,7 @@ layout: post
 title: 'B00JEEEQJY: Ahorra en MARTIDERM Photo-Age 10 ampollas'
 date: 2019/12/18 01:51:52 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/319TpGWk15L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319TpGWk15L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JEEEQJY

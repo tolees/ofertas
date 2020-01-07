@@ -3,7 +3,7 @@ layout: post
 title: 'B07SZKZCWJ: Rebaja en IWAVION Cable Lightning 3ft/1m 4pack Cab en Amazon'
 date: 2019/12/24 13:55:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51U7FZo%2B9dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51U7FZo%2B9dL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SZKZCWJ

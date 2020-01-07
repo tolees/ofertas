@@ -3,7 +3,7 @@ layout: post
 title: 'B07RJYT9K3: Rebaja en Levadura Roja de Arroz Concentrada 10mg  en Amazon'
 date: 2019/12/17 10:21:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51dntN482KL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dntN482KL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RJYT9K3

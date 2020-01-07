@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XFM8NC1 - Ofertón en Amazon para Willful Impermeable Pulsera Inteligente '
 date: 2019/12/24 17:11:35 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/415zTdqD4jL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415zTdqD4jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

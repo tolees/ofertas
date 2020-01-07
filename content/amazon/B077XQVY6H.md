@@ -3,7 +3,7 @@ layout: post
 title: 'B077XQVY6H: Ahorra en Under Armour Rival Fleece Crew Parte Sup'
 date: 2019/12/25 18:28:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31Piy7LnZ%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Piy7LnZ%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077XQVY6H

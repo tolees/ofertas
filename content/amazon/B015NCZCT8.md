@@ -3,7 +3,7 @@ layout: post
 title: 'B015NCZCT8: Rebaja en Aigostar Queen 30CDZ - Hervidor de agua  en Amazon'
 date: 2020-01-04 18:04:04
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41sXwx6oEDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sXwx6oEDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B015NCZCT8

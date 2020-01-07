@@ -3,7 +3,7 @@ layout: post
 title: 'B07KCVY9R2: Ahorra en Bolsas caca perro  Bolsas para excrement'
 date: 2019/12/24 07:51:34 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51z7XBX7UgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51z7XBX7UgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KCVY9R2

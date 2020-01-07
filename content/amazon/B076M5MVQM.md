@@ -3,7 +3,7 @@ layout: post
 title: 'B076M5MVQM: Ahorra en Olay Total Effects 7en1 Anti-Edad Reafir'
 date: 2020-01-02 13:12:07
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51sruMLchOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sruMLchOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076M5MVQM

@@ -3,7 +3,7 @@ layout: post
 title: 'B07FQC1B6J: Rebaja en JACK & JONES Jjitim Jjoriginal Am 781 50 en Amazon'
 date: 2019/12/12 13:52:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTzeUveML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FQC1B6J

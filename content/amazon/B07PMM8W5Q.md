@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PMM8W5Q - Ofertón en Amazon para Auriculares Bluetooth 5.0  Manos Libres '
 date: 2019/12/15 14:11:07 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41STdmLVwtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41STdmLVwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

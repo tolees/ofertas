@@ -3,7 +3,7 @@ layout: post
 title: 'B082XQPYTM: Rebaja en Zapatillas de Baloncesto para Hombres Da en Amazon'
 date: 2020-01-04 09:30:38
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51xKfDoK-OL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xKfDoK-OL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B082XQPYTM

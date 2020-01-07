@@ -3,7 +3,7 @@ layout: post
 title: 'B07P6WKRWP: Ahorra en YAMAY Pulsera de Actividad Inteligente c'
 date: 2019/12/21 02:15:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41AuJsnMJrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AuJsnMJrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P6WKRWP

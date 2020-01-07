@@ -3,7 +3,7 @@ layout: post
 title: 'B07CJ1H4NC: Rebaja en Levi s Housemark Graphic tee Camiseta  B en Amazon'
 date: 2019/12/17 00:09:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31B7GWZB2qL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31B7GWZB2qL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CJ1H4NC

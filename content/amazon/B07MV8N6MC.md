@@ -3,7 +3,7 @@ layout: post
 title: 'B07MV8N6MC: Ahorra en BRIKSMAX Led Lighting Kit for Harry Pott'
 date: 2020-01-03 06:06:54
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/415xuvbUiML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415xuvbUiML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MV8N6MC

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07PDKNHXK - Ofertón en Amazon para Diaper Backpacks for Baby Bags OSOCE Mul'
 date: 2020-01-01 10:18:53
-image: https://images-eu.ssl-images-amazon.com/images/I/51FPajSm7dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FPajSm7dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

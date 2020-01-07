@@ -3,7 +3,7 @@ layout: post
 title: 'B01MRCBL48: Rebaja en Philips BT9297/15 - Barbero con guía lás en Amazon'
 date: 2019/12/29 18:20:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41IeVxipVaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IeVxipVaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MRCBL48

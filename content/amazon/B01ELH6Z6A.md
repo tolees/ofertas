@@ -3,7 +3,7 @@ layout: post
 title: 'B01ELH6Z6A: Rebaja en J.Rosée Collares Mujer Plata de Ley 925  en Amazon'
 date: 2019/12/22 17:46:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41IJKSGgIhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IJKSGgIhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01ELH6Z6A

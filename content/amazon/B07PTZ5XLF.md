@@ -3,7 +3,7 @@ layout: post
 title: 'B07PTZ5XLF: Rebaja en PUMA Weave XT Wn s  Zapatillas Deportiva en Amazon'
 date: 2019/12/16 09:47:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Y9GX%2BnYkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Y9GX%2BnYkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PTZ5XLF

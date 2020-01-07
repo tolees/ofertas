@@ -3,7 +3,7 @@ layout: post
 title: 'B07MSRJ11J: Ahorra en HP 27fwa - Monitor Full HD de 27"  1920 '
 date: 2019/12/27 12:22:11 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31KvqGEYIIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KvqGEYIIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MSRJ11J

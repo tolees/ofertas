@@ -3,7 +3,7 @@ layout: post
 title: 'B009YQ8BTI: Ahorra en AmazonBasics - Carcasas transparente par'
 date: 2019/12/30 16:50:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31HSGUUSdQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HSGUUSdQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B009YQ8BTI

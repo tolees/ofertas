@@ -3,7 +3,7 @@ layout: post
 title: 'B07X84GJPY: Rebaja en Disney Classic Games: Aladdin and The Li en Amazon'
 date: 2019/12/18 21:42:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51cW%2B8sreML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cW%2B8sreML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07X84GJPY

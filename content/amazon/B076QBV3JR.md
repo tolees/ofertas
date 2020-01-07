@@ -3,7 +3,7 @@ layout: post
 title: 'B076QBV3JR: Ahorra en Tommy Hilfiger Core Stretch Slim Vneck t'
 date: 2019/12/29 09:52:32 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076QBV3JR

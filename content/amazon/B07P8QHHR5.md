@@ -3,7 +3,7 @@ layout: post
 title: 'B07P8QHHR5: Ahorra en VANMASS USB C Hub 8 in 1 Aluminium 3 Chi'
 date: 2019/12/14 14:47:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41k2bXSvcCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41k2bXSvcCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P8QHHR5

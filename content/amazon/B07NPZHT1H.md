@@ -3,7 +3,7 @@ layout: post
 title: 'B07NPZHT1H: Rebaja en Razer Lancehead Wireless - Ratón de jueg en Amazon'
 date: 2019/12/11 19:03:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31vnY%2B1-uKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vnY%2B1-uKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NPZHT1H

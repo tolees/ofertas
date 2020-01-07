@@ -3,7 +3,7 @@ layout: post
 title: 'B07MCLR3Z6: Rebaja en Superzings - Serie 3 - Caja 24 vehículos en Amazon'
 date: 2019/12/29 11:02:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51rvS1dpNOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rvS1dpNOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MCLR3Z6

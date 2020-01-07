@@ -3,7 +3,7 @@ layout: post
 title: 'B01NBR4YOC: Ahorra en Sony MDR-XB550APR - Auriculares de Diade'
 date: 2019/12/17 12:31:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41DJUz4LTUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DJUz4LTUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NBR4YOC

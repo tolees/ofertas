@@ -2,7 +2,7 @@
 layout: post
 title: 'B07VKKZXH1 - Ofertón en Amazon para memumi Soporte de Portátil Ajustable par'
 date: 2019/12/21 23:05:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41rh5X-2P0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rh5X-2P0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

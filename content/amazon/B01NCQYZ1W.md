@@ -2,7 +2,7 @@
 layout: post
 title: 'B01NCQYZ1W - Ofertón en Amazon para Vans Herren Classic T - Shirt  Rot  Burg'
 date: 2019/12/16 23:38:18 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41C4OmL-TFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C4OmL-TFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

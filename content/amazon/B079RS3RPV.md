@@ -3,7 +3,7 @@ layout: post
 title: 'B079RS3RPV: Ahorra en Funko- Avengers Infinity War Iron Spider'
 date: 2019/12/13 23:54:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41QCQxYR1HL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QCQxYR1HL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079RS3RPV

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07BVSFNXT - Ofertón en Amazon para seQoya · Volcano | Reloj de Piedra Hecho'
 date: 2019/12/21 15:29:10 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41nGbjCCzBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nGbjCCzBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

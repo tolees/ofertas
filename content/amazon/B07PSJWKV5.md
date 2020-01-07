@@ -3,7 +3,7 @@ layout: post
 title: 'B07PSJWKV5: Ahorra en deAO Mi Pequeño Chef Cocinita de Juguete'
 date: 2019/12/13 16:25:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51JZ1J2qDLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51JZ1J2qDLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PSJWKV5

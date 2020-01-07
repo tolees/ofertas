@@ -3,7 +3,7 @@ layout: post
 title: 'B075FMG7KP: Ahorra en Exprimidor de limón  Exprimidor de Naran'
 date: 2020-01-02 21:41:38
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419pxMszlYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419pxMszlYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075FMG7KP

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01IB6JRY4 - Ofertón en Amazon para New Look Tokyo Airtex  Camiseta sin Mang'
 date: 2019/12/11 09:59:50 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41szfoY3BJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41szfoY3BJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

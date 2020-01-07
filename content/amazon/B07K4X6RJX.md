@@ -3,7 +3,7 @@ layout: post
 title: 'B07K4X6RJX: Ahorra en Lightailing Light Set for  Architecture '
 date: 2019/12/19 15:27:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/519z7N3i9rL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519z7N3i9rL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K4X6RJX

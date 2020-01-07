@@ -3,7 +3,7 @@ layout: post
 title: 'B07MNB1MY5: Ahorra en MTNG 69439  Zapatillas para Mujer  Rosa '
 date: 2019/12/16 14:43:34 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/3198e49XG4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3198e49XG4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MNB1MY5

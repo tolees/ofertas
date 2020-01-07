@@ -3,7 +3,7 @@ layout: post
 title: 'B07XHHSTFZ: Ahorra en HolyHigh Auriculares Inalámbricos Blueto'
 date: 2019/12/19 12:00:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41jOGRlxDSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jOGRlxDSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XHHSTFZ

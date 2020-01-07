@@ -3,7 +3,7 @@ layout: post
 title: 'B075R7CFLK: Rebaja en New Balance Minimus 40  Zapatillas de Cr en Amazon'
 date: 2020-01-07 09:54:24
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Azw5K2F2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Azw5K2F2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075R7CFLK

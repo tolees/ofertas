@@ -3,7 +3,7 @@ layout: post
 title: 'B07NZ2DGDX: Ahorra en Superdry Workwear L/s Shirt Camisa  Rojo'
 date: 2019/12/24 11:52:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41r%2BlhSymtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BlhSymtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NZ2DGDX

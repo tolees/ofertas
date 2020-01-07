@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9NVPJL: Rebaja en Lacoste Carnaby EVO 319 1 SUI  Zapatilla en Amazon'
 date: 2020-01-06 10:31:57
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9NVPJL

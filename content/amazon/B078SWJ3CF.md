@@ -3,7 +3,7 @@ layout: post
 title: 'B078SWJ3CF: Ahorra en SanDisk Extreme  Portable SSD  hasta 550'
 date: 2020-01-05 09:55:40
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51g9mmCHIDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51g9mmCHIDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078SWJ3CF

@@ -2,7 +2,7 @@
 layout: post
 title: 'B079T7JLKL - Ofertón en Amazon para Timex Reloj Cronógrafo para Hombre de Cu'
 date: 2020-01-03 21:38:31
-image: https://images-eu.ssl-images-amazon.com/images/I/415IbJjDK3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415IbJjDK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

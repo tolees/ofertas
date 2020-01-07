@@ -2,7 +2,7 @@
 layout: post
 title: 'B07B69SLMB - Ofertón en Amazon para Nokia 8 Sirocco 128 GB UK SIM-Free Smart'
 date: 2019/12/24 15:34:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41mEhcCTGML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mEhcCTGML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

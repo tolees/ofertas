@@ -3,7 +3,7 @@ layout: post
 title: 'B07F2LNFHT: Ahorra en Helly Hansen Hp Fleece Jacket  Chaqueta '
 date: 2019/12/19 13:49:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Qv9bAj-hL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Qv9bAj-hL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F2LNFHT

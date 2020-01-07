@@ -3,7 +3,7 @@ layout: post
 title: 'B01AU3XG7A: Ahorra en hummel - Sudadera para Hombre Core 1/2 Z'
 date: 2019/12/27 08:20:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41As3u9srkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41As3u9srkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AU3XG7A

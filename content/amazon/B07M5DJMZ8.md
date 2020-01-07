@@ -3,7 +3,7 @@ layout: post
 title: 'B07M5DJMZ8: Ahorra en Lee Basic Belt Cinturón  Marrón  Dark Br'
 date: 2019/12/21 20:02:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41OPFiuawzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OPFiuawzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07M5DJMZ8

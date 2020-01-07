@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9HZ4QW: Rebaja en Under Armour Rival Fleece Sportstyle LC  en Amazon'
 date: 2019/12/18 10:58:32 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41FPDy1TRwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FPDy1TRwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9HZ4QW

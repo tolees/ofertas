@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FKN7J6P - Ofertón en Amazon para Joma Marsella Camisetas Equip. M/C  Homb'
 date: 2019/12/28 19:44:23 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31JqaPuir1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JqaPuir1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

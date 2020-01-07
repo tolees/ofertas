@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MZPPVB1 - Ofertón en Amazon para Funko- Pop Vinilo: Spongebob Squarepants'
 date: 2019/12/14 16:48:40 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41TQOqjWeML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TQOqjWeML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01N1SMBBN: Ahorra en find. 13646 vestido fiesta mujer  Negro '
 date: 2020-01-02 13:14:22
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31e%2BHFtcxtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31e%2BHFtcxtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N1SMBBN

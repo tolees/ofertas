@@ -3,7 +3,7 @@ layout: post
 title: 'B07NTSXTTF: Rebaja en Cable USB C a HDMI  Cable Tipo C 3.1 a H en Amazon'
 date: 2019/12/27 16:03:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41NK%2Bdb1CrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41NK%2Bdb1CrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NTSXTTF

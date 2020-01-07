@@ -2,7 +2,7 @@
 layout: post
 title: 'B07BR7DRT5 - Ofertón en Amazon para Precision LNFS 18'
 date: 2020-01-02 19:41:10
-image: https://images-eu.ssl-images-amazon.com/images/I/41buAVY1GwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41buAVY1GwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07K1JYPN8: Rebaja en LIGHTAILING Light Set For   Expert Detec en Amazon'
 date: 2019/12/13 04:40:28 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ehCkaegaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ehCkaegaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K1JYPN8

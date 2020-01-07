@@ -3,7 +3,7 @@ layout: post
 title: 'B077XTCQL2: Ahorra en Under Armour Heatgear Armour Leggings  M'
 date: 2019/12/15 13:53:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41krMhLR-1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41krMhLR-1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077XTCQL2

@@ -3,7 +3,7 @@ layout: post
 title: 'B0781VSSZF: Rebaja en adidas Originals X_PLR  Zapatillas Texti en Amazon'
 date: 2019/12/25 20:29:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51D6Aw2OMxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51D6Aw2OMxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0781VSSZF

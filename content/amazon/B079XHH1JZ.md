@@ -3,7 +3,7 @@ layout: post
 title: 'B079XHH1JZ: Ahorra en Samsung Smartphone Galaxy S9  Single Sim'
 date: 2019/12/21 10:52:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/314CRHTWT9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314CRHTWT9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079XHH1JZ

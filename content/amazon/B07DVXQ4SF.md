@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DVXQ4SF - Ofertón en Amazon para BelleStyle Alfombra Musical - Musical Ca'
 date: 2019/12/30 17:27:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51UIVpW5b1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UIVpW5b1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

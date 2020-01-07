@@ -3,7 +3,7 @@ layout: post
 title: 'B06XQ2XJR4: Ahorra en find. Woven Jogger Pantalones para Mujer'
 date: 2019/12/23 09:54:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41tXBXW5RjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tXBXW5RjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XQ2XJR4

@@ -3,7 +3,7 @@ layout: post
 title: 'B07PW35CYM: Rebaja en New Look Powder Super Vaqueros Pitillo H en Amazon'
 date: 2019/12/30 16:32:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31bjvJ9CXcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bjvJ9CXcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PW35CYM

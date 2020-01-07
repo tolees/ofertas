@@ -3,7 +3,7 @@ layout: post
 title: 'B07F6VZKZ8: Ahorra en Salomon Agile 2 Set Mochila para Carrera'
 date: 2019/12/27 19:13:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/5135Vwj8wXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5135Vwj8wXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F6VZKZ8

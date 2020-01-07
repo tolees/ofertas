@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQG44NZ: Rebaja en Salomon ALPHACROSS W  Zapatillas de Trai en Amazon'
 date: 2019/12/16 13:40:23 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQG44NZ

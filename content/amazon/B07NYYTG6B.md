@@ -3,7 +3,7 @@ layout: post
 title: 'B07NYYTG6B: Rebaja en Krups Quattro Force Arabica Latte EA819E en Amazon'
 date: 2019/12/20 01:33:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41iLQ4DMhJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iLQ4DMhJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NYYTG6B

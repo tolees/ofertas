@@ -3,7 +3,7 @@ layout: post
 title: 'B07X9JBXVQ: Rebaja en Parfois - Mochila Detalles Efecto Ante - en Amazon'
 date: 2020-01-07 12:35:21
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31T6lwBZ1gL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07X9JBXVQ

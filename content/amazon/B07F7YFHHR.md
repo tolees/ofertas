@@ -3,7 +3,7 @@ layout: post
 title: 'B07F7YFHHR: Rebaja en Ferilinso Funda para Xiaomi Redmi Note 6 en Amazon'
 date: 2020-01-02 13:25:22
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41c1w0vtu-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41c1w0vtu-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F7YFHHR

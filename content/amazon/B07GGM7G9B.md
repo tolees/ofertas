@@ -3,7 +3,7 @@ layout: post
 title: 'B07GGM7G9B: Ahorra en ghd Platinum+ White Styler - Plancha par'
 date: 2019/12/30 15:06:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GGM7G9B

@@ -3,7 +3,7 @@ layout: post
 title: 'B07JXHQWSF: Rebaja en Playmobil 70007 Top Agents Team S.H.A.R. en Amazon'
 date: 2019/12/30 23:14:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61-sHFV%2BzML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61-sHFV%2BzML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JXHQWSF

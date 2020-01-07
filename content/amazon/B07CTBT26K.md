@@ -3,7 +3,7 @@ layout: post
 title: 'B07CTBT26K: Rebaja en Sierra de Calar  TECCPO 800W 3000SPM  Co en Amazon'
 date: 2019/12/31 10:55:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51sfopkOaGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sfopkOaGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CTBT26K

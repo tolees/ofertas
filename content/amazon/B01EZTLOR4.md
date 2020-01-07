@@ -2,7 +2,7 @@
 layout: post
 title: 'B01EZTLOR4 - Ofertón en Amazon para Ozone OZNEON3K - Ratón Gaming 3K Neon'
 date: 2019/12/18 06:40:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31BqJ5YBaQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BqJ5YBaQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

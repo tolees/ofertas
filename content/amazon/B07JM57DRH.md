@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JM57DRH - Ofertón en Amazon para PLAYMOBIL Magic 70094 Korallenpavillon m'
 date: 2020-01-03 23:07:29
-image: https://images-eu.ssl-images-amazon.com/images/I/61jlSweHfHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61jlSweHfHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

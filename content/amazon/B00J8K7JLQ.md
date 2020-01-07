@@ -2,7 +2,7 @@
 layout: post
 title: 'B00J8K7JLQ - Ofertón en Amazon para Bourjois Velvet Barra de Labios Líquida '
 date: 2019/12/19 22:38:02 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41xhXWW-xNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xhXWW-xNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

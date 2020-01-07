@@ -2,7 +2,7 @@
 layout: post
 title: 'B07M7PCDF9 - Ofertón en Amazon para Our World is Ended - Day One Edition'
 date: 2019/12/28 11:41:26 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61U1qcR3CuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

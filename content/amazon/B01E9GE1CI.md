@@ -2,7 +2,7 @@
 layout: post
 title: 'B01E9GE1CI - Ofertón en Amazon para La popelín de poliéster Lino Rectangular'
 date: 2019/12/18 07:51:36 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31n4KhmKWML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31n4KhmKWML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

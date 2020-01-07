@@ -3,7 +3,7 @@ layout: post
 title: 'B07MTGCV3J: Rebaja en Under Armour Rival Fleece Sportstyle Log en Amazon'
 date: 2019/12/21 07:56:01 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41aFfUrwfhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aFfUrwfhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MTGCV3J

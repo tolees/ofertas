@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Y8FRXD8 - Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO Harle'
 date: 2019/12/13 23:12:36 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51QWIlBp%2B1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QWIlBp%2B1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

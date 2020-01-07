@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MNZKT9Y - Ofertón en Amazon para Lacoste Af8785 suéter  Negro  Noir 031  '
 date: 2019/12/17 09:33:00 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41pVNMdct6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pVNMdct6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

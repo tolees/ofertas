@@ -3,7 +3,7 @@ layout: post
 title: 'B01KHU9O6S: Rebaja en sitengle Mujeres Elegante Camisetas de E en Amazon'
 date: 2020-01-06 20:13:09
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51NkDDIN7AL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NkDDIN7AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01KHU9O6S

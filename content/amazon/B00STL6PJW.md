@@ -2,7 +2,7 @@
 layout: post
 title: 'B00STL6PJW - Ofertón en Amazon para Hasbro Gaming Gaming Clasico Pictureka  '
 date: 2020-01-03 11:08:58
-image: https://images-eu.ssl-images-amazon.com/images/I/51jrQFowofL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jrQFowofL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

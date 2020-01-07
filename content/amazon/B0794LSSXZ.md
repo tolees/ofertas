@@ -3,7 +3,7 @@ layout: post
 title: 'B0794LSSXZ: Rebaja en Bandai - Prodigiosa: Las aventuras de La en Amazon'
 date: 2019/12/13 11:32:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41hb%2BbkvjaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hb%2BbkvjaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0794LSSXZ

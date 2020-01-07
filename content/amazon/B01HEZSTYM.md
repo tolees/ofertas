@@ -2,7 +2,7 @@
 layout: post
 title: 'B01HEZSTYM - Ofertón en Amazon para Hugo Boss 1513369 - Reloj analogico para'
 date: 2019/12/13 01:17:01 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41tBhKAE3FL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tBhKAE3FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

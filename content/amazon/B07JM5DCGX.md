@@ -3,7 +3,7 @@ layout: post
 title: 'B07JM5DCGX: Rebaja en Playmobil 70146 City Life Mitnehm-Tierkl en Amazon'
 date: 2020-01-05 22:39:43
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51tiyfMPGZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tiyfMPGZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JM5DCGX

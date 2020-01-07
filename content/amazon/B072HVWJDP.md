@@ -3,7 +3,7 @@ layout: post
 title: 'B072HVWJDP: Ahorra en Withings Steel Reloj  Unisex Adulto  Neg'
 date: 2019/12/13 10:54:21 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31DSo2Dj%2B8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31DSo2Dj%2B8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072HVWJDP

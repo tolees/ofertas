@@ -3,7 +3,7 @@ layout: post
 title: 'B07QR3P8SX: Ahorra en Nautica Reloj Analógico para Hombre de C'
 date: 2019/12/11 04:28:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GCYQQgQdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GCYQQgQdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QR3P8SX

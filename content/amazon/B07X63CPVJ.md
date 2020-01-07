@@ -3,7 +3,7 @@ layout: post
 title: 'B07X63CPVJ: Rebaja en Amazon Fire TV Stick con mando por voz A en Amazon'
 date: 2019/12/30 12:47:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41VgRUeOA7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VgRUeOA7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07X63CPVJ

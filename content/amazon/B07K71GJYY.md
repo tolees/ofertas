@@ -2,7 +2,7 @@
 layout: post
 title: 'B07K71GJYY - Ofertón en Amazon para Levi s 502 Regular Taper Vaqueros  Azul '
 date: 2019/12/17 18:03:28 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41ycjtJzjcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ycjtJzjcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

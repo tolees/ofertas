@@ -3,7 +3,7 @@ layout: post
 title: 'B07F86FNFT: Rebaja en Superga 2750 COTU Classic  Zapatillas Un en Amazon'
 date: 2019/12/12 13:33:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41E1j9fNG0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E1j9fNG0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F86FNFT

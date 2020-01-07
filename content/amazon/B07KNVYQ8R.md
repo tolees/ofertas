@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KNVYQ8R - Ofertón en Amazon para HP Envy 5010 - Impresora multifunción  W'
 date: 2020-01-04 13:17:53
-image: https://images-eu.ssl-images-amazon.com/images/I/31bzCFV3ZlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31bzCFV3ZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

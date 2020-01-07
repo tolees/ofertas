@@ -3,7 +3,7 @@ layout: post
 title: 'B000H3EPSS: Ahorra en Revlon Super Lustrous Pintalabios  Black'
 date: 2019/12/18 19:15:02 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31oPs6Zj4vL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31oPs6Zj4vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000H3EPSS

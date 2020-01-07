@@ -3,7 +3,7 @@ layout: post
 title: 'B07GCBKS6P: Ahorra en Puma ESS Logo tee T-Shirt  Hombre  Mediu'
 date: 2019/12/16 10:27:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41xG1pn8B2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xG1pn8B2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GCBKS6P

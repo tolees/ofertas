@@ -3,7 +3,7 @@ layout: post
 title: 'B07S4TYLRN: Ahorra en Tennis World Tour - Roland-Garros Editio'
 date: 2019/12/21 19:54:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ShGdWAjvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ShGdWAjvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S4TYLRN

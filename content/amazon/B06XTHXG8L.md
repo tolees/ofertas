@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XTHXG8L - Ofertón en Amazon para Pepe Jeans Original Basic S/S PM503835 C'
 date: 2019/12/28 14:32:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41AAS028vFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AAS028vFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

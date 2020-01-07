@@ -2,7 +2,7 @@
 layout: post
 title: 'B0735CDLYF - Ofertón en Amazon para Apple iPad Pro  12 9 Pulgadas y 512 GB c'
 date: 2019/12/18 13:06:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41YYQxWbzuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YYQxWbzuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

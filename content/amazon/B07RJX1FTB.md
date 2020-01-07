@@ -2,7 +2,7 @@
 layout: post
 title: 'B07RJX1FTB - Ofertón en Amazon para Philips Ambilight 55PUS6814/12 139 cm  5'
 date: 2019/12/13 15:37:42 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/4150n%2B6gnVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4150n%2B6gnVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01C8CSTOQ: Rebaja en Grohe Vitalio Start -  Sistema de ducha  en Amazon'
 date: 2020-01-06 01:01:47
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/311XnCd%2BTgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311XnCd%2BTgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01C8CSTOQ

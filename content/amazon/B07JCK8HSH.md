@@ -3,7 +3,7 @@ layout: post
 title: 'B07JCK8HSH: Ahorra en Columbia Alpine Action Chaqueta OH Ski d'
 date: 2019/12/21 10:58:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JCK8HSH

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L9VNCV2 - Ofertón en Amazon para Auriculares Inalámbricos Verdaderos  iHa'
 date: 2020-01-05 21:01:44
-image: https://images-eu.ssl-images-amazon.com/images/I/414NK91qtNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414NK91qtNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

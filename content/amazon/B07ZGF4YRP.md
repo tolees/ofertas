@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZGF4YRP: Rebaja en Proyector  YABER 6500 Lúmenes Proyector  en Amazon'
 date: 2020-01-03 15:35:41
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51rMF4QRgBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rMF4QRgBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZGF4YRP

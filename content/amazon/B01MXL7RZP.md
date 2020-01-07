@@ -3,7 +3,7 @@ layout: post
 title: 'B01MXL7RZP: Ahorra en Starcraft II Battlechest 2.0'
 date: 2019/12/26 18:57:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MXL7RZP

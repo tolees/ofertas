@@ -3,7 +3,7 @@ layout: post
 title: 'B07FH9N3DM: Rebaja en Levi s Damen 314 Shaping Straight Jeans  en Amazon'
 date: 2019/12/17 08:00:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yycm2mPDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yycm2mPDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FH9N3DM

@@ -3,7 +3,7 @@ layout: post
 title: 'B01NAJHFB1: Rebaja en find. Suedette Bomber Chaqueta Mujer  Gr en Amazon'
 date: 2020-01-01 11:28:27
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41xrmvp0mDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xrmvp0mDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NAJHFB1

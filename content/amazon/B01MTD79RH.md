@@ -3,7 +3,7 @@ layout: post
 title: 'B01MTD79RH: Ahorra en Control Xtra Sensation Preservativos - 1'
 date: 2020-01-06 07:39:11
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51s2yk9IFML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s2yk9IFML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MTD79RH

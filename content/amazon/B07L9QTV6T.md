@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L9QTV6T - Ofertón en Amazon para Napapijri Herren Rainforest S PKT Jacke '
 date: 2019/12/13 19:20:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41bltr60DxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bltr60DxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

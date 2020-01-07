@@ -3,7 +3,7 @@ layout: post
 title: 'B075K9TQZP: Rebaja en New Balance 574 Core Zapatillas Hombre   en Amazon'
 date: 2019/12/21 21:03:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075K9TQZP

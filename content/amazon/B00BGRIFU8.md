@@ -2,7 +2,7 @@
 layout: post
 title: 'B00BGRIFU8 - Ofertón en Amazon para Dickie Toys 203462411 - Giant Crane  kab'
 date: 2019/12/13 13:56:27 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/417IFXI0PdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417IFXI0PdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

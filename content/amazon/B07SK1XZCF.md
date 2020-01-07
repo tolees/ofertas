@@ -3,7 +3,7 @@ layout: post
 title: 'B07SK1XZCF: Rebaja en Battery Base for Dot 3rd Generation＆Smar en Amazon'
 date: 2019/12/13 19:45:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/5194GTN9PWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5194GTN9PWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SK1XZCF

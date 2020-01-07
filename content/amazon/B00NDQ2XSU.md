@@ -3,7 +3,7 @@ layout: post
 title: 'B00NDQ2XSU: Rebaja en Irisana Copa Menstrual  Talla L - 1 Unid en Amazon'
 date: 2019/12/11 09:10:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41kfopD4-KL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kfopD4-KL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00NDQ2XSU

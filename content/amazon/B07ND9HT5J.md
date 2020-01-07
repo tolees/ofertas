@@ -3,7 +3,7 @@ layout: post
 title: 'B07ND9HT5J: Rebaja en LEGO Disney Princess - Casa del Árbol En en Amazon'
 date: 2019/12/15 08:49:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51I9Ebz2S6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51I9Ebz2S6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ND9HT5J

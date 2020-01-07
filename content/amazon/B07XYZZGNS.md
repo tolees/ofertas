@@ -3,7 +3,7 @@ layout: post
 title: 'B07XYZZGNS: Ahorra en Smartwatch con Whatsapp Bluetooth Smart '
 date: 2019/12/18 09:40:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/515F2zF73VL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515F2zF73VL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XYZZGNS

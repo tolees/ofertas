@@ -3,7 +3,7 @@ layout: post
 title: 'B07DP3JGDK: Ahorra en Eastpak STAND + Bolsa de viaje  53 cm  3'
 date: 2019/12/29 18:53:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Rocyb1xiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rocyb1xiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DP3JGDK

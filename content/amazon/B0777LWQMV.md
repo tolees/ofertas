@@ -3,7 +3,7 @@ layout: post
 title: 'B0777LWQMV: Ahorra en JACK & JONES Jjifred Jjoriginal CR 033 S'
 date: 2020-01-01 15:01:32
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GWxe8hgAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GWxe8hgAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0777LWQMV

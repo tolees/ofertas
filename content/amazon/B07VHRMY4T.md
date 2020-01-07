@@ -3,7 +3,7 @@ layout: post
 title: 'B07VHRMY4T: Rebaja en 00779 XuanPad en Amazon'
 date: 2019/12/28 16:07:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41OSZlBr3wL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OSZlBr3wL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VHRMY4T

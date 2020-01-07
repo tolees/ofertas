@@ -3,7 +3,7 @@ layout: post
 title: 'B07XHG55ZP: Ahorra en NUBILY Bolso Mujer Bolsos Bandolera para'
 date: 2019/12/13 22:30:19 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41SPyfACFVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SPyfACFVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XHG55ZP

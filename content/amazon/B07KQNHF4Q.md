@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQNHF4Q: Ahorra en Salomon XA Discovery GTX  Zapatillas de '
 date: 2020-01-04 08:50:13
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/417Q3xrJwDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417Q3xrJwDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQNHF4Q

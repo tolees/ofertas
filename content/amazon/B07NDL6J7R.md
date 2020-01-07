@@ -3,7 +3,7 @@ layout: post
 title: 'B07NDL6J7R: Rebaja en G-STAR RAW Graphic 24 Loose Round Neck S en Amazon'
 date: 2020-01-06 19:02:07
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41FkCJM2QbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FkCJM2QbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDL6J7R

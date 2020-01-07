@@ -3,7 +3,7 @@ layout: post
 title: 'B07K7W3XCR: Rebaja en Reebok Rapide Mu  Zapatillas de Gimnasia en Amazon'
 date: 2019/12/27 14:14:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/310lJzY1JzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310lJzY1JzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K7W3XCR

@@ -3,7 +3,7 @@ layout: post
 title: 'B071WMGQ8X: Rebaja en Tommy Hilfiger Herren Straight Jeans Cor en Amazon'
 date: 2019/12/14 00:35:34 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Jnx51gLnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Jnx51gLnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WMGQ8X

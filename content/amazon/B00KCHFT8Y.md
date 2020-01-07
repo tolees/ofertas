@@ -3,7 +3,7 @@ layout: post
 title: 'B00KCHFT8Y: Rebaja en BLEND Jeans-Noos Cirrus Parte de Arriba  en Amazon'
 date: 2019/12/13 15:00:02 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41lN0Gme4bL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lN0Gme4bL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KCHFT8Y

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01CSU7H4Q - Ofertón en Amazon para Joma 900038.350 Camiseta  Mujer  Azul Ce'
 date: 2019/12/27 10:49:51 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Q4FXCBVUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q4FXCBVUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

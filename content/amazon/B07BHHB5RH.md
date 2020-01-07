@@ -3,7 +3,7 @@ layout: post
 title: 'B07BHHB5RH: Rebaja en Soundcore Spirit Bluetooth Kopfhörer  In en Amazon'
 date: 2019/12/29 11:25:09 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31-f-%2BGYKQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-f-%2BGYKQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BHHB5RH

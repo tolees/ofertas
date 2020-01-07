@@ -2,7 +2,7 @@
 layout: post
 title: 'B07GFL5YCT - Ofertón en Amazon para Sony WF-SP900W - Auriculares Deportivos '
 date: 2019/12/17 08:24:39 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31JGAkPr89L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JGAkPr89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

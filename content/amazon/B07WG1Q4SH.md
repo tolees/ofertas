@@ -3,7 +3,7 @@ layout: post
 title: 'B07WG1Q4SH: Rebaja en Yasolote 22M Guirnalda de Luces Solares  en Amazon'
 date: 2020-01-02 17:10:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WG1Q4SH

@@ -2,7 +2,7 @@
 layout: post
 title: 'B074QMVNSM - Ofertón en Amazon para Cecotec Centro de Planchado ForceTitaniu'
 date: 2019/12/28 11:51:32 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41PPWBpDzUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PPWBpDzUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

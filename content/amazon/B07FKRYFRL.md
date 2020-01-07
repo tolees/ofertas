@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FKRYFRL - Ofertón en Amazon para Smart Steckdosenleiste Koogeek Intellige'
 date: 2019/12/27 10:22:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41uefN-rUQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uefN-rUQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

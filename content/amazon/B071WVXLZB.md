@@ -3,7 +3,7 @@ layout: post
 title: 'B071WVXLZB: Rebaja en Braun Series 5 5197 Clean&Charge - Afeit en Amazon'
 date: 2019/12/28 14:09:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/519tD2gc8ZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519tD2gc8ZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WVXLZB

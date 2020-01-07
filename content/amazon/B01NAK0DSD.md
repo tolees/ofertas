@@ -2,7 +2,7 @@
 layout: post
 title: 'B01NAK0DSD - Ofertón en Amazon para Garmin fēnix 5S Smartwatch Gps-multispor'
 date: 2019/12/29 10:57:47 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41643zq87xL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41643zq87xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

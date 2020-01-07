@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DDYN86N - Ofertón en Amazon para Rescue Runts-18052 Peluche Husky  Multic'
 date: 2019/12/31 08:10:30 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41X1XhfBrTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41X1XhfBrTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B00ENWRPS6 - Ofertón en Amazon para Lacoste Reloj para Mujer de Cuarzo con C'
 date: 2019/12/12 06:51:17 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41--bvvHTkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41--bvvHTkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

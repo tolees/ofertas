@@ -2,7 +2,7 @@
 layout: post
 title: 'B07X3XTKTS - Ofertón en Amazon para FROZEN II Jewellery Advent Calendars 201'
 date: 2020-01-01 14:15:25
-image: https://images-eu.ssl-images-amazon.com/images/I/41DqZutYIGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DqZutYIGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

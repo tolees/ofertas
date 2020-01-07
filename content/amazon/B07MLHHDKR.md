@@ -3,7 +3,7 @@ layout: post
 title: 'B07MLHHDKR: Ahorra en Sony SRS-XB12  Altavoz Inalámbrico Portá'
 date: 2019/12/24 06:01:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31kY3me8frL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kY3me8frL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MLHHDKR

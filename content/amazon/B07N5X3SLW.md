@@ -2,7 +2,7 @@
 layout: post
 title: 'B07N5X3SLW - Ofertón en Amazon para Funko- Pop Vinilo: Muhammad Ali Sports F'
 date: 2019/12/15 15:53:43 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31-A3DCZ%2BSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-A3DCZ%2BSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

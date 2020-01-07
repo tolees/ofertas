@@ -3,7 +3,7 @@ layout: post
 title: 'B07K46WFMQ: Ahorra en WISHDOIT Hombre Moda Clásico Negro Ultra'
 date: 2019/12/21 15:34:34 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51nuaPwx-JL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51nuaPwx-JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K46WFMQ

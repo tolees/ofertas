@@ -2,7 +2,7 @@
 layout: post
 title: 'B01N6XXC0R - Ofertón en Amazon para Seiko Reloj Analogico para Mujer de Cuar'
 date: 2019/12/11 23:31:59 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41CyGiau0VL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CyGiau0VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

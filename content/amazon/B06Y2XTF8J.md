@@ -2,7 +2,7 @@
 layout: post
 title: 'B06Y2XTF8J - Ofertón en Amazon para New Balance 574 Core Zapatillas Hombre  '
 date: 2019/12/27 14:29:25 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

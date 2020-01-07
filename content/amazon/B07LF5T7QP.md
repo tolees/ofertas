@@ -3,7 +3,7 @@ layout: post
 title: 'B07LF5T7QP: Rebaja en Levi s SS Color Block tee Camiseta  Mult en Amazon'
 date: 2020-01-04 13:35:48
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41RfRtBNxtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RfRtBNxtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LF5T7QP

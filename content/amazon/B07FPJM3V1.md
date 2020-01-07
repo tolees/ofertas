@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FPJM3V1 - Ofertón en Amazon para Bovon Soporte Movil Bicicleta  Anti Vibr'
 date: 2019/12/20 11:22:44 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41m3dRoC7BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m3dRoC7BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

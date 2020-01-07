@@ -3,7 +3,7 @@ layout: post
 title: 'B003N8GSTI: Ahorra en Triumph True Shape Sensation Maxi Culott'
 date: 2020-01-04 09:37:52
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418nI2lW%2BmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418nI2lW%2BmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B003N8GSTI

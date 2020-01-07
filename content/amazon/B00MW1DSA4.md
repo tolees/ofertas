@@ -2,7 +2,7 @@
 layout: post
 title: 'B00MW1DSA4 - Ofertón en Amazon para Rexxor 242-7904-18 - Reloj de cuarzo par'
 date: 2020-01-03 23:56:32
-image: https://images-eu.ssl-images-amazon.com/images/I/41wkOa4C9CL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wkOa4C9CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

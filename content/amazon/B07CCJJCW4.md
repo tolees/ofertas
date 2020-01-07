@@ -3,7 +3,7 @@ layout: post
 title: 'B07CCJJCW4: Rebaja en JACK & JONES Jjesheridan Shirt L/s Camis en Amazon'
 date: 2020-01-01 23:56:57
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418xzoGsxHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418xzoGsxHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CCJJCW4

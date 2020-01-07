@@ -2,7 +2,7 @@
 layout: post
 title: 'B07N87QZYR - Ofertón en Amazon para Fitbit Inspire und Inspire HR Print-Armb'
 date: 2019/12/15 16:52:05 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31-LpErw6uL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-LpErw6uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

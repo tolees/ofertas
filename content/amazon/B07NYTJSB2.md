@@ -3,7 +3,7 @@ layout: post
 title: 'B07NYTJSB2: Ahorra en Skechers Uno- Stacre  Zapatillas para Ho'
 date: 2019/12/31 00:04:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/410M3YUPtTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410M3YUPtTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NYTJSB2

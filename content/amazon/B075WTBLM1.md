@@ -2,7 +2,7 @@
 layout: post
 title: 'B075WTBLM1 - Ofertón en Amazon para Riñonera Running cintura cinturón deport'
 date: 2020-01-02 07:14:52
-image: https://images-eu.ssl-images-amazon.com/images/I/41zL%2BUFdQZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zL%2BUFdQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

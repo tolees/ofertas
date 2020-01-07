@@ -3,7 +3,7 @@ layout: post
 title: 'B074H2FHQP: Ahorra en find. Camisa con Volantes para Mujer  Az'
 date: 2019/12/24 19:51:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41VZ1vnH0QL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VZ1vnH0QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074H2FHQP

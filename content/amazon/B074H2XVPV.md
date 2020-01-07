@@ -3,7 +3,7 @@ layout: post
 title: 'B074H2XVPV: Rebaja en find. Camisa con Volantes para Mujer  Ro en Amazon'
 date: 2020-01-06 20:32:47
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41C2oXnQWXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41C2oXnQWXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074H2XVPV

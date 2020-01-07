@@ -3,7 +3,7 @@ layout: post
 title: 'B01MUXED6J: Rebaja en Reloj para hombre Hugo Boss 1513478. en Amazon'
 date: 2020-01-01 23:45:17
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411s8jgmUFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411s8jgmUFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MUXED6J

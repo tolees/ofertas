@@ -2,7 +2,7 @@
 layout: post
 title: 'B01AADHRTI - Ofertón en Amazon para Nike Club Legging Logo 2 Mallas  Mujer  '
 date: 2019/12/27 15:05:13 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41wq0456lNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wq0456lNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

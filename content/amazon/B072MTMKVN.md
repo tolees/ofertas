@@ -3,7 +3,7 @@ layout: post
 title: 'B072MTMKVN: Rebaja en find. Botas Efecto Ante para Mujer  Gris en Amazon'
 date: 2019/12/25 10:59:58 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31cyodwL24L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cyodwL24L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072MTMKVN

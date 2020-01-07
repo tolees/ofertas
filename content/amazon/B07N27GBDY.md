@@ -3,7 +3,7 @@ layout: post
 title: 'B07N27GBDY: Ahorra en Quiksilver Shorebreak Mid Sherpa-Shoes f'
 date: 2020-01-06 10:38:17
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ZsfR0rW3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZsfR0rW3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N27GBDY

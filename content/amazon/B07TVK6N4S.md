@@ -2,7 +2,7 @@
 layout: post
 title: 'B07TVK6N4S - Ofertón en Amazon para KOSPET Classic Smartwatch  1.39" AMOLED '
 date: 2019/12/18 20:49:23 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41FNWmMDEwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FNWmMDEwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

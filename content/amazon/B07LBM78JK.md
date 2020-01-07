@@ -3,7 +3,7 @@ layout: post
 title: 'B07LBM78JK: Ahorra en Napapijri Gergei Camisa   Fantasy F02   '
 date: 2019/12/21 18:55:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41KiyvIDlSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KiyvIDlSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LBM78JK

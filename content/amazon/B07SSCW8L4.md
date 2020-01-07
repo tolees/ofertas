@@ -3,7 +3,7 @@ layout: post
 title: 'B07SSCW8L4: Ahorra en FIFA 20  La caja contiene un código de d'
 date: 2020-01-06 18:03:14
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51hPvc4ioeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hPvc4ioeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SSCW8L4

@@ -2,7 +2,7 @@
 layout: post
 title: 'B079GZNQ2B - Ofertón en Amazon para TP-Link Router 4G móvil Wifi MiFi 4G Cat'
 date: 2020-01-07 07:22:21
-image: https://images-eu.ssl-images-amazon.com/images/I/518thDKj1ML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518thDKj1ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

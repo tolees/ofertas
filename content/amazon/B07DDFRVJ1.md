@@ -3,7 +3,7 @@ layout: post
 title: 'B07DDFRVJ1: Rebaja en find. Wool Mix Dogstooth Abrigo  Negro   en Amazon'
 date: 2019/12/20 20:12:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41bXeGVlJxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bXeGVlJxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DDFRVJ1

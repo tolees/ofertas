@@ -2,7 +2,7 @@
 layout: post
 title: 'B01CMRXOVK - Ofertón en Amazon para EXZACT Elite Cuero-Mirada Plataforma/ An'
 date: 2019/12/25 21:08:09 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41E%2BcNRhmSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BcNRhmSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

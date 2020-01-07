@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JLB9W4M - Ofertón en Amazon para Wrangler Greensboro Regular Jeans Vaquer'
 date: 2019/12/25 13:44:01 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31sVJwVEGdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sVJwVEGdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

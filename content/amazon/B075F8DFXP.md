@@ -2,7 +2,7 @@
 layout: post
 title: 'B075F8DFXP - Ofertón en Amazon para Puma Vikky Platform  Zapatillas para Muj'
 date: 2019/12/21 17:13:58 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/417oQG%2BiAXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417oQG%2BiAXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

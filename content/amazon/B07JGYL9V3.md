@@ -3,7 +3,7 @@ layout: post
 title: 'B07JGYL9V3: Ahorra en MOCHILA CASUAL MODA HARRY POTTER'
 date: 2019/12/24 19:08:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41jWy09h8-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jWy09h8-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JGYL9V3

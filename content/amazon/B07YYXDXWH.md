@@ -3,7 +3,7 @@ layout: post
 title: 'B07YYXDXWH: Ahorra en LAYJOY Funda Xiaomi Mi A3  Ligera Carcas'
 date: 2019/12/27 22:43:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Q9HmKDmZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9HmKDmZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YYXDXWH

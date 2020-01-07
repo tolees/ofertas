@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MXBV87H - Ofertón en Amazon para Guardians of the Galaxy Vol 2  Pocket PO'
 date: 2019-12-31 22:02:39
-image: https://images-eu.ssl-images-amazon.com/images/I/419EGaV9FJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419EGaV9FJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

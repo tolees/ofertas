@@ -2,7 +2,7 @@
 layout: post
 title: 'B01BGTW2HC - Ofertón en Amazon para G-STAR RAW Rovic Zip 3D Tapered  Pantalo'
 date: 2019/12/13 17:31:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31VMg9XgDFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31VMg9XgDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

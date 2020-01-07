@@ -2,7 +2,7 @@
 layout: post
 title: 'B078BMNLSL - Ofertón en Amazon para TRUTH & FABLE Vestido Mujer de Encaje  V'
 date: 2019/12/21 20:02:29 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41kOvsPCWnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kOvsPCWnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

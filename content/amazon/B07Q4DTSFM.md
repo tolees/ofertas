@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q4DTSFM: Ahorra en Fisher-Price GHY03 Bounce and Spin Puppy'
 date: 2020-01-01 17:07:01
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41XGodyd3xL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XGodyd3xL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q4DTSFM

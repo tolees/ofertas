@@ -3,7 +3,7 @@ layout: post
 title: 'B07JVCCTDY: Ahorra en Under Armour Undeniable Duffel 4.0 SM Bo'
 date: 2019/12/18 18:39:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41bHZkq23JL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bHZkq23JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JVCCTDY

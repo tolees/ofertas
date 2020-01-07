@@ -3,7 +3,7 @@ layout: post
 title: 'B078HDBNVN: Rebaja en Wrangler Larston Vaqueros Tapered  Azul  en Amazon'
 date: 2019/12/15 17:56:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41LjtzWFH7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LjtzWFH7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078HDBNVN

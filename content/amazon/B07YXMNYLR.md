@@ -2,7 +2,7 @@
 layout: post
 title: 'B07YXMNYLR - Ofertón en Amazon para ZoneYan Pegatinas Navidad para Ventanas '
 date: 2019/12/22 11:02:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/610wPKRZKQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/610wPKRZKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

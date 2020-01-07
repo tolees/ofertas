@@ -2,7 +2,7 @@
 layout: post
 title: 'B079PZR6CR - Ofertón en Amazon para Funko 26901 Pop Marvel Avengers Infinity'
 date: 2019/12/16 15:11:57 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51aW-proglL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aW-proglL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

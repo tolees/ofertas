@@ -3,7 +3,7 @@ layout: post
 title: 'B07DVHFP8M: Rebaja en New Balance W890V7  Zapatillas de Runnin en Amazon'
 date: 2019/12/22 12:26:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411LrdvOiQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411LrdvOiQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DVHFP8M

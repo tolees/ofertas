@@ -3,7 +3,7 @@ layout: post
 title: 'B07GKVBF19: Rebaja en Xiaomi Mi 8 - Smartphone de 6.21"  Octa- en Amazon'
 date: 2019/12/20 09:18:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41mNBGj5CUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mNBGj5CUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GKVBF19

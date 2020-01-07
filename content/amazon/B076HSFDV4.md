@@ -3,7 +3,7 @@ layout: post
 title: 'B076HSFDV4: Rebaja en Adidas Core18 Pre Jkt Sport Jacket  Homb en Amazon'
 date: 2020-01-05 19:45:06
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/412PQugRxCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412PQugRxCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076HSFDV4

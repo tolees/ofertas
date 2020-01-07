@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9MCJGN: Ahorra en Tacklife Sierra de Calar  Caladora  -37%'
 date: 2019/12/20 13:04:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419Zi0FuzkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419Zi0FuzkL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9MCJGN

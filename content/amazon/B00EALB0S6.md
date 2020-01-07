@@ -3,7 +3,7 @@ layout: post
 title: 'B00EALB0S6: Rebaja en Bausch & Lomb - Biotrue One Day Esférica en Amazon'
 date: 2019/12/18 08:41:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00EALB0S6

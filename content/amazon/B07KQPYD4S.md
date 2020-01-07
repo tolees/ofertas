@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KQPYD4S - Ofertón en Amazon para Salomon XA Pro 3D GTX  Zapatillas de Tra'
 date: 2019/12/15 18:26:21 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

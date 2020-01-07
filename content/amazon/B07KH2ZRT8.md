@@ -3,7 +3,7 @@ layout: post
 title: 'B07KH2ZRT8: Ahorra en Under Armour EU Tech Pant Pantalón de Go'
 date: 2019/12/16 07:55:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31C%2BXKlWzBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31C%2BXKlWzBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KH2ZRT8

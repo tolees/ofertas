@@ -3,7 +3,7 @@ layout: post
 title: 'B07PHPR96S: Ahorra en SweetLF Afeitadora Electrica Hombre Máqu'
 date: 2020-01-06 17:09:02
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41KueMKD-jL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KueMKD-jL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PHPR96S

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DYJLPWL: Ahorra en Roxy Bermuda Ii Zapatos de playa y pisci'
 date: 2019/12/23 21:33:46 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61RY23QAQKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61RY23QAQKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DYJLPWL

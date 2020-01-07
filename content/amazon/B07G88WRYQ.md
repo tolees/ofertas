@@ -3,7 +3,7 @@ layout: post
 title: 'B07G88WRYQ: Ahorra en Victorio & Lucchino  Agua fresca - 150 m'
 date: 2019/12/29 13:04:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418HtV2Ml4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418HtV2Ml4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07G88WRYQ

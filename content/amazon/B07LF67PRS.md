@@ -2,7 +2,7 @@
 layout: post
 title: 'B07LF67PRS - Ofertón en Amazon para Levi s Coit Down Puffer Chaqueta  Negro '
 date: 2020-01-03 13:52:29
-image: https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

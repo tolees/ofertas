@@ -3,7 +3,7 @@ layout: post
 title: 'B07NR2KVKF: Rebaja en Dickie Toys 201119141 RC Nitro League  R en Amazon'
 date: 2019/12/11 06:08:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31De61HaD7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31De61HaD7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NR2KVKF

@@ -3,7 +3,7 @@ layout: post
 title: 'B07VCDHTB5: Ahorra en EVERSEE Bluetooth Mütze  Geschenke für M'
 date: 2019/12/14 15:53:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51KDBH0GkrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KDBH0GkrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VCDHTB5

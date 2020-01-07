@@ -3,7 +3,7 @@ layout: post
 title: 'B07BVXXWDC: Rebaja en seQoya - Baobab | Reloj de Madera con Es en Amazon'
 date: 2019/12/24 10:42:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41qO%2Bcpu-RL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qO%2Bcpu-RL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BVXXWDC

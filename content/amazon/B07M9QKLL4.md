@@ -2,7 +2,7 @@
 layout: post
 title: 'B07M9QKLL4 - Ofertón en Amazon para G-STAR RAW Damen Army Radar Mid Waist Bo'
 date: 2019/12/24 22:40:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/416i8WLunAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416i8WLunAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

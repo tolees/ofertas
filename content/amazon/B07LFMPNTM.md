@@ -3,7 +3,7 @@ layout: post
 title: 'B07LFMPNTM: Rebaja en Levi s LS Baby tee Camiseta  Multicolor  en Amazon'
 date: 2020-01-04 14:31:09
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51NaG%2BRks%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NaG%2BRks%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFMPNTM

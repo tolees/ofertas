@@ -2,7 +2,7 @@
 layout: post
 title: 'B019FWWJCU - Ofertón en Amazon para Colore Matite n. 2 con gomma - Matite gi'
 date: 2019/12/16 18:10:22 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51Xmh72OQFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Xmh72OQFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

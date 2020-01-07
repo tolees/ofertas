@@ -2,7 +2,7 @@
 layout: post
 title: 'B00OQNVUJW - Ofertón en Amazon para Black Crown Piton 3.0 - Peso Palas - 355'
 date: 2019/12/29 18:49:21 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

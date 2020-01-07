@@ -3,7 +3,7 @@ layout: post
 title: 'B074W5ZVVV: Rebaja en Timex Reloj Analógico-Digital para Unise en Amazon'
 date: 2019/12/20 01:11:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51MNT%2BNUhEL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51MNT%2BNUhEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074W5ZVVV

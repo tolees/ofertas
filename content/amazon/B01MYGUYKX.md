@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MYGUYKX - Ofertón en Amazon para find. 50202 vaqueros mujer  Azul  Lilla '
 date: 2019/12/22 13:44:21 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/417mH2G2rOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417mH2G2rOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

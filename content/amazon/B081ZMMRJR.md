@@ -2,7 +2,7 @@
 layout: post
 title: 'B081ZMMRJR - Ofertón en Amazon para OwlFay Elsa Princess Dress for Girls Fro'
 date: 2019/12/18 23:17:01 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41oWPUivF6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41oWPUivF6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

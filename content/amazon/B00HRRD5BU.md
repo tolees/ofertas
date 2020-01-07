@@ -3,7 +3,7 @@ layout: post
 title: 'B00HRRD5BU: Ahorra en Sylvanian Families - Adventure Treasure '
 date: 2019/12/11 13:27:35 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51hrJyAOCgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hrJyAOCgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00HRRD5BU

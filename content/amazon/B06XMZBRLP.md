@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XMZBRLP - Ofertón en Amazon para Kayhan Hombre Camisa  TwoFace als Uni Cl'
 date: 2019/12/29 20:27:36 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31V9Yq93liL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31V9Yq93liL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

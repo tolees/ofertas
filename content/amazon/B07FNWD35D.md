@@ -3,7 +3,7 @@ layout: post
 title: 'B07FNWD35D: Ahorra en LEGO 75237 Star Wars TIE Fighter Attack '
 date: 2019/12/11 22:55:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Nf9voPcDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Nf9voPcDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNWD35D

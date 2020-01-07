@@ -3,7 +3,7 @@ layout: post
 title: 'B01N4GGBFM: Ahorra en Corsair Scimitar Pro RGB - Ratón óptico '
 date: 2019/12/17 23:46:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31KgYAQLC9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KgYAQLC9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N4GGBFM

@@ -3,7 +3,7 @@ layout: post
 title: 'B00X5RP6HW: Ahorra en Disney Frozen - Cuerda de Saltar  Smoby '
 date: 2020-01-06 22:20:32
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00X5RP6HW

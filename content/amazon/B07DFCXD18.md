@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFCXD18: Ahorra en Pop! Crash Bandicoot - Figura de Vinilo '
 date: 2020-01-06 18:10:48
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFCXD18

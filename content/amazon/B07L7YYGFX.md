@@ -3,7 +3,7 @@ layout: post
 title: 'B07L7YYGFX: Ahorra en Altavoz Bluetooth Potente  Tronsmart For'
 date: 2019/12/11 09:06:19 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411yNjYsgoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411yNjYsgoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L7YYGFX

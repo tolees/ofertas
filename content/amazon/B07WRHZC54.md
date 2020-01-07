@@ -3,7 +3,7 @@ layout: post
 title: 'B07WRHZC54: Ahorra en PINPOXE Guantes Esquí  Guantes de Invier'
 date: 2019/12/22 22:55:23 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41nken2%2BRGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nken2%2BRGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WRHZC54

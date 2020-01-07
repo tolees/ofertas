@@ -3,7 +3,7 @@ layout: post
 title: 'B008HRFFJE: Rebaja en Bosch 2 607 017 082 - Juego de 7 brocas  en Amazon'
 date: 2019/12/30 08:07:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Clf03x6nL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Clf03x6nL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B008HRFFJE

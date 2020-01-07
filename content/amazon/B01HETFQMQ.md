@@ -3,7 +3,7 @@ layout: post
 title: 'B01HETFQMQ: Ahorra en Bose  SoundSport - Auriculares inalámbri'
 date: 2019/12/19 16:42:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31yoYAfEHGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yoYAfEHGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01HETFQMQ

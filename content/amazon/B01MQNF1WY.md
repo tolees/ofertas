@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MQNF1WY - Ofertón en Amazon para Asics Gel-Lyte V  Zapatillas Unisex Adul'
 date: 2020-01-01 20:42:14
-image: https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T5xUBJwoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

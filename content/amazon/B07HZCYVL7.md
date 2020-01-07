@@ -3,7 +3,7 @@ layout: post
 title: 'B07HZCYVL7: Ahorra en Timex Reloj de Pulsera TW2R85500'
 date: 2020-01-03 22:00:32
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2BXQNRULCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXQNRULCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HZCYVL7

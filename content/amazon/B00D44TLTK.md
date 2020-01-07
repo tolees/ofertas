@@ -2,7 +2,7 @@
 layout: post
 title: 'B00D44TLTK - Ofertón en Amazon para AmazonBasics - Plastificadora A4'
 date: 2019/12/16 08:28:13 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31rD9YuN-IL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rD9YuN-IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

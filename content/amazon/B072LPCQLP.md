@@ -2,7 +2,7 @@
 layout: post
 title: 'B072LPCQLP - Ofertón en Amazon para iDesign Plato giratorio para cocina  org'
 date: 2019/12/23 19:18:10 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51rLdeCSfYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rLdeCSfYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

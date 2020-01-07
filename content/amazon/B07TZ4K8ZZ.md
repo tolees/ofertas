@@ -3,7 +3,7 @@ layout: post
 title: 'B07TZ4K8ZZ: Ahorra en New Look Maisie Fitted Puffer  Abrigo Mu'
 date: 2019/12/30 18:27:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/412RgvgtfML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412RgvgtfML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TZ4K8ZZ

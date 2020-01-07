@@ -3,7 +3,7 @@ layout: post
 title: 'B071HQRW7K: Rebaja en Everybody s Golf - Edición Estándar en Amazon'
 date: 2019/12/12 17:37:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ToRt80JiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ToRt80JiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071HQRW7K

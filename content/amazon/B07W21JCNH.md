@@ -2,7 +2,7 @@
 layout: post
 title: 'B07W21JCNH - Ofertón en Amazon para LIGHTAILING Light Set For  Star Wars Y-W'
 date: 2020-01-06 14:23:03
-image: https://images-eu.ssl-images-amazon.com/images/I/41Z5LW%2B8XxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z5LW%2B8XxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

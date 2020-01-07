@@ -3,7 +3,7 @@ layout: post
 title: 'B079GZBV4Z: Rebaja en Philips Avent  SCF334/31 - Sacaleches do en Amazon'
 date: 2019/12/28 15:04:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41zlpUgjTyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zlpUgjTyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079GZBV4Z

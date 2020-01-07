@@ -3,7 +3,7 @@ layout: post
 title: 'B007O7AYYE: Rebaja en Real Techniques  Brocha para Maquillaje  en Amazon'
 date: 2019/12/26 10:55:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31UxJB6XpML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UxJB6XpML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B007O7AYYE

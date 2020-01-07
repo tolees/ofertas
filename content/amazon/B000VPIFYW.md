@@ -3,7 +3,7 @@ layout: post
 title: 'B000VPIFYW: Rebaja en Philips Avent SCF633/27 - Tetina de sili en Amazon'
 date: 2019/12/14 13:03:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41hL7LntCyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hL7LntCyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000VPIFYW

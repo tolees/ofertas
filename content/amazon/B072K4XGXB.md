@@ -3,7 +3,7 @@ layout: post
 title: 'B072K4XGXB: Rebaja en Decyam Comedero de Perros para ralentiza en Amazon'
 date: 2020-01-05 17:44:09
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41J24oq4i3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J24oq4i3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B072K4XGXB

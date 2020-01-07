@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Z3DTDVK - Ofertón en Amazon para BuTure Arrancador de Coches 2000A/22000m'
 date: 2020-01-01 09:38:47
-image: https://images-eu.ssl-images-amazon.com/images/I/51DMbpm8vYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DMbpm8vYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

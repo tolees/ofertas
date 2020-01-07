@@ -3,7 +3,7 @@ layout: post
 title: 'B07HYBS8ZV: Rebaja en aeioubaby.com 25 Mochilas para Colorear  en Amazon'
 date: 2020-01-05 14:37:00
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51cmB3L0GhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51cmB3L0GhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HYBS8ZV

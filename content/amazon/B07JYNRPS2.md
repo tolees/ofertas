@@ -3,7 +3,7 @@ layout: post
 title: 'B07JYNRPS2: Ahorra en Tommy Hilfiger Technical Details Flexi S'
 date: 2019/12/29 14:34:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41mdGrxGXSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mdGrxGXSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JYNRPS2

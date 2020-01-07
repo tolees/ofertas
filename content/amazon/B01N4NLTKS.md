@@ -3,7 +3,7 @@ layout: post
 title: 'B01N4NLTKS: Ahorra en Funko Vinyl: Rick & Morty: Weaponized Ri'
 date: 2020-01-03 15:03:02
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41YIZK4rhQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YIZK4rhQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N4NLTKS

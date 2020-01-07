@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WDK5B7M - Ofertón en Amazon para ANGELBLISS mordedor bebes refrigerante m'
 date: 2019/12/13 17:43:47 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51OD8xMUGOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OD8xMUGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

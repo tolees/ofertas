@@ -3,7 +3,7 @@ layout: post
 title: 'B07HCQSBN1: Rebaja en Teclado Gaming Rii RM400 Combo Rainbow R en Amazon'
 date: 2020-01-07 08:50:13
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41be938P-IL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41be938P-IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HCQSBN1

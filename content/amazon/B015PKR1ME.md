@@ -3,7 +3,7 @@ layout: post
 title: 'B015PKR1ME: Rebaja en Philips CAFETERAS  1 Liter  Plástico  Ne en Amazon'
 date: 2020-01-04 07:43:54
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41J-UZ9t-EL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41J-UZ9t-EL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B015PKR1ME

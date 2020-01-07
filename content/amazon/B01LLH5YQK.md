@@ -3,7 +3,7 @@ layout: post
 title: 'B01LLH5YQK: Ahorra en BRA A121472 RA Prior - Wok con mango  Al'
 date: 2019/12/21 20:10:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/319mvp0rTmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319mvp0rTmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LLH5YQK

@@ -3,7 +3,7 @@ layout: post
 title: 'B07WC2DXLC: Rebaja en Cudy MF4 4G Travel Wi-Fi Hotspot  Mobile en Amazon'
 date: 2019/12/31 00:04:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41aZljWK%2BdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41aZljWK%2BdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WC2DXLC

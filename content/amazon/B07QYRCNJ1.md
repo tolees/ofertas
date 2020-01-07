@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QYRCNJ1 - Ofertón en Amazon para BAIGIO Mochila Antirrobo Impermeable  Mo'
 date: 2019/12/14 05:06:01 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41fYycRQ%2BLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fYycRQ%2BLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

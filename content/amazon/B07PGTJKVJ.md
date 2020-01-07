@@ -3,7 +3,7 @@ layout: post
 title: 'B07PGTJKVJ: Rebaja en YGJT Juguete de Niño 1 año Niña Niño Jug en Amazon'
 date: 2019/12/29 10:38:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41LzNyvSNeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LzNyvSNeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PGTJKVJ

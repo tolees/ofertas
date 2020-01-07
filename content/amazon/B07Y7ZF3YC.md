@@ -3,7 +3,7 @@ layout: post
 title: 'B07Y7ZF3YC: Ahorra en LAYJOY Funda Xiaomi Redmi 7A  Ligera Car'
 date: 2020-01-06 14:42:39
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41KOblxeb1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KOblxeb1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Y7ZF3YC

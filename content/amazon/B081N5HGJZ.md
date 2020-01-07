@@ -3,7 +3,7 @@ layout: post
 title: 'B081N5HGJZ: Rebaja en IMEKIS Mädchen Anna Kleid Eiskönigin Pri en Amazon'
 date: 2019/12/11 04:44:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/415zeULAIiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415zeULAIiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081N5HGJZ

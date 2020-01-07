@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WC8SNM9 - Ofertón en Amazon para NAIXUES Smartwatch Niños  Reloj Intelige'
 date: 2019/12/28 03:31:47 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51lPCCpNlCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51lPCCpNlCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

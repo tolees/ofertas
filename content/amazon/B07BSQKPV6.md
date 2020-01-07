@@ -3,7 +3,7 @@ layout: post
 title: 'B07BSQKPV6: Ahorra en MSI GS65 8RF-019DE Stealth Thin  39 6 cm'
 date: 2019/12/22 11:28:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41YjYCDNoiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YjYCDNoiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BSQKPV6

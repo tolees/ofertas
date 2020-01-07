@@ -2,7 +2,7 @@
 layout: post
 title: 'B00KHQ6XKI - Ofertón en Amazon para Descanso Tamaño de Funda de edredón 50 p'
 date: 2020-01-07 13:51:24
-image: https://images-eu.ssl-images-amazon.com/images/I/41cDFG8DzuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cDFG8DzuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

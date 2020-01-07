@@ -3,7 +3,7 @@ layout: post
 title: 'B07CYQGF2B: Rebaja en Element Dulcey Chaqueta  Hombre  Negro   en Amazon'
 date: 2019/12/26 04:37:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CYQGF2B

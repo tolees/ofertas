@@ -3,7 +3,7 @@ layout: post
 title: 'B001QOF7KC: Rebaja en Levi s 501 Original Fit Vaqueros  Black  en Amazon'
 date: 2019/12/17 21:16:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31hfPQeQuzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hfPQeQuzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B001QOF7KC

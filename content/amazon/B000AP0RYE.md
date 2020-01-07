@@ -2,7 +2,7 @@
 layout: post
 title: 'B000AP0RYE - Ofertón en Amazon para Reebok Classic Nylon Zapatilla de Runnin'
 date: 2020-01-06 09:46:51
-image: https://images-eu.ssl-images-amazon.com/images/I/31hYP-0ugRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hYP-0ugRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

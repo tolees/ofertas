@@ -3,7 +3,7 @@ layout: post
 title: 'B07J3DLPHZ: Rebaja en Under Armour Tech Camisa Polo  Hombre  V en Amazon'
 date: 2019/12/11 19:43:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41sqUGp3xuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sqUGp3xuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J3DLPHZ

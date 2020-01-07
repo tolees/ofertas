@@ -3,7 +3,7 @@ layout: post
 title: 'B07BW6MPTT: Rebaja en seQoya - Yosemite Traveller | Reloj de M en Amazon'
 date: 2019/12/19 08:13:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Z8fS7O%2BJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Z8fS7O%2BJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BW6MPTT

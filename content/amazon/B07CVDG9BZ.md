@@ -3,7 +3,7 @@ layout: post
 title: 'B07CVDG9BZ: Ahorra en Under Armour UA TR96  Zapatillas Deporti'
 date: 2019/12/16 07:30:51 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41wPViG51vL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wPViG51vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CVDG9BZ

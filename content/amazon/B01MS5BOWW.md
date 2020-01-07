@@ -3,7 +3,7 @@ layout: post
 title: 'B01MS5BOWW: Rebaja en find. Ss Blocking Crew Neck Tee  Camiset en Amazon'
 date: 2019/12/18 01:24:53 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31IGVAVOOoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31IGVAVOOoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MS5BOWW

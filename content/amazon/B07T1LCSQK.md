@@ -2,7 +2,7 @@
 layout: post
 title: 'B07T1LCSQK - Ofertón en Amazon para Tikea Bolsa Geométrica de Corcho Natural'
 date: 2019/12/23 09:35:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/518TroXZdyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518TroXZdyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

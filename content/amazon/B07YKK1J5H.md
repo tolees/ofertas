@@ -3,7 +3,7 @@ layout: post
 title: 'B07YKK1J5H: Ahorra en Rii Alfombrilla para ratón XXL Profesion'
 date: 2020-01-03 15:26:30
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/311MqOthmaL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311MqOthmaL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YKK1J5H

@@ -2,7 +2,7 @@
 layout: post
 title: 'B001FFL3ZU - Ofertón en Amazon para Weider Victory Endurance  Amino Recovery'
 date: 2019/12/23 20:08:19 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51uhzfr5b5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51uhzfr5b5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WJ41VPZ - Ofertón en Amazon para NAIXUES 2019 Smartwatch Niños  Reloj Int'
 date: 2019/12/30 12:47:08 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51FAZGiSd4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51FAZGiSd4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

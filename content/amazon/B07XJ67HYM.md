@@ -2,7 +2,7 @@
 layout: post
 title: 'B07XJ67HYM - Ofertón en Amazon para QHOHQ Protector de Pantalla para Xiaomi '
 date: 2019/12/14 12:56:03 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51-lbX9A-TL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-lbX9A-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

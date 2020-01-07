@@ -3,7 +3,7 @@ layout: post
 title: 'B07TTNXWYY: Ahorra en Roxy Endless Dreaming-Chaqueta Aislante '
 date: 2019/12/30 20:10:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41BFvsvsElL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BFvsvsElL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TTNXWYY

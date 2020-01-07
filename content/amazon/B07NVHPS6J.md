@@ -2,7 +2,7 @@
 layout: post
 title: 'B07NVHPS6J - Ofertón en Amazon para Conjunto de luces LED Lightailing Univer'
 date: 2019/12/29 01:23:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51I%2B40X5fML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51I%2B40X5fML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

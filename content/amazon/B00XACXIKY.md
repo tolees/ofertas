@@ -2,7 +2,7 @@
 layout: post
 title: 'B00XACXIKY - Ofertón en Amazon para Durex Preservativos Ultrafinos Sensitivo'
 date: 2019/12/29 17:05:25 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/414Xzwqr2TL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414Xzwqr2TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

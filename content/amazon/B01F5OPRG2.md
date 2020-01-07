@@ -3,7 +3,7 @@ layout: post
 title: 'B01F5OPRG2: Rebaja en Muévete | Potente antiinflamatorio con a en Amazon'
 date: 2019/12/29 01:20:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/416CAYamgML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416CAYamgML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01F5OPRG2

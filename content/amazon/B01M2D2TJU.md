@@ -3,7 +3,7 @@ layout: post
 title: 'B01M2D2TJU: Rebaja en ELEGOO Actualizado 37-en-1 Kit de Módulo en Amazon'
 date: 2020-01-01 07:46:23
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/613TPpF422L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/613TPpF422L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01M2D2TJU

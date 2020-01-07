@@ -3,7 +3,7 @@ layout: post
 title: 'B014VG9VXK: Ahorra en Clarks Couture Bloom  Bailarinas para Mu'
 date: 2019/12/12 14:31:58 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ZuaZGNB1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZuaZGNB1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B014VG9VXK

@@ -3,7 +3,7 @@ layout: post
 title: 'B07L6PK4CV: Ahorra en FitFlop Carita  Zapatillas sin Cordones '
 date: 2019/12/31 04:04:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31420XtdBJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31420XtdBJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L6PK4CV

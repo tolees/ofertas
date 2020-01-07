@@ -2,7 +2,7 @@
 layout: post
 title: 'B07F31KHVM - Ofertón en Amazon para Helly Hansen HP Racing Prueba De Viento '
 date: 2019/12/26 16:03:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41jcZCflfTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jcZCflfTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

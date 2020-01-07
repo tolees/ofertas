@@ -2,7 +2,7 @@
 layout: post
 title: 'B07QJ59TFJ - Ofertón en Amazon para WIKO View3 Pro 128GB+6GB Smartphone   6 '
 date: 2019/12/29 09:44:41 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41i0mQ1w5HL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i0mQ1w5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

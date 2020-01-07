@@ -2,7 +2,7 @@
 layout: post
 title: 'B00ZRXOVOG - Ofertón en Amazon para LEGO Lights Star Wars Han Solo Key Light'
 date: 2019/12/18 15:36:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41l7hw-Sm7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41l7hw-Sm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

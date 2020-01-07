@@ -3,7 +3,7 @@ layout: post
 title: 'B07CJFNJ2J: Ahorra en REPLAY Grover Vaqueros Straight  Azul  D'
 date: 2019/12/17 11:10:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31BeRLVu4GL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BeRLVu4GL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CJFNJ2J

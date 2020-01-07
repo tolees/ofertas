@@ -2,7 +2,7 @@
 layout: post
 title: 'B00KSG3YSQ - Ofertón en Amazon para Star Wars STW103 Fundas Delanteras Diseñ'
 date: 2019/12/16 09:04:37 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Q5CUdyC6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5CUdyC6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B06XPS18RM: Ahorra en Calzado Deportivo Masculino de Seguridad'
 date: 2019/12/23 16:10:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51o0hdyLcRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o0hdyLcRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XPS18RM

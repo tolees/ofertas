@@ -2,7 +2,7 @@
 layout: post
 title: 'B00DJ2LYL0 - Ofertón en Amazon para Dim 6563140-RA Sujetador  Negro  Black 0'
 date: 2019/12/24 08:06:38 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51sI9VPwf6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sI9VPwf6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

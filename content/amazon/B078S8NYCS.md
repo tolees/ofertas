@@ -3,7 +3,7 @@ layout: post
 title: 'B078S8NYCS: Rebaja en Chlorella Espirulina.Spirulina Potente D en Amazon'
 date: 2019/12/22 10:03:19 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41SSEN-TJSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SSEN-TJSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078S8NYCS

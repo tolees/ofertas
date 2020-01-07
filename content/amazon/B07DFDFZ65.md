@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFDFZ65: Ahorra en Funko 33411 Vinyl: Disney: Wreck-It-Ralp'
 date: 2019/12/14 07:07:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41OasJSVnhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OasJSVnhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFDFZ65

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CXS5LX4 - Ofertón en Amazon para MARNUR Cama de Masaje Plegables 3 Seccio'
 date: 2019/12/17 00:00:14 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/410ezviFXvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410ezviFXvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

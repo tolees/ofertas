@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L9VQ9HM - Ofertón en Amazon para Lacoste Carnaby EVO Strap 319 1 SMA  Zap'
 date: 2019/12/17 09:48:53 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31KWtROWtYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KWtROWtYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B079GTQ4VT: Ahorra en NOVECASA Chaleco Suana Mujer Neopreno Sw'
 date: 2020-01-03 19:46:42
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/419x3j0thBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/419x3j0thBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079GTQ4VT

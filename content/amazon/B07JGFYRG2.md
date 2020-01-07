@@ -3,7 +3,7 @@ layout: post
 title: 'B07JGFYRG2: Rebaja en Crocs Crocband Rain Boot Kids  Botas de  en Amazon'
 date: 2020-01-03 09:28:21
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31YxPpLUElL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YxPpLUElL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JGFYRG2

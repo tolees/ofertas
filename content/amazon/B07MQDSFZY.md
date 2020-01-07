@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MQDSFZY - Ofertón en Amazon para Argentina - Figura SoccerStarz de Messi '
 date: 2019/12/30 12:54:20 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41tyTPMFz1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tyTPMFz1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

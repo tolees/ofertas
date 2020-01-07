@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WCFVQFJ - Ofertón en Amazon para Guirnalda luces pilas【2 * 10M】  OxaOxe 2'
 date: 2019/12/29 11:01:33 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

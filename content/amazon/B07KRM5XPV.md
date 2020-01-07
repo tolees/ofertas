@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRM5XPV: Rebaja en New Balance 373 Zapatillas Hombre  Marró en Amazon'
 date: 2020-01-04 10:39:26
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KRM5XPV

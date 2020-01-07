@@ -3,7 +3,7 @@ layout: post
 title: 'B002YIBU3M: Rebaja en Máquina para Hacer Hielo  Silenciosa  10 en Amazon'
 date: 2020-01-01 06:10:37
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002YIBU3M

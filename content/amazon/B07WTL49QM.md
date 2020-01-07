@@ -3,7 +3,7 @@ layout: post
 title: 'B07WTL49QM: Ahorra en AngLink Linterna de Buceo  2000 Lumens C'
 date: 2020-01-02 19:38:28
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ZyqGT4Q1L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZyqGT4Q1L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WTL49QM

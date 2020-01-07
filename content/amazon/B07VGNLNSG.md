@@ -3,7 +3,7 @@ layout: post
 title: 'B07VGNLNSG: Ahorra en Toys & Gamers Set of 8 x Famous Cartoon '
 date: 2019/12/30 22:35:53 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51VACm%2B%2BvXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51VACm%2B%2BvXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VGNLNSG

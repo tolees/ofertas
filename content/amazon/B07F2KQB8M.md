@@ -3,7 +3,7 @@ layout: post
 title: 'B07F2KQB8M: Rebaja en SALOMON XA tee Camiseta  Mujer  Amarillo en Amazon'
 date: 2019/12/15 14:34:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31J2iunyHUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31J2iunyHUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F2KQB8M

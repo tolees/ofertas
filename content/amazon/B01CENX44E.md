@@ -3,7 +3,7 @@ layout: post
 title: 'B01CENX44E: Ahorra en WD My Cloud EX2 Ultra - Black  16TB'
 date: 2019/12/19 21:23:18 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CENX44E

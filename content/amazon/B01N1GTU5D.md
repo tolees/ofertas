@@ -2,7 +2,7 @@
 layout: post
 title: 'B01N1GTU5D - Ofertón en Amazon para PUMA Roma Basic Zapatillas deportivas Ho'
 date: 2019/12/26 02:36:27 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07BVY4XM1: Rebaja en seQoya - Colorado | Reloj de Madera con  en Amazon'
 date: 2019/12/16 17:45:09 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41UA-DuZ3IL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UA-DuZ3IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BVY4XM1

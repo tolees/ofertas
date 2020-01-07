@@ -3,7 +3,7 @@ layout: post
 title: 'B074HMVTC9: Ahorra en Blade Runner 2049 Blade Runner 2049-Funk'
 date: 2020-01-02 09:53:41
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074HMVTC9

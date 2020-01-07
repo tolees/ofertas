@@ -2,7 +2,7 @@
 layout: post
 title: 'B01BWMAUYU - Ofertón en Amazon para Panasonic Lumix DMC-TZ100EG-K - Cámara C'
 date: 2019/12/13 20:39:24 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41ktw3sSLsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ktw3sSLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

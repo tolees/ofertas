@@ -3,7 +3,7 @@ layout: post
 title: 'B07QHVFLG5: Ahorra en KFD 19V 65W Power Adapter Netzteil Ladeg'
 date: 2019/12/23 00:39:20 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41z3CBbLK8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41z3CBbLK8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QHVFLG5

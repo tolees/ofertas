@@ -3,7 +3,7 @@ layout: post
 title: 'B07DY7GXRF: Ahorra en Honor 10 Dual SIM - 128 GB storage - UK '
 date: 2019/12/24 19:51:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41lmd57E1KL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lmd57E1KL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DY7GXRF

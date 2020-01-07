@@ -3,7 +3,7 @@ layout: post
 title: 'B07B6BG8NQ: Ahorra en Lacoste Reloj Multiesfera para Mujer de '
 date: 2020-01-03 11:58:19
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2Bg6l9nkTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bg6l9nkTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B6BG8NQ

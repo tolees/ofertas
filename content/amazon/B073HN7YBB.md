@@ -3,7 +3,7 @@ layout: post
 title: 'B073HN7YBB: Rebaja en EPL Match Attax 2017/18 Advent Calendar en Amazon'
 date: 2019/12/30 15:25:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/511DzXx5FIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511DzXx5FIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073HN7YBB

@@ -3,7 +3,7 @@ layout: post
 title: 'B06Y3Z9XCQ: Ahorra en Mega Bloks- Luau Dave Build-A-Minion Des'
 date: 2020-01-06 22:30:00
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51sqyQoUnOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sqyQoUnOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06Y3Z9XCQ

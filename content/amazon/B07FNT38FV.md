@@ -3,7 +3,7 @@ layout: post
 title: 'B07FNT38FV: Rebaja en AmazonBasics Mochila para todos los días en Amazon'
 date: 2020-01-07 08:46:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNT38FV

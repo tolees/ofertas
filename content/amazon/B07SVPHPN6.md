@@ -3,7 +3,7 @@ layout: post
 title: 'B07SVPHPN6: Rebaja en adidas X 19.3 FG  Zapatillas de Fútbol p en Amazon'
 date: 2019/12/24 09:55:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/415vlRjPzhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415vlRjPzhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SVPHPN6

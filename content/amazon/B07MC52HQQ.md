@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MC52HQQ - Ofertón en Amazon para Wilson WTB9017XB05 Pelota de Baloncesto '
 date: 2019/12/23 12:19:47 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/410hJBBNdGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410hJBBNdGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B078NTBH2K: Rebaja en IPOTCH SFR1M44-U100K USB Floppy Drive pa en Amazon'
 date: 2019/12/24 08:49:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31upB2RP1sL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31upB2RP1sL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078NTBH2K

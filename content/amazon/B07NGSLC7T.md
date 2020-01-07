@@ -3,7 +3,7 @@ layout: post
 title: 'B07NGSLC7T: Rebaja en MEDION Ultrafino S6445 - Ordenador portá en Amazon'
 date: 2020-01-06 14:13:10
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41kMK-UIM0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kMK-UIM0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NGSLC7T

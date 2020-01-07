@@ -2,7 +2,7 @@
 layout: post
 title: 'B00MGON1SG - Ofertón en Amazon para Eastpak Padded Pak R Mochila  24 L  Negr'
 date: 2019/12/28 22:00:05 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51m0w3KRMmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51m0w3KRMmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DRCSLVG: Rebaja en Seiko Chronograph Quartz SSB323P1 en Amazon'
 date: 2019/12/28 12:32:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51s1sleiPfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51s1sleiPfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DRCSLVG

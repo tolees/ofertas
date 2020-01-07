@@ -2,7 +2,7 @@
 layout: post
 title: 'B074N8HDGL - Ofertón en Amazon para Apple iPhone 7 - Smartphone de 32 GB Col'
 date: 2020-01-05 17:36:25
-image: https://images-eu.ssl-images-amazon.com/images/I/51alIVdTysL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51alIVdTysL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

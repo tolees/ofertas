@@ -3,7 +3,7 @@ layout: post
 title: 'B07JQHKMS6: Rebaja en Under Armour Huddle 2.0 Gorra  Hombre  V en Amazon'
 date: 2020-01-04 10:42:01
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51auFHMq9ML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51auFHMq9ML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JQHKMS6

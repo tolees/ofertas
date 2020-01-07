@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KFYF7JC - Ofertón en Amazon para Puma Unisex Adulto Axis Zapatillas  Azul'
 date: 2020-01-03 18:23:44
-image: https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00UBVM6PA: Ahorra en REPLAY Luz - Vaqueros Mujer  Azul  Dark '
 date: 2019/12/28 19:12:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41MxfngocCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MxfngocCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00UBVM6PA

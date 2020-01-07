@@ -3,7 +3,7 @@ layout: post
 title: 'B07QLYZ5GQ: Ahorra en Zapatillas de fútbol para Hombre Boy Pro'
 date: 2019/12/15 12:23:51 +0000
 comments: true
-image: ._SL200_
+image: '._SL200_'
 category: ofertas
 author: ring
 slug: B07QLYZ5GQ

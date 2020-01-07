@@ -3,7 +3,7 @@ layout: post
 title: 'B07RZ8GL9B: Ahorra en Levi s unbasic  Hoodie Capucha  Multicol'
 date: 2020-01-07 09:42:41
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RZ8GL9B

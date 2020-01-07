@@ -3,7 +3,7 @@ layout: post
 title: 'B000CELRGU: Rebaja en Krups Espresseria Automatic Pastillas li en Amazon'
 date: 2019/12/24 03:22:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/515VQ5D93DL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515VQ5D93DL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000CELRGU

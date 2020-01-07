@@ -3,7 +3,7 @@ layout: post
 title: 'B06XCJB3Y6: Rebaja en IMC Toys Boom Ball  Juego de Mesa  Innov en Amazon'
 date: 2019/12/28 22:12:44 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51%2B9k3XZltL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B9k3XZltL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XCJB3Y6

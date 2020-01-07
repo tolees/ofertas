@@ -2,7 +2,7 @@
 layout: post
 title: 'B075GG7LZX - Ofertón en Amazon para HP Laser Jet Pro M254dw - Impresora Colo'
 date: 2019/12/29 21:33:56 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41UQe7o6-XL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe7o6-XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

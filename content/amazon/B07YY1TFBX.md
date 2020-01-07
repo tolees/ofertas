@@ -2,7 +2,7 @@
 layout: post
 title: 'B07YY1TFBX - Ofertón en Amazon para BRIKSMAX Led Beleuchtungsset für Lego Te'
 date: 2020-01-05 22:49:45
-image: https://images-eu.ssl-images-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

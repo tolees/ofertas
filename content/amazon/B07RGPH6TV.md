@@ -3,7 +3,7 @@ layout: post
 title: 'B07RGPH6TV: Ahorra en AmazonBasics - Marco de fotos de Instax '
 date: 2019/12/19 10:15:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41RvACGOvML._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RvACGOvML._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RGPH6TV

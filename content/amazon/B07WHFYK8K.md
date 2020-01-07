@@ -3,7 +3,7 @@ layout: post
 title: 'B07WHFYK8K: Ahorra en NETVIP WiFi Repetidor de Red Extensor 30'
 date: 2020-01-03 08:34:20
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41lG2gKEWVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41lG2gKEWVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WHFYK8K

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07XR5R5GQ - Ofertón en Amazon para BRIKSMAX Led Lighting Kit for LEGO City '
 date: 2019/12/28 16:41:40 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/412OLMiHuGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412OLMiHuGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

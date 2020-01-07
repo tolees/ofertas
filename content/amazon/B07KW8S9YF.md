@@ -3,7 +3,7 @@ layout: post
 title: 'B07KW8S9YF: Rebaja en Lego Wear Jungen LWTIGER 652-T-SHIRT L/S en Amazon'
 date: 2019/12/17 23:13:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KW8S9YF

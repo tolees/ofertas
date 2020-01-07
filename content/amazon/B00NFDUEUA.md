@@ -2,7 +2,7 @@
 layout: post
 title: 'B00NFDUEUA - Ofertón en Amazon para Braun Minipimer 5 MQ5020WH Pasta - Batid'
 date: 2020-01-06 14:50:28
-image: https://images-eu.ssl-images-amazon.com/images/I/31FDUuk6MXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FDUuk6MXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

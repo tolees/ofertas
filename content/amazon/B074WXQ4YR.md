@@ -3,7 +3,7 @@ layout: post
 title: 'B074WXQ4YR: Ahorra en find. Pantalón de Traje Ajustado Hombre '
 date: 2019/12/20 09:50:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ITlV9OKxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ITlV9OKxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074WXQ4YR

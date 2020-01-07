@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KMCV5LH - Ofertón en Amazon para Clarks Un Rio Lace  Zapatillas para Muje'
 date: 2020-01-07 09:11:14
-image: https://images-eu.ssl-images-amazon.com/images/I/41OTEYjAlDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OTEYjAlDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

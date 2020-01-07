@@ -2,7 +2,7 @@
 layout: post
 title: 'B00KRC5ZM4 - Ofertón en Amazon para SELECTED 16040493 - Camisa casual de man'
 date: 2020-01-03 18:56:11
-image: https://images-eu.ssl-images-amazon.com/images/I/417qZDmbJYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417qZDmbJYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

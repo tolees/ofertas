@@ -3,7 +3,7 @@ layout: post
 title: 'B0829SQBWB: Rebaja en GODNECE Technic Racing Car  1:10 2.4G Mo en Amazon'
 date: 2020-01-07 06:22:17
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51oTGi8MtVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oTGi8MtVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0829SQBWB

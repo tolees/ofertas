@@ -3,7 +3,7 @@ layout: post
 title: 'B00MFQP9SK: Ahorra en Mx Onda 32-6200-99 - Reloj de Cuarzo par'
 date: 2019/12/18 11:36:53 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/512RqX7MQ-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512RqX7MQ-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MFQP9SK

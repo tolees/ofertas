@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XBLS9B4 - Ofertón en Amazon para HUAWEI Watch 2  Bluetooth  Smartwatch mi'
 date: 2019/12/28 21:14:29 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31vtLJ%2B4B7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vtLJ%2B4B7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

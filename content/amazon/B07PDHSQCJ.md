@@ -3,7 +3,7 @@ layout: post
 title: 'B07PDHSQCJ: Rebaja en Echo Dot  3rd Gen  - Smart speaker with  en Amazon'
 date: 2020-01-02 13:23:57
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GvfQUVKoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GvfQUVKoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PDHSQCJ

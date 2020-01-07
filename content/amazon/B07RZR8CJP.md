@@ -2,7 +2,7 @@
 layout: post
 title: 'B07RZR8CJP - Ofertón en Amazon para CASALS FC14 Red FC14 - Fresadora perniad'
 date: 2019/12/29 12:29:56 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41vbtH0gQZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vbtH0gQZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

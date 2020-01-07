@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WJKTZLM - Ofertón en Amazon para Awroutdoor Calentador de Mano Recargable'
 date: 2020-01-07 09:35:33
-image: https://images-eu.ssl-images-amazon.com/images/I/41SPWm0BAVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SPWm0BAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

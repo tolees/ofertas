@@ -3,7 +3,7 @@ layout: post
 title: 'B07NHXJ5FQ: Rebaja en Tronsmart Mega Altavoz Bluetooth Estéreo en Amazon'
 date: 2019/12/14 08:51:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Z7eeyxKHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Z7eeyxKHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NHXJ5FQ

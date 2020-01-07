@@ -3,7 +3,7 @@ layout: post
 title: 'B01MSCTK60: Rebaja en REPLAY Jondrill Vaqueros Skinny  Negro   en Amazon'
 date: 2020-01-04 12:56:29
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41WLtLDaYsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WLtLDaYsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MSCTK60

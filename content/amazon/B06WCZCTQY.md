@@ -3,7 +3,7 @@ layout: post
 title: 'B06WCZCTQY: Ahorra en Playmobil 9249 DreamWorks Dragons Eret w'
 date: 2020-01-07 06:24:23
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51K-wq40LIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K-wq40LIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06WCZCTQY

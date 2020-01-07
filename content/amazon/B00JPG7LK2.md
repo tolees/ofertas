@@ -3,7 +3,7 @@ layout: post
 title: 'B00JPG7LK2: Rebaja en Tesa Assa Abloy TX853040L TX80 - Cilindr en Amazon'
 date: 2019/12/28 09:59:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31FHqltpU6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31FHqltpU6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JPG7LK2

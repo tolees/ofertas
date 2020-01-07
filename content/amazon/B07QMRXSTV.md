@@ -3,7 +3,7 @@ layout: post
 title: 'B07QMRXSTV: Rebaja en Succionador de Clítoris  FIDECH Masajead en Amazon'
 date: 2019/12/18 19:20:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41kU2XaBY7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kU2XaBY7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QMRXSTV

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07VZLJTDJ - Ofertón en Amazon para LITOM Luz de Lectura  Luz de Libro Recar'
 date: 2019/12/22 20:03:31 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41jRxburNUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jRxburNUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

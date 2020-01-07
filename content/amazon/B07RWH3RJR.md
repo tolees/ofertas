@@ -3,7 +3,7 @@ layout: post
 title: 'B07RWH3RJR: Ahorra en Esprit 079ee2k016 Camisa Manga Larga  Az'
 date: 2020-01-07 09:38:09
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41vKCBjT63L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vKCBjT63L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RWH3RJR

@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQYHM2B: Rebaja en LOOK by Crewcuts - Camiseta de manga lar en Amazon'
 date: 2019/12/15 13:55:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Do9meiV4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Do9meiV4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQYHM2B

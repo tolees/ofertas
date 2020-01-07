@@ -2,7 +2,7 @@
 layout: post
 title: 'B071GQWYGK - Ofertón en Amazon para Collar Mujer  J.Rosée Plata de Ley 925 B'
 date: 2019/12/11 09:35:59 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/412ck8pd5JL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412ck8pd5JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

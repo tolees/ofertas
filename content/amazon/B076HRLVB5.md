@@ -3,7 +3,7 @@ layout: post
 title: 'B076HRLVB5: Rebaja en Adidas Herren Core 18 Trainingshose  Bla en Amazon'
 date: 2019/12/15 08:42:03 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41eSXjcUfsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eSXjcUfsL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076HRLVB5

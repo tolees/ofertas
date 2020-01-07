@@ -3,7 +3,7 @@ layout: post
 title: 'B07T6TQLL2: Rebaja en Tikea Bolsa Geométrica Luminosa Holográf en Amazon'
 date: 2020-01-02 11:24:33
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51DlEPOEy8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51DlEPOEy8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07T6TQLL2

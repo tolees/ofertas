@@ -3,7 +3,7 @@ layout: post
 title: 'B07S55NLMW: Rebaja en FIFA 20 - Standard Edition - [PlayStatio en Amazon'
 date: 2019/12/28 01:18:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S55NLMW

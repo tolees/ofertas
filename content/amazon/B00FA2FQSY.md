@@ -2,7 +2,7 @@
 layout: post
 title: 'B00FA2FQSY - Ofertón en Amazon para Pilot Laundry-Tec - Rotulador para tela'
 date: 2019/12/25 10:07:29 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/411rxuRezSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411rxuRezSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

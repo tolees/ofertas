@@ -3,7 +3,7 @@ layout: post
 title: 'B07J2ZXRPL: Ahorra en Under Armour Favorite Tote Bolsa Deporti'
 date: 2019/12/16 20:07:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ulM49bxUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ulM49bxUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J2ZXRPL

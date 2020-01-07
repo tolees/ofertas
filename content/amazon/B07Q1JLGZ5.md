@@ -3,7 +3,7 @@ layout: post
 title: 'B07Q1JLGZ5: Ahorra en Kingdom Come: Deliverance - Royal Editio'
 date: 2019/12/27 10:29:38 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51CVCUoZzXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CVCUoZzXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Q1JLGZ5

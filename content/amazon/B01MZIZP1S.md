@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MZIZP1S - Ofertón en Amazon para Festina Reloj Analógico para Hombre de C'
 date: 2019/12/11 23:57:14 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41jn1ldBo5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jn1ldBo5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

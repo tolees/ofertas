@@ -3,7 +3,7 @@ layout: post
 title: 'B07DC28HFH: Ahorra en Alapmk Protective Case Cover For 14" HP '
 date: 2019/12/28 09:24:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31s-BE23U7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31s-BE23U7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DC28HFH

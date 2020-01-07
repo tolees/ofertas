@@ -2,7 +2,7 @@
 layout: post
 title: 'B00KAUYX5S - Ofertón en Amazon para Krups The Sub Heineken VB650E10 - Tirado'
 date: 2020-01-06 12:50:55
-image: https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

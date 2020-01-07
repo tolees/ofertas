@@ -3,7 +3,7 @@ layout: post
 title: 'B07XPW9BMV: Ahorra en TXXCI Acrylic Display Case/Box Dustproof'
 date: 2019/12/29 00:39:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Dy9vTlyHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Dy9vTlyHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XPW9BMV

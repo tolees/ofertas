@@ -3,7 +3,7 @@ layout: post
 title: 'B07NH1S3CX: Ahorra en Barbie FXH15 - Reitspaß Spielset mit Bar'
 date: 2020-01-05 06:22:26
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41-SOFt8q%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-SOFt8q%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NH1S3CX

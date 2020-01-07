@@ -3,7 +3,7 @@ layout: post
 title: 'B07JQJGGB2: Rebaja en HUION KAMVAS Pro 12 HD 11.6 Tableta con  en Amazon'
 date: 2019/12/14 01:58:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41mpodxxZVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mpodxxZVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JQJGGB2

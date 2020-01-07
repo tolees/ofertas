@@ -3,7 +3,7 @@ layout: post
 title: 'B07S9RWYWR: Rebaja en Hapilife Grifo Cocina Pared Monomando Me en Amazon'
 date: 2019/12/17 08:13:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31z-khhlU2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31z-khhlU2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S9RWYWR

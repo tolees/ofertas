@@ -3,7 +3,7 @@ layout: post
 title: 'B075SRRYRL: Rebaja en jerryvon Frutas y Verduras Juguete para  en Amazon'
 date: 2020-01-01 23:59:19
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075SRRYRL

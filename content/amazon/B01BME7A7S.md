@@ -3,7 +3,7 @@ layout: post
 title: 'B01BME7A7S: Ahorra en Baby Jogger City Mini GT - Silla de pase'
 date: 2019/12/23 13:09:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41WObsyJL%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WObsyJL%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BME7A7S

@@ -3,7 +3,7 @@ layout: post
 title: 'B07FHD9PR6: Ahorra en Helly Hansen Vana Windbreaker Chaqueta I'
 date: 2019/12/26 14:39:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ANGA6yuOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ANGA6yuOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FHD9PR6

@@ -3,7 +3,7 @@ layout: post
 title: 'B07MC4BM5M: Ahorra en Scotch & Soda Maison Classic Tailored Bl'
 date: 2019/12/28 21:47:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/518hLtYeOXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518hLtYeOXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MC4BM5M

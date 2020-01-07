@@ -2,7 +2,7 @@
 layout: post
 title: 'B079QHKZD1 - Ofertón en Amazon para Levi s 502 Regular Taper Vaqueros  Stone'
 date: 2019/12/22 15:22:13 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

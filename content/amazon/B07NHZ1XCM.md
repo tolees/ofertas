@@ -2,7 +2,7 @@
 layout: post
 title: 'B07NHZ1XCM - Ofertón en Amazon para flintronic Foco LED Recargable COB Luz d'
 date: 2019/12/20 14:06:45 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/413IZppghzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413IZppghzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

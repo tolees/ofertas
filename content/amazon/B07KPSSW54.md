@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KPSSW54 - Ofertón en Amazon para Funko- Pop Vinyl: Spider Man Far from Ho'
 date: 2020-01-06 22:15:04
-image: https://images-eu.ssl-images-amazon.com/images/I/41p4783n%2BlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p4783n%2BlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07ST9MM7Q: Rebaja en Envasadora al vacío  ZUZPAO Máquina sell en Amazon'
 date: 2020-01-04 18:15:49
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ST9MM7Q

@@ -3,7 +3,7 @@ layout: post
 title: 'B00ZHB6N1M: Ahorra en Braun Series 3 ProSkin 3020s Afeitadora '
 date: 2019/12/17 21:55:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51gUOg2pu6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gUOg2pu6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00ZHB6N1M

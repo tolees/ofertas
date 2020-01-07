@@ -3,7 +3,7 @@ layout: post
 title: 'B07KH1R1XZ: Ahorra en Under Armour Favorite Big Logo Legging L'
 date: 2019/12/17 13:49:38 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KH1R1XZ

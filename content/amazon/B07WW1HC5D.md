@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WW1HC5D - Ofertón en Amazon para Need for Speed Heat  Esta caja contiene '
 date: 2019/12/16 09:21:05 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51fSnJBUqNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fSnJBUqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

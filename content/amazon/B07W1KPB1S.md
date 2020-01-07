@@ -3,7 +3,7 @@ layout: post
 title: 'B07W1KPB1S: Rebaja en ASHION Kinder Winterschuhe Wanderschuhe  en Amazon'
 date: 2019/12/21 10:52:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51AZADsys6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51AZADsys6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07W1KPB1S

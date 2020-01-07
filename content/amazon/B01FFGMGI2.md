@@ -3,7 +3,7 @@ layout: post
 title: 'B01FFGMGI2: Ahorra en Under Armour UA HG Racer Tank Camiseta s'
 date: 2019/12/14 07:52:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41iBx6l6kuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iBx6l6kuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01FFGMGI2

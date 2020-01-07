@@ -3,7 +3,7 @@ layout: post
 title: 'B01AXVQLP8: Ahorra en Butter London Plush Rush Pintalabios'
 date: 2020-01-01 11:18:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AXVQLP8

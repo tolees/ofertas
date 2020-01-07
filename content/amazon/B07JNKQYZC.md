@@ -3,7 +3,7 @@ layout: post
 title: 'B07JNKQYZC: Rebaja en Vitamina C 1000 mg | 240 comprimidos  Su en Amazon'
 date: 2019/12/23 00:59:58 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/414df2x9M5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/414df2x9M5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JNKQYZC

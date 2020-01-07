@@ -3,7 +3,7 @@ layout: post
 title: 'B07D1HBS3Q: Ahorra en Asics Hypergel  Zapatillas de Entrenamie'
 date: 2019/12/15 22:43:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41gTZwdRlJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gTZwdRlJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D1HBS3Q

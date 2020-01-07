@@ -2,7 +2,7 @@
 layout: post
 title: 'B01FV4SXXA - Ofertón en Amazon para Anne Moller Pour Homme Control Triple Ac'
 date: 2019/12/12 19:13:31 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31rG-G13ufL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rG-G13ufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

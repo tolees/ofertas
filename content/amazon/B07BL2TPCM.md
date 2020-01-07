@@ -3,7 +3,7 @@ layout: post
 title: 'B07BL2TPCM: Ahorra en New Balance Fresh Foam Arishi  Zapatilla'
 date: 2019/12/11 18:37:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413ugWXeNIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413ugWXeNIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BL2TPCM

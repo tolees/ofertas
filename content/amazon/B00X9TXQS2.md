@@ -2,7 +2,7 @@
 layout: post
 title: 'B00X9TXQS2 - Ofertón en Amazon para Garnier Delial BB Sun Crema Protector So'
 date: 2020-01-05 17:51:01
-image: https://images-eu.ssl-images-amazon.com/images/I/31-Vv6m8UzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31-Vv6m8UzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

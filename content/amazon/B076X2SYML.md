@@ -3,7 +3,7 @@ layout: post
 title: 'B076X2SYML: Ahorra en BES 22629 Tubo LED  18 W  120 cm  4000 K'
 date: 2019/12/16 18:56:04 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31rQ1uO6o%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rQ1uO6o%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076X2SYML

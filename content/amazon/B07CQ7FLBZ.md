@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CQ7FLBZ - Ofertón en Amazon para Moma Bikes Bicicleta Fixie Urbana  Fixie'
 date: 2020-01-05 15:54:38
-image: https://images-eu.ssl-images-amazon.com/images/I/41YxnMAYsBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YxnMAYsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07W59BDTW - Ofertón en Amazon para Trust GXT 444 Wayman Auriculares Pro par'
 date: 2019/12/16 14:05:03 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41w51SvixJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w51SvixJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

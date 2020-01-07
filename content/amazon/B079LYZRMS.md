@@ -3,7 +3,7 @@ layout: post
 title: 'B079LYZRMS: Ahorra en SIMYJOY Pareja Loro Dorado Pullover Sava'
 date: 2019/12/27 18:00:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41gnDsNpyDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gnDsNpyDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079LYZRMS

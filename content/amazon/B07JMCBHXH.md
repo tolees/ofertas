@@ -3,7 +3,7 @@ layout: post
 title: 'B07JMCBHXH: Rebaja en Playmobil 70172 Ghostbusters Toy  Multic en Amazon'
 date: 2020-01-05 22:33:26
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JMCBHXH

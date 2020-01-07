@@ -2,7 +2,7 @@
 layout: post
 title: 'B00KE6LHCK - Ofertón en Amazon para Pepe Jeans New Brooke Vaqueros  Azul  10'
 date: 2019/12/29 20:25:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41mHle-0hvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mHle-0hvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

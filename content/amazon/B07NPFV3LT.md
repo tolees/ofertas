@@ -3,7 +3,7 @@ layout: post
 title: 'B07NPFV3LT: Rebaja en Skechers Elite Flex-Lochbay  Zapatillas  en Amazon'
 date: 2019/12/23 20:04:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NPFV3LT

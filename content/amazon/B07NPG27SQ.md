@@ -3,7 +3,7 @@ layout: post
 title: 'B07NPG27SQ: Rebaja en Lancaster 57950 Sun Control Relauch-Perf en Amazon'
 date: 2019/12/12 03:03:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41zdP5gq%2B6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zdP5gq%2B6L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NPG27SQ

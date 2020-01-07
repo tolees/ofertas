@@ -3,7 +3,7 @@ layout: post
 title: 'B07CLPCKWG: Ahorra en Nobunaga s Ambition : Taishi'
 date: 2020-01-04 10:36:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/614YaAhF3KL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/614YaAhF3KL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CLPCKWG

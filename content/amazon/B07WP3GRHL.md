@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WP3GRHL - Ofertón en Amazon para Cámara Espía  Mini Cámara Espía 1080P Cá'
 date: 2019/12/29 12:24:42 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51oj8D9NvzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oj8D9NvzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

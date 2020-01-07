@@ -3,7 +3,7 @@ layout: post
 title: 'B00L1UNU7S: Rebaja en Skechers Equalizer-Persistent  Zapatilla en Amazon'
 date: 2019/12/23 16:10:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31zDLjP3FvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zDLjP3FvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00L1UNU7S

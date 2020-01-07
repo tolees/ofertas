@@ -3,7 +3,7 @@ layout: post
 title: 'B07SBKQKY9: Ahorra en AmazonBasics Cable HDMI 1.4b  182 8 cm  '
 date: 2020-01-06 16:05:25
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31iAQqbiNlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31iAQqbiNlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SBKQKY9

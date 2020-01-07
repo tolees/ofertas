@@ -3,7 +3,7 @@ layout: post
 title: 'B07FQSBW9C: Rebaja en Clarks Landry Edge  Mocasines para Hombr en Amazon'
 date: 2019/12/21 10:22:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31Rvpu2112L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Rvpu2112L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FQSBW9C

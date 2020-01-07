@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRM5XKZ: Rebaja en New Balance 247v2  Zapatillas para Hombr en Amazon'
 date: 2019/12/27 07:03:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41W2CQv5%2BUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W2CQv5%2BUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KRM5XKZ

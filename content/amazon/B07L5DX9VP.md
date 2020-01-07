@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L5DX9VP - Ofertón en Amazon para Surface Pen  Autonomía De 500 Horas en U'
 date: 2019/12/15 23:22:37 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41VncC5csvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41VncC5csvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

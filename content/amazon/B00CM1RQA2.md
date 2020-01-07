@@ -3,7 +3,7 @@ layout: post
 title: 'B00CM1RQA2: Rebaja en Jacques Lemans Smart Watch Armbanduhr 1- en Amazon'
 date: 2019/12/28 15:01:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51r70xl4NLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51r70xl4NLL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00CM1RQA2

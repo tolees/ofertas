@@ -3,7 +3,7 @@ layout: post
 title: 'B07S6KMQMT: Ahorra en HP Pavilion Gaming 15-dk0007ng  15 6 Zol'
 date: 2020-01-06 16:08:29
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2BkFDPDKqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BkFDPDKqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07S6KMQMT

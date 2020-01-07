@@ -3,7 +3,7 @@ layout: post
 title: 'B07XQ5WBRB: Rebaja en gracosy Botines Nieve Mujer Piel Forrado en Amazon'
 date: 2019/12/19 15:08:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51WTHsKYR9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WTHsKYR9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XQ5WBRB

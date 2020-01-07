@@ -2,7 +2,7 @@
 layout: post
 title: 'B001CBZB5K - Ofertón en Amazon para Singer 2250  Tradition -  Máquina de Cos'
 date: 2019/12/28 13:58:30 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31UlEYKWwNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31UlEYKWwNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

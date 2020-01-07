@@ -2,7 +2,7 @@
 layout: post
 title: 'B00DSKSGKK - Ofertón en Amazon para Cybex - Silla de coche grupo 2/3 Solutio'
 date: 2019/12/24 19:23:01 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31vdMf7NsRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vdMf7NsRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

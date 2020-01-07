@@ -3,7 +3,7 @@ layout: post
 title: 'B07JFGCFQ3: Ahorra en Lacoste HH9553 Pantalones  Beige  Vienno'
 date: 2020-01-06 09:05:37
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JFGCFQ3

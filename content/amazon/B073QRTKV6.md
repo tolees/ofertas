@@ -3,7 +3,7 @@ layout: post
 title: 'B073QRTKV6: Rebaja en L Oréal Paris Paradise Extatic - Máscara en Amazon'
 date: 2019/12/26 19:16:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31BvKckCnpL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31BvKckCnpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073QRTKV6

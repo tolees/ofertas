@@ -2,7 +2,7 @@
 layout: post
 title: 'B07BMKC85Z - Ofertón en Amazon para Fantasy Flight Games- AT-RT  FFSWL04 '
 date: 2019/12/24 20:08:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51IZD%2BxfuWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IZD%2BxfuWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

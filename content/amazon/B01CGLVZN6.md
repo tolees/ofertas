@@ -3,7 +3,7 @@ layout: post
 title: 'B01CGLVZN6: Ahorra en Sector No Limits Reloj Cronógrafo para H'
 date: 2019/12/21 07:01:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31Xhliw9HWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xhliw9HWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CGLVZN6

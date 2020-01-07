@@ -2,7 +2,7 @@
 layout: post
 title: 'B074W7BXPD - Ofertón en Amazon para TONZE Juguetes Baño Bebe Juguetes Bebe B'
 date: 2020-01-02 12:02:55
-image: https://images-eu.ssl-images-amazon.com/images/I/514HpoOL34L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/514HpoOL34L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

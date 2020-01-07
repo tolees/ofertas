@@ -3,7 +3,7 @@ layout: post
 title: 'B000SKJF5I: Rebaja en Lacor - 39116 - Cuchillo Cocina Classic  en Amazon'
 date: 2019/12/13 21:17:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/21P8zww2KuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21P8zww2KuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000SKJF5I

@@ -3,7 +3,7 @@ layout: post
 title: 'B00X9WKNIU: Ahorra en L Oreal Paris Revitalift Laser Crema de '
 date: 2019/12/23 13:38:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/310uc8ZLMAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/310uc8ZLMAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00X9WKNIU

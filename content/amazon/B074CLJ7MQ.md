@@ -2,7 +2,7 @@
 layout: post
 title: 'B074CLJ7MQ - Ofertón en Amazon para TW Steel Marc Coblen Edition Chrono con '
 date: 2019/12/19 23:39:03 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41jTmF61kFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jTmF61kFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

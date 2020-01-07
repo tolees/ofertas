@@ -3,7 +3,7 @@ layout: post
 title: 'B076HPWK6H: Rebaja en adidas Core18 Hoody Sudadera con Capucha en Amazon'
 date: 2019/12/29 13:19:26 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/418PamQd37L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418PamQd37L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B076HPWK6H

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07B99XGWZ - Ofertón en Amazon para Clarks Un Geo Lace  Zapatos de Cordones '
 date: 2019/12/27 13:39:11 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31vTy5Z64dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31vTy5Z64dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07T8JQMMY - Ofertón en Amazon para M&Co L.O.L. Surprise! Bubbly Surprise Co'
 date: 2019/12/20 08:03:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51fCMONvn-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fCMONvn-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

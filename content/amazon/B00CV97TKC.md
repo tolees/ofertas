@@ -2,7 +2,7 @@
 layout: post
 title: 'B00CV97TKC - Ofertón en Amazon para De Longhi Dolce Gusto Mini Me EDG305.WB '
 date: 2019/12/26 11:09:10 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41wWQd9087L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wWQd9087L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

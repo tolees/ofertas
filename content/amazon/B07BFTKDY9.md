@@ -3,7 +3,7 @@ layout: post
 title: 'B07BFTKDY9: Rebaja en Timex Reloj de Pulsera TW2R64300 en Amazon'
 date: 2019/12/31 00:26:23 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/412aPQjTUnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412aPQjTUnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BFTKDY9

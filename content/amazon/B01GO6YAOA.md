@@ -3,7 +3,7 @@ layout: post
 title: 'B01GO6YAOA: Ahorra en Energy Sistem Phone Cover Pro 4G  Funda '
 date: 2019/12/28 23:55:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/319abTOIRqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319abTOIRqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01GO6YAOA

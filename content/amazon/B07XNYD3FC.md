@@ -3,7 +3,7 @@ layout: post
 title: 'B07XNYD3FC: Rebaja en Xnuoyo Manicura  Aparatos eléctricos y a en Amazon'
 date: 2019/12/17 09:43:50 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41FeO832cDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FeO832cDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07XNYD3FC

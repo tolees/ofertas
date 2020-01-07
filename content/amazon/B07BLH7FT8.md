@@ -2,7 +2,7 @@
 layout: post
 title: 'B07BLH7FT8 - Ofertón en Amazon para World Of Warcraft: Battle For Azeroth - '
 date: 2019/12/27 20:02:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51CGUehZOsL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CGUehZOsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

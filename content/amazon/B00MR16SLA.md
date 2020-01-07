@@ -2,7 +2,7 @@
 layout: post
 title: 'B00MR16SLA - Ofertón en Amazon para G-STAR Lynn Mid Skinny Wmn - frakto supe'
 date: 2019/12/21 17:46:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

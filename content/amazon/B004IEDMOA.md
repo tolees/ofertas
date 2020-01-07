@@ -3,7 +3,7 @@ layout: post
 title: 'B004IEDMOA: Rebaja en Julius-K9 16IDC - Power Harness en Amazon'
 date: 2019/12/17 19:31:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004IEDMOA

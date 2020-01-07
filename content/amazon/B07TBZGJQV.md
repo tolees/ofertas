@@ -3,7 +3,7 @@ layout: post
 title: 'B07TBZGJQV: Ahorra en HolyHigh Auriculares Inalambricos Blueto'
 date: 2019/12/27 01:12:08 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41RBT12xisL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RBT12xisL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TBZGJQV

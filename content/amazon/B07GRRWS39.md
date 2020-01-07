@@ -3,7 +3,7 @@ layout: post
 title: 'B07GRRWS39: Rebaja en Bovon Brazalete Deportivo  Brazalete par en Amazon'
 date: 2019/12/11 09:00:19 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51wjvic2FPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wjvic2FPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GRRWS39

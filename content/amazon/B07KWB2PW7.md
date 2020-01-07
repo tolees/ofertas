@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KWB2PW7 - Ofertón en Amazon para Salomon XA Pro 3D W Zapatillas de trail '
 date: 2019/12/18 12:23:02 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2B35Fj-m6L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B35Fj-m6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

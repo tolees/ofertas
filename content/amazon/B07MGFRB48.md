@@ -3,7 +3,7 @@ layout: post
 title: 'B07MGFRB48: Ahorra en Napapijri GOAYO Camisa Casual  Azul  Blu'
 date: 2020-01-06 18:29:05
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41qJDd9cHNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qJDd9cHNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MGFRB48

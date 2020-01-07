@@ -3,7 +3,7 @@ layout: post
 title: 'B07MK44LBM: Ahorra en Under Armour Rival Fleece Open Pantalón '
 date: 2019/12/17 14:11:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/311VajClt5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/311VajClt5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MK44LBM

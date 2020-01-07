@@ -3,7 +3,7 @@ layout: post
 title: 'B07WD6FZWX: Ahorra en Zapatillas Casa Hombre Mujer Invierno Ca'
 date: 2019/12/23 08:22:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41IPb1l1n2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IPb1l1n2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WD6FZWX

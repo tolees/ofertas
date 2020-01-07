@@ -3,7 +3,7 @@ layout: post
 title: 'B01IBIABI8: Ahorra en JACK & JONES JJIPAUL JJLEATHER BELT NOOS'
 date: 2020-01-06 21:20:48
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41qPzTlrLhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qPzTlrLhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01IBIABI8

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07GNQPQHX - Ofertón en Amazon para AmazonBasics Maleta  diseño geométrico  '
 date: 2019/12/26 10:35:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/4110clIgwcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4110clIgwcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

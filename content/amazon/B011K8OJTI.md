@@ -3,7 +3,7 @@ layout: post
 title: 'B011K8OJTI: Rebaja en Black Diamond Speed 22 Mochila  Unisex A en Amazon'
 date: 2020-01-04 17:14:23
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/417mVwy4aAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417mVwy4aAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B011K8OJTI

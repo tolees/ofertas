@@ -2,7 +2,7 @@
 layout: post
 title: 'B000RPLZAM - Ofertón en Amazon para Boss Bottled by Hugo Boss Eau De Toilett'
 date: 2019/12/12 09:03:31 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41jDnPsRi2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jDnPsRi2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

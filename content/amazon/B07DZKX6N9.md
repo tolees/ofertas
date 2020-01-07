@@ -3,7 +3,7 @@ layout: post
 title: 'B07DZKX6N9: Rebaja en Acer Nitro 5  AN515-42-R1GF  39 6 cm  15 en Amazon'
 date: 2019/12/17 13:33:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41eF7eDoETL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eF7eDoETL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DZKX6N9

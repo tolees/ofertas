@@ -3,7 +3,7 @@ layout: post
 title: 'B07FTCRVNH: Rebaja en AmzBarley Girls Princess Anna Coronation en Amazon'
 date: 2019/12/22 08:26:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/512GUWrVBuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512GUWrVBuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FTCRVNH

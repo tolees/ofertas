@@ -3,7 +3,7 @@ layout: post
 title: 'B07CZLGF3Y: Ahorra en Under Armour Tech 3In 2 Pack Ropa Interi'
 date: 2019/12/18 14:07:38 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411JywmoQTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411JywmoQTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CZLGF3Y

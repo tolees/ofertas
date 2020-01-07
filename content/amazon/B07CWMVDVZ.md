@@ -3,7 +3,7 @@ layout: post
 title: 'B07CWMVDVZ: Rebaja en Clever Dog Wireless Security WiFi Camera en Amazon'
 date: 2020-01-05 14:57:18
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41vUKVesVwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41vUKVesVwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CWMVDVZ

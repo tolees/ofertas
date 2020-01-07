@@ -3,7 +3,7 @@ layout: post
 title: 'B01MSYCSEW: Ahorra en KRISP 6252-TUR-16  Vestido Corto Patinad'
 date: 2020-01-03 12:56:34
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41HRFhbn0JL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41HRFhbn0JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MSYCSEW

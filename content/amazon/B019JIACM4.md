@@ -3,7 +3,7 @@ layout: post
 title: 'B019JIACM4: Rebaja en Funko-6571 Dementor Figura de Vinilo  co en Amazon'
 date: 2019/12/16 18:10:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51GdvS4vmRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51GdvS4vmRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B019JIACM4

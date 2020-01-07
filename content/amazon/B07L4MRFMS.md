@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L4MRFMS - Ofertón en Amazon para Endoscopio de oreja otoscopio Inalámbric'
 date: 2019/12/17 13:03:21 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41SKuFpeB5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SKuFpeB5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

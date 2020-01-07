@@ -2,7 +2,7 @@
 layout: post
 title: 'B00I5QYU7U - Ofertón en Amazon para Elizabeth Arden Visible Difference Prime'
 date: 2019/12/31 13:14:56 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31dcNcXU5fL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31dcNcXU5fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

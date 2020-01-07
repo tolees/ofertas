@@ -3,7 +3,7 @@ layout: post
 title: 'B07FCDD87F: Rebaja en Hasbro MY Little Pony Bata  Azul  Blue 1 en Amazon'
 date: 2019/12/25 13:26:01 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41-DoiXtXxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-DoiXtXxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FCDD87F

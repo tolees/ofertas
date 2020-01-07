@@ -3,7 +3,7 @@ layout: post
 title: 'B00VP2SSFG: Ahorra en Maybelline New York - Lash Sensational  '
 date: 2020-01-03 10:07:32
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31Xk9%2BoGrtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31Xk9%2BoGrtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VP2SSFG

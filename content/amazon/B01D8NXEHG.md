@@ -3,7 +3,7 @@ layout: post
 title: 'B01D8NXEHG: Ahorra en Esponja Konjac Facial 100% Naturales  Es'
 date: 2019/12/17 16:04:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41kpzV-aC0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kpzV-aC0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01D8NXEHG

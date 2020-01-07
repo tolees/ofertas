@@ -3,7 +3,7 @@ layout: post
 title: 'B01DK8EFSG: Rebaja en Habor Cocina  Digital Termometro de Horn en Amazon'
 date: 2019/12/29 10:33:15 +0000
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B01DK8EFSG

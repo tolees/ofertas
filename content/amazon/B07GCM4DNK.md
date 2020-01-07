@@ -3,7 +3,7 @@ layout: post
 title: 'B07GCM4DNK: Rebaja en iHWG PE03XL Battery  10.8V/37Wh  3 Cells en Amazon'
 date: 2020-01-03 09:49:28
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41N-uCm%2B15L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N-uCm%2B15L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GCM4DNK

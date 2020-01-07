@@ -2,7 +2,7 @@
 layout: post
 title: 'B01HQALH30 - Ofertón en Amazon para Crocs Crocband U  Zuecos Unisex Adulto  '
 date: 2019/12/25 20:37:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41CptNqp%2BDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CptNqp%2BDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

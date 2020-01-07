@@ -3,7 +3,7 @@ layout: post
 title: 'B07SLK5XZ3: Rebaja en adidas Deerupt Runner  Zapatillas de Gim en Amazon'
 date: 2019/12/18 20:28:44 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/4112CHt8KKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4112CHt8KKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SLK5XZ3

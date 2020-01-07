@@ -3,7 +3,7 @@ layout: post
 title: 'B07C7SDHM6: Rebaja en CHOETECH Cargador Inalámbrico Rápido  3  en Amazon'
 date: 2019/12/20 06:02:23 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51pqZ8ull0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pqZ8ull0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C7SDHM6

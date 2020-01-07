@@ -3,7 +3,7 @@ layout: post
 title: 'B07QFWDK3N: Rebaja en Simba 6315877639 Disney Frozen 2  Friend en Amazon'
 date: 2019/12/28 17:44:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41uUrGLHg9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uUrGLHg9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QFWDK3N

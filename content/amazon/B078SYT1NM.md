@@ -3,7 +3,7 @@ layout: post
 title: 'B078SYT1NM: Rebaja en Salomon Speedcross 4 GTX  Zapatillas de  en Amazon'
 date: 2019/12/25 13:45:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078SYT1NM

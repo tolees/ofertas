@@ -3,7 +3,7 @@ layout: post
 title: 'B00ZCIHYRM: Ahorra en Gucci Bamboo - Agua de perfume  75 ml co'
 date: 2019/12/22 12:06:02 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/511c5E0-QTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/511c5E0-QTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00ZCIHYRM

@@ -3,7 +3,7 @@ layout: post
 title: 'B07L1N3KND: Ahorra en LIGHTAILING Conjunto de Luces  Creator E'
 date: 2019/12/30 16:01:02 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Bz1LdeaeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Bz1LdeaeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L1N3KND

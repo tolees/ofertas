@@ -2,7 +2,7 @@
 layout: post
 title: 'B07H1CNDN6 - Ofertón en Amazon para Disney Toy Story 4 Pack de 5 Mini Figura'
 date: 2020-01-02 12:38:31
-image: https://images-eu.ssl-images-amazon.com/images/I/41abFogdTcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41abFogdTcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

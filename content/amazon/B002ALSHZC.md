@@ -3,7 +3,7 @@ layout: post
 title: 'B002ALSHZC: Ahorra en SEVERIN Crêpes Maker CM 2198  Inkl. Holz'
 date: 2019/12/11 17:41:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51%2BsRUWRNfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BsRUWRNfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002ALSHZC

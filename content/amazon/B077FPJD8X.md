@@ -3,7 +3,7 @@ layout: post
 title: 'B077FPJD8X: Rebaja en Cojin Lumbar Coche con Esponja Memoria   en Amazon'
 date: 2019/12/16 03:16:16 +0000
 comments: true
-image: ._SL200_
+image: '._SL200_'
 category: ofertas
 author: ring
 slug: B077FPJD8X

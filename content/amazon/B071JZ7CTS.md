@@ -2,7 +2,7 @@
 layout: post
 title: 'B071JZ7CTS - Ofertón en Amazon para find. 17 03 LLF 04 vestido fiesta mujer '
 date: 2019/12/29 12:33:13 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41d9X-4TGeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41d9X-4TGeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B01MT54RFU: Rebaja en OMRON EVOLV - Tensiómetro de Brazo Todo  en Amazon'
 date: 2019/12/10 22:47:05 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41jwbowe7iL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jwbowe7iL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MT54RFU

@@ -3,7 +3,7 @@ layout: post
 title: 'B07MLSTDKX: Ahorra en Clarks - Botines de Cuero Hombre  Color '
 date: 2019/12/29 08:22:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41EY9EltaeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MLSTDKX

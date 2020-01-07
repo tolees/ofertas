@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WNWXQ4C - Ofertón en Amazon para JACK & JONES Herren T-Shirt O-Neck Print'
 date: 2019/12/20 08:21:36 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51OIIau8W%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OIIau8W%2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

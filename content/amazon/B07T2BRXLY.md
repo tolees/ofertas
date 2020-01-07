@@ -3,7 +3,7 @@ layout: post
 title: 'B07T2BRXLY: Ahorra en Lotus Reloj Cronógrafo para Mujer de Cua'
 date: 2019/12/20 01:18:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41uFOypNhyL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uFOypNhyL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07T2BRXLY

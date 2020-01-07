@@ -3,7 +3,7 @@ layout: post
 title: 'B07YDCC68B: Ahorra en Memoria USB 3.0 32GB Moreslan Pen Drive '
 date: 2019/12/15 23:02:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41UrkeMQk9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41UrkeMQk9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YDCC68B

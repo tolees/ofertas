@@ -3,7 +3,7 @@ layout: post
 title: 'B07TD2JWT6: Ahorra en Aspiradora sin Cable  PUWEIKE aspiradora'
 date: 2019/12/16 21:23:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31luWGJL%2B-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31luWGJL%2B-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TD2JWT6

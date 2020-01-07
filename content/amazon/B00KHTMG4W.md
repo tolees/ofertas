@@ -3,7 +3,7 @@ layout: post
 title: 'B00KHTMG4W: Rebaja en Under Armour UA HG Armour SS Camiseta  H en Amazon'
 date: 2019/12/26 20:17:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41IY9ou2OxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IY9ou2OxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KHTMG4W

@@ -3,7 +3,7 @@ layout: post
 title: 'B00SN4GQEY: Ahorra en Chicco Steril Natural 3en1 - Esterilizad'
 date: 2019/12/12 00:28:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ic0rhdRnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ic0rhdRnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00SN4GQEY

@@ -3,7 +3,7 @@ layout: post
 title: 'B07J3C7MKT: Rebaja en Under Armour 1342652-600 Mochila  Unisex en Amazon'
 date: 2020-01-05 13:46:47
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/415ZErqOv0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415ZErqOv0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J3C7MKT

@@ -3,7 +3,7 @@ layout: post
 title: 'B01D8SPM4Y: Ahorra en L Oreal Paris Dermo Expertise Sublime Su'
 date: 2019/12/11 23:09:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41RQCtkOkdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41RQCtkOkdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01D8SPM4Y

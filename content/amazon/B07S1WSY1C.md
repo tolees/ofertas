@@ -2,7 +2,7 @@
 layout: post
 title: 'B07S1WSY1C - Ofertón en Amazon para Melissa Pack Hilo Acrílico Ovillos de La'
 date: 2020-01-05 10:11:39
-image: https://images-eu.ssl-images-amazon.com/images/I/518zdIi86FL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518zdIi86FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

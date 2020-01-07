@@ -2,7 +2,7 @@
 layout: post
 title: 'B01K7FXP2M - Ofertón en Amazon para ThunderX3 Spain TGC10BR Sillas Gaming Pr'
 date: 2019/12/15 09:56:01 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/417O24Hc7RL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417O24Hc7RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

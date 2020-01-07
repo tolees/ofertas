@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KQD67ZR - Ofertón en Amazon para Salomon XA Pro 3D GTX W  Zapatillas de T'
 date: 2020-01-06 10:14:26
-image: https://images-eu.ssl-images-amazon.com/images/I/41onXM1EsAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41onXM1EsAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

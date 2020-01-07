@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFCTKWH: Ahorra en Funko 31938 Pint Sized Heroes Marvel Stu'
 date: 2020-01-07 06:08:02
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51YGRGao6vL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YGRGao6vL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFCTKWH

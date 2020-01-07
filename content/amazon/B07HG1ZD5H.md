@@ -2,7 +2,7 @@
 layout: post
 title: 'B07HG1ZD5H - Ofertón en Amazon para New Balance Fuell Cell Propel  Zapatilla'
 date: 2020-01-01 16:23:31
-image: https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

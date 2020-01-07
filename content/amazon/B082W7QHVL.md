@@ -2,7 +2,7 @@
 layout: post
 title: 'B082W7QHVL - Ofertón en Amazon para GODNECE Technic Racing Car  1:8 Race Car'
 date: 2020-01-07 06:22:04
-image: https://images-eu.ssl-images-amazon.com/images/I/41rXmEtBRoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rXmEtBRoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

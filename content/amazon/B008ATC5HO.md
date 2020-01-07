@@ -2,7 +2,7 @@
 layout: post
 title: 'B008ATC5HO - Ofertón en Amazon para Set 2 Termos Bebé Due para Sólidos'
 date: 2019/12/20 20:37:10 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31%2B-dB9EvZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B-dB9EvZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

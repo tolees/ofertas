@@ -3,7 +3,7 @@ layout: post
 title: 'B00DUUR4TW: Rebaja en SBS TEPOCHEXLR - Funda universal para mó en Amazon'
 date: 2020-01-03 00:06:41
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/412xjJdH%2BQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412xjJdH%2BQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00DUUR4TW

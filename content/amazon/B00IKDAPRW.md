@@ -3,7 +3,7 @@ layout: post
 title: 'B00IKDAPRW: Rebaja en SEVERIN MW 7875 2-in-1 Mikrowelle  700W  en Amazon'
 date: 2019/12/20 08:21:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41718ulmUDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41718ulmUDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00IKDAPRW

@@ -3,7 +3,7 @@ layout: post
 title: 'B07QWRC5TF: Rebaja en Amilril Collar  Amor Corazon Colgantes M en Amazon'
 date: 2019/12/19 08:35:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GK7%2BkySPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GK7%2BkySPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QWRC5TF

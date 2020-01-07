@@ -2,7 +2,7 @@
 layout: post
 title: 'B01G6DGSB4 - Ofertón en Amazon para Utensilios barbacoa  Blusmart Juego de u'
 date: 2020-01-06 09:15:44
-image: https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

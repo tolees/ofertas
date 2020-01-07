@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XXBFQ8X - Ofertón en Amazon para New Balance WL574EB  Zapatillas Mujer  G'
 date: 2020-01-01 17:38:02
-image: https://images-eu.ssl-images-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

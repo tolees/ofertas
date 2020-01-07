@@ -3,7 +3,7 @@ layout: post
 title: 'B07QMTM9HP: Ahorra en Asics Gel-Sonoma 4  Zapatillas de Runnin'
 date: 2019/12/27 19:50:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41YvtMzcojL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YvtMzcojL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QMTM9HP

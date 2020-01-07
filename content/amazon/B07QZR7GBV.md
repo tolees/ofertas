@@ -3,7 +3,7 @@ layout: post
 title: 'B07QZR7GBV: Ahorra en OMERIL Linterna Frontal LED  Linterna Ca'
 date: 2019/12/24 01:34:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/512GdRRwgfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512GdRRwgfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QZR7GBV

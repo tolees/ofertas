@@ -2,7 +2,7 @@
 layout: post
 title: 'B07SKKWBKY - Ofertón en Amazon para adidas Superstar  Zapatillas para Hombre'
 date: 2019/12/17 19:30:29 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/3181blPQ%2B3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3181blPQ%2B3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

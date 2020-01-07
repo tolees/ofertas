@@ -3,7 +3,7 @@ layout: post
 title: 'B07H5MTT1F: Ahorra en Skechers Flex Appeal 3.0  Zapatillas par'
 date: 2020-01-07 10:28:07
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41URYa7GECL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41URYa7GECL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H5MTT1F

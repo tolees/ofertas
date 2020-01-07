@@ -2,7 +2,7 @@
 layout: post
 title: 'B07ZHD2G3S - Ofertón en Amazon para Electirc Mini Máquina del Vacío con Paqu'
 date: 2020-01-01 23:47:39
-image: https://images-eu.ssl-images-amazon.com/images/I/51K5x2ByYqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51K5x2ByYqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

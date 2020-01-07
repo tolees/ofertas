@@ -3,7 +3,7 @@ layout: post
 title: 'B07FPGDG49: Ahorra en RAOYI Memoria Flash USB de 8GB USB 2.0 P'
 date: 2019/12/15 23:22:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51THf9EYzGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51THf9EYzGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FPGDG49

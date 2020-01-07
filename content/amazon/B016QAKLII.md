@@ -2,7 +2,7 @@
 layout: post
 title: 'B016QAKLII - Ofertón en Amazon para adidas Parma 16 SHO Sport Shorts  Hombre'
 date: 2020-01-06 09:04:31
-image: https://images-eu.ssl-images-amazon.com/images/I/41diYD0f3VL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41diYD0f3VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

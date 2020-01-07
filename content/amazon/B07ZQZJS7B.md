@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZQZJS7B: Rebaja en Tronsmart Spunky Auriculares Bluetooth S en Amazon'
 date: 2019/12/19 14:56:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/317KQ1PgkdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/317KQ1PgkdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZQZJS7B

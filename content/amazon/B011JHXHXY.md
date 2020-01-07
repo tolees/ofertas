@@ -2,7 +2,7 @@
 layout: post
 title: 'B011JHXHXY - Ofertón en Amazon para Disney Frozen Elsa & Anna Girls Swim rin'
 date: 2019/12/20 07:15:27 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51hNryjY1jL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hNryjY1jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

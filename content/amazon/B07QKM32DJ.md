@@ -3,7 +3,7 @@ layout: post
 title: 'B07QKM32DJ: Rebaja en Taladro Percutor  LOMVUM 810W Taladro El en Amazon'
 date: 2019/12/28 12:43:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41BeRTsqTcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BeRTsqTcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QKM32DJ

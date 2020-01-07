@@ -3,7 +3,7 @@ layout: post
 title: 'B07KTKL5J1: Ahorra en Clarks Originals Women s Ashton Derbys  '
 date: 2020-01-01 17:11:42
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31NDZjW2lhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NDZjW2lhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KTKL5J1

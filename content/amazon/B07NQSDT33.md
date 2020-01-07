@@ -3,7 +3,7 @@ layout: post
 title: 'B07NQSDT33: Ahorra en Skechers Comfy Flex 2.0  Zapatillas para'
 date: 2019-12-31 23:36:44
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41gwXq2LjvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41gwXq2LjvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NQSDT33

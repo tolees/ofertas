@@ -3,7 +3,7 @@ layout: post
 title: 'B079KB7DWQ: Ahorra en BAIGIO Bolso Fiesta Mujer Lentejuelas  C'
 date: 2020-01-01 17:50:52
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51iwnU2NeKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51iwnU2NeKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B079KB7DWQ

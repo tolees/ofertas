@@ -3,7 +3,7 @@ layout: post
 title: 'B07N1HLHMH: Ahorra en Clarks Damen Un Adorn Zip Slipper  Beige'
 date: 2020-01-02 10:48:37
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31hEqYQWk7L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31hEqYQWk7L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N1HLHMH

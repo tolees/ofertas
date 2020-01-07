@@ -3,7 +3,7 @@ layout: post
 title: 'B00VAH9YIQ: Ahorra en Manfrotto Lumimuse 8 LED  color negro'
 date: 2020-01-01 19:31:48
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VAH9YIQ

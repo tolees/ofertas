@@ -3,7 +3,7 @@ layout: post
 title: 'B07KG18GQX: Ahorra en Puma Popcat  Zapatos de Playa y Piscina '
 date: 2019/12/16 12:16:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Is9BUfBVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Is9BUfBVL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KG18GQX

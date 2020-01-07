@@ -3,7 +3,7 @@ layout: post
 title: 'B07DZ6LXJ6: Ahorra en Columbia Mission Air Chaqueta Interchang'
 date: 2019/12/25 20:03:16 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31F2yERLKiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F2yERLKiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DZ6LXJ6

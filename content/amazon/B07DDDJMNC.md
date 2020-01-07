@@ -3,7 +3,7 @@ layout: post
 title: 'B07DDDJMNC: Rebaja en Furreal Friends Hasbro E0388105 - Lolo   en Amazon'
 date: 2019/12/18 07:47:32 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41x6r6mhLCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41x6r6mhLCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DDDJMNC

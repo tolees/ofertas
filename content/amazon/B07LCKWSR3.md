@@ -3,7 +3,7 @@ layout: post
 title: 'B07LCKWSR3: Rebaja en BURRITO BLANCO Chichonera para Cuna de B en Amazon'
 date: 2019/12/28 15:02:01 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31S7xMkclUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S7xMkclUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LCKWSR3

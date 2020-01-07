@@ -2,7 +2,7 @@
 layout: post
 title: 'B01FSJVOQ6 - Ofertón en Amazon para Rimmel London Kate Sculpting Palette Pal'
 date: 2020-01-06 13:45:29
-image: https://images-eu.ssl-images-amazon.com/images/I/412ymhRvVrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412ymhRvVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

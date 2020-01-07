@@ -3,7 +3,7 @@ layout: post
 title: 'B07VVQ3LPZ: Rebaja en Proyector TAOCOCO Mini Portátil Proyecto en Amazon'
 date: 2019/12/15 08:46:40 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51e5u2alSgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51e5u2alSgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VVQ3LPZ

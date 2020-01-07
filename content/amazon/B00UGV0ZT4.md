@@ -2,7 +2,7 @@
 layout: post
 title: 'B00UGV0ZT4 - Ofertón en Amazon para Kempa Core Modern Pantalones De Entrenam'
 date: 2019/12/19 11:53:38 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41AEeGXImJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41AEeGXImJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

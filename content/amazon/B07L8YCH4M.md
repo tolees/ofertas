@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L8YCH4M - Ofertón en Amazon para Adidas Adipower Light 1.9 Palas  Mujer  '
 date: 2019/12/25 17:08:10 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51l-%2BhdlrGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51l-%2BhdlrGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

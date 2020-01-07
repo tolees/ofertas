@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZRL7VK6: Ahorra en DANISH ENDURANCE Calcetines de Ciclismo '
 date: 2020-01-03 23:35:59
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41nynouGHnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nynouGHnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZRL7VK6

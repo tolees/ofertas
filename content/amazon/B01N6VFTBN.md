@@ -3,7 +3,7 @@ layout: post
 title: 'B01N6VFTBN: Rebaja en The North Face M Resolve Jacket Chaqueta en Amazon'
 date: 2019/12/15 19:22:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411Wtx8fh%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411Wtx8fh%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N6VFTBN

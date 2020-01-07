@@ -2,7 +2,7 @@
 layout: post
 title: 'B0793TFZVR - Ofertón en Amazon para deAO Centro Médico y Enfermería Set de D'
 date: 2019/12/20 08:27:48 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51f%2BEyVXV0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f%2BEyVXV0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

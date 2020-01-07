@@ -3,7 +3,7 @@ layout: post
 title: 'B008MXNXP6: Ahorra en Diesel Reloj Cronógrafo para Hombre de C'
 date: 2019/12/10 22:28:18 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/512U5wJoaoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512U5wJoaoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B008MXNXP6

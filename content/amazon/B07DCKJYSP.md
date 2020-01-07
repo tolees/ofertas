@@ -3,7 +3,7 @@ layout: post
 title: 'B07DCKJYSP: Rebaja en DADYPET Bomba de Agua  Bomba para Acuari en Amazon'
 date: 2019/12/27 11:40:23 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41WgjO5Jm4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WgjO5Jm4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DCKJYSP

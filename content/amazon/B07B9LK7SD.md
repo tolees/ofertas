@@ -2,7 +2,7 @@
 layout: post
 title: 'B07B9LK7SD - Ofertón en Amazon para find. Parka Ligera Hombre  Beige  Stone '
 date: 2019/12/20 19:01:45 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07DJ3JGFM: Ahorra en New Balance Fresh Faom Cruz v2 Hygge Pac'
 date: 2019/12/27 19:23:35 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/515wEe8QysL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/515wEe8QysL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DJ3JGFM

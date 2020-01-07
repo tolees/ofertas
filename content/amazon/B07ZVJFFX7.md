@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZVJFFX7: Rebaja en DADYPET Juguetes para Gatos Interactivos en Amazon'
 date: 2020-01-07 07:47:32
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41CFfJXrt4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CFfJXrt4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZVJFFX7

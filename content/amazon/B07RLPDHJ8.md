@@ -2,7 +2,7 @@
 layout: post
 title: 'B07RLPDHJ8 - Ofertón en Amazon para Kdely Adaptador HDMI 1080P HD Adaptador '
 date: 2019/12/20 03:14:04 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31ARv5jDBxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ARv5jDBxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CZHCW4F - Ofertón en Amazon para Asics Gel-Lyte  Zapatillas Unisex Niños '
 date: 2019/12/18 22:07:18 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2qHFkNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

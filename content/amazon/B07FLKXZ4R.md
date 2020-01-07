@@ -3,7 +3,7 @@ layout: post
 title: 'B07FLKXZ4R: Rebaja en Superdry Orange Label Jogger Chándal  Az en Amazon'
 date: 2019/12/15 11:56:38 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31ggIqRX%2B4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ggIqRX%2B4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FLKXZ4R

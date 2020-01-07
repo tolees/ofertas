@@ -2,7 +2,7 @@
 layout: post
 title: 'B06X6MRTBV - Ofertón en Amazon para adidas Vs Set  Zapatillas de Deporte par'
 date: 2019/12/20 01:38:30 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41WUEzGeaNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WUEzGeaNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

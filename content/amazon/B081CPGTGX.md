@@ -3,7 +3,7 @@ layout: post
 title: 'B081CPGTGX: Ahorra en Geographical Norway Parka Hombre Boomera'
 date: 2020-01-02 08:34:53
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41BCScGwpJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BCScGwpJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081CPGTGX

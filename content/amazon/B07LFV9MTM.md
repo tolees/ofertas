@@ -2,7 +2,7 @@
 layout: post
 title: 'B07LFV9MTM - Ofertón en Amazon para Geox U HALLSON A  Botas Chukka para Homb'
 date: 2020-01-01 20:28:18
-image: https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31ZqZ4C%2B1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07GFXDNLX: Rebaja en Sony WF-SP900B - Auriculares Deportivos  en Amazon'
 date: 2019/12/15 14:02:23 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/319yb4WXhgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319yb4WXhgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GFXDNLX

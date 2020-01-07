@@ -2,7 +2,7 @@
 layout: post
 title: 'B06WGVJ9GY - Ofertón en Amazon para beyerdynamic MMX 300 Premium geschlossen'
 date: 2019/12/29 09:35:49 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41iQDHQKxwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iQDHQKxwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

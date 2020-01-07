@@ -3,7 +3,7 @@ layout: post
 title: 'B07TYY7KK8: Rebaja en BRIKSMAX Led Lighting Kit for LEGO Frien en Amazon'
 date: 2020-01-03 14:11:41
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ZzjZH%2Bm0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzjZH%2Bm0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TYY7KK8

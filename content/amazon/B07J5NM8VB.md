@@ -3,7 +3,7 @@ layout: post
 title: 'B07J5NM8VB: Rebaja en otutun Protector para Parabrisas  Protec en Amazon'
 date: 2020-01-03 10:08:24
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61YYTAHtYUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61YYTAHtYUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07J5NM8VB

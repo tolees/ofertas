@@ -3,7 +3,7 @@ layout: post
 title: 'B07RXMWT7Y: Ahorra en Hapilife 360 Grifo de Cocina Grifo Mezcl'
 date: 2019/12/17 08:13:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41XixJ1BP0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XixJ1BP0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RXMWT7Y

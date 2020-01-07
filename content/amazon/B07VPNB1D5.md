@@ -3,7 +3,7 @@ layout: post
 title: 'B07VPNB1D5: Rebaja en Jabones faciales  Jabón de hecho a mano  en Amazon'
 date: 2019/12/15 20:46:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Wczh8aVhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Wczh8aVhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VPNB1D5

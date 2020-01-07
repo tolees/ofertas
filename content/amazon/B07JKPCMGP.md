@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JKPCMGP - Ofertón en Amazon para FOCHEA Calefactor Cerámico 1800W Calenta'
 date: 2019/12/25 17:22:56 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41iDC6XjN-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41iDC6XjN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

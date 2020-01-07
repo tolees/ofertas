@@ -3,7 +3,7 @@ layout: post
 title: 'B07KGTKLVQ: Ahorra en BILLABONG All Day LB Bañador  Negro  Bla'
 date: 2020-01-06 10:55:17
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/4100CAPcHIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4100CAPcHIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KGTKLVQ

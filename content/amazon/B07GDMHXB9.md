@@ -3,7 +3,7 @@ layout: post
 title: 'B07GDMHXB9: Rebaja en DANISH ENDURANCE Bóxers para Hombres Pac en Amazon'
 date: 2020-01-01 11:06:43
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41olCRvkxRL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41olCRvkxRL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GDMHXB9

@@ -2,7 +2,7 @@
 layout: post
 title: 'B074M7FJDW - Ofertón en Amazon para LUDOS Clamor Auriculares con Micrófono y'
 date: 2020-01-06 13:15:32
-image: https://images-eu.ssl-images-amazon.com/images/I/41QdBGS53uL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QdBGS53uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07Z7NV1CR: Rebaja en Muñecas Arias - Elegance 36 cm con Conju en Amazon'
 date: 2019/12/23 14:05:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41MtqsyysQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41MtqsyysQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07Z7NV1CR

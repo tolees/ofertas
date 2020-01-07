@@ -3,7 +3,7 @@ layout: post
 title: 'B078SF9KJC: Rebaja en Esprit 038ee2k007  Camiseta Hombre  Blan en Amazon'
 date: 2019/12/20 12:04:28 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GxD51Y5cL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GxD51Y5cL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078SF9KJC

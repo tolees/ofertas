@@ -3,7 +3,7 @@ layout: post
 title: 'B07PGXBFRX: Rebaja en LA Active Calcetines Antideslizantes - P en Amazon'
 date: 2019/12/31 12:21:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/415fBZ-9ffL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415fBZ-9ffL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PGXBFRX

@@ -3,7 +3,7 @@ layout: post
 title: 'B002NSMOTM: Ahorra en Accurist Reloj de Pulsera IN4402RCH'
 date: 2019/12/28 12:51:21 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41XxHuhhvxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41XxHuhhvxL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002NSMOTM

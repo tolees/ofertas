@@ -3,7 +3,7 @@ layout: post
 title: 'B07VH9HCN3: Ahorra en Tableta de Dibujo Pizarra 3D Mágico con '
 date: 2020-01-02 09:42:58
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51wvUIIzX9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wvUIIzX9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VH9HCN3

@@ -3,7 +3,7 @@ layout: post
 title: 'B00KZFY4LQ: Rebaja en Funko Dragonball Z Cell Figura de Vinilo en Amazon'
 date: 2019/12/16 21:11:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GxZej4lhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GxZej4lhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KZFY4LQ

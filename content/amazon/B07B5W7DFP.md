@@ -3,7 +3,7 @@ layout: post
 title: 'B07B5W7DFP: Ahorra en Jumanji: Bienvenidos A La Jungla  4K UHD'
 date: 2020-01-05 12:18:33
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61Xw3iqmAiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61Xw3iqmAiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B5W7DFP

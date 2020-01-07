@@ -3,7 +3,7 @@ layout: post
 title: 'B07N3VXB5F: Rebaja en Desigual Postcards Dress Vestido  Multic en Amazon'
 date: 2019/12/28 20:53:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51NGLFZ6xAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NGLFZ6xAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N3VXB5F

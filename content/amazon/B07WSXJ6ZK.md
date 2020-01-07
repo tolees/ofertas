@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WSXJ6ZK - Ofertón en Amazon para Charles Wilson Original Sudadera de Homb'
 date: 2020-01-02 12:23:44
-image: https://images-eu.ssl-images-amazon.com/images/I/41tkfDXiS4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tkfDXiS4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

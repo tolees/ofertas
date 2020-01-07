@@ -2,7 +2,7 @@
 layout: post
 title: 'B07GG6Z8TS - Ofertón en Amazon para Hitman 2 - Standard Edition'
 date: 2019/12/19 11:22:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41ZMbInC7OL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ZMbInC7OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00IWSI38S: Rebaja en BOLIGRAFO BIC Cristal Oro en Amazon'
 date: 2020-01-04 01:20:00
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/517hQLnHwjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/517hQLnHwjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00IWSI38S

@@ -2,7 +2,7 @@
 layout: post
 title: 'B0792HCZHH - Ofertón en Amazon para Geox J Xunday Boy A  Botas Chukka para N'
 date: 2019/12/22 21:09:24 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/418xtQv%2BsBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/418xtQv%2BsBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

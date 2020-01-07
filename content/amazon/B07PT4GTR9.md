@@ -3,7 +3,7 @@ layout: post
 title: 'B07PT4GTR9: Ahorra en L.O.L. Surprise! 2-in-1 Glamper -mehrfar'
 date: 2019/12/15 07:58:51 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/4135%2BDl1fFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4135%2BDl1fFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PT4GTR9

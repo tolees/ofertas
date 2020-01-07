@@ -3,7 +3,7 @@ layout: post
 title: 'B07HM54CLK: Rebaja en OtterBox Symmetry Folio - Protección de  en Amazon'
 date: 2019/12/21 20:27:01 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31zXWG5zaeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31zXWG5zaeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07HM54CLK

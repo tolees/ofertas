@@ -3,7 +3,7 @@ layout: post
 title: 'B07SRZMBRN: Ahorra en COOAU Cámara Deportiva 4K WiFi 16 MP con'
 date: 2019/12/24 19:08:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ps%2BEKfOoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ps%2BEKfOoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SRZMBRN

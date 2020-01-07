@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'B07D5XWS1V - Ofertón en Amazon para CLUB CUBANA Camisa Hawaiana Florar Casua'
-date: 2020-01-03 08:44:12
-image: https://images-eu.ssl-images-amazon.com/images/I/51-DE%2BOwh0L._SL200_.jpg
+date: 2020-01-07 15:10:00
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-DE%2BOwh0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

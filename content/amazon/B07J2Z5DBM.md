@@ -3,7 +3,7 @@ layout: post
 title: 'B07J2Z5DBM: Rebaja en TOZO T10 TWS audífonos estéreo inalámbri en Amazon'
 date: 2020-01-05 12:22:30
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B07J2Z5DBM

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07N3TLNVF - Ofertón en Amazon para Desigual Blouse LUMBE Blusa  Negro  Negr'
 date: 2020-01-05 20:04:48
-image: https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

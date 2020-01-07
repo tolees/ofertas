@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KPS9H5G - Ofertón en Amazon para Funko Vinyl: Disney: Dumbo: Pop 1 Firema'
 date: 2020-01-06 14:30:58
-image: https://images-eu.ssl-images-amazon.com/images/I/41QLjpzDp2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41QLjpzDp2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

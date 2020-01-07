@@ -3,7 +3,7 @@ layout: post
 title: 'B07DFZ2DRM: Rebaja en Vero Moda Vmnancy LS Knit Dress Noos Ves en Amazon'
 date: 2019/12/31 12:15:06 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41wqXAFtDUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wqXAFtDUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DFZ2DRM

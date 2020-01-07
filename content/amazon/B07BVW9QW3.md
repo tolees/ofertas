@@ -3,7 +3,7 @@ layout: post
 title: 'B07BVW9QW3: Rebaja en seQoya - Crooked | Reloj de Madera con E en Amazon'
 date: 2019/12/18 15:08:32 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41FGXVli6aL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FGXVli6aL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BVW9QW3

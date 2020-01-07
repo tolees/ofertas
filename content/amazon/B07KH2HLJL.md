@@ -3,7 +3,7 @@ layout: post
 title: 'B07KH2HLJL: Rebaja en Sony - PlayStation VR Casco De Realidad  en Amazon'
 date: 2020-01-02 12:04:56
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31gTz0WyURL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31gTz0WyURL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KH2HLJL

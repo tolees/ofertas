@@ -3,7 +3,7 @@ layout: post
 title: 'B07D3DGTV2: Rebaja en Panasonic Lumix DC-FT7EG-A - Cámara 4K a en Amazon'
 date: 2020-01-06 13:40:30
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/410z0zzPwwL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/410z0zzPwwL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D3DGTV2

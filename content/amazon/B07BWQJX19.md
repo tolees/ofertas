@@ -3,7 +3,7 @@ layout: post
 title: 'B07BWQJX19: Ahorra en Lacoste Reloj Analógico para Mujer de Cu'
 date: 2019/12/12 06:50:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51xQ%2Bj4hN3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51xQ%2Bj4hN3L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BWQJX19

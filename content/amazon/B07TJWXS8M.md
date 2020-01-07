@@ -3,7 +3,7 @@ layout: post
 title: 'B07TJWXS8M: Rebaja en Jellas 22PCS Extractor de Tornillos  Bro en Amazon'
 date: 2019/12/16 19:21:37 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51pR3xJgEnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51pR3xJgEnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TJWXS8M

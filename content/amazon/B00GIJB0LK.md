@@ -2,7 +2,7 @@
 layout: post
 title: 'B00GIJB0LK - Ofertón en Amazon para G-STAR RAW Lynn Skinny  Vaqueros  Azul  '
 date: 2019/12/27 19:19:33 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41azPivRwdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41azPivRwdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

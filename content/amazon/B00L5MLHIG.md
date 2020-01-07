@@ -3,7 +3,7 @@ layout: post
 title: 'B00L5MLHIG: Rebaja en doupi Deluxe Protección Funda para iPad  en Amazon'
 date: 2019/12/22 23:18:35 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41cM9YQ95IL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cM9YQ95IL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00L5MLHIG

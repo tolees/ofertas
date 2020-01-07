@@ -3,7 +3,7 @@ layout: post
 title: 'B00BN7XKOW: Rebaja en Neutrogena Loción Corporal Reparación In en Amazon'
 date: 2019-12-31 19:17:25
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31KSxYG6fHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31KSxYG6fHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BN7XKOW

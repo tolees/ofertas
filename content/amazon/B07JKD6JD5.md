@@ -3,7 +3,7 @@ layout: post
 title: 'B07JKD6JD5: Ahorra en WiMiUS Drone con Cámara HD 1080P Auténti'
 date: 2019/12/12 11:44:44 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51i6kiiU0WL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51i6kiiU0WL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JKD6JD5

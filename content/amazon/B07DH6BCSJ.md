@@ -2,7 +2,7 @@
 layout: post
 title: 'B07DH6BCSJ - Ofertón en Amazon para BNTTEAM 6 Paquetes 2.1m  2.4m  3.0m 3.6m'
 date: 2019/12/11 00:55:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/5103VB8aG9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5103VB8aG9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

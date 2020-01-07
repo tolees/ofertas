@@ -3,7 +3,7 @@ layout: post
 title: 'B07C4NCB7N: Rebaja en Rollos para Envasadora Sellador de Vacío en Amazon'
 date: 2019/12/11 00:45:45 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ecDkGCrcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ecDkGCrcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C4NCB7N

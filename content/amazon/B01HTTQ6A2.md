@@ -2,7 +2,7 @@
 layout: post
 title: 'B01HTTQ6A2 - Ofertón en Amazon para Vileda Turbo Juego de fregona  Negro Y R'
 date: 2020-01-01 14:09:02
-image: https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

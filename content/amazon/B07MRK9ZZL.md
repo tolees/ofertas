@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MRK9ZZL - Ofertón en Amazon para Lacoste Hh9553 Pantalones  Beige  Vienno'
 date: 2020-01-01 09:27:38
-image: https://images-eu.ssl-images-amazon.com/images/I/31TdECoKggL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TdECoKggL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07L9PJMJG: Rebaja en Under Armour Sportstyle Pique Track Jack en Amazon'
 date: 2019/12/19 21:42:46 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41y4Ixj0CWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41y4Ixj0CWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L9PJMJG

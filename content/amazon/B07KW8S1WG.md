@@ -3,7 +3,7 @@ layout: post
 title: 'B07KW8S1WG: Rebaja en Lego Wear Jungen LWTIGER 650-T-SHIRT L/S en Amazon'
 date: 2019/12/15 15:47:56 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41CBbHKHj9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41CBbHKHj9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KW8S1WG

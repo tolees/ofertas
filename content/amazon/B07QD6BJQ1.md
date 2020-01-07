@@ -3,7 +3,7 @@ layout: post
 title: 'B07QD6BJQ1: Rebaja en Santa Digna Santa Digna Cabernet Sauvign en Amazon'
 date: 2019/12/19 23:55:20 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31yD5NB6FeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31yD5NB6FeL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QD6BJQ1

@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XPVGQKY - Ofertón en Amazon para StarTech.com Divisor Splitter MST USB-C '
 date: 2019/12/23 13:15:16 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31CiTORLL9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31CiTORLL9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

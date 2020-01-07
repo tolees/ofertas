@@ -2,7 +2,7 @@
 layout: post
 title: 'B0829XBPFG - Ofertón en Amazon para GODNECE Technic Off-road Car  2.4G RC Of'
 date: 2020-01-05 22:28:42
-image: https://images-eu.ssl-images-amazon.com/images/I/51Id7hR592L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Id7hR592L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

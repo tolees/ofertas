@@ -2,7 +2,7 @@
 layout: post
 title: 'B00M2OA5JI - Ofertón en Amazon para Cybex Silver Solution X2-Fix - Silla de '
 date: 2020-01-02 15:07:17
-image: https://images-eu.ssl-images-amazon.com/images/I/41uiQ4D058L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uiQ4D058L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

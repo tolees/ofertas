@@ -3,7 +3,7 @@ layout: post
 title: 'B01N1LQDLE: Rebaja en Pecute Cama de Perros y Gatos Básica Cam en Amazon'
 date: 2020-01-03 12:07:53
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/412qWVPbxYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/412qWVPbxYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N1LQDLE

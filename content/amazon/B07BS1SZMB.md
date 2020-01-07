@@ -3,7 +3,7 @@ layout: post
 title: 'B07BS1SZMB: Rebaja en HP Xpress SL-M2078W Laser 20 ppm 1200 x  en Amazon'
 date: 2019/12/19 08:56:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31YGzcDDDgL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31YGzcDDDgL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BS1SZMB

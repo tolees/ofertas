@@ -2,7 +2,7 @@
 layout: post
 title: 'B01IHZNSXU - Ofertón en Amazon para The North Face Full Zip Chaqueta 100 Gla'
 date: 2019/12/27 02:30:06 +0000
-image: None._SL200_
+image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring

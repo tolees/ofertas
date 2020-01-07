@@ -2,7 +2,7 @@
 layout: post
 title: 'B07SWJV92R - Ofertón en Amazon para Cecotec CleanFry Infinity 4000 Black. 4 '
 date: 2019/12/22 08:58:53 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41IJM5y7ZQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IJM5y7ZQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

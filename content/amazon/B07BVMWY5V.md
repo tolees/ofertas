@@ -3,7 +3,7 @@ layout: post
 title: 'B07BVMWY5V: Rebaja en Zequins- Muñeco Emmy  Famosa 700014680  en Amazon'
 date: 2020-01-04 14:41:59
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NtIIi1yXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BVMWY5V

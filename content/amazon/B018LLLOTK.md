@@ -3,7 +3,7 @@ layout: post
 title: 'B018LLLOTK: Ahorra en Tommy Hilfiger New Aly Belt  Cinturón Ho'
 date: 2020-01-03 20:04:18
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Cq7-nz3YL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cq7-nz3YL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B018LLLOTK

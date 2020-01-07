@@ -3,7 +3,7 @@ layout: post
 title: 'B01AYGUFBS: Ahorra en Medisana HU 662 Calientacamas  150 x 80 '
 date: 2019/12/24 07:02:20 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31lRgcUc1PL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31lRgcUc1PL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01AYGUFBS

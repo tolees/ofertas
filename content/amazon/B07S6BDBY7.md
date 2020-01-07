@@ -2,7 +2,7 @@
 layout: post
 title: 'B07S6BDBY7 - Ofertón en Amazon para Oral-B Aquacare Pro-Expert - Irrigador b'
 date: 2019/12/18 07:47:32 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/411%2Bx8Oeq-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411%2Bx8Oeq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

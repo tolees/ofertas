@@ -2,7 +2,7 @@
 layout: post
 title: 'B072FG3XLT - Ofertón en Amazon para Thomas Earnshaw Smart Watch Armbanduhr E'
 date: 2019/12/11 00:53:46 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51mOP9B9wxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mOP9B9wxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

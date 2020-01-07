@@ -3,7 +3,7 @@ layout: post
 title: 'B0129ZKAEO: Ahorra en Bulova Marine Star 98B258 - Reloj de pul'
 date: 2019/12/14 21:55:31 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Nd-SfW4QL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Nd-SfW4QL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0129ZKAEO

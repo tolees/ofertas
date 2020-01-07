@@ -3,7 +3,7 @@ layout: post
 title: 'B07KQ1QSZT: Rebaja en LEGO MOVIE 2 70839 The Rexcelsior! Rex a en Amazon'
 date: 2020-01-04 06:06:57
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51dsGllBGPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51dsGllBGPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KQ1QSZT

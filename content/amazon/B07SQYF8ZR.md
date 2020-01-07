@@ -2,7 +2,7 @@
 layout: post
 title: 'B07SQYF8ZR - Ofertón en Amazon para Guzack Riñonera Deportivo Bolso Cintura '
 date: 2020-01-02 16:48:42
-image: https://images-eu.ssl-images-amazon.com/images/I/51HDc9Rc5HL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HDc9Rc5HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

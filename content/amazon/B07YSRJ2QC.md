@@ -3,7 +3,7 @@ layout: post
 title: 'B07YSRJ2QC: Ahorra en Bolso hecho a mano del ordenador portáti'
 date: 2019/12/15 11:46:28 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/4178mtZ3PlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4178mtZ3PlL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YSRJ2QC

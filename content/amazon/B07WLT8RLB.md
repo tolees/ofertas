@@ -3,7 +3,7 @@ layout: post
 title: 'B07WLT8RLB: Ahorra en Echo Dot  3rd Gen  - Smart speaker with '
 date: 2020-01-02 13:14:18
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07WLT8RLB

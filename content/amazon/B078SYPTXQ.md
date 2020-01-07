@@ -2,7 +2,7 @@
 layout: post
 title: 'B078SYPTXQ - Ofertón en Amazon para Salomon Speedcross 4 GTX W  Zapatillas d'
 date: 2019/12/25 16:26:16 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41mqhdp85yL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mqhdp85yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

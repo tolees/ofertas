@@ -2,7 +2,7 @@
 layout: post
 title: 'B01EOWZZ22 - Ofertón en Amazon para Helly Hansen Dubliner Parka Chaqueta 3/4'
 date: 2019/12/20 00:59:39 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Q3asBsxhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3asBsxhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

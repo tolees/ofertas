@@ -3,7 +3,7 @@ layout: post
 title: 'B07B5DNSK2: Rebaja en Oral-B Smart 5000 - Estación de Cuidado  en Amazon'
 date: 2019/12/29 11:11:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51zgwQCaTGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51zgwQCaTGL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07B5DNSK2

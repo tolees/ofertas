@@ -3,7 +3,7 @@ layout: post
 title: 'B07DB1C3ZB: Ahorra en PUTUO Calcetines Dedos Hombres Calcetine'
 date: 2020-01-05 14:17:11
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/613A-11QWhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/613A-11QWhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DB1C3ZB

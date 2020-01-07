@@ -3,7 +3,7 @@ layout: post
 title: 'B077HLCG3M: Rebaja en find. MDR 40625 vestidos mujer  Verde  G en Amazon'
 date: 2020-01-03 00:28:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077HLCG3M

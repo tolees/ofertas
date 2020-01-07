@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MNVX4GR - Ofertón en Amazon para SINOES Zapatos De Los Hombres De Microfi'
 date: 2020-01-05 20:23:10
-image: https://images-eu.ssl-images-amazon.com/images/I/51QyIRzQljL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51QyIRzQljL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

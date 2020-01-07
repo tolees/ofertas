@@ -2,7 +2,7 @@
 layout: post
 title: 'B07N8QHM3G - Ofertón en Amazon para Dim Soutien-Gorge Avec Armatures SUBLIM '
 date: 2019/12/20 20:54:11 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/415JnsMnA3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/415JnsMnA3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

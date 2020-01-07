@@ -3,7 +3,7 @@ layout: post
 title: 'B07DTKTSGM: Rebaja en AmazonBasics - Cable de conector Lightni en Amazon'
 date: 2019/12/14 04:24:58 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yUaf2NDcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yUaf2NDcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07DTKTSGM

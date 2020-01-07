@@ -3,7 +3,7 @@ layout: post
 title: 'B07GDR2LYK: Ahorra en Sony WH-1000XM3 Bluetooth Noise Cancelli'
 date: 2019/12/19 17:09:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31S2giw-4YL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31S2giw-4YL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GDR2LYK

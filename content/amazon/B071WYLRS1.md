@@ -3,7 +3,7 @@ layout: post
 title: 'B071WYLRS1: Rebaja en find. Zapatillas Deportivas con Textura  en Amazon'
 date: 2019/12/22 14:28:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31g5b-CiUDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31g5b-CiUDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WYLRS1

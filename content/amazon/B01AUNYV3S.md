@@ -2,7 +2,7 @@
 layout: post
 title: 'B01AUNYV3S - Ofertón en Amazon para TOUCHBeauty TB-1333 Manicura y Pedicura '
 date: 2019/12/24 17:05:08 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41xpkZUtg3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xpkZUtg3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

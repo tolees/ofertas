@@ -2,7 +2,7 @@
 layout: post
 title: 'B07HRKKP62 - Ofertón en Amazon para WOSTOO Pelo Tiza  10 Colores Colorful te'
 date: 2019/12/22 21:32:00 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/61igpR8H7EL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61igpR8H7EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

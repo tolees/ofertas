@@ -3,7 +3,7 @@ layout: post
 title: 'B07JC3GNFF: Rebaja en Xiaomi Redmi Note 6 Pro - 64GB 6.26-Inch en Amazon'
 date: 2019/12/25 09:03:52 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41BBTElmxEL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BBTElmxEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JC3GNFF

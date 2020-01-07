@@ -3,7 +3,7 @@ layout: post
 title: 'B01MY5NDAC: Ahorra en Comforday Limpiador Vapor Mano  Limpiado'
 date: 2020-01-01 01:02:13
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yz4mRfVYL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yz4mRfVYL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01MY5NDAC

@@ -3,7 +3,7 @@ layout: post
 title: 'B07QMSF1YD: Rebaja en HISENSE H50B7100UK 50-Inch 4K UHD HDR Sm en Amazon'
 date: 2019/12/16 14:34:35 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51bYqE8foIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51bYqE8foIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07QMSF1YD

@@ -3,7 +3,7 @@ layout: post
 title: 'B001VNCA0S: Ahorra en Max Factor False Lash Effect Máscara Col'
 date: 2019/12/30 18:56:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31kwdK%2BrsWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31kwdK%2BrsWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B001VNCA0S

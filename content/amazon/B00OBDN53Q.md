@@ -2,7 +2,7 @@
 layout: post
 title: 'B00OBDN53Q - Ofertón en Amazon para adidas Lange Trainingshose Core 15 Panta'
 date: 2019/12/30 16:56:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41TlkVbWR-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TlkVbWR-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07THC6RDF: Ahorra en Horizon - Complete Edition HITS'
 date: 2020-01-01 17:03:10
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51tQNpiNPUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tQNpiNPUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07THC6RDF

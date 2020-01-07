@@ -2,7 +2,7 @@
 layout: post
 title: 'B07GCCSYVT - Ofertón en Amazon para Pinypon - Isla Mágica de Sirenas con 4 f'
 date: 2019/12/18 07:00:39 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51ungPaqadL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ungPaqadL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

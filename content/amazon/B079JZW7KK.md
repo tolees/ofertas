@@ -2,7 +2,7 @@
 layout: post
 title: 'B079JZW7KK - Ofertón en Amazon para Napapijri Aerons Stand Jacke Chaqueta  A'
 date: 2019/12/27 17:45:21 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41tU2IIzeKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41tU2IIzeKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

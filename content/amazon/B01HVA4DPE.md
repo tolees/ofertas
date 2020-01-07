@@ -3,7 +3,7 @@ layout: post
 title: 'B01HVA4DPE: Ahorra en PJ Masks - Pack de 5 figuras  Bandai 245'
 date: 2020-01-02 17:06:01
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/416enm3UZbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416enm3UZbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01HVA4DPE

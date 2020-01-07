@@ -2,7 +2,7 @@
 layout: post
 title: 'B01HMKVXGA - Ofertón en Amazon para Calvin Klein Deep Euphoria Agua de Perfu'
 date: 2020-01-01 11:04:04
-image: https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

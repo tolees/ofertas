@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MDBJFNS - Ofertón en Amazon para G-STAR RAW Lynn Mid-Waist Skinny Vaquero'
 date: 2019/12/24 18:58:44 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/4117GXujBGL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4117GXujBGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B081RJTX8G: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego Te en Amazon'
 date: 2020-01-06 22:12:28
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51oeqBli15L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51oeqBli15L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081RJTX8G

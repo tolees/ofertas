@@ -3,7 +3,7 @@ layout: post
 title: 'B01N3U0KXN: Ahorra en Auna Melodia Radio Dab Bluetooth  minica'
 date: 2020-01-03 11:33:17
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N3U0KXN

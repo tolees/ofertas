@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KG3HJSJ - Ofertón en Amazon para PUMA NRGY Comet  Zapatillas de Running U'
 date: 2019/12/23 18:25:40 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41-XO%2BH4tnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-XO%2BH4tnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

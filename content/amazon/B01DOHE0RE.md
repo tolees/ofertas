@@ -2,7 +2,7 @@
 layout: post
 title: 'B01DOHE0RE - Ofertón en Amazon para Trango SHANGU  Zapatillas de Deporte Ext'
 date: 2020-01-01 15:09:23
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2BnE%2B5-LZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BnE%2B5-LZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

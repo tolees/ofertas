@@ -3,7 +3,7 @@ layout: post
 title: 'B07SRJWD6F: Rebaja en Reebok Flexagon Energy MT  Zapatillas de en Amazon'
 date: 2020-01-01 10:56:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41DGaEI3dJL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DGaEI3dJL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SRJWD6F

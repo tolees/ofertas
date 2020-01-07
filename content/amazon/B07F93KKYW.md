@@ -3,7 +3,7 @@ layout: post
 title: 'B07F93KKYW: Ahorra en Dormio Colchón Jade- Colchón Viscoelásti'
 date: 2019/12/24 12:54:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GLWt2hIvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GLWt2hIvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07F93KKYW

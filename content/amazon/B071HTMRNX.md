@@ -2,7 +2,7 @@
 layout: post
 title: 'B071HTMRNX - Ofertón en Amazon para Niello Lente Óptica Dual Serie 300W. Luc'
 date: 2019/12/16 06:31:09 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51eJRlu83DL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eJRlu83DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

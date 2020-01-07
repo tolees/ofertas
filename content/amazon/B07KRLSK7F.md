@@ -3,7 +3,7 @@ layout: post
 title: 'B07KRLSK7F: Ahorra en New Balance 373  Zapatillas para Mujer  '
 date: 2020-01-02 17:05:46
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KRLSK7F

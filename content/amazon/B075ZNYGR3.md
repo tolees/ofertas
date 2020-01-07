@@ -3,7 +3,7 @@ layout: post
 title: 'B075ZNYGR3: Ahorra en Hugo BOSS Reloj Cronógrafo para Hombre d'
 date: 2019/12/10 23:23:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51f79S8k4JL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51f79S8k4JL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075ZNYGR3

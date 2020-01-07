@@ -3,7 +3,7 @@ layout: post
 title: 'B07L3DVS4N: Ahorra en Tommy Hilfiger Elevated Leather Flatform'
 date: 2019/12/17 13:24:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/416SwASJWzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/416SwASJWzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07L3DVS4N

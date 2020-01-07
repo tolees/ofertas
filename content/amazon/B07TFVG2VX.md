@@ -3,7 +3,7 @@ layout: post
 title: 'B07TFVG2VX: Ahorra en BelleStyle 24V 15A 360W Fuente Alimentac'
 date: 2020-01-02 08:32:15
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ezQdkopoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ezQdkopoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TFVG2VX

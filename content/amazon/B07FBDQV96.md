@@ -2,7 +2,7 @@
 layout: post
 title: 'B07FBDQV96 - Ofertón en Amazon para Eléctrico Soldador Kit de Estaño con Caj'
 date: 2019/12/13 00:13:18 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/518zH1SBvUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/518zH1SBvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

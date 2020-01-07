@@ -2,7 +2,7 @@
 layout: post
 title: 'B00WTGKN4Q - Ofertón en Amazon para Nasalmer Junior Spray Contra la Congesti'
 date: 2019/12/16 07:36:06 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51aJIYYEjkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51aJIYYEjkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

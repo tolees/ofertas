@@ -2,7 +2,7 @@
 layout: post
 title: 'B000IYEMYI - Ofertón en Amazon para Bosch MFQ3540 Batidora y Amasadora con A'
 date: 2019-12-31 19:51:45
-image: https://images-eu.ssl-images-amazon.com/images/I/41TgbpWH9NL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TgbpWH9NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

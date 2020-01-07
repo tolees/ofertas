@@ -3,7 +3,7 @@ layout: post
 title: 'B075LPHHQB: Rebaja en VOITURE R/C 8009 ROUGE TELECOMMANDE à CO en Amazon'
 date: 2019/12/22 01:28:20 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51gnNVoiACL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51gnNVoiACL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075LPHHQB

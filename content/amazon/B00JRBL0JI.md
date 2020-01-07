@@ -2,7 +2,7 @@
 layout: post
 title: 'B00JRBL0JI - Ofertón en Amazon para Nerf - Lanzadardos Strongarm Elite  Hasb'
 date: 2020-01-06 11:05:34
-image: https://images-eu.ssl-images-amazon.com/images/I/41hGzHDlTdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41hGzHDlTdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

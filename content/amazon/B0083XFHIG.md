@@ -2,7 +2,7 @@
 layout: post
 title: 'B0083XFHIG - Ofertón en Amazon para Timex Expedition Rugged - Reloj análogic'
 date: 2020-01-03 22:00:06
-image: https://images-eu.ssl-images-amazon.com/images/I/51Laotqq%2BHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Laotqq%2BHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

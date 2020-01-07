@@ -3,7 +3,7 @@ layout: post
 title: 'B081ZMSPXX: Ahorra en OwlFay Princess Elsa Frozen Halloween Fa'
 date: 2019/12/14 15:27:21 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41mMiz8YKhL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41mMiz8YKhL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B081ZMSPXX

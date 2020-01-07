@@ -2,7 +2,7 @@
 layout: post
 title: 'B00REDNS5K - Ofertón en Amazon para Invicta Reloj Analógico para Hombre de C'
 date: 2019/12/17 22:37:21 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51YujX3FsUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YujX3FsUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

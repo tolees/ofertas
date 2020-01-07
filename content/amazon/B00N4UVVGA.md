@@ -3,7 +3,7 @@ layout: post
 title: 'B00N4UVVGA: Rebaja en WD 6 TB NAS Hard Drive en Amazon'
 date: 2019/12/16 11:14:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41eNqSlqSbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41eNqSlqSbL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00N4UVVGA

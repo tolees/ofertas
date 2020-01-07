@@ -3,7 +3,7 @@ layout: post
 title: 'B00QHAPPXO: Rebaja en Under Armour UA CG Armour Mock Camiseta  en Amazon'
 date: 2019/12/18 10:20:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31NEIYaTwrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NEIYaTwrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00QHAPPXO

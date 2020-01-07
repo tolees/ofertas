@@ -2,7 +2,7 @@
 layout: post
 title: 'B008AJKPYE - Ofertón en Amazon para Bosch Professional 2 608 000 495 Sierra '
 date: 2020-01-06 14:45:35
-image: https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

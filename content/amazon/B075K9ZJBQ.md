@@ -3,7 +3,7 @@ layout: post
 title: 'B075K9ZJBQ: Ahorra en New Balance 574 Core Zapatillas Hombre  '
 date: 2019/12/30 00:36:59 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YWLO-DqfL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B075K9ZJBQ

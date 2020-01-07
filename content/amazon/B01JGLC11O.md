@@ -2,7 +2,7 @@
 layout: post
 title: 'B01JGLC11O - Ofertón en Amazon para Tria Beauty HRLP W - Depiladora láser de'
 date: 2020-01-07 10:45:25
-image: https://images-eu.ssl-images-amazon.com/images/I/318F0U4nGKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/318F0U4nGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

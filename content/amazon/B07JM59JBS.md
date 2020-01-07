@@ -3,7 +3,7 @@ layout: post
 title: 'B07JM59JBS: Ahorra en Playmobil 70179 1.2.3 Meine erste Eisenb'
 date: 2019/12/16 16:19:16 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51Q3QmAA0AL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51Q3QmAA0AL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JM59JBS

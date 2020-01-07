@@ -3,7 +3,7 @@ layout: post
 title: 'B07KFZ5X4P: Ahorra en PUMA Smash v2 Mid SD  Zapatillas Altas U'
 date: 2019/12/20 12:08:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41IxH9c-5aL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41IxH9c-5aL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KFZ5X4P

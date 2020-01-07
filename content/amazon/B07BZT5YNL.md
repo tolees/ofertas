@@ -3,7 +3,7 @@ layout: post
 title: 'B07BZT5YNL: Rebaja en Triumph Amourette 300 W X Sujetador con  en Amazon'
 date: 2019/12/16 13:25:38 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/519aRZpDEuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519aRZpDEuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07BZT5YNL

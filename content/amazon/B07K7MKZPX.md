@@ -3,7 +3,7 @@ layout: post
 title: 'B07K7MKZPX: Ahorra en Asics Patriot 10  Zapatillas de Running '
 date: 2019/12/30 13:51:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLHTvTxDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K7MKZPX

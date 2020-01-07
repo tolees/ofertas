@@ -2,7 +2,7 @@
 layout: post
 title: 'B07HWK9GJ1 - Ofertón en Amazon para Huawei 51992696 Mate 20 Pro Aktiv Schutz'
 date: 2019/12/19 09:02:52 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/313Louni8WL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/313Louni8WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

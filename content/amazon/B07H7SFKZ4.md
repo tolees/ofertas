@@ -3,7 +3,7 @@ layout: post
 title: 'B07H7SFKZ4: Rebaja en Nike Downshifter 9  Zapatillas de Runnin en Amazon'
 date: 2020-01-03 16:34:30
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41W4wkCPGCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41W4wkCPGCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07H7SFKZ4

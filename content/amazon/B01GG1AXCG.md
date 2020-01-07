@@ -2,7 +2,7 @@
 layout: post
 title: 'B01GG1AXCG - Ofertón en Amazon para TROLLS - Coronación de la Princesa Poppy'
 date: 2019/12/18 19:15:03 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41fk62fZpiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fk62fZpiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

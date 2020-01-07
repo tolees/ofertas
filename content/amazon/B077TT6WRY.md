@@ -3,7 +3,7 @@ layout: post
 title: 'B077TT6WRY: Rebaja en Kipling Creativity S  Bolso bandolera pa en Amazon'
 date: 2019/12/17 07:12:16 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41YZ6kMZiTL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41YZ6kMZiTL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077TT6WRY

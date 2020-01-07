@@ -2,7 +2,7 @@
 layout: post
 title: 'B07G4PNR8F - Ofertón en Amazon para Michael Kors Reloj Analógico para Hombre'
 date: 2019/12/15 01:44:44 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41LFJzskVAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LFJzskVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

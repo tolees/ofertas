@@ -3,7 +3,7 @@ layout: post
 title: 'B00KW3BJ1Y: Ahorra en Sony RX100 III Advanced Compact Premium '
 date: 2020-01-03 11:26:09
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41N9s54kYNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41N9s54kYNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00KW3BJ1Y

@@ -3,7 +3,7 @@ layout: post
 title: 'B078QRRHBB: Rebaja en Luz para Correr Running  BraceTek luz le en Amazon'
 date: 2020-01-03 17:51:40
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51OH3OMXJ2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51OH3OMXJ2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B078QRRHBB

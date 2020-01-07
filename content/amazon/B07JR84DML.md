@@ -2,7 +2,7 @@
 layout: post
 title: 'B07JR84DML - Ofertón en Amazon para Tommy Hilfiger Tommy Jute City Sneaker  '
 date: 2019/12/14 14:47:00 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41DOoUbWCuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41DOoUbWCuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

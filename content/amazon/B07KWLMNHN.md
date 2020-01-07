@@ -3,7 +3,7 @@ layout: post
 title: 'B07KWLMNHN: Ahorra en BRIKSMAX Volkswagen T1 Camper Van Led Li'
 date: 2020-01-05 22:13:54
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pwNIwF5uL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KWLMNHN

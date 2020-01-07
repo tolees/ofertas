@@ -3,7 +3,7 @@ layout: post
 title: 'B07KPRDM1V: Rebaja en GANT Herren O1. The Panel Down Vest Outd en Amazon'
 date: 2020-01-03 11:54:38
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KPRDM1V

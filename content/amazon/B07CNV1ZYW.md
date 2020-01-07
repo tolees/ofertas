@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CNV1ZYW - Ofertón en Amazon para Meloive El Mejor Set de 72 lápices de Co'
 date: 2020-01-05 20:15:39
-image: https://images-eu.ssl-images-amazon.com/images/I/41M-k9Z-6YL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41M-k9Z-6YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

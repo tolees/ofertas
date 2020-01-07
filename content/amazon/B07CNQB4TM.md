@@ -3,7 +3,7 @@ layout: post
 title: 'B07CNQB4TM: Ahorra en Paquete de 6 Piezas de Ropa Interior de '
 date: 2020-01-01 18:04:10
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51-t4GXS9dL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-t4GXS9dL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CNQB4TM

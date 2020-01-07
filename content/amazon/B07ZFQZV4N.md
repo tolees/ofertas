@@ -3,7 +3,7 @@ layout: post
 title: 'B07ZFQZV4N: Rebaja en NICE WIN Guantes Esqui  Guantes Invierno en Amazon'
 date: 2020-01-04 16:16:10
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41r-EHPhUvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41r-EHPhUvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ZFQZV4N

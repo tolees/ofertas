@@ -2,7 +2,7 @@
 layout: post
 title: 'B07CQ47NSF - Ofertón en Amazon para Brillante Benefit Legumbres Quinoa Verdu'
 date: 2020-01-03 11:05:15
-image: https://images-eu.ssl-images-amazon.com/images/I/41qyIPf53DL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41qyIPf53DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

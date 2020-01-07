@@ -3,7 +3,7 @@ layout: post
 title: 'B01IOF9CF6: Ahorra en Brazalete deportivo Para Correr Prueba d'
 date: 2019/12/12 23:29:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51-pznA0D0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51-pznA0D0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01IOF9CF6

@@ -3,7 +3,7 @@ layout: post
 title: 'B07R49CLDC: Ahorra en Disney Pijamas de Manga Corta para niños'
 date: 2019/12/23 14:18:24 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41i5As3TL4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41i5As3TL4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07R49CLDC

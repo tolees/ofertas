@@ -2,7 +2,7 @@
 layout: post
 title: 'B00YF4MQ1S - Ofertón en Amazon para BRA PRIOR - Cacerola baja con tapa de cr'
 date: 2020-01-04 22:36:42
-image: https://images-eu.ssl-images-amazon.com/images/I/31u9kWvZKrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31u9kWvZKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

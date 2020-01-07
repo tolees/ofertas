@@ -2,7 +2,7 @@
 layout: post
 title: 'B00V4XSQB2 - Ofertón en Amazon para Scholl Plantillas Gel Activ Uso Diario H'
 date: 2019/12/18 08:09:57 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51wITANvNeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51wITANvNeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

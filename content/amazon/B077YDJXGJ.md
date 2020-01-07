@@ -3,7 +3,7 @@ layout: post
 title: 'B077YDJXGJ: Rebaja en HIKARO Chaleco de Plumas con Capucha Hom en Amazon'
 date: 2019/12/25 21:10:10 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41LiEryTk2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LiEryTk2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077YDJXGJ

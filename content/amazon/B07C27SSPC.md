@@ -3,7 +3,7 @@ layout: post
 title: 'B07C27SSPC: Ahorra en JACK & JONES Jjecorp Logo Sweat Hood Noo'
 date: 2019/12/12 19:37:06 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ogTDY879L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ogTDY879L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C27SSPC

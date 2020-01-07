@@ -3,7 +3,7 @@ layout: post
 title: 'B077YDGG4F: Ahorra en HIKARO Parka Corta Hombre  Rojo  Burgund'
 date: 2020-01-04 10:25:04
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41rnJKVcUcL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41rnJKVcUcL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077YDGG4F

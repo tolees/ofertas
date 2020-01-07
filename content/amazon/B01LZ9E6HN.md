@@ -3,7 +3,7 @@ layout: post
 title: 'B01LZ9E6HN: Rebaja en Hugo BOSS Herren-Armbanduhr 1513441  Mes en Amazon'
 date: 2019/12/24 07:47:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ghTwAP%2BNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ghTwAP%2BNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01LZ9E6HN

@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MT8UYZL - Ofertón en Amazon para Diesel UMBX-SHAWNTHREEPACK  Calzoncillo '
 date: 2019/12/21 06:40:14 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41T0NJUqonL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41T0NJUqonL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

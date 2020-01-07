@@ -2,7 +2,7 @@
 layout: post
 title: 'B07KG39MYB - Ofertón en Amazon para PUMA Auriz  Zapatos de Futsal para Hombr'
 date: 2019/12/28 12:19:53 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31o%2BotR4MiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31o%2BotR4MiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

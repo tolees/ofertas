@@ -3,7 +3,7 @@ layout: post
 title: 'B01CK88IBC: Rebaja en Redken Curvaceous Unisex Champú 300 ml - en Amazon'
 date: 2020-01-01 20:57:18
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01CK88IBC

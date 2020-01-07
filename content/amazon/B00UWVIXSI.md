@@ -3,7 +3,7 @@ layout: post
 title: 'B00UWVIXSI: Rebaja en Rowenta Intense Pure Air PU6020F0 Purifi en Amazon'
 date: 2019/12/26 11:43:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31TKWUavbNL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31TKWUavbNL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00UWVIXSI

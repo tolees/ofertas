@@ -2,7 +2,7 @@
 layout: post
 title: 'B001NYP7JG - Ofertón en Amazon para BaByliss 2735E - Cepillo rotativo de air'
 date: 2019/12/19 14:23:41 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

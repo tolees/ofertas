@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WV9L2DH - Ofertón en Amazon para BRIKSMAX Kit de Iluminación Led para Leg'
 date: 2020-01-05 23:09:45
-image: https://images-eu.ssl-images-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

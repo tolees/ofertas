@@ -3,7 +3,7 @@ layout: post
 title: 'B01B1OXKU0: Ahorra en Kenwood KCook Multi CCL401WH - Robot de '
 date: 2019/12/20 19:45:12 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41p-7eAytuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41p-7eAytuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01B1OXKU0

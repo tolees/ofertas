@@ -3,7 +3,7 @@ layout: post
 title: 'B00MFQPPP2: Rebaja en Tectonic - Reloj Analógico de Cuarzo uni en Amazon'
 date: 2020-01-06 01:32:51
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41GHXm6pxUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41GHXm6pxUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00MFQPPP2

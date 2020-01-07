@@ -3,7 +3,7 @@ layout: post
 title: 'B077SSZZW3: Ahorra en Puma Liga Casuals Shorts Pantalones Cort'
 date: 2019/12/26 03:12:17 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Rj78vLhzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Rj78vLhzL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077SSZZW3

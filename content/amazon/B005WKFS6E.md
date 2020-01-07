@@ -2,7 +2,7 @@
 layout: post
 title: 'B005WKFS6E - Ofertón en Amazon para Peter Thomas Roth Peter Thomas Roth Mega'
 date: 2019/12/12 00:22:46 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/4105NshHwVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

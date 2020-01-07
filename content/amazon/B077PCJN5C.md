@@ -3,7 +3,7 @@ layout: post
 title: 'B077PCJN5C: Ahorra en meiqicool - Alfombra puzzle infantil par'
 date: 2020-01-04 10:46:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41kzp16ZCKL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kzp16ZCKL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B077PCJN5C

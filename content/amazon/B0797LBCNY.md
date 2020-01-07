@@ -2,7 +2,7 @@
 layout: post
 title: 'B0797LBCNY - Ofertón en Amazon para Avengers - Disfraz de Thor oficial Infin'
 date: 2019/12/24 09:20:33 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31L9fymMncL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31L9fymMncL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

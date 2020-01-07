@@ -3,7 +3,7 @@ layout: post
 title: 'B01NBVQDUF: Rebaja en HUGO BOSS 1513476 Men Chronograph Quartz en Amazon'
 date: 2020-01-04 20:42:45
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/5186FsW2w5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5186FsW2w5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01NBVQDUF

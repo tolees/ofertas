@@ -2,7 +2,7 @@
 layout: post
 title: 'B01MRP2ENK - Ofertón en Amazon para Star Wars Pantalones Cortos de baño prem'
 date: 2019/12/28 09:54:40 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/512xCxVyNDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/512xCxVyNDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

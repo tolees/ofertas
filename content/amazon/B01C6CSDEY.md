@@ -3,7 +3,7 @@ layout: post
 title: 'B01C6CSDEY: Rebaja en American Tourister - Road quest bolsa de en Amazon'
 date: 2020-01-02 19:45:41
 comments: true
-image: None._SL200_
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B01C6CSDEY

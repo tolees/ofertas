@@ -2,7 +2,7 @@
 layout: post
 title: 'B07ZQDCDPL - Ofertón en Amazon para Wireless Headphones AIKELA Wireless Earp'
 date: 2019/12/30 22:19:36 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41OjndSN88L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OjndSN88L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

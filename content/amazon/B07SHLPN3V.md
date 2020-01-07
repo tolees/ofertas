@@ -3,7 +3,7 @@ layout: post
 title: 'B07SHLPN3V: Ahorra en Auriculares Bluetooth 5.0 Inalámbricos A'
 date: 2019/12/22 06:31:27 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51RBvZEfilL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51RBvZEfilL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SHLPN3V

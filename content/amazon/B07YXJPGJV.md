@@ -3,7 +3,7 @@ layout: post
 title: 'B07YXJPGJV: Rebaja en Barras Luminosas  Hieha 200 Piezas Glow  en Amazon'
 date: 2020-01-06 22:02:36
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61Xt1PjmwpL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61Xt1PjmwpL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YXJPGJV

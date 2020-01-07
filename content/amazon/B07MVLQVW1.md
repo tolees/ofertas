@@ -2,7 +2,7 @@
 layout: post
 title: 'B07MVLQVW1 - Ofertón en Amazon para Napapijri Eils SS Polo  Verde  Green For'
 date: 2020-01-02 20:20:00
-image: https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

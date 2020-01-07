@@ -2,7 +2,7 @@
 layout: post
 title: 'B079YMNPD1 - Ofertón en Amazon para Funko 29496 Actionfigur Potter-Harry Her'
 date: 2019/12/27 17:22:55 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41egymoyVeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41egymoyVeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

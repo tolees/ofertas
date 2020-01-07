@@ -2,7 +2,7 @@
 layout: post
 title: 'B00KCHI9UO - Ofertón en Amazon para BLEND 701711 Vaqueros  Black/ 70155  31 '
 date: 2019/12/16 12:40:35 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

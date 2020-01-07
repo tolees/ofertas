@@ -3,7 +3,7 @@ layout: post
 title: 'B01BGPDO7S: Rebaja en Disney Frozen 46784 Disney Disney Frozen en Amazon'
 date: 2019/12/31 06:12:47 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31AGXIC1Q4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AGXIC1Q4L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BGPDO7S

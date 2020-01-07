@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Y4MLSYK - Ofertón en Amazon para Luces de Proyector de Navidad  Luz de Pr'
 date: 2019/12/17 18:02:09 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51y6hkc9GLL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y6hkc9GLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

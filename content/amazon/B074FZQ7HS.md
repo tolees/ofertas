@@ -2,7 +2,7 @@
 layout: post
 title: 'B074FZQ7HS - Ofertón en Amazon para Star Wars HQ2026 Pijama de una Pieza  Gr'
 date: 2019/12/31 10:16:22 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41w24bWjKmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41w24bWjKmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

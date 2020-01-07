@@ -2,7 +2,7 @@
 layout: post
 title: 'B07WVXMFLG - Ofertón en Amazon para Xnuoyo Cepillo de Limpieza Facial 5 en 1'
 date: 2020-01-04 18:04:31
-image: https://images-eu.ssl-images-amazon.com/images/I/51rYrGvT84L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51rYrGvT84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B00BUMLS9O: Ahorra en DIM Generous Minimizer Sujetador reducto'
 date: 2019/12/20 09:38:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41SAfxiMHnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41SAfxiMHnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00BUMLS9O

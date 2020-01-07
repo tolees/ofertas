@@ -3,7 +3,7 @@ layout: post
 title: 'B07LCLG2RK: Ahorra en Vicloon Elsa Dress Up Accessories Set of'
 date: 2020-01-05 22:09:19
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51CcYKXdQqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51CcYKXdQqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LCLG2RK

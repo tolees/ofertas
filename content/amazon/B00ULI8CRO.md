@@ -2,7 +2,7 @@
 layout: post
 title: 'B00ULI8CRO - Ofertón en Amazon para Samsonite Neopulse - Spinner S  Ancho: 2'
 date: 2019/12/28 12:23:15 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41fJn75d76L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fJn75d76L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

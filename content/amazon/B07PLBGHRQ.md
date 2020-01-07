@@ -3,7 +3,7 @@ layout: post
 title: 'B07PLBGHRQ: Ahorra en MRACSIY Diadema deportiva Sweatband para'
 date: 2019/12/19 22:02:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31l9ADN9JrL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31l9ADN9JrL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PLBGHRQ

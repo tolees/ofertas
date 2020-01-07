@@ -3,7 +3,7 @@ layout: post
 title: 'B00ZCHBJ9M: Ahorra en Imaginarium- Set de construcción con Pie'
 date: 2019/12/24 15:38:49 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51qy7Yj9i0L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qy7Yj9i0L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00ZCHBJ9M

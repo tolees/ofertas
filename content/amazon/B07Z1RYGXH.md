@@ -2,7 +2,7 @@
 layout: post
 title: 'B07Z1RYGXH - Ofertón en Amazon para NWOUIIAY Arrancador de Coches 13200mAh 1'
 date: 2019/12/28 20:25:19 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51%2Bdq%2BnAT3L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bdq%2BnAT3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

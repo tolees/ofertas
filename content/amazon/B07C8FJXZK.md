@@ -3,7 +3,7 @@ layout: post
 title: 'B07C8FJXZK: Rebaja en Vitamina C pura microencapsulada para ni en Amazon'
 date: 2019/12/16 02:30:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41WbuDbvuOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41WbuDbvuOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07C8FJXZK

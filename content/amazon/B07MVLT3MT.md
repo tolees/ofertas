@@ -3,7 +3,7 @@ layout: post
 title: 'B07MVLT3MT: Ahorra en Napapijri Serber LS Camiseta  Verde  Gre'
 date: 2019/12/17 14:29:22 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/3177bkTM7hL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3177bkTM7hL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MVLT3MT

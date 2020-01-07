@@ -3,7 +3,7 @@ layout: post
 title: 'B07K9FLGCF: Ahorra en LEGO Star Wars 75253  BOOST Droide  App-'
 date: 2020-01-05 22:43:44
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/513riy2qpvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513riy2qpvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07K9FLGCF

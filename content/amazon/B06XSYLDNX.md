@@ -2,7 +2,7 @@
 layout: post
 title: 'B06XSYLDNX - Ofertón en Amazon para LUNA play plus de FOREO es el cepillo fa'
 date: 2019/12/23 08:56:43 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41u8SY99VjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u8SY99VjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

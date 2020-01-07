@@ -3,7 +3,7 @@ layout: post
 title: 'B002WGHYKY: Ahorra en Superga 2750 COTU Classic  Zapatillas Un'
 date: 2019/12/27 19:23:35 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41je7OCfzXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41je7OCfzXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B002WGHYKY

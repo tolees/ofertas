@@ -3,7 +3,7 @@ layout: post
 title: 'B07FLY7LP5: Ahorra en Space Hulk Tactics'
 date: 2019/12/30 22:35:53 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51WTy2xzhOL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51WTy2xzhOL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FLY7LP5

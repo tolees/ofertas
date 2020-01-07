@@ -2,7 +2,7 @@
 layout: post
 title: 'B07HLWJ3M5 - Ofertón en Amazon para READ Reloj Deportivo Impermeable para Ho'
 date: 2020-01-02 13:01:48
-image: https://images-eu.ssl-images-amazon.com/images/I/41kewxNw6CL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41kewxNw6CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

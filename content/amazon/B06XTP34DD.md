@@ -3,7 +3,7 @@ layout: post
 title: 'B06XTP34DD: Rebaja en LUNA play plus de FOREO es el cepillo fa en Amazon'
 date: 2019/12/23 09:48:38 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41Ow98DGJDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ow98DGJDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06XTP34DD

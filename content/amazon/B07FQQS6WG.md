@@ -3,7 +3,7 @@ layout: post
 title: 'B07FQQS6WG: Rebaja en Clarks Un Trail Form  Zapatos de Cordone en Amazon'
 date: 2019/12/12 14:32:00 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/315t8BRj6hL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/315t8BRj6hL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FQQS6WG

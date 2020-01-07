@@ -2,7 +2,7 @@
 layout: post
 title: 'B00M1WDEOO - Ofertón en Amazon para Einhell Expert TE-CD 18-2 Li-I Kit - Tal'
 date: 2020-01-05 13:43:12
-image: https://images-eu.ssl-images-amazon.com/images/I/41PwMVacvFL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41PwMVacvFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

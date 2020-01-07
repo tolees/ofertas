@@ -3,7 +3,7 @@ layout: post
 title: 'B07MZMZ5T9: Rebaja en Pepe Jeans London Tinker Zero 19  Zapati en Amazon'
 date: 2019/12/24 13:49:19 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31HqpBeU36L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31HqpBeU36L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MZMZ5T9

@@ -3,7 +3,7 @@ layout: post
 title: 'B074Q4MTPS: Rebaja en Licor del Polo - Pasta de dientes 2 en 1 en Amazon'
 date: 2019/12/23 19:25:29 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51sQQ3DZbCL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sQQ3DZbCL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B074Q4MTPS

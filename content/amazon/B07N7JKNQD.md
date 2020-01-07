@@ -3,7 +3,7 @@ layout: post
 title: 'B07N7JKNQD: Ahorra en V7 SB2526-USB-6E Altavoz soundbar Negro '
 date: 2020-01-03 08:19:51
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51jNmR7SdXL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jNmR7SdXL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N7JKNQD

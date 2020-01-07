@@ -3,7 +3,7 @@ layout: post
 title: 'B071WVZW7C: Rebaja en Sistema Caja de Bento para IR con Frutas en Amazon'
 date: 2019/12/12 15:10:54 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41fhXoQaLdL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41fhXoQaLdL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B071WVZW7C

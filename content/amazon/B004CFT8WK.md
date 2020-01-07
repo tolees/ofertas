@@ -3,7 +3,7 @@ layout: post
 title: 'B004CFT8WK: Ahorra en Apple Adaptador de alimentación MagSafe '
 date: 2019-12-31 15:14:08
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/21Taww7lb2L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/21Taww7lb2L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004CFT8WK

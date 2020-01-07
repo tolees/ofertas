@@ -3,7 +3,7 @@ layout: post
 title: 'B00VWZUOQM: Rebaja en Disney Amscan International Frozen Party en Amazon'
 date: 2019/12/23 00:34:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51qI-3otNDL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51qI-3otNDL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00VWZUOQM

@@ -3,7 +3,7 @@ layout: post
 title: 'B06Y5XDNXF: Rebaja en Taurus Robot 600 Plus Batidor Potencia d en Amazon'
 date: 2020-01-07 11:11:12
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41o67uCIq5L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41o67uCIq5L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B06Y5XDNXF

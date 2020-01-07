@@ -2,7 +2,7 @@
 layout: post
 title: 'B005JATI1S - Ofertón en Amazon para L Oreal Paris - Cil Architecte 4D  Másca'
 date: 2019/12/13 14:25:12 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31rAP4NTfeL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31rAP4NTfeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

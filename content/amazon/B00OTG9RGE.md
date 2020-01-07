@@ -3,7 +3,7 @@ layout: post
 title: 'B00OTG9RGE: Rebaja en Audio-Technica ATH-PDG1 - Auriculares Ab en Amazon'
 date: 2019/12/12 15:34:39 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41nhJvImpoL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41nhJvImpoL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00OTG9RGE

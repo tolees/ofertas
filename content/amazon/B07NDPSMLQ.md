@@ -3,7 +3,7 @@ layout: post
 title: 'B07NDPSMLQ: Rebaja en G-STAR RAW Fascia Polo  Multicolor  Milk en Amazon'
 date: 2019/12/20 20:02:02 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41wFxjAIQHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wFxjAIQHL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NDPSMLQ

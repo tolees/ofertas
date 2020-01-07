@@ -3,7 +3,7 @@ layout: post
 title: 'B07CSMJY69: Ahorra en StillCool Máscara de Buceo para Snorkel '
 date: 2019/12/14 23:47:21 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51UrfybQq-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51UrfybQq-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07CSMJY69

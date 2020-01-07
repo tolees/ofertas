@@ -2,7 +2,7 @@
 layout: post
 title: 'B07L2RXYZL - Ofertón en Amazon para ammoon Inalámbrico Guitarra Receptor Tra'
 date: 2019/12/17 10:48:14 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2BNAwbbNPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNAwbbNPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

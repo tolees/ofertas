@@ -2,7 +2,7 @@
 layout: post
 title: 'B0044WOFQK - Ofertón en Amazon para LŽOréal Paris Make Up Designer Volume Mi'
 date: 2019/12/29 17:05:25 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/31F83EIzcAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31F83EIzcAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

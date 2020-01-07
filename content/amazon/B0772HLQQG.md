@@ -3,7 +3,7 @@ layout: post
 title: 'B0772HLQQG: Rebaja en MERAKI POETME003 Pantalones Cortos  Azul en Amazon'
 date: 2019/12/30 11:03:13 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41TWA3AQWUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41TWA3AQWUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0772HLQQG

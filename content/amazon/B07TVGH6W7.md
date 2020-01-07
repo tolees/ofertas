@@ -3,7 +3,7 @@ layout: post
 title: 'B07TVGH6W7: Ahorra en WiMiUS Cámara de Caza Vigilancia 16MP108'
 date: 2019/12/26 16:17:09 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51a1f6cRCuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51a1f6cRCuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TVGH6W7

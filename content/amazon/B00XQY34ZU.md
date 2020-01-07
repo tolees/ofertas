@@ -3,7 +3,7 @@ layout: post
 title: 'B00XQY34ZU: Ahorra en Pepe Jeans Spike Vaqueros  Azul  Fonce D'
 date: 2020-01-04 13:47:06
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00XQY34ZU

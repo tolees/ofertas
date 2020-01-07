@@ -3,7 +3,7 @@ layout: post
 title: 'B07KTWFH1V: Rebaja en LEGO 70681 NINJAGO Spinjitzu Slam - Lloy en Amazon'
 date: 2019/12/15 08:49:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51be8J9JzAL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51be8J9JzAL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KTWFH1V

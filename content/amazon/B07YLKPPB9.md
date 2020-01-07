@@ -3,7 +3,7 @@ layout: post
 title: 'B07YLKPPB9: Rebaja en Champion LEGACY CREW SOCKS X6 Calcetines en Amazon'
 date: 2019/12/17 07:05:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41jL7wI9MWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41jL7wI9MWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07YLKPPB9

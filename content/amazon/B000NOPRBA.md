@@ -3,7 +3,7 @@ layout: post
 title: 'B000NOPRBA: Ahorra en Shimano SMMAF180PSA - Adaptador Pinza De'
 date: 2019/12/14 03:10:44 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41u0yHJmwiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41u0yHJmwiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B000NOPRBA

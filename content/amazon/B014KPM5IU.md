@@ -3,7 +3,7 @@ layout: post
 title: 'B014KPM5IU: Ahorra en Reebok Pesos de la Muñeca - 1.5 kg'
 date: 2019/12/11 09:05:43 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51IKLP9MxmL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51IKLP9MxmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B014KPM5IU

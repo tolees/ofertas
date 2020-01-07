@@ -3,7 +3,7 @@ layout: post
 title: 'B07JPDDSLG: Ahorra en DAM. DMX197BKCorrea Diseño Flores De Pie'
 date: 2019/12/23 23:36:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41wOiv28QtL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41wOiv28QtL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07JPDDSLG

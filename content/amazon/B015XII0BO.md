@@ -2,7 +2,7 @@
 layout: post
 title: 'B015XII0BO - Ofertón en Amazon para ClarksFranson Plain - Derby hombre  Marr'
 date: 2019/12/15 17:09:37 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/41zZHUaPbxL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zZHUaPbxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

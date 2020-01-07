@@ -3,7 +3,7 @@ layout: post
 title: 'B07D5SVYH3: Rebaja en Under Armour Tech 9In 2 Pack Ropa Interi en Amazon'
 date: 2019/12/17 18:49:52 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41ok5heacjL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ok5heacjL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07D5SVYH3

@@ -2,7 +2,7 @@
 layout: post
 title: 'B07NDNVQWN - Ofertón en Amazon para G-STAR RAW Graphic 14 Core Hooded Sudade'
 date: 2020-01-04 18:54:01
-image: https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

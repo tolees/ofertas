@@ -3,7 +3,7 @@ layout: post
 title: 'B00AF6QPWG: Ahorra en Helly Hansen Seven J Jacket - Chaqueta p'
 date: 2019/12/19 08:42:55 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/413pXHqhiSL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/413pXHqhiSL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00AF6QPWG

@@ -2,7 +2,7 @@
 layout: post
 title: 'B004EPYF4E - Ofertón en Amazon para Scitec Nutrition 100% Whey Isolate Suple'
 date: 2019/12/22 10:06:54 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51mlGJsaU4L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51mlGJsaU4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

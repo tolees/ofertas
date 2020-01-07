@@ -3,7 +3,7 @@ layout: post
 title: 'B01N9UNCD0: Rebaja en Russell Hobbs Adventure 21396-56 - Tosta en Amazon'
 date: 2019/12/27 23:09:32 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41yLPtrslIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41yLPtrslIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N9UNCD0

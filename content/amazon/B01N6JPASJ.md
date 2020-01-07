@@ -3,7 +3,7 @@ layout: post
 title: 'B01N6JPASJ: Rebaja en eXtremeRate 2 Pares de Gatillo Extensor  en Amazon'
 date: 2020-01-06 12:45:42
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51eNtRPmVWL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51eNtRPmVWL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01N6JPASJ

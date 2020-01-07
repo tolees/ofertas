@@ -3,7 +3,7 @@ layout: post
 title: 'B07MR8WSPS: Rebaja en G-STAR RAW 3301 1\2  Pantalones cortos p en Amazon'
 date: 2019/12/12 14:32:15 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/3143Cj1XWiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/3143Cj1XWiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07MR8WSPS

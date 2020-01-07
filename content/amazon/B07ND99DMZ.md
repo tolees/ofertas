@@ -3,7 +3,7 @@ layout: post
 title: 'B07ND99DMZ: Rebaja en LEGO 70425 Hidden Side Newbury s spukend en Amazon'
 date: 2020-01-07 14:37:30
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/516NW10YZUL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/516NW10YZUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07ND99DMZ

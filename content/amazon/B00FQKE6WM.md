@@ -3,7 +3,7 @@ layout: post
 title: 'B00FQKE6WM: Ahorra en Wilkinson Sword Quattro Titanium - Carga'
 date: 2019/12/25 00:17:28 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/513mdvEUv%2BL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/513mdvEUv%2BL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00FQKE6WM

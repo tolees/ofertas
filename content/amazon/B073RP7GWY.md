@@ -3,7 +3,7 @@ layout: post
 title: 'B073RP7GWY: Ahorra en Helly Hansen T-Shirt Camiseta de Manga C'
 date: 2019/12/28 10:21:41 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31NvUr-ra9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073RP7GWY

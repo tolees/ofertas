@@ -3,7 +3,7 @@ layout: post
 title: 'B01BP6GEHA: Ahorra en Avengers- Marvel Legends Figura Iron Man'
 date: 2020-01-05 20:02:43
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/5123tcLM5cL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5123tcLM5cL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B01BP6GEHA

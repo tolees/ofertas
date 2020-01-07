@@ -3,7 +3,7 @@ layout: post
 title: 'B07P8P6NYP: Rebaja en PLAYMOBIL Novelmore 70220 Große Burg von en Amazon'
 date: 2019/12/13 23:33:48 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/61VR29KkyuL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61VR29KkyuL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07P8P6NYP

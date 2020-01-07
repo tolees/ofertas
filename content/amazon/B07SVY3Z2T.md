@@ -3,7 +3,7 @@ layout: post
 title: 'B07SVY3Z2T: Rebaja en Aigostar 30KDF - Espumador de leche elec en Amazon'
 date: 2019/12/30 11:28:09 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/319TdzZ3mIL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/319TdzZ3mIL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07SVY3Z2T

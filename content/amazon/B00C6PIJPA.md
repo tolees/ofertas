@@ -2,7 +2,7 @@
 layout: post
 title: 'B00C6PIJPA - Ofertón en Amazon para Michael Kors Reloj de Cuarzo MK3197'
 date: 2019/12/27 21:44:45 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/411nowro7lL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/411nowro7lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

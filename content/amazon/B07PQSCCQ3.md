@@ -3,7 +3,7 @@ layout: post
 title: 'B07PQSCCQ3: Ahorra en Trswyop Batería Externa 24800mAh  Power '
 date: 2019/12/26 16:07:42 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/316osTT33RL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/316osTT33RL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07PQSCCQ3

@@ -3,7 +3,7 @@ layout: post
 title: 'B00JBBG4BI: Ahorra en PLAYMOBIL Country - Los cofres - Cofre E'
 date: 2019/12/17 00:00:14 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51HYsYVJEEL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HYsYVJEEL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B00JBBG4BI

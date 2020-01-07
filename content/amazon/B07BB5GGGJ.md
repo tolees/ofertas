@@ -2,7 +2,7 @@
 layout: post
 title: 'B07BB5GGGJ - Ofertón en Amazon para XLS Medical Mantenimiento despues de per'
 date: 2020-01-05 04:36:56
-image: https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

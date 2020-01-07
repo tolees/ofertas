@@ -3,7 +3,7 @@ layout: post
 title: 'B07VPJ81BF: Ahorra en JOOMFEEN USB Tipo C Cargador de Coche Qu'
 date: 2020-01-01 20:52:14
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51YlrGU3iQL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YlrGU3iQL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VPJ81BF

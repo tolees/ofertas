@@ -3,7 +3,7 @@ layout: post
 title: 'B07TWRWFF8: Ahorra en BRIKSMAX Led Lighting Kit for LEGO Techn'
 date: 2019/12/20 17:15:28 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51fh3GhoDPL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51fh3GhoDPL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07TWRWFF8

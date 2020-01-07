@@ -3,7 +3,7 @@ layout: post
 title: 'B004LE4UPC: Rebaja en Philips Avent SCF636/27 - Tetina de sili en Amazon'
 date: 2019/12/19 06:16:57 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41sA6pDFe8L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41sA6pDFe8L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B004LE4UPC

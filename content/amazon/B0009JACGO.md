@@ -2,7 +2,7 @@
 layout: post
 title: 'B0009JACGO - Ofertón en Amazon para LEGO City - Rectas y cruces  7280 '
 date: 2019/12/13 17:08:02 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51n7frOyhkL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51n7frOyhkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

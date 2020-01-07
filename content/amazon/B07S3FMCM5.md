@@ -2,7 +2,7 @@
 layout: post
 title: 'B07S3FMCM5 - Ofertón en Amazon para ZUNTO Toallero Adhesivo Toalleros Barra '
 date: 2020-01-01 09:51:59
-image: https://images-eu.ssl-images-amazon.com/images/I/61nVBQmnmzL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/61nVBQmnmzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07RTKSHT3: Rebaja en Oral-B Genius 8000 Cepillo Eléctrico con en Amazon'
 date: 2020-01-02 03:46:03
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41F9J2SLBiL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41F9J2SLBiL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07RTKSHT3

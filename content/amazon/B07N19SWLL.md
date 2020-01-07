@@ -2,7 +2,7 @@
 layout: post
 title: 'B07N19SWLL - Ofertón en Amazon para Lee Western Shirt Camisa  Warp Red  M pa'
 date: 2019/12/11 19:58:06 +0000
-image: https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

@@ -3,7 +3,7 @@ layout: post
 title: 'B07N18KYWG: Ahorra en G-STAR RAW ARC 3D Vaqueros  Authentic Fa'
 date: 2019/12/16 06:05:16 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41THKGi5lnL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41THKGi5lnL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07N18KYWG

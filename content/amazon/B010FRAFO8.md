@@ -3,7 +3,7 @@ layout: post
 title: 'B010FRAFO8: Ahorra en Silla de escritorio / oficina Profesiona'
 date: 2019/12/22 09:44:01 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31sc-Vg5iqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31sc-Vg5iqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B010FRAFO8

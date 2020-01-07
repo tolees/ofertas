@@ -3,7 +3,7 @@ layout: post
 title: 'B07W5VNRRD: Rebaja en JACK & JONES Jorbrit Knit Crew Neck Jers en Amazon'
 date: 2019/12/21 10:15:33 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41zezVRo7DL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41zezVRo7DL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07W5VNRRD

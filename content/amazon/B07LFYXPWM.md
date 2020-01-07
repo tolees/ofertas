@@ -3,7 +3,7 @@ layout: post
 title: 'B07LFYXPWM: Rebaja en Geox U Wells C  Zapatillas para Hombre   en Amazon'
 date: 2019/12/11 15:27:25 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/31wMYfn3FvL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31wMYfn3FvL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07LFYXPWM

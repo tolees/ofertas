@@ -2,7 +2,7 @@
 layout: post
 title: 'B073JHFY4D - Ofertón en Amazon para find. D7832 vestido fiesta mujer  Rojo  '
 date: 2020-01-06 20:08:37
-image: https://images-eu.ssl-images-amazon.com/images/I/417PHWtpJbL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/417PHWtpJbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring

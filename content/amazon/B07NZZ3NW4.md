@@ -3,7 +3,7 @@ layout: post
 title: 'B07NZZ3NW4: Rebaja en esonmus Platos Desechables y Vasos Cumpl en Amazon'
 date: 2019/12/20 23:41:30 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51YBpxc6tqL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51YBpxc6tqL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07NZZ3NW4

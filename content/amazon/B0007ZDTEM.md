@@ -3,7 +3,7 @@ layout: post
 title: 'B0007ZDTEM: Rebaja en CTM - Funda de gafas - para hombre en Amazon'
 date: 2019/12/24 12:40:36 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/41-isPMI6jL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41-isPMI6jL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B0007ZDTEM

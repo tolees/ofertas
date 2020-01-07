@@ -3,7 +3,7 @@ layout: post
 title: 'B073JHH3NW: Ahorra en find. Blusa de Rayas con Cuello Alto par'
 date: 2020-01-05 07:48:25
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51y0od-B6YL._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51y0od-B6YL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B073JHH3NW

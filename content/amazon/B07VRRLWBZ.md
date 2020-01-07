@@ -3,7 +3,7 @@ layout: post
 title: 'B07VRRLWBZ: Ahorra en Ortungsgerät  Tacklife Metalldetektor  5'
 date: 2019/12/19 09:43:07 +0000
 comments: true
-image: https://images-eu.ssl-images-amazon.com/images/I/51ZaJ1XPA9L._SL200_.jpg
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51ZaJ1XPA9L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07VRRLWBZ
