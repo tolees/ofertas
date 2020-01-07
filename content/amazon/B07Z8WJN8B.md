@@ -1,19 +1,18 @@
---- 
- layout: post 
- title: B07Z8WJN8B: Rebaja en Tronsmart T6 Mini Altavoces Bluetooth 15 en Amazon 
- date: 2020-01-06 14:26:17 
- comments: true 
- tags: B07Z8WJN8B 
- category: ofertas 
- author: ring 
- slug: B07Z8WJN8B 
- description: 
- --- 
- 
- Está [Tronsmart T6 Mini Altavoces Bluetooth 15W  24 Horas de Reproducción  TWS Sonido Stereo 360°  IPX6 Waterproof  Altavoz portatil Bluetooth 5.0  Apoya TF Card Memoria USB de 64G y Asistente de Voz](https://www.amazon.es/dp/B07Z8WJN8B/?tag=redken-21) por 29.67 EUR (original: 60 EUR) en el siguiente enlace! 
- 
- [![](https://images-eu.ssl-images-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg)](https://www.amazon.es/dp/B07Z8WJN8B/?tag=redken-21) 
- 
- [Ver la oferta!!](https://www.amazon.es/dp/B07Z8WJN8B/?tag=redken-21)
+---
+layout: post
+title: 'B07Z8WJN8B - Ofertón en Amazon para Tronsmart T6 Mini Altavoces Bluetooth 15'
+date: 2020-01-06 14:26:17
+comments: true
+category: ofertas
+author: ring
+slug: B07Z8WJN8B
+description:
+---
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+Tienes [Tronsmart T6 Mini Altavoces Bluetooth 15W  24 Horas de Reproducción  TWS Sonido Stereo 360°  IPX6 Waterproof  Altavoz portatil Bluetooth 5.0  Apoya TF Card Memoria USB de 64G y Asistente de Voz](https://www.amazon.es/dp/B07Z8WJN8B/?tag=redken-21) a precio de oferta de 29.67 EUR (original: 60 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg)](https://www.amazon.es/dp/B07Z8WJN8B/?tag=redken-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07Z8WJN8B/?tag=redken-21)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,19 +1,18 @@
---- 
- layout: post 
- title: B079YRR6QR: Rebaja en Sony Xperia XZ2 Compact Smartphone  12 7 en Amazon 
- date: 2019/12/06 15:38:11 +0000 
- comments: true 
- tags: B079YRR6QR 
- category: ofertas 
- author: ring 
- slug: B079YRR6QR 
- description: 
- --- 
- 
- Está [Sony Xperia XZ2 Compact Smartphone  12 7 cm  5 0 Zoll  IPS Full HD+ Display  64 GB interner Speicher und 4 GB RAM  Dual-SIM  IP68  Android 8.0  white silver - Deutsche Version](https://www.amazon.es/dp/B079YRR6QR/?tag=redken-21) por 379.95 EUR (original: 599 EUR) en el siguiente enlace! 
- 
- [![](https://images-eu.ssl-images-amazon.com/images/I/41pwO3QWXYL._SL200_.jpg)](https://www.amazon.es/dp/B079YRR6QR/?tag=redken-21) 
- 
- [Ver la oferta!!](https://www.amazon.es/dp/B079YRR6QR/?tag=redken-21)
+---
+layout: post
+title: 'B079YRR6QR - Ofertón en Amazon para Sony Xperia XZ2 Compact Smartphone  12 7'
+date: 2019/12/06 15:38:11 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B079YRR6QR
+description:
+---
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+Tienes [Sony Xperia XZ2 Compact Smartphone  12 7 cm  5 0 Zoll  IPS Full HD+ Display  64 GB interner Speicher und 4 GB RAM  Dual-SIM  IP68  Android 8.0  white silver - Deutsche Version](https://www.amazon.es/dp/B079YRR6QR/?tag=redken-21) a precio de oferta de 379.95 EUR (original: 599 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41pwO3QWXYL._SL200_.jpg)](https://www.amazon.es/dp/B079YRR6QR/?tag=redken-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B079YRR6QR/?tag=redken-21)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

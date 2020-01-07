@@ -1,19 +1,18 @@
---- 
- layout: post 
- title: B00FKQ4ODI: Ahorra en LEGO: Marvel Super Heroes 
- date: 2019/11/09 18:04:45 +0000 
- comments: true 
- tags: B00FKQ4ODI 
- category: ofertas 
- author: ring 
- slug: B00FKQ4ODI 
- description: 
- --- 
- 
- Ahora mismo tienes [LEGO: Marvel Super Heroes](https://www.amazon.es/dp/B00FKQ4ODI/?tag=redken-21) a 24.12 EUR (original: 39.99 EUR) en el siguiente enlace! 
- 
- [![](https://images-eu.ssl-images-amazon.com/images/I/51XNS2tMdcL._SL200_.jpg)](https://www.amazon.es/dp/B00FKQ4ODI/?tag=redken-21) 
- 
- [Visítala!!!](https://www.amazon.es/dp/B00FKQ4ODI/?tag=redken-21)
+---
+layout: post
+title: 'B00FKQ4ODI - Ofertón en Amazon para LEGO: Marvel Super Heroes'
+date: 2019/11/09 18:04:45 +0000
+comments: true
+category: ofertas
+author: ring
+slug: B00FKQ4ODI
+description:
+---
 
- [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+Tienes [LEGO: Marvel Super Heroes](https://www.amazon.es/dp/B00FKQ4ODI/?tag=redken-21) a precio de oferta de 24.12 EUR (original: 39.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/51XNS2tMdcL._SL200_.jpg)](https://www.amazon.es/dp/B00FKQ4ODI/?tag=redken-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B00FKQ4ODI/?tag=redken-21)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
