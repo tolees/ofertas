@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B01FFNE26Y - Ofertón en Amazon para Under Armour HG Armour 2.0 Legging Leggi'
+title: B01FFNE26Y: Rebaja en Under Armour HG Armour 2.0 Legging Leggi en Amazon
 date: 2019/12/02 14:06:36 +0000
 comments: true
+tags: B01FFNE26Y
 category: ofertas
 author: ring
 slug: B01FFNE26Y
 description:
 ---
 
-Tienes [Under Armour HG Armour 2.0 Legging Leggings  Hombre  Negro  Black/Graphite 001   XL](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Under Armour HG Armour 2.0 Legging Leggings  Hombre  Negro  Black/Graphite 001   XL](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20) por 19.99 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg)](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

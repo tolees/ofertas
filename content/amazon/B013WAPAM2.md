@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B013WAPAM2: Ahorra en Bosch Professional Laser Entfernungsmess
-date: 2019/10/28 23:25:06 +0000
+title: B013WAPAM2: Rebaja en Bosch Professional GLM 50 C - Medidor lá en Amazon
+date: 2019/11/29 15:06:51 +0000
 comments: true
 tags: B013WAPAM2
 category: ofertas
@@ -10,10 +10,10 @@ slug: B013WAPAM2
 description:
 ---
 
-Ahora mismo tienes [Bosch Professional Laser Entfernungsmesser GLM 50 C  Messbereich: 0 05 - 50 m  Messgenauigkeit: +/- 1 5 mm  in Schutztasche ](https://www.amazon.com/dp/B013WAPAM2/?tag=redken08-20) a 78.49 EUR (original: 282.92 EUR) en el siguiente enlace!
+Está [Bosch Professional GLM 50 C - Medidor láser de distancias  alcance 50 m  inclinómetro  conexión BluetoothTM  con funda ](https://www.amazon.com/dp/B013WAPAM2/?tag=redken08-20) por 82.9 EUR (original: 237.16 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IRIx7E-jL._SL200_.jpg)](https://www.amazon.com/dp/B013WAPAM2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B013WAPAM2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B013WAPAM2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

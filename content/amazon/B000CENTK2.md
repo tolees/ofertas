@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B000CENTK2 - Ofertón en Amazon para Krups Citrus Press ZX7000 - Exprimidor c'
+title: B000CENTK2: Ahorra en Krups Citrus Press ZX7000 - Exprimidor c
 date: 2019/11/20 06:41:52 +0000
 comments: true
+tags: B000CENTK2
 category: ofertas
 author: ring
 slug: B000CENTK2
 description:
 ---
 
-Tienes [Krups Citrus Press ZX7000 - Exprimidor con tapa y clip para sujetar cítricos  filtro de pulpa  boquilla de servicio directo al vaso  130 W  acero inoxidable  color plata](https://www.amazon.com/dp/B000CENTK2/?tag=redken08-20) a precio de oferta de 113.53 EUR (original: 169.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Krups Citrus Press ZX7000 - Exprimidor con tapa y clip para sujetar cítricos  filtro de pulpa  boquilla de servicio directo al vaso  130 W  acero inoxidable  color plata](https://www.amazon.com/dp/B000CENTK2/?tag=redken08-20) a 113.53 EUR (original: 169.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HreUMS3mL._SL200_.jpg)](https://www.amazon.com/dp/B000CENTK2/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B000CENTK2/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B000CENTK2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

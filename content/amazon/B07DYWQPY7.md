@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B07DYWQPY7 - Ofertón en Amazon para Columbia Horizons Pine Chaqueta Intercha'
+title: B07DYWQPY7: Rebaja en Columbia Horizons Pine Chaqueta Intercha en Amazon
 date: 2019/11/18 07:07:14 +0000
 comments: true
+tags: B07DYWQPY7
 category: ofertas
 author: ring
 slug: B07DYWQPY7
 description:
 ---
 
-Tienes [Columbia Horizons Pine Chaqueta Interchange  Hombre  Azul  Dark Mountain   S](https://www.amazon.com/dp/B07DYWQPY7/?tag=redken08-20) a precio de oferta de 129.45 EUR (original: 239.99 EUR) en el siguiente enlace!
+Está [Columbia Horizons Pine Chaqueta Interchange  Hombre  Azul  Dark Mountain   S](https://www.amazon.com/dp/B07DYWQPY7/?tag=redken08-20) por 129.45 EUR (original: 239.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41c5KRF3n0L._SL200_.jpg)](https://www.amazon.com/dp/B07DYWQPY7/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07DYWQPY7/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DYWQPY7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

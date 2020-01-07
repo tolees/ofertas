@@ -1,7 +1,7 @@
 ---
 layout: post
-title: B0117RFPCC: Ahorra en Bose ® SoundSport in-ear Kopfhörer für S
-date: 2019/11/02 13:45:15 +0000
+title: B0117RFPCC: Ahorra en Bose SoundSport In-Ear Earphones for Sam
+date: 2019/11/29 20:49:32 +0000
 comments: true
 tags: B0117RFPCC
 category: ofertas
@@ -10,7 +10,7 @@ slug: B0117RFPCC
 description:
 ---
 
-Ahora mismo tienes [Bose ® SoundSport in-ear Kopfhörer für Samsung und Android Geräte schwarz](https://www.amazon.com/dp/B0117RFPCC/?tag=redken08-20) a 59.99 EUR (original: 99.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bose SoundSport In-Ear Earphones for Samsung and Android Devices - Charcoal Black](https://www.amazon.com/dp/B0117RFPCC/?tag=redken08-20) a 44.95 GBP (original: 89.95 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zbqXpxeOL._SL200_.jpg)](https://www.amazon.com/dp/B0117RFPCC/?tag=redken08-20)
 

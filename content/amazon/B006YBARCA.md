@@ -1,18 +1,19 @@
 ---
 layout: post
-title: 'B006YBARCA - Ofertón en Amazon para Kingston DTSE9H/16GB - Memoria USB  16 G'
+title: B006YBARCA: Rebaja en Kingston DTSE9H/16GB - Memoria USB  16 G en Amazon
 date: 2019/11/10 12:36:39 +0000
 comments: true
+tags: B006YBARCA
 category: ofertas
 author: ring
 slug: B006YBARCA
 description:
 ---
 
-Tienes [Kingston DTSE9H/16GB - Memoria USB  16 GB  color plata](https://www.amazon.com/dp/B006YBARCA/?tag=redken08-20) a precio de oferta de 4.89 EUR (original: 24.95 EUR) en el siguiente enlace!
+Está [Kingston DTSE9H/16GB - Memoria USB  16 GB  color plata](https://www.amazon.com/dp/B006YBARCA/?tag=redken08-20) por 4.89 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31V5cym%2BD1L._SL200_.jpg)](https://www.amazon.com/dp/B006YBARCA/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B006YBARCA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B006YBARCA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
