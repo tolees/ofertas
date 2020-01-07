@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQPSMRH
 description:
+actualPrice: 6.01 EUR
+comparePrice: 10.82 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [KESOTO Ornamento Arquitectónico en Miniatura Calle para Casa de Muñecas 1/12](https://www.amazon.com/dp/B07KQPSMRH/?tag=redken08-20) a 6.01 EUR (original: 10.82 EUR) en el siguiente enlace!

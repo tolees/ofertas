@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CNHCP39
 description:
+actualPrice: 36.99 EUR
+comparePrice: 78.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Evfun Estación de Carga USB  Base de Carga 8 Puertos Cargador Smartphone Tablets  Incluido 8 Cables de Carga ](https://www.amazon.com/dp/B07CNHCP39/?tag=redken08-20) a 36.99 EUR (original: 78.99 EUR) en el siguiente enlace!

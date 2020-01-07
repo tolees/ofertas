@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H7TFQCS
 description:
+actualPrice: 214 EUR
+comparePrice: 349 EUR
+inStock: true
 ---
 
 Está [OPTOMA TECHNOLOGY LV130 - Proyector LED portátil  300 lúmenes  100000:1 contraste  formato 16:9](https://www.amazon.com/dp/B07H7TFQCS/?tag=redken08-20) por 214 EUR (original: 349 EUR) en el siguiente enlace!

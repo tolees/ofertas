@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNS6J8H
 description:
+actualPrice: 6.36 GBP
+comparePrice: 12.99 GBP
+inStock: true
 ---
 
 Está [LEGO Movie 2 70823 Emmet s Thricycle](https://www.amazon.com/dp/B07FNS6J8H/?tag=redken08-20) por 6.36 GBP (original: 12.99 GBP) en el siguiente enlace!

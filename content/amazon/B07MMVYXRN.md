@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MMVYXRN
 description:
+actualPrice: 48.85 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [Lee Marion Vaqueros Straight  Azul  Mid Gordo CV   W31/L35 para Mujer](https://www.amazon.com/dp/B07MMVYXRN/?tag=redken08-20) a precio de oferta de 48.85 EUR (original: 99.95 EUR) en el siguiente enlace!

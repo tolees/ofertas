@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FLGDHTD
 description:
+actualPrice: 12.06 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Está [Philips Avent SCD287/25 - Set de regalo natural unicornio  1 biberón  2 chupetes  1 clip](https://www.amazon.com/dp/B07FLGDHTD/?tag=redken08-20) por 12.06 EUR (original: 19.99 EUR) en el siguiente enlace!

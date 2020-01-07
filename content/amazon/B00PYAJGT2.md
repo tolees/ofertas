@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00PYAJGT2
 description:
+actualPrice: 5.27 EUR
+comparePrice: 8.95 EUR
+inStock: true
 ---
 
 Está [Control Peppermint Preservativos - 12 Unidades](https://www.amazon.com/dp/B00PYAJGT2/?tag=redken08-20) por 5.27 EUR (original: 8.95 EUR) en el siguiente enlace!

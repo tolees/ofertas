@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G9T3SKX
 description:
+actualPrice: 5 EUR
+comparePrice: 10 EUR
+inStock: true
 ---
 
 Tienes [Joy Toy 62137 Mickey Mouse Relief Taza 320 ml  Amarillo](https://www.amazon.com/dp/B07G9T3SKX/?tag=redken08-20) a precio de oferta de 5 EUR (original: 10 EUR) en el siguiente enlace!

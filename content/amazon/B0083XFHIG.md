@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0083XFHIG
 description:
+actualPrice: 69.45 EUR
+comparePrice: 109 EUR
+inStock: true
 ---
 
 Tienes [Timex Expedition Rugged - Reloj análogico de cuarzo con correa de cuero para hombre  color marrón](https://www.amazon.com/dp/B0083XFHIG/?tag=redken08-20) a precio de oferta de 69.45 EUR (original: 109 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1MKXEM
 description:
+actualPrice: 6.67 EUR
+comparePrice: 11.99 EUR
+inStock: true
 ---
 
 Tienes [Real Techniques Eye Shade y Blend Makeup Make-up Brush Duo  El color del empaque y la manija puede variar ](https://www.amazon.com/dp/B01N1MKXEM/?tag=redken08-20) a precio de oferta de 6.67 EUR (original: 11.99 EUR) en el siguiente enlace!

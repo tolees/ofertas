@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B010UPWVGU
 description:
+actualPrice: 153.99 EUR
+comparePrice: 299 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Garmin eTrex Touch 35 Fahrrad-Outdoor-Navigationsgerät - mit vorinstallierter Garmin Topoactive Karte  Smart Notifications und barometrischem Höhenmesser  010-01325-11](https://www.amazon.com/dp/B010UPWVGU/?tag=redken08-20) a 153.99 EUR (original: 299 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074ZS8BKM
 description:
+actualPrice: 119.99 EUR
+comparePrice: 239 EUR
+inStock: true
 ---
 
 Está [H.Koenig Máquina para Hacer Hielo  Silenciosa  120 W  Capacidad 12 kg  Entre 10 y 13 Minutos  2 Tamaños de Cubitos  Gris  Acero Inoxidable KB14](https://www.amazon.com/dp/B074ZS8BKM/?tag=redken08-20) por 119.99 EUR (original: 239 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B9LK7SD
 description:
+actualPrice: 19.5 EUR
+comparePrice: 51.19 EUR
+inStock: true
 ---
 
 Tienes [find. Parka Ligera Hombre  Beige  Stone   X-Small](https://www.amazon.com/dp/B07B9LK7SD/?tag=redken08-20) a precio de oferta de 19.5 EUR (original: 51.19 EUR) en el siguiente enlace!

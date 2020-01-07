@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G86YQGR
 description:
+actualPrice: 5.99 GBP
+comparePrice: 9.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Freefly Frozen Girls Princess Costume Cosplay Fancy Dress Party Outfit Kids  4-5 Years  Blue-3 ](https://www.amazon.com/dp/B07G86YQGR/?tag=redken08-20) a 5.99 GBP (original: 9.99 GBP) en el siguiente enlace!

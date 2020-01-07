@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'B07XL6KZFG: Rebaja en BRIKSMAX Led Beleuchtungsset für Lego St en Amazon'
+title: 'B07XL6KZFG - Ofertón en Amazon para BRIKSMAX Led Beleuchtungsset für Lego St'
 date: 2020-01-05 22:49:00
-comments: true
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41RP6BohioL._SL200_.jpg'
+comments: true
 category: ofertas
 author: ring
 slug: B07XL6KZFG
 description:
+actualPrice: 19.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Clone Scout Walker Kompatibel Mit Lego 75261 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07XL6KZFG/?tag=redken08-20) por 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Clone Scout Walker Kompatibel Mit Lego 75261 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07XL6KZFG/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RP6BohioL._SL200_.jpg)](https://www.amazon.com/dp/B07XL6KZFG/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07XL6KZFG/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07XL6KZFG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

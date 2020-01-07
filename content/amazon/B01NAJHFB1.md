@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NAJHFB1
 description:
+actualPrice: 15 EUR
+comparePrice: 37.5 EUR
+inStock: true
 ---
 
 Está [find. Suedette Bomber Chaqueta Mujer  Gris  Mid Grey   38  Talla del Fabricante: Small ](https://www.amazon.com/dp/B01NAJHFB1/?tag=redken08-20) por 15 EUR (original: 37.5 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DHF1HJF
 description:
+actualPrice: 124.91 EUR
+comparePrice: 210 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FER2700BB0](https://www.amazon.com/dp/B07DHF1HJF/?tag=redken08-20) a 124.91 EUR (original: 210 EUR) en el siguiente enlace!

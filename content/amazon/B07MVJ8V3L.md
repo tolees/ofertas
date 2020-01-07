@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MVJ8V3L
 description:
+actualPrice: 49.99 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
 Está [Kipling - Amiel  Bolsos maletín Mujer  Morado  Dark Plum   27x24.5x14.5 cm  B x H T ](https://www.amazon.com/dp/B07MVJ8V3L/?tag=redken08-20) por 49.99 EUR (original: 75 EUR) en el siguiente enlace!

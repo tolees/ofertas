@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JMWT9TQ
 description:
+actualPrice: 332.99 EUR
+comparePrice: 599.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [TerraMaster F5-221 Caja de Servidor NAS 5 bahías Intel Dual Core 2.0GHz 2GB RAM Plex Media Server Almacenamiento en Red Sin Discos ](https://www.amazon.com/dp/B07JMWT9TQ/?tag=redken08-20) a 332.99 EUR (original: 599.99 EUR) en el siguiente enlace!

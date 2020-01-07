@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00EZ5IY9U
 description:
+actualPrice: 19.99 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Tienes [Pepe Jeans Eggo Long  Top de Manga Larga Para Hombre  Azul  Navy 595   X-Large](https://www.amazon.com/dp/B00EZ5IY9U/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 30 EUR) en el siguiente enlace!

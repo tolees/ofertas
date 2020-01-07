@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073QN7WKD
 description:
+actualPrice: 18 EUR
+comparePrice: 47.25 EUR
+inStock: true
 ---
 
 Está [find. Chaqueta Efecto Cuero para Hombre  Negro  Schwarz   Medium](https://www.amazon.com/dp/B073QN7WKD/?tag=redken08-20) por 18 EUR (original: 47.25 EUR) en el siguiente enlace!

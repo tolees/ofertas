@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LHCNF59
 description:
+actualPrice: 81.92 EUR
+comparePrice: 250 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [THE NORTH FACE Herren Mountain Light II Shelljacke  Urban Navy/Bomber Blue  L](https://www.amazon.com/dp/B07LHCNF59/?tag=redken08-20) a 81.92 EUR (original: 250 EUR) en el siguiente enlace!

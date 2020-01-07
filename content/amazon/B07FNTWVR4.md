@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNTWVR4
 description:
+actualPrice: 40.99 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Está [Tisdaini® Dama Bolso de Mano PU Piel Moda Grande Capacidad Bolso Bandolera Chica Moda Bolso](https://www.amazon.com/dp/B07FNTWVR4/?tag=redken08-20) por 40.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TXR1GJ8
 description:
+actualPrice: 95.19 GBP
+comparePrice: 189.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [KOSPET Classic Smartwatch  1.39" AMOLED Display Smart Watch with GPS  Wi-Fi  3G Phone Call  Heart Rate Monitor  Compatible with Android and iOS for Men Women  Silver ](https://www.amazon.com/dp/B07TXR1GJ8/?tag=redken08-20) a 95.19 GBP (original: 189.99 GBP) en el siguiente enlace!

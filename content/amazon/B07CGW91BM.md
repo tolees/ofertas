@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CGW91BM
 description:
+actualPrice: 16.99 EUR
+comparePrice: 38.82 EUR
+inStock: true
 ---
 
 Está [deAO Mi Pequeño Doctor Playset Centro Médico Portatil Maletín a Ruedas Juego de Imitación Incluye Accesorios](https://www.amazon.com/dp/B07CGW91BM/?tag=redken08-20) por 16.99 EUR (original: 38.82 EUR) en el siguiente enlace!

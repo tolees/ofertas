@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00KRC5ZM4
 description:
+actualPrice: 26.07 EUR
+comparePrice: 49.94 EUR
+inStock: true
 ---
 
 Tienes [SELECTED 16040493 - Camisa casual de manga larga para hombre  color white white  talla Small](https://www.amazon.com/dp/B00KRC5ZM4/?tag=redken08-20) a precio de oferta de 26.07 EUR (original: 49.94 EUR) en el siguiente enlace!

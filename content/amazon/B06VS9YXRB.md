@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06VS9YXRB
 description:
+actualPrice: 103.73 EUR
+comparePrice: 160 EUR
+inStock: true
 ---
 
 Está [Nautica Reloj de Pulsera NAPMIA003](https://www.amazon.com/dp/B06VS9YXRB/?tag=redken08-20) por 103.73 EUR (original: 160 EUR) en el siguiente enlace!

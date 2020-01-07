@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00SF99TXC
 description:
+actualPrice: 46.99 EUR
+comparePrice: 158.99 EUR
+inStock: true
 ---
 
 Tienes [G-STAR RAW 3301 Straight Fit Jeans  Azul  lt Aged 4849-424   30W / 32L para Hombre](https://www.amazon.com/dp/B00SF99TXC/?tag=redken08-20) a precio de oferta de 46.99 EUR (original: 158.99 EUR) en el siguiente enlace!

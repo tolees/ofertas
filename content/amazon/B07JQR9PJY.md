@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JQR9PJY
 description:
+actualPrice: 31.45 EUR
+comparePrice: 69.9 EUR
+inStock: true
 ---
 
 Está [Tommy Hilfiger Essential Craft Vulc  Zapatillas para Hombre  Azul  Midnight 403   42 EU](https://www.amazon.com/dp/B07JQR9PJY/?tag=redken08-20) por 31.45 EUR (original: 69.9 EUR) en el siguiente enlace!

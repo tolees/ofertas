@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG1C9VB
 description:
+actualPrice: 53.08 EUR
+comparePrice: 119.95 EUR
+inStock: true
 ---
 
 Está [PUMA Hybrid Astro  Zapatillas de Running para Hombre - Negro  Puma Black-Puma White  - 43 EU](https://www.amazon.com/dp/B07KG1C9VB/?tag=redken08-20) por 53.08 EUR (original: 119.95 EUR) en el siguiente enlace!

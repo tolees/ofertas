@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XMZBRLP
 description:
+actualPrice: 19.99 EUR
+comparePrice: 34.9 EUR
+inStock: true
 ---
 
 Tienes [Kayhan Hombre Camisa  TwoFace als Uni Classic Black S](https://www.amazon.com/dp/B06XMZBRLP/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 34.9 EUR) en el siguiente enlace!

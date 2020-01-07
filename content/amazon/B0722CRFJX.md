@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0722CRFJX
 description:
+actualPrice: 3.89 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Esprit 997ee2k819  Camiseta Hombre  Gris  Dark Grey 020   XX-Large](https://www.amazon.com/dp/B0722CRFJX/?tag=redken08-20) a 3.89 EUR (original: 9.99 EUR) en el siguiente enlace!

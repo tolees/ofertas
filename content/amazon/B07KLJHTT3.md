@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KLJHTT3
 description:
+actualPrice: 131.17 EUR
+comparePrice: 224.22 EUR
+inStock: true
 ---
 
 Tienes [Bulova Reloj de Pulsera 96C105](https://www.amazon.com/dp/B07KLJHTT3/?tag=redken08-20) a precio de oferta de 131.17 EUR (original: 224.22 EUR) en el siguiente enlace!

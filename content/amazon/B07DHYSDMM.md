@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DHYSDMM
 description:
+actualPrice: 45.07 EUR
+comparePrice: 99.9 EUR
+inStock: true
 ---
 
 Tienes [Geox U Kennet B  Zapatillas para Hombre  Azul  Navy C4002   42 EU](https://www.amazon.com/dp/B07DHYSDMM/?tag=redken08-20) a precio de oferta de 45.07 EUR (original: 99.9 EUR) en el siguiente enlace!

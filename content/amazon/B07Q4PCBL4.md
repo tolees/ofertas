@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q4PCBL4
 description:
+actualPrice: 6.23 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Amzdeal Alcachofa de ducha Cabezal de Ducha de Agua Ahorro Mano de Ducha 3 Modos  Cromo](https://www.amazon.com/dp/B07Q4PCBL4/?tag=redken08-20) a 6.23 EUR (original: 29.99 EUR) en el siguiente enlace!

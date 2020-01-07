@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TQXL0MO
 description:
+actualPrice: 30 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Tienes [Philips Sonicare Serie 2 HX6231/01 - Cepillo de Dientes Electrico  1 Cabezal  Cargador  Blanco](https://www.amazon.com/dp/B00TQXL0MO/?tag=redken08-20) a precio de oferta de 30 EUR (original: 49.99 EUR) en el siguiente enlace!

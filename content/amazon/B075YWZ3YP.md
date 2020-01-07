@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075YWZ3YP
 description:
+actualPrice: 12 EUR
+comparePrice: 31.5 EUR
+inStock: true
 ---
 
 Tienes [find. Parka Ligera Hombre  Beige  Stone   Medium](https://www.amazon.com/dp/B075YWZ3YP/?tag=redken08-20) a precio de oferta de 12 EUR (original: 31.5 EUR) en el siguiente enlace!

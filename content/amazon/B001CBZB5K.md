@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001CBZB5K
 description:
+actualPrice: 84.99 EUR
+comparePrice: 141.43 EUR
+inStock: true
 ---
 
 Tienes [Singer 2250  Tradition -  Máquina de Coser mecánica  10 Puntadas  43 x 22 x 35 2 cm  Blanco](https://www.amazon.com/dp/B001CBZB5K/?tag=redken08-20) a precio de oferta de 84.99 EUR (original: 141.43 EUR) en el siguiente enlace!

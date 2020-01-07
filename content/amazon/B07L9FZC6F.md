@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L9FZC6F
 description:
+actualPrice: 97.34 EUR
+comparePrice: 179 EUR
+inStock: true
 ---
 
 Está [Napapijri Rainforest M Sum 1 Amber Orange Chaqueta  Naranja A44  Large para Hombre](https://www.amazon.com/dp/B07L9FZC6F/?tag=redken08-20) por 97.34 EUR (original: 179 EUR) en el siguiente enlace!

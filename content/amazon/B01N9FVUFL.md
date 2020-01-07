@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N9FVUFL
 description:
+actualPrice: 10.5 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Está [find. Sudadera con Capucha para Hombre  Gris  Grey Marl   Medium](https://www.amazon.com/dp/B01N9FVUFL/?tag=redken08-20) por 10.5 EUR (original: 35 EUR) en el siguiente enlace!

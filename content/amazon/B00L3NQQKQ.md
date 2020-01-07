@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00L3NQQKQ
 description:
+actualPrice: 50.24 EUR
+comparePrice: 84.99 EUR
+inStock: true
 ---
 
 Está [KidKraft- Mesa de madera redonda natural y blanca con 2 sillas  para sala de juegos para niños / muebles de dormitorio   Color Natural y Blanco  27027 ](https://www.amazon.com/dp/B00L3NQQKQ/?tag=redken08-20) por 50.24 EUR (original: 84.99 EUR) en el siguiente enlace!

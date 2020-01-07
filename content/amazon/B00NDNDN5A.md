@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NDNDN5A
 description:
+actualPrice: 40 EUR
+comparePrice: 79.9 EUR
+inStock: true
 ---
 
 Tienes [Beurer FC95 - Cepillo facial sónico  2 intensidades de Masaje  color blanco](https://www.amazon.com/dp/B00NDNDN5A/?tag=redken08-20) a precio de oferta de 40 EUR (original: 79.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BQWV2G1
 description:
+actualPrice: 37.5 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
 Tienes [New Balance Fuel Core NERGIZE  Zapatillas Deportivas para Interior para Mujer  Rosa  Cashmere/Munsell Pearlized White Hp1   39 EU](https://www.amazon.com/dp/B07BQWV2G1/?tag=redken08-20) a precio de oferta de 37.5 EUR (original: 75 EUR) en el siguiente enlace!

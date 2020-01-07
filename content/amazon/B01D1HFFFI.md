@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01D1HFFFI
 description:
+actualPrice: 4.25 EUR
+comparePrice: 7.35 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Rimmel London Sculpting Palette  Polvos de maquillaje - Tono Coral Glow  18.5 g](https://www.amazon.com/dp/B01D1HFFFI/?tag=redken08-20) a 4.25 EUR (original: 7.35 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0776YHLPW
 description:
+actualPrice: 62.43 EUR
+comparePrice: 179 EUR
+inStock: true
 ---
 
 Está [Apple Funda de piel  para el MacBook de 12 pulgadas  - Azul noche](https://www.amazon.com/dp/B0776YHLPW/?tag=redken08-20) por 62.43 EUR (original: 179 EUR) en el siguiente enlace!

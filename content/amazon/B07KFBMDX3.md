@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KFBMDX3
 description:
+actualPrice: 102.7 EUR
+comparePrice: 350 EUR
+inStock: true
 ---
 
 Tienes [Bulova Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 98M130](https://www.amazon.com/dp/B07KFBMDX3/?tag=redken08-20) a precio de oferta de 102.7 EUR (original: 350 EUR) en el siguiente enlace!

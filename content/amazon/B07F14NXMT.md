@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F14NXMT
 description:
+actualPrice: 11.65 EUR
+comparePrice: 17.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Havaianas Slim Logo  Chanclas para Niñas  Azul  Blue   29/30 EU](https://www.amazon.com/dp/B07F14NXMT/?tag=redken08-20) a 11.65 EUR (original: 17.9 EUR) en el siguiente enlace!

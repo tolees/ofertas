@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MR9DXQM
 description:
+actualPrice: 60.99 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [Lee Breese Pantalones para Mujer  Azul  Dark Wardell Ja   29W / 35L](https://www.amazon.com/dp/B07MR9DXQM/?tag=redken08-20) a precio de oferta de 60.99 EUR (original: 99.95 EUR) en el siguiente enlace!

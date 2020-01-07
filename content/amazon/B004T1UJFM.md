@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B004T1UJFM
 description:
+actualPrice: 29.01 EUR
+comparePrice: 65 EUR
+inStock: true
 ---
 
 Está [Geox J Crush M  Zapatillas para Niños  Negro  BLACKC9999   41 EU](https://www.amazon.com/dp/B004T1UJFM/?tag=redken08-20) por 29.01 EUR (original: 65 EUR) en el siguiente enlace!

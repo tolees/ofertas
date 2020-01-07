@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RWSRYR3
 description:
+actualPrice: 23.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Tienes [Pecute Bolso Perro Pequeño  Bolsa Bandolera de Transporte de Gatos  Correa de Hombro cómoda Acolchada Ajustable con Bolsill  con Cuerda de Seguridad Anti-caida  Cachorros Menos de 10 kg Gris ](https://www.amazon.com/dp/B07RWSRYR3/?tag=redken08-20) a precio de oferta de 23.99 EUR (original: 59.99 EUR) en el siguiente enlace!

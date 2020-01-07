@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072FPPN3Z
 description:
+actualPrice: 49.95 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [adidas Superstar  Zapatillas de deporte para Hombre  Beige  Marcla/Marcla/Marcla   43 1/3 EU](https://www.amazon.com/dp/B072FPPN3Z/?tag=redken08-20) a precio de oferta de 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

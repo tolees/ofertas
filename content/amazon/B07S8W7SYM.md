@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07S8W7SYM
 description:
+actualPrice: 29.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [GODNECE LED Licht-Set für Baustein  Led Beleuchtungsset Licht-Set für Baustein Spielzeug Kompatibel Mit Lego 42093 Technic Chevrolet Corvette ZR1 Bausatz Modell Nicht Enthalten ](https://www.amazon.com/dp/B07S8W7SYM/?tag=redken08-20) por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

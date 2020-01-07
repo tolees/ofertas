@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DCBLYBH
 description:
+actualPrice: 37.68 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Tienes [PUMA Vikky Stacked L  Zapatillas para Mujer  Black Black  40.5 EU](https://www.amazon.com/dp/B07DCBLYBH/?tag=redken08-20) a precio de oferta de 37.68 EUR (original: 59.95 EUR) en el siguiente enlace!

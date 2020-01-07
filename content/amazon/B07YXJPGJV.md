@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07YXJPGJV
 description:
+actualPrice: 16.99 EUR
+comparePrice: 38.99 EUR
+inStock: true
 ---
 
 Está [Barras Luminosas  Hieha 200 Piezas Glow Sticks para Fiesta 20cm 7 Colores con Conectores Varitas Luminosas Fluorescentes Kits para Crear Gafas/Pulseras/Collares/Flores/Pendientes](https://www.amazon.com/dp/B07YXJPGJV/?tag=redken08-20) por 16.99 EUR (original: 38.99 EUR) en el siguiente enlace!

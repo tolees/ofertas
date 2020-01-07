@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FCDD87F
 description:
+actualPrice: 18.46 EUR
+comparePrice: 37.94 EUR
+inStock: true
 ---
 
 Está [Hasbro MY Little Pony Bata  Azul  Blue 13-4411tc   4 años para Niñas](https://www.amazon.com/dp/B07FCDD87F/?tag=redken08-20) por 18.46 EUR (original: 37.94 EUR) en el siguiente enlace!

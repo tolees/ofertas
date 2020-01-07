@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PQCPJNL
 description:
+actualPrice: 11.29 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LOHOTEK Guantes de Ciclismo Motocicleta Bicicleta Montaña-Acolchados Bicicleta de Carretera de Hombres Mujeres Antideslizante Pantalla Táctil  Azul  S ](https://www.amazon.com/dp/B07PQCPJNL/?tag=redken08-20) a 11.29 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07S81FMGT
 description:
+actualPrice: 21.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [WisFox Packs de Teclado y Ratón Inalámbrico  2.4GHz Slim Combo de Teclado y Ratón Inalámbrico Avanzado Silencioso Tamaño Completo con Receptor USB Nano para Computadora Portátil  PC  QWERTY Español](https://www.amazon.com/dp/B07S81FMGT/?tag=redken08-20) por 21.99 EUR (original: 49.99 EUR) en el siguiente enlace!

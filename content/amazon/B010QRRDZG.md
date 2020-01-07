@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B010QRRDZG
 description:
+actualPrice: 85.13 EUR
+comparePrice: 150 EUR
+inStock: true
 ---
 
 Está [Timberland Larchmont Chelsea Waterproof  Botas Hombre  Marrón  Medium Brown Nubuck   40 EU](https://www.amazon.com/dp/B010QRRDZG/?tag=redken08-20) por 85.13 EUR (original: 150 EUR) en el siguiente enlace!

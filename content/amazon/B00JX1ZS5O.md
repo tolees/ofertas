@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00JX1ZS5O
 description:
+actualPrice: 8.99 EUR
+comparePrice: 16.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sabrent Concentrador USB 3.0 con 4 Puertos con interruptores de alimentación Individuales y Leds  HB-UM43 ](https://www.amazon.com/dp/B00JX1ZS5O/?tag=redken08-20) a 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

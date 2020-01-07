@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QQ2LN3D
 description:
+actualPrice: 5 GBP
+comparePrice: 9.16 GBP
+inStock: true
 ---
 
 Tienes [Funko 40888 POP. Disney: Frozen 2 - Young Elsa Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QQ2LN3D/?tag=redken08-20) a precio de oferta de 5 GBP (original: 9.16 GBP) en el siguiente enlace!

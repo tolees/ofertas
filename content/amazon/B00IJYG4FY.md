@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00IJYG4FY
 description:
+actualPrice: 19.99 GBP
+comparePrice: 30.45 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Logitech Bluetooth Receiver/Bluetooth Audio Adapter](https://www.amazon.com/dp/B00IJYG4FY/?tag=redken08-20) a 19.99 GBP (original: 30.45 GBP) en el siguiente enlace!

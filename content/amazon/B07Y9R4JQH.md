@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Y9R4JQH
 description:
+actualPrice: 32.99 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Está [FLOUREON Estación Meteorológica Inalámbrica con Sensor para Exterior Interior Higrómetro Digital Alarma Reloj con Pantalla Táctil Monitor de Temperatura y Humedad](https://www.amazon.com/dp/B07Y9R4JQH/?tag=redken08-20) por 32.99 EUR (original: 69.99 EUR) en el siguiente enlace!

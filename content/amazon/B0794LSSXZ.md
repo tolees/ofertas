@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0794LSSXZ
 description:
+actualPrice: 16.61 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Está [Bandai - Prodigiosa: Las aventuras de Ladybug Lanzador de Akumas Ladybug  39799 ](https://www.amazon.com/dp/B0794LSSXZ/?tag=redken08-20) por 16.61 EUR (original: 24.99 EUR) en el siguiente enlace!

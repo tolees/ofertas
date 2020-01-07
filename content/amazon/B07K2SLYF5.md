@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K2SLYF5
 description:
+actualPrice: 39.35 EUR
+comparePrice: 125 EUR
+inStock: true
 ---
 
 Está [Armani Exchange - Embossed Logo Crossbody Bag  Bolsos bandolera Mujer  Dorado  Gold   10x10x10 cm  W x H L ](https://www.amazon.com/dp/B07K2SLYF5/?tag=redken08-20) por 39.35 EUR (original: 125 EUR) en el siguiente enlace!

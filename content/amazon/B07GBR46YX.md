@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GBR46YX
 description:
+actualPrice: 264.81 EUR
+comparePrice: 399 EUR
+inStock: true
 ---
 
 Tienes [Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513633](https://www.amazon.com/dp/B07GBR46YX/?tag=redken08-20) a precio de oferta de 264.81 EUR (original: 399 EUR) en el siguiente enlace!

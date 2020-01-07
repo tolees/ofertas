@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CS4TNQC
 description:
+actualPrice: 159.99 EUR
+comparePrice: 259.99 EUR
+inStock: true
 ---
 
 Está [TerraMaster D2-310 USB Tipo C Disco Duro Externo Raid Caja USB3.0 Gen1  5Gbps  2 Bahía Raid Almacenamiento Sin Disco ](https://www.amazon.com/dp/B01CS4TNQC/?tag=redken08-20) por 159.99 EUR (original: 259.99 EUR) en el siguiente enlace!

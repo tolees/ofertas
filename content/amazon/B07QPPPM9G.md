@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QPPPM9G
 description:
+actualPrice: 499 GBP
+comparePrice: 799.99 GBP
+inStock: true
 ---
 
 Tienes [Panasonic TX-40GX800B 40 inch LED 4K Ultra HD HDR Smart TV with Dolby Vision & Dolby Atmos Sound and Freeview Play  2019   Alexa compliant](https://www.amazon.com/dp/B07QPPPM9G/?tag=redken08-20) a precio de oferta de 499 GBP (original: 799.99 GBP) en el siguiente enlace!

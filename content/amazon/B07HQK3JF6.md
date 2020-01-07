@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HQK3JF6
 description:
+actualPrice: 184.99 GBP
+comparePrice: 289 GBP
+inStock: true
 ---
 
 Está [FiiO M9 High Resolution Lossless Audio Player & DAC - Black.](https://www.amazon.com/dp/B07HQK3JF6/?tag=redken08-20) por 184.99 GBP (original: 289 GBP) en el siguiente enlace!

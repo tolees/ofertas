@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000BZ6BXE
 description:
+actualPrice: 9.99 EUR
+comparePrice: 26.9 EUR
+inStock: true
 ---
 
 Tienes [Bodum 1446-01 Milchschäumer mit Glasgriff Latteo  schwarz](https://www.amazon.com/dp/B000BZ6BXE/?tag=redken08-20) a precio de oferta de 9.99 EUR (original: 26.9 EUR) en el siguiente enlace!

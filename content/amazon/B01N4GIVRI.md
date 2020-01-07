@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N4GIVRI
 description:
+actualPrice: 10.8 EUR
+comparePrice: 36 EUR
+inStock: true
 ---
 
 Tienes [find. BAY001013W170205 vaqueros mujer cintura alta   Azul  W38/L32  Talla del Fabricante: 3X-Large ](https://www.amazon.com/dp/B01N4GIVRI/?tag=redken08-20) a precio de oferta de 10.8 EUR (original: 36 EUR) en el siguiente enlace!

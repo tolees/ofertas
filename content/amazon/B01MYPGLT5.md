@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MYPGLT5
 description:
+actualPrice: 45.76 EUR
+comparePrice: 80 EUR
+inStock: true
 ---
 
 Tienes [New Balance 220  Zapatillas para Hombre  Negro  Black/White BK   43 EU](https://www.amazon.com/dp/B01MYPGLT5/?tag=redken08-20) a precio de oferta de 45.76 EUR (original: 80 EUR) en el siguiente enlace!

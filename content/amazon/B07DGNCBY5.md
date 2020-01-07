@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DGNCBY5
 description:
+actualPrice: 103.46 EUR
+comparePrice: 165 EUR
+inStock: true
 ---
 
 Está [Oral-B Smart 5 5000N CrossAction - Cepillo Eléctrico 1 Blanco Conectado  5 Modos Blanqueado  Sensible  Cuidado Encías  3 Cabezales Recambio  Funda de Viaje de Plástico](https://www.amazon.com/dp/B07DGNCBY5/?tag=redken08-20) por 103.46 EUR (original: 165 EUR) en el siguiente enlace!

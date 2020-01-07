@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000AP0RYE
 description:
+actualPrice: 34.95 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Tienes [Reebok Classic Nylon Zapatilla de Running Hombre  Negro  Black / White   44 EU](https://www.amazon.com/dp/B000AP0RYE/?tag=redken08-20) a precio de oferta de 34.95 EUR (original: 69.95 EUR) en el siguiente enlace!

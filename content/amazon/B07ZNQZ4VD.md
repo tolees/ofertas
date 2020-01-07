@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ZNQZ4VD
 description:
+actualPrice: 45.99 EUR
+comparePrice: 70.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Resistance Major Vonreg s TIE-Fighter Kompatibel Mit Lego 75240 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07ZNQZ4VD/?tag=redken08-20) a 45.99 EUR (original: 70.99 EUR) en el siguiente enlace!

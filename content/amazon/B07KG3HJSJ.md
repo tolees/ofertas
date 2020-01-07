@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG3HJSJ
 description:
+actualPrice: 24.58 EUR
+comparePrice: 54.95 EUR
+inStock: true
 ---
 
 Tienes [PUMA NRGY Comet  Zapatillas de Running Unisex Adulto  Peacoat-Yellow Alert  38.5 EU](https://www.amazon.com/dp/B07KG3HJSJ/?tag=redken08-20) a precio de oferta de 24.58 EUR (original: 54.95 EUR) en el siguiente enlace!

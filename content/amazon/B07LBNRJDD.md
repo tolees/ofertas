@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LBNRJDD
 description:
+actualPrice: 32.65 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Está [Helly Hansen HH Logo Crew Sudadera Deportiva  Hombre  Oxblood  M](https://www.amazon.com/dp/B07LBNRJDD/?tag=redken08-20) por 32.65 EUR (original: 60 EUR) en el siguiente enlace!

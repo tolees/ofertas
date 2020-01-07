@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00FC6HSSE
 description:
+actualPrice: 14.6 EUR
+comparePrice: 23.47 EUR
+inStock: true
 ---
 
 Tienes [SENSIBIO AR BB CREAM SPF30 TUBO 40 ML](https://www.amazon.com/dp/B00FC6HSSE/?tag=redken08-20) a precio de oferta de 14.6 EUR (original: 23.47 EUR) en el siguiente enlace!

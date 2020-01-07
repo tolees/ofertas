@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M83VTHB
 description:
+actualPrice: 26.73 EUR
+comparePrice: 49 EUR
+inStock: true
 ---
 
 Tienes [Napapijri Serber WOM Camiseta  Azul  BLU Marine 176   XS para Mujer](https://www.amazon.com/dp/B07M83VTHB/?tag=redken08-20) a precio de oferta de 26.73 EUR (original: 49 EUR) en el siguiente enlace!

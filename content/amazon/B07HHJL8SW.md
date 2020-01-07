@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HHJL8SW
 description:
+actualPrice: 5 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [Fortnite Floss Dance - Camiseta  color gris  talla XL](https://www.amazon.com/dp/B07HHJL8SW/?tag=redken08-20) por 5 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PQCP34S
 description:
+actualPrice: 10.99 EUR
+comparePrice: 16.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LOHOTEK Guantes de Ciclismo de Bicicleta de Montaña Motocicleta Guantes de Bicicleta de Carretera de Medio-Dedo para Hombres Mujeres Acolchado Antideslizante Transpirable  Amarillo Medio Dedo   XL ](https://www.amazon.com/dp/B07PQCP34S/?tag=redken08-20) a 10.99 EUR (original: 16.99 EUR) en el siguiente enlace!

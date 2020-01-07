@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06WGVJ9GY
 description:
+actualPrice: 171.91 EUR
+comparePrice: 299 EUR
+inStock: true
 ---
 
 Tienes [beyerdynamic MMX 300 Premium geschlossener Over-Ear Gaming-Headset  2nd Generation  mit Mikrofon  geeigneter Kopfhörer für PS4 Konsole  XBOX One  PC  Notebook](https://www.amazon.com/dp/B06WGVJ9GY/?tag=redken08-20) a precio de oferta de 171.91 EUR (original: 299 EUR) en el siguiente enlace!

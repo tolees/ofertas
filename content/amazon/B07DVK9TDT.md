@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DVK9TDT
 description:
+actualPrice: 24.69 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Tienes [New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Gris  Light Aluminum Light Aluminum   43 EU](https://www.amazon.com/dp/B07DVK9TDT/?tag=redken08-20) a precio de oferta de 24.69 EUR (original: 90 EUR) en el siguiente enlace!

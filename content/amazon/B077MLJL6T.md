@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077MLJL6T
 description:
+actualPrice: 5.85 EUR
+comparePrice: 14.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarilou Funda Smartphone - Diseño Exclusivo Love Yourself Compatible con Aquaris U2 y Aquaris U2 Lite](https://www.amazon.com/dp/B077MLJL6T/?tag=redken08-20) a 5.85 EUR (original: 14.9 EUR) en el siguiente enlace!

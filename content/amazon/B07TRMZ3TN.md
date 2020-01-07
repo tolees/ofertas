@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TRMZ3TN
 description:
+actualPrice: 10.79 EUR
+comparePrice: 20.99 EUR
+inStock: true
 ---
 
 Está [deAO Estuche de Maquillaje y Joyería de Juguete Playset en Maletín Bolso de Mano con Accesorios Incluidos  Cofre Maletín ](https://www.amazon.com/dp/B07TRMZ3TN/?tag=redken08-20) por 10.79 EUR (original: 20.99 EUR) en el siguiente enlace!

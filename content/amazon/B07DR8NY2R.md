@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DR8NY2R
 description:
+actualPrice: 17.47 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Está [hummel Slimmer Stadil High  Zapatillas Altas Unisex Adulto  Negro  Black 2001   37 EU](https://www.amazon.com/dp/B07DR8NY2R/?tag=redken08-20) por 17.47 EUR (original: 79.95 EUR) en el siguiente enlace!

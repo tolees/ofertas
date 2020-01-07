@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N19SWHF
 description:
+actualPrice: 18.28 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Tienes [Lee Crew Sws  Sudadera para Hombre  Naranja  Sign Orange Me   Small](https://www.amazon.com/dp/B07N19SWHF/?tag=redken08-20) a precio de oferta de 18.28 EUR (original: 59.95 EUR) en el siguiente enlace!

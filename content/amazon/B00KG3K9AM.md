@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00KG3K9AM
 description:
+actualPrice: 4.64 GBP
+comparePrice: 7.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Noctua NA-SEC1  4-Pin Extension Cables  30cm  Black ](https://www.amazon.com/dp/B00KG3K9AM/?tag=redken08-20) a 4.64 GBP (original: 7.99 GBP) en el siguiente enlace!

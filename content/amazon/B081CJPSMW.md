@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CJPSMW
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [Geographical Norway Chaqueta Mujer Anson PÚRPURA L](https://www.amazon.com/dp/B081CJPSMW/?tag=redken08-20) a precio de oferta de 65 EUR (original: 99 EUR) en el siguiente enlace!

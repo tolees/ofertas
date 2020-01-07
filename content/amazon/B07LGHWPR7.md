@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LGHWPR7
 description:
+actualPrice: 24.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [BRIKSMAX Volkswagen Käfer Led Beleuchtungsset - Kompatibel Mit Lego 10252 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07LGHWPR7/?tag=redken08-20) por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

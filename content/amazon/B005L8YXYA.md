@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005L8YXYA
 description:
+actualPrice: 14.95 EUR
+comparePrice: 47.88 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Madison U4167-10 - Reloj de Pulsera para Hombre  Verde](https://www.amazon.com/dp/B005L8YXYA/?tag=redken08-20) a 14.95 EUR (original: 47.88 EUR) en el siguiente enlace!

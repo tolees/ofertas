@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00EALB0S6
 description:
+actualPrice: 10.21 EUR
+comparePrice: 29.9 EUR
+inStock: true
 ---
 
 Está [Bausch & Lomb - Biotrue One Day Esféricas - Lentes de Contacto](https://www.amazon.com/dp/B00EALB0S6/?tag=redken08-20) por 10.21 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BL2PDWL
 description:
+actualPrice: 45 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Tienes [New Balance 997H  Zapatillas para Mujer  Gris  Castlerock/White   41.5 EU](https://www.amazon.com/dp/B07BL2PDWL/?tag=redken08-20) a precio de oferta de 45 EUR (original: 90 EUR) en el siguiente enlace!

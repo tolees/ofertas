@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FTR6MWX
 description:
+actualPrice: 17.73 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [Lee Elly Vaqueros  Azul  Light Rugged GE   25W / 31L para Mujer](https://www.amazon.com/dp/B07FTR6MWX/?tag=redken08-20) a precio de oferta de 17.73 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DQXKDSC
 description:
+actualPrice: 14.94 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Volcom Crisp Stone BSC SS Camiseta  Hombre  Rojo  Engine Red   L](https://www.amazon.com/dp/B07DQXKDSC/?tag=redken08-20) a 14.94 EUR (original: 30 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0827HMSST
 description:
+actualPrice: 10.78 EUR
+comparePrice: 58.99 EUR
+inStock: true
 ---
 
 Está [IMEKIS Mädchen Prinzessin Eiskönigin ELSA Kleid Frozen 2 Schneekönigin Kostüm Schneeflocke Tüll Tutu Geburtstag Partykleid mit Zubehör Weihnachten Karneval Cosplay Verkleidung Rose 7-8 Jahre](https://www.amazon.com/dp/B0827HMSST/?tag=redken08-20) por 10.78 EUR (original: 58.99 EUR) en el siguiente enlace!

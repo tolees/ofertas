@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q3ZKX1R
 description:
+actualPrice: 9.35 EUR
+comparePrice: 14.45 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PediaSure - Complemento Alimenticio para Niños con Proteínas  Vitaminas y Minerales  Sabor Vainilla - 400 gr](https://www.amazon.com/dp/B07Q3ZKX1R/?tag=redken08-20) a 9.35 EUR (original: 14.45 EUR) en el siguiente enlace!

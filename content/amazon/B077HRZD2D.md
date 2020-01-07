@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077HRZD2D
 description:
+actualPrice: 11.4 EUR
+comparePrice: 30.4 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. MDR 40621 vestidos mujer  Rojo  Red   46  Talla del fabricante: XX-Large ](https://www.amazon.com/dp/B077HRZD2D/?tag=redken08-20) a 11.4 EUR (original: 30.4 EUR) en el siguiente enlace!

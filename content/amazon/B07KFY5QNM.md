@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KFY5QNM
 description:
+actualPrice: 37.41 EUR
+comparePrice: 74.95 EUR
+inStock: true
 ---
 
 Tienes [Puma Future Runner Premium  Zapatillas Unisex Adulto  Gris  Castlerock-Blue Turquoise-Puma Black-Puma White 05   40 EU](https://www.amazon.com/dp/B07KFY5QNM/?tag=redken08-20) a precio de oferta de 37.41 EUR (original: 74.95 EUR) en el siguiente enlace!

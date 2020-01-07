@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07W47CZJW
 description:
+actualPrice: 18.99 GBP
+comparePrice: 49.99 GBP
+inStock: true
 ---
 
 Está [BRIKSMAX Led Lighting Kit for LEGO City Fire Ladder Truck- Compatible with Lego 60107 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07W47CZJW/?tag=redken08-20) por 18.99 GBP (original: 49.99 GBP) en el siguiente enlace!

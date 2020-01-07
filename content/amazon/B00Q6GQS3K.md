@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00Q6GQS3K
 description:
+actualPrice: 22.47 EUR
+comparePrice: 33.9 EUR
+inStock: true
 ---
 
 Está [KEEP OUT KEP-F80S - Teclado Gaming retroiluminado  Color Negro](https://www.amazon.com/dp/B00Q6GQS3K/?tag=redken08-20) por 22.47 EUR (original: 33.9 EUR) en el siguiente enlace!

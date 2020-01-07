@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DWHVWD7
 description:
+actualPrice: 24.57 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Tienes [Hurley M One&Only Woven L/S Camisas  Hombre  Blue Ok  L](https://www.amazon.com/dp/B07DWHVWD7/?tag=redken08-20) a precio de oferta de 24.57 EUR (original: 55 EUR) en el siguiente enlace!

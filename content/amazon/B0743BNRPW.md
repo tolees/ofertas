@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0743BNRPW
 description:
+actualPrice: 16.5 EUR
+comparePrice: 44 EUR
+inStock: true
 ---
 
 Está [TRUTH & FABLE 13791 vestido fiesta mujer  Azul  Navy Blue   42  Talla del fabricante: Large ](https://www.amazon.com/dp/B0743BNRPW/?tag=redken08-20) por 16.5 EUR (original: 44 EUR) en el siguiente enlace!

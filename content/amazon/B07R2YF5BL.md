@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07R2YF5BL
 description:
+actualPrice: 21.49 EUR
+comparePrice: 45 EUR
+inStock: true
 ---
 
 Está [Under Armour Sportstyle Cotton Graphic Pantalón  Hombre  Azul  MD](https://www.amazon.com/dp/B07R2YF5BL/?tag=redken08-20) por 21.49 EUR (original: 45 EUR) en el siguiente enlace!

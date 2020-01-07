@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073WCLTQX
 description:
+actualPrice: 7.29 EUR
+comparePrice: 19.29 EUR
+inStock: true
 ---
 
 Tienes [Trespass MASONVILLE -Male Microfleece AT100 - Forro Polar  Hombre  Verde -  Clover ](https://www.amazon.com/dp/B073WCLTQX/?tag=redken08-20) a precio de oferta de 7.29 EUR (original: 19.29 EUR) en el siguiente enlace!

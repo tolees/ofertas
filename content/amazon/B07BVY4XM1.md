@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BVY4XM1
 description:
+actualPrice: 27.95 EUR
+comparePrice: 45.95 EUR
+inStock: true
 ---
 
 Está [seQoya - Colorado | Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original](https://www.amazon.com/dp/B07BVY4XM1/?tag=redken08-20) por 27.95 EUR (original: 45.95 EUR) en el siguiente enlace!

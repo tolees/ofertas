@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HNX8YMB
 description:
+actualPrice: 13.38 EUR
+comparePrice: 44.39 EUR
+inStock: true
 ---
 
 Está [Reloj - Menton Ezil - para - TMEUWA9333B01](https://www.amazon.com/dp/B07HNX8YMB/?tag=redken08-20) por 13.38 EUR (original: 44.39 EUR) en el siguiente enlace!

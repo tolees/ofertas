@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GBKFFDJ
 description:
+actualPrice: 9.49 EUR
+comparePrice: 19.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PUMA ESS Logo tee T-Shirt  Hombre  Medium Gray Heather  S](https://www.amazon.com/dp/B07GBKFFDJ/?tag=redken08-20) a 9.49 EUR (original: 19.95 EUR) en el siguiente enlace!

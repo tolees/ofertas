@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LCKWSR3
 description:
+actualPrice: 18.28 EUR
+comparePrice: 30.47 EUR
+inStock: true
 ---
 
 Está [BURRITO BLANCO Chichonera para Cuna de Bebé 007 60x120cm con Un diseño Estampado de Casitas con Graciosos Animalitos/Chichonera Cuna 60x120  Colores Azul  Rosa y Beige](https://www.amazon.com/dp/B07LCKWSR3/?tag=redken08-20) por 18.28 EUR (original: 30.47 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G2GBDSJ
 description:
+actualPrice: 15.9 EUR
+comparePrice: 24.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Crema Facial Crilu con extracto de baba de caracol 100% puro 30 ml Regenerador  antiarrugas  antimanchas  imperfecciones  acné y cicatrices  ácido hialurónico  ácido glicólico. Para mujeres y hombres](https://www.amazon.com/dp/B07G2GBDSJ/?tag=redken08-20) a 15.9 EUR (original: 24.9 EUR) en el siguiente enlace!

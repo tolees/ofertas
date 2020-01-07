@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JGNBY7Q
 description:
+actualPrice: 223.52 EUR
+comparePrice: 450 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Acero Inoxidable RA-AA0002L19B](https://www.amazon.com/dp/B07JGNBY7Q/?tag=redken08-20) a 223.52 EUR (original: 450 EUR) en el siguiente enlace!

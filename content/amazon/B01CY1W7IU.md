@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CY1W7IU
 description:
+actualPrice: 80.09 EUR
+comparePrice: 149 EUR
+inStock: true
 ---
 
 Tienes [HUION Inalámbrico Tableta Gráfica  WH1409 ](https://www.amazon.com/dp/B01CY1W7IU/?tag=redken08-20) a precio de oferta de 80.09 EUR (original: 149 EUR) en el siguiente enlace!

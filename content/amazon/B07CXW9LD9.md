@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CXW9LD9
 description:
+actualPrice: 16.78 EUR
+comparePrice: 34.99 EUR
+inStock: true
 ---
 
 Tienes [Belkin Klinken-Audiokabel  3 5 mm  mit Lightning Connector  AUX-Kabel für iPhone 11  11 Pro  11 Pro Max  XS  XS Max  XR  X  8/8 Plus  0 9 m   schwarz](https://www.amazon.com/dp/B07CXW9LD9/?tag=redken08-20) a precio de oferta de 16.78 EUR (original: 34.99 EUR) en el siguiente enlace!

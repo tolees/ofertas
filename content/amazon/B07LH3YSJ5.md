@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LH3YSJ5
 description:
+actualPrice: 8.99 EUR
+comparePrice: 15 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [DazSpirit 7Piezas boligrafo de Tinta Invisible Y mágico de luz UV para mensajes secretos y fiestas Noticias Regalos Sencillas mágicas ...](https://www.amazon.com/dp/B07LH3YSJ5/?tag=redken08-20) a 8.99 EUR (original: 15 EUR) en el siguiente enlace!

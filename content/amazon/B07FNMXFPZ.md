@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNMXFPZ
 description:
+actualPrice: 19.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [LEGO City 60214 Feuerwehreinsatz im Burger-Restaurant](https://www.amazon.com/dp/B07FNMXFPZ/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

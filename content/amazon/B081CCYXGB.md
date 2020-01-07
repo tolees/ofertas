@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CCYXGB
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [Geographical Norway Chaqueta Hombre BOKER Negro S](https://www.amazon.com/dp/B081CCYXGB/?tag=redken08-20) a precio de oferta de 65 EUR (original: 99 EUR) en el siguiente enlace!

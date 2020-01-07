@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078NNQFLV
 description:
+actualPrice: 9.99 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funxim Infinity Cube Toy para Adultos y niños  versión Nueva Fidget Finger Toy Stress y Ansiedad  Killing Time Fidget Toys Infinite Cube para Office Staff  Negro ](https://www.amazon.com/dp/B078NNQFLV/?tag=redken08-20) a 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

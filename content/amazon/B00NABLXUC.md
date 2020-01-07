@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NABLXUC
 description:
+actualPrice: 15 EUR
+comparePrice: 129 EUR
+inStock: true
 ---
 
 Está [Beurer FC100  Exfoliador facial Pureo Derma Peel microdermabrasion  con 5 niveles de intensidad  para piel normal ](https://www.amazon.com/dp/B00NABLXUC/?tag=redken08-20) por 15 EUR (original: 129 EUR) en el siguiente enlace!

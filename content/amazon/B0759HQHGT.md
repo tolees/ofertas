@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0759HQHGT
 description:
+actualPrice: 10 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funko Pop!- Neo Cortex Figura de Vinilo  25655 ](https://www.amazon.com/dp/B0759HQHGT/?tag=redken08-20) a 10 EUR (original: 15.95 EUR) en el siguiente enlace!

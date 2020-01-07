@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076GTW4SS
 description:
+actualPrice: 26.99 EUR
+comparePrice: 67.11 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Boy Botas de Baloncesto Zapatillas Deportivas Zapatillas de Running Deportivas Outsport  EU31-Azul ](https://www.amazon.com/dp/B076GTW4SS/?tag=redken08-20) a 26.99 EUR (original: 67.11 EUR) en el siguiente enlace!

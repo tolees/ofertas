@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078VRJZRG
 description:
+actualPrice: 38.47 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Tienes [Volcom Miter II Cargo Bermudas  Hombre  Verde  Khaki   31](https://www.amazon.com/dp/B078VRJZRG/?tag=redken08-20) a precio de oferta de 38.47 EUR (original: 69.95 EUR) en el siguiente enlace!

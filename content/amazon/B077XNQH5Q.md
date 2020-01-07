@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077XNQH5Q
 description:
+actualPrice: 18.99 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Tienes [Under Armour UA Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Gris  Steel/Black 035   S](https://www.amazon.com/dp/B077XNQH5Q/?tag=redken08-20) a precio de oferta de 18.99 EUR (original: 40 EUR) en el siguiente enlace!

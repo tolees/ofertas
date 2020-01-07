@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HSRHGHL
 description:
+actualPrice: 14.95 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Hello Neighbor: Hide And Seek](https://www.amazon.com/dp/B07HSRHGHL/?tag=redken08-20) a 14.95 EUR (original: 24.99 EUR) en el siguiente enlace!

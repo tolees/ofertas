@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01J3I8OFC
 description:
+actualPrice: 109 EUR
+comparePrice: 170.99 EUR
+inStock: true
 ---
 
 Tienes [Epson C11CF54402  Expression Premium XP-900 - Impresora multifunción  Wi-Fi  compacta y versátil  Ya disponible en Amazon Dash Replenishment](https://www.amazon.com/dp/B01J3I8OFC/?tag=redken08-20) a precio de oferta de 109 EUR (original: 170.99 EUR) en el siguiente enlace!

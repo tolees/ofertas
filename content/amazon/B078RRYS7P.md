@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078RRYS7P
 description:
+actualPrice: 89 EUR
+comparePrice: 179 EUR
+inStock: true
 ---
 
 Tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Cuero FTW5014](https://www.amazon.com/dp/B078RRYS7P/?tag=redken08-20) a precio de oferta de 89 EUR (original: 179 EUR) en el siguiente enlace!

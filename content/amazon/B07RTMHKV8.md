@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RTMHKV8
 description:
+actualPrice: 13 EUR
+comparePrice: 25.85 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Look Emily Crochet  Blusa para Mujer  Negro  Black 1   Small  Talla del fabricante: Small ](https://www.amazon.com/dp/B07RTMHKV8/?tag=redken08-20) a 13 EUR (original: 25.85 EUR) en el siguiente enlace!

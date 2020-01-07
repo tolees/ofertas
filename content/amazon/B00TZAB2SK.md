@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TZAB2SK
 description:
+actualPrice: 7.99 EUR
+comparePrice: 21.99 EUR
+inStock: true
 ---
 
 Tienes [uhlsport Stream 3.0 Ml Camiseta De Juego Manga Larga  Hombre  Azur/Amarillo maiz  M](https://www.amazon.com/dp/B00TZAB2SK/?tag=redken08-20) a precio de oferta de 7.99 EUR (original: 21.99 EUR) en el siguiente enlace!

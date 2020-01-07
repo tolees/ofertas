@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079QHMFWC
 description:
+actualPrice: 29.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Fire TV Stick 4K Ultra HD mit Alexa-Sprachfernbedienung](https://www.amazon.com/dp/B079QHMFWC/?tag=redken08-20) por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

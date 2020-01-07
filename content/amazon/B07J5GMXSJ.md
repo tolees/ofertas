@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J5GMXSJ
 description:
+actualPrice: 21.85 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Tienes [Skechers Flex Advantage 3.0  Zapatillas para Niños  Azul  Navy & Charcoal Textile/Navy & Red Trim Nvcc   27.5 EU](https://www.amazon.com/dp/B07J5GMXSJ/?tag=redken08-20) a precio de oferta de 21.85 EUR (original: 49.95 EUR) en el siguiente enlace!

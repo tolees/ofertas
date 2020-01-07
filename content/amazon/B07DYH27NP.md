@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DYH27NP
 description:
+actualPrice: 183.32 EUR
+comparePrice: 449 EUR
+inStock: true
 ---
 
 Está [Polk Audio Atrium Sub 100 Grau  Lautsprecher](https://www.amazon.com/dp/B07DYH27NP/?tag=redken08-20) por 183.32 EUR (original: 449 EUR) en el siguiente enlace!

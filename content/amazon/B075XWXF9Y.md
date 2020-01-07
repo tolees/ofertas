@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075XWXF9Y
 description:
+actualPrice: 69.99 GBP
+comparePrice: 169.99 GBP
+inStock: true
 ---
 
 Tienes [Ultimate Ears Blast Bluetooth Speaker  Portable Wi-Fi/Loud Waterproof Wireless Speaker with Amazon Alexa Voice Control - Red](https://www.amazon.com/dp/B075XWXF9Y/?tag=redken08-20) a precio de oferta de 69.99 GBP (original: 169.99 GBP) en el siguiente enlace!

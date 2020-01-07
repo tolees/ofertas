@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MFC7NWV
 description:
+actualPrice: 12.95 EUR
+comparePrice: 20.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lego Ninjago Suéter para Niños niño Lego Ninjago - 8 - 9 Años](https://www.amazon.com/dp/B01MFC7NWV/?tag=redken08-20) a 12.95 EUR (original: 20.95 EUR) en el siguiente enlace!

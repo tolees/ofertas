@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00EC6VARA
 description:
+actualPrice: 7.62 EUR
+comparePrice: 59 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Disney Infinity -  Toy Box Set: Frozen  Anna  Elsa + 2 Power Discs ](https://www.amazon.com/dp/B00EC6VARA/?tag=redken08-20) a 7.62 EUR (original: 59 EUR) en el siguiente enlace!

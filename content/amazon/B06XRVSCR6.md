@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XRVSCR6
 description:
+actualPrice: 8.07 EUR
+comparePrice: 15.75 EUR
+inStock: true
 ---
 
 Está [Luanvi Balón Cup T4  Unisex   Royal/Pistacho   4](https://www.amazon.com/dp/B06XRVSCR6/?tag=redken08-20) por 8.07 EUR (original: 15.75 EUR) en el siguiente enlace!

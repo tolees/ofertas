@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07STDTG5G
 description:
+actualPrice: 32.52 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Oral-B PRO 1 200 Elektrische Zahnbürste  für eine sanfte Reinigung bei empfindlichem Zahnfleisch  weiß  1 Stück](https://www.amazon.com/dp/B07STDTG5G/?tag=redken08-20) por 32.52 EUR (original: 59.99 EUR) en el siguiente enlace!

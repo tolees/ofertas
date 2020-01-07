@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQ4ZJ2V
 description:
+actualPrice: 6.15 EUR
+comparePrice: 38.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Calvin Klein Jeans Core Monogram Logo Regular Fit tee Camiseta  Gris  Light Grey Heather 038   X-Large para Mujer](https://www.amazon.com/dp/B07KQ4ZJ2V/?tag=redken08-20) a 6.15 EUR (original: 38.99 EUR) en el siguiente enlace!

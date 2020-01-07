@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XB4QZ6X
 description:
+actualPrice: 8.99 EUR
+comparePrice: 15.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LAYJOY Funda iPhone XS MAX  Carcasa Ligera Silicona Negro Suave TPU Bumper y Transparente Duro PC Case Anti-Arañazos  Anti-Golpes Caso Cover 6.5 Pulgadas - Clear](https://www.amazon.com/dp/B07XB4QZ6X/?tag=redken08-20) a 8.99 EUR (original: 15.99 EUR) en el siguiente enlace!

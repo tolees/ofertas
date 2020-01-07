@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07X9JBXVQ
 description:
+actualPrice: 13 EUR
+comparePrice: 25.99 EUR
+inStock: true
 ---
 
 Está [Parfois - Mochila Detalles Efecto Ante - Mujeres - Tallas M - Beige](https://www.amazon.com/dp/B07X9JBXVQ/?tag=redken08-20) por 13 EUR (original: 25.99 EUR) en el siguiente enlace!

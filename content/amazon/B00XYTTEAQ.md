@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00XYTTEAQ
 description:
+actualPrice: 24.99 EUR
+comparePrice: 44.89 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Logitech K400 Plus - Teclado inalámbrico para televisores conectados a PC  Qwerty español  color negro](https://www.amazon.com/dp/B00XYTTEAQ/?tag=redken08-20) a 24.99 EUR (original: 44.89 EUR) en el siguiente enlace!

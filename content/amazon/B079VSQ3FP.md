@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079VSQ3FP
 description:
+actualPrice: 19.99 EUR
+comparePrice: 69 EUR
+inStock: true
 ---
 
 Está [Crosshatch Barrington Vaqueros Slim  Grey  Grey CS   W32/L34 para Hombre](https://www.amazon.com/dp/B079VSQ3FP/?tag=redken08-20) por 19.99 EUR (original: 69 EUR) en el siguiente enlace!

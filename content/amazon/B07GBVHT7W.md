@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GBVHT7W
 description:
+actualPrice: 6.99 EUR
+comparePrice: 25.76 EUR
+inStock: true
 ---
 
 Tienes [FORLADY Rose Flower Ring Hoop Beach Holiday accesorios de disparo floral de la flor diadema Crown Garland - guirnalda de flores ajustable para mujeres niñas Festival de vacaciones](https://www.amazon.com/dp/B07GBVHT7W/?tag=redken08-20) a precio de oferta de 6.99 EUR (original: 25.76 EUR) en el siguiente enlace!

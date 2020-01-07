@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VW7HR8Y
 description:
+actualPrice: 39 EUR
+comparePrice: 79 EUR
+inStock: true
 ---
 
 Tienes [De Longhi Dolce Gusto Piccolo XS EDG210.R - Cafetera de cápsulas  15 bares de presión  diseño compacto  color rojo](https://www.amazon.com/dp/B07VW7HR8Y/?tag=redken08-20) a precio de oferta de 39 EUR (original: 79 EUR) en el siguiente enlace!

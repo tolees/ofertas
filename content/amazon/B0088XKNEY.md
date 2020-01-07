@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0088XKNEY
 description:
+actualPrice: 65.9 EUR
+comparePrice: 131 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Dr. Martens 1461 Smooth  Derby para Hombre  Rojo  37 EU](https://www.amazon.com/dp/B0088XKNEY/?tag=redken08-20) a 65.9 EUR (original: 131 EUR) en el siguiente enlace!

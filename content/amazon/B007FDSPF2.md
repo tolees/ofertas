@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B007FDSPF2
 description:
+actualPrice: 16.99 EUR
+comparePrice: 26 EUR
+inStock: true
 ---
 
 Está [Twister - Hasbro Gaming  Hasbro 98831175 ](https://www.amazon.com/dp/B007FDSPF2/?tag=redken08-20) por 16.99 EUR (original: 26 EUR) en el siguiente enlace!

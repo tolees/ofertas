@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SVHL3LL
 description:
+actualPrice: 59.08 EUR
+comparePrice: 145.99 EUR
+inStock: true
 ---
 
 Está [Oral-B PRO 4 Elektrische Zahnbürste  mit visueller Andruckkontrolle & Smart Coaching  weiß](https://www.amazon.com/dp/B07SVHL3LL/?tag=redken08-20) por 59.08 EUR (original: 145.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000ZO5ZMY
 description:
+actualPrice: 1.13 EUR
+comparePrice: 7.93 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pelikan 361363 - Cartucho de tinta Brother MFC-240C - LC1000 - CYAN](https://www.amazon.com/dp/B000ZO5ZMY/?tag=redken08-20) a 1.13 EUR (original: 7.93 EUR) en el siguiente enlace!

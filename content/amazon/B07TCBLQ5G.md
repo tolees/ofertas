@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TCBLQ5G
 description:
+actualPrice: 247.99 EUR
+comparePrice: 390 EUR
+inStock: true
 ---
 
 Tienes [The North Face M Gotham Chaqueta De Plumón  Hombre  Montague Blue  M](https://www.amazon.com/dp/B07TCBLQ5G/?tag=redken08-20) a precio de oferta de 247.99 EUR (original: 390 EUR) en el siguiente enlace!

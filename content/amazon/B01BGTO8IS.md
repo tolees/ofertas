@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BGTO8IS
 description:
+actualPrice: 49.71 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [G-Star Raw Bronson  Pantalones Para Hombre  Gris  Grey   W34/L30](https://www.amazon.com/dp/B01BGTO8IS/?tag=redken08-20) a 49.71 EUR (original: 99.95 EUR) en el siguiente enlace!

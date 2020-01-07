@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KTK9B3Z
 description:
+actualPrice: 52.99 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LEGO 21045 - Architecture Trafalgar Square  Bauset](https://www.amazon.com/dp/B07KTK9B3Z/?tag=redken08-20) a 52.99 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NC5L8QT
 description:
+actualPrice: 29.99 EUR
+comparePrice: 44.99 EUR
+inStock: true
 ---
 
 Tienes [Barbie - Chelsea Muñeca y Su Caravana  con Perrito y Accesorios  Mattel FXG90 ](https://www.amazon.com/dp/B07NC5L8QT/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 44.99 EUR) en el siguiente enlace!

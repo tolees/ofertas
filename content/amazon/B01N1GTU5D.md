@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1GTU5D
 description:
+actualPrice: 30.24 EUR
+comparePrice: 74.95 EUR
+inStock: true
 ---
 
 Tienes [PUMA Roma Basic Zapatillas deportivas Hombre  black-white-puma silver  38 EU  5 UK ](https://www.amazon.com/dp/B01N1GTU5D/?tag=redken08-20) a precio de oferta de 30.24 EUR (original: 74.95 EUR) en el siguiente enlace!

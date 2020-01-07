@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TPDVUTI
 description:
+actualPrice: 7.25 EUR
+comparePrice: 14.27 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [L Oréal Paris Infalible Primer  PreBase Alisadora de Maquillaje Larga Duración 24H - 35 ml](https://www.amazon.com/dp/B00TPDVUTI/?tag=redken08-20) a 7.25 EUR (original: 14.27 EUR) en el siguiente enlace!

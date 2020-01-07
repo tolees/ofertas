@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K6NJSCM
 description:
+actualPrice: 19.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [FR·TEC -  Auriculares Gaming Headset Genbu - PS4  Xbox One  Nintendo Switch  PC  Mac](https://www.amazon.com/dp/B07K6NJSCM/?tag=redken08-20) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

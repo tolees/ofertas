@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KH7WXPK
 description:
+actualPrice: 16.66 EUR
+comparePrice: 54.99 EUR
+inStock: true
 ---
 
 Tienes [Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Rosa  Impulse Pink/Ash Taupe/Reflective 671   32C](https://www.amazon.com/dp/B07KH7WXPK/?tag=redken08-20) a precio de oferta de 16.66 EUR (original: 54.99 EUR) en el siguiente enlace!

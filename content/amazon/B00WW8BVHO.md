@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00WW8BVHO
 description:
+actualPrice: 63.99 EUR
+comparePrice: 119.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Braun Series 3 ProSkin 3040 s - Afeitadora Eléctrica Hombre  para Barba  Inalámbrica  Recargable  Wet&Dry  Seco y Mojado   Recortadora Extraíble  Azul](https://www.amazon.com/dp/B00WW8BVHO/?tag=redken08-20) a 63.99 EUR (original: 119.99 EUR) en el siguiente enlace!

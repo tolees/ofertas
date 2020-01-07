@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NPCZYX8
 description:
+actualPrice: 41.95 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Está [Skechers Elite Flex-Lochbay  Zapatillas para Hombre  Azul  Navy/Multicoloured Nvmt   41.5 EU](https://www.amazon.com/dp/B07NPCZYX8/?tag=redken08-20) por 41.95 EUR (original: 69.95 EUR) en el siguiente enlace!

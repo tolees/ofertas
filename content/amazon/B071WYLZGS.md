@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071WYLZGS
 description:
+actualPrice: 10.8 EUR
+comparePrice: 24.8 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find.  Zapatillas Deportivas para Mujer  Gris  Grey   35.5 EU](https://www.amazon.com/dp/B071WYLZGS/?tag=redken08-20) a 10.8 EUR (original: 24.8 EUR) en el siguiente enlace!

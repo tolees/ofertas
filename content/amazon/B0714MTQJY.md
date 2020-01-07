@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0714MTQJY
 description:
+actualPrice: 9 EUR
+comparePrice: 18 EUR
+inStock: true
 ---
 
 Tienes [Khanomak - Pantalón Corto Deportivo - para Mujer Negro Negro Large](https://www.amazon.com/dp/B0714MTQJY/?tag=redken08-20) a precio de oferta de 9 EUR (original: 18 EUR) en el siguiente enlace!

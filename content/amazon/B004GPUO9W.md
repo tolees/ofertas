@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B004GPUO9W
 description:
+actualPrice: 289 GBP
+comparePrice: 444.77 GBP
+inStock: true
 ---
 
 Tienes [Cisco SG200-26P Smart Switch 24 Gigabit Ethernet 10/100/1000 Ports 2 Combo Mini-GBIC Ports PoE](https://www.amazon.com/dp/B004GPUO9W/?tag=redken08-20) a precio de oferta de 289 GBP (original: 444.77 GBP) en el siguiente enlace!

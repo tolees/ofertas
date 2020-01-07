@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AUYE2W2
 description:
+actualPrice: 35.48 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Está [Vive Enoki Vibrador Purple](https://www.amazon.com/dp/B01AUYE2W2/?tag=redken08-20) por 35.48 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GJFM1QP
 description:
+actualPrice: 13.99 EUR
+comparePrice: 45.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Alexis Leroy Botas con Tacón para Mujer con Cremallera Lateral Marrón 4 UK/37 EU](https://www.amazon.com/dp/B07GJFM1QP/?tag=redken08-20) a 13.99 EUR (original: 45.99 EUR) en el siguiente enlace!

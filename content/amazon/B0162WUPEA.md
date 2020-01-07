@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0162WUPEA
 description:
+actualPrice: 49 EUR
+comparePrice: 89.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [XL-S Medical Max Strength - Bloqueador de la absorción de Carbohidratos  Azúcares y Grasas  Para Adelgazar  Reduce la ingesta de Calorías y Antojos - 120 Comprimidos  1 Mes de Tratamient](https://www.amazon.com/dp/B0162WUPEA/?tag=redken08-20) a 49 EUR (original: 89.9 EUR) en el siguiente enlace!

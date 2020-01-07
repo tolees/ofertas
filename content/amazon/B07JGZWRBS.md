@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JGZWRBS
 description:
+actualPrice: 59.99 EUR
+comparePrice: 158 EUR
+inStock: true
 ---
 
 Tienes [Tablet 10 Pulgadas  Tablet Android 5G WiFi de 10.1"  Computadora portátil con Pantalla táctil  Quad-Core  1.3GHz  6000mAh Batería  Bluetooth 4.0  5MP Cámara  Negro  10 Inch  Black ](https://www.amazon.com/dp/B07JGZWRBS/?tag=redken08-20) a precio de oferta de 59.99 EUR (original: 158 EUR) en el siguiente enlace!

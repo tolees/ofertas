@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MCSPJPQ
 description:
+actualPrice: 104.69 EUR
+comparePrice: 239 EUR
+inStock: true
 ---
 
 Está [Napapijri Rainforest Pocket Chaqueta  Azul  Clematis Blue VB1   XL para Hombre](https://www.amazon.com/dp/B07MCSPJPQ/?tag=redken08-20) por 104.69 EUR (original: 239 EUR) en el siguiente enlace!

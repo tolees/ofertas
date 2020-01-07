@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00R4KOXMU
 description:
+actualPrice: 10 EUR
+comparePrice: 21.6 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Izas Seefeld  Pantalón Térmico Para Hombre  Negro  XL](https://www.amazon.com/dp/B00R4KOXMU/?tag=redken08-20) a 10 EUR (original: 21.6 EUR) en el siguiente enlace!

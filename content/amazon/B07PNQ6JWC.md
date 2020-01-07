@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PNQ6JWC
 description:
+actualPrice: 10.59 EUR
+comparePrice: 15.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Maxesla WiFi Adaptador AC 600Mbps Mini USB WiFi Receptor Dual Band 2.4G/5GHz  WiFi Antena para PC Desktop Laptop Tablet  Soporta Mac OS X 10.6-10.14 / Ubuntu Linux/Windows XP/Vista /7/8/10](https://www.amazon.com/dp/B07PNQ6JWC/?tag=redken08-20) a 10.59 EUR (original: 15.99 EUR) en el siguiente enlace!

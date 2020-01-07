@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RSBDGBH
 description:
+actualPrice: 5.49 EUR
+comparePrice: 12.88 EUR
+inStock: true
 ---
 
 Está [Midi Maxi Vestido de Las Mujeres Cuello Redondo Vestido de Manga Media Estampado Floral  L-Rosado ](https://www.amazon.com/dp/B07RSBDGBH/?tag=redken08-20) por 5.49 EUR (original: 12.88 EUR) en el siguiente enlace!

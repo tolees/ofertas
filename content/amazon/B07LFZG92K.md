@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFZG92K
 description:
+actualPrice: 12.99 EUR
+comparePrice: 19.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Blanco  White/Black   2XL](https://www.amazon.com/dp/B07LFZG92K/?tag=redken08-20) a 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B017NQWKTW
 description:
+actualPrice: 3.99 GBP
+comparePrice: 6.87 GBP
+inStock: true
 ---
 
 Tienes [Funko Pop! Keychain: Harry Potter - Harry](https://www.amazon.com/dp/B017NQWKTW/?tag=redken08-20) a precio de oferta de 3.99 GBP (original: 6.87 GBP) en el siguiente enlace!

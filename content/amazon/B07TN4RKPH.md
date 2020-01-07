@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TN4RKPH
 description:
+actualPrice: 19.99 GBP
+comparePrice: 29.99 GBP
+inStock: true
 ---
 
 Tienes [Bluetooth V5.0 Headset Wireless Earpiece with Up to 18-22 Hours working time for IPhone & Android  Handsfree Bluetooth Earbuds with Advanced Noise Cancelling Technology for Business/Office/Driving](https://www.amazon.com/dp/B07TN4RKPH/?tag=redken08-20) a precio de oferta de 19.99 GBP (original: 29.99 GBP) en el siguiente enlace!

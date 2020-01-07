@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q6MPVB5
 description:
+actualPrice: 16.64 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [Simba 6315877627 Disney Frozen 2  Chunky Olaf  43cm](https://www.amazon.com/dp/B07Q6MPVB5/?tag=redken08-20) por 16.64 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PJ1CVBR
 description:
+actualPrice: 269 EUR
+comparePrice: 449 EUR
+inStock: true
 ---
 
 Tienes [LG SL6YF DTS Virtual:X  3.1 Soundbar  mit FM Radio  420W mit drahtlosem Subwoofer  schwarz](https://www.amazon.com/dp/B07PJ1CVBR/?tag=redken08-20) a precio de oferta de 269 EUR (original: 449 EUR) en el siguiente enlace!

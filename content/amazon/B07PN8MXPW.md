@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PN8MXPW
 description:
+actualPrice: 95.03 GBP
+comparePrice: 199.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Maxi-Cosi Tobi Car Seat  Nomad Black](https://www.amazon.com/dp/B07PN8MXPW/?tag=redken08-20) a 95.03 GBP (original: 199.99 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01DLVO3FC
 description:
+actualPrice: 30.7 EUR
+comparePrice: 59 EUR
+inStock: true
 ---
 
 Está [Geographical Norway Galvoda  Sudadera con Cierre Galvoda Para Hombre  Negro  Black   XX-Large](https://www.amazon.com/dp/B01DLVO3FC/?tag=redken08-20) por 30.7 EUR (original: 59 EUR) en el siguiente enlace!

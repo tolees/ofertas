@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JBZ3XP1
 description:
+actualPrice: 58.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [Columbia Powder Lite Jacket Chaqueta  Hombre  Amarillo  Burnished Amber/Shark   L](https://www.amazon.com/dp/B07JBZ3XP1/?tag=redken08-20) por 58.99 EUR (original: 99.99 EUR) en el siguiente enlace!

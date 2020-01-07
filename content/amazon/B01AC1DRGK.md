@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AC1DRGK
 description:
+actualPrice: 40.98 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LEGO Star Wars 75148 - Encounter on Jakku](https://www.amazon.com/dp/B01AC1DRGK/?tag=redken08-20) a 40.98 EUR (original: 69.99 EUR) en el siguiente enlace!

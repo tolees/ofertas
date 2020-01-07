@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RNP7SMH
 description:
+actualPrice: 9.99 GBP
+comparePrice: 19.99 GBP
+inStock: true
 ---
 
 Tienes [Polarduck Mini Tripod  Mobile Phone Tripod  Vlogging Tripod Compatible with iPhone/Compact DLSR/Samsung/Android/Webcam/Projector with Universal Phone Holder & GoPro Mount  360° Rotation  Black](https://www.amazon.com/dp/B07RNP7SMH/?tag=redken08-20) a precio de oferta de 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!

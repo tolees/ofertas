@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000C1VYSO
 description:
+actualPrice: 30 EUR
+comparePrice: 78 EUR
+inStock: true
 ---
 
 Está [Lacoste Touch of Pink  Agua de Tocador Vaporizador para Mujer  90 ml](https://www.amazon.com/dp/B000C1VYSO/?tag=redken08-20) por 30 EUR (original: 78 EUR) en el siguiente enlace!

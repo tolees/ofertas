@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LX4ZC9H
 description:
+actualPrice: 5 EUR
+comparePrice: 8.99 EUR
+inStock: true
 ---
 
 Está [Playmobil 9224 - Spengler und Geist](https://www.amazon.com/dp/B01LX4ZC9H/?tag=redken08-20) por 5 EUR (original: 8.99 EUR) en el siguiente enlace!

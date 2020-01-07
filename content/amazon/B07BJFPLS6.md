@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BJFPLS6
 description:
+actualPrice: 8.97 EUR
+comparePrice: 14.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lost Kitties- Pack de Gatitos  Hasbro E4665EU4 ](https://www.amazon.com/dp/B07BJFPLS6/?tag=redken08-20) a 8.97 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01ABZBXWM
 description:
+actualPrice: 59.99 EUR
+comparePrice: 220 EUR
+inStock: true
 ---
 
 Tienes [Wilson BLX Seven raqueta de tenis cubierta + + 3 pelotas](https://www.amazon.com/dp/B01ABZBXWM/?tag=redken08-20) a precio de oferta de 59.99 EUR (original: 220 EUR) en el siguiente enlace!

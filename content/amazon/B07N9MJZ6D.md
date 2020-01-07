@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N9MJZ6D
 description:
+actualPrice: 68.42 EUR
+comparePrice: 129 EUR
+inStock: true
 ---
 
 Tienes [Timex Reloj de Pulsera TW2T10600](https://www.amazon.com/dp/B07N9MJZ6D/?tag=redken08-20) a precio de oferta de 68.42 EUR (original: 129 EUR) en el siguiente enlace!

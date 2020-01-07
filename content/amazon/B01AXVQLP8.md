@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AXVQLP8
 description:
+actualPrice: 1.99 EUR
+comparePrice: 21.07 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Butter London Plush Rush Pintalabios](https://www.amazon.com/dp/B01AXVQLP8/?tag=redken08-20) a 1.99 EUR (original: 21.07 EUR) en el siguiente enlace!

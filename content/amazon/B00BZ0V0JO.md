@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00BZ0V0JO
 description:
+actualPrice: 18.77 EUR
+comparePrice: 32.91 EUR
+inStock: true
 ---
 
 Está [Green Lantern Logo Camiseta  Verde  M para Hombre](https://www.amazon.com/dp/B00BZ0V0JO/?tag=redken08-20) por 18.77 EUR (original: 32.91 EUR) en el siguiente enlace!

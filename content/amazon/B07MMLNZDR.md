@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MMLNZDR
 description:
+actualPrice: 44.5 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Napapijri DROZ Jersey  Azul  French Blue BB7   M para Hombre](https://www.amazon.com/dp/B07MMLNZDR/?tag=redken08-20) a 44.5 EUR (original: 89 EUR) en el siguiente enlace!

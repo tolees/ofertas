@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B010GTJKQY
 description:
+actualPrice: 22.15 EUR
+comparePrice: 34 EUR
+inStock: true
 ---
 
 Está [Timex TW5K94800 - Reloj de Pulsera para Hombres  Correa de plástico  Color Negro](https://www.amazon.com/dp/B010GTJKQY/?tag=redken08-20) por 22.15 EUR (original: 34 EUR) en el siguiente enlace!

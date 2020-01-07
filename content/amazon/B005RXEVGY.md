@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005RXEVGY
 description:
+actualPrice: 9.48 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Tienes [Eddie Bauer - Pantalones Mujer  Color Marfil  Talla 38/30  US: 8 ](https://www.amazon.com/dp/B005RXEVGY/?tag=redken08-20) a precio de oferta de 9.48 EUR (original: 69.95 EUR) en el siguiente enlace!

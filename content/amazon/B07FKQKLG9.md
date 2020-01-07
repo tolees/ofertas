@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FKQKLG9
 description:
+actualPrice: 5.99 EUR
+comparePrice: 9 EUR
+inStock: true
 ---
 
 Tienes [Joma Marsella Camisetas Equip. M/c  Hombre  Royal  L](https://www.amazon.com/dp/B07FKQKLG9/?tag=redken08-20) a precio de oferta de 5.99 EUR (original: 9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01G7DMXOE
 description:
+actualPrice: 65.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Tienes [Sorel Newbie  Botas para Mujer  Marrón  Elk/British Tan 287   38 EU](https://www.amazon.com/dp/B01G7DMXOE/?tag=redken08-20) a precio de oferta de 65.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072LX8HTL
 description:
+actualPrice: 59.99 EUR
+comparePrice: 126.99 EUR
+inStock: true
 ---
 
 Está [VTech Triciclo Inteligente Evolutivo 4 en 1 tek-Trike  Color Rosa  3480-196857 ](https://www.amazon.com/dp/B072LX8HTL/?tag=redken08-20) por 59.99 EUR (original: 126.99 EUR) en el siguiente enlace!

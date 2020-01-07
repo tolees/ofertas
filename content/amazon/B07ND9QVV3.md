@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ND9QVV3
 description:
+actualPrice: 26.1 GBP
+comparePrice: 39.99 GBP
+inStock: true
 ---
 
 Tienes [LEGO 41168 Disney Frozen II Elsa s Jewelry Box Creation

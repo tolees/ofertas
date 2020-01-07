@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D8HSJGR
 description:
+actualPrice: 10.78 EUR
+comparePrice: 22.99 EUR
+inStock: true
 ---
 
 Está [Aigostar - Bombilla LED B5 T3 3U  E27  9 W equivalente a 80 W  Luz blanca fría 6400K  810 lúmenes  no regulable - Caja de 5 unidades [Clase de eficiencia energética A+]](https://www.amazon.com/dp/B07D8HSJGR/?tag=redken08-20) por 10.78 EUR (original: 22.99 EUR) en el siguiente enlace!

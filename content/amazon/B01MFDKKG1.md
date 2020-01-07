@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MFDKKG1
 description:
+actualPrice: 59.49 EUR
+comparePrice: 92 EUR
+inStock: true
 ---
 
 Tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim S55   W33/L32](https://www.amazon.com/dp/B01MFDKKG1/?tag=redken08-20) a precio de oferta de 59.49 EUR (original: 92 EUR) en el siguiente enlace!

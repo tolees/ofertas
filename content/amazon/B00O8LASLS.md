@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00O8LASLS
 description:
+actualPrice: 156.89 EUR
+comparePrice: 249 EUR
+inStock: true
 ---
 
 Está [Onkyo CS-265 B  CD HiFi Minisystem  CD Player  MP3  Radio  2 x 20 W Ausgangsleistung  Zweiwege Lautsprecher  Bluetooth  NFC  Musik streamen  USB/Audio in   Schwarz](https://www.amazon.com/dp/B00O8LASLS/?tag=redken08-20) por 156.89 EUR (original: 249 EUR) en el siguiente enlace!

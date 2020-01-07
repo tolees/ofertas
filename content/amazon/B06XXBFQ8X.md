@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XXBFQ8X
 description:
+actualPrice: 55.5 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Tienes [New Balance WL574EB  Zapatillas Mujer  Gris  Grey   40.5 EU](https://www.amazon.com/dp/B06XXBFQ8X/?tag=redken08-20) a precio de oferta de 55.5 EUR (original: 90 EUR) en el siguiente enlace!

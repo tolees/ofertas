@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFNHWCS
 description:
+actualPrice: 14.99 EUR
+comparePrice: 23.99 EUR
+inStock: true
 ---
 
 Tienes [Levi s LS Baby tee Camiseta  Multicolor  Koronis Meteorite 0008   X-Large para Mujer](https://www.amazon.com/dp/B07LFNHWCS/?tag=redken08-20) a precio de oferta de 14.99 EUR (original: 23.99 EUR) en el siguiente enlace!

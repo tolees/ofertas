@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XYDZM4H
 description:
+actualPrice: 18.95 EUR
+comparePrice: 29.95 EUR
+inStock: true
 ---
 
 Tienes [Proze Sport Auriculares Inalámbricos Bluetooth con Micrófono 8H IPX7 In Ear con Gancho para la Oreja  Rojo ](https://www.amazon.com/dp/B07XYDZM4H/?tag=redken08-20) a precio de oferta de 18.95 EUR (original: 29.95 EUR) en el siguiente enlace!

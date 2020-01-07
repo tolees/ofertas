@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072KWRQST
 description:
+actualPrice: 12 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [RED WAGON Botines de Ante para Niños  Azul  Navy   25.5 EU](https://www.amazon.com/dp/B072KWRQST/?tag=redken08-20) por 12 EUR (original: 39.99 EUR) en el siguiente enlace!

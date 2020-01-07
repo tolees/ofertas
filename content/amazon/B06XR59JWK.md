@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XR59JWK
 description:
+actualPrice: 63.9 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [Bosch UniversalImpact 700 - Taladro Percutor  700 W  Empuñadura adicional  Tope de profundidad  Maletín ](https://www.amazon.com/dp/B06XR59JWK/?tag=redken08-20) por 63.9 EUR (original: 99.99 EUR) en el siguiente enlace!

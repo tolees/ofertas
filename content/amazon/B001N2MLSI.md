@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001N2MLSI
 description:
+actualPrice: 24.29 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Tienes [Helly Hansen HH LIFA Stripe Crew Ropa Interior  Hombre  Blanco  XS](https://www.amazon.com/dp/B001N2MLSI/?tag=redken08-20) a precio de oferta de 24.29 EUR (original: 40 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N19SWLL
 description:
+actualPrice: 30.68 EUR
+comparePrice: 65 EUR
+inStock: true
 ---
 
 Tienes [Lee Western Shirt Camisa  Warp Red  M para Hombre](https://www.amazon.com/dp/B07N19SWLL/?tag=redken08-20) a precio de oferta de 30.68 EUR (original: 65 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B002C1AZPA
 description:
+actualPrice: 19.95 EUR
+comparePrice: 34.92 EUR
+inStock: true
 ---
 
 Tienes [Shock Absorber Classic Sports - Sujetador Deportivo para Mujer  diseño clásico  Copas estructuradas  Costura Plana  Color Blanco  Blanc   Talla 85D](https://www.amazon.com/dp/B002C1AZPA/?tag=redken08-20) a precio de oferta de 19.95 EUR (original: 34.92 EUR) en el siguiente enlace!

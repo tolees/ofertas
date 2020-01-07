@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077QPSL2Q
 description:
+actualPrice: 19.62 EUR
+comparePrice: 49 EUR
+inStock: true
 ---
 
 Está [Superga 2750-cotbumpj  Zapatillas de Gimnasia Unisex Niños  Azul  Navy/Fwhite F43   31 EU](https://www.amazon.com/dp/B077QPSL2Q/?tag=redken08-20) por 19.62 EUR (original: 49 EUR) en el siguiente enlace!

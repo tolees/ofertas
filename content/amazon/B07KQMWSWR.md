@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQMWSWR
 description:
+actualPrice: 64.63 EUR
+comparePrice: 109.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Salomon Alphacross GTX  Zapatillas de Trail Running para Hombre  Rojo Syrah White Gum1A  45 1/3 EU](https://www.amazon.com/dp/B07KQMWSWR/?tag=redken08-20) a 64.63 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RJ5Y5MJ
 description:
+actualPrice: 77.97 EUR
+comparePrice: 129.95 EUR
+inStock: true
 ---
 
 Tienes [G-STAR RAW Revend Skinny Vaqueros  Antic Faded Ripped Ash A634-A988  31W / 38L para Hombre](https://www.amazon.com/dp/B07RJ5Y5MJ/?tag=redken08-20) a precio de oferta de 77.97 EUR (original: 129.95 EUR) en el siguiente enlace!

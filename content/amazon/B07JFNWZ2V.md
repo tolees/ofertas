@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JFNWZ2V
 description:
+actualPrice: 19.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Tienes [Lifewit 15L Bolsa Isotermica de Almuerzo Nevera Portatil para Alimentos Frutas Porta de Comida Con Forro Plástico Aislamiento Térmico Genial Para Playa Picnic Camping Barbacoa  Azul](https://www.amazon.com/dp/B07JFNWZ2V/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

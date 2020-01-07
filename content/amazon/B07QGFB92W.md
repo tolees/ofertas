@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QGFB92W
 description:
+actualPrice: 10.75 EUR
+comparePrice: 17.95 EUR
+inStock: true
 ---
 
 Tienes [PUMA One Strap Ball Balón de Fútbol  Adultos Unisex  Silver-Nrgy Red Black  4](https://www.amazon.com/dp/B07QGFB92W/?tag=redken08-20) a precio de oferta de 10.75 EUR (original: 17.95 EUR) en el siguiente enlace!

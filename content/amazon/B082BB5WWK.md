@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B082BB5WWK
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geographical Norway Chaqueta Softshell Hombre Tyreek Negro M](https://www.amazon.com/dp/B082BB5WWK/?tag=redken08-20) a 65 EUR (original: 99 EUR) en el siguiente enlace!

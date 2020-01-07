@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079R8SWDS
 description:
+actualPrice: 27.99 GBP
+comparePrice: 108.99 GBP
+inStock: true
 ---
 
 Tienes [Princess Belle Costume Beauty and The Beast Dresses Halloween Party Fancy Dress up Princess Dresses for Girl  Yellow  2-3years  Belle  2-3Years height cm ](https://www.amazon.com/dp/B079R8SWDS/?tag=redken08-20) a precio de oferta de 27.99 GBP (original: 108.99 GBP) en el siguiente enlace!

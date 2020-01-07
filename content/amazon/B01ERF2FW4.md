@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01ERF2FW4
 description:
+actualPrice: 8.99 EUR
+comparePrice: 15.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [The Body Source Pulseras Repelentes de Mosquitos  10 Piezas  No Contiene DEET y Libres de Sustancias Tóxicas o Nocivas  con Citronela e Impermeables  para Adultos y Niños](https://www.amazon.com/dp/B01ERF2FW4/?tag=redken08-20) a 8.99 EUR (original: 15.99 EUR) en el siguiente enlace!

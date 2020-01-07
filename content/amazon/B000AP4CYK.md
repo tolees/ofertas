@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000AP4CYK
 description:
+actualPrice: 20.3 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Tienes [Reebok Classic Nylon Zapatilla de Running Hombre  Grigio  Grau  Platinum/Jet Blue    38.5](https://www.amazon.com/dp/B000AP4CYK/?tag=redken08-20) a precio de oferta de 20.3 EUR (original: 69.95 EUR) en el siguiente enlace!

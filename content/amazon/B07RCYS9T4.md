@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RCYS9T4
 description:
+actualPrice: 7.95 GBP
+comparePrice: 13.95 GBP
+inStock: true
 ---
 
 Está [Q-Man Ingenious Toys / WWII military bomber plane & tractor with 2 minifigures New box set/ construction set #H2032-3](https://www.amazon.com/dp/B07RCYS9T4/?tag=redken08-20) por 7.95 GBP (original: 13.95 GBP) en el siguiente enlace!

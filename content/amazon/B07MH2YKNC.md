@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MH2YKNC
 description:
+actualPrice: 102.99 EUR
+comparePrice: 199.99 EUR
+inStock: true
 ---
 
 Está [Inventor Mini Nevera A+ con Compresor  66 litros de Capacidad  Color Plata  Silenciosa e ideal para hoteles  estudiantes  dormitorios y pequeños hogares](https://www.amazon.com/dp/B07MH2YKNC/?tag=redken08-20) por 102.99 EUR (original: 199.99 EUR) en el siguiente enlace!

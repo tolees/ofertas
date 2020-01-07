@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DLRYTYP
 description:
+actualPrice: 12.95 EUR
+comparePrice: 23.99 EUR
+inStock: true
 ---
 
 Tienes [QLEBAO Recambios Cepillo para Oral B  16 Cabezales para Oral B  4 3d Whitening  4 Precision-Clean  4 Actionfloss  4 ActionCross Cabezales de Cepillo de Dientes](https://www.amazon.com/dp/B07DLRYTYP/?tag=redken08-20) a precio de oferta de 12.95 EUR (original: 23.99 EUR) en el siguiente enlace!

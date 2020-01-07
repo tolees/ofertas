@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G4VWDNS
 description:
+actualPrice: 112.73 EUR
+comparePrice: 169.0 EUR
+inStock: true
 ---
 
 Está [Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1791532](https://www.amazon.com/dp/B07G4VWDNS/?tag=redken08-20) por 112.73 EUR (original: 169.0 EUR) en el siguiente enlace!

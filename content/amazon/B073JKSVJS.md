@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073JKSVJS
 description:
+actualPrice: 19 EUR
+comparePrice: 30.4 EUR
+inStock: true
 ---
 
 Está [find. D7832 vestido fiesta mujer  Negro  Schwarz   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B073JKSVJS/?tag=redken08-20) por 19 EUR (original: 30.4 EUR) en el siguiente enlace!

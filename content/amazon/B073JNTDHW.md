@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073JNTDHW
 description:
+actualPrice: 7.35 EUR
+comparePrice: 14 EUR
+inStock: true
 ---
 
 Está [find. Camiseta Manga Larga Hombre  Azul  Navy   54  Talla del fabricante: X-Large ](https://www.amazon.com/dp/B073JNTDHW/?tag=redken08-20) por 7.35 EUR (original: 14 EUR) en el siguiente enlace!

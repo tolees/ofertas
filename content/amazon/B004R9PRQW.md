@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B004R9PRQW
 description:
+actualPrice: 44.99 EUR
+comparePrice: 82.68 EUR
+inStock: true
 ---
 
 Está [WMF Quality One Olla Baja  Acero Inoxidable Pulido  20 cm](https://www.amazon.com/dp/B004R9PRQW/?tag=redken08-20) por 44.99 EUR (original: 82.68 EUR) en el siguiente enlace!

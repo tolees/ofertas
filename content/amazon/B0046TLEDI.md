@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0046TLEDI
 description:
+actualPrice: 153.43 EUR
+comparePrice: 279 EUR
+inStock: true
 ---
 
 Está [Bering Ceramic - Reloj analógico de caballero de cuarzo con correa de piel negra - sumergible a 30 metros](https://www.amazon.com/dp/B0046TLEDI/?tag=redken08-20) por 153.43 EUR (original: 279 EUR) en el siguiente enlace!

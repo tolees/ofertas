@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LC75GYQ
 description:
+actualPrice: 34.95 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Tienes [BOSS Prime Polo  Azul  Light/Pastel Blue 454   X-Large para Hombre](https://www.amazon.com/dp/B07LC75GYQ/?tag=redken08-20) a precio de oferta de 34.95 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077Y3GCXQ
 description:
+actualPrice: 9.89 EUR
+comparePrice: 28.01 EUR
+inStock: true
 ---
 
 Está [HIKARO Sudadera con Cuello Alto Mujer  Azul  Aqua   36  Talla del fabricante: X-Small ](https://www.amazon.com/dp/B077Y3GCXQ/?tag=redken08-20) por 9.89 EUR (original: 28.01 EUR) en el siguiente enlace!

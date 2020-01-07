@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQRBS5P
 description:
+actualPrice: 36.09 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Salomon Alphacross  Zapatillas de Trail Running para Hombre  Blanco  White/White/White   40 2/3 EU](https://www.amazon.com/dp/B07KQRBS5P/?tag=redken08-20) a 36.09 EUR (original: 89.95 EUR) en el siguiente enlace!

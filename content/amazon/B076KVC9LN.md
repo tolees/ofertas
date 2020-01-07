@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076KVC9LN
 description:
+actualPrice: 32.49 EUR
+comparePrice: 80 EUR
+inStock: true
 ---
 
 Tienes [VAUDE Silk Road L  I de Rack  Cilindro de Bolsillos  Black  One Size](https://www.amazon.com/dp/B076KVC9LN/?tag=redken08-20) a precio de oferta de 32.49 EUR (original: 80 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072JYNKH5
 description:
+actualPrice: 7.2 EUR
+comparePrice: 18.9 EUR
+inStock: true
 ---
 
 Tienes [find. Camisa con Bolsillos Estilo Utilitario para Hombre  Marfil  Stone   Large](https://www.amazon.com/dp/B072JYNKH5/?tag=redken08-20) a precio de oferta de 7.2 EUR (original: 18.9 EUR) en el siguiente enlace!

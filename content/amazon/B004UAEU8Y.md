@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B004UAEU8Y
 description:
+actualPrice: 9.99 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [Spalding Mid Cut Calcetines  3 Pares  Sin género  Negro  36-40](https://www.amazon.com/dp/B004UAEU8Y/?tag=redken08-20) por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

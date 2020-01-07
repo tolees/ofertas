@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NOWA7AE
 description:
+actualPrice: 12.9 EUR
+comparePrice: 29.84 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bausch & Lomb -  Soflens Color - Lentes De Contacto de Color  con y sin graduación - 2 unidades](https://www.amazon.com/dp/B00NOWA7AE/?tag=redken08-20) a 12.9 EUR (original: 29.84 EUR) en el siguiente enlace!

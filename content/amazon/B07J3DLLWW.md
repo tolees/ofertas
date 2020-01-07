@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J3DLLWW
 description:
+actualPrice: 23.97 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Tienes [Under Armour  UNDKU Tech Camisa Polo  Hombre  Verde  SM](https://www.amazon.com/dp/B07J3DLLWW/?tag=redken08-20) a precio de oferta de 23.97 EUR (original: 40 EUR) en el siguiente enlace!

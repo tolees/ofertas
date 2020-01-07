@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JYN8QGH
 description:
+actualPrice: 59.95 EUR
+comparePrice: 99.9 EUR
+inStock: true
 ---
 
 Está [Tommy Hilfiger Technical Details Flexi Sneaker  Zapatillas para Hombre  Negro  Black 990   43 EU](https://www.amazon.com/dp/B07JYN8QGH/?tag=redken08-20) por 59.95 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B010GTJGO0
 description:
+actualPrice: 57.74 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Está [Timex Grid Shock - Reloj digital con correa de resina para hombre  color negro/LCD](https://www.amazon.com/dp/B010GTJGO0/?tag=redken08-20) por 57.74 EUR (original: 99 EUR) en el siguiente enlace!

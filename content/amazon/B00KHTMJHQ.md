@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00KHTMJHQ
 description:
+actualPrice: 14.49 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Tienes [Under Armour UA HG Armour SS Camiseta  Hombre  Azul  Royal/Steel 400   L](https://www.amazon.com/dp/B00KHTMJHQ/?tag=redken08-20) a precio de oferta de 14.49 EUR (original: 30 EUR) en el siguiente enlace!

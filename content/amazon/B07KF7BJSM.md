@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KF7BJSM
 description:
+actualPrice: 27.94 EUR
+comparePrice: 74.49 EUR
+inStock: true
 ---
 
 Está [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Thresher Warp Cool 0981   W30/L34](https://www.amazon.com/dp/B07KF7BJSM/?tag=redken08-20) por 27.94 EUR (original: 74.49 EUR) en el siguiente enlace!

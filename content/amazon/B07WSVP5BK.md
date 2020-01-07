@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WSVP5BK
 description:
+actualPrice: 23.99 EUR
+comparePrice: 129.99 EUR
+inStock: true
 ---
 
 Está [Bluetooth Kopfhörer  Iporachx Bluetooth Kopfhörer in Ear  3D Stereo Sound IPX7 Wasserdicht Kopfhörer Kabellos Sport Bluetooth 5.0 mit Mini Ladekästchen und Mikrofon  LED-Anzeige und Touch Control](https://www.amazon.com/dp/B07WSVP5BK/?tag=redken08-20) por 23.99 EUR (original: 129.99 EUR) en el siguiente enlace!

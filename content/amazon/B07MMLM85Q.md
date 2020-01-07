@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MMLM85Q
 description:
+actualPrice: 48.09 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Está [Napapijri Berber WOM H Sudadera  Negro  Black 041   XL para Mujer](https://www.amazon.com/dp/B07MMLM85Q/?tag=redken08-20) por 48.09 EUR (original: 99 EUR) en el siguiente enlace!

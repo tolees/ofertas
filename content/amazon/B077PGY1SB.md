@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077PGY1SB
 description:
+actualPrice: 144 EUR
+comparePrice: 220 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [NOX Pala ML10 Pro Cup Survivor](https://www.amazon.com/dp/B077PGY1SB/?tag=redken08-20) a 144 EUR (original: 220 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01EQSCL3A
 description:
+actualPrice: 15.98 EUR
+comparePrice: 29.98 EUR
+inStock: true
 ---
 
 Está [TOUCHBeauty TB-1583 40 °C Caliente Masajeador de Ojo con Vibración de Alta Frecuencia Anti-Aging Arrugas Bolsa de Ojos Círculos Oscuros Removedor Sonic Dispositivo de Masaje de Vibración](https://www.amazon.com/dp/B01EQSCL3A/?tag=redken08-20) por 15.98 EUR (original: 29.98 EUR) en el siguiente enlace!

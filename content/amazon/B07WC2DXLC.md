@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WC2DXLC
 description:
+actualPrice: 36.46 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Está [Cudy MF4 4G Travel Wi-Fi Hotspot  Mobiler WLAN Router  4G/LTE bis zu 150Mbit/s Download  2000mAh Akku  Qualcomm Inside  freigeschaltet für alle World-Netzwerke](https://www.amazon.com/dp/B07WC2DXLC/?tag=redken08-20) por 36.46 EUR (original: 99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075GPLQKH
 description:
+actualPrice: 8.69 GBP
+comparePrice: 14.99 GBP
+inStock: true
 ---
 
 Tienes [LEGO 60180 City Great Vehicles Monster Truck Toy with Driver and Stunt Show Accessories  Car Sets for Kids](https://www.amazon.com/dp/B075GPLQKH/?tag=redken08-20) a precio de oferta de 8.69 GBP (original: 14.99 GBP) en el siguiente enlace!

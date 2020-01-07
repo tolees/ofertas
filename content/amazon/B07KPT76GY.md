@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPT76GY
 description:
+actualPrice: 8.75 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Tienes [Funko- Pop Vinilo: Castlevania: Vlad Dracula Tepes Figura Coleccionable  Multicolor  38550 ](https://www.amazon.com/dp/B07KPT76GY/?tag=redken08-20) a precio de oferta de 8.75 EUR (original: 15.95 EUR) en el siguiente enlace!

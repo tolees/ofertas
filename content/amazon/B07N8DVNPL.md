@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N8DVNPL
 description:
+actualPrice: 115.91 EUR
+comparePrice: 190 EUR
+inStock: true
 ---
 
 Está [Orient Reloj Analógico para Hombre de Automático con Correa en Acero Inoxidable FAB0B001D9](https://www.amazon.com/dp/B07N8DVNPL/?tag=redken08-20) por 115.91 EUR (original: 190 EUR) en el siguiente enlace!

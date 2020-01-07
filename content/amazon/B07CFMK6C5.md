@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CFMK6C5
 description:
+actualPrice: 24.95 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Spyro Reignited Trilogy](https://www.amazon.com/dp/B07CFMK6C5/?tag=redken08-20) a 24.95 EUR (original: 39.99 EUR) en el siguiente enlace!

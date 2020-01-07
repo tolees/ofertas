@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B6V9HQD
 description:
+actualPrice: 51.1 EUR
+comparePrice: 160 EUR
+inStock: true
 ---
 
 Tienes [Salewa WS WILD HIKER MID GTX  Damen Trekking- & Wanderstiefel  Blau  French Blue/black 340   36 EU  3.5 UK ](https://www.amazon.com/dp/B07B6V9HQD/?tag=redken08-20) a precio de oferta de 51.1 EUR (original: 160 EUR) en el siguiente enlace!

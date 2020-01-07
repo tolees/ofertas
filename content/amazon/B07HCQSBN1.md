@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HCQSBN1
 description:
+actualPrice: 11.99 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Está [Teclado Gaming Rii RM400 Combo Rainbow Retroiluminación  Teclado y Ratón con Cable ratón gaming  12 eclas multimedia y 19 teclas anti fantasma para Windows/Vista /Linux/Mac   Teclado Español Negro ](https://www.amazon.com/dp/B07HCQSBN1/?tag=redken08-20) por 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CSC0FRU
 description:
+actualPrice: 29.98 EUR
+comparePrice: 118.98 EUR
+inStock: true
 ---
 
 Tienes [LEABAGS Illinois Monedero de auténtico Cuero Ternero en el Estilo Vintage - Rojo](https://www.amazon.com/dp/B01CSC0FRU/?tag=redken08-20) a precio de oferta de 29.98 EUR (original: 118.98 EUR) en el siguiente enlace!

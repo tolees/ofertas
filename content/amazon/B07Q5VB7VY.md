@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q5VB7VY
 description:
+actualPrice: 27.0 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Tom Clancy s Rainbow Six Siege - Gold Edition Year 4](https://www.amazon.com/dp/B07Q5VB7VY/?tag=redken08-20) por 27.0 EUR (original: 59.99 EUR) en el siguiente enlace!

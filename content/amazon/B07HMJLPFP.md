@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HMJLPFP
 description:
+actualPrice: 19.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Tienes [Easton Marlowe 6 PR Calcetines Estampados Hombre Argyle - 6pk #2-9  argyle - negro  43-46 EU shoe size](https://www.amazon.com/dp/B07HMJLPFP/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

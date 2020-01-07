@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00RVGCJHS
 description:
+actualPrice: 16.54 EUR
+comparePrice: 36.99 EUR
+inStock: true
 ---
 
 Tienes [TenGO RT3067BT - Mando de juegos Bluetooth](https://www.amazon.com/dp/B00RVGCJHS/?tag=redken08-20) a precio de oferta de 16.54 EUR (original: 36.99 EUR) en el siguiente enlace!

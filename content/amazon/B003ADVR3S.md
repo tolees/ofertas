@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B003ADVR3S
 description:
+actualPrice: 79.87 EUR
+comparePrice: 119.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [KidKraft- Casa de muñecas de madera con muebles y accesorios incluidos  3 pisos  para muñecas de 30 cm   Color Rosa  65054  ](https://www.amazon.com/dp/B003ADVR3S/?tag=redken08-20) a 79.87 EUR (original: 119.99 EUR) en el siguiente enlace!

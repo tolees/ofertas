@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SG24CDG
 description:
+actualPrice: 39.99 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Excelvan Teclado Mecánico Español Conexión USB con Indicador de Modo LED 108 Teclas para Juegos Teclados Tecla N Rollover Teclados Gamer con Reposamuñecas Extraíble Retroiluminada](https://www.amazon.com/dp/B07SG24CDG/?tag=redken08-20) a 39.99 EUR (original: 99 EUR) en el siguiente enlace!

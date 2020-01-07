@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M8PSFHN
 description:
+actualPrice: 178.53 EUR
+comparePrice: 278.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Invicta 28145 Aviator  Reloj para Hombre acero inoxidable Cuarzo Esfera gris](https://www.amazon.com/dp/B07M8PSFHN/?tag=redken08-20) a 178.53 EUR (original: 278.9 EUR) en el siguiente enlace!

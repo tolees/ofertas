@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07V1HF6CS
 description:
+actualPrice: 29.99 EUR
+comparePrice: 68.88 EUR
+inStock: true
 ---
 
 Está [Mujer Cuñas Zapatos 35-43 EU De Lona High-Top Zapatos Casuales Talla Grande Zapatillas de Cuña para Mujer Zapatillas de Deporte Zapatillas Altas Primavera/Verano Tacón Cuña](https://www.amazon.com/dp/B07V1HF6CS/?tag=redken08-20) por 29.99 EUR (original: 68.88 EUR) en el siguiente enlace!

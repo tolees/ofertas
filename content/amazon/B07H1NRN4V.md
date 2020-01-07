@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H1NRN4V
 description:
+actualPrice: 25.99 EUR
+comparePrice: 60.12 EUR
+inStock: true
 ---
 
 Tienes [Vmosgo 903 903XL Remanufacturado Reemplazo para HP 903 903XL Cartuchos de Tinta  Compatiable con HP OfficeJet 6950  HP OfficeJet Pro 6970  HP OfficeJet Pro 6960  Negro  Cian  Magenta  Amarillo ](https://www.amazon.com/dp/B07H1NRN4V/?tag=redken08-20) a precio de oferta de 25.99 EUR (original: 60.12 EUR) en el siguiente enlace!

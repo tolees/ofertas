@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VJTBS25
 description:
+actualPrice: 5.9 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Está [Maybelline New York Pintalabios Mate Larga Duración Superstay Matte Ink  Tono 155 Savant Color Rosa](https://www.amazon.com/dp/B07VJTBS25/?tag=redken08-20) por 5.9 EUR (original: 9.99 EUR) en el siguiente enlace!

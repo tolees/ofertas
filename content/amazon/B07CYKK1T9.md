@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CYKK1T9
 description:
+actualPrice: 12.99 EUR
+comparePrice: 23.18 EUR
+inStock: true
 ---
 
 Tienes [NOBES Tableta de Escritura LCD 8.5 Inch  LCD Tablero de Dibujo Gráfica Pizarra Magica de Mensaje Memo Pad Electrónico con Lápiz Regalos para Niños Clase Oficina Casa Cocina  8.5 Inch  Azul ](https://www.amazon.com/dp/B07CYKK1T9/?tag=redken08-20) a precio de oferta de 12.99 EUR (original: 23.18 EUR) en el siguiente enlace!

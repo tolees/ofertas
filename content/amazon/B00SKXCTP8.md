@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00SKXCTP8
 description:
+actualPrice: 8.71 EUR
+comparePrice: 13.1 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Urban Classics Contrast Pocket tee Camiseta   blk/Aztec   XL para Hombre](https://www.amazon.com/dp/B00SKXCTP8/?tag=redken08-20) a 8.71 EUR (original: 13.1 EUR) en el siguiente enlace!

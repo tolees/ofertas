@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071ZZMRFT
 description:
+actualPrice: 16.79 EUR
+comparePrice: 62.45 EUR
+inStock: true
 ---
 
 Tienes [Reloj Daisy Dixon - Mujer DD050ES](https://www.amazon.com/dp/B071ZZMRFT/?tag=redken08-20) a precio de oferta de 16.79 EUR (original: 62.45 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KWTZZBC
 description:
+actualPrice: 11.52 EUR
+comparePrice: 20.99 EUR
+inStock: true
 ---
 
 Tienes [RAVPOWER Bateria Externa para Movil  Powerbank Bateria Externa 10000mAh 5V / 3.4A Cargador Portátil 2 Puertos USB 2.0 iSmart Compacto y Ligero para los Smartphone  Tabletas  Blanco ](https://www.amazon.com/dp/B07KWTZZBC/?tag=redken08-20) a precio de oferta de 11.52 EUR (original: 20.99 EUR) en el siguiente enlace!

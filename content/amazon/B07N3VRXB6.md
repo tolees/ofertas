@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N3VRXB6
 description:
+actualPrice: 49.98 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Está [Desigual Dress Marian Vestido  Blanco  Crudo 1001   46  Talla del Fabricante: 44  para Mujer](https://www.amazon.com/dp/B07N3VRXB6/?tag=redken08-20) por 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

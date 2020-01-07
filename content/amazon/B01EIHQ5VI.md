@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01EIHQ5VI
 description:
+actualPrice: 14.61 EUR
+comparePrice: 26.12 EUR
+inStock: true
 ---
 
 Está [nick&jess - Negro Camisa Casual - Básico - Cuello Mao - Manga Larga - para Hombre](https://www.amazon.com/dp/B01EIHQ5VI/?tag=redken08-20) por 14.61 EUR (original: 26.12 EUR) en el siguiente enlace!

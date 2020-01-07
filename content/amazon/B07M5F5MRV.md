@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M5F5MRV
 description:
+actualPrice: 29.83 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Está [Wrangler LS Western Shirt Camisa  Rojo  Red X47   Small para Hombre](https://www.amazon.com/dp/B07M5F5MRV/?tag=redken08-20) por 29.83 EUR (original: 59.95 EUR) en el siguiente enlace!

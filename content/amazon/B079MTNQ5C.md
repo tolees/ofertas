@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079MTNQ5C
 description:
+actualPrice: 5.99 EUR
+comparePrice: 11.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Schmidt Spiele 49340 Ganz Schön Clever  Würfelspiel aus der Serie Klein & Fein  bunt](https://www.amazon.com/dp/B079MTNQ5C/?tag=redken08-20) a 5.99 EUR (original: 11.99 EUR) en el siguiente enlace!

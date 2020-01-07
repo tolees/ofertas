@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RCXXWYB
 description:
+actualPrice: 25.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Juego de coctelera Coctelera de 750 ml Juego de herramientas de barra de acero inoxidable Juego de Bartender con soporte de exhibición de madera por AYAOQIANG](https://www.amazon.com/dp/B07RCXXWYB/?tag=redken08-20) a 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!

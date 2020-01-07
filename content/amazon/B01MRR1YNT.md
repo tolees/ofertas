@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MRR1YNT
 description:
+actualPrice: 11.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [AmazonBasics - Paños de algodón  30 5 x 30 5 cm   pack de 24 - Gris](https://www.amazon.com/dp/B01MRR1YNT/?tag=redken08-20) a 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

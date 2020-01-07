@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JQWL19S
 description:
+actualPrice: 29.1 EUR
+comparePrice: 95.49 EUR
+inStock: true
 ---
 
 Tienes [adidas Athletics 24/7 TR M  Zapatillas de Gimnasia Unisex Adulto  Gris Six/Raw White/Grey Three F17  44 2/3 EU](https://www.amazon.com/dp/B07JQWL19S/?tag=redken08-20) a precio de oferta de 29.1 EUR (original: 95.49 EUR) en el siguiente enlace!

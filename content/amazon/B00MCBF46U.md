@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00MCBF46U
 description:
+actualPrice: 119 EUR
+comparePrice: 239 EUR
+inStock: true
 ---
 
 Está [Seiko Reloj de Pulsera SNE361P1](https://www.amazon.com/dp/B00MCBF46U/?tag=redken08-20) por 119 EUR (original: 239 EUR) en el siguiente enlace!

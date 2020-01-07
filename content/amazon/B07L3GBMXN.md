@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L3GBMXN
 description:
+actualPrice: 37.52 EUR
+comparePrice: 144.9 EUR
+inStock: true
 ---
 
 Está [Tommy Hilfiger Flexible Dressy Suede Loafer  Mocasines para Hombre  Azul  Midnight 403   42 EU](https://www.amazon.com/dp/B07L3GBMXN/?tag=redken08-20) por 37.52 EUR (original: 144.9 EUR) en el siguiente enlace!

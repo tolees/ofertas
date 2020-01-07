@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KGRRTZ9
 description:
+actualPrice: 99 EUR
+comparePrice: 198 EUR
+inStock: true
 ---
 
 Está [Safety 1st CALIDOO  Warm Gray  - Moisés  colecho  color gris - Cuna de viaje](https://www.amazon.com/dp/B07KGRRTZ9/?tag=redken08-20) por 99 EUR (original: 198 EUR) en el siguiente enlace!

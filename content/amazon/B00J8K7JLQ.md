@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00J8K7JLQ
 description:
+actualPrice: 5.57 EUR
+comparePrice: 9.63 EUR
+inStock: true
 ---
 
 Tienes [Bourjois Velvet Barra de Labios Líquida Tono 06 Pink pong - 28 gr.](https://www.amazon.com/dp/B00J8K7JLQ/?tag=redken08-20) a precio de oferta de 5.57 EUR (original: 9.63 EUR) en el siguiente enlace!

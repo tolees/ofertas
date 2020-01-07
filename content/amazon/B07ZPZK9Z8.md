@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ZPZK9Z8
 description:
+actualPrice: 21.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [Masajeador Electrónico 10 Modos Vibración Masajeador de Espalda y Hombros](https://www.amazon.com/dp/B07ZPZK9Z8/?tag=redken08-20) por 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!

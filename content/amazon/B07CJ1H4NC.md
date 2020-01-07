@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CJ1H4NC
 description:
+actualPrice: 8.51 EUR
+comparePrice: 14.95 EUR
+inStock: true
 ---
 
 Está [Levi s Housemark Graphic tee Camiseta  Blanco  Hm Ssnl Film 3 White 0118   Small para Hombre](https://www.amazon.com/dp/B07CJ1H4NC/?tag=redken08-20) por 8.51 EUR (original: 14.95 EUR) en el siguiente enlace!

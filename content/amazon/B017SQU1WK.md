@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B017SQU1WK
 description:
+actualPrice: 79.99 EUR
+comparePrice: 149.95 EUR
+inStock: true
 ---
 
 Está [Salomon Speedcross 4 GTX W  Zapatillas de Trail Running para Mujer  Negro  Black/Black/Metallic Bubble Blue   38 EU](https://www.amazon.com/dp/B017SQU1WK/?tag=redken08-20) por 79.99 EUR (original: 149.95 EUR) en el siguiente enlace!

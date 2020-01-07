@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06WVPG5K4
 description:
+actualPrice: 39.99 EUR
+comparePrice: 64.99 EUR
+inStock: true
 ---
 
 Tienes [PLAYMOBIL Family Fun 9280 Skihütte  Ab 4 Jahren](https://www.amazon.com/dp/B06WVPG5K4/?tag=redken08-20) a precio de oferta de 39.99 EUR (original: 64.99 EUR) en el siguiente enlace!

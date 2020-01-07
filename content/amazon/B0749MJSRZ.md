@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0749MJSRZ
 description:
+actualPrice: 23.03 EUR
+comparePrice: 59 EUR
+inStock: true
 ---
 
 Está [Star Wars- Resistance Ski Speeder  Hasbro European Trading B.V C1251EU4 ](https://www.amazon.com/dp/B0749MJSRZ/?tag=redken08-20) por 23.03 EUR (original: 59 EUR) en el siguiente enlace!

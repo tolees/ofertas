@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00WJ1PPPI
 description:
+actualPrice: 11.99 GBP
+comparePrice: 19.99 GBP
+inStock: true
 ---
 
 Tienes [LeapFrog Learning Library Frozen](https://www.amazon.com/dp/B00WJ1PPPI/?tag=redken08-20) a precio de oferta de 11.99 GBP (original: 19.99 GBP) en el siguiente enlace!

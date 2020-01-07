@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L8YCH4M
 description:
+actualPrice: 144.55 EUR
+comparePrice: 245 EUR
+inStock: true
 ---
 
 Tienes [Adidas Adipower Light 1.9 Palas  Mujer  Rosa  360](https://www.amazon.com/dp/B07L8YCH4M/?tag=redken08-20) a precio de oferta de 144.55 EUR (original: 245 EUR) en el siguiente enlace!

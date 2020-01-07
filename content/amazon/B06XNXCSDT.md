@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XNXCSDT
 description:
+actualPrice: 9.06 EUR
+comparePrice: 13.99 EUR
+inStock: true
 ---
 
 Tienes [Funko Pop! TV: Game of Thrones - Das Lied von Eis und Feuer - Jon Snow König des Nordens Vinyl Figur](https://www.amazon.com/dp/B06XNXCSDT/?tag=redken08-20) a precio de oferta de 9.06 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M9QKTTR
 description:
+actualPrice: 47.29 EUR
+comparePrice: 159.95 EUR
+inStock: true
 ---
 
 Tienes [G-STAR RAW Xpo Overshirt Chaqueta  Negro  Sartho Blue 6067   Medium para Hombre](https://www.amazon.com/dp/B07M9QKTTR/?tag=redken08-20) a precio de oferta de 47.29 EUR (original: 159.95 EUR) en el siguiente enlace!

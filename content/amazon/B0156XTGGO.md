@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0156XTGGO
 description:
+actualPrice: 89.9 EUR
+comparePrice: 161.99 EUR
+inStock: true
 ---
 
 Está [Dremel 4000 - Multiherramienta  175 W  kit con eje flexible  65 accesorios y 4 complementos  velocidad variable 5.000 - 35.000 rpm para tallar  grabar  fresar  amolar  limpiar  pulir  cortar y lijar](https://www.amazon.com/dp/B0156XTGGO/?tag=redken08-20) por 89.9 EUR (original: 161.99 EUR) en el siguiente enlace!

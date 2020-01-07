@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0117DMNTE
 description:
+actualPrice: 52.52 EUR
+comparePrice: 79 EUR
+inStock: true
 ---
 
 Tienes [Citizen Reloj Analógico para Hombre de Cuarzo con Correa en Cuero EQ0601-03EE](https://www.amazon.com/dp/B0117DMNTE/?tag=redken08-20) a precio de oferta de 52.52 EUR (original: 79 EUR) en el siguiente enlace!

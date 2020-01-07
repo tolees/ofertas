@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D9FK7LB
 description:
+actualPrice: 49.38 EUR
+comparePrice: 79.2 EUR
+inStock: true
 ---
 
 Tienes [Levi s 501 Original Fit Vaqueros  Sponge St  32W / 30L para Hombre](https://www.amazon.com/dp/B07D9FK7LB/?tag=redken08-20) a precio de oferta de 49.38 EUR (original: 79.2 EUR) en el siguiente enlace!

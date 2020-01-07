@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KWNX9R7
 description:
+actualPrice: 26.99 GBP
+comparePrice: 69.99 GBP
+inStock: true
 ---
 
 Tienes [BRIKSMAX Technic Porsche 911 GT3 RS Led Lighting Kit- Compatible with Lego 42056 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07KWNX9R7/?tag=redken08-20) a precio de oferta de 26.99 GBP (original: 69.99 GBP) en el siguiente enlace!

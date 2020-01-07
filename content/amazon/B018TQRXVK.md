@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B018TQRXVK
 description:
+actualPrice: 14.12 EUR
+comparePrice: 24.95 EUR
+inStock: true
 ---
 
 Está [PUMA Leadcat  Chanclas Unisex Adulto  Peacoat-White  38 EU](https://www.amazon.com/dp/B018TQRXVK/?tag=redken08-20) por 14.12 EUR (original: 24.95 EUR) en el siguiente enlace!

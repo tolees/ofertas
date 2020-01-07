@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071CMPHXB
 description:
+actualPrice: 49.99 EUR
+comparePrice: 79.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Happers Puff Pelota Polipiel Indoor Turquesa](https://www.amazon.com/dp/B071CMPHXB/?tag=redken08-20) a 49.99 EUR (original: 79.9 EUR) en el siguiente enlace!

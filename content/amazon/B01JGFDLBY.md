@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01JGFDLBY
 description:
+actualPrice: 6.14 EUR
+comparePrice: 9.95 EUR
+inStock: true
 ---
 
 Tienes [Bourjois Volume Reveal Máscara de pestañas Tono 22 Ultra Black  7.5 ml](https://www.amazon.com/dp/B01JGFDLBY/?tag=redken08-20) a precio de oferta de 6.14 EUR (original: 9.95 EUR) en el siguiente enlace!

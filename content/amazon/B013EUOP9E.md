@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B013EUOP9E
 description:
+actualPrice: 43.95 EUR
+comparePrice: 79.01 EUR
+inStock: true
 ---
 
 Tienes [Toms Linen Rope Sole Alpargata ESP  Gris  Grey 0   43 para Hombre](https://www.amazon.com/dp/B013EUOP9E/?tag=redken08-20) a precio de oferta de 43.95 EUR (original: 79.01 EUR) en el siguiente enlace!

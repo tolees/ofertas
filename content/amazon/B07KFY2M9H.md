@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KFY2M9H
 description:
+actualPrice: 36.46 EUR
+comparePrice: 119.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PUMA Source Mid Buzzer  Zapatillas Altas Unisex Adulto  Black-Nrgy Red-Blue Turquoise  45 EU](https://www.amazon.com/dp/B07KFY2M9H/?tag=redken08-20) a 36.46 EUR (original: 119.95 EUR) en el siguiente enlace!

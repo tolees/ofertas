@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LG1HMR6
 description:
+actualPrice: 37.12 EUR
+comparePrice: 59.9 EUR
+inStock: true
 ---
 
 Tienes [Geox J Alonisso Boy N  Zapatillas Altas para Niños  Azul  Navy/Grey C0661   36 EU](https://www.amazon.com/dp/B07LG1HMR6/?tag=redken08-20) a precio de oferta de 37.12 EUR (original: 59.9 EUR) en el siguiente enlace!

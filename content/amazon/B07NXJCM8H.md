@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NXJCM8H
 description:
+actualPrice: 19.9 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [Unravel 2](https://www.amazon.com/dp/B07NXJCM8H/?tag=redken08-20) por 19.9 EUR (original: 29.99 EUR) en el siguiente enlace!

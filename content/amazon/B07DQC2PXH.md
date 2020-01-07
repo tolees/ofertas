@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DQC2PXH
 description:
+actualPrice: 25.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [TACKLIFE Lijadora Orbital  Lijadora Eléctrica 300W  10PCS Papeles de Lija  230x115MM Base de Lijado  6 Velocidades Variables de 6000-12000RPM  Caja de Recolección de Polvo Eficiente PSS02A](https://www.amazon.com/dp/B07DQC2PXH/?tag=redken08-20) a 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!

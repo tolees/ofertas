@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077NM6HBV
 description:
+actualPrice: 18.17 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Está [DKNY Intimates Sheers Convertible Sujetador sin Tirantes  Blanco  White Bj   85B  Talla del Fabricante: 32B  para Mujer](https://www.amazon.com/dp/B077NM6HBV/?tag=redken08-20) por 18.17 EUR (original: 49.95 EUR) en el siguiente enlace!

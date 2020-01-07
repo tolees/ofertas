@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RWBTTZV
 description:
+actualPrice: 20.99 EUR
+comparePrice: 42.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Hasbro Disney Frozen Arendelle Elsa E6844ES0](https://www.amazon.com/dp/B07RWBTTZV/?tag=redken08-20) a 20.99 EUR (original: 42.99 EUR) en el siguiente enlace!

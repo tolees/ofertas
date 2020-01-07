@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0140IEGIE
 description:
+actualPrice: 31.75 EUR
+comparePrice: 47.5 EUR
+inStock: true
 ---
 
 Tienes [Oral-B PRO 750 CrossAction Pack Regalo  Cepillo de dientes eléctrico recargable](https://www.amazon.com/dp/B0140IEGIE/?tag=redken08-20) a precio de oferta de 31.75 EUR (original: 47.5 EUR) en el siguiente enlace!

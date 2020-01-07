@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JYV99CW
 description:
+actualPrice: 21.95 EUR
+comparePrice: 39.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Christa C-nk tee SS Camiseta  Gris  Light Grey Htr 039   Medium para Mujer](https://www.amazon.com/dp/B07JYV99CW/?tag=redken08-20) a 21.95 EUR (original: 39.9 EUR) en el siguiente enlace!

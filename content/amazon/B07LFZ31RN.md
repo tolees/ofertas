@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFZ31RN
 description:
+actualPrice: 63.4 EUR
+comparePrice: 115 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geox U Timothy B  Zapatos de Cordones Derby para Hombre  Negro  Black C9999   41 EU](https://www.amazon.com/dp/B07LFZ31RN/?tag=redken08-20) a 63.4 EUR (original: 115 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M4QCFBE
 description:
+actualPrice: 89.88 EUR
+comparePrice: 149 EUR
+inStock: true
 ---
 
 Tienes [Festina Reloj Análogo clásico para Hombre de Cuarzo con Correa en Acero Inoxidable F20252/3](https://www.amazon.com/dp/B01M4QCFBE/?tag=redken08-20) a precio de oferta de 89.88 EUR (original: 149 EUR) en el siguiente enlace!

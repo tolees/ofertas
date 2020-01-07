@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RCGKQS2
 description:
+actualPrice: 33.43 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Está [Columbia Pouring Adventure II Chaqueta para Lluvia  Hombre  Azul  Collegiate Navy  Azure Blue   Talla: M](https://www.amazon.com/dp/B07RCGKQS2/?tag=redken08-20) por 33.43 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G35JCPN
 description:
+actualPrice: 11.99 EUR
+comparePrice: 19.95 EUR
+inStock: true
 ---
 
 Tienes [Match L.O.L. Surprise](https://www.amazon.com/dp/B07G35JCPN/?tag=redken08-20) a precio de oferta de 11.99 EUR (original: 19.95 EUR) en el siguiente enlace!

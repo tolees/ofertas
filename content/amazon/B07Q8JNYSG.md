@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q8JNYSG
 description:
+actualPrice: 31.95 EUR
+comparePrice: 58.99 EUR
+inStock: true
 ---
 
 Está [Anoopsyche Hub USB Tipo C 10 en 1  Aluminio Adaptador USB C Hub con HDMI 4K  1080P VGA  PD 100W  4 USB 3.0/2.0  Lector Tarjetas SD/TF  RJ45  para MacBook  Chromebox Pixel  Más Dispositivos de Tipo C](https://www.amazon.com/dp/B07Q8JNYSG/?tag=redken08-20) por 31.95 EUR (original: 58.99 EUR) en el siguiente enlace!

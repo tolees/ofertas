@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MXTOCJ9
 description:
+actualPrice: 36.99 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Tienes [Finether Carretilla Plegable Carro de Transporte con 2 Ruedas y 2 Cuerda Elástica 1 5M  Carrito de Mano Portátil Multifuncional  70kg de Capacidad  Negro](https://www.amazon.com/dp/B01MXTOCJ9/?tag=redken08-20) a precio de oferta de 36.99 EUR (original: 79.99 EUR) en el siguiente enlace!

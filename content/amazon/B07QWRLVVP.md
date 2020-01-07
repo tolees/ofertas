@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QWRLVVP
 description:
+actualPrice: 16.98 EUR
+comparePrice: 109.98 EUR
+inStock: true
 ---
 
 Tienes [Amilril Perla Collar Colgante Mujer  Plata de Ley 925 Brillante Circonita Regalos Originales con Hermosa Caja Regalo  Navidad Joyas Regalos](https://www.amazon.com/dp/B07QWRLVVP/?tag=redken08-20) a precio de oferta de 16.98 EUR (original: 109.98 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RL6RG5P
 description:
+actualPrice: 62.99 EUR
+comparePrice: 139.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [FREDI Cámara IP Exterior Cámara de Vigilancia con IR Vision Nocturna  IP65 Impermeable Seguridad Inalámbrica Cámara HD 1080P /Audio Bidireccional/Detección de Movimiento](https://www.amazon.com/dp/B07RL6RG5P/?tag=redken08-20) a 62.99 EUR (original: 139.99 EUR) en el siguiente enlace!

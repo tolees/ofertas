@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073RNTT4W
 description:
+actualPrice: 7.6 EUR
+comparePrice: 18.13 EUR
+inStock: true
 ---
 
 Está [STAR WARS HQ2017 Pijama de una Pieza  Rojo  Red   8 años  Tamaño del Fabricante:8Y  para Niños](https://www.amazon.com/dp/B073RNTT4W/?tag=redken08-20) por 7.6 EUR (original: 18.13 EUR) en el siguiente enlace!

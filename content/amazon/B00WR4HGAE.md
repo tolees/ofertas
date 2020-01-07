@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00WR4HGAE
 description:
+actualPrice: 8.95 EUR
+comparePrice: 14.27 EUR
+inStock: true
 ---
 
 Tienes [L Oréal Paris 24H Mate  Base Maquillaje Matificante Larga Duración  Tono de Piel Medio 24 Beige Doré - 35 ml](https://www.amazon.com/dp/B00WR4HGAE/?tag=redken08-20) a precio de oferta de 8.95 EUR (original: 14.27 EUR) en el siguiente enlace!

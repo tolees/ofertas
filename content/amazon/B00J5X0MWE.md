@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00J5X0MWE
 description:
+actualPrice: 14.49 EUR
+comparePrice: 21.66 EUR
+inStock: true
 ---
 
 Está [uhlsport Match Chaqueta De Entrenamiento Hombre  Rojo/Blanco  XXXL](https://www.amazon.com/dp/B00J5X0MWE/?tag=redken08-20) por 14.49 EUR (original: 21.66 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JZHXZKP
 description:
+actualPrice: 40.19 EUR
+comparePrice: 139 EUR
+inStock: true
 ---
 
 Está [Tommy Hilfiger Recycled Short Puffer Chaqueta  Azul  Black Iris 002   98  Talla del Fabricante: 3  para Niñas](https://www.amazon.com/dp/B07JZHXZKP/?tag=redken08-20) por 40.19 EUR (original: 139 EUR) en el siguiente enlace!

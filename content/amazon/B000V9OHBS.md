@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000V9OHBS
 description:
+actualPrice: 129.89 EUR
+comparePrice: 210 EUR
+inStock: true
 ---
 
 Tienes [Timberland 6 Inch Premium Waterproof  Botas para Mujer  Marrón  Rust Nubuck   38 EU](https://www.amazon.com/dp/B000V9OHBS/?tag=redken08-20) a precio de oferta de 129.89 EUR (original: 210 EUR) en el siguiente enlace!

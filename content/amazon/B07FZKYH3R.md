@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FZKYH3R
 description:
+actualPrice: 23.49 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Tienes [adidas Tiro19 PES Jkt Sport Jacket  Hombre  Black/White  M](https://www.amazon.com/dp/B07FZKYH3R/?tag=redken08-20) a precio de oferta de 23.49 EUR (original: 39.99 EUR) en el siguiente enlace!

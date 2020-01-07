@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001VEIXIK
 description:
+actualPrice: 18 GBP
+comparePrice: 32.99 GBP
+inStock: true
 ---
 
 Tienes [Drumond Park The LOGO Board Game - The Family Board Game of Brands and Products You Know and Love | a Family Christmas Gift For Adults And Kids Suitable From 12+ Years](https://www.amazon.com/dp/B001VEIXIK/?tag=redken08-20) a precio de oferta de 18 GBP (original: 32.99 GBP) en el siguiente enlace!

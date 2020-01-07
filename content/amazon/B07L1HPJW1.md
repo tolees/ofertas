@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L1HPJW1
 description:
+actualPrice: 9.92 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Tienes [Scotch & Soda Allover Printed Polo Camisa   Combo A 17   X-Large para Hombre](https://www.amazon.com/dp/B07L1HPJW1/?tag=redken08-20) a precio de oferta de 9.92 EUR (original: 49.95 EUR) en el siguiente enlace!

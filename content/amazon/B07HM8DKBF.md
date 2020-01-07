@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HM8DKBF
 description:
+actualPrice: 39.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Torre Sonido PRIMUX TW02 Bass](https://www.amazon.com/dp/B07HM8DKBF/?tag=redken08-20) por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

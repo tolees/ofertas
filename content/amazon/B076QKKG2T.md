@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076QKKG2T
 description:
+actualPrice: 29.9 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Razer Electra V2 - Auriculares analógicos para juegos y música  compatible con PC  PS4  Xbox One  Switch y dispositivos móviles](https://www.amazon.com/dp/B076QKKG2T/?tag=redken08-20) por 29.9 EUR (original: 59.99 EUR) en el siguiente enlace!

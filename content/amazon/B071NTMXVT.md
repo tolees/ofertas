@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071NTMXVT
 description:
+actualPrice: 15.79 EUR
+comparePrice: 49.98 EUR
+inStock: true
 ---
 
 Tienes [TOUCHBeauty Sonic Facial Massage Device  Ionic Infusion Facial Vibration Deep Cleansing SPA Beauty Instrument AG-1681](https://www.amazon.com/dp/B071NTMXVT/?tag=redken08-20) a precio de oferta de 15.79 EUR (original: 49.98 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TFWBQ5Y
 description:
+actualPrice: 16.99 EUR
+comparePrice: 30.99 EUR
+inStock: true
 ---
 
 Tienes [Yooka-Laylee and the Impossible Lair](https://www.amazon.com/dp/B07TFWBQ5Y/?tag=redken08-20) a precio de oferta de 16.99 EUR (original: 30.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CCNX9TB
 description:
+actualPrice: 12.86 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Juguete con Coche de Bomberos Mini Coches de Fricción Vehículos para niños  Pack de 5](https://www.amazon.com/dp/B07CCNX9TB/?tag=redken08-20) a 12.86 EUR (original: 29.99 EUR) en el siguiente enlace!

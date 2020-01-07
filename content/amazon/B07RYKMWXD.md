@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RYKMWXD
 description:
+actualPrice: 595.48 EUR
+comparePrice: 999.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [MYCOOK Touch Black Edition Editrobot de Cocina Inteligente Multifunción  1600 W  2 litros  Plástico|Acero Inoxidable  10 Velocidades  Negro/Plata](https://www.amazon.com/dp/B07RYKMWXD/?tag=redken08-20) a 595.48 EUR (original: 999.99 EUR) en el siguiente enlace!

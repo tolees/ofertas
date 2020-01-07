@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01DWIY39A
 description:
+actualPrice: 232.39 EUR
+comparePrice: 349.99 EUR
+inStock: true
 ---
 
 Está [Garmin 735XT Forerunner Reloj multisport con GPS  Unisex adulto  Negro  Black/Grey   M](https://www.amazon.com/dp/B01DWIY39A/?tag=redken08-20) por 232.39 EUR (original: 349.99 EUR) en el siguiente enlace!

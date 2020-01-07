@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MKR8ZZ6
 description:
+actualPrice: 39.51 EUR
+comparePrice: 120 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lacoste Sport Sf7917 Sudadera premamá  Negro  Noir 031   46 para Mujer](https://www.amazon.com/dp/B07MKR8ZZ6/?tag=redken08-20) a 39.51 EUR (original: 120 EUR) en el siguiente enlace!

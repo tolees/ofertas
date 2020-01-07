@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MN9B5PN
 description:
+actualPrice: 30.62 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [edc by Esprit 029CC1F014 Blusa  Verde  Dusty Green 335   S para Mujer](https://www.amazon.com/dp/B07MN9B5PN/?tag=redken08-20) a 30.62 EUR (original: 49.99 EUR) en el siguiente enlace!

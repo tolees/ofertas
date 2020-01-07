@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NIVEQ6M
 description:
+actualPrice: 3.95 EUR
+comparePrice: 10 EUR
+inStock: true
 ---
 
 Está [Mustard M 16028 - Soporte magnético para clips con diseño de Einstein](https://www.amazon.com/dp/B00NIVEQ6M/?tag=redken08-20) por 3.95 EUR (original: 10 EUR) en el siguiente enlace!

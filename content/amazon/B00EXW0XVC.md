@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00EXW0XVC
 description:
+actualPrice: 41.69 EUR
+comparePrice: 80.75 EUR
+inStock: true
 ---
 
 Está [Calvin Klein Euphoria Perfume con vaporizador - 50 ml](https://www.amazon.com/dp/B00EXW0XVC/?tag=redken08-20) por 41.69 EUR (original: 80.75 EUR) en el siguiente enlace!

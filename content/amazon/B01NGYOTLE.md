@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NGYOTLE
 description:
+actualPrice: 21.15 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Reebok Royal Complete CLN  Zapatillas de Tenis para Hombre  Blanco  White/White/Gum 0   45.5 EU](https://www.amazon.com/dp/B01NGYOTLE/?tag=redken08-20) a 21.15 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00CBU0IV8
 description:
+actualPrice: 6.59 EUR
+comparePrice: 12.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Panasonic RP-HJE125E-K Auriculares Boton con Cable In-Ear  Headphone Sonido Estéreo para Móvil  MP3/MP4  Diseño de Ajuste Cómodo  Imán Neodimio 9mm  Presión de sonido de 97 dB  Color Negro](https://www.amazon.com/dp/B00CBU0IV8/?tag=redken08-20) a 6.59 EUR (original: 12.99 EUR) en el siguiente enlace!

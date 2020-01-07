@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077XTCQL2
 description:
+actualPrice: 18.41 EUR
+comparePrice: 55.0 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Heatgear Armour Leggings  Mujer  Negro  Black/White/Metallic Silver 003   XS](https://www.amazon.com/dp/B077XTCQL2/?tag=redken08-20) a 18.41 EUR (original: 55.0 EUR) en el siguiente enlace!

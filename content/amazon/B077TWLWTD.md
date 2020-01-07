@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077TWLWTD
 description:
+actualPrice: 18 EUR
+comparePrice: 48 EUR
+inStock: true
 ---
 
 Tienes [find. Zapatos de Serraje con Cordones Hombre  Beige  Sand   43 EU](https://www.amazon.com/dp/B077TWLWTD/?tag=redken08-20) a precio de oferta de 18 EUR (original: 48 EUR) en el siguiente enlace!

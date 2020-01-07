@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MSUY4Q8
 description:
+actualPrice: 59.95 EUR
+comparePrice: 150 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Helly Hansen W Pier 2 Pant  Mujer  Ebony  XL](https://www.amazon.com/dp/B01MSUY4Q8/?tag=redken08-20) a 59.95 EUR (original: 150 EUR) en el siguiente enlace!

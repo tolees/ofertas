@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GXD16GN
 description:
+actualPrice: 24.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Tienes [DH-QN05 Calefactor Portátil Eléctrico PTC Calefacción de Cerámica 950W/650W/5W 90°Oscilación Calentador con 3 Ajustes de Temperatura Protección contra Sobrecalentamiento Seguridad para Hogar&Oficina](https://www.amazon.com/dp/B07GXD16GN/?tag=redken08-20) a precio de oferta de 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!

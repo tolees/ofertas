@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NBU5UED
 description:
+actualPrice: 9 EUR
+comparePrice: 15 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Camisa de Cuadros de Manga Larga para Hombre  Azul  Indigo Check   Medium](https://www.amazon.com/dp/B01NBU5UED/?tag=redken08-20) a 9 EUR (original: 15 EUR) en el siguiente enlace!

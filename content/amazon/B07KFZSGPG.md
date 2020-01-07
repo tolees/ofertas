@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KFZSGPG
 description:
+actualPrice: 17.91 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PUMA Drift Cat 5 AC  Zapatillas Unisex Adulto  Black Black  36 EU](https://www.amazon.com/dp/B07KFZSGPG/?tag=redken08-20) a 17.91 EUR (original: 64.95 EUR) en el siguiente enlace!

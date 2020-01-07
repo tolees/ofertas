@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KFZ7WY7
 description:
+actualPrice: 31.72 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Tienes [Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Azul  Rhubarb White   38 EU](https://www.amazon.com/dp/B07KFZ7WY7/?tag=redken08-20) a precio de oferta de 31.72 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JZ5V5LG
 description:
+actualPrice: 54.9 EUR
+comparePrice: 111.35 EUR
+inStock: true
 ---
 
 Tienes [Cecotec Microondas ProClean 3030. Capacidad de 20l  Revestimiento Ready2Clean  700 W de Potencia  6 Niveles Funcionamiento  Temporizador 30 min  Modo Descongelar  Acabado Negro](https://www.amazon.com/dp/B07JZ5V5LG/?tag=redken08-20) a precio de oferta de 54.9 EUR (original: 111.35 EUR) en el siguiente enlace!

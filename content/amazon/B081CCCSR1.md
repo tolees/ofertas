@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CCCSR1
 description:
+actualPrice: 59 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geographical Norway Chaqueta DE NIÑO BOKER Negro 12](https://www.amazon.com/dp/B081CCCSR1/?tag=redken08-20) a 59 EUR (original: 89 EUR) en el siguiente enlace!

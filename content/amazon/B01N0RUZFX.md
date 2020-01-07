@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N0RUZFX
 description:
+actualPrice: 6.35 EUR
+comparePrice: 9.5 EUR
+inStock: true
 ---
 
 Está [Bourjois Healthy Mix Concealer Corrector Tono 51 Light - 7.8 ml](https://www.amazon.com/dp/B01N0RUZFX/?tag=redken08-20) por 6.35 EUR (original: 9.5 EUR) en el siguiente enlace!

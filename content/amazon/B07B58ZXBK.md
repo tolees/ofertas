@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B58ZXBK
 description:
+actualPrice: 39.99 EUR
+comparePrice: 69.9 EUR
+inStock: true
 ---
 
 Está [Beurer IPO61 BT Pulsioxímetro de dedo con Bluetooth  medidor de saturación de oxigeno en la sangre y el pulso  6 vistas  app Health Manager  color blanco y plata  78 gramos](https://www.amazon.com/dp/B07B58ZXBK/?tag=redken08-20) por 39.99 EUR (original: 69.9 EUR) en el siguiente enlace!

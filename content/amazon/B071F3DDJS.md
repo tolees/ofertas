@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071F3DDJS
 description:
+actualPrice: 22.37 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [Collar Mujer  J.Rosée "Tú Eres Mi Única Razón" Plata de Ley 925 Circonita Collar Corazón Cadena 45cm-50cm Regalos Originales Regalos de graduación](https://www.amazon.com/dp/B071F3DDJS/?tag=redken08-20) por 22.37 EUR (original: 99.99 EUR) en el siguiente enlace!

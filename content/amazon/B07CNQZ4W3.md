@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CNQZ4W3
 description:
+actualPrice: 549.01 EUR
+comparePrice: 899 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sony KD55XF7004BAEP - Smart TV de 55" 4K Ultra HD con Soporte de ángulo  Negro Mate](https://www.amazon.com/dp/B07CNQZ4W3/?tag=redken08-20) a 549.01 EUR (original: 899 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RD8CG3W
 description:
+actualPrice: 69.99 EUR
+comparePrice: 109 EUR
+inStock: true
 ---
 
 Está [Satechi Adaptador Multimedia Dual Tipo-C con HDMI 4k Dual  USB-C PD  Gigabit Ethernet  Lector de Tarjetas MicroSD  USB 3.0 - Compatible con 2019/18 MacBook Pro  2018 MacBook Air  2018 Mac Mini  Plata ](https://www.amazon.com/dp/B07RD8CG3W/?tag=redken08-20) por 69.99 EUR (original: 109 EUR) en el siguiente enlace!

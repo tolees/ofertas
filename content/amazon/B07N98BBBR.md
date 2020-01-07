@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N98BBBR
 description:
+actualPrice: 29.44 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Tienes [BOSS Prime Polo  Azul  Bright Blue 434   Small para Hombre](https://www.amazon.com/dp/B07N98BBBR/?tag=redken08-20) a precio de oferta de 29.44 EUR (original: 69.95 EUR) en el siguiente enlace!

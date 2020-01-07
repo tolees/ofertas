@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07P7J9BVN
 description:
+actualPrice: 13.99 GBP
+comparePrice: 29.99 GBP
+inStock: true
 ---
 
 Tienes [Portable Charger 10000mAh With Bright Flashlight Thine Power Banks Quick Charge Phones  Black_10000mAh_ ](https://www.amazon.com/dp/B07P7J9BVN/?tag=redken08-20) a precio de oferta de 13.99 GBP (original: 29.99 GBP) en el siguiente enlace!

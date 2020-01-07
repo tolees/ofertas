@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00H3LYDSO
 description:
+actualPrice: 13.4 EUR
+comparePrice: 25.88 EUR
+inStock: true
 ---
 
 Tienes [Casals C01235000 Atornillador a batería de litio  3.6 W  3.6 V](https://www.amazon.com/dp/B00H3LYDSO/?tag=redken08-20) a precio de oferta de 13.4 EUR (original: 25.88 EUR) en el siguiente enlace!

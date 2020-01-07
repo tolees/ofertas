@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XYNDZLD
 description:
+actualPrice: 33.41 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Trust GXT 188 Laban - Ratón Gaming ergonómico y Profesional  Color Negro](https://www.amazon.com/dp/B06XYNDZLD/?tag=redken08-20) a 33.41 EUR (original: 79.99 EUR) en el siguiente enlace!

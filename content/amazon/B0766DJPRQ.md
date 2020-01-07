@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0766DJPRQ
 description:
+actualPrice: 10.67 GBP
+comparePrice: 19.99 GBP
+inStock: true
 ---
 
 Tienes [Playmobil 9427 City Life Wedding Carriage with Tin Can Trail](https://www.amazon.com/dp/B0766DJPRQ/?tag=redken08-20) a precio de oferta de 10.67 GBP (original: 19.99 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074H2FHQP
 description:
+actualPrice: 12 EUR
+comparePrice: 19.2 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Camisa con Volantes para Mujer  Azul  Navy   48  Talla del Fabricante: XXX-Large ](https://www.amazon.com/dp/B074H2FHQP/?tag=redken08-20) a 12 EUR (original: 19.2 EUR) en el siguiente enlace!

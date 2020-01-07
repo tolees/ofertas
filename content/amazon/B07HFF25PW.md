@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HFF25PW
 description:
+actualPrice: 30.35 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Esprit 118ee1e014 Vestido  Negro  Black 001   X-Small para Mujer](https://www.amazon.com/dp/B07HFF25PW/?tag=redken08-20) a 30.35 EUR (original: 59.99 EUR) en el siguiente enlace!

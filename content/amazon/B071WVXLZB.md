@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071WVXLZB
 description:
+actualPrice: 134.99 EUR
+comparePrice: 299.99 EUR
+inStock: true
 ---
 
 Está [Braun Series 5 5197 Clean&Charge - Afeitadora eléctrica hombre  afeitadora barba  en húmedo y seco  máquina de afeitar barba con recortadora de precisión  negro](https://www.amazon.com/dp/B071WVXLZB/?tag=redken08-20) por 134.99 EUR (original: 299.99 EUR) en el siguiente enlace!

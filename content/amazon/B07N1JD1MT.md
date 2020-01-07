@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1JD1MT
 description:
+actualPrice: 30.91 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Un Maui Lace  Zapatillas para Mujer  Azul  Navy Leather Navy Leather   39 EU](https://www.amazon.com/dp/B07N1JD1MT/?tag=redken08-20) a 30.91 EUR (original: 99.95 EUR) en el siguiente enlace!

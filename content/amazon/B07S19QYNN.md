@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07S19QYNN
 description:
+actualPrice: 29.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Tienes [edc by Esprit 089cc1e028 Vestido  Azul  Navy 2 401   Small para Mujer](https://www.amazon.com/dp/B07S19QYNN/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

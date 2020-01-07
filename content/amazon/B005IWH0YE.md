@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005IWH0YE
 description:
+actualPrice: 25.6 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [Motorola MBP 8 - Vigilabebés audio "plug-n-go" con modo eco y luz nocturna  color blanco](https://www.amazon.com/dp/B005IWH0YE/?tag=redken08-20) por 25.6 EUR (original: 39.99 EUR) en el siguiente enlace!

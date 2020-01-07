@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001NYH2IA
 description:
+actualPrice: 45.18 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Está [Reebok Classic Leather Zapatillas  Mujer  Negro  Int / Black   37 EU](https://www.amazon.com/dp/B001NYH2IA/?tag=redken08-20) por 45.18 EUR (original: 89.95 EUR) en el siguiente enlace!

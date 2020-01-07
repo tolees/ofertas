@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KYZ8JSD
 description:
+actualPrice: 4.45 EUR
+comparePrice: 15.99 EUR
+inStock: true
 ---
 
 Tienes [Springfield 4.Pc.Ap.Nautica.Texto Cor  Camiseta para Mujer   Blanco 99   Small  Tamaño del Fabricante:S ](https://www.amazon.com/dp/B07KYZ8JSD/?tag=redken08-20) a precio de oferta de 4.45 EUR (original: 15.99 EUR) en el siguiente enlace!

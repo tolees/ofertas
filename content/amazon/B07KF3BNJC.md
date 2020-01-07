@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KF3BNJC
 description:
+actualPrice: 14.99 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Está [Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  501 T2 White 0548   L](https://www.amazon.com/dp/B07KF3BNJC/?tag=redken08-20) por 14.99 EUR (original: 25 EUR) en el siguiente enlace!

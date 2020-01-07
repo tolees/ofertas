@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F2KGKF6
 description:
+actualPrice: 29.91 EUR
+comparePrice: 181 EUR
+inStock: true
 ---
 
 Tienes [Calvin Klein Sonnenbrille Ck2156S 60 Gafas de sol  Gris  Gr   54.0 para Hombre](https://www.amazon.com/dp/B07F2KGKF6/?tag=redken08-20) a precio de oferta de 29.91 EUR (original: 181 EUR) en el siguiente enlace!

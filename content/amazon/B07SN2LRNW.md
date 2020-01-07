@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SN2LRNW
 description:
+actualPrice: 19.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Excelvan Teclado de Juego Español Teclado para Juegos 87 Teclas con Interruptores Retroiluminados por LED](https://www.amazon.com/dp/B07SN2LRNW/?tag=redken08-20) por 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0766DJPQV
 description:
+actualPrice: 39 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Tienes [PLAYMOBIL Knights 9340 Mobile Zwergenfestung  Ab 5 Jahren](https://www.amazon.com/dp/B0766DJPQV/?tag=redken08-20) a precio de oferta de 39 EUR (original: 69.99 EUR) en el siguiente enlace!

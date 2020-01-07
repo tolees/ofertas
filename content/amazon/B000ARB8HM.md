@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000ARB8HM
 description:
+actualPrice: 35.49 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Skechers Sport-Energy  Zapatillas para Mujer  Black Smooth Leather #Yellow BBK  35.5 EU](https://www.amazon.com/dp/B000ARB8HM/?tag=redken08-20) a 35.49 EUR (original: 69.95 EUR) en el siguiente enlace!

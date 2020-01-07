@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VTPBRSL
 description:
+actualPrice: 94.99 EUR
+comparePrice: 189.98 EUR
+inStock: true
 ---
 
 Está [GODNECE Vitrine Acryl  Staubschutzhaube Acryl Schaukasten Vitrine Kompatibel Mit 42096 Technic Porsche 911 RSR Bausteine  Modell Nicht Enthalten ](https://www.amazon.com/dp/B07VTPBRSL/?tag=redken08-20) por 94.99 EUR (original: 189.98 EUR) en el siguiente enlace!

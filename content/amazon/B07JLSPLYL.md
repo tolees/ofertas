@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JLSPLYL
 description:
+actualPrice: 49.49 EUR
+comparePrice: 74.69 EUR
+inStock: true
 ---
 
 Está [Memoria USB Universal de 128 GB  Pen Drive Tipo C Micro USB Unidad de Almacenamiento Externo U Disk para iPhone/iPad/iPod/Mac/iOS/Android teléfono móvil y Ordenador Rosa](https://www.amazon.com/dp/B07JLSPLYL/?tag=redken08-20) por 49.49 EUR (original: 74.69 EUR) en el siguiente enlace!

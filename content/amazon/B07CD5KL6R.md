@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CD5KL6R
 description:
+actualPrice: 461.09 EUR
+comparePrice: 699.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [MEDION S3409 - MD 60999 - Ordenador portátil de 13.3" Full HD  Intel Core i3-7100U  RAM de 8GB  SSD de 256GB  Intel HD Graphics  Windows 10   plata. Teclado QWERTY español](https://www.amazon.com/dp/B07CD5KL6R/?tag=redken08-20) a 461.09 EUR (original: 699.99 EUR) en el siguiente enlace!

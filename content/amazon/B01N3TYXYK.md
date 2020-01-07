@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N3TYXYK
 description:
+actualPrice: 14.9 EUR
+comparePrice: 24.9 EUR
+inStock: true
 ---
 
 Está [Pastillas para la limpieza de cafeteras automáticas - 260x tabletas limpiadoras compatible con marcas  Delonghi  Dolce Gusto  Nespresso  Seaco  Krups  Senseo  Bosch](https://www.amazon.com/dp/B01N3TYXYK/?tag=redken08-20) por 14.9 EUR (original: 24.9 EUR) en el siguiente enlace!

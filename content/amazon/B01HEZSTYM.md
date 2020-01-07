@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HEZSTYM
 description:
+actualPrice: 89 EUR
+comparePrice: 179 EUR
+inStock: true
 ---
 
 Tienes [Hugo Boss 1513369 - Reloj analogico para hombre con mecanismo de cuarzo  de acero inoxidable con correa de piel   negro](https://www.amazon.com/dp/B01HEZSTYM/?tag=redken08-20) a precio de oferta de 89 EUR (original: 179 EUR) en el siguiente enlace!

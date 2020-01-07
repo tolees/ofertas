@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KJWW7LB
 description:
+actualPrice: 15.49 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Tienes [Under Armour UA Waist Bag - Riñonera  Unisex Adulto  Gris  Graphite Medium Heather/Black/White 040   Talla Única](https://www.amazon.com/dp/B07KJWW7LB/?tag=redken08-20) a precio de oferta de 15.49 EUR (original: 30 EUR) en el siguiente enlace!

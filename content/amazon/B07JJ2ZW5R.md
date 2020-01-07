@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JJ2ZW5R
 description:
+actualPrice: 10.37 EUR
+comparePrice: 17 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [V2000 Auriculares 7.1 Canales 3.5mm Jack Bass Estéreo con Efecto de Sonido para Juegos de Auriculares con micrófono para computadora PC Laptop Gamer](https://www.amazon.com/dp/B07JJ2ZW5R/?tag=redken08-20) a 10.37 EUR (original: 17 EUR) en el siguiente enlace!

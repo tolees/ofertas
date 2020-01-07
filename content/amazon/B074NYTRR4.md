@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074NYTRR4
 description:
+actualPrice: 49.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Tienes [Krups Nescafé Dolce Gusto Lumio KP1308 Kapsel Kaffeemaschine  schwarz  1 0 l](https://www.amazon.com/dp/B074NYTRR4/?tag=redken08-20) a precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

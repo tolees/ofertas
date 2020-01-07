@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FTWKJT8
 description:
+actualPrice: 50.21 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Tienes [Lee Brooklyn Straight Vaqueros para Hombre  Azul  Rinse Dp   42W / 34L](https://www.amazon.com/dp/B07FTWKJT8/?tag=redken08-20) a precio de oferta de 50.21 EUR (original: 89.95 EUR) en el siguiente enlace!

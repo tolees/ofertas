@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BP6GPV0
 description:
+actualPrice: 19.99 EUR
+comparePrice: 74.99 EUR
+inStock: true
 ---
 
 Tienes [Hasbro B5573EU4 - N-Strike Elite Hyper-Fire halbautomatischer Spielzeugblaster  mit Trommelmagazin](https://www.amazon.com/dp/B01BP6GPV0/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 74.99 EUR) en el siguiente enlace!

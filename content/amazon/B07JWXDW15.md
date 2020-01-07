@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JWXDW15
 description:
+actualPrice: 60 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Tienes [Columbia Ivo Trail  Zapatillas para Hombre  Azul  Collegiate Navy 464   44 EU](https://www.amazon.com/dp/B07JWXDW15/?tag=redken08-20) a precio de oferta de 60 EUR (original: 99.99 EUR) en el siguiente enlace!

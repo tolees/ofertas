@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HOFQG0Q
 description:
+actualPrice: 59.94 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [La casa de los bebés de Baby Nurse con 13 accesorios  Smoby 220318 ](https://www.amazon.com/dp/B01HOFQG0Q/?tag=redken08-20) a 59.94 EUR (original: 99.99 EUR) en el siguiente enlace!

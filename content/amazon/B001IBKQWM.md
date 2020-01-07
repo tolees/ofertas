@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001IBKQWM
 description:
+actualPrice: 16.15 EUR
+comparePrice: 44.77 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bosch Professional - Juego de 7 brocas multiuso Robust Line CYL-9 MultiConstruction  4 5 6 6 8 10 12 mm ](https://www.amazon.com/dp/B001IBKQWM/?tag=redken08-20) a 16.15 EUR (original: 44.77 EUR) en el siguiente enlace!

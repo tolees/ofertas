@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00QPNVC0I
 description:
+actualPrice: 7.36 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Real Techniques  Esponja para maquillaje facial - 2 unidades](https://www.amazon.com/dp/B00QPNVC0I/?tag=redken08-20) a 7.36 EUR (original: 14.99 EUR) en el siguiente enlace!

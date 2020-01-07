@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001BXS0ZM
 description:
+actualPrice: 35.69 EUR
+comparePrice: 64 EUR
+inStock: true
 ---
 
 Tienes [Timex T5K1959J - Reloj digital con correa de resina para hombre  color gris/negro](https://www.amazon.com/dp/B001BXS0ZM/?tag=redken08-20) a precio de oferta de 35.69 EUR (original: 64 EUR) en el siguiente enlace!

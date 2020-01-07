@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000QGC6XW
 description:
+actualPrice: 30.9 EUR
+comparePrice: 46.98 EUR
+inStock: true
 ---
 
 Está [Dremel Versatip 2000 - Pirograbador a gas butano con 6 puntas para soldadura  pirografo  fusión  corte en caliente  compresión  duración de encendido máximo 90 min ](https://www.amazon.com/dp/B000QGC6XW/?tag=redken08-20) por 30.9 EUR (original: 46.98 EUR) en el siguiente enlace!

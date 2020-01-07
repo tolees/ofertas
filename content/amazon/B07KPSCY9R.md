@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPSCY9R
 description:
+actualPrice: 17.57 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [REPLAY Grover Vaqueros Rectos  Azul  Super Light Blue 11   29W / 34L para Hombre](https://www.amazon.com/dp/B07KPSCY9R/?tag=redken08-20) a precio de oferta de 17.57 EUR (original: 99 EUR) en el siguiente enlace!

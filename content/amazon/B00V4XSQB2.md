@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00V4XSQB2
 description:
+actualPrice: 9.74 EUR
+comparePrice: 16.56 EUR
+inStock: true
 ---
 
 Tienes [Scholl Plantillas Gel Activ Uso Diario Hombre  40-46.5  1 par](https://www.amazon.com/dp/B00V4XSQB2/?tag=redken08-20) a precio de oferta de 9.74 EUR (original: 16.56 EUR) en el siguiente enlace!

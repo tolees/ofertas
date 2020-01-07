@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B019IJZEDG
 description:
+actualPrice: 11.69 EUR
+comparePrice: 19.59 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Almirón 2 Leche de continuación en polvo desde los 6 meses 1 2 kg](https://www.amazon.com/dp/B019IJZEDG/?tag=redken08-20) a 11.69 EUR (original: 19.59 EUR) en el siguiente enlace!

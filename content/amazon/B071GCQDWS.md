@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071GCQDWS
 description:
+actualPrice: 11.65 EUR
+comparePrice: 44.76 EUR
+inStock: true
 ---
 
 Está [Brandit Ripstop Trouser M65-Pantalones Mujer Negro  Black 2  W34/L32](https://www.amazon.com/dp/B071GCQDWS/?tag=redken08-20) por 11.65 EUR (original: 44.76 EUR) en el siguiente enlace!

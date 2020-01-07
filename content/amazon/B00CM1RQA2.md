@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00CM1RQA2
 description:
+actualPrice: 79.6 EUR
+comparePrice: 149 EUR
+inStock: true
 ---
 
 Está [Jacques Lemans Smart Watch Armbanduhr 1-1770F](https://www.amazon.com/dp/B00CM1RQA2/?tag=redken08-20) por 79.6 EUR (original: 149 EUR) en el siguiente enlace!

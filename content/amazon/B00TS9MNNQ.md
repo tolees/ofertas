@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TS9MNNQ
 description:
+actualPrice: 22.9 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Está [GREAT ART Selva Animales Papel Pintado de fotografía- Safari decoración de la Pared - XXL Jungle decoración de la paredcuarto de los niñospapel Pintado by  140 x 100 cm ](https://www.amazon.com/dp/B00TS9MNNQ/?tag=redken08-20) por 22.9 EUR (original: 40 EUR) en el siguiente enlace!

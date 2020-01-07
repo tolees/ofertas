@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JMP6NYV
 description:
+actualPrice: 12.14 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Está [XTI 49105  Sandalias con Plataforma para Mujer  Azul Jeans  39 EU](https://www.amazon.com/dp/B07JMP6NYV/?tag=redken08-20) por 12.14 EUR (original: 35 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GJVVP7F
 description:
+actualPrice: 21.22 EUR
+comparePrice: 44.99 EUR
+inStock: true
 ---
 
 Está [AmazonBasics - Juego de cubertería de acero inoxidable de 65 piezas con borde perlado  servicio para 12](https://www.amazon.com/dp/B07GJVVP7F/?tag=redken08-20) por 21.22 EUR (original: 44.99 EUR) en el siguiente enlace!

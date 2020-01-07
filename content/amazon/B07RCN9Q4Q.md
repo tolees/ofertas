@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RCN9Q4Q
 description:
+actualPrice: 62.44 EUR
+comparePrice: 229.99 EUR
+inStock: true
 ---
 
 Está [Columbia Centennial Creek Chaqueta De Plumón con Capucha  Hombre  Rojo  Red Jasper   XL](https://www.amazon.com/dp/B07RCN9Q4Q/?tag=redken08-20) por 62.44 EUR (original: 229.99 EUR) en el siguiente enlace!

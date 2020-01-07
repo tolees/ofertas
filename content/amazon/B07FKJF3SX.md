@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FKJF3SX
 description:
+actualPrice: 11.17 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Darksiders III - Edición Estándar](https://www.amazon.com/dp/B07FKJF3SX/?tag=redken08-20) por 11.17 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JQLFC6T
 description:
+actualPrice: 19.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Tienes [ESPRIT Collection 998eo2f802 Camisa  Azul  Light Blue 440     Talla del Fabricante: 45-46  para Hombre](https://www.amazon.com/dp/B07JQLFC6T/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

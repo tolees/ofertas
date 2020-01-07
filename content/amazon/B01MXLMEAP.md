@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MXLMEAP
 description:
+actualPrice: 9.99 EUR
+comparePrice: 18.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Hasbro B9837EU4 - N-Strike Elite Disruptor Spielzeugblaster  mit Trommelmagazin](https://www.amazon.com/dp/B01MXLMEAP/?tag=redken08-20) a 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

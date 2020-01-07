@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G57CGWZ
 description:
+actualPrice: 5.82 EUR
+comparePrice: 9.55 EUR
+inStock: true
 ---
 
 Está [Max Factor  Delineador de ojos  Tono: 003 Beige  Gama Nudes  - 5 gr.](https://www.amazon.com/dp/B07G57CGWZ/?tag=redken08-20) por 5.82 EUR (original: 9.55 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MY6WFTW
 description:
+actualPrice: 7.95 EUR
+comparePrice: 14.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [L Oréal Paris False Lash Superstar Xfiber Máscara de Pestañas - 34 g](https://www.amazon.com/dp/B01MY6WFTW/?tag=redken08-20) a 7.95 EUR (original: 14.95 EUR) en el siguiente enlace!

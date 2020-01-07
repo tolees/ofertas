@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076HPWK6H
 description:
+actualPrice: 23.49 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [adidas Core18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   L](https://www.amazon.com/dp/B076HPWK6H/?tag=redken08-20) por 23.49 EUR (original: 39.99 EUR) en el siguiente enlace!

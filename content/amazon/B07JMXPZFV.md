@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JMXPZFV
 description:
+actualPrice: 84 EUR
+comparePrice: 129.03 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Timberland Euro Sprint Fabric  Zapatillas Chukka para Hombre  Blanco  White Knit   43.5 EU](https://www.amazon.com/dp/B07JMXPZFV/?tag=redken08-20) a 84 EUR (original: 129.03 EUR) en el siguiente enlace!

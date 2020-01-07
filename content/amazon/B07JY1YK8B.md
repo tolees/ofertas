@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JY1YK8B
 description:
+actualPrice: 5.0 GBP
+comparePrice: 17.95 GBP
+inStock: true
 ---
 
 Está [Under Armour Men s Men s Baseball UA Blitzing 3.0 Comfortable Snapback Built-in Sweatband  Breathable Cap  Mod Gray/White/Wire  011   S/M](https://www.amazon.com/dp/B07JY1YK8B/?tag=redken08-20) por 5.0 GBP (original: 17.95 GBP) en el siguiente enlace!

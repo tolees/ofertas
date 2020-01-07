@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LF5T7QP
 description:
+actualPrice: 12.92 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Está [Levi s SS Color Block tee Camiseta  Multicolor  Jersey Colorblock Dress Blue/White/Red + White Print 0000   Medium para Hombre](https://www.amazon.com/dp/B07LF5T7QP/?tag=redken08-20) por 12.92 EUR (original: 35 EUR) en el siguiente enlace!

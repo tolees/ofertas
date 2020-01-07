@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JMCWRKS
 description:
+actualPrice: 18.17 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Está [Wrangler Playsuits Mono Corto  Azul  Worn Indigo 21p   Large para Mujer](https://www.amazon.com/dp/B07JMCWRKS/?tag=redken08-20) por 18.17 EUR (original: 99.95 EUR) en el siguiente enlace!

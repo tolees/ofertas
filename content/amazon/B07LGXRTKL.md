@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LGXRTKL
 description:
+actualPrice: 11.36 EUR
+comparePrice: 36 EUR
+inStock: true
 ---
 
 Está [The North Face Ambition P Pantalón  Mujer  Multicolor  Dazzling Blue Painted Feather Print   S](https://www.amazon.com/dp/B07LGXRTKL/?tag=redken08-20) por 11.36 EUR (original: 36 EUR) en el siguiente enlace!

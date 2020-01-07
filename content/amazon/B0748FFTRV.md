@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0748FFTRV
 description:
+actualPrice: 123.99 EUR
+comparePrice: 223.18 EUR
+inStock: true
 ---
 
 Está [CHENGYI Ideas modernas Lš¢mparas para el espejo del cuarto de ba?o Lš¢mparas regulables Planchas Cobre Acrilico Ba?o Aseo Vestidor Restaurante Restaurante Lavabo Espejo de maquillaje LED Longitud 55cm 11W](https://www.amazon.com/dp/B0748FFTRV/?tag=redken08-20) por 123.99 EUR (original: 223.18 EUR) en el siguiente enlace!

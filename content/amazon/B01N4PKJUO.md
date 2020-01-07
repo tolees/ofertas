@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N4PKJUO
 description:
+actualPrice: 8.5 EUR
+comparePrice: 44.42 EUR
+inStock: true
 ---
 
 Está [edc by Esprit 047cc1c001  Short Mujer  Blanco  White   34](https://www.amazon.com/dp/B01N4PKJUO/?tag=redken08-20) por 8.5 EUR (original: 44.42 EUR) en el siguiente enlace!

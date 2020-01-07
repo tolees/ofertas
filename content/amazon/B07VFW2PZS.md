@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VFW2PZS
 description:
+actualPrice: 19.99 GBP
+comparePrice: 39.98 GBP
+inStock: true
 ---
 
 Tienes [GODNECE Light Set for Lego  Led Lighting Kit for Lego Led Light kit Compatible With LEGO War Machine 76124  NOT Included The Model ](https://www.amazon.com/dp/B07VFW2PZS/?tag=redken08-20) a precio de oferta de 19.99 GBP (original: 39.98 GBP) en el siguiente enlace!

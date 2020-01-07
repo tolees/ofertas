@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0793MPVCC
 description:
+actualPrice: 25.83 EUR
+comparePrice: 89.9 EUR
+inStock: true
 ---
 
 Está [Chlorella Ecológica Premium para 165 días - 500 comprimidos de 500mg - Pared celular rota - Vegano - Libre de Plástico - Certificación Ecológica Oficial](https://www.amazon.com/dp/B0793MPVCC/?tag=redken08-20) por 25.83 EUR (original: 89.9 EUR) en el siguiente enlace!

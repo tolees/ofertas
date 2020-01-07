@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00IGQZFTQ
 description:
+actualPrice: 51.24 EUR
+comparePrice: 89.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Einhell TE-AG 230/2000 Amoladora  2000 W  230 V  Rojo  230mm  arranque suave  asidero giratorio  cubierta protectora  ref. 4430840 ](https://www.amazon.com/dp/B00IGQZFTQ/?tag=redken08-20) a 51.24 EUR (original: 89.9 EUR) en el siguiente enlace!

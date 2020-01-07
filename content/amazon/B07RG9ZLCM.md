@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RG9ZLCM
 description:
+actualPrice: 35.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Tienes [YAMAY Pulsera de Actividad Inteligente  Pulsera Inteligente con Blood Pressure Monitor y Pulsómetro Impermeable IP68 Pulsera Deportiva Reloj Inteligente para Mujeres Hombres Smartwatch para Phone](https://www.amazon.com/dp/B07RG9ZLCM/?tag=redken08-20) a precio de oferta de 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BAYVBR0
 description:
+actualPrice: 63.52 EUR
+comparePrice: 119.79 EUR
+inStock: true
 ---
 
 Tienes [Kibath 1151414 higiene íntima para sustitución del Bidet. Monomando fría y Agua Caliente. Grifo para el WC con Ducha de Mano](https://www.amazon.com/dp/B01BAYVBR0/?tag=redken08-20) a precio de oferta de 63.52 EUR (original: 119.79 EUR) en el siguiente enlace!

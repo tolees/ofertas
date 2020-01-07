@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07C1TVXYC
 description:
+actualPrice: 17.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [JACK & JONES Jjegingham Shirt L/s Camisa  Multicolor  Brick Red Checks:Mixed Black   Large para Hombre](https://www.amazon.com/dp/B07C1TVXYC/?tag=redken08-20) a 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

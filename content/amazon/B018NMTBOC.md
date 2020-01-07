@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B018NMTBOC
 description:
+actualPrice: 4.19 EUR
+comparePrice: 34.98 EUR
+inStock: true
 ---
 
 Está [Bizak-5025123225111  Color  61952511 ](https://www.amazon.com/dp/B018NMTBOC/?tag=redken08-20) por 4.19 EUR (original: 34.98 EUR) en el siguiente enlace!

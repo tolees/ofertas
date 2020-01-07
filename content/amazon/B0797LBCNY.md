@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0797LBCNY
 description:
+actualPrice: 7.56 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [Avengers - Disfraz de Thor oficial Infinity Wars para niños  infantil 3-4 años  Rubie s 641311-S ](https://www.amazon.com/dp/B0797LBCNY/?tag=redken08-20) a precio de oferta de 7.56 EUR (original: 29.99 EUR) en el siguiente enlace!

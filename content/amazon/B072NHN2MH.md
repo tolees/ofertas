@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072NHN2MH
 description:
+actualPrice: 15.6 EUR
+comparePrice: 32.77 EUR
+inStock: true
 ---
 
 Tienes [RED WAGON Botas con Cremallera para Niños  Marrón  Brown   25.5 EU  8 UK ](https://www.amazon.com/dp/B072NHN2MH/?tag=redken08-20) a precio de oferta de 15.6 EUR (original: 32.77 EUR) en el siguiente enlace!

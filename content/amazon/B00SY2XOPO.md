@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00SY2XOPO
 description:
+actualPrice: 41.6 EUR
+comparePrice: 69 EUR
+inStock: true
 ---
 
 Tienes [Lotus Reloj Analógico para Niños de Cuarzo con Correa en Acero Inoxidable 18168/3](https://www.amazon.com/dp/B00SY2XOPO/?tag=redken08-20) a precio de oferta de 41.6 EUR (original: 69 EUR) en el siguiente enlace!

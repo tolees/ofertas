@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N5FOWXL
 description:
+actualPrice: 10.5 EUR
+comparePrice: 28 EUR
+inStock: true
 ---
 
 Tienes [find. Blusa de Lunares con Hombros al Aire para Mujer   Negro  Black   44  Talla del Fabricante: X-Large ](https://www.amazon.com/dp/B01N5FOWXL/?tag=redken08-20) a precio de oferta de 10.5 EUR (original: 28 EUR) en el siguiente enlace!

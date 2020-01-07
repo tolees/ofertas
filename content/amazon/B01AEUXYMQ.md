@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AEUXYMQ
 description:
+actualPrice: 13.99 EUR
+comparePrice: 20.99 EUR
+inStock: true
 ---
 
 Está [Disney Frozen - Die Eiskönigin völlig unverfroren Elsa Anna  Umhängetasche Schultertasche  S385   blau/weiß  38 x 28 x 10 cm](https://www.amazon.com/dp/B01AEUXYMQ/?tag=redken08-20) por 13.99 EUR (original: 20.99 EUR) en el siguiente enlace!

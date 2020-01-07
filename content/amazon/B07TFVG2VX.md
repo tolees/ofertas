@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TFVG2VX
 description:
+actualPrice: 22.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [BelleStyle 24V 15A 360W Fuente Alimentacion Transformador Interruptor Adaptador de Corriente Regulada Universal  CCTV Radio Proyecto de Computadora Led Impresora 3D [Clase de eficiencia energética A]](https://www.amazon.com/dp/B07TFVG2VX/?tag=redken08-20) a 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

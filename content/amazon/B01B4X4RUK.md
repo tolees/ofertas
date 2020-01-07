@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01B4X4RUK
 description:
+actualPrice: 40.6 EUR
+comparePrice: 66 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Tous Happy Moments 90ml](https://www.amazon.com/dp/B01B4X4RUK/?tag=redken08-20) a 40.6 EUR (original: 66 EUR) en el siguiente enlace!

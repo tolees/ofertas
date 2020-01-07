@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077G1WJWN
 description:
+actualPrice: 12.6 EUR
+comparePrice: 42 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Herren Mokassin aus Wildleder  Blau  Bright Blue   44 EU](https://www.amazon.com/dp/B077G1WJWN/?tag=redken08-20) a 12.6 EUR (original: 42 EUR) en el siguiente enlace!

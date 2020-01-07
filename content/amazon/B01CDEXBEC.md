@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CDEXBEC
 description:
+actualPrice: 8.24 EUR
+comparePrice: 15.9 EUR
+inStock: true
 ---
 
 Tienes [Funko 9298 S1 No Actionfigur Games: Overwatch: Tracer  Multi](https://www.amazon.com/dp/B01CDEXBEC/?tag=redken08-20) a precio de oferta de 8.24 EUR (original: 15.9 EUR) en el siguiente enlace!

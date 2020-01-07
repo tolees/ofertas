@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BF9B2LS
 description:
+actualPrice: 36.21 EUR
+comparePrice: 62 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Rochas  Agua de colonia para mujeres - 50 ml.](https://www.amazon.com/dp/B07BF9B2LS/?tag=redken08-20) a 36.21 EUR (original: 62 EUR) en el siguiente enlace!

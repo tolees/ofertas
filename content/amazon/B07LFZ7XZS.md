@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFZ7XZS
 description:
+actualPrice: 35.85 EUR
+comparePrice: 59.9 EUR
+inStock: true
 ---
 
 Tienes [Geox J Android Boy C  Zapatillas para Niños  Azul  Navy/Lime C0749   31 EU](https://www.amazon.com/dp/B07LFZ7XZS/?tag=redken08-20) a precio de oferta de 35.85 EUR (original: 59.9 EUR) en el siguiente enlace!

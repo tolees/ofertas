@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00J5MFBZI
 description:
+actualPrice: 3.99 EUR
+comparePrice: 9.63 EUR
+inStock: true
 ---
 
 Está [Bourjois Velvet Barra de Labios Líquida Tono 04 Peach Club - 27 gr.](https://www.amazon.com/dp/B00J5MFBZI/?tag=redken08-20) por 3.99 EUR (original: 9.63 EUR) en el siguiente enlace!

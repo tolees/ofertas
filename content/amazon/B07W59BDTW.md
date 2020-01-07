@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07W59BDTW
 description:
+actualPrice: 74.99 EUR
+comparePrice: 119.99 EUR
+inStock: true
 ---
 
 Tienes [Trust GXT 444 Wayman Auriculares Pro para PC  Laptop  Playstation 4  Xbox One  Nintendo Switch y e-Sports  Negro](https://www.amazon.com/dp/B07W59BDTW/?tag=redken08-20) a precio de oferta de 74.99 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M0BCKI6
 description:
+actualPrice: 31.99 GBP
+comparePrice: 85 GBP
+inStock: true
 ---
 
 Está [Levi s 511 Mens Slim Fit Jeans - Comfortable and Stretchy Denim Fit](https://www.amazon.com/dp/B01M0BCKI6/?tag=redken08-20) por 31.99 GBP (original: 85 GBP) en el siguiente enlace!

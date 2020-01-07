@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WW5QFBL
 description:
+actualPrice: 22.83 EUR
+comparePrice: 38.81 EUR
+inStock: true
 ---
 
 Está [YOSICIL Vestido Elsa con Capa Disfraz de Princesa de Invierno Niñas Manga Larga Vestido Frozen Nieve Traje de Fiesta Costume Princesa Anna para Regalo Cumpleaños Boda Vestido Largo 3-10Años](https://www.amazon.com/dp/B07WW5QFBL/?tag=redken08-20) por 22.83 EUR (original: 38.81 EUR) en el siguiente enlace!

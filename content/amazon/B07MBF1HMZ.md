@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MBF1HMZ
 description:
+actualPrice: 19.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [INTEY Bandas Elásticas  13 PCS Látex Bandas de Resistencia - 5 Tubos de látex/Cubierta Protectora/Manijas/Ancla de Puerta/Correas de Tobillo/Bolsa de Transporte](https://www.amazon.com/dp/B07MBF1HMZ/?tag=redken08-20) por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

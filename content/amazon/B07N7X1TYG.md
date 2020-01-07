@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N7X1TYG
 description:
+actualPrice: 2.99 EUR
+comparePrice: 11.02 EUR
+inStock: true
 ---
 
 Está [keeeper Fredo Fresh Fiambreras  PP  Azul  3X 1 25 l  3 Set](https://www.amazon.com/dp/B07N7X1TYG/?tag=redken08-20) por 2.99 EUR (original: 11.02 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00DQGBYDC
 description:
+actualPrice: 9.49 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [Memoria Flash USB 3.0 SanDisk Ultra de 64 GB  Velocidad de Lectura de hasta 100 MB/s](https://www.amazon.com/dp/B00DQGBYDC/?tag=redken08-20) por 9.49 EUR (original: 14.99 EUR) en el siguiente enlace!

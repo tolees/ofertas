@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B006Q7CDPG
 description:
+actualPrice: 13.59 EUR
+comparePrice: 21.9 EUR
+inStock: true
 ---
 
 Está [Speedo Solid Leisure - Bañador de natación para hombre  color azul marino  talla L](https://www.amazon.com/dp/B006Q7CDPG/?tag=redken08-20) por 13.59 EUR (original: 21.9 EUR) en el siguiente enlace!

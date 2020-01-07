@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0009JACGO
 description:
+actualPrice: 4.94 EUR
+comparePrice: 11.99 EUR
+inStock: true
 ---
 
 Tienes [LEGO City - Rectas y cruces  7280 ](https://www.amazon.com/dp/B0009JACGO/?tag=redken08-20) a precio de oferta de 4.94 EUR (original: 11.99 EUR) en el siguiente enlace!

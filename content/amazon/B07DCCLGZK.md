@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DCCLGZK
 description:
+actualPrice: 23.87 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [Puma RS-150 Satin Wn s  Zapatillas para Mujer  Morado Sweet Lavender  40.5 EU](https://www.amazon.com/dp/B07DCCLGZK/?tag=redken08-20) a precio de oferta de 23.87 EUR (original: 99.95 EUR) en el siguiente enlace!

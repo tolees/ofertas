@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'B01NCEQVHU: Rebaja en Funko Overwatch Lucio Figura de Vinilo   en Amazon'
+title: 'B01NCEQVHU - Ofertón en Amazon para Funko Overwatch Lucio Figura de Vinilo  '
 date: 2019/12/25 11:07:34 +0000
-comments: true
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41bCJyg8XZL._SL200_.jpg'
+comments: true
 category: ofertas
 author: ring
 slug: B01NCEQVHU
 description:
+actualPrice: 9.39 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
-Está [Funko Overwatch Lucio Figura de Vinilo  Multicolor  13088 ](https://www.amazon.com/dp/B01NCEQVHU/?tag=redken08-20) por 9.39 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [Funko Overwatch Lucio Figura de Vinilo  Multicolor  13088 ](https://www.amazon.com/dp/B01NCEQVHU/?tag=redken08-20) a precio de oferta de 9.39 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bCJyg8XZL._SL200_.jpg)](https://www.amazon.com/dp/B01NCEQVHU/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01NCEQVHU/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01NCEQVHU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

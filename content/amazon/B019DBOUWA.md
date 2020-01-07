@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B019DBOUWA
 description:
+actualPrice: 54.98 GBP
+comparePrice: 99.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [NETGEAR Nighthawk S8000 8-Port Gigabit Smart Managed Plus Gaming Switch  GS808E  - Low Latency for Responsive Streaming  Cool-touch Zinc-alloy Desktop Housing  Fanless for Quiet Operation](https://www.amazon.com/dp/B019DBOUWA/?tag=redken08-20) a 54.98 GBP (original: 99.99 GBP) en el siguiente enlace!

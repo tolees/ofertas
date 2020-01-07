@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N43HXGW
 description:
+actualPrice: 44.92 EUR
+comparePrice: 139 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sudadera   Charcoal Heather P9x   Small para Hombre](https://www.amazon.com/dp/B07N43HXGW/?tag=redken08-20) a 44.92 EUR (original: 139 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07W6GGMQP
 description:
+actualPrice: 47.95 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Está [JACK & JONES Jcoglobe Parka Abrigos Hombre  Azul China Blue  X-Large](https://www.amazon.com/dp/B07W6GGMQP/?tag=redken08-20) por 47.95 EUR (original: 79.99 EUR) en el siguiente enlace!

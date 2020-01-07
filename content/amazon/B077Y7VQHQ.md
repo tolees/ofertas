@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077Y7VQHQ
 description:
+actualPrice: 17.99 EUR
+comparePrice: 50.96 EUR
+inStock: true
 ---
 
 Está [HIKARO Chaqueta con Cremallera Mujer  Azul  Navy   40  Talla del fabricante: Medium ](https://www.amazon.com/dp/B077Y7VQHQ/?tag=redken08-20) por 17.99 EUR (original: 50.96 EUR) en el siguiente enlace!

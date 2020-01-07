@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00QG0YLJ4
 description:
+actualPrice: 30.43 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [adidas Terrex Swift Solo  Zapatilla de Velcro para Hombre  Negro  Black/Black/Lead 0   36 EU](https://www.amazon.com/dp/B00QG0YLJ4/?tag=redken08-20) a 30.43 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B014IFHK0U
 description:
+actualPrice: 18.8 EUR
+comparePrice: 33.1 EUR
+inStock: true
 ---
 
 Tienes [Wonderbra Women s Refined Glamour Triangle  Bra diario  Negro  32C](https://www.amazon.com/dp/B014IFHK0U/?tag=redken08-20) a precio de oferta de 18.8 EUR (original: 33.1 EUR) en el siguiente enlace!

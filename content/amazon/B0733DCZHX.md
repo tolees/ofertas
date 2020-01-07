@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0733DCZHX
 description:
+actualPrice: 6.6 EUR
+comparePrice: 22 EUR
+inStock: true
 ---
 
 Está [find. Pantalones estilo  Jogger  Slim para Hombre  Verde  Grape Leaf    Talla del fabricante: XX-Large ](https://www.amazon.com/dp/B0733DCZHX/?tag=redken08-20) por 6.6 EUR (original: 22 EUR) en el siguiente enlace!

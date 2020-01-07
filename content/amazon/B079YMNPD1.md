@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079YMNPD1
 description:
+actualPrice: 6.99 EUR
+comparePrice: 13.99 EUR
+inStock: true
 ---
 
 Tienes [Funko 29496 Actionfigur Potter-Harry Herbology  Mehrfarben  Standard](https://www.amazon.com/dp/B079YMNPD1/?tag=redken08-20) a precio de oferta de 6.99 EUR (original: 13.99 EUR) en el siguiente enlace!

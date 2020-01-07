@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077XRMGLV
 description:
+actualPrice: 16.49 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Tienes [Under Armour Mens CGI Run Liner Guantes  Hombre  Negro  MD](https://www.amazon.com/dp/B077XRMGLV/?tag=redken08-20) a precio de oferta de 16.49 EUR (original: 30 EUR) en el siguiente enlace!

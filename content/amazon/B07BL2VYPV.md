@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BL2VYPV
 description:
+actualPrice: 60 EUR
+comparePrice: 120 EUR
+inStock: true
 ---
 
 Tienes [New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Hombre  Azul  Deep Ozone Blue/Eclipse Do   43 EU](https://www.amazon.com/dp/B07BL2VYPV/?tag=redken08-20) a precio de oferta de 60 EUR (original: 120 EUR) en el siguiente enlace!

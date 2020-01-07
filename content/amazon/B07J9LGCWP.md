@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J9LGCWP
 description:
+actualPrice: 28.4 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Tienes [Skechers Side Street-Sunset Walks  Zapatillas para Mujer  Blanco  White Wht   37 EU](https://www.amazon.com/dp/B07J9LGCWP/?tag=redken08-20) a precio de oferta de 28.4 EUR (original: 69.95 EUR) en el siguiente enlace!

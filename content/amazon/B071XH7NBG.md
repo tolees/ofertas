@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071XH7NBG
 description:
+actualPrice: 5 EUR
+comparePrice: 10.38 EUR
+inStock: true
 ---
 
 Tienes [Pijama Para Dos [DVD]](https://www.amazon.com/dp/B071XH7NBG/?tag=redken08-20) a precio de oferta de 5 EUR (original: 10.38 EUR) en el siguiente enlace!

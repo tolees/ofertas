@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DJM1GM6
 description:
+actualPrice: 18.15 EUR
+comparePrice: 32.67 EUR
+inStock: true
 ---
 
 Tienes [Bolsa de Embrague para Fiesta Boda de Novia Bolso de Mano Nupcial con Diamantes de Imitación Cartera Billetera de Mujer - Negro](https://www.amazon.com/dp/B07DJM1GM6/?tag=redken08-20) a precio de oferta de 18.15 EUR (original: 32.67 EUR) en el siguiente enlace!

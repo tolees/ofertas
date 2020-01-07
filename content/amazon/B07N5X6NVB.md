@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N5X6NVB
 description:
+actualPrice: 8.75 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funko- Pop Vinilo: Big Bang Theory S2: Penny Figura Coleccionable  Multicolor  Estándar  38587 ](https://www.amazon.com/dp/B07N5X6NVB/?tag=redken08-20) a 8.75 EUR (original: 15.95 EUR) en el siguiente enlace!

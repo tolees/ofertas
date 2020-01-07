@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TZ2WLVN
 description:
+actualPrice: 19.97 EUR
+comparePrice: 32.99 EUR
+inStock: true
 ---
 
 Está [Candado Moto  BUDDYGO 110dB Alarma Antirrobo Impermeable Candado de Disco de Moto con 1.5m Cable Recordatorio y Candado Bolsa  3 Llaves y 6 Batería Repuesto  Alarm Lock para Motocicletas Bicicletas](https://www.amazon.com/dp/B07TZ2WLVN/?tag=redken08-20) por 19.97 EUR (original: 32.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M7GB8ZD
 description:
+actualPrice: 14.99 EUR
+comparePrice: 22.61 EUR
+inStock: true
 ---
 
 Está [Pilas AA Recargable POWEROWL Alta Capacidad 2800mAh 1.2V Pilas Recargables AA NI-MH Diámetro 14.4mm Baja Autodescarga  Precarga 8 Paquete  Recargable Aproximadamente 1200 Veces ](https://www.amazon.com/dp/B07M7GB8ZD/?tag=redken08-20) por 14.99 EUR (original: 22.61 EUR) en el siguiente enlace!

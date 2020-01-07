@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07R62CDQK
 description:
+actualPrice: 11.99 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Está [Aussie 3 minute Miracle - Mascarilla pelo  tratamiento reconstructor  se usa con champú y acondicionador Repair Miracle  3 x 250 ml](https://www.amazon.com/dp/B07R62CDQK/?tag=redken08-20) por 11.99 EUR (original: 25 EUR) en el siguiente enlace!

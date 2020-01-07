@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SZ6VNKY
 description:
+actualPrice: 8.99 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Tienes [Luz Solar de Jardín Cónica LED Exterior Solar IP68 Impermeable Luces Solares Para Piscina luz LED Cambia Color al Aire Libre Decoración de Fiesta Para Piscina Boda Playa Patio Césped Camino 1Pack ](https://www.amazon.com/dp/B07SZ6VNKY/?tag=redken08-20) a precio de oferta de 8.99 EUR (original: 24.99 EUR) en el siguiente enlace!

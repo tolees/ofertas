@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1DGKF2
 description:
+actualPrice: 29.99 EUR
+comparePrice: 45 EUR
+inStock: true
 ---
 
 Tienes [Kipling SEOUL PACKABLE - Mochila escolar  22.5 liters  Multicolor  CAMO L Light ](https://www.amazon.com/dp/B07N1DGKF2/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 45 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074CLJ7MQ
 description:
+actualPrice: 149 EUR
+comparePrice: 589 EUR
+inStock: true
 ---
 
 Tienes [TW Steel Marc Coblen Edition Chrono con piel de banda 50 Mm Black/Black twmc66](https://www.amazon.com/dp/B074CLJ7MQ/?tag=redken08-20) a precio de oferta de 149 EUR (original: 589 EUR) en el siguiente enlace!

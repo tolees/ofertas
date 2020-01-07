@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MMLPFN9
 description:
+actualPrice: 41.05 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Tienes [Napapijri BOVES C Sudadera  Rojo  Red Scarlet R01   S para Hombre](https://www.amazon.com/dp/B07MMLPFN9/?tag=redken08-20) a precio de oferta de 41.05 EUR (original: 89 EUR) en el siguiente enlace!

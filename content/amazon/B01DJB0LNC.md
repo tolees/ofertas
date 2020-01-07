@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01DJB0LNC
 description:
+actualPrice: 3.19 EUR
+comparePrice: 7.5 EUR
+inStock: true
 ---
 
 Está [Rimmel London Volume Colourist Máscara de Pestañas Tono Black  11 ml](https://www.amazon.com/dp/B01DJB0LNC/?tag=redken08-20) por 3.19 EUR (original: 7.5 EUR) en el siguiente enlace!

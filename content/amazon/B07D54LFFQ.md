@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D54LFFQ
 description:
+actualPrice: 9.95 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Tienes [Pop! Ghostbusters - Figura de Vinilo Dr. Raymond Stantz](https://www.amazon.com/dp/B07D54LFFQ/?tag=redken08-20) a precio de oferta de 9.95 EUR (original: 15.95 EUR) en el siguiente enlace!

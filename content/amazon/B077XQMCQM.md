@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077XQMCQM
 description:
+actualPrice: 15 EUR
+comparePrice: 26 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour UA Tech Graphic Short Pantalón Corto  Hombre  Gris  Steel/Black 035   XL](https://www.amazon.com/dp/B077XQMCQM/?tag=redken08-20) a 15 EUR (original: 26 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CERBVE0
 description:
+actualPrice: 83.4 EUR
+comparePrice: 160 EUR
+inStock: true
 ---
 
 Tienes [American Tourister Air Force 1 - Maleta  Turquesa  Aero Turquoise   M  66cm-69L ](https://www.amazon.com/dp/B01CERBVE0/?tag=redken08-20) a precio de oferta de 83.4 EUR (original: 160 EUR) en el siguiente enlace!

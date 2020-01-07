@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F1XKLWG
 description:
+actualPrice: 59.13 EUR
+comparePrice: 143 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Element Dulcey Chaqueta  Hombre  Negro  Flint Black   XS](https://www.amazon.com/dp/B07F1XKLWG/?tag=redken08-20) a 59.13 EUR (original: 143 EUR) en el siguiente enlace!

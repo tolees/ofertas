@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MXYZLSP
 description:
+actualPrice: 129.99 EUR
+comparePrice: 209 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Braun Silk-épil Beauty Set 9 9-995 9 en 1 - Depiladora Mujer  Inalámbrica Wet&Dry  Kit de Depilación  Rasuradora  Exfoliación y Limpieza para Rostro y Cuerpo  Blanco/Rosa](https://www.amazon.com/dp/B07MXYZLSP/?tag=redken08-20) a 129.99 EUR (original: 209 EUR) en el siguiente enlace!

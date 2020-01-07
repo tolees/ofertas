@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B019RGNFC2
 description:
+actualPrice: 20.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lima-Electrónica para Callosidades Own Harmony - Poderoso Removedor de Callos de EE.UU.- Herramientas de Pedicura Recargables con 3 Diamond Rodillos - Spa Profesional el Suaves Cuidado de los Pies](https://www.amazon.com/dp/B019RGNFC2/?tag=redken08-20) a 20.99 EUR (original: 49.99 EUR) en el siguiente enlace!

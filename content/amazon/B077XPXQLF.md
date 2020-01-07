@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077XPXQLF
 description:
+actualPrice: 25.99 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Rival Fleece Jogger Pantalones  Hombre  Azul  Academy/Black 408   S](https://www.amazon.com/dp/B077XPXQLF/?tag=redken08-20) a 25.99 EUR (original: 55 EUR) en el siguiente enlace!

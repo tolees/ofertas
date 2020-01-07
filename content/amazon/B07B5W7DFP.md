@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B5W7DFP
 description:
+actualPrice: 10.41 EUR
+comparePrice: 25.1 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Jumanji: Bienvenidos A La Jungla  4K UHD + BD  [Blu-ray]](https://www.amazon.com/dp/B07B5W7DFP/?tag=redken08-20) a 10.41 EUR (original: 25.1 EUR) en el siguiente enlace!

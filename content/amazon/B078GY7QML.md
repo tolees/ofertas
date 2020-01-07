@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078GY7QML
 description:
+actualPrice: 35.08 EUR
+comparePrice: 54.95 EUR
+inStock: true
 ---
 
 Está [Adidas Duramo 9  Zapatillas de Entrenamiento para Hombre  Negro  Core Black/Footwear White/Core Black 0   42 EU](https://www.amazon.com/dp/B078GY7QML/?tag=redken08-20) por 35.08 EUR (original: 54.95 EUR) en el siguiente enlace!

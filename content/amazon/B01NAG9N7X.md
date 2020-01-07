@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NAG9N7X
 description:
+actualPrice: 14.44 EUR
+comparePrice: 54.81 EUR
+inStock: true
 ---
 
 Tienes [Honeywell 6246153-41/7 Bacou Histrio BTP  S3 SRC  Size 41](https://www.amazon.com/dp/B01NAG9N7X/?tag=redken08-20) a precio de oferta de 14.44 EUR (original: 54.81 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NFJN2SL
 description:
+actualPrice: 35.22 EUR
+comparePrice: 85 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Kipling Seoul GO S Mochila Infantil  35 cm  14 Liters  Gris  Ash Denim Bl ](https://www.amazon.com/dp/B07NFJN2SL/?tag=redken08-20) a 35.22 EUR (original: 85 EUR) en el siguiente enlace!

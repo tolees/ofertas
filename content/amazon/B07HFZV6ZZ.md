@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HFZV6ZZ
 description:
+actualPrice: 51 EUR
+comparePrice: 85 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance 373 Zapatillas Hombre  Negro  Black Black   45.5 EU](https://www.amazon.com/dp/B07HFZV6ZZ/?tag=redken08-20) a 51 EUR (original: 85 EUR) en el siguiente enlace!

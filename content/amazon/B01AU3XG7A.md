@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AU3XG7A
 description:
+actualPrice: 21.37 EUR
+comparePrice: 32.42 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [hummel - Sudadera para Hombre Core 1/2 Zip Verde Verde Talla:XXXL](https://www.amazon.com/dp/B01AU3XG7A/?tag=redken08-20) a 21.37 EUR (original: 32.42 EUR) en el siguiente enlace!

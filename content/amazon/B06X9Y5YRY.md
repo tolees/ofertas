@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06X9Y5YRY
 description:
+actualPrice: 4.5 EUR
+comparePrice: 11.24 EUR
+inStock: true
 ---
 
 Tienes [IRIS & LILLY Tanga Body Smooth para Mujer  Pack de 3  Blanco  White   X-Small](https://www.amazon.com/dp/B06X9Y5YRY/?tag=redken08-20) a precio de oferta de 4.5 EUR (original: 11.24 EUR) en el siguiente enlace!

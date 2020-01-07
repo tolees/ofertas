@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N0V0AQA
 description:
+actualPrice: 77 EUR
+comparePrice: 129 EUR
+inStock: true
 ---
 
 Tienes [Asus Intel H270 LGA-1151 ATX - Placa con iluminación LED  DDR4 2400MHz  dual M.2  Intel Optane memory ready  HDMI  SATA 6Gb/s  USB 3.0](https://www.amazon.com/dp/B01N0V0AQA/?tag=redken08-20) a precio de oferta de 77 EUR (original: 129 EUR) en el siguiente enlace!

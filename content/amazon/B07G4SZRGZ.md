@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G4SZRGZ
 description:
+actualPrice: 240.96 EUR
+comparePrice: 399 EUR
+inStock: true
 ---
 
 Tienes [Hugo Boss Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1513637](https://www.amazon.com/dp/B07G4SZRGZ/?tag=redken08-20) a precio de oferta de 240.96 EUR (original: 399 EUR) en el siguiente enlace!

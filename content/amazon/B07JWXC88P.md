@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JWXC88P
 description:
+actualPrice: 13.26 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Mid Waist Boyfriend Colored Vaqueros  Azul  Laundry Blue B078-1280   34W / 30L para Mujer](https://www.amazon.com/dp/B07JWXC88P/?tag=redken08-20) a 13.26 EUR (original: 99.95 EUR) en el siguiente enlace!

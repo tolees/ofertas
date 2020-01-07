@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01EZTLOR4
 description:
+actualPrice: 13.9 EUR
+comparePrice: 34.9 EUR
+inStock: true
 ---
 
 Tienes [Ozone OZNEON3K - Ratón Gaming 3K Neon](https://www.amazon.com/dp/B01EZTLOR4/?tag=redken08-20) a precio de oferta de 13.9 EUR (original: 34.9 EUR) en el siguiente enlace!

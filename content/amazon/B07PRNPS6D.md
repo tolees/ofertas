@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PRNPS6D
 description:
+actualPrice: 1950.23 EUR
+comparePrice: 3299 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Samsung RU8009 207 cm  82 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]](https://www.amazon.com/dp/B07PRNPS6D/?tag=redken08-20) a 1950.23 EUR (original: 3299 EUR) en el siguiente enlace!

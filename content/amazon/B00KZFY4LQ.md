@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00KZFY4LQ
 description:
+actualPrice: 8.75 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [Funko Dragonball Z Cell Figura de Vinilo  Multicolor  3992 ](https://www.amazon.com/dp/B00KZFY4LQ/?tag=redken08-20) por 8.75 EUR (original: 14.99 EUR) en el siguiente enlace!

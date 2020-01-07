@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNWMBLR
 description:
+actualPrice: 6.47 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LEGO NINJAGO 70659 - Spinjitzu Kai](https://www.amazon.com/dp/B07FNWMBLR/?tag=redken08-20) a 6.47 EUR (original: 9.99 EUR) en el siguiente enlace!

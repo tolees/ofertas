@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00LGNJYSE
 description:
+actualPrice: 6.63 EUR
+comparePrice: 20.66 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bormioli Rocco 498880F27321990 Parma Plato de Postre 20 X 20   6 unidades](https://www.amazon.com/dp/B00LGNJYSE/?tag=redken08-20) a 6.63 EUR (original: 20.66 EUR) en el siguiente enlace!

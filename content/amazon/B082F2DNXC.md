@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B082F2DNXC
 description:
+actualPrice: 39.99 EUR
+comparePrice: 69 EUR
+inStock: true
 ---
 
 Está [Luces solares al aire libre   100 LED 8 modos  Luces solares para jardín  luces de cadena solar resistente al agua para patio  hogar  boda  camino  fiesta  dos paquetes-amarillo cálido-12 ](https://www.amazon.com/dp/B082F2DNXC/?tag=redken08-20) por 39.99 EUR (original: 69 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06Y2KHM7N
 description:
+actualPrice: 34.49 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Está [Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Negro  Black   32 EU](https://www.amazon.com/dp/B06Y2KHM7N/?tag=redken08-20) por 34.49 EUR (original: 55 EUR) en el siguiente enlace!

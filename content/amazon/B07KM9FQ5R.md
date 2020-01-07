@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KM9FQ5R
 description:
+actualPrice: 8.01 EUR
+comparePrice: 13.13 EUR
+inStock: true
 ---
 
 Está [Ciclismo de aleación de Aluminio a Prueba de choques Montar Fijo Soporte de navegación Bicicleta de la Bicicleta](https://www.amazon.com/dp/B07KM9FQ5R/?tag=redken08-20) por 8.01 EUR (original: 13.13 EUR) en el siguiente enlace!

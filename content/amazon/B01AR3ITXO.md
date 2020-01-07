@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AR3ITXO
 description:
+actualPrice: 10.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [SmugPets 315 Bolsas biodegradables para excrementos con dispensador y Clip para Correa - Extragrandes y perfumadas](https://www.amazon.com/dp/B01AR3ITXO/?tag=redken08-20) a 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D5STXGK
 description:
+actualPrice: 9.49 EUR
+comparePrice: 19.95 EUR
+inStock: true
 ---
 
 Está [PUMA ESS Logo tee Camiseta  Mujer  Gris  Light Gray Heather   S](https://www.amazon.com/dp/B07D5STXGK/?tag=redken08-20) por 9.49 EUR (original: 19.95 EUR) en el siguiente enlace!

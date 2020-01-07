@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NDSKMVH
 description:
+actualPrice: 599.99 EUR
+comparePrice: 899 EUR
+inStock: true
 ---
 
 Tienes [MEDION X30 RGB - Ordenador de sobremesa gaming  Intel Core i5-8400  8GB RAM  1TB HDD  Nvidia GTX1060-6GB  Windows 10  Negro](https://www.amazon.com/dp/B07NDSKMVH/?tag=redken08-20) a precio de oferta de 599.99 EUR (original: 899 EUR) en el siguiente enlace!

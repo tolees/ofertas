@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CLHBLTI
 description:
+actualPrice: 9.39 GBP
+comparePrice: 15.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Disney Frozen 15335 Disney Disney Frozen Table Ware  Blue](https://www.amazon.com/dp/B01CLHBLTI/?tag=redken08-20) a 9.39 GBP (original: 15.99 GBP) en el siguiente enlace!

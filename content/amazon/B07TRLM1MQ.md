@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TRLM1MQ
 description:
+actualPrice: 29.24 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [The Walking Dead: The Telltale Definitive Series](https://www.amazon.com/dp/B07TRLM1MQ/?tag=redken08-20) a 29.24 EUR (original: 49.99 EUR) en el siguiente enlace!

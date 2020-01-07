@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NLLY9QL
 description:
+actualPrice: 69.27 EUR
+comparePrice: 105 EUR
+inStock: true
 ---
 
 Está [Versace Jeans CouturePortafoglioMujerCarterasRosa  Fuxia  2x12.5x22 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLLY9QL/?tag=redken08-20) por 69.27 EUR (original: 105 EUR) en el siguiente enlace!

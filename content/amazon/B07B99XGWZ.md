@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B99XGWZ
 description:
+actualPrice: 65.5 EUR
+comparePrice: 110 EUR
+inStock: true
 ---
 
 Tienes [Clarks Un Geo Lace  Zapatos de Cordones Derby para Hombre  Azul  Navy Nubuck   47 EU](https://www.amazon.com/dp/B07B99XGWZ/?tag=redken08-20) a precio de oferta de 65.5 EUR (original: 110 EUR) en el siguiente enlace!

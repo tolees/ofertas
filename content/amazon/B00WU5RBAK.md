@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00WU5RBAK
 description:
+actualPrice: 11.63 EUR
+comparePrice: 20 EUR
+inStock: true
 ---
 
 Está [Levi s Graphic Set-In Neck  Camiseta para Hombre  Gris  C18976 Graphic H215 Midtone Htr Grey Graphic H215-Hm 36.2 138   X-Small](https://www.amazon.com/dp/B00WU5RBAK/?tag=redken08-20) por 11.63 EUR (original: 20 EUR) en el siguiente enlace!

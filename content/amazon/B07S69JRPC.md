@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07S69JRPC
 description:
+actualPrice: 41.33 EUR
+comparePrice: 140.56 EUR
+inStock: true
 ---
 
 Tienes [Karen Millen Tie Waist Eyelet Trouser Pantalones  Azul  Navy 10   36  Talla del Fabricante: 08  para Mujer](https://www.amazon.com/dp/B07S69JRPC/?tag=redken08-20) a precio de oferta de 41.33 EUR (original: 140.56 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MF8TJV5
 description:
+actualPrice: 22 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Red Dead Redemption 2 Standard Edition [Xbox One] Disk](https://www.amazon.com/dp/B01MF8TJV5/?tag=redken08-20) por 22 EUR (original: 59.99 EUR) en el siguiente enlace!

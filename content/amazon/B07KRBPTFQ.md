@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KRBPTFQ
 description:
+actualPrice: 63.14 EUR
+comparePrice: 109.95 EUR
+inStock: true
 ---
 
 Está [GANT FOOTWEAR Atlanta  Zapatillas para Hombre  Azul  Marine G69   42 EU](https://www.amazon.com/dp/B07KRBPTFQ/?tag=redken08-20) por 63.14 EUR (original: 109.95 EUR) en el siguiente enlace!

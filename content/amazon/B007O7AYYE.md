@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B007O7AYYE
 description:
+actualPrice: 2.89 EUR
+comparePrice: 9.35 EUR
+inStock: true
 ---
 
 Está [Real Techniques  Brocha para Maquillaje Facial  Colores Surtidos](https://www.amazon.com/dp/B007O7AYYE/?tag=redken08-20) por 2.89 EUR (original: 9.35 EUR) en el siguiente enlace!

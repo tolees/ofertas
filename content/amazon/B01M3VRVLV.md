@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M3VRVLV
 description:
+actualPrice: 46.99 EUR
+comparePrice: 92 EUR
+inStock: true
 ---
 
 Tienes [Pepe Jeans Spike Vaqueros  Azul  11oz Streaky Vintage Used   W34/L32 para Hombre](https://www.amazon.com/dp/B01M3VRVLV/?tag=redken08-20) a precio de oferta de 46.99 EUR (original: 92 EUR) en el siguiente enlace!

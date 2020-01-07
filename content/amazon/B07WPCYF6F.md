@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WPCYF6F
 description:
+actualPrice: 26.99 GBP
+comparePrice: 99.99 GBP
+inStock: true
 ---
 
 Tienes [BRIKSMAX Led Lighting Kit for Frozen Elsa s Magical Ice Palace - Compatible with Lego 43172 and 41148 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07WPCYF6F/?tag=redken08-20) a precio de oferta de 26.99 GBP (original: 99.99 GBP) en el siguiente enlace!

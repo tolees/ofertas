@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VM5QHM5
 description:
+actualPrice: 12.39 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [OBEEII Rapunzel Disfraz Niña Carnaval Vestido de Princesa para Navidad Fiesta Halloween Cosplay Costume Rapunzel para Niña 3-4 Años](https://www.amazon.com/dp/B07VM5QHM5/?tag=redken08-20) a 12.39 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07R2JXFVQ
 description:
+actualPrice: 36.54 EUR
+comparePrice: 103.46 EUR
+inStock: true
 ---
 
 Está [Lámpara de escritorio inteligente iHaper DL1: lámpara de mesa LED de 7 W  blanco cálido regulable  ahorro de energía  control de voz Siri  soporte HomeKit  no se requiere concentrador  solo para iOS ](https://www.amazon.com/dp/B07R2JXFVQ/?tag=redken08-20) por 36.54 EUR (original: 103.46 EUR) en el siguiente enlace!

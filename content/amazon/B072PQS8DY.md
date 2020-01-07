@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072PQS8DY
 description:
+actualPrice: 6 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [RED WAGON Zapatillas con Cordones para Niñas  Blanco  White   23 EU](https://www.amazon.com/dp/B072PQS8DY/?tag=redken08-20) a 6 EUR (original: 19.99 EUR) en el siguiente enlace!

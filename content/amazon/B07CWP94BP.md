@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CWP94BP
 description:
+actualPrice: 23.98 EUR
+comparePrice: 49.98 EUR
+inStock: true
 ---
 
 Está [TOUCHBeauty Rizador eléctrico portátil giratorio recargable de la pestaña AG-1218N](https://www.amazon.com/dp/B07CWP94BP/?tag=redken08-20) por 23.98 EUR (original: 49.98 EUR) en el siguiente enlace!

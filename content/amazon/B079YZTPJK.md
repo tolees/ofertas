@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079YZTPJK
 description:
+actualPrice: 189.05 EUR
+comparePrice: 399 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513550](https://www.amazon.com/dp/B079YZTPJK/?tag=redken08-20) a 189.05 EUR (original: 399 EUR) en el siguiente enlace!

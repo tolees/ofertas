@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XCJYQC9
 description:
+actualPrice: 36.57 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Adriel Viola  Zapatos de Tacón para Mujer  Negro  Black Pat   39 EU](https://www.amazon.com/dp/B06XCJYQC9/?tag=redken08-20) a 36.57 EUR (original: 79.95 EUR) en el siguiente enlace!

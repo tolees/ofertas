@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QFWNR8H
 description:
+actualPrice: 11.98 EUR
+comparePrice: 28.99 EUR
+inStock: true
 ---
 
 Está [Simpeak Funda Compatible con Kindle 2019 [5 años de garantía]  Funda Compatible con 10th generacion Kindle 2019 con el Soporte Carcasa Compatible con Nuevo Kindle - Negro](https://www.amazon.com/dp/B07QFWNR8H/?tag=redken08-20) por 11.98 EUR (original: 28.99 EUR) en el siguiente enlace!

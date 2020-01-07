@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07R2K5PXF
 description:
+actualPrice: 24.99 EUR
+comparePrice: 43 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Soporte Vertical Portátil Dual CouHap Aluminium Laptop Stand Ajustable Soporte para PC y MacBook](https://www.amazon.com/dp/B07R2K5PXF/?tag=redken08-20) a 24.99 EUR (original: 43 EUR) en el siguiente enlace!

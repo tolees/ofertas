@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NVDNUIC
 description:
+actualPrice: 10.02 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Está [LEGO Classic - Complementos Creativos de Nuevos Colores  Juguete de Construcción Creativo con Ladillos Coloridos  10694 ](https://www.amazon.com/dp/B00NVDNUIC/?tag=redken08-20) por 10.02 EUR (original: 19.99 EUR) en el siguiente enlace!

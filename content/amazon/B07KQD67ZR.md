@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQD67ZR
 description:
+actualPrice: 58.88 EUR
+comparePrice: 159.95 EUR
+inStock: true
 ---
 
 Tienes [Salomon XA Pro 3D GTX W  Zapatillas de Trail Running para Mujer  Rojo  Deep Claret/Syrah/Coral Almond   36 EU](https://www.amazon.com/dp/B07KQD67ZR/?tag=redken08-20) a precio de oferta de 58.88 EUR (original: 159.95 EUR) en el siguiente enlace!

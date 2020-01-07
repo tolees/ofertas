@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BR7DRT5
 description:
+actualPrice: 29.95 EUR
+comparePrice: 59.9 EUR
+inStock: true
 ---
 
 Tienes [Precision LNFS 18](https://www.amazon.com/dp/B07BR7DRT5/?tag=redken08-20) a precio de oferta de 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

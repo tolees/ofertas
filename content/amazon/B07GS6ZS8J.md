@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GS6ZS8J
 description:
+actualPrice: 42.39 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Tienes [Logitech G502 HERO High-Performance Gaming Maus  HERO 16000 DPI Optischer Sensor  RGB-Beleuchtung  Gewichtstuning  11 Programmierbare Tasten  Benutzerdefinierte Spielprofile  PC/Mac - EU-Verpackung](https://www.amazon.com/dp/B07GS6ZS8J/?tag=redken08-20) a precio de oferta de 42.39 EUR (original: 89.99 EUR) en el siguiente enlace!

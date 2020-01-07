@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LZO1O9C
 description:
+actualPrice: 81.32 EUR
+comparePrice: 150 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Orient Reloj Analógico para Mujer de Automático con Correa en Acero Inoxidable FAB00009C9](https://www.amazon.com/dp/B01LZO1O9C/?tag=redken08-20) a 81.32 EUR (original: 150 EUR) en el siguiente enlace!

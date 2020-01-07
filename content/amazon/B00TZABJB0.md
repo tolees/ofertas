@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TZABJB0
 description:
+actualPrice: 13.99 EUR
+comparePrice: 23.89 EUR
+inStock: true
 ---
 
 Está [Kempa Emotion Classic Chaqueta De Chandal De Punto  Hombre  Azur/Blanco  XXXL](https://www.amazon.com/dp/B00TZABJB0/?tag=redken08-20) por 13.99 EUR (original: 23.89 EUR) en el siguiente enlace!

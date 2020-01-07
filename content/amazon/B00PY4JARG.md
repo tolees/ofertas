@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00PY4JARG
 description:
+actualPrice: 12.49 EUR
+comparePrice: 25.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [KRISP 6488-NVY-18  Vestido Corto Fruncido Busto  Azul Marino  6488   46](https://www.amazon.com/dp/B00PY4JARG/?tag=redken08-20) a 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!

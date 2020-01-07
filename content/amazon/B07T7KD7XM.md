@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07T7KD7XM
 description:
+actualPrice: 9.25 EUR
+comparePrice: 13.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Arena Cruiser EVO Goggles  Adultos Unisex  Clear-Blue  TU](https://www.amazon.com/dp/B07T7KD7XM/?tag=redken08-20) a 9.25 EUR (original: 13.99 EUR) en el siguiente enlace!

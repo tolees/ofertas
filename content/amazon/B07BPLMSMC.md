@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BPLMSMC
 description:
+actualPrice: 25 GBP
+comparePrice: 38 GBP
+inStock: true
 ---
 
 Tienes [Jura 10 Year Old Single Malt Whisky  70 cl](https://www.amazon.com/dp/B07BPLMSMC/?tag=redken08-20) a precio de oferta de 25 GBP (original: 38 GBP) en el siguiente enlace!

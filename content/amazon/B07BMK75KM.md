@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BMK75KM
 description:
+actualPrice: 13.41 EUR
+comparePrice: 24.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Fantasy Flight Games- Soldados de Asalto  FFSWL07 ](https://www.amazon.com/dp/B07BMK75KM/?tag=redken08-20) a 13.41 EUR (original: 24.95 EUR) en el siguiente enlace!

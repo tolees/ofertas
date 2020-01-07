@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GF95ZFB
 description:
+actualPrice: 77 EUR
+comparePrice: 139 EUR
+inStock: true
 ---
 
 Está [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Cuero F20407/1](https://www.amazon.com/dp/B07GF95ZFB/?tag=redken08-20) por 77 EUR (original: 139 EUR) en el siguiente enlace!

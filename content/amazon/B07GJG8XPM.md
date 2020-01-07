@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'B07GJG8XPM - Ofertón en Amazon para Acer TravelMate X3410  TMX3410-MG-50LB  '
+title: 'B07GJG8XPM: Rebaja en Acer TravelMate X3410  TMX3410-MG-50LB   en Amazon'
 date: 2019/12/22 13:49:34 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41ivFwzQyUL._SL200_.jpg'
 comments: true
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41ivFwzQyUL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GJG8XPM
 description:
+actualPrice: 356 EUR
+comparePrice: 999 EUR
+inStock: true
 ---
 
-Tienes [Acer TravelMate X3410  TMX3410-MG-50LB  35 6 cm  14 Zoll Full-HD IPS matt  Office Laptop  Intel Core i5-8250U  8 GB RAM  512 GB SSD  NVIDIA GeForce MX130  Win 10 Home  schwarz](https://www.amazon.com/dp/B07GJG8XPM/?tag=redken08-20) a precio de oferta de 356 EUR (original: 999 EUR) en el siguiente enlace!
+Está [Acer TravelMate X3410  TMX3410-MG-50LB  35 6 cm  14 Zoll Full-HD IPS matt  Office Laptop  Intel Core i5-8250U  8 GB RAM  512 GB SSD  NVIDIA GeForce MX130  Win 10 Home  schwarz](https://www.amazon.com/dp/B07GJG8XPM/?tag=redken08-20) por 356 EUR (original: 999 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ivFwzQyUL._SL200_.jpg)](https://www.amazon.com/dp/B07GJG8XPM/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07GJG8XPM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07GJG8XPM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DDDJMNC
 description:
+actualPrice: 49.59 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Está [Furreal Friends Hasbro E0388105 - Lolo  Mi Loro Molón](https://www.amazon.com/dp/B07DDDJMNC/?tag=redken08-20) por 49.59 EUR (original: 79.95 EUR) en el siguiente enlace!

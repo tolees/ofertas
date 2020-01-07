@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0744KNXQF
 description:
+actualPrice: 53.49 EUR
+comparePrice: 79.9 EUR
+inStock: true
 ---
 
 Tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Negro  Denim 11Oz Stay Black S92   W30/L34](https://www.amazon.com/dp/B0744KNXQF/?tag=redken08-20) a precio de oferta de 53.49 EUR (original: 79.9 EUR) en el siguiente enlace!

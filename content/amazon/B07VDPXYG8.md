@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VDPXYG8
 description:
+actualPrice: 17.8 EUR
+comparePrice: 26.7 EUR
+inStock: true
 ---
 
 Está [CONTROL Kit de 3 geles 2in1 Masajes & Lubricante: Gel 2in1 Exotic Escape 200 ml + Gel 2in1 Thai Passion 200 ml + Gel 2in1 Madagascar Sweatness 200 ml  crea un agradable efecto calor  600 ml](https://www.amazon.com/dp/B07VDPXYG8/?tag=redken08-20) por 17.8 EUR (original: 26.7 EUR) en el siguiente enlace!

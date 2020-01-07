@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MSK8HDC
 description:
+actualPrice: 40.7 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Está [Clarks Grandin Top  Botas Clasicas para Hombre  Marrón  Tan Tumbled Tan Tumbled   44.5 EU](https://www.amazon.com/dp/B07MSK8HDC/?tag=redken08-20) por 40.7 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074TGFML6
 description:
+actualPrice: 48.49 EUR
+comparePrice: 109 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Parrot Mambo Fly - Dron cuadricóptero  30 Km/h  8 minutos de vuelo  programable ](https://www.amazon.com/dp/B074TGFML6/?tag=redken08-20) a 48.49 EUR (original: 109 EUR) en el siguiente enlace!

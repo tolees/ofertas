@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078SYPTXQ
 description:
+actualPrice: 93.76 EUR
+comparePrice: 149.95 EUR
+inStock: true
 ---
 
 Tienes [Salomon Speedcross 4 GTX W  Zapatillas de Trail Running para Mujer  Verde  Balsam Green/Tropical Green/Beach G   36 EU](https://www.amazon.com/dp/B078SYPTXQ/?tag=redken08-20) a precio de oferta de 93.76 EUR (original: 149.95 EUR) en el siguiente enlace!

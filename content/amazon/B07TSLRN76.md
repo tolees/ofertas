@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TSLRN76
 description:
+actualPrice: 24.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [PUTUO Chaqueta Vaquera Niña Chaqueta de Jeans con Capucha  Chaqueta Vaquera Niños Chaqueta de Mezclilla Básica Denim Abrigos  2-3 años](https://www.amazon.com/dp/B07TSLRN76/?tag=redken08-20) por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

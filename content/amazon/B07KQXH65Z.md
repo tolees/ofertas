@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQXH65Z
 description:
+actualPrice: 132.95 EUR
+comparePrice: 199.99 EUR
+inStock: true
 ---
 
 Está [HyperX HX-HSCAM-GM Cloud Mix - Cascos de Gaming con Cable y Bluetooth](https://www.amazon.com/dp/B07KQXH65Z/?tag=redken08-20) por 132.95 EUR (original: 199.99 EUR) en el siguiente enlace!

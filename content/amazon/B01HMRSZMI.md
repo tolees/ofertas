@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HMRSZMI
 description:
+actualPrice: 15.49 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [The North Face S/S Simple Dome H Camiseta de Manga Corta  Hombre  Gris  TNF Medium Grey Heather   L](https://www.amazon.com/dp/B01HMRSZMI/?tag=redken08-20) a 15.49 EUR (original: 25 EUR) en el siguiente enlace!

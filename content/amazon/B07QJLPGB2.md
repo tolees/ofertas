@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QJLPGB2
 description:
+actualPrice: 28.68 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Puma Reactive Chaqueta De Entrenamiento  Hombre  Azul  Peacoat-Blue Turquoise White   XL](https://www.amazon.com/dp/B07QJLPGB2/?tag=redken08-20) a 28.68 EUR (original: 89.95 EUR) en el siguiente enlace!

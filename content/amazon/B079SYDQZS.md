@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079SYDQZS
 description:
+actualPrice: 19.94 EUR
+comparePrice: 32.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bizak- Collector Toilet  61928805 ](https://www.amazon.com/dp/B079SYDQZS/?tag=redken08-20) a 19.94 EUR (original: 32.95 EUR) en el siguiente enlace!

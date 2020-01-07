@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GWT7DDD
 description:
+actualPrice: 12.94 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajuste Regular para Hombre M](https://www.amazon.com/dp/B07GWT7DDD/?tag=redken08-20) a 12.94 EUR (original: 29.99 EUR) en el siguiente enlace!

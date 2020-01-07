@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JPDDC6L
 description:
+actualPrice: 19.99 EUR
+comparePrice: 69 EUR
+inStock: true
 ---
 
 Está [DAM. DMX196BKCorrea Diseño Flores De Piel Sintética Iwatch 42Mm / 44Mm. Hebilla Y Enganche Metálicos. Compatible Series 1  2  3  Y 4. Negro](https://www.amazon.com/dp/B07JPDDC6L/?tag=redken08-20) por 19.99 EUR (original: 69 EUR) en el siguiente enlace!

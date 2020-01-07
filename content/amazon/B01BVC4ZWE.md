@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BVC4ZWE
 description:
+actualPrice: 17 EUR
+comparePrice: 29 EUR
+inStock: true
 ---
 
 Está [Christopeit Türreck Klimmzugstange  1688](https://www.amazon.com/dp/B01BVC4ZWE/?tag=redken08-20) por 17 EUR (original: 29 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MQ2GHZV
 description:
+actualPrice: 59.95 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [Clarks Un Costa Lace  Zapatos de Cordones Derby para Hombre  Marrón Ox-Blood Leather  42 EU](https://www.amazon.com/dp/B07MQ2GHZV/?tag=redken08-20) a precio de oferta de 59.95 EUR (original: 99.95 EUR) en el siguiente enlace!

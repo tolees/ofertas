@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01GRE7W9O
 description:
+actualPrice: 69.99 EUR
+comparePrice: 115 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Logitech C925E Pro - Cámara Web  Full HD 1080p  Enfoque automático  USB  micrófonos omnidireccionales  Color Negro](https://www.amazon.com/dp/B01GRE7W9O/?tag=redken08-20) a 69.99 EUR (original: 115 EUR) en el siguiente enlace!

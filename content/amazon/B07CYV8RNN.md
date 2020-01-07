@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CYV8RNN
 description:
+actualPrice: 28.3 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Skechers Flex Appeal 3.0-Endless Glamo  Zapatillas para Mujer  Negro  Black Mint Bkmt   37.5 EU](https://www.amazon.com/dp/B07CYV8RNN/?tag=redken08-20) a 28.3 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0792LLFLD
 description:
+actualPrice: 29.27 GBP
+comparePrice: 120 GBP
+inStock: true
 ---
 
 Tienes [Geox Women s D Asheely D Biker Boots   Black C9999   4 UK](https://www.amazon.com/dp/B0792LLFLD/?tag=redken08-20) a precio de oferta de 29.27 GBP (original: 120 GBP) en el siguiente enlace!

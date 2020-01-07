@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HHJC8K7
 description:
+actualPrice: 484 EUR
+comparePrice: 1349 EUR
+inStock: true
 ---
 
 Está [Microsoft Surface Pro 6  31 25 cm  12 3 Zoll  2-in-1 Tablet  Intel Core i5  8GB RAM  256GB SSD  Win 10 Home  Platin](https://www.amazon.com/dp/B07HHJC8K7/?tag=redken08-20) por 484 EUR (original: 1349 EUR) en el siguiente enlace!

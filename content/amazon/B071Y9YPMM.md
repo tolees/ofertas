@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071Y9YPMM
 description:
+actualPrice: 57.04 GBP
+comparePrice: 170 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Philips Series 5000 Wet and Dry Men s Electric Shaver with Turbo Plus Mode - S5530/06  UK 2-Pin Bathroom Plug ](https://www.amazon.com/dp/B071Y9YPMM/?tag=redken08-20) a 57.04 GBP (original: 170 GBP) en el siguiente enlace!

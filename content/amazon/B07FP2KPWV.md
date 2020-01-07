@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FP2KPWV
 description:
+actualPrice: 19.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [LEGO Technic 42092 - Rettungshubschrauber  Spielzeug](https://www.amazon.com/dp/B07FP2KPWV/?tag=redken08-20) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06W2JLYG5
 description:
+actualPrice: 6.99 EUR
+comparePrice: 14.89 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [iiniim Falda 10 años para Chicas Blue 8 Years](https://www.amazon.com/dp/B06W2JLYG5/?tag=redken08-20) a 6.99 EUR (original: 14.89 EUR) en el siguiente enlace!

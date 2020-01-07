@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B016UBXH3O
 description:
+actualPrice: 17.99 EUR
+comparePrice: 26.99 EUR
+inStock: true
 ---
 
 Tienes [UGREEN Adaptador de USB 3.0 a SATA III con UASP Integrado Cable SATA para 3.5" y 2.5" Discos Duros HDD SDD  16 TB MAX  12V Adaptador de Corriente Incluido ](https://www.amazon.com/dp/B016UBXH3O/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 26.99 EUR) en el siguiente enlace!

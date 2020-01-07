@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GFK4FKC
 description:
+actualPrice: 29.14 EUR
+comparePrice: 52.45 EUR
+inStock: true
 ---
 
 Tienes [P Prettyia 1080P HD 1.5    Pantalla Mini Cámara Digital Linda de Dibujos Animados SLR - Rosa](https://www.amazon.com/dp/B07GFK4FKC/?tag=redken08-20) a precio de oferta de 29.14 EUR (original: 52.45 EUR) en el siguiente enlace!

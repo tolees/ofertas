@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TIBDGBW
 description:
+actualPrice: 8.25 EUR
+comparePrice: 12.49 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Targus AMM163EU - Stylus para Pantalla táctil y bolígrafo  2 en 1  Negro](https://www.amazon.com/dp/B00TIBDGBW/?tag=redken08-20) a 8.25 EUR (original: 12.49 EUR) en el siguiente enlace!

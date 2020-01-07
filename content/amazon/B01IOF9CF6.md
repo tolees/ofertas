@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01IOF9CF6
 description:
+actualPrice: 11.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Brazalete deportivo Para Correr Prueba de Sudor Apoyo Gimnasio Deportivo Brazo Banda Armband soporte para llaves cables y tarjetas para iPhone 8/7/6 Galaxy S9/S8 Huawei Bq x5 HTC  LG hasta 5.2 pulgas](https://www.amazon.com/dp/B01IOF9CF6/?tag=redken08-20) a 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

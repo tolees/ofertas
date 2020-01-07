@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01DJ0J3MS
 description:
+actualPrice: 20.89 EUR
+comparePrice: 35.4 EUR
+inStock: true
 ---
 
 Tienes [2 Linterna LED Acampada portátil luz Intermitente Exteriores-Brillante Magnética](https://www.amazon.com/dp/B01DJ0J3MS/?tag=redken08-20) a precio de oferta de 20.89 EUR (original: 35.4 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01FFNDV0C
 description:
+actualPrice: 18.99 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Tienes [Under Armour HG Armour 2.0 Legging Leggings  Hombre  Negro  Black/Graphite 001   S](https://www.amazon.com/dp/B01FFNDV0C/?tag=redken08-20) a precio de oferta de 18.99 EUR (original: 40 EUR) en el siguiente enlace!

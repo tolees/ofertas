@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00UKH27RW
 description:
+actualPrice: 5.31 EUR
+comparePrice: 8.95 EUR
+inStock: true
 ---
 
 Tienes [Clementoni - Puzzle 3 x 48  Avengers  252039 ](https://www.amazon.com/dp/B00UKH27RW/?tag=redken08-20) a precio de oferta de 5.31 EUR (original: 8.95 EUR) en el siguiente enlace!

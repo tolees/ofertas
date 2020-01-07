@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00XD2NAYU
 description:
+actualPrice: 44.95 EUR
+comparePrice: 76 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pepe Jeans Spike Vaqueros  Azul  11OZ STREAKY STRETCH MED   W36/L32 para Hombre](https://www.amazon.com/dp/B00XD2NAYU/?tag=redken08-20) a 44.95 EUR (original: 76 EUR) en el siguiente enlace!

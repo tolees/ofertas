@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GWQY1L2
 description:
+actualPrice: 19.99 EUR
+comparePrice: 36 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [NNJXD Partido del Unicornio Flor de Las Muchachas del Traje de Cosplay de la Boda de Halloween de fantasía de Princesa Dress + del Mismo tamaño Gorras  100  3-4 Años Azul](https://www.amazon.com/dp/B07GWQY1L2/?tag=redken08-20) a 19.99 EUR (original: 36 EUR) en el siguiente enlace!

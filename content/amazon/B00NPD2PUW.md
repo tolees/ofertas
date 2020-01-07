@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NPD2PUW
 description:
+actualPrice: 208.45 EUR
+comparePrice: 340 EUR
+inStock: true
 ---
 
 Está [Thomas Earnshaw Smart Watch Armbanduhr ES-8006-03](https://www.amazon.com/dp/B00NPD2PUW/?tag=redken08-20) por 208.45 EUR (original: 340 EUR) en el siguiente enlace!

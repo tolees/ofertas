@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B002HPVT9M
 description:
+actualPrice: 0.01 GBP
+comparePrice: 24.69 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Cisco RJ45-DB9 - Cable de Red  1 8 m  RJ-45  Gris ](https://www.amazon.com/dp/B002HPVT9M/?tag=redken08-20) a 0.01 GBP (original: 24.69 GBP) en el siguiente enlace!

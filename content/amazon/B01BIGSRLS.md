@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BIGSRLS
 description:
+actualPrice: 322.21 EUR
+comparePrice: 516 EUR
+inStock: true
 ---
 
 Está [WD My Cloud EX2 Ultra NAS Festplatte 8 TB  zentraler Netzwerkspeicher  einfache Installation  zwei Laufwerkschächte  mobiler Zugriff  automatische Backups ](https://www.amazon.com/dp/B01BIGSRLS/?tag=redken08-20) por 322.21 EUR (original: 516 EUR) en el siguiente enlace!

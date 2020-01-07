@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00C3TJV3I
 description:
+actualPrice: 17.49 EUR
+comparePrice: 30.99 EUR
+inStock: true
 ---
 
 Está [Ravensburger tiptoi Dein Körper und Du Spiel  ab 4 Jahren  Das Wissensspiel rund um den menschlichen Körper](https://www.amazon.com/dp/B00C3TJV3I/?tag=redken08-20) por 17.49 EUR (original: 30.99 EUR) en el siguiente enlace!

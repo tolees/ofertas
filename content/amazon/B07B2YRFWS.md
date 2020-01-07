@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B2YRFWS
 description:
+actualPrice: 153.1 EUR
+comparePrice: 245.91 EUR
+inStock: true
 ---
 
 Tienes [Corsair Vengeance RGB - Kit de Memoria Entusiasta de 32 GB  2 x 16 GB  DDR4  3000 MHz  C16  XMP 2.0  Negro](https://www.amazon.com/dp/B07B2YRFWS/?tag=redken08-20) a precio de oferta de 153.1 EUR (original: 245.91 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q14HPKL
 description:
+actualPrice: 6.36 EUR
+comparePrice: 9.95 EUR
+inStock: true
 ---
 
 Tienes [Crossmen Eau de Toilette Sport para Hombre - 200 ml](https://www.amazon.com/dp/B07Q14HPKL/?tag=redken08-20) a precio de oferta de 6.36 EUR (original: 9.95 EUR) en el siguiente enlace!

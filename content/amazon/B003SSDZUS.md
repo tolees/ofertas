@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B003SSDZUS
 description:
+actualPrice: 22.99 GBP
+comparePrice: 37.66 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Sylvanian Families Country Kitchen Set](https://www.amazon.com/dp/B003SSDZUS/?tag=redken08-20) a 22.99 GBP (original: 37.66 GBP) en el siguiente enlace!

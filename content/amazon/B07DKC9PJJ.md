@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DKC9PJJ
 description:
+actualPrice: 21.49 EUR
+comparePrice: 42.11 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Puma ESS Crew Sweat TR Big Logo Sweatshirt  Hombre  Negro Black  L](https://www.amazon.com/dp/B07DKC9PJJ/?tag=redken08-20) a 21.49 EUR (original: 42.11 EUR) en el siguiente enlace!

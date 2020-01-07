@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00W0VCWOY
 description:
+actualPrice: 3.48 GBP
+comparePrice: 7.28 GBP
+inStock: true
 ---
 
 Tienes [Amscan International Frozen Scene Setter](https://www.amazon.com/dp/B00W0VCWOY/?tag=redken08-20) a precio de oferta de 3.48 GBP (original: 7.28 GBP) en el siguiente enlace!

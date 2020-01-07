@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFRJ1GQ
 description:
+actualPrice: 29.33 EUR
+comparePrice: 59.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geox J INEK Boy C  Zapatillas Altas para Niños  Negro  Black/Orange C0038   26 EU](https://www.amazon.com/dp/B07LFRJ1GQ/?tag=redken08-20) a 29.33 EUR (original: 59.9 EUR) en el siguiente enlace!

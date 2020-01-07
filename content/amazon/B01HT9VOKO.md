@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HT9VOKO
 description:
+actualPrice: 5.99 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Kärcher Glasreiniger-Konzentrat RM 503  Volumen: 0 5 l  streifenfreie Reinigung von Glas  Fenster  Spiegel und Duschkabinen ](https://www.amazon.com/dp/B01HT9VOKO/?tag=redken08-20) a 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!

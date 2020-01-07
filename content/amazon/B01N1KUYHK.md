@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1KUYHK
 description:
+actualPrice: 8.39 EUR
+comparePrice: 17.61 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [NIZZIN Eric suéter Azul  Navy  Large](https://www.amazon.com/dp/B01N1KUYHK/?tag=redken08-20) a 8.39 EUR (original: 17.61 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073JDQRFX
 description:
+actualPrice: 11.4 EUR
+comparePrice: 30.4 EUR
+inStock: true
 ---
 
 Tienes [find. D7832 vestido fiesta mujer  Rojo  Rot   46  Talla del Fabricante: XX-Large ](https://www.amazon.com/dp/B073JDQRFX/?tag=redken08-20) a precio de oferta de 11.4 EUR (original: 30.4 EUR) en el siguiente enlace!

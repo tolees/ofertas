@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01KHHC3K0
 description:
+actualPrice: 316 EUR
+comparePrice: 479 EUR
+inStock: true
 ---
 
 Tienes [Yamaha MusicCast R-N402D - Receptor estéreo en Red  WiFi  Bluetooth  Color Negro](https://www.amazon.com/dp/B01KHHC3K0/?tag=redken08-20) a precio de oferta de 316 EUR (original: 479 EUR) en el siguiente enlace!

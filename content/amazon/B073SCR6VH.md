@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073SCR6VH
 description:
+actualPrice: 19.9 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [Rayman Legends: Definitive Edition](https://www.amazon.com/dp/B073SCR6VH/?tag=redken08-20) por 19.9 EUR (original: 29.99 EUR) en el siguiente enlace!

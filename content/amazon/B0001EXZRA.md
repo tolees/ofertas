@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0001EXZRA
 description:
+actualPrice: 16.9 EUR
+comparePrice: 52.42 EUR
+inStock: true
 ---
 
 Tienes [Epson C13T05204010 - Cartucho de tinta  color](https://www.amazon.com/dp/B0001EXZRA/?tag=redken08-20) a precio de oferta de 16.9 EUR (original: 52.42 EUR) en el siguiente enlace!

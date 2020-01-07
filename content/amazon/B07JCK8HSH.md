@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JCK8HSH
 description:
+actualPrice: 99.99 EUR
+comparePrice: 189.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Columbia Alpine Action Chaqueta OH Ski de esquí  Mujer  Rojo  Red Lily 658   M](https://www.amazon.com/dp/B07JCK8HSH/?tag=redken08-20) a 99.99 EUR (original: 189.99 EUR) en el siguiente enlace!

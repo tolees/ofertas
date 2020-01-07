@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005XJQ4NK
 description:
+actualPrice: 19.81 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Está [Eastpak Rusher Bolso bandolera  23 cm  color Negro](https://www.amazon.com/dp/B005XJQ4NK/?tag=redken08-20) por 19.81 EUR (original: 30 EUR) en el siguiente enlace!

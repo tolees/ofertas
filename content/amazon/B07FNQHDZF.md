@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNQHDZF
 description:
+actualPrice: 16.34 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjoriginal Jos 102 STS Vaqueros Slim  Azul  Blue Denim Blue Denim   W34/L34 para Hombre](https://www.amazon.com/dp/B07FNQHDZF/?tag=redken08-20) a 16.34 EUR (original: 69.99 EUR) en el siguiente enlace!

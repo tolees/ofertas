@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QSJHXQ3
 description:
+actualPrice: 19.52 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Nike Downshifter 9  PSV   Zapatillas de Running Unisex Niños  Negro  Black/Black/Anthracite 001   27.5 EU](https://www.amazon.com/dp/B07QSJHXQ3/?tag=redken08-20) a 19.52 EUR (original: 40 EUR) en el siguiente enlace!

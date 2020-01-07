@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VCSWFP4
 description:
+actualPrice: 14.66 EUR
+comparePrice: 29.9 EUR
+inStock: true
 ---
 
 Está [Reebok Boxer para Hombre  Multicolor  Small  pack de 4 ](https://www.amazon.com/dp/B07VCSWFP4/?tag=redken08-20) por 14.66 EUR (original: 29.9 EUR) en el siguiente enlace!

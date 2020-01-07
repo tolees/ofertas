@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079YZD5WS
 description:
+actualPrice: 14.95 EUR
+comparePrice: 26.95 EUR
+inStock: true
 ---
 
 Está [Runbow - Deluxe Edition](https://www.amazon.com/dp/B079YZD5WS/?tag=redken08-20) por 14.95 EUR (original: 26.95 EUR) en el siguiente enlace!

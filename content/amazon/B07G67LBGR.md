@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G67LBGR
 description:
+actualPrice: 139.6 EUR
+comparePrice: 349.0 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK6613](https://www.amazon.com/dp/B07G67LBGR/?tag=redken08-20) a 139.6 EUR (original: 349.0 EUR) en el siguiente enlace!

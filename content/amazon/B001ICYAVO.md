@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001ICYAVO
 description:
+actualPrice: 9.6 EUR
+comparePrice: 32.97 EUR
+inStock: true
 ---
 
 Tienes [WIDMANN Desconocido Disfraz para Adulto](https://www.amazon.com/dp/B001ICYAVO/?tag=redken08-20) a precio de oferta de 9.6 EUR (original: 32.97 EUR) en el siguiente enlace!

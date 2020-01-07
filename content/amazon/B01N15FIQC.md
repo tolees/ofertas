@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N15FIQC
 description:
+actualPrice: 14.97 EUR
+comparePrice: 29.97 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Set de 24 tubos de pinturas acrílicas Zenacolor - Pack de 24 x 12mL - Pinturas de calidad superior  no tóxicas - 24 colores únicos y diferentes](https://www.amazon.com/dp/B01N15FIQC/?tag=redken08-20) a 14.97 EUR (original: 29.97 EUR) en el siguiente enlace!

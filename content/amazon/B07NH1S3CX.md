@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NH1S3CX
 description:
+actualPrice: 40.42 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Barbie FXH15 - Reitspaß Spielset mit Barbie  blond   Chelsea  Pferd und Pony  Puppen Spielzeug ab 3 Jahren](https://www.amazon.com/dp/B07NH1S3CX/?tag=redken08-20) a 40.42 EUR (original: 69.99 EUR) en el siguiente enlace!

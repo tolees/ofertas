@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07S27RZRP
 description:
+actualPrice: 17.95 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Tienes [Nike M Nk Dry tee Db Athlete T-Shirt  Hombre  Game Royal/ Habanero Red   L](https://www.amazon.com/dp/B07S27RZRP/?tag=redken08-20) a precio de oferta de 17.95 EUR (original: 30 EUR) en el siguiente enlace!

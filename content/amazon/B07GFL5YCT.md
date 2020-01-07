@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'B07GFL5YCT - Ofertón en Amazon para Sony WF-SP900W - Auriculares Deportivos '
+title: 'B07GFL5YCT: Rebaja en Sony WF-SP900W - Auriculares Deportivos  en Amazon'
 date: 2019/12/17 08:24:39 +0000
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31JGAkPr89L._SL200_.jpg'
 comments: true
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31JGAkPr89L._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07GFL5YCT
 description:
+actualPrice: 151.3 EUR
+comparePrice: 280 EUR
+inStock: true
 ---
 
-Tienes [Sony WF-SP900W - Auriculares Deportivos Totalmente inalámbricos  Bluetooth  4GB  Resistente al Agua y Polvo IP65/IP68  Modo de Sonido ambientez  12h de autonomía con Bluetooth y 21 Interna  Blanco](https://www.amazon.com/dp/B07GFL5YCT/?tag=redken08-20) a precio de oferta de 151.3 EUR (original: 280 EUR) en el siguiente enlace!
+Está [Sony WF-SP900W - Auriculares Deportivos Totalmente inalámbricos  Bluetooth  4GB  Resistente al Agua y Polvo IP65/IP68  Modo de Sonido ambientez  12h de autonomía con Bluetooth y 21 Interna  Blanco](https://www.amazon.com/dp/B07GFL5YCT/?tag=redken08-20) por 151.3 EUR (original: 280 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31JGAkPr89L._SL200_.jpg)](https://www.amazon.com/dp/B07GFL5YCT/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07GFL5YCT/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07GFL5YCT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

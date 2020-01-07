@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PDHSPYD
 description:
+actualPrice: 29.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Echo Dot  3.ª generación  - Altavoz inteligente con Alexa  tela de color gris oscuro](https://www.amazon.com/dp/B07PDHSPYD/?tag=redken08-20) a 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

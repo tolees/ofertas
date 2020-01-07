@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L9L8YWD
 description:
+actualPrice: 36.87 EUR
+comparePrice: 119 EUR
+inStock: true
 ---
 
 Está [Lacoste Straightset 319 2 Cfa  Zapatillas para Mujer  Blanco Off White 18c  40.5 EU](https://www.amazon.com/dp/B07L9L8YWD/?tag=redken08-20) por 36.87 EUR (original: 119 EUR) en el siguiente enlace!

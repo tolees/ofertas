@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01GO6YAOA
 description:
+actualPrice: 6.95 EUR
+comparePrice: 14.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Energy Sistem Phone Cover Pro 4G  Funda Smartphone Exclusiva Phone Pro 4G  Azul Navy](https://www.amazon.com/dp/B01GO6YAOA/?tag=redken08-20) a 6.95 EUR (original: 14.9 EUR) en el siguiente enlace!

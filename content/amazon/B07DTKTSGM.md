@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DTKTSGM
 description:
+actualPrice: 5 EUR
+comparePrice: 8.99 EUR
+inStock: true
 ---
 
 Está [AmazonBasics - Cable de conector Lightning a USB A para iPhone y iPad - 1 8 m - 1 unidad  Azul](https://www.amazon.com/dp/B07DTKTSGM/?tag=redken08-20) por 5 EUR (original: 8.99 EUR) en el siguiente enlace!

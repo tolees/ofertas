@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DWD58FZ
 description:
+actualPrice: 4 GBP
+comparePrice: 7.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [AmazonBasics USB A Cable with Lightning Connector  Premium Collection - 3 Feet  0.9 Meters  - Single - Blue](https://www.amazon.com/dp/B07DWD58FZ/?tag=redken08-20) a 4 GBP (original: 7.99 GBP) en el siguiente enlace!

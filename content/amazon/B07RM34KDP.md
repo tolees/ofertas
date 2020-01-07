@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RM34KDP
 description:
+actualPrice: 18.99 EUR
+comparePrice: 28.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [AGPTEK Candado Disco Moto con 1.5M Cable de Recordatorio  Candado Bloqueo 7mm con Alarma 110DB Antirrobo para Motos  Motocicletas  Bicicletas  Verde](https://www.amazon.com/dp/B07RM34KDP/?tag=redken08-20) a 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!

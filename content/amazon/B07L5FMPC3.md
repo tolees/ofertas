@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L5FMPC3
 description:
+actualPrice: 80.74 EUR
+comparePrice: 140 EUR
+inStock: true
 ---
 
 Está [ECCO Damen Soft 8 W Sneaker  Violett  Fig Metallic 51485   37 EU](https://www.amazon.com/dp/B07L5FMPC3/?tag=redken08-20) por 80.74 EUR (original: 140 EUR) en el siguiente enlace!

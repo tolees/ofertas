@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079FXP2KV
 description:
+actualPrice: 16.44 EUR
+comparePrice: 59.9 EUR
+inStock: true
 ---
 
 Tienes [Samsung Clear View Standing Cover  EF-ZG960  für das Galaxy S9  Violett](https://www.amazon.com/dp/B079FXP2KV/?tag=redken08-20) a precio de oferta de 16.44 EUR (original: 59.9 EUR) en el siguiente enlace!

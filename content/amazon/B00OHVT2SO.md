@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00OHVT2SO
 description:
+actualPrice: 39.99 EUR
+comparePrice: 79 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Marshall Mode EQ - Auriculares in-ear  color negro](https://www.amazon.com/dp/B00OHVT2SO/?tag=redken08-20) a 39.99 EUR (original: 79 EUR) en el siguiente enlace!

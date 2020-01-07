@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QJ1MN5H
 description:
+actualPrice: 12.2 EUR
+comparePrice: 23.09 EUR
+inStock: true
 ---
 
 Está [New Look Jane Twill Falda  Negro  Black 1   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.com/dp/B07QJ1MN5H/?tag=redken08-20) por 12.2 EUR (original: 23.09 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KRZ5NKF
 description:
+actualPrice: 34.49 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
 Está [ETNAB|#Etnies Jameson 2 Eco  Zapatillas de Skateboard para Hombre  069/Dark Grey/White/Gum 069  9.5 EU](https://www.amazon.com/dp/B07KRZ5NKF/?tag=redken08-20) por 34.49 EUR (original: 75 EUR) en el siguiente enlace!

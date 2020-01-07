@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QGWMLNX
 description:
+actualPrice: 30.95 EUR
+comparePrice: 83.95 EUR
+inStock: true
 ---
 
 Está [Calcetines de Senderismo de Lana Merino 3 pares  Multicolor: Marrón  Verde  Rojo  EU 31-34 ](https://www.amazon.com/dp/B07QGWMLNX/?tag=redken08-20) por 30.95 EUR (original: 83.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JM59JBS
 description:
+actualPrice: 31.83 EUR
+comparePrice: 54.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Playmobil 70179 1.2.3 Meine erste Eisenbahn  bunt](https://www.amazon.com/dp/B07JM59JBS/?tag=redken08-20) a 31.83 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BGSPC6M
 description:
+actualPrice: 15.49 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [EIVOTOR Velocimetro Bicicleta Cuentakilómetros Ciclocomputadores Inalámbrico Impermeable Odómetro Bicicleta Ciclocomputador Ordenador Ciclismo con Pantalla retroiluminada Distancia Seguimiento  Negro](https://www.amazon.com/dp/B07BGSPC6M/?tag=redken08-20) a 15.49 EUR (original: 29.99 EUR) en el siguiente enlace!

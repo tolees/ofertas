@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HPY5YF5
 description:
+actualPrice: 2.99 GBP
+comparePrice: 9 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Funko 34842 POP Vinyl: Fortnite: Love Ranger  Multi](https://www.amazon.com/dp/B07HPY5YF5/?tag=redken08-20) a 2.99 GBP (original: 9 GBP) en el siguiente enlace!

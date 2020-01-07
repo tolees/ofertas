@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QPR8M9C
 description:
+actualPrice: 49.99 EUR
+comparePrice: 159.99 EUR
+inStock: true
 ---
 
 Está [Nivel Láser Autonivelante Verde LOMVUM LL-DR2-G2 Nivelador de láser Líneas 30M con Base Magnética Flexible  2 Baterías](https://www.amazon.com/dp/B07QPR8M9C/?tag=redken08-20) por 49.99 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TZR9CBV
 description:
+actualPrice: 56.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [Herramientas oscilantes  GALAX PRO 400W Eléctricas Herramienta Multifunción Oscilantes  6 Velocidad Variable 15000-22000RPM  Accesorios Ricos](https://www.amazon.com/dp/B07TZR9CBV/?tag=redken08-20) por 56.99 EUR (original: 99.99 EUR) en el siguiente enlace!

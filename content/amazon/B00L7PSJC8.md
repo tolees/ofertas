@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00L7PSJC8
 description:
+actualPrice: 5.85 EUR
+comparePrice: 8.95 EUR
+inStock: true
 ---
 
 Tienes [Nasalmer Bebés Spray Contra la Congestión Nasal - Solucipertónica 125 mlón Hi](https://www.amazon.com/dp/B00L7PSJC8/?tag=redken08-20) a precio de oferta de 5.85 EUR (original: 8.95 EUR) en el siguiente enlace!

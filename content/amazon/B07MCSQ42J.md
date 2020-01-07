@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MCSQ42J
 description:
+actualPrice: 81.69 EUR
+comparePrice: 129 EUR
+inStock: true
 ---
 
 Tienes [Napapijri TERRES Sudadera  Verde  Green Forest 2 GE3   M para Hombre](https://www.amazon.com/dp/B07MCSQ42J/?tag=redken08-20) a precio de oferta de 81.69 EUR (original: 129 EUR) en el siguiente enlace!

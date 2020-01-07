@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075QL5LRY
 description:
+actualPrice: 10.5 EUR
+comparePrice: 27.56 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [MERAKI Vaqueros Skinny Hombre  Azul  Light Blue   W34/L32](https://www.amazon.com/dp/B075QL5LRY/?tag=redken08-20) a 10.5 EUR (original: 27.56 EUR) en el siguiente enlace!

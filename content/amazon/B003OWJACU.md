@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B003OWJACU
 description:
+actualPrice: 25.5 EUR
+comparePrice: 41.9 EUR
+inStock: true
 ---
 
 Está [Lékué - Estuche de vapor con bandeja  3-4 personas  color verde](https://www.amazon.com/dp/B003OWJACU/?tag=redken08-20) por 25.5 EUR (original: 41.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HZM8COG
 description:
+actualPrice: 219.96 EUR
+comparePrice: 1692.91 EUR
+inStock: true
 ---
 
 Está [Pulsar Reloj Digital Analógico Unisex con Correa de Chapado En Acero Inoxidable - PQ2057X1](https://www.amazon.com/dp/B01HZM8COG/?tag=redken08-20) por 219.96 EUR (original: 1692.91 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CZSM4LJ
 description:
+actualPrice: 17.99 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Tienes [Under Armour Favorite Legging WM Ar Leggings  Mujer  Gris  Pitch Gray Medium Heather/Black 012   S](https://www.amazon.com/dp/B07CZSM4LJ/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 35 EUR) en el siguiente enlace!

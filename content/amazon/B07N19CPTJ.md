@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N19CPTJ
 description:
+actualPrice: 10.98 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Está [Lee Logo tee  Camiseta para Hombre  Rojo  Warp Red Kg   Medium](https://www.amazon.com/dp/B07N19CPTJ/?tag=redken08-20) por 10.98 EUR (original: 25 EUR) en el siguiente enlace!

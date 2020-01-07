@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00BBX9LZ0
 description:
+actualPrice: 7.5 EUR
+comparePrice: 12.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Inter Home - Funda organizadora de zapatos  para debajo de la cama](https://www.amazon.com/dp/B00BBX9LZ0/?tag=redken08-20) a 7.5 EUR (original: 12.99 EUR) en el siguiente enlace!

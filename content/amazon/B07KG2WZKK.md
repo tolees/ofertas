@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG2WZKK
 description:
+actualPrice: 23.13 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PUMA Cilia Lux  Zapatillas para Mujer  Bridal Rose Silver-Pastel Parchment  40 EU](https://www.amazon.com/dp/B07KG2WZKK/?tag=redken08-20) a 23.13 EUR (original: 64.95 EUR) en el siguiente enlace!

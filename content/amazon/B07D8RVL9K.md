@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D8RVL9K
 description:
+actualPrice: 13.89 EUR
+comparePrice: 83.13 EUR
+inStock: true
 ---
 
 Tienes [Famhome - Cinturón elástico de cintura para mujer  estilo vintage Dorado Bright Belt-beige 90](https://www.amazon.com/dp/B07D8RVL9K/?tag=redken08-20) a precio de oferta de 13.89 EUR (original: 83.13 EUR) en el siguiente enlace!

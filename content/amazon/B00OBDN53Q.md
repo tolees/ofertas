@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00OBDN53Q
 description:
+actualPrice: 10.15 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Tienes [adidas Lange Trainingshose Core 15 Pantalón  Hombre  Negro  XXL](https://www.amazon.com/dp/B00OBDN53Q/?tag=redken08-20) a precio de oferta de 10.15 EUR (original: 35 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F8NHRMY
 description:
+actualPrice: 32.89 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [Toki Retrocollector Edition](https://www.amazon.com/dp/B07F8NHRMY/?tag=redken08-20) por 32.89 EUR (original: 49.99 EUR) en el siguiente enlace!

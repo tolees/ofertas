@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G4MYNQ7
 description:
+actualPrice: 129 EUR
+comparePrice: 279 EUR
+inStock: true
 ---
 
 Tienes [Michael Kors Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3927](https://www.amazon.com/dp/B07G4MYNQ7/?tag=redken08-20) a precio de oferta de 129 EUR (original: 279 EUR) en el siguiente enlace!

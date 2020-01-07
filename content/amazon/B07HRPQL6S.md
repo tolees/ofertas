@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HRPQL6S
 description:
+actualPrice: 8 GBP
+comparePrice: 13.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [L.O.L. Surprise! 557128 L.O.L. Surprise Fuzzy Pets Ball-Series 5-2A  Multicolour](https://www.amazon.com/dp/B07HRPQL6S/?tag=redken08-20) a 8 GBP (original: 13.99 GBP) en el siguiente enlace!

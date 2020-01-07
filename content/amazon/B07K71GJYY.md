@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K71GJYY
 description:
+actualPrice: 45.22 EUR
+comparePrice: 79.2 EUR
+inStock: true
 ---
 
 Tienes [Levi s 502 Regular Taper Vaqueros  Azul  Make Warp Cool 0294   32W / 32L para Hombre](https://www.amazon.com/dp/B07K71GJYY/?tag=redken08-20) a precio de oferta de 45.22 EUR (original: 79.2 EUR) en el siguiente enlace!

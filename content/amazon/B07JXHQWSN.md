@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JXHQWSN
 description:
+actualPrice: 26.66 GBP
+comparePrice: 39.99 GBP
+inStock: true
 ---
 
 Está [Playmobil 70012 Western Take Along Western City](https://www.amazon.com/dp/B07JXHQWSN/?tag=redken08-20) por 26.66 GBP (original: 39.99 GBP) en el siguiente enlace!

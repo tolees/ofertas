@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00XUKNJ14
 description:
+actualPrice: 3.02 GBP
+comparePrice: 4.75 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Disney Frozen 46840 Party Masks  Blue](https://www.amazon.com/dp/B00XUKNJ14/?tag=redken08-20) a 3.02 GBP (original: 4.75 GBP) en el siguiente enlace!

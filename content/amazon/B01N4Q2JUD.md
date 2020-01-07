@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N4Q2JUD
 description:
+actualPrice: 4.5 GBP
+comparePrice: 8 GBP
+inStock: true
 ---
 
 Está [Lego 30522 The Batman Movie Exclusive Polybag Batman in the Phantom Zone](https://www.amazon.com/dp/B01N4Q2JUD/?tag=redken08-20) por 4.5 GBP (original: 8 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XGHZXDY
 description:
+actualPrice: 26.99 EUR
+comparePrice: 53.98 EUR
+inStock: true
 ---
 
 Está [Ayete Smartwatch Fitness Tracker con frecuencia cardíaca Monitoreo de la presión Arterial Salud Deporte Reloj Impermeable IP67 Reloj de Pulsera Cámara remota Pulsera Inteligente  Azul ](https://www.amazon.com/dp/B07XGHZXDY/?tag=redken08-20) por 26.99 EUR (original: 53.98 EUR) en el siguiente enlace!

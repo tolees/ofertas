@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G9G3SWN
 description:
+actualPrice: 4.99 EUR
+comparePrice: 7.98 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Joma Camisetas Señora  Mujer  Siena Magenta  M](https://www.amazon.com/dp/B07G9G3SWN/?tag=redken08-20) a 4.99 EUR (original: 7.98 EUR) en el siguiente enlace!

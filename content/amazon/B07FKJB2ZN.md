@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FKJB2ZN
 description:
+actualPrice: 29.99 EUR
+comparePrice: 45.99 EUR
+inStock: true
 ---
 
 Tienes [Victure 1080P Cámara IP WiFi Cámara de Vigilancia FHD con Visión Nocturna Cámara de Mascota Detección de Movimiento Audio de 2 Vías  2.4GHz WiFi  Compatible con iOS/Android](https://www.amazon.com/dp/B07FKJB2ZN/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

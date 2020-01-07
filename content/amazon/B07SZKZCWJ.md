@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SZKZCWJ
 description:
+actualPrice: 10.99 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Está [IWAVION Cable Lightning 3ft/1m 4pack Cable iPhone Cargador iPhone Carga Rápida Nylon Trenzado Cable Lightning Compatible con iPhone XS MAX XR XS X 8 7 6 6S Plus SE 5S 5C 5  iPad Mini/Air  iPod](https://www.amazon.com/dp/B07SZKZCWJ/?tag=redken08-20) por 10.99 EUR (original: 24.99 EUR) en el siguiente enlace!

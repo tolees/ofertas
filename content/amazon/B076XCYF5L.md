@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076XCYF5L
 description:
+actualPrice: 19.56 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Está [Geox J Sveth A  Zapatillas para Niños  Azul  Navy/Grey   25 EU](https://www.amazon.com/dp/B076XCYF5L/?tag=redken08-20) por 19.56 EUR (original: 55 EUR) en el siguiente enlace!

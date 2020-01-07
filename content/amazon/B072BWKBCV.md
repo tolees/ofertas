@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072BWKBCV
 description:
+actualPrice: 11.99 EUR
+comparePrice: 23 EUR
+inStock: true
 ---
 
 Está [Under Armour Men s Blitzing 3.0 Cap Gorra  Hombre  Azul  Royal/Royal/Black 400   M/L](https://www.amazon.com/dp/B072BWKBCV/?tag=redken08-20) por 11.99 EUR (original: 23 EUR) en el siguiente enlace!

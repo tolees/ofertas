@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNN17DW
 description:
+actualPrice: 9.99 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [LEGO City 60213 Feuerwehr am Hafen](https://www.amazon.com/dp/B07FNN17DW/?tag=redken08-20) por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

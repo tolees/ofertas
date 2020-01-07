@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B015GIOU1K
 description:
+actualPrice: 34.0 EUR
+comparePrice: 55.0 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Nike Jr Mercurial Victory V TF  Botas de fútbol Unisex niños  Blanco  White/Black-Volt-Total Orange   33 EU](https://www.amazon.com/dp/B015GIOU1K/?tag=redken08-20) a 34.0 EUR (original: 55.0 EUR) en el siguiente enlace!

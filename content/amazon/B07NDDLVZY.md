@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NDDLVZY
 description:
+actualPrice: 485 EUR
+comparePrice: 759 EUR
+inStock: true
 ---
 
 Tienes [Samsung Galaxy S10e - Smartphone  128GB  Dual SIM  Pantalla 5.8 "Full HD + Dynamic AMOLED  3100mAh  típico    Negro  Prism Black   [ Versión Española]](https://www.amazon.com/dp/B07NDDLVZY/?tag=redken08-20) a precio de oferta de 485 EUR (original: 759 EUR) en el siguiente enlace!

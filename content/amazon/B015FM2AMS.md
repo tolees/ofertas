@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B015FM2AMS
 description:
+actualPrice: 3 GBP
+comparePrice: 6.14 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [West Design West DesignLE51475 Lego Junior Selection Gel Pen  Red  Multi-Color](https://www.amazon.com/dp/B015FM2AMS/?tag=redken08-20) a 3 GBP (original: 6.14 GBP) en el siguiente enlace!

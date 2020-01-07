@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NWGLW81
 description:
+actualPrice: 18.99 EUR
+comparePrice: 85 EUR
+inStock: true
 ---
 
 Tienes [XuanPad Auriculares Bluetooth V5.0 Auriculares Inalámbricos Bluetooth Mini Twins Estéreo In-Ear con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android](https://www.amazon.com/dp/B07NWGLW81/?tag=redken08-20) a precio de oferta de 18.99 EUR (original: 85 EUR) en el siguiente enlace!

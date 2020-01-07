@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01GVSX3OE
 description:
+actualPrice: 6.95 EUR
+comparePrice: 12.95 EUR
+inStock: true
 ---
 
 Está [Bungsa® B - Silberner Buchstaben Kristall Charm Anhänger für Bettelarmband Ohrring Halskette Zirkonia Damen Herren Kinder  Kettenanhänger Pendant Beads A B C D E F G H I J K L M N O P R S T U V W Z ](https://www.amazon.com/dp/B01GVSX3OE/?tag=redken08-20) por 6.95 EUR (original: 12.95 EUR) en el siguiente enlace!

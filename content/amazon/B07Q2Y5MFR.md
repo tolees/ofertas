@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q2Y5MFR
 description:
+actualPrice: 14.95 EUR
+comparePrice: 25.9 EUR
+inStock: true
 ---
 
 Está [TestoMax X12 | Potente booster de testosterona pura | Con maca andina y taurina | Potenciador sexual | Aumenta la masa muscular  el rendimiento y la libido sexual | Acción quemagrasas | 120 cápsulas](https://www.amazon.com/dp/B07Q2Y5MFR/?tag=redken08-20) por 14.95 EUR (original: 25.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1UVGFI
 description:
+actualPrice: 10.8 EUR
+comparePrice: 25.2 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. BAY001019W170205 vaqueros mujer  Blanco  W30/L32  Talla del Fabricante: Medium ](https://www.amazon.com/dp/B01N1UVGFI/?tag=redken08-20) a 10.8 EUR (original: 25.2 EUR) en el siguiente enlace!

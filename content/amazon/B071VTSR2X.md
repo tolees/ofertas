@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071VTSR2X
 description:
+actualPrice: 9.9 EUR
+comparePrice: 16.9 EUR
+inStock: true
 ---
 
 Está [Avenzo AV631CH - Auricular imantado  Color champán Oro](https://www.amazon.com/dp/B071VTSR2X/?tag=redken08-20) por 9.9 EUR (original: 16.9 EUR) en el siguiente enlace!

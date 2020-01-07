@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HI8DFW6
 description:
+actualPrice: 29.98 EUR
+comparePrice: 57.6 EUR
+inStock: true
 ---
 
 Tienes [Cooko Abridor de Vino Abrebotellas Sacacorchos Set de Accesorios 9 Piezas](https://www.amazon.com/dp/B01HI8DFW6/?tag=redken08-20) a precio de oferta de 29.98 EUR (original: 57.6 EUR) en el siguiente enlace!

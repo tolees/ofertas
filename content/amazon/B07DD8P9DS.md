@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DD8P9DS
 description:
+actualPrice: 33 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [adidas 18/19 Real Madrid Home with Lfp Badge Camiseta  Hombre  Blanco  Core White/Black   S](https://www.amazon.com/dp/B07DD8P9DS/?tag=redken08-20) a 33 EUR (original: 59.99 EUR) en el siguiente enlace!

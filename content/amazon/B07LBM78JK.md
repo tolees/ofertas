@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LBM78JK
 description:
+actualPrice: 44.99 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Napapijri Gergei Camisa   Fantasy F02   44  Talla del Fabricante: Large  para Hombre](https://www.amazon.com/dp/B07LBM78JK/?tag=redken08-20) a 44.99 EUR (original: 89 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B007GZCUCI
 description:
+actualPrice: 0.71 EUR
+comparePrice: 10.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Campos 75223 Nevera Termo rigida  Azul  10 l](https://www.amazon.com/dp/B007GZCUCI/?tag=redken08-20) a 0.71 EUR (original: 10.9 EUR) en el siguiente enlace!

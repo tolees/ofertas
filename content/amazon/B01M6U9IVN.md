@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M6U9IVN
 description:
+actualPrice: 11.99 EUR
+comparePrice: 18 EUR
+inStock: true
 ---
 
 Tienes [Umbro Loyal Pantalones  Hombre  Negro  L](https://www.amazon.com/dp/B01M6U9IVN/?tag=redken08-20) a precio de oferta de 11.99 EUR (original: 18 EUR) en el siguiente enlace!

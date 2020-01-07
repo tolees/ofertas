@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WNT8LQY
 description:
+actualPrice: 23.84 EUR
+comparePrice: 39.46 EUR
+inStock: true
 ---
 
 Está [YOSICIL Princesa Disfraz de Princesa Frozen Elsa Disfraces de Princesa Gradiente Fancy Dress Elasticidad niña Lentejuela Impreso Nieve Accesorios con Capas 3-9 años  110CM  Azul ](https://www.amazon.com/dp/B07WNT8LQY/?tag=redken08-20) por 23.84 EUR (original: 39.46 EUR) en el siguiente enlace!

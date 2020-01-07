@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NBU1NJ4
 description:
+actualPrice: 159.99 EUR
+comparePrice: 302.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Epson EcoTank ET-2650  Impresora  WiFi  Tamaño Único  Negro](https://www.amazon.com/dp/B01NBU1NJ4/?tag=redken08-20) a 159.99 EUR (original: 302.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01JRZIN4S
 description:
+actualPrice: 43.99 EUR
+comparePrice: 72.99 EUR
+inStock: true
 ---
 
 Está [Russell Hobbs Retro - Hervidor de Agua Eléctrico  2400 W  1 7l  Acero Inoxidable  Crema  - ref. 21672-70](https://www.amazon.com/dp/B01JRZIN4S/?tag=redken08-20) por 43.99 EUR (original: 72.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00OQNVUJW
 description:
+actualPrice: 86.95 EUR
+comparePrice: 200 EUR
+inStock: true
 ---
 
 Tienes [Black Crown Piton 3.0 - Peso Palas - 355-365 grs](https://www.amazon.com/dp/B00OQNVUJW/?tag=redken08-20) a precio de oferta de 86.95 EUR (original: 200 EUR) en el siguiente enlace!

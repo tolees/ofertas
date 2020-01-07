@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DFCXD18
 description:
+actualPrice: 8.25 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pop! Crash Bandicoot - Figura de Vinilo Crash Bandicoot with Scuba Gear](https://www.amazon.com/dp/B07DFCXD18/?tag=redken08-20) a 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KFYF2X3
 description:
+actualPrice: 33.78 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PUMA Cilia  Zapatillas para Mujer  Black-Vineyard Wine-Sulphur White  36 EU](https://www.amazon.com/dp/B07KFYF2X3/?tag=redken08-20) a 33.78 EUR (original: 59.95 EUR) en el siguiente enlace!

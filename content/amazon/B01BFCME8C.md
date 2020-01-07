@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BFCME8C
 description:
+actualPrice: 78 EUR
+comparePrice: 169 EUR
+inStock: true
 ---
 
 Tienes [BERING Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 14134-331](https://www.amazon.com/dp/B01BFCME8C/?tag=redken08-20) a precio de oferta de 78 EUR (original: 169 EUR) en el siguiente enlace!

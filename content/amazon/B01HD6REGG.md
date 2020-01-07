@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HD6REGG
 description:
+actualPrice: 102.99 EUR
+comparePrice: 159.95 EUR
+inStock: true
 ---
 
 Tienes [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Magnet   45 1/3 EU](https://www.amazon.com/dp/B01HD6REGG/?tag=redken08-20) a precio de oferta de 102.99 EUR (original: 159.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LY0PTO9
 description:
+actualPrice: 149.99 EUR
+comparePrice: 249.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Linksys WRT3200ACM-EU - Router Wi-Fi Gigabit con Código Abierto y eSATA/USB 3.0](https://www.amazon.com/dp/B01LY0PTO9/?tag=redken08-20) a 149.99 EUR (original: 249.99 EUR) en el siguiente enlace!

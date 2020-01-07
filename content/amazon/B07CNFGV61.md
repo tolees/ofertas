@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CNFGV61
 description:
+actualPrice: 27.62 EUR
+comparePrice: 109.99 EUR
+inStock: true
 ---
 
 Está [Cámaras de Vigilancia WiFi Exterior  Netvue FHD 1080P Cámara Seguridad Compatible Alexa  Impermeable IP66  Ethernet y WiFi con Versión Nocturna Audio Bidireccional Detección de Humano Movimiento](https://www.amazon.com/dp/B07CNFGV61/?tag=redken08-20) por 27.62 EUR (original: 109.99 EUR) en el siguiente enlace!

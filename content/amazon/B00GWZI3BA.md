@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00GWZI3BA
 description:
+actualPrice: 93.5 EUR
+comparePrice: 185 EUR
+inStock: true
 ---
 
 Está [Orlane B21 Extraordinaire Youth Reset 30 ml](https://www.amazon.com/dp/B00GWZI3BA/?tag=redken08-20) por 93.5 EUR (original: 185 EUR) en el siguiente enlace!

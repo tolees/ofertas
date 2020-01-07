@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06W5Q8PLW
 description:
+actualPrice: 37.91 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Tienes [Playmobil 9250 - Dr. Drone s Command Center](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20) a precio de oferta de 37.91 EUR (original: 69.99 EUR) en el siguiente enlace!

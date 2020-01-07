@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1G3FKZ
 description:
+actualPrice: 41.15 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Days Gone - Edición Especial](https://www.amazon.com/dp/B07N1G3FKZ/?tag=redken08-20) a 41.15 EUR (original: 79.99 EUR) en el siguiente enlace!

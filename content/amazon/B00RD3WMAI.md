@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00RD3WMAI
 description:
+actualPrice: 12.81 EUR
+comparePrice: 21.76 EUR
+inStock: true
 ---
 
 Está [Mars Gaming MCP1 - Combo gaming de teclado y ratón  12 teclas multimedia  iluminación led roja  teclas gaming rojo  layout ES  sensor óptico 2800 DPI  6 botones gaming ](https://www.amazon.com/dp/B00RD3WMAI/?tag=redken08-20) por 12.81 EUR (original: 21.76 EUR) en el siguiente enlace!

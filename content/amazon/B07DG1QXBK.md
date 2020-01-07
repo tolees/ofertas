@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DG1QXBK
 description:
+actualPrice: 529.99 EUR
+comparePrice: 799.99 EUR
+inStock: true
 ---
 
 Está [Sharp LC-55UI8652E - UHD Smart TV Slim de 55"  resolución 3840 x 2160  HDR+  3X HDMI  2X USB  1x USB 3.0  Color Negro](https://www.amazon.com/dp/B07DG1QXBK/?tag=redken08-20) por 529.99 EUR (original: 799.99 EUR) en el siguiente enlace!

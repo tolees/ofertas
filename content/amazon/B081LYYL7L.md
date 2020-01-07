@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081LYYL7L
 description:
+actualPrice: 15.99 EUR
+comparePrice: 41.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sunboree Mädchen Kleid Schnee Königin Ice Prinzessin Kostüm Geburtstagsfeier Gr. 134](https://www.amazon.com/dp/B081LYYL7L/?tag=redken08-20) a 15.99 EUR (original: 41.99 EUR) en el siguiente enlace!

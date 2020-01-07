@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07YKK1J5H
 description:
+actualPrice: 9.99 EUR
+comparePrice: 16.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Rii Alfombrilla para ratón XXL Profesional  90 x 40 x 0 4 cm . Base Antideslizante. Especial para Gamer. Modelo Professional Gaming.](https://www.amazon.com/dp/B07YKK1J5H/?tag=redken08-20) a 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

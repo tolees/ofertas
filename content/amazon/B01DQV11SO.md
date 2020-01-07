@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01DQV11SO
 description:
+actualPrice: 2.69 EUR
+comparePrice: 7.61 EUR
+inStock: true
 ---
 
 Está [Twins Looney Tunes 1 127 67-Camiseta Bebé Bebé unisex    Weiß  weiss 4013  1 mes](https://www.amazon.com/dp/B01DQV11SO/?tag=redken08-20) por 2.69 EUR (original: 7.61 EUR) en el siguiente enlace!

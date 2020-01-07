@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DFYMSNF
 description:
+actualPrice: 36 EUR
+comparePrice: 95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance 247v2  Zapatillas para Mujer  Verde  Faded Rosin/Marble Head EB   40.5 EU](https://www.amazon.com/dp/B07DFYMSNF/?tag=redken08-20) a 36 EUR (original: 95 EUR) en el siguiente enlace!

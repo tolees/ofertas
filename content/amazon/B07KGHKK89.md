@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KGHKK89
 description:
+actualPrice: 15.5 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Está [PEKITAS Bebe Juego De Sábanas Franela Conjunto 3 Pcs Cuna 60X120 100% Algodón Gris HECHO EN PORTUGAL](https://www.amazon.com/dp/B07KGHKK89/?tag=redken08-20) por 15.5 EUR (original: 25 EUR) en el siguiente enlace!

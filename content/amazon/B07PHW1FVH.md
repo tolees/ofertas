@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PHW1FVH
 description:
+actualPrice: 29.75 EUR
+comparePrice: 53.26 EUR
+inStock: true
 ---
 
 Tienes [Nike Todos  Zapatillas para Hombre  Negro  Black/White 002   44.5 EU](https://www.amazon.com/dp/B07PHW1FVH/?tag=redken08-20) a precio de oferta de 29.75 EUR (original: 53.26 EUR) en el siguiente enlace!

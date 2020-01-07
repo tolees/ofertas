@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XGSBK3P
 description:
+actualPrice: 9 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Tienes [find. Pantalón Cargo Hombre  Beige  W32/L32](https://www.amazon.com/dp/B06XGSBK3P/?tag=redken08-20) a precio de oferta de 9 EUR (original: 30 EUR) en el siguiente enlace!

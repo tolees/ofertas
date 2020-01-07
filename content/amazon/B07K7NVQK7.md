@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K7NVQK7
 description:
+actualPrice: 59.49 EUR
+comparePrice: 108.42 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Levi s 502 Regular Taper Vaqueros  Gris  Gobbler ADV 0297   33W / 32L para Hombre](https://www.amazon.com/dp/B07K7NVQK7/?tag=redken08-20) a 59.49 EUR (original: 108.42 EUR) en el siguiente enlace!

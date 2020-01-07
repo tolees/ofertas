@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079RNJNCR
 description:
+actualPrice: 59.95 EUR
+comparePrice: 129.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sorel out N About Plus  Botas para Mujer  Marrón  Elk 286   38 EU](https://www.amazon.com/dp/B079RNJNCR/?tag=redken08-20) a 59.95 EUR (original: 129.99 EUR) en el siguiente enlace!

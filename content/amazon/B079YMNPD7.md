@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079YMNPD7
 description:
+actualPrice: 6.72 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Tienes [Funko Pop!- Pop Marvel: Spider-Man Miles Morales Figura de Vinilo  Multicolor  30680 ](https://www.amazon.com/dp/B079YMNPD7/?tag=redken08-20) a precio de oferta de 6.72 EUR (original: 14.99 EUR) en el siguiente enlace!

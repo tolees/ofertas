@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CVSTLF8
 description:
+actualPrice: 79.99 EUR
+comparePrice: 198 EUR
+inStock: true
 ---
 
 Está [XuanPad Mini Proyector Multimedia Vídeo Proyector LCD  55000 Horas Proyector de Cine en casa con Sistema de Cine en casa](https://www.amazon.com/dp/B07CVSTLF8/?tag=redken08-20) por 79.99 EUR (original: 198 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ZNQ3NJH
 description:
+actualPrice: 41.99 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego City Centro de Control Móvil Compatible con Ladrillos de Construcción Lego Modelo 60139  Juego de Legos no Incluido](https://www.amazon.com/dp/B07ZNQ3NJH/?tag=redken08-20) a 41.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D7V4XVM
 description:
+actualPrice: 25.74 EUR
+comparePrice: 39 EUR
+inStock: true
 ---
 
 Está [Tanqueray Lovage Gin - 1000 ml](https://www.amazon.com/dp/B07D7V4XVM/?tag=redken08-20) por 25.74 EUR (original: 39 EUR) en el siguiente enlace!

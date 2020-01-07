@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DWLZGZJ
 description:
+actualPrice: 32.5 EUR
+comparePrice: 52 EUR
+inStock: true
 ---
 
 Tienes [find. Leather Cleated Botas Chelsea  Negro Black  45 EU](https://www.amazon.com/dp/B07DWLZGZJ/?tag=redken08-20) a precio de oferta de 32.5 EUR (original: 52 EUR) en el siguiente enlace!

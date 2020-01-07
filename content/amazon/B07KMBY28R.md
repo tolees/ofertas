@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KMBY28R
 description:
+actualPrice: 54.95 EUR
+comparePrice: 100 EUR
+inStock: true
 ---
 
 Tienes [Merrell Vapor Glove 4  Zapatillas Deportivas para Interior para Mujer  Verde  Dragonfly   39 EU](https://www.amazon.com/dp/B07KMBY28R/?tag=redken08-20) a precio de oferta de 54.95 EUR (original: 100 EUR) en el siguiente enlace!

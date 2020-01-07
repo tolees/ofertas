@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000CRBEJ2
 description:
+actualPrice: 29.95 EUR
+comparePrice: 50 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Eastpak Padded Pak R Mochila  24 L  Negro  Black   40 x 18 x 30 cm](https://www.amazon.com/dp/B000CRBEJ2/?tag=redken08-20) a 29.95 EUR (original: 50 EUR) en el siguiente enlace!

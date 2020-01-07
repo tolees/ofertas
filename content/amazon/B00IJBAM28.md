@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00IJBAM28
 description:
+actualPrice: 18.49 EUR
+comparePrice: 28.47 EUR
+inStock: true
 ---
 
 Está [Sweet Art - Cupcakes  Juego para cocinar  Cefa Toys 21741 ](https://www.amazon.com/dp/B00IJBAM28/?tag=redken08-20) por 18.49 EUR (original: 28.47 EUR) en el siguiente enlace!

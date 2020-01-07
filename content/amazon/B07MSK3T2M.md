@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MSK3T2M
 description:
+actualPrice: 33.51 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Tienes [Clarks Arla Free  Zapatos de Cordones Derby para Hombre  Azul  Navy Navy   45 EU](https://www.amazon.com/dp/B07MSK3T2M/?tag=redken08-20) a precio de oferta de 33.51 EUR (original: 79.95 EUR) en el siguiente enlace!

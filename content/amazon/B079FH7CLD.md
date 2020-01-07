@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079FH7CLD
 description:
+actualPrice: 3.6 EUR
+comparePrice: 11.24 EUR
+inStock: true
 ---
 
 Tienes [IRIS & LILLY Tanga para Mujer  Multicolor  Cashmere Blue/ Organic Floral Print   XS  Pack de 3](https://www.amazon.com/dp/B079FH7CLD/?tag=redken08-20) a precio de oferta de 3.6 EUR (original: 11.24 EUR) en el siguiente enlace!

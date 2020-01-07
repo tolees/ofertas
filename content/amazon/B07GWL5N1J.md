@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GWL5N1J
 description:
+actualPrice: 27.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [MOUNTDOG 1350W Kit de Softbox iluminacion Fotografia Continua con 20"×28 softbox focos  2×135W 5500K Bombillas Kit de Foco para fotografia Estudio para Video Youtube Filmación Retrato](https://www.amazon.com/dp/B07GWL5N1J/?tag=redken08-20) a 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!

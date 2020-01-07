@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0001IWHZW
 description:
+actualPrice: 3.99 EUR
+comparePrice: 8.1 EUR
+inStock: true
 ---
 
 Está [Black&Decker A6481-XJ - Bobina con Hilo de 10m de Largo y 1.5 mm de diámetro  para los cortabordes de alimentación Reflex Simple de 1 Hilo](https://www.amazon.com/dp/B0001IWHZW/?tag=redken08-20) por 3.99 EUR (original: 8.1 EUR) en el siguiente enlace!

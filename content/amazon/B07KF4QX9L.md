@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KF4QX9L
 description:
+actualPrice: 10.99 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Está [Levi s The Perfect Tee  Camiseta  Mujer  Rojo  Sptwr Logo Brilliant Red 0621   XS](https://www.amazon.com/dp/B07KF4QX9L/?tag=redken08-20) por 10.99 EUR (original: 25 EUR) en el siguiente enlace!

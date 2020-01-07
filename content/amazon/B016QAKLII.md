@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B016QAKLII
 description:
+actualPrice: 8.99 EUR
+comparePrice: 17.99 EUR
+inStock: true
 ---
 
 Tienes [adidas Parma 16 SHO Sport Shorts  Hombre  Azul  Azul/Blanco   M](https://www.amazon.com/dp/B016QAKLII/?tag=redken08-20) a precio de oferta de 8.99 EUR (original: 17.99 EUR) en el siguiente enlace!

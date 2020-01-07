@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SQ25RGD
 description:
+actualPrice: 649.99 EUR
+comparePrice: 1029 EUR
+inStock: true
 ---
 
 Está [Samsung 4K UHD 2019 55RU8005 - Smart TV de 55" con Resolución 4K UHD  Wide Viewing Angle  HDR  HDR10+   Procesador 4K  One Remote Control  Apps en Exclusiva y Compatible con Alexa](https://www.amazon.com/dp/B07SQ25RGD/?tag=redken08-20) por 649.99 EUR (original: 1029 EUR) en el siguiente enlace!

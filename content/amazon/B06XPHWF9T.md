@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XPHWF9T
 description:
+actualPrice: 11.2 EUR
+comparePrice: 33.75 EUR
+inStock: true
 ---
 
 Está [find. 16 12 RB040 camisetas  Blanco  White   40  Talla del Fabricante: Medium ](https://www.amazon.com/dp/B06XPHWF9T/?tag=redken08-20) por 11.2 EUR (original: 33.75 EUR) en el siguiente enlace!

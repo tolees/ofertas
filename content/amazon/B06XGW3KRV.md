@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XGW3KRV
 description:
+actualPrice: 8.99 EUR
+comparePrice: 13.99 EUR
+inStock: true
 ---
 
 Está [Funko 13693 63650 Actionfigur Trollhunters: Jim Armored  Multicolour](https://www.amazon.com/dp/B06XGW3KRV/?tag=redken08-20) por 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!

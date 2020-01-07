@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071WYMB1D
 description:
+actualPrice: 20.7 EUR
+comparePrice: 51.75 EUR
+inStock: true
 ---
 
 Está [find. Botines Años 60 Efecto Ante con Cremallera Mujer  Negro  Black   38 EU](https://www.amazon.com/dp/B071WYMB1D/?tag=redken08-20) por 20.7 EUR (original: 51.75 EUR) en el siguiente enlace!

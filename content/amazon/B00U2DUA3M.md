@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00U2DUA3M
 description:
+actualPrice: 33.64 EUR
+comparePrice: 58 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Elizabeth Arden Ceramide Flawless Future Ceramide Crema Nocturno 50 ml](https://www.amazon.com/dp/B00U2DUA3M/?tag=redken08-20) a 33.64 EUR (original: 58 EUR) en el siguiente enlace!

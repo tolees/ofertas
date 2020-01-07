@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JBQLMBJ
 description:
+actualPrice: 12.03 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LEGO 10767 - Disney Pixar s Toy Story  Duke Cabooms Stunt Show  Bauset](https://www.amazon.com/dp/B07JBQLMBJ/?tag=redken08-20) a 12.03 EUR (original: 19.99 EUR) en el siguiente enlace!

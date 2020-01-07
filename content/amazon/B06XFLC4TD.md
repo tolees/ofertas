@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XFLC4TD
 description:
+actualPrice: 169.99 EUR
+comparePrice: 299 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bosch MUC88B68ES AutoCook - Robot de cocina multifunción  1200 W  5L  acero inoxidable  función presión y calentamiento por inducción](https://www.amazon.com/dp/B06XFLC4TD/?tag=redken08-20) a 169.99 EUR (original: 299 EUR) en el siguiente enlace!

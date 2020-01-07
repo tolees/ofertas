@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MZHYL1R
 description:
+actualPrice: 17.16 EUR
+comparePrice: 39.75 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Superdry Premium Goods Duo Lite tee Camiseta  Blanco  Optic 01c   Small para Hombre](https://www.amazon.com/dp/B07MZHYL1R/?tag=redken08-20) a 17.16 EUR (original: 39.75 EUR) en el siguiente enlace!

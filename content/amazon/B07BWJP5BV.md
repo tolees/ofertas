@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BWJP5BV
 description:
+actualPrice: 23.49 EUR
+comparePrice: 39.95 EUR
+inStock: true
 ---
 
 Está [FCBARCELONA Cluedo FC Barcelona  63409   Multicolor  Eleven Force](https://www.amazon.com/dp/B07BWJP5BV/?tag=redken08-20) por 23.49 EUR (original: 39.95 EUR) en el siguiente enlace!

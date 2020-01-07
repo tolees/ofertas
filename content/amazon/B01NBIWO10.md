@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NBIWO10
 description:
+actualPrice: 9.6 EUR
+comparePrice: 24 EUR
+inStock: true
 ---
 
 Está [find. Sudadera Oversized con Volantes para Mujer   Rosa  Old Rose   38  Talla del Fabricante: Small ](https://www.amazon.com/dp/B01NBIWO10/?tag=redken08-20) por 9.6 EUR (original: 24 EUR) en el siguiente enlace!

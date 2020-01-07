@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MMWQGMJ
 description:
+actualPrice: 47.48 EUR
+comparePrice: 94.95 EUR
+inStock: true
 ---
 
 Tienes [Wrangler Greensboro Vaqueros  Azul  Ice Lake 72d   46 W/ 34 L para Hombre](https://www.amazon.com/dp/B07MMWQGMJ/?tag=redken08-20) a precio de oferta de 47.48 EUR (original: 94.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GZMKMDD
 description:
+actualPrice: 6.23 EUR
+comparePrice: 14.9 EUR
+inStock: true
 ---
 
 Está [Max Factor Miracle Prep Illuminating & Hydrating Primer - 30 ml](https://www.amazon.com/dp/B07GZMKMDD/?tag=redken08-20) por 6.23 EUR (original: 14.9 EUR) en el siguiente enlace!

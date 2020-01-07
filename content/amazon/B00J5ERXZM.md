@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00J5ERXZM
 description:
+actualPrice: 57.7 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Tienes [De Longhi Dolce Gusto Jovia EDG250.B - Cafetera de cápsulas  15 bares de presión  color negro](https://www.amazon.com/dp/B00J5ERXZM/?tag=redken08-20) a precio de oferta de 57.7 EUR (original: 89 EUR) en el siguiente enlace!

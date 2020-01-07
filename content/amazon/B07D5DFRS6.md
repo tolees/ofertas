@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D5DFRS6
 description:
+actualPrice: 12.5 EUR
+comparePrice: 25.9 EUR
+inStock: true
 ---
 
 Está [Neutrogena Hydro Boost Supercharged Booster Sérum Facial - 30 ml.](https://www.amazon.com/dp/B07D5DFRS6/?tag=redken08-20) por 12.5 EUR (original: 25.9 EUR) en el siguiente enlace!

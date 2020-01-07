@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BGBJ8XQ
 description:
+actualPrice: 12.57 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Está [Logitech C170 Webcam schwarz](https://www.amazon.com/dp/B01BGBJ8XQ/?tag=redken08-20) por 12.57 EUR (original: 24.99 EUR) en el siguiente enlace!

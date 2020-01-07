@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NDPJZH8
 description:
+actualPrice: 299.99 EUR
+comparePrice: 549 EUR
+inStock: true
 ---
 
 Está [MEDION M80 - Ordenador de sobremesa  Intel Core i3-8100  8GB RAM  1TB de HDD + 128GB SSD  Intel Graphics  Windows10  Gris](https://www.amazon.com/dp/B07NDPJZH8/?tag=redken08-20) por 299.99 EUR (original: 549 EUR) en el siguiente enlace!

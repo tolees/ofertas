@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078W6JNKF
 description:
+actualPrice: 69.99 EUR
+comparePrice: 109.99 EUR
+inStock: true
 ---
 
 Está [Corsair Dark Core RGB SE - Ratón óptico para Juegos inalámbrico  con Carga inalámbrica Qi  retroiluminación LED RGB  16 000 PPP  inalámbrico   color Negro](https://www.amazon.com/dp/B078W6JNKF/?tag=redken08-20) por 69.99 EUR (original: 109.99 EUR) en el siguiente enlace!

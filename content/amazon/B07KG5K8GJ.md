@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG5K8GJ
 description:
+actualPrice: 14.66 EUR
+comparePrice: 22.39 EUR
+inStock: true
 ---
 
 Está [PUMA Smash v2 L V PS  Zapatillas Unisex Niños  Bridal Rose White-Faded Denim  33 EU](https://www.amazon.com/dp/B07KG5K8GJ/?tag=redken08-20) por 14.66 EUR (original: 22.39 EUR) en el siguiente enlace!

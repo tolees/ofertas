@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D17WXRL
 description:
+actualPrice: 21 EUR
+comparePrice: 33.6 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Leopard Jacquard Falda de Mujer  Negro  Black   38  Talla del Fabricante: Small ](https://www.amazon.com/dp/B07D17WXRL/?tag=redken08-20) a 21 EUR (original: 33.6 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M3SPEZF
 description:
+actualPrice: 49.95 EUR
+comparePrice: 80.15 EUR
+inStock: true
 ---
 
 Está [Einhell Kit con Cargador y batería de repuesto de 18 V  4 Ah  0 W  21 V  Negro  Rojo  4.0  Tiempo de Carga: 60 Minutos  ref. 4512042 ](https://www.amazon.com/dp/B01M3SPEZF/?tag=redken08-20) por 49.95 EUR (original: 80.15 EUR) en el siguiente enlace!

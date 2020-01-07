@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BGPDO7S
 description:
+actualPrice: 3.33 GBP
+comparePrice: 5.62 GBP
+inStock: true
 ---
 
 Está [Disney Frozen 46784 Disney Disney Frozen Flag Banner  Blue](https://www.amazon.com/dp/B01BGPDO7S/?tag=redken08-20) por 3.33 GBP (original: 5.62 GBP) en el siguiente enlace!

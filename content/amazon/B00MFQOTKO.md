@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00MFQOTKO
 description:
+actualPrice: 24.99 EUR
+comparePrice: 99.9 EUR
+inStock: true
 ---
 
 Tienes [Tectonic 41-6103-14 - Reloj de cuarzo unisex  color negro](https://www.amazon.com/dp/B00MFQOTKO/?tag=redken08-20) a precio de oferta de 24.99 EUR (original: 99.9 EUR) en el siguiente enlace!

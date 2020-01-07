@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RZXWGXS
 description:
+actualPrice: 165.99 EUR
+comparePrice: 287.5 EUR
+inStock: true
 ---
 
 Está [Besrey Silla Paseo Bebe Ligera Compacta Cochecito Viaje Avión solo 4 9 kg Carritos de Bebe Plegable 6-36 Meses](https://www.amazon.com/dp/B07RZXWGXS/?tag=redken08-20) por 165.99 EUR (original: 287.5 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KYVBD9S
 description:
+actualPrice: 7.64 EUR
+comparePrice: 12.3 EUR
+inStock: true
 ---
 
 Está [AmazonBasics - Juego de fundas de edredón y almohada de microfibra premium  135 x 200 cm / 50 x 80 cm   crema](https://www.amazon.com/dp/B07KYVBD9S/?tag=redken08-20) por 7.64 EUR (original: 12.3 EUR) en el siguiente enlace!

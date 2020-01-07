@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J9RLLP7
 description:
+actualPrice: 139 EUR
+comparePrice: 239.88 EUR
+inStock: true
 ---
 
 Tienes [Nautica NAD14533G - Reloj Analógico para Hombre  de Cuarzo con Correas en Silicona](https://www.amazon.com/dp/B07J9RLLP7/?tag=redken08-20) a precio de oferta de 139 EUR (original: 239.88 EUR) en el siguiente enlace!

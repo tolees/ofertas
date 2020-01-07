@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078HDBNVN
 description:
+actualPrice: 44.74 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Está [Wrangler Larston Vaqueros Tapered  Azul  Billie Jean 99t   31W / 34L para Hombre](https://www.amazon.com/dp/B078HDBNVN/?tag=redken08-20) por 44.74 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H7SFKSN
 description:
+actualPrice: 32.95 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Tienes [Nike Wmns Downshifter 9  Zapatillas de Running para Mujer  Gris  Cool Grey/Mtlc Silver/Wolf Grey/Black/Pure Platinum/White 004   36 EU](https://www.amazon.com/dp/B07H7SFKSN/?tag=redken08-20) a precio de oferta de 32.95 EUR (original: 60 EUR) en el siguiente enlace!

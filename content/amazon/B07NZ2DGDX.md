@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NZ2DGDX
 description:
+actualPrice: 30.54 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Superdry Workwear L/s Shirt Camisa  Rojo  Red Check 33j   44  Talla del Fabricante: X-Large  para Hombre](https://www.amazon.com/dp/B07NZ2DGDX/?tag=redken08-20) a 30.54 EUR (original: 69.99 EUR) en el siguiente enlace!

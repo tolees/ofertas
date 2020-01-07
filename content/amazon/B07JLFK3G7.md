@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JLFK3G7
 description:
+actualPrice: 8.68 EUR
+comparePrice: 15.99 EUR
+inStock: true
 ---
 
 Está [Playmobil 70000 Fairies Romantisches Feenboot  bunt](https://www.amazon.com/dp/B07JLFK3G7/?tag=redken08-20) por 8.68 EUR (original: 15.99 EUR) en el siguiente enlace!

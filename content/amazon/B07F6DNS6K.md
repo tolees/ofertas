@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F6DNS6K
 description:
+actualPrice: 9.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Verde  Olive Night   Medium](https://www.amazon.com/dp/B07F6DNS6K/?tag=redken08-20) a 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

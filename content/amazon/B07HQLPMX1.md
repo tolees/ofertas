@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HQLPMX1
 description:
+actualPrice: 3 GBP
+comparePrice: 13.19 GBP
+inStock: true
 ---
 
 Tienes [SLTX Remote Controller with Free Silicone Cover and Wrist Strap Compatible For Nintendo Wii Remote WII. Third Party Product ](https://www.amazon.com/dp/B07HQLPMX1/?tag=redken08-20) a precio de oferta de 3 GBP (original: 13.19 GBP) en el siguiente enlace!

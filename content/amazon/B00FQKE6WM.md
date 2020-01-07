@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00FQKE6WM
 description:
+actualPrice: 9.21 EUR
+comparePrice: 19.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Wilkinson Sword Quattro Titanium - Cargador de 8 Recambios de Cuchillas de Afeitar para Hombre de 4 Hojas de Titanio  Afeitado Manual Masculino](https://www.amazon.com/dp/B00FQKE6WM/?tag=redken08-20) a 9.21 EUR (original: 19.9 EUR) en el siguiente enlace!

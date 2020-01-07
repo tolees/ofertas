@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BBXRZNB
 description:
+actualPrice: 18.13 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [Call of Duty: Black Ops IIII + Tarjeta de visita exclusiva  Edición Exclusiva Amazon ](https://www.amazon.com/dp/B07BBXRZNB/?tag=redken08-20) a precio de oferta de 18.13 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000AOZIJY
 description:
+actualPrice: 20.3 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Reebok Classic Nylon - zapatilla deportiva de material sintético Unisex adulto  Grigio  Grau  Platinum/Jet Blue    45](https://www.amazon.com/dp/B000AOZIJY/?tag=redken08-20) a 20.3 EUR (original: 69.95 EUR) en el siguiente enlace!

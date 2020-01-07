@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MZ9Y7ZN
 description:
+actualPrice: 62.95 EUR
+comparePrice: 99.9 EUR
+inStock: true
 ---
 
 Tienes [Samsung Mobile Accessories Wireless Charger Duo Pad  Schwarz](https://www.amazon.com/dp/B07MZ9Y7ZN/?tag=redken08-20) a precio de oferta de 62.95 EUR (original: 99.9 EUR) en el siguiente enlace!

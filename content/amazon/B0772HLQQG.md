@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0772HLQQG
 description:
+actualPrice: 5.07 EUR
+comparePrice: 18.9 EUR
+inStock: true
 ---
 
 Está [MERAKI POETME003 Pantalones Cortos  Azul  Cashmere Blue   W38](https://www.amazon.com/dp/B0772HLQQG/?tag=redken08-20) por 5.07 EUR (original: 18.9 EUR) en el siguiente enlace!

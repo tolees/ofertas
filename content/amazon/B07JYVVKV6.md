@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JYVVKV6
 description:
+actualPrice: 49 EUR
+comparePrice: 99.9 EUR
+inStock: true
 ---
 
 Tienes [Tommy Hilfiger Rome Straight Ankle RW NATI Vaqueros  Azul 911  W27/L30  Talla del Fabricante: 27/30  para Mujer](https://www.amazon.com/dp/B07JYVVKV6/?tag=redken08-20) a precio de oferta de 49 EUR (original: 99.9 EUR) en el siguiente enlace!

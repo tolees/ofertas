@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075F8DFXP
 description:
+actualPrice: 32.14 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Tienes [Puma Vikky Platform  Zapatillas para Mujer  Beige  Pebble   37.5 EU](https://www.amazon.com/dp/B075F8DFXP/?tag=redken08-20) a precio de oferta de 32.14 EUR (original: 64.95 EUR) en el siguiente enlace!

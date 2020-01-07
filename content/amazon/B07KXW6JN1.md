@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KXW6JN1
 description:
+actualPrice: 12 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Jack & Jones NOS JJEDESERT Bomber Noos Chaqueta  Azul Maritime Blue  S para Hombre](https://www.amazon.com/dp/B07KXW6JN1/?tag=redken08-20) a 12 EUR (original: 39.99 EUR) en el siguiente enlace!

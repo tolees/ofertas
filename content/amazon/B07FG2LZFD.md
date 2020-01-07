@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FG2LZFD
 description:
+actualPrice: 319.99 EUR
+comparePrice: 479.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [HP Pavilion 590-p0305ns - Ordenador de sobremesa  AMD A10-9700  8GB RAM  1TB HDD  NVIDIA GTX 1050-2GB  Sin sistema operativo   Color Negro](https://www.amazon.com/dp/B07FG2LZFD/?tag=redken08-20) a 319.99 EUR (original: 479.99 EUR) en el siguiente enlace!

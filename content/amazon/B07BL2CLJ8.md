@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BL2CLJ8
 description:
+actualPrice: 60 EUR
+comparePrice: 111.48 EUR
+inStock: true
 ---
 
 Está [New Balance Fresh Foam Zante Pursuit  Zapatillas de Running para Mujer  Morado  Voltage Violet/Eclipse Vv   36.5 EU](https://www.amazon.com/dp/B07BL2CLJ8/?tag=redken08-20) por 60 EUR (original: 111.48 EUR) en el siguiente enlace!

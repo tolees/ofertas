@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG5XMD1
 description:
+actualPrice: 33.95 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PUMA Axis Plus SD  Zapatillas Unisex Adulto  Castlerock Black-High Risk Red White  42 EU](https://www.amazon.com/dp/B07KG5XMD1/?tag=redken08-20) a 33.95 EUR (original: 64.95 EUR) en el siguiente enlace!

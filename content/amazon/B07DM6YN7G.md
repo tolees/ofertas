@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DM6YN7G
 description:
+actualPrice: 37.94 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Resident Evil 2 - Edición Estándar](https://www.amazon.com/dp/B07DM6YN7G/?tag=redken08-20) por 37.94 EUR (original: 59.99 EUR) en el siguiente enlace!

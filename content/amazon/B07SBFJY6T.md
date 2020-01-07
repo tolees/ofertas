@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SBFJY6T
 description:
+actualPrice: 51.79 EUR
+comparePrice: 129.95 EUR
+inStock: true
 ---
 
 Está [adidas Country X Kamanda  Zapatillas de Balonmano para Hombre  Blanco  Footwear White/Collegiate Navy/Gum 0   46 2/3 EU](https://www.amazon.com/dp/B07SBFJY6T/?tag=redken08-20) por 51.79 EUR (original: 129.95 EUR) en el siguiente enlace!

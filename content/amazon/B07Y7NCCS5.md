@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Y7NCCS5
 description:
+actualPrice: 399.99 EUR
+comparePrice: 599.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [MEDION M80 - Ordenador de sobremesa  Intel Core i5-9400  8GB RAM  1TB de HDD  Intel Graphics  Windows10  Gris](https://www.amazon.com/dp/B07Y7NCCS5/?tag=redken08-20) a 399.99 EUR (original: 599.99 EUR) en el siguiente enlace!

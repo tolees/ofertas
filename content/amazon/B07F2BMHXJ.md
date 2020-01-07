@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F2BMHXJ
 description:
+actualPrice: 9.99 EUR
+comparePrice: 16.9 EUR
+inStock: true
 ---
 
 Tienes [Star Wars Reloj Niños de Digital con Correa en PU SWJ4011](https://www.amazon.com/dp/B07F2BMHXJ/?tag=redken08-20) a precio de oferta de 9.99 EUR (original: 16.9 EUR) en el siguiente enlace!

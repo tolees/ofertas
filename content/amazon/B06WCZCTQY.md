@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06WCZCTQY
 description:
+actualPrice: 9.49 GBP
+comparePrice: 19.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Playmobil 9249 DreamWorks Dragons Eret with 4 Shot Firing Ballista](https://www.amazon.com/dp/B06WCZCTQY/?tag=redken08-20) a 9.49 GBP (original: 19.99 GBP) en el siguiente enlace!

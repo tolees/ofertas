@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00VWZUP70
 description:
+actualPrice: 1 EUR
+comparePrice: 4.19 EUR
+inStock: true
 ---
 
 Está [falksson Personalisierbare Girlande Die Zauberhafte Eiskönigin 1 8 m](https://www.amazon.com/dp/B00VWZUP70/?tag=redken08-20) por 1 EUR (original: 4.19 EUR) en el siguiente enlace!

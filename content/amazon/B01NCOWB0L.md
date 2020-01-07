@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NCOWB0L
 description:
+actualPrice: 24.95 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Tienes [Reebok Classic Leather  Zapatillas de Trail Running para Niños  Blanco  White 0   30.5 EU](https://www.amazon.com/dp/B01NCOWB0L/?tag=redken08-20) a precio de oferta de 24.95 EUR (original: 49.95 EUR) en el siguiente enlace!

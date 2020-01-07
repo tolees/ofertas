@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HHLM5HA
 description:
+actualPrice: 2.12 EUR
+comparePrice: 3.99 EUR
+inStock: true
 ---
 
 Está [Puzle coloreable 20 piezas. Frozen  Puzle coloreable frozen ](https://www.amazon.com/dp/B01HHLM5HA/?tag=redken08-20) por 2.12 EUR (original: 3.99 EUR) en el siguiente enlace!

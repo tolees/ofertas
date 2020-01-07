@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CG5GRBM
 description:
+actualPrice: 24.89 EUR
+comparePrice: 39 EUR
+inStock: true
 ---
 
 Tienes [Felicidad Asiento del Coche de Seguridad para Mascotas Perro Gato Plegable Lavable Viaje Bolsas - se Adapta a pequeños Perros hasta 20 Libras（9KG）](https://www.amazon.com/dp/B07CG5GRBM/?tag=redken08-20) a precio de oferta de 24.89 EUR (original: 39 EUR) en el siguiente enlace!

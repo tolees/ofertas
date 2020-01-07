@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MZMZ5T9
 description:
+actualPrice: 44.95 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
 Está [Pepe Jeans London Tinker Zero 19  Zapatillas para Hombre  Black 999  43 EU](https://www.amazon.com/dp/B07MZMZ5T9/?tag=redken08-20) por 44.95 EUR (original: 75 EUR) en el siguiente enlace!

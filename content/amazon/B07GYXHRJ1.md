@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GYXHRJ1
 description:
+actualPrice: 477.63 EUR
+comparePrice: 719 EUR
+inStock: true
 ---
 
 Está [Samyang SA7081 - Objetivo 14 mm F2.8 para Montura Nikon F](https://www.amazon.com/dp/B07GYXHRJ1/?tag=redken08-20) por 477.63 EUR (original: 719 EUR) en el siguiente enlace!

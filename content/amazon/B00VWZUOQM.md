@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00VWZUOQM
 description:
+actualPrice: 1 EUR
+comparePrice: 4.79 EUR
+inStock: true
 ---
 
 Está [Disney Amscan International Frozen Party Spiel Bj Olaf](https://www.amazon.com/dp/B00VWZUOQM/?tag=redken08-20) por 1 EUR (original: 4.79 EUR) en el siguiente enlace!

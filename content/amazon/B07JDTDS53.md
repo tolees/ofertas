@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JDTDS53
 description:
+actualPrice: 37.32 EUR
+comparePrice: 84.49 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lacoste Ph5522 Polo  Gris  Argent Chiné Cca   X-Small para Hombre](https://www.amazon.com/dp/B07JDTDS53/?tag=redken08-20) a 37.32 EUR (original: 84.49 EUR) en el siguiente enlace!

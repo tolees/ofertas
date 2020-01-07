@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AZLLS1I
 description:
+actualPrice: 45.58 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance 500 Core  Zapatillas para Hombre  Gris Grey Grey  42.5 EU](https://www.amazon.com/dp/B01AZLLS1I/?tag=redken08-20) a 45.58 EUR (original: 75 EUR) en el siguiente enlace!

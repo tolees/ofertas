@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00SAYCXWG
 description:
+actualPrice: 55 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [HyperX KHX-HSCP-RD Cloud II - Gaming Kopfhörer  für PC/PS4/Mac  rot](https://www.amazon.com/dp/B00SAYCXWG/?tag=redken08-20) a 55 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XKS59KG
 description:
+actualPrice: 259.99 EUR
+comparePrice: 489 EUR
+inStock: true
 ---
 
 Está [Bosch PIJ651BB2E - Integrado Placa  Integrado  Con placa de inducción  Vidrio  Negro  15 cm  1400 W ](https://www.amazon.com/dp/B06XKS59KG/?tag=redken08-20) por 259.99 EUR (original: 489 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPSTR4B
 description:
+actualPrice: 8.99 EUR
+comparePrice: 15.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funko 37867 POP Vinyl: BTS: RM Sammelbares Spielzeug  Mehrfarben](https://www.amazon.com/dp/B07KPSTR4B/?tag=redken08-20) a 8.99 EUR (original: 15.9 EUR) en el siguiente enlace!

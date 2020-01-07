@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07YLKPPB9
 description:
+actualPrice: 8.96 EUR
+comparePrice: 17.47 EUR
+inStock: true
 ---
 
 Está [Champion LEGACY CREW SOCKS X6 Calcetines de Deporte  Negro  Noir Logo Uni 8va   35-38  Pack de 6  Unisex](https://www.amazon.com/dp/B07YLKPPB9/?tag=redken08-20) por 8.96 EUR (original: 17.47 EUR) en el siguiente enlace!

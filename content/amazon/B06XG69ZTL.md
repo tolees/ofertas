@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XG69ZTL
 description:
+actualPrice: 8.7 EUR
+comparePrice: 29 EUR
+inStock: true
 ---
 
 Tienes [find. Camisa de Cuadros para Hombre  Multicolor  Multicheck   X-Large](https://www.amazon.com/dp/B06XG69ZTL/?tag=redken08-20) a precio de oferta de 8.7 EUR (original: 29 EUR) en el siguiente enlace!

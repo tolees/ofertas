@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VM73PJQ
 description:
+actualPrice: 9.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [edc by Esprit 099cc1k048 Camisa Manga Larga  Blanco  Off White 110   XX-Large para Mujer](https://www.amazon.com/dp/B07VM73PJQ/?tag=redken08-20) a 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

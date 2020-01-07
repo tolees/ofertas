@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N7WITHL
 description:
+actualPrice: 197.58 EUR
+comparePrice: 369 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Nautica Reloj de Pulsera NAPPRH001](https://www.amazon.com/dp/B01N7WITHL/?tag=redken08-20) a 197.58 EUR (original: 369 EUR) en el siguiente enlace!

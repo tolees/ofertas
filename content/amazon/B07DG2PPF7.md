@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DG2PPF7
 description:
+actualPrice: 53.23 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [ONLY NOS Onlsedona Boucle Wool Coat Otw Noos Abrigo  Negro  Black Detail:Melange   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.com/dp/B07DG2PPF7/?tag=redken08-20) a 53.23 EUR (original: 89.99 EUR) en el siguiente enlace!

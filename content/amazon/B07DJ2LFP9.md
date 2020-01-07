@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DJ2LFP9
 description:
+actualPrice: 15 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance 230  Zapatos de Playa y Piscina Unisex Adulto  Negro  Black/White BK   44 EU](https://www.amazon.com/dp/B07DJ2LFP9/?tag=redken08-20) a 15 EUR (original: 25 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CP9SVJ
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geographical Norway Parka Hombre Boomerang B Azul ELÉCTRICO L](https://www.amazon.com/dp/B081CP9SVJ/?tag=redken08-20) a 65 EUR (original: 99 EUR) en el siguiente enlace!

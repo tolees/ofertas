@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073SCHNSY
 description:
+actualPrice: 8.4 EUR
+comparePrice: 22.4 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Sudadera para Hombre  Azul  Maritime Blue 004   Large](https://www.amazon.com/dp/B073SCHNSY/?tag=redken08-20) a 8.4 EUR (original: 22.4 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HZSBQSM
 description:
+actualPrice: 11 EUR
+comparePrice: 26.3 EUR
+inStock: true
 ---
 
 Tienes [New Look Herringbone Tie Waist Pantalones  Negro  Black Pattern 9   W36  Talla del Fabricante: 18  para Mujer](https://www.amazon.com/dp/B07HZSBQSM/?tag=redken08-20) a precio de oferta de 11 EUR (original: 26.3 EUR) en el siguiente enlace!

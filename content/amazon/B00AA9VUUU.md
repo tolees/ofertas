@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00AA9VUUU
 description:
+actualPrice: 12.3 EUR
+comparePrice: 32.05 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Advance Sensitive Pienso para Gato Esterilizado Adulto con Salmón - 3000 gr](https://www.amazon.com/dp/B00AA9VUUU/?tag=redken08-20) a 12.3 EUR (original: 32.05 EUR) en el siguiente enlace!

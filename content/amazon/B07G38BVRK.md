@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G38BVRK
 description:
+actualPrice: 140 EUR
+comparePrice: 239 EUR
+inStock: true
 ---
 
 Tienes [Chicco Miinimo2 Silla de paseo ultracompacta y ligera  solo 6 kg  color negro  Pure Black Special Edition ](https://www.amazon.com/dp/B07G38BVRK/?tag=redken08-20) a precio de oferta de 140 EUR (original: 239 EUR) en el siguiente enlace!

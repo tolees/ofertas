@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B002WGIY0I
 description:
+actualPrice: 38.5 EUR
+comparePrice: 59 EUR
+inStock: true
 ---
 
 Tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Negro  Full Black S996   44 EU](https://www.amazon.com/dp/B002WGIY0I/?tag=redken08-20) a precio de oferta de 38.5 EUR (original: 59 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H1VTD4K
 description:
+actualPrice: 8.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [ORNARTO Funda Huawei Mate 20 Lite Mate 20 Lite Carcasa [Ultra-Delgado] [Ligera] Mate Anti-arañazos y Antideslizante Protectora Sedoso Caso para Huawei Mate 20 Lite 2018  6.3  Negro](https://www.amazon.com/dp/B07H1VTD4K/?tag=redken08-20) por 8.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNTSHZF
 description:
+actualPrice: 19.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [Lego 41366 Friends Olivias Cupcake-Café  bunt](https://www.amazon.com/dp/B07FNTSHZF/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG22YRR
 description:
+actualPrice: 23.42 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Tienes [PUMA RS 9.8 Space  Zapatillas Unisex Adulto  Pastel Parchment White  44.5 EU](https://www.amazon.com/dp/B07KG22YRR/?tag=redken08-20) a precio de oferta de 23.42 EUR (original: 89.95 EUR) en el siguiente enlace!

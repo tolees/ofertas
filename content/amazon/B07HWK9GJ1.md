@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HWK9GJ1
 description:
+actualPrice: 7.99 EUR
+comparePrice: 34.99 EUR
+inStock: true
 ---
 
 Tienes [Huawei 51992696 Mate 20 Pro Aktiv Schutzhülle  Black](https://www.amazon.com/dp/B07HWK9GJ1/?tag=redken08-20) a precio de oferta de 7.99 EUR (original: 34.99 EUR) en el siguiente enlace!

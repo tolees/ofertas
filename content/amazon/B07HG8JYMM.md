@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HG8JYMM
 description:
+actualPrice: 17.44 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [Project Highrise - Architect s Edition](https://www.amazon.com/dp/B07HG8JYMM/?tag=redken08-20) por 17.44 EUR (original: 39.99 EUR) en el siguiente enlace!

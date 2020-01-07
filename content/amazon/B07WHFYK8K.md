@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WHFYK8K
 description:
+actualPrice: 20.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [NETVIP WiFi Repetidor de Red Extensor 300Mbps Repetidor Mini Wireless Amplificador Extensor de Rango Inalámbrico Modo Punto de Acceso/Repetidor 2.4GHz Puerto LAN 802.11b/g/n Fácil de Instalar - Negro](https://www.amazon.com/dp/B07WHFYK8K/?tag=redken08-20) a 20.99 EUR (original: 39.99 EUR) en el siguiente enlace!

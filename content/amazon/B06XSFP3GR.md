@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XSFP3GR
 description:
+actualPrice: 179 EUR
+comparePrice: 399.99 EUR
+inStock: true
 ---
 
 Está [Moulinex HF404113 Robot de cocina multifunción  capacidad de 3 l  interfaz intuitivo con 5 programas automáticos  5 accesorios  1000 W  Plástico](https://www.amazon.com/dp/B06XSFP3GR/?tag=redken08-20) por 179 EUR (original: 399.99 EUR) en el siguiente enlace!

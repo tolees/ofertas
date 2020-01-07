@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KJZRPLZ
 description:
+actualPrice: 15.55 EUR
+comparePrice: 26 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour UA Patterson Backpack Mochila  Unisex Adulto  Gris  Steel Medium Heather/Black/White 035   Talla única](https://www.amazon.com/dp/B07KJZRPLZ/?tag=redken08-20) a 15.55 EUR (original: 26 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DJ3PQSW
 description:
+actualPrice: 34.57 EUR
+comparePrice: 100 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance 574S v2  Zapatillas para Mujer  Negro Teal Black  41.5 EU](https://www.amazon.com/dp/B07DJ3PQSW/?tag=redken08-20) a 34.57 EUR (original: 100 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KFB3Z5V
 description:
+actualPrice: 133.98 EUR
+comparePrice: 280.56 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bulova Reloj de Pulsera 97B174](https://www.amazon.com/dp/B07KFB3Z5V/?tag=redken08-20) a 133.98 EUR (original: 280.56 EUR) en el siguiente enlace!

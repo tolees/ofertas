@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B018UYHBK4
 description:
+actualPrice: 14.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [Artix Auriculares Plegables con Micrófono  Auriculares Estéreo NRGSound Compactos en la Oreja  Ideales para Niños/Adolescentes/Adultos  Purpura ](https://www.amazon.com/dp/B018UYHBK4/?tag=redken08-20) por 14.99 EUR (original: 49.99 EUR) en el siguiente enlace!

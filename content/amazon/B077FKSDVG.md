@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077FKSDVG
 description:
+actualPrice: 6.2 EUR
+comparePrice: 10.44 EUR
+inStock: true
 ---
 
 Tienes [CLAUDE MONET  Water Lilies: Bag](https://www.amazon.com/dp/B077FKSDVG/?tag=redken08-20) a precio de oferta de 6.2 EUR (original: 10.44 EUR) en el siguiente enlace!

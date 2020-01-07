@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000JVVTCI
 description:
+actualPrice: 4.94 EUR
+comparePrice: 10.98 EUR
+inStock: true
 ---
 
 Tienes [NUBY Llaves de dentición refrigerantes con pureICE Gel](https://www.amazon.com/dp/B000JVVTCI/?tag=redken08-20) a precio de oferta de 4.94 EUR (original: 10.98 EUR) en el siguiente enlace!

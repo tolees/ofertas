@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Z3DTDVK
 description:
+actualPrice: 89.98 EUR
+comparePrice: 159 EUR
+inStock: true
 ---
 
 Tienes [BuTure Arrancador de Coches 2000A/22000mAh 12V Arrancador de Baterias de Coche para Gas de 8L y Diesel de 8L  Arrancador Batería Coche con Dos Salidas USB  Salida de DC & 4 Modos Linterna LED](https://www.amazon.com/dp/B07Z3DTDVK/?tag=redken08-20) a precio de oferta de 89.98 EUR (original: 159 EUR) en el siguiente enlace!

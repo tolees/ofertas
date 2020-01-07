@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00ZWOUH4S
 description:
+actualPrice: 34.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Logitech Driving Force Shifter  Palanca de Cambios para Volante G29 y G920  Playstation 4  Alámbrico  Sin Sistema operativo  Negro](https://www.amazon.com/dp/B00ZWOUH4S/?tag=redken08-20) a 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!

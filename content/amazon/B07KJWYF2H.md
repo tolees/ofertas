@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KJWYF2H
 description:
+actualPrice: 29.22 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Está [El Naturalista N5244 Multi Leather Zumaia  Sandalias con Punta Abierta para Mujer  Multicolor  Sandalo Mixed Sandalo Mixed   40 EU](https://www.amazon.com/dp/B07KJWYF2H/?tag=redken08-20) por 29.22 EUR (original: 99.95 EUR) en el siguiente enlace!

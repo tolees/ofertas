@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L34CLDN
 description:
+actualPrice: 13.66 EUR
+comparePrice: 34.9 EUR
+inStock: true
 ---
 
 Tienes [Hilfiger Denim Stripe Tommy Jeans Beach Sandal  Chanclas para Hombre  Negro  Black 990   43 EU](https://www.amazon.com/dp/B07L34CLDN/?tag=redken08-20) a precio de oferta de 13.66 EUR (original: 34.9 EUR) en el siguiente enlace!

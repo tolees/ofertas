@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00IZAALM4
 description:
+actualPrice: 179.53 EUR
+comparePrice: 272.43 EUR
+inStock: true
 ---
 
 Está [STANLEY FATMAX FMC761M2-QW - Amoladora 125mm  18V  con 2 baterías de litio 4Ah y maletín](https://www.amazon.com/dp/B00IZAALM4/?tag=redken08-20) por 179.53 EUR (original: 272.43 EUR) en el siguiente enlace!

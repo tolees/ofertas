@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G2K7CCB
 description:
+actualPrice: 24.95 EUR
+comparePrice: 39.95 EUR
+inStock: true
 ---
 
 Está [Taiko No Tatsujin: Drum n Fun](https://www.amazon.com/dp/B07G2K7CCB/?tag=redken08-20) por 24.95 EUR (original: 39.95 EUR) en el siguiente enlace!

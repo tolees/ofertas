@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0009OAGWY
 description:
+actualPrice: 21.04 EUR
+comparePrice: 52.3 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Giorgio Beverly Hills Yellow Agua de toilette con vaporizador - 50 ml](https://www.amazon.com/dp/B0009OAGWY/?tag=redken08-20) a 21.04 EUR (original: 52.3 EUR) en el siguiente enlace!

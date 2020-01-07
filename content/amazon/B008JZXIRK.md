@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B008JZXIRK
 description:
+actualPrice: 40.41 EUR
+comparePrice: 119.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [s.Oliver SO-2534-LQ - Reloj analógico de cuarzo para hombre con correa de piel  color marrón](https://www.amazon.com/dp/B008JZXIRK/?tag=redken08-20) a 40.41 EUR (original: 119.95 EUR) en el siguiente enlace!

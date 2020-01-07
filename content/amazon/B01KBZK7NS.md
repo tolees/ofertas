@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01KBZK7NS
 description:
+actualPrice: 7.99 EUR
+comparePrice: 12.99 EUR
+inStock: true
 ---
 
 Está [Senston Anti Slip Sobregrip Racket Overgrip Antideslizante Tenis Bádminton Raqueta Grip](https://www.amazon.com/dp/B01KBZK7NS/?tag=redken08-20) por 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!

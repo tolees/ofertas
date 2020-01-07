@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071JHCQP6
 description:
+actualPrice: 53.97 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Adidas Campus Bz0084  Zapatillas para Hombre  Negro  Core Black/Footwear White/Chalk White 0   42 EU](https://www.amazon.com/dp/B071JHCQP6/?tag=redken08-20) a 53.97 EUR (original: 89.95 EUR) en el siguiente enlace!

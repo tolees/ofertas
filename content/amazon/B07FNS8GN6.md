@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNS8GN6
 description:
+actualPrice: 16.36 EUR
+comparePrice: 28.95 EUR
+inStock: true
 ---
 
 Está [Buff Solid Gorro Forro Polar Térmico  Mujer  Black  Talla Única](https://www.amazon.com/dp/B07FNS8GN6/?tag=redken08-20) por 16.36 EUR (original: 28.95 EUR) en el siguiente enlace!

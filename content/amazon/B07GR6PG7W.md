@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GR6PG7W
 description:
+actualPrice: 29.99 EUR
+comparePrice: 48.99 EUR
+inStock: true
 ---
 
 Está [Cinta Métrica Láser 2 En 1  TACKLIFE Metro Láser 40m y Combinación de Cinta Métrica 5m  2 Apertura Láser  HD y LCD Pantalla  Autoblocante  Gancho Activo  con 2 AAA Baterías y 1 Destornillador -TM-L01](https://www.amazon.com/dp/B07GR6PG7W/?tag=redken08-20) por 29.99 EUR (original: 48.99 EUR) en el siguiente enlace!

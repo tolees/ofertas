@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNS6P6C
 description:
+actualPrice: 13.06 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Tienes [LEGO City 60222 Pistenraupe](https://www.amazon.com/dp/B07FNS6P6C/?tag=redken08-20) a precio de oferta de 13.06 EUR (original: 19.99 EUR) en el siguiente enlace!

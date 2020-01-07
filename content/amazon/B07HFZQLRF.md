@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HFZQLRF
 description:
+actualPrice: 46.5 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance 247v2  Zapatillas para Hombre  Plateado  Steel Steel   42 EU](https://www.amazon.com/dp/B07HFZQLRF/?tag=redken08-20) a 46.5 EUR (original: 90 EUR) en el siguiente enlace!

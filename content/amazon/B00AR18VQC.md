@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00AR18VQC
 description:
+actualPrice: 276.95 EUR
+comparePrice: 430 EUR
+inStock: true
 ---
 
 Tienes [The North Face McMurdo - Chaqueta Impermeable  Hombre  Negro  TNF Black   M](https://www.amazon.com/dp/B00AR18VQC/?tag=redken08-20) a precio de oferta de 276.95 EUR (original: 430 EUR) en el siguiente enlace!

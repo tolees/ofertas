@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073X1VSNS
 description:
+actualPrice: 30 EUR
+comparePrice: 50 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Eastpak Padded Pak R Mochila  24 L  Azul  Cloud Navy   40 x 18 x 30 cm](https://www.amazon.com/dp/B073X1VSNS/?tag=redken08-20) a 30 EUR (original: 50 EUR) en el siguiente enlace!

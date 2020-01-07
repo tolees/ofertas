@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NAUATSM
 description:
+actualPrice: 16.95 EUR
+comparePrice: 29.95 EUR
+inStock: true
 ---
 
 Está [HORI - Horipad negro  Nintendo Switch ](https://www.amazon.com/dp/B01NAUATSM/?tag=redken08-20) por 16.95 EUR (original: 29.95 EUR) en el siguiente enlace!

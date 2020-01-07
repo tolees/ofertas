@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00IRBAX42
 description:
+actualPrice: 32.69 EUR
+comparePrice: 64 EUR
+inStock: true
 ---
 
 Tienes [Cartier  Agua de perfume para mujeres - 30 gr.](https://www.amazon.com/dp/B00IRBAX42/?tag=redken08-20) a precio de oferta de 32.69 EUR (original: 64 EUR) en el siguiente enlace!

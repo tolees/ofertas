@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074MKCXLH
 description:
+actualPrice: 12.49 EUR
+comparePrice: 23.9 EUR
+inStock: true
 ---
 
 Está [Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Negro  Black/Black   43/44 EU  8 UK ](https://www.amazon.com/dp/B074MKCXLH/?tag=redken08-20) por 12.49 EUR (original: 23.9 EUR) en el siguiente enlace!

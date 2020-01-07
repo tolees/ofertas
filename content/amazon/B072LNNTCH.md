@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072LNNTCH
 description:
+actualPrice: 17.95 EUR
+comparePrice: 34.95 EUR
+inStock: true
 ---
 
 Está [Crocs Crocs Fun Lab Frozen Clog Kids  Mädchen Clogs  Pink  Candy Pink   32/33 EU](https://www.amazon.com/dp/B072LNNTCH/?tag=redken08-20) por 17.95 EUR (original: 34.95 EUR) en el siguiente enlace!

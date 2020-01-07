@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F6Q3DCG
 description:
+actualPrice: 39.05 EUR
+comparePrice: 70 EUR
+inStock: true
 ---
 
 Está [Salomon Trailblazer Mochila de Senderismo/Viaje  Espaciosa y práctica  Capacidad 30 l  Unisex Adulto  Azul  Poseidon /Gris Oscuro  Ebony   Talla única](https://www.amazon.com/dp/B07F6Q3DCG/?tag=redken08-20) por 39.05 EUR (original: 70 EUR) en el siguiente enlace!

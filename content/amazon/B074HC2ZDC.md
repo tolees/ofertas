@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074HC2ZDC
 description:
+actualPrice: 8.88 EUR
+comparePrice: 34.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Vila Clothes Vilucy L/s Shirt-Noos Blusa  Azul Plein Air  36  Talla del Fabricante: Small  para Mujer](https://www.amazon.com/dp/B074HC2ZDC/?tag=redken08-20) a 8.88 EUR (original: 34.99 EUR) en el siguiente enlace!

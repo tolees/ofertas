@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079MNQZW6
 description:
+actualPrice: 25.99 EUR
+comparePrice: 54.99 EUR
+inStock: true
 ---
 
 Tienes [PLAYMOBIL Magic 9470 Suche nach dem Liebeskristall mit Leuchtkristall  Ab 4 Jahren](https://www.amazon.com/dp/B079MNQZW6/?tag=redken08-20) a precio de oferta de 25.99 EUR (original: 54.99 EUR) en el siguiente enlace!

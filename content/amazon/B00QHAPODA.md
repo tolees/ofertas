@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00QHAPODA
 description:
+actualPrice: 31.34 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Negro  Black/Steel 001   S](https://www.amazon.com/dp/B00QHAPODA/?tag=redken08-20) a 31.34 EUR (original: 55 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BWC53SR
 description:
+actualPrice: 18.99 EUR
+comparePrice: 28.55 EUR
+inStock: true
 ---
 
 Está [deAO Soldados en Batalla Fuerzas Armadas Unidad de Defensa Militar Conjunto de 303 Piezas Incluye Figuras de Acción Coleccionable  Vehículos  Artillería y Accesorios](https://www.amazon.com/dp/B07BWC53SR/?tag=redken08-20) por 18.99 EUR (original: 28.55 EUR) en el siguiente enlace!

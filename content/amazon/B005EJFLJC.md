@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005EJFLJC
 description:
+actualPrice: 8.99 EUR
+comparePrice: 14.2 EUR
+inStock: true
 ---
 
 Está [Duracell Plus Power  Pilas Alcalinas AA 1.5 Voltios LR06 MX1500  Paquete de 12  Negro](https://www.amazon.com/dp/B005EJFLJC/?tag=redken08-20) por 8.99 EUR (original: 14.2 EUR) en el siguiente enlace!

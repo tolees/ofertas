@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079MSHJKS
 description:
+actualPrice: 9.49 EUR
+comparePrice: 16.99 EUR
+inStock: true
 ---
 
 Está [PLAYMOBIL City Life 9456 Chemieunterricht  Ab 5 Jahren](https://www.amazon.com/dp/B079MSHJKS/?tag=redken08-20) por 9.49 EUR (original: 16.99 EUR) en el siguiente enlace!

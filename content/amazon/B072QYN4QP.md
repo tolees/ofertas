@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072QYN4QP
 description:
+actualPrice: 16.99 EUR
+comparePrice: 34.7 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Odlo Warm Trend  Camiseta de Manga Larga Infantil  Gris  Grey Melange   80 cm](https://www.amazon.com/dp/B072QYN4QP/?tag=redken08-20) a 16.99 EUR (original: 34.7 EUR) en el siguiente enlace!

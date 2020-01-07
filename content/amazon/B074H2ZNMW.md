@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074H2ZNMW
 description:
+actualPrice: 19.2 EUR
+comparePrice: 40.0 EUR
+inStock: true
 ---
 
 Tienes [find. Camisa con Volantes para Mujer  Azul  Navy   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B074H2ZNMW/?tag=redken08-20) a precio de oferta de 19.2 EUR (original: 40.0 EUR) en el siguiente enlace!

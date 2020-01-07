@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1SOVEW
 description:
+actualPrice: 15 EUR
+comparePrice: 39.38 EUR
+inStock: true
 ---
 
 Tienes [find. Chubasquero Largo con Estampado para Mujer   Multicolor  Blue/pink Aztec   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B01N1SOVEW/?tag=redken08-20) a precio de oferta de 15 EUR (original: 39.38 EUR) en el siguiente enlace!

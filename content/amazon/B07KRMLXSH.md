@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KRMLXSH
 description:
+actualPrice: 28.06 EUR
+comparePrice: 85 EUR
+inStock: true
 ---
 
 Está [New Balance 373 Zapatillas Hombre  Azul  Blue Blue   37 EU](https://www.amazon.com/dp/B07KRMLXSH/?tag=redken08-20) por 28.06 EUR (original: 85 EUR) en el siguiente enlace!

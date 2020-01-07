@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TF0DTBS
 description:
+actualPrice: 7.99 GBP
+comparePrice: 13.99 GBP
+inStock: true
 ---
 
 Tienes [Rubie s Official Disney Frozen Anna Wig  Children Costume - One Size](https://www.amazon.com/dp/B00TF0DTBS/?tag=redken08-20) a precio de oferta de 7.99 GBP (original: 13.99 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MRXPXGA
 description:
+actualPrice: 12 EUR
+comparePrice: 32 EUR
+inStock: true
 ---
 
 Está [find. Flared Sleeve Blusa para Mujer  Negro  Black Mix   38  Talla del Fabricante: Small ](https://www.amazon.com/dp/B01MRXPXGA/?tag=redken08-20) por 12 EUR (original: 32 EUR) en el siguiente enlace!

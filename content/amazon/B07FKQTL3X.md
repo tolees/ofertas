@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FKQTL3X
 description:
+actualPrice: 30.99 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Tienes [adidas 3Mc  Zapatillas de Skateboard Unisex Adulto  Negro  Core Black/Core Black/FTWR White Core Black/Core Black/FTWR White   36.5 EU](https://www.amazon.com/dp/B07FKQTL3X/?tag=redken08-20) a precio de oferta de 30.99 EUR (original: 64.95 EUR) en el siguiente enlace!

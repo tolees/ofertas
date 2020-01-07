@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HG5QTBP
 description:
+actualPrice: 47.45 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance Cm997hv1  Zapatillas para Hombre  Gris  Grey Grey   37 EU](https://www.amazon.com/dp/B07HG5QTBP/?tag=redken08-20) a 47.45 EUR (original: 90 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KVXNRWM
 description:
+actualPrice: 199 EUR
+comparePrice: 329 EUR
+inStock: true
 ---
 
 Está [Polti La Vaporella XT90C Centro de Planchado a Vapor con Caldera  2350 W  1.4 L  7 BAR  Autonomía Ilimitada  Steam Pulse 450G  3 Programas de Planchado](https://www.amazon.com/dp/B07KVXNRWM/?tag=redken08-20) por 199 EUR (original: 329 EUR) en el siguiente enlace!

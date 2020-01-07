@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WYDHQ7Z
 description:
+actualPrice: 22.99 EUR
+comparePrice: 36.99 EUR
+inStock: true
 ---
 
 Está [Omasi Gafas de esquí  Máscara Gafas Esqui Snowboard para Hombre Mujer Adultos Anti Niebla Gafas de Esquiar OTG Protección UV Lente Intercambiable](https://www.amazon.com/dp/B07WYDHQ7Z/?tag=redken08-20) por 22.99 EUR (original: 36.99 EUR) en el siguiente enlace!

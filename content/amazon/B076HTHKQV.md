@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076HTHKQV
 description:
+actualPrice: 14.4 EUR
+comparePrice: 36 EUR
+inStock: true
 ---
 
 Está [find. 59699 vaqueros mujer  Azul  Mid Blue   W27/L32](https://www.amazon.com/dp/B076HTHKQV/?tag=redken08-20) por 14.4 EUR (original: 36 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QWNDV33
 description:
+actualPrice: 29.95 EUR
+comparePrice: 50 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Rival Fleece Graphic Novelty Sudadera con Capucha  Mujer  Negro  Black/Onyx White/Black 001   S](https://www.amazon.com/dp/B07QWNDV33/?tag=redken08-20) a 29.95 EUR (original: 50 EUR) en el siguiente enlace!

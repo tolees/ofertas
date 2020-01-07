@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00LHX6PKI
 description:
+actualPrice: 86.09 EUR
+comparePrice: 149.95 EUR
+inStock: true
 ---
 
 Tienes [Einhell Bohrhammer TE-RH 32 E  1250 W  5 J  Bohrleistung Ø 32 mm  SDS-Plus-Aufnahme  Metall-Tiefenanschlag  Vibrationsdämpfung mit Andruckanzeige  Koffer ](https://www.amazon.com/dp/B00LHX6PKI/?tag=redken08-20) a precio de oferta de 86.09 EUR (original: 149.95 EUR) en el siguiente enlace!

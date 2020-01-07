@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NLJ2GMW
 description:
+actualPrice: 84.66 EUR
+comparePrice: 128 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Versace Jeans CouturePortafoglioMujerCarterasBlanco  Bianco Ottico  0 5x16x25 5 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLJ2GMW/?tag=redken08-20) a 84.66 EUR (original: 128 EUR) en el siguiente enlace!

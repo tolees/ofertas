@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078BNYJHR
 description:
+actualPrice: 149 GBP
+comparePrice: 299 GBP
+inStock: true
 ---
 
 Tienes [Canton DM5 Soundbar - Black Glass](https://www.amazon.com/dp/B078BNYJHR/?tag=redken08-20) a precio de oferta de 149 GBP (original: 299 GBP) en el siguiente enlace!

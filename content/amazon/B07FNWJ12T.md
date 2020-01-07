@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNWJ12T
 description:
+actualPrice: 59.99 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [THE LEGO MOVIE 2 70828 Pop-Up-Party-Bus](https://www.amazon.com/dp/B07FNWJ12T/?tag=redken08-20) a 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00ZCHBJ9M
 description:
+actualPrice: 35.5 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Imaginarium- Set de construcción con Piezas con Motor  Multicolor  87579 ](https://www.amazon.com/dp/B00ZCHBJ9M/?tag=redken08-20) a 35.5 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CELLR22
 description:
+actualPrice: 20 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Tienes [Hasbro Gaming Clasico Cluedo  Versión Española   38712546 ](https://www.amazon.com/dp/B01CELLR22/?tag=redken08-20) a precio de oferta de 20 EUR (original: 30 EUR) en el siguiente enlace!

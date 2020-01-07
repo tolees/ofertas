@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PRJXRWG
 description:
+actualPrice: 14.99 GBP
+comparePrice: 88.99 GBP
+inStock: true
 ---
 
 Está [Snow Queen Elsa Dress Frozen Princess Costume Cosplay Fancy Party Dressing up Dresses Party Outfit](https://www.amazon.com/dp/B07PRJXRWG/?tag=redken08-20) por 14.99 GBP (original: 88.99 GBP) en el siguiente enlace!

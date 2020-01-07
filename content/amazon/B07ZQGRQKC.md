@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ZQGRQKC
 description:
+actualPrice: 26.99 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Está [Tronsmart T6 Mini Altavoces Bluetooth 15W  24 Horas de Reproducción  TWS Sonido Stereo 360°  IPX6 Waterproof  Altavoz portatil Bluetooth 5.0  Apoya TF Card Memoria USB de 64G y Asistente de Voz - Rojo](https://www.amazon.com/dp/B07ZQGRQKC/?tag=redken08-20) por 26.99 EUR (original: 60 EUR) en el siguiente enlace!

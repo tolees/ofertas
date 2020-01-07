@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KWB2PW7
 description:
+actualPrice: 72.83 EUR
+comparePrice: 129.95 EUR
+inStock: true
 ---
 
 Tienes [Salomon XA Pro 3D W Zapatillas de trail running Mujer  Morado  Potent Purple/Navy Blazer/Bluestone   36 2/3 EU  4 UK ](https://www.amazon.com/dp/B07KWB2PW7/?tag=redken08-20) a precio de oferta de 72.83 EUR (original: 129.95 EUR) en el siguiente enlace!

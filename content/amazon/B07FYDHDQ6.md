@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FYDHDQ6
 description:
+actualPrice: 32.48 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Tienes [Wrangler 5 Pocket Short Pantalones Cortos  Verde  Green Devil 276   W33 para Hombre](https://www.amazon.com/dp/B07FYDHDQ6/?tag=redken08-20) a precio de oferta de 32.48 EUR (original: 64.95 EUR) en el siguiente enlace!

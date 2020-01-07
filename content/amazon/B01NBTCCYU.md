@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NBTCCYU
 description:
+actualPrice: 18 EUR
+comparePrice: 48 EUR
+inStock: true
 ---
 
 Está [find. Zapatos De Cordones con Perforaciones para Hombre  Negro  Black   42 EU](https://www.amazon.com/dp/B01NBTCCYU/?tag=redken08-20) por 18 EUR (original: 48 EUR) en el siguiente enlace!

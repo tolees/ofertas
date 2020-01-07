@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DFCTKW8
 description:
+actualPrice: 7.34 GBP
+comparePrice: 12.99 GBP
+inStock: true
 ---
 
 Tienes [Funko 32348 POP Vinyl: Horror 2: Drag Gremlin  Multi  Standard](https://www.amazon.com/dp/B07DFCTKW8/?tag=redken08-20) a precio de oferta de 7.34 GBP (original: 12.99 GBP) en el siguiente enlace!

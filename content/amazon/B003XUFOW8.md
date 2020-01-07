@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B003XUFOW8
 description:
+actualPrice: 97.29 EUR
+comparePrice: 169.95 EUR
+inStock: true
 ---
 
 Tienes [Einhell Abbruchhammer BT-DH 1600/1  1600 W  1800 1/min Schlagzahl  43 J Schlagstärke  Sechskantaufnahme  Zusatzhandgriff  inkl. 2 Meißel und Koffer ](https://www.amazon.com/dp/B003XUFOW8/?tag=redken08-20) a precio de oferta de 97.29 EUR (original: 169.95 EUR) en el siguiente enlace!

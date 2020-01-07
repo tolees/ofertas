@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NC9MDV3
 description:
+actualPrice: 59.49 EUR
+comparePrice: 92.9 EUR
+inStock: true
 ---
 
 Está [Pepe Jeans Hatch Vaqueros  Black Used Denim  30W / 34L para Hombre](https://www.amazon.com/dp/B07NC9MDV3/?tag=redken08-20) por 59.49 EUR (original: 92.9 EUR) en el siguiente enlace!

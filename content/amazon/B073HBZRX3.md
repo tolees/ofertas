@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073HBZRX3
 description:
+actualPrice: 5.9 EUR
+comparePrice: 8.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Maybelline New York - Superstay Matte Ink  Barra de Labios Mate  Tono 50 Voyager](https://www.amazon.com/dp/B073HBZRX3/?tag=redken08-20) a 5.9 EUR (original: 8.99 EUR) en el siguiente enlace!

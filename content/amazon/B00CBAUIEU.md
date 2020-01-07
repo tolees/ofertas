@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00CBAUIEU
 description:
+actualPrice: 3.99 EUR
+comparePrice: 6.4 EUR
+inStock: true
 ---
 
 Está [Verbatim 44082 - Tarjeta de Memoria Micro SDHC de 16 GB con Adaptado  Clase 10 ](https://www.amazon.com/dp/B00CBAUIEU/?tag=redken08-20) por 3.99 EUR (original: 6.4 EUR) en el siguiente enlace!

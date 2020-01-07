@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B010GTIYSE
 description:
+actualPrice: 43.58 EUR
+comparePrice: 79 EUR
+inStock: true
 ---
 
 Tienes [Timex Expedition - Reloj análogico de cuarzo con correa de cuero para hombre  Negro  Negro ](https://www.amazon.com/dp/B010GTIYSE/?tag=redken08-20) a precio de oferta de 43.58 EUR (original: 79 EUR) en el siguiente enlace!

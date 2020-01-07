@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFWQ7MS
 description:
+actualPrice: 24.9 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Tienes [Mortal Kombat 11 - Standard Edition](https://www.amazon.com/dp/B07LFWQ7MS/?tag=redken08-20) a precio de oferta de 24.9 EUR (original: 49.99 EUR) en el siguiente enlace!

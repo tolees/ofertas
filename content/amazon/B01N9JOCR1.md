@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N9JOCR1
 description:
+actualPrice: 10.5 EUR
+comparePrice: 17.5 EUR
+inStock: true
 ---
 
 Está [find. Falda Plisada de Encaje para Mujer   Negro  Black   46  Talla del Fabricante: XX-Large ](https://www.amazon.com/dp/B01N9JOCR1/?tag=redken08-20) por 10.5 EUR (original: 17.5 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LYRGY7M
 description:
+actualPrice: 49 EUR
+comparePrice: 84.99 EUR
+inStock: true
 ---
 
 Tienes [PLAYMOBIL Ghostbusters 9219 Feuerwache  Ab 6 Jahren](https://www.amazon.com/dp/B01LYRGY7M/?tag=redken08-20) a precio de oferta de 49 EUR (original: 84.99 EUR) en el siguiente enlace!

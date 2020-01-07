@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HHRMHVG
 description:
+actualPrice: 13.29 EUR
+comparePrice: 20.49 EUR
+inStock: true
 ---
 
 Está [Luz de botella de LED  9x 20 Luz de botella de LED Luces de cadena Luz de noche Botella de vino Luz de botella de corcho Luz de LED Luces de hadas Botellas Bricolaje 39 pulgadas - [Blanco cš¢lido]](https://www.amazon.com/dp/B07HHRMHVG/?tag=redken08-20) por 13.29 EUR (original: 20.49 EUR) en el siguiente enlace!

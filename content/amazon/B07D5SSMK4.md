@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D5SSMK4
 description:
+actualPrice: 21.49 EUR
+comparePrice: 44.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Puma ESS Logo Crew TR Sweatshirt  Mujer  Gris  Light Gray Heather   M](https://www.amazon.com/dp/B07D5SSMK4/?tag=redken08-20) a 21.49 EUR (original: 44.95 EUR) en el siguiente enlace!

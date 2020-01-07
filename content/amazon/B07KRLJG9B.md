@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KRLJG9B
 description:
+actualPrice: 36.45 EUR
+comparePrice: 100 EUR
+inStock: true
 ---
 
 Tienes [New Balance - 574v2  Zapatillas Mujer  Morado  Purple Purple   37 EU](https://www.amazon.com/dp/B07KRLJG9B/?tag=redken08-20) a precio de oferta de 36.45 EUR (original: 100 EUR) en el siguiente enlace!

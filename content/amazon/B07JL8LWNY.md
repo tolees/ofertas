@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JL8LWNY
 description:
+actualPrice: 24.33 EUR
+comparePrice: 40.57 EUR
+inStock: true
 ---
 
 Está [dreamlock vehículo articulado retrofriction de construcción 199 pcs 5804 AZ](https://www.amazon.com/dp/B07JL8LWNY/?tag=redken08-20) por 24.33 EUR (original: 40.57 EUR) en el siguiente enlace!

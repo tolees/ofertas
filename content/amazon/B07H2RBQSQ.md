@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H2RBQSQ
 description:
+actualPrice: 19.99 EUR
+comparePrice: 32.99 EUR
+inStock: true
 ---
 
 Está [Godmorn Cafetera italiana Cafetera espressos en Acero inoxidable430 6 tazas 300ml  Conveniente para la cocina de inducción Cafetera Moka Clásica Plata Perfecta para Uso Doméstico y en la Oficina.](https://www.amazon.com/dp/B07H2RBQSQ/?tag=redken08-20) por 19.99 EUR (original: 32.99 EUR) en el siguiente enlace!

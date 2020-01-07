@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00FFEG7PI
 description:
+actualPrice: 19.95 GBP
+comparePrice: 50 GBP
+inStock: true
 ---
 
 Está [Calvin Klein CKIN2U For Him Eau de Toilette  150 ml](https://www.amazon.com/dp/B00FFEG7PI/?tag=redken08-20) por 19.95 GBP (original: 50 GBP) en el siguiente enlace!

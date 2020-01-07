@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KRM5XKZ
 description:
+actualPrice: 57.42 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Está [New Balance 247v2  Zapatillas para Hombre  Blanco  Team Royal Team Royal   42 EU](https://www.amazon.com/dp/B07KRM5XKZ/?tag=redken08-20) por 57.42 EUR (original: 90 EUR) en el siguiente enlace!

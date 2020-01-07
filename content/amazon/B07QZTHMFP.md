@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QZTHMFP
 description:
+actualPrice: 30.49 EUR
+comparePrice: 65 EUR
+inStock: true
 ---
 
 Tienes [Under Armour Metallic Woven FZ Parte Superior del Calentamiento  Mujer  Negro  SM](https://www.amazon.com/dp/B07QZTHMFP/?tag=redken08-20) a precio de oferta de 30.49 EUR (original: 65 EUR) en el siguiente enlace!

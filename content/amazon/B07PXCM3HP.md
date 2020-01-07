@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PXCM3HP
 description:
+actualPrice: 5.95 EUR
+comparePrice: 10.99 EUR
+inStock: true
 ---
 
 Está [LAYJOY Funda Xiaomi Mi 9  Ligera Carcasa Silicona Suave TPU Gel Bumper Case de Protectora [Antideslizante] [Anti-Golpes] Cover Caso para Xiaomi Mi 9  2019  6.39" -Negro](https://www.amazon.com/dp/B07PXCM3HP/?tag=redken08-20) por 5.95 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LCFBNWA
 description:
+actualPrice: 952.9 EUR
+comparePrice: 1599 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Tamron T80177 - Objetivo SP 150-600 mm F/5-6.3 Di VC USD G2 para Nikon  Negro](https://www.amazon.com/dp/B01LCFBNWA/?tag=redken08-20) a 952.9 EUR (original: 1599 EUR) en el siguiente enlace!

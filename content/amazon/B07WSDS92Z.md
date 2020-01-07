@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WSDS92Z
 description:
+actualPrice: 25.95 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Luz Solar Exterior  Ekrist【Iluminación de 5 Lados】118 LED Luces Solares Foco Solar Exterior con Sensor de Movimiento  270°Gran Angular Impermeable Lampara Solar Exterior Para Jardín 2-Paquete](https://www.amazon.com/dp/B07WSDS92Z/?tag=redken08-20) a 25.95 EUR (original: 69.99 EUR) en el siguiente enlace!

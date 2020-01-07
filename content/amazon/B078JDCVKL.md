@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078JDCVKL
 description:
+actualPrice: 15.99 EUR
+comparePrice: 42.53 EUR
+inStock: true
 ---
 
 Está [Hoomtaook Escobilla de baño con escobillero sin clavos  Sin daños  Adhesivo  Alumnio espacial Inoxidable  Fijación en pared](https://www.amazon.com/dp/B078JDCVKL/?tag=redken08-20) por 15.99 EUR (original: 42.53 EUR) en el siguiente enlace!

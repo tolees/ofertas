@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F9M9DGQ
 description:
+actualPrice: 17.99 EUR
+comparePrice: 34.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [GoPetee Fundas Perro para Coche Resistente Cubierta Asiento Coche para Perros Impermeable Protector de Asiento de Autos Antideslizante para Mascotas Portátil para Viaje con Hebilla de Seguridad](https://www.amazon.com/dp/B07F9M9DGQ/?tag=redken08-20) a 17.99 EUR (original: 34.99 EUR) en el siguiente enlace!

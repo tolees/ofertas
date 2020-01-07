@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07YZRG4PR
 description:
+actualPrice: 29.95 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [HORI - Mando inalámbrico Onyx Plus  PS4/PC ](https://www.amazon.com/dp/B07YZRG4PR/?tag=redken08-20) por 29.95 EUR (original: 49.99 EUR) en el siguiente enlace!

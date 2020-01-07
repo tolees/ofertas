@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JNRDR6L
 description:
+actualPrice: 108 EUR
+comparePrice: 240 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pinko 1G13F67080 Pantalone Mujer 44](https://www.amazon.com/dp/B07JNRDR6L/?tag=redken08-20) a 108 EUR (original: 240 EUR) en el siguiente enlace!

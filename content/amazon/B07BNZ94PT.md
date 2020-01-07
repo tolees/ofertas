@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BNZ94PT
 description:
+actualPrice: 55.49 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Gant The Broadcloth Banker Reg BD Camisa  Azul  Capri Blue 468   Large para Hombre](https://www.amazon.com/dp/B07BNZ94PT/?tag=redken08-20) a 55.49 EUR (original: 89.99 EUR) en el siguiente enlace!

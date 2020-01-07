@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00F63SBTI
 description:
+actualPrice: 15.95 EUR
+comparePrice: 31.2 EUR
+inStock: true
 ---
 
 Está [Chloe 22812 - Desodorante  100 ml](https://www.amazon.com/dp/B00F63SBTI/?tag=redken08-20) por 15.95 EUR (original: 31.2 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L3YNYWC
 description:
+actualPrice: 119.64 EUR
+comparePrice: 220 EUR
+inStock: true
 ---
 
 Está [Orient FER27001B0 - Reloj de Pulsera para Hombre  Negro](https://www.amazon.com/dp/B07L3YNYWC/?tag=redken08-20) por 119.64 EUR (original: 220 EUR) en el siguiente enlace!

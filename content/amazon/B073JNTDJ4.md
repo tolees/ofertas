@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073JNTDJ4
 description:
+actualPrice: 7.2 EUR
+comparePrice: 15.12 EUR
+inStock: true
 ---
 
 Tienes [find. Jersey de Algodón Hombre  Negro  X-Large](https://www.amazon.com/dp/B073JNTDJ4/?tag=redken08-20) a precio de oferta de 7.2 EUR (original: 15.12 EUR) en el siguiente enlace!

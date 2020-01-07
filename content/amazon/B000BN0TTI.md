@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000BN0TTI
 description:
+actualPrice: 12.07 EUR
+comparePrice: 268.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [HP Q7582A - Cartucho de tóner](https://www.amazon.com/dp/B000BN0TTI/?tag=redken08-20) a 12.07 EUR (original: 268.9 EUR) en el siguiente enlace!

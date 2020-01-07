@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JLFDQS1
 description:
+actualPrice: 16.77 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lee Luke Vaqueros  Pine Cone EG  29W / 34L para Hombre](https://www.amazon.com/dp/B07JLFDQS1/?tag=redken08-20) a 16.77 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PSJ4T6G
 description:
+actualPrice: 7.66 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Está [Hurley Prem Enjoy tee SS Geo Camisetas  Hombre  White  S](https://www.amazon.com/dp/B07PSJ4T6G/?tag=redken08-20) por 7.66 EUR (original: 30 EUR) en el siguiente enlace!

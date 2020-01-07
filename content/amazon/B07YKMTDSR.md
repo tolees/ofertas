@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07YKMTDSR
 description:
+actualPrice: 18.99 EUR
+comparePrice: 35.99 EUR
+inStock: true
 ---
 
 Está [toyuugo Handwärmer Wiederverwendbar USB 5200mAh Handwärmer Elektrisch Akku tragbare Power Bank Kompatibel mit Handys und Tablets-Rosa](https://www.amazon.com/dp/B07YKMTDSR/?tag=redken08-20) por 18.99 EUR (original: 35.99 EUR) en el siguiente enlace!

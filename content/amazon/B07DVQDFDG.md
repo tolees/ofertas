@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DVQDFDG
 description:
+actualPrice: 30.78 EUR
+comparePrice: 90.0 EUR
+inStock: true
 ---
 
 Tienes [New Balance Fresh Foam Roav  Zapatillas de Running para Mujer  Negro  Magnet Magnet   37.5 EU](https://www.amazon.com/dp/B07DVQDFDG/?tag=redken08-20) a precio de oferta de 30.78 EUR (original: 90.0 EUR) en el siguiente enlace!

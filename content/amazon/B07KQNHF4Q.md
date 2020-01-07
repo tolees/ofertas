@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQNHF4Q
 description:
+actualPrice: 45.96 EUR
+comparePrice: 129.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Salomon XA Discovery GTX  Zapatillas de Trail Running para Hombre  Verde Trekking Green Lime Green Black  40 EU](https://www.amazon.com/dp/B07KQNHF4Q/?tag=redken08-20) a 45.96 EUR (original: 129.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01EY8LKCK
 description:
+actualPrice: 119.99 EUR
+comparePrice: 314.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Oral-B Genius 8900 - Cepillo de dientes eléctrico  con Tecnología de Braun  2 unidades](https://www.amazon.com/dp/B01EY8LKCK/?tag=redken08-20) a 119.99 EUR (original: 314.99 EUR) en el siguiente enlace!

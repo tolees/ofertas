@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Z7NV1CR
 description:
+actualPrice: 23.95 EUR
+comparePrice: 39.95 EUR
+inStock: true
 ---
 
 Está [Muñecas Arias - Elegance 36 cm con Conjunto Burgundy-60300](https://www.amazon.com/dp/B07Z7NV1CR/?tag=redken08-20) por 23.95 EUR (original: 39.95 EUR) en el siguiente enlace!

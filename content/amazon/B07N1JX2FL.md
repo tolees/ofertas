@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1JX2FL
 description:
+actualPrice: 23.97 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Un Maui Lace  Zapatillas para Mujer  Marrón  Aubergine Lea Aubergine Lea   38 EU](https://www.amazon.com/dp/B07N1JX2FL/?tag=redken08-20) a 23.97 EUR (original: 99.95 EUR) en el siguiente enlace!

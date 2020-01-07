@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01JTXM4SE
 description:
+actualPrice: 43.99 EUR
+comparePrice: 74.03 EUR
+inStock: true
 ---
 
 Está [Timberland Killington  Botas Unisex Niños  Beige  Wheat Nubuck 231   37 EU](https://www.amazon.com/dp/B01JTXM4SE/?tag=redken08-20) por 43.99 EUR (original: 74.03 EUR) en el siguiente enlace!

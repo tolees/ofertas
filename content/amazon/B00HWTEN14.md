@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00HWTEN14
 description:
+actualPrice: 50 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Naturalia - Colchón cuna baby memory visco  talla 117x57cm  color blanco / gris](https://www.amazon.com/dp/B00HWTEN14/?tag=redken08-20) a 50 EUR (original: 90 EUR) en el siguiente enlace!

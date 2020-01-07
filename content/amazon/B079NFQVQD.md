@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079NFQVQD
 description:
+actualPrice: 149 EUR
+comparePrice: 249 EUR
+inStock: true
 ---
 
 Está [Polti Forzaspira Lecologico Aqua Allergy Turbo Care Aspirador Agua sin Bolsa  Función Turbo  Filtro Hepa H13  2 turbo cepillos  850 W  1 Liter  Negro  Azul](https://www.amazon.com/dp/B079NFQVQD/?tag=redken08-20) por 149 EUR (original: 249 EUR) en el siguiente enlace!

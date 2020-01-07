@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077LZRPGF
 description:
+actualPrice: 26.7 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Está [Timex Reloj Analógico para Mujer de Cuarzo con Correa en Nailon TW2R49100](https://www.amazon.com/dp/B077LZRPGF/?tag=redken08-20) por 26.7 EUR (original: 89 EUR) en el siguiente enlace!

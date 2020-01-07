@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SWSSYD3
 description:
+actualPrice: 24.61 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Tienes [Reebok Flexagon Energy MT  Zapatillas de Gimnasia para Hombre  Negro  Black/Cold Grey 7/Cold Grey 2 Black/Cold Grey 7/Cold Grey 2   44 EU](https://www.amazon.com/dp/B07SWSSYD3/?tag=redken08-20) a precio de oferta de 24.61 EUR (original: 49.95 EUR) en el siguiente enlace!

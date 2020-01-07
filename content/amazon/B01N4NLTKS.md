@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N4NLTKS
 description:
+actualPrice: 8.5 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funko Vinyl: Rick & Morty: Weaponized Rick  12439 ](https://www.amazon.com/dp/B01N4NLTKS/?tag=redken08-20) a 8.5 EUR (original: 15.95 EUR) en el siguiente enlace!

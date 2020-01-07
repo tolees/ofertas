@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KJSCGH4
 description:
+actualPrice: 42.14 EUR
+comparePrice: 139 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [REPLAY Karyna Pantalones  Verde  Military Green 30   W32/L34  Talla del Fabricante: 32  para Mujer](https://www.amazon.com/dp/B07KJSCGH4/?tag=redken08-20) a 42.14 EUR (original: 139 EUR) en el siguiente enlace!

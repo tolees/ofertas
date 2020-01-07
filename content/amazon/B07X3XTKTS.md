@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07X3XTKTS
 description:
+actualPrice: 12 GBP
+comparePrice: 18 GBP
+inStock: true
 ---
 
 Tienes [FROZEN II Jewellery Advent Calendars 2019](https://www.amazon.com/dp/B07X3XTKTS/?tag=redken08-20) a precio de oferta de 12 GBP (original: 18 GBP) en el siguiente enlace!

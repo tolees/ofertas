@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B009AU9CQO
 description:
+actualPrice: 400 GBP
+comparePrice: 760 GBP
+inStock: true
 ---
 
 Está [Sony SEL1018 E Mount - APS-C 10-18 mm F4.0 Wide Angle Zoom Lens](https://www.amazon.com/dp/B009AU9CQO/?tag=redken08-20) por 400 GBP (original: 760 GBP) en el siguiente enlace!

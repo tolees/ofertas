@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077YDJXGJ
 description:
+actualPrice: 13.79 EUR
+comparePrice: 39.06 EUR
+inStock: true
 ---
 
 Está [HIKARO Chaleco de Plumas con Capucha Hombre  Verde  Khaki   48  Talla del fabricante: Small ](https://www.amazon.com/dp/B077YDJXGJ/?tag=redken08-20) por 13.79 EUR (original: 39.06 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CLO3YA0
 description:
+actualPrice: 4.96 EUR
+comparePrice: 9.5 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bourjois Radiance Reveal Corrector Tono 01 Ivory - 29 gr.](https://www.amazon.com/dp/B01CLO3YA0/?tag=redken08-20) a 4.96 EUR (original: 9.5 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F6DSX2J
 description:
+actualPrice: 12.7 EUR
+comparePrice: 25.45 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Baja tu Colesterol | Reduce los niveles de colestero l LDL y aumenta el Nivel HDL | Fórmula completa | Levadura de arroz rojo + coenzima Q10 + resveratrol + mango africano + vitamina D | 60 cápsulas](https://www.amazon.com/dp/B07F6DSX2J/?tag=redken08-20) a 12.7 EUR (original: 25.45 EUR) en el siguiente enlace!

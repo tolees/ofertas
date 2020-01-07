@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00D1SVC4Q
 description:
+actualPrice: 9.98 EUR
+comparePrice: 24.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Jané - 50272 - Burbuja de Lluvia Universal Jané](https://www.amazon.com/dp/B00D1SVC4Q/?tag=redken08-20) a 9.98 EUR (original: 24.95 EUR) en el siguiente enlace!

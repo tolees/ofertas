@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00V4XSTUU
 description:
+actualPrice: 10.95 EUR
+comparePrice: 16.56 EUR
+inStock: true
 ---
 
 Está [Scholl Plantillas Gel Activ Profesional Hombre para Calzado Trabajo  40-46.5  1 par](https://www.amazon.com/dp/B00V4XSTUU/?tag=redken08-20) por 10.95 EUR (original: 16.56 EUR) en el siguiente enlace!

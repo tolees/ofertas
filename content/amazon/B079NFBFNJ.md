@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079NFBFNJ
 description:
+actualPrice: 11.01 EUR
+comparePrice: 27.96 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Nike Dry Academy Crew Camiseta  Niños  Negro  Black   M](https://www.amazon.com/dp/B079NFBFNJ/?tag=redken08-20) a 11.01 EUR (original: 27.96 EUR) en el siguiente enlace!

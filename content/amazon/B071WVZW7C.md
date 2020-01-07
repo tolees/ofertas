@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071WVZW7C
 description:
+actualPrice: 9.99 EUR
+comparePrice: 17.21 EUR
+inStock: true
 ---
 
 Está [Sistema Caja de Bento para IR con Frutas/Yogur Olla  Transparente/Rosa  1.76 L](https://www.amazon.com/dp/B071WVZW7C/?tag=redken08-20) por 9.99 EUR (original: 17.21 EUR) en el siguiente enlace!

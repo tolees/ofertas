@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DJ4XPSW
 description:
+actualPrice: 24.48 EUR
+comparePrice: 65 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance Fuel Core 5000  Zapatillas Deportivas para Interior Unisex Niños  Negro  Black/Peony LP   39 EU](https://www.amazon.com/dp/B07DJ4XPSW/?tag=redken08-20) a 24.48 EUR (original: 65 EUR) en el siguiente enlace!

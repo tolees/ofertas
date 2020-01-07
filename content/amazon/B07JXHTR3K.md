@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JXHTR3K
 description:
+actualPrice: 8.95 EUR
+comparePrice: 29.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Wrangler Ringer tee Camiseta  Blanco  White 989   X-Large para Mujer](https://www.amazon.com/dp/B07JXHTR3K/?tag=redken08-20) a 8.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077TT6WRY
 description:
+actualPrice: 9.92 EUR
+comparePrice: 22.9 EUR
+inStock: true
 ---
 
 Está [Kipling Creativity S  Bolso bandolera para Mujer  Negro  True Black   14.5x9.5x5 cm](https://www.amazon.com/dp/B077TT6WRY/?tag=redken08-20) por 9.92 EUR (original: 22.9 EUR) en el siguiente enlace!

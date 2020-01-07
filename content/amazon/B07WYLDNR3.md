@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WYLDNR3
 description:
+actualPrice: 27.98 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Tienes [Cargador de Batería Coche  BUDDYGO Nueva Versión 8A 12V/24V Cargador Baterias Mantenimiento Automático Inteligente con Pantalla LCD y Múltiples Protecciones para Automóviles  Motos  ATVs  RVs  Barco](https://www.amazon.com/dp/B07WYLDNR3/?tag=redken08-20) a precio de oferta de 27.98 EUR (original: 49.99 EUR) en el siguiente enlace!

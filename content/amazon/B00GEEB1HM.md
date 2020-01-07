@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00GEEB1HM
 description:
+actualPrice: 12.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Tienes [Columbia Tech Shade Gorra  Unisex  Negro  Black   Talla única Ajustable](https://www.amazon.com/dp/B00GEEB1HM/?tag=redken08-20) a precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q7ZTNP1
 description:
+actualPrice: 21.99 EUR
+comparePrice: 35.99 EUR
+inStock: true
 ---
 
 Tienes [Trípode Movil  GooFoto Trípode Flexible con Control Remoto  Trípode Cámara con Clip para Teléfono  Trípode Smartphone Mini para iPhone  Samsung  Huawei  DSLR  Canon  Nikon  Sony  Versión Mejorada ](https://www.amazon.com/dp/B07Q7ZTNP1/?tag=redken08-20) a precio de oferta de 21.99 EUR (original: 35.99 EUR) en el siguiente enlace!

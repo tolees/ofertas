@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M8L2FKP
 description:
+actualPrice: 44.98 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Tienes [Lee Chino Corduroy Pantalones  Azul  Dark Marine 21   33W / 34L para Hombre](https://www.amazon.com/dp/B07M8L2FKP/?tag=redken08-20) a precio de oferta de 44.98 EUR (original: 89.95 EUR) en el siguiente enlace!

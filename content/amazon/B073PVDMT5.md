@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073PVDMT5
 description:
+actualPrice: 13.49 EUR
+comparePrice: 26.99 EUR
+inStock: true
 ---
 
 Está [AmazonBasics - Maletín de transporte para casco y accesorios para PlayStation VR  Negro](https://www.amazon.com/dp/B073PVDMT5/?tag=redken08-20) por 13.49 EUR (original: 26.99 EUR) en el siguiente enlace!

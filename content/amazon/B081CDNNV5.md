@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CDNNV5
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [Geographical Norway Chaqueta Mujer Anson Rosa Llamativo M](https://www.amazon.com/dp/B081CDNNV5/?tag=redken08-20) a precio de oferta de 65 EUR (original: 99 EUR) en el siguiente enlace!

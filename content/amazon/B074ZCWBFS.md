@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074ZCWBFS
 description:
+actualPrice: 128.68 EUR
+comparePrice: 230 EUR
+inStock: true
 ---
 
 Está [Seiko Reloj Analógico para Hombre de Cuarzo con Correa en Cuero SSB275P1](https://www.amazon.com/dp/B074ZCWBFS/?tag=redken08-20) por 128.68 EUR (original: 230 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B009RUKXT2
 description:
+actualPrice: 125 EUR
+comparePrice: 216.83 EUR
+inStock: true
 ---
 
 Está [Johnnie Walker Blue Whisky Escocés - 700 ml](https://www.amazon.com/dp/B009RUKXT2/?tag=redken08-20) por 125 EUR (original: 216.83 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075FFBY7L
 description:
+actualPrice: 104.99 EUR
+comparePrice: 179 EUR
+inStock: true
 ---
 
 Está [Maxi-Cosi CABRIOFIX  Nomad Black  - Silla de auto reclinable y de alta seguridad para tu bebé  homologada R44/04  0-12 meses  0-13 kg  gr.0+  color negro](https://www.amazon.com/dp/B075FFBY7L/?tag=redken08-20) por 104.99 EUR (original: 179 EUR) en el siguiente enlace!

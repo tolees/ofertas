@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00CXN7Z6E
 description:
+actualPrice: 4.99 EUR
+comparePrice: 11.36 EUR
+inStock: true
 ---
 
 Está [Emtec Color Mix - Memoria USB 2.0 de 32 GB  Azul](https://www.amazon.com/dp/B00CXN7Z6E/?tag=redken08-20) por 4.99 EUR (original: 11.36 EUR) en el siguiente enlace!

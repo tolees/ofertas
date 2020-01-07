@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LYRIWYZ
 description:
+actualPrice: 9 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Tienes [PLAYMOBIL Ghostbusters 9221 Stay Puft Marshmallow Man  Ab 6 Jahren](https://www.amazon.com/dp/B01LYRIWYZ/?tag=redken08-20) a precio de oferta de 9 EUR (original: 19.99 EUR) en el siguiente enlace!

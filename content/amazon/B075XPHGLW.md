@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075XPHGLW
 description:
+actualPrice: 24.95 GBP
+comparePrice: 59.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Think Gizmos Build Your Own Robot Toys for Kids - Ingenious Machines Remote Control Robot Building Kit  Crane  Forklift  Bulldozer & Truck ](https://www.amazon.com/dp/B075XPHGLW/?tag=redken08-20) a 24.95 GBP (original: 59.99 GBP) en el siguiente enlace!

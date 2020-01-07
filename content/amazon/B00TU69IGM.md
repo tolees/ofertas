@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TU69IGM
 description:
+actualPrice: 10.16 EUR
+comparePrice: 24.86 EUR
+inStock: true
 ---
 
 Tienes [Portwest FC41 - Zapato Compositelite 38/5  color Negro  talla 38](https://www.amazon.com/dp/B00TU69IGM/?tag=redken08-20) a precio de oferta de 10.16 EUR (original: 24.86 EUR) en el siguiente enlace!

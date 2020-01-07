@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GTP6BNM
 description:
+actualPrice: 13.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [Playmobil - Privatjet](https://www.amazon.com/dp/B07GTP6BNM/?tag=redken08-20) por 13.99 EUR (original: 29.99 EUR) en el siguiente enlace!

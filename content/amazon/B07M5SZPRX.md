@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M5SZPRX
 description:
+actualPrice: 19.9 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [La Lego Película 2: El Videojuego](https://www.amazon.com/dp/B07M5SZPRX/?tag=redken08-20) a 19.9 EUR (original: 39.99 EUR) en el siguiente enlace!

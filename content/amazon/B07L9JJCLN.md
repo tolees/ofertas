@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L9JJCLN
 description:
+actualPrice: 23.49 EUR
+comparePrice: 46.4 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Sportstyle Pique Track Jacket Chaqueta  Hombre  Rojo  Martian Red/Black/White 646   M](https://www.amazon.com/dp/B07L9JJCLN/?tag=redken08-20) a 23.49 EUR (original: 46.4 EUR) en el siguiente enlace!

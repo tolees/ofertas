@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M72PAPX
 description:
+actualPrice: 11.68 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Tienes [hummel Slimmer Stadil Low  Zapatillas Unisex adulto Rojo  Cabernet 3661  36 EU](https://www.amazon.com/dp/B01M72PAPX/?tag=redken08-20) a precio de oferta de 11.68 EUR (original: 64.95 EUR) en el siguiente enlace!

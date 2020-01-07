@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00U8QXDO6
 description:
+actualPrice: 1.95 EUR
+comparePrice: 4.8 EUR
+inStock: true
 ---
 
 Está [Beter Swing - Lima ergonómica láser](https://www.amazon.com/dp/B00U8QXDO6/?tag=redken08-20) por 1.95 EUR (original: 4.8 EUR) en el siguiente enlace!

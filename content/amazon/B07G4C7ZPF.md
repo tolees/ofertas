@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G4C7ZPF
 description:
+actualPrice: 17.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [JACK & JONES Jjepanther Sweat Hood Noos Sudadera  Rojo  Port RoyalePort Royale   Large para Hombre](https://www.amazon.com/dp/B07G4C7ZPF/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

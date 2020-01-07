@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07P8QHHR5
 description:
+actualPrice: 32.12 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [VANMASS USB C Hub 8 in 1 Aluminium 3 Chips Betrieb mit 4K HDMI  VGA  3 x USB 3.0 Ports  Typr-C PD  87W   SD/TF Kartenleser USB C Adapter Kompatibel mit MacBook Air/Pro  Chromebook  Mehr Type-C Geräte](https://www.amazon.com/dp/B07P8QHHR5/?tag=redken08-20) a 32.12 EUR (original: 59.99 EUR) en el siguiente enlace!

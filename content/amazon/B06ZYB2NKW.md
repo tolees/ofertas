@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06ZYB2NKW
 description:
+actualPrice: 23.68 EUR
+comparePrice: 138.11 EUR
+inStock: true
 ---
 
 Está [REPLAY MA955 Newbill Jeans Rectos  Gris  Dark Grey 20   W32/L34 para Hombre](https://www.amazon.com/dp/B06ZYB2NKW/?tag=redken08-20) por 23.68 EUR (original: 138.11 EUR) en el siguiente enlace!

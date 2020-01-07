@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072MTPS5G
 description:
+actualPrice: 10.8 EUR
+comparePrice: 35.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [RED WAGON Merceditas de Charol con Gatito para Niñas  Negro  Black   26.5 EU](https://www.amazon.com/dp/B072MTPS5G/?tag=redken08-20) a 10.8 EUR (original: 35.99 EUR) en el siguiente enlace!

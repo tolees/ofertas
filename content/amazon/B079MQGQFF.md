@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079MQGQFF
 description:
+actualPrice: 22.5 EUR
+comparePrice: 56.25 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Gabardina Estilo Trench Mujer  Azul  Navy   Medium](https://www.amazon.com/dp/B079MQGQFF/?tag=redken08-20) a 22.5 EUR (original: 56.25 EUR) en el siguiente enlace!

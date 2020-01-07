@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VPNB1D5
 description:
+actualPrice: 14.99 EUR
+comparePrice: 25.99 EUR
+inStock: true
 ---
 
 Está [Jabones faciales  Jabón de hecho a mano  Jabón de sal de mar Jabón de leche de cabra Espinilla Poros Remoción Tratamiento para el acné  Minimiza Poros Trata Acné Espinillas  Manchas y Piel Grasa 100g](https://www.amazon.com/dp/B07VPNB1D5/?tag=redken08-20) por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

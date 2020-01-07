@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WNWXQ4C
 description:
+actualPrice: 12.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Tienes [JACK & JONES Herren T-Shirt O-Neck Print Shirt Kurzarmshirt Short Sleeve Casual Streetwear  L  Dark Grey Melange ](https://www.amazon.com/dp/B07WNWXQ4C/?tag=redken08-20) a precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NAIEG87
 description:
+actualPrice: 12.49 EUR
+comparePrice: 25.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [KRISP 6252-GRY-20  Vestido Corto Patinadora Vuelo Fruncido Busto  Gris  6252   48](https://www.amazon.com/dp/B01NAIEG87/?tag=redken08-20) a 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!

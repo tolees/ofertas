@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MSRJ11J
 description:
+actualPrice: 169 EUR
+comparePrice: 269 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [HP 27fwa - Monitor Full HD de 27"  1920 x 1080  panel IPS LED  16:9  HDMI 1.4  5 ms  60 Hz  AMD FreeSync  Altavoces incorporados   Color Blanco Nieve](https://www.amazon.com/dp/B07MSRJ11J/?tag=redken08-20) a 169 EUR (original: 269 EUR) en el siguiente enlace!

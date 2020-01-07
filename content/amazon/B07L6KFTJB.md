@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L6KFTJB
 description:
+actualPrice: 74.99 EUR
+comparePrice: 160 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Armour Down Hooded Chaqueta  Hombre  Negro  LG](https://www.amazon.com/dp/B07L6KFTJB/?tag=redken08-20) a 74.99 EUR (original: 160 EUR) en el siguiente enlace!

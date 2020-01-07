@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XPFDMX9
 description:
+actualPrice: 12 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Está [find. Vaqueros Ajustados para Hombre  Azul  Medium Wash   W33/L34  Talla del fabricante: 33 ](https://www.amazon.com/dp/B06XPFDMX9/?tag=redken08-20) por 12 EUR (original: 40 EUR) en el siguiente enlace!

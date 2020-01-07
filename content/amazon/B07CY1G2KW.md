@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CY1G2KW
 description:
+actualPrice: 75.49 EUR
+comparePrice: 119.95 EUR
+inStock: true
 ---
 
 Tienes [Salomon Trailster GTX  Zapatillas de Trail Running para Hombre  Negro  Magnet/Black/Quarry   43 1/3 EU](https://www.amazon.com/dp/B07CY1G2KW/?tag=redken08-20) a precio de oferta de 75.49 EUR (original: 119.95 EUR) en el siguiente enlace!

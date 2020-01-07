@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MN7ZJZJ
 description:
+actualPrice: 44.98 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Está [Wrangler Texas Contrast Vaqueros  Azul  Warm Up 97b   38 W/ 30 L para Hombre](https://www.amazon.com/dp/B07MN7ZJZJ/?tag=redken08-20) por 44.98 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PQKT7NJ
 description:
+actualPrice: 5.99 GBP
+comparePrice: 9.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [H0_V Custom Weapons Set - Vest Helmet and Custom Weapons Set for Police Soldiers SWAT Team Mini Figures Modern Special Forces](https://www.amazon.com/dp/B07PQKT7NJ/?tag=redken08-20) a 5.99 GBP (original: 9.99 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F4GCSKF
 description:
+actualPrice: 6.5 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Maybelline New York - Superstay Matte Ink City Edition  Pintalabios  Tono  N ° 115 Founder](https://www.amazon.com/dp/B07F4GCSKF/?tag=redken08-20) a 6.5 EUR (original: 9.99 EUR) en el siguiente enlace!

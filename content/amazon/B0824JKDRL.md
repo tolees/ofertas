@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0824JKDRL
 description:
+actualPrice: 10.78 GBP
+comparePrice: 28.99 GBP
+inStock: true
 ---
 
 Tienes [Girls Frozen Elsa Anna Dress Princess Cosplay Fancy Dress Up Sequins Tulle Tutu Snow Queen Party Outfit Christmas Halloween Carnival Fairy Tale Clothes Ice Queen Deluxe Costume Yellow 9-10 Years](https://www.amazon.com/dp/B0824JKDRL/?tag=redken08-20) a precio de oferta de 10.78 GBP (original: 28.99 GBP) en el siguiente enlace!

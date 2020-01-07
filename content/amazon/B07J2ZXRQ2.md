@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J2ZXRQ2
 description:
+actualPrice: 25.49 EUR
+comparePrice: 45 EUR
+inStock: true
 ---
 
 Tienes [Under Armour Undeniable Duffel 4.0 MD Bolsa Deportiva  Unisex Adulto  Camo  OSFA](https://www.amazon.com/dp/B07J2ZXRQ2/?tag=redken08-20) a precio de oferta de 25.49 EUR (original: 45 EUR) en el siguiente enlace!

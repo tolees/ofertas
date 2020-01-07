@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNTN4MV
 description:
+actualPrice: 2 EUR
+comparePrice: 3.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [LEGO 71023 Kinderspielzeug  Bunt](https://www.amazon.com/dp/B07FNTN4MV/?tag=redken08-20) a 2 EUR (original: 3.99 EUR) en el siguiente enlace!

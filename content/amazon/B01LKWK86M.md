@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LKWK86M
 description:
+actualPrice: 331.26 EUR
+comparePrice: 603.99 EUR
+inStock: true
 ---
 
 Tienes [Epson WFDS530 - Escáner de Documentos en Color A4  Capacidad de USB  Blanco y Negro](https://www.amazon.com/dp/B01LKWK86M/?tag=redken08-20) a precio de oferta de 331.26 EUR (original: 603.99 EUR) en el siguiente enlace!

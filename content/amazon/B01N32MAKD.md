@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N32MAKD
 description:
+actualPrice: 15.49 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Tienes [Kappa Talucci Jkt Chaqueta  Unisex infantil  Negro  Negro / Blanco   3XL](https://www.amazon.com/dp/B01N32MAKD/?tag=redken08-20) a precio de oferta de 15.49 EUR (original: 35 EUR) en el siguiente enlace!

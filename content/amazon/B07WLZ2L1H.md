@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WLZ2L1H
 description:
+actualPrice: 7.99 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Tienes [flintronic® Pulsera Hombre  6 Piezas Personalidad Retro Tejida Pulsera de Traje de Cuero Multicapa  Pulseras Retro  Moda Pulsera de Cuero Brazalete Trenzado Roccia Punk  Ajustable  #3 Serie ](https://www.amazon.com/dp/B07WLZ2L1H/?tag=redken08-20) a precio de oferta de 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

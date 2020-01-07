@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CMJKPKG
 description:
+actualPrice: 199 EUR
+comparePrice: 309 EUR
+inStock: true
 ---
 
 Está [Philips 328E9FJAB/00 80 cm  31 5 Zoll  Curved Monitor  VGA  HDMI  DisplayPort  WQHD  5ms Reaktionszeit  2560 x 1440  60Hz  schwarz](https://www.amazon.com/dp/B07CMJKPKG/?tag=redken08-20) por 199 EUR (original: 309 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QHZ9RG7
 description:
+actualPrice: 25.99 EUR
+comparePrice: 49.98 EUR
+inStock: true
 ---
 
 Está [Supoggy Mini Cámara Espía Full HD 1080P Cámara Portátil Pequeño Tamaño con Visión Nocturna  Grabación y Detección de Movimiento en Hogar  Automóvil  Drone  Oficinas. Apto para Uso en Exteriores](https://www.amazon.com/dp/B07QHZ9RG7/?tag=redken08-20) por 25.99 EUR (original: 49.98 EUR) en el siguiente enlace!

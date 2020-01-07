@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D5RT5QW
 description:
+actualPrice: 17.99 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Tienes [Under Armour Tech 9In 2 Pack Ropa Interior  Hombre  Gris  Mod Gray Light Heather/Jet Gray Light Heather 011   M](https://www.amazon.com/dp/B07D5RT5QW/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 35 EUR) en el siguiente enlace!

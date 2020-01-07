@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000H3EPSS
 description:
+actualPrice: 1.99 EUR
+comparePrice: 6.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Revlon Super Lustrous Pintalabios  Black Cherry ](https://www.amazon.com/dp/B000H3EPSS/?tag=redken08-20) a 1.99 EUR (original: 6.95 EUR) en el siguiente enlace!

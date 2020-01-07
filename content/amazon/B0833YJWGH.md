@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0833YJWGH
 description:
+actualPrice: 149.99 GBP
+comparePrice: 299.98 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [GODNECE Technic Sports Car  RC Race Car Model Kit Model Building Kits Difficult Building Blocks Technic Compatible with Lego 1671pcs  ](https://www.amazon.com/dp/B0833YJWGH/?tag=redken08-20) a 149.99 GBP (original: 299.98 GBP) en el siguiente enlace!

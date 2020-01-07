@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SXD1HC9
 description:
+actualPrice: 7.99 EUR
+comparePrice: 15.99 EUR
+inStock: true
 ---
 
 Está [s.Oliver Jungen 61.908.31.8710 Langarmshirt  Blau  Dark Blue 5952     Herstellergröße:S/REG ](https://www.amazon.com/dp/B07SXD1HC9/?tag=redken08-20) por 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

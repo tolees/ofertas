@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VMD1GFZ
 description:
+actualPrice: 12.16 EUR
+comparePrice: 25.99 EUR
+inStock: true
 ---
 
 Está [E·Durable 9 pcs Destornilladores planos y de estrella，Para el trabajo diario casa puertas y ventanas  instalación del hogar electrodomésticos reparación de electrodomésticos de cocina](https://www.amazon.com/dp/B07VMD1GFZ/?tag=redken08-20) por 12.16 EUR (original: 25.99 EUR) en el siguiente enlace!

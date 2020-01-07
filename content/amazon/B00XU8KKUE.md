@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00XU8KKUE
 description:
+actualPrice: 49.91 EUR
+comparePrice: 100 EUR
+inStock: true
 ---
 
 Tienes [Burberry My Burberry Edt Vapo 90 Ml 1 Unidad 90 g](https://www.amazon.com/dp/B00XU8KKUE/?tag=redken08-20) a precio de oferta de 49.91 EUR (original: 100 EUR) en el siguiente enlace!

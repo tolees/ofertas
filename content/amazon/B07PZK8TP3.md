@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PZK8TP3
 description:
+actualPrice: 6.99 EUR
+comparePrice: 21.99 EUR
+inStock: true
 ---
 
 Tienes [Amzdeal Alcachofa de Ducha  Cabezal de Ducha con 5 modos  Mano la Cabeza de Ducha de baja presión de 0.03Mpa  Cromo / AZ009R](https://www.amazon.com/dp/B07PZK8TP3/?tag=redken08-20) a precio de oferta de 6.99 EUR (original: 21.99 EUR) en el siguiente enlace!

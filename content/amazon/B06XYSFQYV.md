@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XYSFQYV
 description:
+actualPrice: 22.29 EUR
+comparePrice: 49 EUR
+inStock: true
 ---
 
 Tienes [Star Wars Mascara electrónica Kylo REN  Multicolor  Hasbro C1428EU4 ](https://www.amazon.com/dp/B06XYSFQYV/?tag=redken08-20) a precio de oferta de 22.29 EUR (original: 49 EUR) en el siguiente enlace!

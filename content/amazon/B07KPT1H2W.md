@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPT1H2W
 description:
+actualPrice: 5.99 GBP
+comparePrice: 9.05 GBP
+inStock: true
 ---
 
 Tienes [Funko 37685 POP Captain Marvel Holding Lunchbox 1 Collectible Figure  Multicolour](https://www.amazon.com/dp/B07KPT1H2W/?tag=redken08-20) a precio de oferta de 5.99 GBP (original: 9.05 GBP) en el siguiente enlace!

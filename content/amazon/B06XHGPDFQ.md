@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XHGPDFQ
 description:
+actualPrice: 24.29 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Tienes [Helly Hansen HH LIFA Crew LS Baselayer  Hombre  Negro  M](https://www.amazon.com/dp/B06XHGPDFQ/?tag=redken08-20) a precio de oferta de 24.29 EUR (original: 40 EUR) en el siguiente enlace!

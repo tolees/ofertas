@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0757GNNWF
 description:
+actualPrice: 23.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Tienes [URCERI Telémetro Láser 60m  Medidor Láser de Distancia，precisión ±2mm  Impermeabilidad IP54  Niveles de Burbuja  Medición de Distancia  Área  Volumen  Continua  Pitágoras  Modelo Mudo  Suma/Resta](https://www.amazon.com/dp/B0757GNNWF/?tag=redken08-20) a precio de oferta de 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

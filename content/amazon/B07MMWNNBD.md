@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MMWNNBD
 description:
+actualPrice: 32.48 EUR
+comparePrice: 64.95 EUR
+inStock: true
 ---
 
 Está [Wrangler 80\u00b4s Retro Sweat Sudadera  Blanco  White 989   Large para Mujer](https://www.amazon.com/dp/B07MMWNNBD/?tag=redken08-20) por 32.48 EUR (original: 64.95 EUR) en el siguiente enlace!

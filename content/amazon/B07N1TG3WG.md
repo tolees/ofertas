@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1TG3WG
 description:
+actualPrice: 8.33 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [AmazonBasics - Mopa para el polvo  trapo lavable  azul y blanco](https://www.amazon.com/dp/B07N1TG3WG/?tag=redken08-20) por 8.33 EUR (original: 14.99 EUR) en el siguiente enlace!

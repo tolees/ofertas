@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01D52LIZA
 description:
+actualPrice: 12.9 EUR
+comparePrice: 19.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Fitfiu -AST1000  Stepper de aeróbico](https://www.amazon.com/dp/B01D52LIZA/?tag=redken08-20) a 12.9 EUR (original: 19.9 EUR) en el siguiente enlace!

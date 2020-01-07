@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BETGB9O
 description:
+actualPrice: 105 EUR
+comparePrice: 224 EUR
+inStock: true
 ---
 
 Tienes [Michael Kors - Reloj de Pulsera de Mujer mk6359](https://www.amazon.com/dp/B01BETGB9O/?tag=redken08-20) a precio de oferta de 105 EUR (original: 224 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TXRZQK0
 description:
+actualPrice: 26.4 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
 Tienes [Boucheron  Agua de colonia para hombres - 100 gr.](https://www.amazon.com/dp/B00TXRZQK0/?tag=redken08-20) a precio de oferta de 26.4 EUR (original: 75 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BS1SZMB
 description:
+actualPrice: 79 EUR
+comparePrice: 122 EUR
+inStock: true
 ---
 
 Está [HP Xpress SL-M2078W Laser 20 ppm 1200 x 1200 dpi A4 WiFi - Impresora multifunción  Laser  1200 x 1200 dpi  150 Hojas  A4  Impresión Directa  Negro  Blanco ](https://www.amazon.com/dp/B07BS1SZMB/?tag=redken08-20) por 79 EUR (original: 122 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JC3GNFF
 description:
+actualPrice: 149.11 GBP
+comparePrice: 249 GBP
+inStock: true
 ---
 
 Está [Xiaomi Redmi Note 6 Pro - 64GB 6.26-Inch Android 8.1 UK Version SIM-Free Smartphone - Blue  Official UK Launch ](https://www.amazon.com/dp/B07JC3GNFF/?tag=redken08-20) por 149.11 GBP (original: 249 GBP) en el siguiente enlace!

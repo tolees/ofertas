@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MM2MVLP
 description:
+actualPrice: 1861 EUR
+comparePrice: 3199 EUR
+inStock: true
 ---
 
 Tienes [ASUS ROG Zephyrus S GX701GX  90NR00X1-M01390  43 9 cm  17 3 Zoll  Matt  Gaming Notebook  Intel Core i7-8750H  16GB RAM  1TB SSD  NVIDIA GeForce RTX 2080 Max-Q  8GB   Windows 10 Prof.  black metal](https://www.amazon.com/dp/B07MM2MVLP/?tag=redken08-20) a precio de oferta de 1861 EUR (original: 3199 EUR) en el siguiente enlace!

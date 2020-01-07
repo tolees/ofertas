@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MP1QV1X
 description:
+actualPrice: 32.99 EUR
+comparePrice: 57.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für James Bond Bricks Spielzeug Aston-Martin DB5  Kompatibel Mit Lego 10262 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07MP1QV1X/?tag=redken08-20) a 32.99 EUR (original: 57.99 EUR) en el siguiente enlace!

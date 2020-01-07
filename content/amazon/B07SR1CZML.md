@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SR1CZML
 description:
+actualPrice: 28.25 EUR
+comparePrice: 45.99 EUR
+inStock: true
 ---
 
 Está [NWOUIIAY Aspiradora de Coche Potente Sin Cable Aspiradora Inalámbrico Coche 7000PA con Seco y Húmedo Portátil Carga Rapida 120W 12V para Casa Coche Oficina con 3 Boquillas](https://www.amazon.com/dp/B07SR1CZML/?tag=redken08-20) por 28.25 EUR (original: 45.99 EUR) en el siguiente enlace!

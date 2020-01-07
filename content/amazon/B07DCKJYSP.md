@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DCKJYSP
 description:
+actualPrice: 10.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Está [DADYPET Bomba de Agua  Bomba para Acuario Bomba Sumergible Pare Jardin Estanque Ultra Silencioso  4.8W ](https://www.amazon.com/dp/B07DCKJYSP/?tag=redken08-20) por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

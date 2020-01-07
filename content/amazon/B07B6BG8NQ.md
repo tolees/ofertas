@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B6BG8NQ
 description:
+actualPrice: 129.72 EUR
+comparePrice: 199 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lacoste Reloj Multiesfera para Mujer de Cuarzo con Correa en Silicona 2001025](https://www.amazon.com/dp/B07B6BG8NQ/?tag=redken08-20) a 129.72 EUR (original: 199 EUR) en el siguiente enlace!

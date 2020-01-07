@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K6Y1KJX
 description:
+actualPrice: 36.5 EUR
+comparePrice: 56.5 EUR
+inStock: true
 ---
 
 Tienes [Levi s 501 Crop Vaqueros Straight  Azul  Shot In The Dark 0031   25W / 28L para Mujer](https://www.amazon.com/dp/B07K6Y1KJX/?tag=redken08-20) a precio de oferta de 36.5 EUR (original: 56.5 EUR) en el siguiente enlace!

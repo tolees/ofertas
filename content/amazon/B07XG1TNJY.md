@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XG1TNJY
 description:
+actualPrice: 35.49 EUR
+comparePrice: 53.99 EUR
+inStock: true
 ---
 
 Tienes [Columbia Flare Gun - Camisa para Hombre  Hombre  1861582  Azure Blue Big  Large](https://www.amazon.com/dp/B07XG1TNJY/?tag=redken08-20) a precio de oferta de 35.49 EUR (original: 53.99 EUR) en el siguiente enlace!

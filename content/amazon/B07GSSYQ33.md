@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GSSYQ33
 description:
+actualPrice: 6.99 EUR
+comparePrice: 11.1 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sjpzwcrl para GoPro Bolso  Protectora Mini Estuche de Almacenamiento para GoPro Hero 8 7 6 5 4 3 2018 Sesión Portátil Viaje Impermeable PU Cuero Bolsa Negro para GoPro Accesorios](https://www.amazon.com/dp/B07GSSYQ33/?tag=redken08-20) a 6.99 EUR (original: 11.1 EUR) en el siguiente enlace!

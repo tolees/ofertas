@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GSNP88G
 description:
+actualPrice: 41.73 EUR
+comparePrice: 65.99 EUR
+inStock: true
 ---
 
 Tienes [AmazonBasics Maleta  diseño geométrico  55 cm  Crema](https://www.amazon.com/dp/B07GSNP88G/?tag=redken08-20) a precio de oferta de 41.73 EUR (original: 65.99 EUR) en el siguiente enlace!

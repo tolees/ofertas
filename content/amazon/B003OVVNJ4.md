@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B003OVVNJ4
 description:
+actualPrice: 37.49 EUR
+comparePrice: 70 EUR
+inStock: true
 ---
 
 Tienes [Blecua - Vino D.O. Somontano - 750 ml](https://www.amazon.com/dp/B003OVVNJ4/?tag=redken08-20) a precio de oferta de 37.49 EUR (original: 70 EUR) en el siguiente enlace!

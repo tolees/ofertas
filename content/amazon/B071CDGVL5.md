@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071CDGVL5
 description:
+actualPrice: 46.22 EUR
+comparePrice: 81.9 EUR
+inStock: true
 ---
 
 Está [Speedo T-KIT Teamster Mochila  Unisex Adulto  Azul  35 l](https://www.amazon.com/dp/B071CDGVL5/?tag=redken08-20) por 46.22 EUR (original: 81.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFV9HPH
 description:
+actualPrice: 44.99 EUR
+comparePrice: 99.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geox U Renan B  Zapatillas para Hombre  Negro  Black C9999   41 EU](https://www.amazon.com/dp/B07LFV9HPH/?tag=redken08-20) a 44.99 EUR (original: 99.9 EUR) en el siguiente enlace!

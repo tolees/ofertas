@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00VWWVH0C
 description:
+actualPrice: 33.48 EUR
+comparePrice: 61.09 EUR
+inStock: true
 ---
 
 Está [Versa Perchero de pie Blanco  Metal Lacado  185 x 30 x 30 cm](https://www.amazon.com/dp/B00VWWVH0C/?tag=redken08-20) por 33.48 EUR (original: 61.09 EUR) en el siguiente enlace!

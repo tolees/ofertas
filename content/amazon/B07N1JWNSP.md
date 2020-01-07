@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1JWNSP
 description:
+actualPrice: 38.54 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Sheer Rose  Zapatos de Tacón para Mujer  Negro  Black Leather Black Leather   39.5 EU](https://www.amazon.com/dp/B07N1JWNSP/?tag=redken08-20) a 38.54 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BMBRG6P
 description:
+actualPrice: 40.54 EUR
+comparePrice: 84.95 EUR
+inStock: true
 ---
 
 Tienes [Wrangler Larston Vaqueros  Indigo Wit  36W / 32L para Hombre](https://www.amazon.com/dp/B07BMBRG6P/?tag=redken08-20) a precio de oferta de 40.54 EUR (original: 84.95 EUR) en el siguiente enlace!

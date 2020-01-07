@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LWT5KBH
 description:
+actualPrice: 5.97 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Tienes [Playmobil 9081 - Geldautomat](https://www.amazon.com/dp/B01LWT5KBH/?tag=redken08-20) a precio de oferta de 5.97 EUR (original: 9.99 EUR) en el siguiente enlace!

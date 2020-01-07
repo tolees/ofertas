@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005G0YQDG
 description:
+actualPrice: 42.4 EUR
+comparePrice: 88 EUR
+inStock: true
 ---
 
 Tienes [Jimmy Choo Jimmy Choo Eau de Toilette Vaporizador 100 ml](https://www.amazon.com/dp/B005G0YQDG/?tag=redken08-20) a precio de oferta de 42.4 EUR (original: 88 EUR) en el siguiente enlace!

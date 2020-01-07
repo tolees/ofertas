@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KVZV8KX
 description:
+actualPrice: 17.18 EUR
+comparePrice: 42.94 EUR
+inStock: true
 ---
 
 Tienes [Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom Digital de 8X](https://www.amazon.com/dp/B07KVZV8KX/?tag=redken08-20) a precio de oferta de 17.18 EUR (original: 42.94 EUR) en el siguiente enlace!

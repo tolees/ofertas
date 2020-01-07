@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SSQ4VBT
 description:
+actualPrice: 399 EUR
+comparePrice: 599.99 EUR
+inStock: true
 ---
 
 Tienes [SURFWHEEL SU 27"  - Monopatín eléctrico de una Rueda con Ruedas de Seguridad patentadas](https://www.amazon.com/dp/B07SSQ4VBT/?tag=redken08-20) a precio de oferta de 399 EUR (original: 599.99 EUR) en el siguiente enlace!

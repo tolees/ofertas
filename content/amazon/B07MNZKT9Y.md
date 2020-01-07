@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MNZKT9Y
 description:
+actualPrice: 78.3 EUR
+comparePrice: 135 EUR
+inStock: true
 ---
 
 Tienes [Lacoste Af8785 suéter  Negro  Noir 031   36 para Mujer](https://www.amazon.com/dp/B07MNZKT9Y/?tag=redken08-20) a precio de oferta de 78.3 EUR (original: 135 EUR) en el siguiente enlace!

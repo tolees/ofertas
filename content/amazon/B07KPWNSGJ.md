@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPWNSGJ
 description:
+actualPrice: 16.74 EUR
+comparePrice: 41.85 EUR
+inStock: true
 ---
 
 Está [DC-77 de 16MP 4X Zoom Digital de Alta definición cámara de vídeo cámara 2 4 Pulgadas TFT LCD de Pantalla de 8 GB de Apagado automático](https://www.amazon.com/dp/B07KPWNSGJ/?tag=redken08-20) por 16.74 EUR (original: 41.85 EUR) en el siguiente enlace!

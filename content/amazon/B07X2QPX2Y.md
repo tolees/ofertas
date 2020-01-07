@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07X2QPX2Y
 description:
+actualPrice: 3.99 EUR
+comparePrice: 6.99 EUR
+inStock: true
 ---
 
 Está [Grborn 32GB Tarjeta de Memoria Clase 10  Tarjeta TF para teléfono Inteligente](https://www.amazon.com/dp/B07X2QPX2Y/?tag=redken08-20) por 3.99 EUR (original: 6.99 EUR) en el siguiente enlace!

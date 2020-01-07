@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DFDK4PL
 description:
+actualPrice: 3.99 GBP
+comparePrice: 6.91 GBP
+inStock: true
 ---
 
 Está [Funko 32770 Pocket POP Keychain: Fantastic Beasts 2: Baby Niffler  Grey   Multi](https://www.amazon.com/dp/B07DFDK4PL/?tag=redken08-20) por 3.99 GBP (original: 6.91 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0017ICMQY
 description:
+actualPrice: 9.95 EUR
+comparePrice: 14.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [BaByliss 271CE - Tenacillas de pelo para rizos pequeños con cepillo extraíble para ondas suaves y volumen  diámetro 16 mm](https://www.amazon.com/dp/B0017ICMQY/?tag=redken08-20) a 9.95 EUR (original: 14.9 EUR) en el siguiente enlace!

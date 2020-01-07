@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001LWRHA2
 description:
+actualPrice: 10.99 EUR
+comparePrice: 20.98 EUR
+inStock: true
 ---
 
 Está [Hagen Catit Design Senses Massage Centre](https://www.amazon.com/dp/B001LWRHA2/?tag=redken08-20) por 10.99 EUR (original: 20.98 EUR) en el siguiente enlace!

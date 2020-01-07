@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B002D0WXXW
 description:
+actualPrice: 40 EUR
+comparePrice: 62.48 EUR
+inStock: true
 ---
 
 Tienes [Moser Schneidekopf Genius/belissima Standard](https://www.amazon.com/dp/B002D0WXXW/?tag=redken08-20) a precio de oferta de 40 EUR (original: 62.48 EUR) en el siguiente enlace!

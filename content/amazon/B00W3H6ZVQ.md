@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00W3H6ZVQ
 description:
+actualPrice: 65.59 EUR
+comparePrice: 109.99 EUR
+inStock: true
 ---
 
 Está [Kärcher Akku-Fenstersauger WV 5 Plus Non Stop Cleaning Kit  Entnehmbarer Akku  Ersatzakku  Ladestation  Sprühflasche mit Mikrofaserbezug  wechselbare Saugdüse  Fensterreiniger-Konzentrat 20 ml ](https://www.amazon.com/dp/B00W3H6ZVQ/?tag=redken08-20) por 65.59 EUR (original: 109.99 EUR) en el siguiente enlace!

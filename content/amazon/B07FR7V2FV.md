@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FR7V2FV
 description:
+actualPrice: 67.28 EUR
+comparePrice: 110 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Batcombe Hall Derby - Zapatos de Cordones  para Hombre  Marrón  Tan Leather   43 EU](https://www.amazon.com/dp/B07FR7V2FV/?tag=redken08-20) a 67.28 EUR (original: 110 EUR) en el siguiente enlace!

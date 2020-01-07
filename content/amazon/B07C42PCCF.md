@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07C42PCCF
 description:
+actualPrice: 79.9 EUR
+comparePrice: 159 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [H. Koenig stc68 aspirador Multi Ciclónico sin bolsa Compact + especial pelo de animales-triple a-ligero-fácil de utilizar-potente  azul](https://www.amazon.com/dp/B07C42PCCF/?tag=redken08-20) a 79.9 EUR (original: 159 EUR) en el siguiente enlace!

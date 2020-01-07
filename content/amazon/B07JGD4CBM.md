@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JGD4CBM
 description:
+actualPrice: 8.61 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Está [Puma ftblNXT Pro Shirt Camiseta  Hombre  Azul  Bleu Azur/Red Blast   M](https://www.amazon.com/dp/B07JGD4CBM/?tag=redken08-20) por 8.61 EUR (original: 49.95 EUR) en el siguiente enlace!

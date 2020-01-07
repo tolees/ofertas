@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081XC7NYJ
 description:
+actualPrice: 229.99 EUR
+comparePrice: 499.99 EUR
+inStock: true
 ---
 
 Está [GOODTEL Ordenador Portátil de 14 Pulgadas hasta 2.0GHz  4G RAM 64G ROM Quad-Core Windows 10  1080p IPS  M.2 Slot WiFi USB 38Wh  HD Video Port  Adecuado para Trabajo Pelicula Entretenimiento  Plata](https://www.amazon.com/dp/B081XC7NYJ/?tag=redken08-20) por 229.99 EUR (original: 499.99 EUR) en el siguiente enlace!

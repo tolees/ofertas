@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B014R2XVDY
 description:
+actualPrice: 23.9 EUR
+comparePrice: 40 EUR
+inStock: true
 ---
 
 Tienes [Sony MDRXB50APW.CE7 - Auriculares intraurales  Extra Bass  micrófono Integrado   Blanco](https://www.amazon.com/dp/B014R2XVDY/?tag=redken08-20) a precio de oferta de 23.9 EUR (original: 40 EUR) en el siguiente enlace!

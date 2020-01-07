@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MSK5Z5G
 description:
+actualPrice: 47.9 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Arla Free  Zapatos de Cordones Derby para Hombre  Negro  Black Black   42 EU](https://www.amazon.com/dp/B07MSK5Z5G/?tag=redken08-20) a 47.9 EUR (original: 79.95 EUR) en el siguiente enlace!

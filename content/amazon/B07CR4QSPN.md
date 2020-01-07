@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CR4QSPN
 description:
+actualPrice: 19.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [Revell Control Technik 24712 RC Car  Konstruktionsbausatz Crawler  2.4GHz  4WD Allradantrieb  Off-Road-Reifen  Do-It-Yourself  ferngesteuertes Auto zum Selberbauen  blau  27 5 cm](https://www.amazon.com/dp/B07CR4QSPN/?tag=redken08-20) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

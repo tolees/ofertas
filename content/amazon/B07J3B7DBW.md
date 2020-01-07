@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J3B7DBW
 description:
+actualPrice: 10.94 EUR
+comparePrice: 16.68 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Moleskine - Agenda Semanal de 18 Meses Edición Limitada El Principito  Tierra  Agenda Escolar 2019/2020 con Tapa Dura y Cierre Elástico  Tamaño Pocket 9.5 x 14.5 cm  208 Páginas](https://www.amazon.com/dp/B07J3B7DBW/?tag=redken08-20) a 10.94 EUR (original: 16.68 EUR) en el siguiente enlace!

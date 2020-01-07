@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RC8L2CK
 description:
+actualPrice: 72.95 EUR
+comparePrice: 129.99 EUR
+inStock: true
 ---
 
 Está [Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Azul  Navy   L](https://www.amazon.com/dp/B07RC8L2CK/?tag=redken08-20) por 72.95 EUR (original: 129.99 EUR) en el siguiente enlace!

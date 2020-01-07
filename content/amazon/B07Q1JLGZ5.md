@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07Q1JLGZ5
 description:
+actualPrice: 24.78 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Kingdom Come: Deliverance - Royal Edition - Xbox One](https://www.amazon.com/dp/B07Q1JLGZ5/?tag=redken08-20) a 24.78 EUR (original: 39.99 EUR) en el siguiente enlace!

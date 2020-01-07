@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LBLW3K9
 description:
+actualPrice: 20.13 EUR
+comparePrice: 39.95 EUR
+inStock: true
 ---
 
 Está [Kappa Dolomo  Botas Clasicas para Hombre  Black/Grey 1116  41 EU](https://www.amazon.com/dp/B07LBLW3K9/?tag=redken08-20) por 20.13 EUR (original: 39.95 EUR) en el siguiente enlace!

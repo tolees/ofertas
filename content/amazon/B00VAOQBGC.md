@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00VAOQBGC
 description:
+actualPrice: 8.12 EUR
+comparePrice: 16.24 EUR
+inStock: true
 ---
 
 Tienes [AmazonBasics Kfz-Handyhalterung  für Windschutzscheibe und Armaturenbrett  geeignet für Smartphones und Navigationsgeräte](https://www.amazon.com/dp/B00VAOQBGC/?tag=redken08-20) a precio de oferta de 8.12 EUR (original: 16.24 EUR) en el siguiente enlace!

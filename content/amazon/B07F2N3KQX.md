@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F2N3KQX
 description:
+actualPrice: 27.03 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Está [PUMA Cilia  Zapatillas para Mujer  Black White-Gray Violet Silver  42 EU](https://www.amazon.com/dp/B07F2N3KQX/?tag=redken08-20) por 27.03 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00LFBEOUA
 description:
+actualPrice: 17.39 GBP
+comparePrice: 49.99 GBP
+inStock: true
 ---
 
 Está [Logitech G402 Hyperion Fury Wired Gaming Mouse  4 000 DPI  Lightweight  8 Programmable Buttons  Compatible with PC / Mac - Black](https://www.amazon.com/dp/B00LFBEOUA/?tag=redken08-20) por 17.39 GBP (original: 49.99 GBP) en el siguiente enlace!

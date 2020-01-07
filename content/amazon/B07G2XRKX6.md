@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G2XRKX6
 description:
+actualPrice: 59.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [ammoon Amplificador de Guitarra Portátil POCKAMP Amplificador de 5 Vatios Multiefectos Incorporados 80 Ritmos de Batería Compatibilidad con el Sintonizador](https://www.amazon.com/dp/B07G2XRKX6/?tag=redken08-20) por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

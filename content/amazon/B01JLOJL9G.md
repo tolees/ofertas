@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01JLOJL9G
 description:
+actualPrice: 107.0 EUR
+comparePrice: 195.0 EUR
+inStock: true
 ---
 
 Tienes [Reloj Scuderia Ferrari para Hombre 0830356  Negro  Negro/Plateado/Rojo ](https://www.amazon.com/dp/B01JLOJL9G/?tag=redken08-20) a precio de oferta de 107.0 EUR (original: 195.0 EUR) en el siguiente enlace!

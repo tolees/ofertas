@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071GFDLH7
 description:
+actualPrice: 11.4 EUR
+comparePrice: 29.93 EUR
+inStock: true
 ---
 
 Tienes [find. Zapatillas Deportivas con Textura para Hombre  Azul  Navy   43 EU](https://www.amazon.com/dp/B071GFDLH7/?tag=redken08-20) a precio de oferta de 11.4 EUR (original: 29.93 EUR) en el siguiente enlace!

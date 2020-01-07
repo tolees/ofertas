@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NSPP93Z
 description:
+actualPrice: 5.27 EUR
+comparePrice: 12.2 EUR
+inStock: true
 ---
 
 Está [Pop the Office Pam Beesly Vinyl Figure](https://www.amazon.com/dp/B07NSPP93Z/?tag=redken08-20) por 5.27 EUR (original: 12.2 EUR) en el siguiente enlace!

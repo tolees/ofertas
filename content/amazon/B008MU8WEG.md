@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B008MU8WEG
 description:
+actualPrice: 7.22 EUR
+comparePrice: 51.24 EUR
+inStock: true
 ---
 
 Está [Gossard Sujetador para Mujer  Color Negro  Talla ES: 80D / EU: 65D  Talla fabricante: 30D ](https://www.amazon.com/dp/B008MU8WEG/?tag=redken08-20) por 7.22 EUR (original: 51.24 EUR) en el siguiente enlace!

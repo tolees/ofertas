@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'B07KWYPV1X - Ofertón en Amazon para Victure AC700 Cámara Deportiva 4K Wi-Fi '
+title: 'B07KWYPV1X: Ahorra en Victure AC700 Cámara Deportiva 4K Wi-Fi '
 date: 2020-01-07 15:05:22
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51NMoEa06FL._SL200_.jpg'
 comments: true
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51NMoEa06FL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07KWYPV1X
 description:
+actualPrice: 49.99 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
-Tienes [Victure AC700 Cámara Deportiva 4K Wi-Fi 16MP  Cámara de Accion Acuatica de 40M con Control Remoto y Micrófono Externo Funciones EIS Anti-Vibración y Slow Motion ](https://www.amazon.com/dp/B07KWYPV1X/?tag=redken08-20) a precio de oferta de 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Victure AC700 Cámara Deportiva 4K Wi-Fi 16MP  Cámara de Accion Acuatica de 40M con Control Remoto y Micrófono Externo Funciones EIS Anti-Vibración y Slow Motion ](https://www.amazon.com/dp/B07KWYPV1X/?tag=redken08-20) a 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51NMoEa06FL._SL200_.jpg)](https://www.amazon.com/dp/B07KWYPV1X/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07KWYPV1X/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07KWYPV1X/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

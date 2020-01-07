@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076YLWTPR
 description:
+actualPrice: 21.5 GBP
+comparePrice: 35.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [AmazonBasics USB-C 3 1 10-Port Hub with Power Adapter - 65W  20V/3 25A   Silver](https://www.amazon.com/dp/B076YLWTPR/?tag=redken08-20) a 21.5 GBP (original: 35.99 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KH7G6DV
 description:
+actualPrice: 34.32 EUR
+comparePrice: 70 EUR
+inStock: true
 ---
 
 Tienes [Under Armour EU Tech Pant Pantalón de Golf  Hombre  Marrón  Khaki Base/Khaki Base 289   40W / 36L](https://www.amazon.com/dp/B07KH7G6DV/?tag=redken08-20) a precio de oferta de 34.32 EUR (original: 70 EUR) en el siguiente enlace!

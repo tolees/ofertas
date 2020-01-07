@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H5MTT1F
 description:
+actualPrice: 40.57 EUR
+comparePrice: 64 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Skechers Flex Appeal 3.0  Zapatillas para Mujer  Blanco  White Black Wbk   37 EU](https://www.amazon.com/dp/B07H5MTT1F/?tag=redken08-20) a 40.57 EUR (original: 64 EUR) en el siguiente enlace!

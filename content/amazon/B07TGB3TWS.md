@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TGB3TWS
 description:
+actualPrice: 25.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [steanum Cargador inalámbrico Coche  Qi 10W Rápida Carga Sensor Infrarrojo Soporte Móvil con Rejilla Compatible con Galaxy s9/s9+/s8/s8+/s7  7.5W Compatible para iPhone 11/11 Pro/XS/XS Max/XR/X/8/8+](https://www.amazon.com/dp/B07TGB3TWS/?tag=redken08-20) por 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!

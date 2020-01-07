@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KWYNGT9
 description:
+actualPrice: 29.98 EUR
+comparePrice: 50 EUR
+inStock: true
 ---
 
 Tienes [Uten Báscula de Baño Inteligente Recargable Bluetooth Báscula de Grasa Corporal con Analizador de Cuerpo Para Medición del Peso Corporal  Grasa Corporal  IMC  etc  28st / 180kg / 400lb  Blanco](https://www.amazon.com/dp/B07KWYNGT9/?tag=redken08-20) a precio de oferta de 29.98 EUR (original: 50 EUR) en el siguiente enlace!

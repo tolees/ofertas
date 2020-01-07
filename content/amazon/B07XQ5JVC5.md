@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XQ5JVC5
 description:
+actualPrice: 28.99 GBP
+comparePrice: 108.99 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Princess Mermaid Costumes Dress Halloween Costume Princess Ariel Cosplay Fancy Dress up Party Birthday Outfit  Mermaid  2-3Years height 100cm ](https://www.amazon.com/dp/B07XQ5JVC5/?tag=redken08-20) a 28.99 GBP (original: 108.99 GBP) en el siguiente enlace!

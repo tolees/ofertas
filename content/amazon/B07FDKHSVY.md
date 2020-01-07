@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FDKHSVY
 description:
+actualPrice: 7.55 EUR
+comparePrice: 19.95 EUR
+inStock: true
 ---
 
 Está [BLEND 20708180 Polo  Rojo  Mineral Red 73817   XX-Large para Hombre](https://www.amazon.com/dp/B07FDKHSVY/?tag=redken08-20) por 7.55 EUR (original: 19.95 EUR) en el siguiente enlace!

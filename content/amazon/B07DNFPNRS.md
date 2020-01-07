@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DNFPNRS
 description:
+actualPrice: 32.9 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Forza Horizon 4](https://www.amazon.com/dp/B07DNFPNRS/?tag=redken08-20) a 32.9 EUR (original: 69.99 EUR) en el siguiente enlace!

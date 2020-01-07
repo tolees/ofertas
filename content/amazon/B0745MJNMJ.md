@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0745MJNMJ
 description:
+actualPrice: 13.02 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Vero Moda Vmsami LS Highneck Blouse Boo Camiseta Cuello Alto  Rosa  Misty Rose   36  Talla del Fabricante: Small  para Mujer](https://www.amazon.com/dp/B0745MJNMJ/?tag=redken08-20) a 13.02 EUR (original: 29.99 EUR) en el siguiente enlace!

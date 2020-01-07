@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00HRRD8R6
 description:
+actualPrice: 30 GBP
+comparePrice: 55.99 GBP
+inStock: true
 ---
 
 Está [Sylvanian Families - Cedar Terrace](https://www.amazon.com/dp/B00HRRD8R6/?tag=redken08-20) por 30 GBP (original: 55.99 GBP) en el siguiente enlace!

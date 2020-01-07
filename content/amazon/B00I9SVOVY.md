@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00I9SVOVY
 description:
+actualPrice: 9.95 EUR
+comparePrice: 25.71 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [The Big Bang Theory SDTWRN02581 - Taza de cerámica con diseño"Bazinga"  color azul  SD Toys SDTWRN02581  - Taza Bazinga Big Bang Theory](https://www.amazon.com/dp/B00I9SVOVY/?tag=redken08-20) a 9.95 EUR (original: 25.71 EUR) en el siguiente enlace!

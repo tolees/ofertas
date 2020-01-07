@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BGVF49W
 description:
+actualPrice: 23.99 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Está [Navaja táctica de BGT  plegable  con sistema de cojinete  funda  con mango antideslizante](https://www.amazon.com/dp/B07BGVF49W/?tag=redken08-20) por 23.99 EUR (original: 99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07C66SHBS
 description:
+actualPrice: 9.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Tienes [4 pieza Perfume  rellenable vaporizador vaporizador de perfume botella de perfume perfume  para viajes Viaje Pulverizador de amison](https://www.amazon.com/dp/B07C66SHBS/?tag=redken08-20) a precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

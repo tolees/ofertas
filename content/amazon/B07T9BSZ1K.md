@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07T9BSZ1K
 description:
+actualPrice: 19.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Tienes [Upgrade Transmisor FM Bluetooth 5.0 Coche Manos Libres con 7 Colores Luz  Reproductor MP3 Coche Carga Rapida QC3.0  2 USB 5V/3A&2.4A Inalámbrico Kit de Coche Soporte Tarjeta TF 32 G  AUX  SIRI/Google](https://www.amazon.com/dp/B07T9BSZ1K/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

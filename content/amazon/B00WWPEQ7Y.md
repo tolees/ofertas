@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00WWPEQ7Y
 description:
+actualPrice: 13.99 EUR
+comparePrice: 24.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Jack and Jones Sense Trunks 3-Pack Bóxer  Blanco  Large  Hombre](https://www.amazon.com/dp/B00WWPEQ7Y/?tag=redken08-20) a 13.99 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078C6TFJK
 description:
+actualPrice: 22.49 EUR
+comparePrice: 44.26 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Puma Liga Casuals Hoody Sudadera con Capucha  Hombre  Verde  Pepper Green/White   XL](https://www.amazon.com/dp/B078C6TFJK/?tag=redken08-20) a 22.49 EUR (original: 44.26 EUR) en el siguiente enlace!

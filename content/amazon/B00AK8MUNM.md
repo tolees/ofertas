@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00AK8MUNM
 description:
+actualPrice: 27.99 EUR
+comparePrice: 59 EUR
+inStock: true
 ---
 
 Está [Superga 2750 COTU Classic  Zapatillas Unisex  Blanco  Total White C42   42 EU](https://www.amazon.com/dp/B00AK8MUNM/?tag=redken08-20) por 27.99 EUR (original: 59 EUR) en el siguiente enlace!

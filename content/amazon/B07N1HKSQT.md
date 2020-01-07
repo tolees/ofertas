@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1HKSQT
 description:
+actualPrice: 47.77 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Tienes [Kipling SEOUL S - Mochila escolar  14 liters  Gris  CHALK GREY ](https://www.amazon.com/dp/B07N1HKSQT/?tag=redken08-20) a precio de oferta de 47.77 EUR (original: 89 EUR) en el siguiente enlace!

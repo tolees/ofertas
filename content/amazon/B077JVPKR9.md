@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077JVPKR9
 description:
+actualPrice: 79.95 EUR
+comparePrice: 220 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [HEAD GRAPHENE TORNADO CONTROL LTD AZUL](https://www.amazon.com/dp/B077JVPKR9/?tag=redken08-20) a 79.95 EUR (original: 220 EUR) en el siguiente enlace!

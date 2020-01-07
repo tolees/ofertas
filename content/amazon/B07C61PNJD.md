@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07C61PNJD
 description:
+actualPrice: 18.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [JACK & JONES Jjesheridan Shirt L/s Camisa Vaquera  Gris  Light Grey Denim Fit:Slim   Medium para Hombre](https://www.amazon.com/dp/B07C61PNJD/?tag=redken08-20) a 18.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ZFQZV4N
 description:
+actualPrice: 18.99 EUR
+comparePrice: 30.99 EUR
+inStock: true
 ---
 
 Está [NICE WIN Guantes Esqui  Guantes Invierno Hombre Hombres y Mujeres  Negro  M ](https://www.amazon.com/dp/B07ZFQZV4N/?tag=redken08-20) por 18.99 EUR (original: 30.99 EUR) en el siguiente enlace!

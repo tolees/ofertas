@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00LPLDERE
 description:
+actualPrice: 8.39 EUR
+comparePrice: 13.95 EUR
+inStock: true
 ---
 
 Tienes [L Oréal Paris - Infallible 24H  Maquillaje en Polvo Compacto  Tono 160](https://www.amazon.com/dp/B00LPLDERE/?tag=redken08-20) a precio de oferta de 8.39 EUR (original: 13.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MSK5ZFG
 description:
+actualPrice: 36.82 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Está [Clarks - Botines de Sintético Hombre  Color Marrón  Talla 44.5 EU](https://www.amazon.com/dp/B07MSK5ZFG/?tag=redken08-20) por 36.82 EUR (original: 69.95 EUR) en el siguiente enlace!

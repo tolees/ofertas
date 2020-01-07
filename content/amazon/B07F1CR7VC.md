@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F1CR7VC
 description:
+actualPrice: 13.99 EUR
+comparePrice: 23 EUR
+inStock: true
 ---
 
 Está [BILLABONG Disaster Gorro  Hombre  Black Heather  U](https://www.amazon.com/dp/B07F1CR7VC/?tag=redken08-20) por 13.99 EUR (original: 23 EUR) en el siguiente enlace!

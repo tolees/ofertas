@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B4XG9JH
 description:
+actualPrice: 18.99 EUR
+comparePrice: 34.99 EUR
+inStock: true
 ---
 
 Está [JACK & JONES Jjeunion Knit Crew Neck Noos suéter  Marfil  Oatmeal Detail:Melange   XX-Large para Hombre](https://www.amazon.com/dp/B07B4XG9JH/?tag=redken08-20) por 18.99 EUR (original: 34.99 EUR) en el siguiente enlace!

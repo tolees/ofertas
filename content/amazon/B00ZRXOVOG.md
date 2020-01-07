@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00ZRXOVOG
 description:
+actualPrice: 5.93 GBP
+comparePrice: 9.89 GBP
+inStock: true
 ---
 
 Tienes [LEGO Lights Star Wars Han Solo Key Light](https://www.amazon.com/dp/B00ZRXOVOG/?tag=redken08-20) a precio de oferta de 5.93 GBP (original: 9.89 GBP) en el siguiente enlace!

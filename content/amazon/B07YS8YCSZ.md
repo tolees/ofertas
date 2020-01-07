@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07YS8YCSZ
 description:
+actualPrice: 25.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [2019 Auriculares inalámbricos Bluetooth Bluetooth Touch con Audio estéreo de Alta fidelidad 5.0 hasta 15 Horas de Juego Auriculares inalámbricos internos para Deportes iOS Android](https://www.amazon.com/dp/B07YS8YCSZ/?tag=redken08-20) por 25.99 EUR (original: 99.99 EUR) en el siguiente enlace!

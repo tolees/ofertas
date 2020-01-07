@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00PXHAN1G
 description:
+actualPrice: 28.49 EUR
+comparePrice: 44.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Calvin Klein Underwear Perfectly FIT-Memory Touch Push-UP Sujetador  Beige  Bare 20N   100B para Mujer](https://www.amazon.com/dp/B00PXHAN1G/?tag=redken08-20) a 28.49 EUR (original: 44.95 EUR) en el siguiente enlace!

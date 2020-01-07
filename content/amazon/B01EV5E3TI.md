@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01EV5E3TI
 description:
+actualPrice: 52.99 EUR
+comparePrice: 129.99 EUR
+inStock: true
 ---
 
 Tienes [IntimaTe WM Heart Giratoria de Oficina Silla de Escritorio de Malla con Reposacabezas  Ergonómica Mecanismo Sincronizado Altura Ajustable  Tela](https://www.amazon.com/dp/B01EV5E3TI/?tag=redken08-20) a precio de oferta de 52.99 EUR (original: 129.99 EUR) en el siguiente enlace!

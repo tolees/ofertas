@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GG6Z8TS
 description:
+actualPrice: 14.9 EUR
+comparePrice: 39.95 EUR
+inStock: true
 ---
 
 Tienes [Hitman 2 - Standard Edition](https://www.amazon.com/dp/B07GG6Z8TS/?tag=redken08-20) a precio de oferta de 14.9 EUR (original: 39.95 EUR) en el siguiente enlace!

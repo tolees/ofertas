@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MQNF1WY
 description:
+actualPrice: 58 EUR
+comparePrice: 128.99 EUR
+inStock: true
 ---
 
 Tienes [Asics Gel-Lyte V  Zapatillas Unisex Adulto  Blanco  Bianco   36 EU](https://www.amazon.com/dp/B01MQNF1WY/?tag=redken08-20) a precio de oferta de 58 EUR (original: 128.99 EUR) en el siguiente enlace!

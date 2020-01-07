@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H4SJB1S
 description:
+actualPrice: 28.79 EUR
+comparePrice: 88.99 EUR
+inStock: true
 ---
 
 Está [Herramienta rotativa eléctrica  Mini amoladora TECCPO 170W  8000-35000 RPM  Control de profundidad/80 Accesorios/Diseño ergonómico/Mandril de 3 garras  Eje flexible](https://www.amazon.com/dp/B07H4SJB1S/?tag=redken08-20) por 28.79 EUR (original: 88.99 EUR) en el siguiente enlace!

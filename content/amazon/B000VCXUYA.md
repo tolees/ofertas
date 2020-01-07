@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000VCXUYA
 description:
+actualPrice: 13.6 EUR
+comparePrice: 22.02 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [TPF Comercial 0007699330005 Mandil de soldador](https://www.amazon.com/dp/B000VCXUYA/?tag=redken08-20) a 13.6 EUR (original: 22.02 EUR) en el siguiente enlace!

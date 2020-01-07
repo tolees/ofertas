@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00WU5RBT6
 description:
+actualPrice: 13.24 EUR
+comparePrice: 20 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Levi s Graphic Set-In Neck  Camiseta para Hombre  Azul  C18977 Graphic H215-Hm Dress Blues Graphic H215-Hm 36.3 139   X-Small](https://www.amazon.com/dp/B00WU5RBT6/?tag=redken08-20) a 13.24 EUR (original: 20 EUR) en el siguiente enlace!

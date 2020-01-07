@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PGXBFRX
 description:
+actualPrice: 9.99 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [LA Active Calcetines Antideslizantes - Para Yoga Pilates Ballet Barre Mujer Hombre  Negro  34.36.5 EU ](https://www.amazon.com/dp/B07PGXBFRX/?tag=redken08-20) por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

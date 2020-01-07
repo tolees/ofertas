@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TDTB5BR
 description:
+actualPrice: 65.24 EUR
+comparePrice: 119 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lotus Reloj Cronógrafo para Mujer de Cuarzo con Correa en Cuero 18674/2](https://www.amazon.com/dp/B07TDTB5BR/?tag=redken08-20) a 65.24 EUR (original: 119 EUR) en el siguiente enlace!

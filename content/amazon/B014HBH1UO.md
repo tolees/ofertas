@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B014HBH1UO
 description:
+actualPrice: 125 EUR
+comparePrice: 233.25 EUR
+inStock: true
 ---
 
 Está [Seiko Reloj Analógico para Hombre de Energía Solar con Correa en Acero Inoxidable SNE391P1](https://www.amazon.com/dp/B014HBH1UO/?tag=redken08-20) por 125 EUR (original: 233.25 EUR) en el siguiente enlace!

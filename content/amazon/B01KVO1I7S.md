@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01KVO1I7S
 description:
+actualPrice: 69.85 EUR
+comparePrice: 119 EUR
+inStock: true
 ---
 
 Tienes [OMRON M7 Intelli IT - Tensiómetro de brazo  Bluetooth  aplicación OMRON Connect para móviles  tecnología Intelli Wrap Cuff](https://www.amazon.com/dp/B01KVO1I7S/?tag=redken08-20) a precio de oferta de 69.85 EUR (original: 119 EUR) en el siguiente enlace!

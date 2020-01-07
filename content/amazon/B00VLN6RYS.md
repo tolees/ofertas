@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00VLN6RYS
 description:
+actualPrice: 7.45 EUR
+comparePrice: 20 EUR
+inStock: true
 ---
 
 Está [Levi s The Perfect Tee  Camiseta para Mujer  Blanco  Batwing White Graphic 53   Small](https://www.amazon.com/dp/B00VLN6RYS/?tag=redken08-20) por 7.45 EUR (original: 20 EUR) en el siguiente enlace!

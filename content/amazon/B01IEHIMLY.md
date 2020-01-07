@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01IEHIMLY
 description:
+actualPrice: 79.99 EUR
+comparePrice: 156.83 EUR
+inStock: true
 ---
 
 Está [WaveSound 3 Auriculares inalámbricos con cancelación de Ruido Activo](https://www.amazon.com/dp/B01IEHIMLY/?tag=redken08-20) por 79.99 EUR (original: 156.83 EUR) en el siguiente enlace!

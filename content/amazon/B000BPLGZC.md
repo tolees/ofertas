@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000BPLGZC
 description:
+actualPrice: 77.84 EUR
+comparePrice: 399.9 EUR
+inStock: true
 ---
 
 Está [HP 643A - Cartucho de tóner original LaserJet para Laserjet 4700 series  color amarillo](https://www.amazon.com/dp/B000BPLGZC/?tag=redken08-20) por 77.84 EUR (original: 399.9 EUR) en el siguiente enlace!

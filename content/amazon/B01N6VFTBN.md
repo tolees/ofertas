@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N6VFTBN
 description:
+actualPrice: 66.32 EUR
+comparePrice: 100.0 EUR
+inStock: true
 ---
 
 Está [The North Face M Resolve Jacket Chaqueta Impermeable  Hombre  Azul  XL](https://www.amazon.com/dp/B01N6VFTBN/?tag=redken08-20) por 66.32 EUR (original: 100.0 EUR) en el siguiente enlace!

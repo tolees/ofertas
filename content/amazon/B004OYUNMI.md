@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B004OYUNMI
 description:
+actualPrice: 68 EUR
+comparePrice: 169 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Casio G-SHOCK Reloj Analógico-Digital  20 BAR  Azul/Negro  para Hombre  GA-110-1BER](https://www.amazon.com/dp/B004OYUNMI/?tag=redken08-20) a 68 EUR (original: 169 EUR) en el siguiente enlace!

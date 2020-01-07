@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079TCLT9J
 description:
+actualPrice: 9.39 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Tienes [Funko Television Figura Pop Stranger Things: Billy AT Halloween  Multicolor  Last Level FFK30880 ](https://www.amazon.com/dp/B079TCLT9J/?tag=redken08-20) a precio de oferta de 9.39 EUR (original: 15.95 EUR) en el siguiente enlace!

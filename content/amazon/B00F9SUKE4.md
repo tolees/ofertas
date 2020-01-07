@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00F9SUKE4
 description:
+actualPrice: 20.99 EUR
+comparePrice: 44.99 EUR
+inStock: true
 ---
 
 Tienes [Russell Hobbs SteamGlide Professional 20562-56 - Plancha de Ropa de Vapor  2600 W  Suela de Cerámica  0.3 litros  Acero inoxidable  Blanco y Azul](https://www.amazon.com/dp/B00F9SUKE4/?tag=redken08-20) a precio de oferta de 20.99 EUR (original: 44.99 EUR) en el siguiente enlace!

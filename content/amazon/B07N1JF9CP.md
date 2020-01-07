@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1JF9CP
 description:
+actualPrice: 60.12 EUR
+comparePrice: 110 EUR
+inStock: true
 ---
 
 Tienes [Clarks Un Adorn Zip  Mocasines para Mujer  Beige  Pebble Metalic Pebble Metalic   37.5 EU](https://www.amazon.com/dp/B07N1JF9CP/?tag=redken08-20) a precio de oferta de 60.12 EUR (original: 110 EUR) en el siguiente enlace!

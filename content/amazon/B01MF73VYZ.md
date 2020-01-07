@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MF73VYZ
 description:
+actualPrice: 19.99 EUR
+comparePrice: 29.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Kayhan Hombre Camisa Mailand  Black  S ](https://www.amazon.com/dp/B01MF73VYZ/?tag=redken08-20) a 19.99 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RC8DQQF
 description:
+actualPrice: 15.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Azul  Scout Blue   L](https://www.amazon.com/dp/B07RC8DQQF/?tag=redken08-20) a precio de oferta de 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

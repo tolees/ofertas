@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DP3M5QJ
 description:
+actualPrice: 22.5 EUR
+comparePrice: 45 EUR
+inStock: true
 ---
 
 Tienes [Eastpak EK04320W Orbit Mochila 10 L  Turquesa  River Blue   33.5 x 23 x 15 cm](https://www.amazon.com/dp/B07DP3M5QJ/?tag=redken08-20) a precio de oferta de 22.5 EUR (original: 45 EUR) en el siguiente enlace!

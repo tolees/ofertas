@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DHYTS7N
 description:
+actualPrice: 44.87 EUR
+comparePrice: 109 EUR
+inStock: true
 ---
 
 Está [Lacoste Rey Sport 119 2 Cfa  Zapatillas para Mujer  Azul  Nvy/Gld Ng5   40 EU](https://www.amazon.com/dp/B07DHYTS7N/?tag=redken08-20) por 44.87 EUR (original: 109 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BSMXLV7
 description:
+actualPrice: 38.26 EUR
+comparePrice: 76.27 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [REPLAY M3666 .000.21842  Camiseta para Hombre  Gris  Melange Grey M14   Medium](https://www.amazon.com/dp/B07BSMXLV7/?tag=redken08-20) a 38.26 EUR (original: 76.27 EUR) en el siguiente enlace!

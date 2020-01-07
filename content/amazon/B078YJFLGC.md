@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078YJFLGC
 description:
+actualPrice: 23.99 EUR
+comparePrice: 37.99 EUR
+inStock: true
 ---
 
 Tienes [Versión Actualizada Hapilife Grifo Lavabo Monomando Mezclador con Aireador Incorporado  Conexión 3/8" Española  10 Años Garantía](https://www.amazon.com/dp/B078YJFLGC/?tag=redken08-20) a precio de oferta de 23.99 EUR (original: 37.99 EUR) en el siguiente enlace!

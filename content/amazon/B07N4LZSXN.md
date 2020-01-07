@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N4LZSXN
 description:
+actualPrice: 54 EUR
+comparePrice: 100 EUR
+inStock: true
 ---
 
 Está [Levi s Fowler  Botas Slouch para Hombre  Negro  R Black 59   45 EU](https://www.amazon.com/dp/B07N4LZSXN/?tag=redken08-20) por 54 EUR (original: 100 EUR) en el siguiente enlace!

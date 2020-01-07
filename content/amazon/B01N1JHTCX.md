@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1JHTCX
 description:
+actualPrice: 34.5 EUR
+comparePrice: 69 EUR
+inStock: true
 ---
 
 Tienes [Einhell CC-po 1100/2 CC-po 1100/2 Pulidora y lijadora para Coche  1100 W  1000 - 3500 RPM  Rojo/Negro](https://www.amazon.com/dp/B01N1JHTCX/?tag=redken08-20) a precio de oferta de 34.5 EUR (original: 69 EUR) en el siguiente enlace!

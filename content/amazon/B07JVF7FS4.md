@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JVF7FS4
 description:
+actualPrice: 13.7 EUR
+comparePrice: 23.37 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Moleskine - Agenda Semanal de 12 meses para 2020 El Principito Edición Especial Planeta con Tapa Dura y Cierre Elástico  Tamaño Grande 13 x 21 cm  144 Páginas](https://www.amazon.com/dp/B07JVF7FS4/?tag=redken08-20) a 13.7 EUR (original: 23.37 EUR) en el siguiente enlace!

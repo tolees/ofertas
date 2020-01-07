@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01GE15QAW
 description:
+actualPrice: 19.95 EUR
+comparePrice: 31.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Goliath - Man-Tibu-Las  juego de mesa  Goliath 30721006 ](https://www.amazon.com/dp/B01GE15QAW/?tag=redken08-20) a 19.95 EUR (original: 31.99 EUR) en el siguiente enlace!

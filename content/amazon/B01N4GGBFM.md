@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N4GGBFM
 description:
+actualPrice: 54.99 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Corsair Scimitar Pro RGB - Ratón óptico para juegos  retroiluminación RGB  16000 dpi  con Cable   Amarillo](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20) a 54.99 EUR (original: 89.99 EUR) en el siguiente enlace!

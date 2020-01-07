@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005WHG6EU
 description:
+actualPrice: 699.46 EUR
+comparePrice: 1255.45 EUR
+inStock: true
 ---
 
 Está [DeWalt Paneelsäge 1675W DWS780 inkl. Zubehör - Mit 305x30 mm HM-Sägeblatt ideal für den Innenausbau - Hohe Schnittkapazität & LED Schnittlinien Anzeige](https://www.amazon.com/dp/B005WHG6EU/?tag=redken08-20) por 699.46 EUR (original: 1255.45 EUR) en el siguiente enlace!

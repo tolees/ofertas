@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00WB1PI5S
 description:
+actualPrice: 177.89 EUR
+comparePrice: 367.71 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [DeWalt XR Akku-Schlagschrauber DCF899NT - Schlagschrauber mit bürstenloser Motor-Technologie  3-Gang-Getriebe & LED-Licht für diverse Schraubarbeiten - 1 x Akkuschrauber Li-Ion 18 V](https://www.amazon.com/dp/B00WB1PI5S/?tag=redken08-20) a 177.89 EUR (original: 367.71 EUR) en el siguiente enlace!

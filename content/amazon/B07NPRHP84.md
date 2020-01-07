@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NPRHP84
 description:
+actualPrice: 9.99 EUR
+comparePrice: 27.35 EUR
+inStock: true
 ---
 
 Está [Stenso Chaqueta Chaleco de Trabajo Multiusos MAX - Ropa de Trabajo para Hombre - 2 en 1 para Todo el año - Negro/Rojo - M  EU48 ](https://www.amazon.com/dp/B07NPRHP84/?tag=redken08-20) por 9.99 EUR (original: 27.35 EUR) en el siguiente enlace!

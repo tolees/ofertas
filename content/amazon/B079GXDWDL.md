@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079GXDWDL
 description:
+actualPrice: 33.46 EUR
+comparePrice: 74.95 EUR
+inStock: true
 ---
 
 Está [PUMA NRGY Neko Knit  Zapatillas de Entrenamiento para Hombre  Black Black  39 EU](https://www.amazon.com/dp/B079GXDWDL/?tag=redken08-20) por 33.46 EUR (original: 74.95 EUR) en el siguiente enlace!

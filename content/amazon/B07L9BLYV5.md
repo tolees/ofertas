@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L9BLYV5
 description:
+actualPrice: 74.99 EUR
+comparePrice: 160 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Armour Down Hooded Chaqueta  Hombre  Gris  MD](https://www.amazon.com/dp/B07L9BLYV5/?tag=redken08-20) a 74.99 EUR (original: 160 EUR) en el siguiente enlace!

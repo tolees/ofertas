@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SJBVV8V
 description:
+actualPrice: 59.99 GBP
+comparePrice: 119.99 GBP
+inStock: true
 ---
 
 Tienes [Introducing Echo Show 8 | 8" HD smart display with Alexa  Sandstone fabric](https://www.amazon.com/dp/B07SJBVV8V/?tag=redken08-20) a precio de oferta de 59.99 GBP (original: 119.99 GBP) en el siguiente enlace!

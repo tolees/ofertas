@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPL28YC
 description:
+actualPrice: 13.99 GBP
+comparePrice: 24.9 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [COOVY® Cover for Amazon Kindle Fire HD 8  7. / 8. Generation  Model 2017/2018  ROTATING 360° DEGREE SMART CASE STAND HOUSING PROTECTION Sleep/Wake up | red](https://www.amazon.com/dp/B07KPL28YC/?tag=redken08-20) a 13.99 GBP (original: 24.9 GBP) en el siguiente enlace!

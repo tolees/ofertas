@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1HLHL3
 description:
+actualPrice: 27.5 GBP
+comparePrice: 45 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Women s Glove Puppet Loafers  Multicolour  Leopard Print Leopard Print   4 UK](https://www.amazon.com/dp/B07N1HLHL3/?tag=redken08-20) a 27.5 GBP (original: 45 GBP) en el siguiente enlace!

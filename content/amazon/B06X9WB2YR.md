@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06X9WB2YR
 description:
+actualPrice: 9 EUR
+comparePrice: 19.2 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. 70296 vestidos mujer  Multicolor  Black Mix   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B06X9WB2YR/?tag=redken08-20) a 9 EUR (original: 19.2 EUR) en el siguiente enlace!

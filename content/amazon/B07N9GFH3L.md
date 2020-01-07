@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N9GFH3L
 description:
+actualPrice: 54.46 EUR
+comparePrice: 119 EUR
+inStock: true
 ---
 
 Está [Timex Reloj de Pulsera TW2R93900](https://www.amazon.com/dp/B07N9GFH3L/?tag=redken08-20) por 54.46 EUR (original: 119 EUR) en el siguiente enlace!

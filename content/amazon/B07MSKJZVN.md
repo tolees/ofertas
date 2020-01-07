@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MSKJZVN
 description:
+actualPrice: 50.5 EUR
+comparePrice: 140 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks - Botines de Cuero Hombre  Color Gris  Talla 41.5 EU](https://www.amazon.com/dp/B07MSKJZVN/?tag=redken08-20) a 50.5 EUR (original: 140 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N2AN0BT
 description:
+actualPrice: 12.99 EUR
+comparePrice: 26.95 EUR
+inStock: true
 ---
 
 Está [Loovara OMG - gel estimulante para mujeres | gel lubricante para el clítoris  perfecto para tus juguetes sexuales | vegano  dermatológicamente testado y fabricado en Alemania | hasta 100 aplicaciones](https://www.amazon.com/dp/B01N2AN0BT/?tag=redken08-20) por 12.99 EUR (original: 26.95 EUR) en el siguiente enlace!

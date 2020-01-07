@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TWRWL1T
 description:
+actualPrice: 22.99 GBP
+comparePrice: 99.99 GBP
+inStock: true
 ---
 
 Tienes [BRIKSMAX Led Lighting Kit for LEGO Architecture Arc De Triomphe- Compatible with Lego 21036 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TWRWL1T/?tag=redken08-20) a precio de oferta de 22.99 GBP (original: 99.99 GBP) en el siguiente enlace!

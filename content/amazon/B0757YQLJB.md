@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0757YQLJB
 description:
+actualPrice: 10.5 EUR
+comparePrice: 26.25 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Vaqueros Skinny con Rotos Hombre Gris  Grey Wash  W36/L34](https://www.amazon.com/dp/B0757YQLJB/?tag=redken08-20) a 10.5 EUR (original: 26.25 EUR) en el siguiente enlace!

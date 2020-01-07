@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WH17SZT
 description:
+actualPrice: 24.95 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Tienes [Ancestors Legacy - Conqueror s Edition](https://www.amazon.com/dp/B07WH17SZT/?tag=redken08-20) a precio de oferta de 24.95 EUR (original: 39.99 EUR) en el siguiente enlace!

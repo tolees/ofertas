@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HILG2BO
 description:
+actualPrice: 109.99 EUR
+comparePrice: 179.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [AUNA Connect 120 WN - Radio por Internet   Digital   WLAN   Reproductor en Red   Dab/Dab+/FM con RDS   Bluetooth   AUX   Puerto MP3-USB   Despertador   Visualización Hora   Modo sueño   Marrón](https://www.amazon.com/dp/B01HILG2BO/?tag=redken08-20) a 109.99 EUR (original: 179.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078KNZC5G
 description:
+actualPrice: 22.83 EUR
+comparePrice: 40.92 EUR
+inStock: true
 ---
 
 Tienes [Urban Classics 2-Tone Tech Windrunner Chaqueta  Multicolor  Dark Grey/White 00440   Medium para Hombre](https://www.amazon.com/dp/B078KNZC5G/?tag=redken08-20) a precio de oferta de 22.83 EUR (original: 40.92 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QJCQYTD
 description:
+actualPrice: 11.34 EUR
+comparePrice: 19.19 EUR
+inStock: true
 ---
 
 Tienes [AmazonBasics - Soporte de pared inclinable y ajustable  para TV  de 58 4 a 127 cm  23-50"   gama Essentials](https://www.amazon.com/dp/B07QJCQYTD/?tag=redken08-20) a precio de oferta de 11.34 EUR (original: 19.19 EUR) en el siguiente enlace!

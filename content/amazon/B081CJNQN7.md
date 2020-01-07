@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CJNQN7
 description:
+actualPrice: 59 EUR
+comparePrice: 89 EUR
+inStock: true
 ---
 
 Tienes [Geographical Norway Chaqueta NIÑO BIBLOS Negro 14](https://www.amazon.com/dp/B081CJNQN7/?tag=redken08-20) a precio de oferta de 59 EUR (original: 89 EUR) en el siguiente enlace!

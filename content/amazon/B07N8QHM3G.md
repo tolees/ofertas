@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N8QHM3G
 description:
+actualPrice: 16.48 EUR
+comparePrice: 29.9 EUR
+inStock: true
 ---
 
 Tienes [Dim Soutien-Gorge Avec Armatures SUBLIM Dentelle Sujetador con Aros  Rouge Cherry 8ou  100E para Mujer](https://www.amazon.com/dp/B07N8QHM3G/?tag=redken08-20) a precio de oferta de 16.48 EUR (original: 29.9 EUR) en el siguiente enlace!

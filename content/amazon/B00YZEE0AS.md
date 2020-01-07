@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00YZEE0AS
 description:
+actualPrice: 28.48 EUR
+comparePrice: 47 EUR
+inStock: true
 ---
 
 Tienes [Juvena Aqua Recharge Essence Tratamiento Facial - 50 ml](https://www.amazon.com/dp/B00YZEE0AS/?tag=redken08-20) a precio de oferta de 28.48 EUR (original: 47 EUR) en el siguiente enlace!

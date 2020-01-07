@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DR4HC7S
 description:
+actualPrice: 15.74 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Está [hummel Slimmer Stadil Low  Zapatillas Unisex Adulto  Azul  Black Iris 1009   37 EU](https://www.amazon.com/dp/B07DR4HC7S/?tag=redken08-20) por 15.74 EUR (original: 69.95 EUR) en el siguiente enlace!

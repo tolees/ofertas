@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QSS9VC5
 description:
+actualPrice: 699 EUR
+comparePrice: 1099 EUR
+inStock: true
 ---
 
 Tienes [Sony KD-55XG8196BAEP - Televisor 4K HDR de 55"  Android TV  Triluminos  procesador 4K X-Reality Pro  HDR  Control por Voz  ClearAudio+  Negro](https://www.amazon.com/dp/B07QSS9VC5/?tag=redken08-20) a precio de oferta de 699 EUR (original: 1099 EUR) en el siguiente enlace!

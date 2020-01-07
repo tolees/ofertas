@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B014VG9VXK
 description:
+actualPrice: 36.55 EUR
+comparePrice: 69.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Couture Bloom  Bailarinas para Mujer  Negro  Black Patent   37 EU](https://www.amazon.com/dp/B014VG9VXK/?tag=redken08-20) a 36.55 EUR (original: 69.95 EUR) en el siguiente enlace!

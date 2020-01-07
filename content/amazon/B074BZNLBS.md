@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074BZNLBS
 description:
+actualPrice: 48.29 EUR
+comparePrice: 92 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pepe Jeans Kingston Zip  Vaqueros Recto para Hombre  Negro  Black Used Wa3   W38/L30](https://www.amazon.com/dp/B074BZNLBS/?tag=redken08-20) a 48.29 EUR (original: 92 EUR) en el siguiente enlace!

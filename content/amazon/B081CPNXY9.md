@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CPNXY9
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geographical Norway Parka Hombre Boomerang A Negro M](https://www.amazon.com/dp/B081CPNXY9/?tag=redken08-20) a 65 EUR (original: 99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KXC7RBD
 description:
+actualPrice: 11.69 EUR
+comparePrice: 18.32 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Apisérum Defensas Cápsulas - Mantiene y refuerza las defensas - Multivitamínico con Jalea Real  Vitamina C  Echinacea  Zinc  Reishi y Shitake - Tratamiento para 1 mes](https://www.amazon.com/dp/B07KXC7RBD/?tag=redken08-20) a 11.69 EUR (original: 18.32 EUR) en el siguiente enlace!

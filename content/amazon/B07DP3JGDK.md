@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DP3JGDK
 description:
+actualPrice: 31.82 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Eastpak STAND + Bolsa de viaje  53 cm  34 liters  Azul  Triple Denim  ](https://www.amazon.com/dp/B07DP3JGDK/?tag=redken08-20) a 31.82 EUR (original: 60 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B4JQRGH
 description:
+actualPrice: 34.99 EUR
+comparePrice: 56.52 EUR
+inStock: true
 ---
 
 Tienes [Auriculares Bluetooth  Manos Libres Oreja Auricular inalámbrico Bluetooth V4.1 Auriculares con Reducción de Ruido  Manos libres Auriculares con Micrófono para Oficina](https://www.amazon.com/dp/B07B4JQRGH/?tag=redken08-20) a precio de oferta de 34.99 EUR (original: 56.52 EUR) en el siguiente enlace!

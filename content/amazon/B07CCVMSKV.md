@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CCVMSKV
 description:
+actualPrice: 19.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [Scottex Acolchado Papel Higiénico - 63 rollos](https://www.amazon.com/dp/B07CCVMSKV/?tag=redken08-20) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

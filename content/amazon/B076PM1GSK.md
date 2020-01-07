@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076PM1GSK
 description:
+actualPrice: 26.48 EUR
+comparePrice: 42.41 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Scholl Lima Electrónica de Pies Rosa y 2 Pintauñas de Color Rojo y Transparente - Pack Regalo](https://www.amazon.com/dp/B076PM1GSK/?tag=redken08-20) a 26.48 EUR (original: 42.41 EUR) en el siguiente enlace!

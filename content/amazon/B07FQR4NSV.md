@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FQR4NSV
 description:
+actualPrice: 71.4 EUR
+comparePrice: 109 EUR
+inStock: true
 ---
 
 Tienes [Camper 1913  Botas clasicas para Hombre  Negro  Black 001   42 EU](https://www.amazon.com/dp/B07FQR4NSV/?tag=redken08-20) a precio de oferta de 71.4 EUR (original: 109 EUR) en el siguiente enlace!

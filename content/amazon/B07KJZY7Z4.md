@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KJZY7Z4
 description:
+actualPrice: 19.32 EUR
+comparePrice: 92 EUR
+inStock: true
 ---
 
 Tienes [Pepe Jeans Spike Vaqueros Straight  Gris  Wiser Wash Grey Used Denim Wy0   W31/L34 para Hombre](https://www.amazon.com/dp/B07KJZY7Z4/?tag=redken08-20) a precio de oferta de 19.32 EUR (original: 92 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B001NYSS6U
 description:
+actualPrice: 7.25 EUR
+comparePrice: 11.79 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pranarom - Aceite arbol del té  10 ml](https://www.amazon.com/dp/B001NYSS6U/?tag=redken08-20) a 7.25 EUR (original: 11.79 EUR) en el siguiente enlace!

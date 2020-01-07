@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RYSFKHJ
 description:
+actualPrice: 4.98 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Tienes [JACK & JONES NOS Jjechest Logo tee SS Crew Neck Noos Camiseta  Blanco  Cloud Dancer Cloud Dancer   Small para Hombre](https://www.amazon.com/dp/B07RYSFKHJ/?tag=redken08-20) a precio de oferta de 4.98 EUR (original: 14.99 EUR) en el siguiente enlace!

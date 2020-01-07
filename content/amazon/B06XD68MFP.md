@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XD68MFP
 description:
+actualPrice: 9.55 EUR
+comparePrice: 17.91 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Jimmy Choo Eau de Courreges Gel de Ducha - 500 ml](https://www.amazon.com/dp/B06XD68MFP/?tag=redken08-20) a 9.55 EUR (original: 17.91 EUR) en el siguiente enlace!

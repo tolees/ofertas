@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00N1EJXUU
 description:
+actualPrice: 8.25 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [Funko Pop!- Bailando Figura de Vinilo Dancing Groot  colección Guardians of The Galaxy  Multicolor  5104 ](https://www.amazon.com/dp/B00N1EJXUU/?tag=redken08-20) por 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!

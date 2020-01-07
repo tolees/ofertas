@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HFZXN9C
 description:
+actualPrice: 29.15 EUR
+comparePrice: 100 EUR
+inStock: true
 ---
 
 Tienes [New Balance 247v2  Zapatillas para Mujer  Rosa  Pink Pink   37.5 EU](https://www.amazon.com/dp/B07HFZXN9C/?tag=redken08-20) a precio de oferta de 29.15 EUR (original: 100 EUR) en el siguiente enlace!

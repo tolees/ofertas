@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L9VQ9HM
 description:
+actualPrice: 51.57 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [Lacoste Carnaby EVO Strap 319 1 SMA  Zapatillas para Hombre  Blanco  Wht/Dk Grn 1r5   40 EU](https://www.amazon.com/dp/B07L9VQ9HM/?tag=redken08-20) a precio de oferta de 51.57 EUR (original: 99 EUR) en el siguiente enlace!

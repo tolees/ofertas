@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N1J5KBF
 description:
+actualPrice: 48 EUR
+comparePrice: 110 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Un Rio Lace  Zapatillas para Mujer  Gris Dark Grey  41 EU](https://www.amazon.com/dp/B07N1J5KBF/?tag=redken08-20) a 48 EUR (original: 110 EUR) en el siguiente enlace!

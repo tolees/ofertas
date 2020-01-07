@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KF4QXCX
 description:
+actualPrice: 57.49 EUR
+comparePrice: 110 EUR
+inStock: true
 ---
 
 Está [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Norse Warp Cool 0980   W36/L30](https://www.amazon.com/dp/B07KF4QXCX/?tag=redken08-20) por 57.49 EUR (original: 110 EUR) en el siguiente enlace!

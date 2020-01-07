@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQPYK5T
 description:
+actualPrice: 53.27 EUR
+comparePrice: 109.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Salomon ALPHACROSS GTX W  Zapatillas de Trail Running para Mujer  Rojo  Garnet Rose/White/Gum1a   38 EU](https://www.amazon.com/dp/B07KQPYK5T/?tag=redken08-20) a 53.27 EUR (original: 109.95 EUR) en el siguiente enlace!

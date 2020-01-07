@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B015DJT2VK
 description:
+actualPrice: 749 EUR
+comparePrice: 2056 EUR
+inStock: true
 ---
 
 Tienes [Siemens iQ700 EX875LYC1E Induktions-Kochstelle  Dual LightSlider-Bedienung  Glaskeramik   schwarz](https://www.amazon.com/dp/B015DJT2VK/?tag=redken08-20) a precio de oferta de 749 EUR (original: 2056 EUR) en el siguiente enlace!

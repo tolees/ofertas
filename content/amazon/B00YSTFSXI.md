@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00YSTFSXI
 description:
+actualPrice: 7.39 EUR
+comparePrice: 11.19 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Adidas AA2299  Calcetines Unisex  Negro  Negro/Gris/Blanco   23 - 26 EU  Paquete de 3](https://www.amazon.com/dp/B00YSTFSXI/?tag=redken08-20) a 7.39 EUR (original: 11.19 EUR) en el siguiente enlace!

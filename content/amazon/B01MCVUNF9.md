@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MCVUNF9
 description:
+actualPrice: 8.51 EUR
+comparePrice: 12.9 EUR
+inStock: true
 ---
 
 Tienes [Neutrogena Limpiador Hydro Boost  - 200 ml.](https://www.amazon.com/dp/B01MCVUNF9/?tag=redken08-20) a precio de oferta de 8.51 EUR (original: 12.9 EUR) en el siguiente enlace!

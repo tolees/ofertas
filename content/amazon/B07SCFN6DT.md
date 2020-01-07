@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SCFN6DT
 description:
+actualPrice: 36.13 EUR
+comparePrice: 54.99 EUR
+inStock: true
 ---
 
 Tienes [adidas Real Madrid Mini Home Kids Equipamiento de Fútbol  Unisex Niños  Blanco  White   2-3Y](https://www.amazon.com/dp/B07SCFN6DT/?tag=redken08-20) a precio de oferta de 36.13 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QMTM9HP
 description:
+actualPrice: 49.99 EUR
+comparePrice: 85 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Asics Gel-Sonoma 4  Zapatillas de Running para Mujer  Negro  Black/Sun Coral 003   37.5 EU](https://www.amazon.com/dp/B07QMTM9HP/?tag=redken08-20) a 49.99 EUR (original: 85 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M8PYDCO
 description:
+actualPrice: 24.99 EUR
+comparePrice: 39.95 EUR
+inStock: true
 ---
 
 Está [G-STAR RAW Carley Belt Wmn Cinturón  Marrón  Dk Cognac/black Metal 8129   90 para Mujer](https://www.amazon.com/dp/B01M8PYDCO/?tag=redken08-20) por 24.99 EUR (original: 39.95 EUR) en el siguiente enlace!

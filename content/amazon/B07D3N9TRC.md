@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D3N9TRC
 description:
+actualPrice: 41.99 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Está [Turtle Beach Stealth 300 Auriculares Gaming con amplificados para Xbox One](https://www.amazon.com/dp/B07D3N9TRC/?tag=redken08-20) por 41.99 EUR (original: 79.99 EUR) en el siguiente enlace!

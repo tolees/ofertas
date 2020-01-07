@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00BQPFK8A
 description:
+actualPrice: 2.97 EUR
+comparePrice: 4.5 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Rimmel London Lasting Finish by Kate Barra De Labios Tono 5 - 4 gr](https://www.amazon.com/dp/B00BQPFK8A/?tag=redken08-20) a 2.97 EUR (original: 4.5 EUR) en el siguiente enlace!

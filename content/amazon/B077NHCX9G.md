@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077NHCX9G
 description:
+actualPrice: 40.56 EUR
+comparePrice: 74.95 EUR
+inStock: true
 ---
 
 Está [DKNY Intimates Sheers Cupped Strapless Body  Negro  Black BP   única  Talla del Fabricante: 36C  para Mujer](https://www.amazon.com/dp/B077NHCX9G/?tag=redken08-20) por 40.56 EUR (original: 74.95 EUR) en el siguiente enlace!

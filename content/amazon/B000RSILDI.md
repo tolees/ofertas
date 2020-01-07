@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000RSILDI
 description:
+actualPrice: 14.73 EUR
+comparePrice: 26.5 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Philips Avent SCD150/60 - Bolsa térmica de neopreno  diseñada para llevar biberones  vasos VIA y vasos Magic  color negro](https://www.amazon.com/dp/B000RSILDI/?tag=redken08-20) a 14.73 EUR (original: 26.5 EUR) en el siguiente enlace!

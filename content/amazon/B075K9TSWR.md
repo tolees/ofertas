@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075K9TSWR
 description:
+actualPrice: 45 EUR
+comparePrice: 87.49 EUR
+inStock: true
 ---
 
 Está [New Balance 574 Core Zapatillas Hombre  Negro  Blackout ETE   40.5 EU  7 UK ](https://www.amazon.com/dp/B075K9TSWR/?tag=redken08-20) por 45 EUR (original: 87.49 EUR) en el siguiente enlace!

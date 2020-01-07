@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RZ8H5NB
 description:
+actualPrice: 37.5 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Levi s Graphic Sport Hoodie Capucha  Blanco  Photo Film BRW White+ 0143   Small para Mujer](https://www.amazon.com/dp/B07RZ8H5NB/?tag=redken08-20) a 37.5 EUR (original: 75 EUR) en el siguiente enlace!

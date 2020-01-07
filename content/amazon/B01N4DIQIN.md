@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N4DIQIN
 description:
+actualPrice: 10 EUR
+comparePrice: 19.95 EUR
+inStock: true
 ---
 
 Está [Hummel Larsen Slipper  Mocasines Unisex Adulto  Negro  Black   43 EU](https://www.amazon.com/dp/B01N4DIQIN/?tag=redken08-20) por 10 EUR (original: 19.95 EUR) en el siguiente enlace!

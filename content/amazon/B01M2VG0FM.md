@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M2VG0FM
 description:
+actualPrice: 24.46 EUR
+comparePrice: 85 EUR
+inStock: true
 ---
 
 Tienes [DC Heathrow M Zapatillas  Hombre  Negro  Black   40 EU  6.5 UK ](https://www.amazon.com/dp/B01M2VG0FM/?tag=redken08-20) a precio de oferta de 24.46 EUR (original: 85 EUR) en el siguiente enlace!

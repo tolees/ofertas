@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XZ52NBB
 description:
+actualPrice: 14.39 EUR
+comparePrice: 39.89 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funda para Nintendo Switch  slopehill Estuche para Nintendo Switch EVA Bolsa de Juego Cubierta Protectora para Nintendo Switch 10 Ranuras de Tarjetas de Juego Soporte para Consola y Sus Accesorios](https://www.amazon.com/dp/B07XZ52NBB/?tag=redken08-20) a 14.39 EUR (original: 39.89 EUR) en el siguiente enlace!

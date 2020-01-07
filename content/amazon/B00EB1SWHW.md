@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00EB1SWHW
 description:
+actualPrice: 57 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Krups Dolce Gusto Mini Me KP1208 - Cafetera de cápsulas  15 bares de presión  color negro y gris](https://www.amazon.com/dp/B00EB1SWHW/?tag=redken08-20) a 57 EUR (original: 99 EUR) en el siguiente enlace!

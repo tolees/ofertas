@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00GUXJLSI
 description:
+actualPrice: 54 EUR
+comparePrice: 90.83 EUR
+inStock: true
 ---
 
 Está [Columbia Peakfreak Nomad Chukka WP Omni-Heat  Botas de Senderismo para Hombre  Marrón  Cordovan  Garne 231   44.5 EU](https://www.amazon.com/dp/B00GUXJLSI/?tag=redken08-20) por 54 EUR (original: 90.83 EUR) en el siguiente enlace!

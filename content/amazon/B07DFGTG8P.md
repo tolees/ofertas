@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DFGTG8P
 description:
+actualPrice: 8.75 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funko Pop The Simpsons Figura Lisa Simpson  Color Mulitcolor  33877 ](https://www.amazon.com/dp/B07DFGTG8P/?tag=redken08-20) a 8.75 EUR (original: 15.95 EUR) en el siguiente enlace!

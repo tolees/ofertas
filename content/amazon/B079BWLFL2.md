@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079BWLFL2
 description:
+actualPrice: 5.99 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [JACK & JONES Jjecorp Logo tee SS Crew Neck Noos Camiseta  Azul  Navy Blazer Detail: Slim Fit   Medium para Hombre](https://www.amazon.com/dp/B079BWLFL2/?tag=redken08-20) a 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!

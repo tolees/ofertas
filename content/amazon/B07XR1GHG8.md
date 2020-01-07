@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XR1GHG8
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [Geographical Norway Parka Mujer Baby Ass A Fucsia 2](https://www.amazon.com/dp/B07XR1GHG8/?tag=redken08-20) a precio de oferta de 65 EUR (original: 99 EUR) en el siguiente enlace!

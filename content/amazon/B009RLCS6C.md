@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B009RLCS6C
 description:
+actualPrice: 66.9 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [Braun Satin Hair 7 ST780 - Plancha de pelo profesional con tecnología SensoCare  placa de cerámica y definidor de rizos  color negro](https://www.amazon.com/dp/B009RLCS6C/?tag=redken08-20) por 66.9 EUR (original: 99.99 EUR) en el siguiente enlace!

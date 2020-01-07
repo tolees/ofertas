@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01NCNN2TN
 description:
+actualPrice: 13.5 EUR
+comparePrice: 45 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. 16563 vestido fiesta mujer  Rosa  Old Rose/gold   44  Talla del Fabricante: X-Large ](https://www.amazon.com/dp/B01NCNN2TN/?tag=redken08-20) a 13.5 EUR (original: 45 EUR) en el siguiente enlace!

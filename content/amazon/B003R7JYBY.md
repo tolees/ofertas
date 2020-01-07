@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B003R7JYBY
 description:
+actualPrice: 118 EUR
+comparePrice: 189 EUR
+inStock: true
 ---
 
 Tienes [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable FS4552](https://www.amazon.com/dp/B003R7JYBY/?tag=redken08-20) a precio de oferta de 118 EUR (original: 189 EUR) en el siguiente enlace!

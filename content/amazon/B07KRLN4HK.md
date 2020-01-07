@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KRLN4HK
 description:
+actualPrice: 45 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Está [New Balance 574v2  Zapatillas para Mujer  Rosa  Pink/Black Pink/Black   41 EU](https://www.amazon.com/dp/B07KRLN4HK/?tag=redken08-20) por 45 EUR (original: 90 EUR) en el siguiente enlace!

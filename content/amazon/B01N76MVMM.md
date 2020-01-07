@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N76MVMM
 description:
+actualPrice: 13.99 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Tienes [PUMA Popcat  Zapatos de Playa y Piscina Unisex Adulto  White Black  35.5 EU](https://www.amazon.com/dp/B01N76MVMM/?tag=redken08-20) a precio de oferta de 13.99 EUR (original: 24.99 EUR) en el siguiente enlace!

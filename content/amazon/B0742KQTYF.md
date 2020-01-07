@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0742KQTYF
 description:
+actualPrice: 18.18 EUR
+comparePrice: 34.95 EUR
+inStock: true
 ---
 
 Tienes [Build a Bot- Mascota-Robot Dinosaurio  Multicolor  Famosa 700013960 ](https://www.amazon.com/dp/B0742KQTYF/?tag=redken08-20) a precio de oferta de 18.18 EUR (original: 34.95 EUR) en el siguiente enlace!

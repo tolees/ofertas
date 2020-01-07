@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N6DCH1K
 description:
+actualPrice: 9.74 EUR
+comparePrice: 31 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [USB C a HDMI Adaptador  CHOETECH Adaptador USB Tipo C a HDMI Thunderbolt 3 4k@60Hz para iPad Pro/Macbook Air 2018  2018 MacBook Pro Samsung S10/S9/Note 8/S9+  Huawei P30/ P20/Mate 20/Mate 20 Pro y Más](https://www.amazon.com/dp/B01N6DCH1K/?tag=redken08-20) a 9.74 EUR (original: 31 EUR) en el siguiente enlace!

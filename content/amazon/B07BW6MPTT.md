@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BW6MPTT
 description:
+actualPrice: 29.95 EUR
+comparePrice: 49.95 EUR
+inStock: true
 ---
 
 Está [seQoya - Yosemite Traveller | Reloj de Madera con Esfera de Madera y Correa de Piel ecológica simulando Madera Estampada | Reloj Hombre y Mujer | Diseño único y Original](https://www.amazon.com/dp/B07BW6MPTT/?tag=redken08-20) por 29.95 EUR (original: 49.95 EUR) en el siguiente enlace!

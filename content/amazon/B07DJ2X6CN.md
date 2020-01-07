@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DJ2X6CN
 description:
+actualPrice: 48.93 EUR
+comparePrice: 99.9 EUR
+inStock: true
 ---
 
 Tienes [Geox U Kennet B  Zapatillas para Hombre  Gris  Stone C9007   43 EU](https://www.amazon.com/dp/B07DJ2X6CN/?tag=redken08-20) a precio de oferta de 48.93 EUR (original: 99.9 EUR) en el siguiente enlace!

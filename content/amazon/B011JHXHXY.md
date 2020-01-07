@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B011JHXHXY
 description:
+actualPrice: 2.72 GBP
+comparePrice: 6 GBP
+inStock: true
 ---
 
 Tienes [Disney Frozen Elsa & Anna Girls Swim ring - blue -](https://www.amazon.com/dp/B011JHXHXY/?tag=redken08-20) a precio de oferta de 2.72 GBP (original: 6 GBP) en el siguiente enlace!

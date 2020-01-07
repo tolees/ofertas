@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071HTMRNX
 description:
+actualPrice: 86 EUR
+comparePrice: 199 EUR
+inStock: true
 ---
 
 Tienes [Niello Lente Óptica Dual Serie 300W. Luces LED para el crecimiento de las plantas. Espectro completo para plantas de interior para conseguir crecimiento y floración  dos interruptores 12-bandas）](https://www.amazon.com/dp/B071HTMRNX/?tag=redken08-20) a precio de oferta de 86 EUR (original: 199 EUR) en el siguiente enlace!

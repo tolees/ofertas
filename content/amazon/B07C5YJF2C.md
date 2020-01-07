@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07C5YJF2C
 description:
+actualPrice: 47.99 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [JACK & JONES Jjitim Jjoriginal JJ 119 Lid Noos Vaqueros Relaxed  Azul  Blue Denim   W32/L36  Talla del Fabricante: 32  para Hombre](https://www.amazon.com/dp/B07C5YJF2C/?tag=redken08-20) a 47.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00OTG9RGE
 description:
+actualPrice: 89.99 EUR
+comparePrice: 204 EUR
+inStock: true
 ---
 
 Está [Audio-Technica ATH-PDG1 - Auriculares Abiertos de Alta fidelidad para Videojuegos con micrófono  Color Negro  Rojo y Plata](https://www.amazon.com/dp/B00OTG9RGE/?tag=redken08-20) por 89.99 EUR (original: 204 EUR) en el siguiente enlace!

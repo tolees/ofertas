@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XQ5SFGM
 description:
+actualPrice: 8.4 EUR
+comparePrice: 28 EUR
+inStock: true
 ---
 
 Tienes [find. FB00895 camisetas  Marfil  White Mix   40  Talla del Fabricante: Medium ](https://www.amazon.com/dp/B06XQ5SFGM/?tag=redken08-20) a precio de oferta de 8.4 EUR (original: 28 EUR) en el siguiente enlace!

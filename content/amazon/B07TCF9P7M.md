@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TCF9P7M
 description:
+actualPrice: 24.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [SGILE Grande RC Drone  22 Minutos de Largo Tiempo de Vuelo  con Rotación de 360 Grados/Modo sinCabeza/Mantenimiento de Altitud  Regalo para Niños y Adultos  Negro ](https://www.amazon.com/dp/B07TCF9P7M/?tag=redken08-20) a 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QHSZN91
 description:
+actualPrice: 31.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Taladro Percutor  GALAX PRO 600W Mejorado Taladro Percutor  Taladro Eléctrico 3000RPM  Tope de Profundidad  Martillo Taladro 2 Funciones en 1  Portabroca de 13mm  Empuñadura Giratoria 360°](https://www.amazon.com/dp/B07QHSZN91/?tag=redken08-20) a 31.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CTN6NYF
 description:
+actualPrice: 41.98 EUR
+comparePrice: 80 EUR
+inStock: true
 ---
 
 Tienes [Under Armour Charged Rogue  Zapatillas de Running para Hombre  Gris  Jet Gray/White/Metallic Silver  100  100   40.5 EU](https://www.amazon.com/dp/B07CTN6NYF/?tag=redken08-20) a precio de oferta de 41.98 EUR (original: 80 EUR) en el siguiente enlace!

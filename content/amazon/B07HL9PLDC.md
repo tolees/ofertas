@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HL9PLDC
 description:
+actualPrice: 18.88 EUR
+comparePrice: 54.89 EUR
+inStock: true
 ---
 
 Está [READ Reloj para Hombre  Reloj de Cuarzo  Marca de fábrica Superior  Relojes de Pulsera ultrafinos  Gold-Black ](https://www.amazon.com/dp/B07HL9PLDC/?tag=redken08-20) por 18.88 EUR (original: 54.89 EUR) en el siguiente enlace!

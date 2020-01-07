@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000EHPZMW
 description:
+actualPrice: 22.49 EUR
+comparePrice: 34.95 EUR
+inStock: true
 ---
 
 Está [fischertechnik - 41859 ADVANCED Seilbahnen  Konstruktionsbaukasten](https://www.amazon.com/dp/B000EHPZMW/?tag=redken08-20) por 22.49 EUR (original: 34.95 EUR) en el siguiente enlace!

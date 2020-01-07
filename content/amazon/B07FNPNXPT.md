@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FNPNXPT
 description:
+actualPrice: 42.5 EUR
+comparePrice: 66.94 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Wool Harrington Chaqueta  Negro  Blk/White Dog Tooth   46  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B07FNPNXPT/?tag=redken08-20) a 42.5 EUR (original: 66.94 EUR) en el siguiente enlace!

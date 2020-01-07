@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081GJJJVM
 description:
+actualPrice: 24.99 EUR
+comparePrice: 48.99 EUR
+inStock: true
 ---
 
 Está [Morpilot Multímetro Digital  Verdadero RMS 6000 Cuenta Multímetro Avanzado  Mide Voltaje AC/DC  corriente AC/DC  Resistencia  Continuidad  Capacitancia  Frecuencia  Diodos  Temperatura  Azul 2 ](https://www.amazon.com/dp/B081GJJJVM/?tag=redken08-20) por 24.99 EUR (original: 48.99 EUR) en el siguiente enlace!

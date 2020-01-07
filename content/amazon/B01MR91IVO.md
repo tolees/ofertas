@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MR91IVO
 description:
+actualPrice: 16.25 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Está [Monopoly- Junior  versión Española  Hasbro A6984546 ](https://www.amazon.com/dp/B01MR91IVO/?tag=redken08-20) por 16.25 EUR (original: 25 EUR) en el siguiente enlace!

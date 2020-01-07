@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J3QVWC8
 description:
+actualPrice: 12 EUR
+comparePrice: 26.87 EUR
+inStock: true
 ---
 
 Está [Dim Soutien-Gorge Sans Armature Invisififree Sujetador sin Aros  Negro  Noir 0Hz   90B para Mujer](https://www.amazon.com/dp/B07J3QVWC8/?tag=redken08-20) por 12 EUR (original: 26.87 EUR) en el siguiente enlace!

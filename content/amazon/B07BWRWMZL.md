@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BWRWMZL
 description:
+actualPrice: 13.69 EUR
+comparePrice: 44.79 EUR
+inStock: true
 ---
 
 Tienes [Glamorise MagicLift Full Figure Support Bra Sujetador de Cobertura Completa  Azul  Blue 400   140E para Mujer](https://www.amazon.com/dp/B07BWRWMZL/?tag=redken08-20) a precio de oferta de 13.69 EUR (original: 44.79 EUR) en el siguiente enlace!

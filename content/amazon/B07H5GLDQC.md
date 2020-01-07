@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07H5GLDQC
 description:
+actualPrice: 26.99 EUR
+comparePrice: 54.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Yamay Auriculares Inalámbricos para Deporte  Auriculares con Micrófono Incorporado y Cancelación de Ruido  Auriculares Estéreo HD  Manos Libres para Smartphone](https://www.amazon.com/dp/B07H5GLDQC/?tag=redken08-20) a 26.99 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NC7MN3H
 description:
+actualPrice: 65.99 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [Pepe Jeans Stanley Vaqueros Straight  Azul  Medium Destroy Wiser Wash Denim Wy2   38W / 32L para Hombre](https://www.amazon.com/dp/B07NC7MN3H/?tag=redken08-20) a precio de oferta de 65.99 EUR (original: 99 EUR) en el siguiente enlace!

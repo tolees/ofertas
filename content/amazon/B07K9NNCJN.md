@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K9NNCJN
 description:
+actualPrice: 49.99 EUR
+comparePrice: 91.28 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Reloj - Guanqin - para - GJ16132](https://www.amazon.com/dp/B07K9NNCJN/?tag=redken08-20) a 49.99 EUR (original: 91.28 EUR) en el siguiente enlace!

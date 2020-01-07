@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NJJ6GWZ
 description:
+actualPrice: 18.71 EUR
+comparePrice: 28.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lower East LE105 T-Shirt  Forged Iron  L  5er-Pack](https://www.amazon.com/dp/B07NJJ6GWZ/?tag=redken08-20) a 18.71 EUR (original: 28.95 EUR) en el siguiente enlace!

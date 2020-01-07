@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JF4YFJY
 description:
+actualPrice: 40 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Está [Satisfyer Estimulador de Clítoris Pro 2 Vibration - 1 Unidad](https://www.amazon.com/dp/B07JF4YFJY/?tag=redken08-20) por 40 EUR (original: 59.95 EUR) en el siguiente enlace!

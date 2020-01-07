@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MLHHDKR
 description:
+actualPrice: 36.36 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sony SRS-XB12  Altavoz Inalámbrico Portátil  Bluetooth  Extra Bass  Diseño Portátil  Batería hasta 16h  Resistente al Agua y Polvo IP67   Inalámbrico y Alámbrico MicroUSB  Rojo](https://www.amazon.com/dp/B07MLHHDKR/?tag=redken08-20) a 36.36 EUR (original: 60 EUR) en el siguiente enlace!

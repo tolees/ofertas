@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B015PKR1ME
 description:
+actualPrice: 19.9 EUR
+comparePrice: 32.9 EUR
+inStock: true
 ---
 
 Está [Philips CAFETERAS  1 Liter  Plástico  Negro](https://www.amazon.com/dp/B015PKR1ME/?tag=redken08-20) por 19.9 EUR (original: 32.9 EUR) en el siguiente enlace!

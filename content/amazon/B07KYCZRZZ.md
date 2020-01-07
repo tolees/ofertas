@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KYCZRZZ
 description:
+actualPrice: 10.3 EUR
+comparePrice: 17.08 EUR
+inStock: true
 ---
 
 Está [adidas Classic Trn J Goalkeeper Gloves  Unisex niños  Solar Yellow/Active Red/Football Blue  7](https://www.amazon.com/dp/B07KYCZRZZ/?tag=redken08-20) por 10.3 EUR (original: 17.08 EUR) en el siguiente enlace!

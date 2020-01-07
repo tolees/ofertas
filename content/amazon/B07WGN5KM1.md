@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WGN5KM1
 description:
+actualPrice: 20.95 EUR
+comparePrice: 34.99 EUR
+inStock: true
 ---
 
 Está [JACK & JONES JORCAINE Sweat Crew Neck Sudadera  Multicolor  Navy Blazer Fit:REG   XL para Hombre](https://www.amazon.com/dp/B07WGN5KM1/?tag=redken08-20) por 20.95 EUR (original: 34.99 EUR) en el siguiente enlace!

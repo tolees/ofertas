@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071HQRW7K
 description:
+actualPrice: 13.9 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Está [Everybody s Golf - Edición Estándar](https://www.amazon.com/dp/B071HQRW7K/?tag=redken08-20) por 13.9 EUR (original: 39.99 EUR) en el siguiente enlace!

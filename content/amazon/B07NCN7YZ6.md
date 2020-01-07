@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NCN7YZ6
 description:
+actualPrice: 57.51 EUR
+comparePrice: 86 EUR
+inStock: true
 ---
 
 Tienes [Naturalia Somier Fortuna  Tubo de Acero y Láminas de Chopo  150 x 190 cm](https://www.amazon.com/dp/B07NCN7YZ6/?tag=redken08-20) a precio de oferta de 57.51 EUR (original: 86 EUR) en el siguiente enlace!

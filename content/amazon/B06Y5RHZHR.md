@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06Y5RHZHR
 description:
+actualPrice: 18.25 EUR
+comparePrice: 27.6 EUR
+inStock: true
 ---
 
 Está [Pikolin Home - Protector de colchón/Cubre colchón acolchado  impermeable  antiácaros  90x 190/200cm-Cama 90  Todas las medidas ](https://www.amazon.com/dp/B06Y5RHZHR/?tag=redken08-20) por 18.25 EUR (original: 27.6 EUR) en el siguiente enlace!

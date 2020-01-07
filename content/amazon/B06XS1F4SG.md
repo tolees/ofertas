@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XS1F4SG
 description:
+actualPrice: 34.25 EUR
+comparePrice: 52.39 EUR
+inStock: true
 ---
 
 Está [Smoby 320212 - Disney Princess Frisiersalon](https://www.amazon.com/dp/B06XS1F4SG/?tag=redken08-20) por 34.25 EUR (original: 52.39 EUR) en el siguiente enlace!

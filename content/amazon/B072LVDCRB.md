@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072LVDCRB
 description:
+actualPrice: 0.37 EUR
+comparePrice: 4.99 EUR
+inStock: true
 ---
 
 Tienes [Falomir Mikado  Juego de Mesa  Clásicos  27925 ](https://www.amazon.com/dp/B072LVDCRB/?tag=redken08-20) a precio de oferta de 0.37 EUR (original: 4.99 EUR) en el siguiente enlace!

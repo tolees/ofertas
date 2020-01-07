@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NWXC2PR
 description:
+actualPrice: 12.49 EUR
+comparePrice: 19.5 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Joma Cairo II Sudadera  Hombre  Naranja flúor  XL](https://www.amazon.com/dp/B07NWXC2PR/?tag=redken08-20) a 12.49 EUR (original: 19.5 EUR) en el siguiente enlace!

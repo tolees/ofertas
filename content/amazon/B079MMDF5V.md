@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079MMDF5V
 description:
+actualPrice: 9.49 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Está [PLAYMOBIL Magic 9473 Schneetroll mit Schlitten und Lichteffekt  Ab 4 Jahren](https://www.amazon.com/dp/B079MMDF5V/?tag=redken08-20) por 9.49 EUR (original: 19.99 EUR) en el siguiente enlace!

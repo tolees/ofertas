@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M6QMV5Y
 description:
+actualPrice: 24.83 EUR
+comparePrice: 123.06 EUR
+inStock: true
 ---
 
 Está [TESA tesafilm 57383 estándar cinta adhesiva  10 m X 15 mm  Transparente  envases de 600 unidades](https://www.amazon.com/dp/B07M6QMV5Y/?tag=redken08-20) por 24.83 EUR (original: 123.06 EUR) en el siguiente enlace!

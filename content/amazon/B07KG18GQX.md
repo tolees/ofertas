@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG18GQX
 description:
+actualPrice: 11.99 EUR
+comparePrice: 19.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Puma Popcat  Zapatos de Playa y Piscina Unisex Adulto  Rosa  Bridal Rose-Pastel Parchment 48   35.5 EU](https://www.amazon.com/dp/B07KG18GQX/?tag=redken08-20) a 11.99 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFRMY4S
 description:
+actualPrice: 38.01 EUR
+comparePrice: 115 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geox U Kristof A  Zapatillas para Hombre  Negro  Black C9999   43 EU](https://www.amazon.com/dp/B07LFRMY4S/?tag=redken08-20) a 38.01 EUR (original: 115 EUR) en el siguiente enlace!

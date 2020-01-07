@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B006MAFUE8
 description:
+actualPrice: 19.99 EUR
+comparePrice: 43.25 EUR
+inStock: true
 ---
 
 Está [FEBER - Moto Jumper  Moto correpasillos de Color Negro  Azul y Amarillo](https://www.amazon.com/dp/B006MAFUE8/?tag=redken08-20) por 19.99 EUR (original: 43.25 EUR) en el siguiente enlace!

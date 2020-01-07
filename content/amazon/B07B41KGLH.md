@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B41KGLH
 description:
+actualPrice: 19.9 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [PLAYMOBIL Christmas 9494 Lichterbogen "Weihnachtsgkrippe" mit ausklappbaren Standfüßen  Ab 4 Jahren](https://www.amazon.com/dp/B07B41KGLH/?tag=redken08-20) a precio de oferta de 19.9 EUR (original: 29.99 EUR) en el siguiente enlace!

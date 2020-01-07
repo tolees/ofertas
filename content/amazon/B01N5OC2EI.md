@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N5OC2EI
 description:
+actualPrice: 146.1 EUR
+comparePrice: 264.82 EUR
+inStock: true
 ---
 
 Está [Prada 0PR58OS ZVN5S0 55 Gafas de sol  Dorado  Pale Gold/Grey   Unisex-Adulto](https://www.amazon.com/dp/B01N5OC2EI/?tag=redken08-20) por 146.1 EUR (original: 264.82 EUR) en el siguiente enlace!

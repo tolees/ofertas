@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D54LFFR
 description:
+actualPrice: 6.99 EUR
+comparePrice: 12.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Harry Potter Fantastic Beasts 2 Pop! Vinyl Figur 19 Pickett aus Kunststoff  von Funko  in Geschenkbox.](https://www.amazon.com/dp/B07D54LFFR/?tag=redken08-20) a 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MYZCHXM
 description:
+actualPrice: 25.92 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Tienes [Skechers Flex Appeal 3.0-First Insight  Zapatillas para Mujer - Gris  Burgundy Mesh/Pink Trim Sltp  - 37 EU](https://www.amazon.com/dp/B07MYZCHXM/?tag=redken08-20) a precio de oferta de 25.92 EUR (original: 59.95 EUR) en el siguiente enlace!

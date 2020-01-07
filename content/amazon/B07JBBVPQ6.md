@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JBBVPQ6
 description:
+actualPrice: 8.99 GBP
+comparePrice: 15.99 GBP
+inStock: true
 ---
 
 Está [LEGO 40253 Build Up Playset  24-in-1 Model  Fun Christmas Construction Toy for Kids](https://www.amazon.com/dp/B07JBBVPQ6/?tag=redken08-20) por 8.99 GBP (original: 15.99 GBP) en el siguiente enlace!

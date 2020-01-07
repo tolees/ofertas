@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG6MQ3Q
 description:
+actualPrice: 29.95 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Está [PUMA Hybrid Fuego  Zapatillas de Running para Hombre  Black White  45 EU](https://www.amazon.com/dp/B07KG6MQ3Q/?tag=redken08-20) por 29.95 EUR (original: 79.95 EUR) en el siguiente enlace!

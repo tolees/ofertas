@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CJXHK79
 description:
+actualPrice: 9.88 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [MARNUR Báscula Digital Báscula de Grasa Corporal con Sensor de Alta Precisión BIA Técnica de Medición Para Análisis el Cuerpo Lichen Composición](https://www.amazon.com/dp/B07CJXHK79/?tag=redken08-20) a precio de oferta de 9.88 EUR (original: 29.99 EUR) en el siguiente enlace!

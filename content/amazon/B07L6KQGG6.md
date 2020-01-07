@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L6KQGG6
 description:
+actualPrice: 63.99 EUR
+comparePrice: 130 EUR
+inStock: true
 ---
 
 Está [Under Armour Armour Insulated Hooded Chaqueta  Mujer  Negro  MD](https://www.amazon.com/dp/B07L6KQGG6/?tag=redken08-20) por 63.99 EUR (original: 130 EUR) en el siguiente enlace!

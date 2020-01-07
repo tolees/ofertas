@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MT7AJLW
 description:
+actualPrice: 93.88 EUR
+comparePrice: 200 EUR
+inStock: true
 ---
 
 Está [Sony XB950B1 Extra Bass  Auriculares Inalámbricos con Bluetooth  Alámbrico/Inalámbrico  Talla Única  Negro](https://www.amazon.com/dp/B01MT7AJLW/?tag=redken08-20) por 93.88 EUR (original: 200 EUR) en el siguiente enlace!

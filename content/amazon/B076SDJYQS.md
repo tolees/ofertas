@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076SDJYQS
 description:
+actualPrice: 14.06 EUR
+comparePrice: 29.45 EUR
+inStock: true
 ---
 
 Está [D.Vinity Kit de Belleza Ultra Soft - 3 Piezas](https://www.amazon.com/dp/B076SDJYQS/?tag=redken08-20) por 14.06 EUR (original: 29.45 EUR) en el siguiente enlace!

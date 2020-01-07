@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01FLS3N9U
 description:
+actualPrice: 6.99 GBP
+comparePrice: 12.99 GBP
+inStock: true
 ---
 
 Está [Funko 39827 POP! Vinyl: Football - Neymar da Silva Santos Jr.  PSG  Collectible Figure  Multicolour](https://www.amazon.com/dp/B01FLS3N9U/?tag=redken08-20) por 6.99 GBP (original: 12.99 GBP) en el siguiente enlace!

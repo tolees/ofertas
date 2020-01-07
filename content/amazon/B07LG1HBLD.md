@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LG1HBLD
 description:
+actualPrice: 72.5 EUR
+comparePrice: 145 EUR
+inStock: true
 ---
 
 Está [Geox U Terence C  Botas Clasicas para Hombre  Marrón  Cognac C6001   42 EU](https://www.amazon.com/dp/B07LG1HBLD/?tag=redken08-20) por 72.5 EUR (original: 145 EUR) en el siguiente enlace!

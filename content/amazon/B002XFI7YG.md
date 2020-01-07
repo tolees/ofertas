@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B002XFI7YG
 description:
+actualPrice: 31.49 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Dickies Slim Fit Straight - Pantalones para hombre  Negro  Black   W29/L30](https://www.amazon.com/dp/B002XFI7YG/?tag=redken08-20) a 31.49 EUR (original: 55 EUR) en el siguiente enlace!

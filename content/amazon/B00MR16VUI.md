@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00MR16VUI
 description:
+actualPrice: 38.49 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [G-STAR Lynn Mid Skinny Wmn - frakto superstretch - Pantalones para mujer  Azul  W27/L28](https://www.amazon.com/dp/B00MR16VUI/?tag=redken08-20) a 38.49 EUR (original: 99.95 EUR) en el siguiente enlace!

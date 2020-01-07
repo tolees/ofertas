@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01GG1AXCG
 description:
+actualPrice: 10.03 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [TROLLS - Coronación de la Princesa Poppy  Hasbro B6560EU4 ](https://www.amazon.com/dp/B01GG1AXCG/?tag=redken08-20) a precio de oferta de 10.03 EUR (original: 29.99 EUR) en el siguiente enlace!

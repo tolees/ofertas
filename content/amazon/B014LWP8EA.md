@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B014LWP8EA
 description:
+actualPrice: 19.24 EUR
+comparePrice: 48.34 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bosch Professional 2607010903 Hojas de Sierra de Calar  Set de 30 Piezas](https://www.amazon.com/dp/B014LWP8EA/?tag=redken08-20) a 19.24 EUR (original: 48.34 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HY23RTM
 description:
+actualPrice: 44.95 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lee Rider Jeans Vaqueros  Black Rinse Yc47  32W / 30L para Hombre](https://www.amazon.com/dp/B01HY23RTM/?tag=redken08-20) a 44.95 EUR (original: 89.95 EUR) en el siguiente enlace!

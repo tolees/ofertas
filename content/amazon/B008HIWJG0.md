@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B008HIWJG0
 description:
+actualPrice: 1.24 EUR
+comparePrice: 1.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Fontaneda - La Buena Maria Galletas - 800 g](https://www.amazon.com/dp/B008HIWJG0/?tag=redken08-20) a 1.24 EUR (original: 1.95 EUR) en el siguiente enlace!

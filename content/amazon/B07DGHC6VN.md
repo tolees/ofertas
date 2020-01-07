@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DGHC6VN
 description:
+actualPrice: 15.49 EUR
+comparePrice: 43.87 EUR
+inStock: true
 ---
 
 Está [Regatta - Forro Polar con Capucha y Cremallera Completa para niños  Infantil  Color Oxford Blue  tamaño Talla 3-4](https://www.amazon.com/dp/B07DGHC6VN/?tag=redken08-20) por 15.49 EUR (original: 43.87 EUR) en el siguiente enlace!

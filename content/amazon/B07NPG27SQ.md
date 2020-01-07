@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NPG27SQ
 description:
+actualPrice: 24.27 EUR
+comparePrice: 48.1 EUR
+inStock: true
 ---
 
 Está [Lancaster 57950 Sun Control Relauch-Perfecting Fluid  Shaka  SPF 50  30 ml](https://www.amazon.com/dp/B07NPG27SQ/?tag=redken08-20) por 24.27 EUR (original: 48.1 EUR) en el siguiente enlace!

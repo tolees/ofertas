@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00OAFBJFQ
 description:
+actualPrice: 19.95 EUR
+comparePrice: 41.4 EUR
+inStock: true
 ---
 
 Está [STANLEY XTHT0-33501 - Flexómetro AutoLock 8 metros x 32mm  gancho XL magnético](https://www.amazon.com/dp/B00OAFBJFQ/?tag=redken08-20) por 19.95 EUR (original: 41.4 EUR) en el siguiente enlace!

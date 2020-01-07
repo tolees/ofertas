@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00IINTKDE
 description:
+actualPrice: 23.3 EUR
+comparePrice: 44.4 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector Solar - 400 ml](https://www.amazon.com/dp/B00IINTKDE/?tag=redken08-20) a 23.3 EUR (original: 44.4 EUR) en el siguiente enlace!

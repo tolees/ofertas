@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KZ6PBMS
 description:
+actualPrice: 43.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Tienes [DC Shoes Mastaford Jackets  Hombre  Black  M](https://www.amazon.com/dp/B07KZ6PBMS/?tag=redken08-20) a precio de oferta de 43.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XQBB9RX
 description:
+actualPrice: 9.95 EUR
+comparePrice: 16.95 EUR
+inStock: true
 ---
 
 Tienes [Montse Interiors  S.L. Cuadrante o Cojín Decoración Terciopelo 45x45 + Relleno  Capri Verde ](https://www.amazon.com/dp/B07XQBB9RX/?tag=redken08-20) a precio de oferta de 9.95 EUR (original: 16.95 EUR) en el siguiente enlace!

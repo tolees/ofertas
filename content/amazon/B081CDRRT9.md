@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081CDRRT9
 description:
+actualPrice: 65 EUR
+comparePrice: 99 EUR
+inStock: true
 ---
 
 Tienes [Geographical Norway Chaqueta Hombre BOKER Azul Marino L](https://www.amazon.com/dp/B081CDRRT9/?tag=redken08-20) a precio de oferta de 65 EUR (original: 99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B075FPNWM2
 description:
+actualPrice: 59.99 EUR
+comparePrice: 159 EUR
+inStock: true
 ---
 
 Está [Teeno Li - Taladro destornillador sin cables de 21 V + 2 baterías de litio + 41 accesorios + guantes profesionales](https://www.amazon.com/dp/B075FPNWM2/?tag=redken08-20) por 59.99 EUR (original: 159 EUR) en el siguiente enlace!

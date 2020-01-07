@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'B002L3TSLQ: Rebaja en Logitech® Wireless Presenter R400 - N/A  en Amazon'
+title: 'B002L3TSLQ - Ofertón en Amazon para Logitech® Wireless Presenter R400 - N/A '
 date: 2019/12/23 17:52:41 +0000
-comments: true
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31ldVUBwBFL._SL200_.jpg'
+comments: true
 category: ofertas
 author: ring
 slug: B002L3TSLQ
 description:
+actualPrice: 19.99 EUR
+comparePrice: 52.06 EUR
+inStock: true
 ---
 
-Está [Logitech® Wireless Presenter R400 - N/A - 2.4GHZ - N/A - EMEA - ARCA HENDRIX](https://www.amazon.com/dp/B002L3TSLQ/?tag=redken08-20) por 19.99 EUR (original: 52.06 EUR) en el siguiente enlace!
+Tienes [Logitech® Wireless Presenter R400 - N/A - 2.4GHZ - N/A - EMEA - ARCA HENDRIX](https://www.amazon.com/dp/B002L3TSLQ/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 52.06 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ldVUBwBFL._SL200_.jpg)](https://www.amazon.com/dp/B002L3TSLQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B002L3TSLQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B002L3TSLQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

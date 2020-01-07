@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0714FLNKL
 description:
+actualPrice: 39.99 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Tienes [Dickie Coche radiocontrol Rayo McQueen de Cars 3 con función derrape  Dickie 3086005 ](https://www.amazon.com/dp/B0714FLNKL/?tag=redken08-20) a precio de oferta de 39.99 EUR (original: 79.95 EUR) en el siguiente enlace!

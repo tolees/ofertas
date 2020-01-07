@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N4NDKLB
 description:
+actualPrice: 23.64 EUR
+comparePrice: 59 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Superga 2750-cotu Classic  Zapatillas de Gimnasia Unisex Adulto  Verde  Green Water W2U   43 EU](https://www.amazon.com/dp/B07N4NDKLB/?tag=redken08-20) a 23.64 EUR (original: 59 EUR) en el siguiente enlace!

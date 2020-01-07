@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QMPVXTF
 description:
+actualPrice: 12.99 EUR
+comparePrice: 32.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [GACHI Powerbank  15000mAh Externer Akku Powerbank  Tragbares Power Bank ladegerät mit 2 USB Ausgänge und 1 Eingang  Akkupack für Smartphone](https://www.amazon.com/dp/B07QMPVXTF/?tag=redken08-20) a 12.99 EUR (original: 32.99 EUR) en el siguiente enlace!

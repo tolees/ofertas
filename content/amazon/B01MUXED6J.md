@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MUXED6J
 description:
+actualPrice: 286.97 EUR
+comparePrice: 429 EUR
+inStock: true
 ---
 
 Está [Reloj para hombre Hugo Boss 1513478.](https://www.amazon.com/dp/B01MUXED6J/?tag=redken08-20) por 286.97 EUR (original: 429 EUR) en el siguiente enlace!

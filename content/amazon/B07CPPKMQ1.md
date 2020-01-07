@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CPPKMQ1
 description:
+actualPrice: 59.99 EUR
+comparePrice: 119 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [GPS Ciclocomputer con ANT+ iGPSPORT iGS10 Senza fili Impermeabile Computer da Bicicletta](https://www.amazon.com/dp/B07CPPKMQ1/?tag=redken08-20) a 59.99 EUR (original: 119 EUR) en el siguiente enlace!

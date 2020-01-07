@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071GQWYGK
 description:
+actualPrice: 24.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Tienes [Collar Mujer  J.Rosée Plata de Ley 925 Brillante Circonita"Crepúsculo" Cadena 45cm-50cm Regalo Original para Amor](https://www.amazon.com/dp/B071GQWYGK/?tag=redken08-20) a precio de oferta de 24.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JKDR6H3
 description:
+actualPrice: 10.11 EUR
+comparePrice: 39.95 EUR
+inStock: true
 ---
 
 Está [CMP Strick Fleece Chaqueta  Mujer  Verde  Mint/Aquamint   XL](https://www.amazon.com/dp/B07JKDR6H3/?tag=redken08-20) por 10.11 EUR (original: 39.95 EUR) en el siguiente enlace!

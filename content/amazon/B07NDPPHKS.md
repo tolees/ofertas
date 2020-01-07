@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NDPPHKS
 description:
+actualPrice: 17.95 EUR
+comparePrice: 29.95 EUR
+inStock: true
 ---
 
 Está [G-STAR RAW Graphic 22 Optic Slim Round Neck Camiseta  Naranja  Dusty Royal Orange A489   XX-Small para Mujer](https://www.amazon.com/dp/B07NDPPHKS/?tag=redken08-20) por 17.95 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KF5BJ5M
 description:
+actualPrice: 41.4 EUR
+comparePrice: 69 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Levi s unbasic  Hoodie Capucha  Blanco  White + 0006   X-Small para Mujer](https://www.amazon.com/dp/B07KF5BJ5M/?tag=redken08-20) a 41.4 EUR (original: 69 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFYXXRX
 description:
+actualPrice: 29.33 EUR
+comparePrice: 59.9 EUR
+inStock: true
 ---
 
 Está [Geox J INEK Boy C  Zapatillas Altas para Niños  Blanco  White/Royal C0556   37 EU](https://www.amazon.com/dp/B07LFYXXRX/?tag=redken08-20) por 29.33 EUR (original: 59.9 EUR) en el siguiente enlace!

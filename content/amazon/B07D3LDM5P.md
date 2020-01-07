@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D3LDM5P
 description:
+actualPrice: 34.49 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Está [Jurassic World Evolution](https://www.amazon.com/dp/B07D3LDM5P/?tag=redken08-20) por 34.49 EUR (original: 59.99 EUR) en el siguiente enlace!

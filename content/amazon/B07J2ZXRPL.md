@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07J2ZXRPL
 description:
+actualPrice: 19.49 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Favorite Tote Bolsa Deportiva  Mujer  Gris  OSFA](https://www.amazon.com/dp/B07J2ZXRPL/?tag=redken08-20) a 19.49 EUR (original: 30 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MCSPP51
 description:
+actualPrice: 36.52 EUR
+comparePrice: 129 EUR
+inStock: true
 ---
 
 Está [Napapijri K Rainforest 1 Chaqueta  Azul  French Blue BB7   3 años para Niños](https://www.amazon.com/dp/B07MCSPP51/?tag=redken08-20) por 36.52 EUR (original: 129 EUR) en el siguiente enlace!

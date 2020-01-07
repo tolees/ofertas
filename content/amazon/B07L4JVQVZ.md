@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L4JVQVZ
 description:
+actualPrice: 4.97 GBP
+comparePrice: 9.13 GBP
+inStock: true
 ---
 
 Está [Funko 36025 Pop Games: Fortnite S2 - Valor Vinyl  Multi](https://www.amazon.com/dp/B07L4JVQVZ/?tag=redken08-20) por 4.97 GBP (original: 9.13 GBP) en el siguiente enlace!

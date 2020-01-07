@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078CQMXFZ
 description:
+actualPrice: 12.99 EUR
+comparePrice: 33.99 EUR
+inStock: true
 ---
 
 Está [SIMYJOY Pareja Sudadera con Capucha Gato Encapuchado Camisa Pull-Over para Hombre y Mujer Adolescentes Negro L](https://www.amazon.com/dp/B078CQMXFZ/?tag=redken08-20) por 12.99 EUR (original: 33.99 EUR) en el siguiente enlace!

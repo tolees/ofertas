@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06Y2YGF2C
 description:
+actualPrice: 35.4 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Está [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   45.5 EU  11 UK ](https://www.amazon.com/dp/B06Y2YGF2C/?tag=redken08-20) por 35.4 EUR (original: 90 EUR) en el siguiente enlace!

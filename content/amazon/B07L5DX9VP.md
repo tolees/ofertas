@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L5DX9VP
 description:
+actualPrice: 41.39 EUR
+comparePrice: 81.36 EUR
+inStock: true
 ---
 
 Tienes [Surface Pen  Autonomía De 500 Horas en Uso Continuo y 180 Días en Standby Surface Lápiz para Surface Go/Pro 3/Pro 4/Pro  2017 /Pro 5/Pro 6/Laptop/Book/Studio](https://www.amazon.com/dp/B07L5DX9VP/?tag=redken08-20) a precio de oferta de 41.39 EUR (original: 81.36 EUR) en el siguiente enlace!

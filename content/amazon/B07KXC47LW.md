@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KXC47LW
 description:
+actualPrice: 15.04 EUR
+comparePrice: 27.12 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Apisérum Intelecto Viales Bebibles - Favorece el rendimiento intelectual  concentración y memoria - Multivitamínico con Jalea Real  Vitamina B  Aminoacidos y Ginkgo Biloba - Tratamiento para 18 días](https://www.amazon.com/dp/B07KXC47LW/?tag=redken08-20) a 15.04 EUR (original: 27.12 EUR) en el siguiente enlace!

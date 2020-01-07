@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BJHZTZY
 description:
+actualPrice: 42.5 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [G-STAR RAW Lynn Mid-Waist Skinny Vaqueros  Dk Aged 6553-89  23W / 36L para Mujer](https://www.amazon.com/dp/B07BJHZTZY/?tag=redken08-20) a precio de oferta de 42.5 EUR (original: 99.95 EUR) en el siguiente enlace!

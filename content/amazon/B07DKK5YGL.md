@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DKK5YGL
 description:
+actualPrice: 37.72 EUR
+comparePrice: 95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [dickies Belspring Chaqueta  Azul  Small  Talla del Fabricante:  para Hombre](https://www.amazon.com/dp/B07DKK5YGL/?tag=redken08-20) a 37.72 EUR (original: 95 EUR) en el siguiente enlace!

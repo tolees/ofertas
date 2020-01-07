@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000C1UBRO
 description:
+actualPrice: 33.37 EUR
+comparePrice: 93.25 EUR
+inStock: true
 ---
 
 Tienes [Calvin Klein Eternity Moment - Agua de perfume vaporizador  100 ml](https://www.amazon.com/dp/B000C1UBRO/?tag=redken08-20) a precio de oferta de 33.37 EUR (original: 93.25 EUR) en el siguiente enlace!

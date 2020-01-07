@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B9XTMFK
 description:
+actualPrice: 39.97 EUR
+comparePrice: 59.97 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Dreamzie Almohada Cervical y Ortopédica  60 x 40 x 9/11 cm  Certificada Oeko Tex y Certipur - Ayuda a Sujetar el Cuello y a Reducir los Dolores de la Nuca - Funda en Fibra de Bambú](https://www.amazon.com/dp/B07B9XTMFK/?tag=redken08-20) a 39.97 EUR (original: 59.97 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CFVDRM4
 description:
+actualPrice: 40 GBP
+comparePrice: 70 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Philips SatinShave Prestige Wet and Dry Electric Lady Shaver  Cordless Waterproof Electric Razor with Bikini Trimmer Head  Comb and Skin Stretcher Cap  BRL170/00](https://www.amazon.com/dp/B01CFVDRM4/?tag=redken08-20) a 40 GBP (original: 70 GBP) en el siguiente enlace!

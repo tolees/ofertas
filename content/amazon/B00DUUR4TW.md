@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00DUUR4TW
 description:
+actualPrice: 4.78 EUR
+comparePrice: 9.95 EUR
+inStock: true
 ---
 
 Está [SBS TEPOCHEXLR - Funda universal para móvil  talla XL  hasta 4.5"  rojo](https://www.amazon.com/dp/B00DUUR4TW/?tag=redken08-20) por 4.78 EUR (original: 9.95 EUR) en el siguiente enlace!

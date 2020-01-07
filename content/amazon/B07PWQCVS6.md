@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PWQCVS6
 description:
+actualPrice: 12.98 EUR
+comparePrice: 27.98 EUR
+inStock: true
 ---
 
 Tienes [5 Pares Calcetines/Medias de Compresión para Hombres y Mujeres  Running  Deporte  Correr  Senderismo  Volar  Viajar  Varicosas  Embarazo y Médicos  EU 43-46  5x Negro ](https://www.amazon.com/dp/B07PWQCVS6/?tag=redken08-20) a precio de oferta de 12.98 EUR (original: 27.98 EUR) en el siguiente enlace!

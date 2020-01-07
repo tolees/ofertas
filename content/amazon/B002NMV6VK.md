@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B002NMV6VK
 description:
+actualPrice: 10.75 EUR
+comparePrice: 18.99 EUR
+inStock: true
 ---
 
 Está [GARDENA combisystem Schneeschieber KST 40: Schneeschaufel mit abriebfester Kunststoffkante  leichtes Kunststoffblatt  bis -40°C kälteschlagfest  Arbeitsbreite 40 cm  3240-20 ](https://www.amazon.com/dp/B002NMV6VK/?tag=redken08-20) por 10.75 EUR (original: 18.99 EUR) en el siguiente enlace!

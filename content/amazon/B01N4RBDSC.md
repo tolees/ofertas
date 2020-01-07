@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N4RBDSC
 description:
+actualPrice: 7.59 EUR
+comparePrice: 18.99 EUR
+inStock: true
 ---
 
 Tienes [Huawei 22040267 In-Ear Bass Kopfhörer mit Mikrofon AM13 weiß](https://www.amazon.com/dp/B01N4RBDSC/?tag=redken08-20) a precio de oferta de 7.59 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00KP8UYUI
 description:
+actualPrice: 19.75 EUR
+comparePrice: 34.95 EUR
+inStock: true
 ---
 
 Tienes [XLS Medical  - Cápsulas reductoras del apetito. Tratamiento y prevención del exceso de peso y control general del peso](https://www.amazon.com/dp/B00KP8UYUI/?tag=redken08-20) a precio de oferta de 19.75 EUR (original: 34.95 EUR) en el siguiente enlace!

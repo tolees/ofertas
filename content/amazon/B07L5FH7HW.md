@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L5FH7HW
 description:
+actualPrice: 9.99 GBP
+comparePrice: 20.99 GBP
+inStock: true
 ---
 
 Tienes [Girl Elsa Shoes Princess Dress Up Girls Halloween Fancy Princess Shoes for Cosplay Party Birthday Gift  Blue  7.5 UK Child](https://www.amazon.com/dp/B07L5FH7HW/?tag=redken08-20) a precio de oferta de 9.99 GBP (original: 20.99 GBP) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFRHYXL
 description:
+actualPrice: 35.65 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geox J Inek Boy D  Zapatillas para Niños  Azul  Navy/Royal C4226   25 EU](https://www.amazon.com/dp/B07LFRHYXL/?tag=redken08-20) a 35.65 EUR (original: 55 EUR) en el siguiente enlace!

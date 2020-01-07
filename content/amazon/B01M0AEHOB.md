@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M0AEHOB
 description:
+actualPrice: 99.99 EUR
+comparePrice: 149.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [i-eX Puf para Videojuegos y reposapiés  Negro  91cm x 88cm  Grande  Cuero sintético  Reclinable ergonómico para Videojuegos  Silla para Videojuegos](https://www.amazon.com/dp/B01M0AEHOB/?tag=redken08-20) a 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TJWXS8M
 description:
+actualPrice: 15.99 EUR
+comparePrice: 35 EUR
+inStock: true
 ---
 
 Está [Jellas 22PCS Extractor de Tornillos  Brocas de pulido separadas y brocas de extracción  Magnetizado y Adaptador para Tornillos y Pernos Dañados Desde 2mm hasta 12mm  Dureza 64-65HRC](https://www.amazon.com/dp/B07TJWXS8M/?tag=redken08-20) por 15.99 EUR (original: 35 EUR) en el siguiente enlace!

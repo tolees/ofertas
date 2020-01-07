@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07PVSCK67
 description:
+actualPrice: 9.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [INPHIC Alfombrilla Ratón Grande Gaming Mouse Pad  700 x 300 x 3 mm  tamaño XXL   Resistente al Agua y Base de Goma Antideslizante  Superficie cómoda con Textura para Mac PC portátil  Color Negro](https://www.amazon.com/dp/B07PVSCK67/?tag=redken08-20) a 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NDQ2MLJ
 description:
+actualPrice: 17.2 EUR
+comparePrice: 109.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [G-STAR RAW CPO Slim Camisa Vaquera  Multicolor  Medium Aged Restored 138 8399   XX-Small para Hombre](https://www.amazon.com/dp/B07NDQ2MLJ/?tag=redken08-20) a 17.2 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RFBHLMW
 description:
+actualPrice: 64.97 EUR
+comparePrice: 129.99 EUR
+inStock: true
 ---
 
 Está [FAMTOP Purificador de Aire para Hogar  Air Purifier 4 en 1 Hasta 99.97%  con Filtro HEPA Catalizador Frío  No Ozono  CADR 120m³/h  Captura Polvo  Humo  Caspa de Mascotas](https://www.amazon.com/dp/B07RFBHLMW/?tag=redken08-20) por 64.97 EUR (original: 129.99 EUR) en el siguiente enlace!

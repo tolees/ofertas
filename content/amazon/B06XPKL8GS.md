@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XPKL8GS
 description:
+actualPrice: 24.95 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [Nier Automata](https://www.amazon.com/dp/B06XPKL8GS/?tag=redken08-20) por 24.95 EUR (original: 49.99 EUR) en el siguiente enlace!

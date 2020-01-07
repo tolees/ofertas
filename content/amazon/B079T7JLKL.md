@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079T7JLKL
 description:
+actualPrice: 43.5 EUR
+comparePrice: 135 EUR
+inStock: true
 ---
 
 Tienes [Timex Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero TW2R70800](https://www.amazon.com/dp/B079T7JLKL/?tag=redken08-20) a precio de oferta de 43.5 EUR (original: 135 EUR) en el siguiente enlace!

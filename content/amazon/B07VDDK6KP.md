@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VDDK6KP
 description:
+actualPrice: 12.99 EUR
+comparePrice: 26.99 EUR
+inStock: true
 ---
 
 Está [Ulikey 4 Juegos de Kit de Soporte de Globo Transparente  Juego de Soporte Palos de Globos  Árbol de Globos con Paleta de Plástico Soporte de Globos  Decoración  Boda  Cumpleaños](https://www.amazon.com/dp/B07VDDK6KP/?tag=redken08-20) por 12.99 EUR (original: 26.99 EUR) en el siguiente enlace!

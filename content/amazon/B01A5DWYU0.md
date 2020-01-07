@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01A5DWYU0
 description:
+actualPrice: 25 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Está [Crocs Crocband LodgePoint Boot Kids  Botas de Nieve Unisex niños  Rosa  Candy Party Pink   34/35 EU](https://www.amazon.com/dp/B01A5DWYU0/?tag=redken08-20) por 25 EUR (original: 49.99 EUR) en el siguiente enlace!

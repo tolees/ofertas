@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K74HNHW
 description:
+actualPrice: 33.99 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Está [Asics Patriot 10  Zapatillas de Running para Hombre  Rojo  Classic Red/Steel Grey 600   44 EU](https://www.amazon.com/dp/B07K74HNHW/?tag=redken08-20) por 33.99 EUR (original: 60 EUR) en el siguiente enlace!

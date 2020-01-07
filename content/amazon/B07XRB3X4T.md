@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07XRB3X4T
 description:
+actualPrice: 30.99 GBP
+comparePrice: 120.99 GBP
+inStock: true
 ---
 
 Tienes [Cinderella Dress Princess Costume Halloween Fancy Party Dress up Outfit Cosplay Dresses](https://www.amazon.com/dp/B07XRB3X4T/?tag=redken08-20) a precio de oferta de 30.99 GBP (original: 120.99 GBP) en el siguiente enlace!

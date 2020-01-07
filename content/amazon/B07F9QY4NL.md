@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F9QY4NL
 description:
+actualPrice: 7 EUR
+comparePrice: 11.59 EUR
+inStock: true
 ---
 
 Está [AmazonBasics - Lightning-auf-USB-A-Kabel  doppelt geflochtenes Nylon-Verbindungskabel  Premium-Kollektion  1 8 m   Rot](https://www.amazon.com/dp/B07F9QY4NL/?tag=redken08-20) por 7 EUR (original: 11.59 EUR) en el siguiente enlace!

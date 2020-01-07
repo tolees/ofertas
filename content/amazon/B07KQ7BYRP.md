@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQ7BYRP
 description:
+actualPrice: 7.95 GBP
+comparePrice: 11.95 GBP
+inStock: true
 ---
 
 Está [L.O.L Surprise! Girls Dolls Nightdress Purple Age 5 to 6 Years](https://www.amazon.com/dp/B07KQ7BYRP/?tag=redken08-20) por 7.95 GBP (original: 11.95 GBP) en el siguiente enlace!

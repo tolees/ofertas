@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F3BZBZ2
 description:
+actualPrice: 41.32 EUR
+comparePrice: 119.91 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geox U Nebula A  Zapatillas para Hombre  Rojo  Dark Red C7004   44 EU](https://www.amazon.com/dp/B07F3BZBZ2/?tag=redken08-20) a 41.32 EUR (original: 119.91 EUR) en el siguiente enlace!

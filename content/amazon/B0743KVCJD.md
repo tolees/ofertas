@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0743KVCJD
 description:
+actualPrice: 69.99 EUR
+comparePrice: 119.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Philips MG7770/15 18 en 1 - Recortadora Todo en Uno: para Barba  Pequeños Detalles  Vello  Nariz y Orejas  CortaPelos  Depiladora Corporal  Cara  Cuerpo  Cabeza](https://www.amazon.com/dp/B0743KVCJD/?tag=redken08-20) a 69.99 EUR (original: 119.99 EUR) en el siguiente enlace!

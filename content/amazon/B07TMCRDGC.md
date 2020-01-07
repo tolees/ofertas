@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TMCRDGC
 description:
+actualPrice: 14.95 EUR
+comparePrice: 30 EUR
+inStock: true
 ---
 
 Está [Pre-Workout X6 | Potente pre-entreno ultra concentrado | Potencia el desarrollo muscular | Resistencia y fuerza | Beta alanina + citrulina + cafeína + betanina + taurina + vitaminas | Sabor a sandía](https://www.amazon.com/dp/B07TMCRDGC/?tag=redken08-20) por 14.95 EUR (original: 30 EUR) en el siguiente enlace!

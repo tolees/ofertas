@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06WW7PT1D
 description:
+actualPrice: 22.48 EUR
+comparePrice: 47.25 EUR
+inStock: true
 ---
 
 Tienes [Goonies / Gremlins / Gremlins 2 [Edizione: Stati Uniti] [Italia] [DVD]](https://www.amazon.com/dp/B06WW7PT1D/?tag=redken08-20) a precio de oferta de 22.48 EUR (original: 47.25 EUR) en el siguiente enlace!

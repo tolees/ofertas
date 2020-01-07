@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00BBTIONE
 description:
+actualPrice: 17.99 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Tienes [Bombay Sapphire London Dry Gin  1 x 1 l ](https://www.amazon.com/dp/B00BBTIONE/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

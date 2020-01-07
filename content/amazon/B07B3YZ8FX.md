@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07B3YZ8FX
 description:
+actualPrice: 14.95 EUR
+comparePrice: 69.9 EUR
+inStock: true
 ---
 
 Está [V-Bag movetrack by Vodafone - GPS Tracker  Standortermittlung von Taschen  Gepäck und Wertgegenständen](https://www.amazon.com/dp/B07B3YZ8FX/?tag=redken08-20) por 14.95 EUR (original: 69.9 EUR) en el siguiente enlace!

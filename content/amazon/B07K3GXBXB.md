@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K3GXBXB
 description:
+actualPrice: 8.75 EUR
+comparePrice: 29.17 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Object Objbay 3/4 Top Noos Blusa  Azul Sky Captain  36  Talla del Fabricante: 34  para Mujer](https://www.amazon.com/dp/B07K3GXBXB/?tag=redken08-20) a 8.75 EUR (original: 29.17 EUR) en el siguiente enlace!

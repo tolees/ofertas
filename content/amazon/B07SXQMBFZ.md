@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SXQMBFZ
 description:
+actualPrice: 50.56 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Tienes [adidas X 19.3 FG  Zapatillas de Fútbol para Hombre  Verde  Legacy Green/Solar Orange/Chalk White Legacy Green/Solar Orange/Chalk White   46 EU](https://www.amazon.com/dp/B07SXQMBFZ/?tag=redken08-20) a precio de oferta de 50.56 EUR (original: 79.95 EUR) en el siguiente enlace!

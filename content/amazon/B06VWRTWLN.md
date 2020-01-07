@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06VWRTWLN
 description:
+actualPrice: 9.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lock S Quest](https://www.amazon.com/dp/B06VWRTWLN/?tag=redken08-20) a 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

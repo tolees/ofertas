@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFGN2XR
 description:
+actualPrice: 26.99 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Tienes [Levi s LS Battery Hm Shirt Camisa  Azul  Allure 0011   Large para Hombre](https://www.amazon.com/dp/B07LFGN2XR/?tag=redken08-20) a precio de oferta de 26.99 EUR (original: 60 EUR) en el siguiente enlace!

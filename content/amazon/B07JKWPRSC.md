@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JKWPRSC
 description:
+actualPrice: 2.47 EUR
+comparePrice: 3.99 EUR
+inStock: true
 ---
 
 Está [Playmobil 70060 Special Plus Mädchen mit Pony  bunt](https://www.amazon.com/dp/B07JKWPRSC/?tag=redken08-20) por 2.47 EUR (original: 3.99 EUR) en el siguiente enlace!

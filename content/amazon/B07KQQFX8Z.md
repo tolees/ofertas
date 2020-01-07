@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQQFX8Z
 description:
+actualPrice: 47.29 EUR
+comparePrice: 119.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Salomon Trailster GTX W  Zapatillas de Trail Running para Mujer  Rosa  Cerise/Potent Purple/Heather   38 EU](https://www.amazon.com/dp/B07KQQFX8Z/?tag=redken08-20) a 47.29 EUR (original: 119.95 EUR) en el siguiente enlace!

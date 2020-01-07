@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GRKDFR1
 description:
+actualPrice: 67.21 EUR
+comparePrice: 119.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [The Division 2: Dark Zone - Collector s Edition](https://www.amazon.com/dp/B07GRKDFR1/?tag=redken08-20) a 67.21 EUR (original: 119.99 EUR) en el siguiente enlace!

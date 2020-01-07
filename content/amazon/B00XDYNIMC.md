@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00XDYNIMC
 description:
+actualPrice: 26.99 EUR
+comparePrice: 45.27 EUR
+inStock: true
 ---
 
 Está [Tommy Hilfiger New Danny Belt Cinturón  Cognac  90 para Mujer](https://www.amazon.com/dp/B00XDYNIMC/?tag=redken08-20) por 26.99 EUR (original: 45.27 EUR) en el siguiente enlace!

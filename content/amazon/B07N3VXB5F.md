@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N3VXB5F
 description:
+actualPrice: 29.98 EUR
+comparePrice: 59.95 EUR
+inStock: true
 ---
 
 Está [Desigual Postcards Dress Vestido  Multicolor  Tutti Fruti 9019   M para Mujer](https://www.amazon.com/dp/B07N3VXB5F/?tag=redken08-20) por 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

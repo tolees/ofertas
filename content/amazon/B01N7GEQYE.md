@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N7GEQYE
 description:
+actualPrice: 64.95 EUR
+comparePrice: 140 EUR
+inStock: true
 ---
 
 Está [Timberland Adventure 2.0 Cupsole  Zapatillas Altas para Hombre  Negro  Black Full Grain   44.5 EU](https://www.amazon.com/dp/B01N7GEQYE/?tag=redken08-20) por 64.95 EUR (original: 140 EUR) en el siguiente enlace!

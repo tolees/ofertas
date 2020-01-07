@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00EW5FQQ2
 description:
+actualPrice: 22.45 EUR
+comparePrice: 44.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Nike Revolution 4  GS   Zapatillas de Running para Niños  Negro  Black/White-Anthracite 006   38.5 EU](https://www.amazon.com/dp/B00EW5FQQ2/?tag=redken08-20) a 22.45 EUR (original: 44.99 EUR) en el siguiente enlace!

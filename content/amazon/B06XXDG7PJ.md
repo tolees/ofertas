@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XXDG7PJ
 description:
+actualPrice: 54 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Tienes [New Balance 574 Zapatillas Hombre  Verde  Olive EGO   42.5 EU  8.5 UK ](https://www.amazon.com/dp/B06XXDG7PJ/?tag=redken08-20) a precio de oferta de 54 EUR (original: 90 EUR) en el siguiente enlace!

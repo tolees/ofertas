@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M7YJJI3
 description:
+actualPrice: 7.99 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [Funko Pop! - Bobble: Marvel: Guardians Of The Galaxy 2: Ego  12777 ](https://www.amazon.com/dp/B01M7YJJI3/?tag=redken08-20) por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

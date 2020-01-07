@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KG5FDYC
 description:
+actualPrice: 24.79 EUR
+comparePrice: 74.95 EUR
+inStock: true
 ---
 
 Tienes [Puma Future Runner Premium  Zapatillas Unisex Adulto  Blanco  Puma White-Galaxy Blue-High Risk Red 07   44 EU](https://www.amazon.com/dp/B07KG5FDYC/?tag=redken08-20) a precio de oferta de 24.79 EUR (original: 74.95 EUR) en el siguiente enlace!

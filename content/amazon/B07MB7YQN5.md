@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MB7YQN5
 description:
+actualPrice: 8.99 EUR
+comparePrice: 27.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Cartera Tarjetero Hombre  Cartera Tarjeta de Crédito  Bloqueo RFID  Cartera de Piel Minimalista para Tarjetas y Billetes](https://www.amazon.com/dp/B07MB7YQN5/?tag=redken08-20) a 8.99 EUR (original: 27.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01IRKRUNO
 description:
+actualPrice: 100.65 EUR
+comparePrice: 230 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [NIXON Reloj Analógico para Hombre de Cuarzo con Correa en Tela A9452548](https://www.amazon.com/dp/B01IRKRUNO/?tag=redken08-20) a 100.65 EUR (original: 230 EUR) en el siguiente enlace!

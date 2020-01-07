@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GB1LLHF
 description:
+actualPrice: 8.09 EUR
+comparePrice: 33.3 EUR
+inStock: true
 ---
 
 Tienes [Sjpzwcrl Pepper Grinder  Molinillo de Pimienta de Acero Inoxidable Molinillo de Sal Duradero Operación de una Mano Molinillo de Sal Salt Mill 2  Pepper Grinder 2 Pack ](https://www.amazon.com/dp/B07GB1LLHF/?tag=redken08-20) a precio de oferta de 8.09 EUR (original: 33.3 EUR) en el siguiente enlace!

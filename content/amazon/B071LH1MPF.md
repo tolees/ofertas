@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071LH1MPF
 description:
+actualPrice: 12.49 EUR
+comparePrice: 24 EUR
+inStock: true
 ---
 
 Está [Under Armour Woven Graphic Wordmark Short Pantalón Corto  Hombre  Azul  Royal/Steel 400   M](https://www.amazon.com/dp/B071LH1MPF/?tag=redken08-20) por 12.49 EUR (original: 24 EUR) en el siguiente enlace!

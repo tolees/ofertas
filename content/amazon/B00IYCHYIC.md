@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00IYCHYIC
 description:
+actualPrice: 12.99 EUR
+comparePrice: 37.07 EUR
+inStock: true
 ---
 
 Tienes [uhlsport Pullover Match 1/4 Zip Top - Forro para Mujer  Color Negro  Talla 2XL](https://www.amazon.com/dp/B00IYCHYIC/?tag=redken08-20) a precio de oferta de 12.99 EUR (original: 37.07 EUR) en el siguiente enlace!

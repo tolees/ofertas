@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B078ZYZVNL
 description:
+actualPrice: 11.4 EUR
+comparePrice: 17.25 EUR
+inStock: true
 ---
 
 Tienes [TRESemmé Mascarilla Botanique Coco - Paquetes de 3 x 300 ml - Total: 900 ml](https://www.amazon.com/dp/B078ZYZVNL/?tag=redken08-20) a precio de oferta de 11.4 EUR (original: 17.25 EUR) en el siguiente enlace!

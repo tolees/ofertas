@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076HMRTJL
 description:
+actualPrice: 19.11 EUR
+comparePrice: 33.59 EUR
+inStock: true
 ---
 
 Está [Adidas Regi18 PES Jkt Sport Jacket  Hombre  Bold Gold/Black  M](https://www.amazon.com/dp/B076HMRTJL/?tag=redken08-20) por 19.11 EUR (original: 33.59 EUR) en el siguiente enlace!

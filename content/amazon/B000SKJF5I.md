@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000SKJF5I
 description:
+actualPrice: 8.74 EUR
+comparePrice: 15.61 EUR
+inStock: true
 ---
 
 Está [Lacor - 39116 - Cuchillo Cocina Classic 16](https://www.amazon.com/dp/B000SKJF5I/?tag=redken08-20) por 8.74 EUR (original: 15.61 EUR) en el siguiente enlace!

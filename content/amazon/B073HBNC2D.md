@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073HBNC2D
 description:
+actualPrice: 5.9 EUR
+comparePrice: 8.99 EUR
+inStock: true
 ---
 
 Está [Maybelline New York - Superstay Matte Ink  Barra de Labios Mate  Tono 15 Lover](https://www.amazon.com/dp/B073HBNC2D/?tag=redken08-20) por 5.9 EUR (original: 8.99 EUR) en el siguiente enlace!

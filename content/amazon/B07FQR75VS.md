@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FQR75VS
 description:
+actualPrice: 17.73 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [JACK & JONES Jjespace Sweat Zip Hood Noos Sudadera  Verde  Olive Night Detail: Reg Fit - Melange   Small para Hombre](https://www.amazon.com/dp/B07FQR75VS/?tag=redken08-20) a 17.73 EUR (original: 39.99 EUR) en el siguiente enlace!

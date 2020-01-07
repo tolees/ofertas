@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B005BCOH9M
 description:
+actualPrice: 44 EUR
+comparePrice: 105 EUR
+inStock: true
 ---
 
 Tienes [Tuscany Silver 8.28.1613 - Pulsera de plata de ley  925/1000 ](https://www.amazon.com/dp/B005BCOH9M/?tag=redken08-20) a precio de oferta de 44 EUR (original: 105 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DCCBGZP
 description:
+actualPrice: 21.95 GBP
+comparePrice: 65.95 GBP
+inStock: true
 ---
 
 Está [Puma Unisex Kid s RS-0 Winter Inj Toys Jr Low-Top Sneakers  Blue White-High Risk Red  4.5 UK](https://www.amazon.com/dp/B07DCCBGZP/?tag=redken08-20) por 21.95 GBP (original: 65.95 GBP) en el siguiente enlace!

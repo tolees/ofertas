@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B081ZMMRJR
 description:
+actualPrice: 9.62 GBP
+comparePrice: 19.24 GBP
+inStock: true
 ---
 
 Tienes [OwlFay Elsa Princess Dress for Girls Frozen Snow Queen Christmas Party Costume Fancy Outfit Blue for Cosplay Carnival Christmas Easter Party Blue B 7-8 Years](https://www.amazon.com/dp/B081ZMMRJR/?tag=redken08-20) a precio de oferta de 9.62 GBP (original: 19.24 GBP) en el siguiente enlace!

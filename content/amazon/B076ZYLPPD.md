@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076ZYLPPD
 description:
+actualPrice: 14.03 EUR
+comparePrice: 54.43 EUR
+inStock: true
 ---
 
 Tienes [SELECTED HOMME Shdonesel-siam Shirt LS Stripes STS Camisa   Light Blue:.     Talla del Fabricante: X-Large  para Hombre](https://www.amazon.com/dp/B076ZYLPPD/?tag=redken08-20) a precio de oferta de 14.03 EUR (original: 54.43 EUR) en el siguiente enlace!

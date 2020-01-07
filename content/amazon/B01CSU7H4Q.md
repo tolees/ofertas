@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CSU7H4Q
 description:
+actualPrice: 5.49 EUR
+comparePrice: 8.99 EUR
+inStock: true
 ---
 
 Tienes [Joma 900038.350 Camiseta  Mujer  Azul Celeste  M](https://www.amazon.com/dp/B01CSU7H4Q/?tag=redken08-20) a precio de oferta de 5.49 EUR (original: 8.99 EUR) en el siguiente enlace!

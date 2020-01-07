@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00C6PIJPA
 description:
+actualPrice: 128.37 EUR
+comparePrice: 199 EUR
+inStock: true
 ---
 
 Tienes [Michael Kors Reloj de Cuarzo MK3197](https://www.amazon.com/dp/B00C6PIJPA/?tag=redken08-20) a precio de oferta de 128.37 EUR (original: 199 EUR) en el siguiente enlace!

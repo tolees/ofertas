@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MZXGJKX
 description:
+actualPrice: 15.38 EUR
+comparePrice: 35.54 EUR
+inStock: true
 ---
 
 Está [Pedea GmbH SET012-65065422-0009 - Funda para cámara con protección contra la Lluvia y Protector de Pantalla  L  Color Verde](https://www.amazon.com/dp/B01MZXGJKX/?tag=redken08-20) por 15.38 EUR (original: 35.54 EUR) en el siguiente enlace!

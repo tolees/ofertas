@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000XG6NCK
 description:
+actualPrice: 48.44 EUR
+comparePrice: 82.43 EUR
+inStock: true
 ---
 
 Está [WMF Diadem Plus Cacerola  Acero Inoxidable Pulido  24 cm](https://www.amazon.com/dp/B000XG6NCK/?tag=redken08-20) por 48.44 EUR (original: 82.43 EUR) en el siguiente enlace!

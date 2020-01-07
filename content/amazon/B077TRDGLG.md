@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077TRDGLG
 description:
+actualPrice: 13.5 EUR
+comparePrice: 36 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Vestido Cruzado Mujer  Negro  Black/white   36  Talla del fabricante: X-Small ](https://www.amazon.com/dp/B077TRDGLG/?tag=redken08-20) a 13.5 EUR (original: 36 EUR) en el siguiente enlace!

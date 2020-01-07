@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00M35VXEW
 description:
+actualPrice: 10.65 EUR
+comparePrice: 20.65 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [NUK First Choice Plus 10225106 Boy Juego de 4 biberones anti-cólico incluyendo tetinas de silicona y caja de botella  1 pieza  2 x 150 ml / 2 x 300 ml](https://www.amazon.com/dp/B00M35VXEW/?tag=redken08-20) a 10.65 EUR (original: 20.65 EUR) en el siguiente enlace!

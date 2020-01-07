@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QMQ3W8M
 description:
+actualPrice: 11.99 EUR
+comparePrice: 26.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Guzack Riñonera Deportivo Bolso Cintura Cinturón Running Belt Bolsa de Correr Impermeable para iPhone X XR XS Plus Teléfonos hasta 6.5   para Deportes Fitness Senderismo Ciclismo Jogging Caminar](https://www.amazon.com/dp/B07QMQ3W8M/?tag=redken08-20) a 11.99 EUR (original: 26.99 EUR) en el siguiente enlace!

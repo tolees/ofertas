@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B016SGH1DI
 description:
+actualPrice: 8.39 EUR
+comparePrice: 26.12 EUR
+inStock: true
 ---
 
 Está [Superman Christmas Hero Camiseta  Azul  Navy   Medium para Hombre](https://www.amazon.com/dp/B016SGH1DI/?tag=redken08-20) por 8.39 EUR (original: 26.12 EUR) en el siguiente enlace!

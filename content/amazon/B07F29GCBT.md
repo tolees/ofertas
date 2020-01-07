@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F29GCBT
 description:
+actualPrice: 70 EUR
+comparePrice: 119.59 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Azul  Blue Nubuck   41 EU](https://www.amazon.com/dp/B07F29GCBT/?tag=redken08-20) a 70 EUR (original: 119.59 EUR) en el siguiente enlace!

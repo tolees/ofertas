@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LGXM59D
 description:
+actualPrice: 32.35 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Salomon Trailblazer Mochila de Senderismo/Viaje  Espaciosa y práctica  Capacidad 20 l  Unisex Adulto  Amarillo  Citronelle   Talla única](https://www.amazon.com/dp/B07LGXM59D/?tag=redken08-20) a 32.35 EUR (original: 60 EUR) en el siguiente enlace!

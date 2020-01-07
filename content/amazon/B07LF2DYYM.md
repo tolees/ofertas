@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LF2DYYM
 description:
+actualPrice: 9.88 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Labanema Mate 20 Lite Funda  360 Rotating Ring Grip Stand Holder Capa TPU + PC Shockproof Anti-rasguños teléfono Caso protección Cáscara Cover para Huawei Mate 20 Lite - Azul](https://www.amazon.com/dp/B07LF2DYYM/?tag=redken08-20) a 9.88 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DD72NKR
 description:
+actualPrice: 13.35 EUR
+comparePrice: 27 EUR
+inStock: true
 ---
 
 Está [Hasbro Gaming - Juego infantil Corona Comilona Hasbro E2420175 ](https://www.amazon.com/dp/B07DD72NKR/?tag=redken08-20) por 13.35 EUR (original: 27 EUR) en el siguiente enlace!

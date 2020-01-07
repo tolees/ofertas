@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07N27GBDY
 description:
+actualPrice: 35.88 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Quiksilver Shorebreak Mid Sherpa-Shoes for Men  Botas Clasicas para Hombre  Marrón Brown/White Xccw  43 EU](https://www.amazon.com/dp/B07N27GBDY/?tag=redken08-20) a 35.88 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QYR59CW
 description:
+actualPrice: 16.98 EUR
+comparePrice: 109.98 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Amilril Collar  Amor Corazon Colgantes Mujer  Plata de Ley 925 Moda Joyería  Navidad Joyas Regalos Originales](https://www.amazon.com/dp/B07QYR59CW/?tag=redken08-20) a 16.98 EUR (original: 109.98 EUR) en el siguiente enlace!

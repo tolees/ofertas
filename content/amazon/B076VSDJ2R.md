@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B076VSDJ2R
 description:
+actualPrice: 14.49 EUR
+comparePrice: 27.99 EUR
+inStock: true
 ---
 
 Tienes [AmazonBasics - Bolsa mejorada para heces de perro con aditivos EPI y dispensador y pinza para correa - 810 unidades  polvo de talco](https://www.amazon.com/dp/B076VSDJ2R/?tag=redken08-20) a precio de oferta de 14.49 EUR (original: 27.99 EUR) en el siguiente enlace!

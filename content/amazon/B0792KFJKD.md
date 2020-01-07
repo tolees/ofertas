@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0792KFJKD
 description:
+actualPrice: 33.4 EUR
+comparePrice: 65 EUR
+inStock: true
 ---
 
 Está [Geox J New Savage Boy A  Zapatillas para Niños  Azul  Navy/Yellow C0657   38 EU](https://www.amazon.com/dp/B0792KFJKD/?tag=redken08-20) por 33.4 EUR (original: 65 EUR) en el siguiente enlace!

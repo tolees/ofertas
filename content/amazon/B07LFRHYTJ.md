@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFRHYTJ
 description:
+actualPrice: 63.39 EUR
+comparePrice: 129.9 EUR
+inStock: true
 ---
 
 Está [Geox U Nebula C  Zapatillas para Hombre  Negro  Black C9999   43 EU](https://www.amazon.com/dp/B07LFRHYTJ/?tag=redken08-20) por 63.39 EUR (original: 129.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01IB6JRY4
 description:
+actualPrice: 6.71 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Tienes [New Look Tokyo Airtex  Camiseta sin Mangas para Mujer  Grey  Mid Grey   ES 38  UK 10 ](https://www.amazon.com/dp/B01IB6JRY4/?tag=redken08-20) a precio de oferta de 6.71 EUR (original: 19.99 EUR) en el siguiente enlace!

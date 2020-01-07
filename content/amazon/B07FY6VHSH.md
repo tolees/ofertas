@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FY6VHSH
 description:
+actualPrice: 14.35 EUR
+comparePrice: 34.9 EUR
+inStock: true
 ---
 
 Está [Champion The Curvy Sujetador Deportivo   Blanc/Noir 8ml   X-Small para Mujer](https://www.amazon.com/dp/B07FY6VHSH/?tag=redken08-20) por 14.35 EUR (original: 34.9 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01FXC7JWQ
 description:
+actualPrice: 139 EUR
+comparePrice: 259 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Furbo - CÁMARA para Perros: Telecámara HD WiFi para Mascotas con Audio Bidireccional  Visión Nocturna  Alerta de Ladrido y Lanzamiento de Golosinas](https://www.amazon.com/dp/B01FXC7JWQ/?tag=redken08-20) a 139 EUR (original: 259 EUR) en el siguiente enlace!

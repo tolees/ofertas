@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KQNHDWW
 description:
+actualPrice: 64.65 EUR
+comparePrice: 159.95 EUR
+inStock: true
 ---
 
 Tienes [Salomon XA Pro 3D GTX  Zapatillas de Trail Running para Hombre  Rojo Syrah Ebony Red Dahlia  40 EU](https://www.amazon.com/dp/B07KQNHDWW/?tag=redken08-20) a precio de oferta de 64.65 EUR (original: 159.95 EUR) en el siguiente enlace!

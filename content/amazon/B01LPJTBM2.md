@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LPJTBM2
 description:
+actualPrice: 45.14 EUR
+comparePrice: 79 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Timex Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Cuero TW4B06500](https://www.amazon.com/dp/B01LPJTBM2/?tag=redken08-20) a 45.14 EUR (original: 79 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BPZDYGG
 description:
+actualPrice: 51.2 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Está [Lee Daren Vaqueros Straight  Azul  Blue Drop Em   38W / 30L para Hombre](https://www.amazon.com/dp/B07BPZDYGG/?tag=redken08-20) por 51.2 EUR (original: 99.95 EUR) en el siguiente enlace!

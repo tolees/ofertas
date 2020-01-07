@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LCDLLJD
 description:
+actualPrice: 29.99 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Está [BRIKSMAX Kit de Iluminación Led para Restaurante Paris-Compatible con Ladrillos de Construcción Lego Modelo 10243-Juego de Legos no Incluido](https://www.amazon.com/dp/B07LCDLLJD/?tag=redken08-20) por 29.99 EUR (original: 69.99 EUR) en el siguiente enlace!

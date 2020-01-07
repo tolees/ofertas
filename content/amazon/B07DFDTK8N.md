@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DFDTK8N
 description:
+actualPrice: 3.79 GBP
+comparePrice: 9.05 GBP
+inStock: true
 ---
 
 Tienes [Funko 32804 POP Vinyl: Power Blue Ranger  No Helmet   Multi](https://www.amazon.com/dp/B07DFDTK8N/?tag=redken08-20) a precio de oferta de 3.79 GBP (original: 9.05 GBP) en el siguiente enlace!

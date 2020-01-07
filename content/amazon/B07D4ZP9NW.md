@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D4ZP9NW
 description:
+actualPrice: 33.26 EUR
+comparePrice: 69.99 EUR
+inStock: true
 ---
 
 Tienes [Rage 2](https://www.amazon.com/dp/B07D4ZP9NW/?tag=redken08-20) a precio de oferta de 33.26 EUR (original: 69.99 EUR) en el siguiente enlace!

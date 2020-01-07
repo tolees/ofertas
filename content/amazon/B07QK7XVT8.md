@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07QK7XVT8
 description:
+actualPrice: 7.01 EUR
+comparePrice: 18 EUR
+inStock: true
 ---
 
 Tienes [Panini 1 Road To Euro 2020 Adrenalyn XL - Mochila de iniciación  Color Negro](https://www.amazon.com/dp/B07QK7XVT8/?tag=redken08-20) a precio de oferta de 7.01 EUR (original: 18 EUR) en el siguiente enlace!

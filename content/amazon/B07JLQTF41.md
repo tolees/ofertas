@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JLQTF41
 description:
+actualPrice: 55.49 EUR
+comparePrice: 89.95 EUR
+inStock: true
 ---
 
 Está [Lee Austin Vaqueros Tapered  Azul  Dark Diamond Ft   36W / 34L para Hombre](https://www.amazon.com/dp/B07JLQTF41/?tag=redken08-20) por 55.49 EUR (original: 89.95 EUR) en el siguiente enlace!

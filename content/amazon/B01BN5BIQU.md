@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01BN5BIQU
 description:
+actualPrice: 4 GBP
+comparePrice: 6.99 GBP
+inStock: true
 ---
 
 Está [LEGO Doctor Who - Cyberman Minifigure](https://www.amazon.com/dp/B01BN5BIQU/?tag=redken08-20) por 4 GBP (original: 6.99 GBP) en el siguiente enlace!

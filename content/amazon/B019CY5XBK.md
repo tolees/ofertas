@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B019CY5XBK
 description:
+actualPrice: 12.45 EUR
+comparePrice: 20.08 EUR
+inStock: true
 ---
 
 Tienes [Portwest S441 - Portwest Pantalón de lluvia  color Gris  talla 3 XL](https://www.amazon.com/dp/B019CY5XBK/?tag=redken08-20) a precio de oferta de 12.45 EUR (original: 20.08 EUR) en el siguiente enlace!

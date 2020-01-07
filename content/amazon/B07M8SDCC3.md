@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07M8SDCC3
 description:
+actualPrice: 25.75 EUR
+comparePrice: 52.93 EUR
+inStock: true
 ---
 
 Está [Ecoiffier- Hamburguesería de Juguete  Color  1788 ](https://www.amazon.com/dp/B07M8SDCC3/?tag=redken08-20) por 25.75 EUR (original: 52.93 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LEJD1J2
 description:
+actualPrice: 4.99 GBP
+comparePrice: 9.13 GBP
+inStock: true
 ---
 
 Tienes [Street Fighter 11659 "POP! Vinyl Dan Figure](https://www.amazon.com/dp/B01LEJD1J2/?tag=redken08-20) a precio de oferta de 4.99 GBP (original: 9.13 GBP) en el siguiente enlace!

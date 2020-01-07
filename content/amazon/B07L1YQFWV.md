@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L1YQFWV
 description:
+actualPrice: 25.99 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Rival Fleece Sportstyle Logo Sudadera  Hombre  Negro  XXL](https://www.amazon.com/dp/B07L1YQFWV/?tag=redken08-20) a 25.99 EUR (original: 55 EUR) en el siguiente enlace!

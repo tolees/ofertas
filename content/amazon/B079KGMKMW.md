@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079KGMKMW
 description:
+actualPrice: 48.25 EUR
+comparePrice: 90.22 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lee Rider Jeans Vaqueros  Shrewd Blue  31W / 32L para Hombre](https://www.amazon.com/dp/B079KGMKMW/?tag=redken08-20) a 48.25 EUR (original: 90.22 EUR) en el siguiente enlace!

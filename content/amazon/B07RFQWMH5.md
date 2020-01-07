@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RFQWMH5
 description:
+actualPrice: 9.14 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [AmazonBasics - Marco de fotos de paneles para 4 fotografías  10 x 15 cm  color negro](https://www.amazon.com/dp/B07RFQWMH5/?tag=redken08-20) a 9.14 EUR (original: 14.99 EUR) en el siguiente enlace!

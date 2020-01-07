@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KTKL5J1
 description:
+actualPrice: 40 GBP
+comparePrice: 100 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Clarks Originals Women s Ashton Derbys  Green  Cactus Green Cactus Green   39 EU  5.5 UK](https://www.amazon.com/dp/B07KTKL5J1/?tag=redken08-20) a 40 GBP (original: 100 GBP) en el siguiente enlace!

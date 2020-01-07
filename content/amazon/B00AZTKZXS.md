@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00AZTKZXS
 description:
+actualPrice: 179.99 EUR
+comparePrice: 309.99 EUR
+inStock: true
 ---
 
 Está [Tefal Actifry YV960120 - Freidora 2 en 1 para cocina sana  2 zonas cocción  pantalla LCD digital  app con más recetas  capacidad 1 5 kg para 6 personas  incluye cuchara medidora de aceite y sal](https://www.amazon.com/dp/B00AZTKZXS/?tag=redken08-20) por 179.99 EUR (original: 309.99 EUR) en el siguiente enlace!

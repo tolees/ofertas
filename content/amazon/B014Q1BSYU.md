@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B014Q1BSYU
 description:
+actualPrice: 31.53 EUR
+comparePrice: 47.99 EUR
+inStock: true
 ---
 
 Tienes [Sunstech ARGOS4GBBL - Reproductor MP3 deportivo resistente al agua  Negro y Azul  4 GB](https://www.amazon.com/dp/B014Q1BSYU/?tag=redken08-20) a precio de oferta de 31.53 EUR (original: 47.99 EUR) en el siguiente enlace!

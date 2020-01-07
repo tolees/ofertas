@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B014CZJ8CE
 description:
+actualPrice: 14.99 EUR
+comparePrice: 22.39 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Puntero Laser Presentaciones Doosl Mando Diapositivas Pasador Diapositivas Mando Presentaciones para PPT/Keynote/Prezi/OpenOffice/Windows 7/8/10/Mac OS/Linux - Rojo y Pila AAA](https://www.amazon.com/dp/B014CZJ8CE/?tag=redken08-20) a 14.99 EUR (original: 22.39 EUR) en el siguiente enlace!

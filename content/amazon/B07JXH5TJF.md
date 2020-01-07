@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07JXH5TJF
 description:
+actualPrice: 26.66 EUR
+comparePrice: 129.95 EUR
+inStock: true
 ---
 
 Tienes [Wrangler Regular Jacket Chaqueta  Azul  Bleached out 12d   X-Large para Hombre](https://www.amazon.com/dp/B07JXH5TJF/?tag=redken08-20) a precio de oferta de 26.66 EUR (original: 129.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HKTJNLQ
 description:
+actualPrice: 54.95 EUR
+comparePrice: 89.96 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour Sc 3zer0 Iii Zapatos de Baloncesto Hombre  Negro  Black/Mod Gray/Halo Gray  001  001   43 EU](https://www.amazon.com/dp/B07HKTJNLQ/?tag=redken08-20) a 54.95 EUR (original: 89.96 EUR) en el siguiente enlace!

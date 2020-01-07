@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074DXGB3V
 description:
+actualPrice: 267.8 EUR
+comparePrice: 399.99 EUR
+inStock: true
 ---
 
 Está [Western Digital My Cloud Home - Nube Personal de 8 TB  Almacenamiento en Red NAS  1 bahía ](https://www.amazon.com/dp/B074DXGB3V/?tag=redken08-20) por 267.8 EUR (original: 399.99 EUR) en el siguiente enlace!

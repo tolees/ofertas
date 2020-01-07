@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01GT4R4BS
 description:
+actualPrice: 6.98 EUR
+comparePrice: 54.21 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [DKNY Intimates Skyline-Essential Microf Sujetador  Negro  Black/Glow R00   75D  Talla del Fabricante: 34D  para Mujer](https://www.amazon.com/dp/B01GT4R4BS/?tag=redken08-20) a 6.98 EUR (original: 54.21 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LFV9FQM
 description:
+actualPrice: 68.83 EUR
+comparePrice: 109.9 EUR
+inStock: true
 ---
 
 Está [Geox D PONTOISE D  Zapatillas para Mujer  Blanco  White C1000   37 EU](https://www.amazon.com/dp/B07LFV9FQM/?tag=redken08-20) por 68.83 EUR (original: 109.9 EUR) en el siguiente enlace!

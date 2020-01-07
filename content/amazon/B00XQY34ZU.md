@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00XQY34ZU
 description:
+actualPrice: 53 EUR
+comparePrice: 85 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pepe Jeans Spike Vaqueros  Azul  Fonce Denim H05   W32/L32 para Hombre](https://www.amazon.com/dp/B00XQY34ZU/?tag=redken08-20) a 53 EUR (original: 85 EUR) en el siguiente enlace!

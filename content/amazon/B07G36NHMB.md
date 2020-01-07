@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07G36NHMB
 description:
+actualPrice: 6.5 EUR
+comparePrice: 9.99 EUR
+inStock: true
 ---
 
 Está [Maybelline New York - Superstay Matte Ink City Edition  Barra de Labios Mate  Tono 135 Globetrotter](https://www.amazon.com/dp/B07G36NHMB/?tag=redken08-20) por 6.5 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CZBK23G
 description:
+actualPrice: 17.77 EUR
+comparePrice: 44.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Under Armour UA Qualifier Singlet Tanque  Hombre  Amarillo High-Vis Yellow/Reflective 731  XL](https://www.amazon.com/dp/B07CZBK23G/?tag=redken08-20) a 17.77 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B074H6QSWW
 description:
+actualPrice: 22.99 EUR
+comparePrice: 64.99 EUR
+inStock: true
 ---
 
 Está [Russell Hobbs Supreme Steam Pro - Plancha de Ropa de Vapor  2600 W  Suela de Cerámica  Azul y Blanco  - ref. 23971-56](https://www.amazon.com/dp/B074H6QSWW/?tag=redken08-20) por 22.99 EUR (original: 64.99 EUR) en el siguiente enlace!

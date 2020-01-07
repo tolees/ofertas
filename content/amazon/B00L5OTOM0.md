@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00L5OTOM0
 description:
+actualPrice: 14 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Está [Bioderma Photoderm Mineral Spf 50+ Fluide - Protección solar  100 ml](https://www.amazon.com/dp/B00L5OTOM0/?tag=redken08-20) por 14 EUR (original: 25 EUR) en el siguiente enlace!

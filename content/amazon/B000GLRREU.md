@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B000GLRREU
 description:
+actualPrice: 82.99 EUR
+comparePrice: 145.2 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Waterpik WP-100  - Producto de cuidado dental  Azul/ Blanco](https://www.amazon.com/dp/B000GLRREU/?tag=redken08-20) a 82.99 EUR (original: 145.2 EUR) en el siguiente enlace!

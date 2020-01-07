@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06Y2X2MWG
 description:
+actualPrice: 35.99 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Tienes [Petcomer Mochila Cápsula Impermeable Transportín en Forma de Burbuja para Mascotas Perros Gatos  Negro ](https://www.amazon.com/dp/B06Y2X2MWG/?tag=redken08-20) a precio de oferta de 35.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DFF22FX
 description:
+actualPrice: 10.62 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Tienes [LAST LEVEL- Funko Disney: Wreck-It-Ralph 2: Pop 1 Figura  Multicolor  FFK33403 ](https://www.amazon.com/dp/B07DFF22FX/?tag=redken08-20) a precio de oferta de 10.62 EUR (original: 15.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ZVFN3F3
 description:
+actualPrice: 20.99 EUR
+comparePrice: 49.99 EUR
+inStock: true
 ---
 
 Tienes [Tobilleras para Esguince  Tobillera Estabilizadora Protector Compresion Ajustable  Tobillera Calefactora con Línea de Alimentación USB para Artritis  Tendinitis y Esguinces Deportivos  1 Pieza](https://www.amazon.com/dp/B07ZVFN3F3/?tag=redken08-20) a precio de oferta de 20.99 EUR (original: 49.99 EUR) en el siguiente enlace!

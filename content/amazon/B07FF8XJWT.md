@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FF8XJWT
 description:
+actualPrice: 11.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [The Last of us Hits - Versión 14](https://www.amazon.com/dp/B07FF8XJWT/?tag=redken08-20) a 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TTLGHSK
 description:
+actualPrice: 6.5 GBP
+comparePrice: 12.99 GBP
+inStock: true
 ---
 
 Está [Arlo VMA1000 Smart Home Adjustable Mount for Wireless CCTV HD Security Camera  Official   White](https://www.amazon.com/dp/B00TTLGHSK/?tag=redken08-20) por 6.5 GBP (original: 12.99 GBP) en el siguiente enlace!

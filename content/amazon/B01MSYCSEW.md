@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MSYCSEW
 description:
+actualPrice: 12.49 EUR
+comparePrice: 25.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [KRISP 6252-TUR-16  Vestido Corto Patinadora Vuelo Fruncido Busto  Turquesa  6252   44](https://www.amazon.com/dp/B01MSYCSEW/?tag=redken08-20) a 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!

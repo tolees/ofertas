@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07K5LTN5J
 description:
+actualPrice: 32.69 EUR
+comparePrice: 110 EUR
+inStock: true
 ---
 
 Tienes [Levi s 502 Regular Taper Vaqueros  Azul  Green Beer ADV 0306   38W / 32L para Hombre](https://www.amazon.com/dp/B07K5LTN5J/?tag=redken08-20) a precio de oferta de 32.69 EUR (original: 110 EUR) en el siguiente enlace!

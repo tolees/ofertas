@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPWLSVD
 description:
+actualPrice: 13.41 EUR
+comparePrice: 129 EUR
+inStock: true
 ---
 
 Tienes [REPLAY Luz Ankle Zip Vaqueros Skinny  Azul  Medium Blue 9   W31/L34  Talla del Fabricante: 31  para Mujer](https://www.amazon.com/dp/B07KPWLSVD/?tag=redken08-20) a precio de oferta de 13.41 EUR (original: 129 EUR) en el siguiente enlace!

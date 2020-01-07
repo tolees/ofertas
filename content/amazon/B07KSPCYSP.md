@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KSPCYSP
 description:
+actualPrice: 46.49 EUR
+comparePrice: 89.99 EUR
+inStock: true
 ---
 
 Está [Columbia Mujer Chaqueta impermeable  Pouring Adventure II Jacket  Nailon  Azul  Nocturnal   Talla: M  1760071](https://www.amazon.com/dp/B07KSPCYSP/?tag=redken08-20) por 46.49 EUR (original: 89.99 EUR) en el siguiente enlace!

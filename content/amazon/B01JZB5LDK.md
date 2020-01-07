@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01JZB5LDK
 description:
+actualPrice: 3.72 EUR
+comparePrice: 6 EUR
+inStock: true
 ---
 
 Tienes [Rimmel London Scandaleyes Micro Eyeliner Liners Tono 1 - 8 gr](https://www.amazon.com/dp/B01JZB5LDK/?tag=redken08-20) a precio de oferta de 3.72 EUR (original: 6 EUR) en el siguiente enlace!

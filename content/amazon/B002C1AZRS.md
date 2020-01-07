@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B002C1AZRS
 description:
+actualPrice: 19.95 EUR
+comparePrice: 35.84 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Shock Absorber Classic Support - Sujetador deportivo para mujer para mujer  color blanco  talla 95A  Talla fabricante: 36A ](https://www.amazon.com/dp/B002C1AZRS/?tag=redken08-20) a 19.95 EUR (original: 35.84 EUR) en el siguiente enlace!

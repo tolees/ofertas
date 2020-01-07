@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BP7QVN2
 description:
+actualPrice: 53.66 EUR
+comparePrice: 84.95 EUR
+inStock: true
 ---
 
 Tienes [Wrangler Greensboro Regular Jeans Vaqueros  Azul  Indigo Wit 25f   33W / 32L para Hombre](https://www.amazon.com/dp/B07BP7QVN2/?tag=redken08-20) a precio de oferta de 53.66 EUR (original: 84.95 EUR) en el siguiente enlace!

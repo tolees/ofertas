@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B072K4XGXB
 description:
+actualPrice: 8.99 EUR
+comparePrice: 17.86 EUR
+inStock: true
 ---
 
 Está [Decyam Comedero de Perros para ralentizar la Comida  Divertida búsqueda de alimento](https://www.amazon.com/dp/B072K4XGXB/?tag=redken08-20) por 8.99 EUR (original: 17.86 EUR) en el siguiente enlace!

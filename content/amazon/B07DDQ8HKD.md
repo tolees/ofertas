@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DDQ8HKD
 description:
+actualPrice: 21.24 EUR
+comparePrice: 44.95 EUR
+inStock: true
 ---
 
 Tienes [Vila Clothes Viplace V-Neck Knit Top-Noos suéter  Beige  Natural Melange   42  Talla del Fabricante: Large  para Mujer](https://www.amazon.com/dp/B07DDQ8HKD/?tag=redken08-20) a precio de oferta de 21.24 EUR (original: 44.95 EUR) en el siguiente enlace!

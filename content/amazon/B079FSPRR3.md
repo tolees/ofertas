@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079FSPRR3
 description:
+actualPrice: 16.5 EUR
+comparePrice: 35.25 EUR
+inStock: true
 ---
 
 Está [find. Botín de Ante con Tacón Western Mujer  Negro  Black Black   38 EU](https://www.amazon.com/dp/B079FSPRR3/?tag=redken08-20) por 16.5 EUR (original: 35.25 EUR) en el siguiente enlace!

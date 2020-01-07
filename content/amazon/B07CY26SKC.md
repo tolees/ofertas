@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CY26SKC
 description:
+actualPrice: 24.79 EUR
+comparePrice: 60 EUR
+inStock: true
 ---
 
 Está [Nike Court Royale AC  Zapatillas para Mujer  Negro  Black/White 001   36.5 EU](https://www.amazon.com/dp/B07CY26SKC/?tag=redken08-20) por 24.79 EUR (original: 60 EUR) en el siguiente enlace!

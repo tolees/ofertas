@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077TVN6ZW
 description:
+actualPrice: 19.47 EUR
+comparePrice: 54.95 EUR
+inStock: true
 ---
 
 Está [Reebok Work N Cushion 3.0  Zapatillas de Marcha Nórdica para Hombre  Blanco  White/Steel 0   40.5 EU](https://www.amazon.com/dp/B077TVN6ZW/?tag=redken08-20) por 19.47 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GWSVDY8
 description:
+actualPrice: 288.99 EUR
+comparePrice: 499 EUR
+inStock: true
 ---
 
 Está [Suunto 9 Multisport-GPS-Uhr  Unisex  Verde  Talla Única](https://www.amazon.com/dp/B07GWSVDY8/?tag=redken08-20) por 288.99 EUR (original: 499 EUR) en el siguiente enlace!

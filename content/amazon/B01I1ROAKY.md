@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01I1ROAKY
 description:
+actualPrice: 42.93 EUR
+comparePrice: 70.62 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Diesel Pulsera de Hombre con Acero Inoxidable](https://www.amazon.com/dp/B01I1ROAKY/?tag=redken08-20) a 42.93 EUR (original: 70.62 EUR) en el siguiente enlace!

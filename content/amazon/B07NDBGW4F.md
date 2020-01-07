@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NDBGW4F
 description:
+actualPrice: 11.98 GBP
+comparePrice: 17.99 GBP
+inStock: true
 ---
 
 Está [LEGO 41165 Disney Frozen II Anna s Canoe Expedition

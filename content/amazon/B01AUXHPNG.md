@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AUXHPNG
 description:
+actualPrice: 3.99 EUR
+comparePrice: 8.1 EUR
+inStock: true
 ---
 
 Tienes [amscan - Velas de cumpleaños Mario Bros  171554 ](https://www.amazon.com/dp/B01AUXHPNG/?tag=redken08-20) a precio de oferta de 3.99 EUR (original: 8.1 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KCXZ9HY
 description:
+actualPrice: 5 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Tienes [Fortnite Helmet Blue - Camiseta  color gris  talla S](https://www.amazon.com/dp/B07KCXZ9HY/?tag=redken08-20) a precio de oferta de 5 EUR (original: 14.99 EUR) en el siguiente enlace!

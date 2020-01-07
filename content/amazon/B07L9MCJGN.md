@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07L9MCJGN
 description:
+actualPrice: 51.99 EUR
+comparePrice: 79.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Tacklife Sierra de Calar  Caladora  -37% por【OGMOIBTB】  Corte en Madera: 100mm  800W 3000SPM  Sierra Caladora con LED Láser  6 Hojas para Madera Metal Plástico  Velocidades Ajustables  1-6  PJS02A](https://www.amazon.com/dp/B07L9MCJGN/?tag=redken08-20) a 51.99 EUR (original: 79.99 EUR) en el siguiente enlace!

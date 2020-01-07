@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00HY7LV6E
 description:
+actualPrice: 12.54 EUR
+comparePrice: 22.99 EUR
+inStock: true
 ---
 
 Está [Bosch 2607017322 Rainbow Evo Set destornillador con trinquete pequeño  26 piezas](https://www.amazon.com/dp/B00HY7LV6E/?tag=redken08-20) por 12.54 EUR (original: 22.99 EUR) en el siguiente enlace!

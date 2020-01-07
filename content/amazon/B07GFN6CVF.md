@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GFN6CVF
 description:
+actualPrice: 392.07 EUR
+comparePrice: 991.54 EUR
+inStock: true
 ---
 
 Tienes [YD295XA8AFWOF AMD Ryzen Threadripper 2950X  16x 3.50GHz  boxed ohne Kühler Schwarz](https://www.amazon.com/dp/B07GFN6CVF/?tag=redken08-20) a precio de oferta de 392.07 EUR (original: 991.54 EUR) en el siguiente enlace!

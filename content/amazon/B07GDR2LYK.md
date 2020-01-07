@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GDR2LYK
 description:
+actualPrice: 249 EUR
+comparePrice: 379 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sony WH-1000XM3 Bluetooth Noise Cancelling Kopfhörer  30h Akku  Touch Sensor  Headphones Connect App  Schnellladefunktion  Amazon Alexa  schwarz](https://www.amazon.com/dp/B07GDR2LYK/?tag=redken08-20) a 249 EUR (original: 379 EUR) en el siguiente enlace!

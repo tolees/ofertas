@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01LQ4BLUG
 description:
+actualPrice: 7.99 EUR
+comparePrice: 14.99 EUR
+inStock: true
 ---
 
 Está [Razer Goliathus - Suave Alfombrilla de Ratón para Juegos   control  fissure  small ](https://www.amazon.com/dp/B01LQ4BLUG/?tag=redken08-20) por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

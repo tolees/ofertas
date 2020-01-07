@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DJ6DHD2
 description:
+actualPrice: 39.99 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Geox Herren U Wells C Sneaker  Grau  Smoke Grey C9006   42 EU](https://www.amazon.com/dp/B07DJ6DHD2/?tag=redken08-20) a 39.99 EUR (original: 99.95 EUR) en el siguiente enlace!

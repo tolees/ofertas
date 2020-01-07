@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07BQBYFXV
 description:
+actualPrice: 10.99 EUR
+comparePrice: 18.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lamina Magnetica Adhesiva  Bingolar Cuadrados magnéticos anisotrópicos fuertes  Mantenga 100g  Cuadrados de cinta magnética  25 x 25 x 2mm   cuadrados de imán flexible perfecto para la organización](https://www.amazon.com/dp/B07BQBYFXV/?tag=redken08-20) a 10.99 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SR3L9YB
 description:
+actualPrice: 13.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Bizak- Detective Pikachu Multi 6 Figuras  63227602 ](https://www.amazon.com/dp/B07SR3L9YB/?tag=redken08-20) a 13.99 EUR (original: 39.99 EUR) en el siguiente enlace!

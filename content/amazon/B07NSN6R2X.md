@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07NSN6R2X
 description:
+actualPrice: 23.99 EUR
+comparePrice: 37.94 EUR
+inStock: true
 ---
 
 Tienes [Funko 39547 POP Vinyl Squarepants S3: Spongebob w/Pineapple Sammelbares Spielzeug  Mehrfarben  Standard](https://www.amazon.com/dp/B07NSN6R2X/?tag=redken08-20) a precio de oferta de 23.99 EUR (original: 37.94 EUR) en el siguiente enlace!

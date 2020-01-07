@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00TSAE83I
 description:
+actualPrice: 10.16 EUR
+comparePrice: 16.56 EUR
+inStock: true
 ---
 
 Está [Scholl Plantillas Gel Activ Uso Diario Mujer  35.5-40.5  1 par](https://www.amazon.com/dp/B00TSAE83I/?tag=redken08-20) por 10.16 EUR (original: 16.56 EUR) en el siguiente enlace!

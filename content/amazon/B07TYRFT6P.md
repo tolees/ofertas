@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TYRFT6P
 description:
+actualPrice: 6.41 EUR
+comparePrice: 12.2 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pop Doctor Who Kerblam Man Vinyl Figure](https://www.amazon.com/dp/B07TYRFT6P/?tag=redken08-20) a 6.41 EUR (original: 12.2 EUR) en el siguiente enlace!

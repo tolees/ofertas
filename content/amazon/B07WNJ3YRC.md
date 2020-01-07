@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WNJ3YRC
 description:
+actualPrice: 22.17 EUR
+comparePrice: 36.95 EUR
+inStock: true
 ---
 
 Tienes [YOSICIL Zapatos de la Princesa Elsa niñas con Lentejuela Zapato de Disfraz Elsa Frozen de Princesa Disfraz Sandalias con Velcro Tacón Zapatos de Fiesta Halloween Cumpleaños Azul EU22-35](https://www.amazon.com/dp/B07WNJ3YRC/?tag=redken08-20) a precio de oferta de 22.17 EUR (original: 36.95 EUR) en el siguiente enlace!

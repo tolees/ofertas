@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071YM9LWN
 description:
+actualPrice: 3.96 EUR
+comparePrice: 7 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Rimmel London Stay Matte Liquid Lip Colour Barra De Labios Tono 110  5.5 ml](https://www.amazon.com/dp/B071YM9LWN/?tag=redken08-20) a 3.96 EUR (original: 7 EUR) en el siguiente enlace!

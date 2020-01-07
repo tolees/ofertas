@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DF9CH4L
 description:
+actualPrice: 7.11 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Pop! One Piece - Figura de Vinilo Nico Robin](https://www.amazon.com/dp/B07DF9CH4L/?tag=redken08-20) a 7.11 EUR (original: 15.95 EUR) en el siguiente enlace!

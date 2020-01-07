@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XRHFJDC
 description:
+actualPrice: 30.54 EUR
+comparePrice: 48 EUR
+inStock: true
 ---
 
 Tienes [Precision](https://www.amazon.com/dp/B06XRHFJDC/?tag=redken08-20) a precio de oferta de 30.54 EUR (original: 48 EUR) en el siguiente enlace!

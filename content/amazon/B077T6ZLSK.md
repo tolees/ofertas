@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077T6ZLSK
 description:
+actualPrice: 16.49 EUR
+comparePrice: 27.99 EUR
+inStock: true
 ---
 
 Está [Matifi Lámpara Ultravioleta para secado de uñas. 48W. Tecnología UV LED. Ideal para uñas de gel y todo tipo de manicura. Con 4 modos de temporizador](https://www.amazon.com/dp/B077T6ZLSK/?tag=redken08-20) por 16.49 EUR (original: 27.99 EUR) en el siguiente enlace!

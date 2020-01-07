@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01G7BAXNY
 description:
+actualPrice: 90.86 EUR
+comparePrice: 149 EUR
+inStock: true
 ---
 
 Tienes [Henry London Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 5018479079903](https://www.amazon.com/dp/B01G7BAXNY/?tag=redken08-20) a precio de oferta de 90.86 EUR (original: 149 EUR) en el siguiente enlace!

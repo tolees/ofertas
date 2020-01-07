@@ -1,19 +1,22 @@
 ---
 layout: post
-title: 'B01IHZNSXU - Ofertón en Amazon para The North Face Full Zip Chaqueta 100 Gla'
+title: 'B01IHZNSXU: Rebaja en The North Face Full Zip Chaqueta 100 Gla en Amazon'
 date: 2019/12/27 02:30:06 +0000
-image: 'None._SL200_'
 comments: true
+image: 'None._SL200_'
 category: ofertas
 author: ring
 slug: B01IHZNSXU
 description:
+actualPrice: 44.09 EUR
+comparePrice: 75 EUR
+inStock: true
 ---
 
-Tienes [The North Face Full Zip Chaqueta 100 Glacier  Hombre  Negro  Tnf Black   M](https://www.amazon.com/dp/B01IHZNSXU/?tag=redken08-20) a precio de oferta de 44.09 EUR (original: 75 EUR) en el siguiente enlace!
+Está [The North Face Full Zip Chaqueta 100 Glacier  Hombre  Negro  Tnf Black   M](https://www.amazon.com/dp/B01IHZNSXU/?tag=redken08-20) por 44.09 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B01IHZNSXU/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01IHZNSXU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01IHZNSXU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MD24OWD
 description:
+actualPrice: 79.99 EUR
+comparePrice: 159.97 EUR
+inStock: true
 ---
 
 Está [JBL Charge 3 - Altavoz portátil con Bluetooth  Camuflaje](https://www.amazon.com/dp/B01MD24OWD/?tag=redken08-20) por 79.99 EUR (original: 159.97 EUR) en el siguiente enlace!

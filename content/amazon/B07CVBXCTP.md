@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CVBXCTP
 description:
+actualPrice: 11.98 EUR
+comparePrice: 19.98 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Paquete de 6 Piezas de Ropa Interior de Niña de Algodón de Entre 1 y 7 años  Bragas para Niñas Ropa Interior de Niña Pequeña  Unicornio  1-3 años/cintura 15.6"  altura 33" -37" ](https://www.amazon.com/dp/B07CVBXCTP/?tag=redken08-20) a 11.98 EUR (original: 19.98 EUR) en el siguiente enlace!

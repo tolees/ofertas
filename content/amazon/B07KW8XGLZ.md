@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KW8XGLZ
 description:
+actualPrice: 16.15 EUR
+comparePrice: 24.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Lego Wear Jungen LWTIGER 650-T-SHIRT L/S Langarmshirt  Grün  Green 866    Herstellergröße: 104 ](https://www.amazon.com/dp/B07KW8XGLZ/?tag=redken08-20) a 16.15 EUR (original: 24.95 EUR) en el siguiente enlace!

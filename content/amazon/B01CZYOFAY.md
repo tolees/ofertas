@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01CZYOFAY
 description:
+actualPrice: 64.05 EUR
+comparePrice: 109 EUR
+inStock: true
 ---
 
 Está [Nerf - Lanzadardos Mega Mastodon  Hasbro B8086EU4 ](https://www.amazon.com/dp/B01CZYOFAY/?tag=redken08-20) por 64.05 EUR (original: 109 EUR) en el siguiente enlace!

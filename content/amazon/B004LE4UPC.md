@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B004LE4UPC
 description:
+actualPrice: 4.98 EUR
+comparePrice: 7.99 EUR
+inStock: true
 ---
 
 Está [Philips Avent SCF636/27 - Tetina de silicona anti-cólicos para cereales  compatibles con el biberón Classic  6m+](https://www.amazon.com/dp/B004LE4UPC/?tag=redken08-20) por 4.98 EUR (original: 7.99 EUR) en el siguiente enlace!

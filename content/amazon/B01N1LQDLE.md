@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1LQDLE
 description:
+actualPrice: 21.99 EUR
+comparePrice: 44.99 EUR
+inStock: true
 ---
 
 Está [Pecute Cama de Perros y Gatos Básica Cama de Suave Gamuza para Perros y Gatos de Color Gris S 53 * 43cm ](https://www.amazon.com/dp/B01N1LQDLE/?tag=redken08-20) por 21.99 EUR (original: 44.99 EUR) en el siguiente enlace!

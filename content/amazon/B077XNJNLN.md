@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077XNJNLN
 description:
+actualPrice: 25.99 EUR
+comparePrice: 55 EUR
+inStock: true
 ---
 
 Está [Under Armour Rival Fleece Logo Hoodie Sudadera  Hombre  Gris  Steel Light Heather/Black 035   L](https://www.amazon.com/dp/B077XNJNLN/?tag=redken08-20) por 25.99 EUR (original: 55 EUR) en el siguiente enlace!

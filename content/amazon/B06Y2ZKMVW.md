@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06Y2ZKMVW
 description:
+actualPrice: 44.18 EUR
+comparePrice: 90 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New Balance 574 Core Zapatillas Hombre  Azul  Blue Navy   40 EU  6.5 UK ](https://www.amazon.com/dp/B06Y2ZKMVW/?tag=redken08-20) a 44.18 EUR (original: 90 EUR) en el siguiente enlace!

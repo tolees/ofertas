@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07FLJ9DWJ
 description:
+actualPrice: 34.97 EUR
+comparePrice: 54.97 EUR
+inStock: true
 ---
 
 Tienes [KLIMTM Chroma Wireless - Teclado Inalámbrico Gaming ESPAÑOL + Teclado Gaming Ligero  Duradero  resiste al Agua  ergonómico  silencioso + Teclado Gamer PC PS4 Xbox One Mac + Nueva VERSIÓN 2020 + Negro](https://www.amazon.com/dp/B07FLJ9DWJ/?tag=redken08-20) a precio de oferta de 34.97 EUR (original: 54.97 EUR) en el siguiente enlace!

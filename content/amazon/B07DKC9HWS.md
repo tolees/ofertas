@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07DKC9HWS
 description:
+actualPrice: 25.99 EUR
+comparePrice: 45.95 EUR
+inStock: true
 ---
 
 Está [Puma ESS Hoody TR Big Logo Sweatshirt  Hombre  Negro Black  M](https://www.amazon.com/dp/B07DKC9HWS/?tag=redken08-20) por 25.99 EUR (original: 45.95 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D3L1GNW
 description:
+actualPrice: 13.22 EUR
+comparePrice: 24.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Diset - Hashtag  juego de mesa](https://www.amazon.com/dp/B07D3L1GNW/?tag=redken08-20) a 13.22 EUR (original: 24.95 EUR) en el siguiente enlace!

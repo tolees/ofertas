@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07GL7WYNW
 description:
+actualPrice: 139.99 EUR
+comparePrice: 279 EUR
+inStock: true
 ---
 
 Está [Fossil Smartwatch FTW4018](https://www.amazon.com/dp/B07GL7WYNW/?tag=redken08-20) por 139.99 EUR (original: 279 EUR) en el siguiente enlace!

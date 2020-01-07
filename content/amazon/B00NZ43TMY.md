@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NZ43TMY
 description:
+actualPrice: 5.95 EUR
+comparePrice: 18.22 EUR
+inStock: true
 ---
 
 Está [Star Wars - Cuaderno 3D  15 x 21 cm  Mercury 23796/17962 ](https://www.amazon.com/dp/B00NZ43TMY/?tag=redken08-20) por 5.95 EUR (original: 18.22 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RTKB1WF
 description:
+actualPrice: 16.19 EUR
+comparePrice: 34.99 EUR
+inStock: true
 ---
 
 Está [Oral-B Kids Cars Elektrische Zahnbürste mit Disney-Stickern  für Kinder ab 3 Jahren  rot  1 Stück](https://www.amazon.com/dp/B07RTKB1WF/?tag=redken08-20) por 16.19 EUR (original: 34.99 EUR) en el siguiente enlace!

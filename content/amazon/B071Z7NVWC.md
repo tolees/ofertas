@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B071Z7NVWC
 description:
+actualPrice: 11.69 EUR
+comparePrice: 23.99 EUR
+inStock: true
 ---
 
 Tienes [ONTA® Auriculares para Niños Plegable Cómodos Auriculares Niños con Seguro Material Auriculares Infantiles con Ligera Diadema Estéreo Cerrados Cascos para Niños -Azul](https://www.amazon.com/dp/B071Z7NVWC/?tag=redken08-20) a precio de oferta de 11.69 EUR (original: 23.99 EUR) en el siguiente enlace!

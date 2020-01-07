@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HFFNCVC
 description:
+actualPrice: 15.77 EUR
+comparePrice: 29 EUR
+inStock: true
 ---
 
 Tienes [Tommy Hilfiger Tju Sport Cap Gorra de béisbol  Azul  Coporate Mix 901   Talla única  Talla del Fabricante: OS  Unisex Adulto](https://www.amazon.com/dp/B07HFFNCVC/?tag=redken08-20) a precio de oferta de 15.77 EUR (original: 29 EUR) en el siguiente enlace!

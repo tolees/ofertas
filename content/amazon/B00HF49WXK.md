@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00HF49WXK
 description:
+actualPrice: 43.05 EUR
+comparePrice: 79 EUR
+inStock: true
 ---
 
 Tienes [Timex Expedition - Reloj análogico de cuarzo con correa de cuero para hombre  Marrón  Marrón/Beige ](https://www.amazon.com/dp/B00HF49WXK/?tag=redken08-20) a precio de oferta de 43.05 EUR (original: 79 EUR) en el siguiente enlace!

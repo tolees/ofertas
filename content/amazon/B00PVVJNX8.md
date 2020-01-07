@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00PVVJNX8
 description:
+actualPrice: 28.49 EUR
+comparePrice: 44.95 EUR
+inStock: true
 ---
 
 Está [Calvin Klein Underwear Perfectly FIT-Memory Touch Push-UP Sujetador  Black 001  85C para Mujer](https://www.amazon.com/dp/B00PVVJNX8/?tag=redken08-20) por 28.49 EUR (original: 44.95 EUR) en el siguiente enlace!

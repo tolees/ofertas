@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07T2YBXCY
 description:
+actualPrice: 11.99 GBP
+comparePrice: 19.99 GBP
+inStock: true
 ---
 
 Está [H0_V Military Army Weapons  Army Weapons Accessories Set DIY Building Block Accessory Kit Military Building Blocks Toys for Children](https://www.amazon.com/dp/B07T2YBXCY/?tag=redken08-20) por 11.99 GBP (original: 19.99 GBP) en el siguiente enlace!

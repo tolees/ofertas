@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MKQQRPK
 description:
+actualPrice: 17.89 EUR
+comparePrice: 32.53 EUR
+inStock: true
 ---
 
 Está [Towinle Caja Pulseras Gomas 6800 Bandas de Silicona Para Hacer Pulseras De Colores Loom Kit para Pulseras](https://www.amazon.com/dp/B07MKQQRPK/?tag=redken08-20) por 17.89 EUR (original: 32.53 EUR) en el siguiente enlace!

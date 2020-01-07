@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N64QAMJ
 description:
+actualPrice: 27.55 EUR
+comparePrice: 59 EUR
+inStock: true
 ---
 
 Está [Superga 2750 COTU Classic  Zapatillas Unisex  Verde  Green Aqua   41 EU](https://www.amazon.com/dp/B01N64QAMJ/?tag=redken08-20) por 27.55 EUR (original: 59 EUR) en el siguiente enlace!

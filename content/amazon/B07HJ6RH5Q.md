@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HJ6RH5Q
 description:
+actualPrice: 8.55 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Tienes [Funko - POP Vinyl Animación Morty: Profesor Rick  35590 ](https://www.amazon.com/dp/B07HJ6RH5Q/?tag=redken08-20) a precio de oferta de 8.55 EUR (original: 15.95 EUR) en el siguiente enlace!

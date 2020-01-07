@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F2LSWVC
 description:
+actualPrice: 82.43 EUR
+comparePrice: 190 EUR
+inStock: true
 ---
 
 Tienes [Helly Hansen HP Racing Midlayer Lifaloft Cuello Forro Polar Marina Deportes Navegación Chaqueta Impermeable  Hombre  Ebony  M](https://www.amazon.com/dp/B07F2LSWVC/?tag=redken08-20) a precio de oferta de 82.43 EUR (original: 190 EUR) en el siguiente enlace!

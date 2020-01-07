@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07LBMVM8Z
 description:
+actualPrice: 22.66 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Kappa 242373-1611  Botas de Invierno Cuero sintético Textil  Gris  46 EU](https://www.amazon.com/dp/B07LBMVM8Z/?tag=redken08-20) a 22.66 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D1HMKVK
 description:
+actualPrice: 21 EUR
+comparePrice: 31.5 EUR
+inStock: true
 ---
 
 Está [find. Stud Detail Vaqueros skinny  Azul  Light Indigo   W30/L32  Talla del fabricante: 40 ](https://www.amazon.com/dp/B07D1HMKVK/?tag=redken08-20) por 21 EUR (original: 31.5 EUR) en el siguiente enlace!

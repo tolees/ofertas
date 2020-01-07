@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01AADHRTI
 description:
+actualPrice: 14.89 EUR
+comparePrice: 25 EUR
+inStock: true
 ---
 
 Tienes [Nike Club Legging Logo 2 Mallas  Mujer  Multicolor  Dk Grey Heather/White/White   L](https://www.amazon.com/dp/B01AADHRTI/?tag=redken08-20) a precio de oferta de 14.89 EUR (original: 25 EUR) en el siguiente enlace!

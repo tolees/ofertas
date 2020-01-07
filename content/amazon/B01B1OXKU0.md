@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01B1OXKU0
 description:
+actualPrice: 399 EUR
+comparePrice: 699 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Kenwood KCook Multi CCL401WH - Robot de Cocina  1500 W  Hasta 180ªC Temperatura  Capacidad 7.2 L  Incluye Bol 4.5 L   6 Programas Predefinidos  Set Accesorios Incluidos  Fácil Uso](https://www.amazon.com/dp/B01B1OXKU0/?tag=redken08-20) a 399 EUR (original: 699 EUR) en el siguiente enlace!

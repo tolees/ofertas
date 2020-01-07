@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00JVTJDGS
 description:
+actualPrice: 32 EUR
+comparePrice: 65 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Fossil Collar de Mujer con Acero Inoxidable  Cristal Blanco](https://www.amazon.com/dp/B00JVTJDGS/?tag=redken08-20) a 32 EUR (original: 65 EUR) en el siguiente enlace!

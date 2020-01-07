@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B077V6BWXW
 description:
+actualPrice: 11.25 EUR
+comparePrice: 19.49 EUR
+inStock: true
 ---
 
 Tienes [Kipling Creativity L  Monedero para Mujer  Azul  True Navy   18.5x11x5 cm](https://www.amazon.com/dp/B077V6BWXW/?tag=redken08-20) a precio de oferta de 11.25 EUR (original: 19.49 EUR) en el siguiente enlace!

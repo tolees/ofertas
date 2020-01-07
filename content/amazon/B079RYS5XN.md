@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B079RYS5XN
 description:
+actualPrice: 84.99 EUR
+comparePrice: 149.99 EUR
+inStock: true
 ---
 
 Tienes [IntimaTe WM Heart Silla de Oficina giratoria con Respaldo Alto  ergonómica  inclinación  reposabrazos Plegables  Color Negro N03C](https://www.amazon.com/dp/B079RYS5XN/?tag=redken08-20) a precio de oferta de 84.99 EUR (original: 149.99 EUR) en el siguiente enlace!

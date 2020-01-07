@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07ST89MGP
 description:
+actualPrice: 14.89 EUR
+comparePrice: 22.89 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [New front Niñas Vestido de Princesa Elsa Elegante Disfraz de Reina Frozen Festivo y Accesorios Corona Vara Trenza Guantes Chica Cosplay Traje de Fiesta Carnaval Navidad Boda 2-10 Años Azul 110-150cm ](https://www.amazon.com/dp/B07ST89MGP/?tag=redken08-20) a 14.89 EUR (original: 22.89 EUR) en el siguiente enlace!

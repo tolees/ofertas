@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07RL7TSM1
 description:
+actualPrice: 98.8 GBP
+comparePrice: 153.83 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [Intel Optane Memory H10 32GB 512GB M.2 80mm PC](https://www.amazon.com/dp/B07RL7TSM1/?tag=redken08-20) a 98.8 GBP (original: 153.83 GBP) en el siguiente enlace!

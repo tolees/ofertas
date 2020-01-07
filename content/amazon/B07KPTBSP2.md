@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KPTBSP2
 description:
+actualPrice: 5 GBP
+comparePrice: 9.11 GBP
+inStock: true
 ---
 
 Está [Funko 36673 POP Bobble: Avengers Endgame: War Machine  Multi](https://www.amazon.com/dp/B07KPTBSP2/?tag=redken08-20) por 5 GBP (original: 9.11 GBP) en el siguiente enlace!

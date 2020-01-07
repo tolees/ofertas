@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07KJZBHG6
 description:
+actualPrice: 12.95 EUR
+comparePrice: 65 EUR
+inStock: true
 ---
 
 Está [BILLABONG Scheme Cargo Pantalones Cortos Deportivos  Verde  Light Khaki 1222   36  Tamaño del Fabricante:28  para Hombre](https://www.amazon.com/dp/B07KJZBHG6/?tag=redken08-20) por 12.95 EUR (original: 65 EUR) en el siguiente enlace!

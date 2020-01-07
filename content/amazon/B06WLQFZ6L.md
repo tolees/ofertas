@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06WLQFZ6L
 description:
+actualPrice: 260.95 EUR
+comparePrice: 506.99 EUR
+inStock: true
 ---
 
 Tienes [Grohe Essence Professional - Grifo de fregadero monomando  caño giratorio de 360°  caño alto  dos opciones de chorro  30294000 ](https://www.amazon.com/dp/B06WLQFZ6L/?tag=redken08-20) a precio de oferta de 260.95 EUR (original: 506.99 EUR) en el siguiente enlace!

@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00SN4GQEY
 description:
+actualPrice: 50 EUR
+comparePrice: 79.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Chicco Steril Natural 3en1 - Esterilizador eléctrico de hasta 6 biberones en 5 minutos](https://www.amazon.com/dp/B00SN4GQEY/?tag=redken08-20) a 50 EUR (original: 79.95 EUR) en el siguiente enlace!

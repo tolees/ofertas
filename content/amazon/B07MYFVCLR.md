@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MYFVCLR
 description:
+actualPrice: 52.72 EUR
+comparePrice: 84.16 EUR
+inStock: true
 ---
 
 Está [Pepe Jeans Cane Vaqueros  Medium Used Denim Bb6  30W / 34L para Hombre](https://www.amazon.com/dp/B07MYFVCLR/?tag=redken08-20) por 52.72 EUR (original: 84.16 EUR) en el siguiente enlace!

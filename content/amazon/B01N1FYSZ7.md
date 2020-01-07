@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01N1FYSZ7
 description:
+actualPrice: 75.47 EUR
+comparePrice: 129.99 EUR
+inStock: true
 ---
 
 Está [Pioneer SE-MS7BT  Auriculares de Tipo Diadema  Hires  Power Bass   Cable/NFC/Bluetooth  25.5 x 20 x 11 cm  Marrón](https://www.amazon.com/dp/B01N1FYSZ7/?tag=redken08-20) por 75.47 EUR (original: 129.99 EUR) en el siguiente enlace!

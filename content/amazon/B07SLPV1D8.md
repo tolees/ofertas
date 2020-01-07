@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07SLPV1D8
 description:
+actualPrice: 99.9 EUR
+comparePrice: 159.9 EUR
+inStock: true
 ---
 
 Está [Lisabed Flex - Pack Colchón_2 Almohadas 200x140 - Bull-Flex Memory-Soft  núcleo Fresh Natur  Gama Prestige Hotel  16cm](https://www.amazon.com/dp/B07SLPV1D8/?tag=redken08-20) por 99.9 EUR (original: 159.9 EUR) en el siguiente enlace!

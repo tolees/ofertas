@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01M8M6ETG
 description:
+actualPrice: 14.95 EUR
+comparePrice: 31.95 EUR
+inStock: true
 ---
 
 Está [DANISH ENDURANCE Calcetines de Compresión de Algodón Orgánico Pack de 1  Azul  EU 43-47 // UK 9.5-12.5 ](https://www.amazon.com/dp/B01M8M6ETG/?tag=redken08-20) por 14.95 EUR (original: 31.95 EUR) en el siguiente enlace!

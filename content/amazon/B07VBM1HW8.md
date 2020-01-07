@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VBM1HW8
 description:
+actualPrice: 52.99 GBP
+comparePrice: 105.98 GBP
+inStock: true
 ---
 
 Ahora mismo tienes [GODNECE Light Set for Lego  Led Lighting Kit for Lego Led Light kit Compatible With LEGO Star Wars Tantive IV 75244  NOT Included The Model ](https://www.amazon.com/dp/B07VBM1HW8/?tag=redken08-20) a 52.99 GBP (original: 105.98 GBP) en el siguiente enlace!

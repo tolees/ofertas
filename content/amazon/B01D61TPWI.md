@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01D61TPWI
 description:
+actualPrice: 42.99 EUR
+comparePrice: 71.9 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [TRANGO Brood Sn Pant. Pirata  Hombre  Kaki/Marron Oscuro  3XL](https://www.amazon.com/dp/B01D61TPWI/?tag=redken08-20) a 42.99 EUR (original: 71.9 EUR) en el siguiente enlace!

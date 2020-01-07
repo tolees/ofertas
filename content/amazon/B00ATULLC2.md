@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00ATULLC2
 description:
+actualPrice: 67.2 EUR
+comparePrice: 169 EUR
+inStock: true
 ---
 
 Tienes [Invicta 14397 Angel Reloj para Mujer acero inoxidable Cuarzo Esfera oro](https://www.amazon.com/dp/B00ATULLC2/?tag=redken08-20) a precio de oferta de 67.2 EUR (original: 169 EUR) en el siguiente enlace!

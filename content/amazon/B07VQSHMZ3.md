@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07VQSHMZ3
 description:
+actualPrice: 25.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [ENKEEO Ciclocomputadores Inalámbrica Recargable USB con Cadencia  Cuentakilómetros Impermeable para Bicicleta  Multifunción con Pantalla LCD Retroiluminada  para Ciclismo](https://www.amazon.com/dp/B07VQSHMZ3/?tag=redken08-20) a 25.99 EUR (original: 59.99 EUR) en el siguiente enlace!

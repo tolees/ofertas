@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07F2KQB8M
 description:
+actualPrice: 8.73 EUR
+comparePrice: 40.0 EUR
+inStock: true
 ---
 
 Está [SALOMON XA tee Camiseta  Mujer  Amarillo  Lemon Chrome   XS](https://www.amazon.com/dp/B07F2KQB8M/?tag=redken08-20) por 8.73 EUR (original: 40.0 EUR) en el siguiente enlace!

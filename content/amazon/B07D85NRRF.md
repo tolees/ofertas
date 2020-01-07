@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D85NRRF
 description:
+actualPrice: 9.95 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Ubisoft - Figurina Six Collection Series 2 Thermite](https://www.amazon.com/dp/B07D85NRRF/?tag=redken08-20) a 9.95 EUR (original: 24.99 EUR) en el siguiente enlace!

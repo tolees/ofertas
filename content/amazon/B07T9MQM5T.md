@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07T9MQM5T
 description:
+actualPrice: 75.88 EUR
+comparePrice: 119 EUR
+inStock: true
 ---
 
 Está [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 18689/1](https://www.amazon.com/dp/B07T9MQM5T/?tag=redken08-20) por 75.88 EUR (original: 119 EUR) en el siguiente enlace!

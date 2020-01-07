@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01HVA4DPE
 description:
+actualPrice: 12.74 EUR
+comparePrice: 24.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PJ Masks - Pack de 5 figuras  Bandai 24580   surtido: modelos aleatorios](https://www.amazon.com/dp/B01HVA4DPE/?tag=redken08-20) a 12.74 EUR (original: 24.99 EUR) en el siguiente enlace!

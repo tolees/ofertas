@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B01MCX7J5A
 description:
+actualPrice: 9.87 EUR
+comparePrice: 19 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [NGS Roller Glow 3 W Azul  Rojo - Altavoces portátiles  3 W  Inalámbrico y alámbrico  A2DP AVRCP  10 m  Azul  Rojo  Tablet/Smartphone ](https://www.amazon.com/dp/B01MCX7J5A/?tag=redken08-20) a 9.87 EUR (original: 19 EUR) en el siguiente enlace!

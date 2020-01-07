@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07CCR2DH6
 description:
+actualPrice: 12.5 EUR
+comparePrice: 20 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Camisa Formal Entallada de Sarga de Vestir Hombre  Gris  Grey   Large  Talla del fabricante: Large 16 ](https://www.amazon.com/dp/B07CCR2DH6/?tag=redken08-20) a 12.5 EUR (original: 20 EUR) en el siguiente enlace!

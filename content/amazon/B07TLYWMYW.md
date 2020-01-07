@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TLYWMYW
 description:
+actualPrice: 149.99 EUR
+comparePrice: 229.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Sabrent 1TB Rocket Nvme PCIe 4.0 M.2 2280 SSD Interno Unidad de Estado sólido de Rendimiento máximo  SB-ROCKET-NVMe4-1TB ](https://www.amazon.com/dp/B07TLYWMYW/?tag=redken08-20) a 149.99 EUR (original: 229.99 EUR) en el siguiente enlace!

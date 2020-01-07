@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B015XII0BO
 description:
+actualPrice: 54.63 EUR
+comparePrice: 99.95 EUR
+inStock: true
 ---
 
 Tienes [ClarksFranson Plain - Derby hombre  Marrón  Brown Nubuck   44.5](https://www.amazon.com/dp/B015XII0BO/?tag=redken08-20) a precio de oferta de 54.63 EUR (original: 99.95 EUR) en el siguiente enlace!

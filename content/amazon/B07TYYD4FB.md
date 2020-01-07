@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TYYD4FB
 description:
+actualPrice: 15.99 GBP
+comparePrice: 31.98 GBP
+inStock: true
 ---
 
 Tienes [TXXCI LED Light Kit Compatible with Lego 75105 Star Wars Millennium Falcon Not Include Model ](https://www.amazon.com/dp/B07TYYD4FB/?tag=redken08-20) a precio de oferta de 15.99 GBP (original: 31.98 GBP) en el siguiente enlace!

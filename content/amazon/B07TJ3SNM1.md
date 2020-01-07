@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07TJ3SNM1
 description:
+actualPrice: 62.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
 ---
 
 Está [Cámara de Video Videocámara Full HD 1080P Vlogging Cámara compacta 16X Digital Zoom para Youtube como WebCámara Pantalla de 270 Pulgadas de rotación TFT de 3.0 Pulgadas](https://www.amazon.com/dp/B07TJ3SNM1/?tag=redken08-20) por 62.99 EUR (original: 99.99 EUR) en el siguiente enlace!

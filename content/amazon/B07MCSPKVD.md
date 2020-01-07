@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07MCSPKVD
 description:
+actualPrice: 93.61 EUR
+comparePrice: 239 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Napapijri Rainforest W PKT 2 Chaqueta  Blanco  Whitecap Gray NS5   XL para Mujer](https://www.amazon.com/dp/B07MCSPKVD/?tag=redken08-20) a 93.61 EUR (original: 239 EUR) en el siguiente enlace!

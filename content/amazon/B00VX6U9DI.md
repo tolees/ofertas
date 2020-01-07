@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00VX6U9DI
 description:
+actualPrice: 7.99 EUR
+comparePrice: 12.95 EUR
+inStock: true
 ---
 
 Tienes [Revlon ColorStay Base de Maquillaje piel mixto/graso FPS15 30ml Sand Beige ](https://www.amazon.com/dp/B00VX6U9DI/?tag=redken08-20) a precio de oferta de 7.99 EUR (original: 12.95 EUR) en el siguiente enlace!

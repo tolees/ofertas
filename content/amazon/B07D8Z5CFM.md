@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D8Z5CFM
 description:
+actualPrice: 56.83 EUR
+comparePrice: 159 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Elli Premium Ring Damen Bandring Kreuz Symbol Modern Croix in 750 Roségold](https://www.amazon.com/dp/B07D8Z5CFM/?tag=redken08-20) a 56.83 EUR (original: 159 EUR) en el siguiente enlace!

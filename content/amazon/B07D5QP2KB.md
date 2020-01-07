@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D5QP2KB
 description:
+actualPrice: 14.49 EUR
+comparePrice: 24.18 EUR
+inStock: true
 ---
 
 Está [PUMA ESS Logo Pants  Mujer  Negro  Cotton Black   L](https://www.amazon.com/dp/B07D5QP2KB/?tag=redken08-20) por 14.49 EUR (original: 24.18 EUR) en el siguiente enlace!

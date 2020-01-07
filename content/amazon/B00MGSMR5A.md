@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00MGSMR5A
 description:
+actualPrice: 19.99 EUR
+comparePrice: 79 EUR
+inStock: true
 ---
 
 Tienes [Clips 539-6000-48 - Reloj de Pulsera Hombre  Caucho  Color Multicolor](https://www.amazon.com/dp/B00MGSMR5A/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 79 EUR) en el siguiente enlace!

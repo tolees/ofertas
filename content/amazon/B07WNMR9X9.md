@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07WNMR9X9
 description:
+actualPrice: 24.99 EUR
+comparePrice: 39.99 EUR
+inStock: true
 ---
 
 Tienes [Ropa Interior Térmica Hombre  Camiseta Térmica Hombre Deportes Ropa Interior Funcional Conjuntos Térmicos Termo Invierno Otoño con muy elástica para Running Esquí Montaña Ciclismo Fitness Negro XXL](https://www.amazon.com/dp/B07WNMR9X9/?tag=redken08-20) a precio de oferta de 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

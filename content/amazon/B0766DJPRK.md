@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B0766DJPRK
 description:
+actualPrice: 38.96 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla  Ab 4 Jahren](https://www.amazon.com/dp/B0766DJPRK/?tag=redken08-20) a 38.96 EUR (original: 59.99 EUR) en el siguiente enlace!

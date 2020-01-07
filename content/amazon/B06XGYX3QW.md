@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B06XGYX3QW
 description:
+actualPrice: 5.99 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Funko Vinyl: Valerian: Doghan Daguis  10 cm  14336 ](https://www.amazon.com/dp/B06XGYX3QW/?tag=redken08-20) a 5.99 EUR (original: 15.95 EUR) en el siguiente enlace!

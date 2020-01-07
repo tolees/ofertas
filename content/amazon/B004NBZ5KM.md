@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B004NBZ5KM
 description:
+actualPrice: 56 EUR
+comparePrice: 109 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [Fossil Reloj Analógico para Mujer de Cuarzo con Correa en Cuero ES2830](https://www.amazon.com/dp/B004NBZ5KM/?tag=redken08-20) a 56 EUR (original: 109 EUR) en el siguiente enlace!

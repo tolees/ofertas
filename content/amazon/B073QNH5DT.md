@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B073QNH5DT
 description:
+actualPrice: 21 EUR
+comparePrice: 52.5 EUR
+inStock: true
 ---
 
 Ahora mismo tienes [find. Chaqueta Efecto Piel para Mujer  Negro  Schwarz   40  Talla del Fabricante: Medium ](https://www.amazon.com/dp/B073QNH5DT/?tag=redken08-20) a 21 EUR (original: 52.5 EUR) en el siguiente enlace!

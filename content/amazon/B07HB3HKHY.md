@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07HB3HKHY
 description:
+actualPrice: 8.75 EUR
+comparePrice: 15.95 EUR
+inStock: true
 ---
 
 Tienes [Pop! Captain Marvel - Figura de Vinilo Vers](https://www.amazon.com/dp/B07HB3HKHY/?tag=redken08-20) a precio de oferta de 8.75 EUR (original: 15.95 EUR) en el siguiente enlace!

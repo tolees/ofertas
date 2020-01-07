@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B00NP2SBAG
 description:
+actualPrice: 29.99 EUR
+comparePrice: 59.99 EUR
+inStock: true
 ---
 
 Tienes [HOMCOM Alfombra puzle 192x192 cm Niños 3 años 36 Piezas Numeros 0 al 9 y 26 Letras Alfabeto Goma Espuma](https://www.amazon.com/dp/B00NP2SBAG/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

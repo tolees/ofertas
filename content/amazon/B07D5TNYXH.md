@@ -8,6 +8,9 @@ category: ofertas
 author: ring
 slug: B07D5TNYXH
 description:
+actualPrice: 15 EUR
+comparePrice: 29.99 EUR
+inStock: true
 ---
 
 Está [Celio Maestro Camisa  Blanc  Large para Hombre](https://www.amazon.com/dp/B07D5TNYXH/?tag=redken08-20) por 15 EUR (original: 29.99 EUR) en el siguiente enlace!
