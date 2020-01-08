@@ -4,6 +4,7 @@ title: 'Guzack Brazalete Deportivo Brazalete Cor'
 date: 2020-01-02 07:12:04
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J1r6ZQSML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J1r6ZQSML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07YB1QW9F

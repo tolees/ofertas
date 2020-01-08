@@ -4,6 +4,7 @@ title: 'BRIKSMAX Led Lighting Kit for Creator 3i'
 date: 2019/12/31 06:05:24 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ztZcNk75L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ztZcNk75L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WTCJ71J

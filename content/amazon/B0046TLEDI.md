@@ -3,6 +3,7 @@ layout: post
 title: 'Bering Ceramic - Reloj analógico de caba'
 date: 2019/12/18 14:26:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ubyh5y9mL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ubyh5y9mL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'JACK & JONES JORCAINE Sweat Crew Neck Su'
 date: 2019/12/13 10:48:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IkgPWGtbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IkgPWGtbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WGN5KM1

@@ -4,6 +4,7 @@ title: 'Tommy Hilfiger Tommy Jute City Sneaker  '
 date: 2019/12/28 19:19:30 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DOoUbWCuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DOoUbWCuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JQR8NSF

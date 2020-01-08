@@ -4,6 +4,7 @@ title: 'Lego Movie Camiseta de Manga Larga para '
 date: 2019/12/17 12:31:23 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hIV2PfkWL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hIV2PfkWL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PDXHVJ1

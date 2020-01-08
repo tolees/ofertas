@@ -4,6 +4,7 @@ title: 'Educa Borrás- Aldeas Infantiles Puzzle C'
 date: 2019/12/23 14:48:14 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51biTva2OYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51biTva2OYL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NQY83WY

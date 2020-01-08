@@ -3,6 +3,7 @@ layout: post
 title: 'Kempa  Pantalones infantil  color Azul  '
 date: 2019/12/30 17:21:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OXFEfM5fL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OXFEfM5fL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

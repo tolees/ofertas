@@ -4,6 +4,7 @@ title: 'Under Armour Forefront Rain Chaqueta  Mu'
 date: 2020-01-06 01:33:21
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XdU70hfQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XdU70hfQL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07QVLZQ4T

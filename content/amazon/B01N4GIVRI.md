@@ -4,6 +4,7 @@ title: 'find. BAY001013W170205 vaqueros mujer ci'
 date: 2019/12/23 10:28:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HZn4faFrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HZn4faFrL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01N4GIVRI

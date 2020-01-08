@@ -4,6 +4,7 @@ title: 'Guzack Riñonera Deportivo Bolso Cintura '
 date: 2020-01-02 16:48:42
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HDc9Rc5HL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HDc9Rc5HL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SQYF8ZR

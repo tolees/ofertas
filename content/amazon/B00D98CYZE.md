@@ -4,6 +4,7 @@ title: 'D-Link DWM-157 - Modem 3G USB 2.0 Libre '
 date: 2019/12/25 16:54:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BdTyqpbpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BdTyqpbpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00D98CYZE

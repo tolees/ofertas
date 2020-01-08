@@ -4,6 +4,7 @@ title: 'Dickies Kingsley - Sudadera para hombre '
 date: 2019/12/25 17:27:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PImvDpC-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PImvDpC-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00T76YOAU

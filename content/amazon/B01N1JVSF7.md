@@ -3,6 +3,7 @@ layout: post
 title: 'Cars Pista de coches Florida  Mattel FCW'
 date: 2019/12/13 16:25:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IknIx2lgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IknIx2lgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

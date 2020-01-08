@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Spike Vaqueros  Azul  Fonce D'
 date: 2019/12/28 21:34:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uQpA0zE-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

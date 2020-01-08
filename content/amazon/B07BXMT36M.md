@@ -3,6 +3,7 @@ layout: post
 title: 'Mini Proyector  Tenswall Portátil DLP Vi'
 date: 2020-01-02 20:14:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iqbCOtsjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iqbCOtsjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

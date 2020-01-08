@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Men s Blitzing 3.0 Cap Gorr'
 date: 2019/12/17 13:12:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ast8iKolL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ast8iKolL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

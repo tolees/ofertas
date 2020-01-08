@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Overwatch Lucio Figura de Vinilo  '
 date: 2019/12/25 11:07:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bCJyg8XZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bCJyg8XZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

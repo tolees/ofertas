@@ -4,6 +4,7 @@ title: 'Philips 328E9FJAB/00 80 cm  31 5 Zoll  C'
 date: 2019/12/22 19:08:37 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fQwuoToQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fQwuoToQL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CMJKPKG

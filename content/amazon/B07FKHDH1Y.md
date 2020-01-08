@@ -4,6 +4,7 @@ title: 'Philips SP9860/16 - Afeitadora  Máquina '
 date: 2019/12/14 09:49:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nvAibjn4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nvAibjn4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FKHDH1Y

@@ -3,6 +3,7 @@ layout: post
 title: 'SGODDE Pasamontañas Moto Invierno  Balac'
 date: 2019/12/16 11:17:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l-ExZNXXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l-ExZNXXL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

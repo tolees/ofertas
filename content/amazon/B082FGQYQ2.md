@@ -4,6 +4,7 @@ title: 'IWEMEK Disfraz Elsa Frozen 2 Vestido de '
 date: 2020-01-07 06:34:37
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413dmH4DosL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413dmH4DosL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B082FGQYQ2

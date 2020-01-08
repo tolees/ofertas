@@ -4,6 +4,7 @@ title: 'Freefly Frozen Girls Princess Costume Co'
 date: 2019/12/31 06:12:47 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FFVCCX0GL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FFVCCX0GL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07G86YQGR

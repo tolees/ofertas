@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Fuell Cell Propel  Zapatilla'
 date: 2019-12-31 17:53:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

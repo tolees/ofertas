@@ -4,6 +4,7 @@ title: 'Puma Flyer Runner  Zapatillas de Running'
 date: 2020-01-02 16:22:30
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zxu0DX2XL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KFZ7WY7

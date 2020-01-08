@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Cocinita de Juguete Playset Taburet'
 date: 2019/12/29 12:06:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a4ti894tL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a4ti894tL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

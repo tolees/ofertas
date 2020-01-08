@@ -3,6 +3,7 @@ layout: post
 title: 'KEXIN Memoria USB 64GB Tipo C y OTG Pend'
 date: 2020-01-02 10:35:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pw2XTvVYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pw2XTvVYL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

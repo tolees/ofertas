@@ -4,6 +4,7 @@ title: 'Tommee Tippee Sangenic Sistema avanzado '
 date: 2020-01-02 19:06:41
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OUxSPPfpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OUxSPPfpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KBGCPSG

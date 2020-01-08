@@ -4,6 +4,7 @@ title: 'Xnuoyo 15.6 Pulgadas TSA Mochila Antirro'
 date: 2019/12/20 10:37:13 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pkm%2B%2BEjWL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pkm%2B%2BEjWL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SVWVSCW

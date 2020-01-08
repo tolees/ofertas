@@ -4,6 +4,7 @@ title: 'Columbia Fleece Fast Trek II Full Zip Fo'
 date: 2019/12/11 17:40:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TykzzwbmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TykzzwbmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01AAJNB3I

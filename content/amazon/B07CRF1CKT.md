@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Pixlette Jeans  Azul  Dark Us'
 date: 2019/12/24 11:27:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4196uANVrEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4196uANVrEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

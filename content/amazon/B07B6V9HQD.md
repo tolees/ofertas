@@ -4,6 +4,7 @@ title: 'Salewa WS WILD HIKER MID GTX  Damen Trek'
 date: 2020-01-04 08:52:43
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kgT8wdewL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kgT8wdewL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B6V9HQD

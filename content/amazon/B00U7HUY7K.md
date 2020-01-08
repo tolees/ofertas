@@ -4,6 +4,7 @@ title: 'Smile Pin Up Style - Bolsa reversible pa'
 date: 2019/12/19 21:29:47 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j95yJ5exL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00U7HUY7K

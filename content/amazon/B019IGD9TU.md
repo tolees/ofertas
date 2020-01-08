@@ -3,6 +3,7 @@ layout: post
 title: 'OUTERDO Toy Storage Bag  Large Tidy Bag '
 date: 2020-01-05 22:12:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61PygzBvVAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61PygzBvVAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

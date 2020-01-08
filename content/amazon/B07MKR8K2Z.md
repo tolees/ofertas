@@ -4,6 +4,7 @@ title: 'Lacoste Sport Th3377 Camiseta  Negro  No'
 date: 2019/12/31 12:15:06 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fAL0yiwBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fAL0yiwBL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MKR8K2Z

@@ -4,6 +4,7 @@ title: 'LEGO Creator 31089 - Rennwagen'
 date: 2019/12/31 10:03:49 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uAnAVl0rL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uAnAVl0rL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FP6QNQ1

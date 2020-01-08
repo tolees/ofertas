@@ -3,6 +3,7 @@ layout: post
 title: 'Braun BN0021BKBKG - Reloj analógico de c'
 date: 2019/12/19 14:44:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414ZvIDVvvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414ZvIDVvvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

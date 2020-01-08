@@ -4,6 +4,7 @@ title: 'Ancestors Legacy - Conqueror s Edition'
 date: 2019/12/30 13:21:02 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I1--AAloL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I1--AAloL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WH17SZT

@@ -4,6 +4,7 @@ title: 'LIGE - Reloj analógico de Cuarzo para Ho'
 date: 2019/12/27 10:53:08 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t-iyh5jUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t-iyh5jUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B082FVZR5F

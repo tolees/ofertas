@@ -3,6 +3,7 @@ layout: post
 title: 'NAIXUES Smartwatch  Reloj Inteligente IP'
 date: 2020-01-07 11:32:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UZTwAoiEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UZTwAoiEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

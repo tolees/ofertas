@@ -4,6 +4,7 @@ title: 'Napapijri Serber LS Camiseta  Verde  Gre'
 date: 2019/12/11 17:16:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3177bkTM7hL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3177bkTM7hL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MVJS4FJ

@@ -3,6 +3,7 @@ layout: post
 title: 'HOMIEE Oxímetro de Pulso  Pulsioxímetro '
 date: 2020-01-03 18:06:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w%2B4sR889L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w%2B4sR889L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

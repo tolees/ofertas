@@ -4,6 +4,7 @@ title: 'Timbre Inalámbrico  VOXON Impermeable Do'
 date: 2019-12-31 17:35:46
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xQCWBb45L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xQCWBb45L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B4VWZ2H

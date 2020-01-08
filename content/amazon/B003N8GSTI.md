@@ -3,6 +3,7 @@ layout: post
 title: 'Triumph True Shape Sensation Maxi Culott'
 date: 2020-01-04 09:37:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418nI2lW%2BmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418nI2lW%2BmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

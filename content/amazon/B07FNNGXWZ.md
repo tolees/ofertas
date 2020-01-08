@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiace Jjharper WW Olive Ni'
 date: 2019/12/17 14:17:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

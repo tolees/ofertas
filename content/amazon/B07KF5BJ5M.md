@@ -4,6 +4,7 @@ title: 'Levi s unbasic  Hoodie Capucha  Blanco  '
 date: 2020-01-04 13:25:45
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KF5BJ5M

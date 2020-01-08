@@ -4,6 +4,7 @@ title: 'Funko 43331 POP. Vinyl Disney: Holiday-M'
 date: 2020-01-05 22:05:01
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hq3nNg92L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hq3nNg92L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07QJ29QDB

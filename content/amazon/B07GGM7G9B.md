@@ -4,6 +4,7 @@ title: 'ghd Platinum+ White Styler - Plancha par'
 date: 2019/12/30 15:06:10 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sAYlKsDOL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GGM7G9B

@@ -3,6 +3,7 @@ layout: post
 title: 'Vizaro - SÁBANA BAJERA para Colchón de C'
 date: 2020-01-07 13:03:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KqLKFQCYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KqLKFQCYL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

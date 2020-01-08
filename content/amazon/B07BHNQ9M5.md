@@ -4,6 +4,7 @@ title: 'Luz Nocturna  OMERIL Luces LED Armario c'
 date: 2020-01-02 06:31:42
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310QQzbuhTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310QQzbuhTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BHNQ9M5

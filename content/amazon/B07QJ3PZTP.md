@@ -4,6 +4,7 @@ title: 'LNMBBS 3G Tablet de 10.1 Pulgadas  3G/Wi'
 date: 2019/12/12 23:46:21 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HYmYG1RxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HYmYG1RxL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07QJ3PZTP

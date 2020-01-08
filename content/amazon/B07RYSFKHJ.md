@@ -4,6 +4,7 @@ title: 'JACK & JONES NOS Jjechest Logo tee SS Cr'
 date: 2019/12/21 20:17:14 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RsMfcCIlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RsMfcCIlL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RYSFKHJ

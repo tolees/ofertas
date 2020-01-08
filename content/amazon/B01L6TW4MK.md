@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc'
 date: 2020-01-04 21:21:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

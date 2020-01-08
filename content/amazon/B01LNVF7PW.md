@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Lumea Essential BRI861/00 - Depi'
 date: 2019/12/30 19:35:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Yg3mnfGwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Yg3mnfGwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

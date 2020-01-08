@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 624v5  Zapatillas Deportivas'
 date: 2020-01-02 10:27:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

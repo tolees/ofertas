@@ -4,6 +4,7 @@ title: 'LEGO Star Wars Minifigur 4-Lom mit 2 GAL'
 date: 2020-01-07 14:50:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B8PFFSP

@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmeva Abby 3/4 Trenchcoat Noos'
 date: 2019/12/20 21:19:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZoeuQlDHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZoeuQlDHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

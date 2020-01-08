@@ -4,6 +4,7 @@ title: 'Star Wars Ren w Kylo Ren s Tie Silencer '
 date: 2020-01-06 22:30:11
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61QmTABBcfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61QmTABBcfL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06X91PXWK

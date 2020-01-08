@@ -3,6 +3,7 @@ layout: post
 title: 'MSI GL63 8SC-021DE  39 6 cm/15 6 Zoll  G'
 date: 2019/12/19 09:22:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sEwzY4ZrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sEwzY4ZrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

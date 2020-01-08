@@ -4,6 +4,7 @@ title: 'ONTA® Auriculares para Niños Plegable Có'
 date: 2019/12/23 18:56:38 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BtVxG-ldL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BtVxG-ldL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MTQ8T2E

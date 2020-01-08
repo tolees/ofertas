@@ -4,6 +4,7 @@ title: 'Cybex Silver Solution X2-Fix - Silla de '
 date: 2020-01-02 15:07:17
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uiQ4D058L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uiQ4D058L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00M2OA5JI

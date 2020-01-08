@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Avent SCF169/25 - Set de 2 chupe'
 date: 2019/12/30 19:19:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413IYXCkufL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413IYXCkufL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

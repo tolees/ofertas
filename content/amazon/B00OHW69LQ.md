@@ -4,6 +4,7 @@ title: 'HP OMEN - Mochila para portátiles gaming'
 date: 2020-01-05 18:53:33
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31umO4dL4rL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31umO4dL4rL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00OHW69LQ

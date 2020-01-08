@@ -4,6 +4,7 @@ title: 'Superga 2750 COTU Classic  Zapatillas Un'
 date: 2019/12/19 08:35:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fJwsmQWaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fJwsmQWaL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07N4FCWFJ

@@ -3,6 +3,7 @@ layout: post
 title: 'LAYJOY Funda iPhone XS MAX  Carcasa Lige'
 date: 2020-01-04 17:16:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AOuRS175L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AOuRS175L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

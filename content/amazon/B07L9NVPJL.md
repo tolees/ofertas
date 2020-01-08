@@ -4,6 +4,7 @@ title: 'Lacoste Carnaby EVO 319 1 SUI  Zapatilla'
 date: 2020-01-06 10:31:57
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07L9NVPJL

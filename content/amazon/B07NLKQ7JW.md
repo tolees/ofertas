@@ -3,6 +3,7 @@ layout: post
 title: 'Versace Jeans CouturePortafoglioMujerCar'
 date: 2019/12/22 18:57:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ngdpvTsDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ngdpvTsDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

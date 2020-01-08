@@ -3,6 +3,7 @@ layout: post
 title: 'Exprimidor de limón  Exprimidor de Naran'
 date: 2020-01-02 21:41:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419pxMszlYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419pxMszlYL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Logitech G305 Lightspeed  Raton Inalámbr'
 date: 2020-01-06 16:55:30
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311inv0iu2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311inv0iu2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CGPZ3ZQ

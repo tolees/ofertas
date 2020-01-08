@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri GOAYO Camisa Casual  Azul  Blu'
 date: 2020-01-06 18:29:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qJDd9cHNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qJDd9cHNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

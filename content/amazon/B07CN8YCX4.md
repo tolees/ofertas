@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Sexi Flip Women  Sandalias para Mu'
 date: 2019/12/21 07:31:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IaoD8p2ZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IaoD8p2ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

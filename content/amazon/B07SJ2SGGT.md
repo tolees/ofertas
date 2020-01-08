@@ -3,6 +3,7 @@ layout: post
 title: 'BRIKSMAX Led Lighting Kit for Lego Ideas'
 date: 2020-01-07 22:22:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Brick 4 Knobs Stackable Storage Box'
 date: 2019/12/26 08:28:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NSZI-AzKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NSZI-AzKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Tiro19 2in1 SHO Sport Trousers  H'
 date: 2020-01-06 12:23:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Cwzs%2BA3bL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Cwzs%2BA3bL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

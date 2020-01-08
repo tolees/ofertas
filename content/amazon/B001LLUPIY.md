@@ -4,6 +4,7 @@ title: 'Auchentoshan Whisky Three Wood - 700 ml'
 date: 2020-01-04 09:04:01
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416GJMFiy6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416GJMFiy6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B001LLUPIY

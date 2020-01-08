@@ -3,6 +3,7 @@ layout: post
 title: 'Spiderman Reloj Niños de Digital con Cor'
 date: 2019/12/15 16:52:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Aa2nNwxvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Aa2nNwxvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

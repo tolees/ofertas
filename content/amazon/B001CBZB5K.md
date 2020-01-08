@@ -3,6 +3,7 @@ layout: post
 title: 'Singer 2250  Tradition -  Máquina de Cos'
 date: 2019/12/28 13:58:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UlEYKWwNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UlEYKWwNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Trace Dusk  Botas Chelsea para Ho'
 date: 2019/12/30 14:45:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LohoRJyQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LohoRJyQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

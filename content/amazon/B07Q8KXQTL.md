@@ -4,6 +4,7 @@ title: 'SYOSIN Auriculares Bluetooth V5.0  TWS A'
 date: 2019/12/21 05:31:18 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iNg10V-bL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iNg10V-bL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q8KXQTL

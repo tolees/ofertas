@@ -4,6 +4,7 @@ title: 'Tommy Hilfiger Essential Craft Vulc  Zap'
 date: 2020-01-04 09:38:12
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TGjcpB0uL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TGjcpB0uL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JYPP44N

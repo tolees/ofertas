@@ -4,6 +4,7 @@ title: 'Tikea Bolsa Geométrica de Corcho Natural'
 date: 2019/12/23 09:35:49 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518TroXZdyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518TroXZdyL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07T1LCSQK

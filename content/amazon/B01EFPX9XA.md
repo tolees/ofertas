@@ -3,6 +3,7 @@ layout: post
 title: 'UGREEN Lector Tarjetas SD  USB 3.0 Lecto'
 date: 2020-01-06 20:54:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ID4wF0MnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ID4wF0MnL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

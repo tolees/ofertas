@@ -4,6 +4,7 @@ title: 'find. 70296 vestidos mujer  Multicolor  '
 date: 2020-01-02 10:01:10
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S9rzGzGRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S9rzGzGRL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06X9R6NVD

@@ -4,6 +4,7 @@ title: 'V-Bag movetrack by Vodafone - GPS Tracke'
 date: 2019/12/24 19:14:34 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316jrSoC4KL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316jrSoC4KL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B3YZ8FX

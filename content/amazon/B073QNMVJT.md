@@ -3,6 +3,7 @@ layout: post
 title: 'Zecti Mochila profesional antigolpes par'
 date: 2019/12/23 09:48:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515IBa3wSUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515IBa3wSUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

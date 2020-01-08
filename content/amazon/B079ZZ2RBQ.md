@@ -4,6 +4,7 @@ title: 'VAIRO Short Columns XXL'
 date: 2019-12-31 19:41:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4167AWAU%2B4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B079ZZ2RBQ

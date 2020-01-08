@@ -4,6 +4,7 @@ title: 'Intel Core i3-8100 Retail -  1151/Quad C'
 date: 2020-01-07 14:19:35
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DDKwErFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DDKwErFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0759FTRZL

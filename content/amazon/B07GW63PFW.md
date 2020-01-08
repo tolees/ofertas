@@ -3,6 +3,7 @@ layout: post
 title: 'Vero Moda Vmsiv Soraya Short Jacket Boos'
 date: 2020-01-07 17:49:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bavWHT1HL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bavWHT1HL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

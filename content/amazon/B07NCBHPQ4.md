@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Beli Falda  Azul  Dulwich 594'
 date: 2019/12/28 18:36:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j%2BcTIwluL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j%2BcTIwluL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Yasolote 22M Guirnalda de Luces Solares '
 date: 2019/12/21 16:18:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ymGTH2e9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ymGTH2e9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B2Q2WSV

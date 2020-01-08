@@ -4,6 +4,7 @@ title: 'Wrangler Regular Jacket Chaqueta  Azul  '
 date: 2019/12/13 11:13:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erA6kFQLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erA6kFQLL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JXH5TJF

@@ -4,6 +4,7 @@ title: 'Logitech G703 Lightspeed kabellose Gamin'
 date: 2019/12/18 07:57:47 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k8NSk-7tL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k8NSk-7tL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07S7CKTBR

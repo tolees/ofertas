@@ -4,6 +4,7 @@ title: 'Rexxor 242-7904-88 - Reloj de Cuarzo par'
 date: 2020-01-04 11:01:17
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413A-2nDGiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413A-2nDGiL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00MW1DSF4

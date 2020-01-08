@@ -4,6 +4,7 @@ title: 'Jeerhope Cable USB Tipo C USB C [2PACK 1'
 date: 2019/12/18 09:10:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZA7MCwJGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZA7MCwJGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RMV1MY6

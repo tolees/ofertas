@@ -4,6 +4,7 @@ title: 'L Oreal Paris Dermo Expertise Revitalift'
 date: 2019-12-31 15:34:51
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EIeYJ8KAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EIeYJ8KAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BYSY65V

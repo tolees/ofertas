@@ -4,6 +4,7 @@ title: 'Telémetro láser 50m  USB 30mins Carga rá'
 date: 2019/12/13 02:17:02 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dLT7Yv4aL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dLT7Yv4aL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TSCBCBH

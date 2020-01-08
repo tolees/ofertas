@@ -4,6 +4,7 @@ title: 'OwlFay Girls Elsa Frozen Costume Ice Que'
 date: 2019/12/16 07:03:28 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0822SCCNW

@@ -4,6 +4,7 @@ title: 'HP 503A Cartucho de tóner original Laser'
 date: 2019/12/31 07:20:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E4xaLutsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E4xaLutsL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B000BMZHYG

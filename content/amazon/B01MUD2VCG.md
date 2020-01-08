@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjfelix Am 046 50 '
 date: 2019/12/13 19:08:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pjenT1c1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pjenT1c1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

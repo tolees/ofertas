@@ -4,6 +4,7 @@ title: 'Wrangler SS 1 Pkt Button Down Camisa  Mu'
 date: 2019/12/25 20:21:57 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5197fdgzUUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5197fdgzUUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JM94PQM

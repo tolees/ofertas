@@ -4,6 +4,7 @@ title: 'TAIFU 65W AC Adapter for ASUS X551M X555'
 date: 2020-01-07 22:13:40
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wJ5UchuXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wJ5UchuXL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HNJX8VF

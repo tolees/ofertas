@@ -4,6 +4,7 @@ title: 'Vitamina B12 Vegana Vegavero® 1000 mcg |'
 date: 2019/12/14 20:50:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HX9qJJpML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HX9qJJpML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B013UUXSY6

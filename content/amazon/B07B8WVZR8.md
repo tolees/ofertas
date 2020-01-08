@@ -4,6 +4,7 @@ title: 'Clarks Damen Mascarpone Bay Schlupfstief'
 date: 2019/12/22 09:47:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vF8o3YMuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vF8o3YMuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B8WVZR8

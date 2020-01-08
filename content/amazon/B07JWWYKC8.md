@@ -4,6 +4,7 @@ title: 'Columbia Redmond V2 Mid  Botas de Sender'
 date: 2020-01-08 07:04:11
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v-PEhW%2BCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v-PEhW%2BCL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JWWYKC8

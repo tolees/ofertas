@@ -3,6 +3,7 @@ layout: post
 title: 'Intex 64132 - Colchón hinchable Dura-Bea'
 date: 2019/12/18 18:39:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VZYtizDiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VZYtizDiL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Ankway Guirnalda luz Solar 8 Modos  5M 3'
 date: 2020-01-03 20:09:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eMt19%2BftL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eMt19%2BftL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

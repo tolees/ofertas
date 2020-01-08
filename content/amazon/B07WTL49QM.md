@@ -4,6 +4,7 @@ title: 'AngLink Linterna de Buceo  2000 Lumens C'
 date: 2020-01-02 19:38:28
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZyqGT4Q1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZyqGT4Q1L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WTL49QM

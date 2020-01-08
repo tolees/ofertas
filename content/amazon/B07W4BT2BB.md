@@ -3,6 +3,7 @@ layout: post
 title: 'Xpreen Sarro Dental Limpieza Dental kit '
 date: 2019/12/13 03:00:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rp65OsblL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rp65OsblL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

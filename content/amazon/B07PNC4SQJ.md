@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Relaxed Busted Knee  Pantalones'
 date: 2019/12/23 14:49:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LOtJWpV5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LOtJWpV5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

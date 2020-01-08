@@ -4,6 +4,7 @@ title: 'GeForce RTX 2080 Super Blower'
 date: 2020-01-07 20:31:53
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZRT-93a6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZRT-93a6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07V1PCZ8G

@@ -3,6 +3,7 @@ layout: post
 title: 'Finether-Chimenea Eléctrica de la Pared '
 date: 2019-12-31 17:05:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311owFN58KL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311owFN58KL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

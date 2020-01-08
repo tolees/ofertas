@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Star Wars The Last Jedi 75528 Rey T'
 date: 2019/12/23 17:01:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513NOnLbq4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

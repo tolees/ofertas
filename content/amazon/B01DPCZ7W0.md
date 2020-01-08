@@ -4,6 +4,7 @@ title: 'Vangold Reloj silencioso 3D adhesivo efe'
 date: 2019-12-31 19:04:29
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41de1sF74VL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41de1sF74VL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01DPCZ7W0

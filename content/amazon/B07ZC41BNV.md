@@ -3,6 +3,7 @@ layout: post
 title: 'Wahl Cordless Colour Pro with Colour cod'
 date: 2019/12/26 22:04:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LY0FEi%2B4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LY0FEi%2B4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

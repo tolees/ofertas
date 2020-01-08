@@ -3,6 +3,7 @@ layout: post
 title: 'The Body Source Pulseras Repelentes de M'
 date: 2019/12/12 00:40:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/612X0heuWNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/612X0heuWNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

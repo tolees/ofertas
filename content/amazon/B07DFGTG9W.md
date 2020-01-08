@@ -3,6 +3,7 @@ layout: post
 title: 'Funko 30775 POP Vinyl: Austin Powers: Va'
 date: 2020-01-07 14:19:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wBve%2BEVkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wBve%2BEVkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

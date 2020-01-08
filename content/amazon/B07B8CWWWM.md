@@ -3,6 +3,7 @@ layout: post
 title: 'Lifewit 15L Bolsa Isotermica de Almuerzo'
 date: 2020-01-07 15:54:06
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Casco de moto con gafas de protección un'
 date: 2019/12/21 12:00:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41blhTtw8aL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41blhTtw8aL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

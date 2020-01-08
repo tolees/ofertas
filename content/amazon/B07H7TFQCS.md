@@ -3,6 +3,7 @@ layout: post
 title: 'OPTOMA TECHNOLOGY LV130 - Proyector LED '
 date: 2019/12/26 10:40:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21zXfe2DKOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21zXfe2DKOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

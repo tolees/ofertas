@@ -4,6 +4,7 @@ title: 'Trust Verto - Ratón ergonómico Vertical '
 date: 2019/12/27 13:06:52 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j42k2svUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j42k2svUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FM2GLNQ

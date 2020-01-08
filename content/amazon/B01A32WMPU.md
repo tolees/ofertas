@@ -4,6 +4,7 @@ title: 'ZENBRE Altavoz Bluetooth  Z3 10W Altavoz'
 date: 2019/12/17 10:37:51 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YRo%2Bb%2BDpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YRo%2Bb%2BDpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01A32WMPU

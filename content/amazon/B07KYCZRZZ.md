@@ -4,6 +4,7 @@ title: 'adidas Classic Trn J Goalkeeper Gloves  '
 date: 2019/12/15 07:10:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p5HVTih3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p5HVTih3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KYCZRZZ

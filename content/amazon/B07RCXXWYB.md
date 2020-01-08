@@ -4,6 +4,7 @@ title: 'Juego de coctelera Coctelera de 750 ml J'
 date: 2019/12/14 17:36:30 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aG7ormFTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aG7ormFTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RCXXWYB

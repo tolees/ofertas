@@ -3,6 +3,7 @@ layout: post
 title: 'Cybex Gold Pallas S-Fix - Silla de coche'
 date: 2020-01-02 07:55:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kHp4YQvKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kHp4YQvKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

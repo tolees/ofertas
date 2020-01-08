@@ -4,6 +4,7 @@ title: 'G-STAR RAW 3301 Slim Vaqueros  Rinsed 67'
 date: 2019/12/25 13:50:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31orhB3ln7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31orhB3ln7L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JCBZ7YG

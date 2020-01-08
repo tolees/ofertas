@@ -3,6 +3,7 @@ layout: post
 title: 'ElPlayer Barret Sudadera  Hombre  Grigio'
 date: 2019/12/31 10:55:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417RPdqKgTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417RPdqKgTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

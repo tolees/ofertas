@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Centro Médico y Enfermería Set de D'
 date: 2019/12/20 08:27:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f%2BEyVXV0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f%2BEyVXV0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

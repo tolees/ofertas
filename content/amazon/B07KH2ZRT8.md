@@ -4,6 +4,7 @@ title: 'Under Armour EU Tech Pant Pantalón de Go'
 date: 2019/12/16 07:55:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C%2BXKlWzBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C%2BXKlWzBL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KH2ZRT8

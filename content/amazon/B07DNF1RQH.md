@@ -4,6 +4,7 @@ title: 'Calcetines de Algodón 3 Pares  Gris  EU '
 date: 2019/12/17 08:13:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NUW3Os4JL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NUW3Os4JL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DNF1RQH

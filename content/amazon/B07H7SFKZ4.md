@@ -4,6 +4,7 @@ title: 'Nike Downshifter 9  Zapatillas de Runnin'
 date: 2020-01-03 16:34:30
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W4wkCPGCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W4wkCPGCL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07H7SFKZ4

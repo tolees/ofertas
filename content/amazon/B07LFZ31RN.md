@@ -4,6 +4,7 @@ title: 'Geox U Timothy B  Zapatos de Cordones De'
 date: 2020-01-04 19:18:05
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X%2BFuk8zFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X%2BFuk8zFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LFZ31RN

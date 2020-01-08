@@ -3,6 +3,7 @@ layout: post
 title: 'MQIAOHAM área de juego para niños colcho'
 date: 2020-01-06 09:35:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SJfcVLvqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SJfcVLvqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

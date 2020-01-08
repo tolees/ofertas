@@ -3,6 +3,7 @@ layout: post
 title: 'Pistola Silicona 50W Tilswall  Pistola d'
 date: 2020-01-02 09:18:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SuTRMBNmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SuTRMBNmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

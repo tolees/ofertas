@@ -4,6 +4,7 @@ title: 'Ferilinso Cristal Templado para Xiaomi M'
 date: 2020-01-05 10:06:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WQhTx5KfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WQhTx5KfL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MNT54ZC

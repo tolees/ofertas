@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Smash v2 SD V Inf  Zapatillas Unise'
 date: 2019/12/16 12:50:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419hh-bxKLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419hh-bxKLL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Michael Kors Reloj Analógico para Mujer '
 date: 2019/12/26 10:50:29 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419fOWjZeJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419fOWjZeJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07F9LKJH1

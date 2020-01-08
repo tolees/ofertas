@@ -3,6 +3,7 @@ layout: post
 title: 'Marvel Legends Series Black Panther Elec'
 date: 2019/12/23 15:21:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NZbptia7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NZbptia7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

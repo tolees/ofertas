@@ -4,6 +4,7 @@ title: 'Salomon XA Pro 3D GTX  Zapatillas de Tra'
 date: 2020-01-01 11:32:08
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416goKO%2BrqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KQQFX78

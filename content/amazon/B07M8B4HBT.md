@@ -4,6 +4,7 @@ title: 'Wrangler SS Stripe Logo tee Camiseta  Az'
 date: 2019/12/25 18:38:56 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VO1seKPEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VO1seKPEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07M8B4HBT

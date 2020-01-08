@@ -3,6 +3,7 @@ layout: post
 title: 'Nadal 736928 Misterio 28 Blanco  18x10x1'
 date: 2019/12/15 01:30:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319PK2UxLOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319PK2UxLOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

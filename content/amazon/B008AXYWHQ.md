@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Reloj Cronógrafo para Hombre de C'
 date: 2019/12/21 22:31:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416z0pkVtJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416z0pkVtJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

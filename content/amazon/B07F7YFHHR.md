@@ -4,6 +4,7 @@ title: 'Ferilinso Funda para Xiaomi Redmi Note 6'
 date: 2020-01-02 13:25:22
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c1w0vtu-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c1w0vtu-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07F7YFHHR

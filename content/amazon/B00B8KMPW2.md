@@ -4,6 +4,7 @@ title: 'Carucci Watches Turin CA2198LB-BK - Relo'
 date: 2019/12/18 01:49:08 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51av7tX6B2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51av7tX6B2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00B8KMPW2

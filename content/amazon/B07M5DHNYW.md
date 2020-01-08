@@ -4,6 +4,7 @@ title: 'Lee Rider Jeans Vaqueros  Dark Marine  3'
 date: 2020-01-07 08:38:12
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-AzPGCjlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-AzPGCjlL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07M5DHNYW

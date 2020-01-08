@@ -3,6 +3,7 @@ layout: post
 title: 'Antena Interior TV  Antena de TV de Rang'
 date: 2020-01-06 12:20:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EAX865pEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EAX865pEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

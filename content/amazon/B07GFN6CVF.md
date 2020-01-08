@@ -4,6 +4,7 @@ title: 'YD295XA8AFWOF AMD Ryzen Threadripper 295'
 date: 2019/12/17 14:23:34 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GFN6CVF

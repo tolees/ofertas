@@ -3,6 +3,7 @@ layout: post
 title: 'Games - Quien es quien Extra  Hasbro B22'
 date: 2019/12/31 12:15:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/612haghwsUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/612haghwsUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

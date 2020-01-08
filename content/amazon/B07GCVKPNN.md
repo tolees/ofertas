@@ -4,6 +4,7 @@ title: 'sogoo 50 x 70cm 22.5W Espejo de pared es'
 date: 2020-01-03 12:38:35
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KYNzRITNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KYNzRITNL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GCVKPNN

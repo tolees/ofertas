@@ -3,6 +3,7 @@ layout: post
 title: 'DAM TEKKIWEAR. DMX043BLACK. Smartwatch M'
 date: 2019/12/20 09:44:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519SDb3GxbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519SDb3GxbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Frozen FZ007413/SIL Mädchen Hausschuh Ka'
 date: 2019/12/27 08:50:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FQrt357zL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FQrt357zL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07G2LNLKF

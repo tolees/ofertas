@@ -4,6 +4,7 @@ title: 'Oral-B PRO 2000 - Estación de Cuidado Bu'
 date: 2020-01-01 11:02:18
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SRlH4U8SL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SRlH4U8SL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B5FK3BN

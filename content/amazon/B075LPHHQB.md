@@ -4,6 +4,7 @@ title: 'VOITURE R/C 8009 ROUGE TELECOMMANDE à CO'
 date: 2019/12/22 01:28:20 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gnNVoiACL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gnNVoiACL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B075LPHHQB

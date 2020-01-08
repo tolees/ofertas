@@ -3,6 +3,7 @@ layout: post
 title: 'Playmobil 70013 Western Stagecoach'
 date: 2020-01-07 22:34:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dH3ieFZOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

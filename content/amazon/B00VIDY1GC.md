@@ -3,6 +3,7 @@ layout: post
 title: 'VAHDAM  Juego De Regalo De Té Surtido - '
 date: 2019/12/21 10:38:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W-lGoNYsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W-lGoNYsL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

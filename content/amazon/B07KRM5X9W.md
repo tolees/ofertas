@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Yv373v1  Zapatillas para Niñ'
 date: 2019/12/29 10:07:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-OZs6Gi4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-OZs6Gi4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

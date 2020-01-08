@@ -4,6 +4,7 @@ title: 'Reef Contoured Cushion  Chanclas para Ho'
 date: 2020-01-07 18:01:17
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nvqDfoAtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nvqDfoAtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01GQIY0E6

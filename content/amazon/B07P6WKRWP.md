@@ -3,6 +3,7 @@ layout: post
 title: 'YAMAY Pulsera de Actividad Inteligente c'
 date: 2019/12/21 02:15:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AuJsnMJrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AuJsnMJrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'SMEG Batidora amasadora SMF01RDEU  800 W'
 date: 2019/12/31 11:01:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mP1Sf8O9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mP1Sf8O9L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Estantería de Ducha de Esquina  GEMITTO '
 date: 2019/12/29 04:26:29 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Uio-diMDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Uio-diMDL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BKSPT8X

@@ -3,6 +3,7 @@ layout: post
 title: 'Energy Sistem Multiroom Tower Wi-Fi - Si'
 date: 2020-01-04 18:12:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NiSiGkT2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NiSiGkT2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

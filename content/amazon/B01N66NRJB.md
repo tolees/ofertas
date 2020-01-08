@@ -3,6 +3,7 @@ layout: post
 title: 'Puma St Trainer EVO AC Jr  Zapatillas In'
 date: 2020-01-07 08:18:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rL1T6cLhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rL1T6cLhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

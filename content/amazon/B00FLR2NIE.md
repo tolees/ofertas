@@ -3,6 +3,7 @@ layout: post
 title: 'hummel HUMMEL SLIMMER STADIL LOW - Zapat'
 date: 2020-01-05 09:37:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KCUK6IWkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KCUK6IWkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES NOS JJEDESERT Bomber Noos C'
 date: 2019/12/29 10:33:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P5KuKr9HL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P5KuKr9HL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

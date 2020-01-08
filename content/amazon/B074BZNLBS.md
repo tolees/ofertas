@@ -4,6 +4,7 @@ title: 'Pepe Jeans Kingston Zip  Vaqueros Recto '
 date: 2019/12/30 20:26:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VnX5cnsUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VnX5cnsUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B074BZNLBS

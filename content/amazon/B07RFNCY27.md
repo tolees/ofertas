@@ -4,6 +4,7 @@ title: 'adidas Predator 19.1 FG  Zapatillas de F'
 date: 2019/12/25 16:26:16 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vGO9zx0mL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vGO9zx0mL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RFNCY27

@@ -4,6 +4,7 @@ title: 'P Prettyia 1080P HD 1.5    Pantalla Mini'
 date: 2019/12/20 06:48:39 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eP%2Bb7VeNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eP%2Bb7VeNL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GFK4FKC

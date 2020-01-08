@@ -3,6 +3,7 @@ layout: post
 title: 'Mpow Bluetooth Headset  Bluetooth Earpie'
 date: 2020-01-08 06:13:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OtiGkwu4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OtiGkwu4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

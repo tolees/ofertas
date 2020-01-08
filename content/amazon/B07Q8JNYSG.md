@@ -4,6 +4,7 @@ title: 'Anoopsyche Hub USB Tipo C 10 en 1  Alumi'
 date: 2019/12/24 16:30:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CWGkI2MAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CWGkI2MAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q8JNYSG

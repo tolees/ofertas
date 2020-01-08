@@ -3,6 +3,7 @@ layout: post
 title: 'Oral-B Genius 8900 - Cepillo de dientes '
 date: 2020-01-02 07:34:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lICSuwhxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lICSuwhxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

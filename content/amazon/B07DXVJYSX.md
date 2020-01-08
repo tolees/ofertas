@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA GL Foundation SS T Camis'
 date: 2019/12/16 10:12:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Fks8MgBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Fks8MgBL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Briksmax Led Lighting Kit for Architectu'
 date: 2020-01-07 22:17:32
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413YHLfa9iL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413YHLfa9iL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07QPRJ8FD

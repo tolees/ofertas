@@ -4,6 +4,7 @@ title: 'JOOMFEEN Quick Charge 3.0 Cargador USB d'
 date: 2019/12/16 01:46:15 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ShzgoBzsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ShzgoBzsL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WFRRW1Q

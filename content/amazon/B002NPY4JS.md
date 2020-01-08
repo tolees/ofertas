@@ -4,6 +4,7 @@ title: 'LUPO USB 2.0 XD Memory Card Reader For F'
 date: 2020-01-04 12:56:36
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ylU-o9YOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ylU-o9YOL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B002NPY4JS

@@ -4,6 +4,7 @@ title: 'Samsung 4K UHD 2019 55RU8005 - Smart TV '
 date: 2019/12/27 15:32:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412KNEtVZbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412KNEtVZbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SQ25RGD

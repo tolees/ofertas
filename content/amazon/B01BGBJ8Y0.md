@@ -4,6 +4,7 @@ title: 'Logitech C270 HD - Webcam para videoconf'
 date: 2019/12/30 11:42:41 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317opepNcEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317opepNcEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01BGBJ8Y0

@@ -4,6 +4,7 @@ title: 'Auriculares Cascos Gaming PS4 Gamer PC c'
 date: 2020-01-06 13:14:34
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VzDkkhCbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VzDkkhCbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Z4GRLGQ

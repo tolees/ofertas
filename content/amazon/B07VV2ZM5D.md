@@ -4,6 +4,7 @@ title: 'Krups Piccolo KP1A05 - Cafetera cápsulas'
 date: 2020-01-04 20:06:29
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WCmQJKWIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WCmQJKWIL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07VV2ZM5D

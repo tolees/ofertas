@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Peakfreak Nomad  Botas de Sende'
 date: 2019/12/25 09:22:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'XTI 48619  Botines para Mujer  Negro Plo'
 date: 2019/12/20 16:08:45 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Ben-LrEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Ben-LrEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07D9FLCS6

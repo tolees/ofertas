@@ -4,6 +4,7 @@ title: 'Kappa - Kombo Mid Footwear Unisex  Alte '
 date: 2019/12/24 10:07:17 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RHiBEi3nL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RHiBEi3nL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00FMV4HCY

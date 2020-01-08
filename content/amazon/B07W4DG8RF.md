@@ -4,6 +4,7 @@ title: 'Logitech G332 Wired Gaming Headset Speci'
 date: 2019/12/26 20:38:45 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41du6dAuokL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41du6dAuokL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07W4DG8RF

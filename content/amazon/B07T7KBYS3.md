@@ -4,6 +4,7 @@ title: 'Vero Moda Vmsimone Aw19 Hoody Short Jack'
 date: 2020-01-07 12:18:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4127YMhSG%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4127YMhSG%2BL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07T7KBYS3

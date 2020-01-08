@@ -4,6 +4,7 @@ title: 'Emsa N2010700 Travel Mug Wave-Design  Th'
 date: 2019/12/21 09:07:47 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I08Z9SzzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I08Z9SzzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GVXGR7N

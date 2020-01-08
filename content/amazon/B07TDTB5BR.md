@@ -4,6 +4,7 @@ title: 'Lotus Reloj Cronógrafo para Mujer de Cua'
 date: 2019/12/20 01:25:45 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ejJiuX3JL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ejJiuX3JL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TDTB5BR

@@ -4,6 +4,7 @@ title: 'HIKARO Sudadera con Print Hombre  Negro '
 date: 2020-01-04 07:19:22
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HhJQriUAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HhJQriUAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077Z5QHPD

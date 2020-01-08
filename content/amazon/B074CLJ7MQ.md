@@ -4,6 +4,7 @@ title: 'TW Steel Marc Coblen Edition Chrono con '
 date: 2019/12/19 23:39:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jTmF61kFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jTmF61kFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B074CLJ7MQ

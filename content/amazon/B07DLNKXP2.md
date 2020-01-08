@@ -4,6 +4,7 @@ title: 'Mydours Alfombrilla del Escritorio de la'
 date: 2019/12/18 07:51:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HHE-D87HL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HHE-D87HL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DLNKXP2

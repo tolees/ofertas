@@ -4,6 +4,7 @@ title: 'LANGRIA Zapatero de bambú de 4 Niveles A'
 date: 2019/12/25 17:31:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sTjrj5ApL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sTjrj5ApL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07QRPKQ1L

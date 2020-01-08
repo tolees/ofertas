@@ -4,6 +4,7 @@ title: 'YABER Arrancador de Coches 13800mAh 1000'
 date: 2020-01-04 06:32:48
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AtnukH7dL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AtnukH7dL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TFCWZ6T

@@ -3,6 +3,7 @@ layout: post
 title: 'Navaja táctica de BGT  plegable  con sis'
 date: 2020-01-05 18:21:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HqKUlSJzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HqKUlSJzL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

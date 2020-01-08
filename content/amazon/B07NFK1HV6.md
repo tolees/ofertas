@@ -4,6 +4,7 @@ title: 'STANLEY FATMAX FMC627D2SA-QW - Taladro p'
 date: 2019/12/29 15:33:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R54DHEhhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R54DHEhhL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NFK1HV6

@@ -3,6 +3,7 @@ layout: post
 title: 'Timex Grid Shock - Reloj digital con cor'
 date: 2020-01-07 23:28:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MJDsRUaDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MJDsRUaDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

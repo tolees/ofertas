@@ -4,6 +4,7 @@ title: 'adidas 18/19 Real Madrid Home with Lfp B'
 date: 2020-01-04 19:47:15
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ktwXA%2BCFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DD8P9DS

@@ -4,6 +4,7 @@ title: 'Patrulla Canina | Neceser infantil | Den'
 date: 2019/12/23 17:48:19 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wz8sdX7yL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Wz8sdX7yL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01IQT4BII

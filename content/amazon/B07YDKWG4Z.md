@@ -3,6 +3,7 @@ layout: post
 title: 'Calentador de Café  Calentador de Bebida'
 date: 2020-01-01 10:11:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S-XGu2NqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S-XGu2NqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

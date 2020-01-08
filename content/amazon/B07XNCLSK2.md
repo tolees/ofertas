@@ -4,6 +4,7 @@ title: '[Versión 2019]Dilatador Nasal Anti Ronqu'
 date: 2019/12/29 16:46:41 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SOe62FtnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SOe62FtnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07XNCLSK2

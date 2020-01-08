@@ -4,6 +4,7 @@ title: 'Cat Footwear Colorado  Botas para Hombre'
 date: 2020-01-02 16:32:32
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B009RJUPUA

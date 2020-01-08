@@ -4,6 +4,7 @@ title: 'Organizadores para Coche  OKEECA 2 Pack '
 date: 2019/12/24 12:35:08 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xhb4W77UL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xhb4W77UL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R1XCHWS

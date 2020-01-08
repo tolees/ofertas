@@ -3,6 +3,7 @@ layout: post
 title: 'find. Zapatos de Serraje con Cordones Ho'
 date: 2019/12/23 22:45:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bGzc83GvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bGzc83GvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

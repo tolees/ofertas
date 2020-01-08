@@ -4,6 +4,7 @@ title: 'Lee Daren Zip Fly Vaqueros Rectos  Azul '
 date: 2019/12/19 11:42:16 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hZUEsQ3YL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hZUEsQ3YL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CTGHNP9

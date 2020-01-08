@@ -4,6 +4,7 @@ title: 'PUWEIKE Aspiradora sin Cable  aspiradora'
 date: 2019/12/16 22:53:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H3Athk10L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H3Athk10L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07YDLBWW3

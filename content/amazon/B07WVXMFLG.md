@@ -4,6 +4,7 @@ title: 'Xnuoyo Cepillo de Limpieza Facial 5 en 1'
 date: 2020-01-04 18:04:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rYrGvT84L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rYrGvT84L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WVXMFLG

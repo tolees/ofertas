@@ -4,6 +4,7 @@ title: 'AmazonBasics - Cable de conector Lightni'
 date: 2019/12/14 04:24:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yUaf2NDcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yUaf2NDcL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DTKTSGM

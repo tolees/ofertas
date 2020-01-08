@@ -4,6 +4,7 @@ title: 'Garmin eTrex Touch 35 Fahrrad-Outdoor-Na'
 date: 2019/12/14 09:06:45 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mbtop8BVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mbtop8BVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B010UPWVGU

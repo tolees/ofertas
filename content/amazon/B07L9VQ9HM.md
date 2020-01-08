@@ -4,6 +4,7 @@ title: 'Lacoste Carnaby EVO Strap 319 1 SMA  Zap'
 date: 2019/12/17 09:48:53 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KWtROWtYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KWtROWtYL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07L9VQ9HM

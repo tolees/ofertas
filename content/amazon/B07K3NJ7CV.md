@@ -4,6 +4,7 @@ title: 'Invicta 27305 Pro Diver  Reloj para Homb'
 date: 2019/12/13 22:09:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YTG05aS4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YTG05aS4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07K3NJ7CV

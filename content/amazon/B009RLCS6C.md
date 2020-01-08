@@ -3,6 +3,7 @@ layout: post
 title: 'Braun Satin Hair 7 ST780 - Plancha de pe'
 date: 2019/12/30 11:15:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x62sUVSWL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x62sUVSWL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

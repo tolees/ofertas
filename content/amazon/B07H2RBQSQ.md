@@ -3,6 +3,7 @@ layout: post
 title: 'Godmorn Cafetera italiana Cafetera espre'
 date: 2020-01-06 11:06:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KreqzjSPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KreqzjSPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

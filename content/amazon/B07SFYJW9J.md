@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Air Huarache Run Ultra GS  Zapatill'
 date: 2019/12/27 16:14:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y3W9yKgDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y3W9yKgDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

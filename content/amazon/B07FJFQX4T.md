@@ -4,6 +4,7 @@ title: 'Adidas Tubular Shadow CK  Zapatillas par'
 date: 2019/12/12 18:03:25 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vIQP4pUnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vIQP4pUnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FJFQX4T

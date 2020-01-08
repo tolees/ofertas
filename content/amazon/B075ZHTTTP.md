@@ -4,6 +4,7 @@ title: 'Mr. Wonderful ME2019AI - Neceser'
 date: 2019/12/27 11:14:50 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZgFbKUSEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZgFbKUSEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B075ZHTTTP

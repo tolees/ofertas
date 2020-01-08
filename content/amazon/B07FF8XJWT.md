@@ -3,6 +3,7 @@ layout: post
 title: 'The Last of us Hits - Versión 14'
 date: 2019/12/21 08:32:37 +0000
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 comments: true
 category: ofertas
 author: ring

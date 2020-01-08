@@ -3,6 +3,7 @@ layout: post
 title: 'Funko 14375 Actionfigur Kingsman: Gazell'
 date: 2020-01-05 22:48:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tHz61ytPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tHz61ytPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

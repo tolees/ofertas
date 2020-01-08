@@ -4,6 +4,7 @@ title: 'Chicco 00006811000000 Niño/niña 30pieza '
 date: 2019/12/19 09:09:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tTbpol4YL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tTbpol4YL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00WY8N0VC

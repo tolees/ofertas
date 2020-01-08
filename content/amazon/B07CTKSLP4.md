@@ -4,6 +4,7 @@ title: 'JACK & JONES Jfwalbany Leather Anthracit'
 date: 2019/12/15 17:19:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYntT1CrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYntT1CrL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CTKSLP4

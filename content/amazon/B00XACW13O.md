@@ -3,6 +3,7 @@ layout: post
 title: 'Durex Preservativos Dame Placer con Punt'
 date: 2020-01-07 10:18:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

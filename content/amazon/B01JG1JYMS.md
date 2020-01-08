@@ -4,6 +4,7 @@ title: 'Ingersoll Men s The Grafton Quartz Watch'
 date: 2019/12/12 22:29:49 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HXWq1ZaSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HXWq1ZaSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01JG1JYMS

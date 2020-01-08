@@ -4,6 +4,7 @@ title: 'SMARTOMI 1 cartucho de tóner negro de al'
 date: 2019/12/14 01:58:29 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L4KsfFStL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L4KsfFStL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PV7F2CC

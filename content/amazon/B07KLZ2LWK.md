@@ -4,6 +4,7 @@ title: 'BRIKSMAX Kit de Iluminación Led para Bar'
 date: 2019/12/29 01:20:13 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BBJQZmofL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BBJQZmofL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KLZ2LWK

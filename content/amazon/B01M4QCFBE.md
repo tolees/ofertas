@@ -3,6 +3,7 @@ layout: post
 title: 'Festina Reloj Análogo clásico para Hombr'
 date: 2019/12/20 01:51:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O6eGVC5UL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O6eGVC5UL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Sunboree Mädchen Kleid Schnee Königin Ic'
 date: 2019/12/26 08:52:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ne8Zs71CL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ne8Zs71CL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B081LYYL7L

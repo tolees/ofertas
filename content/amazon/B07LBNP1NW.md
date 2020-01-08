@@ -3,6 +3,7 @@ layout: post
 title: 'Kappa Klasen  Zapatillas Unisex Adulto  '
 date: 2020-01-01 15:30:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

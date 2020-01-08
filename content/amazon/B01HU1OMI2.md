@@ -4,6 +4,7 @@ title: 'Bulova Reloj Cronógrafo para Hombre de C'
 date: 2019/12/13 22:55:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bnBp5LCnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bnBp5LCnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01HU1OMI2

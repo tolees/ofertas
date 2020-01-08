@@ -3,6 +3,7 @@ layout: post
 title: 'Cali Zapatos Deportivos para Mujer Blanc'
 date: 2019/12/25 20:13:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xcrMb5wxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xcrMb5wxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'WEDO 78909 - Cúter  9 mm   color azul y '
 date: 2019/12/31 10:34:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31paVf2mVeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31paVf2mVeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

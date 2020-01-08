@@ -4,6 +4,7 @@ title: 'Salomon Trailster GTX  Zapatillas de Tra'
 date: 2019/12/30 05:28:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412U9C8J%2B9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412U9C8J%2B9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CY1G2KW

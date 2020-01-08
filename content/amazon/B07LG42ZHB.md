@@ -4,6 +4,7 @@ title: 'Geox J BULLER Boy D  Zapatillas para Niñ'
 date: 2020-01-05 08:43:54
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SA%2BwP45zL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SA%2BwP45zL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LG42ZHB

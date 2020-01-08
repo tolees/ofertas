@@ -3,6 +3,7 @@ layout: post
 title: 'Remington Pearl S9500 - Plancha de Pelo '
 date: 2020-01-07 10:28:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MpB6J%2BeaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MpB6J%2BeaL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

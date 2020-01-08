@@ -4,6 +4,7 @@ title: 'LUCK Zapatillas de Ciclismo Extreme 3.0 '
 date: 2019/12/13 18:14:01 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515AGx4qE2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515AGx4qE2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DSCJKR6

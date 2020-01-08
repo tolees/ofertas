@@ -4,6 +4,7 @@ title: 'SmugPets 315 Bolsas biodegradables para '
 date: 2019/12/23 12:49:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nJMVskw7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nJMVskw7L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01AR3ITXO

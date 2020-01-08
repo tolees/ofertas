@@ -4,6 +4,7 @@ title: 'Marca Amazon - Goodthreads - Camiseta es'
 date: 2019/12/19 14:50:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mewhc4s4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mewhc4s4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07F19XBWP

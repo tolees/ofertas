@@ -4,6 +4,7 @@ title: 'TEKKIWEAR. DMT185WHBRW. Smartwatch Depor'
 date: 2020-01-07 16:08:54
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H4bhoXUdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H4bhoXUdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DJWBKKP

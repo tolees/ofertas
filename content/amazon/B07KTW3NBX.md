@@ -4,6 +4,7 @@ title: 'LEGO 70672 NINJAGO Cole s Dirt Bike Ninj'
 date: 2020-01-07 08:48:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516jboTLFEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516jboTLFEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KTW3NBX

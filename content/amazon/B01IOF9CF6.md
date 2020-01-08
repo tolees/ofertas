@@ -4,6 +4,7 @@ title: 'Brazalete deportivo Para Correr Prueba d'
 date: 2019/12/12 23:29:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-pznA0D0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-pznA0D0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01IOF9CF6

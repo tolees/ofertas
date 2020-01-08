@@ -4,6 +4,7 @@ title: 'Bosch Professional - Juego de 7 brocas m'
 date: 2019/12/28 22:09:38 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pc8xp3A6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pc8xp3A6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B001IBKQWM

@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Launch Sw 7   - Pantalón'
 date: 2019/12/17 13:49:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YQU8C1JrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YQU8C1JrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

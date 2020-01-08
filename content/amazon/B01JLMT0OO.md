@@ -3,6 +3,7 @@ layout: post
 title: 'L Oréal Paris Color Riche  Barra De Labi'
 date: 2019/12/26 01:19:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3175fYq7%2BAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3175fYq7%2BAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

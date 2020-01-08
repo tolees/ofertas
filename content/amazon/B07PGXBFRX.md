@@ -4,6 +4,7 @@ title: 'LA Active Calcetines Antideslizantes - P'
 date: 2019/12/31 12:21:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415fBZ-9ffL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415fBZ-9ffL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PGXBFRX

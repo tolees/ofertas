@@ -3,6 +3,7 @@ layout: post
 title: 'Geox J Alonisso Boy N  Zapatillas Altas '
 date: 2019/12/22 19:15:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413YcYYd9wL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413YcYYd9wL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

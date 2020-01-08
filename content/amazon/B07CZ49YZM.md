@@ -4,6 +4,7 @@ title: 'Asics Gel-Lyte  Zapatillas Unisex Adulto'
 date: 2019/12/20 20:59:56 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BR41KCCRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BR41KCCRL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CZ49YZM

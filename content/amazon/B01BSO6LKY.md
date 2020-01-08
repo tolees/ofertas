@@ -4,6 +4,7 @@ title: 'Philips S3110/06 - Afeitadora eléctrica '
 date: 2019/12/23 21:36:54 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AP9yDFNNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AP9yDFNNL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01BSO6LKY

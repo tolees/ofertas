@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch MUC88B68ES AutoCook - Robot de coc'
 date: 2020-01-05 18:31:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cMZBqTLhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cMZBqTLhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

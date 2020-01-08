@@ -3,6 +3,7 @@ layout: post
 title: 'Gant D1. Triangle Texture Fullzip Chaque'
 date: 2019/12/15 05:33:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xCcLy7ttL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xCcLy7ttL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'find. 53669  Chaqueta Para Mujer  Azul  '
 date: 2019/12/28 17:27:48 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pzl5lB6AL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pzl5lB6AL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XYPF8J8

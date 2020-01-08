@@ -4,6 +4,7 @@ title: 'Crosshatch Barrington Vaqueros Slim  Gre'
 date: 2019/12/16 00:47:38 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NIpmnNRPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NIpmnNRPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B079VSQ3FP

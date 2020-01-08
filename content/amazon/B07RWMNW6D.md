@@ -3,6 +3,7 @@ layout: post
 title: 'Ringke Fusion-X Diseñado para Funda Sams'
 date: 2019/12/14 08:01:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AHW9WjZvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AHW9WjZvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Amilril Collar de Copo de Nieve Colgante'
 date: 2019/12/24 11:05:30 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EST8K%2BK8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EST8K%2BK8L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07VSHGP1Z

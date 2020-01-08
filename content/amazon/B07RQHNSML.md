@@ -4,6 +4,7 @@ title: 'The Wooden Toy Factory - Autobús con Ani'
 date: 2020-01-01 20:34:08
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QNI5UBXkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QNI5UBXkL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RQHNSML

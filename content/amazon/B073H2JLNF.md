@@ -4,6 +4,7 @@ title: 'Clarks Batcombe Hall Derby - Zapatos de '
 date: 2020-01-07 18:59:14
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xmAPK7g7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xmAPK7g7L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B073H2JLNF

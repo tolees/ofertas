@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Chaqueta DE NIÑO BOK'
 date: 2019/12/19 21:23:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

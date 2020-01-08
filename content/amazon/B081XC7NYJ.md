@@ -4,6 +4,7 @@ title: 'GOODTEL Ordenador Portátil de 14 Pulgada'
 date: 2020-01-05 10:20:10
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CvbzS0NTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CvbzS0NTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B081XC7NYJ

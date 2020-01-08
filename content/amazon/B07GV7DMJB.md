@@ -4,6 +4,7 @@ title: 'Digital TV  Portable TV with Freeview DV'
 date: 2020-01-01 08:03:10
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n7F9nAoJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n7F9nAoJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GV7DMJB

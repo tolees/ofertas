@@ -4,6 +4,7 @@ title: 'Hawiton Pijama Mujer de Algodón Invierno'
 date: 2020-01-02 14:16:12
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A90DaxC8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A90DaxC8L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07J5V6YDD

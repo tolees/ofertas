@@ -4,6 +4,7 @@ title: 'Ambi Pur 3Volution Tatami Japonés Recamb'
 date: 2019/12/29 07:40:15 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YBYLXseGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YBYLXseGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00XJSLHHK

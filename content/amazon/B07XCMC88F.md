@@ -3,6 +3,7 @@ layout: post
 title: 'coskefy Guantes Esquí Impermeable para H'
 date: 2020-01-07 19:35:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v3tW5NdTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v3tW5NdTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

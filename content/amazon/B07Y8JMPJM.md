@@ -4,6 +4,7 @@ title: 'MEDION Ultrafino S6445 - MD61389 - Orden'
 date: 2019/12/31 00:04:29 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R34kp6KHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R34kp6KHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Y8JMPJM

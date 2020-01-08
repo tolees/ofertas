@@ -4,6 +4,7 @@ title: 'Baby Jogger City Mini Gemelar - Silla de'
 date: 2020-01-05 09:43:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YWjcZcVsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YWjcZcVsL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00G3XR8LM

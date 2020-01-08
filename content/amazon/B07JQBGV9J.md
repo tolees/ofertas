@@ -4,6 +4,7 @@ title: 'Tommy Hilfiger Formal Belt 3.5 Cinturón '
 date: 2019/12/24 13:59:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LVN6NMUEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LVN6NMUEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JQBGV9J

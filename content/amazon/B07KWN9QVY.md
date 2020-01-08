@@ -4,6 +4,7 @@ title: 'Lego Wear Jungen LWTIGER 652-T-SHIRT L/S'
 date: 2019/12/22 00:55:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KWN9QVY

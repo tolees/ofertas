@@ -4,6 +4,7 @@ title: 'Candado Moto  BUDDYGO 110dB Alarma Antir'
 date: 2019/12/30 13:07:17 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XnH-7agTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XnH-7agTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TZ2WLVN

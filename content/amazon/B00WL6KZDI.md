@@ -3,6 +3,7 @@ layout: post
 title: 'Toy State Cat Construcción de vehículo d'
 date: 2019/12/21 22:35:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IxCgBmrOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IxCgBmrOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

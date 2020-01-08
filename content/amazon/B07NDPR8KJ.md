@@ -4,6 +4,7 @@ title: 'G-STAR RAW Graphic 22 Boyfriend Slit Rou'
 date: 2020-01-05 19:11:49
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4103YPufx2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4103YPufx2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NDPR8KJ

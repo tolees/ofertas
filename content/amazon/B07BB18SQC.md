@@ -4,6 +4,7 @@ title: 'Lego Star Wars Minifigur A-Wing Pilot Ta'
 date: 2020-01-03 22:42:05
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SAtd27MvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SAtd27MvL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BB18SQC

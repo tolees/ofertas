@@ -4,6 +4,7 @@ title: 'Sigmund Freud Badeente'
 date: 2019/12/22 03:09:49 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WgqcRIGZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WgqcRIGZL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B005UMFB7A

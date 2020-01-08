@@ -4,6 +4,7 @@ title: 'Ravensburger 09264 - Abenteuer im Winter'
 date: 2020-01-04 06:16:08
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GLJ8ED5dL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00C3MXOSS

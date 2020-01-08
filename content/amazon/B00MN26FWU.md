@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung SAEPTA12EW - Transformador  cabl'
 date: 2020-01-06 15:09:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XvmrFdurL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XvmrFdurL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Levi s 501 Original Fit Vaqueros  Black '
 date: 2019/12/17 21:16:25 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hfPQeQuzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hfPQeQuzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B001QOF7KC

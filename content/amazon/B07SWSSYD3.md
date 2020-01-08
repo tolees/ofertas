@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Flexagon Energy MT  Zapatillas de'
 date: 2019/12/11 22:13:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ui9O%2BbKbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ui9O%2BbKbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

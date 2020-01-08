@@ -4,6 +4,7 @@ title: 'Icons Corner Pack 4 sillas Blanco IMS Mo'
 date: 2020-01-08 07:22:29
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tgQvCBrLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tgQvCBrLL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B082BD1TRQ

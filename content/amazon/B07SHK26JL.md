@@ -4,6 +4,7 @@ title: 'LISABED FLEX - PACK Colchón_2 Almohadas '
 date: 2019/12/22 22:27:17 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P%2B4swkIdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P%2B4swkIdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SHK26JL

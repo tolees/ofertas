@@ -4,6 +4,7 @@ title: 'STANLEY FATMAX FME1250K-QS - Martillo pe'
 date: 2019/12/18 12:35:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bYn3FS8-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bYn3FS8-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00EL8UTAI

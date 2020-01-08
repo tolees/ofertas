@@ -4,6 +4,7 @@ title: 'HP Stream 14-ds0000ns - Ordenador portát'
 date: 2019/12/16 16:26:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hD9NSZfyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hD9NSZfyL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Z3QXKFW

@@ -4,6 +4,7 @@ title: 'Braun MGK3042 - Recortadora Todo en Uno '
 date: 2020-01-01 09:09:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513YJ%2B5vylL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513YJ%2B5vylL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DGJDGH1

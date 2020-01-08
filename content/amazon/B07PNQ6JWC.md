@@ -4,6 +4,7 @@ title: 'Maxesla WiFi Adaptador AC 600Mbps Mini U'
 date: 2019/12/25 09:40:22 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bWagPgbVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bWagPgbVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PNQ6JWC

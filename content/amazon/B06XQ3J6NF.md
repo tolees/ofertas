@@ -4,6 +4,7 @@ title: 'Desigual TS_Leopard Degrade Camiseta  Gr'
 date: 2019/12/12 15:58:17 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ihogWfuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ihogWfuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XQ3J6NF

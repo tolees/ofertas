@@ -3,6 +3,7 @@ layout: post
 title: 'Taiko No Tatsujin: Drum n Fun'
 date: 2020-01-07 06:10:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61BJBsFdn%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

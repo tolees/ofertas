@@ -4,6 +4,7 @@ title: 'Sony SRS-XB12  Altavoz Inalámbrico Portá'
 date: 2019/12/24 06:01:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kY3me8frL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kY3me8frL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MLHHDKR

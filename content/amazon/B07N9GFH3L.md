@@ -3,6 +3,7 @@ layout: post
 title: 'Timex Reloj de Pulsera TW2R93900'
 date: 2019-12-31 21:37:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ww39vfWgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ww39vfWgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

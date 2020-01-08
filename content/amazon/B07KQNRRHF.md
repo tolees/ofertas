@@ -4,6 +4,7 @@ title: 'KESOTO 3 Piezas Barril de Cerveza Modelo'
 date: 2020-01-03 23:28:38
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4147Z7-E28L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4147Z7-E28L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KQNRRHF

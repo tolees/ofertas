@@ -4,6 +4,7 @@ title: 'Nokia 8 Sirocco 128 GB UK SIM-Free Smart'
 date: 2019/12/24 15:34:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mEhcCTGML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mEhcCTGML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B69SLMB

@@ -3,6 +3,7 @@ layout: post
 title: 'Starcraft II Battlechest 2.0'
 date: 2019/12/26 18:57:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

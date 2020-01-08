@@ -4,6 +4,7 @@ title: 'Wrangler High Rise Skinny Vaqueros  Azul'
 date: 2019/12/28 20:39:43 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315m5EguhCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315m5EguhCL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07M8LKJKH

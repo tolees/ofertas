@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Crocband U  Zuecos Unisex Adulto  '
 date: 2019/12/26 15:57:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CptNqp%2BDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CptNqp%2BDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

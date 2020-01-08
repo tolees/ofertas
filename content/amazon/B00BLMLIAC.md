@@ -4,6 +4,7 @@ title: 'BRA Set de 3 sartenes de aluminio forjad'
 date: 2019/12/31 10:28:48 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DRjhZeDbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DRjhZeDbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00BLMLIAC

@@ -4,6 +4,7 @@ title: 'G-STAR RAW Damen Army Radar Mid Waist Bo'
 date: 2019/12/24 22:40:49 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416i8WLunAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416i8WLunAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07M9QKLL4

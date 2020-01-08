@@ -4,6 +4,7 @@ title: 'GUESS Reloj Analógico para Mujer de Cuar'
 date: 2020-01-03 15:00:35
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nMJBm4TeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nMJBm4TeL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07F3MW3KF

@@ -4,6 +4,7 @@ title: 'Lacoste Sport Carnaby EVO BL 1 SPW  Zapa'
 date: 2019/12/24 09:44:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FBl16nwJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FBl16nwJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01E5UEXMQ

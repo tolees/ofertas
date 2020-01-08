@@ -4,6 +4,7 @@ title: 'Desigual Dress Marian Vestido  Blanco  C'
 date: 2019/12/30 18:27:54 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUn745sAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUn745sAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07N3VRXB6

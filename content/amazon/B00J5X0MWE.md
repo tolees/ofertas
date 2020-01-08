@@ -3,6 +3,7 @@ layout: post
 title: 'uhlsport Match Chaqueta De Entrenamiento'
 date: 2020-01-03 10:55:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O6WVrAHwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O6WVrAHwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'JBL Charge 3 - Altavoz portátil con Blue'
 date: 2019/12/14 21:01:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tB9ngsb-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tB9ngsb-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MD24OWD

@@ -3,6 +3,7 @@ layout: post
 title: 'Dickies - Sudadera con Capucha de Alta V'
 date: 2019/12/25 12:16:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eYNM68-ML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eYNM68-ML._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

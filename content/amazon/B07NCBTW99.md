@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Saturn Vaqueros  Destroy Deni'
 date: 2019/12/17 08:29:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ovAM7XZKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ovAM7XZKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

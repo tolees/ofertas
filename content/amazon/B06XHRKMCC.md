@@ -4,6 +4,7 @@ title: 'find. Camisa de Manga Larga Slim Fit con'
 date: 2020-01-02 08:14:17
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PiaeudqUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PiaeudqUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XHRKMCC

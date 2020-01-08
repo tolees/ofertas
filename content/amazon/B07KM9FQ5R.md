@@ -4,6 +4,7 @@ title: 'Ciclismo de aleación de Aluminio a Prueb'
 date: 2019/12/16 22:58:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TWaOZLW2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TWaOZLW2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KM9FQ5R

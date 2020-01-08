@@ -3,6 +3,7 @@ layout: post
 title: 'AURIQUE Half Zip Sports Chaqueta Rojo  P'
 date: 2020-01-05 20:00:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

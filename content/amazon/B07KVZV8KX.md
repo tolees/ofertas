@@ -4,6 +4,7 @@ title: 'Cámara DV180 16MP Mini vídeo Digital con'
 date: 2020-01-06 12:37:40
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KVZV8KX

@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Scarlett Cropped Vaqueros Skinny  Az'
 date: 2019/12/26 13:51:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B0GXPqwkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B0GXPqwkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

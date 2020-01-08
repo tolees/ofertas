@@ -4,6 +4,7 @@ title: 'New Balance 997h  Zapatillas para Mujer '
 date: 2020-01-04 20:22:16
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HG5KNVQ

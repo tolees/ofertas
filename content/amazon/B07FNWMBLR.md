@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO NINJAGO 70659 - Spinjitzu Kai'
 date: 2019/12/20 01:18:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51luyg3CFsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51luyg3CFsL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

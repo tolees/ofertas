@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri K Rainforest 1 Chaqueta  Rojo '
 date: 2020-01-05 07:10:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k0ZjEtVYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k0ZjEtVYL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

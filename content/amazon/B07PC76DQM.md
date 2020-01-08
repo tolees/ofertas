@@ -3,6 +3,7 @@ layout: post
 title: 'Lenovo T530-28ICB - Ordenador sobremesa '
 date: 2019/12/19 15:42:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414rWUrLoAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414rWUrLoAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

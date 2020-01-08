@@ -4,6 +4,7 @@ title: 'Kami Idea Regalos Navidad Mujer Collares'
 date: 2019/12/29 14:14:29 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vb-VAYnbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vb-VAYnbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07V6XT9JP

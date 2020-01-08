@@ -3,6 +3,7 @@ layout: post
 title: 'CRXOOX 3 Piezas Protector de Pantalla pa'
 date: 2019/12/12 12:03:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vU9EkN-2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vU9EkN-2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

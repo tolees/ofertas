@@ -3,6 +3,7 @@ layout: post
 title: 'Baseus Car Charger  Car Adaptor with Qui'
 date: 2020-01-04 20:37:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nbj3bOXwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nbj3bOXwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

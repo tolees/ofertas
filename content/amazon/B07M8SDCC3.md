@@ -4,6 +4,7 @@ title: 'Ecoiffier- Hamburguesería de Juguete  Co'
 date: 2019/12/22 22:35:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MN2rbRT9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MN2rbRT9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07M8SDCC3

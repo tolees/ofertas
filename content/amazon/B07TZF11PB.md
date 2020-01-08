@@ -3,6 +3,7 @@ layout: post
 title: 'Parfois - Bandolera Con Asa De Cadena - '
 date: 2020-01-07 12:24:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bc4rg%2BinL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bc4rg%2BinL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

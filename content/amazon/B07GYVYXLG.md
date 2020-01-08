@@ -4,6 +4,7 @@ title: '60 LED 10M Cadena Solar de Luces  IP65 I'
 date: 2020-01-07 17:39:53
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GYVYXLG

@@ -3,6 +3,7 @@ layout: post
 title: 'Salvatore Ferragamo Signorina In Fiore A'
 date: 2019/12/31 08:22:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-rfEPPoBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-rfEPPoBL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

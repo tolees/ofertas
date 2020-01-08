@@ -3,6 +3,7 @@ layout: post
 title: 'BaByliss IPro Slim ST387E - Plancha de p'
 date: 2019/12/19 20:55:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BH3JDnElL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BH3JDnElL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

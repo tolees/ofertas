@@ -4,6 +4,7 @@ title: 'Olay Total Effects 7en1 Anti-Edad Reafir'
 date: 2020-01-02 13:12:07
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sruMLchOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sruMLchOL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B076M5MVQM

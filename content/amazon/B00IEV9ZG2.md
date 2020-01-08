@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Avent SCF355/00 - Calienta biber'
 date: 2019/12/15 01:55:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31buidPIvHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31buidPIvHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

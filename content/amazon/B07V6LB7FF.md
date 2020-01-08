@@ -3,6 +3,7 @@ layout: post
 title: 'Frozen 2 Sing Along Microphone and MP3 K'
 date: 2020-01-07 22:19:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3162srAzrVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3162srAzrVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

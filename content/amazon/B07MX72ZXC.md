@@ -3,6 +3,7 @@ layout: post
 title: 'Lightailing Licht-Set Für  Star Wars Sup'
 date: 2020-01-07 14:50:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411X71mRl%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411X71mRl%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

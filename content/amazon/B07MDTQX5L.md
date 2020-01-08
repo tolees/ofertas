@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Base Camp-M Mochila Duffe'
 date: 2020-01-06 05:06:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tC3drPrzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tC3drPrzL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

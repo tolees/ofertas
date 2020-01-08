@@ -4,6 +4,7 @@ title: 'Giochi Preziosi LLU63000 L.O.L Surprise '
 date: 2020-01-08 06:56:09
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CskeZTfEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CskeZTfEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KKY7MP7

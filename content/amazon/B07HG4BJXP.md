@@ -4,6 +4,7 @@ title: 'New Balance 574v2  Zapatillas para Mujer'
 date: 2019/12/15 10:31:39 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdkJD9JwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZdkJD9JwL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HG4BJXP

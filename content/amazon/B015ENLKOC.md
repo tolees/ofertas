@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop! - Vinyl: Disney: Stitch Seate'
 date: 2019/12/27 14:00:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41az5X3mphL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41az5X3mphL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

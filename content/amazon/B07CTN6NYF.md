@@ -4,6 +4,7 @@ title: 'Under Armour Charged Rogue  Zapatillas d'
 date: 2019/12/16 17:33:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FEkx2S6ZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FEkx2S6ZL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CTN6NYF

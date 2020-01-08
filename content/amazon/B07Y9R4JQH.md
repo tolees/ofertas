@@ -4,6 +4,7 @@ title: 'FLOUREON Estación Meteorológica Inalámbr'
 date: 2019/12/15 09:19:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QrI4xOx2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QrI4xOx2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Y9R4JQH

@@ -3,6 +3,7 @@ layout: post
 title: 'erima Hombre Masters Azul presentación P'
 date: 2019/12/18 07:51:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LMJhj4vWL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LMJhj4vWL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Waterpik WP-100  - Producto de cuidado d'
 date: 2019/12/31 03:33:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DDNFGozrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DDNFGozrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

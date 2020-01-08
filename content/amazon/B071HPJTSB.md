@@ -4,6 +4,7 @@ title: 'Tommy Hilfiger Core Stretch Slim Vneck t'
 date: 2019/12/27 13:32:43 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bx0Lg0kJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bx0Lg0kJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B071HPJTSB

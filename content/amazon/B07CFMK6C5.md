@@ -4,6 +4,7 @@ title: 'Spyro Reignited Trilogy'
 date: 2019/12/29 09:22:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dgkaqBaQL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CFMK6C5

@@ -4,6 +4,7 @@ title: 'Sony KD-55XG8196BAEP - Televisor 4K HDR '
 date: 2019/12/30 16:26:32 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ms9gt0caL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ms9gt0caL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07QSS9VC5

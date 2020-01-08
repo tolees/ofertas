@@ -4,6 +4,7 @@ title: 'KitchenBoss Bolsas de Vacío 3 Rolls 15x5'
 date: 2019/12/26 15:33:50 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gX0hR29gL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gX0hR29gL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B076DXN1YG

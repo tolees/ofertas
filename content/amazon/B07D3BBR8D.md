@@ -4,6 +4,7 @@ title: 'Nozama Jersey Pico  Verde  Verde 000   1'
 date: 2019/12/18 17:59:35 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wosjqA6XL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wosjqA6XL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07D3BBR8D

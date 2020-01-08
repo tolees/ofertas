@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Larston Vaqueros Tapered  Azul '
 date: 2019/12/15 17:56:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LjtzWFH7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LjtzWFH7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

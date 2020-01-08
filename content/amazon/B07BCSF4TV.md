@@ -3,6 +3,7 @@ layout: post
 title: 'Rowenta RH8995WO  Air Force Extreme Sile'
 date: 2020-01-02 09:37:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ONzM22E3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ONzM22E3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

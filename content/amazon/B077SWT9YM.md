@@ -4,6 +4,7 @@ title: 'Nike U Nk H86 Cap Metal Swoosh Hat  Unis'
 date: 2019/12/30 12:54:20 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c-AEjiboL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c-AEjiboL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077SWT9YM

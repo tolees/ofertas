@@ -4,6 +4,7 @@ title: 'G-STAR RAW Rovulc Low  Zapatillas para M'
 date: 2019/12/20 20:12:24 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ei3mXuS5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ei3mXuS5L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0798FTHKY

@@ -4,6 +4,7 @@ title: 'LileZbox - Expositor de acrílico para Fi'
 date: 2019/12/30 23:21:19 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xvpz6VxqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xvpz6VxqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07X8LZJ4V

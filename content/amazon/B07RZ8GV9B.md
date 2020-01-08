@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s unbasic  Hoodie Capucha  Multicol'
 date: 2020-01-04 09:39:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

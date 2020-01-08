@@ -3,6 +3,7 @@ layout: post
 title: 'J.Rosee Collares Mujer Colgante Plata de'
 date: 2020-01-04 09:36:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412RJ9ecsTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412RJ9ecsTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

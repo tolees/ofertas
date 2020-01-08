@@ -4,6 +4,7 @@ title: 'Levi s 514 Vaqueros Straight  Azul  Appl'
 date: 2020-01-05 18:23:58
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418FfDBeIjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418FfDBeIjL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LFGV2QG

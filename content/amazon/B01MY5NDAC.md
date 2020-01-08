@@ -4,6 +4,7 @@ title: 'Comforday Limpiador Vapor Mano  Limpiado'
 date: 2020-01-01 01:02:13
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yz4mRfVYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yz4mRfVYL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MY5NDAC

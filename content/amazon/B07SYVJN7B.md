@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver Jungen 61.908.31.8710 Langarmsh'
 date: 2019/12/17 07:16:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410DDutNPRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410DDutNPRL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Henry London Reloj Análogo clásico para '
 date: 2019/12/20 01:11:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-XWNnxCvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-XWNnxCvL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01G7BBCXE

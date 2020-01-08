@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Trailblazer Mochila para Carrera'
 date: 2019/12/13 08:04:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-sym-Iv%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-sym-Iv%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

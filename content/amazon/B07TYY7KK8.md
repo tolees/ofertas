@@ -4,6 +4,7 @@ title: 'BRIKSMAX Led Lighting Kit for LEGO Frien'
 date: 2020-01-03 14:11:41
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzjZH%2Bm0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZzjZH%2Bm0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TYY7KK8

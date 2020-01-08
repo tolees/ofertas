@@ -3,6 +3,7 @@ layout: post
 title: 'SHEGRACE Pulsera de Corazon Mujer de 925'
 date: 2019/12/24 13:17:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PtWuQu%2BZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PtWuQu%2BZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

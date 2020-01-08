@@ -3,6 +3,7 @@ layout: post
 title: 'Butter London Plush Rush Pintalabios'
 date: 2020-01-01 11:18:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

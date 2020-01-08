@@ -4,6 +4,7 @@ title: 'Urban Classics Contrast Pocket tee Camis'
 date: 2019/12/24 22:55:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n%2BE2nVHGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n%2BE2nVHGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00SKXCTP8

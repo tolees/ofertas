@@ -4,6 +4,7 @@ title: 'Braun Series 3 ProSkin 3040 s - Afeitado'
 date: 2019/12/17 10:43:41 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51--uR3dZDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51--uR3dZDL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00WW8BVHO

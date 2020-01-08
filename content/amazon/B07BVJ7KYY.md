@@ -4,6 +4,7 @@ title: 'Kappa Alyn Sudadera  Mujer  Gris/Negro  '
 date: 2019/12/13 11:01:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TxS44KTBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TxS44KTBL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BVJ7KYY

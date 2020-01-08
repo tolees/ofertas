@@ -4,6 +4,7 @@ title: 'Lenovo Ideapad 320-15IKBN - Ordenador po'
 date: 2020-01-02 18:08:56
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AkIyVTNhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AkIyVTNhL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07C9GYN4Y

@@ -4,6 +4,7 @@ title: 'Muñecas Arias - Elegance 36 cm con Conju'
 date: 2019/12/23 14:05:13 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MtqsyysQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MtqsyysQL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Z7NV1CR

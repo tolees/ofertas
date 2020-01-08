@@ -3,6 +3,7 @@ layout: post
 title: 'Amilril Collar  Colgante Luna y Gato  Pl'
 date: 2020-01-06 10:03:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R-H58k%2BjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

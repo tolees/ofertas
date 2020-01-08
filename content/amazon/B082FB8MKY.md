@@ -4,6 +4,7 @@ title: '2020 Nueva Cámara para Niños  Cámara de '
 date: 2020-01-07 22:50:13
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KB47YJpoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KB47YJpoL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B082FB8MKY

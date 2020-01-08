@@ -3,6 +3,7 @@ layout: post
 title: 'Hummel Larsen Slipper  Mocasines Unisex '
 date: 2019/12/18 18:16:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xzBLGYBHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xzBLGYBHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

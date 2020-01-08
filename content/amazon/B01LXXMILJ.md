@@ -4,6 +4,7 @@ title: 'InnoBeta Fountain Humidificador Ultrasón'
 date: 2019/12/31 10:40:28 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JFCuUkfJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JFCuUkfJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01LXXMILJ

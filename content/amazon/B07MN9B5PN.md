@@ -3,6 +3,7 @@ layout: post
 title: 'edc by Esprit 029CC1F014 Blusa  Verde  D'
 date: 2019/12/18 22:55:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2B5i-qL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2B5i-qL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

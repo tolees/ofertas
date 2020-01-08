@@ -3,6 +3,7 @@ layout: post
 title: 'find. Camisa con Cuello Alado Mujer  Neg'
 date: 2020-01-02 08:52:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CTCMNMjwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CTCMNMjwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

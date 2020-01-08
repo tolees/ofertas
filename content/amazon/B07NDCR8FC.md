@@ -4,6 +4,7 @@ title: 'Desigual 19WAYA01 - Cartera para mujer d'
 date: 2020-01-03 11:06:28
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ufQzCATgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ufQzCATgL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NDCR8FC

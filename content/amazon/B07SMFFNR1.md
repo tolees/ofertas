@@ -4,6 +4,7 @@ title: 'NEEGO Bloques de Construcción 1000 Pieza'
 date: 2019/12/22 18:13:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61T8ERh7hmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61T8ERh7hmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SMFFNR1

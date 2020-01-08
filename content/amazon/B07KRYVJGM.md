@@ -4,6 +4,7 @@ title: 'ETNAB|#Etnies Jameson 2 Eco  Zapatillas '
 date: 2019/12/28 19:54:31 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31r5ZbIe-pL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31r5ZbIe-pL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KRYVJGM

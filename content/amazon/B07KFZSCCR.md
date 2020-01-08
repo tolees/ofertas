@@ -4,6 +4,7 @@ title: 'PUMA Cell Venom Alert  Zapatillas Unisex'
 date: 2020-01-04 19:02:51
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KFZSCCR

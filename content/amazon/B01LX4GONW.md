@@ -4,6 +4,7 @@ title: 'Philips Sonicare DiamondClean Electric T'
 date: 2019/12/20 11:04:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gfcZCjLcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gfcZCjLcL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01LX4GONW

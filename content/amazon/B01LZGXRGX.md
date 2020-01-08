@@ -4,6 +4,7 @@ title: 'Happy Cherry - Saco de Dormir Infantil M'
 date: 2019/12/28 12:41:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SBTpUdDnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SBTpUdDnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01LZGXRGX

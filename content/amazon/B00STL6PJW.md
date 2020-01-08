@@ -3,6 +3,7 @@ layout: post
 title: 'Hasbro Gaming Gaming Clasico Pictureka  '
 date: 2020-01-03 11:08:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jrQFowofL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jrQFowofL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

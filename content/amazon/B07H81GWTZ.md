@@ -4,6 +4,7 @@ title: 'Nike Wmns Downshifter 9  Zapatillas de R'
 date: 2020-01-07 08:16:59
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412h1jfmVeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412h1jfmVeL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07H81GWTZ

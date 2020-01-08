@@ -4,6 +4,7 @@ title: 'JACK & JONES Jjesheridan Shirt L/s Camis'
 date: 2020-01-01 23:56:57
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418xzoGsxHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418xzoGsxHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CCJJCW4

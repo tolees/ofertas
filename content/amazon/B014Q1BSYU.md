@@ -4,6 +4,7 @@ title: 'Sunstech ARGOS4GBBL - Reproductor MP3 de'
 date: 2020-01-03 20:24:37
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uy2AmVWJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uy2AmVWJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B014Q1BSYU

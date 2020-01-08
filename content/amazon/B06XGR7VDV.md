@@ -3,6 +3,7 @@ layout: post
 title: 'Mochila Vintage Mochila para Portátil Mo'
 date: 2020-01-07 10:41:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wp9PJuP-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wp9PJuP-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

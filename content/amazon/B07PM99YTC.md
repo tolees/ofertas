@@ -4,6 +4,7 @@ title: 'BRIKSMAX Kit de Iluminación Led para Min'
 date: 2019-12-02 18:16:58
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PM99YTC

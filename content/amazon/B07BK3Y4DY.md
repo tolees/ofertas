@@ -3,6 +3,7 @@ layout: post
 title: 'Rodillo de espuma 2 en 1 Juego de 4 rodi'
 date: 2019/12/12 18:51:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eDpXu0QlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eDpXu0QlL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

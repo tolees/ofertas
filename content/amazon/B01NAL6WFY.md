@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver 14703512907-Chaqueta Mujer Azul'
 date: 2019/12/27 07:51:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r0FG0W05L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r0FG0W05L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

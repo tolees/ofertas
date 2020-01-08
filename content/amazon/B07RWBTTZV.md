@@ -3,6 +3,7 @@ layout: post
 title: 'Hasbro Disney Frozen Arendelle Elsa E684'
 date: 2020-01-05 22:29:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NvT7DlgGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NvT7DlgGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

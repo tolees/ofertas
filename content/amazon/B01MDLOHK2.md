@@ -3,6 +3,7 @@ layout: post
 title: 'Kayhan Hombre Camisa Mailand  Lightblue '
 date: 2019/12/19 13:29:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CD5dapyVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CD5dapyVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

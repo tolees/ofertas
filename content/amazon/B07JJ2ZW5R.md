@@ -4,6 +4,7 @@ title: 'V2000 Auriculares 7.1 Canales 3.5mm Jack'
 date: 2019/12/18 12:46:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BVYBkSG5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BVYBkSG5L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JJ2ZW5R

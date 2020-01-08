@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Originals Women s Ashton Derbys  '
 date: 2020-01-01 17:11:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NDZjW2lhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NDZjW2lhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

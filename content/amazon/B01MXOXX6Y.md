@@ -4,6 +4,7 @@ title: 'Wrangler Vaqueros Skinny para Mujer  Neg'
 date: 2019/12/11 23:14:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UaPOHlNqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UaPOHlNqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MXOXX6Y

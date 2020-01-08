@@ -4,6 +4,7 @@ title: 'Goliath - Juego Triominos de Viaje en Ca'
 date: 2020-01-02 13:05:59
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517eM9XZFqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517eM9XZFqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B005X4TDSI

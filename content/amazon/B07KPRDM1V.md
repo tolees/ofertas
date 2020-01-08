@@ -4,6 +4,7 @@ title: 'GANT Herren O1. The Panel Down Vest Outd'
 date: 2020-01-03 11:54:38
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KPRDM1V

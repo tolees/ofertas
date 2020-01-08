@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Revend Skinny Vaqueros  Antic'
 date: 2019/12/28 12:05:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MLE8KS-GL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MLE8KS-GL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Sylvanian Families 5021 - Refrigerator S'
 date: 2020-01-01 14:34:30
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nWv%2BoEboL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nWv%2BoEboL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00HRRCJZ8

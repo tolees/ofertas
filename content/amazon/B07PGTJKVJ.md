@@ -3,6 +3,7 @@ layout: post
 title: 'YGJT Juguete de Niño 1 año Niña Niño Jug'
 date: 2019/12/29 10:38:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LzNyvSNeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LzNyvSNeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

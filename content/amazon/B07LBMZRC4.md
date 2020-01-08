@@ -4,6 +4,7 @@ title: 'Kappa Vokis  Zapatillas Unisex Adulto  B'
 date: 2019/12/19 12:56:54 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kR3ZT0nkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kR3ZT0nkL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LBMZRC4

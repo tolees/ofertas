@@ -4,6 +4,7 @@ title: 'Bizak- Detective Pikachu Multi 6 Figuras'
 date: 2019/12/29 10:21:18 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xzUsYzqqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xzUsYzqqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SR3L9YB

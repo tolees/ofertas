@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Lightweight Running/Hiking Hydra'
 date: 2019/12/13 09:53:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aWP8e5qGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aWP8e5qGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'BSN All In One Weight Gainer Polvo de Pr'
 date: 2020-01-02 01:12:45
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I5aQTgXiL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07D9SKRNT

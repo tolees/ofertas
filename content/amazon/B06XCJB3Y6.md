@@ -4,6 +4,7 @@ title: 'IMC Toys Boom Ball  Juego de Mesa  Innov'
 date: 2019/12/28 22:12:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B9k3XZltL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B9k3XZltL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XCJB3Y6

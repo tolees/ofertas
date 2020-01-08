@@ -3,6 +3,7 @@ layout: post
 title: 'Think Gizmos Build Your Own Robot Toys f'
 date: 2020-01-05 06:20:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/611gAO%2BZWKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/611gAO%2BZWKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

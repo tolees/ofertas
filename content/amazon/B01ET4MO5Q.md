@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen W Aden Long Chaqueta  Mujer'
 date: 2019/12/23 07:56:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ceB9oLOKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ceB9oLOKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

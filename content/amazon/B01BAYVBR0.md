@@ -4,6 +4,7 @@ title: 'Kibath 1151414 higiene íntima para susti'
 date: 2020-01-08 00:11:07
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WS3HZy27L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WS3HZy27L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01BAYVBR0

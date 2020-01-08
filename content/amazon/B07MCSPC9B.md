@@ -4,6 +4,7 @@ title: 'Napapijri Aric Chaqueta  Azul  BLU Marin'
 date: 2019/12/24 14:56:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQLkCasDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dQLkCasDL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MCSPC9B

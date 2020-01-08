@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger New Chiara Str Pq Polo SS'
 date: 2019/12/17 08:47:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xl2HjEsdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xl2HjEsdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

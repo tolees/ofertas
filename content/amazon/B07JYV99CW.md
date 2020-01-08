@@ -4,6 +4,7 @@ title: 'Tommy Hilfiger Christa C-nk tee SS Camis'
 date: 2019/12/25 14:03:57 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410lUx2bGPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410lUx2bGPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JYV99CW

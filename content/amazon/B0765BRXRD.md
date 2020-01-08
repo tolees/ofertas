@@ -4,6 +4,7 @@ title: 'Cable Guy WWII Private  Soporte de sujec'
 date: 2019/12/16 09:41:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T5JdwqFLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T5JdwqFLL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0765BRXRD

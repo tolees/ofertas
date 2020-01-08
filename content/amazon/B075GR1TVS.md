@@ -4,6 +4,7 @@ title: 'LEGO Star Wars Han Solo 75535 Baubare Fi'
 date: 2020-01-06 06:17:35
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B075GR1TVS

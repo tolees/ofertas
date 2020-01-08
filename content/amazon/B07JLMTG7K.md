@@ -4,6 +4,7 @@ title: 'Deik Planchas de Ropa  2000W Plancha Rop'
 date: 2020-01-07 22:01:38
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c8NQmauiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c8NQmauiL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JLMTG7K

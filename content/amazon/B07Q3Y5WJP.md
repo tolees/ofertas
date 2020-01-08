@@ -4,6 +4,7 @@ title: 'Peter Rabbit Pijamas de Manga Corta para'
 date: 2019/12/23 14:18:25 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sEt-otDCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sEt-otDCL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q3Y5WJP

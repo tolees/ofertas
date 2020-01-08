@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Original Xiaomi MiBand Band 4  Global Ve'
-date: 2020-01-06 00:45:28
+date: 2020-01-08 09:02:25
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bijGBKHYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bijGBKHYL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WPSBBY3

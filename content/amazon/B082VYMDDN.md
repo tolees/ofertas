@@ -3,6 +3,7 @@ layout: post
 title: 'OwlFay Disfraz de Princesa Carnival para'
 date: 2020-01-05 14:33:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513k7pFwOzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513k7pFwOzL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

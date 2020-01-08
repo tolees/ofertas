@@ -3,6 +3,7 @@ layout: post
 title: 'GODNECE Technic Racing Car  1:10 2.4G Mo'
 date: 2020-01-08 06:40:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oTGi8MtVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oTGi8MtVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

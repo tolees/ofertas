@@ -3,6 +3,7 @@ layout: post
 title: 'Olay Regenerist Whip Crema Hidratante Pi'
 date: 2019/12/18 19:09:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VSzretkOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VSzretkOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

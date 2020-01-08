@@ -4,6 +4,7 @@ title: 'find. Jersey de Algodón Hombre  Negro  X'
 date: 2019/12/20 11:09:31 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EL-nUDD0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EL-nUDD0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B073JNTDJ4

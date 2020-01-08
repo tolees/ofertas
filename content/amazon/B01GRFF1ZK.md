@@ -4,6 +4,7 @@ title: 'WD My Cloud PR2100 4 TB - Network Attach'
 date: 2019/12/26 13:15:50 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LwFjgG8IL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LwFjgG8IL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01GRFF1ZK

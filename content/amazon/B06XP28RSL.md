@@ -3,6 +3,7 @@ layout: post
 title: 'Bissell Pet Hair Eraser Aspirador de man'
 date: 2020-01-05 09:33:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YldgbgNNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YldgbgNNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

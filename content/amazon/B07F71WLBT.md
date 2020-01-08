@@ -4,6 +4,7 @@ title: 'Regufibra | Potente prebiótico con aloe '
 date: 2019/12/24 23:50:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y7Su0lMcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y7Su0lMcL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07F71WLBT

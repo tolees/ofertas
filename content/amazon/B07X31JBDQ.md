@@ -4,6 +4,7 @@ title: 'Tronsmart T2 Plus Altavoz Bluetooth 20W '
 date: 2020-01-05 23:02:54
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410tLr0KaJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410tLr0KaJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07X31JBDQ

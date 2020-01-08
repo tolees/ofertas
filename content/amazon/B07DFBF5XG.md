@@ -4,6 +4,7 @@ title: 'Funko 34475 POP Vinyl: Games Cuphead in '
 date: 2019/12/16 23:22:50 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MUrDI64kL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MUrDI64kL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DFBF5XG

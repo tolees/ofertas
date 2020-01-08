@@ -3,6 +3,7 @@ layout: post
 title: 'BaronHong Gynecomastia compresión Camisa'
 date: 2019/12/27 12:40:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lsYke9c7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lsYke9c7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

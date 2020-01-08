@@ -4,6 +4,7 @@ title: 'Levi s 511 Slim Fit Vaqueros  Norse Warp'
 date: 2019/12/15 20:08:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XIS6VOCgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XIS6VOCgL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KF3BNFS

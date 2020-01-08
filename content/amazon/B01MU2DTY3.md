@@ -3,6 +3,7 @@ layout: post
 title: 'Activewear Sudadera Deportiva Hombre  Ne'
 date: 2019/12/29 09:39:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418rAuxQ4CL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418rAuxQ4CL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

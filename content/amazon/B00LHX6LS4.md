@@ -4,6 +4,7 @@ title: 'Einhell TH-CD 12 Li - Taladro sin cable '
 date: 2019/12/18 17:05:16 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMWL%2BZRLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMWL%2BZRLL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00LHX6LS4

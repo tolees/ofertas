@@ -4,6 +4,7 @@ title: 'Seagate STEA2000400 - Disco duro de 2 TB'
 date: 2020-01-04 13:33:08
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00TKFEE5S

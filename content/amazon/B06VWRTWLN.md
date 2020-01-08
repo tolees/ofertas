@@ -3,6 +3,7 @@ layout: post
 title: 'Lock S Quest'
 date: 2020-01-04 13:22:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61iiCGh7JkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61iiCGh7JkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

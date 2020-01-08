@@ -4,6 +4,7 @@ title: 'Samyang SA7081 - Objetivo 14 mm F2.8 par'
 date: 2019/12/29 09:22:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jwjZV8etL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jwjZV8etL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GYXHRJ1

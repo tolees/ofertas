@@ -4,6 +4,7 @@ title: 'Bluetooth Schlafmaske schlafkopfhörer Bl'
 date: 2019/12/20 07:25:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RIRFA3UoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RIRFA3UoL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07W7JMHQV

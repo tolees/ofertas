@@ -3,6 +3,7 @@ layout: post
 title: 'find. Botines Ajustados de Tacón Mujer  '
 date: 2019/12/20 09:50:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dBQ81U43L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dBQ81U43L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

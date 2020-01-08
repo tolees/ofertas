@@ -4,6 +4,7 @@ title: 'Playmobil - Privatjet'
 date: 2019/12/16 07:23:24 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qbGmzBGAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qbGmzBGAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GTP6BNM

@@ -4,6 +4,7 @@ title: 'BTS Conjunto Dos Piezas Map of The Soul '
 date: 2019/12/23 16:31:07 +0000
 comments: true
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 category: ofertas
 author: ring
 slug: B07WFP8W5K

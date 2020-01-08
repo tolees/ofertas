@@ -4,6 +4,7 @@ title: 'TXXCI Acrylic Display Case/Box Dustproof'
 date: 2019/12/29 00:39:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dy9vTlyHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dy9vTlyHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07XPW9BMV

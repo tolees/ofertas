@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Graceful-Get Connected  Zapatil'
 date: 2020-01-07 16:33:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F8CyhMxaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F8CyhMxaL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

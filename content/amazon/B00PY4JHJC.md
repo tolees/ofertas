@@ -3,6 +3,7 @@ layout: post
 title: 'KRISP 6488-NVY-10  Vestido Corto Fruncid'
 date: 2019/12/21 17:35:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

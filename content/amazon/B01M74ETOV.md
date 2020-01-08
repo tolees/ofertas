@@ -4,6 +4,7 @@ title: 'G-STAR RAW Lynn Mid Waist Skinny  Vaquer'
 date: 2019/12/25 16:09:47 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417xgBzhWTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417xgBzhWTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01M74ETOV

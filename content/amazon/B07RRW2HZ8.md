@@ -4,6 +4,7 @@ title: 'Kenwood kCook Multi Smart CCL450SI Robot'
 date: 2019/12/20 01:25:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BZpTcjmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BZpTcjmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RRW2HZ8

@@ -4,6 +4,7 @@ title: 'Introducing Echo Show 8 | 8" HD smart di'
 date: 2020-01-02 13:16:04
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nz0WNwSdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nz0WNwSdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SJBVV8V

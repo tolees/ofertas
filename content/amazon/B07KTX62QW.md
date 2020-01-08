@@ -4,6 +4,7 @@ title: 'adidas Duramo 9 C  Zapatillas de Running'
 date: 2020-01-04 21:29:09
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8JeN1jhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8JeN1jhL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KTX62QW

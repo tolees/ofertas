@@ -3,6 +3,7 @@ layout: post
 title: 'Reebok Classic Nylon Zapatilla de Runnin'
 date: 2020-01-07 10:29:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v6Z5tC2jL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v6Z5tC2jL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

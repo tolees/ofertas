@@ -4,6 +4,7 @@ title: 'Russell Hobbs Supreme Steam Pro - Planch'
 date: 2019/12/20 06:41:37 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTalZArlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTalZArlL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B074H6QSWW

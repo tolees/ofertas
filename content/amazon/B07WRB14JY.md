@@ -4,6 +4,7 @@ title: 'Botas de Nieve para niños y niñas  Camin'
 date: 2020-01-06 11:04:28
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IINXuc4QL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IINXuc4QL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WRB14JY

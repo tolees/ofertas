@@ -3,6 +3,7 @@ layout: post
 title: 'BLEND Jeans-Noos Cirrus Vaqueros  Blau  '
 date: 2019/12/25 13:21:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

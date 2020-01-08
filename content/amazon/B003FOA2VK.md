@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO Lego301516 8879 Remote Control Infr'
 date: 2019/12/17 07:12:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C5JUBi44L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C5JUBi44L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

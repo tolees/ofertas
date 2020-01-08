@@ -4,6 +4,7 @@ title: 'Kärcher Mehrzwecksauger WD 3 Premium  Be'
 date: 2020-01-02 20:44:41
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311F7wuTMnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311F7wuTMnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00IAPOPAI

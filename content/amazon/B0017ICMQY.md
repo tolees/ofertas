@@ -3,6 +3,7 @@ layout: post
 title: 'BaByliss 271CE - Tenacillas de pelo para'
 date: 2019/12/16 04:17:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EgJuP5lrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EgJuP5lrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

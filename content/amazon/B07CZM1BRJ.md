@@ -4,6 +4,7 @@ title: 'Under Armour Rival Fleece Logo Sweatshor'
 date: 2020-01-04 13:15:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BK%2BMLV3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BK%2BMLV3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CZM1BRJ

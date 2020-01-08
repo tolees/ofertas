@@ -4,6 +4,7 @@ title: 'Geographical Norway Chaqueta Hombre BOKE'
 date: 2019/12/17 20:42:29 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B081CCYXGB

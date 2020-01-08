@@ -4,6 +4,7 @@ title: 'Pop! Crash Bandicoot - Figura de Vinilo '
 date: 2020-01-06 18:10:48
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QyKNwz-yL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DFCXD18

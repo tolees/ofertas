@@ -4,6 +4,7 @@ title: 'Topcony Camara Vigilancia WiFi  1080P HD'
 date: 2020-01-07 20:08:23
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tiCifNkkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tiCifNkkL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07ZCZWPJ5

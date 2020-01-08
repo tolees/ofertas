@@ -4,6 +4,7 @@ title: 'Asics Gel-Nimbus 21  Zapatillas de Runni'
 date: 2019/12/25 10:09:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EybGHr-QL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EybGHr-QL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07K6JR1FB

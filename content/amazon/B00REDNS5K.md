@@ -4,6 +4,7 @@ title: 'Invicta Reloj Analógico para Hombre de C'
 date: 2019/12/17 22:37:21 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YujX3FsUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YujX3FsUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00REDNS5K

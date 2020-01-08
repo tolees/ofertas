@@ -3,6 +3,7 @@ layout: post
 title: 'POP Rocks: Metallica - Robert Trujillo'
 date: 2020-01-07 22:39:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'NOBES Tableta de Escritura LCD 8.5 Inch '
 date: 2020-01-02 08:06:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QyOxi8C6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QyOxi8C6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

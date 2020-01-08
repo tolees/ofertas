@@ -4,6 +4,7 @@ title: 'PUMA Originals Backpack Trend Mochilla  '
 date: 2019/12/16 10:27:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4134vR8VQpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4134vR8VQpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R7VBSC4

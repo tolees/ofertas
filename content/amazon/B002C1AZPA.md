@@ -3,6 +3,7 @@ layout: post
 title: 'Shock Absorber Classic Sports - Sujetado'
 date: 2019/12/26 22:41:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I-CMpCV5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I-CMpCV5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'licaso Jutebeutel Bedruckt Love Liebe L '
 date: 2020-01-01 22:48:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o5rZwptxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o5rZwptxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

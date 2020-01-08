@@ -3,6 +3,7 @@ layout: post
 title: 'LG 24MK600M-B - Monitor FHD de 60 4 cm  '
 date: 2020-01-06 09:03:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uokJ8VwNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uokJ8VwNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

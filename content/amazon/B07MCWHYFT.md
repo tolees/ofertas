@@ -4,6 +4,7 @@ title: 'Jeerhope Guantes de silicona para lavava'
 date: 2019/12/19 09:55:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dCGkACwRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dCGkACwRL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MCWHYFT

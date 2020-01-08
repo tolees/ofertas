@@ -3,6 +3,7 @@ layout: post
 title: 'TONGJI Acryl Vitrine Mit Beleuchtungsset'
 date: 2019/12/17 15:54:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HBdqq4qbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HBdqq4qbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

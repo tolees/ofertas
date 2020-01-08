@@ -4,6 +4,7 @@ title: 'Cecotec Microondas ProClean 3030. Capaci'
 date: 2020-01-02 18:00:10
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314yUDMvhUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314yUDMvhUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JZ5V5LG

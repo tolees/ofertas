@@ -4,6 +4,7 @@ title: 'adidas X 19.3 FG J  Zapatillas de Fútbol'
 date: 2019/12/30 10:56:48 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rItz3Vd6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rItz3Vd6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SSJMTHR

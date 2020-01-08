@@ -4,6 +4,7 @@ title: 'Disney Frozen Elsa & Anna Girls Swim rin'
 date: 2019/12/20 07:15:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hNryjY1jL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hNryjY1jL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B011JHXHXY

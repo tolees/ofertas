@@ -4,6 +4,7 @@ title: 'WMF Stelio Aroma Cafetera de 1000 W con '
 date: 2020-01-04 18:45:11
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A8zlVPI1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A8zlVPI1L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00JJAY51M

@@ -4,6 +4,7 @@ title: 'edc by Esprit 049cc2c023 Pantalones Cort'
 date: 2019/12/13 08:20:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416zgavPbQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416zgavPbQL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NDNWLGZ

@@ -4,6 +4,7 @@ title: 'Jellas 22PCS Extractor de Tornillos  Bro'
 date: 2019/12/16 19:21:37 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pR3xJgEnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pR3xJgEnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TJWXS8M

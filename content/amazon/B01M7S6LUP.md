@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Sportstyle Tricot Jogger Pa'
 date: 2019/12/18 18:22:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413cM30AyGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413cM30AyGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

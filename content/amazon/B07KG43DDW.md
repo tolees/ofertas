@@ -4,6 +4,7 @@ title: 'PUMA Storm Pulse  Zapatillas Unisex Adul'
 date: 2020-01-07 08:06:26
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410iw7GBq1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410iw7GBq1L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KG43DDW

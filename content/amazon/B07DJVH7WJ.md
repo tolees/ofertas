@@ -4,6 +4,7 @@ title: 'NBA 2K19 - Edición Estándar'
 date: 2020-01-07 19:59:24
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61wwY%2BxL3BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61wwY%2BxL3BL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DJVH7WJ

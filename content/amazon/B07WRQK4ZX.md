@@ -3,6 +3,7 @@ layout: post
 title: 'Monkey King: Hero is Back - PS4'
 date: 2020-01-01 17:50:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51px0kB%2BNbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51px0kB%2BNbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

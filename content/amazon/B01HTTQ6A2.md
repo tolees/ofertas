@@ -4,6 +4,7 @@ title: 'Vileda Turbo EasyWring und Clean Komplet'
 date: 2020-01-05 06:19:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01HTTQ6A2

@@ -4,6 +4,7 @@ title: 'Levi s Women s unbasic  Hoodie  White  W'
 date: 2020-01-03 11:48:24
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KF4TNSB

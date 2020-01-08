@@ -3,6 +3,7 @@ layout: post
 title: 'Activewear Top con Detalle en la Manga p'
 date: 2019/12/23 08:20:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414H5lGsl1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414H5lGsl1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

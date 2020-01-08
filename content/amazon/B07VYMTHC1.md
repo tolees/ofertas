@@ -3,6 +3,7 @@ layout: post
 title: 'Razer Kitty Gaming Bundle con Basilisk E'
 date: 2019/12/11 17:48:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TuUk12NQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TuUk12NQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'LEGO 21045 - Architecture Trafalgar Squa'
 date: 2020-01-07 22:44:42
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EjS8vm1jL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EjS8vm1jL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KTK9B3Z

@@ -4,6 +4,7 @@ title: 'Kübler 20463315 - 5597 - 106 Image Visio'
 date: 2019/12/24 09:02:15 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lIRyXCLaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lIRyXCLaL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00DNZCHZ0

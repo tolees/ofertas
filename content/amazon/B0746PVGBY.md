@@ -4,6 +4,7 @@ title: 'Tiny Love 3-in-1 Rocker Napper  Newborn '
 date: 2020-01-01 10:19:30
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eCaxSjZ-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eCaxSjZ-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0746PVGBY

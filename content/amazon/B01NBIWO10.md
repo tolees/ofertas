@@ -3,6 +3,7 @@ layout: post
 title: 'find. Sudadera Oversized con Volantes pa'
 date: 2020-01-05 10:46:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415BajCIAgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

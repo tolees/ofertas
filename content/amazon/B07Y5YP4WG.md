@@ -3,6 +3,7 @@ layout: post
 title: 'Powcan Gorro Bluetooth  V5.0 Inalámbrico'
 date: 2020-01-08 06:37:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Uu2KsSm%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Uu2KsSm%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

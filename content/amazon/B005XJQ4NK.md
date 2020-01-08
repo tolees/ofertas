@@ -3,6 +3,7 @@ layout: post
 title: 'Eastpak Rusher Bolso bandolera  23 cm  c'
 date: 2020-01-07 07:41:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zmy9GwheL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zmy9GwheL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

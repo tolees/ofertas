@@ -3,6 +3,7 @@ layout: post
 title: 'POP! Vinilo - Lost: Man in Black'
 date: 2019/12/13 23:47:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wmZpYPAqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wmZpYPAqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

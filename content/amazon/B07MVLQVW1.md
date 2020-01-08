@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Eils SS Polo  Verde  Green For'
 date: 2020-01-02 20:20:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

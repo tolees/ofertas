@@ -4,6 +4,7 @@ title: 'Lacoste TH6709  Camiseta para Hombre  Az'
 date: 2020-01-03 18:25:43
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B079LCTZV7

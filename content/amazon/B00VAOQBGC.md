@@ -4,6 +4,7 @@ title: 'AmazonBasics Kfz-Handyhalterung  für Win'
 date: 2019/12/16 17:20:45 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z%2BPf4MnpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z%2BPf4MnpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00VAOQBGC

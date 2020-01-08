@@ -4,6 +4,7 @@ title: 'Napapijri Rainforest W PKT 2 Chaqueta  A'
 date: 2019/12/20 13:50:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-xumUkrtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-xumUkrtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MCSP8M1

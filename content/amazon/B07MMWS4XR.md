@@ -4,6 +4,7 @@ title: 'SUAOKI CJS02 Arrancador de Coche 1000A  '
 date: 2019/12/14 03:45:56 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kjE4Gex8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kjE4Gex8L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MMWS4XR

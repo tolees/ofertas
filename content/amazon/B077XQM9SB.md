@@ -4,6 +4,7 @@ title: 'Under Armour Sportstyle Left Chest SS Ca'
 date: 2019/12/17 08:53:18 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Urpg2hj3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Urpg2hj3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077XQM9SB

@@ -4,6 +4,7 @@ title: 'Puma ESS Logo Crew TR Camisa de Entrenam'
 date: 2019/12/22 20:10:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314a35IRXnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314a35IRXnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07D5SSMN9

@@ -4,6 +4,7 @@ title: 'Salomon Alphacross GTX  Zapatillas de Tr'
 date: 2019/12/27 22:52:21 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BuBqq%2B6gL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BuBqq%2B6gL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KQQTJ7B

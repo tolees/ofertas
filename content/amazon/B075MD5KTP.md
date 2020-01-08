@@ -4,6 +4,7 @@ title: 'Fantasy Flight Games- Caja de Inicio par'
 date: 2020-01-06 12:05:18
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B075MD5KTP

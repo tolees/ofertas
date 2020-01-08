@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 411  Zapatillas de Running p'
 date: 2020-01-02 01:32:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QEsZr%2BuOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QEsZr%2BuOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

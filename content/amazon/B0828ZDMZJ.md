@@ -3,6 +3,7 @@ layout: post
 title: 'GODNECE Build Truck RC Models  Truck Mod'
 date: 2020-01-02 06:12:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQizW3G2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UQizW3G2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

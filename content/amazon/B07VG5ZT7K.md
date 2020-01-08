@@ -4,6 +4,7 @@ title: 'Grebarley Guantes de Ciclismo Bicicleta '
 date: 2020-01-01 16:41:47
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YvoGp1kGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YvoGp1kGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07VG5ZT7K

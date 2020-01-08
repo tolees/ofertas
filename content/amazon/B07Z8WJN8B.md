@@ -4,6 +4,7 @@ title: 'Tronsmart T6 Mini Altavoces Bluetooth 15'
 date: 2020-01-07 14:43:56
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Z8WJN8B

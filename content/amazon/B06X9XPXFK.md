@@ -4,6 +4,7 @@ title: 'Mick Morrison Senzo  pantalones vaqueros'
 date: 2020-01-07 16:05:47
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LPs9oqq4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LPs9oqq4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06X9XPXFK

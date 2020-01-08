@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Regi18 PES Jkt Sport Jacket  Homb'
 date: 2019/12/15 13:53:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O7Qnbm5iL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O7Qnbm5iL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

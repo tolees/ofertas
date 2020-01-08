@@ -4,6 +4,7 @@ title: 'LEGO City 60214 Feuerwehreinsatz im Burg'
 date: 2019/12/30 21:44:11 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LNPGDGcmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LNPGDGcmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FNMXFPZ

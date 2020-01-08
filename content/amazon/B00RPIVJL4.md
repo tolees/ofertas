@@ -4,6 +4,7 @@ title: 'adidas Zx Flux  Zapatillas Unisex para N'
 date: 2020-01-08 02:37:13
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ePECvK%2B1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ePECvK%2B1L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00RPIVJL4

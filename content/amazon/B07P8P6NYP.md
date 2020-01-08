@@ -4,6 +4,7 @@ title: 'PLAYMOBIL Novelmore 70220 Große Burg von'
 date: 2019/12/13 23:33:48 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61VR29KkyuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61VR29KkyuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07P8P6NYP

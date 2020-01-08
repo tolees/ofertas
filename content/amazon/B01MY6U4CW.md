@@ -4,6 +4,7 @@ title: 'Geographical Norway Trapeze Lady Chaquet'
 date: 2019/12/27 14:06:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wkkzwq1WL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wkkzwq1WL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MY6U4CW

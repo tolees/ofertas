@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung Mobile Accessories Wireless Char'
 date: 2019/12/13 19:45:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21tfT1j0-xL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21tfT1j0-xL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

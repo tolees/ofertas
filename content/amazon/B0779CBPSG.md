@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Entrada 18 JSY Jersey  Niños  Neg'
 date: 2020-01-06 18:42:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

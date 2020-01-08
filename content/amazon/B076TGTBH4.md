@@ -4,6 +4,7 @@ title: 'My Lovely Bed - Edredón Nórdico 4 Estaci'
 date: 2019/12/26 19:27:53 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510z9-MsKHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510z9-MsKHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B076TGTBH4

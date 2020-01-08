@@ -4,6 +4,7 @@ title: 'Columbia Powder Lite Chaqueta De Plumón '
 date: 2019/12/29 12:02:52 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bTiZTQ5SL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bTiZTQ5SL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R92MTCY

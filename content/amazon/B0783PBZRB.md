@@ -4,6 +4,7 @@ title: 'Curren hombres reloj de cuarzo analógico'
 date: 2020-01-04 21:08:32
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f47XzrdPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f47XzrdPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0783PBZRB

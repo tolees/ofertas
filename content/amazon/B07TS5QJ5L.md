@@ -3,6 +3,7 @@ layout: post
 title: 'Mini Camara Espia FREDI/Cámara Oculta HD'
 date: 2020-01-04 11:19:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tk0%2B9sMVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tk0%2B9sMVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

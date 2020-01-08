@@ -3,6 +3,7 @@ layout: post
 title: 'SELECTED HOMME Shdtwosel-Wave Shirt LS S'
 date: 2019/12/20 17:36:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CXbO%2BnnLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CXbO%2BnnLL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Core Utility Pant Pantalones  N'
 date: 2020-01-06 11:42:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sB0-C%2ByVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sB0-C%2ByVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

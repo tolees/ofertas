@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon ALPHACROSS W  Zapatillas de Trai'
 date: 2019/12/16 13:40:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

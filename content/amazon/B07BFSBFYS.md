@@ -4,6 +4,7 @@ title: 'Panasonic Lumix DC-TZ200EG-K - Cámara Co'
 date: 2020-01-01 19:28:25
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3130CC7zPFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3130CC7zPFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BFSBFYS

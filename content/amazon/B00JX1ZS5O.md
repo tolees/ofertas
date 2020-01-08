@@ -4,6 +4,7 @@ title: 'Sabrent Concentrador USB 3.0 con 4 Puert'
 date: 2020-01-03 15:15:26
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u1C6WN3dL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u1C6WN3dL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00JX1ZS5O

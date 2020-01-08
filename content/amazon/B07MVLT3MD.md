@@ -4,6 +4,7 @@ title: 'Napapijri DROZ Jersey  Azul  CLEMATIS BL'
 date: 2020-01-05 16:32:24
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4132JnYORpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4132JnYORpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MVLT3MD

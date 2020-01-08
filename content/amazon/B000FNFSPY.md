@@ -3,6 +3,7 @@ layout: post
 title: 'TP-Link TL-SF1005D - Conmutador Fast Eth'
 date: 2019/12/17 18:55:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XsPOVI7cL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XsPOVI7cL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

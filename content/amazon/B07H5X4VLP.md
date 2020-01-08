@@ -3,6 +3,7 @@ layout: post
 title: 'AmazonBasics - Espejo de doble cara para'
 date: 2019/12/30 19:11:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41avdQJ80XL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41avdQJ80XL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

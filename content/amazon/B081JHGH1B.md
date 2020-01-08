@@ -3,6 +3,7 @@ layout: post
 title: 'IMEKIS Mädchen Eiskönigin Anna Kleid mit'
 date: 2019/12/15 23:29:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

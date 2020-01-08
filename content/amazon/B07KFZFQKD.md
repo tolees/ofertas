@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Future 4.3 Netfit FG/AG Jr  Botas d'
 date: 2020-01-05 17:04:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QqHRatUsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QqHRatUsL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Mustard M 16028 - Soporte magnético para'
 date: 2020-01-06 23:00:59
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318S8tNRK2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318S8tNRK2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00NIVEQ6M

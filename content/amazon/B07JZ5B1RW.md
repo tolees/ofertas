@@ -4,6 +4,7 @@ title: 'Tommy Hilfiger Essential Basic Down Jack'
 date: 2019/12/16 22:14:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uAJybkZzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uAJybkZzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JZ5B1RW

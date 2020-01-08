@@ -3,6 +3,7 @@ layout: post
 title: 'Satisfyer Estimulador de Clítoris Pro 2 '
 date: 2019/12/30 21:03:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eNQTybsUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eNQTybsUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

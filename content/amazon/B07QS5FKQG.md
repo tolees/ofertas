@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Gel-Kayano 26  Zapatillas de Runni'
 date: 2019/12/25 09:40:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416-qrD1NXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416-qrD1NXL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

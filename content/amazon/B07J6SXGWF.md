@@ -4,6 +4,7 @@ title: 'Pop! Rugrats - Figura de Vinilo Angelica'
 date: 2020-01-07 22:58:10
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07J6SXGWF

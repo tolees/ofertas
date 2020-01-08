@@ -4,6 +4,7 @@ title: 'Under Armour UA W Charged Impulse  Zapat'
 date: 2019/12/16 08:42:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iBPj7n9ML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iBPj7n9ML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HKGC3NL

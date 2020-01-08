@@ -4,6 +4,7 @@ title: 'Under Armour Hustle 4.0 1342651-001  Moc'
 date: 2019/12/17 09:22:14 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oRGRIrNWL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oRGRIrNWL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07J9LRQ3W

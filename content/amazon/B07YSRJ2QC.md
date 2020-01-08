@@ -3,6 +3,7 @@ layout: post
 title: 'Bolso hecho a mano del ordenador portáti'
 date: 2019/12/15 11:46:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4178mtZ3PlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4178mtZ3PlL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

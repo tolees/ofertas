@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Agile Warm Glove U Guantes de Ca'
 date: 2019/12/29 09:19:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZTRwQLK-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZTRwQLK-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

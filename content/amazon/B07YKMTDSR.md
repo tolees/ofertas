@@ -4,6 +4,7 @@ title: 'toyuugo Handwärmer Wiederverwendbar USB '
 date: 2019/12/25 15:20:31 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDb8nDFOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDb8nDFOL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07YKMTDSR

@@ -4,6 +4,7 @@ title: 'POLO VIDENG Genuine Cow Leather Shoulder'
 date: 2019/12/26 08:25:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518h%2BrFfmXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518h%2BrFfmXL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GPJYNXR

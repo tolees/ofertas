@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Mi Primera Muñeca Bebé Conjunto Set'
 date: 2019/12/14 20:07:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514TCCOzwOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514TCCOzwOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

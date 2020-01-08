@@ -4,6 +4,7 @@ title: 'Skechers Dynamight 2.0-fallford  Zapatil'
 date: 2019-12-31 17:13:49
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y8NY3-aHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y8NY3-aHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NPJCF54

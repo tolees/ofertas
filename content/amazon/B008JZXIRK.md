@@ -3,6 +3,7 @@ layout: post
 title: 's.Oliver SO-2534-LQ - Reloj analógico de'
 date: 2019/12/20 06:25:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlVBBxOvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlVBBxOvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

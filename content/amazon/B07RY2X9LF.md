@@ -4,6 +4,7 @@ title: 'AmazonBasics - Cable HDMI trenzado de al'
 date: 2019/12/22 10:06:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U5FGpLi9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U5FGpLi9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RY2X9LF

@@ -4,6 +4,7 @@ title: 'Mattel Disney Toy Story 4 Pack de 10 ami'
 date: 2019/12/28 08:16:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Xg8cDtML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Xg8cDtML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FWKMKJZ

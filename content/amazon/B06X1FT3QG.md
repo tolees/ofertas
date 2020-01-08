@@ -4,6 +4,7 @@ title: 'Doritos Nacho Cheese - Käse Tortilla Nac'
 date: 2019/12/18 08:47:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jmZDzUejL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jmZDzUejL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06X1FT3QG

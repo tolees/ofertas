@@ -4,6 +4,7 @@ title: 'El Naturalista N5353 VAQUETILLA/Aqua  Sa'
 date: 2019/12/15 21:03:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ySR8mtAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ySR8mtAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KJWS2V9

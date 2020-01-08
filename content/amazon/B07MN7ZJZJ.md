@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Texas Contrast Vaqueros  Azul  '
 date: 2019/12/25 12:12:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mzx45mZaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mzx45mZaL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

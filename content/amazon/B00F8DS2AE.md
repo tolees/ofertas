@@ -4,6 +4,7 @@ title: 'Unique Party 71605 - Disney Frozen Party'
 date: 2019/12/31 06:05:24 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61dlG7ymtmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61dlG7ymtmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00F8DS2AE

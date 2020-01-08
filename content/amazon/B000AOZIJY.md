@@ -4,6 +4,7 @@ title: 'Reebok Classic Nylon - zapatilla deporti'
 date: 2019/12/15 18:20:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v6Z5tC2jL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v6Z5tC2jL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B000AOZIJY

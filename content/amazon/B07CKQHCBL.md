@@ -4,6 +4,7 @@ title: 'ENACFIRE E18 Bluetooth 5.0 Wireless Head'
 date: 2019/12/30 08:35:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HZO2aQvIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HZO2aQvIL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CKQHCBL

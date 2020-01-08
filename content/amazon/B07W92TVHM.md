@@ -4,6 +4,7 @@ title: 'TekHome Juguetes Niños 3 Años  Cámara de'
 date: 2019/12/18 09:33:48 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UCvedT3SL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UCvedT3SL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07W92TVHM

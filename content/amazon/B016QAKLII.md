@@ -4,6 +4,7 @@ title: 'adidas Parma 16 SHO Sport Shorts  Hombre'
 date: 2020-01-06 09:04:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41diYD0f3VL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41diYD0f3VL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B016QAKLII

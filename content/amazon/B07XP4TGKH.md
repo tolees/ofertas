@@ -3,6 +3,7 @@ layout: post
 title: 'DOOGEE S40 Lite Dual SIM Movil Todoterre'
 date: 2020-01-02 15:55:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X6fUhcSCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X6fUhcSCL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

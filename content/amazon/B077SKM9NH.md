@@ -4,6 +4,7 @@ title: 'Lacoste PF7839 Polo  Azul  RUISSEAU T01 '
 date: 2019/12/17 19:25:34 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dMLmT17pL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dMLmT17pL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077SKM9NH

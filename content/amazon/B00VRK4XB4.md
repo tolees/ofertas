@@ -3,6 +3,7 @@ layout: post
 title: 'Reloj Timex - Mujer TW2P62300'
 date: 2019/12/15 21:51:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MsQ4IIkkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MsQ4IIkkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

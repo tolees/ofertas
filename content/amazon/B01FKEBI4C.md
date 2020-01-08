@@ -3,6 +3,7 @@ layout: post
 title: 'Polar A360 - Pulsómetro  Color Blanco  T'
 date: 2019/12/23 06:41:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CPuE5s-6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CPuE5s-6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

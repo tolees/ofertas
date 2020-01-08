@@ -4,6 +4,7 @@ title: 'jerryvon Frutas y Verduras Juguete para '
 date: 2020-01-01 23:59:19
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B075SRRYRL

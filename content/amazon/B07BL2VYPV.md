@@ -4,6 +4,7 @@ title: 'New Balance Fresh Foam Zante Pursuit  Za'
 date: 2019/12/30 19:06:01 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H-O4YnsHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H-O4YnsHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BL2VYPV

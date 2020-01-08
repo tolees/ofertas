@@ -4,6 +4,7 @@ title: 'Calvin Klein Unlined Bralette Sujetador '
 date: 2020-01-05 20:55:42
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B078WVRFGL

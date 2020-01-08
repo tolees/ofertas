@@ -3,6 +3,7 @@ layout: post
 title: 'WiMiUS Drone con Cámara HD 1080P Auténti'
 date: 2019/12/12 11:44:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i6kiiU0WL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i6kiiU0WL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'deAO Cocinita "Mi Pequeño Chef" con Cara'
 date: 2020-01-03 19:38:41
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517IqW0n1lL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517IqW0n1lL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XRZS1T3

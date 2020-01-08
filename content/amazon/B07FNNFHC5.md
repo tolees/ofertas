@@ -3,6 +3,7 @@ layout: post
 title: 'Girl Elsa Shoes Princess Dress Up Girls '
 date: 2019/12/18 15:15:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JqrTPNEWL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JqrTPNEWL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

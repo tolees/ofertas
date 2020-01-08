@@ -4,6 +4,7 @@ title: 'Salomon XA Pro 3D  Zapatillas de Trail R'
 date: 2020-01-05 10:46:40
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KJMlvn3YL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KJMlvn3YL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KQQ95SQ

@@ -4,6 +4,7 @@ title: 'Edge Entertainment- Colonias en Guerra J'
 date: 2020-01-05 15:32:36
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Bwz3cIDSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Bwz3cIDSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B079P8ZVXL

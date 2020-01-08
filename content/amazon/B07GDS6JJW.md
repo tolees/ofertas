@@ -4,6 +4,7 @@ title: 'Waterman Graduate Allure - Pluma estilog'
 date: 2019/12/20 03:07:57 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z8mxY2SeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z8mxY2SeL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GDS6JJW

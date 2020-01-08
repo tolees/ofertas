@@ -3,6 +3,7 @@ layout: post
 title: 'Pepe Jeans Ander Sudadera    Eclipse 968'
 date: 2019/12/13 10:47:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BS4Y4Z%2BkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BS4Y4Z%2BkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

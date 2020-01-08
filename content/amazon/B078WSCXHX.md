@@ -4,6 +4,7 @@ title: 'Sony UBP-X700 4K Ultra HD Blu-ray Disc P'
 date: 2019/12/17 18:33:19 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316gnldMjnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316gnldMjnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B078WSCXHX

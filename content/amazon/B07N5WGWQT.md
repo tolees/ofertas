@@ -4,6 +4,7 @@ title: 'Funko- Pop Vinilo: Big Bang Theory S2: H'
 date: 2019/12/29 01:16:56 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41whwnpeYvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41whwnpeYvL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07N5WGWQT

@@ -3,6 +3,7 @@ layout: post
 title: 'Bourjois Velvet Barra de Labios Líquida '
 date: 2020-01-07 16:21:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kPghP7M7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kPghP7M7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Sony Xperia XZ2 - Smartphone de 5.7"  Oc'
 date: 2020-01-07 10:49:30
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wmas5HW8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wmas5HW8L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B4VBJ2D

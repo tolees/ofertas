@@ -3,6 +3,7 @@ layout: post
 title: 'Barbie FXH15 - Reitspaß Spielset mit Bar'
 date: 2020-01-05 06:22:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-SOFt8q%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-SOFt8q%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

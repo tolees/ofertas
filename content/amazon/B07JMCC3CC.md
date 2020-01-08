@@ -3,6 +3,7 @@ layout: post
 title: 'PLAYMOBIL-Clase Srta. Flores Juguete  Mu'
 date: 2019/12/15 18:22:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fn08X2VoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fn08X2VoL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

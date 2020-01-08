@@ -3,6 +3,7 @@ layout: post
 title: 'Olymstars Corrector Postura Espalda  Cor'
 date: 2019/12/27 17:39:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TqhpvXqPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TqhpvXqPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

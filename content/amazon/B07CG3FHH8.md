@@ -4,6 +4,7 @@ title: 'JACK & JONES Jjeholmen Sweat Zip Hood No'
 date: 2019/12/18 20:06:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g0XtdxgfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g0XtdxgfL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CG3FHH8

@@ -4,6 +4,7 @@ title: 'Levi s 2pk Crewneck 1 Camiseta  Multicol'
 date: 2019/12/23 15:12:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M1t5keBuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M1t5keBuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LF5ZBXH

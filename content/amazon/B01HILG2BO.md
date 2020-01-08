@@ -4,6 +4,7 @@ title: 'AUNA Connect 120 WN - Radio por Internet'
 date: 2019/12/16 10:07:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W%2B6EHQJiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W%2B6EHQJiL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01HILG2BO

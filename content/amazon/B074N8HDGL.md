@@ -4,6 +4,7 @@ title: 'Apple iPhone 7 - Smartphone de 32 GB Col'
 date: 2020-01-05 17:36:25
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51alIVdTysL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51alIVdTysL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B074N8HDGL

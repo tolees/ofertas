@@ -4,6 +4,7 @@ title: 'Under Armour UA Boxed Sportstyle SS Cami'
 date: 2019/12/17 12:55:51 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kMnIdZylL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kMnIdZylL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B078FHD1KN

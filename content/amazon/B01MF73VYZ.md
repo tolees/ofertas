@@ -3,6 +3,7 @@ layout: post
 title: 'Kayhan Hombre Camisa Mailand  Black  S '
 date: 2019/12/29 10:46:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uKkNv3VZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uKkNv3VZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

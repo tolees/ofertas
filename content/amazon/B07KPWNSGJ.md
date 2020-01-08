@@ -4,6 +4,7 @@ title: 'DC-77 de 16MP 4X Zoom Digital de Alta de'
 date: 2019/12/30 19:44:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yqtLN9qjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yqtLN9qjL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KPWNSGJ

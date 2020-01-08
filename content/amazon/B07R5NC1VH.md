@@ -4,6 +4,7 @@ title: 'Extracto de Maca Andina Ecológica Premiu'
 date: 2020-01-04 19:49:29
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VEaWvaoiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VEaWvaoiL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R5NC1VH

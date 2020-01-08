@@ -4,6 +4,7 @@ title: 'Chlorella Espirulina.Spirulina Potente D'
 date: 2019/12/22 10:03:19 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SSEN-TJSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SSEN-TJSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B078S8NYCS

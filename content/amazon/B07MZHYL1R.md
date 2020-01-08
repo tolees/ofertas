@@ -3,6 +3,7 @@ layout: post
 title: 'Superdry Premium Goods Duo Lite tee Cami'
 date: 2019/12/23 12:01:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

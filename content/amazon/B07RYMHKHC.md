@@ -3,6 +3,7 @@ layout: post
 title: 'San Ignacio Q3063 Set 3Pcs Sartenes Venu'
 date: 2019/12/29 13:41:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419iGs5OdtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419iGs5OdtL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

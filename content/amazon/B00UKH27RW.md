@@ -4,6 +4,7 @@ title: 'Clementoni - Puzzle 3 x 48  Avengers  25'
 date: 2019/12/29 15:02:41 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DBx8ty5zL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DBx8ty5zL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00UKH27RW

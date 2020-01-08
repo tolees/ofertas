@@ -3,6 +3,7 @@ layout: post
 title: 'MRACSIY Diadema deportiva Sweatband para'
 date: 2019/12/19 22:02:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l9ADN9JrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l9ADN9JrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'SanDisk Extreme PRO - Tarjeta de memoria'
 date: 2019/12/29 16:07:35 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4151jA9H0WL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4151jA9H0WL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07G3H5RBT

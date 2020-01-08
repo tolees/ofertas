@@ -4,6 +4,7 @@ title: 'Montse Interiors  S.L. Cuadrante o Cojín'
 date: 2019/12/17 07:48:23 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wgl3NZKyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Wgl3NZKyL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07QM8CG4Q

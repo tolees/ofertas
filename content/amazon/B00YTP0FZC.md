@@ -4,6 +4,7 @@ title: 'Piz Buin Tan & Protect Protector Solar A'
 date: 2020-01-05 02:23:16
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41abXm1zF3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41abXm1zF3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00YTP0FZC

@@ -4,6 +4,7 @@ title: 'Funko-6571 Dementor Figura de Vinilo  co'
 date: 2019/12/16 18:10:22 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GdvS4vmRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GdvS4vmRL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B019JIACM4

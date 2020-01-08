@@ -4,6 +4,7 @@ title: 'Maybelline New York - Superstay Matte In'
 date: 2020-01-02 11:36:56
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wVIwMIPRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wVIwMIPRL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077NG3GYY

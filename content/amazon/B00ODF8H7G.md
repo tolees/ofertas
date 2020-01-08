@@ -4,6 +4,7 @@ title: 'Whirlpool JT 479 IX Encimera - Microonda'
 date: 2019/12/29 19:18:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J4J71MPDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J4J71MPDL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00ODF8H7G

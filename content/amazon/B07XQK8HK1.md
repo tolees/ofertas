@@ -3,6 +3,7 @@ layout: post
 title: 'Sternitz Botella de Agua Hydra Acero Ino'
 date: 2019/12/18 08:47:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PLYoYrjgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PLYoYrjgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

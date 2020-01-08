@@ -4,6 +4,7 @@ title: 'Willful Pulsera Actividad  Pulsera Activ'
 date: 2019/12/25 19:31:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415M3F-b-TL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415M3F-b-TL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FLTT8RG

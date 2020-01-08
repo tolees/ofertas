@@ -4,6 +4,7 @@ title: 'Pulsera Actividad AIMIUVEI Pulsera Intel'
 date: 2020-01-07 18:26:21
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nZiEz2kZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nZiEz2kZL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B074V9DYVJ

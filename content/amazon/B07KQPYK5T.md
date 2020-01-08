@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon ALPHACROSS GTX W  Zapatillas de '
 date: 2019/12/25 18:55:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41int119hLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41int119hLL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

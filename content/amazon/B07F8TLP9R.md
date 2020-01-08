@@ -3,6 +3,7 @@ layout: post
 title: 'Huawei MateBook X Pro 35 31 cm  13 9 Zol'
 date: 2019/12/11 19:26:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ObP1eJ%2BlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ObP1eJ%2BlL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

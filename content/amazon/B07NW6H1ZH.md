@@ -4,6 +4,7 @@ title: 'Skechers Keepsakes 2.0 Botines Mujer  Ma'
 date: 2019/12/21 10:15:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F0ZTUdRFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F0ZTUdRFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NW6H1ZH

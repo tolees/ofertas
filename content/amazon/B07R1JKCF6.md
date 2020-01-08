@@ -3,6 +3,7 @@ layout: post
 title: 'Bolso de Fiesta Pequeña Elegante Noche D'
 date: 2019/12/30 13:29:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ArEHHDjLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ArEHHDjLL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

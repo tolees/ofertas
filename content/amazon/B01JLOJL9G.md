@@ -4,6 +4,7 @@ title: 'Reloj Scuderia Ferrari para Hombre 08303'
 date: 2019/12/14 22:33:01 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41muJ57%2BbgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41muJ57%2BbgL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01JLOJL9G

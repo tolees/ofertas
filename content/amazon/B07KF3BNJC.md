@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Graphic Set-in Neck  Camiseta par'
 date: 2019/12/29 11:28:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BG01YC-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

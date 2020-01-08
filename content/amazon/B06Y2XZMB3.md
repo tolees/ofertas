@@ -4,6 +4,7 @@ title: 'New Balance 574 Core Zapatillas Hombre  '
 date: 2019/12/20 08:10:24 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06Y2XZMB3

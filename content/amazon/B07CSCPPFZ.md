@@ -4,6 +4,7 @@ title: 'Pepe Jeans Marta Pantalones    Multi Ble'
 date: 2019/12/26 20:11:48 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41USxm4zxkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41USxm4zxkL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CSCPPFZ

@@ -3,6 +3,7 @@ layout: post
 title: 'Asics Aaron  Zapatillas para Hombre  Azu'
 date: 2020-01-06 09:39:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ghP-3FGmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ghP-3FGmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

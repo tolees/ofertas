@@ -3,6 +3,7 @@ layout: post
 title: 'WOSTOO Pelo Tiza  10 Colores Colorful te'
 date: 2019/12/22 21:32:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61igpR8H7EL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61igpR8H7EL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

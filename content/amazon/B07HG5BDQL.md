@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance Hombre U420 Sneaker  Vino ti'
 date: 2020-01-03 12:43:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

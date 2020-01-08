@@ -4,6 +4,7 @@ title: 'Garnier Delial BB Sun Crema Protector So'
 date: 2020-01-05 17:51:01
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-Vv6m8UzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-Vv6m8UzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00X9TXQS2

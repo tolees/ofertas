@@ -3,6 +3,7 @@ layout: post
 title: 'Nike Revolution 4  Zapatillas de Running'
 date: 2019/12/23 22:58:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31udvZTpSuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31udvZTpSuL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

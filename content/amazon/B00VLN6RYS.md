@@ -4,6 +4,7 @@ title: 'Levi s The Perfect Tee  Camiseta para Mu'
 date: 2019/12/17 00:00:14 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QZjr54L7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QZjr54L7L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00VLN6RYS

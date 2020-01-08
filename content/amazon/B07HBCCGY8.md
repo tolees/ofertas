@@ -4,6 +4,7 @@ title: 'Apple iPhone XS  64GB  - Space Grau'
 date: 2020-01-05 08:45:46
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HBCCGY8

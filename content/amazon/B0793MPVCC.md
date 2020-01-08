@@ -3,6 +3,7 @@ layout: post
 title: 'Chlorella Ecológica Premium para 165 día'
 date: 2020-01-01 10:04:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rXjz%2B7dAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rXjz%2B7dAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

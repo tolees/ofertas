@@ -3,6 +3,7 @@ layout: post
 title: 'RED WAGON Camiseta Print Niños  Pack de '
 date: 2019/12/29 09:19:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41giF463GKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41giF463GKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

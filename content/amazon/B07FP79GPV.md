@@ -4,6 +4,7 @@ title: 'Lioncast LM50 E-Sports PC Ratón Gaming p'
 date: 2019/12/22 15:57:32 +0000
 comments: true
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 category: ofertas
 author: ring
 slug: B07FP79GPV

@@ -4,6 +4,7 @@ title: 'Panasonic RP-HTX80BE-C Auriculares Bluet'
 date: 2020-01-02 19:58:19
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vfs1dcWxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vfs1dcWxL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0784WYQHK

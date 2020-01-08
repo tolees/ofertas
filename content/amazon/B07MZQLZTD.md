@@ -3,6 +3,7 @@ layout: post
 title: 'LATEC Pulsera Actividad [Última Versión]'
 date: 2019/12/20 11:18:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bu8MV4jvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bu8MV4jvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

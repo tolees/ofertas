@@ -4,6 +4,7 @@ title: 'Under Armour UA W HOVR Rise  Zapatillas '
 date: 2019/12/16 08:35:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415nmUgw0uL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415nmUgw0uL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HKTM4QS

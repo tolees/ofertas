@@ -4,6 +4,7 @@ title: 'Moleskine - Agenda Semanal de 12 meses p'
 date: 2020-01-04 11:32:38
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51exY9qOGpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51exY9qOGpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JVF7FS4

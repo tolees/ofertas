@@ -4,6 +4,7 @@ title: 'Philips Speedpro Max FC6822/01 - Escoba '
 date: 2019/12/17 08:35:19 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fnn9UroIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fnn9UroIL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07C8LDKS6

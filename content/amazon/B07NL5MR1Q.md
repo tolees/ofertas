@@ -3,6 +3,7 @@ layout: post
 title: 'UGREEN Cable USB C a Lightning Nylon Tre'
 date: 2019/12/14 01:58:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AIKju5TPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AIKju5TPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

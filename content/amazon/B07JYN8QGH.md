@@ -4,6 +4,7 @@ title: 'Tommy Hilfiger Technical Details Flexi S'
 date: 2019/12/29 19:54:08 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mdGrxGXSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mdGrxGXSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JYN8QGH

@@ -4,6 +4,7 @@ title: 'LEGO Duplo Town 10906 - Baumhaus im Dsch'
 date: 2019/12/26 21:41:01 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517-09fQyEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517-09fQyEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01BK2TMK0

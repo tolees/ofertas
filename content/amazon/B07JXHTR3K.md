@@ -4,6 +4,7 @@ title: 'Wrangler Ringer tee Camiseta  Blanco  Wh'
 date: 2019/12/21 14:09:11 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NCbmGeleL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NCbmGeleL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JXHTR3K

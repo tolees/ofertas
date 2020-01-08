@@ -4,6 +4,7 @@ title: 'Levi s Damen 314 Shaping Straight Jeans '
 date: 2019/12/17 08:00:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yycm2mPDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yycm2mPDL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FH9N3DM

@@ -4,6 +4,7 @@ title: 'Dreambuilder toy Classic Building Base P'
 date: 2019/12/26 00:34:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZxDDqGZIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZxDDqGZIL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DD5LG6S

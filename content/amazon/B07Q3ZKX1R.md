@@ -4,6 +4,7 @@ title: 'PediaSure - Complemento Alimenticio para'
 date: 2019/12/14 10:09:29 +0000
 comments: true
 thumbnailImage: 'http://images.amazon.com/images/P/B07Q3ZKX1R.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+images: [ 'http://images.amazon.com/images/P/B07Q3ZKX1R.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q3ZKX1R

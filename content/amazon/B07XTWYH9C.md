@@ -4,6 +4,7 @@ title: 'Trust Gaming GXT 698 Torro Dolby Digital'
 date: 2019/12/26 21:26:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PWNSpghGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PWNSpghGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07XTWYH9C

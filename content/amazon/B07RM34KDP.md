@@ -3,6 +3,7 @@ layout: post
 title: 'AGPTEK Candado Disco Moto con 1.5M Cable'
 date: 2020-01-06 18:27:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vpGSB0bRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vpGSB0bRL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

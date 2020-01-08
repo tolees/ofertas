@@ -4,6 +4,7 @@ title: 'Unique Party 72117 - 2m Disney Frozen Ha'
 date: 2019/12/15 07:03:02 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315mA1eGxuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315mA1eGxuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00UJUN8G4

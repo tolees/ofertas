@@ -4,6 +4,7 @@ title: 'Pequeña Bolsa de Viaje Bolsa Fin de Sema'
 date: 2019/12/31 13:12:53 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DPcTxNl5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DPcTxNl5L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BMX1RDK

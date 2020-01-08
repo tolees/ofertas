@@ -4,6 +4,7 @@ title: 'Calvin Klein Underwear Perfectly FIT-Mem'
 date: 2019/12/21 17:41:43 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFbjwBWFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFbjwBWFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00PXHAN1G

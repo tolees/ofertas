@@ -4,6 +4,7 @@ title: 'Álvarez Gómez - Flores Mediterráneas Ver'
 date: 2020-01-01 22:05:40
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f%2B7zil8uL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f%2B7zil8uL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Z7WQD2M

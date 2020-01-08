@@ -4,6 +4,7 @@ title: 'Adidas Duramo 9  Zapatillas de Running p'
 date: 2019/12/13 13:45:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VAqZ5hwML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VAqZ5hwML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07D9NTS8R

@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Lifaloft Ligera Chaqueta Ai'
 date: 2019/12/29 09:32:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a5XFeis7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a5XFeis7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

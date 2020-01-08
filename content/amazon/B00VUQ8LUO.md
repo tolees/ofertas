@@ -4,6 +4,7 @@ title: 'Kappa Trust Footwear  Zapatillas Unisex '
 date: 2020-01-02 15:04:20
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00VUQ8LUO

@@ -4,6 +4,7 @@ title: 'Asics Gel-Lyte Runner  Zapatillas para H'
 date: 2019/12/18 21:06:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yh1XeRqsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yh1XeRqsL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B078NL5PNW

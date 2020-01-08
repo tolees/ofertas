@@ -4,6 +4,7 @@ title: 'Star Wars- 8 Sable Kylo REN  Multicolor '
 date: 2019/12/29 20:31:56 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KwhJdRMgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KwhJdRMgL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06WD3WVXQ

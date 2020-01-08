@@ -3,6 +3,7 @@ layout: post
 title: 'Bizak-5025123225111  Color  61952511 '
 date: 2020-01-02 00:02:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61MW-huRRpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61MW-huRRpL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

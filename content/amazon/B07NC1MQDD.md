@@ -4,6 +4,7 @@ title: 'A Plague Tale: Innocence'
 date: 2019/12/23 06:00:09 +0000
 comments: true
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 category: ofertas
 author: ring
 slug: B07NC1MQDD

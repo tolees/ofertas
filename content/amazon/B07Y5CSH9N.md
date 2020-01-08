@@ -4,6 +4,7 @@ title: 'GRIDINLUX. Batería de Titanio y Fondo de'
 date: 2020-01-01 09:02:51
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YvFKMKC6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YvFKMKC6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Y5CSH9N

@@ -3,6 +3,7 @@ layout: post
 title: 'Seiko Reloj Analógico de Cuarzo para Hom'
 date: 2019/12/21 01:24:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tjAu95hAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tjAu95hAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

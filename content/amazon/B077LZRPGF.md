@@ -3,6 +3,7 @@ layout: post
 title: 'Timex Reloj Analógico para Mujer de Cuar'
 date: 2020-01-04 21:39:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TOLHQIq0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TOLHQIq0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Verbatim 44082 - Tarjeta de Memoria Micr'
 date: 2019/12/24 14:14:03 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cvUfaRw5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cvUfaRw5L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00CBAUIEU

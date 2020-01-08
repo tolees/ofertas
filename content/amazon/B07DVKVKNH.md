@@ -4,6 +4,7 @@ title: 'New Balance Fresh Foam Roav   Zapatillas'
 date: 2020-01-03 17:12:58
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c7JewQ5uL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c7JewQ5uL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DVKVKNH

@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Arla Free  Zapatos de Cordones De'
 date: 2020-01-04 15:55:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413uucksQlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413uucksQlL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

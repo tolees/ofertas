@@ -4,6 +4,7 @@ title: 'find. Zapatos De Cordones con Perforacio'
 date: 2019/12/30 14:59:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xAqq87G4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xAqq87G4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MR4MRAE

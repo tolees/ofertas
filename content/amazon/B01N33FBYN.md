@@ -3,6 +3,7 @@ layout: post
 title: 'DC Comics Funko Pop! 12541 Vinyl Wonder '
 date: 2019/12/19 07:02:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

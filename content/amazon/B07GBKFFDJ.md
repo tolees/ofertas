@@ -4,6 +4,7 @@ title: 'PUMA ESS Logo tee T-Shirt  Hombre  Mediu'
 date: 2019/12/18 10:52:21 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xG1pn8B2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xG1pn8B2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GBKFFDJ

@@ -4,6 +4,7 @@ title: 'Mochila para Portátil  REYLEO Mochila Ne'
 date: 2020-01-07 15:32:59
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p1Jhu830L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p1Jhu830L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WS87YMH

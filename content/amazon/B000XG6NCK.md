@@ -3,6 +3,7 @@ layout: post
 title: 'WMF Diadem Plus Cacerola  Acero Inoxidab'
 date: 2019/12/29 13:56:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411obPuKkEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411obPuKkEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Superga 2750-cotbumpj  Zapatillas de Gim'
 date: 2020-01-03 10:22:26
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077QPSL2Q

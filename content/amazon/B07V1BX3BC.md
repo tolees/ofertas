@@ -4,6 +4,7 @@ title: 'Parfois - Bandolera De Ante - Mujeres - '
 date: 2020-01-07 10:47:09
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PTC2cTlXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PTC2cTlXL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07V1BX3BC

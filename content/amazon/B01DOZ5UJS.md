@@ -4,6 +4,7 @@ title: 'Burberry  Agua de colonia para hombres -'
 date: 2019/12/25 05:54:23 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BziQcNlzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01DOZ5UJS

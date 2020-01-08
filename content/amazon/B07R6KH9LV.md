@@ -3,6 +3,7 @@ layout: post
 title: 'RAOYI 2X 32GB Memoria USB 3.0  Pendrive '
 date: 2019/12/15 23:29:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w3Gje12oL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w3Gje12oL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

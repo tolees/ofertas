@@ -3,6 +3,7 @@ layout: post
 title: 'American Crew Champú Diario 250 ml'
 date: 2019/12/28 09:54:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NHQCQCPiL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

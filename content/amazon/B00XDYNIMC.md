@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger New Danny Belt Cinturón  '
 date: 2019/12/14 20:45:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NsICOJ1XL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NsICOJ1XL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

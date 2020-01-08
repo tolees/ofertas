@@ -4,6 +4,7 @@ title: 'Exquisite Gaming MMFTSW300085 Meta Merch'
 date: 2019/12/20 21:25:21 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wlXnyx8UL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wlXnyx8UL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07N1GTSCT

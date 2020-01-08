@@ -3,6 +3,7 @@ layout: post
 title: 'NUBILY Bolso Mujer Bolsos Bandolera para'
 date: 2019/12/13 22:30:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SPyfACFVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SPyfACFVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

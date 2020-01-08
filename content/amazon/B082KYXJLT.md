@@ -4,6 +4,7 @@ title: 'IWEMEK Disfraz Anna Frozen Niña Vestido '
 date: 2020-01-04 14:29:02
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511X770RgQL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B082KYXJLT

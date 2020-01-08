@@ -4,6 +4,7 @@ title: 'REEF R2026ALB  Chanclas Hombre  Marrón  '
 date: 2019/12/24 10:36:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XQkmU4r8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XQkmU4r8L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00ZUY5LUU

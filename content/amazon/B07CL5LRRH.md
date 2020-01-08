@@ -4,6 +4,7 @@ title: 'Scotch & Soda Nos Ralston Vaqueros Strai'
 date: 2020-01-07 15:40:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UAZO0tSrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UAZO0tSrL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CL5LRRH

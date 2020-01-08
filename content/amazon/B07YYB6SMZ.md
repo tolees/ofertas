@@ -3,6 +3,7 @@ layout: post
 title: '16 Pcs Juego de Limas y Escofinas Preciv'
 date: 2019/12/26 19:42:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qMDZfXXoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qMDZfXXoL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

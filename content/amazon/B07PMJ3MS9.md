@@ -4,6 +4,7 @@ title: 'HUION la Tableta gráfica HS610  con la f'
 date: 2019/12/15 23:00:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kEAAsoBhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kEAAsoBhL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PMJ3MS9

@@ -4,6 +4,7 @@ title: 'Samsung Galaxy Watch - Reloj Inteligente'
 date: 2020-01-06 12:27:54
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ognm1IQwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ognm1IQwL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GRLTDK2

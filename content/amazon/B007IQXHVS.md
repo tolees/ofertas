@@ -4,6 +4,7 @@ title: 'Star Wars Clone Wars - Reloj Digital de '
 date: 2019/12/24 09:50:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SLtadx0KL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SLtadx0KL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B007IQXHVS

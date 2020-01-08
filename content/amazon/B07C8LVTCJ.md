@@ -3,6 +3,7 @@ layout: post
 title: 'Fantasy Flight Games- AT-ST  FFSWL08 '
 date: 2020-01-02 09:02:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z-o-gxFbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z-o-gxFbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

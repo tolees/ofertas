@@ -4,6 +4,7 @@ title: 'Eastpak Padded Pak R Mochila  24 L  Azul'
 date: 2019/12/13 20:21:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41STY-rnTyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41STY-rnTyL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B073X1VSNS

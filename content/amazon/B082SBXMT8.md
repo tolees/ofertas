@@ -3,6 +3,7 @@ layout: post
 title: 'OBEEII Disfraz Elsa Anna Traje Frozen Ni'
 date: 2020-01-05 23:09:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CFf1Ai2yL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

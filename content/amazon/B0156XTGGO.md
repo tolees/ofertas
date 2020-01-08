@@ -3,6 +3,7 @@ layout: post
 title: 'Dremel 4000 - Multiherramienta  175 W  k'
 date: 2019/12/30 14:51:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aaRKtOnqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aaRKtOnqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

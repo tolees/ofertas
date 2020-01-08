@@ -4,6 +4,7 @@ title: 'LEGO City 60222 Pistenraupe'
 date: 2019-12-31 17:55:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fG-h06rxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fG-h06rxL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FNS6P6C

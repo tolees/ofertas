@@ -3,6 +3,7 @@ layout: post
 title: 'Funko 36673 POP Bobble: Avengers Endgame'
 date: 2019/12/11 21:52:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ytkr01OBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ytkr01OBL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

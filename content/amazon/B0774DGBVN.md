@@ -4,6 +4,7 @@ title: 'Calcetines antideslizantes de algodón  3'
 date: 2019/12/13 21:17:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XOmI8HY2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XOmI8HY2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0774DGBVN

@@ -4,6 +4,7 @@ title: 'JACK & JONES Jornico Shirt Org  Camisa H'
 date: 2019/12/20 00:41:01 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A-Gf1R5DL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A-Gf1R5DL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JYDHDFZ

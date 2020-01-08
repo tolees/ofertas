@@ -4,6 +4,7 @@ title: 'Timex Expedition - Reloj análogico de cu'
 date: 2019/12/13 16:43:49 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AbkL%2BKU0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AbkL%2BKU0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B010GTIYSE

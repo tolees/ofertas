@@ -4,6 +4,7 @@ title: 'Wrangler Larston Vaqueros  Indigo Wit  3'
 date: 2019/12/19 11:53:37 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C4-YUX%2BVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C4-YUX%2BVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BMBRG6P

@@ -4,6 +4,7 @@ title: 'Fossil Reloj Analógico para Mujer de Cua'
 date: 2019/12/28 09:47:25 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Es5lmwK1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Es5lmwK1L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B004NBZ5KM

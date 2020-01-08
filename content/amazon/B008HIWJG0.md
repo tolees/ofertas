@@ -3,6 +3,7 @@ layout: post
 title: 'Fontaneda - La Buena Maria Galletas - 80'
 date: 2020-01-03 11:37:44
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 comments: true
 category: ofertas
 author: ring

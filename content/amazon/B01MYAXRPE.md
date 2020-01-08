@@ -3,6 +3,7 @@ layout: post
 title: 'Garmin DriveSmart 51 Western EU LMT-S - '
 date: 2019/12/23 15:12:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Me%2BgH6lL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Me%2BgH6lL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

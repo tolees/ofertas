@@ -4,6 +4,7 @@ title: 'ISDIN Bexident Blanqueante Pasta Dentífr'
 date: 2020-01-02 09:30:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nygLOTiML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nygLOTiML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DVVWKC4

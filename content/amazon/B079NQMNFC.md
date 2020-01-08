@@ -3,6 +3,7 @@ layout: post
 title: 'WMF Motion - Jarra de agua 1 25 l  altur'
 date: 2019/12/17 19:03:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UduCLJcwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UduCLJcwL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

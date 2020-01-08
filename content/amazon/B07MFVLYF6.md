@@ -4,6 +4,7 @@ title: 'Pikolinos Cadaques para Mujer'
 date: 2019/12/24 07:48:05 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41th5cIhX-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41th5cIhX-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MFVLYF6

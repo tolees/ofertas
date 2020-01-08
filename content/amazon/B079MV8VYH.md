@@ -3,6 +3,7 @@ layout: post
 title: 'Playmobil 9481 Spielzeug-Maricela'
 date: 2020-01-01 23:07:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mhwreooDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

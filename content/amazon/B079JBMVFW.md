@@ -3,6 +3,7 @@ layout: post
 title: 'Barbie Ambulancia Hospital 2 en 1  acces'
 date: 2019/12/26 12:53:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

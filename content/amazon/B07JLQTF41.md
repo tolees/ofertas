@@ -4,6 +4,7 @@ title: 'Lee Austin Vaqueros Tapered  Azul  Dark '
 date: 2019/12/28 08:24:50 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JLQTF41

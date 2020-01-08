@@ -4,6 +4,7 @@ title: 'PUMA ESS Logo Pants  Mujer  Negro  Cotto'
 date: 2019/12/20 11:26:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07D5SQKHB

@@ -3,6 +3,7 @@ layout: post
 title: 'Realer - Bolso de asas de sintético para'
 date: 2020-01-01 09:43:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kFyBjFWKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kFyBjFWKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

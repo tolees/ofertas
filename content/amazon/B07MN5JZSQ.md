@@ -3,6 +3,7 @@ layout: post
 title: 'Wrangler Logo Hoodie Capucha  Gris  Dark'
 date: 2019/12/13 19:02:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BuaiVd%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

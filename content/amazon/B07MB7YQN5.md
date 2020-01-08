@@ -3,6 +3,7 @@ layout: post
 title: 'Cartera Tarjetero Hombre  Cartera Tarjet'
 date: 2020-01-01 20:04:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qyJhVp2bL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qyJhVp2bL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

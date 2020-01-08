@@ -4,6 +4,7 @@ title: 'G-STAR Lynn Mid Skinny Wmn - frakto supe'
 date: 2019/12/21 17:46:52 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z1EpPTt6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00MR16SLA

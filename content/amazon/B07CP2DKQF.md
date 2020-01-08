@@ -4,6 +4,7 @@ title: 'Rocf Rossini Vintage Gafas de sol ovalad'
 date: 2020-01-03 16:08:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VH5c3ZZ6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VH5c3ZZ6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CP2DKQF

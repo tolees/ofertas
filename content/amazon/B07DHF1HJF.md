@@ -3,6 +3,7 @@ layout: post
 title: 'Orient Reloj Analógico para Hombre de Au'
 date: 2019/12/11 23:35:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aJFgG%2Bv0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aJFgG%2Bv0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

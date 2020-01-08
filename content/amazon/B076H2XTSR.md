@@ -3,6 +3,7 @@ layout: post
 title: 'Cargador Inalámbrico  ELEGIANT Cargador '
 date: 2019/12/24 21:31:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQwwKODgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dQwwKODgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

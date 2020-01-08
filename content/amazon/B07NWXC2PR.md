@@ -3,6 +3,7 @@ layout: post
 title: 'Joma Cairo II Sudadera  Hombre  Naranja '
 date: 2019/12/29 18:17:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LpJg4JuXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LpJg4JuXL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

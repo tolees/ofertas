@@ -4,6 +4,7 @@ title: 'New Look Emily Crochet  Blusa para Mujer'
 date: 2019/12/23 08:16:25 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SAlUG%2BurL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SAlUG%2BurL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RTMHKV8

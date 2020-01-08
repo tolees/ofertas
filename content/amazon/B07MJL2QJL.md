@@ -4,6 +4,7 @@ title: 'Ferilinso Funda para Xiaomi Redmi Note 7'
 date: 2019/12/31 12:08:47 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41duy44vT6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41duy44vT6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MJL2QJL

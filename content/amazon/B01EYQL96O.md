@@ -3,6 +3,7 @@ layout: post
 title: 'BERING Reloj Analógico para Hombre de En'
 date: 2020-01-07 19:01:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415EvUlNWCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415EvUlNWCL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

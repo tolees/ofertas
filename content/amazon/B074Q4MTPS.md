@@ -3,6 +3,7 @@ layout: post
 title: 'Licor del Polo - Pasta de dientes 2 en 1'
 date: 2019/12/23 19:25:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sQQ3DZbCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sQQ3DZbCL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY FATMAX FMC761M2-QW - Amoladora 1'
 date: 2019/12/18 09:16:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iRcl2ThGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iRcl2ThGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

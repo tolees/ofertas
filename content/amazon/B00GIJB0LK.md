@@ -4,6 +4,7 @@ title: 'G-STAR RAW Lynn Skinny  Vaqueros  Azul  '
 date: 2019/12/27 19:19:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41azPivRwdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41azPivRwdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00GIJB0LK

@@ -4,6 +4,7 @@ title: 'CURREN Reloj de Pulsera para Hombre  Res'
 date: 2019/12/18 06:04:19 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xOU2SCOVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xOU2SCOVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FQWJQS4

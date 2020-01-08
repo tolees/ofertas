@@ -3,6 +3,7 @@ layout: post
 title: 'uhlsport Pullover Match 1/4 Zip Top - Fo'
 date: 2020-01-06 08:52:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GYys4GnqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GYys4GnqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

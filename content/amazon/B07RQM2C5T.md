@@ -4,6 +4,7 @@ title: 'Axcone Zapatillas Hombres Mujer Deporte '
 date: 2019/12/16 04:30:16 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416R9sXEmoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416R9sXEmoL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RQM2C5T

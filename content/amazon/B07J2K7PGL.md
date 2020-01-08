@@ -4,6 +4,7 @@ title: 'adidas Predator 19.3 TF  Zapatillas de F'
 date: 2019/12/30 10:31:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g6nvHIpKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g6nvHIpKL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07J2K7PGL

@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Graphic 8 Round Neck Camiseta'
 date: 2019/12/25 20:21:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r3Mz2v4xL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r3Mz2v4xL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

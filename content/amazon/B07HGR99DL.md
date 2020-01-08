@@ -3,6 +3,7 @@ layout: post
 title: '4G Tablet 10 Pulgadas HD WiFi  2GB RAM  '
 date: 2019/12/22 10:03:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iR5VPDudL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iR5VPDudL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

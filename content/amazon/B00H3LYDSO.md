@@ -4,6 +4,7 @@ title: 'Casals C01235000 Atornillador a batería '
 date: 2019/12/24 18:42:41 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413rSNVoL4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413rSNVoL4L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00H3LYDSO

@@ -4,6 +4,7 @@ title: 'SVMUU Reproductor MP3 MP4 Bluetooth 8 GB'
 date: 2019-12-31 15:49:47
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2f7QE8NL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2f7QE8NL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MVZQTR4

@@ -4,6 +4,7 @@ title: 'GANT Footwear Portland  Zapatillas para '
 date: 2019/12/13 04:31:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DZ%2BixcebL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DZ%2BixcebL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KRBQ6FC

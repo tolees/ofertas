@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour Rival Fitted Pull Over Suda'
 date: 2019/12/18 08:32:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ARkW7vVcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ARkW7vVcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

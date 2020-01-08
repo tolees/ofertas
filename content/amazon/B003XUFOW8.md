@@ -4,6 +4,7 @@ title: 'Einhell Abbruchhammer BT-DH 1600/1  1600'
 date: 2019/12/17 17:25:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419FECkwu%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419FECkwu%2BL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B003XUFOW8

@@ -4,6 +4,7 @@ title: 'G-STAR RAW Graphic 22 Optic Slim Round N'
 date: 2020-01-04 10:51:37
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WiaL95m9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WiaL95m9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NDPPHKS

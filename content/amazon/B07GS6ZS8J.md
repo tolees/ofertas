@@ -4,6 +4,7 @@ title: 'Logitech G502 HERO High-Performance Gami'
 date: 2019/12/24 19:19:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ccvquN3JL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ccvquN3JL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GS6ZS8J

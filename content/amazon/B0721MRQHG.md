@@ -3,6 +3,7 @@ layout: post
 title: 'Panasonic Lumix  Cámara Compacta de 20 3'
 date: 2019/12/27 17:53:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PuCGz6FPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PuCGz6FPL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

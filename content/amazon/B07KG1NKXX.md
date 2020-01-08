@@ -3,6 +3,7 @@ layout: post
 title: 'PUMA Ignite Flash Evoknit  Zapatillas de'
 date: 2019/12/16 19:55:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g3U2E3QSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g3U2E3QSL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

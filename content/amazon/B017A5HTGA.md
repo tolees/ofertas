@@ -3,6 +3,7 @@ layout: post
 title: 'Red Bull Energy Drink Dosen Getränke 24e'
 date: 2019/12/31 10:34:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n1JsFhbsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n1JsFhbsL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

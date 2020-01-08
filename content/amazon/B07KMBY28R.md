@@ -4,6 +4,7 @@ title: 'Merrell Vapor Glove 4  Zapatillas Deport'
 date: 2020-01-07 12:57:38
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cvsKgCTpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cvsKgCTpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KMBY28R

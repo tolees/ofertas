@@ -4,6 +4,7 @@ title: 'Almirón Advance con Pronutra 4 Leche de '
 date: 2019/12/29 08:15:56 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nE8kBQXFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nE8kBQXFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00HR46VGO

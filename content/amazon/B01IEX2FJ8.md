@@ -4,6 +4,7 @@ title: 'Calcetines de Compresión 1 par  Rosa  EU'
 date: 2020-01-03 18:44:28
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410JRXSNfSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410JRXSNfSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01IEX2FJ8

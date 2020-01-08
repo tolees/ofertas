@@ -3,6 +3,7 @@ layout: post
 title: 'Belkin Klinken-Audiokabel  3 5 mm  mit L'
 date: 2019/12/28 18:51:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YufA4TqBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YufA4TqBL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

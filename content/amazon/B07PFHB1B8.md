@@ -4,6 +4,7 @@ title: 'Kit de 48 Tubos de Pintura Acrílica  12m'
 date: 2019-12-31 17:06:03
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lDu9p48KL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lDu9p48KL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PFHB1B8

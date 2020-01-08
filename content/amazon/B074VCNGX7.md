@@ -3,6 +3,7 @@ layout: post
 title: 'Fossil Pendiente colgantes Mujer acero i'
 date: 2019/12/16 19:32:57 +0000
 thumbnailImage: '._SL200_'
+images: [ '._SL200_' ]
 comments: true
 category: ofertas
 author: ring

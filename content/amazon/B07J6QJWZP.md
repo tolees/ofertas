@@ -3,6 +3,7 @@ layout: post
 title: 'American Tourister Modern Dream - Spinne'
 date: 2019/12/20 17:55:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DNQL1ecRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DNQL1ecRL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

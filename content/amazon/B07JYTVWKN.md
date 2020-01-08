@@ -4,6 +4,7 @@ title: 'Tommy Jeans Mujer Essential Slim Tee Cam'
 date: 2019/12/31 00:12:04 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dmWCKoKZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dmWCKoKZL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JYTVWKN

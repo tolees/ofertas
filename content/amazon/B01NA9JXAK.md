@@ -4,6 +4,7 @@ title: 'Ducomi® Master Classic - Gafas de Sol co'
 date: 2020-01-07 11:38:40
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419ayJ9rDpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419ayJ9rDpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01NA9JXAK

@@ -4,6 +4,7 @@ title: 'B Baosity Hebilla de Silicona para Mujer'
 date: 2019/12/26 16:03:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UptD-YmpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UptD-YmpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MMGPLQ2

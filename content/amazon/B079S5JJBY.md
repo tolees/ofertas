@@ -3,6 +3,7 @@ layout: post
 title: 'Martina Home Ribera Cubre Chaise Longue '
 date: 2019/12/12 12:30:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4103SwoqqVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4103SwoqqVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

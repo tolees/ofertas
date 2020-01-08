@@ -4,6 +4,7 @@ title: 'Cecotec Robot Aspirador Conga Serie 950.'
 date: 2020-01-02 18:37:37
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OEgKFC2dL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OEgKFC2dL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HQWRT5J

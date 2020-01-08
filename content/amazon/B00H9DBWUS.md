@@ -4,6 +4,7 @@ title: 'VAUDE 50393005500 Abrigo y Chaqueta - Ab'
 date: 2020-01-07 09:40:19
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EFmH0k5uL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EFmH0k5uL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00H9DBWUS

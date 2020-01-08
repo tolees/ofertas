@@ -4,6 +4,7 @@ title: 'Casio Reloj Digital para Hombre de Cuarz'
 date: 2020-01-05 17:53:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JVOUTv0gL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JVOUTv0gL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q1XBJPN

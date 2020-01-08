@@ -4,6 +4,7 @@ title: 'PON Almohada de Viaje Viscoelástica de E'
 date: 2019/12/30 19:24:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eKL9JRnGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eKL9JRnGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077TMGWSD

@@ -3,6 +3,7 @@ layout: post
 title: 'AmzBarley Anna Coronation Dress for Girl'
 date: 2019/12/22 08:26:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GlvuJTHGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GlvuJTHGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

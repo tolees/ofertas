@@ -3,6 +3,7 @@ layout: post
 title: 'Aceite de Krill | Krill puro + EPA + DHA'
 date: 2019/12/22 02:31:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FTnSSihKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FTnSSihKL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'BelleStyle Toy Storage Bag and Kids Play'
 date: 2020-01-05 22:13:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51haPMfINTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51haPMfINTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

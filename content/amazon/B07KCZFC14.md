@@ -4,6 +4,7 @@ title: 'Compacto de Alta precisión y Experimento'
 date: 2019/12/18 21:01:51 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hIDMPpD-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hIDMPpD-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KCZFC14

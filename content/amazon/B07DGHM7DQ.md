@@ -4,6 +4,7 @@ title: 'Oral-B Smart 4 4000N CrossAction - Cepil'
 date: 2020-01-01 13:21:14
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HCqEKk5fL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HCqEKk5fL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DGHM7DQ

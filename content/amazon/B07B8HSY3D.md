@@ -3,6 +3,7 @@ layout: post
 title: 'BGT 10 Unidades/Set Juego de Utensilios '
 date: 2019/12/25 10:57:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TCD9MngxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TCD9MngxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

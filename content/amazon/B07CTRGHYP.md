@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Flex Advantage 3.0-Jection  Zap'
 date: 2020-01-06 09:32:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LRUA90fHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LRUA90fHL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

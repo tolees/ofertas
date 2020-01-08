@@ -3,6 +3,7 @@ layout: post
 title: 'Chicco - Calienta biberón de casa y viaj'
 date: 2020-01-07 19:07:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fZ5CRyN4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fZ5CRyN4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

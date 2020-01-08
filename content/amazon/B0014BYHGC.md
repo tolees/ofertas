@@ -4,6 +4,7 @@ title: 'Crocs Classic Clog  Zuecos Unisex Adulto'
 date: 2020-01-06 20:33:02
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UU23-ft3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UU23-ft3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0014BYHGC

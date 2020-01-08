@@ -4,6 +4,7 @@ title: 'FunPa Fieltro Árbol de Navidad  Arbol Na'
 date: 2019/12/26 20:06:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nEthdT0pL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nEthdT0pL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GPPTJBK

@@ -4,6 +4,7 @@ title: 'Espejo Retrovisor Bebé para Vigilar al B'
 date: 2019/12/29 19:54:08 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fXykk%2BRtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fXykk%2BRtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MXTH8JZ

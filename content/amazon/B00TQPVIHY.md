@@ -3,6 +3,7 @@ layout: post
 title: 'Zoch 601105077 Spinderella  Kinderspiel '
 date: 2019/12/15 09:56:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vVWpKDMOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vVWpKDMOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

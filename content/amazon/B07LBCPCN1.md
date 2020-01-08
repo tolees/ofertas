@@ -4,6 +4,7 @@ title: 'Kappa Modus II  Zapatillas Unisex Adulto'
 date: 2019/12/12 13:56:23 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uYTv7Ft-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uYTv7Ft-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LBCPCN1

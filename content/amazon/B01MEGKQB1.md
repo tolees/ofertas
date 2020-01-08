@@ -4,6 +4,7 @@ title: 'Guerlain Homme Agua de Perfume para Homb'
 date: 2020-01-05 17:51:44
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hXgAJ27%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hXgAJ27%2BL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MEGKQB1

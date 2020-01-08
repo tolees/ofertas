@@ -4,6 +4,7 @@ title: 'Geographical Norway Chaqueta Mujer Anson'
 date: 2019/12/30 11:35:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4152wBae5qL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4152wBae5qL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B081CDNNV5

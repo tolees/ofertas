@@ -4,6 +4,7 @@ title: '4m/13ft CAT8 Ethernet Cable Veetop 40Gbp'
 date: 2019-12-31 21:32:19
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kUD00nGrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kUD00nGrL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R33QNQQ

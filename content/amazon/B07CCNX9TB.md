@@ -3,6 +3,7 @@ layout: post
 title: 'Juguete con Coche de Bomberos Mini Coche'
 date: 2019/12/15 16:07:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511ZN5dvSgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511ZN5dvSgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

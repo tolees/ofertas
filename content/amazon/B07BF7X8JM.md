@@ -4,6 +4,7 @@ title: 'XP-PEN Deco 03 Tableta de Dibujo Gráfico'
 date: 2020-01-05 09:10:39
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31globr%2BIpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31globr%2BIpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BF7X8JM

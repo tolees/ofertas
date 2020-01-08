@@ -4,6 +4,7 @@ title: 'SportPlus Multiestación de Musculación p'
 date: 2019/12/23 17:22:56 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lQokB3YSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lQokB3YSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00CKKQ1SS

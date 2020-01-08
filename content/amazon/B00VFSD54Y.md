@@ -3,6 +3,7 @@ layout: post
 title: 'uhlsport Stream 3.0 Pantalón Classic Cha'
 date: 2019/12/12 11:34:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZV-g6je3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZV-g6je3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

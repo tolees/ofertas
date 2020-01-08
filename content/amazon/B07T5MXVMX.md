@@ -4,6 +4,7 @@ title: 'Fossil Reloj Analógico para Hombre de Cu'
 date: 2019/12/18 00:03:37 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zlnK6Ky-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zlnK6Ky-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07T5MXVMX

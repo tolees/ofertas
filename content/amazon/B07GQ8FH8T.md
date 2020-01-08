@@ -4,6 +4,7 @@ title: 'Bosch TAS1006 Tassimo Happy Cafetera Mon'
 date: 2020-01-06 16:34:30
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZkFWgNKEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZkFWgNKEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GQ8FH8T

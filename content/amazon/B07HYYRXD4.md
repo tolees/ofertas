@@ -3,6 +3,7 @@ layout: post
 title: 'D DOLITY 1080P HD 1.5    de Pantalla Kit'
 date: 2020-01-07 15:10:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zcTaNWA5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zcTaNWA5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

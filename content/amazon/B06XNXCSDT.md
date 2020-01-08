@@ -3,6 +3,7 @@ layout: post
 title: 'Funko Pop! TV: Game of Thrones - Das Lie'
 date: 2020-01-04 22:22:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej9QAKaQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ej9QAKaQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

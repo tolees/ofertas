@@ -4,6 +4,7 @@ title: 'URAQT Traje del Vestido/Traje de Princes'
 date: 2020-01-06 22:23:08
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V0eml4PKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V0eml4PKL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077JKKHQ7

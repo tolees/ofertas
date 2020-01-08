@@ -4,6 +4,7 @@ title: 'L.O.L. Surprise! 557128 L.O.L. Surprise '
 date: 2019/12/23 08:23:11 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VFhVMh8uL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VFhVMh8uL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HRPQL6S

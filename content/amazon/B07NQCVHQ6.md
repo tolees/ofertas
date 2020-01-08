@@ -3,6 +3,7 @@ layout: post
 title: 'Nuevo Echo Dot  3.ª generación  - Altavo'
 date: 2020-01-06 18:18:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

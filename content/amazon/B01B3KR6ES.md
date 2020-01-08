@@ -3,6 +3,7 @@ layout: post
 title: 'DIM Generous Minimizer Sujetador Reducto'
 date: 2020-01-05 13:04:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sN3wp3ajL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sN3wp3ajL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

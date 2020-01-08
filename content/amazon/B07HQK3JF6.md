@@ -4,6 +4,7 @@ title: 'FiiO M9 High Resolution Lossless Audio P'
 date: 2019/12/18 08:35:38 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mTasQdTzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mTasQdTzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HQK3JF6

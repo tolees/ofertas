@@ -4,6 +4,7 @@ title: 'Maegoo Mando Controlador Inalámbrico par'
 date: 2020-01-08 07:48:22
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41po8HVhcnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41po8HVhcnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TJGB4F6

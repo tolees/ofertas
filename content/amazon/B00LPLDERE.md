@@ -4,6 +4,7 @@ title: 'L Oréal Paris - Infallible 24H  Maquilla'
 date: 2019/12/13 09:12:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ruDUD0s%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ruDUD0s%2BL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00LPLDERE

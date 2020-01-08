@@ -4,6 +4,7 @@ title: 'ZUNTO Estanteria Baño Autoadhesivo Estan'
 date: 2020-01-03 17:47:13
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519Pcn5PyKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519Pcn5PyKL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07YD1DDD1

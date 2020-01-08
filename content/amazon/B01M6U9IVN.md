@@ -3,6 +3,7 @@ layout: post
 title: 'Umbro Loyal Pantalones  Hombre  Negro  L'
 date: 2020-01-03 13:09:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Sharp LC-55UI8652E - UHD Smart TV Slim d'
 date: 2019/12/20 20:22:06 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510GQyle9WL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510GQyle9WL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DG1QXBK

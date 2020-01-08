@@ -4,6 +4,7 @@ title: 'Helly Hansen Dubliner Parka Chaqueta 3/4'
 date: 2019/12/20 00:59:39 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3asBsxhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3asBsxhL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01EOWZZ22

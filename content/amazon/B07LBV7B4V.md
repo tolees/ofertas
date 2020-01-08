@@ -3,6 +3,7 @@ layout: post
 title: 'LIGE Relojes Hombres Cronógrafo Impermea'
 date: 2019-12-31 18:47:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cEI0htUZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cEI0htUZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

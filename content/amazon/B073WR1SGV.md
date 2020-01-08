@@ -4,6 +4,7 @@ title: 'Mando Inalámbrico para Juegos  Maegoo 2.'
 date: 2020-01-05 14:46:12
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EPMzNn0jL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EPMzNn0jL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B073WR1SGV

@@ -3,6 +3,7 @@ layout: post
 title: 'Columbia Powder Lite - Forro Polar para '
 date: 2019/12/30 20:01:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310I%2BTae71L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310I%2BTae71L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

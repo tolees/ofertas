@@ -4,6 +4,7 @@ title: 'Moliies Cámara Full HD 1080P DV Mini cám'
 date: 2019/12/18 13:52:23 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eu9W1JIaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eu9W1JIaL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KYG8YF8

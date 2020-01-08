@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Herren Rainforest S PKT Jacke '
 date: 2019/12/13 19:20:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bltr60DxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bltr60DxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

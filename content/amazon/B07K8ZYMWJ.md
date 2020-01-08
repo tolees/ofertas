@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Classic Slipper  Zapatillas Bajas '
 date: 2019/12/15 16:16:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21VD-jhz4qL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21VD-jhz4qL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

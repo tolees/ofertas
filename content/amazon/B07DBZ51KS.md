@@ -4,6 +4,7 @@ title: 'LTPAG Bombilla H7 LED Coche  2pcs 72W 12'
 date: 2019/12/21 10:33:11 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ijkHQoUPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ijkHQoUPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DBZ51KS

@@ -3,6 +3,7 @@ layout: post
 title: 'YaYuu Gear S3 Frontier/Classic Correa de'
 date: 2020-01-02 17:09:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q-RG1rtmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q-RG1rtmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

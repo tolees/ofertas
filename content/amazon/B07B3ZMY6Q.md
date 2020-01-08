@@ -4,6 +4,7 @@ title: 'PLAYMOBIL Adventskalender 9391 Waldweihn'
 date: 2019/12/23 00:59:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61IB2BRIoIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61IB2BRIoIL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B3ZMY6Q

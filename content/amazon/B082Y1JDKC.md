@@ -4,6 +4,7 @@ title: 'NAIXUES 2019 Smartwatch Niños  Reloj Int'
 date: 2019/12/22 11:56:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61uwx4Eb4KL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61uwx4Eb4KL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B082Y1JDKC

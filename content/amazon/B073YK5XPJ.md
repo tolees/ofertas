@@ -4,6 +4,7 @@ title: 'Russell Hobbs EasyPrep 22990-56 - Batido'
 date: 2020-01-06 19:53:29
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412ryI9XvTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412ryI9XvTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B073YK5XPJ

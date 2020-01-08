@@ -3,6 +3,7 @@ layout: post
 title: 'find. Sudadera para Hombre  Azul  Mariti'
 date: 2020-01-05 11:13:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

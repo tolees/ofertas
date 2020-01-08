@@ -3,6 +3,7 @@ layout: post
 title: 'Frozen Disney Die Eiskönigin II Königlic'
 date: 2020-01-05 22:28:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

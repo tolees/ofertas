@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Sudadera con Cuello Alto Mujer  A'
 date: 2020-01-02 15:04:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41COO1sjk1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

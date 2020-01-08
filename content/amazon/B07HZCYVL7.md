@@ -3,6 +3,7 @@ layout: post
 title: 'Timex Reloj de Pulsera TW2R85500'
 date: 2020-01-03 22:00:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXQNRULCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXQNRULCL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

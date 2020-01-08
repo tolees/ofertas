@@ -3,6 +3,7 @@ layout: post
 title: 'Clarilou Funda Smartphone - Diseño Exclu'
 date: 2020-01-03 02:46:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OmUHo9nqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OmUHo9nqL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

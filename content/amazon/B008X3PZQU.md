@@ -4,6 +4,7 @@ title: 'Geox U SIRON A  Mocasines para Hombre  N'
 date: 2019/12/11 17:23:17 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iZK1e7KPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iZK1e7KPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B008X3PZQU

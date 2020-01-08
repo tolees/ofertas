@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch 2 607 010 533 - Set de 8 brocas he'
 date: 2019/12/30 13:51:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tCbGlmVSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tCbGlmVSL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

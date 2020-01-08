@@ -4,6 +4,7 @@ title: 'Scotch & Soda Allover Printed Polo Camis'
 date: 2019/12/15 10:42:16 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VqwEbDBUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VqwEbDBUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07L1HPJW1

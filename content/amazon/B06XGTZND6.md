@@ -4,6 +4,7 @@ title: 'Moulinex Optimo OX484810 - Horno de Conv'
 date: 2019/12/29 14:13:10 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gSWoqPdEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gSWoqPdEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XGTZND6

@@ -3,6 +3,7 @@ layout: post
 title: 'Only NOS Onlsuzana L/s Pullover Knt Noos'
 date: 2019/12/22 14:48:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pwNBdovcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pwNBdovcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

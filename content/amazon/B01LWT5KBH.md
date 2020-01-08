@@ -4,6 +4,7 @@ title: 'Playmobil 9081 - Geldautomat'
 date: 2019/12/13 17:01:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61TMFXGyO%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61TMFXGyO%2BL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01LWT5KBH

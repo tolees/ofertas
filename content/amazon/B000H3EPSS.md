@@ -3,6 +3,7 @@ layout: post
 title: 'Revlon Super Lustrous Pintalabios  Black'
 date: 2019/12/18 19:15:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oPs6Zj4vL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oPs6Zj4vL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Cartier - La Panthère Gel de ducha'
 date: 2020-01-04 21:21:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ZNGnoYCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ZNGnoYCL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

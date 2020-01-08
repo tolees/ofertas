@@ -4,6 +4,7 @@ title: 'MEDION S3409 - MD 60999 - Ordenador port'
 date: 2020-01-04 04:29:13
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nGr4Mf9VL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nGr4Mf9VL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CD5KL6R

@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri DROZ Jersey  Azul  French Blue'
 date: 2020-01-03 10:28:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qkf-xigAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qkf-xigAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

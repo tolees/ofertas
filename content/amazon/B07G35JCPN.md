@@ -4,6 +4,7 @@ title: 'Match L.O.L. Surprise'
 date: 2020-01-08 06:41:17
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YUL6auA0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YUL6auA0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07G35JCPN

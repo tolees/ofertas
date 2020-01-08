@@ -3,6 +3,7 @@ layout: post
 title: 'Funko 32770 Pocket POP Keychain: Fantast'
 date: 2019/12/22 00:34:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z2RA4ltmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z2RA4ltmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

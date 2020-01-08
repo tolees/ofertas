@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Parka Corta Hombre  Rojo  Burgund'
 date: 2020-01-04 10:25:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rnJKVcUcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rnJKVcUcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'O Neill PM Cali Bañador  Hombre  Asphalt'
 date: 2019/12/15 10:31:39 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VV%2BiOVNbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VV%2BiOVNbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KBFDM81

@@ -3,6 +3,7 @@ layout: post
 title: 'Kenwood KCook Multi CCL401WH - Robot de '
 date: 2019/12/20 19:45:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p-7eAytuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p-7eAytuL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

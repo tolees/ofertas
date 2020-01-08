@@ -4,6 +4,7 @@ title: 'Emsa 515617 Travel Mug Standard-Design G'
 date: 2020-01-04 14:13:16
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415Ao-Yu9XL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415Ao-Yu9XL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00VE3I2OS

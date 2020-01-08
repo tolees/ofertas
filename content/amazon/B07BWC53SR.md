@@ -3,6 +3,7 @@ layout: post
 title: 'deAO Soldados en Batalla Fuerzas Armadas'
 date: 2019/12/28 16:17:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615bNA1gnWL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/615bNA1gnWL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

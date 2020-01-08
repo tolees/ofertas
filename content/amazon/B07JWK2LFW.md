@@ -3,6 +3,7 @@ layout: post
 title: 'Luz Solar Jardín  BAXiA 2000LM Luces Sol'
 date: 2019/12/28 08:02:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lX7K2BL0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lX7K2BL0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

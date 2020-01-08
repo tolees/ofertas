@@ -2,8 +2,9 @@
 layout: post
 title: 'Funko 7232 Agent 13  Marvel Captain Amer'
 date: 2020-01-08 06:14:50
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516tuuyjMDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516tuuyjMDL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01A7H0RDA
@@ -13,10 +14,10 @@ comparePrice: 9.16 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 7232 Agent 13  Marvel Captain America Bobble Head](https://www.amazon.com/dp/B01A7H0RDA/?tag=redken08-20) a 4.97 GBP (original: 9.16 GBP) en el siguiente enlace!
+Tienes [Funko 7232 Agent 13  Marvel Captain America Bobble Head](https://www.amazon.com/dp/B01A7H0RDA/?tag=redken08-20) a precio de oferta de 4.97 GBP (original: 9.16 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516tuuyjMDL._SL200_.jpg)](https://www.amazon.com/dp/B01A7H0RDA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01A7H0RDA/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01A7H0RDA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

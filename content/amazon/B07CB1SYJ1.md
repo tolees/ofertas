@@ -4,6 +4,7 @@ title: 'BIC Gelocity Illusion - Blíster de 3 bol'
 date: 2019/12/23 09:59:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511EIW01DnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511EIW01DnL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CB1SYJ1

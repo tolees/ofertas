@@ -4,6 +4,7 @@ title: 'Amilril Collar  Plata de Ley 925 Moda Jo'
 date: 2020-01-02 09:34:18
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VcyEhp%2B-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VcyEhp%2B-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q7ZY3ZS

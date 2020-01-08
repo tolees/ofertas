@@ -4,6 +4,7 @@ title: 'JACK & JONES Jcoglobe Parka Abrigos Homb'
 date: 2019/12/27 08:46:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07W8P7NNW

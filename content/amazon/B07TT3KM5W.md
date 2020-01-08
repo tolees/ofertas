@@ -3,6 +3,7 @@ layout: post
 title: 'SZMDLX Bluetooth Adapter  Transmitter un'
 date: 2019/12/14 07:21:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ew0Hyb99L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ew0Hyb99L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

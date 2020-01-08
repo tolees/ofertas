@@ -4,6 +4,7 @@ title: 'Lee Basic Belt Cinturón  Marrón  Dark Br'
 date: 2019/12/21 20:02:30 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPFiuawzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPFiuawzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07M5DJMZ8

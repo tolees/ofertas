@@ -3,6 +3,7 @@ layout: post
 title: 'Hi-Tec V-Lite Wild-Life Scorpion I  Zapa'
 date: 2019/12/22 20:26:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3bcf6GTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3bcf6GTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

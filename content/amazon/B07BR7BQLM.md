@@ -4,6 +4,7 @@ title: 'Carrera 2005T/S Gafas de sol  Negro  MTT'
 date: 2019/12/12 15:40:54 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dKdHVanEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dKdHVanEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BR7BQLM

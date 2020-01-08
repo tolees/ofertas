@@ -3,6 +3,7 @@ layout: post
 title: 'Impresora Multifuncional Canon PIXMA MX4'
 date: 2019/12/21 20:14:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jlTQ7bdrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jlTQ7bdrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Kano Computer Kit - Make a computer. Lea'
 date: 2019/12/24 15:12:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-VaIktpgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-VaIktpgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

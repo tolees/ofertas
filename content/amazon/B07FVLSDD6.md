@@ -4,6 +4,7 @@ title: 'Destornillador Eléctrico  TECCPO 4Nm Ato'
 date: 2020-01-07 10:10:15
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wKWOZ4tVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wKWOZ4tVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FVLSDD6

@@ -4,6 +4,7 @@ title: 'Suunto Traverse Alpha Black Red'
 date: 2020-01-05 13:35:40
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519UCqVufHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519UCqVufHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01N5C9SWB

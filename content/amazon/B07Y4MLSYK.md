@@ -4,6 +4,7 @@ title: 'Luces de Proyector de Navidad  Luz de Pr'
 date: 2019/12/17 18:02:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y6hkc9GLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y6hkc9GLL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Y4MLSYK

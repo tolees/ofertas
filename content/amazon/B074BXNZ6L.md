@@ -4,6 +4,7 @@ title: 'Pepe Jeans Hatch  Vaqueros Slim para Hom'
 date: 2019/12/29 10:27:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3128obOuFIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3128obOuFIL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B074BXNZ6L

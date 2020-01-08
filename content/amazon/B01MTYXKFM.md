@@ -4,6 +4,7 @@ title: 'find. Lace Up Capucha Para Mujer  Negro '
 date: 2019/12/20 08:33:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415qc%2BeDJxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415qc%2BeDJxL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MTYXKFM

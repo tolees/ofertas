@@ -4,6 +4,7 @@ title: 'JACK & JONES Jjeunion Knit Crew Neck Noo'
 date: 2019/12/21 15:08:39 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tRFsa564L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tRFsa564L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07B4XG9JH

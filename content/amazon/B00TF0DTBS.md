@@ -3,6 +3,7 @@ layout: post
 title: 'Rubie s Official Disney Frozen Anna Wig '
 date: 2019/12/17 07:05:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XWL2GwArL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XWL2GwArL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'ANTIMI Bluetooth Headphones Wireless Ear'
 date: 2020-01-08 06:14:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

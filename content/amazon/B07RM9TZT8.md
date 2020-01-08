@@ -4,6 +4,7 @@ title: 'JACK & JONES Jjitim Jjoriginal Am 814 Va'
 date: 2020-01-02 10:51:44
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pnJkehA6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pnJkehA6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RM9TZT8

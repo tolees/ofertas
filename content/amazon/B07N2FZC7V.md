@@ -3,6 +3,7 @@ layout: post
 title: 'PAULINE & MORGEN Collar Mujer Fiesta Col'
 date: 2019/12/15 17:15:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413KBAo97nL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413KBAo97nL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

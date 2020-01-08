@@ -3,6 +3,7 @@ layout: post
 title: 'Ferilinso Funda para Xiaomi Mi A3 Elegan'
 date: 2020-01-05 16:13:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

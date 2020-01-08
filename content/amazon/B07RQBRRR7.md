@@ -4,6 +4,7 @@ title: 'Rii i4 Mini bluetooth teclado inalámbric'
 date: 2019/12/30 00:46:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kUgQmDWtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kUgQmDWtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RQBRRR7

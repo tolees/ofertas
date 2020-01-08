@@ -4,6 +4,7 @@ title: 'El Mejor Suero Vitamina C Para la Cara c'
 date: 2019/12/30 01:01:48 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PmAeWYmOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PmAeWYmOL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00KOUALMS

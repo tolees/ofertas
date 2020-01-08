@@ -4,6 +4,7 @@ title: 'Luces solares al aire libre   100 LED 8 '
 date: 2020-01-07 09:15:42
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B081TXHXH8

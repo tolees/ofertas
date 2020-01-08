@@ -4,6 +4,7 @@ title: 'Ultimate Ears Boom 2 Special Edition Por'
 date: 2019/12/22 16:38:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YWr3CU07L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YWr3CU07L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07J36VFFQ

@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Chaqueta con Cremallera y Capucha'
 date: 2019/12/20 14:46:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aKTJRD5FL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aKTJRD5FL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

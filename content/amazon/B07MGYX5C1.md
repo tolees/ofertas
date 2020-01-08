@@ -3,6 +3,7 @@ layout: post
 title: 'Mitlfuny Zapatos de Baile de Tango Latin'
 date: 2019/12/24 17:43:18 +0000
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 comments: true
 category: ofertas
 author: ring

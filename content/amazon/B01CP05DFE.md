@@ -4,6 +4,7 @@ title: 'Eshow Bolso Bandolera a Hombro para Muje'
 date: 2020-01-07 21:16:02
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511kgoafOSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511kgoafOSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01CP05DFE

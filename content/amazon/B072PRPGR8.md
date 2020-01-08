@@ -4,6 +4,7 @@ title: 'Acer Switch 5  SW512-52-5819  30 48 cm  '
 date: 2019/12/15 12:42:11 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uX7Z1tu0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uX7Z1tu0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B072PRPGR8

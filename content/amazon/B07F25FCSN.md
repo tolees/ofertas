@@ -3,6 +3,7 @@ layout: post
 title: 'Amzdeal Grifo de Cocina 360° Giratorio  '
 date: 2020-01-04 12:48:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VLp6QRihL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VLp6QRihL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

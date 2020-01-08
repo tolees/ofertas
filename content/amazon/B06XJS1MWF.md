@@ -3,6 +3,7 @@ layout: post
 title: 'Hot Mom - barandillas de la cama 150 cm '
 date: 2019/12/21 13:08:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Whq9J-4dL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Whq9J-4dL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

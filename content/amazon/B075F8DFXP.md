@@ -4,6 +4,7 @@ title: 'Puma Vikky Platform  Zapatillas para Muj'
 date: 2019/12/21 17:13:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417oQG%2BiAXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417oQG%2BiAXL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B075F8DFXP

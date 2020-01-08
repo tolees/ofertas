@@ -4,6 +4,7 @@ title: 'SanDisk Extreme - Tarjeta de memoria mic'
 date: 2020-01-05 03:57:14
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VC2j-DDYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VC2j-DDYL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FCMKK5X

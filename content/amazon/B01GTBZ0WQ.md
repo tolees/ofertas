@@ -4,6 +4,7 @@ title: 'DKNY Intimates Nightfall-Sheer Lace Suje'
 date: 2019/12/14 08:09:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NZ2l9Cf6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NZ2l9Cf6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01GTBZ0WQ

@@ -4,6 +4,7 @@ title: 'Lego Wear Jungen LWTIGER 650-T-SHIRT L/S'
 date: 2019/12/23 09:03:37 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CBbHKHj9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CBbHKHj9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KWN6ZMN

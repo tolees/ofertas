@@ -4,6 +4,7 @@ title: 'Rescue Runts-18052 Peluche Husky  Multic'
 date: 2019/12/31 08:10:30 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X1XhfBrTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X1XhfBrTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DDYN86N

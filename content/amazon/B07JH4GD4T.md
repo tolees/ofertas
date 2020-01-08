@@ -3,6 +3,7 @@ layout: post
 title: 'Eono Essentials - Chaqueta de esquí híbr'
 date: 2020-01-03 08:06:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Martellato Cortador de Pizza  95 x 250 m'
 date: 2019/12/16 16:11:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FboqJDepL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FboqJDepL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

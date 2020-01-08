@@ -3,6 +3,7 @@ layout: post
 title: 'Timex TW5K94800 - Reloj de Pulsera para '
 date: 2019/12/21 02:35:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511bH%2BOzTpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511bH%2BOzTpL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

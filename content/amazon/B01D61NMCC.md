@@ -4,6 +4,7 @@ title: 'Trangoworld Manaslu Pantalón Largo  Homb'
 date: 2020-01-03 15:21:20
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310F6%2BqtHkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310F6%2BqtHkL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01D61NMCC

@@ -3,6 +3,7 @@ layout: post
 title: 'BLACK+DECKER A7063-QZ - Kit de 76 herram'
 date: 2019/12/19 21:08:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YJNGVUYbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YJNGVUYbL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

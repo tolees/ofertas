@@ -4,6 +4,7 @@ title: 'Lee SS Western Camisa  Marfil  Blueprint'
 date: 2019/12/21 11:41:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hn%2BkcVg3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hn%2BkcVg3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FTRTW4H

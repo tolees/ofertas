@@ -4,6 +4,7 @@ title: 'Hem & Seam Slim Fit Printed  Camisa de O'
 date: 2019/12/20 07:43:47 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qGvMW%2ByXL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qGvMW%2ByXL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07G5QDVF7

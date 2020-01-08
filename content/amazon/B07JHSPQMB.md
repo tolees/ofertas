@@ -3,6 +3,7 @@ layout: post
 title: 'G-STAR RAW Lynn D-Mid Waist Super Skinny'
 date: 2019/12/28 19:47:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ve-xW%2BbkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ve-xW%2BbkL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

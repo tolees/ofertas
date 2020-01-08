@@ -4,6 +4,7 @@ title: 'Ropa Interior Térmica Hombre  Camiseta T'
 date: 2020-01-04 10:53:59
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-aN0rwQgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-aN0rwQgL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07WK2MC6B

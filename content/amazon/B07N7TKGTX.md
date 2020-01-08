@@ -4,6 +4,7 @@ title: 'FEBER- Triciclo evolutivo Baby Plus Musi'
 date: 2019/12/21 13:08:14 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VXzbD7dKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VXzbD7dKL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07N7TKGTX

@@ -4,6 +4,7 @@ title: 'Almirón 3 Leche de crecimiento en polvo '
 date: 2019/12/17 09:48:53 +0000
 comments: true
 thumbnailImage: 'http://images.amazon.com/images/P/B019IJZDWS.01._PI_SCMZZZZZZZ_._SL200_.jpg'
+images: [ 'http://images.amazon.com/images/P/B019IJZDWS.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B019IJZDWS

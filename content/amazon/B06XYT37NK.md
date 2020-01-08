@@ -4,6 +4,7 @@ title: 'SanDisk SDSQXCG-064G-GN6MA 64GB Extreme '
 date: 2020-01-05 12:24:54
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QFb%2BS1BlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QFb%2BS1BlL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XYT37NK

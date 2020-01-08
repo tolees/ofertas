@@ -4,6 +4,7 @@ title: 'DC Shoes Mastaford Jackets  Hombre  Blac'
 date: 2019/12/26 16:07:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hgwoNvYSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hgwoNvYSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KZ6PBMS

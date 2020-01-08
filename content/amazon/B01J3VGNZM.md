@@ -3,6 +3,7 @@ layout: post
 title: 'Suunto - Spartan Ultra Black HR - SS0226'
 date: 2019/12/30 21:26:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aXP4%2B7EdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aXP4%2B7EdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

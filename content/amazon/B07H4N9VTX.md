@@ -3,6 +3,7 @@ layout: post
 title: 'Bombas de Baño ORGÁNICAS con Aceites Ese'
 date: 2019/12/13 22:45:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CO4o8HVFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CO4o8HVFL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

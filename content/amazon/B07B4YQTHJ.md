@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo BOSS Reloj Cronógrafo para Hombre d'
 date: 2019/12/13 12:05:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BD1TNhQUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BD1TNhQUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

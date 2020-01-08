@@ -4,6 +4,7 @@ title: 'JACK & JONES Jjiglenn Jjoriginal Jos 102'
 date: 2020-01-05 12:20:58
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FNLJRLR

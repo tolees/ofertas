@@ -4,6 +4,7 @@ title: 'Adidas Drive 1.9 Palas  Adultos Unisex  '
 date: 2020-01-06 16:57:34
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412msYxX6ZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412msYxX6ZL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LBPPNZ8

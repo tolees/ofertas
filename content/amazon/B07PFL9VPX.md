@@ -4,6 +4,7 @@ title: 'XTI 49524  Zapatillas para Mujer  Negro '
 date: 2019/12/12 18:39:08 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bMFnjt89L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bMFnjt89L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PFL9VPX

@@ -4,6 +4,7 @@ title: 'SELECTED HOMME Shdonesel-siam Shirt LS S'
 date: 2019/12/31 11:08:44 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RN0q7aUOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RN0q7aUOL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B076ZYLPPD

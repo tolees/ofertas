@@ -3,6 +3,7 @@ layout: post
 title: 'ZAFUL Mujeres Pantalones con Cordones a '
 date: 2019/12/26 06:36:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSpPZcVUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hSpPZcVUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

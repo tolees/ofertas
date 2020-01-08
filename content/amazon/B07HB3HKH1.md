@@ -4,6 +4,7 @@ title: 'Funko 33991 POP Vinyl: Games: Fallout S2'
 date: 2019-12-31 22:08:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tyRE5LmvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tyRE5LmvL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HB3HKH1

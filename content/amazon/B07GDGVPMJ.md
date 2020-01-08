@@ -3,6 +3,7 @@ layout: post
 title: 'adidas All Me 3-Stripes Sujetador Deport'
 date: 2020-01-06 09:16:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EcAhnpS8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EcAhnpS8L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

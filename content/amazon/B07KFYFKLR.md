@@ -4,6 +4,7 @@ title: 'PUMA Drift Cat 5 AC  Zapatillas Unisex A'
 date: 2019/12/15 10:31:39 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m7YwiNXTL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m7YwiNXTL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KFYFKLR

@@ -4,6 +4,7 @@ title: 'Soporte Móvil Coche hanmir Soporte Móvil'
 date: 2020-01-04 21:32:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BqqQ6DbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-%2BqqQ6DbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R22YGPR

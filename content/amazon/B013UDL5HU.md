@@ -4,6 +4,7 @@ title: 'SanDisk Ultra 128 GB MicroSDXC UHS-I Mem'
 date: 2019/12/21 13:48:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IH4T9Uw0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IH4T9Uw0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B013UDL5HU

@@ -3,6 +3,7 @@ layout: post
 title: 'find. Stud Detail Vaqueros skinny  Azul '
 date: 2020-01-05 23:26:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ToVTyXUhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ToVTyXUhL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

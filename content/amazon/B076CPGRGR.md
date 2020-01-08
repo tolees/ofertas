@@ -4,6 +4,7 @@ title: 'BraceTek - Kit de Marco Para Manos y Hue'
 date: 2020-01-05 09:07:19
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FwLiNes1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FwLiNes1L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B076CPGRGR

@@ -4,6 +4,7 @@ title: 'ISUDA Corrector de postura para la corre'
 date: 2019/12/27 09:10:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510sbHNp3wL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510sbHNp3wL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PQSKG1M

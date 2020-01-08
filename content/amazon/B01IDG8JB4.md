@@ -4,6 +4,7 @@ title: 'MINILAND BABY - Humidificador'
 date: 2019/12/13 21:23:50 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eGb98YPHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eGb98YPHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01IDG8JB4

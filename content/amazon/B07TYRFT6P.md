@@ -4,6 +4,7 @@ title: 'Pop Doctor Who Kerblam Man Vinyl Figure'
 date: 2019/12/27 22:23:57 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I0hxoB8VL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I0hxoB8VL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TYRFT6P

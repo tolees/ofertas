@@ -4,6 +4,7 @@ title: 'Disney Frozen II Elsa Puppe'
 date: 2019/12/17 07:29:29 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U9c%2BMFhuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U9c%2BMFhuL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07VTQNXFP

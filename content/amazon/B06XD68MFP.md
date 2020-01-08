@@ -3,6 +3,7 @@ layout: post
 title: 'Jimmy Choo Eau de Courreges Gel de Ducha'
 date: 2019/12/20 13:39:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21pLrmp0ntL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21pLrmp0ntL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

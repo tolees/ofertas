@@ -4,6 +4,7 @@ title: 'READ Reloj para Hombre  Reloj de Cuarzo '
 date: 2019/12/21 07:12:12 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416xXLJMrdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416xXLJMrdL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HL9PLDC

@@ -4,6 +4,7 @@ title: 'XLTOK Cable USB Tipo C  Cable USB C [ 3P'
 date: 2019/12/20 20:07:25 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41quLeFtJVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41quLeFtJVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LF8MF2K

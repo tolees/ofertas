@@ -3,6 +3,7 @@ layout: post
 title: 'Shock Absorber Ultimate Run Bra  Sujetad'
 date: 2019/12/26 13:32:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe3g6RjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UQe3g6RjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

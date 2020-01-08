@@ -4,6 +4,7 @@ title: 'Mustard Cactus - Divisor de Audio'
 date: 2020-01-01 19:31:09
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U1tauHCHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U1tauHCHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B06XHZLCV5

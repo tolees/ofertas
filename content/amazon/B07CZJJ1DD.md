@@ -4,6 +4,7 @@ title: 'Powerbeats3 Wireless Earphones - The Bea'
 date: 2019/12/12 11:04:52 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q2kVCu6XL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q2kVCu6XL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CZJJ1DD

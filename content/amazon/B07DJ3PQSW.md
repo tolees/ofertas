@@ -4,6 +4,7 @@ title: 'New Balance 574S v2  Zapatillas para Muj'
 date: 2019/12/13 16:49:35 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07DJ3PQSW

@@ -3,6 +3,7 @@ layout: post
 title: 'Calcetines de Algodón 3 Pares  Negro  EU'
 date: 2019/12/17 06:50:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417MuirZe6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417MuirZe6L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

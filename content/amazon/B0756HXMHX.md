@@ -3,6 +3,7 @@ layout: post
 title: 'Tiny Love 3 in 1 Close to Me Bouncer - B'
 date: 2020-01-06 22:54:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PQTY4KL7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PQTY4KL7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'LEGO DUPLO 10902 - Polizeistation'
 date: 2019/12/30 17:51:18 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519qTLN0P9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FNTSHZC

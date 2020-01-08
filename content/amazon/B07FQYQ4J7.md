@@ -3,6 +3,7 @@ layout: post
 title: 'Clarks Sharon Crystal  Zapatos de Cordon'
 date: 2019/12/29 18:11:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RFJCOT48L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RFJCOT48L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

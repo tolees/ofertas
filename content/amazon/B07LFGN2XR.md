@@ -4,6 +4,7 @@ title: 'Levi s LS Battery Hm Shirt Camisa  Azul '
 date: 2019/12/29 12:01:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x4rtMyOGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x4rtMyOGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07LFGN2XR

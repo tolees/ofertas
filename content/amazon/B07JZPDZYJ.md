@@ -4,6 +4,7 @@ title: 'adidas Gazelle  Zapatillas de deporte pa'
 date: 2019/12/26 03:05:06 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413a%2B22b-nL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413a%2B22b-nL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JZPDZYJ

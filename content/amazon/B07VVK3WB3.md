@@ -3,6 +3,7 @@ layout: post
 title: 'Antimi LED Fahrradlicht Set【Neueste Mode'
 date: 2019/12/19 22:38:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iX7joXeIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iX7joXeIL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Reloj Analógico para Hombre de C'
 date: 2019/12/12 08:09:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gSSF92ZlL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gSSF92ZlL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

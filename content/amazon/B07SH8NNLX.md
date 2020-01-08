@@ -3,6 +3,7 @@ layout: post
 title: 'IKOHS Retro Fridge - Frigorífico con dis'
 date: 2019/12/30 13:51:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

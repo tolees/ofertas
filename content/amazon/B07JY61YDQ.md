@@ -4,6 +4,7 @@ title: 'Pecute Funda de Asiento para Perros 2019'
 date: 2020-01-04 20:47:44
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511ROQBXGYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511ROQBXGYL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JY61YDQ

@@ -4,6 +4,7 @@ title: 'Simpeak Funda Compatible con Huawei P30 '
 date: 2020-01-05 13:17:26
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YS%2BUPXqzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YS%2BUPXqzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NVD8MFB

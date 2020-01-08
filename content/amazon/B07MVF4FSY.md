@@ -3,6 +3,7 @@ layout: post
 title: 'Adidas Daily 2.0  Zapatillas para Hombre'
 date: 2020-01-08 07:40:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3125jyC3UfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3125jyC3UfL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

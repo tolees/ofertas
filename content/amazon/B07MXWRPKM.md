@@ -4,6 +4,7 @@ title: 'Desigual 19WAXPAF - Bolso de hombro de S'
 date: 2020-01-02 10:02:11
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YfwEBjGiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YfwEBjGiL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MXWRPKM

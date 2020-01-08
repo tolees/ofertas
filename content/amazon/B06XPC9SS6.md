@@ -3,6 +3,7 @@ layout: post
 title: 'Bose SoundLink Revolve Plus Bluetooth Sp'
 date: 2019/12/12 22:15:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GSYS84DmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GSYS84DmL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

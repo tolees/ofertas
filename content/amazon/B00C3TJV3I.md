@@ -4,6 +4,7 @@ title: 'Ravensburger tiptoi Dein Körper und Du S'
 date: 2020-01-01 22:48:37
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uspegdGsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uspegdGsL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00C3TJV3I

@@ -3,6 +3,7 @@ layout: post
 title: 'KRISP Vestido Mujer Tallas Grandes Largo'
 date: 2020-01-08 01:49:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ypKA3vm0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ypKA3vm0L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

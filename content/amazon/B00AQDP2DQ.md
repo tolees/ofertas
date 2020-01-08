@@ -4,6 +4,7 @@ title: 'L Oréal Paris Color Riche Quad Pro S4 - '
 date: 2020-01-03 08:03:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00AQDP2DQ

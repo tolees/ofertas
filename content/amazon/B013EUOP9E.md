@@ -4,6 +4,7 @@ title: 'Toms Linen Rope Sole Alpargata ESP  Gris'
 date: 2019/12/26 15:20:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XMUjyAM9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XMUjyAM9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B013EUOP9E

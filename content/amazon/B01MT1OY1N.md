@@ -4,6 +4,7 @@ title: 'Edge Entertainment Hora de Aventuras - B'
 date: 2020-01-03 16:09:11
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YLBmV0rsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YLBmV0rsL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MT1OY1N

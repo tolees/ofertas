@@ -3,6 +3,7 @@ layout: post
 title: 'Lotus Reloj Analógico para Niñas de Cuar'
 date: 2019/12/20 01:18:14 +0000
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Greencut GLM660SX - Cortacésped con trac'
 date: 2019/12/15 16:57:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x3mQzH03L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x3mQzH03L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01DDM7RV6

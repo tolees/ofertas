@@ -3,6 +3,7 @@ layout: post
 title: 'Anita - Sujetador para mujer  Negro  sch'
 date: 2020-01-01 23:44:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Co4f7-DZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Co4f7-DZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

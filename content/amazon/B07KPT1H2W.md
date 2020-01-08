@@ -4,6 +4,7 @@ title: 'Funko 37685 POP Captain Marvel Holding L'
 date: 2020-01-03 06:14:14
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WIvtVmz9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WIvtVmz9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KPT1H2W

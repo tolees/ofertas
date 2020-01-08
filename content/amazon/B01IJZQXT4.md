@@ -3,6 +3,7 @@ layout: post
 title: 'Philips SB300B/00 - Altavoz Bluetooth po'
 date: 2020-01-04 15:16:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A4Aq08QLL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: ' Español  Manos Libres para Coche Kit Au'
 date: 2020-01-05 23:18:23
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wPdP1yUtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wPdP1yUtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07W6FGJST

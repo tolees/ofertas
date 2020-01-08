@@ -3,6 +3,7 @@ layout: post
 title: 'Festina Reloj de Pulsera F20399/1'
 date: 2019/12/11 23:56:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JL6X9ib5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JL6X9ib5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

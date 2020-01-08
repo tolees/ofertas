@@ -3,6 +3,7 @@ layout: post
 title: 'CASALS FC14 Red FC14 - Fresadora perniad'
 date: 2019/12/29 12:29:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vbtH0gQZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vbtH0gQZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

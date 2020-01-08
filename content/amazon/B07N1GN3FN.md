@@ -4,6 +4,7 @@ title: 'Clarks Grace Piper  Bailarinas para Muje'
 date: 2019/12/11 18:50:16 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CY-rpG8LL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CY-rpG8LL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07N1GN3FN

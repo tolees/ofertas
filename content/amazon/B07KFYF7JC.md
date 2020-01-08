@@ -4,6 +4,7 @@ title: 'Puma Unisex Adulto Axis Zapatillas  Azul'
 date: 2020-01-03 18:23:44
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KFYF7JC

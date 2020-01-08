@@ -4,6 +4,7 @@ title: 'Garmin vívoactive 3 Music GPS-Fitness-Sm'
 date: 2019/12/13 08:35:10 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417k%2BQegnaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417k%2BQegnaL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CR8NBQB

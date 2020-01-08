@@ -3,6 +3,7 @@ layout: post
 title: 'Funko 35576 POP Vinyl: Animation: 90s Ni'
 date: 2020-01-03 06:11:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cQ0FhWIeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cQ0FhWIeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

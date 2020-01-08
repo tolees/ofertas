@@ -4,6 +4,7 @@ title: 'find. Camisa Formal Entallada de Sarga d'
 date: 2020-01-07 08:20:32
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DnaufsouL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DnaufsouL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CCR2DH6

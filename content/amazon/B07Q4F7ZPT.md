@@ -4,6 +4,7 @@ title: 'Dockers by Gerli 44bn009  Zapatillas par'
 date: 2020-01-07 17:54:13
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xMQmlF57L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xMQmlF57L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q4F7ZPT

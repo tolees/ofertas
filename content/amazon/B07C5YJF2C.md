@@ -4,6 +4,7 @@ title: 'JACK & JONES Jjitim Jjoriginal JJ 119 Li'
 date: 2019/12/29 13:01:07 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07C5YJF2C

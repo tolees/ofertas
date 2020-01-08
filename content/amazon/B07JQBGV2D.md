@@ -3,6 +3,7 @@ layout: post
 title: 'Tommy Hilfiger Modern Hardware Belt 2.5 '
 date: 2019/12/29 08:41:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lIQSeVmZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lIQSeVmZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

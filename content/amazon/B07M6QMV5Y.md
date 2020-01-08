@@ -4,6 +4,7 @@ title: 'TESA tesafilm 57383 estándar cinta adhes'
 date: 2019/12/15 19:12:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e6g%2B4bUtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e6g%2B4bUtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07M6QMV5Y

@@ -4,6 +4,7 @@ title: 'Corrector de Postura Espalda y Hombros P'
 date: 2020-01-01 15:15:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T8DyCERwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T8DyCERwL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07CLB15DF

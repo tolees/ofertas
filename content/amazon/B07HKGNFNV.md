@@ -3,6 +3,7 @@ layout: post
 title: 'Alex Perry regalos de navidad mujer coll'
 date: 2020-01-05 11:16:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Df3m7FLjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Df3m7FLjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

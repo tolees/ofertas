@@ -4,6 +4,7 @@ title: 'Vmosgo 903 903XL Remanufacturado Reempla'
 date: 2019/12/26 11:20:58 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IYrZGwg6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IYrZGwg6L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07H1NRN4V

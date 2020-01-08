@@ -3,6 +3,7 @@ layout: post
 title: 'Wolfenstein Youngblood - Edición Deluxe '
 date: 2019/12/23 18:14:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TqV83lErL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TqV83lErL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

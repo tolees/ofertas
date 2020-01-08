@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 10869 DUPLO Town Farm Adventures Bu'
 date: 2019/12/21 20:27:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ybdMSGcCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ybdMSGcCL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

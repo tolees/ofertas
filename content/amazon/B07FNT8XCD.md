@@ -4,6 +4,7 @@ title: 'Lego 41368 Friends Andreas Talentshow  b'
 date: 2019/12/30 21:45:02 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qgQ3G4OmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qgQ3G4OmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FNT8XCD

@@ -3,6 +3,7 @@ layout: post
 title: 'Reductor WC  DALMO Adaptador WC ergonómi'
 date: 2019/12/13 18:14:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZBk96mcjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZBk96mcjL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

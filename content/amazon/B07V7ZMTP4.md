@@ -4,6 +4,7 @@ title: 'Cargador Coche Usb Carga Rápida 30W Para'
 date: 2019/12/29 15:13:06 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zT5HiFOEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zT5HiFOEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07V7ZMTP4

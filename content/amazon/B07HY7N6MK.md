@@ -4,6 +4,7 @@ title: 'Rowenta Suela Microsteam 400 láser evita'
 date: 2019-10-26 09:00:23
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pl4gdC97L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pl4gdC97L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HY7N6MK

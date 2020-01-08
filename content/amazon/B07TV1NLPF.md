@@ -4,6 +4,7 @@ title: 'Luz LED Armario Luz Sensor Nocturna Lámp'
 date: 2020-01-02 08:57:28
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BUYRcE5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B%2BUYRcE5L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TV1NLPF

@@ -4,6 +4,7 @@ title: 'Kipling Cute Estuches  22 cm  1 Liters  '
 date: 2019/12/12 20:16:34 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TEGvLnEzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TEGvLnEzL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NFKMK5L

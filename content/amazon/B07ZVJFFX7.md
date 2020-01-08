@@ -3,6 +3,7 @@ layout: post
 title: 'DADYPET Juguetes para Gatos Interactivos'
 date: 2020-01-07 07:47:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CFfJXrt4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CFfJXrt4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

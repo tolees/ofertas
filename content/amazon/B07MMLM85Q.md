@@ -4,6 +4,7 @@ title: 'Napapijri Berber WOM H Sudadera  Negro  '
 date: 2019/12/19 15:20:10 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nslWDjfpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07MMLM85Q

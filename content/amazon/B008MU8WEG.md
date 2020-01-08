@@ -3,6 +3,7 @@ layout: post
 title: 'Gossard Sujetador para Mujer  Color Negr'
 date: 2019/12/20 08:33:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fvdE7MBUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fvdE7MBUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

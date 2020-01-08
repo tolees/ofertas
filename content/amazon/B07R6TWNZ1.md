@@ -4,6 +4,7 @@ title: 'Columbia Lake 22 Chaqueta De Plumón  Muj'
 date: 2019/12/27 12:04:25 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41msQaHJV3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41msQaHJV3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R6TWNZ1

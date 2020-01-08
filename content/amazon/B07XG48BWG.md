@@ -4,6 +4,7 @@ title: 'edc by Esprit 109cc1k023 Camisa Manga La'
 date: 2020-01-01 21:26:53
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PzVT%2BmsPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PzVT%2BmsPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07XG48BWG

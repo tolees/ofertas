@@ -4,6 +4,7 @@ title: 'Zwilling King - Set de cubiertos de mesa'
 date: 2020-01-05 15:44:06
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FAWhBsAvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FAWhBsAvL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B010DH3WHC

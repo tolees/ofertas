@@ -3,6 +3,7 @@ layout: post
 title: 'JACK & JONES Jjiglenn Jjoriginal Jos 102'
 date: 2020-01-03 08:11:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WBIM4TwVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

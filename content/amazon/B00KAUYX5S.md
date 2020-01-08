@@ -4,6 +4,7 @@ title: 'Krups The Sub Heineken VB650E10 - Tirado'
 date: 2020-01-06 12:50:55
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00KAUYX5S

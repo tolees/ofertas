@@ -4,6 +4,7 @@ title: 'adidas T19 M Polo Shirt  Hombre  Team Na'
 date: 2020-01-06 21:27:24
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HSRbisaqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HSRbisaqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KCXDMG6

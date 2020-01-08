@@ -3,6 +3,7 @@ layout: post
 title: 'Bourjois City Radiance Base de Maquillaj'
 date: 2019/12/20 16:34:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G6wf31cUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

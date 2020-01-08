@@ -4,6 +4,7 @@ title: 'Maxi-Cosi CABRIOFIX  Sparkling Grey  - S'
 date: 2020-01-05 12:35:42
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414iijCqdPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414iijCqdPL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B075FFCCJJ

@@ -4,6 +4,7 @@ title: 'Philips Sonicare Serie 2 HX6231/01 - Cep'
 date: 2019/12/30 08:02:37 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G1JvLhthL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G1JvLhthL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00TQXL0MO

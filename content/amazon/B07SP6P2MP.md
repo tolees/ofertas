@@ -4,6 +4,7 @@ title: 'MERCUSYS AC12G Dualband WLAN Router 300 '
 date: 2019/12/26 12:49:21 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314HDxGu0ML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314HDxGu0ML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SP6P2MP

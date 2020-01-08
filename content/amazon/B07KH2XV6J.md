@@ -4,6 +4,7 @@ title: 'Under Armour UA Rush Tank Tanque  Mujer '
 date: 2019/12/24 07:31:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CXADwpm5L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KH2XV6J

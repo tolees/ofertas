@@ -4,6 +4,7 @@ title: 'Timberland Adventure 2.0 Cupsole Modern '
 date: 2019/12/15 20:57:55 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2DL3ktcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2DL3ktcL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JLQ1T6J

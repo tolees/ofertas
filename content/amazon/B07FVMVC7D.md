@@ -3,6 +3,7 @@ layout: post
 title: 'Lomvum Medidor Laser de Distancia  50M P'
 date: 2020-01-05 23:23:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418roTPBW2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418roTPBW2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

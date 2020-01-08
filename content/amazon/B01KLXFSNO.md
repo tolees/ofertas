@@ -3,6 +3,7 @@ layout: post
 title: 'Remington i-Light IPL6780 - Depiladora d'
 date: 2019/12/30 07:13:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pL2IWv5rL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pL2IWv5rL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Rampow Cable USB C a Lightning [Apple MF'
 date: 2019/12/18 09:51:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LZRQ8ExCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LZRQ8ExCL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RVMQ3SX

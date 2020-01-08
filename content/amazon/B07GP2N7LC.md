@@ -4,6 +4,7 @@ title: 'TICTID Android 9.0 TV Box 【4G+64G】 S905X'
 date: 2019/12/29 19:24:51 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jbdkN9zfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jbdkN9zfL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GP2N7LC

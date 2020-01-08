@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers Elite Flex-Lochbay  Zapatillas '
 date: 2019/12/27 10:56:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

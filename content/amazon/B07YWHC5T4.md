@@ -4,6 +4,7 @@ title: 'ASOBEAGE Toilettenbürste WC-Bürste und B'
 date: 2019/12/14 11:00:09 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s6mHQrOmL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s6mHQrOmL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07YWHC5T4

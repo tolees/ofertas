@@ -3,6 +3,7 @@ layout: post
 title: 'PUTUO Chaqueta Vaquera Niña Chaqueta de '
 date: 2019/12/23 21:20:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zX4CM8k4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zX4CM8k4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Panasonic Lumix DMC-GX80K - Cámara EVIL '
 date: 2020-01-03 18:50:14
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411wFT0IdtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411wFT0IdtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01H1BYJYS

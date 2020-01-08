@@ -3,6 +3,7 @@ layout: post
 title: 'TROLLS Poppy Momento Abrazo  Multicolor.'
 date: 2019/12/12 21:02:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTKV1MhgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTKV1MhgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

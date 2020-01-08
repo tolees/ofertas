@@ -4,6 +4,7 @@ title: 'PUMA Popcat  Zapatos de Playa y Piscina '
 date: 2020-01-02 16:53:47
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ebl2mQkNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ebl2mQkNL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01N76MVMM

@@ -4,6 +4,7 @@ title: 'Funko 12332 Pop! TV: Game Of Thrones - B'
 date: 2019/12/25 00:24:34 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eGMkp396L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eGMkp396L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B071NHMWGB

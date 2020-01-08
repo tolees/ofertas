@@ -4,6 +4,7 @@ title: 'AmazonBasics Mochila para todos los días'
 date: 2020-01-07 08:46:46
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TvKzBzQcL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07FNT38FV

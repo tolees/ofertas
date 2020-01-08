@@ -3,6 +3,7 @@ layout: post
 title: 'Funko - POP Vinyl Animación Morty: Profe'
 date: 2019/12/16 18:16:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

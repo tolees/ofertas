@@ -3,6 +3,7 @@ layout: post
 title: 'Lee Luke Vaqueros  Light Daze ZX  33W / '
 date: 2019/12/27 14:53:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T8YlHc4zL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T8YlHc4zL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

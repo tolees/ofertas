@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Crocband Clog Kids  Zuecos Unisex '
 date: 2019/12/24 13:55:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FzYeh-8UL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FzYeh-8UL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

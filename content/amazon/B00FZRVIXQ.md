@@ -4,6 +4,7 @@ title: 'Muvit MUCHL0035 - Soporte  Teléfono móvi'
 date: 2019/12/17 12:00:36 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zIlLU0rjL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zIlLU0rjL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00FZRVIXQ

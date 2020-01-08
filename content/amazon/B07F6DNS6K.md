@@ -4,6 +4,7 @@ title: 'JACK & JONES Jjeholmen Sweat Crew Neck N'
 date: 2019/12/31 08:33:13 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AlT9hFrbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AlT9hFrbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07F6DNS6K

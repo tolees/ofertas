@@ -4,6 +4,7 @@ title: 'PUMA One 5.3 FG/AG  Botas de fútbol para'
 date: 2019/12/26 07:09:16 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RDKBwh%2B2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RDKBwh%2B2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KG2W4YH

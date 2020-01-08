@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Adrien B  Zapatos de Cordones Oxf'
 date: 2019/12/16 20:51:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MH3to84BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MH3to84BL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

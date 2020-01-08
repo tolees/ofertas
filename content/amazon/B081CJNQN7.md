@@ -4,6 +4,7 @@ title: 'Geographical Norway Chaqueta NIÑO BIBLOS'
 date: 2019/12/30 18:15:08 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jYpogMUkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jYpogMUkL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B081CJNQN7

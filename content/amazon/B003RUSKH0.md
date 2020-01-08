@@ -4,6 +4,7 @@ title: 'Bombay Sapphire London Dry Gin  1 x 0.7 '
 date: 2019/12/16 16:41:46 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-BPiOE6GL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-BPiOE6GL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B003RUSKH0

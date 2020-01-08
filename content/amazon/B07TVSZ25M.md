@@ -3,6 +3,7 @@ layout: post
 title: 'New Look Maisie Fitted Puffer  Abrigo Mu'
 date: 2019/12/23 11:37:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j3Cp3MFiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j3Cp3MFiL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

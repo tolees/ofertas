@@ -3,6 +3,7 @@ layout: post
 title: 'PME Bolsas de Manga Pastelera Desechable'
 date: 2019/12/18 11:07:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wQZtFgWfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wQZtFgWfL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

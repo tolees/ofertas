@@ -3,6 +3,7 @@ layout: post
 title: 'Moulinex HF404113 Robot de cocina multif'
 date: 2019/12/17 15:58:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C2yyNGrnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C2yyNGrnL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

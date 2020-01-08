@@ -4,6 +4,7 @@ title: 'Red Bull Energy Drink Zero Calories Dose'
 date: 2019/12/31 10:34:57 +0000
 comments: true
 thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 category: ofertas
 author: ring
 slug: B00VQRNNQE

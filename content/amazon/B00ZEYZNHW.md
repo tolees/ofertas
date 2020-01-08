@@ -3,6 +3,7 @@ layout: post
 title: 'Street Fighter V'
 date: 2020-01-05 10:46:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rYmJuaUgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rYmJuaUgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

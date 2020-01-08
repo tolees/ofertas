@@ -4,6 +4,7 @@ title: '24 Tubos de Pintura de Acuarela de Zenac'
 date: 2019/12/26 07:15:43 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t8VLbhBEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t8VLbhBEL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B072R1ZHCK

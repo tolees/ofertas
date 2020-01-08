@@ -3,6 +3,7 @@ layout: post
 title: 'CACAGOO Überwachungskamera Aussen Wlan 1'
 date: 2019/12/18 18:05:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n6tmq%2BDoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n6tmq%2BDoL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

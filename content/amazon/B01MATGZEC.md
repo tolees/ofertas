@@ -3,6 +3,7 @@ layout: post
 title: 'STANLEY FATMAX FMST1-75672 - Mesa de tra'
 date: 2019/12/25 15:01:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qAy76hxdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qAy76hxdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Alexis Leroy Botas con Tacón para Mujer '
 date: 2019/12/29 13:09:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IO7IxtXFL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IO7IxtXFL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

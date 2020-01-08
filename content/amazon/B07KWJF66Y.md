@@ -4,6 +4,7 @@ title: 'LIGHTAILING Light Set For  Parisian Rest'
 date: 2020-01-03 06:06:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T8kbx6v9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T8kbx6v9L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KWJF66Y

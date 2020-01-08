@@ -4,6 +4,7 @@ title: 'Adidas Solar Lt Trainer W  Zapatillas de'
 date: 2019/12/13 10:58:40 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QtKkILgKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QtKkILgKL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07KFLCQ4R

@@ -3,6 +3,7 @@ layout: post
 title: 'SUAOKI U3 Arrancador de Moto 400A  para '
 date: 2020-01-08 00:16:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BW20yfjUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BW20yfjUL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

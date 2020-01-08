@@ -4,6 +4,7 @@ title: 'Tria Beauty HRLP W - Depiladora láser de'
 date: 2020-01-07 10:45:25
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318F0U4nGKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318F0U4nGKL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01JGLC11O

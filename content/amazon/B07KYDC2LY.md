@@ -3,6 +3,7 @@ layout: post
 title: 'Gioseppo Beta  Mocasines para Niños  Azu'
 date: 2019/12/28 12:51:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lRX9iI1yL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lRX9iI1yL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

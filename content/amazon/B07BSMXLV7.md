@@ -4,6 +4,7 @@ title: 'REPLAY M3666 .000.21842  Camiseta para H'
 date: 2019/12/17 08:35:19 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uZd4f0USL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uZd4f0USL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07BSMXLV7

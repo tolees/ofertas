@@ -3,6 +3,7 @@ layout: post
 title: 'Ruicer 4 Piezas Ganchos Adhesivos para P'
 date: 2019/12/12 20:03:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bJeD4NpJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bJeD4NpJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

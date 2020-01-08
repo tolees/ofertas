@@ -3,6 +3,7 @@ layout: post
 title: 'boboli 204129 Chaqueta Deportiva  Gris V'
 date: 2019/12/18 09:10:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LW5r7RA1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LW5r7RA1L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

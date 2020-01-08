@@ -4,6 +4,7 @@ title: 'Remington Elektrischer Rasierer Herren F'
 date: 2019/12/17 18:52:14 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p35O3AdbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p35O3AdbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B008YQPZN4

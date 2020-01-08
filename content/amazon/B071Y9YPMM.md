@@ -4,6 +4,7 @@ title: 'Philips Series 5000 Wet and Dry Men s El'
 date: 2019/12/20 14:20:43 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t5Yk9rvyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t5Yk9rvyL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B071Y9YPMM

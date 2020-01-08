@@ -4,6 +4,7 @@ title: 'Máquina para Hacer Hielo  Silenciosa  10'
 date: 2020-01-08 06:11:12
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B002YIBU3M

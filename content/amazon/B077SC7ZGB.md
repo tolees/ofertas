@@ -4,6 +4,7 @@ title: 'CITIZEN Reloj Analógico para Hombre de C'
 date: 2020-01-07 21:07:40
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CiB0nKcqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CiB0nKcqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B077SC7ZGB

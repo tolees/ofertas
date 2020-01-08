@@ -4,6 +4,7 @@ title: 'Casio EDIFICE Reloj en caja sólida de ac'
 date: 2020-01-05 16:24:41
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B003LSU0EY

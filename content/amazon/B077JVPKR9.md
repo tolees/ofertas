@@ -3,6 +3,7 @@ layout: post
 title: 'HEAD GRAPHENE TORNADO CONTROL LTD AZUL'
 date: 2020-01-03 12:30:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vHZZz2DQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vHZZz2DQL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

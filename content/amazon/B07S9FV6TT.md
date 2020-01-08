@@ -3,6 +3,7 @@ layout: post
 title: 'Lotus Reloj Cronógrafo para Hombre de Cu'
 date: 2019/12/20 01:25:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bW8cNFuvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bW8cNFuvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

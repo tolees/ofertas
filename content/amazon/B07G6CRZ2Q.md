@@ -4,6 +4,7 @@ title: 'Ultimate Ears Boom 3 Altavoz portátil  B'
 date: 2019/12/23 19:02:33 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AAxMhuCBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AAxMhuCBL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07G6CRZ2Q

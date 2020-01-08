@@ -4,6 +4,7 @@ title: 'SONGMICS Caja Joyero Extra Grande  Estuc'
 date: 2020-01-02 11:05:48
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418YPQqMvAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418YPQqMvAL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00PBOLSTC

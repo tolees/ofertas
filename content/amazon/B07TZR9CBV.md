@@ -4,6 +4,7 @@ title: 'Herramientas oscilantes  GALAX PRO 400W '
 date: 2020-01-02 17:44:44
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YfXAeSh5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YfXAeSh5L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07TZR9CBV

@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Outerwear TNF Chaqueta  M'
 date: 2020-01-07 20:33:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iTah2gNZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iTah2gNZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

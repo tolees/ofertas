@@ -4,6 +4,7 @@ title: 'Amilril Collar  Collar Colgante de Coraz'
 date: 2020-01-07 15:22:02
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07Q6XLV1Y

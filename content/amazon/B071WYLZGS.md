@@ -4,6 +4,7 @@ title: 'find.  Zapatillas Deportivas para Mujer '
 date: 2019/12/23 22:58:00 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NnkAn4VML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NnkAn4VML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B071WYLZGS

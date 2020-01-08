@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling - Amiel  Bolsos maletín Mujer  M'
 date: 2020-01-04 20:14:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qv1zOyL8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qv1zOyL8L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

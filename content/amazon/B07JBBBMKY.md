@@ -4,6 +4,7 @@ title: 'LEGO 75972 - Overwatch Dorado-Showdown  '
 date: 2019/12/28 21:55:27 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oT9WqrcNL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oT9WqrcNL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07JBBBMKY

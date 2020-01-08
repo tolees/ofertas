@@ -4,6 +4,7 @@ title: 'FLYLINKTECH Arrancador de Coches  800A 1'
 date: 2019/12/14 00:29:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ur%2B6SWuqL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ur%2B6SWuqL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SKFNQ2R

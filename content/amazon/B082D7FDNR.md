@@ -3,6 +3,7 @@ layout: post
 title: 'IWEMEK Mädchen Eiskönigin 2 Kostüm Froze'
 date: 2020-01-03 22:56:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

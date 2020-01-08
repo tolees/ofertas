@@ -4,6 +4,7 @@ title: 'find. Botines Chukka de Piel Hombre  Mar'
 date: 2020-01-06 11:40:19
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JLpxgKMhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JLpxgKMhL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B078BMQYRK

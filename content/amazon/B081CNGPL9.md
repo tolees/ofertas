@@ -3,6 +3,7 @@ layout: post
 title: 'Geographical Norway Parka HOMRBE Boomera'
 date: 2019/12/29 11:04:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

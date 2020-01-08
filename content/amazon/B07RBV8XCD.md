@@ -4,6 +4,7 @@ title: 'APEMAN Action Camera 4K 20MP WiFi Sports'
 date: 2020-01-03 13:33:36
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rZXTcD81L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rZXTcD81L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07RBV8XCD

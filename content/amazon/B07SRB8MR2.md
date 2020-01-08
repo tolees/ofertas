@@ -4,6 +4,7 @@ title: 'Sniper: Ghost Warrior - Contracts PS4  F'
 date: 2019/12/31 11:25:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BCh%2BG%2B3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BCh%2BG%2B3L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SRB8MR2

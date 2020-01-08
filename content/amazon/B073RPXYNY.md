@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen Classic Duffel Bag Bolsa De'
 date: 2019/12/29 10:49:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mkGezwdGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mkGezwdGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

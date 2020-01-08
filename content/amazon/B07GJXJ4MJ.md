@@ -4,6 +4,7 @@ title: 'AmazonBasics - Juego de cubertería de ac'
 date: 2019/12/15 09:32:50 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VcJKrqVtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VcJKrqVtL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07GJXJ4MJ

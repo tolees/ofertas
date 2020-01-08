@@ -3,6 +3,7 @@ layout: post
 title: 'Funko 36678 Pocket POP Keychain: Avenger'
 date: 2019/12/22 00:34:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-RNWasxoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-RNWasxoL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

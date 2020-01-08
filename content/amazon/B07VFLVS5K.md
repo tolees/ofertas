@@ -3,6 +3,7 @@ layout: post
 title: 'HANPURE Bluetooth Mütze Damen & Herren G'
 date: 2019/12/15 15:47:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51svYrNzvxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51svYrNzvxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

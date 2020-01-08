@@ -4,6 +4,7 @@ title: 'Soy Luna-Soy Set de papelería  Kids Euro'
 date: 2020-01-07 13:11:49
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61JEEPVCOpL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61JEEPVCOpL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MFHG4HH

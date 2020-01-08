@@ -3,6 +3,7 @@ layout: post
 title: 'Bolsa de Almacenamiento de Juguetes para'
 date: 2020-01-01 18:56:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vUKGJRhAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vUKGJRhAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

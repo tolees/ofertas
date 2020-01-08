@@ -3,6 +3,7 @@ layout: post
 title: 'Runbow - Deluxe Edition'
 date: 2019/12/24 10:51:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qTD1QQaAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qTD1QQaAL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

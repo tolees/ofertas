@@ -3,6 +3,7 @@ layout: post
 title: 'Dewalt DT70512T-QZ Juego de 14 Piezas pa'
 date: 2020-01-08 07:08:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mWmYEyp4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mWmYEyp4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

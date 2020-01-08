@@ -4,6 +4,7 @@ title: 'SELECTED HOMME Slhregsel-alli Shirt LS B'
 date: 2019/12/11 17:09:15 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z42r4zuwL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z42r4zuwL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HS1PCTG

@@ -4,6 +4,7 @@ title: 'Microsoft Surface Pro 6  31 25 cm  12 3 '
 date: 2019/12/17 16:48:17 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aLiYctQSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aLiYctQSL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07HHG6WJ3

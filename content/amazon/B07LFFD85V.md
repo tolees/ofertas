@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Coit Down Puffer Chaqueta  Negro '
 date: 2019/12/28 17:51:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

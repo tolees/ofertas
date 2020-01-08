@@ -4,6 +4,7 @@ title: 'Huawei P30 Pro - Smartphone de 6.47"  Ki'
 date: 2019-12-31 17:57:12
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XZtVz8reL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XZtVz8reL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PWH2F2P

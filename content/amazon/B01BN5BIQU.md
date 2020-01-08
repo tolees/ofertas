@@ -4,6 +4,7 @@ title: 'LEGO Doctor Who - Cyberman Minifigure'
 date: 2020-01-05 22:15:26
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uH-2o8qsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uH-2o8qsL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01BN5BIQU

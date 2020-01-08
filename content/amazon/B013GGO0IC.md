@@ -4,6 +4,7 @@ title: 'Nespresso EN550.BM Lattissima Touch Auto'
 date: 2019/12/13 12:03:02 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d6tBrPZrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d6tBrPZrL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B013GGO0IC

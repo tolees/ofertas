@@ -3,6 +3,7 @@ layout: post
 title: 'Maclaren Quest FC Silla de paseo - liger'
 date: 2019/12/27 18:41:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tcQJostEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tcQJostEL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

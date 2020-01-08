@@ -4,6 +4,7 @@ title: 'mama stadt Prinzessin Cosplay Perücke  E'
 date: 2019/12/24 08:39:11 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H1cgElW2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H1cgElW2L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07VF4WJ9P

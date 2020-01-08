@@ -4,6 +4,7 @@ title: 'Altavoz Bluetooth 30W  VTIN B2 Altavoz B'
 date: 2020-01-06 18:49:34
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H8Flv9pML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H8Flv9pML._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07YKGGB22

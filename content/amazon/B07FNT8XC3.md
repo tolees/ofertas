@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO 21152 Minecraft The Pirate Ship Adv'
 date: 2019/12/15 08:48:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hEzGzHBeL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hEzGzHBeL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

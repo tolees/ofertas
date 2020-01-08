@@ -4,6 +4,7 @@ title: 'Rimmel London Stay Matte Liquid Lip Colo'
 date: 2019/12/24 13:16:11 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CA4ukiC0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CA4ukiC0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B071YM9LWN

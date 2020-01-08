@@ -4,6 +4,7 @@ title: 'Sony Alpha ILCE-7M2K - Cámara EVIL con m'
 date: 2019/12/23 11:44:26 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dKx7eF5oL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dKx7eF5oL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00Q2KEVA2

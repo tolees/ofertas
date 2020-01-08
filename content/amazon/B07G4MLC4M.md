@@ -3,6 +3,7 @@ layout: post
 title: 'Pop! Avengers Infinity War - Figura de V'
 date: 2019/12/12 13:29:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316bakw2oJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316bakw2oJL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

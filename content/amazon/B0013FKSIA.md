@@ -4,6 +4,7 @@ title: 'Boucheron Jaipur Homme Eau de Toilette V'
 date: 2020-01-05 07:39:23
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZjxPz0sL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AZjxPz0sL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B0013FKSIA

@@ -3,6 +3,7 @@ layout: post
 title: 'find. Pantalón Cargo de Algodón Hombre  '
 date: 2020-01-05 23:48:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411X-j0WxOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411X-j0WxOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

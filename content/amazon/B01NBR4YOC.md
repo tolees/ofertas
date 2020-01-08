@@ -4,6 +4,7 @@ title: 'Sony MDR-XB550APR - Auriculares de Diade'
 date: 2019/12/17 12:31:22 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DJUz4LTUL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DJUz4LTUL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01NBR4YOC

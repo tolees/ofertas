@@ -3,6 +3,7 @@ layout: post
 title: 'Havaianas Brasil Logo Zehentrenner Unise'
 date: 2020-01-02 21:51:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HihTeMKnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HihTeMKnL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'Apple Watch Series 4  GPS + Cellular  co'
 date: 2020-01-06 19:09:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41srIAxFihL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41srIAxFihL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

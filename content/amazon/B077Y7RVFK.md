@@ -3,6 +3,7 @@ layout: post
 title: 'HIKARO Parka Corta Hombre  Verde  Khaki '
 date: 2019/12/25 09:49:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o7TRhZoyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o7TRhZoyL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

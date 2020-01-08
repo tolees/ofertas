@@ -4,6 +4,7 @@ title: 'New Balance 373  Zapatillas para Hombre '
 date: 2020-01-02 00:04:39
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jrfjOYVLL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07PSXMTB5

@@ -4,6 +4,7 @@ title: 'Fitfiu -AST1000  Stepper de aeróbico'
 date: 2019/12/19 12:50:42 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d0RbFxCJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d0RbFxCJL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01D52LIZA

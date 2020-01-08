@@ -4,6 +4,7 @@ title: 'ARTOP Guantes Moto de Pantalla Táctil Gu'
 date: 2020-01-02 23:02:26
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nSKOd5l-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nSKOd5l-L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07SBST4B7

@@ -4,6 +4,7 @@ title: 'LG 55UM7610PLB - Smart TV 4K UHD de 139 '
 date: 2020-01-07 20:32:56
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gPjtm0RhL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gPjtm0RhL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07R7PMCRB

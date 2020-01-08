@@ -4,6 +4,7 @@ title: 'find. BAY001017W170205 vaqueros mujer  A'
 date: 2020-01-06 20:01:10
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rN0UkYD0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rN0UkYD0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01MQYKI8B

@@ -3,6 +3,7 @@ layout: post
 title: 'Desigual T-Shirt Short Sleeve NANUK Woma'
 date: 2020-01-07 15:53:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HegRDC49L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HegRDC49L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

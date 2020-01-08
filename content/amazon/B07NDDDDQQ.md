@@ -4,6 +4,7 @@ title: 'Samsung Galaxy S10+ - Smartphone de 6.4"'
 date: 2019/12/29 20:31:05 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316roOpdZ0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316roOpdZ0L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07NDDDDQQ

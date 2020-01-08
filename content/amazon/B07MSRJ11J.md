@@ -3,6 +3,7 @@ layout: post
 title: 'HP 27fwa - Monitor Full HD de 27"  1920 '
 date: 2019/12/27 12:22:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KvqGEYIIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KvqGEYIIL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

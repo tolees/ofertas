@@ -4,6 +4,7 @@ title: 'Nike Knee High Classic Football Dri Fit '
 date: 2020-01-01 10:30:00
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gQGlvgBVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gQGlvgBVL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00VU0E1GI

@@ -3,6 +3,7 @@ layout: post
 title: 'Bose QuietComfort 35 II - Auriculares in'
 date: 2019/12/24 10:42:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sAtKgDkDL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sAtKgDkDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

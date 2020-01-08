@@ -3,6 +3,7 @@ layout: post
 title: 'Herramienta rotativa eléctrica  Mini amo'
 date: 2019/12/30 11:20:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Tncvh4e5L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Tncvh4e5L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

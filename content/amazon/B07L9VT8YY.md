@@ -4,6 +4,7 @@ title: 'Beikell Lector Tarjetas de Memoria SD/Mi'
 date: 2020-01-02 11:27:50
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zGZjWQT7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zGZjWQT7L._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07L9VT8YY

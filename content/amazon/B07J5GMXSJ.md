@@ -4,6 +4,7 @@ title: 'Skechers Flex Advantage 3.0  Zapatillas '
 date: 2020-01-06 10:27:13
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QQk5RAvGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QQk5RAvGL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B07J5GMXSJ

@@ -3,6 +3,7 @@ layout: post
 title: 'Invicta 0073 Pro Diver - Scuba Reloj par'
 date: 2019/12/27 16:22:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XBcCarNuL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XBcCarNuL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

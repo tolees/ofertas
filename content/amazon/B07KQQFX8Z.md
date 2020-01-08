@@ -3,6 +3,7 @@ layout: post
 title: 'Salomon Trailster GTX W  Zapatillas de T'
 date: 2020-01-04 13:40:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -3,6 +3,7 @@ layout: post
 title: 'find. Parka Ligera Hombre  Beige  Stone '
 date: 2020-01-06 17:05:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s-gnQ4EOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

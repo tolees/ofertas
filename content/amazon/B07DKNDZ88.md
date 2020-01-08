@@ -3,6 +3,7 @@ layout: post
 title: 'Garmin fenix 5S Plus Schwarz Multisport-'
 date: 2019/12/28 11:21:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X3Pr0BtGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X3Pr0BtGL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring

@@ -4,6 +4,7 @@ title: 'Sony PS-HX500 Plattenspieler  High-Resol'
 date: 2019/12/18 22:36:43 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yIFCQpUbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yIFCQpUbL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B01CDNEAXO

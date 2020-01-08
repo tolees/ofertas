@@ -4,6 +4,7 @@ title: 'Beurer MP62 - Set manicura pedicura Prof'
 date: 2019/12/28 00:03:59 +0000
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MwYbr2IYL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MwYbr2IYL._SL200_.jpg' ]
 category: ofertas
 author: ring
 slug: B00N9BOOZ4

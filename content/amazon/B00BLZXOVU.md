@@ -3,6 +3,7 @@ layout: post
 title: 'Einhell Zug Kapp Gehrungssäge TC-SM 2131'
 date: 2019/12/16 12:29:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
