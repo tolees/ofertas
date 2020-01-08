@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Star Wars Minifigur A-Wing Pilot Ta'
-date: 2020-01-03 22:42:05
+date: 2020-01-08 15:12:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SAtd27MvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SAtd27MvL._SL200_.jpg' ]
 comments: true

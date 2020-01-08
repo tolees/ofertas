@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION E4251 - Ordenador portátil de 14"'
-date: 2020-01-05 11:23:11
+date: 2020-01-08 13:19:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418qlUYyXrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418qlUYyXrL._SL200_.jpg' ]
 comments: true

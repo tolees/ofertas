@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Receptor Bluetooth  TedGem Bluetooth par'
-date: 2020-01-06 06:22:04
+date: 2020-01-08 14:58:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlILP7SDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlILP7SDL._SL200_.jpg' ]
 comments: true

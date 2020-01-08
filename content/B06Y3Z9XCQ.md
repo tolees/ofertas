@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mega Bloks- Luau Dave Build-A-Minion Des'
-date: 2020-01-06 22:30:00
+date: 2020-01-08 14:54:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sqyQoUnOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sqyQoUnOL._SL200_.jpg' ]
 comments: true
