@@ -2,9 +2,9 @@
 layout: post
 title: 'UV Luz Lámpara  Ahome Ultravioleta 395nm'
 date: 2020-01-04 13:05:52
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412vi2xthwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412vi2xthwL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06ZZ4C6JL

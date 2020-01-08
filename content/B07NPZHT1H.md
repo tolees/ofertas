@@ -2,9 +2,9 @@
 layout: post
 title: 'Razer Lancehead Wireless - Ratón de jueg'
 date: 2019/12/11 19:03:54 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vnY%2B1-uKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vnY%2B1-uKL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NPZHT1H

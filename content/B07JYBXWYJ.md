@@ -2,9 +2,9 @@
 layout: post
 title: 'Trueno Sala'
 date: 2020-01-08 12:11:45
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21tcHLRvcWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21tcHLRvcWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JYBXWYJ

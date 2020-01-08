@@ -2,9 +2,9 @@
 layout: post
 title: 'Columbia Ivo Trail  Zapatillas para Homb'
 date: 2020-01-06 18:49:34
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JGDB7G6

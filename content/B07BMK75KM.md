@@ -2,9 +2,9 @@
 layout: post
 title: 'Fantasy Flight Games- Soldados de Asalto'
 date: 2019/12/21 20:02:30 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416I-7wQThL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416I-7wQThL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BMK75KM

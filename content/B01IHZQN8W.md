@@ -2,9 +2,9 @@
 layout: post
 title: 'The North Face Tekware TNF Chaqueta 200 '
 date: 2019/12/17 21:53:04 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ac-dQP9WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ac-dQP9WL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01IHZQN8W

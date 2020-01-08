@@ -2,9 +2,9 @@
 layout: post
 title: 'Skechers Energy  Zapatillas para Mujer  '
 date: 2019/12/23 22:58:00 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qeKK%2BhJwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qeKK%2BhJwL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B000AREHJ8

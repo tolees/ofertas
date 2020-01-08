@@ -2,9 +2,9 @@
 layout: post
 title: 'Tablets 10 Pulgadas 64GB  3GB RAM 4G Dua'
 date: 2019/12/20 00:41:01 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AV1q55YnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AV1q55YnL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07ZDFQVK1

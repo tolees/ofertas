@@ -2,9 +2,9 @@
 layout: post
 title: 'Bio Aromaterapia Aceite esencial para to'
 date: 2020-01-03 07:50:32
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tQUjvvquL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tQUjvvquL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GCHT6X1

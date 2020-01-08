@@ -2,9 +2,9 @@
 layout: post
 title: 'Meycommerce Panda Powerbank 10400 mAh en'
 date: 2019/12/15 20:04:08 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R%2BYc4QOEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R%2BYc4QOEL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KGVHM1C

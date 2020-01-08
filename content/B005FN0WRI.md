@@ -2,9 +2,9 @@
 layout: post
 title: 'Invicta 1769 Pro Diver Reloj para Hombre'
 date: 2019/12/11 23:36:42 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a5WnIUK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a5WnIUK2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B005FN0WRI

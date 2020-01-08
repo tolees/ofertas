@@ -2,9 +2,9 @@
 layout: post
 title: 'Brillante Benefit Legumbres Quinoa Verdu'
 date: 2020-01-03 11:05:15
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qyIPf53DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qyIPf53DL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CQ47NSF

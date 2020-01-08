@@ -2,9 +2,9 @@
 layout: post
 title: 'Rimmel London Scandaleyes Waterproof Kho'
 date: 2019/12/28 22:04:07 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eN%2BpcWrxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eN%2BpcWrxL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0742CXVVQ

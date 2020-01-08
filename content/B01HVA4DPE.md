@@ -2,9 +2,9 @@
 layout: post
 title: 'PJ Masks - Pack de 5 figuras  Bandai 245'
 date: 2020-01-02 17:06:01
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416enm3UZbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416enm3UZbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01HVA4DPE

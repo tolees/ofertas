@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox J Inek Boy D  Zapatillas para Niños'
 date: 2019/12/13 21:28:56 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eva0m2NnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eva0m2NnL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LFZM7F6

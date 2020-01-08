@@ -2,9 +2,9 @@
 layout: post
 title: 'Suunto Spartan Sport Wrist HR - Reloj GP'
 date: 2020-01-04 20:03:34
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415hctTU--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415hctTU--L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06XKPCZ8F

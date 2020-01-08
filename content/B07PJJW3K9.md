@@ -2,9 +2,9 @@
 layout: post
 title: 'Bonve Pet Cubierta Asiento Coche Perro  '
 date: 2020-01-02 11:41:06
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Gf9p-unaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Gf9p-unaL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07PJJW3K9

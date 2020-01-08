@@ -2,9 +2,9 @@
 layout: post
 title: 'No Mans Sky'
 date: 2019/12/19 05:02:28 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eF5HXwm8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eF5HXwm8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CHP46ZK

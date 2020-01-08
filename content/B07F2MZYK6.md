@@ -2,9 +2,9 @@
 layout: post
 title: 'Puma Axis  Zapatillas Unisex Adulto  Bla'
 date: 2019/12/21 16:17:09 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07F2MZYK6

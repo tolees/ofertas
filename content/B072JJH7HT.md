@@ -2,9 +2,9 @@
 layout: post
 title: 'find. ZC1155 OP2 vestidos mujer  Negro  '
 date: 2019/12/21 18:33:52 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zifJwcvmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zifJwcvmL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B072JJH7HT

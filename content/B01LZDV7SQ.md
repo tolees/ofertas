@@ -2,9 +2,9 @@
 layout: post
 title: 'Seiko Reloj Cronógrafo para Unisex Adult'
 date: 2019/12/25 12:35:29 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DwwAuGHwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DwwAuGHwL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01LZDV7SQ

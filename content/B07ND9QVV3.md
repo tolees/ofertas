@@ -2,9 +2,9 @@
 layout: post
 title: 'LEGO 41168 Disney Frozen II Elsa s Jewel'
 date: 2019/12/17 12:49:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c6cBEOlLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c6cBEOlLL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07ND9QVV3

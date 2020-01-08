@@ -2,9 +2,9 @@
 layout: post
 title: 'Pepe Jeans London Tinker Zero 19  Zapati'
 date: 2019/12/24 13:49:19 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HqpBeU36L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HqpBeU36L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MZMZ5T9

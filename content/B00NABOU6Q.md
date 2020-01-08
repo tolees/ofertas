@@ -2,9 +2,9 @@
 layout: post
 title: 'Beurer FC72 - Sauna facial iónica  color'
 date: 2019/12/19 06:27:52 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h0nGkpvIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h0nGkpvIL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00NABOU6Q

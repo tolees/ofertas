@@ -2,9 +2,9 @@
 layout: post
 title: 'Receptor Bluetooth  Adaptador de Audio I'
 date: 2020-01-03 03:05:19
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UqVdUUV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UqVdUUV3L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07D3RGXYP

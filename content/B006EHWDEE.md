@@ -2,9 +2,9 @@
 layout: post
 title: 'Rimmel London Stay Matte Powder Polvos d'
 date: 2020-01-05 12:45:12
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oD1IztDGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oD1IztDGL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B006EHWDEE

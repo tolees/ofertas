@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko 22981 Pop 8-Bit Teenage Mutant Nin'
 date: 2019/12/25 08:31:00 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xSp8ghfTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xSp8ghfTL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B076KXCJRS

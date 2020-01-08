@@ -2,9 +2,9 @@
 layout: post
 title: 'Samsung EJ-CG955BBEGDE Keyboard Cover  g'
 date: 2019/12/20 10:21:58 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-h859KmuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-h859KmuL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06XDJD2H8

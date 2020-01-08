@@ -2,9 +2,9 @@
 layout: post
 title: 'PUMA Cilia  Zapatillas para Mujer  Black'
 date: 2020-01-04 12:26:21
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FHDG88J

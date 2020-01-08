@@ -2,9 +2,9 @@
 layout: post
 title: 'HUAMI Amazfit Cor 2 - Pulsera de Activid'
 date: 2020-01-07 16:14:30
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41THVdJT2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41THVdJT2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NHMB8XM

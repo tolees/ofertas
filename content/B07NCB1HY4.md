@@ -2,9 +2,9 @@
 layout: post
 title: 'Pepe Jeans Hatch Vaqueros  Black Used De'
 date: 2019/12/29 20:52:14 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NCB1HY4

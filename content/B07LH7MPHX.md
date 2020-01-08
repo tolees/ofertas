@@ -2,9 +2,9 @@
 layout: post
 title: 'The North Face Quest Jacket Chaqueta Est'
 date: 2020-01-06 13:58:47
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ET2GLR5TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ET2GLR5TL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LH7MPHX

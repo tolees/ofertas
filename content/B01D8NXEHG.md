@@ -2,9 +2,9 @@
 layout: post
 title: 'Esponja Konjac Facial 100% Naturales  Es'
 date: 2019/12/17 16:04:29 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kpzV-aC0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kpzV-aC0L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01D8NXEHG

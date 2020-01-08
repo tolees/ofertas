@@ -2,9 +2,9 @@
 layout: post
 title: 'Desigual Blouse LUMBE Blusa  Negro  Negr'
 date: 2020-01-07 20:17:02
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07N3TLNVF

@@ -2,9 +2,9 @@
 layout: post
 title: 'Campingaz Xpert 200 L Vario Barbacoa Gas'
 date: 2019/12/28 13:38:49 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ApAXFxCrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ApAXFxCrL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B075RDPMZW

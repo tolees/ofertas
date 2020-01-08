@@ -2,9 +2,9 @@
 layout: post
 title: 'Eastpak Tranverz Maleta  51 cm  42 L  co'
 date: 2019/12/13 14:15:05 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0771GLCZL

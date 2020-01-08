@@ -2,9 +2,9 @@
 layout: post
 title: 'Assassin s Creed Odyssey - Standard Edit'
 date: 2019/12/12 21:26:27 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GUZA0t5ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GUZA0t5ZL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JJKL1C8

@@ -2,9 +2,9 @@
 layout: post
 title: 'Adidas Core18 Pre Jkt Sport Jacket  Homb'
 date: 2020-01-05 19:45:06
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412PQugRxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412PQugRxCL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B076HSFDV4

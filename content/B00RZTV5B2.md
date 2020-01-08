@@ -2,9 +2,9 @@
 layout: post
 title: 'Wilson Tour Slam Raqueta de Tenis Cuerda'
 date: 2020-01-06 11:21:57
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00RZTV5B2

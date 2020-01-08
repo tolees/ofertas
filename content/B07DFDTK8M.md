@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko Pop Power Rangers Figura de Vinilo'
 date: 2019/12/13 12:49:09 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pRygj3KCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pRygj3KCL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DFDTK8M

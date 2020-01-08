@@ -2,9 +2,9 @@
 layout: post
 title: 'Logitech G432 Surround Sound Gaming Head'
 date: 2019/12/23 21:51:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z-spbX6zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z-spbX6zL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MTXLFXV

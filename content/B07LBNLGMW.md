@@ -2,9 +2,9 @@
 layout: post
 title: 'Kappa Bonfire  Botas Clasicas Unisex Adu'
 date: 2019/12/25 17:17:45 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41klhuh39aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41klhuh39aL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LBNLGMW

@@ -2,9 +2,9 @@
 layout: post
 title: 'Spalding Mid Cut Calcetines  3 Pares  Si'
 date: 2019/12/30 10:49:36 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B418ym8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B418ym8UL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B004UAEU8Y

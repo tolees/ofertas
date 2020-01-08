@@ -2,9 +2,9 @@
 layout: post
 title: 'Ultimate Ears Megaboom - Altavoz portáti'
 date: 2019/12/28 15:16:54 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4106oI4m61L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4106oI4m61L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00QM4S0IC

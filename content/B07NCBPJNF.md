@@ -2,9 +2,9 @@
 layout: post
 title: 'Pepe Jeans Elia Camiseta  Negro  Black 9'
 date: 2020-01-04 13:05:23
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416xGpYYCVL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NCBPJNF

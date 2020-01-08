@@ -2,9 +2,9 @@
 layout: post
 title: 'Tommy Hilfiger Saba Short Packable Windb'
 date: 2019/12/28 08:10:48 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411x7T5eyXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411x7T5eyXL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LBLLN5C

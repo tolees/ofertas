@@ -2,9 +2,9 @@
 layout: post
 title: 'Auriculares Bluetooth inalámbricos BT5.0'
 date: 2020-01-04 08:09:32
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hv-hlDd8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hv-hlDd8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07ZJ3BND2

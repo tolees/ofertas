@@ -2,9 +2,9 @@
 layout: post
 title: 'Lost Kitties- Pack de Gatitos  Hasbro E4'
 date: 2019/12/12 15:40:45 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NfG-lftuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NfG-lftuL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BJFPLS6

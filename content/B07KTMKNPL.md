@@ -2,9 +2,9 @@
 layout: post
 title: 'LAPPAZO- Reloj Niña de Analógico Cuarzo '
 date: 2020-01-07 14:54:18
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ORYcebOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ORYcebOPL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KTMKNPL

@@ -2,9 +2,9 @@
 layout: post
 title: 'Gillette Mach3 Turbo Recambio de Maquini'
 date: 2019/12/27 18:27:39 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZL-bi31NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZL-bi31NL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B079VS3ZHN

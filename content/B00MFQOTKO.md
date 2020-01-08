@@ -2,9 +2,9 @@
 layout: post
 title: 'Tectonic 41-6103-14 - Reloj de cuarzo un'
 date: 2020-01-07 15:46:51
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PrDt7OLYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PrDt7OLYL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00MFQOTKO

@@ -2,9 +2,9 @@
 layout: post
 title: 'Rwest X Calcetines de compresión Medias '
 date: 2019/12/31 01:16:22 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y6mXNH7lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y6mXNH7lL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0792RWRZN

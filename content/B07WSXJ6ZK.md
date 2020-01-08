@@ -2,9 +2,9 @@
 layout: post
 title: 'Charles Wilson Original Sudadera de Homb'
 date: 2020-01-02 12:23:44
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tkfDXiS4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tkfDXiS4L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07WSXJ6ZK

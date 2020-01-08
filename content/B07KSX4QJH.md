@@ -2,9 +2,9 @@
 layout: post
 title: 'X96 MAX TV Box Android 8.1 RAM 4GB + ROM'
 date: 2019/12/27 13:16:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tN0KcG03L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tN0KcG03L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KSX4QJH

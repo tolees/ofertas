@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox D Yuki A  Mocasines para Mujer  Azu'
 date: 2019/12/13 19:33:56 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nm3IAnWjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nm3IAnWjL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MA23BDC

@@ -2,9 +2,9 @@
 layout: post
 title: 'Western Digital My Cloud Home - Nube Per'
 date: 2019/12/20 01:18:13 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B074DXNT7T

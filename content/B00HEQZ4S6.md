@@ -2,9 +2,9 @@
 layout: post
 title: 'Timberland 6 Inch Premium Waterproof  Bo'
 date: 2019/12/30 18:21:36 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sWg54DWYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sWg54DWYL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00HEQZ4S6

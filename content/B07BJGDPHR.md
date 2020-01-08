@@ -2,9 +2,9 @@
 layout: post
 title: 'Dove Men Pack Ahorro Desodorante Clean C'
 date: 2020-01-05 14:41:20
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oWYhEJfOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oWYhEJfOL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BJGDPHR

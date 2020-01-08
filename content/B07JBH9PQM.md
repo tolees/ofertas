@@ -2,9 +2,9 @@
 layout: post
 title: 'Tablet 10 Pulgadas  2GB+32GB  1280x800 I'
 date: 2020-01-05 18:04:16
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419O7fm%2Be0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419O7fm%2Be0L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JBH9PQM

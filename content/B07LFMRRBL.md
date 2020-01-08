@@ -2,9 +2,9 @@
 layout: post
 title: 'Levi s LS Baby tee Camiseta  Gris  Smoke'
 date: 2020-01-04 15:55:00
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zPKUNEnXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zPKUNEnXL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LFMRRBL

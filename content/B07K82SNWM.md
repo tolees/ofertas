@@ -2,9 +2,9 @@
 layout: post
 title: 'HUGO Herren Atom_Runn_msrf Sneaker  Schw'
 date: 2019/12/12 14:24:56 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p3w0z9DpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p3w0z9DpL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07K82SNWM

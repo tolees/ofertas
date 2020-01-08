@@ -2,9 +2,9 @@
 layout: post
 title: 'Lego 60208 City Polizei Flucht mit dem F'
 date: 2020-01-03 09:19:17
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FNMTW4H

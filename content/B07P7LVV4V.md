@@ -2,9 +2,9 @@
 layout: post
 title: 'Fade to Silence - PlayStation 4'
 date: 2020-01-02 22:26:15
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51auS8H3D8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51auS8H3D8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07P7LVV4V

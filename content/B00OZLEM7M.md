@@ -2,9 +2,9 @@
 layout: post
 title: 'Lower East Jersey de hombre  con cuello '
 date: 2019/12/19 21:01:03 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mMiSvir-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mMiSvir-L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00OZLEM7M

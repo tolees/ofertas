@@ -2,9 +2,9 @@
 layout: post
 title: 'Nerf Laser Ops Pro - Pack 2 Lanzadores  '
 date: 2019/12/24 16:22:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EgAvStsbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EgAvStsbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BZPMX4V

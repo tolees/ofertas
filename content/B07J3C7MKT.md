@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour 1342652-600 Mochila  Unisex'
 date: 2020-01-05 13:46:47
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415ZErqOv0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415ZErqOv0L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07J3C7MKT

@@ -2,9 +2,9 @@
 layout: post
 title: 'Columbia 1420421  Chaqueta Forro Polar H'
 date: 2020-01-03 10:40:07
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QTMLWVH

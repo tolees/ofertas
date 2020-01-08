@@ -2,9 +2,9 @@
 layout: post
 title: 'JACK & JONES Jjecorp Logo Sweat Hood Noo'
 date: 2019/12/12 19:37:06 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ogTDY879L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ogTDY879L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07C27SSPC

@@ -2,9 +2,9 @@
 layout: post
 title: 'Baby Jogger City Tour LUX DUO Cochecito '
 date: 2020-01-01 23:49:41
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SjD3LVfbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07M5F8LRG

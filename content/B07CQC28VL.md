@@ -2,9 +2,9 @@
 layout: post
 title: 'Bosch Unlimited Serie 8 BCS1TOPNC - Aspi'
 date: 2020-01-02 12:08:54
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N9ZCWa8-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N9ZCWa8-L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CQC28VL

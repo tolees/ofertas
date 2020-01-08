@@ -2,9 +2,9 @@
 layout: post
 title: 'seQoya - General Sherman | Reloj de Made'
 date: 2019/12/21 17:19:39 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416FIOMuc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416FIOMuc9L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BVWSRZ2

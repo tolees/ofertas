@@ -2,9 +2,9 @@
 layout: post
 title: 'Canton DM5 Soundbar - Black Glass'
 date: 2019/12/25 15:19:58 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3103uvqEewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3103uvqEewL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078BNYJHR

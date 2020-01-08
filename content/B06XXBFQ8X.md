@@ -2,9 +2,9 @@
 layout: post
 title: 'New Balance WL574EB  Zapatillas Mujer  G'
 date: 2020-01-01 17:38:02
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06XXBFQ8X

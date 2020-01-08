@@ -2,9 +2,9 @@
 layout: post
 title: 'Agenda 2020 con Vista Semanal - Planific'
 date: 2019/12/22 14:45:55 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ABUWIvyRL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07S1GX5GL

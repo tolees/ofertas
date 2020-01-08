@@ -2,9 +2,9 @@
 layout: post
 title: 'Alcatel 3v - Smartphone de 6"  Quad-Core'
 date: 2020-01-07 06:31:07
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-h7hGuTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B-h7hGuTL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078SFY5ZM

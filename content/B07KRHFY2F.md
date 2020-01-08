@@ -2,9 +2,9 @@
 layout: post
 title: 'Olla a presion 22 cm 6 L CAPRI MATT acer'
 date: 2019/12/29 11:35:04 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KRHFY2F

@@ -2,9 +2,9 @@
 layout: post
 title: 'PUMA Turin II AC Inf  Zapatillas Unisex '
 date: 2019/12/16 07:16:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BcfolzF1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BcfolzF1L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CZGCP5D

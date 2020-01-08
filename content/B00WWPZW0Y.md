@@ -2,9 +2,9 @@
 layout: post
 title: 'JACK & JONES PREMIUM Jjprparma Shirt L/s'
 date: 2019/12/14 21:06:08 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4104GyMRYfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4104GyMRYfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00WWPZW0Y

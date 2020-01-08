@@ -2,9 +2,9 @@
 layout: post
 title: 'BLEND 701711 Vaqueros  Black/ 70155  31 '
 date: 2019/12/16 12:40:35 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tizvq22KL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00KCHI9UO

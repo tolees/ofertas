@@ -2,9 +2,9 @@
 layout: post
 title: 'Columbia Klamath Range II Forro Polar co'
 date: 2019/12/26 10:35:47 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416OtCnFRdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416OtCnFRdL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RCNXS1B

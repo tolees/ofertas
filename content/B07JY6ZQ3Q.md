@@ -2,9 +2,9 @@
 layout: post
 title: 'Zapatos de Cuero para Hombres Patrón de '
 date: 2020-01-07 15:27:22
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314hFFO0S9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314hFFO0S9L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JY6ZQ3Q

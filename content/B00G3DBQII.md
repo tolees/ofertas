@@ -2,9 +2,9 @@
 layout: post
 title: 'PerfectPrint - Compatible TN241 TN245 ca'
 date: 2019/12/19 11:42:16 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fcqubVNtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fcqubVNtL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00G3DBQII

@@ -2,9 +2,9 @@
 layout: post
 title: 'FM London Paquete de 5 camisetas Hombre '
 date: 2019/12/17 06:32:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OzL1OOzRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OzL1OOzRL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DRHJ8PH

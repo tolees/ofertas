@@ -2,9 +2,9 @@
 layout: post
 title: 'SIMYJOY Mujere BTS Fans Estrellado Sudad'
 date: 2019/12/24 12:53:00 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f6lvawxuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f6lvawxuL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HFCGFQF

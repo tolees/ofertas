@@ -2,9 +2,9 @@
 layout: post
 title: 'Grebarley Fitness Gloves Levantamiento d'
 date: 2019/12/31 10:10:38 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WS7AS5abL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WS7AS5abL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RX9HML9

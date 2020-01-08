@@ -2,9 +2,9 @@
 layout: post
 title: 'DeLonghi EDG736.RM | NESCAFÉ Dolce Gusto'
 date: 2019/12/13 08:58:51 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RpUdjPPYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RpUdjPPYL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FMZWHFV

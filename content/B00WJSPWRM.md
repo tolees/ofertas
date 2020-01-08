@@ -2,9 +2,9 @@
 layout: post
 title: 'Belkin Adapter USB-C auf USB-A  15cm  US'
 date: 2020-01-02 09:14:17
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h41OzPlnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h41OzPlnL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00WJSPWRM

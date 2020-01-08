@@ -2,9 +2,9 @@
 layout: post
 title: 'Oral-B Genius 10000N - Cepillo Eléctrico'
 date: 2019/12/18 06:25:28 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ru2yiyfoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ru2yiyfoL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RP8T7DV

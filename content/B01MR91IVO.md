@@ -2,9 +2,9 @@
 layout: post
 title: 'Monopoly- Junior  versión Española  Hasb'
 date: 2019/12/21 17:10:46 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-T-D4dwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-T-D4dwcL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MR91IVO

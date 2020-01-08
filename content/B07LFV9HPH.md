@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox U Renan B  Zapatillas para Hombre  '
 date: 2020-01-04 12:02:34
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yklR0EBOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yklR0EBOL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LFV9HPH

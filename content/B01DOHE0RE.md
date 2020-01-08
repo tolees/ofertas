@@ -2,9 +2,9 @@
 layout: post
 title: 'Trango SHANGU  Zapatillas de Deporte Ext'
 date: 2020-01-01 15:09:23
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BnE%2B5-LZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BnE%2B5-LZL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01DOHE0RE

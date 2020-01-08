@@ -2,9 +2,9 @@
 layout: post
 title: 'Acer Nitro 5 AN515-54-72B7 39 6 cm  15 6'
 date: 2019/12/22 13:06:15 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RxX8X4yTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RxX8X4yTL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QDNZ7R8

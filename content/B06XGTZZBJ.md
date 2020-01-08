@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko Pop Vinyl: Valerian: Da  Multicolo'
 date: 2019/12/16 13:50:32 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v8TZqE5yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v8TZqE5yL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06XGTZZBJ

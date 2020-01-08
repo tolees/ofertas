@@ -2,9 +2,9 @@
 layout: post
 title: 'Ana Maria Lajusticia - Colágeno con magn'
 date: 2020-01-07 08:49:06
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00VTF6G4O

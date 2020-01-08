@@ -2,9 +2,9 @@
 layout: post
 title: 'uhlsport Stream 3.0 Ml Camiseta De Juego'
 date: 2020-01-07 09:41:37
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nIh1guAsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nIh1guAsL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00TZAB2SK

@@ -2,9 +2,9 @@
 layout: post
 title: 'Metal Gear Solid V: Phantom Pain - Day O'
 date: 2019/12/22 18:19:53 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51whANkq5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51whANkq5nL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00UJV8AIE

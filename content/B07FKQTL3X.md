@@ -2,9 +2,9 @@
 layout: post
 title: 'adidas 3Mc  Zapatillas de Skateboard Uni'
 date: 2020-01-06 15:03:35
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A6rkgAAKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A6rkgAAKL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FKQTL3X

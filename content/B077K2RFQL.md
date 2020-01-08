@@ -2,9 +2,9 @@
 layout: post
 title: 'REPLAY Jacksy Vaqueros Skinny  Azul  Dar'
 date: 2019/12/17 10:09:45 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tkvbpIfbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tkvbpIfbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B077K2RFQL

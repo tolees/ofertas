@@ -2,9 +2,9 @@
 layout: post
 title: 'Russell Hobbs SteamGlide Professional 20'
 date: 2019/12/29 10:14:20 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00F9SUKE4

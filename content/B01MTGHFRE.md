@@ -2,9 +2,9 @@
 layout: post
 title: 'Timberland Adventure 2.0 Cupsole  Zapati'
 date: 2020-01-08 10:52:09
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BS8%2BTCyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BS8%2BTCyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MTGHFRE

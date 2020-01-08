@@ -2,9 +2,9 @@
 layout: post
 title: 'Kempa Pantalón Deporte Core Modern Gris '
 date: 2020-01-06 08:51:05
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00V5LSQYU

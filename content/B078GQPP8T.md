@@ -2,9 +2,9 @@
 layout: post
 title: 'find. Sudadera con Bordados y Flecos Muj'
 date: 2019/12/30 14:45:06 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510iyW%2BHq7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510iyW%2BHq7L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078GQPP8T

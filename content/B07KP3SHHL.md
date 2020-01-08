@@ -2,9 +2,9 @@
 layout: post
 title: 'adidas 6p 3s Cap Cotto Hat  Unisex Adult'
 date: 2020-01-08 12:19:26
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311iPn1P4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311iPn1P4gL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KP3SHHL

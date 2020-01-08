@@ -2,9 +2,9 @@
 layout: post
 title: 'G-STAR RAW 3301 Ripped Mid Waist Boyfrie'
 date: 2019/12/17 18:38:49 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C9IzYN0BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C9IzYN0BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JJ4BJYC

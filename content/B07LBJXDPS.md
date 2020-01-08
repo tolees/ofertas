@@ -2,9 +2,9 @@
 layout: post
 title: 'adidas Carbon Control 1.9 Palas  Adultos'
 date: 2019/12/29 11:22:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QxKCqsOZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QxKCqsOZL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LBJXDPS

@@ -2,9 +2,9 @@
 layout: post
 title: 'Asterix & Obelix XXL3: The Crystal Menhi'
 date: 2020-01-03 12:09:46
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-TUF8AgXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-TUF8AgXL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07WCNPMWL

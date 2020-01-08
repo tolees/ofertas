@@ -2,9 +2,9 @@
 layout: post
 title: 'Tablet 10 Pulgadas YOTOPT  4GB de RAM y '
 date: 2020-01-05 15:12:57
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XmKzsyQuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XmKzsyQuL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07Y5BCG4X

@@ -2,9 +2,9 @@
 layout: post
 title: 'TACKLIFE Alicates Multiusos Plegables  P'
 date: 2019-12-31 19:33:27
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JsiXi1gsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JsiXi1gsL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B071NVJDGX

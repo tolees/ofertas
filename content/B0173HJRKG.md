@@ -2,9 +2,9 @@
 layout: post
 title: 'Fresh N Rebel Rockbox Cube - Altavoz por'
 date: 2020-01-07 11:11:01
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JCDkVA8EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JCDkVA8EL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0173HJRKG

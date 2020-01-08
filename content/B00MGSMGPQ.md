@@ -2,9 +2,9 @@
 layout: post
 title: 'Clips 539-6003-44 - Reloj de Pulsera Hom'
 date: 2020-01-07 16:42:07
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lGKg4MDWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lGKg4MDWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00MGSMGPQ

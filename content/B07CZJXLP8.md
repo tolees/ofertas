@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour Charged Cotton 6in 3 Pack R'
 date: 2019/12/18 18:39:17 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MrXhV3doL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MrXhV3doL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CZJXLP8

@@ -2,9 +2,9 @@
 layout: post
 title: 'Camper 1913  Botas clasicas para Hombre '
 date: 2019/12/20 00:00:58 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UWaTlaYIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UWaTlaYIL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FR6SXHJ

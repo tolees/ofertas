@@ -2,9 +2,9 @@
 layout: post
 title: 'find. Wool Mix Borg Collar Harrington Ch'
 date: 2019/12/24 08:28:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D%2BtEdj3ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D%2BtEdj3ML._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DDB4W2V

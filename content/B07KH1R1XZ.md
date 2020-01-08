@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour Favorite Big Logo Legging L'
 date: 2019/12/17 13:49:38 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KH1R1XZ

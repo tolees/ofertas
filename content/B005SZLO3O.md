@@ -2,9 +2,9 @@
 layout: post
 title: 'Armand Basi L Eau Pour Homme Eau de Toil'
 date: 2020-01-02 01:43:49
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ky%2B%2BlJSNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ky%2B%2BlJSNL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B005SZLO3O

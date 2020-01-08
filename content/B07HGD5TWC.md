@@ -2,9 +2,9 @@
 layout: post
 title: 'Calzado Deportivo para Hombre  Color Azu'
 date: 2019/12/20 00:19:15 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MpX5%2BwkAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MpX5%2BwkAL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HGD5TWC

@@ -2,9 +2,9 @@
 layout: post
 title: 'Wilkinson Sword Quattro Titanium - Carga'
 date: 2019/12/25 00:17:28 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513mdvEUv%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513mdvEUv%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00FQKE6WM

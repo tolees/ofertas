@@ -2,9 +2,9 @@
 layout: post
 title: 'Tablet 10 Pulgadas  Android Desbloqueado'
 date: 2019/12/23 01:32:01 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417HKsdNBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417HKsdNBWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JC4VWFG

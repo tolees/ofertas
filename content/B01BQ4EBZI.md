@@ -2,9 +2,9 @@
 layout: post
 title: 'EAU ROCHAS shower gel 500 ml'
 date: 2019/12/13 02:01:49 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TjzFP6czL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TjzFP6czL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01BQ4EBZI

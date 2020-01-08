@@ -2,9 +2,9 @@
 layout: post
 title: 'Fullmosa Correa Compatible de Acero Inox'
 date: 2020-01-06 05:01:58
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-wx3nTi2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-wx3nTi2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07XJP45YG

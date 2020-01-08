@@ -2,9 +2,9 @@
 layout: post
 title: 'Brinox B77010M Fieltro adhesivo  Marrón '
 date: 2019/12/29 22:33:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YeKARK%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YeKARK%2B2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06XQYBT62

@@ -2,9 +2,9 @@
 layout: post
 title: 'TEEHON Billetera Hombre de Piel  Cartera'
 date: 2020-01-03 01:30:24
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DaTlSmy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DaTlSmy8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07TFCKF4X

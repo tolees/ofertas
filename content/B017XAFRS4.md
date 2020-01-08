@@ -2,9 +2,9 @@
 layout: post
 title: 'Kärcher Pistola pulverizadora  2.645-265'
 date: 2020-01-06 12:02:49
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c9tasLOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c9tasLOJL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B017XAFRS4

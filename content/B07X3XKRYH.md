@@ -2,9 +2,9 @@
 layout: post
 title: 'Bergner PK1525 Set 4 sartenes 20/24/26/2'
 date: 2019/12/15 03:30:47 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Iro81cfUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Iro81cfUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07X3XKRYH

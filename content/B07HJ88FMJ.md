@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko- Pop Vinyl: Animation: Rick & Mort'
 date: 2019/12/16 18:16:02 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5151OYZ2unL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5151OYZ2unL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HJ88FMJ

@@ -2,9 +2,9 @@
 layout: post
 title: 'Durex Play Lubricante Base de Agua Origi'
 date: 2019/12/22 14:02:18 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00PJZ3TIQ

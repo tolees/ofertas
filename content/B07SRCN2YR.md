@@ -2,9 +2,9 @@
 layout: post
 title: 'adidas EQT Gazelle  Hombre  Azul  Colleg'
 date: 2020-01-05 10:27:15
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07SRCN2YR

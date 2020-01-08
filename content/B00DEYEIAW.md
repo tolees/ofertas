@@ -2,9 +2,9 @@
 layout: post
 title: 'Patron Silver Tequila - 700 ml'
 date: 2019/12/28 08:12:18 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s2a7aGgWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s2a7aGgWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00DEYEIAW

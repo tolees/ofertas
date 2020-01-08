@@ -2,9 +2,9 @@
 layout: post
 title: 'Calcifort-D niños | Calcio puro microenc'
 date: 2019/12/17 00:09:30 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oiAch9RnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oiAch9RnL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BM2WTCQ

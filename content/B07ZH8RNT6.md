@@ -2,9 +2,9 @@
 layout: post
 title: 'Lubricante Intimo a Base de Agua Natural'
 date: 2019/12/19 13:32:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P0ptjqNfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P0ptjqNfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07ZH8RNT6

@@ -2,9 +2,9 @@
 layout: post
 title: 'Revlon Eksperience Densi Pro Spray 190 M'
 date: 2019/12/25 08:03:43 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21LaFcXtusL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21LaFcXtusL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NX3TCJG

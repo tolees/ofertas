@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko 33519 POP Bobble Marvel Studios 10'
 date: 2019/12/21 08:30:24 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zjtPSZXvL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DFDTZGT

@@ -2,9 +2,9 @@
 layout: post
 title: 'Skechers Equalizer 3.0-Aquablast  Zapati'
 date: 2020-01-08 11:26:42
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cIdPVo6CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cIdPVo6CL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NR1V2KH

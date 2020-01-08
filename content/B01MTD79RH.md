@@ -2,9 +2,9 @@
 layout: post
 title: 'Control Xtra Sensation Preservativos - 1'
 date: 2020-01-06 07:39:11
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s2yk9IFML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s2yk9IFML._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MTD79RH

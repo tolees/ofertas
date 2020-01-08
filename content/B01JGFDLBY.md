@@ -2,9 +2,9 @@
 layout: post
 title: 'Bourjois Volume Reveal Máscara de pestañ'
 date: 2020-01-07 10:22:23
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-p7BrMZ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-p7BrMZ8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01JGFDLBY

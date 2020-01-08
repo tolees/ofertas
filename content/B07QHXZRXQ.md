@@ -2,9 +2,9 @@
 layout: post
 title: 'Belkin Boost Charge 2K Batería Externa p'
 date: 2019/12/13 15:13:33 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lVYy8eISL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lVYy8eISL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QHXZRXQ

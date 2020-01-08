@@ -2,9 +2,9 @@
 layout: post
 title: '[Nueva versión de 136 LED] Luces solares'
 date: 2019/12/22 16:52:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cglgPIouL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cglgPIouL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07SPJ9TKW

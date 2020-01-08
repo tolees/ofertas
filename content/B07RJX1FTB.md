@@ -2,9 +2,9 @@
 layout: post
 title: 'Philips Ambilight 55PUS6814/12 139 cm  5'
 date: 2019/12/13 15:37:42 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4150n%2B6gnVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4150n%2B6gnVL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RJX1FTB

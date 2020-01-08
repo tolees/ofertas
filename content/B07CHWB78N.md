@@ -2,9 +2,9 @@
 layout: post
 title: 'Lifewit Mochila Portatil 15.6 Pulgadas p'
 date: 2019/12/30 08:02:37 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CHWB78N

@@ -2,9 +2,9 @@
 layout: post
 title: 'DH-QN05 Calefactor Portátil Eléctrico PT'
 date: 2019/12/31 13:30:54 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M8L38MtSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M8L38MtSL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GXD16GN

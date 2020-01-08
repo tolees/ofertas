@@ -2,9 +2,9 @@
 layout: post
 title: 'SGODDE Luz para Correr Running  Luz del '
 date: 2020-01-03 12:34:38
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F3og-u9NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F3og-u9NL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07T9GZ9LX

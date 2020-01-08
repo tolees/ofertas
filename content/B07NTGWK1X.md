@@ -2,9 +2,9 @@
 layout: post
 title: 'new journey Cubo 3x3 Rotating Puzzles Re'
 date: 2019/12/25 00:49:09 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-L%2BUJMrlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-L%2BUJMrlL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NTGWK1X

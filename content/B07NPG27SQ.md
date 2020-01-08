@@ -2,9 +2,9 @@
 layout: post
 title: 'Lancaster 57950 Sun Control Relauch-Perf'
 date: 2019/12/12 03:03:07 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zdP5gq%2B6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zdP5gq%2B6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NPG27SQ

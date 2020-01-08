@@ -2,9 +2,9 @@
 layout: post
 title: 'NUOLUX Jumbo Foil Love Balloon romántica'
 date: 2020-01-02 21:52:22
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WlK8Uu3CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WlK8Uu3CL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B075NPYJJT

@@ -2,9 +2,9 @@
 layout: post
 title: 'Samsung Smartphone Galaxy S9  Single Sim'
 date: 2019/12/21 10:52:13 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314CRHTWT9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314CRHTWT9L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B079XHH1JZ

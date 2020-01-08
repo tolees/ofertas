@@ -2,9 +2,9 @@
 layout: post
 title: '2 Linterna LED Acampada portátil luz Int'
 date: 2019/12/31 12:21:55 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TKEn9ayPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TKEn9ayPL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01DJ0J3MS

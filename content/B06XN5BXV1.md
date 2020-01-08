@@ -2,9 +2,9 @@
 layout: post
 title: 'G-STAR RAW 3301 Straight Fit Jeans  Azul'
 date: 2019/12/26 11:05:05 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPVPPolbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPVPPolbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06XN5BXV1

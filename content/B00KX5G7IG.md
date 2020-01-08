@@ -2,9 +2,9 @@
 layout: post
 title: 'Cardhu Amber Rock Whisky Escocés - 700 m'
 date: 2020-01-08 12:07:45
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oO0TN1%2BfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oO0TN1%2BfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00KX5G7IG

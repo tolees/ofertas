@@ -2,9 +2,9 @@
 layout: post
 title: 'LEGO 70425 Hidden Side Newbury s spukend'
 date: 2020-01-07 14:37:30
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516NW10YZUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516NW10YZUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07ND99DMZ

@@ -2,9 +2,9 @@
 layout: post
 title: 'Bodum 1446-01 Milchschäumer mit Glasgrif'
 date: 2019/12/29 14:29:07 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wl6DfnOSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wl6DfnOSL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B000BZ6BXE

@@ -2,9 +2,9 @@
 layout: post
 title: 'HEYSTOP Funda para Nintendo Switch Lite '
 date: 2019/12/11 22:42:47 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515rbJI12AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515rbJI12AL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07WRP2BZR

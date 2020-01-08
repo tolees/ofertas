@@ -2,9 +2,9 @@
 layout: post
 title: 'PLAYMOBIL Family Fun 9280 Skihütte  Ab 4'
 date: 2020-01-07 14:38:49
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61snoZyE%2B9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61snoZyE%2B9L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06WVPG5K4

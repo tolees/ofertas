@@ -2,9 +2,9 @@
 layout: post
 title: 'Trixie Set Higiene Dental  Pasta y cepil'
 date: 2020-01-02 17:04:09
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CS0ZAfK9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CS0ZAfK9L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B000V9AZUU

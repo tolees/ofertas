@@ -2,9 +2,9 @@
 layout: post
 title: 'Dormio Zafiro Colchón viscoelástico  Bla'
 date: 2019/12/19 09:22:31 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XNgylrh5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XNgylrh5L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B016AFQFY8

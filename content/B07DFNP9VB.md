@@ -2,9 +2,9 @@
 layout: post
 title: 'PUMA ESS Sweat TR cl Pants  Mujer  Gris '
 date: 2019/12/27 19:30:28 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rSqE-i6tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rSqE-i6tL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DFNP9VB

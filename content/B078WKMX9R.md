@@ -2,9 +2,9 @@
 layout: post
 title: 'Auriculares Gaming Premium para PS4  PC '
 date: 2019/12/27 13:03:12 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515-OvQF1LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515-OvQF1LL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078WKMX9R

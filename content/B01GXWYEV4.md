@@ -2,9 +2,9 @@
 layout: post
 title: 'Hollister Wave For Her Perfume - 50 ml'
 date: 2019/12/27 06:16:03 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqijUB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KgqijUB5L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01GXWYEV4

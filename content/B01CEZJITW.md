@@ -2,9 +2,9 @@
 layout: post
 title: '6.3mm to 3.5mm  1/4 to 1/8   Stereo Audi'
 date: 2019/12/26 19:27:53 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U9-YeQqSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U9-YeQqSL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01CEZJITW

@@ -2,9 +2,9 @@
 layout: post
 title: 'AmzBarley Princess Anna Coronation Dress'
 date: 2019/12/28 08:32:23 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512GUWrVBuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512GUWrVBuL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FTHB9RK

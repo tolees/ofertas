@@ -2,9 +2,9 @@
 layout: post
 title: 'Zwilling Hello Kitty - Cuchillo cocina  '
 date: 2019/12/20 00:08:51 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-k7-fB9NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-k7-fB9NL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00IZTUA6C

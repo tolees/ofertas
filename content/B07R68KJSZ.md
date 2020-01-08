@@ -2,9 +2,9 @@
 layout: post
 title: 'Cabezal de Recambio para Oral-B Cepillo '
 date: 2019/12/14 19:37:35 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ahljlab1L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07R68KJSZ

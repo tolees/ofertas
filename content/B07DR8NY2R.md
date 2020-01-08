@@ -2,9 +2,9 @@
 layout: post
 title: 'hummel Slimmer Stadil High  Zapatillas A'
 date: 2019/12/23 17:14:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41crU9VQzJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41crU9VQzJL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DR8NY2R

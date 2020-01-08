@@ -2,9 +2,9 @@
 layout: post
 title: 'MUSTRIEND Tocadiscos 33/45/78 Reproducto'
 date: 2019/12/21 03:16:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EUrQk1AzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EUrQk1AzL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07J5JY8MK

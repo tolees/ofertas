@@ -2,9 +2,9 @@
 layout: post
 title: 'HORI - Horipad negro  Nintendo Switch '
 date: 2019/12/17 11:49:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41poAYdBOeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41poAYdBOeL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01NAUATSM

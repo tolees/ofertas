@@ -2,9 +2,9 @@
 layout: post
 title: 'Hellblade Senua s Sacrifice'
 date: 2019/12/26 19:37:14 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07J4PNNYN

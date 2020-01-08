@@ -2,9 +2,9 @@
 layout: post
 title: 'Rii Ultra-delgado teclado bluetooth con '
 date: 2020-01-07 07:22:14
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LAWeNV5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LAWeNV5CL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01CQZG0Z0

@@ -2,9 +2,9 @@
 layout: post
 title: 'Skechers D lites 3.0-Proven Force  Zapat'
 date: 2020-01-05 13:50:29
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vjsveFHCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vjsveFHCL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NW8VRZF

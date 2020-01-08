@@ -2,9 +2,9 @@
 layout: post
 title: 'Caja de Regalo Reloj Hombre Negro - Lámp'
 date: 2019/12/19 09:49:21 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413WekE2iRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413WekE2iRL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B076CJWFZ2

@@ -2,9 +2,9 @@
 layout: post
 title: 'edc by Esprit 118cc1b003 Pantalones  Azu'
 date: 2019/12/26 20:00:36 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314LB%2BQMbvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314LB%2BQMbvL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GVNQY3B

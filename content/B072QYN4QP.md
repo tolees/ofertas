@@ -2,9 +2,9 @@
 layout: post
 title: 'Odlo Warm Trend  Camiseta de Manga Larga'
 date: 2019/12/17 15:29:58 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xDsIhm2FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xDsIhm2FL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B072QYN4QP

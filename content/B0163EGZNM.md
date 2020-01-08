@@ -2,9 +2,9 @@
 layout: post
 title: 'Dim Invisi Fit Sujetador  New Skin  85C '
 date: 2019/12/20 08:56:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0163EGZNM

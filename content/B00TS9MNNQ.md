@@ -2,9 +2,9 @@
 layout: post
 title: 'GREAT ART Selva Animales Papel Pintado d'
 date: 2019/12/30 20:50:09 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61rMsW3abdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61rMsW3abdL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00TS9MNNQ

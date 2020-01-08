@@ -2,9 +2,9 @@
 layout: post
 title: 'LEGO 60223 City Great Vehicles Harvester'
 date: 2019/12/16 08:28:13 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51StBHzN5PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51StBHzN5PL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FP2GRY7

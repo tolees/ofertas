@@ -2,9 +2,9 @@
 layout: post
 title: 'Morgan Mentos Camiseta  Blanco  Off Whit'
 date: 2020-01-07 01:08:16
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01HZ2UM4E

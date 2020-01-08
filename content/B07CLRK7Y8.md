@@ -2,9 +2,9 @@
 layout: post
 title: 'OMRON VIVA - Báscula inteligente y monit'
 date: 2020-01-07 12:36:09
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CLRK7Y8

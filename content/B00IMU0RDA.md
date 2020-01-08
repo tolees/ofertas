@@ -2,9 +2,9 @@
 layout: post
 title: 'Elizabeth Arden  Agua de colonia para mu'
 date: 2019/12/12 12:05:04 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Qgek2dkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Qgek2dkL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00IMU0RDA

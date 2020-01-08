@@ -2,9 +2,9 @@
 layout: post
 title: 'FurReal Friends JJ  mein hopsender Mops'
 date: 2019/12/21 16:15:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XPaozXiIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XPaozXiIL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KZ3NWYB

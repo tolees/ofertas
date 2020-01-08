@@ -2,9 +2,9 @@
 layout: post
 title: 'keeeper Fredo Fresh Fiambreras  PP  Azul'
 date: 2019/12/27 08:07:10 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8a2%2Bo2xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8a2%2Bo2xL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07N7QFC6T

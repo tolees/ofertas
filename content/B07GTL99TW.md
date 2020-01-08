@@ -2,9 +2,9 @@
 layout: post
 title: 'EU Stecker 3V 1A Netzteil 100V- 240V zu '
 date: 2019/12/28 10:31:22 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FIFPIiHgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FIFPIiHgL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GTL99TW

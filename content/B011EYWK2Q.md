@@ -2,9 +2,9 @@
 layout: post
 title: 'SALOMON Agile 250 Belt Set Riñonera de h'
 date: 2019/12/25 16:37:09 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wuB5EJv6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wuB5EJv6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B011EYWK2Q

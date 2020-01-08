@@ -2,9 +2,9 @@
 layout: post
 title: 'PLAYMOBIL Knights 9340 Mobile Zwergenfes'
 date: 2020-01-07 23:13:09
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61eWaP0MI4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61eWaP0MI4L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0766DJPQV

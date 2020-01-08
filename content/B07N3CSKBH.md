@@ -2,9 +2,9 @@
 layout: post
 title: 'Timex Reloj de Pulsera TW4B14700'
 date: 2019/12/20 22:11:39 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419KUQNlJaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419KUQNlJaL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07N3CSKBH

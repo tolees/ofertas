@@ -2,9 +2,9 @@
 layout: post
 title: 'Blade Runner 2049 Blade Runner 2049-Funk'
 date: 2020-01-02 09:53:41
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B074HMVTC9

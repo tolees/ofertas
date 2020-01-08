@@ -2,9 +2,9 @@
 layout: post
 title: 'G-STAR RAW 3301 Slim Vaqueros  Pitch Bla'
 date: 2019-12-31 15:31:44
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315uQxkLe4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315uQxkLe4L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NDL2XQ6

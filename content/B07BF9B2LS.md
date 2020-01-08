@@ -2,9 +2,9 @@
 layout: post
 title: 'Rochas  Agua de colonia para mujeres - 5'
 date: 2019/12/13 19:15:26 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VCWSE0AdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VCWSE0AdL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BF9B2LS

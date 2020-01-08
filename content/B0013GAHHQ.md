@@ -2,9 +2,9 @@
 layout: post
 title: 'VICTORY ENDURANCE Iso Energy Naranja 900'
 date: 2020-01-02 07:03:27
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cgpv1zenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cgpv1zenL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0013GAHHQ

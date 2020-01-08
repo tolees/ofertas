@@ -2,9 +2,9 @@
 layout: post
 title: 'YxFlower Custom Bausteine   1:8 2.4GHz R'
 date: 2020-01-01 23:03:05
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07WH5WBN5

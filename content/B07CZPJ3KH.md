@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour HG Armour Graphic Legging L'
 date: 2020-01-02 08:26:39
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414QAHIFMrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414QAHIFMrL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CZPJ3KH

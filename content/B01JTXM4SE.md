@@ -2,9 +2,9 @@
 layout: post
 title: 'Timberland Killington  Botas Unisex Niño'
 date: 2019/12/27 17:22:55 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S9Py7xgfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S9Py7xgfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01JTXM4SE

@@ -2,9 +2,9 @@
 layout: post
 title: 'WanNing Paquete de deformación Luminosa '
 date: 2019/12/25 09:03:52 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xToP2EeNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xToP2EeNL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07N3BF1YF

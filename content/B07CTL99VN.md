@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour UA W Charged Rogue  Zapatil'
 date: 2019/12/29 20:13:34 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419YEPl%2BSbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419YEPl%2BSbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CTL99VN

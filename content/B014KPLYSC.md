@@ -2,9 +2,9 @@
 layout: post
 title: 'Reebok Tube de Resistencia - Pesado'
 date: 2020-01-03 00:36:43
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41liw2Pyo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41liw2Pyo2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B014KPLYSC

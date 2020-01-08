@@ -2,9 +2,9 @@
 layout: post
 title: 'Kempa Emotion Classic Chaqueta De Chanda'
 date: 2019/12/17 16:15:10 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ETsaC5O6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ETsaC5O6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00TZABJB0

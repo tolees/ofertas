@@ -2,9 +2,9 @@
 layout: post
 title: 'G.I.G.A. DX Damen Madoka Parka  Dunkelna'
 date: 2020-01-03 10:51:56
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HfNy73HyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HfNy73HyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00X4SO5XS

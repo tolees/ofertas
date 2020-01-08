@@ -2,9 +2,9 @@
 layout: post
 title: 'Celio Pudaim Chaqueta  Azul Navy  Medium'
 date: 2019/12/14 09:14:26 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iXwR3pT3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iXwR3pT3L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07PSYF28T

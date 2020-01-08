@@ -2,9 +2,9 @@
 layout: post
 title: 'Bella Aurora Splendor Crema Facial Reafi'
 date: 2020-01-08 07:56:55
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gk-EUcsEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gk-EUcsEL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B009K0GGXQ

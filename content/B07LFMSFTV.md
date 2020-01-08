@@ -2,9 +2,9 @@
 layout: post
 title: 'Levi s The Ultimate BF Shirt Blusa  Azul'
 date: 2020-01-07 18:23:38
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qk4-He0jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qk4-He0jL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LFMSFTV

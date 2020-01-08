@@ -2,9 +2,9 @@
 layout: post
 title: 'TUTUO Nintendo Switch Controlador Mando '
 date: 2020-01-04 13:45:51
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PEOx9fwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PEOx9fwJL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078TGWBZ9

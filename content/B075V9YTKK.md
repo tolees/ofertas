@@ -2,9 +2,9 @@
 layout: post
 title: 'Rugby 18 - Versión Española'
 date: 2020-01-03 10:53:49
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-9ko3oqSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-9ko3oqSL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B075V9YTKK

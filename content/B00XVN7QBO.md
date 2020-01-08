@@ -2,9 +2,9 @@
 layout: post
 title: 'Tristar FR-6990 Crispy - Freidora sin ac'
 date: 2020-01-03 21:26:59
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PP%2BnHWmFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PP%2BnHWmFL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00XVN7QBO

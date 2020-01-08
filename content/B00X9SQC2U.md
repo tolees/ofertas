@@ -2,9 +2,9 @@
 layout: post
 title: 'BaByliss iPro 230 Steam - Plancha de vap'
 date: 2020-01-08 06:14:07
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417s45CFg%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417s45CFg%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00X9SQC2U

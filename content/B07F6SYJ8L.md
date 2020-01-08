@@ -2,9 +2,9 @@
 layout: post
 title: 'Salomon Agile Belt Set Riñonera de hidra'
 date: 2019/12/13 10:15:27 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TA8tzienL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TA8tzienL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07F6SYJ8L

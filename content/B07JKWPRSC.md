@@ -2,9 +2,9 @@
 layout: post
 title: 'Playmobil 70060 Special Plus Mädchen mit'
 date: 2019/12/22 01:08:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kVJUDFpbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kVJUDFpbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JKWPRSC

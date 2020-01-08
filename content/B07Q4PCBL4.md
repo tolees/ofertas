@@ -2,9 +2,9 @@
 layout: post
 title: 'Amzdeal Alcachofa de ducha Cabezal de Du'
 date: 2020-01-01 08:51:04
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMn6XMOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMn6XMOpL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07Q4PCBL4

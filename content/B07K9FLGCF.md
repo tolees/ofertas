@@ -2,9 +2,9 @@
 layout: post
 title: 'LEGO Star Wars 75253  BOOST Droide  App-'
 date: 2020-01-07 22:45:19
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513riy2qpvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513riy2qpvL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07K9FLGCF

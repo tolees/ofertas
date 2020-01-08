@@ -2,9 +2,9 @@
 layout: post
 title: 'Tiza de Pelo  Cabello Tiza  Coloración t'
 date: 2020-01-02 09:40:22
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NkwHmS4ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NkwHmS4ZL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07V6GL1ZC

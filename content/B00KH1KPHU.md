@@ -2,9 +2,9 @@
 layout: post
 title: 'L Or Espresso Café Or Noir Intensidad 11'
 date: 2019/12/28 23:29:31 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSNFKZO%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XSNFKZO%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00KH1KPHU

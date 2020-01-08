@@ -2,9 +2,9 @@
 layout: post
 title: 'APEMAN 10x42 Prismáticos binoculares obs'
 date: 2019/12/17 00:55:36 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xlt93nukL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xlt93nukL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JJ62RJK

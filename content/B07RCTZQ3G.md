@@ -2,9 +2,9 @@
 layout: post
 title: 'Tosbess 12 Piezas Minifiguras y Arma  Po'
 date: 2020-01-08 07:01:28
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j83TD1BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j83TD1BYL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RCTZQ3G

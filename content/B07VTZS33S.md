@@ -2,9 +2,9 @@
 layout: post
 title: 'CESTA DE MIMBRE CON TAPAS Y ASA GRUESA'
 date: 2019/12/29 18:50:17 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iDgCWcacL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iDgCWcacL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07VTZS33S

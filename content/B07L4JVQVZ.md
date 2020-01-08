@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko 36025 Pop Games: Fortnite S2 - Val'
 date: 2020-01-06 06:05:05
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517qBmAj48L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517qBmAj48L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07L4JVQVZ

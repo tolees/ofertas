@@ -2,9 +2,9 @@
 layout: post
 title: 'KIWI design Soporte para Home Mini de Go'
 date: 2020-01-05 07:55:40
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vdtdGCUAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vdtdGCUAL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07F5FQ7DZ

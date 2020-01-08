@@ -2,9 +2,9 @@
 layout: post
 title: 'PLAYMOBIL Adventskalender 70187 Kampf um'
 date: 2020-01-05 14:36:15
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fDXjksrCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fDXjksrCL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07P7KPCWK

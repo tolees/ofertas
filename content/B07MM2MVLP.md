@@ -2,9 +2,9 @@
 layout: post
 title: 'ASUS ROG Zephyrus S GX701GX  90NR00X1-M0'
 date: 2019/12/16 13:52:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41woJwVA3VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41woJwVA3VL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MM2MVLP

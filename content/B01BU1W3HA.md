@@ -2,9 +2,9 @@
 layout: post
 title: 'Ray-Ban Mod. 3544 Gafas De Sol  Negro  6'
 date: 2019/12/18 15:29:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21tgxSaSLNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21tgxSaSLNL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01BU1W3HA

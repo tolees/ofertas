@@ -2,9 +2,9 @@
 layout: post
 title: 'Autopmall GPS Tracker Bicicleta Tiempo d'
 date: 2019/12/24 01:52:22 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S7VmkYl7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S7VmkYl7L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GDCLHJT

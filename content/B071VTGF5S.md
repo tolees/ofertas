@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko POP! Bobble: Star Wars: E8 TLJ: Su'
 date: 2019/12/22 00:27:35 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312kVlKUs2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312kVlKUs2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B071VTGF5S

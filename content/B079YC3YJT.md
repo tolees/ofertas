@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko Pop Star Wars Solo 26990 L3-37'
 date: 2020-01-07 22:12:05
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-GzbX%2BTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-GzbX%2BTL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B079YC3YJT

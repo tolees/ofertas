@@ -2,9 +2,9 @@
 layout: post
 title: 'Hieha Calentador de Manos  Hieha 5200mAh'
 date: 2019/12/27 20:16:35 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YJGmj9%2BFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YJGmj9%2BFL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07ZDP38DK

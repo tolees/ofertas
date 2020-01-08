@@ -2,9 +2,9 @@
 layout: post
 title: 'Ferilinso Cristal Templado para Samsung '
 date: 2020-01-05 16:03:54
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wll96HKbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Wll96HKbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NXZYPXR

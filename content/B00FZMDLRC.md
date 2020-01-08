@@ -2,9 +2,9 @@
 layout: post
 title: 'Rubie s Official Disney Frozen Deluxe El'
 date: 2020-01-02 22:05:07
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lKJwzvQRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lKJwzvQRL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00FZMDLRC

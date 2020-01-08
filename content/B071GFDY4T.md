@@ -2,9 +2,9 @@
 layout: post
 title: 'find. Zapatillas Deportivas con Textura '
 date: 2019/12/21 18:12:36 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ldW3xZcTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ldW3xZcTL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B071GFDY4T

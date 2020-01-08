@@ -2,9 +2,9 @@
 layout: post
 title: 'find. Chaqueta Efecto Cuero para Hombre '
 date: 2020-01-07 12:40:59
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fOO18z8fL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B073QMRHGC

@@ -2,9 +2,9 @@
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Juras'
 date: 2020-01-08 06:18:17
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YJ9FkKNVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YJ9FkKNVL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07TXVTS4Q

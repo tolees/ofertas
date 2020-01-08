@@ -2,9 +2,9 @@
 layout: post
 title: 'tomtoc 14" Funda Portátil Protectora de '
 date: 2019/12/14 01:52:30 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FZKNsP4EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FZKNsP4EL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B077F3PXHZ

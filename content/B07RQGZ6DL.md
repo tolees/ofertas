@@ -2,9 +2,9 @@
 layout: post
 title: 'E27 Retro Bombilla  Vintage Straight Wir'
 date: 2019/12/23 18:51:16 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rMCJpzLCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rMCJpzLCL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RQGZ6DL

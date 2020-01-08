@@ -2,9 +2,9 @@
 layout: post
 title: 'Woxter Stinger Station Army Green - Sill'
 date: 2019/12/11 20:35:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zYZOUJ0qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zYZOUJ0qL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KKHFS8L

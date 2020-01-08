@@ -2,9 +2,9 @@
 layout: post
 title: 'AMD EPYC 7351 16-Core Server Processor -'
 date: 2020-01-07 09:50:28
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419ESrWecmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419ESrWecmL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B077JXNFP5

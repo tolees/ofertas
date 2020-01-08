@@ -2,9 +2,9 @@
 layout: post
 title: 'Columbia Lake 22 Chaqueta De Plumón  Hom'
 date: 2019/12/28 10:07:16 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HD7QBOgEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HD7QBOgEL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07M6R1BMV

@@ -2,9 +2,9 @@
 layout: post
 title: 'Tommy Hilfiger Tommy Raffia Mule Sandal '
 date: 2019/12/12 08:35:31 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ozkbn2EYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ozkbn2EYL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07L3FVKZL

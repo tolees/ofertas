@@ -2,9 +2,9 @@
 layout: post
 title: 'find. Wool Mix Dogstooth Abrigo  Negro  '
 date: 2019/12/20 20:12:24 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bXeGVlJxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bXeGVlJxL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DDFRVJ1

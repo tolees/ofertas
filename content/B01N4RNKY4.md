@@ -2,9 +2,9 @@
 layout: post
 title: 'Puma Basket Heart Patent Wn s  Zapatilla'
 date: 2019/12/30 08:12:00 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31whMn8w8XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31whMn8w8XL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01N4RNKY4

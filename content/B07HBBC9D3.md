@@ -2,9 +2,9 @@
 layout: post
 title: 'LAST LEVEL- Pop Vinyl: Dragonball Z S5: '
 date: 2019/12/16 21:17:23 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xDi8Ps6uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xDi8Ps6uL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HBBC9D3

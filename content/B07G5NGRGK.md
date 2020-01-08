@@ -2,9 +2,9 @@
 layout: post
 title: 'Skagen Smartwatch SKT1306'
 date: 2019/12/12 21:43:35 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3195KXx9oHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3195KXx9oHL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07G5NGRGK

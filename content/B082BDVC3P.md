@@ -2,9 +2,9 @@
 layout: post
 title: 'Icons Corner Pack de 2 sillones IMS con '
 date: 2020-01-08 10:39:18
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OaI1fQVXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OaI1fQVXL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B082BDVC3P

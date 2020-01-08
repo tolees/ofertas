@@ -2,9 +2,9 @@
 layout: post
 title: 'Belkin drahtloser Boost Up Ladeständer  '
 date: 2019/12/31 11:50:35 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JJ5%2BrGilL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JJ5%2BrGilL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07CX1ZBLR

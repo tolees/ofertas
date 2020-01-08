@@ -2,9 +2,9 @@
 layout: post
 title: 'Tommy Hilfiger Herren Straight Jeans Cor'
 date: 2019/12/14 00:35:34 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jnx51gLnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jnx51gLnL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B071WMGQ8X

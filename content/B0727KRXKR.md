@@ -2,9 +2,9 @@
 layout: post
 title: 'Sony Xperia XA1 - Smartphone con pantall'
 date: 2019/12/24 11:05:30 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yODSAhZWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yODSAhZWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0727KRXKR

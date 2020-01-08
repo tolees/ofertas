@@ -2,9 +2,9 @@
 layout: post
 title: 'Napapijri BIBU H Sudadera con Capucha  A'
 date: 2019/12/16 15:43:13 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mJBNfFoDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mJBNfFoDL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MQVJ3NF

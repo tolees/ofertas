@@ -2,9 +2,9 @@
 layout: post
 title: 'E·Durable 9 pcs Destornilladores planos '
 date: 2020-01-07 12:50:09
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f9voKqG-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f9voKqG-L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07VMD1GFZ

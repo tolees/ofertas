@@ -2,9 +2,9 @@
 layout: post
 title: 'Rowenta Liss & Curl SF4522F0 Plancha de '
 date: 2019/12/23 12:06:56 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-rBmDmVYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-rBmDmVYL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00EAACGR6

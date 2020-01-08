@@ -2,9 +2,9 @@
 layout: post
 title: 'Sony Alpha ILCE7RM2B - Cámara EVIL Full '
 date: 2019/12/13 07:05:11 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B010THXVNQ

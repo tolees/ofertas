@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour UA Waist Bag - Riñonera  Un'
 date: 2019/12/18 14:32:04 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFLys078L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BFLys078L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KJWW7LB

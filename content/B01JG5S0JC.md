@@ -2,9 +2,9 @@
 layout: post
 title: 'Shiseido Ever Bloom Eau de Toilette 90 m'
 date: 2019/12/16 20:28:43 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xq1hLiiqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xq1hLiiqL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01JG5S0JC

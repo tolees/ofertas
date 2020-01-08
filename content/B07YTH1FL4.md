@@ -2,9 +2,9 @@
 layout: post
 title: 'Auriculares Bluetooth  WOOKRAYS inalámbr'
 date: 2020-01-08 08:56:30
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tc5Avi9UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tc5Avi9UL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07YTH1FL4

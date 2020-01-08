@@ -2,9 +2,9 @@
 layout: post
 title: 'Maybelline New York - Superstay 24H  Pol'
 date: 2020-01-05 14:40:14
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/215h18pI-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/215h18pI-JL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00FJWXTJS

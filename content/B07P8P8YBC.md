@@ -2,9 +2,9 @@
 layout: post
 title: 'PLAYMOBIL:THE MOVIE 70075 Del s Food Tru'
 date: 2020-01-07 23:16:57
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Yep-afXKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Yep-afXKL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07P8P8YBC

@@ -2,9 +2,9 @@
 layout: post
 title: 'Pepe Jeans New Brooke Vaqueros  Azul  10'
 date: 2019/12/29 20:25:49 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mHle-0hvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mHle-0hvL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00KE6LHCK

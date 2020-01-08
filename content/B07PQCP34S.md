@@ -2,9 +2,9 @@
 layout: post
 title: 'LOHOTEK Guantes de Ciclismo de Bicicleta'
 date: 2020-01-04 10:07:40
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QYcZdq17L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QYcZdq17L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07PQCP34S

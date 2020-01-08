@@ -2,9 +2,9 @@
 layout: post
 title: 'AmazonBasics - Paños de algodón  30 5 x '
 date: 2019/12/26 11:43:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61cTLAtsBtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61cTLAtsBtL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MRR1YNT

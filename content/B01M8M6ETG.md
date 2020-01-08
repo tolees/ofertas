@@ -2,9 +2,9 @@
 layout: post
 title: 'DANISH ENDURANCE Calcetines de Compresió'
 date: 2019/12/22 11:24:16 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VQgTBMajL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VQgTBMajL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01M8M6ETG

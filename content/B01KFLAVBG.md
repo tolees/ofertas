@@ -2,9 +2,9 @@
 layout: post
 title: 'Philips GC9405/80 - Centro de Planchado '
 date: 2020-01-05 11:03:44
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pdMHa8rbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pdMHa8rbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01KFLAVBG

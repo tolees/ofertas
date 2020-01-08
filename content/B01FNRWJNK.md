@@ -2,9 +2,9 @@
 layout: post
 title: 'HP Z3700 RF Raton óptico inalámbrico 120'
 date: 2019/12/27 16:32:47 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eVI6gL8QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eVI6gL8QL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01FNRWJNK

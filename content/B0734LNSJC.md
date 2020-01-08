@@ -2,9 +2,9 @@
 layout: post
 title: 'TAZA CERAMICA 325 ML CON CAJA | BATMAN L'
 date: 2020-01-01 09:32:14
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M0RgjbCKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M0RgjbCKL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0734LNSJC

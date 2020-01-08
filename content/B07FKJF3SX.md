@@ -2,9 +2,9 @@
 layout: post
 title: 'Darksiders III - Edición Estándar'
 date: 2020-01-04 16:45:17
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FKJF3SX

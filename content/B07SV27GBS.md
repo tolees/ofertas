@@ -2,9 +2,9 @@
 layout: post
 title: 'Regleta con protección de sobretensiones'
 date: 2020-01-05 20:04:45
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wrwI5HewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wrwI5HewL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07SV27GBS

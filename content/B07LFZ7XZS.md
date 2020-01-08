@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox J Android Boy C  Zapatillas para Ni'
 date: 2020-01-06 18:41:58
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rqZkuD9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rqZkuD9iL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LFZ7XZS

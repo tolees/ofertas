@@ -2,9 +2,9 @@
 layout: post
 title: 'Matifi Lámpara Ultravioleta para secado '
 date: 2020-01-02 20:33:17
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aeB2thgZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aeB2thgZL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B077T6ZLSK

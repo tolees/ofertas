@@ -2,9 +2,9 @@
 layout: post
 title: 'Biotona Chlorella - 200 gr'
 date: 2019/12/22 21:47:10 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B010B2XSBE

@@ -2,9 +2,9 @@
 layout: post
 title: 'Philips SNOW Super Speed 32 GB USB Flash'
 date: 2020-01-07 11:38:47
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bjfFDByuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bjfFDByuL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00BJAUT4W

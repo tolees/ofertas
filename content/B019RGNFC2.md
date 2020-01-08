@@ -2,9 +2,9 @@
 layout: post
 title: 'Lima-Electrónica para Callosidades Own H'
 date: 2020-01-02 17:14:32
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f0A4sXdqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f0A4sXdqL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B019RGNFC2

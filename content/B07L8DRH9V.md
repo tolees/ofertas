@@ -2,9 +2,9 @@
 layout: post
 title: 'Naipo Cojín para Asiento de Espuma con M'
 date: 2019/12/17 23:55:19 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07L8DRH9V

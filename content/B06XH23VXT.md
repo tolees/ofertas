@@ -2,9 +2,9 @@
 layout: post
 title: 'Helly Hansen Coastal 2 Parka  Hombre  Ro'
 date: 2019/12/27 12:11:05 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BFqpAOqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BFqpAOqyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06XH23VXT

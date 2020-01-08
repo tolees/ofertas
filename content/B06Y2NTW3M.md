@@ -2,9 +2,9 @@
 layout: post
 title: 'VIEWEE - Detector de Metales para Jóvene'
 date: 2019/12/24 07:02:20 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uuxzygU1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uuxzygU1L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06Y2NTW3M

@@ -2,9 +2,9 @@
 layout: post
 title: 'YANGOO Pulsera Actividad Inteligente Imp'
 date: 2020-01-08 11:20:04
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NkwL-gifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NkwL-gifL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07TTRZ4JY

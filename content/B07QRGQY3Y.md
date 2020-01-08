@@ -2,9 +2,9 @@
 layout: post
 title: 'Looffy Memoria USB 128GB para iPhone Mem'
 date: 2020-01-01 10:37:22
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41viX6QsiVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41viX6QsiVL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QRGQY3Y

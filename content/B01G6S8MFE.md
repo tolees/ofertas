@@ -2,9 +2,9 @@
 layout: post
 title: 'Amzdeal Softbox 50 x 70 cm Kit de llumin'
 date: 2019/12/30 01:46:55 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01G6S8MFE

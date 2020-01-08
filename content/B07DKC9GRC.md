@@ -2,9 +2,9 @@
 layout: post
 title: 'PUMA ESS Crew Sweat TR Big Logo Sweatshi'
 date: 2019/12/20 00:19:15 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410lk0PUAwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410lk0PUAwL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DKC9GRC

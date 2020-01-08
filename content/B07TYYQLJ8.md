@@ -2,9 +2,9 @@
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Marve'
 date: 2019/12/22 00:27:35 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erjSQt6cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erjSQt6cL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07TYYQLJ8

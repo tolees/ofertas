@@ -2,9 +2,9 @@
 layout: post
 title: 'Replay Anbass  Vaqueros Slim para Hombre'
 date: 2019/12/15 13:27:56 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vNJNf-0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vNJNf-0NL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01JARFMHE

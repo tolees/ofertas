@@ -2,9 +2,9 @@
 layout: post
 title: 'D-Link DIR-869 - Router WiFi AC 1750 Ap '
 date: 2020-01-01 14:35:59
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QQ2PyjonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QQ2PyjonL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00PVCVG5A

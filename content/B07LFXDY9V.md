@@ -2,9 +2,9 @@
 layout: post
 title: 'Sloggi Zero Feel Top Ex Corto   Orange 1'
 date: 2019/12/12 14:31:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412sbh0q8xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412sbh0q8xL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LFXDY9V

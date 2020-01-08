@@ -2,9 +2,9 @@
 layout: post
 title: 'Tamron T80177 - Objetivo SP 150-600 mm F'
 date: 2019/12/28 15:45:46 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Uy7rQT2UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Uy7rQT2UL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01LCFBNWA

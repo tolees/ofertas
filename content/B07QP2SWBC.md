@@ -2,9 +2,9 @@
 layout: post
 title: 'find. Belk073m5 calzoncillos hombre  Mul'
 date: 2019/12/24 11:05:30 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hi6Ux%2BcGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hi6Ux%2BcGL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QP2SWBC

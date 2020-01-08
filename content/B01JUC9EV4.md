@@ -2,9 +2,9 @@
 layout: post
 title: 'Nespresso Krups Expert Milk XN6018 - Caf'
 date: 2019/12/12 10:41:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418V1Ae8iOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418V1Ae8iOL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01JUC9EV4

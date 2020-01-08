@@ -2,9 +2,9 @@
 layout: post
 title: 'Samsung Galaxy S10 Smartphone Bundle  15'
 date: 2019/12/30 21:23:25 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317VmQ4UQDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317VmQ4UQDL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07SFGW5S2

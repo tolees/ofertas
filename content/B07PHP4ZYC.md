@@ -2,9 +2,9 @@
 layout: post
 title: 'AmazonBasics - Teléfono fijo DECT con co'
 date: 2019/12/14 10:09:29 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AVpNQ4XXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AVpNQ4XXL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07PHP4ZYC

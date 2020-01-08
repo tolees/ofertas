@@ -2,9 +2,9 @@
 layout: post
 title: 'WD My Cloud EX2 Ultra NAS Festplatte 8 T'
 date: 2020-01-05 07:16:19
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zi7c8jB4L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01BIGSRLS

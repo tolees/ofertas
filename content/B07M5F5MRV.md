@@ -2,9 +2,9 @@
 layout: post
 title: 'Wrangler LS Western Shirt Camisa  Rojo  '
 date: 2020-01-01 17:05:05
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PPbHL5djL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PPbHL5djL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07M5F5MRV

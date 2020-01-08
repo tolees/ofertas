@@ -2,9 +2,9 @@
 layout: post
 title: 'Nixon Reloj Analógico para Hombre de Cua'
 date: 2019/12/28 12:19:53 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KonD9ylUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KonD9ylUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B004KRLCGU

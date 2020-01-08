@@ -2,9 +2,9 @@
 layout: post
 title: 'PUMA Smash Wns v2 L  Zapatillas para Muj'
 date: 2020-01-07 16:03:54
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KFXQCC4

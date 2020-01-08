@@ -2,9 +2,9 @@
 layout: post
 title: 'Muvit MUACC0166 - Transformador USB  2.4'
 date: 2019/12/14 11:27:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yImk-LajL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yImk-LajL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01LYUDTJQ

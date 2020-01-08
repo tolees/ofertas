@@ -2,9 +2,9 @@
 layout: post
 title: 'KOSPET Classic Smartwatch  1.39" AMOLED '
 date: 2019/12/16 10:33:24 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519DJeDL3jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519DJeDL3jL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07TXR1GJ8

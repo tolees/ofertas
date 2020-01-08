@@ -2,9 +2,9 @@
 layout: post
 title: 'Everybody s Golf - Edición Estándar'
 date: 2019/12/12 17:37:42 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ToRt80JiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ToRt80JiL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B071HQRW7K

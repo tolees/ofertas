@@ -2,9 +2,9 @@
 layout: post
 title: 'Yizhet Adaptador de Red USB Super Veloci'
 date: 2020-01-06 21:04:12
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iJ2BOdc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iJ2BOdc3L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07R3QKRN8

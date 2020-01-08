@@ -2,9 +2,9 @@
 layout: post
 title: 'Oral-B Genius X 20000N - Cepillo de Dien'
 date: 2020-01-02 10:14:38
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ttW65turL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ttW65turL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07S7DGGKM

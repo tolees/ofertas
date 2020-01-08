@@ -2,9 +2,9 @@
 layout: post
 title: 'Pilot Laundry-Tec - Rotulador para tela'
 date: 2019/12/25 10:07:29 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411rxuRezSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411rxuRezSL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00FA2FQSY

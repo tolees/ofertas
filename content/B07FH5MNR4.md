@@ -2,9 +2,9 @@
 layout: post
 title: 'BILLABONG Matt Jacket Chaqueta  Hombre  '
 date: 2019/12/18 12:46:03 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414DMbJ1fuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414DMbJ1fuL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FH5MNR4

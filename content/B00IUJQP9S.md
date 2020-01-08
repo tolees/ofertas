@@ -2,9 +2,9 @@
 layout: post
 title: 'BERING Reloj Analógico para Hombre de Cu'
 date: 2019/12/19 09:15:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00IUJQP9S

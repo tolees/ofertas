@@ -2,9 +2,9 @@
 layout: post
 title: 'Funxim Infinity Cube Toy para Adultos y '
 date: 2020-01-03 14:56:30
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WLqoErMlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WLqoErMlL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078NNQFLV

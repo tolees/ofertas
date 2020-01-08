@@ -2,9 +2,9 @@
 layout: post
 title: 'SUAOKI - 150Wh Generador Portátil Solar '
 date: 2019/12/17 19:15:27 +0000
-comments: true
 thumbnailImage: '._SL200_'
 images: [ '._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B076PR4TBZ

@@ -2,9 +2,9 @@
 layout: post
 title: 'Timex Expedition Shock XL - Reloj análog'
 date: 2019/12/24 15:24:54 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zj8YO3zTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zj8YO3zTL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00CYZO6RW

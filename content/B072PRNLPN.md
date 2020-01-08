@@ -3,9 +3,9 @@ layout: post
 title: 'Grohe Lineare -  Grifo de bidé 1/2"
 Tama'
 date: 2020-01-05 23:20:01
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ko1J%2Bkj1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ko1J%2Bkj1L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B072PRNLPN

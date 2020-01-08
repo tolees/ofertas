@@ -2,9 +2,9 @@
 layout: post
 title: 'Braun BN0024WHBKG - Reloj analógico de c'
 date: 2019/12/15 06:28:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ukYj0%2BpRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ukYj0%2BpRL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B004X4KVXA

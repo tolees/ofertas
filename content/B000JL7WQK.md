@@ -2,9 +2,9 @@
 layout: post
 title: 'Vera Wang Princess Eau de Toilette - 100'
 date: 2019/12/30 17:40:00 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CR8%2BmVW8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CR8%2BmVW8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B000JL7WQK

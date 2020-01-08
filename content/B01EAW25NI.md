@@ -2,9 +2,9 @@
 layout: post
 title: 'DP Grifería G-642 Columna de Hidromasaje'
 date: 2019/12/14 19:55:55 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dCGlyHO%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dCGlyHO%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01EAW25NI

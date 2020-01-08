@@ -2,9 +2,9 @@
 layout: post
 title: 'SALCAR Guirnalda Solar Exterior 5 m  Ext'
 date: 2019/12/29 09:12:21 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UtBsn263L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UtBsn263L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01FJRVYAI

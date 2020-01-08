@@ -2,9 +2,9 @@
 layout: post
 title: 'Eléctrico Soldador Kit de Estaño con Caj'
 date: 2019/12/13 00:13:18 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518zH1SBvUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518zH1SBvUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FBDQV96

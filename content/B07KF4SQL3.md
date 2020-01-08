@@ -2,9 +2,9 @@
 layout: post
 title: 'Levi s 311 Shaping Skinny Vaqueros  Pari'
 date: 2020-01-05 12:25:42
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KF4SQL3

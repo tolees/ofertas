@@ -2,9 +2,9 @@
 layout: post
 title: 'Braun Series 3 ProSkin 3030 S Afeitadora'
 date: 2019/12/28 01:18:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PufrZzQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PufrZzQML._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00WW8BVOM

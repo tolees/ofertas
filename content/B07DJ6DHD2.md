@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox Herren U Wells C Sneaker  Grau  Smo'
 date: 2019/12/26 20:49:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412dogNKKIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412dogNKKIL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DJ6DHD2

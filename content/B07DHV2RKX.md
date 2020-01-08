@@ -2,9 +2,9 @@
 layout: post
 title: 'AmazonBasics - Juego de ropa de cama con'
 date: 2020-01-01 12:33:20
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i1I%2Bv8shL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i1I%2Bv8shL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DHV2RKX

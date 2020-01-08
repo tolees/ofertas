@@ -2,9 +2,9 @@
 layout: post
 title: 'Kempa Emotion Cazadora con Capucha  Homb'
 date: 2019/12/31 10:10:38 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tr%2BUEvpLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tr%2BUEvpLL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00V5LSJ8S

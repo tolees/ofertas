@@ -2,9 +2,9 @@
 layout: post
 title: 'G-STAR RAW Core Super Slim Camisa Vaquer'
 date: 2020-01-03 12:08:36
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sineYQp5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sineYQp5L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NDL6BMS

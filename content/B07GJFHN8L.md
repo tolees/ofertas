@@ -2,9 +2,9 @@
 layout: post
 title: 'Eono by Amazon - Toalla de Microfibra pa'
 date: 2019/12/13 23:54:31 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X%2Bb8OBfEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X%2Bb8OBfEL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GJFHN8L

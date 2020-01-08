@@ -2,9 +2,9 @@
 layout: post
 title: 'SALEWA Winter Train 26 BP Cordón  Unisex'
 date: 2019/12/30 21:07:28 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SwK9NypHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SwK9NypHL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BHBJPPY

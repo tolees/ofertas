@@ -2,9 +2,9 @@
 layout: post
 title: 'LEGO 70829 Movie 2 with Emmet  Lucy and '
 date: 2019/12/18 07:07:23 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FNTSDDM

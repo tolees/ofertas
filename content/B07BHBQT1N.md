@@ -2,9 +2,9 @@
 layout: post
 title: 'Kipling Firefly Up  Mochila para Mujer  '
 date: 2019/12/17 08:24:39 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BNwgPdIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BNwgPdIJL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BHBQT1N

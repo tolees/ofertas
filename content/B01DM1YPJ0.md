@@ -2,9 +2,9 @@
 layout: post
 title: 'Woxter Big Bass 500 - Altavoces 2.1  150'
 date: 2019/12/24 16:30:55 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IO-wndeHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IO-wndeHL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01DM1YPJ0

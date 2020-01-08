@@ -2,9 +2,9 @@
 layout: post
 title: 'AmazonBasics - Vajilla de 18 piezas  Exp'
 date: 2019/12/18 10:52:21 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410kF5Q9cpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410kF5Q9cpL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07F7TZGV8

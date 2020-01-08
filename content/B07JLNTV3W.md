@@ -2,9 +2,9 @@
 layout: post
 title: 'FOCHEA Calefactor Eléctrico Cerámico 180'
 date: 2019/12/14 14:21:21 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LuJmtN9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LuJmtN9VL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JLNTV3W

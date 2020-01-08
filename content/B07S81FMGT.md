@@ -2,9 +2,9 @@
 layout: post
 title: 'WisFox Packs de Teclado y Ratón Inalámbr'
 date: 2019/12/20 01:51:16 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Rz60Uj6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Rz60Uj6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07S81FMGT

@@ -2,9 +2,9 @@
 layout: post
 title: 'Safety 1st BOLID  Warm Gray  - Andador  '
 date: 2020-01-06 13:27:56
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4134IfDMzyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4134IfDMzyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KK1ZCYQ

@@ -2,9 +2,9 @@
 layout: post
 title: 'Star Wars STW103 Fundas Delanteras Diseñ'
 date: 2019/12/16 09:04:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5CUdyC6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q5CUdyC6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00KSG3YSQ

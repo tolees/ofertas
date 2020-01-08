@@ -2,9 +2,9 @@
 layout: post
 title: 'Sony SEL50F18F.SYX - Objetivo Fijo  FE 5'
 date: 2019/12/23 20:02:07 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01DLMD5O6

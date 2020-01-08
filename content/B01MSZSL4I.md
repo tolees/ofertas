@@ -2,9 +2,9 @@
 layout: post
 title: 'Sennheiser HD 4.50 BTNC - Auriculares in'
 date: 2020-01-03 19:04:23
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z87mOUi0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z87mOUi0L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MSZSL4I

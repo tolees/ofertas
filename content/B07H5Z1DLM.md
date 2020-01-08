@@ -2,9 +2,9 @@
 layout: post
 title: 'Skechers Flex Appeal 3.0  Zapatillas par'
 date: 2020-01-06 18:26:50
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vW9mFamsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vW9mFamsL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07H5Z1DLM

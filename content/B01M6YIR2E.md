@@ -2,9 +2,9 @@
 layout: post
 title: 'Red Dead Redemption 2  Xbox One '
 date: 2019/12/22 19:15:06 +0000
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01M6YIR2E

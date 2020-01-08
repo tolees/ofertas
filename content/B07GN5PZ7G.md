@@ -2,9 +2,9 @@
 layout: post
 title: 'Collar Antiladridos Recargable para Perr'
 date: 2019/12/17 09:53:27 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UJBjBZPRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UJBjBZPRL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GN5PZ7G

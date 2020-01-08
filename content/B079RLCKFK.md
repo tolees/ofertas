@@ -2,9 +2,9 @@
 layout: post
 title: 'Sorel out N About Plus  Botas para Mujer'
 date: 2020-01-05 08:41:54
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OwD6-OWOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OwD6-OWOL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B079RLCKFK

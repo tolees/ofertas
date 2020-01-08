@@ -2,9 +2,9 @@
 layout: post
 title: 'Columbia Canyon Point Sudadera Polar con'
 date: 2019/12/26 14:40:53 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kDPiIhdgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kDPiIhdgL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RCP9XZK

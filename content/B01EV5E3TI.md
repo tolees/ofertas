@@ -2,9 +2,9 @@
 layout: post
 title: 'IntimaTe WM Heart Giratoria de Oficina S'
 date: 2020-01-05 23:07:08
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vOTd7AgoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vOTd7AgoL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01EV5E3TI

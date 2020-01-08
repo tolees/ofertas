@@ -2,9 +2,9 @@
 layout: post
 title: 'Reloj Emporio Armani para Mujer AR1965'
 date: 2019/12/14 08:09:46 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BqT9gYfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F%2BqT9gYfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01GGLVLIQ

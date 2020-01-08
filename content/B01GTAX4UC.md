@@ -2,9 +2,9 @@
 layout: post
 title: 'DKNY Intimates Modern Lights-Mesh Litewe'
 date: 2019/12/13 08:10:53 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kdz71rvvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kdz71rvvL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01GTAX4UC

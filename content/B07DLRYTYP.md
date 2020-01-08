@@ -2,9 +2,9 @@
 layout: post
 title: 'QLEBAO Recambios Cepillo para Oral B  16'
 date: 2020-01-06 10:34:15
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B3sLxJsBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B3sLxJsBL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DLRYTYP

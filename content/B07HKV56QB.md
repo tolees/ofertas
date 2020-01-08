@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour UA HOVR Havoc 2  Zapatos de'
 date: 2019/12/16 08:32:23 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NUqE%2B9r8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NUqE%2B9r8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HKV56QB

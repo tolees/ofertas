@@ -2,9 +2,9 @@
 layout: post
 title: 'Tommy Hilfiger Reloj Multiesfera para Ho'
 date: 2019/12/15 11:43:21 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QWgzNiINL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QWgzNiINL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07G4VWDNS

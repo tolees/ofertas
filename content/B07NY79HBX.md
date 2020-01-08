@@ -2,9 +2,9 @@
 layout: post
 title: 'Superdry Classic Lite Micro Pique Polo  '
 date: 2019/12/21 12:00:13 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V5ReoqYwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V5ReoqYwL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NY79HBX

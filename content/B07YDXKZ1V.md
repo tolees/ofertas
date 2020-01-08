@@ -2,9 +2,9 @@
 layout: post
 title: 'LeYi Funda Xiaomi Redmi Note 8 con HD Pr'
 date: 2020-01-04 19:39:27
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C2Q3KfooL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C2Q3KfooL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07YDXKZ1V

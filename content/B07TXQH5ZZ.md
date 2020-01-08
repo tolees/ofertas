@@ -2,9 +2,9 @@
 layout: post
 title: 'deAO Coches 2en1 para Montar y Desmontar'
 date: 2020-01-03 13:33:54
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AANbqBGgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AANbqBGgL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07TXQH5ZZ

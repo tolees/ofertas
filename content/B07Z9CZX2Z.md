@@ -2,9 +2,9 @@
 layout: post
 title: 'Guantes de Invierno Calientes Impermeabl'
 date: 2020-01-07 21:16:05
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H71LcW9gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H71LcW9gL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07Z9CZX2Z

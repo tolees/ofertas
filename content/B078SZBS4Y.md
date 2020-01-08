@@ -2,9 +2,9 @@
 layout: post
 title: 'Seiko Reloj Analógico para Hombre de Cua'
 date: 2019/12/16 22:20:54 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iS4pXFo%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iS4pXFo%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078SZBS4Y

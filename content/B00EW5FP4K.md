@@ -2,9 +2,9 @@
 layout: post
 title: 'Nike Revolution 4  GS   Zapatillas de Ru'
 date: 2019/12/21 19:19:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00EW5FP4K

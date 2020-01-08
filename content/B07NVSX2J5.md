@@ -2,9 +2,9 @@
 layout: post
 title: 'Passionata Georgia Sujetador para Camise'
 date: 2019/12/23 17:52:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTqVnE9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTqVnE9fL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NVSX2J5

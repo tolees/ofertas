@@ -2,9 +2,9 @@
 layout: post
 title: 'Samsung Galaxy A9  Single SIM  128GB 6.3'
 date: 2019/12/29 14:48:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TQXsqwjeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TQXsqwjeL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JWJQYPJ

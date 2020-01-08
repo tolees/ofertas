@@ -2,9 +2,9 @@
 layout: post
 title: 'H0_V 522Teile 2.4GHz RC Modell Geländewa'
 date: 2019/12/22 17:46:39 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rgAZ2sBSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rgAZ2sBSL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B082WYY4DT

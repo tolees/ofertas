@@ -2,9 +2,9 @@
 layout: post
 title: 'Amilril Collar  Amor Corazon Colgantes M'
 date: 2019/12/19 09:36:39 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XXPHlXDDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XXPHlXDDL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QYR59CW

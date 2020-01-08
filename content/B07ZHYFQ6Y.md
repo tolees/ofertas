@@ -2,9 +2,9 @@
 layout: post
 title: 'Olymstars Corrector Postura Espalda - Co'
 date: 2019/12/25 18:01:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fHMSF610L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fHMSF610L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07ZHYFQ6Y

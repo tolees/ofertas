@@ -2,9 +2,9 @@
 layout: post
 title: 'AmazonBasics - Carcasas transparente par'
 date: 2019/12/30 16:50:27 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HSGUUSdQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HSGUUSdQL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B009YQ8BTI

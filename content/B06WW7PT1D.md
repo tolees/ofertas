@@ -2,9 +2,9 @@
 layout: post
 title: 'Goonies / Gremlins / Gremlins 2 [Edizion'
 date: 2020-01-03 20:03:30
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06WW7PT1D

@@ -2,9 +2,9 @@
 layout: post
 title: 'GoPetee Fundas Perro para Coche Resisten'
 date: 2019/12/15 18:52:27 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Txo-Z10fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Txo-Z10fL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07F9M9DGQ

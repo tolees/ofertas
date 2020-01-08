@@ -2,9 +2,9 @@
 layout: post
 title: 'Regatta - Forro Polar con Capucha y Crem'
 date: 2019/12/23 15:42:59 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4160i0stdPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4160i0stdPL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DGHC6VN

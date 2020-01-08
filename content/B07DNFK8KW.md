@@ -2,9 +2,9 @@
 layout: post
 title: 'Calcetines de Tenis Performance Crew 3 P'
 date: 2019/12/26 20:45:24 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DNFK8KW

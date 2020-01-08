@@ -2,9 +2,9 @@
 layout: post
 title: 'Salomon Trailblazer Mochila de Senderism'
 date: 2019/12/13 11:21:22 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313-RN3wkyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313-RN3wkyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07F6RS5NV

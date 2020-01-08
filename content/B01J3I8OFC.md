@@ -2,9 +2,9 @@
 layout: post
 title: 'Epson C11CF54402  Expression Premium XP-'
 date: 2019/12/16 20:41:51 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hdtmGHFWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hdtmGHFWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01J3I8OFC

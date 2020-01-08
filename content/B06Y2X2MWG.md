@@ -2,9 +2,9 @@
 layout: post
 title: 'Petcomer Mochila Cápsula Impermeable Tra'
 date: 2019/12/28 22:12:44 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kXzEFc5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kXzEFc5UL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B06Y2X2MWG

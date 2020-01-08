@@ -2,9 +2,9 @@
 layout: post
 title: 'Seiko Reloj de Pulsera SUP857P1'
 date: 2019/12/20 01:05:10 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lZ69pXeGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lZ69pXeGL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NNT69LV

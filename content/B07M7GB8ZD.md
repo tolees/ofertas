@@ -2,9 +2,9 @@
 layout: post
 title: 'Pilas AA Recargable POWEROWL Alta Capaci'
 date: 2020-01-03 16:05:27
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DJPlxe%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DJPlxe%2B4L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07M7GB8ZD

@@ -2,9 +2,9 @@
 layout: post
 title: 'San Ignacio PK329 Set Juego de Tres sart'
 date: 2019/12/14 00:40:58 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sMuQmjk2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sMuQmjk2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MU3K7IP

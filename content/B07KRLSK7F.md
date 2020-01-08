@@ -2,9 +2,9 @@
 layout: post
 title: 'New Balance 373  Zapatillas para Mujer  '
 date: 2020-01-02 17:05:46
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KRLSK7F

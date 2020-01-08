@@ -2,9 +2,9 @@
 layout: post
 title: 'BAITITON 2.5 inch SATA III Internal Soli'
 date: 2020-01-04 10:12:22
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07P6ZC3HY

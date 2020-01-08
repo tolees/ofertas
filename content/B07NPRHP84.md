@@ -2,9 +2,9 @@
 layout: post
 title: 'Stenso Chaqueta Chaleco de Trabajo Multi'
 date: 2020-01-05 22:53:00
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418hZ-nfD3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418hZ-nfD3L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NPRHP84

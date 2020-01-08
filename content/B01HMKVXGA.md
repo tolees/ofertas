@@ -2,9 +2,9 @@
 layout: post
 title: 'Calvin Klein Deep Euphoria Agua de Perfu'
 date: 2020-01-01 11:04:04
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01HMKVXGA

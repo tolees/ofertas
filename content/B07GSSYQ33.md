@@ -2,9 +2,9 @@
 layout: post
 title: 'Sjpzwcrl para GoPro Bolso  Protectora Mi'
 date: 2019/12/18 19:09:05 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S02SC0cfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S02SC0cfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GSSYQ33

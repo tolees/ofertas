@@ -2,9 +2,9 @@
 layout: post
 title: 'YAZILIND antigüedad de la Vendimia del B'
 date: 2019/12/19 09:29:36 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pMw%2BeJVJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pMw%2BeJVJL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00LB5NSR0

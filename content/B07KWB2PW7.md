@@ -2,9 +2,9 @@
 layout: post
 title: 'Salomon XA Pro 3D W Zapatillas de trail '
 date: 2019/12/18 12:23:02 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B35Fj-m6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B35Fj-m6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KWB2PW7

@@ -2,9 +2,9 @@
 layout: post
 title: 'Amoladoras Angulares 18V Brushless  POPO'
 date: 2019/12/23 09:54:17 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X9uZcs3%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X9uZcs3%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07Z7XBNPB

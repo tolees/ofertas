@@ -2,9 +2,9 @@
 layout: post
 title: 'Skagen Reloj Analógico para Hombre de Cu'
 date: 2020-01-07 11:42:04
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lQD5uqkkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lQD5uqkkL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QFGYFX9

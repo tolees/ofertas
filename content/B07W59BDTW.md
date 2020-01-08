@@ -2,9 +2,9 @@
 layout: post
 title: 'Trust GXT 444 Wayman Auriculares Pro par'
 date: 2019/12/16 14:05:03 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w51SvixJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w51SvixJL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07W59BDTW

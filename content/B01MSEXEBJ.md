@@ -2,9 +2,9 @@
 layout: post
 title: 'Panasonic Wings RP-BTS10E-W- Auriculares'
 date: 2019/12/26 05:08:17 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21VDmZtrJyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21VDmZtrJyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01MSEXEBJ

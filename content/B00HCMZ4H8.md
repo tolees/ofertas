@@ -2,9 +2,9 @@
 layout: post
 title: 'SanDisk Clip Sport 8GB MP3-Player Lime'
 date: 2019/12/14 17:30:13 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2gAxPBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2gAxPBWL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00HCMZ4H8

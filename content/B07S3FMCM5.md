@@ -2,9 +2,9 @@
 layout: post
 title: 'ZUNTO Toallero Adhesivo Toalleros Barra '
 date: 2020-01-01 09:51:59
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nVBQmnmzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nVBQmnmzL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07S3FMCM5

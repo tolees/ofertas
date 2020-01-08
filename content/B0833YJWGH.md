@@ -2,9 +2,9 @@
 layout: post
 title: 'GODNECE Technic Sports Car  RC Race Car '
 date: 2020-01-07 22:40:35
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ug%2BGOXWsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ug%2BGOXWsL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0833YJWGH

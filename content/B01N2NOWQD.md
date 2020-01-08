@@ -2,9 +2,9 @@
 layout: post
 title: 'Easton Marlowe 6 PR Calcetines Estampado'
 date: 2019/12/25 11:33:33 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SCEPtUNOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SCEPtUNOL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01N2NOWQD

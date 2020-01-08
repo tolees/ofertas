@@ -2,9 +2,9 @@
 layout: post
 title: 'SweetLF Afeitadora Electrica Hombre Máqu'
 date: 2020-01-06 17:09:02
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KueMKD-jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KueMKD-jL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07PHPR96S

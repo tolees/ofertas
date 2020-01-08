@@ -2,9 +2,9 @@
 layout: post
 title: 'SUPRBIRD Guantes Ciclismo MTB Dedo Medio'
 date: 2020-01-02 17:37:41
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jo317uPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jo317uPZL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RM5B4HB

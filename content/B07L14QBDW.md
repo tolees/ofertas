@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour Rival Fleece LC Logo Novelt'
 date: 2019/12/17 13:49:38 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Oo6D2a40L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Oo6D2a40L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07L14QBDW

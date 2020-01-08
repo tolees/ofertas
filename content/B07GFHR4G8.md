@@ -2,9 +2,9 @@
 layout: post
 title: 'Victure Reproductor MP3 MP4 Bluetooth 4.'
 date: 2019/12/20 09:07:43 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4126DXs3jyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4126DXs3jyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GFHR4G8

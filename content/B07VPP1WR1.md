@@ -2,9 +2,9 @@
 layout: post
 title: 'UTTORA Coche Teledirigido   Coches RC de'
 date: 2020-01-07 06:41:24
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5102Lve9d5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5102Lve9d5L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07VPP1WR1

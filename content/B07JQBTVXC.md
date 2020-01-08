@@ -2,9 +2,9 @@
 layout: post
 title: 'JACK & JONES NOS Jjitom Jjoriginal Am 81'
 date: 2020-01-07 13:58:23
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BmQjZhKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E%2BmQjZhKL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JQBTVXC

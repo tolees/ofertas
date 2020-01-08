@@ -2,9 +2,9 @@
 layout: post
 title: 'New Balance 373 Zapatillas Hombre  Negro'
 date: 2019/12/27 12:16:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uMgS3ThbL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HFZV6ZZ

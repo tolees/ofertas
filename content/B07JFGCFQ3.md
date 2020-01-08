@@ -2,9 +2,9 @@
 layout: post
 title: 'Lacoste HH9553 Pantalones  Beige  Vienno'
 date: 2020-01-08 10:57:17
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JFGCFQ3

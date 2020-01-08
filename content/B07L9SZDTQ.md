@@ -2,9 +2,9 @@
 layout: post
 title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatilla'
 date: 2020-01-07 18:25:46
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07L9SZDTQ

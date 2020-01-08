@@ -2,9 +2,9 @@
 layout: post
 title: 'Wrangler Vaqueros Skinny para Mujer  Azu'
 date: 2019/12/30 07:27:01 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413gLhYrKUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413gLhYrKUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07JLQDKZS

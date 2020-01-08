@@ -2,9 +2,9 @@
 layout: post
 title: 'De Longhi Dolce Gusto Jovia EDG250.R - C'
 date: 2019/12/26 19:37:14 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411HbwBpj8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411HbwBpj8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00J5ERY7O

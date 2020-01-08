@@ -2,9 +2,9 @@
 layout: post
 title: 'find. Blusa de Lunares con Hombros al Ai'
 date: 2019/12/27 18:44:03 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YmPnOT2qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YmPnOT2qL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01N5FOWXL

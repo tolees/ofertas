@@ -2,9 +2,9 @@
 layout: post
 title: 'Yifen Base de Carga 4 en 1 de Silicona p'
 date: 2020-01-01 21:14:10
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T9Ig7KN6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T9Ig7KN6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07GKZX9RW

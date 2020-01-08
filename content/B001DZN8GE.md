@@ -2,9 +2,9 @@
 layout: post
 title: 'Epson Durabrite Ultra Ink para Stylus SX'
 date: 2019/12/23 03:34:24 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jHTUZtLfL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B001DZN8GE

@@ -2,9 +2,9 @@
 layout: post
 title: 'Maletín de Herramientas  102 Kit Caja He'
 date: 2020-01-05 11:47:59
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5194rrJhgYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5194rrJhgYL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07S39KBLP

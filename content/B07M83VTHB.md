@@ -2,9 +2,9 @@
 layout: post
 title: 'Napapijri Serber WOM Camiseta  Azul  BLU'
 date: 2019/12/24 14:39:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31feSirSEsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31feSirSEsL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07M83VTHB

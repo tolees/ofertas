@@ -2,9 +2,9 @@
 layout: post
 title: 'MisterCraft D de 216 - Maqueta de devoit'
 date: 2020-01-03 18:45:59
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517LQvngqjL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01LZDCMKV

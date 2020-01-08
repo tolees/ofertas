@@ -2,9 +2,9 @@
 layout: post
 title: 'Olay Total Effects Whip Crema Hidratante'
 date: 2019/12/18 19:09:05 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ArDLs-tXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ArDLs-tXL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KXKFXWD

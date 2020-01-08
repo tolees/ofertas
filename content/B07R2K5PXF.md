@@ -2,9 +2,9 @@
 layout: post
 title: 'Soporte Vertical Portátil Dual CouHap Al'
 date: 2020-01-01 07:03:31
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31urSKB5W4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31urSKB5W4L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07R2K5PXF

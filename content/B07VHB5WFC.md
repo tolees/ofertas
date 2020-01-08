@@ -2,9 +2,9 @@
 layout: post
 title: 'Sntieecr 6 Set DC Motors Kit  Mini Elect'
 date: 2019/12/30 09:30:04 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OJ44QCMVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OJ44QCMVL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07VHB5WFC

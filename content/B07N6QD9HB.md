@@ -2,9 +2,9 @@
 layout: post
 title: 'New Look Honeycomb 6066788 suéter  Azul '
 date: 2019/12/23 14:49:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3125mxxL-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3125mxxL-pL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07N6QD9HB

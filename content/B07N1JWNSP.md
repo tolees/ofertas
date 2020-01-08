@@ -2,9 +2,9 @@
 layout: post
 title: 'Clarks Sheer Rose  Zapatos de Tacón para'
 date: 2019/12/13 10:33:09 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HHaAktLjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HHaAktLjL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07N1JWNSP

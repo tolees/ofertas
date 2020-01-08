@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour Rapid  Zapatillas de Runnin'
 date: 2019/12/11 21:17:51 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41al01NF8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41al01NF8GL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01N0LSHF9

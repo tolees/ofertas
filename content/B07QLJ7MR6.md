@@ -2,9 +2,9 @@
 layout: post
 title: ' Mochila vintage de cuero unisex | Hecho'
 date: 2019/12/17 09:27:21 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V9SW77vpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V9SW77vpL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07QLJ7MR6

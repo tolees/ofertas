@@ -2,9 +2,9 @@
 layout: post
 title: 'ZOUNICH Botella Agua Deporte Botellas Ag'
 date: 2019/12/20 03:20:11 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BSrK3D6sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BSrK3D6sL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07D2DDCYK

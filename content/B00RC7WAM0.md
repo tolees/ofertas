@@ -2,9 +2,9 @@
 layout: post
 title: 'Sports Cars Top Trumps Card Game'
 date: 2020-01-03 14:19:13
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UmAymvRpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UmAymvRpL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00RC7WAM0

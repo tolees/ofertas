@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko 9298 S1 No Actionfigur Games: Over'
 date: 2020-01-05 22:49:05
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fdzydcj6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fdzydcj6L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01CDEXBEC

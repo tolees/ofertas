@@ -2,9 +2,9 @@
 layout: post
 title: 'Skechers Dyna-Air  Zapatillas para Hombr'
 date: 2019/12/29 22:00:26 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411UxUaYksL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411UxUaYksL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NZY94KW

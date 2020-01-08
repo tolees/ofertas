@@ -2,9 +2,9 @@
 layout: post
 title: 'Geographical Norway Parka Hombre Boomera'
 date: 2019/12/27 10:19:25 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B081CN9WRS

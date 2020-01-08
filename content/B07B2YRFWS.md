@@ -2,9 +2,9 @@
 layout: post
 title: 'Corsair Vengeance RGB - Kit de Memoria E'
 date: 2019/12/23 23:28:34 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QZ%2BI45BFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QZ%2BI45BFL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07B2YRFWS

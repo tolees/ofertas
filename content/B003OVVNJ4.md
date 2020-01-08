@@ -2,9 +2,9 @@
 layout: post
 title: 'Blecua - Vino D.O. Somontano - 750 ml'
 date: 2019/12/18 08:09:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ixaHy%2BHnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ixaHy%2BHnL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B003OVVNJ4

@@ -2,9 +2,9 @@
 layout: post
 title: 'Dunlop OMEGA - Pala de pádel 38mm  2017 '
 date: 2019/12/22 12:35:31 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515QcEClkhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515QcEClkhL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B072FKRR4L

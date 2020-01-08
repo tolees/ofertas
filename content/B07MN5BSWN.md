@@ -2,9 +2,9 @@
 layout: post
 title: 'Braun BT7040 - Recortadora Barba y Corta'
 date: 2019/12/18 08:58:21 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nDjJFIUAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nDjJFIUAL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MN5BSWN

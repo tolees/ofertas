@@ -2,9 +2,9 @@
 layout: post
 title: 'Dremel Versatip 2000 - Pirograbador a ga'
 date: 2020-01-02 18:50:57
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S19xM0LLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S19xM0LLL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B000QGC6XW

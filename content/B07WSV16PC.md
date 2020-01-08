@@ -2,9 +2,9 @@
 layout: post
 title: 'Awroutdoor Organizadores para Asientos d'
 date: 2019/12/20 09:18:40 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VM1U1NY%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VM1U1NY%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07WSV16PC

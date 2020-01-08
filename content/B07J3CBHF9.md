@@ -2,9 +2,9 @@
 layout: post
 title: 'Under Armour Undeniable Duffel 4.0 MD Bo'
 date: 2019/12/17 09:10:45 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnKa4uIrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xnKa4uIrL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07J3CBHF9

@@ -2,9 +2,9 @@
 layout: post
 title: 'Smart Panda Calendario Magnético para Ne'
 date: 2020-01-08 08:48:43
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510ithvINLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510ithvINLL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01N6WQJFW

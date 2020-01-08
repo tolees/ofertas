@@ -2,9 +2,9 @@
 layout: post
 title: 'Calvin Klein Fixed Triangle-rp Top de Bi'
 date: 2020-01-03 20:56:03
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LpHzQbR3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LpHzQbR3L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LBVV5FF

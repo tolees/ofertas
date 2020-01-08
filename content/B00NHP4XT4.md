@@ -2,9 +2,9 @@
 layout: post
 title: 'Calvin Klein 000NB1042A  Calzoncillos Pa'
 date: 2019/12/27 17:33:57 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bBDaYqb0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bBDaYqb0L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00NHP4XT4

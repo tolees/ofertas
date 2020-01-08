@@ -2,9 +2,9 @@
 layout: post
 title: 'Clarks Oliver Cap  Zapatos de Cordones D'
 date: 2019/12/27 10:33:10 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41809CAF9ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41809CAF9ZL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MJ7FF7N

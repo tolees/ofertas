@@ -2,9 +2,9 @@
 layout: post
 title: 'Máscara para los ojos  Parches para los '
 date: 2019/12/19 12:12:34 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61wVto9IpcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61wVto9IpcL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07BGWYZXH

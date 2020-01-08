@@ -2,9 +2,9 @@
 layout: post
 title: 'New Balance Fuel Core 5000  Zapatillas D'
 date: 2019/12/28 08:21:28 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g3C9MY%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g3C9MY%2B2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DJ4XPSW

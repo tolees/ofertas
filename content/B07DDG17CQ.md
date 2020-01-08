@@ -2,9 +2,9 @@
 layout: post
 title: 'Antirrobo Mochila para Portátil  Imperme'
 date: 2019/12/22 02:07:22 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PUqdIM48L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PUqdIM48L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DDG17CQ

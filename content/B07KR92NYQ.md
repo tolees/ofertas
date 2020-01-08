@@ -2,9 +2,9 @@
 layout: post
 title: 'GRANDI GIOCHI Great Games LLD21000  Watc'
 date: 2020-01-08 06:13:39
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ww3%2BotZPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ww3%2BotZPL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KR92NYQ

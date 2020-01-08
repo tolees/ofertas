@@ -2,9 +2,9 @@
 layout: post
 title: 'Logitech Bluetooth Receiver/Bluetooth Au'
 date: 2020-01-05 22:10:33
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318b0LlRfaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318b0LlRfaL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00IJYG4FY

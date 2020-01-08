@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko - POP! Vinilo Colección Juego de t'
 date: 2020-01-07 22:57:14
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416KbfPjDwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416KbfPjDwL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B009B0YWDG

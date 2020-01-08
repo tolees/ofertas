@@ -2,9 +2,9 @@
 layout: post
 title: 'Fitbit Ionic  El Smartwatch Deportivo  A'
 date: 2019/12/27 19:01:51 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlSXP2R9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlSXP2R9L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B074KBLR8Y

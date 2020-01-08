@@ -2,9 +2,9 @@
 layout: post
 title: 'TECLAST Tablet PC P10HD 10.1   8 núcleos'
 date: 2019/12/31 07:38:30 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RYCkHcFUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RYCkHcFUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07Z7LKGPD

@@ -2,9 +2,9 @@
 layout: post
 title: 'NICOLE&DORIS Elegante Tote Bolsos de Man'
 date: 2019/12/15 19:13:50 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZZ1PIZ8LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZZ1PIZ8LL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B073PRKZNX

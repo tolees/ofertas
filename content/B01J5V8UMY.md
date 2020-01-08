@@ -2,9 +2,9 @@
 layout: post
 title: 'Vicloon Ice Queen Elsa Princess Deluxe F'
 date: 2019/12/12 20:36:34 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Uj8K44U-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Uj8K44U-L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01J5V8UMY

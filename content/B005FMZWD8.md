@@ -2,9 +2,9 @@
 layout: post
 title: 'Invicta 1513 I-Force Reloj para Hombre a'
 date: 2020-01-03 01:24:37
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qqt%2BVGPjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qqt%2BVGPjL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B005FMZWD8

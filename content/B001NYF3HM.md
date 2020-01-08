@@ -2,9 +2,9 @@
 layout: post
 title: 'Reebok Classic Leather Zapatillas  Mujer'
 date: 2019/12/15 12:27:54 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B001NYF3HM

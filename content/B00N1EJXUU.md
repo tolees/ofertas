@@ -2,9 +2,9 @@
 layout: post
 title: 'Funko Pop!- Bailando Figura de Vinilo Da'
 date: 2020-01-07 22:57:39
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Un%2BjYSMNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Un%2BjYSMNL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00N1EJXUU

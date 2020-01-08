@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox J Xunday Boy A  Botas Chukka para N'
 date: 2020-01-02 18:42:13
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0792DXZBC

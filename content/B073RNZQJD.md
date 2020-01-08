@@ -2,9 +2,9 @@
 layout: post
 title: 'Helly Hansen Logo Hoodie Sudadera con Ca'
 date: 2019/12/27 09:10:46 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Qc2X4ofL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Qc2X4ofL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B073RNZQJD

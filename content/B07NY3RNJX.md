@@ -2,9 +2,9 @@
 layout: post
 title: 'Superdry OL Elite Crew Sudadera  Morado '
 date: 2019/12/30 16:01:03 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HBhwJH9gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HBhwJH9gL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NY3RNJX

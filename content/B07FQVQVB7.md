@@ -2,9 +2,9 @@
 layout: post
 title: 'GANT FOOTWEAR New Haven  Zapatillas para'
 date: 2020-01-05 23:54:57
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SN1vdH7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SN1vdH7oL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FQVQVB7

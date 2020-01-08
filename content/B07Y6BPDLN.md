@@ -2,9 +2,9 @@
 layout: post
 title: '【2019 Nuevo Versión】 Auriculares Inalamb'
 date: 2020-01-07 07:56:38
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TIWQjfbjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TIWQjfbjL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07Y6BPDLN

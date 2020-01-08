@@ -2,9 +2,9 @@
 layout: post
 title: 'URAQT Drisfraz Lady Bug Vestido Infantil'
 date: 2019/12/27 18:35:37 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KW2PPH2

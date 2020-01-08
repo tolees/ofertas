@@ -2,9 +2,9 @@
 layout: post
 title: 'Disney Frozen - Cuerda de Saltar  Smoby '
 date: 2020-01-08 06:45:51
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AaBvhViiL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00X5RP6HW

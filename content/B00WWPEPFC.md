@@ -2,9 +2,9 @@
 layout: post
 title: 'Jack and Jones Sense Trunks 3-Pack Bóxer'
 date: 2020-01-07 08:03:08
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NIzH1wa5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NIzH1wa5L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00WWPEPFC

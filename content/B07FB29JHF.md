@@ -2,9 +2,9 @@
 layout: post
 title: 'Seiko Reloj Cronografo para Hombre de Cu'
 date: 2020-01-07 21:25:39
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XwegfSygL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XwegfSygL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07FB29JHF

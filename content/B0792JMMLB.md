@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox U NORWOLK B  Botas Chukka para Homb'
 date: 2020-01-04 11:08:04
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0792JMMLB

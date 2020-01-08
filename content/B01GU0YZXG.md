@@ -2,9 +2,9 @@
 layout: post
 title: 'Boohoo Petite Sarah Mid Rise Mom  Azul  '
 date: 2019/12/13 15:18:12 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dfr-tGrQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dfr-tGrQL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01GU0YZXG

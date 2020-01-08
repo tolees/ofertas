@@ -2,9 +2,9 @@
 layout: post
 title: 'T-EQUIP PSC-130MSRT - Carro de armario u'
 date: 2020-01-02 20:05:19
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417U7grZI2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417U7grZI2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00XWHYGVW

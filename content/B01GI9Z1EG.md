@@ -2,9 +2,9 @@
 layout: post
 title: 'Reloj - Casio - para - AE-1000W-1A3VCF'
 date: 2020-01-08 01:29:13
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uzXOrCuhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uzXOrCuhL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01GI9Z1EG

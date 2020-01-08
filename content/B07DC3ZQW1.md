@@ -2,9 +2,9 @@
 layout: post
 title: 'XP-PEN Deco 02 Tableta de Dibujo Gráfico'
 date: 2019/12/26 14:18:08 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IzDXipkeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IzDXipkeL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07DC3ZQW1

@@ -2,9 +2,9 @@
 layout: post
 title: 'Smokies Hombres Zapato de Novia Charlie '
 date: 2020-01-07 17:28:13
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uyRJ0BeBL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00LIXTM6G

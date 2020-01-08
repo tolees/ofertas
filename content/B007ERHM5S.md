@@ -2,9 +2,9 @@
 layout: post
 title: 'LEATHERMAN Rebar  Funda Nylon  Caja cart'
 date: 2019/12/13 09:48:56 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R259Gb01L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R259Gb01L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B007ERHM5S

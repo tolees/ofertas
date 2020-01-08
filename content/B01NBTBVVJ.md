@@ -2,9 +2,9 @@
 layout: post
 title: 'Grsta Muñequera Magnetica Con 15 Potente'
 date: 2020-01-06 15:33:28
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FCJvXYKML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FCJvXYKML._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01NBTBVVJ

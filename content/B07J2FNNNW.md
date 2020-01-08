@@ -2,9 +2,9 @@
 layout: post
 title: 'Martina Home Tunez Funda sofá Duplex  Mo'
 date: 2020-01-07 18:47:41
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MTWiD-vyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MTWiD-vyL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07J2FNNNW

@@ -2,9 +2,9 @@
 layout: post
 title: 'Rieker Hombre Botines B1340  de Caballer'
 date: 2020-01-08 11:49:15
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418-9muJ0pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418-9muJ0pL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01EIJNWS0

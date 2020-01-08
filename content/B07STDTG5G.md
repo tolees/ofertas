@@ -2,9 +2,9 @@
 layout: post
 title: 'Oral-B PRO 1 200 Elektrische Zahnbürste '
 date: 2019/12/12 00:13:31 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WScvs%2B7QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WScvs%2B7QL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07STDTG5G

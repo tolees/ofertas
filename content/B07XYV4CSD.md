@@ -2,9 +2,9 @@
 layout: post
 title: 'Banda Reflectante 4 Luz Running Brazalet'
 date: 2019/12/29 17:41:26 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VCDSO45fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VCDSO45fL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07XYV4CSD

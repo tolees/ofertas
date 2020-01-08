@@ -2,9 +2,9 @@
 layout: post
 title: 'G-STAR RAW Graphic 14 Core Hooded Sudade'
 date: 2020-01-07 18:54:25
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b9mW1gAHL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NDNVQWN

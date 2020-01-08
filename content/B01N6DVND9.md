@@ -2,9 +2,9 @@
 layout: post
 title: 'Honeywell 6246156-42/7 Bacou Marsh AMG  '
 date: 2019/12/13 10:59:19 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ymo2fWeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ymo2fWeL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01N6DVND9

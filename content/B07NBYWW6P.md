@@ -2,9 +2,9 @@
 layout: post
 title: 'BOSS Trunk 3p One Design Bóxer   Open Mi'
 date: 2020-01-05 13:35:44
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MwynXMj4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MwynXMj4L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07NBYWW6P

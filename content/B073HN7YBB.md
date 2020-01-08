@@ -2,9 +2,9 @@
 layout: post
 title: 'EPL Match Attax 2017/18 Advent Calendar'
 date: 2019/12/30 15:25:08 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511DzXx5FIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511DzXx5FIL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B073HN7YBB

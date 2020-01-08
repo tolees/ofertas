@@ -2,9 +2,9 @@
 layout: post
 title: 'adidas ESS Lin Fzhoodb Sudadera  Hombre '
 date: 2020-01-07 13:21:23
-comments: true
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
+comments: true
 category: ofertas
 author: ring
 slug: B072NCTMYX

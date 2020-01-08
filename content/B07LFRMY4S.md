@@ -2,9 +2,9 @@
 layout: post
 title: 'Geox U Kristof A  Zapatillas para Hombre'
 date: 2020-01-03 18:36:36
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sAzicCcLL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07LFRMY4S

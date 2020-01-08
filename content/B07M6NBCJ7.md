@@ -2,9 +2,9 @@
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Har'
 date: 2020-01-06 14:33:11
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aysrXFldL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aysrXFldL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07M6NBCJ7

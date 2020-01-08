@@ -2,9 +2,9 @@
 layout: post
 title: 'Eastpak Wyoming Mochila Tipo Casual  40 '
 date: 2019/12/14 17:06:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a37Vp1cVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a37Vp1cVL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KXTG39L

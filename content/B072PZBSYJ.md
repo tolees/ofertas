@@ -2,9 +2,9 @@
 layout: post
 title: 'Finether 4 1M Escalera Telescópica de Al'
 date: 2020-01-06 10:36:12
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hrHsQE7HL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B072PZBSYJ

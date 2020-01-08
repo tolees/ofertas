@@ -2,9 +2,9 @@
 layout: post
 title: 'Blaze and the Monster Machines - Camiset'
 date: 2019/12/27 13:45:02 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q9LzmnOqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q9LzmnOqL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01N5FD8PF

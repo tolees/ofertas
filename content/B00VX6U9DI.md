@@ -2,9 +2,9 @@
 layout: post
 title: 'Revlon ColorStay Base de Maquillaje piel'
 date: 2019/12/26 02:11:04 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wYAcRHvjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wYAcRHvjL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00VX6U9DI

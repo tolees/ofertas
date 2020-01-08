@@ -2,9 +2,9 @@
 layout: post
 title: 'Desigual 19WAXAAQ - Bolso de hombro de S'
 date: 2019/12/16 21:23:39 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fF6QVEKUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fF6QVEKUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MXWJS74

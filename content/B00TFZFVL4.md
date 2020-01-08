@@ -2,9 +2,9 @@
 layout: post
 title: 'Einhell 4430619 TC-AG 125 - Radial angul'
 date: 2019-12-31 20:39:08
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412HqxvjoEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412HqxvjoEL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00TFZFVL4

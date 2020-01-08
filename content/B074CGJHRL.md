@@ -2,9 +2,9 @@
 layout: post
 title: 'TW Steel - Reloj de pulsera edición Marc'
 date: 2019/12/15 00:36:41 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XsXkeZKsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XsXkeZKsL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B074CGJHRL

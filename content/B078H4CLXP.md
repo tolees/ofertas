@@ -2,9 +2,9 @@
 layout: post
 title: 'CRSM by Carisma - Abrigo - Trenca - para'
 date: 2020-01-07 23:26:26
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QGivEi9nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QGivEi9nL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078H4CLXP

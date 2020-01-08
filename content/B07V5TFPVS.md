@@ -2,9 +2,9 @@
 layout: post
 title: 'Juego de 5 pulseras de plata para mujer '
 date: 2019/12/14 09:26:33 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4101d2640EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4101d2640EL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07V5TFPVS

@@ -2,9 +2,9 @@
 layout: post
 title: 'Camión Transportador Coches Juguete para'
 date: 2019/12/28 15:33:16 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KkJXT8tlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KkJXT8tlL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07G2GN1KH

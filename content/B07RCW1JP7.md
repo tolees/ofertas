@@ -2,9 +2,9 @@
 layout: post
 title: 'TEENO Moviles Libres 4G 6.2 Pulgadas 3GB'
 date: 2019/12/11 19:02:48 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t%2BMdQLVwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t%2BMdQLVwL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07RCW1JP7

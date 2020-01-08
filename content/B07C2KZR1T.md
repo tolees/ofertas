@@ -2,9 +2,9 @@
 layout: post
 title: 'Swiss Alpine Military by Grovana Hombre '
 date: 2020-01-01 23:56:16
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jsU4a4HUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jsU4a4HUL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07C2KZR1T

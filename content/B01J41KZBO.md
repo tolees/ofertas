@@ -2,9 +2,9 @@
 layout: post
 title: 'LEGO STAR WARS - Chirrut Îmwe  75524 '
 date: 2020-01-07 15:08:03
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B01J41KZBO

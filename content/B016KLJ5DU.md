@@ -2,9 +2,9 @@
 layout: post
 title: 'Einhell  TC-AG 125 Kit 4430624 - Amolado'
 date: 2020-01-04 12:57:53
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DEgf0d1vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DEgf0d1vL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B016KLJ5DU

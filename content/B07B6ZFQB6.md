@@ -2,9 +2,9 @@
 layout: post
 title: 'New Balance 247v2  Zapatillas para Mujer'
 date: 2019/12/18 22:36:43 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GzZWDhliL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GzZWDhliL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07B6ZFQB6

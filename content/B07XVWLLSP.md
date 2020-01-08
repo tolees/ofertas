@@ -2,9 +2,9 @@
 layout: post
 title: 'Microsoft Surface Laptop 3  15 Zoll Lapt'
 date: 2019/12/17 17:15:19 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318PJtygs3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318PJtygs3L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07XVWLLSP

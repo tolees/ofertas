@@ -2,9 +2,9 @@
 layout: post
 title: 'Playmobil 9427 City Life Wedding Carriag'
 date: 2020-01-01 06:12:28
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61esAw31c8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61esAw31c8L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B0766DJPRQ

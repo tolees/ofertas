@@ -2,9 +2,9 @@
 layout: post
 title: 'Samyang F1111006101 - Objetivo fotográfi'
 date: 2020-01-07 13:08:54
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dp6GfivAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dp6GfivAL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B00IN2C8KC

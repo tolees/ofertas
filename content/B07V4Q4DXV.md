@@ -2,9 +2,9 @@
 layout: post
 title: 'J.Endéar Pulsera Forma de Inicial R  Pla'
 date: 2019/12/12 10:20:29 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dHFqnH0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dHFqnH0kL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07V4Q4DXV

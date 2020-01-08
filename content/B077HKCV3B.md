@@ -2,9 +2,9 @@
 layout: post
 title: 'find. MDR 40625 vestidos mujer  Verde  G'
 date: 2019/12/21 10:03:08 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bRRxe9GIL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B077HKCV3B

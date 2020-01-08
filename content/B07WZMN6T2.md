@@ -2,9 +2,9 @@
 layout: post
 title: 'BOYOU Guantes de Ciclismo a Prueba de Vi'
 date: 2020-01-03 17:36:44
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bM4PrsNzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bM4PrsNzL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07WZMN6T2

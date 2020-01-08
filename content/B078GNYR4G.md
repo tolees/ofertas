@@ -2,9 +2,9 @@
 layout: post
 title: 'Brother DCP-L2510D A4 Mono Laser Printer'
 date: 2020-01-02 11:44:07
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B078GNYR4G

@@ -2,9 +2,9 @@
 layout: post
 title: 'Cámara de Video Videocámara Full HD 1080'
 date: 2019/12/31 09:12:34 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vlRwtWhaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vlRwtWhaL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07TJ3SNM1

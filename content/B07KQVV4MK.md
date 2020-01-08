@@ -2,9 +2,9 @@
 layout: post
 title: 'L.O.L. Surprise! 59045 Stickerbuch  Mehr'
 date: 2019/12/16 23:35:11 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514CpD-HF2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514CpD-HF2L._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07KQVV4MK

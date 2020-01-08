@@ -2,9 +2,9 @@
 layout: post
 title: 'VBIGER Riñonera Running para Botellas de'
 date: 2019/12/27 20:50:33 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411RQwAUz%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411RQwAUz%2BL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07WDKMGP7

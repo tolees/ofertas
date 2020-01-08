@@ -2,9 +2,9 @@
 layout: post
 title: 'Luz de botella de LED  9x 20 Luz de bote'
 date: 2019/12/13 16:20:17 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ks0TAt0hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ks0TAt0hL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HHRMHVG
