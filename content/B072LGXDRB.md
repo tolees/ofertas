@@ -14,10 +14,10 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Armour Fly Fast Capri Leggings  Mujer  Negro  Black/Reflective 001   S](https://www.amazon.com/dp/B072LGXDRB/?tag=redken08-20) a 24.73 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [Under Armour Armour Fly Fast Capri Leggings  Mujer  Negro  Black/Reflective 001   S](https://www.amazon.com/dp/B072LGXDRB/?tag=redken08-20) por 24.73 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nfT4Pf49L._SL200_.jpg)](https://www.amazon.com/dp/B072LGXDRB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B072LGXDRB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B072LGXDRB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

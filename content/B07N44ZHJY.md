@@ -14,10 +14,10 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hackett New Classic Polo  Gris  Light Grey Marl 913   Small para Hombre](https://www.amazon.com/dp/B07N44ZHJY/?tag=redken08-20) a 32.68 EUR (original: 95 EUR) en el siguiente enlace!
+Tienes [Hackett New Classic Polo  Gris  Light Grey Marl 913   Small para Hombre](https://www.amazon.com/dp/B07N44ZHJY/?tag=redken08-20) a precio de oferta de 32.68 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qPujWoeJL._SL200_.jpg)](https://www.amazon.com/dp/B07N44ZHJY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07N44ZHJY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07N44ZHJY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

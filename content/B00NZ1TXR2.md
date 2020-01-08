@@ -14,10 +14,10 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Timeline - Ciencia y Descubrimientos  Juego de Cartas   TIM02ES ](https://www.amazon.com/dp/B00NZ1TXR2/?tag=redken08-20) a 9.7 EUR (original: 12.99 EUR) en el siguiente enlace!
+Tienes [Timeline - Ciencia y Descubrimientos  Juego de Cartas   TIM02ES ](https://www.amazon.com/dp/B00NZ1TXR2/?tag=redken08-20) a precio de oferta de 9.7 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BcAUg1FtL._SL200_.jpg)](https://www.amazon.com/dp/B00NZ1TXR2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00NZ1TXR2/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00NZ1TXR2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

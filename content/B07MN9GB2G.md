@@ -14,10 +14,10 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   XL](https://www.amazon.com/dp/B07MN9GB2G/?tag=redken08-20) a 16.66 EUR (original: 30 EUR) en el siguiente enlace!
+Está [The North Face S/S Peak tee Camiseta de Manga Corta  Hombre  Negro  TNF Black   XL](https://www.amazon.com/dp/B07MN9GB2G/?tag=redken08-20) por 16.66 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XRKf2JWdL._SL200_.jpg)](https://www.amazon.com/dp/B07MN9GB2G/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07MN9GB2G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MN9GB2G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

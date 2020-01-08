@@ -14,10 +14,10 @@ comparePrice: 19.32 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Color Copy CCA4120 - Pack de 250 hojas  120 g  A4](https://www.amazon.com/dp/B00ET4CZCE/?tag=redken08-20) a 10.15 EUR (original: 19.32 EUR) en el siguiente enlace!
+Tienes [Color Copy CCA4120 - Pack de 250 hojas  120 g  A4](https://www.amazon.com/dp/B00ET4CZCE/?tag=redken08-20) a precio de oferta de 10.15 EUR (original: 19.32 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BYJZb78ML._SL200_.jpg)](https://www.amazon.com/dp/B00ET4CZCE/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00ET4CZCE/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00ET4CZCE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

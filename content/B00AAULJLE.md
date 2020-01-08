@@ -14,10 +14,10 @@ comparePrice: 1929 EUR
 inStock: true
 ---
 
-Está [Canon EOS 6D - Cámara réflex Digital de 20.2 MP  Pantalla 3.2"  vídeo Full HD  GPS   Color Negro - Solo Cuerpo](https://www.amazon.com/dp/B00AAULJLE/?tag=redken08-20) por 1065 EUR (original: 1929 EUR) en el siguiente enlace!
+Tienes [Canon EOS 6D - Cámara réflex Digital de 20.2 MP  Pantalla 3.2"  vídeo Full HD  GPS   Color Negro - Solo Cuerpo](https://www.amazon.com/dp/B00AAULJLE/?tag=redken08-20) a precio de oferta de 1065 EUR (original: 1929 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jnJpZbKIL._SL200_.jpg)](https://www.amazon.com/dp/B00AAULJLE/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00AAULJLE/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00AAULJLE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

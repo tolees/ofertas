@@ -14,10 +14,10 @@ comparePrice: 8.57 EUR
 inStock: true
 ---
 
-Está [Staedtler Textsurfer Classic - Pack de 6 Subrayadores Pastel Vintage](https://www.amazon.com/dp/B07MCGPLQW/?tag=redken08-20) por 5.99 EUR (original: 8.57 EUR) en el siguiente enlace!
+Tienes [Staedtler Textsurfer Classic - Pack de 6 Subrayadores Pastel Vintage](https://www.amazon.com/dp/B07MCGPLQW/?tag=redken08-20) a precio de oferta de 5.99 EUR (original: 8.57 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rjYoRnitL._SL200_.jpg)](https://www.amazon.com/dp/B07MCGPLQW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MCGPLQW/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07MCGPLQW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

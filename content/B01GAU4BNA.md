@@ -14,10 +14,10 @@ comparePrice: 145 EUR
 inStock: true
 ---
 
-Tienes [Ralph Lauren POLO 0PH1165 Monturas de gafas  Semi Shiny Black  55 para Hombre](https://www.amazon.com/dp/B01GAU4BNA/?tag=redken08-20) a precio de oferta de 42.48 EUR (original: 145 EUR) en el siguiente enlace!
+Está [Ralph Lauren POLO 0PH1165 Monturas de gafas  Semi Shiny Black  55 para Hombre](https://www.amazon.com/dp/B01GAU4BNA/?tag=redken08-20) por 42.48 EUR (original: 145 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31pYnDJe6sL._SL200_.jpg)](https://www.amazon.com/dp/B01GAU4BNA/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01GAU4BNA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01GAU4BNA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

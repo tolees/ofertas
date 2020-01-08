@@ -14,10 +14,10 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Tienes [Hackett Classic Logo tee Camiseta  Rosa  Dusty Pink 372   X-Large para Hombre](https://www.amazon.com/dp/B07MMFJSQ5/?tag=redken08-20) a precio de oferta de 17.8 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Hackett Classic Logo tee Camiseta  Rosa  Dusty Pink 372   X-Large para Hombre](https://www.amazon.com/dp/B07MMFJSQ5/?tag=redken08-20) por 17.8 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ya8xa%2BEwL._SL200_.jpg)](https://www.amazon.com/dp/B07MMFJSQ5/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07MMFJSQ5/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MMFJSQ5/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

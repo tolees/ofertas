@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Q6471A - Cartucho de tóner'
-date: 2019/12/25 12:37:51 +0000
+date: 2020-01-08 21:02:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg' ]
 comments: true

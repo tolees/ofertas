@@ -14,10 +14,10 @@ comparePrice: 9.05 GBP
 inStock: true
 ---
 
-Está [Funko Pop Star Wars Solo 26979 Tobias Becket](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20) por 2.68 GBP (original: 9.05 GBP) en el siguiente enlace!
+Tienes [Funko Pop Star Wars Solo 26979 Tobias Becket](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20) a precio de oferta de 2.68 GBP (original: 9.05 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Gik6PZXqL._SL200_.jpg)](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B079YFYCL4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Sport Direct SHE16X - Casco de ciclismo BMX integral  55-59 cm  negro](https://www.amazon.com/dp/B005O7EPKK/?tag=redken08-20) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Sport Direct SHE16X - Casco de ciclismo BMX integral  55-59 cm  negro](https://www.amazon.com/dp/B005O7EPKK/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41v7dJR77vL._SL200_.jpg)](https://www.amazon.com/dp/B005O7EPKK/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B005O7EPKK/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B005O7EPKK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brother QL-800 - Impresora de Etiquetas  USB 2.0  Cortador automático  impresión a Negro y Rojo ](https://www.amazon.com/dp/B01MTFTXIA/?tag=redken08-20) a 75.22 EUR (original: 109.99 EUR) en el siguiente enlace!
+Está [Brother QL-800 - Impresora de Etiquetas  USB 2.0  Cortador automático  impresión a Negro y Rojo ](https://www.amazon.com/dp/B01MTFTXIA/?tag=redken08-20) por 75.22 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/315TJu6rW1L._SL200_.jpg)](https://www.amazon.com/dp/B01MTFTXIA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MTFTXIA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MTFTXIA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

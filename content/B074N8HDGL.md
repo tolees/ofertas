@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 7 - Smartphone de 32 GB Col'
-date: 2020-01-05 17:36:25
+date: 2020-01-08 21:01:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51alIVdTysL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51alIVdTysL._SL200_.jpg' ]
 comments: true

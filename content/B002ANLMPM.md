@@ -14,10 +14,10 @@ comparePrice: 19.78 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Vichy Normaderm - tratamientos para machas y acné  Piel grasosa  Anti-acne  Anti-shine  Suavizar  Soothing  Botella  Apply morning or evening with a cotton pad on cleansed skin. ](https://www.amazon.com/dp/B002ANLMPM/?tag=redken08-20) a 12.5 EUR (original: 19.78 EUR) en el siguiente enlace!
+Está [Vichy Normaderm - tratamientos para machas y acné  Piel grasosa  Anti-acne  Anti-shine  Suavizar  Soothing  Botella  Apply morning or evening with a cotton pad on cleansed skin. ](https://www.amazon.com/dp/B002ANLMPM/?tag=redken08-20) por 12.5 EUR (original: 19.78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31pp5-JTmtL._SL200_.jpg)](https://www.amazon.com/dp/B002ANLMPM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B002ANLMPM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B002ANLMPM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

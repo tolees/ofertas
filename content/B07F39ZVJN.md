@@ -14,10 +14,10 @@ comparePrice: 20.65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Guardianes de la Galaxia - Disfraz de Starlord para niños  infantil 3-4 años  Rubie s 630771-S ](https://www.amazon.com/dp/B07F39ZVJN/?tag=redken08-20) a 4.95 EUR (original: 20.65 EUR) en el siguiente enlace!
+Está [Guardianes de la Galaxia - Disfraz de Starlord para niños  infantil 3-4 años  Rubie s 630771-S ](https://www.amazon.com/dp/B07F39ZVJN/?tag=redken08-20) por 4.95 EUR (original: 20.65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41AP-StzpUL._SL200_.jpg)](https://www.amazon.com/dp/B07F39ZVJN/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07F39ZVJN/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07F39ZVJN/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 1510 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MOZA Lite 2 Estabilizador para producción profesional de cine](https://www.amazon.com/dp/B06XPKWBL3/?tag=redken08-20) a 1119 EUR (original: 1510 EUR) en el siguiente enlace!
+Tienes [MOZA Lite 2 Estabilizador para producción profesional de cine](https://www.amazon.com/dp/B06XPKWBL3/?tag=redken08-20) a precio de oferta de 1119 EUR (original: 1510 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zVoSbQp-L._SL200_.jpg)](https://www.amazon.com/dp/B06XPKWBL3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B06XPKWBL3/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06XPKWBL3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

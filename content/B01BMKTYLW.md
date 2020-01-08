@@ -14,10 +14,10 @@ comparePrice: 11.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois Smokey Stories Sombra de ojos Tono nr.12 - 39.5 gr](https://www.amazon.com/dp/B01BMKTYLW/?tag=redken08-20) a 5.71 EUR (original: 11.2 EUR) en el siguiente enlace!
+Está [Bourjois Smokey Stories Sombra de ojos Tono nr.12 - 39.5 gr](https://www.amazon.com/dp/B01BMKTYLW/?tag=redken08-20) por 5.71 EUR (original: 11.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QWLzRhyaL._SL200_.jpg)](https://www.amazon.com/dp/B01BMKTYLW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01BMKTYLW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01BMKTYLW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
