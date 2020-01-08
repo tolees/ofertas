@@ -14,10 +14,10 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance MC Season UPF Polo  Mujer  Gris  Arctic Sky   M](https://www.amazon.com/dp/B07GX7HMTG/?tag=redken08-20) a 25.2 EUR (original: 50 EUR) en el siguiente enlace!
+Está [New Balance MC Season UPF Polo  Mujer  Gris  Arctic Sky   M](https://www.amazon.com/dp/B07GX7HMTG/?tag=redken08-20) por 25.2 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](._SL200_)](https://www.amazon.com/dp/B07GX7HMTG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07GX7HMTG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07GX7HMTG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

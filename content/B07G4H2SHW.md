@@ -14,10 +14,10 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Diesel S-Gir-ya Sweat-Shirt Sudadera  Blanco  Bright White 100   Small para Hombre](https://www.amazon.com/dp/B07G4H2SHW/?tag=redken08-20) a 24.64 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Diesel S-Gir-ya Sweat-Shirt Sudadera  Blanco  Bright White 100   Small para Hombre](https://www.amazon.com/dp/B07G4H2SHW/?tag=redken08-20) por 24.64 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31hxlUNgvZL._SL200_.jpg)](https://www.amazon.com/dp/B07G4H2SHW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07G4H2SHW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07G4H2SHW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

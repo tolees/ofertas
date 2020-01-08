@@ -14,10 +14,10 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [BIOTHERM HOMME T-PUR nettoyant  Gel para limpieza facial  125 ml](https://www.amazon.com/dp/B007EB1UBQ/?tag=redken08-20) a precio de oferta de 16.2 EUR (original: 25 EUR) en el siguiente enlace!
+Está [BIOTHERM HOMME T-PUR nettoyant  Gel para limpieza facial  125 ml](https://www.amazon.com/dp/B007EB1UBQ/?tag=redken08-20) por 16.2 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BQ69qJdpL._SL200_.jpg)](https://www.amazon.com/dp/B007EB1UBQ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B007EB1UBQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B007EB1UBQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

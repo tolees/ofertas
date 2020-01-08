@@ -14,10 +14,10 @@ comparePrice: 429 EUR
 inStock: true
 ---
 
-Está [Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9 CinemaWide  Octa-Core de 1 8 Ghz  4 GB de RAM  64 GB de ROM  cámara dual de 12+8 MP  Android P  Dual Sim   Color Plata [Versión española]](https://www.amazon.com/dp/B07NDVSDF4/?tag=redken08-20) por 309 EUR (original: 429 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony Xperia 10 Plus - Smartphone de 6 5" Full HD+ 21:9 CinemaWide  Octa-Core de 1 8 Ghz  4 GB de RAM  64 GB de ROM  cámara dual de 12+8 MP  Android P  Dual Sim   Color Plata [Versión española]](https://www.amazon.com/dp/B07NDVSDF4/?tag=redken08-20) a 309 EUR (original: 429 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418CviS9TuL._SL200_.jpg)](https://www.amazon.com/dp/B07NDVSDF4/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07NDVSDF4/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07NDVSDF4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

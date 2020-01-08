@@ -14,10 +14,10 @@ comparePrice: 949 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samyang F1110903101 - Objetivo fotográfico DSLR para Nikon  Distancia Focal Fija 24mm  Apertura f/3.5-22 T/S ED AS UMC  diámetro Filtro: 82mm   Negro](https://www.amazon.com/dp/B00D8EGO3M/?tag=redken08-20) a 643 EUR (original: 949 EUR) en el siguiente enlace!
+Tienes [Samyang F1110903101 - Objetivo fotográfico DSLR para Nikon  Distancia Focal Fija 24mm  Apertura f/3.5-22 T/S ED AS UMC  diámetro Filtro: 82mm   Negro](https://www.amazon.com/dp/B00D8EGO3M/?tag=redken08-20) a precio de oferta de 643 EUR (original: 949 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oSY4SurDL._SL200_.jpg)](https://www.amazon.com/dp/B00D8EGO3M/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00D8EGO3M/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00D8EGO3M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

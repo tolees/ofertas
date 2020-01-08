@@ -14,10 +14,10 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Silk Route Spice Company Grinder Gigante di Sale Affumicato da 390g/ 13.8oz](https://www.amazon.com/dp/B076KPKRP1/?tag=redken08-20) a 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!
+Está [Silk Route Spice Company Grinder Gigante di Sale Affumicato da 390g/ 13.8oz](https://www.amazon.com/dp/B076KPKRP1/?tag=redken08-20) por 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zKoCmQOuL._SL200_.jpg)](https://www.amazon.com/dp/B076KPKRP1/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B076KPKRP1/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076KPKRP1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 1749 EUR
 inStock: true
 ---
 
-Tienes [Optoma UHD550X Video - Proyector  2800 lúmenes ANSI  DLP  2160p  3840x2160   16:9  671 8 - 7675 9 mm  26.4 - 302.2"   1 3 - 9 3 m ](https://www.amazon.com/dp/B071PD4CHB/?tag=redken08-20) a precio de oferta de 1089 EUR (original: 1749 EUR) en el siguiente enlace!
+Está [Optoma UHD550X Video - Proyector  2800 lúmenes ANSI  DLP  2160p  3840x2160   16:9  671 8 - 7675 9 mm  26.4 - 302.2"   1 3 - 9 3 m ](https://www.amazon.com/dp/B071PD4CHB/?tag=redken08-20) por 1089 EUR (original: 1749 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419NbokMFBL._SL200_.jpg)](https://www.amazon.com/dp/B071PD4CHB/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B071PD4CHB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B071PD4CHB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

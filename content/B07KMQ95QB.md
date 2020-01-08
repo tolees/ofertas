@@ -14,10 +14,10 @@ comparePrice: 124.91 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superdry Classic Rookie Military Jacket  Abrigo para Hombre  Verde  Forest Night Tdf   X-Small](https://www.amazon.com/dp/B07KMQ95QB/?tag=redken08-20) a 71.4 EUR (original: 124.91 EUR) en el siguiente enlace!
+Está [Superdry Classic Rookie Military Jacket  Abrigo para Hombre  Verde  Forest Night Tdf   X-Small](https://www.amazon.com/dp/B07KMQ95QB/?tag=redken08-20) por 71.4 EUR (original: 124.91 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411fezKyhTL._SL200_.jpg)](https://www.amazon.com/dp/B07KMQ95QB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KMQ95QB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KMQ95QB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

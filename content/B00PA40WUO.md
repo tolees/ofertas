@@ -14,10 +14,10 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Polaroid PLD 6008/S C3 PRK 55 Gafas de Sol  Azul  Bluette Campus/Grey Pz   Unisex Adulto](https://www.amazon.com/dp/B00PA40WUO/?tag=redken08-20) por 28.05 EUR (original: 55 EUR) en el siguiente enlace!
+Tienes [Polaroid PLD 6008/S C3 PRK 55 Gafas de Sol  Azul  Bluette Campus/Grey Pz   Unisex Adulto](https://www.amazon.com/dp/B00PA40WUO/?tag=redken08-20) a precio de oferta de 28.05 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317RADeAnQL._SL200_.jpg)](https://www.amazon.com/dp/B00PA40WUO/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00PA40WUO/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00PA40WUO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

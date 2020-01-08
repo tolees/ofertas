@@ -14,10 +14,10 @@ comparePrice: 20.04 EUR
 inStock: true
 ---
 
-Está [Mombasa Gin Strawberry - 1 botella](https://www.amazon.com/dp/B017H1CHCI/?tag=redken08-20) por 14.95 EUR (original: 20.04 EUR) en el siguiente enlace!
+Tienes [Mombasa Gin Strawberry - 1 botella](https://www.amazon.com/dp/B017H1CHCI/?tag=redken08-20) a precio de oferta de 14.95 EUR (original: 20.04 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410xJFC99sL._SL200_.jpg)](https://www.amazon.com/dp/B017H1CHCI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B017H1CHCI/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B017H1CHCI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

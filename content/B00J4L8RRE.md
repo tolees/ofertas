@@ -14,10 +14,10 @@ comparePrice: 33.39 EUR
 inStock: true
 ---
 
-Está [The Singleton of Dufftown Sunray Single Malt Whisky  70 cl](https://www.amazon.com/dp/B00J4L8RRE/?tag=redken08-20) por 22.43 EUR (original: 33.39 EUR) en el siguiente enlace!
+Tienes [The Singleton of Dufftown Sunray Single Malt Whisky  70 cl](https://www.amazon.com/dp/B00J4L8RRE/?tag=redken08-20) a precio de oferta de 22.43 EUR (original: 33.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HmKE409pL._SL200_.jpg)](https://www.amazon.com/dp/B00J4L8RRE/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00J4L8RRE/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00J4L8RRE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

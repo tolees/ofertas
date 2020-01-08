@@ -14,10 +14,10 @@ comparePrice: 49.19 EUR
 inStock: true
 ---
 
-Está [Colección Critters BD 1-2-3-4 Digipack Coleccionista con 8 Postales + DVD de Extras y Portada Lenticular [Blu-ray]](https://www.amazon.com/dp/B07P9MPHQ5/?tag=redken08-20) por 18.18 EUR (original: 49.19 EUR) en el siguiente enlace!
+Tienes [Colección Critters BD 1-2-3-4 Digipack Coleccionista con 8 Postales + DVD de Extras y Portada Lenticular [Blu-ray]](https://www.amazon.com/dp/B07P9MPHQ5/?tag=redken08-20) a precio de oferta de 18.18 EUR (original: 49.19 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51mZCsU0l3L._SL200_.jpg)](https://www.amazon.com/dp/B07P9MPHQ5/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07P9MPHQ5/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07P9MPHQ5/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

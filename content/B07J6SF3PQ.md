@@ -14,10 +14,10 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Tienes [Funko- Pop Vinyl: South Park W2: Toolshed Figura de Vinilo   34861 ](https://www.amazon.com/dp/B07J6SF3PQ/?tag=redken08-20) a precio de oferta de 8 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko- Pop Vinyl: South Park W2: Toolshed Figura de Vinilo   34861 ](https://www.amazon.com/dp/B07J6SF3PQ/?tag=redken08-20) por 8 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iErjysqxL._SL200_.jpg)](https://www.amazon.com/dp/B07J6SF3PQ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07J6SF3PQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07J6SF3PQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

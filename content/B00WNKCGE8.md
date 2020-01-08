@@ -14,10 +14,10 @@ comparePrice: 1329.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch GBH 12-52 DV Professional - Martillo perforador  1700 W  energía de impacto 19 J  empuñadura adicional  maletín](https://www.amazon.com/dp/B00WNKCGE8/?tag=redken08-20) a 872 EUR (original: 1329.79 EUR) en el siguiente enlace!
+Está [Bosch GBH 12-52 DV Professional - Martillo perforador  1700 W  energía de impacto 19 J  empuñadura adicional  maletín](https://www.amazon.com/dp/B00WNKCGE8/?tag=redken08-20) por 872 EUR (original: 1329.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IYQqSaM9L._SL200_.jpg)](https://www.amazon.com/dp/B00WNKCGE8/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00WNKCGE8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00WNKCGE8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

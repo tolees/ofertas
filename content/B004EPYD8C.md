@@ -14,10 +14,10 @@ comparePrice: 23.22 EUR
 inStock: true
 ---
 
-Tienes [Scitec Nutrition Mega Kre-Alkalyn Creatina - 80 Cápsulas](https://www.amazon.com/dp/B004EPYD8C/?tag=redken08-20) a precio de oferta de 15.97 EUR (original: 23.22 EUR) en el siguiente enlace!
+Ahora mismo tienes [Scitec Nutrition Mega Kre-Alkalyn Creatina - 80 Cápsulas](https://www.amazon.com/dp/B004EPYD8C/?tag=redken08-20) a 15.97 EUR (original: 23.22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/512b7QGyJIL._SL200_.jpg)](https://www.amazon.com/dp/B004EPYD8C/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B004EPYD8C/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B004EPYD8C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Todeco - Árbol para Gatos  Escalador para Gatos - Material: MDF - Tamaño de la casa de gato: 30 0 x 30 0 x 42 9 cm - 120 cm  5 plataformas  color Gris](https://www.amazon.com/dp/B00SHKV4UA/?tag=redken08-20) a 41.99 EUR (original: 119.99 EUR) en el siguiente enlace!
+Tienes [Todeco - Árbol para Gatos  Escalador para Gatos - Material: MDF - Tamaño de la casa de gato: 30 0 x 30 0 x 42 9 cm - 120 cm  5 plataformas  color Gris](https://www.amazon.com/dp/B00SHKV4UA/?tag=redken08-20) a precio de oferta de 41.99 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WIJeAjNVL._SL200_.jpg)](https://www.amazon.com/dp/B00SHKV4UA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00SHKV4UA/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00SHKV4UA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Sony - DualShock 4 V2 Fortnite VCH 2019 500 Vbucks  Negro  PS4 ](https://www.amazon.com/dp/B07VGMMFXF/?tag=redken08-20) por 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Sony - DualShock 4 V2 Fortnite VCH 2019 500 Vbucks  Negro  PS4 ](https://www.amazon.com/dp/B07VGMMFXF/?tag=redken08-20) a precio de oferta de 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41p3AGViovL._SL200_.jpg)](https://www.amazon.com/dp/B07VGMMFXF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07VGMMFXF/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07VGMMFXF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

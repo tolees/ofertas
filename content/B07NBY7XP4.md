@@ -14,10 +14,10 @@ comparePrice: 15.38 EUR
 inStock: true
 ---
 
-Tienes [Nuby Capitán Quench Active Bebé Taza 360 ml  Rosa  Pink Dance ](https://www.amazon.com/dp/B07NBY7XP4/?tag=redken08-20) a precio de oferta de 9.66 EUR (original: 15.38 EUR) en el siguiente enlace!
+Está [Nuby Capitán Quench Active Bebé Taza 360 ml  Rosa  Pink Dance ](https://www.amazon.com/dp/B07NBY7XP4/?tag=redken08-20) por 9.66 EUR (original: 15.38 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413306qW5gL._SL200_.jpg)](https://www.amazon.com/dp/B07NBY7XP4/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07NBY7XP4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NBY7XP4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
