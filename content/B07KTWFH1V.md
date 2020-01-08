@@ -14,10 +14,10 @@ comparePrice: 8.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 70681 NINJAGO Spinjitzu Slam - Lloyd Ninja Set for Kids with Tornado Spinner Launcher](https://www.amazon.com/dp/B07KTWFH1V/?tag=redken08-20) a 6.0 GBP (original: 8.99 GBP) en el siguiente enlace!
+Tienes [LEGO 70681 NINJAGO Spinjitzu Slam - Lloyd Ninja Set for Kids with Tornado Spinner Launcher](https://www.amazon.com/dp/B07KTWFH1V/?tag=redken08-20) a precio de oferta de 6.0 GBP (original: 8.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51be8J9JzAL._SL200_.jpg)](https://www.amazon.com/dp/B07KTWFH1V/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KTWFH1V/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KTWFH1V/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
