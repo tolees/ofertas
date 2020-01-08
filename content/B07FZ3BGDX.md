@@ -14,10 +14,10 @@ comparePrice: 149.13 EUR
 inStock: true
 ---
 
-Tienes [RAY-BAN 912/4C Gafas de sol  Trasparent  50 Unisex](https://www.amazon.com/dp/B07FZ3BGDX/?tag=redken08-20) a precio de oferta de 96 EUR (original: 149.13 EUR) en el siguiente enlace!
+Está [RAY-BAN 912/4C Gafas de sol  Trasparent  50 Unisex](https://www.amazon.com/dp/B07FZ3BGDX/?tag=redken08-20) por 96 EUR (original: 149.13 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31x8Heos43L._SL200_.jpg)](https://www.amazon.com/dp/B07FZ3BGDX/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07FZ3BGDX/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FZ3BGDX/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Camper Peu Cami - Zapatos de cordones de cuero para mujer  color marrón  talla 38](https://www.amazon.com/dp/B0038OMGTS/?tag=redken08-20) a 98.76 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Camper Peu Cami - Zapatos de cordones de cuero para mujer  color marrón  talla 38](https://www.amazon.com/dp/B0038OMGTS/?tag=redken08-20) por 98.76 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zmAiQ0pGL._SL200_.jpg)](https://www.amazon.com/dp/B0038OMGTS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B0038OMGTS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0038OMGTS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

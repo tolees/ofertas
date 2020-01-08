@@ -14,10 +14,10 @@ comparePrice: 96.56 EUR
 inStock: true
 ---
 
-Está [Banco de trabajo BT1 Simonwork Azul/Madera Simonrack 1445x910x610 mms - Banco de trabajo resistente - mesa de trabajo industrial 400 Kgs de capacidad por estante](https://www.amazon.com/dp/B00KVC6GWI/?tag=redken08-20) por 55.08 EUR (original: 96.56 EUR) en el siguiente enlace!
+Tienes [Banco de trabajo BT1 Simonwork Azul/Madera Simonrack 1445x910x610 mms - Banco de trabajo resistente - mesa de trabajo industrial 400 Kgs de capacidad por estante](https://www.amazon.com/dp/B00KVC6GWI/?tag=redken08-20) a precio de oferta de 55.08 EUR (original: 96.56 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-dv8ZygWL._SL200_.jpg)](https://www.amazon.com/dp/B00KVC6GWI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00KVC6GWI/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00KVC6GWI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

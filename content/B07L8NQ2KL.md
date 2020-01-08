@@ -14,10 +14,10 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Está [Dockers by Gerli 44em601-637202  Sandalias Punta Cerrada Unisex Niños  Gris  Grau/Multi 202   30 EU](https://www.amazon.com/dp/B07L8NQ2KL/?tag=redken08-20) por 11.29 EUR (original: 29.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dockers by Gerli 44em601-637202  Sandalias Punta Cerrada Unisex Niños  Gris  Grau/Multi 202   30 EU](https://www.amazon.com/dp/B07L8NQ2KL/?tag=redken08-20) a 11.29 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413yiC0S-UL._SL200_.jpg)](https://www.amazon.com/dp/B07L8NQ2KL/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07L8NQ2KL/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07L8NQ2KL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

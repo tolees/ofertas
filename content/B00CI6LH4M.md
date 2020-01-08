@@ -14,10 +14,10 @@ comparePrice: 27.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Paper Mate InkJoy 550RT  bolígrafo retráctil  punta media de 1 mm  púrpura  caja de 12](https://www.amazon.com/dp/B00CI6LH4M/?tag=redken08-20) a 8.34 EUR (original: 27.96 EUR) en el siguiente enlace!
+Está [Paper Mate InkJoy 550RT  bolígrafo retráctil  punta media de 1 mm  púrpura  caja de 12](https://www.amazon.com/dp/B00CI6LH4M/?tag=redken08-20) por 8.34 EUR (original: 27.96 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gkhmZf-aL._SL200_.jpg)](https://www.amazon.com/dp/B00CI6LH4M/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00CI6LH4M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00CI6LH4M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

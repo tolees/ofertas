@@ -14,10 +14,10 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Sport L.Ight R 316 1 SPW BLK  Bajos para Mujer  Negro  39 EU](https://www.amazon.com/dp/B01E5UE9JI/?tag=redken08-20) a 53.05 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Lacoste Sport L.Ight R 316 1 SPW BLK  Bajos para Mujer  Negro  39 EU](https://www.amazon.com/dp/B01E5UE9JI/?tag=redken08-20) por 53.05 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nYik590BL._SL200_.jpg)](https://www.amazon.com/dp/B01E5UE9JI/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01E5UE9JI/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01E5UE9JI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

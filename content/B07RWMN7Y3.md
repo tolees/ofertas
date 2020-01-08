@@ -14,10 +14,10 @@ comparePrice: 32.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NIVEA SUN crema solar facial FP50  +  Protege & Refresca Spray Bruma Solar FP50 + After Sun Loción Hidratante](https://www.amazon.com/dp/B07RWMN7Y3/?tag=redken08-20) a 22.75 EUR (original: 32.79 EUR) en el siguiente enlace!
+Está [NIVEA SUN crema solar facial FP50  +  Protege & Refresca Spray Bruma Solar FP50 + After Sun Loción Hidratante](https://www.amazon.com/dp/B07RWMN7Y3/?tag=redken08-20) por 22.75 EUR (original: 32.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yJHJPLh7L._SL200_.jpg)](https://www.amazon.com/dp/B07RWMN7Y3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07RWMN7Y3/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07RWMN7Y3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 49.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ozone Neon M50 - OZNEONM50W - Ratón Gaming  5000 DPI  LED  Color Blanco](https://www.amazon.com/dp/B01N26JWYY/?tag=redken08-20) a 17.9 EUR (original: 49.9 EUR) en el siguiente enlace!
+Está [Ozone Neon M50 - OZNEONM50W - Ratón Gaming  5000 DPI  LED  Color Blanco](https://www.amazon.com/dp/B01N26JWYY/?tag=redken08-20) por 17.9 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aPkIRcyaL._SL200_.jpg)](https://www.amazon.com/dp/B01N26JWYY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01N26JWYY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01N26JWYY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Urban Leather UR-02 Chaqueta de Caballero  Negro  Talla M](https://www.amazon.com/dp/B01HZPXZCM/?tag=redken08-20) a 82.26 EUR (original: 140 EUR) en el siguiente enlace!
+Está [Urban Leather UR-02 Chaqueta de Caballero  Negro  Talla M](https://www.amazon.com/dp/B01HZPXZCM/?tag=redken08-20) por 82.26 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414%2BbbtFILL._SL200_.jpg)](https://www.amazon.com/dp/B01HZPXZCM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01HZPXZCM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01HZPXZCM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

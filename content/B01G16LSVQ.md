@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [AGPTEK Z02- Mini Micrófono de Solapa 3.5mm Omnidirectional Condensador con 2 adaptadores para Smartphones  PC y Line-in grabadora  Color Negro](https://www.amazon.com/dp/B01G16LSVQ/?tag=redken08-20) por 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [AGPTEK Z02- Mini Micrófono de Solapa 3.5mm Omnidirectional Condensador con 2 adaptadores para Smartphones  PC y Line-in grabadora  Color Negro](https://www.amazon.com/dp/B01G16LSVQ/?tag=redken08-20) a precio de oferta de 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aMvrVKGWL._SL200_.jpg)](https://www.amazon.com/dp/B01G16LSVQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01G16LSVQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01G16LSVQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

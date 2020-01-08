@@ -14,10 +14,10 @@ comparePrice: 88.68 EUR
 inStock: true
 ---
 
-Está [Versace Versace Pour Homme Agua de Colonia - 100 ml](https://www.amazon.com/dp/B001PTFWG2/?tag=redken08-20) por 40 EUR (original: 88.68 EUR) en el siguiente enlace!
+Tienes [Versace Versace Pour Homme Agua de Colonia - 100 ml](https://www.amazon.com/dp/B001PTFWG2/?tag=redken08-20) a precio de oferta de 40 EUR (original: 88.68 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xDD2x2QeL._SL200_.jpg)](https://www.amazon.com/dp/B001PTFWG2/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B001PTFWG2/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B001PTFWG2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

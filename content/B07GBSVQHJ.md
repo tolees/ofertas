@@ -14,10 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 118cc2j008 Sudadera  Gris  Medium Grey 035   X-Large para Hombre](https://www.amazon.com/dp/B07GBSVQHJ/?tag=redken08-20) a 12.66 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [edc by Esprit 118cc2j008 Sudadera  Gris  Medium Grey 035   X-Large para Hombre](https://www.amazon.com/dp/B07GBSVQHJ/?tag=redken08-20) por 12.66 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XWax7NG5L._SL200_.jpg)](https://www.amazon.com/dp/B07GBSVQHJ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07GBSVQHJ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07GBSVQHJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

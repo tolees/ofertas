@@ -14,10 +14,10 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS Samurai Ninja Toy with 2 Tornado Spinner Launchers  Masters of Spinjitzu Playset](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20) por 13.49 GBP (original: 17.99 GBP) en el siguiente enlace!
+Tienes [LEGO 70684 NINJAGO Spinjitzu Slam-Kai VS Samurai Ninja Toy with 2 Tornado Spinner Launchers  Masters of Spinjitzu Playset](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20) a precio de oferta de 13.49 GBP (original: 17.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517HS5S-akL._SL200_.jpg)](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KTWKFC4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

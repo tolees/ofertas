@@ -14,10 +14,10 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Carnaby EVO Light-WT 1191sma  Zapatillas para Hombre  Blanco  Wht/Nvy/Red 407   41 EU](https://www.amazon.com/dp/B07DHTDZMM/?tag=redken08-20) a 63.99 EUR (original: 95 EUR) en el siguiente enlace!
+Está [Lacoste Carnaby EVO Light-WT 1191sma  Zapatillas para Hombre  Blanco  Wht/Nvy/Red 407   41 EU](https://www.amazon.com/dp/B07DHTDZMM/?tag=redken08-20) por 63.99 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Xe0PrzPlL._SL200_.jpg)](https://www.amazon.com/dp/B07DHTDZMM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DHTDZMM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DHTDZMM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Está [Ocean Sunglasses Mammoth - Gafas de esquí - Montura : Blanco - Lentes : Ahumadas  YH1202.0 ](https://www.amazon.com/dp/B00Q4LGRN8/?tag=redken08-20) por 47.19 EUR (original: 79 EUR) en el siguiente enlace!
+Tienes [Ocean Sunglasses Mammoth - Gafas de esquí - Montura : Blanco - Lentes : Ahumadas  YH1202.0 ](https://www.amazon.com/dp/B00Q4LGRN8/?tag=redken08-20) a precio de oferta de 47.19 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LU-Vas0vL._SL200_.jpg)](https://www.amazon.com/dp/B00Q4LGRN8/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00Q4LGRN8/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00Q4LGRN8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
