@@ -14,10 +14,10 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Revell Control 01021 Adventskalender RC Helikopter mit Motion-Control  2.4 GHz  LED-Beleuchtung  Gyro  inkl. Batterien in 24 Tagen zum selbstgebauten  ferngesteuerten Hubschrauber  ab 12 Jahren  18 cm](https://www.amazon.com/dp/B07MTW6T9Z/?tag=redken08-20) a 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [Revell Control 01021 Adventskalender RC Helikopter mit Motion-Control  2.4 GHz  LED-Beleuchtung  Gyro  inkl. Batterien in 24 Tagen zum selbstgebauten  ferngesteuerten Hubschrauber  ab 12 Jahren  18 cm](https://www.amazon.com/dp/B07MTW6T9Z/?tag=redken08-20) por 19.99 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51IE8wDdB-L._SL200_.jpg)](https://www.amazon.com/dp/B07MTW6T9Z/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07MTW6T9Z/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MTW6T9Z/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

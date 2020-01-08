@@ -14,10 +14,10 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lego Dc Super-Villans](https://www.amazon.com/dp/B07FFH5DQC/?tag=redken08-20) a 33.24 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [Lego Dc Super-Villans](https://www.amazon.com/dp/B07FFH5DQC/?tag=redken08-20) por 33.24 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51dUj1VlxCL._SL200_.jpg)](https://www.amazon.com/dp/B07FFH5DQC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FFH5DQC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FFH5DQC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

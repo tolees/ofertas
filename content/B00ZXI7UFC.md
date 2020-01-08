@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic Lumix DMC-G7KEC - Cámara EVIL '
-date: 2020-01-06 11:38:24
+date: 2020-01-08 12:58:10
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nBayOR3aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nBayOR3aL._SL200_.jpg' ]
