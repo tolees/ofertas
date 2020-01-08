@@ -17,7 +17,7 @@ install:
   - sudo dpkg -i hugo_0.62.2_Linux-64bit.deb
 
 script:
-  - hugo
+  - hugo --minify
 
 after_success:
 - sed -i "s#https://github.com#https://${GHTOKEN}@github.com#g" .git/config
