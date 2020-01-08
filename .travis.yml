@@ -8,23 +8,20 @@ python:
 - '3.5'
 
 before_install:
-- sudo apt-get -y install pandoc
-- wget -O /tmp/pandoc.deb https://github.com/jgm/pandoc/releases/download/2.5/pandoc-2.5-1-amd64.deb
-- sudo dpkg -i /tmp/pandoc.deb
 - pip install -U pip
 - pip install -U setuptools
 - pip install -r requirements.txt
-- peru sync
+
+install:
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.62.2/hugo_0.62.2_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.62.2_Linux-64bit.deb
 
 script:
-- make html
+  - hugo
 
 after_success:
-- cp README.md output/
-- mv *.png output/
-- git clone https://github.com/tolees/ofertas.git patata
-- mv patata/* .
-- rm -Rfv patata
 - sed -i "s#https://github.com#https://${GHTOKEN}@github.com#g" .git/config
 - sed -i "s#git@github.com:#https://${GHTOKEN}@github.com/#g" .git/config
-- make github
+- echo "ofertas.tole.es" > public/CNAME
+- ghp-import -m "Generate Hugo site" -b master public
+- git push --force origin master

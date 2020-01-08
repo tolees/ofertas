@@ -1,0 +1,11 @@
+baseURL = "https://ofertas.tole.es"
+languageCode = "es-es"
+title = "Los últimos descuentos detectados!"
+theme = "hugo-shopping-product-catalogue-simple"
+[Params]
+description = "Las últimas rebajas de https://t.me/ofertas25"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
