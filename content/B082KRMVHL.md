@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'K9CK Juego de Luces para Lego Technic La'
-date: 2020-01-07 15:02:26
+date: 2020-01-08 15:18:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KdvXxMWHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KdvXxMWHL._SL200_.jpg' ]
 comments: true

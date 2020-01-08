@@ -14,10 +14,10 @@ comparePrice: 762 GBP
 inStock: true
 ---
 
-Tienes [GeForce RTX 2080 Super Blower](https://www.amazon.com/dp/B07V1PCZ8G/?tag=redken08-20) a precio de oferta de 333.44 GBP (original: 762 GBP) en el siguiente enlace!
+Está [GeForce RTX 2080 Super Blower](https://www.amazon.com/dp/B07V1PCZ8G/?tag=redken08-20) por 333.44 GBP (original: 762 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZRT-93a6L._SL200_.jpg)](https://www.amazon.com/dp/B07V1PCZ8G/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07V1PCZ8G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07V1PCZ8G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

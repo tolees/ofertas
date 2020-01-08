@@ -14,10 +14,10 @@ comparePrice: 119.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 9243 DreamWorks Dragons Berk Island Fortress with Firing Cannons](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20) por 44.89 GBP (original: 119.99 GBP) en el siguiente enlace!
+Tienes [Playmobil 9243 DreamWorks Dragons Berk Island Fortress with Firing Cannons](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20) a precio de oferta de 44.89 GBP (original: 119.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg)](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

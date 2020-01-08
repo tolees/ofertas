@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola One Action - Smartphone Dual SI'
-date: 2020-01-05 11:33:43
+date: 2020-01-08 15:46:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VjPi0mRmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VjPi0mRmL._SL200_.jpg' ]
 comments: true
