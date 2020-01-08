@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Corsair Scimitar Pro RGB - Ratón óptico '
-date: 2019/12/17 23:46:39 +0000
+title: 'Corsair SCIMITAR PRO RGB Optisch Gaming '
+date: 2019/11/26 14:39:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KgYAQLC9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KgYAQLC9L._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Tienes [Corsair Scimitar Pro RGB - Ratón óptico para juegos  retroiluminación RGB  16000 dpi  con Cable   Amarillo](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20) a precio de oferta de 54.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Tienes [Corsair SCIMITAR PRO RGB Optisch Gaming Maus  RGB-LED-Hintergrundbeleuchtung  16000 DPI  gelb](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20) a precio de oferta de 54.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KgYAQLC9L._SL200_.jpg)](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20)
 

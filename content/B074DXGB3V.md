@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital My Cloud Home - Nube Per'
-date: 2020-01-06 02:03:01
+title: 'Western Digital WDBVXC0080HWT-EESN My Cl'
+date: 2020-01-08 19:10:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 399.99 EUR
 inStock: true
 ---
 
-Está [Western Digital My Cloud Home - Nube Personal de 8 TB  Almacenamiento en Red NAS  1 bahía ](https://www.amazon.com/dp/B074DXGB3V/?tag=redken08-20) por 267.8 EUR (original: 399.99 EUR) en el siguiente enlace!
+Está [Western Digital WDBVXC0080HWT-EESN My Cloud Home Almacenamiento en la nube personal  8 TB](https://www.amazon.com/dp/B074DXGB3V/?tag=redken08-20) por 267.8 EUR (original: 399.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg)](https://www.amazon.com/dp/B074DXGB3V/?tag=redken08-20)
 

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Levi s Plus Size Pl Western Blusa  Azul '
+date: 2019/08/23 17:27:43 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4164fm4qpfL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4164fm4qpfL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07FH9N2YW
+description:
+actualPrice: 53.49 EUR
+comparePrice: 80 EUR
+inStock: true
+---
+
+Está [Levi s Plus Size Pl Western Blusa  Azul  Lotta Love 0006   X-Large para Mujer](https://www.amazon.com/dp/B07FH9N2YW/?tag=redken08-20) por 53.49 EUR (original: 80 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/4164fm4qpfL._SL200_.jpg)](https://www.amazon.com/dp/B07FH9N2YW/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B07FH9N2YW/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

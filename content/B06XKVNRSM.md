@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'AMD Ryzen 5 1500X Desktop CPU-AM4 Quad C'
-date: 2020-01-05 11:28:29
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31enCJU9cKL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31enCJU9cKL._SL200_.jpg' ]
+title: 'AMD Ryzen 5 1500X - Procesador  AMD Ryze'
+date: 2020-01-03 14:11:05
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ksTAEdwdL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ksTAEdwdL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06XKVNRSM
 description:
-actualPrice: 101.64 GBP
-comparePrice: 189.98 GBP
+actualPrice: 113.19 EUR
+comparePrice: 153.86 EUR
 inStock: true
 ---
 
-Está [AMD Ryzen 5 1500X Desktop CPU-AM4 Quad Core 3.5GHz -3.7GHz Turbo 65W ](https://www.amazon.com/dp/B06XKVNRSM/?tag=redken08-20) por 101.64 GBP (original: 189.98 GBP) en el siguiente enlace!
+Está [AMD Ryzen 5 1500X - Procesador  AMD Ryzen 5  3 5 GHz  Socket AM4  PC  14 nm ](https://www.amazon.com/dp/B06XKVNRSM/?tag=redken08-20) por 113.19 EUR (original: 153.86 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31enCJU9cKL._SL200_.jpg)](https://www.amazon.com/dp/B06XKVNRSM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/31ksTAEdwdL._SL200_.jpg)](https://www.amazon.com/dp/B06XKVNRSM/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B06XKVNRSM/?tag=redken08-20)
 

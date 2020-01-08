@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'RECCI - Topper Colchón de Espuma 160x190'
+date: 2019/11/09 15:46:09 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LhDE5f8CL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LhDE5f8CL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07GXP6SHF
+description:
+actualPrice: 119.99 EUR
+comparePrice: 159.99 EUR
+inStock: true
+---
+
+Tienes [RECCI - Topper Colchón de Espuma 160x190 cm  Topper Viscoelástica con Alivio de la Presión  Sobrecolchón Hipoalergénico de Bambú - Extraíble y Lavable en Lavadora  CertiPUR-EU  160 x 190 x 6cm ](https://www.amazon.com/dp/B07GXP6SHF/?tag=redken08-20) a precio de oferta de 119.99 EUR (original: 159.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41LhDE5f8CL._SL200_.jpg)](https://www.amazon.com/dp/B07GXP6SHF/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B07GXP6SHF/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

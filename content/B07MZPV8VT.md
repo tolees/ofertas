@@ -2,9 +2,9 @@
 layout: post
 title: 'Vans Atwood  Zapatillas para Hombre  Gri'
 date: 2019/12/11 18:48:28 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41abyGcq2GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41abyGcq2GL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07MZPV8VT

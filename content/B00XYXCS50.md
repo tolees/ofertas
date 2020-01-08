@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Tantra Ethnic Wedge Sandals with Strass '
+date: 2019/09/20 19:32:22 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oQqn5yKPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oQqn5yKPL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00XYXCS50
+description:
+actualPrice: 19.63 EUR
+comparePrice: 210 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Tantra Ethnic Wedge Sandals with Strass - Sandalias para Mujer  Color Negro  Talla 38](https://www.amazon.com/dp/B00XYXCS50/?tag=redken08-20) a 19.63 EUR (original: 210 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/51oQqn5yKPL._SL200_.jpg)](https://www.amazon.com/dp/B00XYXCS50/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B00XYXCS50/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

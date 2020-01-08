@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Portobello 2.5267 Gin No. 171  70cl'
+date: 2019/09/16 17:30:14 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dbiwNvL4L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dbiwNvL4L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00CP4SKME
+description:
+actualPrice: 23.88 EUR
+comparePrice: 32.17 EUR
+inStock: true
+---
+
+Tienes [Portobello 2.5267 Gin No. 171  70cl](https://www.amazon.com/dp/B00CP4SKME/?tag=redken08-20) a precio de oferta de 23.88 EUR (original: 32.17 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41dbiwNvL4L._SL200_.jpg)](https://www.amazon.com/dp/B00CP4SKME/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B00CP4SKME/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

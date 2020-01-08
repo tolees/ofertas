@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Nike Air Jordan 1 Low GS  Zapatillas Uni'
+date: 2019/07/22 18:25:54 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419djSUnPgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419djSUnPgL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B0794TLTMK
+description:
+actualPrice: 37.9 EUR
+comparePrice: 76 EUR
+inStock: true
+---
+
+Está [Nike Air Jordan 1 Low GS  Zapatillas Unisex Niños  Negro  Black/White/Black 006   38.5 EU](https://www.amazon.com/dp/B0794TLTMK/?tag=redken08-20) por 37.9 EUR (original: 76 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/419djSUnPgL._SL200_.jpg)](https://www.amazon.com/dp/B0794TLTMK/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B0794TLTMK/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

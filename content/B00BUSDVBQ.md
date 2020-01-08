@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'TP-Link Archer C7 - AC1750 Router Gigabi'
-date: 2020-01-06 19:17:30
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415vAIn9uEL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415vAIn9uEL._SL200_.jpg' ]
+title: 'TP-Link Archer C7 Dualband Gigabit WLAN-'
+date: 2019/10/08 10:04:27 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r3-uL1MML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r3-uL1MML._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00BUSDVBQ
 description:
-actualPrice: 72.45 EUR
-comparePrice: 116.01 EUR
+actualPrice: 64.9 EUR
+comparePrice: 89.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TP-Link Archer C7 - AC1750 Router Gigabit inalámbrico de doble banda  2.4 GHz a 450 Mbps y 5 GHz a 1300 Mbps  Gigabit Puerto  USB 2.0  3 antenas externas de doble banda](https://www.amazon.com/dp/B00BUSDVBQ/?tag=redken08-20) a 72.45 EUR (original: 116.01 EUR) en el siguiente enlace!
+Ahora mismo tienes [TP-Link Archer C7 Dualband Gigabit WLAN-Router  1300Mbit/s  5GHz  + 450Mbit/s  2 4GHz   1750Mbps  5 Gigabit LAN Port  1 USB 2.0 Ports  schwarz](https://www.amazon.com/dp/B00BUSDVBQ/?tag=redken08-20) a 64.9 EUR (original: 89.9 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/415vAIn9uEL._SL200_.jpg)](https://www.amazon.com/dp/B00BUSDVBQ/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41r3-uL1MML._SL200_.jpg)](https://www.amazon.com/dp/B00BUSDVBQ/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B00BUSDVBQ/?tag=redken08-20)
 

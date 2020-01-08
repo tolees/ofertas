@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Puma ESS+ Logo Cropped Hoody Sudadera  M'
+date: 2019/08/20 17:28:58 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qrWsbPBKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qrWsbPBKL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07JHL4CNX
+description:
+actualPrice: 23.21 EUR
+comparePrice: 44.95 EUR
+inStock: true
+---
+
+Está [Puma ESS+ Logo Cropped Hoody Sudadera  Mujer  Negro  Cotton Black   M](https://www.amazon.com/dp/B07JHL4CNX/?tag=redken08-20) por 23.21 EUR (original: 44.95 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41qrWsbPBKL._SL200_.jpg)](https://www.amazon.com/dp/B07JHL4CNX/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B07JHL4CNX/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

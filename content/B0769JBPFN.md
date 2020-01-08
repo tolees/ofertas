@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Rotuladores Acuarelables Firbon Set de 2'
+date: 2019/11/18 09:02:45 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OMbRpLiRL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OMbRpLiRL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B0769JBPFN
+description:
+actualPrice: 12.99 EUR
+comparePrice: 23.32 EUR
+inStock: true
+---
+
+Tienes [Rotuladores Acuarelables Firbon Set de 20 Rotuladores Acuarelables y 1 Pincel de Agua Punta Suave no toxica Perfecta para Caligrafia  lettering manga comic](https://www.amazon.com/dp/B0769JBPFN/?tag=redken08-20) a precio de oferta de 12.99 EUR (original: 23.32 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/51OMbRpLiRL._SL200_.jpg)](https://www.amazon.com/dp/B0769JBPFN/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B0769JBPFN/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

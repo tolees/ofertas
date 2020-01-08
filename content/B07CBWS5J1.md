@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'JACK & JONES Jjebasic Knit V-Neck Noos s'
+date: 2019/09/25 07:37:34 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vrq6RvoML._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vrq6RvoML._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07CBWS5J1
+description:
+actualPrice: 12.95 EUR
+comparePrice: 24.99 EUR
+inStock: true
+---
+
+Está [JACK & JONES Jjebasic Knit V-Neck Noos suéter  Gris Dark Grey Melange  Small para Hombre](https://www.amazon.com/dp/B07CBWS5J1/?tag=redken08-20) por 12.95 EUR (original: 24.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41Vrq6RvoML._SL200_.jpg)](https://www.amazon.com/dp/B07CBWS5J1/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B07CBWS5J1/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

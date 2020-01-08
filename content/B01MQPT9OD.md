@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'ELEGOO Conjunto Mas Completo y Avanzado '
+date: 2019/12/30 01:30:59 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61fXrsEg%2BrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61fXrsEg%2BrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01MQPT9OD
+description:
+actualPrice: 51.99 EUR
+comparePrice: 69.99 EUR
+inStock: true
+---
+
+Está [ELEGOO Conjunto Mas Completo y Avanzado de Iniciación Compatible con Arduino IDE Mega 2560 con Guías Tutorial en Español y Conjunto con Placa Controladora Mega 2560 R3  Servomotor  Motor Paso a Paso](https://www.amazon.com/dp/B01MQPT9OD/?tag=redken08-20) por 51.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/61fXrsEg%2BrL._SL200_.jpg)](https://www.amazon.com/dp/B01MQPT9OD/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B01MQPT9OD/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

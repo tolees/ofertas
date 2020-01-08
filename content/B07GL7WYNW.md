@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fossil Smartwatch FTW4018'
-date: 2019/12/30 12:47:08 +0000
+title: 'Fossil FTW4018 Men s Gen 4 Explorist HR '
+date: 2019/12/10 13:36:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dnXXKyJkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dnXXKyJkL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07GL7WYNW
 description:
-actualPrice: 139.99 EUR
-comparePrice: 279 EUR
+actualPrice: 119.99 GBP
+comparePrice: 249 GBP
 inStock: true
 ---
 
-Tienes [Fossil Smartwatch FTW4018](https://www.amazon.com/dp/B07GL7WYNW/?tag=redken08-20) a precio de oferta de 139.99 EUR (original: 279 EUR) en el siguiente enlace!
+Tienes [Fossil FTW4018 Men s Gen 4 Explorist HR Silicone Touchscreen Smartwatch  Black](https://www.amazon.com/dp/B07GL7WYNW/?tag=redken08-20) a precio de oferta de 119.99 GBP (original: 249 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dnXXKyJkL._SL200_.jpg)](https://www.amazon.com/dp/B07GL7WYNW/?tag=redken08-20)
 

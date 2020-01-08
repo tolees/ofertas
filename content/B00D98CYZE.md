@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'D-Link DWM-157 - Modem 3G USB 2.0 Libre '
-date: 2019/12/25 16:54:00 +0000
+title: 'D-Link 3G HSPA+ USB Adapter DWM-157'
+date: 2019/10/02 00:22:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BdTyqpbpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BdTyqpbpL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00D98CYZE
 description:
-actualPrice: 23.49 EUR
-comparePrice: 57.9 EUR
+actualPrice: 15.64 GBP
+comparePrice: 36.99 GBP
 inStock: true
 ---
 
-Está [D-Link DWM-157 - Modem 3G USB 2.0 Libre  HSPA+  21.6 Mbps  SIM Datos Cualquier Operador  LED Estado  HSUPA/HSDPA/UMTS  gsm/GPRS/Edge  Compatible Windows y Mac  Ranura Micro SD  Blanco](https://www.amazon.com/dp/B00D98CYZE/?tag=redken08-20) por 23.49 EUR (original: 57.9 EUR) en el siguiente enlace!
+Está [D-Link 3G HSPA+ USB Adapter DWM-157](https://www.amazon.com/dp/B00D98CYZE/?tag=redken08-20) por 15.64 GBP (original: 36.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BdTyqpbpL._SL200_.jpg)](https://www.amazon.com/dp/B00D98CYZE/?tag=redken08-20)
 

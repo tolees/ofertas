@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Saint Tropez P6106-vestido Mujer Mehrfar'
+date: 2019/08/07 11:04:31 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ANL%2B2ErQL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ANL%2B2ErQL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B01NA87MXS
+description:
+actualPrice: 13.96 EUR
+comparePrice: 48.24 EUR
+inStock: true
+---
+
+Está [Saint Tropez P6106-vestido Mujer Mehrfarbig  D.Green 8290  40  Talla del Fabricante: M ](https://www.amazon.com/dp/B01NA87MXS/?tag=redken08-20) por 13.96 EUR (original: 48.24 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41ANL%2B2ErQL._SL200_.jpg)](https://www.amazon.com/dp/B01NA87MXS/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B01NA87MXS/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

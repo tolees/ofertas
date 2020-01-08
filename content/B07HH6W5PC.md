@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Disney Bata para niñas El Reino del Hiel'
-date: 2019/12/24 09:02:16 +0000
+title: 'Disney Girls Frozen Dressing Gown Multic'
+date: 2019/12/10 21:29:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vG40HnFHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vG40HnFHL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07HH6W5PC
 description:
-actualPrice: 11.95 EUR
-comparePrice: 22.95 EUR
+actualPrice: 8.95 GBP
+comparePrice: 18.95 GBP
 inStock: true
 ---
 
-Tienes [Disney Bata para niñas El Reino del Hielo Frozen 2-3 Años](https://www.amazon.com/dp/B07HH6W5PC/?tag=redken08-20) a precio de oferta de 11.95 EUR (original: 22.95 EUR) en el siguiente enlace!
+Tienes [Disney Girls Frozen Dressing Gown Multicoloured Age 2 to 3 Years](https://www.amazon.com/dp/B07HH6W5PC/?tag=redken08-20) a precio de oferta de 8.95 GBP (original: 18.95 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vG40HnFHL._SL200_.jpg)](https://www.amazon.com/dp/B07HH6W5PC/?tag=redken08-20)
 

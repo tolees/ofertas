@@ -2,9 +2,9 @@
 layout: post
 title: 'New Balance Wsx90tv1  Zapatillas para Mu'
 date: 2019/12/11 18:45:03 +0000
-comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OsY2E-4IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OsY2E-4IL._SL200_.jpg' ]
+comments: true
 category: ofertas
 author: ring
 slug: B07HGDBBVJ

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'New Balance 574S v2  Zapatillas para Muj'
+date: 2019/09/20 08:20:19 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n6DSz%2BIkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n6DSz%2BIkL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07DJ78YLS
+description:
+actualPrice: 50 EUR
+comparePrice: 100 EUR
+inStock: true
+---
+
+Ahora mismo tienes [New Balance 574S v2  Zapatillas para Mujer  Gris Castlerock Ted  40 EU](https://www.amazon.com/dp/B07DJ78YLS/?tag=redken08-20) a 50 EUR (original: 100 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41n6DSz%2BIkL._SL200_.jpg)](https://www.amazon.com/dp/B07DJ78YLS/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B07DJ78YLS/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

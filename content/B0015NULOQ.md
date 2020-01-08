@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Silverline 427711 - Gato hidráulico de B'
+date: 2019/08/18 13:00:55 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Iq05H4cL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Iq05H4cL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B0015NULOQ
+description:
+actualPrice: 13.96 EUR
+comparePrice: 19 EUR
+inStock: true
+---
+
+Está [Silverline 427711 - Gato hidráulico de Botella 2 toneladas](https://www.amazon.com/dp/B0015NULOQ/?tag=redken08-20) por 13.96 EUR (original: 19 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/419Iq05H4cL._SL200_.jpg)](https://www.amazon.com/dp/B0015NULOQ/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B0015NULOQ/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

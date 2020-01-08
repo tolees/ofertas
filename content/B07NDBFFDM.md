@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'LEGO 41166 Disney ELSA und die Rentierku'
+date: 2019/11/22 10:59:00 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517LRBuxQ%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517LRBuxQ%2BL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07NDBFFDM
+description:
+actualPrice: 19.79 EUR
+comparePrice: 29.99 EUR
+inStock: true
+---
+
+Tienes [LEGO 41166 Disney ELSA und die Rentierkutsche  Bauset  Mehrfarbig](https://www.amazon.com/dp/B07NDBFFDM/?tag=redken08-20) a precio de oferta de 19.79 EUR (original: 29.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/517LRBuxQ%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBFFDM/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B07NDBFFDM/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Puma 204202001 - Calcetines cortos para '
+date: 2019/08/10 14:51:33 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FYYr%2Bp7FL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FYYr%2Bp7FL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B003WIZEVC
+description:
+actualPrice: 5.95 EUR
+comparePrice: 7.99 EUR
+inStock: true
+---
+
+Está [Puma 204202001 - Calcetines cortos para niños  conjunto de 3  color negro  talla 27-30](https://www.amazon.com/dp/B003WIZEVC/?tag=redken08-20) por 5.95 EUR (original: 7.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41FYYr%2Bp7FL._SL200_.jpg)](https://www.amazon.com/dp/B003WIZEVC/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B003WIZEVC/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lego Batman Boys Lego Batman Backpack'
-date: 2019/12/31 06:02:22 +0000
+title: 'Lego Batman - Mochila - Lego Batman'
+date: 2019/10/06 20:09:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H9fInmASL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H9fInmASL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B076VHTNRB
 description:
-actualPrice: 7.95 GBP
-comparePrice: 14.95 GBP
+actualPrice: 10.95 EUR
+comparePrice: 18.95 EUR
 inStock: true
 ---
 
-Tienes [Lego Batman Boys Lego Batman Backpack](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20) a precio de oferta de 7.95 GBP (original: 14.95 GBP) en el siguiente enlace!
+Está [Lego Batman - Mochila - Lego Batman](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20) por 10.95 EUR (original: 18.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51H9fInmASL._SL200_.jpg)](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076VHTNRB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

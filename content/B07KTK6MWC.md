@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'LEGO 41372 Friends Stephanie s Gymnastic'
+date: 2019/12/18 07:07:23 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07KTK6MWC
+description:
+actualPrice: 17 GBP
+comparePrice: 24.99 GBP
+inStock: true
+---
+
+Tienes [LEGO 41372 Friends Stephanie s Gymnastics Show Playset with 3 Sport Disciplines Accessories  Stephanie and Mia Mini Dolls](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20) a precio de oferta de 17 GBP (original: 24.99 GBP) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg)](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KTK6MWC/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

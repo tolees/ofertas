@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Medisana LCS 41015  Peine Eléctrico Anti'
+date: 2019/09/20 14:49:35 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l%2BSeR-SnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l%2BSeR-SnL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00ID4H7EW
+description:
+actualPrice: 25.17 EUR
+comparePrice: 39.9 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Medisana LCS 41015  Peine Eléctrico Antipiojos](https://www.amazon.com/dp/B00ID4H7EW/?tag=redken08-20) a 25.17 EUR (original: 39.9 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/31l%2BSeR-SnL._SL200_.jpg)](https://www.amazon.com/dp/B00ID4H7EW/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B00ID4H7EW/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

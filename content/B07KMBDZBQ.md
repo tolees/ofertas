@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Merrell Agility Synthesis Flex  Zapatill'
+date: 2019/11/03 19:12:50 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419TKnP%2B8HL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419TKnP%2B8HL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07KMBDZBQ
+description:
+actualPrice: 49.99 EUR
+comparePrice: 115 EUR
+inStock: true
+---
+
+Tienes [Merrell Agility Synthesis Flex  Zapatillas de Running para Asfalto para Hombre  Azul  Cobalt   43 EU](https://www.amazon.com/dp/B07KMBDZBQ/?tag=redken08-20) a precio de oferta de 49.99 EUR (original: 115 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/419TKnP%2B8HL._SL200_.jpg)](https://www.amazon.com/dp/B07KMBDZBQ/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KMBDZBQ/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

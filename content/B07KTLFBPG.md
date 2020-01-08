@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 31095 - Creator 3-in-1-Set Jahrmark'
-date: 2020-01-01 14:29:26
+title: 'LEGO 31095 Creator 3in1 Fairground Carou'
+date: 2019/12/20 09:02:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XNOXc-ZcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XNOXc-ZcL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KTLFBPG
 description:
-actualPrice: 32.99 EUR
-comparePrice: 49.99 EUR
+actualPrice: 33.74 GBP
+comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 31095 - Creator 3-in-1-Set Jahrmarktkarussell](https://www.amazon.com/dp/B07KTLFBPG/?tag=redken08-20) a precio de oferta de 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [LEGO 31095 Creator 3in1 Fairground Carousel Set  Fair Fun Adventures  Space Themed Model](https://www.amazon.com/dp/B07KTLFBPG/?tag=redken08-20) a precio de oferta de 33.74 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51XNOXc-ZcL._SL200_.jpg)](https://www.amazon.com/dp/B07KTLFBPG/?tag=redken08-20)
 
