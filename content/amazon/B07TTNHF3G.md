@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Lego Te'
-date: 2020-01-05 22:49:49
+date: 2020-01-07 23:04:31
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tj9iBl3TL._SL200_.jpg'
 category: ofertas

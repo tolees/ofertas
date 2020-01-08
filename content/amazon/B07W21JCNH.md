@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIGHTAILING Light Set For  Star Wars Y-W'
-date: 2020-01-06 14:23:03
+date: 2020-01-08 06:24:55
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z5LW%2B8XxL._SL200_.jpg'
 category: ofertas

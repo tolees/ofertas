@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell 4513846 Taladro sin Cable TC-CD '
-date: 2020-01-05 13:32:02
+date: 2020-01-08 08:03:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41--euQ-EuL._SL200_.jpg'
 comments: true
 category: ofertas

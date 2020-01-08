@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lightailing Licht-Set Für  Bugatti Chiro'
-date: 2020-01-05 22:45:26
+date: 2020-01-07 23:03:59
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tGZbFMOML._SL200_.jpg'
 category: ofertas

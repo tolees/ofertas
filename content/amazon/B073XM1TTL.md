@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'homgeek Batidora de Vaso  Licuadora Smoo'
-date: 2020-01-06 19:15:55
+date: 2020-01-08 07:34:02
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MpF6TmX2L._SL200_.jpg'
 category: ofertas

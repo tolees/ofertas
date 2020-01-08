@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 41371 - Friends  Mias Pferdetranspo'
-date: 2020-01-07 06:30:57
+date: 2020-01-08 06:37:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51omG-DWfxL._SL200_.jpg'
 comments: true
 category: ofertas

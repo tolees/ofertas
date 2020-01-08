@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'READ Reloj Deportivo Impermeable para Ho'
-date: 2020-01-02 13:01:48
+date: 2020-01-07 22:13:19
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kewxNw6CL._SL200_.jpg'
 category: ofertas

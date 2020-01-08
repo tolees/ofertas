@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'LEGO 60208 City Police Sky Police Parach'
-date: 2019/12/30 17:27:15 +0000
+title: 'Lego 60208 City Polizei Flucht mit dem F'
+date: 2020-01-03 09:19:17
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg'
 category: ofertas
 author: ring
 slug: B07FNMTW4H
 description:
-actualPrice: 15.79 GBP
-comparePrice: 24.99 GBP
+actualPrice: 19.99 EUR
+comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [LEGO 60208 City Police Sky Police Parachute Arrest with 3 Vehicles: Aeroplane  Car and Motorbike Toys  Crook s Chase Sets for Kids](https://www.amazon.com/dp/B07FNMTW4H/?tag=redken08-20) por 15.79 GBP (original: 24.99 GBP) en el siguiente enlace!
+Está [Lego 60208 City Polizei Flucht mit dem Fallschirm  bunt](https://www.amazon.com/dp/B07FNMTW4H/?tag=redken08-20) por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rwUT7URmL._SL200_.jpg)](https://www.amazon.com/dp/B07FNMTW4H/?tag=redken08-20)
 

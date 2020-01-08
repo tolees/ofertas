@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'BRIKSMAX High-Speed Passenger Train Led '
-date: 2020-01-05 22:22:57
-comments: true
+title: 'BRIKSMAX Kit de Iluminación Led para Tre'
+date: 2020-01-06 22:26:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg'
+comments: true
 category: ofertas
 author: ring
 slug: B07LGZGZNM
 description:
-actualPrice: 24.99 GBP
-comparePrice: 59.99 GBP
+actualPrice: 29.99 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX High-Speed Passenger Train Led Lighting Kit- Compatible with Lego 60051 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20) a 24.99 GBP (original: 59.99 GBP) en el siguiente enlace!
+Tienes [BRIKSMAX Kit de Iluminación Led para Tren De Pasajeros De Alta Velocidad -Compatible con Ladrillos de Construcción Lego Modelo 60051 -Juego de Legos no Incluido](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg)](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07LGZGZNM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'L.O.L. Surprise! 559764E7C Amazing Surpr'
-date: 2020-01-06 14:18:08
+title: 'L.O.L. Surprise! Amazing Surprise with 1'
+date: 2020-01-07 22:19:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515SWHWVImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: B07PMN4NJD
 description:
-actualPrice: 89.88 EUR
-comparePrice: 144.99 EUR
+actualPrice: 79.99 GBP
+comparePrice: 129.99 GBP
 inStock: true
 ---
 
-Tienes [L.O.L. Surprise! 559764E7C Amazing Surprise - mehrfarbig](https://www.amazon.com/dp/B07PMN4NJD/?tag=redken08-20) a precio de oferta de 89.88 EUR (original: 144.99 EUR) en el siguiente enlace!
+Tienes [L.O.L. Surprise! Amazing Surprise with 14 Dolls & 70+ Surprises](https://www.amazon.com/dp/B07PMN4NJD/?tag=redken08-20) a precio de oferta de 79.99 GBP (original: 129.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515SWHWVImL._SL200_.jpg)](https://www.amazon.com/dp/B07PMN4NJD/?tag=redken08-20)
 

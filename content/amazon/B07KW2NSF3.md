@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Baseus Cargador de Coche Quick Charge 3.'
-date: 2020-01-03 10:11:30
-comments: true
+title: 'Baseus Car Charger  Car Adaptor with Qui'
+date: 2020-01-04 20:37:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nbj3bOXwL._SL200_.jpg'
+comments: true
 category: ofertas
 author: ring
 slug: B07KW2NSF3
 description:
-actualPrice: 11.99 EUR
-comparePrice: 19.99 EUR
+actualPrice: 9.99 GBP
+comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Baseus Cargador de Coche Quick Charge 3.0 5A 30W Carga Rapida Doble Puertos USB Adaptador para Samsung Galaxy S10E/S9/S8/Note 8 LG G6 Huawei P20/Mate10](https://www.amazon.com/dp/B07KW2NSF3/?tag=redken08-20) a 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [Baseus Car Charger  Car Adaptor with Quick Charge 3.0  30W Dual QC3.0 USB Port for Samsung Galaxy Note9 / Note8/ S9 / S8 / S8+  Huawei Mate20 Pro  LG G6 / V30  HTC 10 and More - Black](https://www.amazon.com/dp/B07KW2NSF3/?tag=redken08-20) a precio de oferta de 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nbj3bOXwL._SL200_.jpg)](https://www.amazon.com/dp/B07KW2NSF3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KW2NSF3/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KW2NSF3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

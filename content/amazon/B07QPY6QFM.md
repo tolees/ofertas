@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LAYJOY Funda Xiaomi Redmi Note 7/ Xiaomi'
-date: 2020-01-07 06:46:10
+date: 2020-01-08 07:58:11
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lOWAF5PRL._SL200_.jpg'
 category: ofertas

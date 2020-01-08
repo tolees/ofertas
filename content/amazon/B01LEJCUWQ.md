@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 11411 POP Vinylfigur: Dishonored 2'
-date: 2020-01-07 06:25:29
+date: 2020-01-08 06:45:54
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL200_.jpg'
 category: ofertas

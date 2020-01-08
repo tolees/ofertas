@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Lego St'
-date: 2020-01-05 22:49:50
+date: 2020-01-07 22:48:43
 comments: true
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zjuigto7L._SL200_.jpg'
 category: ofertas
