@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'AmazonBasics - Paños de algodón  30 5 x '
+date: 2019/12/26 11:43:57 +0000
+comments: true
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61cTLAtsBtL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61cTLAtsBtL._SL200_.jpg' ]
+category: ofertas
+author: ring
+slug: B01MRR1YNT
+description:
+actualPrice: 11.99 EUR
+comparePrice: 19.99 EUR
+inStock: true
+---
+
+Está [AmazonBasics - Paños de algodón  30 5 x 30 5 cm   pack de 24 - Gris](https://www.amazon.com/dp/B01MRR1YNT/?tag=redken08-20) por 11.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/61cTLAtsBtL._SL200_.jpg)](https://www.amazon.com/dp/B01MRR1YNT/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B01MRR1YNT/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
