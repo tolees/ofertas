@@ -14,10 +14,10 @@ comparePrice: 325.99 EUR
 inStock: true
 ---
 
-Tienes [Brother MFCL2750DW - Impresora multifunción láser Monocromo con fax y dúplex en Todas Las Funciones  34 ppm  USB 2.0  WiFi  Ethernet  WiFi Direct  procesador de 600 MHz  Memoria de 256 MB  Negro](https://www.amazon.com/dp/B076PL6MVW/?tag=redken08-20) a precio de oferta de 225.43 EUR (original: 325.99 EUR) en el siguiente enlace!
+Está [Brother MFCL2750DW - Impresora multifunción láser Monocromo con fax y dúplex en Todas Las Funciones  34 ppm  USB 2.0  WiFi  Ethernet  WiFi Direct  procesador de 600 MHz  Memoria de 256 MB  Negro](https://www.amazon.com/dp/B076PL6MVW/?tag=redken08-20) por 225.43 EUR (original: 325.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dGZDa19RL._SL200_.jpg)](https://www.amazon.com/dp/B076PL6MVW/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B076PL6MVW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076PL6MVW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

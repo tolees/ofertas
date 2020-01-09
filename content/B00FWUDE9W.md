@@ -14,10 +14,10 @@ comparePrice: 696.94 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony Alpha ILCE-7 - Cámara Evil de 24.3 MP  Full HD  sólo Cuerpo  Negro](https://www.amazon.com/dp/B00FWUDE9W/?tag=redken08-20) a 492.66 EUR (original: 696.94 EUR) en el siguiente enlace!
+Tienes [Sony Alpha ILCE-7 - Cámara Evil de 24.3 MP  Full HD  sólo Cuerpo  Negro](https://www.amazon.com/dp/B00FWUDE9W/?tag=redken08-20) a precio de oferta de 492.66 EUR (original: 696.94 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513quincG2L._SL200_.jpg)](https://www.amazon.com/dp/B00FWUDE9W/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00FWUDE9W/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00FWUDE9W/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

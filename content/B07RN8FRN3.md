@@ -14,10 +14,10 @@ comparePrice: 9.1 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 44418 POP Holiday-Santa Claus Collectible Figure  Multicolour](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20) a 5 GBP (original: 9.1 GBP) en el siguiente enlace!
+Tienes [Funko 44418 POP Holiday-Santa Claus Collectible Figure  Multicolour](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20) a precio de oferta de 5 GBP (original: 9.1 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KNyuTn8mL._SL200_.jpg)](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07RN8FRN3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

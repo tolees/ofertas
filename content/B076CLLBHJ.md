@@ -14,10 +14,10 @@ comparePrice: 3 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Coca-Cola - Regular  Refresco con gas de cola  250 ml  Pack de 6   Lata](https://www.amazon.com/dp/B076CLLBHJ/?tag=redken08-20) a 1.5 EUR (original: 3 EUR) en el siguiente enlace!
+Está [Coca-Cola - Regular  Refresco con gas de cola  250 ml  Pack de 6   Lata](https://www.amazon.com/dp/B076CLLBHJ/?tag=redken08-20) por 1.5 EUR (original: 3 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51p2XMfXNyL._SL200_.jpg)](https://www.amazon.com/dp/B076CLLBHJ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B076CLLBHJ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076CLLBHJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

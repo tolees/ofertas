@@ -14,10 +14,10 @@ comparePrice: 305.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cressi AC2 Compact + Octopus XS-INT - Regulador de Buceo](https://www.amazon.com/dp/B00D2OQ6UY/?tag=redken08-20) a 180.45 EUR (original: 305.98 EUR) en el siguiente enlace!
+Tienes [Cressi AC2 Compact + Octopus XS-INT - Regulador de Buceo](https://www.amazon.com/dp/B00D2OQ6UY/?tag=redken08-20) a precio de oferta de 180.45 EUR (original: 305.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nP4HyitJL._SL200_.jpg)](https://www.amazon.com/dp/B00D2OQ6UY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00D2OQ6UY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00D2OQ6UY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

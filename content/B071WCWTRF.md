@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Crocs Classic Clog  Zuecos Unisex Adulto'
+date: 2020-01-09 09:09:28
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gPfDD8MVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gPfDD8MVL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B071WCWTRF
+description:
+actualPrice: 24.5 EUR
+comparePrice: 34.99 EUR
+inStock: true
+---
+
+Está [Crocs Classic Clog  Zuecos Unisex Adulto  Verde  Grass Green 3E8   37/38 EU](https://www.amazon.com/dp/B071WCWTRF/?tag=redken08-20) por 24.5 EUR (original: 34.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/31gPfDD8MVL._SL200_.jpg)](https://www.amazon.com/dp/B071WCWTRF/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B071WCWTRF/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
