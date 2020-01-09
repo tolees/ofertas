@@ -14,10 +14,10 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [Wolfenstein II: The New Colossus - Day One Edition](https://www.amazon.com/dp/B072MRJ4VF/?tag=redken08-20) por 26.76 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [Wolfenstein II: The New Colossus - Day One Edition](https://www.amazon.com/dp/B072MRJ4VF/?tag=redken08-20) a precio de oferta de 26.76 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wSBBKy5CL._SL200_.jpg)](https://www.amazon.com/dp/B072MRJ4VF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B072MRJ4VF/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B072MRJ4VF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

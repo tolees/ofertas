@@ -14,10 +14,10 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO 70848 Movie 2 Systar Party Crew Buildable Metal Band Mech with MetalBeard Stardust Benny and Unikitty Figures Toy](https://www.amazon.com/dp/B07P1BWGYF/?tag=redken08-20) por 13 GBP (original: 17.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70848 Movie 2 Systar Party Crew Buildable Metal Band Mech with MetalBeard Stardust Benny and Unikitty Figures Toy](https://www.amazon.com/dp/B07P1BWGYF/?tag=redken08-20) a 13 GBP (original: 17.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51bDvmhba1L._SL200_.jpg)](https://www.amazon.com/dp/B07P1BWGYF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07P1BWGYF/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07P1BWGYF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

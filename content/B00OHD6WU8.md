@@ -14,10 +14,10 @@ comparePrice: 11 EUR
 inStock: true
 ---
 
-Tienes [Kappa Ribolla Short  Niños  Verde  12Y](https://www.amazon.com/dp/B00OHD6WU8/?tag=redken08-20) a precio de oferta de 4.95 EUR (original: 11 EUR) en el siguiente enlace!
+Está [Kappa Ribolla Short  Niños  Verde  12Y](https://www.amazon.com/dp/B00OHD6WU8/?tag=redken08-20) por 4.95 EUR (original: 11 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VGMC5r6uL._SL200_.jpg)](https://www.amazon.com/dp/B00OHD6WU8/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00OHD6WU8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00OHD6WU8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

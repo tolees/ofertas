@@ -14,10 +14,10 @@ comparePrice: 28 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Tech 2.0 SS tee Camiseta  Hombre  Azul  Royal/Mod Gray 402   S](https://www.amazon.com/dp/B07J31CRRY/?tag=redken08-20) por 14.99 EUR (original: 28 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA Tech 2.0 SS tee Camiseta  Hombre  Azul  Royal/Mod Gray 402   S](https://www.amazon.com/dp/B07J31CRRY/?tag=redken08-20) a 14.99 EUR (original: 28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4145d54KIBL._SL200_.jpg)](https://www.amazon.com/dp/B07J31CRRY/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07J31CRRY/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07J31CRRY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

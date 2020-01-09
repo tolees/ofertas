@@ -14,10 +14,10 @@ comparePrice: 24.7 EUR
 inStock: true
 ---
 
-Está [Té Verde Matcha Orgánico Japonés En Polvo [ Calidad Premium ] 100g. Té Matcha Biológico Japonés. Té Bio Grado Premium. Matcha Ecológico Cultivado En Japón  Uji  Kyoto. Ideal Para Beber  Cocina  Latte](https://www.amazon.com/dp/B06XQ5DCYJ/?tag=redken08-20) por 15.99 EUR (original: 24.7 EUR) en el siguiente enlace!
+Tienes [Té Verde Matcha Orgánico Japonés En Polvo [ Calidad Premium ] 100g. Té Matcha Biológico Japonés. Té Bio Grado Premium. Matcha Ecológico Cultivado En Japón  Uji  Kyoto. Ideal Para Beber  Cocina  Latte](https://www.amazon.com/dp/B06XQ5DCYJ/?tag=redken08-20) a precio de oferta de 15.99 EUR (original: 24.7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41r6DSvfogL._SL200_.jpg)](https://www.amazon.com/dp/B06XQ5DCYJ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06XQ5DCYJ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06XQ5DCYJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

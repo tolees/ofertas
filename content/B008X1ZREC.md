@@ -14,10 +14,10 @@ comparePrice: 117.26 EUR
 inStock: true
 ---
 
-Tienes [Geox Textil D Heritage B WHERITAGE2 - Sandalias para Mujer  Color Gris  Talla 40](https://www.amazon.com/dp/B008X1ZREC/?tag=redken08-20) a precio de oferta de 39 EUR (original: 117.26 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox Textil D Heritage B WHERITAGE2 - Sandalias para Mujer  Color Gris  Talla 40](https://www.amazon.com/dp/B008X1ZREC/?tag=redken08-20) a 39 EUR (original: 117.26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fmAWh3i4L._SL200_.jpg)](https://www.amazon.com/dp/B008X1ZREC/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B008X1ZREC/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B008X1ZREC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

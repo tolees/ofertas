@@ -14,10 +14,10 @@ comparePrice: 13.22 EUR
 inStock: true
 ---
 
-Está [Maped 897118 - Kit de regla zurdos  escuadra y transportador  3 piezas](https://www.amazon.com/dp/B004VCITHY/?tag=redken08-20) por 6.13 EUR (original: 13.22 EUR) en el siguiente enlace!
+Tienes [Maped 897118 - Kit de regla zurdos  escuadra y transportador  3 piezas](https://www.amazon.com/dp/B004VCITHY/?tag=redken08-20) a precio de oferta de 6.13 EUR (original: 13.22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BWyMAsVbL._SL200_.jpg)](https://www.amazon.com/dp/B004VCITHY/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B004VCITHY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B004VCITHY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

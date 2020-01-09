@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [RIP CURL MAI Ohana Top Camisa  Mujer  Black  XS](https://www.amazon.com/dp/B07PCYYXYF/?tag=redken08-20) por 24.07 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [RIP CURL MAI Ohana Top Camisa  Mujer  Black  XS](https://www.amazon.com/dp/B07PCYYXYF/?tag=redken08-20) a precio de oferta de 24.07 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pVTLW5AiL._SL200_.jpg)](https://www.amazon.com/dp/B07PCYYXYF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07PCYYXYF/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07PCYYXYF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

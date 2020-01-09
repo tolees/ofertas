@@ -14,10 +14,10 @@ comparePrice: 279.99 EUR
 inStock: true
 ---
 
-Tienes [Qimmiq DV360 - Cámara de 16 MP  4K  Pantalla 0.83"  Color Negro](https://www.amazon.com/dp/B01NCLMR12/?tag=redken08-20) a precio de oferta de 143.42 EUR (original: 279.99 EUR) en el siguiente enlace!
+Está [Qimmiq DV360 - Cámara de 16 MP  4K  Pantalla 0.83"  Color Negro](https://www.amazon.com/dp/B01NCLMR12/?tag=redken08-20) por 143.42 EUR (original: 279.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41I0n4L-fEL._SL200_.jpg)](https://www.amazon.com/dp/B01NCLMR12/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01NCLMR12/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01NCLMR12/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
