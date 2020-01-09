@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taladro Percutor  GALAX PRO 600W Mejorad'
-date: 2020-01-04 11:38:42
+date: 2020-01-09 14:56:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S7zPbG95L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S7zPbG95L._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 139.99 EUR
 inStock: true
 ---
 
-Está [Vernee X2 Móvil Libre 4G  6350mAh Batería  Android 9.0  6" HD  3GB RAM+32GB ROM  Dual SIM  4 Núcleos  Face ID+Touch ID  Cámara Trasera 13MP+5MP Frontal 5MP  Procesador MT6739  GPS GLONASS - Azul](https://www.amazon.com/dp/B07SW4GBN7/?tag=redken08-20) por 91.79 EUR (original: 139.99 EUR) en el siguiente enlace!
+Tienes [Vernee X2 Móvil Libre 4G  6350mAh Batería  Android 9.0  6" HD  3GB RAM+32GB ROM  Dual SIM  4 Núcleos  Face ID+Touch ID  Cámara Trasera 13MP+5MP Frontal 5MP  Procesador MT6739  GPS GLONASS - Azul](https://www.amazon.com/dp/B07SW4GBN7/?tag=redken08-20) a precio de oferta de 91.79 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xju-JBBRL._SL200_.jpg)](https://www.amazon.com/dp/B07SW4GBN7/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07SW4GBN7/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07SW4GBN7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Regleta con Interruptor Individual BESTE'
-date: 2019/10/17 06:02:48 +0000
+date: 2020-01-09 14:32:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ft5dLKGhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ft5dLKGhL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 6.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sotya Omega 369-150 gr](https://www.amazon.com/dp/B00PYD0L9I/?tag=redken08-20) a 3.61 EUR (original: 6.9 EUR) en el siguiente enlace!
+Está [Sotya Omega 369-150 gr](https://www.amazon.com/dp/B00PYD0L9I/?tag=redken08-20) por 3.61 EUR (original: 6.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FIxVSYm%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00PYD0L9I/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00PYD0L9I/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00PYD0L9I/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

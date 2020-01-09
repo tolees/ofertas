@@ -14,10 +14,10 @@ comparePrice: 14.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NESCAFÉ Dolce Gusto  Cacao  Pack de 3 x 16 Cápsulas   48 Cápsulas de cacao](https://www.amazon.com/dp/B07D2X8QVH/?tag=redken08-20) a 6.48 EUR (original: 14.97 EUR) en el siguiente enlace!
+Tienes [NESCAFÉ Dolce Gusto  Cacao  Pack de 3 x 16 Cápsulas   48 Cápsulas de cacao](https://www.amazon.com/dp/B07D2X8QVH/?tag=redken08-20) a precio de oferta de 6.48 EUR (original: 14.97 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516hb%2BHe4ML._SL200_.jpg)](https://www.amazon.com/dp/B07D2X8QVH/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07D2X8QVH/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07D2X8QVH/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
