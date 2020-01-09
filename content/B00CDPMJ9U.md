@@ -14,10 +14,10 @@ comparePrice: 84.84 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tesa Assa Abloy  TX853040N  Cilindro de Alta Seguridad  TX80  Doble Embrague  Leva Larga  Llave - Llave  Niquelado  30 x 40 mm](https://www.amazon.com/dp/B00CDPMJ9U/?tag=redken08-20) a 45.89 EUR (original: 84.84 EUR) en el siguiente enlace!
+Está [Tesa Assa Abloy  TX853040N  Cilindro de Alta Seguridad  TX80  Doble Embrague  Leva Larga  Llave - Llave  Niquelado  30 x 40 mm](https://www.amazon.com/dp/B00CDPMJ9U/?tag=redken08-20) por 45.89 EUR (original: 84.84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31OnKT11akL._SL200_.jpg)](https://www.amazon.com/dp/B00CDPMJ9U/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00CDPMJ9U/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00CDPMJ9U/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

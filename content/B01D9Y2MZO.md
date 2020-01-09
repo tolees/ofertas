@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clarins Solaire Lait Fondant Auto-Bronza'
-date: 2020-01-01 01:53:44
+date: 2020-01-09 15:59:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H1AuXbhVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H1AuXbhVL._SL200_.jpg' ]
 comments: true

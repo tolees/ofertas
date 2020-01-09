@@ -14,10 +14,10 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Springfield Cal Poplin Print Camisa Casual   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.com/dp/B07KYN6KS3/?tag=redken08-20) a 12.3 EUR (original: 25.99 EUR) en el siguiente enlace!
+Está [Springfield Cal Poplin Print Camisa Casual   Azul Marino 10   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.com/dp/B07KYN6KS3/?tag=redken08-20) por 12.3 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51bQK5NOT5L._SL200_.jpg)](https://www.amazon.com/dp/B07KYN6KS3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KYN6KS3/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KYN6KS3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
