@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 4K UHD 2019 55RU7475  Smart TV  '
-date: 2020-01-06 21:49:00
+date: 2020-01-09 14:00:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ARAeBw7CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ARAeBw7CL._SL200_.jpg' ]
 comments: true

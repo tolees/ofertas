@@ -14,10 +14,10 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [Adidas COD CW4156 Balón Real Madrid Temporada 2018/2019 Talla 5](https://www.amazon.com/dp/B07DBCJSQ2/?tag=redken08-20) a precio de oferta de 13.59 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Adidas COD CW4156 Balón Real Madrid Temporada 2018/2019 Talla 5](https://www.amazon.com/dp/B07DBCJSQ2/?tag=redken08-20) por 13.59 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](._SL200_)](https://www.amazon.com/dp/B07DBCJSQ2/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07DBCJSQ2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DBCJSQ2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

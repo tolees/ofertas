@@ -14,10 +14,10 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Northweek Bold Lipslide - Gafas de Sol para Hombre y Mujer  Polarizadas  Negro / Dorado](https://www.amazon.com/dp/B072MNR7RX/?tag=redken08-20) por 15 EUR (original: 30 EUR) en el siguiente enlace!
+Tienes [Northweek Bold Lipslide - Gafas de Sol para Hombre y Mujer  Polarizadas  Negro / Dorado](https://www.amazon.com/dp/B072MNR7RX/?tag=redken08-20) a precio de oferta de 15 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EjNMSG6KL._SL200_.jpg)](https://www.amazon.com/dp/B072MNR7RX/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B072MNR7RX/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B072MNR7RX/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

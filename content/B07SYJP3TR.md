@@ -14,10 +14,10 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Imperial Star Destroyer-Compatible with Lego 75055 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20) a 27.99 GBP (original: 39.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Star Wars Imperial Star Destroyer-Compatible with Lego 75055 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20) por 27.99 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51oPpWZbERL._SL200_.jpg)](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07SYJP3TR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

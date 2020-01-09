@@ -14,10 +14,10 @@ comparePrice: 25.72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Herbalgem Aliso Bio - 30 gr](https://www.amazon.com/dp/B07BR7N8WS/?tag=redken08-20) a 14.25 EUR (original: 25.72 EUR) en el siguiente enlace!
+Está [Herbalgem Aliso Bio - 30 gr](https://www.amazon.com/dp/B07BR7N8WS/?tag=redken08-20) por 14.25 EUR (original: 25.72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bu92ZZguL._SL200_.jpg)](https://www.amazon.com/dp/B07BR7N8WS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07BR7N8WS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07BR7N8WS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

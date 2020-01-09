@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ghd original styler - Plancha de pelo pr'
-date: 2020-01-08 08:39:22
+date: 2020-01-09 12:21:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-R0Q4PLvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-R0Q4PLvL._SL200_.jpg' ]
 comments: true

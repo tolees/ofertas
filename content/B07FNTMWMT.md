@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Speed Champions 75894 - 1967 Mini Cooper S und  2018 Buggy Mini John Cooper Works  Rallyeauto](https://www.amazon.com/dp/B07FNTMWMT/?tag=redken08-20) a 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [LEGO Speed Champions 75894 - 1967 Mini Cooper S und  2018 Buggy Mini John Cooper Works  Rallyeauto](https://www.amazon.com/dp/B07FNTMWMT/?tag=redken08-20) a precio de oferta de 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tVbDpcaFL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTMWMT/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNTMWMT/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FNTMWMT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

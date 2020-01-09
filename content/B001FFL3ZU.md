@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weider Victory Endurance  Amino Recovery'
-date: 2019/12/23 20:08:19 +0000
+date: 2020-01-09 14:09:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uhzfr5b5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uhzfr5b5L._SL200_.jpg' ]
 comments: true

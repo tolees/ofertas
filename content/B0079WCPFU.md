@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo HO 232 Horno eléctrico de sobre'
-date: 2020-01-05 21:01:12
+date: 2020-01-09 14:00:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NcqslxvZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NcqslxvZL._SL200_.jpg' ]
 comments: true
