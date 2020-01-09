@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Playmobil 9243 DreamWorks Dragons Berk I'
-date: 2020-01-07 22:28:22
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg' ]
+title: 'Playmobil 9243 - Berk'
+date: 2020-01-08 06:50:13
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61RUkXk6hZL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61RUkXk6hZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06WCZCRPN
 description:
-actualPrice: 44.89 GBP
-comparePrice: 119.99 GBP
+actualPrice: 61.14 EUR
+comparePrice: 124.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 9243 DreamWorks Dragons Berk Island Fortress with Firing Cannons](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20) por 44.89 GBP (original: 119.99 GBP) en el siguiente enlace!
+Está [Playmobil 9243 - Berk](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20) por 61.14 EUR (original: 124.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/61BDxl6JtML._SL200_.jpg)](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/61RUkXk6hZL._SL200_.jpg)](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B06WCZCRPN/?tag=redken08-20)
 

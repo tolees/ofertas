@@ -14,10 +14,10 @@ comparePrice: 36.42 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 088cc2f004 Camisa  Azul  Light Blue 440   Large para Hombre](https://www.amazon.com/dp/B07DXYY7YV/?tag=redken08-20) a 24.93 EUR (original: 36.42 EUR) en el siguiente enlace!
+Está [edc by Esprit 088cc2f004 Camisa  Azul  Light Blue 440   Large para Hombre](https://www.amazon.com/dp/B07DXYY7YV/?tag=redken08-20) por 24.93 EUR (original: 36.42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZYo32EuYL._SL200_.jpg)](https://www.amazon.com/dp/B07DXYY7YV/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DXYY7YV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DXYY7YV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

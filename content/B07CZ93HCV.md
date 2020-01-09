@@ -14,10 +14,10 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Playoff Polo 2.0  Hombre  Azul  Thunder/Petrol Blue/Pitch Gray 407   L](https://www.amazon.com/dp/B07CZ93HCV/?tag=redken08-20) a 31.82 EUR (original: 64.99 EUR) en el siguiente enlace!
+Está [Under Armour Playoff Polo 2.0  Hombre  Azul  Thunder/Petrol Blue/Pitch Gray 407   L](https://www.amazon.com/dp/B07CZ93HCV/?tag=redken08-20) por 31.82 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318n5FrVyPL._SL200_.jpg)](https://www.amazon.com/dp/B07CZ93HCV/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07CZ93HCV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07CZ93HCV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

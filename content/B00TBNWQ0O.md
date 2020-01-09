@@ -14,10 +14,10 @@ comparePrice: 7.29 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NESCAFÉ Dolce Gusto Marrakesh Style Tea | Cápsulas de Té - 16 cápsulas de café](https://www.amazon.com/dp/B00TBNWQ0O/?tag=redken08-20) a 4.04 EUR (original: 7.29 EUR) en el siguiente enlace!
+Tienes [NESCAFÉ Dolce Gusto Marrakesh Style Tea | Cápsulas de Té - 16 cápsulas de café](https://www.amazon.com/dp/B00TBNWQ0O/?tag=redken08-20) a precio de oferta de 4.04 EUR (original: 7.29 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51mug0hGwdL._SL200_.jpg)](https://www.amazon.com/dp/B00TBNWQ0O/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00TBNWQ0O/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00TBNWQ0O/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

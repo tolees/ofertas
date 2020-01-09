@@ -14,10 +14,10 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance WRT96 W Calzado schwarz](https://www.amazon.com/dp/B01M7OSZG4/?tag=redken08-20) a 50 EUR (original: 100 EUR) en el siguiente enlace!
+Está [New Balance WRT96 W Calzado schwarz](https://www.amazon.com/dp/B01M7OSZG4/?tag=redken08-20) por 50 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zsIBtjTXL._SL200_.jpg)](https://www.amazon.com/dp/B01M7OSZG4/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01M7OSZG4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01M7OSZG4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

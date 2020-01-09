@@ -14,10 +14,10 @@ comparePrice: 23.2 EUR
 inStock: true
 ---
 
-Está [BONKA Café Molido de Tueste Natural Puro Colombia y Cultivo Sostenible  Paquete de Café de 8 x 220 g](https://www.amazon.com/dp/B079ZYJXZ2/?tag=redken08-20) por 17.34 EUR (original: 23.2 EUR) en el siguiente enlace!
+Tienes [BONKA Café Molido de Tueste Natural Puro Colombia y Cultivo Sostenible  Paquete de Café de 8 x 220 g](https://www.amazon.com/dp/B079ZYJXZ2/?tag=redken08-20) a precio de oferta de 17.34 EUR (original: 23.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gdbIBgdyL._SL200_.jpg)](https://www.amazon.com/dp/B079ZYJXZ2/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B079ZYJXZ2/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B079ZYJXZ2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

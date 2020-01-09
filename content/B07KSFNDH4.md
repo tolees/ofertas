@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia FAST TREK II - Chaqueta Polar con Cremallera Completa  Negro  Shark  Mountain Red   Talla: M](https://www.amazon.com/dp/B07KSFNDH4/?tag=redken08-20) a 26.96 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Columbia FAST TREK II - Chaqueta Polar con Cremallera Completa  Negro  Shark  Mountain Red   Talla: M](https://www.amazon.com/dp/B07KSFNDH4/?tag=redken08-20) por 26.96 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wgoZ%2BTMqL._SL200_.jpg)](https://www.amazon.com/dp/B07KSFNDH4/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KSFNDH4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KSFNDH4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

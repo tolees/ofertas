@@ -14,10 +14,10 @@ comparePrice: 249 EUR
 inStock: true
 ---
 
-Está [Xiaomi Redmi Note 5 - Smartphone de 5.99"  Snapdragon Octa-core 636  memoria interna de 64 GB  4 GB de RAM  cámara de 13 MP  Android  dorado  [versión española]](https://www.amazon.com/dp/B07D89KSNL/?tag=redken08-20) por 169 EUR (original: 249 EUR) en el siguiente enlace!
+Tienes [Xiaomi Redmi Note 5 - Smartphone de 5.99"  Snapdragon Octa-core 636  memoria interna de 64 GB  4 GB de RAM  cámara de 13 MP  Android  dorado  [versión española]](https://www.amazon.com/dp/B07D89KSNL/?tag=redken08-20) a precio de oferta de 169 EUR (original: 249 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41buf9WCicL._SL200_.jpg)](https://www.amazon.com/dp/B07D89KSNL/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07D89KSNL/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07D89KSNL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

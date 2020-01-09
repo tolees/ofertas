@@ -14,10 +14,10 @@ comparePrice: 32.15 EUR
 inStock: true
 ---
 
-Tienes [Peroni Juego de 8 Cerveza en Botella 33 X 3 Vidrio Bebida alcohólica de Mesa  única](https://www.amazon.com/dp/B07DQPCJCL/?tag=redken08-20) a precio de oferta de 24.07 EUR (original: 32.15 EUR) en el siguiente enlace!
+Está [Peroni Juego de 8 Cerveza en Botella 33 X 3 Vidrio Bebida alcohólica de Mesa  única](https://www.amazon.com/dp/B07DQPCJCL/?tag=redken08-20) por 24.07 EUR (original: 32.15 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516Nj9mE7oL._SL200_.jpg)](https://www.amazon.com/dp/B07DQPCJCL/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07DQPCJCL/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DQPCJCL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

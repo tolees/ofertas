@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini PC Windows 10  ACEPC AK2 6GB Ram 64'
-date: 2020-01-07 22:13:49
+date: 2020-01-08 22:24:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ox9xRb%2BqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ox9xRb%2BqL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 30.75 EUR
 inStock: true
 ---
 
-Está [Gigaset A120 Duo Teléfono inalámbrico  Agenda de 50 contactos.](https://www.amazon.com/dp/B0082VHSWM/?tag=redken08-20) por 21.45 EUR (original: 30.75 EUR) en el siguiente enlace!
+Tienes [Gigaset A120 Duo Teléfono inalámbrico  Agenda de 50 contactos.](https://www.amazon.com/dp/B0082VHSWM/?tag=redken08-20) a precio de oferta de 21.45 EUR (original: 30.75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41A%2BneSk0TL._SL200_.jpg)](https://www.amazon.com/dp/B0082VHSWM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0082VHSWM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B0082VHSWM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

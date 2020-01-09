@@ -14,10 +14,10 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Tienes [Leifheit Cabino - Limpiador para cabinas de Ducha de plástico  24 cm  Color Blanco](https://www.amazon.com/dp/B0002HOUDE/?tag=redken08-20) a precio de oferta de 6.5 EUR (original: 9.95 EUR) en el siguiente enlace!
+Está [Leifheit Cabino - Limpiador para cabinas de Ducha de plástico  24 cm  Color Blanco](https://www.amazon.com/dp/B0002HOUDE/?tag=redken08-20) por 6.5 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ikiCoTRBL._SL200_.jpg)](https://www.amazon.com/dp/B0002HOUDE/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B0002HOUDE/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0002HOUDE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

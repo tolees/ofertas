@@ -14,10 +14,10 @@ comparePrice: 207.01 EUR
 inStock: true
 ---
 
-Tienes [Imperial Confort Helsinki New 25 Colchón viscoelástico  Espuma HR  Blanco/Rojo  150x190](https://www.amazon.com/dp/B07DKNDJ23/?tag=redken08-20) a precio de oferta de 145.2 EUR (original: 207.01 EUR) en el siguiente enlace!
+Ahora mismo tienes [Imperial Confort Helsinki New 25 Colchón viscoelástico  Espuma HR  Blanco/Rojo  150x190](https://www.amazon.com/dp/B07DKNDJ23/?tag=redken08-20) a 145.2 EUR (original: 207.01 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KB8J2V1YL._SL200_.jpg)](https://www.amazon.com/dp/B07DKNDJ23/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07DKNDJ23/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07DKNDJ23/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

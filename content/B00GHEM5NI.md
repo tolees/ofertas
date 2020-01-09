@@ -14,10 +14,10 @@ comparePrice: 5.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gardena 241-20 Soporte  Verde](https://www.amazon.com/dp/B00GHEM5NI/?tag=redken08-20) a 4.2 EUR (original: 5.95 EUR) en el siguiente enlace!
+Está [Gardena 241-20 Soporte  Verde](https://www.amazon.com/dp/B00GHEM5NI/?tag=redken08-20) por 4.2 EUR (original: 5.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qAb2txncL._SL200_.jpg)](https://www.amazon.com/dp/B00GHEM5NI/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00GHEM5NI/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00GHEM5NI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 31.95 EUR
 inStock: true
 ---
 
-Está [LEGO La LEGO Película 2 - Caja de Constructor de Emmet  divertido juguete de construcción con escavadora  70832 ](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20) por 22.36 EUR (original: 31.95 EUR) en el siguiente enlace!
+Tienes [LEGO La LEGO Película 2 - Caja de Constructor de Emmet  divertido juguete de construcción con escavadora  70832 ](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20) a precio de oferta de 22.36 EUR (original: 31.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg)](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

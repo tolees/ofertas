@@ -14,10 +14,10 @@ comparePrice: 526 EUR
 inStock: true
 ---
 
-Tienes [Apple iPhone 6s Plus  de 32GB  - Plata](https://www.amazon.com/dp/B01LWJ6DFS/?tag=redken08-20) a precio de oferta de 379 EUR (original: 526 EUR) en el siguiente enlace!
+Está [Apple iPhone 6s Plus  de 32GB  - Plata](https://www.amazon.com/dp/B01LWJ6DFS/?tag=redken08-20) por 379 EUR (original: 526 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mtZnVH4TL._SL200_.jpg)](https://www.amazon.com/dp/B01LWJ6DFS/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01LWJ6DFS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LWJ6DFS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

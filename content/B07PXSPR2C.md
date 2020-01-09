@@ -14,10 +14,10 @@ comparePrice: 10.95 EUR
 inStock: true
 ---
 
-Está [Terry White Brandy Blanco - 700 ml](https://www.amazon.com/dp/B07PXSPR2C/?tag=redken08-20) por 8.2 EUR (original: 10.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Terry White Brandy Blanco - 700 ml](https://www.amazon.com/dp/B07PXSPR2C/?tag=redken08-20) a 8.2 EUR (original: 10.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aTWghMeML._SL200_.jpg)](https://www.amazon.com/dp/B07PXSPR2C/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07PXSPR2C/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07PXSPR2C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

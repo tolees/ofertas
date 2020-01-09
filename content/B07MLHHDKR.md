@@ -14,10 +14,10 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Sony SRS-XB12  Altavoz Inalámbrico Portátil  Bluetooth  Extra Bass  Diseño Portátil  Batería hasta 16h  Resistente al Agua y Polvo IP67   Inalámbrico y Alámbrico MicroUSB  Rojo](https://www.amazon.com/dp/B07MLHHDKR/?tag=redken08-20) por 36.36 EUR (original: 60 EUR) en el siguiente enlace!
+Tienes [Sony SRS-XB12  Altavoz Inalámbrico Portátil  Bluetooth  Extra Bass  Diseño Portátil  Batería hasta 16h  Resistente al Agua y Polvo IP67   Inalámbrico y Alámbrico MicroUSB  Rojo](https://www.amazon.com/dp/B07MLHHDKR/?tag=redken08-20) a precio de oferta de 36.36 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31kY3me8frL._SL200_.jpg)](https://www.amazon.com/dp/B07MLHHDKR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MLHHDKR/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07MLHHDKR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

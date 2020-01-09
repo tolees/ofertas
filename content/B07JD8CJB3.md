@@ -14,10 +14,10 @@ comparePrice: 16.82 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Santoro London  Agua fresca - 50 ml.](https://www.amazon.com/dp/B07JD8CJB3/?tag=redken08-20) a 10.77 EUR (original: 16.82 EUR) en el siguiente enlace!
+Está [Santoro London  Agua fresca - 50 ml.](https://www.amazon.com/dp/B07JD8CJB3/?tag=redken08-20) por 10.77 EUR (original: 16.82 EUR) en el siguiente enlace!
 
 [![](._SL200_)](https://www.amazon.com/dp/B07JD8CJB3/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07JD8CJB3/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07JD8CJB3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

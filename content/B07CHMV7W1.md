@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ALCATEL 3X Smartphone Quad Core 1.28 GHz'
-date: 2020-01-06 20:28:10
+date: 2020-01-09 00:04:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JMiT2mwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JMiT2mwtL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mini Secador de Uñas 12W  Lámpara de Uñas LED UV con temporizador  Herramienta de secado de manicura para uñas y uñas de los pies Rojo ](https://www.amazon.com/dp/B07MJ8WT9Z/?tag=redken08-20) a 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!
+Está [Mini Secador de Uñas 12W  Lámpara de Uñas LED UV con temporizador  Herramienta de secado de manicura para uñas y uñas de los pies Rojo ](https://www.amazon.com/dp/B07MJ8WT9Z/?tag=redken08-20) por 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4125KCQaoaL._SL200_.jpg)](https://www.amazon.com/dp/B07MJ8WT9Z/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07MJ8WT9Z/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MJ8WT9Z/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
