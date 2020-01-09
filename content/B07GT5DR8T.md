@@ -14,10 +14,10 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Tienes [Skechers Women s On The Go Rubix Knit Hook & Loop Sandal Navy/White-Navy-6 Size 6](https://www.amazon.com/dp/B07GT5DR8T/?tag=redken08-20) a precio de oferta de 38.47 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Skechers Women s On The Go Rubix Knit Hook & Loop Sandal Navy/White-Navy-6 Size 6](https://www.amazon.com/dp/B07GT5DR8T/?tag=redken08-20) por 38.47 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qTS3A7vvL._SL200_.jpg)](https://www.amazon.com/dp/B07GT5DR8T/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07GT5DR8T/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07GT5DR8T/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

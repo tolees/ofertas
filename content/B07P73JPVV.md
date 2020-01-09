@@ -14,10 +14,10 @@ comparePrice: 22.99 EUR
 inStock: true
 ---
 
-Tienes [deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes Playset Conjunto Juego de Ciencia Incluye Cohetes de Goma Espuma para Interiores y Exteriores](https://www.amazon.com/dp/B07P73JPVV/?tag=redken08-20) a precio de oferta de 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!
+Está [deAO Lanzador de Cohetes Infantil Salta y Lanza Cohetes Playset Conjunto Juego de Ciencia Incluye Cohetes de Goma Espuma para Interiores y Exteriores](https://www.amazon.com/dp/B07P73JPVV/?tag=redken08-20) por 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417%2Bx8jCEUL._SL200_.jpg)](https://www.amazon.com/dp/B07P73JPVV/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07P73JPVV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07P73JPVV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

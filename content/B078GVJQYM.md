@@ -14,10 +14,10 @@ comparePrice: 295 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pala BULLPADEL Vertex 2 Control 2018](https://www.amazon.com/dp/B078GVJQYM/?tag=redken08-20) a 169.9 EUR (original: 295 EUR) en el siguiente enlace!
+Está [Pala BULLPADEL Vertex 2 Control 2018](https://www.amazon.com/dp/B078GVJQYM/?tag=redken08-20) por 169.9 EUR (original: 295 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dBSaGyApL._SL200_.jpg)](https://www.amazon.com/dp/B078GVJQYM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B078GVJQYM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B078GVJQYM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

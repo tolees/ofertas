@@ -14,10 +14,10 @@ comparePrice: 329.71 EUR
 inStock: true
 ---
 
-Está [Karen Millen Tailoring Coat  Abrigo para Mujer  Negro  Black  40  Talla del Fabricante: UK 12 ](https://www.amazon.com/dp/B07GSBJ3WQ/?tag=redken08-20) por 145.08 EUR (original: 329.71 EUR) en el siguiente enlace!
+Tienes [Karen Millen Tailoring Coat  Abrigo para Mujer  Negro  Black  40  Talla del Fabricante: UK 12 ](https://www.amazon.com/dp/B07GSBJ3WQ/?tag=redken08-20) a precio de oferta de 145.08 EUR (original: 329.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xmMPXIX2L._SL200_.jpg)](https://www.amazon.com/dp/B07GSBJ3WQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07GSBJ3WQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07GSBJ3WQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

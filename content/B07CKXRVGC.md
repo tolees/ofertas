@@ -14,10 +14,10 @@ comparePrice: 735.87 EUR
 inStock: true
 ---
 
-Está [Huawei P20 Pro 128 GB/6 GB Single SIM Smartphone - Black  United Kingdom Version ](https://www.amazon.com/dp/B07CKXRVGC/?tag=redken08-20) por 389 EUR (original: 735.87 EUR) en el siguiente enlace!
+Ahora mismo tienes [Huawei P20 Pro 128 GB/6 GB Single SIM Smartphone - Black  United Kingdom Version ](https://www.amazon.com/dp/B07CKXRVGC/?tag=redken08-20) a 389 EUR (original: 735.87 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41r%2B4AdTKaL._SL200_.jpg)](https://www.amazon.com/dp/B07CKXRVGC/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07CKXRVGC/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07CKXRVGC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

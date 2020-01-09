@@ -14,10 +14,10 @@ comparePrice: 27.64 EUR
 inStock: true
 ---
 
-Tienes [Halloween Ii Blu-Ray Edición Coleccionista [Blu-ray]](https://www.amazon.com/dp/B06WGR1NB1/?tag=redken08-20) a precio de oferta de 14 EUR (original: 27.64 EUR) en el siguiente enlace!
+Está [Halloween Ii Blu-Ray Edición Coleccionista [Blu-ray]](https://www.amazon.com/dp/B06WGR1NB1/?tag=redken08-20) por 14 EUR (original: 27.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Gtxgtty3L._SL200_.jpg)](https://www.amazon.com/dp/B06WGR1NB1/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B06WGR1NB1/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06WGR1NB1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

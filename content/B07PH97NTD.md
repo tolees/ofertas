@@ -14,10 +14,10 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Tienes [Hurley Athletic Prem tee SS Geo Camiseta  Hombre  Negro  Black   L](https://www.amazon.com/dp/B07PH97NTD/?tag=redken08-20) a precio de oferta de 15.28 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Hurley Athletic Prem tee SS Geo Camiseta  Hombre  Negro  Black   L](https://www.amazon.com/dp/B07PH97NTD/?tag=redken08-20) por 15.28 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411BQ9y-LKL._SL200_.jpg)](https://www.amazon.com/dp/B07PH97NTD/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07PH97NTD/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07PH97NTD/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

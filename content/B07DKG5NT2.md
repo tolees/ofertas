@@ -14,10 +14,10 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rage 2 Deluxe Edition - PS4](https://www.amazon.com/dp/B07DKG5NT2/?tag=redken08-20) a 56.9 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [Rage 2 Deluxe Edition - PS4](https://www.amazon.com/dp/B07DKG5NT2/?tag=redken08-20) por 56.9 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61fqCTPV6xL._SL200_.jpg)](https://www.amazon.com/dp/B07DKG5NT2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DKG5NT2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DKG5NT2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

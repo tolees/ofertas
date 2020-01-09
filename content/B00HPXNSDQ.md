@@ -14,10 +14,10 @@ comparePrice: 178.6 EUR
 inStock: true
 ---
 
-Está [DEWALT DCD710D2-QW - Taladro Atornillador XR 10.8V  24 Nm  con 2 baterías de litio 2Ah y maletín TSTAK](https://www.amazon.com/dp/B00HPXNSDQ/?tag=redken08-20) por 83.99 EUR (original: 178.6 EUR) en el siguiente enlace!
+Tienes [DEWALT DCD710D2-QW - Taladro Atornillador XR 10.8V  24 Nm  con 2 baterías de litio 2Ah y maletín TSTAK](https://www.amazon.com/dp/B00HPXNSDQ/?tag=redken08-20) a precio de oferta de 83.99 EUR (original: 178.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xdKLPYf5L._SL200_.jpg)](https://www.amazon.com/dp/B00HPXNSDQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00HPXNSDQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00HPXNSDQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Exzact Báscula Corporal Electrónica/Báscula de Baño Digital/Escala Personal - 180kg - Exhibición del LCD de la contraluz  Dorado ](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20) a 12.99 EUR (original: 26.99 EUR) en el siguiente enlace!
+Tienes [Exzact Báscula Corporal Electrónica/Báscula de Baño Digital/Escala Personal - 180kg - Exhibición del LCD de la contraluz  Dorado ](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20) a precio de oferta de 12.99 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bS02p-8oL._SL200_.jpg)](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 22 EUR
 inStock: true
 ---
 
-Tienes [Victoria](https://www.amazon.com/dp/B00AGCJ5BC/?tag=redken08-20) a precio de oferta de 11.88 EUR (original: 22 EUR) en el siguiente enlace!
+Está [Victoria](https://www.amazon.com/dp/B00AGCJ5BC/?tag=redken08-20) por 11.88 EUR (original: 22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aCiGBQ9xL._SL200_.jpg)](https://www.amazon.com/dp/B00AGCJ5BC/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00AGCJ5BC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00AGCJ5BC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

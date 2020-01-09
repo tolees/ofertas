@@ -14,10 +14,10 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Tienes [Salomon Explore Graphic SS tee T-Shirt  Hombre  Azul  Nautical Blue   S](https://www.amazon.com/dp/B07MXZ2PQJ/?tag=redken08-20) a precio de oferta de 18.34 EUR (original: 35 EUR) en el siguiente enlace!
+Está [Salomon Explore Graphic SS tee T-Shirt  Hombre  Azul  Nautical Blue   S](https://www.amazon.com/dp/B07MXZ2PQJ/?tag=redken08-20) por 18.34 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412WLeR8%2BWL._SL200_.jpg)](https://www.amazon.com/dp/B07MXZ2PQJ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07MXZ2PQJ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MXZ2PQJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

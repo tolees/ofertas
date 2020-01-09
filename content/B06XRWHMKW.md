@@ -14,10 +14,10 @@ comparePrice: 176 EUR
 inStock: true
 ---
 
-Tienes [Michael Kors Ila  Gafas de Sol Unisex Adulto  Negro  Black 32716G   50](https://www.amazon.com/dp/B06XRWHMKW/?tag=redken08-20) a precio de oferta de 75.11 EUR (original: 176 EUR) en el siguiente enlace!
+Está [Michael Kors Ila  Gafas de Sol Unisex Adulto  Negro  Black 32716G   50](https://www.amazon.com/dp/B06XRWHMKW/?tag=redken08-20) por 75.11 EUR (original: 176 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313UOc9ZBsL._SL200_.jpg)](https://www.amazon.com/dp/B06XRWHMKW/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B06XRWHMKW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06XRWHMKW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

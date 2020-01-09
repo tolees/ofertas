@@ -14,10 +14,10 @@ comparePrice: 21 EUR
 inStock: true
 ---
 
-Tienes [Cudié  Avellana Dark - 6 de 80 gr. -  Total 480 gr. ](https://www.amazon.com/dp/B07KYF5WF1/?tag=redken08-20) a precio de oferta de 11.12 EUR (original: 21 EUR) en el siguiente enlace!
+Está [Cudié  Avellana Dark - 6 de 80 gr. -  Total 480 gr. ](https://www.amazon.com/dp/B07KYF5WF1/?tag=redken08-20) por 11.12 EUR (original: 21 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vtmrvjaEL._SL200_.jpg)](https://www.amazon.com/dp/B07KYF5WF1/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07KYF5WF1/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KYF5WF1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

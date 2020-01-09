@@ -14,10 +14,10 @@ comparePrice: 180 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NK AC3091-36D - Cámara Deportiva 360º  FullHD con doble óptica  WiFi  trípode y cable USB incluidos   color negro](https://www.amazon.com/dp/B01FG7EVFQ/?tag=redken08-20) a 89.99 EUR (original: 180 EUR) en el siguiente enlace!
+Está [NK AC3091-36D - Cámara Deportiva 360º  FullHD con doble óptica  WiFi  trípode y cable USB incluidos   color negro](https://www.amazon.com/dp/B01FG7EVFQ/?tag=redken08-20) por 89.99 EUR (original: 180 EUR) en el siguiente enlace!
 
 [![](._SL200_)](https://www.amazon.com/dp/B01FG7EVFQ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01FG7EVFQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01FG7EVFQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

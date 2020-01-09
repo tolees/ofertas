@@ -14,10 +14,10 @@ comparePrice: 160.9 EUR
 inStock: true
 ---
 
-Tienes [D-Link DAP-2610 - Punto de Acceso PoE WiFi AC1300 Wave2 MU-MIMO Dual Band para Interior  802.11ac hasta 1300 Mbps   Puerto Gigabit 100/1000 Mbps  WPA2 Enterprise  Radius  partición de WLAN](https://www.amazon.com/dp/B06XYTGT5M/?tag=redken08-20) a precio de oferta de 72.9 EUR (original: 160.9 EUR) en el siguiente enlace!
+Está [D-Link DAP-2610 - Punto de Acceso PoE WiFi AC1300 Wave2 MU-MIMO Dual Band para Interior  802.11ac hasta 1300 Mbps   Puerto Gigabit 100/1000 Mbps  WPA2 Enterprise  Radius  partición de WLAN](https://www.amazon.com/dp/B06XYTGT5M/?tag=redken08-20) por 72.9 EUR (original: 160.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CDMQXHNRL._SL200_.jpg)](https://www.amazon.com/dp/B06XYTGT5M/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B06XYTGT5M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06XYTGT5M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

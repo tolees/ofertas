@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Sunstech RPR4000WD - Radio de sobremesa  3 W RMS  AM/FM  USB   diseño retro de madera](https://www.amazon.com/dp/B00MJP18UK/?tag=redken08-20) a precio de oferta de 35.63 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Sunstech RPR4000WD - Radio de sobremesa  3 W RMS  AM/FM  USB   diseño retro de madera](https://www.amazon.com/dp/B00MJP18UK/?tag=redken08-20) por 35.63 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41K4V2ApVvL._SL200_.jpg)](https://www.amazon.com/dp/B00MJP18UK/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00MJP18UK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00MJP18UK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
