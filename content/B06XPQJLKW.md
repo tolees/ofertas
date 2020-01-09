@@ -14,10 +14,10 @@ comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Está [Té Verde Matcha - Orgánico 30g | Premio Ceremonial Japonés | Bio Orgánico certificado por JAS Japan EU Organic | Producto de Uji Kyoto Japan | Mejor para la pérdida de peso  Vegan & Healthy | Lot M13](https://www.amazon.com/dp/B06XPQJLKW/?tag=redken08-20) por 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!
+Tienes [Té Verde Matcha - Orgánico 30g | Premio Ceremonial Japonés | Bio Orgánico certificado por JAS Japan EU Organic | Producto de Uji Kyoto Japan | Mejor para la pérdida de peso  Vegan & Healthy | Lot M13](https://www.amazon.com/dp/B06XPQJLKW/?tag=redken08-20) a precio de oferta de 18.99 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41AIsU-XUbL._SL200_.jpg)](https://www.amazon.com/dp/B06XPQJLKW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06XPQJLKW/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06XPQJLKW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

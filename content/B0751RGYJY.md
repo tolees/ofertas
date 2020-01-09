@@ -14,10 +14,10 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Barbie Chelsea  casa de muñecas Casita del Árbol  juguete +3 años  Mattel FPF83 ](https://www.amazon.com/dp/B0751RGYJY/?tag=redken08-20) a 21.67 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Barbie Chelsea  casa de muñecas Casita del Árbol  juguete +3 años  Mattel FPF83 ](https://www.amazon.com/dp/B0751RGYJY/?tag=redken08-20) por 21.67 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wedf0d7kL._SL200_.jpg)](https://www.amazon.com/dp/B0751RGYJY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B0751RGYJY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0751RGYJY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

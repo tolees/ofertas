@@ -14,10 +14,10 @@ comparePrice: 98.46 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [tomatin Distillery 18 años 46% 1 botella  1er Pack  1 x 700 ml ](https://www.amazon.com/dp/B00IXLA15M/?tag=redken08-20) a 67.1 EUR (original: 98.46 EUR) en el siguiente enlace!
+Tienes [tomatin Distillery 18 años 46% 1 botella  1er Pack  1 x 700 ml ](https://www.amazon.com/dp/B00IXLA15M/?tag=redken08-20) a precio de oferta de 67.1 EUR (original: 98.46 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rJ6QEER%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00IXLA15M/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00IXLA15M/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00IXLA15M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

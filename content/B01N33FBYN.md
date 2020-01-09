@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'POP! Vinilo - DC: Wonder Woman: Hippolyt'
-date: 2019/08/20 22:44:43 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YvbVI3xRL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YvbVI3xRL._SL200_.jpg' ]
+title: 'DC Comics Funko Pop! 12541 Vinyl Wonder '
+date: 2019/12/19 07:02:34 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01N33FBYN
 description:
-actualPrice: 6.99 EUR
-comparePrice: 14.99 EUR
+actualPrice: 5 GBP
+comparePrice: 8.99 GBP
 inStock: true
 ---
 
-Tienes [POP! Vinilo - DC: Wonder Woman: Hippolyta](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20) a precio de oferta de 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [DC Comics Funko Pop! 12541 Vinyl Wonder Woman Hippolyta Figure](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20) a precio de oferta de 5 GBP (original: 8.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41YvbVI3xRL._SL200_.jpg)](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg)](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20)
 

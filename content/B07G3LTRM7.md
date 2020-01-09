@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO La LEGO Película 2 - Caja de Constr'
-date: 2019/08/02 00:04:16 +0000
+title: 'LEGO 70832 Movie 2 Emmet s Builder Box B'
+date: 2019/11/26 20:38:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07G3LTRM7
 description:
-actualPrice: 22.36 EUR
-comparePrice: 31.95 EUR
+actualPrice: 15.97 GBP
+comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO La LEGO Película 2 - Caja de Constructor de Emmet  divertido juguete de construcción con escavadora  70832 ](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20) a 22.36 EUR (original: 31.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 70832 Movie 2 Emmet s Builder Box Building Kit  Colourful](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20) a 15.97 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg)](https://www.amazon.com/dp/B07G3LTRM7/?tag=redken08-20)
 

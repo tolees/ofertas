@@ -14,10 +14,10 @@ comparePrice: 55.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salsa 27](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20) a 26.4 EUR (original: 55.2 EUR) en el siguiente enlace!
+Está [Salsa 27](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20) por 26.4 EUR (original: 55.2 EUR) en el siguiente enlace!
 
 [![](._SL200_)](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

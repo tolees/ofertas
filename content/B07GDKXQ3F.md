@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi MI Mix 2S - Smartphone DE 5.9"  Q'
-date: 2020-01-08 06:56:30
+date: 2020-01-09 08:11:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Im8RqRi8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Im8RqRi8L._SL200_.jpg' ]
 comments: true
