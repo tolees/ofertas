@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City 60213 Feuerwehr am Hafen'
-date: 2020-01-08 14:37:39
+date: 2020-01-10 06:52:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w9tQiNx4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w9tQiNx4L._SL200_.jpg' ]
 comments: true

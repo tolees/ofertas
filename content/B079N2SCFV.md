@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 9458 Dragons  Ruffnut and Tuff'
-date: 2019/12/13 23:24:27 +0000
+title: 'PLAYMOBIL 9458 - DreamWorks Dragons  Raf'
+date: 2019/12/16 00:01:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61s8lqFPzWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61s8lqFPzWL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079N2SCFV
 description:
-actualPrice: 37.09 GBP
-comparePrice: 49.99 GBP
+actualPrice: 40.53 EUR
+comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Tienes [Playmobil 9458 Dragons  Ruffnut and Tuffnut with Barf and Belch  For Children Ages 4+](https://www.amazon.com/dp/B079N2SCFV/?tag=redken08-20) a precio de oferta de 37.09 GBP (original: 49.99 GBP) en el siguiente enlace!
+Tienes [PLAYMOBIL 9458 - DreamWorks Dragons  Raffnuss und Taffnuss mit Kotz und Würg  Ab 4 Jahren](https://www.amazon.com/dp/B079N2SCFV/?tag=redken08-20) a precio de oferta de 40.53 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61s8lqFPzWL._SL200_.jpg)](https://www.amazon.com/dp/B079N2SCFV/?tag=redken08-20)
 

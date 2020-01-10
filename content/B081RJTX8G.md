@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Te'
-date: 2020-01-07 23:02:03
+title: 'BRIKSMAX Kit de Iluminación Led para Leg'
+date: 2020-01-08 23:32:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oeqBli15L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oeqBli15L._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für Lego Technic Land Rover Defender Kompatibel Mit Lego 42110 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20) por 54.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Kit de Iluminación Led para Lego Technic Land Rover Defender Compatible con Ladrillos de Construcción Lego Modelo 42110  Juego de Legos no Incluido](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20) por 54.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51oeqBli15L._SL200_.jpg)](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20)
 

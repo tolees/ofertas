@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70418 Hidden Side J.B. s Geisterlab'
-date: 2020-01-08 06:37:02
+date: 2020-01-10 06:51:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hqlv1NSSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hqlv1NSSL._SL200_.jpg' ]
 comments: true

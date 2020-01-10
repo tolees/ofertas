@@ -14,10 +14,10 @@ comparePrice: 249 EUR
 inStock: true
 ---
 
-Está [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20) por 179.99 EUR (original: 249 EUR) en el siguiente enlace!
+Tienes [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20) a precio de oferta de 179.99 EUR (original: 249 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL._SL200_.jpg)](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

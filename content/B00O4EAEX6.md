@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 6957 - Mein Schiff zum Mitnehm'
-date: 2020-01-07 23:14:12
+date: 2020-01-09 22:32:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J92j7C29L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J92j7C29L._SL200_.jpg' ]
 comments: true

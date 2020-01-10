@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Optimum Nutrition Gold Standard Pre-Work'
-date: 2019/10/14 23:16:06 +0000
-thumbnailImage: 'http://images.amazon.com/images/P/B00TFB0YX8.01._PI_SCMZZZZZZZ_._SL200_.jpg'
-images: [ 'http://images.amazon.com/images/P/B00TFB0YX8.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
+title: 'Optimum Nutrition ON Gold Standard Pre W'
+date: 2020-01-09 22:37:04
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00TFB0YX8
 description:
-actualPrice: 17.89 EUR
+actualPrice: 16.32 EUR
 comparePrice: 25.21 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Optimum Nutrition Gold Standard Pre-Workout Pre-Entreno  Sandía - 330 g](https://www.amazon.com/dp/B00TFB0YX8/?tag=redken08-20) a 17.89 EUR (original: 25.21 EUR) en el siguiente enlace!
+Tienes [Optimum Nutrition ON Gold Standard Pre Workout en Polvo con Creatina Monohidrato  Beta Alanina  Cafeína  Citrulina y Vitamina B  Sandía  30 Porciones  330 gr](https://www.amazon.com/dp/B00TFB0YX8/?tag=redken08-20) a precio de oferta de 16.32 EUR (original: 25.21 EUR) en el siguiente enlace!
 
-[![](http://images.amazon.com/images/P/B00TFB0YX8.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.com/dp/B00TFB0YX8/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg)](https://www.amazon.com/dp/B00TFB0YX8/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00TFB0YX8/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00TFB0YX8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

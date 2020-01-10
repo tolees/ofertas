@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Star Wa'
-date: 2020-01-08 23:02:14
+date: 2020-01-10 06:47:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yCm8FDRdL._SL200_.jpg' ]
 comments: true

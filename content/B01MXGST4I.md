@@ -14,10 +14,10 @@ comparePrice: 45.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ELEGOO Conjunto Medio de Iniciación Compatible con Arduino IDE con Tutorial en Español y Conjunto de Relé de 5V  Modulo de Fuente de Alimentación  Servomotor  UNO R3 Placa de Desarrollo de Prototipos](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20) a 31.99 EUR (original: 45.99 EUR) en el siguiente enlace!
+Está [ELEGOO Conjunto Medio de Iniciación Compatible con Arduino IDE con Tutorial en Español y Conjunto de Relé de 5V  Modulo de Fuente de Alimentación  Servomotor  UNO R3 Placa de Desarrollo de Prototipos](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20) por 31.99 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg)](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

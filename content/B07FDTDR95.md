@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Darksiders III - Collector s Edition'
-date: 2019/11/12 17:02:58 +0000
-thumbnailImage: 'http://images.amazon.com/images/P/B07FDTDR95.01._PI_SCMZZZZZZZ_._SL200_.jpg'
-images: [ 'http://images.amazon.com/images/P/B07FDTDR95.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
+date: 2020-01-09 23:09:24
+thumbnailImage: 'None._SL200_'
+images: [ 'None._SL200_' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FDTDR95
 description:
-actualPrice: 99.95 EUR
-comparePrice: 149.99 EUR
+actualPrice: 69.95 EUR
+comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Tienes [Darksiders III - Collector s Edition](https://www.amazon.com/dp/B07FDTDR95/?tag=redken08-20) a precio de oferta de 99.95 EUR (original: 149.99 EUR) en el siguiente enlace!
+Tienes [Darksiders III - Collector s Edition](https://www.amazon.com/dp/B07FDTDR95/?tag=redken08-20) a precio de oferta de 69.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
-[![](http://images.amazon.com/images/P/B07FDTDR95.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.com/dp/B07FDTDR95/?tag=redken08-20)
+[![](None._SL200_)](https://www.amazon.com/dp/B07FDTDR95/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07FDTDR95/?tag=redken08-20)
 

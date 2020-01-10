@@ -14,10 +14,10 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Está [LEGO Juniors  - Persecución por los tejados de Elastigirl  10759 ](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20) por 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!
+Tienes [LEGO Juniors  - Persecución por los tejados de Elastigirl  10759 ](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20) a precio de oferta de 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rnn9KxkfL._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B0765CFDRF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

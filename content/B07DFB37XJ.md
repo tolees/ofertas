@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 32887 POP Vinyl: Walter Lantz: Chi'
-date: 2020-01-08 06:20:11
+date: 2020-01-10 06:06:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uAwDVeJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uAwDVeJjL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DFB37XJ
 description:
-actualPrice: 5.88 GBP
+actualPrice: 5.89 GBP
 comparePrice: 9.1 GBP
 inStock: true
 ---
 
-Tienes [Funko 32887 POP Vinyl: Walter Lantz: Chilly Willy w/Pancakes  Multi](https://www.amazon.com/dp/B07DFB37XJ/?tag=redken08-20) a precio de oferta de 5.88 GBP (original: 9.1 GBP) en el siguiente enlace!
+Tienes [Funko 32887 POP Vinyl: Walter Lantz: Chilly Willy w/Pancakes  Multi](https://www.amazon.com/dp/B07DFB37XJ/?tag=redken08-20) a precio de oferta de 5.89 GBP (original: 9.1 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51uAwDVeJjL._SL200_.jpg)](https://www.amazon.com/dp/B07DFB37XJ/?tag=redken08-20)
 
