@@ -14,10 +14,10 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko Pop Juego De Tronos Yara Greyjoy Figura Coleccionable  Multicolor  Talla única  34617 ](https://www.amazon.com/dp/B07DFCCFTZ/?tag=redken08-20) por 8.75 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [Funko Pop Juego De Tronos Yara Greyjoy Figura Coleccionable  Multicolor  Talla única  34617 ](https://www.amazon.com/dp/B07DFCCFTZ/?tag=redken08-20) a precio de oferta de 8.75 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31iJUJ9yQML._SL200_.jpg)](https://www.amazon.com/dp/B07DFCCFTZ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07DFCCFTZ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07DFCCFTZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

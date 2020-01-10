@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A40 - Smartphone de 5.9" '
-date: 2020-01-08 19:33:12
+date: 2020-01-10 07:31:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rhjbPQu0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rhjbPQu0L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PPJ85KL
 description:
-actualPrice: 183 EUR
+actualPrice: 172.73 EUR
 comparePrice: 249 EUR
 inStock: true
 ---
 
-Tienes [Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled Infinity U Display  4 GB RAM  64 GB ROM  16 MP  Exynos 7904  Carga rápida   Azul [versión española]](https://www.amazon.com/dp/B07PPJ85KL/?tag=redken08-20) a precio de oferta de 183 EUR (original: 249 EUR) en el siguiente enlace!
+Tienes [Samsung Galaxy A40 - Smartphone de 5.9" FHD+ sAmoled Infinity U Display  4 GB RAM  64 GB ROM  16 MP  Exynos 7904  Carga rápida   Azul [versión española]](https://www.amazon.com/dp/B07PPJ85KL/?tag=redken08-20) a precio de oferta de 172.73 EUR (original: 249 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rhjbPQu0L._SL200_.jpg)](https://www.amazon.com/dp/B07PPJ85KL/?tag=redken08-20)
 

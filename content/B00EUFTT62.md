@@ -14,10 +14,10 @@ comparePrice: 1100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony SEL-1670 Vario-Tesslar T* E ZA OSS - Objetivo para Sony/Minolta  distancia focal 16-70mm  apertura f/4  estabilizador de imagen  color negro](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20) a 811.95 EUR (original: 1100 EUR) en el siguiente enlace!
+Está [Sony SEL-1670 Vario-Tesslar T* E ZA OSS - Objetivo para Sony/Minolta  distancia focal 16-70mm  apertura f/4  estabilizador de imagen  color negro](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20) por 811.95 EUR (original: 1100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415A7j0gTYL._SL200_.jpg)](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00EUFTT62/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

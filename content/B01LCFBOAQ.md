@@ -14,10 +14,10 @@ comparePrice: 1999 EUR
 inStock: true
 ---
 
-Está [Tamron SP 150-600mm F/5-6.3 Di VC USD G2 Canon schwarz](https://www.amazon.com/dp/B01LCFBOAQ/?tag=redken08-20) por 975 EUR (original: 1999 EUR) en el siguiente enlace!
+Tienes [Tamron SP 150-600mm F/5-6.3 Di VC USD G2 Canon schwarz](https://www.amazon.com/dp/B01LCFBOAQ/?tag=redken08-20) a precio de oferta de 975 EUR (original: 1999 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410Krrg%2BkuL._SL200_.jpg)](https://www.amazon.com/dp/B01LCFBOAQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01LCFBOAQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01LCFBOAQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

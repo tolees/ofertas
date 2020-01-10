@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NUBWO N12 Xbox One PS4 auriculares para '
-date: 2020-01-03 07:00:49
+date: 2020-01-10 09:10:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v7BLF8VhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v7BLF8VhL._SL200_.jpg' ]
 comments: true

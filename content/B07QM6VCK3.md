@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Xbox One S All Digital - Conso'
-date: 2020-01-02 11:03:42
+date: 2020-01-10 09:06:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DEaQIu3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DEaQIu3GL._SL200_.jpg' ]
 comments: true

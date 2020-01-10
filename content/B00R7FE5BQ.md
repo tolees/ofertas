@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Frozen Young Elsa Figura de Vinilo  4830 ](https://www.amazon.com/dp/B00R7FE5BQ/?tag=redken08-20) a 7 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Funko- Frozen Young Elsa Figura de Vinilo  4830 ](https://www.amazon.com/dp/B00R7FE5BQ/?tag=redken08-20) por 7 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ILFok5-BL._SL200_.jpg)](https://www.amazon.com/dp/B00R7FE5BQ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00R7FE5BQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00R7FE5BQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

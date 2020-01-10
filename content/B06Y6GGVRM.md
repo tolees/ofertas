@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell 2270075 Medidor Laser TC-LD 25 R'
-date: 2020-01-09 06:46:01
+date: 2020-01-10 11:32:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg' ]
 comments: true

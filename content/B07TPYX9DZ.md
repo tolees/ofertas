@@ -14,10 +14,10 @@ comparePrice: 7.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Batman Blu-Ray - Iconic [Blu-ray]](https://www.amazon.com/dp/B07TPYX9DZ/?tag=redken08-20) a 4 EUR (original: 7.99 EUR) en el siguiente enlace!
+Está [Batman Blu-Ray - Iconic [Blu-ray]](https://www.amazon.com/dp/B07TPYX9DZ/?tag=redken08-20) por 4 EUR (original: 7.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zLWdFIvyL._SL200_.jpg)](https://www.amazon.com/dp/B07TPYX9DZ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07TPYX9DZ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07TPYX9DZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

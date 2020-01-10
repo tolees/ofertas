@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Corsair M55 Pro RGB - Ratón Óptico Ambid'
-date: 2019/11/28 10:23:26 +0000
+title: 'Corsair M55 RGB Pro  Ratón Óptico  Tamañ'
+date: 2020-01-10 08:36:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07RNS9HTZ
 description:
-actualPrice: 29.99 EUR
+actualPrice: 33.05 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Corsair M55 Pro RGB - Ratón Óptico Ambidiestro para Juegos  12.400 PPP  Sensor Óptico  Ligero  8 Botones Programables  Retroiluminación LED RGB  Negro](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20) a 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Corsair M55 RGB Pro  Ratón Óptico  Tamaño Único  Negro](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20) a precio de oferta de 33.05 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SejFxwE2L._SL200_.jpg)](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07RNS9HTZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

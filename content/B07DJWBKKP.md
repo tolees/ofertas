@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEKKIWEAR. DMT185WHBRW. Smartwatch Depor'
-date: 2020-01-08 18:06:58
+date: 2020-01-10 09:37:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H4bhoXUdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H4bhoXUdL._SL200_.jpg' ]
 comments: true

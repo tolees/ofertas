@@ -14,10 +14,10 @@ comparePrice: 9.17 GBP
 inStock: true
 ---
 
-Tienes [FunKo  26902 Pop Bobble Marvel Proxima Midnight Figurine](https://www.amazon.com/dp/B079PGCKV4/?tag=redken08-20) a precio de oferta de 4 GBP (original: 9.17 GBP) en el siguiente enlace!
+Está [FunKo  26902 Pop Bobble Marvel Proxima Midnight Figurine](https://www.amazon.com/dp/B079PGCKV4/?tag=redken08-20) por 4 GBP (original: 9.17 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51R-ncMUMIL._SL200_.jpg)](https://www.amazon.com/dp/B079PGCKV4/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B079PGCKV4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B079PGCKV4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

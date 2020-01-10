@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Western Digital WDBVXC0080HWT-EESN My Cl'
-date: 2020-01-08 19:10:39
+date: 2020-01-10 09:12:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B074DXGB3V
 description:
-actualPrice: 267.8 EUR
+actualPrice: 222.31 EUR
 comparePrice: 399.99 EUR
 inStock: true
 ---
 
-Está [Western Digital WDBVXC0080HWT-EESN My Cloud Home Almacenamiento en la nube personal  8 TB](https://www.amazon.com/dp/B074DXGB3V/?tag=redken08-20) por 267.8 EUR (original: 399.99 EUR) en el siguiente enlace!
+Está [Western Digital WDBVXC0080HWT-EESN My Cloud Home Almacenamiento en la nube personal  8 TB](https://www.amazon.com/dp/B074DXGB3V/?tag=redken08-20) por 222.31 EUR (original: 399.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg)](https://www.amazon.com/dp/B074DXGB3V/?tag=redken08-20)
 

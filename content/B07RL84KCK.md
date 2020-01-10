@@ -14,10 +14,10 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike MD Runner 2  GS   Zapatillas de Running para Niños  Gris  Gridiron/Teal Nebula/Pumice/Faded Spruce 017   38 EU](https://www.amazon.com/dp/B07RL84KCK/?tag=redken08-20) a 31.45 EUR (original: 45 EUR) en el siguiente enlace!
+Tienes [Nike MD Runner 2  GS   Zapatillas de Running para Niños  Gris  Gridiron/Teal Nebula/Pumice/Faded Spruce 017   38 EU](https://www.amazon.com/dp/B07RL84KCK/?tag=redken08-20) a precio de oferta de 31.45 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41p2c9UTL9L._SL200_.jpg)](https://www.amazon.com/dp/B07RL84KCK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07RL84KCK/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07RL84KCK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

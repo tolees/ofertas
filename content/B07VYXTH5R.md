@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CoolBELL Maletín Ordenadores portátiles '
-date: 2020-01-04 23:55:21
+date: 2020-01-10 11:43:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412AUm-xvbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412AUm-xvbL._SL200_.jpg' ]
 comments: true

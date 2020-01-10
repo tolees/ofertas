@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medidor Laser de Distancia LOMVUM 50M Pr'
-date: 2020-01-03 18:42:45
+date: 2020-01-10 09:55:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416SW07PqbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416SW07PqbL._SL200_.jpg' ]
 comments: true
