@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony HT-X8500 - Barra de Sonido 2.1  Dol'
-date: 2019/10/28 15:20:24 +0000
+title: 'Sony HT-X8500  Barra de Sonido 2.1  Dolb'
+date: 2020-01-10 14:57:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21zqJn8VZLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21zqJn8VZLL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07MF9R3ZL
 description:
-actualPrice: 273.82 EUR
+actualPrice: 247.87 EUR
 comparePrice: 400 EUR
 inStock: true
 ---
 
-Está [Sony HT-X8500 - Barra de Sonido 2.1  Dolby Atmos  DTS:X  subwoofer Integrado  Bluetooth  Graves Profundos  HDCP 2.3 para Sonido 4K HDR  compacta y Elegante  Negro](https://www.amazon.com/dp/B07MF9R3ZL/?tag=redken08-20) por 273.82 EUR (original: 400 EUR) en el siguiente enlace!
+Tienes [Sony HT-X8500  Barra de Sonido 2.1  Dolby Atmos  DTS:X  Subwoofer Integrado  Bluetooth  Graves Profundos  HDCP 2.3 para Sonido 4K HDR  Compacta y Elegante  Negro  Negro](https://www.amazon.com/dp/B07MF9R3ZL/?tag=redken08-20) a precio de oferta de 247.87 EUR (original: 400 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21zqJn8VZLL._SL200_.jpg)](https://www.amazon.com/dp/B07MF9R3ZL/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MF9R3ZL/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07MF9R3ZL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

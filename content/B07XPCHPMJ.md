@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Demum Calentador de Manos Calienta Manos'
-date: 2019/12/18 17:23:51 +0000
+date: 2020-01-10 14:18:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DkZ5nomDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DkZ5nomDL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 32716 POP Vinyl: One Piece: Nico R'
-date: 2020-01-03 22:06:24
+title: 'Pop! One Piece - Figura de Vinilo Nico R'
+date: 2020-01-03 22:52:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zuK0OgVoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zuK0OgVoL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07DF9CH4L
 description:
-actualPrice: 6.33 GBP
-comparePrice: 9.05 GBP
+actualPrice: 7.11 EUR
+comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 32716 POP Vinyl: One Piece: Nico Robin  Multi  Standard](https://www.amazon.com/dp/B07DF9CH4L/?tag=redken08-20) a 6.33 GBP (original: 9.05 GBP) en el siguiente enlace!
+Ahora mismo tienes [Pop! One Piece - Figura de Vinilo Nico Robin](https://www.amazon.com/dp/B07DF9CH4L/?tag=redken08-20) a 7.11 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51zuK0OgVoL._SL200_.jpg)](https://www.amazon.com/dp/B07DF9CH4L/?tag=redken08-20)
 

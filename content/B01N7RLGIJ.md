@@ -14,10 +14,10 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Mario Kart 8 Deluxe](https://www.amazon.com/dp/B01N7RLGIJ/?tag=redken08-20) por 41.24 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Mario Kart 8 Deluxe](https://www.amazon.com/dp/B01N7RLGIJ/?tag=redken08-20) a 41.24 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B01N7RLGIJ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01N7RLGIJ/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01N7RLGIJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

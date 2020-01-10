@@ -14,10 +14,10 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Blanco  Optic White 26C   X-Small para Hombre](https://www.amazon.com/dp/B07FL5GJ1F/?tag=redken08-20) por 12.95 EUR (original: 24.99 EUR) en el siguiente enlace!
+Tienes [Superdry O L Vintage Emb S/s Vee tee Camiseta de Tirantes  Blanco  Optic White 26C   X-Small para Hombre](https://www.amazon.com/dp/B07FL5GJ1F/?tag=redken08-20) a precio de oferta de 12.95 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21LEcVbKOaL._SL200_.jpg)](https://www.amazon.com/dp/B07FL5GJ1F/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FL5GJ1F/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FL5GJ1F/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

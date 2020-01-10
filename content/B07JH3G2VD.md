@@ -14,10 +14,10 @@ comparePrice: 22 EUR
 inStock: true
 ---
 
-Tienes [Pepe Jeans Alejandra Sequin Camiseta  Blanco  Optic White 802   4-5  Talla del Fabricante: 104/4 años  para Niñas](https://www.amazon.com/dp/B07JH3G2VD/?tag=redken08-20) a precio de oferta de 8.96 EUR (original: 22 EUR) en el siguiente enlace!
+Está [Pepe Jeans Alejandra Sequin Camiseta  Blanco  Optic White 802   4-5  Talla del Fabricante: 104/4 años  para Niñas](https://www.amazon.com/dp/B07JH3G2VD/?tag=redken08-20) por 8.96 EUR (original: 22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg)](https://www.amazon.com/dp/B07JH3G2VD/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07JH3G2VD/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07JH3G2VD/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
