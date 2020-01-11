@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Brooklyn Vaqueros Straight  Azul  Da'
-date: 2020-01-02 18:12:51
+date: 2020-01-10 18:09:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iKNTsIwVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iKNTsIwVL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FTKG12X
 description:
-actualPrice: 44.58 EUR
+actualPrice: 41.31 EUR
 comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Brooklyn Vaqueros Straight  Azul  Dark Stone Xg   32W / 32L para Hombre](https://www.amazon.com/dp/B07FTKG12X/?tag=redken08-20) a 44.58 EUR (original: 85 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Brooklyn Vaqueros Straight  Azul  Dark Stone Xg   32W / 32L para Hombre](https://www.amazon.com/dp/B07FTKG12X/?tag=redken08-20) a 41.31 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iKNTsIwVL._SL200_.jpg)](https://www.amazon.com/dp/B07FTKG12X/?tag=redken08-20)
 

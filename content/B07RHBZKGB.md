@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alcatel 3 - Smartphone  RAM de 3 GB  Cam'
-date: 2020-01-03 11:09:03
+date: 2020-01-10 23:55:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bUnWzW-tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bUnWzW-tL._SL200_.jpg' ]
 comments: true

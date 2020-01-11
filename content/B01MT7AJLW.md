@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony XB950B1 Extra Bass  Auriculares Ina'
-date: 2020-01-04 23:04:52
+date: 2020-01-10 20:22:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fOLzDYK3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fOLzDYK3L._SL200_.jpg' ]
 comments: true

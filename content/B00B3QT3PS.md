@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 5470 City Action Construction '
-date: 2020-01-03 22:19:42
+date: 2020-01-11 06:07:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ddmVJx8%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ddmVJx8%2BL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B00B3QT3PS
 description:
 actualPrice: 20.96 GBP
-comparePrice: 34.25 GBP
+comparePrice: 34.17 GBP
 inStock: true
 ---
 
-Está [Playmobil 5470 City Action Construction Site Supervisors Vehicle - Yellow](https://www.amazon.com/dp/B00B3QT3PS/?tag=redken08-20) por 20.96 GBP (original: 34.25 GBP) en el siguiente enlace!
+Está [Playmobil 5470 City Action Construction Site Supervisors Vehicle - Yellow](https://www.amazon.com/dp/B00B3QT3PS/?tag=redken08-20) por 20.96 GBP (original: 34.17 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61ddmVJx8%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00B3QT3PS/?tag=redken08-20)
 

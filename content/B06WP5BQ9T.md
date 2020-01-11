@@ -14,10 +14,10 @@ comparePrice: 144.99 EUR
 inStock: true
 ---
 
-Está [LEGO Nexo Knights - Castillo de Knighton  Juguete de Construcción de Aventuras de Caballeros  70357 ](https://www.amazon.com/dp/B06WP5BQ9T/?tag=redken08-20) por 106.87 EUR (original: 144.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Nexo Knights - Castillo de Knighton  Juguete de Construcción de Aventuras de Caballeros  70357 ](https://www.amazon.com/dp/B06WP5BQ9T/?tag=redken08-20) a 106.87 EUR (original: 144.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/618W5r8nPtL._SL200_.jpg)](https://www.amazon.com/dp/B06WP5BQ9T/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06WP5BQ9T/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B06WP5BQ9T/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

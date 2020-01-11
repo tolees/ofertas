@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EVGA SuperNOVA 750 G3  80 Plus Gold 750W'
-date: 2020-01-07 20:16:55
+date: 2020-01-11 06:43:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512pcBwiPWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512pcBwiPWL._SL200_.jpg' ]
 comments: true

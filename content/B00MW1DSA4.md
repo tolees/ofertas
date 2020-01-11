@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexxor 242-7904-18 - Reloj de cuarzo par'
-date: 2020-01-03 23:56:32
+date: 2020-01-10 18:36:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wkOa4C9CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wkOa4C9CL._SL200_.jpg' ]
 comments: true

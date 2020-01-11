@@ -14,10 +14,10 @@ comparePrice: 126.1 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Double Rich Chocolate  149 Porciones  4.54 kg](https://www.amazon.com/dp/B000GIQT2O/?tag=redken08-20) a 69.99 EUR (original: 126.1 EUR) en el siguiente enlace!
+Está [Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Double Rich Chocolate  149 Porciones  4.54 kg](https://www.amazon.com/dp/B000GIQT2O/?tag=redken08-20) por 69.99 EUR (original: 126.1 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fwxizlOdL._SL200_.jpg)](https://www.amazon.com/dp/B000GIQT2O/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000GIQT2O/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000GIQT2O/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

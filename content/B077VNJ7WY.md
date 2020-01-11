@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GANT The Broadcloth Reg BD Camiseta Depo'
-date: 2019/12/10 22:17:12 +0000
+date: 2020-01-11 00:19:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BkuGC8d7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BkuGC8d7L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B077VNJ7WY
 description:
-actualPrice: 56 EUR
+actualPrice: 55.73 EUR
 comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [GANT The Broadcloth Reg BD Camiseta Deporte  Blanco  White   Small para Hombre](https://www.amazon.com/dp/B077VNJ7WY/?tag=redken08-20) a 56 EUR (original: 89.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [GANT The Broadcloth Reg BD Camiseta Deporte  Blanco  White   Small para Hombre](https://www.amazon.com/dp/B077VNJ7WY/?tag=redken08-20) a 55.73 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BkuGC8d7L._SL200_.jpg)](https://www.amazon.com/dp/B077VNJ7WY/?tag=redken08-20)
 

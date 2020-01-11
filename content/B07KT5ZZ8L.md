@@ -14,10 +14,10 @@ comparePrice: 31.07 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DC-77 16MP 4X Zoom Videocámara Digital de Alta definición con cámara de Video de 2 4 Pulgadas Pantalla TFT LCD de 8GB Apagado automático](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20) a 21.13 EUR (original: 31.07 EUR) en el siguiente enlace!
+Está [DC-77 16MP 4X Zoom Videocámara Digital de Alta definición con cámara de Video de 2 4 Pulgadas Pantalla TFT LCD de 8GB Apagado automático](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20) por 21.13 EUR (original: 31.07 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DMT0LoHxL._SL200_.jpg)](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KT5ZZ8L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

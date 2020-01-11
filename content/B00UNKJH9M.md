@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips HC5438/80 - Cortapelos con cuchi'
-date: 2020-01-09 15:18:27
+date: 2020-01-10 16:07:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hAfA-I7IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hAfA-I7IL._SL200_.jpg' ]
 comments: true

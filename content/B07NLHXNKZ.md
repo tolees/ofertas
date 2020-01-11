@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Versace Jeans CoutureBorsaMujerShoppers '
-date: 2019/11/25 00:50:45 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JVTri8niL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JVTri8niL._SL200_.jpg' ]
+date: 2020-01-10 16:10:06
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NLHXNKZ
 description:
-actualPrice: 114.82 EUR
+actualPrice: 83.38 EUR
 comparePrice: 161 EUR
 inStock: true
 ---
 
-Tienes [Versace Jeans CoutureBorsaMujerShoppers y bolsos de hombroNegro  899+101  42x29x13 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLHXNKZ/?tag=redken08-20) a precio de oferta de 114.82 EUR (original: 161 EUR) en el siguiente enlace!
+Tienes [Versace Jeans CoutureBorsaMujerShoppers y bolsos de hombroNegro  899+101  42x29x13 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLHXNKZ/?tag=redken08-20) a precio de oferta de 83.38 EUR (original: 161 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41JVTri8niL._SL200_.jpg)](https://www.amazon.com/dp/B07NLHXNKZ/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41-JUkiilyL._SL200_.jpg)](https://www.amazon.com/dp/B07NLHXNKZ/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07NLHXNKZ/?tag=redken08-20)
 

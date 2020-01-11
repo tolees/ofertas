@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego Te'
-date: 2020-01-09 22:20:47
+title: 'BRIKSMAX Kit de Iluminación Led para Leg'
+date: 2020-01-09 22:57:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07YY1TFBX
 description:
-actualPrice: 39.99 EUR
-comparePrice: 64.99 EUR
+actualPrice: 34.99 EUR
+comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Technic 4x4 X-Treme Off-Roader Kompatibel Mit Lego 42099 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07YY1TFBX/?tag=redken08-20) a 39.99 EUR (original: 64.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Technic Todoterreno Radical 4 x 4 Compatible con Ladrillos de Construcción Lego Modelo 42099  Juego de Legos no Incluido](https://www.amazon.com/dp/B07YY1TFBX/?tag=redken08-20) a 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51zI3JtRqRL._SL200_.jpg)](https://www.amazon.com/dp/B07YY1TFBX/?tag=redken08-20)
 

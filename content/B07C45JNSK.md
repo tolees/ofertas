@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Etekcity Masajeador de Espalda y Cervica'
-date: 2019/12/30 00:50:27 +0000
+date: 2020-01-10 16:11:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nwpSiYpGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nwpSiYpGL._SL200_.jpg' ]
 comments: true
