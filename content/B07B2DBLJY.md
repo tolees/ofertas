@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Aspirador Escoba sin Cable Air F'
-date: 2019/12/26 15:24:13 +0000
+date: 2020-01-11 14:52:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WSn1KJYGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WSn1KJYGL._SL200_.jpg' ]
 comments: true

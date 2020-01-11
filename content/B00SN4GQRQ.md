@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco - Calienta biberón de casa y viaj'
-date: 2020-01-07 19:07:52
+date: 2020-01-11 17:10:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fZ5CRyN4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fZ5CRyN4L._SL200_.jpg' ]
 comments: true

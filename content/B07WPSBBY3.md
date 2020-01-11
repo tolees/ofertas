@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Original Xiaomi MiBand Band 4  Global Ve'
-date: 2020-01-10 10:42:15
+title: 'Original Xiaomi MiBand Fitness Tracker  '
+date: 2020-01-11 16:37:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bijGBKHYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bijGBKHYL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Original Xiaomi MiBand Band 4  Global Version  Fitness Tracker 0.95" Pantalla a Color AMOLED  Juventud Unisex  Negro](https://www.amazon.com/dp/B07WPSBBY3/?tag=redken08-20) por 33.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Original Xiaomi MiBand Fitness Tracker  Juventud Unisex  Negro  0.95"](https://www.amazon.com/dp/B07WPSBBY3/?tag=redken08-20) por 33.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bijGBKHYL._SL200_.jpg)](https://www.amazon.com/dp/B07WPSBBY3/?tag=redken08-20)
 

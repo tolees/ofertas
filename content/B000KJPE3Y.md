@@ -14,10 +14,10 @@ comparePrice: 43.72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Faber-Castell 117524 - Estuche de metal con 24 ecolápices acuarelables  multicolor](https://www.amazon.com/dp/B000KJPE3Y/?tag=redken08-20) a 30.05 EUR (original: 43.72 EUR) en el siguiente enlace!
+Tienes [Faber-Castell 117524 - Estuche de metal con 24 ecolápices acuarelables  multicolor](https://www.amazon.com/dp/B000KJPE3Y/?tag=redken08-20) a precio de oferta de 30.05 EUR (original: 43.72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515awFmfcML._SL200_.jpg)](https://www.amazon.com/dp/B000KJPE3Y/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000KJPE3Y/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B000KJPE3Y/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

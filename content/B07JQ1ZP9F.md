@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cámara Digital réflex Digital de Alta de'
-date: 2020-01-07 12:32:11
+date: 2020-01-11 16:56:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41taB1FGeHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41taB1FGeHL._SL200_.jpg' ]
 comments: true

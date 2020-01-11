@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus 2000 935.015 Dakar Radiador de Ac'
-date: 2020-01-10 13:39:34
+date: 2020-01-11 16:12:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v6L-bPlHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v6L-bPlHL._SL200_.jpg' ]
 comments: true
