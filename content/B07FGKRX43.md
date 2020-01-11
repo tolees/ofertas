@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AmazonBasics - Lightning-auf-USB-A-Kabel'
-date: 2019/12/06 08:39:12 +0000
+date: 2020-01-11 11:09:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41suOQlsBAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41suOQlsBAL._SL200_.jpg' ]
 comments: true

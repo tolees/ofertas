@@ -14,10 +14,10 @@ comparePrice: 51 EUR
 inStock: true
 ---
 
-Está [Dolce & Gabbana Light Blue Eau de Toilette Vaporizador 25 ml](https://www.amazon.com/dp/B000Q0VBOS/?tag=redken08-20) por 26.6 EUR (original: 51 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dolce & Gabbana Light Blue Eau de Toilette Vaporizador 25 ml](https://www.amazon.com/dp/B000Q0VBOS/?tag=redken08-20) a 26.6 EUR (original: 51 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310YYW0o5vL._SL200_.jpg)](https://www.amazon.com/dp/B000Q0VBOS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B000Q0VBOS/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B000Q0VBOS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

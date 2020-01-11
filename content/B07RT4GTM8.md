@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot Aspirador Conga Serie 3490'
-date: 2020-01-10 07:58:09
+date: 2020-01-11 09:34:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wBvRNSmbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wBvRNSmbL._SL200_.jpg' ]
 comments: true

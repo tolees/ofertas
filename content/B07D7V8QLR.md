@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE-GLB01A-DC Aspirador-soplador'
-date: 2020-01-09 14:35:21
+date: 2020-01-11 14:21:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416g0dIXKNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416g0dIXKNL._SL200_.jpg' ]
 comments: true

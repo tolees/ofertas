@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Football Manager 2020'
-date: 2020-01-10 09:50:41
+date: 2020-01-11 12:44:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg' ]
 comments: true

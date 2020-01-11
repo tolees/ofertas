@@ -14,10 +14,10 @@ comparePrice: 3.99 EUR
 inStock: true
 ---
 
-Está [Solaz Vino Tinto Tierra De Castilla. Variedades Tempranillo Y Cabernet Sauvignon. 75 cl](https://www.amazon.com/dp/B01DWC01WY/?tag=redken08-20) por 2.99 EUR (original: 3.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Solaz Vino Tinto Tierra De Castilla. Variedades Tempranillo Y Cabernet Sauvignon. 75 cl](https://www.amazon.com/dp/B01DWC01WY/?tag=redken08-20) a 2.99 EUR (original: 3.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31uxvnZc9rL._SL200_.jpg)](https://www.amazon.com/dp/B01DWC01WY/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01DWC01WY/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01DWC01WY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

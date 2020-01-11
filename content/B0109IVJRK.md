@@ -14,10 +14,10 @@ comparePrice: 2.14 EUR
 inStock: true
 ---
 
-Tienes [Kallos  Mascarilla de pelo - 275 ml.](https://www.amazon.com/dp/B0109IVJRK/?tag=redken08-20) a precio de oferta de 1 EUR (original: 2.14 EUR) en el siguiente enlace!
+Está [Kallos  Mascarilla de pelo - 275 ml.](https://www.amazon.com/dp/B0109IVJRK/?tag=redken08-20) por 1 EUR (original: 2.14 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qh8V5ytvL._SL200_.jpg)](https://www.amazon.com/dp/B0109IVJRK/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B0109IVJRK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0109IVJRK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

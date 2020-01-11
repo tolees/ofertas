@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech MK220 - Pack de teclado y ratón'
-date: 2020-01-10 07:43:03
+date: 2020-01-11 11:33:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MAscWVyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MAscWVyBL._SL200_.jpg' ]
 comments: true

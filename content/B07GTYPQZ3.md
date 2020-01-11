@@ -14,10 +14,10 @@ comparePrice: 599 GBP
 inStock: true
 ---
 
-Tienes [Nikon JMA001DA NIKKOR Z 50 mm f1.8 S Lens - Black](https://www.amazon.com/dp/B07GTYPQZ3/?tag=redken08-20) a precio de oferta de 329 GBP (original: 599 GBP) en el siguiente enlace!
+Ahora mismo tienes [Nikon JMA001DA NIKKOR Z 50 mm f1.8 S Lens - Black](https://www.amazon.com/dp/B07GTYPQZ3/?tag=redken08-20) a 329 GBP (original: 599 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Z1xSI6y3L._SL200_.jpg)](https://www.amazon.com/dp/B07GTYPQZ3/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07GTYPQZ3/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07GTYPQZ3/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

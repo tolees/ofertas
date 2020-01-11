@@ -14,10 +14,10 @@ comparePrice: 116.22 EUR
 inStock: true
 ---
 
-Está [Ubiquiti Networks NSM2 - Antena 2.4 GHz  11 dBi MiMo  NSM2](https://www.amazon.com/dp/B00HXT8K4O/?tag=redken08-20) por 86.8 EUR (original: 116.22 EUR) en el siguiente enlace!
+Tienes [Ubiquiti Networks NSM2 - Antena 2.4 GHz  11 dBi MiMo  NSM2](https://www.amazon.com/dp/B00HXT8K4O/?tag=redken08-20) a precio de oferta de 86.8 EUR (original: 116.22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21L9jABhsEL._SL200_.jpg)](https://www.amazon.com/dp/B00HXT8K4O/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00HXT8K4O/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00HXT8K4O/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
