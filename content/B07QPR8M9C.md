@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nivel Láser Autonivelante Verde LOMVUM L'
-date: 2019/12/25 09:28:06 +0000
+date: 2020-01-11 08:56:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RP798DSVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RP798DSVL._SL200_.jpg' ]
 comments: true

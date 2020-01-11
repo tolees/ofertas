@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'bakibo Auriculares Inalámbricos Bluetoot'
-date: 2020-01-09 23:21:32
+date: 2020-01-11 13:18:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XpXwUIuHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XpXwUIuHL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mpow 059 Auriculares Diadema Bluetooth I'
-date: 2020-01-03 10:17:05
+date: 2020-01-11 09:22:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ESwfiv%2BTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ESwfiv%2BTL._SL200_.jpg' ]
 comments: true

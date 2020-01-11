@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Q7553X - Cartucho de tóner'
-date: 2019/12/23 15:17:13 +0000
+date: 2020-01-11 08:17:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J-gybvPEL._SL200_.jpg' ]
 comments: true

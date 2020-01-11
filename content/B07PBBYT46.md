@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 41965 POP Vinyl: Movies: Silence o'
-date: 2020-01-08 14:21:57
+date: 2020-01-11 14:04:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KZj7GOwSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KZj7GOwSL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PBBYT46
 description:
-actualPrice: 5.48 GBP
-comparePrice: 9.1 GBP
+actualPrice: 5.36 GBP
+comparePrice: 9.17 GBP
 inStock: true
 ---
 
-Está [Funko 41965 POP Vinyl: Movies: Silence of Lambs-Hannibal Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PBBYT46/?tag=redken08-20) por 5.48 GBP (original: 9.1 GBP) en el siguiente enlace!
+Está [Funko 41965 POP Vinyl: Movies: Silence of Lambs-Hannibal Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PBBYT46/?tag=redken08-20) por 5.36 GBP (original: 9.17 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KZj7GOwSL._SL200_.jpg)](https://www.amazon.com/dp/B07PBBYT46/?tag=redken08-20)
 

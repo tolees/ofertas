@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolsas de Vacío 6 Rollos 15x300cm y 20x3'
-date: 2020-01-01 09:26:30
+date: 2020-01-11 12:32:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wdwWQcKUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wdwWQcKUL._SL200_.jpg' ]
 comments: true

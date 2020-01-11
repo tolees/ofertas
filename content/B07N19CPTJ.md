@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lee Logo tee  Camiseta para Hombre  Rojo'
-date: 2020-01-06 15:11:37
+date: 2020-01-11 11:54:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kv84a6qIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kv84a6qIL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07N19CPTJ
 description:
-actualPrice: 10.98 EUR
+actualPrice: 12.5 EUR
 comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [Lee Logo tee  Camiseta para Hombre  Rojo  Warp Red Kg   Medium](https://www.amazon.com/dp/B07N19CPTJ/?tag=redken08-20) a precio de oferta de 10.98 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [Lee Logo tee  Camiseta para Hombre  Rojo  Warp Red Kg   Medium](https://www.amazon.com/dp/B07N19CPTJ/?tag=redken08-20) a precio de oferta de 12.5 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kv84a6qIL._SL200_.jpg)](https://www.amazon.com/dp/B07N19CPTJ/?tag=redken08-20)
 

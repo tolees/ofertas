@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGOO Actualizado 37-en-1 Kit de Módulo'
-date: 2020-01-01 07:46:23
+date: 2020-01-11 10:48:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/613TPpF422L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/613TPpF422L._SL200_.jpg' ]
 comments: true
