@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD Elements - Disco duro externo portáti'
-date: 2020-01-08 17:44:59
+date: 2020-01-11 11:00:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BTSMhk4mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BTSMhk4mL._SL200_.jpg' ]
 comments: true

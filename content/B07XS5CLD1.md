@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medisana FWS Calientapiés  calefacción e'
-date: 2020-01-09 14:04:59
+date: 2020-01-11 14:39:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dTov0ZWRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dTov0ZWRL._SL200_.jpg' ]
 comments: true

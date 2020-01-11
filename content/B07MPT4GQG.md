@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mardozon Correas para Xiaomi Mi Band 3  '
-date: 2019/10/16 10:48:33 +0000
+date: 2020-01-11 14:22:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BggTow%2BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BggTow%2BYL._SL200_.jpg' ]
 comments: true
