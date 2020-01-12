@@ -14,10 +14,10 @@ comparePrice: 54.1 GBP
 inStock: true
 ---
 
-Tienes [PLAYMOBIL - Juego Gran Safari Africano  50470 ](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20) a precio de oferta de 38.06 GBP (original: 54.1 GBP) en el siguiente enlace!
+Está [PLAYMOBIL - Juego Gran Safari Africano  50470 ](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20) por 38.06 GBP (original: 54.1 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51U9kDCbdXL._SL200_.jpg)](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00CZFLMI2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

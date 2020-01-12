@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solac BV5713 Batidora de Vaso  1000 W  1'
-date: 2020-01-03 11:06:51
+date: 2020-01-12 10:24:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AdpeGexqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AdpeGexqL._SL200_.jpg' ]
 comments: true

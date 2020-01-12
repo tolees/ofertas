@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Red Dead Redemption 2  Xbox One '
-date: 2020-01-10 06:17:13
+date: 2020-01-12 10:55:10
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true

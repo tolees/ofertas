@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COOAU 4K Camara Deportiva 20MP WiFi Sume'
-date: 2020-01-11 10:03:59
+date: 2020-01-12 10:33:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iNnRjsubL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iNnRjsubL._SL200_.jpg' ]
 comments: true

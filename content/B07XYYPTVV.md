@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YANGOO Pulsera Actividad Inteligente Imp'
-date: 2020-01-08 13:17:25
+date: 2020-01-12 10:55:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u4wEmrdBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51u4wEmrdBL._SL200_.jpg' ]
 comments: true

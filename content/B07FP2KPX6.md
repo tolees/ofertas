@@ -14,10 +14,10 @@ comparePrice: 109.99 GBP
 inStock: true
 ---
 
-Está [LEGO 75243 Star Wars Slave I - 20th Anniversary Edition  Boba Fett s Starship  Episode 5 The Empire Strikes Back  Multi-Colour](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20) por 62.99 GBP (original: 109.99 GBP) en el siguiente enlace!
+Tienes [LEGO 75243 Star Wars Slave I - 20th Anniversary Edition  Boba Fett s Starship  Episode 5 The Empire Strikes Back  Multi-Colour](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20) a precio de oferta de 62.99 GBP (original: 109.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BeLLE4JBL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FP2KPX6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

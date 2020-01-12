@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TECLAST Tablet PC P10HD 10.1   8 núcleos'
-date: 2020-01-11 09:33:32
+date: 2020-01-12 11:06:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RYCkHcFUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RYCkHcFUL._SL200_.jpg' ]
 comments: true

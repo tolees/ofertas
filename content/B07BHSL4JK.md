@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HAIROXOL-Cápsulas tratamiento anti-caída'
-date: 2020-01-01 20:02:18
+date: 2020-01-12 09:10:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mnrb78aOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mnrb78aOL._SL200_.jpg' ]
 comments: true

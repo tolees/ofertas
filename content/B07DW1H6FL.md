@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aspirador Seco-Húmedo  AUTLEAD 1000W 10L'
-date: 2020-01-11 01:51:55
+date: 2020-01-12 09:03:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5191e--UV8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5191e--UV8L._SL200_.jpg' ]
 comments: true
