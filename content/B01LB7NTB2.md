@@ -14,10 +14,10 @@ comparePrice: 66.98 GBP
 inStock: true
 ---
 
-Tienes [deAO RC Excavadora Camión Teledirigido con Extensión Variable 2.4GHz Sync System para modo Multi Jugador](https://www.amazon.com/dp/B01LB7NTB2/?tag=redken08-20) a precio de oferta de 46.96 GBP (original: 66.98 GBP) en el siguiente enlace!
+Está [deAO RC Excavadora Camión Teledirigido con Extensión Variable 2.4GHz Sync System para modo Multi Jugador](https://www.amazon.com/dp/B01LB7NTB2/?tag=redken08-20) por 46.96 GBP (original: 66.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Gs%2Bvf-3oL._SL200_.jpg)](https://www.amazon.com/dp/B01LB7NTB2/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01LB7NTB2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LB7NTB2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

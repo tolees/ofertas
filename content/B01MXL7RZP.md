@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Starcraft II Battlechest 2.0'
-date: 2019/12/26 18:57:56 +0000
+date: 2020-01-11 19:11:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01MXL7RZP
 description:
-actualPrice: 14.24 EUR
+actualPrice: 14.79 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Starcraft II Battlechest 2.0](https://www.amazon.com/dp/B01MXL7RZP/?tag=redken08-20) por 14.24 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Starcraft II Battlechest 2.0](https://www.amazon.com/dp/B01MXL7RZP/?tag=redken08-20) por 14.79 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/619YKitIEKL._SL200_.jpg)](https://www.amazon.com/dp/B01MXL7RZP/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NNJXD Vestido de Fiesta de Princesa con '
-date: 2020-01-10 07:00:19
+date: 2020-01-12 06:35:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YnUXfNSkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YnUXfNSkL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 80.64 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [House Of Cards - Temporadas 1-6 [Blu-ray]](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20) a 44.88 EUR (original: 80.64 EUR) en el siguiente enlace!
+Está [House Of Cards - Temporadas 1-6 [Blu-ray]](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20) por 44.88 EUR (original: 80.64 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GZnRxMqoL._SL200_.jpg)](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NBCSTHC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

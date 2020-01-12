@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YABER Proyector Full HD 1080P  1920 x 10'
-date: 2020-01-10 19:40:30
+date: 2020-01-12 07:42:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q20fn58dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q20fn58dL._SL200_.jpg' ]
 comments: true

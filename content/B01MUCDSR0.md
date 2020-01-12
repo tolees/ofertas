@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin DriveSmart 61 Full EU LMT-S - Nav'
-date: 2019/11/07 15:04:59 +0000
+date: 2020-01-11 20:14:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IYSxsDfTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IYSxsDfTL._SL200_.jpg' ]
 comments: true

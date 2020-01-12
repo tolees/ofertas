@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Tommy Jeans Original  Ryan  Vaqueros Str'
+date: 2020-01-11 19:25:50
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HfNQgW96L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HfNQgW96L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B078LDB9QG
+description:
+actualPrice: 56.28 EUR
+comparePrice: 89.1 EUR
+inStock: true
+---
+
+Está [Tommy Jeans Original  Ryan  Vaqueros Straight para Hombre  Azul  River Dark Blue Comfort 911   W30/L36](https://www.amazon.com/dp/B078LDB9QG/?tag=redken08-20) por 56.28 EUR (original: 89.1 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41HfNQgW96L._SL200_.jpg)](https://www.amazon.com/dp/B078LDB9QG/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B078LDB9QG/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

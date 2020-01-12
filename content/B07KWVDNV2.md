@@ -14,10 +14,10 @@ comparePrice: 27.99 EUR
 inStock: true
 ---
 
-Está [Aigostar - Bombilla LED B5 T3 4U  E27  15 W equivalente a 120 W  Luz Cálida 3000K  1200 lúmenes  no regulable -Caja de 5 unidades [Clase de eficiencia energética A+]](https://www.amazon.com/dp/B07KWVDNV2/?tag=redken08-20) por 16.81 EUR (original: 27.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Aigostar - Bombilla LED B5 T3 4U  E27  15 W equivalente a 120 W  Luz Cálida 3000K  1200 lúmenes  no regulable -Caja de 5 unidades [Clase de eficiencia energética A+]](https://www.amazon.com/dp/B07KWVDNV2/?tag=redken08-20) a 16.81 EUR (original: 27.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ZpQIIGyDL._SL200_.jpg)](https://www.amazon.com/dp/B07KWVDNV2/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07KWVDNV2/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07KWVDNV2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

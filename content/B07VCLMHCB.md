@@ -14,10 +14,10 @@ comparePrice: 135 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fred Perry Men s Oxford Shirt White in Size XX-Large](https://www.amazon.com/dp/B07VCLMHCB/?tag=redken08-20) a 78.67 EUR (original: 135 EUR) en el siguiente enlace!
+Está [Fred Perry Men s Oxford Shirt White in Size XX-Large](https://www.amazon.com/dp/B07VCLMHCB/?tag=redken08-20) por 78.67 EUR (original: 135 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319GBesereL._SL200_.jpg)](https://www.amazon.com/dp/B07VCLMHCB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07VCLMHCB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07VCLMHCB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

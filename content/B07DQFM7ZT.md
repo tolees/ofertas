@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DADYPET Funda para Asiento de Perro Prot'
-date: 2020-01-10 12:07:36
+date: 2020-01-12 08:10:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517xT7Qq-eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517xT7Qq-eL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 21.21 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pack: Wang + Smith + Tarantino/Rodríguez  Smoke + Clerks + Four Rooms  [Blu-ray]](https://www.amazon.com/dp/B00K7YZ2LG/?tag=redken08-20) a 10.47 EUR (original: 21.21 EUR) en el siguiente enlace!
+Está [Pack: Wang + Smith + Tarantino/Rodríguez  Smoke + Clerks + Four Rooms  [Blu-ray]](https://www.amazon.com/dp/B00K7YZ2LG/?tag=redken08-20) por 10.47 EUR (original: 21.21 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51B9jyVhWBL._SL200_.jpg)](https://www.amazon.com/dp/B00K7YZ2LG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00K7YZ2LG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00K7YZ2LG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

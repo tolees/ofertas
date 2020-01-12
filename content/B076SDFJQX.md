@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'find. Blusa de Lunares Mujer  Azul  Navy'
-date: 2019/10/05 14:02:10 +0000
+date: 2020-01-11 19:08:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517xI2OabdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517xI2OabdL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B076SDFJQX
 description:
-actualPrice: 11.4 EUR
-comparePrice: 38 EUR
+actualPrice: 19 EUR
+comparePrice: 30.4 EUR
 inStock: true
 ---
 
-Está [find. Blusa de Lunares Mujer  Azul  Navy   38  Talla del fabricante: Small ](https://www.amazon.com/dp/B076SDFJQX/?tag=redken08-20) por 11.4 EUR (original: 38 EUR) en el siguiente enlace!
+Está [find. Blusa de Lunares Mujer  Azul  Navy   38  Talla del fabricante: Small ](https://www.amazon.com/dp/B076SDFJQX/?tag=redken08-20) por 19 EUR (original: 30.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517xI2OabdL._SL200_.jpg)](https://www.amazon.com/dp/B076SDFJQX/?tag=redken08-20)
 
