@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aceite de Argán ORGÁNICO Certificado Veg'
-date: 2020-01-03 22:13:36
+date: 2020-01-12 17:54:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fbBKNHQcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fbBKNHQcL._SL200_.jpg' ]
 comments: true

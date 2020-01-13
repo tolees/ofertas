@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vampyr'
-date: 2020-01-10 07:22:23
+date: 2020-01-12 13:08:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg' ]
 comments: true

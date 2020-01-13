@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'K9CK Luces LED para Lego Technic Bugatti'
-date: 2020-01-11 22:28:54
+date: 2020-01-12 22:35:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RX33M4LHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RX33M4LHL._SL200_.jpg' ]
 comments: true

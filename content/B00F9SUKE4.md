@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs SteamGlide Professional 20'
-date: 2020-01-11 07:39:43
+date: 2020-01-12 13:08:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wtUjwpsfL._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'L.O.L. Surprise ! Girls Secret Diary Seq'
-date: 2020-01-10 05:57:57
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513idFgf-9L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513idFgf-9L._SL200_.jpg' ]
+date: 2020-01-12 14:01:43
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YZ3wRjOvL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YZ3wRjOvL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [L.O.L. Surprise ! Girls Secret Diary Sequin Pink Diary for Girl Children Secret Keeper Journal for Girl Lol Confetti Dolls](https://www.amazon.com/dp/B07JC5CNHM/?tag=redken08-20) por 10.95 GBP (original: 15.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/513idFgf-9L._SL200_.jpg)](https://www.amazon.com/dp/B07JC5CNHM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51YZ3wRjOvL._SL200_.jpg)](https://www.amazon.com/dp/B07JC5CNHM/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07JC5CNHM/?tag=redken08-20)
 

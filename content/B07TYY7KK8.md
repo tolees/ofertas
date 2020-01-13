@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Frien'
-date: 2020-01-11 14:07:06
+date: 2020-01-13 06:07:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzjZH%2Bm0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZzjZH%2Bm0L._SL200_.jpg' ]
 comments: true

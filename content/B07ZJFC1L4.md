@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adaptador Bluetooth Transmisor Receptor '
-date: 2020-01-11 22:14:32
+date: 2020-01-12 22:17:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qlkCqxIcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qlkCqxIcL._SL200_.jpg' ]
 comments: true

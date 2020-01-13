@@ -14,10 +14,10 @@ comparePrice: 5.99 EUR
 inStock: true
 ---
 
-Está [Oxford 100430210 - Recambio de rayas para carpeta A4  100 hojas  90 g  con margen](https://www.amazon.com/dp/B00BFQJ77A/?tag=redken08-20) por 3.7 EUR (original: 5.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Oxford 100430210 - Recambio de rayas para carpeta A4  100 hojas  90 g  con margen](https://www.amazon.com/dp/B00BFQJ77A/?tag=redken08-20) a 3.7 EUR (original: 5.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-GH6ENyHL._SL200_.jpg)](https://www.amazon.com/dp/B00BFQJ77A/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00BFQJ77A/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00BFQJ77A/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

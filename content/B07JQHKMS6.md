@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour Huddle 2.0 Gorra  Hombre  V'
-date: 2020-01-04 10:42:01
+date: 2020-01-12 16:29:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51auFHMq9ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51auFHMq9ML._SL200_.jpg' ]
 comments: true

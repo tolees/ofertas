@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Leg'
-date: 2020-01-10 22:47:33
+date: 2020-01-12 22:36:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg' ]
 comments: true

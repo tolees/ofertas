@@ -14,10 +14,10 @@ comparePrice: 749 EUR
 inStock: true
 ---
 
-Tienes [ZOTAC GAMING GeForce RTX 2080 Super Twin Fan Grafikkarte  NVIDIA RTX 2080 Super  8GB GDDR6  256 Bit  Boost-Takt 1815Mhz  15.5Gbps ](https://www.amazon.com/dp/B07TXJCBVB/?tag=redken08-20) a precio de oferta de 392 EUR (original: 749 EUR) en el siguiente enlace!
+Está [ZOTAC GAMING GeForce RTX 2080 Super Twin Fan Grafikkarte  NVIDIA RTX 2080 Super  8GB GDDR6  256 Bit  Boost-Takt 1815Mhz  15.5Gbps ](https://www.amazon.com/dp/B07TXJCBVB/?tag=redken08-20) por 392 EUR (original: 749 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JWFR%2BmmHL._SL200_.jpg)](https://www.amazon.com/dp/B07TXJCBVB/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07TXJCBVB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07TXJCBVB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

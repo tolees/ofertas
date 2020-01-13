@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Satechi Ratón Bluetooth M1 Inalámbrico d'
-date: 2019/12/14 01:47:42 +0000
+date: 2020-01-13 01:08:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DBCOwrOnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DBCOwrOnL._SL200_.jpg' ]
 comments: true

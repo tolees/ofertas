@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Element Dulcey Chaqueta  Hombre  Negro  '
-date: 2020-01-11 16:48:37
+date: 2020-01-12 16:52:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07F1XKLWG
 description:
-actualPrice: 64.89 EUR
+actualPrice: 61.65 EUR
 comparePrice: 143 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Element Dulcey Chaqueta  Hombre  Negro  Flint Black   XS](https://www.amazon.com/dp/B07F1XKLWG/?tag=redken08-20) a 64.89 EUR (original: 143 EUR) en el siguiente enlace!
+Ahora mismo tienes [Element Dulcey Chaqueta  Hombre  Negro  Flint Black   XS](https://www.amazon.com/dp/B07F1XKLWG/?tag=redken08-20) a 61.65 EUR (original: 143 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg)](https://www.amazon.com/dp/B07F1XKLWG/?tag=redken08-20)
 

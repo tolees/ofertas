@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ferilinso Funda para Xiaomi Mi 9T Pro/Mi'
-date: 2020-01-02 19:26:25
+date: 2020-01-12 19:32:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Ls6Nv8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Ls6Nv8UL._SL200_.jpg' ]
 comments: true

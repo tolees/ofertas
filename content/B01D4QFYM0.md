@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revell Modellbausatz Star Wars Rebel U-W'
-date: 2020-01-11 22:09:52
+date: 2020-01-12 22:33:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JMcWXwuIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JMcWXwuIL._SL200_.jpg' ]
 comments: true

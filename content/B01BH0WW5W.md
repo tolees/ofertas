@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'S&R 25 Discos de corte 125 Metal y Acero'
-date: 2019/11/01 13:14:40 +0000
+date: 2020-01-12 12:41:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m%2BQSuYUWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m%2BQSuYUWL._SL200_.jpg' ]
 comments: true

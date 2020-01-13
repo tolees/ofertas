@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rii K18 Plus -Teclado inalámbrico touchp'
-date: 2019/12/30 00:45:42 +0000
+date: 2020-01-13 01:03:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e8tDeqdgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e8tDeqdgL._SL200_.jpg' ]
 comments: true

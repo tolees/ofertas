@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colnatur Complex - Proteína colágeno  sa'
-date: 2020-01-09 15:17:19
+date: 2020-01-12 16:05:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D9JDiXbEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D9JDiXbEL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B015KGWSNK
 description:
-actualPrice: 8.59 EUR
+actualPrice: 13.43 EUR
 comparePrice: 19.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Colnatur Complex - Proteína colágeno  sabor neutro  330G](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20) a 8.59 EUR (original: 19.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Colnatur Complex - Proteína colágeno  sabor neutro  330G](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20) a 13.43 EUR (original: 19.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41D9JDiXbEL._SL200_.jpg)](https://www.amazon.com/dp/B015KGWSNK/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Envasadora al vacío  ZUZPAO Máquina sell'
-date: 2020-01-04 18:15:49
+date: 2020-01-12 16:36:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg' ]
 comments: true

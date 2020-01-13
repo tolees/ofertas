@@ -14,10 +14,10 @@ comparePrice: 13.43 EUR
 inStock: true
 ---
 
-Está [Lactacyd Gel Íntimo 200 ml - Gel Íntimo de uso diario - Pack Ahorro - Duplo 2ª ud. Al 50%](https://www.amazon.com/dp/B00P2HSJZE/?tag=redken08-20) por 9.99 EUR (original: 13.43 EUR) en el siguiente enlace!
+Tienes [Lactacyd Gel Íntimo 200 ml - Gel Íntimo de uso diario - Pack Ahorro - Duplo 2ª ud. Al 50%](https://www.amazon.com/dp/B00P2HSJZE/?tag=redken08-20) a precio de oferta de 9.99 EUR (original: 13.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51DnCNj1HxL._SL200_.jpg)](https://www.amazon.com/dp/B00P2HSJZE/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00P2HSJZE/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00P2HSJZE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

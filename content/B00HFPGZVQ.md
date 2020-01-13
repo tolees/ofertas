@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego Star Wars Chewbacca Key Light [With'
-date: 2020-01-11 22:19:21
+date: 2020-01-12 22:48:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg' ]
 comments: true

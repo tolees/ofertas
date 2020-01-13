@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Krups Dolce Gusto Mini Me KP1208 - Cafet'
-date: 2020-01-01 08:07:26
+date: 2020-01-12 21:19:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412lnaEpkdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412lnaEpkdL._SL200_.jpg' ]
 comments: true
