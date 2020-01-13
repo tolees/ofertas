@@ -14,10 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bambú Máscara Negra  Peel off Mascarilla  Black Mask  Mascarillas exfoliantes y limpiadoras  Purifying Peel Off Máscara Remove BlackHead y Acné  60g](https://www.amazon.com/dp/B07BGVYFYK/?tag=redken08-20) a 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Bambú Máscara Negra  Peel off Mascarilla  Black Mask  Mascarillas exfoliantes y limpiadoras  Purifying Peel Off Máscara Remove BlackHead y Acné  60g](https://www.amazon.com/dp/B07BGVYFYK/?tag=redken08-20) por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61f39vF-ccL._SL200_.jpg)](https://www.amazon.com/dp/B07BGVYFYK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07BGVYFYK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07BGVYFYK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 12777 Actionfigur Marvel: Guardian'
-date: 2020-01-10 22:05:35
+title: 'Funko Figurine Marvel - Gardiens De La G'
+date: 2020-01-13 12:23:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n4dkiJ0RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n4dkiJ0RL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B01M7YJJI3
 description:
 actualPrice: 7.99 EUR
-comparePrice: 13.99 EUR
+comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko 12777 Actionfigur Marvel: Guardians O/T Galaxy 2: Ego  Skin Light Tri Coffee  Standard](https://www.amazon.com/dp/B01M7YJJI3/?tag=redken08-20) por 7.99 EUR (original: 13.99 EUR) en el siguiente enlace!
+Está [Funko Figurine Marvel - Gardiens De La Galaxie 2 - Ego [Importación Francesa]](https://www.amazon.com/dp/B01M7YJJI3/?tag=redken08-20) por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51n4dkiJ0RL._SL200_.jpg)](https://www.amazon.com/dp/B01M7YJJI3/?tag=redken08-20)
 

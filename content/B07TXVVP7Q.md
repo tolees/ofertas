@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO City '
-date: 2020-01-11 14:09:27
+date: 2020-01-13 14:12:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg' ]
 comments: true

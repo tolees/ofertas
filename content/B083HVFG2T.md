@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'K9CK Luces LED para Technic Grúa Todoter'
-date: 2020-01-08 15:20:45
+date: 2020-01-13 14:38:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yFL9uTmXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yFL9uTmXL._SL200_.jpg' ]
 comments: true

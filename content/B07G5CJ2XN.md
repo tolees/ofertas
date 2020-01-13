@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SeeKool MII Mini PC Ordenador de sobreme'
-date: 2020-01-03 14:45:35
+date: 2020-01-13 14:28:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg' ]
 comments: true

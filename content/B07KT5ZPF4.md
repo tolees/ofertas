@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cable Lightning 3 en 1  iHaper Cable de '
-date: 2020-01-10 11:33:25
+date: 2020-01-13 15:36:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Hg%2BeyznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Hg%2BeyznL._SL200_.jpg' ]
 comments: true

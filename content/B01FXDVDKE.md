@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TRENDnet TUC-ETG  v1.0R  - Adaptador de '
-date: 2020-01-11 09:43:01
+date: 2020-01-13 14:16:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31abH3SajxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31abH3SajxL._SL200_.jpg' ]
 comments: true

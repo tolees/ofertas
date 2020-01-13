@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 31177 Aquaman: Arthur Curry in Her'
-date: 2020-01-12 14:06:29
+date: 2020-01-13 14:19:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tBGKMJWcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tBGKMJWcL._SL200_.jpg' ]
 comments: true

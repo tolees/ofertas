@@ -14,10 +14,10 @@ comparePrice: 58.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Professional BT 150 - Trípode de construcción  55 - 157 cm  rosca 1/4"  en caja ](https://www.amazon.com/dp/B00OBBUBSU/?tag=redken08-20) a 34.9 EUR (original: 58.8 EUR) en el siguiente enlace!
+Está [Bosch Professional BT 150 - Trípode de construcción  55 - 157 cm  rosca 1/4"  en caja ](https://www.amazon.com/dp/B00OBBUBSU/?tag=redken08-20) por 34.9 EUR (original: 58.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dyNC5uz7L._SL200_.jpg)](https://www.amazon.com/dp/B00OBBUBSU/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00OBBUBSU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00OBBUBSU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
