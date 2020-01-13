@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BrizLabs Cadena Luces Solares 2 Paquete '
-date: 2020-01-05 10:47:10
+date: 2020-01-13 16:28:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bHP5OsOsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bHP5OsOsL._SL200_.jpg' ]
 comments: true

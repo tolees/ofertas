@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Xperia 10 - Smartphone de 6" Full H'
-date: 2020-01-12 14:18:12
+date: 2020-01-13 16:21:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311MgrMNZjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311MgrMNZjL._SL200_.jpg' ]
 comments: true

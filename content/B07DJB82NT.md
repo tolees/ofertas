@@ -14,10 +14,10 @@ comparePrice: 56.35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dockers by Gerli 35iz328  Botas Altas para Mujer  Azul  Navy 660   39 EU](https://www.amazon.com/dp/B07DJB82NT/?tag=redken08-20) a 39.26 EUR (original: 56.35 EUR) en el siguiente enlace!
+Está [Dockers by Gerli 35iz328  Botas Altas para Mujer  Azul  Navy 660   39 EU](https://www.amazon.com/dp/B07DJB82NT/?tag=redken08-20) por 39.26 EUR (original: 56.35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JaX-vdwDL._SL200_.jpg)](https://www.amazon.com/dp/B07DJB82NT/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DJB82NT/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DJB82NT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

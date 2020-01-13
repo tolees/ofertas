@@ -14,10 +14,10 @@ comparePrice: 3.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NIVEA MEN Sensitive Gel de afeitar para piel sensible  gel facial con tecnología Ultra Glide para un afeitado libre de irritaciones - 1 x 200 ml](https://www.amazon.com/dp/B00XAFFCXC/?tag=redken08-20) a 2.75 EUR (original: 3.99 EUR) en el siguiente enlace!
+Está [NIVEA MEN Sensitive Gel de afeitar para piel sensible  gel facial con tecnología Ultra Glide para un afeitado libre de irritaciones - 1 x 200 ml](https://www.amazon.com/dp/B00XAFFCXC/?tag=redken08-20) por 2.75 EUR (original: 3.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IEIzNbX9L._SL200_.jpg)](https://www.amazon.com/dp/B00XAFFCXC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00XAFFCXC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00XAFFCXC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

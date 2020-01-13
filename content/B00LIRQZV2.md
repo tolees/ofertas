@@ -14,10 +14,10 @@ comparePrice: 105 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Polaroid X8409 ML KIH Gafas de sol  Negro  Black/Grey   52 para Mujer](https://www.amazon.com/dp/B00LIRQZV2/?tag=redken08-20) a 13.63 EUR (original: 105 EUR) en el siguiente enlace!
+Está [Polaroid X8409 ML KIH Gafas de sol  Negro  Black/Grey   52 para Mujer](https://www.amazon.com/dp/B00LIRQZV2/?tag=redken08-20) por 13.63 EUR (original: 105 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/312svvIhA4L._SL200_.jpg)](https://www.amazon.com/dp/B00LIRQZV2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00LIRQZV2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00LIRQZV2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 74.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto  Negro  Black Ao4430/002   45.5 EU](https://www.amazon.com/dp/B0789RKKHV/?tag=redken08-20) a 54.71 EUR (original: 74.99 EUR) en el siguiente enlace!
+Está [Nike Air Versitile III  Zapatos de Baloncesto Unisex Adulto  Negro  Black Ao4430/002   45.5 EU](https://www.amazon.com/dp/B0789RKKHV/?tag=redken08-20) por 54.71 EUR (original: 74.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31cOlt80qPL._SL200_.jpg)](https://www.amazon.com/dp/B0789RKKHV/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B0789RKKHV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0789RKKHV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

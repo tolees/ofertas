@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TAOCOCO Regleta inteligente  Smart Power'
-date: 2020-01-12 09:57:15
+date: 2020-01-13 16:15:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f96Fj7rcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f96Fj7rcL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 31088 Creator 3in1 Deep Sea Creatures Shark  Crab and Squid or Angler Fish  Seaside Adventures Building Set  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FNS6J7R/?tag=redken08-20) a precio de oferta de 9.59 GBP (original: 12.99 GBP) en el siguiente enlace!
+Está [LEGO 31088 Creator 3in1 Deep Sea Creatures Shark  Crab and Squid or Angler Fish  Seaside Adventures Building Set  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FNS6J7R/?tag=redken08-20) por 9.59 GBP (original: 12.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51a%2BS05GSzL._SL200_.jpg)](https://www.amazon.com/dp/B07FNS6J7R/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07FNS6J7R/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNS6J7R/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

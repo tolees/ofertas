@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Maxi-Cosi CABRIOFIX  Nomad Black  - Sill'
-date: 2020-01-11 11:05:31
+date: 2020-01-13 16:20:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m9bjWz03L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m9bjWz03L._SL200_.jpg' ]
 comments: true

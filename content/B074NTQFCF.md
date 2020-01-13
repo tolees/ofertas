@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SALCAR Caja con USB 3.0 para Disco Duro '
-date: 2020-01-11 12:15:40
+date: 2020-01-13 17:32:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XwRziGVVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XwRziGVVL._SL200_.jpg' ]
 comments: true

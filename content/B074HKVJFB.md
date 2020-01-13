@@ -14,10 +14,10 @@ comparePrice: 9.16 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 21554 Pop Movies Blade Runner 2049 Officer K](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20) a 6.6 GBP (original: 9.16 GBP) en el siguiente enlace!
+Está [Funko 21554 Pop Movies Blade Runner 2049 Officer K](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20) por 6.6 GBP (original: 9.16 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/517hdB10LRL._SL200_.jpg)](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B074HKVJFB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

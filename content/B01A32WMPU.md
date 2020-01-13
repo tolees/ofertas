@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZENBRE Altavoz Bluetooth  Z3 10W Altavoz'
-date: 2019/12/17 10:37:51 +0000
+date: 2020-01-13 15:49:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YRo%2Bb%2BDpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YRo%2Bb%2BDpL._SL200_.jpg' ]
 comments: true

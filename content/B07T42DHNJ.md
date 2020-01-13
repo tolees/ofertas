@@ -14,10 +14,10 @@ comparePrice: 492.99 EUR
 inStock: true
 ---
 
-Tienes [GoPro HERO7 Black - Cámara de acción  sumergible hasta 10 m  pantalla táctil  vídeo 4K HD  fotos de 12 MP  transmisión en directo y estabilizador  negro + Kit de accesorios para cámara  color negro](https://www.amazon.com/dp/B07T42DHNJ/?tag=redken08-20) a precio de oferta de 367.17 EUR (original: 492.99 EUR) en el siguiente enlace!
+Está [GoPro HERO7 Black - Cámara de acción  sumergible hasta 10 m  pantalla táctil  vídeo 4K HD  fotos de 12 MP  transmisión en directo y estabilizador  negro + Kit de accesorios para cámara  color negro](https://www.amazon.com/dp/B07T42DHNJ/?tag=redken08-20) por 367.17 EUR (original: 492.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ngLL445gL._SL200_.jpg)](https://www.amazon.com/dp/B07T42DHNJ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07T42DHNJ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07T42DHNJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

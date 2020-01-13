@@ -14,10 +14,10 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Tienes [HTC Double Dip Hard Shell Clip-On Case Cover for HTC One  M8  - Red/Light Grey/Black](https://www.amazon.com/dp/B00IDW3RRU/?tag=redken08-20) a precio de oferta de 10.96 GBP (original: 19.99 GBP) en el siguiente enlace!
+Está [HTC Double Dip Hard Shell Clip-On Case Cover for HTC One  M8  - Red/Light Grey/Black](https://www.amazon.com/dp/B00IDW3RRU/?tag=redken08-20) por 10.96 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Qe%2B1kLLpL._SL200_.jpg)](https://www.amazon.com/dp/B00IDW3RRU/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00IDW3RRU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00IDW3RRU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
