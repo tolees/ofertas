@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGIANT Pulsera de Actividad Inteligent'
-date: 2020-01-10 10:27:45
+date: 2020-01-13 09:07:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NGgGwgqQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NGgGwgqQL._SL200_.jpg' ]
 comments: true

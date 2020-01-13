@@ -14,10 +14,10 @@ comparePrice: 329 EUR
 inStock: true
 ---
 
-Tienes [Invicta 6981 Pro Diver - Scuba Reloj para Hombre acero inoxidable Cuarzo Esfera negro](https://www.amazon.com/dp/B003MYYJD0/?tag=redken08-20) a precio de oferta de 190 EUR (original: 329 EUR) en el siguiente enlace!
+Está [Invicta 6981 Pro Diver - Scuba Reloj para Hombre acero inoxidable Cuarzo Esfera negro](https://www.amazon.com/dp/B003MYYJD0/?tag=redken08-20) por 190 EUR (original: 329 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/519MfvDE0GL._SL200_.jpg)](https://www.amazon.com/dp/B003MYYJD0/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B003MYYJD0/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B003MYYJD0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

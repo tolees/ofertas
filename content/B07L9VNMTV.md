@@ -14,10 +14,10 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Tienes [Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Dk Red 5a5   40 EU](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20) a precio de oferta de 40.88 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Lacoste Carnaby EVO 319 1 SMA  Zapatillas para Hombre  Azul  Nvy/Dk Red 5a5   40 EU](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20) por 40.88 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310l%2ByvxtsL._SL200_.jpg)](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07L9VNMTV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

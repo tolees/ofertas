@@ -14,10 +14,10 @@ comparePrice: 2.08 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Scotch-Brite Salvauñas  Fibra Verde](https://www.amazon.com/dp/B00U6AMCE6/?tag=redken08-20) a 1.28 EUR (original: 2.08 EUR) en el siguiente enlace!
+Tienes [Scotch-Brite Salvauñas  Fibra Verde](https://www.amazon.com/dp/B00U6AMCE6/?tag=redken08-20) a precio de oferta de 1.28 EUR (original: 2.08 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qYT1Zg5VL._SL200_.jpg)](https://www.amazon.com/dp/B00U6AMCE6/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00U6AMCE6/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00U6AMCE6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

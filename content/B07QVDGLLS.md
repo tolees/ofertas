@@ -14,10 +14,10 @@ comparePrice: 14.05 EUR
 inStock: true
 ---
 
-Está [SCHWARZKOPF BC SCALP GENESIS CHAMPU PURIFICANTE 200ML](https://www.amazon.com/dp/B07QVDGLLS/?tag=redken08-20) por 7.95 EUR (original: 14.05 EUR) en el siguiente enlace!
+Tienes [SCHWARZKOPF BC SCALP GENESIS CHAMPU PURIFICANTE 200ML](https://www.amazon.com/dp/B07QVDGLLS/?tag=redken08-20) a precio de oferta de 7.95 EUR (original: 14.05 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/314mILyRswL._SL200_.jpg)](https://www.amazon.com/dp/B07QVDGLLS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07QVDGLLS/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07QVDGLLS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

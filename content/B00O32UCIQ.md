@@ -14,10 +14,10 @@ comparePrice: 9.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bourjois Velvet Barra de Labios Líquida Tono 09 Happy Nude Year - 23 gr.](https://www.amazon.com/dp/B00O32UCIQ/?tag=redken08-20) a 3.59 EUR (original: 9.63 EUR) en el siguiente enlace!
+Está [Bourjois Velvet Barra de Labios Líquida Tono 09 Happy Nude Year - 23 gr.](https://www.amazon.com/dp/B00O32UCIQ/?tag=redken08-20) por 3.59 EUR (original: 9.63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kPghP7M7L._SL200_.jpg)](https://www.amazon.com/dp/B00O32UCIQ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00O32UCIQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00O32UCIQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DC-77 16MP 4X Zoom Videocámara Digital d'
-date: 2020-01-07 21:01:04
+date: 2020-01-13 09:02:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DMT0LoHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DMT0LoHxL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 19.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Revlon Proyou Nutritive Treatment Tratamiento Capilar - 500 ml](https://www.amazon.com/dp/B00CZCD74W/?tag=redken08-20) a 9.69 EUR (original: 19.2 EUR) en el siguiente enlace!
+Está [Revlon Proyou Nutritive Treatment Tratamiento Capilar - 500 ml](https://www.amazon.com/dp/B00CZCD74W/?tag=redken08-20) por 9.69 EUR (original: 19.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ggu5ExWnL._SL200_.jpg)](https://www.amazon.com/dp/B00CZCD74W/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00CZCD74W/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00CZCD74W/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

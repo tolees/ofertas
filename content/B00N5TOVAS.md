@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Medisana HU 665 Calientacamas  150 x 80 '
-date: 2020-01-12 10:07:26
+date: 2020-01-13 10:11:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KgqHYn0tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KgqHYn0tL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crock-Pot AutoStir CSC012X Olla de cocci'
-date: 2020-01-11 08:02:12
+date: 2020-01-13 09:38:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5104yJEGcHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5104yJEGcHL._SL200_.jpg' ]
 comments: true

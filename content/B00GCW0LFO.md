@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Lalique Agua De Colonia Para Mujeres 1 U'
-date: 2019/10/24 17:17:49 +0000
+title: 'Lalique Lalique Encre Noire Sport Etv 50'
+date: 2020-01-13 10:33:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419G36YnBoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419G36YnBoL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00GCW0LFO
 description:
-actualPrice: 23 EUR
+actualPrice: 23.8 EUR
 comparePrice: 57 EUR
 inStock: true
 ---
 
-Tienes [Lalique Agua De Colonia Para Mujeres 1 Unidad 80 g](https://www.amazon.com/dp/B00GCW0LFO/?tag=redken08-20) a precio de oferta de 23 EUR (original: 57 EUR) en el siguiente enlace!
+Tienes [Lalique Lalique Encre Noire Sport Etv 50Ml - 1 Unidad](https://www.amazon.com/dp/B00GCW0LFO/?tag=redken08-20) a precio de oferta de 23.8 EUR (original: 57 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419G36YnBoL._SL200_.jpg)](https://www.amazon.com/dp/B00GCW0LFO/?tag=redken08-20)
 

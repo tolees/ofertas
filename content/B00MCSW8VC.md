@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington Pro Ion S7710 - Plancha de Pel'
-date: 2020-01-12 09:08:07
+date: 2020-01-13 10:39:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nSJkEc1rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nSJkEc1rL._SL200_.jpg' ]
 comments: true

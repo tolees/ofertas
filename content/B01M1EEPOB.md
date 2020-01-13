@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple EarPods con conector Lightning'
-date: 2020-01-11 15:55:58
+date: 2020-01-13 10:14:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/210-WTccOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/210-WTccOJL._SL200_.jpg' ]
 comments: true

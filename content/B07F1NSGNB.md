@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vernee M6 Smartphone 4G de Pantalla Gran'
-date: 2020-01-09 15:42:58
+date: 2020-01-13 09:04:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ckaAp834L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ckaAp834L._SL200_.jpg' ]
 comments: true
