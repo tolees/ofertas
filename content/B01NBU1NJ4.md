@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epson EcoTank ET-2650  Impresora  WiFi  '
-date: 2020-01-06 15:45:54
+date: 2020-01-13 12:46:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Luces led solares para exteriores con BATERIA MEJORADA 2200mAh ZIMAX 100 LED Luz solar exterior jardin Sensor de Movimiento Lámpara Impermeable Iluminación Jardín y 3 Modos Inteligentes  2-Paquetes ](https://www.amazon.com/dp/B07HLDFNXG/?tag=redken08-20) por 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Luces led solares para exteriores con BATERIA MEJORADA 2200mAh ZIMAX 100 LED Luz solar exterior jardin Sensor de Movimiento Lámpara Impermeable Iluminación Jardín y 3 Modos Inteligentes  2-Paquetes ](https://www.amazon.com/dp/B07HLDFNXG/?tag=redken08-20) a precio de oferta de 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510SIwU8bnL._SL200_.jpg)](https://www.amazon.com/dp/B07HLDFNXG/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07HLDFNXG/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07HLDFNXG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

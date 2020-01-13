@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WA860RE - Repetidor de red Wi'
-date: 2020-01-10 11:20:24
+date: 2020-01-13 11:38:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XGwMS1eqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XGwMS1eqL._SL200_.jpg' ]
 comments: true

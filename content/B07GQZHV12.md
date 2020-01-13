@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AVIWIS Cable Micro USB  [3-Unidades 2M] '
-date: 2019/12/24 13:53:31 +0000
+date: 2020-01-13 11:16:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XsW4fUgRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XsW4fUgRL._SL200_.jpg' ]
 comments: true

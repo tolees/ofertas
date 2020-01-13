@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Jabra Elite Active 65t - Auriculares ina'
-date: 2019/11/27 12:33:41 +0000
+title: 'Jabra Elite Active 65t True Wireless Blu'
+date: 2019/12/14 14:47:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pl89dN7wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pl89dN7wL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07BHY7M8P
 description:
-actualPrice: 129.99 EUR
+actualPrice: 134 EUR
 comparePrice: 189.99 EUR
 inStock: true
 ---
 
-Está [Jabra Elite Active 65t - Auriculares inalámbricos para deporte  Bluetooth 5.0  True Wireless  con Alexa integrada  Azul y Cobre](https://www.amazon.com/dp/B07BHY7M8P/?tag=redken08-20) por 129.99 EUR (original: 189.99 EUR) en el siguiente enlace!
+Está [Jabra Elite Active 65t True Wireless Bluetooth Sport Kopfhörer  Musik und telefonieren  bis zu 15 Std. Akkulaufzeit mit Ladecase  Sprachsteuerung für Alexa  Siri  Google Assistant  kupfer blau](https://www.amazon.com/dp/B07BHY7M8P/?tag=redken08-20) por 134 EUR (original: 189.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pl89dN7wL._SL200_.jpg)](https://www.amazon.com/dp/B07BHY7M8P/?tag=redken08-20)
 

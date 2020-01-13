@@ -14,10 +14,10 @@ comparePrice: 1439 EUR
 inStock: true
 ---
 
-Tienes [Apple iPhone XS  de 512GB  - Oro](https://www.amazon.com/dp/B07HPDBKKQ/?tag=redken08-20) a precio de oferta de 1079 EUR (original: 1439 EUR) en el siguiente enlace!
+Está [Apple iPhone XS  de 512GB  - Oro](https://www.amazon.com/dp/B07HPDBKKQ/?tag=redken08-20) por 1079 EUR (original: 1439 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51EDX0DWF-L._SL200_.jpg)](https://www.amazon.com/dp/B07HPDBKKQ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07HPDBKKQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07HPDBKKQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

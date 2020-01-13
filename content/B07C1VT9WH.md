@@ -14,10 +14,10 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Está [GEARGO Webcam Abdeckung Webcam Cover Kamera Abdeckung Sticker Privacy-Schutz für PC Laptop MacBook Pro iPad iPhone Kamera Handyzubehör 3er Set](https://www.amazon.com/dp/B07C1VT9WH/?tag=redken08-20) por 8.19 EUR (original: 12.99 EUR) en el siguiente enlace!
+Tienes [GEARGO Webcam Abdeckung Webcam Cover Kamera Abdeckung Sticker Privacy-Schutz für PC Laptop MacBook Pro iPad iPhone Kamera Handyzubehör 3er Set](https://www.amazon.com/dp/B07C1VT9WH/?tag=redken08-20) a precio de oferta de 8.19 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51LH58zpPlL._SL200_.jpg)](https://www.amazon.com/dp/B07C1VT9WH/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07C1VT9WH/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07C1VT9WH/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

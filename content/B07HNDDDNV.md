@@ -14,10 +14,10 @@ comparePrice: 1209 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Apple iPhone XS  de 256GB  - Oro](https://www.amazon.com/dp/B07HNDDDNV/?tag=redken08-20) a 849 EUR (original: 1209 EUR) en el siguiente enlace!
+Está [Apple iPhone XS  de 256GB  - Oro](https://www.amazon.com/dp/B07HNDDDNV/?tag=redken08-20) por 849 EUR (original: 1209 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51EDX0DWF-L._SL200_.jpg)](https://www.amazon.com/dp/B07HNDDDNV/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07HNDDDNV/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07HNDDDNV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

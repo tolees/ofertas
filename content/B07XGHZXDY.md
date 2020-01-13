@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ayete Smartwatch Fitness Tracker con fre'
-date: 2020-01-06 12:11:14
+date: 2020-01-13 12:11:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418rqSdXe0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418rqSdXe0L._SL200_.jpg' ]
 comments: true

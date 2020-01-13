@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGOO Conjunto Medio de Iniciación Comp'
-date: 2020-01-12 12:58:25
+date: 2020-01-13 13:03:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg' ]
 comments: true

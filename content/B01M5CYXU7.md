@@ -14,10 +14,10 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Está [Tassimo L OR Latte Macchiato  80 Cápsulas  T DISCs  compatibles con cafeteras Tassimo Bosch - 5 Paquetes de 16 Unidades](https://www.amazon.com/dp/B01M5CYXU7/?tag=redken08-20) por 17.89 EUR (original: 24.95 EUR) en el siguiente enlace!
+Tienes [Tassimo L OR Latte Macchiato  80 Cápsulas  T DISCs  compatibles con cafeteras Tassimo Bosch - 5 Paquetes de 16 Unidades](https://www.amazon.com/dp/B01M5CYXU7/?tag=redken08-20) a precio de oferta de 17.89 EUR (original: 24.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DWmO2Ke8L._SL200_.jpg)](https://www.amazon.com/dp/B01M5CYXU7/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01M5CYXU7/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01M5CYXU7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
