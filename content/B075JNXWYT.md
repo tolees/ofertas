@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Barbero MG3730/15 - Recortador d'
-date: 2020-01-11 13:40:34
+date: 2020-01-13 08:30:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kygZHhy0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kygZHhy0L._SL200_.jpg' ]
 comments: true

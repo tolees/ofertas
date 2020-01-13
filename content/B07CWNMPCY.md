@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bveyzi Mujeres RFID Bloqueo Billetera Cu'
-date: 2019/11/08 12:07:58 +0000
+date: 2020-01-13 08:55:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OJ5X1mUFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OJ5X1mUFL._SL200_.jpg' ]
 comments: true

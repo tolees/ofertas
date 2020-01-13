@@ -14,10 +14,10 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Case Logic LAPS111B - Funda para chromebooks y ultrabooks de 10-11.6"  Color Azul eléctrico](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20) por 12.62 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [Case Logic LAPS111B - Funda para chromebooks y ultrabooks de 10-11.6"  Color Azul eléctrico](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20) a precio de oferta de 12.62 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51abtMCZX4L._SL200_.jpg)](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

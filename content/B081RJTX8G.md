@@ -14,10 +14,10 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Lighting Kit for LEGO Technic Land Rover Defender Compatible with LEGO 42110 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20) a precio de oferta de 49.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Technic Land Rover Defender Compatible with LEGO 42110 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20) por 49.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51oeqBli15L._SL200_.jpg)](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B081RJTX8G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

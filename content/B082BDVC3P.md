@@ -14,10 +14,10 @@ comparePrice: 499.95 EUR
 inStock: true
 ---
 
-Tienes [Icons Corner Pack de 2 sillones IMS con Patas de Madera y pachtwork](https://www.amazon.com/dp/B082BDVC3P/?tag=redken08-20) a precio de oferta de 79.99 EUR (original: 499.95 EUR) en el siguiente enlace!
+Está [Icons Corner Pack de 2 sillones IMS con Patas de Madera y pachtwork](https://www.amazon.com/dp/B082BDVC3P/?tag=redken08-20) por 79.99 EUR (original: 499.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OaI1fQVXL._SL200_.jpg)](https://www.amazon.com/dp/B082BDVC3P/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B082BDVC3P/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B082BDVC3P/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

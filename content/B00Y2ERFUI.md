@@ -14,10 +14,10 @@ comparePrice: 599 EUR
 inStock: true
 ---
 
-Está [Neato Robotics D85 Robot Aspirador - Aspirador robotizado con estación de carga](https://www.amazon.com/dp/B00Y2ERFUI/?tag=redken08-20) por 372.78 EUR (original: 599 EUR) en el siguiente enlace!
+Tienes [Neato Robotics D85 Robot Aspirador - Aspirador robotizado con estación de carga](https://www.amazon.com/dp/B00Y2ERFUI/?tag=redken08-20) a precio de oferta de 372.78 EUR (original: 599 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Qlkvjkv-L._SL200_.jpg)](https://www.amazon.com/dp/B00Y2ERFUI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00Y2ERFUI/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00Y2ERFUI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

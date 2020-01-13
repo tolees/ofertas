@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asalvo  Silla de coche grupo 1/2/3 Isofi'
-date: 2019/12/28 11:55:01 +0000
+date: 2020-01-13 07:19:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jXkRqhEpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jXkRqhEpL._SL200_.jpg' ]
 comments: true
