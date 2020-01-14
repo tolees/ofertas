@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disney Frozen 2 99487 Tischdecke  Blau'
-date: 2020-01-13 14:26:00
+date: 2020-01-14 21:13:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21yPihpYWvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21yPihpYWvL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07YPXX29T
 description:
-actualPrice: 4.63 EUR
+actualPrice: 3.74 EUR
 comparePrice: 7 EUR
 inStock: true
 ---
 
-Tienes [Disney Frozen 2 99487 Tischdecke  Blau](https://www.amazon.com/dp/B07YPXX29T/?tag=redken08-20) a precio de oferta de 4.63 EUR (original: 7 EUR) en el siguiente enlace!
+Tienes [Disney Frozen 2 99487 Tischdecke  Blau](https://www.amazon.com/dp/B07YPXX29T/?tag=redken08-20) a precio de oferta de 3.74 EUR (original: 7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21yPihpYWvL._SL200_.jpg)](https://www.amazon.com/dp/B07YPXX29T/?tag=redken08-20)
 

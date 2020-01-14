@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP Sprocket Plus - Impresora fotográfica'
-date: 2020-01-13 18:29:44
+date: 2020-01-14 21:04:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNqD-hDTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNqD-hDTL._SL200_.jpg' ]
 comments: true

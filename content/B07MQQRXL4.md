@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ANTIMI Bluetooth Headphones Wireless Ear'
-date: 2020-01-13 14:10:03
+date: 2020-01-14 20:47:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg' ]
 comments: true

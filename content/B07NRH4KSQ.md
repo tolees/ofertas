@@ -14,10 +14,10 @@ comparePrice: 11.25 EUR
 inStock: true
 ---
 
-Tienes [SYOSS - Champú Rizos Pro - Definición e Hidratación - 3 uds de 500ml](https://www.amazon.com/dp/B07NRH4KSQ/?tag=redken08-20) a precio de oferta de 6.09 EUR (original: 11.25 EUR) en el siguiente enlace!
+Está [SYOSS - Champú Rizos Pro - Definición e Hidratación - 3 uds de 500ml](https://www.amazon.com/dp/B07NRH4KSQ/?tag=redken08-20) por 6.09 EUR (original: 11.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41I-zSXAomL._SL200_.jpg)](https://www.amazon.com/dp/B07NRH4KSQ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07NRH4KSQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NRH4KSQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

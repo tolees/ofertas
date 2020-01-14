@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Acer VX5-591G-5872 - Ordenador Portátil '
-date: 2020-01-13 08:50:00
+date: 2020-01-14 19:57:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LplYnVjaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LplYnVjaL._SL200_.jpg' ]
 comments: true
