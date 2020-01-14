@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P30 Lite - Smartphone de 6.15"  W'
-date: 2020-01-12 16:36:47
+date: 2020-01-13 20:55:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415bgK33xsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415bgK33xsL._SL200_.jpg' ]
 comments: true

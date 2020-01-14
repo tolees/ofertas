@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy S10 - Smartphone de 6.1" '
-date: 2020-01-12 05:01:37
+date: 2020-01-14 06:05:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iaxdDXBkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iaxdDXBkL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NWWPZYQ
 description:
-actualPrice: 612 EUR
+actualPrice: 609 EUR
 comparePrice: 909 EUR
 inStock: true
 ---
 
-Tienes [Samsung Galaxy S10 - Smartphone de 6.1"   Dual SIM  Verde  Prism Green   - [Version español]](https://www.amazon.com/dp/B07NWWPZYQ/?tag=redken08-20) a precio de oferta de 612 EUR (original: 909 EUR) en el siguiente enlace!
+Tienes [Samsung Galaxy S10 - Smartphone de 6.1"   Dual SIM  Verde  Prism Green   - [Version español]](https://www.amazon.com/dp/B07NWWPZYQ/?tag=redken08-20) a precio de oferta de 609 EUR (original: 909 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31iaxdDXBkL._SL200_.jpg)](https://www.amazon.com/dp/B07NWWPZYQ/?tag=redken08-20)
 

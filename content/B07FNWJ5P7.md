@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO NINJAGO 70665 - Samurai-Roboter'
-date: 2020-01-12 22:16:24
+date: 2020-01-14 06:31:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D-lUG13EL._SL200_.jpg' ]
 comments: true

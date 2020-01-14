@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Lights Star Wars Han Solo Key Light'
-date: 2020-01-12 22:03:51
+date: 2020-01-13 22:12:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ti3aqc6gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ti3aqc6gL._SL200_.jpg' ]
 comments: true

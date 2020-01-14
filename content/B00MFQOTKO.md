@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tectonic 41-6103-14 - Reloj de cuarzo un'
-date: 2020-01-09 06:28:47
+date: 2020-01-13 22:58:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PrDt7OLYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PrDt7OLYL._SL200_.jpg' ]
 comments: true

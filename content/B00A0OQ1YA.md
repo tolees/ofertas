@@ -14,10 +14,10 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Tienes [Sorel 1964 Pac 2  Botas de Invierno para Mujer  Marrón  Buff/Black 280   36.5 EU](https://www.amazon.com/dp/B00A0OQ1YA/?tag=redken08-20) a precio de oferta de 88.21 EUR (original: 159.99 EUR) en el siguiente enlace!
+Está [Sorel 1964 Pac 2  Botas de Invierno para Mujer  Marrón  Buff/Black 280   36.5 EU](https://www.amazon.com/dp/B00A0OQ1YA/?tag=redken08-20) por 88.21 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51vJBG%2BfyvL._SL200_.jpg)](https://www.amazon.com/dp/B00A0OQ1YA/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00A0OQ1YA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00A0OQ1YA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

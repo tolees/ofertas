@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LeaderPro 60W Pistola de Encolar viene u'
-date: 2020-01-05 13:25:35
+date: 2020-01-13 19:16:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kc-8TNbkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kc-8TNbkL._SL200_.jpg' ]
 comments: true

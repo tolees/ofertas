@@ -14,10 +14,10 @@ comparePrice: 2100 EUR
 inStock: true
 ---
 
-Está [Sony Alpha ILCE7RM2B - Cámara EVIL Full Frame de 42.4 MP  estabilización de 5 ejes  vídeo 4K  negro](https://www.amazon.com/dp/B010THXVNQ/?tag=redken08-20) por 1381.93 EUR (original: 2100 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony Alpha ILCE7RM2B - Cámara EVIL Full Frame de 42.4 MP  estabilización de 5 ejes  vídeo 4K  negro](https://www.amazon.com/dp/B010THXVNQ/?tag=redken08-20) a 1381.93 EUR (original: 2100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rh8T2pEyL._SL200_.jpg)](https://www.amazon.com/dp/B010THXVNQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B010THXVNQ/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B010THXVNQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

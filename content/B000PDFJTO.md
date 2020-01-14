@@ -14,10 +14,10 @@ comparePrice: 22.14 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Amazonas AZ-3027000 - Cuerda para hamaca  Resistencia 120 kg por cuerda ](https://www.amazon.com/dp/B000PDFJTO/?tag=redken08-20) a 12.1 EUR (original: 22.14 EUR) en el siguiente enlace!
+Está [Amazonas AZ-3027000 - Cuerda para hamaca  Resistencia 120 kg por cuerda ](https://www.amazon.com/dp/B000PDFJTO/?tag=redken08-20) por 12.1 EUR (original: 22.14 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YCWKnZIRL._SL200_.jpg)](https://www.amazon.com/dp/B000PDFJTO/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000PDFJTO/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000PDFJTO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

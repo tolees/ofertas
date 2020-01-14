@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 9061 Family Fun Aquarium Shop'
-date: 2020-01-12 22:07:04
+date: 2020-01-13 22:11:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-o4n68JEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-o4n68JEL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B01LZ37RJI
 description:
 actualPrice: 12 GBP
-comparePrice: 16.79 GBP
+comparePrice: 16.83 GBP
 inStock: true
 ---
 
-Tienes [Playmobil 9061 Family Fun Aquarium Shop](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20) a precio de oferta de 12 GBP (original: 16.79 GBP) en el siguiente enlace!
+Tienes [Playmobil 9061 Family Fun Aquarium Shop](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20) a precio de oferta de 12 GBP (original: 16.83 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51-o4n68JEL._SL200_.jpg)](https://www.amazon.com/dp/B01LZ37RJI/?tag=redken08-20)
 

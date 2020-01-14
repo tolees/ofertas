@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Star '
-date: 2020-01-12 06:17:10
+date: 2020-01-14 06:26:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg' ]
 comments: true

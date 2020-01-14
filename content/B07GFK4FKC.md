@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'P Prettyia 1080P HD 1.5    Pantalla Mini'
-date: 2020-01-11 09:14:50
+date: 2020-01-14 00:42:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eP%2Bb7VeNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eP%2Bb7VeNL._SL200_.jpg' ]
 comments: true

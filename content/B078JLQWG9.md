@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timex Reloj Analógico para Hombre de Cua'
-date: 2020-01-04 01:33:27
+date: 2020-01-14 03:02:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOqMWfCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DBOqMWfCL._SL200_.jpg' ]
 comments: true

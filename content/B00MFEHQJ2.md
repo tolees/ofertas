@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Calefactor SO6510F2 Comfort Aqua'
-date: 2020-01-08 20:04:51
+date: 2020-01-13 18:26:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RiAQiUekL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RiAQiUekL._SL200_.jpg' ]
 comments: true

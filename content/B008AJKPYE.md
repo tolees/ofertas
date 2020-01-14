@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional 2 608 000 495 Sierra '
-date: 2020-01-06 14:45:35
+date: 2020-01-14 08:18:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg' ]
 comments: true

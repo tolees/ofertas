@@ -14,10 +14,10 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60209 City Police Sky Police Diamond Heist with Chase Helicopter and Truck Toys plus Jetpack  4 Minifigures and Light and Sound Brick  Jail Break Sets for Kids](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20) a 31.49 GBP (original: 44.99 GBP) en el siguiente enlace!
+Está [LEGO 60209 City Police Sky Police Diamond Heist with Chase Helicopter and Truck Toys plus Jetpack  4 Minifigures and Light and Sound Brick  Jail Break Sets for Kids](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20) por 31.49 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xrHWft5zL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FP6QRDL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [THE LEGO MOVIE 2 70831 Emmets Traumhaus/Rettungsrakete!](https://www.amazon.com/dp/B07FNW8R5H/?tag=redken08-20) a 42.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [THE LEGO MOVIE 2 70831 Emmets Traumhaus/Rettungsrakete!](https://www.amazon.com/dp/B07FNW8R5H/?tag=redken08-20) por 42.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51DPlUZQCaL._SL200_.jpg)](https://www.amazon.com/dp/B07FNW8R5H/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNW8R5H/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNW8R5H/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

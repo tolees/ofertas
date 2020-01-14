@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Pack taladro percutor y 15 pieza'
-date: 2020-01-09 15:47:57
+date: 2020-01-14 07:35:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01JGIF3DU
 description:
-actualPrice: 34.5 EUR
+actualPrice: 27.6 EUR
 comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Tienes [Einhell Pack taladro percutor y 15 piezas de perforación  TC-ID 1000 Kit   1010 W  230V  color rojo y negro  ref. 4259838 ](https://www.amazon.com/dp/B01JGIF3DU/?tag=redken08-20) a precio de oferta de 34.5 EUR (original: 69.95 EUR) en el siguiente enlace!
+Tienes [Einhell Pack taladro percutor y 15 piezas de perforación  TC-ID 1000 Kit   1010 W  230V  color rojo y negro  ref. 4259838 ](https://www.amazon.com/dp/B01JGIF3DU/?tag=redken08-20) a precio de oferta de 27.6 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg)](https://www.amazon.com/dp/B01JGIF3DU/?tag=redken08-20)
 

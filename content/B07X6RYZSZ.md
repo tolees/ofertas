@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VEOMED® Dispositivo Anti Ronquidos efica'
-date: 2020-01-05 18:38:27
+date: 2020-01-13 18:13:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f-ngvptSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f-ngvptSL._SL200_.jpg' ]
 comments: true

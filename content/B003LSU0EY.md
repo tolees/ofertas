@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio EDIFICE Reloj en caja sólida de ac'
-date: 2020-01-10 11:14:50
+date: 2020-01-13 20:31:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B003LSU0EY
 description:
-actualPrice: 78.43 EUR
+actualPrice: 79.2 EUR
 comparePrice: 190.03 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Negro  para Hombre  con Correa de Acero macizo  EF-552-1AVEF](https://www.amazon.com/dp/B003LSU0EY/?tag=redken08-20) a 78.43 EUR (original: 190.03 EUR) en el siguiente enlace!
+Ahora mismo tienes [Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Negro  para Hombre  con Correa de Acero macizo  EF-552-1AVEF](https://www.amazon.com/dp/B003LSU0EY/?tag=redken08-20) a 79.2 EUR (original: 190.03 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg)](https://www.amazon.com/dp/B003LSU0EY/?tag=redken08-20)
 

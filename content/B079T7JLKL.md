@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timex Reloj Cronógrafo para Hombre de Cu'
-date: 2020-01-03 21:38:31
+date: 2020-01-13 22:02:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415IbJjDK3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415IbJjDK3L._SL200_.jpg' ]
 comments: true
