@@ -14,10 +14,10 @@ comparePrice: 6.04 EUR
 inStock: true
 ---
 
-Está [Head & Shoulders Champú para Hombres - 250 ml](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20) por 2.4 EUR (original: 6.04 EUR) en el siguiente enlace!
+Tienes [Head & Shoulders Champú para Hombres - 250 ml](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20) a precio de oferta de 2.4 EUR (original: 6.04 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31AsqVMuM4L._SL200_.jpg)](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B003Z2ZTME/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

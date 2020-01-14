@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamron SP - Objetivo para Canon DSLR  Di'
-date: 2020-01-08 20:07:18
+date: 2020-01-14 11:01:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B014SQ2VQM
 description:
-actualPrice: 542.54 EUR
+actualPrice: 549.53 EUR
 comparePrice: 799 EUR
 inStock: true
 ---
 
-Está [Tamron SP - Objetivo para Canon DSLR  Distancia Focal Fija 35mm  Apertura f/1.8  Di  VC  USD  diámetro Filtro: 67 mm   Negro](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20) por 542.54 EUR (original: 799 EUR) en el siguiente enlace!
+Está [Tamron SP - Objetivo para Canon DSLR  Distancia Focal Fija 35mm  Apertura f/1.8  Di  VC  USD  diámetro Filtro: 67 mm   Negro](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20) por 549.53 EUR (original: 799 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg)](https://www.amazon.com/dp/B014SQ2VQM/?tag=redken08-20)
 

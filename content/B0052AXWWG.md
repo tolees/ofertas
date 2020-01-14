@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Chaqueta Columbia 1420421 Hombre Fleece '
-date: 2019/11/22 11:22:19 +0000
+title: 'Columbia 1420421  Chaqueta Forro Polar H'
+date: 2020-01-14 15:08:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K2nGLmqZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K2nGLmqZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0052AXWWG
 description:
-actualPrice: 30.99 EUR
+actualPrice: 30.49 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Chaqueta Columbia 1420421 Hombre Fleece - Azul  Azul  - M](https://www.amazon.com/dp/B0052AXWWG/?tag=redken08-20) por 30.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Columbia 1420421  Chaqueta Forro Polar Hombre  Negro  Black   M](https://www.amazon.com/dp/B0052AXWWG/?tag=redken08-20) por 30.49 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41K2nGLmqZL._SL200_.jpg)](https://www.amazon.com/dp/B0052AXWWG/?tag=redken08-20)
 

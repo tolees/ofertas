@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEENO 20V Taladro Atornillador Bateria  '
-date: 2020-01-12 18:41:04
+date: 2020-01-14 10:56:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WpvmcebeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WpvmcebeL._SL200_.jpg' ]
 comments: true

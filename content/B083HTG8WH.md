@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine Liebherr Kran LTM1'
-date: 2020-01-12 06:30:06
+date: 2020-01-14 12:39:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e888rnPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e888rnPJL._SL200_.jpg' ]
 comments: true

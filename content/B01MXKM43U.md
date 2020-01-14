@@ -14,10 +14,10 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L33  Talla del fabricante: 27 ](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20) por 40.84 EUR (original: 89.95 EUR) en el siguiente enlace!
+Tienes [Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L33  Talla del fabricante: 27 ](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20) a precio de oferta de 40.84 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg)](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01MXKM43U/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

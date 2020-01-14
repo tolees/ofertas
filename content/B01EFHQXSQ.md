@@ -14,10 +14,10 @@ comparePrice: 2.39 EUR
 inStock: true
 ---
 
-Tienes [Fa - Desodorante Roll-On Pink Passion - 50ml](https://www.amazon.com/dp/B01EFHQXSQ/?tag=redken08-20) a precio de oferta de 1.03 EUR (original: 2.39 EUR) en el siguiente enlace!
+Está [Fa - Desodorante Roll-On Pink Passion - 50ml](https://www.amazon.com/dp/B01EFHQXSQ/?tag=redken08-20) por 1.03 EUR (original: 2.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PceH1xw8L._SL200_.jpg)](https://www.amazon.com/dp/B01EFHQXSQ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01EFHQXSQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01EFHQXSQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

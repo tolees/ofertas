@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Collar Mujer  J.Rosée "Tú Eres Mi Única '
-date: 2020-01-12 12:38:15
+date: 2020-01-14 11:38:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ihJLplwpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ihJLplwpL._SL200_.jpg' ]
 comments: true

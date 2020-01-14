@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Android 9.0 TV Box- Bqeel TV Box 4GB+64G'
-date: 2020-01-12 19:51:00
+date: 2020-01-14 12:05:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bU70GKvAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bU70GKvAL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YAMAY Pulsera de Actividad Inteligente I'
-date: 2019/12/22 14:50:51 +0000
+date: 2020-01-14 13:09:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uS2HkxXSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uS2HkxXSL._SL200_.jpg' ]
 comments: true

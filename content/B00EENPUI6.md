@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic ES-LV65-S803  Premium Wet & Dr'
-date: 2020-01-12 13:48:43
+date: 2020-01-14 15:35:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AqHrhksRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AqHrhksRL._SL200_.jpg' ]
 comments: true

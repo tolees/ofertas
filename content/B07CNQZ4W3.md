@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KD55XF7004BAEP - Smart TV de 55" 4K'
-date: 2020-01-12 20:12:51
+date: 2020-01-14 11:08:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tdODxgjjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tdODxgjjL._SL200_.jpg' ]
 comments: true

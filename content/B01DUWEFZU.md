@@ -14,10 +14,10 @@ comparePrice: 1.66 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Gallina Blanca - Sofrito de Tomate y Cebolla ](https://www.amazon.com/dp/B01DUWEFZU/?tag=redken08-20) a 1 EUR (original: 1.66 EUR) en el siguiente enlace!
+Tienes [Gallina Blanca - Sofrito de Tomate y Cebolla ](https://www.amazon.com/dp/B01DUWEFZU/?tag=redken08-20) a precio de oferta de 1 EUR (original: 1.66 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aFc5WhISL._SL200_.jpg)](https://www.amazon.com/dp/B01DUWEFZU/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01DUWEFZU/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01DUWEFZU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
