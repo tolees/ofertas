@@ -14,10 +14,10 @@ comparePrice: 434.39 EUR
 inStock: true
 ---
 
-Está [Bosch Professional GBH 2-28 F - Martillo perforador  3 2 J  máx. hormigón 28 mm  portabrocas SDS plus + cilíndrico  en L-BOXX ](https://www.amazon.com/dp/B01LDZYN6C/?tag=redken08-20) por 223.46 EUR (original: 434.39 EUR) en el siguiente enlace!
+Tienes [Bosch Professional GBH 2-28 F - Martillo perforador  3 2 J  máx. hormigón 28 mm  portabrocas SDS plus + cilíndrico  en L-BOXX ](https://www.amazon.com/dp/B01LDZYN6C/?tag=redken08-20) a precio de oferta de 223.46 EUR (original: 434.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31iAadHTOXL._SL200_.jpg)](https://www.amazon.com/dp/B01LDZYN6C/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01LDZYN6C/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01LDZYN6C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Andven Altavoz Bluetooth portátil 20W  5'
-date: 2020-01-12 10:55:35
+date: 2020-01-14 10:08:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x-zPTinYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x-zPTinYL._SL200_.jpg' ]
 comments: true

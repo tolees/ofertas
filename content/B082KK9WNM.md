@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANLVS Smartwatch Reloj Inteligente IP67'
-date: 2019/12/29 19:22:54 +0000
+date: 2020-01-14 09:50:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vH-r-2orL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vH-r-2orL._SL200_.jpg' ]
 comments: true

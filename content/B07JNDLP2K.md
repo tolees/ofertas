@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DAM. DMZ047BK. Brazalete Inteligente S96'
-date: 2020-01-11 11:42:31
+date: 2020-01-14 10:36:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hE9SEOWfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hE9SEOWfL._SL200_.jpg' ]
 comments: true

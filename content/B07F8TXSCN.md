@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE 2 Piezas Encendedor Eléctrico  '
-date: 2019/12/13 10:35:20 +0000
+date: 2020-01-14 09:59:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e2tCNgPwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e2tCNgPwL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07F8TXSCN
 description:
-actualPrice: 12.37 EUR
-comparePrice: 22.99 EUR
+actualPrice: 14.99 EUR
+comparePrice: 21.99 EUR
 inStock: true
 ---
 
-Está [TACKLIFE 2 Piezas Encendedor Eléctrico  ELY08 Encendedor Cocina  Mechero USB con Interruptor de Seguridad  Batería Recargable  Mango Super Largo  27 cm   Cuello más Largo & Flexible 360°  Más Seguro](https://www.amazon.com/dp/B07F8TXSCN/?tag=redken08-20) por 12.37 EUR (original: 22.99 EUR) en el siguiente enlace!
+Está [TACKLIFE 2 Piezas Encendedor Eléctrico  ELY08 Encendedor Cocina  Mechero USB con Interruptor de Seguridad  Batería Recargable  Mango Super Largo  27 cm   Cuello más Largo & Flexible 360°  Más Seguro](https://www.amazon.com/dp/B07F8TXSCN/?tag=redken08-20) por 14.99 EUR (original: 21.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41e2tCNgPwL._SL200_.jpg)](https://www.amazon.com/dp/B07F8TXSCN/?tag=redken08-20)
 

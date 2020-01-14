@@ -14,10 +14,10 @@ comparePrice: 35.9 EUR
 inStock: true
 ---
 
-Tienes [LEADSTAR 24V 15A 360W Fuente de alimentación conmutada AC-DC transformador convertidor para la vigilancia de circuito cerrado de televisión Impresora 3D LED de Automatización Industrial Motor](https://www.amazon.com/dp/B01IMQ1Q4C/?tag=redken08-20) a precio de oferta de 25.5 EUR (original: 35.9 EUR) en el siguiente enlace!
+Está [LEADSTAR 24V 15A 360W Fuente de alimentación conmutada AC-DC transformador convertidor para la vigilancia de circuito cerrado de televisión Impresora 3D LED de Automatización Industrial Motor](https://www.amazon.com/dp/B01IMQ1Q4C/?tag=redken08-20) por 25.5 EUR (original: 35.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4192bR8HRAL._SL200_.jpg)](https://www.amazon.com/dp/B01IMQ1Q4C/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01IMQ1Q4C/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01IMQ1Q4C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

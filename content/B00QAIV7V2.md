@@ -14,10 +14,10 @@ comparePrice: 123.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Versace Eros Pour Femme Agua de Perfume - 100 ml](https://www.amazon.com/dp/B00QAIV7V2/?tag=redken08-20) a 68 EUR (original: 123.4 EUR) en el siguiente enlace!
+Tienes [Versace Eros Pour Femme Agua de Perfume - 100 ml](https://www.amazon.com/dp/B00QAIV7V2/?tag=redken08-20) a precio de oferta de 68 EUR (original: 123.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nXmxQNqBL._SL200_.jpg)](https://www.amazon.com/dp/B00QAIV7V2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00QAIV7V2/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00QAIV7V2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
