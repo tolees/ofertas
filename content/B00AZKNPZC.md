@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech B100 - Ratón óptico  color negr'
-date: 2020-01-01 08:44:50
+date: 2020-01-14 16:00:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iFF1KbkpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iFF1KbkpL._SL200_.jpg' ]
 comments: true

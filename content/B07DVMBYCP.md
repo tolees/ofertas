@@ -14,10 +14,10 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Tienes [Hurley M Core Day and Nite SS Camiseta  Hombre  Blanco  L](https://www.amazon.com/dp/B07DVMBYCP/?tag=redken08-20) a precio de oferta de 15.58 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Hurley M Core Day and Nite SS Camiseta  Hombre  Blanco  L](https://www.amazon.com/dp/B07DVMBYCP/?tag=redken08-20) por 15.58 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414K8k93RGL._SL200_.jpg)](https://www.amazon.com/dp/B07DVMBYCP/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07DVMBYCP/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DVMBYCP/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mx Onda - Reloj Analógico de Cuarzo para'
-date: 2020-01-10 20:49:34
+date: 2020-01-14 19:14:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tJfa6UKxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tJfa6UKxL._SL200_.jpg' ]
 comments: true

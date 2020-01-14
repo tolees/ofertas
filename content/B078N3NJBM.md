@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ideapad 520S-14IKB - Ordenador Po'
-date: 2020-01-13 17:28:22
+date: 2020-01-14 17:56:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O1L%2BnH9kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O1L%2BnH9kL._SL200_.jpg' ]
 comments: true

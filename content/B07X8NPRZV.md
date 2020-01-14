@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Baseus Cable USB Tipo C Nailon Trenzado '
-date: 2020-01-12 19:50:39
+date: 2020-01-14 17:20:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XGlCzEs1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XGlCzEs1L._SL200_.jpg' ]
 comments: true

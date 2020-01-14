@@ -14,10 +14,10 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60220 4+ City Great Vehicles Garbage Truck Toy with 2 Minifigures and Accessories  Vehicle Toys for Kids](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20) a 11 GBP (original: 14.99 GBP) en el siguiente enlace!
+Tienes [LEGO 60220 4+ City Great Vehicles Garbage Truck Toy with 2 Minifigures and Accessories  Vehicle Toys for Kids](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20) a precio de oferta de 11 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51lQNndux8L._SL200_.jpg)](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FNW6WQ1/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 8.99 GBP
 inStock: true
 ---
 
-Está [LEGO 70680 NINJAGO Monastery Training Includes Kai and Nya Minifigures Building Set](https://www.amazon.com/dp/B07FNWJ12Q/?tag=redken08-20) por 6.29 GBP (original: 8.99 GBP) en el siguiente enlace!
+Tienes [LEGO 70680 NINJAGO Monastery Training Includes Kai and Nya Minifigures Building Set](https://www.amazon.com/dp/B07FNWJ12Q/?tag=redken08-20) a precio de oferta de 6.29 GBP (original: 8.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51VWDeDZdlL._SL200_.jpg)](https://www.amazon.com/dp/B07FNWJ12Q/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FNWJ12Q/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FNWJ12Q/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

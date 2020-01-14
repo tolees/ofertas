@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joma Combi Camisetas Equip. M/c  Hombre '
-date: 2019/12/03 16:52:27 +0000
+date: 2020-01-14 18:48:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s3W0QezuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s3W0QezuL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07H2CFJTL
 description:
-actualPrice: 6 EUR
+actualPrice: 5.99 EUR
 comparePrice: 8.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Joma Combi Camisetas Equip. M/c  Hombre  Marino Oscuro  L](https://www.amazon.com/dp/B07H2CFJTL/?tag=redken08-20) a 6 EUR (original: 8.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [Joma Combi Camisetas Equip. M/c  Hombre  Marino Oscuro  L](https://www.amazon.com/dp/B07H2CFJTL/?tag=redken08-20) a 5.99 EUR (original: 8.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31s3W0QezuL._SL200_.jpg)](https://www.amazon.com/dp/B07H2CFJTL/?tag=redken08-20)
 

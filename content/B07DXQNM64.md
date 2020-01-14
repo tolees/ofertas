@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'find. Carpenter Vaqueros tapered  Azul  '
-date: 2020-01-13 16:42:21
+date: 2020-01-14 19:49:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jcVzG1XEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jcVzG1XEL._SL200_.jpg' ]
 comments: true

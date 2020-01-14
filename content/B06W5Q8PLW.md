@@ -14,10 +14,10 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Está [Playmobil 9250 Top Agents Dr. Drone s Command Base Toy Set  Multi](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20) por 35.46 GBP (original: 59.99 GBP) en el siguiente enlace!
+Tienes [Playmobil 9250 Top Agents Dr. Drone s Command Base Toy Set  Multi](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20) a precio de oferta de 35.46 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61SLuo3%2B0WL._SL200_.jpg)](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 20.99 GBP
 inStock: true
 ---
 
-Está [Sntieecr 6 Set DC Motors Kit  Mini Electric Motor 3V 15000RPM with 66 PCS Plastic Gears  AA Battery Holder Case  Motor Bracket  Shaft Propeller and Rocker Switch for DIY Toys Science Projects](https://www.amazon.com/dp/B07VHB5WFC/?tag=redken08-20) por 10.99 GBP (original: 20.99 GBP) en el siguiente enlace!
+Tienes [Sntieecr 6 Set DC Motors Kit  Mini Electric Motor 3V 15000RPM with 66 PCS Plastic Gears  AA Battery Holder Case  Motor Bracket  Shaft Propeller and Rocker Switch for DIY Toys Science Projects](https://www.amazon.com/dp/B07VHB5WFC/?tag=redken08-20) a precio de oferta de 10.99 GBP (original: 20.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OJ44QCMVL._SL200_.jpg)](https://www.amazon.com/dp/B07VHB5WFC/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07VHB5WFC/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07VHB5WFC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

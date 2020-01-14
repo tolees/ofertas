@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HolyHigh Auriculares Bluetooth 5.0 Inalá'
-date: 2020-01-10 20:59:48
+date: 2020-01-14 18:17:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412II8tkvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412II8tkvcL._SL200_.jpg' ]
 comments: true

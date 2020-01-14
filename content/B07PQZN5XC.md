@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 4K UHD 2019 50RU7405  serie RU74'
-date: 2020-01-13 11:53:28
+date: 2020-01-14 17:40:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41egzEETe-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41egzEETe-L._SL200_.jpg' ]
 comments: true

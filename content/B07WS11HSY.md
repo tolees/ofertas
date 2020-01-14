@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGIANT Altavoz PC  Barra de Sonido Blu'
-date: 2020-01-03 09:14:22
+date: 2020-01-14 16:26:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aDfigsTuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aDfigsTuL._SL200_.jpg' ]
 comments: true
