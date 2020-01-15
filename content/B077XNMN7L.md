@@ -14,10 +14,10 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Fly Fast Graphic Crop Leggin  Mujer  Black/After Burn  XS](https://www.amazon.com/dp/B077XNMN7L/?tag=redken08-20) a 25.24 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Under Armour Fly Fast Graphic Crop Leggin  Mujer  Black/After Burn  XS](https://www.amazon.com/dp/B077XNMN7L/?tag=redken08-20) por 25.24 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iIhYuIaYL._SL200_.jpg)](https://www.amazon.com/dp/B077XNMN7L/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B077XNMN7L/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B077XNMN7L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

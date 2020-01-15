@@ -14,10 +14,10 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko- Pop Vinilo 80th: Batman  1989  Figura Coleccionable  Multicolor  37248 ](https://www.amazon.com/dp/B07KPT4L3N/?tag=redken08-20) por 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko- Pop Vinilo 80th: Batman  1989  Figura Coleccionable  Multicolor  37248 ](https://www.amazon.com/dp/B07KPT4L3N/?tag=redken08-20) a 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ktfyc2iKL._SL200_.jpg)](https://www.amazon.com/dp/B07KPT4L3N/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07KPT4L3N/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07KPT4L3N/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
