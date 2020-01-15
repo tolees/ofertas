@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION X30 RGB - Ordenador de sobremesa '
-date: 2019/12/20 10:47:54 +0000
+date: 2020-01-15 09:06:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg' ]
 comments: true

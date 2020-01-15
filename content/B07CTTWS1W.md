@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'X3 | Potente cúrcuma orgánica con glucos'
-date: 2020-01-14 09:41:42
+date: 2020-01-15 11:17:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41isLKsTvNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41isLKsTvNL._SL200_.jpg' ]
 comments: true

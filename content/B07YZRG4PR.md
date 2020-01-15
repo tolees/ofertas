@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Mando inalámbrico Onyx Plus  PS4/'
-date: 2020-01-10 20:19:08
+date: 2020-01-15 11:39:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S7hNfrvYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S7hNfrvYL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 22.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Adidas Con18 Co Polo Shirt  Hombre  Bold Dark Blue/White  S](https://www.amazon.com/dp/B076HPR9JF/?tag=redken08-20) a 12.67 EUR (original: 22.95 EUR) en el siguiente enlace!
+Está [Adidas Con18 Co Polo Shirt  Hombre  Bold Dark Blue/White  S](https://www.amazon.com/dp/B076HPR9JF/?tag=redken08-20) por 12.67 EUR (original: 22.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wq7xd8%2BDL._SL200_.jpg)](https://www.amazon.com/dp/B076HPR9JF/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B076HPR9JF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076HPR9JF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

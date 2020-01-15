@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Double Pack: Assassin s Creed Odyssey + '
-date: 2020-01-13 14:14:15
+date: 2020-01-15 08:46:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515bhh3Q8OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515bhh3Q8OL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reproductor MP3 Bluetooth 4.1 - MP3 Blue'
-date: 2020-01-13 21:57:43
+date: 2020-01-15 10:52:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xKAhl67WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xKAhl67WL._SL200_.jpg' ]
 comments: true

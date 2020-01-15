@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Recci Cubrecolchón 90x190/200 - Cubre Co'
-date: 2020-01-06 20:06:57
+date: 2020-01-15 11:08:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D9burgPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D9burgPFL._SL200_.jpg' ]
 comments: true

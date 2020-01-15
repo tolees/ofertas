@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XLS Medical Mantenimiento despues de per'
-date: 2020-01-05 04:36:56
+date: 2020-01-15 11:38:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07BB5GGGJ
 description:
-actualPrice: 12.74 EUR
+actualPrice: 10.35 EUR
 comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Tienes [XLS Medical Mantenimiento despues de perder peso - 180 comprimidos](https://www.amazon.com/dp/B07BB5GGGJ/?tag=redken08-20) a precio de oferta de 12.74 EUR (original: 49.95 EUR) en el siguiente enlace!
+Tienes [XLS Medical Mantenimiento despues de perder peso - 180 comprimidos](https://www.amazon.com/dp/B07BB5GGGJ/?tag=redken08-20) a precio de oferta de 10.35 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg)](https://www.amazon.com/dp/B07BB5GGGJ/?tag=redken08-20)
 

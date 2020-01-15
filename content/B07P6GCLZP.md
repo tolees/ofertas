@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Superzings - Serie 4 - Display de 8 vehí'
-date: 2020-01-13 19:41:18
+date: 2020-01-15 09:39:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ee%2BnK9vJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ee%2BnK9vJL._SL200_.jpg' ]
 comments: true

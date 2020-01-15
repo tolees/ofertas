@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Secador de Pelo Profesional Iónico Motor'
-date: 2019-12-31 15:26:06
+date: 2020-01-15 09:37:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V0QOF71CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V0QOF71CL._SL200_.jpg' ]
 comments: true

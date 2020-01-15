@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HYLOGY Tensiómetro de Brazo  Monitor de '
-date: 2020-01-10 10:38:05
+date: 2020-01-15 12:48:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07QH2KPRD
 description:
-actualPrice: 29.99 EUR
-comparePrice: 49.99 EUR
+actualPrice: 23.98 EUR
+comparePrice: 45.99 EUR
 inStock: true
 ---
 
-Tienes [HYLOGY Tensiómetro de Brazo  Monitor de Presión Arterial Digital Automatico con Gran Pantalla LED  Deteccion de Irregular Arritmia  Brazalete 22-42cm  2x90 Memoria y Recargable USB](https://www.amazon.com/dp/B07QH2KPRD/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [HYLOGY Tensiómetro de Brazo  Monitor de Presión Arterial Digital Automatico con Gran Pantalla LED  Deteccion de Irregular Arritmia  Brazalete 22-42cm  2x90 Memoria y Recargable USB](https://www.amazon.com/dp/B07QH2KPRD/?tag=redken08-20) a precio de oferta de 23.98 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg)](https://www.amazon.com/dp/B07QH2KPRD/?tag=redken08-20)
 

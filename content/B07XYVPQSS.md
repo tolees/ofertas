@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Banda Reflectante 4 Luz Running Brazalet'
-date: 2019/12/02 19:02:50 +0000
+date: 2020-01-15 09:35:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415RAD%2BcJUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415RAD%2BcJUL._SL200_.jpg' ]
 comments: true

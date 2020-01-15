@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wanfei Pulsera Xiaomi Mi Band 3 Correa  '
-date: 2019/11/25 03:16:04 +0000
+date: 2020-01-15 07:57:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o35-RBm8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o35-RBm8L._SL200_.jpg' ]
 comments: true

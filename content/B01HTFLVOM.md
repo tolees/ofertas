@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Columbia Fast Trek II Chaqueta con Cremallera  Mujer  Azul  Bluebell   XL](https://www.amazon.com/dp/B01HTFLVOM/?tag=redken08-20) a precio de oferta de 23.36 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Columbia Fast Trek II Chaqueta con Cremallera  Mujer  Azul  Bluebell   XL](https://www.amazon.com/dp/B01HTFLVOM/?tag=redken08-20) por 23.36 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CvyNvTUpL._SL200_.jpg)](https://www.amazon.com/dp/B01HTFLVOM/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01HTFLVOM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01HTFLVOM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

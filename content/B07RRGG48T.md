@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZUNTO Portarrollos Baño Acero Inoxidable'
-date: 2020-01-09 15:50:59
+date: 2020-01-15 10:04:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BMhDsGz9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BMhDsGz9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07RRGG48T
 description:
-actualPrice: 11.99 EUR
+actualPrice: 9.99 EUR
 comparePrice: 20.99 EUR
 inStock: true
 ---
 
-Tienes [ZUNTO Portarrollos Baño Acero Inoxidable - Portarrollo para Papel Higiénico Autoadhesivo Para Baños](https://www.amazon.com/dp/B07RRGG48T/?tag=redken08-20) a precio de oferta de 11.99 EUR (original: 20.99 EUR) en el siguiente enlace!
+Tienes [ZUNTO Portarrollos Baño Acero Inoxidable - Portarrollo para Papel Higiénico Autoadhesivo Para Baños](https://www.amazon.com/dp/B07RRGG48T/?tag=redken08-20) a precio de oferta de 9.99 EUR (original: 20.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BMhDsGz9L._SL200_.jpg)](https://www.amazon.com/dp/B07RRGG48T/?tag=redken08-20)
 

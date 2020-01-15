@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tamron SP - Objetivo para Canon DSLR  Di'
-date: 2020-01-14 11:01:52
+date: 2020-01-15 11:56:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Tienes [New Balance Nitrel v2  Zapatillas de Running para Mujer  Turquesa  Light Petrol/Galaxy/Blossom Lg2   36 EU](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20) a precio de oferta de 29.5 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance Nitrel v2  Zapatillas de Running para Mujer  Turquesa  Light Petrol/Galaxy/Blossom Lg2   36 EU](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20) por 29.5 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410%2BF-JGQML._SL200_.jpg)](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

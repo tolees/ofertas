@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P20 lite Smartphone  14.83 cm  5.'
-date: 2020-01-07 15:40:06
+date: 2020-01-15 07:41:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Iy7FaFVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Iy7FaFVL._SL200_.jpg' ]
 comments: true

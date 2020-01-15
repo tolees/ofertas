@@ -14,10 +14,10 @@ comparePrice: 57.49 EUR
 inStock: true
 ---
 
-Está [Sphero-Esfera robótica controlada por una aplicación juguete para el aprendizaje y programación en STEM  apto para mayores de 8 años  color rosado  M001PRW ](https://www.amazon.com/dp/B072B6RKCT/?tag=redken08-20) por 39.99 EUR (original: 57.49 EUR) en el siguiente enlace!
+Tienes [Sphero-Esfera robótica controlada por una aplicación juguete para el aprendizaje y programación en STEM  apto para mayores de 8 años  color rosado  M001PRW ](https://www.amazon.com/dp/B072B6RKCT/?tag=redken08-20) a precio de oferta de 39.99 EUR (original: 57.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31J0uG0nVxL._SL200_.jpg)](https://www.amazon.com/dp/B072B6RKCT/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B072B6RKCT/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B072B6RKCT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
