@@ -2,8 +2,8 @@
 layout: post
 title: 'Cojin Lumbar Coche con Esponja Memoria  '
 date: 2019/12/16 03:16:16 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Cojin Lumbar Coche con Esponja Memoria  Feagar Respaldo Lumbar Ergonómico Soporte de Espalda Alivie la Fatiga y el Dolor por Office Negro](https://www.amazon.com/dp/B077FPJD8X/?tag=redken08-20) a precio de oferta de 25.99 EUR (original: 54.99 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B077FPJD8X/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B077FPJD8X/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B077FPJD8X/?tag=redken08-20)
 

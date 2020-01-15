@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Axis  Zapatillas Unisex Adulto  Bla'
-date: 2019/12/21 11:21:43 +0000
+date: 2020-01-15 14:01:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07F2NCWKK
 description:
-actualPrice: 27.45 EUR
+actualPrice: 24.65 EUR
 comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [Puma Axis  Zapatillas Unisex Adulto  Black White  42 EU](https://www.amazon.com/dp/B07F2NCWKK/?tag=redken08-20) por 27.45 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Puma Axis  Zapatillas Unisex Adulto  Black White  42 EU](https://www.amazon.com/dp/B07F2NCWKK/?tag=redken08-20) por 24.65 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg)](https://www.amazon.com/dp/B07F2NCWKK/?tag=redken08-20)
 

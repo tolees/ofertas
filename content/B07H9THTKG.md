@@ -2,8 +2,8 @@
 layout: post
 title: 'Adolfo Dominguez  Agua de colonia para m'
 date: 2019/11/04 15:39:38 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Adolfo Dominguez  Agua de colonia para mujeres - 50 ml.](https://www.amazon.com/dp/B07H9THTKG/?tag=redken08-20) a precio de oferta de 21.8 EUR (original: 51.05 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07H9THTKG/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07H9THTKG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07H9THTKG/?tag=redken08-20)
 

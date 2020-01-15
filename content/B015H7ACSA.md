@@ -14,10 +14,10 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Diesel Optical Frame Dl5161 003 55 Monturas de Gafas  Multicolor  Mehrfarbig   55.0 para Hombre](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20) a 59.57 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Diesel Optical Frame Dl5161 003 55 Monturas de Gafas  Multicolor  Mehrfarbig   55.0 para Hombre](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20) por 59.57 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CSZ6sgehL._SL200_.jpg)](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

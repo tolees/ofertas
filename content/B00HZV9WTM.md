@@ -14,10 +14,10 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Juego de 8 pilas recargables AA Ni-MH  precargadas  500 ciclos  2500 mAh  mínimo 2400 mAh  - La cubierta exterior puede variar](https://www.amazon.com/dp/B00HZV9WTM/?tag=redken08-20) a 13.19 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [AmazonBasics - Juego de 8 pilas recargables AA Ni-MH  precargadas  500 ciclos  2500 mAh  mínimo 2400 mAh  - La cubierta exterior puede variar](https://www.amazon.com/dp/B00HZV9WTM/?tag=redken08-20) por 13.19 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JPTQ%2BaJ9L._SL200_.jpg)](https://www.amazon.com/dp/B00HZV9WTM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00HZV9WTM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00HZV9WTM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

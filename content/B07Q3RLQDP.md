@@ -2,8 +2,8 @@
 layout: post
 title: 'Henry London Reloj Analógico para Unisex'
 date: 2019/11/09 17:50:03 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Henry London Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Cuero HL34-S-0404](https://www.amazon.com/dp/B07Q3RLQDP/?tag=redken08-20) a precio de oferta de 36.3 EUR (original: 133.18 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07Q3RLQDP/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07Q3RLQDP/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07Q3RLQDP/?tag=redken08-20)
 

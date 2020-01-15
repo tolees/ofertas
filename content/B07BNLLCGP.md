@@ -2,8 +2,8 @@
 layout: post
 title: 'BioTech ALA Alpha Lipoic Ácidos Grasos E'
 date: 2019/09/29 15:58:05 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [BioTech ALA Alpha Lipoic Ácidos Grasos Esenciales  Sin Sabor - 50 gr](https://www.amazon.com/dp/B07BNLLCGP/?tag=redken08-20) por 11.96 EUR (original: 17.68 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07BNLLCGP/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07BNLLCGP/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07BNLLCGP/?tag=redken08-20)
 

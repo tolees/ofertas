@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRA Efficient - Batería 4 piezas  de alu'
-date: 2020-01-03 21:57:35
+date: 2020-01-15 13:35:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wub8G6DoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wub8G6DoL._SL200_.jpg' ]
 comments: true

@@ -2,8 +2,8 @@
 layout: post
 title: 'Hisense H65U7BE - Smart TV ULED 65  4K U'
 date: 2019/12/12 07:04:24 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Hisense H65U7BE - Smart TV ULED 65  4K Ultra HD  Bluetooth  Dolby Vision HDR  HDR 10+  Audio Dolby Atmos  Ultra Dimming  Smart TV VIDAA U 3.0 IA  Compatible con Dispositivos Echo  Mando con micrófono](https://www.amazon.com/dp/B07QFQP9TZ/?tag=redken08-20) a precio de oferta de 799.99 EUR (original: 1199 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07QFQP9TZ/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07QFQP9TZ/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07QFQP9TZ/?tag=redken08-20)
 

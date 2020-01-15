@@ -2,8 +2,8 @@
 layout: post
 title: 'Samsung HS130 - Auriculares de botón  co'
 date: 2019/11/14 20:04:42 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,10 +14,10 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung HS130 - Auriculares de botón  con micrófono  control remoto integrado   azul- Versión española](https://www.amazon.com/dp/B00CUJQ7UG/?tag=redken08-20) a 8.99 EUR (original: 17.95 EUR) en el siguiente enlace!
+Está [Samsung HS130 - Auriculares de botón  con micrófono  control remoto integrado   azul- Versión española](https://www.amazon.com/dp/B00CUJQ7UG/?tag=redken08-20) por 8.99 EUR (original: 17.95 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B00CUJQ7UG/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B00CUJQ7UG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00CUJQ7UG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00CUJQ7UG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

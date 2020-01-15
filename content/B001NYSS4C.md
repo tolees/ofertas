@@ -2,8 +2,8 @@
 layout: post
 title: 'Puressentiel Spray Purificante - 200 ml'
 date: 2019/10/20 05:11:33 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,10 +14,10 @@ comparePrice: 38.09 EUR
 inStock: true
 ---
 
-Está [Puressentiel Spray Purificante - 200 ml](https://www.amazon.com/dp/B001NYSS4C/?tag=redken08-20) por 17.99 EUR (original: 38.09 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puressentiel Spray Purificante - 200 ml](https://www.amazon.com/dp/B001NYSS4C/?tag=redken08-20) a 17.99 EUR (original: 38.09 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B001NYSS4C/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B001NYSS4C/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B001NYSS4C/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B001NYSS4C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

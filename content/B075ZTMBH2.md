@@ -2,8 +2,8 @@
 layout: post
 title: 'X-WATCH 54010 "SIONA XW FIT" Damen Smart'
 date: 2019/11/26 19:46:55 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [X-WATCH 54010 "SIONA XW FIT" Damen Smartwatch  Activity Tracker für Android und Apple iOS Light Rose Gold](https://www.amazon.com/dp/B075ZTMBH2/?tag=redken08-20) a precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B075ZTMBH2/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B075ZTMBH2/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B075ZTMBH2/?tag=redken08-20)
 

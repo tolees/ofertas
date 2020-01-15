@@ -2,8 +2,8 @@
 layout: post
 title: 'Nacon - Revolution Pro Controller 2  Ver'
 date: 2019/12/16 22:26:32 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Nacon - Revolution Pro Controller 2  Versión Española  PS4 ](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20) a 93.9 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B075QFWVY4/?tag=redken08-20)
 

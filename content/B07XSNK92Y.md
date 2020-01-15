@@ -2,8 +2,8 @@
 layout: post
 title: 'Dihope  - Botas indias para mujer  tacón'
 date: 2019/10/06 09:33:12 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Dihope  - Botas indias para mujer  tacón plano  con flecos  estilo informal  botas de nieve azul EU 35](https://www.amazon.com/dp/B07XSNK92Y/?tag=redken08-20) por 16.39 EUR (original: 43.21 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07XSNK92Y/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07XSNK92Y/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07XSNK92Y/?tag=redken08-20)
 

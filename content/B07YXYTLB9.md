@@ -2,8 +2,8 @@
 layout: post
 title: 'Salsa 27'
 date: 2019/10/20 09:37:53 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,10 +14,10 @@ comparePrice: 55.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salsa 27](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20) a 26.4 EUR (original: 55.2 EUR) en el siguiente enlace!
+Tienes [Salsa 27](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20) a precio de oferta de 26.4 EUR (original: 55.2 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07YXYTLB9/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

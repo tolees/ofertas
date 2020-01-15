@@ -2,8 +2,8 @@
 layout: post
 title: 'KLIM Domination Teclado Mecánico RGB ESP'
 date: 2019/10/13 22:25:29 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [KLIM Domination Teclado Mecánico RGB ESPAÑOL - Interruptores Azules - Tecleo Rápido y Cómodo Teclado Gaming Retroiluminado - Completa Personalización de Colores - PC  PS4  Xbox One - Nueva Versión](https://www.amazon.com/dp/B06XR7MFMK/?tag=redken08-20) a precio de oferta de 19.9 EUR (original: 79.9 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B06XR7MFMK/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B06XR7MFMK/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B06XR7MFMK/?tag=redken08-20)
 

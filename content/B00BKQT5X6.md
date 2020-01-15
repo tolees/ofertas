@@ -2,8 +2,8 @@
 layout: post
 title: 'Daniel Wellington - Reloj analógico para'
 date: 2019/11/14 20:16:31 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Daniel Wellington - Reloj analógico para caballero de cuero negro](https://www.amazon.com/dp/B00BKQT5X6/?tag=redken08-20) a precio de oferta de 115.3 EUR (original: 226.8 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B00BKQT5X6/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B00BKQT5X6/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00BKQT5X6/?tag=redken08-20)
 

@@ -14,10 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Gomorra  2ª temporada  [Blu-ray]](https://www.amazon.com/dp/B07JYQNJ2T/?tag=redken08-20) a precio de oferta de 14.87 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gomorra  2ª temporada  [Blu-ray]](https://www.amazon.com/dp/B07JYQNJ2T/?tag=redken08-20) a 14.87 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ror%2BBwoEL._SL200_.jpg)](https://www.amazon.com/dp/B07JYQNJ2T/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07JYQNJ2T/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07JYQNJ2T/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

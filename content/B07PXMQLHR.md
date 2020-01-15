@@ -2,8 +2,8 @@
 layout: post
 title: 'Energy Sistem Outdoor Box Street  50W  B'
 date: 2019/11/26 15:10:05 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Energy Sistem Outdoor Box Street  50W  Bluetooth  MP3 USB & microSD  FM Radio  Power Bank  Shockproof ](https://www.amazon.com/dp/B07PXMQLHR/?tag=redken08-20) a 89 EUR (original: 119 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07PXMQLHR/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07PXMQLHR/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07PXMQLHR/?tag=redken08-20)
 

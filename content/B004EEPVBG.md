@@ -2,8 +2,8 @@
 layout: post
 title: 'Breil TJ0913 - Collar de Mujer de Acero '
 date: 2019/09/26 17:30:11 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,10 +14,10 @@ comparePrice: 108 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Breil TJ0913 - Collar de Mujer de Acero Inoxidable  80 cm](https://www.amazon.com/dp/B004EEPVBG/?tag=redken08-20) a 27.98 EUR (original: 108 EUR) en el siguiente enlace!
+Tienes [Breil TJ0913 - Collar de Mujer de Acero Inoxidable  80 cm](https://www.amazon.com/dp/B004EEPVBG/?tag=redken08-20) a precio de oferta de 27.98 EUR (original: 108 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B004EEPVBG/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B004EEPVBG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B004EEPVBG/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B004EEPVBG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 22.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Lego Friends Advent Calendar 2018  41353  - Amazon](https://www.amazon.com/dp/B07JFDZG7C/?tag=redken08-20) a 15.37 GBP (original: 22.99 GBP) en el siguiente enlace!
+Tienes [Lego Friends Advent Calendar 2018  41353  - Amazon](https://www.amazon.com/dp/B07JFDZG7C/?tag=redken08-20) a precio de oferta de 15.37 GBP (original: 22.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51i2ovwt3FL._SL200_.jpg)](https://www.amazon.com/dp/B07JFDZG7C/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07JFDZG7C/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07JFDZG7C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

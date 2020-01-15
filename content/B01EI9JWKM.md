@@ -14,10 +14,10 @@ comparePrice: 99.74 EUR
 inStock: true
 ---
 
-Está [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   44 EU](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20) por 69.69 EUR (original: 99.74 EUR) en el siguiente enlace!
+Tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   44 EU](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20) a precio de oferta de 69.69 EUR (original: 99.74 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413V1TIpsaL._SL200_.jpg)](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01EI9JWKM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

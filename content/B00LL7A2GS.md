@@ -2,8 +2,8 @@
 layout: post
 title: 'STANLEY 0-10-232 - Cuchillo de acero ino'
 date: 2019/11/23 18:06:32 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [STANLEY 0-10-232 - Cuchillo de acero inoxidable](https://www.amazon.com/dp/B00LL7A2GS/?tag=redken08-20) a precio de oferta de 5.85 EUR (original: 7.9 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B00LL7A2GS/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B00LL7A2GS/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00LL7A2GS/?tag=redken08-20)
 

@@ -2,8 +2,8 @@
 layout: post
 title: 'Corsair Vengeance LPX - Módulo de memori'
 date: 2019/11/26 08:26:03 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Corsair Vengeance LPX - Módulo de memoria XMP 2.0 de alto rendimiento de 16 GB  2 x 8 GB  DDR4  2400 MHz  C16   color rojo](https://www.amazon.com/dp/B018EGTEK8/?tag=redken08-20) a precio de oferta de 55 EUR (original: 111.04 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B018EGTEK8/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B018EGTEK8/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B018EGTEK8/?tag=redken08-20)
 

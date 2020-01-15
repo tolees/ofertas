@@ -2,8 +2,8 @@
 layout: post
 title: 'Rianne S Icons - Vibrador para Parejas D'
 date: 2019/10/21 19:42:28 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Rianne S Icons - Vibrador para Parejas Duo  18.8 cm  Púrpura](https://www.amazon.com/dp/B01HVQIS9A/?tag=redken08-20) a 50.97 EUR (original: 79.95 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B01HVQIS9A/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B01HVQIS9A/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B01HVQIS9A/?tag=redken08-20)
 

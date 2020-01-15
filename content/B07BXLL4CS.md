@@ -2,8 +2,8 @@
 layout: post
 title: 'Hangang Reloj para Niños Smartwatch Niño'
 date: 2019/11/03 23:02:02 +0000
-thumbnailImage: '._SL200_'
-images: [ '._SL200_' ]
+thumbnailImage: ''
+images: [ '' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Hangang Reloj para Niños Smartwatch Niño para llamadas SOS localizador de dispositivo para niños seguro  antipérdida  reloj inteligente podómetro  SOS en tiempo real  seguimiento de los padres](https://www.amazon.com/dp/B07BXLL4CS/?tag=redken08-20) a precio de oferta de 22.32 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![](._SL200_)](https://www.amazon.com/dp/B07BXLL4CS/?tag=redken08-20)
+[![]()](https://www.amazon.com/dp/B07BXLL4CS/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07BXLL4CS/?tag=redken08-20)
 
