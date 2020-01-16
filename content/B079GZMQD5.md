@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Linterna de Trabajo Recargable 1800mAh  '
-date: 2020-01-15 09:10:04
+date: 2020-01-16 14:10:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iX1cLbtKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iX1cLbtKL._SL200_.jpg' ]
 comments: true

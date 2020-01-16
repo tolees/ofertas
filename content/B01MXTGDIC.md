@@ -14,10 +14,10 @@ comparePrice: 149 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Carrera 1005/S IR TI7 Gafas de sol  Negro  RUTBK MTTBLK/GREY BLUEE   66 Unisex Adulto](https://www.amazon.com/dp/B01MXTGDIC/?tag=redken08-20) a 68.24 EUR (original: 149 EUR) en el siguiente enlace!
+Tienes [Carrera 1005/S IR TI7 Gafas de sol  Negro  RUTBK MTTBLK/GREY BLUEE   66 Unisex Adulto](https://www.amazon.com/dp/B01MXTGDIC/?tag=redken08-20) a precio de oferta de 68.24 EUR (original: 149 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31in4OXt3KL._SL200_.jpg)](https://www.amazon.com/dp/B01MXTGDIC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MXTGDIC/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01MXTGDIC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

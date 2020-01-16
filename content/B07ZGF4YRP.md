@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proyector  YABER 6500 Lúmenes Proyector '
-date: 2020-01-03 15:35:41
+date: 2020-01-16 15:17:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rMF4QRgBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rMF4QRgBL._SL200_.jpg' ]
 comments: true

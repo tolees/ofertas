@@ -14,10 +14,10 @@ comparePrice: 111.44 EUR
 inStock: true
 ---
 
-Tienes [Seagate STEA2000400 - Disco duro de 2 TB  color negro](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20) a precio de oferta de 72.99 EUR (original: 111.44 EUR) en el siguiente enlace!
+Está [Seagate STEA2000400 - Disco duro de 2 TB  color negro](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20) por 72.99 EUR (original: 111.44 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg)](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

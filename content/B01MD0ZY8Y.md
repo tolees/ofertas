@@ -14,10 +14,10 @@ comparePrice: 31.66 EUR
 inStock: true
 ---
 
-Tienes [Trespass Neely II Jkt TP50 Chaqueta  niños  Azul  fsa   7/8](https://www.amazon.com/dp/B01MD0ZY8Y/?tag=redken08-20) a precio de oferta de 13.13 EUR (original: 31.66 EUR) en el siguiente enlace!
+Está [Trespass Neely II Jkt TP50 Chaqueta  niños  Azul  fsa   7/8](https://www.amazon.com/dp/B01MD0ZY8Y/?tag=redken08-20) por 13.13 EUR (original: 31.66 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xdiSlmCJL._SL200_.jpg)](https://www.amazon.com/dp/B01MD0ZY8Y/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01MD0ZY8Y/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MD0ZY8Y/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
