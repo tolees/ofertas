@@ -14,10 +14,10 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Lego 60206 City Polizei Flugzeugpatrouille  bunt](https://www.amazon.com/dp/B07FNW8PH9/?tag=redken08-20) por 6.74 EUR (original: 9.99 EUR) en el siguiente enlace!
+Tienes [Lego 60206 City Polizei Flugzeugpatrouille  bunt](https://www.amazon.com/dp/B07FNW8PH9/?tag=redken08-20) a precio de oferta de 6.74 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51SPEafqYtL._SL200_.jpg)](https://www.amazon.com/dp/B07FNW8PH9/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FNW8PH9/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FNW8PH9/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XLS Medical Mantenimiento despues de per'
-date: 2020-01-15 11:38:04
+date: 2020-01-16 12:09:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg' ]
 comments: true

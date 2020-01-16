@@ -14,10 +14,10 @@ comparePrice: 1.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Haunted House - Mini murciélago  modelos surtidos  Rubie s Spain S7328 ](https://www.amazon.com/dp/B01LXGNBFP/?tag=redken08-20) a 1.49 EUR (original: 1.99 EUR) en el siguiente enlace!
+Tienes [Haunted House - Mini murciélago  modelos surtidos  Rubie s Spain S7328 ](https://www.amazon.com/dp/B01LXGNBFP/?tag=redken08-20) a precio de oferta de 1.49 EUR (original: 1.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3120ran1QyL._SL200_.jpg)](https://www.amazon.com/dp/B01LXGNBFP/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01LXGNBFP/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01LXGNBFP/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

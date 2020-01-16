@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer EM80 - Electroestimulador Digital'
-date: 2020-01-12 20:27:50
+date: 2020-01-16 13:29:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iLjZ4eLcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iLjZ4eLcL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 169 EUR
 inStock: true
 ---
 
-Está [ZTE Blade V8 Lite - Smartphone Libre de 5"  4G  Octa-Core 1.5GHz  2 GB RAM  Almacenamiento Interno de 16 GB  Bluetooth  WiFi  Android  Color Azul Oscuro](https://www.amazon.com/dp/B06XJGW13Y/?tag=redken08-20) por 121.6 EUR (original: 169 EUR) en el siguiente enlace!
+Tienes [ZTE Blade V8 Lite - Smartphone Libre de 5"  4G  Octa-Core 1.5GHz  2 GB RAM  Almacenamiento Interno de 16 GB  Bluetooth  WiFi  Android  Color Azul Oscuro](https://www.amazon.com/dp/B06XJGW13Y/?tag=redken08-20) a precio de oferta de 121.6 EUR (original: 169 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cK3cHxCwL._SL200_.jpg)](https://www.amazon.com/dp/B06XJGW13Y/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06XJGW13Y/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B06XJGW13Y/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

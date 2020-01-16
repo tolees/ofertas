@@ -14,10 +14,10 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Tienes [Amazon Essentials - Leggins largos de deporte para niña  Confeti  US S  EU 116 CM ](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20) a precio de oferta de 6.75 EUR (original: 9 EUR) en el siguiente enlace!
+Está [Amazon Essentials - Leggins largos de deporte para niña  Confeti  US S  EU 116 CM ](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20) por 6.75 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QZZ5aL2qL._SL200_.jpg)](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07JY2GXY5/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

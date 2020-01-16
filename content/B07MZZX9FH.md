@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Honor View 20 - Smartphone  Pantalla de '
-date: 2020-01-13 13:20:49
+date: 2020-01-16 13:04:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KNU80B6AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KNU80B6AL._SL200_.jpg' ]
 comments: true

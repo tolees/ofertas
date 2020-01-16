@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XuanPad Mini Proyector Multimedia Vídeo '
-date: 2020-01-14 09:36:18
+date: 2020-01-16 13:26:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418knE5ozaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418knE5ozaL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 36.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brother LC22EBK - Cartucho de tinta negro de larga duración  duración estimada: hasta 2.400 páginas según ISO/IEC 24711 ](https://www.amazon.com/dp/B00T2FN8QC/?tag=redken08-20) a 22.82 EUR (original: 36.99 EUR) en el siguiente enlace!
+Está [Brother LC22EBK - Cartucho de tinta negro de larga duración  duración estimada: hasta 2.400 páginas según ISO/IEC 24711 ](https://www.amazon.com/dp/B00T2FN8QC/?tag=redken08-20) por 22.82 EUR (original: 36.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41q4vdRvKlL._SL200_.jpg)](https://www.amazon.com/dp/B00T2FN8QC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00T2FN8QC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00T2FN8QC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

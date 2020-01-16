@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TUXWANG Kit de Costura con 90 Piezas Acc'
-date: 2020-01-12 11:46:25
+date: 2020-01-16 11:54:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tT4cP5%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tT4cP5%2BSL._SL200_.jpg' ]
 comments: true
