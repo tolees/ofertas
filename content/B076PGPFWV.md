@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cooler Master MasterWatt 650 EU - Fuente'
-date: 2020-01-14 21:26:57
+date: 2020-01-16 08:29:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419mB6XDTiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419mB6XDTiL._SL200_.jpg' ]
 comments: true

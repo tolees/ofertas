@@ -14,10 +14,10 @@ comparePrice: 149 EUR
 inStock: true
 ---
 
-Está [STANLEY FATMAX SFMEH210K-QS - Martillo combinado SDS Plus 800W  2.4J  incluye maletín](https://www.amazon.com/dp/B081SGJC3G/?tag=redken08-20) por 104.3 EUR (original: 149 EUR) en el siguiente enlace!
+Tienes [STANLEY FATMAX SFMEH210K-QS - Martillo combinado SDS Plus 800W  2.4J  incluye maletín](https://www.amazon.com/dp/B081SGJC3G/?tag=redken08-20) a precio de oferta de 104.3 EUR (original: 149 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415hvM83WCL._SL200_.jpg)](https://www.amazon.com/dp/B081SGJC3G/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B081SGJC3G/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B081SGJC3G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

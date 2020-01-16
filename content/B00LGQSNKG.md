@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko - POP! Vinilo Colección El padrino - Figura Vito Corleone  4714 ](https://www.amazon.com/dp/B00LGQSNKG/?tag=redken08-20) por 10.26 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko - POP! Vinilo Colección El padrino - Figura Vito Corleone  4714 ](https://www.amazon.com/dp/B00LGQSNKG/?tag=redken08-20) a 10.26 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Mkz-BpT4L._SL200_.jpg)](https://www.amazon.com/dp/B00LGQSNKG/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00LGQSNKG/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00LGQSNKG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

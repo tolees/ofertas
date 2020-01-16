@@ -14,10 +14,10 @@ comparePrice: 129 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Brother DCP-L2510D A4 Mono Laser Printer  PC Connected  Print  Copy  Scan and 2 Sided Printing](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20) a 69.99 GBP (original: 129 GBP) en el siguiente enlace!
+Está [Brother DCP-L2510D A4 Mono Laser Printer  PC Connected  Print  Copy  Scan and 2 Sided Printing](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20) por 69.99 GBP (original: 129 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg)](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B078GNYR4G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
