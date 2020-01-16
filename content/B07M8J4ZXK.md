@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips L OR Barista LM8012/60 - Cafeter'
-date: 2020-01-13 14:45:57
+date: 2020-01-16 09:35:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HrU7YFjBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HrU7YFjBL._SL200_.jpg' ]
 comments: true

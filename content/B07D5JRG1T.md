@@ -14,10 +14,10 @@ comparePrice: 275 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Michael Kors - Junie  Bolsos totes Mujer  Gris  Truffle   18x10x28 cm  W x H x L ](https://www.amazon.com/dp/B07D5JRG1T/?tag=redken08-20) a 173.25 EUR (original: 275 EUR) en el siguiente enlace!
+Está [Michael Kors - Junie  Bolsos totes Mujer  Gris  Truffle   18x10x28 cm  W x H x L ](https://www.amazon.com/dp/B07D5JRG1T/?tag=redken08-20) por 173.25 EUR (original: 275 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41i0II5ms2L._SL200_.jpg)](https://www.amazon.com/dp/B07D5JRG1T/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07D5JRG1T/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07D5JRG1T/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

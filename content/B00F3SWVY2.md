@@ -14,10 +14,10 @@ comparePrice: 609.07 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SLR Magic Cine II - Objetivo para Sony E-Mount  Apertura f/1.4-22  diámetro: 35mm   Negro](https://www.amazon.com/dp/B00F3SWVY2/?tag=redken08-20) a 359.4 EUR (original: 609.07 EUR) en el siguiente enlace!
+Está [SLR Magic Cine II - Objetivo para Sony E-Mount  Apertura f/1.4-22  diámetro: 35mm   Negro](https://www.amazon.com/dp/B00F3SWVY2/?tag=redken08-20) por 359.4 EUR (original: 609.07 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BntYREvIL._SL200_.jpg)](https://www.amazon.com/dp/B00F3SWVY2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00F3SWVY2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00F3SWVY2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

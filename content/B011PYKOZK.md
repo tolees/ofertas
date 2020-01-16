@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EXZACT Smart - Escala Analizadora Inteli'
-date: 2020-01-14 23:19:22
+date: 2020-01-16 10:10:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311YMp-nX-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311YMp-nX-L._SL200_.jpg' ]
 comments: true

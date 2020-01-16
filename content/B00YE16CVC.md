@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Disney Infinity 3.0 - Star Wars: Figura Yoda](https://www.amazon.com/dp/B00YE16CVC/?tag=redken08-20) por 11.12 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Disney Infinity 3.0 - Star Wars: Figura Yoda](https://www.amazon.com/dp/B00YE16CVC/?tag=redken08-20) a 11.12 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416DMHj0yKL._SL200_.jpg)](https://www.amazon.com/dp/B00YE16CVC/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00YE16CVC/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00YE16CVC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

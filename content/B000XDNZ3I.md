@@ -14,10 +14,10 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Está [Nokia 860mAh Replacement/Spare Rechargeable Lithium-Ion Battery](https://www.amazon.com/dp/B000XDNZ3I/?tag=redken08-20) por 1.95 GBP (original: 9.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Nokia 860mAh Replacement/Spare Rechargeable Lithium-Ion Battery](https://www.amazon.com/dp/B000XDNZ3I/?tag=redken08-20) a 1.95 GBP (original: 9.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31PTOn2uOpL._SL200_.jpg)](https://www.amazon.com/dp/B000XDNZ3I/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B000XDNZ3I/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B000XDNZ3I/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

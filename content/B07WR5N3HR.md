@@ -14,10 +14,10 @@ comparePrice: 111.98 GBP
 inStock: true
 ---
 
-Está [TXXCI LED Light Kit Compatible with Lego 21318 Tree House  Not Include Model ](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20) por 55.99 GBP (original: 111.98 GBP) en el siguiente enlace!
+Tienes [TXXCI LED Light Kit Compatible with Lego 21318 Tree House  Not Include Model ](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20) a precio de oferta de 55.99 GBP (original: 111.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51FjMwNpu7L._SL200_.jpg)](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

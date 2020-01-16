@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WMF Permadur Element Set de 3 sartenes d'
-date: 2020-01-15 08:03:27
+date: 2020-01-16 09:53:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EwiYTB2IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EwiYTB2IL._SL200_.jpg' ]
 comments: true

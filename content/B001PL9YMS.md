@@ -14,10 +14,10 @@ comparePrice: 51.76 EUR
 inStock: true
 ---
 
-Tienes [Candado rigido Abus Facilo 32 230x109x12 mm negro](https://www.amazon.com/dp/B001PL9YMS/?tag=redken08-20) a precio de oferta de 27.95 EUR (original: 51.76 EUR) en el siguiente enlace!
+Está [Candado rigido Abus Facilo 32 230x109x12 mm negro](https://www.amazon.com/dp/B001PL9YMS/?tag=redken08-20) por 27.95 EUR (original: 51.76 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31W7xC0EkJL._SL200_.jpg)](https://www.amazon.com/dp/B001PL9YMS/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B001PL9YMS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B001PL9YMS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

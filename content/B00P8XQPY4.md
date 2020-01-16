@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memoria Flash USB 3.0 SanDisk Ultra de 1'
-date: 2020-01-06 22:12:20
+date: 2020-01-16 10:40:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CEA7ALWpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CEA7ALWpL._SL200_.jpg' ]
 comments: true

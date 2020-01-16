@@ -14,10 +14,10 @@ comparePrice: 25.93 EUR
 inStock: true
 ---
 
-Está [Coco [Blu-ray]](https://www.amazon.com/dp/B077VGGH5L/?tag=redken08-20) por 5.48 EUR (original: 25.93 EUR) en el siguiente enlace!
+Tienes [Coco [Blu-ray]](https://www.amazon.com/dp/B077VGGH5L/?tag=redken08-20) a precio de oferta de 5.48 EUR (original: 25.93 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61I7fUQqE7L._SL200_.jpg)](https://www.amazon.com/dp/B077VGGH5L/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B077VGGH5L/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B077VGGH5L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
