@@ -14,10 +14,10 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [My Arcade Bad Dudes Micro Arcade Machine](https://www.amazon.com/dp/B07BZBD1WT/?tag=redken08-20) a 25.74 EUR (original: 39.9 EUR) en el siguiente enlace!
+Está [My Arcade Bad Dudes Micro Arcade Machine](https://www.amazon.com/dp/B07BZBD1WT/?tag=redken08-20) por 25.74 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TaHV1jI8L._SL200_.jpg)](https://www.amazon.com/dp/B07BZBD1WT/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07BZBD1WT/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07BZBD1WT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

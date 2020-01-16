@@ -14,10 +14,10 @@ comparePrice: 49 EUR
 inStock: true
 ---
 
-Tienes [Tommy Jeans Mujer Tommy Classics  Polo Manga Corta  Rojo  Samba 602  Small](https://www.amazon.com/dp/B07BXZKXSB/?tag=redken08-20) a precio de oferta de 28.3 EUR (original: 49 EUR) en el siguiente enlace!
+Está [Tommy Jeans Mujer Tommy Classics  Polo Manga Corta  Rojo  Samba 602  Small](https://www.amazon.com/dp/B07BXZKXSB/?tag=redken08-20) por 28.3 EUR (original: 49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41erZOplA0L._SL200_.jpg)](https://www.amazon.com/dp/B07BXZKXSB/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07BXZKXSB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07BXZKXSB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
