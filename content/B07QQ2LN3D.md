@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko 40888 POP. Disney: Frozen 2 - Youn'
-date: 2020-01-13 06:03:49
+date: 2020-01-15 21:36:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rXx5eE%2BzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rXx5eE%2BzL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07QQ2LN3D
 description:
 actualPrice: 5 GBP
-comparePrice: 9.14 GBP
+comparePrice: 9.18 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 40888 POP. Disney: Frozen 2 - Young Elsa Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QQ2LN3D/?tag=redken08-20) a 5 GBP (original: 9.14 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 40888 POP. Disney: Frozen 2 - Young Elsa Collectible Figure  Multicolour](https://www.amazon.com/dp/B07QQ2LN3D/?tag=redken08-20) a 5 GBP (original: 9.18 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rXx5eE%2BzL._SL200_.jpg)](https://www.amazon.com/dp/B07QQ2LN3D/?tag=redken08-20)
 

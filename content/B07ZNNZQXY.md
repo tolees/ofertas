@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Leg'
-date: 2020-01-13 22:41:17
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Te'
+date: 2020-01-15 22:12:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JWM%2BelOCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JWM%2BelOCL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Kit de Iluminación Led para Lego Technic Bugatti Chiron Compatible con Ladrillos de Construcción Lego Modelo 42083  Juego de Legos no Incluido](https://www.amazon.com/dp/B07ZNNZQXY/?tag=redken08-20) por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Lego Technic Bugatti Chiron Kompatibel Mit Lego 42083 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07ZNNZQXY/?tag=redken08-20) por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JWM%2BelOCL._SL200_.jpg)](https://www.amazon.com/dp/B07ZNNZQXY/?tag=redken08-20)
 

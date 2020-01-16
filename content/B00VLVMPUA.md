@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 6687 Super 4 Lost Island - Mul'
-date: 2020-01-15 05:37:25
+date: 2020-01-16 05:49:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/613E7PMiqzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/613E7PMiqzL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00VLVMPUA
 description:
-actualPrice: 9.95 GBP
+actualPrice: 9.96 GBP
 comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Tienes [Playmobil 6687 Super 4 Lost Island - Multi-Colour](https://www.amazon.com/dp/B00VLVMPUA/?tag=redken08-20) a precio de oferta de 9.95 GBP (original: 14.99 GBP) en el siguiente enlace!
+Tienes [Playmobil 6687 Super 4 Lost Island - Multi-Colour](https://www.amazon.com/dp/B00VLVMPUA/?tag=redken08-20) a precio de oferta de 9.96 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/613E7PMiqzL._SL200_.jpg)](https://www.amazon.com/dp/B00VLVMPUA/?tag=redken08-20)
 

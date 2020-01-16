@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop!- Colección Vinilo Game of Thr'
-date: 2020-01-13 22:35:08
+date: 2020-01-15 22:34:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WF-GAtuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WF-GAtuYL._SL200_.jpg' ]
 comments: true

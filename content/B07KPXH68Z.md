@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasyworld SJ60 Impermeable 2.0" LCD 4'
-date: 2020-01-10 22:55:53
+date: 2020-01-15 23:03:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190mapcI5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190mapcI5L._SL200_.jpg' ]
 comments: true

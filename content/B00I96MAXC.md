@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moulinex Multimoulinette Compact DJ30011'
-date: 2020-01-14 11:16:27
+date: 2020-01-15 18:47:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pR1L-B0%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pR1L-B0%2BL._SL200_.jpg' ]
 comments: true

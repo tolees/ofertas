@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalámbricos Bluetooth 5.0  '
-date: 2020-01-15 05:50:16
+date: 2020-01-16 06:18:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rc3M8CnoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rc3M8CnoL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AmazonBasics - Protector de colchón de m'
-date: 2020-01-11 15:25:35
+date: 2020-01-15 20:40:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u72atH8dL._SL200_.jpg' ]
 comments: true

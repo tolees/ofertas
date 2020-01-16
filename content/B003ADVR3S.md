@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KidKraft- Casa de muñecas de madera con '
-date: 2020-01-14 06:48:02
+date: 2020-01-16 06:30:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KlQ566siL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KlQ566siL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B003ADVR3S
 description:
-actualPrice: 87.77 EUR
+actualPrice: 87.69 EUR
 comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Está [KidKraft- Casa de muñecas de madera con muebles y accesorios incluidos  3 pisos  para muñecas de 30 cm   Color Rosa  65054  ](https://www.amazon.com/dp/B003ADVR3S/?tag=redken08-20) por 87.77 EUR (original: 119.99 EUR) en el siguiente enlace!
+Está [KidKraft- Casa de muñecas de madera con muebles y accesorios incluidos  3 pisos  para muñecas de 30 cm   Color Rosa  65054  ](https://www.amazon.com/dp/B003ADVR3S/?tag=redken08-20) por 87.69 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KlQ566siL._SL200_.jpg)](https://www.amazon.com/dp/B003ADVR3S/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Res'
-date: 2020-01-14 06:48:02
+date: 2020-01-16 06:15:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gBCLIU-gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gBCLIU-gL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RENPHO Bluetooth Body Fat Scale  Digital'
-date: 2020-01-14 05:58:12
+date: 2020-01-16 05:33:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41okBS4ZfcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41okBS4ZfcL._SL200_.jpg' ]
 comments: true

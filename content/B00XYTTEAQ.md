@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech K400 Plus - Teclado inalámbrico'
-date: 2020-01-13 14:45:39
+date: 2020-01-16 06:41:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MNxoa%2BW%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MNxoa%2BW%2BL._SL200_.jpg' ]
 comments: true

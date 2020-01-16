@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Voicetracer - Grabadora de audio'
-date: 2020-01-13 21:26:21
+date: 2020-01-15 18:10:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41saCNUQw7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41saCNUQw7L._SL200_.jpg' ]
 comments: true

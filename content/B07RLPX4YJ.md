@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'J.Rosée Pendientes Mujer Plata de Ley 92'
-date: 2020-01-13 17:35:29
+date: 2020-01-15 18:32:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nzd-rk1iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nzd-rk1iL._SL200_.jpg' ]
 comments: true

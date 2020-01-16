@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 9243 - Berk'
-date: 2020-01-14 06:43:29
+date: 2020-01-15 22:12:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61RUkXk6hZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61RUkXk6hZL._SL200_.jpg' ]
 comments: true

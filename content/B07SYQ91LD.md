@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mpow Bluetooth Headset  Bluetooth Earpie'
-date: 2020-01-09 06:17:32
+date: 2020-01-15 21:34:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OtiGkwu4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OtiGkwu4L._SL200_.jpg' ]
 comments: true

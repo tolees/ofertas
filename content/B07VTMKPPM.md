@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bqeel Mini PC 【4GB+64GB】 Procesador Inte'
-date: 2020-01-14 12:58:42
+date: 2020-01-15 22:29:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z3tmRJFCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z3tmRJFCL._SL200_.jpg' ]
 comments: true

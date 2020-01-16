@@ -14,10 +14,10 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Super Smash Bros. Ultimate  Nintendo Switch ](https://www.amazon.com/dp/B07BDYT58L/?tag=redken08-20) a 49.9 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [Super Smash Bros. Ultimate  Nintendo Switch ](https://www.amazon.com/dp/B07BDYT58L/?tag=redken08-20) a precio de oferta de 49.9 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07BDYT58L/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07BDYT58L/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07BDYT58L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

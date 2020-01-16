@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 70012 Western Take Along Weste'
-date: 2020-01-13 22:13:49
+title: 'Playmobil 70012 Western Mitnehm-Westernc'
+date: 2020-01-14 06:43:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z4S2OQEnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z4S2OQEnL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JXHQWSN
 description:
-actualPrice: 26.66 GBP
-comparePrice: 39.99 GBP
+actualPrice: 27.99 EUR
+comparePrice: 47.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 70012 Western Take Along Western City](https://www.amazon.com/dp/B07JXHQWSN/?tag=redken08-20) por 26.66 GBP (original: 39.99 GBP) en el siguiente enlace!
+Está [Playmobil 70012 Western Mitnehm-Westerncity  bunt](https://www.amazon.com/dp/B07JXHQWSN/?tag=redken08-20) por 27.99 EUR (original: 47.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51z4S2OQEnL._SL200_.jpg)](https://www.amazon.com/dp/B07JXHQWSN/?tag=redken08-20)
 

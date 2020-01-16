@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '72 Lapices de Colores Profesionales lapi'
-date: 2020-01-14 21:54:13
+date: 2020-01-15 22:29:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b%2BQgPZ95L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b%2BQgPZ95L._SL200_.jpg' ]
 comments: true

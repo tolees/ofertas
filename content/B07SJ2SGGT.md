@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Beleuchtungsset für Lego Id'
-date: 2020-01-13 22:29:51
+date: 2020-01-15 22:21:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h8zfmHSFL._SL200_.jpg' ]
 comments: true

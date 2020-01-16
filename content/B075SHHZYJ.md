@@ -14,10 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [edc by Esprit 107cc1k065 Camisa Manga Larga  Gris  Anthracite 5 014   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.com/dp/B075SHHZYJ/?tag=redken08-20) a precio de oferta de 12.42 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [edc by Esprit 107cc1k065 Camisa Manga Larga  Gris  Anthracite 5 014   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.com/dp/B075SHHZYJ/?tag=redken08-20) por 12.42 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51V7tQsXBCL._SL200_.jpg)](https://www.amazon.com/dp/B075SHHZYJ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B075SHHZYJ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B075SHHZYJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beelink BT3Pro II Mini PC Computer Windo'
-date: 2020-01-14 12:57:20
+date: 2020-01-15 22:30:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wBW29q-uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wBW29q-uL._SL200_.jpg' ]
 comments: true

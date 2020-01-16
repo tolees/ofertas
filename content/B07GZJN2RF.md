@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CONQUECO - Chaleco - Moda - Sin Mangas -'
-date: 2020-01-05 23:22:55
+date: 2020-01-15 17:45:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HROkz0kAL._SL200_.jpg' ]
 comments: true

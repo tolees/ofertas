@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Irrigador Bucal Portátil con 6 Boquillas'
-date: 2020-01-07 08:07:47
+date: 2020-01-15 20:24:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R0OUqhG9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R0OUqhG9L._SL200_.jpg' ]
 comments: true

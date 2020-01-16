@@ -14,10 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO: Marvel Super Heroes](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20) a precio de oferta de 24.12 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [LEGO: Marvel Super Heroes](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20) por 24.12 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51XNS2tMdcL._SL200_.jpg)](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00FKQ4ODI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
