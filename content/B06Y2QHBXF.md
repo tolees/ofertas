@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'New Balance 574 Core Zapatillas Hombre  '
-date: 2019/12/05 07:39:45 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z3YsljfyL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z3YsljfyL._SL200_.jpg' ]
+date: 2020-01-16 18:56:48
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B06Y2QHBXF
 description:
-actualPrice: 50.4 EUR
+actualPrice: 63.19 EUR
 comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance 574 Core Zapatillas Hombre  Azul  Blue Navy   40.5 EU  7 UK ](https://www.amazon.com/dp/B06Y2QHBXF/?tag=redken08-20) por 50.4 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance 574 Core Zapatillas Hombre  Azul  Blue Navy   40.5 EU  7 UK ](https://www.amazon.com/dp/B06Y2QHBXF/?tag=redken08-20) por 63.19 EUR (original: 90 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41Z3YsljfyL._SL200_.jpg)](https://www.amazon.com/dp/B06Y2QHBXF/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg)](https://www.amazon.com/dp/B06Y2QHBXF/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B06Y2QHBXF/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guirnalda Cadena de Luces de LED Alambre'
-date: 2020-01-04 10:22:36
+date: 2020-01-16 20:06:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gY57ZjIdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gY57ZjIdL._SL200_.jpg' ]
 comments: true

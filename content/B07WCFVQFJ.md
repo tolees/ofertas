@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guirnalda luces pilas【2 * 10M】  OxaOxe 2'
-date: 2019/12/29 11:01:33 +0000
+date: 2020-01-16 21:31:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'find. Chaqueta Estilo Guerrera para Muje'
-date: 2020-01-08 08:17:31
+date: 2020-01-17 01:01:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410rX1IsvkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410rX1IsvkL._SL200_.jpg' ]
 comments: true

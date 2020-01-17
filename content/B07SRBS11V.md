@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B PRO 2 2000 - Cepillo Eléctrico Re'
-date: 2019/12/30 07:02:01 +0000
+date: 2020-01-16 15:32:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SRBS11V
 description:
-actualPrice: 39.99 EUR
+actualPrice: 34.99 EUR
 comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Oral-B PRO 2 2000 - Cepillo Eléctrico Recargable con Tecnología de Braun  1 Cabezal de Recambio](https://www.amazon.com/dp/B07SRBS11V/?tag=redken08-20) a 39.99 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Oral-B PRO 2 2000 - Cepillo Eléctrico Recargable con Tecnología de Braun  1 Cabezal de Recambio](https://www.amazon.com/dp/B07SRBS11V/?tag=redken08-20) a 34.99 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg)](https://www.amazon.com/dp/B07SRBS11V/?tag=redken08-20)
 

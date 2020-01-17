@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lego 30522 The Batman Movie Exclusive Po'
-date: 2020-01-13 14:08:00
+date: 2020-01-16 18:16:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lKctdnGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lKctdnGtL._SL200_.jpg' ]
 comments: true

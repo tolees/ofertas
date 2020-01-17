@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Magic 9470 Suche nach dem Lieb'
-date: 2019/12/26 09:40:28 +0000
+date: 2020-01-16 18:34:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nucH38GsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nucH38GsL._SL200_.jpg' ]
 comments: true

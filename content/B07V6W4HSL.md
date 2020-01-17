@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Guirnalda Luces Exterior  Blanco Cálido '
-date: 2020-01-08 18:25:56
+date: 2020-01-16 18:44:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jTF2ar8CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jTF2ar8CL._SL200_.jpg' ]
 comments: true

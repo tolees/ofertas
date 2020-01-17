@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VTIN Mini Auriculares Bluetooth 4.1  Man'
-date: 2020-01-14 11:08:09
+date: 2020-01-16 17:06:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dENNA3CfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dENNA3CfL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tronsmart T6 Mini Altavoces Bluetooth 15'
-date: 2020-01-15 22:29:15
+date: 2020-01-17 03:08:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rUr3EdpiL._SL200_.jpg' ]
 comments: true

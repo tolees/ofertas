@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZUNTO Toallero Barra Para Baño Acero Ino'
-date: 2020-01-06 16:46:44
+date: 2020-01-16 16:05:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t2sfhwTQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t2sfhwTQL._SL200_.jpg' ]
 comments: true

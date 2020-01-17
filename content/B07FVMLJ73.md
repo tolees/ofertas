@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GOXAWEE Mini Amoladora Eléctrica Multihe'
-date: 2020-01-09 08:32:12
+date: 2020-01-16 20:03:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-KUQyQMyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-KUQyQMyL._SL200_.jpg' ]
 comments: true

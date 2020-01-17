@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil City Action 9464 Fire Engine w'
-date: 2020-01-15 21:51:57
+title: 'PLAYMOBIL City Action 9464 Feuerwehr-Rüs'
+date: 2020-01-16 06:10:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b1JeHqjBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b1JeHqjBL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079MNQTNZ
 description:
-actualPrice: 39.99 GBP
-comparePrice: 53.89 GBP
+actualPrice: 42.99 EUR
+comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Está [Playmobil City Action 9464 Fire Engine with Light and Sound for Children Ages 5+](https://www.amazon.com/dp/B079MNQTNZ/?tag=redken08-20) por 39.99 GBP (original: 53.89 GBP) en el siguiente enlace!
+Está [PLAYMOBIL City Action 9464 Feuerwehr-Rüstfahrzeug mit Licht und Sound  Ab 5 Jahren](https://www.amazon.com/dp/B079MNQTNZ/?tag=redken08-20) por 42.99 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51b1JeHqjBL._SL200_.jpg)](https://www.amazon.com/dp/B079MNQTNZ/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mpow Bluetooth 4.0 USB Dongle Adapter  B'
-date: 2020-01-15 21:31:29
+date: 2020-01-17 02:15:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kHSO0k-GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kHSO0k-GL._SL200_.jpg' ]
 comments: true

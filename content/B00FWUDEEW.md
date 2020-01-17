@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DSC-RX10 - Cámara compacta de 20.2 '
-date: 2019/11/24 15:52:34 +0000
+date: 2020-01-16 18:31:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xfTU%2Bo5WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xfTU%2Bo5WL._SL200_.jpg' ]
 comments: true

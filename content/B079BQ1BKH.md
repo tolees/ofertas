@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XP-Pen G430S Tableta de Dibujo Gráfico 4'
-date: 2019/11/21 12:03:03 +0000
+date: 2020-01-17 03:30:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I6V6yjaiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I6V6yjaiL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TONGJI Vitrina de Acrílico con Luces Com'
-date: 2020-01-14 13:01:07
+date: 2020-01-16 18:40:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JEjhN3hiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JEjhN3hiL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine Bulldozer Spielzeu'
-date: 2020-01-15 13:58:27
+date: 2020-01-16 18:40:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OlQPsWooL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OlQPsWooL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Double Pack: Far Cry 4 + Far Cry 5'
-date: 2020-01-08 17:12:48
+date: 2020-01-16 17:36:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61UD-VTK2AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61UD-VTK2AL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SMJ2SY1
 description:
-actualPrice: 28.49 EUR
+actualPrice: 23.99 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Double Pack: Far Cry 4 + Far Cry 5](https://www.amazon.com/dp/B07SMJ2SY1/?tag=redken08-20) a 28.49 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Double Pack: Far Cry 4 + Far Cry 5](https://www.amazon.com/dp/B07SMJ2SY1/?tag=redken08-20) a 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61UD-VTK2AL._SL200_.jpg)](https://www.amazon.com/dp/B07SMJ2SY1/?tag=redken08-20)
 

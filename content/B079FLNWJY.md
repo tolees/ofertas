@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HDMI Switch  Techole Conmutador HDMI Swi'
-date: 2020-01-07 08:54:35
+date: 2020-01-16 19:36:30
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true

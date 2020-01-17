@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Techn'
-date: 2020-01-15 13:47:26
+date: 2020-01-16 18:27:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fh3GhoDPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fh3GhoDPL._SL200_.jpg' ]
 comments: true

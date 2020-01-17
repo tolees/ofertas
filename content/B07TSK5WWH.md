@@ -14,10 +14,10 @@ comparePrice: 8 EUR
 inStock: true
 ---
 
-Tienes [Max Factor Perfect Gel Shine;  Laca de Uñas  Tono 303 - 12 ml](https://www.amazon.com/dp/B07TSK5WWH/?tag=redken08-20) a precio de oferta de 3.99 EUR (original: 8 EUR) en el siguiente enlace!
+Está [Max Factor Perfect Gel Shine;  Laca de Uñas  Tono 303 - 12 ml](https://www.amazon.com/dp/B07TSK5WWH/?tag=redken08-20) por 3.99 EUR (original: 8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RQt5h0obL._SL200_.jpg)](https://www.amazon.com/dp/B07TSK5WWH/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07TSK5WWH/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07TSK5WWH/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

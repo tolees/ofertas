@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75964 Harry Potter Advent Calendar '
-date: 2020-01-15 13:36:22
+date: 2020-01-16 18:15:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iMtENCn3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iMtENCn3L._SL200_.jpg' ]
 comments: true

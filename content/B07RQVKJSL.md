@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Satellite Polybag Set 30365  B'
-date: 2020-01-13 14:07:13
+date: 2020-01-16 18:22:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514EssHpbRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514EssHpbRL._SL200_.jpg' ]
 comments: true

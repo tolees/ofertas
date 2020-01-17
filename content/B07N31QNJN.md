@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PEKITAS Cojín Cuña Inclinada Antireflujo'
-date: 2019/09/29 12:26:07 +0000
+date: 2020-01-16 23:02:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PhLXhHPdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PhLXhHPdL._SL200_.jpg' ]
 comments: true

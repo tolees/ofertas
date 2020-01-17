@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolsas de Vacio 3 Rolls 20x500cm con Caj'
-date: 2020-01-15 10:33:08
+date: 2020-01-17 07:36:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51545l8CsPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51545l8CsPL._SL200_.jpg' ]
 comments: true

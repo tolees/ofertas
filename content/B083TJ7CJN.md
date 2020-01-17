@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TONGJI Vitrina de Acrílico Compatible co'
-date: 2020-01-14 13:01:10
+date: 2020-01-16 18:40:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IRYFQ7HXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IRYFQ7HXL._SL200_.jpg' ]
 comments: true
