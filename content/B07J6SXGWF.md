@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pop! Rugrats - Figura de Vinilo Angelica'
-date: 2020-01-16 06:16:13
+date: 2020-01-17 11:21:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg' ]
 comments: true

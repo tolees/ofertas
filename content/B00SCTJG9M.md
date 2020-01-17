@@ -14,10 +14,10 @@ comparePrice: 149.95 EUR
 inStock: true
 ---
 
-Tienes [Einhell GC-RT 1440 M - Motoazada eléctrica 1400W  220-240V  6 cuchillas  profundidad de trabajo: 20 cm  ancho de trabajo: 40 cm   ref. 3431040 ](https://www.amazon.com/dp/B00SCTJG9M/?tag=redken08-20) a precio de oferta de 99.9 EUR (original: 149.95 EUR) en el siguiente enlace!
+Está [Einhell GC-RT 1440 M - Motoazada eléctrica 1400W  220-240V  6 cuchillas  profundidad de trabajo: 20 cm  ancho de trabajo: 40 cm   ref. 3431040 ](https://www.amazon.com/dp/B00SCTJG9M/?tag=redken08-20) por 99.9 EUR (original: 149.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BN-2Ku3VL._SL200_.jpg)](https://www.amazon.com/dp/B00SCTJG9M/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00SCTJG9M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00SCTJG9M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

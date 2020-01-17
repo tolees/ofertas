@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Minifigur 4-Lom mit 2 GAL'
-date: 2020-01-16 06:05:14
+date: 2020-01-17 11:09:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 70172 Ghostbusters Toy  Multic'
-date: 2020-01-05 22:33:26
+title: 'Playmobil Ghostbusters 70172 Collection '
+date: 2020-01-17 10:41:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JMCBHXH
 description:
-actualPrice: 25.44 GBP
-comparePrice: 38.22 GBP
+actualPrice: 25.45 GBP
+comparePrice: 38.4 GBP
 inStock: true
 ---
 
-Está [Playmobil 70172 Ghostbusters Toy  Multicolor](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20) por 25.44 GBP (original: 38.22 GBP) en el siguiente enlace!
+Está [Playmobil Ghostbusters 70172 Collection Figure P. Venkman for Children Ages 6+](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20) por 25.45 GBP (original: 38.4 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg)](https://www.amazon.com/dp/B07JMCBHXH/?tag=redken08-20)
 

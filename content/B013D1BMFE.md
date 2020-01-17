@@ -14,10 +14,10 @@ comparePrice: 2399 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nikon AF-S NIKKOR 24-70mm f/2.8E ED VR - Objetivo  SLR  20/16  Automático/Manual  24 - 70 mm  Nikon F  Nikon SLR ](https://www.amazon.com/dp/B013D1BMFE/?tag=redken08-20) a 1699.98 EUR (original: 2399 EUR) en el siguiente enlace!
+Tienes [Nikon AF-S NIKKOR 24-70mm f/2.8E ED VR - Objetivo  SLR  20/16  Automático/Manual  24 - 70 mm  Nikon F  Nikon SLR ](https://www.amazon.com/dp/B013D1BMFE/?tag=redken08-20) a precio de oferta de 1699.98 EUR (original: 2399 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41t3wNjZV8L._SL200_.jpg)](https://www.amazon.com/dp/B013D1BMFE/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B013D1BMFE/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B013D1BMFE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

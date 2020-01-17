@@ -14,10 +14,10 @@ comparePrice: 499 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samyang F1112106101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 12mm  Apertura f/2.8-22 ED AS NCS  Ojo de Pez   Negro](https://www.amazon.com/dp/B00TS9C9XA/?tag=redken08-20) a 349 EUR (original: 499 EUR) en el siguiente enlace!
+Tienes [Samyang F1112106101 - Objetivo fotográfico DSLR para Sony E  Distancia Focal Fija 12mm  Apertura f/2.8-22 ED AS NCS  Ojo de Pez   Negro](https://www.amazon.com/dp/B00TS9C9XA/?tag=redken08-20) a precio de oferta de 349 EUR (original: 499 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RkI3Y2rjL._SL200_.jpg)](https://www.amazon.com/dp/B00TS9C9XA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00TS9C9XA/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00TS9C9XA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Brother DCPL2530DW - Impresora multifunc'
-date: 2019/11/28 19:52:56 +0000
+date: 2020-01-17 11:46:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OOO1UxrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OOO1UxrBL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0787KBMLZ
 description:
-actualPrice: 112.9 EUR
+actualPrice: 106.61 EUR
 comparePrice: 160.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brother DCPL2530DW - Impresora multifunción láser monocromo Wifi con impresión dúplex  30 ppm  USB 2.0  Wifi Direct  procesador de 600 MHz  memoria de 64 MB  gris  39.8 x 27.2 x 41 cm](https://www.amazon.com/dp/B0787KBMLZ/?tag=redken08-20) a 112.9 EUR (original: 160.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Brother DCPL2530DW - Impresora multifunción láser monocromo Wifi con impresión dúplex  30 ppm  USB 2.0  Wifi Direct  procesador de 600 MHz  memoria de 64 MB  gris  39.8 x 27.2 x 41 cm](https://www.amazon.com/dp/B0787KBMLZ/?tag=redken08-20) a 106.61 EUR (original: 160.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OOO1UxrBL._SL200_.jpg)](https://www.amazon.com/dp/B0787KBMLZ/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 624v5  Zapatillas Deportivas'
-date: 2020-01-02 10:29:22
+date: 2020-01-17 12:48:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KR9RH3Q
 description:
-actualPrice: 35.26 EUR
+actualPrice: 30.26 EUR
 comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Blanco  White White   36.5 EU](https://www.amazon.com/dp/B07KR9RH3Q/?tag=redken08-20) por 35.26 EUR (original: 70 EUR) en el siguiente enlace!
+Está [New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Blanco  White White   36.5 EU](https://www.amazon.com/dp/B07KR9RH3Q/?tag=redken08-20) por 30.26 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zlM49sURL._SL200_.jpg)](https://www.amazon.com/dp/B07KR9RH3Q/?tag=redken08-20)
 

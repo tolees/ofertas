@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St'
-date: 2020-01-16 06:05:04
+title: 'BRIKSMAX Led Lighting Kit for LEGO Star '
+date: 2020-01-17 10:34:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TVNZFBN
 description:
-actualPrice: 35.99 EUR
-comparePrice: 60.99 EUR
+actualPrice: 28.99 GBP
+comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Slave I  Kompatibel Mit Lego 75243 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20) a 35.99 EUR (original: 60.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO Star Wars Slave I- Compatible with Lego 75243 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20) a 28.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51WSUE9Ey9L._SL200_.jpg)](https://www.amazon.com/dp/B07TVNZFBN/?tag=redken08-20)
 

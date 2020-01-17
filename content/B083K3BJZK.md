@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Acryl Schaukasten Vitrine  Schaukast'
-date: 2020-01-15 22:21:32
+date: 2020-01-17 11:08:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PKxT1hUnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PKxT1hUnL._SL200_.jpg' ]
 comments: true

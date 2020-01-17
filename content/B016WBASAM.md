@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SportPlus Bluetooth 4.0 Herzfrequenz-Bru'
-date: 2020-01-16 05:57:52
+date: 2020-01-17 11:01:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G8sNYYo1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G8sNYYo1L._SL200_.jpg' ]
 comments: true

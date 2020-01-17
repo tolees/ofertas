@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vileda Turbo EasyWring und Clean Komplet'
-date: 2020-01-05 06:19:00
+date: 2020-01-17 10:51:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg' ]
 comments: true

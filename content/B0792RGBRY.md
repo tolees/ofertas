@@ -14,10 +14,10 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Está [LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s Escape Carriage Toy  Build and Play Toys for Kids](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20) por 14.7 GBP (original: 19.99 GBP) en el siguiente enlace!
+Tienes [LEGO 75951 Harry Potter Fantastic Beasts Grindelwald´s Escape Carriage Toy  Build and Play Toys for Kids](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20) a precio de oferta de 14.7 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51PCFK66jKL._SL200_.jpg)](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B0792RGBRY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

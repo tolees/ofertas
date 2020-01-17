@@ -14,10 +14,10 @@ comparePrice: 239.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jabra Pro 920 - Mono auricular inalámbrico  con micrófono  tecnología DECT  para teléfono fijo](https://www.amazon.com/dp/B0067HDFMU/?tag=redken08-20) a 149.45 EUR (original: 239.99 EUR) en el siguiente enlace!
+Está [Jabra Pro 920 - Mono auricular inalámbrico  con micrófono  tecnología DECT  para teléfono fijo](https://www.amazon.com/dp/B0067HDFMU/?tag=redken08-20) por 149.45 EUR (original: 239.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EXpueEnKL._SL200_.jpg)](https://www.amazon.com/dp/B0067HDFMU/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B0067HDFMU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0067HDFMU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

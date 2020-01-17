@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Altavoz 30W Portátil Bluetooth 4.2 AY  I'
-date: 2020-01-16 06:16:17
+date: 2020-01-17 11:20:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e3kpa8IrL._SL200_.jpg' ]
 comments: true

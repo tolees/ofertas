@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PLAYMOBIL Family Fun 9420 Sonnige Ferien'
-date: 2020-01-16 09:30:28
+date: 2020-01-17 11:13:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/613JYAWdUuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/613JYAWdUuL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0766DJPRK
 description:
-actualPrice: 44 EUR
+actualPrice: 41.89 EUR
 comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla  Ab 4 Jahren](https://www.amazon.com/dp/B0766DJPRK/?tag=redken08-20) a precio de oferta de 44 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [PLAYMOBIL Family Fun 9420 Sonnige Ferienvilla  Ab 4 Jahren](https://www.amazon.com/dp/B0766DJPRK/?tag=redken08-20) a precio de oferta de 41.89 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/613JYAWdUuL._SL200_.jpg)](https://www.amazon.com/dp/B0766DJPRK/?tag=redken08-20)
 

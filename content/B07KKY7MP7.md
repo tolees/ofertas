@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Giochi Preziosi LLU63000 L.O.L Surprise '
-date: 2020-01-16 06:16:39
+date: 2020-01-17 11:27:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CskeZTfEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CskeZTfEL._SL200_.jpg' ]
 comments: true
