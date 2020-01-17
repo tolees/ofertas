@@ -14,10 +14,10 @@ comparePrice: 32.86 EUR
 inStock: true
 ---
 
-Está [Armani Exchange V Neck Horizontal Logo Camiseta   Navy 1510   Medium para Hombre](https://www.amazon.com/dp/B07KMTH56J/?tag=redken08-20) por 23.18 EUR (original: 32.86 EUR) en el siguiente enlace!
+Tienes [Armani Exchange V Neck Horizontal Logo Camiseta   Navy 1510   Medium para Hombre](https://www.amazon.com/dp/B07KMTH56J/?tag=redken08-20) a precio de oferta de 23.18 EUR (original: 32.86 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31FCuCg1OGL._SL200_.jpg)](https://www.amazon.com/dp/B07KMTH56J/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07KMTH56J/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KMTH56J/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

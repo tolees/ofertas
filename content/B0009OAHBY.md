@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davidoff Cool Water Eau de Toilette Vapo'
-date: 2020-01-13 09:33:51
+date: 2020-01-17 13:20:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iDO1Pzh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iDO1Pzh%2BL._SL200_.jpg' ]
 comments: true

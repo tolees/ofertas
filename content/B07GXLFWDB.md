@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nikon D750 - Cámara réflex digital de 24'
-date: 2020-01-16 06:43:11
+date: 2020-01-17 15:35:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg' ]
 comments: true

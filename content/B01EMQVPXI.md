@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hp Officejet Pro 8210 - Impresora  Compa'
-date: 2019/12/22 13:48:49 +0000
+date: 2020-01-17 14:49:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXyGap%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXyGap%2B7L._SL200_.jpg' ]
 comments: true

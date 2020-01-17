@@ -14,10 +14,10 @@ comparePrice: 159 EUR
 inStock: true
 ---
 
-Tienes [Napapijri Aerons Vest 2 Chaqueta  Verde  Green Forest 2 GE3   M para Hombre](https://www.amazon.com/dp/B07MK1QSB8/?tag=redken08-20) a precio de oferta de 79.5 EUR (original: 159 EUR) en el siguiente enlace!
+Está [Napapijri Aerons Vest 2 Chaqueta  Verde  Green Forest 2 GE3   M para Hombre](https://www.amazon.com/dp/B07MK1QSB8/?tag=redken08-20) por 79.5 EUR (original: 159 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fbb1pj-3L._SL200_.jpg)](https://www.amazon.com/dp/B07MK1QSB8/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07MK1QSB8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MK1QSB8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

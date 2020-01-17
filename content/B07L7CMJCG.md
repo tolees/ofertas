@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jjitim Jjoriginal Am 814 Va'
-date: 2020-01-09 14:36:27
+date: 2020-01-17 14:35:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pnJkehA6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pnJkehA6L._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07L7CMJCG
 description:
 actualPrice: 19.99 EUR
-comparePrice: 28.79 EUR
+comparePrice: 32.97 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jjitim Jjoriginal Am 814 Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L32  Talla del Fabricante: 31  para Hombre](https://www.amazon.com/dp/B07L7CMJCG/?tag=redken08-20) a 19.99 EUR (original: 28.79 EUR) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jjitim Jjoriginal Am 814 Vaqueros Slim  Azul  Blue Denim Blue Denim   W31/L32  Talla del Fabricante: 31  para Hombre](https://www.amazon.com/dp/B07L7CMJCG/?tag=redken08-20) a 19.99 EUR (original: 32.97 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pnJkehA6L._SL200_.jpg)](https://www.amazon.com/dp/B07L7CMJCG/?tag=redken08-20)
 

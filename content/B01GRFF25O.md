@@ -14,10 +14,10 @@ comparePrice: 1077 EUR
 inStock: true
 ---
 
-Tienes [WD My Cloud PR2100 16 TB - Network Attached Storage - 2 Bay NAS Pro-Serie - integrierte Videotranskodierung - WDBBCL0160JBK-EESN](https://www.amazon.com/dp/B01GRFF25O/?tag=redken08-20) a precio de oferta de 769.64 EUR (original: 1077 EUR) en el siguiente enlace!
+Está [WD My Cloud PR2100 16 TB - Network Attached Storage - 2 Bay NAS Pro-Serie - integrierte Videotranskodierung - WDBBCL0160JBK-EESN](https://www.amazon.com/dp/B01GRFF25O/?tag=redken08-20) por 769.64 EUR (original: 1077 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41LwFjgG8IL._SL200_.jpg)](https://www.amazon.com/dp/B01GRFF25O/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01GRFF25O/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01GRFF25O/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

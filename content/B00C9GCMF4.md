@@ -14,10 +14,10 @@ comparePrice: 61.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ermenegildo Zegna 57377 - Agua de colonia](https://www.amazon.com/dp/B00C9GCMF4/?tag=redken08-20) a 22.5 EUR (original: 61.5 EUR) en el siguiente enlace!
+Está [Ermenegildo Zegna 57377 - Agua de colonia](https://www.amazon.com/dp/B00C9GCMF4/?tag=redken08-20) por 22.5 EUR (original: 61.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4145DMmHb0L._SL200_.jpg)](https://www.amazon.com/dp/B00C9GCMF4/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00C9GCMF4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00C9GCMF4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

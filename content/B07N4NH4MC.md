@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto G7 Plus - Smartphone Andro'
-date: 2020-01-16 05:11:33
+date: 2020-01-17 13:38:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fJYEYQaqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fJYEYQaqL._SL200_.jpg' ]
 comments: true
