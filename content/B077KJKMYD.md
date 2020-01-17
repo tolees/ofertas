@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Naga Trinity - Ratón para Juegos M'
-date: 2020-01-14 18:48:45
+date: 2020-01-17 10:07:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A-SZUsD6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A-SZUsD6L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KRISP 6252-PNK-08  Vestido Corto Patinad'
-date: 2020-01-14 13:02:23
+date: 2020-01-17 08:48:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415xVzearhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415xVzearhL._SL200_.jpg' ]
 comments: true

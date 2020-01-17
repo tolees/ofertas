@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ELEGIANT Palo Selfie Trípode Bluetooth M'
-date: 2020-01-05 19:47:43
+date: 2020-01-17 09:41:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41At0V4VmYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41At0V4VmYL._SL200_.jpg' ]
 comments: true

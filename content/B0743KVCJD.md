@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips MG7770/15 18 en 1 - Recortadora '
-date: 2020-01-16 07:29:22
+date: 2020-01-17 08:03:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gYR%2BaP8bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gYR%2BaP8bL._SL200_.jpg' ]
 comments: true

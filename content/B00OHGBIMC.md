@@ -14,10 +14,10 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Calcio Camiseta De Manga Corta  Hombre  Multicolor  Red/White   L](https://www.amazon.com/dp/B00OHGBIMC/?tag=redken08-20) a 10.45 EUR (original: 20 EUR) en el siguiente enlace!
+Está [Kappa Calcio Camiseta De Manga Corta  Hombre  Multicolor  Red/White   L](https://www.amazon.com/dp/B00OHGBIMC/?tag=redken08-20) por 10.45 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41G%2BbSMoC2L._SL200_.jpg)](https://www.amazon.com/dp/B00OHGBIMC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00OHGBIMC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00OHGBIMC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

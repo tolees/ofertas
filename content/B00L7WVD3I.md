@@ -14,10 +14,10 @@ comparePrice: 10.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MyProtein Ácidos Grasos Omega Omega 3-150 gr](https://www.amazon.com/dp/B00L7WVD3I/?tag=redken08-20) a 5.49 EUR (original: 10.99 EUR) en el siguiente enlace!
+Está [MyProtein Ácidos Grasos Omega Omega 3-150 gr](https://www.amazon.com/dp/B00L7WVD3I/?tag=redken08-20) por 5.49 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412n-FR2zOL._SL200_.jpg)](https://www.amazon.com/dp/B00L7WVD3I/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00L7WVD3I/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00L7WVD3I/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

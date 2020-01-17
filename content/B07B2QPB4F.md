@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yasolote 22M Guirnalda de Luces Solares '
-date: 2019/12/21 20:34:38 +0000
+date: 2020-01-17 10:02:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Magnet Expert - Imán elevador  50 x 24 x'
-date: 2020-01-15 12:15:53
+date: 2020-01-17 09:26:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2BODLhuQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G%2BODLhuQL._SL200_.jpg' ]
 comments: true

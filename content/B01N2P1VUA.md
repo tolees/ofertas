@@ -14,10 +14,10 @@ comparePrice: 175 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Carrera 132/S HA 2IK Gafas de sol  Dorado  HAVANA GOLD/BRWN SF   57 Unisex-Adulto](https://www.amazon.com/dp/B01N2P1VUA/?tag=redken08-20) a 87.9 EUR (original: 175 EUR) en el siguiente enlace!
+Tienes [Carrera 132/S HA 2IK Gafas de sol  Dorado  HAVANA GOLD/BRWN SF   57 Unisex-Adulto](https://www.amazon.com/dp/B01N2P1VUA/?tag=redken08-20) a precio de oferta de 87.9 EUR (original: 175 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31NHLs1YaDL._SL200_.jpg)](https://www.amazon.com/dp/B01N2P1VUA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01N2P1VUA/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01N2P1VUA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
