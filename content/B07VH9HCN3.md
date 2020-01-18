@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tableta de Dibujo Pizarra 3D Mágico con '
-date: 2020-01-17 10:07:12
+date: 2020-01-18 10:13:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wvUIIzX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wvUIIzX9L._SL200_.jpg' ]
 comments: true

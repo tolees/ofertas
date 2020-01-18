@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DAM TEKKIWEAR. DMX222BKRED. Pulsera Inte'
-date: 2020-01-16 19:22:00
+date: 2020-01-18 10:52:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pnDSeYbsL._SL200_.jpg' ]
 comments: true

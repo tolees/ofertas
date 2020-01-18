@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Echo Dot  3.ª generación  - Altavo'
-date: 2020-01-14 13:57:15
+date: 2020-01-18 11:33:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07NQCVHQ6
 description:
-actualPrice: 44.99 EUR
+actualPrice: 38.99 EUR
 comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [Nuevo Echo Dot  3.ª generación  - Altavoz inteligente con reloj y Alexa  tela de color gris claro](https://www.amazon.com/dp/B07NQCVHQ6/?tag=redken08-20) por 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [Nuevo Echo Dot  3.ª generación  - Altavoz inteligente con reloj y Alexa  tela de color gris claro](https://www.amazon.com/dp/B07NQCVHQ6/?tag=redken08-20) por 38.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg)](https://www.amazon.com/dp/B07NQCVHQ6/?tag=redken08-20)
 

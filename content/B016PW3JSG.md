@@ -14,10 +14,10 @@ comparePrice: 219.99 GBP
 inStock: true
 ---
 
-Tienes [Nest Learning Thermostat  3rd Generation](https://www.amazon.com/dp/B016PW3JSG/?tag=redken08-20) a precio de oferta de 149 GBP (original: 219.99 GBP) en el siguiente enlace!
+Está [Nest Learning Thermostat  3rd Generation](https://www.amazon.com/dp/B016PW3JSG/?tag=redken08-20) por 149 GBP (original: 219.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iyuBiZ2JL._SL200_.jpg)](https://www.amazon.com/dp/B016PW3JSG/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B016PW3JSG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B016PW3JSG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

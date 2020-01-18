@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Coit Down Puffer Chaqueta  Negro '
-date: 2020-01-03 15:40:08
+date: 2020-01-18 11:16:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07LF5XYSF
 description:
-actualPrice: 86.99 EUR
+actualPrice: 79.95 EUR
 comparePrice: 200 EUR
 inStock: true
 ---
 
-Está [Levi s Coit Down Puffer Chaqueta  Negro  Black 0003   Medium para Hombre](https://www.amazon.com/dp/B07LF5XYSF/?tag=redken08-20) por 86.99 EUR (original: 200 EUR) en el siguiente enlace!
+Está [Levi s Coit Down Puffer Chaqueta  Negro  Black 0003   Medium para Hombre](https://www.amazon.com/dp/B07LF5XYSF/?tag=redken08-20) por 79.95 EUR (original: 200 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418Oo2JUstL._SL200_.jpg)](https://www.amazon.com/dp/B07LF5XYSF/?tag=redken08-20)
 

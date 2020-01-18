@@ -14,10 +14,10 @@ comparePrice: 599 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Parrot BEBOP 2 FPV - Dron cuadricóptero  Full HD 1080P  14 Mpx  60 Km/h  25 minutos de vuelo  2 Km de alcance  8GB  + Mando Skycontroller 2 + Gafas Cockpitglasses  color rojo](https://www.amazon.com/dp/B01KHNW3MM/?tag=redken08-20) a 400.8 EUR (original: 599 EUR) en el siguiente enlace!
+Está [Parrot BEBOP 2 FPV - Dron cuadricóptero  Full HD 1080P  14 Mpx  60 Km/h  25 minutos de vuelo  2 Km de alcance  8GB  + Mando Skycontroller 2 + Gafas Cockpitglasses  color rojo](https://www.amazon.com/dp/B01KHNW3MM/?tag=redken08-20) por 400.8 EUR (original: 599 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41eO-rgjpCL._SL200_.jpg)](https://www.amazon.com/dp/B01KHNW3MM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01KHNW3MM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01KHNW3MM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

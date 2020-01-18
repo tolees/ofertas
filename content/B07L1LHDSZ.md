@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vicloon Babero de Bebé del Silicona 2pcs'
-date: 2020-01-04 18:24:37
+date: 2020-01-18 12:34:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xPb9xLFxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xPb9xLFxL._SL200_.jpg' ]
 comments: true

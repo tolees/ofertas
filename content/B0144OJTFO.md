@@ -14,10 +14,10 @@ comparePrice: 36.86 EUR
 inStock: true
 ---
 
-Tienes [Jane Iredale  Brillo labial - 150 gr.](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20) a precio de oferta de 17.35 EUR (original: 36.86 EUR) en el siguiente enlace!
+Está [Jane Iredale  Brillo labial - 150 gr.](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20) por 17.35 EUR (original: 36.86 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318MSS8pHxL._SL200_.jpg)](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIZILI - Reloj de pulsera para hombre  u'
-date: 2020-01-12 17:49:45
+date: 2020-01-18 11:22:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kFyTrOB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kFyTrOB5L._SL200_.jpg' ]
 comments: true

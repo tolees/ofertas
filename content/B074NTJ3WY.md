@@ -14,10 +14,10 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Tienes [Krups Nescafé Dolce Gusto Lumio KP1305 Kapsel Kaffeemaschine  rot  1 0 l](https://www.amazon.com/dp/B074NTJ3WY/?tag=redken08-20) a precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [Krups Nescafé Dolce Gusto Lumio KP1305 Kapsel Kaffeemaschine  rot  1 0 l](https://www.amazon.com/dp/B074NTJ3WY/?tag=redken08-20) por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qysVxJw7L._SL200_.jpg)](https://www.amazon.com/dp/B074NTJ3WY/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B074NTJ3WY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B074NTJ3WY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

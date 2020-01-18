@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'COSORI Freidora sin Aceite  Freidora Air'
-date: 2020-01-16 11:32:15
+date: 2020-01-18 11:10:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gQfi8kg1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gQfi8kg1L._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 6.99 EUR
 inStock: true
 ---
 
-Tienes [Maybelline New York The Colossal Big Shot Volum Máscara de Pestañas  Tono 01 Negro - 9 5 ml](https://www.amazon.com/dp/B06XDS8RNY/?tag=redken08-20) a precio de oferta de 4.75 EUR (original: 6.99 EUR) en el siguiente enlace!
+Está [Maybelline New York The Colossal Big Shot Volum Máscara de Pestañas  Tono 01 Negro - 9 5 ml](https://www.amazon.com/dp/B06XDS8RNY/?tag=redken08-20) por 4.75 EUR (original: 6.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31D1kIFRKaL._SL200_.jpg)](https://www.amazon.com/dp/B06XDS8RNY/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B06XDS8RNY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06XDS8RNY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

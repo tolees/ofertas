@@ -14,10 +14,10 @@ comparePrice: 9.27 GBP
 inStock: true
 ---
 
-Está [Funko 39334 POP Movies: Ghostbusters-Scary Library Ghost Collectible Figure  Multicolor](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20) por 6.32 GBP (original: 9.27 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 39334 POP Movies: Ghostbusters-Scary Library Ghost Collectible Figure  Multicolor](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20) a 6.32 GBP (original: 9.27 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tTqGggC5L._SL200_.jpg)](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07NSQ6D4Q/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
