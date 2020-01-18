@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Robot Aspirador Conga Serie 4090'
-date: 2020-01-16 07:36:59
+date: 2020-01-17 17:20:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kkmL1R%2BIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kkmL1R%2BIL._SL200_.jpg' ]
 comments: true

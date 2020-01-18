@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO City '
-date: 2020-01-15 05:45:13
+title: 'BRIKSMAX Kit de Iluminación Led para Leg'
+date: 2020-01-17 03:12:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07TXVVP7Q
 description:
-actualPrice: 24.99 GBP
-comparePrice: 99.99 GBP
+actualPrice: 30.99 EUR
+comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for LEGO City Passenger RC Train- Compatible with Lego 60197 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20) a 24.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Tienes [BRIKSMAX Kit de Iluminación Led para Lego City Tren De Pasajeros  Compatible con Ladrillos de Construcción Lego Modelo 60197  Juego de Legos no Incluido](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20) a precio de oferta de 30.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg)](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black Crown Piton 3.0 - Peso Palas - 355'
-date: 2019/12/29 18:49:21 +0000
+date: 2020-01-17 16:20:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iGz6SqCAL._SL200_.jpg' ]
 comments: true

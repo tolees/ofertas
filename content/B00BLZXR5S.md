@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell 4419169 Multiherramienta TH-MG 1'
-date: 2020-01-16 16:12:11
+date: 2020-01-17 18:38:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DKS3cvVDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DKS3cvVDL._SL200_.jpg' ]
 comments: true

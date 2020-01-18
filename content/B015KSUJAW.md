@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NNJXD Vestido de Fiesta de Princesa con '
-date: 2020-01-12 06:35:30
+date: 2020-01-17 18:33:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t4sNcDvyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t4sNcDvyL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B015KSUJAW
 description:
-actualPrice: 14.39 EUR
+actualPrice: 15.99 EUR
 comparePrice: 25.69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de 3D sin Mangas para Niñas Talla 130  4-5 Años Azul](https://www.amazon.com/dp/B015KSUJAW/?tag=redken08-20) a 14.39 EUR (original: 25.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [NNJXD Vestido de Fiesta de Princesa con Encaje de Flor de 3D sin Mangas para Niñas Talla 130  4-5 Años Azul](https://www.amazon.com/dp/B015KSUJAW/?tag=redken08-20) a 15.99 EUR (original: 25.69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51t4sNcDvyL._SL200_.jpg)](https://www.amazon.com/dp/B015KSUJAW/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Xperia XZ2 - Smartphone de 5.7"  Oc'
-date: 2020-01-16 01:24:11
+date: 2020-01-17 22:12:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lIXdu0TJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lIXdu0TJL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HVDHYY Reloj para Hombre Doble Zona Hora'
-date: 2020-01-14 11:43:06
+date: 2020-01-17 16:17:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LD3bEGUiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LD3bEGUiL._SL200_.jpg' ]
 comments: true

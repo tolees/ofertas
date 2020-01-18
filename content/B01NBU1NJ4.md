@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epson ET-2650 EcoTank  Impresora de inye'
-date: 2020-01-16 11:45:20
+date: 2020-01-17 19:32:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316THPfUBYL._SL200_.jpg' ]
 comments: true

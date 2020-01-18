@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 41378 - Friends Rettungs-U-Boot für'
-date: 2020-01-12 22:29:44
+title: 'LEGO 41378 Friends Dolphins Rescue Missi'
+date: 2020-01-14 16:36:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rH9UIUoeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rH9UIUoeL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KTVLB48
 description:
-actualPrice: 29.64 EUR
-comparePrice: 39.99 EUR
+actualPrice: 26.24 GBP
+comparePrice: 34.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 41378 - Friends Rettungs-U-Boot für Delfine  Bauset](https://www.amazon.com/dp/B07KTVLB48/?tag=redken08-20) a precio de oferta de 29.64 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [LEGO 41378 Friends Dolphins Rescue Mission Boat Playset with Submarine  Shipwreck and Dolphin Figures  Sea Life Rescue Series](https://www.amazon.com/dp/B07KTVLB48/?tag=redken08-20) a precio de oferta de 26.24 GBP (original: 34.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rH9UIUoeL._SL200_.jpg)](https://www.amazon.com/dp/B07KTVLB48/?tag=redken08-20)
 

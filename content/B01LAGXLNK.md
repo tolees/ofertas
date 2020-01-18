@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Premium Care Brush & Straight SF'
-date: 2020-01-14 09:34:02
+date: 2020-01-17 16:43:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DHBE6BJAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DHBE6BJAL._SL200_.jpg' ]
 comments: true

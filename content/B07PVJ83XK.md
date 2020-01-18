@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tronsmart Groove Altavoz Exterior Blueto'
-date: 2020-01-15 10:15:22
+date: 2020-01-18 02:33:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ub%2BiClBgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ub%2BiClBgL._SL200_.jpg' ]
 comments: true

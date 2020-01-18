@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 510 Skinny Fit  Vaqueros para Hom'
-date: 2020-01-16 08:05:42
+date: 2020-01-18 08:17:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OOKVbTGUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OOKVbTGUL._SL200_.jpg' ]
 comments: true

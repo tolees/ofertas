@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scottex Original Papel Higiénico - 96 Ro'
-date: 2020-01-16 22:31:56
+date: 2020-01-18 08:04:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516wKVfyS9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516wKVfyS9L._SL200_.jpg' ]
 comments: true

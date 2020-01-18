@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DC Universe Super Heroes 76118 Supe'
-date: 2020-01-16 17:39:11
+date: 2020-01-17 18:28:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vRzCkhh4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vRzCkhh4L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KTLHZVN
 description:
-actualPrice: 17.65 EUR
+actualPrice: 17.99 EUR
 comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Está [LEGO DC Universe Super Heroes 76118 Super Heroes Produkttitel fehlt-Wird nachgereicht  Mehrfarbig](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20) por 17.65 EUR (original: 24.99 EUR) en el siguiente enlace!
+Está [LEGO DC Universe Super Heroes 76118 Super Heroes Produkttitel fehlt-Wird nachgereicht  Mehrfarbig](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20) por 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51vRzCkhh4L._SL200_.jpg)](https://www.amazon.com/dp/B07KTLHZVN/?tag=redken08-20)
 

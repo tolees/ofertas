@@ -14,10 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Aigostar - Bombilla LED E27  12W equivalente a 100W  Luz calida 3000K  984 lúmenes  Ángulo 280°  no regulable - Caja de 5 unidades [Clase de eficiencia energética A+]](https://www.amazon.com/dp/B07D8KTZSK/?tag=redken08-20) por 11.98 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Aigostar - Bombilla LED E27  12W equivalente a 100W  Luz calida 3000K  984 lúmenes  Ángulo 280°  no regulable - Caja de 5 unidades [Clase de eficiencia energética A+]](https://www.amazon.com/dp/B07D8KTZSK/?tag=redken08-20) a precio de oferta de 11.98 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412clAxpISL._SL200_.jpg)](https://www.amazon.com/dp/B07D8KTZSK/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07D8KTZSK/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07D8KTZSK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

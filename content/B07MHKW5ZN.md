@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CKSOHOT Masajeador Manual con 10 modos d'
-date: 2020-01-16 07:17:24
+date: 2020-01-17 23:03:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QpnBOt89L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QpnBOt89L._SL200_.jpg' ]
 comments: true

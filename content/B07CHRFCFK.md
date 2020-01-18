@@ -14,10 +14,10 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Shenmue I & II - PS4](https://www.amazon.com/dp/B07CHRFCFK/?tag=redken08-20) a 17.75 EUR (original: 34.99 EUR) en el siguiente enlace!
+Tienes [Shenmue I & II - PS4](https://www.amazon.com/dp/B07CHRFCFK/?tag=redken08-20) a precio de oferta de 17.75 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51vn98lbE3L._SL200_.jpg)](https://www.amazon.com/dp/B07CHRFCFK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07CHRFCFK/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07CHRFCFK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

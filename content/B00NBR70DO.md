@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110 - Auriculares cerrados  n'
-date: 2020-01-15 10:19:00
+date: 2020-01-17 16:35:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg' ]
 comments: true

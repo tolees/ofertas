@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips MG5720/18 9 en 1 - Recortadora p'
-date: 2020-01-17 08:05:13
+date: 2020-01-18 09:07:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lsstg2LFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lsstg2LFL._SL200_.jpg' ]
 comments: true

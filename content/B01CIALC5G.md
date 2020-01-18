@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta Compact Power Cyclonic RO3753EA '
-date: 2020-01-17 07:02:37
+date: 2020-01-18 09:21:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412gain9seL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412gain9seL._SL200_.jpg' ]
 comments: true
