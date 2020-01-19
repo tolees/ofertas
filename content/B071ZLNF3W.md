@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto E4 - Smartphone Libre de 5'
-date: 2020-01-17 12:53:46
+date: 2020-01-19 08:41:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W5424OMiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W5424OMiL._SL200_.jpg' ]
 comments: true

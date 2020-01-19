@@ -14,10 +14,10 @@ comparePrice: 52.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ELEGOO Kit de Componentes Electrónicos con Placa de Prototipos  Resistencias  Leds  Condensadores  Potenciómetro  para Kit de Aprendizaje UNO R3  Mega 2560  Raspberry Pi  Compatible con Arduino IDE](https://www.amazon.com/dp/B01MRIG6YM/?tag=redken08-20) a 10.99 EUR (original: 52.99 EUR) en el siguiente enlace!
+Tienes [ELEGOO Kit de Componentes Electrónicos con Placa de Prototipos  Resistencias  Leds  Condensadores  Potenciómetro  para Kit de Aprendizaje UNO R3  Mega 2560  Raspberry Pi  Compatible con Arduino IDE](https://www.amazon.com/dp/B01MRIG6YM/?tag=redken08-20) a precio de oferta de 10.99 EUR (original: 52.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61I4-hQd8oL._SL200_.jpg)](https://www.amazon.com/dp/B01MRIG6YM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MRIG6YM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01MRIG6YM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
