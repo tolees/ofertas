@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZKCREATION Smartwatch  Reloj Inteligente'
-date: 2020-01-06 16:16:39
+date: 2020-01-19 15:46:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NIDxXFwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NIDxXFwCL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NinkBox Raspberry Pi 4 Modelo B  Tarjeta'
-date: 2020-01-16 08:30:17
+date: 2020-01-19 17:10:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tSgSNpLPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tSgSNpLPL._SL200_.jpg' ]
 comments: true

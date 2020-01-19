@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Briksmax Led Lighting Kit for Architectu'
-date: 2020-01-18 10:31:32
+date: 2020-01-19 18:17:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413YHLfa9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413YHLfa9iL._SL200_.jpg' ]
 comments: true

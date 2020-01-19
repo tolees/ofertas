@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B PRO 2 2000 - Cepillo Eléctrico Re'
-date: 2020-01-17 18:26:56
+date: 2020-01-19 18:05:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lBz-Q1lzL._SL200_.jpg' ]
 comments: true

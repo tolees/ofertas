@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GODNECE Technic Racing Car  1:8 Race Car'
-date: 2020-01-16 18:32:17
+date: 2020-01-19 18:22:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OD40mRdrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OD40mRdrL._SL200_.jpg' ]
 comments: true

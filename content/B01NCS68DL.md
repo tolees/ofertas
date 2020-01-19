@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SNH-C6417BN SmartCam - Cámara Wi'
-date: 2020-01-16 06:45:46
+date: 2020-01-19 12:04:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-PiOTAovL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-PiOTAovL._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 127 EUR
 inStock: true
 ---
 
-Está [Samsung SNH-C6417BN SmartCam - Cámara Wi-Fi Full HD  1080p  Blanco](https://www.amazon.com/dp/B01NCS68DL/?tag=redken08-20) por 49.99 EUR (original: 127 EUR) en el siguiente enlace!
+Tienes [Samsung SNH-C6417BN SmartCam - Cámara Wi-Fi Full HD  1080p  Blanco](https://www.amazon.com/dp/B01NCS68DL/?tag=redken08-20) a precio de oferta de 49.99 EUR (original: 127 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-PiOTAovL._SL200_.jpg)](https://www.amazon.com/dp/B01NCS68DL/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01NCS68DL/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01NCS68DL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

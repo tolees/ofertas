@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Metabo 6.06154.00 KHE 2444 Elektrowerkze'
+date: 2020-01-19 12:15:33
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gdqRL8sbL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gdqRL8sbL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B00D19ZKRU
+description:
+actualPrice: 99.95 EUR
+comparePrice: 141.99 EUR
+inStock: true
+---
+
+Está [Metabo 6.06154.00 KHE 2444 Elektrowerkzeuge  Schwarz  Grün](https://www.amazon.com/dp/B00D19ZKRU/?tag=redken08-20) por 99.95 EUR (original: 141.99 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41gdqRL8sbL._SL200_.jpg)](https://www.amazon.com/dp/B00D19ZKRU/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B00D19ZKRU/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

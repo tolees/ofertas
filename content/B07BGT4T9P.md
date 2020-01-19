@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BGT Navaja de Bolsillo con Hoja de Acero'
-date: 2020-01-11 16:36:17
+date: 2020-01-19 18:41:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vNeRezy6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vNeRezy6L._SL200_.jpg' ]
 comments: true
