@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 70007 Top Agents Team S.H.A.R.'
-date: 2020-01-17 02:55:00
+date: 2020-01-19 03:04:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-sHFV%2BzML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-sHFV%2BzML._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JXHQWSF
 description:
-actualPrice: 8.97 EUR
+actualPrice: 10.22 EUR
 comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Tienes [Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter  bunt](https://www.amazon.com/dp/B07JXHQWSF/?tag=redken08-20) a precio de oferta de 8.97 EUR (original: 13.99 EUR) en el siguiente enlace!
+Tienes [Playmobil 70007 Top Agents Team S.H.A.R.K. Rocket Rafter  bunt](https://www.amazon.com/dp/B07JXHQWSF/?tag=redken08-20) a precio de oferta de 10.22 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61-sHFV%2BzML._SL200_.jpg)](https://www.amazon.com/dp/B07JXHQWSF/?tag=redken08-20)
 

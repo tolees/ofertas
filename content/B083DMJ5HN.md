@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine FRR-F1 Racing Auto'
-date: 2020-01-16 18:40:25
+date: 2020-01-18 18:29:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EFpS6it%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EFpS6it%2BL._SL200_.jpg' ]
 comments: true

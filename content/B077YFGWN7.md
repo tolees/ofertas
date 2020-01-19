@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YI Cámara de Vigilancia Interior 1080P D'
-date: 2020-01-11 13:46:01
+date: 2020-01-18 20:02:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X8F1-gbvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X8F1-gbvL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B077YFGWN7
 description:
-actualPrice: 104.99 EUR
+actualPrice: 99.99 EUR
 comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Tienes [YI Cámara de Vigilancia Interior 1080P Domo Cámara IP Seguridad WiFi Monitor de Bebé Mascota HD Inalámbrica con Visión Nocturna Detección Movimiento - 4 Unidades](https://www.amazon.com/dp/B077YFGWN7/?tag=redken08-20) a precio de oferta de 104.99 EUR (original: 149.99 EUR) en el siguiente enlace!
+Tienes [YI Cámara de Vigilancia Interior 1080P Domo Cámara IP Seguridad WiFi Mascota HD Inalámbrica con Visión Nocturna Detección Movimiento - 4 Unidades](https://www.amazon.com/dp/B077YFGWN7/?tag=redken08-20) a precio de oferta de 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41X8F1-gbvL._SL200_.jpg)](https://www.amazon.com/dp/B077YFGWN7/?tag=redken08-20)
 

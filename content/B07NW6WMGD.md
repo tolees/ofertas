@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dodot Aqua Pure Toallitas Bebé con 99% A'
-date: 2020-01-17 19:57:34
+date: 2020-01-18 21:26:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZLLg-mGsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZLLg-mGsL._SL200_.jpg' ]
 comments: true

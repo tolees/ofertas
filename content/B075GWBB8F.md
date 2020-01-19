@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO DUPLO Town - Establo de los Ponis  '
-date: 2019/09/27 22:45:29 +0000
+title: 'LEGO 10868 DUPLO Town Farm Pony Stable T'
+date: 2019/11/14 04:48:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61oOzAnZsDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61oOzAnZsDL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B075GWBB8F
 description:
-actualPrice: 22.39 EUR
-comparePrice: 29.99 EUR
+actualPrice: 18.17 GBP
+comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO DUPLO Town - Establo de los Ponis  10868 ](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20) a 22.39 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [LEGO 10868 DUPLO Town Farm Pony Stable Toddler Building Set with 2 Horse Figures  Toy for Kids Age 2-5](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20) por 18.17 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61oOzAnZsDL._SL200_.jpg)](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

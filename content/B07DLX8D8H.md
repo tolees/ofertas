@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSONITE Pro-DLX 5 - Wheeled Business C'
-date: 2020-01-16 10:45:08
+date: 2020-01-19 04:25:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-Qr9Gv0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-Qr9Gv0aL._SL200_.jpg' ]
 comments: true

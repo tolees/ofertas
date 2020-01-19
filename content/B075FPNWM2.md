@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teeno Li - Taladro destornillador sin ca'
-date: 2020-01-13 14:44:25
+date: 2020-01-18 22:10:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Olm-N9k0L._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling CLASS ROOM - Mochila escolar  28'
-date: 2020-01-17 19:13:27
+date: 2020-01-18 22:32:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tnzAnVr7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tnzAnVr7L._SL200_.jpg' ]
 comments: true

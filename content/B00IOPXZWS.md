@@ -14,10 +14,10 @@ comparePrice: 7.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Movie Super Secret Police Enforcer  30282 ](https://www.amazon.com/dp/B00IOPXZWS/?tag=redken08-20) a 4.99 GBP (original: 7.99 GBP) en el siguiente enlace!
+Está [LEGO Movie Super Secret Police Enforcer  30282 ](https://www.amazon.com/dp/B00IOPXZWS/?tag=redken08-20) por 4.99 GBP (original: 7.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51d89%2BCCioL._SL200_.jpg)](https://www.amazon.com/dp/B00IOPXZWS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00IOPXZWS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00IOPXZWS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

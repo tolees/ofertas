@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CINTA ANTIDESLIZANTE - LUMINOSO FLUORESC'
-date: 2020-01-17 03:15:38
+date: 2020-01-19 03:15:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n938Sp6fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n938Sp6fL._SL200_.jpg' ]
 comments: true

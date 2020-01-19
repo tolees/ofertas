@@ -14,10 +14,10 @@ comparePrice: 600 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony FDRX3000R - Kit de cámara Action CAM 4K y Grip para Dedo AKAFGP1  Blanco y Negro](https://www.amazon.com/dp/B01MTA3FFT/?tag=redken08-20) a 449 EUR (original: 600 EUR) en el siguiente enlace!
+Está [Sony FDRX3000R - Kit de cámara Action CAM 4K y Grip para Dedo AKAFGP1  Blanco y Negro](https://www.amazon.com/dp/B01MTA3FFT/?tag=redken08-20) por 449 EUR (original: 600 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BQIzYOl2L._SL200_.jpg)](https://www.amazon.com/dp/B01MTA3FFT/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01MTA3FFT/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01MTA3FFT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

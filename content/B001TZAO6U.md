@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Chivas Whisky - 700 ml'
-date: 2020-01-08 08:56:20
-thumbnailImage: 'None._SL200_'
-images: [ 'None._SL200_' ]
+date: 2020-01-18 16:05:55
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4171m3TMr2L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4171m3TMr2L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B001TZAO6U
 description:
-actualPrice: 107.99 EUR
+actualPrice: 97.19 EUR
 comparePrice: 155.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Chivas Whisky - 700 ml](https://www.amazon.com/dp/B001TZAO6U/?tag=redken08-20) a 107.99 EUR (original: 155.63 EUR) en el siguiente enlace!
+Ahora mismo tienes [Chivas Whisky - 700 ml](https://www.amazon.com/dp/B001TZAO6U/?tag=redken08-20) a 97.19 EUR (original: 155.63 EUR) en el siguiente enlace!
 
-[![](None._SL200_)](https://www.amazon.com/dp/B001TZAO6U/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/4171m3TMr2L._SL200_.jpg)](https://www.amazon.com/dp/B001TZAO6U/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B001TZAO6U/?tag=redken08-20)
 

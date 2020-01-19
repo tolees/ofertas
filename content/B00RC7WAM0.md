@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sports Cars Top Trumps Card Game'
-date: 2020-01-16 05:40:32
+date: 2020-01-19 02:28:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UmAymvRpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UmAymvRpL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00RC7WAM0
 description:
-actualPrice: 4.25 GBP
+actualPrice: 4.57 GBP
 comparePrice: 7.65 GBP
 inStock: true
 ---
 
-Tienes [Sports Cars Top Trumps Card Game](https://www.amazon.com/dp/B00RC7WAM0/?tag=redken08-20) a precio de oferta de 4.25 GBP (original: 7.65 GBP) en el siguiente enlace!
+Tienes [Sports Cars Top Trumps Card Game](https://www.amazon.com/dp/B00RC7WAM0/?tag=redken08-20) a precio de oferta de 4.57 GBP (original: 7.65 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UmAymvRpL._SL200_.jpg)](https://www.amazon.com/dp/B00RC7WAM0/?tag=redken08-20)
 

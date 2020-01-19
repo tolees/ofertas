@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO DUPLO Town - Tren de mercancías  10'
-date: 2019/09/27 22:47:05 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ps1QlFcXL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ps1QlFcXL._SL200_.jpg' ]
+title: 'LEGO DUPLO Güterzug  10875  Kinderspielz'
+date: 2019/12/18 09:27:40 +0000
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FvIBba2aL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FvIBba2aL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0765CFDRH
 description:
-actualPrice: 90.99 EUR
-comparePrice: 129.99 EUR
+actualPrice: 89.99 EUR
+comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO DUPLO Town - Tren de mercancías  10875 ](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20) a precio de oferta de 90.99 EUR (original: 129.99 EUR) en el siguiente enlace!
+Tienes [LEGO DUPLO Güterzug  10875  Kinderspielzeug](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20) a precio de oferta de 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51ps1QlFcXL._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51FvIBba2aL._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B0765CFDRH/?tag=redken08-20)
 

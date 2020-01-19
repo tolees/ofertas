@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lámpara de escritorio inteligente iHaper'
-date: 2020-01-17 14:21:11
+date: 2020-01-18 16:51:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL200_.jpg' ]
 comments: true

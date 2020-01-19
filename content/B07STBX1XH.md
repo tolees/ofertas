@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proyector YABER Mini Portátil Proyector '
-date: 2019/12/15 08:31:49 +0000
+date: 2020-01-18 23:01:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YQbBpDuxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YQbBpDuxL._SL200_.jpg' ]
 comments: true

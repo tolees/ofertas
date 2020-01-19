@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Cargador Quick Charge 3.0  Cargad'
-date: 2019/11/25 16:02:17 +0000
+date: 2020-01-18 16:14:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419epprrB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419epprrB5L._SL200_.jpg' ]
 comments: true

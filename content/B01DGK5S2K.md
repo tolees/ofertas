@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'E-Vitta PCS71103EVLB000302 - Maletín par'
-date: 2020-01-17 21:23:04
+date: 2020-01-18 21:46:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WJFmhr67L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WJFmhr67L._SL200_.jpg' ]
 comments: true

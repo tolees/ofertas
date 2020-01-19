@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Star '
-date: 2020-01-16 18:22:56
+title: 'BRIKSMAX Led Beleuchtungsset für Lego St'
+date: 2020-01-17 18:27:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07TZRKXXW
 description:
-actualPrice: 36.99 GBP
-comparePrice: 69.99 GBP
+actualPrice: 45.99 EUR
+comparePrice: 70.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Lighting Kit for LEGO Star Wars Kylo Ren s Command Shuttle- Compatible with Lego 75104 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TZRKXXW/?tag=redken08-20) por 36.99 GBP (original: 69.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Kylo Ren s Command Shuttle  Kompatibel Mit Lego 75104 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TZRKXXW/?tag=redken08-20) por 45.99 EUR (original: 70.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Sg9lHvdML._SL200_.jpg)](https://www.amazon.com/dp/B07TZRKXXW/?tag=redken08-20)
 

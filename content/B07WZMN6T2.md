@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BOYOU Guantes de Ciclismo a Prueba de Vi'
-date: 2020-01-08 23:34:19
+date: 2020-01-18 16:35:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bM4PrsNzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bM4PrsNzL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YABER Arrancador de Coches 12000mAh  800'
-date: 2020-01-15 13:43:57
+date: 2020-01-19 00:03:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517I8oSi2pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517I8oSi2pL._SL200_.jpg' ]
 comments: true

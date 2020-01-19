@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timex Reloj de Pulsera TW2R96300'
-date: 2020-01-07 23:16:58
+date: 2020-01-19 00:57:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514nvUCgnkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514nvUCgnkL._SL200_.jpg' ]
 comments: true

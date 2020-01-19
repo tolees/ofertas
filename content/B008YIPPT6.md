@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L Oreal Paris Color Riche 376 Cassis Pas'
-date: 2019/10/07 00:42:32 +0000
+date: 2020-01-18 14:55:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319dquCRqBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319dquCRqBL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B008YIPPT6
 description:
-actualPrice: 5.08 EUR
+actualPrice: 9.95 EUR
 comparePrice: 13.95 EUR
 inStock: true
 ---
 
-Tienes [L Oreal Paris Color Riche 376 Cassis Passion Barra de Labios Frambuesa](https://www.amazon.com/dp/B008YIPPT6/?tag=redken08-20) a precio de oferta de 5.08 EUR (original: 13.95 EUR) en el siguiente enlace!
+Tienes [L Oreal Paris Color Riche 376 Cassis Passion Barra de Labios Frambuesa](https://www.amazon.com/dp/B008YIPPT6/?tag=redken08-20) a precio de oferta de 9.95 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319dquCRqBL._SL200_.jpg)](https://www.amazon.com/dp/B008YIPPT6/?tag=redken08-20)
 

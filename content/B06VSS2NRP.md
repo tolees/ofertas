@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memoria Flash USB SanDisk Ultra Dual m3.'
-date: 2020-01-16 07:31:04
+date: 2020-01-18 13:06:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yQmSo8vQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yQmSo8vQL._SL200_.jpg' ]
 comments: true
