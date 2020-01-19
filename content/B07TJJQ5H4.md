@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Super Mario - Cuaderno de espiral  tamañ'
-date: 2020-01-15 16:50:10
+title: 'Funko Pop! - Super Mario  Cuaderno A5 Es'
+date: 2020-01-19 09:33:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CerDMYBQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CerDMYBQL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 13.46 EUR
 inStock: true
 ---
 
-Está [Super Mario - Cuaderno de espiral  tamaño A5   color rojo](https://www.amazon.com/dp/B07TJJQ5H4/?tag=redken08-20) por 5.61 EUR (original: 13.46 EUR) en el siguiente enlace!
+Está [Funko Pop! - Super Mario  Cuaderno A5 Espiral Run  Windows ](https://www.amazon.com/dp/B07TJJQ5H4/?tag=redken08-20) por 5.61 EUR (original: 13.46 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CerDMYBQL._SL200_.jpg)](https://www.amazon.com/dp/B07TJJQ5H4/?tag=redken08-20)
 

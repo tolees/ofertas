@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'URAQT Vestido lady bug  Rojo M  C-UZ1811'
-date: 2020-01-13 14:25:10
+date: 2020-01-19 11:12:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg' ]
 comments: true

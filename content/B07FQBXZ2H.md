@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigoss Transmisor Bluetooth USB Adaptado'
-date: 2020-01-17 11:24:00
+date: 2020-01-19 10:56:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xptdP5oPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xptdP5oPL._SL200_.jpg' ]
 comments: true

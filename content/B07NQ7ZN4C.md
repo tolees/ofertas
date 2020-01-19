@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Antimi Bluetooth Kopfhörer Kabellos in E'
-date: 2020-01-17 11:01:21
+date: 2020-01-19 10:48:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418XjL5YIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418XjL5YIwL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P30 Pro - Smartphone de 6.47"  Ki'
-date: 2020-01-16 00:39:20
+date: 2020-01-08 11:29:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WRYirIXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WRYirIXRL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PXNGJ6H
 description:
-actualPrice: 719.43 EUR
+actualPrice: 671 EUR
 comparePrice: 1049 EUR
 inStock: true
 ---
 
-Tienes [Huawei P30 Pro - Smartphone de 6.47"  Kirin 980 Octa-Core de 2.6GHz  RAM de 8 GB  Memoria interna de 256 GB  cámara de 40 MP  Android  Color Nácar [Versión española]](https://www.amazon.com/dp/B07PXNGJ6H/?tag=redken08-20) a precio de oferta de 719.43 EUR (original: 1049 EUR) en el siguiente enlace!
+Tienes [Huawei P30 Pro - Smartphone de 6.47"  Kirin 980 Octa-Core de 2.6GHz  RAM de 8 GB  Memoria interna de 256 GB  cámara de 40 MP  Android  Color Nácar [Versión española]](https://www.amazon.com/dp/B07PXNGJ6H/?tag=redken08-20) a precio de oferta de 671 EUR (original: 1049 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31WRYirIXRL._SL200_.jpg)](https://www.amazon.com/dp/B07PXNGJ6H/?tag=redken08-20)
 

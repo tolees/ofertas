@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revell Control 24710 - Technik RC Car al'
-date: 2020-01-08 14:46:33
+date: 2020-01-19 11:12:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JZXPGnZNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JZXPGnZNL._SL200_.jpg' ]
 comments: true

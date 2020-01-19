@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GODNECE Technic Off-road Car  2.4G RC Of'
-date: 2020-01-17 10:40:12
+date: 2020-01-19 10:44:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Id7hR592L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Id7hR592L._SL200_.jpg' ]
 comments: true

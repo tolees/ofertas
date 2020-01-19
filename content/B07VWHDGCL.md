@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Abafia USB Bluetooth Adapter  2-in-1 Emp'
-date: 2020-01-14 12:44:16
+date: 2020-01-19 10:49:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QjsSSx3jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QjsSSx3jL._SL200_.jpg' ]
 comments: true

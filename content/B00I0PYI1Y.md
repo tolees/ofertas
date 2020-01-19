@@ -14,10 +14,10 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Está [Jack & Jones Basic Tank Top - Camiseta de tirantes con cuello redondo sin mangas para hombre  Blanco  White C-N100   Small](https://www.amazon.com/dp/B00I0PYI1Y/?tag=redken08-20) por 6.49 EUR (original: 12.95 EUR) en el siguiente enlace!
+Tienes [Jack & Jones Basic Tank Top - Camiseta de tirantes con cuello redondo sin mangas para hombre  Blanco  White C-N100   Small](https://www.amazon.com/dp/B00I0PYI1Y/?tag=redken08-20) a precio de oferta de 6.49 EUR (original: 12.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41snKSedRCL._SL200_.jpg)](https://www.amazon.com/dp/B00I0PYI1Y/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00I0PYI1Y/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00I0PYI1Y/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

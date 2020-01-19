@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo S145-15IWL - Ordenador portátil 1'
-date: 2020-01-18 08:10:04
+date: 2020-01-19 09:35:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w0dqpYMWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w0dqpYMWL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 499 EUR
 inStock: true
 ---
 
-Está [Nikon D3500 Kit AF-P DX 18-55 mm VR schwarz](https://www.amazon.com/dp/B07GZP6JPG/?tag=redken08-20) por 345 EUR (original: 499 EUR) en el siguiente enlace!
+Tienes [Nikon D3500 Kit AF-P DX 18-55 mm VR schwarz](https://www.amazon.com/dp/B07GZP6JPG/?tag=redken08-20) a precio de oferta de 345 EUR (original: 499 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TzqWwOStL._SL200_.jpg)](https://www.amazon.com/dp/B07GZP6JPG/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07GZP6JPG/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07GZP6JPG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

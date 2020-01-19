@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DXX Technik Bausteine Auto Jeep Wrangler'
-date: 2020-01-17 02:50:15
+date: 2020-01-19 11:18:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qrU50nw4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qrU50nw4L._SL200_.jpg' ]
 comments: true

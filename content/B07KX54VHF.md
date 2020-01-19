@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter und der Gefangene von '
-date: 2020-01-17 11:01:16
+date: 2020-01-19 10:56:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg' ]
 comments: true

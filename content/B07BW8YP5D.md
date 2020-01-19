@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G.L.O.W. Stick'
-date: 2020-01-15 13:31:59
+date: 2020-01-19 10:14:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qS7zBv0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qS7zBv0OL._SL200_.jpg' ]
 comments: true

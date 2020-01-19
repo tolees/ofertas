@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung RU8009 207 cm  82 Zoll  LED Fern'
-date: 2019/12/30 09:55:44 +0000
+date: 2020-01-19 09:48:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510aZyZngRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510aZyZngRL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PRNPS6D
 description:
-actualPrice: 1950.23 EUR
+actualPrice: 1699 EUR
 comparePrice: 3299 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung RU8009 207 cm  82 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]](https://www.amazon.com/dp/B07PRNPS6D/?tag=redken08-20) a 1950.23 EUR (original: 3299 EUR) en el siguiente enlace!
+Ahora mismo tienes [Samsung RU8009 207 cm  82 Zoll  LED Fernseher  Ultra HD  HDR  Triple Tuner  Smart TV  [Modelljahr 2019]](https://www.amazon.com/dp/B07PRNPS6D/?tag=redken08-20) a 1699 EUR (original: 3299 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510aZyZngRL._SL200_.jpg)](https://www.amazon.com/dp/B07PRNPS6D/?tag=redken08-20)
 
