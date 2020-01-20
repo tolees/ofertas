@@ -14,10 +14,10 @@ comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Freebily Women s Mrs Santa Claus Costume Adults Long Sleeve O-Neck Christmas Festival Fancy Dress Green Large](https://www.amazon.com/dp/B07KG4CHGZ/?tag=redken08-20) a 28.95 GBP (original: 49.99 GBP) en el siguiente enlace!
+Está [Freebily Women s Mrs Santa Claus Costume Adults Long Sleeve O-Neck Christmas Festival Fancy Dress Green Large](https://www.amazon.com/dp/B07KG4CHGZ/?tag=redken08-20) por 28.95 GBP (original: 49.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xdCA3VEhL._SL200_.jpg)](https://www.amazon.com/dp/B07KG4CHGZ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KG4CHGZ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KG4CHGZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

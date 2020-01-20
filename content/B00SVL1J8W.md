@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio Reloj Analogico para Hombre de Cua'
-date: 2020-01-12 09:07:39
+date: 2020-01-20 12:06:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CgyDDpR4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CgyDDpR4L._SL200_.jpg' ]
 comments: true

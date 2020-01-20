@@ -14,10 +14,10 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Nike Mercurial Superfly V FG  Botas de fútbol Unisex niños  Verde  Electric Green/Black-Flash Lime-White   36.5 EU](https://www.amazon.com/dp/B01N3B1ECZ/?tag=redken08-20) por 56.64 EUR (original: 150 EUR) en el siguiente enlace!
+Tienes [Nike Mercurial Superfly V FG  Botas de fútbol Unisex niños  Verde  Electric Green/Black-Flash Lime-White   36.5 EU](https://www.amazon.com/dp/B01N3B1ECZ/?tag=redken08-20) a precio de oferta de 56.64 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sU1q23J1L._SL200_.jpg)](https://www.amazon.com/dp/B01N3B1ECZ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01N3B1ECZ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01N3B1ECZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

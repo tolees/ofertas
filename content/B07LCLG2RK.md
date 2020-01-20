@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vicloon Elsa Dress Up Accessories Set of'
-date: 2020-01-18 10:16:56
+date: 2020-01-20 10:25:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CcYKXdQqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CcYKXdQqL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07LCLG2RK
 description:
-actualPrice: 5.94 GBP
+actualPrice: 6.99 GBP
 comparePrice: 10.99 GBP
 inStock: true
 ---
 
-Está [Vicloon Elsa Dress Up Accessories Set of 9  Elsa Gloves  Princess Crown  Ring  Earring  Magic Wand and Necklace  Blue ](https://www.amazon.com/dp/B07LCLG2RK/?tag=redken08-20) por 5.94 GBP (original: 10.99 GBP) en el siguiente enlace!
+Está [Vicloon Elsa Dress Up Accessories Set of 9  Elsa Gloves  Princess Crown  Ring  Earring  Magic Wand and Necklace  Blue ](https://www.amazon.com/dp/B07LCLG2RK/?tag=redken08-20) por 6.99 GBP (original: 10.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CcYKXdQqL._SL200_.jpg)](https://www.amazon.com/dp/B07LCLG2RK/?tag=redken08-20)
 

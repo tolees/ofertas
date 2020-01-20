@@ -14,10 +14,10 @@ comparePrice: 109.95 EUR
 inStock: true
 ---
 
-Está [Osram Endura Luminaria LED  11.5 W  Gris  Aplique](https://www.amazon.com/dp/B072PS3KZB/?tag=redken08-20) por 67.79 EUR (original: 109.95 EUR) en el siguiente enlace!
+Tienes [Osram Endura Luminaria LED  11.5 W  Gris  Aplique](https://www.amazon.com/dp/B072PS3KZB/?tag=redken08-20) a precio de oferta de 67.79 EUR (original: 109.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31TsOLDcEwL._SL200_.jpg)](https://www.amazon.com/dp/B072PS3KZB/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B072PS3KZB/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B072PS3KZB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

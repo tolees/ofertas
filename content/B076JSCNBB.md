@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Varlion Hexagon Azul - Paletero de pádel'
-date: 2020-01-11 09:22:17
+date: 2020-01-20 12:46:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317yv7gMdDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317yv7gMdDL._SL200_.jpg' ]
 comments: true

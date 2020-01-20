@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Leathlux Funda Xiaomi Redmi 7 + Cristal '
-date: 2019/10/25 13:27:02 +0000
+date: 2020-01-20 12:21:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CESZ4FxDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CESZ4FxDL._SL200_.jpg' ]
 comments: true

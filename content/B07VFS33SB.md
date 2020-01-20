@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini PC Windows 10  ACEPC AK2 6GB Ram 64'
-date: 2020-01-18 10:21:56
+date: 2020-01-20 10:35:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ox9xRb%2BqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ox9xRb%2BqL._SL200_.jpg' ]
 comments: true
@@ -14,10 +14,10 @@ comparePrice: 299.99 GBP
 inStock: true
 ---
 
-Está [Mini PC Windows 10  ACEPC AK2 6GB Ram 64GB eMMC Intel Celeron J3455 4K HD Graphics Mini Computer [ Dual HDMI/Gigabit Ethernet/Dual Band Wi-Fi/BT 4.2/ VESA Mount]](https://www.amazon.com/dp/B07VFS33SB/?tag=redken08-20) por 199.99 GBP (original: 299.99 GBP) en el siguiente enlace!
+Tienes [Mini PC Windows 10  ACEPC AK2 6GB Ram 64GB eMMC Intel Celeron J3455 4K HD Graphics Mini Computer [ Dual HDMI/Gigabit Ethernet/Dual Band Wi-Fi/BT 4.2/ VESA Mount]](https://www.amazon.com/dp/B07VFS33SB/?tag=redken08-20) a precio de oferta de 199.99 GBP (original: 299.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ox9xRb%2BqL._SL200_.jpg)](https://www.amazon.com/dp/B07VFS33SB/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07VFS33SB/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07VFS33SB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

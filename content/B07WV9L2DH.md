@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for Ideas Wome'
-date: 2020-01-19 10:28:44
+date: 2020-01-20 10:39:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4147Z8gsZZL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metal MP3 Reproductor Bluetooth con Pant'
-date: 2020-01-16 13:56:35
+date: 2020-01-20 10:54:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U9fmvu3LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U9fmvu3LL._SL200_.jpg' ]
 comments: true

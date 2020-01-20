@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy S10 - Smartphone de 6.1" '
-date: 2020-01-18 16:42:10
+date: 2020-01-20 10:15:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iaxdDXBkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iaxdDXBkL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lámpara UV Profesional  48W Lampara Led '
-date: 2019/09/25 15:37:49 +0000
+date: 2020-01-20 09:38:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411HHsgxFnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411HHsgxFnL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Lámpara UV Profesional  48W Lampara Led Uñas Profesional con temporizador  Sensor para uñas de gel y Toe Nail Curing 21 Leds](https://www.amazon.com/dp/B07QGY3GXB/?tag=redken08-20) por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Lámpara UV Profesional  48W Lampara Led Uñas Profesional con temporizador  Sensor para uñas de gel y Toe Nail Curing 21 Leds con pantalla LCD y temporizador 30s  60s  99s](https://www.amazon.com/dp/B07QGY3GXB/?tag=redken08-20) por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411HHsgxFnL._SL200_.jpg)](https://www.amazon.com/dp/B07QGY3GXB/?tag=redken08-20)
 

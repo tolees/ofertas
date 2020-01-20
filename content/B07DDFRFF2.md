@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ready 2 Robot Serie 1 - Bot Blaster Caps'
-date: 2020-01-19 08:52:37
+date: 2020-01-20 10:14:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a9ECmytQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a9ECmytQL._SL200_.jpg' ]
 comments: true
