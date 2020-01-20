@@ -14,10 +14,10 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Tienes [Educa Borrás- Obras de Arte Puzzle 500  Color  16277 ](https://www.amazon.com/dp/B00T2ZUEKK/?tag=redken08-20) a precio de oferta de 4 EUR (original: 9.95 EUR) en el siguiente enlace!
+Está [Educa Borrás- Obras de Arte Puzzle 500  Color  16277 ](https://www.amazon.com/dp/B00T2ZUEKK/?tag=redken08-20) por 4 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pCOYlp5xL._SL200_.jpg)](https://www.amazon.com/dp/B00T2ZUEKK/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00T2ZUEKK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00T2ZUEKK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

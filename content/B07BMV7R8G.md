@@ -14,10 +14,10 @@ comparePrice: 22.99 GBP
 inStock: true
 ---
 
-Tienes [L.O.L. Surprise! Fashion Crush Series Eye Spy  Pack of 6](https://www.amazon.com/dp/B07BMV7R8G/?tag=redken08-20) a precio de oferta de 11.95 GBP (original: 22.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [L.O.L. Surprise! Fashion Crush Series Eye Spy  Pack of 6](https://www.amazon.com/dp/B07BMV7R8G/?tag=redken08-20) a 11.95 GBP (original: 22.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HYa6SfhgL._SL200_.jpg)](https://www.amazon.com/dp/B07BMV7R8G/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07BMV7R8G/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07BMV7R8G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DAM TEKKIWEAR. DMX097WHITE. Brazalete In'
-date: 2019/12/19 12:37:51 +0000
+date: 2020-01-20 13:17:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jso9Oy2mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jso9Oy2mL._SL200_.jpg' ]
 comments: true
