@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Banks Ron 5 años - 700 ml'
-date: 2020-01-18 22:34:45
+date: 2020-01-20 17:31:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3107fOGWb0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3107fOGWb0L._SL200_.jpg' ]
 comments: true

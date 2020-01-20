@@ -14,10 +14,10 @@ comparePrice: 1599 EUR
 inStock: true
 ---
 
-Tienes [Apple MacBook Air  de 13 pulgadas  Modelo Anterior  8GB RAM  256GB de almacenamiento  Intel Core i5 a 1 6GHz  - Gris Espacial](https://www.amazon.com/dp/B07K2NZM4M/?tag=redken08-20) a precio de oferta de 1180.76 EUR (original: 1599 EUR) en el siguiente enlace!
+Está [Apple MacBook Air  de 13 pulgadas  Modelo Anterior  8GB RAM  256GB de almacenamiento  Intel Core i5 a 1 6GHz  - Gris Espacial](https://www.amazon.com/dp/B07K2NZM4M/?tag=redken08-20) por 1180.76 EUR (original: 1599 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QNzMvYUJL._SL200_.jpg)](https://www.amazon.com/dp/B07K2NZM4M/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07K2NZM4M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07K2NZM4M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

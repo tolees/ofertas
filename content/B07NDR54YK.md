@@ -14,10 +14,10 @@ comparePrice: 849 EUR
 inStock: true
 ---
 
-Tienes [MEDION X30 RGB - Ordenador de sobremesa gaming  Intel Core i5-9400  8GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1050Ti-4GB  Windows 10  Negro](https://www.amazon.com/dp/B07NDR54YK/?tag=redken08-20) a precio de oferta de 599.99 EUR (original: 849 EUR) en el siguiente enlace!
+Está [MEDION X30 RGB - Ordenador de sobremesa gaming  Intel Core i5-9400  8GB RAM  1TB HDD + 256GB SSD  Nvidia GTX1050Ti-4GB  Windows 10  Negro](https://www.amazon.com/dp/B07NDR54YK/?tag=redken08-20) por 599.99 EUR (original: 849 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg)](https://www.amazon.com/dp/B07NDR54YK/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07NDR54YK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NDR54YK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

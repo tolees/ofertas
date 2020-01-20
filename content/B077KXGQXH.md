@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VICTSING Ratón Inalámbrico Bluetooth 4.0'
-date: 2020-01-06 13:14:13
+date: 2020-01-20 17:22:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v2vYpPTcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v2vYpPTcL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 18.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO: Batman 3 - Essentials](https://www.amazon.com/dp/B01HUDGIX2/?tag=redken08-20) a 13.99 EUR (original: 18.99 EUR) en el siguiente enlace!
+Está [LEGO: Batman 3 - Essentials](https://www.amazon.com/dp/B01HUDGIX2/?tag=redken08-20) por 13.99 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61DgLaWG9QL._SL200_.jpg)](https://www.amazon.com/dp/B01HUDGIX2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01HUDGIX2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01HUDGIX2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

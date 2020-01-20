@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Receptor Bluetooth Jack 3.5 MM  ieGeek A'
-date: 2020-01-19 10:57:01
+date: 2020-01-20 16:22:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D1175MIgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D1175MIgL._SL200_.jpg' ]
 comments: true

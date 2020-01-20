@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PDP - Mando Smash Pad Pro Con Cable  Pik'
-date: 2020-01-19 16:34:58
+date: 2020-01-20 16:52:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HC0KNeOML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HC0KNeOML._SL200_.jpg' ]
 comments: true

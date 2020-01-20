@@ -14,10 +14,10 @@ comparePrice: 21.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Verbatim Store  N  Go - Memoria USB 3.0  Ultra Velocidad de 128 GB  Negro](https://www.amazon.com/dp/B00BXEIUQS/?tag=redken08-20) a 14.99 EUR (original: 21.7 EUR) en el siguiente enlace!
+Está [Verbatim Store  N  Go - Memoria USB 3.0  Ultra Velocidad de 128 GB  Negro](https://www.amazon.com/dp/B00BXEIUQS/?tag=redken08-20) por 14.99 EUR (original: 21.7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BOAdSDFHL._SL200_.jpg)](https://www.amazon.com/dp/B00BXEIUQS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00BXEIUQS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00BXEIUQS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

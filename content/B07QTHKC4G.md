@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HOMIEE Mochila para Portátil con Puerto '
-date: 2020-01-12 14:13:17
+date: 2020-01-20 18:42:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5108FqjNOrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5108FqjNOrL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolo Magic 1 LAN - Starter Kit de Powe'
-date: 2020-01-18 10:38:54
+date: 2020-01-20 18:09:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZHTGmEnUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZHTGmEnUL._SL200_.jpg' ]
 comments: true

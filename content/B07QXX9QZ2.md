@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XLTOK Cable USB Tipo C  Cable USB C [ 3P'
-date: 2019/12/20 20:02:03 +0000
+date: 2020-01-20 17:28:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41quLeFtJVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41quLeFtJVL._SL200_.jpg' ]
 comments: true
