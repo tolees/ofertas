@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NAIXUES Smartwatch  Reloj Inteligente IP'
-date: 2020-01-18 16:22:07
+date: 2020-01-20 08:20:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511c6fA2jiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511c6fA2jiL._SL200_.jpg' ]
 comments: true

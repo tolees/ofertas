@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75242 - Resistance Tie In'
-date: 2019/11/16 09:55:08 +0000
+title: 'LEGO 75242 Star Wars Black Ace Tie Inter'
+date: 2020-01-20 08:38:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WF8vf0kwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WF8vf0kwL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07FNTTF4K
 description:
-actualPrice: 32.2 EUR
-comparePrice: 49.99 EUR
+actualPrice: 33.74 GBP
+comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Star Wars 75242 - Resistance Tie Interceptor mit Allianz-Pilot  Spielzeug](https://www.amazon.com/dp/B07FNTTF4K/?tag=redken08-20) a 32.2 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [LEGO 75242 Star Wars Black Ace Tie Interceptor Starfighter Set Includes mini BB-8 and Poe Dameron Minifigures  Resistance TV Show  Multi-Colour](https://www.amazon.com/dp/B07FNTTF4K/?tag=redken08-20) a precio de oferta de 33.74 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51WF8vf0kwL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTTF4K/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNTTF4K/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FNTTF4K/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [LEGO Harry Potter und der Gefangene von Askaban - Der Fahrende Ritter  75957   Bauset](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [LEGO Harry Potter und der Gefangene von Askaban - Der Fahrende Ritter  75957   Bauset](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) a precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg)](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

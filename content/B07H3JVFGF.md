@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adoric LED- Luz Lectura Lámpara de Escri'
-date: 2020-01-14 16:47:38
+date: 2020-01-20 08:47:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xbI8LA5pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xbI8LA5pL._SL200_.jpg' ]
 comments: true
