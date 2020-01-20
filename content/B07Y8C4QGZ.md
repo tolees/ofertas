@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOOBUR Smartwatch  IP68 Impermeable Relo'
-date: 2020-01-13 09:16:53
+date: 2020-01-19 19:31:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41unHg91rLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41unHg91rLL._SL200_.jpg' ]
 comments: true

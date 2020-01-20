@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'seQoya - Crooked | Reloj de Madera con E'
-date: 2020-01-16 13:46:08
+date: 2020-01-19 23:42:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FGXVli6aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FGXVli6aL._SL200_.jpg' ]
 comments: true

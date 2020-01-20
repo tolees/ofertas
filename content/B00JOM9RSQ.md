@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fantasy Flight Games Star Wars - Tantive'
-date: 2020-01-18 07:30:15
+date: 2020-01-20 02:43:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UVmEsifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UVmEsifL._SL200_.jpg' ]
 comments: true

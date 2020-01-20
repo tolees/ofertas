@@ -14,10 +14,10 @@ comparePrice: 699 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus E-M10 Mark-II - Cámara Evil de 16.1 MP  Pantalla 3"  estabilizador óptico  vídeo Full HD  WiFi  Kit cámara con Objetivo 14-42mm EZ Zoom   Plata](https://www.amazon.com/dp/B013QWFKZ8/?tag=redken08-20) a 462.76 EUR (original: 699 EUR) en el siguiente enlace!
+Está [Olympus E-M10 Mark-II - Cámara Evil de 16.1 MP  Pantalla 3"  estabilizador óptico  vídeo Full HD  WiFi  Kit cámara con Objetivo 14-42mm EZ Zoom   Plata](https://www.amazon.com/dp/B013QWFKZ8/?tag=redken08-20) por 462.76 EUR (original: 699 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Mm-VPUB6L._SL200_.jpg)](https://www.amazon.com/dp/B013QWFKZ8/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B013QWFKZ8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B013QWFKZ8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

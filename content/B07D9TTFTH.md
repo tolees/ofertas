@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Google Wifi - Router inalámbrico  3 Pack'
-date: 2020-01-14 08:38:05
+date: 2020-01-19 19:50:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/212yuX23jeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/212yuX23jeL._SL200_.jpg' ]
 comments: true

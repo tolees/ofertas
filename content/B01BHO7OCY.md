@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars: El Despertar De La Fuerz'
-date: 2020-01-18 02:38:54
+date: 2020-01-20 02:34:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-IkPzMPNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-IkPzMPNL._SL200_.jpg' ]
 comments: true

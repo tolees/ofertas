@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SCHLEICH 42485 Pferdestall'
-date: 2020-01-17 11:01:07
+date: 2020-01-20 02:24:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EaSyHdYQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EaSyHdYQL._SL200_.jpg' ]
 comments: true

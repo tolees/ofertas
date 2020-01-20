@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reloj Komono Moneypenny Royale para Muje'
-date: 2020-01-18 21:26:36
+date: 2020-01-19 21:27:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IchI8dHXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IchI8dHXL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00O4DAT9Q
 description:
-actualPrice: 41.3 EUR
+actualPrice: 40.78 EUR
 comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [Reloj Komono Moneypenny Royale para Mujer KOM-W1241](https://www.amazon.com/dp/B00O4DAT9Q/?tag=redken08-20) por 41.3 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [Reloj Komono Moneypenny Royale para Mujer KOM-W1241](https://www.amazon.com/dp/B00O4DAT9Q/?tag=redken08-20) por 40.78 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IchI8dHXL._SL200_.jpg)](https://www.amazon.com/dp/B00O4DAT9Q/?tag=redken08-20)
 

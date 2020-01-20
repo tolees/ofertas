@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Gaming PS4 Cascos Gaming de '
-date: 2020-01-14 18:56:59
+date: 2020-01-19 20:34:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N2F3EnEZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N2F3EnEZL._SL200_.jpg' ]
 comments: true

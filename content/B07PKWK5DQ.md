@@ -14,10 +14,10 @@ comparePrice: 57.17 EUR
 inStock: true
 ---
 
-Está [Burton Menswear London Globe Funnel Jacket Chaqueta  Gris  Grey 085   Small para Hombre](https://www.amazon.com/dp/B07PKWK5DQ/?tag=redken08-20) por 23.35 EUR (original: 57.17 EUR) en el siguiente enlace!
+Tienes [Burton Menswear London Globe Funnel Jacket Chaqueta  Gris  Grey 085   Small para Hombre](https://www.amazon.com/dp/B07PKWK5DQ/?tag=redken08-20) a precio de oferta de 23.35 EUR (original: 57.17 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VcQqx2ueL._SL200_.jpg)](https://www.amazon.com/dp/B07PKWK5DQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07PKWK5DQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07PKWK5DQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

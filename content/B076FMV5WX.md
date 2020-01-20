@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lepfun 1 x Rodilleras Compresión  Rodill'
-date: 2020-01-11 09:26:44
+date: 2020-01-19 20:56:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QsmcKTMJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QsmcKTMJL._SL200_.jpg' ]
 comments: true

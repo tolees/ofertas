@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AmazonBasics - Soporte universal para pa'
-date: 2020-01-15 15:51:46
+date: 2020-01-19 20:06:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vEp7xIShL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vEp7xIShL._SL200_.jpg' ]
 comments: true

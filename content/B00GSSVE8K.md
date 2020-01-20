@@ -14,10 +14,10 @@ comparePrice: 174.95 EUR
 inStock: true
 ---
 
-Está [Nike Mercurial Superfly V Cr7 FG  Zapatillas de Fútbol Unisex Niños  Gris Grau  36.5 EU](https://www.amazon.com/dp/B00GSSVE8K/?tag=redken08-20) por 40.95 EUR (original: 174.95 EUR) en el siguiente enlace!
+Tienes [Nike Mercurial Superfly V Cr7 FG  Zapatillas de Fútbol Unisex Niños  Gris Grau  36.5 EU](https://www.amazon.com/dp/B00GSSVE8K/?tag=redken08-20) a precio de oferta de 40.95 EUR (original: 174.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51EYdWLwFvL._SL200_.jpg)](https://www.amazon.com/dp/B00GSSVE8K/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00GSSVE8K/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00GSSVE8K/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
