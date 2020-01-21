@@ -14,10 +14,10 @@ comparePrice: 899.99 EUR
 inStock: true
 ---
 
-Está [Lenovo Ideapad 330  Ordenador Portátil FullHD  Intel Core i5-8300H  8GB de RAM  1TB HDD  Nvidia GTX1050-2GB   NVIDIA GeForce GTX 1050  Windows 10 Home  15.6"](https://www.amazon.com/dp/B07LCDX3YV/?tag=redken08-20) por 599.99 EUR (original: 899.99 EUR) en el siguiente enlace!
+Tienes [Lenovo Ideapad 330  Ordenador Portátil FullHD  Intel Core i5-8300H  8GB de RAM  1TB HDD  Nvidia GTX1050-2GB   NVIDIA GeForce GTX 1050  Windows 10 Home  15.6"](https://www.amazon.com/dp/B07LCDX3YV/?tag=redken08-20) a precio de oferta de 599.99 EUR (original: 899.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41I%2BbH3iEgL._SL200_.jpg)](https://www.amazon.com/dp/B07LCDX3YV/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07LCDX3YV/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07LCDX3YV/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

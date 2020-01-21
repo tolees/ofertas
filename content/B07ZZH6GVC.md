@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Charles Wilson Jersey de Punto Fino de A'
-date: 2020-01-16 08:50:50
+date: 2020-01-21 09:00:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418LJo2ivHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418LJo2ivHL._SL200_.jpg' ]
 comments: true

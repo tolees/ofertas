@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Victure Vigilabebés Inalambrico con cáma'
-date: 2020-01-20 12:07:36
+date: 2020-01-21 15:57:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417l5wbY3HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417l5wbY3HL._SL200_.jpg' ]
 comments: true

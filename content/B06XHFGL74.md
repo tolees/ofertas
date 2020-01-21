@@ -14,10 +14,10 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen HH LIFA Merino Deportivos 3/4 Leggings Thermal Pantalones  Hombre  Black  2XL](https://www.amazon.com/dp/B06XHFGL74/?tag=redken08-20) a 30.72 EUR (original: 70 EUR) en el siguiente enlace!
+Está [Helly Hansen HH LIFA Merino Deportivos 3/4 Leggings Thermal Pantalones  Hombre  Black  2XL](https://www.amazon.com/dp/B06XHFGL74/?tag=redken08-20) por 30.72 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31TpD5PgxRL._SL200_.jpg)](https://www.amazon.com/dp/B06XHFGL74/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B06XHFGL74/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06XHFGL74/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

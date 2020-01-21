@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Arena Cruiser EVO Goggles  Adultos Unise'
-date: 2020-01-03 17:26:24
+date: 2020-01-21 14:05:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lbwaWm-9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lbwaWm-9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07T7KD7XM
 description:
-actualPrice: 9.25 EUR
+actualPrice: 7.66 EUR
 comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Está [Arena Cruiser EVO Goggles  Adultos Unisex  Clear-Blue  TU](https://www.amazon.com/dp/B07T7KD7XM/?tag=redken08-20) por 9.25 EUR (original: 13.99 EUR) en el siguiente enlace!
+Está [Arena Cruiser EVO Goggles  Adultos Unisex  Clear-Blue  TU](https://www.amazon.com/dp/B07T7KD7XM/?tag=redken08-20) por 7.66 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lbwaWm-9L._SL200_.jpg)](https://www.amazon.com/dp/B07T7KD7XM/?tag=redken08-20)
 

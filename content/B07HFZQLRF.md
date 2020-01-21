@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 247v2  Zapatillas para Hombr'
-date: 2019/12/27 07:02:58 +0000
+date: 2020-01-21 15:42:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07HFZQLRF
 description:
-actualPrice: 46.5 EUR
+actualPrice: 54.49 EUR
 comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance 247v2  Zapatillas para Hombre  Plateado  Steel Steel   42 EU](https://www.amazon.com/dp/B07HFZQLRF/?tag=redken08-20) por 46.5 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance 247v2  Zapatillas para Hombre  Plateado  Steel Steel   42 EU](https://www.amazon.com/dp/B07HFZQLRF/?tag=redken08-20) por 54.49 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41N-oqCPhoL._SL200_.jpg)](https://www.amazon.com/dp/B07HFZQLRF/?tag=redken08-20)
 

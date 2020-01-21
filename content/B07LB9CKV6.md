@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Yoga 530-14ARR Portátil táctil Co'
-date: 2020-01-20 12:48:00
+date: 2020-01-21 15:42:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31acB1ydXjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31acB1ydXjL._SL200_.jpg' ]
 comments: true

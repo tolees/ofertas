@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MEDION S3409 - MD 60999 - Ordenador port'
-date: 2020-01-19 20:19:40
+date: 2020-01-21 08:32:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nGr4Mf9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nGr4Mf9VL._SL200_.jpg' ]
 comments: true

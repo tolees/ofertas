@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ieGeek Cámara de Vigilancia WiFi Interio'
-date: 2020-01-20 11:59:16
+date: 2020-01-21 13:42:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Gl5Kd3wQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Gl5Kd3wQL._SL200_.jpg' ]
 comments: true

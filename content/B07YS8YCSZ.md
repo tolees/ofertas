@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2019 Auriculares inalámbricos Bluetooth '
-date: 2020-01-16 10:52:32
+date: 2020-01-21 14:00:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419hBKHq0UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419hBKHq0UL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TONGJI Acrylic Display Case For Lego 213'
-date: 2020-01-20 02:16:04
+date: 2020-01-21 09:06:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IRYFQ7HXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IRYFQ7HXL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LOSMILE Bolsa de Mensajero Bandolera de '
-date: 2020-01-08 20:00:06
+date: 2020-01-21 11:03:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fe1TKNAIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fe1TKNAIL._SL200_.jpg' ]
 comments: true

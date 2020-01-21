@@ -14,10 +14,10 @@ comparePrice: 10.49 EUR
 inStock: true
 ---
 
-Tienes [IRIS & LILLY Tanga Body Smooth Mujer  Pack de 3  Morado  Veronica    Talla del fabricante: Small ](https://www.amazon.com/dp/B079RMYFPY/?tag=redken08-20) a precio de oferta de 4.5 EUR (original: 10.49 EUR) en el siguiente enlace!
+Está [IRIS & LILLY Tanga Body Smooth Mujer  Pack de 3  Morado  Veronica    Talla del fabricante: Small ](https://www.amazon.com/dp/B079RMYFPY/?tag=redken08-20) por 4.5 EUR (original: 10.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417kg8ikpwL._SL200_.jpg)](https://www.amazon.com/dp/B079RMYFPY/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B079RMYFPY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B079RMYFPY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

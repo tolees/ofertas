@@ -14,10 +14,10 @@ comparePrice: 12.29 EUR
 inStock: true
 ---
 
-Tienes [Control Remoto de TV Mando a Distancia de Control Remoto de TV Inteligente para HUMAX DTR-T1000  HUMAX DTR-T1010  HUMAX DTR-T2000](https://www.amazon.com/dp/B07MV6PTRB/?tag=redken08-20) a precio de oferta de 4.94 EUR (original: 12.29 EUR) en el siguiente enlace!
+Está [Control Remoto de TV Mando a Distancia de Control Remoto de TV Inteligente para HUMAX DTR-T1000  HUMAX DTR-T1010  HUMAX DTR-T2000](https://www.amazon.com/dp/B07MV6PTRB/?tag=redken08-20) por 4.94 EUR (original: 12.29 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41eHjvunF9L._SL200_.jpg)](https://www.amazon.com/dp/B07MV6PTRB/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07MV6PTRB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MV6PTRB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

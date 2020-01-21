@@ -14,10 +14,10 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [ELEGOO UNO R3 Kit de Coche Robot Inteligente V3.0 Plus Compatible con Arduino IDE con Módulo de Seguimiento de Línea  Sensor Ultrasónico  Módulo IR  Kit Robótico Coche Educativo STEM para Niño  Adulto](https://www.amazon.com/dp/B077PZHM3T/?tag=redken08-20) por 46.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Tienes [ELEGOO UNO R3 Kit de Coche Robot Inteligente V3.0 Plus Compatible con Arduino IDE con Módulo de Seguimiento de Línea  Sensor Ultrasónico  Módulo IR  Kit Robótico Coche Educativo STEM para Niño  Adulto](https://www.amazon.com/dp/B077PZHM3T/?tag=redken08-20) a precio de oferta de 46.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61RfeByqVdL._SL200_.jpg)](https://www.amazon.com/dp/B077PZHM3T/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B077PZHM3T/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B077PZHM3T/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

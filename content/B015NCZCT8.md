@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aigostar Queen 30CDZ - Hervidor de agua '
-date: 2020-01-13 12:25:18
+date: 2020-01-21 14:29:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sXwx6oEDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sXwx6oEDL._SL200_.jpg' ]
 comments: true

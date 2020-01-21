@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop Animation: Simpsons-Bart-Bartm'
-date: 2020-01-18 10:46:56
+date: 2020-01-21 10:33:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OoKyXRJoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OoKyXRJoL._SL200_.jpg' ]
 comments: true

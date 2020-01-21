@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo ThinkPad E590 - Ordenador portáti'
-date: 2020-01-13 13:39:17
+date: 2020-01-21 11:09:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fT6T3Dt8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fT6T3Dt8L._SL200_.jpg' ]
 comments: true

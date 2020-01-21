@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rotuladores para Pizarra Blanca de Smart'
-date: 2020-01-19 12:40:58
+date: 2020-01-21 14:06:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WzVzCh1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WzVzCh1YL._SL200_.jpg' ]
 comments: true

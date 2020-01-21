@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Reebok Ex-o-Fit Clean Logo Int  Zapatill'
-date: 2020-01-17 19:07:58
+date: 2020-01-21 13:03:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LTCe0AzZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LTCe0AzZL._SL200_.jpg' ]
 comments: true

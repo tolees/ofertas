@@ -14,10 +14,10 @@ comparePrice: 33.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Base de maquillaje. Skin79](https://www.amazon.com/dp/B00EQ2M7AY/?tag=redken08-20) a 23.74 EUR (original: 33.9 EUR) en el siguiente enlace!
+Está [Base de maquillaje. Skin79](https://www.amazon.com/dp/B00EQ2M7AY/?tag=redken08-20) por 23.74 EUR (original: 33.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411n%2BfwwH4L._SL200_.jpg)](https://www.amazon.com/dp/B00EQ2M7AY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00EQ2M7AY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00EQ2M7AY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
