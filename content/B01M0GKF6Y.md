@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Manfrotto MB MA-SB-C1 - Funda Avanzada p'
-date: 2020-01-19 11:59:55
+date: 2020-01-20 21:28:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlv1Y3QsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlv1Y3QsL._SL200_.jpg' ]
 comments: true

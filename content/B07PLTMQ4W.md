@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marco Digital de Fotos y Videos  RegeMou'
-date: 2020-01-12 09:15:31
+date: 2020-01-20 20:34:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ADARaMiTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ADARaMiTL._SL200_.jpg' ]
 comments: true

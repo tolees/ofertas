@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP 643A - Cartucho de tóner original Las'
-date: 2019/12/24 11:22:51 +0000
+date: 2020-01-20 19:36:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ICqug-QWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ICqug-QWL._SL200_.jpg' ]
 comments: true

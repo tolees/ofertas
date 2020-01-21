@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Archi'
-date: 2020-01-19 18:16:46
+date: 2020-01-21 00:07:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZywahHTbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZywahHTbL._SL200_.jpg' ]
 comments: true

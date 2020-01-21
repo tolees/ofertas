@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carmex COS 003 Bálsamo labial - 1 tubo'
-date: 2020-01-16 10:17:02
+date: 2020-01-21 01:04:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414jYymvq%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414jYymvq%2BL._SL200_.jpg' ]
 comments: true

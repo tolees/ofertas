@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amzdeal Soporte de fondo para fotografía'
-date: 2019/12/29 02:31:42 +0000
+date: 2020-01-20 20:13:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41baHXc105L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41baHXc105L._SL200_.jpg' ]
 comments: true

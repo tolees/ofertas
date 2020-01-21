@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'READ Reloj para Hombre  Reloj de Cuarzo '
-date: 2020-01-13 15:56:33
+date: 2020-01-20 19:56:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416xXLJMrdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416xXLJMrdL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 23 EUR
 inStock: true
 ---
 
-Tienes [Thermals Camiseta Interior Térmica de Lana Base Layer Hombre  Gris  Medium](https://www.amazon.com/dp/B076KPN7SX/?tag=redken08-20) a precio de oferta de 6.9 EUR (original: 23 EUR) en el siguiente enlace!
+Está [Thermals Camiseta Interior Térmica de Lana Base Layer Hombre  Gris  Medium](https://www.amazon.com/dp/B076KPN7SX/?tag=redken08-20) por 6.9 EUR (original: 23 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41I38TSjxeL._SL200_.jpg)](https://www.amazon.com/dp/B076KPN7SX/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B076KPN7SX/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076KPN7SX/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

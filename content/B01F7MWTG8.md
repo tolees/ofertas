@@ -14,10 +14,10 @@ comparePrice: 12.75 EUR
 inStock: true
 ---
 
-Está [Luxana Phyto Nature Tónico Azul Cabellos Grises y Blancos Tratamiento Capilar - 500 ml](https://www.amazon.com/dp/B01F7MWTG8/?tag=redken08-20) por 8.65 EUR (original: 12.75 EUR) en el siguiente enlace!
+Tienes [Luxana Phyto Nature Tónico Azul Cabellos Grises y Blancos Tratamiento Capilar - 500 ml](https://www.amazon.com/dp/B01F7MWTG8/?tag=redken08-20) a precio de oferta de 8.65 EUR (original: 12.75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31z-d8ky7cL._SL200_.jpg)](https://www.amazon.com/dp/B01F7MWTG8/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01F7MWTG8/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01F7MWTG8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

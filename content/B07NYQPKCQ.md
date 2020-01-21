@@ -14,10 +14,10 @@ comparePrice: 51.99 EUR
 inStock: true
 ---
 
-Está [Quntis Cargador PD USB C 60W Puerto Súper Rápido Adaptador de Viaje Universal QC 3.0 Charger [Cable c a c 1 5m] Enchufe EU UK US para Macbook Pro  Google Pixel 2  Huawei P10/ P9/P20 Blanco ](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20) por 36.99 EUR (original: 51.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Quntis Cargador PD USB C 60W Puerto Súper Rápido Adaptador de Viaje Universal QC 3.0 Charger [Cable c a c 1 5m] Enchufe EU UK US para Macbook Pro  Google Pixel 2  Huawei P10/ P9/P20 Blanco ](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20) a 36.99 EUR (original: 51.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fj7GeYXcL._SL200_.jpg)](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07NYQPKCQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

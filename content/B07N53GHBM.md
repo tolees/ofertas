@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Motorola Moto G7 Play - Smartphone Andro'
-date: 2020-01-19 05:38:12
+date: 2020-01-20 23:51:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L1a3t41gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L1a3t41gL._SL200_.jpg' ]
 comments: true

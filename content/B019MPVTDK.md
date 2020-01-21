@@ -14,10 +14,10 @@ comparePrice: 43.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SUAOKI S9 60m Telémetro láser  Medidor láser Metro láser de ±1.5mm Alta Precisión  Medidión individual  continua  min/max  área  volumen  etc  ](https://www.amazon.com/dp/B019MPVTDK/?tag=redken08-20) a 29.99 EUR (original: 43.99 EUR) en el siguiente enlace!
+Está [SUAOKI S9 60m Telémetro láser  Medidor láser Metro láser de ±1.5mm Alta Precisión  Medidión individual  continua  min/max  área  volumen  etc  ](https://www.amazon.com/dp/B019MPVTDK/?tag=redken08-20) por 29.99 EUR (original: 43.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41W0770ZPNL._SL200_.jpg)](https://www.amazon.com/dp/B019MPVTDK/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B019MPVTDK/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B019MPVTDK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

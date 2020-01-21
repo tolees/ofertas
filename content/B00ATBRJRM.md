@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rotulador punta fina STABILO point 88 - '
-date: 2020-01-12 18:41:56
+date: 2020-01-20 21:24:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xaJk%2BDOvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xaJk%2BDOvL._SL200_.jpg' ]
 comments: true

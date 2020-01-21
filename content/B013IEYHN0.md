@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Lumea Advanced SC1995/00 - Depil'
-date: 2020-01-04 14:31:37
+date: 2020-01-20 19:31:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31--gcX%2BE-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31--gcX%2BE-L._SL200_.jpg' ]
 comments: true

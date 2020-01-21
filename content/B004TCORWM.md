@@ -14,10 +14,10 @@ comparePrice: 10.97 EUR
 inStock: true
 ---
 
-Tienes [Trofolastín - Crema cuidado del pezón  previene la aparición de grietas - 50 ml](https://www.amazon.com/dp/B004TCORWM/?tag=redken08-20) a precio de oferta de 7.95 EUR (original: 10.97 EUR) en el siguiente enlace!
+Ahora mismo tienes [Trofolastín - Crema cuidado del pezón  previene la aparición de grietas - 50 ml](https://www.amazon.com/dp/B004TCORWM/?tag=redken08-20) a 7.95 EUR (original: 10.97 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IIVEJn0tL._SL200_.jpg)](https://www.amazon.com/dp/B004TCORWM/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B004TCORWM/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B004TCORWM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
