@@ -14,10 +14,10 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Tienes [Umbro Oblivion Camiseta de fútbol  Hombre  Amarillo  XXL](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20) a precio de oferta de 5.95 EUR (original: 9 EUR) en el siguiente enlace!
+Está [Umbro Oblivion Camiseta de fútbol  Hombre  Amarillo  XXL](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20) por 5.95 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Q-F6jejFL._SL200_.jpg)](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01N3QBX1G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

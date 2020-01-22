@@ -14,10 +14,10 @@ comparePrice: 83.39 GBP
 inStock: true
 ---
 
-Tienes [Plantronics BackBeat GO 2 Wireless Earbuds with Charge case - Black  Retail packaging ](https://www.amazon.com/dp/B00FNABGKU/?tag=redken08-20) a precio de oferta de 44.99 GBP (original: 83.39 GBP) en el siguiente enlace!
+Está [Plantronics BackBeat GO 2 Wireless Earbuds with Charge case - Black  Retail packaging ](https://www.amazon.com/dp/B00FNABGKU/?tag=redken08-20) por 44.99 GBP (original: 83.39 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/215w53BTOOL._SL200_.jpg)](https://www.amazon.com/dp/B00FNABGKU/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00FNABGKU/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00FNABGKU/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

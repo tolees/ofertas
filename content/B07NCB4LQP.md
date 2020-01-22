@@ -14,10 +14,10 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans Ridleys I Camisa  Blanco  White 800   X-Small para Hombre](https://www.amazon.com/dp/B07NCB4LQP/?tag=redken08-20) a 11.56 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Pepe Jeans Ridleys I Camisa  Blanco  White 800   X-Small para Hombre](https://www.amazon.com/dp/B07NCB4LQP/?tag=redken08-20) por 11.56 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KpmmK4ekL._SL200_.jpg)](https://www.amazon.com/dp/B07NCB4LQP/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07NCB4LQP/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NCB4LQP/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

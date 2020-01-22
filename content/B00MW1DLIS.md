@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexxor 239-6067-44 - Reloj de cuarzo par'
-date: 2020-01-14 09:28:38
+date: 2020-01-22 08:46:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E46-aVPWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E46-aVPWL._SL200_.jpg' ]
 comments: true

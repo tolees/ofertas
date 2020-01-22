@@ -14,10 +14,10 @@ comparePrice: 72.08 GBP
 inStock: true
 ---
 
-Tienes [Verschiedene - Joy-it Camera Module RB-Camera-WW](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20) a precio de oferta de 43.21 GBP (original: 72.08 GBP) en el siguiente enlace!
+Está [Verschiedene - Joy-it Camera Module RB-Camera-WW](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20) por 43.21 GBP (original: 72.08 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51M5oDmoeKL._SL200_.jpg)](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01BBZCUI2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

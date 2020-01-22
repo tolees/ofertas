@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75524 Star Wars Chirrut Imwe'
-date: 2020-01-21 09:02:29
+date: 2020-01-22 09:41:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PMs4UDWNL._SL200_.jpg' ]
 comments: true

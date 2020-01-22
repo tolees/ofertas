@@ -14,10 +14,10 @@ comparePrice: 300 EUR
 inStock: true
 ---
 
-Tienes [Sony SAL55200-2 - Objetivo para Sony  Distancia Focal 82.5-300mm  Apertura f/4-45  Zoom óptico 3.6X   Negro](https://www.amazon.com/dp/B000XACCC6/?tag=redken08-20) a precio de oferta de 224.99 EUR (original: 300 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SAL55200-2 - Objetivo para Sony  Distancia Focal 82.5-300mm  Apertura f/4-45  Zoom óptico 3.6X   Negro](https://www.amazon.com/dp/B000XACCC6/?tag=redken08-20) a 224.99 EUR (original: 300 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RBJu5ZklL._SL200_.jpg)](https://www.amazon.com/dp/B000XACCC6/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B000XACCC6/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B000XACCC6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

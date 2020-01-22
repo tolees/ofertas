@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rollei Actioncam 560 Touch - WiFi Action'
-date: 2019/11/30 15:56:40 +0000
+date: 2020-01-22 08:38:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy-ubugLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hy-ubugLL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 94.95 EUR
 inStock: true
 ---
 
-Tienes [adidas Originals Stan Smith  Zapatillas de Deporte Unisex adulto  Blanco  Core White/Running White/New Navy   46 2/3 EU](https://www.amazon.com/dp/B00MHPC75W/?tag=redken08-20) a precio de oferta de 63.89 EUR (original: 94.95 EUR) en el siguiente enlace!
+Está [adidas Originals Stan Smith  Zapatillas de Deporte Unisex adulto  Blanco  Core White/Running White/New Navy   46 2/3 EU](https://www.amazon.com/dp/B00MHPC75W/?tag=redken08-20) por 63.89 EUR (original: 94.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31NR7%2B1TzJL._SL200_.jpg)](https://www.amazon.com/dp/B00MHPC75W/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00MHPC75W/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00MHPC75W/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

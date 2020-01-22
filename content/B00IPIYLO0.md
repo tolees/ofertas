@@ -14,10 +14,10 @@ comparePrice: 72.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch PSM 100 A - Multilijadora  3 hojas de lija K 80/ K 120/ K 160  maletín  100 W  nº de carreras en vacío: 26.000 opm  Ø circuito oscilante: 1 4 mm ](https://www.amazon.com/dp/B00IPIYLO0/?tag=redken08-20) a 53.89 EUR (original: 72.99 EUR) en el siguiente enlace!
+Está [Bosch PSM 100 A - Multilijadora  3 hojas de lija K 80/ K 120/ K 160  maletín  100 W  nº de carreras en vacío: 26.000 opm  Ø circuito oscilante: 1 4 mm ](https://www.amazon.com/dp/B00IPIYLO0/?tag=redken08-20) por 53.89 EUR (original: 72.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ggg0k9VrL._SL200_.jpg)](https://www.amazon.com/dp/B00IPIYLO0/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00IPIYLO0/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00IPIYLO0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
