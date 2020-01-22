@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Original Xiaomi MiBand Fitness Tracker  '
-date: 2020-01-19 21:02:13
+date: 2020-01-22 14:25:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bijGBKHYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bijGBKHYL._SL200_.jpg' ]
 comments: true

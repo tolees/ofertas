@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BAIGIO Bolso de Fiesta Noche de Moda par'
-date: 2020-01-02 18:57:16
+date: 2020-01-22 14:48:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZUTbZgrmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZUTbZgrmL._SL200_.jpg' ]
 comments: true

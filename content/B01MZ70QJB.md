@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1home Soporte para Monitores y La Base A'
-date: 2020-01-21 14:15:07
+date: 2020-01-22 15:24:26
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true

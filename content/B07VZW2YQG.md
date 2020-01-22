@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gel de Aloe Vera  100% Orgánico Aloe Ver'
-date: 2019/10/23 13:39:37 +0000
+date: 2020-01-22 16:11:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O11KpV75L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O11KpV75L._SL200_.jpg' ]
 comments: true

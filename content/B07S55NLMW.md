@@ -14,10 +14,10 @@ comparePrice: 69.44 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FIFA 20 - Standard Edition - PlayStation 4 [Importación alemana]](https://www.amazon.com/dp/B07S55NLMW/?tag=redken08-20) a 48.91 EUR (original: 69.44 EUR) en el siguiente enlace!
+Está [FIFA 20 - Standard Edition - PlayStation 4 [Importación alemana]](https://www.amazon.com/dp/B07S55NLMW/?tag=redken08-20) por 48.91 EUR (original: 69.44 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg)](https://www.amazon.com/dp/B07S55NLMW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07S55NLMW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07S55NLMW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

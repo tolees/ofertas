@@ -14,10 +14,10 @@ comparePrice: 43.61 EUR
 inStock: true
 ---
 
-Está [Equipo fotográfico portátil de Photo Booster de Mini Cabina de fotografía portátil Caja de luz de fotografía Plegable con Brillo 2x20 Cubo Tira de LED 8"6 Colores de Fondo  Multi-Colord ](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20) por 16.15 EUR (original: 43.61 EUR) en el siguiente enlace!
+Tienes [Equipo fotográfico portátil de Photo Booster de Mini Cabina de fotografía portátil Caja de luz de fotografía Plegable con Brillo 2x20 Cubo Tira de LED 8"6 Colores de Fondo  Multi-Colord ](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20) a precio de oferta de 16.15 EUR (original: 43.61 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IaXkT-H5L._SL200_.jpg)](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07Z6HHMVQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huntvp Chaleco Táctico Militar al Aire L'
-date: 2019/12/07 18:53:54 +0000
+date: 2020-01-22 15:10:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410BjdtdMgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410BjdtdMgL._SL200_.jpg' ]
 comments: true
