@@ -14,10 +14,10 @@ comparePrice: 36.39 EUR
 inStock: true
 ---
 
-Tienes [Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Crema de Vainilla Francesa  29 Porciones  900 gr](https://www.amazon.com/dp/B002DYIZHQ/?tag=redken08-20) a precio de oferta de 22.99 EUR (original: 36.39 EUR) en el siguiente enlace!
+Está [Optimum Nutrition ON Gold Standard 100% Whey Proteína en Polvo Suplementos Deportivos con Glutamina y Aminoacidos Micronizados Incluyendo BCAA  Crema de Vainilla Francesa  29 Porciones  900 gr](https://www.amazon.com/dp/B002DYIZHQ/?tag=redken08-20) por 22.99 EUR (original: 36.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zF9T8alYL._SL200_.jpg)](https://www.amazon.com/dp/B002DYIZHQ/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B002DYIZHQ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B002DYIZHQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

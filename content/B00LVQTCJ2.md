@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Roccat Tyon - Ratón Gaming  Sensor Láser'
-date: 2019/10/30 07:10:37 +0000
+title: 'ROCCAT Tyon Multi-Button 8200dpi Laser R'
+date: 2019/12/20 14:20:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lwTMDlsPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lwTMDlsPL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00LVQTCJ2
 description:
-actualPrice: 61 EUR
-comparePrice: 109.99 EUR
+actualPrice: 24.99 GBP
+comparePrice: 79.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Roccat Tyon - Ratón Gaming  Sensor Láser 8200 dpi  14 Teclas  Interruptor análogo de Pulgar  Blanco](https://www.amazon.com/dp/B00LVQTCJ2/?tag=redken08-20) a 61 EUR (original: 109.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [ROCCAT Tyon Multi-Button 8200dpi Laser R3 Sensor USB Gaming Mouse  1.8m  INT-ROC-11-851-TYON-WHITE](https://www.amazon.com/dp/B00LVQTCJ2/?tag=redken08-20) a 24.99 GBP (original: 79.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31lwTMDlsPL._SL200_.jpg)](https://www.amazon.com/dp/B00LVQTCJ2/?tag=redken08-20)
 

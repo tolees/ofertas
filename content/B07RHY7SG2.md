@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teclados Gaming  TedGem Teclado Gaming  '
-date: 2020-01-21 12:44:30
+date: 2020-01-22 13:08:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p8aCFocbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p8aCFocbL._SL200_.jpg' ]
 comments: true

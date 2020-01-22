@@ -14,10 +14,10 @@ comparePrice: 2.49 GBP
 inStock: true
 ---
 
-Está [Disney Frozen Anker Elsa & Anna Carry Along Travel Colouring Kit](https://www.amazon.com/dp/B00OHFDZW4/?tag=redken08-20) por 1.05 GBP (original: 2.49 GBP) en el siguiente enlace!
+Tienes [Disney Frozen Anker Elsa & Anna Carry Along Travel Colouring Kit](https://www.amazon.com/dp/B00OHFDZW4/?tag=redken08-20) a precio de oferta de 1.05 GBP (original: 2.49 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pSi7VNC1L._SL200_.jpg)](https://www.amazon.com/dp/B00OHFDZW4/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00OHFDZW4/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00OHFDZW4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
