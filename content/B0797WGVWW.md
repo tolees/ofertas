@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Hue White and Color Ambiance Kit'
-date: 2020-01-13 19:04:51
+date: 2020-01-21 20:35:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LJSsXRc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LJSsXRc9L._SL200_.jpg' ]
 comments: true

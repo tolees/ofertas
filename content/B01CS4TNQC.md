@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TerraMaster D2-310 USB Tipo C Disco Duro'
-date: 2020-01-16 08:10:33
+date: 2020-01-21 21:22:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t-jNTBf-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t-jNTBf-L._SL200_.jpg' ]
 comments: true

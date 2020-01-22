@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 9457 Hausmeister mit Kiosk'
-date: 2020-01-20 11:15:55
+date: 2020-01-21 18:44:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v9KtanoTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v9KtanoTL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp LC-55UI8652E - UHD Smart TV Slim d'
-date: 2020-01-13 17:28:58
+date: 2020-01-21 19:30:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510GQyle9WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510GQyle9WL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YABER Arrancador de Coches  1200A Arranc'
-date: 2019/12/26 20:00:36 +0000
+date: 2020-01-21 20:42:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dO0OaeZoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dO0OaeZoL._SL200_.jpg' ]
 comments: true

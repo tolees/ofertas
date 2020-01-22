@@ -14,10 +14,10 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [Corsair SCIMITAR PRO RGB Optisch Gaming Maus  RGB-LED-Hintergrundbeleuchtung  16000 DPI  gelb](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20) por 54.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Tienes [Corsair SCIMITAR PRO RGB Optisch Gaming Maus  RGB-LED-Hintergrundbeleuchtung  16000 DPI  gelb](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20) a precio de oferta de 54.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KgYAQLC9L._SL200_.jpg)](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01N4GGBFM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

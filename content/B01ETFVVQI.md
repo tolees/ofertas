@@ -14,10 +14,10 @@ comparePrice: 159.91 EUR
 inStock: true
 ---
 
-Tienes [Imperial Confort Oslo 24 Colchón  Poliéster  Blanco  150 x 180](https://www.amazon.com/dp/B01ETFVVQI/?tag=redken08-20) a precio de oferta de 119.93 EUR (original: 159.91 EUR) en el siguiente enlace!
+Está [Imperial Confort Oslo 24 Colchón  Poliéster  Blanco  150 x 180](https://www.amazon.com/dp/B01ETFVVQI/?tag=redken08-20) por 119.93 EUR (original: 159.91 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WjwyvFK1L._SL200_.jpg)](https://www.amazon.com/dp/B01ETFVVQI/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01ETFVVQI/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01ETFVVQI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

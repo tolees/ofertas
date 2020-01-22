@@ -14,10 +14,10 @@ comparePrice: 589 EUR
 inStock: true
 ---
 
-Tienes [Roberts Radio BluTune 200 Dab+ - Reproductor de Audio  con Bluetooth  Reproductor de CD  grabadora  SD  USB  Blanco](https://www.amazon.com/dp/B008RXWMYO/?tag=redken08-20) a precio de oferta de 399.3 EUR (original: 589 EUR) en el siguiente enlace!
+Está [Roberts Radio BluTune 200 Dab+ - Reproductor de Audio  con Bluetooth  Reproductor de CD  grabadora  SD  USB  Blanco](https://www.amazon.com/dp/B008RXWMYO/?tag=redken08-20) por 399.3 EUR (original: 589 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41NHu6h5ZaL._SL200_.jpg)](https://www.amazon.com/dp/B008RXWMYO/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B008RXWMYO/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B008RXWMYO/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casio EDIFICE Reloj en caja sólida de ac'
-date: 2020-01-13 20:31:51
+date: 2020-01-21 20:41:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41spPtgSkfL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SYLVANIAN FAMILIES- Village Cake Shop Mi'
-date: 2019/12/05 05:31:32 +0000
+title: 'Sylvanian Families - Village Cake Shop'
+date: 2019/12/30 22:53:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61CVXP2p28L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61CVXP2p28L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01BREAV56
 description:
-actualPrice: 43.99 EUR
-comparePrice: 67.76 EUR
+actualPrice: 21 GBP
+comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [SYLVANIAN FAMILIES- Village Cake Shop Mini muñecas y Accesorios  Multicolor  Epoch para Imaginar 5263 ](https://www.amazon.com/dp/B01BREAV56/?tag=redken08-20) a 43.99 EUR (original: 67.76 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sylvanian Families - Village Cake Shop](https://www.amazon.com/dp/B01BREAV56/?tag=redken08-20) a 21 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61CVXP2p28L._SL200_.jpg)](https://www.amazon.com/dp/B01BREAV56/?tag=redken08-20)
 

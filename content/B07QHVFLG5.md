@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KFD 19V 65W Power Adapter Netzteil Ladeg'
-date: 2020-01-20 10:59:44
+date: 2020-01-21 18:16:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z3CBbLK8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z3CBbLK8L._SL200_.jpg' ]
 comments: true

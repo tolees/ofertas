@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cámara DV180 16MP Mini vídeo Digital con'
-date: 2020-01-06 12:37:40
+date: 2020-01-22 07:28:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg' ]
 comments: true

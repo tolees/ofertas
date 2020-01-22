@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gillette mach-3 Cartridge - Pack de 4'
-date: 2020-01-15 08:43:28
+date: 2020-01-21 19:22:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51swtjuoSCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51swtjuoSCL._SL200_.jpg' ]
 comments: true

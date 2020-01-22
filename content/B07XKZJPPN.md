@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TXXCI Acrylic Display Case/Box Dustproof'
-date: 2020-01-20 10:45:27
+date: 2020-01-21 18:05:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jg-cqGPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jg-cqGPSL._SL200_.jpg' ]
 comments: true

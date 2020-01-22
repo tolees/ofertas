@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'adidas N-5923  Zapatillas de Gimnasia pa'
-date: 2019/11/01 14:41:09 +0000
+date: 2020-01-22 06:02:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07JZ4XKP8
 description:
-actualPrice: 46.81 EUR
+actualPrice: 29.32 EUR
 comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Tienes [adidas N-5923  Zapatillas de Gimnasia para Hombre  Gris  Grey Six/Core Black/Ftwr White   42 EU](https://www.amazon.com/dp/B07JZ4XKP8/?tag=redken08-20) a precio de oferta de 46.81 EUR (original: 89.95 EUR) en el siguiente enlace!
+Tienes [adidas N-5923  Zapatillas de Gimnasia para Hombre  Gris  Grey Six/Core Black/Ftwr White   42 EU](https://www.amazon.com/dp/B07JZ4XKP8/?tag=redken08-20) a precio de oferta de 29.32 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg)](https://www.amazon.com/dp/B07JZ4XKP8/?tag=redken08-20)
 

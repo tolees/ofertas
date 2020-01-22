@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 545 - Gamepad inalámbri'
-date: 2020-01-19 12:57:28
+date: 2020-01-21 22:28:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MfKvpLWAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MfKvpLWAL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00ZIJXTEW
 description:
-actualPrice: 27.38 EUR
+actualPrice: 25 EUR
 comparePrice: 36.78 EUR
 inStock: true
 ---
 
-Está [Trust Gaming GXT 545 - Gamepad inalámbrico para Playstation 3 y PC](https://www.amazon.com/dp/B00ZIJXTEW/?tag=redken08-20) por 27.38 EUR (original: 36.78 EUR) en el siguiente enlace!
+Está [Trust Gaming GXT 545 - Gamepad inalámbrico para Playstation 3 y PC](https://www.amazon.com/dp/B00ZIJXTEW/?tag=redken08-20) por 25 EUR (original: 36.78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MfKvpLWAL._SL200_.jpg)](https://www.amazon.com/dp/B00ZIJXTEW/?tag=redken08-20)
 

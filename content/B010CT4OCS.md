@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teka MWE 225 FI -  Microondas de integra'
-date: 2020-01-19 08:57:50
+date: 2020-01-22 00:11:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T4nv5z%2BbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T4nv5z%2BbL._SL200_.jpg' ]
 comments: true

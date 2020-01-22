@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 9082 City Life Florist Toy Set'
-date: 2019/12/30 22:59:52 +0000
+date: 2020-01-22 01:11:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61OSk-cTDSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61OSk-cTDSL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01LX4TPKU
 description:
-actualPrice: 7.85 GBP
+actualPrice: 8.97 GBP
 comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Tienes [Playmobil 9082 City Life Florist Toy Set](https://www.amazon.com/dp/B01LX4TPKU/?tag=redken08-20) a precio de oferta de 7.85 GBP (original: 12.99 GBP) en el siguiente enlace!
+Tienes [Playmobil 9082 City Life Florist Toy Set](https://www.amazon.com/dp/B01LX4TPKU/?tag=redken08-20) a precio de oferta de 8.97 GBP (original: 12.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61OSk-cTDSL._SL200_.jpg)](https://www.amazon.com/dp/B01LX4TPKU/?tag=redken08-20)
 

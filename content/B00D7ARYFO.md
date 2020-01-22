@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teka MWE 230 G Microondas con grill  125'
-date: 2019/11/16 14:28:38 +0000
+date: 2020-01-21 22:48:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edhKSFehL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41edhKSFehL._SL200_.jpg' ]
 comments: true
