@@ -14,10 +14,10 @@ comparePrice: 159 EUR
 inStock: true
 ---
 
-Está [Chicco Polly 2 Start Trona y hamaca transformable y compacta  con 4 ruedas y freno  de 0 a 3 años  diseño gato rosa  Miss Pink ](https://www.amazon.com/dp/B07GXNMHWX/?tag=redken08-20) por 99 EUR (original: 159 EUR) en el siguiente enlace!
+Tienes [Chicco Polly 2 Start Trona y hamaca transformable y compacta  con 4 ruedas y freno  de 0 a 3 años  diseño gato rosa  Miss Pink ](https://www.amazon.com/dp/B07GXNMHWX/?tag=redken08-20) a precio de oferta de 99 EUR (original: 159 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Eb8TwrtrL._SL200_.jpg)](https://www.amazon.com/dp/B07GXNMHWX/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07GXNMHWX/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07GXNMHWX/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

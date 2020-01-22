@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Linksys WRT54GL-EU - Router Wi-Fi Wirele'
-date: 2020-01-11 11:54:55
+date: 2020-01-22 18:26:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kDtCN6w9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kDtCN6w9L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B000BZURG6
 description:
-actualPrice: 27 EUR
+actualPrice: 25.31 EUR
 comparePrice: 50.55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Linksys WRT54GL-EU - Router Wi-Fi Wireless-G  2 Antenas externas  4 Puertos Fast Ethernet  2 4 GHz  54 Mbps   Azul](https://www.amazon.com/dp/B000BZURG6/?tag=redken08-20) a 27 EUR (original: 50.55 EUR) en el siguiente enlace!
+Ahora mismo tienes [Linksys WRT54GL-EU - Router Wi-Fi Wireless-G  2 Antenas externas  4 Puertos Fast Ethernet  2 4 GHz  54 Mbps   Azul](https://www.amazon.com/dp/B000BZURG6/?tag=redken08-20) a 25.31 EUR (original: 50.55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kDtCN6w9L._SL200_.jpg)](https://www.amazon.com/dp/B000BZURG6/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dremel Platinum Edition 4000 - Multiherr'
-date: 2020-01-14 10:27:50
+date: 2020-01-22 18:41:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vL%2BnWY2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vL%2BnWY2-L._SL200_.jpg' ]
 comments: true

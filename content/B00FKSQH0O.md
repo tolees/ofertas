@@ -14,10 +14,10 @@ comparePrice: 26.9 EUR
 inStock: true
 ---
 
-Tienes [Jim Beam 12Y Signature Craft Whisky Bourbon - 700ml](https://www.amazon.com/dp/B00FKSQH0O/?tag=redken08-20) a precio de oferta de 19.99 EUR (original: 26.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jim Beam 12Y Signature Craft Whisky Bourbon - 700ml](https://www.amazon.com/dp/B00FKSQH0O/?tag=redken08-20) a 19.99 EUR (original: 26.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TTpicOOJL._SL200_.jpg)](https://www.amazon.com/dp/B00FKSQH0O/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00FKSQH0O/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00FKSQH0O/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

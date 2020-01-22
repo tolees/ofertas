@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '[42 LED / 3 Modos ] SEZAC Luces solares '
-date: 2020-01-20 17:05:40
+date: 2020-01-22 16:48:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eHxN02CYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eHxN02CYL._SL200_.jpg' ]
 comments: true

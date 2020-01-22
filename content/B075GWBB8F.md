@@ -14,10 +14,10 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 10868 DUPLO Town Farm Pony Stable Toddler Building Set with 2 Horse Figures  Toy for Kids Age 2-5](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20) a 18.17 GBP (original: 24.99 GBP) en el siguiente enlace!
+Está [LEGO 10868 DUPLO Town Farm Pony Stable Toddler Building Set with 2 Horse Figures  Toy for Kids Age 2-5](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20) por 18.17 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61oOzAnZsDL._SL200_.jpg)](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B075GWBB8F/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

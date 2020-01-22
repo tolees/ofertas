@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASUS TUF Gaming FX505DY-BQ024 - Portátil'
-date: 2020-01-20 14:13:33
+date: 2020-01-22 18:50:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cK%2BjyAyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cK%2BjyAyoL._SL200_.jpg' ]
 comments: true

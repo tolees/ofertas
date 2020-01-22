@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-SP900B - Auriculares Deportivos '
-date: 2020-01-15 20:36:03
+date: 2020-01-22 19:07:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319yb4WXhgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319yb4WXhgL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07GFXDNLX
 description:
-actualPrice: 162.54 EUR
+actualPrice: 158.73 EUR
 comparePrice: 280 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony WF-SP900B - Auriculares Deportivos Totalmente inalámbricos  Bluetooth  4GB  Resistente al Agua y Polvo IP65/IP68  Sensor táctil  12h de autonomía con Bluetooth y 21 Interna  Negro](https://www.amazon.com/dp/B07GFXDNLX/?tag=redken08-20) a 162.54 EUR (original: 280 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony WF-SP900B - Auriculares Deportivos Totalmente inalámbricos  Bluetooth  4GB  Resistente al Agua y Polvo IP65/IP68  Sensor táctil  12h de autonomía con Bluetooth y 21 Interna  Negro](https://www.amazon.com/dp/B07GFXDNLX/?tag=redken08-20) a 158.73 EUR (original: 280 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319yb4WXhgL._SL200_.jpg)](https://www.amazon.com/dp/B07GFXDNLX/?tag=redken08-20)
 

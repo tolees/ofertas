@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B PRO 2 2500 CrossAction - Cepillo '
-date: 2020-01-17 13:46:46
+date: 2020-01-22 17:05:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T4vDV5sML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T4vDV5sML._SL200_.jpg' ]
 comments: true

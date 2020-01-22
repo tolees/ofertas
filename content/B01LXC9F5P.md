@@ -14,10 +14,10 @@ comparePrice: 30.71 EUR
 inStock: true
 ---
 
-Tienes [Saint Seiya Box 8 [DVD]](https://www.amazon.com/dp/B01LXC9F5P/?tag=redken08-20) a precio de oferta de 22.8 EUR (original: 30.71 EUR) en el siguiente enlace!
+Está [Saint Seiya Box 8 [DVD]](https://www.amazon.com/dp/B01LXC9F5P/?tag=redken08-20) por 22.8 EUR (original: 30.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/613kzw6adsL._SL200_.jpg)](https://www.amazon.com/dp/B01LXC9F5P/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01LXC9F5P/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LXC9F5P/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
