@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bluetooth CSR 4.0 USB Dongle Adapter  EK'
-date: 2020-01-16 18:13:18
+date: 2020-01-23 01:07:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VLfOa4VyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VLfOa4VyL._SL200_.jpg' ]
 comments: true

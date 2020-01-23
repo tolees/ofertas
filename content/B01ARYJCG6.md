@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Einhell Expert Taladro Power X-Change  T'
-date: 2020-01-10 22:28:05
+date: 2020-01-22 20:03:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fdN94o6DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fdN94o6DL._SL200_.jpg' ]
 comments: true

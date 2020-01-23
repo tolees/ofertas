@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Adaptador de alimentación MagSafe '
-date: 2019-12-31 15:14:08
+date: 2020-01-22 20:26:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Taww7lb2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Taww7lb2L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B004CFT8WK
 description:
-actualPrice: 39.81 EUR
-comparePrice: 79 EUR
+actualPrice: 62.28 EUR
+comparePrice: 85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Apple Adaptador de alimentación MagSafe de 85 vatios  para MacBook Pro ](https://www.amazon.com/dp/B004CFT8WK/?tag=redken08-20) a 39.81 EUR (original: 79 EUR) en el siguiente enlace!
+Ahora mismo tienes [Apple Adaptador de alimentación MagSafe de 85 vatios  para MacBook Pro ](https://www.amazon.com/dp/B004CFT8WK/?tag=redken08-20) a 62.28 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21Taww7lb2L._SL200_.jpg)](https://www.amazon.com/dp/B004CFT8WK/?tag=redken08-20)
 

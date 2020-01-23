@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gigaset DA210 - Teléfono Fijo con Cable '
-date: 2020-01-16 11:31:18
+date: 2020-01-22 23:58:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RpY-eNUcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RpY-eNUcL._SL200_.jpg' ]
 comments: true

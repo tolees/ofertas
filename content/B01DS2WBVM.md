@@ -14,10 +14,10 @@ comparePrice: 18 EUR
 inStock: true
 ---
 
-Está [NIVEA SUN Protege & Hidrata Leche Solar FP50+  1 x 400 ml   protector solar hidratante y resistente al agua con protección UVA/UVB  protección solar muy alta](https://www.amazon.com/dp/B01DS2WBVM/?tag=redken08-20) por 11.29 EUR (original: 18 EUR) en el siguiente enlace!
+Ahora mismo tienes [NIVEA SUN Protege & Hidrata Leche Solar FP50+  1 x 400 ml   protector solar hidratante y resistente al agua con protección UVA/UVB  protección solar muy alta](https://www.amazon.com/dp/B01DS2WBVM/?tag=redken08-20) a 11.29 EUR (original: 18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FfrZTFHXL._SL200_.jpg)](https://www.amazon.com/dp/B01DS2WBVM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01DS2WBVM/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01DS2WBVM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

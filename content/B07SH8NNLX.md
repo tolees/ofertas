@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IKOHS Retro Fridge - Frigorífico con dis'
-date: 2019/12/30 13:51:22 +0000
+date: 2020-01-22 22:01:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07SH8NNLX
 description:
-actualPrice: 159.95 EUR
+actualPrice: 169.95 EUR
 comparePrice: 238.95 EUR
 inStock: true
 ---
 
-Está [IKOHS Retro Fridge - Frigorífico con diseño  Control de Temperatura Ajustable  Estantes Intercambiables  Estética Vintage de los años 50  Clase Energética A+  Rojo  50 cm ](https://www.amazon.com/dp/B07SH8NNLX/?tag=redken08-20) por 159.95 EUR (original: 238.95 EUR) en el siguiente enlace!
+Está [IKOHS Retro Fridge - Frigorífico con diseño  Control de Temperatura Ajustable  Estantes Intercambiables  Estética Vintage de los años 50  Clase Energética A+  Rojo  50 cm ](https://www.amazon.com/dp/B07SH8NNLX/?tag=redken08-20) por 169.95 EUR (original: 238.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31OmuQisFsL._SL200_.jpg)](https://www.amazon.com/dp/B07SH8NNLX/?tag=redken08-20)
 

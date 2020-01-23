@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TXXCI LED Light Kit Compatible with Lego'
-date: 2020-01-22 01:16:09
+date: 2020-01-23 01:19:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L09mFdktL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L09mFdktL._SL200_.jpg' ]
 comments: true

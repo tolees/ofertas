@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch MFQ3540 Batidora y Amasadora con A'
-date: 2020-01-21 10:23:06
+date: 2020-01-23 00:51:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TgbpWH9NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TgbpWH9NL._SL200_.jpg' ]
 comments: true

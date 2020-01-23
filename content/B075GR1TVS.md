@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars Han Solo 75535 Baubare Fi'
-date: 2020-01-22 01:29:26
+date: 2020-01-23 01:28:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RdSdlNc9L._SL200_.jpg' ]
 comments: true

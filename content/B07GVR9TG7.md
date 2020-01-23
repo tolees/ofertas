@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link Archer C6 - AC1200 Router inalám'
-date: 2020-01-17 15:19:20
+date: 2020-01-22 19:59:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zNy6sDRkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zNy6sDRkL._SL200_.jpg' ]
 comments: true

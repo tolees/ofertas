@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Stop Caída + Crecimiento | Potente trata'
-date: 2019/12/23 08:11:35 +0000
+date: 2020-01-22 23:37:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41grqGfHRuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41grqGfHRuL._SL200_.jpg' ]
 comments: true

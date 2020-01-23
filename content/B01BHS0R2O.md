@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B  Sistema de Limpieza Irrigador Bu'
-date: 2020-01-20 13:44:05
+date: 2020-01-23 07:06:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o%2BxewgxHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o%2BxewgxHL._SL200_.jpg' ]
 comments: true

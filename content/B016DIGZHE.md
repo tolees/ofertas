@@ -14,10 +14,10 @@ comparePrice: 39.95 GBP
 inStock: true
 ---
 
-Está [Rock Jaw Alfa Genus V2 Earphones 3x Tuning Filters - British Engineered](https://www.amazon.com/dp/B016DIGZHE/?tag=redken08-20) por 22.76 GBP (original: 39.95 GBP) en el siguiente enlace!
+Tienes [Rock Jaw Alfa Genus V2 Earphones 3x Tuning Filters - British Engineered](https://www.amazon.com/dp/B016DIGZHE/?tag=redken08-20) a precio de oferta de 22.76 GBP (original: 39.95 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VO%2BZGOBaL._SL200_.jpg)](https://www.amazon.com/dp/B016DIGZHE/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B016DIGZHE/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B016DIGZHE/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

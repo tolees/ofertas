@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LG CineBeam PH150G - Proyector con Bater'
-date: 2020-01-19 21:52:32
+date: 2020-01-23 04:12:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iae8FZG8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iae8FZG8L._SL200_.jpg' ]
 comments: true

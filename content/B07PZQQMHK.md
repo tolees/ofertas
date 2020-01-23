@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GUND 6053047 - Interaktiver Flappy der E'
-date: 2020-01-22 01:05:23
+date: 2020-01-23 01:25:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412FDRNkquL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412FDRNkquL._SL200_.jpg' ]
 comments: true

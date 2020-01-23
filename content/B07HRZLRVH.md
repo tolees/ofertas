@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo 520S-14IKB - Ordenador portátil 1'
-date: 2020-01-21 12:54:37
+date: 2020-01-23 07:17:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fxc5bB2DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fxc5bB2DL._SL200_.jpg' ]
 comments: true

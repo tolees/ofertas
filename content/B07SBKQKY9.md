@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AmazonBasics Cable HDMI 1.4b  182 8 cm  '
-date: 2020-01-14 12:52:59
+date: 2020-01-22 19:30:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iAQqbiNlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iAQqbiNlL._SL200_.jpg' ]
 comments: true

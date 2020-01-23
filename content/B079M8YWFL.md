@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro Gaming - Juego infantil Cara Spla'
-date: 2020-01-20 08:34:07
+date: 2020-01-22 22:01:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zRvWyOFfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zRvWyOFfL._SL200_.jpg' ]
 comments: true

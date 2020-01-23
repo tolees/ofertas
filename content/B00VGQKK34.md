@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil 5641 Surf Shop Play Box'
-date: 2020-01-22 01:06:32
+date: 2020-01-23 01:12:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51klToQ72pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51klToQ72pL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00VGQKK34
 description:
-actualPrice: 10.95 GBP
+actualPrice: 10.94 GBP
 comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 5641 Surf Shop Play Box](https://www.amazon.com/dp/B00VGQKK34/?tag=redken08-20) a 10.95 GBP (original: 19.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 5641 Surf Shop Play Box](https://www.amazon.com/dp/B00VGQKK34/?tag=redken08-20) a 10.94 GBP (original: 19.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51klToQ72pL._SL200_.jpg)](https://www.amazon.com/dp/B00VGQKK34/?tag=redken08-20)
 
