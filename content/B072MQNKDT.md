@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple MacBook  de 12 pulgadas  Int'
-date: 2020-01-19 04:27:59
+date: 2020-01-23 09:14:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21iAigU9ttL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21iAigU9ttL._SL200_.jpg' ]
 comments: true

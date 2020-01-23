@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'PLAYMOBIL Ghostbusters Stantz con Moto V'
-date: 2020-01-20 13:08:34
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61mjz4xe4PL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61mjz4xe4PL._SL200_.jpg' ]
+title: 'PLAYMOBIL Ghostbusters 9388 Stantz mit F'
+date: 2020-01-22 10:36:50
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619n0vqGI9L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619n0vqGI9L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0767FCWXY
 description:
-actualPrice: 11.17 EUR
-comparePrice: 26 EUR
+actualPrice: 13.96 EUR
+comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [PLAYMOBIL Ghostbusters Stantz con Moto Voladora  a Partir de 6 Años  9388 ](https://www.amazon.com/dp/B0767FCWXY/?tag=redken08-20) por 11.17 EUR (original: 26 EUR) en el siguiente enlace!
+Está [PLAYMOBIL Ghostbusters 9388 Stantz mit Flybike  Ab 6 Jahren](https://www.amazon.com/dp/B0767FCWXY/?tag=redken08-20) por 13.96 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/61mjz4xe4PL._SL200_.jpg)](https://www.amazon.com/dp/B0767FCWXY/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/619n0vqGI9L._SL200_.jpg)](https://www.amazon.com/dp/B0767FCWXY/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B0767FCWXY/?tag=redken08-20)
 

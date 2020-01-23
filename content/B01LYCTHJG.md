@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal Comfort Grip - Juego de 3 Sartenes'
-date: 2020-01-14 18:23:46
+date: 2020-01-23 10:15:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jce1koRuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jce1koRuL._SL200_.jpg' ]
 comments: true

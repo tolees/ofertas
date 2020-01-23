@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Piz Buin - Spray Allergy SPF 50 - Protec'
-date: 2020-01-01 18:03:27
+date: 2020-01-23 10:20:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q7OXtb5XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q7OXtb5XL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B0067USBRQ
 description:
-actualPrice: 10.8 EUR
+actualPrice: 13.05 EUR
 comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Piz Buin - Spray Allergy SPF 50 - Protección Muy Alta - Novedad - 200 ml](https://www.amazon.com/dp/B0067USBRQ/?tag=redken08-20) a 10.8 EUR (original: 19.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Piz Buin - Spray Allergy SPF 50 - Protección Muy Alta - Novedad - 200 ml](https://www.amazon.com/dp/B0067USBRQ/?tag=redken08-20) a 13.05 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31q7OXtb5XL._SL200_.jpg)](https://www.amazon.com/dp/B0067USBRQ/?tag=redken08-20)
 

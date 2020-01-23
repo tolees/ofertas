@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini Altavoz con Forma de Coche Colorido'
-date: 2020-01-21 08:35:51
+date: 2020-01-23 11:28:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PMTU-Q-CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PMTU-Q-CL._SL200_.jpg' ]
 comments: true

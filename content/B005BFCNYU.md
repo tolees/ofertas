@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech H390 Auriculares con Cable  Son'
-date: 2020-01-14 15:29:23
+date: 2020-01-23 11:23:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41il5PD-6AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41il5PD-6AL._SL200_.jpg' ]
 comments: true

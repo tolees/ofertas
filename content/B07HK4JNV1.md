@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 6 Pro Smartphone de 6.'
-date: 2020-01-22 05:03:25
+date: 2020-01-23 07:48:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL._SL200_.jpg' ]
 comments: true

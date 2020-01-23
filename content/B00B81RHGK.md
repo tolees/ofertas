@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vileda Premium 2 en 1 - Funda de plancha'
-date: 2020-01-19 16:38:26
+date: 2020-01-23 10:46:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RxdT7T7iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RxdT7T7iL._SL200_.jpg' ]
 comments: true
