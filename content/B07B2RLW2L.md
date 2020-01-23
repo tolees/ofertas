@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VR Gafas de Realidad Virtual  Gafas vr C'
-date: 2020-01-15 18:48:47
+date: 2020-01-23 19:32:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cpNHt1gWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cpNHt1gWL._SL200_.jpg' ]
 comments: true

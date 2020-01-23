@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St'
-date: 2020-01-21 18:37:29
+title: 'BRIKSMAX Kit de Iluminación Led para Leg'
+date: 2020-01-22 10:51:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-PaVykCYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-PaVykCYL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WPCWJCK
 description:
-actualPrice: 29.99 EUR
-comparePrice: 54.99 EUR
+actualPrice: 28.99 EUR
+comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Episode VIII First Order Assault Walker Kompatibel Mit Lego 75189 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07WPCWJCK/?tag=redken08-20) a 29.99 EUR (original: 54.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Star Wars Episode VIII First Order Assault Walker Compatible con Ladrillos de Construcción Lego Modelo 75189  Juego de Legos no Incluido](https://www.amazon.com/dp/B07WPCWJCK/?tag=redken08-20) a 28.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51-PaVykCYL._SL200_.jpg)](https://www.amazon.com/dp/B07WPCWJCK/?tag=redken08-20)
 

@@ -14,10 +14,10 @@ comparePrice: 48.46 EUR
 inStock: true
 ---
 
-Está [Jane Iredale  Delineador de ojos - 150 gr.](https://www.amazon.com/dp/B0001EKYEW/?tag=redken08-20) por 23.38 EUR (original: 48.46 EUR) en el siguiente enlace!
+Tienes [Jane Iredale  Delineador de ojos - 150 gr.](https://www.amazon.com/dp/B0001EKYEW/?tag=redken08-20) a precio de oferta de 23.38 EUR (original: 48.46 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vHX6-nwGL._SL200_.jpg)](https://www.amazon.com/dp/B0001EKYEW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0001EKYEW/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B0001EKYEW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

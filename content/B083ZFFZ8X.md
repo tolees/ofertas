@@ -14,10 +14,10 @@ comparePrice: 127.98 GBP
 inStock: true
 ---
 
-Tienes [TONGJI Acrylic Display Case For Lego 21309 Ideas Nasa Apollo Saturn V  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083ZFFZ8X/?tag=redken08-20) a precio de oferta de 63.99 GBP (original: 127.98 GBP) en el siguiente enlace!
+Está [TONGJI Acrylic Display Case For Lego 21309 Ideas Nasa Apollo Saturn V  Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083ZFFZ8X/?tag=redken08-20) por 63.99 GBP (original: 127.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IRYFQ7HXL._SL200_.jpg)](https://www.amazon.com/dp/B083ZFFZ8X/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B083ZFFZ8X/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B083ZFFZ8X/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

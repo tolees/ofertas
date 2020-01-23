@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Leg'
-date: 2020-01-21 18:55:49
+title: 'BRIKSMAX Led Beleuchtungsset für Lego Te'
+date: 2020-01-23 01:35:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rNEBLy9hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rNEBLy9hL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Technic Camión de Transporte de Vehículos Compatible con Ladrillos de Construcción Lego Modelo 42098  Juego de Legos no Incluido](https://www.amazon.com/dp/B081RDKS3F/?tag=redken08-20) a 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Beleuchtungsset für Lego Technic Autotransporter Kompatibel Mit Lego 42098 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B081RDKS3F/?tag=redken08-20) a 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rNEBLy9hL._SL200_.jpg)](https://www.amazon.com/dp/B081RDKS3F/?tag=redken08-20)
 

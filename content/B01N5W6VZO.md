@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Silk-épil 5 5-511 Wet & Dry - Depi'
-date: 2020-01-15 18:14:11
+date: 2020-01-23 19:14:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417qg4r5ydL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417qg4r5ydL._SL200_.jpg' ]
 comments: true

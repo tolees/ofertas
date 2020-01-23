@@ -14,10 +14,10 @@ comparePrice: 649 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus Zuiko - Objetivo para cámara réflex para Micro Cuatro Tercios  distancia focal 14-150mm  apertura f/4  zoom óptico 10.7x  diámetro filtro: 58mm   II negro](https://www.amazon.com/dp/B00SMPL2V6/?tag=redken08-20) a 439.2 EUR (original: 649 EUR) en el siguiente enlace!
+Tienes [Olympus Zuiko - Objetivo para cámara réflex para Micro Cuatro Tercios  distancia focal 14-150mm  apertura f/4  zoom óptico 10.7x  diámetro filtro: 58mm   II negro](https://www.amazon.com/dp/B00SMPL2V6/?tag=redken08-20) a precio de oferta de 439.2 EUR (original: 649 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51cSDpesobL._SL200_.jpg)](https://www.amazon.com/dp/B00SMPL2V6/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00SMPL2V6/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00SMPL2V6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

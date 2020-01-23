@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LIGHTAILING Conjunto de Luces  Barco En '
-date: 2020-01-21 18:43:47
+title: 'LIGHTAILING Licht-Set Für  Schiff in der'
+date: 2020-01-23 09:43:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [LIGHTAILING Conjunto de Luces  Barco En Botella  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21313  NO Incluido en el Modelo ](https://www.amazon.com/dp/B07KG1FSDL/?tag=redken08-20) por 29.99 EUR (original: 80 EUR) en el siguiente enlace!
+Está [LIGHTAILING Licht-Set Für  Schiff in der Flasche  Modell - LED Licht-Set Kompatibel Mit Lego 21313 Modell Nicht Enthalten ](https://www.amazon.com/dp/B07KG1FSDL/?tag=redken08-20) por 29.99 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg)](https://www.amazon.com/dp/B07KG1FSDL/?tag=redken08-20)
 

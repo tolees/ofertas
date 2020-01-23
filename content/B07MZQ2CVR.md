@@ -14,10 +14,10 @@ comparePrice: 65 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pepe Jeans Soho Vaqueros  Dark Khaki Green  30W / 30L para Mujer](https://www.amazon.com/dp/B07MZQ2CVR/?tag=redken08-20) a 38.95 EUR (original: 65 EUR) en el siguiente enlace!
+Está [Pepe Jeans Soho Vaqueros  Dark Khaki Green  30W / 30L para Mujer](https://www.amazon.com/dp/B07MZQ2CVR/?tag=redken08-20) por 38.95 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31FODoVdy9L._SL200_.jpg)](https://www.amazon.com/dp/B07MZQ2CVR/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07MZQ2CVR/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07MZQ2CVR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

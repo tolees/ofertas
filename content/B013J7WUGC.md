@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier H840 - Auriculares de Diadema'
-date: 2020-01-22 19:04:34
+date: 2020-01-23 19:07:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QbxYz3D-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QbxYz3D-L._SL200_.jpg' ]
 comments: true
