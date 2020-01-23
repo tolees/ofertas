@@ -14,10 +14,10 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Juego de cortinas que no dejan pasar la luz  con ojales   137 x 117 cm  Negro](https://www.amazon.com/dp/B07BHXD5GC/?tag=redken08-20) a 13 EUR (original: 25.99 EUR) en el siguiente enlace!
+Tienes [AmazonBasics - Juego de cortinas que no dejan pasar la luz  con ojales   137 x 117 cm  Negro](https://www.amazon.com/dp/B07BHXD5GC/?tag=redken08-20) a precio de oferta de 13 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51fOF7BwUoL._SL200_.jpg)](https://www.amazon.com/dp/B07BHXD5GC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07BHXD5GC/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07BHXD5GC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

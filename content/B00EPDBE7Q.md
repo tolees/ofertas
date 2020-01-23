@@ -14,10 +14,10 @@ comparePrice: 12.88 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Max Factor Excess Volume Extreme Impact Mascara 01-Black - 4 gr](https://www.amazon.com/dp/B00EPDBE7Q/?tag=redken08-20) a 8.43 EUR (original: 12.88 EUR) en el siguiente enlace!
+Tienes [Max Factor Excess Volume Extreme Impact Mascara 01-Black - 4 gr](https://www.amazon.com/dp/B00EPDBE7Q/?tag=redken08-20) a precio de oferta de 8.43 EUR (original: 12.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dcUf1ZeTL._SL200_.jpg)](https://www.amazon.com/dp/B00EPDBE7Q/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00EPDBE7Q/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B00EPDBE7Q/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

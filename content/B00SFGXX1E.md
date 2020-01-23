@@ -14,10 +14,10 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Está [Peppa Pig - Aprendo Los Números  juego educativo  Educa Borrás 16224 ](https://www.amazon.com/dp/B00SFGXX1E/?tag=redken08-20) por 6.99 EUR (original: 9.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Peppa Pig - Aprendo Los Números  juego educativo  Educa Borrás 16224 ](https://www.amazon.com/dp/B00SFGXX1E/?tag=redken08-20) a 6.99 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61DWZpTNBXL._SL200_.jpg)](https://www.amazon.com/dp/B00SFGXX1E/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00SFGXX1E/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00SFGXX1E/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 259.98 GBP
 inStock: true
 ---
 
-Está [GODNECE Build Truck RC Models  Truck Models for Adults to Build Building Blocks Technic Compatible with Lego 1415Pcs +  ](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20) por 129.99 GBP (original: 259.98 GBP) en el siguiente enlace!
+Tienes [GODNECE Build Truck RC Models  Truck Models for Adults to Build Building Blocks Technic Compatible with Lego 1415Pcs +  ](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20) a precio de oferta de 129.99 GBP (original: 259.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UQizW3G2L._SL200_.jpg)](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

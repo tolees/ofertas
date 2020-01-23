@@ -14,10 +14,10 @@ comparePrice: 20.25 EUR
 inStock: true
 ---
 
-Tienes [Multipack de 8 tarrinas de 150g clásicos selección  |  [Pack de 3]](https://www.amazon.com/dp/B07C1RLK9L/?tag=redken08-20) a precio de oferta de 14.49 EUR (original: 20.25 EUR) en el siguiente enlace!
+Está [Multipack de 8 tarrinas de 150g clásicos selección  |  [Pack de 3]](https://www.amazon.com/dp/B07C1RLK9L/?tag=redken08-20) por 14.49 EUR (original: 20.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Fb9JtwY2L._SL200_.jpg)](https://www.amazon.com/dp/B07C1RLK9L/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07C1RLK9L/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07C1RLK9L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

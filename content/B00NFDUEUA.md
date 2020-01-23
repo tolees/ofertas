@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun Minipimer 5 MQ5020WH Pasta - Batid'
-date: 2020-01-15 19:22:19
+date: 2020-01-23 19:50:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FDUuk6MXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FDUuk6MXL._SL200_.jpg' ]
 comments: true

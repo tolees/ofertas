@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'LEADSTAR Funda para Samsung Galaxy Tab A'
+date: 2020-01-23 19:49:27
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51seMN3jhIL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51seMN3jhIL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07SZT3NPW
+description:
+actualPrice: 15.99 EUR
+comparePrice: 35.97 EUR
+inStock: true
+---
+
+Está [LEADSTAR Funda para Samsung Galaxy Tab A 10.1 2019  Ligero y Super Protective Antichoque EVA Estuche Protector Diseñar Especialmente Manija Caso con Soporte para los Niños  SM-T510 / T515  Rosa ](https://www.amazon.com/dp/B07SZT3NPW/?tag=redken08-20) por 15.99 EUR (original: 35.97 EUR) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/51seMN3jhIL._SL200_.jpg)](https://www.amazon.com/dp/B07SZT3NPW/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B07SZT3NPW/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
