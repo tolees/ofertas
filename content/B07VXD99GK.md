@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FITTOO Mallas Leggings Mujer Pantalones '
-date: 2020-01-02 16:06:05
+date: 2020-01-23 17:06:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hDtP5dEzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hDtP5dEzL._SL200_.jpg' ]
 comments: true

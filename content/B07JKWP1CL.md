@@ -14,10 +14,10 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 70009 SuperSet Galaxy Police Gefängnis  bunt](https://www.amazon.com/dp/B07JKWP1CL/?tag=redken08-20) a 12.97 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [Playmobil 70009 SuperSet Galaxy Police Gefängnis  bunt](https://www.amazon.com/dp/B07JKWP1CL/?tag=redken08-20) a precio de oferta de 12.97 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL200_.jpg)](https://www.amazon.com/dp/B07JKWP1CL/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07JKWP1CL/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07JKWP1CL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 5.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel London Stay Matte Base de Maquillaje Tono 8 Cashmere - 45 gr](https://www.amazon.com/dp/B00DMGDMXG/?tag=redken08-20) a 3.86 EUR (original: 5.7 EUR) en el siguiente enlace!
+Está [Rimmel London Stay Matte Base de Maquillaje Tono 8 Cashmere - 45 gr](https://www.amazon.com/dp/B00DMGDMXG/?tag=redken08-20) por 3.86 EUR (original: 5.7 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B00DMGDMXG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00DMGDMXG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00DMGDMXG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

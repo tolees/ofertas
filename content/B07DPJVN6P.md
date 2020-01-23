@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ENACFIRE Wireless Headphones  Future Blu'
-date: 2020-01-21 17:49:09
+date: 2020-01-23 17:28:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q7MpBCGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q7MpBCGtL._SL200_.jpg' ]
 comments: true

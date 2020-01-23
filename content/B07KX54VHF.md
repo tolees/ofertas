@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter und der Gefangene von '
-date: 2020-01-21 18:18:10
+date: 2020-01-23 17:51:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KX54VHF
 description:
-actualPrice: 29.99 EUR
+actualPrice: 29.96 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [LEGO Harry Potter und der Gefangene von Askaban - Der Fahrende Ritter  75957   Bauset](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [LEGO Harry Potter und der Gefangene von Askaban - Der Fahrende Ritter  75957   Bauset](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) por 29.96 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg)](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
 

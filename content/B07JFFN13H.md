@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Roidmi F8 Storm - Aspiradora sin cable c'
-date: 2020-01-22 15:21:58
+date: 2020-01-23 16:56:48
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true

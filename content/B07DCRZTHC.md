@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIGHTAILING Licht-Set Für  Volkswagen T1'
-date: 2020-01-21 18:23:16
+date: 2020-01-23 18:02:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519AVgi%2BfHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519AVgi%2BfHL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lenovo Ideapad 530S-14IKB  Ordenador Por'
-date: 2020-01-22 16:07:21
+date: 2020-01-23 17:09:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418v%2BYi8E9L._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 1699 EUR
 inStock: true
 ---
 
-Está [Lenovo Legion Y540 - Ordenador portátil Gaming de 17.3" FullHD  Intel Core i7-9750H  16GB de RAM  1TB HDD + 512GB SSD  Nvidia GTX1660Ti-6GB  Windows10  Negro. Teclado QWERTY español](https://www.amazon.com/dp/B07XZRNSS7/?tag=redken08-20) por 1199 EUR (original: 1699 EUR) en el siguiente enlace!
+Tienes [Lenovo Legion Y540 - Ordenador portátil Gaming de 17.3" FullHD  Intel Core i7-9750H  16GB de RAM  1TB HDD + 512GB SSD  Nvidia GTX1660Ti-6GB  Windows10  Negro. Teclado QWERTY español](https://www.amazon.com/dp/B07XZRNSS7/?tag=redken08-20) a precio de oferta de 1199 EUR (original: 1699 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rj61ibpBL._SL200_.jpg)](https://www.amazon.com/dp/B07XZRNSS7/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07XZRNSS7/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07XZRNSS7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
