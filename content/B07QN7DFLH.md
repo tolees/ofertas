@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rexona Active Pro+ Desodorante Antitrans'
-date: 2020-01-19 20:44:15
+date: 2020-01-23 13:06:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dd3WNp%2B1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dd3WNp%2B1L._SL200_.jpg' ]
 comments: true

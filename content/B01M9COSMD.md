@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take Two Interactive  - Red Dead Redempt'
-date: 2020-01-15 17:28:50
+date: 2020-01-23 12:41:37
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01M9COSMD
 description:
-actualPrice: 30.5 EUR
+actualPrice: 28.49 EUR
 comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Take Two Interactive  - Red Dead Redemption 2  PS4 ](https://www.amazon.com/dp/B01M9COSMD/?tag=redken08-20) a 30.5 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Take Two Interactive  - Red Dead Redemption 2  PS4 ](https://www.amazon.com/dp/B01M9COSMD/?tag=redken08-20) a 28.49 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B01M9COSMD/?tag=redken08-20)
 

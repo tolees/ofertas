@@ -14,10 +14,10 @@ comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Está [Hori - Flight Stick Ace Combat 7  PS4  PS3  PC ](https://www.amazon.com/dp/B07LFS2JK6/?tag=redken08-20) por 136.01 EUR (original: 199.99 EUR) en el siguiente enlace!
+Tienes [Hori - Flight Stick Ace Combat 7  PS4  PS3  PC ](https://www.amazon.com/dp/B07LFS2JK6/?tag=redken08-20) a precio de oferta de 136.01 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zpSX18OQL._SL200_.jpg)](https://www.amazon.com/dp/B07LFS2JK6/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07LFS2JK6/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07LFS2JK6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

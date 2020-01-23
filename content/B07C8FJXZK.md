@@ -14,10 +14,10 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Está [Inmuno C | Vitamina C pura para niños | Mantiene las defensas fuertes  protege la piel y mantiene sano el sistema inmunológico | Deliciosos comprimidos masticables sabor a naranja | 60 unidades](https://www.amazon.com/dp/B07C8FJXZK/?tag=redken08-20) por 7.45 EUR (original: 14.95 EUR) en el siguiente enlace!
+Tienes [Inmuno C | Vitamina C pura para niños | Mantiene las defensas fuertes  protege la piel y mantiene sano el sistema inmunológico | Deliciosos comprimidos masticables sabor a naranja | 60 unidades](https://www.amazon.com/dp/B07C8FJXZK/?tag=redken08-20) a precio de oferta de 7.45 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WbuDbvuOL._SL200_.jpg)](https://www.amazon.com/dp/B07C8FJXZK/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07C8FJXZK/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07C8FJXZK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

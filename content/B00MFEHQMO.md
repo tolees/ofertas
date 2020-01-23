@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rowenta SO2320F2 Comfort Compact Calefac'
-date: 2020-01-22 11:55:33
+date: 2020-01-23 13:15:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518H2xU%2BMAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518H2xU%2BMAL._SL200_.jpg' ]
 comments: true

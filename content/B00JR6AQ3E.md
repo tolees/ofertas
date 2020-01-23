@@ -14,10 +14,10 @@ comparePrice: 354.87 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Walimex pro Black - Objetivo para videocámara para Sony/Minolta  Apertura f 1.4-22  Negro](https://www.amazon.com/dp/B00JR6AQ3E/?tag=redken08-20) a 213.97 EUR (original: 354.87 EUR) en el siguiente enlace!
+Está [Walimex pro Black - Objetivo para videocámara para Sony/Minolta  Apertura f 1.4-22  Negro](https://www.amazon.com/dp/B00JR6AQ3E/?tag=redken08-20) por 213.97 EUR (original: 354.87 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ojQVar-oL._SL200_.jpg)](https://www.amazon.com/dp/B00JR6AQ3E/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00JR6AQ3E/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00JR6AQ3E/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
