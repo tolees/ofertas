@@ -14,10 +14,10 @@ comparePrice: 111.78 GBP
 inStock: true
 ---
 
-Tienes [D-Link DCS-960L HD 180 Degree PanoramicWi-Fi Camera](https://www.amazon.com/dp/B00PVDM1JY/?tag=redken08-20) a precio de oferta de 67.32 GBP (original: 111.78 GBP) en el siguiente enlace!
+Ahora mismo tienes [D-Link DCS-960L HD 180 Degree PanoramicWi-Fi Camera](https://www.amazon.com/dp/B00PVDM1JY/?tag=redken08-20) a 67.32 GBP (original: 111.78 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zgWHld8jL._SL200_.jpg)](https://www.amazon.com/dp/B00PVDM1JY/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B00PVDM1JY/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00PVDM1JY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

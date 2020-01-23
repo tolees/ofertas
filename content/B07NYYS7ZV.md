@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IKOHS NATURE WELLNESS - Báscula de Baño '
-date: 2019/12/18 14:07:38 +0000
+date: 2020-01-23 14:34:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41536gF54IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41536gF54IL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 291.19 EUR
 inStock: true
 ---
 
-Está [Ron Zacapa Centenario Royal Solera Gran Reserva Especial - 700 ml](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20) por 162.48 EUR (original: 291.19 EUR) en el siguiente enlace!
+Ahora mismo tienes [Ron Zacapa Centenario Royal Solera Gran Reserva Especial - 700 ml](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20) a 162.48 EUR (original: 291.19 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/310d9G3imDL._SL200_.jpg)](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01M29RYKS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -14,10 +14,10 @@ comparePrice: 194 EUR
 inStock: true
 ---
 
-Está [Versace Jeans CouturePortafoglioMujerCarterasMorado  Glicine  2 5x12x20 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLKM3VB/?tag=redken08-20) por 128.13 EUR (original: 194 EUR) en el siguiente enlace!
+Tienes [Versace Jeans CouturePortafoglioMujerCarterasMorado  Glicine  2 5x12x20 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLKM3VB/?tag=redken08-20) a precio de oferta de 128.13 EUR (original: 194 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4183MVpx8gL._SL200_.jpg)](https://www.amazon.com/dp/B07NLKM3VB/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07NLKM3VB/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07NLKM3VB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

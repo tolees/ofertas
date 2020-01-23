@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TACKLIFE 1800W 4700RPM Sierra Circular  '
-date: 2020-01-13 12:54:16
+date: 2020-01-23 14:31:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FejGzNL%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FejGzNL%2BL._SL200_.jpg' ]
 comments: true
