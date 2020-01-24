@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lexmark 50F2U0E - Tóner  capacidad 20000'
+title: 'Lexmark 50F2U0E - Tóner  capacidad 20000' al 40.83597172918866 % de descuento
 date: 2020-01-13 19:29:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 312.69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lexmark 50F2U0E - Tóner  capacidad 20000 páginas](https://www.amazon.com/dp/B009X6UZZM/?tag=redken08-20) a 185 EUR (original: 312.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lexmark 50F2U0E - Tóner  capacidad 20000 páginas](https://www.amazon.com/dp/B009X6UZZM/?tag=redken08-20) a 185 EUR (original: 312.69 EUR) (40.83597172918866 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg)](https://www.amazon.com/dp/B009X6UZZM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Women s Midge Cody Mid Waist '
+title: 'G-STAR RAW Women s Midge Cody Mid Waist ' al 72.72727272727273 % de descuento
 date: 2020-01-03 11:47:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h6CdnM13L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h6CdnM13L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 GBP
 inStock: true
 ---
 
-Está [G-STAR RAW Women s Midge Cody Mid Waist Skinny Jeans  Black  Rinsed D011-082   30W / 32L](https://www.amazon.com/dp/B0156PPKTY/?tag=redken08-20) por 30 GBP (original: 110 GBP) en el siguiente enlace!
+Está [G-STAR RAW Women s Midge Cody Mid Waist Skinny Jeans  Black  Rinsed D011-082   30W / 32L](https://www.amazon.com/dp/B0156PPKTY/?tag=redken08-20) con 72.72727272727273 por 30 GBP (original: 110 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31h6CdnM13L._SL200_.jpg)](https://www.amazon.com/dp/B0156PPKTY/?tag=redken08-20)
 

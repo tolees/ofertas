@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bombilla de Filamento LED Demum 25 Pieza'
+title: Descuento del 50.02501250625312 % en 'Bombilla de Filamento LED Demum 25 Pieza'
 date: 2020-01-23 20:32:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NeGUPajdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NeGUPajdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [Bombilla de Filamento LED Demum 25 Piezas G40 Globo Bombillas 7W E12 Base Socket Holder  Impermeable IP44 para Guirnalda Luces Exterior [Clase de eficiencia energética E]](https://www.amazon.com/dp/B07VHMC4FN/?tag=redken08-20) a precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [Bombilla de Filamento LED Demum 25 Piezas G40 Globo Bombillas 7W E12 Base Socket Holder  Impermeable IP44 para Guirnalda Luces Exterior [Clase de eficiencia energética E]](https://www.amazon.com/dp/B07VHMC4FN/?tag=redken08-20) con un 50.02501250625312 % con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41NeGUPajdL._SL200_.jpg)](https://www.amazon.com/dp/B07VHMC4FN/?tag=redken08-20)
 

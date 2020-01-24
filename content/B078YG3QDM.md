@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Apparel Ripstop 21" Walk Shorts  Homb'
+title: 'DC Apparel Ripstop 21" Walk Shorts  Homb' al 49.76425203600514 % de descuento
 date: 2019/11/04 09:26:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HhG8OPJ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HhG8OPJ-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [DC Apparel Ripstop 21" Walk Shorts  Hombre  Camo  32](https://www.amazon.com/dp/B078YG3QDM/?tag=redken08-20) por 35.16 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [DC Apparel Ripstop 21" Walk Shorts  Hombre  Camo  32](https://www.amazon.com/dp/B078YG3QDM/?tag=redken08-20) con 49.76425203600514 por 35.16 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HhG8OPJ-L._SL200_.jpg)](https://www.amazon.com/dp/B078YG3QDM/?tag=redken08-20)
 

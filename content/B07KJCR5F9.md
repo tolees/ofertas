@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OPPO RX17 Neo case  KuGi Ultra-thin Soft'
+title: Descuento del 88.31385642737897 % en 'OPPO RX17 Neo case  KuGi Ultra-thin Soft'
 date: 2019/12/21 17:58:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512NK%2BglPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512NK%2BglPEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 GBP
 inStock: true
 ---
 
-Tienes [OPPO RX17 Neo case  KuGi Ultra-thin Soft TPU Gel Cover [Slim-Fit] [Anti-Scratch] [Shock Absorption] fit for OPPO RX17 Neo Smartphone. Clear](https://www.amazon.com/dp/B07KJCR5F9/?tag=redken08-20) a precio de oferta de 3.5 GBP (original: 29.95 GBP) en el siguiente enlace!
+Tienes [OPPO RX17 Neo case  KuGi Ultra-thin Soft TPU Gel Cover [Slim-Fit] [Anti-Scratch] [Shock Absorption] fit for OPPO RX17 Neo Smartphone. Clear](https://www.amazon.com/dp/B07KJCR5F9/?tag=redken08-20) con un 88.31385642737897 % con precio de oferta de 3.5 GBP (original: 29.95 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/512NK%2BglPEL._SL200_.jpg)](https://www.amazon.com/dp/B07KJCR5F9/?tag=redken08-20)
 

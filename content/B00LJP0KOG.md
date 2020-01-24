@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Curtis  Parka para Hombre  Negro'
+title: 'Dickies Curtis  Parka para Hombre  Negro' al 49.9922480620155 % de descuento
 date: 2019/11/07 10:44:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dickies Curtis  Parka para Hombre  Negro  X-Large](https://www.amazon.com/dp/B00LJP0KOG/?tag=redken08-20) a 64.51 EUR (original: 129 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dickies Curtis  Parka para Hombre  Negro  X-Large](https://www.amazon.com/dp/B00LJP0KOG/?tag=redken08-20) a 64.51 EUR (original: 129 EUR) (49.9922480620155 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg)](https://www.amazon.com/dp/B00LJP0KOG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmsiv Soraya Short Jacket Boos'
+title: 'Vero Moda Vmsiv Soraya Short Jacket Boos' al 52.58814703675919 % de descuento
 date: 2020-01-07 17:49:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bavWHT1HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bavWHT1HL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Vero Moda Vmsiv Soraya Short Jacket Boos Chaqueta  Azul  Smoke Blue   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.com/dp/B07GW63PFW/?tag=redken08-20) por 18.96 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Vero Moda Vmsiv Soraya Short Jacket Boos Chaqueta  Azul  Smoke Blue   36  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.com/dp/B07GW63PFW/?tag=redken08-20) con 52.58814703675919 por 18.96 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bavWHT1HL._SL200_.jpg)](https://www.amazon.com/dp/B07GW63PFW/?tag=redken08-20)
 

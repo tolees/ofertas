@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shimano XTR SMBB9441A - Juego De Cazolet'
+title: 'Shimano XTR SMBB9441A - Juego De Cazolet' al 42.236842105263165 % de descuento
 date: 2019/10/11 00:02:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sBzGXAHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sBzGXAHtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Shimano XTR SMBB9441A - Juego De Cazoletas Por Presion](https://www.amazon.com/dp/B00G46TFKK/?tag=redken08-20) a 21.95 EUR (original: 38 EUR) en el siguiente enlace!
+Ahora mismo tienes [Shimano XTR SMBB9441A - Juego De Cazoletas Por Presion](https://www.amazon.com/dp/B00G46TFKK/?tag=redken08-20) a 21.95 EUR (original: 38 EUR) (42.236842105263165 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31sBzGXAHtL._SL200_.jpg)](https://www.amazon.com/dp/B00G46TFKK/?tag=redken08-20)
 

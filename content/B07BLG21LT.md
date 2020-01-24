@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75222 Star Wars The Empire Strikes '
+title: 'LEGO 75222 Star Wars The Empire Strikes ' al 25.00083336111204 % de descuento
 date: 2019/10/18 23:30:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gGQSrTXoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gGQSrTXoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 299.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 75222 Star Wars The Empire Strikes Back Betrayal at Cloud City Building Kit](https://www.amazon.com/dp/B07BLG21LT/?tag=redken08-20) a 224.99 GBP (original: 299.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 75222 Star Wars The Empire Strikes Back Betrayal at Cloud City Building Kit](https://www.amazon.com/dp/B07BLG21LT/?tag=redken08-20) a 224.99 GBP (original: 299.99 GBP) (25.00083336111204 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gGQSrTXoL._SL200_.jpg)](https://www.amazon.com/dp/B07BLG21LT/?tag=redken08-20)
 

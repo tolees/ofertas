@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Warley B  Zapatillas para Hombre '
+title: Descuento del 50.0 % en 'Geox U Warley B  Zapatillas para Hombre '
 date: 2019/10/07 08:56:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E9eK8zVaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E9eK8zVaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Tienes [Geox U Warley B  Zapatillas para Hombre  Azul  Navy/Coffee C4339   40 EU](https://www.amazon.com/dp/B07DHYWLT2/?tag=redken08-20) a precio de oferta de 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!
+Tienes [Geox U Warley B  Zapatillas para Hombre  Azul  Navy/Coffee C4339   40 EU](https://www.amazon.com/dp/B07DHYWLT2/?tag=redken08-20) con un 50.0 % con precio de oferta de 49.95 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31E9eK8zVaL._SL200_.jpg)](https://www.amazon.com/dp/B07DHYWLT2/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones Jones - Camiseta de manga c'
+title: 'Jack & Jones Jones - Camiseta de manga c' al 53.74517374517374 % de descuento
 date: 2019/12/07 07:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4126DttVXTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4126DttVXTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jack & Jones Jones - Camiseta de manga corta con cuello pico para hombre  Black C N 010  S / 48](https://www.amazon.com/dp/B0085SFYPU/?tag=redken08-20) a 5.99 EUR (original: 12.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones Jones - Camiseta de manga corta con cuello pico para hombre  Black C N 010  S / 48](https://www.amazon.com/dp/B0085SFYPU/?tag=redken08-20) a 5.99 EUR (original: 12.95 EUR) (53.74517374517374 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4126DttVXTL._SL200_.jpg)](https://www.amazon.com/dp/B0085SFYPU/?tag=redken08-20)
 

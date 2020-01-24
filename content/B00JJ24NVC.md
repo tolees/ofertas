@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coleman 3000005138  Enfriador  Blanco  L'
+title: 'Coleman 3000005138  Enfriador  Blanco  L' al 55.146078312522725 % de descuento
 date: 2019/10/31 19:31:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4178k0V2Y0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4178k0V2Y0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 82.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Coleman 3000005138  Enfriador  Blanco  L](https://www.amazon.com/dp/B00JJ24NVC/?tag=redken08-20) a 37 EUR (original: 82.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [Coleman 3000005138  Enfriador  Blanco  L](https://www.amazon.com/dp/B00JJ24NVC/?tag=redken08-20) a 37 EUR (original: 82.49 EUR) (55.146078312522725 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4178k0V2Y0L._SL200_.jpg)](https://www.amazon.com/dp/B00JJ24NVC/?tag=redken08-20)
 

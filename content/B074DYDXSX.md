@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Western Digital My Cloud Home Duo  Nube '
+title: Descuento del 50.00367652465477 % en 'Western Digital My Cloud Home Duo  Nube '
 date: 2020-01-19 18:13:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YUudbvNuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YUudbvNuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 679.99 EUR
 inStock: true
 ---
 
-Tienes [Western Digital My Cloud Home Duo  Nube Personal  1  Blanco Y Gris](https://www.amazon.com/dp/B074DYDXSX/?tag=redken08-20) a precio de oferta de 339.97 EUR (original: 679.99 EUR) en el siguiente enlace!
+Tienes [Western Digital My Cloud Home Duo  Nube Personal  1  Blanco Y Gris](https://www.amazon.com/dp/B074DYDXSX/?tag=redken08-20) con un 50.00367652465477 % con precio de oferta de 339.97 EUR (original: 679.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YUudbvNuL._SL200_.jpg)](https://www.amazon.com/dp/B074DYDXSX/?tag=redken08-20)
 

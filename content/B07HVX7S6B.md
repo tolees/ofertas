@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE G-LAB Keyz RUBIDIUM Teclado Mecánico'
+title: Descuento del 42.863266180882974 % en 'THE G-LAB Keyz RUBIDIUM Teclado Mecánico'
 date: 2019/11/27 19:52:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41otfNb9TVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41otfNb9TVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Tienes [THE G-LAB Keyz RUBIDIUM Teclado Mecánico Gaming QWERTY - Incluye Ñ - Alto Rendimiento - Teclado Mecánico Red Switch - Retroiluminación RGB  Anti-ghosting  ReposaMuñecas - PC / Mac / PS4 / Xbox One -  Negro ](https://www.amazon.com/dp/B07HVX7S6B/?tag=redken08-20) a precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [THE G-LAB Keyz RUBIDIUM Teclado Mecánico Gaming QWERTY - Incluye Ñ - Alto Rendimiento - Teclado Mecánico Red Switch - Retroiluminación RGB  Anti-ghosting  ReposaMuñecas - PC / Mac / PS4 / Xbox One -  Negro ](https://www.amazon.com/dp/B07HVX7S6B/?tag=redken08-20) con un 42.863266180882974 % con precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41otfNb9TVL._SL200_.jpg)](https://www.amazon.com/dp/B07HVX7S6B/?tag=redken08-20)
 

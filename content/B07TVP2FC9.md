@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Creat'
+title: Descuento del 78.00780078007801 % en 'BRIKSMAX Led Lighting Kit for LEGO Creat'
 date: 2020-01-01 22:03:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413JaPPBApL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413JaPPBApL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Lighting Kit for LEGO Creator Sunshine Surfer Van- Compatible with Lego 31079 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TVP2FC9/?tag=redken08-20) a precio de oferta de 21.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Tienes [BRIKSMAX Led Lighting Kit for LEGO Creator Sunshine Surfer Van- Compatible with Lego 31079 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TVP2FC9/?tag=redken08-20) con un 78.00780078007801 % con precio de oferta de 21.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413JaPPBApL._SL200_.jpg)](https://www.amazon.com/dp/B07TVP2FC9/?tag=redken08-20)
 

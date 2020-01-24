@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Abril et Nature Bain Shampoo Energic Tre'
+title: 'Abril et Nature Bain Shampoo Energic Tre' al 44.09972299168975 % de descuento
 date: 2019/10/06 11:53:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VyVBFCATL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VyVBFCATL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.05 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Abril et Nature Bain Shampoo Energic Treatment  250 ml](https://www.amazon.com/dp/B00PIOQQKQ/?tag=redken08-20) a 10.09 EUR (original: 18.05 EUR) en el siguiente enlace!
+Ahora mismo tienes [Abril et Nature Bain Shampoo Energic Treatment  250 ml](https://www.amazon.com/dp/B00PIOQQKQ/?tag=redken08-20) a 10.09 EUR (original: 18.05 EUR) (44.09972299168975 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VyVBFCATL._SL200_.jpg)](https://www.amazon.com/dp/B00PIOQQKQ/?tag=redken08-20)
 

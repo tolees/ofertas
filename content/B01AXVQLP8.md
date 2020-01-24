@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Butter London Plush Rush Pintalabios'
+title: 'Butter London Plush Rush Pintalabios' al 90.55529188419554 % de descuento
 date: 2020-01-01 11:18:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.07 EUR
 inStock: true
 ---
 
-Está [Butter London Plush Rush Pintalabios](https://www.amazon.com/dp/B01AXVQLP8/?tag=redken08-20) por 1.99 EUR (original: 21.07 EUR) en el siguiente enlace!
+Está [Butter London Plush Rush Pintalabios](https://www.amazon.com/dp/B01AXVQLP8/?tag=redken08-20) con 90.55529188419554 por 1.99 EUR (original: 21.07 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31x37CsLc9L._SL200_.jpg)](https://www.amazon.com/dp/B01AXVQLP8/?tag=redken08-20)
 

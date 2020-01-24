@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 029CC1F014 Blusa  Verde  D'
+title: Descuento del 38.74774954990998 % en 'edc by Esprit 029CC1F014 Blusa  Verde  D'
 date: 2019/12/18 22:55:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2B5i-qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41csi%2B5i-qL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [edc by Esprit 029CC1F014 Blusa  Verde  Dusty Green 335   S para Mujer](https://www.amazon.com/dp/B07MN9B5PN/?tag=redken08-20) a precio de oferta de 30.62 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [edc by Esprit 029CC1F014 Blusa  Verde  Dusty Green 335   S para Mujer](https://www.amazon.com/dp/B07MN9B5PN/?tag=redken08-20) con un 38.74774954990998 % con precio de oferta de 30.62 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41csi%2B5i-qL._SL200_.jpg)](https://www.amazon.com/dp/B07MN9B5PN/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diadora 501.159886  Zapatilla Unisex Adu'
+title: Descuento del 31.237500000000008 % en 'Diadora 501.159886  Zapatilla Unisex Adu'
 date: 2019/11/11 18:55:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VYGqn969L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VYGqn969L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Tienes [Diadora 501.159886  Zapatilla Unisex Adulto  Multicolor  Blu Insegna/Grigio Pellicano   42.5 EU](https://www.amazon.com/dp/B00MJO3K8E/?tag=redken08-20) a precio de oferta de 55.01 EUR (original: 80 EUR) en el siguiente enlace!
+Tienes [Diadora 501.159886  Zapatilla Unisex Adulto  Multicolor  Blu Insegna/Grigio Pellicano   42.5 EU](https://www.amazon.com/dp/B00MJO3K8E/?tag=redken08-20) con un 31.237500000000008 % con precio de oferta de 55.01 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VYGqn969L._SL200_.jpg)](https://www.amazon.com/dp/B00MJO3K8E/?tag=redken08-20)
 

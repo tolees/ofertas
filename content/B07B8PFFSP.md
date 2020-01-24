@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars Minifigur 4-Lom mit 2 GAL'
+title: Descuento del 41.70141784820684 % en 'LEGO Star Wars Minifigur 4-Lom mit 2 GAL'
 date: 2020-01-23 18:16:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen](https://www.amazon.com/dp/B07B8PFFSP/?tag=redken08-20) a precio de oferta de 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!
+Tienes [LEGO Star Wars Minifigur 4-Lom mit 2 GALAXYARMS Waffen](https://www.amazon.com/dp/B07B8PFFSP/?tag=redken08-20) con un 41.70141784820684 % con precio de oferta de 6.99 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uMBxyLOdL._SL200_.jpg)](https://www.amazon.com/dp/B07B8PFFSP/?tag=redken08-20)
 

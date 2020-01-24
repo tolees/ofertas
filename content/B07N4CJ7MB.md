@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois  Maquillaje corrector  Tono: 20'
+title: 'Bourjois  Maquillaje corrector  Tono: 20' al 53.388888888888886 % de descuento
 date: 2020-01-13 13:55:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18 EUR
 inStock: true
 ---
 
-Está [Bourjois  Maquillaje corrector  Tono: 200 Rose Vanilla  Pieles Claras  - 32 gr.](https://www.amazon.com/dp/B07N4CJ7MB/?tag=redken08-20) por 8.39 EUR (original: 18 EUR) en el siguiente enlace!
+Está [Bourjois  Maquillaje corrector  Tono: 200 Rose Vanilla  Pieles Claras  - 32 gr.](https://www.amazon.com/dp/B07N4CJ7MB/?tag=redken08-20) con 53.388888888888886 por 8.39 EUR (original: 18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg)](https://www.amazon.com/dp/B07N4CJ7MB/?tag=redken08-20)
 

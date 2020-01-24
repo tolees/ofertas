@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dermacol - Delineador 12h True Colour No'
+title: 'Dermacol - Delineador 12h True Colour No' al 79.07268170426065 % de descuento
 date: 2019/12/14 14:23:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21WgIUa0MYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21WgIUa0MYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 47.88 EUR
 inStock: true
 ---
 
-Está [Dermacol - Delineador 12h True Colour No. 06 Marrón Oscuro  12 unidades](https://www.amazon.com/dp/B07F7QWJVF/?tag=redken08-20) por 10.02 EUR (original: 47.88 EUR) en el siguiente enlace!
+Está [Dermacol - Delineador 12h True Colour No. 06 Marrón Oscuro  12 unidades](https://www.amazon.com/dp/B07F7QWJVF/?tag=redken08-20) con 79.07268170426065 por 10.02 EUR (original: 47.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/21WgIUa0MYL._SL200_.jpg)](https://www.amazon.com/dp/B07F7QWJVF/?tag=redken08-20)
 

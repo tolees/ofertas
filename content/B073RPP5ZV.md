@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Vancouver Jacket  Hombre  N'
+title: 'Helly Hansen Vancouver Jacket  Hombre  N' al 43.7 % de descuento
 date: 2019/10/27 11:22:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E7dzKiICL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E7dzKiICL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Vancouver Jacket  Hombre  Navy  S](https://www.amazon.com/dp/B073RPP5ZV/?tag=redken08-20) a 78.82 EUR (original: 140 EUR) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen Vancouver Jacket  Hombre  Navy  S](https://www.amazon.com/dp/B073RPP5ZV/?tag=redken08-20) a 78.82 EUR (original: 140 EUR) (43.7 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41E7dzKiICL._SL200_.jpg)](https://www.amazon.com/dp/B073RPP5ZV/?tag=redken08-20)
 

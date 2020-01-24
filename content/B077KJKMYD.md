@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Naga Trinity - Ratón para Juegos M'
+title: 'Razer Naga Trinity - Ratón para Juegos M' al 27.275206836985177 % de descuento
 date: 2020-01-22 06:15:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A-SZUsD6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A-SZUsD6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Está [Razer Naga Trinity - Ratón para Juegos MOBA/MMO  3 Placas Laterales Intercambiables  Sensor óptico de 5G de 16 000 PPP  hasta 19 Botones programables ](https://www.amazon.com/dp/B077KJKMYD/?tag=redken08-20) por 79.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+Está [Razer Naga Trinity - Ratón para Juegos MOBA/MMO  3 Placas Laterales Intercambiables  Sensor óptico de 5G de 16 000 PPP  hasta 19 Botones programables ](https://www.amazon.com/dp/B077KJKMYD/?tag=redken08-20) con 27.275206836985177 por 79.99 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41A-SZUsD6L._SL200_.jpg)](https://www.amazon.com/dp/B077KJKMYD/?tag=redken08-20)
 

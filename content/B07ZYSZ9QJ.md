@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Controlador inalámbrico Doubleshock 4 PS'
+title: 'Controlador inalámbrico Doubleshock 4 PS' al 73.38657457371033 % de descuento
 date: 2019/11/20 21:19:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HExXc1ReL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HExXc1ReL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 138.99 EUR
 inStock: true
 ---
 
-Está [Controlador inalámbrico Doubleshock 4 PS4 para Playstation 4](https://www.amazon.com/dp/B07ZYSZ9QJ/?tag=redken08-20) por 36.99 EUR (original: 138.99 EUR) en el siguiente enlace!
+Está [Controlador inalámbrico Doubleshock 4 PS4 para Playstation 4](https://www.amazon.com/dp/B07ZYSZ9QJ/?tag=redken08-20) con 73.38657457371033 por 36.99 EUR (original: 138.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HExXc1ReL._SL200_.jpg)](https://www.amazon.com/dp/B07ZYSZ9QJ/?tag=redken08-20)
 

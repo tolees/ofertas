@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sportstyle Cotton Graphic P'
+title: 'Under Armour Sportstyle Cotton Graphic P' al 50.022222222222226 % de descuento
 date: 2019/11/30 10:05:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ye55NCFfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ye55NCFfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Under Armour Sportstyle Cotton Graphic Pantalón  Hombre  Azul  XXL](https://www.amazon.com/dp/B07QWM8CNW/?tag=redken08-20) por 22.49 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Under Armour Sportstyle Cotton Graphic Pantalón  Hombre  Azul  XXL](https://www.amazon.com/dp/B07QWM8CNW/?tag=redken08-20) con 50.022222222222226 por 22.49 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Ye55NCFfL._SL200_.jpg)](https://www.amazon.com/dp/B07QWM8CNW/?tag=redken08-20)
 

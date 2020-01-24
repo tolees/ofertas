@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Play Lubricante a Base de Agua Efe'
+title: 'Durex Play Lubricante a Base de Agua Efe' al 27.313566936208456 % de descuento
 date: 2019/10/16 22:42:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oKGIeQ1dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oKGIeQ1dL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.13 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Durex Play Lubricante a Base de Agua Efecto Frescor 50 ml](https://www.amazon.com/dp/B00RDFFBHW/?tag=redken08-20) a 8.09 EUR (original: 11.13 EUR) en el siguiente enlace!
+Ahora mismo tienes [Durex Play Lubricante a Base de Agua Efecto Frescor 50 ml](https://www.amazon.com/dp/B00RDFFBHW/?tag=redken08-20) a 8.09 EUR (original: 11.13 EUR) (27.313566936208456 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31oKGIeQ1dL._SL200_.jpg)](https://www.amazon.com/dp/B00RDFFBHW/?tag=redken08-20)
 

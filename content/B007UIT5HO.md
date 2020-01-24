@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb - PureVision 2 Esféricas -'
+title: 'Bausch & Lomb - PureVision 2 Esféricas -' al 77.01213818860877 % de descuento
 date: 2019/10/16 05:18:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31heT8QteoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31heT8QteoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 53.55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bausch & Lomb - PureVision 2 Esféricas - Lentes de Contacto](https://www.amazon.com/dp/B007UIT5HO/?tag=redken08-20) a 12.31 EUR (original: 53.55 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bausch & Lomb - PureVision 2 Esféricas - Lentes de Contacto](https://www.amazon.com/dp/B007UIT5HO/?tag=redken08-20) a 12.31 EUR (original: 53.55 EUR) (77.01213818860877 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31heT8QteoL._SL200_.jpg)](https://www.amazon.com/dp/B007UIT5HO/?tag=redken08-20)
 

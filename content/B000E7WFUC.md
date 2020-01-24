@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ESTÉE LAUDER WHITE LINEN agua de perfume'
+title: 'ESTÉE LAUDER WHITE LINEN agua de perfume' al 53.52112676056338 % de descuento
 date: 2020-01-13 17:41:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 71 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ESTÉE LAUDER WHITE LINEN agua de perfume vaporizador 60 ml](https://www.amazon.com/dp/B000E7WFUC/?tag=redken08-20) a 33 EUR (original: 71 EUR) en el siguiente enlace!
+Ahora mismo tienes [ESTÉE LAUDER WHITE LINEN agua de perfume vaporizador 60 ml](https://www.amazon.com/dp/B000E7WFUC/?tag=redken08-20) a 33 EUR (original: 71 EUR) (53.52112676056338 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rOb%2BmGDJL._SL200_.jpg)](https://www.amazon.com/dp/B000E7WFUC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Originals Desert Boot    - Botas '
+title: 'Clarks Originals Desert Boot    - Botas ' al 49.94615384615385 % de descuento
 date: 2019/10/14 07:06:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOGdcUitL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOGdcUitL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Clarks Originals Desert Boot    - Botas Desert Boots para mujer  Black  35.5](https://www.amazon.com/dp/B00RD4FEJI/?tag=redken08-20) a 65.07 EUR (original: 130 EUR) en el siguiente enlace!
+Ahora mismo tienes [Clarks Originals Desert Boot    - Botas Desert Boots para mujer  Black  35.5](https://www.amazon.com/dp/B00RD4FEJI/?tag=redken08-20) a 65.07 EUR (original: 130 EUR) (49.94615384615385 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BOGdcUitL._SL200_.jpg)](https://www.amazon.com/dp/B00RD4FEJI/?tag=redken08-20)
 

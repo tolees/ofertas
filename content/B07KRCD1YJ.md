@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Yc373v1  Zapatillas para Niñ'
+title: 'New Balance Yc373v1  Zapatillas para Niñ' al 40.0 % de descuento
 date: 2019/12/31 13:03:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Yc373v1  Zapatillas para Niños  Rojo  Burgundy Burgundy   38 EU](https://www.amazon.com/dp/B07KRCD1YJ/?tag=redken08-20) a 30 EUR (original: 50 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance Yc373v1  Zapatillas para Niños  Rojo  Burgundy Burgundy   38 EU](https://www.amazon.com/dp/B07KRCD1YJ/?tag=redken08-20) a 30 EUR (original: 50 EUR) (40.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL200_.jpg)](https://www.amazon.com/dp/B07KRCD1YJ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tous Agua de Colonia - 30 ml'
+title: 'Tous Agua de Colonia - 30 ml' al 33.47222222222223 % de descuento
 date: 2019/10/27 09:55:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s4OM17hoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s4OM17hoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 36 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Tous Agua de Colonia - 30 ml](https://www.amazon.com/dp/B0020MMGIK/?tag=redken08-20) a 23.95 EUR (original: 36 EUR) en el siguiente enlace!
+Ahora mismo tienes [Tous Agua de Colonia - 30 ml](https://www.amazon.com/dp/B0020MMGIK/?tag=redken08-20) a 23.95 EUR (original: 36 EUR) (33.47222222222223 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41s4OM17hoL._SL200_.jpg)](https://www.amazon.com/dp/B0020MMGIK/?tag=redken08-20)
 

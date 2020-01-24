@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Arcillas Puras Mascarilla '
+title: 'L Oréal Paris Arcillas Puras Mascarilla ' al 39.8989898989899 % de descuento
 date: 2020-01-04 15:42:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bU0eVISFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bU0eVISFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Está [L Oréal Paris Arcillas Puras Mascarilla Facial Exfoliante Roja - 50 ml](https://www.amazon.com/dp/B01LPQ0OK8/?tag=redken08-20) por 5.95 EUR (original: 9.9 EUR) en el siguiente enlace!
+Está [L Oréal Paris Arcillas Puras Mascarilla Facial Exfoliante Roja - 50 ml](https://www.amazon.com/dp/B01LPQ0OK8/?tag=redken08-20) con 39.8989898989899 por 5.95 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bU0eVISFL._SL200_.jpg)](https://www.amazon.com/dp/B01LPQ0OK8/?tag=redken08-20)
 

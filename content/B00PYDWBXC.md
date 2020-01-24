@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike MD Runner 2  Zapatillas de Running '
+title: Descuento del 40.06770272349591 % en 'Nike MD Runner 2  Zapatillas de Running '
 date: 2019/11/09 17:53:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414K992h9aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414K992h9aL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 EUR
 inStock: true
 ---
 
-Tienes [Nike MD Runner 2  Zapatillas de Running Hombre  Azul  Midnight Navy/White-Wolf Grey   42.5 EU](https://www.amazon.com/dp/B00PYDWBXC/?tag=redken08-20) a precio de oferta de 38.95 EUR (original: 64.99 EUR) en el siguiente enlace!
+Tienes [Nike MD Runner 2  Zapatillas de Running Hombre  Azul  Midnight Navy/White-Wolf Grey   42.5 EU](https://www.amazon.com/dp/B00PYDWBXC/?tag=redken08-20) con un 40.06770272349591 % con precio de oferta de 38.95 EUR (original: 64.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414K992h9aL._SL200_.jpg)](https://www.amazon.com/dp/B00PYDWBXC/?tag=redken08-20)
 

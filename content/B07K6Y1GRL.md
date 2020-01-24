@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Gris '
+title: 'Levi s 502 Regular Taper Vaqueros  Gris ' al 44.130353117956425 % de descuento
 date: 2020-01-06 15:56:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 106.48 EUR
 inStock: true
 ---
 
-Está [Levi s 502 Regular Taper Vaqueros  Gris  Gobbler ADV 0297   38W / 32L para Hombre](https://www.amazon.com/dp/B07K6Y1GRL/?tag=redken08-20) por 59.49 EUR (original: 106.48 EUR) en el siguiente enlace!
+Está [Levi s 502 Regular Taper Vaqueros  Gris  Gobbler ADV 0297   38W / 32L para Hombre](https://www.amazon.com/dp/B07K6Y1GRL/?tag=redken08-20) con 44.130353117956425 por 59.49 EUR (original: 106.48 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41G5buAg2eL._SL200_.jpg)](https://www.amazon.com/dp/B07K6Y1GRL/?tag=redken08-20)
 

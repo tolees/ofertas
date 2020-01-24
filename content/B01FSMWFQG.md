@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair Hydro Series H45 - Sistema de Re'
+title: 'Corsair Hydro Series H45 - Sistema de Re' al 36.247723132969035 % de descuento
 date: 2019/10/18 07:08:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wMmT31liL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wMmT31liL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Corsair Hydro Series H45 - Sistema de Refrigeración Líquida  Radiador de120 mm  un ventilador SP120 PWM  All-in-One Liquid CPU Cooler   Negro](https://www.amazon.com/dp/B01FSMWFQG/?tag=redken08-20) a 35 EUR (original: 54.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Corsair Hydro Series H45 - Sistema de Refrigeración Líquida  Radiador de120 mm  un ventilador SP120 PWM  All-in-One Liquid CPU Cooler   Negro](https://www.amazon.com/dp/B01FSMWFQG/?tag=redken08-20) a 35 EUR (original: 54.9 EUR) (36.247723132969035 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wMmT31liL._SL200_.jpg)](https://www.amazon.com/dp/B01FSMWFQG/?tag=redken08-20)
 

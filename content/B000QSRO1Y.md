@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optimum Nutrition Gold Standard 100% Whe'
+title: Descuento del 29.89983305509182 % en 'Optimum Nutrition Gold Standard 100% Whe'
 date: 2019/10/17 15:10:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yDddI4-cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yDddI4-cL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Tienes [Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo  Fresa - 2270 g](https://www.amazon.com/dp/B000QSRO1Y/?tag=redken08-20) a precio de oferta de 41.99 EUR (original: 59.9 EUR) en el siguiente enlace!
+Tienes [Optimum Nutrition Gold Standard 100% Whey Proteína en Polvo  Fresa - 2270 g](https://www.amazon.com/dp/B000QSRO1Y/?tag=redken08-20) con un 29.89983305509182 % con precio de oferta de 41.99 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yDddI4-cL._SL200_.jpg)](https://www.amazon.com/dp/B000QSRO1Y/?tag=redken08-20)
 

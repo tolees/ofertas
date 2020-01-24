@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Club C 85  Zapatillas para Hombre'
+title: 'Reebok Club C 85  Zapatillas para Hombre' al 40.21263289555973 % de descuento
 date: 2019/12/04 11:11:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nklPS-PHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nklPS-PHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Está [Reebok Club C 85  Zapatillas para Hombre  Blanco  Intense White/Navy 0   42.5 EU](https://www.amazon.com/dp/B01N7LAV5E/?tag=redken08-20) por 47.8 EUR (original: 79.95 EUR) en el siguiente enlace!
+Está [Reebok Club C 85  Zapatillas para Hombre  Blanco  Intense White/Navy 0   42.5 EU](https://www.amazon.com/dp/B01N7LAV5E/?tag=redken08-20) con 40.21263289555973 por 47.8 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nklPS-PHL._SL200_.jpg)](https://www.amazon.com/dp/B01N7LAV5E/?tag=redken08-20)
 

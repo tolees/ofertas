@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack Ahorro Relec Extrafuerte + Relec Po'
+title: 'Pack Ahorro Relec Extrafuerte + Relec Po' al 51.847389558232926 % de descuento
 date: 2019/11/19 01:06:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5187tY9xD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5187tY9xD5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.9 EUR
 inStock: true
 ---
 
-Está [Pack Ahorro Relec Extrafuerte + Relec Post-Picaduras](https://www.amazon.com/dp/B07PPCBTB6/?tag=redken08-20) por 11.99 EUR (original: 24.9 EUR) en el siguiente enlace!
+Está [Pack Ahorro Relec Extrafuerte + Relec Post-Picaduras](https://www.amazon.com/dp/B07PPCBTB6/?tag=redken08-20) con 51.847389558232926 por 11.99 EUR (original: 24.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5187tY9xD5L._SL200_.jpg)](https://www.amazon.com/dp/B07PPCBTB6/?tag=redken08-20)
 

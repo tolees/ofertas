@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hombres Tribal Africana Dashiki Camiseta'
+title: 'Hombres Tribal Africana Dashiki Camiseta' al 61.145080600333515 % de descuento
 date: 2019/11/15 15:42:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uA8uH6ieL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uA8uH6ieL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [Hombres Tribal Africana Dashiki Camiseta Floral Hipster Hip Hop Tops Black M](https://www.amazon.com/dp/B07DZKCL9B/?tag=redken08-20) por 6.99 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [Hombres Tribal Africana Dashiki Camiseta Floral Hipster Hip Hop Tops Black M](https://www.amazon.com/dp/B07DZKCL9B/?tag=redken08-20) con 61.145080600333515 por 6.99 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51uA8uH6ieL._SL200_.jpg)](https://www.amazon.com/dp/B07DZKCL9B/?tag=redken08-20)
 

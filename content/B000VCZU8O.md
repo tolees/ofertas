@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stanley 1-51-937 Martillo de carpintero'
+title: Descuento del 31.916344623778137 % en 'Stanley 1-51-937 Martillo de carpintero'
 date: 2020-01-23 10:42:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 43.99 EUR
 inStock: true
 ---
 
-Tienes [Stanley 1-51-937 Martillo de carpintero](https://www.amazon.com/dp/B000VCZU8O/?tag=redken08-20) a precio de oferta de 29.95 EUR (original: 43.99 EUR) en el siguiente enlace!
+Tienes [Stanley 1-51-937 Martillo de carpintero](https://www.amazon.com/dp/B000VCZU8O/?tag=redken08-20) con un 31.916344623778137 % con precio de oferta de 29.95 EUR (original: 43.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zLQBDk18L._SL200_.jpg)](https://www.amazon.com/dp/B000VCZU8O/?tag=redken08-20)
 

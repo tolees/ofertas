@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance MS 247 FK de la Zapatilla de'
+title: 'New Balance MS 247 FK de la Zapatilla de' al 64.08421052631579 % de descuento
 date: 2020-01-21 20:48:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-R8MguAUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-R8MguAUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Está [New Balance MS 247 FK de la Zapatilla de deporte para hombres azul blanco  40 EU](https://www.amazon.com/dp/B07DVJVXFF/?tag=redken08-20) por 34.12 EUR (original: 95 EUR) en el siguiente enlace!
+Está [New Balance MS 247 FK de la Zapatilla de deporte para hombres azul blanco  40 EU](https://www.amazon.com/dp/B07DVJVXFF/?tag=redken08-20) con 64.08421052631579 por 34.12 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-R8MguAUL._SL200_.jpg)](https://www.amazon.com/dp/B07DVJVXFF/?tag=redken08-20)
 

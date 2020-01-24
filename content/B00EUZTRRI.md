@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko SRN049P1 Reloj de caballero'
+title: 'Seiko SRN049P1 Reloj de caballero' al 31.606526140288203 % de descuento
 date: 2020-01-08 08:20:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-LNgNl9LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-LNgNl9LL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 251.91 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Seiko SRN049P1 Reloj de caballero](https://www.amazon.com/dp/B00EUZTRRI/?tag=redken08-20) a 172.29 EUR (original: 251.91 EUR) en el siguiente enlace!
+Ahora mismo tienes [Seiko SRN049P1 Reloj de caballero](https://www.amazon.com/dp/B00EUZTRRI/?tag=redken08-20) a 172.29 EUR (original: 251.91 EUR) (31.606526140288203 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-LNgNl9LL._SL200_.jpg)](https://www.amazon.com/dp/B00EUZTRRI/?tag=redken08-20)
 

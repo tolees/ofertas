@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Core - Sudadera para Hombre Verde '
+title: 'Kempa Core - Sudadera para Hombre Verde ' al 66.51464234277485 % de descuento
 date: 2019/10/15 20:19:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412pDdGnqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412pDdGnqsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 41.66 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kempa Core - Sudadera para Hombre Verde Verde Talla:Large](https://www.amazon.com/dp/B00J3QJHZQ/?tag=redken08-20) a 13.95 EUR (original: 41.66 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kempa Core - Sudadera para Hombre Verde Verde Talla:Large](https://www.amazon.com/dp/B00J3QJHZQ/?tag=redken08-20) a 13.95 EUR (original: 41.66 EUR) (66.51464234277485 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412pDdGnqsL._SL200_.jpg)](https://www.amazon.com/dp/B00J3QJHZQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZTE Blade A512 - Smartphone Libre de 5 2'
+title: 'ZTE Blade A512 - Smartphone Libre de 5 2' al 47.337278106508876 % de descuento
 date: 2019/10/22 21:50:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UZLalauaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UZLalauaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169 EUR
 inStock: true
 ---
 
-Está [ZTE Blade A512 - Smartphone Libre de 5 2"  4G  Qualcomm MSM 8917  4 núcleos a 1.2 GHz  Memoria Interna 16 GB  2 GB RAM  WiFi  Bluetooth  cámara Trasera de 13 MP   Color Negro](https://www.amazon.com/dp/B01JA5HK8A/?tag=redken08-20) por 89 EUR (original: 169 EUR) en el siguiente enlace!
+Está [ZTE Blade A512 - Smartphone Libre de 5 2"  4G  Qualcomm MSM 8917  4 núcleos a 1.2 GHz  Memoria Interna 16 GB  2 GB RAM  WiFi  Bluetooth  cámara Trasera de 13 MP   Color Negro](https://www.amazon.com/dp/B01JA5HK8A/?tag=redken08-20) con 47.337278106508876 por 89 EUR (original: 169 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UZLalauaL._SL200_.jpg)](https://www.amazon.com/dp/B01JA5HK8A/?tag=redken08-20)
 

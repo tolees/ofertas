@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cámara DV180 16MP Mini vídeo Digital con'
+title: Descuento del 59.990684676292496 % en 'Cámara DV180 16MP Mini vídeo Digital con'
 date: 2020-01-22 07:28:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 42.94 EUR
 inStock: true
 ---
 
-Tienes [Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom Digital de 8X](https://www.amazon.com/dp/B07KVZV8KX/?tag=redken08-20) a precio de oferta de 17.18 EUR (original: 42.94 EUR) en el siguiente enlace!
+Tienes [Cámara DV180 16MP Mini vídeo Digital con 1 5" TFT Zoom Digital de 8X](https://www.amazon.com/dp/B07KVZV8KX/?tag=redken08-20) con un 59.990684676292496 % con precio de oferta de 17.18 EUR (original: 42.94 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41V7VxuTqdL._SL200_.jpg)](https://www.amazon.com/dp/B07KVZV8KX/?tag=redken08-20)
 

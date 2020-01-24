@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Arto S  Bolsos bandolera Mujer'
+title: 'Kipling - Arto S  Bolsos bandolera Mujer' al 30.000000000000004 % de descuento
 date: 2020-01-02 13:06:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m6A6kqTyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m6A6kqTyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Está [Kipling - Arto S  Bolsos bandolera Mujer  Gris  Night Grey   25x21x3 cm  B x H T ](https://www.amazon.com/dp/B07MVJBV65/?tag=redken08-20) por 41.3 EUR (original: 59 EUR) en el siguiente enlace!
+Está [Kipling - Arto S  Bolsos bandolera Mujer  Gris  Night Grey   25x21x3 cm  B x H T ](https://www.amazon.com/dp/B07MVJBV65/?tag=redken08-20) con 30.000000000000004 por 41.3 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51m6A6kqTyL._SL200_.jpg)](https://www.amazon.com/dp/B07MVJBV65/?tag=redken08-20)
 

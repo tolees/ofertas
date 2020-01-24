@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1 par de manetas de freno de embrague de'
+title: '1 par de manetas de freno de embrague de' al 26.51839178785287 % de descuento
 date: 2020-01-15 14:45:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.69 EUR
 inStock: true
 ---
 
-Está [1 par de manetas de freno de embrague de 7/8 pulgadas  maneta de freno de tambor universal Keenso de 22 mm  rojo ](https://www.amazon.com/dp/B07WX2PW7L/?tag=redken08-20) por 8.59 EUR (original: 11.69 EUR) en el siguiente enlace!
+Está [1 par de manetas de freno de embrague de 7/8 pulgadas  maneta de freno de tambor universal Keenso de 22 mm  rojo ](https://www.amazon.com/dp/B07WX2PW7L/?tag=redken08-20) con 26.51839178785287 por 8.59 EUR (original: 11.69 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RIVZRRJmL._SL200_.jpg)](https://www.amazon.com/dp/B07WX2PW7L/?tag=redken08-20)
 

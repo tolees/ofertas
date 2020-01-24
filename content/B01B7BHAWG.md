@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ATTCL Hombre Gafas de sol Polarizado Al-'
+title: 'ATTCL Hombre Gafas de sol Polarizado Al-' al 50.0 % de descuento
 date: 2019/11/04 08:54:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rgNo%2B0k2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rgNo%2B0k2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ATTCL Hombre Gafas de sol Polarizado Al-Mg Metal Super Ligero Marco 18587blue](https://www.amazon.com/dp/B01B7BHAWG/?tag=redken08-20) a 25 EUR (original: 50 EUR) en el siguiente enlace!
+Ahora mismo tienes [ATTCL Hombre Gafas de sol Polarizado Al-Mg Metal Super Ligero Marco 18587blue](https://www.amazon.com/dp/B01B7BHAWG/?tag=redken08-20) a 25 EUR (original: 50 EUR) (50.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rgNo%2B0k2L._SL200_.jpg)](https://www.amazon.com/dp/B01B7BHAWG/?tag=redken08-20)
 

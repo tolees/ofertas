@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Baseline Word Mark tee - Ca'
+title: Descuento del 54.97142857142857 % en 'Under Armour Baseline Word Mark tee - Ca'
 date: 2019/11/05 00:30:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31crg8ZtjFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31crg8ZtjFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Tienes [Under Armour Baseline Word Mark tee - Camiseta de Manga Corta para Hombre  Hombre  Color Steel Light Heather/White/Black  tamaño X-Large](https://www.amazon.com/dp/B079FX9JKY/?tag=redken08-20) a precio de oferta de 15.76 EUR (original: 35 EUR) en el siguiente enlace!
+Tienes [Under Armour Baseline Word Mark tee - Camiseta de Manga Corta para Hombre  Hombre  Color Steel Light Heather/White/Black  tamaño X-Large](https://www.amazon.com/dp/B079FX9JKY/?tag=redken08-20) con un 54.97142857142857 % con precio de oferta de 15.76 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31crg8ZtjFL._SL200_.jpg)](https://www.amazon.com/dp/B079FX9JKY/?tag=redken08-20)
 

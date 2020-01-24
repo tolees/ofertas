@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carbonell  Aceite de oliva - 5 l.'
+title: 'Carbonell  Aceite de oliva - 5 l.' al 39.879759519038075 % de descuento
 date: 2020-01-16 20:59:20
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 24.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Carbonell  Aceite de oliva - 5 l.](https://www.amazon.com/dp/B00PQSVJLK/?tag=redken08-20) a 15 EUR (original: 24.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Carbonell  Aceite de oliva - 5 l.](https://www.amazon.com/dp/B00PQSVJLK/?tag=redken08-20) a 15 EUR (original: 24.95 EUR) (39.879759519038075 %) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B00PQSVJLK/?tag=redken08-20)
 

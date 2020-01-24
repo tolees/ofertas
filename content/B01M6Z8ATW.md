@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA I Will SS Camisa de Mang'
+title: Descuento del 51.800000000000004 % en 'Under Armour UA I Will SS Camisa de Mang'
 date: 2019/10/10 08:12:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xdMMqjrjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xdMMqjrjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA I Will SS Camisa de Manga Corta  Hombre  Azul  XL](https://www.amazon.com/dp/B01M6Z8ATW/?tag=redken08-20) a precio de oferta de 12.05 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [Under Armour UA I Will SS Camisa de Manga Corta  Hombre  Azul  XL](https://www.amazon.com/dp/B01M6Z8ATW/?tag=redken08-20) con un 51.800000000000004 % con precio de oferta de 12.05 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xdMMqjrjL._SL200_.jpg)](https://www.amazon.com/dp/B01M6Z8ATW/?tag=redken08-20)
 

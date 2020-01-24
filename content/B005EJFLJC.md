@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Duracell LR06 MX1500 - Plus AA  pilas al'
+title: 'Duracell LR06 MX1500 - Plus AA  pilas al' al 43.16901408450704 % de descuento
 date: 2020-01-21 12:58:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fS8gFdmvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fS8gFdmvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.2 EUR
 inStock: true
 ---
 
-Está [Duracell LR06 MX1500 - Plus AA  pilas alcalinas  paquete de 12  1.5 voltios](https://www.amazon.com/dp/B005EJFLJC/?tag=redken08-20) por 8.07 EUR (original: 14.2 EUR) en el siguiente enlace!
+Está [Duracell LR06 MX1500 - Plus AA  pilas alcalinas  paquete de 12  1.5 voltios](https://www.amazon.com/dp/B005EJFLJC/?tag=redken08-20) con 43.16901408450704 por 8.07 EUR (original: 14.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51fS8gFdmvL._SL200_.jpg)](https://www.amazon.com/dp/B005EJFLJC/?tag=redken08-20)
 

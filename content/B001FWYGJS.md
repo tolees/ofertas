@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TP-Link TL-WR841N - WiFi router inalámbr'
+title: 'TP-Link TL-WR841N - WiFi router inalámbr' al 41.50501672240803 % de descuento
 date: 2020-01-24 11:22:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z5Bdw6IDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z5Bdw6IDL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TP-Link TL-WR841N - WiFi router inalámbrico  300 Mbps de velocidad WiFi  antenas de 5 dBi  modo multi  fácil de usar  4 puertos LAN de 10/100 Mbps  1 puerto WAN de 10/100 Mbps](https://www.amazon.com/dp/B001FWYGJS/?tag=redken08-20) a 17.49 EUR (original: 29.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [TP-Link TL-WR841N - WiFi router inalámbrico  300 Mbps de velocidad WiFi  antenas de 5 dBi  modo multi  fácil de usar  4 puertos LAN de 10/100 Mbps  1 puerto WAN de 10/100 Mbps](https://www.amazon.com/dp/B001FWYGJS/?tag=redken08-20) a 17.49 EUR (original: 29.9 EUR) (41.50501672240803 %) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Z5Bdw6IDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B001FWYGJS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BB-9E App-Enabled Droid con Droid Traine'
+title: 'BB-9E App-Enabled Droid con Droid Traine' al 50.01000066671111 % de descuento
 date: 2019/12/10 08:19:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415TU%2BVreeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415TU%2BVreeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BB-9E App-Enabled Droid con Droid Trainer de Sphero](https://www.amazon.com/dp/B0728CLPJY/?tag=redken08-20) a 74.98 EUR (original: 149.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BB-9E App-Enabled Droid con Droid Trainer de Sphero](https://www.amazon.com/dp/B0728CLPJY/?tag=redken08-20) a 74.98 EUR (original: 149.99 EUR) (50.01000066671111 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415TU%2BVreeL._SL200_.jpg)](https://www.amazon.com/dp/B0728CLPJY/?tag=redken08-20)
 

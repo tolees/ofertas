@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Perfect-tee Camiseta de Manga Cor'
+title: 'Levi s Perfect-tee Camiseta de Manga Cor' al 50.2 % de descuento
 date: 2019/10/17 09:35:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411aHwe9KEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411aHwe9KEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Levi s Perfect-tee Camiseta de Manga Corta  Multicolor  Koronis Brilliant Red 0039   X-Small para Mujer](https://www.amazon.com/dp/B07LFBRQ2Y/?tag=redken08-20) por 12.45 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Levi s Perfect-tee Camiseta de Manga Corta  Multicolor  Koronis Brilliant Red 0039   X-Small para Mujer](https://www.amazon.com/dp/B07LFBRQ2Y/?tag=redken08-20) con 50.2 por 12.45 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411aHwe9KEL._SL200_.jpg)](https://www.amazon.com/dp/B07LFBRQ2Y/?tag=redken08-20)
 

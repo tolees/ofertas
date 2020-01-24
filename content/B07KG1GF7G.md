@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cell Venom Alert  Zapatillas Unisex'
+title: 'PUMA Cell Venom Alert  Zapatillas Unisex' al 66.31096290120884 % de descuento
 date: 2019/12/26 00:12:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.95 EUR
 inStock: true
 ---
 
-Está [PUMA Cell Venom Alert  Zapatillas Unisex Adulto  White Black  36 EU](https://www.amazon.com/dp/B07KG1GF7G/?tag=redken08-20) por 40.41 EUR (original: 119.95 EUR) en el siguiente enlace!
+Está [PUMA Cell Venom Alert  Zapatillas Unisex Adulto  White Black  36 EU](https://www.amazon.com/dp/B07KG1GF7G/?tag=redken08-20) con 66.31096290120884 por 40.41 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cum3w0yXL._SL200_.jpg)](https://www.amazon.com/dp/B07KG1GF7G/?tag=redken08-20)
 

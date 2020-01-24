@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jane Iredale  Brillo labial - 150 gr.'
+title: 'Jane Iredale  Brillo labial - 150 gr.' al 52.930005425935974 % de descuento
 date: 2019/10/14 04:37:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318MSS8pHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318MSS8pHxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 36.86 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jane Iredale  Brillo labial - 150 gr.](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20) a 17.35 EUR (original: 36.86 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jane Iredale  Brillo labial - 150 gr.](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20) a 17.35 EUR (original: 36.86 EUR) (52.930005425935974 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318MSS8pHxL._SL200_.jpg)](https://www.amazon.com/dp/B0144OJTFO/?tag=redken08-20)
 

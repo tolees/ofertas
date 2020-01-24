@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hellmann s - Gran Salsa Barbacoa - 250 m'
+title: 'Hellmann s - Gran Salsa Barbacoa - 250 m' al 34.210526315789465 % de descuento
 date: 2020-01-21 15:54:30
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 12.16 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hellmann s - Gran Salsa Barbacoa - 250 ml - [Pack de 8]](https://www.amazon.com/dp/B01M6ZKMUF/?tag=redken08-20) a 8 EUR (original: 12.16 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hellmann s - Gran Salsa Barbacoa - 250 ml - [Pack de 8]](https://www.amazon.com/dp/B01M6ZKMUF/?tag=redken08-20) a 8 EUR (original: 12.16 EUR) (34.210526315789465 %) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B01M6ZKMUF/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans OLD SKOOL III BACKPACK Mochila tipo'
+title: 'Vans OLD SKOOL III BACKPACK Mochila tipo' al 50.0 % de descuento
 date: 2020-01-15 19:54:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HGK0lVVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HGK0lVVGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38 EUR
 inStock: true
 ---
 
-Está [Vans OLD SKOOL III BACKPACK Mochila tipo casual  42 cm  22 L  Rojo  Cerise ](https://www.amazon.com/dp/B07R8HH7JG/?tag=redken08-20) por 19 EUR (original: 38 EUR) en el siguiente enlace!
+Está [Vans OLD SKOOL III BACKPACK Mochila tipo casual  42 cm  22 L  Rojo  Cerise ](https://www.amazon.com/dp/B07R8HH7JG/?tag=redken08-20) con 50.0 por 19 EUR (original: 38 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HGK0lVVGL._SL200_.jpg)](https://www.amazon.com/dp/B07R8HH7JG/?tag=redken08-20)
 

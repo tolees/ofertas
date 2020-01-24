@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nintendo - Figura Amiibo Smash Link'
+title: Descuento del 31.06145251396648 % en 'Nintendo - Figura Amiibo Smash Link'
 date: 2019/12/14 19:12:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i2TMpsAXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i2TMpsAXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.9 EUR
 inStock: true
 ---
 
-Tienes [Nintendo - Figura Amiibo Smash Link](https://www.amazon.com/dp/B00N8PBQDE/?tag=redken08-20) a precio de oferta de 12.34 EUR (original: 17.9 EUR) en el siguiente enlace!
+Tienes [Nintendo - Figura Amiibo Smash Link](https://www.amazon.com/dp/B00N8PBQDE/?tag=redken08-20) con un 31.06145251396648 % con precio de oferta de 12.34 EUR (original: 17.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51i2TMpsAXL._SL200_.jpg)](https://www.amazon.com/dp/B00N8PBQDE/?tag=redken08-20)
 

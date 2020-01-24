@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MERAKI Anorak Mujer con Cuello Alto  Azu'
+title: 'MERAKI Anorak Mujer con Cuello Alto  Azu' al 70.0 % de descuento
 date: 2019/10/30 12:32:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411futDorkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411futDorkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MERAKI Anorak Mujer con Cuello Alto  Azul  X-Large](https://www.amazon.com/dp/B076PKBC7C/?tag=redken08-20) a 15 EUR (original: 50 EUR) en el siguiente enlace!
+Ahora mismo tienes [MERAKI Anorak Mujer con Cuello Alto  Azul  X-Large](https://www.amazon.com/dp/B076PKBC7C/?tag=redken08-20) a 15 EUR (original: 50 EUR) (70.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411futDorkL._SL200_.jpg)](https://www.amazon.com/dp/B076PKBC7C/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Osprey Axis - Mochila Tipo Casual  47 cm'
+title: 'Osprey Axis - Mochila Tipo Casual  47 cm' al 29.614285714285714 % de descuento
 date: 2019/11/02 18:46:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J8exJtJGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J8exJtJGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [Osprey Axis - Mochila Tipo Casual  47 cm  Negro](https://www.amazon.com/dp/B07PCBNDGX/?tag=redken08-20) por 49.27 EUR (original: 70 EUR) en el siguiente enlace!
+Está [Osprey Axis - Mochila Tipo Casual  47 cm  Negro](https://www.amazon.com/dp/B07PCBNDGX/?tag=redken08-20) con 29.614285714285714 por 49.27 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41J8exJtJGL._SL200_.jpg)](https://www.amazon.com/dp/B07PCBNDGX/?tag=redken08-20)
 

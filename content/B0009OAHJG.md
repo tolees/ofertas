@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carolina Herrera Herrera Men Agua de Col'
+title: Descuento del 37.67741935483871 % en 'Carolina Herrera Herrera Men Agua de Col'
 date: 2019/10/05 10:27:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u5bpD4U%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u5bpD4U%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 77.5 EUR
 inStock: true
 ---
 
-Tienes [Carolina Herrera Herrera Men Agua de Colonia - 100 ml](https://www.amazon.com/dp/B0009OAHJG/?tag=redken08-20) a precio de oferta de 48.3 EUR (original: 77.5 EUR) en el siguiente enlace!
+Tienes [Carolina Herrera Herrera Men Agua de Colonia - 100 ml](https://www.amazon.com/dp/B0009OAHJG/?tag=redken08-20) con un 37.67741935483871 % con precio de oferta de 48.3 EUR (original: 77.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41u5bpD4U%2BL._SL200_.jpg)](https://www.amazon.com/dp/B0009OAHJG/?tag=redken08-20)
 

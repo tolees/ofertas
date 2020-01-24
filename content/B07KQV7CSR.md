@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Linear Core  Mochila Unisex Adult'
+title: 'adidas Linear Core  Mochila Unisex Adult' al 52.32371794871795 % de descuento
 date: 2020-01-19 10:09:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WMyUDknHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WMyUDknHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.48 EUR
 inStock: true
 ---
 
-Está [adidas Linear Core  Mochila Unisex Adulto  Negro  Black/Black/White   1x37x47 centimeters  W x H x L ](https://www.amazon.com/dp/B07KQV7CSR/?tag=redken08-20) por 5.95 EUR (original: 12.48 EUR) en el siguiente enlace!
+Está [adidas Linear Core  Mochila Unisex Adulto  Negro  Black/Black/White   1x37x47 centimeters  W x H x L ](https://www.amazon.com/dp/B07KQV7CSR/?tag=redken08-20) con 52.32371794871795 por 5.95 EUR (original: 12.48 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WMyUDknHL._SL200_.jpg)](https://www.amazon.com/dp/B07KQV7CSR/?tag=redken08-20)
 

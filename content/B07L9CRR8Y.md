@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ROYAL SLEEP Colchón viscoelástico 90x200'
+title: 'ROYAL SLEEP Colchón viscoelástico 90x200' al 42.398894384637764 % de descuento
 date: 2019/10/16 05:13:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5126cr5LSGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5126cr5LSGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 137.48 EUR
 inStock: true
 ---
 
-Está [ROYAL SLEEP Colchón viscoelástico 90x200 firmeza Media  adaptabilidad y Calidad Alta  Altura 21m - Colchones Xfresh Premium](https://www.amazon.com/dp/B07L9CRR8Y/?tag=redken08-20) por 79.19 EUR (original: 137.48 EUR) en el siguiente enlace!
+Está [ROYAL SLEEP Colchón viscoelástico 90x200 firmeza Media  adaptabilidad y Calidad Alta  Altura 21m - Colchones Xfresh Premium](https://www.amazon.com/dp/B07L9CRR8Y/?tag=redken08-20) con 42.398894384637764 por 79.19 EUR (original: 137.48 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5126cr5LSGL._SL200_.jpg)](https://www.amazon.com/dp/B07L9CRR8Y/?tag=redken08-20)
 

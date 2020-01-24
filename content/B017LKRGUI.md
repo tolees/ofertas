@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Egamaster - Martillo bola 450gr cobre'
+title: 'Egamaster - Martillo bola 450gr cobre' al 26.995994659546064 % de descuento
 date: 2019/10/17 11:23:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/215UNIB7dEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/215UNIB7dEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 112.35 EUR
 inStock: true
 ---
 
-Está [Egamaster - Martillo bola 450gr cobre](https://www.amazon.com/dp/B017LKRGUI/?tag=redken08-20) por 82.02 EUR (original: 112.35 EUR) en el siguiente enlace!
+Está [Egamaster - Martillo bola 450gr cobre](https://www.amazon.com/dp/B017LKRGUI/?tag=redken08-20) con 26.995994659546064 por 82.02 EUR (original: 112.35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/215UNIB7dEL._SL200_.jpg)](https://www.amazon.com/dp/B017LKRGUI/?tag=redken08-20)
 

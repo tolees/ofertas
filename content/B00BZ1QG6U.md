@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roura 901171  Vela de Limoncillo del Med'
+title: Descuento del 51.103804603100045 % en 'Roura 901171  Vela de Limoncillo del Med'
 date: 2019/10/05 09:23:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317L%2BgdEWCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317L%2BgdEWCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.29 EUR
 inStock: true
 ---
 
-Tienes [Roura 901171  Vela de Limoncillo del Mediterráneo  Colores Surtidos  70 x 155 mm](https://www.amazon.com/dp/B00BZ1QG6U/?tag=redken08-20) a precio de oferta de 10.41 EUR (original: 21.29 EUR) en el siguiente enlace!
+Tienes [Roura 901171  Vela de Limoncillo del Mediterráneo  Colores Surtidos  70 x 155 mm](https://www.amazon.com/dp/B00BZ1QG6U/?tag=redken08-20) con un 51.103804603100045 % con precio de oferta de 10.41 EUR (original: 21.29 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317L%2BgdEWCL._SL200_.jpg)](https://www.amazon.com/dp/B00BZ1QG6U/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRESemmé Champú Liso Keratina - 100 ml'
+title: 'TRESemmé Champú Liso Keratina - 100 ml' al 60.00000000000001 % de descuento
 date: 2019/10/09 08:22:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g3YRxUonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g3YRxUonL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [TRESemmé Champú Liso Keratina - 100 ml](https://www.amazon.com/dp/B079KDTM2X/?tag=redken08-20) a 0.64 EUR (original: 1.6 EUR) en el siguiente enlace!
+Ahora mismo tienes [TRESemmé Champú Liso Keratina - 100 ml](https://www.amazon.com/dp/B079KDTM2X/?tag=redken08-20) a 0.64 EUR (original: 1.6 EUR) (60.00000000000001 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41g3YRxUonL._SL200_.jpg)](https://www.amazon.com/dp/B079KDTM2X/?tag=redken08-20)
 

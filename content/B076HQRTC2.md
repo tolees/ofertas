@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Core18 Hoody Sudadera con Capucha'
+title: 'adidas Core18 Hoody Sudadera con Capucha' al 30.107526881720435 % de descuento
 date: 2019/12/17 03:32:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [adidas Core18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   XL](https://www.amazon.com/dp/B076HQRTC2/?tag=redken08-20) por 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [adidas Core18 Hoody Sudadera con Capucha  Hombre  Negro  Negro/Blanco   XL](https://www.amazon.com/dp/B076HQRTC2/?tag=redken08-20) con 30.107526881720435 por 27.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg)](https://www.amazon.com/dp/B076HQRTC2/?tag=redken08-20)
 

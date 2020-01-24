@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nintendo - Figura Amiibo Link Skyward Sw'
+title: 'Nintendo - Figura Amiibo Link Skyward Sw' al 27.6536312849162 % de descuento
 date: 2019/10/30 16:11:15 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 17.9 EUR
 inStock: true
 ---
 
-Está [Nintendo - Figura Amiibo Link Skyward Sword Serie Zelda](https://www.amazon.com/dp/B06ZYFNB3K/?tag=redken08-20) por 12.95 EUR (original: 17.9 EUR) en el siguiente enlace!
+Está [Nintendo - Figura Amiibo Link Skyward Sword Serie Zelda](https://www.amazon.com/dp/B06ZYFNB3K/?tag=redken08-20) con 27.6536312849162 por 12.95 EUR (original: 17.9 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B06ZYFNB3K/?tag=redken08-20)
 

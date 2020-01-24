@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb -  Soflens Color - Lentes '
+title: 'Bausch & Lomb -  Soflens Color - Lentes ' al 56.76943699731903 % de descuento
 date: 2020-01-05 21:56:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41atX0etlWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41atX0etlWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.84 EUR
 inStock: true
 ---
 
-Está [Bausch & Lomb -  Soflens Color - Lentes De Contacto de Color  con y sin graduación - 2 unidades](https://www.amazon.com/dp/B00NOWA7AE/?tag=redken08-20) por 12.9 EUR (original: 29.84 EUR) en el siguiente enlace!
+Está [Bausch & Lomb -  Soflens Color - Lentes De Contacto de Color  con y sin graduación - 2 unidades](https://www.amazon.com/dp/B00NOWA7AE/?tag=redken08-20) con 56.76943699731903 por 12.9 EUR (original: 29.84 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41atX0etlWL._SL200_.jpg)](https://www.amazon.com/dp/B00NOWA7AE/?tag=redken08-20)
 

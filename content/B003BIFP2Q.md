@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia 477164 - Calientaplatos de 2 V'
+title: 'Brabantia 477164 - Calientaplatos de 2 V' al 29.982728842832472 % de descuento
 date: 2019/10/28 11:12:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tBeX%2BvpsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tBeX%2BvpsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.95 EUR
 inStock: true
 ---
 
-Está [Brabantia 477164 - Calientaplatos de 2 Velas  Color Blanco](https://www.amazon.com/dp/B003BIFP2Q/?tag=redken08-20) por 20.27 EUR (original: 28.95 EUR) en el siguiente enlace!
+Está [Brabantia 477164 - Calientaplatos de 2 Velas  Color Blanco](https://www.amazon.com/dp/B003BIFP2Q/?tag=redken08-20) con 29.982728842832472 por 20.27 EUR (original: 28.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tBeX%2BvpsL._SL200_.jpg)](https://www.amazon.com/dp/B003BIFP2Q/?tag=redken08-20)
 

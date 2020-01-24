@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Crew Hooded Midlayer Chaque'
+title: 'Helly Hansen Crew Hooded Midlayer Chaque' al 45.470588235294116 % de descuento
 date: 2019/11/29 01:26:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MwwdfRwGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MwwdfRwGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 170 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Crew Hooded Midlayer Chaqueta Impermeable  Cortavientos y Transpirable para Hombre  con Forro Polar y Capucha Integrados  Negro  M](https://www.amazon.com/dp/B01NBKM03J/?tag=redken08-20) por 92.7 EUR (original: 170 EUR) en el siguiente enlace!
+Está [Helly Hansen Crew Hooded Midlayer Chaqueta Impermeable  Cortavientos y Transpirable para Hombre  con Forro Polar y Capucha Integrados  Negro  M](https://www.amazon.com/dp/B01NBKM03J/?tag=redken08-20) con 45.470588235294116 por 92.7 EUR (original: 170 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MwwdfRwGL._SL200_.jpg)](https://www.amazon.com/dp/B01NBKM03J/?tag=redken08-20)
 

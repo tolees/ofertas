@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face W TBL Sport HD Sudadera D'
+title: 'The North Face W TBL Sport HD Sudadera D' al 49.642857142857146 % de descuento
 date: 2019/12/04 14:16:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wZKOyFk5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wZKOyFk5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 210 EUR
 inStock: true
 ---
 
-Está [The North Face W TBL Sport HD Sudadera Deportiva con Capucha Thermoball  Mujer  Atomic Pink  XS](https://www.amazon.com/dp/B07FNRS6TC/?tag=redken08-20) por 105.75 EUR (original: 210 EUR) en el siguiente enlace!
+Está [The North Face W TBL Sport HD Sudadera Deportiva con Capucha Thermoball  Mujer  Atomic Pink  XS](https://www.amazon.com/dp/B07FNRS6TC/?tag=redken08-20) con 49.642857142857146 por 105.75 EUR (original: 210 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wZKOyFk5L._SL200_.jpg)](https://www.amazon.com/dp/B07FNRS6TC/?tag=redken08-20)
 

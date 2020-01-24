@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Trucker Cap Gorra  Unisex Adulto  C'
+title: 'PUMA Trucker Cap Gorra  Unisex Adulto  C' al 49.916434540389965 % de descuento
 date: 2019/11/24 10:26:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wvMX8DWlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wvMX8DWlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Está [PUMA Trucker Cap Gorra  Unisex Adulto  Castlerock](https://www.amazon.com/dp/B07QGK5QV3/?tag=redken08-20) por 8.99 EUR (original: 17.95 EUR) en el siguiente enlace!
+Está [PUMA Trucker Cap Gorra  Unisex Adulto  Castlerock](https://www.amazon.com/dp/B07QGK5QV3/?tag=redken08-20) con 49.916434540389965 por 8.99 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wvMX8DWlL._SL200_.jpg)](https://www.amazon.com/dp/B07QGK5QV3/?tag=redken08-20)
 

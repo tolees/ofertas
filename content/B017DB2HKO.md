@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Colorete Infalible Trio 10'
+title: 'L Oréal Paris Colorete Infalible Trio 10' al 52.1146953405018 % de descuento
 date: 2019/10/12 12:25:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a3tFWtr7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a3tFWtr7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.95 EUR
 inStock: true
 ---
 
-Está [L Oréal Paris Colorete Infalible Trio 101 Soft Rosy](https://www.amazon.com/dp/B017DB2HKO/?tag=redken08-20) por 6.68 EUR (original: 13.95 EUR) en el siguiente enlace!
+Está [L Oréal Paris Colorete Infalible Trio 101 Soft Rosy](https://www.amazon.com/dp/B017DB2HKO/?tag=redken08-20) con 52.1146953405018 por 6.68 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51a3tFWtr7L._SL200_.jpg)](https://www.amazon.com/dp/B017DB2HKO/?tag=redken08-20)
 

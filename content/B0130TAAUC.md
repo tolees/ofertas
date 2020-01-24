@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WRC 5  World Rally Championship '
+title: Descuento del 47.849569913982805 % en 'WRC 5  World Rally Championship '
 date: 2019/10/31 19:01:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HATB94l7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HATB94l7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [WRC 5  World Rally Championship ](https://www.amazon.com/dp/B0130TAAUC/?tag=redken08-20) a precio de oferta de 26.07 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [WRC 5  World Rally Championship ](https://www.amazon.com/dp/B0130TAAUC/?tag=redken08-20) con un 47.849569913982805 % con precio de oferta de 26.07 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HATB94l7L._SL200_.jpg)](https://www.amazon.com/dp/B0130TAAUC/?tag=redken08-20)
 

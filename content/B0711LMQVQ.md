@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COOSA Correa de Recambio Brazalete Exten'
+title: 'COOSA Correa de Recambio Brazalete Exten' al 30.79291762894534 % de descuento
 date: 2020-01-14 19:47:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gjeb4X2VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gjeb4X2VL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Está [COOSA Correa de Recambio Brazalete Extensibles Coloridos Impermeables para reemplazo Pulsera XIAOMI Wireless Recambio para Pulsera Inteligente XIAOMI MI Band 2  sin Rastreador de Actividad ](https://www.amazon.com/dp/B0711LMQVQ/?tag=redken08-20) por 8.99 EUR (original: 12.99 EUR) en el siguiente enlace!
+Está [COOSA Correa de Recambio Brazalete Extensibles Coloridos Impermeables para reemplazo Pulsera XIAOMI Wireless Recambio para Pulsera Inteligente XIAOMI MI Band 2  sin Rastreador de Actividad ](https://www.amazon.com/dp/B0711LMQVQ/?tag=redken08-20) con 30.79291762894534 por 8.99 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gjeb4X2VL._SL200_.jpg)](https://www.amazon.com/dp/B0711LMQVQ/?tag=redken08-20)
 

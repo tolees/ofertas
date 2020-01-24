@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic tee-B Camiseta  Negro  Hm'
+title: 'Levi s Graphic tee-B Camiseta  Negro  Hm' al 31.571428571428573 % de descuento
 date: 2019/11/01 19:43:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410je8eT8BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410je8eT8BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Graphic tee-B Camiseta  Negro  Hm LS Better Black 0013   Large para Hombre](https://www.amazon.com/dp/B076YF1CVY/?tag=redken08-20) a 23.95 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Graphic tee-B Camiseta  Negro  Hm LS Better Black 0013   Large para Hombre](https://www.amazon.com/dp/B076YF1CVY/?tag=redken08-20) a 23.95 EUR (original: 35 EUR) (31.571428571428573 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410je8eT8BL._SL200_.jpg)](https://www.amazon.com/dp/B076YF1CVY/?tag=redken08-20)
 

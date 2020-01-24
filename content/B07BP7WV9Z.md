@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Los Chicos del Maíz I-II-III Edición Dig'
+title: 'Los Chicos del Maíz I-II-III Edición Dig' al 58.80487804878049 % de descuento
 date: 2019/10/17 06:29:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61bNNBP0cgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61bNNBP0cgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 41 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Los Chicos del Maíz I-II-III Edición Digipack [Blu-ray]](https://www.amazon.com/dp/B07BP7WV9Z/?tag=redken08-20) a 16.89 EUR (original: 41 EUR) en el siguiente enlace!
+Ahora mismo tienes [Los Chicos del Maíz I-II-III Edición Digipack [Blu-ray]](https://www.amazon.com/dp/B07BP7WV9Z/?tag=redken08-20) a 16.89 EUR (original: 41 EUR) (58.80487804878049 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61bNNBP0cgL._SL200_.jpg)](https://www.amazon.com/dp/B07BP7WV9Z/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shimano Y8L298062  Pastillas de freno  2'
+title: 'Shimano Y8L298062  Pastillas de freno  2' al 32.8125 % de descuento
 date: 2020-01-13 09:15:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4153tx76wqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4153tx76wqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Shimano Y8L298062  Pastillas de freno  2015   negro](https://www.amazon.com/dp/B00FEHH2QE/?tag=redken08-20) a 6.45 EUR (original: 9.6 EUR) en el siguiente enlace!
+Ahora mismo tienes [Shimano Y8L298062  Pastillas de freno  2015   negro](https://www.amazon.com/dp/B00FEHH2QE/?tag=redken08-20) a 6.45 EUR (original: 9.6 EUR) (32.8125 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4153tx76wqL._SL200_.jpg)](https://www.amazon.com/dp/B00FEHH2QE/?tag=redken08-20)
 

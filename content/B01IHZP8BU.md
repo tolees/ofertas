@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Tekware TNF Jersey 100 Gl'
+title: 'The North Face Tekware TNF Jersey 100 Gl' al 35.54545454545453 % de descuento
 date: 2019/10/29 16:03:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face Tekware TNF Jersey 100 Glacier  Hombre  TNF Black  M](https://www.amazon.com/dp/B01IHZP8BU/?tag=redken08-20) a 35.45 EUR (original: 55 EUR) en el siguiente enlace!
+Ahora mismo tienes [The North Face Tekware TNF Jersey 100 Glacier  Hombre  TNF Black  M](https://www.amazon.com/dp/B01IHZP8BU/?tag=redken08-20) a 35.45 EUR (original: 55 EUR) (35.54545454545453 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IdG1Z7u5L._SL200_.jpg)](https://www.amazon.com/dp/B01IHZP8BU/?tag=redken08-20)
 

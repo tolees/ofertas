@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 31085 Stunt- Truck- Transporter  Bu'
+title: 'LEGO 31085 Stunt- Truck- Transporter  Bu' al 29.985997199439897 % de descuento
 date: 2019/10/20 14:58:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XeVLbnvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XeVLbnvOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 31085 Stunt- Truck- Transporter  Bunt](https://www.amazon.com/dp/B0765CFDQB/?tag=redken08-20) a 35 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO 31085 Stunt- Truck- Transporter  Bunt](https://www.amazon.com/dp/B0765CFDQB/?tag=redken08-20) a 35 EUR (original: 49.99 EUR) (29.985997199439897 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51XeVLbnvOL._SL200_.jpg)](https://www.amazon.com/dp/B0765CFDQB/?tag=redken08-20)
 

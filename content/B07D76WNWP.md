@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Mile High Super Skinny Vaqueros  '
+title: 'Levi s Mile High Super Skinny Vaqueros  ' al 36.82727272727273 % de descuento
 date: 2019/12/30 17:45:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Levi s Mile High Super Skinny Vaqueros  Breakthrough Blue  27W / 34L para Mujer](https://www.amazon.com/dp/B07D76WNWP/?tag=redken08-20) por 69.49 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Levi s Mile High Super Skinny Vaqueros  Breakthrough Blue  27W / 34L para Mujer](https://www.amazon.com/dp/B07D76WNWP/?tag=redken08-20) con 36.82727272727273 por 69.49 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg)](https://www.amazon.com/dp/B07D76WNWP/?tag=redken08-20)
 

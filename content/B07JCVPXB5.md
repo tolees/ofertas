@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mega Drive Classics'
+title: Descuento del 30.310103367789264 % en 'Mega Drive Classics'
 date: 2019/11/07 16:55:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p6JA81SvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p6JA81SvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Mega Drive Classics](https://www.amazon.com/dp/B07JCVPXB5/?tag=redken08-20) a precio de oferta de 20.9 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Mega Drive Classics](https://www.amazon.com/dp/B07JCVPXB5/?tag=redken08-20) con un 30.310103367789264 % con precio de oferta de 20.9 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51p6JA81SvL._SL200_.jpg)](https://www.amazon.com/dp/B07JCVPXB5/?tag=redken08-20)
 

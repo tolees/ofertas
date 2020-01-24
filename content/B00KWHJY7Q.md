@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toshiba Canvio Basics - Disco duro exter'
+title: 'Toshiba Canvio Basics - Disco duro exter' al 27.580893682588602 % de descuento
 date: 2019/12/29 14:04:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JnkQZVQWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JnkQZVQWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.9 EUR
 inStock: true
 ---
 
-Está [Toshiba Canvio Basics - Disco duro externo  2.5 pulgadas  7.9 cm   Negro  1 TB](https://www.amazon.com/dp/B00KWHJY7Q/?tag=redken08-20) por 47 EUR (original: 64.9 EUR) en el siguiente enlace!
+Está [Toshiba Canvio Basics - Disco duro externo  2.5 pulgadas  7.9 cm   Negro  1 TB](https://www.amazon.com/dp/B00KWHJY7Q/?tag=redken08-20) con 27.580893682588602 por 47 EUR (original: 64.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31JnkQZVQWL._SL200_.jpg)](https://www.amazon.com/dp/B00KWHJY7Q/?tag=redken08-20)
 

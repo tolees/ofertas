@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP Rocks: Metallica - Robert Trujillo'
+title: 'POP Rocks: Metallica - Robert Trujillo' al 49.749821300929234 % de descuento
 date: 2020-01-07 22:39:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [POP Rocks: Metallica - Robert Trujillo](https://www.amazon.com/dp/B072R4PXCR/?tag=redken08-20) a 7.03 EUR (original: 13.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [POP Rocks: Metallica - Robert Trujillo](https://www.amazon.com/dp/B072R4PXCR/?tag=redken08-20) a 7.03 EUR (original: 13.99 EUR) (49.749821300929234 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51hgBxifRSL._SL200_.jpg)](https://www.amazon.com/dp/B072R4PXCR/?tag=redken08-20)
 

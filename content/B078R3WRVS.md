@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Tango Camiseta  Hombre  Rojo  Cor'
+title: 'adidas Tango Camiseta  Hombre  Rojo  Cor' al 50.1374656335916 % de descuento
 date: 2019/10/12 03:52:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wNerkCtHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wNerkCtHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Tango Camiseta  Hombre  Rojo  Correa   2XL](https://www.amazon.com/dp/B078R3WRVS/?tag=redken08-20) a 19.95 EUR (original: 40.01 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Tango Camiseta  Hombre  Rojo  Correa   2XL](https://www.amazon.com/dp/B078R3WRVS/?tag=redken08-20) a 19.95 EUR (original: 40.01 EUR) (50.1374656335916 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wNerkCtHL._SL200_.jpg)](https://www.amazon.com/dp/B078R3WRVS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Blusa con Mangas con Lazada para M'
+title: 'find. Blusa con Mangas con Lazada para M' al 33.80614657210401 % de descuento
 date: 2019/11/19 19:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418%2Bta-tJPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418%2Bta-tJPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Blusa con Mangas con Lazada para Mujer   Verde  Khaki   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B01N9JODK0/?tag=redken08-20) a 8.4 EUR (original: 12.69 EUR) en el siguiente enlace!
+Ahora mismo tienes [find. Blusa con Mangas con Lazada para Mujer   Verde  Khaki   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B01N9JODK0/?tag=redken08-20) a 8.4 EUR (original: 12.69 EUR) (33.80614657210401 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418%2Bta-tJPL._SL200_.jpg)](https://www.amazon.com/dp/B01N9JODK0/?tag=redken08-20)
 

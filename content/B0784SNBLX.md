@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance W1400V6  Zapatillas de Runni'
+title: 'New Balance W1400V6  Zapatillas de Runni' al 53.278260869565216 % de descuento
 date: 2019/10/23 13:58:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 115 EUR
 inStock: true
 ---
 
-Está [New Balance W1400V6  Zapatillas de Running para Mujer  Negro Black/Pink  36.5 EU](https://www.amazon.com/dp/B0784SNBLX/?tag=redken08-20) por 53.73 EUR (original: 115 EUR) en el siguiente enlace!
+Está [New Balance W1400V6  Zapatillas de Running para Mujer  Negro Black/Pink  36.5 EU](https://www.amazon.com/dp/B0784SNBLX/?tag=redken08-20) con 53.278260869565216 por 53.73 EUR (original: 115 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41SGRmHQmyL._SL200_.jpg)](https://www.amazon.com/dp/B0784SNBLX/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Coastal 2 Parka  Hombre  Az'
+title: 'Helly Hansen Coastal 2 Parka  Hombre  Az' al 53.181481481481484 % de descuento
 date: 2020-01-21 21:46:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 270 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Coastal 2 Parka  Hombre  Azul  Marino   L](https://www.amazon.com/dp/B01EOX01NE/?tag=redken08-20) por 126.41 EUR (original: 270 EUR) en el siguiente enlace!
+Está [Helly Hansen Coastal 2 Parka  Hombre  Azul  Marino   L](https://www.amazon.com/dp/B01EOX01NE/?tag=redken08-20) con 53.181481481481484 por 126.41 EUR (original: 270 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg)](https://www.amazon.com/dp/B01EOX01NE/?tag=redken08-20)
 

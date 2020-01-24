@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lalique Lalique Encre Noire Sport Etv 50'
+title: 'Lalique Lalique Encre Noire Sport Etv 50' al 58.245614035087726 % de descuento
 date: 2020-01-13 10:33:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419G36YnBoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419G36YnBoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 57 EUR
 inStock: true
 ---
 
-Está [Lalique Lalique Encre Noire Sport Etv 50Ml - 1 Unidad](https://www.amazon.com/dp/B00GCW0LFO/?tag=redken08-20) por 23.8 EUR (original: 57 EUR) en el siguiente enlace!
+Está [Lalique Lalique Encre Noire Sport Etv 50Ml - 1 Unidad](https://www.amazon.com/dp/B00GCW0LFO/?tag=redken08-20) con 58.245614035087726 por 23.8 EUR (original: 57 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419G36YnBoL._SL200_.jpg)](https://www.amazon.com/dp/B00GCW0LFO/?tag=redken08-20)
 

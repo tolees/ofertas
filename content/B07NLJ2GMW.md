@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versace Jeans CouturePortafoglioMujerCar'
+title: 'Versace Jeans CouturePortafoglioMujerCar' al 33.859375 % de descuento
 date: 2019/12/14 12:26:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wpg5EAhFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wpg5EAhFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 128 EUR
 inStock: true
 ---
 
-Está [Versace Jeans CouturePortafoglioMujerCarterasBlanco  Bianco Ottico  0 5x16x25 5 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLJ2GMW/?tag=redken08-20) por 84.66 EUR (original: 128 EUR) en el siguiente enlace!
+Está [Versace Jeans CouturePortafoglioMujerCarterasBlanco  Bianco Ottico  0 5x16x25 5 centimeters  W x H x L ](https://www.amazon.com/dp/B07NLJ2GMW/?tag=redken08-20) con 33.859375 por 84.66 EUR (original: 128 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Wpg5EAhFL._SL200_.jpg)](https://www.amazon.com/dp/B07NLJ2GMW/?tag=redken08-20)
 

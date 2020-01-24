@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MSI GeForce RTX 2080 GAMING X TRIO - Tar'
+title: 'MSI GeForce RTX 2080 GAMING X TRIO - Tar' al 57.01237137241299 % de descuento
 date: 2019/10/14 22:21:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-tXCG3NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-tXCG3NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 864.9 EUR
 inStock: true
 ---
 
-Está [MSI GeForce RTX 2080 GAMING X TRIO - Tarjeta gráfica Enthusiast  PCI-E 3.0  Zero FROZR  Torx FAN 3.0  8 GB GDDR6  256-bit  7000 Mhz Memory Clock Speed  MSI Afterburner ](https://www.amazon.com/dp/B07GQZ3DYL/?tag=redken08-20) por 371.8 EUR (original: 864.9 EUR) en el siguiente enlace!
+Está [MSI GeForce RTX 2080 GAMING X TRIO - Tarjeta gráfica Enthusiast  PCI-E 3.0  Zero FROZR  Torx FAN 3.0  8 GB GDDR6  256-bit  7000 Mhz Memory Clock Speed  MSI Afterburner ](https://www.amazon.com/dp/B07GQZ3DYL/?tag=redken08-20) con 57.01237137241299 por 371.8 EUR (original: 864.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41S-tXCG3NL._SL200_.jpg)](https://www.amazon.com/dp/B07GQZ3DYL/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Eils SS Polo  Blanco  Bright W'
+title: 'Napapijri Eils SS Polo  Blanco  Bright W' al 50.0 % de descuento
 date: 2020-01-04 13:33:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Napapijri Eils SS Polo  Blanco  Bright White 002   Large para Hombre](https://www.amazon.com/dp/B07MVLT3PW/?tag=redken08-20) a 29.5 EUR (original: 59 EUR) en el siguiente enlace!
+Ahora mismo tienes [Napapijri Eils SS Polo  Blanco  Bright White 002   Large para Hombre](https://www.amazon.com/dp/B07MVLT3PW/?tag=redken08-20) a 29.5 EUR (original: 59 EUR) (50.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL200_.jpg)](https://www.amazon.com/dp/B07MVLT3PW/?tag=redken08-20)
 

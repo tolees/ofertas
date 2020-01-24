@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung 860 QVO MZ-76Q2T0BW - Disco Duro'
+title: 'Samsung 860 QVO MZ-76Q2T0BW - Disco Duro' al 42.73159792720992 % de descuento
 date: 2019/10/17 10:49:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410mAEQunrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410mAEQunrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 329.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Samsung 860 QVO MZ-76Q2T0BW - Disco Duro sólido  2000 GB  2.5"  Serial ATA III  550 MB/s  6 Gbit/s ](https://www.amazon.com/dp/B07KSJF3MD/?tag=redken08-20) a 188.98 EUR (original: 329.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Samsung 860 QVO MZ-76Q2T0BW - Disco Duro sólido  2000 GB  2.5"  Serial ATA III  550 MB/s  6 Gbit/s ](https://www.amazon.com/dp/B07KSJF3MD/?tag=redken08-20) a 188.98 EUR (original: 329.99 EUR) (42.73159792720992 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410mAEQunrL._SL200_.jpg)](https://www.amazon.com/dp/B07KSJF3MD/?tag=redken08-20)
 

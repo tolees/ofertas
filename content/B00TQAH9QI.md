@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Horizon Tempest Plus Pant'
+title: 'The North Face Horizon Tempest Plus Pant' al 60.05714285714285 % de descuento
 date: 2019/11/26 16:17:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EV68vHXWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EV68vHXWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [The North Face Horizon Tempest Plus Pantalón  Mujer  Negro  Black   Talla fabricante: 6 REG](https://www.amazon.com/dp/B00TQAH9QI/?tag=redken08-20) por 27.96 EUR (original: 70 EUR) en el siguiente enlace!
+Está [The North Face Horizon Tempest Plus Pantalón  Mujer  Negro  Black   Talla fabricante: 6 REG](https://www.amazon.com/dp/B00TQAH9QI/?tag=redken08-20) con 60.05714285714285 por 27.96 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EV68vHXWL._SL200_.jpg)](https://www.amazon.com/dp/B00TQAH9QI/?tag=redken08-20)
 

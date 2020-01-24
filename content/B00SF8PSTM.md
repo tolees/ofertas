@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Midge Cody Mid Waist Skinny V'
+title: 'G-STAR RAW Midge Cody Mid Waist Skinny V' al 43.7679226408803 % de descuento
 date: 2019/12/05 01:48:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4101hs5JkbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4101hs5JkbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 149.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [G-STAR RAW Midge Cody Mid Waist Skinny Vaquero  Azul  Medium Aged 6131-071   25W / 32L para Mujer](https://www.amazon.com/dp/B00SF8PSTM/?tag=redken08-20) a 84.32 EUR (original: 149.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Midge Cody Mid Waist Skinny Vaquero  Azul  Medium Aged 6131-071   25W / 32L para Mujer](https://www.amazon.com/dp/B00SF8PSTM/?tag=redken08-20) a 84.32 EUR (original: 149.95 EUR) (43.7679226408803 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4101hs5JkbL._SL200_.jpg)](https://www.amazon.com/dp/B00SF8PSTM/?tag=redken08-20)
 

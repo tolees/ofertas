@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Emotion Training Top Camiseta de m'
+title: 'Kempa Emotion Training Top Camiseta de m' al 75.19747235387047 % de descuento
 date: 2019/11/22 15:22:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RKFRNgquL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RKFRNgquL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.31 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kempa Emotion Training Top Camiseta de manga larga  Hombre  Multicolor  Amarillo/Negro   S](https://www.amazon.com/dp/B00VFSRJWI/?tag=redken08-20) a 10.99 EUR (original: 44.31 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kempa Emotion Training Top Camiseta de manga larga  Hombre  Multicolor  Amarillo/Negro   S](https://www.amazon.com/dp/B00VFSRJWI/?tag=redken08-20) a 10.99 EUR (original: 44.31 EUR) (75.19747235387047 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41RKFRNgquL._SL200_.jpg)](https://www.amazon.com/dp/B00VFSRJWI/?tag=redken08-20)
 

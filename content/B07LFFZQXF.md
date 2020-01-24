@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Thermore Padded Parka  Verde  Oli'
+title: 'Levi s Thermore Padded Parka  Verde  Oli' al 50.02941176470588 % de descuento
 date: 2020-01-08 11:48:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-nAn4jBhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-nAn4jBhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 170 EUR
 inStock: true
 ---
 
-Está [Levi s Thermore Padded Parka  Verde  Olive Night 2 0005   Large para Hombre](https://www.amazon.com/dp/B07LFFZQXF/?tag=redken08-20) por 84.95 EUR (original: 170 EUR) en el siguiente enlace!
+Está [Levi s Thermore Padded Parka  Verde  Olive Night 2 0005   Large para Hombre](https://www.amazon.com/dp/B07LFFZQXF/?tag=redken08-20) con 50.02941176470588 por 84.95 EUR (original: 170 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-nAn4jBhL._SL200_.jpg)](https://www.amazon.com/dp/B07LFFZQXF/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Play Lubricante de Larga Duración '
+title: 'Durex Play Lubricante de Larga Duración ' al 27.63605442176871 % de descuento
 date: 2020-01-17 14:06:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BizjTatgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BizjTatgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.76 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Durex Play Lubricante de Larga Duración Eternal - 50 ml](https://www.amazon.com/dp/B00PJZ3IE6/?tag=redken08-20) a 8.51 EUR (original: 11.76 EUR) en el siguiente enlace!
+Ahora mismo tienes [Durex Play Lubricante de Larga Duración Eternal - 50 ml](https://www.amazon.com/dp/B00PJZ3IE6/?tag=redken08-20) a 8.51 EUR (original: 11.76 EUR) (27.63605442176871 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BizjTatgL._SL200_.jpg)](https://www.amazon.com/dp/B00PJZ3IE6/?tag=redken08-20)
 

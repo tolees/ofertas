@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 996 Leather  Zapatillas para'
+title: 'New Balance 996 Leather  Zapatillas para' al 69.47368421052632 % de descuento
 date: 2019/12/04 20:34:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F03pOAgbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F03pOAgbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Está [New Balance 996 Leather  Zapatillas para Hombre  Azul  Navy   40.5 EU](https://www.amazon.com/dp/B01M6VZIIK/?tag=redken08-20) por 29 EUR (original: 95 EUR) en el siguiente enlace!
+Está [New Balance 996 Leather  Zapatillas para Hombre  Azul  Navy   40.5 EU](https://www.amazon.com/dp/B01M6VZIIK/?tag=redken08-20) con 69.47368421052632 por 29 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41F03pOAgbL._SL200_.jpg)](https://www.amazon.com/dp/B01M6VZIIK/?tag=redken08-20)
 

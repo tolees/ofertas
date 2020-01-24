@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Emporio Armani CC717-111512  Camiseta pa'
+title: 'Emporio Armani CC717-111512  Camiseta pa' al 45.199999999999996 % de descuento
 date: 2019/12/02 11:45:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y%2B2sv8YYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y%2B2sv8YYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Emporio Armani CC717-111512  Camiseta para Hombre  Pack de 2  Multicolor  Gris/Azul Oscuro   XL](https://www.amazon.com/dp/B00WMF1TZ6/?tag=redken08-20) por 24.66 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Emporio Armani CC717-111512  Camiseta para Hombre  Pack de 2  Multicolor  Gris/Azul Oscuro   XL](https://www.amazon.com/dp/B00WMF1TZ6/?tag=redken08-20) con 45.199999999999996 por 24.66 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31y%2B2sv8YYL._SL200_.jpg)](https://www.amazon.com/dp/B00WMF1TZ6/?tag=redken08-20)
 

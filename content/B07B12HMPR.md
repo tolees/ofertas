@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41451 Unikitty Cloud Car Set Feebee'
+title: 'LEGO 41451 Unikitty Cloud Car Set Feebee' al 61.74220129487934 % de descuento
 date: 2019/11/13 12:46:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BX1T6ZcnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BX1T6ZcnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 41451 Unikitty Cloud Car Set Feebee and Square Bear Figures](https://www.amazon.com/dp/B07B12HMPR/?tag=redken08-20) a 6.5 GBP (original: 16.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 41451 Unikitty Cloud Car Set Feebee and Square Bear Figures](https://www.amazon.com/dp/B07B12HMPR/?tag=redken08-20) a 6.5 GBP (original: 16.99 GBP) (61.74220129487934 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51BX1T6ZcnL._SL200_.jpg)](https://www.amazon.com/dp/B07B12HMPR/?tag=redken08-20)
 

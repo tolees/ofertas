@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Dri-Fit One&Only 2.0 tee Camise'
+title: 'Hurley M Dri-Fit One&Only 2.0 tee Camise' al 64.84375 % de descuento
 date: 2019/11/03 23:28:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZSnTo9EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZSnTo9EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32 EUR
 inStock: true
 ---
 
-Está [Hurley M Dri-Fit One&Only 2.0 tee Camisetas  Hombre  Melon Tint  M](https://www.amazon.com/dp/B07K7ZKVTC/?tag=redken08-20) por 11.25 EUR (original: 32 EUR) en el siguiente enlace!
+Está [Hurley M Dri-Fit One&Only 2.0 tee Camisetas  Hombre  Melon Tint  M](https://www.amazon.com/dp/B07K7ZKVTC/?tag=redken08-20) con 64.84375 por 11.25 EUR (original: 32 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BZSnTo9EL._SL200_.jpg)](https://www.amazon.com/dp/B07K7ZKVTC/?tag=redken08-20)
 

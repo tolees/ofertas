@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson C11CF54402  Expression Premium XP-'
+title: 'Epson C11CF54402  Expression Premium XP-' al 36.25358208082344 % de descuento
 date: 2019/12/16 20:41:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hdtmGHFWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hdtmGHFWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 170.99 EUR
 inStock: true
 ---
 
-Está [Epson C11CF54402  Expression Premium XP-900 - Impresora multifunción  Wi-Fi  compacta y versátil  Ya disponible en Amazon Dash Replenishment](https://www.amazon.com/dp/B01J3I8OFC/?tag=redken08-20) por 109 EUR (original: 170.99 EUR) en el siguiente enlace!
+Está [Epson C11CF54402  Expression Premium XP-900 - Impresora multifunción  Wi-Fi  compacta y versátil  Ya disponible en Amazon Dash Replenishment](https://www.amazon.com/dp/B01J3I8OFC/?tag=redken08-20) con 36.25358208082344 por 109 EUR (original: 170.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hdtmGHFWL._SL200_.jpg)](https://www.amazon.com/dp/B01J3I8OFC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Irisana Copa Menstrual  Talla L - 1 Unid'
+title: 'Irisana Copa Menstrual  Talla L - 1 Unid' al 37.0 % de descuento
 date: 2019/12/11 09:10:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kfopD4-KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kfopD4-KL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Irisana Copa Menstrual  Talla L - 1 Unidad](https://www.amazon.com/dp/B00NDQ2XSU/?tag=redken08-20) a 17.01 EUR (original: 27 EUR) en el siguiente enlace!
+Ahora mismo tienes [Irisana Copa Menstrual  Talla L - 1 Unidad](https://www.amazon.com/dp/B00NDQ2XSU/?tag=redken08-20) a 17.01 EUR (original: 27 EUR) (37.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kfopD4-KL._SL200_.jpg)](https://www.amazon.com/dp/B00NDQ2XSU/?tag=redken08-20)
 

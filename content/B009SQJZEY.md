@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tacx Blue Matic Folding Magnetic Trainer'
+title: 'Tacx Blue Matic Folding Magnetic Trainer' al 49.996428316308304 % de descuento
 date: 2019/12/16 18:50:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OR5BNXW1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OR5BNXW1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.99 GBP
 inStock: true
 ---
 
-Está [Tacx Blue Matic Folding Magnetic Trainer](https://www.amazon.com/dp/B009SQJZEY/?tag=redken08-20) por 70 GBP (original: 139.99 GBP) en el siguiente enlace!
+Está [Tacx Blue Matic Folding Magnetic Trainer](https://www.amazon.com/dp/B009SQJZEY/?tag=redken08-20) con 49.996428316308304 por 70 GBP (original: 139.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OR5BNXW1L._SL200_.jpg)](https://www.amazon.com/dp/B009SQJZEY/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U New Life B  Zapatos de Cordones D'
+title: 'Geox U New Life B  Zapatos de Cordones D' al 30.37931034482758 % de descuento
 date: 2019/12/07 17:49:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-fyMNjt6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-fyMNjt6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 145 EUR
 inStock: true
 ---
 
-Está [Geox U New Life B  Zapatos de Cordones Derby para Hombre  Negro  Black   44 EU](https://www.amazon.com/dp/B07DJ2XB7H/?tag=redken08-20) por 100.95 EUR (original: 145 EUR) en el siguiente enlace!
+Está [Geox U New Life B  Zapatos de Cordones Derby para Hombre  Negro  Black   44 EU](https://www.amazon.com/dp/B07DJ2XB7H/?tag=redken08-20) con 30.37931034482758 por 100.95 EUR (original: 145 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31-fyMNjt6L._SL200_.jpg)](https://www.amazon.com/dp/B07DJ2XB7H/?tag=redken08-20)
 

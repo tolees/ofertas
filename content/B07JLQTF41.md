@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Austin Vaqueros Tapered  Azul  Dark '
+title: 'Lee Austin Vaqueros Tapered  Azul  Dark ' al 38.31017231795442 % de descuento
 date: 2019/12/28 08:24:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Lee Austin Vaqueros Tapered  Azul  Dark Diamond Ft   36W / 34L para Hombre](https://www.amazon.com/dp/B07JLQTF41/?tag=redken08-20) por 55.49 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Lee Austin Vaqueros Tapered  Azul  Dark Diamond Ft   36W / 34L para Hombre](https://www.amazon.com/dp/B07JLQTF41/?tag=redken08-20) con 38.31017231795442 por 55.49 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg)](https://www.amazon.com/dp/B07JLQTF41/?tag=redken08-20)
 

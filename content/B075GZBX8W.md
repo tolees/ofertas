@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas VL Court 2.0 K  Zapatillas Unisex'
+title: 'Adidas VL Court 2.0 K  Zapatillas Unisex' al 52.16520650813518 % de descuento
 date: 2019/11/19 17:18:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KA3ElzLNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KA3ElzLNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [Adidas VL Court 2.0 K  Zapatillas Unisex Niños  Blanco  Footwear White/Core Black/Footwear White 0   30 EU](https://www.amazon.com/dp/B075GZBX8W/?tag=redken08-20) por 19.11 EUR (original: 39.95 EUR) en el siguiente enlace!
+Está [Adidas VL Court 2.0 K  Zapatillas Unisex Niños  Blanco  Footwear White/Core Black/Footwear White 0   30 EU](https://www.amazon.com/dp/B075GZBX8W/?tag=redken08-20) con 52.16520650813518 por 19.11 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KA3ElzLNL._SL200_.jpg)](https://www.amazon.com/dp/B075GZBX8W/?tag=redken08-20)
 

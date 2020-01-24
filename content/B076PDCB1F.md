@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MERAKI Anorak Mujer con Cuello Alto  Pla'
+title: 'MERAKI Anorak Mujer con Cuello Alto  Pla' al 61.90959878110716 % de descuento
 date: 2019/12/20 09:50:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ssqZamcmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ssqZamcmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.38 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [MERAKI Anorak Mujer con Cuello Alto  Plateado  Silver   X-Small](https://www.amazon.com/dp/B076PDCB1F/?tag=redken08-20) a 15 EUR (original: 39.38 EUR) en el siguiente enlace!
+Ahora mismo tienes [MERAKI Anorak Mujer con Cuello Alto  Plateado  Silver   X-Small](https://www.amazon.com/dp/B076PDCB1F/?tag=redken08-20) a 15 EUR (original: 39.38 EUR) (61.90959878110716 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ssqZamcmL._SL200_.jpg)](https://www.amazon.com/dp/B076PDCB1F/?tag=redken08-20)
 

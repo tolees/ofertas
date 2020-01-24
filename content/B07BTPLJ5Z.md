@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Red Faction Guerrilla Re-Mars-Tered - PS'
+title: 'Red Faction Guerrilla Re-Mars-Tered - PS' al 40.94698232744247 % de descuento
 date: 2019/10/18 12:54:21 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Red Faction Guerrilla Re-Mars-Tered - PS4](https://www.amazon.com/dp/B07BTPLJ5Z/?tag=redken08-20) a 17.71 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Red Faction Guerrilla Re-Mars-Tered - PS4](https://www.amazon.com/dp/B07BTPLJ5Z/?tag=redken08-20) a 17.71 EUR (original: 29.99 EUR) (40.94698232744247 %) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B07BTPLJ5Z/?tag=redken08-20)
 

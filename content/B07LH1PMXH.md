@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Ambition S/S Camiseta de '
+title: 'The North Face Ambition S/S Camiseta de ' al 58.875 % de descuento
 date: 2020-01-08 15:58:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Es%2B-v5yQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Es%2B-v5yQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The North Face Ambition S/S Camiseta de Manga Corta  Hombre  Verde  Chlorophyll Green   M](https://www.amazon.com/dp/B07LH1PMXH/?tag=redken08-20) a 16.45 EUR (original: 40 EUR) en el siguiente enlace!
+Ahora mismo tienes [The North Face Ambition S/S Camiseta de Manga Corta  Hombre  Verde  Chlorophyll Green   M](https://www.amazon.com/dp/B07LH1PMXH/?tag=redken08-20) a 16.45 EUR (original: 40 EUR) (58.875 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Es%2B-v5yQL._SL200_.jpg)](https://www.amazon.com/dp/B07LH1PMXH/?tag=redken08-20)
 

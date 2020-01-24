@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia 10 - Smartphone de 6" Full H'
+title: Descuento del 26.948424068767906 % en 'Sony Xperia 10 - Smartphone de 6" Full H'
 date: 2020-01-23 05:35:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311MgrMNZjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311MgrMNZjL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 349 EUR
 inStock: true
 ---
 
-Está [Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Negro [Versión española]](https://www.amazon.com/dp/B07NDSJLSP/?tag=redken08-20) por 254.95 EUR (original: 349 EUR) en el siguiente enlace!
+Tienes [Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Negro [Versión española]](https://www.amazon.com/dp/B07NDSJLSP/?tag=redken08-20) con un 26.948424068767906 % con precio de oferta de 254.95 EUR (original: 349 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/311MgrMNZjL._SL200_.jpg)](https://www.amazon.com/dp/B07NDSJLSP/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07NDSJLSP/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07NDSJLSP/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Candle: The Power Of The Flame - Signatu'
+title: Descuento del 56.62100456621004 % en 'Candle: The Power Of The Flame - Signatu'
 date: 2019/12/17 18:56:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SiPhVECZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SiPhVECZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45.99 EUR
 inStock: true
 ---
 
-Tienes [Candle: The Power Of The Flame - Signature Edition](https://www.amazon.com/dp/B07GZXDYLZ/?tag=redken08-20) a precio de oferta de 19.95 EUR (original: 45.99 EUR) en el siguiente enlace!
+Tienes [Candle: The Power Of The Flame - Signature Edition](https://www.amazon.com/dp/B07GZXDYLZ/?tag=redken08-20) con un 56.62100456621004 % con precio de oferta de 19.95 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51SiPhVECZL._SL200_.jpg)](https://www.amazon.com/dp/B07GZXDYLZ/?tag=redken08-20)
 

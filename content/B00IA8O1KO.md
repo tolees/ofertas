@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1400967 - Campana industrial 86dB Ø 100 '
+title: Descuento del 48.47423711855927 % en '1400967 - Campana industrial 86dB Ø 100 '
 date: 2019/10/17 13:47:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LyHhGreEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LyHhGreEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [1400967 - Campana industrial 86dB Ø 100 1400967](https://www.amazon.com/dp/B00IA8O1KO/?tag=redken08-20) a precio de oferta de 10.3 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [1400967 - Campana industrial 86dB Ø 100 1400967](https://www.amazon.com/dp/B00IA8O1KO/?tag=redken08-20) con un 48.47423711855927 % con precio de oferta de 10.3 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LyHhGreEL._SL200_.jpg)](https://www.amazon.com/dp/B00IA8O1KO/?tag=redken08-20)
 

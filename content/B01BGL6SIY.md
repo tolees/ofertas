@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'fischertechnik - 536619 PROFI Dynamic XS'
+title: 'fischertechnik - 536619 PROFI Dynamic XS' al 46.961651917404126 % de descuento
 date: 2019/12/05 22:01:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VeRkWsFYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VeRkWsFYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.95 EUR
 inStock: true
 ---
 
-Está [fischertechnik - 536619 PROFI Dynamic XS  Kugelbahn](https://www.amazon.com/dp/B01BGL6SIY/?tag=redken08-20) por 8.99 EUR (original: 16.95 EUR) en el siguiente enlace!
+Está [fischertechnik - 536619 PROFI Dynamic XS  Kugelbahn](https://www.amazon.com/dp/B01BGL6SIY/?tag=redken08-20) con 46.961651917404126 por 8.99 EUR (original: 16.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VeRkWsFYL._SL200_.jpg)](https://www.amazon.com/dp/B01BGL6SIY/?tag=redken08-20)
 

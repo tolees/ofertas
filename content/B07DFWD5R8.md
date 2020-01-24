@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 220  Zapatillas Unisex Niños'
+title: 'New Balance 220  Zapatillas Unisex Niños' al 64.74545454545455 % de descuento
 date: 2020-01-14 15:57:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rpdqvvcoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rpdqvvcoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 220  Zapatillas Unisex Niños  Rosa  Pink/Pink Blue   30 EU](https://www.amazon.com/dp/B07DFWD5R8/?tag=redken08-20) a 19.39 EUR (original: 55 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance 220  Zapatillas Unisex Niños  Rosa  Pink/Pink Blue   30 EU](https://www.amazon.com/dp/B07DFWD5R8/?tag=redken08-20) a 19.39 EUR (original: 55 EUR) (64.74545454545455 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rpdqvvcoL._SL200_.jpg)](https://www.amazon.com/dp/B07DFWD5R8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Plague Tale: Innocence'
+title: Descuento del 50.01000200040009 % en 'A Plague Tale: Innocence'
 date: 2019/12/23 06:00:09 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [A Plague Tale: Innocence](https://www.amazon.com/dp/B07NC1MQDD/?tag=redken08-20) a precio de oferta de 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [A Plague Tale: Innocence](https://www.amazon.com/dp/B07NC1MQDD/?tag=redken08-20) con un 50.01000200040009 % con precio de oferta de 24.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07NC1MQDD/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HG Armour LS Camiseta de'
+title: Descuento del 48.60000000000001 % en 'Under Armour UA HG Armour LS Camiseta de'
 date: 2019/12/17 21:14:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-EXU0KznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-EXU0KznL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA HG Armour LS Camiseta de Manga Larga  Hombre  Negro  Black/Steel 001   M](https://www.amazon.com/dp/B00KHTNIW6/?tag=redken08-20) a precio de oferta de 17.99 EUR (original: 35 EUR) en el siguiente enlace!
+Tienes [Under Armour UA HG Armour LS Camiseta de Manga Larga  Hombre  Negro  Black/Steel 001   M](https://www.amazon.com/dp/B00KHTNIW6/?tag=redken08-20) con un 48.60000000000001 % con precio de oferta de 17.99 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31-EXU0KznL._SL200_.jpg)](https://www.amazon.com/dp/B00KHTNIW6/?tag=redken08-20)
 

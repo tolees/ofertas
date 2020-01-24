@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kartell Bookworm Librería  Negro  520x19'
+title: Descuento del 30.842490842490832 % en 'Kartell Bookworm Librería  Negro  520x19'
 date: 2019/11/11 19:52:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jl8hRbxtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jl8hRbxtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 546 EUR
 inStock: true
 ---
 
-Tienes [Kartell Bookworm Librería  Negro  520x19x21 cm](https://www.amazon.com/dp/B00M1WFFEQ/?tag=redken08-20) a precio de oferta de 377.6 EUR (original: 546 EUR) en el siguiente enlace!
+Tienes [Kartell Bookworm Librería  Negro  520x19x21 cm](https://www.amazon.com/dp/B00M1WFFEQ/?tag=redken08-20) con un 30.842490842490832 % con precio de oferta de 377.6 EUR (original: 546 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Jl8hRbxtL._SL200_.jpg)](https://www.amazon.com/dp/B00M1WFFEQ/?tag=redken08-20)
 

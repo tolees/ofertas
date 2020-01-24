@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21150 Minecraft Skeleton BigFig Mag'
+title: 'LEGO 21150 Minecraft Skeleton BigFig Mag' al 25.01924557351809 % de descuento
 date: 2019/11/14 09:03:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z0iNPd7xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z0iNPd7xL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.99 GBP
 inStock: true
 ---
 
-Está [LEGO 21150 Minecraft Skeleton BigFig Magma Cu Action Figure Building Set  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FNSDZDC/?tag=redken08-20) por 9.74 GBP (original: 12.99 GBP) en el siguiente enlace!
+Está [LEGO 21150 Minecraft Skeleton BigFig Magma Cu Action Figure Building Set  Toys for Kids 7 Years Old and Older](https://www.amazon.com/dp/B07FNSDZDC/?tag=redken08-20) con 25.01924557351809 por 9.74 GBP (original: 12.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Z0iNPd7xL._SL200_.jpg)](https://www.amazon.com/dp/B07FNSDZDC/?tag=redken08-20)
 

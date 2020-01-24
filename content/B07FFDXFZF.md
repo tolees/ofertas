@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DOCTOR WHO 6794 Thirteenth Sonic Screwdr'
+title: Descuento del 49.96664442961974 % en 'DOCTOR WHO 6794 Thirteenth Sonic Screwdr'
 date: 2020-01-16 08:54:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419AONlLWxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419AONlLWxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Tienes [DOCTOR WHO 6794 Thirteenth Sonic Screwdriver Toy  Multi-Colour](https://www.amazon.com/dp/B07FFDXFZF/?tag=redken08-20) a precio de oferta de 7.5 GBP (original: 14.99 GBP) en el siguiente enlace!
+Tienes [DOCTOR WHO 6794 Thirteenth Sonic Screwdriver Toy  Multi-Colour](https://www.amazon.com/dp/B07FFDXFZF/?tag=redken08-20) con un 49.96664442961974 % con precio de oferta de 7.5 GBP (original: 14.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419AONlLWxL._SL200_.jpg)](https://www.amazon.com/dp/B07FFDXFZF/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIND - Celestial Pink  Barra de labios b'
+title: 'FIND - Celestial Pink  Barra de labios b' al 34.0 % de descuento
 date: 2019/10/08 12:29:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317WH6jgTCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317WH6jgTCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.5 EUR
 inStock: true
 ---
 
-Está [FIND - Celestial Pink  Barra de labios brillante n.6 + Perfilador de labios n.11 ](https://www.amazon.com/dp/B07CTPNK6P/?tag=redken08-20) por 5.61 EUR (original: 8.5 EUR) en el siguiente enlace!
+Está [FIND - Celestial Pink  Barra de labios brillante n.6 + Perfilador de labios n.11 ](https://www.amazon.com/dp/B07CTPNK6P/?tag=redken08-20) con 34.0 por 5.61 EUR (original: 8.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317WH6jgTCL._SL200_.jpg)](https://www.amazon.com/dp/B07CTPNK6P/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-XB950N1 kabelloser Kopfhörer mi'
+title: Descuento del 51.975987993996995 % en 'Sony MDR-XB950N1 kabelloser Kopfhörer mi'
 date: 2020-01-19 08:50:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BiEMpsWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411%2BiEMpsWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.9 EUR
 inStock: true
 ---
 
-Tienes [Sony MDR-XB950N1 kabelloser Kopfhörer mit Geräuschminimierung  Noise Cancelling  Extrabass  NFC  Bluetooth  faltbar   grün](https://www.amazon.com/dp/B01N5MLM9W/?tag=redken08-20) a precio de oferta de 96 EUR (original: 199.9 EUR) en el siguiente enlace!
+Tienes [Sony MDR-XB950N1 kabelloser Kopfhörer mit Geräuschminimierung  Noise Cancelling  Extrabass  NFC  Bluetooth  faltbar   grün](https://www.amazon.com/dp/B01N5MLM9W/?tag=redken08-20) con un 51.975987993996995 % con precio de oferta de 96 EUR (original: 199.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411%2BiEMpsWL._SL200_.jpg)](https://www.amazon.com/dp/B01N5MLM9W/?tag=redken08-20)
 

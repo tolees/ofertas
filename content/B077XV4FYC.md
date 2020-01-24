@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Featherweight Fleece Funnel'
+title: Descuento del 69.36666666666666 % en 'Under Armour Featherweight Fleece Funnel'
 date: 2019/11/01 09:49:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TNMvoRv7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TNMvoRv7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Tienes [Under Armour Featherweight Fleece Funnel Camisa de manga larga Mujer  Gris  Steel Heather/White   XL](https://www.amazon.com/dp/B077XV4FYC/?tag=redken08-20) a precio de oferta de 18.38 EUR (original: 60 EUR) en el siguiente enlace!
+Tienes [Under Armour Featherweight Fleece Funnel Camisa de manga larga Mujer  Gris  Steel Heather/White   XL](https://www.amazon.com/dp/B077XV4FYC/?tag=redken08-20) con un 69.36666666666666 % con precio de oferta de 18.38 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TNMvoRv7L._SL200_.jpg)](https://www.amazon.com/dp/B077XV4FYC/?tag=redken08-20)
 

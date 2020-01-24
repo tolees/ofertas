@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 490  Zapatillas Deportivas p'
+title: 'New Balance 490  Zapatillas Deportivas p' al 66.28571428571428 % de descuento
 date: 2019/11/09 14:02:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VWoKAcLXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VWoKAcLXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70 EUR
 inStock: true
 ---
 
-Está [New Balance 490  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Phantom   36.5 EU](https://www.amazon.com/dp/B01MYPGLXU/?tag=redken08-20) por 23.6 EUR (original: 70 EUR) en el siguiente enlace!
+Está [New Balance 490  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Phantom   36.5 EU](https://www.amazon.com/dp/B01MYPGLXU/?tag=redken08-20) con 66.28571428571428 por 23.6 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VWoKAcLXL._SL200_.jpg)](https://www.amazon.com/dp/B01MYPGLXU/?tag=redken08-20)
 

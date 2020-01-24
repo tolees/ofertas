@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CORONEL TAPIOCCA Mochila hombre con bols'
+title: 'CORONEL TAPIOCCA Mochila hombre con bols' al 44.00880176035208 % de descuento
 date: 2019/10/27 15:18:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511gAfEXM9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511gAfEXM9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [CORONEL TAPIOCCA Mochila hombre con bolsillo Explorer One  Verde Caqui  30x46x13 cm](https://www.amazon.com/dp/B07KWCYS97/?tag=redken08-20) por 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [CORONEL TAPIOCCA Mochila hombre con bolsillo Explorer One  Verde Caqui  30x46x13 cm](https://www.amazon.com/dp/B07KWCYS97/?tag=redken08-20) con 44.00880176035208 por 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/511gAfEXM9L._SL200_.jpg)](https://www.amazon.com/dp/B07KWCYS97/?tag=redken08-20)
 

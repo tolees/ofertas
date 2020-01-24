@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Classic Leather Ripple  Zapatilla'
+title: 'Reebok Classic Leather Ripple  Zapatilla' al 46.666666666666664 % de descuento
 date: 2019/11/17 01:16:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XtE9SaZHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XtE9SaZHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.95 EUR
 inStock: true
 ---
 
-Está [Reebok Classic Leather Ripple  Zapatillas Unisex Niños  Naranja  Dirty Apricot/Gum 0   37 EU](https://www.amazon.com/dp/B07D1CWV9Q/?tag=redken08-20) por 34.64 EUR (original: 64.95 EUR) en el siguiente enlace!
+Está [Reebok Classic Leather Ripple  Zapatillas Unisex Niños  Naranja  Dirty Apricot/Gum 0   37 EU](https://www.amazon.com/dp/B07D1CWV9Q/?tag=redken08-20) con 46.666666666666664 por 34.64 EUR (original: 64.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XtE9SaZHL._SL200_.jpg)](https://www.amazon.com/dp/B07D1CWV9Q/?tag=redken08-20)
 

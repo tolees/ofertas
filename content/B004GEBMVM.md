@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Packable Pant Pantalón  Hom'
+title: 'Helly Hansen Packable Pant Pantalón  Hom' al 48.24444444444445 % de descuento
 date: 2019/10/10 21:17:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319fc3D3r8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319fc3D3r8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Packable Pant Pantalón  Hombre   Negro   S](https://www.amazon.com/dp/B004GEBMVM/?tag=redken08-20) a 46.58 EUR (original: 90 EUR) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen Packable Pant Pantalón  Hombre   Negro   S](https://www.amazon.com/dp/B004GEBMVM/?tag=redken08-20) a 46.58 EUR (original: 90 EUR) (48.24444444444445 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319fc3D3r8L._SL200_.jpg)](https://www.amazon.com/dp/B004GEBMVM/?tag=redken08-20)
 

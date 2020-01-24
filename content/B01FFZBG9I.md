@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tigi SFactor 49544 - Spray para el cuerp'
+title: Descuento del 49.36708860759494 % en 'Tigi SFactor 49544 - Spray para el cuerp'
 date: 2019/11/02 17:51:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O3U97bdFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O3U97bdFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23.7 EUR
 inStock: true
 ---
 
-Tienes [Tigi SFactor 49544 - Spray para el cuerpo  200 ml](https://www.amazon.com/dp/B01FFZBG9I/?tag=redken08-20) a precio de oferta de 12 EUR (original: 23.7 EUR) en el siguiente enlace!
+Tienes [Tigi SFactor 49544 - Spray para el cuerpo  200 ml](https://www.amazon.com/dp/B01FFZBG9I/?tag=redken08-20) con un 49.36708860759494 % con precio de oferta de 12 EUR (original: 23.7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31O3U97bdFL._SL200_.jpg)](https://www.amazon.com/dp/B01FFZBG9I/?tag=redken08-20)
 

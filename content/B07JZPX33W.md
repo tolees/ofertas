@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas I-5923  Zapatillas de Gimnasia pa'
+title: 'adidas I-5923  Zapatillas de Gimnasia pa' al 50.00384763370527 % de descuento
 date: 2019/11/17 20:52:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-8BUxcWyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-8BUxcWyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas I-5923  Zapatillas de Gimnasia para Hombre  Azul Collegiate Royal/Ecru Tint S18  40 EU](https://www.amazon.com/dp/B07JZPX33W/?tag=redken08-20) a 64.97 EUR (original: 129.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas I-5923  Zapatillas de Gimnasia para Hombre  Azul Collegiate Royal/Ecru Tint S18  40 EU](https://www.amazon.com/dp/B07JZPX33W/?tag=redken08-20) a 64.97 EUR (original: 129.95 EUR) (50.00384763370527 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-8BUxcWyL._SL200_.jpg)](https://www.amazon.com/dp/B07JZPX33W/?tag=redken08-20)
 

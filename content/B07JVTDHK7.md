@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Odyssey  Walking Shoe Womens  '
+title: 'Asics Gel-Odyssey  Walking Shoe Womens  ' al 27.260000000000005 % de descuento
 date: 2020-01-22 20:32:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e1XVha1NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e1XVha1NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Está [Asics Gel-Odyssey  Walking Shoe Womens  Black/Black  38 EU](https://www.amazon.com/dp/B07JVTDHK7/?tag=redken08-20) por 72.74 EUR (original: 100 EUR) en el siguiente enlace!
+Está [Asics Gel-Odyssey  Walking Shoe Womens  Black/Black  38 EU](https://www.amazon.com/dp/B07JVTDHK7/?tag=redken08-20) con 27.260000000000005 por 72.74 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31e1XVha1NL._SL200_.jpg)](https://www.amazon.com/dp/B07JVTDHK7/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Men s Type 3 Denim Jacket  Grey  '
+title: 'Levi s Men s Type 3 Denim Jacket  Grey  ' al 50.0 % de descuento
 date: 2020-01-16 08:54:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hNLJAQRXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hNLJAQRXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 115 GBP
 inStock: true
 ---
 
-Está [Levi s Men s Type 3 Denim Jacket  Grey  Tarmac Sherpa Trucker 0121   Medium](https://www.amazon.com/dp/B07LFGWLZ1/?tag=redken08-20) por 57.5 GBP (original: 115 GBP) en el siguiente enlace!
+Está [Levi s Men s Type 3 Denim Jacket  Grey  Tarmac Sherpa Trucker 0121   Medium](https://www.amazon.com/dp/B07LFGWLZ1/?tag=redken08-20) con 50.0 por 57.5 GBP (original: 115 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hNLJAQRXL._SL200_.jpg)](https://www.amazon.com/dp/B07LFGWLZ1/?tag=redken08-20)
 

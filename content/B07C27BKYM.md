@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tarrina para perros cachorros de ternera'
+title: 'Tarrina para perros cachorros de ternera' al 43.96067415730337 % de descuento
 date: 2019/11/29 13:37:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dRPMbDJWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dRPMbDJWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.6 EUR
 inStock: true
 ---
 
-Está [Tarrina para perros cachorros de ternera y pavo 300g | [Pack de 20]](https://www.amazon.com/dp/B07C27BKYM/?tag=redken08-20) por 19.95 EUR (original: 35.6 EUR) en el siguiente enlace!
+Está [Tarrina para perros cachorros de ternera y pavo 300g | [Pack de 20]](https://www.amazon.com/dp/B07C27BKYM/?tag=redken08-20) con 43.96067415730337 por 19.95 EUR (original: 35.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dRPMbDJWL._SL200_.jpg)](https://www.amazon.com/dp/B07C27BKYM/?tag=redken08-20)
 

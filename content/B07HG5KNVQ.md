@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 997h  Zapatillas para Mujer '
+title: 'New Balance 997h  Zapatillas para Mujer ' al 40.0 % de descuento
 date: 2020-01-04 20:22:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance 997h  Zapatillas para Mujer  Blanco  Off White Off White   36 EU](https://www.amazon.com/dp/B07HG5KNVQ/?tag=redken08-20) por 54 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance 997h  Zapatillas para Mujer  Blanco  Off White Off White   36 EU](https://www.amazon.com/dp/B07HG5KNVQ/?tag=redken08-20) con 40.0 por 54 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg)](https://www.amazon.com/dp/B07HG5KNVQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lancaster Sun Beauty Velvet Tanning Milk'
+title: 'Lancaster Sun Beauty Velvet Tanning Milk' al 47.522522522522515 % de descuento
 date: 2020-01-04 01:49:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.4 EUR
 inStock: true
 ---
 
-Está [Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector Solar - 400 ml](https://www.amazon.com/dp/B00IINTKDE/?tag=redken08-20) por 23.3 EUR (original: 44.4 EUR) en el siguiente enlace!
+Está [Lancaster Sun Beauty Velvet Tanning Milk SPF30 Protector Solar - 400 ml](https://www.amazon.com/dp/B00IINTKDE/?tag=redken08-20) con 47.522522522522515 por 23.3 EUR (original: 44.4 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313jDx7uRqL._SL200_.jpg)](https://www.amazon.com/dp/B00IINTKDE/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Conjunto de Luces  Ideas Vol'
+title: 'LIGHTAILING Conjunto de Luces  Ideas Vol' al 45.01666666666666 % de descuento
 date: 2019/12/30 10:23:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I0869pV%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I0869pV%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Ideas Voltron  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21311  NO Incluido en el Modelo ](https://www.amazon.com/dp/B081RGP8LG/?tag=redken08-20) a 32.99 EUR (original: 60 EUR) en el siguiente enlace!
+Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Ideas Voltron  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 21311  NO Incluido en el Modelo ](https://www.amazon.com/dp/B081RGP8LG/?tag=redken08-20) a 32.99 EUR (original: 60 EUR) (45.01666666666666 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51I0869pV%2BL._SL200_.jpg)](https://www.amazon.com/dp/B081RGP8LG/?tag=redken08-20)
 

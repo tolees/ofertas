@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Dc Super Heroes: Aquaman: La Ira De'
+title: 'Lego Dc Super Heroes: Aquaman: La Ira De' al 37.6470588235294 % de descuento
 date: 2019/12/07 15:05:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VaWBdjwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VaWBdjwcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10.2 EUR
 inStock: true
 ---
 
-Está [Lego Dc Super Heroes: Aquaman: La Ira De Atlantis [DVD]](https://www.amazon.com/dp/B07GGMC59G/?tag=redken08-20) por 6.36 EUR (original: 10.2 EUR) en el siguiente enlace!
+Está [Lego Dc Super Heroes: Aquaman: La Ira De Atlantis [DVD]](https://www.amazon.com/dp/B07GGMC59G/?tag=redken08-20) con 37.6470588235294 por 6.36 EUR (original: 10.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51VaWBdjwcL._SL200_.jpg)](https://www.amazon.com/dp/B07GGMC59G/?tag=redken08-20)
 

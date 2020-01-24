@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Warner Bros Interactive Spain  VG  Lego '
+title: 'Warner Bros Interactive Spain  VG  Lego ' al 33.84615384615384 % de descuento
 date: 2019/10/18 21:22:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nd3TRXrnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nd3TRXrnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Está [Warner Bros Interactive Spain  VG  Lego Dimensions - Bad Cop](https://www.amazon.com/dp/B00VJWS7UI/?tag=redken08-20) por 9.89 EUR (original: 14.95 EUR) en el siguiente enlace!
+Está [Warner Bros Interactive Spain  VG  Lego Dimensions - Bad Cop](https://www.amazon.com/dp/B00VJWS7UI/?tag=redken08-20) con 33.84615384615384 por 9.89 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Nd3TRXrnL._SL200_.jpg)](https://www.amazon.com/dp/B00VJWS7UI/?tag=redken08-20)
 

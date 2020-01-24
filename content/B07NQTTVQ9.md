@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Stripy Slub SS tee Camiseta  Ho'
+title: 'RIP CURL Stripy Slub SS tee Camiseta  Ho' al 56.273220920262936 % de descuento
 date: 2019/11/07 22:03:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BAIaLd7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BAIaLd7mL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [RIP CURL Stripy Slub SS tee Camiseta  Hombre  Optical White  XL](https://www.amazon.com/dp/B07NQTTVQ9/?tag=redken08-20) por 15.3 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [RIP CURL Stripy Slub SS tee Camiseta  Hombre  Optical White  XL](https://www.amazon.com/dp/B07NQTTVQ9/?tag=redken08-20) con 56.273220920262936 por 15.3 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BAIaLd7mL._SL200_.jpg)](https://www.amazon.com/dp/B07NQTTVQ9/?tag=redken08-20)
 

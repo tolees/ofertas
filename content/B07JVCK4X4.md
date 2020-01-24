@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour  UNDKU Tech Camisa Polo  Ho'
+title: 'Under Armour  UNDKU Tech Camisa Polo  Ho' al 40.075 % de descuento
 date: 2019/12/12 21:26:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sqUGp3xuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sqUGp3xuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Under Armour  UNDKU Tech Camisa Polo  Hombre  Verde  XXL](https://www.amazon.com/dp/B07JVCK4X4/?tag=redken08-20) por 23.97 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Under Armour  UNDKU Tech Camisa Polo  Hombre  Verde  XXL](https://www.amazon.com/dp/B07JVCK4X4/?tag=redken08-20) con 40.075 por 23.97 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sqUGp3xuL._SL200_.jpg)](https://www.amazon.com/dp/B07JVCK4X4/?tag=redken08-20)
 

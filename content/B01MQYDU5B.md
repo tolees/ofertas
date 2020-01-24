@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L.12.12 Concept SStrap Vertical '
+title: 'Lacoste L.12.12 Concept SStrap Vertical ' al 46.92307692307692 % de descuento
 date: 2020-01-17 02:29:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XGhwSfxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XGhwSfxUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Está [Lacoste L.12.12 Concept SStrap Vertical Shopping Bag High Risk Red](https://www.amazon.com/dp/B01MQYDU5B/?tag=redken08-20) por 69 EUR (original: 130 EUR) en el siguiente enlace!
+Está [Lacoste L.12.12 Concept SStrap Vertical Shopping Bag High Risk Red](https://www.amazon.com/dp/B01MQYDU5B/?tag=redken08-20) con 46.92307692307692 por 69 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XGhwSfxUL._SL200_.jpg)](https://www.amazon.com/dp/B01MQYDU5B/?tag=redken08-20)
 

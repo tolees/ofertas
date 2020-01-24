@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rocket Games ROC1436 Would I Lie to You '
+title: Descuento del 66.38655462184873 % en 'Rocket Games ROC1436 Would I Lie to You '
 date: 2020-01-17 08:15:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aaS0cuteL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aaS0cuteL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [Rocket Games ROC1436 Would I Lie to You 2nd Edition  Mixed Colours](https://www.amazon.com/dp/B07TXRCFNB/?tag=redken08-20) a precio de oferta de 8.4 GBP (original: 24.99 GBP) en el siguiente enlace!
+Tienes [Rocket Games ROC1436 Would I Lie to You 2nd Edition  Mixed Colours](https://www.amazon.com/dp/B07TXRCFNB/?tag=redken08-20) con un 66.38655462184873 % con precio de oferta de 8.4 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aaS0cuteL._SL200_.jpg)](https://www.amazon.com/dp/B07TXRCFNB/?tag=redken08-20)
 

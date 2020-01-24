@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 510 Skinny Fit  Vaqueros para Hom'
+title: 'Levi s 510 Skinny Fit  Vaqueros para Hom' al 47.736363636363635 % de descuento
 date: 2019/12/21 12:06:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qtNyddRUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qtNyddRUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Norse Warp Cool 0980   W36/L32](https://www.amazon.com/dp/B07KF7BJWH/?tag=redken08-20) a 57.49 EUR (original: 110 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s 510 Skinny Fit  Vaqueros para Hombre  Azul  Norse Warp Cool 0980   W36/L32](https://www.amazon.com/dp/B07KF7BJWH/?tag=redken08-20) a 57.49 EUR (original: 110 EUR) (47.736363636363635 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31qtNyddRUL._SL200_.jpg)](https://www.amazon.com/dp/B07KF7BJWH/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei P9 Lite 16Gb 3Gb RAM Dual- SIM Go'
+title: Descuento del 39.51367781155015 % en 'Huawei P9 Lite 16Gb 3Gb RAM Dual- SIM Go'
 date: 2019/11/04 18:21:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KfC3WoAuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KfC3WoAuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 329 EUR
 inStock: true
 ---
 
-Tienes [Huawei P9 Lite 16Gb 3Gb RAM Dual- SIM Gold DE](https://www.amazon.com/dp/B01DYN5NSS/?tag=redken08-20) a precio de oferta de 199 EUR (original: 329 EUR) en el siguiente enlace!
+Tienes [Huawei P9 Lite 16Gb 3Gb RAM Dual- SIM Gold DE](https://www.amazon.com/dp/B01DYN5NSS/?tag=redken08-20) con un 39.51367781155015 % con precio de oferta de 199 EUR (original: 329 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KfC3WoAuL._SL200_.jpg)](https://www.amazon.com/dp/B01DYN5NSS/?tag=redken08-20)
 

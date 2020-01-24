@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Newport Bay Slip On  Mujer  N'
+title: 'Timberland Newport Bay Slip On  Mujer  N' al 50.0 % de descuento
 date: 2019/10/09 13:44:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PBk%2BM2hyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PBk%2BM2hyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Timberland Newport Bay Slip On  Mujer  Naranja  Peach Nougat TTT   37 EU](https://www.amazon.com/dp/B07F1ZJFNL/?tag=redken08-20) por 30 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Timberland Newport Bay Slip On  Mujer  Naranja  Peach Nougat TTT   37 EU](https://www.amazon.com/dp/B07F1ZJFNL/?tag=redken08-20) con 50.0 por 30 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31PBk%2BM2hyL._SL200_.jpg)](https://www.amazon.com/dp/B07F1ZJFNL/?tag=redken08-20)
 

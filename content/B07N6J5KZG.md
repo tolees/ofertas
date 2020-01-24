@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cúrcuma en Polvo 100% Orgánica 500gr Car'
+title: 'Cúrcuma en Polvo 100% Orgánica 500gr Car' al 45.226130653266324 % de descuento
 date: 2019/10/21 18:51:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GsdzYmErL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GsdzYmErL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [Cúrcuma en Polvo 100% Orgánica 500gr Carefood | Ecológica Procedente de la India | Superalimento Ecológico](https://www.amazon.com/dp/B07N6J5KZG/?tag=redken08-20) por 10.9 EUR (original: 19.9 EUR) en el siguiente enlace!
+Está [Cúrcuma en Polvo 100% Orgánica 500gr Carefood | Ecológica Procedente de la India | Superalimento Ecológico](https://www.amazon.com/dp/B07N6J5KZG/?tag=redken08-20) con 45.226130653266324 por 10.9 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GsdzYmErL._SL200_.jpg)](https://www.amazon.com/dp/B07N6J5KZG/?tag=redken08-20)
 

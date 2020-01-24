@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KFD 45W Adaptador de Corriente Cargador '
+title: 'KFD 45W Adaptador de Corriente Cargador ' al 55.56790397866194 % de descuento
 date: 2020-01-19 06:02:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nKnL5h1kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nKnL5h1kL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Está [KFD 45W Adaptador de Corriente Cargador portátil para Lenovo IdeaPad 320-15isk 310s 310-14isk 320s-14ikb 510 100-14IBY 120 120S 100S-14IBR 530S-14IKB 520 710S 100-14IBD 520-15IKB 520S-14IKB 20V 2.25A](https://www.amazon.com/dp/B07NDZFYXX/?tag=redken08-20) por 19.99 EUR (original: 44.99 EUR) en el siguiente enlace!
+Está [KFD 45W Adaptador de Corriente Cargador portátil para Lenovo IdeaPad 320-15isk 310s 310-14isk 320s-14ikb 510 100-14IBY 120 120S 100S-14IBR 530S-14IKB 520 710S 100-14IBD 520-15IKB 520S-14IKB 20V 2.25A](https://www.amazon.com/dp/B07NDZFYXX/?tag=redken08-20) con 55.56790397866194 por 19.99 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nKnL5h1kL._SL200_.jpg)](https://www.amazon.com/dp/B07NDZFYXX/?tag=redken08-20)
 

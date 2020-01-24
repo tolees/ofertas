@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brooks Asteria  Zapatillas de Running pa'
+title: 'Brooks Asteria  Zapatillas de Running pa' al 56.25454545454546 % de descuento
 date: 2019/10/10 14:03:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xB-a%2B2VhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xB-a%2B2VhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brooks Asteria  Zapatillas de Running para Mujer  Multicolor  Plumcaspia/Diva Pink/Orange Pop 871   37.5 EU](https://www.amazon.com/dp/B01MSJYIXU/?tag=redken08-20) a 48.12 EUR (original: 110 EUR) en el siguiente enlace!
+Ahora mismo tienes [Brooks Asteria  Zapatillas de Running para Mujer  Multicolor  Plumcaspia/Diva Pink/Orange Pop 871   37.5 EU](https://www.amazon.com/dp/B01MSJYIXU/?tag=redken08-20) a 48.12 EUR (original: 110 EUR) (56.25454545454546 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xB-a%2B2VhL._SL200_.jpg)](https://www.amazon.com/dp/B01MSJYIXU/?tag=redken08-20)
 

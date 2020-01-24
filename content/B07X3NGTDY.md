@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Tranverz S Maleta  51 cm  42 L  '
+title: 'Eastpak Tranverz S Maleta  51 cm  42 L  ' al 25.663862774204194 % de descuento
 date: 2019/12/13 14:15:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31URk7uZ8TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31URk7uZ8TL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 121.26 EUR
 inStock: true
 ---
 
-Está [Eastpak Tranverz S Maleta  51 cm  42 L  Rojo  Upcoming Wine ](https://www.amazon.com/dp/B07X3NGTDY/?tag=redken08-20) por 90.14 EUR (original: 121.26 EUR) en el siguiente enlace!
+Está [Eastpak Tranverz S Maleta  51 cm  42 L  Rojo  Upcoming Wine ](https://www.amazon.com/dp/B07X3NGTDY/?tag=redken08-20) con 25.663862774204194 por 90.14 EUR (original: 121.26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31URk7uZ8TL._SL200_.jpg)](https://www.amazon.com/dp/B07X3NGTDY/?tag=redken08-20)
 

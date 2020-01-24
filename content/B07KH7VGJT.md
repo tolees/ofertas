@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Warp Knit High Impact Bra S'
+title: 'Under Armour Warp Knit High Impact Bra S' al 49.6 % de descuento
 date: 2019/10/05 09:28:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jOvU-NZPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jOvU-NZPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Morado  Purple Prime/Black/Reflective 521   32D](https://www.amazon.com/dp/B07KH7VGJT/?tag=redken08-20) a 27.72 EUR (original: 55 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Morado  Purple Prime/Black/Reflective 521   32D](https://www.amazon.com/dp/B07KH7VGJT/?tag=redken08-20) a 27.72 EUR (original: 55 EUR) (49.6 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jOvU-NZPL._SL200_.jpg)](https://www.amazon.com/dp/B07KH7VGJT/?tag=redken08-20)
 

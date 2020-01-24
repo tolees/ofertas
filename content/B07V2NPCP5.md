@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS ROG Zephyrus S GX502GW-AZ064T - Por'
+title: 'ASUS ROG Zephyrus S GX502GW-AZ064T - Por' al 25.740465705428527 % de descuento
 date: 2019/12/06 18:03:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414uBiFVsPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414uBiFVsPL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 2699.99 EUR
 inStock: true
 ---
 
-Tienes [ASUS ROG Zephyrus S GX502GW-AZ064T - Portátil Gaming de 15 6" 240Hz Full HD  Intel Core i7-9750H  16GB RAM  1TB SSD  GeForce RTX2070-8GB  Windows 10  Metal Negro - Teclado QWERTY español](https://www.amazon.com/dp/B07V2NPCP5/?tag=redken08-20) a precio de oferta de 2005 EUR (original: 2699.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [ASUS ROG Zephyrus S GX502GW-AZ064T - Portátil Gaming de 15 6" 240Hz Full HD  Intel Core i7-9750H  16GB RAM  1TB SSD  GeForce RTX2070-8GB  Windows 10  Metal Negro - Teclado QWERTY español](https://www.amazon.com/dp/B07V2NPCP5/?tag=redken08-20) a 2005 EUR (original: 2699.99 EUR) (25.740465705428527 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414uBiFVsPL._SL200_.jpg)](https://www.amazon.com/dp/B07V2NPCP5/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07V2NPCP5/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07V2NPCP5/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

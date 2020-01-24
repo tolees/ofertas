@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cesta doble para colada  '
+title: 'AmazonBasics - Cesta doble para colada  ' al 30.01250521050438 % de descuento
 date: 2019/12/09 20:06:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uNuzZVGNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uNuzZVGNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23.99 EUR
 inStock: true
 ---
 
-Está [AmazonBasics - Cesta doble para colada  Negro](https://www.amazon.com/dp/B07GFQ1KCS/?tag=redken08-20) por 16.79 EUR (original: 23.99 EUR) en el siguiente enlace!
+Está [AmazonBasics - Cesta doble para colada  Negro](https://www.amazon.com/dp/B07GFQ1KCS/?tag=redken08-20) con 30.01250521050438 por 16.79 EUR (original: 23.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uNuzZVGNL._SL200_.jpg)](https://www.amazon.com/dp/B07GFQ1KCS/?tag=redken08-20)
 

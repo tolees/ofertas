@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M One & Only Tank Tops  Hombre  C'
+title: 'Hurley M One & Only Tank Tops  Hombre  C' al 40.400000000000006 % de descuento
 date: 2019/11/02 21:55:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TMe-uU%2BgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TMe-uU%2BgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M One & Only Tank Tops  Hombre  Cool Grey  L](https://www.amazon.com/dp/B07L5ZF2WW/?tag=redken08-20) a 14.9 EUR (original: 25 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hurley M One & Only Tank Tops  Hombre  Cool Grey  L](https://www.amazon.com/dp/B07L5ZF2WW/?tag=redken08-20) a 14.9 EUR (original: 25 EUR) (40.400000000000006 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TMe-uU%2BgL._SL200_.jpg)](https://www.amazon.com/dp/B07L5ZF2WW/?tag=redken08-20)
 

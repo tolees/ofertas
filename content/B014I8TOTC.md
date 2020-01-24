@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cable HDMI CL3 de alta ve'
+title: Descuento del 30.12820512820512 % en 'AmazonBasics - Cable HDMI CL3 de alta ve'
 date: 2019/11/26 10:19:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.8 EUR
 inStock: true
 ---
 
-Tienes [AmazonBasics - Cable HDMI CL3 de alta velocidad  4 6 m  estándar más reciente ](https://www.amazon.com/dp/B014I8TOTC/?tag=redken08-20) a precio de oferta de 5.45 EUR (original: 7.8 EUR) en el siguiente enlace!
+Tienes [AmazonBasics - Cable HDMI CL3 de alta velocidad  4 6 m  estándar más reciente ](https://www.amazon.com/dp/B014I8TOTC/?tag=redken08-20) con un 30.12820512820512 % con precio de oferta de 5.45 EUR (original: 7.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg)](https://www.amazon.com/dp/B014I8TOTC/?tag=redken08-20)
 

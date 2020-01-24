@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orient Reloj Analógico para Unisex Adult'
+title: 'Orient Reloj Analógico para Unisex Adult' al 45.120000000000005 % de descuento
 date: 2019/10/21 21:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51adexD1kYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51adexD1kYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Acero Inoxidable FAB0000EB9](https://www.amazon.com/dp/B0783HNXRG/?tag=redken08-20) por 82.32 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Acero Inoxidable FAB0000EB9](https://www.amazon.com/dp/B0783HNXRG/?tag=redken08-20) con 45.120000000000005 por 82.32 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51adexD1kYL._SL200_.jpg)](https://www.amazon.com/dp/B0783HNXRG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Driftline Polo  Hombre  Azu'
+title: 'Helly Hansen Driftline Polo  Hombre  Azu' al 48.85454545454546 % de descuento
 date: 2019/10/06 14:29:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tsxuCuHiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tsxuCuHiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55 EUR
 inStock: true
 ---
 
-Está [Helly Hansen Driftline Polo  Hombre  Azul  Azul Olympian 563   S](https://www.amazon.com/dp/B01NBKM2CI/?tag=redken08-20) por 28.13 EUR (original: 55 EUR) en el siguiente enlace!
+Está [Helly Hansen Driftline Polo  Hombre  Azul  Azul Olympian 563   S](https://www.amazon.com/dp/B01NBKM2CI/?tag=redken08-20) con 48.85454545454546 por 28.13 EUR (original: 55 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tsxuCuHiL._SL200_.jpg)](https://www.amazon.com/dp/B01NBKM2CI/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saucony Triumph ISO 5  Zapatillas de Run'
+title: 'Saucony Triumph ISO 5  Zapatillas de Run' al 50.0 % de descuento
 date: 2020-01-18 09:09:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411l1RV988L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411l1RV988L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 175 EUR
 inStock: true
 ---
 
-Está [Saucony Triumph ISO 5  Zapatillas de Running para Hombre  Gris  Gris 42   40 EU](https://www.amazon.com/dp/B07MMWZYLQ/?tag=redken08-20) por 87.5 EUR (original: 175 EUR) en el siguiente enlace!
+Está [Saucony Triumph ISO 5  Zapatillas de Running para Hombre  Gris  Gris 42   40 EU](https://www.amazon.com/dp/B07MMWZYLQ/?tag=redken08-20) con 50.0 por 87.5 EUR (original: 175 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411l1RV988L._SL200_.jpg)](https://www.amazon.com/dp/B07MMWZYLQ/?tag=redken08-20)
 

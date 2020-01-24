@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Vengadores'
+title: 'LEGO Vengadores' al 31.643881293764586 % de descuento
 date: 2020-01-04 11:46:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bC-LVCgVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bC-LVCgVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [LEGO Vengadores](https://www.amazon.com/dp/B0182KKCSO/?tag=redken08-20) por 20.5 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [LEGO Vengadores](https://www.amazon.com/dp/B0182KKCSO/?tag=redken08-20) con 31.643881293764586 por 20.5 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51bC-LVCgVL._SL200_.jpg)](https://www.amazon.com/dp/B0182KKCSO/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TXXCI Acrylic Display Case/Box Dustproof'
+title: 'TXXCI Acrylic Display Case/Box Dustproof' al 50.0 % de descuento
 date: 2020-01-15 21:45:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dy9vTlyHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dy9vTlyHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 103.98 GBP
 inStock: true
 ---
 
-Está [TXXCI Acrylic Display Case/Box Dustproof For Building Kit Models Compatible with Lego 21313 Ideas Ship in a Bottle  Modell Set not included ](https://www.amazon.com/dp/B07XPW9BMV/?tag=redken08-20) por 51.99 GBP (original: 103.98 GBP) en el siguiente enlace!
+Está [TXXCI Acrylic Display Case/Box Dustproof For Building Kit Models Compatible with Lego 21313 Ideas Ship in a Bottle  Modell Set not included ](https://www.amazon.com/dp/B07XPW9BMV/?tag=redken08-20) con 50.0 por 51.99 GBP (original: 103.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Dy9vTlyHL._SL200_.jpg)](https://www.amazon.com/dp/B07XPW9BMV/?tag=redken08-20)
 

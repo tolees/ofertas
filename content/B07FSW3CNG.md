@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Wallabee  Zapatos de Cordones Bro'
+title: 'Clarks Wallabee  Zapatos de Cordones Bro' al 81.15625 % de descuento
 date: 2019/11/19 22:01:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312ieivZ6RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312ieivZ6RL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 160 EUR
 inStock: true
 ---
 
-Está [Clarks Wallabee  Zapatos de Cordones Brogue para Mujer  Negro  Black Suede-   35.5 EU](https://www.amazon.com/dp/B07FSW3CNG/?tag=redken08-20) por 30.15 EUR (original: 160 EUR) en el siguiente enlace!
+Está [Clarks Wallabee  Zapatos de Cordones Brogue para Mujer  Negro  Black Suede-   35.5 EU](https://www.amazon.com/dp/B07FSW3CNG/?tag=redken08-20) con 81.15625 por 30.15 EUR (original: 160 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/312ieivZ6RL._SL200_.jpg)](https://www.amazon.com/dp/B07FSW3CNG/?tag=redken08-20)
 

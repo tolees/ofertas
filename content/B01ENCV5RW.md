@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel  TRICOTINA WRINKLE FREE TAILOR'
+title: 'Cortefiel  TRICOTINA WRINKLE FREE TAILOR' al 30.52280311457175 % de descuento
 date: 2019/12/03 20:23:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qqAk6xkLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qqAk6xkLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cortefiel  TRICOTINA WRINKLE FREE TAILORED - Pantalones deportivos para hombre  color azul  marine blue   talla 46](https://www.amazon.com/dp/B01ENCV5RW/?tag=redken08-20) a 62.46 EUR (original: 89.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cortefiel  TRICOTINA WRINKLE FREE TAILORED - Pantalones deportivos para hombre  color azul  marine blue   talla 46](https://www.amazon.com/dp/B01ENCV5RW/?tag=redken08-20) a 62.46 EUR (original: 89.9 EUR) (30.52280311457175 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qqAk6xkLL._SL200_.jpg)](https://www.amazon.com/dp/B01ENCV5RW/?tag=redken08-20)
 

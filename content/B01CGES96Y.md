@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Relec Infantil Spray Eficaz Antimosquito'
+title: 'Relec Infantil Spray Eficaz Antimosquito' al 26.969696969696965 % de descuento
 date: 2020-01-08 15:52:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L2VtvPFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L2VtvPFhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.9 EUR
 inStock: true
 ---
 
-Está [Relec Infantil Spray Eficaz Antimosquitos. Sin Alcohol. Dermatológicamente Testado. Pieles Sensibles - 100 ml](https://www.amazon.com/dp/B01CGES96Y/?tag=redken08-20) por 7.23 EUR (original: 9.9 EUR) en el siguiente enlace!
+Está [Relec Infantil Spray Eficaz Antimosquitos. Sin Alcohol. Dermatológicamente Testado. Pieles Sensibles - 100 ml](https://www.amazon.com/dp/B01CGES96Y/?tag=redken08-20) con 26.969696969696965 por 7.23 EUR (original: 9.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41L2VtvPFhL._SL200_.jpg)](https://www.amazon.com/dp/B01CGES96Y/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TROLLS - Make up artist book  estuche de'
+title: 'TROLLS - Make up artist book  estuche de' al 62.949240459429426 % de descuento
 date: 2019/12/05 15:21:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TSbGwHKXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TSbGwHKXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Está [TROLLS - Make up artist book  estuche de maquillaje  Giochi Preziosi TRL07000 ](https://www.amazon.com/dp/B01CFVE4TY/?tag=redken08-20) por 10 EUR (original: 26.99 EUR) en el siguiente enlace!
+Está [TROLLS - Make up artist book  estuche de maquillaje  Giochi Preziosi TRL07000 ](https://www.amazon.com/dp/B01CFVE4TY/?tag=redken08-20) con 62.949240459429426 por 10 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TSbGwHKXL._SL200_.jpg)](https://www.amazon.com/dp/B01CFVE4TY/?tag=redken08-20)
 

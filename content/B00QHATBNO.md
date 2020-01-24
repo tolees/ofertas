@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA CG Armour Mock Camiseta '
+title: Descuento del 46.50909090909091 % en 'Under Armour UA CG Armour Mock Camiseta '
 date: 2019/12/15 07:43:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x2KYJoOOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x2KYJoOOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.0 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Rojo  Red/Steel 600   XXL](https://www.amazon.com/dp/B00QHATBNO/?tag=redken08-20) a precio de oferta de 29.42 EUR (original: 55.0 EUR) en el siguiente enlace!
+Tienes [Under Armour UA CG Armour Mock Camiseta de Manga Larga  Hombre  Rojo  Red/Steel 600   XXL](https://www.amazon.com/dp/B00QHATBNO/?tag=redken08-20) con un 46.50909090909091 % con precio de oferta de 29.42 EUR (original: 55.0 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41x2KYJoOOL._SL200_.jpg)](https://www.amazon.com/dp/B00QHATBNO/?tag=redken08-20)
 

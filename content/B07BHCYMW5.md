@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'McFarlane- Stranger Things Figura Mike  '
+title: 'McFarlane- Stranger Things Figura Mike  ' al 61.225281116711905 % de descuento
 date: 2019/11/19 14:08:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S1w1awWAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S1w1awWAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [McFarlane- Stranger Things Figura Mike  Multicolor  13029 ](https://www.amazon.com/dp/B07BHCYMW5/?tag=redken08-20) a 10 EUR (original: 25.79 EUR) en el siguiente enlace!
+Ahora mismo tienes [McFarlane- Stranger Things Figura Mike  Multicolor  13029 ](https://www.amazon.com/dp/B07BHCYMW5/?tag=redken08-20) a 10 EUR (original: 25.79 EUR) (61.225281116711905 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51S1w1awWAL._SL200_.jpg)](https://www.amazon.com/dp/B07BHCYMW5/?tag=redken08-20)
 

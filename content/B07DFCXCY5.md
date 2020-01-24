@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAST LEVEL- Funko Pesadilla Antes de Nav'
+title: 'LAST LEVEL- Funko Pesadilla Antes de Nav' al 48.275862068965516 % de descuento
 date: 2019/11/02 19:37:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HCb2kBpnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HCb2kBpnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LAST LEVEL- Funko Pesadilla Antes de Navidad Figura Pop NBX: Snowman Jack  Multicolor  FFK32836 ](https://www.amazon.com/dp/B07DFCXCY5/?tag=redken08-20) a 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [LAST LEVEL- Funko Pesadilla Antes de Navidad Figura Pop NBX: Snowman Jack  Multicolor  FFK32836 ](https://www.amazon.com/dp/B07DFCXCY5/?tag=redken08-20) a 8.25 EUR (original: 15.95 EUR) (48.275862068965516 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51HCb2kBpnL._SL200_.jpg)](https://www.amazon.com/dp/B07DFCXCY5/?tag=redken08-20)
 

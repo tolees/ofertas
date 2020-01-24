@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hello Neighbor'
+title: Descuento del 40.176070428171265 % en 'Hello Neighbor'
 date: 2020-01-02 11:42:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518JGIRcW9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518JGIRcW9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 EUR
 inStock: true
 ---
 
-Tienes [Hello Neighbor](https://www.amazon.com/dp/B07GPWSRC1/?tag=redken08-20) a precio de oferta de 14.95 EUR (original: 24.99 EUR) en el siguiente enlace!
+Tienes [Hello Neighbor](https://www.amazon.com/dp/B07GPWSRC1/?tag=redken08-20) con un 40.176070428171265 % con precio de oferta de 14.95 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518JGIRcW9L._SL200_.jpg)](https://www.amazon.com/dp/B07GPWSRC1/?tag=redken08-20)
 

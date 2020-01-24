@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BIC 4 colores Fun Bolígrafo Retráctil pu'
+title: 'BIC 4 colores Fun Bolígrafo Retráctil pu' al 27.672955974842772 % de descuento
 date: 2019/10/20 16:14:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4108CAu90AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4108CAu90AL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 3.18 EUR
 inStock: true
 ---
 
-Está [BIC 4 colores Fun Bolígrafo Retráctil punta media  1 0 mm  - Cartuchos de Tinta Multicolor  1 Unidad](https://www.amazon.com/dp/B004FTDM4I/?tag=redken08-20) por 2.3 EUR (original: 3.18 EUR) en el siguiente enlace!
+Está [BIC 4 colores Fun Bolígrafo Retráctil punta media  1 0 mm  - Cartuchos de Tinta Multicolor  1 Unidad](https://www.amazon.com/dp/B004FTDM4I/?tag=redken08-20) con 27.672955974842772 por 2.3 EUR (original: 3.18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4108CAu90AL._SL200_.jpg)](https://www.amazon.com/dp/B004FTDM4I/?tag=redken08-20)
 

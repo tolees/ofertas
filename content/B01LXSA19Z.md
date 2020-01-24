@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9258 Riding instructor'
+title: 'Playmobil 9258 Riding instructor' al 45.44544544544544 % de descuento
 date: 2020-01-21 18:01:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ow2FOukGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ow2FOukGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 9258 Riding instructor](https://www.amazon.com/dp/B01LXSA19Z/?tag=redken08-20) a 5.45 GBP (original: 9.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 9258 Riding instructor](https://www.amazon.com/dp/B01LXSA19Z/?tag=redken08-20) a 5.45 GBP (original: 9.99 GBP) (45.44544544544544 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ow2FOukGL._SL200_.jpg)](https://www.amazon.com/dp/B01LXSA19Z/?tag=redken08-20)
 

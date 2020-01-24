@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Android TV Box  T95 S1 TV Box 2GB RAM/16'
+title: 'Android TV Box  T95 S1 TV Box 2GB RAM/16' al 28.005601120224043 % de descuento
 date: 2020-01-17 12:53:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m7pS3jhRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m7pS3jhRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Android TV Box  T95 S1 TV Box 2GB RAM/16GB ROM Android 7.1 Amlogic S905W Quad Core Soporte 2.4GHz WiFi H.265 4K HDMI DLNA Reproductor Multimedia con Mini Teclado Inalámbrico](https://www.amazon.com/dp/B07JR9WNTP/?tag=redken08-20) a 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Android TV Box  T95 S1 TV Box 2GB RAM/16GB ROM Android 7.1 Amlogic S905W Quad Core Soporte 2.4GHz WiFi H.265 4K HDMI DLNA Reproductor Multimedia con Mini Teclado Inalámbrico](https://www.amazon.com/dp/B07JR9WNTP/?tag=redken08-20) a 35.99 EUR (original: 49.99 EUR) (28.005601120224043 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51m7pS3jhRL._SL200_.jpg)](https://www.amazon.com/dp/B07JR9WNTP/?tag=redken08-20)
 

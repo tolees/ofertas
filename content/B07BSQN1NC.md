@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Pala Pádel Essex Carbon Attack 1.'
+title: 'adidas Pala Pádel Essex Carbon Attack 1.' al 55.206896551724135 % de descuento
 date: 2019/11/11 16:08:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YvI383c9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YvI383c9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 290 EUR
 inStock: true
 ---
 
-Está [adidas Pala Pádel Essex Carbon Attack 1.8 Silver](https://www.amazon.com/dp/B07BSQN1NC/?tag=redken08-20) por 129.9 EUR (original: 290 EUR) en el siguiente enlace!
+Está [adidas Pala Pádel Essex Carbon Attack 1.8 Silver](https://www.amazon.com/dp/B07BSQN1NC/?tag=redken08-20) con 55.206896551724135 por 129.9 EUR (original: 290 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51YvI383c9L._SL200_.jpg)](https://www.amazon.com/dp/B07BSQN1NC/?tag=redken08-20)
 

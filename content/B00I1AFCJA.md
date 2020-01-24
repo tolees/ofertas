@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Industrial Work Pant  Pantalones'
+title: 'Dickies Industrial Work Pant  Pantalones' al 53.813559322033896 % de descuento
 date: 2019/11/01 17:21:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lYMQJDnHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lYMQJDnHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dickies Industrial Work Pant  Pantalones para Hombre  Negro  Black   26/30](https://www.amazon.com/dp/B00I1AFCJA/?tag=redken08-20) a 27.25 EUR (original: 59 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dickies Industrial Work Pant  Pantalones para Hombre  Negro  Black   26/30](https://www.amazon.com/dp/B00I1AFCJA/?tag=redken08-20) a 27.25 EUR (original: 59 EUR) (53.813559322033896 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31lYMQJDnHL._SL200_.jpg)](https://www.amazon.com/dp/B00I1AFCJA/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Fisherman: Fishing Planet - Day One '
+title: 'The Fisherman: Fishing Planet - Day One ' al 62.99471353050436 % de descuento
 date: 2020-01-18 15:58:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pFoGoyvAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pFoGoyvAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The Fisherman: Fishing Planet - Day One Edition [Versión Española]](https://www.amazon.com/dp/B07SVGY5GN/?tag=redken08-20) a 25.9 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [The Fisherman: Fishing Planet - Day One Edition [Versión Española]](https://www.amazon.com/dp/B07SVGY5GN/?tag=redken08-20) a 25.9 EUR (original: 69.99 EUR) (62.99471353050436 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pFoGoyvAL._SL200_.jpg)](https://www.amazon.com/dp/B07SVGY5GN/?tag=redken08-20)
 

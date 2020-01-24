@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Big and Tall B&t Graphic tee Cami'
+title: 'Levi s Big and Tall B&t Graphic tee Cami' al 63.12 % de descuento
 date: 2019/10/29 19:11:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N4Vk6gh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N4Vk6gh%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Levi s Big and Tall B&t Graphic tee Camiseta  Blanco  Big Logo Stripe White 0003   X-Large para Hombre](https://www.amazon.com/dp/B07K75QSWF/?tag=redken08-20) por 9.22 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Levi s Big and Tall B&t Graphic tee Camiseta  Blanco  Big Logo Stripe White 0003   X-Large para Hombre](https://www.amazon.com/dp/B07K75QSWF/?tag=redken08-20) con 63.12 por 9.22 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41N4Vk6gh%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07K75QSWF/?tag=redken08-20)
 

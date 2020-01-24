@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HELIFAR Hovercraft Drone  H808 Mini RC D'
+title: 'HELIFAR Hovercraft Drone  H808 Mini RC D' al 28.253588516746408 % de descuento
 date: 2019/11/23 10:05:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jUmAf6zwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jUmAf6zwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 41.8 EUR
 inStock: true
 ---
 
-Está [HELIFAR Hovercraft Drone  H808 Mini RC Drone para Niños  3D-Flip Modo sin Cabeza Control Remoto Quadcopter  Mini Drone Deformable con 3 Modos Barco / Drone / Coches](https://www.amazon.com/dp/B07Y9J1SZJ/?tag=redken08-20) por 29.99 EUR (original: 41.8 EUR) en el siguiente enlace!
+Está [HELIFAR Hovercraft Drone  H808 Mini RC Drone para Niños  3D-Flip Modo sin Cabeza Control Remoto Quadcopter  Mini Drone Deformable con 3 Modos Barco / Drone / Coches](https://www.amazon.com/dp/B07Y9J1SZJ/?tag=redken08-20) con 28.253588516746408 por 29.99 EUR (original: 41.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51jUmAf6zwL._SL200_.jpg)](https://www.amazon.com/dp/B07Y9J1SZJ/?tag=redken08-20)
 

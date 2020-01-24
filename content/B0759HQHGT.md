@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop!- Neo Cortex Figura de Vinilo '
+title: 'Funko Pop!- Neo Cortex Figura de Vinilo ' al 37.304075235109714 % de descuento
 date: 2019/12/17 05:26:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w6N1jJSFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w6N1jJSFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko Pop!- Neo Cortex Figura de Vinilo  25655 ](https://www.amazon.com/dp/B0759HQHGT/?tag=redken08-20) por 10 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko Pop!- Neo Cortex Figura de Vinilo  25655 ](https://www.amazon.com/dp/B0759HQHGT/?tag=redken08-20) con 37.304075235109714 por 10 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51w6N1jJSFL._SL200_.jpg)](https://www.amazon.com/dp/B0759HQHGT/?tag=redken08-20)
 

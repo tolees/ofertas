@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ted Baker Astrina  Zapatillas para Mujer'
+title: 'Ted Baker Astrina  Zapatillas para Mujer' al 59.19353725056964 % de descuento
 date: 2019/11/08 20:07:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317ZcAynosL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317ZcAynosL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 144.83 EUR
 inStock: true
 ---
 
-Está [Ted Baker Astrina  Zapatillas para Mujer  Azul  Navy Houdini Nvy HD   41.5 EU](https://www.amazon.com/dp/B07HM5VQ4V/?tag=redken08-20) por 59.1 EUR (original: 144.83 EUR) en el siguiente enlace!
+Está [Ted Baker Astrina  Zapatillas para Mujer  Azul  Navy Houdini Nvy HD   41.5 EU](https://www.amazon.com/dp/B07HM5VQ4V/?tag=redken08-20) con 59.19353725056964 por 59.1 EUR (original: 144.83 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317ZcAynosL._SL200_.jpg)](https://www.amazon.com/dp/B07HM5VQ4V/?tag=redken08-20)
 

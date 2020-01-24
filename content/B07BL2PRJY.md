@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance MS 247  Zapatillas de deport'
+title: 'New Balance MS 247  Zapatillas de deport' al 40.0 % de descuento
 date: 2019/12/06 23:15:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PpXX33eIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PpXX33eIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Está [New Balance MS 247  Zapatillas de deporte para Hombre  Verde  Faded Rosin/Black FA   42 EU](https://www.amazon.com/dp/B07BL2PRJY/?tag=redken08-20) por 57 EUR (original: 95 EUR) en el siguiente enlace!
+Está [New Balance MS 247  Zapatillas de deporte para Hombre  Verde  Faded Rosin/Black FA   42 EU](https://www.amazon.com/dp/B07BL2PRJY/?tag=redken08-20) con 40.0 por 57 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PpXX33eIL._SL200_.jpg)](https://www.amazon.com/dp/B07BL2PRJY/?tag=redken08-20)
 

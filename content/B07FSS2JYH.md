@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung SM-N960F/DS Galaxy Note9  6.4"  '
+title: 'Samsung SM-N960F/DS Galaxy Note9  6.4"  ' al 41.30262112787927 % de descuento
 date: 2019/12/22 07:46:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 1259 EUR
 inStock: true
 ---
 
-Está [Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue ](https://www.amazon.com/dp/B07FSS2JYH/?tag=redken08-20) por 739 EUR (original: 1259 EUR) en el siguiente enlace!
+Está [Samsung SM-N960F/DS Galaxy Note9  6.4"  8 GB RAM  512GB Memoria  8MP Camara  Azul  Ocean Blue ](https://www.amazon.com/dp/B07FSS2JYH/?tag=redken08-20) con 41.30262112787927 por 739 EUR (original: 1259 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg)](https://www.amazon.com/dp/B07FSS2JYH/?tag=redken08-20)
 

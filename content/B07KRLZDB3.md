@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574v2  Zapatillas para Hombr'
+title: 'New Balance 574v2  Zapatillas para Hombr' al 49.18 % de descuento
 date: 2019/12/06 20:53:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSzCv8BUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hSzCv8BUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Está [New Balance 574v2  Zapatillas para Hombre  Negro  Black Black   37 EU](https://www.amazon.com/dp/B07KRLZDB3/?tag=redken08-20) por 50.82 EUR (original: 100 EUR) en el siguiente enlace!
+Está [New Balance 574v2  Zapatillas para Hombre  Negro  Black Black   37 EU](https://www.amazon.com/dp/B07KRLZDB3/?tag=redken08-20) con 49.18 por 50.82 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41hSzCv8BUL._SL200_.jpg)](https://www.amazon.com/dp/B07KRLZDB3/?tag=redken08-20)
 

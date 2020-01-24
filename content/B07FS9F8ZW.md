@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ternua Chaqueta Nuptse H-Down Jacket M H'
+title: 'Ternua Chaqueta Nuptse H-Down Jacket M H' al 60.766808668271906 % de descuento
 date: 2019/11/11 23:56:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314duRt6sYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314duRt6sYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 269.95 EUR
 inStock: true
 ---
 
-Está [Ternua Chaqueta Nuptse H-Down Jacket M Hombre  Black  XL](https://www.amazon.com/dp/B07FS9F8ZW/?tag=redken08-20) por 105.91 EUR (original: 269.95 EUR) en el siguiente enlace!
+Está [Ternua Chaqueta Nuptse H-Down Jacket M Hombre  Black  XL](https://www.amazon.com/dp/B07FS9F8ZW/?tag=redken08-20) con 60.766808668271906 por 105.91 EUR (original: 269.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/314duRt6sYL._SL200_.jpg)](https://www.amazon.com/dp/B07FS9F8ZW/?tag=redken08-20)
 

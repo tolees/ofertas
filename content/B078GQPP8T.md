@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Sudadera con Bordados y Flecos Muj'
+title: 'find. Sudadera con Bordados y Flecos Muj' al 60.0 % de descuento
 date: 2019/12/30 14:45:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510iyW%2BHq7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510iyW%2BHq7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [find. Sudadera con Bordados y Flecos Mujer  Negro  Black   Medium](https://www.amazon.com/dp/B078GQPP8T/?tag=redken08-20) por 12 EUR (original: 30 EUR) en el siguiente enlace!
+Está [find. Sudadera con Bordados y Flecos Mujer  Negro  Black   Medium](https://www.amazon.com/dp/B078GQPP8T/?tag=redken08-20) con 60.0 por 12 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/510iyW%2BHq7L._SL200_.jpg)](https://www.amazon.com/dp/B078GQPP8T/?tag=redken08-20)
 

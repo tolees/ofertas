@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Vertical SS Camiseta de Manga Co'
+title: Descuento del 40.77777777777778 % en 'Element Vertical SS Camiseta de Manga Co'
 date: 2019/12/01 17:43:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DKHfTPuXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DKHfTPuXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27 EUR
 inStock: true
 ---
 
-Tienes [Element Vertical SS Camiseta de Manga Corta  Hombre  Negro  Flint Black   XXL](https://www.amazon.com/dp/B07LH1PKFD/?tag=redken08-20) a precio de oferta de 15.99 EUR (original: 27 EUR) en el siguiente enlace!
+Tienes [Element Vertical SS Camiseta de Manga Corta  Hombre  Negro  Flint Black   XXL](https://www.amazon.com/dp/B07LH1PKFD/?tag=redken08-20) con un 40.77777777777778 % con precio de oferta de 15.99 EUR (original: 27 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DKHfTPuXL._SL200_.jpg)](https://www.amazon.com/dp/B07LH1PKFD/?tag=redken08-20)
 

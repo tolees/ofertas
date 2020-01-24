@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Lightning-auf-USB-A-Kabel'
+title: 'AmazonBasics - Lightning-auf-USB-A-Kabel' al 49.96873045653534 % de descuento
 date: 2020-01-11 10:14:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o%2BvZUzSnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o%2BvZUzSnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  10 cm  2er-Pack - Grau](https://www.amazon.com/dp/B07FGKRX7M/?tag=redken08-20) a 8 EUR (original: 15.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Lightning-auf-USB-A-Kabel  Premium-Kollektion  10 cm  2er-Pack - Grau](https://www.amazon.com/dp/B07FGKRX7M/?tag=redken08-20) a 8 EUR (original: 15.99 EUR) (49.96873045653534 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31o%2BvZUzSnL._SL200_.jpg)](https://www.amazon.com/dp/B07FGKRX7M/?tag=redken08-20)
 

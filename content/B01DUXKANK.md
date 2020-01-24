@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Dermo Expertise Tratamient'
+title: 'L Oreal Paris Dermo Expertise Tratamient' al 25.15723270440251 % de descuento
 date: 2020-01-05 17:30:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BnNPoKJ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BnNPoKJ9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.95 EUR
 inStock: true
 ---
 
-Está [L Oreal Paris Dermo Expertise Tratamiento Dépannage Colágeno - 50 ml](https://www.amazon.com/dp/B01DUXKANK/?tag=redken08-20) por 5.95 EUR (original: 7.95 EUR) en el siguiente enlace!
+Está [L Oreal Paris Dermo Expertise Tratamiento Dépannage Colágeno - 50 ml](https://www.amazon.com/dp/B01DUXKANK/?tag=redken08-20) con 25.15723270440251 por 5.95 EUR (original: 7.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BnNPoKJ9L._SL200_.jpg)](https://www.amazon.com/dp/B01DUXKANK/?tag=redken08-20)
 

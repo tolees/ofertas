@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Blusa de Manga Larga para Mujer   '
+title: 'find. Blusa de Manga Larga para Mujer   ' al 70.0 % de descuento
 date: 2019/11/20 18:14:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410dyzim%2BqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410dyzim%2BqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28 EUR
 inStock: true
 ---
 
-Está [find. Blusa de Manga Larga para Mujer   azul   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B072PVB4RD/?tag=redken08-20) por 8.4 EUR (original: 28 EUR) en el siguiente enlace!
+Está [find. Blusa de Manga Larga para Mujer   azul   36  Talla del Fabricante: X-Small ](https://www.amazon.com/dp/B072PVB4RD/?tag=redken08-20) con 70.0 por 8.4 EUR (original: 28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410dyzim%2BqL._SL200_.jpg)](https://www.amazon.com/dp/B072PVB4RD/?tag=redken08-20)
 

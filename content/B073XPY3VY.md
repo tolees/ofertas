@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok G Es LS tee Camiseta  Hombre  Neg'
+title: 'Reebok G Es LS tee Camiseta  Hombre  Neg' al 58.83838383838385 % de descuento
 date: 2019/11/26 14:11:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y8GH18BXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y8GH18BXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.8 EUR
 inStock: true
 ---
 
-Está [Reebok G Es LS tee Camiseta  Hombre  Negro  XXS](https://www.amazon.com/dp/B073XPY3VY/?tag=redken08-20) por 8.15 EUR (original: 19.8 EUR) en el siguiente enlace!
+Está [Reebok G Es LS tee Camiseta  Hombre  Negro  XXS](https://www.amazon.com/dp/B073XPY3VY/?tag=redken08-20) con 58.83838383838385 por 8.15 EUR (original: 19.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41y8GH18BXL._SL200_.jpg)](https://www.amazon.com/dp/B073XPY3VY/?tag=redken08-20)
 

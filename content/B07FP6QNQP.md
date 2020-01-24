@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 60236 City Gerade und T-Kreuzung  b'
+title: 'Lego 60236 City Gerade und T-Kreuzung  b' al 30.03003003003003 % de descuento
 date: 2020-01-23 09:42:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KFqu9%2BJ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KFqu9%2BJ9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Está [Lego 60236 City Gerade und T-Kreuzung  bunt](https://www.amazon.com/dp/B07FP6QNQP/?tag=redken08-20) por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Está [Lego 60236 City Gerade und T-Kreuzung  bunt](https://www.amazon.com/dp/B07FP6QNQP/?tag=redken08-20) con 30.03003003003003 por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KFqu9%2BJ9L._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QNQP/?tag=redken08-20)
 

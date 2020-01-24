@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Walking Dead: The Telltale Definitiv'
+title: 'The Walking Dead: The Telltale Definitiv' al 41.50830166033207 % de descuento
 date: 2019/12/27 11:51:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DI5pdx68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DI5pdx68L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [The Walking Dead: The Telltale Definitive Series](https://www.amazon.com/dp/B07TRLM1MQ/?tag=redken08-20) por 29.24 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [The Walking Dead: The Telltale Definitive Series](https://www.amazon.com/dp/B07TRLM1MQ/?tag=redken08-20) con 41.50830166033207 por 29.24 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51DI5pdx68L._SL200_.jpg)](https://www.amazon.com/dp/B07TRLM1MQ/?tag=redken08-20)
 

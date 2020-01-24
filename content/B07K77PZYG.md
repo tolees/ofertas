@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Cumulus 20 1011a008-401  Zapat'
+title: 'Asics Gel-Cumulus 20 1011a008-401  Zapat' al 47.23613595706618 % de descuento
 date: 2019/12/18 08:06:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U573yul3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U573yul3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 111.8 EUR
 inStock: true
 ---
 
-Está [Asics Gel-Cumulus 20 1011a008-401  Zapatillas de Entrenamiento para Hombre  Azul  Blue 1011a008/401   40 1/2 EU](https://www.amazon.com/dp/B07K77PZYG/?tag=redken08-20) por 58.99 EUR (original: 111.8 EUR) en el siguiente enlace!
+Está [Asics Gel-Cumulus 20 1011a008-401  Zapatillas de Entrenamiento para Hombre  Azul  Blue 1011a008/401   40 1/2 EU](https://www.amazon.com/dp/B07K77PZYG/?tag=redken08-20) con 47.23613595706618 por 58.99 EUR (original: 111.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41U573yul3L._SL200_.jpg)](https://www.amazon.com/dp/B07K77PZYG/?tag=redken08-20)
 

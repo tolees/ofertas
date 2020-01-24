@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Slim Western Blusa  Azul  Heather Bl'
+title: Descuento del 49.96664442961974 % en 'Lee Slim Western Blusa  Azul  Heather Bl'
 date: 2019/10/21 02:21:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.95 EUR
 inStock: true
 ---
 
-Tienes [Lee Slim Western Blusa  Azul  Heather Blue LI   Small para Mujer](https://www.amazon.com/dp/B07HHBP9R3/?tag=redken08-20) a precio de oferta de 37.5 EUR (original: 74.95 EUR) en el siguiente enlace!
+Tienes [Lee Slim Western Blusa  Azul  Heather Blue LI   Small para Mujer](https://www.amazon.com/dp/B07HHBP9R3/?tag=redken08-20) con un 49.96664442961974 % con precio de oferta de 37.5 EUR (original: 74.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg)](https://www.amazon.com/dp/B07HHBP9R3/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camisa de Cuadros de Manga Larga p'
+title: 'find. Camisa de Cuadros de Manga Larga p' al 40.0 % de descuento
 date: 2020-01-19 16:35:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51URVSSNPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51URVSSNPxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Camisa de Cuadros de Manga Larga para Hombre  Azul  Indigo Check   Medium](https://www.amazon.com/dp/B01NBU5UED/?tag=redken08-20) a 9 EUR (original: 15 EUR) en el siguiente enlace!
+Ahora mismo tienes [find. Camisa de Cuadros de Manga Larga para Hombre  Azul  Indigo Check   Medium](https://www.amazon.com/dp/B01NBU5UED/?tag=redken08-20) a 9 EUR (original: 15 EUR) (40.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51URVSSNPxL._SL200_.jpg)](https://www.amazon.com/dp/B01NBU5UED/?tag=redken08-20)
 

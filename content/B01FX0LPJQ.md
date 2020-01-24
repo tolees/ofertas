@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Juego Greedy Granny - Versión importada '
+title: 'Juego Greedy Granny - Versión importada ' al 30.320213475650437 % de descuento
 date: 2019/11/15 08:41:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aE6kLec9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aE6kLec9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.98 EUR
 inStock: true
 ---
 
-Está [Juego Greedy Granny - Versión importada  en inglés ](https://www.amazon.com/dp/B01FX0LPJQ/?tag=redken08-20) por 20.89 EUR (original: 29.98 EUR) en el siguiente enlace!
+Está [Juego Greedy Granny - Versión importada  en inglés ](https://www.amazon.com/dp/B01FX0LPJQ/?tag=redken08-20) con 30.320213475650437 por 20.89 EUR (original: 29.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aE6kLec9L._SL200_.jpg)](https://www.amazon.com/dp/B01FX0LPJQ/?tag=redken08-20)
 

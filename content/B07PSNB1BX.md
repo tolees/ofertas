@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gun Gun Pixies - Day One Edition'
+title: 'Gun Gun Pixies - Day One Edition' al 35.887177435487104 % de descuento
 date: 2019/12/27 08:27:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TAqFlWh3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TAqFlWh3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Gun Gun Pixies - Day One Edition](https://www.amazon.com/dp/B07PSNB1BX/?tag=redken08-20) por 32.05 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Gun Gun Pixies - Day One Edition](https://www.amazon.com/dp/B07PSNB1BX/?tag=redken08-20) con 35.887177435487104 por 32.05 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TAqFlWh3L._SL200_.jpg)](https://www.amazon.com/dp/B07PSNB1BX/?tag=redken08-20)
 

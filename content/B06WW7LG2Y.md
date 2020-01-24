@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GraviTrax 27596 Bauen Konstruktionsspiel'
+title: 'GraviTrax 27596 Bauen Konstruktionsspiel' al 33.349213911386364 % de descuento
 date: 2019/12/01 10:45:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514CG6IX1fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514CG6IX1fL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.99 EUR
 inStock: true
 ---
 
-Está [GraviTrax 27596 Bauen Konstruktionsspielzeug](https://www.amazon.com/dp/B06WW7LG2Y/?tag=redken08-20) por 13.99 EUR (original: 20.99 EUR) en el siguiente enlace!
+Está [GraviTrax 27596 Bauen Konstruktionsspielzeug](https://www.amazon.com/dp/B06WW7LG2Y/?tag=redken08-20) con 33.349213911386364 por 13.99 EUR (original: 20.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514CG6IX1fL._SL200_.jpg)](https://www.amazon.com/dp/B06WW7LG2Y/?tag=redken08-20)
 

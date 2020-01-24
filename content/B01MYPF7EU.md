@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Feiyu Tech SPG - Gimbal de 3 ejes para S'
+title: 'Feiyu Tech SPG - Gimbal de 3 ejes para S' al 59.420168067226896 % de descuento
 date: 2020-01-16 07:32:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rdmeP%2Bl6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rdmeP%2Bl6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 EUR
 inStock: true
 ---
 
-Está [Feiyu Tech SPG - Gimbal de 3 ejes para Smartphone y Cámara deportiva  8 horas  iPhone y Android compatible  bluetooth  color negro](https://www.amazon.com/dp/B01MYPF7EU/?tag=redken08-20) por 48.29 EUR (original: 119 EUR) en el siguiente enlace!
+Está [Feiyu Tech SPG - Gimbal de 3 ejes para Smartphone y Cámara deportiva  8 horas  iPhone y Android compatible  bluetooth  color negro](https://www.amazon.com/dp/B01MYPF7EU/?tag=redken08-20) con 59.420168067226896 por 48.29 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31rdmeP%2Bl6L._SL200_.jpg)](https://www.amazon.com/dp/B01MYPF7EU/?tag=redken08-20)
 

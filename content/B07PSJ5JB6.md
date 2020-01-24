@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for New Carous'
+title: 'BRIKSMAX Led Lighting Kit for New Carous' al 35.00350035003501 % de descuento
 date: 2019/12/27 00:42:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k6HYiTmOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k6HYiTmOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Led Lighting Kit for New Carousel Set- Compatible with Lego 10257 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07PSJ5JB6/?tag=redken08-20) a 64.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Led Lighting Kit for New Carousel Set- Compatible with Lego 10257 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07PSJ5JB6/?tag=redken08-20) a 64.99 GBP (original: 99.99 GBP) (35.00350035003501 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51k6HYiTmOL._SL200_.jpg)](https://www.amazon.com/dp/B07PSJ5JB6/?tag=redken08-20)
 

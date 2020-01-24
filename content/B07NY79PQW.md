@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic Lite Micro Pique Polo  '
+title: Descuento del 62.45249049809962 % en 'Superdry Classic Lite Micro Pique Polo  '
 date: 2020-01-19 12:28:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BH2rHhHiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BH2rHhHiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Superdry Classic Lite Micro Pique Polo  Verde  Army Green 43e   Medium para Hombre](https://www.amazon.com/dp/B07NY79PQW/?tag=redken08-20) a precio de oferta de 18.77 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Superdry Classic Lite Micro Pique Polo  Verde  Army Green 43e   Medium para Hombre](https://www.amazon.com/dp/B07NY79PQW/?tag=redken08-20) con un 62.45249049809962 % con precio de oferta de 18.77 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31BH2rHhHiL._SL200_.jpg)](https://www.amazon.com/dp/B07NY79PQW/?tag=redken08-20)
 

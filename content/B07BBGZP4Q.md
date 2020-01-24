@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Freefly Frozen Girls Princess Costume Co'
+title: 'Freefly Frozen Girls Princess Costume Co' al 50.02501250625312 % de descuento
 date: 2020-01-14 20:52:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ywgaN4BUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ywgaN4BUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Freefly Frozen Girls Princess Costume Cosplay Fancy Dress Party Outfit Kids](https://www.amazon.com/dp/B07BBGZP4Q/?tag=redken08-20) a 9.99 GBP (original: 19.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [Freefly Frozen Girls Princess Costume Cosplay Fancy Dress Party Outfit Kids](https://www.amazon.com/dp/B07BBGZP4Q/?tag=redken08-20) a 9.99 GBP (original: 19.99 GBP) (50.02501250625312 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ywgaN4BUL._SL200_.jpg)](https://www.amazon.com/dp/B07BBGZP4Q/?tag=redken08-20)
 

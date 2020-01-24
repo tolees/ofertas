@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Streaker 2.0 Shortsleeve'
+title: 'Under Armour UA Streaker 2.0 Shortsleeve' al 50.02857142857143 % de descuento
 date: 2019/11/30 21:18:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OcjEvA9ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OcjEvA9ML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Streaker 2.0 Shortsleeve Camiseta  Hombre  Gris  Pitch Gray/Pitch Gray/Reflective 012   L](https://www.amazon.com/dp/B07DRL5ZS2/?tag=redken08-20) por 17.49 EUR (original: 35 EUR) en el siguiente enlace!
+Está [Under Armour UA Streaker 2.0 Shortsleeve Camiseta  Hombre  Gris  Pitch Gray/Pitch Gray/Reflective 012   L](https://www.amazon.com/dp/B07DRL5ZS2/?tag=redken08-20) con 50.02857142857143 por 17.49 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31OcjEvA9ML._SL200_.jpg)](https://www.amazon.com/dp/B07DRL5ZS2/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars TM - Tie Advanced de Vade'
+title: Descuento del 25.538685335030454 % en 'LEGO Star Wars TM - Tie Advanced de Vade'
 date: 2019/11/11 10:03:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61mRFwTn4sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61mRFwTn4sL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO Star Wars TM - Tie Advanced de Vader vs. A-Wing Starfighter  6136377 ](https://www.amazon.com/dp/B01AC1DTZ4/?tag=redken08-20) a precio de oferta de 81.9 EUR (original: 109.99 EUR) en el siguiente enlace!
+Tienes [LEGO Star Wars TM - Tie Advanced de Vader vs. A-Wing Starfighter  6136377 ](https://www.amazon.com/dp/B01AC1DTZ4/?tag=redken08-20) con un 25.538685335030454 % con precio de oferta de 81.9 EUR (original: 109.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61mRFwTn4sL._SL200_.jpg)](https://www.amazon.com/dp/B01AC1DTZ4/?tag=redken08-20)
 

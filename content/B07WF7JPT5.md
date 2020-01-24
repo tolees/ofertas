@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asterix & Obelix XXL3: The Crystal Menhi'
+title: 'Asterix & Obelix XXL3: The Crystal Menhi' al 30.528816102012748 % de descuento
 date: 2019/12/15 22:50:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qjO6tMF9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qjO6tMF9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Asterix & Obelix XXL3: The Crystal Menhir - Collectors Edition](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20) por 55.57 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Asterix & Obelix XXL3: The Crystal Menhir - Collectors Edition](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20) con 30.528816102012748 por 55.57 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qjO6tMF9L._SL200_.jpg)](https://www.amazon.com/dp/B07WF7JPT5/?tag=redken08-20)
 

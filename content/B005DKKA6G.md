@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Constantin Durmont Calendar - Reloj anal'
+title: 'Constantin Durmont Calendar - Reloj anal' al 77.44985673352436 % de descuento
 date: 2019/11/14 22:56:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sH70f3RfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sH70f3RfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 349 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Constantin Durmont Calendar - Reloj analógico de caballero automático con correa de piel marrón - sumergible a 30 metros](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20) a 78.7 EUR (original: 349 EUR) en el siguiente enlace!
+Ahora mismo tienes [Constantin Durmont Calendar - Reloj analógico de caballero automático con correa de piel marrón - sumergible a 30 metros](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20) a 78.7 EUR (original: 349 EUR) (77.44985673352436 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51sH70f3RfL._SL200_.jpg)](https://www.amazon.com/dp/B005DKKA6G/?tag=redken08-20)
 

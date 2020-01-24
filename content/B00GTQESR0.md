@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sport L1830 Polo  Azul  Marine  '
+title: 'Lacoste Sport L1830 Polo  Azul  Marine  ' al 31.22222222222223 % de descuento
 date: 2019/10/07 09:27:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-Cs7JuyUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-Cs7JuyUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Sport L1830 Polo  Azul  Marine   4 años  Talla del Fabricante: 4A  para Niños](https://www.amazon.com/dp/B00GTQESR0/?tag=redken08-20) a 30.95 EUR (original: 45 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Sport L1830 Polo  Azul  Marine   4 años  Talla del Fabricante: 4A  para Niños](https://www.amazon.com/dp/B00GTQESR0/?tag=redken08-20) a 30.95 EUR (original: 45 EUR) (31.22222222222223 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-Cs7JuyUL._SL200_.jpg)](https://www.amazon.com/dp/B00GTQESR0/?tag=redken08-20)
 

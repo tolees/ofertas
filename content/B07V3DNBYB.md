@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vampyr'
+title: 'Vampyr' al 35.54710942188438 % de descuento
 date: 2020-01-21 11:41:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Vampyr](https://www.amazon.com/dp/B07V3DNBYB/?tag=redken08-20) a 32.22 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Vampyr](https://www.amazon.com/dp/B07V3DNBYB/?tag=redken08-20) a 32.22 EUR (original: 49.99 EUR) (35.54710942188438 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg)](https://www.amazon.com/dp/B07V3DNBYB/?tag=redken08-20)
 

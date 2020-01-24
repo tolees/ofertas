@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Officejet Pro 6230 - Impresora de tin'
+title: Descuento del 45.9206631142688 % en 'HP Officejet Pro 6230 - Impresora de tin'
 date: 2019/11/09 13:35:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GSZZs1CZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GSZZs1CZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.45 EUR
 inStock: true
 ---
 
-Tienes [HP Officejet Pro 6230 - Impresora de tinta- B/N 18 PPM  color 10 PPM](https://www.amazon.com/dp/B00NYQPB6U/?tag=redken08-20) a precio de oferta de 45.67 EUR (original: 84.45 EUR) en el siguiente enlace!
+Tienes [HP Officejet Pro 6230 - Impresora de tinta- B/N 18 PPM  color 10 PPM](https://www.amazon.com/dp/B00NYQPB6U/?tag=redken08-20) con un 45.9206631142688 % con precio de oferta de 45.67 EUR (original: 84.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GSZZs1CZL._SL200_.jpg)](https://www.amazon.com/dp/B00NYQPB6U/?tag=redken08-20)
 

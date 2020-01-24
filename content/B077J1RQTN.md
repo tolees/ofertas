@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KROM Kernel - Teclado Español Gaming  Co'
+title: 'KROM Kernel - Teclado Español Gaming  Co' al 25.041736227045075 % de descuento
 date: 2019/11/28 00:30:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41buASfB3CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41buASfB3CL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [KROM Kernel - Teclado Español Gaming  Color Negro](https://www.amazon.com/dp/B077J1RQTN/?tag=redken08-20) a 44.9 EUR (original: 59.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [KROM Kernel - Teclado Español Gaming  Color Negro](https://www.amazon.com/dp/B077J1RQTN/?tag=redken08-20) a 44.9 EUR (original: 59.9 EUR) (25.041736227045075 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41buASfB3CL._SL200_.jpg)](https://www.amazon.com/dp/B077J1RQTN/?tag=redken08-20)
 

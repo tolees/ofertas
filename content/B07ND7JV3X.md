@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dockers SEAWORN Khaki Tapered Pantalones'
+title: 'dockers SEAWORN Khaki Tapered Pantalones' al 30.000000000000004 % de descuento
 date: 2019/12/01 09:31:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OgbrnqEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OgbrnqEWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Está [dockers SEAWORN Khaki Tapered Pantalones  Marrón  Tobacco 0000   29W / 32L para Hombre](https://www.amazon.com/dp/B07ND7JV3X/?tag=redken08-20) por 76.3 EUR (original: 109 EUR) en el siguiente enlace!
+Está [dockers SEAWORN Khaki Tapered Pantalones  Marrón  Tobacco 0000   29W / 32L para Hombre](https://www.amazon.com/dp/B07ND7JV3X/?tag=redken08-20) con 30.000000000000004 por 76.3 EUR (original: 109 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OgbrnqEWL._SL200_.jpg)](https://www.amazon.com/dp/B07ND7JV3X/?tag=redken08-20)
 

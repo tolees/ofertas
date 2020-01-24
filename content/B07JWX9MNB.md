@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Ph4241 Polo  Azul  Farine Blanc-'
+title: 'Lacoste Ph4241 Polo  Azul  Farine Blanc-' al 47.74999999999999 % de descuento
 date: 2019/10/12 08:35:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pDrxERfhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pDrxERfhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Ph4241 Polo  Azul  Farine Blanc-Marin Az7   Small  Talla del Fabricante: 3  para Hombre](https://www.amazon.com/dp/B07JWX9MNB/?tag=redken08-20) a 62.7 EUR (original: 120 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Ph4241 Polo  Azul  Farine Blanc-Marin Az7   Small  Talla del Fabricante: 3  para Hombre](https://www.amazon.com/dp/B07JWX9MNB/?tag=redken08-20) a 62.7 EUR (original: 120 EUR) (47.74999999999999 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pDrxERfhL._SL200_.jpg)](https://www.amazon.com/dp/B07JWX9MNB/?tag=redken08-20)
 

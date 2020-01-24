@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GODNECE Build Truck RC Models  Truck Mod'
+title: 'GODNECE Build Truck RC Models  Truck Mod' al 50.0 % de descuento
 date: 2020-01-02 06:12:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQizW3G2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UQizW3G2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 259.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GODNECE Build Truck RC Models  Truck Models for Adults to Build Building Blocks Technic Compatible with Lego 1415Pcs +  ](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20) a 129.99 GBP (original: 259.98 GBP) en el siguiente enlace!
+Ahora mismo tienes [GODNECE Build Truck RC Models  Truck Models for Adults to Build Building Blocks Technic Compatible with Lego 1415Pcs +  ](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20) a 129.99 GBP (original: 259.98 GBP) (50.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UQizW3G2L._SL200_.jpg)](https://www.amazon.com/dp/B0828ZDMZJ/?tag=redken08-20)
 

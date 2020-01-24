@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop! Avengers Infinity War - Figura de V'
+title: 'Pop! Avengers Infinity War - Figura de V' al 48.275862068965516 % de descuento
 date: 2020-01-24 02:09:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/316bakw2oJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316bakw2oJL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pop! Avengers Infinity War - Figura de Vinilo Groot with Stormbreaker](https://www.amazon.com/dp/B07G4MLC4M/?tag=redken08-20) a 8.25 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pop! Avengers Infinity War - Figura de Vinilo Groot with Stormbreaker](https://www.amazon.com/dp/B07G4MLC4M/?tag=redken08-20) a 8.25 EUR (original: 15.95 EUR) (48.275862068965516 %) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/316bakw2oJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07G4MLC4M/?tag=redken08-20)
 

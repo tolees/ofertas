@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pint Size Heroes Guardians of the '
+title: 'Funko Pint Size Heroes Guardians of the ' al 71.20115774240232 % de descuento
 date: 2019/12/22 00:27:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51faNgkvgmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51faNgkvgmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.91 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pint Size Heroes Guardians of the Galaxy  VOL.2 Single Figure Blind Bag](https://www.amazon.com/dp/B01MG9JO2N/?tag=redken08-20) a 1.99 GBP (original: 6.91 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko Pint Size Heroes Guardians of the Galaxy  VOL.2 Single Figure Blind Bag](https://www.amazon.com/dp/B01MG9JO2N/?tag=redken08-20) a 1.99 GBP (original: 6.91 GBP) (71.20115774240232 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51faNgkvgmL._SL200_.jpg)](https://www.amazon.com/dp/B01MG9JO2N/?tag=redken08-20)
 

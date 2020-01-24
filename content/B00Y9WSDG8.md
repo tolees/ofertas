@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STAR WARS - RD Control Hero vehicule  4 '
+title: 'STAR WARS - RD Control Hero vehicule  4 ' al 76.6398023413142 % de descuento
 date: 2019/12/13 09:06:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xcQkRSdZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xcQkRSdZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169.99 EUR
 inStock: true
 ---
 
-Está [STAR WARS - RD Control Hero vehicule  4 Roto Blades  Giochi Preziosi 13417 ](https://www.amazon.com/dp/B00Y9WSDG8/?tag=redken08-20) por 39.71 EUR (original: 169.99 EUR) en el siguiente enlace!
+Está [STAR WARS - RD Control Hero vehicule  4 Roto Blades  Giochi Preziosi 13417 ](https://www.amazon.com/dp/B00Y9WSDG8/?tag=redken08-20) con 76.6398023413142 por 39.71 EUR (original: 169.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xcQkRSdZL._SL200_.jpg)](https://www.amazon.com/dp/B00Y9WSDG8/?tag=redken08-20)
 

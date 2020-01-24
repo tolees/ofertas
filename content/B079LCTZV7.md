@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste TH6709  Camiseta para Hombre  Az'
+title: 'Lacoste TH6709  Camiseta para Hombre  Az' al 36.7040520984081 % de descuento
 date: 2020-01-03 18:25:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.28 EUR
 inStock: true
 ---
 
-Está [Lacoste TH6709  Camiseta para Hombre  Azul  Bleu 001   5XL  Talla del fabricante: 10 ](https://www.amazon.com/dp/B079LCTZV7/?tag=redken08-20) por 34.99 EUR (original: 55.28 EUR) en el siguiente enlace!
+Está [Lacoste TH6709  Camiseta para Hombre  Azul  Bleu 001   5XL  Talla del fabricante: 10 ](https://www.amazon.com/dp/B079LCTZV7/?tag=redken08-20) con 36.7040520984081 por 34.99 EUR (original: 55.28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31p2BpSsXmL._SL200_.jpg)](https://www.amazon.com/dp/B079LCTZV7/?tag=redken08-20)
 

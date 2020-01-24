@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evil dead 2  terroríficamente muertos  -'
+title: 'Evil dead 2  terroríficamente muertos  -' al 30.025020850708916 % de descuento
 date: 2019/10/18 03:31:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KsT92DQZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KsT92DQZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Evil dead 2  terroríficamente muertos  - BD [Blu-ray]](https://www.amazon.com/dp/B07Q47ZXRF/?tag=redken08-20) a 8.39 EUR (original: 11.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Evil dead 2  terroríficamente muertos  - BD [Blu-ray]](https://www.amazon.com/dp/B07Q47ZXRF/?tag=redken08-20) a 8.39 EUR (original: 11.99 EUR) (30.025020850708916 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KsT92DQZL._SL200_.jpg)](https://www.amazon.com/dp/B07Q47ZXRF/?tag=redken08-20)
 

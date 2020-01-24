@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lancome - Base de maquillaje teint idole'
+title: Descuento del 55.99635202918377 % en 'Lancome - Base de maquillaje teint idole'
 date: 2019/10/23 22:27:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XLttDVL3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XLttDVL3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 65.79 EUR
 inStock: true
 ---
 
-Tienes [Lancome - Base de maquillaje teint idole ultra cushion lancôme](https://www.amazon.com/dp/B01LCL7N7S/?tag=redken08-20) a precio de oferta de 28.95 EUR (original: 65.79 EUR) en el siguiente enlace!
+Tienes [Lancome - Base de maquillaje teint idole ultra cushion lancôme](https://www.amazon.com/dp/B01LCL7N7S/?tag=redken08-20) con un 55.99635202918377 % con precio de oferta de 28.95 EUR (original: 65.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XLttDVL3L._SL200_.jpg)](https://www.amazon.com/dp/B01LCL7N7S/?tag=redken08-20)
 

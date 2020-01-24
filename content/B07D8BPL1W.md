@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG 50UK6300PLB - Smart TV de 50" LED UHD'
+title: 'LG 50UK6300PLB - Smart TV de 50" LED UHD' al 44.95994993742178 % de descuento
 date: 2019/10/06 23:50:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kUqSD8aHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kUqSD8aHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 799 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LG 50UK6300PLB - Smart TV de 50" LED UHD 4K  inteligencia artificial  HDR  WiFi ](https://www.amazon.com/dp/B07D8BPL1W/?tag=redken08-20) a 439.77 EUR (original: 799 EUR) en el siguiente enlace!
+Ahora mismo tienes [LG 50UK6300PLB - Smart TV de 50" LED UHD 4K  inteligencia artificial  HDR  WiFi ](https://www.amazon.com/dp/B07D8BPL1W/?tag=redken08-20) a 439.77 EUR (original: 799 EUR) (44.95994993742178 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kUqSD8aHL._SL200_.jpg)](https://www.amazon.com/dp/B07D8BPL1W/?tag=redken08-20)
 

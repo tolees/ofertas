@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Le Coq Sportif COURTSTAR Craft  Zapatill'
+title: Descuento del 30.005200208008308 % en 'Le Coq Sportif COURTSTAR Craft  Zapatill'
 date: 2020-01-24 15:47:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/31iz4j72ayL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31iz4j72ayL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 57.69 EUR
 inStock: true
 ---
 
-Tienes [Le Coq Sportif COURTSTAR Craft  Zapatillas para Hombre  Blanco  Optical White/Croissant Optical White/Croissant   45 EU](https://www.amazon.com/dp/B07MQZ6WC6/?tag=redken08-20) a precio de oferta de 40.38 EUR (original: 57.69 EUR) en el siguiente enlace!
+Tienes [Le Coq Sportif COURTSTAR Craft  Zapatillas para Hombre  Blanco  Optical White/Croissant Optical White/Croissant   45 EU](https://www.amazon.com/dp/B07MQZ6WC6/?tag=redken08-20) con un 30.005200208008308 % con precio de oferta de 40.38 EUR (original: 57.69 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31iz4j72ayL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07MQZ6WC6/?tag=redken08-20)
 

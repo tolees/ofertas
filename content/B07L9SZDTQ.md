@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatilla'
+title: 'Lacoste Carnaby EVO 319 3 SMA  Zapatilla' al 56.23809523809524 % de descuento
 date: 2020-01-07 18:25:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 105 EUR
 inStock: true
 ---
 
-Está [Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Negro  Black/Black 02h   40 EU](https://www.amazon.com/dp/B07L9SZDTQ/?tag=redken08-20) por 45.95 EUR (original: 105 EUR) en el siguiente enlace!
+Está [Lacoste Carnaby EVO 319 3 SMA  Zapatillas para Hombre  Negro  Black/Black 02h   40 EU](https://www.amazon.com/dp/B07L9SZDTQ/?tag=redken08-20) con 56.23809523809524 por 45.95 EUR (original: 105 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ojtoAQKyL._SL200_.jpg)](https://www.amazon.com/dp/B07L9SZDTQ/?tag=redken08-20)
 

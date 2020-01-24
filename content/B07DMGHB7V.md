@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIFA 19 Edición Legacy'
+title: 'FIFA 19 Edición Legacy' al 41.90698449741623 % de descuento
 date: 2020-01-22 17:49:32
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [FIFA 19 Edición Legacy](https://www.amazon.com/dp/B07DMGHB7V/?tag=redken08-20) a 34.85 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [FIFA 19 Edición Legacy](https://www.amazon.com/dp/B07DMGHB7V/?tag=redken08-20) a 34.85 EUR (original: 59.99 EUR) (41.90698449741623 %) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07DMGHB7V/?tag=redken08-20)
 

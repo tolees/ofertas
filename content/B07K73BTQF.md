@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic B Sudadera  Negro  Logo S'
+title: 'Levi s Graphic B Sudadera  Negro  Logo S' al 50.83333333333333 % de descuento
 date: 2020-01-21 07:15:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Gn51t8zTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Gn51t8zTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Graphic B Sudadera  Negro  Logo Ssnl Crew Mineral Black 0068   Small para Hombre](https://www.amazon.com/dp/B07K73BTQF/?tag=redken08-20) a 29.5 EUR (original: 60 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Graphic B Sudadera  Negro  Logo Ssnl Crew Mineral Black 0068   Small para Hombre](https://www.amazon.com/dp/B07K73BTQF/?tag=redken08-20) a 29.5 EUR (original: 60 EUR) (50.83333333333333 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Gn51t8zTL._SL200_.jpg)](https://www.amazon.com/dp/B07K73BTQF/?tag=redken08-20)
 

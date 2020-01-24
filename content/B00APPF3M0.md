@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Bobble - Marvel: Deadpool'
+title: 'POP! Bobble - Marvel: Deadpool' al 44.96330887258172 % de descuento
 date: 2020-01-13 23:29:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D4bIG484L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D4bIG484L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [POP! Bobble - Marvel: Deadpool](https://www.amazon.com/dp/B00APPF3M0/?tag=redken08-20) a 8.25 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [POP! Bobble - Marvel: Deadpool](https://www.amazon.com/dp/B00APPF3M0/?tag=redken08-20) a 8.25 EUR (original: 14.99 EUR) (44.96330887258172 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41D4bIG484L._SL200_.jpg)](https://www.amazon.com/dp/B00APPF3M0/?tag=redken08-20)
 

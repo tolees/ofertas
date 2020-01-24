@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia GoodlifeTM Lace  Zapatillas Cas'
+title: 'Columbia GoodlifeTM Lace  Zapatillas Cas' al 51.51893986748344 % de descuento
 date: 2019/11/26 15:16:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zaq349upL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zaq349upL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Columbia GoodlifeTM Lace  Zapatillas Casual para Mujer  Blanco  White  Ti Grey Steel   41 EU](https://www.amazon.com/dp/B073RNKD3T/?tag=redken08-20) por 38.78 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Columbia GoodlifeTM Lace  Zapatillas Casual para Mujer  Blanco  White  Ti Grey Steel   41 EU](https://www.amazon.com/dp/B073RNKD3T/?tag=redken08-20) con 51.51893986748344 por 38.78 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zaq349upL._SL200_.jpg)](https://www.amazon.com/dp/B073RNKD3T/?tag=redken08-20)
 

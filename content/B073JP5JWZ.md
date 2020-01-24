@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camiseta Básica Hombre  Azul  Smal'
+title: 'find. Camiseta Básica Hombre  Azul  Smal' al 70.0 % de descuento
 date: 2019/10/15 17:25:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n9pT-KXXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n9pT-KXXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12 EUR
 inStock: true
 ---
 
-Está [find. Camiseta Básica Hombre  Azul  Small](https://www.amazon.com/dp/B073JP5JWZ/?tag=redken08-20) por 3.6 EUR (original: 12 EUR) en el siguiente enlace!
+Está [find. Camiseta Básica Hombre  Azul  Small](https://www.amazon.com/dp/B073JP5JWZ/?tag=redken08-20) con 70.0 por 3.6 EUR (original: 12 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41n9pT-KXXL._SL200_.jpg)](https://www.amazon.com/dp/B073JP5JWZ/?tag=redken08-20)
 

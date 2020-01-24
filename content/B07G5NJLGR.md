@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Impresora Multifuncional Canon PIXMA MG3'
+title: Descuento del 37.56962025316456 % en 'Impresora Multifuncional Canon PIXMA MG3'
 date: 2019/11/19 12:32:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bNNjcS9KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bNNjcS9KL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Tienes [Impresora Multifuncional Canon PIXMA MG3650S Blanca Wifi de inyección de tinta](https://www.amazon.com/dp/B07G5NJLGR/?tag=redken08-20) a precio de oferta de 49.32 EUR (original: 79 EUR) en el siguiente enlace!
+Tienes [Impresora Multifuncional Canon PIXMA MG3650S Blanca Wifi de inyección de tinta](https://www.amazon.com/dp/B07G5NJLGR/?tag=redken08-20) con un 37.56962025316456 % con precio de oferta de 49.32 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bNNjcS9KL._SL200_.jpg)](https://www.amazon.com/dp/B07G5NJLGR/?tag=redken08-20)
 

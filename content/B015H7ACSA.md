@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel Optical Frame Dl5161 003 55 Montu'
+title: 'Diesel Optical Frame Dl5161 003 55 Montu' al 60.28666666666667 % de descuento
 date: 2019/11/12 07:10:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CSZ6sgehL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CSZ6sgehL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Diesel Optical Frame Dl5161 003 55 Monturas de Gafas  Multicolor  Mehrfarbig   55.0 para Hombre](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20) por 59.57 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Diesel Optical Frame Dl5161 003 55 Monturas de Gafas  Multicolor  Mehrfarbig   55.0 para Hombre](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20) con 60.28666666666667 por 59.57 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31CSZ6sgehL._SL200_.jpg)](https://www.amazon.com/dp/B015H7ACSA/?tag=redken08-20)
 

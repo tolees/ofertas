@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Core-Run S/S Tee Camiseta  Hombre  '
+title: 'Puma Core-Run S/S Tee Camiseta  Hombre  ' al 63.613595706618966 % de descuento
 date: 2019/11/13 18:19:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pzbhome5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pzbhome5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Core-Run S/S Tee Camiseta  Hombre  Negro  S](https://www.amazon.com/dp/B01N2JG8IS/?tag=redken08-20) a 10.17 EUR (original: 27.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Core-Run S/S Tee Camiseta  Hombre  Negro  S](https://www.amazon.com/dp/B01N2JG8IS/?tag=redken08-20) a 10.17 EUR (original: 27.95 EUR) (63.613595706618966 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Pzbhome5L._SL200_.jpg)](https://www.amazon.com/dp/B01N2JG8IS/?tag=redken08-20)
 

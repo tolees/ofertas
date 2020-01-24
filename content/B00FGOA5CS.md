@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vanguard Espod - Trípode de aluminio'
+title: 'Vanguard Espod - Trípode de aluminio' al 25.091819699499162 % de descuento
 date: 2019/10/28 15:43:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lpnbZCidL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lpnbZCidL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.9 EUR
 inStock: true
 ---
 
-Está [Vanguard Espod - Trípode de aluminio](https://www.amazon.com/dp/B00FGOA5CS/?tag=redken08-20) por 44.87 EUR (original: 59.9 EUR) en el siguiente enlace!
+Está [Vanguard Espod - Trípode de aluminio](https://www.amazon.com/dp/B00FGOA5CS/?tag=redken08-20) con 25.091819699499162 por 44.87 EUR (original: 59.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lpnbZCidL._SL200_.jpg)](https://www.amazon.com/dp/B00FGOA5CS/?tag=redken08-20)
 

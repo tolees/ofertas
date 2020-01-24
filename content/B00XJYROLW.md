@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Classic Leather Zapatillas  Mujer'
+title: 'Reebok Classic Leather Zapatillas  Mujer' al 32.117843246247915 % de descuento
 date: 2019/12/26 06:09:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313ClchY2nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313ClchY2nL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Está [Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   39 EU](https://www.amazon.com/dp/B00XJYROLW/?tag=redken08-20) por 61.06 EUR (original: 89.95 EUR) en el siguiente enlace!
+Está [Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   39 EU](https://www.amazon.com/dp/B00XJYROLW/?tag=redken08-20) con 32.117843246247915 por 61.06 EUR (original: 89.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/313ClchY2nL._SL200_.jpg)](https://www.amazon.com/dp/B00XJYROLW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony DSC-WX220 - Cámara compacta de 18 M'
+title: 'Sony DSC-WX220 - Cámara compacta de 18 M' al 31.818181818181824 % de descuento
 date: 2019/11/03 21:51:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u8a5xJUqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u8a5xJUqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 220 EUR
 inStock: true
 ---
 
-Está [Sony DSC-WX220 - Cámara compacta de 18 MP  Pantalla de 2.7"  Zoom óptico 10x  estabilizador óptico  vídeo Full HD   Rosa](https://www.amazon.com/dp/B00I9X2GRA/?tag=redken08-20) por 150 EUR (original: 220 EUR) en el siguiente enlace!
+Está [Sony DSC-WX220 - Cámara compacta de 18 MP  Pantalla de 2.7"  Zoom óptico 10x  estabilizador óptico  vídeo Full HD   Rosa](https://www.amazon.com/dp/B00I9X2GRA/?tag=redken08-20) con 31.818181818181824 por 150 EUR (original: 220 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41u8a5xJUqL._SL200_.jpg)](https://www.amazon.com/dp/B00I9X2GRA/?tag=redken08-20)
 

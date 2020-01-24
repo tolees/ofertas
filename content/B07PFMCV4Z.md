@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orient Unisex Adultos FAB00009D9'
+title: 'Orient Unisex Adultos FAB00009D9' al 36.019999999999996 % de descuento
 date: 2019/10/29 06:21:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l6j864pML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l6j864pML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Orient Unisex Adultos FAB00009D9](https://www.amazon.com/dp/B07PFMCV4Z/?tag=redken08-20) a 95.97 EUR (original: 150 EUR) en el siguiente enlace!
+Ahora mismo tienes [Orient Unisex Adultos FAB00009D9](https://www.amazon.com/dp/B07PFMCV4Z/?tag=redken08-20) a 95.97 EUR (original: 150 EUR) (36.019999999999996 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51l6j864pML._SL200_.jpg)](https://www.amazon.com/dp/B07PFMCV4Z/?tag=redken08-20)
 

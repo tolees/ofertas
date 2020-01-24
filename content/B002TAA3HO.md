@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link Wireless Open Access Point Router'
+title: 'D-Link Wireless Open Access Point Router' al 46.44515898535191 % de descuento
 date: 2019/12/04 20:51:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j0peNhIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j0peNhIJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.99 GBP
 inStock: true
 ---
 
-Está [D-Link Wireless Open Access Point Router DAP-1360/B-Black](https://www.amazon.com/dp/B002TAA3HO/?tag=redken08-20) por 14.99 GBP (original: 27.99 GBP) en el siguiente enlace!
+Está [D-Link Wireless Open Access Point Router DAP-1360/B-Black](https://www.amazon.com/dp/B002TAA3HO/?tag=redken08-20) con 46.44515898535191 por 14.99 GBP (original: 27.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31j0peNhIJL._SL200_.jpg)](https://www.amazon.com/dp/B002TAA3HO/?tag=redken08-20)
 

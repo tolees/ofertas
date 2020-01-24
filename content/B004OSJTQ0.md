@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ibiza Sound PORT12VHF- BT - Megafonia po'
+title: 'Ibiza Sound PORT12VHF- BT - Megafonia po' al 26.640926640926644 % de descuento
 date: 2020-01-17 13:07:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jho3UTjaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jho3UTjaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 259 EUR
 inStock: true
 ---
 
-Está [Ibiza Sound PORT12VHF- BT - Megafonia portatil  700 W  USB Bluetooth   color negro](https://www.amazon.com/dp/B004OSJTQ0/?tag=redken08-20) por 190 EUR (original: 259 EUR) en el siguiente enlace!
+Está [Ibiza Sound PORT12VHF- BT - Megafonia portatil  700 W  USB Bluetooth   color negro](https://www.amazon.com/dp/B004OSJTQ0/?tag=redken08-20) con 26.640926640926644 por 190 EUR (original: 259 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Jho3UTjaL._SL200_.jpg)](https://www.amazon.com/dp/B004OSJTQ0/?tag=redken08-20)
 

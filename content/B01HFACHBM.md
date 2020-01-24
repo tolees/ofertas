@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Moab 2 GTX  Zapatillas de Sender'
+title: Descuento del 40.76923076923077 % en 'Merrell Moab 2 GTX  Zapatillas de Sender'
 date: 2019/10/30 15:02:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zNkzfBsNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zNkzfBsNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Tienes [Merrell Moab 2 GTX  Zapatillas de Senderismo para Hombre  Marrón  Earth   40 EU](https://www.amazon.com/dp/B01HFACHBM/?tag=redken08-20) a precio de oferta de 77 EUR (original: 130 EUR) en el siguiente enlace!
+Tienes [Merrell Moab 2 GTX  Zapatillas de Senderismo para Hombre  Marrón  Earth   40 EU](https://www.amazon.com/dp/B01HFACHBM/?tag=redken08-20) con un 40.76923076923077 % con precio de oferta de 77 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zNkzfBsNL._SL200_.jpg)](https://www.amazon.com/dp/B01HFACHBM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75234 Star Wars AT-AP Walker Constr'
+title: Descuento del 26.219418372057234 % en 'LEGO 75234 Star Wars AT-AP Walker Constr'
 date: 2019/12/02 08:50:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RI172X18L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RI172X18L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 64.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO 75234 Star Wars AT-AP Walker Construction Set with Chewbacca  Clone Commander Gree  Kashyyyk Clone Trooper and 2 Battle Droid Minifigures  The Clone Wars Collection](https://www.amazon.com/dp/B07FNMXLWF/?tag=redken08-20) a precio de oferta de 47.95 GBP (original: 64.99 GBP) en el siguiente enlace!
+Tienes [LEGO 75234 Star Wars AT-AP Walker Construction Set with Chewbacca  Clone Commander Gree  Kashyyyk Clone Trooper and 2 Battle Droid Minifigures  The Clone Wars Collection](https://www.amazon.com/dp/B07FNMXLWF/?tag=redken08-20) con un 26.219418372057234 % con precio de oferta de 47.95 GBP (original: 64.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51RI172X18L._SL200_.jpg)](https://www.amazon.com/dp/B07FNMXLWF/?tag=redken08-20)
 

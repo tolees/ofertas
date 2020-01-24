@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nokia Lumia 640 XL - Smartphone 5.7"  3G'
+title: 'Nokia Lumia 640 XL - Smartphone 5.7"  3G' al 31.592964824120607 % de descuento
 date: 2020-01-24 06:48:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Qe4wpbWzL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.0 EUR
 inStock: true
 ---
 
-Está [Nokia Lumia 640 XL - Smartphone 5.7"  3G  Qualcomm MSM8926 Snapdragon 400  1 GB de RAM  Dual SIM  color negro](https://www.amazon.com/dp/B00W3QO0VE/?tag=redken08-20) por 136.13 EUR (original: 199.0 EUR) en el siguiente enlace!
+Está [Nokia Lumia 640 XL - Smartphone 5.7"  3G  Qualcomm MSM8926 Snapdragon 400  1 GB de RAM  Dual SIM  color negro](https://www.amazon.com/dp/B00W3QO0VE/?tag=redken08-20) con 31.592964824120607 por 136.13 EUR (original: 199.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Qe4wpbWzL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00W3QO0VE/?tag=redken08-20)
 

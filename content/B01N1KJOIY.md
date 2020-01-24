@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gin Malayerba 70cl 40% Vol.'
+title: 'Gin Malayerba 70cl 40% Vol.' al 30.640668523676883 % de descuento
 date: 2019/12/28 10:59:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41arlScvXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41arlScvXCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.9 EUR
 inStock: true
 ---
 
-Está [Gin Malayerba 70cl 40% Vol.](https://www.amazon.com/dp/B01N1KJOIY/?tag=redken08-20) por 24.9 EUR (original: 35.9 EUR) en el siguiente enlace!
+Está [Gin Malayerba 70cl 40% Vol.](https://www.amazon.com/dp/B01N1KJOIY/?tag=redken08-20) con 30.640668523676883 por 24.9 EUR (original: 35.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41arlScvXCL._SL200_.jpg)](https://www.amazon.com/dp/B01N1KJOIY/?tag=redken08-20)
 

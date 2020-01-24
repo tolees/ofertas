@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Nitrel v2  Zapatillas de Run'
+title: 'New Balance Nitrel v2  Zapatillas de Run' al 67.22222222222223 % de descuento
 date: 2019/10/15 13:20:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410%2BF-JGQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410%2BF-JGQML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Nitrel v2  Zapatillas de Running para Mujer  Turquesa  Light Petrol/Galaxy/Blossom Lg2   36 EU](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20) a 29.5 EUR (original: 90 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance Nitrel v2  Zapatillas de Running para Mujer  Turquesa  Light Petrol/Galaxy/Blossom Lg2   36 EU](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20) a 29.5 EUR (original: 90 EUR) (67.22222222222223 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410%2BF-JGQML._SL200_.jpg)](https://www.amazon.com/dp/B07B71PKDS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Winfred A  Zapatos de Cordones Ox'
+title: 'Geox U Winfred A  Zapatos de Cordones Ox' al 49.984603541185535 % de descuento
 date: 2019/11/07 14:48:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u6tLV8o9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u6tLV8o9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.9 EUR
 inStock: true
 ---
 
-Está [Geox U Winfred A  Zapatos de Cordones Oxford para Hombre   Coffee C6009   39 EU](https://www.amazon.com/dp/B0792TCTZW/?tag=redken08-20) por 64.97 EUR (original: 129.9 EUR) en el siguiente enlace!
+Está [Geox U Winfred A  Zapatos de Cordones Oxford para Hombre   Coffee C6009   39 EU](https://www.amazon.com/dp/B0792TCTZW/?tag=redken08-20) con 49.984603541185535 por 64.97 EUR (original: 129.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31u6tLV8o9L._SL200_.jpg)](https://www.amazon.com/dp/B0792TCTZW/?tag=redken08-20)
 

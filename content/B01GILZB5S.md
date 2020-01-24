@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein L/s Crew Neck Camiseta  Neg'
+title: 'Calvin Klein L/s Crew Neck Camiseta  Neg' al 35.39024390243903 % de descuento
 date: 2019/11/17 16:38:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iECWzBOxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iECWzBOxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 41 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Calvin Klein L/s Crew Neck Camiseta  Negro  Black 001   Large para Hombre](https://www.amazon.com/dp/B01GILZB5S/?tag=redken08-20) a 26.49 EUR (original: 41 EUR) en el siguiente enlace!
+Ahora mismo tienes [Calvin Klein L/s Crew Neck Camiseta  Negro  Black 001   Large para Hombre](https://www.amazon.com/dp/B01GILZB5S/?tag=redken08-20) a 26.49 EUR (original: 41 EUR) (35.39024390243903 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iECWzBOxL._SL200_.jpg)](https://www.amazon.com/dp/B01GILZB5S/?tag=redken08-20)
 

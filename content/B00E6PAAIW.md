@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trend D/Lift DLIFTA Door Lifter A'
+title: 'Trend D/Lift DLIFTA Door Lifter A' al 30.000000000000004 % de descuento
 date: 2020-01-18 12:00:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lCJ1s0ACL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lCJ1s0ACL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.5 GBP
 inStock: true
 ---
 
-Está [Trend D/Lift DLIFTA Door Lifter A](https://www.amazon.com/dp/B00E6PAAIW/?tag=redken08-20) por 12.95 GBP (original: 18.5 GBP) en el siguiente enlace!
+Está [Trend D/Lift DLIFTA Door Lifter A](https://www.amazon.com/dp/B00E6PAAIW/?tag=redken08-20) con 30.000000000000004 por 12.95 GBP (original: 18.5 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lCJ1s0ACL._SL200_.jpg)](https://www.amazon.com/dp/B00E6PAAIW/?tag=redken08-20)
 

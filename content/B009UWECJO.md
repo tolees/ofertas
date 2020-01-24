@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Glenfarclas - Single Highland Malt Minia'
+title: Descuento del 66.18220489188231 % en 'Glenfarclas - Single Highland Malt Minia'
 date: 2020-01-10 16:09:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.21 EUR
 inStock: true
 ---
 
-Tienes [Glenfarclas - Single Highland Malt Miniature Gift Set](https://www.amazon.com/dp/B009UWECJO/?tag=redken08-20) a precio de oferta de 9.54 EUR (original: 28.21 EUR) en el siguiente enlace!
+Tienes [Glenfarclas - Single Highland Malt Miniature Gift Set](https://www.amazon.com/dp/B009UWECJO/?tag=redken08-20) con un 66.18220489188231 % con precio de oferta de 9.54 EUR (original: 28.21 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51GQ2wO-2NL._SL200_.jpg)](https://www.amazon.com/dp/B009UWECJO/?tag=redken08-20)
 

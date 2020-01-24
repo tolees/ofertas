@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VICTORIO & LUCCHINO Agua De Colonia Para'
+title: 'VICTORIO & LUCCHINO Agua De Colonia Para' al 38.36930455635492 % de descuento
 date: 2019/10/22 08:55:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KlvFMBzYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KlvFMBzYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.85 EUR
 inStock: true
 ---
 
-Está [VICTORIO & LUCCHINO Agua De Colonia Para Mujeres 100 ml](https://www.amazon.com/dp/B00XAIXMU4/?tag=redken08-20) por 12.85 EUR (original: 20.85 EUR) en el siguiente enlace!
+Está [VICTORIO & LUCCHINO Agua De Colonia Para Mujeres 100 ml](https://www.amazon.com/dp/B00XAIXMU4/?tag=redken08-20) con 38.36930455635492 por 12.85 EUR (original: 20.85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KlvFMBzYL._SL200_.jpg)](https://www.amazon.com/dp/B00XAIXMU4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY  Camiseta de Manga Larga pa'
+title: 'IRIS & LILLY  Camiseta de Manga Larga pa' al 28.511354079058037 % de descuento
 date: 2020-01-02 09:00:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416EXIeac1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416EXIeac1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.89 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [IRIS & LILLY  Camiseta de Manga Larga para Mujer  Gris  Grey Marl   Medium](https://www.amazon.com/dp/B076ZF1GTW/?tag=redken08-20) a 8.5 EUR (original: 11.89 EUR) en el siguiente enlace!
+Ahora mismo tienes [IRIS & LILLY  Camiseta de Manga Larga para Mujer  Gris  Grey Marl   Medium](https://www.amazon.com/dp/B076ZF1GTW/?tag=redken08-20) a 8.5 EUR (original: 11.89 EUR) (28.511354079058037 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416EXIeac1L._SL200_.jpg)](https://www.amazon.com/dp/B076ZF1GTW/?tag=redken08-20)
 

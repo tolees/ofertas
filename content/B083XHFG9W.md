@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TONGJI Acrylic Display Case For Lego 420'
+title: 'TONGJI Acrylic Display Case For Lego 420' al 50.0 % de descuento
 date: 2020-01-24 09:53:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Jg-cqGPSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Jg-cqGPSL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 123.98 GBP
 inStock: true
 ---
 
-Está [TONGJI Acrylic Display Case For Lego 42083 Technic Bugatti Chiron   Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083XHFG9W/?tag=redken08-20) por 61.99 GBP (original: 123.98 GBP) en el siguiente enlace!
+Está [TONGJI Acrylic Display Case For Lego 42083 Technic Bugatti Chiron   Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083XHFG9W/?tag=redken08-20) con 50.0 por 61.99 GBP (original: 123.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Jg-cqGPSL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B083XHFG9W/?tag=redken08-20)
 

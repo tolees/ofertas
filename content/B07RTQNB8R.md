@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Silla de oficina dirección Niceday Berli'
+title: 'Silla de oficina dirección Niceday Berli' al 60.96840190952489 % de descuento
 date: 2019/11/05 08:27:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TJGF4GwPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TJGF4GwPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 219.95 EUR
 inStock: true
 ---
 
-Está [Silla de oficina dirección Niceday Berlin marrón inclinación básica](https://www.amazon.com/dp/B07RTQNB8R/?tag=redken08-20) por 85.85 EUR (original: 219.95 EUR) en el siguiente enlace!
+Está [Silla de oficina dirección Niceday Berlin marrón inclinación básica](https://www.amazon.com/dp/B07RTQNB8R/?tag=redken08-20) con 60.96840190952489 por 85.85 EUR (original: 219.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TJGF4GwPL._SL200_.jpg)](https://www.amazon.com/dp/B07RTQNB8R/?tag=redken08-20)
 

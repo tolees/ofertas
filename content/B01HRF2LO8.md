@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Precision'
+title: Descuento del 60.00000000000001 % en 'Precision'
 date: 2020-01-23 14:14:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ERFKhMqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ERFKhMqAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Tienes [Precision](https://www.amazon.com/dp/B01HRF2LO8/?tag=redken08-20) a precio de oferta de 21.98 EUR (original: 54.95 EUR) en el siguiente enlace!
+Tienes [Precision](https://www.amazon.com/dp/B01HRF2LO8/?tag=redken08-20) con un 60.00000000000001 % con precio de oferta de 21.98 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ERFKhMqAL._SL200_.jpg)](https://www.amazon.com/dp/B01HRF2LO8/?tag=redken08-20)
 

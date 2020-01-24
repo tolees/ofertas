@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Elly Vaqueros  Azul  Light Rugged GE'
+title: 'Lee Elly Vaqueros  Azul  Light Rugged GE' al 82.26113056528264 % de descuento
 date: 2019/12/23 18:25:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Elly Vaqueros  Azul  Light Rugged GE   25W / 31L para Mujer](https://www.amazon.com/dp/B07FTR6MWX/?tag=redken08-20) a 17.73 EUR (original: 99.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lee Elly Vaqueros  Azul  Light Rugged GE   25W / 31L para Mujer](https://www.amazon.com/dp/B07FTR6MWX/?tag=redken08-20) a 17.73 EUR (original: 99.95 EUR) (82.26113056528264 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg)](https://www.amazon.com/dp/B07FTR6MWX/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister Modern Dream - Spinne'
+title: 'American Tourister Modern Dream - Spinne' al 37.784000000000006 % de descuento
 date: 2019/12/20 17:55:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DNQL1ecRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DNQL1ecRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 125 EUR
 inStock: true
 ---
 
-Está [American Tourister Modern Dream - Spinner S Equipaje de mano  55 cm  35 L  Blanco  Stardust ](https://www.amazon.com/dp/B07J6QJWZP/?tag=redken08-20) por 77.77 EUR (original: 125 EUR) en el siguiente enlace!
+Está [American Tourister Modern Dream - Spinner S Equipaje de mano  55 cm  35 L  Blanco  Stardust ](https://www.amazon.com/dp/B07J6QJWZP/?tag=redken08-20) con 37.784000000000006 por 77.77 EUR (original: 125 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DNQL1ecRL._SL200_.jpg)](https://www.amazon.com/dp/B07J6QJWZP/?tag=redken08-20)
 

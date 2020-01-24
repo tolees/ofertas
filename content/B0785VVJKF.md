@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fantasy Flight Games Star Wars X-Wing: B'
+title: 'Fantasy Flight Games Star Wars X-Wing: B' al 52.4110671936759 % de descuento
 date: 2019/10/14 22:20:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413JoAZ5SpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413JoAZ5SpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fantasy Flight Games Star Wars X-Wing: Bombardero de la Resistencia-Español  FFSWX67 ](https://www.amazon.com/dp/B0785VVJKF/?tag=redken08-20) a 18.06 EUR (original: 37.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fantasy Flight Games Star Wars X-Wing: Bombardero de la Resistencia-Español  FFSWX67 ](https://www.amazon.com/dp/B0785VVJKF/?tag=redken08-20) a 18.06 EUR (original: 37.95 EUR) (52.4110671936759 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413JoAZ5SpL._SL200_.jpg)](https://www.amazon.com/dp/B0785VVJKF/?tag=redken08-20)
 

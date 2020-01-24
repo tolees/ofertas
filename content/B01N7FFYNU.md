@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kerzo Expert Anti-Caspa Citrus Champú - '
+title: Descuento del 65.7718120805369 % en 'Kerzo Expert Anti-Caspa Citrus Champú - '
 date: 2019/11/01 09:28:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V2ydgYrsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V2ydgYrsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 5.96 EUR
 inStock: true
 ---
 
-Tienes [Kerzo Expert Anti-Caspa Citrus Champú - 250 ml](https://www.amazon.com/dp/B01N7FFYNU/?tag=redken08-20) a precio de oferta de 2.04 EUR (original: 5.96 EUR) en el siguiente enlace!
+Tienes [Kerzo Expert Anti-Caspa Citrus Champú - 250 ml](https://www.amazon.com/dp/B01N7FFYNU/?tag=redken08-20) con un 65.7718120805369 % con precio de oferta de 2.04 EUR (original: 5.96 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31V2ydgYrsL._SL200_.jpg)](https://www.amazon.com/dp/B01N7FFYNU/?tag=redken08-20)
 

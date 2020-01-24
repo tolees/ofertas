@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister - Bon Air - Spinner E'
+title: Descuento del 40.0 % en 'American Tourister - Bon Air - Spinner E'
 date: 2020-01-20 18:08:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yMXIvEm3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yMXIvEm3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Tienes [American Tourister - Bon Air - Spinner Equipaje de mano 55 cm  32 L  Negro](https://www.amazon.com/dp/B00K6VQ0UM/?tag=redken08-20) a precio de oferta de 66 EUR (original: 110 EUR) en el siguiente enlace!
+Tienes [American Tourister - Bon Air - Spinner Equipaje de mano 55 cm  32 L  Negro](https://www.amazon.com/dp/B00K6VQ0UM/?tag=redken08-20) con un 40.0 % con precio de oferta de 66 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31yMXIvEm3L._SL200_.jpg)](https://www.amazon.com/dp/B00K6VQ0UM/?tag=redken08-20)
 

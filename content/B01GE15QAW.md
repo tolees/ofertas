@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Goliath - Man-Tibu-Las  juego de mesa  G'
+title: 'Goliath - Man-Tibu-Las  juego de mesa  G' al 37.63676148796499 % de descuento
 date: 2020-01-02 09:55:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sc%2BbpX0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sc%2BbpX0NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 31.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Goliath - Man-Tibu-Las  juego de mesa  Goliath 30721006 ](https://www.amazon.com/dp/B01GE15QAW/?tag=redken08-20) a 19.95 EUR (original: 31.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Goliath - Man-Tibu-Las  juego de mesa  Goliath 30721006 ](https://www.amazon.com/dp/B01GE15QAW/?tag=redken08-20) a 19.95 EUR (original: 31.99 EUR) (37.63676148796499 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51sc%2BbpX0NL._SL200_.jpg)](https://www.amazon.com/dp/B01GE15QAW/?tag=redken08-20)
 

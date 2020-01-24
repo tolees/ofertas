@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance KJ373AWY M - Zapatillas Unis'
+title: 'New Balance KJ373AWY M - Zapatillas Unis' al 59.699999999999996 % de descuento
 date: 2019/10/30 16:57:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mLJdxnrbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mLJdxnrbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [New Balance KJ373AWY M - Zapatillas Unisex Niños  Blanco  White   28 EU](https://www.amazon.com/dp/B01MXRIGMU/?tag=redken08-20) por 20.15 EUR (original: 50 EUR) en el siguiente enlace!
+Está [New Balance KJ373AWY M - Zapatillas Unisex Niños  Blanco  White   28 EU](https://www.amazon.com/dp/B01MXRIGMU/?tag=redken08-20) con 59.699999999999996 por 20.15 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mLJdxnrbL._SL200_.jpg)](https://www.amazon.com/dp/B01MXRIGMU/?tag=redken08-20)
 

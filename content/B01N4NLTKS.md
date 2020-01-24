@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Vinyl: Rick & Morty: Weaponized Ri'
+title: Descuento del 46.70846394984326 % en 'Funko Vinyl: Rick & Morty: Weaponized Ri'
 date: 2020-01-03 15:03:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YIZK4rhQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YIZK4rhQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Tienes [Funko Vinyl: Rick & Morty: Weaponized Rick  12439 ](https://www.amazon.com/dp/B01N4NLTKS/?tag=redken08-20) a precio de oferta de 8.5 EUR (original: 15.95 EUR) en el siguiente enlace!
+Tienes [Funko Vinyl: Rick & Morty: Weaponized Rick  12439 ](https://www.amazon.com/dp/B01N4NLTKS/?tag=redken08-20) con un 46.70846394984326 % con precio de oferta de 8.5 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YIZK4rhQL._SL200_.jpg)](https://www.amazon.com/dp/B01N4NLTKS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Tormenta Pantalón  Hombr'
+title: 'Under Armour UA Tormenta Pantalón  Hombr' al 59.41333333333333 % de descuento
 date: 2019/10/21 06:43:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LpHTR-8jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LpHTR-8jL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Tormenta Pantalón  Hombre  City Khaki/Magma Orange/Black  299   LG](https://www.amazon.com/dp/B077XNBKR8/?tag=redken08-20) por 30.44 EUR (original: 75 EUR) en el siguiente enlace!
+Está [Under Armour UA Tormenta Pantalón  Hombre  City Khaki/Magma Orange/Black  299   LG](https://www.amazon.com/dp/B077XNBKR8/?tag=redken08-20) con 59.41333333333333 por 30.44 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31LpHTR-8jL._SL200_.jpg)](https://www.amazon.com/dp/B077XNBKR8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Whisky Hibiki Japanese Harmony'
+title: 'Whisky Hibiki Japanese Harmony' al 37.29661084213033 % de descuento
 date: 2019/12/21 12:00:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FiEAS-MVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FiEAS-MVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 125.99 EUR
 inStock: true
 ---
 
-Está [Whisky Hibiki Japanese Harmony](https://www.amazon.com/dp/B012DC0OHQ/?tag=redken08-20) por 79 EUR (original: 125.99 EUR) en el siguiente enlace!
+Está [Whisky Hibiki Japanese Harmony](https://www.amazon.com/dp/B012DC0OHQ/?tag=redken08-20) con 37.29661084213033 por 79 EUR (original: 125.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FiEAS-MVL._SL200_.jpg)](https://www.amazon.com/dp/B012DC0OHQ/?tag=redken08-20)
 

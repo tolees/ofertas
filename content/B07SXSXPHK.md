@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hori - Real Arcade Pro.V Hayabusa  Edici'
+title: 'Hori - Real Arcade Pro.V Hayabusa  Edici' al 47.10919432464529 % de descuento
 date: 2019/12/19 09:36:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sXUiNDutL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sXUiNDutL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hori - Real Arcade Pro.V Hayabusa  Edición Street Fighter II Chun-Li  Nintendo Switch/PC ](https://www.amazon.com/dp/B07SXSXPHK/?tag=redken08-20) a 84.62 EUR (original: 159.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hori - Real Arcade Pro.V Hayabusa  Edición Street Fighter II Chun-Li  Nintendo Switch/PC ](https://www.amazon.com/dp/B07SXSXPHK/?tag=redken08-20) a 84.62 EUR (original: 159.99 EUR) (47.10919432464529 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sXUiNDutL._SL200_.jpg)](https://www.amazon.com/dp/B07SXSXPHK/?tag=redken08-20)
 

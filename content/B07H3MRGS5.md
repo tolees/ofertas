@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wireless IP Camera  ROXTAK HD Security C'
+title: 'Wireless IP Camera  ROXTAK HD Security C' al 70.00700070007 % de descuento
 date: 2019/12/03 13:21:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gf0Z7xtfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gf0Z7xtfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Está [Wireless IP Camera  ROXTAK HD Security Camera with WiFi  Two Way Audio  Night Vision  Motion Detection  Pan/Tilt/Zoom  Remote Alarm Support and Mobile App Control](https://www.amazon.com/dp/B07H3MRGS5/?tag=redken08-20) por 29.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Está [Wireless IP Camera  ROXTAK HD Security Camera with WiFi  Two Way Audio  Night Vision  Motion Detection  Pan/Tilt/Zoom  Remote Alarm Support and Mobile App Control](https://www.amazon.com/dp/B07H3MRGS5/?tag=redken08-20) con 70.00700070007 por 29.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gf0Z7xtfL._SL200_.jpg)](https://www.amazon.com/dp/B07H3MRGS5/?tag=redken08-20)
 

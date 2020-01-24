@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WWE 2K18 - Nintendo Switch [Importación '
+title: 'WWE 2K18 - Nintendo Switch [Importación ' al 61.81740614334472 % de descuento
 date: 2020-01-15 09:07:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317mfhf6d3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317mfhf6d3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 46.88 EUR
 inStock: true
 ---
 
-Está [WWE 2K18 - Nintendo Switch [Importación inglesa]](https://www.amazon.com/dp/B079SLHJ7V/?tag=redken08-20) por 17.9 EUR (original: 46.88 EUR) en el siguiente enlace!
+Está [WWE 2K18 - Nintendo Switch [Importación inglesa]](https://www.amazon.com/dp/B079SLHJ7V/?tag=redken08-20) con 61.81740614334472 por 17.9 EUR (original: 46.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317mfhf6d3L._SL200_.jpg)](https://www.amazon.com/dp/B079SLHJ7V/?tag=redken08-20)
 

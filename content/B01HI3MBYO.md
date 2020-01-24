@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic Pique S/S Polo  Camisa '
+title: Descuento del 65.24524524524524 % en 'Superdry Classic Pique S/S Polo  Camisa '
 date: 2019/10/30 15:54:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YOahESDlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YOahESDlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Tienes [Superdry Classic Pique S/S Polo  Camisa de Pijama Para Hombre  Azul  Eclipse Navy98T   S](https://www.amazon.com/dp/B01HI3MBYO/?tag=redken08-20) a precio de oferta de 17.36 EUR (original: 49.95 EUR) en el siguiente enlace!
+Tienes [Superdry Classic Pique S/S Polo  Camisa de Pijama Para Hombre  Azul  Eclipse Navy98T   S](https://www.amazon.com/dp/B01HI3MBYO/?tag=redken08-20) con un 65.24524524524524 % con precio de oferta de 17.36 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YOahESDlL._SL200_.jpg)](https://www.amazon.com/dp/B01HI3MBYO/?tag=redken08-20)
 

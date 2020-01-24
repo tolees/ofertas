@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance KJ570V1Y  Zapatillas de Runn'
+title: 'New Balance KJ570V1Y  Zapatillas de Runn' al 53.125 % de descuento
 date: 2019/11/13 21:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311%2BadcvXWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311%2BadcvXWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [New Balance KJ570V1Y  Zapatillas de Running para Niños  Negro Black  28.5 EU](https://www.amazon.com/dp/B07DFTJ5SN/?tag=redken08-20) por 18.75 EUR (original: 40 EUR) en el siguiente enlace!
+Está [New Balance KJ570V1Y  Zapatillas de Running para Niños  Negro Black  28.5 EU](https://www.amazon.com/dp/B07DFTJ5SN/?tag=redken08-20) con 53.125 por 18.75 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/311%2BadcvXWL._SL200_.jpg)](https://www.amazon.com/dp/B07DFTJ5SN/?tag=redken08-20)
 

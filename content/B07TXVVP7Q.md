@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO City '
+title: 'BRIKSMAX Led Lighting Kit for LEGO City ' al 75.00750075007501 % de descuento
 date: 2020-01-23 01:11:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Está [BRIKSMAX Led Lighting Kit for LEGO City Passenger RC Train- Compatible with Lego 60197 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20) por 24.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO City Passenger RC Train- Compatible with Lego 60197 Building Blocks Model- Not Include The Lego Set](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20) con 75.00750075007501 por 24.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CKCnv%2BsCL._SL200_.jpg)](https://www.amazon.com/dp/B07TXVVP7Q/?tag=redken08-20)
 

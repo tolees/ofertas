@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Repsol RP135U55 Elite L Life 50700/50400'
+title: 'Repsol RP135U55 Elite L Life 50700/50400' al 27.18918918918919 % de descuento
 date: 2019/11/15 11:37:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xKtKw2WkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xKtKw2WkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37 EUR
 inStock: true
 ---
 
-Está [Repsol RP135U55 Elite L Life 50700/50400 5W-30 Aceite de Motor para Coche  5 L](https://www.amazon.com/dp/B00BFWNV4Y/?tag=redken08-20) por 26.94 EUR (original: 37 EUR) en el siguiente enlace!
+Está [Repsol RP135U55 Elite L Life 50700/50400 5W-30 Aceite de Motor para Coche  5 L](https://www.amazon.com/dp/B00BFWNV4Y/?tag=redken08-20) con 27.18918918918919 por 26.94 EUR (original: 37 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xKtKw2WkL._SL200_.jpg)](https://www.amazon.com/dp/B00BFWNV4Y/?tag=redken08-20)
 

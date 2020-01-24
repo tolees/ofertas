@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thor: El Mundo Oscuro [Blu-ray]'
+title: 'Thor: El Mundo Oscuro [Blu-ray]' al 29.958158995815896 % de descuento
 date: 2019/12/12 21:32:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vSzayEV9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vSzayEV9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.95 EUR
 inStock: true
 ---
 
-Está [Thor: El Mundo Oscuro [Blu-ray]](https://www.amazon.com/dp/B00GFODY80/?tag=redken08-20) por 8.37 EUR (original: 11.95 EUR) en el siguiente enlace!
+Está [Thor: El Mundo Oscuro [Blu-ray]](https://www.amazon.com/dp/B00GFODY80/?tag=redken08-20) con 29.958158995815896 por 8.37 EUR (original: 11.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51vSzayEV9L._SL200_.jpg)](https://www.amazon.com/dp/B00GFODY80/?tag=redken08-20)
 

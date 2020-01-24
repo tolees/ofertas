@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Superstar  Zapatillas de deporte '
+title: 'adidas Superstar  Zapatillas de deporte ' al 50.00500050005 % de descuento
 date: 2019/10/17 01:56:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319Va9B9kmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319Va9B9kmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Superstar  Zapatillas de deporte Unisex Adulto  Blanco  Ftwr White/Core Black/Ftwr White   36 2/3 EU](https://www.amazon.com/dp/B00OUWR8LS/?tag=redken08-20) a 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Superstar  Zapatillas de deporte Unisex Adulto  Blanco  Ftwr White/Core Black/Ftwr White   36 2/3 EU](https://www.amazon.com/dp/B00OUWR8LS/?tag=redken08-20) a 49.99 EUR (original: 99.99 EUR) (50.00500050005 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319Va9B9kmL._SL200_.jpg)](https://www.amazon.com/dp/B00OUWR8LS/?tag=redken08-20)
 

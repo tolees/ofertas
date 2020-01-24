@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRA Efficient - Batería 3 piezas  de alu'
+title: 'BRA Efficient - Batería 3 piezas  de alu' al 32.5140607424072 % de descuento
 date: 2019/11/25 12:40:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319z-Jj49RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319z-Jj49RL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 177.8 EUR
 inStock: true
 ---
 
-Está [BRA Efficient - Batería 3 piezas  de aluminio fundido con antiadherente  apta para todo tipo de cocinas incluso inducción](https://www.amazon.com/dp/B07L5BDYZ7/?tag=redken08-20) por 119.99 EUR (original: 177.8 EUR) en el siguiente enlace!
+Está [BRA Efficient - Batería 3 piezas  de aluminio fundido con antiadherente  apta para todo tipo de cocinas incluso inducción](https://www.amazon.com/dp/B07L5BDYZ7/?tag=redken08-20) con 32.5140607424072 por 119.99 EUR (original: 177.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/319z-Jj49RL._SL200_.jpg)](https://www.amazon.com/dp/B07L5BDYZ7/?tag=redken08-20)
 

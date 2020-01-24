@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Trefoil  Camiseta para mujer  Roj'
+title: Descuento del 30.159999999999997 % en 'adidas Trefoil  Camiseta para mujer  Roj'
 date: 2019/11/12 10:29:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/2142Ee0gifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/2142Ee0gifL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [adidas Trefoil  Camiseta para mujer  Rojo  collegiate purple   46](https://www.amazon.com/dp/B07SCG8D8N/?tag=redken08-20) a precio de oferta de 17.46 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [adidas Trefoil  Camiseta para mujer  Rojo  collegiate purple   46](https://www.amazon.com/dp/B07SCG8D8N/?tag=redken08-20) con un 30.159999999999997 % con precio de oferta de 17.46 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/2142Ee0gifL._SL200_.jpg)](https://www.amazon.com/dp/B07SCG8D8N/?tag=redken08-20)
 

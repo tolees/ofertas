@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hearthrousy - Bloques de inserción de Mo'
+title: Descuento del 37.591911764705884 % en 'Hearthrousy - Bloques de inserción de Mo'
 date: 2019/12/13 16:55:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Dlcqkx5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Dlcqkx5lL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10.88 EUR
 inStock: true
 ---
 
-Tienes [Hearthrousy - Bloques de inserción de Motor XL compatibles con Lego Tech Series 8882](https://www.amazon.com/dp/B07PVGVHKV/?tag=redken08-20) a precio de oferta de 6.79 EUR (original: 10.88 EUR) en el siguiente enlace!
+Tienes [Hearthrousy - Bloques de inserción de Motor XL compatibles con Lego Tech Series 8882](https://www.amazon.com/dp/B07PVGVHKV/?tag=redken08-20) con un 37.591911764705884 % con precio de oferta de 6.79 EUR (original: 10.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Dlcqkx5lL._SL200_.jpg)](https://www.amazon.com/dp/B07PVGVHKV/?tag=redken08-20)
 

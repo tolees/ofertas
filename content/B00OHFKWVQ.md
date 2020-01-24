@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Chiavari LS - Chaqueta técnica par'
+title: 'Kappa Chiavari LS - Chaqueta técnica par' al 46.60714285714286 % de descuento
 date: 2019/10/14 11:10:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XkQrRpiLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XkQrRpiLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28 EUR
 inStock: true
 ---
 
-Está [Kappa Chiavari LS - Chaqueta técnica para Hombre  Color Azul náutico  Talla YM](https://www.amazon.com/dp/B00OHFKWVQ/?tag=redken08-20) por 14.95 EUR (original: 28 EUR) en el siguiente enlace!
+Está [Kappa Chiavari LS - Chaqueta técnica para Hombre  Color Azul náutico  Talla YM](https://www.amazon.com/dp/B00OHFKWVQ/?tag=redken08-20) con 46.60714285714286 por 14.95 EUR (original: 28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XkQrRpiLL._SL200_.jpg)](https://www.amazon.com/dp/B00OHFKWVQ/?tag=redken08-20)
 

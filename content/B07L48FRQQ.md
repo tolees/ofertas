@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAST LEVEL- Funko Figura Pop FORTNITE: T'
+title: 'LAST LEVEL- Funko Figura Pop FORTNITE: T' al 32.53918495297805 % de descuento
 date: 2020-01-03 15:03:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PuqRi%2BB8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PuqRi%2BB8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [LAST LEVEL- Funko Figura Pop FORTNITE: TRICERA Ops  Multicolor  FFK36024 ](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20) por 10.76 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [LAST LEVEL- Funko Figura Pop FORTNITE: TRICERA Ops  Multicolor  FFK36024 ](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20) con 32.53918495297805 por 10.76 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51PuqRi%2BB8L._SL200_.jpg)](https://www.amazon.com/dp/B07L48FRQQ/?tag=redken08-20)
 

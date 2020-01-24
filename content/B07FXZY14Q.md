@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Azul '
+title: 'Levi s 502 Regular Taper Vaqueros  Azul ' al 57.9 % de descuento
 date: 2019/10/10 18:59:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Levi s 502 Regular Taper Vaqueros  Azul  Rock Cod 0280   40W / 34L para Hombre](https://www.amazon.com/dp/B07FXZY14Q/?tag=redken08-20) por 46.31 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Levi s 502 Regular Taper Vaqueros  Azul  Rock Cod 0280   40W / 34L para Hombre](https://www.amazon.com/dp/B07FXZY14Q/?tag=redken08-20) con 57.9 por 46.31 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZfDLIkzJL._SL200_.jpg)](https://www.amazon.com/dp/B07FXZY14Q/?tag=redken08-20)
 

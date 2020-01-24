@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars TM - Microfighter: Lanzad'
+title: 'LEGO Star Wars TM - Microfighter: Lanzad' al 29.807692307692314 % de descuento
 date: 2020-01-24 14:11:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KaFn-kEDL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KaFn-kEDL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.6 EUR
 inStock: true
 ---
 
-Está [LEGO Star Wars TM - Microfighter: Lanzadera de Kylo Ren  Set de construcción de nave con alas plegables  juguete de La Guerra de las Galaxias Episodio 9: El ascenso de Skywalker  Novedad 2020  75264 ](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20) por 10.95 EUR (original: 15.6 EUR) en el siguiente enlace!
+Está [LEGO Star Wars TM - Microfighter: Lanzadera de Kylo Ren  Set de construcción de nave con alas plegables  juguete de La Guerra de las Galaxias Episodio 9: El ascenso de Skywalker  Novedad 2020  75264 ](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20) con 29.807692307692314 por 10.95 EUR (original: 15.6 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KaFn-kEDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20)
 

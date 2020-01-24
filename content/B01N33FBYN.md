@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Comics Funko Pop! 12541 Vinyl Wonder '
+title: Descuento del 44.38264738598443 % en 'DC Comics Funko Pop! 12541 Vinyl Wonder '
 date: 2019/12/19 07:02:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.99 GBP
 inStock: true
 ---
 
-Tienes [DC Comics Funko Pop! 12541 Vinyl Wonder Woman Hippolyta Figure](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20) a precio de oferta de 5 GBP (original: 8.99 GBP) en el siguiente enlace!
+Tienes [DC Comics Funko Pop! 12541 Vinyl Wonder Woman Hippolyta Figure](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20) con un 44.38264738598443 % con precio de oferta de 5 GBP (original: 8.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41dlmwlCphL._SL200_.jpg)](https://www.amazon.com/dp/B01N33FBYN/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Inami M  Monederos Mujer  Gris'
+title: 'Kipling - Inami M  Monederos Mujer  Gris' al 50.0 % de descuento
 date: 2019/11/27 20:13:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bv-vh8zWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bv-vh8zWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kipling - Inami M  Monederos Mujer  Gris  Active Grey Bl ](https://www.amazon.com/dp/B07DKG9YL2/?tag=redken08-20) a 14.5 EUR (original: 29 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kipling - Inami M  Monederos Mujer  Gris  Active Grey Bl ](https://www.amazon.com/dp/B07DKG9YL2/?tag=redken08-20) a 14.5 EUR (original: 29 EUR) (50.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bv-vh8zWL._SL200_.jpg)](https://www.amazon.com/dp/B07DKG9YL2/?tag=redken08-20)
 

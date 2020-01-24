@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xenoblade Chronicles 2'
+title: Descuento del 31.13852308718119 % en 'Xenoblade Chronicles 2'
 date: 2020-01-10 06:52:52
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [Xenoblade Chronicles 2](https://www.amazon.com/dp/B01NCVKS2T/?tag=redken08-20) a precio de oferta de 41.31 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Xenoblade Chronicles 2](https://www.amazon.com/dp/B01NCVKS2T/?tag=redken08-20) con un 31.13852308718119 % con precio de oferta de 41.31 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B01NCVKS2T/?tag=redken08-20)
 

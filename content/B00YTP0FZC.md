@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Piz Buin Tan & Protect Protector Solar A'
+title: 'Piz Buin Tan & Protect Protector Solar A' al 45.82914572864322 % de descuento
 date: 2020-01-05 02:23:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41abXm1zF3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41abXm1zF3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [Piz Buin Tan & Protect Protector Solar Acelerador del Bronceado  Aceite en Spray SPF 30  Protección Alta - 150 ml](https://www.amazon.com/dp/B00YTP0FZC/?tag=redken08-20) por 10.78 EUR (original: 19.9 EUR) en el siguiente enlace!
+Está [Piz Buin Tan & Protect Protector Solar Acelerador del Bronceado  Aceite en Spray SPF 30  Protección Alta - 150 ml](https://www.amazon.com/dp/B00YTP0FZC/?tag=redken08-20) con 45.82914572864322 por 10.78 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41abXm1zF3L._SL200_.jpg)](https://www.amazon.com/dp/B00YTP0FZC/?tag=redken08-20)
 

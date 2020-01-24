@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skagen Reloj de Pulsera SKW2152'
+title: 'Skagen Reloj de Pulsera SKW2152' al 60.0 % de descuento
 date: 2019/11/14 05:46:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K0zN8ifcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K0zN8ifcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Skagen Reloj de Pulsera SKW2152](https://www.amazon.com/dp/B00I90DSZC/?tag=redken08-20) a 63.6 EUR (original: 159 EUR) en el siguiente enlace!
+Ahora mismo tienes [Skagen Reloj de Pulsera SKW2152](https://www.amazon.com/dp/B00I90DSZC/?tag=redken08-20) a 63.6 EUR (original: 159 EUR) (60.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41K0zN8ifcL._SL200_.jpg)](https://www.amazon.com/dp/B00I90DSZC/?tag=redken08-20)
 

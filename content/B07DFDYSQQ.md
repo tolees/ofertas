@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop La Pequeña Tienda de los Horro'
+title: 'Funko Pop La Pequeña Tienda de los Horro' al 65.51724137931035 % de descuento
 date: 2020-01-15 07:02:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.95 EUR
 inStock: true
 ---
 
-Está [Funko Pop La Pequeña Tienda de los Horrores Figura de Vinilo Orin Scivello D.D.S  Multicolor  Standard  33094 ](https://www.amazon.com/dp/B07DFDYSQQ/?tag=redken08-20) por 5.5 EUR (original: 15.95 EUR) en el siguiente enlace!
+Está [Funko Pop La Pequeña Tienda de los Horrores Figura de Vinilo Orin Scivello D.D.S  Multicolor  Standard  33094 ](https://www.amazon.com/dp/B07DFDYSQQ/?tag=redken08-20) con 65.51724137931035 por 5.5 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg)](https://www.amazon.com/dp/B07DFDYSQQ/?tag=redken08-20)
 

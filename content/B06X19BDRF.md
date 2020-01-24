@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia Touch Bin Cubo de Basura  30 l'
+title: 'Brabantia Touch Bin Cubo de Basura  30 l' al 41.733812949640296 % de descuento
 date: 2019/12/03 19:58:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317EJVrWSzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317EJVrWSzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Brabantia Touch Bin Cubo de Basura  30 litros  Anti-Huellas  De plástico  Acero Inoxidable  Mate antihuellas](https://www.amazon.com/dp/B06X19BDRF/?tag=redken08-20) a 80.99 EUR (original: 139 EUR) en el siguiente enlace!
+Ahora mismo tienes [Brabantia Touch Bin Cubo de Basura  30 litros  Anti-Huellas  De plástico  Acero Inoxidable  Mate antihuellas](https://www.amazon.com/dp/B06X19BDRF/?tag=redken08-20) a 80.99 EUR (original: 139 EUR) (41.733812949640296 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317EJVrWSzL._SL200_.jpg)](https://www.amazon.com/dp/B06X19BDRF/?tag=redken08-20)
 

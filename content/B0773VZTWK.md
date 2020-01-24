@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour W Threadborne Blur 3000098 '
+title: 'Under Armour W Threadborne Blur 3000098 ' al 63.026421136909526 % de descuento
 date: 2019/11/06 11:09:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IYcEPtfLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IYcEPtfLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 124.9 EUR
 inStock: true
 ---
 
-Está [Under Armour W Threadborne Blur 3000098  Zapatillas de Entrenamiento para Mujer  Gris  Gray 3000098/800   36 1/2 EU](https://www.amazon.com/dp/B0773VZTWK/?tag=redken08-20) por 46.18 EUR (original: 124.9 EUR) en el siguiente enlace!
+Está [Under Armour W Threadborne Blur 3000098  Zapatillas de Entrenamiento para Mujer  Gris  Gray 3000098/800   36 1/2 EU](https://www.amazon.com/dp/B0773VZTWK/?tag=redken08-20) con 63.026421136909526 por 46.18 EUR (original: 124.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41IYcEPtfLL._SL200_.jpg)](https://www.amazon.com/dp/B0773VZTWK/?tag=redken08-20)
 

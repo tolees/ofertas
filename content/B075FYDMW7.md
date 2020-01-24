@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ray-Ban 0rb3546 9074 52 Gafas de sol  Co'
+title: 'Ray-Ban 0rb3546 9074 52 Gafas de sol  Co' al 27.598684210526315 % de descuento
 date: 2019/12/05 15:11:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iOpZlW97L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iOpZlW97L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 152 EUR
 inStock: true
 ---
 
-Está [Ray-Ban 0rb3546 9074 52 Gafas de sol  Copper on Top Havana  Unisex](https://www.amazon.com/dp/B075FYDMW7/?tag=redken08-20) por 110.05 EUR (original: 152 EUR) en el siguiente enlace!
+Está [Ray-Ban 0rb3546 9074 52 Gafas de sol  Copper on Top Havana  Unisex](https://www.amazon.com/dp/B075FYDMW7/?tag=redken08-20) con 27.598684210526315 por 110.05 EUR (original: 152 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31iOpZlW97L._SL200_.jpg)](https://www.amazon.com/dp/B075FYDMW7/?tag=redken08-20)
 

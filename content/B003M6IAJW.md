@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jelly Belly Bean Boozled  Dulce de caram'
+title: 'Jelly Belly Bean Boozled  Dulce de caram' al 33.49282296650718 % de descuento
 date: 2019/12/01 18:18:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wMfs7R48L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wMfs7R48L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 10.45 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jelly Belly Bean Boozled  Dulce de caramelo - 100 gr.](https://www.amazon.com/dp/B003M6IAJW/?tag=redken08-20) a 6.95 EUR (original: 10.45 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jelly Belly Bean Boozled  Dulce de caramelo - 100 gr.](https://www.amazon.com/dp/B003M6IAJW/?tag=redken08-20) a 6.95 EUR (original: 10.45 EUR) (33.49282296650718 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wMfs7R48L._SL200_.jpg)](https://www.amazon.com/dp/B003M6IAJW/?tag=redken08-20)
 

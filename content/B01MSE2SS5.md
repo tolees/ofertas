@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett Vaqueros  Azul  Solid Blue '
+title: Descuento del 30.10293260827345 % en 'Lee Scarlett Vaqueros  Azul  Solid Blue '
 date: 2019/12/28 16:07:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314Zdze8IpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314Zdze8IpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51.49 EUR
 inStock: true
 ---
 
-Tienes [Lee Scarlett Vaqueros  Azul  Solid Blue KT   25W / 33L para Mujer](https://www.amazon.com/dp/B01MSE2SS5/?tag=redken08-20) a precio de oferta de 35.99 EUR (original: 51.49 EUR) en el siguiente enlace!
+Tienes [Lee Scarlett Vaqueros  Azul  Solid Blue KT   25W / 33L para Mujer](https://www.amazon.com/dp/B01MSE2SS5/?tag=redken08-20) con un 30.10293260827345 % con precio de oferta de 35.99 EUR (original: 51.49 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/314Zdze8IpL._SL200_.jpg)](https://www.amazon.com/dp/B01MSE2SS5/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars Póster  Multicolor  61 x 91.5c'
+title: 'Star Wars Póster  Multicolor  61 x 91.5c' al 73.63433667781494 % de descuento
 date: 2020-01-15 09:06:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BUQSiVKRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BUQSiVKRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.94 EUR
 inStock: true
 ---
 
-Está [Star Wars Póster  Multicolor  61 x 91.5cm](https://www.amazon.com/dp/B082XVDK1R/?tag=redken08-20) por 4.73 EUR (original: 17.94 EUR) en el siguiente enlace!
+Está [Star Wars Póster  Multicolor  61 x 91.5cm](https://www.amazon.com/dp/B082XVDK1R/?tag=redken08-20) con 73.63433667781494 por 4.73 EUR (original: 17.94 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BUQSiVKRL._SL200_.jpg)](https://www.amazon.com/dp/B082XVDK1R/?tag=redken08-20)
 

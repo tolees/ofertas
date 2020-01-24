@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hasbro Gaming Gaming Tabú Clásico  Hasbr'
+title: 'Hasbro Gaming Gaming Tabú Clásico  Hasbr' al 32.17857142857143 % de descuento
 date: 2019/12/28 11:13:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EEqxQ-7dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EEqxQ-7dL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28 EUR
 inStock: true
 ---
 
-Está [Hasbro Gaming Gaming Tabú Clásico  Hasbro Spain A4626105 ](https://www.amazon.com/dp/B00BD2E6VI/?tag=redken08-20) por 18.99 EUR (original: 28 EUR) en el siguiente enlace!
+Está [Hasbro Gaming Gaming Tabú Clásico  Hasbro Spain A4626105 ](https://www.amazon.com/dp/B00BD2E6VI/?tag=redken08-20) con 32.17857142857143 por 18.99 EUR (original: 28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EEqxQ-7dL._SL200_.jpg)](https://www.amazon.com/dp/B00BD2E6VI/?tag=redken08-20)
 

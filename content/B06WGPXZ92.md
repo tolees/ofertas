@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'homido Mini Virtual Reality Glasses for '
+title: 'homido Mini Virtual Reality Glasses for ' al 65.57705136757839 % de descuento
 date: 2019/11/15 11:47:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OsVci%2B-zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OsVci%2B-zL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [homido Mini Virtual Reality Glasses for Smartphone](https://www.amazon.com/dp/B06WGPXZ92/?tag=redken08-20) a 5.16 GBP (original: 14.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [homido Mini Virtual Reality Glasses for Smartphone](https://www.amazon.com/dp/B06WGPXZ92/?tag=redken08-20) a 5.16 GBP (original: 14.99 GBP) (65.57705136757839 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OsVci%2B-zL._SL200_.jpg)](https://www.amazon.com/dp/B06WGPXZ92/?tag=redken08-20)
 

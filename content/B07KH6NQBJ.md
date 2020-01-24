@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Rush Crop Capri  Mujer  '
+title: 'Under Armour UA Rush Crop Capri  Mujer  ' al 73.34555759293215 % de descuento
 date: 2019/10/05 09:04:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RFWgtnY8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RFWgtnY8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Rush Crop Capri  Mujer  Gris  Ash Taupe/Black 057   S](https://www.amazon.com/dp/B07KH6NQBJ/?tag=redken08-20) por 15.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Under Armour UA Rush Crop Capri  Mujer  Gris  Ash Taupe/Black 057   S](https://www.amazon.com/dp/B07KH6NQBJ/?tag=redken08-20) con 73.34555759293215 por 15.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RFWgtnY8L._SL200_.jpg)](https://www.amazon.com/dp/B07KH6NQBJ/?tag=redken08-20)
 

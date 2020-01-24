@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Smash v2 Zapatillas Unisex adulto  '
+title: 'Puma Smash v2 Zapatillas Unisex adulto  ' al 49.9727024567789 % de descuento
 date: 2019/10/10 11:12:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wYq8KftdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wYq8KftdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.95 EUR
 inStock: true
 ---
 
-Está [Puma Smash v2 Zapatillas Unisex adulto  Negro  Puma Black-Puma Black   48.5 EU](https://www.amazon.com/dp/B0783PWDFP/?tag=redken08-20) por 27.49 EUR (original: 54.95 EUR) en el siguiente enlace!
+Está [Puma Smash v2 Zapatillas Unisex adulto  Negro  Puma Black-Puma Black   48.5 EU](https://www.amazon.com/dp/B0783PWDFP/?tag=redken08-20) con 49.9727024567789 por 27.49 EUR (original: 54.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wYq8KftdL._SL200_.jpg)](https://www.amazon.com/dp/B0783PWDFP/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic Set-in Neck  Camiseta par'
+title: 'Levi s Graphic Set-in Neck  Camiseta par' al 42.2 % de descuento
 date: 2019/10/10 19:00:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bt01zj5%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bt01zj5%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Boxtab Ssnl Sodalite Blue 0540   S](https://www.amazon.com/dp/B07KF4SPM6/?tag=redken08-20) a 14.45 EUR (original: 25 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Boxtab Ssnl Sodalite Blue 0540   S](https://www.amazon.com/dp/B07KF4SPM6/?tag=redken08-20) a 14.45 EUR (original: 25 EUR) (42.2 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2Bt01zj5%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07KF4SPM6/?tag=redken08-20)
 

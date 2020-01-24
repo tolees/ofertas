@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nancy - Colección Edición Especial 50 An'
+title: 'Nancy - Colección Edición Especial 50 An' al 49.994116954935876 % de descuento
 date: 2019/11/21 09:12:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wrbr7GogL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wrbr7GogL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.99 EUR
 inStock: true
 ---
 
-Está [Nancy - Colección Edición Especial 50 Aniversario Swarovski  Famosa 700014368 ](https://www.amazon.com/dp/B07DD87SJH/?tag=redken08-20) por 42.5 EUR (original: 84.99 EUR) en el siguiente enlace!
+Está [Nancy - Colección Edición Especial 50 Aniversario Swarovski  Famosa 700014368 ](https://www.amazon.com/dp/B07DD87SJH/?tag=redken08-20) con 49.994116954935876 por 42.5 EUR (original: 84.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wrbr7GogL._SL200_.jpg)](https://www.amazon.com/dp/B07DD87SJH/?tag=redken08-20)
 

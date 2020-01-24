@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon ALPHACROSS  Zapatillas de Trail '
+title: 'Salomon ALPHACROSS  Zapatillas de Trail ' al 49.9722067815453 % de descuento
 date: 2019/10/28 10:48:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y-8u77owL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y-8u77owL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salomon ALPHACROSS  Zapatillas de Trail Running para Hombre  Verde  Grape Leaf/White/Gum1a   46 2/3 EU](https://www.amazon.com/dp/B07KQQTJ5W/?tag=redken08-20) a 45 EUR (original: 89.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Salomon ALPHACROSS  Zapatillas de Trail Running para Hombre  Verde  Grape Leaf/White/Gum1a   46 2/3 EU](https://www.amazon.com/dp/B07KQQTJ5W/?tag=redken08-20) a 45 EUR (original: 89.95 EUR) (49.9722067815453 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Y-8u77owL._SL200_.jpg)](https://www.amazon.com/dp/B07KQQTJ5W/?tag=redken08-20)
 

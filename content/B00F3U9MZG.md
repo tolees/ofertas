@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Capitán América: El Primer Vengador [Blu'
+title: Descuento del 29.958158995815896 % en 'Capitán América: El Primer Vengador [Blu'
 date: 2019/12/12 18:03:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tgUlKri9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tgUlKri9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.95 EUR
 inStock: true
 ---
 
-Tienes [Capitán América: El Primer Vengador [Blu-ray]](https://www.amazon.com/dp/B00F3U9MZG/?tag=redken08-20) a precio de oferta de 8.37 EUR (original: 11.95 EUR) en el siguiente enlace!
+Tienes [Capitán América: El Primer Vengador [Blu-ray]](https://www.amazon.com/dp/B00F3U9MZG/?tag=redken08-20) con un 29.958158995815896 % con precio de oferta de 8.37 EUR (original: 11.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tgUlKri9L._SL200_.jpg)](https://www.amazon.com/dp/B00F3U9MZG/?tag=redken08-20)
 

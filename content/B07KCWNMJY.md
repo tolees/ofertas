@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M DRI-FIT BLOCKED S/S PARTES DE A'
+title: 'Hurley M DRI-FIT BLOCKED S/S PARTES DE A' al 78.22857142857143 % de descuento
 date: 2019/11/04 16:26:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-hw4MCGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-hw4MCGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M DRI-FIT BLOCKED S/S PARTES DE ARRIBA  Hombre](https://www.amazon.com/dp/B07KCWNMJY/?tag=redken08-20) a 7.62 EUR (original: 35 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hurley M DRI-FIT BLOCKED S/S PARTES DE ARRIBA  Hombre](https://www.amazon.com/dp/B07KCWNMJY/?tag=redken08-20) a 7.62 EUR (original: 35 EUR) (78.22857142857143 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41S-hw4MCGL._SL200_.jpg)](https://www.amazon.com/dp/B07KCWNMJY/?tag=redken08-20)
 

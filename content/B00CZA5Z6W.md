@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jané - Termos Acero Inoxidable - 2 x500 '
+title: 'Jané - Termos Acero Inoxidable - 2 x500 ' al 29.111389236545683 % de descuento
 date: 2020-01-21 16:11:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31znngc1kWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31znngc1kWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jané - Termos Acero Inoxidable - 2 x500 ml](https://www.amazon.com/dp/B00CZA5Z6W/?tag=redken08-20) a 28.32 EUR (original: 39.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jané - Termos Acero Inoxidable - 2 x500 ml](https://www.amazon.com/dp/B00CZA5Z6W/?tag=redken08-20) a 28.32 EUR (original: 39.95 EUR) (29.111389236545683 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31znngc1kWL._SL200_.jpg)](https://www.amazon.com/dp/B00CZA5Z6W/?tag=redken08-20)
 

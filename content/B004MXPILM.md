@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Drinkwell Filtro  envase de 3 unidades'
+title: Descuento del 40.04004004004004 % en 'Drinkwell Filtro  envase de 3 unidades'
 date: 2019/12/15 18:27:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A1ZodK16L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A1ZodK16L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Tienes [Drinkwell Filtro  envase de 3 unidades](https://www.amazon.com/dp/B004MXPILM/?tag=redken08-20) a precio de oferta de 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Tienes [Drinkwell Filtro  envase de 3 unidades](https://www.amazon.com/dp/B004MXPILM/?tag=redken08-20) con un 40.04004004004004 % con precio de oferta de 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41A1ZodK16L._SL200_.jpg)](https://www.amazon.com/dp/B004MXPILM/?tag=redken08-20)
 

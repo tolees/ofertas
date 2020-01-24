@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans V76 Skinny  Vaqueros para hombre  N'
+title: 'Vans V76 Skinny  Vaqueros para hombre  N' al 64.3125 % de descuento
 date: 2019/11/14 23:43:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Mv-scePKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Mv-scePKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Está [Vans V76 Skinny  Vaqueros para hombre  Negro  Black   W28/L28](https://www.amazon.com/dp/B005XFVQ2S/?tag=redken08-20) por 28.55 EUR (original: 80 EUR) en el siguiente enlace!
+Está [Vans V76 Skinny  Vaqueros para hombre  Negro  Black   W28/L28](https://www.amazon.com/dp/B005XFVQ2S/?tag=redken08-20) con 64.3125 por 28.55 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Mv-scePKL._SL200_.jpg)](https://www.amazon.com/dp/B005XFVQ2S/?tag=redken08-20)
 

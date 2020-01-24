@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 597  Zapatillas de Running p'
+title: Descuento del 46.666666666666664 % en 'New Balance 597  Zapatillas de Running p'
 date: 2019/10/28 09:57:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yejItrmrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yejItrmrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Tienes [New Balance 597  Zapatillas de Running para Hombre  Negro  Black   44.5 EU](https://www.amazon.com/dp/B01MT2SAVR/?tag=redken08-20) a precio de oferta de 48 EUR (original: 90 EUR) en el siguiente enlace!
+Tienes [New Balance 597  Zapatillas de Running para Hombre  Negro  Black   44.5 EU](https://www.amazon.com/dp/B01MT2SAVR/?tag=redken08-20) con un 46.666666666666664 % con precio de oferta de 48 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yejItrmrL._SL200_.jpg)](https://www.amazon.com/dp/B01MT2SAVR/?tag=redken08-20)
 

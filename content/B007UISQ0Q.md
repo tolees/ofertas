@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb - Soflens 38 Esféricas - L'
+title: 'Bausch & Lomb - Soflens 38 Esféricas - L' al 77.73858921161826 % de descuento
 date: 2019/11/26 15:43:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415CfaqtslL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415CfaqtslL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 48.2 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bausch & Lomb - Soflens 38 Esféricas - Lentes de Contacto - Pack de 6](https://www.amazon.com/dp/B007UISQ0Q/?tag=redken08-20) a 10.73 EUR (original: 48.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bausch & Lomb - Soflens 38 Esféricas - Lentes de Contacto - Pack de 6](https://www.amazon.com/dp/B007UISQ0Q/?tag=redken08-20) a 10.73 EUR (original: 48.2 EUR) (77.73858921161826 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415CfaqtslL._SL200_.jpg)](https://www.amazon.com/dp/B007UISQ0Q/?tag=redken08-20)
 

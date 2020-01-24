@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BSN DNA Series Glutamine  Sin Sabor - 30'
+title: 'BSN DNA Series Glutamine  Sin Sabor - 30' al 54.75216007276035 % de descuento
 date: 2019/11/30 08:32:09 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B00WGOE21Q.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B00WGOE21Q.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BSN DNA Series Glutamine  Sin Sabor - 309 g](https://www.amazon.com/dp/B00WGOE21Q/?tag=redken08-20) a 9.95 EUR (original: 21.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BSN DNA Series Glutamine  Sin Sabor - 309 g](https://www.amazon.com/dp/B00WGOE21Q/?tag=redken08-20) a 9.95 EUR (original: 21.99 EUR) (54.75216007276035 %) en el siguiente enlace!
 
 [![](http://images.amazon.com/images/P/B00WGOE21Q.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.com/dp/B00WGOE21Q/?tag=redken08-20)
 

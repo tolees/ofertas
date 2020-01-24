@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ecco Crepetray Hybrid M  Botas Militar p'
+title: 'Ecco Crepetray Hybrid M  Botas Militar p' al 65.72631578947367 % de descuento
 date: 2020-01-24 10:33:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FmwDZYmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FmwDZYmpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 190 EUR
 inStock: true
 ---
 
-Está [Ecco Crepetray Hybrid M  Botas Militar para Hombre  Negro  Black 1001   47 EU](https://www.amazon.com/dp/B07D7QJ1NR/?tag=redken08-20) por 65.12 EUR (original: 190 EUR) en el siguiente enlace!
+Está [Ecco Crepetray Hybrid M  Botas Militar para Hombre  Negro  Black 1001   47 EU](https://www.amazon.com/dp/B07D7QJ1NR/?tag=redken08-20) con 65.72631578947367 por 65.12 EUR (original: 190 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31FmwDZYmpL._SL200_.jpg)](https://www.amazon.com/dp/B07D7QJ1NR/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jacques Lemans 1-1770K - Reloj analógico'
+title: 'Jacques Lemans 1-1770K - Reloj analógico' al 50.314465408805034 % de descuento
 date: 2020-01-15 15:43:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4158jvOFSDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4158jvOFSDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jacques Lemans 1-1770K - Reloj analógico Unisex de Cuero Multicolor](https://www.amazon.com/dp/B00CM1RRJW/?tag=redken08-20) a 79 EUR (original: 159 EUR) en el siguiente enlace!
+Ahora mismo tienes [Jacques Lemans 1-1770K - Reloj analógico Unisex de Cuero Multicolor](https://www.amazon.com/dp/B00CM1RRJW/?tag=redken08-20) a 79 EUR (original: 159 EUR) (50.314465408805034 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4158jvOFSDL._SL200_.jpg)](https://www.amazon.com/dp/B00CM1RRJW/?tag=redken08-20)
 

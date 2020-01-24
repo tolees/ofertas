@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21143 Minecraft The Nether Portal B'
+title: 'LEGO 21143 Minecraft The Nether Portal B' al 28.005601120224043 % de descuento
 date: 2019/12/13 21:28:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rQGQourqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rQGQourqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 21143 Minecraft The Nether Portal Building Kit  Steve Minifigure and Accessories  Build and Play Toy for Kids](https://www.amazon.com/dp/B075T1XHQD/?tag=redken08-20) a 35.99 GBP (original: 49.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO 21143 Minecraft The Nether Portal Building Kit  Steve Minifigure and Accessories  Build and Play Toy for Kids](https://www.amazon.com/dp/B075T1XHQD/?tag=redken08-20) a 35.99 GBP (original: 49.99 GBP) (28.005601120224043 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rQGQourqL._SL200_.jpg)](https://www.amazon.com/dp/B075T1XHQD/?tag=redken08-20)
 

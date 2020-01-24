@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Backpedal Outdry  Zapatillas de'
+title: 'Columbia Backpedal Outdry  Zapatillas de' al 64.006400640064 % de descuento
 date: 2019/11/13 21:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U3FmaPqBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U3FmaPqBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Negro  Shark  White 011   43 EU](https://www.amazon.com/dp/B07FGBRL6C/?tag=redken08-20) por 35.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [Columbia Backpedal Outdry  Zapatillas de Cross para Mujer  Negro  Shark  White 011   43 EU](https://www.amazon.com/dp/B07FGBRL6C/?tag=redken08-20) con 64.006400640064 por 35.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41U3FmaPqBL._SL200_.jpg)](https://www.amazon.com/dp/B07FGBRL6C/?tag=redken08-20)
 

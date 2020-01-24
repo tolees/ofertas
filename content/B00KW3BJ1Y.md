@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony RX100 III Advanced Compact Premium '
+title: 'Sony RX100 III Advanced Compact Premium ' al 50.125 % de descuento
 date: 2020-01-22 12:15:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N9s54kYNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N9s54kYNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 800 GBP
 inStock: true
 ---
 
-Está [Sony RX100 III Advanced Compact Premium Camera with 1.0-Type Sensor  24-70 mm F1.8-2.8 Zeiss Lens  DSC-RX100M3  - Black](https://www.amazon.com/dp/B00KW3BJ1Y/?tag=redken08-20) por 399 GBP (original: 800 GBP) en el siguiente enlace!
+Está [Sony RX100 III Advanced Compact Premium Camera with 1.0-Type Sensor  24-70 mm F1.8-2.8 Zeiss Lens  DSC-RX100M3  - Black](https://www.amazon.com/dp/B00KW3BJ1Y/?tag=redken08-20) con 50.125 por 399 GBP (original: 800 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41N9s54kYNL._SL200_.jpg)](https://www.amazon.com/dp/B00KW3BJ1Y/?tag=redken08-20)
 

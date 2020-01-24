@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Sherpa Jacket Chaqueta  Azul  Dark S'
+title: Descuento del 49.99615236629472 % en 'Lee Sherpa Jacket Chaqueta  Azul  Dark S'
 date: 2020-01-23 19:27:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.95 EUR
 inStock: true
 ---
 
-Tienes [Lee Sherpa Jacket Chaqueta  Azul  Dark Stone SS   Medium para Hombre](https://www.amazon.com/dp/B07MNRRBZN/?tag=redken08-20) a precio de oferta de 64.98 EUR (original: 129.95 EUR) en el siguiente enlace!
+Tienes [Lee Sherpa Jacket Chaqueta  Azul  Dark Stone SS   Medium para Hombre](https://www.amazon.com/dp/B07MNRRBZN/?tag=redken08-20) con un 49.99615236629472 % con precio de oferta de 64.98 EUR (original: 129.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZWi3GnSDL._SL200_.jpg)](https://www.amazon.com/dp/B07MNRRBZN/?tag=redken08-20)
 

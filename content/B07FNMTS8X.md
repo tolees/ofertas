@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 60210 City Polizei Fliegerstützpunk'
+title: 'Lego 60210 City Polizei Fliegerstützpunk' al 28.01706894252567 % de descuento
 date: 2019/12/22 19:08:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ki1aoEgAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ki1aoEgAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lego 60210 City Polizei Fliegerstützpunkt  bunt](https://www.amazon.com/dp/B07FNMTS8X/?tag=redken08-20) a 53.98 EUR (original: 74.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego 60210 City Polizei Fliegerstützpunkt  bunt](https://www.amazon.com/dp/B07FNMTS8X/?tag=redken08-20) a 53.98 EUR (original: 74.99 EUR) (28.01706894252567 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Ki1aoEgAL._SL200_.jpg)](https://www.amazon.com/dp/B07FNMTS8X/?tag=redken08-20)
 

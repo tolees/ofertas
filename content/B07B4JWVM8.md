@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Berlin Park Oxford  Zapatilla'
+title: 'Timberland Berlin Park Oxford  Zapatilla' al 50.0 % de descuento
 date: 2019/10/09 13:26:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XvRRsUImL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XvRRsUImL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Timberland Berlin Park Oxford  Zapatillas Bajas para Mujer  Gris  Silver Uv0   39 EU](https://www.amazon.com/dp/B07B4JWVM8/?tag=redken08-20) a 55 EUR (original: 110 EUR) en el siguiente enlace!
+Ahora mismo tienes [Timberland Berlin Park Oxford  Zapatillas Bajas para Mujer  Gris  Silver Uv0   39 EU](https://www.amazon.com/dp/B07B4JWVM8/?tag=redken08-20) a 55 EUR (original: 110 EUR) (50.0 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XvRRsUImL._SL200_.jpg)](https://www.amazon.com/dp/B07B4JWVM8/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geekworm Carcasa para disipador térmico '
+title: 'Geekworm Carcasa para disipador térmico ' al 30.011115227862163 % de descuento
 date: 2020-01-09 14:20:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uDAfLd2ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uDAfLd2ML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Está [Geekworm Carcasa para disipador térmico Raspberry Pi 4 Modelo B con Doble Ventilador  Caja de aleación de Aluminio Raspberry Pi 4B  con Ventilador-Negro ](https://www.amazon.com/dp/B07VD6NC8P/?tag=redken08-20) por 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!
+Está [Geekworm Carcasa para disipador térmico Raspberry Pi 4 Modelo B con Doble Ventilador  Caja de aleación de Aluminio Raspberry Pi 4B  con Ventilador-Negro ](https://www.amazon.com/dp/B07VD6NC8P/?tag=redken08-20) con 30.011115227862163 por 18.89 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uDAfLd2ML._SL200_.jpg)](https://www.amazon.com/dp/B07VD6NC8P/?tag=redken08-20)
 

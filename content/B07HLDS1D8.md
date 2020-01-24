@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials Fleece Zip-up Hoodie F'
+title: 'Amazon Essentials Fleece Zip-up Hoodie F' al 50.0 % de descuento
 date: 2019/10/28 18:29:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fCwoaiBEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fCwoaiBEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15 EUR
 inStock: true
 ---
 
-Está [Amazon Essentials Fleece Zip-up Hoodie Fashion  Púrpura  Purple Heart   Medium](https://www.amazon.com/dp/B07HLDS1D8/?tag=redken08-20) por 7.5 EUR (original: 15 EUR) en el siguiente enlace!
+Está [Amazon Essentials Fleece Zip-up Hoodie Fashion  Púrpura  Purple Heart   Medium](https://www.amazon.com/dp/B07HLDS1D8/?tag=redken08-20) con 50.0 por 7.5 EUR (original: 15 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fCwoaiBEL._SL200_.jpg)](https://www.amazon.com/dp/B07HLDS1D8/?tag=redken08-20)
 

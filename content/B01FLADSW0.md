@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lowcy skarbow'
+title: Descuento del 57.158176943699736 % en 'Lowcy skarbow'
 date: 2020-01-01 20:15:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61EUo4ESbdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61EUo4ESbdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.3 EUR
 inStock: true
 ---
 
-Tienes [Lowcy skarbow](https://www.amazon.com/dp/B01FLADSW0/?tag=redken08-20) a precio de oferta de 15.98 EUR (original: 37.3 EUR) en el siguiente enlace!
+Tienes [Lowcy skarbow](https://www.amazon.com/dp/B01FLADSW0/?tag=redken08-20) con un 57.158176943699736 % con precio de oferta de 15.98 EUR (original: 37.3 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61EUo4ESbdL._SL200_.jpg)](https://www.amazon.com/dp/B01FLADSW0/?tag=redken08-20)
 

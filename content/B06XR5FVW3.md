@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Universal Impact 800 - Taladro per'
+title: Descuento del 35.79783909277613 % en 'Bosch Universal Impact 800 - Taladro per'
 date: 2020-01-01 11:05:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ibFmZMI9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ibFmZMI9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 111.99 EUR
 inStock: true
 ---
 
-Tienes [Bosch Universal Impact 800 - Taladro percutor  800 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.com/dp/B06XR5FVW3/?tag=redken08-20) a precio de oferta de 71.9 EUR (original: 111.99 EUR) en el siguiente enlace!
+Tienes [Bosch Universal Impact 800 - Taladro percutor  800 W  empuñadura adicional  tope de profundidad  maletín ](https://www.amazon.com/dp/B06XR5FVW3/?tag=redken08-20) con un 35.79783909277613 % con precio de oferta de 71.9 EUR (original: 111.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ibFmZMI9L._SL200_.jpg)](https://www.amazon.com/dp/B06XR5FVW3/?tag=redken08-20)
 

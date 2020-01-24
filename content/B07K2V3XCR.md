@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Dri-Fit One&Only 2.0 Gorras  Ho'
+title: 'Hurley M Dri-Fit One&Only 2.0 Gorras  Ho' al 62.43333333333334 % de descuento
 date: 2019/11/08 15:00:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ByWC0MWiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ByWC0MWiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Hurley M Dri-Fit One&Only 2.0 Gorras  Hombre  Dark Blue htr  L/XL](https://www.amazon.com/dp/B07K2V3XCR/?tag=redken08-20) por 11.27 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Hurley M Dri-Fit One&Only 2.0 Gorras  Hombre  Dark Blue htr  L/XL](https://www.amazon.com/dp/B07K2V3XCR/?tag=redken08-20) con 62.43333333333334 por 11.27 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31ByWC0MWiL._SL200_.jpg)](https://www.amazon.com/dp/B07K2V3XCR/?tag=redken08-20)
 

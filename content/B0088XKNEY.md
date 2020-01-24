@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dr. Martens 1461 Smooth  Derby para Homb'
+title: 'Dr. Martens 1461 Smooth  Derby para Homb' al 49.69465648854962 % de descuento
 date: 2019/12/11 15:33:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sz4cMH%2BxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sz4cMH%2BxL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 131 EUR
 inStock: true
 ---
 
-Tienes [Dr. Martens 1461 Smooth  Derby para Hombre  Rojo  37 EU](https://www.amazon.com/dp/B0088XKNEY/?tag=redken08-20) a precio de oferta de 65.9 EUR (original: 131 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dr. Martens 1461 Smooth  Derby para Hombre  Rojo  37 EU](https://www.amazon.com/dp/B0088XKNEY/?tag=redken08-20) a 65.9 EUR (original: 131 EUR) (49.69465648854962 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Sz4cMH%2BxL._SL200_.jpg)](https://www.amazon.com/dp/B0088XKNEY/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B0088XKNEY/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B0088XKNEY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Esprit Kids Sweatshirt Card Sudadera Mor'
+title: Descuento del 70.71767941985496 % en 'Esprit Kids Sweatshirt Card Sudadera Mor'
 date: 2020-01-15 11:24:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vs5AVlyYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vs5AVlyYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [Esprit Kids Sweatshirt Card Sudadera Morado  Plum 871   Talla del Fabricante: 92+ para Niñas](https://www.amazon.com/dp/B07K7NYV3R/?tag=redken08-20) a precio de oferta de 11.71 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Esprit Kids Sweatshirt Card Sudadera Morado  Plum 871   Talla del Fabricante: 92+ para Niñas](https://www.amazon.com/dp/B07K7NYV3R/?tag=redken08-20) con un 70.71767941985496 % con precio de oferta de 11.71 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vs5AVlyYL._SL200_.jpg)](https://www.amazon.com/dp/B07K7NYV3R/?tag=redken08-20)
 

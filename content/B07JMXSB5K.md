@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Bradstreet Leather Sensorflex'
+title: 'Timberland Bradstreet Leather Sensorflex' al 50.035714285714285 % de descuento
 date: 2019/10/09 17:09:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w%2BMeysbSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w%2BMeysbSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Está [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Verde  Olive   43 EU](https://www.amazon.com/dp/B07JMXSB5K/?tag=redken08-20) por 69.95 EUR (original: 140 EUR) en el siguiente enlace!
+Está [Timberland Bradstreet Leather Sensorflex  Botas Chukka para Hombre  Verde  Olive   43 EU](https://www.amazon.com/dp/B07JMXSB5K/?tag=redken08-20) con 50.035714285714285 por 69.95 EUR (original: 140 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31w%2BMeysbSL._SL200_.jpg)](https://www.amazon.com/dp/B07JMXSB5K/?tag=redken08-20)
 

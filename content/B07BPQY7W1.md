@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jura Journey Single Malt Whisky  70 cl'
+title: 'Jura Journey Single Malt Whisky  70 cl' al 37.142857142857146 % de descuento
 date: 2019/12/17 23:09:39 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 35 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Jura Journey Single Malt Whisky  70 cl](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20) a 22 GBP (original: 35 GBP) en el siguiente enlace!
+Ahora mismo tienes [Jura Journey Single Malt Whisky  70 cl](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20) a 22 GBP (original: 35 GBP) (37.142857142857146 %) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B07BPQY7W1/?tag=redken08-20)
 

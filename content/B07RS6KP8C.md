@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maxi-Cosi Kore i-Size Child Car Seat  3.'
+title: 'Maxi-Cosi Kore i-Size Child Car Seat  3.' al 30.000000000000004 % de descuento
 date: 2019/12/02 07:36:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gry-C9SiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gry-C9SiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169 GBP
 inStock: true
 ---
 
-Está [Maxi-Cosi Kore i-Size Child Car Seat  3.5 - 12 years  100 - 150 cm  Authentic Graphite](https://www.amazon.com/dp/B07RS6KP8C/?tag=redken08-20) por 118.3 GBP (original: 169 GBP) en el siguiente enlace!
+Está [Maxi-Cosi Kore i-Size Child Car Seat  3.5 - 12 years  100 - 150 cm  Authentic Graphite](https://www.amazon.com/dp/B07RS6KP8C/?tag=redken08-20) con 30.000000000000004 por 118.3 GBP (original: 169 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gry-C9SiL._SL200_.jpg)](https://www.amazon.com/dp/B07RS6KP8C/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia 1589325 FLASHBACK  Cortavientos'
+title: Descuento del 46.08921784356872 % en 'Columbia 1589325 FLASHBACK  Cortavientos'
 date: 2019/10/11 11:19:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UIdlRs9SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UIdlRs9SL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Tienes [Columbia 1589325 FLASHBACK  Cortavientos impermeable  Hombre   Poliéster   Negro  Shark/Rosewater    Talla S](https://www.amazon.com/dp/B07KSNPZ32/?tag=redken08-20) a precio de oferta de 26.95 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Columbia 1589325 FLASHBACK  Cortavientos impermeable  Hombre   Poliéster   Negro  Shark/Rosewater    Talla S](https://www.amazon.com/dp/B07KSNPZ32/?tag=redken08-20) con un 46.08921784356872 % con precio de oferta de 26.95 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UIdlRs9SL._SL200_.jpg)](https://www.amazon.com/dp/B07KSNPZ32/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Gazelle  Zapatillas para Hombre  '
+title: 'adidas Gazelle  Zapatillas para Hombre  ' al 49.99473407056346 % de descuento
 date: 2020-01-17 19:31:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nbHtGUNmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nbHtGUNmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 94.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Gazelle  Zapatillas para Hombre  Azul  Real Blue/Footwear White/Footwear White 0   40 EU](https://www.amazon.com/dp/B07SNRJ7R4/?tag=redken08-20) a 47.48 EUR (original: 94.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Gazelle  Zapatillas para Hombre  Azul  Real Blue/Footwear White/Footwear White 0   40 EU](https://www.amazon.com/dp/B07SNRJ7R4/?tag=redken08-20) a 47.48 EUR (original: 94.95 EUR) (49.99473407056346 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nbHtGUNmL._SL200_.jpg)](https://www.amazon.com/dp/B07SNRJ7R4/?tag=redken08-20)
 

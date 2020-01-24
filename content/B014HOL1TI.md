@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jumbo Spiele 12163 12163-Rubik s Cube-3x'
+title: 'Jumbo Spiele 12163 12163-Rubik s Cube-3x' al 56.086714841578655 % de descuento
 date: 2020-01-01 22:49:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VtOX1o8NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VtOX1o8NL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [Jumbo Spiele 12163 12163-Rubik s Cube-3x3](https://www.amazon.com/dp/B014HOL1TI/?tag=redken08-20) por 7.9 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [Jumbo Spiele 12163 12163-Rubik s Cube-3x3](https://www.amazon.com/dp/B014HOL1TI/?tag=redken08-20) con 56.086714841578655 por 7.9 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41VtOX1o8NL._SL200_.jpg)](https://www.amazon.com/dp/B014HOL1TI/?tag=redken08-20)
 

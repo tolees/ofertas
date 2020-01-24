@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister Bon Air - Spinner Med'
+title: 'American Tourister Bon Air - Spinner Med' al 32.61538461538463 % de descuento
 date: 2019/12/18 11:13:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Bjhy8WJqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Bjhy8WJqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 130 EUR
 inStock: true
 ---
 
-Está [American Tourister Bon Air - Spinner Medium Equipaje de Mano  66 cm  57.5 Liters  Azul  Blue Topaz ](https://www.amazon.com/dp/B07PB5MB4L/?tag=redken08-20) por 87.6 EUR (original: 130 EUR) en el siguiente enlace!
+Está [American Tourister Bon Air - Spinner Medium Equipaje de Mano  66 cm  57.5 Liters  Azul  Blue Topaz ](https://www.amazon.com/dp/B07PB5MB4L/?tag=redken08-20) con 32.61538461538463 por 87.6 EUR (original: 130 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Bjhy8WJqL._SL200_.jpg)](https://www.amazon.com/dp/B07PB5MB4L/?tag=redken08-20)
 

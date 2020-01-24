@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Bondi  Zapatillas de Running p'
+title: 'Asics Gel-Bondi  Zapatillas de Running p' al 50.058823529411754 % de descuento
 date: 2019/10/22 11:17:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yhso8GrfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yhso8GrfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [Asics Gel-Bondi  Zapatillas de Running para Hombre  Negro  Black/White 001   42 EU](https://www.amazon.com/dp/B07S1PHRG1/?tag=redken08-20) por 42.45 EUR (original: 85 EUR) en el siguiente enlace!
+Está [Asics Gel-Bondi  Zapatillas de Running para Hombre  Negro  Black/White 001   42 EU](https://www.amazon.com/dp/B07S1PHRG1/?tag=redken08-20) con 50.058823529411754 por 42.45 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Yhso8GrfL._SL200_.jpg)](https://www.amazon.com/dp/B07S1PHRG1/?tag=redken08-20)
 

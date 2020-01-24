@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Teléfono fijo DECT  blanc'
+title: Descuento del 25.008336112037345 % en 'AmazonBasics - Teléfono fijo DECT  blanc'
 date: 2019/11/15 09:05:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WphW7LbxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WphW7LbxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [AmazonBasics - Teléfono fijo DECT  blanco](https://www.amazon.com/dp/B07PKX5B8M/?tag=redken08-20) a precio de oferta de 22.49 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [AmazonBasics - Teléfono fijo DECT  blanco](https://www.amazon.com/dp/B07PKX5B8M/?tag=redken08-20) con un 25.008336112037345 % con precio de oferta de 22.49 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31WphW7LbxL._SL200_.jpg)](https://www.amazon.com/dp/B07PKX5B8M/?tag=redken08-20)
 

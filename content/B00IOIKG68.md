@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooler CPU Pure Wing 2 92mm BL045'
+title: 'Cooler CPU Pure Wing 2 92mm BL045' al 37.5735294117647 % de descuento
 date: 2020-01-17 21:02:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.6 EUR
 inStock: true
 ---
 
-Está [Cooler CPU Pure Wing 2 92mm BL045](https://www.amazon.com/dp/B00IOIKG68/?tag=redken08-20) por 8.49 EUR (original: 13.6 EUR) en el siguiente enlace!
+Está [Cooler CPU Pure Wing 2 92mm BL045](https://www.amazon.com/dp/B00IOIKG68/?tag=redken08-20) con 37.5735294117647 por 8.49 EUR (original: 13.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41S50iUAIVL._SL200_.jpg)](https://www.amazon.com/dp/B00IOIKG68/?tag=redken08-20)
 

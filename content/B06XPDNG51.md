@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Trucker Denim Chaqueta  Azul  Mid '
+title: 'find. Trucker Denim Chaqueta  Azul  Mid ' al 68.0 % de descuento
 date: 2019/12/20 13:21:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZUNM9cDUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZUNM9cDUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.5 EUR
 inStock: true
 ---
 
-Está [find. Trucker Denim Chaqueta  Azul  Mid Wash   52  Talla del Fabricante: Large ](https://www.amazon.com/dp/B06XPDNG51/?tag=redken08-20) por 12 EUR (original: 37.5 EUR) en el siguiente enlace!
+Está [find. Trucker Denim Chaqueta  Azul  Mid Wash   52  Talla del Fabricante: Large ](https://www.amazon.com/dp/B06XPDNG51/?tag=redken08-20) con 68.0 por 12 EUR (original: 37.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ZUNM9cDUL._SL200_.jpg)](https://www.amazon.com/dp/B06XPDNG51/?tag=redken08-20)
 

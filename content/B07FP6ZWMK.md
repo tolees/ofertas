@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO NINJAGO 70660 - Spinjitzu Jay'
+title: 'LEGO NINJAGO 70660 - Spinjitzu Jay' al 31.931931931931935 % de descuento
 date: 2019/11/07 02:52:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E11xURbUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E11xURbUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO NINJAGO 70660 - Spinjitzu Jay](https://www.amazon.com/dp/B07FP6ZWMK/?tag=redken08-20) a 6.8 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO NINJAGO 70660 - Spinjitzu Jay](https://www.amazon.com/dp/B07FP6ZWMK/?tag=redken08-20) a 6.8 EUR (original: 9.99 EUR) (31.931931931931935 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51E11xURbUL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6ZWMK/?tag=redken08-20)
 

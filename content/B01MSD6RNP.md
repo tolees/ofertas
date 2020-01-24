@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-XB550AP - Auriculares  Alámbric'
+title: 'Sony MDR-XB550AP - Auriculares  Alámbric' al 31.88755902053365 % de descuento
 date: 2019/12/14 13:19:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TzoM9sX3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TzoM9sX3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 91.07 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony MDR-XB550AP - Auriculares  Alámbrico  Diadema  Binaural  Supraaural  5-22000 Hz  Negro ](https://www.amazon.com/dp/B01MSD6RNP/?tag=redken08-20) a 62.03 EUR (original: 91.07 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony MDR-XB550AP - Auriculares  Alámbrico  Diadema  Binaural  Supraaural  5-22000 Hz  Negro ](https://www.amazon.com/dp/B01MSD6RNP/?tag=redken08-20) a 62.03 EUR (original: 91.07 EUR) (31.88755902053365 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TzoM9sX3L._SL200_.jpg)](https://www.amazon.com/dp/B01MSD6RNP/?tag=redken08-20)
 

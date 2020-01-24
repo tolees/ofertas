@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Blusa Floral con Volante Mujer  Ve'
+title: 'find. Blusa Floral con Volante Mujer  Ve' al 64.68571428571428 % de descuento
 date: 2019/11/10 22:08:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v8ta2U1IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v8ta2U1IL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [find. Blusa Floral con Volante Mujer  Verde  Green   40  Talla del fabricante: Medium ](https://www.amazon.com/dp/B077HFCRG9/?tag=redken08-20) por 12.36 EUR (original: 35 EUR) en el siguiente enlace!
+Está [find. Blusa Floral con Volante Mujer  Verde  Green   40  Talla del fabricante: Medium ](https://www.amazon.com/dp/B077HFCRG9/?tag=redken08-20) con 64.68571428571428 por 12.36 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51v8ta2U1IL._SL200_.jpg)](https://www.amazon.com/dp/B077HFCRG9/?tag=redken08-20)
 

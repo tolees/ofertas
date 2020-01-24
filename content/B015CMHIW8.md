@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel London Match Perfection Foundatio'
+title: 'Rimmel London Match Perfection Foundatio' al 32.15384615384615 % de descuento
 date: 2019/12/23 17:16:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gZXO4FahL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gZXO4FahL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.5 EUR
 inStock: true
 ---
 
-Está [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 303 True Nude - 123 gr](https://www.amazon.com/dp/B015CMHIW8/?tag=redken08-20) por 4.41 EUR (original: 6.5 EUR) en el siguiente enlace!
+Está [Rimmel London Match Perfection Foundation Base de Maquillaje Tono 303 True Nude - 123 gr](https://www.amazon.com/dp/B015CMHIW8/?tag=redken08-20) con 32.15384615384615 por 4.41 EUR (original: 6.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31gZXO4FahL._SL200_.jpg)](https://www.amazon.com/dp/B015CMHIW8/?tag=redken08-20)
 

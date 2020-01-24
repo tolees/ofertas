@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CESTA DE MIMBRE CON TAPAS Y ASA GRUESA'
+title: 'CESTA DE MIMBRE CON TAPAS Y ASA GRUESA' al 40.0 % de descuento
 date: 2019/12/29 18:50:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iDgCWcacL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iDgCWcacL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [CESTA DE MIMBRE CON TAPAS Y ASA GRUESA](https://www.amazon.com/dp/B07VTZS33S/?tag=redken08-20) por 18 EUR (original: 30 EUR) en el siguiente enlace!
+Está [CESTA DE MIMBRE CON TAPAS Y ASA GRUESA](https://www.amazon.com/dp/B07VTZS33S/?tag=redken08-20) con 40.0 por 18 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iDgCWcacL._SL200_.jpg)](https://www.amazon.com/dp/B07VTZS33S/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Fabbiana Auth JKT Chaqueta  Mujer '
+title: 'Kappa Fabbiana Auth JKT Chaqueta  Mujer ' al 64.1 % de descuento
 date: 2019/11/13 12:03:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TzxZ9jj9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TzxZ9jj9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Fabbiana Auth JKT Chaqueta  Mujer  Azul Marino  L](https://www.amazon.com/dp/B01NARYC1C/?tag=redken08-20) a 17.95 EUR (original: 50 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kappa Fabbiana Auth JKT Chaqueta  Mujer  Azul Marino  L](https://www.amazon.com/dp/B01NARYC1C/?tag=redken08-20) a 17.95 EUR (original: 50 EUR) (64.1 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TzxZ9jj9L._SL200_.jpg)](https://www.amazon.com/dp/B01NARYC1C/?tag=redken08-20)
 

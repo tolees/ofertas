@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75148 - Encounter on Jakk'
+title: 'LEGO Star Wars 75148 - Encounter on Jakk' al 31.861694527789687 % de descuento
 date: 2020-01-08 23:01:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Zbvk4x0jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Zbvk4x0jL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [LEGO Star Wars 75148 - Encounter on Jakku](https://www.amazon.com/dp/B01AC1DRGK/?tag=redken08-20) por 47.69 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [LEGO Star Wars 75148 - Encounter on Jakku](https://www.amazon.com/dp/B01AC1DRGK/?tag=redken08-20) con 31.861694527789687 por 47.69 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Zbvk4x0jL._SL200_.jpg)](https://www.amazon.com/dp/B01AC1DRGK/?tag=redken08-20)
 

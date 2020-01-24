@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Entrada 18 JSY Jersey  Niños  Neg'
+title: 'adidas Entrada 18 JSY Jersey  Niños  Neg' al 38.77437325905292 % de descuento
 date: 2020-01-06 18:42:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Entrada 18 JSY Jersey  Niños  Negro  Black/White   140  9/10 años ](https://www.amazon.com/dp/B0779CBPSG/?tag=redken08-20) a 10.99 EUR (original: 17.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [adidas Entrada 18 JSY Jersey  Niños  Negro  Black/White   140  9/10 años ](https://www.amazon.com/dp/B0779CBPSG/?tag=redken08-20) a 10.99 EUR (original: 17.95 EUR) (38.77437325905292 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GyOLHfZlL._SL200_.jpg)](https://www.amazon.com/dp/B0779CBPSG/?tag=redken08-20)
 

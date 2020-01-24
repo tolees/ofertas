@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373 Zapatillas Hombre  Marró'
+title: 'New Balance 373 Zapatillas Hombre  Marró' al 50.0 % de descuento
 date: 2020-01-01 12:13:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [New Balance 373 Zapatillas Hombre  Marrón  Brown   44.5 EU](https://www.amazon.com/dp/B07KRM8SWL/?tag=redken08-20) por 42.5 EUR (original: 85 EUR) en el siguiente enlace!
+Está [New Balance 373 Zapatillas Hombre  Marrón  Brown   44.5 EU](https://www.amazon.com/dp/B07KRM8SWL/?tag=redken08-20) con 50.0 por 42.5 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg)](https://www.amazon.com/dp/B07KRM8SWL/?tag=redken08-20)
 
