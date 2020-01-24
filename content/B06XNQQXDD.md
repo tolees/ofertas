@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Axiom Verge: Multiverse Edition al 46.68222740913638 % de descuento'
+title: 'Axiom Verge: Multiverse Edition al 46.68 % de descuento'
 date: 2019/11/22 10:32:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xdTf27--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xdTf27--L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Axiom Verge: Multiverse Edition](https://www.amazon.com/dp/B06XNQQXDD/?tag=redken08-20) a 15.99 EUR (original: 29.99 EUR) (46.68222740913638 %) en el siguiente enlace!
+Ahora mismo tienes [Axiom Verge: Multiverse Edition](https://www.amazon.com/dp/B06XNQQXDD/?tag=redken08-20) a 15.99 EUR (original: 29.99 EUR) (46.68 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xdTf27--L._SL200_.jpg)](https://www.amazon.com/dp/B06XNQQXDD/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.003000300030003 % en Campark X20 - Cámara de acción 4K de 20 '
+title: 'Descuento del 30.00 % en Campark X20 - Cámara de acción 4K de 20 '
 date: 2019/12/26 08:23:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514pd5iHB0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514pd5iHB0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Tienes [Campark X20 - Cámara de acción 4K de 20 MP con Pantalla táctil EIS con ángulo de visión Ajustable de 30 m  Impermeable  con Control Remoto  baterías Dobles de 1050 mAh y Kit de Accesorios  Azul ](https://www.amazon.com/dp/B07LC7QHLS/?tag=redken08-20) con un 30.003000300030003 % con precio de oferta de 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [Campark X20 - Cámara de acción 4K de 20 MP con Pantalla táctil EIS con ángulo de visión Ajustable de 30 m  Impermeable  con Control Remoto  baterías Dobles de 1050 mAh y Kit de Accesorios  Azul ](https://www.amazon.com/dp/B07LC7QHLS/?tag=redken08-20) con un 30.00 % de descuento con precio de oferta de 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514pd5iHB0L._SL200_.jpg)](https://www.amazon.com/dp/B07LC7QHLS/?tag=redken08-20)
 

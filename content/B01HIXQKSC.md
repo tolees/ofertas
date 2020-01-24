@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Mochila para cámara  para al 38.52086217124777 % de descuento'
+title: 'AmazonBasics - Mochila para cámara  para al 38.52 % de descuento'
 date: 2019/12/07 15:12:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tIeQ2THIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tIeQ2THIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50.57 EUR
 inStock: true
 ---
 
-Está [AmazonBasics - Mochila para cámara  para excursionistas - Azul](https://www.amazon.com/dp/B01HIXQKSC/?tag=redken08-20) con 38.52086217124777 por 31.09 EUR (original: 50.57 EUR) en el siguiente enlace!
+Está [AmazonBasics - Mochila para cámara  para excursionistas - Azul](https://www.amazon.com/dp/B01HIXQKSC/?tag=redken08-20) con 38.52 de descuento por 31.09 EUR (original: 50.57 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tIeQ2THIL._SL200_.jpg)](https://www.amazon.com/dp/B01HIXQKSC/?tag=redken08-20)
 

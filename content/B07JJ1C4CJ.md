@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange Double-Breasted Blazer C al 35.97747193907905 % de descuento'
+title: 'Armani Exchange Double-Breasted Blazer C al 35.98 % de descuento'
 date: 2019/10/16 06:11:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I2qufAtML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I2qufAtML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 252.13 EUR
 inStock: true
 ---
 
-Está [Armani Exchange Double-Breasted Blazer Chaqueta  Azul  Blue Moon 1567   42  Talla del Fabricante: 4  para Mujer](https://www.amazon.com/dp/B07JJ1C4CJ/?tag=redken08-20) con 35.97747193907905 por 161.42 EUR (original: 252.13 EUR) en el siguiente enlace!
+Está [Armani Exchange Double-Breasted Blazer Chaqueta  Azul  Blue Moon 1567   42  Talla del Fabricante: 4  para Mujer](https://www.amazon.com/dp/B07JJ1C4CJ/?tag=redken08-20) con 35.98 de descuento por 161.42 EUR (original: 252.13 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31I2qufAtML._SL200_.jpg)](https://www.amazon.com/dp/B07JJ1C4CJ/?tag=redken08-20)
 

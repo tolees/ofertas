@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casals C01235000 Atornillador a batería  al 48.222565687789796 % de descuento'
+title: 'Casals C01235000 Atornillador a batería  al 48.22 % de descuento'
 date: 2019/12/24 18:42:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413rSNVoL4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413rSNVoL4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.88 EUR
 inStock: true
 ---
 
-Está [Casals C01235000 Atornillador a batería de litio  3.6 W  3.6 V](https://www.amazon.com/dp/B00H3LYDSO/?tag=redken08-20) con 48.222565687789796 por 13.4 EUR (original: 25.88 EUR) en el siguiente enlace!
+Está [Casals C01235000 Atornillador a batería de litio  3.6 W  3.6 V](https://www.amazon.com/dp/B00H3LYDSO/?tag=redken08-20) con 48.22 de descuento por 13.4 EUR (original: 25.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413rSNVoL4L._SL200_.jpg)](https://www.amazon.com/dp/B00H3LYDSO/?tag=redken08-20)
 

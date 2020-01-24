@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.86843421710855 % en Case Logic LAPS111B - Funda para chromeb'
+title: 'Descuento del 36.87 % en Case Logic LAPS111B - Funda para chromeb'
 date: 2019/10/22 18:24:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51abtMCZX4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51abtMCZX4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Tienes [Case Logic LAPS111B - Funda para chromebooks y ultrabooks de 10-11.6"  Color Azul eléctrico](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20) con un 36.86843421710855 % con precio de oferta de 12.62 EUR (original: 19.99 EUR) en el siguiente enlace!
+Tienes [Case Logic LAPS111B - Funda para chromebooks y ultrabooks de 10-11.6"  Color Azul eléctrico](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20) con un 36.87 % de descuento con precio de oferta de 12.62 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51abtMCZX4L._SL200_.jpg)](https://www.amazon.com/dp/B00XYYG0EY/?tag=redken08-20)
 

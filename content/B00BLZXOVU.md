@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell Zug Kapp Gehrungssäge TC-SM 2131 al 42.98678099321185 % de descuento'
+title: 'Einhell Zug Kapp Gehrungssäge TC-SM 2131 al 42.99 % de descuento'
 date: 2019/12/16 12:29:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139.95 EUR
 inStock: true
 ---
 
-Está [Einhell Zug Kapp Gehrungssäge TC-SM 2131 Dual  1800 W  Sägeblatt Ø 210 mm  Schnittbreite 310 mm  schwenkbarer Sägekopf  Laser ](https://www.amazon.com/dp/B00BLZXOVU/?tag=redken08-20) con 42.98678099321185 por 79.79 EUR (original: 139.95 EUR) en el siguiente enlace!
+Está [Einhell Zug Kapp Gehrungssäge TC-SM 2131 Dual  1800 W  Sägeblatt Ø 210 mm  Schnittbreite 310 mm  schwenkbarer Sägekopf  Laser ](https://www.amazon.com/dp/B00BLZXOVU/?tag=redken08-20) con 42.99 de descuento por 79.79 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg)](https://www.amazon.com/dp/B00BLZXOVU/?tag=redken08-20)
 

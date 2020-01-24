@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Medela Swing Flex 2-Phase - Extractor de al 37.48792270531401 % de descuento'
+title: 'Medela Swing Flex 2-Phase - Extractor de al 37.49 % de descuento'
 date: 2020-01-05 09:18:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PUw7i1o0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PUw7i1o0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 175.95 EUR
 inStock: true
 ---
 
-Está [Medela Swing Flex 2-Phase - Extractor de leche eléctrico](https://www.amazon.com/dp/B07PMDK1WM/?tag=redken08-20) con 37.48792270531401 por 109.99 EUR (original: 175.95 EUR) en el siguiente enlace!
+Está [Medela Swing Flex 2-Phase - Extractor de leche eléctrico](https://www.amazon.com/dp/B07PMDK1WM/?tag=redken08-20) con 37.49 de descuento por 109.99 EUR (original: 175.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PUw7i1o0L._SL200_.jpg)](https://www.amazon.com/dp/B07PMDK1WM/?tag=redken08-20)
 

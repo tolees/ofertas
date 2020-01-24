@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exzact Báscula Corporal Electrónica/Básc al 51.87106335679881 % de descuento'
+title: 'Exzact Báscula Corporal Electrónica/Básc al 51.87 % de descuento'
 date: 2019/10/05 13:24:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bS02p-8oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bS02p-8oL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.99 EUR
 inStock: true
 ---
 
-Está [Exzact Báscula Corporal Electrónica/Báscula de Baño Digital/Escala Personal - 180kg - Exhibición del LCD de la contraluz  Dorado ](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20) con 51.87106335679881 por 12.99 EUR (original: 26.99 EUR) en el siguiente enlace!
+Está [Exzact Báscula Corporal Electrónica/Báscula de Baño Digital/Escala Personal - 180kg - Exhibición del LCD de la contraluz  Dorado ](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20) con 51.87 de descuento por 12.99 EUR (original: 26.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bS02p-8oL._SL200_.jpg)](https://www.amazon.com/dp/B01MSJHHMP/?tag=redken08-20)
 

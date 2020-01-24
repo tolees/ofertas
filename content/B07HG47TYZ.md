@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373  Zapatillas para Mujer   al 61.575 % de descuento'
+title: 'New Balance 373  Zapatillas para Mujer   al 61.58 % de descuento'
 date: 2019/11/30 20:59:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YQySEYE9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YQySEYE9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 373  Zapatillas para Mujer  Negro  Black/White Black/White   35 EU](https://www.amazon.com/dp/B07HG47TYZ/?tag=redken08-20) a 30.74 EUR (original: 80 EUR) (61.575 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance 373  Zapatillas para Mujer  Negro  Black/White Black/White   35 EU](https://www.amazon.com/dp/B07HG47TYZ/?tag=redken08-20) a 30.74 EUR (original: 80 EUR) (61.58 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YQySEYE9L._SL200_.jpg)](https://www.amazon.com/dp/B07HG47TYZ/?tag=redken08-20)
 

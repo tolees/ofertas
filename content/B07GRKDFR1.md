@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Division 2: Dark Zone - Collector s  al 54.204517043086916 % de descuento'
+title: 'The Division 2: Dark Zone - Collector s  al 54.20 % de descuento'
 date: 2020-01-21 21:36:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51te4eVbn5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51te4eVbn5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The Division 2: Dark Zone - Collector s Edition](https://www.amazon.com/dp/B07GRKDFR1/?tag=redken08-20) a 54.95 EUR (original: 119.99 EUR) (54.204517043086916 %) en el siguiente enlace!
+Ahora mismo tienes [The Division 2: Dark Zone - Collector s Edition](https://www.amazon.com/dp/B07GRKDFR1/?tag=redken08-20) a 54.95 EUR (original: 119.99 EUR) (54.20 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51te4eVbn5L._SL200_.jpg)](https://www.amazon.com/dp/B07GRKDFR1/?tag=redken08-20)
 

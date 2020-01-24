@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mont Blanc Legend Spirit eau de toilette al 28.22285481903213 % de descuento'
+title: 'Mont Blanc Legend Spirit eau de toilette al 28.22 % de descuento'
 date: 2019/10/27 20:07:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n6Ed1KPIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n6Ed1KPIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.18 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mont Blanc Legend Spirit eau de toilette Hombres 100 ml - Eau de toilette  Hombres  100 ml  Bergamota  Toronja  Pimienta rosa  Cardamomo  Lavanda  Musk o almizcle  Musgo de roble  Aerosol ](https://www.amazon.com/dp/B01AV68KNG/?tag=redken08-20) a 35.3 EUR (original: 49.18 EUR) (28.22285481903213 %) en el siguiente enlace!
+Ahora mismo tienes [Mont Blanc Legend Spirit eau de toilette Hombres 100 ml - Eau de toilette  Hombres  100 ml  Bergamota  Toronja  Pimienta rosa  Cardamomo  Lavanda  Musk o almizcle  Musgo de roble  Aerosol ](https://www.amazon.com/dp/B01AV68KNG/?tag=redken08-20) a 35.3 EUR (original: 49.18 EUR) (28.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41n6Ed1KPIL._SL200_.jpg)](https://www.amazon.com/dp/B01AV68KNG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Destornillador Eléctrico  TECCPO 4Nm Ato al 36.03400850212554 % de descuento'
+title: 'Destornillador Eléctrico  TECCPO 4Nm Ato al 36.03 % de descuento'
 date: 2020-01-08 10:22:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wKWOZ4tVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wKWOZ4tVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Destornillador Eléctrico  TECCPO 4Nm Atornillador Inalámbrico  2000mAh Batería de Litio  11 Accesorios  Incluye Broca de taladro y Varilla de extensión  Cable USB  Luz LED - TDSC02P](https://www.amazon.com/dp/B07FVLSDD6/?tag=redken08-20) con 36.03400850212554 por 25.58 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Destornillador Eléctrico  TECCPO 4Nm Atornillador Inalámbrico  2000mAh Batería de Litio  11 Accesorios  Incluye Broca de taladro y Varilla de extensión  Cable USB  Luz LED - TDSC02P](https://www.amazon.com/dp/B07FVLSDD6/?tag=redken08-20) con 36.03 de descuento por 25.58 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wKWOZ4tVL._SL200_.jpg)](https://www.amazon.com/dp/B07FVLSDD6/?tag=redken08-20)
 

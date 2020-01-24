@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooko Molinillo de café manual  Mini Mol al 61.984196663740136 % de descuento'
+title: 'Cooko Molinillo de café manual  Mini Mol al 61.98 % de descuento'
 date: 2019/10/31 16:31:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eWqc9KCsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eWqc9KCsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.17 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cooko Molinillo de café manual  Mini Molino de Café Profesional Molinillo de Manivela con Rebabas de Cerámica para Café Espresso](https://www.amazon.com/dp/B01HZCORY0/?tag=redken08-20) a 12.99 EUR (original: 34.17 EUR) (61.984196663740136 %) en el siguiente enlace!
+Ahora mismo tienes [Cooko Molinillo de café manual  Mini Molino de Café Profesional Molinillo de Manivela con Rebabas de Cerámica para Café Espresso](https://www.amazon.com/dp/B01HZCORY0/?tag=redken08-20) a 12.99 EUR (original: 34.17 EUR) (61.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51eWqc9KCsL._SL200_.jpg)](https://www.amazon.com/dp/B01HZCORY0/?tag=redken08-20)
 

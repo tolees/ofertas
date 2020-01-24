@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Svater Bombillas LED E27 A60 Casquillo G al 53.210702341137115 % de descuento'
+title: 'Svater Bombillas LED E27 A60 Casquillo G al 53.21 % de descuento'
 date: 2019/12/06 11:16:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sDm%2BnaToL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sDm%2BnaToL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Está [Svater Bombillas LED E27 A60 Casquillo Globo Edison Bombilla de ópalo Blanco Frío 6000K 850 Lúmenes Filamentos 8W Equivalente a 80W 360 Grados No Regulable Pack de 6](https://www.amazon.com/dp/B07F11XRMF/?tag=redken08-20) con 53.210702341137115 por 13.99 EUR (original: 29.9 EUR) en el siguiente enlace!
+Está [Svater Bombillas LED E27 A60 Casquillo Globo Edison Bombilla de ópalo Blanco Frío 6000K 850 Lúmenes Filamentos 8W Equivalente a 80W 360 Grados No Regulable Pack de 6](https://www.amazon.com/dp/B07F11XRMF/?tag=redken08-20) con 53.21 de descuento por 13.99 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sDm%2BnaToL._SL200_.jpg)](https://www.amazon.com/dp/B07F11XRMF/?tag=redken08-20)
 

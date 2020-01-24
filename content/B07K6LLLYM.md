@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Nimbus 21  Zapatillas de Runni al 40.077777777777776 % de descuento'
+title: 'Asics Gel-Nimbus 21  Zapatillas de Runni al 40.08 % de descuento'
 date: 2019/10/23 07:10:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EybGHr-QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EybGHr-QL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 180 EUR
 inStock: true
 ---
 
-Está [Asics Gel-Nimbus 21  Zapatillas de Running para Hombre  Negro  Black/Dark Grey 001   39.5 EU](https://www.amazon.com/dp/B07K6LLLYM/?tag=redken08-20) con 40.077777777777776 por 107.86 EUR (original: 180 EUR) en el siguiente enlace!
+Está [Asics Gel-Nimbus 21  Zapatillas de Running para Hombre  Negro  Black/Dark Grey 001   39.5 EU](https://www.amazon.com/dp/B07K6LLLYM/?tag=redken08-20) con 40.08 de descuento por 107.86 EUR (original: 180 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EybGHr-QL._SL200_.jpg)](https://www.amazon.com/dp/B07K6LLLYM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beefeater 24 Ginebra - 700 ml al 37.175175787221036 % de descuento'
+title: 'Beefeater 24 Ginebra - 700 ml al 37.18 % de descuento'
 date: 2019/11/15 19:50:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WlMJ6AAJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WlMJ6AAJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32.71 EUR
 inStock: true
 ---
 
-Está [Beefeater 24 Ginebra - 700 ml](https://www.amazon.com/dp/B00DZEFQ4S/?tag=redken08-20) con 37.175175787221036 por 20.55 EUR (original: 32.71 EUR) en el siguiente enlace!
+Está [Beefeater 24 Ginebra - 700 ml](https://www.amazon.com/dp/B00DZEFQ4S/?tag=redken08-20) con 37.18 de descuento por 20.55 EUR (original: 32.71 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WlMJ6AAJL._SL200_.jpg)](https://www.amazon.com/dp/B00DZEFQ4S/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Liga Cap Gorra  Unisex Adulto  Elec al 26.488294314381267 % de descuento'
+title: 'PUMA Liga Cap Gorra  Unisex Adulto  Elec al 26.49 % de descuento'
 date: 2019/12/17 13:56:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tx5HKHpgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tx5HKHpgL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Está [PUMA Liga Cap Gorra  Unisex Adulto  Electric Blue Lemonade Black  OSFA](https://www.amazon.com/dp/B07QBCKJMJ/?tag=redken08-20) con 26.488294314381267 por 10.99 EUR (original: 14.95 EUR) en el siguiente enlace!
+Está [PUMA Liga Cap Gorra  Unisex Adulto  Electric Blue Lemonade Black  OSFA](https://www.amazon.com/dp/B07QBCKJMJ/?tag=redken08-20) con 26.49 de descuento por 10.99 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Tx5HKHpgL._SL200_.jpg)](https://www.amazon.com/dp/B07QBCKJMJ/?tag=redken08-20)
 

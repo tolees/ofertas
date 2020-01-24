@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.71223741247081 % en Far Cry 5'
+title: 'Descuento del 36.71 % en Far Cry 5'
 date: 2020-01-18 23:26:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [Far Cry 5](https://www.amazon.com/dp/B071FLZD4B/?tag=redken08-20) con un 36.71223741247081 % con precio de oferta de 18.98 EUR (original: 29.99 EUR) en el siguiente enlace!
+Tienes [Far Cry 5](https://www.amazon.com/dp/B071FLZD4B/?tag=redken08-20) con un 36.71 % de descuento con precio de oferta de 18.98 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg)](https://www.amazon.com/dp/B071FLZD4B/?tag=redken08-20)
 

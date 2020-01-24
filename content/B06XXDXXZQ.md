@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance WL574EB  Zapatillas Mujer  N al 40.077777777777776 % de descuento'
+title: 'New Balance WL574EB  Zapatillas Mujer  N al 40.08 % de descuento'
 date: 2019/11/09 16:18:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BTabptGGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BTabptGGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance WL574EB  Zapatillas Mujer  Negro  Black   38 EU](https://www.amazon.com/dp/B06XXDXXZQ/?tag=redken08-20) a 53.93 EUR (original: 90 EUR) (40.077777777777776 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance WL574EB  Zapatillas Mujer  Negro  Black   38 EU](https://www.amazon.com/dp/B06XXDXXZQ/?tag=redken08-20) a 53.93 EUR (original: 90 EUR) (40.08 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BTabptGGL._SL200_.jpg)](https://www.amazon.com/dp/B06XXDXXZQ/?tag=redken08-20)
 

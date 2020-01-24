@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel London Provocalips Barra De Labio al 30.428571428571427 % de descuento'
+title: 'Rimmel London Provocalips Barra De Labio al 30.43 % de descuento'
 date: 2020-01-07 16:54:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wF8GQpD%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wF8GQpD%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7 EUR
 inStock: true
 ---
 
-Está [Rimmel London Provocalips Barra De Labios  Tono 500 Kiss Me You Fool - 7 ml](https://www.amazon.com/dp/B00MGK9QES/?tag=redken08-20) con 30.428571428571427 por 4.87 EUR (original: 7 EUR) en el siguiente enlace!
+Está [Rimmel London Provocalips Barra De Labios  Tono 500 Kiss Me You Fool - 7 ml](https://www.amazon.com/dp/B00MGK9QES/?tag=redken08-20) con 30.43 de descuento por 4.87 EUR (original: 7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31wF8GQpD%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00MGK9QES/?tag=redken08-20)
 

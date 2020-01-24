@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.0 % en find. 2 Slim Fit Solid  Camisa de Oficin'
+title: 'Descuento del 25.00 % en find. 2 Slim Fit Solid  Camisa de Oficin'
 date: 2019/12/31 15:09:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317e1I5ap%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317e1I5ap%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [find. 2 Slim Fit Solid  Camisa de Oficina para Hombre  Blau  Navy / Blue   XL Pack de 2 ](https://www.amazon.com/dp/B07G5PNFBT/?tag=redken08-20) con un 25.0 % con precio de oferta de 18.75 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [find. 2 Slim Fit Solid  Camisa de Oficina para Hombre  Blau  Navy / Blue   XL Pack de 2 ](https://www.amazon.com/dp/B07G5PNFBT/?tag=redken08-20) con un 25.00 % de descuento con precio de oferta de 18.75 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317e1I5ap%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07G5PNFBT/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ibiza PORT8VHF-BT - Sistema de sonido po al 26.135678391959793 % de descuento'
+title: 'Ibiza PORT8VHF-BT - Sistema de sonido po al 26.14 % de descuento'
 date: 2019/12/27 13:10:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o01ZJLCAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o01ZJLCAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199 EUR
 inStock: true
 ---
 
-Está [Ibiza PORT8VHF-BT - Sistema de sonido portátil y autónomo  400 W  color negro](https://www.amazon.com/dp/B00AJPPJUM/?tag=redken08-20) con 26.135678391959793 por 146.99 EUR (original: 199 EUR) en el siguiente enlace!
+Está [Ibiza PORT8VHF-BT - Sistema de sonido portátil y autónomo  400 W  color negro](https://www.amazon.com/dp/B00AJPPJUM/?tag=redken08-20) con 26.14 de descuento por 146.99 EUR (original: 199 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41o01ZJLCAL._SL200_.jpg)](https://www.amazon.com/dp/B00AJPPJUM/?tag=redken08-20)
 

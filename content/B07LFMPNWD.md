@@ -14,7 +14,7 @@ comparePrice: 80 GBP
 inStock: true
 ---
 
-Está [Levi s Women s 315 Shaping Boot Bootcut Jeans  Los Angeles Sun 0058  31W / 30L](https://www.amazon.com/dp/B07LFMPNWD/?tag=redken08-20) con 56.25 por 35 GBP (original: 80 GBP) en el siguiente enlace!
+Está [Levi s Women s 315 Shaping Boot Bootcut Jeans  Los Angeles Sun 0058  31W / 30L](https://www.amazon.com/dp/B07LFMPNWD/?tag=redken08-20) con 56.25 de descuento por 35 GBP (original: 80 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wj884iWYL._SL200_.jpg)](https://www.amazon.com/dp/B07LFMPNWD/?tag=redken08-20)
 

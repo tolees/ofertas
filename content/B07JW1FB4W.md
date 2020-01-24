@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 72.37458193979933 % en LEGO Jungen T-Shirt Lego Boy Ninjago CM-'
+title: 'Descuento del 72.37 % en LEGO Jungen T-Shirt Lego Boy Ninjago CM-'
 date: 2019/12/04 13:39:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xESelgenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xESelgenL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Tienes [LEGO Jungen T-Shirt Lego Boy Ninjago CM-50231-T-SHIRT  Grau  Grey Melange 912    Herstellergröße: 110 ](https://www.amazon.com/dp/B07JW1FB4W/?tag=redken08-20) con un 72.37458193979933 % con precio de oferta de 4.13 EUR (original: 14.95 EUR) en el siguiente enlace!
+Tienes [LEGO Jungen T-Shirt Lego Boy Ninjago CM-50231-T-SHIRT  Grau  Grey Melange 912    Herstellergröße: 110 ](https://www.amazon.com/dp/B07JW1FB4W/?tag=redken08-20) con un 72.37 % de descuento con precio de oferta de 4.13 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xESelgenL._SL200_.jpg)](https://www.amazon.com/dp/B07JW1FB4W/?tag=redken08-20)
 

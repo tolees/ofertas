@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Purina Gourmet Gold Mousse comida para g al 53.930753564154784 % de descuento'
+title: 'Purina Gourmet Gold Mousse comida para g al 53.93 % de descuento'
 date: 2020-01-23 15:33:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IrEoNDhAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IrEoNDhAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 73.65 EUR
 inStock: true
 ---
 
-Está [Purina Gourmet Gold Mousse comida para gatos Surtido sabores 8 x [12 x 85 g]](https://www.amazon.com/dp/B07B8WVLV5/?tag=redken08-20) con 53.930753564154784 por 33.93 EUR (original: 73.65 EUR) en el siguiente enlace!
+Está [Purina Gourmet Gold Mousse comida para gatos Surtido sabores 8 x [12 x 85 g]](https://www.amazon.com/dp/B07B8WVLV5/?tag=redken08-20) con 53.93 de descuento por 33.93 EUR (original: 73.65 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51IrEoNDhAL._SL200_.jpg)](https://www.amazon.com/dp/B07B8WVLV5/?tag=redken08-20)
 

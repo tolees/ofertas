@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Vintage Logo AOP Mid tee Camise al 65.51378446115288 % de descuento'
+title: 'Superdry Vintage Logo AOP Mid tee Camise al 65.51 % de descuento'
 date: 2019/11/09 05:59:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UQDIfGqmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UQDIfGqmL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.9 EUR
 inStock: true
 ---
 
-Está [Superdry Vintage Logo AOP Mid tee Camiseta de Tirantes  Gris  Grey Marl 07q   XX-Large  Talla del Fabricante: 2XL  para Hombre](https://www.amazon.com/dp/B07QQFBMMG/?tag=redken08-20) con 65.51378446115288 por 13.76 EUR (original: 39.9 EUR) en el siguiente enlace!
+Está [Superdry Vintage Logo AOP Mid tee Camiseta de Tirantes  Gris  Grey Marl 07q   XX-Large  Talla del Fabricante: 2XL  para Hombre](https://www.amazon.com/dp/B07QQFBMMG/?tag=redken08-20) con 65.51 de descuento por 13.76 EUR (original: 39.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UQDIfGqmL._SL200_.jpg)](https://www.amazon.com/dp/B07QQFBMMG/?tag=redken08-20)
 

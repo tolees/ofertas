@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.62241494329553 % en Funko FK3876 Pop! TV: Juego de Tronos- G'
+title: 'Descuento del 33.62 % en Funko FK3876 Pop! TV: Juego de Tronos- G'
 date: 2019/11/03 15:09:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516iphMdo9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516iphMdo9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Tienes [Funko FK3876 Pop! TV: Juego de Tronos- Ghost Fantasma](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20) con un 33.62241494329553 % con precio de oferta de 9.95 EUR (original: 14.99 EUR) en el siguiente enlace!
+Tienes [Funko FK3876 Pop! TV: Juego de Tronos- Ghost Fantasma](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20) con un 33.62 % de descuento con precio de oferta de 9.95 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/516iphMdo9L._SL200_.jpg)](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20)
 

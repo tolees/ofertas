@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Call of Duty: Black Ops 3 al 62.38727660272176 % de descuento'
+title: 'Call of Duty: Black Ops 3 al 62.39 % de descuento'
 date: 2019/11/10 13:48:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KWsywTevL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KWsywTevL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60.99 EUR
 inStock: true
 ---
 
-Está [Call of Duty: Black Ops 3](https://www.amazon.com/dp/B00ZD0IMA2/?tag=redken08-20) con 62.38727660272176 por 22.94 EUR (original: 60.99 EUR) en el siguiente enlace!
+Está [Call of Duty: Black Ops 3](https://www.amazon.com/dp/B00ZD0IMA2/?tag=redken08-20) con 62.39 de descuento por 22.94 EUR (original: 60.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51KWsywTevL._SL200_.jpg)](https://www.amazon.com/dp/B00ZD0IMA2/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Barra de Labios Color Rich al 28.92307692307692 % de descuento'
+title: 'L Oréal Paris Barra de Labios Color Rich al 28.92 % de descuento'
 date: 2019/12/06 17:08:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H06ZTyRSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H06ZTyRSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [L Oréal Paris Barra de Labios Color Riche 303](https://www.amazon.com/dp/B000OVS8EA/?tag=redken08-20) a 9.24 EUR (original: 13 EUR) (28.92307692307692 %) en el siguiente enlace!
+Ahora mismo tienes [L Oréal Paris Barra de Labios Color Riche 303](https://www.amazon.com/dp/B000OVS8EA/?tag=redken08-20) a 9.24 EUR (original: 13 EUR) (28.92 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31H06ZTyRSL._SL200_.jpg)](https://www.amazon.com/dp/B000OVS8EA/?tag=redken08-20)
 

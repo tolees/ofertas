@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike T-Lite Xi  Zapatillas Hombre   Negr al 44.220000000000006 % de descuento'
+title: 'Nike T-Lite Xi  Zapatillas Hombre   Negr al 44.22 % de descuento'
 date: 2019/11/29 22:42:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qAoyP6MfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qAoyP6MfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike T-Lite Xi  Zapatillas Hombre   Negro  Black   40.5](https://www.amazon.com/dp/B00BYG3PJC/?tag=redken08-20) a 27.89 EUR (original: 50 EUR) (44.220000000000006 %) en el siguiente enlace!
+Ahora mismo tienes [Nike T-Lite Xi  Zapatillas Hombre   Negro  Black   40.5](https://www.amazon.com/dp/B00BYG3PJC/?tag=redken08-20) a 27.89 EUR (original: 50 EUR) (44.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qAoyP6MfL._SL200_.jpg)](https://www.amazon.com/dp/B00BYG3PJC/?tag=redken08-20)
 

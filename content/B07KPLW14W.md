@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Google Pixel 3 XL  64GB  Not pink  SIM F al 31.41887226697353 % de descuento'
+title: 'Google Pixel 3 XL  64GB  Not pink  SIM F al 31.42 % de descuento'
 date: 2020-01-05 08:42:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nY0HvyiHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nY0HvyiHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 869 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Google Pixel 3 XL  64GB  Not pink  SIM Free](https://www.amazon.com/dp/B07KPLW14W/?tag=redken08-20) a 595.97 GBP (original: 869 GBP) (31.41887226697353 %) en el siguiente enlace!
+Ahora mismo tienes [Google Pixel 3 XL  64GB  Not pink  SIM Free](https://www.amazon.com/dp/B07KPLW14W/?tag=redken08-20) a 595.97 GBP (original: 869 GBP) (31.42 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nY0HvyiHL._SL200_.jpg)](https://www.amazon.com/dp/B07KPLW14W/?tag=redken08-20)
 

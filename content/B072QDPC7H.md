@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RED WAGON Zapatillas con Lazo Niñas  Gri al 80.0 % de descuento'
+title: 'RED WAGON Zapatillas con Lazo Niñas  Gri al 80.00 % de descuento'
 date: 2019/10/05 16:35:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jE1Rtg8wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jE1Rtg8wL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [RED WAGON Zapatillas con Lazo Niñas  Gris  Grey   23 EU](https://www.amazon.com/dp/B072QDPC7H/?tag=redken08-20) a 6.4 EUR (original: 32 EUR) (80.0 %) en el siguiente enlace!
+Ahora mismo tienes [RED WAGON Zapatillas con Lazo Niñas  Gris  Grey   23 EU](https://www.amazon.com/dp/B072QDPC7H/?tag=redken08-20) a 6.4 EUR (original: 32 EUR) (80.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31jE1Rtg8wL._SL200_.jpg)](https://www.amazon.com/dp/B072QDPC7H/?tag=redken08-20)
 

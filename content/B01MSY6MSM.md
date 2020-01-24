@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Crew Hooded Chaqueta  Hombr al 50.12000000000001 % de descuento'
+title: 'Helly Hansen Crew Hooded Chaqueta  Hombr al 50.12 % de descuento'
 date: 2019/10/13 13:04:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FE8-gzKiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FE8-gzKiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Helly Hansen Crew Hooded Chaqueta  Hombre  Rojo  Rojo 162   Small  Tamaño del Fabricante:S ](https://www.amazon.com/dp/B01MSY6MSM/?tag=redken08-20) a 74.82 EUR (original: 150 EUR) (50.12000000000001 %) en el siguiente enlace!
+Ahora mismo tienes [Helly Hansen Crew Hooded Chaqueta  Hombre  Rojo  Rojo 162   Small  Tamaño del Fabricante:S ](https://www.amazon.com/dp/B01MSY6MSM/?tag=redken08-20) a 74.82 EUR (original: 150 EUR) (50.12 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FE8-gzKiL._SL200_.jpg)](https://www.amazon.com/dp/B01MSY6MSM/?tag=redken08-20)
 

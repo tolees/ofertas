@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Preservativos Dame Placer con Punt al 49.206349206349195 % de descuento'
+title: 'Durex Preservativos Dame Placer con Punt al 49.21 % de descuento'
 date: 2020-01-23 12:27:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Durex Preservativos Dame Placer con Puntos y Estrías - Total 12 Condones](https://www.amazon.com/dp/B00XACW13O/?tag=redken08-20) a 6.4 EUR (original: 12.6 EUR) (49.206349206349195 %) en el siguiente enlace!
+Ahora mismo tienes [Durex Preservativos Dame Placer con Puntos y Estrías - Total 12 Condones](https://www.amazon.com/dp/B00XACW13O/?tag=redken08-20) a 6.4 EUR (original: 12.6 EUR) (49.21 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg)](https://www.amazon.com/dp/B00XACW13O/?tag=redken08-20)
 

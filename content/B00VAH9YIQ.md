@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Manfrotto Lumimuse 8 LED  color negro al 37.40770465489567 % de descuento'
+title: 'Manfrotto Lumimuse 8 LED  color negro al 37.41 % de descuento'
 date: 2020-01-15 23:04:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 124.6 EUR
 inStock: true
 ---
 
-Está [Manfrotto Lumimuse 8 LED  color negro](https://www.amazon.com/dp/B00VAH9YIQ/?tag=redken08-20) con 37.40770465489567 por 77.99 EUR (original: 124.6 EUR) en el siguiente enlace!
+Está [Manfrotto Lumimuse 8 LED  color negro](https://www.amazon.com/dp/B00VAH9YIQ/?tag=redken08-20) con 37.41 de descuento por 77.99 EUR (original: 124.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iGOHQWP5L._SL200_.jpg)](https://www.amazon.com/dp/B00VAH9YIQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour HG Armour 2.0 Legging Leggi al 50.025000000000006 % de descuento'
+title: 'Under Armour HG Armour 2.0 Legging Leggi al 50.03 % de descuento'
 date: 2019/12/02 14:06:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Under Armour HG Armour 2.0 Legging Leggings  Hombre  Negro  Black/Graphite 001   XL](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20) con 50.025000000000006 por 19.99 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Under Armour HG Armour 2.0 Legging Leggings  Hombre  Negro  Black/Graphite 001   XL](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20) con 50.03 de descuento por 19.99 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg)](https://www.amazon.com/dp/B01FFNE26Y/?tag=redken08-20)
 

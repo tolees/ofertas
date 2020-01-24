@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fortnite Floss Dance - Camiseta  color g al 66.6444296197465 % de descuento'
+title: 'Fortnite Floss Dance - Camiseta  color g al 66.64 % de descuento'
 date: 2019/12/25 04:52:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XIJ2t8MHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XIJ2t8MHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Fortnite Floss Dance - Camiseta  color gris  talla XL](https://www.amazon.com/dp/B07HHJL8SW/?tag=redken08-20) con 66.6444296197465 por 5 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [Fortnite Floss Dance - Camiseta  color gris  talla XL](https://www.amazon.com/dp/B07HHJL8SW/?tag=redken08-20) con 66.64 de descuento por 5 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XIJ2t8MHL._SL200_.jpg)](https://www.amazon.com/dp/B07HHJL8SW/?tag=redken08-20)
 

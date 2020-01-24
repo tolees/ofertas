@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 73.46076905979106 % en Under Armour UA Qualifier Short Sleeve C'
+title: 'Descuento del 73.46 % en Under Armour UA Qualifier Short Sleeve C'
 date: 2019/10/05 09:28:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kCVodP%2BvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kCVodP%2BvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA Qualifier Short Sleeve Camiseta  Mujer  Negro  Black/Reflective 001   XS](https://www.amazon.com/dp/B07CZFFSL2/?tag=redken08-20) con un 73.46076905979106 % con precio de oferta de 11.94 EUR (original: 44.99 EUR) en el siguiente enlace!
+Tienes [Under Armour UA Qualifier Short Sleeve Camiseta  Mujer  Negro  Black/Reflective 001   XS](https://www.amazon.com/dp/B07CZFFSL2/?tag=redken08-20) con un 73.46 % de descuento con precio de oferta de 11.94 EUR (original: 44.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kCVodP%2BvL._SL200_.jpg)](https://www.amazon.com/dp/B07CZFFSL2/?tag=redken08-20)
 

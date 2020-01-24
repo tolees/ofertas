@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sportsheets Plus Lace With Satin Corsett al 48.749237339841365 % de descuento'
+title: 'Sportsheets Plus Lace With Satin Corsett al 48.75 % de descuento'
 date: 2019/11/08 11:05:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J3MR6s%2BGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J3MR6s%2BGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 81.95 EUR
 inStock: true
 ---
 
-Está [Sportsheets Plus Lace With Satin Corsette Strap On Corset Color Rojo - 409 gr](https://www.amazon.com/dp/B00MFWN2LU/?tag=redken08-20) con 48.749237339841365 por 42 EUR (original: 81.95 EUR) en el siguiente enlace!
+Está [Sportsheets Plus Lace With Satin Corsette Strap On Corset Color Rojo - 409 gr](https://www.amazon.com/dp/B00MFWN2LU/?tag=redken08-20) con 48.75 de descuento por 42 EUR (original: 81.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41J3MR6s%2BGL._SL200_.jpg)](https://www.amazon.com/dp/B00MFWN2LU/?tag=redken08-20)
 

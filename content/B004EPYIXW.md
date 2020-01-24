@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scitec Whey Protein Professional Mezcla  al 33.0635838150289 % de descuento'
+title: 'Scitec Whey Protein Professional Mezcla  al 33.06 % de descuento'
 date: 2019/12/22 09:08:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415BvN4%2BDiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415BvN4%2BDiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51.9 EUR
 inStock: true
 ---
 
-Está [Scitec Whey Protein Professional Mezcla de Proteína de Suero  chocolate con avellana- 2350 gr](https://www.amazon.com/dp/B004EPYIXW/?tag=redken08-20) con 33.0635838150289 por 34.74 EUR (original: 51.9 EUR) en el siguiente enlace!
+Está [Scitec Whey Protein Professional Mezcla de Proteína de Suero  chocolate con avellana- 2350 gr](https://www.amazon.com/dp/B004EPYIXW/?tag=redken08-20) con 33.06 de descuento por 34.74 EUR (original: 51.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415BvN4%2BDiL._SL200_.jpg)](https://www.amazon.com/dp/B004EPYIXW/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alpino UA000151 - Multiplumier al 33.333333333333336 % de descuento'
+title: 'Alpino UA000151 - Multiplumier al 33.33 % de descuento'
 date: 2019/10/06 17:35:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HnprYqWhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HnprYqWhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Alpino UA000151 - Multiplumier](https://www.amazon.com/dp/B06XG33TVR/?tag=redken08-20) a 14.4 EUR (original: 21.6 EUR) (33.333333333333336 %) en el siguiente enlace!
+Ahora mismo tienes [Alpino UA000151 - Multiplumier](https://www.amazon.com/dp/B06XG33TVR/?tag=redken08-20) a 14.4 EUR (original: 21.6 EUR) (33.33 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HnprYqWhL._SL200_.jpg)](https://www.amazon.com/dp/B06XG33TVR/?tag=redken08-20)
 

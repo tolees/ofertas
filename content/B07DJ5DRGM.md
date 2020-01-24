@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance CRT300  Zapatillas para Homb al 51.655555555555566 % de descuento'
+title: 'New Balance CRT300  Zapatillas para Homb al 51.66 % de descuento'
 date: 2019/11/18 02:59:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlkP7JKPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BlkP7JKPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance CRT300  Zapatillas para Hombre  Azul  North Sea/White HP   40.5 EU](https://www.amazon.com/dp/B07DJ5DRGM/?tag=redken08-20) con 51.655555555555566 por 43.51 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance CRT300  Zapatillas para Hombre  Azul  North Sea/White HP   40.5 EU](https://www.amazon.com/dp/B07DJ5DRGM/?tag=redken08-20) con 51.66 de descuento por 43.51 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BlkP7JKPL._SL200_.jpg)](https://www.amazon.com/dp/B07DJ5DRGM/?tag=redken08-20)
 

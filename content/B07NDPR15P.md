@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.0125156445557 % en G-Star Raw Graphic 17 Loose V-Neck Camis'
+title: 'Descuento del 50.01 % en G-Star Raw Graphic 17 Loose V-Neck Camis'
 date: 2019/12/03 23:24:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oHWBdnD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oHWBdnD5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Tienes [G-Star Raw Graphic 17 Loose V-Neck Camiseta  Azul  Imperial Blue 1305   Medium para Hombre](https://www.amazon.com/dp/B07NDPR15P/?tag=redken08-20) con un 50.0125156445557 % con precio de oferta de 19.97 EUR (original: 39.95 EUR) en el siguiente enlace!
+Tienes [G-Star Raw Graphic 17 Loose V-Neck Camiseta  Azul  Imperial Blue 1305   Medium para Hombre](https://www.amazon.com/dp/B07NDPR15P/?tag=redken08-20) con un 50.01 % de descuento con precio de oferta de 19.97 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oHWBdnD5L._SL200_.jpg)](https://www.amazon.com/dp/B07NDPR15P/?tag=redken08-20)
 

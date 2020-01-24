@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dewalt DT70512T-QZ Juego de 14 Piezas pa al 49.377990430622006 % de descuento'
+title: 'Dewalt DT70512T-QZ Juego de 14 Piezas pa al 49.38 % de descuento'
 date: 2020-01-21 15:19:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mWmYEyp4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mWmYEyp4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.9 EUR
 inStock: true
 ---
 
-Está [Dewalt DT70512T-QZ Juego de 14 Piezas para atornillar con 2 guías guía telescópica magnética Larga x 1](https://www.amazon.com/dp/B00ODY07RA/?tag=redken08-20) con 49.377990430622006 por 10.58 EUR (original: 20.9 EUR) en el siguiente enlace!
+Está [Dewalt DT70512T-QZ Juego de 14 Piezas para atornillar con 2 guías guía telescópica magnética Larga x 1](https://www.amazon.com/dp/B00ODY07RA/?tag=redken08-20) con 49.38 de descuento por 10.58 EUR (original: 20.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51mWmYEyp4L._SL200_.jpg)](https://www.amazon.com/dp/B00ODY07RA/?tag=redken08-20)
 

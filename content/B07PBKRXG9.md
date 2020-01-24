@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Belted Chaqueta  Verde  Dark Kh al 40.81166047442126 % de descuento'
+title: 'New Look Belted Chaqueta  Verde  Dark Kh al 40.81 % de descuento'
 date: 2019/10/28 11:20:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yyN-EXx7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yyN-EXx7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Look Belted Chaqueta  Verde  Dark Khaki 34   36 EU para Mujer](https://www.amazon.com/dp/B07PBKRXG9/?tag=redken08-20) a 20.71 EUR (original: 34.99 EUR) (40.81166047442126 %) en el siguiente enlace!
+Ahora mismo tienes [New Look Belted Chaqueta  Verde  Dark Khaki 34   36 EU para Mujer](https://www.amazon.com/dp/B07PBKRXG9/?tag=redken08-20) a 20.71 EUR (original: 34.99 EUR) (40.81 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yyN-EXx7L._SL200_.jpg)](https://www.amazon.com/dp/B07PBKRXG9/?tag=redken08-20)
 

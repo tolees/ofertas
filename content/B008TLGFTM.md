@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Emsa Travel Mug - Taza térmica de 0.36 l al 36.29032258064516 % de descuento'
+title: 'Emsa Travel Mug - Taza térmica de 0.36 l al 36.29 % de descuento'
 date: 2019/11/14 18:23:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ajlgagEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ajlgagEPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 31 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Emsa Travel Mug - Taza térmica de 0.36 l  mantiene calor 4 h y frío 8 h  acero inoxidable con base antideslizante y zona de agarre de silicona con letras grabadas  color rojo](https://www.amazon.com/dp/B008TLGFTM/?tag=redken08-20) a 19.75 EUR (original: 31 EUR) (36.29032258064516 %) en el siguiente enlace!
+Ahora mismo tienes [Emsa Travel Mug - Taza térmica de 0.36 l  mantiene calor 4 h y frío 8 h  acero inoxidable con base antideslizante y zona de agarre de silicona con letras grabadas  color rojo](https://www.amazon.com/dp/B008TLGFTM/?tag=redken08-20) a 19.75 EUR (original: 31 EUR) (36.29 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ajlgagEPL._SL200_.jpg)](https://www.amazon.com/dp/B008TLGFTM/?tag=redken08-20)
 

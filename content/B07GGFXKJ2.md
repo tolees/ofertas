@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ghd platinum+ Styler  schwarz al 31.252830188679248 % de descuento'
+title: 'ghd platinum+ Styler  schwarz al 31.25 % de descuento'
 date: 2019/10/22 11:02:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cBwCcbSnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cBwCcbSnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 265 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [ghd platinum+ Styler  schwarz](https://www.amazon.com/dp/B07GGFXKJ2/?tag=redken08-20) a 182.18 EUR (original: 265 EUR) (31.252830188679248 %) en el siguiente enlace!
+Ahora mismo tienes [ghd platinum+ Styler  schwarz](https://www.amazon.com/dp/B07GGFXKJ2/?tag=redken08-20) a 182.18 EUR (original: 265 EUR) (31.25 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31cBwCcbSnL._SL200_.jpg)](https://www.amazon.com/dp/B07GGFXKJ2/?tag=redken08-20)
 

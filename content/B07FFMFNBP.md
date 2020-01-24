@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fossil Smartwatch FTW4012 al 36.45819397993311 % de descuento'
+title: 'Fossil Smartwatch FTW4012 al 36.46 % de descuento'
 date: 2019/12/30 20:32:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ue13xt63L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ue13xt63L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 299 EUR
 inStock: true
 ---
 
-Está [Fossil Smartwatch FTW4012](https://www.amazon.com/dp/B07FFMFNBP/?tag=redken08-20) con 36.45819397993311 por 189.99 EUR (original: 299 EUR) en el siguiente enlace!
+Está [Fossil Smartwatch FTW4012](https://www.amazon.com/dp/B07FFMFNBP/?tag=redken08-20) con 36.46 de descuento por 189.99 EUR (original: 299 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Ue13xt63L._SL200_.jpg)](https://www.amazon.com/dp/B07FFMFNBP/?tag=redken08-20)
 

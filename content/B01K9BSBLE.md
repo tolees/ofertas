@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Hugo BOSS para Hombre 1513440  Gri al 31.274406332453818 % de descuento'
+title: 'Reloj Hugo BOSS para Hombre 1513440  Gri al 31.27 % de descuento'
 date: 2019/12/14 20:40:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Cp35s5Y2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Cp35s5Y2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 379 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Reloj Hugo BOSS para Hombre 1513440  Gris  Acero/Gris ](https://www.amazon.com/dp/B01K9BSBLE/?tag=redken08-20) a 260.47 EUR (original: 379 EUR) (31.274406332453818 %) en el siguiente enlace!
+Ahora mismo tienes [Reloj Hugo BOSS para Hombre 1513440  Gris  Acero/Gris ](https://www.amazon.com/dp/B01K9BSBLE/?tag=redken08-20) a 260.47 EUR (original: 379 EUR) (31.27 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Cp35s5Y2L._SL200_.jpg)](https://www.amazon.com/dp/B01K9BSBLE/?tag=redken08-20)
 

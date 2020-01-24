@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Munchkin - Cubierto al 25.041736227045075 % de descuento'
+title: 'Munchkin - Cubierto al 25.04 % de descuento'
 date: 2019/12/21 19:44:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XmP9DgIIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XmP9DgIIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 5.99 EUR
 inStock: true
 ---
 
-Está [Munchkin - Cubierto](https://www.amazon.com/dp/B003WUGR6G/?tag=redken08-20) con 25.041736227045075 por 4.49 EUR (original: 5.99 EUR) en el siguiente enlace!
+Está [Munchkin - Cubierto](https://www.amazon.com/dp/B003WUGR6G/?tag=redken08-20) con 25.04 de descuento por 4.49 EUR (original: 5.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41XmP9DgIIL._SL200_.jpg)](https://www.amazon.com/dp/B003WUGR6G/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 56.731517509727624 % en Reebok Wor Sw tee Camiseta  Mujer  Negro'
+title: 'Descuento del 56.73 % en Reebok Wor Sw tee Camiseta  Mujer  Negro'
 date: 2019/10/05 13:38:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QjodjefUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QjodjefUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.7 EUR
 inStock: true
 ---
 
-Tienes [Reebok Wor Sw tee Camiseta  Mujer  Negro  XS](https://www.amazon.com/dp/B078HR8FKV/?tag=redken08-20) con un 56.731517509727624 % con precio de oferta de 11.12 EUR (original: 25.7 EUR) en el siguiente enlace!
+Tienes [Reebok Wor Sw tee Camiseta  Mujer  Negro  XS](https://www.amazon.com/dp/B078HR8FKV/?tag=redken08-20) con un 56.73 % de descuento con precio de oferta de 11.12 EUR (original: 25.7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QjodjefUL._SL200_.jpg)](https://www.amazon.com/dp/B078HR8FKV/?tag=redken08-20)
 

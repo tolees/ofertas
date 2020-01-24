@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister Air Force 1 - Maleta  al 30.215827338129497 % de descuento'
+title: 'American Tourister Air Force 1 - Maleta  al 30.22 % de descuento'
 date: 2019/12/03 11:53:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPNfNJUxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPNfNJUxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 139 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [American Tourister Air Force 1 - Maleta  Rojo  Flame Red   M  66cm-69L ](https://www.amazon.com/dp/B01B6KTDE6/?tag=redken08-20) a 97 EUR (original: 139 EUR) (30.215827338129497 %) en el siguiente enlace!
+Ahora mismo tienes [American Tourister Air Force 1 - Maleta  Rojo  Flame Red   M  66cm-69L ](https://www.amazon.com/dp/B01B6KTDE6/?tag=redken08-20) a 97 EUR (original: 139 EUR) (30.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OPNfNJUxL._SL200_.jpg)](https://www.amazon.com/dp/B01B6KTDE6/?tag=redken08-20)
 

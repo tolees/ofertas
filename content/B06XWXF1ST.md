@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574 Zapatillas Hombre  Verde al 40.0 % de descuento'
+title: 'New Balance 574 Zapatillas Hombre  Verde al 40.00 % de descuento'
 date: 2019/10/20 16:13:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ib23gT7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ib23gT7mL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 574 Zapatillas Hombre  Verde  Olive EGO   46.5 EU  11.5 UK ](https://www.amazon.com/dp/B06XWXF1ST/?tag=redken08-20) a 54 EUR (original: 90 EUR) (40.0 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance 574 Zapatillas Hombre  Verde  Olive EGO   46.5 EU  11.5 UK ](https://www.amazon.com/dp/B06XWXF1ST/?tag=redken08-20) a 54 EUR (original: 90 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ib23gT7mL._SL200_.jpg)](https://www.amazon.com/dp/B06XWXF1ST/?tag=redken08-20)
 

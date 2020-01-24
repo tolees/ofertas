@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jfwalbany Leather Brown Sto al 39.5039503950395 % de descuento'
+title: 'JACK & JONES Jfwalbany Leather Brown Sto al 39.50 % de descuento'
 date: 2019/11/11 20:13:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415x-j88YJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415x-j88YJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Está [JACK & JONES Jfwalbany Leather Brown Stone STS  Botas Estilo Motero para Hombre  Marrón  45 EU](https://www.amazon.com/dp/B07CV6D2GJ/?tag=redken08-20) con 39.5039503950395 por 60.49 EUR (original: 99.99 EUR) en el siguiente enlace!
+Está [JACK & JONES Jfwalbany Leather Brown Stone STS  Botas Estilo Motero para Hombre  Marrón  45 EU](https://www.amazon.com/dp/B07CV6D2GJ/?tag=redken08-20) con 39.50 de descuento por 60.49 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415x-j88YJL._SL200_.jpg)](https://www.amazon.com/dp/B07CV6D2GJ/?tag=redken08-20)
 

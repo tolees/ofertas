@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parque Jurásico 1-5 [Blu-ray] al 49.96245306633293 % de descuento'
+title: 'Parque Jurásico 1-5 [Blu-ray] al 49.96 % de descuento'
 date: 2019/11/26 22:02:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CQrOPTxIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CQrOPTxIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Parque Jurásico 1-5 [Blu-ray]](https://www.amazon.com/dp/B07DWCYHDG/?tag=redken08-20) a 19.99 EUR (original: 39.95 EUR) (49.96245306633293 %) en el siguiente enlace!
+Ahora mismo tienes [Parque Jurásico 1-5 [Blu-ray]](https://www.amazon.com/dp/B07DWCYHDG/?tag=redken08-20) a 19.99 EUR (original: 39.95 EUR) (49.96 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51CQrOPTxIL._SL200_.jpg)](https://www.amazon.com/dp/B07DWCYHDG/?tag=redken08-20)
 

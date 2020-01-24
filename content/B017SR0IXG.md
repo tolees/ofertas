@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Speedcross 4 GTX  Zapatillas de  al 50.003125195324714 % de descuento'
+title: 'Salomon Speedcross 4 GTX  Zapatillas de  al 50.00 % de descuento'
 date: 2019/11/06 01:27:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fu3FedwQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fu3FedwQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Silver Metallic-X    46 EU](https://www.amazon.com/dp/B017SR0IXG/?tag=redken08-20) a 79.99 EUR (original: 159.99 EUR) (50.003125195324714 %) en el siguiente enlace!
+Ahora mismo tienes [Salomon Speedcross 4 GTX  Zapatillas de Trail Running para Hombre  Negro  Black/Black/Silver Metallic-X    46 EU](https://www.amazon.com/dp/B017SR0IXG/?tag=redken08-20) a 79.99 EUR (original: 159.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fu3FedwQL._SL200_.jpg)](https://www.amazon.com/dp/B017SR0IXG/?tag=redken08-20)
 

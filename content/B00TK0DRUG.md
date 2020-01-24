@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.21648659463786 % en Revell Star Wars EasyKit Episode Vii The'
+title: 'Descuento del 41.22 % en Revell Star Wars EasyKit Episode Vii The'
 date: 2019/12/11 22:13:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rEo8bsMoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rEo8bsMoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Tienes [Revell Star Wars EasyKit Episode Vii The Force Awakens  Resistance X-Wing Fighter](https://www.amazon.com/dp/B00TK0DRUG/?tag=redken08-20) con un 41.21648659463786 % con precio de oferta de 14.69 GBP (original: 24.99 GBP) en el siguiente enlace!
+Tienes [Revell Star Wars EasyKit Episode Vii The Force Awakens  Resistance X-Wing Fighter](https://www.amazon.com/dp/B00TK0DRUG/?tag=redken08-20) con un 41.22 % de descuento con precio de oferta de 14.69 GBP (original: 24.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51rEo8bsMoL._SL200_.jpg)](https://www.amazon.com/dp/B00TK0DRUG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP 644A - Cartucho de tóner original Las al 79.79702866708516 % de descuento'
+title: 'HP 644A - Cartucho de tóner original Las al 79.80 % de descuento'
 date: 2019/10/11 10:06:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLXHy51OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLXHy51OL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 477.9 EUR
 inStock: true
 ---
 
-Está [HP 644A - Cartucho de tóner original LaserJet para Laserjet 4730 series  color amarillo](https://www.amazon.com/dp/B000B1HWOK/?tag=redken08-20) con 79.79702866708516 por 96.55 EUR (original: 477.9 EUR) en el siguiente enlace!
+Está [HP 644A - Cartucho de tóner original LaserJet para Laserjet 4730 series  color amarillo](https://www.amazon.com/dp/B000B1HWOK/?tag=redken08-20) con 79.80 de descuento por 96.55 EUR (original: 477.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BLXHy51OL._SL200_.jpg)](https://www.amazon.com/dp/B000B1HWOK/?tag=redken08-20)
 

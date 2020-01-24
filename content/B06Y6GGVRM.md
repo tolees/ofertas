@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell 2270075 Medidor Laser TC-LD 25 R al 52.052052052052055 % de descuento'
+title: 'Einhell 2270075 Medidor Laser TC-LD 25 R al 52.05 % de descuento'
 date: 2020-01-18 19:39:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Einhell 2270075 Medidor Laser TC-LD 25 Rango de Trabajo: 0.05m-25 m  1.5 V  Rojo](https://www.amazon.com/dp/B06Y6GGVRM/?tag=redken08-20) a 23.95 EUR (original: 49.95 EUR) (52.052052052052055 %) en el siguiente enlace!
+Ahora mismo tienes [Einhell 2270075 Medidor Laser TC-LD 25 Rango de Trabajo: 0.05m-25 m  1.5 V  Rojo](https://www.amazon.com/dp/B06Y6GGVRM/?tag=redken08-20) a 23.95 EUR (original: 49.95 EUR) (52.05 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg)](https://www.amazon.com/dp/B06Y6GGVRM/?tag=redken08-20)
 

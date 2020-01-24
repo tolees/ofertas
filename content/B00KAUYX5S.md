@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups The Sub Heineken VB650E10 - Tirado al 42.56212810640532 % de descuento'
+title: 'Krups The Sub Heineken VB650E10 - Tirado al 42.56 % de descuento'
 date: 2020-01-17 13:36:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Krups The Sub Heineken VB650E10 - Tirador de cerveza   2 l frescos de la cerveza 15 días  hasta 2º  eficiencia energética A+  silencioso  indicador listo para servir  color gris acero](https://www.amazon.com/dp/B00KAUYX5S/?tag=redken08-20) a 114.87 EUR (original: 199.99 EUR) (42.56212810640532 %) en el siguiente enlace!
+Ahora mismo tienes [Krups The Sub Heineken VB650E10 - Tirador de cerveza   2 l frescos de la cerveza 15 días  hasta 2º  eficiencia energética A+  silencioso  indicador listo para servir  color gris acero](https://www.amazon.com/dp/B00KAUYX5S/?tag=redken08-20) a 114.87 EUR (original: 199.99 EUR) (42.56 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg)](https://www.amazon.com/dp/B00KAUYX5S/?tag=redken08-20)
 

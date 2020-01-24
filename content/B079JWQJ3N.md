@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NNDOLL Vestido de Princesa Carnaval Vest al 65.22118742724098 % de descuento'
+title: 'NNDOLL Vestido de Princesa Carnaval Vest al 65.22 % de descuento'
 date: 2020-01-08 15:00:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 68.72 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje de niños Deluxe Elsa 131](https://www.amazon.com/dp/B079JWQJ3N/?tag=redken08-20) a 23.9 EUR (original: 68.72 EUR) (65.22118742724098 %) en el siguiente enlace!
+Ahora mismo tienes [NNDOLL Vestido de Princesa Carnaval Vestido de niña Traje de niños Deluxe Elsa 131](https://www.amazon.com/dp/B079JWQJ3N/?tag=redken08-20) a 23.9 EUR (original: 68.72 EUR) (65.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51JZrrKtfsL._SL200_.jpg)](https://www.amazon.com/dp/B079JWQJ3N/?tag=redken08-20)
 

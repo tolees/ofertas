@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Original Basic S/S PM503835 C al 34.723618090452256 % de descuento'
+title: 'Pepe Jeans Original Basic S/S PM503835 C al 34.72 % de descuento'
 date: 2020-01-14 16:39:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AAS028vFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AAS028vFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Original Basic S/S PM503835 Camiseta  Azul  Navy 595   X-Large para Hombre](https://www.amazon.com/dp/B06XTMYL4J/?tag=redken08-20) con 34.723618090452256 por 12.99 EUR (original: 19.9 EUR) en el siguiente enlace!
+Está [Pepe Jeans Original Basic S/S PM503835 Camiseta  Azul  Navy 595   X-Large para Hombre](https://www.amazon.com/dp/B06XTMYL4J/?tag=redken08-20) con 34.72 de descuento por 12.99 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41AAS028vFL._SL200_.jpg)](https://www.amazon.com/dp/B06XTMYL4J/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Race Chaqueta y Chaleco Cabal  Homb al 25.012506253126553 % de descuento'
+title: 'Joma Race Chaqueta y Chaleco Cabal  Homb al 25.01 % de descuento'
 date: 2020-01-01 09:16:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pqSTG0xpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pqSTG0xpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Joma Race Chaqueta y Chaleco Cabal  Hombre  Melange  M](https://www.amazon.com/dp/B07G9HS7MX/?tag=redken08-20) con 25.012506253126553 por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Joma Race Chaqueta y Chaleco Cabal  Hombre  Melange  M](https://www.amazon.com/dp/B07G9HS7MX/?tag=redken08-20) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pqSTG0xpL._SL200_.jpg)](https://www.amazon.com/dp/B07G9HS7MX/?tag=redken08-20)
 

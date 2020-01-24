@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.020010005002504 % en adidas Originals Superstar Foundation Za'
+title: 'Descuento del 40.02 % en adidas Originals Superstar Foundation Za'
 date: 2019/12/06 02:44:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Blr3UEtxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Blr3UEtxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Tienes [adidas Originals Superstar Foundation Zapatillas de deporte Unisex adulto  Blanco  Footwear White 0   46 EU](https://www.amazon.com/dp/B00PNUHN3E/?tag=redken08-20) con un 40.020010005002504 % con precio de oferta de 59.95 EUR (original: 99.95 EUR) en el siguiente enlace!
+Tienes [adidas Originals Superstar Foundation Zapatillas de deporte Unisex adulto  Blanco  Footwear White 0   46 EU](https://www.amazon.com/dp/B00PNUHN3E/?tag=redken08-20) con un 40.02 % de descuento con precio de oferta de 59.95 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2Blr3UEtxL._SL200_.jpg)](https://www.amazon.com/dp/B00PNUHN3E/?tag=redken08-20)
 

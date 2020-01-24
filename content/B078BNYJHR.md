@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canton DM5 Soundbar - Black Glass al 50.16722408026756 % de descuento'
+title: 'Canton DM5 Soundbar - Black Glass al 50.17 % de descuento'
 date: 2019/12/25 15:19:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3103uvqEewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3103uvqEewL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 299 GBP
 inStock: true
 ---
 
-Está [Canton DM5 Soundbar - Black Glass](https://www.amazon.com/dp/B078BNYJHR/?tag=redken08-20) con 50.16722408026756 por 149 GBP (original: 299 GBP) en el siguiente enlace!
+Está [Canton DM5 Soundbar - Black Glass](https://www.amazon.com/dp/B078BNYJHR/?tag=redken08-20) con 50.17 de descuento por 149 GBP (original: 299 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3103uvqEewL._SL200_.jpg)](https://www.amazon.com/dp/B078BNYJHR/?tag=redken08-20)
 

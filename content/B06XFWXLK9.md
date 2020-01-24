@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Miss Baby Roll Máscara de  al 30.65326633165828 % de descuento'
+title: 'L Oréal Paris Miss Baby Roll Máscara de  al 30.65 % de descuento'
 date: 2019/12/23 19:02:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p3iBu1fXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p3iBu1fXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.95 EUR
 inStock: true
 ---
 
-Está [L Oréal Paris Miss Baby Roll Máscara de Pestañas Mega Volumen](https://www.amazon.com/dp/B06XFWXLK9/?tag=redken08-20) con 30.65326633165828 por 6.9 EUR (original: 9.95 EUR) en el siguiente enlace!
+Está [L Oréal Paris Miss Baby Roll Máscara de Pestañas Mega Volumen](https://www.amazon.com/dp/B06XFWXLK9/?tag=redken08-20) con 30.65 de descuento por 6.9 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31p3iBu1fXL._SL200_.jpg)](https://www.amazon.com/dp/B06XFWXLK9/?tag=redken08-20)
 

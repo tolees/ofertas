@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Flyer Runner  Zapatillas de Running al 61.14114114114114 % de descuento'
+title: 'Puma Flyer Runner  Zapatillas de Running al 61.14 % de descuento'
 date: 2019/12/06 12:33:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b5wF-DNfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b5wF-DNfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Glacier Gray-Milky Blue   36 EU](https://www.amazon.com/dp/B07KG2THHS/?tag=redken08-20) a 19.41 EUR (original: 49.95 EUR) (61.14114114114114 %) en el siguiente enlace!
+Ahora mismo tienes [Puma Flyer Runner  Zapatillas de Running Unisex Adulto  Gris  Glacier Gray-Milky Blue   36 EU](https://www.amazon.com/dp/B07KG2THHS/?tag=redken08-20) a 19.41 EUR (original: 49.95 EUR) (61.14 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31b5wF-DNfL._SL200_.jpg)](https://www.amazon.com/dp/B07KG2THHS/?tag=redken08-20)
 

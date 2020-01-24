@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.778625954198468 % en Nike Star Runner 2  GS   Zapatillas Unis'
+title: 'Descuento del 28.78 % en Nike Star Runner 2  GS   Zapatillas Unis'
 date: 2019/12/30 08:07:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvkJz%2BT%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BvkJz%2BT%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.3 EUR
 inStock: true
 ---
 
-Tienes [Nike Star Runner 2  GS   Zapatillas Unisex Niños  Azul  Game Royal/Metallic Silver 400   38 EU](https://www.amazon.com/dp/B07KYSWRRZ/?tag=redken08-20) con un 28.778625954198468 % con precio de oferta de 27.99 EUR (original: 39.3 EUR) en el siguiente enlace!
+Tienes [Nike Star Runner 2  GS   Zapatillas Unisex Niños  Azul  Game Royal/Metallic Silver 400   38 EU](https://www.amazon.com/dp/B07KYSWRRZ/?tag=redken08-20) con un 28.78 % de descuento con precio de oferta de 27.99 EUR (original: 39.3 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BvkJz%2BT%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07KYSWRRZ/?tag=redken08-20)
 

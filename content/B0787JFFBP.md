@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.404944084755744 % en Black+Decker BEHT251-QS BEHT251-QS-Corta'
+title: 'Descuento del 28.40 % en Black+Decker BEHT251-QS BEHT251-QS-Corta'
 date: 2019/11/22 16:07:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sR-KvntcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sR-KvntcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 84.95 EUR
 inStock: true
 ---
 
-Tienes [Black+Decker BEHT251-QS BEHT251-QS-Cortasetos  45 cm  16 mm  450 W  50 cm/18 mm ](https://www.amazon.com/dp/B0787JFFBP/?tag=redken08-20) con un 28.404944084755744 % con precio de oferta de 60.82 EUR (original: 84.95 EUR) en el siguiente enlace!
+Tienes [Black+Decker BEHT251-QS BEHT251-QS-Cortasetos  45 cm  16 mm  450 W  50 cm/18 mm ](https://www.amazon.com/dp/B0787JFFBP/?tag=redken08-20) con un 28.40 % de descuento con precio de oferta de 60.82 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31sR-KvntcL._SL200_.jpg)](https://www.amazon.com/dp/B0787JFFBP/?tag=redken08-20)
 

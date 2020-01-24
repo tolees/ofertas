@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.237984134391038 % en BLACK+DECKER A7188 - Set de 50 piezas co'
+title: 'Descuento del 30.24 % en BLACK+DECKER A7188 - Set de 50 piezas co'
 date: 2019/12/28 21:18:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aGGV8ldYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aGGV8ldYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.43 EUR
 inStock: true
 ---
 
-Tienes [BLACK+DECKER A7188 - Set de 50 piezas con brocas y puntas para atornillar y taladrar](https://www.amazon.com/dp/B0076VLVXG/?tag=redken08-20) con un 30.237984134391038 % con precio de oferta de 14.95 EUR (original: 21.43 EUR) en el siguiente enlace!
+Tienes [BLACK+DECKER A7188 - Set de 50 piezas con brocas y puntas para atornillar y taladrar](https://www.amazon.com/dp/B0076VLVXG/?tag=redken08-20) con un 30.24 % de descuento con precio de oferta de 14.95 EUR (original: 21.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aGGV8ldYL._SL200_.jpg)](https://www.amazon.com/dp/B0076VLVXG/?tag=redken08-20)
 

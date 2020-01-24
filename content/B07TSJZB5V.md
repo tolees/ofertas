@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.990326282997216 % en BRIKSMAX Led Beleuchtungsset für Lego St'
+title: 'Descuento del 40.99 % en BRIKSMAX Led Beleuchtungsset für Lego St'
 date: 2020-01-23 18:18:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KOy7xr-uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KOy7xr-uL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60.99 EUR
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Y-Wing Starfighter  Kompatibel Mit Lego 75181 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TSJZB5V/?tag=redken08-20) con un 40.990326282997216 % con precio de oferta de 35.99 EUR (original: 60.99 EUR) en el siguiente enlace!
+Tienes [BRIKSMAX Led Beleuchtungsset für Lego Star Wars Y-Wing Starfighter  Kompatibel Mit Lego 75181 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07TSJZB5V/?tag=redken08-20) con un 40.99 % de descuento con precio de oferta de 35.99 EUR (original: 60.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41KOy7xr-uL._SL200_.jpg)](https://www.amazon.com/dp/B07TSJZB5V/?tag=redken08-20)
 

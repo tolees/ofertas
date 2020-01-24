@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parrot Mambo Fly - Dron cuadricóptero  3 al 55.51376146788991 % de descuento'
+title: 'Parrot Mambo Fly - Dron cuadricóptero  3 al 55.51 % de descuento'
 date: 2019/12/21 18:13:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e9gV0Dc-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e9gV0Dc-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109 EUR
 inStock: true
 ---
 
-Está [Parrot Mambo Fly - Dron cuadricóptero  30 Km/h  8 minutos de vuelo  programable ](https://www.amazon.com/dp/B074TGFML6/?tag=redken08-20) con 55.51376146788991 por 48.49 EUR (original: 109 EUR) en el siguiente enlace!
+Está [Parrot Mambo Fly - Dron cuadricóptero  30 Km/h  8 minutos de vuelo  programable ](https://www.amazon.com/dp/B074TGFML6/?tag=redken08-20) con 55.51 de descuento por 48.49 EUR (original: 109 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31e9gV0Dc-L._SL200_.jpg)](https://www.amazon.com/dp/B074TGFML6/?tag=redken08-20)
 

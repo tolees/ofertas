@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star Raw Graphic 8 Round Neck Camiseta al 50.05008347245409 % de descuento'
+title: 'G-Star Raw Graphic 8 Round Neck Camiseta al 50.05 % de descuento'
 date: 2019/12/02 13:11:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tZ5zbNhBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tZ5zbNhBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [G-Star Raw Graphic 8 Round Neck Camiseta  Blanco  White 110   XXL para Hombre](https://www.amazon.com/dp/B07MZJ3VYB/?tag=redken08-20) a 14.96 EUR (original: 29.95 EUR) (50.05008347245409 %) en el siguiente enlace!
+Ahora mismo tienes [G-Star Raw Graphic 8 Round Neck Camiseta  Blanco  White 110   XXL para Hombre](https://www.amazon.com/dp/B07MZJ3VYB/?tag=redken08-20) a 14.96 EUR (original: 29.95 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tZ5zbNhBL._SL200_.jpg)](https://www.amazon.com/dp/B07MZJ3VYB/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Mx818V3  Zapatillas Deportiv al 63.25882352941177 % de descuento'
+title: 'New Balance Mx818V3  Zapatillas Deportiv al 63.26 % de descuento'
 date: 2019/11/15 11:24:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GL35%2BjqVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GL35%2BjqVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [New Balance Mx818V3  Zapatillas Deportivas para Interior para Hombre  Negro  Black   42.5 EU](https://www.amazon.com/dp/B06XSCPF4T/?tag=redken08-20) con 63.25882352941177 por 31.23 EUR (original: 85 EUR) en el siguiente enlace!
+Está [New Balance Mx818V3  Zapatillas Deportivas para Interior para Hombre  Negro  Black   42.5 EU](https://www.amazon.com/dp/B06XSCPF4T/?tag=redken08-20) con 63.26 de descuento por 31.23 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GL35%2BjqVL._SL200_.jpg)](https://www.amazon.com/dp/B06XSCPF4T/?tag=redken08-20)
 

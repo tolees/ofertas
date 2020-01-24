@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Yv373v1  Zapatillas para Niñ al 37.0 % de descuento'
+title: 'New Balance Yv373v1  Zapatillas para Niñ al 37.00 % de descuento'
 date: 2019/12/29 10:07:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-OZs6Gi4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-OZs6Gi4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Yv373v1  Zapatillas para Niñas  Dorado  Classic Gold Classic Gold   32 EU](https://www.amazon.com/dp/B07KRM5X9W/?tag=redken08-20) a 31.5 EUR (original: 50 EUR) (37.0 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance Yv373v1  Zapatillas para Niñas  Dorado  Classic Gold Classic Gold   32 EU](https://www.amazon.com/dp/B07KRM5X9W/?tag=redken08-20) a 31.5 EUR (original: 50 EUR) (37.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-OZs6Gi4L._SL200_.jpg)](https://www.amazon.com/dp/B07KRM5X9W/?tag=redken08-20)
 

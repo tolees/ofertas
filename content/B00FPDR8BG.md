@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP CF303A 827A Original LaserJet Toner C al 45.53892782724 % de descuento'
+title: 'HP CF303A 827A Original LaserJet Toner C al 45.54 % de descuento'
 date: 2019/11/14 19:25:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JsosM4r3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JsosM4r3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 422.32 GBP
 inStock: true
 ---
 
-Está [HP CF303A 827A Original LaserJet Toner Cartridge  Magenta  Pack of 1](https://www.amazon.com/dp/B00FPDR8BG/?tag=redken08-20) con 45.53892782724 por 230 GBP (original: 422.32 GBP) en el siguiente enlace!
+Está [HP CF303A 827A Original LaserJet Toner Cartridge  Magenta  Pack of 1](https://www.amazon.com/dp/B00FPDR8BG/?tag=redken08-20) con 45.54 de descuento por 230 GBP (original: 422.32 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JsosM4r3L._SL200_.jpg)](https://www.amazon.com/dp/B00FPDR8BG/?tag=redken08-20)
 

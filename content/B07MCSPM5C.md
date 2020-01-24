@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri TALY 2 LS Polo  Azul  BLU Mari al 50.0 % de descuento'
+title: 'Napapijri TALY 2 LS Polo  Azul  BLU Mari al 50.00 % de descuento'
 date: 2020-01-22 12:19:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AZVC7bTML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AZVC7bTML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79 EUR
 inStock: true
 ---
 
-Está [Napapijri TALY 2 LS Polo  Azul  BLU Marine 176   L para Hombre](https://www.amazon.com/dp/B07MCSPM5C/?tag=redken08-20) con 50.0 por 39.5 EUR (original: 79 EUR) en el siguiente enlace!
+Está [Napapijri TALY 2 LS Polo  Azul  BLU Marine 176   L para Hombre](https://www.amazon.com/dp/B07MCSPM5C/?tag=redken08-20) con 50.00 de descuento por 39.5 EUR (original: 79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31AZVC7bTML._SL200_.jpg)](https://www.amazon.com/dp/B07MCSPM5C/?tag=redken08-20)
 

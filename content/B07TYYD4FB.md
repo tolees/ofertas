@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TXXCI LED Light Kit Compatible with Lego al 50.0 % de descuento'
+title: 'TXXCI LED Light Kit Compatible with Lego al 50.00 % de descuento'
 date: 2020-01-24 01:39:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L09mFdktL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L09mFdktL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 31.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [TXXCI LED Light Kit Compatible with Lego 75105 Star Wars Millennium Falcon Not Include Model ](https://www.amazon.com/dp/B07TYYD4FB/?tag=redken08-20) a 15.99 GBP (original: 31.98 GBP) (50.0 %) en el siguiente enlace!
+Ahora mismo tienes [TXXCI LED Light Kit Compatible with Lego 75105 Star Wars Millennium Falcon Not Include Model ](https://www.amazon.com/dp/B07TYYD4FB/?tag=redken08-20) a 15.99 GBP (original: 31.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41L09mFdktL._SL200_.jpg)](https://www.amazon.com/dp/B07TYYD4FB/?tag=redken08-20)
 

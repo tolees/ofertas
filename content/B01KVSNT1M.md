@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Killington  Botas Unisex Niño al 26.119402985074625 % de descuento'
+title: 'Timberland Killington  Botas Unisex Niño al 26.12 % de descuento'
 date: 2020-01-23 15:23:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 68.34 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Timberland Killington  Botas Unisex Niños  Azul  Black Iris Nubuck 19   32 EU](https://www.amazon.com/dp/B01KVSNT1M/?tag=redken08-20) a 50.49 EUR (original: 68.34 EUR) (26.119402985074625 %) en el siguiente enlace!
+Ahora mismo tienes [Timberland Killington  Botas Unisex Niños  Azul  Black Iris Nubuck 19   32 EU](https://www.amazon.com/dp/B01KVSNT1M/?tag=redken08-20) a 50.49 EUR (original: 68.34 EUR) (26.12 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg)](https://www.amazon.com/dp/B01KVSNT1M/?tag=redken08-20)
 

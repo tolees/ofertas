@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Essential Polo  Azul  Sea Captain al 40.11111111111111 % de descuento'
+title: 'Levi s Essential Polo  Azul  Sea Captain al 40.11 % de descuento'
 date: 2019/10/26 15:32:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dJuy0ITxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dJuy0ITxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [Levi s Essential Polo  Azul  Sea Captain Blue 0005   Medium para Mujer](https://www.amazon.com/dp/B07LFNRZ1V/?tag=redken08-20) con 40.11111111111111 por 26.95 EUR (original: 45 EUR) en el siguiente enlace!
+Está [Levi s Essential Polo  Azul  Sea Captain Blue 0005   Medium para Mujer](https://www.amazon.com/dp/B07LFNRZ1V/?tag=redken08-20) con 40.11 de descuento por 26.95 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dJuy0ITxL._SL200_.jpg)](https://www.amazon.com/dp/B07LFNRZ1V/?tag=redken08-20)
 

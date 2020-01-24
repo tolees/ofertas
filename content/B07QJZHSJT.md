@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lámpara de Espejo Baño LED 5W 30cm 400LM al 26.675558519506502 % de descuento'
+title: 'Lámpara de Espejo Baño LED 5W 30cm 400LM al 26.68 % de descuento'
 date: 2019/11/19 11:05:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WSylsnlGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WSylsnlGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [Lámpara de Espejo Baño LED 5W 30cm 400LM Azhien Blanco Neutro 4000K LED Armario Lámpara Luz de Pared IP44 230V Aplique de Baño Espejo Acero Inoxidable 300x14x14mm](https://www.amazon.com/dp/B07QJZHSJT/?tag=redken08-20) con 26.675558519506502 por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [Lámpara de Espejo Baño LED 5W 30cm 400LM Azhien Blanco Neutro 4000K LED Armario Lámpara Luz de Pared IP44 230V Aplique de Baño Espejo Acero Inoxidable 300x14x14mm](https://www.amazon.com/dp/B07QJZHSJT/?tag=redken08-20) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WSylsnlGL._SL200_.jpg)](https://www.amazon.com/dp/B07QJZHSJT/?tag=redken08-20)
 

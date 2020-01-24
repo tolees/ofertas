@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J New Savage Boy A  Zapatillas para al 60.0 % de descuento'
+title: 'Geox J New Savage Boy A  Zapatillas para al 60.00 % de descuento'
 date: 2019/11/21 12:05:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oEGUEn4YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oEGUEn4YL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox J New Savage Boy A  Zapatillas para Niños  Azul  Navy/Yellow C0657   40 EU](https://www.amazon.com/dp/B0792KQDMP/?tag=redken08-20) a 19.96 EUR (original: 49.9 EUR) (60.0 %) en el siguiente enlace!
+Ahora mismo tienes [Geox J New Savage Boy A  Zapatillas para Niños  Azul  Navy/Yellow C0657   40 EU](https://www.amazon.com/dp/B0792KQDMP/?tag=redken08-20) a 19.96 EUR (original: 49.9 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41oEGUEn4YL._SL200_.jpg)](https://www.amazon.com/dp/B0792KQDMP/?tag=redken08-20)
 

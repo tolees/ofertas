@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjitim Jjoriginal Jos 220 N al 28.803600450056244 % de descuento'
+title: 'JACK & JONES Jjitim Jjoriginal Jos 220 N al 28.80 % de descuento'
 date: 2019/10/10 09:28:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [JACK & JONES Jjitim Jjoriginal Jos 220 Noos Vaqueros Slim  Negro Black Denim  W34/L32 para Hombre](https://www.amazon.com/dp/B07FNNCXPD/?tag=redken08-20) a 56.95 EUR (original: 79.99 EUR) (28.803600450056244 %) en el siguiente enlace!
+Ahora mismo tienes [JACK & JONES Jjitim Jjoriginal Jos 220 Noos Vaqueros Slim  Negro Black Denim  W34/L32 para Hombre](https://www.amazon.com/dp/B07FNNCXPD/?tag=redken08-20) a 56.95 EUR (original: 79.99 EUR) (28.80 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SF9acirKL._SL200_.jpg)](https://www.amazon.com/dp/B07FNNCXPD/?tag=redken08-20)
 

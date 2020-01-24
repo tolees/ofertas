@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 28.41626150822385 % en National Geographic - Telescopio y micro'
+title: 'Descuento del 28.42 % en National Geographic - Telescopio y micro'
 date: 2020-01-05 10:07:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 96.67 EUR
 inStock: true
 ---
 
-Tienes [National Geographic - Telescopio y microscopio para Principiantes](https://www.amazon.com/dp/B07NBNDJNJ/?tag=redken08-20) con un 28.41626150822385 % con precio de oferta de 69.2 EUR (original: 96.67 EUR) en el siguiente enlace!
+Tienes [National Geographic - Telescopio y microscopio para Principiantes](https://www.amazon.com/dp/B07NBNDJNJ/?tag=redken08-20) con un 28.42 % de descuento con precio de oferta de 69.2 EUR (original: 96.67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/410DMwo%2BIPL._SL200_.jpg)](https://www.amazon.com/dp/B07NBNDJNJ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Farming Simulator 19 - Collector Edition al 30.006668148477445 % de descuento'
+title: 'Farming Simulator 19 - Collector Edition al 30.01 % de descuento'
 date: 2019/12/12 23:47:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gkCyBOE4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gkCyBOE4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 44.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Farming Simulator 19 - Collector Edition](https://www.amazon.com/dp/B07F1HSFZ5/?tag=redken08-20) a 31.49 EUR (original: 44.99 EUR) (30.006668148477445 %) en el siguiente enlace!
+Ahora mismo tienes [Farming Simulator 19 - Collector Edition](https://www.amazon.com/dp/B07F1HSFZ5/?tag=redken08-20) a 31.49 EUR (original: 44.99 EUR) (30.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51gkCyBOE4L._SL200_.jpg)](https://www.amazon.com/dp/B07F1HSFZ5/?tag=redken08-20)
 

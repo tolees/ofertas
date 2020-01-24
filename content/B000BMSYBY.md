@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 53.34370139968896 % en Cisco CP-PWR-CUBE-3= IP Phone Power Tran'
+title: 'Descuento del 53.34 % en Cisco CP-PWR-CUBE-3= IP Phone Power Tran'
 date: 2019/11/29 10:18:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g2ooJMSeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g2ooJMSeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.29 GBP
 inStock: true
 ---
 
-Tienes [Cisco CP-PWR-CUBE-3= IP Phone Power Transformer for 7800 Phone Series  UK Power Cord ](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20) con un 53.34370139968896 % con precio de oferta de 9 GBP (original: 19.29 GBP) en el siguiente enlace!
+Tienes [Cisco CP-PWR-CUBE-3= IP Phone Power Transformer for 7800 Phone Series  UK Power Cord ](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20) con un 53.34 % de descuento con precio de oferta de 9 GBP (original: 19.29 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51g2ooJMSeL._SL200_.jpg)](https://www.amazon.com/dp/B000BMSYBY/?tag=redken08-20)
 

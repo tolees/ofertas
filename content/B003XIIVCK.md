@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mannesmann 29896 - Juego de puntas de de al 28.717948717948715 % de descuento'
+title: 'Mannesmann 29896 - Juego de puntas de de al 28.72 % de descuento'
 date: 2020-01-19 19:22:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v-tOKob6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v-tOKob6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.5 EUR
 inStock: true
 ---
 
-Está [Mannesmann 29896 - Juego de puntas de destornillador  122 piezas](https://www.amazon.com/dp/B003XIIVCK/?tag=redken08-20) con 28.717948717948715 por 13.9 EUR (original: 19.5 EUR) en el siguiente enlace!
+Está [Mannesmann 29896 - Juego de puntas de destornillador  122 piezas](https://www.amazon.com/dp/B003XIIVCK/?tag=redken08-20) con 28.72 de descuento por 13.9 EUR (original: 19.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51v-tOKob6L._SL200_.jpg)](https://www.amazon.com/dp/B003XIIVCK/?tag=redken08-20)
 

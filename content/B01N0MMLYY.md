@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NICREW ClassicLED Luz LED Acuario  Lámpa al 25.9307279125764 % de descuento'
+title: 'NICREW ClassicLED Luz LED Acuario  Lámpa al 25.93 % de descuento'
 date: 2019/12/02 07:22:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316%2BCBvK-5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316%2BCBvK-5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 53.99 EUR
 inStock: true
 ---
 
-Está [NICREW ClassicLED Luz LED Acuario  Lámpara de Acuario  Iluminación LED para Acuarios Plantados Lámpara LED para Peceras 98-128 cm  25W  7000K](https://www.amazon.com/dp/B01N0MMLYY/?tag=redken08-20) con 25.9307279125764 por 39.99 EUR (original: 53.99 EUR) en el siguiente enlace!
+Está [NICREW ClassicLED Luz LED Acuario  Lámpara de Acuario  Iluminación LED para Acuarios Plantados Lámpara LED para Peceras 98-128 cm  25W  7000K](https://www.amazon.com/dp/B01N0MMLYY/?tag=redken08-20) con 25.93 de descuento por 39.99 EUR (original: 53.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/316%2BCBvK-5L._SL200_.jpg)](https://www.amazon.com/dp/B01N0MMLYY/?tag=redken08-20)
 

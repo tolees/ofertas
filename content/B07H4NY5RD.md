@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.89830508474577 % en Staedtler Noris 511 05 PSBK - Afilalápic'
+title: 'Descuento del 33.90 % en Staedtler Noris 511 05 PSBK - Afilalápic'
 date: 2019/12/28 19:22:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DUjVlndxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DUjVlndxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 2.95 EUR
 inStock: true
 ---
 
-Tienes [Staedtler Noris 511 05 PSBK - Afilalápices con depósito y cierre de seguridad](https://www.amazon.com/dp/B07H4NY5RD/?tag=redken08-20) con un 33.89830508474577 % con precio de oferta de 1.95 EUR (original: 2.95 EUR) en el siguiente enlace!
+Tienes [Staedtler Noris 511 05 PSBK - Afilalápices con depósito y cierre de seguridad](https://www.amazon.com/dp/B07H4NY5RD/?tag=redken08-20) con un 33.90 % de descuento con precio de oferta de 1.95 EUR (original: 2.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DUjVlndxL._SL200_.jpg)](https://www.amazon.com/dp/B07H4NY5RD/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'F1 2019 - Anniversary Edición al 71.21424284856973 % de descuento'
+title: 'F1 2019 - Anniversary Edición al 71.21 % de descuento'
 date: 2020-01-16 18:05:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AW9vJG5JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AW9vJG5JL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [F1 2019 - Anniversary Edición](https://www.amazon.com/dp/B07QF3NNHX/?tag=redken08-20) con 71.21424284856973 por 14.39 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [F1 2019 - Anniversary Edición](https://www.amazon.com/dp/B07QF3NNHX/?tag=redken08-20) con 71.21 de descuento por 14.39 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51AW9vJG5JL._SL200_.jpg)](https://www.amazon.com/dp/B07QF3NNHX/?tag=redken08-20)
 

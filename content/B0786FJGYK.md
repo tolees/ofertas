@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Liga Training Chándal  Hombre  Azul al 60.50083472454091 % de descuento'
+title: 'PUMA Liga Training Chándal  Hombre  Azul al 60.50 % de descuento'
 date: 2019/11/13 10:18:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C0Zbt03rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C0Zbt03rL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Está [PUMA Liga Training Chándal  Hombre  Azul  Peacoat/White   M](https://www.amazon.com/dp/B0786FJGYK/?tag=redken08-20) con 60.50083472454091 por 11.83 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [PUMA Liga Training Chándal  Hombre  Azul  Peacoat/White   M](https://www.amazon.com/dp/B0786FJGYK/?tag=redken08-20) con 60.50 de descuento por 11.83 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41C0Zbt03rL._SL200_.jpg)](https://www.amazon.com/dp/B0786FJGYK/?tag=redken08-20)
 

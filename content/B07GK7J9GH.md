@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEABAGS Lewes Llavero de Cuero al 78.33055091819699 % de descuento'
+title: 'LEABAGS Lewes Llavero de Cuero al 78.33 % de descuento'
 date: 2019/12/19 13:15:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Xn42JtbyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Xn42JtbyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.95 EUR
 inStock: true
 ---
 
-Está [LEABAGS Lewes Llavero de Cuero](https://www.amazon.com/dp/B07GK7J9GH/?tag=redken08-20) con 78.33055091819699 por 6.49 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [LEABAGS Lewes Llavero de Cuero](https://www.amazon.com/dp/B07GK7J9GH/?tag=redken08-20) con 78.33 de descuento por 6.49 EUR (original: 29.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Xn42JtbyL._SL200_.jpg)](https://www.amazon.com/dp/B07GK7J9GH/?tag=redken08-20)
 

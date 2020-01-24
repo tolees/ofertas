@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PRIXTON DV609 +Acc - Cámara Deportiva co al 37.25725725725726 % de descuento'
+title: 'PRIXTON DV609 +Acc - Cámara Deportiva co al 37.26 % de descuento'
 date: 2019/11/13 09:13:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513phFjgbPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513phFjgbPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [PRIXTON DV609 +Acc - Cámara Deportiva con Maletín de Kit de Accesorios Que Incluye Funda Sumergible  Correa y Varios Soportes  Batería de 700 mAh  Pantalla de 2 Pulgadas](https://www.amazon.com/dp/B01HF9YUYK/?tag=redken08-20) con 37.25725725725726 por 31.34 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [PRIXTON DV609 +Acc - Cámara Deportiva con Maletín de Kit de Accesorios Que Incluye Funda Sumergible  Correa y Varios Soportes  Batería de 700 mAh  Pantalla de 2 Pulgadas](https://www.amazon.com/dp/B01HF9YUYK/?tag=redken08-20) con 37.26 de descuento por 31.34 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513phFjgbPL._SL200_.jpg)](https://www.amazon.com/dp/B01HF9YUYK/?tag=redken08-20)
 

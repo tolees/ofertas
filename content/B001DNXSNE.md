@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armand Basi 32956 - Agua de perfume  100 al 48.10344827586207 % de descuento'
+title: 'Armand Basi 32956 - Agua de perfume  100 al 48.10 % de descuento'
 date: 2019/10/14 08:27:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419oFJMTZPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419oFJMTZPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Armand Basi 32956 - Agua de perfume  100 ml](https://www.amazon.com/dp/B001DNXSNE/?tag=redken08-20) a 39.13 EUR (original: 75.4 EUR) (48.10344827586207 %) en el siguiente enlace!
+Ahora mismo tienes [Armand Basi 32956 - Agua de perfume  100 ml](https://www.amazon.com/dp/B001DNXSNE/?tag=redken08-20) a 39.13 EUR (original: 75.4 EUR) (48.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419oFJMTZPL._SL200_.jpg)](https://www.amazon.com/dp/B001DNXSNE/?tag=redken08-20)
 

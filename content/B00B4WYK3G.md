@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Viñas  Tratamiento para pestañas al 28.489042675893884 % de descuento'
+title: 'Viñas  Tratamiento para pestañas al 28.49 % de descuento'
 date: 2020-01-11 18:36:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317L0l-7AtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317L0l-7AtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.67 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Viñas  Tratamiento para pestañas](https://www.amazon.com/dp/B00B4WYK3G/?tag=redken08-20) a 6.2 EUR (original: 8.67 EUR) (28.489042675893884 %) en el siguiente enlace!
+Ahora mismo tienes [Viñas  Tratamiento para pestañas](https://www.amazon.com/dp/B00B4WYK3G/?tag=redken08-20) a 6.2 EUR (original: 8.67 EUR) (28.49 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317L0l-7AtL._SL200_.jpg)](https://www.amazon.com/dp/B00B4WYK3G/?tag=redken08-20)
 

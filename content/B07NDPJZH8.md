@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.357012750455375 % en MEDION M80 - Ordenador de sobremesa  Int'
+title: 'Descuento del 45.36 % en MEDION M80 - Ordenador de sobremesa  Int'
 date: 2019/12/22 22:12:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31978VlZRdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31978VlZRdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 549 EUR
 inStock: true
 ---
 
-Tienes [MEDION M80 - Ordenador de sobremesa  Intel Core i3-8100  8GB RAM  1TB de HDD + 128GB SSD  Intel Graphics  Windows10  Gris](https://www.amazon.com/dp/B07NDPJZH8/?tag=redken08-20) con un 45.357012750455375 % con precio de oferta de 299.99 EUR (original: 549 EUR) en el siguiente enlace!
+Tienes [MEDION M80 - Ordenador de sobremesa  Intel Core i3-8100  8GB RAM  1TB de HDD + 128GB SSD  Intel Graphics  Windows10  Gris](https://www.amazon.com/dp/B07NDPJZH8/?tag=redken08-20) con un 45.36 % de descuento con precio de oferta de 299.99 EUR (original: 549 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31978VlZRdL._SL200_.jpg)](https://www.amazon.com/dp/B07NDPJZH8/?tag=redken08-20)
 

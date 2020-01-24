@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Apparel Odess T-Shirt  Hombre  Snow W al 46.367986080904736 % de descuento'
+title: 'DC Apparel Odess T-Shirt  Hombre  Snow W al 46.37 % de descuento'
 date: 2019/10/06 20:35:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xM7uNdUWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xM7uNdUWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DC Apparel Odess T-Shirt  Hombre  Snow White  S](https://www.amazon.com/dp/B07KZ8JKHD/?tag=redken08-20) a 12.33 EUR (original: 22.99 EUR) (46.367986080904736 %) en el siguiente enlace!
+Ahora mismo tienes [DC Apparel Odess T-Shirt  Hombre  Snow White  S](https://www.amazon.com/dp/B07KZ8JKHD/?tag=redken08-20) a 12.33 EUR (original: 22.99 EUR) (46.37 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xM7uNdUWL._SL200_.jpg)](https://www.amazon.com/dp/B07KZ8JKHD/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 42652 POP. Bobble: Marvel: 80th -  al 45.65217391304347 % de descuento'
+title: 'Funko 42652 POP. Bobble: Marvel: 80th -  al 45.65 % de descuento'
 date: 2020-01-22 09:34:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pco%2BO2MjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pco%2BO2MjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.2 GBP
 inStock: true
 ---
 
-Está [Funko 42652 POP. Bobble: Marvel: 80th - First Appearance - Namor Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PZDXWJK/?tag=redken08-20) con 45.65217391304347 por 5 GBP (original: 9.2 GBP) en el siguiente enlace!
+Está [Funko 42652 POP. Bobble: Marvel: 80th - First Appearance - Namor Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PZDXWJK/?tag=redken08-20) con 45.65 de descuento por 5 GBP (original: 9.2 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pco%2BO2MjL._SL200_.jpg)](https://www.amazon.com/dp/B07PZDXWJK/?tag=redken08-20)
 

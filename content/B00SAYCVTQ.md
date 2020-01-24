@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX KHX-HSCP-GM Cloud II - Cascos de  al 40.07003501750875 % de descuento'
+title: 'HyperX KHX-HSCP-GM Cloud II - Cascos de  al 40.07 % de descuento'
 date: 2020-01-19 14:09:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MqD4j79ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MqD4j79ZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Está [HyperX KHX-HSCP-GM Cloud II - Cascos de Gaming para PC/PS4/Mac  color gris](https://www.amazon.com/dp/B00SAYCVTQ/?tag=redken08-20) con 40.07003501750875 por 59.9 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [HyperX KHX-HSCP-GM Cloud II - Cascos de Gaming para PC/PS4/Mac  color gris](https://www.amazon.com/dp/B00SAYCVTQ/?tag=redken08-20) con 40.07 de descuento por 59.9 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MqD4j79ZL._SL200_.jpg)](https://www.amazon.com/dp/B00SAYCVTQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 54.400000000000006 % en Levi s Graphic Set-in Neck  Camiseta par'
+title: 'Descuento del 54.40 % en Levi s Graphic Set-in Neck  Camiseta par'
 date: 2020-01-12 18:09:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  Levis Logo White 0424   XS](https://www.amazon.com/dp/B07D7Y5STS/?tag=redken08-20) con un 54.400000000000006 % con precio de oferta de 11.4 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [Levi s Graphic Set-in Neck  Camiseta para Hombre  Blanco  Levis Logo White 0424   XS](https://www.amazon.com/dp/B07D7Y5STS/?tag=redken08-20) con un 54.40 % de descuento con precio de oferta de 11.4 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FMiw3XhVL._SL200_.jpg)](https://www.amazon.com/dp/B07D7Y5STS/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Boucheron Quatre Agua de Perfume - 100 m al 38.80837359098229 % de descuento'
+title: 'Boucheron Quatre Agua de Perfume - 100 m al 38.81 % de descuento'
 date: 2019/12/27 14:36:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sL3Zpv2VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sL3Zpv2VL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 62.1 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Boucheron Quatre Agua de Perfume - 100 ml](https://www.amazon.com/dp/B00TXSA6R2/?tag=redken08-20) a 38 EUR (original: 62.1 EUR) (38.80837359098229 %) en el siguiente enlace!
+Ahora mismo tienes [Boucheron Quatre Agua de Perfume - 100 ml](https://www.amazon.com/dp/B00TXSA6R2/?tag=redken08-20) a 38 EUR (original: 62.1 EUR) (38.81 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41sL3Zpv2VL._SL200_.jpg)](https://www.amazon.com/dp/B00TXSA6R2/?tag=redken08-20)
 

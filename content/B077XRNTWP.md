@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour 1309661-448 - Sudadera de R al 71.96666666666667 % de descuento'
+title: 'Under Armour 1309661-448 - Sudadera de R al 71.97 % de descuento'
 date: 2019/11/06 16:06:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Under Armour 1309661-448 - Sudadera de Ropa Deportiva para Niñas  Color Venetian Blue/Deceit  Talla Mediano](https://www.amazon.com/dp/B077XRNTWP/?tag=redken08-20) con 71.96666666666667 por 16.82 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Under Armour 1309661-448 - Sudadera de Ropa Deportiva para Niñas  Color Venetian Blue/Deceit  Talla Mediano](https://www.amazon.com/dp/B077XRNTWP/?tag=redken08-20) con 71.97 de descuento por 16.82 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61s-rulqdlL._SL200_.jpg)](https://www.amazon.com/dp/B077XRNTWP/?tag=redken08-20)
 

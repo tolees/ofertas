@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Astor Pro Manicure 7-en-1 Tratamiento de al 26.393442622950815 % de descuento'
+title: 'Astor Pro Manicure 7-en-1 Tratamiento de al 26.39 % de descuento'
 date: 2019/11/26 10:49:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mobVsDmML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mobVsDmML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.1 EUR
 inStock: true
 ---
 
-Está [Astor Pro Manicure 7-en-1 Tratamiento de Uñas](https://www.amazon.com/dp/B00JO7JNM6/?tag=redken08-20) con 26.393442622950815 por 4.49 EUR (original: 6.1 EUR) en el siguiente enlace!
+Está [Astor Pro Manicure 7-en-1 Tratamiento de Uñas](https://www.amazon.com/dp/B00JO7JNM6/?tag=redken08-20) con 26.39 de descuento por 4.49 EUR (original: 6.1 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mobVsDmML._SL200_.jpg)](https://www.amazon.com/dp/B00JO7JNM6/?tag=redken08-20)
 

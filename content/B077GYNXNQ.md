@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Manchester Big Logo SS T Ca al 60.15384615384616 % de descuento'
+title: 'Under Armour Manchester Big Logo SS T Ca al 60.15 % de descuento'
 date: 2019/11/10 14:19:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YfX2RSMlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YfX2RSMlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Está [Under Armour Manchester Big Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   S](https://www.amazon.com/dp/B077GYNXNQ/?tag=redken08-20) con 60.15384615384616 por 10.36 EUR (original: 26 EUR) en el siguiente enlace!
+Está [Under Armour Manchester Big Logo SS T Camiseta de Manga Corta  Hombre  Rojo  600   S](https://www.amazon.com/dp/B077GYNXNQ/?tag=redken08-20) con 60.15 de descuento por 10.36 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YfX2RSMlL._SL200_.jpg)](https://www.amazon.com/dp/B077GYNXNQ/?tag=redken08-20)
 

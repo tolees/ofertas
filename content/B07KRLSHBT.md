@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373  Zapatillas para Hombre  al 42.976470588235294 % de descuento'
+title: 'New Balance 373  Zapatillas para Hombre  al 42.98 % de descuento'
 date: 2019/11/20 10:04:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O9CmxzoML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O9CmxzoML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [New Balance 373  Zapatillas para Hombre  Rojo  Red Red   45 EU](https://www.amazon.com/dp/B07KRLSHBT/?tag=redken08-20) con 42.976470588235294 por 48.47 EUR (original: 85 EUR) en el siguiente enlace!
+Está [New Balance 373  Zapatillas para Hombre  Rojo  Red Red   45 EU](https://www.amazon.com/dp/B07KRLSHBT/?tag=redken08-20) con 42.98 de descuento por 48.47 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41O9CmxzoML._SL200_.jpg)](https://www.amazon.com/dp/B07KRLSHBT/?tag=redken08-20)
 

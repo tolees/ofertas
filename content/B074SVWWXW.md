@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Phantom Boardwalk 18.5  Bermuda al 45.166666666666664 % de descuento'
+title: 'Hurley M Phantom Boardwalk 18.5  Bermuda al 45.17 % de descuento'
 date: 2019/11/01 17:21:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j4myv7c1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j4myv7c1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Hurley M Phantom Boardwalk 18.5  Bermudas  Hombre  Khaki  30](https://www.amazon.com/dp/B074SVWWXW/?tag=redken08-20) con 45.166666666666664 por 32.9 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Hurley M Phantom Boardwalk 18.5  Bermudas  Hombre  Khaki  30](https://www.amazon.com/dp/B074SVWWXW/?tag=redken08-20) con 45.17 de descuento por 32.9 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41j4myv7c1L._SL200_.jpg)](https://www.amazon.com/dp/B074SVWWXW/?tag=redken08-20)
 

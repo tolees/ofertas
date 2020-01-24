@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Basic Pocket Label S Camiseta de al 48.03999999999999 % de descuento'
+title: 'Element Basic Pocket Label S Camiseta de al 48.04 % de descuento'
 date: 2019/11/30 17:48:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tNBYllIhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tNBYllIhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Element Basic Pocket Label S Camiseta de Manga Corta  Hombre  Negro  Flint Black   L](https://www.amazon.com/dp/B07KRMNCNM/?tag=redken08-20) a 12.99 EUR (original: 25 EUR) (48.03999999999999 %) en el siguiente enlace!
+Ahora mismo tienes [Element Basic Pocket Label S Camiseta de Manga Corta  Hombre  Negro  Flint Black   L](https://www.amazon.com/dp/B07KRMNCNM/?tag=redken08-20) a 12.99 EUR (original: 25 EUR) (48.04 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31tNBYllIhL._SL200_.jpg)](https://www.amazon.com/dp/B07KRMNCNM/?tag=redken08-20)
 

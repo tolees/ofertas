@@ -14,7 +14,7 @@ comparePrice: 12.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fuego Net 231296 - Deshollinador Pellets 231296-1 5Kg](https://www.amazon.com/dp/B00J8JE8QG/?tag=redken08-20) a 8.09 EUR (original: 12.5 EUR) (35.28 %) en el siguiente enlace!
+Ahora mismo tienes [Fuego Net 231296 - Deshollinador Pellets 231296-1 5Kg](https://www.amazon.com/dp/B00J8JE8QG/?tag=redken08-20) a 8.09 EUR (original: 12.5 EUR) (35.28 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51k2UvD2dxL._SL200_.jpg)](https://www.amazon.com/dp/B00J8JE8QG/?tag=redken08-20)
 

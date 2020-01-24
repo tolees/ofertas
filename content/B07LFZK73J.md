@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Adrien B  Zapatos de Cordones Oxf al 30.003198635248964 % de descuento'
+title: 'Geox U Adrien B  Zapatos de Cordones Oxf al 30.00 % de descuento'
 date: 2019/12/13 20:04:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dZ4Tg16kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dZ4Tg16kL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 93.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Geox U Adrien B  Zapatos de Cordones Oxford para Hombre  Azul  Navy C4002   46 EU](https://www.amazon.com/dp/B07LFZK73J/?tag=redken08-20) a 65.65 EUR (original: 93.79 EUR) (30.003198635248964 %) en el siguiente enlace!
+Ahora mismo tienes [Geox U Adrien B  Zapatos de Cordones Oxford para Hombre  Azul  Navy C4002   46 EU](https://www.amazon.com/dp/B07LFZK73J/?tag=redken08-20) a 65.65 EUR (original: 93.79 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dZ4Tg16kL._SL200_.jpg)](https://www.amazon.com/dp/B07LFZK73J/?tag=redken08-20)
 

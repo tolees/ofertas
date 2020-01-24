@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Cm997hv1  Zapatillas para Ho al 63.86666666666666 % de descuento'
+title: 'New Balance Cm997hv1  Zapatillas para Ho al 63.87 % de descuento'
 date: 2019/11/22 21:31:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HplG-8fAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HplG-8fAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Está [New Balance Cm997hv1  Zapatillas para Hombre  Blanco  White/Blue White/Blue   40 EU](https://www.amazon.com/dp/B07KRMHX4C/?tag=redken08-20) con 63.86666666666666 por 32.52 EUR (original: 90 EUR) en el siguiente enlace!
+Está [New Balance Cm997hv1  Zapatillas para Hombre  Blanco  White/Blue White/Blue   40 EU](https://www.amazon.com/dp/B07KRMHX4C/?tag=redken08-20) con 63.87 de descuento por 32.52 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HplG-8fAL._SL200_.jpg)](https://www.amazon.com/dp/B07KRMHX4C/?tag=redken08-20)
 

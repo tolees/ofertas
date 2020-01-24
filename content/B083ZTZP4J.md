@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TONGJI Acrylic Display Case For Lego 213 al 50.0 % de descuento'
+title: 'TONGJI Acrylic Display Case For Lego 213 al 50.00 % de descuento'
 date: 2020-01-20 10:37:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cRwyzoZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cRwyzoZML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 83.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [TONGJI Acrylic Display Case For Lego 21317 Ideas Disney Steamboat Willie   Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083ZTZP4J/?tag=redken08-20) a 41.99 GBP (original: 83.98 GBP) (50.0 %) en el siguiente enlace!
+Ahora mismo tienes [TONGJI Acrylic Display Case For Lego 21317 Ideas Disney Steamboat Willie   Box Dustproof Protection Showcase  Model Not Included ](https://www.amazon.com/dp/B083ZTZP4J/?tag=redken08-20) a 41.99 GBP (original: 83.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cRwyzoZML._SL200_.jpg)](https://www.amazon.com/dp/B083ZTZP4J/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M PRM OAO Small Box tee Camisetas al 66.23333333333333 % de descuento'
+title: 'Hurley M PRM OAO Small Box tee Camisetas al 66.23 % de descuento'
 date: 2019/11/02 18:07:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31opXjCBCIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31opXjCBCIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Hurley M PRM OAO Small Box tee Camisetas  Hombre  Spruce Fog  M](https://www.amazon.com/dp/B07K7ZNNC5/?tag=redken08-20) con 66.23333333333333 por 10.13 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Hurley M PRM OAO Small Box tee Camisetas  Hombre  Spruce Fog  M](https://www.amazon.com/dp/B07K7ZNNC5/?tag=redken08-20) con 66.23 de descuento por 10.13 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31opXjCBCIL._SL200_.jpg)](https://www.amazon.com/dp/B07K7ZNNC5/?tag=redken08-20)
 

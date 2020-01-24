@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS RT-AC88U - Router Gaming AC3100 Dob al 32.042071197411005 % de descuento'
+title: 'ASUS RT-AC88U - Router Gaming AC3100 Dob al 32.04 % de descuento'
 date: 2020-01-22 11:46:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mbFLOllkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mbFLOllkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 309 EUR
 inStock: true
 ---
 
-Está [ASUS RT-AC88U - Router Gaming AC3100 Doble Banda Gigabit  triple VLAN  Ai-Mesh soportado  WTFast acelerador de juegos  compatible con DD-WRT y con Ai Mesh wifi ](https://www.amazon.com/dp/B018WJTTG6/?tag=redken08-20) con 32.042071197411005 por 209.99 EUR (original: 309 EUR) en el siguiente enlace!
+Está [ASUS RT-AC88U - Router Gaming AC3100 Doble Banda Gigabit  triple VLAN  Ai-Mesh soportado  WTFast acelerador de juegos  compatible con DD-WRT y con Ai Mesh wifi ](https://www.amazon.com/dp/B018WJTTG6/?tag=redken08-20) con 32.04 de descuento por 209.99 EUR (original: 309 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mbFLOllkL._SL200_.jpg)](https://www.amazon.com/dp/B018WJTTG6/?tag=redken08-20)
 

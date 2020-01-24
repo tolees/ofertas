@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pedro del Hierro Poncho DET Flor Crochet al 66.61344537815125 % de descuento'
+title: 'Pedro del Hierro Poncho DET Flor Crochet al 66.61 % de descuento'
 date: 2019/10/05 12:11:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412tl0mavZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412tl0mavZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 EUR
 inStock: true
 ---
 
-Está [Pedro del Hierro Poncho DET Flor Crochet  Beige  Crudo 96   S para Mujer](https://www.amazon.com/dp/B078WTVP6K/?tag=redken08-20) con 66.61344537815125 por 39.73 EUR (original: 119 EUR) en el siguiente enlace!
+Está [Pedro del Hierro Poncho DET Flor Crochet  Beige  Crudo 96   S para Mujer](https://www.amazon.com/dp/B078WTVP6K/?tag=redken08-20) con 66.61 de descuento por 39.73 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/412tl0mavZL._SL200_.jpg)](https://www.amazon.com/dp/B078WTVP6K/?tag=redken08-20)
 

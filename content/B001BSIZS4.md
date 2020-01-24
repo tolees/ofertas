@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 57.80487804878048 % en Tous Touch 100ml'
+title: 'Descuento del 57.80 % en Tous Touch 100ml'
 date: 2020-01-18 11:29:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414KXaqH8TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414KXaqH8TL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 82 EUR
 inStock: true
 ---
 
-Tienes [Tous Touch 100ml](https://www.amazon.com/dp/B001BSIZS4/?tag=redken08-20) con un 57.80487804878048 % con precio de oferta de 34.6 EUR (original: 82 EUR) en el siguiente enlace!
+Tienes [Tous Touch 100ml](https://www.amazon.com/dp/B001BSIZS4/?tag=redken08-20) con un 57.80 % de descuento con precio de oferta de 34.6 EUR (original: 82 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414KXaqH8TL._SL200_.jpg)](https://www.amazon.com/dp/B001BSIZS4/?tag=redken08-20)
 

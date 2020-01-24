@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 26.759999999999994 % en Iris Ohyama  armario de 5 cajones sobre '
+title: 'Descuento del 26.76 % en Iris Ohyama  armario de 5 cajones sobre '
 date: 2019/10/29 17:04:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GZYlpoxnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GZYlpoxnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Tienes [Iris Ohyama  armario de 5 cajones sobre ruedas - Design Chest - DC-314  plástico  negro / transparente  67 L  40 x 29 x 92 cm](https://www.amazon.com/dp/B07KPP7H1W/?tag=redken08-20) con un 26.759999999999994 % con precio de oferta de 54.93 EUR (original: 75 EUR) en el siguiente enlace!
+Tienes [Iris Ohyama  armario de 5 cajones sobre ruedas - Design Chest - DC-314  plástico  negro / transparente  67 L  40 x 29 x 92 cm](https://www.amazon.com/dp/B07KPP7H1W/?tag=redken08-20) con un 26.76 % de descuento con precio de oferta de 54.93 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GZYlpoxnL._SL200_.jpg)](https://www.amazon.com/dp/B07KPP7H1W/?tag=redken08-20)
 

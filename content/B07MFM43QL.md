@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Desert London Leather Shoes in St al 39.36666666666666 % de descuento'
+title: 'Clarks Desert London Leather Shoes in St al 39.37 % de descuento'
 date: 2019/12/07 16:11:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bKTdx-2%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bKTdx-2%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 GBP
 inStock: true
 ---
 
-Está [Clarks Desert London Leather Shoes in Standard Fit Size 9 Black](https://www.amazon.com/dp/B07MFM43QL/?tag=redken08-20) con 39.36666666666666 por 54.57 GBP (original: 90 GBP) en el siguiente enlace!
+Está [Clarks Desert London Leather Shoes in Standard Fit Size 9 Black](https://www.amazon.com/dp/B07MFM43QL/?tag=redken08-20) con 39.37 de descuento por 54.57 GBP (original: 90 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31bKTdx-2%2BL._SL200_.jpg)](https://www.amazon.com/dp/B07MFM43QL/?tag=redken08-20)
 

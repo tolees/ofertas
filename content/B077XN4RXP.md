@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour - Camiseta de Manga Corta p al 63.7 % de descuento'
+title: 'Under Armour - Camiseta de Manga Corta p al 63.70 % de descuento'
 date: 2019/10/25 14:34:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Large](https://www.amazon.com/dp/B077XN4RXP/?tag=redken08-20) con 63.7 por 14.52 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Under Armour - Camiseta de Manga Corta para Hombre  Estilo Deportivo  Hombre  1320715-890  Radio Red/Black  Large](https://www.amazon.com/dp/B077XN4RXP/?tag=redken08-20) con 63.70 de descuento por 14.52 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg)](https://www.amazon.com/dp/B077XN4RXP/?tag=redken08-20)
 

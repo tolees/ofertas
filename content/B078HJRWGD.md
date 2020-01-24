@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY Tanga de Hilo de Algodón Mu al 40.426951300867245 % de descuento'
+title: 'IRIS & LILLY Tanga de Hilo de Algodón Mu al 40.43 % de descuento'
 date: 2019/10/05 11:09:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RXg%2BXkNNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RXg%2BXkNNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [IRIS & LILLY Tanga de Hilo de Algodón Mujer  Pack de 5  Blanco  White   X-Large](https://www.amazon.com/dp/B078HJRWGD/?tag=redken08-20) con 40.426951300867245 por 8.93 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [IRIS & LILLY Tanga de Hilo de Algodón Mujer  Pack de 5  Blanco  White   X-Large](https://www.amazon.com/dp/B078HJRWGD/?tag=redken08-20) con 40.43 de descuento por 8.93 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RXg%2BXkNNL._SL200_.jpg)](https://www.amazon.com/dp/B078HJRWGD/?tag=redken08-20)
 

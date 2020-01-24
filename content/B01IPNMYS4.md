@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Shoes ADYS700071  Zapatilla Hombre  A al 55.647058823529406 % de descuento'
+title: 'DC Shoes ADYS700071  Zapatilla Hombre  A al 55.65 % de descuento'
 date: 2019/12/02 18:36:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c0aJwomYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c0aJwomYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 85 EUR
 inStock: true
 ---
 
-Está [DC Shoes ADYS700071  Zapatilla Hombre  Azul  Navy   38.5 EU](https://www.amazon.com/dp/B01IPNMYS4/?tag=redken08-20) con 55.647058823529406 por 37.7 EUR (original: 85 EUR) en el siguiente enlace!
+Está [DC Shoes ADYS700071  Zapatilla Hombre  Azul  Navy   38.5 EU](https://www.amazon.com/dp/B01IPNMYS4/?tag=redken08-20) con 55.65 de descuento por 37.7 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41c0aJwomYL._SL200_.jpg)](https://www.amazon.com/dp/B01IPNMYS4/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Álvarez Gómez - Agua Fresca de Baño Clás al 56.62068965517242 % de descuento'
+title: 'Álvarez Gómez - Agua Fresca de Baño Clás al 56.62 % de descuento'
 date: 2019/10/09 14:32:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nwlmZU4%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nwlmZU4%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Álvarez Gómez - Agua Fresca de Baño Clásica - 750 ml](https://www.amazon.com/dp/B005KIUJ4O/?tag=redken08-20) a 6.29 EUR (original: 14.5 EUR) (56.62068965517242 %) en el siguiente enlace!
+Ahora mismo tienes [Álvarez Gómez - Agua Fresca de Baño Clásica - 750 ml](https://www.amazon.com/dp/B005KIUJ4O/?tag=redken08-20) a 6.29 EUR (original: 14.5 EUR) (56.62 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nwlmZU4%2BL._SL200_.jpg)](https://www.amazon.com/dp/B005KIUJ4O/?tag=redken08-20)
 

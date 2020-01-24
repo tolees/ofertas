@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 11001 Classic Bricks and Ideas Buil al 25.139043381535032 % de descuento'
+title: 'LEGO 11001 Classic Bricks and Ideas Buil al 25.14 % de descuento'
 date: 2019/12/13 08:54:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Pl9YVlUXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Pl9YVlUXL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.99 GBP
 inStock: true
 ---
 
-Está [LEGO 11001 Classic Bricks and Ideas Building Set with Eyes  Wheels and Hinges for Kids 4+ Years Old](https://www.amazon.com/dp/B07FNT8XBK/?tag=redken08-20) con 25.139043381535032 por 6.73 GBP (original: 8.99 GBP) en el siguiente enlace!
+Está [LEGO 11001 Classic Bricks and Ideas Building Set with Eyes  Wheels and Hinges for Kids 4+ Years Old](https://www.amazon.com/dp/B07FNT8XBK/?tag=redken08-20) con 25.14 de descuento por 6.73 GBP (original: 8.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Pl9YVlUXL._SL200_.jpg)](https://www.amazon.com/dp/B07FNT8XBK/?tag=redken08-20)
 

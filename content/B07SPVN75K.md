@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.86021505376344 % en Funko- Pop TV: La Casa de Papel-Helsinki'
+title: 'Descuento del 40.86 % en Funko- Pop TV: La Casa de Papel-Helsinki'
 date: 2020-01-24 15:09:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.95 EUR
 inStock: true
 ---
 
-Tienes [Funko- Pop TV: La Casa de Papel-Helsinki Collectible Figure  Multicolor  44194 ](https://www.amazon.com/dp/B07SPVN75K/?tag=redken08-20) con un 40.86021505376344 % con precio de oferta de 8.25 EUR (original: 13.95 EUR) en el siguiente enlace!
+Tienes [Funko- Pop TV: La Casa de Papel-Helsinki Collectible Figure  Multicolor  44194 ](https://www.amazon.com/dp/B07SPVN75K/?tag=redken08-20) con un 40.86 % de descuento con precio de oferta de 8.25 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31EO7QvJ2sL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SPVN75K/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Poseidon Sport Eau de Toilette para Homb al 32.770270270270274 % de descuento'
+title: 'Poseidon Sport Eau de Toilette para Homb al 32.77 % de descuento'
 date: 2019/12/22 20:26:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FXGxC01%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FXGxC01%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.8 EUR
 inStock: true
 ---
 
-Está [Poseidon Sport Eau de Toilette para Hombre - 150 ML](https://www.amazon.com/dp/B00XAITIFW/?tag=redken08-20) con 32.770270270270274 por 9.95 EUR (original: 14.8 EUR) en el siguiente enlace!
+Está [Poseidon Sport Eau de Toilette para Hombre - 150 ML](https://www.amazon.com/dp/B00XAITIFW/?tag=redken08-20) con 32.77 de descuento por 9.95 EUR (original: 14.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FXGxC01%2BL._SL200_.jpg)](https://www.amazon.com/dp/B00XAITIFW/?tag=redken08-20)
 

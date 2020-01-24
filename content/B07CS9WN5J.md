@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Ander Sudadera    Eclipse 968 al 53.65333333333333 % de descuento'
+title: 'Pepe Jeans Ander Sudadera    Eclipse 968 al 53.65 % de descuento'
 date: 2019/12/13 10:47:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BS4Y4Z%2BkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BS4Y4Z%2BkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Ander Sudadera    Eclipse 968   Medium para Hombre](https://www.amazon.com/dp/B07CS9WN5J/?tag=redken08-20) con 53.65333333333333 por 34.76 EUR (original: 75 EUR) en el siguiente enlace!
+Está [Pepe Jeans Ander Sudadera    Eclipse 968   Medium para Hombre](https://www.amazon.com/dp/B07CS9WN5J/?tag=redken08-20) con 53.65 de descuento por 34.76 EUR (original: 75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BS4Y4Z%2BkL._SL200_.jpg)](https://www.amazon.com/dp/B07CS9WN5J/?tag=redken08-20)
 

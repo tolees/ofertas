@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Diamond  32W / al 77.72095608671485 % de descuento'
+title: 'Lee Rider Jeans Vaqueros  Diamond  32W / al 77.72 % de descuento'
 date: 2019/10/20 14:53:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MVeG-Z3hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MVeG-Z3hL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Rider Jeans Vaqueros  Diamond  32W / 36L para Hombre](https://www.amazon.com/dp/B07JKWJCG7/?tag=redken08-20) a 20.04 EUR (original: 89.95 EUR) (77.72095608671485 %) en el siguiente enlace!
+Ahora mismo tienes [Lee Rider Jeans Vaqueros  Diamond  32W / 36L para Hombre](https://www.amazon.com/dp/B07JKWJCG7/?tag=redken08-20) a 20.04 EUR (original: 89.95 EUR) (77.72 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MVeG-Z3hL._SL200_.jpg)](https://www.amazon.com/dp/B07JKWJCG7/?tag=redken08-20)
 

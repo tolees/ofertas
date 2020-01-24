@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.849999999999994 % en Under Armour Armour Fleece Jogger Pantal'
+title: 'Descuento del 50.85 % en Under Armour Armour Fleece Jogger Pantal'
 date: 2019/12/02 11:16:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Tienes [Under Armour Armour Fleece Jogger Pantalones  Hombre  Azul  Academy/Black 408   M](https://www.amazon.com/dp/B077XQM4BC/?tag=redken08-20) con un 50.849999999999994 % con precio de oferta de 29.49 EUR (original: 60 EUR) en el siguiente enlace!
+Tienes [Under Armour Armour Fleece Jogger Pantalones  Hombre  Azul  Academy/Black 408   M](https://www.amazon.com/dp/B077XQM4BC/?tag=redken08-20) con un 50.85 % de descuento con precio de oferta de 29.49 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg)](https://www.amazon.com/dp/B077XQM4BC/?tag=redken08-20)
 

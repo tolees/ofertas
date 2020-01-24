@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.64270152505446 % en Funko 33991 POP Vinyl: Games: Fallout S2'
+title: 'Descuento del 45.64 % en Funko 33991 POP Vinyl: Games: Fallout S2'
 date: 2020-01-24 01:25:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tyRE5LmvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tyRE5LmvL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.18 GBP
 inStock: true
 ---
 
-Tienes [Funko 33991 POP Vinyl: Games: Fallout S2: Vault Boy  Nerd Rage   Multi](https://www.amazon.com/dp/B07HB3HKH1/?tag=redken08-20) con un 45.64270152505446 % con precio de oferta de 4.99 GBP (original: 9.18 GBP) en el siguiente enlace!
+Tienes [Funko 33991 POP Vinyl: Games: Fallout S2: Vault Boy  Nerd Rage   Multi](https://www.amazon.com/dp/B07HB3HKH1/?tag=redken08-20) con un 45.64 % de descuento con precio de oferta de 4.99 GBP (original: 9.18 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tyRE5LmvL._SL200_.jpg)](https://www.amazon.com/dp/B07HB3HKH1/?tag=redken08-20)
 

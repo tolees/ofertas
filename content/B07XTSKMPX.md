@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 47.36814401515949 % en Philips Hue Play White and Colour Ambian'
+title: 'Descuento del 47.37 % en Philips Hue Play White and Colour Ambian'
 date: 2019/11/28 10:41:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FDzGXi25L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FDzGXi25L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 189.98 GBP
 inStock: true
 ---
 
-Tienes [Philips Hue Play White and Colour Ambiance Smart Light Bar Double Pack Base Unit + Philips Hue Lightstrip Plus [2 m] Smart LED Kit  Works with Alexa  Google Assistant and Apple HomeKit ](https://www.amazon.com/dp/B07XTSKMPX/?tag=redken08-20) con un 47.36814401515949 % con precio de oferta de 99.99 GBP (original: 189.98 GBP) en el siguiente enlace!
+Tienes [Philips Hue Play White and Colour Ambiance Smart Light Bar Double Pack Base Unit + Philips Hue Lightstrip Plus [2 m] Smart LED Kit  Works with Alexa  Google Assistant and Apple HomeKit ](https://www.amazon.com/dp/B07XTSKMPX/?tag=redken08-20) con un 47.37 % de descuento con precio de oferta de 99.99 GBP (original: 189.98 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FDzGXi25L._SL200_.jpg)](https://www.amazon.com/dp/B07XTSKMPX/?tag=redken08-20)
 

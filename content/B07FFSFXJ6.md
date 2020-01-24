@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Dc Super-Villans - Xbox One [Edizio al 50.062578222778484 % de descuento'
+title: 'LEGO Dc Super-Villans - Xbox One [Edizio al 50.06 % de descuento'
 date: 2020-01-15 11:14:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Yi39HTeIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Yi39HTeIL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Está [LEGO Dc Super-Villans - Xbox One [Edizione: Spagna]](https://www.amazon.com/dp/B07FFSFXJ6/?tag=redken08-20) con 50.062578222778484 por 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!
+Está [LEGO Dc Super-Villans - Xbox One [Edizione: Spagna]](https://www.amazon.com/dp/B07FFSFXJ6/?tag=redken08-20) con 50.06 de descuento por 19.95 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Yi39HTeIL._SL200_.jpg)](https://www.amazon.com/dp/B07FFSFXJ6/?tag=redken08-20)
 

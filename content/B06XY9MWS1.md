@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Imperial Confort 617513  Topper Viscoelá al 33.589391860996784 % de descuento'
+title: 'Imperial Confort 617513  Topper Viscoelá al 33.59 % de descuento'
 date: 2019/12/10 06:03:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lxBGJBJEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lxBGJBJEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 109.35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Imperial Confort 617513  Topper Viscoelástico  135 x 190 cm - Grosor 5 cm](https://www.amazon.com/dp/B06XY9MWS1/?tag=redken08-20) a 72.62 EUR (original: 109.35 EUR) (33.589391860996784 %) en el siguiente enlace!
+Ahora mismo tienes [Imperial Confort 617513  Topper Viscoelástico  135 x 190 cm - Grosor 5 cm](https://www.amazon.com/dp/B06XY9MWS1/?tag=redken08-20) a 72.62 EUR (original: 109.35 EUR) (33.59 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lxBGJBJEL._SL200_.jpg)](https://www.amazon.com/dp/B06XY9MWS1/?tag=redken08-20)
 

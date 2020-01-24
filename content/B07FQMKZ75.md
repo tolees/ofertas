@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley Premium Icon Slash Gradient tee C al 42.666666666666664 % de descuento'
+title: 'Hurley Premium Icon Slash Gradient tee C al 42.67 % de descuento'
 date: 2019/11/20 19:14:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qiDsbI5dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qiDsbI5dL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley Premium Icon Slash Gradient tee Camiseta de Manga Corta  Hombre  Gris  Dark Grey Heather   M](https://www.amazon.com/dp/B07FQMKZ75/?tag=redken08-20) a 17.2 EUR (original: 30 EUR) (42.666666666666664 %) en el siguiente enlace!
+Ahora mismo tienes [Hurley Premium Icon Slash Gradient tee Camiseta de Manga Corta  Hombre  Gris  Dark Grey Heather   M](https://www.amazon.com/dp/B07FQMKZ75/?tag=redken08-20) a 17.2 EUR (original: 30 EUR) (42.67 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qiDsbI5dL._SL200_.jpg)](https://www.amazon.com/dp/B07FQMKZ75/?tag=redken08-20)
 

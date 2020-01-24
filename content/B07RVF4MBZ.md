@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Cush Low 3pp Socks  Unisex adulto al 30.055865921787706 % de descuento'
+title: 'adidas Cush Low 3pp Socks  Unisex adulto al 30.06 % de descuento'
 date: 2019/11/23 11:58:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xwGLuzMYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xwGLuzMYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.95 EUR
 inStock: true
 ---
 
-Está [adidas Cush Low 3pp Socks  Unisex adulto  medium grey heather/white/black  S](https://www.amazon.com/dp/B07RVF4MBZ/?tag=redken08-20) con 30.055865921787706 por 6.26 EUR (original: 8.95 EUR) en el siguiente enlace!
+Está [adidas Cush Low 3pp Socks  Unisex adulto  medium grey heather/white/black  S](https://www.amazon.com/dp/B07RVF4MBZ/?tag=redken08-20) con 30.06 de descuento por 6.26 EUR (original: 8.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31xwGLuzMYL._SL200_.jpg)](https://www.amazon.com/dp/B07RVF4MBZ/?tag=redken08-20)
 

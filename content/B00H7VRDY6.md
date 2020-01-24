@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El tiempo entre costuras  Serie completa al 61.44612746499 % de descuento'
+title: 'El tiempo entre costuras  Serie completa al 61.45 % de descuento'
 date: 2019/11/29 06:07:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Bl%2BaohBeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Bl%2BaohBeL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Está [El tiempo entre costuras  Serie completa   25 años A3  [DVD]](https://www.amazon.com/dp/B00H7VRDY6/?tag=redken08-20) con 61.44612746499 por 13.49 EUR (original: 34.99 EUR) en el siguiente enlace!
+Está [El tiempo entre costuras  Serie completa   25 años A3  [DVD]](https://www.amazon.com/dp/B00H7VRDY6/?tag=redken08-20) con 61.45 de descuento por 13.49 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Bl%2BaohBeL._SL200_.jpg)](https://www.amazon.com/dp/B00H7VRDY6/?tag=redken08-20)
 

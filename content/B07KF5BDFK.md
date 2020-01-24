@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Jacket  Chaqueta Vaquera  Azu al 25.5 % de descuento'
+title: 'Levi s The Jacket  Chaqueta Vaquera  Azu al 25.50 % de descuento'
 date: 2019/11/30 19:31:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cHCTRvUYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cHCTRvUYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Levi s The Jacket  Chaqueta Vaquera  Azul  Killebrew Trucker 0351   X-Small para Hombre](https://www.amazon.com/dp/B07KF5BDFK/?tag=redken08-20) con 25.5 por 81.95 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Levi s The Jacket  Chaqueta Vaquera  Azul  Killebrew Trucker 0351   X-Small para Hombre](https://www.amazon.com/dp/B07KF5BDFK/?tag=redken08-20) con 25.50 de descuento por 81.95 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cHCTRvUYL._SL200_.jpg)](https://www.amazon.com/dp/B07KF5BDFK/?tag=redken08-20)
 

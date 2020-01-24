@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 67.49458243040507 % en Dragon Quest Heroes II Explorer s Editio'
+title: 'Descuento del 67.49 % en Dragon Quest Heroes II Explorer s Editio'
 date: 2019/11/09 09:02:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/611L9HFSagL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/611L9HFSagL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Tienes [Dragon Quest Heroes II Explorer s Edition](https://www.amazon.com/dp/B01NGYYA0R/?tag=redken08-20) con un 67.49458243040507 % con precio de oferta de 19.5 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Dragon Quest Heroes II Explorer s Edition](https://www.amazon.com/dp/B01NGYYA0R/?tag=redken08-20) con un 67.49 % de descuento con precio de oferta de 19.5 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/611L9HFSagL._SL200_.jpg)](https://www.amazon.com/dp/B01NGYYA0R/?tag=redken08-20)
 

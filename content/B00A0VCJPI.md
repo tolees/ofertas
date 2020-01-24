@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TP-Link TL-WA850RE WLAN Repeater  300 Mb al 28.554216867469883 % de descuento'
+title: 'TP-Link TL-WA850RE WLAN Repeater  300 Mb al 28.55 % de descuento'
 date: 2019/10/19 21:12:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317TnYsgDdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317TnYsgDdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.9 EUR
 inStock: true
 ---
 
-Está [TP-Link TL-WA850RE WLAN Repeater  300 Mbit/s  WLAN Verstärker  App Steuerung  Ethernet-Port  WPS  AP Modus  LED abschaltbar  kompatibel zu allen WLAN Geräten  weiß](https://www.amazon.com/dp/B00A0VCJPI/?tag=redken08-20) con 28.554216867469883 por 17.79 EUR (original: 24.9 EUR) en el siguiente enlace!
+Está [TP-Link TL-WA850RE WLAN Repeater  300 Mbit/s  WLAN Verstärker  App Steuerung  Ethernet-Port  WPS  AP Modus  LED abschaltbar  kompatibel zu allen WLAN Geräten  weiß](https://www.amazon.com/dp/B00A0VCJPI/?tag=redken08-20) con 28.55 de descuento por 17.79 EUR (original: 24.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/317TnYsgDdL._SL200_.jpg)](https://www.amazon.com/dp/B00A0VCJPI/?tag=redken08-20)
 

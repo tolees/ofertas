@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MY EVENING DRESS Grace - Vestido para Mu al 91.70002668801708 % de descuento'
+title: 'MY EVENING DRESS Grace - Vestido para Mu al 91.70 % de descuento'
 date: 2020-01-14 14:30:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fdB%2BkNzoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fdB%2BkNzoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 74.94 EUR
 inStock: true
 ---
 
-Está [MY EVENING DRESS Grace - Vestido para Mujer  Verde  Dark Green H   talla del fabricante: 42](https://www.amazon.com/dp/B00FVYG8L0/?tag=redken08-20) con 91.70002668801708 por 6.22 EUR (original: 74.94 EUR) en el siguiente enlace!
+Está [MY EVENING DRESS Grace - Vestido para Mujer  Verde  Dark Green H   talla del fabricante: 42](https://www.amazon.com/dp/B00FVYG8L0/?tag=redken08-20) con 91.70 de descuento por 6.22 EUR (original: 74.94 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fdB%2BkNzoL._SL200_.jpg)](https://www.amazon.com/dp/B00FVYG8L0/?tag=redken08-20)
 

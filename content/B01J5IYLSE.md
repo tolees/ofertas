@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvo Atún Claro en Escabeche - Paquete  al 29.90347490347489 % de descuento'
+title: 'Calvo Atún Claro en Escabeche - Paquete  al 29.90 % de descuento'
 date: 2019/12/18 06:30:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QmnxSKClL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QmnxSKClL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51.8 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Calvo Atún Claro en Escabeche - Paquete de 20 x 240 gr - Total: 4800 gr](https://www.amazon.com/dp/B01J5IYLSE/?tag=redken08-20) a 36.31 EUR (original: 51.8 EUR) (29.90347490347489 %) en el siguiente enlace!
+Ahora mismo tienes [Calvo Atún Claro en Escabeche - Paquete de 20 x 240 gr - Total: 4800 gr](https://www.amazon.com/dp/B01J5IYLSE/?tag=redken08-20) a 36.31 EUR (original: 51.8 EUR) (29.90 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QmnxSKClL._SL200_.jpg)](https://www.amazon.com/dp/B01J5IYLSE/?tag=redken08-20)
 

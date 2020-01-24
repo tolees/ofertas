@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 200  Sandalias de Punta Abie al 61.10714285714285 % de descuento'
+title: 'New Balance 200  Sandalias de Punta Abie al 61.11 % de descuento'
 date: 2019/11/19 07:41:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s-HbWx%2BkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s-HbWx%2BkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28 EUR
 inStock: true
 ---
 
-Está [New Balance 200  Sandalias de Punta Abierta para Mujer  Negro  Black/White Black/White   37.5 EU](https://www.amazon.com/dp/B07DVLLDRG/?tag=redken08-20) con 61.10714285714285 por 10.89 EUR (original: 28 EUR) en el siguiente enlace!
+Está [New Balance 200  Sandalias de Punta Abierta para Mujer  Negro  Black/White Black/White   37.5 EU](https://www.amazon.com/dp/B07DVLLDRG/?tag=redken08-20) con 61.11 de descuento por 10.89 EUR (original: 28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31s-HbWx%2BkL._SL200_.jpg)](https://www.amazon.com/dp/B07DVLLDRG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma EVOSTRIPE Pants  Mujer  Black  S al 61.8348623853211 % de descuento'
+title: 'Puma EVOSTRIPE Pants  Mujer  Black  S al 61.83 % de descuento'
 date: 2019/10/21 13:41:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mpuy-5rKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mpuy-5rKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Puma EVOSTRIPE Pants  Mujer  Black  S](https://www.amazon.com/dp/B07DFS3GH9/?tag=redken08-20) con 61.8348623853211 por 22.88 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Puma EVOSTRIPE Pants  Mujer  Black  S](https://www.amazon.com/dp/B07DFS3GH9/?tag=redken08-20) con 61.83 de descuento por 22.88 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mpuy-5rKL._SL200_.jpg)](https://www.amazon.com/dp/B07DFS3GH9/?tag=redken08-20)
 

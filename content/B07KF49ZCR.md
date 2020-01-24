@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Levi s  Multicolor  Sportswear Polo W Tipping White/Brilliant Red/Dress Blue + Black/White 0002   Medium para Hombre](https://www.amazon.com/dp/B07KF49ZCR/?tag=redken08-20) con 56.86 por 21.57 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Levi s  Multicolor  Sportswear Polo W Tipping White/Brilliant Red/Dress Blue + Black/White 0002   Medium para Hombre](https://www.amazon.com/dp/B07KF49ZCR/?tag=redken08-20) con 56.86 de descuento por 21.57 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HKkKYLpjL._SL200_.jpg)](https://www.amazon.com/dp/B07KF49ZCR/?tag=redken08-20)
 

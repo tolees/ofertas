@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.046425939572586 % en LEGO MOVIE 2 70838 Queen Watevra s Space'
+title: 'Descuento del 41.05 % en LEGO MOVIE 2 70838 Queen Watevra s Space'
 date: 2019/12/30 09:20:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I3-8XqdpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I3-8XqdpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 94.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO MOVIE 2 70838 Queen Watevra s Space Palace Set with Mini-Spaceships and 6 Minifigures](https://www.amazon.com/dp/B07KQB4S7H/?tag=redken08-20) con un 41.046425939572586 % con precio de oferta de 56 GBP (original: 94.99 GBP) en el siguiente enlace!
+Tienes [LEGO MOVIE 2 70838 Queen Watevra s Space Palace Set with Mini-Spaceships and 6 Minifigures](https://www.amazon.com/dp/B07KQB4S7H/?tag=redken08-20) con un 41.05 % de descuento con precio de oferta de 56 GBP (original: 94.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51I3-8XqdpL._SL200_.jpg)](https://www.amazon.com/dp/B07KQB4S7H/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister Air Force 1 - Maleta  al 46.42857142857143 % de descuento'
+title: 'American Tourister Air Force 1 - Maleta  al 46.43 % de descuento'
 date: 2019/11/21 16:50:10 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 140 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [American Tourister Air Force 1 - Maleta  Azul  Gradient Blue   S  55cm-34L ](https://www.amazon.com/dp/B01CUONJG0/?tag=redken08-20) a 75 EUR (original: 140 EUR) (46.42857142857143 %) en el siguiente enlace!
+Ahora mismo tienes [American Tourister Air Force 1 - Maleta  Azul  Gradient Blue   S  55cm-34L ](https://www.amazon.com/dp/B01CUONJG0/?tag=redken08-20) a 75 EUR (original: 140 EUR) (46.43 %  de descuento) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B01CUONJG0/?tag=redken08-20)
 

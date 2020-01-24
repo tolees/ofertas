@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 34488 POP Vinyl  Juguete  modelos  al 49.786975045648205 % de descuento'
+title: 'Funko 34488 POP Vinyl  Juguete  modelos  al 49.79 % de descuento'
 date: 2020-01-10 19:05:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sm-1nKTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sm-1nKTSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.43 EUR
 inStock: true
 ---
 
-Está [Funko 34488 POP Vinyl  Juguete  modelos surtidos](https://www.amazon.com/dp/B07HJFNHCK/?tag=redken08-20) con 49.786975045648205 por 8.25 EUR (original: 16.43 EUR) en el siguiente enlace!
+Está [Funko 34488 POP Vinyl  Juguete  modelos surtidos](https://www.amazon.com/dp/B07HJFNHCK/?tag=redken08-20) con 49.79 de descuento por 8.25 EUR (original: 16.43 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51sm-1nKTSL._SL200_.jpg)](https://www.amazon.com/dp/B07HJFNHCK/?tag=redken08-20)
 

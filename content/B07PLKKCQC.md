@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M Dri-Fit Harvey Blocked Serape S/S Camisetas  Hombre  Armory Navy  S](https://www.amazon.com/dp/B07PLKKCQC/?tag=redken08-20) a 8.9 EUR (original: 40 EUR) (77.75 %) en el siguiente enlace!
+Ahora mismo tienes [Hurley M Dri-Fit Harvey Blocked Serape S/S Camisetas  Hombre  Armory Navy  S](https://www.amazon.com/dp/B07PLKKCQC/?tag=redken08-20) a 8.9 EUR (original: 40 EUR) (77.75 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416RZblbhML._SL200_.jpg)](https://www.amazon.com/dp/B07PLKKCQC/?tag=redken08-20)
 

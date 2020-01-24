@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Levi s SS Battery Hm Shirt Camisa  Blanco  White X 0000   Large para Hombre](https://www.amazon.com/dp/B07KF5BLZF/?tag=redken08-20) con 55.02 por 22.49 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Levi s SS Battery Hm Shirt Camisa  Blanco  White X 0000   Large para Hombre](https://www.amazon.com/dp/B07KF5BLZF/?tag=redken08-20) con 55.02 de descuento por 22.49 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qL2Q8K-zL._SL200_.jpg)](https://www.amazon.com/dp/B07KF5BLZF/?tag=redken08-20)
 

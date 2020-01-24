@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compex Electroestimulador  Unisex  Negro al 30.76923076923077 % de descuento'
+title: 'Compex Electroestimulador  Unisex  Negro al 30.77 % de descuento'
 date: 2020-01-15 03:53:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n5V0vPl3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n5V0vPl3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 429 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Compex Electroestimulador  Unisex  Negro](https://www.amazon.com/dp/B00NAJRSDK/?tag=redken08-20) a 297 EUR (original: 429 EUR) (30.76923076923077 %) en el siguiente enlace!
+Ahora mismo tienes [Compex Electroestimulador  Unisex  Negro](https://www.amazon.com/dp/B00NAJRSDK/?tag=redken08-20) a 297 EUR (original: 429 EUR) (30.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41n5V0vPl3L._SL200_.jpg)](https://www.amazon.com/dp/B00NAJRSDK/?tag=redken08-20)
 

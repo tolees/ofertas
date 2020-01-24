@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Expert Vitamino Color A-Ox - Cha al 43.843594009983356 % de descuento'
+title: 'L Oréal Expert Vitamino Color A-Ox - Cha al 43.84 % de descuento'
 date: 2019/11/07 13:18:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GmtM3lBVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GmtM3lBVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.04 EUR
 inStock: true
 ---
 
-Está [L Oréal Expert Vitamino Color A-Ox - Champú  500 ml](https://www.amazon.com/dp/B00UGK3KU6/?tag=redken08-20) con 43.843594009983356 por 13.5 EUR (original: 24.04 EUR) en el siguiente enlace!
+Está [L Oréal Expert Vitamino Color A-Ox - Champú  500 ml](https://www.amazon.com/dp/B00UGK3KU6/?tag=redken08-20) con 43.84 de descuento por 13.5 EUR (original: 24.04 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GmtM3lBVL._SL200_.jpg)](https://www.amazon.com/dp/B00UGK3KU6/?tag=redken08-20)
 

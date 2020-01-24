@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELEGOO Conjunto Medio de Iniciación Comp al 30.441400304414014 % de descuento'
+title: 'ELEGOO Conjunto Medio de Iniciación Comp al 30.44 % de descuento'
 date: 2020-01-13 13:03:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45.99 EUR
 inStock: true
 ---
 
-Está [ELEGOO Conjunto Medio de Iniciación Compatible con Arduino IDE con Tutorial en Español y Conjunto de Relé de 5V  Modulo de Fuente de Alimentación  Servomotor  UNO R3 Placa de Desarrollo de Prototipos](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20) con 30.441400304414014 por 31.99 EUR (original: 45.99 EUR) en el siguiente enlace!
+Está [ELEGOO Conjunto Medio de Iniciación Compatible con Arduino IDE con Tutorial en Español y Conjunto de Relé de 5V  Modulo de Fuente de Alimentación  Servomotor  UNO R3 Placa de Desarrollo de Prototipos](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20) con 30.44 de descuento por 31.99 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg)](https://www.amazon.com/dp/B01MXGST4I/?tag=redken08-20)
 

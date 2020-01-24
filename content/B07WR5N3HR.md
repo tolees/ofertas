@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TXXCI LED Light Kit Compatible with Lego al 50.0 % de descuento'
+title: 'TXXCI LED Light Kit Compatible with Lego al 50.00 % de descuento'
 date: 2020-01-24 09:40:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FjMwNpu7L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FjMwNpu7L._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 111.98 GBP
 inStock: true
 ---
 
-Está [TXXCI LED Light Kit Compatible with Lego 21318 Tree House  Not Include Model ](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20) con 50.0 por 55.99 GBP (original: 111.98 GBP) en el siguiente enlace!
+Está [TXXCI LED Light Kit Compatible with Lego 21318 Tree House  Not Include Model ](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20) con 50.00 de descuento por 55.99 GBP (original: 111.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51FjMwNpu7L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07WR5N3HR/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Remilio SS  Camiseta de equipación al 41.13636363636364 % de descuento'
+title: 'Kappa Remilio SS  Camiseta de equipación al 41.14 % de descuento'
 date: 2019/10/09 11:00:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d-a8uY4vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d-a8uY4vL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22 EUR
 inStock: true
 ---
 
-Está [Kappa Remilio SS  Camiseta de equipación Hombre  Multicolor  Verde / Blanco   M](https://www.amazon.com/dp/B00OHDAXUI/?tag=redken08-20) con 41.13636363636364 por 12.95 EUR (original: 22 EUR) en el siguiente enlace!
+Está [Kappa Remilio SS  Camiseta de equipación Hombre  Multicolor  Verde / Blanco   M](https://www.amazon.com/dp/B00OHDAXUI/?tag=redken08-20) con 41.14 de descuento por 12.95 EUR (original: 22 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31d-a8uY4vL._SL200_.jpg)](https://www.amazon.com/dp/B00OHDAXUI/?tag=redken08-20)
 

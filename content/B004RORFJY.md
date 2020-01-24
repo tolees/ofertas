@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Corrector Iluminador al 65.02145922746782 % de descuento'
+title: 'Maybelline New York Corrector Iluminador al 65.02 % de descuento'
 date: 2019/10/09 18:47:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nmF1b6LKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nmF1b6LKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.32 EUR
 inStock: true
 ---
 
-Está [Maybelline New York Corrector Iluminador Dream Lumi Touch 01 Ivory](https://www.amazon.com/dp/B004RORFJY/?tag=redken08-20) con 65.02145922746782 por 3.26 EUR (original: 9.32 EUR) en el siguiente enlace!
+Está [Maybelline New York Corrector Iluminador Dream Lumi Touch 01 Ivory](https://www.amazon.com/dp/B004RORFJY/?tag=redken08-20) con 65.02 de descuento por 3.26 EUR (original: 9.32 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nmF1b6LKL._SL200_.jpg)](https://www.amazon.com/dp/B004RORFJY/?tag=redken08-20)
 

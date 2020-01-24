@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour CG Jacquard Mock Camisa de  al 76.93333333333334 % de descuento'
+title: 'Under Armour CG Jacquard Mock Camisa de  al 76.93 % de descuento'
 date: 2019/11/04 12:39:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MKBTnzuiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MKBTnzuiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Under Armour CG Jacquard Mock Camisa de Manga Larga  Hombre  Blanco  XL](https://www.amazon.com/dp/B01M8KRHE6/?tag=redken08-20) con 76.93333333333334 por 13.84 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Under Armour CG Jacquard Mock Camisa de Manga Larga  Hombre  Blanco  XL](https://www.amazon.com/dp/B01M8KRHE6/?tag=redken08-20) con 76.93 de descuento por 13.84 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MKBTnzuiL._SL200_.jpg)](https://www.amazon.com/dp/B01M8KRHE6/?tag=redken08-20)
 

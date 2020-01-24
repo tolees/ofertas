@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 31938 Pint Sized Heroes Marvel Stu al 28.36468885672938 % de descuento'
+title: 'Funko 31938 Pint Sized Heroes Marvel Stu al 28.36 % de descuento'
 date: 2020-01-24 01:25:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YGRGao6vL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YGRGao6vL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 6.91 GBP
 inStock: true
 ---
 
-Está [Funko 31938 Pint Sized Heroes Marvel Studios 10: Blindbags 12pc PDQ  CDU 12  Collectible Figure  Multicolour](https://www.amazon.com/dp/B07DFCTKWH/?tag=redken08-20) con 28.36468885672938 por 4.95 GBP (original: 6.91 GBP) en el siguiente enlace!
+Está [Funko 31938 Pint Sized Heroes Marvel Studios 10: Blindbags 12pc PDQ  CDU 12  Collectible Figure  Multicolour](https://www.amazon.com/dp/B07DFCTKWH/?tag=redken08-20) con 28.36 de descuento por 4.95 GBP (original: 6.91 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51YGRGao6vL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07DFCTKWH/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carbonell - Aceite de oliva - 1 l - [pac al 31.600831600831604 % de descuento'
+title: 'Carbonell - Aceite de oliva - 1 l - [pac al 31.60 % de descuento'
 date: 2019/10/23 22:24:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jiDfCisFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jiDfCisFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.05 EUR
 inStock: true
 ---
 
-Está [Carbonell - Aceite de oliva - 1 l - [pack de 5]](https://www.amazon.com/dp/B01LZ4CJRH/?tag=redken08-20) con 31.600831600831604 por 16.45 EUR (original: 24.05 EUR) en el siguiente enlace!
+Está [Carbonell - Aceite de oliva - 1 l - [pack de 5]](https://www.amazon.com/dp/B01LZ4CJRH/?tag=redken08-20) con 31.60 de descuento por 16.45 EUR (original: 24.05 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jiDfCisFL._SL200_.jpg)](https://www.amazon.com/dp/B01LZ4CJRH/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.25125628140703 % en Sennheiser Momentum - Auriculares In-Ear'
+title: 'Descuento del 50.25 % en Sennheiser Momentum - Auriculares In-Ear'
 date: 2019/10/17 14:09:18 +0000
 thumbnailImage: ''
 images: [ '' ]
@@ -14,7 +14,7 @@ comparePrice: 199 EUR
 inStock: true
 ---
 
-Tienes [Sennheiser Momentum - Auriculares In-Ear inalámbricos  Bluetooth 4.1  NFC  USB  Qualcomm apt-X  Color Negro y Rojo](https://www.amazon.com/dp/B01MUAKETX/?tag=redken08-20) con un 50.25125628140703 % con precio de oferta de 99 EUR (original: 199 EUR) en el siguiente enlace!
+Tienes [Sennheiser Momentum - Auriculares In-Ear inalámbricos  Bluetooth 4.1  NFC  USB  Qualcomm apt-X  Color Negro y Rojo](https://www.amazon.com/dp/B01MUAKETX/?tag=redken08-20) con un 50.25 % de descuento con precio de oferta de 99 EUR (original: 199 EUR) en el siguiente enlace!
 
 [![]()](https://www.amazon.com/dp/B01MUAKETX/?tag=redken08-20)
 

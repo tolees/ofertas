@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Patriot 10  Zapatillas de Running  al 35.31372549019608 % de descuento'
+title: 'Asics Patriot 10  Zapatillas de Running  al 35.31 % de descuento'
 date: 2019/11/16 11:14:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gGqkkbQGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gGqkkbQGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/Skylight 003   38 EU](https://www.amazon.com/dp/B07K7PCNZY/?tag=redken08-20) a 32.99 EUR (original: 51 EUR) (35.31372549019608 %) en el siguiente enlace!
+Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/Skylight 003   38 EU](https://www.amazon.com/dp/B07K7PCNZY/?tag=redken08-20) a 32.99 EUR (original: 51 EUR) (35.31 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41gGqkkbQGL._SL200_.jpg)](https://www.amazon.com/dp/B07K7PCNZY/?tag=redken08-20)
 

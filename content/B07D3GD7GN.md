@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AURIQUE Leggings de Deporte Mujer  Gris  al 70.0 % de descuento'
+title: 'AURIQUE Leggings de Deporte Mujer  Gris  al 70.00 % de descuento'
 date: 2019/10/09 18:45:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PcOjnSmqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PcOjnSmqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [AURIQUE Leggings de Deporte Mujer  Gris  Grey Marl   38  Talla del Fabricante: Small ](https://www.amazon.com/dp/B07D3GD7GN/?tag=redken08-20) con 70.0 por 9 EUR (original: 30 EUR) en el siguiente enlace!
+Está [AURIQUE Leggings de Deporte Mujer  Gris  Grey Marl   38  Talla del Fabricante: Small ](https://www.amazon.com/dp/B07D3GD7GN/?tag=redken08-20) con 70.00 de descuento por 9 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41PcOjnSmqL._SL200_.jpg)](https://www.amazon.com/dp/B07D3GD7GN/?tag=redken08-20)
 

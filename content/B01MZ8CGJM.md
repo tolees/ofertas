@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Está [Dockers The Richmond Belt Cinturón  Marrón  13407 Brown 0002   No No Aplica  Talla del fabricante: 32  para Hombre](https://www.amazon.com/dp/B01MZ8CGJM/?tag=redken08-20) con 60.95 por 15.62 EUR (original: 40 EUR) en el siguiente enlace!
+Está [Dockers The Richmond Belt Cinturón  Marrón  13407 Brown 0002   No No Aplica  Talla del fabricante: 32  para Hombre](https://www.amazon.com/dp/B01MZ8CGJM/?tag=redken08-20) con 60.95 de descuento por 15.62 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MUEd3fgbL._SL200_.jpg)](https://www.amazon.com/dp/B01MZ8CGJM/?tag=redken08-20)
 

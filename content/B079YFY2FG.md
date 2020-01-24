@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop!- Pop Movies: Harry Potter-Tom al 44.96330887258172 % de descuento'
+title: 'Funko Pop!- Pop Movies: Harry Potter-Tom al 44.96 % de descuento'
 date: 2020-01-10 14:39:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r3LmzIggL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r3LmzIggL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop!- Pop Movies: Harry Potter-Tom Riddle Figura de Vinilo  Multicolor  Estándar  30032 ](https://www.amazon.com/dp/B079YFY2FG/?tag=redken08-20) a 8.25 EUR (original: 14.99 EUR) (44.96330887258172 %) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- Pop Movies: Harry Potter-Tom Riddle Figura de Vinilo  Multicolor  Estándar  30032 ](https://www.amazon.com/dp/B079YFY2FG/?tag=redken08-20) a 8.25 EUR (original: 14.99 EUR) (44.96 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41r3LmzIggL._SL200_.jpg)](https://www.amazon.com/dp/B079YFY2FG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Button Down Camisa  Marfil  Blueprin al 66.68890742285238 % de descuento'
+title: 'Lee Button Down Camisa  Marfil  Blueprin al 66.69 % de descuento'
 date: 2019/11/14 14:19:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FKguMztUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FKguMztUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.95 EUR
 inStock: true
 ---
 
-Está [Lee Button Down Camisa  Marfil  Blueprint Lh   Medium para Hombre](https://www.amazon.com/dp/B07FTNSV8X/?tag=redken08-20) con 66.68890742285238 por 19.97 EUR (original: 59.95 EUR) en el siguiente enlace!
+Está [Lee Button Down Camisa  Marfil  Blueprint Lh   Medium para Hombre](https://www.amazon.com/dp/B07FTNSV8X/?tag=redken08-20) con 66.69 de descuento por 19.97 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41FKguMztUL._SL200_.jpg)](https://www.amazon.com/dp/B07FTNSV8X/?tag=redken08-20)
 

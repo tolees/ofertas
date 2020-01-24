@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funda Moto G6  Joyguard Funda Motorola M al 55.09490509490509 % de descuento'
+title: 'Funda Moto G6  Joyguard Funda Motorola M al 55.09 % de descuento'
 date: 2019/10/28 19:34:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BepZDrc5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BepZDrc5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.02 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funda Moto G6  Joyguard Funda Motorola Moto G6 Anti-rasca Carcasa Moto G6 TPU Flexible Silicona Case para Moto G6-5.7 Pulgada - Negro](https://www.amazon.com/dp/B07CNS8VFJ/?tag=redken08-20) a 8.99 EUR (original: 20.02 EUR) (55.09490509490509 %) en el siguiente enlace!
+Ahora mismo tienes [Funda Moto G6  Joyguard Funda Motorola Moto G6 Anti-rasca Carcasa Moto G6 TPU Flexible Silicona Case para Moto G6-5.7 Pulgada - Negro](https://www.amazon.com/dp/B07CNS8VFJ/?tag=redken08-20) a 8.99 EUR (original: 20.02 EUR) (55.09 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2BepZDrc5L._SL200_.jpg)](https://www.amazon.com/dp/B07CNS8VFJ/?tag=redken08-20)
 

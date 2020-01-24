@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy A8 - Smartphone de 5.6"   al 36.873747494989985 % de descuento'
+title: 'Samsung Galaxy A8 - Smartphone de 5.6"   al 36.87 % de descuento'
 date: 2019/11/01 18:16:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Pv8GazOiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Pv8GazOiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 499 EUR
 inStock: true
 ---
 
-Está [Samsung Galaxy A8 - Smartphone de 5.6"  4G  Wifi  Bluetooth 5.0  Exynos 7885 Octa Core  32 GB memoria interna  4 GB RAM  cámara 16 MP  Android 7.0  versión española: incluye Samsung Pay  gris orquídea](https://www.amazon.com/dp/B078WBRMR5/?tag=redken08-20) con 36.873747494989985 por 315 EUR (original: 499 EUR) en el siguiente enlace!
+Está [Samsung Galaxy A8 - Smartphone de 5.6"  4G  Wifi  Bluetooth 5.0  Exynos 7885 Octa Core  32 GB memoria interna  4 GB RAM  cámara 16 MP  Android 7.0  versión española: incluye Samsung Pay  gris orquídea](https://www.amazon.com/dp/B078WBRMR5/?tag=redken08-20) con 36.87 de descuento por 315 EUR (original: 499 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Pv8GazOiL._SL200_.jpg)](https://www.amazon.com/dp/B078WBRMR5/?tag=redken08-20)
 

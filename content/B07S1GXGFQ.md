@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Cpt Soccer Ball  Hombres  White/R al 28.581661891117484 % de descuento'
+title: 'adidas Cpt Soccer Ball  Hombres  White/R al 28.58 % de descuento'
 date: 2020-01-20 14:51:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zaqt3lGaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zaqt3lGaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 13.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas Cpt Soccer Ball  Hombres  White/Rainbow Reflective  4](https://www.amazon.com/dp/B07S1GXGFQ/?tag=redken08-20) a 9.97 EUR (original: 13.96 EUR) (28.581661891117484 %) en el siguiente enlace!
+Ahora mismo tienes [adidas Cpt Soccer Ball  Hombres  White/Rainbow Reflective  4](https://www.amazon.com/dp/B07S1GXGFQ/?tag=redken08-20) a 9.97 EUR (original: 13.96 EUR) (28.58 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Zaqt3lGaL._SL200_.jpg)](https://www.amazon.com/dp/B07S1GXGFQ/?tag=redken08-20)
 

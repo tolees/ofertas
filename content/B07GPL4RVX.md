@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Tienes [Desigual T-Shirt Short Sleeve Apaches Woman Black Camiseta   Negro 2000   M para Mujer](https://www.amazon.com/dp/B07GPL4RVX/?tag=redken08-20) con un 59.88 % con precio de oferta de 20.06 EUR (original: 50 EUR) en el siguiente enlace!
+Tienes [Desigual T-Shirt Short Sleeve Apaches Woman Black Camiseta   Negro 2000   M para Mujer](https://www.amazon.com/dp/B07GPL4RVX/?tag=redken08-20) con un 59.88 % de descuento con precio de oferta de 20.06 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ewzPRqZNL._SL200_.jpg)](https://www.amazon.com/dp/B07GPL4RVX/?tag=redken08-20)
 

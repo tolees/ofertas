@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones NOS JJEHUGO tee SS Crew Nec al 66.14785992217898 % de descuento'
+title: 'Jack & Jones NOS JJEHUGO tee SS Crew Nec al 66.15 % de descuento'
 date: 2019/12/22 16:02:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XCqkU%2BQFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XCqkU%2BQFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jack & Jones NOS JJEHUGO tee SS Crew Neck Noos Camiseta  Blanco  White Detail:Slim FIT   M para Hombre](https://www.amazon.com/dp/B07MCSNQ1C/?tag=redken08-20) a 6.09 EUR (original: 17.99 EUR) (66.14785992217898 %) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones NOS JJEHUGO tee SS Crew Neck Noos Camiseta  Blanco  White Detail:Slim FIT   M para Hombre](https://www.amazon.com/dp/B07MCSNQ1C/?tag=redken08-20) a 6.09 EUR (original: 17.99 EUR) (66.15 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XCqkU%2BQFL._SL200_.jpg)](https://www.amazon.com/dp/B07MCSNQ1C/?tag=redken08-20)
 

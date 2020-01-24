@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Original Chaqueta Vaquera  Azul   al 75.84166666666667 % de descuento'
+title: 'Levi s Original Chaqueta Vaquera  Azul   al 75.84 % de descuento'
 date: 2019/10/08 20:37:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W%2BdMEcKzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W%2BdMEcKzL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 120 EUR
 inStock: true
 ---
 
-Está [Levi s Original Chaqueta Vaquera  Azul  Needlecraft Trucker 0080   X-Small para Mujer](https://www.amazon.com/dp/B07KF5BHZT/?tag=redken08-20) con 75.84166666666667 por 28.99 EUR (original: 120 EUR) en el siguiente enlace!
+Está [Levi s Original Chaqueta Vaquera  Azul  Needlecraft Trucker 0080   X-Small para Mujer](https://www.amazon.com/dp/B07KF5BHZT/?tag=redken08-20) con 75.84 de descuento por 28.99 EUR (original: 120 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41W%2BdMEcKzL._SL200_.jpg)](https://www.amazon.com/dp/B07KF5BHZT/?tag=redken08-20)
 

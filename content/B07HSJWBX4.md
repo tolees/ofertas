@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Number Of The Beast  CD + Figura  al 33.200290275761965 % de descuento'
+title: 'The Number Of The Beast  CD + Figura  al 33.20 % de descuento'
 date: 2020-01-23 23:34:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kyvAfY4GL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kyvAfY4GL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.56 EUR
 inStock: true
 ---
 
-Está [The Number Of The Beast  CD + Figura ](https://www.amazon.com/dp/B07HSJWBX4/?tag=redken08-20) con 33.200290275761965 por 18.41 EUR (original: 27.56 EUR) en el siguiente enlace!
+Está [The Number Of The Beast  CD + Figura ](https://www.amazon.com/dp/B07HSJWBX4/?tag=redken08-20) con 33.20 de descuento por 18.41 EUR (original: 27.56 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51kyvAfY4GL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HSJWBX4/?tag=redken08-20)
 

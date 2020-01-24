@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2750 COTU Classic  Zapatillas Un al 66.1864406779661 % de descuento'
+title: 'Superga 2750 COTU Classic  Zapatillas Un al 66.19 % de descuento'
 date: 2019/10/15 08:54:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTq5XYmAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTq5XYmAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Está [Superga 2750 COTU Classic  Zapatillas Unisex  Gris  Full Grey Sage  44 EU](https://www.amazon.com/dp/B002WGIY2G/?tag=redken08-20) con 66.1864406779661 por 19.95 EUR (original: 59 EUR) en el siguiente enlace!
+Está [Superga 2750 COTU Classic  Zapatillas Unisex  Gris  Full Grey Sage  44 EU](https://www.amazon.com/dp/B002WGIY2G/?tag=redken08-20) con 66.19 de descuento por 19.95 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41eTq5XYmAL._SL200_.jpg)](https://www.amazon.com/dp/B002WGIY2G/?tag=redken08-20)
 

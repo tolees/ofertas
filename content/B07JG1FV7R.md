@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Lacoste Th6386 Camiseta  Blanc 001   X-Small  Talla del fabricante: 2  para Hombre](https://www.amazon.com/dp/B07JG1FV7R/?tag=redken08-20) con 40.02 por 29.99 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Lacoste Th6386 Camiseta  Blanc 001   X-Small  Talla del fabricante: 2  para Hombre](https://www.amazon.com/dp/B07JG1FV7R/?tag=redken08-20) con 40.02 de descuento por 29.99 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SjKecy00L._SL200_.jpg)](https://www.amazon.com/dp/B07JG1FV7R/?tag=redken08-20)
 

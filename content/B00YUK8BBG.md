@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brooks Brothers Sport Non-Iron Oxford Sl al 58.883720930232556 % de descuento'
+title: 'Brooks Brothers Sport Non-Iron Oxford Sl al 58.88 % de descuento'
 date: 2019/10/13 12:26:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416VVBRX2DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416VVBRX2DL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129 EUR
 inStock: true
 ---
 
-Está [Brooks Brothers Sport Non-Iron Oxford Slim - Camisa para hombre  Azul  Blue 74   48/S](https://www.amazon.com/dp/B00YUK8BBG/?tag=redken08-20) con 58.883720930232556 por 53.04 EUR (original: 129 EUR) en el siguiente enlace!
+Está [Brooks Brothers Sport Non-Iron Oxford Slim - Camisa para hombre  Azul  Blue 74   48/S](https://www.amazon.com/dp/B00YUK8BBG/?tag=redken08-20) con 58.88 de descuento por 53.04 EUR (original: 129 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416VVBRX2DL._SL200_.jpg)](https://www.amazon.com/dp/B00YUK8BBG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas W E Lin Slim T Camiseta de Manga  al 34.887218045112775 % de descuento'
+title: 'adidas W E Lin Slim T Camiseta de Manga  al 34.89 % de descuento'
 date: 2020-01-05 19:34:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Está [adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Blanco  White/Black   2XL](https://www.amazon.com/dp/B07LFZG92K/?tag=redken08-20) con 34.887218045112775 por 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [adidas W E Lin Slim T Camiseta de Manga Corta  Mujer  Blanco  White/Black   2XL](https://www.amazon.com/dp/B07LFZG92K/?tag=redken08-20) con 34.89 de descuento por 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fwZonYvTL._SL200_.jpg)](https://www.amazon.com/dp/B07LFZG92K/?tag=redken08-20)
 

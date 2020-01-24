@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'De Longhi Dolce Gusto Jovia EDG250.R - C al 26.01123595505619 % de descuento'
+title: 'De Longhi Dolce Gusto Jovia EDG250.R - C al 26.01 % de descuento'
 date: 2020-01-10 11:08:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411HbwBpj8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411HbwBpj8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89 EUR
 inStock: true
 ---
 
-Está [De Longhi Dolce Gusto Jovia EDG250.R - Cafetera de cápsulas  15 bares de presión  color rojo](https://www.amazon.com/dp/B00J5ERY7O/?tag=redken08-20) con 26.01123595505619 por 65.85 EUR (original: 89 EUR) en el siguiente enlace!
+Está [De Longhi Dolce Gusto Jovia EDG250.R - Cafetera de cápsulas  15 bares de presión  color rojo](https://www.amazon.com/dp/B00J5ERY7O/?tag=redken08-20) con 26.01 de descuento por 65.85 EUR (original: 89 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411HbwBpj8L._SL200_.jpg)](https://www.amazon.com/dp/B00J5ERY7O/?tag=redken08-20)
 

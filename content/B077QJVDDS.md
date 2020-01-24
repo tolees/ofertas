@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Está [Hush Puppies Bertrand Cap Toe  Zapatos de Cordones Derby para Hombre  Marrón  Brown   43 EU](https://www.amazon.com/dp/B077QJVDDS/?tag=redken08-20) con 66.22 por 33.78 EUR (original: 100 EUR) en el siguiente enlace!
+Está [Hush Puppies Bertrand Cap Toe  Zapatos de Cordones Derby para Hombre  Marrón  Brown   43 EU](https://www.amazon.com/dp/B077QJVDDS/?tag=redken08-20) con 66.22 de descuento por 33.78 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TL-XxPbUL._SL200_.jpg)](https://www.amazon.com/dp/B077QJVDDS/?tag=redken08-20)
 

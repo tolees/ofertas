@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Blue Waters  3 al 62.601300650325165 % de descuento'
+title: 'Lee Rider Jeans Vaqueros  Blue Waters  3 al 62.60 % de descuento'
 date: 2019/10/30 18:47:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qImX7u66L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qImX7u66L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Rider Jeans Vaqueros  Blue Waters  30W / 34L para Hombre](https://www.amazon.com/dp/B079KGGRYL/?tag=redken08-20) a 37.38 EUR (original: 99.95 EUR) (62.601300650325165 %) en el siguiente enlace!
+Ahora mismo tienes [Lee Rider Jeans Vaqueros  Blue Waters  30W / 34L para Hombre](https://www.amazon.com/dp/B079KGGRYL/?tag=redken08-20) a 37.38 EUR (original: 99.95 EUR) (62.60 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qImX7u66L._SL200_.jpg)](https://www.amazon.com/dp/B079KGGRYL/?tag=redken08-20)
 

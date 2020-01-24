@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 34.30429481100122 % en Toshiba MQ01ABD0100 - Disco duro interno'
+title: 'Descuento del 34.30 % en Toshiba MQ01ABD0100 - Disco duro interno'
 date: 2019/12/12 15:40:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MExZzbSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MExZzbSRL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 73.81 EUR
 inStock: true
 ---
 
-Tienes [Toshiba MQ01ABD0100 - Disco duro interno  2 5"  1TB](https://www.amazon.com/dp/B009AYVNMQ/?tag=redken08-20) con un 34.30429481100122 % con precio de oferta de 48.49 EUR (original: 73.81 EUR) en el siguiente enlace!
+Tienes [Toshiba MQ01ABD0100 - Disco duro interno  2 5"  1TB](https://www.amazon.com/dp/B009AYVNMQ/?tag=redken08-20) con un 34.30 % de descuento con precio de oferta de 48.49 EUR (original: 73.81 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MExZzbSRL._SL200_.jpg)](https://www.amazon.com/dp/B009AYVNMQ/?tag=redken08-20)
 

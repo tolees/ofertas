@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Belt Cinturón  Negro  Black 01   80  al 60.20020020020021 % de descuento'
+title: 'Lee Belt Cinturón  Negro  Black 01   80  al 60.20 % de descuento'
 date: 2019/10/24 03:58:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mRgDq7iyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mRgDq7iyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Está [Lee Belt Cinturón  Negro  Black 01   80 para Mujer](https://www.amazon.com/dp/B07FTRGZ9B/?tag=redken08-20) con 60.20020020020021 por 19.88 EUR (original: 49.95 EUR) en el siguiente enlace!
+Está [Lee Belt Cinturón  Negro  Black 01   80 para Mujer](https://www.amazon.com/dp/B07FTRGZ9B/?tag=redken08-20) con 60.20 de descuento por 19.88 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mRgDq7iyL._SL200_.jpg)](https://www.amazon.com/dp/B07FTRGZ9B/?tag=redken08-20)
 

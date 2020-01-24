@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GRID [Importación francesa] al 31.004429204172023 % de descuento'
+title: 'GRID [Importación francesa] al 31.00 % de descuento'
 date: 2019/12/02 12:39:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5143fqDx-6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5143fqDx-6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [GRID [Importación francesa]](https://www.amazon.com/dp/B07SCNL27B/?tag=redken08-20) a 48.29 EUR (original: 69.99 EUR) (31.004429204172023 %) en el siguiente enlace!
+Ahora mismo tienes [GRID [Importación francesa]](https://www.amazon.com/dp/B07SCNL27B/?tag=redken08-20) a 48.29 EUR (original: 69.99 EUR) (31.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5143fqDx-6L._SL200_.jpg)](https://www.amazon.com/dp/B07SCNL27B/?tag=redken08-20)
 

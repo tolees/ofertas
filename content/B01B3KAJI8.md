@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Montana S33 gafas de sol  Multicolor  Tu al 30.667547918043624 % de descuento'
+title: 'Montana S33 gafas de sol  Multicolor  Tu al 30.67 % de descuento'
 date: 2020-01-20 16:57:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DylBB7xZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DylBB7xZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.13 EUR
 inStock: true
 ---
 
-Está [Montana S33 gafas de sol  Multicolor  Turtle + G15   Talla única Unisex Adulto](https://www.amazon.com/dp/B01B3KAJI8/?tag=redken08-20) con 30.667547918043624 por 10.49 EUR (original: 15.13 EUR) en el siguiente enlace!
+Está [Montana S33 gafas de sol  Multicolor  Turtle + G15   Talla única Unisex Adulto](https://www.amazon.com/dp/B01B3KAJI8/?tag=redken08-20) con 30.67 de descuento por 10.49 EUR (original: 15.13 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DylBB7xZL._SL200_.jpg)](https://www.amazon.com/dp/B01B3KAJI8/?tag=redken08-20)
 

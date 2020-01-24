@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Marsella Camisetas Equip. M/C  Homb al 33.44444444444444 % de descuento'
+title: 'Joma Marsella Camisetas Equip. M/C  Homb al 33.44 % de descuento'
 date: 2020-01-08 20:15:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9 EUR
 inStock: true
 ---
 
-Está [Joma Marsella Camisetas Equip. M/C  Hombre  Blanco  S](https://www.amazon.com/dp/B07FKLQN5H/?tag=redken08-20) con 33.44444444444444 por 5.99 EUR (original: 9 EUR) en el siguiente enlace!
+Está [Joma Marsella Camisetas Equip. M/C  Hombre  Blanco  S](https://www.amazon.com/dp/B07FKLQN5H/?tag=redken08-20) con 33.44 de descuento por 5.99 EUR (original: 9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31GEq-f26ML._SL200_.jpg)](https://www.amazon.com/dp/B07FKLQN5H/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.000000000000004 % en Pendientes medianos Super Power de Plata'
+title: 'Descuento del 30.00 % en Pendientes medianos Super Power de Plata'
 date: 2019/11/25 15:42:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jRUsgTyLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jRUsgTyLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 179 EUR
 inStock: true
 ---
 
-Tienes [Pendientes medianos Super Power de Plata Vermeil rosa con Gemas](https://www.amazon.com/dp/B07SC9PXXP/?tag=redken08-20) con un 30.000000000000004 % con precio de oferta de 125.3 EUR (original: 179 EUR) en el siguiente enlace!
+Tienes [Pendientes medianos Super Power de Plata Vermeil rosa con Gemas](https://www.amazon.com/dp/B07SC9PXXP/?tag=redken08-20) con un 30.00 % de descuento con precio de oferta de 125.3 EUR (original: 179 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31jRUsgTyLL._SL200_.jpg)](https://www.amazon.com/dp/B07SC9PXXP/?tag=redken08-20)
 

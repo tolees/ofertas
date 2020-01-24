@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 45.168816909140816 % en Hugo Boss 18693 - Agua de colonia'
+title: 'Descuento del 45.17 % en Hugo Boss 18693 - Agua de colonia'
 date: 2019/10/24 23:44:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IlwzRYPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IlwzRYPcL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 72.86 EUR
 inStock: true
 ---
 
-Tienes [Hugo Boss 18693 - Agua de colonia](https://www.amazon.com/dp/B001FWXHSE/?tag=redken08-20) con un 45.168816909140816 % con precio de oferta de 39.95 EUR (original: 72.86 EUR) en el siguiente enlace!
+Tienes [Hugo Boss 18693 - Agua de colonia](https://www.amazon.com/dp/B001FWXHSE/?tag=redken08-20) con un 45.17 % de descuento con precio de oferta de 39.95 EUR (original: 72.86 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IlwzRYPcL._SL200_.jpg)](https://www.amazon.com/dp/B001FWXHSE/?tag=redken08-20)
 

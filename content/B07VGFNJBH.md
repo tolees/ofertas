@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Super Monkey Ball: Banana Blitz HD - Xbo al 25.671641791044784 % de descuento'
+title: 'Super Monkey Ball: Banana Blitz HD - Xbo al 25.67 % de descuento'
 date: 2019/12/16 11:14:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m2eBPnlbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m2eBPnlbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 33.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Super Monkey Ball: Banana Blitz HD - Xbox One](https://www.amazon.com/dp/B07VGFNJBH/?tag=redken08-20) a 24.9 EUR (original: 33.5 EUR) (25.671641791044784 %) en el siguiente enlace!
+Ahora mismo tienes [Super Monkey Ball: Banana Blitz HD - Xbox One](https://www.amazon.com/dp/B07VGFNJBH/?tag=redken08-20) a 24.9 EUR (original: 33.5 EUR) (25.67 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51m2eBPnlbL._SL200_.jpg)](https://www.amazon.com/dp/B07VGFNJBH/?tag=redken08-20)
 

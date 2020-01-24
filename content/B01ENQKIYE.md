@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TATAY Urban Food Casual  - Bolsa térmica al 27.368421052631575 % de descuento'
+title: 'TATAY Urban Food Casual  - Bolsa térmica al 27.37 % de descuento'
 date: 2020-01-02 13:23:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jjvzy96kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jjvzy96kL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.95 EUR
 inStock: true
 ---
 
-Está [TATAY Urban Food Casual  - Bolsa térmica porta alimentos  con 4 tapers herméticos incluidos  3 litros de capacidad  Azul  22.5 x 10 x 22 cm](https://www.amazon.com/dp/B01ENQKIYE/?tag=redken08-20) con 27.368421052631575 por 14.49 EUR (original: 19.95 EUR) en el siguiente enlace!
+Está [TATAY Urban Food Casual  - Bolsa térmica porta alimentos  con 4 tapers herméticos incluidos  3 litros de capacidad  Azul  22.5 x 10 x 22 cm](https://www.amazon.com/dp/B01ENQKIYE/?tag=redken08-20) con 27.37 de descuento por 14.49 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51jjvzy96kL._SL200_.jpg)](https://www.amazon.com/dp/B01ENQKIYE/?tag=redken08-20)
 

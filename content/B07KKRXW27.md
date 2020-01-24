@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Naf Naf Kenr8d Vestido  Rosa  Framboise 391   36 para Mujer](https://www.amazon.com/dp/B07KKRXW27/?tag=redken08-20) con 50.95 por 29.43 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Naf Naf Kenr8d Vestido  Rosa  Framboise 391   36 para Mujer](https://www.amazon.com/dp/B07KKRXW27/?tag=redken08-20) con 50.95 de descuento por 29.43 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31-CU7awehL._SL200_.jpg)](https://www.amazon.com/dp/B07KKRXW27/?tag=redken08-20)
 

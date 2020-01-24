@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Superstar J  Unisex Adulto  Blanc al 39.957112223016445 % de descuento'
+title: 'adidas Superstar J  Unisex Adulto  Blanc al 39.96 % de descuento'
 date: 2020-01-23 19:49:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rB7YJa2yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rB7YJa2yL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [adidas Superstar J  Unisex Adulto  Blanco  Cloud White/Core Black/Cloud White 000   38 2/3 EU](https://www.amazon.com/dp/B07VVB69PS/?tag=redken08-20) con 39.957112223016445 por 42 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [adidas Superstar J  Unisex Adulto  Blanco  Cloud White/Core Black/Cloud White 000   38 2/3 EU](https://www.amazon.com/dp/B07VVB69PS/?tag=redken08-20) con 39.96 de descuento por 42 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rB7YJa2yL._SL200_.jpg)](https://www.amazon.com/dp/B07VVB69PS/?tag=redken08-20)
 

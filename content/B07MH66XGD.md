@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.0 % en Fossil Reloj de Bolsillo Analógico de Cu'
+title: 'Descuento del 50.00 % en Fossil Reloj de Bolsillo Analógico de Cu'
 date: 2019/12/01 02:14:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zaRQPj2gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zaRQPj2gL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169 EUR
 inStock: true
 ---
 
-Tienes [Fossil Reloj de Bolsillo Analógico de Cuarzo FTW5039](https://www.amazon.com/dp/B07MH66XGD/?tag=redken08-20) con un 50.0 % con precio de oferta de 84.5 EUR (original: 169 EUR) en el siguiente enlace!
+Tienes [Fossil Reloj de Bolsillo Analógico de Cuarzo FTW5039](https://www.amazon.com/dp/B07MH66XGD/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 84.5 EUR (original: 169 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41zaRQPj2gL._SL200_.jpg)](https://www.amazon.com/dp/B07MH66XGD/?tag=redken08-20)
 

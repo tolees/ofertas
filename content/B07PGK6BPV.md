@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Teléfono fijo DECT  juego al 25.004546281142026 % de descuento'
+title: 'AmazonBasics - Teléfono fijo DECT  juego al 25.00 % de descuento'
 date: 2019/11/25 18:35:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QzWX9--ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QzWX9--ML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Teléfono fijo DECT  juego de 2  negro](https://www.amazon.com/dp/B07PGK6BPV/?tag=redken08-20) a 41.24 EUR (original: 54.99 EUR) (25.004546281142026 %) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Teléfono fijo DECT  juego de 2  negro](https://www.amazon.com/dp/B07PGK6BPV/?tag=redken08-20) a 41.24 EUR (original: 54.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QzWX9--ML._SL200_.jpg)](https://www.amazon.com/dp/B07PGK6BPV/?tag=redken08-20)
 

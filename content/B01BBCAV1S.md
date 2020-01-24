@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guerlain Abeille Royale Soin Liftant Lèv al 37.22325382088273 % de descuento'
+title: 'Guerlain Abeille Royale Soin Liftant Lèv al 37.22 % de descuento'
 date: 2019/11/11 15:54:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314xjfxjvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314xjfxjvOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 70.01 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Guerlain Abeille Royale Soin Liftant Lèvres & Contours - 15 ml](https://www.amazon.com/dp/B01BBCAV1S/?tag=redken08-20) a 43.95 EUR (original: 70.01 EUR) (37.22325382088273 %) en el siguiente enlace!
+Ahora mismo tienes [Guerlain Abeille Royale Soin Liftant Lèvres & Contours - 15 ml](https://www.amazon.com/dp/B01BBCAV1S/?tag=redken08-20) a 43.95 EUR (original: 70.01 EUR) (37.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/314xjfxjvOL._SL200_.jpg)](https://www.amazon.com/dp/B01BBCAV1S/?tag=redken08-20)
 

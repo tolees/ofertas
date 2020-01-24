@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CHAMPU TEPEZCOHUITE 250 ml al 44.726368159203986 % de descuento'
+title: 'CHAMPU TEPEZCOHUITE 250 ml al 44.73 % de descuento'
 date: 2019/11/03 11:23:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IFUYXWdJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IFUYXWdJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 20.1 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [CHAMPU TEPEZCOHUITE 250 ml](https://www.amazon.com/dp/B00DN9KC5I/?tag=redken08-20) a 11.11 EUR (original: 20.1 EUR) (44.726368159203986 %) en el siguiente enlace!
+Ahora mismo tienes [CHAMPU TEPEZCOHUITE 250 ml](https://www.amazon.com/dp/B00DN9KC5I/?tag=redken08-20) a 11.11 EUR (original: 20.1 EUR) (44.73 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31IFUYXWdJL._SL200_.jpg)](https://www.amazon.com/dp/B00DN9KC5I/?tag=redken08-20)
 

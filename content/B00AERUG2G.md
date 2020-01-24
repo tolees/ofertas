@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Max Factor  Prebase  tono 40 ivory piel  al 48.37635303913406 % de descuento'
+title: 'Max Factor  Prebase  tono 40 ivory piel  al 48.38 % de descuento'
 date: 2019/12/05 06:07:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HxMMbvLFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HxMMbvLFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.01 EUR
 inStock: true
 ---
 
-Está [Max Factor  Prebase  tono 40 ivory piel sensible  tono de piel claro  - 30 ml.](https://www.amazon.com/dp/B00AERUG2G/?tag=redken08-20) con 48.37635303913406 por 6.2 EUR (original: 12.01 EUR) en el siguiente enlace!
+Está [Max Factor  Prebase  tono 40 ivory piel sensible  tono de piel claro  - 30 ml.](https://www.amazon.com/dp/B00AERUG2G/?tag=redken08-20) con 48.38 de descuento por 6.2 EUR (original: 12.01 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31HxMMbvLFL._SL200_.jpg)](https://www.amazon.com/dp/B00AERUG2G/?tag=redken08-20)
 

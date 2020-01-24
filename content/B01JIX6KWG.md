@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Two Dots - Mando Con Cable Pro Pad 4  PS al 33.666666666666664 % de descuento'
+title: 'Two Dots - Mando Con Cable Pro Pad 4  PS al 33.67 % de descuento'
 date: 2019/10/09 21:48:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N7RvOHV1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N7RvOHV1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Two Dots - Mando Con Cable Pro Pad 4  PS4 ](https://www.amazon.com/dp/B01JIX6KWG/?tag=redken08-20) a 25.87 EUR (original: 39 EUR) (33.666666666666664 %) en el siguiente enlace!
+Ahora mismo tienes [Two Dots - Mando Con Cable Pro Pad 4  PS4 ](https://www.amazon.com/dp/B01JIX6KWG/?tag=redken08-20) a 25.87 EUR (original: 39 EUR) (33.67 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51N7RvOHV1L._SL200_.jpg)](https://www.amazon.com/dp/B01JIX6KWG/?tag=redken08-20)
 

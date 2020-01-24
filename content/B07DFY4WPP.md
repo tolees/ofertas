@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Active Pants  Mujer  Negro Black  M al 50.71372956138075 % de descuento'
+title: 'Puma Active Pants  Mujer  Negro Black  M al 50.71 % de descuento'
 date: 2019/12/16 14:05:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jNkJlRWqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jNkJlRWqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38.53 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Active Pants  Mujer  Negro Black  M](https://www.amazon.com/dp/B07DFY4WPP/?tag=redken08-20) a 18.99 EUR (original: 38.53 EUR) (50.71372956138075 %) en el siguiente enlace!
+Ahora mismo tienes [Puma Active Pants  Mujer  Negro Black  M](https://www.amazon.com/dp/B07DFY4WPP/?tag=redken08-20) a 18.99 EUR (original: 38.53 EUR) (50.71 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31jNkJlRWqL._SL200_.jpg)](https://www.amazon.com/dp/B07DFY4WPP/?tag=redken08-20)
 

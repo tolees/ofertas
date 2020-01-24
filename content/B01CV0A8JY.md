@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caterpillar Elude Wp Botas Chukka Hombre al 30.000000000000004 % de descuento'
+title: 'Caterpillar Elude Wp Botas Chukka Hombre al 30.00 % de descuento'
 date: 2019/12/24 07:17:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PPClNlIxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PPClNlIxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 EUR
 inStock: true
 ---
 
-Está [Caterpillar Elude Wp Botas Chukka Hombre  Marrón  Dark Brown   41 EU](https://www.amazon.com/dp/B01CV0A8JY/?tag=redken08-20) con 30.000000000000004 por 105 EUR (original: 150 EUR) en el siguiente enlace!
+Está [Caterpillar Elude Wp Botas Chukka Hombre  Marrón  Dark Brown   41 EU](https://www.amazon.com/dp/B01CV0A8JY/?tag=redken08-20) con 30.00 de descuento por 105 EUR (original: 150 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31PPClNlIxL._SL200_.jpg)](https://www.amazon.com/dp/B01CV0A8JY/?tag=redken08-20)
 

@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Tienes [Under Armour UA W Breathe Lace  Zapatillas para Mujer  Blanco  White 104   35.5 EU](https://www.amazon.com/dp/B07HKGG47L/?tag=redken08-20) con un 54.25 % con precio de oferta de 36.6 EUR (original: 80 EUR) en el siguiente enlace!
+Tienes [Under Armour UA W Breathe Lace  Zapatillas para Mujer  Blanco  White 104   35.5 EU](https://www.amazon.com/dp/B07HKGG47L/?tag=redken08-20) con un 54.25 % de descuento con precio de oferta de 36.6 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg)](https://www.amazon.com/dp/B07HKGG47L/?tag=redken08-20)
 

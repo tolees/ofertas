@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BILLABONG Disaster Gorro  Hombre  Black  al 39.17391304347826 % de descuento'
+title: 'BILLABONG Disaster Gorro  Hombre  Black  al 39.17 % de descuento'
 date: 2019/12/11 15:37:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61rEMXXvZ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61rEMXXvZ3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 23 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BILLABONG Disaster Gorro  Hombre  Black Heather  U](https://www.amazon.com/dp/B07F1CR7VC/?tag=redken08-20) a 13.99 EUR (original: 23 EUR) (39.17391304347826 %) en el siguiente enlace!
+Ahora mismo tienes [BILLABONG Disaster Gorro  Hombre  Black Heather  U](https://www.amazon.com/dp/B07F1CR7VC/?tag=redken08-20) a 13.99 EUR (original: 23 EUR) (39.17 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61rEMXXvZ3L._SL200_.jpg)](https://www.amazon.com/dp/B07F1CR7VC/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nuei Cosmetics Gel Oh Holy Mary Sliding  al 25.52301255230125 % de descuento'
+title: 'Nuei Cosmetics Gel Oh Holy Mary Sliding  al 25.52 % de descuento'
 date: 2020-01-03 12:11:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BmeulpbFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BmeulpbFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nuei Cosmetics Gel Oh Holy Mary Sliding - 100 ml](https://www.amazon.com/dp/B01JIHQQ7Q/?tag=redken08-20) a 8.9 EUR (original: 11.95 EUR) (25.52301255230125 %) en el siguiente enlace!
+Ahora mismo tienes [Nuei Cosmetics Gel Oh Holy Mary Sliding - 100 ml](https://www.amazon.com/dp/B01JIHQQ7Q/?tag=redken08-20) a 8.9 EUR (original: 11.95 EUR) (25.52 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BmeulpbFL._SL200_.jpg)](https://www.amazon.com/dp/B01JIHQQ7Q/?tag=redken08-20)
 

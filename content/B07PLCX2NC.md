@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Derby Hat Gorras  Hombre  Spruc al 49.53333333333333 % de descuento'
+title: 'Hurley M Derby Hat Gorras  Hombre  Spruc al 49.53 % de descuento'
 date: 2019/11/04 07:25:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UdayC1HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UdayC1HL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M Derby Hat Gorras  Hombre  Spruce Fog  1SIZE](https://www.amazon.com/dp/B07PLCX2NC/?tag=redken08-20) a 15.14 EUR (original: 30 EUR) (49.53333333333333 %) en el siguiente enlace!
+Ahora mismo tienes [Hurley M Derby Hat Gorras  Hombre  Spruce Fog  1SIZE](https://www.amazon.com/dp/B07PLCX2NC/?tag=redken08-20) a 15.14 EUR (original: 30 EUR) (49.53 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/413UdayC1HL._SL200_.jpg)](https://www.amazon.com/dp/B07PLCX2NC/?tag=redken08-20)
 

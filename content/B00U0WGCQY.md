@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xiaomi Mi WiFi Repeater 2-300Mbps Wi-Fi  al 25.0 % de descuento'
+title: 'Xiaomi Mi WiFi Repeater 2-300Mbps Wi-Fi  al 25.00 % de descuento'
 date: 2019/12/30 17:01:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vjgpTiKxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vjgpTiKxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12 GBP
 inStock: true
 ---
 
-Está [Xiaomi Mi WiFi Repeater 2-300Mbps Wi-Fi Range Extender Amplifier  Wi-Fi Booster ](https://www.amazon.com/dp/B00U0WGCQY/?tag=redken08-20) con 25.0 por 9 GBP (original: 12 GBP) en el siguiente enlace!
+Está [Xiaomi Mi WiFi Repeater 2-300Mbps Wi-Fi Range Extender Amplifier  Wi-Fi Booster ](https://www.amazon.com/dp/B00U0WGCQY/?tag=redken08-20) con 25.00 de descuento por 9 GBP (original: 12 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vjgpTiKxL._SL200_.jpg)](https://www.amazon.com/dp/B00U0WGCQY/?tag=redken08-20)
 

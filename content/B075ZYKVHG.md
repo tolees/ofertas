@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Crossfade Camiseta de Ma al 64.5 % de descuento'
+title: 'Under Armour UA Crossfade Camiseta de Ma al 64.50 % de descuento'
 date: 2019/10/25 13:18:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dLuTPkw1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dLuTPkw1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Crossfade Camiseta de Manga Corta  Niños  Verde  701   L](https://www.amazon.com/dp/B075ZYKVHG/?tag=redken08-20) con 64.5 por 9.23 EUR (original: 26 EUR) en el siguiente enlace!
+Está [Under Armour UA Crossfade Camiseta de Manga Corta  Niños  Verde  701   L](https://www.amazon.com/dp/B075ZYKVHG/?tag=redken08-20) con 64.50 de descuento por 9.23 EUR (original: 26 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51dLuTPkw1L._SL200_.jpg)](https://www.amazon.com/dp/B075ZYKVHG/?tag=redken08-20)
 

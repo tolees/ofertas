@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom Super Clean BSC SS Camiseta  Homb al 47.0 % de descuento'
+title: 'Volcom Super Clean BSC SS Camiseta  Homb al 47.00 % de descuento'
 date: 2019/10/22 09:44:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BHIBbMQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BHIBbMQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Volcom Super Clean BSC SS Camiseta  Hombre  Light Peach  M](https://www.amazon.com/dp/B07KMSQQV4/?tag=redken08-20) con 47.0 por 15.9 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Volcom Super Clean BSC SS Camiseta  Hombre  Light Peach  M](https://www.amazon.com/dp/B07KMSQQV4/?tag=redken08-20) con 47.00 de descuento por 15.9 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41x%2BHIBbMQL._SL200_.jpg)](https://www.amazon.com/dp/B07KMSQQV4/?tag=redken08-20)
 

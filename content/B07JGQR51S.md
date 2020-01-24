@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAYJOY Funda iPhone XS MAX  Carcasa de L al 38.91050583657587 % de descuento'
+title: 'LAYJOY Funda iPhone XS MAX  Carcasa de L al 38.91 % de descuento'
 date: 2019/10/28 18:32:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31orHXZIWCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31orHXZIWCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 17.99 EUR
 inStock: true
 ---
 
-Está [LAYJOY Funda iPhone XS MAX  Carcasa de Ligera Silicona Suave TPU Gel Bumper y Transparente Cristal Templado Case de Protectora Anti-Golpes  Anti-Arañazos Cover Caso para iPhone XS MAX  Aurora -6.5"](https://www.amazon.com/dp/B07JGQR51S/?tag=redken08-20) con 38.91050583657587 por 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [LAYJOY Funda iPhone XS MAX  Carcasa de Ligera Silicona Suave TPU Gel Bumper y Transparente Cristal Templado Case de Protectora Anti-Golpes  Anti-Arañazos Cover Caso para iPhone XS MAX  Aurora -6.5"](https://www.amazon.com/dp/B07JGQR51S/?tag=redken08-20) con 38.91 de descuento por 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31orHXZIWCL._SL200_.jpg)](https://www.amazon.com/dp/B07JGQR51S/?tag=redken08-20)
 

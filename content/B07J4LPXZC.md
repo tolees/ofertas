@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Dockers Alpha Short-Stretch Twill Pantalones Cortos  Rosa  Brandied Apricot 0010   33W para Hombre](https://www.amazon.com/dp/B07J4LPXZC/?tag=redken08-20) con 79.05 por 12.57 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Dockers Alpha Short-Stretch Twill Pantalones Cortos  Rosa  Brandied Apricot 0010   33W para Hombre](https://www.amazon.com/dp/B07J4LPXZC/?tag=redken08-20) con 79.05 de descuento por 12.57 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31PMfCjno4L._SL200_.jpg)](https://www.amazon.com/dp/B07J4LPXZC/?tag=redken08-20)
 

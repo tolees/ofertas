@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.0 % en OwlFay Mädchen Prinzessin ELSA Kostüm Fr'
+title: 'Descuento del 50.00 % en OwlFay Mädchen Prinzessin ELSA Kostüm Fr'
 date: 2019/12/17 15:38:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ENct9E9rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ENct9E9rL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24.14 EUR
 inStock: true
 ---
 
-Tienes [OwlFay Mädchen Prinzessin ELSA Kostüm Frozen Ana Kleid für Kinder Blaue Schneekönigin Kleid Cosplay Party Karneval Halloween Outfit Gelb 9-10 Ans](https://www.amazon.com/dp/B0822WQZHR/?tag=redken08-20) con un 50.0 % con precio de oferta de 12.07 EUR (original: 24.14 EUR) en el siguiente enlace!
+Tienes [OwlFay Mädchen Prinzessin ELSA Kostüm Frozen Ana Kleid für Kinder Blaue Schneekönigin Kleid Cosplay Party Karneval Halloween Outfit Gelb 9-10 Ans](https://www.amazon.com/dp/B0822WQZHR/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 12.07 EUR (original: 24.14 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ENct9E9rL._SL200_.jpg)](https://www.amazon.com/dp/B0822WQZHR/?tag=redken08-20)
 

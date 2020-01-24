@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Protector de colchón acol al 49.982449982449985 % de descuento'
+title: 'AmazonBasics - Protector de colchón acol al 49.98 % de descuento'
 date: 2019/11/25 20:46:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S5IKH59EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S5IKH59EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AmazonBasics - Protector de colchón acolchado impermeable 90 x 190 cm](https://www.amazon.com/dp/B00V3HM9AS/?tag=redken08-20) a 14.25 EUR (original: 28.49 EUR) (49.982449982449985 %) en el siguiente enlace!
+Ahora mismo tienes [AmazonBasics - Protector de colchón acolchado impermeable 90 x 190 cm](https://www.amazon.com/dp/B00V3HM9AS/?tag=redken08-20) a 14.25 EUR (original: 28.49 EUR) (49.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31S5IKH59EL._SL200_.jpg)](https://www.amazon.com/dp/B00V3HM9AS/?tag=redken08-20)
 

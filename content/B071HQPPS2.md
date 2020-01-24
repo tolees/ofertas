@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 62.0 % en Asics T7E8N9096  Zapatillas de Running p'
+title: 'Descuento del 62.00 % en Asics T7E8N9096  Zapatillas de Running p'
 date: 2019/10/31 20:20:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pwDwL2GBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pwDwL2GBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Tienes [Asics T7E8N9096  Zapatillas de Running para Mujer  Negro  Black/Glacier Grey/Carbon   39.5 EU](https://www.amazon.com/dp/B071HQPPS2/?tag=redken08-20) con un 62.0 % con precio de oferta de 30.4 EUR (original: 80 EUR) en el siguiente enlace!
+Tienes [Asics T7E8N9096  Zapatillas de Running para Mujer  Negro  Black/Glacier Grey/Carbon   39.5 EU](https://www.amazon.com/dp/B071HQPPS2/?tag=redken08-20) con un 62.00 % de descuento con precio de oferta de 30.4 EUR (original: 80 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51pwDwL2GBL._SL200_.jpg)](https://www.amazon.com/dp/B071HQPPS2/?tag=redken08-20)
 

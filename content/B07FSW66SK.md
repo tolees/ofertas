@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.006251562890736 % en Castle Art Supplies - Juego de 72 lápice'
+title: 'Descuento del 25.01 % en Castle Art Supplies - Juego de 72 lápice'
 date: 2019/12/05 06:22:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UanVxZ4tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UanVxZ4tL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [Castle Art Supplies - Juego de 72 lápices de acuarela para adultos y profesionales - Premium Artist Lead con colores vibrantes y hermosos efectos de mezcla con agua](https://www.amazon.com/dp/B07FSW66SK/?tag=redken08-20) con un 25.006251562890736 % con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Castle Art Supplies - Juego de 72 lápices de acuarela para adultos y profesionales - Premium Artist Lead con colores vibrantes y hermosos efectos de mezcla con agua](https://www.amazon.com/dp/B07FSW66SK/?tag=redken08-20) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UanVxZ4tL._SL200_.jpg)](https://www.amazon.com/dp/B07FSW66SK/?tag=redken08-20)
 

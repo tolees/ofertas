@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.0 % en Citizen Eco-Drive Gents  Strap Watch'
+title: 'Descuento del 25.00 % en Citizen Eco-Drive Gents  Strap Watch'
 date: 2019/11/29 20:54:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DMIrh4Q%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DMIrh4Q%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 GBP
 inStock: true
 ---
 
-Tienes [Citizen Eco-Drive Gents  Strap Watch](https://www.amazon.com/dp/B002XUKUB4/?tag=redken08-20) con un 25.0 % con precio de oferta de 89.25 GBP (original: 119 GBP) en el siguiente enlace!
+Tienes [Citizen Eco-Drive Gents  Strap Watch](https://www.amazon.com/dp/B002XUKUB4/?tag=redken08-20) con un 25.00 % de descuento con precio de oferta de 89.25 GBP (original: 119 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DMIrh4Q%2BL._SL200_.jpg)](https://www.amazon.com/dp/B002XUKUB4/?tag=redken08-20)
 

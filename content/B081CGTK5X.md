@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Matuke LED Licht Set  DIY Leuchtende Bau al 30.000000000000004 % de descuento'
+title: 'Matuke LED Licht Set  DIY Leuchtende Bau al 30.00 % de descuento'
 date: 2019/12/11 14:31:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518%2BNq%2ByivL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518%2BNq%2ByivL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.7 EUR
 inStock: true
 ---
 
-Está [Matuke LED Licht Set  DIY Leuchtende Bausteine Beleuchtung Kit Kompatibel mit Lego NINJAGO 70620  USB-betrieben - Modell Nicht Enthalten](https://www.amazon.com/dp/B081CGTK5X/?tag=redken08-20) con 30.000000000000004 por 38.99 EUR (original: 55.7 EUR) en el siguiente enlace!
+Está [Matuke LED Licht Set  DIY Leuchtende Bausteine Beleuchtung Kit Kompatibel mit Lego NINJAGO 70620  USB-betrieben - Modell Nicht Enthalten](https://www.amazon.com/dp/B081CGTK5X/?tag=redken08-20) con 30.00 de descuento por 38.99 EUR (original: 55.7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518%2BNq%2ByivL._SL200_.jpg)](https://www.amazon.com/dp/B081CGTK5X/?tag=redken08-20)
 

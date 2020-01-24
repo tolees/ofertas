@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.0 % en Napapijri Eisberg SS Polo  Azul  BLU Mar'
+title: 'Descuento del 50.00 % en Napapijri Eisberg SS Polo  Azul  BLU Mar'
 date: 2020-01-08 08:17:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BG-nDDgxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BG-nDDgxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Tienes [Napapijri Eisberg SS Polo  Azul  BLU Marine 176   Large para Hombre](https://www.amazon.com/dp/B07MVJX82D/?tag=redken08-20) con un 50.0 % con precio de oferta de 29.5 EUR (original: 59 EUR) en el siguiente enlace!
+Tienes [Napapijri Eisberg SS Polo  Azul  BLU Marine 176   Large para Hombre](https://www.amazon.com/dp/B07MVJX82D/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 29.5 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BG-nDDgxL._SL200_.jpg)](https://www.amazon.com/dp/B07MVJX82D/?tag=redken08-20)
 

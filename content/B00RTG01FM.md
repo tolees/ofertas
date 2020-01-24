@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe Eurosmart  - Grifo de lavabo con v al 47.85364679451176 % de descuento'
+title: 'Grohe Eurosmart  - Grifo de lavabo con v al 47.85 % de descuento'
 date: 2020-01-22 00:13:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419HfdUQa3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419HfdUQa3L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 124.63 EUR
 inStock: true
 ---
 
-Está [Grohe Eurosmart  - Grifo de lavabo con vaciador automático  caño estándar  tecnología Grohe SilkMove  tecnología Grohe EcoJoy  Ref. 33265002 ](https://www.amazon.com/dp/B00RTG01FM/?tag=redken08-20) con 47.85364679451176 por 64.99 EUR (original: 124.63 EUR) en el siguiente enlace!
+Está [Grohe Eurosmart  - Grifo de lavabo con vaciador automático  caño estándar  tecnología Grohe SilkMove  tecnología Grohe EcoJoy  Ref. 33265002 ](https://www.amazon.com/dp/B00RTG01FM/?tag=redken08-20) con 47.85 de descuento por 64.99 EUR (original: 124.63 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/419HfdUQa3L._SL200_.jpg)](https://www.amazon.com/dp/B00RTG01FM/?tag=redken08-20)
 

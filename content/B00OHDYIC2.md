@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Norcia Short de Baloncesto  Mujer  Azul  Roy   M](https://www.amazon.com/dp/B00OHDYIC2/?tag=redken08-20) a 10.45 EUR (original: 20 EUR) (47.75 %) en el siguiente enlace!
+Ahora mismo tienes [Kappa Norcia Short de Baloncesto  Mujer  Azul  Roy   M](https://www.amazon.com/dp/B00OHDYIC2/?tag=redken08-20) a 10.45 EUR (original: 20 EUR) (47.75 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51xskbzn%2BbL._SL200_.jpg)](https://www.amazon.com/dp/B00OHDYIC2/?tag=redken08-20)
 

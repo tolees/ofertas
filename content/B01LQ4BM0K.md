@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Goliathus Control Fissure Medium - al 45.022511255627805 % de descuento'
+title: 'Razer Goliathus Control Fissure Medium - al 45.02 % de descuento'
 date: 2019/10/31 16:34:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bBu9veTGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bBu9veTGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [Razer Goliathus Control Fissure Medium - Suave alfombrilla de ratón para juegos](https://www.amazon.com/dp/B01LQ4BM0K/?tag=redken08-20) con 45.022511255627805 por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [Razer Goliathus Control Fissure Medium - Suave alfombrilla de ratón para juegos](https://www.amazon.com/dp/B01LQ4BM0K/?tag=redken08-20) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bBu9veTGL._SL200_.jpg)](https://www.amazon.com/dp/B01LQ4BM0K/?tag=redken08-20)
 

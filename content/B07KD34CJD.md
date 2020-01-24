@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M DRI-FIT Coronado Top S/S Partes al 62.28571428571429 % de descuento'
+title: 'Hurley M DRI-FIT Coronado Top S/S Partes al 62.29 % de descuento'
 date: 2019/11/12 10:36:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aR3QE%2BXPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aR3QE%2BXPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Está [Hurley M DRI-FIT Coronado Top S/S Partes DE Arriba  Hombre  dk Char Heather  XXL](https://www.amazon.com/dp/B07KD34CJD/?tag=redken08-20) con 62.28571428571429 por 13.2 EUR (original: 35 EUR) en el siguiente enlace!
+Está [Hurley M DRI-FIT Coronado Top S/S Partes DE Arriba  Hombre  dk Char Heather  XXL](https://www.amazon.com/dp/B07KD34CJD/?tag=redken08-20) con 62.29 de descuento por 13.2 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aR3QE%2BXPL._SL200_.jpg)](https://www.amazon.com/dp/B07KD34CJD/?tag=redken08-20)
 

@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Tienes [Hurley M One&Only 2.0 Woven S/S Camisas  Hombre  Blue Ox  S](https://www.amazon.com/dp/B00HQ1U5LU/?tag=redken08-20) con un 78.02 % con precio de oferta de 10.99 EUR (original: 50 EUR) en el siguiente enlace!
+Tienes [Hurley M One&Only 2.0 Woven S/S Camisas  Hombre  Blue Ox  S](https://www.amazon.com/dp/B00HQ1U5LU/?tag=redken08-20) con un 78.02 % de descuento con precio de oferta de 10.99 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414oU8DranL._SL200_.jpg)](https://www.amazon.com/dp/B00HQ1U5LU/?tag=redken08-20)
 

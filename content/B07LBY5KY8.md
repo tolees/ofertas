@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calendario 2019 De Mesa Con Acuarelas De al 50.0 % de descuento'
+title: 'Calendario 2019 De Mesa Con Acuarelas De al 50.00 % de descuento'
 date: 2019/12/09 19:08:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rjvJhDkCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rjvJhDkCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12 EUR
 inStock: true
 ---
 
-Está [Calendario 2019 De Mesa Con Acuarelas De Las Vistas De Venecia. Made In Italy](https://www.amazon.com/dp/B07LBY5KY8/?tag=redken08-20) con 50.0 por 6 EUR (original: 12 EUR) en el siguiente enlace!
+Está [Calendario 2019 De Mesa Con Acuarelas De Las Vistas De Venecia. Made In Italy](https://www.amazon.com/dp/B07LBY5KY8/?tag=redken08-20) con 50.00 de descuento por 6 EUR (original: 12 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41rjvJhDkCL._SL200_.jpg)](https://www.amazon.com/dp/B07LBY5KY8/?tag=redken08-20)
 

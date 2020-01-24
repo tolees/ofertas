@@ -14,7 +14,7 @@ comparePrice: 100 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 680  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Magnet   40.5 EU](https://www.amazon.com/dp/B01NBA8I7X/?tag=redken08-20) a 44.08 EUR (original: 100 EUR) (55.92 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance 680  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Magnet   40.5 EU](https://www.amazon.com/dp/B01NBA8I7X/?tag=redken08-20) a 44.08 EUR (original: 100 EUR) (55.92 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51QDuvHuUlL._SL200_.jpg)](https://www.amazon.com/dp/B01NBA8I7X/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel London Supercurler Máscara de Pes al 28.037383177570096 % de descuento'
+title: 'Rimmel London Supercurler Máscara de Pes al 28.04 % de descuento'
 date: 2020-01-17 17:06:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTj2JXuqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTj2JXuqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel London Supercurler Máscara de Pestañas Tono Black - 25 31 gr](https://www.amazon.com/dp/B015CMHOZE/?tag=redken08-20) a 5.39 EUR (original: 7.49 EUR) (28.037383177570096 %) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Supercurler Máscara de Pestañas Tono Black - 25 31 gr](https://www.amazon.com/dp/B015CMHOZE/?tag=redken08-20) a 5.39 EUR (original: 7.49 EUR) (28.04 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41%2BTj2JXuqL._SL200_.jpg)](https://www.amazon.com/dp/B015CMHOZE/?tag=redken08-20)
 

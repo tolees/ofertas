@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hugo BOSS Unisex-Adult Multi dial Quartz al 40.26666666666667 % de descuento'
+title: 'Hugo BOSS Unisex-Adult Multi dial Quartz al 40.27 % de descuento'
 date: 2019/10/29 11:44:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51On75cFuML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51On75cFuML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 150 GBP
 inStock: true
 ---
 
-Está [Hugo BOSS Unisex-Adult Multi dial Quartz Watch with Leather Strap 1502420](https://www.amazon.com/dp/B07B9YPT2L/?tag=redken08-20) con 40.26666666666667 por 89.6 GBP (original: 150 GBP) en el siguiente enlace!
+Está [Hugo BOSS Unisex-Adult Multi dial Quartz Watch with Leather Strap 1502420](https://www.amazon.com/dp/B07B9YPT2L/?tag=redken08-20) con 40.27 de descuento por 89.6 GBP (original: 150 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51On75cFuML._SL200_.jpg)](https://www.amazon.com/dp/B07B9YPT2L/?tag=redken08-20)
 

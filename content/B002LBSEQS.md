@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 54.49152542372882 % en Samson SR850 - Auriculares de diadema ce'
+title: 'Descuento del 54.49 % en Samson SR850 - Auriculares de diadema ce'
 date: 2019/12/04 08:33:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MScvELJiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MScvELJiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59 EUR
 inStock: true
 ---
 
-Tienes [Samson SR850 - Auriculares de diadema cerrados  10 Hz a 30 kHz  32 ohmios   color negro](https://www.amazon.com/dp/B002LBSEQS/?tag=redken08-20) con un 54.49152542372882 % con precio de oferta de 26.85 EUR (original: 59 EUR) en el siguiente enlace!
+Tienes [Samson SR850 - Auriculares de diadema cerrados  10 Hz a 30 kHz  32 ohmios   color negro](https://www.amazon.com/dp/B002LBSEQS/?tag=redken08-20) con un 54.49 % de descuento con precio de oferta de 26.85 EUR (original: 59 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MScvELJiL._SL200_.jpg)](https://www.amazon.com/dp/B002LBSEQS/?tag=redken08-20)
 

@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Está [Collar De Adiestramiento De Cmoanmi 100% Resistente Al Agua Y Recargable para Perros Pequeños  Medianos Y Grandes  Nivel IP67 con Control Remoto De 300m De Alcance  Modo Pitido/Vibración](https://www.amazon.com/dp/B07K2VW1TD/?tag=redken08-20) con 26.02 por 36.99 EUR (original: 50 EUR) en el siguiente enlace!
+Está [Collar De Adiestramiento De Cmoanmi 100% Resistente Al Agua Y Recargable para Perros Pequeños  Medianos Y Grandes  Nivel IP67 con Control Remoto De 300m De Alcance  Modo Pitido/Vibración](https://www.amazon.com/dp/B07K2VW1TD/?tag=redken08-20) con 26.02 de descuento por 36.99 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MnGk7qLiL._SL200_.jpg)](https://www.amazon.com/dp/B07K2VW1TD/?tag=redken08-20)
 

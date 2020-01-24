@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio Reloj de Pulsera GA-100B-4AER al 41.94194194194194 % de descuento'
+title: 'Casio Reloj de Pulsera GA-100B-4AER al 41.94 % de descuento'
 date: 2019/10/27 17:57:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EfMzEsHUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EfMzEsHUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.9 EUR
 inStock: true
 ---
 
-Está [Casio Reloj de Pulsera GA-100B-4AER](https://www.amazon.com/dp/B005FEY8YK/?tag=redken08-20) con 41.94194194194194 por 58 EUR (original: 99.9 EUR) en el siguiente enlace!
+Está [Casio Reloj de Pulsera GA-100B-4AER](https://www.amazon.com/dp/B005FEY8YK/?tag=redken08-20) con 41.94 de descuento por 58 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EfMzEsHUL._SL200_.jpg)](https://www.amazon.com/dp/B005FEY8YK/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Backpedal  Zapatillas Casual pa al 60.595621735748416 % de descuento'
+title: 'Columbia Backpedal  Zapatillas Casual pa al 60.60 % de descuento'
 date: 2019/11/03 22:15:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YKFzIn6dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YKFzIn6dL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Está [Columbia Backpedal  Zapatillas Casual para Hombre  Negro  Shark  Mountain Red   42.5 EU](https://www.amazon.com/dp/B07DV6CD4W/?tag=redken08-20) con 60.595621735748416 por 35.46 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [Columbia Backpedal  Zapatillas Casual para Hombre  Negro  Shark  Mountain Red   42.5 EU](https://www.amazon.com/dp/B07DV6CD4W/?tag=redken08-20) con 60.60 de descuento por 35.46 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41YKFzIn6dL._SL200_.jpg)](https://www.amazon.com/dp/B07DV6CD4W/?tag=redken08-20)
 

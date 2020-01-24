@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic Pique Polo  Azul  Sea S al 48.0 % de descuento'
+title: 'Superdry Classic Pique Polo  Azul  Sea S al 48.00 % de descuento'
 date: 2019/12/02 11:47:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fxl4XEOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fxl4XEOuL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 55.75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superdry Classic Pique Polo  Azul  Sea Spray Grit S2p   L para Hombre](https://www.amazon.com/dp/B07MZJQH5B/?tag=redken08-20) a 28.99 EUR (original: 55.75 EUR) (48.0 %) en el siguiente enlace!
+Ahora mismo tienes [Superdry Classic Pique Polo  Azul  Sea Spray Grit S2p   L para Hombre](https://www.amazon.com/dp/B07MZJQH5B/?tag=redken08-20) a 28.99 EUR (original: 55.75 EUR) (48.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fxl4XEOuL._SL200_.jpg)](https://www.amazon.com/dp/B07MZJQH5B/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 42.40173524385435 % en ROYAL SLEEP Colchón viscoelástico 140x19'
+title: 'Descuento del 42.40 % en ROYAL SLEEP Colchón viscoelástico 140x19'
 date: 2019/10/23 13:19:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n45gXU-cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n45gXU-cL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 152.14 EUR
 inStock: true
 ---
 
-Tienes [ROYAL SLEEP Colchón viscoelástico 140x190 de máxima Calidad  Confort y firmeza Alta  Altura 14cm. Colchones Xfresh](https://www.amazon.com/dp/B07L9C5GLG/?tag=redken08-20) con un 42.40173524385435 % con precio de oferta de 87.63 EUR (original: 152.14 EUR) en el siguiente enlace!
+Tienes [ROYAL SLEEP Colchón viscoelástico 140x190 de máxima Calidad  Confort y firmeza Alta  Altura 14cm. Colchones Xfresh](https://www.amazon.com/dp/B07L9C5GLG/?tag=redken08-20) con un 42.40 % de descuento con precio de oferta de 87.63 EUR (original: 152.14 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51n45gXU-cL._SL200_.jpg)](https://www.amazon.com/dp/B07L9C5GLG/?tag=redken08-20)
 

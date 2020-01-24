@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher Kit para el hogar  2.863-002.0  al 35.89140658401027 % de descuento'
+title: 'Kärcher Kit para el hogar  2.863-002.0  al 35.89 % de descuento'
 date: 2019/10/23 17:06:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NMYuF5LML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NMYuF5LML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 46.78 EUR
 inStock: true
 ---
 
-Está [Kärcher Kit para el hogar  2.863-002.0 ](https://www.amazon.com/dp/B00HWF1JKG/?tag=redken08-20) con 35.89140658401027 por 29.99 EUR (original: 46.78 EUR) en el siguiente enlace!
+Está [Kärcher Kit para el hogar  2.863-002.0 ](https://www.amazon.com/dp/B00HWF1JKG/?tag=redken08-20) con 35.89 de descuento por 29.99 EUR (original: 46.78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31NMYuF5LML._SL200_.jpg)](https://www.amazon.com/dp/B00HWF1JKG/?tag=redken08-20)
 

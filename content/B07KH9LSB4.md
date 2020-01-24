@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Rush 3/4 Legging Legging al 67.27787964660776 % de descuento'
+title: 'Under Armour UA Rush 3/4 Legging Legging al 67.28 % de descuento'
 date: 2019/10/05 14:44:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vtLclye-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vtLclye-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Rush 3/4 Legging Leggings  Hombre  Gris  Mod Gray/Black 011   L](https://www.amazon.com/dp/B07KH9LSB4/?tag=redken08-20) con 67.27787964660776 por 19.63 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Under Armour UA Rush 3/4 Legging Leggings  Hombre  Gris  Mod Gray/Black 011   L](https://www.amazon.com/dp/B07KH9LSB4/?tag=redken08-20) con 67.28 de descuento por 19.63 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vtLclye-L._SL200_.jpg)](https://www.amazon.com/dp/B07KH9LSB4/?tag=redken08-20)
 

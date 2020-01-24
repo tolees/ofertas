@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.081270317579396 % en LEGO Harry Potter und der Gefangene von '
+title: 'Descuento del 25.08 % en LEGO Harry Potter und der Gefangene von '
 date: 2020-01-23 17:51:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO Harry Potter und der Gefangene von Askaban - Der Fahrende Ritter  75957   Bauset](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) con un 25.081270317579396 % con precio de oferta de 29.96 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [LEGO Harry Potter und der Gefangene von Askaban - Der Fahrende Ritter  75957   Bauset](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20) con un 25.08 % de descuento con precio de oferta de 29.96 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51wFxIyqP5L._SL200_.jpg)](https://www.amazon.com/dp/B07KX54VHF/?tag=redken08-20)
 

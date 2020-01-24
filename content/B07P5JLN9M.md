@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Combi Camisetas Equip. M/c  Hombre  al 31.931818181818183 % de descuento'
+title: 'Joma Combi Camisetas Equip. M/c  Hombre  al 31.93 % de descuento'
 date: 2019/12/27 19:23:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RSmDwC3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RSmDwC3zL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 8.8 EUR
 inStock: true
 ---
 
-Está [Joma Combi Camisetas Equip. M/c  Hombre  Burdeos  2XL-3XL](https://www.amazon.com/dp/B07P5JLN9M/?tag=redken08-20) con 31.931818181818183 por 5.99 EUR (original: 8.8 EUR) en el siguiente enlace!
+Está [Joma Combi Camisetas Equip. M/c  Hombre  Burdeos  2XL-3XL](https://www.amazon.com/dp/B07P5JLN9M/?tag=redken08-20) con 31.93 de descuento por 5.99 EUR (original: 8.8 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31RSmDwC3zL._SL200_.jpg)](https://www.amazon.com/dp/B07P5JLN9M/?tag=redken08-20)
 

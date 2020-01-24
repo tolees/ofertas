@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TFA 301042 - Termómetro digital para fri al 47.5 % de descuento'
+title: 'TFA 301042 - Termómetro digital para fri al 47.50 % de descuento'
 date: 2019/10/19 19:18:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B5Vsr6nVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B5Vsr6nVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 24 EUR
 inStock: true
 ---
 
-Está [TFA 301042 - Termómetro digital para frigoríficos](https://www.amazon.com/dp/B004A0UPTW/?tag=redken08-20) con 47.5 por 12.6 EUR (original: 24 EUR) en el siguiente enlace!
+Está [TFA 301042 - Termómetro digital para frigoríficos](https://www.amazon.com/dp/B004A0UPTW/?tag=redken08-20) con 47.50 de descuento por 12.6 EUR (original: 24 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51B5Vsr6nVL._SL200_.jpg)](https://www.amazon.com/dp/B004A0UPTW/?tag=redken08-20)
 

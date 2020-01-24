@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 61.363636363636374 % en Tigi 57427 - Champú  750 ml'
+title: 'Descuento del 61.36 % en Tigi 57427 - Champú  750 ml'
 date: 2019/10/09 22:31:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oAjrMELqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oAjrMELqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35.2 EUR
 inStock: true
 ---
 
-Tienes [Tigi 57427 - Champú  750 ml](https://www.amazon.com/dp/B00ENNVIYC/?tag=redken08-20) con un 61.363636363636374 % con precio de oferta de 13.6 EUR (original: 35.2 EUR) en el siguiente enlace!
+Tienes [Tigi 57427 - Champú  750 ml](https://www.amazon.com/dp/B00ENNVIYC/?tag=redken08-20) con un 61.36 % de descuento con precio de oferta de 13.6 EUR (original: 35.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31oAjrMELqL._SL200_.jpg)](https://www.amazon.com/dp/B00ENNVIYC/?tag=redken08-20)
 

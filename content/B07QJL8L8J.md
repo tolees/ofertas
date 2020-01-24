@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Kid s MCFC HOME Shirt Replica SS Jr al 49.97855611150822 % de descuento'
+title: 'Puma Kid s MCFC HOME Shirt Replica SS Jr al 49.98 % de descuento'
 date: 2019/11/27 20:39:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HMMb6F0WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HMMb6F0WL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Está [Puma Kid s MCFC HOME Shirt Replica SS Jr with Sponsor Logo Jersey  Team Light Blue-Tillandsia Purple  116](https://www.amazon.com/dp/B07QJL8L8J/?tag=redken08-20) con 49.97855611150822 por 34.99 EUR (original: 69.95 EUR) en el siguiente enlace!
+Está [Puma Kid s MCFC HOME Shirt Replica SS Jr with Sponsor Logo Jersey  Team Light Blue-Tillandsia Purple  116](https://www.amazon.com/dp/B07QJL8L8J/?tag=redken08-20) con 49.98 de descuento por 34.99 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HMMb6F0WL._SL200_.jpg)](https://www.amazon.com/dp/B07QJL8L8J/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Head Radical 26 Raqueta de Tenis  Bebé-N al 42.365591397849464 % de descuento'
+title: 'Head Radical 26 Raqueta de Tenis  Bebé-N al 42.37 % de descuento'
 date: 2019/12/01 16:53:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JtTlzpiEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JtTlzpiEL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 37.2 EUR
 inStock: true
 ---
 
-Está [Head Radical 26 Raqueta de Tenis  Bebé-Niños  Naranja/Azul](https://www.amazon.com/dp/B075XRPHHB/?tag=redken08-20) con 42.365591397849464 por 21.44 EUR (original: 37.2 EUR) en el siguiente enlace!
+Está [Head Radical 26 Raqueta de Tenis  Bebé-Niños  Naranja/Azul](https://www.amazon.com/dp/B075XRPHHB/?tag=redken08-20) con 42.37 de descuento por 21.44 EUR (original: 37.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41JtTlzpiEL._SL200_.jpg)](https://www.amazon.com/dp/B075XRPHHB/?tag=redken08-20)
 

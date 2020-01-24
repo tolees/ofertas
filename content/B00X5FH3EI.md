@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disney Infinity 3.0 - Star Wars: Starter al 83.41390231705284 % de descuento'
+title: 'Disney Infinity 3.0 - Star Wars: Starter al 83.41 % de descuento'
 date: 2019/10/17 10:25:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TQuAsIjpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TQuAsIjpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Disney Infinity 3.0 - Star Wars: Starter Pack  Incluye Figura Anakin Y Ashoka ](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20) a 9.95 EUR (original: 59.99 EUR) (83.41390231705284 %) en el siguiente enlace!
+Ahora mismo tienes [Disney Infinity 3.0 - Star Wars: Starter Pack  Incluye Figura Anakin Y Ashoka ](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20) a 9.95 EUR (original: 59.99 EUR) (83.41 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51TQuAsIjpL._SL200_.jpg)](https://www.amazon.com/dp/B00X5FH3EI/?tag=redken08-20)
 

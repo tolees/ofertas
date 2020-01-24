@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Tienes [Pepe Jeans Original Basic S/S PM503835 Camiseta  Gris  Grey Marl 933   Medium para Hombre](https://www.amazon.com/dp/B06XTM4GH2/?tag=redken08-20) con un 35.25 % con precio de oferta de 12.95 EUR (original: 20 EUR) en el siguiente enlace!
+Tienes [Pepe Jeans Original Basic S/S PM503835 Camiseta  Gris  Grey Marl 933   Medium para Hombre](https://www.amazon.com/dp/B06XTM4GH2/?tag=redken08-20) con un 35.25 % de descuento con precio de oferta de 12.95 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417PzA1mjyL._SL200_.jpg)](https://www.amazon.com/dp/B06XTM4GH2/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio EDIFICE Reloj en caja sólida de ac al 26.226890756302513 % de descuento'
+title: 'Casio EDIFICE Reloj en caja sólida de ac al 26.23 % de descuento'
 date: 2019/12/17 14:11:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XiT7LlNHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XiT7LlNHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 119 EUR
 inStock: true
 ---
 
-Está [Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Bronceado  para Hombre  con Correa de Cuero  EFR-547L-7AVUEF](https://www.amazon.com/dp/B00SSX2HJI/?tag=redken08-20) con 26.226890756302513 por 87.79 EUR (original: 119 EUR) en el siguiente enlace!
+Está [Casio EDIFICE Reloj en caja sólida de acero inoxidable  10 BAR  Bronceado  para Hombre  con Correa de Cuero  EFR-547L-7AVUEF](https://www.amazon.com/dp/B00SSX2HJI/?tag=redken08-20) con 26.23 de descuento por 87.79 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51XiT7LlNHL._SL200_.jpg)](https://www.amazon.com/dp/B00SSX2HJI/?tag=redken08-20)
 

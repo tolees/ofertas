@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.0 % en Scuderia Ferrari Reloj de Pulsera 830615'
+title: 'Descuento del 25.00 % en Scuderia Ferrari Reloj de Pulsera 830615'
 date: 2020-01-06 15:17:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TPExLNKAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TPExLNKAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Tienes [Scuderia Ferrari Reloj de Pulsera 830615](https://www.amazon.com/dp/B07KTQQHYS/?tag=redken08-20) con un 25.0 % con precio de oferta de 74.25 EUR (original: 99 EUR) en el siguiente enlace!
+Tienes [Scuderia Ferrari Reloj de Pulsera 830615](https://www.amazon.com/dp/B07KTQQHYS/?tag=redken08-20) con un 25.00 % de descuento con precio de oferta de 74.25 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41TPExLNKAL._SL200_.jpg)](https://www.amazon.com/dp/B07KTQQHYS/?tag=redken08-20)
 

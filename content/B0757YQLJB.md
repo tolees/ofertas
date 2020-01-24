@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 60.0 % en find. Vaqueros Skinny con Rotos Hombre G'
+title: 'Descuento del 60.00 % en find. Vaqueros Skinny con Rotos Hombre G'
 date: 2019/12/20 11:42:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1y7uF5IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t1y7uF5IL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.25 EUR
 inStock: true
 ---
 
-Tienes [find. Vaqueros Skinny con Rotos Hombre Gris  Grey Wash  W36/L34](https://www.amazon.com/dp/B0757YQLJB/?tag=redken08-20) con un 60.0 % con precio de oferta de 10.5 EUR (original: 26.25 EUR) en el siguiente enlace!
+Tienes [find. Vaqueros Skinny con Rotos Hombre Gris  Grey Wash  W36/L34](https://www.amazon.com/dp/B0757YQLJB/?tag=redken08-20) con un 60.00 % de descuento con precio de oferta de 10.5 EUR (original: 26.25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41t1y7uF5IL._SL200_.jpg)](https://www.amazon.com/dp/B0757YQLJB/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Esprit 029EE2F009 Camisa Casual  Blanco  al 62.615653913478376 % de descuento'
+title: 'Esprit 029EE2F009 Camisa Casual  Blanco  al 62.62 % de descuento'
 date: 2019/11/07 17:13:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uO2VFajML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uO2VFajML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Está [Esprit 029EE2F009 Camisa Casual  Blanco  White 100   XL para Hombre](https://www.amazon.com/dp/B07LGLPSHR/?tag=redken08-20) con 62.615653913478376 por 14.95 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Esprit 029EE2F009 Camisa Casual  Blanco  White 100   XL para Hombre](https://www.amazon.com/dp/B07LGLPSHR/?tag=redken08-20) con 62.62 de descuento por 14.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41uO2VFajML._SL200_.jpg)](https://www.amazon.com/dp/B07LGLPSHR/?tag=redken08-20)
 

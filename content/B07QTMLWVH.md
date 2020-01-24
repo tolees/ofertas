@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia 1420421  Chaqueta Forro Polar H al 38.00760152030407 % de descuento'
+title: 'Columbia 1420421  Chaqueta Forro Polar H al 38.01 % de descuento'
 date: 2020-01-03 10:40:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Columbia 1420421  Chaqueta Forro Polar Hombre  Rojo  Red Jasper  Dark Mountain   XL](https://www.amazon.com/dp/B07QTMLWVH/?tag=redken08-20) con 38.00760152030407 por 30.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [Columbia 1420421  Chaqueta Forro Polar Hombre  Rojo  Red Jasper  Dark Mountain   XL](https://www.amazon.com/dp/B07QTMLWVH/?tag=redken08-20) con 38.01 de descuento por 30.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg)](https://www.amazon.com/dp/B07QTMLWVH/?tag=redken08-20)
 

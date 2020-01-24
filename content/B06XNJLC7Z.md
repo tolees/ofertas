@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dua al 30.993099309930994 % de descuento'
+title: 'Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dua al 30.99 % de descuento'
 date: 2019/10/07 16:05:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nsGkpBIUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nsGkpBIUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dual SIM   Azul y Negro](https://www.amazon.com/dp/B06XNJLC7Z/?tag=redken08-20) a 69 EUR (original: 99.99 EUR) (30.993099309930994 %) en el siguiente enlace!
+Ahora mismo tienes [Alcatel U5 4G  4 núcleos  8MPx  8Gb  Dual SIM   Azul y Negro](https://www.amazon.com/dp/B06XNJLC7Z/?tag=redken08-20) a 69 EUR (original: 99.99 EUR) (30.99 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41nsGkpBIUL._SL200_.jpg)](https://www.amazon.com/dp/B06XNJLC7Z/?tag=redken08-20)
 

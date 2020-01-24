@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K9CK Juego de Luces para Lego Technic Po al 50.0 % de descuento'
+title: 'K9CK Juego de Luces para Lego Technic Po al 50.00 % de descuento'
 date: 2020-01-24 10:28:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-00ygzML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-00ygzML._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 47.98 EUR
 inStock: true
 ---
 
-Está [K9CK Juego de Luces para Lego Technic Porsche 911 RSR 42096  Led Faro Kit de Iluminación Compatible con Modelo Lego  NO Incluido en el Modelo ](https://www.amazon.com/dp/B082LNJR1T/?tag=redken08-20) con 50.0 por 23.99 EUR (original: 47.98 EUR) en el siguiente enlace!
+Está [K9CK Juego de Luces para Lego Technic Porsche 911 RSR 42096  Led Faro Kit de Iluminación Compatible con Modelo Lego  NO Incluido en el Modelo ](https://www.amazon.com/dp/B082LNJR1T/?tag=redken08-20) con 50.00 de descuento por 23.99 EUR (original: 47.98 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41S-00ygzML._SL200_.jpg)](https://www.amazon.com/dp/B082LNJR1T/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Smash v2 L V PS  Zapatillas Unisex  al 34.524341223760615 % de descuento'
+title: 'PUMA Smash v2 L V PS  Zapatillas Unisex  al 34.52 % de descuento'
 date: 2019/12/16 08:28:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QAgLs5XPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QAgLs5XPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.39 EUR
 inStock: true
 ---
 
-Está [PUMA Smash v2 L V PS  Zapatillas Unisex Niños  Bridal Rose White-Faded Denim  33 EU](https://www.amazon.com/dp/B07KG5K8GJ/?tag=redken08-20) con 34.524341223760615 por 14.66 EUR (original: 22.39 EUR) en el siguiente enlace!
+Está [PUMA Smash v2 L V PS  Zapatillas Unisex Niños  Bridal Rose White-Faded Denim  33 EU](https://www.amazon.com/dp/B07KG5K8GJ/?tag=redken08-20) con 34.52 de descuento por 14.66 EUR (original: 22.39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41QAgLs5XPL._SL200_.jpg)](https://www.amazon.com/dp/B07KG5K8GJ/?tag=redken08-20)
 

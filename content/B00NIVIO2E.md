@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Underwear  Braguitas para M al 36.16666666666667 % de descuento'
+title: 'Calvin Klein Underwear  Braguitas para M al 36.17 % de descuento'
 date: 2019/11/23 07:46:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4139rlcRFdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4139rlcRFdL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18 EUR
 inStock: true
 ---
 
-Está [Calvin Klein Underwear  Braguitas para Mujer  Negro  BLACK 001   XS](https://www.amazon.com/dp/B00NIVIO2E/?tag=redken08-20) con 36.16666666666667 por 11.49 EUR (original: 18 EUR) en el siguiente enlace!
+Está [Calvin Klein Underwear  Braguitas para Mujer  Negro  BLACK 001   XS](https://www.amazon.com/dp/B00NIVIO2E/?tag=redken08-20) con 36.17 de descuento por 11.49 EUR (original: 18 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/4139rlcRFdL._SL200_.jpg)](https://www.amazon.com/dp/B00NIVIO2E/?tag=redken08-20)
 

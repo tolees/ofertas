@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIND - Metallic Mist  Máscara efecto ala al 36.0 % de descuento'
+title: 'FIND - Metallic Mist  Máscara efecto ala al 36.00 % de descuento'
 date: 2019/10/05 12:29:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VJjYNlM2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VJjYNlM2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7.5 EUR
 inStock: true
 ---
 
-Está [FIND - Metallic Mist  Máscara efecto alargador negra + Delineador de ojos líquido azul metalizado ](https://www.amazon.com/dp/B07CTN8SCJ/?tag=redken08-20) con 36.0 por 4.8 EUR (original: 7.5 EUR) en el siguiente enlace!
+Está [FIND - Metallic Mist  Máscara efecto alargador negra + Delineador de ojos líquido azul metalizado ](https://www.amazon.com/dp/B07CTN8SCJ/?tag=redken08-20) con 36.00 de descuento por 4.8 EUR (original: 7.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31VJjYNlM2L._SL200_.jpg)](https://www.amazon.com/dp/B07CTN8SCJ/?tag=redken08-20)
 

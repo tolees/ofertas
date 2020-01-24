@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe New Tempesta Cosmopolitan  100 IV  al 43.08143547273981 % de descuento'
+title: 'Grohe New Tempesta Cosmopolitan  100 IV  al 43.08 % de descuento'
 date: 2019/11/07 17:42:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311efHVrdHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311efHVrdHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 57.96 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Grohe New Tempesta Cosmopolitan  100 IV alcachofa de ducha  Ref. 27573002](https://www.amazon.com/dp/B075RCN1FN/?tag=redken08-20) a 32.99 EUR (original: 57.96 EUR) (43.08143547273981 %) en el siguiente enlace!
+Ahora mismo tienes [Grohe New Tempesta Cosmopolitan  100 IV alcachofa de ducha  Ref. 27573002](https://www.amazon.com/dp/B075RCN1FN/?tag=redken08-20) a 32.99 EUR (original: 57.96 EUR) (43.08 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/311efHVrdHL._SL200_.jpg)](https://www.amazon.com/dp/B075RCN1FN/?tag=redken08-20)
 

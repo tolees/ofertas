@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 49.15048543689321 % en GaléNic - Mascarilla exfoliante purete s'
+title: 'Descuento del 49.15 % en GaléNic - Mascarilla exfoliante purete s'
 date: 2019/10/25 11:00:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o%2BNKgqfwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o%2BNKgqfwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 41.2 EUR
 inStock: true
 ---
 
-Tienes [GaléNic - Mascarilla exfoliante purete sublime galenic](https://www.amazon.com/dp/B01EJT20ZU/?tag=redken08-20) con un 49.15048543689321 % con precio de oferta de 20.95 EUR (original: 41.2 EUR) en el siguiente enlace!
+Tienes [GaléNic - Mascarilla exfoliante purete sublime galenic](https://www.amazon.com/dp/B01EJT20ZU/?tag=redken08-20) con un 49.15 % de descuento con precio de oferta de 20.95 EUR (original: 41.2 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31o%2BNKgqfwL._SL200_.jpg)](https://www.amazon.com/dp/B01EJT20ZU/?tag=redken08-20)
 

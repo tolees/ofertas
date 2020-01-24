@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 27.007700770077005 % en El Ganso 1100s190010 Polo  Azul índigo  '
+title: 'Descuento del 27.01 % en El Ganso 1100s190010 Polo  Azul índigo  '
 date: 2019/12/03 20:03:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yLfHEivGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yLfHEivGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.54 EUR
 inStock: true
 ---
 
-Tienes [El Ganso 1100s190010 Polo  Azul índigo  XL para Hombre](https://www.amazon.com/dp/B07NGKK1SC/?tag=redken08-20) con un 27.007700770077005 % con precio de oferta de 39.81 EUR (original: 54.54 EUR) en el siguiente enlace!
+Tienes [El Ganso 1100s190010 Polo  Azul índigo  XL para Hombre](https://www.amazon.com/dp/B07NGKK1SC/?tag=redken08-20) con un 27.01 % de descuento con precio de oferta de 39.81 EUR (original: 54.54 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41yLfHEivGL._SL200_.jpg)](https://www.amazon.com/dp/B07NGKK1SC/?tag=redken08-20)
 

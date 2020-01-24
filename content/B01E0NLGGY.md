@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Game Of Thrones al 63.191153238546605 % de descuento'
+title: 'Game Of Thrones al 63.19 % de descuento'
 date: 2019/12/03 09:50:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M%2BIlVAUDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M%2BIlVAUDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 18.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Game Of Thrones](https://www.amazon.com/dp/B01E0NLGGY/?tag=redken08-20) a 6.99 EUR (original: 18.99 EUR) (63.191153238546605 %) en el siguiente enlace!
+Ahora mismo tienes [Game Of Thrones](https://www.amazon.com/dp/B01E0NLGGY/?tag=redken08-20) a 6.99 EUR (original: 18.99 EUR) (63.19 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51M%2BIlVAUDL._SL200_.jpg)](https://www.amazon.com/dp/B01E0NLGGY/?tag=redken08-20)
 

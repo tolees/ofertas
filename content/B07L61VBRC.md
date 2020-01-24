@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Icon Slash Gradient tee Camiset al 40.233333333333334 % de descuento'
+title: 'Hurley M Icon Slash Gradient tee Camiset al 40.23 % de descuento'
 date: 2019/11/05 11:33:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cpM1czDHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cpM1czDHL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley M Icon Slash Gradient tee Camisetas  Hombre  White/Black  S](https://www.amazon.com/dp/B07L61VBRC/?tag=redken08-20) a 17.93 EUR (original: 30 EUR) (40.233333333333334 %) en el siguiente enlace!
+Ahora mismo tienes [Hurley M Icon Slash Gradient tee Camisetas  Hombre  White/Black  S](https://www.amazon.com/dp/B07L61VBRC/?tag=redken08-20) a 17.93 EUR (original: 30 EUR) (40.23 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41cpM1czDHL._SL200_.jpg)](https://www.amazon.com/dp/B07L61VBRC/?tag=redken08-20)
 

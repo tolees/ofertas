@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson C13T05204010 - Cartucho de tinta   al 67.76039679511638 % de descuento'
+title: 'Epson C13T05204010 - Cartucho de tinta   al 67.76 % de descuento'
 date: 2019/12/29 03:08:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WxfQm3tJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WxfQm3tJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 52.42 EUR
 inStock: true
 ---
 
-Está [Epson C13T05204010 - Cartucho de tinta  color](https://www.amazon.com/dp/B0001EXZRA/?tag=redken08-20) con 67.76039679511638 por 16.9 EUR (original: 52.42 EUR) en el siguiente enlace!
+Está [Epson C13T05204010 - Cartucho de tinta  color](https://www.amazon.com/dp/B0001EXZRA/?tag=redken08-20) con 67.76 de descuento por 16.9 EUR (original: 52.42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51WxfQm3tJL._SL200_.jpg)](https://www.amazon.com/dp/B0001EXZRA/?tag=redken08-20)
 

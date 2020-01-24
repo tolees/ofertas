@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XBlaze Code: Embryo al 52.98432810936979 % de descuento'
+title: 'XBlaze Code: Embryo al 52.98 % de descuento'
 date: 2019/10/24 18:35:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61gWQVRSKTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61gWQVRSKTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [XBlaze Code: Embryo](https://www.amazon.com/dp/B00TQMIPL4/?tag=redken08-20) a 14.1 EUR (original: 29.99 EUR) (52.98432810936979 %) en el siguiente enlace!
+Ahora mismo tienes [XBlaze Code: Embryo](https://www.amazon.com/dp/B00TQMIPL4/?tag=redken08-20) a 14.1 EUR (original: 29.99 EUR) (52.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61gWQVRSKTL._SL200_.jpg)](https://www.amazon.com/dp/B00TQMIPL4/?tag=redken08-20)
 

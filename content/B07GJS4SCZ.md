@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Police Reloj de Pulsera 15525JSR/02 al 52.47658872725132 % de descuento'
+title: 'Police Reloj de Pulsera 15525JSR/02 al 52.48 % de descuento'
 date: 2019/12/09 22:38:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hvm0Mu1iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hvm0Mu1iL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 169.79 EUR
 inStock: true
 ---
 
-Está [Police Reloj de Pulsera 15525JSR/02](https://www.amazon.com/dp/B07GJS4SCZ/?tag=redken08-20) con 52.47658872725132 por 80.69 EUR (original: 169.79 EUR) en el siguiente enlace!
+Está [Police Reloj de Pulsera 15525JSR/02](https://www.amazon.com/dp/B07GJS4SCZ/?tag=redken08-20) con 52.48 de descuento por 80.69 EUR (original: 169.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Hvm0Mu1iL._SL200_.jpg)](https://www.amazon.com/dp/B07GJS4SCZ/?tag=redken08-20)
 

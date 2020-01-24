@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy A50 - Smartphone de 6.4"  al 27.808022922636113 % de descuento'
+title: 'Samsung Galaxy A50 - Smartphone de 6.4"  al 27.81 % de descuento'
 date: 2020-01-22 07:20:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XV0DaDBFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XV0DaDBFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 349 EUR
 inStock: true
 ---
 
-Está [Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled Infinity U Display  4 GB RAM  128 GB ROM  25 MP  Exynos 9610  Carga rápida   Negro [versión española]](https://www.amazon.com/dp/B07PDZLZ9V/?tag=redken08-20) con 27.808022922636113 por 251.95 EUR (original: 349 EUR) en el siguiente enlace!
+Está [Samsung Galaxy A50 - Smartphone de 6.4" FHD sAmoled Infinity U Display  4 GB RAM  128 GB ROM  25 MP  Exynos 9610  Carga rápida   Negro [versión española]](https://www.amazon.com/dp/B07PDZLZ9V/?tag=redken08-20) con 27.81 de descuento por 251.95 EUR (original: 349 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XV0DaDBFL._SL200_.jpg)](https://www.amazon.com/dp/B07PDZLZ9V/?tag=redken08-20)
 

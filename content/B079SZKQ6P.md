@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.2 % en Hurley M League Hat Gorras/Sombreros  Ho'
+title: 'Descuento del 50.20 % en Hurley M League Hat Gorras/Sombreros  Ho'
 date: 2019/12/01 18:09:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dFDMOztGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dFDMOztGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Tienes [Hurley M League Hat Gorras/Sombreros  Hombre  Black  1SIZE](https://www.amazon.com/dp/B079SZKQ6P/?tag=redken08-20) con un 50.2 % con precio de oferta de 12.45 EUR (original: 25 EUR) en el siguiente enlace!
+Tienes [Hurley M League Hat Gorras/Sombreros  Hombre  Black  1SIZE](https://www.amazon.com/dp/B079SZKQ6P/?tag=redken08-20) con un 50.20 % de descuento con precio de oferta de 12.45 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31dFDMOztGL._SL200_.jpg)](https://www.amazon.com/dp/B079SZKQ6P/?tag=redken08-20)
 

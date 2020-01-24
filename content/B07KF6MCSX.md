@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Está [Levi s Housemark Graphic tee Camiseta  Blanco  Hm Ssnl White 0207   Medium para Hombre](https://www.amazon.com/dp/B07KF6MCSX/?tag=redken08-20) con 46.36 por 13.41 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Levi s Housemark Graphic tee Camiseta  Blanco  Hm Ssnl White 0207   Medium para Hombre](https://www.amazon.com/dp/B07KF6MCSX/?tag=redken08-20) con 46.36 de descuento por 13.41 EUR (original: 25 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41CxKryp7rL._SL200_.jpg)](https://www.amazon.com/dp/B07KF6MCSX/?tag=redken08-20)
 

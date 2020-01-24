@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tanqueray Flor de Sevilla Gin - 700 ml al 32.34157650695517 % de descuento'
+title: 'Tanqueray Flor de Sevilla Gin - 700 ml al 32.34 % de descuento'
 date: 2019/11/08 10:44:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5173tPYPfjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5173tPYPfjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.88 EUR
 inStock: true
 ---
 
-Está [Tanqueray Flor de Sevilla Gin - 700 ml](https://www.amazon.com/dp/B07C8NJV9P/?tag=redken08-20) con 32.34157650695517 por 17.51 EUR (original: 25.88 EUR) en el siguiente enlace!
+Está [Tanqueray Flor de Sevilla Gin - 700 ml](https://www.amazon.com/dp/B07C8NJV9P/?tag=redken08-20) con 32.34 de descuento por 17.51 EUR (original: 25.88 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/5173tPYPfjL._SL200_.jpg)](https://www.amazon.com/dp/B07C8NJV9P/?tag=redken08-20)
 

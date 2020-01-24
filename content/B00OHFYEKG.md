@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Casarano - Pantalones de Deporte p al 47.03125 % de descuento'
+title: 'Kappa Casarano - Pantalones de Deporte p al 47.03 % de descuento'
 date: 2019/11/13 11:43:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qMVR5e7EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qMVR5e7EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 32 EUR
 inStock: true
 ---
 
-Está [Kappa Casarano - Pantalones de Deporte para Hombre  Color Negro  Talla YM](https://www.amazon.com/dp/B00OHFYEKG/?tag=redken08-20) con 47.03125 por 16.95 EUR (original: 32 EUR) en el siguiente enlace!
+Está [Kappa Casarano - Pantalones de Deporte para Hombre  Color Negro  Talla YM](https://www.amazon.com/dp/B00OHFYEKG/?tag=redken08-20) con 47.03 de descuento por 16.95 EUR (original: 32 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qMVR5e7EL._SL200_.jpg)](https://www.amazon.com/dp/B00OHFYEKG/?tag=redken08-20)
 

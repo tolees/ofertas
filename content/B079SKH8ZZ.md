@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingston SDG/512GB - Tarjeta SD Canvas G al 55.4784820370531 % de descuento'
+title: 'Kingston SDG/512GB - Tarjeta SD Canvas G al 55.48 % de descuento'
 date: 2019/11/04 16:09:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qu6NIvpSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qu6NIvpSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 345.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kingston SDG/512GB - Tarjeta SD Canvas Go! 512 GB  Ideal para DSLR  Drones y Otras filmadoras compatibles con Tarjetas SD](https://www.amazon.com/dp/B079SKH8ZZ/?tag=redken08-20) a 154.04 EUR (original: 345.99 EUR) (55.4784820370531 %) en el siguiente enlace!
+Ahora mismo tienes [Kingston SDG/512GB - Tarjeta SD Canvas Go! 512 GB  Ideal para DSLR  Drones y Otras filmadoras compatibles con Tarjetas SD](https://www.amazon.com/dp/B079SKH8ZZ/?tag=redken08-20) a 154.04 EUR (original: 345.99 EUR) (55.48 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qu6NIvpSL._SL200_.jpg)](https://www.amazon.com/dp/B079SKH8ZZ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dragon Ball Super. Box 6 Blu-Ray Edición al 49.25810230378759 % de descuento'
+title: 'Dragon Ball Super. Box 6 Blu-Ray Edición al 49.26 % de descuento'
 date: 2019/11/28 18:03:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P9L%2BUHHCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P9L%2BUHHCL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 51.22 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dragon Ball Super. Box 6 Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.com/dp/B07NN5NHGG/?tag=redken08-20) a 25.99 EUR (original: 51.22 EUR) (49.25810230378759 %) en el siguiente enlace!
+Ahora mismo tienes [Dragon Ball Super. Box 6 Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.com/dp/B07NN5NHGG/?tag=redken08-20) a 25.99 EUR (original: 51.22 EUR) (49.26 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51P9L%2BUHHCL._SL200_.jpg)](https://www.amazon.com/dp/B07NN5NHGG/?tag=redken08-20)
 

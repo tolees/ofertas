@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hunter Original Tall Classic  Botas de A al 35.17241379310345 % de descuento'
+title: 'Hunter Original Tall Classic  Botas de A al 35.17 % de descuento'
 date: 2019/11/18 16:45:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y%2B9ao0kJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y%2B9ao0kJL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 145 EUR
 inStock: true
 ---
 
-Está [Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Negro  Black   37 EU](https://www.amazon.com/dp/B00K1XBWIU/?tag=redken08-20) con 35.17241379310345 por 94 EUR (original: 145 EUR) en el siguiente enlace!
+Está [Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Negro  Black   37 EU](https://www.amazon.com/dp/B00K1XBWIU/?tag=redken08-20) con 35.17 de descuento por 94 EUR (original: 145 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31Y%2B9ao0kJL._SL200_.jpg)](https://www.amazon.com/dp/B00K1XBWIU/?tag=redken08-20)
 

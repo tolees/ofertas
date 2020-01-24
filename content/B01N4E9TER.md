@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Lace Collar Camisa para Mujer  Azu al 70.0 % de descuento'
+title: 'find. Lace Collar Camisa para Mujer  Azu al 70.00 % de descuento'
 date: 2019/11/20 08:53:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41atawQUgLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41atawQUgLL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [find. Lace Collar Camisa para Mujer  Azul  Blue   44  Talla del Fabricante: X-Large ](https://www.amazon.com/dp/B01N4E9TER/?tag=redken08-20) a 12 EUR (original: 40 EUR) (70.0 %) en el siguiente enlace!
+Ahora mismo tienes [find. Lace Collar Camisa para Mujer  Azul  Blue   44  Talla del Fabricante: X-Large ](https://www.amazon.com/dp/B01N4E9TER/?tag=redken08-20) a 12 EUR (original: 40 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41atawQUgLL._SL200_.jpg)](https://www.amazon.com/dp/B01N4E9TER/?tag=redken08-20)
 

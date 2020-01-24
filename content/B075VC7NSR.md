@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hurley Staple Crew SS Camiseta  Hombre  Gris  Dark Grey   S](https://www.amazon.com/dp/B075VC7NSR/?tag=redken08-20) a 9.25 EUR (original: 20 EUR) (53.75 %) en el siguiente enlace!
+Ahora mismo tienes [Hurley Staple Crew SS Camiseta  Hombre  Gris  Dark Grey   S](https://www.amazon.com/dp/B075VC7NSR/?tag=redken08-20) a 9.25 EUR (original: 20 EUR) (53.75 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WIfNhGqNL._SL200_.jpg)](https://www.amazon.com/dp/B075VC7NSR/?tag=redken08-20)
 

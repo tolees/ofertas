@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face McMurdo - Chaqueta Imperm al 32.32790697674418 % de descuento'
+title: 'The North Face McMurdo - Chaqueta Imperm al 32.33 % de descuento'
 date: 2020-01-21 11:58:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NCEsJRh5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NCEsJRh5L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 430 EUR
 inStock: true
 ---
 
-Está [The North Face McMurdo - Chaqueta Impermeable  Hombre  Negro  TNF Black   M](https://www.amazon.com/dp/B00AR18VQC/?tag=redken08-20) con 32.32790697674418 por 290.99 EUR (original: 430 EUR) en el siguiente enlace!
+Está [The North Face McMurdo - Chaqueta Impermeable  Hombre  Negro  TNF Black   M](https://www.amazon.com/dp/B00AR18VQC/?tag=redken08-20) con 32.33 de descuento por 290.99 EUR (original: 430 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41NCEsJRh5L._SL200_.jpg)](https://www.amazon.com/dp/B00AR18VQC/?tag=redken08-20)
 

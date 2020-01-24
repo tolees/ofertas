@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas 107361 Vestido  Morado  al 44.0838023764853 % de descuento'
+title: 'Dolores Promesas 107361 Vestido  Morado  al 44.08 % de descuento'
 date: 2019/11/09 23:03:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erIeso%2BnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erIeso%2BnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 159.9 EUR
 inStock: true
 ---
 
-Está [Dolores Promesas 107361 Vestido  Morado Lunar   Tamaño del Fabricante:36  para Mujer](https://www.amazon.com/dp/B07D7JVBDC/?tag=redken08-20) con 44.0838023764853 por 89.41 EUR (original: 159.9 EUR) en el siguiente enlace!
+Está [Dolores Promesas 107361 Vestido  Morado Lunar   Tamaño del Fabricante:36  para Mujer](https://www.amazon.com/dp/B07D7JVBDC/?tag=redken08-20) con 44.08 de descuento por 89.41 EUR (original: 159.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41erIeso%2BnL._SL200_.jpg)](https://www.amazon.com/dp/B07D7JVBDC/?tag=redken08-20)
 

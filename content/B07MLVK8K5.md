@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD Black SN750 - SSD Interno NVMe con di al 33.88399088323115 % de descuento'
+title: 'WD Black SN750 - SSD Interno NVMe con di al 33.88 % de descuento'
 date: 2020-01-13 12:53:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kbV9VA-aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kbV9VA-aL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 565.99 EUR
 inStock: true
 ---
 
-Está [WD Black SN750 - SSD Interno NVMe con disipador térmico para Gaming de Alto Rendimiento  2 TB](https://www.amazon.com/dp/B07MLVK8K5/?tag=redken08-20) con 33.88399088323115 por 374.21 EUR (original: 565.99 EUR) en el siguiente enlace!
+Está [WD Black SN750 - SSD Interno NVMe con disipador térmico para Gaming de Alto Rendimiento  2 TB](https://www.amazon.com/dp/B07MLVK8K5/?tag=redken08-20) con 33.88 de descuento por 374.21 EUR (original: 565.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41kbV9VA-aL._SL200_.jpg)](https://www.amazon.com/dp/B07MLVK8K5/?tag=redken08-20)
 

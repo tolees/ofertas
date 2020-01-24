@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ori and the Will of the Wisps - Xbox One al 62.557819727465926 % de descuento'
+title: 'Ori and the Will of the Wisps - Xbox One al 62.56 % de descuento'
 date: 2019/12/04 18:58:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SmYJizI9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SmYJizI9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Ori and the Will of the Wisps - Xbox One](https://www.amazon.com/dp/B07SSV8LVQ/?tag=redken08-20) con 62.557819727465926 por 29.95 EUR (original: 79.99 EUR) en el siguiente enlace!
+Está [Ori and the Will of the Wisps - Xbox One](https://www.amazon.com/dp/B07SSV8LVQ/?tag=redken08-20) con 62.56 de descuento por 29.95 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51SmYJizI9L._SL200_.jpg)](https://www.amazon.com/dp/B07SSV8LVQ/?tag=redken08-20)
 

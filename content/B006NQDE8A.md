@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia 611407 Molinillos de Pimienta  al 28.76363636363637 % de descuento'
+title: 'Brabantia 611407 Molinillos de Pimienta  al 28.76 % de descuento'
 date: 2019/12/29 13:44:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SQbuGWq7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SQbuGWq7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.5 EUR
 inStock: true
 ---
 
-Está [Brabantia 611407 Molinillos de Pimienta y Sal Manual  Acero Inoxidable](https://www.amazon.com/dp/B006NQDE8A/?tag=redken08-20) con 28.76363636363637 por 19.59 EUR (original: 27.5 EUR) en el siguiente enlace!
+Está [Brabantia 611407 Molinillos de Pimienta y Sal Manual  Acero Inoxidable](https://www.amazon.com/dp/B006NQDE8A/?tag=redken08-20) con 28.76 de descuento por 19.59 EUR (original: 27.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31SQbuGWq7L._SL200_.jpg)](https://www.amazon.com/dp/B006NQDE8A/?tag=redken08-20)
 

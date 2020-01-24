@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lolita Lempicka  Agua fresca - 30 ml. al 52.48148148148148 % de descuento'
+title: 'Lolita Lempicka  Agua fresca - 30 ml. al 52.48 % de descuento'
 date: 2019/10/05 08:30:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UJSiwlvFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UJSiwlvFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lolita Lempicka  Agua fresca - 30 ml.](https://www.amazon.com/dp/B07DBQD5M2/?tag=redken08-20) a 25.66 EUR (original: 54 EUR) (52.48148148148148 %) en el siguiente enlace!
+Ahora mismo tienes [Lolita Lempicka  Agua fresca - 30 ml.](https://www.amazon.com/dp/B07DBQD5M2/?tag=redken08-20) a 25.66 EUR (original: 54 EUR) (52.48 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31UJSiwlvFL._SL200_.jpg)](https://www.amazon.com/dp/B07DBQD5M2/?tag=redken08-20)
 

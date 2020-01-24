@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP DeskJet 3750 - Impresora de tinta mul al 28.48354792560801 % de descuento'
+title: 'HP DeskJet 3750 - Impresora de tinta mul al 28.48 % de descuento'
 date: 2020-01-24 16:16:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31As4ErjMpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31As4ErjMpL._AC_._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.9 EUR
 inStock: true
 ---
 
-Está [HP DeskJet 3750 - Impresora de tinta multifunción  8 ppm  4800 x 1200 DPI  A4  Wifi  Escanea  Copia  60 hojas  Modo silencioso   Blanca](https://www.amazon.com/dp/B07GZSLLZH/?tag=redken08-20) con 28.48354792560801 por 49.99 EUR (original: 69.9 EUR) en el siguiente enlace!
+Está [HP DeskJet 3750 - Impresora de tinta multifunción  8 ppm  4800 x 1200 DPI  A4  Wifi  Escanea  Copia  60 hojas  Modo silencioso   Blanca](https://www.amazon.com/dp/B07GZSLLZH/?tag=redken08-20) con 28.48 de descuento por 49.99 EUR (original: 69.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31As4ErjMpL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07GZSLLZH/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.128205128205124 % en Nike M NSW Short JSY Club Sport Shorts  '
+title: 'Descuento del 50.13 % en Nike M NSW Short JSY Club Sport Shorts  '
 date: 2019/10/14 12:27:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K732nCP%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K732nCP%2BL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39 EUR
 inStock: true
 ---
 
-Tienes [Nike M NSW Short JSY Club Sport Shorts  Hombre  Gris Oscuro/Blanco  M](https://www.amazon.com/dp/B01HGQZGI6/?tag=redken08-20) con un 50.128205128205124 % con precio de oferta de 19.45 EUR (original: 39 EUR) en el siguiente enlace!
+Tienes [Nike M NSW Short JSY Club Sport Shorts  Hombre  Gris Oscuro/Blanco  M](https://www.amazon.com/dp/B01HGQZGI6/?tag=redken08-20) con un 50.13 % de descuento con precio de oferta de 19.45 EUR (original: 39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41K732nCP%2BL._SL200_.jpg)](https://www.amazon.com/dp/B01HGQZGI6/?tag=redken08-20)
 

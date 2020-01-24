@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIFA 20 Ultimate Team Steelbook para la  al 60.04002668445631 % de descuento'
+title: 'FIFA 20 Ultimate Team Steelbook para la  al 60.04 % de descuento'
 date: 2019/10/05 18:32:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lydz4fteL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lydz4fteL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [FIFA 20 Ultimate Team Steelbook para la edición digital Champions  excl. de Amazon.es  - [No contiene videojuego]](https://www.amazon.com/dp/B07WJHQJR6/?tag=redken08-20) con 60.04002668445631 por 5.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [FIFA 20 Ultimate Team Steelbook para la edición digital Champions  excl. de Amazon.es  - [No contiene videojuego]](https://www.amazon.com/dp/B07WJHQJR6/?tag=redken08-20) con 60.04 de descuento por 5.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51lydz4fteL._SL200_.jpg)](https://www.amazon.com/dp/B07WJHQJR6/?tag=redken08-20)
 

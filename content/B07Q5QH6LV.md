@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Shelo Graphic Block Polo  Pol al 35.772357723577244 % de descuento'
+title: 'G-STAR RAW Shelo Graphic Block Polo  Pol al 35.77 % de descuento'
 date: 2019/10/30 09:52:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418x02UNW8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418x02UNW8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [G-STAR RAW Shelo Graphic Block Polo  Polo Hombre  Gris  Grey Htr/Sartho Blue 6500   Large](https://www.amazon.com/dp/B07Q5QH6LV/?tag=redken08-20) a 51.35 EUR (original: 79.95 EUR) (35.772357723577244 %) en el siguiente enlace!
+Ahora mismo tienes [G-STAR RAW Shelo Graphic Block Polo  Polo Hombre  Gris  Grey Htr/Sartho Blue 6500   Large](https://www.amazon.com/dp/B07Q5QH6LV/?tag=redken08-20) a 51.35 EUR (original: 79.95 EUR) (35.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/418x02UNW8L._SL200_.jpg)](https://www.amazon.com/dp/B07Q5QH6LV/?tag=redken08-20)
 

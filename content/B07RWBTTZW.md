@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disney Frozen II Lichtzauber Anna E7001E al 31.045187995860644 % de descuento'
+title: 'Disney Frozen II Lichtzauber Anna E7001E al 31.05 % de descuento'
 date: 2019/12/13 13:19:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MkvGBDqTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MkvGBDqTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Está [Disney Frozen II Lichtzauber Anna E7001ES0](https://www.amazon.com/dp/B07RWBTTZW/?tag=redken08-20) con 31.045187995860644 por 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!
+Está [Disney Frozen II Lichtzauber Anna E7001ES0](https://www.amazon.com/dp/B07RWBTTZW/?tag=redken08-20) con 31.05 de descuento por 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41MkvGBDqTL._SL200_.jpg)](https://www.amazon.com/dp/B07RWBTTZW/?tag=redken08-20)
 

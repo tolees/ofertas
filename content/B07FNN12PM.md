@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 36.43643643643644 % en Lego 60237 City Kurve und Kreuzung  bunt'
+title: 'Descuento del 36.44 % en Lego 60237 City Kurve und Kreuzung  bunt'
 date: 2020-01-05 09:33:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xx79D%2BxSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xx79D%2BxSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.99 EUR
 inStock: true
 ---
 
-Tienes [Lego 60237 City Kurve und Kreuzung  bunt](https://www.amazon.com/dp/B07FNN12PM/?tag=redken08-20) con un 36.43643643643644 % con precio de oferta de 6.35 EUR (original: 9.99 EUR) en el siguiente enlace!
+Tienes [Lego 60237 City Kurve und Kreuzung  bunt](https://www.amazon.com/dp/B07FNN12PM/?tag=redken08-20) con un 36.44 % de descuento con precio de oferta de 6.35 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Xx79D%2BxSL._SL200_.jpg)](https://www.amazon.com/dp/B07FNN12PM/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.00750187546888 % en LEGO 41367 - Friends Stephanies Reitturn'
+title: 'Descuento del 30.01 % en LEGO 41367 - Friends Stephanies Reitturn'
 date: 2019/12/13 15:24:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w1X8RdG1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w1X8RdG1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [LEGO 41367 - Friends Stephanies Reitturnier](https://www.amazon.com/dp/B07FNS9YS1/?tag=redken08-20) con un 30.00750187546888 % con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [LEGO 41367 - Friends Stephanies Reitturnier](https://www.amazon.com/dp/B07FNS9YS1/?tag=redken08-20) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51w1X8RdG1L._SL200_.jpg)](https://www.amazon.com/dp/B07FNS9YS1/?tag=redken08-20)
 

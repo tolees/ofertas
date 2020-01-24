@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel S-jirou Shirt Camisa  Negro  Blac al 82.21212121212122 % de descuento'
+title: 'Diesel S-jirou Shirt Camisa  Negro  Blac al 82.21 % de descuento'
 date: 2019/10/16 10:10:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ocRQlm4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ocRQlm4gL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Diesel S-jirou Shirt Camisa  Negro  Black 900   Small para Hombre](https://www.amazon.com/dp/B07NVMX9PZ/?tag=redken08-20) con 82.21212121212122 por 17.61 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Diesel S-jirou Shirt Camisa  Negro  Black 900   Small para Hombre](https://www.amazon.com/dp/B07NVMX9PZ/?tag=redken08-20) con 82.21 de descuento por 17.61 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51ocRQlm4gL._SL200_.jpg)](https://www.amazon.com/dp/B07NVMX9PZ/?tag=redken08-20)
 

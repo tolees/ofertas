@@ -14,7 +14,7 @@ comparePrice: 50 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike Court Royale  GS   Zapatillas de Gimnasia para Niños  Blanco  White/Obsidian/Univ Red/Gum Lt Brown 107   36 EU](https://www.amazon.com/dp/B07RNRHC8V/?tag=redken08-20) a 28.51 EUR (original: 50 EUR) (42.98 %) en el siguiente enlace!
+Ahora mismo tienes [Nike Court Royale  GS   Zapatillas de Gimnasia para Niños  Blanco  White/Obsidian/Univ Red/Gum Lt Brown 107   36 EU](https://www.amazon.com/dp/B07RNRHC8V/?tag=redken08-20) a 28.51 EUR (original: 50 EUR) (42.98 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31zhnTwwkfL._SL200_.jpg)](https://www.amazon.com/dp/B07RNRHC8V/?tag=redken08-20)
 

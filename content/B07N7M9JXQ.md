@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kenzo 57836 Eau de Vie Legère Eau de Par al 33.4 % de descuento'
+title: 'Kenzo 57836 Eau de Vie Legère Eau de Par al 33.40 % de descuento'
 date: 2019/10/20 08:41:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fQGSyWUjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fQGSyWUjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 75 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kenzo 57836 Eau de Vie Legère Eau de Parfum  50 ml](https://www.amazon.com/dp/B07N7M9JXQ/?tag=redken08-20) a 49.95 EUR (original: 75 EUR) (33.4 %) en el siguiente enlace!
+Ahora mismo tienes [Kenzo 57836 Eau de Vie Legère Eau de Parfum  50 ml](https://www.amazon.com/dp/B07N7M9JXQ/?tag=redken08-20) a 49.95 EUR (original: 75 EUR) (33.40 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fQGSyWUjL._SL200_.jpg)](https://www.amazon.com/dp/B07N7M9JXQ/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neceser Set Aseo/Viaje Spiderman al 47.936507936507944 % de descuento'
+title: 'Neceser Set Aseo/Viaje Spiderman al 47.94 % de descuento'
 date: 2019/10/19 15:55:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nabnTCYhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nabnTCYhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.75 EUR
 inStock: true
 ---
 
-Está [Neceser Set Aseo/Viaje Spiderman](https://www.amazon.com/dp/B07NLKBY1J/?tag=redken08-20) con 47.936507936507944 por 8.2 EUR (original: 15.75 EUR) en el siguiente enlace!
+Está [Neceser Set Aseo/Viaje Spiderman](https://www.amazon.com/dp/B07NLKBY1J/?tag=redken08-20) con 47.94 de descuento por 8.2 EUR (original: 15.75 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51nabnTCYhL._SL200_.jpg)](https://www.amazon.com/dp/B07NLKBY1J/?tag=redken08-20)
 

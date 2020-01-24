@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Light L/S Crew Camiseta L al 48.88888888888889 % de descuento'
+title: 'The North Face Light L/S Crew Camiseta L al 48.89 % de descuento'
 date: 2019/10/12 16:35:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fYqbl92sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fYqbl92sL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 45 EUR
 inStock: true
 ---
 
-Está [The North Face Light L/S Crew Camiseta Ligera de Manga Larga  Mujer  Negro  TNF Black   Small](https://www.amazon.com/dp/B00BNRA7R0/?tag=redken08-20) con 48.88888888888889 por 23 EUR (original: 45 EUR) en el siguiente enlace!
+Está [The North Face Light L/S Crew Camiseta Ligera de Manga Larga  Mujer  Negro  TNF Black   Small](https://www.amazon.com/dp/B00BNRA7R0/?tag=redken08-20) con 48.89 de descuento por 23 EUR (original: 45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fYqbl92sL._SL200_.jpg)](https://www.amazon.com/dp/B00BNRA7R0/?tag=redken08-20)
 

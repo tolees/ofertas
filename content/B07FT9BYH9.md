@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 65.25262631315658 % en Lee Rider  Vaqueros slim Hombre  Gris  G'
+title: 'Descuento del 65.25 % en Lee Rider  Vaqueros slim Hombre  Gris  G'
 date: 2019/12/04 18:22:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bwCwz7vkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bwCwz7vkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99.95 EUR
 inStock: true
 ---
 
-Tienes [Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W31/L34](https://www.amazon.com/dp/B07FT9BYH9/?tag=redken08-20) con un 65.25262631315658 % con precio de oferta de 34.73 EUR (original: 99.95 EUR) en el siguiente enlace!
+Tienes [Lee Rider  Vaqueros slim Hombre  Gris  Grey Worn Wf   W31/L34](https://www.amazon.com/dp/B07FT9BYH9/?tag=redken08-20) con un 65.25 % de descuento con precio de oferta de 34.73 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41bwCwz7vkL._SL200_.jpg)](https://www.amazon.com/dp/B07FT9BYH9/?tag=redken08-20)
 

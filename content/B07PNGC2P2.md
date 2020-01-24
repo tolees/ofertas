@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Neceone Polo Azul Greenish Blue  S al 35.27204502814259 % de descuento'
+title: 'Celio Neceone Polo Azul Greenish Blue  S al 35.27 % de descuento'
 date: 2019/11/05 13:32:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dny2TSusL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dny2TSusL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15.99 EUR
 inStock: true
 ---
 
-Está [Celio Neceone Polo Azul Greenish Blue  Small para Hombre](https://www.amazon.com/dp/B07PNGC2P2/?tag=redken08-20) con 35.27204502814259 por 10.35 EUR (original: 15.99 EUR) en el siguiente enlace!
+Está [Celio Neceone Polo Azul Greenish Blue  Small para Hombre](https://www.amazon.com/dp/B07PNGC2P2/?tag=redken08-20) con 35.27 de descuento por 10.35 EUR (original: 15.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Dny2TSusL._SL200_.jpg)](https://www.amazon.com/dp/B07PNGC2P2/?tag=redken08-20)
 

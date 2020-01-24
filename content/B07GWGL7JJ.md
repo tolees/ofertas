@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hereditary [Blu-ray] al 50.02942907592701 % de descuento'
+title: 'Hereditary [Blu-ray] al 50.03 % de descuento'
 date: 2019/11/27 08:12:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-sjxY8-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-sjxY8-7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.99 EUR
 inStock: true
 ---
 
-Está [Hereditary [Blu-ray]](https://www.amazon.com/dp/B07GWGL7JJ/?tag=redken08-20) con 50.02942907592701 por 8.49 EUR (original: 16.99 EUR) en el siguiente enlace!
+Está [Hereditary [Blu-ray]](https://www.amazon.com/dp/B07GWGL7JJ/?tag=redken08-20) con 50.03 de descuento por 8.49 EUR (original: 16.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41-sjxY8-7L._SL200_.jpg)](https://www.amazon.com/dp/B07GWGL7JJ/?tag=redken08-20)
 

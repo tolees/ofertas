@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Unisex Adulto Axis Zapatillas  Azul al 49.04399480230184 % de descuento'
+title: 'Puma Unisex Adulto Axis Zapatillas  Azul al 49.04 % de descuento'
 date: 2020-01-03 18:23:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 53.87 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Puma Unisex Adulto Axis Zapatillas  Azul  Peacoat-Puma White 07   39 EU](https://www.amazon.com/dp/B07KFYF7JC/?tag=redken08-20) a 27.45 EUR (original: 53.87 EUR) (49.04399480230184 %) en el siguiente enlace!
+Ahora mismo tienes [Puma Unisex Adulto Axis Zapatillas  Azul  Peacoat-Puma White 07   39 EU](https://www.amazon.com/dp/B07KFYF7JC/?tag=redken08-20) a 27.45 EUR (original: 53.87 EUR) (49.04 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg)](https://www.amazon.com/dp/B07KFYF7JC/?tag=redken08-20)
 

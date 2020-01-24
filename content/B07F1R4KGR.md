@@ -14,7 +14,7 @@ comparePrice: 20 EUR
 inStock: true
 ---
 
-Tienes [Under Armour Heat Gear Crew Calcetines  Unisex-Youth  Gris  Graphite/Assorted   Medium](https://www.amazon.com/dp/B07F1R4KGR/?tag=redken08-20) con un 56.65 % con precio de oferta de 8.67 EUR (original: 20 EUR) en el siguiente enlace!
+Tienes [Under Armour Heat Gear Crew Calcetines  Unisex-Youth  Gris  Graphite/Assorted   Medium](https://www.amazon.com/dp/B07F1R4KGR/?tag=redken08-20) con un 56.65 % de descuento con precio de oferta de 8.67 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mEVnrLzpL._SL200_.jpg)](https://www.amazon.com/dp/B07F1R4KGR/?tag=redken08-20)
 

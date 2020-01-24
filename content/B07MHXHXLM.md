@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolinos Jerez 09z_v19  Mocasines para  al 50.08080808080808 % de descuento'
+title: 'Pikolinos Jerez 09z_v19  Mocasines para  al 50.08 % de descuento'
 date: 2019/11/08 14:19:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41soHFTjRqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41soHFTjRqL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 99 EUR
 inStock: true
 ---
 
-Está [Pikolinos Jerez 09z_v19  Mocasines para Hombre  Azul Blue  43 EU](https://www.amazon.com/dp/B07MHXHXLM/?tag=redken08-20) con 50.08080808080808 por 49.42 EUR (original: 99 EUR) en el siguiente enlace!
+Está [Pikolinos Jerez 09z_v19  Mocasines para Hombre  Azul Blue  43 EU](https://www.amazon.com/dp/B07MHXHXLM/?tag=redken08-20) con 50.08 de descuento por 49.42 EUR (original: 99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41soHFTjRqL._SL200_.jpg)](https://www.amazon.com/dp/B07MHXHXLM/?tag=redken08-20)
 

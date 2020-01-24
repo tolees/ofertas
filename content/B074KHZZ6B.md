@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Osram Smart Sensor  2.4 W  Blanco  Lote  al 40.114379084967325 % de descuento'
+title: 'Osram Smart Sensor  2.4 W  Blanco  Lote  al 40.11 % de descuento'
 date: 2019/12/02 10:52:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hOh0kAXZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hOh0kAXZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 36.72 EUR
 inStock: true
 ---
 
-Está [Osram Smart Sensor  2.4 W  Blanco  Lote de 1](https://www.amazon.com/dp/B074KHZZ6B/?tag=redken08-20) con 40.114379084967325 por 21.99 EUR (original: 36.72 EUR) en el siguiente enlace!
+Está [Osram Smart Sensor  2.4 W  Blanco  Lote de 1](https://www.amazon.com/dp/B074KHZZ6B/?tag=redken08-20) con 40.11 de descuento por 21.99 EUR (original: 36.72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31hOh0kAXZL._SL200_.jpg)](https://www.amazon.com/dp/B074KHZZ6B/?tag=redken08-20)
 

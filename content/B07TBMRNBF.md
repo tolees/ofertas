@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finocam - Agenda 2020 semana vista apais al 25.0 % de descuento'
+title: 'Finocam - Agenda 2020 semana vista apais al 25.00 % de descuento'
 date: 2019/12/02 20:36:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EE5WG23gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EE5WG23gL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7 EUR
 inStock: true
 ---
 
-Está [Finocam - Agenda 2020 semana vista apaisada Espiral Year Turquesa español](https://www.amazon.com/dp/B07TBMRNBF/?tag=redken08-20) con 25.0 por 5.25 EUR (original: 7 EUR) en el siguiente enlace!
+Está [Finocam - Agenda 2020 semana vista apaisada Espiral Year Turquesa español](https://www.amazon.com/dp/B07TBMRNBF/?tag=redken08-20) con 25.00 de descuento por 5.25 EUR (original: 7 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31EE5WG23gL._SL200_.jpg)](https://www.amazon.com/dp/B07TBMRNBF/?tag=redken08-20)
 

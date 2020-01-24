@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 247v2  Zapatillas para Mujer al 62.10526315789473 % de descuento'
+title: 'New Balance 247v2  Zapatillas para Mujer al 62.11 % de descuento'
 date: 2020-01-03 07:06:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance 247v2  Zapatillas para Mujer  Verde  Faded Rosin/Marble Head EB   40.5 EU](https://www.amazon.com/dp/B07DFYMSNF/?tag=redken08-20) a 36 EUR (original: 95 EUR) (62.10526315789473 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance 247v2  Zapatillas para Mujer  Verde  Faded Rosin/Marble Head EB   40.5 EU](https://www.amazon.com/dp/B07DFYMSNF/?tag=redken08-20) a 36 EUR (original: 95 EUR) (62.11 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41r%2BGsLpxYL._SL200_.jpg)](https://www.amazon.com/dp/B07DFYMSNF/?tag=redken08-20)
 

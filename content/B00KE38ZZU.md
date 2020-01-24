@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merc Harrington  Abrigos de Manga Larga  al 30.526829268292687 % de descuento'
+title: 'Merc Harrington  Abrigos de Manga Larga  al 30.53 % de descuento'
 date: 2019/10/16 08:01:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e5TIVgU9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e5TIVgU9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 102.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Merc Harrington  Abrigos de Manga Larga Para Hombre  Rojo  Vino   XXX-Large](https://www.amazon.com/dp/B00KE38ZZU/?tag=redken08-20) a 71.21 EUR (original: 102.5 EUR) (30.526829268292687 %) en el siguiente enlace!
+Ahora mismo tienes [Merc Harrington  Abrigos de Manga Larga Para Hombre  Rojo  Vino   XXX-Large](https://www.amazon.com/dp/B00KE38ZZU/?tag=redken08-20) a 71.21 EUR (original: 102.5 EUR) (30.53 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41e5TIVgU9L._SL200_.jpg)](https://www.amazon.com/dp/B00KE38ZZU/?tag=redken08-20)
 

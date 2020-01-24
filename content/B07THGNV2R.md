@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Conjunto de Luces  Star Wars al 37.512499999999996 % de descuento'
+title: 'LIGHTAILING Conjunto de Luces  Star Wars al 37.51 % de descuento'
 date: 2019/12/12 21:13:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xig0giXTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xig0giXTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Star Wars Halcón Milenario Ultimate  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 75192  NO Incluido en el Modelo ](https://www.amazon.com/dp/B07THGNV2R/?tag=redken08-20) a 49.99 EUR (original: 80 EUR) (37.512499999999996 %) en el siguiente enlace!
+Ahora mismo tienes [LIGHTAILING Conjunto de Luces  Star Wars Halcón Milenario Ultimate  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 75192  NO Incluido en el Modelo ](https://www.amazon.com/dp/B07THGNV2R/?tag=redken08-20) a 49.99 EUR (original: 80 EUR) (37.51 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51Xig0giXTL._SL200_.jpg)](https://www.amazon.com/dp/B07THGNV2R/?tag=redken08-20)
 

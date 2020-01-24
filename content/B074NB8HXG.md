@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 107cc1i025 suéter  Rojo  B al 65.78680203045685 % de descuento'
+title: 'edc by Esprit 107cc1i025 suéter  Rojo  B al 65.79 % de descuento'
 date: 2019/11/29 11:09:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b23LKr2yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b23LKr2yL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.4 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [edc by Esprit 107cc1i025 suéter  Rojo  Bordeaux Red 600   X-Small para Mujer](https://www.amazon.com/dp/B074NB8HXG/?tag=redken08-20) a 13.48 EUR (original: 39.4 EUR) (65.78680203045685 %) en el siguiente enlace!
+Ahora mismo tienes [edc by Esprit 107cc1i025 suéter  Rojo  Bordeaux Red 600   X-Small para Mujer](https://www.amazon.com/dp/B074NB8HXG/?tag=redken08-20) a 13.48 EUR (original: 39.4 EUR) (65.79 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41b23LKr2yL._SL200_.jpg)](https://www.amazon.com/dp/B074NB8HXG/?tag=redken08-20)
 

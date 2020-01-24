@@ -14,7 +14,7 @@ comparePrice: 68 EUR
 inStock: true
 ---
 
-Está [Hugo Boss  Agua de colonia para hombres - 50 gr.](https://www.amazon.com/dp/B012NOWNZ0/?tag=redken08-20) con 41.25 por 39.95 EUR (original: 68 EUR) en el siguiente enlace!
+Está [Hugo Boss  Agua de colonia para hombres - 50 gr.](https://www.amazon.com/dp/B012NOWNZ0/?tag=redken08-20) con 41.25 de descuento por 39.95 EUR (original: 68 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41fymHi7oSL._SL200_.jpg)](https://www.amazon.com/dp/B012NOWNZ0/?tag=redken08-20)
 

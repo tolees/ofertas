@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO: Jurassic World al 36.18090452261307 % de descuento'
+title: 'LEGO: Jurassic World al 36.18 % de descuento'
 date: 2020-01-15 08:34:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61lorLvWGAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61lorLvWGAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 19.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO: Jurassic World](https://www.amazon.com/dp/B00WWR6EC2/?tag=redken08-20) a 12.7 EUR (original: 19.9 EUR) (36.18090452261307 %) en el siguiente enlace!
+Ahora mismo tienes [LEGO: Jurassic World](https://www.amazon.com/dp/B00WWR6EC2/?tag=redken08-20) a 12.7 EUR (original: 19.9 EUR) (36.18 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61lorLvWGAL._SL200_.jpg)](https://www.amazon.com/dp/B00WWR6EC2/?tag=redken08-20)
 

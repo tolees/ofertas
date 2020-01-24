@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony - Playstation VR al 51.34617879849487 % de descuento'
+title: 'Sony - Playstation VR al 51.35 % de descuento'
 date: 2019/11/08 18:07:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fIsBwCP7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fIsBwCP7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 308.28 EUR
 inStock: true
 ---
 
-Está [Sony - Playstation VR](https://www.amazon.com/dp/B01MCYPUDL/?tag=redken08-20) con 51.34617879849487 por 149.99 EUR (original: 308.28 EUR) en el siguiente enlace!
+Está [Sony - Playstation VR](https://www.amazon.com/dp/B01MCYPUDL/?tag=redken08-20) con 51.35 de descuento por 149.99 EUR (original: 308.28 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31fIsBwCP7L._SL200_.jpg)](https://www.amazon.com/dp/B01MCYPUDL/?tag=redken08-20)
 

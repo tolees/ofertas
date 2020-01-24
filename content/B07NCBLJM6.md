@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Hatch Vaqueros  Black Used De al 35.336956521739125 % de descuento'
+title: 'Pepe Jeans Hatch Vaqueros  Black Used De al 35.34 % de descuento'
 date: 2019/12/29 16:57:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Hatch Vaqueros  Black Used Denim  38W / 34L para Hombre](https://www.amazon.com/dp/B07NCBLJM6/?tag=redken08-20) con 35.336956521739125 por 59.49 EUR (original: 92 EUR) en el siguiente enlace!
+Está [Pepe Jeans Hatch Vaqueros  Black Used Denim  38W / 34L para Hombre](https://www.amazon.com/dp/B07NCBLJM6/?tag=redken08-20) con 35.34 de descuento por 59.49 EUR (original: 92 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg)](https://www.amazon.com/dp/B07NCBLJM6/?tag=redken08-20)
 

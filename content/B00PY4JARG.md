@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KRISP 6488-NVY-18  Vestido Corto Fruncid al 51.94305502116199 % de descuento'
+title: 'KRISP 6488-NVY-18  Vestido Corto Fruncid al 51.94 % de descuento'
 date: 2020-01-02 09:21:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25.99 EUR
 inStock: true
 ---
 
-Está [KRISP 6488-NVY-18  Vestido Corto Fruncido Busto  Azul Marino  6488   46](https://www.amazon.com/dp/B00PY4JARG/?tag=redken08-20) con 51.94305502116199 por 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!
+Está [KRISP 6488-NVY-18  Vestido Corto Fruncido Busto  Azul Marino  6488   46](https://www.amazon.com/dp/B00PY4JARG/?tag=redken08-20) con 51.94 de descuento por 12.49 EUR (original: 25.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg)](https://www.amazon.com/dp/B00PY4JARG/?tag=redken08-20)
 

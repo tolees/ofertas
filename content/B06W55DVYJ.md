@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21135 The Crafting Box 2.0 Toy al 26.253281660207517 % de descuento'
+title: 'LEGO 21135 The Crafting Box 2.0 Toy al 26.25 % de descuento'
 date: 2019/10/24 13:52:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61RLdOUGU7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61RLdOUGU7L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 79.99 GBP
 inStock: true
 ---
 
-Está [LEGO 21135 The Crafting Box 2.0 Toy](https://www.amazon.com/dp/B06W55DVYJ/?tag=redken08-20) con 26.253281660207517 por 58.99 GBP (original: 79.99 GBP) en el siguiente enlace!
+Está [LEGO 21135 The Crafting Box 2.0 Toy](https://www.amazon.com/dp/B06W55DVYJ/?tag=redken08-20) con 26.25 de descuento por 58.99 GBP (original: 79.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61RLdOUGU7L._SL200_.jpg)](https://www.amazon.com/dp/B06W55DVYJ/?tag=redken08-20)
 

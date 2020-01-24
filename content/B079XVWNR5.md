@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 53.400000000000006 % en Mr. Tronic 15m Cable de Red Ethernet Lat'
+title: 'Descuento del 53.40 % en Mr. Tronic 15m Cable de Red Ethernet Lat'
 date: 2019/11/23 22:16:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xXnWj6VsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xXnWj6VsL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 15 EUR
 inStock: true
 ---
 
-Tienes [Mr. Tronic 15m Cable de Red Ethernet Latiguillo | CAT5e  AWG24  CCA  UTP  RJ45 | Color Gris  15 Metros ](https://www.amazon.com/dp/B079XVWNR5/?tag=redken08-20) con un 53.400000000000006 % con precio de oferta de 6.99 EUR (original: 15 EUR) en el siguiente enlace!
+Tienes [Mr. Tronic 15m Cable de Red Ethernet Latiguillo | CAT5e  AWG24  CCA  UTP  RJ45 | Color Gris  15 Metros ](https://www.amazon.com/dp/B079XVWNR5/?tag=redken08-20) con un 53.40 % de descuento con precio de oferta de 6.99 EUR (original: 15 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41xXnWj6VsL._SL200_.jpg)](https://www.amazon.com/dp/B079XVWNR5/?tag=redken08-20)
 

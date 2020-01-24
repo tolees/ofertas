@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony NW-A45R High Resolution Walkman MP3 al 39.97498749374688 % de descuento'
+title: 'Sony NW-A45R High Resolution Walkman MP3 al 39.97 % de descuento'
 date: 2019/12/17 14:17:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3178HF1i-2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3178HF1i-2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 199.9 EUR
 inStock: true
 ---
 
-Está [Sony NW-A45R High Resolution Walkman MP3 Player  16GB  Touchscreen  Digitalverstärker  Bluetooth  NFC  Hi-Res  bis zu 45h Akku  schwarz](https://www.amazon.com/dp/B0798LBBJW/?tag=redken08-20) con 39.97498749374688 por 119.99 EUR (original: 199.9 EUR) en el siguiente enlace!
+Está [Sony NW-A45R High Resolution Walkman MP3 Player  16GB  Touchscreen  Digitalverstärker  Bluetooth  NFC  Hi-Res  bis zu 45h Akku  schwarz](https://www.amazon.com/dp/B0798LBBJW/?tag=redken08-20) con 39.97 de descuento por 119.99 EUR (original: 199.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/3178HF1i-2L._SL200_.jpg)](https://www.amazon.com/dp/B0798LBBJW/?tag=redken08-20)
 

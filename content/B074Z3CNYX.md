@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.0568207645802 % en Nespresso 0132193273 Lattissima Single S'
+title: 'Descuento del 50.06 % en Nespresso 0132193273 Lattissima Single S'
 date: 2020-01-14 16:38:06
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]
@@ -14,7 +14,7 @@ comparePrice: 219.99 GBP
 inStock: true
 ---
 
-Tienes [Nespresso 0132193273 Lattissima Single Serve Coffee Machine  1400 W  1 Litre  Brown](https://www.amazon.com/dp/B074Z3CNYX/?tag=redken08-20) con un 50.0568207645802 % con precio de oferta de 109.87 GBP (original: 219.99 GBP) en el siguiente enlace!
+Tienes [Nespresso 0132193273 Lattissima Single Serve Coffee Machine  1400 W  1 Litre  Brown](https://www.amazon.com/dp/B074Z3CNYX/?tag=redken08-20) con un 50.06 % de descuento con precio de oferta de 109.87 GBP (original: 219.99 GBP) en el siguiente enlace!
 
 [![](None._SL200_)](https://www.amazon.com/dp/B074Z3CNYX/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blend Jersey Gris 2XL al 46.26221966647498 % de descuento'
+title: 'Blend Jersey Gris 2XL al 46.26 % de descuento'
 date: 2019/10/05 16:58:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41udJAKgQ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41udJAKgQ8L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.78 EUR
 inStock: true
 ---
 
-Está [Blend Jersey Gris 2XL](https://www.amazon.com/dp/B015OBUVLW/?tag=redken08-20) con 46.26221966647498 por 18.69 EUR (original: 34.78 EUR) en el siguiente enlace!
+Está [Blend Jersey Gris 2XL](https://www.amazon.com/dp/B015OBUVLW/?tag=redken08-20) con 46.26 de descuento por 18.69 EUR (original: 34.78 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41udJAKgQ8L._SL200_.jpg)](https://www.amazon.com/dp/B015OBUVLW/?tag=redken08-20)
 

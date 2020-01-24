@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 37.17142857142858 % en Diesel UMLT-JAKE  Camiseta para Hombre  '
+title: 'Descuento del 37.17 % en Diesel UMLT-JAKE  Camiseta para Hombre  '
 date: 2019/12/19 10:40:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416DJ69O17L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416DJ69O17L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Tienes [Diesel UMLT-JAKE  Camiseta para Hombre  Negro  Black 900/0darx   S](https://www.amazon.com/dp/B07CNFLZ4R/?tag=redken08-20) con un 37.17142857142858 % con precio de oferta de 21.99 EUR (original: 35 EUR) en el siguiente enlace!
+Tienes [Diesel UMLT-JAKE  Camiseta para Hombre  Negro  Black 900/0darx   S](https://www.amazon.com/dp/B07CNFLZ4R/?tag=redken08-20) con un 37.17 % de descuento con precio de oferta de 21.99 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416DJ69O17L._SL200_.jpg)](https://www.amazon.com/dp/B07CNFLZ4R/?tag=redken08-20)
 

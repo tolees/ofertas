@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Lyte  Zapatillas para Hombre   al 27.927272727272722 % de descuento'
+title: 'Asics Gel-Lyte  Zapatillas para Hombre   al 27.93 % de descuento'
 date: 2019/11/12 13:42:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DDQ5gQz2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DDQ5gQz2L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 110 EUR
 inStock: true
 ---
 
-Está [Asics Gel-Lyte  Zapatillas para Hombre  Blanco  White/White 0101   42.5 EU](https://www.amazon.com/dp/B072MQZ6NQ/?tag=redken08-20) con 27.927272727272722 por 79.28 EUR (original: 110 EUR) en el siguiente enlace!
+Está [Asics Gel-Lyte  Zapatillas para Hombre  Blanco  White/White 0101   42.5 EU](https://www.amazon.com/dp/B072MQZ6NQ/?tag=redken08-20) con 27.93 de descuento por 79.28 EUR (original: 110 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41DDQ5gQz2L._SL200_.jpg)](https://www.amazon.com/dp/B072MQZ6NQ/?tag=redken08-20)
 

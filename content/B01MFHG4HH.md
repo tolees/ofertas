@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Soy Luna-Soy Set de papelería  Kids Euro al 60.0 % de descuento'
+title: 'Soy Luna-Soy Set de papelería  Kids Euro al 60.00 % de descuento'
 date: 2020-01-15 11:25:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61JEEPVCOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61JEEPVCOpL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Soy Luna-Soy Set de papelería  Kids Euroswan WD18114 ](https://www.amazon.com/dp/B01MFHG4HH/?tag=redken08-20) a 2 EUR (original: 5 EUR) (60.0 %) en el siguiente enlace!
+Ahora mismo tienes [Soy Luna-Soy Set de papelería  Kids Euroswan WD18114 ](https://www.amazon.com/dp/B01MFHG4HH/?tag=redken08-20) a 2 EUR (original: 5 EUR) (60.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/61JEEPVCOpL._SL200_.jpg)](https://www.amazon.com/dp/B01MFHG4HH/?tag=redken08-20)
 

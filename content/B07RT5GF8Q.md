@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hisense H50B7500 - TV 50  4K Ultra HD Sm al 25.070140280561127 % de descuento'
+title: 'Hisense H50B7500 - TV 50  4K Ultra HD Sm al 25.07 % de descuento'
 date: 2020-01-24 09:08:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WJ9oc01iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WJ9oc01iL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 499 EUR
 inStock: true
 ---
 
-Está [Hisense H50B7500 - TV 50  4K Ultra HD Smart TV con Alexa Integrada  3 HDMI  2 USB  Salida óptica  WiFi n  Bluetooth  HDR Dolby Vision  Audio DTS  Procesador Quad Core  Smart TV VIDAA U 3.0 con IA](https://www.amazon.com/dp/B07RT5GF8Q/?tag=redken08-20) con 25.070140280561127 por 373.9 EUR (original: 499 EUR) en el siguiente enlace!
+Está [Hisense H50B7500 - TV 50  4K Ultra HD Smart TV con Alexa Integrada  3 HDMI  2 USB  Salida óptica  WiFi n  Bluetooth  HDR Dolby Vision  Audio DTS  Procesador Quad Core  Smart TV VIDAA U 3.0 con IA](https://www.amazon.com/dp/B07RT5GF8Q/?tag=redken08-20) con 25.07 de descuento por 373.9 EUR (original: 499 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51WJ9oc01iL._SL200_.jpg)](https://www.amazon.com/dp/B07RT5GF8Q/?tag=redken08-20)
 

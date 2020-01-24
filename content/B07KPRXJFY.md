@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Patriot 10 SP  Zapatillas de Runni al 35.53373340607383 % de descuento'
+title: 'Asics Patriot 10 SP  Zapatillas de Runni al 35.53 % de descuento'
 date: 2019/12/15 20:28:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s6EGUOjNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s6EGUOjNL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [Asics Patriot 10 SP  Zapatillas de Running para Mujer  Beige  Cream/Papaya 101   38 EU](https://www.amazon.com/dp/B07KPRXJFY/?tag=redken08-20) con 35.53373340607383 por 35.45 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [Asics Patriot 10 SP  Zapatillas de Running para Mujer  Beige  Cream/Papaya 101   38 EU](https://www.amazon.com/dp/B07KPRXJFY/?tag=redken08-20) con 35.53 de descuento por 35.45 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41s6EGUOjNL._SL200_.jpg)](https://www.amazon.com/dp/B07KPRXJFY/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups EA815070 - Cafetera Automática 15  al 30.993438864362545 % de descuento'
+title: 'Krups EA815070 - Cafetera Automática 15  al 30.99 % de descuento'
 date: 2019/10/05 13:09:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B12kNcyOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B12kNcyOL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 409.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Krups EA815070 - Cafetera Automática 15 Bares de Presión  Pantalla LCD  3 Niveles de Intensidad  Ajustable de 20 ml a 220 ml  Programa Automático de Limpieza y Descalcificación  Molinillo Integrado](https://www.amazon.com/dp/B00OT1CO0U/?tag=redken08-20) a 282.92 EUR (original: 409.99 EUR) (30.993438864362545 %) en el siguiente enlace!
+Ahora mismo tienes [Krups EA815070 - Cafetera Automática 15 Bares de Presión  Pantalla LCD  3 Niveles de Intensidad  Ajustable de 20 ml a 220 ml  Programa Automático de Limpieza y Descalcificación  Molinillo Integrado](https://www.amazon.com/dp/B00OT1CO0U/?tag=redken08-20) a 282.92 EUR (original: 409.99 EUR) (30.99 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2B12kNcyOL._SL200_.jpg)](https://www.amazon.com/dp/B00OT1CO0U/?tag=redken08-20)
 

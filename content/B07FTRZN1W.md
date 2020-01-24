@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee SS Western Camisa  Marfil  Bright Re al 62.102102102102094 % de descuento'
+title: 'Lee SS Western Camisa  Marfil  Bright Re al 62.10 % de descuento'
 date: 2019/11/21 06:38:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T-QwhgJaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T-QwhgJaL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 49.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee SS Western Camisa  Marfil  Bright Red EF   XX-Large para Hombre](https://www.amazon.com/dp/B07FTRZN1W/?tag=redken08-20) a 18.93 EUR (original: 49.95 EUR) (62.102102102102094 %) en el siguiente enlace!
+Ahora mismo tienes [Lee SS Western Camisa  Marfil  Bright Red EF   XX-Large para Hombre](https://www.amazon.com/dp/B07FTRZN1W/?tag=redken08-20) a 18.93 EUR (original: 49.95 EUR) (62.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51T-QwhgJaL._SL200_.jpg)](https://www.amazon.com/dp/B07FTRZN1W/?tag=redken08-20)
 

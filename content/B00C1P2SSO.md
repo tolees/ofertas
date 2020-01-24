@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alpha Industries Ma-1 TT Chaqueta  Negro al 36.22016936104696 % de descuento'
+title: 'Alpha Industries Ma-1 TT Chaqueta  Negro al 36.22 % de descuento'
 date: 2019/10/29 15:17:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ftOsUDIbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ftOsUDIbL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 129.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Alpha Industries Ma-1 TT Chaqueta  Negro  Black 03   Talla del Fabricante: Small para Hombre](https://www.amazon.com/dp/B00C1P2SSO/?tag=redken08-20) a 82.85 EUR (original: 129.9 EUR) (36.22016936104696 %) en el siguiente enlace!
+Ahora mismo tienes [Alpha Industries Ma-1 TT Chaqueta  Negro  Black 03   Talla del Fabricante: Small para Hombre](https://www.amazon.com/dp/B00C1P2SSO/?tag=redken08-20) a 82.85 EUR (original: 129.9 EUR) (36.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ftOsUDIbL._SL200_.jpg)](https://www.amazon.com/dp/B00C1P2SSO/?tag=redken08-20)
 

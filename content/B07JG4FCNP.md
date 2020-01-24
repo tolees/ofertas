@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mustang Washington Vaqueros Slim  Azul   al 80.61721710882512 % de descuento'
+title: 'Mustang Washington Vaqueros Slim  Azul   al 80.62 % de descuento'
 date: 2019/11/12 15:14:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415L0aswMrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415L0aswMrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 92.35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mustang Washington Vaqueros Slim  Azul  Medium 683   44W / 34L para Hombre](https://www.amazon.com/dp/B07JG4FCNP/?tag=redken08-20) a 17.9 EUR (original: 92.35 EUR) (80.61721710882512 %) en el siguiente enlace!
+Ahora mismo tienes [Mustang Washington Vaqueros Slim  Azul  Medium 683   44W / 34L para Hombre](https://www.amazon.com/dp/B07JG4FCNP/?tag=redken08-20) a 17.9 EUR (original: 92.35 EUR) (80.62 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/415L0aswMrL._SL200_.jpg)](https://www.amazon.com/dp/B07JG4FCNP/?tag=redken08-20)
 

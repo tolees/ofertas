@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Tech 2.0 1/2 Zip Parte S al 50.025000000000006 % de descuento'
+title: 'Under Armour UA Tech 2.0 1/2 Zip Parte S al 50.03 % de descuento'
 date: 2019/11/26 09:20:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41efBGIhr0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41efBGIhr0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour UA Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Gris  Steel/Black 035   M](https://www.amazon.com/dp/B077XPJJ7H/?tag=redken08-20) a 19.99 EUR (original: 40 EUR) (50.025000000000006 %) en el siguiente enlace!
+Ahora mismo tienes [Under Armour UA Tech 2.0 1/2 Zip Parte Superior del Calentamiento  Hombre  Gris  Steel/Black 035   M](https://www.amazon.com/dp/B077XPJJ7H/?tag=redken08-20) a 19.99 EUR (original: 40 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41efBGIhr0L._SL200_.jpg)](https://www.amazon.com/dp/B077XPJJ7H/?tag=redken08-20)
 

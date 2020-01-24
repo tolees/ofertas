@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 42.2 % de descuento'
+title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 42.20 % de descuento'
 date: 2019/10/18 00:38:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416OFHWrbkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416OFHWrbkL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Rojo  Hsmk Clear Gel Print Brilliant Red 0614   XS](https://www.amazon.com/dp/B07KF5BMHH/?tag=redken08-20) a 14.45 EUR (original: 25 EUR) (42.2 %) en el siguiente enlace!
+Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Rojo  Hsmk Clear Gel Print Brilliant Red 0614   XS](https://www.amazon.com/dp/B07KF5BMHH/?tag=redken08-20) a 14.45 EUR (original: 25 EUR) (42.20 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/416OFHWrbkL._SL200_.jpg)](https://www.amazon.com/dp/B07KF5BMHH/?tag=redken08-20)
 

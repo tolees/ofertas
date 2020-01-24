@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Kayano 25  Zapatillas de Runni al 52.01111111111112 % de descuento'
+title: 'Asics Gel-Kayano 25  Zapatillas de Runni al 52.01 % de descuento'
 date: 2019/10/23 08:40:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D4M8uDDiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D4M8uDDiL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 180 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Asics Gel-Kayano 25  Zapatillas de Running para Hombre  Rojo  Cherry Tomato/Safety Yellow 801   40 EU](https://www.amazon.com/dp/B07K7NDRJN/?tag=redken08-20) a 86.38 EUR (original: 180 EUR) (52.01111111111112 %) en el siguiente enlace!
+Ahora mismo tienes [Asics Gel-Kayano 25  Zapatillas de Running para Hombre  Rojo  Cherry Tomato/Safety Yellow 801   40 EU](https://www.amazon.com/dp/B07K7NDRJN/?tag=redken08-20) a 86.38 EUR (original: 180 EUR) (52.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41D4M8uDDiL._SL200_.jpg)](https://www.amazon.com/dp/B07K7NDRJN/?tag=redken08-20)
 

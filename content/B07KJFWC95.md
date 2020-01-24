@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 48.578368338334045 % en Smart TV Box Android 7.1 - Maxesla MAX-S'
+title: 'Descuento del 48.58 % en Smart TV Box Android 7.1 - Maxesla MAX-S'
 date: 2020-01-21 21:10:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qQm0sELfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qQm0sELfL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Tienes [Smart TV Box Android 7.1 - Maxesla MAX-S II Mini TV Box de 2GB RAM + 16GB ROM  2019 Última CPU Amlogic S905X  WiFi 2.4GHz  Doble USB  H.265  HDMI & AV  4K UHD TV Box con Mini Teclado Inalámbrico](https://www.amazon.com/dp/B07KJFWC95/?tag=redken08-20) con un 48.578368338334045 % con precio de oferta de 35.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Tienes [Smart TV Box Android 7.1 - Maxesla MAX-S II Mini TV Box de 2GB RAM + 16GB ROM  2019 Última CPU Amlogic S905X  WiFi 2.4GHz  Doble USB  H.265  HDMI & AV  4K UHD TV Box con Mini Teclado Inalámbrico](https://www.amazon.com/dp/B07KJFWC95/?tag=redken08-20) con un 48.58 % de descuento con precio de oferta de 35.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qQm0sELfL._SL200_.jpg)](https://www.amazon.com/dp/B07KJFWC95/?tag=redken08-20)
 

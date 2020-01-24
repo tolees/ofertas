@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 59.168865435356196 % en Sony SELP1650 Standard-Zoom-Objektiv  16'
+title: 'Descuento del 59.17 % en Sony SELP1650 Standard-Zoom-Objektiv  16'
 date: 2019/12/22 18:13:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nL-3BPxBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nL-3BPxBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 379 EUR
 inStock: true
 ---
 
-Tienes [Sony SELP1650 Standard-Zoom-Objektiv  16-50 mm  F3.5-5.6  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.com/dp/B009AU9DJA/?tag=redken08-20) con un 59.168865435356196 % con precio de oferta de 154.75 EUR (original: 379 EUR) en el siguiente enlace!
+Tienes [Sony SELP1650 Standard-Zoom-Objektiv  16-50 mm  F3.5-5.6  OSS  APS-C  geeignet für A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.com/dp/B009AU9DJA/?tag=redken08-20) con un 59.17 % de descuento con precio de oferta de 154.75 EUR (original: 379 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31nL-3BPxBL._SL200_.jpg)](https://www.amazon.com/dp/B009AU9DJA/?tag=redken08-20)
 

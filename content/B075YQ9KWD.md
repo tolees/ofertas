@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sricam SP020 al 98.96887460412451 % de descuento'
+title: 'Sricam SP020 al 98.97 % de descuento'
 date: 2020-01-20 18:09:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aO0MpobQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aO0MpobQL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 2974.42 EUR
 inStock: true
 ---
 
-Está [Sricam SP020](https://www.amazon.com/dp/B075YQ9KWD/?tag=redken08-20) con 98.96887460412451 por 30.67 EUR (original: 2974.42 EUR) en el siguiente enlace!
+Está [Sricam SP020](https://www.amazon.com/dp/B075YQ9KWD/?tag=redken08-20) con 98.97 de descuento por 30.67 EUR (original: 2974.42 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31aO0MpobQL._SL200_.jpg)](https://www.amazon.com/dp/B075YQ9KWD/?tag=redken08-20)
 

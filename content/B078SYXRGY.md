@@ -14,7 +14,7 @@ comparePrice: 25 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Champion Teeshirts/Top/Polo/Twin Set-American Classics Indigo  Camiseta para Hombre  Morado  Indi Bv501  Large](https://www.amazon.com/dp/B078SYXRGY/?tag=redken08-20) a 12.78 EUR (original: 25 EUR) (48.88 %) en el siguiente enlace!
+Ahora mismo tienes [Champion Teeshirts/Top/Polo/Twin Set-American Classics Indigo  Camiseta para Hombre  Morado  Indi Bv501  Large](https://www.amazon.com/dp/B078SYXRGY/?tag=redken08-20) a 12.78 EUR (original: 25 EUR) (48.88 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ortmiLpJL._SL200_.jpg)](https://www.amazon.com/dp/B078SYXRGY/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 67.73333333333333 % en New Balance Rubix  Zapatillas de Running'
+title: 'Descuento del 67.73 % en New Balance Rubix  Zapatillas de Running'
 date: 2019/10/30 08:15:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ULAWsWsjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ULAWsWsjL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 180 EUR
 inStock: true
 ---
 
-Tienes [New Balance Rubix  Zapatillas de Running para Hombre  Negro  Black/Steel BK   40 EU](https://www.amazon.com/dp/B07C2Y1TML/?tag=redken08-20) con un 67.73333333333333 % con precio de oferta de 58.08 EUR (original: 180 EUR) en el siguiente enlace!
+Tienes [New Balance Rubix  Zapatillas de Running para Hombre  Negro  Black/Steel BK   40 EU](https://www.amazon.com/dp/B07C2Y1TML/?tag=redken08-20) con un 67.73 % de descuento con precio de oferta de 58.08 EUR (original: 180 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ULAWsWsjL._SL200_.jpg)](https://www.amazon.com/dp/B07C2Y1TML/?tag=redken08-20)
 

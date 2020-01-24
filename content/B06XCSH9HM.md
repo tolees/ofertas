@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naturaleza y Vida Sensitive Camomila Cha al 55.729166666666664 % de descuento'
+title: 'Naturaleza y Vida Sensitive Camomila Cha al 55.73 % de descuento'
 date: 2019/10/06 01:58:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vKyXhEQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vKyXhEQyL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.6 EUR
 inStock: true
 ---
 
-Está [Naturaleza y Vida Sensitive Camomila Champú - 500 ml](https://www.amazon.com/dp/B06XCSH9HM/?tag=redken08-20) con 55.729166666666664 por 4.25 EUR (original: 9.6 EUR) en el siguiente enlace!
+Está [Naturaleza y Vida Sensitive Camomila Champú - 500 ml](https://www.amazon.com/dp/B06XCSH9HM/?tag=redken08-20) con 55.73 de descuento por 4.25 EUR (original: 9.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31vKyXhEQyL._SL200_.jpg)](https://www.amazon.com/dp/B06XCSH9HM/?tag=redken08-20)
 

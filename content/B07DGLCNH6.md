@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Tech - Camiseta de Manga al 51.4 % de descuento'
+title: 'Under Armour UA Tech - Camiseta de Manga al 51.40 % de descuento'
 date: 2019/10/28 20:34:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41745EroNlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41745EroNlL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Under Armour UA Tech - Camiseta de Manga Corta para Hombre  Hombre  1328189-035  Steel/Black  Small](https://www.amazon.com/dp/B07DGLCNH6/?tag=redken08-20) con 51.4 por 14.58 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Under Armour UA Tech - Camiseta de Manga Corta para Hombre  Hombre  1328189-035  Steel/Black  Small](https://www.amazon.com/dp/B07DGLCNH6/?tag=redken08-20) con 51.40 de descuento por 14.58 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41745EroNlL._SL200_.jpg)](https://www.amazon.com/dp/B07DGLCNH6/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.822015725518234 % en Lee Extreme Motion Vaqueros Straight  Az'
+title: 'Descuento del 50.82 % en Lee Extreme Motion Vaqueros Straight  Az'
 date: 2019/10/13 17:17:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ebe1zn23L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ebe1zn23L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 69.95 EUR
 inStock: true
 ---
 
-Tienes [Lee Extreme Motion Vaqueros Straight  Azul  Radical HK   30W / 34L para Hombre](https://www.amazon.com/dp/B07JB73BLY/?tag=redken08-20) con un 50.822015725518234 % con precio de oferta de 34.4 EUR (original: 69.95 EUR) en el siguiente enlace!
+Tienes [Lee Extreme Motion Vaqueros Straight  Azul  Radical HK   30W / 34L para Hombre](https://www.amazon.com/dp/B07JB73BLY/?tag=redken08-20) con un 50.82 % de descuento con precio de oferta de 34.4 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ebe1zn23L._SL200_.jpg)](https://www.amazon.com/dp/B07JB73BLY/?tag=redken08-20)
 

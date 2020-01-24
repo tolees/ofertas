@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BlueBlack Camisa Lucio hombre  color azu al 65.85643752373717 % de descuento'
+title: 'BlueBlack Camisa Lucio hombre  color azu al 65.86 % de descuento'
 date: 2019/11/19 12:14:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41trt3f4k1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41trt3f4k1L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 26.33 EUR
 inStock: true
 ---
 
-Está [BlueBlack Camisa Lucio hombre  color azul cielo  hellblau 14   talla 43](https://www.amazon.com/dp/B00XE4Z9VE/?tag=redken08-20) con 65.85643752373717 por 8.99 EUR (original: 26.33 EUR) en el siguiente enlace!
+Está [BlueBlack Camisa Lucio hombre  color azul cielo  hellblau 14   talla 43](https://www.amazon.com/dp/B00XE4Z9VE/?tag=redken08-20) con 65.86 de descuento por 8.99 EUR (original: 26.33 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41trt3f4k1L._SL200_.jpg)](https://www.amazon.com/dp/B00XE4Z9VE/?tag=redken08-20)
 

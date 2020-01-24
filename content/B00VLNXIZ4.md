@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s L/S Barstow Western Shirt  Camisa al 50.6875 % de descuento'
+title: 'Levi s L/S Barstow Western Shirt  Camisa al 50.69 % de descuento'
 date: 2019/11/03 21:23:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414PGmM7gKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414PGmM7gKL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 80 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s L/S Barstow Western Shirt  Camisa Casual de Manga Larga para Hombre  Azul  Dark IndigoFlat Finish   Medium](https://www.amazon.com/dp/B00VLNXIZ4/?tag=redken08-20) a 39.45 EUR (original: 80 EUR) (50.6875 %) en el siguiente enlace!
+Ahora mismo tienes [Levi s L/S Barstow Western Shirt  Camisa Casual de Manga Larga para Hombre  Azul  Dark IndigoFlat Finish   Medium](https://www.amazon.com/dp/B00VLNXIZ4/?tag=redken08-20) a 39.45 EUR (original: 80 EUR) (50.69 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/414PGmM7gKL._SL200_.jpg)](https://www.amazon.com/dp/B00VLNXIZ4/?tag=redken08-20)
 

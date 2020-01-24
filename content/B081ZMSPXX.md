@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.0 % en OwlFay Princess Elsa Frozen Halloween Fa'
+title: 'Descuento del 50.00 % en OwlFay Princess Elsa Frozen Halloween Fa'
 date: 2019/12/14 15:27:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mMiz8YKhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mMiz8YKhL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 21.12 GBP
 inStock: true
 ---
 
-Tienes [OwlFay Princess Elsa Frozen Halloween Fancy Dress Kids Halloween Cosplay Party Princess Snow Queen Costume Dress up Outfit 4-5 Years Blue](https://www.amazon.com/dp/B081ZMSPXX/?tag=redken08-20) con un 50.0 % con precio de oferta de 10.56 GBP (original: 21.12 GBP) en el siguiente enlace!
+Tienes [OwlFay Princess Elsa Frozen Halloween Fancy Dress Kids Halloween Cosplay Party Princess Snow Queen Costume Dress up Outfit 4-5 Years Blue](https://www.amazon.com/dp/B081ZMSPXX/?tag=redken08-20) con un 50.00 % de descuento con precio de oferta de 10.56 GBP (original: 21.12 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41mMiz8YKhL._SL200_.jpg)](https://www.amazon.com/dp/B081ZMSPXX/?tag=redken08-20)
 

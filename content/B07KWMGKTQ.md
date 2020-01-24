@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coronel Tapiocca Riñonera Urban Caqui Ho al 50.01786352268667 % de descuento'
+title: 'Coronel Tapiocca Riñonera Urban Caqui Ho al 50.02 % de descuento'
 date: 2019/10/27 10:47:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C%2BoqONlAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C%2BoqONlAL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 27.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Coronel Tapiocca Riñonera Urban Caqui Hombre](https://www.amazon.com/dp/B07KWMGKTQ/?tag=redken08-20) a 13.99 EUR (original: 27.99 EUR) (50.01786352268667 %) en el siguiente enlace!
+Ahora mismo tienes [Coronel Tapiocca Riñonera Urban Caqui Hombre](https://www.amazon.com/dp/B07KWMGKTQ/?tag=redken08-20) a 13.99 EUR (original: 27.99 EUR) (50.02 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31C%2BoqONlAL._SL200_.jpg)](https://www.amazon.com/dp/B07KWMGKTQ/?tag=redken08-20)
 

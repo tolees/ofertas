@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NYX Professional Makeup Base de maquilla al 71.12426035502959 % de descuento'
+title: 'NYX Professional Makeup Base de maquilla al 71.12 % de descuento'
 date: 2020-01-22 15:05:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EKIiZAgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EKIiZAgwL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 16.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [NYX Professional Makeup Base de maquillaje Can t Stop Won t Stop Full Coverage Foundation  Larga duración  Waterproof  Fórmula vegana  Acabado mate  Tono: Chestnut](https://www.amazon.com/dp/B07JQPGTH6/?tag=redken08-20) a 4.88 EUR (original: 16.9 EUR) (71.12426035502959 %) en el siguiente enlace!
+Ahora mismo tienes [NYX Professional Makeup Base de maquillaje Can t Stop Won t Stop Full Coverage Foundation  Larga duración  Waterproof  Fórmula vegana  Acabado mate  Tono: Chestnut](https://www.amazon.com/dp/B07JQPGTH6/?tag=redken08-20) a 4.88 EUR (original: 16.9 EUR) (71.12 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41EKIiZAgwL._SL200_.jpg)](https://www.amazon.com/dp/B07JQPGTH6/?tag=redken08-20)
 

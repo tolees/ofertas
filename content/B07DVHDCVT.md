@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance ML574 Calzado White al 50.0 % de descuento'
+title: 'New Balance ML574 Calzado White al 50.00 % de descuento'
 date: 2019/10/20 09:11:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mwUiMSLoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mwUiMSLoL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance ML574 Calzado White](https://www.amazon.com/dp/B07DVHDCVT/?tag=redken08-20) a 45 EUR (original: 90 EUR) (50.0 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance ML574 Calzado White](https://www.amazon.com/dp/B07DVHDCVT/?tag=redken08-20) a 45 EUR (original: 90 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31mwUiMSLoL._SL200_.jpg)](https://www.amazon.com/dp/B07DVHDCVT/?tag=redken08-20)
 

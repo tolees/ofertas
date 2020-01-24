@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Pantalón Deporte Core Modern Gris  al 65.6011802311286 % de descuento'
+title: 'Kempa Pantalón Deporte Core Modern Gris  al 65.60 % de descuento'
 date: 2020-01-06 08:51:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40.67 EUR
 inStock: true
 ---
 
-Está [Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS](https://www.amazon.com/dp/B00V5LSQYU/?tag=redken08-20) con 65.6011802311286 por 13.99 EUR (original: 40.67 EUR) en el siguiente enlace!
+Está [Kempa Pantalón Deporte Core Modern Gris Jaspeado 2XS](https://www.amazon.com/dp/B00V5LSQYU/?tag=redken08-20) con 65.60 de descuento por 13.99 EUR (original: 40.67 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg)](https://www.amazon.com/dp/B00V5LSQYU/?tag=redken08-20)
 

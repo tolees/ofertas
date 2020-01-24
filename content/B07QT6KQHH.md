@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Classic CT  Zapatos de Baloncesto  al 40.016666666666666 % de descuento'
+title: 'Asics Classic CT  Zapatos de Baloncesto  al 40.02 % de descuento'
 date: 2019/10/13 19:43:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FmZcFhEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FmZcFhEWL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 EUR
 inStock: true
 ---
 
-Está [Asics Classic CT  Zapatos de Baloncesto para Hombre  Negro  Black/White 001   42.5 EU](https://www.amazon.com/dp/B07QT6KQHH/?tag=redken08-20) con 40.016666666666666 por 35.99 EUR (original: 60 EUR) en el siguiente enlace!
+Está [Asics Classic CT  Zapatos de Baloncesto para Hombre  Negro  Black/White 001   42.5 EU](https://www.amazon.com/dp/B07QT6KQHH/?tag=redken08-20) con 40.02 de descuento por 35.99 EUR (original: 60 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31FmZcFhEWL._SL200_.jpg)](https://www.amazon.com/dp/B07QT6KQHH/?tag=redken08-20)
 

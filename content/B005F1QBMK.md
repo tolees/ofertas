@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Bobble - Star Wars: Darth Maul al 38.82588392261508 % de descuento'
+title: 'POP! Bobble - Star Wars: Darth Maul al 38.83 % de descuento'
 date: 2019/11/03 15:12:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PAI3BXnVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PAI3BXnVL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [POP! Bobble - Star Wars: Darth Maul](https://www.amazon.com/dp/B005F1QBMK/?tag=redken08-20) con 38.82588392261508 por 9.17 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [POP! Bobble - Star Wars: Darth Maul](https://www.amazon.com/dp/B005F1QBMK/?tag=redken08-20) con 38.83 de descuento por 9.17 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51PAI3BXnVL._SL200_.jpg)](https://www.amazon.com/dp/B005F1QBMK/?tag=redken08-20)
 

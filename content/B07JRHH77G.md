@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OTHA 4K Proyector  Mini Proyector V5  Pr al 48.99943332703697 % de descuento'
+title: 'OTHA 4K Proyector  Mini Proyector V5  Pr al 49.00 % de descuento'
 date: 2019/12/17 16:59:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bAs7FY%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bAs7FY%2BSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 899.99 EUR
 inStock: true
 ---
 
-Está [OTHA 4K Proyector  Mini Proyector V5  Proyector Portátil  3800 Lumens  1280x800  3D DLP-Link  Proyector Android  Soporte USB/IR / 4K / HDMI/AV  4K Proyector con Sonido Dolby para Cine en casa  16G](https://www.amazon.com/dp/B07JRHH77G/?tag=redken08-20) con 48.99943332703697 por 459 EUR (original: 899.99 EUR) en el siguiente enlace!
+Está [OTHA 4K Proyector  Mini Proyector V5  Proyector Portátil  3800 Lumens  1280x800  3D DLP-Link  Proyector Android  Soporte USB/IR / 4K / HDMI/AV  4K Proyector con Sonido Dolby para Cine en casa  16G](https://www.amazon.com/dp/B07JRHH77G/?tag=redken08-20) con 49.00 de descuento por 459 EUR (original: 899.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51bAs7FY%2BSL._SL200_.jpg)](https://www.amazon.com/dp/B07JRHH77G/?tag=redken08-20)
 

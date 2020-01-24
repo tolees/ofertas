@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak The One Bolso Bandolera  21 cm   al 28.500000000000004 % de descuento'
+title: 'Eastpak The One Bolso Bandolera  21 cm   al 28.50 % de descuento'
 date: 2019/10/15 12:26:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BTCE8XpxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BTCE8XpxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Está [Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Azul  Urban Blue ](https://www.amazon.com/dp/B07KY7WVB1/?tag=redken08-20) con 28.500000000000004 por 21.45 EUR (original: 30 EUR) en el siguiente enlace!
+Está [Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Azul  Urban Blue ](https://www.amazon.com/dp/B07KY7WVB1/?tag=redken08-20) con 28.50 de descuento por 21.45 EUR (original: 30 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41BTCE8XpxL._SL200_.jpg)](https://www.amazon.com/dp/B07KY7WVB1/?tag=redken08-20)
 

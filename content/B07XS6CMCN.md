@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Football Manager 2020 al 49.04528096017457 % de descuento'
+title: 'Football Manager 2020 al 49.05 % de descuento'
 date: 2020-01-11 12:44:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 54.99 EUR
 inStock: true
 ---
 
-Está [Football Manager 2020](https://www.amazon.com/dp/B07XS6CMCN/?tag=redken08-20) con 49.04528096017457 por 28.02 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [Football Manager 2020](https://www.amazon.com/dp/B07XS6CMCN/?tag=redken08-20) con 49.05 de descuento por 28.02 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tGEb8EKTL._SL200_.jpg)](https://www.amazon.com/dp/B07XS6CMCN/?tag=redken08-20)
 

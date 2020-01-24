@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sportstyle Cotton Graphic S al 45.841669048299515 % de descuento'
+title: 'Under Armour Sportstyle Cotton Graphic S al 45.84 % de descuento'
 date: 2019/10/13 07:41:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41it15rOPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41it15rOPFL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 34.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Under Armour Sportstyle Cotton Graphic Short Pantalón Corto  Hombre  Gris  Charcoal Medium Heather/White 020   XXL](https://www.amazon.com/dp/B07CZFW5XG/?tag=redken08-20) a 18.95 EUR (original: 34.99 EUR) (45.841669048299515 %) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Sportstyle Cotton Graphic Short Pantalón Corto  Hombre  Gris  Charcoal Medium Heather/White 020   XXL](https://www.amazon.com/dp/B07CZFW5XG/?tag=redken08-20) a 18.95 EUR (original: 34.99 EUR) (45.84 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41it15rOPFL._SL200_.jpg)](https://www.amazon.com/dp/B07CZFW5XG/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas BACK2BASICS TS - Chándal  Hombre  al 52.1379553052965 % de descuento'
+title: 'adidas BACK2BASICS TS - Chándal  Hombre  al 52.14 % de descuento'
 date: 2019/11/16 20:56:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31udZAdV9EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31udZAdV9EL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 56.83 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [adidas BACK2BASICS TS - Chándal  Hombre  Azul Maruni/AZUBRI/Blanco ](https://www.amazon.com/dp/B07FJLYSGL/?tag=redken08-20) a 27.2 EUR (original: 56.83 EUR) (52.1379553052965 %) en el siguiente enlace!
+Ahora mismo tienes [adidas BACK2BASICS TS - Chándal  Hombre  Azul Maruni/AZUBRI/Blanco ](https://www.amazon.com/dp/B07FJLYSGL/?tag=redken08-20) a 27.2 EUR (original: 56.83 EUR) (52.14 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31udZAdV9EL._SL200_.jpg)](https://www.amazon.com/dp/B07FJLYSGL/?tag=redken08-20)
 

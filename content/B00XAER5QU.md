@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Preservativos Placer Prolongado co al 49.84126984126984 % de descuento'
+title: 'Durex Preservativos Placer Prolongado co al 49.84 % de descuento'
 date: 2020-01-22 11:14:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qy0i2FV4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qy0i2FV4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 12.6 EUR
 inStock: true
 ---
 
-Está [Durex Preservativos Placer Prolongado con Efecto Retardante - Total 12 Condones](https://www.amazon.com/dp/B00XAER5QU/?tag=redken08-20) con 49.84126984126984 por 6.32 EUR (original: 12.6 EUR) en el siguiente enlace!
+Está [Durex Preservativos Placer Prolongado con Efecto Retardante - Total 12 Condones](https://www.amazon.com/dp/B00XAER5QU/?tag=redken08-20) con 49.84 de descuento por 6.32 EUR (original: 12.6 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41qy0i2FV4L._SL200_.jpg)](https://www.amazon.com/dp/B00XAER5QU/?tag=redken08-20)
 

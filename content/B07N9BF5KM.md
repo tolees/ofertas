@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Flag Logo Camiseta  Gris  Gre al 39.96655518394648 % de descuento'
+title: 'Pepe Jeans Flag Logo Camiseta  Gris  Gre al 39.97 % de descuento'
 date: 2019/11/01 19:43:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OmIjWdyYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OmIjWdyYL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.9 EUR
 inStock: true
 ---
 
-Está [Pepe Jeans Flag Logo Camiseta  Gris  Grey Marl 933   Medium para Hombre](https://www.amazon.com/dp/B07N9BF5KM/?tag=redken08-20) con 39.96655518394648 por 17.95 EUR (original: 29.9 EUR) en el siguiente enlace!
+Está [Pepe Jeans Flag Logo Camiseta  Gris  Grey Marl 933   Medium para Hombre](https://www.amazon.com/dp/B07N9BF5KM/?tag=redken08-20) con 39.97 de descuento por 17.95 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41OmIjWdyYL._SL200_.jpg)](https://www.amazon.com/dp/B07N9BF5KM/?tag=redken08-20)
 

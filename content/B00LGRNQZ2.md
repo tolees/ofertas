@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pomellato Agua de colonia para mujeres 1 al 63.083333333333336 % de descuento'
+title: 'Pomellato Agua de colonia para mujeres 1 al 63.08 % de descuento'
 date: 2019/10/16 04:00:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UXjz-wtnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UXjz-wtnL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 72 EUR
 inStock: true
 ---
 
-Está [Pomellato Agua de colonia para mujeres 1 unidad 130 g](https://www.amazon.com/dp/B00LGRNQZ2/?tag=redken08-20) con 63.083333333333336 por 26.58 EUR (original: 72 EUR) en el siguiente enlace!
+Está [Pomellato Agua de colonia para mujeres 1 unidad 130 g](https://www.amazon.com/dp/B00LGRNQZ2/?tag=redken08-20) con 63.08 de descuento por 26.58 EUR (original: 72 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41UXjz-wtnL._SL200_.jpg)](https://www.amazon.com/dp/B00LGRNQZ2/?tag=redken08-20)
 

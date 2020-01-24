@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70827 Ultrakatty & Krie al 25.741913971323772 % de descuento'
+title: 'THE LEGO MOVIE 2 70827 Ultrakatty & Krie al 25.74 % de descuento'
 date: 2019/12/18 19:02:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OzfNWS-VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OzfNWS-VL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!](https://www.amazon.com/dp/B07FNW8PF6/?tag=redken08-20) con 25.741913971323772 por 22.27 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [THE LEGO MOVIE 2 70827 Ultrakatty & Krieger-Lucy!](https://www.amazon.com/dp/B07FNW8PF6/?tag=redken08-20) con 25.74 de descuento por 22.27 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51OzfNWS-VL._SL200_.jpg)](https://www.amazon.com/dp/B07FNW8PF6/?tag=redken08-20)
 

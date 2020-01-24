@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vichy Idéal Soleil - Crema Solar Rostro  al 34.22222222222222 % de descuento'
+title: 'Vichy Idéal Soleil - Crema Solar Rostro  al 34.22 % de descuento'
 date: 2019/10/12 20:05:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jeca65aBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jeca65aBL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 22.5 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Vichy Idéal Soleil - Crema Solar Rostro  50 ml](https://www.amazon.com/dp/B007FNUIJI/?tag=redken08-20) a 14.8 EUR (original: 22.5 EUR) (34.22222222222222 %) en el siguiente enlace!
+Ahora mismo tienes [Vichy Idéal Soleil - Crema Solar Rostro  50 ml](https://www.amazon.com/dp/B007FNUIJI/?tag=redken08-20) a 14.8 EUR (original: 22.5 EUR) (34.22 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41jeca65aBL._SL200_.jpg)](https://www.amazon.com/dp/B007FNUIJI/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL 1.2.3- Huevo de Dinosaurio  ún al 62.43386243386243 % de descuento'
+title: 'PLAYMOBIL 1.2.3- Huevo de Dinosaurio  ún al 62.43 % de descuento'
 date: 2020-01-20 07:58:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j-dMpAd-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j-dMpAd-L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.45 EUR
 inStock: true
 ---
 
-Está [PLAYMOBIL 1.2.3- Huevo de Dinosaurio  única  9121 ](https://www.amazon.com/dp/B01LYFU5AP/?tag=redken08-20) con 62.43386243386243 por 3.55 EUR (original: 9.45 EUR) en el siguiente enlace!
+Está [PLAYMOBIL 1.2.3- Huevo de Dinosaurio  única  9121 ](https://www.amazon.com/dp/B01LYFU5AP/?tag=redken08-20) con 62.43 de descuento por 3.55 EUR (original: 9.45 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51j-dMpAd-L._SL200_.jpg)](https://www.amazon.com/dp/B01LYFU5AP/?tag=redken08-20)
 

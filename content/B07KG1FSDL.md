@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Light Set For  Ship in a Bot al 55.016666666666666 % de descuento'
+title: 'LIGHTAILING Light Set For  Ship in a Bot al 55.02 % de descuento'
 date: 2020-01-23 17:36:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 60 GBP
 inStock: true
 ---
 
-Está [LIGHTAILING Light Set For  Ship in a Bottle  Building Blocks Model - Led Light kit Compatible With Lego 21313 NOT Included The Model ](https://www.amazon.com/dp/B07KG1FSDL/?tag=redken08-20) con 55.016666666666666 por 26.99 GBP (original: 60 GBP) en el siguiente enlace!
+Está [LIGHTAILING Light Set For  Ship in a Bottle  Building Blocks Model - Led Light kit Compatible With Lego 21313 NOT Included The Model ](https://www.amazon.com/dp/B07KG1FSDL/?tag=redken08-20) con 55.02 de descuento por 26.99 GBP (original: 60 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg)](https://www.amazon.com/dp/B07KG1FSDL/?tag=redken08-20)
 

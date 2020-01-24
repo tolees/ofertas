@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 38.25275657336725 % en Haribo - Cartucheras - Dulces de regaliz'
+title: 'Descuento del 38.25 % en Haribo - Cartucheras - Dulces de regaliz'
 date: 2019/12/07 17:22:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UcTUifhZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UcTUifhZL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 11.79 EUR
 inStock: true
 ---
 
-Tienes [Haribo - Cartucheras - Dulces de regaliz - 1.5 kg](https://www.amazon.com/dp/B00XAP1QK0/?tag=redken08-20) con un 38.25275657336725 % con precio de oferta de 7.28 EUR (original: 11.79 EUR) en el siguiente enlace!
+Tienes [Haribo - Cartucheras - Dulces de regaliz - 1.5 kg](https://www.amazon.com/dp/B00XAP1QK0/?tag=redken08-20) con un 38.25 % de descuento con precio de oferta de 7.28 EUR (original: 11.79 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51UcTUifhZL._SL200_.jpg)](https://www.amazon.com/dp/B00XAP1QK0/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Men s Summit Unknown Trail R al 40.011111111111106 % de descuento'
+title: 'New Balance Men s Summit Unknown Trail R al 40.01 % de descuento'
 date: 2019/12/24 22:45:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T812voRxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T812voRxL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 90 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [New Balance Men s Summit Unknown Trail Running Shoes  Bright Green  9.5  44 EU ](https://www.amazon.com/dp/B07DVK9M5H/?tag=redken08-20) a 53.99 GBP (original: 90 GBP) (40.011111111111106 %) en el siguiente enlace!
+Ahora mismo tienes [New Balance Men s Summit Unknown Trail Running Shoes  Bright Green  9.5  44 EU ](https://www.amazon.com/dp/B07DVK9M5H/?tag=redken08-20) a 53.99 GBP (original: 90 GBP) (40.01 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41T812voRxL._SL200_.jpg)](https://www.amazon.com/dp/B07DVK9M5H/?tag=redken08-20)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CLUB CUBANA Camisa Hawaiana Florar Casua al 56.85228409469823 % de descuento'
+title: 'CLUB CUBANA Camisa Hawaiana Florar Casua al 56.85 % de descuento'
 date: 2020-01-20 16:05:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-DE%2BOwh0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-DE%2BOwh0L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajustado para Hombre M](https://www.amazon.com/dp/B07D5XWS1V/?tag=redken08-20) a 12.94 EUR (original: 29.99 EUR) (56.85228409469823 %) en el siguiente enlace!
+Ahora mismo tienes [CLUB CUBANA Camisa Hawaiana Florar Casual Manga Corta Ajustado para Hombre M](https://www.amazon.com/dp/B07D5XWS1V/?tag=redken08-20) a 12.94 EUR (original: 29.99 EUR) (56.85 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51-DE%2BOwh0L._SL200_.jpg)](https://www.amazon.com/dp/B07D5XWS1V/?tag=redken08-20)
 

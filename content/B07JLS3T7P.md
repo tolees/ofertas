@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70171 Ghostbusters Collector s al 52.15789473684212 % de descuento'
+title: 'Playmobil 70171 Ghostbusters Collector s al 52.16 % de descuento'
 date: 2019/12/11 22:28:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518ZA5UWX6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518ZA5UWX6L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 38 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Playmobil 70171 Ghostbusters Collector s Edition W. Zeddemore](https://www.amazon.com/dp/B07JLS3T7P/?tag=redken08-20) a 18.18 GBP (original: 38 GBP) (52.15789473684212 %) en el siguiente enlace!
+Ahora mismo tienes [Playmobil 70171 Ghostbusters Collector s Edition W. Zeddemore](https://www.amazon.com/dp/B07JLS3T7P/?tag=redken08-20) a 18.18 GBP (original: 38 GBP) (52.16 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/518ZA5UWX6L._SL200_.jpg)](https://www.amazon.com/dp/B07JLS3T7P/?tag=redken08-20)
 

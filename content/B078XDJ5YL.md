@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Adipower ATTK 1.8 al 48.765625 % de descuento'
+title: 'Adidas Adipower ATTK 1.8 al 48.77 % de descuento'
 date: 2019/10/09 12:26:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O2vDuFL4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O2vDuFL4L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 320 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Adidas Adipower ATTK 1.8](https://www.amazon.com/dp/B078XDJ5YL/?tag=redken08-20) a 163.95 EUR (original: 320 EUR) (48.765625 %) en el siguiente enlace!
+Ahora mismo tienes [Adidas Adipower ATTK 1.8](https://www.amazon.com/dp/B078XDJ5YL/?tag=redken08-20) a 163.95 EUR (original: 320 EUR) (48.77 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51O2vDuFL4L._SL200_.jpg)](https://www.amazon.com/dp/B078XDJ5YL/?tag=redken08-20)
 

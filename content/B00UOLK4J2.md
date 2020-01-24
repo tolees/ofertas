@@ -14,7 +14,7 @@ comparePrice: 100 GBP
 inStock: true
 ---
 
-Está [Tefal 5 Piece  Comfort Max  Stainless Steel  Pots and Pans  Induction Set](https://www.amazon.com/dp/B00UOLK4J2/?tag=redken08-20) con 51.01 por 48.99 GBP (original: 100 GBP) en el siguiente enlace!
+Está [Tefal 5 Piece  Comfort Max  Stainless Steel  Pots and Pans  Induction Set](https://www.amazon.com/dp/B00UOLK4J2/?tag=redken08-20) con 51.01 de descuento por 48.99 GBP (original: 100 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41WLTL3tOUL._SL200_.jpg)](https://www.amazon.com/dp/B00UOLK4J2/?tag=redken08-20)
 

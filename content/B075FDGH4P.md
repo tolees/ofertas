@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Power A - Lunch Box Tin Kit + Mario GS D al 62.57822277847309 % de descuento'
+title: 'Power A - Lunch Box Tin Kit + Mario GS D al 62.58 % de descuento'
 date: 2019/12/16 13:39:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iJO0nQ71L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iJO0nQ71L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 39.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Power A - Lunch Box Tin Kit + Mario GS Design  Nintendo Switch ](https://www.amazon.com/dp/B075FDGH4P/?tag=redken08-20) a 14.95 EUR (original: 39.95 EUR) (62.57822277847309 %) en el siguiente enlace!
+Ahora mismo tienes [Power A - Lunch Box Tin Kit + Mario GS Design  Nintendo Switch ](https://www.amazon.com/dp/B075FDGH4P/?tag=redken08-20) a 14.95 EUR (original: 39.95 EUR) (62.58 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41iJO0nQ71L._SL200_.jpg)](https://www.amazon.com/dp/B075FDGH4P/?tag=redken08-20)
 

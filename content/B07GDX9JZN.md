@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 31.700000000000006 % de descuento'
+title: 'Levi s The Perfect Tee  Camiseta  Mujer  al 31.70 % de descuento'
 date: 2019/11/02 18:17:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ciGvf2W9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ciGvf2W9L._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 30 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Rosa  Hsmk Sachet Pink 0430   XS](https://www.amazon.com/dp/B07GDX9JZN/?tag=redken08-20) a 20.49 EUR (original: 30 EUR) (31.700000000000006 %) en el siguiente enlace!
+Ahora mismo tienes [Levi s The Perfect Tee  Camiseta  Mujer  Rosa  Hsmk Sachet Pink 0430   XS](https://www.amazon.com/dp/B07GDX9JZN/?tag=redken08-20) a 20.49 EUR (original: 30 EUR) (31.70 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41ciGvf2W9L._SL200_.jpg)](https://www.amazon.com/dp/B07GDX9JZN/?tag=redken08-20)
 

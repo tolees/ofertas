@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel London Provocalips Barra De Labio al 34.71428571428571 % de descuento'
+title: 'Rimmel London Provocalips Barra De Labio al 34.71 % de descuento'
 date: 2019/10/31 08:32:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BtLhnxgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BtLhnxgPL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Rimmel London Provocalips Barra De Labios  Tono 200 I ll Call you - 18 gr](https://www.amazon.com/dp/B00MGK9ZTO/?tag=redken08-20) a 4.57 EUR (original: 7 EUR) (34.71428571428571 %) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Provocalips Barra De Labios  Tono 200 I ll Call you - 18 gr](https://www.amazon.com/dp/B00MGK9ZTO/?tag=redken08-20) a 4.57 EUR (original: 7 EUR) (34.71 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31%2BtLhnxgPL._SL200_.jpg)](https://www.amazon.com/dp/B00MGK9ZTO/?tag=redken08-20)
 

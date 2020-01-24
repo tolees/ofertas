@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Austin Vaqueros Tapered  Azul  Rinse al 58.16564758198999 % de descuento'
+title: 'Lee Austin Vaqueros Tapered  Azul  Rinse al 58.17 % de descuento'
 date: 2019/11/12 21:45:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XNI8wvCDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XNI8wvCDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 89.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lee Austin Vaqueros Tapered  Azul  Rinse 36   31W / 32L para Hombre](https://www.amazon.com/dp/B07JXHD6RJ/?tag=redken08-20) a 37.63 EUR (original: 89.95 EUR) (58.16564758198999 %) en el siguiente enlace!
+Ahora mismo tienes [Lee Austin Vaqueros Tapered  Azul  Rinse 36   31W / 32L para Hombre](https://www.amazon.com/dp/B07JXHD6RJ/?tag=redken08-20) a 37.63 EUR (original: 89.95 EUR) (58.17 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31XNI8wvCDL._SL200_.jpg)](https://www.amazon.com/dp/B07JXHD6RJ/?tag=redken08-20)
 

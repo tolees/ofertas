@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois Radiance Reveal Corrector Tono  al 47.78947368421053 % de descuento'
+title: 'Bourjois Radiance Reveal Corrector Tono  al 47.79 % de descuento'
 date: 2019/12/26 22:52:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UsSHNZEUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UsSHNZEUL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 9.5 EUR
 inStock: true
 ---
 
-Está [Bourjois Radiance Reveal Corrector Tono 01 Ivory - 29 gr.](https://www.amazon.com/dp/B01CLO3YA0/?tag=redken08-20) con 47.78947368421053 por 4.96 EUR (original: 9.5 EUR) en el siguiente enlace!
+Está [Bourjois Radiance Reveal Corrector Tono 01 Ivory - 29 gr.](https://www.amazon.com/dp/B01CLO3YA0/?tag=redken08-20) con 47.79 de descuento por 4.96 EUR (original: 9.5 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31UsSHNZEUL._SL200_.jpg)](https://www.amazon.com/dp/B01CLO3YA0/?tag=redken08-20)
 

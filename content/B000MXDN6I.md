@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 55.974999999999994 % en Burberry London Men - Agua de toilette  '
+title: 'Descuento del 55.97 % en Burberry London Men - Agua de toilette  '
 date: 2019/10/29 14:29:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HtewWbRDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HtewWbRDL._SL200_.jpg' ]
@@ -14,7 +14,7 @@ comparePrice: 40 EUR
 inStock: true
 ---
 
-Tienes [Burberry London Men - Agua de toilette  30 ml](https://www.amazon.com/dp/B000MXDN6I/?tag=redken08-20) con un 55.974999999999994 % con precio de oferta de 17.61 EUR (original: 40 EUR) en el siguiente enlace!
+Tienes [Burberry London Men - Agua de toilette  30 ml](https://www.amazon.com/dp/B000MXDN6I/?tag=redken08-20) con un 55.97 % de descuento con precio de oferta de 17.61 EUR (original: 40 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41HtewWbRDL._SL200_.jpg)](https://www.amazon.com/dp/B000MXDN6I/?tag=redken08-20)
 
