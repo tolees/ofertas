@@ -14,10 +14,10 @@ comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Tienes [RIP CURL On The Gun SS tee Camiseta  Hombre  Dark Blue  S](https://www.amazon.com/dp/B07PQTJ3RT/?tag=redken08-20) a precio de oferta de 14.44 EUR (original: 29.99 EUR) en el siguiente enlace!
+Está [RIP CURL On The Gun SS tee Camiseta  Hombre  Dark Blue  S](https://www.amazon.com/dp/B07PQTJ3RT/?tag=redken08-20) por 14.44 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41GZnDww2yL._SL200_.jpg)](https://www.amazon.com/dp/B07PQTJ3RT/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07PQTJ3RT/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07PQTJ3RT/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

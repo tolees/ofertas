@@ -14,10 +14,10 @@ comparePrice: 70 GBP
 inStock: true
 ---
 
-Tienes [Levi s Men s 511 Slim Fit Jeans  Olive Night Warp Str Cord Sorbtek  34W / 34L](https://www.amazon.com/dp/B07LF8ND2M/?tag=redken08-20) a precio de oferta de 35 GBP (original: 70 GBP) en el siguiente enlace!
+Está [Levi s Men s 511 Slim Fit Jeans  Olive Night Warp Str Cord Sorbtek  34W / 34L](https://www.amazon.com/dp/B07LF8ND2M/?tag=redken08-20) por 35 GBP (original: 70 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41o2abSpd7L._SL200_.jpg)](https://www.amazon.com/dp/B07LF8ND2M/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07LF8ND2M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07LF8ND2M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
