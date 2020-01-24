@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 68.67 % en Haribo Torcidas Geles Dulces - 300 gr'
-date: 2020-01-23 15:06:09
+date: 2020-01-24 18:40:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Zu3OgjSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Zu3OgjSL._SL200_.jpg' ]
 comments: true
