@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für The Big'
-date: 2020-01-23 09:42:29
+title: 'BRIKSMAX Kit de Iluminación Led para The'
+date: 2020-01-23 09:51:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8iVgJFrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8iVgJFrL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07N2NMT8G
 description:
-actualPrice: 22.99 EUR
-comparePrice: 47.99 EUR
+actualPrice: 19.99 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Led Beleuchtungsset für The Big Bang Theory  Kompatibel Mit Lego 21302 Bausteinen Modell - Ohne Lego Set](https://www.amazon.com/dp/B07N2NMT8G/?tag=redken08-20) por 22.99 EUR (original: 47.99 EUR) en el siguiente enlace!
+Está [BRIKSMAX Kit de Iluminación Led para The Big Bang Theory-Compatible con Ladrillos de Construcción Lego Modelo 21302-Juego de Legos no Incluido](https://www.amazon.com/dp/B07N2NMT8G/?tag=redken08-20) por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51%2B8iVgJFrL._SL200_.jpg)](https://www.amazon.com/dp/B07N2NMT8G/?tag=redken08-20)
 

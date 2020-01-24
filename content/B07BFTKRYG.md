@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Karactermania 37063 Frozen Sister Queens'
-date: 2020-01-22 01:40:38
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51diobhQBrL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51diobhQBrL._SL200_.jpg' ]
+date: 2020-01-24 10:12:06
+thumbnailImage: 'https://m.media-amazon.com/images/I/51diobhQBrL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51diobhQBrL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Karactermania 37063 Frozen Sister Queens Estuches  22 cm  Azul](https://www.amazon.com/dp/B07BFTKRYG/?tag=redken08-20) a precio de oferta de 5.95 EUR (original: 12.08 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51diobhQBrL._SL200_.jpg)](https://www.amazon.com/dp/B07BFTKRYG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51diobhQBrL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07BFTKRYG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07BFTKRYG/?tag=redken08-20)
 

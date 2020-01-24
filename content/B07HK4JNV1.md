@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Xiaomi Redmi Note 6 Pro Smartphone de 6.'
-date: 2020-01-23 07:48:17
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL._SL200_.jpg' ]
+date: 2020-01-24 10:32:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/41vxJoiB8YL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41vxJoiB8YL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07HK4JNV1
 description:
 actualPrice: 179.99 EUR
-comparePrice: 249 EUR
+comparePrice: 249.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20) a 179.99 EUR (original: 249 EUR) en el siguiente enlace!
+Ahora mismo tienes [Xiaomi Redmi Note 6 Pro Smartphone de 6.26"  Dual SIM  12 MP  4 GB RAM  64 GB Memoria   Negro](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20) a 179.99 EUR (original: 249.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41iaslJv2vL._SL200_.jpg)](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41vxJoiB8YL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B07HK4JNV1/?tag=redken08-20)
 

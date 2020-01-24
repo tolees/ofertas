@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'BRIKSMAX Led Lighting Kit for LEGO Tree '
-date: 2020-01-22 09:44:38
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iTVP0-9RL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iTVP0-9RL._SL200_.jpg' ]
+date: 2020-01-24 09:42:40
+thumbnailImage: 'https://m.media-amazon.com/images/I/51iTVP0-9RL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51iTVP0-9RL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -14,10 +14,10 @@ comparePrice: 99.99 GBP
 inStock: true
 ---
 
-Tienes [BRIKSMAX Led Lighting Kit for LEGO Tree House Compatible with LEGO 21318 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07YXK8Q1R/?tag=redken08-20) a precio de oferta de 59.99 GBP (original: 99.99 GBP) en el siguiente enlace!
+Está [BRIKSMAX Led Lighting Kit for LEGO Tree House Compatible with LEGO 21318 Building Blocks Model- Not Include the Lego Set](https://www.amazon.com/dp/B07YXK8Q1R/?tag=redken08-20) por 59.99 GBP (original: 99.99 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51iTVP0-9RL._SL200_.jpg)](https://www.amazon.com/dp/B07YXK8Q1R/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51iTVP0-9RL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07YXK8Q1R/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07YXK8Q1R/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07YXK8Q1R/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

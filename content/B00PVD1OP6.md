@@ -14,10 +14,10 @@ comparePrice: 159 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [D-Link DCS-2530L Wide Eye Full HD Panoramic Camera  Black](https://www.amazon.com/dp/B00PVD1OP6/?tag=redken08-20) a 106.34 GBP (original: 159 GBP) en el siguiente enlace!
+Está [D-Link DCS-2530L Wide Eye Full HD Panoramic Camera  Black](https://www.amazon.com/dp/B00PVD1OP6/?tag=redken08-20) por 106.34 GBP (original: 159 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41wTusIWwKL._SL200_.jpg)](https://www.amazon.com/dp/B00PVD1OP6/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00PVD1OP6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00PVD1OP6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

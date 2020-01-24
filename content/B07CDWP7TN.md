@@ -14,10 +14,10 @@ comparePrice: 471.99 EUR
 inStock: true
 ---
 
-Está [Sotech Herramienta Multifunción de Jardinería 5 en 1  Desbrozadora Gasolina  Cortasetos y Motosierra  Cortadora de hierbajos  Podadora y Poste de Extensión  52cc  2.2kw  2 Tiempos](https://www.amazon.com/dp/B07CDWP7TN/?tag=redken08-20) por 194.89 EUR (original: 471.99 EUR) en el siguiente enlace!
+Tienes [Sotech Herramienta Multifunción de Jardinería 5 en 1  Desbrozadora Gasolina  Cortasetos y Motosierra  Cortadora de hierbajos  Podadora y Poste de Extensión  52cc  2.2kw  2 Tiempos](https://www.amazon.com/dp/B07CDWP7TN/?tag=redken08-20) a precio de oferta de 194.89 EUR (original: 471.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/514CU4Lu3mL._SL200_.jpg)](https://www.amazon.com/dp/B07CDWP7TN/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07CDWP7TN/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07CDWP7TN/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

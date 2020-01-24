@@ -14,10 +14,10 @@ comparePrice: 47.57 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bella Aurora Bella Día Tratamiento Anti-Edad y Anti-Manchas - 50 ml](https://www.amazon.com/dp/B01LX9P6AR/?tag=redken08-20) a 18.19 EUR (original: 47.57 EUR) en el siguiente enlace!
+Está [Bella Aurora Bella Día Tratamiento Anti-Edad y Anti-Manchas - 50 ml](https://www.amazon.com/dp/B01LX9P6AR/?tag=redken08-20) por 18.19 EUR (original: 47.57 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/411UwGDLwML._SL200_.jpg)](https://www.amazon.com/dp/B01LX9P6AR/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01LX9P6AR/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LX9P6AR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

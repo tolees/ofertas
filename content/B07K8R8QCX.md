@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'infactory Bauspielzeug: Selbstklebendes '
-date: 2020-01-23 09:42:09
+date: 2020-01-24 09:57:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lWilHwhtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lWilHwhtL._SL200_.jpg' ]
 comments: true

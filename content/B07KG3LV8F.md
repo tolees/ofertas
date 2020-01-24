@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Conjunto de luces Lightailing para  Buga'
-date: 2020-01-23 09:57:27
+title: 'Lightailing Light Set for  Bugatti Chiro'
+date: 2020-01-23 17:38:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tGZbFMOML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tGZbFMOML._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KG3LV8F
 description:
-actualPrice: 59.99 EUR
-comparePrice: 120 EUR
+actualPrice: 52.99 GBP
+comparePrice: 100 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Conjunto de luces Lightailing para  Bugatti Chiron  Modelo de Construcción de Bloques - Kit de luz LED compatible con Lego 42083  NO incluido en el modelo ](https://www.amazon.com/dp/B07KG3LV8F/?tag=redken08-20) a 59.99 EUR (original: 120 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lightailing Light Set for  Bugatti Chiron  Building Blocks Model - Led Light kit Compatible with Lego 42083 NOT Included The Model ](https://www.amazon.com/dp/B07KG3LV8F/?tag=redken08-20) a 52.99 GBP (original: 100 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51tGZbFMOML._SL200_.jpg)](https://www.amazon.com/dp/B07KG3LV8F/?tag=redken08-20)
 

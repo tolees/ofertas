@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Optimum Nutrition ON Amino Energy Pre Wo'
-date: 2019/11/25 22:16:43 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mNogbsDOL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mNogbsDOL._SL200_.jpg' ]
+date: 2020-01-24 09:09:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/41lBw02bLbL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41lBw02bLbL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Optimum Nutrition ON Amino Energy Pre Workout Powder Keto Friendly con Beta Alanina  Cafeína  Vitamina C  Aminoacidos Micronizados Incluyendo BCAA  Fruit Fusion  30 Porciones  270 gr](https://www.amazon.com/dp/B013AYGHT0/?tag=redken08-20) por 16.1 EUR (original: 28.59 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51mNogbsDOL._SL200_.jpg)](https://www.amazon.com/dp/B013AYGHT0/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41lBw02bLbL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B013AYGHT0/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B013AYGHT0/?tag=redken08-20)
 

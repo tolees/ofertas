@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Robot STEM Toy | 3 In 1 Fun Creative Set'
-date: 2020-01-22 09:40:21
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T79RPjn8L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T79RPjn8L._SL200_.jpg' ]
+date: 2020-01-24 09:39:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/51HB6oBmEEL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51HB6oBmEEL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Robot STEM Toy | 3 In 1 Fun Creative Set | Construction Building Toys For Boys and Girls Ages 6-14 Years Old | Best Toy Gift For Kids | Free Poster Kit](https://www.amazon.com/dp/B07NLKFC8X/?tag=redken08-20) a precio de oferta de 18.95 GBP (original: 25.95 GBP) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51T79RPjn8L._SL200_.jpg)](https://www.amazon.com/dp/B07NLKFC8X/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51HB6oBmEEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NLKFC8X/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07NLKFC8X/?tag=redken08-20)
 

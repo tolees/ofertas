@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Emma & Giovanni - Pullover- Mujer  S/M  '
-date: 2019/11/17 18:43:10 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/617QiZsI6eL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/617QiZsI6eL._SL200_.jpg' ]
+date: 2020-01-24 10:38:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B0748FMJVX
 description:
-actualPrice: 14.5 EUR
-comparePrice: 25 EUR
+actualPrice: 17.9 EUR
+comparePrice: 25.0 EUR
 inStock: true
 ---
 
-Está [Emma & Giovanni - Pullover- Mujer  S/M  Burdeos ](https://www.amazon.com/dp/B0748FMJVX/?tag=redken08-20) por 14.5 EUR (original: 25 EUR) en el siguiente enlace!
+Está [Emma & Giovanni - Pullover- Mujer  S/M  Burdeos ](https://www.amazon.com/dp/B0748FMJVX/?tag=redken08-20) por 17.9 EUR (original: 25.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/617QiZsI6eL._SL200_.jpg)](https://www.amazon.com/dp/B0748FMJVX/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/617QiZsI6eL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B0748FMJVX/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B0748FMJVX/?tag=redken08-20)
 

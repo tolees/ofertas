@@ -14,10 +14,10 @@ comparePrice: 129.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Fire HD 8 Kids Edition Tablet  8" HD Display  32 GB  Blue Kid-Proof Case](https://www.amazon.com/dp/B078HRR9MW/?tag=redken08-20) a 84.99 GBP (original: 129.99 GBP) en el siguiente enlace!
+Está [Fire HD 8 Kids Edition Tablet  8" HD Display  32 GB  Blue Kid-Proof Case](https://www.amazon.com/dp/B078HRR9MW/?tag=redken08-20) por 84.99 GBP (original: 129.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51uAwQ3zYOL._SL200_.jpg)](https://www.amazon.com/dp/B078HRR9MW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B078HRR9MW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B078HRR9MW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

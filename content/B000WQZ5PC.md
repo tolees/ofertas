@@ -14,10 +14,10 @@ comparePrice: 23.72 EUR
 inStock: true
 ---
 
-Está [Yankee Candle große Duftkerze im Glas  Lemon Lavender  Brenndauer bis zu 150 Stunden](https://www.amazon.com/dp/B000WQZ5PC/?tag=redken08-20) por 16.99 EUR (original: 23.72 EUR) en el siguiente enlace!
+Tienes [Yankee Candle große Duftkerze im Glas  Lemon Lavender  Brenndauer bis zu 150 Stunden](https://www.amazon.com/dp/B000WQZ5PC/?tag=redken08-20) a precio de oferta de 16.99 EUR (original: 23.72 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417-yGKaX6L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B000WQZ5PC/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B000WQZ5PC/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B000WQZ5PC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
