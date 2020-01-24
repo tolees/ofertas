@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'IWAVION Cable Lightning 3ft/1m 4pack Cab'
-date: 2020-01-13 11:15:17
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U7FZo%2B9dL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U7FZo%2B9dL._SL200_.jpg' ]
+date: 2020-01-24 13:09:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/51U7FZo+9dL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51U7FZo+9dL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [IWAVION Cable Lightning 3ft/1m 4pack Cable iPhone Cargador iPhone Carga Rápida Nylon Trenzado Cable Lightning Compatible con iPhone XS MAX XR XS X 8 7 6 6S Plus SE 5S 5C 5  iPad Mini/Air  iPod](https://www.amazon.com/dp/B07SZKZCWJ/?tag=redken08-20) por 10.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51U7FZo%2B9dL._SL200_.jpg)](https://www.amazon.com/dp/B07SZKZCWJ/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51U7FZo+9dL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07SZKZCWJ/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07SZKZCWJ/?tag=redken08-20)
 
