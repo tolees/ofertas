@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Muscle Tank 2pk Camiseta si' al 28.628230616302186 % de descuento
+title: 'Calvin Klein Muscle Tank 2pk Camiseta si al 28.628230616302186 % de descuento'
 date: 2019/12/02 07:27:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21puXF2byqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21puXF2byqL._SL200_.jpg' ]

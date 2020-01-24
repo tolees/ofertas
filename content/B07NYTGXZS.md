@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Dyna-Air  Zapatillas para Hombr' al 40.033361134278564 % de descuento
+title: 'Skechers Dyna-Air  Zapatillas para Hombr al 40.033361134278564 % de descuento'
 date: 2019/12/27 13:10:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RRdg-4zmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RRdg-4zmL._SL200_.jpg' ]

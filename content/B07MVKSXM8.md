@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.66666666666667 % en 'Napapijri Soves Camiseta  Negro  Black 0'
+title: 'Descuento del 36.66666666666667 % en Napapijri Soves Camiseta  Negro  Black 0'
 date: 2019/12/03 14:58:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mz0xPs2FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mz0xPs2FL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HG Armour LS Camiseta de' al 50.02857142857143 % de descuento
+title: 'Under Armour UA HG Armour LS Camiseta de al 50.02857142857143 % de descuento'
 date: 2019/11/27 18:05:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-EXU0KznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-EXU0KznL._SL200_.jpg' ]

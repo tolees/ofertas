@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.863266180882974 % en 'Philips Barbero MG7720/15 - Recortador d'
+title: 'Descuento del 42.863266180882974 % en Philips Barbero MG7720/15 - Recortador d'
 date: 2020-01-24 14:56:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41v-t1-i7CL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41v-t1-i7CL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weiyi Moldes Uñas Guías Extensión Pegati' al 48.579710144927546 % de descuento
+title: 'Weiyi Moldes Uñas Guías Extensión Pegati al 48.579710144927546 % de descuento'
 date: 2019/12/29 11:31:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XzybTrChL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XzybTrChL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hush Puppies Sasha  Sandalias de Platafo' al 73.54144744534081 % de descuento
+title: 'Hush Puppies Sasha  Sandalias de Platafo al 73.54144744534081 % de descuento'
 date: 2019/10/26 10:55:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ieexUeBdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ieexUeBdL._SL200_.jpg' ]

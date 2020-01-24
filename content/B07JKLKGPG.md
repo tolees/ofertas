@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.086017203440683 % en 'Barbie Casa de muñecas con accesorios  M'
+title: 'Descuento del 30.086017203440683 % en Barbie Casa de muñecas con accesorios  M'
 date: 2020-01-23 11:08:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wy9HxOxsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wy9HxOxsL._SL200_.jpg' ]

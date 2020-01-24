@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sh6382 Sudadera   Blanc 001   X-' al 35.5830164765526 % de descuento
+title: 'Lacoste Sh6382 Sudadera   Blanc 001   X- al 35.5830164765526 % de descuento'
 date: 2019/11/24 15:02:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sdbhfHTlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sdbhfHTlL._SL200_.jpg' ]

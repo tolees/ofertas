@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.27030033370413 % en 'Playgro-40082 Pirámide Rock and Stack  C'
+title: 'Descuento del 43.27030033370413 % en Playgro-40082 Pirámide Rock and Stack  C'
 date: 2019/11/05 01:02:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413lc68ESEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413lc68ESEL._SL200_.jpg' ]

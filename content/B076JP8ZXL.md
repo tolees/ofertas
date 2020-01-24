@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.26377295492488 % en 'adidas Trefoil T-Shirt  Black  XL para H'
+title: 'Descuento del 38.26377295492488 % en adidas Trefoil T-Shirt  Black  XL para H'
 date: 2020-01-03 16:35:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PLspv6XrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PLspv6XrL._SL200_.jpg' ]

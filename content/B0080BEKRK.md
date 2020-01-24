@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.00000000000001 % en 'Geomag - Color 120 Piezas  Juego de cons'
+title: 'Descuento del 25.00000000000001 % en Geomag - Color 120 Piezas  Juego de cons'
 date: 2019/11/29 17:28:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/618A8A6hqgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/618A8A6hqgL._SL200_.jpg' ]

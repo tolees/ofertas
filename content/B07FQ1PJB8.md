@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.400000000000006 % en 'Pata Negra Verdejo Vino Blanco D.O Rueda'
+title: 'Descuento del 29.400000000000006 % en Pata Negra Verdejo Vino Blanco D.O Rueda'
 date: 2019/12/20 11:09:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y-dsQY%2BhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y-dsQY%2BhL._SL200_.jpg' ]

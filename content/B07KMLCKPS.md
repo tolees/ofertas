@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom General Stone Crew Sudadera  Homb' al 53.41666666666667 % de descuento
+title: 'Volcom General Stone Crew Sudadera  Homb al 53.41666666666667 % de descuento'
 date: 2019/10/10 17:12:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pmJ1is21L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pmJ1is21L._SL200_.jpg' ]

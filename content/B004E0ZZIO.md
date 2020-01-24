@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Sun Ridge Polo de Manga Corta  ' al 68.07361472294458 % de descuento
+title: 'Columbia Sun Ridge Polo de Manga Corta   al 68.07361472294458 % de descuento'
 date: 2020-01-08 17:51:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310gwcrKZpL._SL200_.jpg' ]

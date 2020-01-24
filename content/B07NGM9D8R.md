@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.82630438406401 % en 'RIP CURL Made For Sunsets Crew Sudadera '
+title: 'Descuento del 57.82630438406401 % en RIP CURL Made For Sunsets Crew Sudadera '
 date: 2019/10/13 11:21:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GYnElsAmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GYnElsAmL._SL200_.jpg' ]

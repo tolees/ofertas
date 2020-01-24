@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Arolun Tableta de Escritura LCD 8.5 Inch' al 30.015007503751868 % de descuento
+title: 'Arolun Tableta de Escritura LCD 8.5 Inch al 30.015007503751868 % de descuento'
 date: 2020-01-16 08:26:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lcEMbwBZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lcEMbwBZL._SL200_.jpg' ]

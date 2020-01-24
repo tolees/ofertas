@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.699999999999996 % en 'Under Armour Favorite Tote Bolsa Deporti'
+title: 'Descuento del 46.699999999999996 % en Under Armour Favorite Tote Bolsa Deporti'
 date: 2019/12/16 17:33:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FQyC8Ew1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FQyC8Ew1L._SL200_.jpg' ]

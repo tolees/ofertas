@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'phil&teds Voyager Buggy Pushchair  Black' al 53.46089101485024 % de descuento
+title: 'phil&teds Voyager Buggy Pushchair  Black al 53.46089101485024 % de descuento'
 date: 2019/12/20 14:23:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513xjoLiK9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513xjoLiK9L._SL200_.jpg' ]

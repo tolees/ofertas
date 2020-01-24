@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'auna Stereosonic Stereo System - Equipo ' al 59.378711169448096 % de descuento
+title: 'auna Stereosonic Stereo System - Equipo  al 59.378711169448096 % de descuento'
 date: 2019/11/07 18:09:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R2KX%2BGK4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R2KX%2BGK4L._SL200_.jpg' ]

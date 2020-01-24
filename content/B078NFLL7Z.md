@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.3447782546495 % en 'Tommy Hilfiger Lana Straight Cropped Icp'
+title: 'Descuento del 71.3447782546495 % en Tommy Hilfiger Lana Straight Cropped Icp'
 date: 2019/10/31 02:46:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ROXiRnLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ROXiRnLL._SL200_.jpg' ]

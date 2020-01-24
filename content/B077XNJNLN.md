@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.74545454545455 % en 'Under Armour Rival Fleece Logo Hoodie Su'
+title: 'Descuento del 52.74545454545455 % en Under Armour Rival Fleece Logo Hoodie Su'
 date: 2019/12/16 11:06:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P1fXRRlML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P1fXRRlML._SL200_.jpg' ]

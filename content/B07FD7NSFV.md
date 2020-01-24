@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.184073629451774 % en 'Starlink Co-Op Pack'
+title: 'Descuento del 60.184073629451774 % en Starlink Co-Op Pack'
 date: 2019/10/08 18:08:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X15wK0OqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X15wK0OqL._SL200_.jpg' ]

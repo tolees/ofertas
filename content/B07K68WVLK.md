@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gancho para Colgador de Garaje 10 Piezas' al 34.79017177647316 % de descuento
+title: 'Gancho para Colgador de Garaje 10 Piezas al 34.79017177647316 % de descuento'
 date: 2019/10/19 11:37:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5158KHfrqOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5158KHfrqOL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.97122302158273 % en 'Stranger Things Llavero de Vinilo Eleven'
+title: 'Descuento del 35.97122302158273 % en Stranger Things Llavero de Vinilo Eleven'
 date: 2019/12/28 17:44:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31meuzeZx%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31meuzeZx%2BL._SL200_.jpg' ]

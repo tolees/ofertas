@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.62325371789094 % en 'Wonderbra Ultimate Backless Soutien-Gorg'
+title: 'Descuento del 43.62325371789094 % en Wonderbra Ultimate Backless Soutien-Gorg'
 date: 2019/10/15 07:40:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BljJP0npL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BljJP0npL._SL200_.jpg' ]

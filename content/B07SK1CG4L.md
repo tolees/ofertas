@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cámara para Niños con Tarjeta TF Cámara ' al 63.82809742322626 % de descuento
+title: 'Cámara para Niños con Tarjeta TF Cámara  al 63.82809742322626 % de descuento'
 date: 2019/12/03 09:19:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KkY29j4FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KkY29j4FL._SL200_.jpg' ]

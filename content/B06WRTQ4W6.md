@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CLUSE Reloj Analógico para Mujer de Cuar' al 30.011542901115806 % de descuento
+title: 'CLUSE Reloj Analógico para Mujer de Cuar al 30.011542901115806 % de descuento'
 date: 2019/11/17 13:48:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bQ7h%2BsPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bQ7h%2BsPJL._SL200_.jpg' ]

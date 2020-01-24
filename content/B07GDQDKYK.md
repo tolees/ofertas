@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.181818181818176 % en 'Levi s 501 Short Long Pantalones Cortos '
+title: 'Descuento del 29.181818181818176 % en Levi s 501 Short Long Pantalones Cortos '
 date: 2020-01-24 09:08:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lH2f%2B5K4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lH2f%2B5K4L._SL200_.jpg' ]

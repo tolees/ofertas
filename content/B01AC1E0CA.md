@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Creator Banco - Juegos de construcc' al 50.214346956273225 % de descuento
+title: 'LEGO Creator Banco - Juegos de construcc al 50.214346956273225 % de descuento'
 date: 2019/11/07 15:18:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61pBRkpa68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61pBRkpa68L._SL200_.jpg' ]

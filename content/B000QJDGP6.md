@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Waterpro Maipo 2  Zapatillas Imp' al 25.01000000000001 % de descuento
+title: 'Merrell Waterpro Maipo 2  Zapatillas Imp al 25.01000000000001 % de descuento'
 date: 2019/10/29 15:53:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p5TC16qKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p5TC16qKL._SL200_.jpg' ]

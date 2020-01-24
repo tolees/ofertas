@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Rovulc Denim Low Sneakers  Za' al 51.89421015010722 % de descuento
+title: 'G-STAR RAW Rovulc Denim Low Sneakers  Za al 51.89421015010722 % de descuento'
 date: 2019/12/03 18:54:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HO7AaPnNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HO7AaPnNL._SL200_.jpg' ]

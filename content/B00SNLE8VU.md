@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mars Gaming MSB1 - Altavoces gaming inal' al 52.26666666666667 % de descuento
+title: 'Mars Gaming MSB1 - Altavoces gaming inal al 52.26666666666667 % de descuento'
 date: 2019/11/21 20:14:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f18t6CdnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f18t6CdnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant D1.Winter TWI Buffalo Check Reg BD ' al 54.37543754375438 % de descuento
+title: 'Gant D1.Winter TWI Buffalo Check Reg BD  al 54.37543754375438 % de descuento'
 date: 2020-01-23 05:58:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pmEJ86HiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pmEJ86HiL._SL200_.jpg' ]

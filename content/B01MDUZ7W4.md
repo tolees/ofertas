@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLEND Work L sw  Sudadera para Mujer  Be' al 76.5874125874126 % de descuento
+title: 'BLEND Work L sw  Sudadera para Mujer  Be al 76.5874125874126 % de descuento'
 date: 2019/11/29 14:41:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410bWJbEnDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410bWJbEnDL._SL200_.jpg' ]

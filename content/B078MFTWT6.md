@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.75 % en 'Asics GT-1000 6  Zapatillas de Entrenami'
+title: 'Descuento del 66.75 % en Asics GT-1000 6  Zapatillas de Entrenami'
 date: 2019/11/18 20:51:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418aXluflSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418aXluflSL._SL200_.jpg' ]

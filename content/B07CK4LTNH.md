@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Twinzen Bata Mujer  XS  Beige Claro/Topo' al 25.006251562890736 % de descuento
+title: 'Twinzen Bata Mujer  XS  Beige Claro/Topo al 25.006251562890736 % de descuento'
 date: 2019/12/28 09:28:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4175YTQWBNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4175YTQWBNL._SL200_.jpg' ]

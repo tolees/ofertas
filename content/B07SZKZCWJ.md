@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.022408963585434 % en 'IWAVION Cable Lightning 3ft/1m 4pack Cab'
+title: 'Descuento del 56.022408963585434 % en IWAVION Cable Lightning 3ft/1m 4pack Cab'
 date: 2020-01-24 13:09:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51U7FZo+9dL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51U7FZo+9dL._AC_._SL200_.jpg' ]

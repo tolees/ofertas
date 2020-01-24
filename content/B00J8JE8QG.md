@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fuego Net 231296 - Deshollinador Pellets' al 35.28 % de descuento
+title: 'Fuego Net 231296 - Deshollinador Pellets al 35.28 % de descuento'
 date: 2019/10/29 21:01:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k2UvD2dxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k2UvD2dxL._SL200_.jpg' ]

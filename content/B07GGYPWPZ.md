@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Auriculares con micrófono  S' al 57.6288144072036 % de descuento
+title: 'Auriculares Auriculares con micrófono  S al 57.6288144072036 % de descuento'
 date: 2019/10/30 10:24:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GUGnstDeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GUGnstDeL._SL200_.jpg' ]

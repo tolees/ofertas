@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Tango Glider Balón  Unisex Adulto' al 42.76849642004773 % de descuento
+title: 'adidas Tango Glider Balón  Unisex Adulto al 42.76849642004773 % de descuento'
 date: 2020-01-07 18:07:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414GlnNwxtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414GlnNwxtL._SL200_.jpg' ]

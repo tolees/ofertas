@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.006251562890736 % en 'ThinkGizmos Pogo Stick para niños - Salt'
+title: 'Descuento del 25.006251562890736 % en ThinkGizmos Pogo Stick para niños - Salt'
 date: 2019/11/23 20:30:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gYMRX0UsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gYMRX0UsL._SL200_.jpg' ]

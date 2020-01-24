@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.64173415912338 % en 'VTIN Mini Auriculares Bluetooth 4.1  Man'
+title: 'Descuento del 47.64173415912338 % en VTIN Mini Auriculares Bluetooth 4.1  Man'
 date: 2020-01-16 17:06:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dENNA3CfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dENNA3CfL._SL200_.jpg' ]

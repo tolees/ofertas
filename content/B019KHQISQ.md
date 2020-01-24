@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.043007167861305 % en 'Nacon 510ES - Teclado para Gaming'
+title: 'Descuento del 58.043007167861305 % en Nacon 510ES - Teclado para Gaming'
 date: 2019/11/14 19:41:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IjTgEhd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IjTgEhd3L._SL200_.jpg' ]

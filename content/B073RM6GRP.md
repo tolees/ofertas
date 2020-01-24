@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.20554797635288 % en 'RED WAGON Vestido Sudadera con Mensaje N'
+title: 'Descuento del 52.20554797635288 % en RED WAGON Vestido Sudadera con Mensaje N'
 date: 2020-01-16 17:39:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CQ1dNBVRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CQ1dNBVRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.00975243810952 % en 'Gant 3-Pack Trunk Seasonal Solid Calzonc'
+title: 'Descuento del 39.00975243810952 % en Gant 3-Pack Trunk Seasonal Solid Calzonc'
 date: 2019-12-31 20:53:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413y4uf1d%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413y4uf1d%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Powerbeats3 Wireless Earphones - Black' al 58.164165931156234 % de descuento
+title: 'Powerbeats3 Wireless Earphones - Black al 58.164165931156234 % de descuento'
 date: 2019/12/16 11:00:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Zv3AWbjTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Zv3AWbjTL._SL200_.jpg' ]

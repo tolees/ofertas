@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.525 % en 'Under Armour Tech Polo  Hombre  Rojo  Re'
+title: 'Descuento del 52.525 % en Under Armour Tech Polo  Hombre  Rojo  Re'
 date: 2019/12/16 21:35:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-8L1GtfSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-8L1GtfSL._SL200_.jpg' ]

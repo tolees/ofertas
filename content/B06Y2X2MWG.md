@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Petcomer Mochila Cápsula Impermeable Tra' al 60.00666740748972 % de descuento
+title: 'Petcomer Mochila Cápsula Impermeable Tra al 60.00666740748972 % de descuento'
 date: 2019/12/28 22:12:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kXzEFc5UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kXzEFc5UL._SL200_.jpg' ]

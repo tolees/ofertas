@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75222 Star Wars The Empire Strikes ' al 25.00083336111204 % de descuento
+title: 'LEGO 75222 Star Wars The Empire Strikes  al 25.00083336111204 % de descuento'
 date: 2019/10/18 23:30:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gGQSrTXoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gGQSrTXoL._SL200_.jpg' ]

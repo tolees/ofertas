@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PEKITAS Colchón Cuna De Viaje Plegable 6' al 50.07999999999999 % de descuento
+title: 'PEKITAS Colchón Cuna De Viaje Plegable 6 al 50.07999999999999 % de descuento'
 date: 2019/11/17 09:01:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lrAjGuFOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lrAjGuFOL._SL200_.jpg' ]

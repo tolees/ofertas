@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica Honeycomb St. Stripe Crew Jersey' al 58.89855072463768 % de descuento
+title: 'Nautica Honeycomb St. Stripe Crew Jersey al 58.89855072463768 % de descuento'
 date: 2019/10/22 18:33:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cCZLvVSsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cCZLvVSsL._SL200_.jpg' ]

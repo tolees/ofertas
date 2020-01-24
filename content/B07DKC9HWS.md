@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma ESS Hoody TR Big Logo Sweatshirt  H' al 43.43852013057672 % de descuento
+title: 'Puma ESS Hoody TR Big Logo Sweatshirt  H al 43.43852013057672 % de descuento'
 date: 2019/12/22 19:38:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313FN6H8KBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313FN6H8KBL._SL200_.jpg' ]

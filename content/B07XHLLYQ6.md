@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.62477558348295 % en 'Assassin s Creed: The Rebel Collection -'
+title: 'Descuento del 26.62477558348295 % en Assassin s Creed: The Rebel Collection -'
 date: 2019/12/12 23:16:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VTUAj%2BjyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VTUAj%2BjyL._SL200_.jpg' ]

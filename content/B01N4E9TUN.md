@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Tassel Suéter para Mujer  Negro  B'
+title: 'Descuento del 70.0 % en find. Tassel Suéter para Mujer  Negro  B'
 date: 2019/11/24 03:18:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cDLgoXtPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cDLgoXtPL._SL200_.jpg' ]

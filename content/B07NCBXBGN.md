@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Hatch Vaqueros  Black Used De' al 35.3088299260548 % de descuento
+title: 'Pepe Jeans Hatch Vaqueros  Black Used De al 35.3088299260548 % de descuento'
 date: 2019/12/29 12:36:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ELsdHwHtL._SL200_.jpg' ]

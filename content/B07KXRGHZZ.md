@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Audew Almohada Cervical de Espuma Viscoe' al 38.43258042436688 % de descuento
+title: 'Audew Almohada Cervical de Espuma Viscoe al 38.43258042436688 % de descuento'
 date: 2020-01-13 10:42:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FGBlybIbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FGBlybIbL._SL200_.jpg' ]

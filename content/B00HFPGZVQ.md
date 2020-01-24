@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Star Wars Chewbacca Key Light [With' al 40.41570438799076 % de descuento
+title: 'Lego Star Wars Chewbacca Key Light [With al 40.41570438799076 % de descuento'
 date: 2020-01-24 10:23:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ujwsvCf0L._SL200_.jpg' ]

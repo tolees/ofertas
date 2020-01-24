@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pierre Cardin Set 10P Calcetines Color: ' al 53.344446759741615 % de descuento
+title: 'Pierre Cardin Set 10P Calcetines Color:  al 53.344446759741615 % de descuento'
 date: 2019/10/11 10:51:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VyKKjUrKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VyKKjUrKL._SL200_.jpg' ]

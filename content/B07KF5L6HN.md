@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Damen 501 Crop Boyfriend Jeans  S' al 37.1 % de descuento
+title: 'Levi s Damen 501 Crop Boyfriend Jeans  S al 37.1 % de descuento'
 date: 2019/12/22 09:54:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G1PNRHGGL._SL200_.jpg' ]

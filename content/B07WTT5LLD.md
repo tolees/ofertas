@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOOBUR Pulsera de Actividad Inteligente ' al 49.09983633387889 % de descuento
+title: 'TOOBUR Pulsera de Actividad Inteligente  al 49.09983633387889 % de descuento'
 date: 2019/11/18 06:32:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-Z5qrhpnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-Z5qrhpnL._SL200_.jpg' ]

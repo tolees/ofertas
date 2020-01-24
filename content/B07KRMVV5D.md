@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Basic Pocket Label S Camiseta de' al 48.03999999999999 % de descuento
+title: 'Element Basic Pocket Label S Camiseta de al 48.03999999999999 % de descuento'
 date: 2019/11/30 17:48:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mAQAqrQXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mAQAqrQXL._SL200_.jpg' ]

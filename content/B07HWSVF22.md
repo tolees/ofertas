@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NOX AT10 Pro Cup Carbon. La Pala de Agus' al 51.65322580645161 % de descuento
+title: 'NOX AT10 Pro Cup Carbon. La Pala de Agus al 51.65322580645161 % de descuento'
 date: 2019/11/30 18:01:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ONJI2iML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ONJI2iML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beurer MP 26 Eliminador de Durezas  Plat' al 29.698492462311556 % de descuento
+title: 'Beurer MP 26 Eliminador de Durezas  Plat al 29.698492462311556 % de descuento'
 date: 2019/12/29 17:41:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BRz7DQfVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BRz7DQfVL._SL200_.jpg' ]

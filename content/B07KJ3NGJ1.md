@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASICS Gel-Game 7 Clay/OC  Zapatillas de ' al 48.50841002856235 % de descuento
+title: 'ASICS Gel-Game 7 Clay/OC  Zapatillas de  al 48.50841002856235 % de descuento'
 date: 2020-01-07 19:37:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41blZIUgwYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41blZIUgwYL._SL200_.jpg' ]

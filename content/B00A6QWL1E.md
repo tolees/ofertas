@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.88888888888889 % en 'Aeg - Tensiómetro De Brazo Bmg 5611'
+title: 'Descuento del 48.88888888888889 % en Aeg - Tensiómetro De Brazo Bmg 5611'
 date: 2019/10/09 22:22:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PDl35tVnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PDl35tVnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.254930254930258 % en 'Kärcher Set completo  1/2"  de 15m con s'
+title: 'Descuento del 30.254930254930258 % en Kärcher Set completo  1/2"  de 15m con s'
 date: 2019/10/09 16:18:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m-x8mDTQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m-x8mDTQL._SL200_.jpg' ]

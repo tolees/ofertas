@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.95450409463148 % en 'AmazonBasics - Toalla de viaje y deporte'
+title: 'Descuento del 49.95450409463148 % en AmazonBasics - Toalla de viaje y deporte'
 date: 2019/11/12 05:34:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DELG1DCqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DELG1DCqL._SL200_.jpg' ]

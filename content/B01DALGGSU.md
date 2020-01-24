@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Izas Dadia Camiseta de Manga Corta  Muje' al 60.77922077922078 % de descuento
+title: 'Izas Dadia Camiseta de Manga Corta  Muje al 60.77922077922078 % de descuento'
 date: 2019/10/18 19:53:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IQXFLKXxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IQXFLKXxL._SL200_.jpg' ]

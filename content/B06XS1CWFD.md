@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.08623759857543 % en 'Bowmore Whisky No.1-700 ml'
+title: 'Descuento del 31.08623759857543 % en Bowmore Whisky No.1-700 ml'
 date: 2020-01-01 18:35:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AB5BIXJYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AB5BIXJYL._SL200_.jpg' ]

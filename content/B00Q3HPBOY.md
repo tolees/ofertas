@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.1608040201005 % en 'Bella Aurora Hydra Rich Solution Crema F'
+title: 'Descuento del 32.1608040201005 % en Bella Aurora Hydra Rich Solution Crema F'
 date: 2019/11/12 18:20:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RPq6T9B%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RPq6T9B%2BL._SL200_.jpg' ]

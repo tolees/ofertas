@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RED WAGON Camiseta Manga Larga Con Lente' al 36.96060037523452 % de descuento
+title: 'RED WAGON Camiseta Manga Larga Con Lente al 36.96060037523452 % de descuento'
 date: 2019/12/08 13:55:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cYWaUjPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cYWaUjPFL._SL200_.jpg' ]

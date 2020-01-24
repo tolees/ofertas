@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IMC Toys - Peke Baby  Lucas  94727 ' al 49.99166527754626 % de descuento
+title: 'IMC Toys - Peke Baby  Lucas  94727  al 49.99166527754626 % de descuento'
 date: 2019/11/21 07:22:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oPMWOFDvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oPMWOFDvL._SL200_.jpg' ]

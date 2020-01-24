@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SRSXB01B - Altavoz inalámbrico port' al 34.31428571428572 % de descuento
+title: 'Sony SRSXB01B - Altavoz inalámbrico port al 34.31428571428572 % de descuento'
 date: 2019/12/14 14:52:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jJaaWKNbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jJaaWKNbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.8314606741573 % en 'Napapijri BIBU C Sudadera  Azul  BLU Mar'
+title: 'Descuento del 42.8314606741573 % en Napapijri BIBU C Sudadera  Azul  BLU Mar'
 date: 2019/12/06 14:54:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jZ3OGfbFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jZ3OGfbFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dockers Smart 360 Flex Alpha Skinny Vaqu' al 49.4 % de descuento
+title: 'Dockers Smart 360 Flex Alpha Skinny Vaqu al 49.4 % de descuento'
 date: 2019/10/05 11:14:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Esj7Y3LnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Esj7Y3LnL._SL200_.jpg' ]

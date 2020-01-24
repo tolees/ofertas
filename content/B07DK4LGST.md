@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Jr Sandal Roxanne B  Sandalias Punt' al 28.605482717520868 % de descuento
+title: 'Geox Jr Sandal Roxanne B  Sandalias Punt al 28.605482717520868 % de descuento'
 date: 2020-01-20 12:02:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U-H8ZwQaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U-H8ZwQaL._SL200_.jpg' ]

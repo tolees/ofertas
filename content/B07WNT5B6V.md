@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.70000000000001 % en 'TTYAOVO Niñas Muestran Princesa Vestido '
+title: 'Descuento del 36.70000000000001 % en TTYAOVO Niñas Muestran Princesa Vestido '
 date: 2020-01-23 10:08:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u825WucQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u825WucQL._SL200_.jpg' ]

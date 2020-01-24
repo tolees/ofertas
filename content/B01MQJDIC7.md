@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Calshot Trunk  Bañador para' al 33.323529411764696 % de descuento
+title: 'Helly Hansen Calshot Trunk  Bañador para al 33.323529411764696 % de descuento'
 date: 2020-01-16 13:56:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GlYUGR%2BzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GlYUGR%2BzL._SL200_.jpg' ]

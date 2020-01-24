@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.39672429481347 % en 'Bolsos Mujer Fanspack Bolso Bandolera Mu'
+title: 'Descuento del 36.39672429481347 % en Bolsos Mujer Fanspack Bolso Bandolera Mu'
 date: 2019/11/15 12:33:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x3fK1YeIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x3fK1YeIL._SL200_.jpg' ]

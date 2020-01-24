@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.366666666666674 % en 'Revlon Asia Shampoo Champú - 1000 ml'
+title: 'Descuento del 51.366666666666674 % en Revlon Asia Shampoo Champú - 1000 ml'
 date: 2019/11/11 13:43:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OY0OgjksL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OY0OgjksL._SL200_.jpg' ]

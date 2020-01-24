@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Drift Cat 5 AC  Zapatillas Unisex A' al 37.782909930715945 % de descuento
+title: 'PUMA Drift Cat 5 AC  Zapatillas Unisex A al 37.782909930715945 % de descuento'
 date: 2019/11/28 20:42:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m7YwiNXTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m7YwiNXTL._SL200_.jpg' ]

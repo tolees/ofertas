@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Arena Fastpack 2.1 Mochila  Unisex Adult' al 27.15339417427177 % de descuento
+title: 'Arena Fastpack 2.1 Mochila  Unisex Adult al 27.15339417427177 % de descuento'
 date: 2020-01-22 17:22:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Aj9sYG-0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Aj9sYG-0L._SL200_.jpg' ]

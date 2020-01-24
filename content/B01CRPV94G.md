@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DOSS SoundBox - Altavoz Bluetooth con Ta' al 26.005201040208036 % de descuento
+title: 'DOSS SoundBox - Altavoz Bluetooth con Ta al 26.005201040208036 % de descuento'
 date: 2019/10/05 10:13:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r2Lr-n6mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r2Lr-n6mL._SL200_.jpg' ]

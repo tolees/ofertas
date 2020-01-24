@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.003000300030003 % en 'Columbia Peakfreak Nomad  Botas de Sende'
+title: 'Descuento del 30.003000300030003 % en Columbia Peakfreak Nomad  Botas de Sende'
 date: 2020-01-22 20:47:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nKcpMpo7L._SL200_.jpg' ]

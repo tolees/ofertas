@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.100000000000005 % en 'New Balance 574 Core Zapatillas Hombre  '
+title: 'Descuento del 30.100000000000005 % en New Balance 574 Core Zapatillas Hombre  '
 date: 2020-01-05 17:38:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fzbDkTKwL._SL200_.jpg' ]

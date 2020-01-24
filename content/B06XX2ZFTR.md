@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair K63 - Teclado mecánico Gaming  C' al 27.780864540504503 % de descuento
+title: 'Corsair K63 - Teclado mecánico Gaming  C al 27.780864540504503 % de descuento'
 date: 2020-01-24 16:49:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41h2IeK3d4L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41h2IeK3d4L._AC_._SL200_.jpg' ]

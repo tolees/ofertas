@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.805335556481865 % en 'Teclados Gaming  TedGem Teclado Gaming  '
+title: 'Descuento del 32.805335556481865 % en Teclados Gaming  TedGem Teclado Gaming  '
 date: 2020-01-24 13:21:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51u6nMC1C-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51u6nMC1C-L._AC_._SL200_.jpg' ]

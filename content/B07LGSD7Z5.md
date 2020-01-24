@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.86020430030717 % en 'Sous Vide Aobosi Dispositivo de cocción '
+title: 'Descuento del 42.86020430030717 % en Sous Vide Aobosi Dispositivo de cocción '
 date: 2019/11/17 22:00:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSnn3V1BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XSnn3V1BL._SL200_.jpg' ]

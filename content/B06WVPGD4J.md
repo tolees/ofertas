@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9282 - Skischule' al 71.70462387853694 % de descuento
+title: 'Playmobil 9282 - Skischule al 71.70462387853694 % de descuento'
 date: 2020-01-21 10:22:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/610ilK%2B3K6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/610ilK%2B3K6L._SL200_.jpg' ]

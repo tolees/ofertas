@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.587280108254404 % en 'TRANGO Tamajon Bermudas  Hombre  Negro  '
+title: 'Descuento del 44.587280108254404 % en TRANGO Tamajon Bermudas  Hombre  Negro  '
 date: 2019/10/23 04:42:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yXYceIASL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yXYceIASL._SL200_.jpg' ]

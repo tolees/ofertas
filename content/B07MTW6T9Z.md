@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revell Control 01021 Adventskalender RC ' al 42.8693912546442 % de descuento
+title: 'Revell Control 01021 Adventskalender RC  al 42.8693912546442 % de descuento'
 date: 2019/12/14 16:55:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IE8wDdB-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IE8wDdB-L._SL200_.jpg' ]

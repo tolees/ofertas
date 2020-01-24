@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.212606303151574 % en 'Hori - Funda rígida Pokémon Espada y Esc'
+title: 'Descuento del 25.212606303151574 % en Hori - Funda rígida Pokémon Espada y Esc'
 date: 2020-01-07 11:59:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eQmCBAWGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eQmCBAWGL._SL200_.jpg' ]

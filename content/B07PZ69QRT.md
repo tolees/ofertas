@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.08617041738796 % en 'COOAU Grabadora de Voz Digital Portátil '
+title: 'Descuento del 48.08617041738796 % en COOAU Grabadora de Voz Digital Portátil '
 date: 2019/12/01 08:05:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vIHBkSp4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vIHBkSp4L._SL200_.jpg' ]

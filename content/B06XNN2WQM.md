@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.7133376951117 % en 'Western Digital WDBK3E2560PSL-WESN 256 G'
+title: 'Descuento del 32.7133376951117 % en Western Digital WDBK3E2560PSL-WESN 256 G'
 date: 2019/11/12 18:36:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NBzS8NqML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NBzS8NqML._SL200_.jpg' ]

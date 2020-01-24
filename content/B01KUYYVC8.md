@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.86486486486486 % en 'Seiko Reloj Análogo clásico para Hombre '
+title: 'Descuento del 34.86486486486486 % en Seiko Reloj Análogo clásico para Hombre '
 date: 2019/10/18 21:38:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A69N9N9EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A69N9N9EL._SL200_.jpg' ]

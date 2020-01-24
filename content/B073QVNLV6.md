@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bluetooth Headphones  Riwbox XBT-80 Wire' al 43.29329329329329 % de descuento
+title: 'Bluetooth Headphones  Riwbox XBT-80 Wire al 43.29329329329329 % de descuento'
 date: 2019/12/04 12:41:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VRo6WdR2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VRo6WdR2L._SL200_.jpg' ]

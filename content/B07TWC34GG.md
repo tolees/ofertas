@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.61958612200939 % en 'Adsvtech Smartwatch  Impermeable Reloj I'
+title: 'Descuento del 54.61958612200939 % en Adsvtech Smartwatch  Impermeable Reloj I'
 date: 2020-01-04 11:25:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oHyZ0wc1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oHyZ0wc1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.9941141848146 % en 'Wrangler Texas Water Resistant  Jeans  A'
+title: 'Descuento del 49.9941141848146 % en Wrangler Texas Water Resistant  Jeans  A'
 date: 2019/10/24 18:34:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k%2B7McIy1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k%2B7McIy1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fantasy Flight Games- Soldados de Asalto' al 46.25250501002004 % de descuento
+title: 'Fantasy Flight Games- Soldados de Asalto al 46.25250501002004 % de descuento'
 date: 2019/12/21 20:02:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416I-7wQThL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416I-7wQThL._SL200_.jpg' ]

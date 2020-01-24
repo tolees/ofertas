@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Zante Pursuit  Za' al 40.0 % de descuento
+title: 'New Balance Fresh Foam Zante Pursuit  Za al 40.0 % de descuento'
 date: 2019/10/26 07:10:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H-O4YnsHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H-O4YnsHL._SL200_.jpg' ]

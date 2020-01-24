@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.98998998999 % en 'HIKARO Chaqueta Bomber Hombre  Verde  Kh'
+title: 'Descuento del 69.98998998999 % en HIKARO Chaqueta Bomber Hombre  Verde  Kh'
 date: 2019/10/08 11:39:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UFOXbWqXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UFOXbWqXL._SL200_.jpg' ]

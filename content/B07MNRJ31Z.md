@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Slim Vaqueros  Lt Aged D' al 33.25917686318132 % de descuento
+title: 'G-STAR RAW 3301 Slim Vaqueros  Lt Aged D al 33.25917686318132 % de descuento'
 date: 2019/10/14 13:42:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N81QrZr5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N81QrZr5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0 % en 'find. 64635 vaqueros mujer  Azul  Blue  '
+title: 'Descuento del 60.0 % en find. 64635 vaqueros mujer  Azul  Blue  '
 date: 2019/12/21 18:38:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4173lBMcj5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4173lBMcj5L._SL200_.jpg' ]

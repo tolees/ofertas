@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 80.92592592592592 % en 'Gant Sonnenbrille Ga7040 91E 53 Gafas de'
+title: 'Descuento del 80.92592592592592 % en Gant Sonnenbrille Ga7040 91E 53 Gafas de'
 date: 2019/11/12 11:28:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qv3-mmOZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qv3-mmOZL._SL200_.jpg' ]

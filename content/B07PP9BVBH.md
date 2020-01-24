@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aceite esencial de lavanda  Mindbreaker ' al 52.51312828207053 % de descuento
+title: 'Aceite esencial de lavanda  Mindbreaker  al 52.51312828207053 % de descuento'
 date: 2019/10/23 12:29:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ks3pJYxBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ks3pJYxBL._SL200_.jpg' ]

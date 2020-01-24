@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luxana Phyto Nature Tónico Azul Cabellos' al 32.15686274509804 % de descuento
+title: 'Luxana Phyto Nature Tónico Azul Cabellos al 32.15686274509804 % de descuento'
 date: 2020-01-18 07:23:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z-d8ky7cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z-d8ky7cL._SL200_.jpg' ]

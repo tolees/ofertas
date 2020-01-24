@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.24710619023654 % en '3W GRT Leggings mujer fitness Mallas Dep'
+title: 'Descuento del 57.24710619023654 % en 3W GRT Leggings mujer fitness Mallas Dep'
 date: 2019/12/27 10:15:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oKU675IIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oKU675IIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger City Modern Material Mix ' al 47.919911012235815 % de descuento
+title: 'Tommy Hilfiger City Modern Material Mix  al 47.919911012235815 % de descuento'
 date: 2019/11/15 20:29:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fsgSH8iIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fsgSH8iIL._SL200_.jpg' ]

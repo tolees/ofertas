@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Drego Belt Cinturón  Multicol' al 69.94161801501251 % de descuento
+title: 'G-STAR RAW Drego Belt Cinturón  Multicol al 69.94161801501251 % de descuento'
 date: 2020-01-10 21:06:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Uw5aVka-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Uw5aVka-L._SL200_.jpg' ]

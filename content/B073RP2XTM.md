@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.46153846153846 % en 'Helly Hansen Crew Windbreaker Chaqueta  '
+title: 'Descuento del 43.46153846153846 % en Helly Hansen Crew Windbreaker Chaqueta  '
 date: 2019/10/07 15:45:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZitQ8kCHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZitQ8kCHL._SL200_.jpg' ]

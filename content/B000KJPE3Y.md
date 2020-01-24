@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Faber-Castell 117524 - Estuche de metal ' al 31.267154620311068 % de descuento
+title: 'Faber-Castell 117524 - Estuche de metal  al 31.267154620311068 % de descuento'
 date: 2019/11/20 07:59:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515awFmfcML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515awFmfcML._SL200_.jpg' ]

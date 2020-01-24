@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guzack Riñonera Deportivo Bolso Cintura ' al 55.57613931085588 % de descuento
+title: 'Guzack Riñonera Deportivo Bolso Cintura  al 55.57613931085588 % de descuento'
 date: 2020-01-12 12:10:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HDc9Rc5HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HDc9Rc5HL._SL200_.jpg' ]

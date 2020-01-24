@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jabra Elite 85H Auriculares Bluetooth 5.' al 44.90149671655722 % de descuento
+title: 'Jabra Elite 85H Auriculares Bluetooth 5. al 44.90149671655722 % de descuento'
 date: 2020-01-10 11:00:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o39UmlerL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o39UmlerL._SL200_.jpg' ]

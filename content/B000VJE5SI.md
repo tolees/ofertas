@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.57255182273053 % en 'Leifheit Niveau - Multiasiento de acero '
+title: 'Descuento del 41.57255182273053 % en Leifheit Niveau - Multiasiento de acero '
 date: 2019/11/15 15:49:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q9n4q7JYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q9n4q7JYL._SL200_.jpg' ]

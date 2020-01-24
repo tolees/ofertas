@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FOREO UFO - Tratamiento de Mascarilla In' al 29.000000000000004 % de descuento
+title: 'FOREO UFO - Tratamiento de Mascarilla In al 29.000000000000004 % de descuento'
 date: 2020-01-16 15:12:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ngGEXgaGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ngGEXgaGL._SL200_.jpg' ]

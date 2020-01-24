@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.22076379773736 % en 'Salomon Speedcross 4 GTX  Zapatillas de '
+title: 'Descuento del 32.22076379773736 % en Salomon Speedcross 4 GTX  Zapatillas de '
 date: 2019/10/15 09:11:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41crqsr61rL._SL200_.jpg' ]

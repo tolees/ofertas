@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Moab 2 GTX  Zapatillas de Sender' al 31.78461538461538 % de descuento
+title: 'Merrell Moab 2 GTX  Zapatillas de Sender al 31.78461538461538 % de descuento'
 date: 2020-01-19 06:13:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yAzHhgV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yAzHhgV5L._SL200_.jpg' ]

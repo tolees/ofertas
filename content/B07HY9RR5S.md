@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chicco Pantaloncini  Pantalones Cortos p' al 46.02720114531138 % de descuento
+title: 'Chicco Pantaloncini  Pantalones Cortos p al 46.02720114531138 % de descuento'
 date: 2019/10/31 12:57:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vWo64IphL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vWo64IphL._SL200_.jpg' ]

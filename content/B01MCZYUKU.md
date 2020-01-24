@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.81159420289855 % en 'Pepe Jeans Soho Vaqueros  Azul  10Oz Rin'
+title: 'Descuento del 62.81159420289855 % en Pepe Jeans Soho Vaqueros  Azul  10Oz Rin'
 date: 2019/10/25 10:36:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hz8DLYZyL._SL200_.jpg' ]

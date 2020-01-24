@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.11686143572622 % en 'Wrangler Ringer tee Camiseta  Blanco  Wh'
+title: 'Descuento del 70.11686143572622 % en Wrangler Ringer tee Camiseta  Blanco  Wh'
 date: 2019/12/21 14:09:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NCbmGeleL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NCbmGeleL._SL200_.jpg' ]

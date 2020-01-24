@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.98699674918729 % en 'Life Is Strange 2'
+title: 'Descuento del 47.98699674918729 % en Life Is Strange 2'
 date: 2019/12/24 10:47:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F52DnPtUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F52DnPtUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.47644852021676 % en 'G-STAR RAW Bronson Pleated Relaxed Taper'
+title: 'Descuento del 83.47644852021676 % en G-STAR RAW Bronson Pleated Relaxed Taper'
 date: 2019/10/13 18:01:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p0q-mMK0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p0q-mMK0L._SL200_.jpg' ]

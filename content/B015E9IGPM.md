@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.17834051724138 % en 'Gant Sonnenbrille Ga7047 90A 54 Gafas de'
+title: 'Descuento del 49.17834051724138 % en Gant Sonnenbrille Ga7047 90A 54 Gafas de'
 date: 2020-01-24 01:27:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31haMPgoLwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31haMPgoLwL._SL200_.jpg' ]

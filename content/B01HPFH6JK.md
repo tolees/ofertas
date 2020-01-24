@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Inversor de Corriente 200W  BESTEK Trans' al 50.00833472245374 % de descuento
+title: 'Inversor de Corriente 200W  BESTEK Trans al 50.00833472245374 % de descuento'
 date: 2020-01-19 09:46:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410njdstQaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410njdstQaL._SL200_.jpg' ]

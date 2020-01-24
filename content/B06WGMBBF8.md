@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WMF Vitalis Fuente redondo de cocción al' al 53.33688912594173 % de descuento
+title: 'WMF Vitalis Fuente redondo de cocción al al 53.33688912594173 % de descuento'
 date: 2019/10/22 12:36:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jnvJBZGIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jnvJBZGIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.02273760800363 % en 'LEADSTAR 3x Bolsa de Pañales Reutilizabl'
+title: 'Descuento del 50.02273760800363 % en LEADSTAR 3x Bolsa de Pañales Reutilizabl'
 date: 2019/12/08 10:01:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A0ArQBzOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A0ArQBzOL._SL200_.jpg' ]

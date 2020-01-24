@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.29522481700942 % en 'Kyansin Reconstruido Cartuchos de Tinta '
+title: 'Descuento del 37.29522481700942 % en Kyansin Reconstruido Cartuchos de Tinta '
 date: 2019/12/23 18:20:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31INYETXVjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31INYETXVjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ieGeek Autoradio Bluetooth  4×60W Llamad' al 37.300779925398444 % de descuento
+title: 'ieGeek Autoradio Bluetooth  4×60W Llamad al 37.300779925398444 % de descuento'
 date: 2019/12/05 19:46:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JB6qPZnnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JB6qPZnnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PARTU Sous Vide Garer-Sous Video Stick C' al 26.83254055372606 % de descuento
+title: 'PARTU Sous Vide Garer-Sous Video Stick C al 26.83254055372606 % de descuento'
 date: 2020-01-15 10:26:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qpx5fffyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qpx5fffyL._SL200_.jpg' ]

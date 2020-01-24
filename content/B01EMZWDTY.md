@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.793510324483776 % en 'Fleck Duo Termo Electrico  Eficiencia B '
+title: 'Descuento del 33.793510324483776 % en Fleck Duo Termo Electrico  Eficiencia B '
 date: 2019/10/30 09:05:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RhGbAlNIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RhGbAlNIL._SL200_.jpg' ]

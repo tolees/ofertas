@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.80672268907563 % en 'Lacoste Straightset 319 2 Cfa  Zapatilla'
+title: 'Descuento del 73.80672268907563 % en Lacoste Straightset 319 2 Cfa  Zapatilla'
 date: 2020-01-13 12:00:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31POZeRY%2B8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31POZeRY%2B8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko - POP Vinyl Animación Morty: Profe' al 46.39498432601881 % de descuento
+title: 'Funko - POP Vinyl Animación Morty: Profe al 46.39498432601881 % de descuento'
 date: 2019/12/16 18:16:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bwD7l%2BjtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.08668366346342 % en 'RED WAGON Chubasquero de Rayas Niños  Az'
+title: 'Descuento del 42.08668366346342 % en RED WAGON Chubasquero de Rayas Niños  Az'
 date: 2019/10/22 10:46:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BO4kuiKZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BO4kuiKZL._SL200_.jpg' ]

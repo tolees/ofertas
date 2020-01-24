@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.553712602697257 % en 'Skechers Metco-Parken  Zapatillas para H'
+title: 'Descuento del 28.553712602697257 % en Skechers Metco-Parken  Zapatillas para H'
 date: 2019/12/25 08:10:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41srb5D8joL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41srb5D8joL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.18168569346612 % en 'AUCARY Mini Proyector HD  1080P DLP Vide'
+title: 'Descuento del 31.18168569346612 % en AUCARY Mini Proyector HD  1080P DLP Vide'
 date: 2019/11/03 07:55:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WnafwfmfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WnafwfmfL._SL200_.jpg' ]

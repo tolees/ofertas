@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers D lites-Biggest Fan  Zapatillas' al 49.95450409463149 % de descuento
+title: 'Skechers D lites-Biggest Fan  Zapatillas al 49.95450409463149 % de descuento'
 date: 2019/10/19 10:47:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rKwx3VNbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rKwx3VNbL._SL200_.jpg' ]

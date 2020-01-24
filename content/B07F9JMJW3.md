@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Festina Reloj de Pulsera F20363/3' al 38.319505449812915 % de descuento
+title: 'Festina Reloj de Pulsera F20363/3 al 38.319505449812915 % de descuento'
 date: 2019/10/30 21:17:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XgD4d8DDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XgD4d8DDL._SL200_.jpg' ]

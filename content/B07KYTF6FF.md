@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 5.Pc.Short Print Cinturon Pa' al 78.39135654261705 % de descuento
+title: 'Springfield 5.Pc.Short Print Cinturon Pa al 78.39135654261705 % de descuento'
 date: 2019/12/02 18:41:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vq-TBMx%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vq-TBMx%2BL._SL200_.jpg' ]

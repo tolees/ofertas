@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Remington XR1410 - Afeitadora rotativa e' al 46.21462146214621 % de descuento
+title: 'Remington XR1410 - Afeitadora rotativa e al 46.21462146214621 % de descuento'
 date: 2019/10/17 12:57:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RpE1UsdJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RpE1UsdJL._SL200_.jpg' ]

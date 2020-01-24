@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.667333666833414 % en 'LEGO Creator 31089 - Rennwagen'
+title: 'Descuento del 34.667333666833414 % en LEGO Creator 31089 - Rennwagen'
 date: 2020-01-24 10:02:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uAnAVl0rL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uAnAVl0rL._AC_._SL200_.jpg' ]

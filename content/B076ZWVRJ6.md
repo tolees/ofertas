@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Daplin R T S/s Camiseta   Bla' al 33.25542570951586 % de descuento
+title: 'G-STAR RAW Daplin R T S/s Camiseta   Bla al 33.25542570951586 % de descuento'
 date: 2019/11/12 09:58:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UtzxvDhiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UtzxvDhiL._SL200_.jpg' ]

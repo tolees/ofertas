@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lexmark 50F2U0E - Tóner  capacidad 20000' al 40.83597172918866 % de descuento
+title: 'Lexmark 50F2U0E - Tóner  capacidad 20000 al 40.83597172918866 % de descuento'
 date: 2020-01-13 19:29:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qSJVYJwZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versión Actualizada Hapilife Grifo Lavab' al 36.85180310608055 % de descuento
+title: 'Versión Actualizada Hapilife Grifo Lavab al 36.85180310608055 % de descuento'
 date: 2020-01-10 07:17:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mNbvZvniL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mNbvZvniL._SL200_.jpg' ]

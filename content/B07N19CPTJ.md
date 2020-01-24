@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Lee Logo tee  Camiseta para Hombre  Rojo'
+title: 'Descuento del 50.0 % en Lee Logo tee  Camiseta para Hombre  Rojo'
 date: 2020-01-11 11:54:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kv84a6qIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kv84a6qIL._SL200_.jpg' ]

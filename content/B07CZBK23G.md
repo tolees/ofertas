@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Qualifier Singlet Tanque' al 60.50233385196711 % de descuento
+title: 'Under Armour UA Qualifier Singlet Tanque al 60.50233385196711 % de descuento'
 date: 2019/12/28 15:44:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DiLnB3bFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DiLnB3bFL._SL200_.jpg' ]

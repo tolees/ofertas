@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HomCom® Mesa Consola Aparador Salón Come' al 50.00250012500626 % de descuento
+title: 'HomCom® Mesa Consola Aparador Salón Come al 50.00250012500626 % de descuento'
 date: 2019/10/18 05:02:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R9oahJgqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R9oahJgqL._SL200_.jpg' ]

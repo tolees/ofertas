@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NutriBullet N9C-0928 Extractor de Nutrie' al 33.29553035356905 % de descuento
+title: 'NutriBullet N9C-0928 Extractor de Nutrie al 33.29553035356905 % de descuento'
 date: 2019/11/12 09:27:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzgkvI6gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzgkvI6gL._SL200_.jpg' ]

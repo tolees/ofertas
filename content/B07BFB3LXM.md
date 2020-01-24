@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Injustice 2 - Legendary Edition' al 46.73894912427022 % de descuento
+title: 'Injustice 2 - Legendary Edition al 46.73894912427022 % de descuento'
 date: 2019/10/11 09:49:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514sCGnf9JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514sCGnf9JL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.83673469387755 % en 'Vieta Pro Handy - Altavoz inalámbrico po'
+title: 'Descuento del 40.83673469387755 % en Vieta Pro Handy - Altavoz inalámbrico po'
 date: 2019/11/28 07:08:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tuMu1tQZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tuMu1tQZL._SL200_.jpg' ]

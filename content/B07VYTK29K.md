@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MFAVOUR Handstaubsauger  120W Akku Staub' al 31.43306186598085 % de descuento
+title: 'MFAVOUR Handstaubsauger  120W Akku Staub al 31.43306186598085 % de descuento'
 date: 2019/11/06 14:06:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l00CTWWTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l00CTWWTL._SL200_.jpg' ]

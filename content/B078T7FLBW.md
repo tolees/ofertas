@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hilfiger Denim Tj Urban Textile Sneaker ' al 62.51564455569463 % de descuento
+title: 'Hilfiger Denim Tj Urban Textile Sneaker  al 62.51564455569463 % de descuento'
 date: 2019/11/10 11:12:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412IZbt0YhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412IZbt0YhL._SL200_.jpg' ]

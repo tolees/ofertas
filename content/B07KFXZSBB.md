@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.760586862287425 % en 'PUMA Future 4.1 Netfit FG/AG Jr  Botas d'
+title: 'Descuento del 61.760586862287425 % en PUMA Future 4.1 Netfit FG/AG Jr  Botas d'
 date: 2019/11/13 12:46:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HOISJ3KEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HOISJ3KEL._SL200_.jpg' ]

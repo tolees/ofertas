@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler LS Western Shirt Camisa  Negro ' al 75.16551193225558 % de descuento
+title: 'Wrangler LS Western Shirt Camisa  Negro  al 75.16551193225558 % de descuento'
 date: 2020-01-17 17:04:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511fI7uqMcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511fI7uqMcL._SL200_.jpg' ]

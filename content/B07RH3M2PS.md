@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Rush Runner  Zapatillas de Entren' al 38.91273247496424 % de descuento
+title: 'Reebok Rush Runner  Zapatillas de Entren al 38.91273247496424 % de descuento'
 date: 2020-01-10 18:52:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w8%2BzI8S0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w8%2BzI8S0L._SL200_.jpg' ]

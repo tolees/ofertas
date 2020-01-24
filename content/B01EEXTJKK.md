@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.70762322685989 % en 'Suaoki U10 - Jump Starter de 20000mAh  8'
+title: 'Descuento del 34.70762322685989 % en Suaoki U10 - Jump Starter de 20000mAh  8'
 date: 2019/11/30 03:46:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jGJlt9okL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jGJlt9okL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sylvanian Families 5021 - Refrigerator S' al 49.949949949949946 % de descuento
+title: 'Sylvanian Families 5021 - Refrigerator S al 49.949949949949946 % de descuento'
 date: 2020-01-24 01:43:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nWv+oEboL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nWv+oEboL._AC_._SL200_.jpg' ]

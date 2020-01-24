@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chicco Polly 2 Start Trona y hamaca tran' al 37.735849056603776 % de descuento
+title: 'Chicco Polly 2 Start Trona y hamaca tran al 37.735849056603776 % de descuento'
 date: 2020-01-14 08:52:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Eb8TwrtrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Eb8TwrtrL._SL200_.jpg' ]

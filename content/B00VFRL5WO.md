@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.35321774904497 % en 'Uhlsport Stream 3.0 Classic Chaqueta de '
+title: 'Descuento del 66.35321774904497 % en Uhlsport Stream 3.0 Classic Chaqueta de '
 date: 2019/11/02 11:49:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l7zOphxnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l7zOphxnL._SL200_.jpg' ]

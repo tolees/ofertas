@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Levi s Men s 511 Slim Fit Jeans  Olive N'
+title: 'Descuento del 50.0 % en Levi s Men s 511 Slim Fit Jeans  Olive N'
 date: 2020-01-16 08:56:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o2abSpd7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o2abSpd7L._SL200_.jpg' ]

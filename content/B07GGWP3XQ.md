@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.67777962993833 % en 'Alitoo Auriculares Inalámbricos Bluetoot'
+title: 'Descuento del 66.67777962993833 % en Alitoo Auriculares Inalámbricos Bluetoot'
 date: 2019/12/10 11:55:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tHrdifbzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tHrdifbzL._SL200_.jpg' ]

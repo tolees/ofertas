@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'APART Fashion 25151 Vestido  Multicolor ' al 78.13455657492354 % de descuento
+title: 'APART Fashion 25151 Vestido  Multicolor  al 78.13455657492354 % de descuento'
 date: 2019/10/29 22:13:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h7zeSnvrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h7zeSnvrL._SL200_.jpg' ]

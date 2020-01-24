@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.05771450557906 % en 'G-STAR RAW Damen Army Radar Mid Waist Bo'
+title: 'Descuento del 50.05771450557906 % en G-STAR RAW Damen Army Radar Mid Waist Bo'
 date: 2019/12/24 22:40:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416i8WLunAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416i8WLunAL._SL200_.jpg' ]

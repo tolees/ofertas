@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Extreme microSDXC 64GB + SD Adap' al 54.570259208731244 % de descuento
+title: 'SanDisk Extreme microSDXC 64GB + SD Adap al 54.570259208731244 % de descuento'
 date: 2019/11/22 14:47:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q4Op-xPrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q4Op-xPrL._SL200_.jpg' ]

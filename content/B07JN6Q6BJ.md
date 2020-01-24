@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Suéter de manga larg' al 25.0 % de descuento
+title: 'Amazon Essentials - Suéter de manga larg al 25.0 % de descuento'
 date: 2019/11/27 12:22:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lHS8LaBuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lHS8LaBuL._SL200_.jpg' ]

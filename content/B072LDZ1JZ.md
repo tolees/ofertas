@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.03 % en 'Under Armour UA Speedform Slingwrap Fade'
+title: 'Descuento del 55.03 % en Under Armour UA Speedform Slingwrap Fade'
 date: 2019/11/01 01:30:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418dK6KuGoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418dK6KuGoL._SL200_.jpg' ]

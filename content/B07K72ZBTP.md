@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.04545454545454 % en 'Levi s The Jacket  Chaqueta Vaquera  Azu'
+title: 'Descuento del 40.04545454545454 % en Levi s The Jacket  Chaqueta Vaquera  Azu'
 date: 2019/10/19 19:22:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cHCTRvUYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cHCTRvUYL._SL200_.jpg' ]

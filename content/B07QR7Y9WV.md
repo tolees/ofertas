@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.12751677852349 % en 'Lotus Reloj Cronógrafo para Hombre de Cu'
+title: 'Descuento del 30.12751677852349 % en Lotus Reloj Cronógrafo para Hombre de Cu'
 date: 2020-01-16 20:58:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G7tEmUvxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G7tEmUvxL._SL200_.jpg' ]

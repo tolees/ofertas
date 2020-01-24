@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Babymoov A012374  Doomoo Nid New Generat' al 27.09077912794854 % de descuento
+title: 'Babymoov A012374  Doomoo Nid New Generat al 27.09077912794854 % de descuento'
 date: 2020-01-21 14:39:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415Czsz1NRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.40595781691671 % en 'Termómetro Higrómetro Interior  Termo-hi'
+title: 'Descuento del 67.40595781691671 % en Termómetro Higrómetro Interior  Termo-hi'
 date: 2019/10/30 10:12:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gtgljDC6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gtgljDC6L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.82666666666667 % en 'Clarks Trace Quest  Botas de Motorista p'
+title: 'Descuento del 74.82666666666667 % en Clarks Trace Quest  Botas de Motorista p'
 date: 2019/10/26 11:04:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xDENFUnCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xDENFUnCL._SL200_.jpg' ]

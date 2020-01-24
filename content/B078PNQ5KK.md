@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saucony Kinvara 9  Zapatillas de Running' al 53.333333333333336 % de descuento
+title: 'Saucony Kinvara 9  Zapatillas de Running al 53.333333333333336 % de descuento'
 date: 2019/11/23 03:20:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mQD5EP1WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mQD5EP1WL._SL200_.jpg' ]

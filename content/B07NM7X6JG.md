@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ITK Altavoz Bluetooth con Karaoke Radio ' al 27.264461870667112 % de descuento
+title: 'ITK Altavoz Bluetooth con Karaoke Radio  al 27.264461870667112 % de descuento'
 date: 2019/10/14 19:20:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GGRY%2BsdHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GGRY%2BsdHL._SL200_.jpg' ]

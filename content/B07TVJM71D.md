@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dare 2b Men s Intermit Waterproof & Brea' al 71.20666666666666 % de descuento
+title: 'Dare 2b Men s Intermit Waterproof & Brea al 71.20666666666666 % de descuento'
 date: 2020-01-17 09:13:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Td2FPOQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Td2FPOQL._SL200_.jpg' ]

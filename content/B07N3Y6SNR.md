@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Dress OCRIDA Vestido  Rojo  Fre' al 30.0187617260788 % de descuento
+title: 'Desigual Dress OCRIDA Vestido  Rojo  Fre al 30.0187617260788 % de descuento'
 date: 2019/11/22 11:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nIwO%2BYABL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nIwO%2BYABL._SL200_.jpg' ]

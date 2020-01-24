@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acrylic Paint Set By Color Technik  Arti' al 43.01075268817205 % de descuento
+title: 'Acrylic Paint Set By Color Technik  Arti al 43.01075268817205 % de descuento'
 date: 2019/10/26 14:51:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EkEKM9NlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EkEKM9NlL._SL200_.jpg' ]

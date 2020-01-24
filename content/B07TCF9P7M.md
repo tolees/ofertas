@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SGILE Grande RC Drone  22 Minutos de Lar' al 50.01000200040009 % de descuento
+title: 'SGILE Grande RC Drone  22 Minutos de Lar al 50.01000200040009 % de descuento'
 date: 2019/12/29 20:03:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mxKALlhCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mxKALlhCL._SL200_.jpg' ]

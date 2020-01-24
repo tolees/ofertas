@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Emporio Armani 9P423 Bañador  Blanco  Bi' al 39.94285714285715 % de descuento
+title: 'Emporio Armani 9P423 Bañador  Blanco  Bi al 39.94285714285715 % de descuento'
 date: 2019/10/10 09:27:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iX0B61nNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iX0B61nNL._SL200_.jpg' ]

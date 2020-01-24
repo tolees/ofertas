@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.738184546136544 % en 'Project Highrise - Architect s Edition'
+title: 'Descuento del 52.738184546136544 % en Project Highrise - Architect s Edition'
 date: 2020-01-11 18:10:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KYPqbzaWL._SL200_.jpg' ]

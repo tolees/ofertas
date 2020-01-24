@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Men s Men s Baseball UA Bli' al 72.14484679665738 % de descuento
+title: 'Under Armour Men s Men s Baseball UA Bli al 72.14484679665738 % de descuento'
 date: 2019/12/15 11:44:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tpn52ftnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tpn52ftnL._SL200_.jpg' ]

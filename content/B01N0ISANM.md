@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.32777592530843 % en 'Tribe Star Wars - Cargador portátil  400'
+title: 'Descuento del 83.32777592530843 % en Tribe Star Wars - Cargador portátil  400'
 date: 2019/10/12 09:57:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MrreYQjPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MrreYQjPL._SL200_.jpg' ]

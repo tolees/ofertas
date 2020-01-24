@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose SoundLink Revolve Plus Bluetooth Sp' al 41.064475799249855 % de descuento
+title: 'Bose SoundLink Revolve Plus Bluetooth Sp al 41.064475799249855 % de descuento'
 date: 2019/12/12 22:15:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GSYS84DmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GSYS84DmL._SL200_.jpg' ]

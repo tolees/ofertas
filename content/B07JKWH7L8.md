@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Luke Vaqueros  Dark Diamond Ft  29W ' al 30.57254030016676 % de descuento
+title: 'Lee Luke Vaqueros  Dark Diamond Ft  29W  al 30.57254030016676 % de descuento'
 date: 2019/10/12 00:22:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ewh9ihiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ewh9ihiL._SL200_.jpg' ]

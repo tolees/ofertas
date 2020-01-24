@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bresser Optics - Estación Meterológica B' al 48.18120805369128 % de descuento
+title: 'Bresser Optics - Estación Meterológica B al 48.18120805369128 % de descuento'
 date: 2020-01-06 13:05:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fypy1XohL._SL200_.jpg' ]

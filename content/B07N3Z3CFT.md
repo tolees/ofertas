@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.14910659272952 % en 'HKT by Hackett London Hkt Washed Canvas '
+title: 'Descuento del 46.14910659272952 % en HKT by Hackett London Hkt Washed Canvas '
 date: 2019/11/22 07:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GBwgc8I6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GBwgc8I6L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Keter -  Arcón exterior Brushwood WLF  C' al 26.241610738255027 % de descuento
+title: 'Keter -  Arcón exterior Brushwood WLF  C al 26.241610738255027 % de descuento'
 date: 2019/10/16 09:52:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gf76LlecL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gf76LlecL._SL200_.jpg' ]

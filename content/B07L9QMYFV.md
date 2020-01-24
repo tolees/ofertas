@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Shelter 2 Chaqueta  Azul  BLU ' al 32.899408284023664 % de descuento
+title: 'Napapijri Shelter 2 Chaqueta  Azul  BLU  al 32.899408284023664 % de descuento'
 date: 2019/12/05 14:47:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dz1nV5MhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dz1nV5MhL._SL200_.jpg' ]

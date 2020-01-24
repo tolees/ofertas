@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica Reloj Analógico para Hombre de C' al 58.659217877094974 % de descuento
+title: 'Nautica Reloj Analógico para Hombre de C al 58.659217877094974 % de descuento'
 date: 2019/10/16 21:34:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lEe5SnOSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lEe5SnOSL._SL200_.jpg' ]

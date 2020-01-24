@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chicco Next2Me Dream - Cuna de colecho c' al 30.372384937238493 % de descuento
+title: 'Chicco Next2Me Dream - Cuna de colecho c al 30.372384937238493 % de descuento'
 date: 2019/11/27 12:39:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41maWoNvOFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41maWoNvOFL._SL200_.jpg' ]

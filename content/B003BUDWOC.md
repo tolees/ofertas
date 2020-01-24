@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vileda SuperMocio 3Action XL Refill  Twi' al 38.52080123266563 % de descuento
+title: 'Vileda SuperMocio 3Action XL Refill  Twi al 38.52080123266563 % de descuento'
 date: 2020-01-16 08:53:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5152r%2B4W3qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5152r%2B4W3qL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Go Step Lite  Mary Janes para M' al 44.15704387990762 % de descuento
+title: 'Skechers Go Step Lite  Mary Janes para M al 44.15704387990762 % de descuento'
 date: 2019/10/07 21:49:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TRYHBBJBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TRYHBBJBL._SL200_.jpg' ]

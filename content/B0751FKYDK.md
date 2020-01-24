@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Cruz Decon  Zapatillas para ' al 64.17777777777778 % de descuento
+title: 'New Balance Cruz Decon  Zapatillas para  al 64.17777777777778 % de descuento'
 date: 2019/10/25 01:11:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t4pEgnsSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t4pEgnsSL._SL200_.jpg' ]

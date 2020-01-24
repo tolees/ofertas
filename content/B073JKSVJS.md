@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. D7832 vestido fiesta mujer  Negro ' al 37.5 % de descuento
+title: 'find. D7832 vestido fiesta mujer  Negro  al 37.5 % de descuento'
 date: 2019/12/21 10:45:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S3qqhaxxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S3qqhaxxL._SL200_.jpg' ]

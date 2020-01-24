@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SEL-2470GM G Master Zoom Objektiv  ' al 40.01600640256102 % de descuento
+title: 'Sony SEL-2470GM G Master Zoom Objektiv   al 40.01600640256102 % de descuento'
 date: 2019/12/12 11:25:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uZgLyJW6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uZgLyJW6L._SL200_.jpg' ]

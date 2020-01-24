@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.502861270070554 % en 'Gant D1. Harvest Moon Ruffle Dress Vesti'
+title: 'Descuento del 51.502861270070554 % en Gant D1. Harvest Moon Ruffle Dress Vesti'
 date: 2020-01-08 18:10:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BBDX5ZqiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BBDX5ZqiL._SL200_.jpg' ]

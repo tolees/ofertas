@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cablesson Active HDMI to VGA - Black Fem' al 47.4934036939314 % de descuento
+title: 'Cablesson Active HDMI to VGA - Black Fem al 47.4934036939314 % de descuento'
 date: 2020-01-24 01:23:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/416DMPKcN8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416DMPKcN8L._AC_._SL200_.jpg' ]

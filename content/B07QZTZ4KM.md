@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.005715102157446 % en 'Zapatos de Seguridad Hombres  LM-121 Zap'
+title: 'Descuento del 40.005715102157446 % en Zapatos de Seguridad Hombres  LM-121 Zap'
 date: 2020-01-15 11:15:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DfFocMUnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DfFocMUnL._SL200_.jpg' ]

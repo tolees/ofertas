@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gioseppo 45275  Bolso de mano para Mujer' al 67.29699666295885 % de descuento
+title: 'Gioseppo 45275  Bolso de mano para Mujer al 67.29699666295885 % de descuento'
 date: 2019/10/19 08:23:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wPvNoQleL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wPvNoQleL._SL200_.jpg' ]

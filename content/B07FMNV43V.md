@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.403693931398415 % en 'Trangoworld Jara Camiseta  Mujer  Coral '
+title: 'Descuento del 43.403693931398415 % en Trangoworld Jara Camiseta  Mujer  Coral '
 date: 2019/10/06 17:46:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B9SvNCiYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B9SvNCiYL._SL200_.jpg' ]

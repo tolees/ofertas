@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 32808 POP Vinyl: Power Black Range' al 26.419213973799128 % de descuento
+title: 'Funko 32808 POP Vinyl: Power Black Range al 26.419213973799128 % de descuento'
 date: 2020-01-13 22:00:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TtP0uGstL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TtP0uGstL._SL200_.jpg' ]

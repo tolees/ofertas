@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.849999999999994 % en 'Under Armour Armour Fleece Jogger Pantal'
+title: 'Descuento del 50.849999999999994 % en Under Armour Armour Fleece Jogger Pantal'
 date: 2019/12/02 11:16:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r6MBRToAL._SL200_.jpg' ]

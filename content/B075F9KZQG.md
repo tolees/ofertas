@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PowerA - Cargador de coche Question Bloc' al 36.20981387478849 % de descuento
+title: 'PowerA - Cargador de coche Question Bloc al 36.20981387478849 % de descuento'
 date: 2020-01-09 22:59:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2zrwl2gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2zrwl2gL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.93742177722152 % en 'Batman Blu-Ray - Iconic [Blu-ray]'
+title: 'Descuento del 49.93742177722152 % en Batman Blu-Ray - Iconic [Blu-ray]'
 date: 2019/11/27 00:57:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zLWdFIvyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zLWdFIvyL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel Reloj Analogico para Hombre de Cu' al 51.31963470319635 % de descuento
+title: 'Diesel Reloj Analogico para Hombre de Cu al 51.31963470319635 % de descuento'
 date: 2020-01-21 21:18:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SHJ-hafGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SHJ-hafGL._SL200_.jpg' ]

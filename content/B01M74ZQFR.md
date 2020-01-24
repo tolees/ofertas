@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kledio Kinder Einkaufswagen aus Holz FSC' al 57.62213066509712 % de descuento
+title: 'Kledio Kinder Einkaufswagen aus Holz FSC al 57.62213066509712 % de descuento'
 date: 2019/11/14 13:07:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pLpC%2BVJ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pLpC%2BVJ5L._SL200_.jpg' ]

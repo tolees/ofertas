@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.97465886939572 % en 'Classic Blanc - Topper/Sobrecolchón extr'
+title: 'Descuento del 50.97465886939572 % en Classic Blanc - Topper/Sobrecolchón extr'
 date: 2019/11/24 10:27:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tCKI1pSFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tCKI1pSFL._SL200_.jpg' ]

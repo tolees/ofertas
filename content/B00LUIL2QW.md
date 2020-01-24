@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.427066877303844 % en 'adidas Originals Stan Smith  Zapatillas '
+title: 'Descuento del 31.427066877303844 % en adidas Originals Stan Smith  Zapatillas '
 date: 2020-01-08 19:35:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dylN4L%2BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dylN4L%2BYL._SL200_.jpg' ]

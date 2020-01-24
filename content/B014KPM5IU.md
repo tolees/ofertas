@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.27917620137299 % en 'Reebok Pesos de la Muñeca - 1.5 kg'
+title: 'Descuento del 54.27917620137299 % en Reebok Pesos de la Muñeca - 1.5 kg'
 date: 2019/12/11 09:05:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IKLP9MxmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IKLP9MxmL._SL200_.jpg' ]

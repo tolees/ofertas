@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Bradstreet Chukka Leather  Bo' al 35.72142857142857 % de descuento
+title: 'Timberland Bradstreet Chukka Leather  Bo al 35.72142857142857 % de descuento'
 date: 2020-01-20 18:33:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cIpRtfOsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cIpRtfOsL._SL200_.jpg' ]

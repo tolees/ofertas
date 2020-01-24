@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.918348790689215 % en 'Yamay Auriculares Inalámbricos para Depo'
+title: 'Descuento del 50.918348790689215 % en Yamay Auriculares Inalámbricos para Depo'
 date: 2019-12-31 21:01:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UhI-j6NUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UhI-j6NUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OBEEII Disfraz Sofia Princesa Vestido de' al 47.76194048512128 % de descuento
+title: 'OBEEII Disfraz Sofia Princesa Vestido de al 47.76194048512128 % de descuento'
 date: 2020-01-24 02:17:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yVI7IApFL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yVI7IApFL._AC_._SL200_.jpg' ]

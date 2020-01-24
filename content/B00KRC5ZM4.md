@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.79735682819383 % en 'SELECTED 16040493 - Camisa casual de man'
+title: 'Descuento del 47.79735682819383 % en SELECTED 16040493 - Camisa casual de man'
 date: 2020-01-03 18:56:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417qZDmbJYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417qZDmbJYL._SL200_.jpg' ]

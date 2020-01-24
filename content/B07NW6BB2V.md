@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers D lites 3.0-Proven Force  Zapat' al 45.32077692760447 % de descuento
+title: 'Skechers D lites 3.0-Proven Force  Zapat al 45.32077692760447 % de descuento'
 date: 2019/11/25 17:30:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FMA0JdhHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FMA0JdhHL._SL200_.jpg' ]

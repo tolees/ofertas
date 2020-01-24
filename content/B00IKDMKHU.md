@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Professionnel  Laca - 400 ml.' al 26.54411764705882 % de descuento
+title: 'L Oréal Professionnel  Laca - 400 ml. al 26.54411764705882 % de descuento'
 date: 2019/11/11 11:09:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31awXgDViLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31awXgDViLL._SL200_.jpg' ]

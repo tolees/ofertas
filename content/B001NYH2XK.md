@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Classic Leather  Zapatillas de Ru' al 64.46914952751528 % de descuento
+title: 'Reebok Classic Leather  Zapatillas de Ru al 64.46914952751528 % de descuento'
 date: 2020-01-08 16:38:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316LrvUEMhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.3 % en 'Hurley M Mac A Frame Chaqueta  Hombre  V'
+title: 'Descuento del 76.3 % en Hurley M Mac A Frame Chaqueta  Hombre  V'
 date: 2019/11/07 18:43:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416BbdjFoyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416BbdjFoyL._SL200_.jpg' ]

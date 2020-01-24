@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iiniim Vestido de Patinaje para Niña Mai' al 55.790688726433245 % de descuento
+title: 'iiniim Vestido de Patinaje para Niña Mai al 55.790688726433245 % de descuento'
 date: 2019/10/06 21:35:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UVPyNAmFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UVPyNAmFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Ua Hg Print Armour Capri Pa' al 48.11111111111111 % de descuento
+title: 'Under Armour Ua Hg Print Armour Capri Pa al 48.11111111111111 % de descuento'
 date: 2019/11/20 14:11:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51odc1aDwNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51odc1aDwNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA W Rapid  Zapatillas de R' al 39.81818181818182 % de descuento
+title: 'Under Armour UA W Rapid  Zapatillas de R al 39.81818181818182 % de descuento'
 date: 2019/11/03 11:59:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HYKdOjQ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HYKdOjQ1L._SL200_.jpg' ]

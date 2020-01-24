@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.18436873747494 % en 'PUMA ftblNXT Shirt  Hombre  Naranja  Sho'
+title: 'Descuento del 32.18436873747494 % en PUMA ftblNXT Shirt  Hombre  Naranja  Sho'
 date: 2019/11/12 13:36:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D8s0fltsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D8s0fltsL._SL200_.jpg' ]

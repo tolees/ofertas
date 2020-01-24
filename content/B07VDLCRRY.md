@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 75.45161290322581 % en '00119 XuanPad'
+title: 'Descuento del 75.45161290322581 % en 00119 XuanPad'
 date: 2020-01-08 11:47:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d3O9hUiCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d3O9hUiCL._SL200_.jpg' ]

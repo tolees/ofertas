@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ardistel - Blackfire BFX-15 Gaming Heads' al 49.874686716791985 % de descuento
+title: 'Ardistel - Blackfire BFX-15 Gaming Heads al 49.874686716791985 % de descuento'
 date: 2019/12/03 17:35:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41unQcralOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41unQcralOL._SL200_.jpg' ]

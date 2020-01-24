@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.02273760800363 % en '35 Piezas Máscaras de Superhéroe  Máscar'
+title: 'Descuento del 50.02273760800363 % en 35 Piezas Máscaras de Superhéroe  Máscar'
 date: 2019/12/11 23:10:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CBChS3VRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CBChS3VRL._SL200_.jpg' ]

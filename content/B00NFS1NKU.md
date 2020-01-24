@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bestway 68019 - Mochila de Senderismo Bl' al 50.08347245409015 % de descuento
+title: 'Bestway 68019 - Mochila de Senderismo Bl al 50.08347245409015 % de descuento'
 date: 2019/11/05 12:47:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zo69hTevL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zo69hTevL._SL200_.jpg' ]

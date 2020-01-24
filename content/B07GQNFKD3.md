@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hapilife Cascada Grifo Monomando de Lava' al 38.16291617318067 % de descuento
+title: 'Hapilife Cascada Grifo Monomando de Lava al 38.16291617318067 % de descuento'
 date: 2019/10/18 03:37:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xUlOmjzEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xUlOmjzEL._SL200_.jpg' ]

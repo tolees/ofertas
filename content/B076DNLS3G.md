@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.212362144139536 % en 'Oral-B CrossAction - Cabezales de Recamb'
+title: 'Descuento del 28.212362144139536 % en Oral-B CrossAction - Cabezales de Recamb'
 date: 2020-01-20 13:45:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dufQOUVRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dufQOUVRL._SL200_.jpg' ]

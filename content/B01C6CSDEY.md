@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.42424242424242 % en 'American Tourister - Road quest bolsa de'
+title: 'Descuento del 42.42424242424242 % en American Tourister - Road quest bolsa de'
 date: 2020-01-19 16:52:58
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

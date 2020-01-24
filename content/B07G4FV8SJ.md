@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hugo Boss Reloj Multiesfera para Hombre ' al 48.7650429799427 % de descuento
+title: 'Hugo Boss Reloj Multiesfera para Hombre  al 48.7650429799427 % de descuento'
 date: 2020-01-23 20:31:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HC9%2BSAMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HC9%2BSAMjL._SL200_.jpg' ]

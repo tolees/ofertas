@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grebarley Fitness Gloves Levantamiento d' al 51.55829165063486 % de descuento
+title: 'Grebarley Fitness Gloves Levantamiento d al 51.55829165063486 % de descuento'
 date: 2020-01-14 10:31:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m2QQ0Vx5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m2QQ0Vx5L._SL200_.jpg' ]

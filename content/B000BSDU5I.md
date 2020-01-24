@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SUUNTO MC-2 G Mirror Compass Brújula Pro' al 28.013333333333335 % de descuento
+title: 'SUUNTO MC-2 G Mirror Compass Brújula Pro al 28.013333333333335 % de descuento'
 date: 2019/12/01 02:39:17 +0000
 thumbnailImage: ''
 images: [ '' ]

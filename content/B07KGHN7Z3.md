@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.890660592255127 % en 'Buff R-Equilateral Visera Pack Run  Unis'
+title: 'Descuento del 31.890660592255127 % en Buff R-Equilateral Visera Pack Run  Unis'
 date: 2019/10/10 04:51:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QWBwYPyxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QWBwYPyxL._SL200_.jpg' ]

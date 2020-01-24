@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Niviy Adhesivo Papel Marmol para Muebles' al 41.200706297822244 % de descuento
+title: 'Niviy Adhesivo Papel Marmol para Muebles al 41.200706297822244 % de descuento'
 date: 2019/11/27 04:11:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wc7a7Ay1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wc7a7Ay1L._SL200_.jpg' ]

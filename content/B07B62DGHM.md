@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nuncad Anillo Mujer/Hombre 8 mm Ancho Ne' al 72.61268666940677 % de descuento
+title: 'Nuncad Anillo Mujer/Hombre 8 mm Ancho Ne al 72.61268666940677 % de descuento'
 date: 2019/10/08 03:58:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yj0Pt2y2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yj0Pt2y2L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maclaren Quest - Silla de paseo para rec' al 44.61846153846154 % de descuento
+title: 'Maclaren Quest - Silla de paseo para rec al 44.61846153846154 % de descuento'
 date: 2019/11/30 07:25:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411F6-WlGvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411F6-WlGvL._SL200_.jpg' ]

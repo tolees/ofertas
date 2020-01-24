@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.10512308715901 % en 'Bolsas de Vacío para Alimentos para todo'
+title: 'Descuento del 64.10512308715901 % en Bolsas de Vacío para Alimentos para todo'
 date: 2019/11/22 00:39:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rIU7xRWEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rIU7xRWEL._SL200_.jpg' ]

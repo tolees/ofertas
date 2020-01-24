@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AURIQUE Half Zip Sports Chaqueta Rojo  P' al 36.224489795918366 % de descuento
+title: 'AURIQUE Half Zip Sports Chaqueta Rojo  P al 36.224489795918366 % de descuento'
 date: 2020-01-05 20:00:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fIY6nPxoL._SL200_.jpg' ]

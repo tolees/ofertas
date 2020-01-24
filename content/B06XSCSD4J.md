@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New balance wlazr MP' al 63.727329580988126 % de descuento
+title: 'New balance wlazr MP al 63.727329580988126 % de descuento'
 date: 2020-01-13 13:19:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sgLwCJaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sgLwCJaaL._SL200_.jpg' ]

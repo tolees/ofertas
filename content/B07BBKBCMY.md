@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.15970459266097 % en 'Relojes para Hombres LIGE Acero Inoxidab'
+title: 'Descuento del 76.15970459266097 % en Relojes para Hombres LIGE Acero Inoxidab'
 date: 2019/12/23 22:20:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OsJvt%2BP2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OsJvt%2BP2L._SL200_.jpg' ]

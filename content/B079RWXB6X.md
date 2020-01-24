@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Cutsie Jeans  Negro  Denim WK' al 53.86773547094188 % de descuento
+title: 'Pepe Jeans Cutsie Jeans  Negro  Denim WK al 53.86773547094188 % de descuento'
 date: 2019/10/12 00:31:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cJAC1j80L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cJAC1j80L._SL200_.jpg' ]

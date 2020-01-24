@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Trans Alps F.k.t. II  Zapatilla' al 50.03214515322523 % de descuento
+title: 'Columbia Trans Alps F.k.t. II  Zapatilla al 50.03214515322523 % de descuento'
 date: 2020-01-13 23:12:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qyDCGRbqL._SL200_.jpg' ]

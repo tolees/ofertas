@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574 Sport  Entrenadores para' al 52.65 % de descuento
+title: 'New Balance 574 Sport  Entrenadores para al 52.65 % de descuento'
 date: 2019/11/18 13:17:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t2i44JaGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t2i44JaGL._SL200_.jpg' ]

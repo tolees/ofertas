@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.35186214563646 % en 'Tuokay 10M 100 LED Luces de Navidad Cade'
+title: 'Descuento del 33.35186214563646 % en Tuokay 10M 100 LED Luces de Navidad Cade'
 date: 2020-01-18 18:59:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iVqlL23sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iVqlL23sL._SL200_.jpg' ]

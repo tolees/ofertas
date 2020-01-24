@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Sister Location - Ballora  Assorte' al 45.58342420937841 % de descuento
+title: 'Funko Sister Location - Ballora  Assorte al 45.58342420937841 % de descuento'
 date: 2019/12/20 16:27:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pAD0TMO1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pAD0TMO1L._SL200_.jpg' ]

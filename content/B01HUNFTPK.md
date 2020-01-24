@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Urban Classics Cotton Peached Canvas Par' al 40.14634146341463 % de descuento
+title: 'Urban Classics Cotton Peached Canvas Par al 40.14634146341463 % de descuento'
 date: 2019/10/15 14:23:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qar%2B26nFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qar%2B26nFL._SL200_.jpg' ]

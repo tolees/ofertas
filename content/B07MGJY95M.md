@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Mochila de a Diario  Negro  Ne' al 42.40384615384616 % de descuento
+title: 'Napapijri Mochila de a Diario  Negro  Ne al 42.40384615384616 % de descuento'
 date: 2019/12/07 09:37:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tq52gUXeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tq52gUXeL._SL200_.jpg' ]

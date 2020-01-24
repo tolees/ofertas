@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Skidoo Jacke Chaqueta  Azul  B' al 49.220489977728285 % de descuento
+title: 'Napapijri Skidoo Jacke Chaqueta  Azul  B al 49.220489977728285 % de descuento'
 date: 2019/11/15 22:17:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EZK1-VhlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EZK1-VhlL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.08051652107862 % en 'Pack Alien 1-6 [DVD]'
+title: 'Descuento del 36.08051652107862 % en Pack Alien 1-6 [DVD]'
 date: 2019/11/22 21:42:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oR7CGVTAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oR7CGVTAL._SL200_.jpg' ]

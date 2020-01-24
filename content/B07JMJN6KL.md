@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.929929929929934 % en 'Adidas Falcon  Zapatillas de Trail Runni'
+title: 'Descuento del 29.929929929929934 % en Adidas Falcon  Zapatillas de Trail Runni'
 date: 2019/11/25 18:20:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A-LdsuOQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A-LdsuOQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMORC Cortapelos Profesional Perros y Ga' al 25.587345894394055 % de descuento
+title: 'OMORC Cortapelos Profesional Perros y Ga al 25.587345894394055 % de descuento'
 date: 2019/11/27 09:41:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gCv4zkbCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gCv4zkbCL._SL200_.jpg' ]

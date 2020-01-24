@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.09612817089453 % en 'Celly CLIPANDCLICK - Conjunto de 3 Lente'
+title: 'Descuento del 72.09612817089453 % en Celly CLIPANDCLICK - Conjunto de 3 Lente'
 date: 2019/12/04 00:44:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X4FyM0JSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X4FyM0JSL._SL200_.jpg' ]

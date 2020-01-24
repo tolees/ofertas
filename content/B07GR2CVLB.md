@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '10M Tiras LED RGB 3528 600 Leds  IP65 Im' al 25.81477896095514 % de descuento
+title: '10M Tiras LED RGB 3528 600 Leds  IP65 Im al 25.81477896095514 % de descuento'
 date: 2019/11/25 12:33:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vURnOSF0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vURnOSF0L._SL200_.jpg' ]

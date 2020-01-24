@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.85284280936455 % en 'Bausch & Lomb - Biotrue One Day Esférica'
+title: 'Descuento del 65.85284280936455 % en Bausch & Lomb - Biotrue One Day Esférica'
 date: 2020-01-01 19:18:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ySjzaLUgL._SL200_.jpg' ]

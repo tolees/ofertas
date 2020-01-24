@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.62541806020067 % en 'TP-Link TL-WR802N - Enrutador inalámbric'
+title: 'Descuento del 27.62541806020067 % en TP-Link TL-WR802N - Enrutador inalámbric'
 date: 2020-01-19 16:34:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zptAbcUzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zptAbcUzL._SL200_.jpg' ]

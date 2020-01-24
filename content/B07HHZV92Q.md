@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TECOOL Funda MacBook Air 13 Pulgadas  Ve' al 65.96377399297107 % de descuento
+title: 'TECOOL Funda MacBook Air 13 Pulgadas  Ve al 65.96377399297107 % de descuento'
 date: 2019/11/23 23:57:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tZHQ8r5JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tZHQ8r5JL._SL200_.jpg' ]

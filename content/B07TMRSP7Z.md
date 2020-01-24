@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.21046466224131 % en 'Pack True Detective Temporada 1-3 Blu-Ra'
+title: 'Descuento del 51.21046466224131 % en Pack True Detective Temporada 1-3 Blu-Ra'
 date: 2019/11/30 07:14:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416H80xwWwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416H80xwWwL._SL200_.jpg' ]

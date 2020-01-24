@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'K9CK Led Vitrine für Lego Technic Bugatt'
+title: 'Descuento del 50.0 % en K9CK Led Vitrine für Lego Technic Bugatt'
 date: 2019/12/05 22:00:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uhq8svoVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uhq8svoVL._SL200_.jpg' ]

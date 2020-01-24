@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Eils SS Polo  Blanco  Bright W' al 50.0 % de descuento
+title: 'Napapijri Eils SS Polo  Blanco  Bright W al 50.0 % de descuento'
 date: 2020-01-04 13:33:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sS774DJmL._SL200_.jpg' ]

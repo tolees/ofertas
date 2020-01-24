@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj digital CIVO para hombre  resisten' al 90.50784960053635 % de descuento
+title: 'Reloj digital CIVO para hombre  resisten al 90.50784960053635 % de descuento'
 date: 2019/10/17 07:11:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bKIFecFeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bKIFecFeL._SL200_.jpg' ]

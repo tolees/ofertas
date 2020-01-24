@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.43228645729146 % en 'Superdry Classic S/s Pique Polo  Gris  F'
+title: 'Descuento del 61.43228645729146 % en Superdry Classic S/s Pique Polo  Gris  F'
 date: 2019/10/14 11:45:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tHF8-vA0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tHF8-vA0L._SL200_.jpg' ]

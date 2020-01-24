@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.34778259419807 % en 'Cargador Inalámbrico  ELEGIANT Cargador '
+title: 'Descuento del 43.34778259419807 % en Cargador Inalámbrico  ELEGIANT Cargador '
 date: 2020-01-13 08:17:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQwwKODgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dQwwKODgL._SL200_.jpg' ]

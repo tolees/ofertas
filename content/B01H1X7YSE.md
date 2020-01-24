@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panama Jack Piola  Botines para Mujer  M' al 25.70949720670391 % de descuento
+title: 'Panama Jack Piola  Botines para Mujer  M al 25.70949720670391 % de descuento'
 date: 2019/12/24 10:24:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VCEN9N4kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VCEN9N4kL._SL200_.jpg' ]

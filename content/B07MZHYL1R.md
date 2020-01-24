@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Premium Goods Duo Lite tee Cami' al 56.830188679245275 % de descuento
+title: 'Superdry Premium Goods Duo Lite tee Cami al 56.830188679245275 % de descuento'
 date: 2019/12/23 12:01:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cam91YSkL._SL200_.jpg' ]

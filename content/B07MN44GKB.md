@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.99473407056346 % en 'Wrangler Larston Vaqueros  Ice Lake  34W'
+title: 'Descuento del 49.99473407056346 % en Wrangler Larston Vaqueros  Ice Lake  34W'
 date: 2019/10/08 14:29:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GrrJgwPQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GrrJgwPQL._SL200_.jpg' ]

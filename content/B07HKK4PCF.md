@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.506666666666675 % en 'Under Armour Remix 2.0  Zapatillas de Ru'
+title: 'Descuento del 35.506666666666675 % en Under Armour Remix 2.0  Zapatillas de Ru'
 date: 2019/12/04 07:55:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411-kWZqBdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411-kWZqBdL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.564282141070528 % en 'AmazonBasics - Paños de algodón  30 5 x '
+title: 'Descuento del 28.564282141070528 % en AmazonBasics - Paños de algodón  30 5 x '
 date: 2019/10/18 02:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61E1M3eDOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61E1M3eDOuL._SL200_.jpg' ]

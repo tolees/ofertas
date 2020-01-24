@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Breese Pantalones para Mujer  Negro ' al 83.21289605336298 % de descuento
+title: 'Lee Breese Pantalones para Mujer  Negro  al 83.21289605336298 % de descuento'
 date: 2019/11/23 20:26:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vCQoEo2cL._SL200_.jpg' ]

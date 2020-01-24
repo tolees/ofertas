@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ellesse Lombardy Abrigo  Hombre  Azul  D' al 29.910887253002716 % de descuento
+title: 'Ellesse Lombardy Abrigo  Hombre  Azul  D al 29.910887253002716 % de descuento'
 date: 2019/10/22 21:59:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sa%2BnJBenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sa%2BnJBenL._SL200_.jpg' ]

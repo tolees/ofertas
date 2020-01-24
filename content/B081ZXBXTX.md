@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Proyector  WiMiUS 6500 Lúmenes Proyector' al 68.86836085451068 % de descuento
+title: 'Proyector  WiMiUS 6500 Lúmenes Proyector al 68.86836085451068 % de descuento'
 date: 2020-01-21 20:57:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HhO0xGHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HhO0xGHEL._SL200_.jpg' ]

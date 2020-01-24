@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.37291527685124 % en 'JACK & JONES 12152663 Camiseta  Blanco C'
+title: 'Descuento del 59.37291527685124 % en JACK & JONES 12152663 Camiseta  Blanco C'
 date: 2019/11/23 12:50:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8AzmabzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K8AzmabzL._SL200_.jpg' ]

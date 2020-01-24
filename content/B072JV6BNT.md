@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pedigree Dentastix de uso diario para hi' al 41.75862068965517 % de descuento
+title: 'Pedigree Dentastix de uso diario para hi al 41.75862068965517 % de descuento'
 date: 2019/10/26 13:48:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519UJ-M8lpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519UJ-M8lpL._SL200_.jpg' ]

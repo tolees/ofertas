@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Camiseta Mensaje para Hombre  Blan'
+title: 'Descuento del 70.0 % en find. Camiseta Mensaje para Hombre  Blan'
 date: 2019/10/15 17:27:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P04vyb9-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P04vyb9-L._SL200_.jpg' ]

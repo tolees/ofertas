@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.23694779116465 % en 'Champion Freedom Seamless  Soutien-Gorge'
+title: 'Descuento del 39.23694779116465 % en Champion Freedom Seamless  Soutien-Gorge'
 date: 2019/12/01 16:00:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bUh%2BMfTsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bUh%2BMfTsL._SL200_.jpg' ]

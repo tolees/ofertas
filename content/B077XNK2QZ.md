@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.38333333333333 % en 'Under Armour Fly Fast Graphic Crop Leggi'
+title: 'Descuento del 63.38333333333333 % en Under Armour Fly Fast Graphic Crop Leggi'
 date: 2019/11/09 14:02:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPvJhOgUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZPvJhOgUL._SL200_.jpg' ]

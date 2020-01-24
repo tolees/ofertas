@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.54628857381151 % en 'LEADSTAR Funda para Samsung Galaxy Tab A'
+title: 'Descuento del 55.54628857381151 % en LEADSTAR Funda para Samsung Galaxy Tab A'
 date: 2019/12/04 15:04:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VSRsaPOOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VSRsaPOOL._SL200_.jpg' ]

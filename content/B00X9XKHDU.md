@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Lash Sensational Más' al 35.512510088781276 % de descuento
+title: 'Maybelline New York Lash Sensational Más al 35.512510088781276 % de descuento'
 date: 2019/11/06 20:25:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31STkaVzmdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31STkaVzmdL._SL200_.jpg' ]

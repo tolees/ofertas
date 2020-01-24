@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO Colección de Muñecas Bebé Tamaño Mi' al 42.7307206068268 % de descuento
+title: 'deAO Colección de Muñecas Bebé Tamaño Mi al 42.7307206068268 % de descuento'
 date: 2020-01-03 15:21:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FZj3s43RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FZj3s43RL._SL200_.jpg' ]

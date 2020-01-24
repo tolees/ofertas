@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOMCOM Quad Eléctrico Niño Coche Eléctri' al 50.00138892747022 % de descuento
+title: 'HOMCOM Quad Eléctrico Niño Coche Eléctri al 50.00138892747022 % de descuento'
 date: 2020-01-22 08:55:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QWvlDwmBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QWvlDwmBL._SL200_.jpg' ]

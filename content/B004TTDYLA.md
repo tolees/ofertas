@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.99660729431722 % en 'Intex 28270NP  Small Frame - Piscina des'
+title: 'Descuento del 25.99660729431722 % en Intex 28270NP  Small Frame - Piscina des'
 date: 2019/11/06 16:46:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JuZWlp5RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JuZWlp5RL._SL200_.jpg' ]

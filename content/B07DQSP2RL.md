@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.31782945736434 % en 'HUGO Reloj Analógico para Hombre de Cuar'
+title: 'Descuento del 40.31782945736434 % en HUGO Reloj Analógico para Hombre de Cuar'
 date: 2019/12/13 09:34:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ymkBMnugL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ymkBMnugL._SL200_.jpg' ]

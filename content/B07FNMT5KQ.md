@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LOETAD Cámara Web Webcam 1080P Full HD c' al 35.304501323918814 % de descuento
+title: 'LOETAD Cámara Web Webcam 1080P Full HD c al 35.304501323918814 % de descuento'
 date: 2020-01-13 01:06:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419gHjLXjML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419gHjLXjML._SL200_.jpg' ]

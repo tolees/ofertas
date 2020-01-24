@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.017869907076484 % en 'ASUS ZenBook 14 UX433FN  90NB0JQ2-M04820'
+title: 'Descuento del 25.017869907076484 % en ASUS ZenBook 14 UX433FN  90NB0JQ2-M04820'
 date: 2019/10/05 22:48:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WdnSBh5tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WdnSBh5tL._SL200_.jpg' ]

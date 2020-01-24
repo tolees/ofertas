@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.38792145238977 % en 'find. Sudadera sin Capucha para Hombre  '
+title: 'Descuento del 47.38792145238977 % en find. Sudadera sin Capucha para Hombre  '
 date: 2019/11/09 15:12:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fk0AQrgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fk0AQrgwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.50234389649354 % en 'VQ Retro MK II - Radio Digital Dab & Dab'
+title: 'Descuento del 37.50234389649354 % en VQ Retro MK II - Radio Digital Dab & Dab'
 date: 2019/10/30 17:32:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IWVznL5tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IWVznL5tL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Bolsa mejorada para heces' al 28.116469517743404 % de descuento
+title: 'AmazonBasics - Bolsa mejorada para heces al 28.116469517743404 % de descuento'
 date: 2020-01-01 23:49:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HplO9YUaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HplO9YUaL._SL200_.jpg' ]

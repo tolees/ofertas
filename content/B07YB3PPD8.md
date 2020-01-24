@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOMCOM Árbol de Navidad 120cm Artificial' al 45.7208172596085 % de descuento
+title: 'HOMCOM Árbol de Navidad 120cm Artificial al 45.7208172596085 % de descuento'
 date: 2019/11/28 19:44:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p2nw6LkWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p2nw6LkWL._SL200_.jpg' ]

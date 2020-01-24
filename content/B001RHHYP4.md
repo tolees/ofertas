@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AIM - Alfombrilla Gaming Profesional  Su' al 50.25125628140703 % de descuento
+title: 'AIM - Alfombrilla Gaming Profesional  Su al 50.25125628140703 % de descuento'
 date: 2020-01-11 23:43:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HuFbbvPXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HuFbbvPXL._SL200_.jpg' ]

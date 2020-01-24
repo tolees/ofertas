@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'seQoya · Volcano | Reloj de Piedra Hecho' al 50.0277932184547 % de descuento
+title: 'seQoya · Volcano | Reloj de Piedra Hecho al 50.0277932184547 % de descuento'
 date: 2020-01-19 14:02:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nGbjCCzBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nGbjCCzBL._SL200_.jpg' ]

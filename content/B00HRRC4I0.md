@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.83098591549296 % en 'Sylvanian Families-8711915022064 Sylvani'
+title: 'Descuento del 31.83098591549296 % en Sylvanian Families-8711915022064 Sylvani'
 date: 2019/12/05 10:17:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HvHEv7NzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HvHEv7NzL._SL200_.jpg' ]

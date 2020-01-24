@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Powerextra Batería Nikon EN EL14 y EN-EL' al 49.13142656606423 % de descuento
+title: 'Powerextra Batería Nikon EN EL14 y EN-EL al 49.13142656606423 % de descuento'
 date: 2019/11/13 20:13:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F4itLdVpL._SL200_.jpg' ]

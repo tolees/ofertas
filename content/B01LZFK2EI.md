@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.22481543224577 % en 'CYBEX Silver Kinder-Autositz Juno 2-Fix '
+title: 'Descuento del 44.22481543224577 % en CYBEX Silver Kinder-Autositz Juno 2-Fix '
 date: 2019/11/05 18:37:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411UksfPe8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411UksfPe8L._SL200_.jpg' ]

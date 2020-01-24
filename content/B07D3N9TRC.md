@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Turtle Beach Stealth 300 Auriculares Gam' al 47.50593824228028 % de descuento
+title: 'Turtle Beach Stealth 300 Auriculares Gam al 47.50593824228028 % de descuento'
 date: 2019/12/11 19:57:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8u510ZrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K8u510ZrL._SL200_.jpg' ]

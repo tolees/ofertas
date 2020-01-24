@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Ess No.1 Leggings W- Pantalón  muje' al 56.46076794657764 % de descuento
+title: 'Puma Ess No.1 Leggings W- Pantalón  muje al 56.46076794657764 % de descuento'
 date: 2019/10/31 04:43:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UK7VnRZ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UK7VnRZ-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cisco SG110D-05-EU 5-Port Gigabit Deskto' al 41.58268010451661 % de descuento
+title: 'Cisco SG110D-05-EU 5-Port Gigabit Deskto al 41.58268010451661 % de descuento'
 date: 2020-01-02 10:47:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/1118PbhrJ0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/1118PbhrJ0L._SL200_.jpg' ]

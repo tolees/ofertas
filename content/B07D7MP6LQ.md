@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas 107237 Sudadera  Blanco' al 51.7434869739479 % de descuento
+title: 'Dolores Promesas 107237 Sudadera  Blanco al 51.7434869739479 % de descuento'
 date: 2019/11/09 22:01:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vczYhZ2ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vczYhZ2ZL._SL200_.jpg' ]

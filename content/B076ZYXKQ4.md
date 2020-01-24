@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.56550935847977 % en 'SELECTED HOMME Shdslim-mathcot Sand Trou'
+title: 'Descuento del 58.56550935847977 % en SELECTED HOMME Shdslim-mathcot Sand Trou'
 date: 2019/11/12 10:21:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MSsgdNQJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MSsgdNQJL._SL200_.jpg' ]

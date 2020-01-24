@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.210526315789465 % en 'Hellmann s Salsa Patatas Deluxe Bocabajo'
+title: 'Descuento del 34.210526315789465 % en Hellmann s Salsa Patatas Deluxe Bocabajo'
 date: 2020-01-21 15:51:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DA-PbvHDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DA-PbvHDL._SL200_.jpg' ]

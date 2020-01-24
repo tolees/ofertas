@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Munchkin - Cubierto' al 25.041736227045075 % de descuento
+title: 'Munchkin - Cubierto al 25.041736227045075 % de descuento'
 date: 2019/12/21 19:44:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XmP9DgIIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XmP9DgIIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 85.92551417454142 % en 'G-STAR RAW Graphic 24 Loose Round Neck S'
+title: 'Descuento del 85.92551417454142 % en G-STAR RAW Graphic 24 Loose Round Neck S'
 date: 2020-01-06 19:02:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FkCJM2QbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FkCJM2QbL._SL200_.jpg' ]

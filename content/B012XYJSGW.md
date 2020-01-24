@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.60200668896321 % en 'AEG SB9300 Batidora de Vaso de Altas Pre'
+title: 'Descuento del 30.60200668896321 % en AEG SB9300 Batidora de Vaso de Altas Pre'
 date: 2019/10/31 17:08:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HInduGv2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HInduGv2L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor All Star Specialit' al 41.297658862876254 % de descuento
+title: 'Converse Chuck Taylor All Star Specialit al 41.297658862876254 % de descuento'
 date: 2019/10/17 23:24:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYjSdepEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYjSdepEL._SL200_.jpg' ]

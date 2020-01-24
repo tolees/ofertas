@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caterpillar Colorado  Botas Hombre  Beig' al 37.912621359223294 % de descuento
+title: 'Caterpillar Colorado  Botas Hombre  Beig al 37.912621359223294 % de descuento'
 date: 2019/10/14 11:39:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg' ]

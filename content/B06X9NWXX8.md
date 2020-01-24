@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01667222407469 % en 'Fitbit Alta HR Armband zur Herzfrequenz-'
+title: 'Descuento del 50.01667222407469 % en Fitbit Alta HR Armband zur Herzfrequenz-'
 date: 2019/12/19 10:21:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YiX-5Ni2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YiX-5Ni2L._SL200_.jpg' ]

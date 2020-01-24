@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Atwood  Zapatillas para Hombre  Neg' al 34.07692307692307 % de descuento
+title: 'Vans Atwood  Zapatillas para Hombre  Neg al 34.07692307692307 % de descuento'
 date: 2020-01-10 12:46:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IAL8zGvuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IAL8zGvuL._SL200_.jpg' ]

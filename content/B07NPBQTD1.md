@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.405204460966537 % en 'OPPO AX7  smartphone 6 22"  pantalla HD+'
+title: 'Descuento del 29.405204460966537 % en OPPO AX7  smartphone 6 22"  pantalla HD+'
 date: 2019/11/03 23:01:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BeDKgxKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BeDKgxKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taladro Atornillador URCERI 21V taladro ' al 35.83631969330777 % de descuento
+title: 'Taladro Atornillador URCERI 21V taladro  al 35.83631969330777 % de descuento'
 date: 2019/11/03 19:27:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BxUQWZltL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BxUQWZltL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.834857968223396 % en 'Hackett Amr Col Block Polo  Azul  Middle'
+title: 'Descuento del 33.834857968223396 % en Hackett Amr Col Block Polo  Azul  Middle'
 date: 2019/11/22 08:55:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jNt3s%2BGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jNt3s%2BGyL._SL200_.jpg' ]

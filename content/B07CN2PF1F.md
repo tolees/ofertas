@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Bluetooth  Syllable D900P Au' al 59.79280926264472 % de descuento
+title: 'Auriculares Bluetooth  Syllable D900P Au al 59.79280926264472 % de descuento'
 date: 2019/12/14 01:17:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418CGDPgt-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418CGDPgt-L._SL200_.jpg' ]

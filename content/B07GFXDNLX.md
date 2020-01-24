@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.31071428571429 % en 'Sony WF-SP900B - Auriculares Deportivos '
+title: 'Descuento del 43.31071428571429 % en Sony WF-SP900B - Auriculares Deportivos '
 date: 2020-01-22 19:07:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319yb4WXhgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319yb4WXhgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zuru Mayka Toy Block Tape  2 metre Assor' al 29.02902902902903 % de descuento
+title: 'Zuru Mayka Toy Block Tape  2 metre Assor al 29.02902902902903 % de descuento'
 date: 2020-01-19 02:22:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ipgy4i9GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ipgy4i9GL._SL200_.jpg' ]

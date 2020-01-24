@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Edward Plain  Zapatos de Cordones' al 67.59379689844923 % de descuento
+title: 'Clarks Edward Plain  Zapatos de Cordones al 67.59379689844923 % de descuento'
 date: 2019/12/03 19:23:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313ER0Tm2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313ER0Tm2JL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Brooklyn Comfort Vaqueros Straight  ' al 40.346666666666664 % de descuento
+title: 'Lee Brooklyn Comfort Vaqueros Straight   al 40.346666666666664 % de descuento'
 date: 2019/10/12 00:46:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UOCjyJc4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UOCjyJc4L._SL200_.jpg' ]

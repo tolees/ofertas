@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'THE HEAT COMPANY Calentador Multi - EXTR'
+title: 'Descuento del 50.0 % en THE HEAT COMPANY Calentador Multi - EXTR'
 date: 2019/12/06 22:45:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pB6B3ic%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pB6B3ic%2BL._SL200_.jpg' ]

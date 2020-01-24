@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mini Bluetooth Earbud Wireless  In-Ear I' al 33.35186214563646 % de descuento
+title: 'Mini Bluetooth Earbud Wireless  In-Ear I al 33.35186214563646 % de descuento'
 date: 2020-01-11 06:04:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EtFjMN-LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EtFjMN-LL._SL200_.jpg' ]

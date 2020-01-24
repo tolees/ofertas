@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jfwscorpion PU Cognac Pre18' al 44.51112778194548 % de descuento
+title: 'JACK & JONES Jfwscorpion PU Cognac Pre18 al 44.51112778194548 % de descuento'
 date: 2019/11/15 13:52:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jf9-5jz3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jf9-5jz3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COFIT Cubierta de Volante de Cuero de Mi' al 48.402710551790896 % de descuento
+title: 'COFIT Cubierta de Volante de Cuero de Mi al 48.402710551790896 % de descuento'
 date: 2019/12/21 17:35:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gCBrO9sZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gCBrO9sZL._SL200_.jpg' ]

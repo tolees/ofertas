@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Cell Venom Alert  Zapatillas Unisex' al 63.70154230929555 % de descuento
+title: 'Puma Cell Venom Alert  Zapatillas Unisex al 63.70154230929555 % de descuento'
 date: 2019/11/04 09:26:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WjLAq%2B8cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WjLAq%2B8cL._SL200_.jpg' ]

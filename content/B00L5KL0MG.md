@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.491803278688533 % en 'Vans Era  Zapatillas de skate Unisex  Ro'
+title: 'Descuento del 28.491803278688533 % en Vans Era  Zapatillas de skate Unisex  Ro'
 date: 2019/10/07 08:13:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BlA2EpYQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BlA2EpYQL._SL200_.jpg' ]

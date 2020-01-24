@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolinos Sandalia Mykonos para Mujer' al 55.191011235955045 % de descuento
+title: 'Pikolinos Sandalia Mykonos para Mujer al 55.191011235955045 % de descuento'
 date: 2020-01-13 07:55:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ci5gk%2B4BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ci5gk%2B4BL._SL200_.jpg' ]

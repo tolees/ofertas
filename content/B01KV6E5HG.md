@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MiroPure Cepillo Limpiador Eléctrico Fac' al 36.67889296432144 % de descuento
+title: 'MiroPure Cepillo Limpiador Eléctrico Fac al 36.67889296432144 % de descuento'
 date: 2020-01-19 23:14:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fYt0nlU6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fYt0nlU6L._SL200_.jpg' ]

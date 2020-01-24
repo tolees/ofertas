@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garancia Cara 1 Unidad 10 ml' al 55.23117569352708 % de descuento
+title: 'Garancia Cara 1 Unidad 10 ml al 55.23117569352708 % de descuento'
 date: 2019/10/25 21:09:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31coCvhXa2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31coCvhXa2L._SL200_.jpg' ]

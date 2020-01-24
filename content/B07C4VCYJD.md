@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.66751918158568 % en 'Brotdose Campus - Mepal - 700ml  Frozen '
+title: 'Descuento del 29.66751918158568 % en Brotdose Campus - Mepal - 700ml  Frozen '
 date: 2019/12/15 23:29:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ajCzHEF8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ajCzHEF8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Bridge PM581094 Sudadera con ' al 70.825 % de descuento
+title: 'Pepe Jeans Bridge PM581094 Sudadera con  al 70.825 % de descuento'
 date: 2019/11/14 08:15:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YcT1W4sYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YcT1W4sYL._SL200_.jpg' ]

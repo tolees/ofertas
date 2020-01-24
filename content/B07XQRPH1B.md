@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Beleuchtungsset für Lego St' al 43.110881186411454 % de descuento
+title: 'BRIKSMAX Led Beleuchtungsset für Lego St al 43.110881186411454 % de descuento'
 date: 2019/12/28 09:17:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ekIRJj4RL._SL200_.jpg' ]

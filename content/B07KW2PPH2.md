@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.21408563425369 % en 'URAQT Drisfraz Lady Bug Vestido Infantil'
+title: 'Descuento del 35.21408563425369 % en URAQT Drisfraz Lady Bug Vestido Infantil'
 date: 2019/12/27 18:35:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uj8EGFzvL._SL200_.jpg' ]

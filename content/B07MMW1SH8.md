@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Omega 3 Ácidos grasos + Vitamina E. Alta' al 40.84384515006524 % de descuento
+title: 'Omega 3 Ácidos grasos + Vitamina E. Alta al 40.84384515006524 % de descuento'
 date: 2019/10/21 15:13:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419EMBEH-dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419EMBEH-dL._SL200_.jpg' ]

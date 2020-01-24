@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Energy Lights Wht  Zapatillas A' al 69.20708237105467 % de descuento
+title: 'Skechers Energy Lights Wht  Zapatillas A al 69.20708237105467 % de descuento'
 date: 2019/10/30 20:46:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411Z-mqe7CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411Z-mqe7CL._SL200_.jpg' ]

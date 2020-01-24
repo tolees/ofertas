@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Little Pony - Equestria Minis  divers' al 74.99374217772215 % de descuento
+title: 'My Little Pony - Equestria Minis  divers al 74.99374217772215 % de descuento'
 date: 2019/10/30 06:20:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61lLRm5rzCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61lLRm5rzCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OFERTAS DEL DÍA - 180 Cosmetics - El paq' al 50.5069280162217 % de descuento
+title: 'OFERTAS DEL DÍA - 180 Cosmetics - El paq al 50.5069280162217 % de descuento'
 date: 2020-01-22 19:07:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fEIxJ6nBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fEIxJ6nBL._SL200_.jpg' ]

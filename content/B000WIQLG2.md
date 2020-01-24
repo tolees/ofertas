@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.73372781065089 % en 'Jameson - Whisky 70 cl'
+title: 'Descuento del 29.73372781065089 % en Jameson - Whisky 70 cl'
 date: 2019/10/30 18:23:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mxlWW-WIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mxlWW-WIL._SL200_.jpg' ]

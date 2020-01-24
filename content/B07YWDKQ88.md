@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Controlador PS4 Controlador inalámbrico ' al 85.14398168601149 % de descuento
+title: 'Controlador PS4 Controlador inalámbrico  al 85.14398168601149 % de descuento'
 date: 2019/10/16 08:07:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DmnSpwuTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DmnSpwuTL._SL200_.jpg' ]

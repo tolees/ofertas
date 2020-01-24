@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Goodthreads - Pantalón chino sin arrugas' al 31.428571428571427 % de descuento
+title: 'Goodthreads - Pantalón chino sin arrugas al 31.428571428571427 % de descuento'
 date: 2019/12/08 11:25:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C2qHxLEUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C2qHxLEUL._SL200_.jpg' ]

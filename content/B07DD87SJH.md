@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nancy - Colección Edición Especial 50 An' al 49.994116954935876 % de descuento
+title: 'Nancy - Colección Edición Especial 50 An al 49.994116954935876 % de descuento'
 date: 2019/11/21 09:12:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wrbr7GogL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wrbr7GogL._SL200_.jpg' ]

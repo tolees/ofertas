@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.784131522516084 % en 'Adidas Copa 19.3 TF  Botas de fútbol par'
+title: 'Descuento del 37.784131522516084 % en Adidas Copa 19.3 TF  Botas de fútbol par'
 date: 2019/10/25 15:09:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FEvz6H9yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FEvz6H9yL._SL200_.jpg' ]

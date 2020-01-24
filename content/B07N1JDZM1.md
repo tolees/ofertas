@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Kaylin Cara  Zapatos de Tacón par' al 55.51973318510284 % de descuento
+title: 'Clarks Kaylin Cara  Zapatos de Tacón par al 55.51973318510284 % de descuento'
 date: 2019/11/06 11:26:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vBUZmsb%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vBUZmsb%2BL._SL200_.jpg' ]

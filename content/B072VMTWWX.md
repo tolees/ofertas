@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ni No Kuni II: El Renacer De Un Reino - ' al 64.38062580368624 % de descuento
+title: 'Ni No Kuni II: El Renacer De Un Reino -  al 64.38062580368624 % de descuento'
 date: 2019/11/02 15:03:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B2WazFoRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B2WazFoRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.57798165137615 % en 'Wrangler Sign Off Crew Sudadera  Amarill'
+title: 'Descuento del 73.57798165137615 % en Wrangler Sign Off Crew Sudadera  Amarill'
 date: 2020-01-17 17:42:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DaWf03yQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DaWf03yQL._SL200_.jpg' ]

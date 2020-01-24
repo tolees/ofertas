@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BONAI Batería Externa  5800mAh Cargador ' al 26.339066339066342 % de descuento
+title: 'BONAI Batería Externa  5800mAh Cargador  al 26.339066339066342 % de descuento'
 date: 2020-01-03 09:09:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tuo7UrZoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tuo7UrZoL._SL200_.jpg' ]

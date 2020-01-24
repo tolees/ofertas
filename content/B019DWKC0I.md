@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Russell Hobbs NutriBoost - Batidora de V' al 25.99129309330509 % de descuento
+title: 'Russell Hobbs NutriBoost - Batidora de V al 25.99129309330509 % de descuento'
 date: 2019/11/30 16:52:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QlKBnwwEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QlKBnwwEL._SL200_.jpg' ]

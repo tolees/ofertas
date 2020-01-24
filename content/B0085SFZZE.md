@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.832775919732434 % en 'Jack & Jones Storm Sweat - Camiseta de m'
+title: 'Descuento del 29.832775919732434 % en Jack & Jones Storm Sweat - Camiseta de m'
 date: 2019/11/17 17:58:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zr3yEqDBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zr3yEqDBL._SL200_.jpg' ]

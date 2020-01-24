@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.230886850152917 % en 'Tom Tailor Ray Camisa  Rojo  Black Red M'
+title: 'Descuento del 31.230886850152917 % en Tom Tailor Ray Camisa  Rojo  Black Red M'
 date: 2020-01-20 15:29:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hCEKEGMqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hCEKEGMqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei MediaPad T5 Tablet-PC 25  6 cm  1' al 30.888030888030894 % de descuento
+title: 'Huawei MediaPad T5 Tablet-PC 25  6 cm  1 al 30.888030888030894 % de descuento'
 date: 2019/12/09 16:39:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z9uey1UjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z9uey1UjL._SL200_.jpg' ]

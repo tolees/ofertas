@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Lynn D-Mid Waist Super Skinny' al 34.977488744372195 % de descuento
+title: 'G-STAR RAW Lynn D-Mid Waist Super Skinny al 34.977488744372195 % de descuento'
 date: 2020-01-07 11:04:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ve-xW%2BbkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ve-xW%2BbkL._SL200_.jpg' ]

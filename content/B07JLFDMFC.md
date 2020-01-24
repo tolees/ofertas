@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.92243536280234 % en 'Lee Button Down Variation Camisa   Dust '
+title: 'Descuento del 46.92243536280234 % en Lee Button Down Variation Camisa   Dust '
 date: 2019/10/28 20:38:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51btua7TOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51btua7TOpL._SL200_.jpg' ]

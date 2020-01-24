@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.7874169597499 % en 'Pepe Jeans Bennet Parka  Verde  Medium p'
+title: 'Descuento del 65.7874169597499 % en Pepe Jeans Bennet Parka  Verde  Medium p'
 date: 2019/11/23 10:40:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EHxuGIuCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EHxuGIuCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.007201440288064 % en 'Mpow 059 Auriculares Diadema Bluetooth  '
+title: 'Descuento del 36.007201440288064 % en Mpow 059 Auriculares Diadema Bluetooth  '
 date: 2020-01-23 19:35:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ESwfiv%2BTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ESwfiv%2BTL._SL200_.jpg' ]

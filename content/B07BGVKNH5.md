@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crema para el cuidado de los pies  para ' al 46.68222740913638 % de descuento
+title: 'Crema para el cuidado de los pies  para  al 46.68222740913638 % de descuento'
 date: 2019/11/30 21:55:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ksAzXMpVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ksAzXMpVL._SL200_.jpg' ]

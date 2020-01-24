@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.153472420691635 % en 'Logitech K380 Multi-Device Bluetooth Key'
+title: 'Descuento del 37.153472420691635 % en Logitech K380 Multi-Device Bluetooth Key'
 date: 2020-01-22 09:42:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SScWPfsGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SScWPfsGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 88.31385642737897 % en 'OPPO RX17 Neo case  KuGi Ultra-thin Soft'
+title: 'Descuento del 88.31385642737897 % en OPPO RX17 Neo case  KuGi Ultra-thin Soft'
 date: 2019/12/21 17:58:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512NK%2BglPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512NK%2BglPEL._SL200_.jpg' ]

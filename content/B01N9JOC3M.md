@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. 16563 vestido fiesta mujer  Negro '
+title: 'Descuento del 70.0 % en find. 16563 vestido fiesta mujer  Negro '
 date: 2019/12/06 13:34:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dtr8FPuXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dtr8FPuXL._SL200_.jpg' ]

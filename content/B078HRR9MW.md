@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fire HD 8 Kids Edition Tablet  8" HD Dis' al 34.61804754211863 % de descuento
+title: 'Fire HD 8 Kids Edition Tablet  8" HD Dis al 34.61804754211863 % de descuento'
 date: 2019/11/23 19:59:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uAwQ3zYOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uAwQ3zYOL._SL200_.jpg' ]

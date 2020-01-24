@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.25731432858215 % en 'PLAYMOBIL Top Agents 70002 Spy Team Turb'
+title: 'Descuento del 29.25731432858215 % en PLAYMOBIL Top Agents 70002 Spy Team Turb'
 date: 2020-01-24 01:59:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/61eGZQTMcpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61eGZQTMcpL._AC_._SL200_.jpg' ]

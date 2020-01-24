@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.30434782608695 % en 'Seiko Reloj Analógico para Mujer de Ener'
+title: 'Descuento del 35.30434782608695 % en Seiko Reloj Analógico para Mujer de Ener'
 date: 2019/11/21 19:25:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Z8Yo3OYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Z8Yo3OYL._SL200_.jpg' ]

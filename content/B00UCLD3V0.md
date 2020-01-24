@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.126436781609186 % en 'Flower 55062 55062-Pluviómetro  Transpar'
+title: 'Descuento del 27.126436781609186 % en Flower 55062 55062-Pluviómetro  Transpar'
 date: 2019/11/08 15:45:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BdrB0USL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BdrB0USL._SL200_.jpg' ]

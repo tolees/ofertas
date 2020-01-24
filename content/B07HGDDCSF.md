@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fuell Cell Propel  Zapatilla' al 35.84166666666667 % de descuento
+title: 'New Balance Fuell Cell Propel  Zapatilla al 35.84166666666667 % de descuento'
 date: 2019/12/29 22:14:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mhTD9Eu-L._SL200_.jpg' ]

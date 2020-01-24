@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burton Grove Full-Zip Fleece Sudadera  H' al 54.90666666666666 % de descuento
+title: 'Burton Grove Full-Zip Fleece Sudadera  H al 54.90666666666666 % de descuento'
 date: 2019/10/07 22:34:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o868PyqBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o868PyqBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.98213647731332 % en 'Parfois - Bolso Tote Vinilo Multicolor -'
+title: 'Descuento del 49.98213647731332 % en Parfois - Bolso Tote Vinilo Multicolor -'
 date: 2019/11/29 14:26:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HYOdjh2mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HYOdjh2mL._SL200_.jpg' ]

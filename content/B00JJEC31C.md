@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TECKNET Ratón Inalámbrico Vertical Ratón' al 40.75583549462763 % de descuento
+title: 'TECKNET Ratón Inalámbrico Vertical Ratón al 40.75583549462763 % de descuento'
 date: 2020-01-16 13:08:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yjK9d9oJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yjK9d9oJL._SL200_.jpg' ]

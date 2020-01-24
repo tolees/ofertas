@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.351117039013005 % en 'Tratamiento profesional para el cabello '
+title: 'Descuento del 53.351117039013005 % en Tratamiento profesional para el cabello '
 date: 2019/10/23 06:24:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5172afoEOIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5172afoEOIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JOTO DR2100 Tambor Compatible para Broth' al 57.315770736917045 % de descuento
+title: 'JOTO DR2100 Tambor Compatible para Broth al 57.315770736917045 % de descuento'
 date: 2019/10/21 18:45:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k%2BoEaVOxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k%2BoEaVOxL._SL200_.jpg' ]

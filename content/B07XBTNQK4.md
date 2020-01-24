@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mr. Tronic 10m Cable de Red Ethernet Lat' al 33.4 % de descuento
+title: 'Mr. Tronic 10m Cable de Red Ethernet Lat al 33.4 % de descuento'
 date: 2020-01-08 01:01:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Tm8GaSR3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Tm8GaSR3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Pf7839 Polo  Azul  Rill T01   32' al 49.93333333333333 % de descuento
+title: 'Lacoste Pf7839 Polo  Azul  Rill T01   32 al 49.93333333333333 % de descuento'
 date: 2019/10/05 10:34:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g7hRnwmqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g7hRnwmqL._SL200_.jpg' ]

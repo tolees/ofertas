@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nioxin Sistema 6 Acondicionador - 300 ml' al 51.71202809482002 % de descuento
+title: 'Nioxin Sistema 6 Acondicionador - 300 ml al 51.71202809482002 % de descuento'
 date: 2020-01-23 08:17:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mAhLVzclL._SL200_.jpg' ]

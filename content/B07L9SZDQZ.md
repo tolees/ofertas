@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.26315789473684 % en 'Lacoste Graduate Bl 1 SMA  Zapatillas pa'
+title: 'Descuento del 60.26315789473684 % en Lacoste Graduate Bl 1 SMA  Zapatillas pa'
 date: 2019/12/22 13:45:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31orbdrPgUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31orbdrPgUL._SL200_.jpg' ]

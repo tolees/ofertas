@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01000333444481 % en 'coskefy 6 Pares Calcetines Deportivos pa'
+title: 'Descuento del 30.01000333444481 % en coskefy 6 Pares Calcetines Deportivos pa'
 date: 2019/10/27 18:49:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o0dAYKu6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o0dAYKu6L._SL200_.jpg' ]

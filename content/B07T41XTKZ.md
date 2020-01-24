@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tablet 10 Pulgadas 4G IPS/HD  3GB de RAM' al 40.20603015075377 % de descuento
+title: 'Tablet 10 Pulgadas 4G IPS/HD  3GB de RAM al 40.20603015075377 % de descuento'
 date: 2019/10/10 08:23:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tLo3GyiiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tLo3GyiiL._SL200_.jpg' ]

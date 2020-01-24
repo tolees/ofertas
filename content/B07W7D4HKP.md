@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vigilabebés Inalambrico Bebé Monitor Int' al 58.06387092472831 % de descuento
+title: 'Vigilabebés Inalambrico Bebé Monitor Int al 58.06387092472831 % de descuento'
 date: 2019/10/09 18:01:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l2ebSDrVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l2ebSDrVL._SL200_.jpg' ]

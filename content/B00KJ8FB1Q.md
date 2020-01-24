@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMRON M2 BASIC Tensiómetro de Brazo digi' al 38.87755102040816 % de descuento
+title: 'OMRON M2 BASIC Tensiómetro de Brazo digi al 38.87755102040816 % de descuento'
 date: 2020-01-19 17:54:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z6SqkmO7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z6SqkmO7L._SL200_.jpg' ]

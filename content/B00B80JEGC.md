@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.727879799666105 % en 'Beurer PO 30 - Pulsioxímetro de dedo par'
+title: 'Descuento del 36.727879799666105 % en Beurer PO 30 - Pulsioxímetro de dedo par'
 date: 2020-01-17 23:35:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U3R7L8ujL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U3R7L8ujL._SL200_.jpg' ]

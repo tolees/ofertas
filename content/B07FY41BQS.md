@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.654545454545453 % en 'Vans Filmore Decon  Zapatillas para Homb'
+title: 'Descuento del 25.654545454545453 % en Vans Filmore Decon  Zapatillas para Homb'
 date: 2019/11/18 13:30:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RLbtzG6RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RLbtzG6RL._SL200_.jpg' ]

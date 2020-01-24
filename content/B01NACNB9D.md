@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Varlion Avant H ITSV Soft - Pala de páde' al 67.93548387096774 % de descuento
+title: 'Varlion Avant H ITSV Soft - Pala de páde al 67.93548387096774 % de descuento'
 date: 2019/11/02 20:23:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AFeAr3OHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AFeAr3OHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asiento de coche para saco/Cosy Toes Com' al 51.5211970074813 % de descuento
+title: 'Asiento de coche para saco/Cosy Toes Com al 51.5211970074813 % de descuento'
 date: 2019/10/07 07:03:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y07XWbHZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y07XWbHZL._SL200_.jpg' ]

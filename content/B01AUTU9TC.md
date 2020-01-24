@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.01003344481605 % en 'L Oréal Paris Sculpt 01  Base De Maquill'
+title: 'Descuento del 43.01003344481605 % en L Oréal Paris Sculpt 01  Base De Maquill'
 date: 2020-01-16 13:54:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419quQAkzhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419quQAkzhL._SL200_.jpg' ]

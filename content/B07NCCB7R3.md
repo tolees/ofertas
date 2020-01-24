@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Tatiana Blusa  Azul  French B' al 50.013333333333335 % de descuento
+title: 'Pepe Jeans Tatiana Blusa  Azul  French B al 50.013333333333335 % de descuento'
 date: 2019/10/22 18:09:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418kXVIlJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418kXVIlJ4L._SL200_.jpg' ]

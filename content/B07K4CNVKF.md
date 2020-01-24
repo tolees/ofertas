@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'B Blesiya 1:100 Escala Modelo Poste de L' al 30.02049180327868 % de descuento
+title: 'B Blesiya 1:100 Escala Modelo Poste de L al 30.02049180327868 % de descuento'
 date: 2019/10/31 08:41:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318gfReEoGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318gfReEoGL._SL200_.jpg' ]

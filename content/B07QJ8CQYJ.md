@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funda de Silicona para Fire TV Stick 4K ' al 50.02501250625312 % de descuento
+title: 'Funda de Silicona para Fire TV Stick 4K  al 50.02501250625312 % de descuento'
 date: 2019/10/11 23:25:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4196hXips-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4196hXips-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maxi-Cosi CABRIOFIX  Nomad Grey  - Silla' al 48.24022346368715 % de descuento
+title: 'Maxi-Cosi CABRIOFIX  Nomad Grey  - Silla al 48.24022346368715 % de descuento'
 date: 2020-01-16 17:12:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ot-0jVN2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ot-0jVN2L._SL200_.jpg' ]

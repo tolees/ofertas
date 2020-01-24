@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.03039377152269 % en 'BRA PRIOR - Cacerola baja con tapa de cr'
+title: 'Descuento del 43.03039377152269 % en BRA PRIOR - Cacerola baja con tapa de cr'
 date: 2020-01-04 22:36:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u9kWvZKrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u9kWvZKrL._SL200_.jpg' ]

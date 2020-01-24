@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trixie Alfombrilla Bandeja Gato  PVC  37' al 42.818791946308735 % de descuento
+title: 'Trixie Alfombrilla Bandeja Gato  PVC  37 al 42.818791946308735 % de descuento'
 date: 2020-01-22 04:06:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Rlob8%2BaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Rlob8%2BaL._SL200_.jpg' ]

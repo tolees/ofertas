@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sotech 108 Piezas Juego de Llaves de Vas' al 59.924187434470525 % de descuento
+title: 'Sotech 108 Piezas Juego de Llaves de Vas al 59.924187434470525 % de descuento'
 date: 2020-01-13 19:19:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BubAtBWqL._SL200_.jpg' ]

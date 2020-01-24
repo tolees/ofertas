@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel- Funko Pop Games Capcom Figuras d' al 66.64643399089529 % de descuento
+title: 'Marvel- Funko Pop Games Capcom Figuras d al 66.64643399089529 % de descuento'
 date: 2020-01-12 09:05:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bvu7qoHaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bvu7qoHaL._SL200_.jpg' ]

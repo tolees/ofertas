@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.67274026438012 % en 'G-STAR RAW Biwes Stripe High Waist Skinn'
+title: 'Descuento del 83.67274026438012 % en G-STAR RAW Biwes Stripe High Waist Skinn'
 date: 2019/10/05 23:24:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314RHSNkfcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314RHSNkfcL._SL200_.jpg' ]

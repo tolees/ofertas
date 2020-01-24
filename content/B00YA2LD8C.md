@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe Essence - grifo  color cromo Ref. ' al 51.15057298227288 % de descuento
+title: 'Grohe Essence - grifo  color cromo Ref.  al 51.15057298227288 % de descuento'
 date: 2019/11/05 19:36:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XSYtl71KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XSYtl71KL._SL200_.jpg' ]

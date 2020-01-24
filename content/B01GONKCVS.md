@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.44004282655245 % en 'Hollister Wave U Edt 100 Vapo'
+title: 'Descuento del 46.44004282655245 % en Hollister Wave U Edt 100 Vapo'
 date: 2020-01-23 10:11:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Fp9ZDYTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Fp9ZDYTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.08652148322543 % en 'Proficook Sous Vide - Roner para cocción'
+title: 'Descuento del 47.08652148322543 % en Proficook Sous Vide - Roner para cocción'
 date: 2019/10/12 18:04:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gCQqTMLTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gCQqTMLTL._SL200_.jpg' ]

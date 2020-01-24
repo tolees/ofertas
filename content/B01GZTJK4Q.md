@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KUTOOK Guantes Ciclismo  Guantes MTB Gel' al 39.32142857142858 % de descuento
+title: 'KUTOOK Guantes Ciclismo  Guantes MTB Gel al 39.32142857142858 % de descuento'
 date: 2020-01-03 18:46:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YasMSoKPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YasMSoKPL._SL200_.jpg' ]

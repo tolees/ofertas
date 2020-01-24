@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KuGi for Honor 10 lite case  Ultra-thin ' al 88.31385642737897 % de descuento
+title: 'KuGi for Honor 10 lite case  Ultra-thin  al 88.31385642737897 % de descuento'
 date: 2020-01-02 09:58:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517E2F91C9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517E2F91C9L._SL200_.jpg' ]

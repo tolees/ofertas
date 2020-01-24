@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH LIFA Active Light LS T-S' al 60.12500000000001 % de descuento
+title: 'Helly Hansen HH LIFA Active Light LS T-S al 60.12500000000001 % de descuento'
 date: 2019/10/31 08:36:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N1%2BwSBqeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N1%2BwSBqeL._SL200_.jpg' ]

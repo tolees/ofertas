@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 36440 POP Keychain Captain Marvel-' al 42.25759768451519 % de descuento
+title: 'Funko 36440 POP Keychain Captain Marvel- al 42.25759768451519 % de descuento'
 date: 2019/12/22 00:34:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519JivtMBcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519JivtMBcL._SL200_.jpg' ]

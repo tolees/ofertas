@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyAiderTech Juego de cortaúñas para bebé' al 46.278924327704814 % de descuento
+title: 'HyAiderTech Juego de cortaúñas para bebé al 46.278924327704814 % de descuento'
 date: 2019/10/29 11:37:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IGbiMV9ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IGbiMV9ML._SL200_.jpg' ]

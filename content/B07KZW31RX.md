@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.38570813603099 % en 'Eono by Amazon - Sujetador Bolsa para La'
+title: 'Descuento del 48.38570813603099 % en Eono by Amazon - Sujetador Bolsa para La'
 date: 2019/10/15 07:24:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C%2BFYOLLQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C%2BFYOLLQL._SL200_.jpg' ]

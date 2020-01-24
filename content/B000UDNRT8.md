@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Doggy Bag Riñonera  27 cm  3 L  ' al 43.733333333333334 % de descuento
+title: 'Eastpak Doggy Bag Riñonera  27 cm  3 L   al 43.733333333333334 % de descuento'
 date: 2019/12/18 20:55:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zCaUGRGOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zCaUGRGOL._SL200_.jpg' ]

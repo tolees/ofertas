@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luces de Cadena Luces de Carámbano Luz d' al 76.01520304060813 % de descuento
+title: 'Luces de Cadena Luces de Carámbano Luz d al 76.01520304060813 % de descuento'
 date: 2019/10/09 16:51:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PUHiwbgAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PUHiwbgAL._SL200_.jpg' ]

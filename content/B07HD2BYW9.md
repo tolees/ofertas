@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple Watch Correa Loop de piel en color' al 27.77777777777778 % de descuento
+title: 'Apple Watch Correa Loop de piel en color al 27.77777777777778 % de descuento'
 date: 2019/10/30 09:47:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21gOrZZEtaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21gOrZZEtaL._SL200_.jpg' ]

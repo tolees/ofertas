@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett High Vaqueros  Polished Ind' al 77.65425236242358 % de descuento
+title: 'Lee Scarlett High Vaqueros  Polished Ind al 77.65425236242358 % de descuento'
 date: 2019/11/18 18:42:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M81Qh6uUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M81Qh6uUL._SL200_.jpg' ]

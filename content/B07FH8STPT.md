@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.99999999999999 % en 'Element Blazin Zip Hood Fleece  Hombre  '
+title: 'Descuento del 44.99999999999999 % en Element Blazin Zip Hood Fleece  Hombre  '
 date: 2019/12/10 18:25:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nFXzxwPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nFXzxwPJL._SL200_.jpg' ]

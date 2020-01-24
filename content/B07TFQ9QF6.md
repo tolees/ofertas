@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quiksilver Mission-Guantes para Snowboar' al 33.34074238719717 % de descuento
+title: 'Quiksilver Mission-Guantes para Snowboar al 33.34074238719717 % de descuento'
 date: 2020-01-16 08:16:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4119yj6e6NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4119yj6e6NL._SL200_.jpg' ]

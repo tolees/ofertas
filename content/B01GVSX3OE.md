@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.33204633204633 % en 'Bungsa® B - Silberner Buchstaben Kristal'
+title: 'Descuento del 46.33204633204633 % en Bungsa® B - Silberner Buchstaben Kristal'
 date: 2020-01-05 06:17:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U9tItjwqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U9tItjwqL._SL200_.jpg' ]

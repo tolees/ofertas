@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.240484825118365 % en 'AMD Ryzen Threadripper 2950X Processor -'
+title: 'Descuento del 60.240484825118365 % en AMD Ryzen Threadripper 2950X Processor -'
 date: 2019/12/10 08:43:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PpwEHzHOL._SL200_.jpg' ]

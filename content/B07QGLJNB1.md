@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.878787878787875 % en 'Lotus Reloj Analógico para Mujer de Cuar'
+title: 'Descuento del 50.878787878787875 % en Lotus Reloj Analógico para Mujer de Cuar'
 date: 2019/10/25 18:05:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3174kaIyAcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3174kaIyAcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trio 4344021-24 Serie 4344 - Lámpara de ' al 57.78335005015045 % de descuento
+title: 'Trio 4344021-24 Serie 4344 - Lámpara de  al 57.78335005015045 % de descuento'
 date: 2019/11/14 19:48:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Da3QAmUWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Da3QAmUWL._SL200_.jpg' ]

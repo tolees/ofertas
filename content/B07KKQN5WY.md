@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Kenr21d Vestido  Turquesa  Fresh' al 39.300000000000004 % de descuento
+title: 'Naf Naf Kenr21d Vestido  Turquesa  Fresh al 39.300000000000004 % de descuento'
 date: 2019/11/06 22:42:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xx-Xaot-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xx-Xaot-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.07807807807808 % en 'Columbia Sudadera CSC Check The Buffalo '
+title: 'Descuento del 58.07807807807808 % en Columbia Sudadera CSC Check The Buffalo '
 date: 2019/10/07 16:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-3Wx%2Bq8cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-3Wx%2Bq8cL._SL200_.jpg' ]

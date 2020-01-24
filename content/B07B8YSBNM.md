@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'J.Rosée Collar Mujer  Collar Plata de Le' al 83.66836683668367 % de descuento
+title: 'J.Rosée Collar Mujer  Collar Plata de Le al 83.66836683668367 % de descuento'
 date: 2020-01-12 23:22:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BdMnRJzLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BdMnRJzLL._SL200_.jpg' ]

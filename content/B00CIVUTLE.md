@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.03032891926527 % en 'Ultrasport Rts flicka - Forro  Color Gri'
+title: 'Descuento del 69.03032891926527 % en Ultrasport Rts flicka - Forro  Color Gri'
 date: 2020-01-21 13:03:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q7fdXS7LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q7fdXS7LL._SL200_.jpg' ]

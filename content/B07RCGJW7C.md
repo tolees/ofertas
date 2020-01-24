@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Marquam Peak Chaqueta  Hombre  ' al 55.2371842254011 % de descuento
+title: 'Columbia Marquam Peak Chaqueta  Hombre   al 55.2371842254011 % de descuento'
 date: 2020-01-09 15:38:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-MoeCxm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-MoeCxm1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.959514170040478 % en 'Nike Downshifter 9  PSV   Zapatillas de '
+title: 'Descuento del 29.959514170040478 % en Nike Downshifter 9  PSV   Zapatillas de '
 date: 2020-01-07 17:04:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qtd1pJNIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qtd1pJNIL._SL200_.jpg' ]

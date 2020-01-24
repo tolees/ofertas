@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.5087543771886 % en 'Puma Suede Heart Bubble  Zapatillas para'
+title: 'Descuento del 77.5087543771886 % en Puma Suede Heart Bubble  Zapatillas para'
 date: 2019/11/17 16:58:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wAmc58RiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wAmc58RiL._SL200_.jpg' ]

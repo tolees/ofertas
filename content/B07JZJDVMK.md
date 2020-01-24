@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger U Light Down Jacket Chaqu' al 69.34532374100719 % de descuento
+title: 'Tommy Hilfiger U Light Down Jacket Chaqu al 69.34532374100719 % de descuento'
 date: 2020-01-10 17:50:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P5murMpJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P5murMpJL._SL200_.jpg' ]

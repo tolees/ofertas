@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Flyer Runner  Zapatillas de Running' al 46.06606606606607 % de descuento
+title: 'Puma Flyer Runner  Zapatillas de Running al 46.06606606606607 % de descuento'
 date: 2019/12/06 20:45:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31b5wF-DNfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31b5wF-DNfL._SL200_.jpg' ]

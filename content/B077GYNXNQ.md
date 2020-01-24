@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Manchester Big Logo SS T Ca' al 60.15384615384616 % de descuento
+title: 'Under Armour Manchester Big Logo SS T Ca al 60.15384615384616 % de descuento'
 date: 2019/11/10 14:19:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YfX2RSMlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YfX2RSMlL._SL200_.jpg' ]

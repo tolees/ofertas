@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.00248208946805 % en 'PIKOLIN Colchón viscoelástico Espuma HR '
+title: 'Descuento del 28.00248208946805 % en PIKOLIN Colchón viscoelástico Espuma HR '
 date: 2019/10/26 10:46:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sIJNYoyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sIJNYoyQL._SL200_.jpg' ]

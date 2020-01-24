@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Cm997hv1  Zapatillas para Ho' al 61.988888888888894 % de descuento
+title: 'New Balance Cm997hv1  Zapatillas para Ho al 61.988888888888894 % de descuento'
 date: 2020-01-12 16:45:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BAziglydL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BAziglydL._SL200_.jpg' ]

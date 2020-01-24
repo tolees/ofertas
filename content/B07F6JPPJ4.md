@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.70210079210194 % en 'Ballistix Sport AT BLS8G4D30CESTK - Memo'
+title: 'Descuento del 44.70210079210194 % en Ballistix Sport AT BLS8G4D30CESTK - Memo'
 date: 2019/12/18 21:48:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RdcErYDhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RdcErYDhL._SL200_.jpg' ]

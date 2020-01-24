@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Lightweight Running/Hiking Hydra' al 54.800000000000004 % de descuento
+title: 'Salomon Lightweight Running/Hiking Hydra al 54.800000000000004 % de descuento'
 date: 2019/12/13 09:53:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aWP8e5qGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aWP8e5qGL._SL200_.jpg' ]

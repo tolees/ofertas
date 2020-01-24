@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gang Beasts' al 26.675558519506502 % de descuento
+title: 'Gang Beasts al 26.675558519506502 % de descuento'
 date: 2019/12/13 18:51:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QOoNHy%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QOoNHy%2B7L._SL200_.jpg' ]

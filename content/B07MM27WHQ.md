@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PIKOLINOS Sandalia Plana de Piel Alcudia' al 55.536231884057976 % de descuento
+title: 'PIKOLINOS Sandalia Plana de Piel Alcudia al 55.536231884057976 % de descuento'
 date: 2020-01-11 07:49:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311k6DCd29L._SL200_.jpg' ]

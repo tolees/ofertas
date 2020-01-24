@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Paranix Spray. Tratamiento para Piojos y' al 51.2280701754386 % de descuento
+title: 'Paranix Spray. Tratamiento para Piojos y al 51.2280701754386 % de descuento'
 date: 2019/12/16 18:34:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b3OogWLLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b3OogWLLL._SL200_.jpg' ]

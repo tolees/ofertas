@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.98181818181818 % en 'Burton Oak Sudaderas  Niñas  Flint Heath'
+title: 'Descuento del 54.98181818181818 % en Burton Oak Sudaderas  Niñas  Flint Heath'
 date: 2019/10/06 19:23:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dk-V1Q1lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dk-V1Q1lL._SL200_.jpg' ]

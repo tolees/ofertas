@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.51687921980496 % en 'Lifewit 15L Bolsa Isotermica de Almuerzo'
+title: 'Descuento del 67.51687921980496 % en Lifewit 15L Bolsa Isotermica de Almuerzo'
 date: 2020-01-07 15:54:06
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic Gym Sudadera  Gris  Box T' al 54.69230769230769 % de descuento
+title: 'Levi s Graphic Gym Sudadera  Gris  Box T al 54.69230769230769 % de descuento'
 date: 2019/10/15 20:09:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C3BAZNV0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C3BAZNV0L._SL200_.jpg' ]

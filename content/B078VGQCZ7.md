@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony WFSP700NP.CE7 - Auriculares deporti' al 42.50000000000001 % de descuento
+title: 'Sony WFSP700NP.CE7 - Auriculares deporti al 42.50000000000001 % de descuento'
 date: 2019/11/18 16:04:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X4DX-BLhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X4DX-BLhL._SL200_.jpg' ]

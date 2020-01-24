@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers OG 97-Shiny Dancer  Zapatillas ' al 39.953810623556585 % de descuento
+title: 'Skechers OG 97-Shiny Dancer  Zapatillas  al 39.953810623556585 % de descuento'
 date: 2019/10/24 07:33:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BjW1fCg0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BjW1fCg0L._SL200_.jpg' ]

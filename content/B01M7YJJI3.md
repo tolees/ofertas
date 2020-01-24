@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.69779853235491 % en 'Funko Figurine Marvel - Gardiens De La G'
+title: 'Descuento del 46.69779853235491 % en Funko Figurine Marvel - Gardiens De La G'
 date: 2020-01-13 12:23:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n4dkiJ0RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n4dkiJ0RL._SL200_.jpg' ]

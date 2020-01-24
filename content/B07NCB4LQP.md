@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 82.21538461538461 % en 'Pepe Jeans Ridleys I Camisa  Blanco  Whi'
+title: 'Descuento del 82.21538461538461 % en Pepe Jeans Ridleys I Camisa  Blanco  Whi'
 date: 2019/12/02 10:15:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KpmmK4ekL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KpmmK4ekL._SL200_.jpg' ]

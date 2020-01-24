@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Skenna Chaqueta  Mujer  Fres' al 44.996772111039384 % de descuento
+title: 'Trangoworld Skenna Chaqueta  Mujer  Fres al 44.996772111039384 % de descuento'
 date: 2019/10/23 04:41:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AkMhRSdnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AkMhRSdnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bowers & Wilkins P5 Wireless - Auricular' al 40.33134437814594 % de descuento
+title: 'Bowers & Wilkins P5 Wireless - Auricular al 40.33134437814594 % de descuento'
 date: 2019/12/08 20:08:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PIFBV5x2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PIFBV5x2L._SL200_.jpg' ]

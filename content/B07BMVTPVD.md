@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.04004004004005 % en 'Skechers Equalizer 3.0  Zapatillas para '
+title: 'Descuento del 40.04004004004005 % en Skechers Equalizer 3.0  Zapatillas para '
 date: 2019/10/23 14:09:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-vszH6DeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-vszH6DeL._SL200_.jpg' ]

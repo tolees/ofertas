@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.86183740534361 % en 'LEGO Friends 41314 Stephanies Haus  Kind'
+title: 'Descuento del 32.86183740534361 % en LEGO Friends 41314 Stephanies Haus  Kind'
 date: 2019/11/28 09:28:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61TMUyx1pjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61TMUyx1pjL._SL200_.jpg' ]

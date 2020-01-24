@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syncwire Cable Cargador iPhone Cable Lig' al 56.68556185395131 % de descuento
+title: 'Syncwire Cable Cargador iPhone Cable Lig al 56.68556185395131 % de descuento'
 date: 2019/10/23 16:53:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415o3gKmBxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415o3gKmBxL._SL200_.jpg' ]

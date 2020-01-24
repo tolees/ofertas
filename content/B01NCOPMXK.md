@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Classic Suede Belt Cinturón  Azul  ' al 39.142857142857146 % de descuento
+title: 'Gant Classic Suede Belt Cinturón  Azul   al 39.142857142857146 % de descuento'
 date: 2019/11/18 05:03:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BuOFasiaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BuOFasiaL._SL200_.jpg' ]

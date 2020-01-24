@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 33981 POP Bobble: Marvel Man Verse' al 45.414847161572055 % de descuento
+title: 'Funko 33981 POP Bobble: Marvel Man Verse al 45.414847161572055 % de descuento'
 date: 2020-01-11 13:59:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Cy1Z3V94L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Cy1Z3V94L._SL200_.jpg' ]

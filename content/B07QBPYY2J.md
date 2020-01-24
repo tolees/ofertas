@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Arnie Rip Bleach Vaqueros Skinn' al 42.775393419170236 % de descuento
+title: 'New Look Arnie Rip Bleach Vaqueros Skinn al 42.775393419170236 % de descuento'
 date: 2020-01-13 18:48:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jruZZHQIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jruZZHQIL._SL200_.jpg' ]

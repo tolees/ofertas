@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH5014-C01-56 Gafas de Sol ' al 53.14736842105263 % de descuento
+title: 'Helly Hansen HH5014-C01-56 Gafas de Sol  al 53.14736842105263 % de descuento'
 date: 2020-01-13 08:15:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Rf9vSl2sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Rf9vSl2sL._SL200_.jpg' ]

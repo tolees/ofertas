@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neff CKS1561N Einbau-Kaffeemaschine aus ' al 44.08553230209281 % de descuento
+title: 'Neff CKS1561N Einbau-Kaffeemaschine aus  al 44.08553230209281 % de descuento'
 date: 2020-01-22 04:33:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417LgsoY05L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417LgsoY05L._SL200_.jpg' ]

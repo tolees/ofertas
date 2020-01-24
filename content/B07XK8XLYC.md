@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Multimetro Digital Profesional AoKoZo Au' al 82.31402415570429 % de descuento
+title: 'Multimetro Digital Profesional AoKoZo Au al 82.31402415570429 % de descuento'
 date: 2019/11/09 10:45:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dCxo1sIAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dCxo1sIAL._SL200_.jpg' ]

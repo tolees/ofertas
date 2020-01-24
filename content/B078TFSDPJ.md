@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enesco Disney Showcase 4060077 - Bola de' al 32.575099843722874 % de descuento
+title: 'Enesco Disney Showcase 4060077 - Bola de al 32.575099843722874 % de descuento'
 date: 2019/10/17 23:50:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vamR5PwWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vamR5PwWL._SL200_.jpg' ]

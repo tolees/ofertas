@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.85857142857142 % en 'Moma Bikes Bicicleta Fixie Urbana  Fixie'
+title: 'Descuento del 42.85857142857142 % en Moma Bikes Bicicleta Fixie Urbana  Fixie'
 date: 2020-01-05 15:54:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YxnMAYsBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YxnMAYsBL._SL200_.jpg' ]

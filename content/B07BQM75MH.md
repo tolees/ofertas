@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ONEVER Bolsa de Bloqueo de señal  [2 Uni' al 49.67129291453616 % de descuento
+title: 'ONEVER Bolsa de Bloqueo de señal  [2 Uni al 49.67129291453616 % de descuento'
 date: 2019/10/08 13:03:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Jmkkg5ulL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Jmkkg5ulL._SL200_.jpg' ]

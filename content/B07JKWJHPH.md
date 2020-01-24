@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.03126954346466 % en 'Lee Scarlett Vaqueros  Wt Finish  32W / '
+title: 'Descuento del 50.03126954346466 % en Lee Scarlett Vaqueros  Wt Finish  32W / '
 date: 2019/10/10 15:36:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m7hMX39JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m7hMX39JL._SL200_.jpg' ]

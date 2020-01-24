@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marca Amazon - BUTTONED DOWN - Camisa de' al 31.21031004856183 % de descuento
+title: 'Marca Amazon - BUTTONED DOWN - Camisa de al 31.21031004856183 % de descuento'
 date: 2019/11/23 21:56:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313N%2BaaBw-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313N%2BaaBw-L._SL200_.jpg' ]

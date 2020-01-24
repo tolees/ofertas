@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Predator 19.1 FG  Zapatillas de F' al 31.015507753876935 % de descuento
+title: 'adidas Predator 19.1 FG  Zapatillas de F al 31.015507753876935 % de descuento'
 date: 2019/11/07 17:55:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vh96WfkTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vh96WfkTL._SL200_.jpg' ]

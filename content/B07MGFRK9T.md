@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri AXSTRAL Chaqueta  Azul  BLU Ma' al 26.179039301310038 % de descuento
+title: 'Napapijri AXSTRAL Chaqueta  Azul  BLU Ma al 26.179039301310038 % de descuento'
 date: 2019/12/04 15:31:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AuypEZ0jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AuypEZ0jL._SL200_.jpg' ]

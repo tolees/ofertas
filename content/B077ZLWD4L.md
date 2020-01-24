@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch EasyPrune - Tijeras de Podar a Bat' al 31.103110311031102 % de descuento
+title: 'Bosch EasyPrune - Tijeras de Podar a Bat al 31.103110311031102 % de descuento'
 date: 2020-01-05 18:25:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bjFA4Z89L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bjFA4Z89L._SL200_.jpg' ]

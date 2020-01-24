@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.02668445630421 % en 'Jvchengxi Funda Protectora para Galaxy W'
+title: 'Descuento del 40.02668445630421 % en Jvchengxi Funda Protectora para Galaxy W'
 date: 2020-01-01 10:34:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H8E9jOs8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H8E9jOs8L._SL200_.jpg' ]

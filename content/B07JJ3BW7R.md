@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.08347245409014 % en 'G-STAR RAW Graphic 18 Mysid Slim Camiset'
+title: 'Descuento del 70.08347245409014 % en G-STAR RAW Graphic 18 Mysid Slim Camiset'
 date: 2019/12/07 19:34:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/211dwkCHPHL._SL200_.jpg' ]

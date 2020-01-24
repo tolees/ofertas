@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Ch9861 Camisa  Multicolor  Blanc' al 42.36 % de descuento
+title: 'Lacoste Ch9861 Camisa  Multicolor  Blanc al 42.36 % de descuento'
 date: 2019/11/10 09:26:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oZwMXOQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oZwMXOQ5L._SL200_.jpg' ]

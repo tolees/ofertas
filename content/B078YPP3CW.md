@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.46666666666667 % en 'Emporio Armani Underwear 111780 Pantalon'
+title: 'Descuento del 47.46666666666667 % en Emporio Armani Underwear 111780 Pantalon'
 date: 2019/10/18 15:29:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GtJ51ZNeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GtJ51ZNeL._SL200_.jpg' ]

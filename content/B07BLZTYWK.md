@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.28906888953174 % en 'ASUS ROG Zephyrus GX501GI-EI005T 15.6 In'
+title: 'Descuento del 39.28906888953174 % en ASUS ROG Zephyrus GX501GI-EI005T 15.6 In'
 date: 2019/10/21 14:03:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o2RHZalrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o2RHZalrL._SL200_.jpg' ]

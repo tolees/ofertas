@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Mujer Regular Poplin Stripe ' al 56.34666666666666 % de descuento
+title: 'Tommy Jeans Mujer Regular Poplin Stripe  al 56.34666666666666 % de descuento'
 date: 2019/10/28 18:05:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M6kgwWkeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M6kgwWkeL._SL200_.jpg' ]

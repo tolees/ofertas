@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.98799519807923 % en 'JACK & JONES Jcochallenge Polo SS Noos  '
+title: 'Descuento del 69.98799519807923 % en JACK & JONES Jcochallenge Polo SS Noos  '
 date: 2020-01-02 11:03:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LLVqZgSPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LLVqZgSPL._SL200_.jpg' ]

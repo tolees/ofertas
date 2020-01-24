@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.938547486033507 % en 'Control Nature XL Preservativos - Pack d'
+title: 'Descuento del 28.938547486033507 % en Control Nature XL Preservativos - Pack d'
 date: 2019/10/27 15:14:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516FR57HXhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516FR57HXhL._SL200_.jpg' ]

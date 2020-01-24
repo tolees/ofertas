@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Core-Run S/S Tee Camiseta  Hombre  ' al 63.613595706618966 % de descuento
+title: 'Puma Core-Run S/S Tee Camiseta  Hombre   al 63.613595706618966 % de descuento'
 date: 2019/11/13 18:19:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pzbhome5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pzbhome5L._SL200_.jpg' ]

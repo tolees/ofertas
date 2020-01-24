@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geographical Norway Sudadera DE Hombre G' al 29.999999999999993 % de descuento
+title: 'Geographical Norway Sudadera DE Hombre G al 29.999999999999993 % de descuento'
 date: 2020-01-12 19:35:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lzwBStwrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lzwBStwrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.39336492890994 % en 'DoGeek Transpirable Zapatos de Ballet Za'
+title: 'Descuento del 47.39336492890994 % en DoGeek Transpirable Zapatos de Ballet Za'
 date: 2019/10/22 11:58:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ynoej2YLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ynoej2YLL._SL200_.jpg' ]

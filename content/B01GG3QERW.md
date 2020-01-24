@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NINETEC Luna Wireless Home Bluetooth NFC' al 43.004300430042996 % de descuento
+title: 'NINETEC Luna Wireless Home Bluetooth NFC al 43.004300430042996 % de descuento'
 date: 2019/12/12 00:18:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MhAvu6dLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MhAvu6dLL._SL200_.jpg' ]

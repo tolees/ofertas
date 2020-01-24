@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Midweight Stretch Half Zip Cami' al 48.69144857476246 % de descuento
+title: 'Columbia Midweight Stretch Half Zip Cami al 48.69144857476246 % de descuento'
 date: 2019/11/06 18:34:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41as20h2gfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41as20h2gfL._SL200_.jpg' ]

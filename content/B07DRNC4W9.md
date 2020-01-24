@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Streaker 2.0 Shortsleeve' al 50.02857142857143 % de descuento
+title: 'Under Armour UA Streaker 2.0 Shortsleeve al 50.02857142857143 % de descuento'
 date: 2019/11/28 15:16:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OcjEvA9ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OcjEvA9ML._SL200_.jpg' ]

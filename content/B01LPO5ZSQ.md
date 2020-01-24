@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.68276249298145 % en 'Twins Ida  Mono Bebé unisex  Multicolor '
+title: 'Descuento del 64.68276249298145 % en Twins Ida  Mono Bebé unisex  Multicolor '
 date: 2019/12/20 15:25:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NaoDontFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NaoDontFL._SL200_.jpg' ]

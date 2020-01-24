@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bergner Munich Cubertería  Acero Inoxida' al 55.22120723625291 % de descuento
+title: 'Bergner Munich Cubertería  Acero Inoxida al 55.22120723625291 % de descuento'
 date: 2020-01-21 11:42:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BbL7XFhfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BbL7XFhfL._SL200_.jpg' ]

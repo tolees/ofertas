@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.125 % en 'Patrulla Canina | Neceser infantil | Den'
+title: 'Descuento del 38.125 % en Patrulla Canina | Neceser infantil | Den'
 date: 2020-01-11 11:04:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wz8sdX7yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Wz8sdX7yL._SL200_.jpg' ]

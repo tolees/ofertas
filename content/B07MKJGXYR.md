@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Revend Skinny Vaqueros  Lt In' al 40.0 % de descuento
+title: 'G-STAR RAW Revend Skinny Vaqueros  Lt In al 40.0 % de descuento'
 date: 2019/12/10 20:46:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qAZ7CFGqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qAZ7CFGqL._SL200_.jpg' ]

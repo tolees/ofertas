@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tous Love Moments Agua de Colonia - 30 m' al 46.91428571428572 % de descuento
+title: 'Tous Love Moments Agua de Colonia - 30 m al 46.91428571428572 % de descuento'
 date: 2020-01-15 19:10:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VmokBmyRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VmokBmyRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.02272727272728 % en 'Pala ML 10 Pro Cup 2016 Legend'
+title: 'Descuento del 35.02272727272728 % en Pala ML 10 Pro Cup 2016 Legend'
 date: 2019/12/22 11:29:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418li2P5YdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418li2P5YdL._SL200_.jpg' ]

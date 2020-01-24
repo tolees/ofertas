@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.324324324324326 % en 'Sony SEL55210 - Objetivo para Sony de Di'
+title: 'Descuento del 31.324324324324326 % en Sony SEL55210 - Objetivo para Sony de Di'
 date: 2020-01-04 11:46:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CaKFGaOoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CaKFGaOoL._SL200_.jpg' ]

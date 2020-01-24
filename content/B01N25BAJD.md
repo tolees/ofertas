@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Colorete en Stick Infalibl' al 37.587939698492455 % de descuento
+title: 'L Oréal Paris Colorete en Stick Infalibl al 37.587939698492455 % de descuento'
 date: 2019/10/21 12:44:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BXkWaxVaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BXkWaxVaL._SL200_.jpg' ]

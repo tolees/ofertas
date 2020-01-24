@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Breville VTT946X - Tostador de 2 rebanad' al 29.92490613266583 % de descuento
+title: 'Breville VTT946X - Tostador de 2 rebanad al 29.92490613266583 % de descuento'
 date: 2019/11/21 10:03:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BEQ9ruDNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BEQ9ruDNL._SL200_.jpg' ]

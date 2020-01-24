@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.59701492537313 % en 'Lancaster Aquamilk Cream Tube 50 ml'
+title: 'Descuento del 55.59701492537313 % en Lancaster Aquamilk Cream Tube 50 ml'
 date: 2019/10/31 03:39:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ikBIsgjhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ikBIsgjhL._SL200_.jpg' ]

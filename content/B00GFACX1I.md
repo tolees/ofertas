@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.71653543307087 % en 'K2  de alta temperatura de silicona  mas'
+title: 'Descuento del 67.71653543307087 % en K2  de alta temperatura de silicona  mas'
 date: 2019/10/18 20:02:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z4kSdO6wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z4kSdO6wL._SL200_.jpg' ]

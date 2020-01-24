@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.229551451187334 % en 'Pinypon- Cueva de Sirenitas  Famosa 7000'
+title: 'Descuento del 47.229551451187334 % en Pinypon- Cueva de Sirenitas  Famosa 7000'
 date: 2020-01-24 02:04:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NiWoZ2eIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NiWoZ2eIL._SL200_.jpg' ]

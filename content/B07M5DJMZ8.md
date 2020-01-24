@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Basic Belt Cinturón  Marrón  Dark Br' al 49.98748435544431 % de descuento
+title: 'Lee Basic Belt Cinturón  Marrón  Dark Br al 49.98748435544431 % de descuento'
 date: 2019/12/21 20:02:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPFiuawzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPFiuawzL._SL200_.jpg' ]

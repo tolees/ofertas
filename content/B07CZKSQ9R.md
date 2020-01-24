@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Launch Sw 7   Short Pant' al 50.025000000000006 % de descuento
+title: 'Under Armour UA Launch Sw 7   Short Pant al 50.025000000000006 % de descuento'
 date: 2019/11/30 17:45:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YQU8C1JrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YQU8C1JrL._SL200_.jpg' ]

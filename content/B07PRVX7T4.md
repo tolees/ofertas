@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wristband Magnético Con Los 15 Imanes Fu' al 47.421052631578945 % de descuento
+title: 'Wristband Magnético Con Los 15 Imanes Fu al 47.421052631578945 % de descuento'
 date: 2019/10/10 20:34:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L7UxfpbFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L7UxfpbFL._SL200_.jpg' ]

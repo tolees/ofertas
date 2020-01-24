@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.41672623302359 % en 'PUMA Rebel Up FZ Hoody FL Sudadera con C'
+title: 'Descuento del 63.41672623302359 % en PUMA Rebel Up FZ Hoody FL Sudadera con C'
 date: 2019/10/20 15:57:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mJEcgXE7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mJEcgXE7L._SL200_.jpg' ]

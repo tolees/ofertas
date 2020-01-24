@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein ENFOLD TOP HANDLEMujerBolso' al 54.255172413793105 % de descuento
+title: 'Calvin Klein ENFOLD TOP HANDLEMujerBolso al 54.255172413793105 % de descuento'
 date: 2019/12/07 17:37:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31K13af1EoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31K13af1EoL._SL200_.jpg' ]

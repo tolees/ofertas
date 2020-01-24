@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Vestido de Tirantes con Raya Ejecu' al 70.0 % de descuento
+title: 'find. Vestido de Tirantes con Raya Ejecu al 70.0 % de descuento'
 date: 2019/10/15 17:56:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c4%2BZaaeTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Gris ' al 40.009090909090915 % de descuento
+title: 'Levi s 502 Regular Taper Vaqueros  Gris  al 40.009090909090915 % de descuento'
 date: 2019/12/08 16:40:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N0zxAjGIL._SL200_.jpg' ]

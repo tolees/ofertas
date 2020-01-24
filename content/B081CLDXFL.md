@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geographical Norway Chaqueta Hombre BOKE' al 34.34343434343434 % de descuento
+title: 'Geographical Norway Chaqueta Hombre BOKE al 34.34343434343434 % de descuento'
 date: 2019/12/17 18:07:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XpjuwRTdL._SL200_.jpg' ]

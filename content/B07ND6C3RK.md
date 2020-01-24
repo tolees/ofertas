@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75250 Star Wars Pasaana Speeder Jag' al 28.005601120224043 % de descuento
+title: 'LEGO 75250 Star Wars Pasaana Speeder Jag al 28.005601120224043 % de descuento'
 date: 2020-01-09 22:21:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RUk5m4nNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RUk5m4nNL._SL200_.jpg' ]

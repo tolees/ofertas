@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pokemon Luna' al 30.9632528810611 % de descuento
+title: 'Pokemon Luna al 30.9632528810611 % de descuento'
 date: 2019/11/08 19:03:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61mlZw%2B9NvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61mlZw%2B9NvL._SL200_.jpg' ]

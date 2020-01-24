@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Speed-Link INTL-4475-BK - Auriculares de' al 46.46645543463287 % de descuento
+title: 'Speed-Link INTL-4475-BK - Auriculares de al 46.46645543463287 % de descuento'
 date: 2019/11/10 11:07:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YTxXb45iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YTxXb45iL._SL200_.jpg' ]

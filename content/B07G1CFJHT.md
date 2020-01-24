@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CYBEX Gold - Silla de Paseo Eezy S+  Ple' al 42.00861230726489 % de descuento
+title: 'CYBEX Gold - Silla de Paseo Eezy S+  Ple al 42.00861230726489 % de descuento'
 date: 2019/11/15 16:07:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W2kq-VUyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W2kq-VUyL._SL200_.jpg' ]

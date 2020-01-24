@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.56842105263158 % en 'Pepe Jeans Track Pm201100 Vaqueros Strai'
+title: 'Descuento del 52.56842105263158 % en Pepe Jeans Track Pm201100 Vaqueros Strai'
 date: 2019/10/13 16:31:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yGM3KqEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yGM3KqEPL._SL200_.jpg' ]

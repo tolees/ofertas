@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.355570380253496 % en 'Belkin MIXIT Lightning to USB Cable - MF'
+title: 'Descuento del 33.355570380253496 % en Belkin MIXIT Lightning to USB Cable - MF'
 date: 2020-01-16 14:39:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DILDxcOXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DILDxcOXL._SL200_.jpg' ]

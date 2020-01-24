@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.05485640529203 % en 'IMEKIS Kid Girls Princess Dress Frozen E'
+title: 'Descuento del 70.05485640529203 % en IMEKIS Kid Girls Princess Dress Frozen E'
 date: 2019/12/09 18:10:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RfLirwrpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RfLirwrpL._SL200_.jpg' ]

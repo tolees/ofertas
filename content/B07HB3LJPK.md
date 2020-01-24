@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAST LEVEL- Funko Figura Pop Dragon Ball' al 48.275862068965516 % de descuento
+title: 'LAST LEVEL- Funko Figura Pop Dragon Ball al 48.275862068965516 % de descuento'
 date: 2020-01-12 17:17:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2B1r95YsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i%2B1r95YsL._SL200_.jpg' ]

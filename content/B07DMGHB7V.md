@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIFA 19 Edición Legacy' al 41.90698449741623 % de descuento
+title: 'FIFA 19 Edición Legacy al 41.90698449741623 % de descuento'
 date: 2020-01-22 17:49:32
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

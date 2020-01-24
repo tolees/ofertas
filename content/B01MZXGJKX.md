@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.72481710748451 % en 'Pedea GmbH SET012-65065422-0009 - Funda '
+title: 'Descuento del 56.72481710748451 % en Pedea GmbH SET012-65065422-0009 - Funda '
 date: 2019/12/30 16:56:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CEVc13iOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CEVc13iOL._SL200_.jpg' ]

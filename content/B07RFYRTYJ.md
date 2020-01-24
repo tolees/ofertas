@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Graphic 13 Sudadera  Azul  Sa' al 50.00625390869293 % de descuento
+title: 'G-STAR RAW Graphic 13 Sudadera  Azul  Sa al 50.00625390869293 % de descuento'
 date: 2020-01-17 09:08:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GwiaLjI-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GwiaLjI-L._SL200_.jpg' ]

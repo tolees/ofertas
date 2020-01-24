@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Hugo BOSS para Hombre 1513440  Gri' al 31.274406332453818 % de descuento
+title: 'Reloj Hugo BOSS para Hombre 1513440  Gri al 31.274406332453818 % de descuento'
 date: 2019/12/14 20:40:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Cp35s5Y2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Cp35s5Y2L._SL200_.jpg' ]

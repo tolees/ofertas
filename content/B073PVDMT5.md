@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Maletín de transporte par' al 50.018525379770274 % de descuento
+title: 'AmazonBasics - Maletín de transporte par al 50.018525379770274 % de descuento'
 date: 2019/12/14 03:11:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4137nROrC1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4137nROrC1L._SL200_.jpg' ]

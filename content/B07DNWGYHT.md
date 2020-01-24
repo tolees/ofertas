@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.54683544303798 % en 'HUGO Grafity_zipb_lt  Botas Clasicas par'
+title: 'Descuento del 56.54683544303798 % en HUGO Grafity_zipb_lt  Botas Clasicas par'
 date: 2019/10/08 20:55:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gjJTzgFTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gjJTzgFTL._SL200_.jpg' ]

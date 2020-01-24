@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.36780650542119 % en 'Skechers Go Walk Evolution Ultra-enhan  '
+title: 'Descuento del 41.36780650542119 % en Skechers Go Walk Evolution Ultra-enhan  '
 date: 2019/11/01 14:29:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JLKWxRwoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JLKWxRwoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.015007503751868 % en 'OMERIL Guantes Gimnasio para Hombre y Mu'
+title: 'Descuento del 30.015007503751868 % en OMERIL Guantes Gimnasio para Hombre y Mu'
 date: 2020-01-22 18:03:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rGDcrr8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rGDcrr8UL._SL200_.jpg' ]

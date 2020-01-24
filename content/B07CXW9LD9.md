@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin 6 ft/1.8 m 3.5 mm Audio Cable wit' al 43.34778259419807 % de descuento
+title: 'Belkin 6 ft/1.8 m 3.5 mm Audio Cable wit al 43.34778259419807 % de descuento'
 date: 2019/11/30 11:22:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OaaZRc7SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OaaZRc7SL._SL200_.jpg' ]

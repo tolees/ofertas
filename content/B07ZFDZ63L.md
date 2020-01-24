@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.684035014589405 % en '50 Colores Velvet Scrunchies Terciopelo '
+title: 'Descuento del 41.684035014589405 % en 50 Colores Velvet Scrunchies Terciopelo '
 date: 2019/12/12 09:09:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OgPcNG1LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OgPcNG1LL._SL200_.jpg' ]

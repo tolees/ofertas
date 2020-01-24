@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clevamama Capa de Baño Bebé - Toalla Del' al 27.694406548431093 % de descuento
+title: 'Clevamama Capa de Baño Bebé - Toalla Del al 27.694406548431093 % de descuento'
 date: 2020-01-07 20:34:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413T1ypcTIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413T1ypcTIL._SL200_.jpg' ]

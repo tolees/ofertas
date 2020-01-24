@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.269543464665418 % en 'MagicLux Tech 11 a 11 6 Pulgadas Funda P'
+title: 'Descuento del 31.269543464665418 % en MagicLux Tech 11 a 11 6 Pulgadas Funda P'
 date: 2019/10/31 09:33:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ky92NMGGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ky92NMGGL._SL200_.jpg' ]

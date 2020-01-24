@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Alejandra Sequin Camiseta  Bl' al 59.27272727272728 % de descuento
+title: 'Pepe Jeans Alejandra Sequin Camiseta  Bl al 59.27272727272728 % de descuento'
 date: 2019/10/14 18:34:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg' ]

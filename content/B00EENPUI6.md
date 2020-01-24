@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic ES-LV65-S803  Premium Wet & Dr' al 52.630824372759854 % de descuento
+title: 'Panasonic ES-LV65-S803  Premium Wet & Dr al 52.630824372759854 % de descuento'
 date: 2020-01-14 15:35:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AqHrhksRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AqHrhksRL._SL200_.jpg' ]

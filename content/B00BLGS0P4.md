@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.25542570951586 % en 'Beurer BC31 Tensiómetro muñeca  para la '
+title: 'Descuento del 33.25542570951586 % en Beurer BC31 Tensiómetro muñeca  para la '
 date: 2020-01-14 21:31:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511VRakWVRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511VRakWVRL._SL200_.jpg' ]

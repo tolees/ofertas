@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.67991169977924 % en 'RED WAGON Camiseta Print Niñas  Pack de '
+title: 'Descuento del 64.67991169977924 % en RED WAGON Camiseta Print Niñas  Pack de '
 date: 2019/12/19 22:08:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LH66MdIRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LH66MdIRL._SL200_.jpg' ]

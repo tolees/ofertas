@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SKEAJ|#Skechers Dynamight 2.0-fallford  ' al 35.05004549590538 % de descuento
+title: 'SKEAJ|#Skechers Dynamight 2.0-fallford   al 35.05004549590538 % de descuento'
 date: 2019/10/11 13:42:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ffcDnAcpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ffcDnAcpL._SL200_.jpg' ]

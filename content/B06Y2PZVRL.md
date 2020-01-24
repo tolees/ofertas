@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.07214428857716 % en 'Joma Olimpia Pantalones Cortos  Hombre  '
+title: 'Descuento del 36.07214428857716 % en Joma Olimpia Pantalones Cortos  Hombre  '
 date: 2019/11/10 14:21:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BFZ0xrrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BFZ0xrrBL._SL200_.jpg' ]

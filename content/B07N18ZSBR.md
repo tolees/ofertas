@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Vaqueros Straight  BLU  ' al 70.53526763381691 % de descuento
+title: 'G-STAR RAW 3301 Vaqueros Straight  BLU   al 70.53526763381691 % de descuento'
 date: 2019/10/13 17:47:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oFseirlYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oFseirlYL._SL200_.jpg' ]

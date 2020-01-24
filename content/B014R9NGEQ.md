@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.45636464702613 % en 'Reebok Cl Lthr  Zapatillas de Gimnasia p'
+title: 'Descuento del 61.45636464702613 % en Reebok Cl Lthr  Zapatillas de Gimnasia p'
 date: 2019/11/25 12:26:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4170Tuf6HmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4170Tuf6HmL._SL200_.jpg' ]

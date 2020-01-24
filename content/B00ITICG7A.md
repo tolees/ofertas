@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.8744372186093 % en 'ClarksOrinoco Club Botas para Mujer  Mar'
+title: 'Descuento del 48.8744372186093 % en ClarksOrinoco Club Botas para Mujer  Mar'
 date: 2019/11/21 18:59:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MmkhhQpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MmkhhQpjL._SL200_.jpg' ]

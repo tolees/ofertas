@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.21232696457709 % en 'Capital Sports Adjustar Banco de entrena'
+title: 'Descuento del 34.21232696457709 % en Capital Sports Adjustar Banco de entrena'
 date: 2020-01-06 22:15:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LBfmXubTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LBfmXubTL._SL200_.jpg' ]

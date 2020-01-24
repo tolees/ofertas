@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Colorful Rope Flat Sandal' al 74.37437437437437 % de descuento
+title: 'Tommy Hilfiger Colorful Rope Flat Sandal al 74.37437437437437 % de descuento'
 date: 2019/10/30 14:06:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UU8LqZBaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UU8LqZBaL._SL200_.jpg' ]

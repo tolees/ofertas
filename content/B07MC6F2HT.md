@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'cámara Oculta del Altavoz del Bluetooth ' al 25.282007896221092 % de descuento
+title: 'cámara Oculta del Altavoz del Bluetooth  al 25.282007896221092 % de descuento'
 date: 2019/12/25 12:06:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bu%2BhP2LBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bu%2BhP2LBL._SL200_.jpg' ]

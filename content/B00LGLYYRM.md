@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0 % en 'Shimano Alivio CSHG4009236 - Cassette Hg'
+title: 'Descuento del 40.0 % en Shimano Alivio CSHG4009236 - Cassette Hg'
 date: 2019/12/06 07:00:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61qXIZ638KL._SL200_.jpg' ]

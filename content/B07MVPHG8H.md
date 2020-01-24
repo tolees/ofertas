@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf F-powerskinny Pantalones  Verde ' al 42.300000000000004 % de descuento
+title: 'Naf Naf F-powerskinny Pantalones  Verde  al 42.300000000000004 % de descuento'
 date: 2019/10/07 00:06:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RyN4X3w9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RyN4X3w9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Superstar C  Zapatillas de Gimnas' al 30.05008347245409 % de descuento
+title: 'adidas Superstar C  Zapatillas de Gimnas al 30.05008347245409 % de descuento'
 date: 2019/12/27 19:36:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W68RV2ljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W68RV2ljL._SL200_.jpg' ]

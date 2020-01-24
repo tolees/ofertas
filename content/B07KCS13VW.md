@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Dogfish Bañador  Azul  Bright Blue ' al 30.03003003003003 % de descuento
+title: 'BOSS Dogfish Bañador  Azul  Bright Blue  al 30.03003003003003 % de descuento'
 date: 2020-01-17 20:25:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41moMEvcPmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41moMEvcPmL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Set de 24 tubos de pinturas acrílicas Ze' al 50.05005005005005 % de descuento
+title: 'Set de 24 tubos de pinturas acrílicas Ze al 50.05005005005005 % de descuento'
 date: 2020-01-06 18:29:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UNZ6nK7gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UNZ6nK7gL._SL200_.jpg' ]

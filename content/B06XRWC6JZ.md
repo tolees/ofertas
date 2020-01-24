@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO Cocinita "Mi Pequeño Chef" con Cara' al 50.268154805044205 % de descuento
+title: 'deAO Cocinita "Mi Pequeño Chef" con Cara al 50.268154805044205 % de descuento'
 date: 2019-12-31 18:05:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517fHt-LUeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517fHt-LUeL._SL200_.jpg' ]

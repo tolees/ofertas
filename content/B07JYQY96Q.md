@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.16363636363637 % en 'Tommy Hilfiger TJM Tommy Classics Solid '
+title: 'Descuento del 52.16363636363637 % en Tommy Hilfiger TJM Tommy Classics Solid '
 date: 2019/10/24 00:19:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JOkVVHTbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JOkVVHTbL._SL200_.jpg' ]

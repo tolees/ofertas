@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Evostripe Evoknit tee Camiseta  Hom' al 63.67959949937423 % de descuento
+title: 'PUMA Evostripe Evoknit tee Camiseta  Hom al 63.67959949937423 % de descuento'
 date: 2019/11/13 11:01:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aVmIf5sYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aVmIf5sYL._SL200_.jpg' ]

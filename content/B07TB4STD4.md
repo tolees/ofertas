@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmsimone Aw19 Hoody Short Jack' al 54.587024864246935 % de descuento
+title: 'Vero Moda Vmsimone Aw19 Hoody Short Jack al 54.587024864246935 % de descuento'
 date: 2020-01-21 21:32:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UCWOCfc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UCWOCfc3L._SL200_.jpg' ]

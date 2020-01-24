@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MEDION Ultrafino S6445 - MD61354 - Orden' al 57.00000000000001 % de descuento
+title: 'MEDION Ultrafino S6445 - MD61354 - Orden al 57.00000000000001 % de descuento'
 date: 2020-01-22 15:25:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dl8ze616L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dl8ze616L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Joggers Hombre  Negro  Black   42 '
+title: 'Descuento del 70.0 % en find. Joggers Hombre  Negro  Black   42 '
 date: 2019/10/18 01:30:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Igey5eupL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Igey5eupL._SL200_.jpg' ]

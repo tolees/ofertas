@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.31428571428572 % en 'The North Face Bounce Be Gone Nuevo Suje'
+title: 'Descuento del 67.31428571428572 % en The North Face Bounce Be Gone Nuevo Suje'
 date: 2019/11/06 22:52:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ihR1viZYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ihR1viZYL._SL200_.jpg' ]

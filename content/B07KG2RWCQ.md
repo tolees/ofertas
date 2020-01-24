@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.030015007503756 % en 'PUMA Palace Guard  Zapatillas Unisex Adu'
+title: 'Descuento del 60.030015007503756 % en PUMA Palace Guard  Zapatillas Unisex Adu'
 date: 2020-01-07 16:06:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nbh7yXYLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nbh7yXYLL._SL200_.jpg' ]

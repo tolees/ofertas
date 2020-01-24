@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.253906738342284 % en 'Tablet para Niños 7 Pulgadas WiFi Androi'
+title: 'Descuento del 31.253906738342284 % en Tablet para Niños 7 Pulgadas WiFi Androi'
 date: 2019/10/23 06:45:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TRkMGmmgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TRkMGmmgL._SL200_.jpg' ]

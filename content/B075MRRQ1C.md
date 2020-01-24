@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RED WAGON Top Manga Larga con Flecos Niñ' al 41.1855273287144 % de descuento
+title: 'RED WAGON Top Manga Larga con Flecos Niñ al 41.1855273287144 % de descuento'
 date: 2019/12/09 13:25:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TGgFUpZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TGgFUpZML._SL200_.jpg' ]

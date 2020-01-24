@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELEGIANT Auriculares Bluetooth 5.0  Mini' al 32.50812703175795 % de descuento
+title: 'ELEGIANT Auriculares Bluetooth 5.0  Mini al 32.50812703175795 % de descuento'
 date: 2020-01-16 10:06:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CLXqJzFPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CLXqJzFPL._SL200_.jpg' ]

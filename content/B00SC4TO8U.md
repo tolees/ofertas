@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Daren Pantalones  Negro  Clean Black' al 57.82101167315176 % de descuento
+title: 'Lee Daren Pantalones  Negro  Clean Black al 57.82101167315176 % de descuento'
 date: 2019/11/12 21:45:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HOEbfXZTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HOEbfXZTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.72902232486528 % en 'PUMA Axis Plus SD  Zapatillas Unisex Adu'
+title: 'Descuento del 47.72902232486528 % en PUMA Axis Plus SD  Zapatillas Unisex Adu'
 date: 2020-01-03 22:10:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Xka0riwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Xka0riwL._SL200_.jpg' ]

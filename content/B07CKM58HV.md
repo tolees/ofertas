@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS Lyra Trio - Kit de 3 sistemas de re' al 30.648387096774186 % de descuento
+title: 'ASUS Lyra Trio - Kit de 3 sistemas de re al 30.648387096774186 % de descuento'
 date: 2019/11/26 18:17:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fjDtQORcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fjDtQORcL._SL200_.jpg' ]

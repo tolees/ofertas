@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.80475594493116 % en 'Sony Xperia XZ2 Smartphone  14 5 cm  5 7'
+title: 'Descuento del 43.80475594493116 % en Sony Xperia XZ2 Smartphone  14 5 cm  5 7'
 date: 2019/10/05 16:41:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KlVDMfvbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KlVDMfvbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.15714285714286 % en 'Helly Hansen Logo Hoodie Sudadera con Ca'
+title: 'Descuento del 42.15714285714286 % en Helly Hansen Logo Hoodie Sudadera con Ca'
 date: 2019/12/27 09:10:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Qc2X4ofL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Qc2X4ofL._SL200_.jpg' ]

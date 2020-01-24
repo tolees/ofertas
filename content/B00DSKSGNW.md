@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cybex Silver Pallas-Fix 514110003 Silla ' al 43.340556759459915 % de descuento
+title: 'Cybex Silver Pallas-Fix 514110003 Silla  al 43.340556759459915 % de descuento'
 date: 2020-01-10 20:52:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yi51qg%2BmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yi51qg%2BmL._SL200_.jpg' ]

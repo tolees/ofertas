@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.62134813122246 % en 'Tommy Hilfiger Jazlyn Kick Pant Pantalon'
+title: 'Descuento del 59.62134813122246 % en Tommy Hilfiger Jazlyn Kick Pant Pantalon'
 date: 2019/12/18 08:13:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Ng1iBicL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317Ng1iBicL._SL200_.jpg' ]

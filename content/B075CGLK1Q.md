@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Essort Funda Mesa Jardin 213x123x74cm  F' al 35.00875218804702 % de descuento
+title: 'Essort Funda Mesa Jardin 213x123x74cm  F al 35.00875218804702 % de descuento'
 date: 2020-01-11 19:24:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513hP%2BRWc-L._SL200_.jpg' ]

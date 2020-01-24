@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.72051465332381 % en 'Skechers Meridian-no Worries  Zapatillas'
+title: 'Descuento del 48.72051465332381 % en Skechers Meridian-no Worries  Zapatillas'
 date: 2019/11/16 21:29:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F6eVXvkyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F6eVXvkyL._SL200_.jpg' ]

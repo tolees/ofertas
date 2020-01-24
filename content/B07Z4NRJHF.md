@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 Nuevos Auriculares Bluetooth táctil' al 72.73737373737374 % de descuento
+title: '2019 Nuevos Auriculares Bluetooth táctil al 72.73737373737374 % de descuento'
 date: 2019/11/02 17:28:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415vPkAhJCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415vPkAhJCL._SL200_.jpg' ]

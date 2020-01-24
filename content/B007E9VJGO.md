@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.75182481751825 % en 'Smiffy S 37809 Spray Sangre Con Atomizad'
+title: 'Descuento del 41.75182481751825 % en Smiffy S 37809 Spray Sangre Con Atomizad'
 date: 2020-01-16 21:16:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p-lVuv4tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p-lVuv4tL._SL200_.jpg' ]

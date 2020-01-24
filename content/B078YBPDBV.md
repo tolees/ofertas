@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Safta Saco Plano Benetton "Geometric" Of' al 30.681003584229384 % de descuento
+title: 'Safta Saco Plano Benetton "Geometric" Of al 30.681003584229384 % de descuento'
 date: 2019/10/25 14:49:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pTcBeakKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pTcBeakKL._SL200_.jpg' ]

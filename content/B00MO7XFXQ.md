@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Assassin s Creed: Rogue - Collector s Li' al 34.232715008431704 % de descuento
+title: 'Assassin s Creed: Rogue - Collector s Li al 34.232715008431704 % de descuento'
 date: 2020-01-20 19:31:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514nDZVmGLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514nDZVmGLL._SL200_.jpg' ]

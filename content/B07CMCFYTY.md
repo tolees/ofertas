@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2.5   Portable External Hard Drives 160G' al 28.342780926975664 % de descuento
+title: '2.5   Portable External Hard Drives 160G al 28.342780926975664 % de descuento'
 date: 2020-01-07 10:52:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wD4fgo5JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wD4fgo5JL._SL200_.jpg' ]

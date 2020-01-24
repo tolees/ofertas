@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.17241379310345 % en 'Kipling SUPERTABOO - Mochila escolar  15'
+title: 'Descuento del 31.17241379310345 % en Kipling SUPERTABOO - Mochila escolar  15'
 date: 2019/12/21 11:14:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SJaWgRGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SJaWgRGyL._SL200_.jpg' ]

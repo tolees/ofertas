@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'himaly Mini Bicicleta Plegable Mini Bici' al 25.006251562890736 % de descuento
+title: 'himaly Mini Bicicleta Plegable Mini Bici al 25.006251562890736 % de descuento'
 date: 2019/12/07 16:14:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-ines02JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-ines02JL._SL200_.jpg' ]

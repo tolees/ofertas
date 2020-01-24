@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Pf7845 Polo Mujer  Rojo  Rouge 2' al 41.10526315789473 % de descuento
+title: 'Lacoste Pf7845 Polo Mujer  Rojo  Rouge 2 al 41.10526315789473 % de descuento'
 date: 2019/10/05 13:59:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318Rl7epvFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318Rl7epvFL._SL200_.jpg' ]

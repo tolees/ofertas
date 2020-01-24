@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.12820512820512 % en 'AmazonBasics - Cable HDMI CL3 de alta ve'
+title: 'Descuento del 30.12820512820512 % en AmazonBasics - Cable HDMI CL3 de alta ve'
 date: 2019/11/26 10:19:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg' ]

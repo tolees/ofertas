@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant D1 Logo C-Neck Sweat Sudadera  Gris' al 56.40805829404201 % de descuento
+title: 'Gant D1 Logo C-Neck Sweat Sudadera  Gris al 56.40805829404201 % de descuento'
 date: 2019/11/12 23:10:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BaUL-lNiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BaUL-lNiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mando Inalámbrico para PS4  Wireless Blu' al 28.26701456838443 % de descuento
+title: 'Mando Inalámbrico para PS4  Wireless Blu al 28.26701456838443 % de descuento'
 date: 2020-01-14 21:29:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rtAURBStL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rtAURBStL._SL200_.jpg' ]

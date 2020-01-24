@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Clarks Triactive Run  Zapatillas para Ho'
+title: 'Descuento del 50.0 % en Clarks Triactive Run  Zapatillas para Ho'
 date: 2019/11/08 09:40:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vNS%2B3WhKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vNS%2B3WhKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc' al 50.0277932184547 % de descuento
+title: 'Lee Rider Jeans Vaqueros  Black Rinse Yc al 50.0277932184547 % de descuento'
 date: 2020-01-04 19:10:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KSZCEhtAL._SL200_.jpg' ]

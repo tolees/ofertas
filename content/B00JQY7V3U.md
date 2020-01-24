@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La Bella Durmiente [Blu-ray]' al 75.6768752774079 % de descuento
+title: 'La Bella Durmiente [Blu-ray] al 75.6768752774079 % de descuento'
 date: 2019/11/29 06:41:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B5teny11L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B5teny11L._SL200_.jpg' ]

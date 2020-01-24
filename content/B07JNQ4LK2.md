@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.64900662251656 % en 'Nike M NK ZNL AROSHLD JKT Jacket  Hombre'
+title: 'Descuento del 62.64900662251656 % en Nike M NK ZNL AROSHLD JKT Jacket  Hombre'
 date: 2020-01-20 20:39:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-IOyFCPaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko- Super Girl Figura de Vinilo  1467' al 75.53433378808549 % de descuento
+title: 'Funko- Super Girl Figura de Vinilo  1467 al 75.53433378808549 % de descuento'
 date: 2019/10/12 01:00:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-GcV5sMHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-GcV5sMHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.23346068771365 % en 'Fellowes Metal 25 - Encuadernadora manua'
+title: 'Descuento del 43.23346068771365 % en Fellowes Metal 25 - Encuadernadora manua'
 date: 2019/11/09 21:44:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TbsaOqN1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TbsaOqN1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shunga Aceites Cremas De Masaje - 1 unid' al 40.04 % de descuento
+title: 'Shunga Aceites Cremas De Masaje - 1 unid al 40.04 % de descuento'
 date: 2019/10/09 18:19:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Tv6QdkPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Tv6QdkPL._SL200_.jpg' ]

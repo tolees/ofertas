@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MaGeek® [Pack de 5] 0 3m Cables Micro US' al 33.355570380253496 % de descuento
+title: 'MaGeek® [Pack de 5] 0 3m Cables Micro US al 33.355570380253496 % de descuento'
 date: 2019/12/06 15:31:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ywND1ExPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ywND1ExPL._SL200_.jpg' ]

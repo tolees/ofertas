@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amplificador WiFi Repetidor Extensor de ' al 45.958367126250344 % de descuento
+title: 'Amplificador WiFi Repetidor Extensor de  al 45.958367126250344 % de descuento'
 date: 2020-01-12 12:04:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41enVlXIJCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41enVlXIJCL._SL200_.jpg' ]

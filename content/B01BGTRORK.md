@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star Raw  Midge Saddle Mid Bootleg  - ' al 62.23111555777889 % de descuento
+title: 'G-Star Raw  Midge Saddle Mid Bootleg  -  al 62.23111555777889 % de descuento'
 date: 2019/11/17 06:47:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg' ]

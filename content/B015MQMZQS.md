@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moulinex Accesorios XF383110 - Accesorio' al 39.1039103910391 % de descuento
+title: 'Moulinex Accesorios XF383110 - Accesorio al 39.1039103910391 % de descuento'
 date: 2019/10/26 04:51:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V5E9LKO8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V5E9LKO8L._SL200_.jpg' ]

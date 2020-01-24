@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Men s Gel-Cumulus 20 Running Shoes' al 53.16159250585479 % de descuento
+title: 'Asics Men s Gel-Cumulus 20 Running Shoes al 53.16159250585479 % de descuento'
 date: 2019/10/09 06:24:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ofZEOCAzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ofZEOCAzL._SL200_.jpg' ]

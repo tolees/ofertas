@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L.O.L. Surprise! Girls Secret Diary Sequ' al 31.51969981238274 % de descuento
+title: 'L.O.L. Surprise! Girls Secret Diary Sequ al 31.51969981238274 % de descuento'
 date: 2020-01-24 09:34:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/513idFgf-9L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513idFgf-9L._AC_._SL200_.jpg' ]

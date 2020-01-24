@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.995499549955 % en 'Vans Sk8-hi  Zapatillas Altas para Mujer'
+title: 'Descuento del 54.995499549955 % en Vans Sk8-hi  Zapatillas Altas para Mujer'
 date: 2019/11/15 17:38:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NqwUdi5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NqwUdi5nL._SL200_.jpg' ]

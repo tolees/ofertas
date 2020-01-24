@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.7381974248927 % en 'B-KARO 3n26086 Short Bañador  Blanco  Wh'
+title: 'Descuento del 76.7381974248927 % en B-KARO 3n26086 Short Bañador  Blanco  Wh'
 date: 2019/10/12 00:33:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vn3e9IMbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vn3e9IMbL._SL200_.jpg' ]

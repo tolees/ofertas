@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skagen Smartwatch SKT1306' al 40.0 % de descuento
+title: 'Skagen Smartwatch SKT1306 al 40.0 % de descuento'
 date: 2019/12/12 21:43:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3195KXx9oHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3195KXx9oHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Stretch Oxford-Solid Shirt Blusa  R' al 36.548505389487715 % de descuento
+title: 'Gant Stretch Oxford-Solid Shirt Blusa  R al 36.548505389487715 % de descuento'
 date: 2020-01-12 02:33:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41533N0bNOL._SL200_.jpg' ]

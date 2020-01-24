@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hamaca portátil y ultraligera de nailon ' al 58.40867992766727 % de descuento
+title: 'Hamaca portátil y ultraligera de nailon  al 58.40867992766727 % de descuento'
 date: 2019/12/06 20:53:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Er9qiC6FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Er9qiC6FL._SL200_.jpg' ]

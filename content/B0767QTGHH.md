@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Sozy D  Sandalias con Punta Abier' al 71.6145181476846 % de descuento
+title: 'Geox D Sozy D  Sandalias con Punta Abier al 71.6145181476846 % de descuento'
 date: 2019/11/09 10:59:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-2r%2B57iwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-2r%2B57iwL._SL200_.jpg' ]

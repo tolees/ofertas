@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Daily HR1607/00 - Batidora de Ma' al 47.81474233529028 % de descuento
+title: 'Philips Daily HR1607/00 - Batidora de Ma al 47.81474233529028 % de descuento'
 date: 2019/10/09 06:10:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312A-8wHBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312A-8wHBWL._SL200_.jpg' ]

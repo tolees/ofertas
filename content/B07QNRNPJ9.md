@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.046189376443415 % en 'Red Bull Toro Rosso Official Teamline Ca'
+title: 'Descuento del 60.046189376443415 % en Red Bull Toro Rosso Official Teamline Ca'
 date: 2019/11/29 16:19:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xWucFSVIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xWucFSVIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'J.Rosée Collares Mujer Colgante Plata de' al 80.06800680068007 % de descuento
+title: 'J.Rosée Collares Mujer Colgante Plata de al 80.06800680068007 % de descuento'
 date: 2020-01-22 13:36:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BwghFIToL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BwghFIToL._SL200_.jpg' ]

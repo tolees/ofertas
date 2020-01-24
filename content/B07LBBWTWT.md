@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.57971014492755 % en 'Napapijri Nakuro 2 Pantalones Cortos Bla'
+title: 'Descuento del 71.57971014492755 % en Napapijri Nakuro 2 Pantalones Cortos Bla'
 date: 2019/11/18 18:21:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D-aMo-8rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D-aMo-8rL._SL200_.jpg' ]

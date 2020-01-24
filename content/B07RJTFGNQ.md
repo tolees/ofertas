@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Stan Smith  Zapatillas para Hombr' al 45.072536268134066 % de descuento
+title: 'adidas Stan Smith  Zapatillas para Hombr al 45.072536268134066 % de descuento'
 date: 2019/11/01 22:42:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T682vPeJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T682vPeJL._SL200_.jpg' ]

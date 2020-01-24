@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Hugo BOSS - Hombre 1513185' al 45.769230769230774 % de descuento
+title: 'Reloj Hugo BOSS - Hombre 1513185 al 45.769230769230774 % de descuento'
 date: 2019/11/21 07:39:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rpMlq86XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rpMlq86XL._SL200_.jpg' ]

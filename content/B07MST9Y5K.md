@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Kraken - Auriculares de gaming con' al 25.00312539067383 % de descuento
+title: 'Razer Kraken - Auriculares de gaming con al 25.00312539067383 % de descuento'
 date: 2019/12/05 18:39:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312XDM%2BHmUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312XDM%2BHmUL._SL200_.jpg' ]

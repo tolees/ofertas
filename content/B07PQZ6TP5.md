@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 82.79770636084811 % en 'RIP CURL Global Entry Evolution Bermuda '
+title: 'Descuento del 82.79770636084811 % en RIP CURL Global Entry Evolution Bermuda '
 date: 2019/10/14 11:33:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aTB0YqujL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aTB0YqujL._SL200_.jpg' ]

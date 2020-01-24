@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dr. Martens 1461 Smooth  Derby para Homb' al 49.69465648854962 % de descuento
+title: 'Dr. Martens 1461 Smooth  Derby para Homb al 49.69465648854962 % de descuento'
 date: 2019/12/11 15:33:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sz4cMH%2BxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sz4cMH%2BxL._SL200_.jpg' ]

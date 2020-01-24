@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etekcity EB4410B Báscula de Baño Digital' al 25.010004001600638 % de descuento
+title: 'Etekcity EB4410B Báscula de Baño Digital al 25.010004001600638 % de descuento'
 date: 2019/11/30 11:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kkBgnP5LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kkBgnP5LL._SL200_.jpg' ]

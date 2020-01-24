@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KRAFTWERK 4045-37pzs. 1/4+3/8 pulgada' al 42.83165148904751 % de descuento
+title: 'KRAFTWERK 4045-37pzs. 1/4+3/8 pulgada al 42.83165148904751 % de descuento'
 date: 2019/10/07 06:46:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u8pifnjIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51u8pifnjIL._SL200_.jpg' ]

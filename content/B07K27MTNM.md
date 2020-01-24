@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP M118dw LaserJet Pro Impresora Láser  ' al 26.66666666666667 % de descuento
+title: 'HP M118dw LaserJet Pro Impresora Láser   al 26.66666666666667 % de descuento'
 date: 2019/12/27 13:58:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314V4tbpAYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314V4tbpAYL._SL200_.jpg' ]

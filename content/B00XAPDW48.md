@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.18181818181817 % en 'Haribo - Flautas Nata-Fresa - Geles Dulc'
+title: 'Descuento del 38.18181818181817 % en Haribo - Flautas Nata-Fresa - Geles Dulc'
 date: 2019/12/07 17:22:25 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B00XAPDW48.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B00XAPDW48.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.76923076923077 % en 'Easy-Macro - Macro + 4 - Objetivo Macro '
+title: 'Descuento del 30.76923076923077 % en Easy-Macro - Macro + 4 - Objetivo Macro '
 date: 2020-01-21 04:48:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IYZyrzXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IYZyrzXcL._SL200_.jpg' ]

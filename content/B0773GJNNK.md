@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma TSUGI Apex  Zapatillas Unisex Adult' al 69.17458729364682 % de descuento
+title: 'Puma TSUGI Apex  Zapatillas Unisex Adult al 69.17458729364682 % de descuento'
 date: 2019/10/31 13:31:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p2Of52U5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p2Of52U5L._SL200_.jpg' ]

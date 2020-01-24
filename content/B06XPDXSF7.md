@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Vaqueros Ajustados para Hombre  Az' al 70.0 % de descuento
+title: 'find. Vaqueros Ajustados para Hombre  Az al 70.0 % de descuento'
 date: 2020-01-08 20:49:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X6SXL0zOL._SL200_.jpg' ]

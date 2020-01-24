@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sans Complexe Coton D ARUM Sujetador sin' al 36.69565217391304 % de descuento
+title: 'Sans Complexe Coton D ARUM Sujetador sin al 36.69565217391304 % de descuento'
 date: 2020-01-01 18:25:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FYNrMmoCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FYNrMmoCL._SL200_.jpg' ]

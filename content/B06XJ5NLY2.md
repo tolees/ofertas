@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crucial Ballistix Sport LT BLS4K8G4D26BF' al 27.54943502824858 % de descuento
+title: 'Crucial Ballistix Sport LT BLS4K8G4D26BF al 27.54943502824858 % de descuento'
 date: 2020-01-05 09:57:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bPPbZrkGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bPPbZrkGL._SL200_.jpg' ]

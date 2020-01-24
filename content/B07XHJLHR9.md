@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VEIERSIA Calentador de Mano Recargable P' al 33.34444814938313 % de descuento
+title: 'VEIERSIA Calentador de Mano Recargable P al 33.34444814938313 % de descuento'
 date: 2020-01-15 09:17:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wUKKLm6kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wUKKLm6kL._SL200_.jpg' ]

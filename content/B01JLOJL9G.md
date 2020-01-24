@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Scuderia Ferrari para Hombre 08303' al 45.128205128205124 % de descuento
+title: 'Reloj Scuderia Ferrari para Hombre 08303 al 45.128205128205124 % de descuento'
 date: 2019/12/14 22:33:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41muJ57%2BbgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41muJ57%2BbgL._SL200_.jpg' ]

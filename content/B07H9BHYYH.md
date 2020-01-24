@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Par de vibratoren | Partner de vibración' al 36.86150605581885 % de descuento
+title: 'Par de vibratoren | Partner de vibración al 36.86150605581885 % de descuento'
 date: 2019/10/22 19:15:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I%2BFh-aC-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I%2BFh-aC-L._SL200_.jpg' ]

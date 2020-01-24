@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Duracell - Plus AA  Pilas Alcalinas  paq' al 54.38356164383562 % de descuento
+title: 'Duracell - Plus AA  Pilas Alcalinas  paq al 54.38356164383562 % de descuento'
 date: 2019/11/27 10:32:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516iqfO4QvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516iqfO4QvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips HD4646/20 - Calentador de agua  ' al 40.00889086463659 % de descuento
+title: 'Philips HD4646/20 - Calentador de agua   al 40.00889086463659 % de descuento'
 date: 2019/11/15 18:13:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4127dVaGKuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4127dVaGKuL._SL200_.jpg' ]

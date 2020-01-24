@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AURIQUE Colour Block Mallas de entrenami' al 30.000000000000004 % de descuento
+title: 'AURIQUE Colour Block Mallas de entrenami al 30.000000000000004 % de descuento'
 date: 2019/11/19 20:04:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i2nej7x3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i2nej7x3L._SL200_.jpg' ]

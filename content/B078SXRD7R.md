@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Trailster Zapatillas de trail ru' al 30.015007503751878 % de descuento
+title: 'Salomon Trailster Zapatillas de trail ru al 30.015007503751878 % de descuento'
 date: 2019/11/16 09:12:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X5-JvcVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X5-JvcVkL._SL200_.jpg' ]

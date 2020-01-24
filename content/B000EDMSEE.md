@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor All Star Season Ox' al 48.73553364766394 % de descuento
+title: 'Converse Chuck Taylor All Star Season Ox al 48.73553364766394 % de descuento'
 date: 2020-01-20 21:20:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xUTF9UxhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xUTF9UxhL._SL200_.jpg' ]

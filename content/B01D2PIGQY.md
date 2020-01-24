@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG CineBeam PH550G - Proyector con bater' al 48.60434056761268 % de descuento
+title: 'LG CineBeam PH550G - Proyector con bater al 48.60434056761268 % de descuento'
 date: 2019/10/15 15:37:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31idZB-pNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31idZB-pNaL._SL200_.jpg' ]

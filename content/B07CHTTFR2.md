@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s SS Original Hm tee Camiseta  Negr' al 32.2 % de descuento
+title: 'Levi s SS Original Hm tee Camiseta  Negr al 32.2 % de descuento'
 date: 2019/10/23 14:02:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DImC2hTAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DImC2hTAL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ha Nacido Una Estrella  Blu-Ray Uhd [Blu' al 48.019207683073226 % de descuento
+title: 'Ha Nacido Una Estrella  Blu-Ray Uhd [Blu al 48.019207683073226 % de descuento'
 date: 2019/11/26 22:05:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EtzDokqCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EtzDokqCL._SL200_.jpg' ]

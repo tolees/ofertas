@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Twins 1 701 15  Camiseta Para Bebés  Mul' al 35.91433278418451 % de descuento
+title: 'Twins 1 701 15  Camiseta Para Bebés  Mul al 35.91433278418451 % de descuento'
 date: 2019/10/08 22:43:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UkeQ4ypGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UkeQ4ypGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Speedpocket Run Crop Leg' al 28.000000000000004 % de descuento
+title: 'Under Armour UA Speedpocket Run Crop Leg al 28.000000000000004 % de descuento'
 date: 2019/12/05 07:52:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fwHbwNEJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fwHbwNEJL._SL200_.jpg' ]

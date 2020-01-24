@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bellota 3624 INOX-CE MB - TIJERA RECOLEC' al 35.54939981532779 % de descuento
+title: 'Bellota 3624 INOX-CE MB - TIJERA RECOLEC al 35.54939981532779 % de descuento'
 date: 2019/10/19 11:06:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-GCYnnS8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-GCYnnS8L._SL200_.jpg' ]

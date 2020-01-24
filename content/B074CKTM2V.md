@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CamelBak Lobo Mochila de Hidratación  Ho' al 48.03418803418803 % de descuento
+title: 'CamelBak Lobo Mochila de Hidratación  Ho al 48.03418803418803 % de descuento'
 date: 2019/12/12 14:37:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PCb3K52NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PCb3K52NL._SL200_.jpg' ]

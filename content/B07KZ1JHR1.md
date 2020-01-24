@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.977325775258425 % en 'Springfield 490 Track Rib  Jersey para H'
+title: 'Descuento del 31.977325775258425 % en Springfield 490 Track Rib  Jersey para H'
 date: 2019/10/21 09:46:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dp8x-rUHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dp8x-rUHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.95095095095095 % en 'Tommy Hilfiger Nubuck Flatform Sneaker  '
+title: 'Descuento del 50.95095095095095 % en Tommy Hilfiger Nubuck Flatform Sneaker  '
 date: 2019/10/27 05:29:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41epMazgmHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41epMazgmHL._SL200_.jpg' ]

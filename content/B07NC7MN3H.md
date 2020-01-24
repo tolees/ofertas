@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Stanley Vaqueros Straight  Az' al 33.34343434343435 % de descuento
+title: 'Pepe Jeans Stanley Vaqueros Straight  Az al 33.34343434343435 % de descuento'
 date: 2020-01-01 16:05:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q1An6Oy8L._SL200_.jpg' ]

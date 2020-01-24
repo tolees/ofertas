@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Goliathus - Suave Alfombrilla de R' al 36.01440576230491 % de descuento
+title: 'Razer Goliathus - Suave Alfombrilla de R al 36.01440576230491 % de descuento'
 date: 2019/10/20 18:54:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ikybg-I8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ikybg-I8L._SL200_.jpg' ]

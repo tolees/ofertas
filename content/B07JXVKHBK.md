@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAM. DMX195BKCorrea Cerámica Iwatch 38Mm' al 56.536231884057976 % de descuento
+title: 'DAM. DMX195BKCorrea Cerámica Iwatch 38Mm al 56.536231884057976 % de descuento'
 date: 2020-01-10 09:21:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uCA-KUwLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uCA-KUwLL._SL200_.jpg' ]

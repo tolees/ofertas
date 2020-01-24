@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.000000000000004 % en 'New Balance 574v2 Core Lace  Modelo PC57'
+title: 'Descuento del 30.000000000000004 % en New Balance 574v2 Core Lace  Modelo PC57'
 date: 2019/10/24 15:52:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QorfoFQVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QorfoFQVL._SL200_.jpg' ]

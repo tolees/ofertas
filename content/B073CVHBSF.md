@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.736919136480054 % en 'Oral-B PRO 2 2500 CrossAction - Cepillo '
+title: 'Descuento del 42.736919136480054 % en Oral-B PRO 2 2500 CrossAction - Cepillo '
 date: 2020-01-22 17:05:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T4vDV5sML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T4vDV5sML._SL200_.jpg' ]

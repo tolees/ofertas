@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Walbeck Edge II  Zapatos de Cordo' al 55.03057254030017 % de descuento
+title: 'Clarks Walbeck Edge II  Zapatos de Cordo al 55.03057254030017 % de descuento'
 date: 2019/11/25 17:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MBFd5GyrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MBFd5GyrL._SL200_.jpg' ]

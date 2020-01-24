@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Bash  Zapatillas Unisex Adulto  Ne' al 51.08886107634544 % de descuento
+title: 'Kappa Bash  Zapatillas Unisex Adulto  Ne al 51.08886107634544 % de descuento'
 date: 2019/10/31 08:41:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RRhOv3cHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RRhOv3cHL._SL200_.jpg' ]

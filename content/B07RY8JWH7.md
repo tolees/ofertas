@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for Friends He' al 35.00875218804702 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for Friends He al 35.00875218804702 % de descuento'
 date: 2019/12/24 00:30:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vfCRHoUgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vfCRHoUgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avengers - Disfraz de Thor oficial Infin' al 74.79159719906636 % de descuento
+title: 'Avengers - Disfraz de Thor oficial Infin al 74.79159719906636 % de descuento'
 date: 2020-01-24 09:10:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L9fymMncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L9fymMncL._SL200_.jpg' ]

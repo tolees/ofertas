@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Girls Fine Stripe Top Slv' al 78.81763527054109 % de descuento
+title: 'Tommy Hilfiger Girls Fine Stripe Top Slv al 78.81763527054109 % de descuento'
 date: 2019/10/23 06:44:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Zv0OsbSDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Zv0OsbSDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Far Cry 5 - Standard Edition | Código Up' al 74.99583263877312 % de descuento
+title: 'Far Cry 5 - Standard Edition | Código Up al 74.99583263877312 % de descuento'
 date: 2020-01-23 10:32:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZVLC6ch3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZVLC6ch3L._SL200_.jpg' ]

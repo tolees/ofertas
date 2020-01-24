@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.02657747242814 % en 'PUMA Insurge Mesh 2.0  Zapatillas Unisex'
+title: 'Descuento del 63.02657747242814 % en PUMA Insurge Mesh 2.0  Zapatillas Unisex'
 date: 2020-01-16 14:07:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n1B4QDK1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n1B4QDK1L._SL200_.jpg' ]

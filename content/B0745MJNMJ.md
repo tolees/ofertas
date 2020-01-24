@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmsami LS Highneck Blouse Boo ' al 56.58552850950317 % de descuento
+title: 'Vero Moda Vmsami LS Highneck Blouse Boo  al 56.58552850950317 % de descuento'
 date: 2019/12/18 09:40:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TdZ1-VJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TdZ1-VJ3L._SL200_.jpg' ]

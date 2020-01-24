@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exquisite Gaming MMFTMR300024 Meta Merch' al 38.84353741496598 % de descuento
+title: 'Exquisite Gaming MMFTMR300024 Meta Merch al 38.84353741496598 % de descuento'
 date: 2019/12/08 20:55:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tlzvd43hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tlzvd43hL._SL200_.jpg' ]

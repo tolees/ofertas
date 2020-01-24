@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.73393348337085 % en 'Kappa Trust 241981-1110  Zapatillas para'
+title: 'Descuento del 35.73393348337085 % en Kappa Trust 241981-1110  Zapatillas para'
 date: 2019/11/15 08:55:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg' ]

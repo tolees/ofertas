@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LNMBBS 4G Tablet de 10.1 HD IPS - Androi' al 51.82289299027184 % de descuento
+title: 'LNMBBS 4G Tablet de 10.1 HD IPS - Androi al 51.82289299027184 % de descuento'
 date: 2019/10/13 12:35:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513nCXN-lRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513nCXN-lRL._SL200_.jpg' ]

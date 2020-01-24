@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 92.58517034068137 % en 'Falomir Mikado  Juego de Mesa  Clásicos '
+title: 'Descuento del 92.58517034068137 % en Falomir Mikado  Juego de Mesa  Clásicos '
 date: 2019/12/13 19:27:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sXcR0%2B7nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sXcR0%2B7nL._SL200_.jpg' ]

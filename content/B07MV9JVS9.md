@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferilinso Cristal Templado para Xiaomi M' al 61.0813443740867 % de descuento
+title: 'Ferilinso Cristal Templado para Xiaomi M al 61.0813443740867 % de descuento'
 date: 2019/10/23 21:58:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XlgHpfpDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XlgHpfpDL._SL200_.jpg' ]

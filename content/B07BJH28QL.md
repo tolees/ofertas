@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW D-STAQ 5-Pocket Skinny Vaquer' al 52.47402847248941 % de descuento
+title: 'G-STAR RAW D-STAQ 5-Pocket Skinny Vaquer al 52.47402847248941 % de descuento'
 date: 2019/12/08 02:40:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j2OSlVJhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j2OSlVJhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Phantom 1/2 Zip 2.0 Ligera ' al 48.9 % de descuento
+title: 'Helly Hansen Phantom 1/2 Zip 2.0 Ligera  al 48.9 % de descuento'
 date: 2020-01-15 23:06:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cSbu0TkyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cSbu0TkyL._SL200_.jpg' ]

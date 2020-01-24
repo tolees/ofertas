@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO Cocinita de Juguete Playset Taburet' al 67.11129637348895 % de descuento
+title: 'deAO Cocinita de Juguete Playset Taburet al 67.11129637348895 % de descuento'
 date: 2020-01-10 11:07:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DQaCYjNWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DQaCYjNWL._SL200_.jpg' ]

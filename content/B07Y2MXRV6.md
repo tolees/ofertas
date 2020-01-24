@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gardenwed Vestido de Cóctel Vintage para' al 43.6442989634479 % de descuento
+title: 'Gardenwed Vestido de Cóctel Vintage para al 43.6442989634479 % de descuento'
 date: 2019/11/08 14:04:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P3wPfLUsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P3wPfLUsL._SL200_.jpg' ]

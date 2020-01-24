@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.46153846153847 % en 'Under Armour UA Athlete SS Camiseta de M'
+title: 'Descuento del 51.46153846153847 % en Under Armour UA Athlete SS Camiseta de M'
 date: 2019/10/30 16:30:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ner2gM6fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ner2gM6fL._SL200_.jpg' ]

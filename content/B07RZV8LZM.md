@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS Zenbook 13 UX392FA  90NB0KY1-M00610' al 57.971981320880595 % de descuento
+title: 'ASUS Zenbook 13 UX392FA  90NB0KY1-M00610 al 57.971981320880595 % de descuento'
 date: 2019/12/11 19:58:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cv7q3n68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cv7q3n68L._SL200_.jpg' ]

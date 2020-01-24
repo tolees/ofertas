@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.40788045746723 % en 'Grohe  27473001 Euphoria 260 - Sistema d'
+title: 'Descuento del 46.40788045746723 % en Grohe  27473001 Euphoria 260 - Sistema d'
 date: 2020-01-14 15:19:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21hETxb9dDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21hETxb9dDL._SL200_.jpg' ]

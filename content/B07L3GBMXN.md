@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.1062801932367 % en 'Tommy Hilfiger Flexible Dressy Suede Loa'
+title: 'Descuento del 74.1062801932367 % en Tommy Hilfiger Flexible Dressy Suede Loa'
 date: 2019/12/19 10:40:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BVRhPkBNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BVRhPkBNL._SL200_.jpg' ]

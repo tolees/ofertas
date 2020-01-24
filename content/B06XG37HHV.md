@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.930283224400874 % en 'Ellesse TS Prado Grey Größe: XS Farbe: G'
+title: 'Descuento del 47.930283224400874 % en Ellesse TS Prado Grey Größe: XS Farbe: G'
 date: 2019/10/18 08:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IiByHX2yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IiByHX2yL._SL200_.jpg' ]

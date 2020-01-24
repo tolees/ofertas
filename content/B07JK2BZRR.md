@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.6394770221485 % en 'Cronicas Vampíricas Temporada 1-8  Serie'
+title: 'Descuento del 54.6394770221485 % en Cronicas Vampíricas Temporada 1-8  Serie'
 date: 2019/11/27 07:41:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51szEobrHPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51szEobrHPL._SL200_.jpg' ]

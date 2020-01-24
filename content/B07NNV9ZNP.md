@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Colágeno + Ácido Hialurónico + Coenzima ' al 40.133779264214056 % de descuento
+title: 'Colágeno + Ácido Hialurónico + Coenzima  al 40.133779264214056 % de descuento'
 date: 2020-01-24 16:06:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41V4wg6DFJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41V4wg6DFJL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brother DCP-L2510D A4 Mono Laser Printer' al 45.744186046511636 % de descuento
+title: 'Brother DCP-L2510D A4 Mono Laser Printer al 45.744186046511636 % de descuento'
 date: 2020-01-02 11:44:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jt3PKtfeL._SL200_.jpg' ]

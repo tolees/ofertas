@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein S/s Curve Neck Top de Pijam' al 41.628571428571426 % de descuento
+title: 'Calvin Klein S/s Curve Neck Top de Pijam al 41.628571428571426 % de descuento'
 date: 2019/11/09 11:06:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wzbajvtfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wzbajvtfL._SL200_.jpg' ]

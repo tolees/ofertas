@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blend Jersey Gris 2XL' al 46.26221966647498 % de descuento
+title: 'Blend Jersey Gris 2XL al 46.26221966647498 % de descuento'
 date: 2019/10/05 16:58:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41udJAKgQ8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41udJAKgQ8L._SL200_.jpg' ]

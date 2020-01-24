@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asus VP228DE - Monitor 21.5" Full HD  19' al 33.67952522255193 % de descuento
+title: 'Asus VP228DE - Monitor 21.5" Full HD  19 al 33.67952522255193 % de descuento'
 date: 2019/10/09 16:20:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vFSQRLB0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vFSQRLB0L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spalding Mid Cut Calcetines  3 Pares  Si' al 33.355570380253496 % de descuento
+title: 'Spalding Mid Cut Calcetines  3 Pares  Si al 33.355570380253496 % de descuento'
 date: 2019/12/30 10:49:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B418ym8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B418ym8UL._SL200_.jpg' ]

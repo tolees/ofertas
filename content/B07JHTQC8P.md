@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Camisa regular de li' al 49.712643678160916 % de descuento
+title: 'Amazon Essentials - Camisa regular de li al 49.712643678160916 % de descuento'
 date: 2019/10/28 15:49:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u3b5pe40L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u3b5pe40L._SL200_.jpg' ]

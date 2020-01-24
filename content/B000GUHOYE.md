@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celestron 11036 NexStar 5 SE Computerise' al 41.94194194194194 % de descuento
+title: 'Celestron 11036 NexStar 5 SE Computerise al 41.94194194194194 % de descuento'
 date: 2020-01-21 04:18:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EDuXq2KEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EDuXq2KEL._SL200_.jpg' ]

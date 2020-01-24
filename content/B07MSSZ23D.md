@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones NOS JJESLUB Knit Crew Neck ' al 49.983327775925304 % de descuento
+title: 'Jack & Jones NOS JJESLUB Knit Crew Neck  al 49.983327775925304 % de descuento'
 date: 2019/10/30 10:16:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-5hIaAzKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-5hIaAzKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOXEUR DES RUES BXT-1338 Pantalón Corto ' al 61.036789297658856 % de descuento
+title: 'BOXEUR DES RUES BXT-1338 Pantalón Corto  al 61.036789297658856 % de descuento'
 date: 2019/11/05 08:11:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417rnz3xjqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417rnz3xjqL._SL200_.jpg' ]

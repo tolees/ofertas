@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NOX Falda Pro Azul con Logo Verde  XS ' al 39.6551724137931 % de descuento
+title: 'NOX Falda Pro Azul con Logo Verde  XS  al 39.6551724137931 % de descuento'
 date: 2019/12/06 20:44:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n5OjKsauL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n5OjKsauL._SL200_.jpg' ]

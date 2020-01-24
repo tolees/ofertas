@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech M330 Silent Plus Ratón Inalámbr' al 54.33734939759036 % de descuento
+title: 'Logitech M330 Silent Plus Ratón Inalámbr al 54.33734939759036 % de descuento'
 date: 2020-01-21 16:44:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iEF8PkyTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iEF8PkyTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Masters 119 2 SMA  Zapatillas pa' al 48.646464646464636 % de descuento
+title: 'Lacoste Masters 119 2 SMA  Zapatillas pa al 48.646464646464636 % de descuento'
 date: 2019/11/14 07:50:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nW9EAyZzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nW9EAyZzL._SL200_.jpg' ]

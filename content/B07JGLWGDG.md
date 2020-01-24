@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Energy Smart Speaker 5 Altavoz Inteligen' al 34.28428428428428 % de descuento
+title: 'Energy Smart Speaker 5 Altavoz Inteligen al 34.28428428428428 % de descuento'
 date: 2020-01-10 18:25:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V3SyIwbVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V3SyIwbVL._SL200_.jpg' ]

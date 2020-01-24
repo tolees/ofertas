@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J INEK Boy E  Zapatillas Altas para' al 48.6409155937053 % de descuento
+title: 'Geox J INEK Boy E  Zapatillas Altas para al 48.6409155937053 % de descuento'
 date: 2019/11/08 16:53:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jG5DryB0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jG5DryB0L._SL200_.jpg' ]

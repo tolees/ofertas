@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.54237288135593 % en 'Gliss - Spray Acondicionador Express Ult'
+title: 'Descuento del 32.54237288135593 % en Gliss - Spray Acondicionador Express Ult'
 date: 2020-01-11 16:03:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iXqpUgM1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iXqpUgM1L._SL200_.jpg' ]

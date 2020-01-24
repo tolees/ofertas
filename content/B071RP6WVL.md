@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung C24FG73FQU LED 24" Full HD LED N' al 33.44481605351171 % de descuento
+title: 'Samsung C24FG73FQU LED 24" Full HD LED N al 33.44481605351171 % de descuento'
 date: 2020-01-23 13:49:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417X6-2YirL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417X6-2YirL._SL200_.jpg' ]

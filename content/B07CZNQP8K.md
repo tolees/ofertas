@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'APEX Construct' al 39.979993331110364 % de descuento
+title: 'APEX Construct al 39.979993331110364 % de descuento'
 date: 2019/12/31 12:15:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VzVl2MfYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VzVl2MfYL._SL200_.jpg' ]

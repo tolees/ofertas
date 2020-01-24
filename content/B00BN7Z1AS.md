@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.45229681978799 % en 'Courreges Empreinte - Agua de perfume  5'
+title: 'Descuento del 48.45229681978799 % en Courreges Empreinte - Agua de perfume  5'
 date: 2019/10/26 12:07:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cCBPKAhOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cCBPKAhOL._SL200_.jpg' ]

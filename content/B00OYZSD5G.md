@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creative Sound Blaster Tactic3D Rage v2.' al 50.00500050005 % de descuento
+title: 'Creative Sound Blaster Tactic3D Rage v2. al 50.00500050005 % de descuento'
 date: 2019/10/07 10:40:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XTrwSpiFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XTrwSpiFL._SL200_.jpg' ]

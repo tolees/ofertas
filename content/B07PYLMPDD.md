@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple MVFU2ZM/A Funda para teléfono móvi' al 40.16107382550336 % de descuento
+title: 'Apple MVFU2ZM/A Funda para teléfono móvi al 40.16107382550336 % de descuento'
 date: 2020-01-24 11:10:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xSwlBh-ML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xSwlBh-ML._AC_._SL200_.jpg' ]

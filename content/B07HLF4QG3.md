@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials Crew Neck Sweatshirt n' al 25.0 % de descuento
+title: 'Amazon Essentials Crew Neck Sweatshirt n al 25.0 % de descuento'
 date: 2019/11/03 11:17:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QPI-esY8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QPI-esY8L._SL200_.jpg' ]

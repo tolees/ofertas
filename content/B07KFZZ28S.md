@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Leader VT Mesh  Zapatillas de Runni' al 38.198498748957476 % de descuento
+title: 'PUMA Leader VT Mesh  Zapatillas de Runni al 38.198498748957476 % de descuento'
 date: 2019/11/09 20:21:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RnWFUUuLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RnWFUUuLL._SL200_.jpg' ]

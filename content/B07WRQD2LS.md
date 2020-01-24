@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.34778259419807 % en 'Martiount Camisetas de Manga Larga para '
+title: 'Descuento del 43.34778259419807 % en Martiount Camisetas de Manga Larga para '
 date: 2019/10/08 00:13:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a3klOKPKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a3klOKPKL._SL200_.jpg' ]

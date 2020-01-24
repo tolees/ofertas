@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.667333666833414 % en 'Clarks Gilman Walk  Zapatos de Cordones '
+title: 'Descuento del 54.667333666833414 % en Clarks Gilman Walk  Zapatos de Cordones '
 date: 2019/11/09 16:47:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h017DsUTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h017DsUTL._SL200_.jpg' ]

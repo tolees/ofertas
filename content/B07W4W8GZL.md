@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK JONES Jorexplore Parka Jacket STS H' al 50.00625078134766 % de descuento
+title: 'JACK JONES Jorexplore Parka Jacket STS H al 50.00625078134766 % de descuento'
 date: 2020-01-09 15:35:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419bijCsYFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419bijCsYFL._SL200_.jpg' ]

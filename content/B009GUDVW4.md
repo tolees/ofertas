@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.678834854356786 % en 'Panasonic EW1211W845 Irrigador Bucal Elé'
+title: 'Descuento del 30.678834854356786 % en Panasonic EW1211W845 Irrigador Bucal Elé'
 date: 2019/10/12 07:52:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21p4vNbWiLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21p4vNbWiLL._SL200_.jpg' ]

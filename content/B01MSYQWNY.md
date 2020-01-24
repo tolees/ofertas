@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.05035971223022 % en 'JBL Flip 4 Bluetooth Box in Schwarz  Was'
+title: 'Descuento del 46.05035971223022 % en JBL Flip 4 Bluetooth Box in Schwarz  Was'
 date: 2019/10/25 00:25:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lxIdQlg%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lxIdQlg%2BL._SL200_.jpg' ]

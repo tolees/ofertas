@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 80.12801280128012 % en 'Pedientes Mujer  ZHULERY Plata de Ley 92'
+title: 'Descuento del 80.12801280128012 % en Pedientes Mujer  ZHULERY Plata de Ley 92'
 date: 2019/11/18 11:13:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511EMTwnJQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511EMTwnJQL._SL200_.jpg' ]

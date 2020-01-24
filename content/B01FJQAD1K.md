@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Urban Classics Ladies Satin Bomber Jacke' al 42.32905982905984 % de descuento
+title: 'Urban Classics Ladies Satin Bomber Jacke al 42.32905982905984 % de descuento'
 date: 2020-01-21 15:09:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412ZidZ0ALL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412ZidZ0ALL._SL200_.jpg' ]

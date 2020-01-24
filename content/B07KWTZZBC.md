@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.116722248689854 % en 'RAVPOWER Bateria Externa para Movil  Pow'
+title: 'Descuento del 45.116722248689854 % en RAVPOWER Bateria Externa para Movil  Pow'
 date: 2019/12/12 07:30:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xE00pgliL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xE00pgliL._SL200_.jpg' ]

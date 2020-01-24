@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WeChip Juego de 5 brochas para maquillaj' al 30.79291762894534 % de descuento
+title: 'WeChip Juego de 5 brochas para maquillaj al 30.79291762894534 % de descuento'
 date: 2020-01-22 18:12:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Aiq45c7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Aiq45c7L._SL200_.jpg' ]

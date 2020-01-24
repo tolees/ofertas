@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.45867806164197 % en 'Philips Sonicare ProtectiveClean 4500 el'
+title: 'Descuento del 45.45867806164197 % en Philips Sonicare ProtectiveClean 4500 el'
 date: 2019/12/02 12:59:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1CUtQJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B1CUtQJ3L._SL200_.jpg' ]

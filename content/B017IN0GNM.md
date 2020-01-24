@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dockers Bic Alpha Original Skinny-Stretc' al 53.637499999999996 % de descuento
+title: 'Dockers Bic Alpha Original Skinny-Stretc al 53.637499999999996 % de descuento'
 date: 2019/11/26 12:36:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ooxby6vfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ooxby6vfL._SL200_.jpg' ]

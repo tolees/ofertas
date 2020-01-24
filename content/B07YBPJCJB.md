@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.44768953790758 % en 'Yu-No: A Girl who chants Love at the bou'
+title: 'Descuento del 38.44768953790758 % en Yu-No: A Girl who chants Love at the bou'
 date: 2019/12/21 18:48:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510iGT63deL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510iGT63deL._SL200_.jpg' ]

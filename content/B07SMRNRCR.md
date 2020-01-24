@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS VivoBook S15 S532FL  90NB0MJ2-M0056' al 51.45145145145145 % de descuento
+title: 'ASUS VivoBook S15 S532FL  90NB0MJ2-M0056 al 51.45145145145145 % de descuento'
 date: 2020-01-10 13:41:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4116lQ-2JQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4116lQ-2JQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.29032258064516 % en 'El Naturalista N758  Botines para Mujer '
+title: 'Descuento del 43.29032258064516 % en El Naturalista N758  Botines para Mujer '
 date: 2020-01-06 16:39:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K8O8ufVQL._SL200_.jpg' ]

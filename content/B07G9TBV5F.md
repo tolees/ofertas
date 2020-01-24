@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.76155046201848 % en 'Stream Pack accesorios de captura de víd'
+title: 'Descuento del 38.76155046201848 % en Stream Pack accesorios de captura de víd'
 date: 2019/10/05 15:26:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RT-B6NKBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RT-B6NKBL._SL200_.jpg' ]

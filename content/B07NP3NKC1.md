@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riuty Adaptador de zócalo para lámpara  ' al 51.49171270718234 % de descuento
+title: 'Riuty Adaptador de zócalo para lámpara   al 51.49171270718234 % de descuento'
 date: 2019/12/08 23:47:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Qz%2B98wiSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Qz%2B98wiSL._SL200_.jpg' ]

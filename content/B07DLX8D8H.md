@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAMSONITE Pro-DLX 5 - Wheeled Business C' al 32.77575757575757 % de descuento
+title: 'SAMSONITE Pro-DLX 5 - Wheeled Business C al 32.77575757575757 % de descuento'
 date: 2020-01-24 08:24:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-Qr9Gv0aL._AC_._SL200_.jpg' ]

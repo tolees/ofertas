@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'For Honor - Standard Edition' al 80.30050083472455 % de descuento
+title: 'For Honor - Standard Edition al 80.30050083472455 % de descuento'
 date: 2019/11/04 16:07:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UsPnJ-vlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UsPnJ-vlL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.147651006711406 % en 'Apple Watch Modern Buckle  40mm  - Lilac'
+title: 'Descuento del 56.147651006711406 % en Apple Watch Modern Buckle  40mm  - Lilac'
 date: 2019/11/22 12:36:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313DTXFk2KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313DTXFk2KL._SL200_.jpg' ]

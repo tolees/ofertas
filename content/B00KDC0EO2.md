@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asus VS278H - Monitor de 27" Full HD  19' al 33.87813392573786 % de descuento
+title: 'Asus VS278H - Monitor de 27" Full HD  19 al 33.87813392573786 % de descuento'
 date: 2019/11/11 12:01:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mJxoGQs2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mJxoGQs2L._SL200_.jpg' ]

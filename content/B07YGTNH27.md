@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.15723270440251 % en 'LCQI Dardos Punta Acero Bandera Inglater'
+title: 'Descuento del 25.15723270440251 % en LCQI Dardos Punta Acero Bandera Inglater'
 date: 2020-01-14 21:16:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BiC6sEaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j%2BiC6sEaL._SL200_.jpg' ]

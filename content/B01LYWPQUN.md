@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.00666777796299 % en 'Sony - Dualshock 4 V2 Mando Inalámbrico '
+title: 'Descuento del 40.00666777796299 % en Sony - Dualshock 4 V2 Mando Inalámbrico '
 date: 2019/12/25 11:11:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BCVDEeATL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BCVDEeATL._SL200_.jpg' ]

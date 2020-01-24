@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.841776110068793 % en 'G-Star RAW Rovulc HB Mid Wmn  Zapatillas'
+title: 'Descuento del 26.841776110068793 % en G-Star RAW Rovulc HB Mid Wmn  Zapatillas'
 date: 2019/12/05 19:19:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jVwJ6QJBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jVwJ6QJBL._SL200_.jpg' ]

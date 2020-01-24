@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun 80 Face - Set de 2 recambios de ce' al 60.133333333333326 % de descuento
+title: 'Braun 80 Face - Set de 2 recambios de ce al 60.133333333333326 % de descuento'
 date: 2020-01-04 23:08:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C7Y5CtziL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C7Y5CtziL._SL200_.jpg' ]

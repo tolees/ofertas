@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.47280334728033 % en 'L Oréal Paris Paradise Extatic - Máscara'
+title: 'Descuento del 33.47280334728033 % en L Oréal Paris Paradise Extatic - Máscara'
 date: 2019/12/26 19:16:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BvKckCnpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BvKckCnpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.806213796735115 % en 'Puma Placed Logo Boxer 2p Bañador  Hombr'
+title: 'Descuento del 31.806213796735115 % en Puma Placed Logo Boxer 2p Bañador  Hombr'
 date: 2019/10/11 06:57:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fZxftxHdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fZxftxHdL._SL200_.jpg' ]

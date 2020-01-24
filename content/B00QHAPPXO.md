@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA CG Armour Mock Camiseta ' al 52.74545454545455 % de descuento
+title: 'Under Armour UA CG Armour Mock Camiseta  al 52.74545454545455 % de descuento'
 date: 2019/12/18 10:20:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NEIYaTwrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NEIYaTwrL._SL200_.jpg' ]

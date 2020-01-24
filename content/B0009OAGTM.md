@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Escape  Agua de perfume par' al 58.00766283524904 % de descuento
+title: 'Calvin Klein Escape  Agua de perfume par al 58.00766283524904 % de descuento'
 date: 2020-01-12 17:35:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Mcu03ezcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Mcu03ezcL._SL200_.jpg' ]

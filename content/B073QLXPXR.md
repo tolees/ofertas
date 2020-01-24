@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.68817204301075 % en 'Activewear Sudadera Bicolor con Capucha '
+title: 'Descuento del 52.68817204301075 % en Activewear Sudadera Bicolor con Capucha '
 date: 2019/12/10 21:15:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JGAj0EPKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JGAj0EPKL._SL200_.jpg' ]

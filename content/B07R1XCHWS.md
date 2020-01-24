@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.66731203614069 % en 'Organizadores para Coche  OKEECA 2 Pack '
+title: 'Descuento del 68.66731203614069 % en Organizadores para Coche  OKEECA 2 Pack '
 date: 2020-01-17 20:31:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xhb4W77UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xhb4W77UL._SL200_.jpg' ]

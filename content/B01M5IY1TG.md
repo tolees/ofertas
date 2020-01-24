@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.446808510638306 % en 'G-STAR RAW ZED Cinturón  Marrón  Dk Brow'
+title: 'Descuento del 37.446808510638306 % en G-STAR RAW ZED Cinturón  Marrón  Dk Brow'
 date: 2019/12/08 10:31:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GKPpWA5sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GKPpWA5sL._SL200_.jpg' ]

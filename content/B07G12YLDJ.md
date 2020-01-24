@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hugo Boss Mens Multi dial Quartz Watch w' al 44.6927374301676 % de descuento
+title: 'Hugo Boss Mens Multi dial Quartz Watch w al 44.6927374301676 % de descuento'
 date: 2020-01-23 12:23:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tlHZ%2BXauL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tlHZ%2BXauL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Lulu suéter  Rojo  Francois R' al 27.65619484645252 % de descuento
+title: 'Pepe Jeans Lulu suéter  Rojo  Francois R al 27.65619484645252 % de descuento'
 date: 2020-01-13 17:55:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wiREVUKkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wiREVUKkL._SL200_.jpg' ]

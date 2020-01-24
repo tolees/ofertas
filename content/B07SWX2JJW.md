@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taylor swoden Macarons - Máquina de café' al 37.21795766457316 % de descuento
+title: 'Taylor swoden Macarons - Máquina de café al 37.21795766457316 % de descuento'
 date: 2019/10/24 19:50:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FdIcDArWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FdIcDArWL._SL200_.jpg' ]

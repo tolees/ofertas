@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 True Chino Short Pantalones C' al 53.02 % de descuento
+title: 'Levi s 502 True Chino Short Pantalones C al 53.02 % de descuento'
 date: 2019/11/18 14:10:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U3q5f9IJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U3q5f9IJL._SL200_.jpg' ]

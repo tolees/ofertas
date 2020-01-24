@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0277932184547 % en 'Reebok CL LTHR Zapatillas de running  Mu'
+title: 'Descuento del 50.0277932184547 % en Reebok CL LTHR Zapatillas de running  Mu'
 date: 2019/11/25 12:26:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313ClchY2nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313ClchY2nL._SL200_.jpg' ]

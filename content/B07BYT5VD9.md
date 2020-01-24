@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio -  Premium-Olla a presion 7l' al 51.68115942028986 % de descuento
+title: 'San Ignacio -  Premium-Olla a presion 7l al 51.68115942028986 % de descuento'
 date: 2019/10/29 20:48:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ut6pSHm3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ut6pSHm3L._SL200_.jpg' ]

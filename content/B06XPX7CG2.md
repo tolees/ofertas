@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.69192280200143 % en 'Desigual Vest_crhystel Vestido  Gris Alq'
+title: 'Descuento del 48.69192280200143 % en Desigual Vest_crhystel Vestido  Gris Alq'
 date: 2019/11/08 17:55:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QczP-vqcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QczP-vqcL._SL200_.jpg' ]

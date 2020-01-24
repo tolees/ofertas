@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MLT-D111L MLT-D111S Cartucho de Tóner  2' al 72.01440288057613 % de descuento
+title: 'MLT-D111L MLT-D111S Cartucho de Tóner  2 al 72.01440288057613 % de descuento'
 date: 2020-01-18 10:44:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b7LhUxjML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b7LhUxjML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack Wolfskin Auckland Low  Zapatillas p' al 79.25514174541412 % de descuento
+title: 'Jack Wolfskin Auckland Low  Zapatillas p al 79.25514174541412 % de descuento'
 date: 2019/11/05 21:38:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417vhOff7XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417vhOff7XL._SL200_.jpg' ]

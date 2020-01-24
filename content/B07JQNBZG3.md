@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.980422244563197 % en 'Amazon Echo Input  negro + Altavoz inalá'
+title: 'Descuento del 29.980422244563197 % en Amazon Echo Input  negro + Altavoz inalá'
 date: 2019/11/17 11:36:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Du93aF3qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Du93aF3qL._SL200_.jpg' ]

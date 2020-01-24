@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.89985693848355 % en 'Beurer EM49 - Electroestimulador digital'
+title: 'Descuento del 29.89985693848355 % en Beurer EM49 - Electroestimulador digital'
 date: 2020-01-21 14:15:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iiRfIp7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iiRfIp7DL._SL200_.jpg' ]

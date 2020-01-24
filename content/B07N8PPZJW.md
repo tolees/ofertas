@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.375222288085354 % en 'Wonderbra Ultimate Silhouette Sans Armat'
+title: 'Descuento del 41.375222288085354 % en Wonderbra Ultimate Silhouette Sans Armat'
 date: 2019/10/15 07:54:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fgxCdCIzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fgxCdCIzL._SL200_.jpg' ]

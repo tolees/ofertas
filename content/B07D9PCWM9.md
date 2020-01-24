@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cerdá 2400000402 Paraguas  Multicolor  M' al 44.15094339622642 % de descuento
+title: 'Cerdá 2400000402 Paraguas  Multicolor  M al 44.15094339622642 % de descuento'
 date: 2019/11/27 11:06:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517h-q2N5ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517h-q2N5ML._SL200_.jpg' ]

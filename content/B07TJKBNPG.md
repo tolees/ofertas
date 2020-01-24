@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spider-Man: Lejos de Casa [Blu-ray]' al 52.36629472874181 % de descuento
+title: 'Spider-Man: Lejos de Casa [Blu-ray] al 52.36629472874181 % de descuento'
 date: 2019/11/26 19:38:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PokLn9CtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PokLn9CtL._SL200_.jpg' ]

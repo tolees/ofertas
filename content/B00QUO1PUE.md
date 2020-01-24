@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Men s 3301 Straight Jeans  Bl' al 73.33333333333334 % de descuento
+title: 'G-STAR RAW Men s 3301 Straight Jeans  Bl al 73.33333333333334 % de descuento'
 date: 2019/11/06 06:19:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pog6ViBlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pog6ViBlL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.51172241325415 % en 'BESTEK Regleta Enchufes 2 Tomas y 3 Puer'
+title: 'Descuento del 37.51172241325415 % en BESTEK Regleta Enchufes 2 Tomas y 3 Puer'
 date: 2019/11/22 17:31:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31axSEn3esL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31axSEn3esL._SL200_.jpg' ]

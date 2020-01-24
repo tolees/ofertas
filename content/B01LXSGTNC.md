@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rubies Haunted House - Mini telaraña  co' al 26.0 % de descuento
+title: 'Rubies Haunted House - Mini telaraña  co al 26.0 % de descuento'
 date: 2019/10/30 14:47:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n24QidfGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n24QidfGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.863664790494056 % en 'PUMA Hybrid Fuego Lights  Zapatillas de '
+title: 'Descuento del 61.863664790494056 % en PUMA Hybrid Fuego Lights  Zapatillas de '
 date: 2020-01-20 12:11:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DkrGx5LML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DkrGx5LML._SL200_.jpg' ]

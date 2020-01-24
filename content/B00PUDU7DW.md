@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.454545454545453 % en 'Rexona Maximum Protection  Desodorante C'
+title: 'Descuento del 27.454545454545453 % en Rexona Maximum Protection  Desodorante C'
 date: 2019/12/22 15:05:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W0juoYSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W0juoYSyL._SL200_.jpg' ]

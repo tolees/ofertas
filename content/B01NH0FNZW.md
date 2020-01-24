@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmseven NW SS Smooth Coated Pa' al 40.11002750687672 % de descuento
+title: 'Vero Moda Vmseven NW SS Smooth Coated Pa al 40.11002750687672 % de descuento'
 date: 2019/11/05 18:26:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gJb3BpLRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gJb3BpLRL._SL200_.jpg' ]

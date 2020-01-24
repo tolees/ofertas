@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fitbit Charge 3 Pulsera Avanzada de Salu' al 35.30450132391879 % de descuento
+title: 'Fitbit Charge 3 Pulsera Avanzada de Salu al 35.30450132391879 % de descuento'
 date: 2019/12/15 23:42:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gle6lsYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gle6lsYdL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.48406676783005 % en 'Bizak- Collector Toilet  61928805 '
+title: 'Descuento del 39.48406676783005 % en Bizak- Collector Toilet  61928805 '
 date: 2019/12/28 10:18:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/610tOtLgVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/610tOtLgVML._SL200_.jpg' ]

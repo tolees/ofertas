@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack James Bond 23+1 Premium Blu-Ray [Bl' al 64.70984246667564 % de descuento
+title: 'Pack James Bond 23+1 Premium Blu-Ray [Bl al 64.70984246667564 % de descuento'
 date: 2019/11/28 18:56:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aNqs9E14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aNqs9E14L._SL200_.jpg' ]

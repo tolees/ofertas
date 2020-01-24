@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.455557429583404 % en 'Dalber Color Rain  Regleta 3 Luces Gotas'
+title: 'Descuento del 31.455557429583404 % en Dalber Color Rain  Regleta 3 Luces Gotas'
 date: 2019/11/02 18:55:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u6d2Ex7GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u6d2Ex7GL._SL200_.jpg' ]

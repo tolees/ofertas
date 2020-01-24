@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.18963792758553 % en 'PJ Masks - Megarover  Bandai 95380 '
+title: 'Descuento del 48.18963792758553 % en PJ Masks - Megarover  Bandai 95380 '
 date: 2020-01-04 06:05:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mhQIWxbeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mhQIWxbeL._SL200_.jpg' ]

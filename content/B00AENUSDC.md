@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orbegozo FCH 4000 FUENTE CHOCOLATE  32 W' al 25.10460251046025 % de descuento
+title: 'Orbegozo FCH 4000 FUENTE CHOCOLATE  32 W al 25.10460251046025 % de descuento'
 date: 2020-01-19 08:03:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rBWoLuMkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rBWoLuMkL._SL200_.jpg' ]

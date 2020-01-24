@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Accord Perfec Color Riche ' al 41.91176470588235 % de descuento
+title: 'L Oréal Paris Accord Perfec Color Riche  al 41.91176470588235 % de descuento'
 date: 2019/11/03 07:05:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qhHrTvYGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qhHrTvYGL._SL200_.jpg' ]

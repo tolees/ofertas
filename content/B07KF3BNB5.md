@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Herren Tapered Fit Jeans 502 Regu' al 75.45454545454545 % de descuento
+title: 'Levi s Herren Tapered Fit Jeans 502 Regu al 75.45454545454545 % de descuento'
 date: 2019/10/29 11:44:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JWUhj87zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JWUhj87zL._SL200_.jpg' ]

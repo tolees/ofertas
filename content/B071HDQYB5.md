@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.045431342521688 % en 'Lebze Muselina Manta Bebé -"Diseño de Co'
+title: 'Descuento del 29.045431342521688 % en Lebze Muselina Manta Bebé -"Diseño de Co'
 date: 2020-01-11 09:02:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-gxXaKdbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-gxXaKdbL._SL200_.jpg' ]

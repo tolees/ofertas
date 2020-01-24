@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.16516516516518 % en 'Geox U Mirvin a  Mocasines para Hombre  '
+title: 'Descuento del 65.16516516516518 % en Geox U Mirvin a  Mocasines para Hombre  '
 date: 2019/11/15 15:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TFlRjoTVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TFlRjoTVL._SL200_.jpg' ]

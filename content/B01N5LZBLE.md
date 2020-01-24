@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Pulse Belt Cinturón de Corriendo' al 41.7 % de descuento
+title: 'Salomon Pulse Belt Cinturón de Corriendo al 41.7 % de descuento'
 date: 2019/11/28 07:12:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g8zBTXQSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g8zBTXQSL._SL200_.jpg' ]

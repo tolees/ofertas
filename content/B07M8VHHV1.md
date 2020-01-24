@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett High Vaqueros  Azul  Sitka ' al 43.72732958098812 % de descuento
+title: 'Lee Scarlett High Vaqueros  Azul  Sitka  al 43.72732958098812 % de descuento'
 date: 2020-01-13 19:55:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DBOsXFOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DBOsXFOuL._SL200_.jpg' ]

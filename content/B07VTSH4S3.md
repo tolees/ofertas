@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.00650065006501 % en 'FREDI WIFI Tiras de Luces LED Iluminació'
+title: 'Descuento del 65.00650065006501 % en FREDI WIFI Tiras de Luces LED Iluminació'
 date: 2019/12/02 08:57:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vACgBltQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vACgBltQL._SL200_.jpg' ]

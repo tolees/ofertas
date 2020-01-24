@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.55645545497856 % en 'Riuty Luz de Pared LED  lámpara de Pared'
+title: 'Descuento del 68.55645545497856 % en Riuty Luz de Pared LED  lámpara de Pared'
 date: 2019/12/08 23:50:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312YN8Oxl9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312YN8Oxl9L._SL200_.jpg' ]

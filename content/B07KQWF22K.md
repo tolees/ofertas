@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen KOS Polo  Hombre   Rojo 147' al 70.6 % de descuento
+title: 'Helly Hansen KOS Polo  Hombre   Rojo 147 al 70.6 % de descuento'
 date: 2019/11/02 17:03:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EH44pYPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EH44pYPFL._SL200_.jpg' ]

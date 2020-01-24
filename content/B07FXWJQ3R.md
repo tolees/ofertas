@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Palomar  Zapatillas para Niños  Neg' al 28.200000000000003 % de descuento
+title: 'Vans Palomar  Zapatillas para Niños  Neg al 28.200000000000003 % de descuento'
 date: 2020-01-01 15:23:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ENSGu-chL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ENSGu-chL._SL200_.jpg' ]

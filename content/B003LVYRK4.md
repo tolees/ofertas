@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compactor Bolsa para la Colada  Blanco  ' al 69.6875 % de descuento
+title: 'Compactor Bolsa para la Colada  Blanco   al 69.6875 % de descuento'
 date: 2020-01-23 18:53:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2BPAYIopL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T%2BPAYIopL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein L/s Crew Neck Camiseta  Neg' al 35.39024390243903 % de descuento
+title: 'Calvin Klein L/s Crew Neck Camiseta  Neg al 35.39024390243903 % de descuento'
 date: 2019/11/17 16:38:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iECWzBOxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iECWzBOxL._SL200_.jpg' ]

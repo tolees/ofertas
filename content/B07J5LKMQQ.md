@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gorro Invierno Hombre con Bufanda  Calen' al 51.417454141189545 % de descuento
+title: 'Gorro Invierno Hombre con Bufanda  Calen al 51.417454141189545 % de descuento'
 date: 2020-01-20 14:39:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BgNGrf0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BgNGrf0aL._SL200_.jpg' ]

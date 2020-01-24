@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.05008347245409 % en 'DANISH ENDURANCE Bóxers para Hombres Pac'
+title: 'Descuento del 30.05008347245409 % en DANISH ENDURANCE Bóxers para Hombres Pac'
 date: 2019/11/29 17:07:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ImA40jd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ImA40jd3L._SL200_.jpg' ]

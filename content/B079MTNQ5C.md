@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schmidt Spiele 49340 Ganz Schön Clever  ' al 50.0417014178482 % de descuento
+title: 'Schmidt Spiele 49340 Ganz Schön Clever   al 50.0417014178482 % de descuento'
 date: 2019/12/15 10:01:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nuMgsGfOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nuMgsGfOL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.20440251572326 % en 'Agave Healing Vapor Plancha Profesional '
+title: 'Descuento del 67.20440251572326 % en Agave Healing Vapor Plancha Profesional '
 date: 2019/10/19 23:26:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GcIrVyv2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GcIrVyv2L._SL200_.jpg' ]

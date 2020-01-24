@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lisciani - Frozen Maxi Double Face  puzz' al 38.36088154269973 % de descuento
+title: 'Lisciani - Frozen Maxi Double Face  puzz al 38.36088154269973 % de descuento'
 date: 2019/10/16 10:33:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nX1nP4FyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nX1nP4FyL._SL200_.jpg' ]

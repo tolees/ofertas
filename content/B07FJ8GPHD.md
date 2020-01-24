@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Vajilla de 18 piezas  Pir' al 25.006257822277856 % de descuento
+title: 'AmazonBasics - Vajilla de 18 piezas  Pir al 25.006257822277856 % de descuento'
 date: 2019/12/28 19:54:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o55rBrpsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o55rBrpsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.01754385964912 % en 'Joma Brama Classic - Camiseta térmica pa'
+title: 'Descuento del 67.01754385964912 % en Joma Brama Classic - Camiseta térmica pa'
 date: 2019/10/31 06:43:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F7S3nrxcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F7S3nrxcL._SL200_.jpg' ]

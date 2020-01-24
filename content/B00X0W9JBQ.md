@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.555078683834054 % en 'Tommy Hilfiger Eton Mini CC Flap & Coin '
+title: 'Descuento del 38.555078683834054 % en Tommy Hilfiger Eton Mini CC Flap & Coin '
 date: 2019/10/15 22:51:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZIuXjKNZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZIuXjKNZL._SL200_.jpg' ]

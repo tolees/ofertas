@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. MDR 40621 vestidos mujer  Verde  G' al 62.5 % de descuento
+title: 'find. MDR 40621 vestidos mujer  Verde  G al 62.5 % de descuento'
 date: 2019/12/27 01:16:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512rhr5OAhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512rhr5OAhL._SL200_.jpg' ]

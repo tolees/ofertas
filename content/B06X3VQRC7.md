@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YIWER LED Velas sin Llama Φ 8CM x H 10cm' al 60.0120024004801 % de descuento
+title: 'YIWER LED Velas sin Llama Φ 8CM x H 10cm al 60.0120024004801 % de descuento'
 date: 2019/12/18 13:57:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lyqq63ptL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lyqq63ptL._SL200_.jpg' ]

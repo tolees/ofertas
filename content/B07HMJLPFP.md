@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.67777962993833 % en 'Easton Marlowe 6 PR Calcetines Estampado'
+title: 'Descuento del 66.67777962993833 % en Easton Marlowe 6 PR Calcetines Estampado'
 date: 2020-01-17 10:42:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n5ioW%2B8tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n5ioW%2B8tL._SL200_.jpg' ]

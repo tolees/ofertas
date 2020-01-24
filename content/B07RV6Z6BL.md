@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.49114703618169 % en 'Philips Ambilight 70PUS6704/12 Fernseher'
+title: 'Descuento del 38.49114703618169 % en Philips Ambilight 70PUS6704/12 Fernseher'
 date: 2019/10/20 07:54:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fW6mE8QVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fW6mE8QVL._SL200_.jpg' ]

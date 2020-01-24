@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kickers Bromer  Botas Clasicas para Homb' al 58.292929292929294 % de descuento
+title: 'Kickers Bromer  Botas Clasicas para Homb al 58.292929292929294 % de descuento'
 date: 2020-01-17 19:55:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gAXLDSzbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gAXLDSzbL._SL200_.jpg' ]

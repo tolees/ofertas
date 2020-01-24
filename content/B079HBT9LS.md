@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.456363992939792 % en 'Philips Serie 5000 BG5020/15 - Afeitador'
+title: 'Descuento del 27.456363992939792 % en Philips Serie 5000 BG5020/15 - Afeitador'
 date: 2019/12/27 13:16:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AJFQeXNQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AJFQeXNQL._SL200_.jpg' ]

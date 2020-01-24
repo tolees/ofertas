@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Gap Gorra  para Entrenamiento' al 34.040000000000006 % de descuento
+title: 'Salomon XA Gap Gorra  para Entrenamiento al 34.040000000000006 % de descuento'
 date: 2020-01-04 15:34:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hqv1JoX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hqv1JoX9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.21895861148198 % en 'FJÄLLRÄVEN Rucksack No.21 Large Mochila '
+title: 'Descuento del 74.21895861148198 % en FJÄLLRÄVEN Rucksack No.21 Large Mochila '
 date: 2019/11/12 22:15:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415cKe2%2BmyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415cKe2%2BmyL._SL200_.jpg' ]

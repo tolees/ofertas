@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Pod-S3.1  Zapatillas de Gimnasia ' al 47.68820391227031 % de descuento
+title: 'adidas Pod-S3.1  Zapatillas de Gimnasia  al 47.68820391227031 % de descuento'
 date: 2019/12/02 19:25:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ts1UiX59L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ts1UiX59L._SL200_.jpg' ]

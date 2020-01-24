@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.02898550724638 % en 'Lacoste Carnaby EVO Strap 319 2 Su  Zapa'
+title: 'Descuento del 62.02898550724638 % en Lacoste Carnaby EVO Strap 319 2 Su  Zapa'
 date: 2019/11/24 20:58:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T4zhJR-iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T4zhJR-iL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sh6342 Sudadera  Azul  Marine 16' al 48.04999999999999 % de descuento
+title: 'Lacoste Sh6342 Sudadera  Azul  Marine 16 al 48.04999999999999 % de descuento'
 date: 2019/11/06 08:27:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gdsHz7AZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gdsHz7AZL._SL200_.jpg' ]

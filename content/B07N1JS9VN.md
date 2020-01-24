@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Women s Glove Puppet Loafers  Blu' al 56.666666666666664 % de descuento
+title: 'Clarks Women s Glove Puppet Loafers  Blu al 56.666666666666664 % de descuento'
 date: 2020-01-08 11:09:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n-asU2TzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n-asU2TzL._SL200_.jpg' ]

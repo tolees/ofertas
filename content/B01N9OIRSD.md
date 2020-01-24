@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair CH-9127014-UK K95 Platinum RGB R' al 35.13703443429376 % de descuento
+title: 'Corsair CH-9127014-UK K95 Platinum RGB R al 35.13703443429376 % de descuento'
 date: 2019/10/09 19:13:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w2N925kNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w2N925kNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Conjunto de Luces  Technic C' al 62.5125 % de descuento
+title: 'LIGHTAILING Conjunto de Luces  Technic C al 62.5125 % de descuento'
 date: 2019/12/05 05:28:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BqpkCvq4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BqpkCvq4L._SL200_.jpg' ]

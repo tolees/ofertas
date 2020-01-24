@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.90769230769232 % en 'Asics Hypergel  Zapatillas de Entrenamie'
+title: 'Descuento del 68.90769230769232 % en Asics Hypergel  Zapatillas de Entrenamie'
 date: 2019/12/04 00:47:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gTZwdRlJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gTZwdRlJL._SL200_.jpg' ]

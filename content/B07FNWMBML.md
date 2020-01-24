@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Creator 31086 - Flugzeug der Zukunf' al 26.684456304202797 % de descuento
+title: 'LEGO Creator 31086 - Flugzeug der Zukunf al 26.684456304202797 % de descuento'
 date: 2020-01-08 10:36:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517n6HKJhKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517n6HKJhKL._SL200_.jpg' ]

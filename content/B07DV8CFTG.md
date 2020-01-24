@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer Aspire 5 A515-51G-58EV 39 6 cm  15 ' al 56.1042524005487 % de descuento
+title: 'Acer Aspire 5 A515-51G-58EV 39 6 cm  15  al 56.1042524005487 % de descuento'
 date: 2019/10/30 16:28:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RzQd20OVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RzQd20OVL._SL200_.jpg' ]

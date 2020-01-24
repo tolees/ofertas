@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41166 Disney Frozen II Elsa s Wagon' al 27.97118847539015 % de descuento
+title: 'LEGO 41166 Disney Frozen II Elsa s Wagon al 27.97118847539015 % de descuento'
 date: 2020-01-15 12:47:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517LRBuxQ%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517LRBuxQ%2BL._SL200_.jpg' ]

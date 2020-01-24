@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Nu-Tility Knit Pant Chándal  Hombre' al 64.5677888989991 % de descuento
+title: 'PUMA Nu-Tility Knit Pant Chándal  Hombre al 64.5677888989991 % de descuento'
 date: 2020-01-13 09:30:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kgjyxx3AL._SL200_.jpg' ]

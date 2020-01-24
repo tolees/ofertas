@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.86021505376344 % en 'Funko- Pop TV: La Casa de Papel-Helsinki'
+title: 'Descuento del 40.86021505376344 % en Funko- Pop TV: La Casa de Papel-Helsinki'
 date: 2020-01-24 15:09:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EO7QvJ2sL._AC_._SL200_.jpg' ]

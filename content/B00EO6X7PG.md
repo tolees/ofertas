@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creative Sound Blaster Audigy Rx PCIe-So' al 58.56550935847977 % de descuento
+title: 'Creative Sound Blaster Audigy Rx PCIe-So al 58.56550935847977 % de descuento'
 date: 2019/11/16 10:23:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41flY9Y59EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41flY9Y59EL._SL200_.jpg' ]

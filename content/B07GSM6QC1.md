@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.959536728387555 % en 'Brother MFC-L3710CW - Impresora multifun'
+title: 'Descuento del 36.959536728387555 % en Brother MFC-L3710CW - Impresora multifun'
 date: 2019/10/11 02:20:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qvvY924NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qvvY924NL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam LAZR v2 Hypoknit ' al 54.0 % de descuento
+title: 'New Balance Fresh Foam LAZR v2 Hypoknit  al 54.0 % de descuento'
 date: 2019/11/05 17:14:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UIQrPelLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UIQrPelLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Loewe 13571 - Agua de colonia  150 ml' al 37.12765957446808 % de descuento
+title: 'Loewe 13571 - Agua de colonia  150 ml al 37.12765957446808 % de descuento'
 date: 2019/10/31 20:02:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZSXXluEaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZSXXluEaL._SL200_.jpg' ]

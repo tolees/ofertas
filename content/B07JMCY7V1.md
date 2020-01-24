@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.83657587548637 % en 'Lee Austin Vaqueros Tapered  Azul  Dark '
+title: 'Descuento del 65.83657587548637 % en Lee Austin Vaqueros Tapered  Azul  Dark '
 date: 2019/10/09 21:31:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dell Inspiron 13 5000 13.3 Inch 2-in-1 F' al 60.15323312666349 % de descuento
+title: 'Dell Inspiron 13 5000 13.3 Inch 2-in-1 F al 60.15323312666349 % de descuento'
 date: 2019/12/10 09:39:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cm-FotGYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cm-FotGYL._SL200_.jpg' ]

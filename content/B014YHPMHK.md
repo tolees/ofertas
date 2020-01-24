@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.72142857142857 % en 'Timberland Bradstreet Leather Sensorflex'
+title: 'Descuento del 35.72142857142857 % en Timberland Bradstreet Leather Sensorflex'
 date: 2019/12/04 06:08:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pc3M3qtHL._SL200_.jpg' ]

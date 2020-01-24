@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Viceroy - Chicos 401055-05' al 50.0 % de descuento
+title: 'Reloj Viceroy - Chicos 401055-05 al 50.0 % de descuento'
 date: 2020-01-17 16:32:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Uo4V%2BO8vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Uo4V%2BO8vL._SL200_.jpg' ]

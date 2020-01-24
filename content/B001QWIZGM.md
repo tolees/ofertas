@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.4298108205808 % en 'X Factor 12"-inch Vacuum Pump with 3 Sle'
+title: 'Descuento del 67.4298108205808 % en X Factor 12"-inch Vacuum Pump with 3 Sle'
 date: 2019/10/09 17:17:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oEVMNdTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oEVMNdTSL._SL200_.jpg' ]

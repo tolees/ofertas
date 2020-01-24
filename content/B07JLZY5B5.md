@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.9941141848146 % en 'Wrangler Arizona Jeans  Azul  Fuse Blue '
+title: 'Descuento del 49.9941141848146 % en Wrangler Arizona Jeans  Azul  Fuse Blue '
 date: 2020-01-13 13:25:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UlCEdFXZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UlCEdFXZL._SL200_.jpg' ]

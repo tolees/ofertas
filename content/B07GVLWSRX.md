@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.81477896095514 % en 'Guirnalda Luces Exterior  HUAFA 10m 32ft'
+title: 'Descuento del 25.81477896095514 % en Guirnalda Luces Exterior  HUAFA 10m 32ft'
 date: 2019/12/09 19:04:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e13xjOSuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e13xjOSuL._SL200_.jpg' ]

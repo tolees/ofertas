@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BILLABONG Sol Searcher Tied Ba Tops de B' al 69.17142857142858 % de descuento
+title: 'BILLABONG Sol Searcher Tied Ba Tops de B al 69.17142857142858 % de descuento'
 date: 2019/10/08 11:41:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wPB%2BmRpyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wPB%2BmRpyL._SL200_.jpg' ]

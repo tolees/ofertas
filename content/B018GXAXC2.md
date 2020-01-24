@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pioneer PIO03AVHX7800BT - Radio Monitor' al 35.54351395730706 % de descuento
+title: 'Pioneer PIO03AVHX7800BT - Radio Monitor al 35.54351395730706 % de descuento'
 date: 2019/11/09 06:43:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tIy3M-LbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tIy3M-LbL._SL200_.jpg' ]

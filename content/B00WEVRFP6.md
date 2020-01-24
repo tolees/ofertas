@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KRISP Vestido Moda Mujer Fruncido  Moca ' al 43.20145520691223 % de descuento
+title: 'KRISP Vestido Moda Mujer Fruncido  Moca  al 43.20145520691223 % de descuento'
 date: 2020-01-01 16:00:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41siu6sUXVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41siu6sUXVL._SL200_.jpg' ]

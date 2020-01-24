@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bolso de Hombro pequeña de Mujer Bolso d' al 25.012506253126553 % de descuento
+title: 'Bolso de Hombro pequeña de Mujer Bolso d al 25.012506253126553 % de descuento'
 date: 2019/12/22 16:09:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kritv1yxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kritv1yxL._SL200_.jpg' ]

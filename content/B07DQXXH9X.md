@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Duramo 9 K  Zapatillas de Running' al 55.43937708565072 % de descuento
+title: 'Adidas Duramo 9 K  Zapatillas de Running al 55.43937708565072 % de descuento'
 date: 2019/11/30 18:26:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41goOQpthHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41goOQpthHL._SL200_.jpg' ]

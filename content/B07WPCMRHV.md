@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.633158646974746 % en 'Luces de cortina de estrella 12 estrella'
+title: 'Descuento del 29.633158646974746 % en Luces de cortina de estrella 12 estrella'
 date: 2019/10/16 23:18:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-ueWv9kiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-ueWv9kiL._SL200_.jpg' ]

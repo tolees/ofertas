@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP CF279A 79A Cartucho de Tóner Original' al 36.441136671177276 % de descuento
+title: 'HP CF279A 79A Cartucho de Tóner Original al 36.441136671177276 % de descuento'
 date: 2019/12/11 10:21:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g23WgU9qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g23WgU9qL._SL200_.jpg' ]

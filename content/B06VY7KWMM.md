@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.6 % en 'Clarks Vanek Rise  Botas para Hombre  Ma'
+title: 'Descuento del 67.6 % en Clarks Vanek Rise  Botas para Hombre  Ma'
 date: 2019/11/09 19:35:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u-YlV%2BLaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u-YlV%2BLaL._SL200_.jpg' ]

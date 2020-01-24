@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INTEY - 3 EN 1 Pantalla LCD Detector De ' al 74.64179104477613 % de descuento
+title: 'INTEY - 3 EN 1 Pantalla LCD Detector De  al 74.64179104477613 % de descuento'
 date: 2019/10/08 19:08:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UXQEQIPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UXQEQIPSL._SL200_.jpg' ]

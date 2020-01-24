@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.44444444444444 % en 'Wonvin Pendientes de Cristal Rojo Crista'
+title: 'Descuento del 64.44444444444444 % en Wonvin Pendientes de Cristal Rojo Crista'
 date: 2019/10/20 19:56:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Wi7KYxDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Wi7KYxDL._SL200_.jpg' ]

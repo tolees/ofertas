@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Spark SNG Upright Top Pocket E' al 26.183783783783788 % de descuento
+title: 'Samsonite Spark SNG Upright Top Pocket E al 26.183783783783788 % de descuento'
 date: 2020-01-10 10:13:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415fqbisd9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415fqbisd9L._SL200_.jpg' ]

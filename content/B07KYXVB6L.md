@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield Franq. Sudadera Cuadro Print' al 52.34093637454982 % de descuento
+title: 'Springfield Franq. Sudadera Cuadro Print al 52.34093637454982 % de descuento'
 date: 2019/10/26 17:14:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NB15XBEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NB15XBEPL._SL200_.jpg' ]

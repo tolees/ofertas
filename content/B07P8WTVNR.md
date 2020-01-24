@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mega Construx - Game Of Thrones Got Daen' al 36.62487674320326 % de descuento
+title: 'Mega Construx - Game Of Thrones Got Daen al 36.62487674320326 % de descuento'
 date: 2019/11/25 20:05:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5150FHVyg2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5150FHVyg2L._SL200_.jpg' ]

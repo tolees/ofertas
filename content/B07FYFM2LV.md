@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mochila para portátil Pepe Jeans Bromley' al 26.381818181818172 % de descuento
+title: 'Mochila para portátil Pepe Jeans Bromley al 26.381818181818172 % de descuento'
 date: 2019/11/18 08:41:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QN-oyaGSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QN-oyaGSL._SL200_.jpg' ]

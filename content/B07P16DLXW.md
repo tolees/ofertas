@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.00541711809318 % en 'Superdry Downhill Racer Box Quilt Jkt Ch'
+title: 'Descuento del 65.00541711809318 % en Superdry Downhill Racer Box Quilt Jkt Ch'
 date: 2020-01-18 14:04:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lglVZr1jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lglVZr1jL._SL200_.jpg' ]

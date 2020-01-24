@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Summer Lovin Crew Sudadera  Muj' al 78.3797299549925 % de descuento
+title: 'RIP CURL Summer Lovin Crew Sudadera  Muj al 78.3797299549925 % de descuento'
 date: 2019/10/10 11:28:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GER65gvVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GER65gvVL._SL200_.jpg' ]

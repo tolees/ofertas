@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Vinyl: Rugrats: Tommy Pickles  130' al 44.96330887258172 % de descuento
+title: 'Funko Vinyl: Rugrats: Tommy Pickles  130 al 44.96330887258172 % de descuento'
 date: 2019/10/29 19:19:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y7dIr4zXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y7dIr4zXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.22857142857143 % en 'Toyjoy Masturbador Masculino - 400 gr'
+title: 'Descuento del 67.22857142857143 % en Toyjoy Masturbador Masculino - 400 gr'
 date: 2019/10/28 11:34:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sfkaFo85L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sfkaFo85L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 85.75 % en 'Brax Style.Clarissa  Camiseta de Manga L'
+title: 'Descuento del 85.75 % en Brax Style.Clarissa  Camiseta de Manga L'
 date: 2020-01-15 10:13:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414GJ3ZGzAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414GJ3ZGzAL._SL200_.jpg' ]

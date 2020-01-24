@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.89539868533868 % en 'Braun Clean&Renew Cartuchos de recarga p'
+title: 'Descuento del 33.89539868533868 % en Braun Clean&Renew Cartuchos de recarga p'
 date: 2020-01-10 08:27:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xhVmv8S%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xhVmv8S%2BL._SL200_.jpg' ]

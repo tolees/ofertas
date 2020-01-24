@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aizhy Bomba para Bicicleta  Bomba ergonó' al 35.00875218804702 % de descuento
+title: 'Aizhy Bomba para Bicicleta  Bomba ergonó al 35.00875218804702 % de descuento'
 date: 2020-01-07 13:16:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413dhUrlliL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413dhUrlliL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.689655172413797 % en 'Glucosamina Complex con Condroitina  MSM'
+title: 'Descuento del 27.689655172413797 % en Glucosamina Complex con Condroitina  MSM'
 date: 2020-01-15 18:32:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B9s7rmuZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B9s7rmuZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma A.C.E. Tech Long Tight Pants  Hombr' al 65.4054054054054 % de descuento
+title: 'Puma A.C.E. Tech Long Tight Pants  Hombr al 65.4054054054054 % de descuento'
 date: 2019/11/13 09:57:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315nOMl%2B1cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315nOMl%2B1cL._SL200_.jpg' ]

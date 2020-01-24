@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Powerbeats3 Wireless Earphones - The Bea' al 53.515739923506914 % de descuento
+title: 'Powerbeats3 Wireless Earphones - The Bea al 53.515739923506914 % de descuento'
 date: 2019/12/12 11:04:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q2kVCu6XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q2kVCu6XL._SL200_.jpg' ]

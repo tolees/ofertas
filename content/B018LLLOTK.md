@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.86215538847118 % en 'Tommy Hilfiger New Aly Belt  Cinturón Ho'
+title: 'Descuento del 34.86215538847118 % en Tommy Hilfiger New Aly Belt  Cinturón Ho'
 date: 2020-01-03 20:04:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cq7-nz3YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cq7-nz3YL._SL200_.jpg' ]

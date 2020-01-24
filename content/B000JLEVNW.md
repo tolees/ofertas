@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Angel Schlesser Agua de Colonia - 50 ml' al 39.856338575033966 % de descuento
+title: 'Angel Schlesser Agua de Colonia - 50 ml al 39.856338575033966 % de descuento'
 date: 2019/12/04 13:11:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NSU-6qD-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NSU-6qD-L._SL200_.jpg' ]

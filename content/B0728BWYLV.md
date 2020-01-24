@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Magnetico Select In Jr  ' al 65.4 % de descuento
+title: 'Under Armour UA Magnetico Select In Jr   al 65.4 % de descuento'
 date: 2019/11/02 02:21:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JX9RbqVyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JX9RbqVyL._SL200_.jpg' ]

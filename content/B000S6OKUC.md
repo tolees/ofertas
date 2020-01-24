@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.89734690275898 % en 'Sorel Caribou  Botas de Invierno para Ho'
+title: 'Descuento del 54.89734690275898 % en Sorel Caribou  Botas de Invierno para Ho'
 date: 2019/11/29 01:15:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41acBRHv%2BtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41acBRHv%2BtL._SL200_.jpg' ]

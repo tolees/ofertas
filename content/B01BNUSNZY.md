@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MTNG 94517 Serraje Canela/Salmon/Coral -' al 80.32904148783977 % de descuento
+title: 'MTNG 94517 Serraje Canela/Salmon/Coral - al 80.32904148783977 % de descuento'
 date: 2019/11/13 17:02:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j0e2D7LhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j0e2D7LhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Amazon Essentials Fleece Zip-up Hoodie F'
+title: 'Descuento del 50.0 % en Amazon Essentials Fleece Zip-up Hoodie F'
 date: 2019/10/28 09:12:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Eh5QIW72L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Eh5QIW72L._SL200_.jpg' ]

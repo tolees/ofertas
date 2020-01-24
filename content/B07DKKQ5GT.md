@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0 % en 'Kipling - City Pack S  Mochilas Mujer  G'
+title: 'Descuento del 40.0 % en Kipling - City Pack S  Mochilas Mujer  G'
 date: 2019/10/25 06:59:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P%2B%2BwK7G2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P%2B%2BwK7G2L._SL200_.jpg' ]

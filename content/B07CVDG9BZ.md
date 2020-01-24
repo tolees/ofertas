@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA TR96  Zapatillas Deporti' al 42.6 % de descuento
+title: 'Under Armour UA TR96  Zapatillas Deporti al 42.6 % de descuento'
 date: 2019/12/16 07:30:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wPViG51vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wPViG51vL._SL200_.jpg' ]

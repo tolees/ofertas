@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Light L/S Crew Camiseta L' al 48.88888888888889 % de descuento
+title: 'The North Face Light L/S Crew Camiseta L al 48.88888888888889 % de descuento'
 date: 2019/10/12 16:35:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fYqbl92sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fYqbl92sL._SL200_.jpg' ]

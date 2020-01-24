@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Soporte de Montaje de Pared para TV de M' al 30.781069642170067 % de descuento
+title: 'Soporte de Montaje de Pared para TV de M al 30.781069642170067 % de descuento'
 date: 2019/10/27 09:39:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q4kL32JpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q4kL32JpL._SL200_.jpg' ]

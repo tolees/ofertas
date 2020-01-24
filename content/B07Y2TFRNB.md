@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 Tablet 10 Pulgadas 4G Call IPS/HD  ' al 61.8140703517588 % de descuento
+title: '2019 Tablet 10 Pulgadas 4G Call IPS/HD   al 61.8140703517588 % de descuento'
 date: 2020-01-01 07:34:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rBgtxGg2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rBgtxGg2L._SL200_.jpg' ]

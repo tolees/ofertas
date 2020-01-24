@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.13333333333333 % en 'Lacoste Sport Xh9507 Pantalones Deportiv'
+title: 'Descuento del 56.13333333333333 % en Lacoste Sport Xh9507 Pantalones Deportiv'
 date: 2019/10/14 08:21:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kGc5CQj-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kGc5CQj-L._SL200_.jpg' ]

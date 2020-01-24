@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Aden Down Parka  Mujer  B' al 55.3074074074074 % de descuento
+title: 'Helly Hansen W Aden Down Parka  Mujer  B al 55.3074074074074 % de descuento'
 date: 2019/11/26 06:31:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t%2BY7x4v7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t%2BY7x4v7L._SL200_.jpg' ]

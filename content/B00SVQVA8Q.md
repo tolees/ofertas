@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smarttek Aspirador Robot Matilda  Blanco' al 55.4089709762533 % de descuento
+title: 'Smarttek Aspirador Robot Matilda  Blanco al 55.4089709762533 % de descuento'
 date: 2019/10/30 22:03:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K6%2BYVIF%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K6%2BYVIF%2BL._SL200_.jpg' ]

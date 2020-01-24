@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jané Minnum - Silla de paseo plegable y ' al 50.358662613981764 % de descuento
+title: 'Jané Minnum - Silla de paseo plegable y  al 50.358662613981764 % de descuento'
 date: 2019/10/26 19:04:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qqugZhUaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qqugZhUaL._SL200_.jpg' ]

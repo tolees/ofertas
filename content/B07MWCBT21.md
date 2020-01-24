@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RFID Delgado Billetera de Acero Inoxidab' al 100.00005506102416 % de descuento
+title: 'RFID Delgado Billetera de Acero Inoxidab al 100.00005506102416 % de descuento'
 date: 2019/10/30 23:07:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bgreoDFcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bgreoDFcL._SL200_.jpg' ]

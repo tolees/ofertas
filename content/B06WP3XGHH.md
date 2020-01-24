@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.012506253126553 % en 'find. Slip para Hombre Y-Front  Pack de '
+title: 'Descuento del 25.012506253126553 % en find. Slip para Hombre Y-Front  Pack de '
 date: 2019-12-31 15:25:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Tcu%2BBjwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Tcu%2BBjwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DJI Mavic Pro Combo Platinum Portable Dr' al 26.132644956314532 % de descuento
+title: 'DJI Mavic Pro Combo Platinum Portable Dr al 26.132644956314532 % de descuento'
 date: 2019/12/20 01:25:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ejvdN2rLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ejvdN2rLL._SL200_.jpg' ]

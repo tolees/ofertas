@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour HG Ankle Crop Double Nov Pa' al 74.56363636363636 % de descuento
+title: 'Under Armour HG Ankle Crop Double Nov Pa al 74.56363636363636 % de descuento'
 date: 2019/11/09 08:07:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pIqButn-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pIqButn-L._SL200_.jpg' ]

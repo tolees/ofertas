@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.50781412794333 % en 'Daga 2PH - Almohadilla Eléctrica  46 x 3'
+title: 'Descuento del 37.50781412794333 % en Daga 2PH - Almohadilla Eléctrica  46 x 3'
 date: 2019/10/14 17:40:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S9I0jcOeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S9I0jcOeL._SL200_.jpg' ]

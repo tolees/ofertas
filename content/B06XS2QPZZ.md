@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cofan 21201503  Contenedor con 2 Ruedas ' al 53.93067364290387 % de descuento
+title: 'Cofan 21201503  Contenedor con 2 Ruedas  al 53.93067364290387 % de descuento'
 date: 2019/10/13 16:07:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310jEa7U7YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310jEa7U7YL._SL200_.jpg' ]

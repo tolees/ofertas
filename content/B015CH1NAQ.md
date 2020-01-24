@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.9722067815453 % en 'SanDisk Ultra Flair 64GB USB-Flash-Laufw'
+title: 'Descuento del 49.9722067815453 % en SanDisk Ultra Flair 64GB USB-Flash-Laufw'
 date: 2020-01-22 19:27:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xl5f6jfTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xl5f6jfTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hi-Tec Damis - Sudadera de Forro Polar p' al 70.25988700564972 % de descuento
+title: 'Hi-Tec Damis - Sudadera de Forro Polar p al 70.25988700564972 % de descuento'
 date: 2020-01-19 19:26:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Il48xlrIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Il48xlrIL._SL200_.jpg' ]

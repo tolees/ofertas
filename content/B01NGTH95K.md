@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grundig Multi-Zerkleinerer  0 5 L Plasti' al 45.65760960160027 % de descuento
+title: 'Grundig Multi-Zerkleinerer  0 5 L Plasti al 45.65760960160027 % de descuento'
 date: 2020-01-16 20:38:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gIQ5eTE1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gIQ5eTE1L._SL200_.jpg' ]

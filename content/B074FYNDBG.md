@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.93198529411765 % en 'PAW PATROL HQ7208.E00.B  Pijama de Una P'
+title: 'Descuento del 72.93198529411765 % en PAW PATROL HQ7208.E00.B  Pijama de Una P'
 date: 2020-01-13 12:40:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yJ8hsK5bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yJ8hsK5bL._SL200_.jpg' ]

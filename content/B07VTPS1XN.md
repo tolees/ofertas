@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.40528105621125 % en 'Android 9.0 TV Box 【4GB RAM+32GB ROM】 An'
+title: 'Descuento del 26.40528105621125 % en Android 9.0 TV Box 【4GB RAM+32GB ROM】 An'
 date: 2020-01-02 13:46:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SLtFQSPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SLtFQSPSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hero Baby 1 Leche en Polvo de Inicio par' al 26.315789473684216 % de descuento
+title: 'Hero Baby 1 Leche en Polvo de Inicio par al 26.315789473684216 % de descuento'
 date: 2020-01-23 09:55:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lO6ERKHrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lO6ERKHrL._SL200_.jpg' ]

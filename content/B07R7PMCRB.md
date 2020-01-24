@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG 55UM7610PLB - Smart TV 4K UHD de 139 ' al 46.31331331331331 % de descuento
+title: 'LG 55UM7610PLB - Smart TV 4K UHD de 139  al 46.31331331331331 % de descuento'
 date: 2020-01-17 12:38:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gPjtm0RhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gPjtm0RhL._SL200_.jpg' ]

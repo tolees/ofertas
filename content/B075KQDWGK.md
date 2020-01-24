@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.50602409638555 % en 'Kingston DataTraveler Elite G2 - Llave U'
+title: 'Descuento del 26.50602409638555 % en Kingston DataTraveler Elite G2 - Llave U'
 date: 2019/11/02 18:07:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oIpBygd1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oIpBygd1L._SL200_.jpg' ]

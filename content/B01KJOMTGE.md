@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.64556962025317 % en 'Dickies Pensacola - Vaqueros Hombre  Azu'
+title: 'Descuento del 56.64556962025317 % en Dickies Pensacola - Vaqueros Hombre  Azu'
 date: 2019/11/10 04:21:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DjlhGE9aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DjlhGE9aL._SL200_.jpg' ]

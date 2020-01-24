@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rowenta X-Trem Power RO6941EA - Aspirado' al 29.9958821107124 % de descuento
+title: 'Rowenta X-Trem Power RO6941EA - Aspirado al 29.9958821107124 % de descuento'
 date: 2019/12/22 11:06:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IizHUCMdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IizHUCMdL._SL200_.jpg' ]

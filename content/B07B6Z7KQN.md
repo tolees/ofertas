@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance M480V6  Zapatillas de Runnin' al 33.15623443466711 % de descuento
+title: 'New Balance M480V6  Zapatillas de Runnin al 33.15623443466711 % de descuento'
 date: 2019/10/31 13:56:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nUCVEwX1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nUCVEwX1L._SL200_.jpg' ]

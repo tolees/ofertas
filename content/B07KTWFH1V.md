@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 70681 NINJAGO Spinjitzu Slam - Lloy' al 33.25917686318132 % de descuento
+title: 'LEGO 70681 NINJAGO Spinjitzu Slam - Lloy al 33.25917686318132 % de descuento'
 date: 2019/12/15 08:49:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51be8J9JzAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51be8J9JzAL._SL200_.jpg' ]

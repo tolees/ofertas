@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.44137022397892 % en 'Samsung T835 Galaxy Tab S4 LTE Tablet-PC'
+title: 'Descuento del 35.44137022397892 % en Samsung T835 Galaxy Tab S4 LTE Tablet-PC'
 date: 2019/12/10 08:40:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KxKhv%2BzAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KxKhv%2BzAL._SL200_.jpg' ]

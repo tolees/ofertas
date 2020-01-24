@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syncwire - Soporte magnético para teléfo' al 55.81632653061224 % de descuento
+title: 'Syncwire - Soporte magnético para teléfo al 55.81632653061224 % de descuento'
 date: 2019/11/29 13:21:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JRp6evFuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JRp6evFuL._SL200_.jpg' ]

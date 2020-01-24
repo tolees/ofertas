@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.00600120024005 % en 'LEGO DUPLO 10903 - Feuerwehrwache'
+title: 'Descuento del 30.00600120024005 % en LEGO DUPLO 10903 - Feuerwehrwache'
 date: 2019/12/10 19:53:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Jlfr5s-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Jlfr5s-7L._SL200_.jpg' ]

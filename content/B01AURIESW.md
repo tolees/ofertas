@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.608840700583816 % en 'Olympus Pen-F - Cámara Evil con estabili'
+title: 'Descuento del 30.608840700583816 % en Olympus Pen-F - Cámara Evil con estabili'
 date: 2019/11/11 21:31:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GHcuBlMfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GHcuBlMfL._SL200_.jpg' ]

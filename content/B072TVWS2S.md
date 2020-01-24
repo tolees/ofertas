@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spigen Essential F302W [4mm Ultra Slim] ' al 28.011204481792717 % de descuento
+title: 'Spigen Essential F302W [4mm Ultra Slim]  al 28.011204481792717 % de descuento'
 date: 2019/12/29 11:17:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vx6V8GrkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vx6V8GrkL._SL200_.jpg' ]

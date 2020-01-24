@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Boy Botas de Baloncesto Zapatillas Depor' al 59.78244672925048 % de descuento
+title: 'Boy Botas de Baloncesto Zapatillas Depor al 59.78244672925048 % de descuento'
 date: 2019/12/30 19:11:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GG49lFn5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GG49lFn5L._SL200_.jpg' ]

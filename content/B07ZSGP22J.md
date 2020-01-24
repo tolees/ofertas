@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.95925597874225 % en 'Prismáticos Profesionales Binoculares HD'
+title: 'Descuento del 53.95925597874225 % en Prismáticos Profesionales Binoculares HD'
 date: 2020-01-21 16:11:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DeIKKD-jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DeIKKD-jL._SL200_.jpg' ]

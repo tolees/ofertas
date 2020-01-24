@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UCMDA Funda para Xiaomi Redmi 7A con Pro' al 40.04004004004004 % de descuento
+title: 'UCMDA Funda para Xiaomi Redmi 7A con Pro al 40.04004004004004 % de descuento'
 date: 2019/11/17 19:47:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y-gQ3lSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y-gQ3lSyL._SL200_.jpg' ]

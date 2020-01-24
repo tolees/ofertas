@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dove Aceite de Ducha de Argán 200 ml - [' al 33.18485523385301 % de descuento
+title: 'Dove Aceite de Ducha de Argán 200 ml - [ al 33.18485523385301 % de descuento'
 date: 2019/11/09 10:36:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LMKKwt%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LMKKwt%2BiL._SL200_.jpg' ]

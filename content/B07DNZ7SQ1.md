@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kit de Accesorios para iRobot Roomba Rec' al 65.88388780169603 % de descuento
+title: 'Kit de Accesorios para iRobot Roomba Rec al 65.88388780169603 % de descuento'
 date: 2019/12/03 15:05:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51COfp8ErkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51COfp8ErkL._SL200_.jpg' ]

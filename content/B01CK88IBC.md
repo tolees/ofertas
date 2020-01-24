@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Redken Curvaceous Unisex Champú 300 ml -' al 56.493256262042394 % de descuento
+title: 'Redken Curvaceous Unisex Champú 300 ml - al 56.493256262042394 % de descuento'
 date: 2020-01-01 20:57:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Drumond Park The LOGO Board Game - The F' al 45.43801151864202 % de descuento
+title: 'Drumond Park The LOGO Board Game - The F al 45.43801151864202 % de descuento'
 date: 2019/12/22 16:52:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61eoBaMBbJL._SL200_.jpg' ]

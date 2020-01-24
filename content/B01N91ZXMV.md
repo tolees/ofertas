@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.22033898305086 % en 'Michael Kors - Raven  Bolsos totes Mujer'
+title: 'Descuento del 32.22033898305086 % en Michael Kors - Raven  Bolsos totes Mujer'
 date: 2019/11/23 15:53:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lO9vFJUgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lO9vFJUgL._SL200_.jpg' ]

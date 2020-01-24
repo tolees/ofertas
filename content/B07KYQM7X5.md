@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.33958724202627 % en 'Springfield 6EC Pique Banda Hombro  Cami'
+title: 'Descuento del 43.33958724202627 % en Springfield 6EC Pique Banda Hombro  Cami'
 date: 2019/11/17 18:46:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iL6qvh9KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iL6qvh9KL._SL200_.jpg' ]

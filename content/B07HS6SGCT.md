@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sharp GX-BT180 BK  - Altavoz Bluetooth p' al 46.14556085551623 % de descuento
+title: 'Sharp GX-BT180 BK  - Altavoz Bluetooth p al 46.14556085551623 % de descuento'
 date: 2019/12/03 18:10:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51on4Yy%2BFiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51on4Yy%2BFiL._SL200_.jpg' ]

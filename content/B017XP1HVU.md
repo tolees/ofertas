@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Vancouver Jacket  Hombre  B' al 58.53571428571429 % de descuento
+title: 'Helly Hansen Vancouver Jacket  Hombre  B al 58.53571428571429 % de descuento'
 date: 2019/10/07 16:25:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bP9NxhjOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bP9NxhjOL._SL200_.jpg' ]

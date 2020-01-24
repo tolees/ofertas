@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.59983326385994 % en 'G-STAR RAW 3301 Saddle Mid Waist Boyfrie'
+title: 'Descuento del 39.59983326385994 % en G-STAR RAW 3301 Saddle Mid Waist Boyfrie'
 date: 2019/10/15 13:16:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wKi380tZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wKi380tZL._SL200_.jpg' ]

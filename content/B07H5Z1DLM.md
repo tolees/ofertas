@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.03753127606338 % en 'Skechers Flex Appeal 3.0  Zapatillas par'
+title: 'Descuento del 45.03753127606338 % en Skechers Flex Appeal 3.0  Zapatillas par'
 date: 2020-01-06 18:26:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vW9mFamsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vW9mFamsL._SL200_.jpg' ]

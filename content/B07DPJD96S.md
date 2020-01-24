@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Love Moschino - Borsa Pu  Bolsos maletín' al 42.275769745649264 % de descuento
+title: 'Love Moschino - Borsa Pu  Bolsos maletín al 42.275769745649264 % de descuento'
 date: 2019/11/25 00:50:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EiEZnATTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EiEZnATTL._SL200_.jpg' ]

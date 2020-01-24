@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York - Master Strobing St' al 36.04004449388209 % de descuento
+title: 'Maybelline New York - Master Strobing St al 36.04004449388209 % de descuento'
 date: 2019/12/29 10:08:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UVXDd8nnL._SL200_.jpg' ]

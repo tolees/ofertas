@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas PV19 2058ROJO Falda   R' al 53.55222013758599 % de descuento
+title: 'Dolores Promesas PV19 2058ROJO Falda   R al 53.55222013758599 % de descuento'
 date: 2019/11/09 22:22:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bm6DfAKdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bm6DfAKdL._SL200_.jpg' ]

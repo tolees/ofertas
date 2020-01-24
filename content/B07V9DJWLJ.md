@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Feob Batería Externa  Batería Portátil p' al 76.40909090909092 % de descuento
+title: 'Feob Batería Externa  Batería Portátil p al 76.40909090909092 % de descuento'
 date: 2019/10/31 16:51:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414pbM8t9HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414pbM8t9HL._SL200_.jpg' ]

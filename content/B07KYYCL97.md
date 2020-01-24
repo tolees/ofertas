@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panama Jack Vera Clay  Sandalia con Puls' al 63.090909090909086 % de descuento
+title: 'Panama Jack Vera Clay  Sandalia con Puls al 63.090909090909086 % de descuento'
 date: 2019/11/12 06:29:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lu-aJVsiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lu-aJVsiL._SL200_.jpg' ]

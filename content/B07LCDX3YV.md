@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.33370370781898 % en 'Lenovo Ideapad 330  Ordenador Portátil F'
+title: 'Descuento del 33.33370370781898 % en Lenovo Ideapad 330  Ordenador Portátil F'
 date: 2020-01-20 17:25:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BbH3iEgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I%2BbH3iEgL._SL200_.jpg' ]

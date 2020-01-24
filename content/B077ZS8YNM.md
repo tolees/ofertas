@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT Slim Desert Jeans Vaqueros  Azul  N' al 40.1200100008334 % de descuento
+title: 'GANT Slim Desert Jeans Vaqueros  Azul  N al 40.1200100008334 % de descuento'
 date: 2019/11/12 23:10:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311w17o7PYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311w17o7PYL._SL200_.jpg' ]

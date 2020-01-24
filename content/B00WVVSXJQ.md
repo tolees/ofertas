@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.31707317073171 % en 'Dockers 23da004  Botas Militar para Homb'
+title: 'Descuento del 27.31707317073171 % en Dockers 23da004  Botas Militar para Homb'
 date: 2019/12/01 09:52:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410K9ffCpdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410K9ffCpdL._SL200_.jpg' ]

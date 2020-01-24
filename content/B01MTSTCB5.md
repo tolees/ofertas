@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Smart Home Raumklima Starter-Set m' al 47.22878177524657 % de descuento
+title: 'Bosch Smart Home Raumklima Starter-Set m al 47.22878177524657 % de descuento'
 date: 2019/12/05 16:04:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hursmoJ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hursmoJ2L._SL200_.jpg' ]

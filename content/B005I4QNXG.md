@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.070140280561116 % en 'BaByliss Easy Wave C260E - Plancha de pe'
+title: 'Descuento del 25.070140280561116 % en BaByliss Easy Wave C260E - Plancha de pe'
 date: 2019-12-31 16:53:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J6TZSfIsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J6TZSfIsL._SL200_.jpg' ]

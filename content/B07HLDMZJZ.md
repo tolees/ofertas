@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS  64GB  - Gris Espacial' al 32.723772858517805 % de descuento
+title: 'Apple iPhone XS  64GB  - Gris Espacial al 32.723772858517805 % de descuento'
 date: 2020-01-21 08:45:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t9poOATPL._SL200_.jpg' ]

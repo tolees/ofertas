@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor All Star Hi  Zapat' al 51.52528766390152 % de descuento
+title: 'Converse Chuck Taylor All Star Hi  Zapat al 51.52528766390152 % de descuento'
 date: 2019/10/19 08:46:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BdE49WXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q%2BdE49WXL._SL200_.jpg' ]

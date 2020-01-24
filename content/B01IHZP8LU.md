@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.21818181818182 % en 'The North Face Tekware TNF Jersey 100 Gl'
+title: 'Descuento del 35.21818181818182 % en The North Face Tekware TNF Jersey 100 Gl'
 date: 2019/12/15 10:36:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y6nHTnSHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y6nHTnSHL._SL200_.jpg' ]

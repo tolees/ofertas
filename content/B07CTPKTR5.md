@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0625 % en 'Under Armour Breathe Trainer  Zapatillas'
+title: 'Descuento del 40.0625 % en Under Armour Breathe Trainer  Zapatillas'
 date: 2019/10/17 07:48:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41huGKvd4RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41huGKvd4RL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans_Apparel Overbrook S Chaqueta  Negro' al 43.220000000000006 % de descuento
+title: 'Vans_Apparel Overbrook S Chaqueta  Negro al 43.220000000000006 % de descuento'
 date: 2019/11/15 19:08:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lZ3jl4c9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lZ3jl4c9L._SL200_.jpg' ]

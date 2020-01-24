@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SYOSIN Báscula digital Báscula de baño B' al 33.34259516532371 % de descuento
+title: 'SYOSIN Báscula digital Báscula de baño B al 33.34259516532371 % de descuento'
 date: 2020-01-22 13:05:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JOGgktpXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JOGgktpXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. 70114 camisetas  Negro  Black   40' al 70.0 % de descuento
+title: 'find. 70114 camisetas  Negro  Black   40 al 70.0 % de descuento'
 date: 2019/11/23 14:12:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qRqh1ruNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qRqh1ruNL._SL200_.jpg' ]

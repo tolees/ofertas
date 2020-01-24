@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.6454330086865 % en 'deAO 2-in-1 Puppenhaus Handtasche Traget'
+title: 'Descuento del 52.6454330086865 % en deAO 2-in-1 Puppenhaus Handtasche Traget'
 date: 2020-01-21 18:09:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i3kr4lulL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i3kr4lulL._SL200_.jpg' ]

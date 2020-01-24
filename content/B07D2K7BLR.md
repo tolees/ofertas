@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Generous Ed. Limitada Capacidad Suje' al 64.26735218508996 % de descuento
+title: 'Dim Generous Ed. Limitada Capacidad Suje al 64.26735218508996 % de descuento'
 date: 2019/10/22 22:59:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wWqj-fG4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wWqj-fG4L._SL200_.jpg' ]

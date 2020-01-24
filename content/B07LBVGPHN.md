@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.226533166458076 % en 'Blend Outerwear Chaqueta  Azul  Niagara '
+title: 'Descuento del 61.226533166458076 % en Blend Outerwear Chaqueta  Azul  Niagara '
 date: 2019/11/12 15:55:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41goYzdc2SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41goYzdc2SL._SL200_.jpg' ]

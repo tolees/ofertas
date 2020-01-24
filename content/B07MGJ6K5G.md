@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 85.72653236176596 % en 'Spike Volleyball  Versión Española '
+title: 'Descuento del 85.72653236176596 % en Spike Volleyball  Versión Española '
 date: 2019/11/07 07:27:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PIV4sy%2B7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PIV4sy%2B7L._SL200_.jpg' ]

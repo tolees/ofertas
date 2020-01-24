@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Urban Classics 2-Tone Tech Windrunner Ch' al 44.20821114369502 % de descuento
+title: 'Urban Classics 2-Tone Tech Windrunner Ch al 44.20821114369502 % de descuento'
 date: 2019-12-31 17:34:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wCUOUIdqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wCUOUIdqL._SL200_.jpg' ]

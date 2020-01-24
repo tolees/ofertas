@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BILLABONG Divine Vestido  Negro  Black 1' al 56.00000000000001 % de descuento
+title: 'BILLABONG Divine Vestido  Negro  Black 1 al 56.00000000000001 % de descuento'
 date: 2020-01-19 11:44:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TmFSXEEmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TmFSXEEmL._SL200_.jpg' ]

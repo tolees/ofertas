@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Homgeek Báscula Digital para Cocina  50g' al 60.01500375093774 % de descuento
+title: 'Homgeek Báscula Digital para Cocina  50g al 60.01500375093774 % de descuento'
 date: 2019/10/23 20:08:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AscMuQCzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AscMuQCzL._SL200_.jpg' ]

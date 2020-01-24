@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.666666666666675 % en 'Rimmel London The Only One Lipstick Barr'
+title: 'Descuento del 29.666666666666675 % en Rimmel London The Only One Lipstick Barr'
 date: 2019/12/22 21:50:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wIPNa8K7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wIPNa8K7L._SL200_.jpg' ]

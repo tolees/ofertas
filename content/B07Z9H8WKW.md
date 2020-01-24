@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '4G Tablets 10 Pulgadas 64GB  3GB RAM Dua' al 40.00833333333333 % de descuento
+title: '4G Tablets 10 Pulgadas 64GB  3GB RAM Dua al 40.00833333333333 % de descuento'
 date: 2020-01-13 01:02:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HmZjopGNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HmZjopGNL._SL200_.jpg' ]

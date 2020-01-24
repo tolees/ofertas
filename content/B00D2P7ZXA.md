@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LTB Tinman  Vaqueros Para Hombre  Azul  ' al 30.00374111485222 % de descuento
+title: 'LTB Tinman  Vaqueros Para Hombre  Azul   al 30.00374111485222 % de descuento'
 date: 2019/11/30 21:20:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N-VLHSVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N-VLHSVML._SL200_.jpg' ]

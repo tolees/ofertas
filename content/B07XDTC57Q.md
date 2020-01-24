@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tablet para Niños 7 Pulgadas con WiFi An' al 25.015626953369175 % de descuento
+title: 'Tablet para Niños 7 Pulgadas con WiFi An al 25.015626953369175 % de descuento'
 date: 2020-01-20 12:17:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WU5wiRxKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WU5wiRxKL._SL200_.jpg' ]

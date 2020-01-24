@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.447236180904525 % en 'Napapijri Rainforest S Pkt Black Chaquet'
+title: 'Descuento del 30.447236180904525 % en Napapijri Rainforest S Pkt Black Chaquet'
 date: 2019/12/06 15:17:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ql0l-98uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ql0l-98uL._SL200_.jpg' ]

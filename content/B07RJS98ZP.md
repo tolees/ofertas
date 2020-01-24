@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rodillo de jade  Incluye tres cabezas re' al 50.00833472245374 % de descuento
+title: 'Rodillo de jade  Incluye tres cabezas re al 50.00833472245374 % de descuento'
 date: 2020-01-01 13:03:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cl%2B5A8tbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cl%2B5A8tbL._SL200_.jpg' ]

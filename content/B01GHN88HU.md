@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZEISS VR ONE Plus - Virtual Reality Bril' al 75.30434782608695 % de descuento
+title: 'ZEISS VR ONE Plus - Virtual Reality Bril al 75.30434782608695 % de descuento'
 date: 2019/11/23 11:05:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zgFKLgNcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zgFKLgNcL._SL200_.jpg' ]

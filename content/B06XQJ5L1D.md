@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.75 % en 'Vans_Apparel Chalkboard Plus  Leggings p'
+title: 'Descuento del 47.75 % en Vans_Apparel Chalkboard Plus  Leggings p'
 date: 2019/11/14 19:48:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZmiNj1roL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZmiNj1roL._SL200_.jpg' ]

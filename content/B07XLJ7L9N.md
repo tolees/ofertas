@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UCMDA Funda para Xiaomi Redmi Note 8 con' al 27.2975432211101 % de descuento
+title: 'UCMDA Funda para Xiaomi Redmi Note 8 con al 27.2975432211101 % de descuento'
 date: 2019/12/03 12:03:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414mZPQ0q6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414mZPQ0q6L._SL200_.jpg' ]

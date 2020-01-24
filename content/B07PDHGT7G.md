@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.77208326045129 % en 'Burton Menswear London Globe Hooded Jack'
+title: 'Descuento del 58.77208326045129 % en Burton Menswear London Globe Hooded Jack'
 date: 2019/11/11 17:19:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E1CRD5ZTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E1CRD5ZTL._SL200_.jpg' ]

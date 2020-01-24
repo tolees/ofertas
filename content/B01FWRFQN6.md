@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.29251466022766 % en 'Sternitz Botella de Agua Hydra Acero Ino'
+title: 'Descuento del 48.29251466022766 % en Sternitz Botella de Agua Hydra Acero Ino'
 date: 2020-01-24 13:36:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oViV-+tRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oViV-+tRL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pingo Pañales Talla 3 Midi  4-9 kg  - Ca' al 33.4375 % de descuento
+title: 'Pingo Pañales Talla 3 Midi  4-9 kg  - Ca al 33.4375 % de descuento'
 date: 2019/10/19 15:55:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rxZ3tZ-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rxZ3tZ-7L._SL200_.jpg' ]

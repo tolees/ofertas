@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dickies Torrance Gabardina  Gris  Charco' al 59.69491525423729 % de descuento
+title: 'dickies Torrance Gabardina  Gris  Charco al 59.69491525423729 % de descuento'
 date: 2019/12/03 12:49:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DSP3B9fLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DSP3B9fLL._SL200_.jpg' ]

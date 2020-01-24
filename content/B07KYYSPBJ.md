@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.21030042918454 % en '3 Pommes 3n17013 Cardigan Chaqueta Punto'
+title: 'Descuento del 67.21030042918454 % en 3 Pommes 3n17013 Cardigan Chaqueta Punto'
 date: 2019/11/13 11:33:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WK8AaPceL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WK8AaPceL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Zinc Short Camou Pantalones C' al 84.50643776824035 % de descuento
+title: 'Pepe Jeans Zinc Short Camou Pantalones C al 84.50643776824035 % de descuento'
 date: 2019/10/22 10:38:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41irZ2F-CKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41irZ2F-CKL._SL200_.jpg' ]

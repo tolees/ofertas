@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett High Vaqueros  Negro  Black' al 67.93774319066148 % de descuento
+title: 'Lee Scarlett High Vaqueros  Negro  Black al 67.93774319066148 % de descuento'
 date: 2019/11/12 21:26:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PeKs%2Bh1uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PeKs%2Bh1uL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual TS_Silvia Camisa Manga Larga  N' al 49.1891891891892 % de descuento
+title: 'Desigual TS_Silvia Camisa Manga Larga  N al 49.1891891891892 % de descuento'
 date: 2019/11/08 05:32:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K78orDb9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K78orDb9L._SL200_.jpg' ]

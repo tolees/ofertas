@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.99786652443495 % en 'Ready 2 Robot Serie 1 - Big Slime Battle'
+title: 'Descuento del 67.99786652443495 % en Ready 2 Robot Serie 1 - Big Slime Battle'
 date: 2019/12/22 09:51:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n-oVYinsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n-oVYinsL._SL200_.jpg' ]

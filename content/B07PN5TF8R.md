@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sik Silk SS-13821 Jeremy Vine Baseball T' al 58.759521218715996 % de descuento
+title: 'Sik Silk SS-13821 Jeremy Vine Baseball T al 58.759521218715996 % de descuento'
 date: 2019/10/11 19:52:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eyORo2nrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eyORo2nrL._SL200_.jpg' ]

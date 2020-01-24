@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '16G Reproductor MP3 Bluetooth 4.0 Mibao ' al 34.58623825401638 % de descuento
+title: '16G Reproductor MP3 Bluetooth 4.0 Mibao  al 34.58623825401638 % de descuento'
 date: 2020-01-04 09:15:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AK53e56pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AK53e56pL._SL200_.jpg' ]

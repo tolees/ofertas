@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.0 % en 'Geox J MUNFREY Boy A  Zapatillas para Ni'
+title: 'Descuento del 38.0 % en Geox J MUNFREY Boy A  Zapatillas para Ni'
 date: 2019/11/15 09:42:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K04XrEtDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K04XrEtDL._SL200_.jpg' ]

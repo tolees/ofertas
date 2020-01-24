@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.855258051998455 % en 'Ewent Teclado para móvil - teclados para'
+title: 'Descuento del 48.855258051998455 % en Ewent Teclado para móvil - teclados para'
 date: 2019/10/26 18:55:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iKhUPuXGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iKhUPuXGL._SL200_.jpg' ]

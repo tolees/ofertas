@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TACKLIFE - Juego de taladros profesional' al 78.14676818402721 % de descuento
+title: 'TACKLIFE - Juego de taladros profesional al 78.14676818402721 % de descuento'
 date: 2020-01-15 12:39:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TZ89cM27L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TZ89cM27L._SL200_.jpg' ]

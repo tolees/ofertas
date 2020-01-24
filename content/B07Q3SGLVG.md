@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorcole Shirt SS Org Camisa' al 69.98999666555518 % de descuento
+title: 'JACK & JONES Jorcole Shirt SS Org Camisa al 69.98999666555518 % de descuento'
 date: 2019/11/13 11:08:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qDnR7d%2BaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qDnR7d%2BaL._SL200_.jpg' ]

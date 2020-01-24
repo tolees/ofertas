@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Vista Mid WTR  Zapatillas Altas Uni' al 49.22087205146533 % de descuento
+title: 'PUMA Vista Mid WTR  Zapatillas Altas Uni al 49.22087205146533 % de descuento'
 date: 2020-01-16 09:53:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L33AwF1LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L33AwF1LL._SL200_.jpg' ]

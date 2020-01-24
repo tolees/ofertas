@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.62725779967159 % en 'Revlon ColorStay 24H Makeup 180 Sand Bei'
+title: 'Descuento del 52.62725779967159 % en Revlon ColorStay 24H Makeup 180 Sand Bei'
 date: 2019/10/14 13:55:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31suJkEgNoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31suJkEgNoL._SL200_.jpg' ]

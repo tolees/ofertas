@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.871428571428574 % en 'SALOMON Discovery Lt FZ M Chaqueta Polar'
+title: 'Descuento del 42.871428571428574 % en SALOMON Discovery Lt FZ M Chaqueta Polar'
 date: 2019/12/01 13:32:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UWooiz3cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UWooiz3cL._SL200_.jpg' ]

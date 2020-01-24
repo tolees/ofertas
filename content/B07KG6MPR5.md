@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ICRA Trainer SD Jr  Zapatillas Unis' al 40.100125156445564 % de descuento
+title: 'PUMA ICRA Trainer SD Jr  Zapatillas Unis al 40.100125156445564 % de descuento'
 date: 2020-01-21 07:21:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NxxaiJi1L._SL200_.jpg' ]

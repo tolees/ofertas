@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Armour Mid Crossback Bra Su' al 45.742857142857154 % de descuento
+title: 'Under Armour Armour Mid Crossback Bra Su al 45.742857142857154 % de descuento'
 date: 2019/12/18 17:59:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EHtbR15ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EHtbR15ZL._SL200_.jpg' ]

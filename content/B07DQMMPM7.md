@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Call Of Duty: Black Ops 4 - Pro Edition' al 30.771597815216566 % de descuento
+title: 'Call Of Duty: Black Ops 4 - Pro Edition al 30.771597815216566 % de descuento'
 date: 2019/10/09 13:15:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510oARlx5-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510oARlx5-L._SL200_.jpg' ]

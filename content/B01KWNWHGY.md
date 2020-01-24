@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huntvp 12L Mochila de Asalto Militar Tác' al 53.76344086021506 % de descuento
+title: 'Huntvp 12L Mochila de Asalto Militar Tác al 53.76344086021506 % de descuento'
 date: 2020-01-22 13:23:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oPO5fN9CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oPO5fN9CL._SL200_.jpg' ]

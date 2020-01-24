@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour HOVR Sonic 2  Zapatillas de' al 50.83333333333333 % de descuento
+title: 'Under Armour HOVR Sonic 2  Zapatillas de al 50.83333333333333 % de descuento'
 date: 2019/12/02 07:48:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414AywDfSoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414AywDfSoL._SL200_.jpg' ]

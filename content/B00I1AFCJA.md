@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Industrial Work Pant  Pantalones' al 53.813559322033896 % de descuento
+title: 'Dickies Industrial Work Pant  Pantalones al 53.813559322033896 % de descuento'
 date: 2019/11/01 17:21:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lYMQJDnHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lYMQJDnHL._SL200_.jpg' ]

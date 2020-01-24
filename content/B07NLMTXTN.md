@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.92773763201778 % en 'Top Top jacorale Jersey  Rojo  Coral 107'
+title: 'Descuento del 69.92773763201778 % en Top Top jacorale Jersey  Rojo  Coral 107'
 date: 2019/10/27 13:31:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X%2BKYuPCFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X%2BKYuPCFL._SL200_.jpg' ]

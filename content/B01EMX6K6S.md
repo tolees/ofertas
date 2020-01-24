@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Habitdesign 004586F - Mesa de Comedor Ex' al 26.348808030112924 % de descuento
+title: 'Habitdesign 004586F - Mesa de Comedor Ex al 26.348808030112924 % de descuento'
 date: 2019/12/20 08:33:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EMIy9I8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EMIy9I8GL._SL200_.jpg' ]

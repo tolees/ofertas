@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Bóxer Largos de Deporte para Hombr' al 25.0 % de descuento
+title: 'find. Bóxer Largos de Deporte para Hombr al 25.0 % de descuento'
 date: 2019/12/26 20:11:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Aveca2XIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Aveca2XIL._SL200_.jpg' ]

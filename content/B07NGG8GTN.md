@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.433962264150935 % en 'BRA Dupla Premiere - Sartén doble para t'
+title: 'Descuento del 26.433962264150935 % en BRA Dupla Premiere - Sartén doble para t'
 date: 2019/12/03 09:34:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yn1IAQXrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yn1IAQXrL._SL200_.jpg' ]

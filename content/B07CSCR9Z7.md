@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.67151956323931 % en 'Puma Mega NRGY Heather Knit Jr  Zapatill'
+title: 'Descuento del 58.67151956323931 % en Puma Mega NRGY Heather Knit Jr  Zapatill'
 date: 2019/11/07 13:13:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dhpc-kSsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dhpc-kSsL._SL200_.jpg' ]

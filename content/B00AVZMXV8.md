@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.01538461538461 % en 'Vans Atwood  Zapatillas para Hombre  Neg'
+title: 'Descuento del 34.01538461538461 % en Vans Atwood  Zapatillas para Hombre  Neg'
 date: 2019/10/09 14:26:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UNr29SiDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UNr29SiDL._SL200_.jpg' ]

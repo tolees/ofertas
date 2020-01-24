@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Staub - Olla Cocotte redonda  hierro fun' al 45.251141552511406 % de descuento
+title: 'Staub - Olla Cocotte redonda  hierro fun al 45.251141552511406 % de descuento'
 date: 2019/12/05 12:40:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Au0cezmuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Au0cezmuL._SL200_.jpg' ]

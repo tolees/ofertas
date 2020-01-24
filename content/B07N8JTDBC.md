@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel C7Bcc Basico Polo  Rojo  Gama ' al 50.01667222407469 % de descuento
+title: 'Cortefiel C7Bcc Basico Polo  Rojo  Gama  al 50.01667222407469 % de descuento'
 date: 2019/12/05 00:02:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VswmhreqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VswmhreqL._SL200_.jpg' ]

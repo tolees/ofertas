@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gomyhom Rosa 24K  Rosa de Oro Chapada en' al 63.19330787415895 % de descuento
+title: 'Gomyhom Rosa 24K  Rosa de Oro Chapada en al 63.19330787415895 % de descuento'
 date: 2019/10/13 23:46:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fvRuRDLJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fvRuRDLJL._SL200_.jpg' ]

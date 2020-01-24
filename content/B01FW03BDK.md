@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Iluminación infantil LED integra' al 50.087609511889866 % de descuento
+title: 'Philips Iluminación infantil LED integra al 50.087609511889866 % de descuento'
 date: 2019/12/17 21:57:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516-aMojPRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516-aMojPRL._SL200_.jpg' ]

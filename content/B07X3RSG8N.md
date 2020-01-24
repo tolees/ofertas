@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AC750 Repetidor de WiFi Amplificador Señ' al 38.00760152030407 % de descuento
+title: 'AC750 Repetidor de WiFi Amplificador Señ al 38.00760152030407 % de descuento'
 date: 2020-01-09 14:18:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YyKqemGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YyKqemGL._SL200_.jpg' ]

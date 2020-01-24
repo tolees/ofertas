@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.025012506253134 % en 'BOSS Schino-Regular D Pantalones  Azul  '
+title: 'Descuento del 50.025012506253134 % en BOSS Schino-Regular D Pantalones  Azul  '
 date: 2020-01-20 19:36:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ufWAXF61L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ufWAXF61L._SL200_.jpg' ]

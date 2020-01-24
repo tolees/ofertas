@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.40740740740741 % en 'Trixie 2 Botas Confort Walker  Perros  N'
+title: 'Descuento del 37.40740740740741 % en Trixie 2 Botas Confort Walker  Perros  N'
 date: 2019/10/08 13:50:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UP581fWKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UP581fWKL._SL200_.jpg' ]

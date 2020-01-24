@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.24396782841822 % en 'Better Call Saul - Temporada 2 BD  [Blu-'
+title: 'Descuento del 33.24396782841822 % en Better Call Saul - Temporada 2 BD  [Blu-'
 date: 2019/11/29 22:02:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EpMCwDn7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EpMCwDn7L._SL200_.jpg' ]

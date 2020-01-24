@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Silk·Expert Pro 5 PL5014  Depilado' al 32.4032634032634 % de descuento
+title: 'Braun Silk·Expert Pro 5 PL5014  Depilado al 32.4032634032634 % de descuento'
 date: 2020-01-03 20:24:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NQ1jXmojL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NQ1jXmojL._SL200_.jpg' ]

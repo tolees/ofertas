@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.93333333333334 % en 'Armani Exchange Logo  Under  Pantalones '
+title: 'Descuento del 41.93333333333334 % en Armani Exchange Logo  Under  Pantalones '
 date: 2019/10/12 02:32:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oBgXFsNHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oBgXFsNHL._SL200_.jpg' ]

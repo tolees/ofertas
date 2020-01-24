@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hapilife Grifo Cocina Pared Monomando Me' al 37.50781412794333 % de descuento
+title: 'Hapilife Grifo Cocina Pared Monomando Me al 37.50781412794333 % de descuento'
 date: 2020-01-11 12:27:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-baq85NOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-baq85NOL._SL200_.jpg' ]

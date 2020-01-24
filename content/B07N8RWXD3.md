@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.24117205108941 % en 'Wonderbra Ultimate Silhouette Micro T-Sh'
+title: 'Descuento del 59.24117205108941 % en Wonderbra Ultimate Silhouette Micro T-Sh'
 date: 2019/10/18 08:38:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WqMD%2BTeFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WqMD%2BTeFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Liga Casuals Hoody Sudadera con Cap' al 49.18662449164031 % de descuento
+title: 'Puma Liga Casuals Hoody Sudadera con Cap al 49.18662449164031 % de descuento'
 date: 2019/12/17 08:19:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BhOzGGt3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BhOzGGt3L._SL200_.jpg' ]

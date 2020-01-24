@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.62100456621004 % en 'Candle: The Power Of The Flame - Signatu'
+title: 'Descuento del 56.62100456621004 % en Candle: The Power Of The Flame - Signatu'
 date: 2019/12/17 18:56:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SiPhVECZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SiPhVECZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch PSS 250 AE Lijadora en Maletín de ' al 50.81508150815082 % de descuento
+title: 'Bosch PSS 250 AE Lijadora en Maletín de  al 50.81508150815082 % de descuento'
 date: 2019/11/29 11:28:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XWW1NDEEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XWW1NDEEL._SL200_.jpg' ]

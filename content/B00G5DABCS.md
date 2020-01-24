@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garmin Forerunner 620 HRM - Reloj de car' al 37.59398496240601 % de descuento
+title: 'Garmin Forerunner 620 HRM - Reloj de car al 37.59398496240601 % de descuento'
 date: 2019/10/08 20:36:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lkAOZcklL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lkAOZcklL._SL200_.jpg' ]

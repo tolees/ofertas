@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Un Larvik Lace  Zapatos de Cordon' al 40.04545454545454 % de descuento
+title: 'Clarks Un Larvik Lace  Zapatos de Cordon al 40.04545454545454 % de descuento'
 date: 2020-01-21 08:34:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314OKVFMJML._SL200_.jpg' ]

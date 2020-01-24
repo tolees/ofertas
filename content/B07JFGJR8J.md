@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Mh7092 Bañador  Azul  Aquarium/M' al 35.4 % de descuento
+title: 'Lacoste Mh7092 Bañador  Azul  Aquarium/M al 35.4 % de descuento'
 date: 2019/10/11 08:26:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dn9RXIgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dn9RXIgPL._SL200_.jpg' ]

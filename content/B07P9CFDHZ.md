@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.10125744540039 % en 'Sujetador Deportivo Puma Density H  Muje'
+title: 'Descuento del 52.10125744540039 % en Sujetador Deportivo Puma Density H  Muje'
 date: 2019/10/18 03:06:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418BDKheEuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418BDKheEuL._SL200_.jpg' ]

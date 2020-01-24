@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.50234389649354 % en 'ALCATEL 3X Smartphone Quad Core 1.28 GHz'
+title: 'Descuento del 37.50234389649354 % en ALCATEL 3X Smartphone Quad Core 1.28 GHz'
 date: 2020-01-15 20:05:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GPJ6fkaOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GPJ6fkaOL._SL200_.jpg' ]

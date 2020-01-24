@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AMD AXRX Vega 56 8GBHBM2-- 3DH Grafikkar' al 33.30618063333672 % de descuento
+title: 'AMD AXRX Vega 56 8GBHBM2-- 3DH Grafikkar al 33.30618063333672 % de descuento'
 date: 2019/10/18 15:13:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MwkfvLtsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MwkfvLtsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.0 % en 'Samsonite Cosmolite Beauty Case Kulturta'
+title: 'Descuento del 35.0 % en Samsonite Cosmolite Beauty Case Kulturta'
 date: 2019/11/26 08:59:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HEn4CB1BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HEn4CB1BL._SL200_.jpg' ]

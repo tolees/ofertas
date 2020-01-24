@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe Essence Professional - Grifo de fr' al 48.529556795992036 % de descuento
+title: 'Grohe Essence Professional - Grifo de fr al 48.529556795992036 % de descuento'
 date: 2019/12/17 13:12:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HzpZ8ZPXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HzpZ8ZPXL._SL200_.jpg' ]

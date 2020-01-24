@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tech Pant Pantalones  Hombr' al 45.707692307692305 % de descuento
+title: 'Under Armour Tech Pant Pantalones  Hombr al 45.707692307692305 % de descuento'
 date: 2019/10/18 00:51:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A8Y1kurnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A8Y1kurnL._SL200_.jpg' ]

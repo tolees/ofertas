@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.930855661192744 % en 'Kärcher Pistola pulverizadora  2.645-265'
+title: 'Descuento del 39.930855661192744 % en Kärcher Pistola pulverizadora  2.645-265'
 date: 2020-01-06 12:02:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c9tasLOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c9tasLOJL._SL200_.jpg' ]

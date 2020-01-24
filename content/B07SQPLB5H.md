@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Calvin Mochila Adaptable  Mul' al 35.24390243902439 % de descuento
+title: 'Pepe Jeans Calvin Mochila Adaptable  Mul al 35.24390243902439 % de descuento'
 date: 2020-01-03 09:32:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yJ9avT2gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yJ9avT2gL._SL200_.jpg' ]

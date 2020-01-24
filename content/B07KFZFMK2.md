@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.16286826014453 % en 'PUMA Hybrid NX  Zapatillas de Running pa'
+title: 'Descuento del 53.16286826014453 % en PUMA Hybrid NX  Zapatillas de Running pa'
 date: 2019/11/21 21:01:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MD2f-00ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MD2f-00ML._SL200_.jpg' ]

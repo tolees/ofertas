@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frozen Disney Die Eiskönigin II Königlic' al 31.046552327616382 % de descuento
+title: 'Frozen Disney Die Eiskönigin II Königlic al 31.046552327616382 % de descuento'
 date: 2020-01-22 17:26:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518--wIriqL._SL200_.jpg' ]

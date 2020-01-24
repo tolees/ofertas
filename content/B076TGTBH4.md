@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.00347856335333 % en 'My Lovely Bed - Edredón Nórdico 4 Estaci'
+title: 'Descuento del 40.00347856335333 % en My Lovely Bed - Edredón Nórdico 4 Estaci'
 date: 2019/12/26 19:27:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510z9-MsKHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510z9-MsKHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face W TBL Sport Jkt Chaqueta ' al 43.02700169858842 % de descuento
+title: 'The North Face W TBL Sport Jkt Chaqueta  al 43.02700169858842 % de descuento'
 date: 2019/12/17 18:33:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XppcJQuFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XppcJQuFL._SL200_.jpg' ]

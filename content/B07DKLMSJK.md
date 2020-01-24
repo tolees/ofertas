@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Crew Sweat TR Big Logo Sweatshi' al 28.9210233592881 % de descuento
+title: 'PUMA ESS Crew Sweat TR Big Logo Sweatshi al 28.9210233592881 % de descuento'
 date: 2020-01-03 20:04:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410lk0PUAwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410lk0PUAwL._SL200_.jpg' ]

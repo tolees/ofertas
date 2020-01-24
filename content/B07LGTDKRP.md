@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bombilla Inteligente WiFi LED 7W  iHaper' al 33.34444814938313 % de descuento
+title: 'Bombilla Inteligente WiFi LED 7W  iHaper al 33.34444814938313 % de descuento'
 date: 2019/12/13 16:09:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kqTfVsZiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kqTfVsZiL._SL200_.jpg' ]

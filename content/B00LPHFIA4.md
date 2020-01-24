@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.16774573278399 % en 'BLACK+DECKER GPC1820L20-QW - Motosierra '
+title: 'Descuento del 35.16774573278399 % en BLACK+DECKER GPC1820L20-QW - Motosierra '
 date: 2019/10/22 11:57:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yuYoKXZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yuYoKXZBL._SL200_.jpg' ]

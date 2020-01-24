@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.37041156840935 % en 'PUMA Future 4.4 FG/AG Jr  Botas de fútbo'
+title: 'Descuento del 33.37041156840935 % en PUMA Future 4.4 FG/AG Jr  Botas de fútbo'
 date: 2019/10/19 18:06:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f2JOrfQhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f2JOrfQhL._SL200_.jpg' ]

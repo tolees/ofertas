@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Slip Mes ESSENTIELS by Dentelle Pant' al 25.251798561151073 % de descuento
+title: 'Dim Slip Mes ESSENTIELS by Dentelle Pant al 25.251798561151073 % de descuento'
 date: 2019/10/31 08:44:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gBk8HFEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gBk8HFEGL._SL200_.jpg' ]

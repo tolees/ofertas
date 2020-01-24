@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL Christmas 9494 Lichterbogen "W' al 33.644548182727576 % de descuento
+title: 'PLAYMOBIL Christmas 9494 Lichterbogen "W al 33.644548182727576 % de descuento'
 date: 2019/12/20 08:33:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615dDUL6-2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/615dDUL6-2L._SL200_.jpg' ]

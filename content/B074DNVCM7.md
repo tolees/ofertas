@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.22837139523254 % en 'K-Swiss Aeronaut  Zapatillas para Niños '
+title: 'Descuento del 70.22837139523254 % en K-Swiss Aeronaut  Zapatillas para Niños '
 date: 2019/10/14 15:48:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HFBa1o9DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HFBa1o9DL._SL200_.jpg' ]

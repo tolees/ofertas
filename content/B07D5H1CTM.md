@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oregon Scientific RAR502SX - Estación me' al 40.63096645149559 % de descuento
+title: 'Oregon Scientific RAR502SX - Estación me al 40.63096645149559 % de descuento'
 date: 2019/11/12 11:34:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410eJ4T8jDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410eJ4T8jDL._SL200_.jpg' ]

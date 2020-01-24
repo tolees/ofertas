@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Dublin B  Zapatos de Cordones Bro' al 49.96996996996997 % de descuento
+title: 'Geox U Dublin B  Zapatos de Cordones Bro al 49.96996996996997 % de descuento'
 date: 2020-01-15 17:12:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZKmK54V2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZKmK54V2L._SL200_.jpg' ]

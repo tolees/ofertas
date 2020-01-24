@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Maria Pl203428 Vaqueros evasé' al 57.97979797979798 % de descuento
+title: 'Pepe Jeans Maria Pl203428 Vaqueros evasé al 57.97979797979798 % de descuento'
 date: 2019/10/07 23:55:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GkoKt5xtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GkoKt5xtL._SL200_.jpg' ]

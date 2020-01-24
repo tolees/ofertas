@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fujifilm Fujinon XF 18-55 mm F2.8-4.0 R ' al 28.037383177570096 % de descuento
+title: 'Fujifilm Fujinon XF 18-55 mm F2.8-4.0 R  al 28.037383177570096 % de descuento'
 date: 2020-01-23 06:08:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qm1aqIo%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qm1aqIo%2BL._SL200_.jpg' ]

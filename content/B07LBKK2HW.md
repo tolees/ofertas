@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.40336134453781 % en 'Tommy Hilfiger Venice Slim RW Valentin V'
+title: 'Descuento del 64.40336134453781 % en Tommy Hilfiger Venice Slim RW Valentin V'
 date: 2019/10/17 12:40:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tbu6EfBZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tbu6EfBZL._SL200_.jpg' ]

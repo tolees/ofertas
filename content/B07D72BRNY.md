@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Deconstructed Skirt Falda  Negro ' al 55.15 % de descuento
+title: 'Levi s Deconstructed Skirt Falda  Negro  al 55.15 % de descuento'
 date: 2019/10/13 17:00:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ig72KR4YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ig72KR4YL._SL200_.jpg' ]

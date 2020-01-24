@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMERIL - Luces Bicicleta Delantera y Tra' al 48.29251466022766 % de descuento
+title: 'OMERIL - Luces Bicicleta Delantera y Tra al 48.29251466022766 % de descuento'
 date: 2020-01-23 20:28:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uF30qT14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uF30qT14L._SL200_.jpg' ]

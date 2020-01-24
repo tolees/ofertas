@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.28663330950679 % en 'Puma Carson 2 X Knit Wn s  Zapatillas de'
+title: 'Descuento del 61.28663330950679 % en Puma Carson 2 X Knit Wn s  Zapatillas de'
 date: 2019/11/09 21:06:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e6xifTM3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e6xifTM3L._SL200_.jpg' ]

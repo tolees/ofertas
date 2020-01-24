@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA St Runner V2 Mesh  Zapatillas Unise' al 28.225659690627847 % de descuento
+title: 'PUMA St Runner V2 Mesh  Zapatillas Unise al 28.225659690627847 % de descuento'
 date: 2020-01-23 10:24:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fg3dNdsmL._SL200_.jpg' ]

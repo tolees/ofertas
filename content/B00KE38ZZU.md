@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merc Harrington  Abrigos de Manga Larga ' al 30.526829268292687 % de descuento
+title: 'Merc Harrington  Abrigos de Manga Larga  al 30.526829268292687 % de descuento'
 date: 2019/10/16 08:01:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e5TIVgU9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e5TIVgU9L._SL200_.jpg' ]

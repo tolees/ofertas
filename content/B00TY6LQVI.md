@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face W Horizon Cvtbl Pls Panta' al 54.94505494505495 % de descuento
+title: 'The North Face W Horizon Cvtbl Pls Panta al 54.94505494505495 % de descuento'
 date: 2019/12/18 14:02:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31scKfO8pNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31scKfO8pNL._SL200_.jpg' ]

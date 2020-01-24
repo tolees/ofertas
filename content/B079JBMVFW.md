@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.962137448206875 % en 'Barbie Ambulancia Hospital 2 en 1  acces'
+title: 'Descuento del 34.962137448206875 % en Barbie Ambulancia Hospital 2 en 1  acces'
 date: 2020-01-24 10:14:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CBnzFu4qL._SL200_.jpg' ]

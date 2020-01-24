@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.6978021978022 % en 'HIKARO Parka Corta Hombre  Verde  Khaki '
+title: 'Descuento del 64.6978021978022 % en HIKARO Parka Corta Hombre  Verde  Khaki '
 date: 2019/12/25 14:59:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o7TRhZoyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o7TRhZoyL._SL200_.jpg' ]

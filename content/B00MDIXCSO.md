@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.476190476190478 % en 'Wolfpack 15050922 Cartel Cuidado Con Los'
+title: 'Descuento del 30.476190476190478 % en Wolfpack 15050922 Cartel Cuidado Con Los'
 date: 2019/10/21 17:48:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JRAJltsyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JRAJltsyL._SL200_.jpg' ]

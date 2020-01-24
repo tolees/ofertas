@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko SXA115P1 - Reloj analógico de muje' al 49.008402322995195 % de descuento
+title: 'Seiko SXA115P1 - Reloj analógico de muje al 49.008402322995195 % de descuento'
 date: 2019/10/29 11:13:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P-gf3qsJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P-gf3qsJL._SL200_.jpg' ]

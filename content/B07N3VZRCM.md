@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.53211009174312 % en 'Desigual Blouse LUMBE Blusa   Negro 2000'
+title: 'Descuento del 38.53211009174312 % en Desigual Blouse LUMBE Blusa   Negro 2000'
 date: 2019/12/18 17:47:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fQmEnbpjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.68812589413448 % en 'PUMA Cat tee Camiseta  Mujer  Gris  Ligh'
+title: 'Descuento del 61.68812589413448 % en PUMA Cat tee Camiseta  Mujer  Gris  Ligh'
 date: 2019/10/31 04:43:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wipTtFVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wipTtFVsL._SL200_.jpg' ]

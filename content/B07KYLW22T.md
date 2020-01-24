@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.86456329357445 % en 'Springfield 490 Naming Colores  Jersey p'
+title: 'Descuento del 47.86456329357445 % en Springfield 490 Naming Colores  Jersey p'
 date: 2019/11/11 20:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419kv23T-iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419kv23T-iL._SL200_.jpg' ]

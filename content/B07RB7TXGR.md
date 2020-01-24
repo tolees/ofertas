@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.310177705977395 % en 'Columbia Pike Lake Chaqueta  Mujer  Amar'
+title: 'Descuento del 32.310177705977395 % en Columbia Pike Lake Chaqueta  Mujer  Amar'
 date: 2020-01-21 13:27:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vpbyf-z7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vpbyf-z7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 34842 POP Vinyl: Fortnite: Love Ra' al 66.77777777777779 % de descuento
+title: 'Funko 34842 POP Vinyl: Fortnite: Love Ra al 66.77777777777779 % de descuento'
 date: 2019/12/16 15:11:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wtDp7spDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wtDp7spDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.75075987841946 % en 'Hugo Boss Watch Reloj Cronógrafo para Ho'
+title: 'Descuento del 57.75075987841946 % en Hugo Boss Watch Reloj Cronógrafo para Ho'
 date: 2019/12/01 09:07:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GAT6qWGoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GAT6qWGoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sartén Ø24 x 5 aluminio forjado  mango t' al 63.40905843691955 % de descuento
+title: 'Sartén Ø24 x 5 aluminio forjado  mango t al 63.40905843691955 % de descuento'
 date: 2019/10/13 18:38:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IxZXiZkRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IxZXiZkRL._SL200_.jpg' ]

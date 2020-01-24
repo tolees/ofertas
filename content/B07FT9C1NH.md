@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.025012506253134 % en 'Lee Rider  Vaqueros slim para Hombre  Az'
+title: 'Descuento del 50.025012506253134 % en Lee Rider  Vaqueros slim para Hombre  Az'
 date: 2019/11/04 12:32:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZSbV1PBDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZSbV1PBDL._SL200_.jpg' ]

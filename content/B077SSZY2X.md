@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Liga Training Windbreaker Chaqueta ' al 61.60145586897179 % de descuento
+title: 'Puma Liga Training Windbreaker Chaqueta  al 61.60145586897179 % de descuento'
 date: 2019/11/17 19:31:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GFolcENuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GFolcENuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.922608165752585 % en 'Love Moschino Logo Core_Short Sleeve T-S'
+title: 'Descuento del 46.922608165752585 % en Love Moschino Logo Core_Short Sleeve T-S'
 date: 2019/11/21 15:22:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EZGkQFk2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EZGkQFk2L._SL200_.jpg' ]

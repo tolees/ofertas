@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Liga Sideline Jacket Jr Camiseta de' al 65.2052052052052 % de descuento
+title: 'Puma Liga Sideline Jacket Jr Camiseta de al 65.2052052052052 % de descuento'
 date: 2019/11/04 06:24:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X6bKjswoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X6bKjswoL._SL200_.jpg' ]

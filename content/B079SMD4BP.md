@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vest_Chrystel  Vestido Mujer   Gris Alqu' al 44.08863473909936 % de descuento
+title: 'Vest_Chrystel  Vestido Mujer   Gris Alqu al 44.08863473909936 % de descuento'
 date: 2019/11/08 11:15:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t3MdOq1PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t3MdOq1PL._SL200_.jpg' ]

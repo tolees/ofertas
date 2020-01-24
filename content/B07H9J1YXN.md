@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Extreme PRO 64GB SDXC Speicherka' al 44.46091144868469 % de descuento
+title: 'SanDisk Extreme PRO 64GB SDXC Speicherka al 44.46091144868469 % de descuento'
 date: 2019/11/22 01:37:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C00BwTLaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C00BwTLaL._SL200_.jpg' ]

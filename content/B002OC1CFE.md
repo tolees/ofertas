@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.891783567134276 % en 'Buff Solid Gorro Lana Merino Lightweight'
+title: 'Descuento del 25.891783567134276 % en Buff Solid Gorro Lana Merino Lightweight'
 date: 2019/12/16 19:09:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ItrKFxNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ItrKFxNL._SL200_.jpg' ]

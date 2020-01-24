@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Control Xtra Sensation Preservativos - 1' al 42.53968253968253 % de descuento
+title: 'Control Xtra Sensation Preservativos - 1 al 42.53968253968253 % de descuento'
 date: 2020-01-06 07:39:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s2yk9IFML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s2yk9IFML._SL200_.jpg' ]

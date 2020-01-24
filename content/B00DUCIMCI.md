@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fossil Reloj Cronógrafo para Hombre de C' al 38.2751677852349 % de descuento
+title: 'Fossil Reloj Cronógrafo para Hombre de C al 38.2751677852349 % de descuento'
 date: 2020-01-15 12:39:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KE0nA-xiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KE0nA-xiL._SL200_.jpg' ]

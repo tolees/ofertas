@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.12755314714464 % en 's.Oliver SO-2534-LQ - Reloj analógico de'
+title: 'Descuento del 46.12755314714464 % en s.Oliver SO-2534-LQ - Reloj analógico de'
 date: 2020-01-11 08:23:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlVBBxOvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlVBBxOvL._SL200_.jpg' ]

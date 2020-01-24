@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.696151249155974 % en 'Mavala Mava Strong Base Fortalecedora y '
+title: 'Descuento del 49.696151249155974 % en Mavala Mava Strong Base Fortalecedora y '
 date: 2019/11/12 13:47:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SsEFgFq1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SsEFgFq1L._SL200_.jpg' ]

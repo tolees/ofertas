@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Barras Luminosas  Hieha 200 Piezas Glow ' al 56.42472428827905 % de descuento
+title: 'Barras Luminosas  Hieha 200 Piezas Glow  al 56.42472428827905 % de descuento'
 date: 2020-01-20 16:24:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Xt1PjmwpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Xt1PjmwpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ebanku Christmas Nail Art Stickers Decal' al 83.05036785512168 % de descuento
+title: 'Ebanku Christmas Nail Art Stickers Decal al 83.05036785512168 % de descuento'
 date: 2019/12/23 03:32:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61JvA-Kl9pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61JvA-Kl9pL._SL200_.jpg' ]

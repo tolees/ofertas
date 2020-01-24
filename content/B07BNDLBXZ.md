@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO Supermercado Tienda de Dulces Puest' al 65.15118075480027 % de descuento
+title: 'deAO Supermercado Tienda de Dulces Puest al 65.15118075480027 % de descuento'
 date: 2019/12/05 18:59:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iftW3oiwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iftW3oiwL._SL200_.jpg' ]

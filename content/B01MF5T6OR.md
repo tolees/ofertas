@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.24977457168621 % en 'Parker Urban 1931578 - Bolígrafo  purpur'
+title: 'Descuento del 47.24977457168621 % en Parker Urban 1931578 - Bolígrafo  purpur'
 date: 2019/10/06 19:22:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zvLXfOWnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zvLXfOWnL._SL200_.jpg' ]

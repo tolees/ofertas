@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.00533404453927 % en 'Braun Satin Hair 7 ST730 - Plancha de pe'
+title: 'Descuento del 40.00533404453927 % en Braun Satin Hair 7 ST730 - Plancha de pe'
 date: 2019/10/31 16:14:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yd6GDQg0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yd6GDQg0L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmhot SOYA LS Denim Jacket Mix' al 29.976658886295425 % de descuento
+title: 'Vero Moda Vmhot SOYA LS Denim Jacket Mix al 29.976658886295425 % de descuento'
 date: 2019/10/17 14:41:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FpqteCKcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FpqteCKcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lotus Reloj Cronógrafo para Hombre de Cu' al 31.92929292929293 % de descuento
+title: 'Lotus Reloj Cronógrafo para Hombre de Cu al 31.92929292929293 % de descuento'
 date: 2019/10/15 20:50:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D2b2QYzoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D2b2QYzoL._SL200_.jpg' ]

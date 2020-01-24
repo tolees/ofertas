@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tech21 T21-4283 Classic Check Case for A' al 71.11971603743143 % de descuento
+title: 'Tech21 T21-4283 Classic Check Case for A al 71.11971603743143 % de descuento'
 date: 2019/10/18 19:19:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y8CXZnUUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y8CXZnUUL._SL200_.jpg' ]

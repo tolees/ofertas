@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Artesania Cerda Personaje Toy Story Buzz' al 30.378787878787882 % de descuento
+title: 'Artesania Cerda Personaje Toy Story Buzz al 30.378787878787882 % de descuento'
 date: 2020-01-23 18:24:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qc3Z8R7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qc3Z8R7oL._SL200_.jpg' ]

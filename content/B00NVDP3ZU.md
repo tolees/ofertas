@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Classic 10696 Mittelgroße Bausteine' al 33.34444814938313 % de descuento
+title: 'LEGO Classic 10696 Mittelgroße Bausteine al 33.34444814938313 % de descuento'
 date: 2020-01-22 10:27:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AvlchGpNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AvlchGpNL._SL200_.jpg' ]

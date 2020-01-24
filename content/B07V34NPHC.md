@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00833472245374 % en 'Zapatillas de fútbol de Alta Gama para H'
+title: 'Descuento del 50.00833472245374 % en Zapatillas de fútbol de Alta Gama para H'
 date: 2019/10/30 18:22:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hu%2BIHuCsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hu%2BIHuCsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'All-new Fire HD 10 Tablet | 10.1" 1080p ' al 34.377148571785746 % de descuento
+title: 'All-new Fire HD 10 Tablet | 10.1" 1080p  al 34.377148571785746 % de descuento'
 date: 2019/11/23 19:55:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SxKx5qWbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SxKx5qWbL._SL200_.jpg' ]

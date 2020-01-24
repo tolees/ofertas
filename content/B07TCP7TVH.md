@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.059523809523814 % en 'Finocam Espiral Design Collection Elegan'
+title: 'Descuento del 30.059523809523814 % en Finocam Espiral Design Collection Elegan'
 date: 2020-01-10 13:37:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FPhtYLVAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FPhtYLVAL._SL200_.jpg' ]

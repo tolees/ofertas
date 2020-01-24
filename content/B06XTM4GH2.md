@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.25 % en 'Pepe Jeans Original Basic S/S PM503835 C'
+title: 'Descuento del 35.25 % en Pepe Jeans Original Basic S/S PM503835 C'
 date: 2019/11/10 10:37:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417PzA1mjyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417PzA1mjyL._SL200_.jpg' ]

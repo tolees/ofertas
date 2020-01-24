@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.895310068904212 % en 'LEGO Speed Champions - Dodge Challenger '
+title: 'Descuento del 28.895310068904212 % en LEGO Speed Champions - Dodge Challenger '
 date: 2019/12/23 13:09:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SjCGbFjOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SjCGbFjOL._SL200_.jpg' ]

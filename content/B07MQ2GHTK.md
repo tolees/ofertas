@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Un Costa Lace  Zapatos de Cordone' al 55.637818909454715 % de descuento
+title: 'Clarks Un Costa Lace  Zapatos de Cordone al 55.637818909454715 % de descuento'
 date: 2019/10/20 19:14:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T8yN47hML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T8yN47hML._SL200_.jpg' ]

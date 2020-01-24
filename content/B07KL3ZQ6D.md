@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.06677796327212 % en 'adidas Own The Run tee Camiseta  Hombre '
+title: 'Descuento del 40.06677796327212 % en adidas Own The Run tee Camiseta  Hombre '
 date: 2019/10/15 09:12:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GgmP3Fd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GgmP3Fd3L._SL200_.jpg' ]

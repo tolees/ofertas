@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.032032032032035 % en 'Adidas Runfalcon  Zapatillas de Trail Ru'
+title: 'Descuento del 32.032032032032035 % en Adidas Runfalcon  Zapatillas de Trail Ru'
 date: 2019/11/26 11:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ckw8fd44L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ckw8fd44L._SL200_.jpg' ]

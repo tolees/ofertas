@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.350422313887258 % en 'TP-Link EAP225 Punto de Acceso Gigabit I'
+title: 'Descuento del 26.350422313887258 % en TP-Link EAP225 Punto de Acceso Gigabit I'
 date: 2019/11/07 20:13:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-HOMD967L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-HOMD967L._SL200_.jpg' ]

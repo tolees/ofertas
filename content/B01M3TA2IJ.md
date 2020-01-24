@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.374175949079344 % en 'Cinturón para Embarazada de Seguridad en'
+title: 'Descuento del 46.374175949079344 % en Cinturón para Embarazada de Seguridad en'
 date: 2019/12/31 13:40:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414CVCSfQKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414CVCSfQKL._SL200_.jpg' ]

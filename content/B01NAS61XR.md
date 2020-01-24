@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dockers Washed Khaki Skinny-Stretch Twil' al 33.988634618338196 % de descuento
+title: 'Dockers Washed Khaki Skinny-Stretch Twil al 33.988634618338196 % de descuento'
 date: 2019/12/03 09:54:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Zt3TGz-oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Zt3TGz-oL._SL200_.jpg' ]

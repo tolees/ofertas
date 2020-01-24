@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooko Abridor de Vino Abrebotellas Sacac' al 47.95138888888889 % de descuento
+title: 'Cooko Abridor de Vino Abrebotellas Sacac al 47.95138888888889 % de descuento'
 date: 2019/12/23 08:43:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v6p5%2B78HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v6p5%2B78HL._SL200_.jpg' ]

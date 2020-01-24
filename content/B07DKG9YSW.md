@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0 % en 'Kipling - Creativity S  Monederos Mujer '
+title: 'Descuento del 40.0 % en Kipling - Creativity S  Monederos Mujer '
 date: 2019/10/24 22:27:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TBTVS0HqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TBTVS0HqL._SL200_.jpg' ]

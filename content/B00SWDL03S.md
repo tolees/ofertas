@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko Reloj Analógico de Cuarzo Unisex c' al 36.22373483279077 % de descuento
+title: 'Seiko Reloj Analógico de Cuarzo Unisex c al 36.22373483279077 % de descuento'
 date: 2019/10/27 06:56:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q8glkHgOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q8glkHgOL._SL200_.jpg' ]

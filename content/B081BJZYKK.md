@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.83989993746091 % en 'Jvchengxi Funda Protectora para Huawei W'
+title: 'Descuento del 43.83989993746091 % en Jvchengxi Funda Protectora para Huawei W'
 date: 2020-01-12 18:52:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414IAS16DSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414IAS16DSL._SL200_.jpg' ]

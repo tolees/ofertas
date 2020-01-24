@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aurique Bal1043 yoga leggings  Morado  N' al 32.97872340425532 % de descuento
+title: 'Aurique Bal1043 yoga leggings  Morado  N al 32.97872340425532 % de descuento'
 date: 2019/12/07 12:38:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wLGEi-CpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wLGEi-CpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Regi18 PES Jkt Sport Jacket  Homb' al 43.10806787734446 % de descuento
+title: 'Adidas Regi18 PES Jkt Sport Jacket  Homb al 43.10806787734446 % de descuento'
 date: 2019/12/17 19:53:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O7Qnbm5iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O7Qnbm5iL._SL200_.jpg' ]

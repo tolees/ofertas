@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Women s Casual Loose Sleeveless Sundress' al 73.10504040015391 % de descuento
+title: 'Women s Casual Loose Sleeveless Sundress al 73.10504040015391 % de descuento'
 date: 2020-01-16 08:23:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eNpcqj0uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eNpcqj0uL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Crevice Chaqueta Soft Shell  color' al 70.50705070507051 % de descuento
+title: 'Black Crevice Chaqueta Soft Shell  color al 70.50705070507051 % de descuento'
 date: 2019/10/24 09:11:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FCyfmuqHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FCyfmuqHL._SL200_.jpg' ]

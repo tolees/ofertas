@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Zero Rules Short Sleeve Shirt C' al 76.76478993998286 % de descuento
+title: 'Columbia Zero Rules Short Sleeve Shirt C al 76.76478993998286 % de descuento'
 date: 2020-01-09 12:24:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ANyg2gSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ANyg2gSyL._SL200_.jpg' ]

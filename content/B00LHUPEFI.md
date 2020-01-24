@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin SurgeCube - Regleta de protección' al 25.605214152700185 % de descuento
+title: 'Belkin SurgeCube - Regleta de protección al 25.605214152700185 % de descuento'
 date: 2019/11/26 10:11:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qvb0bAhJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qvb0bAhJL._SL200_.jpg' ]

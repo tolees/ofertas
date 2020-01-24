@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic Pique S/S Polo  Camisa ' al 55.61561561561561 % de descuento
+title: 'Superdry Classic Pique S/S Polo  Camisa  al 55.61561561561561 % de descuento'
 date: 2020-01-14 15:59:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R%2BzJawC0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R%2BzJawC0L._SL200_.jpg' ]

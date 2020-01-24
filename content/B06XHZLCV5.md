@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mustard Cactus - Divisor de Audio' al 55.865921787709496 % de descuento
+title: 'Mustard Cactus - Divisor de Audio al 55.865921787709496 % de descuento'
 date: 2020-01-08 17:37:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U1tauHCHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U1tauHCHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Bluetooth HAVIT Auricular in' al 41.67824395665464 % de descuento
+title: 'Auriculares Bluetooth HAVIT Auricular in al 41.67824395665464 % de descuento'
 date: 2019/11/20 17:44:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i35Fpu4ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i35Fpu4ML._SL200_.jpg' ]

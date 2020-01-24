@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01669449081803 % en 'Edge Entertainment Smash up-Cartas'
+title: 'Descuento del 30.01669449081803 % en Edge Entertainment Smash up-Cartas'
 date: 2019/12/27 21:02:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eoj6nk37L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eoj6nk37L._SL200_.jpg' ]

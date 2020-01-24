@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Neopulse - Spinner S  Ancho: 2' al 38.018181818181816 % de descuento
+title: 'Samsonite Neopulse - Spinner S  Ancho: 2 al 38.018181818181816 % de descuento'
 date: 2019/10/29 09:21:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xsbxRqSbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xsbxRqSbL._SL200_.jpg' ]

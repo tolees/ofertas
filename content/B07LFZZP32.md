@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Pavel Girl B  Zapatillas para Niñ' al 25.031289111389242 % de descuento
+title: 'Geox J Pavel Girl B  Zapatillas para Niñ al 25.031289111389242 % de descuento'
 date: 2019/12/14 07:15:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xKRLWhXWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xKRLWhXWL._SL200_.jpg' ]

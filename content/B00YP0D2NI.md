@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP K1500 - Teclado alámbrico - QWERTY Es' al 33.355570380253496 % de descuento
+title: 'HP K1500 - Teclado alámbrico - QWERTY Es al 33.355570380253496 % de descuento'
 date: 2019/10/26 20:27:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pd7sk6qDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pd7sk6qDL._SL200_.jpg' ]

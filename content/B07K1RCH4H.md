@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luces de Discoteca Luz nocturna Emooqi B' al 43.1266846361186 % de descuento
+title: 'Luces de Discoteca Luz nocturna Emooqi B al 43.1266846361186 % de descuento'
 date: 2019-12-31 15:36:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ox0mCxyDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ox0mCxyDL._SL200_.jpg' ]

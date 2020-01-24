@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HG Armour SS Camiseta  H' al 50.03333333333333 % de descuento
+title: 'Under Armour UA HG Armour SS Camiseta  H al 50.03333333333333 % de descuento'
 date: 2019/11/30 17:09:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9U60nDyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q9U60nDyL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.237767057201935 % en 'Philips SNOW 3.0 - Memoria USB de 64 GB'
+title: 'Descuento del 55.237767057201935 % en Philips SNOW 3.0 - Memoria USB de 64 GB'
 date: 2019/10/17 07:51:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PfzTY63RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PfzTY63RL._SL200_.jpg' ]

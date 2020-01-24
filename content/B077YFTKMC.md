@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HIKARO Sudadera con Capucha Hombre  Rojo' al 69.98330550918197 % de descuento
+title: 'HIKARO Sudadera con Capucha Hombre  Rojo al 69.98330550918197 % de descuento'
 date: 2019/10/21 08:15:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LBVB5JvNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LBVB5JvNL._SL200_.jpg' ]

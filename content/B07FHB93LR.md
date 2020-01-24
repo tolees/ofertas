@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Women s 311 Shaping Skinny Jeans ' al 30.000000000000004 % de descuento
+title: 'Levi s Women s 311 Shaping Skinny Jeans  al 30.000000000000004 % de descuento'
 date: 2019/12/09 08:29:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312i9kLvAgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312i9kLvAgL._SL200_.jpg' ]

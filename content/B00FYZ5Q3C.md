@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rubie s Official Disney Princess Classic' al 49.12427022518766 % de descuento
+title: 'Rubie s Official Disney Princess Classic al 49.12427022518766 % de descuento'
 date: 2019/12/23 16:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gpq9TB2sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gpq9TB2sL._SL200_.jpg' ]

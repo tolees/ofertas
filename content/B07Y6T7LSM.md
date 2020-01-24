@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zapatos de Seguridad Hombres  LM-30 Zapa' al 40.005715102157446 % de descuento
+title: 'Zapatos de Seguridad Hombres  LM-30 Zapa al 40.005715102157446 % de descuento'
 date: 2020-01-15 15:32:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pvaXTT1jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pvaXTT1jL._SL200_.jpg' ]

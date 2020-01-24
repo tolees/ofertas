@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.00723763570568 % en 'Hackett Parachute Belt 542 Cinturón  Roj'
+title: 'Descuento del 46.00723763570568 % en Hackett Parachute Belt 542 Cinturón  Roj'
 date: 2019/11/20 18:31:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zt5kW09qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zt5kW09qL._SL200_.jpg' ]

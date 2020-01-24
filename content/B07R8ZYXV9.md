@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Galileo Casa - Espejo de Puerta Blanco c' al 77.90088336577332 % de descuento
+title: 'Galileo Casa - Espejo de Puerta Blanco c al 77.90088336577332 % de descuento'
 date: 2019/11/04 18:24:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21GJR4-UArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21GJR4-UArL._SL200_.jpg' ]

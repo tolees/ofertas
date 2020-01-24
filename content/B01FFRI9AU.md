@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.3823064770932 % en 'ROYAL RASCALS Espejo para vigilar al beb'
+title: 'Descuento del 26.3823064770932 % en ROYAL RASCALS Espejo para vigilar al beb'
 date: 2019/10/23 16:08:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yD-J0T0-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yD-J0T0-L._SL200_.jpg' ]

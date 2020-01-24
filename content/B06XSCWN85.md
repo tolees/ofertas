@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Arishi  Zapatilla' al 59.82352941176471 % de descuento
+title: 'New Balance Fresh Foam Arishi  Zapatilla al 59.82352941176471 % de descuento'
 date: 2019/11/07 16:30:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hRciIjopL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hRciIjopL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo Tab E10 25  5 cm  10  1 Zoll HD I' al 33.55704697986577 % de descuento
+title: 'Lenovo Tab E10 25  5 cm  10  1 Zoll HD I al 33.55704697986577 % de descuento'
 date: 2019/12/14 07:40:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PD-6CQSGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PD-6CQSGL._SL200_.jpg' ]

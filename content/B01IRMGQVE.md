@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CMP Sudadera de forro polar para chico  ' al 49.34751087481876 % de descuento
+title: 'CMP Sudadera de forro polar para chico   al 49.34751087481876 % de descuento'
 date: 2019/11/05 12:09:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UOlqXcOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UOlqXcOpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compo 2036102011 Fungicida Rosales 750ml' al 58.83361921097771 % de descuento
+title: 'Compo 2036102011 Fungicida Rosales 750ml al 58.83361921097771 % de descuento'
 date: 2019/10/30 15:18:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BxOI-YBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BxOI-YBqL._SL200_.jpg' ]

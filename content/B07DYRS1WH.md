@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elgato Stream Deck Mini - Controlador pa' al 33.97698849424713 % de descuento
+title: 'Elgato Stream Deck Mini - Controlador pa al 33.97698849424713 % de descuento'
 date: 2019/11/29 07:56:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iErdCSCvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iErdCSCvL._SL200_.jpg' ]

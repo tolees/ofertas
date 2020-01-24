@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Stream 14-ds0000ns - Ordenador portát' al 33.33444448148272 % de descuento
+title: 'HP Stream 14-ds0000ns - Ordenador portát al 33.33444448148272 % de descuento'
 date: 2019/12/16 16:26:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hD9NSZfyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hD9NSZfyL._SL200_.jpg' ]

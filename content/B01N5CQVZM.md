@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.579832921520175 % en 'QNAP TS-431P Ethernet Torre Blanco NAS -'
+title: 'Descuento del 28.579832921520175 % en QNAP TS-431P Ethernet Torre Blanco NAS -'
 date: 2019/12/03 16:09:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FHPwIOgKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FHPwIOgKL._SL200_.jpg' ]

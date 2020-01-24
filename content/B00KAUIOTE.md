@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black+Decker A6485-XJ 3 bobinas de Hilo ' al 66.57381615598885 % de descuento
+title: 'Black+Decker A6485-XJ 3 bobinas de Hilo  al 66.57381615598885 % de descuento'
 date: 2019/10/22 03:54:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a63vjemBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a63vjemBL._SL200_.jpg' ]

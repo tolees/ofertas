@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas VL Court 2.0  Zapatillas para Hom' al 50.578406169665804 % de descuento
+title: 'Adidas VL Court 2.0  Zapatillas para Hom al 50.578406169665804 % de descuento'
 date: 2019/11/07 10:39:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ocdTpMYfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ocdTpMYfL._SL200_.jpg' ]

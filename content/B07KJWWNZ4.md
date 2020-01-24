@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.07802600866956 % en 'Quiksilver Everyday 15"-Short De Natació'
+title: 'Descuento del 34.07802600866956 % en Quiksilver Everyday 15"-Short De Natació'
 date: 2019/12/06 10:43:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bFVYAYEAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bFVYAYEAL._SL200_.jpg' ]

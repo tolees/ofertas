@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Luke Vaqueros  Kick It Cdpf  26W / 3' al 64.43221610805404 % de descuento
+title: 'Lee Luke Vaqueros  Kick It Cdpf  26W / 3 al 64.43221610805404 % de descuento'
 date: 2019/12/05 07:08:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VJCg6J-ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VJCg6J-ML._SL200_.jpg' ]

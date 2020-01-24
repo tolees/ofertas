@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vittoria Zaffiro Pro Home Trainer Cubier' al 34.404145077720216 % de descuento
+title: 'Vittoria Zaffiro Pro Home Trainer Cubier al 34.404145077720216 % de descuento'
 date: 2019/11/26 03:09:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xARiqSvAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xARiqSvAL._SL200_.jpg' ]

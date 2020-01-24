@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INTEY Limpiador Ultrasónico  Limpiador d' al 26.02 % de descuento
+title: 'INTEY Limpiador Ultrasónico  Limpiador d al 26.02 % de descuento'
 date: 2019/11/19 18:09:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419%2BO2VaX-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419%2BO2VaX-L._SL200_.jpg' ]

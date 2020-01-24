@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0 % en 'Skechers Flex Appeal 3.0-INSIDERS 13067 '
+title: 'Descuento del 40.0 % en Skechers Flex Appeal 3.0-INSIDERS 13067 '
 date: 2019/10/30 20:01:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGCpmVa-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BGCpmVa-L._SL200_.jpg' ]

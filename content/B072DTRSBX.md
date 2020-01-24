@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer VX5-591G-5872 - Ordenador Portátil ' al 27.531313033710568 % de descuento
+title: 'Acer VX5-591G-5872 - Ordenador Portátil  al 27.531313033710568 % de descuento'
 date: 2020-01-23 01:47:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LplYnVjaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LplYnVjaL._SL200_.jpg' ]

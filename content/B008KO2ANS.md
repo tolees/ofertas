@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.084951456310684 % en 'Monix Classica - Olla a presión tradicio'
+title: 'Descuento del 35.084951456310684 % en Monix Classica - Olla a presión tradicio'
 date: 2019/10/05 15:17:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TlgokZPiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TlgokZPiL._SL200_.jpg' ]

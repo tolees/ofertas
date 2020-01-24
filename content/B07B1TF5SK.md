@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.023209283713484 % en 'TOUCHBeauty TB-0601B Removedor eléctrico'
+title: 'Descuento del 58.023209283713484 % en TOUCHBeauty TB-0601B Removedor eléctrico'
 date: 2020-01-17 10:00:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hGE%2BydrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hGE%2BydrBL._SL200_.jpg' ]

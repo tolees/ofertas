@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH LIFA Stripe Crew Ropa In' al 39.275000000000006 % de descuento
+title: 'Helly Hansen HH LIFA Stripe Crew Ropa In al 39.275000000000006 % de descuento'
 date: 2019/12/26 14:07:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lqcqzm4JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lqcqzm4JL._SL200_.jpg' ]

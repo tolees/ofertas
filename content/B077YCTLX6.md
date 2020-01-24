@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.493882091212456 % en 'White Shark WS-SPARTACUSRED GM-1601 4800'
+title: 'Descuento del 44.493882091212456 % en White Shark WS-SPARTACUSRED GM-1601 4800'
 date: 2019/11/09 12:17:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313za%2Bvzr2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313za%2Bvzr2L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.133019423190095 % en 'Puma Placed Logo - Pack de 2 bóxers para'
+title: 'Descuento del 26.133019423190095 % en Puma Placed Logo - Pack de 2 bóxers para'
 date: 2019/10/10 11:51:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410U9ux1HlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410U9ux1HlL._SL200_.jpg' ]

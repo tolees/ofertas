@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.82911392405063 % en 'Gola Beta 2  Zapatillas Deportivas para '
+title: 'Descuento del 43.82911392405063 % en Gola Beta 2  Zapatillas Deportivas para '
 date: 2019/11/02 18:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EDcsh3pqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EDcsh3pqL._SL200_.jpg' ]

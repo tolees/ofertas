@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Emotion Training Top Camiseta de m' al 75.19747235387047 % de descuento
+title: 'Kempa Emotion Training Top Camiseta de m al 75.19747235387047 % de descuento'
 date: 2019/11/22 15:22:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RKFRNgquL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RKFRNgquL._SL200_.jpg' ]

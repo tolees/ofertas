@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Tendric 3D Mid Waist Boyfrien' al 76.23176323468111 % de descuento
+title: 'G-STAR RAW Tendric 3D Mid Waist Boyfrien al 76.23176323468111 % de descuento'
 date: 2020-01-23 19:34:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410DxwKFMtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410DxwKFMtL._SL200_.jpg' ]

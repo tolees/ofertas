@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.675000000000004 % en 'VAUDE 50393005500 Abrigo y Chaqueta - Ab'
+title: 'Descuento del 49.675000000000004 % en VAUDE 50393005500 Abrigo y Chaqueta - Ab'
 date: 2020-01-10 01:14:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EFmH0k5uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EFmH0k5uL._SL200_.jpg' ]

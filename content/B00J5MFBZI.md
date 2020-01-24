@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois Velvet Barra de Labios Líquida ' al 58.566978193146426 % de descuento
+title: 'Bourjois Velvet Barra de Labios Líquida  al 58.566978193146426 % de descuento'
 date: 2019/12/28 11:39:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4134bDvSjFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4134bDvSjFL._SL200_.jpg' ]

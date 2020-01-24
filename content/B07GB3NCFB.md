@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K-Swiss Performance KS Tfw Hypercourt Ex' al 75.55323925593329 % de descuento
+title: 'K-Swiss Performance KS Tfw Hypercourt Ex al 75.55323925593329 % de descuento'
 date: 2019/11/10 14:55:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UOBKw4ULL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UOBKw4ULL._SL200_.jpg' ]

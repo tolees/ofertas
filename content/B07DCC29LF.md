@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma BMW MMS Drift Cat 7 Ultra  Zapatill' al 52.63631815907954 % de descuento
+title: 'Puma BMW MMS Drift Cat 7 Ultra  Zapatill al 52.63631815907954 % de descuento'
 date: 2019/11/12 08:12:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FuphtJU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FuphtJU%2BL._SL200_.jpg' ]

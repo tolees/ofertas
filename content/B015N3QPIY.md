@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.528183716075155 % en 'Parker Sonnet - Bolígrafo  lacado en azu'
+title: 'Descuento del 43.528183716075155 % en Parker Sonnet - Bolígrafo  lacado en azu'
 date: 2020-01-04 08:02:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-uU54o14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-uU54o14L._SL200_.jpg' ]

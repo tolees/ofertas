@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Buzz Mochilla  Unisex Adulto  Verde' al 41.602671118530886 % de descuento
+title: 'PUMA Buzz Mochilla  Unisex Adulto  Verde al 41.602671118530886 % de descuento'
 date: 2019/12/17 10:43:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4142h6DWEYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4142h6DWEYL._SL200_.jpg' ]

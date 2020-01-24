@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.68556185395131 % en 'Auricular Bluetooth  HUNDA Auricular Inv'
+title: 'Descuento del 56.68556185395131 % en Auricular Bluetooth  HUNDA Auricular Inv'
 date: 2019/10/10 08:19:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zqKb9PDXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zqKb9PDXL._SL200_.jpg' ]

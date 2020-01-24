@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Bondi  Zapatillas de Running p' al 41.7076237284261 % de descuento
+title: 'Asics Gel-Bondi  Zapatillas de Running p al 41.7076237284261 % de descuento'
 date: 2020-01-06 20:32:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wNboNT1mL._SL200_.jpg' ]

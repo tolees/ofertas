@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.991998399679936 % en 'Farming Simulator 17: Platinum Edition'
+title: 'Descuento del 59.991998399679936 % en Farming Simulator 17: Platinum Edition'
 date: 2019/11/18 15:24:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61AE5qHegBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61AE5qHegBL._SL200_.jpg' ]

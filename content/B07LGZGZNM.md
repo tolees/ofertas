@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Tre' al 40.008001600320064 % de descuento
+title: 'BRIKSMAX Kit de Iluminación Led para Tre al 40.008001600320064 % de descuento'
 date: 2020-01-21 10:51:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413pNrOuHVL._SL200_.jpg' ]

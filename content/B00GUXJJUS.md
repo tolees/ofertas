@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Peakfreak Nomad Chukka WP Omni-' al 40.548277000990865 % de descuento
+title: 'Columbia Peakfreak Nomad Chukka WP Omni- al 40.548277000990865 % de descuento'
 date: 2019/12/23 10:17:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gZd2IFgSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gZd2IFgSL._SL200_.jpg' ]

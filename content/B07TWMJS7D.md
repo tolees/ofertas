@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dare 2b Men s Travail Pro Waterproof & B' al 64.01363636363637 % de descuento
+title: 'Dare 2b Men s Travail Pro Waterproof & B al 64.01363636363637 % de descuento'
 date: 2020-01-12 12:44:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UP8rfZ1FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UP8rfZ1FL._SL200_.jpg' ]

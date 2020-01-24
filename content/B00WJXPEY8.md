@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee LF0450FZ  Cinturón Para Hombre  Negr' al 63.00300300300301 % de descuento
+title: 'Lee LF0450FZ  Cinturón Para Hombre  Negr al 63.00300300300301 % de descuento'
 date: 2019/12/07 17:08:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cyDJxUlYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cyDJxUlYL._SL200_.jpg' ]

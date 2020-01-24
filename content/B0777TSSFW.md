@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 28632 S4 Demogorgon POP Vinylfigur' al 35.73981415296641 % de descuento
+title: 'Funko 28632 S4 Demogorgon POP Vinylfigur al 35.73981415296641 % de descuento'
 date: 2020-01-20 02:21:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410GOyFmTuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410GOyFmTuL._SL200_.jpg' ]

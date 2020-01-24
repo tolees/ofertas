@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Sipsey Cinturón  Marrón  Medium B' al 53.69207772795217 % de descuento
+title: 'Levi s Sipsey Cinturón  Marrón  Medium B al 53.69207772795217 % de descuento'
 date: 2019/11/21 08:17:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ygB2BffCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ygB2BffCL._SL200_.jpg' ]

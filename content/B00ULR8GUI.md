@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Domo DO522S Eléctrico 200W Rojo rebanado' al 26.331360946745562 % de descuento
+title: 'Domo DO522S Eléctrico 200W Rojo rebanado al 26.331360946745562 % de descuento'
 date: 2019/10/26 07:02:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mA-4JcVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mA-4JcVsL._SL200_.jpg' ]

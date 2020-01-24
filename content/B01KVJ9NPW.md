@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 79.07722007722008 % en 's.Oliver BLACK LABEL 7611843242  Trajes '
+title: 'Descuento del 79.07722007722008 % en s.Oliver BLACK LABEL 7611843242  Trajes '
 date: 2019/10/19 10:37:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AfyKBwK3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AfyKBwK3L._SL200_.jpg' ]

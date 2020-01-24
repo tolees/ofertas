@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KLAR FIT Klarfit Jumpadalic Pro Cama elá' al 55.00275013750689 % de descuento
+title: 'KLAR FIT Klarfit Jumpadalic Pro Cama elá al 55.00275013750689 % de descuento'
 date: 2019/10/14 20:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MrlVHKItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MrlVHKItL._SL200_.jpg' ]

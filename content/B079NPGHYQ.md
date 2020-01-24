@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.14463368477968 % en 'Amzdeal Crimpadora de Terminales Eléctri'
+title: 'Descuento del 35.14463368477968 % en Amzdeal Crimpadora de Terminales Eléctri'
 date: 2019/10/06 07:26:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wSZopXUoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wSZopXUoL._SL200_.jpg' ]

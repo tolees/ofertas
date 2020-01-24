@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NutriZing Suplemento de Omega-3~2000mg  ' al 31.137931034482758 % de descuento
+title: 'NutriZing Suplemento de Omega-3~2000mg   al 31.137931034482758 % de descuento'
 date: 2019/11/14 11:39:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zh%2B6z-zcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zh%2B6z-zcL._SL200_.jpg' ]

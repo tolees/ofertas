@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma LIGA Sideline Poly Core  Chaqueta d' al 49.95708154506438 % de descuento
+title: 'Puma LIGA Sideline Poly Core  Chaqueta d al 49.95708154506438 % de descuento'
 date: 2019/12/19 14:39:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413jHicWg6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413jHicWg6L._SL200_.jpg' ]

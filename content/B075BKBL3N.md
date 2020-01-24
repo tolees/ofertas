@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein - Night Out Small Shoulder ' al 50.19444444444445 % de descuento
+title: 'Calvin Klein - Night Out Small Shoulder  al 50.19444444444445 % de descuento'
 date: 2019/11/20 19:55:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SOxCdjkdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SOxCdjkdL._SL200_.jpg' ]

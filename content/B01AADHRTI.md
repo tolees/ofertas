@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Club Legging Logo 2 Mallas  Mujer  ' al 40.44 % de descuento
+title: 'Nike Club Legging Logo 2 Mallas  Mujer   al 40.44 % de descuento'
 date: 2019/12/27 15:05:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wq0456lNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wq0456lNL._SL200_.jpg' ]

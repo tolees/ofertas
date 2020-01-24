@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Series 9 9296cc Wet&Dry  - Afeitad' al 35.20490010208547 % de descuento
+title: 'Braun Series 9 9296cc Wet&Dry  - Afeitad al 35.20490010208547 % de descuento'
 date: 2020-01-15 16:35:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zK0cCAAnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zK0cCAAnL._SL200_.jpg' ]

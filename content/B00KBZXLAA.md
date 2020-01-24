@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Evening Dress Samantha  Vestido de No' al 79.91782229070364 % de descuento
+title: 'My Evening Dress Samantha  Vestido de No al 79.91782229070364 % de descuento'
 date: 2019/11/20 22:55:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YuV3yqRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YuV3yqRBL._SL200_.jpg' ]

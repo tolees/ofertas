@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Diam s Control Modern Braguita  Negr' al 29.999999999999993 % de descuento
+title: 'Dim Diam s Control Modern Braguita  Negr al 29.999999999999993 % de descuento'
 date: 2019/11/01 17:25:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bk-MxMkeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bk-MxMkeL._SL200_.jpg' ]

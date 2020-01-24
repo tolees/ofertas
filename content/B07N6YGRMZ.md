@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.961389961389955 % en 'Tuc Tuc Camiseta Punto NIÑA ROJA Chalk P'
+title: 'Descuento del 49.961389961389955 % en Tuc Tuc Camiseta Punto NIÑA ROJA Chalk P'
 date: 2020-01-21 14:22:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415PMFjt%2B%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415PMFjt%2B%2BL._SL200_.jpg' ]

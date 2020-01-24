@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Spectre x360 15-df0106ng  15 6 Zoll/ ' al 54.19677598665926 % de descuento
+title: 'HP Spectre x360 15-df0106ng  15 6 Zoll/  al 54.19677598665926 % de descuento'
 date: 2020-01-10 09:16:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RQPj0ZUhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RQPj0ZUhL._SL200_.jpg' ]

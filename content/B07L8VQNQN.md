@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Far Cry New Dawn  Edición Exclusiva Amaz' al 31.355639875819254 % de descuento
+title: 'Far Cry New Dawn  Edición Exclusiva Amaz al 31.355639875819254 % de descuento'
 date: 2019/10/22 19:17:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VzQBO%2BeiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VzQBO%2BeiL._SL200_.jpg' ]

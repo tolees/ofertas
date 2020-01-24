@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.2237736542348 % en 'SELECTED HOMME Shdonesel-siam Shirt LS S'
+title: 'Descuento del 74.2237736542348 % en SELECTED HOMME Shdonesel-siam Shirt LS S'
 date: 2019/12/31 11:08:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RN0q7aUOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RN0q7aUOL._SL200_.jpg' ]

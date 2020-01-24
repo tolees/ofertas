@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Phoenix 9  Zapatillas de Runni' al 42.920417202457486 % de descuento
+title: 'Asics Gel-Phoenix 9  Zapatillas de Runni al 42.920417202457486 % de descuento'
 date: 2019/10/21 17:05:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QZ0t8zNnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QZ0t8zNnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roge Cavailles Limpieza Personal 1 Unida' al 42.36001265422335 % de descuento
+title: 'Roge Cavailles Limpieza Personal 1 Unida al 42.36001265422335 % de descuento'
 date: 2019/10/26 02:46:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cn5gTjgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cn5gTjgwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gricol Estante para Esquinas de Ducha Si' al 48.51515151515152 % de descuento
+title: 'Gricol Estante para Esquinas de Ducha Si al 48.51515151515152 % de descuento'
 date: 2019/11/16 15:13:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sb9kccCeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sb9kccCeL._SL200_.jpg' ]

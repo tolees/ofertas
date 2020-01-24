@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'decool 2 en 1 Hover Craft o Lucha Avión ' al 42.1274354923644 % de descuento
+title: 'decool 2 en 1 Hover Craft o Lucha Avión  al 42.1274354923644 % de descuento'
 date: 2020-01-23 18:20:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LLBi1YJbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LLBi1YJbL._SL200_.jpg' ]

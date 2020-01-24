@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YOSICIL Princesa Disfraz Frozen Elsa Ver' al 32.09186840471757 % de descuento
+title: 'YOSICIL Princesa Disfraz Frozen Elsa Ver al 32.09186840471757 % de descuento'
 date: 2019/12/23 17:18:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519jgxJ8C1L._SL200_.jpg' ]

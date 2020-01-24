@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Solar Glide M - Zapatillas de Dep' al 32.83315469810646 % de descuento
+title: 'Adidas Solar Glide M - Zapatillas de Dep al 32.83315469810646 % de descuento'
 date: 2019/11/10 11:47:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41epWb2z3vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41epWb2z3vL._SL200_.jpg' ]

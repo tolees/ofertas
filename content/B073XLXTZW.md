@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.006251562890736 % en 'Woxter Stinger RX 1500 M - Ratón gaming '
+title: 'Descuento del 25.006251562890736 % en Woxter Stinger RX 1500 M - Ratón gaming '
 date: 2019/11/06 16:00:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gCU4CP4IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gCU4CP4IL._SL200_.jpg' ]

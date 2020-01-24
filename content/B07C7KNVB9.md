@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel-33283 Pop Bobble  Multicolor  Fun' al 44.99999999999999 % de descuento
+title: 'Marvel-33283 Pop Bobble  Multicolor  Fun al 44.99999999999999 % de descuento'
 date: 2020-01-15 14:43:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-0ezdtxrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-0ezdtxrL._SL200_.jpg' ]

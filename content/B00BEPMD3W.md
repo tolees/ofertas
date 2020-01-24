@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.3030303030303 % en 'Timex Reloj de Pulsera T5K735'
+title: 'Descuento del 50.3030303030303 % en Timex Reloj de Pulsera T5K735'
 date: 2019/10/09 16:45:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LL5OOhvFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LL5OOhvFL._SL200_.jpg' ]

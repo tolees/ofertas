@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Jr Superfly 6 Elite FG  Zapatillas ' al 59.81137467847957 % de descuento
+title: 'Nike Jr Superfly 6 Elite FG  Zapatillas  al 59.81137467847957 % de descuento'
 date: 2019/10/24 22:45:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YLMWavrUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YLMWavrUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scotch & Soda Classic Hooded Down Jacket' al 54.99374843710928 % de descuento
+title: 'Scotch & Soda Classic Hooded Down Jacket al 54.99374843710928 % de descuento'
 date: 2019/10/13 09:26:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W0w1soXIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W0w1soXIL._SL200_.jpg' ]

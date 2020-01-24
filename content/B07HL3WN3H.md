@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Pantalones con cintu' al 35.29411764705882 % de descuento
+title: 'Amazon Essentials - Pantalones con cintu al 35.29411764705882 % de descuento'
 date: 2019/11/08 16:35:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jOLdlMvdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jOLdlMvdL._SL200_.jpg' ]

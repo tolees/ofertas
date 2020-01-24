@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Astro Cup SL  Zapatillas Unisex Adu' al 32.643869891576315 % de descuento
+title: 'PUMA Astro Cup SL  Zapatillas Unisex Adu al 32.643869891576315 % de descuento'
 date: 2019/11/09 16:49:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xxrWbJY9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xxrWbJY9L._SL200_.jpg' ]

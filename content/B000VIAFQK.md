@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland 6-Inch Premium WP  Botas Clas' al 57.699999999999996 % de descuento
+title: 'Timberland 6-Inch Premium WP  Botas Clas al 57.699999999999996 % de descuento'
 date: 2019/10/17 20:22:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CvcnwZmhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CvcnwZmhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Superfly 6 Academy FG/MG  Zapatilla' al 33.3370374486054 % de descuento
+title: 'Nike Superfly 6 Academy FG/MG  Zapatilla al 33.3370374486054 % de descuento'
 date: 2019/10/19 09:00:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BMhDm9sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BMhDm9sL._SL200_.jpg' ]

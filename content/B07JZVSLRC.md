@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jerseys De Punto para Mujer Cuello de To' al 60.06006006006006 % de descuento
+title: 'Jerseys De Punto para Mujer Cuello de To al 60.06006006006006 % de descuento'
 date: 2019/12/02 04:32:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aId0K7iKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aId0K7iKL._SL200_.jpg' ]

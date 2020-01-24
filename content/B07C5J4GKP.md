@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Andven Bluetooth Empfänger für Auto Ster' al 52.19660722053065 % de descuento
+title: 'Andven Bluetooth Empfänger für Auto Ster al 52.19660722053065 % de descuento'
 date: 2020-01-11 14:16:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gjYVL2eRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gjYVL2eRL._SL200_.jpg' ]

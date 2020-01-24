@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tamaris Damen 1-1-25129-23 Stiefeletten ' al 40.67542213883678 % de descuento
+title: 'Tamaris Damen 1-1-25129-23 Stiefeletten  al 40.67542213883678 % de descuento'
 date: 2020-01-04 08:45:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31soHXSSebL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31soHXSSebL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WOSTOO Toalla de Pelo  2 Piezas de Micro' al 44.469149527515285 % de descuento
+title: 'WOSTOO Toalla de Pelo  2 Piezas de Micro al 44.469149527515285 % de descuento'
 date: 2019/12/05 00:00:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oMEJIcFkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oMEJIcFkL._SL200_.jpg' ]

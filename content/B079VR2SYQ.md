@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Artist Fabrica Monstruosa Slime  BIZAK 6' al 45.711835334476845 % de descuento
+title: 'Artist Fabrica Monstruosa Slime  BIZAK 6 al 45.711835334476845 % de descuento'
 date: 2020-01-07 12:56:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GN7gtJQqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GN7gtJQqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.34285714285714 % en 'Zapatos de Trabajo Muy cómodos para Trab'
+title: 'Descuento del 34.34285714285714 % en Zapatos de Trabajo Muy cómodos para Trab'
 date: 2020-01-11 16:37:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sk2bPFnoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sk2bPFnoL._SL200_.jpg' ]

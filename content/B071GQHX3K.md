@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Johnnie Walker Blue Label Whisky Edición' al 33.96698113207547 % de descuento
+title: 'Johnnie Walker Blue Label Whisky Edición al 33.96698113207547 % de descuento'
 date: 2019/11/11 09:09:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DQ-BhL4eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DQ-BhL4eL._SL200_.jpg' ]

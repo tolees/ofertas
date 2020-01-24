@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.67834793491866 % en 'Einhell  4513495 RT-SD 3 6/2 Li Kit  -  '
+title: 'Descuento del 42.67834793491866 % en Einhell  4513495 RT-SD 3 6/2 Li Kit  -  '
 date: 2020-01-08 11:43:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516cXConfrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.07142857142857 % en 'Calvin Klein Medium Drawstring Bañador d'
+title: 'Descuento del 44.07142857142857 % en Calvin Klein Medium Drawstring Bañador d'
 date: 2019/11/09 01:32:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m5TP9iK%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m5TP9iK%2BL._SL200_.jpg' ]

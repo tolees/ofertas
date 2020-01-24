@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon AF-S DX 18-140mm f/3.5-5.6G ED VR ' al 48.4473870239142 % de descuento
+title: 'Nikon AF-S DX 18-140mm f/3.5-5.6G ED VR  al 48.4473870239142 % de descuento'
 date: 2019/12/27 16:10:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OJXTYOVOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OJXTYOVOL._SL200_.jpg' ]

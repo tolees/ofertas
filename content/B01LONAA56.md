@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch TDS6030 EasyComfort Serie 6 - Cent' al 34.319526627218934 % de descuento
+title: 'Bosch TDS6030 EasyComfort Serie 6 - Cent al 34.319526627218934 % de descuento'
 date: 2019/11/27 19:06:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QQPv9OvNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QQPv9OvNL._SL200_.jpg' ]

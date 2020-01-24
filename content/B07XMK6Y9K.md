@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.177059276366435 % en 'Samsung  Smart TV con Resolución con 4K '
+title: 'Descuento del 29.177059276366435 % en Samsung  Smart TV con Resolución con 4K '
 date: 2019/12/27 13:20:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DkfEUKl4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DkfEUKl4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21150 Minecraft Skeleton BigFig Mag' al 25.01924557351809 % de descuento
+title: 'LEGO 21150 Minecraft Skeleton BigFig Mag al 25.01924557351809 % de descuento'
 date: 2019/11/14 09:03:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z0iNPd7xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z0iNPd7xL._SL200_.jpg' ]

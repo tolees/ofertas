@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Ultraboost 19 W  Zapatillas de Ru' al 53.25923867741038 % de descuento
+title: 'adidas Ultraboost 19 W  Zapatillas de Ru al 53.25923867741038 % de descuento'
 date: 2020-01-15 11:36:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EI-nFyEtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EI-nFyEtL._SL200_.jpg' ]

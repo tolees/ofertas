@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kasa Smart Plug by TP-Link  WiFi Outlet ' al 40.02001000500249 % de descuento
+title: 'Kasa Smart Plug by TP-Link  WiFi Outlet  al 40.02001000500249 % de descuento'
 date: 2019/11/29 12:01:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cCE5Y8NDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cCE5Y8NDL._SL200_.jpg' ]

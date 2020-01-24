@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.71078976640712 % en 'Cardinal Games 6044936L.O.L. Surprise! 4'
+title: 'Descuento del 39.71078976640712 % en Cardinal Games 6044936L.O.L. Surprise! 4'
 date: 2020-01-08 22:12:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bn-8fyxxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bn-8fyxxL._SL200_.jpg' ]

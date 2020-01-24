@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.720763723150355 % en 'JACK & JONES Jorcolby Shirt LS Camisa   '
+title: 'Descuento del 42.720763723150355 % en JACK & JONES Jorcolby Shirt LS Camisa   '
 date: 2019/11/04 18:02:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fS9i15N5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fS9i15N5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luz de Noche USB 3D  ilusión  Siete Colo' al 36.46071700991609 % de descuento
+title: 'Luz de Noche USB 3D  ilusión  Siete Colo al 36.46071700991609 % de descuento'
 date: 2019/12/09 00:01:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YtgpxJfdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YtgpxJfdL._SL200_.jpg' ]

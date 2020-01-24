@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daniel Wellington Reloj con Correa de Ac' al 35.238095238095234 % de descuento
+title: 'Daniel Wellington Reloj con Correa de Ac al 35.238095238095234 % de descuento'
 date: 2020-01-20 17:24:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LiuhqVckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LiuhqVckL._SL200_.jpg' ]

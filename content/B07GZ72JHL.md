@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.991952481318258 % en 'Tamron T81141 - Objetivo SP 15-30mm F/2.'
+title: 'Descuento del 25.991952481318258 % en Tamron T81141 - Objetivo SP 15-30mm F/2.'
 date: 2020-01-16 15:49:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zysYQdHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zysYQdHxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Dolomo  Botas Clasicas para Hombre' al 49.61201501877347 % de descuento
+title: 'Kappa Dolomo  Botas Clasicas para Hombre al 49.61201501877347 % de descuento'
 date: 2019-12-31 19:07:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nFlkuvYHL._SL200_.jpg' ]

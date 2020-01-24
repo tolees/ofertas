@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link DAP-1610 - Repetidor WiFi AC1200 ' al 37.509377344336094 % de descuento
+title: 'D-Link DAP-1610 - Repetidor WiFi AC1200  al 37.509377344336094 % de descuento'
 date: 2019/12/21 01:14:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VNFeVSi3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VNFeVSi3L._SL200_.jpg' ]

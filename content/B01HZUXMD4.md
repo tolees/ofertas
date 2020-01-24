@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Wmns Classic Cortez Nylon  Zapatill' al 42.160493827160494 % de descuento
+title: 'Nike Wmns Classic Cortez Nylon  Zapatill al 42.160493827160494 % de descuento'
 date: 2019/10/22 22:37:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uNfI1gqnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uNfI1gqnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas X 18.3 Fg J Zapatillas de Fútbol ' al 42.675159235668794 % de descuento
+title: 'Adidas X 18.3 Fg J Zapatillas de Fútbol  al 42.675159235668794 % de descuento'
 date: 2019/10/09 16:35:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m7ugQEOlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m7ugQEOlL._SL200_.jpg' ]

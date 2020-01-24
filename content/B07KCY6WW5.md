@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.2 % en 'Hurley W One & Only Rashguard S/S LYCRAS'
+title: 'Descuento del 42.2 % en Hurley W One & Only Rashguard S/S LYCRAS'
 date: 2019/11/20 17:06:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31quTbMk%2BgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31quTbMk%2BgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Vest_Gina  Vestido para Mujer  ' al 45.51594746716698 % de descuento
+title: 'Desigual Vest_Gina  Vestido para Mujer   al 45.51594746716698 % de descuento'
 date: 2019/10/08 14:44:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4154qkOEaHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4154qkOEaHL._SL200_.jpg' ]

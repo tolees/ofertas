@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.00857387825093 % en 'Crocs Classic Clog  Zuecos Unisex Adulto'
+title: 'Descuento del 30.00857387825093 % en Crocs Classic Clog  Zuecos Unisex Adulto'
 date: 2020-01-22 18:19:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31heTJCN3NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31heTJCN3NL._SL200_.jpg' ]

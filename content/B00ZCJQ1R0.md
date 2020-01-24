@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEABAGS Philadelphia Monedero para Mujer' al 67.85994998213647 % de descuento
+title: 'LEABAGS Philadelphia Monedero para Mujer al 67.85994998213647 % de descuento'
 date: 2020-01-19 08:08:47
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

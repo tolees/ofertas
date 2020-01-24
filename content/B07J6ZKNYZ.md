@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XAED - Pantalón corto de fitness para mu' al 49.97617913292044 % de descuento
+title: 'XAED - Pantalón corto de fitness para mu al 49.97617913292044 % de descuento'
 date: 2019/10/28 15:29:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RPclJYQLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RPclJYQLL._SL200_.jpg' ]

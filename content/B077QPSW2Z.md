@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2750-cotbumpj  Zapatillas Unisex' al 60.0204081632653 % de descuento
+title: 'Superga 2750-cotbumpj  Zapatillas Unisex al 60.0204081632653 % de descuento'
 date: 2019/11/23 21:20:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uHUtmizIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uHUtmizIL._SL200_.jpg' ]

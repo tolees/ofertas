@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.27027614698847 % en 'tomtoc 14" Funda Portátil Protectora de '
+title: 'Descuento del 43.27027614698847 % en tomtoc 14" Funda Portátil Protectora de '
 date: 2019/12/14 01:52:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FZKNsP4EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FZKNsP4EL._SL200_.jpg' ]

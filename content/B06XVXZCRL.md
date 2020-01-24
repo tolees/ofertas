@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 599386031 - Figura Tekken - Nina W' al 74.3175487465181 % de descuento
+title: 'Funko 599386031 - Figura Tekken - Nina W al 74.3175487465181 % de descuento'
 date: 2019/12/04 13:39:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v6uoz2mfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v6uoz2mfL._SL200_.jpg' ]

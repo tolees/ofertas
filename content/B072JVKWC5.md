@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34568358651353 % en 'Pecute Comedero para Perro Gato y Mascot'
+title: 'Descuento del 33.34568358651353 % en Pecute Comedero para Perro Gato y Mascot'
 date: 2019/12/18 08:58:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oox58FnxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oox58FnxL._SL200_.jpg' ]

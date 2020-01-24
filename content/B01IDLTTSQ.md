@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compo Abono Macetas Y Jardineras 250G + ' al 28.29736211031174 % de descuento
+title: 'Compo Abono Macetas Y Jardineras 250G +  al 28.29736211031174 % de descuento'
 date: 2019/10/28 11:07:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hytXJ96AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hytXJ96AL._SL200_.jpg' ]

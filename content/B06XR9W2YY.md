@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ksix Play Block - Carcasa para Apple iPh' al 46.51162790697674 % de descuento
+title: 'Ksix Play Block - Carcasa para Apple iPh al 46.51162790697674 % de descuento'
 date: 2019/11/01 15:45:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gIjIjxdJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gIjIjxdJL._SL200_.jpg' ]

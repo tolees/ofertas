@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.599999999999994 % en 'Chicco - Tijeras de bebé con borde de se'
+title: 'Descuento del 45.599999999999994 % en Chicco - Tijeras de bebé con borde de se'
 date: 2019/10/10 15:31:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mfTu6kw6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mfTu6kw6L._SL200_.jpg' ]

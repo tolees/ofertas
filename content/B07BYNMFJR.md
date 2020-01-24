@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.69175627240143 % en 'L Oréal Paris Men Expert Vitalift Contor'
+title: 'Descuento del 33.69175627240143 % en L Oréal Paris Men Expert Vitalift Contor'
 date: 2019/12/23 10:06:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-OBO-98AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-OBO-98AL._SL200_.jpg' ]

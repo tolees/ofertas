@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX HX-HSCAM-GM Cloud Mix - Cascos de' al 33.521676083804195 % de descuento
+title: 'HyperX HX-HSCAM-GM Cloud Mix - Cascos de al 33.521676083804195 % de descuento'
 date: 2019/12/16 21:53:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jBodNIWML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jBodNIWML._SL200_.jpg' ]

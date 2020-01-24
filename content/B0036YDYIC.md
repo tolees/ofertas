@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revlon 58072 - Champú  1000 ml' al 53.11538461538462 % de descuento
+title: 'Revlon 58072 - Champú  1000 ml al 53.11538461538462 % de descuento'
 date: 2019/10/30 22:57:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xqceBwM3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xqceBwM3L._SL200_.jpg' ]

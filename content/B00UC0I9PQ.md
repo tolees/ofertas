@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.394793305678725 % en 'EXPERT E010602 - Mochila con ruedas'
+title: 'Descuento del 40.394793305678725 % en EXPERT E010602 - Mochila con ruedas'
 date: 2019/12/28 06:10:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GQUatWL2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GQUatWL2L._SL200_.jpg' ]

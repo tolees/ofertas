@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HUION Inalámbrico Tableta Gráfica  WH140' al 46.248322147651 % de descuento
+title: 'HUION Inalámbrico Tableta Gráfica  WH140 al 46.248322147651 % de descuento'
 date: 2020-01-01 06:18:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vU9Mtb6hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vU9Mtb6hL._SL200_.jpg' ]

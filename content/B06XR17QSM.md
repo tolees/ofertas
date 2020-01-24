@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.51127033885654 % en 'Bosch EasyImpact 550 - Taladro percutor '
+title: 'Descuento del 25.51127033885654 % en Bosch EasyImpact 550 - Taladro percutor '
 date: 2020-01-23 07:39:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z9BOT-bTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z9BOT-bTL._SL200_.jpg' ]

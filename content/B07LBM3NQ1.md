@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.201313837677475 % en 'Tommy Jeans High Rise Slim Izzy Crop AZR'
+title: 'Descuento del 50.201313837677475 % en Tommy Jeans High Rise Slim Izzy Crop AZR'
 date: 2019/10/10 09:39:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xiIzPCnJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xiIzPCnJL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.79361830782828 % en 'Bergner PK1528 Set 16pcs: 3 sartenes 20/'
+title: 'Descuento del 62.79361830782828 % en Bergner PK1528 Set 16pcs: 3 sartenes 20/'
 date: 2019/11/22 13:16:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wNi-KaQHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wNi-KaQHL._SL200_.jpg' ]

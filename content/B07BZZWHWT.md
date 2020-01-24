@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.86796699174793 % en 'JACK & JONES Jjiace Jjharper WW Olive Ni'
+title: 'Descuento del 71.86796699174793 % en JACK & JONES Jjiace Jjharper WW Olive Ni'
 date: 2019/11/11 16:12:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SC2zsMLPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.61401557285874 % en 'Joma Olimpia Top Señora  Mujer  Verde Fl'
+title: 'Descuento del 52.61401557285874 % en Joma Olimpia Top Señora  Mujer  Verde Fl'
 date: 2019/11/13 00:56:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mFS4b3WCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mFS4b3WCL._SL200_.jpg' ]

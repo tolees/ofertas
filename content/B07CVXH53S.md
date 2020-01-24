@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K-Speed Turf' al 60.00000000000001 % de descuento
+title: 'K-Speed Turf al 60.00000000000001 % de descuento'
 date: 2020-01-18 16:16:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/212UFFmqyEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/212UFFmqyEL._SL200_.jpg' ]

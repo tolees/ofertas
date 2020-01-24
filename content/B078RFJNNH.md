@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.812819504522217 % en 'TV Box Android 7.1 - VIDEN W2 Smart TV B'
+title: 'Descuento del 31.812819504522217 % en TV Box Android 7.1 - VIDEN W2 Smart TV B'
 date: 2019/12/28 10:56:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HIiAC3YCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HIiAC3YCL._SL200_.jpg' ]

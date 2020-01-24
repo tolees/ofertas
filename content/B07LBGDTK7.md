@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Klasen  Zapatillas Unisex Adulto  ' al 30.04291845493563 % de descuento
+title: 'Kappa Klasen  Zapatillas Unisex Adulto   al 30.04291845493563 % de descuento'
 date: 2019/11/21 22:50:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411c3wEOtbL._SL200_.jpg' ]

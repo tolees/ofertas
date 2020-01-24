@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HP Racing Chaqueta  Hombre ' al 59.58666666666667 % de descuento
+title: 'Helly Hansen HP Racing Chaqueta  Hombre  al 59.58666666666667 % de descuento'
 date: 2019/11/12 23:35:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PMW-3SBDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PMW-3SBDL._SL200_.jpg' ]

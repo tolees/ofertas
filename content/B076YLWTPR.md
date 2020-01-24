@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics USB-C 3 1 10-Port Hub with ' al 40.261183662128374 % de descuento
+title: 'AmazonBasics USB-C 3 1 10-Port Hub with  al 40.261183662128374 % de descuento'
 date: 2019/12/26 11:43:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BwemmLIRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BwemmLIRL._SL200_.jpg' ]

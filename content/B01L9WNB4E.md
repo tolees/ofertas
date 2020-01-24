@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fing Rs Utensilios Y Accesorios 1 Unidad' al 42.53240074058836 % de descuento
+title: 'Fing Rs Utensilios Y Accesorios 1 Unidad al 42.53240074058836 % de descuento'
 date: 2019/10/23 19:40:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z0m%2B-kt%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z0m%2B-kt%2BL._SL200_.jpg' ]

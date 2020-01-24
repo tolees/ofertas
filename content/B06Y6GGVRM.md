@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell 2270075 Medidor Laser TC-LD 25 R' al 52.052052052052055 % de descuento
+title: 'Einhell 2270075 Medidor Laser TC-LD 25 R al 52.052052052052055 % de descuento'
 date: 2020-01-18 19:39:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4127Hg2oKrL._SL200_.jpg' ]

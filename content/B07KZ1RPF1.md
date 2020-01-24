@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 8Jp Intarsia Gg12 Jersey   G' al 61.153717905968655 % de descuento
+title: 'Springfield 8Jp Intarsia Gg12 Jersey   G al 61.153717905968655 % de descuento'
 date: 2019/11/12 01:20:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i-htb6dkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i-htb6dkL._SL200_.jpg' ]

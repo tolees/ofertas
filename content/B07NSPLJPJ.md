@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.53170189099 % en 'Funko 39454 Pop Town: Ghostbusters-Peter'
+title: 'Descuento del 38.53170189099 % en Funko 39454 Pop Town: Ghostbusters-Peter'
 date: 2019/12/20 02:30:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GOi5tdJZL._SL200_.jpg' ]

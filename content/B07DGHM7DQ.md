@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.0268456375839 % en 'Oral-B Smart 4 4000N CrossAction - Cepil'
+title: 'Descuento del 53.0268456375839 % en Oral-B Smart 4 4000N CrossAction - Cepil'
 date: 2020-01-01 13:21:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HCqEKk5fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HCqEKk5fL._SL200_.jpg' ]

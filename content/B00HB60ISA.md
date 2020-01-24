@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.44444444444444 % en 'CrocsLights Star Wars  Niños Zueco  Negr'
+title: 'Descuento del 64.44444444444444 % en CrocsLights Star Wars  Niños Zueco  Negr'
 date: 2019/10/06 09:14:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSleM2YAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XSleM2YAL._SL200_.jpg' ]

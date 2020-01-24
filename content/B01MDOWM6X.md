@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.495826377295497 % en 'Lenovo Yoga Book - Tablet de 10.1   Full'
+title: 'Descuento del 29.495826377295497 % en Lenovo Yoga Book - Tablet de 10.1   Full'
 date: 2019/10/24 12:40:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ez5Al10eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ez5Al10eL._SL200_.jpg' ]

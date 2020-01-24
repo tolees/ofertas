@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Sandalia de Tiras con Tacón Mujer ' al 70.0 % de descuento
+title: 'find. Sandalia de Tiras con Tacón Mujer  al 70.0 % de descuento'
 date: 2019/10/08 16:11:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316bnSrQhzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316bnSrQhzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.97122302158273 % en 'Philips Avance Collection Batidora HR365'
+title: 'Descuento del 35.97122302158273 % en Philips Avance Collection Batidora HR365'
 date: 2019/11/27 09:31:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GGk0hzrWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GGk0hzrWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guantes de Invierno Hombre Mujer | Guant' al 26.663331665832914 % de descuento
+title: 'Guantes de Invierno Hombre Mujer | Guant al 26.663331665832914 % de descuento'
 date: 2019/12/15 12:04:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vFR4Obp2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vFR4Obp2L._SL200_.jpg' ]

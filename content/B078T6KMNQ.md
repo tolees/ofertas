@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Liga Sideline Bench Long Chaqueta  ' al 58.964214007322546 % de descuento
+title: 'Puma Liga Sideline Bench Long Chaqueta   al 58.964214007322546 % de descuento'
 date: 2019/11/25 05:37:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uAtCHtz7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uAtCHtz7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.019999999999992 % en 'Calzado de seguridad Zapato de trabajo c'
+title: 'Descuento del 30.019999999999992 % en Calzado de seguridad Zapato de trabajo c'
 date: 2019/10/08 08:40:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519QjkiPkNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519QjkiPkNL._SL200_.jpg' ]

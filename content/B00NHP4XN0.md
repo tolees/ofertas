@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein 000NB1042A  Calzoncillos Pa' al 35.6271186440678 % de descuento
+title: 'Calvin Klein 000NB1042A  Calzoncillos Pa al 35.6271186440678 % de descuento'
 date: 2020-01-07 16:56:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bBDaYqb0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bBDaYqb0L._SL200_.jpg' ]

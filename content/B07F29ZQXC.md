@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Dausette Leather Oxford  Zapa' al 67.65555555555555 % de descuento
+title: 'Timberland Dausette Leather Oxford  Zapa al 67.65555555555555 % de descuento'
 date: 2019/11/11 14:49:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X5WohAo3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X5WohAo3L._SL200_.jpg' ]

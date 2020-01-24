@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.33333333333333 % en 'Atletico Madrid FC - Figura SoccerStarz '
+title: 'Descuento del 33.33333333333333 % en Atletico Madrid FC - Figura SoccerStarz '
 date: 2019/11/22 12:54:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417K6UJNKJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417K6UJNKJL._SL200_.jpg' ]

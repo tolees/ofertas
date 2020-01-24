@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charles Wilson Originals Sudadera Algodó' al 50.06587615283268 % de descuento
+title: 'Charles Wilson Originals Sudadera Algodó al 50.06587615283268 % de descuento'
 date: 2020-01-19 18:45:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kzELhA9bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kzELhA9bL._SL200_.jpg' ]

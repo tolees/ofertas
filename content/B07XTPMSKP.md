@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.011252813203306 % en 'Belkin ScreenForce TemperedCurve Display'
+title: 'Descuento del 45.011252813203306 % en Belkin ScreenForce TemperedCurve Display'
 date: 2019/12/09 20:16:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-hzgxXVAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-hzgxXVAL._SL200_.jpg' ]

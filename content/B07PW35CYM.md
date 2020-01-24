@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.29537366548043 % en 'New Look Powder Super Vaqueros Pitillo H'
+title: 'Descuento del 57.29537366548043 % en New Look Powder Super Vaqueros Pitillo H'
 date: 2019/12/30 16:32:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bjvJ9CXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bjvJ9CXcL._SL200_.jpg' ]

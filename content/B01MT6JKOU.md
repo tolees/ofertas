@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Cross The Line Singlet Camiseta De ' al 36.75406871609403 % de descuento
+title: 'Puma Cross The Line Singlet Camiseta De  al 36.75406871609403 % de descuento'
 date: 2019/12/16 08:40:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JGOkEGP0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JGOkEGP0L._SL200_.jpg' ]

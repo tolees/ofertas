@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KRISP Vestido Mujer Corto Talla Grande B' al 42.87245444801715 % de descuento
+title: 'KRISP Vestido Mujer Corto Talla Grande B al 42.87245444801715 % de descuento'
 date: 2019/10/28 01:17:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZWjHxhkwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZWjHxhkwL._SL200_.jpg' ]

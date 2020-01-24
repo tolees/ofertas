@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Slip Les Pockets Microfibre X2 Panti' al 39.59731543624161 % de descuento
+title: 'Dim Slip Les Pockets Microfibre X2 Panti al 39.59731543624161 % de descuento'
 date: 2019/10/31 08:44:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aKCdGi-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aKCdGi-pL._SL200_.jpg' ]

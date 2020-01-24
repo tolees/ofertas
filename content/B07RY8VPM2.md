@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34444814938313 % en 'JACK & JONES NOS Jjesoft Sweat Crew Neck'
+title: 'Descuento del 33.34444814938313 % en JACK & JONES NOS Jjesoft Sweat Crew Neck'
 date: 2020-01-03 17:35:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i5Kt8fAML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i5Kt8fAML._SL200_.jpg' ]

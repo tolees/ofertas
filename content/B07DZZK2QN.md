@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEVIS FOOTWEAR AND ACCESSORIES Webb  Zap' al 40.81428571428572 % de descuento
+title: 'LEVIS FOOTWEAR AND ACCESSORIES Webb  Zap al 40.81428571428572 % de descuento'
 date: 2019/10/29 09:11:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NvfXyecJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NvfXyecJL._SL200_.jpg' ]

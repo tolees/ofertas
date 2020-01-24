@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sophie La Girafe 000004 - Mi primer set ' al 26.10966057441253 % de descuento
+title: 'Sophie La Girafe 000004 - Mi primer set  al 26.10966057441253 % de descuento'
 date: 2020-01-14 18:22:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518hU8nMLUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518hU8nMLUL._SL200_.jpg' ]

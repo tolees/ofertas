@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Acalmar Vest 2 BLU Marine Chal' al 50.0 % de descuento
+title: 'Napapijri Acalmar Vest 2 BLU Marine Chal al 50.0 % de descuento'
 date: 2019/10/06 16:55:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q8CgNeHPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q8CgNeHPL._SL200_.jpg' ]

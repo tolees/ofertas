@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.907407407407405 % en 'Napapijri HAPPY DAY PACK Mochila tipo ca'
+title: 'Descuento del 38.907407407407405 % en Napapijri HAPPY DAY PACK Mochila tipo ca'
 date: 2019/12/29 19:49:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31epOWyj1qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31epOWyj1qL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAM. DMZ038BL. Smartwatch L2 Plus con Mo' al 69.43668122270743 % de descuento
+title: 'DAM. DMZ038BL. Smartwatch L2 Plus con Mo al 69.43668122270743 % de descuento'
 date: 2020-01-16 12:11:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Oq3P1jOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Oq3P1jOuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 84.84285714285714 % en 'The North Face Horizon Tempest Plus Pant'
+title: 'Descuento del 84.84285714285714 % en The North Face Horizon Tempest Plus Pant'
 date: 2019/10/05 15:51:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WvDpxo1-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WvDpxo1-L._SL200_.jpg' ]

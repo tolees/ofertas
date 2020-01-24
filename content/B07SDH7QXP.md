@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sizzix Maquina Big Shot Only 663843  Edi' al 44.40159487548206 % de descuento
+title: 'Sizzix Maquina Big Shot Only 663843  Edi al 44.40159487548206 % de descuento'
 date: 2019/11/06 18:25:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LEEf7iPfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LEEf7iPfL._SL200_.jpg' ]

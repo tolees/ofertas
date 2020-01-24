@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.32177907705158 % en 'Columbia Mono para bebé  Snuggly Bunny B'
+title: 'Descuento del 31.32177907705158 % en Columbia Mono para bebé  Snuggly Bunny B'
 date: 2019/12/01 22:12:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xKKwlkICL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xKKwlkICL._SL200_.jpg' ]

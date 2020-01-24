@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.61136158701533 % en 'Spalding Team Jacket 4her Chaqueta De Ch'
+title: 'Descuento del 58.61136158701533 % en Spalding Team Jacket 4her Chaqueta De Ch'
 date: 2019/11/05 08:19:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yGl1Cq%2BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yGl1Cq%2BDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Russell Hobbs Power Steam Ultra - Planch' al 32.77611087298185 % de descuento
+title: 'Russell Hobbs Power Steam Ultra - Planch al 32.77611087298185 % de descuento'
 date: 2019/10/29 18:02:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YKTJ1GF6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YKTJ1GF6L._SL200_.jpg' ]

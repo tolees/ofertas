@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.995997998999503 % en 'Fila Disruptor Low 1010262-1fg  Zapatill'
+title: 'Descuento del 31.995997998999503 % en Fila Disruptor Low 1010262-1fg  Zapatill'
 date: 2020-01-21 22:37:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SK2Z2402L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SK2Z2402L._SL200_.jpg' ]

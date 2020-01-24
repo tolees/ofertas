@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.642149286298746 % en 'San Ignacio Copper Plus Set 3 sartenes +'
+title: 'Descuento del 63.642149286298746 % en San Ignacio Copper Plus Set 3 sartenes +'
 date: 2019/10/08 03:18:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dHCfForlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dHCfForlL._SL200_.jpg' ]

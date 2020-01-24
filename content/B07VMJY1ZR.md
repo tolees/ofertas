@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.033333333333346 % en 'FITTOO Leggings Mallas Mujer Pantalones '
+title: 'Descuento del 40.033333333333346 % en FITTOO Leggings Mallas Mujer Pantalones '
 date: 2019/10/20 09:42:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L0KTEdHdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L0KTEdHdL._SL200_.jpg' ]

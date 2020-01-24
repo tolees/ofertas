@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maxi-Cosi Titan mitwachsender Auto-Kinde' al 38.238364506307086 % de descuento
+title: 'Maxi-Cosi Titan mitwachsender Auto-Kinde al 38.238364506307086 % de descuento'
 date: 2019/11/22 10:47:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CoPD5bcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CoPD5bcwL._SL200_.jpg' ]

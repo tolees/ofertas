@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.61367886721881 % en 'Indicode Yandal Chaqueta  Negro  Black  '
+title: 'Descuento del 71.61367886721881 % en Indicode Yandal Chaqueta  Negro  Black  '
 date: 2019/12/05 18:39:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p3yWYc9ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p3yWYc9ML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Berydale Bd310 - Vestido para Mujer  Neg' al 62.48668796592119 % de descuento
+title: 'Berydale Bd310 - Vestido para Mujer  Neg al 62.48668796592119 % de descuento'
 date: 2019/12/20 19:08:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416H0vh67pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416H0vh67pL._SL200_.jpg' ]

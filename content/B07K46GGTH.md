@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zerone Funda para Teclado de Tableta Sam' al 83.5734870317003 % de descuento
+title: 'Zerone Funda para Teclado de Tableta Sam al 83.5734870317003 % de descuento'
 date: 2019/11/04 16:07:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WtVQEhOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WtVQEhOTL._SL200_.jpg' ]

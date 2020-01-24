@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panama Jack Panama 03 Igloo  Botas Milit' al 34.698492462311556 % de descuento
+title: 'Panama Jack Panama 03 Igloo  Botas Milit al 34.698492462311556 % de descuento'
 date: 2020-01-16 08:41:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UXoxQtaoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UXoxQtaoL._SL200_.jpg' ]

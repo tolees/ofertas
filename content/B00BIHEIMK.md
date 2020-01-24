@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.010000000000005 % en 'Vaude Farley Stretch  Pantalones de acam'
+title: 'Descuento del 34.010000000000005 % en Vaude Farley Stretch  Pantalones de acam'
 date: 2019/11/12 09:08:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311LOMGVdgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311LOMGVdgL._SL200_.jpg' ]

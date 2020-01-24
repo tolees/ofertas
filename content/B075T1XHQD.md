@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 21143 Minecraft The Nether Portal B' al 28.005601120224043 % de descuento
+title: 'LEGO 21143 Minecraft The Nether Portal B al 28.005601120224043 % de descuento'
 date: 2019/12/13 21:28:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rQGQourqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rQGQourqL._SL200_.jpg' ]

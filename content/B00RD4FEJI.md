@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Originals Desert Boot    - Botas ' al 49.94615384615385 % de descuento
+title: 'Clarks Originals Desert Boot    - Botas  al 49.94615384615385 % de descuento'
 date: 2019/10/14 07:06:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOGdcUitL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOGdcUitL._SL200_.jpg' ]

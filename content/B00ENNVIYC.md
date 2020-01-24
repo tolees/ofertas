@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.363636363636374 % en 'Tigi 57427 - Champú  750 ml'
+title: 'Descuento del 61.363636363636374 % en Tigi 57427 - Champú  750 ml'
 date: 2019/10/09 22:31:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oAjrMELqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oAjrMELqL._SL200_.jpg' ]

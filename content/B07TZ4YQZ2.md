@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Potensic Mini Drone RC Helicopter Quadco' al 35.00972492358989 % de descuento
+title: 'Potensic Mini Drone RC Helicopter Quadco al 35.00972492358989 % de descuento'
 date: 2020-01-22 11:23:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YPXG8cxsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YPXG8cxsL._SL200_.jpg' ]

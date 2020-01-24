@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Head Tour Team Backpack Bolsa de Tenis  ' al 42.2 % de descuento
+title: 'Head Tour Team Backpack Bolsa de Tenis   al 42.2 % de descuento'
 date: 2020-01-15 08:54:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415GGtYkHhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415GGtYkHhL._SL200_.jpg' ]

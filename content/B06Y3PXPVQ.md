@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.01825456364092 % en 'PREMIUM 62-en-1 Profesional Kit de Herra'
+title: 'Descuento del 73.01825456364092 % en PREMIUM 62-en-1 Profesional Kit de Herra'
 date: 2019/12/08 19:32:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zfP8LT1FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zfP8LT1FL._SL200_.jpg' ]

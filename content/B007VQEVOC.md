@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'B-Click Footwear - Zapatos de seguridad ' al 69.67433522557513 % de descuento
+title: 'B-Click Footwear - Zapatos de seguridad  al 69.67433522557513 % de descuento'
 date: 2019/12/28 09:39:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d7W4mCxbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d7W4mCxbL._SL200_.jpg' ]

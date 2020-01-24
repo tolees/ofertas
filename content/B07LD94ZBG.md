@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Perla de agua dulce genuina 925 hecho a ' al 25.0 % de descuento
+title: 'Perla de agua dulce genuina 925 hecho a  al 25.0 % de descuento'
 date: 2020-01-14 09:22:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uByyZ8YyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uByyZ8YyL._SL200_.jpg' ]

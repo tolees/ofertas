@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Active Windbreaker Jacket  ' al 42.39999999999999 % de descuento
+title: 'Helly Hansen Active Windbreaker Jacket   al 42.39999999999999 % de descuento'
 date: 2019/11/21 20:55:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FddRFHYcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FddRFHYcL._SL200_.jpg' ]

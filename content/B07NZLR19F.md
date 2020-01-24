@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.239590602465693 % en 'subrtex Funda de Silla Poliéster Elástic'
+title: 'Descuento del 30.239590602465693 % en subrtex Funda de Silla Poliéster Elástic'
 date: 2020-01-02 22:56:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319dCjVRA0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319dCjVRA0L._SL200_.jpg' ]

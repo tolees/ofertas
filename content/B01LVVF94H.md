@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares abiertos Beats EP - Negro' al 29.974987493746884 % de descuento
+title: 'Auriculares abiertos Beats EP - Negro al 29.974987493746884 % de descuento'
 date: 2020-01-17 13:13:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Bkn0R3ziL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Bkn0R3ziL._SL200_.jpg' ]

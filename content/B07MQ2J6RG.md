@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Clarkdale Gobi  Botas Chelsea par' al 54.279999999999994 % de descuento
+title: 'Clarks Clarkdale Gobi  Botas Chelsea par al 54.279999999999994 % de descuento'
 date: 2019/11/19 03:18:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w2omtsl5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w2omtsl5L._SL200_.jpg' ]

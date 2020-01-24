@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bébé Confort RodiFix AirProtect silla de' al 51.75879396984925 % de descuento
+title: 'Bébé Confort RodiFix AirProtect silla de al 51.75879396984925 % de descuento'
 date: 2019/11/30 17:17:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PA5boDQqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PA5boDQqL._SL200_.jpg' ]

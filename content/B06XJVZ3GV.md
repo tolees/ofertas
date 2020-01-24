@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elifexir Gel Nocturslim Lipoescultor Par' al 25.312500000000004 % de descuento
+title: 'Elifexir Gel Nocturslim Lipoescultor Par al 25.312500000000004 % de descuento'
 date: 2019/12/08 11:15:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z%2Bj4t9V5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z%2Bj4t9V5L._SL200_.jpg' ]

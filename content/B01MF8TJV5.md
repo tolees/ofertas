@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Red Dead Redemption 2 Standard Edition [' al 63.327221203533924 % de descuento
+title: 'Red Dead Redemption 2 Standard Edition [ al 63.327221203533924 % de descuento'
 date: 2019/12/26 20:29:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Nn4wFtAFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Nn4wFtAFL._SL200_.jpg' ]

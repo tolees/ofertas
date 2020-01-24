@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celtic FC - Bolsa de cuerdas  44 x 33cm/' al 33.356840620592386 % de descuento
+title: 'Celtic FC - Bolsa de cuerdas  44 x 33cm/ al 33.356840620592386 % de descuento'
 date: 2019/12/15 11:31:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SrWqlXabL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SrWqlXabL._SL200_.jpg' ]

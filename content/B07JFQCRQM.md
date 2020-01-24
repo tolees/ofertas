@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.20833333333333 % en 'Lacoste Sh6342 Sudadera  Gris  Argent Ch'
+title: 'Descuento del 34.20833333333333 % en Lacoste Sh6342 Sudadera  Gris  Argent Ch'
 date: 2019/11/11 12:35:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-vH7suUPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-vH7suUPL._SL200_.jpg' ]

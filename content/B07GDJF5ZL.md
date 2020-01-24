@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mando Garaje Universal Multifrecuencia H' al 26.675558519506502 % de descuento
+title: 'Mando Garaje Universal Multifrecuencia H al 26.675558519506502 % de descuento'
 date: 2019/11/06 10:38:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4140u%2BZIwjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4140u%2BZIwjL._SL200_.jpg' ]

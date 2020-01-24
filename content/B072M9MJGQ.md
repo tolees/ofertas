@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Laluztop 100W Pistola de Silicona Calien' al 62.6125225045009 % de descuento
+title: 'Laluztop 100W Pistola de Silicona Calien al 62.6125225045009 % de descuento'
 date: 2019/12/07 06:02:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-jAn9tLAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-jAn9tLAL._SL200_.jpg' ]

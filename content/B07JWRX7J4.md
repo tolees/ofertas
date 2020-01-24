@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Status 2.0-Former  Mocasines pa' al 40.05722460658083 % de descuento
+title: 'Skechers Status 2.0-Former  Mocasines pa al 40.05722460658083 % de descuento'
 date: 2019/11/17 15:52:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-6hyGKZlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-6hyGKZlL._SL200_.jpg' ]

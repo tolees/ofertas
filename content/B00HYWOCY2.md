@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.02154626108999 % en 'Juegos en Familia Hasbro - Conecta 4 par'
+title: 'Descuento del 47.02154626108999 % en Juegos en Familia Hasbro - Conecta 4 par'
 date: 2019/11/21 09:40:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AsDMEbKLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AsDMEbKLL._SL200_.jpg' ]

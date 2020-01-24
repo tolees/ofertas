@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.118151500714625 % en 'Opret Chubasqueros Impermeable  Paquete '
+title: 'Descuento del 48.118151500714625 % en Opret Chubasqueros Impermeable  Paquete '
 date: 2019/11/24 07:02:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l4X36ElxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l4X36ElxL._SL200_.jpg' ]

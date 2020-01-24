@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.73698567856331 % en 'Odlo Hoody Air Cocoon Chaqueta  Mujer  A'
+title: 'Descuento del 42.73698567856331 % en Odlo Hoody Air Cocoon Chaqueta  Mujer  A'
 date: 2019/11/02 06:54:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQx6oNjmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dQx6oNjmL._SL200_.jpg' ]

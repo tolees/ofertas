@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolinos Sandalia P. Vallarta para Muje' al 69.13131313131314 % de descuento
+title: 'Pikolinos Sandalia P. Vallarta para Muje al 69.13131313131314 % de descuento'
 date: 2019/11/22 12:28:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rVPPHpeyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rVPPHpeyL._SL200_.jpg' ]

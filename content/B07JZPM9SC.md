@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.6703724291273 % en 'adidas N-5923  Zapatillas de Gimnasia pa'
+title: 'Descuento del 66.6703724291273 % en adidas N-5923  Zapatillas de Gimnasia pa'
 date: 2019/10/31 07:39:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUDNsrFHL._SL200_.jpg' ]

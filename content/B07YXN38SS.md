@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pistola de Masaje portátil con Pantalla ' al 28.223169864960905 % de descuento
+title: 'Pistola de Masaje portátil con Pantalla  al 28.223169864960905 % de descuento'
 date: 2020-01-24 09:24:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uxG5MmG-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uxG5MmG-L._AC_._SL200_.jpg' ]

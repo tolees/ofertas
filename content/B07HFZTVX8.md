@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Hombre U420 Sneaker  Vino ti' al 48.112500000000004 % de descuento
+title: 'New Balance Hombre U420 Sneaker  Vino ti al 48.112500000000004 % de descuento'
 date: 2020-01-21 08:55:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31moLaLf8RL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.36666666666666 % en 'Under Armour Featherweight Fleece Funnel'
+title: 'Descuento del 69.36666666666666 % en Under Armour Featherweight Fleece Funnel'
 date: 2019/11/01 09:49:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TNMvoRv7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TNMvoRv7L._SL200_.jpg' ]

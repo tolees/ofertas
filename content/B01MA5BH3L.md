@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'eXtremeRate® Black Vertical Stand for PS' al 55.027513756878434 % de descuento
+title: 'eXtremeRate® Black Vertical Stand for PS al 55.027513756878434 % de descuento'
 date: 2019/12/11 15:37:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513jwY4bhiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513jwY4bhiL._SL200_.jpg' ]

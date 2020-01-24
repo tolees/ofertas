@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.006668148477445 % en 'LEGO 60209 City Police Sky Police Diamon'
+title: 'Descuento del 30.006668148477445 % en LEGO 60209 City Police Sky Police Diamon'
 date: 2020-01-14 08:41:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xrHWft5zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xrHWft5zL._SL200_.jpg' ]

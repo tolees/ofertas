@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.107775211701316 % en 'Skechers Diameter-MURILO  Zapatillas de '
+title: 'Descuento del 40.107775211701316 % en Skechers Diameter-MURILO  Zapatillas de '
 date: 2019/11/07 16:43:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gUZ5GQRlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gUZ5GQRlL._SL200_.jpg' ]

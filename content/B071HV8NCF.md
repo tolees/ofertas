@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yoffee Itch Remedy - Remedio para los pi' al 53.51170568561873 % de descuento
+title: 'Yoffee Itch Remedy - Remedio para los pi al 53.51170568561873 % de descuento'
 date: 2019/10/31 16:22:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411EkSiKoPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411EkSiKoPL._SL200_.jpg' ]

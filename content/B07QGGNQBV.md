@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA VCF Away Shirt Replica Maillot  Hom' al 30.473511486169713 % de descuento
+title: 'PUMA VCF Away Shirt Replica Maillot  Hom al 30.473511486169713 % de descuento'
 date: 2019/12/16 14:42:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pM75QsBkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pM75QsBkL._SL200_.jpg' ]

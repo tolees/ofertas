@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Only Onlmagoo L/s Oversize Cardigan Knt ' al 59.55987424978566 % de descuento
+title: 'Only Onlmagoo L/s Oversize Cardigan Knt  al 59.55987424978566 % de descuento'
 date: 2019/12/27 14:17:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41spFRe0fqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41spFRe0fqL._SL200_.jpg' ]

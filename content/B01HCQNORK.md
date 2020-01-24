@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Royal Cl Jog 2l  Zapatillas para ' al 25.561735261401562 % de descuento
+title: 'Reebok Royal Cl Jog 2l  Zapatillas para  al 25.561735261401562 % de descuento'
 date: 2020-01-08 14:28:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OV34or6lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OV34or6lL._SL200_.jpg' ]

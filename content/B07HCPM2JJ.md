@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX SAVAGE EXO SHSX100/480G - Unidad ' al 48.7697761786338 % de descuento
+title: 'HyperX SAVAGE EXO SHSX100/480G - Unidad  al 48.7697761786338 % de descuento'
 date: 2019/11/07 16:13:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21MQasRnnDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21MQasRnnDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer Swift 3  SF314-56-53MU  35 6 cm  14' al 55.61735261401557 % de descuento
+title: 'Acer Swift 3  SF314-56-53MU  35 6 cm  14 al 55.61735261401557 % de descuento'
 date: 2019/12/17 13:19:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419oM%2BqkBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419oM%2BqkBqL._SL200_.jpg' ]

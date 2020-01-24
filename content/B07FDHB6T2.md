@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bra Prior -Set de 3 sartenes  20-24-28 c' al 29.719626168224302 % de descuento
+title: 'Bra Prior -Set de 3 sartenes  20-24-28 c al 29.719626168224302 % de descuento'
 date: 2020-01-22 16:27:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WpnETh2FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WpnETh2FL._SL200_.jpg' ]

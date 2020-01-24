@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.7733860342556 % en 'ellesse Filippo Bdg  Sandalias Deportiva'
+title: 'Descuento del 67.7733860342556 % en ellesse Filippo Bdg  Sandalias Deportiva'
 date: 2019/11/02 22:38:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OnVpWOoKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OnVpWOoKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aerku Protector de Pantalla para Xiaomi ' al 42.766151046405824 % de descuento
+title: 'Aerku Protector de Pantalla para Xiaomi  al 42.766151046405824 % de descuento'
 date: 2019/11/24 16:12:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LV5spxjGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LV5spxjGL._SL200_.jpg' ]

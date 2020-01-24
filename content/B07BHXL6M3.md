@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.98213647731332 % en 'AmazonBasics - Juego de cortinas que no '
+title: 'Descuento del 49.98213647731332 % en AmazonBasics - Juego de cortinas que no '
 date: 2019/11/12 07:29:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TrS-VQY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TrS-VQY7L._SL200_.jpg' ]

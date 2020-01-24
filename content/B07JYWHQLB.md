@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Rosha Pull On Cropped Pan' al 57.25725725725725 % de descuento
+title: 'Tommy Hilfiger Rosha Pull On Cropped Pan al 57.25725725725725 % de descuento'
 date: 2019/10/19 18:30:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PutEp%2BUuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PutEp%2BUuL._SL200_.jpg' ]

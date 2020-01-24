@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 82.75862068965517 % en 'Roberto Cavalli - Camisa de Cuadritos Sl'
+title: 'Descuento del 82.75862068965517 % en Roberto Cavalli - Camisa de Cuadritos Sl'
 date: 2019/12/08 15:16:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415OO9jxf8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415OO9jxf8L._SL200_.jpg' ]

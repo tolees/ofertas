@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.45774295715953 % en 'VANMASS USB C Hub 8 in 1 Aluminium 3 Chi'
+title: 'Descuento del 46.45774295715953 % en VANMASS USB C Hub 8 in 1 Aluminium 3 Chi'
 date: 2019/12/14 14:47:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k2bXSvcCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k2bXSvcCL._SL200_.jpg' ]

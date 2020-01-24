@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.52376188094046 % en 'Cortador de Verduras  opamoo 3 en 1 Cort'
+title: 'Descuento del 47.52376188094046 % en Cortador de Verduras  opamoo 3 en 1 Cort'
 date: 2019/10/24 17:00:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DF1napTbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DF1napTbL._SL200_.jpg' ]

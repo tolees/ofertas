@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.69158878504673 % en 'Brabantia Touch Bin Cubo de Basura  30 l'
+title: 'Descuento del 28.69158878504673 % en Brabantia Touch Bin Cubo de Basura  30 l'
 date: 2019/10/27 15:57:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21xDIasPDJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21xDIasPDJL._SL200_.jpg' ]

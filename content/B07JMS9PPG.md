@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Phantom Venom Academy FG  Zapatilla' al 37.691358024691354 % de descuento
+title: 'Nike Phantom Venom Academy FG  Zapatilla al 37.691358024691354 % de descuento'
 date: 2019/10/28 11:07:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gD2v7b5SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gD2v7b5SL._SL200_.jpg' ]

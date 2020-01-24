@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.70841487279844 % en 'Rascador Gato Altura 40cm Arbol Poste pa'
+title: 'Descuento del 58.70841487279844 % en Rascador Gato Altura 40cm Arbol Poste pa'
 date: 2019/12/29 19:08:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411E2v9VN8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411E2v9VN8L._SL200_.jpg' ]

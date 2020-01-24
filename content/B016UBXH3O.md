@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UGREEN Adaptador de USB 3.0 a SATA III c' al 33.34568358651353 % de descuento
+title: 'UGREEN Adaptador de USB 3.0 a SATA III c al 33.34568358651353 % de descuento'
 date: 2019/12/15 23:22:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dRJf-uavL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dRJf-uavL._SL200_.jpg' ]

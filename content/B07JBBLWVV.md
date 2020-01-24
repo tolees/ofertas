@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.961225766103816 % en 'Skechers Ultra Flex-More Tranquility  Za'
+title: 'Descuento del 57.961225766103816 % en Skechers Ultra Flex-More Tranquility  Za'
 date: 2019/10/31 16:42:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTd242NFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTd242NFL._SL200_.jpg' ]

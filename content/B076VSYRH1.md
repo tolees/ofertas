@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.49824912456229 % en 'G-STAR RAW Bronson Mid Waist Sport Chino'
+title: 'Descuento del 76.49824912456229 % en G-STAR RAW Bronson Mid Waist Sport Chino'
 date: 2019/12/27 19:05:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IMP43cAwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IMP43cAwL._SL200_.jpg' ]

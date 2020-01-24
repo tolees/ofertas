@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony CMT-X3CD Micro-HiFi System  CD  USB' al 47.891994315490294 % de descuento
+title: 'Sony CMT-X3CD Micro-HiFi System  CD  USB al 47.891994315490294 % de descuento'
 date: 2020-01-13 09:48:20
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

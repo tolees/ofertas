@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Tailored Butch STSSLD9900' al 74.71428571428571 % de descuento
+title: 'Tommy Hilfiger Tailored Butch STSSLD9900 al 74.71428571428571 % de descuento'
 date: 2019/10/26 18:08:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SWnYNKigL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SWnYNKigL._SL200_.jpg' ]

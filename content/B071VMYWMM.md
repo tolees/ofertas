@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.111111111111114 % en 'Under Armour MK1 Terry Short  Pantalón C'
+title: 'Descuento del 59.111111111111114 % en Under Armour MK1 Terry Short  Pantalón C'
 date: 2019/11/09 23:25:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417fVFWmG6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417fVFWmG6L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.27906976744186 % en 'adidas AC Class BP Sports Backpack  Unis'
+title: 'Descuento del 44.27906976744186 % en adidas AC Class BP Sports Backpack  Unis'
 date: 2020-01-07 18:57:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnPus%2BGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xnPus%2BGtL._SL200_.jpg' ]

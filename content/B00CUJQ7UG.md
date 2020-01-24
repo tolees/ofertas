@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung HS130 - Auriculares de botón  co' al 58.83008356545961 % de descuento
+title: 'Samsung HS130 - Auriculares de botón  co al 58.83008356545961 % de descuento'
 date: 2020-01-23 06:44:34
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

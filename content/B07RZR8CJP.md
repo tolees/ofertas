@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CASALS FC14 Red FC14 - Fresadora perniad' al 40.00307715978153 % de descuento
+title: 'CASALS FC14 Red FC14 - Fresadora perniad al 40.00307715978153 % de descuento'
 date: 2019/12/29 12:29:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vbtH0gQZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vbtH0gQZL._SL200_.jpg' ]

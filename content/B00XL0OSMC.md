@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orbegozo CP 89132 - Ventilador de techo ' al 26.80276777034368 % de descuento
+title: 'Orbegozo CP 89132 - Ventilador de techo  al 26.80276777034368 % de descuento'
 date: 2019/11/04 10:33:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VKNdGT3mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VKNdGT3mL._SL200_.jpg' ]

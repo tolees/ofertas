@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans Ckj 026 Vaqueros Slim' al 41.72222222222223 % de descuento
+title: 'Calvin Klein Jeans Ckj 026 Vaqueros Slim al 41.72222222222223 % de descuento'
 date: 2019/11/20 10:08:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418YZkBc-yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418YZkBc-yL._SL200_.jpg' ]

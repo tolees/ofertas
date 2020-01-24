@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony WHH800 - Auriculares de Diadema ina' al 45.55555555555556 % de descuento
+title: 'Sony WHH800 - Auriculares de Diadema ina al 45.55555555555556 % de descuento'
 date: 2019/11/02 11:49:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GPQsNxi4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GPQsNxi4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trust Verto - Ratón ergonómico Vertical ' al 53.351117039013005 % de descuento
+title: 'Trust Verto - Ratón ergonómico Vertical  al 53.351117039013005 % de descuento'
 date: 2020-01-24 09:30:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31j42k2svUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31j42k2svUL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Batman La Lego Película Blu-Ray  Uhd [Bl' al 53.08835027365129 % de descuento
+title: 'Batman La Lego Película Blu-Ray  Uhd [Bl al 53.08835027365129 % de descuento'
 date: 2019/11/06 09:35:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61PYAavVo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61PYAavVo2L._SL200_.jpg' ]

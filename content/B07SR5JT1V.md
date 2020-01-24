@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Masterpro PK1473 Set Cooking  Acero Inox' al 27.155695895069233 % de descuento
+title: 'Masterpro PK1473 Set Cooking  Acero Inox al 27.155695895069233 % de descuento'
 date: 2020-01-20 07:09:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BwGM0CL2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BwGM0CL2L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.538685335030454 % en 'LEGO Star Wars TM - Tie Advanced de Vade'
+title: 'Descuento del 25.538685335030454 % en LEGO Star Wars TM - Tie Advanced de Vade'
 date: 2019/11/11 10:03:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61mRFwTn4sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61mRFwTn4sL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson C13T789440 - Tóner para impresoras' al 35.93274387592403 % de descuento
+title: 'Epson C13T789440 - Tóner para impresoras al 35.93274387592403 % de descuento'
 date: 2019/11/16 02:19:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YPakPYzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YPakPYzL._SL200_.jpg' ]

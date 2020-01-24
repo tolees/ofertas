@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.36226459234998 % en 'ASUS Dual-RTX2080-O8G - Tarjeta gráfica '
+title: 'Descuento del 47.36226459234998 % en ASUS Dual-RTX2080-O8G - Tarjeta gráfica '
 date: 2019/11/11 16:22:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vrUyGYAFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vrUyGYAFL._SL200_.jpg' ]

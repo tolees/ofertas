@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.24448897795592 % en 'Geox New Balu  Boy B  Zapatillas con Vel'
+title: 'Descuento del 52.24448897795592 % en Geox New Balu  Boy B  Zapatillas con Vel'
 date: 2019/11/23 12:50:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v0ZdcIIaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v0ZdcIIaL._SL200_.jpg' ]

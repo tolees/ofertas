@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.05111679075452 % en 'Under Armour UA Speedpocket Printed Run '
+title: 'Descuento del 60.05111679075452 % en Under Armour UA Speedpocket Printed Run '
 date: 2019/10/21 21:47:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ItPrTan0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ItPrTan0L._SL200_.jpg' ]

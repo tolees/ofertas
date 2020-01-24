@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Coast Star  Zapatillas de Gimnasi' al 43.51731131392148 % de descuento
+title: 'adidas Coast Star  Zapatillas de Gimnasi al 43.51731131392148 % de descuento'
 date: 2019/12/13 11:17:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311nnmJ43lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311nnmJ43lL._SL200_.jpg' ]

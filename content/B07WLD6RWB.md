@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Antimi Fahrradlicht Led Set  LED Fahrrad' al 69.8336063453746 % de descuento
+title: 'Antimi Fahrradlicht Led Set  LED Fahrrad al 69.8336063453746 % de descuento'
 date: 2019/10/19 17:02:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r9UF28qqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r9UF28qqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elli - Collar Colgante Solitario con cis' al 28.545909253304746 % de descuento
+title: 'Elli - Collar Colgante Solitario con cis al 28.545909253304746 % de descuento'
 date: 2019/11/25 02:33:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BQiLbBdjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BQiLbBdjL._SL200_.jpg' ]

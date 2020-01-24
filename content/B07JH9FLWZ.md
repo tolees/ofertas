@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 78.5982478097622 % en 'G-STAR RAW Firn Camiseta   Milk/Imperial'
+title: 'Descuento del 78.5982478097622 % en G-STAR RAW Firn Camiseta   Milk/Imperial'
 date: 2019/11/22 05:55:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l9%2BciqyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l9%2BciqyBL._SL200_.jpg' ]

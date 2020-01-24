@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K&N 99-5003EU Kit de Limpieza y Mantenim' al 36.597040905134904 % de descuento
+title: 'K&N 99-5003EU Kit de Limpieza y Mantenim al 36.597040905134904 % de descuento'
 date: 2019/12/03 12:32:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JFDicI%2BlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JFDicI%2BlL._SL200_.jpg' ]

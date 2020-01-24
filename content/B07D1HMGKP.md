@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'find. Sudadera con Logo Mujer  Rojo  Red'
+title: 'Descuento del 50.0 % en find. Sudadera con Logo Mujer  Rojo  Red'
 date: 2019/10/13 15:06:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NyFU23XOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NyFU23XOL._SL200_.jpg' ]

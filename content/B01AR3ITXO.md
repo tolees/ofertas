@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.01750875437718 % en 'SmugPets 315 Bolsas biodegradables para '
+title: 'Descuento del 35.01750875437718 % en SmugPets 315 Bolsas biodegradables para '
 date: 2020-01-22 20:50:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nJMVskw7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nJMVskw7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SR-32UYA - Tarjeta Micro SDXC de 32' al 76.79558011049724 % de descuento
+title: 'Sony SR-32UYA - Tarjeta Micro SDXC de 32 al 76.79558011049724 % de descuento'
 date: 2019/11/05 16:47:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xVuacx6QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xVuacx6QL._SL200_.jpg' ]

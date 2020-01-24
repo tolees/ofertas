@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.785495971103092 % en '70 piezas kit de herramientas de grabado'
+title: 'Descuento del 27.785495971103092 % en 70 piezas kit de herramientas de grabado'
 date: 2019/10/29 10:01:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/615B9CEKnDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/615B9CEKnDL._SL200_.jpg' ]

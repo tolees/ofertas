@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Master Series Abrazaderas de Pezón Ajust' al 32.86573146292585 % de descuento
+title: 'Master Series Abrazaderas de Pezón Ajust al 32.86573146292585 % de descuento'
 date: 2019/11/09 07:16:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O8Ss%2BH5%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O8Ss%2BH5%2BL._SL200_.jpg' ]

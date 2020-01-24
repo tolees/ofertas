@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin PowerHouse  Base de Carga para Ap' al 30.003000300030003 % de descuento
+title: 'Belkin PowerHouse  Base de Carga para Ap al 30.003000300030003 % de descuento'
 date: 2020-01-20 08:58:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RBmfoFjsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RBmfoFjsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Verbatim 44082 - Tarjeta de Memoria Micr' al 37.65625 % de descuento
+title: 'Verbatim 44082 - Tarjeta de Memoria Micr al 37.65625 % de descuento'
 date: 2019/12/24 14:14:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cvUfaRw5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cvUfaRw5L._SL200_.jpg' ]

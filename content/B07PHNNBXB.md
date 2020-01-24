@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAMSONITE Checkmate - Laptop Backpack - ' al 36.96787148594378 % de descuento
+title: 'SAMSONITE Checkmate - Laptop Backpack -  al 36.96787148594378 % de descuento'
 date: 2020-01-22 15:44:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wk1%2B0xC8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wk1%2B0xC8L._SL200_.jpg' ]

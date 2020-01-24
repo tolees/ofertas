@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guerlain Midnight Secret Sérum Facial Tr' al 31.20689655172414 % de descuento
+title: 'Guerlain Midnight Secret Sérum Facial Tr al 31.20689655172414 % de descuento'
 date: 2019/12/28 21:01:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kb1%2BSmWoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kb1%2BSmWoL._SL200_.jpg' ]

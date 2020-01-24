@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.72277227722772 % en 'Phister Philina B0303-0441-Camiseta de M'
+title: 'Descuento del 72.72277227722772 % en Phister Philina B0303-0441-Camiseta de M'
 date: 2020-01-10 08:09:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2-r2iXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2-r2iXcL._SL200_.jpg' ]

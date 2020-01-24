@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BaByliss ST481E Pure Metal Plancha de pe' al 47.28940783986656 % de descuento
+title: 'BaByliss ST481E Pure Metal Plancha de pe al 47.28940783986656 % de descuento'
 date: 2020-01-22 14:00:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319WCAw2UZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319WCAw2UZL._SL200_.jpg' ]

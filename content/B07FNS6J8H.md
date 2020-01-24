@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE LEGO MOVIE 2 70823 Emmets Dreirad!' al 33.95597064709806 % de descuento
+title: 'THE LEGO MOVIE 2 70823 Emmets Dreirad! al 33.95597064709806 % de descuento'
 date: 2019/12/30 21:45:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wfX%2BxsoyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wfX%2BxsoyL._SL200_.jpg' ]

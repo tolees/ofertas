@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.07675794544217 % en 'YESKAMO Cámara de Seguridad 1080P con Au'
+title: 'Descuento del 66.07675794544217 % en YESKAMO Cámara de Seguridad 1080P con Au'
 date: 2019/10/20 15:59:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412-JKSEdFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412-JKSEdFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.772616136919314 % en 'Micro Player Pac Man'
+title: 'Descuento del 26.772616136919314 % en Micro Player Pac Man'
 date: 2020-01-22 14:35:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HvoSW8wML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HvoSW8wML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HUGO Venzo Camisa  Blanco  Open White 19' al 67.433881343817 % de descuento
+title: 'HUGO Venzo Camisa  Blanco  Open White 19 al 67.433881343817 % de descuento'
 date: 2019/11/26 09:16:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HsH8wz0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HsH8wz0OL._SL200_.jpg' ]

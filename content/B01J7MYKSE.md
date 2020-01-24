@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ankway Guirnalda luz Solar 8 Modos  5M 3' al 49.95826377295492 % de descuento
+title: 'Ankway Guirnalda luz Solar 8 Modos  5M 3 al 49.95826377295492 % de descuento'
 date: 2020-01-22 19:52:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eMt19%2BftL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eMt19%2BftL._SL200_.jpg' ]

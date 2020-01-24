@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Smash Wns v2 L  Zapatillas para Muj' al 55.05505505505506 % de descuento
+title: 'PUMA Smash Wns v2 L  Zapatillas para Muj al 55.05505505505506 % de descuento'
 date: 2020-01-07 17:04:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319IzI7dFIL._SL200_.jpg' ]

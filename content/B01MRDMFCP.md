@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Avent SCF213/20 - Pack de dos ch' al 40.63157894736843 % de descuento
+title: 'Philips Avent SCF213/20 - Pack de dos ch al 40.63157894736843 % de descuento'
 date: 2019/10/07 11:46:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CgdelxndL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CgdelxndL._SL200_.jpg' ]

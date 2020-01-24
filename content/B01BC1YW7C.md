@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio Edifice Herrenarmbanduhr EFR-552D-' al 47.37002591858514 % de descuento
+title: 'Casio Edifice Herrenarmbanduhr EFR-552D- al 47.37002591858514 % de descuento'
 date: 2019/10/26 11:22:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B%2BblET7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B%2BblET7oL._SL200_.jpg' ]

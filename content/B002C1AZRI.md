@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.012531328320804 % en 'Shock Absorber Classic Support - Sujetad'
+title: 'Descuento del 55.012531328320804 % en Shock Absorber Classic Support - Sujetad'
 date: 2019/10/16 23:12:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I-CMpCV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I-CMpCV5L._SL200_.jpg' ]

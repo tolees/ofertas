@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jabra Speak 810 - Altavoz de teleconfere' al 38.79914998819428 % de descuento
+title: 'Jabra Speak 810 - Altavoz de teleconfere al 38.79914998819428 % de descuento'
 date: 2019/11/09 11:19:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qgg%2Bic5KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qgg%2Bic5KL._SL200_.jpg' ]

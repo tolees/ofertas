@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Decen Batidora de Vaso  Batidora profesi' al 55.00275013750689 % de descuento
+title: 'Decen Batidora de Vaso  Batidora profesi al 55.00275013750689 % de descuento'
 date: 2019/11/14 16:55:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e7hRvHGpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e7hRvHGpL._SL200_.jpg' ]

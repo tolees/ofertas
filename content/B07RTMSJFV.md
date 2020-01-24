@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZHENROG Electroestimulador Muscular Abdo' al 80.50603795284647 % de descuento
+title: 'ZHENROG Electroestimulador Muscular Abdo al 80.50603795284647 % de descuento'
 date: 2020-01-24 16:56:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/518UsKng6EL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518UsKng6EL._AC_._SL200_.jpg' ]

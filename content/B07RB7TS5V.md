@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.8046804680468 % en 'Columbia Buga Conjunto para la Nieve  Ni'
+title: 'Descuento del 46.8046804680468 % en Columbia Buga Conjunto para la Nieve  Ni'
 date: 2020-01-22 16:19:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qC8BF0ddL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qC8BF0ddL._SL200_.jpg' ]

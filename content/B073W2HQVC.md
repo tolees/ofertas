@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Euro Sprint Hiker Waterproof ' al 40.0 % de descuento
+title: 'Timberland Euro Sprint Hiker Waterproof  al 40.0 % de descuento'
 date: 2019/11/13 13:39:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hqz%2BuKTFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hqz%2BuKTFL._SL200_.jpg' ]

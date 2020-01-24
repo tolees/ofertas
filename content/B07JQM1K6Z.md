@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Men s Printed Blitzing 3.0 ' al 36.73076923076923 % de descuento
+title: 'Under Armour Men s Printed Blitzing 3.0  al 36.73076923076923 % de descuento'
 date: 2020-01-23 21:35:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Huuqz987L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Huuqz987L._AC_._SL200_.jpg' ]

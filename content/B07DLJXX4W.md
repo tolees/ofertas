@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.08236078692898 % en 'Springfield 5P Slim Wash Pantalones  Dor'
+title: 'Descuento del 47.08236078692898 % en Springfield 5P Slim Wash Pantalones  Dor'
 date: 2019/10/11 17:01:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414MjCWN44L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414MjCWN44L._SL200_.jpg' ]

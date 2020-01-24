@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York - Superstay 24H  Pol' al 36.04004449388209 % de descuento
+title: 'Maybelline New York - Superstay 24H  Pol al 36.04004449388209 % de descuento'
 date: 2020-01-05 14:40:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/215h18pI-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/215h18pI-JL._SL200_.jpg' ]

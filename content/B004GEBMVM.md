@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Packable Pant Pantalón  Hom' al 48.24444444444445 % de descuento
+title: 'Helly Hansen Packable Pant Pantalón  Hom al 48.24444444444445 % de descuento'
 date: 2019/10/10 21:17:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319fc3D3r8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319fc3D3r8L._SL200_.jpg' ]

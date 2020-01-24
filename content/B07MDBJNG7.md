@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.73605232781838 % en 'G-STAR RAW 3301 Slim Jacket Chaqueta  Az'
+title: 'Descuento del 73.73605232781838 % en G-STAR RAW 3301 Slim Jacket Chaqueta  Az'
 date: 2019/11/22 05:35:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f6vpXB7lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f6vpXB7lL._SL200_.jpg' ]

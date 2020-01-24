@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Button Thru Mom Skirt Falda  Azul' al 48.83333333333334 % de descuento
+title: 'Levi s Button Thru Mom Skirt Falda  Azul al 48.83333333333334 % de descuento'
 date: 2020-01-23 11:21:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417%2BiDjmnZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417%2BiDjmnZL._SL200_.jpg' ]

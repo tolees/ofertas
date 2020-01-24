@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.33792690233673 % en 'Riuty Luz de Noche pequeña RGB  lámpara '
+title: 'Descuento del 44.33792690233673 % en Riuty Luz de Noche pequeña RGB  lámpara '
 date: 2019/12/08 23:59:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pRWrnNJDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pRWrnNJDL._SL200_.jpg' ]

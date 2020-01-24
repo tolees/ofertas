@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.26632376053722 % en 'Gant Elastic Braid Belt Cinturón  Negro '
+title: 'Descuento del 64.26632376053722 % en Gant Elastic Braid Belt Cinturón  Negro '
 date: 2020-01-19 06:01:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41le2LGzceL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41le2LGzceL._SL200_.jpg' ]

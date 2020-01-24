@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.026018340797606 % en 'Bugatti 3.21348E+11  Botas Clasicas para'
+title: 'Descuento del 52.026018340797606 % en Bugatti 3.21348E+11  Botas Clasicas para'
 date: 2019/11/26 11:26:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bSfrS-E%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bSfrS-E%2BL._SL200_.jpg' ]

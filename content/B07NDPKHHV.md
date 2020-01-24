@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MEDION X30 RGB - Ordenador de sobremesa ' al 38.56580514368313 % de descuento
+title: 'MEDION X30 RGB - Ordenador de sobremesa  al 38.56580514368313 % de descuento'
 date: 2019/11/18 08:17:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KzlXg7GIL._SL200_.jpg' ]

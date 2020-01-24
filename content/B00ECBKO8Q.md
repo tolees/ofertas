@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Remington PRO- Air Shine D5215 - Secador' al 40.470219435736674 % de descuento
+title: 'Remington PRO- Air Shine D5215 - Secador al 40.470219435736674 % de descuento'
 date: 2019/11/02 12:42:37 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B00ECBKO8Q.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B00ECBKO8Q.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]

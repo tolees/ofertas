@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.707006369426765 % en 'Puma St Runner V2 Nl  Zapatillas de Cros'
+title: 'Descuento del 37.707006369426765 % en Puma St Runner V2 Nl  Zapatillas de Cros'
 date: 2019/12/10 22:17:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CV3ozYOSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CV3ozYOSL._SL200_.jpg' ]

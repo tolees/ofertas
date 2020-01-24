@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.67777962993833 % en 'BRIKSMAX Led Lighting Kit for LEGO Fanta'
+title: 'Descuento del 66.67777962993833 % en BRIKSMAX Led Lighting Kit for LEGO Fanta'
 date: 2019/12/17 07:12:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417BM7ACclL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417BM7ACclL._SL200_.jpg' ]

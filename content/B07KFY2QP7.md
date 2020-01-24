@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Vikky V2  Zapatillas para Mujer - R' al 50.93721565059145 % de descuento
+title: 'Puma Vikky V2  Zapatillas para Mujer - R al 50.93721565059145 % de descuento'
 date: 2019/10/07 13:04:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xxbu14etL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xxbu14etL._SL200_.jpg' ]

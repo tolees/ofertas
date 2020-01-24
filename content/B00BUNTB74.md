@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars 00825J - Chewbacca Peluche Rea' al 74.2 % de descuento
+title: 'Star Wars 00825J - Chewbacca Peluche Rea al 74.2 % de descuento'
 date: 2019/11/14 09:34:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gVkyC2vlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gVkyC2vlL._SL200_.jpg' ]

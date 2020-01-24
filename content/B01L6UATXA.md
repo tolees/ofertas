@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chengzhi Tatuajes Temporales  10 Hojas  ' al 41.04104104104105 % de descuento
+title: 'Chengzhi Tatuajes Temporales  10 Hojas   al 41.04104104104105 % de descuento'
 date: 2019/11/09 02:02:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KvBwUNarL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KvBwUNarL._SL200_.jpg' ]

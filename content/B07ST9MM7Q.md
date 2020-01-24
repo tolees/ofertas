@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Envasadora al vacío  ZUZPAO Máquina sell' al 42.10220673635307 % de descuento
+title: 'Envasadora al vacío  ZUZPAO Máquina sell al 42.10220673635307 % de descuento'
 date: 2020-01-12 16:36:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KZJHtjXFL._SL200_.jpg' ]

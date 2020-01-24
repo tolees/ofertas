@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.015028177833436 % en 'Cardhu 18 Años Whisky Escocés - 700 ml'
+title: 'Descuento del 28.015028177833436 % en Cardhu 18 Años Whisky Escocés - 700 ml'
 date: 2020-01-24 00:23:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/415ytIK9sIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415ytIK9sIL._AC_._SL200_.jpg' ]

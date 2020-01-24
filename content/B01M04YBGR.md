@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.860548271752094 % en 'BOSS Boxer Brief CO  Multicolor  Assorte'
+title: 'Descuento del 42.860548271752094 % en BOSS Boxer Brief CO  Multicolor  Assorte'
 date: 2019/11/29 10:48:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zggcmmMAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zggcmmMAL._SL200_.jpg' ]

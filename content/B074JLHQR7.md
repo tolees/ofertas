@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bulova Reloj Analógico para Hombre de Cu' al 32.015539305301644 % de descuento
+title: 'Bulova Reloj Analógico para Hombre de Cu al 32.015539305301644 % de descuento'
 date: 2020-01-22 11:03:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eDDzMCDNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eDDzMCDNL._SL200_.jpg' ]

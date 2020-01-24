@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.887700534759354 % en 'Dim Les Pockets Coton Boxer X3  Negro/Gr'
+title: 'Descuento del 32.887700534759354 % en Dim Les Pockets Coton Boxer X3  Negro/Gr'
 date: 2019/10/28 23:40:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C3l7Cr4hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C3l7Cr4hL._SL200_.jpg' ]

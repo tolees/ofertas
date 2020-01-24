@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.29218337466997 % en 'Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapat'
+title: 'Descuento del 52.29218337466997 % en Asics Gel-Pulse 9 G-TX T7d9n-3390  Zapat'
 date: 2019/12/25 20:37:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-7FlxNWJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-7FlxNWJL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Chaqueta Cortavientos para Homb' al 38.003800380038 % de descuento
+title: 'Columbia Chaqueta Cortavientos para Homb al 38.003800380038 % de descuento'
 date: 2019/12/09 23:39:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411TDUCy7KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411TDUCy7KL._SL200_.jpg' ]

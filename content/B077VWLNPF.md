@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas CF ADV Adapt  Zapatillas de Depor' al 52.47498332221481 % de descuento
+title: 'Adidas CF ADV Adapt  Zapatillas de Depor al 52.47498332221481 % de descuento'
 date: 2019/10/08 18:41:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5195MdlAvbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5195MdlAvbL._SL200_.jpg' ]

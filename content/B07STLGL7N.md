@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Ultraboost S&l  Zapatillas de Run' al 60.944706863017494 % de descuento
+title: 'adidas Ultraboost S&l  Zapatillas de Run al 60.944706863017494 % de descuento'
 date: 2020-01-21 14:05:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qIBB%2BFYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qIBB%2BFYdL._SL200_.jpg' ]

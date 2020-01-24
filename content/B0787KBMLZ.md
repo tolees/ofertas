@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brother DCPL2530DW - Impresora multifunc' al 25.523324430088824 % de descuento
+title: 'Brother DCPL2530DW - Impresora multifunc al 25.523324430088824 % de descuento'
 date: 2020-01-23 09:32:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OOO1UxrBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OOO1UxrBL._SL200_.jpg' ]

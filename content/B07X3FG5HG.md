@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.31884057971015 % en 'Hiboy-Asiento Kart para Patinete Eléctri'
+title: 'Descuento del 57.31884057971015 % en Hiboy-Asiento Kart para Patinete Eléctri'
 date: 2019/11/30 16:43:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pr7bOzETL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pr7bOzETL._SL200_.jpg' ]

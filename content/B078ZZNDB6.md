@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.59420289855073 % en 'TRESemmé Champú Repara y Fortalece - Paq'
+title: 'Descuento del 35.59420289855073 % en TRESemmé Champú Repara y Fortalece - Paq'
 date: 2019/11/30 17:31:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M7479Z5uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M7479Z5uL._SL200_.jpg' ]

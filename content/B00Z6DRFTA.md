@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.7994558880684 % en 'Bodum - 11652-18 - Chambord - Cafetera 8'
+title: 'Descuento del 41.7994558880684 % en Bodum - 11652-18 - Chambord - Cafetera 8'
 date: 2019/11/02 14:58:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nOidlTcUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nOidlTcUL._SL200_.jpg' ]

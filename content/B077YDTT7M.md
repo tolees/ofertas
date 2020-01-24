@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HIKARO Chaqueta Ligera Estilo Parka con ' al 69.9928520371694 % de descuento
+title: 'HIKARO Chaqueta Ligera Estilo Parka con  al 69.9928520371694 % de descuento'
 date: 2019/10/21 08:24:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lOfSdcqLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lOfSdcqLL._SL200_.jpg' ]

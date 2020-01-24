@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Paranix Loción. Tratamiento para Piojos ' al 50.125313283208015 % de descuento
+title: 'Paranix Loción. Tratamiento para Piojos  al 50.125313283208015 % de descuento'
 date: 2019/11/26 07:14:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TLhgn4PUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TLhgn4PUL._SL200_.jpg' ]

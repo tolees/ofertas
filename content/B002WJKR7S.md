@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'walimex Pro - Doble Pinza Tubular de Met' al 41.32379248658319 % de descuento
+title: 'walimex Pro - Doble Pinza Tubular de Met al 41.32379248658319 % de descuento'
 date: 2019/11/01 20:09:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JTnCtKU2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JTnCtKU2L._SL200_.jpg' ]

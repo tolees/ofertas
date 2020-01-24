@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein - Metropolitan Large Zip Ar' al 46.34920634920635 % de descuento
+title: 'Calvin Klein - Metropolitan Large Zip Ar al 46.34920634920635 % de descuento'
 date: 2019/11/20 19:55:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cXmZN-5NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cXmZN-5NL._SL200_.jpg' ]

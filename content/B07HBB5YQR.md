@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Extreme 128 GB microSDXC Memory ' al 52.79244234509587 % de descuento
+title: 'SanDisk Extreme 128 GB microSDXC Memory  al 52.79244234509587 % de descuento'
 date: 2019/11/26 11:48:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N%2BVZwAPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N%2BVZwAPJL._SL200_.jpg' ]

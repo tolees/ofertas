@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.27272727272727 % en 'Lacoste Ch9669 Camisa  Azul  Marine 166 '
+title: 'Descuento del 55.27272727272727 % en Lacoste Ch9669 Camisa  Azul  Marine 166 '
 date: 2019/11/17 23:58:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Q80adrtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Q80adrtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scotch & Soda Blauw Garment Dyed Polo   ' al 62.88288288288288 % de descuento
+title: 'Scotch & Soda Blauw Garment Dyed Polo    al 62.88288288288288 % de descuento'
 date: 2019/11/10 14:53:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319KhPzwWeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319KhPzwWeL._SL200_.jpg' ]

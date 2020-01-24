@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Charged Intake 3 Zapatillas' al 30.000000000000004 % de descuento
+title: 'Under Armour Charged Intake 3 Zapatillas al 30.000000000000004 % de descuento'
 date: 2019/12/04 20:24:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V9mmQB8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V9mmQB8UL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kerastase Resistance Concentrate - Cuida' al 59.1047619047619 % de descuento
+title: 'Kerastase Resistance Concentrate - Cuida al 59.1047619047619 % de descuento'
 date: 2019/10/17 12:16:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B2Tf9JdsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B2Tf9JdsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.3966067706272 % en 'Brother DCP-L3550CDW - Impresora multifu'
+title: 'Descuento del 31.3966067706272 % en Brother DCP-L3550CDW - Impresora multifu'
 date: 2019-12-31 20:23:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lNc39M-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lNc39M-JL._SL200_.jpg' ]

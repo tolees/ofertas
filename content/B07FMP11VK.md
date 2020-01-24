@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.464518603759114 % en 'Brüder Mannesmann Werkzeuge m17550 bater'
+title: 'Descuento del 27.464518603759114 % en Brüder Mannesmann Werkzeuge m17550 bater'
 date: 2019/11/30 04:16:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Alx6wKa-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Alx6wKa-L._SL200_.jpg' ]

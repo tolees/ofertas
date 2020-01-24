@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Vestido de Canalé para para Mujer '
+title: 'Descuento del 70.0 % en find. Vestido de Canalé para para Mujer '
 date: 2019/10/07 22:38:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418LbuVxTKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418LbuVxTKL._SL200_.jpg' ]

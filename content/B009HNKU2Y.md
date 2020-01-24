@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.81818181818181 % en 'Mery 0531.29 Palo metálico plastificado '
+title: 'Descuento del 45.81818181818181 % en Mery 0531.29 Palo metálico plastificado '
 date: 2019/12/01 05:20:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21qPaIGTISL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21qPaIGTISL._SL200_.jpg' ]

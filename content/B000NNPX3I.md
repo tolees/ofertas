@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beurer EM80 - Electroestimulador Digital' al 34.35353535353536 % de descuento
+title: 'Beurer EM80 - Electroestimulador Digital al 34.35353535353536 % de descuento'
 date: 2020-01-23 10:15:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iLjZ4eLcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iLjZ4eLcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01000333444481 % en 'Crocs Crocband Sandal Kids  Sandalias Un'
+title: 'Descuento del 30.01000333444481 % en Crocs Crocband Sandal Kids  Sandalias Un'
 date: 2019/11/10 21:19:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wkBvAO%2BaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wkBvAO%2BaL._SL200_.jpg' ]

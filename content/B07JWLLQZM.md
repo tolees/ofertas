@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Mh7092 Bañador  Azul  Calanque/C' al 59.96920708237106 % de descuento
+title: 'Lacoste Mh7092 Bañador  Azul  Calanque/C al 59.96920708237106 % de descuento'
 date: 2019/11/20 20:36:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31216jB1UAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31216jB1UAL._SL200_.jpg' ]

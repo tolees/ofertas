@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Izas Guara Chaqueta de Punto  Mujer  Fux' al 67.77920410783057 % de descuento
+title: 'Izas Guara Chaqueta de Punto  Mujer  Fux al 67.77920410783057 % de descuento'
 date: 2019/11/02 18:01:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YVa5kG%2BqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YVa5kG%2BqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'De Longhi Autentica Cappuccino ETAM 29.6' al 44.16017797552837 % de descuento
+title: 'De Longhi Autentica Cappuccino ETAM 29.6 al 44.16017797552837 % de descuento'
 date: 2019/12/21 18:02:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fXo1y2UGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fXo1y2UGL._SL200_.jpg' ]

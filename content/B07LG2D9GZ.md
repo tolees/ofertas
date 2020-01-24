@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Renan B  Zapatillas para Hombre  ' al 52.312312312312315 % de descuento
+title: 'Geox U Renan B  Zapatillas para Hombre   al 52.312312312312315 % de descuento'
 date: 2020-01-14 10:24:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l9nwXfhJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l9nwXfhJL._SL200_.jpg' ]

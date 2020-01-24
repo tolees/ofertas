@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.523452157598506 % en 'Candado De Combinación  [Paquete De 2] D'
+title: 'Descuento del 37.523452157598506 % en Candado De Combinación  [Paquete De 2] D'
 date: 2019/11/07 18:12:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KhTB-jXML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KhTB-jXML._SL200_.jpg' ]

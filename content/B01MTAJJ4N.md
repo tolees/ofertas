@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.82756896408033 % en 'Metalldetektor INTEY Professionell Metal'
+title: 'Descuento del 30.82756896408033 % en Metalldetektor INTEY Professionell Metal'
 date: 2019/10/22 17:08:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512wVwN3XUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512wVwN3XUL._SL200_.jpg' ]

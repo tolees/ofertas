@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Revolution 4  GS   Zapatillas de Ru' al 30.11111111111111 % de descuento
+title: 'Nike Revolution 4  GS   Zapatillas de Ru al 30.11111111111111 % de descuento'
 date: 2019/10/07 23:20:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mUWikiR2L._SL200_.jpg' ]

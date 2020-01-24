@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.23796548592189 % en 'TPF Comercial 0007699330005 Mandil de so'
+title: 'Descuento del 38.23796548592189 % en TPF Comercial 0007699330005 Mandil de so'
 date: 2019/12/18 21:54:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rkoMOK1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rkoMOK1YL._SL200_.jpg' ]

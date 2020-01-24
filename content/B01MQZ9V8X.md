@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Terrex Solo  Zapatillas de Cross ' al 48.212461695607765 % de descuento
+title: 'adidas Terrex Solo  Zapatillas de Cross  al 48.212461695607765 % de descuento'
 date: 2019/11/27 15:24:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WHnEZwt6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WHnEZwt6L._SL200_.jpg' ]

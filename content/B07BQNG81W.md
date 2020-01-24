@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ballery Protectores del Rango del Gas Pr' al 45.022511255627805 % de descuento
+title: 'Ballery Protectores del Rango del Gas Pr al 45.022511255627805 % de descuento'
 date: 2020-01-20 00:02:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xRw2yyNeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xRw2yyNeL._SL200_.jpg' ]

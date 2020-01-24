@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple MacBook  de 12 pulgadas: Intel Cor' al 33.35557038025351 % de descuento
+title: 'Apple MacBook  de 12 pulgadas: Intel Cor al 33.35557038025351 % de descuento'
 date: 2020-01-23 13:19:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nS-rCeOsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nS-rCeOsL._SL200_.jpg' ]

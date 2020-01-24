@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.01760704281712 % en 'Superdry Eva Pool Slide  Chanclas para M'
+title: 'Descuento del 44.01760704281712 % en Superdry Eva Pool Slide  Chanclas para M'
 date: 2019/12/03 11:45:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UBGdckgWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UBGdckgWL._SL200_.jpg' ]

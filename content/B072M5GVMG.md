@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.394725078229776 % en 'LOQI Museum Keith Haring Untitled Bag Bo'
+title: 'Descuento del 41.394725078229776 % en LOQI Museum Keith Haring Untitled Bag Bo'
 date: 2019/10/12 04:17:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m1hvQj42L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m1hvQj42L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 92.8189712758851 % en 'Fini - Tajadas de Sandía Pica - 1000 gr'
+title: 'Descuento del 92.8189712758851 % en Fini - Tajadas de Sandía Pica - 1000 gr'
 date: 2019/10/25 17:58:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-Q%2BO3HL6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-Q%2BO3HL6L._SL200_.jpg' ]

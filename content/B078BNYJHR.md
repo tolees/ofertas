@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canton DM5 Soundbar - Black Glass' al 50.16722408026756 % de descuento
+title: 'Canton DM5 Soundbar - Black Glass al 50.16722408026756 % de descuento'
 date: 2019/12/25 15:19:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3103uvqEewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3103uvqEewL._SL200_.jpg' ]

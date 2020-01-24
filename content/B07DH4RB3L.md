@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.4309317283295 % en 'TEDAH|#Ted Baker Shennjo  Botas Clasicas'
+title: 'Descuento del 51.4309317283295 % en TEDAH|#Ted Baker Shennjo  Botas Clasicas'
 date: 2019/11/20 07:41:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rZsld%2BXBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rZsld%2BXBL._SL200_.jpg' ]

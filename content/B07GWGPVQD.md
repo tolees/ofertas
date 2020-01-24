@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.65454545454546 % en 'New Balance X90 Re-Constructed  Entrenad'
+title: 'Descuento del 73.65454545454546 % en New Balance X90 Re-Constructed  Entrenad'
 date: 2019/11/11 11:01:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SjYEV%2BtxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SjYEV%2BtxL._SL200_.jpg' ]

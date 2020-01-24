@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.563170878058536 % en 'PUWEIKE Aspiradora sin Cable  Aspiradora'
+title: 'Descuento del 47.563170878058536 % en PUWEIKE Aspiradora sin Cable  Aspiradora'
 date: 2019/11/29 06:10:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gmksMv3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gmksMv3zL._SL200_.jpg' ]

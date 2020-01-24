@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars- 8 Sable Kylo REN  Multicolor ' al 79.78651685393258 % de descuento
+title: 'Star Wars- 8 Sable Kylo REN  Multicolor  al 79.78651685393258 % de descuento'
 date: 2019/12/29 20:31:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KwhJdRMgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KwhJdRMgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M CRONE Blocked Pullover Sudadera' al 46.86666666666667 % de descuento
+title: 'Hurley M CRONE Blocked Pullover Sudadera al 46.86666666666667 % de descuento'
 date: 2019/11/11 12:20:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519nUZ-VyHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519nUZ-VyHL._SL200_.jpg' ]

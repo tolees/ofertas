@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Jael  Suéter para Mujer  Blan' al 63.08848080133556 % de descuento
+title: 'Pepe Jeans Jael  Suéter para Mujer  Blan al 63.08848080133556 % de descuento'
 date: 2019/10/11 11:21:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RkBhrHWpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RkBhrHWpL._SL200_.jpg' ]

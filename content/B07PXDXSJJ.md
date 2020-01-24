@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares KidRox Tiger-Ear para niños ' al 70.01400280056012 % de descuento
+title: 'Auriculares KidRox Tiger-Ear para niños  al 70.01400280056012 % de descuento'
 date: 2019/12/13 15:49:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FJw7Iqv9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FJw7Iqv9L._SL200_.jpg' ]

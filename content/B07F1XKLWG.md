@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.72727272727273 % en 'Element Dulcey Chaqueta  Hombre  Negro  '
+title: 'Descuento del 60.72727272727273 % en Element Dulcey Chaqueta  Hombre  Negro  '
 date: 2020-01-14 17:07:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314NEq3sPlL._SL200_.jpg' ]

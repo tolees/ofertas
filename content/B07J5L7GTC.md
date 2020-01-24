@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.045532942393926 % en 'Optimum Nutrition Gold Standard 100% Pla'
+title: 'Descuento del 32.045532942393926 % en Optimum Nutrition Gold Standard 100% Pla'
 date: 2019/12/22 20:26:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WAURexaOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WAURexaOL._SL200_.jpg' ]

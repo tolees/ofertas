@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 247v2  Zapatillas para Hombr' al 43.08888888888889 % de descuento
+title: 'New Balance 247v2  Zapatillas para Hombr al 43.08888888888889 % de descuento'
 date: 2019/10/07 23:01:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-D95wd7NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-D95wd7NL._SL200_.jpg' ]

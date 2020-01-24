@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Inspection  Zapatillas Unisex Adul' al 46.95179584120983 % de descuento
+title: 'Kappa Inspection  Zapatillas Unisex Adul al 46.95179584120983 % de descuento'
 date: 2019/11/02 11:23:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VcsaA8XlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VcsaA8XlL._SL200_.jpg' ]

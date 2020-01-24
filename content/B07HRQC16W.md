@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.88777698355969 % en 'L.O.L Surprise! Fuzzy Pets'
+title: 'Descuento del 42.88777698355969 % en L.O.L Surprise! Fuzzy Pets'
 date: 2020-01-01 22:01:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RZ9H6DY8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RZ9H6DY8L._SL200_.jpg' ]

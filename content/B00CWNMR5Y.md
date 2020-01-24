@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Juego de 4 pilas recargab' al 32.48347497639282 % de descuento
+title: 'AmazonBasics - Juego de 4 pilas recargab al 32.48347497639282 % de descuento'
 date: 2019/12/02 08:08:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j8e3DczQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j8e3DczQL._SL200_.jpg' ]

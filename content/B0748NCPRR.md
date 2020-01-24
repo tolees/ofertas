@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose Soundlink Bose  Altavoz Multimedia ' al 40.933722384326806 % de descuento
+title: 'Bose Soundlink Bose  Altavoz Multimedia  al 40.933722384326806 % de descuento'
 date: 2019/11/14 20:44:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y5GkjIYfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y5GkjIYfL._SL200_.jpg' ]

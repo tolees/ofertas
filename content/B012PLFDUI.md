@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lexar Professional 633x - Tarjeta de mem' al 34.707934520082304 % de descuento
+title: 'Lexar Professional 633x - Tarjeta de mem al 34.707934520082304 % de descuento'
 date: 2019/12/05 15:06:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LikhoD8cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LikhoD8cL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry 34th St tee Camiseta de Tirante' al 41.32832080200502 % de descuento
+title: 'Superdry 34th St tee Camiseta de Tirante al 41.32832080200502 % de descuento'
 date: 2019/11/16 13:14:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xK%2B21KiZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xK%2B21KiZL._SL200_.jpg' ]

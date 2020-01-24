@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.80151750301776 % en 'BANLVS Smartwatch Niños  2019 Nuevo Relo'
+title: 'Descuento del 48.80151750301776 % en BANLVS Smartwatch Niños  2019 Nuevo Relo'
 date: 2020-01-08 13:36:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e8WTOoglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e8WTOoglL._SL200_.jpg' ]

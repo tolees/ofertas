@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Mid Waist Boyfriend Colo' al 86.73336668334167 % de descuento
+title: 'G-STAR RAW 3301 Mid Waist Boyfriend Colo al 86.73336668334167 % de descuento'
 date: 2019/12/30 19:24:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21yrekYR2SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21yrekYR2SL._SL200_.jpg' ]

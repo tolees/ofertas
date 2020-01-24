@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Chaymon 319 3 CMA  Zapatillas pa' al 39.53781512605041 % de descuento
+title: 'Lacoste Chaymon 319 3 CMA  Zapatillas pa al 39.53781512605041 % de descuento'
 date: 2019/11/22 22:51:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4144wuWEvpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4144wuWEvpL._SL200_.jpg' ]

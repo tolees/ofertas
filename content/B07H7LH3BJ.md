@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Girl Short Trousers  Denim_buen' al 35.083459787556905 % de descuento
+title: 'Desigual Girl Short Trousers  Denim_buen al 35.083459787556905 % de descuento'
 date: 2019/10/10 13:56:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PSilPXzJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PSilPXzJL._SL200_.jpg' ]

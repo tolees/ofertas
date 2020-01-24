@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Haba 302347 Terra - Fútbol Infantil' al 44.39999999999999 % de descuento
+title: 'Haba 302347 Terra - Fútbol Infantil al 44.39999999999999 % de descuento'
 date: 2020-01-20 16:02:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5185m5EhTHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Daybreaker 1/2 Zip Fleece B' al 47.980000000000004 % de descuento
+title: 'Helly Hansen Daybreaker 1/2 Zip Fleece B al 47.980000000000004 % de descuento'
 date: 2020-01-21 14:53:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qE7VLvn0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qE7VLvn0L._SL200_.jpg' ]

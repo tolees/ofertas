@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link DXS-1100-16SC - Switch 10GbE Gest' al 37.06240400477843 % de descuento
+title: 'D-Link DXS-1100-16SC - Switch 10GbE Gest al 37.06240400477843 % de descuento'
 date: 2019/10/21 21:42:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E6-7CAv%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E6-7CAv%2BL._SL200_.jpg' ]

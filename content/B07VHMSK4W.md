@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Awroutdoor 4 Pack Toalla de Enfriamiento' al 37.07214323328068 % de descuento
+title: 'Awroutdoor 4 Pack Toalla de Enfriamiento al 37.07214323328068 % de descuento'
 date: 2019/10/08 20:02:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517UzBpr9CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517UzBpr9CL._SL200_.jpg' ]

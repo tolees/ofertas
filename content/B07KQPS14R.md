@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Xiaomi Mi Casual Daypack Pink'
+title: 'Descuento del 50.0 % en Xiaomi Mi Casual Daypack Pink'
 date: 2020-01-15 23:00:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bC7fUIaPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bC7fUIaPL._SL200_.jpg' ]

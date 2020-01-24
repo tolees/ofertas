@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Terminator 2 - Shocking Dark  1990  - DV' al 54.50409463148317 % de descuento
+title: 'Terminator 2 - Shocking Dark  1990  - DV al 54.50409463148317 % de descuento'
 date: 2019/12/29 20:03:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g0C8d6ujL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g0C8d6ujL._SL200_.jpg' ]

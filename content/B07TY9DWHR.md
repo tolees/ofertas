@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.070535267633815 % en 'INNObeta KlyN 7 litros Neceser Mujer Hom'
+title: 'Descuento del 41.070535267633815 % en INNObeta KlyN 7 litros Neceser Mujer Hom'
 date: 2020-01-20 17:28:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410KtLCbcPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410KtLCbcPL._SL200_.jpg' ]

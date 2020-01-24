@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.348526959421893 % en 'LEGO 31090 Creator 3in1 Underwater Robot'
+title: 'Descuento del 27.348526959421893 % en LEGO 31090 Creator 3in1 Underwater Robot'
 date: 2019/12/06 12:41:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51idPBuDolL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51idPBuDolL._SL200_.jpg' ]

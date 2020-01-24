@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas RUNFALCON  Zapatillas de Trail Ru' al 29.989989989989997 % de descuento
+title: 'adidas RUNFALCON  Zapatillas de Trail Ru al 29.989989989989997 % de descuento'
 date: 2020-01-24 12:50:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31qRqhbDtaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31qRqhbDtaL._AC_._SL200_.jpg' ]

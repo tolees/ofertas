@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe BauCosmopolitan - Grifo de ducha  ' al 56.04449694821816 % de descuento
+title: 'Grohe BauCosmopolitan - Grifo de ducha   al 56.04449694821816 % de descuento'
 date: 2019/11/21 18:42:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414P%2BnY%2B11L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414P%2BnY%2B11L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vizaro - SÁBANA BAJERA para Colchón de C' al 46.68222740913638 % de descuento
+title: 'Vizaro - SÁBANA BAJERA para Colchón de C al 46.68222740913638 % de descuento'
 date: 2020-01-07 13:03:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KqLKFQCYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KqLKFQCYL._SL200_.jpg' ]

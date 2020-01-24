@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1 Unidad de Etiqueta Protectora de Raque' al 29.96594778660614 % de descuento
+title: '1 Unidad de Etiqueta Protectora de Raque al 29.96594778660614 % de descuento'
 date: 2019/10/26 10:35:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C8UYFqTtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C8UYFqTtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HoneyHolly Botella de Agua Deporte 400ml' al 55.13972055888223 % de descuento
+title: 'HoneyHolly Botella de Agua Deporte 400ml al 55.13972055888223 % de descuento'
 date: 2020-01-17 18:15:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GrCESk7qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GrCESk7qL._SL200_.jpg' ]

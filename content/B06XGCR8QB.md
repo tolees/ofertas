@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HUAWEI 22040281 In-Ear Kopfhörer mit Mik' al 71.65829145728644 % de descuento
+title: 'HUAWEI 22040281 In-Ear Kopfhörer mit Mik al 71.65829145728644 % de descuento'
 date: 2019/12/28 12:32:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dTqfMbzaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dTqfMbzaL._SL200_.jpg' ]

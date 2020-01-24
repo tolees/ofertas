@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Mabsoot Camisa  Azul  Open Blue 460' al 50.025012506253134 % de descuento
+title: 'BOSS Mabsoot Camisa  Azul  Open Blue 460 al 50.025012506253134 % de descuento'
 date: 2019/11/22 16:11:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EIy57s7vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EIy57s7vL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stedman Apparel Active Fleece Vest/ST501' al 62.89114147201411 % de descuento
+title: 'Stedman Apparel Active Fleece Vest/ST501 al 62.89114147201411 % de descuento'
 date: 2019/10/17 06:22:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JwGaDuAnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JwGaDuAnL._SL200_.jpg' ]

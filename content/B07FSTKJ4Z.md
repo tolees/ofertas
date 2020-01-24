@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oral-B PRO 2 2500 Elektrische Zahnbürste' al 47.88309812201356 % de descuento
+title: 'Oral-B PRO 2 2500 Elektrische Zahnbürste al 47.88309812201356 % de descuento'
 date: 2019/11/25 17:48:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qq40wdN3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qq40wdN3L._SL200_.jpg' ]

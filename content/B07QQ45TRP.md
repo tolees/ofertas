@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferilinso Funda para Xiaomi Mi A3 Elegan' al 72.90606985418786 % de descuento
+title: 'Ferilinso Funda para Xiaomi Mi A3 Elegan al 72.90606985418786 % de descuento'
 date: 2020-01-05 16:13:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ldVZmX5%2BL._SL200_.jpg' ]

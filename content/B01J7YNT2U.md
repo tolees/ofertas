@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bandas de resistencia ejercicio con asas' al 45.21978021978021 % de descuento
+title: 'Bandas de resistencia ejercicio con asas al 45.21978021978021 % de descuento'
 date: 2019/12/09 12:33:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BqZqXtatL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BqZqXtatL._SL200_.jpg' ]

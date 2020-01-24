@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scotch & Soda Nos- Classic Polo In Pique' al 65.50550550550551 % de descuento
+title: 'Scotch & Soda Nos- Classic Polo In Pique al 65.50550550550551 % de descuento'
 date: 2019/11/13 13:32:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H-OhA2RuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H-OhA2RuL._SL200_.jpg' ]

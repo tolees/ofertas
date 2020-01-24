@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.82698982293076 % en 'HolyHigh Reloj Inteligente Smartwatch Mu'
+title: 'Descuento del 58.82698982293076 % en HolyHigh Reloj Inteligente Smartwatch Mu'
 date: 2020-01-24 14:17:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RdaEOMvNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RdaEOMvNL._AC_._SL200_.jpg' ]

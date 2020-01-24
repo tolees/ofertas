@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HOMCOM Coche Eléctrico para Niño 3-8 Año' al 46.44015707700188 % de descuento
+title: 'HOMCOM Coche Eléctrico para Niño 3-8 Año al 46.44015707700188 % de descuento'
 date: 2020-01-21 20:59:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510t4rE1C1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510t4rE1C1L._SL200_.jpg' ]

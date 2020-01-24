@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lighting Universal LED Light Lighting Ki' al 38.8641425389755 % de descuento
+title: 'Lighting Universal LED Light Lighting Ki al 38.8641425389755 % de descuento'
 date: 2020-01-19 02:22:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5eu7rmhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B5eu7rmhL._SL200_.jpg' ]

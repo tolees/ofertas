@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amilril Collar  Collar Colgante de Coraz' al 88.19785415530097 % de descuento
+title: 'Amilril Collar  Collar Colgante de Coraz al 88.19785415530097 % de descuento'
 date: 2020-01-07 15:22:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nho1EerHL._SL200_.jpg' ]

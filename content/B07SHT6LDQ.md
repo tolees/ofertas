@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Linksys MR8300 AC2200 Tri Band Mesh WiFi' al 26.668444562970873 % de descuento
+title: 'Linksys MR8300 AC2200 Tri Band Mesh WiFi al 26.668444562970873 % de descuento'
 date: 2019/12/13 17:49:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BCHP4YXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v%2BCHP4YXL._SL200_.jpg' ]

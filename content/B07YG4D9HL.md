@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Precision Kids V' al 40.0 % de descuento
+title: 'Precision Kids V al 40.0 % de descuento'
 date: 2020-01-23 10:38:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21LwQd2OcfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21LwQd2OcfL._SL200_.jpg' ]

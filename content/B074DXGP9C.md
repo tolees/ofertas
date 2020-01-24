@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.505468818360235 % en 'Western Digital My Cloud Home Duo - Nube'
+title: 'Descuento del 37.505468818360235 % en Western Digital My Cloud Home Duo - Nube'
 date: 2020-01-22 10:01:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YUudbvNuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YUudbvNuL._SL200_.jpg' ]

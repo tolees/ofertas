@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trust GXT 628 - Altavoces Gaming 2.1 Ilu' al 25.002500250025005 % de descuento
+title: 'Trust GXT 628 - Altavoces Gaming 2.1 Ilu al 25.002500250025005 % de descuento'
 date: 2020-01-16 10:19:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PlEDRPWfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PlEDRPWfL._SL200_.jpg' ]

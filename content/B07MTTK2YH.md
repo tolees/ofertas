@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.214285714285715 % en 'Thomas Sabo Charm con cierre de Mujer co'
+title: 'Descuento del 30.214285714285715 % en Thomas Sabo Charm con cierre de Mujer co'
 date: 2019/11/25 19:03:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cOGunWpML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cOGunWpML._SL200_.jpg' ]

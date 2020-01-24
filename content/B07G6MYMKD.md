@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.2713567839196 % en 'Ultimate Ears Megaboom 3  Altavoz Blueto'
+title: 'Descuento del 42.2713567839196 % en Ultimate Ears Megaboom 3  Altavoz Blueto'
 date: 2020-01-10 10:48:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BoPBx1yoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BoPBx1yoL._SL200_.jpg' ]

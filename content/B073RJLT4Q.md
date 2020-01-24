@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.56678339169584 % en 'Adidas Terrex Tracerocker GTX W  Zapatil'
+title: 'Descuento del 33.56678339169584 % en Adidas Terrex Tracerocker GTX W  Zapatil'
 date: 2019/12/04 19:29:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y5DahosnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y5DahosnL._SL200_.jpg' ]

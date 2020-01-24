@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.90130624092889 % en 'find. Rayleigh Textured Regular Trouser '
+title: 'Descuento del 61.90130624092889 % en find. Rayleigh Textured Regular Trouser '
 date: 2020-01-08 13:43:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SUHTRx0BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SUHTRx0BL._SL200_.jpg' ]

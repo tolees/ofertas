@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Littlegrasseu Halloween Decoraciones Col' al 34.64309102815979 % de descuento
+title: 'Littlegrasseu Halloween Decoraciones Col al 34.64309102815979 % de descuento'
 date: 2019/10/21 07:03:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y-x3KVYLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y-x3KVYLL._SL200_.jpg' ]

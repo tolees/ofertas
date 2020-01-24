@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Comforday Limpiador Vapor Mano  Limpiado' al 36.672778796466076 % de descuento
+title: 'Comforday Limpiador Vapor Mano  Limpiado al 36.672778796466076 % de descuento'
 date: 2020-01-01 01:02:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yz4mRfVYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yz4mRfVYL._SL200_.jpg' ]

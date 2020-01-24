@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SMARTGYRO Ebike Red - Bicicleta Eléctric' al 37.48726655348048 % de descuento
+title: 'SMARTGYRO Ebike Red - Bicicleta Eléctric al 37.48726655348048 % de descuento'
 date: 2020-01-09 06:04:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cn5W7LqxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cn5W7LqxL._SL200_.jpg' ]

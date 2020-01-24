@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Emporio Armani Ea7 Natación Pantalones C'
+title: 'Descuento del 50.0 % en Emporio Armani Ea7 Natación Pantalones C'
 date: 2019/10/09 16:29:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HDgWNHQ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HDgWNHQ-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.2228152101401 % en 'Funko Mad-Eye Moody Figura de Vinilo  co'
+title: 'Descuento del 34.2228152101401 % en Funko Mad-Eye Moody Figura de Vinilo  co'
 date: 2019/12/12 00:01:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SRT1DlG9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SRT1DlG9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Go Walk 4-Desire  Zapatillas pa' al 41.43187066974596 % de descuento
+title: 'Skechers Go Walk 4-Desire  Zapatillas pa al 41.43187066974596 % de descuento'
 date: 2019/10/23 11:53:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iIjQ9%2BFfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iIjQ9%2BFfL._SL200_.jpg' ]

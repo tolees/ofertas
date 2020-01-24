@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.98 % en 'Under Armour Men s Charged Bandit 3 Runn'
+title: 'Descuento del 54.98 % en Under Armour Men s Charged Bandit 3 Runn'
 date: 2019/10/19 11:25:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DpQ%2BmUMPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DpQ%2BmUMPL._SL200_.jpg' ]

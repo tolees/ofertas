@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '5 Pares Calcetines/Medias de Compresión ' al 53.609721229449605 % de descuento
+title: '5 Pares Calcetines/Medias de Compresión  al 53.609721229449605 % de descuento'
 date: 2019/12/15 09:02:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a0jmsV28L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a0jmsV28L._SL200_.jpg' ]

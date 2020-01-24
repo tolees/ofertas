@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.002632964718284 % en 'Berydale Parka para mujer con capucha y '
+title: 'Descuento del 25.002632964718284 % en Berydale Parka para mujer con capucha y '
 date: 2019/11/27 16:45:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410tM0V6ZGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410tM0V6ZGL._SL200_.jpg' ]

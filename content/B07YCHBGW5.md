@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elegantpark 2pcs Mujeres Clips de zapato' al 50.01250312578145 % de descuento
+title: 'Elegantpark 2pcs Mujeres Clips de zapato al 50.01250312578145 % de descuento'
 date: 2020-01-01 09:32:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ygZE0QtCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ygZE0QtCL._SL200_.jpg' ]

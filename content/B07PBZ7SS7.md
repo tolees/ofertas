@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.45679355376494 % en 'deAO RC Robot Programable  Inteligente e'
+title: 'Descuento del 44.45679355376494 % en deAO RC Robot Programable  Inteligente e'
 date: 2019/11/11 09:09:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gSRpA9pXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gSRpA9pXL._SL200_.jpg' ]

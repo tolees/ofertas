@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marca Amazon - Mama Bear Ultra Sensitive' al 41.72034861690034 % de descuento
+title: 'Marca Amazon - Mama Bear Ultra Sensitive al 41.72034861690034 % de descuento'
 date: 2019/12/01 12:02:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ScNu%2BQXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ScNu%2BQXcL._SL200_.jpg' ]

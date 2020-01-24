@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Luz - Vaqueros Mujer  Azul  Dark ' al 76.45454545454545 % de descuento
+title: 'REPLAY Luz - Vaqueros Mujer  Azul  Dark  al 76.45454545454545 % de descuento'
 date: 2019/12/28 19:12:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MxfngocCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MxfngocCL._SL200_.jpg' ]

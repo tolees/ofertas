@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.749874434957306 % en 'Pierre Cardin Smart Casual Sakko Nicolas'
+title: 'Descuento del 47.749874434957306 % en Pierre Cardin Smart Casual Sakko Nicolas'
 date: 2019/12/04 10:27:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zRU2cob6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zRU2cob6L._SL200_.jpg' ]

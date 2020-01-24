@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.516666666666666 % en 'Helly Hansen Daybreaker Fleece Jacket Ch'
+title: 'Descuento del 38.516666666666666 % en Helly Hansen Daybreaker Fleece Jacket Ch'
 date: 2019/12/23 22:06:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318recuxSxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318recuxSxL._SL200_.jpg' ]

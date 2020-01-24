@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WMF Kult X Mix & Go Keep Cool  Mini licu' al 30.773965225419285 % de descuento
+title: 'WMF Kult X Mix & Go Keep Cool  Mini licu al 30.773965225419285 % de descuento'
 date: 2020-01-22 21:33:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BMIRc3IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31m%2BMIRc3IL._SL200_.jpg' ]

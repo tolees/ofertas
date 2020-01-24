@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.449999999999996 % en 'Helly Hansen HH Duffel Bag 2 Bolsa de Vi'
+title: 'Descuento del 42.449999999999996 % en Helly Hansen HH Duffel Bag 2 Bolsa de Vi'
 date: 2019/12/03 13:33:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QU4a8oFKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QU4a8oFKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Sábana ajustable de micro' al 39.21933085501858 % de descuento
+title: 'AmazonBasics - Sábana ajustable de micro al 39.21933085501858 % de descuento'
 date: 2019/12/04 17:03:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G8t4LoifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G8t4LoifL._SL200_.jpg' ]

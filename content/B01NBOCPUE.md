@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Bradstreet Plain Toe Oxford  ' al 50.0 % de descuento
+title: 'Timberland Bradstreet Plain Toe Oxford   al 50.0 % de descuento'
 date: 2019/10/11 14:06:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T%2ByoyiTcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T%2ByoyiTcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.72592592592592 % en 'Fred Perry Men s Oxford Shirt White in S'
+title: 'Descuento del 41.72592592592592 % en Fred Perry Men s Oxford Shirt White in S'
 date: 2019/11/22 13:42:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319GBesereL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319GBesereL._SL200_.jpg' ]

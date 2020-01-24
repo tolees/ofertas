@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG PK3 XBOOM Go Bluetooth Party Speaker ' al 50.99509950995099 % de descuento
+title: 'LG PK3 XBOOM Go Bluetooth Party Speaker  al 50.99509950995099 % de descuento'
 date: 2020-01-03 11:47:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uA02ff82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uA02ff82L._SL200_.jpg' ]

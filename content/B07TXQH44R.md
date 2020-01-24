@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.38181818181819 % en 'Dare 2b Men s Travail Pro Waterproof & B'
+title: 'Descuento del 65.38181818181819 % en Dare 2b Men s Travail Pro Waterproof & B'
 date: 2020-01-12 16:06:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UP8rfZ1FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UP8rfZ1FL._SL200_.jpg' ]

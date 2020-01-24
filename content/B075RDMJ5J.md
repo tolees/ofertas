@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.32264529058117 % en 'Boxeur Des Rues BXT-4552 - Sudadera de h'
+title: 'Descuento del 51.32264529058117 % en Boxeur Des Rues BXT-4552 - Sudadera de h'
 date: 2019/11/08 13:33:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b%2BLY3WNVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b%2BLY3WNVL._SL200_.jpg' ]

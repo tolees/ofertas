@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.79542203147354 % en 'Tommy Hilfiger Essential Craft Vulc  Zap'
+title: 'Descuento del 56.79542203147354 % en Tommy Hilfiger Essential Craft Vulc  Zap'
 date: 2019/12/03 10:42:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IuIBF50GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IuIBF50GL._SL200_.jpg' ]

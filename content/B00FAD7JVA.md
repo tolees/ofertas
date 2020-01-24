@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung EB-B800BEBECWW - Batería oficial' al 75.95317725752508 % de descuento
+title: 'Samsung EB-B800BEBECWW - Batería oficial al 75.95317725752508 % de descuento'
 date: 2019/11/07 21:09:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yEA3OFHZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yEA3OFHZL._SL200_.jpg' ]

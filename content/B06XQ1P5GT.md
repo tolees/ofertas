@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Jayne Pantalones Vaqueros Bootc' al 47.08503865393361 % de descuento
+title: 'Desigual Jayne Pantalones Vaqueros Bootc al 47.08503865393361 % de descuento'
 date: 2019/10/11 13:11:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412cjBWrI5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412cjBWrI5L._SL200_.jpg' ]

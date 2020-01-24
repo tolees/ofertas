@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics GT-2000 6 Lite-Show  Zapatillas de' al 25.413333333333334 % de descuento
+title: 'Asics GT-2000 6 Lite-Show  Zapatillas de al 25.413333333333334 % de descuento'
 date: 2019/12/26 23:14:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514En4xTf5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514En4xTf5L._SL200_.jpg' ]

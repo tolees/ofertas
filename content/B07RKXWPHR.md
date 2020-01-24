@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.723921120320085 % en 'Enchufe Inteligente Exterior Impermeable'
+title: 'Descuento del 33.723921120320085 % en Enchufe Inteligente Exterior Impermeable'
 date: 2020-01-24 15:21:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JoGj5JQIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JoGj5JQIL._AC_._SL200_.jpg' ]

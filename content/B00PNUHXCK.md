@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Superstar Foundation - Zapatillas' al 49.919791457790254 % de descuento
+title: 'Adidas Superstar Foundation - Zapatillas al 49.919791457790254 % de descuento'
 date: 2019/12/19 23:50:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41avZ%2BSyzkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41avZ%2BSyzkL._SL200_.jpg' ]

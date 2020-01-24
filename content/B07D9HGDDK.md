@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.000000000000004 % en 'Colgante Super Power de Plata con Cerámi'
+title: 'Descuento del 30.000000000000004 % en Colgante Super Power de Plata con Cerámi'
 date: 2019/12/02 12:43:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21%2BbyLzBFCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21%2BbyLzBFCL._SL200_.jpg' ]

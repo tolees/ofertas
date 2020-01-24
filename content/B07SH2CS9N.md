@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grid Ultimate Edition PS4 ESP' al 49.30547838648739 % de descuento
+title: 'Grid Ultimate Edition PS4 ESP al 49.30547838648739 % de descuento'
 date: 2020-01-20 21:20:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YRpvNa3BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YRpvNa3BL._SL200_.jpg' ]

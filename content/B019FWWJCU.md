@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34444814938313 % en 'Colore Matite n. 2 con gomma - Matite gi'
+title: 'Descuento del 33.34444814938313 % en Colore Matite n. 2 con gomma - Matite gi'
 date: 2019/12/16 18:10:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xmh72OQFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xmh72OQFL._SL200_.jpg' ]

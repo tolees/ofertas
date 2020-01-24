@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Alpha Leggings G Mallas Deporte  Ni' al 49.66651845264561 % de descuento
+title: 'PUMA Alpha Leggings G Mallas Deporte  Ni al 49.66651845264561 % de descuento'
 date: 2020-01-14 12:17:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wlYjcfPtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wlYjcfPtL._SL200_.jpg' ]

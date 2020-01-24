@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Morpilot Multímetro Digital  Verdadero R' al 48.98958971218617 % de descuento
+title: 'Morpilot Multímetro Digital  Verdadero R al 48.98958971218617 % de descuento'
 date: 2020-01-03 16:46:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YEKyE2QUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YEKyE2QUL._SL200_.jpg' ]

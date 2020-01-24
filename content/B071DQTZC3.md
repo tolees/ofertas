@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.745414118954983 % en 'Microsoft Surface Pro - Ordenador portát'
+title: 'Descuento del 28.745414118954983 % en Microsoft Surface Pro - Ordenador portát'
 date: 2019/12/27 21:41:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NcrCgbbcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NcrCgbbcL._SL200_.jpg' ]

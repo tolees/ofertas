@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.65 % en 'Under Armour Heat Gear Crew Calcetines  '
+title: 'Descuento del 56.65 % en Under Armour Heat Gear Crew Calcetines  '
 date: 2019/10/26 09:07:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mEVnrLzpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mEVnrLzpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.21143228320883 % en 'Blindecor Lira Estor enrollable doble te'
+title: 'Descuento del 31.21143228320883 % en Blindecor Lira Estor enrollable doble te'
 date: 2019/11/23 09:28:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X0MyH17ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X0MyH17ZL._SL200_.jpg' ]

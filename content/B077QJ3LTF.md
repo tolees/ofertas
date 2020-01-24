@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brooks Glycerin 16  Zapatillas de Runnin' al 35.152941176470584 % de descuento
+title: 'Brooks Glycerin 16  Zapatillas de Runnin al 35.152941176470584 % de descuento'
 date: 2019/11/07 11:21:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EcrlckjeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EcrlckjeL._SL200_.jpg' ]

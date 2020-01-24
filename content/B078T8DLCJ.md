@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Heritage Suede Sneaker  Z' al 55.94594594594595 % de descuento
+title: 'Tommy Hilfiger Heritage Suede Sneaker  Z al 55.94594594594595 % de descuento'
 date: 2019/11/16 00:32:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RWZPxZgSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RWZPxZgSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.36028823058447 % en 'Tommy Hilfiger Colored Stripes Wedge San'
+title: 'Descuento del 50.36028823058447 % en Tommy Hilfiger Colored Stripes Wedge San'
 date: 2019/10/12 13:51:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-YPp-7rQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-YPp-7rQL._SL200_.jpg' ]

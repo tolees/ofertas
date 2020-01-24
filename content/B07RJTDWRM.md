@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Predator 19.3 AG  Zapatillas de F' al 32.19566425792107 % de descuento
+title: 'adidas Predator 19.3 AG  Zapatillas de F al 32.19566425792107 % de descuento'
 date: 2019/11/30 19:32:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SWIaeKbhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SWIaeKbhL._SL200_.jpg' ]

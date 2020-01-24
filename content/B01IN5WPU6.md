@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Laserjet Pro M130fn - Impresora multi' al 28.025400665255518 % de descuento
+title: 'HP Laserjet Pro M130fn - Impresora multi al 28.025400665255518 % de descuento'
 date: 2020-01-12 17:32:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AQpZCWccL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AQpZCWccL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MunkiMix Aleación Genuina Cuero Pulsera ' al 93.66666666666667 % de descuento
+title: 'MunkiMix Aleación Genuina Cuero Pulsera  al 93.66666666666667 % de descuento'
 date: 2019/10/14 09:54:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CTVPMn7XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CTVPMn7XL._SL200_.jpg' ]

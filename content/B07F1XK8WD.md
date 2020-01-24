@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.06412825651302 % en 'B Uniq Mascarilla de Pelo Morado - Matiz'
+title: 'Descuento del 32.06412825651302 % en B Uniq Mascarilla de Pelo Morado - Matiz'
 date: 2019/11/17 18:46:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PRUeqxxQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PRUeqxxQL._SL200_.jpg' ]

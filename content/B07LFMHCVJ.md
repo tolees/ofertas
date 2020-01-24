@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas PV19 2057ROJO Camiseta ' al 41.073703366697 % de descuento
+title: 'Dolores Promesas PV19 2057ROJO Camiseta  al 41.073703366697 % de descuento'
 date: 2019/11/09 21:42:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TE7CHJ%2BnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TE7CHJ%2BnL._SL200_.jpg' ]

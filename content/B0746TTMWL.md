@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ultrasport Advanced Chaqueta 3 en 1  Tod' al 61.49572174686075 % de descuento
+title: 'Ultrasport Advanced Chaqueta 3 en 1  Tod al 61.49572174686075 % de descuento'
 date: 2019/10/05 10:58:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hms0MXLgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hms0MXLgL._SL200_.jpg' ]

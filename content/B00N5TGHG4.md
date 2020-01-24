@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb - PureVision 2 Tóricas - L' al 69.520697167756 % de descuento
+title: 'Bausch & Lomb - PureVision 2 Tóricas - L al 69.520697167756 % de descuento'
 date: 2019/12/06 21:35:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415up3aJHHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415up3aJHHL._SL200_.jpg' ]

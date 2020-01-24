@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moulinex Multimoulinette Compact DJ30011' al 26.156539134783696 % de descuento
+title: 'Moulinex Multimoulinette Compact DJ30011 al 26.156539134783696 % de descuento'
 date: 2020-01-15 18:47:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pR1L-B0%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pR1L-B0%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star Raw Ladd Belt Cinturón  Marrón  D' al 43.96396396396397 % de descuento
+title: 'G-Star Raw Ladd Belt Cinturón  Marrón  D al 43.96396396396397 % de descuento'
 date: 2019/11/23 20:01:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N47CogteL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N47CogteL._SL200_.jpg' ]

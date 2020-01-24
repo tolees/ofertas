@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.8 % en 'BILLABONG All Day LB Bañador  Negro  Bla'
+title: 'Descuento del 77.8 % en BILLABONG All Day LB Bañador  Negro  Bla'
 date: 2019/12/09 05:02:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4100CAPcHIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4100CAPcHIL._SL200_.jpg' ]

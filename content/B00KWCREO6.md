@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.66936966158503 % en 'Onitsuka Tiger Mexico 66  Zapatillas Uni'
+title: 'Descuento del 41.66936966158503 % en Onitsuka Tiger Mexico 66  Zapatillas Uni'
 date: 2019/11/08 12:41:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IMsCPxDqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IMsCPxDqL._SL200_.jpg' ]

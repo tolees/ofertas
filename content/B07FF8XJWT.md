@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Last of us Hits - Versión 14' al 40.02001000500249 % de descuento
+title: 'The Last of us Hits - Versión 14 al 40.02001000500249 % de descuento'
 date: 2019/12/21 08:32:37 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

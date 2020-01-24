@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.040109389243405 % en 'Cecotec Aspirador Trineo Conga Turbocicl'
+title: 'Descuento del 48.040109389243405 % en Cecotec Aspirador Trineo Conga Turbocicl'
 date: 2020-01-04 22:27:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X6t2yTSzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X6t2yTSzL._SL200_.jpg' ]

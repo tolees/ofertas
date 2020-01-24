@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.259768677711786 % en 'Recci Cubrecolchón 90x190/200 - Cubre Co'
+title: 'Descuento del 31.259768677711786 % en Recci Cubrecolchón 90x190/200 - Cubre Co'
 date: 2020-01-17 08:10:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D9burgPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D9burgPFL._SL200_.jpg' ]

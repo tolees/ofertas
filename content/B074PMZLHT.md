@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.36836836836837 % en 'Skechers Microburst-Scholar Spirit  Merc'
+title: 'Descuento del 48.36836836836837 % en Skechers Microburst-Scholar Spirit  Merc'
 date: 2019/10/14 16:46:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hdNo8P0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hdNo8P0aL._SL200_.jpg' ]

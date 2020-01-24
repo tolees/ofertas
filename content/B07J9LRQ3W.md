@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.92727272727273 % en 'Under Armour Hustle 4.0 1342651-001  Moc'
+title: 'Descuento del 50.92727272727273 % en Under Armour Hustle 4.0 1342651-001  Moc'
 date: 2019/12/17 09:22:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oRGRIrNWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oRGRIrNWL._SL200_.jpg' ]

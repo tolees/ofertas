@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Graceful-Get Connected  Zapatil' al 45.04504504504505 % de descuento
+title: 'Skechers Graceful-Get Connected  Zapatil al 45.04504504504505 % de descuento'
 date: 2020-01-10 20:42:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F8CyhMxaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F8CyhMxaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.89655172413793 % en 'Tommy Jeans Mujer Cropped Logo  Camiseta'
+title: 'Descuento del 48.89655172413793 % en Tommy Jeans Mujer Cropped Logo  Camiseta'
 date: 2019/11/09 13:22:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YeDf2-DZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YeDf2-DZL._SL200_.jpg' ]

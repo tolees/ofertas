@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop Star Wars Solo 26979 Tobias Be' al 66.59436008676789 % de descuento
+title: 'Funko Pop Star Wars Solo 26979 Tobias Be al 66.59436008676789 % de descuento'
 date: 2020-01-23 01:05:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Gik6PZXqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Gik6PZXqL._SL200_.jpg' ]

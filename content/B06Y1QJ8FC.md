@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Renberg Latte Taza Termo de Viaje  Acero' al 28.364849833147943 % de descuento
+title: 'Renberg Latte Taza Termo de Viaje  Acero al 28.364849833147943 % de descuento'
 date: 2019/10/17 17:51:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xAywyH22L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xAywyH22L._SL200_.jpg' ]

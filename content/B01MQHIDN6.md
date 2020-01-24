@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Geox U Dublin A  Zapatos de Cordones Der'
+title: 'Descuento del 50.0 % en Geox U Dublin A  Zapatos de Cordones Der'
 date: 2019/10/12 16:33:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YMa0nDNPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YMa0nDNPL._SL200_.jpg' ]

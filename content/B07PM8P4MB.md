@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.65765765765766 % en 'Champion Crewneck Sweatshirt Sudadera  G'
+title: 'Descuento del 37.65765765765766 % en Champion Crewneck Sweatshirt Sudadera  G'
 date: 2019/12/02 15:57:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WNmx-8TQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WNmx-8TQL._SL200_.jpg' ]

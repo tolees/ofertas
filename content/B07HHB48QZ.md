@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cúrcuma 6000 mg  Extracto al 95% con Pim' al 37.18181818181818 % de descuento
+title: 'Cúrcuma 6000 mg  Extracto al 95% con Pim al 37.18181818181818 % de descuento'
 date: 2019/12/08 23:31:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410%2Bav0pdIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410%2Bav0pdIL._SL200_.jpg' ]

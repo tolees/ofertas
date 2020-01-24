@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.56671334266853 % en 'Cool Maker Estudio de Alfarería  BIZAK 6'
+title: 'Descuento del 33.56671334266853 % en Cool Maker Estudio de Alfarería  BIZAK 6'
 date: 2020-01-23 15:33:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nh1nh0fkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nh1nh0fkL._SL200_.jpg' ]

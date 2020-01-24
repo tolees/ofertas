@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Texas Contrast Vaqueros  Azul  ' al 49.99444135630906 % de descuento
+title: 'Wrangler Texas Contrast Vaqueros  Azul   al 49.99444135630906 % de descuento'
 date: 2020-01-08 23:00:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-dweQdcHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-dweQdcHL._SL200_.jpg' ]

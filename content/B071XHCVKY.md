@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Bikini  Gris  Grey Heather ' al 28.642857142857135 % de descuento
+title: 'Calvin Klein Bikini  Gris  Grey Heather  al 28.642857142857135 % de descuento'
 date: 2020-01-18 20:56:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P0rN50qLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.000000000000004 % en 'Samsonite - Cosmolite - Spinner Equipaje'
+title: 'Descuento del 30.000000000000004 % en Samsonite - Cosmolite - Spinner Equipaje'
 date: 2020-01-18 20:04:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kFWsEH9dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kFWsEH9dL._SL200_.jpg' ]

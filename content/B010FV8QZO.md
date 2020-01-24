@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cajonera metálica Realspace 2 cajones gr' al 47.62344787756281 % de descuento
+title: 'Cajonera metálica Realspace 2 cajones gr al 47.62344787756281 % de descuento'
 date: 2019/12/22 09:44:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31docen1MfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31docen1MfL._SL200_.jpg' ]

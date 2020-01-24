@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual 19WAXP01 - Bolso de hombro de S' al 58.03803803803804 % de descuento
+title: 'Desigual 19WAXP01 - Bolso de hombro de S al 58.03803803803804 % de descuento'
 date: 2020-01-24 13:34:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51snA6CMKaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51snA6CMKaL._AC_._SL200_.jpg' ]

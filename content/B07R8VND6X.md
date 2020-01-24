@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diono Orcas NXT Fix ISOFIX Car Seat  Gro' al 55.987799389969496 % de descuento
+title: 'Diono Orcas NXT Fix ISOFIX Car Seat  Gro al 55.987799389969496 % de descuento'
 date: 2020-01-03 11:48:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AZdcbxY4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AZdcbxY4L._SL200_.jpg' ]

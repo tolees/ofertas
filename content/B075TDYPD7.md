@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trucco - Jersey para mujer  color blanco' al 58.07259073842304 % de descuento
+title: 'Trucco - Jersey para mujer  color blanco al 58.07259073842304 % de descuento'
 date: 2019/11/03 22:09:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yz5IAYApL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yz5IAYApL._SL200_.jpg' ]

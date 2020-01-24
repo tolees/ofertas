@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.85467738772307 % en 'Gal Gun: Double Peace'
+title: 'Descuento del 58.85467738772307 % en Gal Gun: Double Peace'
 date: 2019/11/12 10:31:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511z9G7tMpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511z9G7tMpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.234375 % en 'Timex T5K1959J - Reloj digital con corre'
+title: 'Descuento del 44.234375 % en Timex T5K1959J - Reloj digital con corre'
 date: 2019/12/21 18:06:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q4sL-J0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q4sL-J0kL._SL200_.jpg' ]

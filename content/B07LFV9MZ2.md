@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D ANNYA High A  Botines para Mujer ' al 50.99356683345246 % de descuento
+title: 'Geox D ANNYA High A  Botines para Mujer  al 50.99356683345246 % de descuento'
 date: 2019/11/23 11:34:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3171roeSamL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3171roeSamL._SL200_.jpg' ]

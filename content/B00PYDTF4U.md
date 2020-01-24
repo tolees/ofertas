@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.269733805200794 % en 'Nike MD Runner 2  Zapatillas de Running '
+title: 'Descuento del 53.269733805200794 % en Nike MD Runner 2  Zapatillas de Running '
 date: 2019/11/20 09:23:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sUnx-QWIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sUnx-QWIL._SL200_.jpg' ]

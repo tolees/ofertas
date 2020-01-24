@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Core Stretch Slim Vneck t' al 56.390977443609025 % de descuento
+title: 'Tommy Hilfiger Core Stretch Slim Vneck t al 56.390977443609025 % de descuento'
 date: 2019/10/10 22:51:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg' ]

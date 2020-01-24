@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 80.608586911213 % en 'Puma Platform Kiss Artica Wn s  Zapatill'
+title: 'Descuento del 80.608586911213 % en Puma Platform Kiss Artica Wn s  Zapatill'
 date: 2019/11/04 08:54:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pB7GHTwqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pB7GHTwqL._SL200_.jpg' ]

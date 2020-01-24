@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange 8nztcd Camiseta  Gris  B' al 45.95121951219512 % de descuento
+title: 'Armani Exchange 8nztcd Camiseta  Gris  B al 45.95121951219512 % de descuento'
 date: 2019/11/12 04:46:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wS5ZZRfiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wS5ZZRfiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.67039106145251 % en 'Clementoni - Puzzle 3 x 48  Avengers  25'
+title: 'Descuento del 40.67039106145251 % en Clementoni - Puzzle 3 x 48  Avengers  25'
 date: 2019/12/29 15:02:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DBx8ty5zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DBx8ty5zL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bresser Trípode de mesa de 24cm' al 55.50561797752809 % de descuento
+title: 'Bresser Trípode de mesa de 24cm al 55.50561797752809 % de descuento'
 date: 2020-01-20 11:55:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pIU-aVBFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pIU-aVBFL._SL200_.jpg' ]

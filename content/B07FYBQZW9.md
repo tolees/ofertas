@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler LS Western Shirt Camisa  Rojo  ' al 32.648870636550306 % de descuento
+title: 'Wrangler LS Western Shirt Camisa  Rojo   al 32.648870636550306 % de descuento'
 date: 2019/12/30 19:29:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ezstCKcLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ezstCKcLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yves Saint Laurent Opium Gel De Ducha 20' al 46.15384615384615 % de descuento
+title: 'Yves Saint Laurent Opium Gel De Ducha 20 al 46.15384615384615 % de descuento'
 date: 2019/12/16 22:32:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pvfQxzyLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pvfQxzyLL._SL200_.jpg' ]

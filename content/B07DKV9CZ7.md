@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA EVOSTRIPE Pants  Mujer  Medium Gray' al 69.90825688073394 % de descuento
+title: 'PUMA EVOSTRIPE Pants  Mujer  Medium Gray al 69.90825688073394 % de descuento'
 date: 2019/10/19 18:23:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GThHw1aNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GThHw1aNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 81.26954346466542 % en 'Aeronautica Militare Herren Round Neck L'
+title: 'Descuento del 81.26954346466542 % en Aeronautica Militare Herren Round Neck L'
 date: 2019/11/24 09:53:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fgUQkLHsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fgUQkLHsL._SL200_.jpg' ]

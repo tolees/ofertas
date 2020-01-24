@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.34375 % en 'find. Blusa de Rayas Oversize con Volant'
+title: 'Descuento del 55.34375 % en find. Blusa de Rayas Oversize con Volant'
 date: 2019/10/28 15:49:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BB2q1qEBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BB2q1qEBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Redmond V2  Botas de Senderismo' al 56.214201291026455 % de descuento
+title: 'Columbia Redmond V2  Botas de Senderismo al 56.214201291026455 % de descuento'
 date: 2019/11/22 01:51:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XvaFLjIjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XvaFLjIjL._SL200_.jpg' ]

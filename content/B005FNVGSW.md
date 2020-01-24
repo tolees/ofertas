@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Palmers Cocoa Butter Scented Moisturizin' al 28.767123287671225 % de descuento
+title: 'Palmers Cocoa Butter Scented Moisturizin al 28.767123287671225 % de descuento'
 date: 2020-01-22 01:45:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ae34hDlbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ae34hDlbL._SL200_.jpg' ]

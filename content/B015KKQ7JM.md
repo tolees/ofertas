@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.72226855713095 % en 'Kappa Speed II  Zapatillas Unisex Adulto'
+title: 'Descuento del 66.72226855713095 % en Kappa Speed II  Zapatillas Unisex Adulto'
 date: 2019/10/23 23:47:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418C%2B%2Bq2aVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418C%2B%2Bq2aVL._SL200_.jpg' ]

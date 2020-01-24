@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.003573981415293 % en 'Botas para Mujer  Color Morado  Marca SK'
+title: 'Descuento del 25.003573981415293 % en Botas para Mujer  Color Morado  Marca SK'
 date: 2019/12/31 11:50:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e8k3SP5PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e8k3SP5PL._SL200_.jpg' ]

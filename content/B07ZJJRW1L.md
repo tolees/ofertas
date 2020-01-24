@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.062578222778484 % en 'DANISH ENDURANCE Calcetines de Algodón P'
+title: 'Descuento del 50.062578222778484 % en DANISH ENDURANCE Calcetines de Algodón P'
 date: 2020-01-14 11:34:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CTwUnl3mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CTwUnl3mL._SL200_.jpg' ]

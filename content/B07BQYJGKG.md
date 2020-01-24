@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.261538461538464 % en 'New Balance 415  Zapatillas Deportivas p'
+title: 'Descuento del 56.261538461538464 % en New Balance 415  Zapatillas Deportivas p'
 date: 2019/10/31 20:20:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J9txY5bUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J9txY5bUL._SL200_.jpg' ]

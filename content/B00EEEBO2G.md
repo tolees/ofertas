@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.15384615384615 % en 'Cubierta MTB  29x2 25  Maxxis Ardent Tub'
+title: 'Descuento del 46.15384615384615 % en Cubierta MTB  29x2 25  Maxxis Ardent Tub'
 date: 2019/10/07 22:47:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qdvEWWGHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qdvEWWGHL._SL200_.jpg' ]

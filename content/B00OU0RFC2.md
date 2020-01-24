@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.5 % en 'Michael Kors Reloj Analógico para Mujer '
+title: 'Descuento del 37.5 % en Michael Kors Reloj Analógico para Mujer '
 date: 2019/12/16 12:55:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k%2BViw7QCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k%2BViw7QCL._SL200_.jpg' ]

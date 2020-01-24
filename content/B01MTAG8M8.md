@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KangaROOS XCAPE Kids  Zapatillas Unisex ' al 59.966611018363935 % de descuento
+title: 'KangaROOS XCAPE Kids  Zapatillas Unisex  al 59.966611018363935 % de descuento'
 date: 2019/11/13 11:51:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411nq6olcWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411nq6olcWL._SL200_.jpg' ]

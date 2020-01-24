@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.56345854634364 % en 'Russell Hobbs Horizon Mix & Go Boost - B'
+title: 'Descuento del 35.56345854634364 % en Russell Hobbs Horizon Mix & Go Boost - B'
 date: 2020-01-11 13:04:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4146CdUNl2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4146CdUNl2L._SL200_.jpg' ]

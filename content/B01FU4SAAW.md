@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Shield Hoodie Capucha  Azul  Dark J' al 30.775387693846923 % de descuento
+title: 'Gant Shield Hoodie Capucha  Azul  Dark J al 30.775387693846923 % de descuento'
 date: 2019/10/13 07:52:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512Z3PUlByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512Z3PUlByL._SL200_.jpg' ]

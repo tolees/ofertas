@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Farming Simulator 19 - Collector Edition' al 30.006668148477445 % de descuento
+title: 'Farming Simulator 19 - Collector Edition al 30.006668148477445 % de descuento'
 date: 2019/12/12 23:47:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gkCyBOE4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gkCyBOE4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDR-EX110AP - Auriculares in-ear  c' al 32.04 % de descuento
+title: 'Sony MDR-EX110AP - Auriculares in-ear  c al 32.04 % de descuento'
 date: 2019/12/08 02:04:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C2KRrEFSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C2KRrEFSL._SL200_.jpg' ]

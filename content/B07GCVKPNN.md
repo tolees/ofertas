@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'sogoo 50 x 70cm 22.5W Espejo de pared es' al 52.14722071009496 % de descuento
+title: 'sogoo 50 x 70cm 22.5W Espejo de pared es al 52.14722071009496 % de descuento'
 date: 2020-01-03 12:38:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KYNzRITNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KYNzRITNL._SL200_.jpg' ]

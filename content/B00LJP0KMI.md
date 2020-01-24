@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Curtis  Parka para Hombre  Negro' al 34.70542635658914 % de descuento
+title: 'Dickies Curtis  Parka para Hombre  Negro al 34.70542635658914 % de descuento'
 date: 2019/12/11 01:16:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B3n9GYdL._SL200_.jpg' ]

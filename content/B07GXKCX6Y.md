@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mando Inalámbrico GameCube  Color Negro ' al 26.77999507267801 % de descuento
+title: 'Mando Inalámbrico GameCube  Color Negro  al 26.77999507267801 % de descuento'
 date: 2020-01-12 09:16:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WlsJ9w2vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WlsJ9w2vL._SL200_.jpg' ]

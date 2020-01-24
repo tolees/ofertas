@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer UM.WW3EE.001- Monitor LED de 21.5" ' al 30.835230257398006 % de descuento
+title: 'Acer UM.WW3EE.001- Monitor LED de 21.5"  al 30.835230257398006 % de descuento'
 date: 2019/11/02 17:15:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LxtMP9yhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LxtMP9yhL._SL200_.jpg' ]

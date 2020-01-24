@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Favorite Legging WM Graphic' al 73.52727272727273 % de descuento
+title: 'Under Armour Favorite Legging WM Graphic al 73.52727272727273 % de descuento'
 date: 2019/10/29 11:37:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B9tdT4xBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B9tdT4xBL._SL200_.jpg' ]

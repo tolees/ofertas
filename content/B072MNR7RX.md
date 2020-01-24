@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Northweek Bold Lipslide - Gafas de Sol p' al 50.0 % de descuento
+title: 'Northweek Bold Lipslide - Gafas de Sol p al 50.0 % de descuento'
 date: 2019/11/19 11:53:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EjNMSG6KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EjNMSG6KL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Álvarez Gómez - Agua Fresca de Baño Clás' al 56.62068965517242 % de descuento
+title: 'Álvarez Gómez - Agua Fresca de Baño Clás al 56.62068965517242 % de descuento'
 date: 2019/10/09 14:32:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nwlmZU4%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nwlmZU4%2BL._SL200_.jpg' ]

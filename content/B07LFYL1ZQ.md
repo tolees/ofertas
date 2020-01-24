@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.987987987987985 % en 'Geox UOMO Snake E  Zapatillas para Hombr'
+title: 'Descuento del 57.987987987987985 % en Geox UOMO Snake E  Zapatillas para Hombr'
 date: 2019/11/23 22:33:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I3q9t-n4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I3q9t-n4L._SL200_.jpg' ]

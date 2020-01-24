@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34006870074763 % en 'adidas Originals X_PLR  Zapatillas para '
+title: 'Descuento del 33.34006870074763 % en adidas Originals X_PLR  Zapatillas para '
 date: 2020-01-04 20:50:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ruwslpv0L._SL200_.jpg' ]

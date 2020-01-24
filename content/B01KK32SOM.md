@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.21276595744681 % en 'K nex - Noria Revolution  344 Piezas  41'
+title: 'Descuento del 50.21276595744681 % en K nex - Noria Revolution  344 Piezas  41'
 date: 2020-01-23 10:01:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ELFpl1%2BwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ELFpl1%2BwL._SL200_.jpg' ]

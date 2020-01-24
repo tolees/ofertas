@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luces de Cadena de Cortina  3M x2M Corti' al 50.03001801080649 % de descuento
+title: 'Luces de Cadena de Cortina  3M x2M Corti al 50.03001801080649 % de descuento'
 date: 2020-01-19 11:55:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/614ow%2B7ZynL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/614ow%2B7ZynL._SL200_.jpg' ]

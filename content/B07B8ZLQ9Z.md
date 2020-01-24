@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.053333333333335 % en 'Camper Neuman  Zapatos de cordones Oxfor'
+title: 'Descuento del 32.053333333333335 % en Camper Neuman  Zapatos de cordones Oxfor'
 date: 2019/12/03 16:04:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KhXAoE-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KhXAoE-pL._SL200_.jpg' ]

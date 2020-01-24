@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.134033508377094 % en 'Ravensburger- Juego Laberinto  Glow in T'
+title: 'Descuento del 36.134033508377094 % en Ravensburger- Juego Laberinto  Glow in T'
 date: 2019/12/30 17:45:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61SaNdT7XkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61SaNdT7XkL._SL200_.jpg' ]

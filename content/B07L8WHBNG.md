@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY M3846 .000.2660 Camiseta  Verde  ' al 60.14285714285714 % de descuento
+title: 'REPLAY M3846 .000.2660 Camiseta  Verde   al 60.14285714285714 % de descuento'
 date: 2020-01-20 12:12:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eSX2bUNYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eSX2bUNYL._SL200_.jpg' ]

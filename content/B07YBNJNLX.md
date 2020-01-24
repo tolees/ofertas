@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34444814938313 % en 'Parfois - Mochila Estampada - Mujeres - '
+title: 'Descuento del 33.34444814938313 % en Parfois - Mochila Estampada - Mujeres - '
 date: 2020-01-17 13:06:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nZ4RuboRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nZ4RuboRL._SL200_.jpg' ]

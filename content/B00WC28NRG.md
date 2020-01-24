@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thomas Earnshaw Smart Watch Armbanduhr E' al 68.65842696629214 % de descuento
+title: 'Thomas Earnshaw Smart Watch Armbanduhr E al 68.65842696629214 % de descuento'
 date: 2019/11/08 05:52:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ALCM-puhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ALCM-puhL._SL200_.jpg' ]

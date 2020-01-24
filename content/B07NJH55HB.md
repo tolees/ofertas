@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas 108168 Camiseta  Blanco' al 26.38370118845501 % de descuento
+title: 'Dolores Promesas 108168 Camiseta  Blanco al 26.38370118845501 % de descuento'
 date: 2019/12/04 02:14:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419PCixiSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419PCixiSRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DADYPET Alfombrilla Gato  Mascotas Gatos' al 33.34444814938313 % de descuento
+title: 'DADYPET Alfombrilla Gato  Mascotas Gatos al 33.34444814938313 % de descuento'
 date: 2020-01-19 14:35:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pLhr2YJYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pLhr2YJYL._SL200_.jpg' ]

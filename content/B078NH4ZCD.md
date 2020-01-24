@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor CTAS Lift Clean Ox' al 25.956396544631833 % de descuento
+title: 'Converse Chuck Taylor CTAS Lift Clean Ox al 25.956396544631833 % de descuento'
 date: 2019/10/10 12:31:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414rnuz81XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414rnuz81XL._SL200_.jpg' ]

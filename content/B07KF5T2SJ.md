@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.36776957867174 % en 'Levi s Women s 310 Shaping Super Skinny '
+title: 'Descuento del 55.36776957867174 % en Levi s Women s 310 Shaping Super Skinny '
 date: 2020-01-13 10:23:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zrnm-nCtL._SL200_.jpg' ]

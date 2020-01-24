@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gioseppo 47833  Sandalias con Punta Abie' al 63.581757508342605 % de descuento
+title: 'Gioseppo 47833  Sandalias con Punta Abie al 63.581757508342605 % de descuento'
 date: 2019/10/18 14:18:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lyCWFNSwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lyCWFNSwL._SL200_.jpg' ]

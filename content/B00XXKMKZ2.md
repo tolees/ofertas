@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.29608938547486 % en 'Adidas AA2297  Calcetines Unisex  Blanco'
+title: 'Descuento del 33.29608938547486 % en Adidas AA2297  Calcetines Unisex  Blanco'
 date: 2020-01-23 16:50:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PfSVuy2iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PfSVuy2iL._SL200_.jpg' ]

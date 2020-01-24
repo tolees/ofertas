@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Happers Puff Pelota Polipiel Indoor Turq' al 37.43429286608261 % de descuento
+title: 'Happers Puff Pelota Polipiel Indoor Turq al 37.43429286608261 % de descuento'
 date: 2019/12/13 19:08:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lOtw2kvzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lOtw2kvzL._SL200_.jpg' ]

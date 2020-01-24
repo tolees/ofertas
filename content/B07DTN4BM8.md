@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AOC Gaming C24G1 59 9 cm  23 6 Zoll  Cur' al 35.15981735159818 % de descuento
+title: 'AOC Gaming C24G1 59 9 cm  23 6 Zoll  Cur al 35.15981735159818 % de descuento'
 date: 2019/12/18 09:05:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qT8qm0gBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qT8qm0gBL._SL200_.jpg' ]

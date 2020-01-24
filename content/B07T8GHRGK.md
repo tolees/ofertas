@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.50781347668459 % en 'Set 2 sartenes Ø24+28cm aluminio prensad'
+title: 'Descuento del 62.50781347668459 % en Set 2 sartenes Ø24+28cm aluminio prensad'
 date: 2019/11/22 15:43:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AJQbxhsbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AJQbxhsbL._SL200_.jpg' ]

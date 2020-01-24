@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.887499999999996 % en 'Under Armour Challenger II Knit Warm-Up '
+title: 'Descuento del 46.887499999999996 % en Under Armour Challenger II Knit Warm-Up '
 date: 2019/11/28 11:50:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C3dAqsRbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C3dAqsRbL._SL200_.jpg' ]

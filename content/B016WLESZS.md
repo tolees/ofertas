@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.82274247491638 % en 'Manguera Flexible Bestway 3 m. Diámetro '
+title: 'Descuento del 46.82274247491638 % en Manguera Flexible Bestway 3 m. Diámetro '
 date: 2019/10/23 16:33:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312KUcX5khL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312KUcX5khL._SL200_.jpg' ]

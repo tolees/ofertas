@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sophie La Girafe 616624.0 - Chupete So P' al 29.480000000000008 % de descuento
+title: 'Sophie La Girafe 616624.0 - Chupete So P al 29.480000000000008 % de descuento'
 date: 2019/10/06 23:28:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jtc3LYaJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jtc3LYaJL._SL200_.jpg' ]

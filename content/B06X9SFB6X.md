@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shiseido Synchro Fondo de Maquillaje Col' al 43.34503670603256 % de descuento
+title: 'Shiseido Synchro Fondo de Maquillaje Col al 43.34503670603256 % de descuento'
 date: 2019/10/09 03:29:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GolL7G9%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GolL7G9%2BL._SL200_.jpg' ]

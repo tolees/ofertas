@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.00675675675676 % en 'Uhlsport - Stream 3.0 Shirt L/S  Color V'
+title: 'Descuento del 73.00675675675676 % en Uhlsport - Stream 3.0 Shirt L/S  Color V'
 date: 2019/11/27 08:08:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mUi6Yc4iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mUi6Yc4iL._SL200_.jpg' ]

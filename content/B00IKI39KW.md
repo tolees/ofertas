@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung EF-WG900 - Funda para móvil Gala' al 74.68671679197996 % de descuento
+title: 'Samsung EF-WG900 - Funda para móvil Gala al 74.68671679197996 % de descuento'
 date: 2019/11/09 08:17:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KS%2B9yWBCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KS%2B9yWBCL._SL200_.jpg' ]

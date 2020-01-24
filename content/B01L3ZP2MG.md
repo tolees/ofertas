@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.462731365682835 % en 'HP Z3700 RF Raton óptico inalámbrico 120'
+title: 'Descuento del 25.462731365682835 % en HP Z3700 RF Raton óptico inalámbrico 120'
 date: 2019/10/26 10:39:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312BCq4lFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312BCq4lFhL._SL200_.jpg' ]

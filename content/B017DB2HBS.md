@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.322580645161278 % en 'L Oréal Paris Colorete Infalible Trio 10'
+title: 'Descuento del 30.322580645161278 % en L Oréal Paris Colorete Infalible Trio 10'
 date: 2019/11/02 03:29:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WkQcEh%2BTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WkQcEh%2BTL._SL200_.jpg' ]

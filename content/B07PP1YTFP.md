@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COOLMAN Pulseras Hombre Acero Inoxidable' al 81.26032043557817 % de descuento
+title: 'COOLMAN Pulseras Hombre Acero Inoxidable al 81.26032043557817 % de descuento'
 date: 2019/11/13 06:09:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513ssDRpy-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513ssDRpy-L._SL200_.jpg' ]

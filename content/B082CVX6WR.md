@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2020 Auriculares inalámbricos Bluetooth ' al 39.404040404040394 % de descuento
+title: '2020 Auriculares inalámbricos Bluetooth  al 39.404040404040394 % de descuento'
 date: 2020-01-18 08:17:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419hBKHq0UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419hBKHq0UL._SL200_.jpg' ]

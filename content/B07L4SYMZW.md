@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.684314277668264 % en 'CASIO Reloj Analógico para Hombre de Cua'
+title: 'Descuento del 50.684314277668264 % en CASIO Reloj Analógico para Hombre de Cua'
 date: 2019/11/18 17:56:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gDJHThIaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gDJHThIaL._SL200_.jpg' ]

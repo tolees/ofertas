@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MERAKI Sudadera con Capucha Mujer  Gris ' al 70.0 % de descuento
+title: 'MERAKI Sudadera con Capucha Mujer  Gris  al 70.0 % de descuento'
 date: 2019/10/24 07:48:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Aj5cRj9QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Aj5cRj9QL._SL200_.jpg' ]

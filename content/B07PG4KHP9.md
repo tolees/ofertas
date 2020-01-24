@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Dri-Fit Harvey Blocked Serape S' al 40.0 % de descuento
+title: 'Hurley M Dri-Fit Harvey Blocked Serape S al 40.0 % de descuento'
 date: 2019/12/04 16:55:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416RZblbhML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416RZblbhML._SL200_.jpg' ]

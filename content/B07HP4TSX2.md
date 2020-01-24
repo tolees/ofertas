@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.781945486371594 % en 'Mini Estufa Eléctrica Calefactor Cerámic'
+title: 'Descuento del 27.781945486371594 % en Mini Estufa Eléctrica Calefactor Cerámic'
 date: 2019/11/02 20:01:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HBSJasQfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HBSJasQfL._SL200_.jpg' ]

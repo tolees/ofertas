@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'GODNECE LED Licht-Set für Baustein  Led '
+title: 'Descuento del 50.0 % en GODNECE LED Licht-Set für Baustein  Led '
 date: 2020-01-23 18:17:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xQYJ%2B%2BTxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xQYJ%2B%2BTxL._SL200_.jpg' ]

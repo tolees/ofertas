@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.812080536912756 % en 'MERAKI AP006 Camisetas  Mujer  Negro  Bl'
+title: 'Descuento del 31.812080536912756 % en MERAKI AP006 Camisetas  Mujer  Negro  Bl'
 date: 2019/12/08 16:32:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DDn5w9uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DDn5w9uL._SL200_.jpg' ]

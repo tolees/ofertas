@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.46337876262378 % en 'Orbegozo HBF 90 Estufa de Butano  Triple'
+title: 'Descuento del 26.46337876262378 % en Orbegozo HBF 90 Estufa de Butano  Triple'
 date: 2020-01-19 12:54:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nbt9QAxGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nbt9QAxGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.21448467966573 % en 'Hollywood Star Fashion Camisa de Manga C'
+title: 'Descuento del 72.21448467966573 % en Hollywood Star Fashion Camisa de Manga C'
 date: 2020-01-18 17:14:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sCfYV-VpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sCfYV-VpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei Mate20 Pro 128 GB/6 GB Single SIM' al 55.05505505505506 % de descuento
+title: 'Huawei Mate20 Pro 128 GB/6 GB Single SIM al 55.05505505505506 % de descuento'
 date: 2019/11/28 19:23:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EwOGaK-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EwOGaK-JL._SL200_.jpg' ]

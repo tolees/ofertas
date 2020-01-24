@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.08042598036497 % en 'Teka  EWH 50 - Termo eléctrico de instal'
+title: 'Descuento del 50.08042598036497 % en Teka  EWH 50 - Termo eléctrico de instal'
 date: 2020-01-18 06:22:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B6rdScJhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B6rdScJhL._SL200_.jpg' ]

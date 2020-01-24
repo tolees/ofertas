@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Alphacross GTX  Zapatillas de Tr' al 45.26603001364256 % de descuento
+title: 'Salomon Alphacross GTX  Zapatillas de Tr al 45.26603001364256 % de descuento'
 date: 2020-01-12 23:01:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4104WgtWpbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4104WgtWpbL._SL200_.jpg' ]

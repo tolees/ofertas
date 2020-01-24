@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.762499999999996 % en 'Bossgo Cargador inalámbrico  Estación de'
+title: 'Descuento del 58.762499999999996 % en Bossgo Cargador inalámbrico  Estación de'
 date: 2019/12/28 19:37:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Su1B4JrCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Su1B4JrCL._SL200_.jpg' ]

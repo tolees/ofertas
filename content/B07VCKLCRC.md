@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.654618473895574 % en 'Hugo Boss Reloj Analógico para Mujer de '
+title: 'Descuento del 37.654618473895574 % en Hugo Boss Reloj Analógico para Mujer de '
 date: 2019/12/04 22:28:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Wqw2hBudL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Wqw2hBudL._SL200_.jpg' ]

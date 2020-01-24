@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'S-Line Shots Dicky Jabón - 317 gr' al 59.050131926121374 % de descuento
+title: 'S-Line Shots Dicky Jabón - 317 gr al 59.050131926121374 % de descuento'
 date: 2019/10/18 03:57:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21n3DGlvYbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21n3DGlvYbL._SL200_.jpg' ]

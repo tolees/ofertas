@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Barra de Sonido Envolvente EXCELVAN S18L' al 30.003000300030003 % de descuento
+title: 'Barra de Sonido Envolvente EXCELVAN S18L al 30.003000300030003 % de descuento'
 date: 2019/12/06 20:06:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CLJb5aR9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CLJb5aR9L._SL200_.jpg' ]

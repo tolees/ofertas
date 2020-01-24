@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Camper Wabi  Pantuflas Para Mujer  color' al 49.471428571428575 % de descuento
+title: 'Camper Wabi  Pantuflas Para Mujer  color al 49.471428571428575 % de descuento'
 date: 2019/11/16 22:31:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419UlSUO%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419UlSUO%2BiL._SL200_.jpg' ]

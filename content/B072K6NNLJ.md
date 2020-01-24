@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple Magic Keyboard con teclado numéric' al 36.241610738255034 % de descuento
+title: 'Apple Magic Keyboard con teclado numéric al 36.241610738255034 % de descuento'
 date: 2019/12/25 16:02:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Eqwbg0YJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Eqwbg0YJL._SL200_.jpg' ]

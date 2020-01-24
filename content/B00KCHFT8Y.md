@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLEND Jeans-Noos Cirrus Parte de Arriba ' al 49.23908690428513 % de descuento
+title: 'BLEND Jeans-Noos Cirrus Parte de Arriba  al 49.23908690428513 % de descuento'
 date: 2019/12/13 15:00:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lN0Gme4bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lN0Gme4bL._SL200_.jpg' ]

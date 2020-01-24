@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple iPhone XS Max  de 256GB  - Plata' al 29.646350639578635 % de descuento
+title: 'Apple iPhone XS Max  de 256GB  - Plata al 29.646350639578635 % de descuento'
 date: 2020-01-24 05:17:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lrkZsL3RL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.83136627325466 % en 'Fade to Silence - Xbox One'
+title: 'Descuento del 56.83136627325466 % en Fade to Silence - Xbox One'
 date: 2020-01-17 08:06:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yOluAff9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yOluAff9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CRSM - Cárdigan - para Hombre Negro M' al 38.64488484199251 % de descuento
+title: 'CRSM - Cárdigan - para Hombre Negro M al 38.64488484199251 % de descuento'
 date: 2019/12/24 15:53:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j5pC9vSAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j5pC9vSAL._SL200_.jpg' ]

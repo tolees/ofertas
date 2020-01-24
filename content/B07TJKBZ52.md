@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.92840095465394 % en 'Trilogía Edgar Wright  BD  [Blu-ray]'
+title: 'Descuento del 49.92840095465394 % en Trilogía Edgar Wright  BD  [Blu-ray]'
 date: 2019/11/27 23:05:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fwdXxziZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fwdXxziZL._SL200_.jpg' ]

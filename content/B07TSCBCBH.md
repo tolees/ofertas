@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Telémetro láser 50m  USB 30mins Carga rá' al 50.00833472245374 % de descuento
+title: 'Telémetro láser 50m  USB 30mins Carga rá al 50.00833472245374 % de descuento'
 date: 2020-01-13 07:57:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dLT7Yv4aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dLT7Yv4aL._SL200_.jpg' ]

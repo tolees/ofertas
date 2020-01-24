@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor Core Lea Ox  Zapat' al 32.5125 % de descuento
+title: 'Converse Chuck Taylor Core Lea Ox  Zapat al 32.5125 % de descuento'
 date: 2019/10/09 09:01:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xJTEgbSxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xJTEgbSxL._SL200_.jpg' ]

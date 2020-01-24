@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.56823884504891 % en 'Peli Carcasa 1490 para cámara - Negro'
+title: 'Descuento del 26.56823884504891 % en Peli Carcasa 1490 para cámara - Negro'
 date: 2019/10/14 04:56:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CUnWorOGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CUnWorOGL._SL200_.jpg' ]

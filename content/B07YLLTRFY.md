@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maletas de Cabina 55x40x20 con USB de Ca' al 27.363636363636356 % de descuento
+title: 'Maletas de Cabina 55x40x20 con USB de Ca al 27.363636363636356 % de descuento'
 date: 2020-01-02 16:46:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r-1jAakFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r-1jAakFL._SL200_.jpg' ]

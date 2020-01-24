@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG SL9YG - Barra de Sonido 4.1.2 con Tec' al 39.30037546933667 % de descuento
+title: 'LG SL9YG - Barra de Sonido 4.1.2 con Tec al 39.30037546933667 % de descuento'
 date: 2019/11/29 00:00:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21uBuJjb17L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21uBuJjb17L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TACKLIFE Juego de Llaves Allen 30 Llaves' al 35.01750875437718 % de descuento
+title: 'TACKLIFE Juego de Llaves Allen 30 Llaves al 35.01750875437718 % de descuento'
 date: 2020-01-15 16:22:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b7Opl9rJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b7Opl9rJL._SL200_.jpg' ]

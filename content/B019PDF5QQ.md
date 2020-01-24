@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.263157894736835 % en 'Vans Sk8-hi Lite  Zapatillas Altas Unise'
+title: 'Descuento del 55.263157894736835 % en Vans Sk8-hi Lite  Zapatillas Altas Unise'
 date: 2019/10/22 19:01:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EPeYwiKvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EPeYwiKvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Rival Blocked Jogger Pantal' al 50.125 % de descuento
+title: 'Under Armour Rival Blocked Jogger Pantal al 50.125 % de descuento'
 date: 2019/11/07 18:33:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xnfuq2uYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xnfuq2uYL._SL200_.jpg' ]

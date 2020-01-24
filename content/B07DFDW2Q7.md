@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.141065830721004 % en 'Pop! Five Nights At Freddy S - Figura de'
+title: 'Descuento del 45.141065830721004 % en Pop! Five Nights At Freddy S - Figura de'
 date: 2019/12/15 23:55:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N9LDn8mjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N9LDn8mjL._SL200_.jpg' ]

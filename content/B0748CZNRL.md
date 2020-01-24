@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Limpiador de Poros - Xpreen Extractor de' al 63.343890648441416 % de descuento
+title: 'Limpiador de Poros - Xpreen Extractor de al 63.343890648441416 % de descuento'
 date: 2019/11/15 14:49:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xkUohqZ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xkUohqZ6L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'QHOHQ Protector de Pantalla para Xiaomi ' al 61.893764434180135 % de descuento
+title: 'QHOHQ Protector de Pantalla para Xiaomi  al 61.893764434180135 % de descuento'
 date: 2019/12/12 08:57:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HpY3sxRjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HpY3sxRjL._SL200_.jpg' ]

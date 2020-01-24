@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.90557939914163 % en 'Amazon Essentials - Polo de manga corta '
+title: 'Descuento del 83.90557939914163 % en Amazon Essentials - Polo de manga corta '
 date: 2019/10/27 07:01:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FXgVad0KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FXgVad0KL._SL200_.jpg' ]

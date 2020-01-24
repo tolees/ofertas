@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smiffy s Smiffys-26110S Disfraz de Chica' al 38.805289557683544 % de descuento
+title: 'Smiffy s Smiffys-26110S Disfraz de Chica al 38.805289557683544 % de descuento'
 date: 2019/12/31 09:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ewyKLtNCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ewyKLtNCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.99615355027311 % en 'The Big Bang Theory - Colección Completa'
+title: 'Descuento del 49.99615355027311 % en The Big Bang Theory - Colección Completa'
 date: 2019/11/30 07:30:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WCW2JgF7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WCW2JgF7L._SL200_.jpg' ]

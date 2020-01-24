@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.95755968169761 % en 'Zeller 17636 Caja de almacenaje de cartó'
+title: 'Descuento del 32.95755968169761 % en Zeller 17636 Caja de almacenaje de cartó'
 date: 2019/10/08 19:56:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lTS%2BjqIML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lTS%2BjqIML._SL200_.jpg' ]

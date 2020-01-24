@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.676946157692946 % en 'Makita BL1830 18V 3Ah LXT Li-ion Battery'
+title: 'Descuento del 61.676946157692946 % en Makita BL1830 18V 3Ah LXT Li-ion Battery'
 date: 2019/12/13 09:02:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SFt0VqLkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SFt0VqLkL._SL200_.jpg' ]

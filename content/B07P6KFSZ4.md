@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bolsa de Viaje  Bolsa Fin de Semana Impe' al 65.52477296240947 % de descuento
+title: 'Bolsa de Viaje  Bolsa Fin de Semana Impe al 65.52477296240947 % de descuento'
 date: 2019/11/28 19:26:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BI9Cg5E3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BI9Cg5E3L._SL200_.jpg' ]

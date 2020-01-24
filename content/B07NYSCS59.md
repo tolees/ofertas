@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kickers Lohan  Zapatillas Altas Unisex N' al 52.51700680272109 % de descuento
+title: 'Kickers Lohan  Zapatillas Altas Unisex N al 52.51700680272109 % de descuento'
 date: 2020-01-09 15:30:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HZ-D%2BAMTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HZ-D%2BAMTL._SL200_.jpg' ]

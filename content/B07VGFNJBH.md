@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Super Monkey Ball: Banana Blitz HD - Xbo' al 25.671641791044784 % de descuento
+title: 'Super Monkey Ball: Banana Blitz HD - Xbo al 25.671641791044784 % de descuento'
 date: 2019/12/16 11:14:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m2eBPnlbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m2eBPnlbL._SL200_.jpg' ]

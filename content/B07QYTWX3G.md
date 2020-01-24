@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.98276341395607 % en 'KLIMTM Voice V2 + Micrófono USB de Escri'
+title: 'Descuento del 45.98276341395607 % en KLIMTM Voice V2 + Micrófono USB de Escri'
 date: 2020-01-22 18:34:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NdIJhlbaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NdIJhlbaL._SL200_.jpg' ]

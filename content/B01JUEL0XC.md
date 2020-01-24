@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.01563477173233 % en 'SOLEDI Lana de fieltro natural. Hilado. '
+title: 'Descuento del 25.01563477173233 % en SOLEDI Lana de fieltro natural. Hilado. '
 date: 2019/11/05 23:41:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LAuVRzoXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LAuVRzoXL._SL200_.jpg' ]

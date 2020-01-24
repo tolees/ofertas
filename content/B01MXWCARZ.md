@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Magnat SBW 250 | Home Cinema Soundbar mi' al 50.125313283208015 % de descuento
+title: 'Magnat SBW 250 | Home Cinema Soundbar mi al 50.125313283208015 % de descuento'
 date: 2019/10/20 20:42:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kEG3qDNmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kEG3qDNmL._SL200_.jpg' ]

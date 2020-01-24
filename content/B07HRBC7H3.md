@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.94394394394394 % en 'Chicco Boppy- Cojín de lactancia algodón'
+title: 'Descuento del 43.94394394394394 % en Chicco Boppy- Cojín de lactancia algodón'
 date: 2020-01-24 13:02:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t+DsBt0gL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t+DsBt0gL._AC_._SL200_.jpg' ]

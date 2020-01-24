@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.774783445620784 % en 'Blindecor Estor Enrollable Doble Tejido '
+title: 'Descuento del 25.774783445620784 % en Blindecor Estor Enrollable Doble Tejido '
 date: 2019/11/22 20:53:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410bFejI3hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410bFejI3hL._SL200_.jpg' ]

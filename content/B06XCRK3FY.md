@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.73214285714285 % en 'find. Vestido Camisero con Estampado de '
+title: 'Descuento del 39.73214285714285 % en find. Vestido Camisero con Estampado de '
 date: 2020-01-06 13:13:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cgqQFeHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cgqQFeHtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xnuoyo Plancha de pelo profesional  Plan' al 42.38983050847457 % de descuento
+title: 'Xnuoyo Plancha de pelo profesional  Plan al 42.38983050847457 % de descuento'
 date: 2020-01-12 13:31:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sioeL2LYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sioeL2LYL._SL200_.jpg' ]

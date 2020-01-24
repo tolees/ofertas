@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Hellypack Bag Bolsa de Viaj' al 40.06153846153846 % de descuento
+title: 'Helly Hansen Hellypack Bag Bolsa de Viaj al 40.06153846153846 % de descuento'
 date: 2019/12/15 09:19:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413qpOuIJeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413qpOuIJeL._SL200_.jpg' ]

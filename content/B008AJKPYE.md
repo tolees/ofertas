@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional 2 608 000 495 Sierra ' al 55.09113764927719 % de descuento
+title: 'Bosch Professional 2 608 000 495 Sierra  al 55.09113764927719 % de descuento'
 date: 2020-01-14 08:18:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cZsapaewL._SL200_.jpg' ]

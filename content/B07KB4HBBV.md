@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Satisfyer Vibradores - 1 unidad' al 47.94794794794795 % de descuento
+title: 'Satisfyer Vibradores - 1 unidad al 47.94794794794795 % de descuento'
 date: 2019/10/12 15:39:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D2WOYcpUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D2WOYcpUL._SL200_.jpg' ]

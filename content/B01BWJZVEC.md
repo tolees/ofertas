@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.32762312633832 % en 'Intimuse Chaqueta Mujer    negro 50'
+title: 'Descuento del 66.32762312633832 % en Intimuse Chaqueta Mujer    negro 50'
 date: 2019/11/19 20:52:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319efdnJa-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319efdnJa-L._SL200_.jpg' ]

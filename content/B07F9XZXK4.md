@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.465776293823044 % en 'Joma Winner Camisetas Caballero  Hombre '
+title: 'Descuento del 29.465776293823044 % en Joma Winner Camisetas Caballero  Hombre '
 date: 2019/11/02 16:23:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318NhdPKfoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318NhdPKfoL._SL200_.jpg' ]

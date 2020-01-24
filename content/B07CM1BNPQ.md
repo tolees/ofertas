@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Laser Entfernungsmesser  Meterk Distanzm' al 27.785495971103092 % de descuento
+title: 'Laser Entfernungsmesser  Meterk Distanzm al 27.785495971103092 % de descuento'
 date: 2020-01-20 18:11:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tFSxBVmUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tFSxBVmUL._SL200_.jpg' ]

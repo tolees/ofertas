@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 75.51887971992998 % en 'JACK & JONES PREMIUM Jprlogo Twist Shirt'
+title: 'Descuento del 75.51887971992998 % en JACK & JONES PREMIUM Jprlogo Twist Shirt'
 date: 2020-01-16 09:47:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414gFa6mlrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414gFa6mlrL._SL200_.jpg' ]

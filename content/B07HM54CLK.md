@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OtterBox Symmetry Folio - Protección de ' al 90.3817302883814 % de descuento
+title: 'OtterBox Symmetry Folio - Protección de  al 90.3817302883814 % de descuento'
 date: 2019/12/21 20:27:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zXWG5zaeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zXWG5zaeL._SL200_.jpg' ]

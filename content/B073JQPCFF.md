@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.00000000000001 % en 'find. Jersey con Detalle en la Manga par'
+title: 'Descuento del 60.00000000000001 % en find. Jersey con Detalle en la Manga par'
 date: 2020-01-17 16:49:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XYMuUO2CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XYMuUO2CL._SL200_.jpg' ]

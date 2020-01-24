@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.29629629629629 % en 'Bourjois La Palette  Sombra de Ojos  Ton'
+title: 'Descuento del 46.29629629629629 % en Bourjois La Palette  Sombra de Ojos  Ton'
 date: 2020-01-05 23:15:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-JZFZxzGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-JZFZxzGL._SL200_.jpg' ]

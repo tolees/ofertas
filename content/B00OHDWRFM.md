@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Pagno JKT - Chaqueta técnica para ' al 45.4 % de descuento
+title: 'Kappa Pagno JKT - Chaqueta técnica para  al 45.4 % de descuento'
 date: 2019/10/14 11:11:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zKQAljm9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zKQAljm9L._SL200_.jpg' ]

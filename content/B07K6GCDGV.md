@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maglev Essentials Bdx006m5 camisetas hom' al 29.984825493171474 % de descuento
+title: 'Maglev Essentials Bdx006m5 camisetas hom al 29.984825493171474 % de descuento'
 date: 2019/11/06 10:57:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AlOz66DKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AlOz66DKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.11755877938969 % en 'Playmobil 70009 SuperSet Galaxy Police G'
+title: 'Descuento del 35.11755877938969 % en Playmobil 70009 SuperSet Galaxy Police G'
 date: 2020-01-18 10:44:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514a2TDINHL._SL200_.jpg' ]

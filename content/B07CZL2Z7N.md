@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Tech Mesh Short Pantalón' al 46.699999999999996 % de descuento
+title: 'Under Armour UA Tech Mesh Short Pantalón al 46.699999999999996 % de descuento'
 date: 2019/12/01 13:33:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ispbtAG3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ispbtAG3L._SL200_.jpg' ]

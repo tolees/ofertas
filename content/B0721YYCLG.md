@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.111111111111114 % en 'Nike Bravata II TF  Zapatillas de Fútbol'
+title: 'Descuento del 49.111111111111114 % en Nike Bravata II TF  Zapatillas de Fútbol'
 date: 2019/12/16 13:46:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zZZQw2PJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zZZQw2PJL._SL200_.jpg' ]

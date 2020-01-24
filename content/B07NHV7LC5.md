@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.68967241810452 % en 'JACK & JONES Jorstormy Sweat Zip Hood Su'
+title: 'Descuento del 58.68967241810452 % en JACK & JONES Jorstormy Sweat Zip Hood Su'
 date: 2019/11/13 02:41:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413OSCFntwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413OSCFntwL._SL200_.jpg' ]

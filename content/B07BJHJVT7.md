@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Revend Skinny Vaqueros  Rinse' al 60.94047023511756 % de descuento
+title: 'G-STAR RAW Revend Skinny Vaqueros  Rinse al 60.94047023511756 % de descuento'
 date: 2020-01-23 19:56:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg' ]

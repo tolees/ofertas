@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Damen HOVR Sonic 2 Laufschu' al 41.675000000000004 % de descuento
+title: 'Under Armour Damen HOVR Sonic 2 Laufschu al 41.675000000000004 % de descuento'
 date: 2019/10/22 06:13:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1YyZyJML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y1YyZyJML._SL200_.jpg' ]

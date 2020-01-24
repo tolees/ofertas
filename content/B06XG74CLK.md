@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.99134448932487 % en 'find. Camisa de Lunares Entallada de Man'
+title: 'Descuento del 54.99134448932487 % en find. Camisa de Lunares Entallada de Man'
 date: 2020-01-18 08:40:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iOYm6xPKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iOYm6xPKL._SL200_.jpg' ]

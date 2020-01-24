@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riuty Acople de Espiga  Rosca G1 / 4"a 3' al 51.47783251231527 % de descuento
+title: 'Riuty Acople de Espiga  Rosca G1 / 4"a 3 al 51.47783251231527 % de descuento'
 date: 2019/12/08 20:07:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nh0L7i73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nh0L7i73L._SL200_.jpg' ]

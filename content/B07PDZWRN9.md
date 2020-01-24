@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.93894993894994 % en 'Acer Ultra i7 SSD Gaming  17 3 Zoll Full'
+title: 'Descuento del 49.93894993894994 % en Acer Ultra i7 SSD Gaming  17 3 Zoll Full'
 date: 2019/11/17 20:23:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bU8oRpGVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bU8oRpGVL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares internos deportivos con micr' al 50.00833472245374 % de descuento
+title: 'Auriculares internos deportivos con micr al 50.00833472245374 % de descuento'
 date: 2019/11/30 10:34:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q89PfmiWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q89PfmiWL._SL200_.jpg' ]

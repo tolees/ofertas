@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G★LAXIA Sierra Sable 1050W 3000SPM  4 Ho' al 30.003000300030003 % de descuento
+title: 'G★LAXIA Sierra Sable 1050W 3000SPM  4 Ho al 30.003000300030003 % de descuento'
 date: 2020-01-03 16:33:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oYR-kchQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oYR-kchQL._SL200_.jpg' ]

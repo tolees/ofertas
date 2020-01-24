@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Spike Vaqueros  Negro  Black ' al 76.45454545454545 % de descuento
+title: 'Pepe Jeans Spike Vaqueros  Negro  Black  al 76.45454545454545 % de descuento'
 date: 2019/11/15 15:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZKGSz8x4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZKGSz8x4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Straight Fit Jeans  Azul' al 74.1725719049604 % de descuento
+title: 'G-STAR RAW 3301 Straight Fit Jeans  Azul al 74.1725719049604 % de descuento'
 date: 2019/12/26 11:05:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPVPPolbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPVPPolbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.70325357640207 % en 'Jardinera Terra Rato de material plástic'
+title: 'Descuento del 55.70325357640207 % en Jardinera Terra Rato de material plástic'
 date: 2019/10/10 07:04:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bOiV6guZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bOiV6guZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SportPlus Multiestación de Musculación p' al 40.00080001600031 % de descuento
+title: 'SportPlus Multiestación de Musculación p al 40.00080001600031 % de descuento'
 date: 2019/12/23 17:22:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lQokB3YSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lQokB3YSL._SL200_.jpg' ]

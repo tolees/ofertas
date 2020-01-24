@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingston IronKey Basic S1000 - Memoria c' al 43.61941089213816 % de descuento
+title: 'Kingston IronKey Basic S1000 - Memoria c al 43.61941089213816 % de descuento'
 date: 2019/11/04 13:36:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C9bNSoiiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C9bNSoiiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fruit of the Loom - Camiseta Básica de M' al 33.33333333333333 % de descuento
+title: 'Fruit of the Loom - Camiseta Básica de M al 33.33333333333333 % de descuento'
 date: 2019/12/05 12:24:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lmTWp6pnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lmTWp6pnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VLCOO Pegatinas para Niños 40 Hojas  3D ' al 41.70141784820684 % de descuento
+title: 'VLCOO Pegatinas para Niños 40 Hojas  3D  al 41.70141784820684 % de descuento'
 date: 2020-01-16 02:32:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61U9sTugkRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61U9sTugkRL._SL200_.jpg' ]

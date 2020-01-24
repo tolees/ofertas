@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.04449388209122 % en 'Furniture For Friends Möbelfreude Nachtk'
+title: 'Descuento del 40.04449388209122 % en Furniture For Friends Möbelfreude Nachtk'
 date: 2019/12/26 20:49:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314Vik0ImCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314Vik0ImCL._SL200_.jpg' ]

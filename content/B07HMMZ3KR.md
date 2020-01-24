@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cargador Solar  Soluser 22W Panel Solar ' al 33.338889814969164 % de descuento
+title: 'Cargador Solar  Soluser 22W Panel Solar  al 33.338889814969164 % de descuento'
 date: 2019/11/13 11:14:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sq6sFhc-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sq6sFhc-L._SL200_.jpg' ]

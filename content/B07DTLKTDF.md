@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.93742177722153 % en 'BaByliss AS545E Cepillo rotativo de aire'
+title: 'Descuento del 39.93742177722153 % en BaByliss AS545E Cepillo rotativo de aire'
 date: 2020-01-21 15:06:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41urpBKGbJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41urpBKGbJL._SL200_.jpg' ]

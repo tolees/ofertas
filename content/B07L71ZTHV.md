@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIU JO Shoes Doroty 05-Sandal Metallic L' al 42.87679799874922 % de descuento
+title: 'LIU JO Shoes Doroty 05-Sandal Metallic L al 42.87679799874922 % de descuento'
 date: 2019/11/10 05:21:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OMDW157qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OMDW157qL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0 % en 'New Balance 574v2 Core Velcro  Entrenado'
+title: 'Descuento del 40.0 % en New Balance 574v2 Core Velcro  Entrenado'
 date: 2020-01-14 17:37:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51203ffnHVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51203ffnHVL._SL200_.jpg' ]

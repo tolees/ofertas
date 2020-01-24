@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.25516972298088 % en 'STAR WARS C1579EL2 The Last Jedi® - Figu'
+title: 'Descuento del 42.25516972298088 % en STAR WARS C1579EL2 The Last Jedi® - Figu'
 date: 2019/10/30 09:37:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-pV1JKVXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-pV1JKVXL._SL200_.jpg' ]

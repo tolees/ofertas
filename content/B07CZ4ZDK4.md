@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Lyte Runner  Zapatillas de Run' al 44.40132404976601 % de descuento
+title: 'Asics Gel-Lyte Runner  Zapatillas de Run al 44.40132404976601 % de descuento'
 date: 2019/10/10 21:47:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U-YV-vr6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U-YV-vr6L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TEEHON Carteras Hombre  Tarjetero Hombre' al 77.54130865829478 % de descuento
+title: 'TEEHON Carteras Hombre  Tarjetero Hombre al 77.54130865829478 % de descuento'
 date: 2019/10/28 16:50:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y1UJ3oF2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y1UJ3oF2L._SL200_.jpg' ]

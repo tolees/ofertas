@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Min' al 50.00833472245374 % de descuento
+title: 'BRIKSMAX Kit de Iluminación Led para Min al 50.00833472245374 % de descuento'
 date: 2019-12-02 18:16:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FRJ09Y8dL._SL200_.jpg' ]

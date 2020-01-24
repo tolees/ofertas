@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.68571428571428 % en 'Vans Classic Heather  Camiseta Hombre  G'
+title: 'Descuento del 45.68571428571428 % en Vans Classic Heather  Camiseta Hombre  G'
 date: 2019/11/13 20:22:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jDbg6ichL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jDbg6ichL._SL200_.jpg' ]

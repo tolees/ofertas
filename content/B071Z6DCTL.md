@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo L27q-10 - Monitor de 27"  QHD  25' al 30.40752351097179 % de descuento
+title: 'Lenovo L27q-10 - Monitor de 27"  QHD  25 al 30.40752351097179 % de descuento'
 date: 2019/12/07 20:17:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413-VGtxQbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413-VGtxQbL._SL200_.jpg' ]

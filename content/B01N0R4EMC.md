@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.39441811479727 % en 'adidas ZX Flux  Zapatillas para Hombre  '
+title: 'Descuento del 49.39441811479727 % en adidas ZX Flux  Zapatillas para Hombre  '
 date: 2019/10/12 19:28:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oPCJ6mLUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oPCJ6mLUL._SL200_.jpg' ]

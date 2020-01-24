@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hydream Funda de Silicona para Fire TV S' al 50.02501250625312 % de descuento
+title: 'Hydream Funda de Silicona para Fire TV S al 50.02501250625312 % de descuento'
 date: 2019/12/20 09:07:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bnU8o2ZvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bnU8o2ZvL._SL200_.jpg' ]

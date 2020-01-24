@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.50427350427351 % en 'TOPsic Correa de Reloj para Garmin Fenix'
+title: 'Descuento del 73.50427350427351 % en TOPsic Correa de Reloj para Garmin Fenix'
 date: 2019/11/25 07:15:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lRogKhYNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lRogKhYNL._SL200_.jpg' ]

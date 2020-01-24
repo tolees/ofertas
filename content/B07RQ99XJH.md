@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.05560117055096 % en 'WD Red NAS Hard Drive WD120EFAX - Hard D'
+title: 'Descuento del 41.05560117055096 % en WD Red NAS Hard Drive WD120EFAX - Hard D'
 date: 2019/12/09 12:39:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bWLXFfitL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bWLXFfitL._SL200_.jpg' ]

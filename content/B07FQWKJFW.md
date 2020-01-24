@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.45454545454546 % en 'Clarks Un Geo Lace  Zapatos de Cordones '
+title: 'Descuento del 45.45454545454546 % en Clarks Un Geo Lace  Zapatos de Cordones '
 date: 2019/12/28 09:04:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y2v6uTZfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y2v6uTZfL._SL200_.jpg' ]

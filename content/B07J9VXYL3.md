@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo Legion Y530 - Ordenador portátil ' al 33.260289210233594 % de descuento
+title: 'Lenovo Legion Y530 - Ordenador portátil  al 33.260289210233594 % de descuento'
 date: 2019/10/24 07:57:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x-Wdi6SgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x-Wdi6SgL._SL200_.jpg' ]

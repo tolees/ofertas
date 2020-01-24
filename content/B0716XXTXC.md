@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.852438516048345 % en 'ONTA® Auriculares para Niños Plegable Có'
+title: 'Descuento del 45.852438516048345 % en ONTA® Auriculares para Niños Plegable Có'
 date: 2020-01-14 01:36:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jHwBcA9pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jHwBcA9pL._SL200_.jpg' ]

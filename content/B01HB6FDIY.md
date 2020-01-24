@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brandit Ayden Jacket Men Chaqueta  Negro' al 64.59508644222021 % de descuento
+title: 'Brandit Ayden Jacket Men Chaqueta  Negro al 64.59508644222021 % de descuento'
 date: 2019/11/13 20:53:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RLByCMrQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RLByCMrQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marshall Mode EQ - Auriculares in-ear  c' al 49.379746835443036 % de descuento
+title: 'Marshall Mode EQ - Auriculares in-ear  c al 49.379746835443036 % de descuento'
 date: 2019/12/21 12:39:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EYC5PtiaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EYC5PtiaL._SL200_.jpg' ]

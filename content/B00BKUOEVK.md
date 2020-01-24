@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.124999999999996 % en 'Astor Big & Beautiful Eye Opener Máscara'
+title: 'Descuento del 25.124999999999996 % en Astor Big & Beautiful Eye Opener Máscara'
 date: 2019/11/26 11:34:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413LjPJLKkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413LjPJLKkL._SL200_.jpg' ]

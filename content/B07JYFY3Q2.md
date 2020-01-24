@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Indigo Regular LS Polo  A' al 57.38738738738739 % de descuento
+title: 'Tommy Hilfiger Indigo Regular LS Polo  A al 57.38738738738739 % de descuento'
 date: 2020-01-16 12:08:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QGHBr1u%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QGHBr1u%2BL._SL200_.jpg' ]

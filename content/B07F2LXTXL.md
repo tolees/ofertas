@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HP Racing Midlayer Lifaloft' al 49.526315789473685 % de descuento
+title: 'Helly Hansen HP Racing Midlayer Lifaloft al 49.526315789473685 % de descuento'
 date: 2020-01-22 12:40:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GuUPIfI9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GuUPIfI9L._SL200_.jpg' ]

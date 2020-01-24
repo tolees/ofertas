@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polti Kalstop - Anticalcáreo para aparat' al 28.44444444444444 % de descuento
+title: 'Polti Kalstop - Anticalcáreo para aparat al 28.44444444444444 % de descuento'
 date: 2019/10/23 23:14:06 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B000VZ4VUO.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B000VZ4VUO.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ultimate Ears Boom 2 Special Edition Por' al 49.588235294117645 % de descuento
+title: 'Ultimate Ears Boom 2 Special Edition Por al 49.588235294117645 % de descuento'
 date: 2019/12/22 16:38:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YWr3CU07L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YWr3CU07L._SL200_.jpg' ]

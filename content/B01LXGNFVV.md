@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 9003 Super 4 Skyjet with Dr. X' al 53.835890593729154 % de descuento
+title: 'Playmobil 9003 Super 4 Skyjet with Dr. X al 53.835890593729154 % de descuento'
 date: 2020-01-21 18:02:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Yn9cdJcyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Yn9cdJcyL._SL200_.jpg' ]

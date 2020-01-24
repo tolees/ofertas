@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sennheiser PXC 550 Kopfhörer  Noise-Canc' al 56.64411027568922 % de descuento
+title: 'Sennheiser PXC 550 Kopfhörer  Noise-Canc al 56.64411027568922 % de descuento'
 date: 2019/11/24 06:38:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RAOWGAGeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RAOWGAGeL._SL200_.jpg' ]

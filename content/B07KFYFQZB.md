@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cali Wn s  Zapatillas para Mujer  B' al 51.72586293146573 % de descuento
+title: 'PUMA Cali Wn s  Zapatillas para Mujer  B al 51.72586293146573 % de descuento'
 date: 2019/12/02 13:06:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LyrIgwwRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LyrIgwwRL._SL200_.jpg' ]

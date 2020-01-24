@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.04291845493563 % en 'adidas Altasport CF K  Zapatillas de Gim'
+title: 'Descuento del 30.04291845493563 % en adidas Altasport CF K  Zapatillas de Gim'
 date: 2019/10/31 11:47:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414O9kU9PtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414O9kU9PtL._SL200_.jpg' ]

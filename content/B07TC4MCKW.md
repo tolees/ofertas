@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.77736085053158 % en 'Los Hermanos Sisters [Blu-ray]'
+title: 'Descuento del 43.77736085053158 % en Los Hermanos Sisters [Blu-ray]'
 date: 2019/11/26 19:30:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pC0ccNqML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pC0ccNqML._SL200_.jpg' ]

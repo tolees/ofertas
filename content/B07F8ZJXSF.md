@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Silk-Épil 3 3-270 Depiladora  Máqu' al 43.89417648007743 % de descuento
+title: 'Braun Silk-Épil 3 3-270 Depiladora  Máqu al 43.89417648007743 % de descuento'
 date: 2019/10/27 00:57:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gvVnEpb-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gvVnEpb-L._SL200_.jpg' ]

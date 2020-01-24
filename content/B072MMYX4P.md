@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.69445058589432 % en 'SHAN ZU Cuchillo de Cocinero Acero de 3 '
+title: 'Descuento del 33.69445058589432 % en SHAN ZU Cuchillo de Cocinero Acero de 3 '
 date: 2019/12/05 10:51:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514XmL2kUgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514XmL2kUgL._SL200_.jpg' ]

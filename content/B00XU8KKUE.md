@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burberry My Burberry Edt Vapo 90 Ml 1 Un' al 50.09 % de descuento
+title: 'Burberry My Burberry Edt Vapo 90 Ml 1 Un al 50.09 % de descuento'
 date: 2019/12/14 20:30:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VzPsWgp-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VzPsWgp-L._SL200_.jpg' ]

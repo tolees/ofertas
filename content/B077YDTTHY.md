@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.290909090909096 % en 'Under Armour HG Jack Ankle Crop Pantalon'
+title: 'Descuento del 52.290909090909096 % en Under Armour HG Jack Ankle Crop Pantalon'
 date: 2019/11/05 07:59:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nmer1jk5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nmer1jk5L._SL200_.jpg' ]

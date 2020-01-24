@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.4964314036479 % en 'Optimum Nutrition ON Gold Standard 100% '
+title: 'Descuento del 44.4964314036479 % en Optimum Nutrition ON Gold Standard 100% '
 date: 2019/11/27 15:19:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fwxizlOdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fwxizlOdL._SL200_.jpg' ]

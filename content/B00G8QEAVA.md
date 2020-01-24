@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Continental X King  Cubierta  Unisex  Ne' al 60.49343159243832 % de descuento
+title: 'Continental X King  Cubierta  Unisex  Ne al 60.49343159243832 % de descuento'
 date: 2019/10/12 20:24:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yBeBgGJnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yBeBgGJnL._SL200_.jpg' ]

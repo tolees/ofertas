@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'keeeper Caja de Almacenaje con Tapa Cars' al 31.306306306306308 % de descuento
+title: 'keeeper Caja de Almacenaje con Tapa Cars al 31.306306306306308 % de descuento'
 date: 2020-01-08 16:59:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CMfvss-cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CMfvss-cL._SL200_.jpg' ]

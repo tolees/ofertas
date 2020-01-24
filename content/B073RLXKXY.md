@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jacwaistband Trunks 3 Pack ' al 44.01760704281712 % de descuento
+title: 'JACK & JONES Jacwaistband Trunks 3 Pack  al 44.01760704281712 % de descuento'
 date: 2019/12/02 07:47:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NO7fHqFsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NO7fHqFsL._SL200_.jpg' ]

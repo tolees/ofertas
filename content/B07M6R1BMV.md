@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.087257271439285 % en 'Columbia Lake 22 Chaqueta De Plumón  Hom'
+title: 'Descuento del 47.087257271439285 % en Columbia Lake 22 Chaqueta De Plumón  Hom'
 date: 2019/12/28 10:07:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HD7QBOgEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HD7QBOgEL._SL200_.jpg' ]

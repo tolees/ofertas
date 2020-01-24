@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enesco Disney Tradition 6000976 - Figuri' al 28.338762214983703 % de descuento
+title: 'Enesco Disney Tradition 6000976 - Figuri al 28.338762214983703 % de descuento'
 date: 2019/11/01 08:11:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wYcwxJKUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wYcwxJKUL._SL200_.jpg' ]

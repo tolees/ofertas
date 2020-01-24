@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.71223741247081 % en 'Far Cry 5'
+title: 'Descuento del 36.71223741247081 % en Far Cry 5'
 date: 2020-01-18 23:26:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61QYxgMrHEL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.68421052631578 % en 'Lacoste Carnaby Light-WT 319 1 SFA  Zapa'
+title: 'Descuento del 32.68421052631578 % en Lacoste Carnaby Light-WT 319 1 SFA  Zapa'
 date: 2019/12/06 09:50:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zbeX3I%2B8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zbeX3I%2B8L._SL200_.jpg' ]

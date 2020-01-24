@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Olfa SCS-2 - Tijeras multiusos de gran p' al 35.1063829787234 % de descuento
+title: 'Olfa SCS-2 - Tijeras multiusos de gran p al 35.1063829787234 % de descuento'
 date: 2019/10/28 16:00:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B7Gm3oj7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B7Gm3oj7L._SL200_.jpg' ]

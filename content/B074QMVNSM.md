@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.71257871790732 % en 'Cecotec Centro de Planchado ForceTitaniu'
+title: 'Descuento del 59.71257871790732 % en Cecotec Centro de Planchado ForceTitaniu'
 date: 2019/12/28 11:51:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PPWBpDzUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PPWBpDzUL._SL200_.jpg' ]

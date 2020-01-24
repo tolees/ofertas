@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roxy That Way Knit Dress  Mujer  True Bl' al 70.23860551507359 % de descuento
+title: 'Roxy That Way Knit Dress  Mujer  True Bl al 70.23860551507359 % de descuento'
 date: 2019/12/05 12:06:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sgRNr2LFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sgRNr2LFL._SL200_.jpg' ]

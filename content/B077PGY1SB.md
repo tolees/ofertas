@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NOX Pala ML10 Pro Cup Survivor' al 34.54545454545455 % de descuento
+title: 'NOX Pala ML10 Pro Cup Survivor al 34.54545454545455 % de descuento'
 date: 2019/12/28 21:07:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Oc%2BmqT54L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Oc%2BmqT54L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjitim Jjoriginal Am 816 Va' al 47.436859214803704 % de descuento
+title: 'JACK & JONES Jjitim Jjoriginal Am 816 Va al 47.436859214803704 % de descuento'
 date: 2019/11/03 07:08:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CW19HoLhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CW19HoLhL._SL200_.jpg' ]

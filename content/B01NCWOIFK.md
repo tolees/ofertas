@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trust Urban Kubo - Altavoz inalámbrico c' al 47.42371185592796 % de descuento
+title: 'Trust Urban Kubo - Altavoz inalámbrico c al 47.42371185592796 % de descuento'
 date: 2019/11/05 16:01:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jv3Gl-tmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jv3Gl-tmL._SL200_.jpg' ]

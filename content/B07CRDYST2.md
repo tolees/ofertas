@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Pinner Chaqueta Vaquera   Raw' al 64.78571428571429 % de descuento
+title: 'Pepe Jeans Pinner Chaqueta Vaquera   Raw al 64.78571428571429 % de descuento'
 date: 2019/10/31 17:02:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411R%2BsGkwjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411R%2BsGkwjL._SL200_.jpg' ]

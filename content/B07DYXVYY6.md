@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Chaqueta Impermeable para Mujer' al 67.04670467046705 % de descuento
+title: 'Columbia Chaqueta Impermeable para Mujer al 67.04670467046705 % de descuento'
 date: 2019/10/27 09:21:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fa66qywRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fa66qywRL._SL200_.jpg' ]

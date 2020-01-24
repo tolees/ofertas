@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.47625 % en 'Sony Cybershot DSC-RX10 III - Cámara Dig'
+title: 'Descuento del 37.47625 % en Sony Cybershot DSC-RX10 III - Cámara Dig'
 date: 2020-01-24 06:09:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51l9fW2bS5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51l9fW2bS5L._AC_._SL200_.jpg' ]

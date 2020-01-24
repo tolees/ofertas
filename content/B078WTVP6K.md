@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pedro del Hierro Poncho DET Flor Crochet' al 66.61344537815125 % de descuento
+title: 'Pedro del Hierro Poncho DET Flor Crochet al 66.61344537815125 % de descuento'
 date: 2019/10/05 12:11:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412tl0mavZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412tl0mavZL._SL200_.jpg' ]

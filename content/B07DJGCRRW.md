@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.1209341117598 % en 'Dockers by Gerli 43fa302  Botas Militar '
+title: 'Descuento del 45.1209341117598 % en Dockers by Gerli 43fa302  Botas Militar '
 date: 2019/11/12 12:56:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rYTcN3WFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rYTcN3WFL._SL200_.jpg' ]

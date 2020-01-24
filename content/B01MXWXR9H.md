@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Symphonized Wraith 2.0 Bluetooth Auricul' al 46.15739672282484 % de descuento
+title: 'Symphonized Wraith 2.0 Bluetooth Auricul al 46.15739672282484 % de descuento'
 date: 2019/11/15 18:53:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WicModiQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WicModiQL._SL200_.jpg' ]

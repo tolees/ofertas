@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.04878658994245 % en '24 Tubos de Pintura de Acuarela de Zenac'
+title: 'Descuento del 65.04878658994245 % en 24 Tubos de Pintura de Acuarela de Zenac'
 date: 2019/12/26 07:15:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t8VLbhBEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t8VLbhBEL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Nemeziz Tango 17.3 In  Zapatillas' al 64.11339633129516 % de descuento
+title: 'adidas Nemeziz Tango 17.3 In  Zapatillas al 64.11339633129516 % de descuento'
 date: 2019/11/01 14:29:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410fIBrIu5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410fIBrIu5L._SL200_.jpg' ]

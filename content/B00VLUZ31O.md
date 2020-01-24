@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.7973882073605 % en 'Playmobil  6657 - Hospital Infantil'
+title: 'Descuento del 30.7973882073605 % en Playmobil  6657 - Hospital Infantil'
 date: 2020-01-23 18:27:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MiwgocqoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MiwgocqoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roxy Across The Streets Non-Denim Shorts' al 75.2991605643865 % de descuento
+title: 'Roxy Across The Streets Non-Denim Shorts al 75.2991605643865 % de descuento'
 date: 2019/11/10 07:01:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N1cFI8w9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N1cFI8w9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Smash v2 Mid SD  Zapatillas Altas U' al 54.6420323325635 % de descuento
+title: 'PUMA Smash v2 Mid SD  Zapatillas Altas U al 54.6420323325635 % de descuento'
 date: 2019/12/20 12:08:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IxH9c-5aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IxH9c-5aL._SL200_.jpg' ]

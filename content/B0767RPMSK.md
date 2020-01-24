@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 78.17106460418563 % en 'Geox D Eudora B  Mules para Mujer  Rosa '
+title: 'Descuento del 78.17106460418563 % en Geox D Eudora B  Mules para Mujer  Rosa '
 date: 2019/10/27 10:41:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jWsAXDhUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jWsAXDhUL._SL200_.jpg' ]

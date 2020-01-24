@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 32767 Pocket POP Keychain: Fantast' al 42.25759768451519 % de descuento
+title: 'Funko 32767 Pocket POP Keychain: Fantast al 42.25759768451519 % de descuento'
 date: 2019/12/22 00:27:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512SPgMfWLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512SPgMfWLL._SL200_.jpg' ]

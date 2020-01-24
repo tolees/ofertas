@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hugo BOSS Reloj Analógico para Mujer de ' al 48.24497991967871 % de descuento
+title: 'Hugo BOSS Reloj Analógico para Mujer de  al 48.24497991967871 % de descuento'
 date: 2019/11/03 04:47:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31evYvG%2BOyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31evYvG%2BOyL._SL200_.jpg' ]

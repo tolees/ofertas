@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TACKLIFE Papeles de Lija de 40 Piezas 40' al 50.03126954346466 % de descuento
+title: 'TACKLIFE Papeles de Lija de 40 Piezas 40 al 50.03126954346466 % de descuento'
 date: 2020-01-14 17:31:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61LFR8h9qXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61LFR8h9qXL._SL200_.jpg' ]

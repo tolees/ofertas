@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.652841781874038 % en 'Roca A5A6A09C00 Mezclador monomando para'
+title: 'Descuento del 25.652841781874038 % en Roca A5A6A09C00 Mezclador monomando para'
 date: 2019/11/11 15:29:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wdEpZj-ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wdEpZj-ZL._SL200_.jpg' ]

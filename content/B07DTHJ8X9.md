@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.84526625512029 % en 'Braun Series 9 9297 - Afeitadora Eléctri'
+title: 'Descuento del 53.84526625512029 % en Braun Series 9 9297 - Afeitadora Eléctri'
 date: 2020-01-03 10:33:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51W9ebCLIBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51W9ebCLIBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Kennet B  Zapatillas para Hombre ' al 55.355355355355364 % de descuento
+title: 'Geox U Kennet B  Zapatillas para Hombre  al 55.355355355355364 % de descuento'
 date: 2019/12/11 15:33:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310x5Eii-oL._SL200_.jpg' ]

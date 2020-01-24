@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hugo BOSS Reloj Cronógrafo para Hombre d' al 46.183381088825215 % de descuento
+title: 'Hugo BOSS Reloj Cronógrafo para Hombre d al 46.183381088825215 % de descuento'
 date: 2019/11/14 03:22:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519JodHis-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519JodHis-L._SL200_.jpg' ]

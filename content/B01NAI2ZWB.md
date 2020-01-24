@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.73333333333332 % en 'Helly Hansen Crew Hooded Chaqueta  Hombr'
+title: 'Descuento del 53.73333333333332 % en Helly Hansen Crew Hooded Chaqueta  Hombr'
 date: 2019/11/23 13:30:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FE8-gzKiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FE8-gzKiL._SL200_.jpg' ]

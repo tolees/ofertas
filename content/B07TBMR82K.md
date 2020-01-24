@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.85106382978724 % en 'Finocam - Calendario de sobremesa 2020 E'
+title: 'Descuento del 30.85106382978724 % en Finocam - Calendario de sobremesa 2020 E'
 date: 2020-01-13 20:55:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w-8ajAOcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w-8ajAOcL._SL200_.jpg' ]

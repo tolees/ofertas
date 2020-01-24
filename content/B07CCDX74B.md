@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kelme Precision Kids  Zapatillas de fútb' al 42.505446623093675 % de descuento
+title: 'Kelme Precision Kids  Zapatillas de fútb al 42.505446623093675 % de descuento'
 date: 2019/10/31 08:36:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Nwl-d6eZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Nwl-d6eZL._SL200_.jpg' ]

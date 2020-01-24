@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.63333333333334 % en 'Hurley M Phantom Pierbowl Beachside 18  '
+title: 'Descuento del 66.63333333333334 % en Hurley M Phantom Pierbowl Beachside 18  '
 date: 2019/11/12 13:22:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rIqS9NW-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rIqS9NW-L._SL200_.jpg' ]

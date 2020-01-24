@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel CREW NECK ESSENTIAL  Camiseta par' al 44.8 % de descuento
+title: 'Diesel CREW NECK ESSENTIAL  Camiseta par al 44.8 % de descuento'
 date: 2019/12/05 18:08:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dAKoBuucL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dAKoBuucL._SL200_.jpg' ]

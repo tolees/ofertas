@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.038834951456316 % en 'Max Factor 53070 Excess Intensity Longwe'
+title: 'Descuento del 42.038834951456316 % en Max Factor 53070 Excess Intensity Longwe'
 date: 2019/10/22 10:10:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G5T5KI%2BML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G5T5KI%2BML._SL200_.jpg' ]

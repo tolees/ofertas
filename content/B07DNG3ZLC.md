@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.58870967741936 % en 'Regatta Kenger - Forro Polar de Media Cr'
+title: 'Descuento del 43.58870967741936 % en Regatta Kenger - Forro Polar de Media Cr'
 date: 2019/11/25 16:47:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qaBBDhMDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qaBBDhMDL._SL200_.jpg' ]

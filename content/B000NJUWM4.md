@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fellowes 53062  Pack de 100 fundas para ' al 41.17647058823529 % de descuento
+title: 'Fellowes 53062  Pack de 100 fundas para  al 41.17647058823529 % de descuento'
 date: 2019/10/25 13:47:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410h4HPUwjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410h4HPUwjL._SL200_.jpg' ]

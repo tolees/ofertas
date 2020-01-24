@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Suede Platform Perf  Zapatillas par' al 73.71685842921461 % de descuento
+title: 'Puma Suede Platform Perf  Zapatillas par al 73.71685842921461 % de descuento'
 date: 2019/10/12 16:19:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IuNHUhxHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IuNHUhxHL._SL200_.jpg' ]

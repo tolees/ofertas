@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Brunas suéter    Bisque 178  ' al 49.49937421777222 % de descuento
+title: 'Pepe Jeans Brunas suéter    Bisque 178   al 49.49937421777222 % de descuento'
 date: 2019/10/10 14:10:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519XV-PQWaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519XV-PQWaL._SL200_.jpg' ]

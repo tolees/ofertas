@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yayuu Gear S3 Frontier/Classic Correa de' al 47.64173415912338 % de descuento
+title: 'Yayuu Gear S3 Frontier/Classic Correa de al 47.64173415912338 % de descuento'
 date: 2020-01-22 14:47:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DHYA809tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DHYA809tL._SL200_.jpg' ]

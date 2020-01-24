@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bull padel X-Compact 2 Green' al 59.4375 % de descuento
+title: 'Bull padel X-Compact 2 Green al 59.4375 % de descuento'
 date: 2019/11/03 19:25:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eG9qgImPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eG9qgImPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Padded Pak R Mochila  24 L  Negr' al 40.1 % de descuento
+title: 'Eastpak Padded Pak R Mochila  24 L  Negr al 40.1 % de descuento'
 date: 2019/12/13 20:21:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pi-8ZZ0uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pi-8ZZ0uL._SL200_.jpg' ]

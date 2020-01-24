@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Barra de sonido  Bingxue barra de sonido' al 85.06516923393951 % de descuento
+title: 'Barra de sonido  Bingxue barra de sonido al 85.06516923393951 % de descuento'
 date: 2019/10/15 21:45:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q3yB4WMsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q3yB4WMsL._SL200_.jpg' ]

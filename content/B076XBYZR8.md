@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.21818181818182 % en 'Geox J Waviness B  Zapatillas para Niñas'
+title: 'Descuento del 65.21818181818182 % en Geox J Waviness B  Zapatillas para Niñas'
 date: 2019/10/12 11:43:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418ls8MC0eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418ls8MC0eL._SL200_.jpg' ]

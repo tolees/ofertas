@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.46558197747185 % en 'adidas Altasport Mid El K  Zapatillas de'
+title: 'Descuento del 32.46558197747185 % en adidas Altasport Mid El K  Zapatillas de'
 date: 2019/10/15 19:00:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N-spZO5OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N-spZO5OL._SL200_.jpg' ]

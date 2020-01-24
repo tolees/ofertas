@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rowenta Silence Steam Pro DG9222F0 Centr' al 36.334544484816156 % de descuento
+title: 'Rowenta Silence Steam Pro DG9222F0 Centr al 36.334544484816156 % de descuento'
 date: 2020-01-20 06:17:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ggPq3gedL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ggPq3gedL._SL200_.jpg' ]

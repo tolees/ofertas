@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour EU Tech Pant Pantalón de Go' al 50.971428571428575 % de descuento
+title: 'Under Armour EU Tech Pant Pantalón de Go al 50.971428571428575 % de descuento'
 date: 2019/12/29 07:48:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HnqQQFyIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HnqQQFyIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio Q2012 - Set sartenes  alumin' al 55.09481141904564 % de descuento
+title: 'San Ignacio Q2012 - Set sartenes  alumin al 55.09481141904564 % de descuento'
 date: 2019/10/31 15:01:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415BHC4xAhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415BHC4xAhL._SL200_.jpg' ]

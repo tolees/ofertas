@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.45294117647059 % en 'Clarks Doxburyflowgtx  Botas Slouch para'
+title: 'Descuento del 50.45294117647059 % en Clarks Doxburyflowgtx  Botas Slouch para'
 date: 2019/11/10 00:51:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dZSYMRQoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dZSYMRQoL._SL200_.jpg' ]

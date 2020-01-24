@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.96774193548387 % en 'Ish - Ginebra London Dry Gin'
+title: 'Descuento del 41.96774193548387 % en Ish - Ginebra London Dry Gin'
 date: 2020-01-18 09:29:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dp0LgE6WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dp0LgE6WL._SL200_.jpg' ]

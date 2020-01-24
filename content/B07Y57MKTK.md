@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mirakle Carteras Hombre  Cartera RFID Pi' al 78.39971924899105 % de descuento
+title: 'Mirakle Carteras Hombre  Cartera RFID Pi al 78.39971924899105 % de descuento'
 date: 2020-01-21 13:18:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WcbZ8l3zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WcbZ8l3zL._SL200_.jpg' ]

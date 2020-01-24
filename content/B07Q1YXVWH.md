@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DOQAUS Bluetooth Headphones Over Ear  [5' al 66.6740748972108 % de descuento
+title: 'DOQAUS Bluetooth Headphones Over Ear  [5 al 66.6740748972108 % de descuento'
 date: 2020-01-24 17:25:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WRvfCJfZL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WRvfCJfZL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'uhlsport Match Classic De Mujer Chaqueta' al 43.87640449438203 % de descuento
+title: 'uhlsport Match Classic De Mujer Chaqueta al 43.87640449438203 % de descuento'
 date: 2020-01-21 07:32:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p7D%2BCME-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p7D%2BCME-L._SL200_.jpg' ]

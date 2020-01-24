@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch 0 603 038 001 - Grapadora manual H' al 32.4390995991366 % de descuento
+title: 'Bosch 0 603 038 001 - Grapadora manual H al 32.4390995991366 % de descuento'
 date: 2019/12/29 19:03:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zy7dj-kQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zy7dj-kQL._SL200_.jpg' ]

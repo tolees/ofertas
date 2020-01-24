@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crosstour CT7000 Cámara Deportiva 1080P ' al 41.673612268711445 % de descuento
+title: 'Crosstour CT7000 Cámara Deportiva 1080P  al 41.673612268711445 % de descuento'
 date: 2019/11/13 09:08:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wg5AZNqgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wg5AZNqgL._SL200_.jpg' ]

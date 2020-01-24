@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Izocool mantiene la vostra birra o altra' al 33.36113427856547 % de descuento
+title: 'Izocool mantiene la vostra birra o altra al 33.36113427856547 % de descuento'
 date: 2019/10/31 13:40:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rqKyWFCDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rqKyWFCDL._SL200_.jpg' ]

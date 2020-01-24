@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.759828448892065 % en 'Fal_martia  Falda Mujer   Denim Black Wa'
+title: 'Descuento del 63.759828448892065 % en Fal_martia  Falda Mujer   Denim Black Wa'
 date: 2019/10/10 14:16:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419yhbs1MuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419yhbs1MuL._SL200_.jpg' ]

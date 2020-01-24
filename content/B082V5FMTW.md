@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canadian Peak Anorak' al 40.0 % de descuento
+title: 'Canadian Peak Anorak al 40.0 % de descuento'
 date: 2020-01-11 08:08:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w9VIDTgBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w9VIDTgBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Grover Vaqueros Rectos  Azul  Sup' al 82.25252525252526 % de descuento
+title: 'REPLAY Grover Vaqueros Rectos  Azul  Sup al 82.25252525252526 % de descuento'
 date: 2019/12/17 06:27:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WwUgn2tgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WwUgn2tgL._SL200_.jpg' ]

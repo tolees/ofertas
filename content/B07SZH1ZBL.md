@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tikea Cartera Geométrica Luminosa Hologr' al 46.68222740913638 % de descuento
+title: 'Tikea Cartera Geométrica Luminosa Hologr al 46.68222740913638 % de descuento'
 date: 2020-01-01 20:13:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yiJrTw8sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yiJrTw8sL._SL200_.jpg' ]

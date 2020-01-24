@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SEVERIN Crêpes Maker CM 2198  Inkl. Holz' al 62.01240248049611 % de descuento
+title: 'SEVERIN Crêpes Maker CM 2198  Inkl. Holz al 62.01240248049611 % de descuento'
 date: 2019/12/11 17:41:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BsRUWRNfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BsRUWRNfL._SL200_.jpg' ]

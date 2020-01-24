@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Superstar J  Unisex Adulto  Blanc' al 39.957112223016445 % de descuento
+title: 'adidas Superstar J  Unisex Adulto  Blanc al 39.957112223016445 % de descuento'
 date: 2020-01-23 19:49:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rB7YJa2yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rB7YJa2yL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Jearl Sandal B  Sandalias con Tir' al 70.54505005561735 % de descuento
+title: 'Geox D Jearl Sandal B  Sandalias con Tir al 70.54505005561735 % de descuento'
 date: 2019/12/02 22:24:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BFzVcUm2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BFzVcUm2L._SL200_.jpg' ]

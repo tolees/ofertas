@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.17460317460316 % en 'MERAKI POETME003 Pantalones Cortos  Azul'
+title: 'Descuento del 73.17460317460316 % en MERAKI POETME003 Pantalones Cortos  Azul'
 date: 2019/12/30 11:03:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TWA3AQWUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TWA3AQWUL._SL200_.jpg' ]

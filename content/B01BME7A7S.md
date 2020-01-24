@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Baby Jogger City Mini GT - Silla de pase' al 47.81002087682672 % de descuento
+title: 'Baby Jogger City Mini GT - Silla de pase al 47.81002087682672 % de descuento'
 date: 2019/12/23 13:09:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WObsyJL%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WObsyJL%2BL._SL200_.jpg' ]

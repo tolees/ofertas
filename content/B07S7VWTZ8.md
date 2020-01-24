@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.00680136027206 % en 'Femate - Auriculares inalámbricos Blueto'
+title: 'Descuento del 34.00680136027206 % en Femate - Auriculares inalámbricos Blueto'
 date: 2019/10/15 11:02:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21v0RugJpFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21v0RugJpFL._SL200_.jpg' ]

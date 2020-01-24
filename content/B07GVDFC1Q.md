@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Flower205 Altavoz Bluetooth Que Lleva el' al 37.97823797823797 % de descuento
+title: 'Flower205 Altavoz Bluetooth Que Lleva el al 37.97823797823797 % de descuento'
 date: 2020-01-02 13:13:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZM1jhTJHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZM1jhTJHL._SL200_.jpg' ]

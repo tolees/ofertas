@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Twentyfour Freizeitshirt FM NY Kapuzen i' al 73.57682105692716 % de descuento
+title: 'Twentyfour Freizeitshirt FM NY Kapuzen i al 73.57682105692716 % de descuento'
 date: 2020-01-21 11:33:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o9Qp7wHrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o9Qp7wHrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fossil Reloj Analógico para Hombre de Cu' al 56.330275229357795 % de descuento
+title: 'Fossil Reloj Analógico para Hombre de Cu al 56.330275229357795 % de descuento'
 date: 2019/10/29 03:41:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bcLh7QU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bcLh7QU%2BL._SL200_.jpg' ]

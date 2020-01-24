@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.34487682970367 % en 'Redken 59530 - Cuidado capilar  90 ml'
+title: 'Descuento del 34.34487682970367 % en Redken 59530 - Cuidado capilar  90 ml'
 date: 2019/10/10 22:30:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BdDR0c0mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BdDR0c0mL._SL200_.jpg' ]

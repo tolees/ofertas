@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burn Out Paradise Remastered' al 33.644548182727576 % de descuento
+title: 'Burn Out Paradise Remastered al 33.644548182727576 % de descuento'
 date: 2019/10/14 15:38:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-wBtuxJeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-wBtuxJeL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TAOCOCO Regleta inteligente  Smart Power' al 62.006200620062 % de descuento
+title: 'TAOCOCO Regleta inteligente  Smart Power al 62.006200620062 % de descuento'
 date: 2020-01-22 12:41:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f96Fj7rcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f96Fj7rcL._SL200_.jpg' ]

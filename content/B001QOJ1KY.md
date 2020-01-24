@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01111111111111 % en 'Levi s 501 Original Fit Jeans Vaqueros  '
+title: 'Descuento del 30.01111111111111 % en Levi s 501 Original Fit Jeans Vaqueros  '
 date: 2020-01-02 17:04:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RwugPHnuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RwugPHnuL._SL200_.jpg' ]

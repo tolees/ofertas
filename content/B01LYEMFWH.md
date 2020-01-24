@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.35579514824798 % en 'Victor Toallitas Perfumadas - 10 Unidade'
+title: 'Descuento del 58.35579514824798 % en Victor Toallitas Perfumadas - 10 Unidade'
 date: 2020-01-04 14:31:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wm9xWUKiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wm9xWUKiL._SL200_.jpg' ]

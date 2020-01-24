@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hub USB C 9 en 1 USB C Hub Adaptador Mac' al 46.00766794465745 % de descuento
+title: 'Hub USB C 9 en 1 USB C Hub Adaptador Mac al 46.00766794465745 % de descuento'
 date: 2020-01-13 01:03:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513ssd1OabL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513ssd1OabL._SL200_.jpg' ]

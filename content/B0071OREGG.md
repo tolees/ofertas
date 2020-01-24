@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TESA 05454-00100-00 05454-00100-00-Burle' al 41.96428571428571 % de descuento
+title: 'TESA 05454-00100-00 05454-00100-00-Burle al 41.96428571428571 % de descuento'
 date: 2020-01-20 15:57:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rRle39krL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rRle39krL._SL200_.jpg' ]

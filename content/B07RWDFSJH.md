@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ty- Beanie Boo s - Peluche Roseta con Un' al 41.151919866444075 % de descuento
+title: 'Ty- Beanie Boo s - Peluche Roseta con Un al 41.151919866444075 % de descuento'
 date: 2019/12/08 10:38:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KTT3Zcg5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KTT3Zcg5L._SL200_.jpg' ]

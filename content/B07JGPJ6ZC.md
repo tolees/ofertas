@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aicok SD60K Juicer Filter & Cups  Juicer' al 50.00833472245374 % de descuento
+title: 'Aicok SD60K Juicer Filter & Cups  Juicer al 50.00833472245374 % de descuento'
 date: 2020-01-11 20:43:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nTEFpCaeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nTEFpCaeL._SL200_.jpg' ]

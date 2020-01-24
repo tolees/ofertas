@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell Zug Kapp Gehrungssäge TC-SM 2131' al 42.98678099321185 % de descuento
+title: 'Einhell Zug Kapp Gehrungssäge TC-SM 2131 al 42.98678099321185 % de descuento'
 date: 2019/12/16 12:29:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515XT4RJe4L._SL200_.jpg' ]

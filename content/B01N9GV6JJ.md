@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.94305502116199 % en 'KRISP 6252-TUR-20  Vestido Corto Patinad'
+title: 'Descuento del 51.94305502116199 % en KRISP 6252-TUR-20  Vestido Corto Patinad'
 date: 2020-01-17 09:32:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HRFhbn0JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HRFhbn0JL._SL200_.jpg' ]

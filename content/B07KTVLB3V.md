@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.005556790397865 % en 'LEGO 70675 NINJAGO Katana 4 x 4 Vehicle '
+title: 'Descuento del 25.005556790397865 % en LEGO 70675 NINJAGO Katana 4 x 4 Vehicle '
 date: 2019/12/20 09:02:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j-4R9BxKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j-4R9BxKL._SL200_.jpg' ]

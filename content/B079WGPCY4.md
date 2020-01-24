@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Lola High Charm Vaqueros  Neg' al 63.31818181818182 % de descuento
+title: 'Pepe Jeans Lola High Charm Vaqueros  Neg al 63.31818181818182 % de descuento'
 date: 2019/10/09 23:01:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ztYj8XnkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ztYj8XnkL._SL200_.jpg' ]

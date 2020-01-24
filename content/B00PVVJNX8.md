@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Underwear Perfectly FIT-Mem' al 36.618464961067865 % de descuento
+title: 'Calvin Klein Underwear Perfectly FIT-Mem al 36.618464961067865 % de descuento'
 date: 2019/12/12 17:26:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IZ2sfr5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IZ2sfr5lL._SL200_.jpg' ]

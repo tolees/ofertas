@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'X-TIGER Hombres de Bicicleta Manga Corta' al 34.151065203357 % de descuento
+title: 'X-TIGER Hombres de Bicicleta Manga Corta al 34.151065203357 % de descuento'
 date: 2019/12/30 10:31:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eeCHGjVLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eeCHGjVLL._SL200_.jpg' ]

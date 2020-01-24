@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.863266180882974 % en 'Amzdeal Grifo de cocina  Grifo fregadero'
+title: 'Descuento del 42.863266180882974 % en Amzdeal Grifo de cocina  Grifo fregadero'
 date: 2019/10/17 19:23:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PBG6m%2Ba-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PBG6m%2Ba-L._SL200_.jpg' ]

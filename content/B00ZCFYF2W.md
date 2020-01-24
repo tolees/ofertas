@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.879916220619037 % en 'Memoria Flash USB inalámbrica SanDisk Co'
+title: 'Descuento del 27.879916220619037 % en Memoria Flash USB inalámbrica SanDisk Co'
 date: 2019/10/17 13:23:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L9vnt6C3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L9vnt6C3L._SL200_.jpg' ]

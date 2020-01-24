@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GRÜNTEK Tijera Cortasetos de dos manos L' al 32.26452905811623 % de descuento
+title: 'GRÜNTEK Tijera Cortasetos de dos manos L al 32.26452905811623 % de descuento'
 date: 2020-01-16 17:22:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e8QhdAE3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e8QhdAE3L._SL200_.jpg' ]

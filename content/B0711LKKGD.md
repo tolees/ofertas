@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.57022809123648 % en 'Beexcellent GM-1 - Auriculares Gaming pa'
+title: 'Descuento del 25.57022809123648 % en Beexcellent GM-1 - Auriculares Gaming pa'
 date: 2019/12/28 10:53:15 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

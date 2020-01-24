@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.026543566070394 % en 'Fruit of the Loom Valueweight 5 Pack Cam'
+title: 'Descuento del 38.026543566070394 % en Fruit of the Loom Valueweight 5 Pack Cam'
 date: 2019/10/30 11:46:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315dvE8cp%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315dvE8cp%2BL._SL200_.jpg' ]

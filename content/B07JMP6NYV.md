@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.31428571428572 % en 'XTI 49105  Sandalias con Plataforma para'
+title: 'Descuento del 65.31428571428572 % en XTI 49105  Sandalias con Plataforma para'
 date: 2020-01-06 12:18:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DgueaunIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DgueaunIL._SL200_.jpg' ]

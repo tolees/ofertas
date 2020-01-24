@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.564045568213405 % en 'Plancha Ropa Vapor Vertical   Homever Mi'
+title: 'Descuento del 30.564045568213405 % en Plancha Ropa Vapor Vertical   Homever Mi'
 date: 2019/12/06 07:34:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416EBxSgc8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416EBxSgc8L._SL200_.jpg' ]

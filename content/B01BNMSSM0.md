@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips  Afeitadora Femenina con una Cuc' al 34.88222007099064 % de descuento
+title: 'Philips  Afeitadora Femenina con una Cuc al 34.88222007099064 % de descuento'
 date: 2020-01-22 12:12:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NoA7t3MxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NoA7t3MxL._SL200_.jpg' ]

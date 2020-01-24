@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.47826086956521 % en 'Hugo Boss 11563 - Desodorante'
+title: 'Descuento del 41.47826086956521 % en Hugo Boss 11563 - Desodorante'
 date: 2019/12/28 14:16:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3151zFIFWoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3151zFIFWoL._SL200_.jpg' ]

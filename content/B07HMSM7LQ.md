@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SlowTon Bandolera para Perro  Pet Carrie' al 35.00972492358989 % de descuento
+title: 'SlowTon Bandolera para Perro  Pet Carrie al 35.00972492358989 % de descuento'
 date: 2019/12/08 07:55:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I36rAtV4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I36rAtV4L._SL200_.jpg' ]

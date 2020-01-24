@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pinypon- Club de Hípica  Multicolor  Fam' al 30.174621653084987 % de descuento
+title: 'Pinypon- Club de Hípica  Multicolor  Fam al 30.174621653084987 % de descuento'
 date: 2019/12/04 09:55:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IH0apeEZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IH0apeEZL._SL200_.jpg' ]

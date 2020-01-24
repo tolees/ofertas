@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.68888888888889 % en 'Calvin Klein KW0KW00631  Parte Inferior '
+title: 'Descuento del 61.68888888888889 % en Calvin Klein KW0KW00631  Parte Inferior '
 date: 2019/11/09 11:06:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sX3dP4xYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sX3dP4xYL._SL200_.jpg' ]

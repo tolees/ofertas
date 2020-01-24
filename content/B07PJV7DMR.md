@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CatShin Smartwatch Android/iOS con Pulsó' al 48.578368338334045 % de descuento
+title: 'CatShin Smartwatch Android/iOS con Pulsó al 48.578368338334045 % de descuento'
 date: 2019/11/15 18:36:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xACy5fWDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xACy5fWDL._SL200_.jpg' ]

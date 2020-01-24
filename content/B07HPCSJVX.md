@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cartera Pepe Jeans Delta horizontal con ' al 37.421052631578945 % de descuento
+title: 'Cartera Pepe Jeans Delta horizontal con  al 37.421052631578945 % de descuento'
 date: 2019/11/22 16:16:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ggsHtYQ%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ggsHtYQ%2BL._SL200_.jpg' ]

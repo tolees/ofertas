@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio Collection A168WA-1YES  Reloj Rect' al 32.69340974212035 % de descuento
+title: 'Casio Collection A168WA-1YES  Reloj Rect al 32.69340974212035 % de descuento'
 date: 2019/10/06 10:20:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Puga9ZeBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Puga9ZeBL._SL200_.jpg' ]

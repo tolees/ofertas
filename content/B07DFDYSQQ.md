@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop La Pequeña Tienda de los Horro' al 65.51724137931035 % de descuento
+title: 'Funko Pop La Pequeña Tienda de los Horro al 65.51724137931035 % de descuento'
 date: 2020-01-15 07:02:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uWtbWDAUL._SL200_.jpg' ]

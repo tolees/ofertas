@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hugo Boss  Agua de colonia para hombres ' al 41.25 % de descuento
+title: 'Hugo Boss  Agua de colonia para hombres  al 41.25 % de descuento'
 date: 2020-01-12 10:53:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fymHi7oSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fymHi7oSL._SL200_.jpg' ]

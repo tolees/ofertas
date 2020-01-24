@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LTPAG Pulsera Actividad Inteligente  Pod' al 53.342223703950665 % de descuento
+title: 'LTPAG Pulsera Actividad Inteligente  Pod al 53.342223703950665 % de descuento'
 date: 2019/10/12 17:18:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KCoEOOs%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KCoEOOs%2BL._SL200_.jpg' ]

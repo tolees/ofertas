@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Western Check Shirt Blusa  Marf' al 49.9909008189263 % de descuento
+title: 'Wrangler Western Check Shirt Blusa  Marf al 49.9909008189263 % de descuento'
 date: 2020-01-20 08:18:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQWDsFCPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BQWDsFCPL._SL200_.jpg' ]

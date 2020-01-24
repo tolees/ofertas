@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.62241494329553 % en 'Funko FK3876 Pop! TV: Juego de Tronos- G'
+title: 'Descuento del 33.62241494329553 % en Funko FK3876 Pop! TV: Juego de Tronos- G'
 date: 2019/11/03 15:09:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516iphMdo9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516iphMdo9L._SL200_.jpg' ]

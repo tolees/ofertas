@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Tous Kaos Shock - Organizador de Bolso p'
+title: 'Descuento del 50.0 % en Tous Kaos Shock - Organizador de Bolso p'
 date: 2020-01-15 12:59:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21H6mNL-jDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21H6mNL-jDL._SL200_.jpg' ]

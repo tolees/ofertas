@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fortnite: Lote Fuego Oscuro  Esta caja c' al 33.25542570951586 % de descuento
+title: 'Fortnite: Lote Fuego Oscuro  Esta caja c al 33.25542570951586 % de descuento'
 date: 2019/12/05 08:31:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BIi3AxyYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BIi3AxyYL._SL200_.jpg' ]

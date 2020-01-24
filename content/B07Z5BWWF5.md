@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.945859872611468 % en 'ASUS PLYTA GLÓWNA ROG Strix B450-E Gamin'
+title: 'Descuento del 27.945859872611468 % en ASUS PLYTA GLÓWNA ROG Strix B450-E Gamin'
 date: 2019/12/17 09:33:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-LRJXQMGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-LRJXQMGL._SL200_.jpg' ]

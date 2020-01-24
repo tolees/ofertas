@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung MB-ME128GA/EU EVO Select 128 GB ' al 44.08817635270541 % de descuento
+title: 'Samsung MB-ME128GA/EU EVO Select 128 GB  al 44.08817635270541 % de descuento'
 date: 2019/10/28 15:37:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z3z2G1n-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z3z2G1n-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Educa Borrás- Aldeas Infantiles Puzzle C' al 88.52379095163808 % de descuento
+title: 'Educa Borrás- Aldeas Infantiles Puzzle C al 88.52379095163808 % de descuento'
 date: 2019/12/23 14:48:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51biTva2OYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51biTva2OYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cafetera Café Portátil Aicok  K-Cup Cafe' al 36.721518987341774 % de descuento
+title: 'Cafetera Café Portátil Aicok  K-Cup Cafe al 36.721518987341774 % de descuento'
 date: 2019/11/02 14:37:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Pi157Ea4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Pi157Ea4L._SL200_.jpg' ]

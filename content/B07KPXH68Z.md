@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fantasyworld SJ60 Impermeable 2.0" LCD 4' al 59.98606595448213 % de descuento
+title: 'Fantasyworld SJ60 Impermeable 2.0" LCD 4 al 59.98606595448213 % de descuento'
 date: 2020-01-15 23:03:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190mapcI5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190mapcI5L._SL200_.jpg' ]

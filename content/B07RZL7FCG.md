@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.006384337092996 % en '39St Schönheit Spielzeug Disney Frozen S'
+title: 'Descuento del 30.006384337092996 % en 39St Schönheit Spielzeug Disney Frozen S'
 date: 2019/12/15 15:39:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JOeJBSgkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JOeJBSgkL._SL200_.jpg' ]

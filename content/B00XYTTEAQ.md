@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech K400 Plus - Teclado inalámbrico' al 44.330585876587214 % de descuento
+title: 'Logitech K400 Plus - Teclado inalámbrico al 44.330585876587214 % de descuento'
 date: 2020-01-24 10:15:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MNxoa+W+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MNxoa+W+L._AC_._SL200_.jpg' ]

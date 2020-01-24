@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.00750187546888 % en 'La Lego Película 2: El Videojuego'
+title: 'Descuento del 30.00750187546888 % en La Lego Película 2: El Videojuego'
 date: 2019/11/07 17:45:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XQHNen6JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XQHNen6JL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M One&Only Box 2.0 Pullover Sudad' al 52.800000000000004 % de descuento
+title: 'Hurley M One&Only Box 2.0 Pullover Sudad al 52.800000000000004 % de descuento'
 date: 2019/11/03 14:45:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51drkYoogxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51drkYoogxL._SL200_.jpg' ]

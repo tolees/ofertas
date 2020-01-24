@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.546848381601365 % en 'Ledvance Zigbee - Plafón de pared y tech'
+title: 'Descuento del 37.546848381601365 % en Ledvance Zigbee - Plafón de pared y tech'
 date: 2019/11/29 08:24:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31okLpbitzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31okLpbitzL._SL200_.jpg' ]

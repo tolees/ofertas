@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Poe Dameron X-Wing Fighter - Star Wars F' al 53.218261009840305 % de descuento
+title: 'Poe Dameron X-Wing Fighter - Star Wars F al 53.218261009840305 % de descuento'
 date: 2020-01-23 09:28:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L5%2B7YVFZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L5%2B7YVFZL._SL200_.jpg' ]

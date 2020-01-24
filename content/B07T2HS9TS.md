@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BSEED AC Power Enchufe de pared Enchufes' al 25.45227698066127 % de descuento
+title: 'BSEED AC Power Enchufe de pared Enchufes al 25.45227698066127 % de descuento'
 date: 2020-01-19 13:32:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kDsX%2B9JKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kDsX%2B9JKL._SL200_.jpg' ]

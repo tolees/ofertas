@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KOSPET Classic Smartwatch  1.39" AMOLED ' al 49.89736301910628 % de descuento
+title: 'KOSPET Classic Smartwatch  1.39" AMOLED  al 49.89736301910628 % de descuento'
 date: 2019/12/18 20:49:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FNWmMDEwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FNWmMDEwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Game Of Thrones - Season 2' al 63.191153238546605 % de descuento
+title: 'Game Of Thrones - Season 2 al 63.191153238546605 % de descuento'
 date: 2019/11/06 16:23:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5188ZRGufuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5188ZRGufuL._SL200_.jpg' ]

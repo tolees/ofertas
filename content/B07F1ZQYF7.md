@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Tidelands Classic 2 Eye  Náut' al 52.35714285714286 % de descuento
+title: 'Timberland Tidelands Classic 2 Eye  Náut al 52.35714285714286 % de descuento'
 date: 2019/10/12 12:39:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PkR9hjP1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PkR9hjP1L._SL200_.jpg' ]

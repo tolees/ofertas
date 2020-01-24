@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 's.Oliver SO-2492-MQ - Reloj analógico de' al 60.29489204844655 % de descuento
+title: 's.Oliver SO-2492-MQ - Reloj analógico de al 60.29489204844655 % de descuento'
 date: 2019/12/07 15:08:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PnNcpX3JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PnNcpX3JL._SL200_.jpg' ]

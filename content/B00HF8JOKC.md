@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.540481400437635 % en 'Princess 127000 Sandwich Grill Compact  '
+title: 'Descuento del 29.540481400437635 % en Princess 127000 Sandwich Grill Compact  '
 date: 2019/10/31 18:25:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UpRLv2DxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UpRLv2DxL._SL200_.jpg' ]

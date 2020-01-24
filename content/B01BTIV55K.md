@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Batman - Figura de acción  escuadrón Sui' al 63.60100027785496 % de descuento
+title: 'Batman - Figura de acción  escuadrón Sui al 63.60100027785496 % de descuento'
 date: 2019/10/21 21:13:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xKkrR2hzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xKkrR2hzL._SL200_.jpg' ]

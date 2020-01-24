@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.935531678399403 % en 'Cortapelos Profesional Hombre Cortadora '
+title: 'Descuento del 25.935531678399403 % en Cortapelos Profesional Hombre Cortadora '
 date: 2019/10/24 14:11:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416tQKcxZvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416tQKcxZvL._SL200_.jpg' ]

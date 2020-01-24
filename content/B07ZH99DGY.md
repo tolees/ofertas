@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.00947328533535 % en 'IKOHS EMITERM WiFi - Emisor Radiador Tér'
+title: 'Descuento del 25.00947328533535 % en IKOHS EMITERM WiFi - Emisor Radiador Tér'
 date: 2019/11/29 19:56:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315kevsX90L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315kevsX90L._SL200_.jpg' ]

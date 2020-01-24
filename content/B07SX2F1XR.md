@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.01375343835959 % en 'Lydreewam Pendientes de aro plata de ley'
+title: 'Descuento del 55.01375343835959 % en Lydreewam Pendientes de aro plata de ley'
 date: 2020-01-20 18:46:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419dMIP7jzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419dMIP7jzL._SL200_.jpg' ]

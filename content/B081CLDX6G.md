@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.999999999999993 % en 'Geographical Norway Sudadera DE NIÑO GYM'
+title: 'Descuento del 29.999999999999993 % en Geographical Norway Sudadera DE NIÑO GYM'
 date: 2020-01-09 08:10:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415wXz6dRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415wXz6dRBL._SL200_.jpg' ]

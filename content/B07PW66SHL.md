@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.03003003003003 % en 'Giftale Women Rose Gold Plated Alloy Car'
+title: 'Descuento del 30.03003003003003 % en Giftale Women Rose Gold Plated Alloy Car'
 date: 2020-01-12 21:59:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LcnMhqdzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LcnMhqdzL._SL200_.jpg' ]

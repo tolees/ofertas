@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Basket Heart Bio Hacking Wn s  Zapa' al 53.74096720400223 % de descuento
+title: 'Puma Basket Heart Bio Hacking Wn s  Zapa al 53.74096720400223 % de descuento'
 date: 2019/12/05 03:57:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZdKF1yqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZdKF1yqdL._SL200_.jpg' ]

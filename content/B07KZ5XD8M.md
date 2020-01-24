@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Wa611 .000.8005298 Pantalones Cor' al 78.89873417721519 % de descuento
+title: 'REPLAY Wa611 .000.8005298 Pantalones Cor al 78.89873417721519 % de descuento'
 date: 2019/10/09 11:30:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u%2B3dWG87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u%2B3dWG87L._SL200_.jpg' ]

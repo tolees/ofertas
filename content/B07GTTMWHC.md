@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Active Big Logo tee Camiseta  Hombr' al 52.43107769423558 % de descuento
+title: 'PUMA Active Big Logo tee Camiseta  Hombr al 52.43107769423558 % de descuento'
 date: 2019/12/17 15:29:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUNKNj62L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUNKNj62L._SL200_.jpg' ]

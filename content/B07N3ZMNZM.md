@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.942604856512137 % en 'Hackett Solid Volley Pantalones Cortos  '
+title: 'Descuento del 31.942604856512137 % en Hackett Solid Volley Pantalones Cortos  '
 date: 2019/11/20 18:31:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VbYAwczLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VbYAwczLL._SL200_.jpg' ]

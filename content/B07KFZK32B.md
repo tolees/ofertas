@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Future Runner Premium  Zapatillas U' al 55.130086724482986 % de descuento
+title: 'Puma Future Runner Premium  Zapatillas U al 55.130086724482986 % de descuento'
 date: 2019/12/20 19:19:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hRNcpQ7uL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Speedcross 4 GTX  Zapatillas de ' al 46.655551850616874 % de descuento
+title: 'Salomon Speedcross 4 GTX  Zapatillas de  al 46.655551850616874 % de descuento'
 date: 2019/12/03 19:57:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vbzOZG26L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vbzOZG26L._SL200_.jpg' ]

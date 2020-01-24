@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pagani Design automático de buceadores R' al 61.54082849340359 % de descuento
+title: 'Pagani Design automático de buceadores R al 61.54082849340359 % de descuento'
 date: 2019/10/06 23:57:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51llg5jkxqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51llg5jkxqL._SL200_.jpg' ]

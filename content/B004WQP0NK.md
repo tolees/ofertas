@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe - Cartucho mezclador de recambio R' al 56.289170674828746 % de descuento
+title: 'Grohe - Cartucho mezclador de recambio R al 56.289170674828746 % de descuento'
 date: 2019/11/10 15:52:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MoxDc%2BHOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MoxDc%2BHOL._SL200_.jpg' ]

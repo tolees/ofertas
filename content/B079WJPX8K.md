@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.086956521739136 % en 'Pepe Jeans Kendal 6078761 Equipaje de Ma'
+title: 'Descuento del 26.086956521739136 % en Pepe Jeans Kendal 6078761 Equipaje de Ma'
 date: 2019/11/08 12:07:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TwK6S0PbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TwK6S0PbL._SL200_.jpg' ]

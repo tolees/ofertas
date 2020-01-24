@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 88.37209302325581 % en 'Beurer FC100  Exfoliador facial Pureo De'
+title: 'Descuento del 88.37209302325581 % en Beurer FC100  Exfoliador facial Pureo De'
 date: 2019/12/19 06:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LSSnxGcVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LSSnxGcVL._SL200_.jpg' ]

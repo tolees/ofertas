@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 89.64150943396227 % en 'REPLAY Luz Vaqueros Skinny  Azul  Dark B'
+title: 'Descuento del 89.64150943396227 % en REPLAY Luz Vaqueros Skinny  Azul  Dark B'
 date: 2019/11/29 09:10:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RKc9j1xtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RKc9j1xtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Play Up Short 2.0 Pantalón ' al 61.035714285714285 % de descuento
+title: 'Under Armour Play Up Short 2.0 Pantalón  al 61.035714285714285 % de descuento'
 date: 2019/11/07 22:44:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vtRr2TP4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vtRr2TP4L._SL200_.jpg' ]

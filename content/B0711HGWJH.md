@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VAUDE Men s Me Spectra Softshell II Jack' al 81.80869565217391 % de descuento
+title: 'VAUDE Men s Me Spectra Softshell II Jack al 81.80869565217391 % de descuento'
 date: 2019/12/11 19:36:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xQuB8MENL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xQuB8MENL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel Llavero Capitán Tonos Dorados Azu' al 50.27932960893854 % de descuento
+title: 'Marvel Llavero Capitán Tonos Dorados Azu al 50.27932960893854 % de descuento'
 date: 2020-01-09 14:16:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jIAPYOaoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jIAPYOaoL._SL200_.jpg' ]

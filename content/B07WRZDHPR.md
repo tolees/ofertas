@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.87389684251814 % en 'Gricol Estante de Ducha Sin Taladrar en '
+title: 'Descuento del 56.87389684251814 % en Gricol Estante de Ducha Sin Taladrar en '
 date: 2019/11/18 19:07:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61X3nJ0PsrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61X3nJ0PsrL._SL200_.jpg' ]

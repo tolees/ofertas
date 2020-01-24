@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LK Protector de Pantalla para Xiaomi Red' al 61.934254406860404 % de descuento
+title: 'LK Protector de Pantalla para Xiaomi Red al 61.934254406860404 % de descuento'
 date: 2020-01-01 15:18:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iHBt6ejEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iHBt6ejEL._SL200_.jpg' ]

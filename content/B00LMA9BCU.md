@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disney 84624 Frozen Papier Servietten  2' al 64.15770609318996 % de descuento
+title: 'Disney 84624 Frozen Papier Servietten  2 al 64.15770609318996 % de descuento'
 date: 2020-01-21 09:12:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LSQn8fCSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LSQn8fCSL._SL200_.jpg' ]

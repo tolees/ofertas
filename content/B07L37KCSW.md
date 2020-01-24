@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aceite de Krill | Krill puro + EPA + DHA' al 59.53991880920163 % de descuento
+title: 'Aceite de Krill | Krill puro + EPA + DHA al 59.53991880920163 % de descuento'
 date: 2020-01-22 01:45:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FTnSSihKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FTnSSihKL._SL200_.jpg' ]

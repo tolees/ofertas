@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica NAD14533G - Reloj Analógico para' al 42.054360513590126 % de descuento
+title: 'Nautica NAD14533G - Reloj Analógico para al 42.054360513590126 % de descuento'
 date: 2019/12/20 02:30:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ftfvJ2E-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ftfvJ2E-L._SL200_.jpg' ]

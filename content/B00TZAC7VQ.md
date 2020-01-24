@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.01249705258195 % en 'Kempa Emotion Classic Chaqueta De Chanda'
+title: 'Descuento del 67.01249705258195 % en Kempa Emotion Classic Chaqueta De Chanda'
 date: 2019/12/31 13:17:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qLMDnw2pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qLMDnw2pL._SL200_.jpg' ]

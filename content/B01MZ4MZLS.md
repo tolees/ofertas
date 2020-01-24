@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.16666666666667 % en 'Vans Herren Classic T - Shirt  Rot  Burg'
+title: 'Descuento del 50.16666666666667 % en Vans Herren Classic T - Shirt  Rot  Burg'
 date: 2019/10/09 14:25:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C4OmL-TFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C4OmL-TFL._SL200_.jpg' ]

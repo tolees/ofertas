@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.07084514085681 % en 'Philips Hue White & Color Ambiance E27 L'
+title: 'Descuento del 25.07084514085681 % en Philips Hue White & Color Ambiance E27 L'
 date: 2019/12/14 20:19:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21E7YKLP8YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21E7YKLP8YL._SL200_.jpg' ]

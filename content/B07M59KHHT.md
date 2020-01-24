@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Tanken Camiseta de Manga ' al 50.6 % de descuento
+title: 'The North Face Tanken Camiseta de Manga  al 50.6 % de descuento'
 date: 2019/11/19 06:22:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N2UZoI3TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N2UZoI3TL._SL200_.jpg' ]

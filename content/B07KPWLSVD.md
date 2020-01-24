@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 89.60465116279069 % en 'REPLAY Luz Ankle Zip Vaqueros Skinny  Az'
+title: 'Descuento del 89.60465116279069 % en REPLAY Luz Ankle Zip Vaqueros Skinny  Az'
 date: 2019/12/17 06:27:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Dm5xyI%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Dm5xyI%2B4L._SL200_.jpg' ]

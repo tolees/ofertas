@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.95516811955168 % en 'Disney Traditions Melancholy Mummy-Eeyor'
+title: 'Descuento del 31.95516811955168 % en Disney Traditions Melancholy Mummy-Eeyor'
 date: 2019/11/02 19:14:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m2LNk9WhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m2LNk9WhL._SL200_.jpg' ]

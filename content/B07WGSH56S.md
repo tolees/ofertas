@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HoHome Kit Cepillos Repuestos para iRobo' al 65.23157208088715 % de descuento
+title: 'HoHome Kit Cepillos Repuestos para iRobo al 65.23157208088715 % de descuento'
 date: 2019/12/05 15:01:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gc2i2142L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gc2i2142L._SL200_.jpg' ]

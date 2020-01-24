@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.339999999999996 % en 'Merrell Damen Moab 2 Mid GTX Trekking- &'
+title: 'Descuento del 61.339999999999996 % en Merrell Damen Moab 2 Mid GTX Trekking- &'
 date: 2019/10/28 15:22:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AkgDvzNRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AkgDvzNRL._SL200_.jpg' ]

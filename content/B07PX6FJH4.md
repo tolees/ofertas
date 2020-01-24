@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Solac Lucid i10 - Robot aspirador  progr' al 28.037121484859394 % de descuento
+title: 'Solac Lucid i10 - Robot aspirador  progr al 28.037121484859394 % de descuento'
 date: 2019/12/03 08:59:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51frN%2BQiLKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51frN%2BQiLKL._SL200_.jpg' ]

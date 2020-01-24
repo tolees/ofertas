@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.97999199679871 % en 'JACK & JONES Jorsurfemb Polo SS  Blanco '
+title: 'Descuento del 49.97999199679871 % en JACK & JONES Jorsurfemb Polo SS  Blanco '
 date: 2019/10/21 18:58:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XJvG-jRqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XJvG-jRqL._SL200_.jpg' ]

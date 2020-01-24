@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.35891517599539 % en 'deAO Mi Little Chef - Cocinita de Juguet'
+title: 'Descuento del 66.35891517599539 % en deAO Mi Little Chef - Cocinita de Juguet'
 date: 2020-01-13 08:39:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c7SpMWRgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c7SpMWRgL._SL200_.jpg' ]

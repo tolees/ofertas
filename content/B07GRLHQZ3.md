@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.86821705426357 % en 'Chicco Cuddle&Bubble Bañera y cambiador '
+title: 'Descuento del 41.86821705426357 % en Chicco Cuddle&Bubble Bañera y cambiador '
 date: 2019/11/29 12:19:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yH1menJCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yH1menJCL._SL200_.jpg' ]

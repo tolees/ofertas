@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Purina Friskies Pienso para Gato Adulto ' al 35.26832324076008 % de descuento
+title: 'Purina Friskies Pienso para Gato Adulto  al 35.26832324076008 % de descuento'
 date: 2019/10/22 23:06:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dYlSL2MoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dYlSL2MoL._SL200_.jpg' ]

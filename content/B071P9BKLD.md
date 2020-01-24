@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.03942335981171 % en 'VTech- TutTut Animals Arca de Animales J'
+title: 'Descuento del 34.03942335981171 % en VTech- TutTut Animals Arca de Animales J'
 date: 2020-01-15 19:36:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ct99nTo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ct99nTo2L._SL200_.jpg' ]

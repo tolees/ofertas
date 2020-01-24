@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.742857142857154 % en 'Under Armour Favorite Big Logo Legging L'
+title: 'Descuento del 45.742857142857154 % en Under Armour Favorite Big Logo Legging L'
 date: 2019/12/17 13:49:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QJnTxMtmL._SL200_.jpg' ]

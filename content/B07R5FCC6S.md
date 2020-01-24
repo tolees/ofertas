@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pendrive 8GB 3.0 5 Piezas Memorias USB -' al 27.862914460852608 % de descuento
+title: 'Pendrive 8GB 3.0 5 Piezas Memorias USB - al 27.862914460852608 % de descuento'
 date: 2020-01-04 08:33:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415tQz66u0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415tQz66u0L._SL200_.jpg' ]

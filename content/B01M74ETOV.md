@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.97915798249271 % en 'G-STAR RAW Lynn Mid Waist Skinny  Vaquer'
+title: 'Descuento del 49.97915798249271 % en G-STAR RAW Lynn Mid Waist Skinny  Vaquer'
 date: 2019/12/25 16:09:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417xgBzhWTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417xgBzhWTL._SL200_.jpg' ]

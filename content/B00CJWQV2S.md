@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Atwood Canvas  Zapatillas para Homb' al 31.07692307692308 % de descuento
+title: 'Vans Atwood Canvas  Zapatillas para Homb al 31.07692307692308 % de descuento'
 date: 2019/11/17 15:12:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sqEojxPCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sqEojxPCL._SL200_.jpg' ]

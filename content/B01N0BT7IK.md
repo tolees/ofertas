@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.92727272727273 % en 'Under Armour Rival Fitted Full Zip Sudad'
+title: 'Descuento del 50.92727272727273 % en Under Armour Rival Fitted Full Zip Sudad'
 date: 2019/11/28 08:35:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fHnUY6j0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fHnUY6j0L._SL200_.jpg' ]

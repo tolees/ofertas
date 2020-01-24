@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DaMei Personalizada Pulseras para Hombre' al 68.80496637351268 % de descuento
+title: 'DaMei Personalizada Pulseras para Hombre al 68.80496637351268 % de descuento'
 date: 2019/12/17 17:34:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lDE-LdgNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lDE-LdgNL._SL200_.jpg' ]

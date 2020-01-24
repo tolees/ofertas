@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 996 Leather  Zapatillas para' al 69.47368421052632 % de descuento
+title: 'New Balance 996 Leather  Zapatillas para al 69.47368421052632 % de descuento'
 date: 2019/12/04 20:34:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F03pOAgbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F03pOAgbL._SL200_.jpg' ]

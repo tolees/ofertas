@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.001439884809216 % en 'Localizador GPS del Coche perseguidor de'
+title: 'Descuento del 32.001439884809216 % en Localizador GPS del Coche perseguidor de'
 date: 2019/12/09 19:56:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Qd8PUYY1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Qd8PUYY1L._SL200_.jpg' ]

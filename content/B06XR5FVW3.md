@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.79783909277613 % en 'Bosch Universal Impact 800 - Taladro per'
+title: 'Descuento del 35.79783909277613 % en Bosch Universal Impact 800 - Taladro per'
 date: 2020-01-01 11:05:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ibFmZMI9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ibFmZMI9L._SL200_.jpg' ]

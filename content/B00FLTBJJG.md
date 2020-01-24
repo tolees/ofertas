@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.333333333333336 % en 'Wicked Aqua Mocha Java Lubricante - 158 '
+title: 'Descuento del 34.333333333333336 % en Wicked Aqua Mocha Java Lubricante - 158 '
 date: 2019/10/25 15:52:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NaLv2126L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NaLv2126L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diadora Spa L.Leggings Pantalones  Mujer' al 70.14 % de descuento
+title: 'Diadora Spa L.Leggings Pantalones  Mujer al 70.14 % de descuento'
 date: 2019/10/08 01:49:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S1HKkhncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S1HKkhncL._SL200_.jpg' ]

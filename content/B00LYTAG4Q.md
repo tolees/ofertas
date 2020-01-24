@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hollywood Star Fashion - Camiseta de man' al 72.21448467966573 % de descuento
+title: 'Hollywood Star Fashion - Camiseta de man al 72.21448467966573 % de descuento'
 date: 2020-01-20 09:08:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F9lklqOML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F9lklqOML._SL200_.jpg' ]

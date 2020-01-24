@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Mujer Tommy Classics  Polo M' al 42.24489795918367 % de descuento
+title: 'Tommy Jeans Mujer Tommy Classics  Polo M al 42.24489795918367 % de descuento'
 date: 2019/11/15 13:39:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erZOplA0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erZOplA0L._SL200_.jpg' ]

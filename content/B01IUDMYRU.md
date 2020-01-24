@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dakine Penelope Dinero Bolsa  Color Sand' al 28.673835125448033 % de descuento
+title: 'Dakine Penelope Dinero Bolsa  Color Sand al 28.673835125448033 % de descuento'
 date: 2020-01-11 21:56:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P6DMzokML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P6DMzokML._SL200_.jpg' ]

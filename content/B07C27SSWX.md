@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjebasic Knit V-Neck Noos s' al 45.21808723489396 % de descuento
+title: 'JACK & JONES Jjebasic Knit V-Neck Noos s al 45.21808723489396 % de descuento'
 date: 2019/11/17 21:02:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z5LjhmJvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z5LjhmJvL._SL200_.jpg' ]

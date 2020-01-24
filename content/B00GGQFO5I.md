@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asus VS247HR - Monitor de 23.6"  1920x10' al 25.47169811320755 % de descuento
+title: 'Asus VS247HR - Monitor de 23.6"  1920x10 al 25.47169811320755 % de descuento'
 date: 2020-01-22 18:32:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J4UPU6KzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J4UPU6KzL._SL200_.jpg' ]

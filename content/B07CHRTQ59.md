@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger TH Jeans Flag 1p Calcetin' al 50.050050050050054 % de descuento
+title: 'Tommy Hilfiger TH Jeans Flag 1p Calcetin al 50.050050050050054 % de descuento'
 date: 2020-01-17 20:54:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3180OXPwSwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3180OXPwSwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.610652663165794 % en 'Jack & Jones NOS JJEDESERT Bomber Noos C'
+title: 'Descuento del 42.610652663165794 % en Jack & Jones NOS JJEDESERT Bomber Noos C'
 date: 2019/10/10 18:35:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31apu6zlhPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31apu6zlhPL._SL200_.jpg' ]

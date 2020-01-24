@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.17333333333333 % en 'The North Face Ambition Zip Jersey con C'
+title: 'Descuento del 73.17333333333333 % en The North Face Ambition Zip Jersey con C'
 date: 2019/10/05 15:47:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tn6xlftYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tn6xlftYL._SL200_.jpg' ]

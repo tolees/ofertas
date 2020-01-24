@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Linterna de trabajo 1000Lumen Alta Poten' al 57.514378594648676 % de descuento
+title: 'Linterna de trabajo 1000Lumen Alta Poten al 57.514378594648676 % de descuento'
 date: 2020-01-11 09:06:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411sfViXP3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411sfViXP3L._SL200_.jpg' ]

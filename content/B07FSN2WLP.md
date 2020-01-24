@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rockport Dress Sport 2 Fast FLT Plain To' al 70.26372892672342 % de descuento
+title: 'Rockport Dress Sport 2 Fast FLT Plain To al 70.26372892672342 % de descuento'
 date: 2020-01-16 19:27:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kfaXIQM%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kfaXIQM%2BL._SL200_.jpg' ]

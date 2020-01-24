@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Amplified Shorts Pantalones Cortos ' al 36.07214428857716 % de descuento
+title: 'PUMA Amplified Shorts Pantalones Cortos  al 36.07214428857716 % de descuento'
 date: 2019/11/03 10:17:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iWOGgCJ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iWOGgCJ1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Smash v2 L V PS  Zapatillas Unisex ' al 31.473533619456372 % de descuento
+title: 'PUMA Smash v2 L V PS  Zapatillas Unisex  al 31.473533619456372 % de descuento'
 date: 2019/10/28 14:11:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eoNSVYe8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eoNSVYe8L._SL200_.jpg' ]

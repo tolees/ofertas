@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.213032581453632 % en 'Puma Popcat  Zapatos de Playa y Piscina '
+title: 'Descuento del 25.213032581453632 % en Puma Popcat  Zapatos de Playa y Piscina '
 date: 2019/10/09 17:27:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Is9BUfBVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Is9BUfBVL._SL200_.jpg' ]

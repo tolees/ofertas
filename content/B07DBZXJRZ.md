@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Basket Badge TZ Metallic Wn s  Zapa' al 71.31739855475264 % de descuento
+title: 'Puma Basket Badge TZ Metallic Wn s  Zapa al 71.31739855475264 % de descuento'
 date: 2019/11/02 18:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DNHdc0lOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DNHdc0lOL._SL200_.jpg' ]

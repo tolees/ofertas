@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.2 % en 'Hurley M League Hat Gorras/Sombreros  Ho'
+title: 'Descuento del 50.2 % en Hurley M League Hat Gorras/Sombreros  Ho'
 date: 2019/12/01 18:09:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dFDMOztGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dFDMOztGL._SL200_.jpg' ]

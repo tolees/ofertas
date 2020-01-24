@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s LS Original Hm tee Camiseta  Marr' al 55.285714285714285 % de descuento
+title: 'Levi s LS Original Hm tee Camiseta  Marr al 55.285714285714285 % de descuento'
 date: 2020-01-08 08:57:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nskblfh5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nskblfh5L._SL200_.jpg' ]

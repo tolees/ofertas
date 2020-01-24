@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gin Mare Mediterranean im Geschenk-Karto' al 28.315454438288334 % de descuento
+title: 'Gin Mare Mediterranean im Geschenk-Karto al 28.315454438288334 % de descuento'
 date: 2020-01-01 09:26:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mZ9ItCLsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mZ9ItCLsL._SL200_.jpg' ]

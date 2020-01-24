@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.23735408560311 % en 'Wrangler Arizona Jeans  Azul  Blue Strok'
+title: 'Descuento del 47.23735408560311 % en Wrangler Arizona Jeans  Azul  Blue Strok'
 date: 2019/11/19 13:25:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Wc8fx43ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Wc8fx43ZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.19858232779612 % en 'Hot Mom Sillas de paseo de bebe cochecit'
+title: 'Descuento del 30.19858232779612 % en Hot Mom Sillas de paseo de bebe cochecit'
 date: 2019/10/26 08:15:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GwqguT4CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GwqguT4CL._SL200_.jpg' ]

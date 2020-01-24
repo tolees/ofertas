@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FOSITAN Caja de Luz 40x40cm Caja de Foto' al 52.005200520052 % de descuento
+title: 'FOSITAN Caja de Luz 40x40cm Caja de Foto al 52.005200520052 % de descuento'
 date: 2020-01-04 13:32:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Eak3WbuxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Eak3WbuxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.37616781244492 % en 'Heiyo Lápiz Táctil para Apple iPad  Tiem'
+title: 'Descuento del 42.37616781244492 % en Heiyo Lápiz Táctil para Apple iPad  Tiem'
 date: 2019/12/07 07:04:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Kk8ZjRTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Kk8ZjRTL._SL200_.jpg' ]

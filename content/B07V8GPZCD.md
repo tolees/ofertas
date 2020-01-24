@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SaponinTree Manguera de Jardín  Flexible' al 81.17391304347827 % de descuento
+title: 'SaponinTree Manguera de Jardín  Flexible al 81.17391304347827 % de descuento'
 date: 2019/11/28 10:29:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61r%2Bq2PytTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61r%2Bq2PytTL._SL200_.jpg' ]

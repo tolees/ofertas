@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Herren Colorblock Tee T - Shirt  Sc' al 28.200000000000003 % de descuento
+title: 'Vans Herren Colorblock Tee T - Shirt  Sc al 28.200000000000003 % de descuento'
 date: 2019/10/18 01:34:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yLp9RCU2L._SL200_.jpg' ]

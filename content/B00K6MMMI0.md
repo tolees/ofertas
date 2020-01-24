@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.17301038062284 % en 'Guess Reloj analogico para Hombre de Cua'
+title: 'Descuento del 50.17301038062284 % en Guess Reloj analogico para Hombre de Cua'
 date: 2019/11/18 07:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5111fZvAwbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5111fZvAwbL._SL200_.jpg' ]

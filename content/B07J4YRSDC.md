@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mattel Hot Wheels Campeón de choques  pi' al 40.008001600320064 % de descuento
+title: 'Mattel Hot Wheels Campeón de choques  pi al 40.008001600320064 % de descuento'
 date: 2019/11/13 15:04:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r5PB6p6wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r5PB6p6wL._SL200_.jpg' ]

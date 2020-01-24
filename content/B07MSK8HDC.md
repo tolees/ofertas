@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.7526403557532 % en 'Clarks Grandin Top  Botas Clasicas para '
+title: 'Descuento del 54.7526403557532 % en Clarks Grandin Top  Botas Clasicas para '
 date: 2020-01-04 18:03:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PCGmpN1AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PCGmpN1AL._SL200_.jpg' ]

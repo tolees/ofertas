@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Televisor Philips 55OLED754/12  55 pulga' al 27.035314891112417 % de descuento
+title: 'Televisor Philips 55OLED754/12  55 pulga al 27.035314891112417 % de descuento'
 date: 2020-01-01 10:18:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417RQ6gHGzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417RQ6gHGzL._SL200_.jpg' ]

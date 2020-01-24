@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UGREEN 65W Cargador Rápido USB C PD  USB' al 43.14571484604826 % de descuento
+title: 'UGREEN 65W Cargador Rápido USB C PD  USB al 43.14571484604826 % de descuento'
 date: 2019/10/27 08:33:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mzyd640UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mzyd640UL._SL200_.jpg' ]

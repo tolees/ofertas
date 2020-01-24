@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Compex SP 8.0 Electroestimulador  Unisex' al 30.10577705451587 % de descuento
+title: 'Compex SP 8.0 Electroestimulador  Unisex al 30.10577705451587 % de descuento'
 date: 2020-01-23 19:13:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zt3Dc%2BdUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zt3Dc%2BdUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Sprint Blast  Zapatillas para Ho' al 61.330769230769235 % de descuento
+title: 'Merrell Sprint Blast  Zapatillas para Ho al 61.330769230769235 % de descuento'
 date: 2019/12/13 10:08:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416mjvdIuUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416mjvdIuUL._SL200_.jpg' ]

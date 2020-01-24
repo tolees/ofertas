@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia Touch Bin Cubo de Basura  40 l' al 30.000000000000004 % de descuento
+title: 'Brabantia Touch Bin Cubo de Basura  40 l al 30.000000000000004 % de descuento'
 date: 2019/10/16 22:38:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZockiPgfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZockiPgfL._SL200_.jpg' ]

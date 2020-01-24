@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roberto Cavalli Agua de Perfume - 75 ml' al 67.9839633447881 % de descuento
+title: 'Roberto Cavalli Agua de Perfume - 75 ml al 67.9839633447881 % de descuento'
 date: 2019/12/17 17:38:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uIF8VcVVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uIF8VcVVL._SL200_.jpg' ]

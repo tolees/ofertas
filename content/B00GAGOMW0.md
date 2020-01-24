@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.659318637274545 % en 'Allocacoc Power Cube 4 + 2 usb 1  5 m de'
+title: 'Descuento del 29.659318637274545 % en Allocacoc Power Cube 4 + 2 usb 1  5 m de'
 date: 2019/10/24 10:25:11 +0000
 thumbnailImage: ''
 images: [ '' ]

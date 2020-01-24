@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Russell Hobbs Colours Plus - Hervidor de' al 40.00889086463659 % de descuento
+title: 'Russell Hobbs Colours Plus - Hervidor de al 40.00889086463659 % de descuento'
 date: 2019/11/15 21:04:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nNjGae8bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nNjGae8bL._SL200_.jpg' ]

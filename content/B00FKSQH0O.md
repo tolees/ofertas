@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.68773234200744 % en 'Jim Beam 12Y Signature Craft Whisky Bour'
+title: 'Descuento del 25.68773234200744 % en Jim Beam 12Y Signature Craft Whisky Bour'
 date: 2019/11/17 10:59:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TTpicOOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TTpicOOJL._SL200_.jpg' ]

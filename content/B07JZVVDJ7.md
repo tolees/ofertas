@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.43429286608261 % en 'adidas Tiro Du M Gym Bag  Unisex Adulto '
+title: 'Descuento del 27.43429286608261 % en adidas Tiro Du M Gym Bag  Unisex Adulto '
 date: 2019/12/23 18:56:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A5G-TK1-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A5G-TK1-L._SL200_.jpg' ]

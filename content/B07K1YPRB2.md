@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Almohadilla Elèctrica de Calefacción Fun' al 33.34343740527434 % de descuento
+title: 'Almohadilla Elèctrica de Calefacción Fun al 33.34343740527434 % de descuento'
 date: 2019/11/13 10:50:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N0UkTeC4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N0UkTeC4L._SL200_.jpg' ]

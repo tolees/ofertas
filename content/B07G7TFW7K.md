@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Grade School Assert 8  Zapa' al 33.674038282847064 % de descuento
+title: 'Under Armour Grade School Assert 8  Zapa al 33.674038282847064 % de descuento'
 date: 2019/10/08 02:08:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41daQfX4KFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41daQfX4KFL._SL200_.jpg' ]

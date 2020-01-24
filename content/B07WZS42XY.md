@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cabezales de Repuesto para Philips Sonic' al 35.51775887943971 % de descuento
+title: 'Cabezales de Repuesto para Philips Sonic al 35.51775887943971 % de descuento'
 date: 2019/11/17 12:07:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T7uhU%2BqWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T7uhU%2BqWL._SL200_.jpg' ]

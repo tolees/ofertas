@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.333333333333336 % en 'Fruit of the Loom- Polo de Manga Corta P'
+title: 'Descuento del 33.333333333333336 % en Fruit of the Loom- Polo de Manga Corta P'
 date: 2019/12/09 07:16:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aTEkOnZ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aTEkOnZ9L._SL200_.jpg' ]

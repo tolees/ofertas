@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75938 Jurassic World T. Rex vs Dino' al 27.503437929741214 % de descuento
+title: 'LEGO 75938 Jurassic World T. Rex vs Dino al 27.503437929741214 % de descuento'
 date: 2019/11/29 09:26:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UK4fr9WJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UK4fr9WJL._SL200_.jpg' ]

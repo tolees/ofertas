@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual pipin Pantalones Vaqueros Delga' al 56.06803401700851 % de descuento
+title: 'Desigual pipin Pantalones Vaqueros Delga al 56.06803401700851 % de descuento'
 date: 2019/11/02 08:27:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415zike-yGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415zike-yGL._SL200_.jpg' ]

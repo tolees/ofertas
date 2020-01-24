@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.99487742407611 % en 'Dolores Promesas PV19 2043MOSTAZA Vestid'
+title: 'Descuento del 32.99487742407611 % en Dolores Promesas PV19 2043MOSTAZA Vestid'
 date: 2019/11/08 17:11:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G7Aa4QTTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G7Aa4QTTL._SL200_.jpg' ]

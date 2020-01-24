@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Q6471A - Cartucho de tóner' al 79.4331783966106 % de descuento
+title: 'HP Q6471A - Cartucho de tóner al 79.4331783966106 % de descuento'
 date: 2020-01-08 21:02:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ylLkp1B6L._SL200_.jpg' ]

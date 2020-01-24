@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black&Decker A6481-XJ - Bobina con Hilo ' al 50.74074074074073 % de descuento
+title: 'Black&Decker A6481-XJ - Bobina con Hilo  al 50.74074074074073 % de descuento'
 date: 2019/12/19 00:28:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gLxGbTIBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gLxGbTIBL._SL200_.jpg' ]

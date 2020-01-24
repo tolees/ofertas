@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Excelvan Hub USB C Adaptador C Tipo C 8 ' al 80.00800080008001 % de descuento
+title: 'Excelvan Hub USB C Adaptador C Tipo C 8  al 80.00800080008001 % de descuento'
 date: 2019/10/15 11:06:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RMcZnN5BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RMcZnN5BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.15305885089557 % en 'WOWGO Fuente de Agua automática para Gat'
+title: 'Descuento del 58.15305885089557 % en WOWGO Fuente de Agua automática para Gat'
 date: 2019/10/05 22:07:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RCrVyKhJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RCrVyKhJL._SL200_.jpg' ]

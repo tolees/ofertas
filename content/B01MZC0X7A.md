@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.343358395989966 % en 'Skechers Bobs Squad-Double Dare  Zapatil'
+title: 'Descuento del 37.343358395989966 % en Skechers Bobs Squad-Double Dare  Zapatil'
 date: 2019/11/22 16:44:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41udEmPQFCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41udEmPQFCL._SL200_.jpg' ]

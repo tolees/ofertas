@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.46745653177411 % en 'BRIKSMAX Led Beleuchtungsset für Ford Mu'
+title: 'Descuento del 38.46745653177411 % en BRIKSMAX Led Beleuchtungsset für Ford Mu'
 date: 2019/12/22 08:43:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKQjPeSpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mKQjPeSpL._SL200_.jpg' ]

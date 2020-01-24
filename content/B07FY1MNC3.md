@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brother HL-L3230CDW - Impresora láser co' al 25.23892092423081 % de descuento
+title: 'Brother HL-L3230CDW - Impresora láser co al 25.23892092423081 % de descuento'
 date: 2020-01-14 14:18:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312MVIoUfQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312MVIoUfQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PDP - Cargador Energizer 2 Mandos  PS4 ' al 50.22511255627814 % de descuento
+title: 'PDP - Cargador Energizer 2 Mandos  PS4  al 50.22511255627814 % de descuento'
 date: 2020-01-23 17:57:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL200_.jpg' ]

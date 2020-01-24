@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Speedcross CSWP J  Zapatillas de' al 29.38198940553267 % de descuento
+title: 'Salomon Speedcross CSWP J  Zapatillas de al 29.38198940553267 % de descuento'
 date: 2019/11/07 14:52:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eMwQxhCPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eMwQxhCPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.70351758793969 % en 'Bébé Confort RODIFIX AirProtect  Sparkli'
+title: 'Descuento del 39.70351758793969 % en Bébé Confort RODIFIX AirProtect  Sparkli'
 date: 2019/11/26 09:59:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aLq9l22wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aLq9l22wL._SL200_.jpg' ]

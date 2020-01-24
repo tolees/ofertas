@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.02001000500249 % en 'Wanfei Pulsera Xiaomi Mi Band 3 Correa  '
+title: 'Descuento del 40.02001000500249 % en Wanfei Pulsera Xiaomi Mi Band 3 Correa  '
 date: 2020-01-15 07:57:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o35-RBm8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o35-RBm8L._SL200_.jpg' ]

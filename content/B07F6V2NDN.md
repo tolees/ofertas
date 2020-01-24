@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bolsos totes para mujer EUzeo Owl print ' al 99.40828402366864 % de descuento
+title: 'Bolsos totes para mujer EUzeo Owl print  al 99.40828402366864 % de descuento'
 date: 2019/10/30 13:10:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AQeZCFFPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AQeZCFFPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.25 % en 'Under Armour UA W Breathe Lace  Zapatill'
+title: 'Descuento del 54.25 % en Under Armour UA W Breathe Lace  Zapatill'
 date: 2019/12/25 07:32:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31v8BPwsrWL._SL200_.jpg' ]

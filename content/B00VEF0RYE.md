@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.98749374687344 % en 'JVC HA-ECX20-P-E - Auriculares de Clip  '
+title: 'Descuento del 74.98749374687344 % en JVC HA-ECX20-P-E - Auriculares de Clip  '
 date: 2019/11/15 10:14:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t4tZeIQWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t4tZeIQWL._SL200_.jpg' ]

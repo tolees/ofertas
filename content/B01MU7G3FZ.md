@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'eXtremeRate Pegatina Antideslizante con ' al 50.02501250625312 % de descuento
+title: 'eXtremeRate Pegatina Antideslizante con  al 50.02501250625312 % de descuento'
 date: 2019/10/22 20:59:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-MI%2BrhT4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-MI%2BrhT4L._SL200_.jpg' ]

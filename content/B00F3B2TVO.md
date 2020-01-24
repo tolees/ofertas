@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Duplo 10572 - Große Steinebox  Krea' al 33.44448149383127 % de descuento
+title: 'LEGO Duplo 10572 - Große Steinebox  Krea al 33.44448149383127 % de descuento'
 date: 2020-01-20 04:41:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51madyg7JjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51madyg7JjL._SL200_.jpg' ]

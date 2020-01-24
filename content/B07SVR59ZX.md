@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda NOS Vmexcursion Expedition Aw1' al 40.008001600320064 % de descuento
+title: 'Vero Moda NOS Vmexcursion Expedition Aw1 al 40.008001600320064 % de descuento'
 date: 2020-01-16 11:06:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UV-WyWsgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UV-WyWsgL._SL200_.jpg' ]

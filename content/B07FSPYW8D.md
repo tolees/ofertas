@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Annadel Ivory  Sandalias de Talón' al 52.995622263914946 % de descuento
+title: 'Clarks Annadel Ivory  Sandalias de Talón al 52.995622263914946 % de descuento'
 date: 2019/11/05 19:16:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nqk5Yo2ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nqk5Yo2ZL._SL200_.jpg' ]

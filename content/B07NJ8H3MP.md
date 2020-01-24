@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burton Menswear London Geometric Print P' al 46.333333333333336 % de descuento
+title: 'Burton Menswear London Geometric Print P al 46.333333333333336 % de descuento'
 date: 2019/10/13 15:32:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dmE7GbfjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dmE7GbfjL._SL200_.jpg' ]

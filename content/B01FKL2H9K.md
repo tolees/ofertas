@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.76536312849161 % en 'Revlon Ultra HD Pintalabios Mate  Crush '
+title: 'Descuento del 77.76536312849161 % en Revlon Ultra HD Pintalabios Mate  Crush '
 date: 2019/12/11 10:20:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QULJ-lCGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QULJ-lCGL._SL200_.jpg' ]

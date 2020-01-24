@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mandarina Duck Damen Md20 Tracolla Rucks' al 49.34285714285714 % de descuento
+title: 'Mandarina Duck Damen Md20 Tracolla Rucks al 49.34285714285714 % de descuento'
 date: 2019/11/25 07:38:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O6p97kwrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O6p97kwrL._SL200_.jpg' ]

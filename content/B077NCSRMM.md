@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.0442555319415 % en 'Gant D1. Shield Logo Sweat Hoodie Capuch'
+title: 'Descuento del 54.0442555319415 % en Gant D1. Shield Logo Sweat Hoodie Capuch'
 date: 2019/10/05 10:02:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ab45eSngL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ab45eSngL._SL200_.jpg' ]

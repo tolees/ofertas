@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.17999999999999 % en 'Vans UA ISO 2  Zapatillas para Hombre  A'
+title: 'Descuento del 68.17999999999999 % en Vans UA ISO 2  Zapatillas para Hombre  A'
 date: 2019/11/14 20:50:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jZHkNPGLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jZHkNPGLL._SL200_.jpg' ]

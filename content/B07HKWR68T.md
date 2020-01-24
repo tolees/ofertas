@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 87.00586107993516 % en 'Wrangler Arizona Pantalones  Marrón  Cor'
+title: 'Descuento del 87.00586107993516 % en Wrangler Arizona Pantalones  Marrón  Cor'
 date: 2019/11/22 13:26:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BCRVWKYhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BCRVWKYhL._SL200_.jpg' ]

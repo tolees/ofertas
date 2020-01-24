@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Logo Bra M Sujetador Deportivo  Muj' al 73.9674593241552 % de descuento
+title: 'Puma Logo Bra M Sujetador Deportivo  Muj al 73.9674593241552 % de descuento'
 date: 2019/10/06 22:01:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tj6QY9GrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tj6QY9GrL._SL200_.jpg' ]

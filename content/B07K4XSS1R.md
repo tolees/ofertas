@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Umi. by Amazon - Lámpara de techo  panta' al 50.77296150348592 % de descuento
+title: 'Umi. by Amazon - Lámpara de techo  panta al 50.77296150348592 % de descuento'
 date: 2019/11/17 12:13:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xoCaJQfSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xoCaJQfSL._SL200_.jpg' ]

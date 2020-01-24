@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maleta de cabina Nella 50cm' al 30.107526881720435 % de descuento
+title: 'Maleta de cabina Nella 50cm al 30.107526881720435 % de descuento'
 date: 2019/10/17 19:31:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xJhi0IWvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xJhi0IWvL._SL200_.jpg' ]

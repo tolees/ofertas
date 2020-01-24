@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Shoes ADYS700071  Zapatilla Hombre  N' al 37.65882352941177 % de descuento
+title: 'DC Shoes ADYS700071  Zapatilla Hombre  N al 37.65882352941177 % de descuento'
 date: 2019/11/11 17:03:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ILW39tUhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ILW39tUhL._SL200_.jpg' ]

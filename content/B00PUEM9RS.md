@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer S277HKwmidpp 69 cm  27 Zoll  Monito' al 60.10016694490818 % de descuento
+title: 'Acer S277HKwmidpp 69 cm  27 Zoll  Monito al 60.10016694490818 % de descuento'
 date: 2019/12/05 18:19:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yb80zQ-zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yb80zQ-zL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.086257188099005 % en 'Columbia Conspiracy V Outdry  Zapatillas'
+title: 'Descuento del 35.086257188099005 % en Columbia Conspiracy V Outdry  Zapatillas'
 date: 2020-01-13 12:23:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cbPg7rrSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cbPg7rrSL._SL200_.jpg' ]

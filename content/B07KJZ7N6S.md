@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.684091212161626 % en 'Under Armour Mega Tote Bolsa Deportiva  '
+title: 'Descuento del 30.684091212161626 % en Under Armour Mega Tote Bolsa Deportiva  '
 date: 2019/10/18 19:45:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JpnhWz9vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JpnhWz9vL._SL200_.jpg' ]

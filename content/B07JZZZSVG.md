@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.11033455927288 % en 'Lenovo Ideapad 330-15ICH - Ordenador Por'
+title: 'Descuento del 30.11033455927288 % en Lenovo Ideapad 330-15ICH - Ordenador Por'
 date: 2019/10/12 14:15:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G2gQ8EHJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G2gQ8EHJL._SL200_.jpg' ]

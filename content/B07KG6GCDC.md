@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.5230683713174 % en 'PUMA Muse Core+ Wn s  Zapatillas para Mu'
+title: 'Descuento del 61.5230683713174 % en PUMA Muse Core+ Wn s  Zapatillas para Mu'
 date: 2019/11/09 11:34:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NeTchJuzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NeTchJuzL._SL200_.jpg' ]

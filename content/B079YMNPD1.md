@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 29496 Actionfigur Potter-Harry Her' al 28.591851322373117 % de descuento
+title: 'Funko 29496 Actionfigur Potter-Harry Her al 28.591851322373117 % de descuento'
 date: 2020-01-23 01:21:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41egymoyVeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41egymoyVeL._SL200_.jpg' ]

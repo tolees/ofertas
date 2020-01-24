@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.87630741246021 % en 'Solac MD7402 Surf Style - Plancha para e'
+title: 'Descuento del 27.87630741246021 % en Solac MD7402 Surf Style - Plancha para e'
 date: 2019/11/17 16:48:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W6Sab6dbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W6Sab6dbL._SL200_.jpg' ]

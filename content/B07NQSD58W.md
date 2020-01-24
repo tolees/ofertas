@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Skech Appeal 3.0  Zapatillas pa' al 29.929929929929934 % de descuento
+title: 'Skechers Skech Appeal 3.0  Zapatillas pa al 29.929929929929934 % de descuento'
 date: 2019/12/27 14:32:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pmk-K9MzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pmk-K9MzL._SL200_.jpg' ]

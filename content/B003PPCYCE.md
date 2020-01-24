@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.99999999999999 % en 'Eastpak The One Bolso bandolera  21 cm  '
+title: 'Descuento del 44.99999999999999 % en Eastpak The One Bolso bandolera  21 cm  '
 date: 2019/12/08 15:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p5zrXnO5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p5zrXnO5L._SL200_.jpg' ]

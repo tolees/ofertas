@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BaByliss IPro Slim ST387E - Plancha de p' al 37.596030729833544 % de descuento
+title: 'BaByliss IPro Slim ST387E - Plancha de p al 37.596030729833544 % de descuento'
 date: 2019/12/19 20:55:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BH3JDnElL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BH3JDnElL._SL200_.jpg' ]

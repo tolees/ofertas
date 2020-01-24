@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Neceone Polo Azul Greenish Blue  S' al 35.27204502814259 % de descuento
+title: 'Celio Neceone Polo Azul Greenish Blue  S al 35.27204502814259 % de descuento'
 date: 2019/11/05 13:32:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Dny2TSusL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Dny2TSusL._SL200_.jpg' ]

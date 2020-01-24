@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Evos Zapatillas  Unisex  Rosa Fucsi' al 61.15715402658327 % de descuento
+title: 'Joma Evos Zapatillas  Unisex  Rosa Fucsi al 61.15715402658327 % de descuento'
 date: 2019/11/13 01:40:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zjAbIZZ-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zjAbIZZ-L._SL200_.jpg' ]

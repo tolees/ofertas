@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UCMDA Funda para Xiaomi Redmi Note 8 Pro' al 36.39672429481347 % de descuento
+title: 'UCMDA Funda para Xiaomi Redmi Note 8 Pro al 36.39672429481347 % de descuento'
 date: 2019/11/06 17:02:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q9hRtUMIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51q9hRtUMIL._SL200_.jpg' ]

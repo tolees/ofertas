@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips 55OLED803/12 - Televisor Ambilig' al 25.01563477173233 % de descuento
+title: 'Philips 55OLED803/12 - Televisor Ambilig al 25.01563477173233 % de descuento'
 date: 2019/12/27 10:58:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yaJEuSfHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yaJEuSfHL._SL200_.jpg' ]

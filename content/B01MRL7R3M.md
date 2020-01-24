@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panthrix - Activador del Crecimiento del' al 42.44244244244244 % de descuento
+title: 'Panthrix - Activador del Crecimiento del al 42.44244244244244 % de descuento'
 date: 2019/11/08 07:14:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Amf51%2BJQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Amf51%2BJQL._SL200_.jpg' ]

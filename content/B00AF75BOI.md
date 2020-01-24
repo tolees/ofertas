@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Crew Vest  Mujer  White  ' al 65.925 % de descuento
+title: 'Helly Hansen W Crew Vest  Mujer  White   al 65.925 % de descuento'
 date: 2019/10/07 16:51:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411kPyQHlbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411kPyQHlbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.41068447412353 % en 'PUMA ESS Logo Leggings Mallas Deporte  M'
+title: 'Descuento del 46.41068447412353 % en PUMA ESS Logo Leggings Mallas Deporte  M'
 date: 2019/11/01 18:33:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CHkmG4A1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CHkmG4A1L._SL200_.jpg' ]

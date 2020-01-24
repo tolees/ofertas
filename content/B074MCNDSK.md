@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Portable SSD T5 2 TB USB 3.1 Ext' al 27.298035082029248 % de descuento
+title: 'Samsung Portable SSD T5 2 TB USB 3.1 Ext al 27.298035082029248 % de descuento'
 date: 2019/12/22 22:16:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EXg6Xja2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EXg6Xja2L._SL200_.jpg' ]

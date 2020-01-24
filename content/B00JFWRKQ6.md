@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia 484308 Panera Tapa Deslizante ' al 29.18987341772152 % de descuento
+title: 'Brabantia 484308 Panera Tapa Deslizante  al 29.18987341772152 % de descuento'
 date: 2019/10/27 17:25:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hg7cEjAiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hg7cEjAiL._SL200_.jpg' ]

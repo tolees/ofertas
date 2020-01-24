@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.14117647058824 % en 'BOSS Cosmo_Tenn_MX  Zapatillas para Homb'
+title: 'Descuento del 48.14117647058824 % en BOSS Cosmo_Tenn_MX  Zapatillas para Homb'
 date: 2019/11/22 16:35:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AzF2RctYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AzF2RctYL._SL200_.jpg' ]

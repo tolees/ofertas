@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cream Basmalla Cardigan Chaqueta  Marrón' al 89.07382024672019 % de descuento
+title: 'Cream Basmalla Cardigan Chaqueta  Marrón al 89.07382024672019 % de descuento'
 date: 2020-01-08 08:41:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CI4W33qIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CI4W33qIL._SL200_.jpg' ]

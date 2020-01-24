@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.58610914245216 % en 'YOSICIL Vestido de Princesa Elsa Niña Di'
+title: 'Descuento del 43.58610914245216 % en YOSICIL Vestido de Princesa Elsa Niña Di'
 date: 2020-01-06 22:24:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M8ZRt0sPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M8ZRt0sPL._SL200_.jpg' ]

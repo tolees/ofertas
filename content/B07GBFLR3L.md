@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMRON C102 Total Inhalador 2 en 1 con du' al 41.673612268711445 % de descuento
+title: 'OMRON C102 Total Inhalador 2 en 1 con du al 41.673612268711445 % de descuento'
 date: 2019/12/01 12:32:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KznMcCweL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KznMcCweL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bulova Reloj de Pulsera 96M145' al 53.52865945820253 % de descuento
+title: 'Bulova Reloj de Pulsera 96M145 al 53.52865945820253 % de descuento'
 date: 2019/12/05 23:09:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CyJx6kvBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CyJx6kvBL._SL200_.jpg' ]

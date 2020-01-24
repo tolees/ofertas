@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Prada 0PR58OS ZVN5S0 55 Gafas de sol  Do' al 44.83045087229062 % de descuento
+title: 'Prada 0PR58OS ZVN5S0 55 Gafas de sol  Do al 44.83045087229062 % de descuento'
 date: 2019/12/16 17:45:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3188iUNeg-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3188iUNeg-L._SL200_.jpg' ]

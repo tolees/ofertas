@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.83253588516746 % en 'Tommy Jeans Mujer Essential Hooded Down '
+title: 'Descuento del 59.83253588516746 % en Tommy Jeans Mujer Essential Hooded Down '
 date: 2020-01-18 09:48:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yfuw23%2BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yfuw23%2BDL._SL200_.jpg' ]

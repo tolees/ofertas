@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. D7295 vestido fiesta mujer  Negro ' al 70.0 % de descuento
+title: 'find. D7295 vestido fiesta mujer  Negro  al 70.0 % de descuento'
 date: 2019/10/08 22:55:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HNS-mCpdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HNS-mCpdL._SL200_.jpg' ]

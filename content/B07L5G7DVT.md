@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Viking Alvdal Mid R GTX  Zapatillas Alta' al 82.99055030572539 % de descuento
+title: 'Viking Alvdal Mid R GTX  Zapatillas Alta al 82.99055030572539 % de descuento'
 date: 2019/12/09 22:44:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vhfScS6gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vhfScS6gL._SL200_.jpg' ]

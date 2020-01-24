@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Solar Fuse  Zapatillas para Muj' al 50.94688221709007 % de descuento
+title: 'Skechers Solar Fuse  Zapatillas para Muj al 50.94688221709007 % de descuento'
 date: 2020-01-22 18:20:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hopaF2PpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hopaF2PpL._SL200_.jpg' ]

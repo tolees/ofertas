@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Vestido Oversize con Mangas Frunci' al 70.0 % de descuento
+title: 'find. Vestido Oversize con Mangas Frunci al 70.0 % de descuento'
 date: 2019/10/11 06:49:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k4xB99%2BLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k4xB99%2BLL._SL200_.jpg' ]

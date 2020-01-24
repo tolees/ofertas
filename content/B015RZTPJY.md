@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nomader Collapsible Water Bottle - Folda' al 37.99654576856649 % de descuento
+title: 'Nomader Collapsible Water Bottle - Folda al 37.99654576856649 % de descuento'
 date: 2020-01-20 16:24:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lBy7By8XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lBy7By8XL._SL200_.jpg' ]

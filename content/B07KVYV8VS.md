@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Discovery GTX  Zapatillas de ' al 58.991919969218934 % de descuento
+title: 'Salomon XA Discovery GTX  Zapatillas de  al 58.991919969218934 % de descuento'
 date: 2020-01-20 20:33:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Q3xrJwDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Q3xrJwDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Hybrid Astro  Zapatillas de Running' al 62.96790329303876 % de descuento
+title: 'PUMA Hybrid Astro  Zapatillas de Running al 62.96790329303876 % de descuento'
 date: 2020-01-12 09:32:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oGfkcJlkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oGfkcJlkL._SL200_.jpg' ]

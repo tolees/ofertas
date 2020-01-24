@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Berydale Bd312 Blusa  Negro  Schwarz   4' al 69.98646820027064 % de descuento
+title: 'Berydale Bd312 Blusa  Negro  Schwarz   4 al 69.98646820027064 % de descuento'
 date: 2019/11/19 12:15:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BMy3SyDQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BMy3SyDQL._SL200_.jpg' ]

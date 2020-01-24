@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.839588353003634 % en 'Corsair Vengeance RGB - Kit de Memoria E'
+title: 'Descuento del 43.839588353003634 % en Corsair Vengeance RGB - Kit de Memoria E'
 date: 2020-01-22 18:32:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QZ%2BI45BFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QZ%2BI45BFL._SL200_.jpg' ]

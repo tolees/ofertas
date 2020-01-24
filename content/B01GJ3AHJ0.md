@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.03020134228187 % en 'Wenger Roadster Black Night 01.0853.107 '
+title: 'Descuento del 57.03020134228187 % en Wenger Roadster Black Night 01.0853.107 '
 date: 2019/10/17 06:30:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q1Jeg4IxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q1Jeg4IxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lotto Cityride II Amf  Zapatillas de Dep' al 33.51787773933103 % de descuento
+title: 'Lotto Cityride II Amf  Zapatillas de Dep al 33.51787773933103 % de descuento'
 date: 2019/12/23 14:00:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gLKfCbvaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gLKfCbvaL._SL200_.jpg' ]

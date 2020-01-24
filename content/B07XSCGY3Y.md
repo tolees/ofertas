@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ufesa CC1800IP - Calefactor Cerámico Ver' al 25.006251562890736 % de descuento
+title: 'Ufesa CC1800IP - Calefactor Cerámico Ver al 25.006251562890736 % de descuento'
 date: 2019/12/03 20:13:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HFbT3096L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HFbT3096L._SL200_.jpg' ]

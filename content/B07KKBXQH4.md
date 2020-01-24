@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TTYAOVO Chicas Muestran Princesa Vestido' al 33.36666666666667 % de descuento
+title: 'TTYAOVO Chicas Muestran Princesa Vestido al 33.36666666666667 % de descuento'
 date: 2020-01-23 10:06:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gpIUo0yPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gpIUo0yPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung RU7099 125 cm  50 Zoll  LED Fern' al 36.56597774244833 % de descuento
+title: 'Samsung RU7099 125 cm  50 Zoll  LED Fern al 36.56597774244833 % de descuento'
 date: 2020-01-22 22:37:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DkfEUKl4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DkfEUKl4L._SL200_.jpg' ]

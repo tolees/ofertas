@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Qedertek Guirnalda Luces exterior Solar ' al 29.64060763245646 % de descuento
+title: 'Qedertek Guirnalda Luces exterior Solar  al 29.64060763245646 % de descuento'
 date: 2019/10/05 16:09:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/611oEGoPJ%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/611oEGoPJ%2BL._SL200_.jpg' ]

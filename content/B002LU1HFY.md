@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L1212 Camiseta Polo  Negro  Noir' al 33.764044943820224 % de descuento
+title: 'Lacoste L1212 Camiseta Polo  Negro  Noir al 33.764044943820224 % de descuento'
 date: 2019/11/08 13:18:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U-Fy3%2BIfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U-Fy3%2BIfL._SL200_.jpg' ]

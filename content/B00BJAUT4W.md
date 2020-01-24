@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips SNOW Super Speed 32 GB USB Flash' al 58.38323353293413 % de descuento
+title: 'Philips SNOW Super Speed 32 GB USB Flash al 58.38323353293413 % de descuento'
 date: 2020-01-07 11:38:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bjfFDByuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bjfFDByuL._SL200_.jpg' ]

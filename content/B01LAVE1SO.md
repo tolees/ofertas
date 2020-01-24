@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shepa Banador Shorts De Deporte Liso Clá' al 57.17552887364208 % de descuento
+title: 'Shepa Banador Shorts De Deporte Liso Clá al 57.17552887364208 % de descuento'
 date: 2020-01-19 07:56:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L29oQrSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L29oQrSyL._SL200_.jpg' ]

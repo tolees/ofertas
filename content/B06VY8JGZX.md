@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.76086956521739 % en 'Reloj Esprit - Chicos ES906474001'
+title: 'Descuento del 45.76086956521739 % en Reloj Esprit - Chicos ES906474001'
 date: 2020-01-18 09:07:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-mcMTFFyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-mcMTFFyL._SL200_.jpg' ]

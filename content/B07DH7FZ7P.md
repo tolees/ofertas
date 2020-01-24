@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.44444444444444 % en 'Homyl Novia Jarretera de Crisral Doble C'
+title: 'Descuento del 44.44444444444444 % en Homyl Novia Jarretera de Crisral Doble C'
 date: 2019/11/07 18:02:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bO0p6vd7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bO0p6vd7L._SL200_.jpg' ]

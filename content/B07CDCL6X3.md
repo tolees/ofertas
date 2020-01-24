@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OCYCLONE Fundas para Samsung S9 Plus Pur' al 44.96016626255629 % de descuento
+title: 'OCYCLONE Fundas para Samsung S9 Plus Pur al 44.96016626255629 % de descuento'
 date: 2019/12/13 20:59:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UQwSvE14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UQwSvE14L._SL200_.jpg' ]

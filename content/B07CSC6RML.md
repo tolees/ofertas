@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Explode 2 Zapatillas de deporte int' al 60.0375234521576 % de descuento
+title: 'Puma Explode 2 Zapatillas de deporte int al 60.0375234521576 % de descuento'
 date: 2019/11/25 09:30:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LkGMSUm%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LkGMSUm%2BL._SL200_.jpg' ]

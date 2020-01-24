@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Patriot 10  Zapatillas de Running ' al 32.56666666666666 % de descuento
+title: 'Asics Patriot 10  Zapatillas de Running  al 32.56666666666666 % de descuento'
 date: 2019/12/26 19:55:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sM-VFa9oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sM-VFa9oL._SL200_.jpg' ]

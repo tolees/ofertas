@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Just Cool - Camiseta deportiva transpira' al 33.333333333333336 % de descuento
+title: 'Just Cool - Camiseta deportiva transpira al 33.333333333333336 % de descuento'
 date: 2019/10/07 00:09:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415qoY5xXjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415qoY5xXjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iHaper USB C Hub 7 in 1  Aluminum Type C' al 50.01471020888497 % de descuento
+title: 'iHaper USB C Hub 7 in 1  Aluminum Type C al 50.01471020888497 % de descuento'
 date: 2020-01-06 21:18:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wzFU5p53L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wzFU5p53L._SL200_.jpg' ]

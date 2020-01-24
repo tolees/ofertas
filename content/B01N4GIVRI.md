@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. BAY001013W170205 vaqueros mujer ci' al 70.0 % de descuento
+title: 'find. BAY001013W170205 vaqueros mujer ci al 70.0 % de descuento'
 date: 2019/12/23 10:28:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HZn4faFrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HZn4faFrL._SL200_.jpg' ]

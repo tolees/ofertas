@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein 3P Hip Brief  Calzoncillos ' al 36.08739326971372 % de descuento
+title: 'Calvin Klein 3P Hip Brief  Calzoncillos  al 36.08739326971372 % de descuento'
 date: 2019/10/28 15:40:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FHUD7zP%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FHUD7zP%2BL._SL200_.jpg' ]

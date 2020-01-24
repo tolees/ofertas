@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hombres en Boxer Hombre Calzoncillos Hom' al 63.648315529991784 % de descuento
+title: 'Hombres en Boxer Hombre Calzoncillos Hom al 63.648315529991784 % de descuento'
 date: 2019/12/18 20:35:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41al7-dDMCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41al7-dDMCL._SL200_.jpg' ]

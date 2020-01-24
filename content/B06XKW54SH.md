@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars: Battlefront II' al 27.454545454545453 % de descuento
+title: 'Star Wars: Battlefront II al 27.454545454545453 % de descuento'
 date: 2019/12/02 17:23:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gmgIgbFZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gmgIgbFZL._SL200_.jpg' ]

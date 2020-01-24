@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.6 % en 'find. Pantalones Chino Skinny Hombre  Ne'
+title: 'Descuento del 42.6 % en find. Pantalones Chino Skinny Hombre  Ne'
 date: 2019/10/15 11:29:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Le3j9S49L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Le3j9S49L._SL200_.jpg' ]

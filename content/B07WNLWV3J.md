@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortina de Luces  Cadena de Luces  Luz C' al 32.26847370119393 % de descuento
+title: 'Cortina de Luces  Cadena de Luces  Luz C al 32.26847370119393 % de descuento'
 date: 2019/12/19 12:56:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GDeWYHRbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GDeWYHRbL._SL200_.jpg' ]

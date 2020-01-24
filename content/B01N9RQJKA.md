@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Go Step Lite-Redefine  Entrenad' al 57.56735950731332 % de descuento
+title: 'Skechers Go Step Lite-Redefine  Entrenad al 57.56735950731332 % de descuento'
 date: 2019/11/08 20:07:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mcddjKkpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mcddjKkpL._SL200_.jpg' ]

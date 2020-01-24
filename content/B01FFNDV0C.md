@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour HG Armour 2.0 Legging Leggi' al 52.525 % de descuento
+title: 'Under Armour HG Armour 2.0 Legging Leggi al 52.525 % de descuento'
 date: 2019/12/16 15:50:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KUEs6AAIL._SL200_.jpg' ]

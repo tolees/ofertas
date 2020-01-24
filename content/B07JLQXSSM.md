@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Cropped Rider Jacket Chaqueta Vaquer' al 67.68653605669029 % de descuento
+title: 'Lee Cropped Rider Jacket Chaqueta Vaquer al 67.68653605669029 % de descuento'
 date: 2019/10/27 02:49:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513lxUZf8jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513lxUZf8jL._SL200_.jpg' ]

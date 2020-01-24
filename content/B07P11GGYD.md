@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KCREAM de Ordenador Racing para Gamers  ' al 44.00176007040282 % de descuento
+title: 'KCREAM de Ordenador Racing para Gamers   al 44.00176007040282 % de descuento'
 date: 2019/10/29 15:48:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wolMyXq6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wolMyXq6L._SL200_.jpg' ]

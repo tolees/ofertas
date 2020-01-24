@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.5665529010239 % en 'Izas Dimasa Chaqueta de Punto  Mujer  Az'
+title: 'Descuento del 58.5665529010239 % en Izas Dimasa Chaqueta de Punto  Mujer  Az'
 date: 2019/10/18 10:14:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514hKfw252L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514hKfw252L._SL200_.jpg' ]

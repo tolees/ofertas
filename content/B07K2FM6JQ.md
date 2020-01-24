@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.472727272727276 % en 'Apple Funda Smart Cover  para el iPad Pr'
+title: 'Descuento del 45.472727272727276 % en Apple Funda Smart Cover  para el iPad Pr'
 date: 2019/11/10 19:52:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ac8FCiXfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ac8FCiXfL._SL200_.jpg' ]

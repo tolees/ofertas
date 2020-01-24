@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cecotec Robot Aspirador Conga Serie 3490' al 25.062656641604008 % de descuento
+title: 'Cecotec Robot Aspirador Conga Serie 3490 al 25.062656641604008 % de descuento'
 date: 2020-01-23 08:50:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wBvRNSmbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wBvRNSmbL._SL200_.jpg' ]

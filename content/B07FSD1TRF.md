@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Adriel Viola  Zapatos de Tacón pa' al 49.93742177722154 % de descuento
+title: 'Clarks Adriel Viola  Zapatos de Tacón pa al 49.93742177722154 % de descuento'
 date: 2019/11/07 11:08:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VC8ortXXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VC8ortXXL._SL200_.jpg' ]

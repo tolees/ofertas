@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.47183979974969 % en 'HONCENMAX Funda Cubre Sofá - Protector p'
+title: 'Descuento del 67.47183979974969 % en HONCENMAX Funda Cubre Sofá - Protector p'
 date: 2019/12/31 09:49:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OJlXhZ1CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OJlXhZ1CL._SL200_.jpg' ]

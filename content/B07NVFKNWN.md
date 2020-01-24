@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lyeiaa 12 Piezas Dardos Punta Plastico p' al 32.016008004001996 % de descuento
+title: 'Lyeiaa 12 Piezas Dardos Punta Plastico p al 32.016008004001996 % de descuento'
 date: 2019/10/08 15:32:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ZHtJsjdRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ZHtJsjdRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRANGO OSSA Pant. Corto  Unisex niños  M' al 59.929411764705875 % de descuento
+title: 'TRANGO OSSA Pant. Corto  Unisex niños  M al 59.929411764705875 % de descuento'
 date: 2019/10/31 15:37:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WPjiXwuzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WPjiXwuzL._SL200_.jpg' ]

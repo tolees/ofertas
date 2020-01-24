@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.310443490701005 % en 'Hisense H50U7B - Smart TV ULED 50  4K Ul'
+title: 'Descuento del 36.310443490701005 % en Hisense H50U7B - Smart TV ULED 50  4K Ul'
 date: 2020-01-03 05:25:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51swL9uqWiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51swL9uqWiL._SL200_.jpg' ]

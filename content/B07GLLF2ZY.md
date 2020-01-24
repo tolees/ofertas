@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.41885134111229 % en 'Cybex Gold Pallas S-Fix - Silla de coche'
+title: 'Descuento del 44.41885134111229 % en Cybex Gold Pallas S-Fix - Silla de coche'
 date: 2019/11/30 16:39:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D65MwS15L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D65MwS15L._SL200_.jpg' ]

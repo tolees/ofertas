@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.165218872423782 % en 'Ubiquiti UAP-AC-LITE - Punto de acceso'
+title: 'Descuento del 30.165218872423782 % en Ubiquiti UAP-AC-LITE - Punto de acceso'
 date: 2019/11/07 09:04:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oux4k0ZCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oux4k0ZCL._SL200_.jpg' ]

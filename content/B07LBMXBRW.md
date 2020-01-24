@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Ronnie Short DVNGY Bañador  ' al 69.86666666666666 % de descuento
+title: 'Tommy Jeans Ronnie Short DVNGY Bañador   al 69.86666666666666 % de descuento'
 date: 2019/11/21 09:21:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jav5NuqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jav5NuqdL._SL200_.jpg' ]

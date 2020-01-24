@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.81477896095514 % en 'lenbest Agua Dibujo Pintura  Esteras de '
+title: 'Descuento del 25.81477896095514 % en lenbest Agua Dibujo Pintura  Esteras de '
 date: 2020-01-13 18:34:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61LkFgYcGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61LkFgYcGbL._SL200_.jpg' ]

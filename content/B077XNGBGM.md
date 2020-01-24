@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour HG - Pantalón Corto para Mu' al 55.800000000000004 % de descuento
+title: 'Under Armour HG - Pantalón Corto para Mu al 55.800000000000004 % de descuento'
 date: 2019/10/25 14:17:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cn5DB8Y7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cn5DB8Y7L._SL200_.jpg' ]

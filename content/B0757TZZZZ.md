@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Skinny Jeans  Azul  Vintage Wash  '
+title: 'Descuento del 70.0 % en find. Skinny Jeans  Azul  Vintage Wash  '
 date: 2019/10/12 07:42:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M6Z8yl0LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M6Z8yl0LL._SL200_.jpg' ]

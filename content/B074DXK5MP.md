@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Western Digital My Cloud Home - Almacena' al 36.249402147919476 % de descuento
+title: 'Western Digital My Cloud Home - Almacena al 36.249402147919476 % de descuento'
 date: 2019-12-31 17:13:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BwYe54vnL._SL200_.jpg' ]

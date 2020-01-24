@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.37325948149858 % en 'ExoLens Edge - Kit con Adaptador y Lente'
+title: 'Descuento del 52.37325948149858 % en ExoLens Edge - Kit con Adaptador y Lente'
 date: 2019/10/18 02:54:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ripZK-EzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ripZK-EzL._SL200_.jpg' ]

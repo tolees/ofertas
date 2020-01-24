@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'flintronic ® Billetera  Tarjetas de Créd' al 47.39336492890994 % de descuento
+title: 'flintronic ® Billetera  Tarjetas de Créd al 47.39336492890994 % de descuento'
 date: 2020-01-23 16:34:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514LcqoRnTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514LcqoRnTL._SL200_.jpg' ]

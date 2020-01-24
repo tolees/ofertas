@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.50500000000001 % en 'Movil Barato 5.84" Smartphone de 3GB RAM'
+title: 'Descuento del 60.50500000000001 % en Movil Barato 5.84" Smartphone de 3GB RAM'
 date: 2019/11/04 05:02:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DgMEoKdvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DgMEoKdvL._SL200_.jpg' ]

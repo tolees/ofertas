@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.24050632911393 % en 'Lacoste Sonnenbrille L3603s Gafas de sol'
+title: 'Descuento del 61.24050632911393 % en Lacoste Sonnenbrille L3603s Gafas de sol'
 date: 2019/10/11 10:08:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21ktRqLyGKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21ktRqLyGKL._SL200_.jpg' ]

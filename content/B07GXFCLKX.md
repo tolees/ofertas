@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MERAKI PD00016 camisas hombre Verde  Gre' al 50.0 % de descuento
+title: 'MERAKI PD00016 camisas hombre Verde  Gre al 50.0 % de descuento'
 date: 2019/12/13 20:59:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RC1b2JBKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RC1b2JBKL._SL200_.jpg' ]

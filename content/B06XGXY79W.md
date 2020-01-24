@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Pantalones Largos para Hombre  Bei'
+title: 'Descuento del 70.0 % en find. Pantalones Largos para Hombre  Bei'
 date: 2019/10/18 01:29:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LJUe8LKhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LJUe8LKhL._SL200_.jpg' ]

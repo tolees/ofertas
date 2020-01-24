@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.03639672429481 % en 'Skechers Elite Flex-Hydropulse  Zapatill'
+title: 'Descuento del 40.03639672429481 % en Skechers Elite Flex-Hydropulse  Zapatill'
 date: 2019/10/30 19:04:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FbwZD%2BFJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FbwZD%2BFJL._SL200_.jpg' ]

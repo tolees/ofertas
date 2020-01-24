@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.309222002558435 % en 'Samsung EVO - Tarjeta de Memoria microSD'
+title: 'Descuento del 59.309222002558435 % en Samsung EVO - Tarjeta de Memoria microSD'
 date: 2019/10/06 01:39:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rSfILflrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rSfILflrL._SL200_.jpg' ]

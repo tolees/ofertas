@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Death Stranding - Collector s Edition [I' al 26.961348067403378 % de descuento
+title: 'Death Stranding - Collector s Edition [I al 26.961348067403378 % de descuento'
 date: 2020-01-12 14:20:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JM660nZdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JM660nZdL._SL200_.jpg' ]

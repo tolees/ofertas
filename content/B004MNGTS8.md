@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.44444444444444 % en 'FISCHER 087484 - Brida BN 4 6x200 natura'
+title: 'Descuento del 29.44444444444444 % en FISCHER 087484 - Brida BN 4 6x200 natura'
 date: 2019/12/31 00:26:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/11vvsjdWnhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/11vvsjdWnhL._SL200_.jpg' ]

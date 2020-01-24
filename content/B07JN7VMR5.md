@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pandora Abalorios Mujer plata - 797516' al 39.2 % de descuento
+title: 'Pandora Abalorios Mujer plata - 797516 al 39.2 % de descuento'
 date: 2019/12/06 13:04:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EdLNxLAmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EdLNxLAmL._SL200_.jpg' ]

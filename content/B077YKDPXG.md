@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.574999999999996 % en 'Crema Correctoras y Anti-Imperfecciones '
+title: 'Descuento del 57.574999999999996 % en Crema Correctoras y Anti-Imperfecciones '
 date: 2020-01-06 14:08:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61wgeThrQbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61wgeThrQbL._SL200_.jpg' ]

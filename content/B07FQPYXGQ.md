@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.62222222222222 % en 'Hurley M One & Only 2.0 21  BAÑADORES  H'
+title: 'Descuento del 65.62222222222222 % en Hurley M One & Only 2.0 21  BAÑADORES  H'
 date: 2019/11/15 21:14:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o8AAkpSBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o8AAkpSBL._SL200_.jpg' ]

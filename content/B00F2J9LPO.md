@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STANLEY STST1-72335 Bolsa portaherramien' al 30.510440835266827 % de descuento
+title: 'STANLEY STST1-72335 Bolsa portaherramien al 30.510440835266827 % de descuento'
 date: 2019/11/17 09:51:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419EDs5bNrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419EDs5bNrL._SL200_.jpg' ]

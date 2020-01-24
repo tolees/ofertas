@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s unbasic  Hoodie Capucha  Multicol' al 52.67999999999999 % de descuento
+title: 'Levi s unbasic  Hoodie Capucha  Multicol al 52.67999999999999 % de descuento'
 date: 2020-01-04 09:39:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J8kMHYmxL._SL200_.jpg' ]

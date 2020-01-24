@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ballon de hand Kid Hummel Soft' al 43.021510755377676 % de descuento
+title: 'Ballon de hand Kid Hummel Soft al 43.021510755377676 % de descuento'
 date: 2020-01-10 09:56:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417q0CtOZXL._SL200_.jpg' ]

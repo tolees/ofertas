@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.06689342403627 % en 'Hunter Original Tall Classic  Botas de A'
+title: 'Descuento del 38.06689342403627 % en Hunter Original Tall Classic  Botas de A'
 date: 2019/11/11 19:20:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d-TpBOSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d-TpBOSRL._SL200_.jpg' ]

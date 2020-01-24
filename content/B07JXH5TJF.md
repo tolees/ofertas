@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 79.48441708349365 % en 'Wrangler Regular Jacket Chaqueta  Azul  '
+title: 'Descuento del 79.48441708349365 % en Wrangler Regular Jacket Chaqueta  Azul  '
 date: 2019/12/13 11:13:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erA6kFQLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erA6kFQLL._SL200_.jpg' ]

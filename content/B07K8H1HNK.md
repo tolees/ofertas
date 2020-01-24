@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taylor Swoden Slow joy - Licuadora de pr' al 32.001600080004 % de descuento
+title: 'Taylor Swoden Slow joy - Licuadora de pr al 32.001600080004 % de descuento'
 date: 2019/10/15 12:50:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mhulpbbTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mhulpbbTL._SL200_.jpg' ]

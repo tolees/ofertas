@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.91666666666667 % en 'Vans Basic Pullover Fleece Capucha  Gris'
+title: 'Descuento del 44.91666666666667 % en Vans Basic Pullover Fleece Capucha  Gris'
 date: 2019/11/15 14:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31STrO75CsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31STrO75CsL._SL200_.jpg' ]

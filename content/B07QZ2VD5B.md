@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Libro Bebe  BelleStyle Libro Texturas Be' al 53.234042553191486 % de descuento
+title: 'Libro Bebe  BelleStyle Libro Texturas Be al 53.234042553191486 % de descuento'
 date: 2019/12/17 10:48:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M-o5xKHsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M-o5xKHsL._SL200_.jpg' ]

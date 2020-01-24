@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans London Tinker Zero 19  Zapati' al 50.0 % de descuento
+title: 'Pepe Jeans London Tinker Zero 19  Zapati al 50.0 % de descuento'
 date: 2019/11/27 15:18:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XFzoRvuhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XFzoRvuhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Spiced Bay  Sandalias Punta Cerra' al 83.90195097548774 % de descuento
+title: 'Clarks Spiced Bay  Sandalias Punta Cerra al 83.90195097548774 % de descuento'
 date: 2019/11/14 11:55:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iJg-OxxBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iJg-OxxBL._SL200_.jpg' ]

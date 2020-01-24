@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.09823182711198 % en 'Baja tu Colesterol | Reduce los niveles '
+title: 'Descuento del 50.09823182711198 % en Baja tu Colesterol | Reduce los niveles '
 date: 2020-01-04 06:04:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41spLc3XenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41spLc3XenL._SL200_.jpg' ]

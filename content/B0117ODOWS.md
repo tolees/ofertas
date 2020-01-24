@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.23695511500677 % en 'Crock-Pot CSC024 Olla de cocción Lenta  '
+title: 'Descuento del 28.23695511500677 % en Crock-Pot CSC024 Olla de cocción Lenta  '
 date: 2020-01-03 06:49:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RtCZjPU7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RtCZjPU7L._SL200_.jpg' ]

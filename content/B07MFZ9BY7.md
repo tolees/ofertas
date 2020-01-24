@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fitbit Versa Lite - Reloj Deportivo Smar' al 31.259768677711776 % de descuento
+title: 'Fitbit Versa Lite - Reloj Deportivo Smar al 31.259768677711776 % de descuento'
 date: 2019/12/12 14:56:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Sk3dZaSNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Sk3dZaSNL._SL200_.jpg' ]

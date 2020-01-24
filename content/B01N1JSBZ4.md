@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PRO PRBT0018 - Bote Porta Herramientas  ' al 25.0 % de descuento
+title: 'PRO PRBT0018 - Bote Porta Herramientas   al 25.0 % de descuento'
 date: 2020-01-19 12:22:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HoujAyLDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HoujAyLDL._SL200_.jpg' ]

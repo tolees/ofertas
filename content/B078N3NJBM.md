@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.82644465969421 % en 'Lenovo ideapad 520S-14IKB - Ordenador Po'
+title: 'Descuento del 44.82644465969421 % en Lenovo ideapad 520S-14IKB - Ordenador Po'
 date: 2020-01-21 20:34:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O1L%2BnH9kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O1L%2BnH9kL._SL200_.jpg' ]

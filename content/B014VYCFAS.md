@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP ScanJet Pro 2500 f1 - Escáner de Supe' al 38.11579481970544 % de descuento
+title: 'HP ScanJet Pro 2500 f1 - Escáner de Supe al 38.11579481970544 % de descuento'
 date: 2019/10/27 01:21:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zd5M2n80L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zd5M2n80L._SL200_.jpg' ]

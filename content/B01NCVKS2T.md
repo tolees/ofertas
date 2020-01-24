@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.13852308718119 % en 'Xenoblade Chronicles 2'
+title: 'Descuento del 31.13852308718119 % en Xenoblade Chronicles 2'
 date: 2020-01-10 06:52:52
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

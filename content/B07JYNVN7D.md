@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Jute Detail Flatform Snea' al 54.84355444305382 % de descuento
+title: 'Tommy Hilfiger Jute Detail Flatform Snea al 54.84355444305382 % de descuento'
 date: 2019/10/29 19:08:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dCF2cbEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dCF2cbEPL._SL200_.jpg' ]

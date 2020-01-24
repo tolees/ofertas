@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.37768240343348 % en 'PUMA Liga Casuals Jr Chándal  Unisex niñ'
+title: 'Descuento del 64.37768240343348 % en PUMA Liga Casuals Jr Chándal  Unisex niñ'
 date: 2019/11/04 05:03:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q95ojtuzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q95ojtuzL._SL200_.jpg' ]

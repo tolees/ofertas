@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Superstar El I  Zapatillas de Dep' al 49.9909008189263 % de descuento
+title: 'adidas Superstar El I  Zapatillas de Dep al 49.9909008189263 % de descuento'
 date: 2020-01-10 07:26:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZNkYfeoxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZNkYfeoxL._SL200_.jpg' ]

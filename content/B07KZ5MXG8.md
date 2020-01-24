@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.68160069595477 % en 'Cortefiel C7Cc Camiseta Raya Indigo Cami'
+title: 'Descuento del 67.68160069595477 % en Cortefiel C7Cc Camiseta Raya Indigo Cami'
 date: 2019/11/08 00:49:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Di7PEtO7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Di7PEtO7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.5 % en 'find. Vestido Cruzado Mujer  Negro  Blac'
+title: 'Descuento del 62.5 % en find. Vestido Cruzado Mujer  Negro  Blac'
 date: 2019/12/29 13:29:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NcOEh4tkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NcOEh4tkL._SL200_.jpg' ]

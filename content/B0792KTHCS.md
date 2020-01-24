@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J New Savage Boy B ABX A  Zapatilla' al 29.35075431034482 % de descuento
+title: 'Geox J New Savage Boy B ABX A  Zapatilla al 29.35075431034482 % de descuento'
 date: 2019/11/17 08:21:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jRW0uK2lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jRW0uK2lL._SL200_.jpg' ]

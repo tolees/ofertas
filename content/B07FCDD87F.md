@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hasbro MY Little Pony Bata  Azul  Blue 1' al 51.344227727991566 % de descuento
+title: 'Hasbro MY Little Pony Bata  Azul  Blue 1 al 51.344227727991566 % de descuento'
 date: 2019/12/25 13:26:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DoiXtXxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DoiXtXxL._SL200_.jpg' ]

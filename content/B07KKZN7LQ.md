@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Kenr34d Vestido  Azul  Bleu Mari' al 38.59999999999999 % de descuento
+title: 'Naf Naf Kenr34d Vestido  Azul  Bleu Mari al 38.59999999999999 % de descuento'
 date: 2019/11/03 15:07:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3166q74hw1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3166q74hw1L._SL200_.jpg' ]

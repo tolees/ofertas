@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.47491638795986 % en 'EasyToys Fetish Collection - Látigo SM r'
+title: 'Descuento del 62.47491638795986 % en EasyToys Fetish Collection - Látigo SM r'
 date: 2019/10/13 08:20:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410FibvT0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410FibvT0NL._SL200_.jpg' ]

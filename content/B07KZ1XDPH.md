@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 86.8410927279723 % en 'Springfield Lib Flower Print Camisa Casu'
+title: 'Descuento del 86.8410927279723 % en Springfield Lib Flower Print Camisa Casu'
 date: 2019/11/15 10:48:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kVRwW%2BNnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kVRwW%2BNnL._SL200_.jpg' ]

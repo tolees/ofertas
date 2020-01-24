@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOMMY HILFIGER Core Bleecker Slim Jean V' al 61.52941176470588 % de descuento
+title: 'TOMMY HILFIGER Core Bleecker Slim Jean V al 61.52941176470588 % de descuento'
 date: 2019/11/21 09:03:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wCkJoPL9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wCkJoPL9L._SL200_.jpg' ]

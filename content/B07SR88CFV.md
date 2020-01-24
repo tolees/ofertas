@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'J.Endéar Bracciale Donna Granato  Rosso ' al 62.525 % de descuento
+title: 'J.Endéar Bracciale Donna Granato  Rosso  al 62.525 % de descuento'
 date: 2019/12/01 07:02:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410MK9ZbztL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410MK9ZbztL._SL200_.jpg' ]

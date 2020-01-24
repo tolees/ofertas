@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.020010005002504 % en 'Fila Disruptor Low  Zapatillas para Homb'
+title: 'Descuento del 40.020010005002504 % en Fila Disruptor Low  Zapatillas para Homb'
 date: 2020-01-05 17:38:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NsxWy2n%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NsxWy2n%2BL._SL200_.jpg' ]

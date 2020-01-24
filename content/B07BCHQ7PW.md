@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gregster Sanni Pantalones para Yoga  Muj' al 60.03001500750374 % de descuento
+title: 'Gregster Sanni Pantalones para Yoga  Muj al 60.03001500750374 % de descuento'
 date: 2019/11/11 15:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vb-%2BHWh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vb-%2BHWh%2BL._SL200_.jpg' ]

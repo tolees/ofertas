@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mustriend Tocadiscos de Madera 33/45/78 ' al 31.8131813181318 % de descuento
+title: 'Mustriend Tocadiscos de Madera 33/45/78  al 31.8131813181318 % de descuento'
 date: 2020-01-08 19:52:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PZLlfaTpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PZLlfaTpL._SL200_.jpg' ]

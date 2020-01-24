@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP CF281A 81A Cartucho de Tóner Original' al 32.151111111111106 % de descuento
+title: 'HP CF281A 81A Cartucho de Tóner Original al 32.151111111111106 % de descuento'
 date: 2019/10/19 20:17:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UOcYi9DlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UOcYi9DlL._SL200_.jpg' ]

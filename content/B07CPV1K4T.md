@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG Gram 15Z980-B - Portátil de 15.6   Fu' al 28.27218145430287 % de descuento
+title: 'LG Gram 15Z980-B - Portátil de 15.6   Fu al 28.27218145430287 % de descuento'
 date: 2020-01-20 19:08:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BSMSS6GfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BSMSS6GfL._SL200_.jpg' ]

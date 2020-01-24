@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LUNA play plus de FOREO es el cepillo fa' al 43.46938775510204 % de descuento
+title: 'LUNA play plus de FOREO es el cepillo fa al 43.46938775510204 % de descuento'
 date: 2019/12/23 09:48:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ow98DGJDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ow98DGJDL._SL200_.jpg' ]

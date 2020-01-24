@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.019546520719317 % en 'Clarks Grandin Plain  Zapatos de Cordone'
+title: 'Descuento del 25.019546520719317 % en Clarks Grandin Plain  Zapatos de Cordone'
 date: 2019/12/24 10:01:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ol0uCRznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ol0uCRznL._SL200_.jpg' ]

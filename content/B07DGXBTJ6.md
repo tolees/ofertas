@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Duramo 9  Zapatillas de Deporte p' al 31.609674728940785 % de descuento
+title: 'adidas Duramo 9  Zapatillas de Deporte p al 31.609674728940785 % de descuento'
 date: 2019/11/12 11:06:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AMbWRCQHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AMbWRCQHL._SL200_.jpg' ]

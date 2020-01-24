@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.43488413867434 % en 'Dockers by Gerli 35IZ305-620100  Botines'
+title: 'Descuento del 37.43488413867434 % en Dockers by Gerli 35IZ305-620100  Botines'
 date: 2019/12/05 09:45:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g3lUIEAvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g3lUIEAvL._SL200_.jpg' ]

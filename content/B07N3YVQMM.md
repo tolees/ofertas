@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Dress LENCY Vestido  Azul  Medi' al 67.9266259032796 % de descuento
+title: 'Desigual Dress LENCY Vestido  Azul  Medi al 67.9266259032796 % de descuento'
 date: 2020-01-23 15:12:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zcCyS7tbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zcCyS7tbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.2524532783299 % en 'Vernee M6 Teléfono Móvil Android  Pantal'
+title: 'Descuento del 39.2524532783299 % en Vernee M6 Teléfono Móvil Android  Pantal'
 date: 2019/11/30 09:38:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V9Dha0xHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V9Dha0xHL._SL200_.jpg' ]

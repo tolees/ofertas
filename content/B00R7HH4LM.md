@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clatronic MA 3585 Cortafiambres  Ajustab' al 39.932508436445445 % de descuento
+title: 'Clatronic MA 3585 Cortafiambres  Ajustab al 39.932508436445445 % de descuento'
 date: 2019/12/27 22:59:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51q68zIA84L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51q68zIA84L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Inglesina Amerigo  Silla de coche grupo ' al 27.725619834710745 % de descuento
+title: 'Inglesina Amerigo  Silla de coche grupo  al 27.725619834710745 % de descuento'
 date: 2019/11/14 09:14:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XadvxM5ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XadvxM5ZL._SL200_.jpg' ]

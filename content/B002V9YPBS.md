@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Odlo Bl Top Crew Neck L/S Active Warm Ca' al 32.525000000000006 % de descuento
+title: 'Odlo Bl Top Crew Neck L/S Active Warm Ca al 32.525000000000006 % de descuento'
 date: 2019/12/28 17:41:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JtA9HJcvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JtA9HJcvL._SL200_.jpg' ]

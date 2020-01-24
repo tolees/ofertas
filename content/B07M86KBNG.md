@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Difusor Aromaterapia  BAXiA Difusor de A' al 48.089253654783285 % de descuento
+title: 'Difusor Aromaterapia  BAXiA Difusor de A al 48.089253654783285 % de descuento'
 date: 2019/10/19 06:35:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31khV7jDiSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31khV7jDiSL._SL200_.jpg' ]

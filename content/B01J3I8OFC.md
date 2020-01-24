@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson C11CF54402  Expression Premium XP-' al 36.25358208082344 % de descuento
+title: 'Epson C11CF54402  Expression Premium XP- al 36.25358208082344 % de descuento'
 date: 2019/12/16 20:41:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hdtmGHFWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hdtmGHFWL._SL200_.jpg' ]

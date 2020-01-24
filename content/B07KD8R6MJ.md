@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Das neue Fire HD 10-Tablet│10 1 Zoll gro' al 33.335555703713595 % de descuento
+title: 'Das neue Fire HD 10-Tablet│10 1 Zoll gro al 33.335555703713595 % de descuento'
 date: 2019/11/27 07:50:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BX0pAdsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BX0pAdsL._SL200_.jpg' ]

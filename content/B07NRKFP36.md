@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'X-Bionic The Trick 4.0 Run Shorts  Hombr' al 35.80808080808081 % de descuento
+title: 'X-Bionic The Trick 4.0 Run Shorts  Hombr al 35.80808080808081 % de descuento'
 date: 2019/10/17 02:24:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413G5Lgt0SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413G5Lgt0SL._SL200_.jpg' ]

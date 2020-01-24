@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sorel Madson Sport Hiker Waterproof  Bot' al 76.07644869159398 % de descuento
+title: 'Sorel Madson Sport Hiker Waterproof  Bot al 76.07644869159398 % de descuento'
 date: 2019/10/31 20:55:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tMg34hiLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tMg34hiLL._SL200_.jpg' ]

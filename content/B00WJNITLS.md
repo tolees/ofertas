@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.755364806866947 % en 'Philips Avent SCF551/03 - Vaso con boqui'
+title: 'Descuento del 28.755364806866947 % en Philips Avent SCF551/03 - Vaso con boqui'
 date: 2019/11/24 17:31:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oDGLwnYZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oDGLwnYZL._SL200_.jpg' ]

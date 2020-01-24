@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.404040404040394 % en 'Nordcap Herren Thermohose  Funktionelle '
+title: 'Descuento del 39.404040404040394 % en Nordcap Herren Thermohose  Funktionelle '
 date: 2020-01-20 17:54:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TH-O5xxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TH-O5xxCL._SL200_.jpg' ]

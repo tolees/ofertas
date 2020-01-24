@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.05047318611987 % en 'Timberland Bermuda Pantalones Cortos  Ve'
+title: 'Descuento del 52.05047318611987 % en Timberland Bermuda Pantalones Cortos  Ve'
 date: 2019/10/11 13:39:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n8M3GfW3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n8M3GfW3L._SL200_.jpg' ]

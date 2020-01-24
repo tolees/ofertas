@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 86.14639037433155 % en 'Colgante de Cuerda Ligera de cáñamo  Cue'
+title: 'Descuento del 86.14639037433155 % en Colgante de Cuerda Ligera de cáñamo  Cue'
 date: 2019/12/08 23:44:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wJfBdAV2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wJfBdAV2L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Michael Kors Reloj Analogico para Unisex' al 40.0 % de descuento
+title: 'Michael Kors Reloj Analogico para Unisex al 40.0 % de descuento'
 date: 2020-01-19 22:28:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C2UASWwqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C2UASWwqL._SL200_.jpg' ]

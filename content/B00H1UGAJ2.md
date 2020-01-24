@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Banana Moon - Parte Superior del Bikini ' al 44.895833333333336 % de descuento
+title: 'Banana Moon - Parte Superior del Bikini  al 44.895833333333336 % de descuento'
 date: 2019/11/09 02:36:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ivR%2BaBHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413ivR%2BaBHL._SL200_.jpg' ]

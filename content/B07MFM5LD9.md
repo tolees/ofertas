@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orient Reloj de Pulsera FAC0000EW0' al 44.99999999999999 % de descuento
+title: 'Orient Reloj de Pulsera FAC0000EW0 al 44.99999999999999 % de descuento'
 date: 2019/11/07 19:42:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qJ0ZVj%2BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qJ0ZVj%2BJL._SL200_.jpg' ]

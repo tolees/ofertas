@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finether Rodillo de Espuma 3 en 1 para M' al 46.00920184036808 % de descuento
+title: 'Finether Rodillo de Espuma 3 en 1 para M al 46.00920184036808 % de descuento'
 date: 2019/10/31 20:12:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZdlJNGwQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZdlJNGwQL._SL200_.jpg' ]

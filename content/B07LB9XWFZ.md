@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Danielle Shirt SS W3 Blus' al 51.31414267834794 % de descuento
+title: 'Tommy Hilfiger Danielle Shirt SS W3 Blus al 51.31414267834794 % de descuento'
 date: 2019/10/22 23:20:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-C6dcHViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-C6dcHViL._SL200_.jpg' ]

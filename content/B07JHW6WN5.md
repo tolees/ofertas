@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma ftblNXT Pro Shirt Camiseta  Hombre ' al 70.43043043043043 % de descuento
+title: 'Puma ftblNXT Pro Shirt Camiseta  Hombre  al 70.43043043043043 % de descuento'
 date: 2019/10/18 01:08:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419TPAVR6EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419TPAVR6EL._SL200_.jpg' ]

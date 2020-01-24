@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Billetera Pepe Jeans Burned horizontal c' al 30.263157894736846 % de descuento
+title: 'Billetera Pepe Jeans Burned horizontal c al 30.263157894736846 % de descuento'
 date: 2019/11/26 13:24:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cUuf%2BqT-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cUuf%2BqT-L._SL200_.jpg' ]

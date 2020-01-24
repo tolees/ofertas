@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wacom Intuos M - Tableta Gráfica Bluetoo' al 38.47423711855929 % de descuento
+title: 'Wacom Intuos M - Tableta Gráfica Bluetoo al 38.47423711855929 % de descuento'
 date: 2019/11/28 18:11:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Phvup8Y2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Phvup8Y2L._SL200_.jpg' ]

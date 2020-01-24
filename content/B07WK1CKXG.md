@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lahuko Licuadora Portátil USB Recargable' al 32.154340836012864 % de descuento
+title: 'Lahuko Licuadora Portátil USB Recargable al 32.154340836012864 % de descuento'
 date: 2019/12/28 04:46:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517v%2BIJtLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517v%2BIJtLlL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Elite Flex  Zapatillas para Hom' al 38.95220955808838 % de descuento
+title: 'Skechers Elite Flex  Zapatillas para Hom al 38.95220955808838 % de descuento'
 date: 2020-01-10 11:54:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KnUmOeFGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KnUmOeFGL._SL200_.jpg' ]

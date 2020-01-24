@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.92727272727273 % en 'Under Armour Rival Fleece Sportstyle Log'
+title: 'Descuento del 50.92727272727273 % en Under Armour Rival Fleece Sportstyle Log'
 date: 2019/11/27 14:22:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fE%2Bwob4DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fE%2Bwob4DL._SL200_.jpg' ]

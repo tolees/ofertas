@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 21554 Pop Movies Blade Runner 2049' al 28.728070175438592 % de descuento
+title: 'Funko 21554 Pop Movies Blade Runner 2049 al 28.728070175438592 % de descuento'
 date: 2020-01-24 17:24:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/517hdB10LRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517hdB10LRL._AC_._SL200_.jpg' ]

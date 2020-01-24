@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.18947368421052 % en 'Lacoste Ph4012 Polo  Gris  Brochet Chiné'
+title: 'Descuento del 42.18947368421052 % en Lacoste Ph4012 Polo  Gris  Brochet Chiné'
 date: 2019/10/14 08:21:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZalXeJGxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZalXeJGxL._SL200_.jpg' ]

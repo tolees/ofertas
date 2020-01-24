@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.96664442961974 % en 'Lee Slim Western Blusa  Azul  Heather Bl'
+title: 'Descuento del 49.96664442961974 % en Lee Slim Western Blusa  Azul  Heather Bl'
 date: 2019/10/21 02:21:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qVRVnC4gL._SL200_.jpg' ]

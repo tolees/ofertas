@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Uomo Snake Mocassino C  Mocasines p' al 50.05714285714286 % de descuento
+title: 'Geox Uomo Snake Mocassino C  Mocasines p al 50.05714285714286 % de descuento'
 date: 2019/12/11 08:27:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cohKbbPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cohKbbPSL._SL200_.jpg' ]

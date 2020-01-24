@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.23741007194245 % en 'JACK & JONES Jjdongo Short Sock Calcetin'
+title: 'Descuento del 53.23741007194245 % en JACK & JONES Jjdongo Short Sock Calcetin'
 date: 2019/11/04 11:33:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YRTkNly4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YRTkNly4L._SL200_.jpg' ]

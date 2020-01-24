@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.252502780867626 % en 'Panasonic KX-TG1612SP1  Kit De 2 Teléfon'
+title: 'Descuento del 27.252502780867626 % en Panasonic KX-TG1612SP1  Kit De 2 Teléfon'
 date: 2020-01-22 20:07:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NHZA5e%2BrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NHZA5e%2BrL._SL200_.jpg' ]

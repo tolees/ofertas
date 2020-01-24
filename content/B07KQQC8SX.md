@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon ALPHACROSS  Zapatillas de Trail ' al 54.974986103390776 % de descuento
+title: 'Salomon ALPHACROSS  Zapatillas de Trail  al 54.974986103390776 % de descuento'
 date: 2019/10/21 21:12:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y-8u77owL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y-8u77owL._SL200_.jpg' ]

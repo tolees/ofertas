@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.47647647647648 % en 'Desigual Blus_Estella  Mujer  Blanco  Wh'
+title: 'Descuento del 76.47647647647648 % en Desigual Blus_Estella  Mujer  Blanco  Wh'
 date: 2019/10/16 22:35:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MBcajdEVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MBcajdEVL._SL200_.jpg' ]

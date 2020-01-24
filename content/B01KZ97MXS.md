@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.388888888888886 % en 'Onitsuka Tiger Mexico 66 Dl408-0490  Zap'
+title: 'Descuento del 30.388888888888886 % en Onitsuka Tiger Mexico 66 Dl408-0490  Zap'
 date: 2020-01-19 20:42:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s-mWE5QvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s-mWE5QvL._SL200_.jpg' ]

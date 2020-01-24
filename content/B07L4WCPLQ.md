@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charles Wilson Camisa Franela de Cuadros' al 51.50214592274679 % de descuento
+title: 'Charles Wilson Camisa Franela de Cuadros al 51.50214592274679 % de descuento'
 date: 2019/10/05 15:43:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-4oGxc0IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-4oGxc0IL._SL200_.jpg' ]

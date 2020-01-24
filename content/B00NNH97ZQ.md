@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.085834649815695 % en 'Leathlux Funda Xiaomi Redmi 7A + 2 x Pro'
+title: 'Descuento del 63.085834649815695 % en Leathlux Funda Xiaomi Redmi 7A + 2 x Pro'
 date: 2020-01-23 15:47:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Yb2qafwL._SL200_.jpg' ]

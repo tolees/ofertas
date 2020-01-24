@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio Galaxy - Sartén  diámetro de' al 68.18181818181819 % de descuento
+title: 'San Ignacio Galaxy - Sartén  diámetro de al 68.18181818181819 % de descuento'
 date: 2019/11/01 20:41:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g0hjqmuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g0hjqmuYL._SL200_.jpg' ]

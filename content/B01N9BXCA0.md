@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dermacol - Barra de Labios Pretty Matte ' al 47.38598442714127 % de descuento
+title: 'Dermacol - Barra de Labios Pretty Matte  al 47.38598442714127 % de descuento'
 date: 2020-01-21 01:40:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fYEYrDxdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fYEYrDxdL._SL200_.jpg' ]

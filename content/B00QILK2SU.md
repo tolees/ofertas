@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stanley Adventure Series Steel Flask 0.1' al 40.85756530310497 % de descuento
+title: 'Stanley Adventure Series Steel Flask 0.1 al 40.85756530310497 % de descuento'
 date: 2020-01-23 11:27:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nbRfKUjsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nbRfKUjsL._SL200_.jpg' ]

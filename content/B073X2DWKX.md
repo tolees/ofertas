@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.34285714285714 % en 'find. Blusa para Mujer  Negro  Black Sta'
+title: 'Descuento del 65.34285714285714 % en find. Blusa para Mujer  Negro  Black Sta'
 date: 2019/11/04 10:44:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510HiBDTHBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510HiBDTHBL._SL200_.jpg' ]

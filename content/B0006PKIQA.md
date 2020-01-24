@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvis - Pasta de dientes - 75 ml' al 26.105263157894743 % de descuento
+title: 'Marvis - Pasta de dientes - 75 ml al 26.105263157894743 % de descuento'
 date: 2019/12/20 12:35:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41paeUD9-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41paeUD9-WL._SL200_.jpg' ]

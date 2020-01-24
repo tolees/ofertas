@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.01666666666667 % en 'Asics Gel-Nimbus 21  Zapatillas de Runni'
+title: 'Descuento del 67.01666666666667 % en Asics Gel-Nimbus 21  Zapatillas de Runni'
 date: 2019/11/05 17:14:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MvnIdsslL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MvnIdsslL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SilverStone SST-FT05S - Carcasa de orden' al 28.481012658227844 % de descuento
+title: 'SilverStone SST-FT05S - Carcasa de orden al 28.481012658227844 % de descuento'
 date: 2019/10/18 12:37:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WpmcB-EYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WpmcB-EYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Galaxy S10 Screen Protector  [Dome Glass' al 46.67288971862914 % de descuento
+title: 'Galaxy S10 Screen Protector  [Dome Glass al 46.67288971862914 % de descuento'
 date: 2020-01-19 18:03:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21n0BaKjHVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21n0BaKjHVL._SL200_.jpg' ]

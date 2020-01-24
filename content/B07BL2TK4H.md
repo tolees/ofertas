@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Strobe V3  Zapatillas de Run' al 30.000000000000004 % de descuento
+title: 'New Balance Strobe V3  Zapatillas de Run al 30.000000000000004 % de descuento'
 date: 2019/11/10 12:46:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h8Bgve9cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h8Bgve9cL._SL200_.jpg' ]

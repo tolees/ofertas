@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Originals X_PLR  Zapatillas Texti' al 59.729864932466235 % de descuento
+title: 'adidas Originals X_PLR  Zapatillas Texti al 59.729864932466235 % de descuento'
 date: 2019/12/25 20:29:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D6Aw2OMxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D6Aw2OMxL._SL200_.jpg' ]

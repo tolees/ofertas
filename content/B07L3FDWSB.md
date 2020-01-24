@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Iconic Flat Strappy Sanda' al 59.799799799799814 % de descuento
+title: 'Tommy Hilfiger Iconic Flat Strappy Sanda al 59.799799799799814 % de descuento'
 date: 2019/11/01 04:07:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KYlwEGkbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KYlwEGkbL._SL200_.jpg' ]

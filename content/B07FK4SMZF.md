@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revlon Revelador Para Tintes De Pelo 60 ' al 47.006802721088434 % de descuento
+title: 'Revlon Revelador Para Tintes De Pelo 60  al 47.006802721088434 % de descuento'
 date: 2019/10/22 17:18:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NasCNrgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NasCNrgwL._SL200_.jpg' ]

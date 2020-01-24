@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s SS tee Camiseta  Blanco  Ssnl Sw ' al 51.66666666666666 % de descuento
+title: 'Levi s SS tee Camiseta  Blanco  Ssnl Sw  al 51.66666666666666 % de descuento'
 date: 2019/10/20 16:46:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HihvJBAaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HihvJBAaL._SL200_.jpg' ]

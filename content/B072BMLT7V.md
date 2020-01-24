@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01250312578145 % en 'Cuchillo Fruta Cuchillo de Cocina Para P'
+title: 'Descuento del 50.01250312578145 % en Cuchillo Fruta Cuchillo de Cocina Para P'
 date: 2019/11/16 15:03:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413vBZ77MHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413vBZ77MHL._SL200_.jpg' ]

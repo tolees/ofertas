@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Shelo Graphic Block Polo  Pol' al 70.34396497811132 % de descuento
+title: 'G-STAR RAW Shelo Graphic Block Polo  Pol al 70.34396497811132 % de descuento'
 date: 2019/11/11 12:52:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J3QmWmHrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J3QmWmHrL._SL200_.jpg' ]

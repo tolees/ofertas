@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lámpara de Techo Feather Lámpara Colgant' al 67.03848298940322 % de descuento
+title: 'Lámpara de Techo Feather Lámpara Colgant al 67.03848298940322 % de descuento'
 date: 2019/12/08 23:47:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UykOVt5gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UykOVt5gL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.022511255627805 % en 'Medias de Compresión para Mujeres y Homb'
+title: 'Descuento del 45.022511255627805 % en Medias de Compresión para Mujeres y Homb'
 date: 2019/12/27 19:54:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S4ttPsBjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S4ttPsBjL._SL200_.jpg' ]

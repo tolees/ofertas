@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.67025779145824 % en 'Women s Casual Loose Sleeveless Sundress'
+title: 'Descuento del 42.67025779145824 % en Women s Casual Loose Sleeveless Sundress'
 date: 2020-01-22 00:52:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U5n75Gi0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U5n75Gi0L._SL200_.jpg' ]

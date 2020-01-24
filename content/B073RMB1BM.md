@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.00000000000001 % en 'find. Chaqueta de Satén Estilo Bómber Mu'
+title: 'Descuento del 60.00000000000001 % en find. Chaqueta de Satén Estilo Bómber Mu'
 date: 2019/12/20 09:44:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41im9jdG9nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41im9jdG9nL._SL200_.jpg' ]

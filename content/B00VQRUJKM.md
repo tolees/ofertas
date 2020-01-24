@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.27927691904637 % en 'A.H. Riise X.O. Reserve Port Cask Rum Li'
+title: 'Descuento del 52.27927691904637 % en A.H. Riise X.O. Reserve Port Cask Rum Li'
 date: 2019/12/05 19:51:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e%2BDb0lRlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e%2BDb0lRlL._SL200_.jpg' ]

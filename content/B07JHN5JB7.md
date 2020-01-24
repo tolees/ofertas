@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.1941837205724 % en 'Fila Men Sport&Style Controll II Low  Za'
+title: 'Descuento del 62.1941837205724 % en Fila Men Sport&Style Controll II Low  Za'
 date: 2019/10/31 22:02:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lIbmUfWJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lIbmUfWJL._SL200_.jpg' ]

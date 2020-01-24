@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bormioli Rocco 498880F27321990 Parma Pla' al 67.90900290416263 % de descuento
+title: 'Bormioli Rocco 498880F27321990 Parma Pla al 67.90900290416263 % de descuento'
 date: 2019/12/17 14:17:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IYVBdyyrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IYVBdyyrL._SL200_.jpg' ]

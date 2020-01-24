@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.383033419023135 % en 'Playtex Ideal Beauty Soft Cup Bra Sujeta'
+title: 'Descuento del 39.383033419023135 % en Playtex Ideal Beauty Soft Cup Bra Sujeta'
 date: 2019/11/26 11:34:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4162HwhUYTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4162HwhUYTL._SL200_.jpg' ]

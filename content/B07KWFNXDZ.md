@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'New Balance 574v2  Entrenadores para Muj'
+title: 'Descuento del 50.0 % en New Balance 574v2  Entrenadores para Muj'
 date: 2019/10/31 22:44:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MfnKrc4mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MfnKrc4mL._SL200_.jpg' ]

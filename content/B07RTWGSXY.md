@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.20344635908837 % en 'JACK & JONES Jorwash tee SS V Neck Camis'
+title: 'Descuento del 66.20344635908837 % en JACK & JONES Jorwash tee SS V Neck Camis'
 date: 2019/11/04 11:10:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mOLUFsV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mOLUFsV5L._SL200_.jpg' ]

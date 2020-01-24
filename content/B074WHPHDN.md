@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.930715935334874 % en 'E.T. El Extraterrestre  4K UHD + BD  [Bl'
+title: 'Descuento del 59.930715935334874 % en E.T. El Extraterrestre  4K UHD + BD  [Bl'
 date: 2019/11/28 19:41:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rsv0ItzpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rsv0ItzpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Larchmont Waterproof  Zapatil' al 52.15151515151515 % de descuento
+title: 'Timberland Larchmont Waterproof  Zapatil al 52.15151515151515 % de descuento'
 date: 2020-01-11 21:50:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IB8yU45ZL._SL200_.jpg' ]

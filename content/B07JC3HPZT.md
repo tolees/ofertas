@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10894 - Disney Pixar Toy-Stor' al 25.012506253126553 % de descuento
+title: 'LEGO DUPLO 10894 - Disney Pixar Toy-Stor al 25.012506253126553 % de descuento'
 date: 2019/11/01 11:49:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XA487NLWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XA487NLWL._SL200_.jpg' ]

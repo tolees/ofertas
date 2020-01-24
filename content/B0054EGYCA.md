@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb - PureVision 2 Esféricas -' al 77.01213818860877 % de descuento
+title: 'Bausch & Lomb - PureVision 2 Esféricas - al 77.01213818860877 % de descuento'
 date: 2019/10/16 06:26:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31heT8QteoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31heT8QteoL._SL200_.jpg' ]

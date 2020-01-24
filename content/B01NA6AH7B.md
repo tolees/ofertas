@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Orange Label Triple Pack Bóxer ' al 46.783479349186486 % de descuento
+title: 'Superdry Orange Label Triple Pack Bóxer  al 46.783479349186486 % de descuento'
 date: 2019/11/23 15:33:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sgKbX4gsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sgKbX4gsL._SL200_.jpg' ]

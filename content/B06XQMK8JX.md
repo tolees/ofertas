@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Herren Classic Crew Sweatshirt  Sch' al 45.166666666666664 % de descuento
+title: 'Vans Herren Classic Crew Sweatshirt  Sch al 45.166666666666664 % de descuento'
 date: 2019/11/22 14:28:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n5ZVg6fhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n5ZVg6fhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonder Workshop Robot Dash - Juguete par' al 35.4519695538641 % de descuento
+title: 'Wonder Workshop Robot Dash - Juguete par al 35.4519695538641 % de descuento'
 date: 2019/10/09 22:07:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PE3fiDw%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PE3fiDw%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Jersey de Cuello Alto Hombre  Azul' al 69.33299258880655 % de descuento
+title: 'find. Jersey de Cuello Alto Hombre  Azul al 69.33299258880655 % de descuento'
 date: 2019/10/13 16:09:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XCs7prmHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XCs7prmHL._SL200_.jpg' ]

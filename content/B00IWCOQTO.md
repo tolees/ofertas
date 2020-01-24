@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.206008583690995 % en 'Sylvanian Families 3418 - Milchhasen Bab'
+title: 'Descuento del 44.206008583690995 % en Sylvanian Families 3418 - Milchhasen Bab'
 date: 2019/12/03 22:18:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gRDJiLy2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gRDJiLy2L._SL200_.jpg' ]

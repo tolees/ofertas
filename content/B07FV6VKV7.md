@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HUION Kamvas Pro 13 Tableta Grafica con ' al 40.001108063935284 % de descuento
+title: 'HUION Kamvas Pro 13 Tableta Grafica con  al 40.001108063935284 % de descuento'
 date: 2019/12/30 11:07:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518t8VhP3VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518t8VhP3VL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Y Atwood - Zapatillas para niños  C' al 33.02325581395349 % de descuento
+title: 'Vans Y Atwood - Zapatillas para niños  C al 33.02325581395349 % de descuento'
 date: 2019/11/17 22:36:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m3F35HF5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m3F35HF5L._SL200_.jpg' ]

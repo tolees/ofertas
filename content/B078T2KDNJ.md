@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Ligas Pants  Mujer  Red/White  S' al 58.16155988857938 % de descuento
+title: 'PUMA Ligas Pants  Mujer  Red/White  S al 58.16155988857938 % de descuento'
 date: 2019/11/18 19:07:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gZVHbgt%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gZVHbgt%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.313283208020042 % en 'Philips Hue White bombilla LED inteligen'
+title: 'Descuento del 25.313283208020042 % en Philips Hue White bombilla LED inteligen'
 date: 2019/12/02 13:52:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-dhAVhcDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-dhAVhcDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Symphonized NRG 3.0 Auriculares de Mader' al 56.011202240448085 % de descuento
+title: 'Symphonized NRG 3.0 Auriculares de Mader al 56.011202240448085 % de descuento'
 date: 2019/12/08 17:29:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411%2By5LsGWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411%2By5LsGWL._SL200_.jpg' ]

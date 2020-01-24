@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.015007503751868 % en 'ELEGIANT Palo Selfie Trípode Bluetooth M'
+title: 'Descuento del 30.015007503751868 % en ELEGIANT Palo Selfie Trípode Bluetooth M'
 date: 2020-01-23 11:09:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41At0V4VmYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41At0V4VmYL._SL200_.jpg' ]

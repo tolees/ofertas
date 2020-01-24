@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.025013896609224 % en 'Salomon ALPHACROSS W  Zapatillas de Trai'
+title: 'Descuento del 45.025013896609224 % en Salomon ALPHACROSS W  Zapatillas de Trai'
 date: 2020-01-11 11:34:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YPKQS-oJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YPKQS-oJL._SL200_.jpg' ]

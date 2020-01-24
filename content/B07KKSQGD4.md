@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Kenp10 Pantalones  Negro  Noir 6' al 34.20000000000001 % de descuento
+title: 'Naf Naf Kenp10 Pantalones  Negro  Noir 6 al 34.20000000000001 % de descuento'
 date: 2019/11/08 11:56:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SpYGqQnLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SpYGqQnLL._SL200_.jpg' ]

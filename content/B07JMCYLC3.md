@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 75.32766383191596 % en 'Lee Daren Zip Fly Jeans Vaqueros Rectos '
+title: 'Descuento del 75.32766383191596 % en Lee Daren Zip Fly Jeans Vaqueros Rectos '
 date: 2019/10/06 21:26:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yX4evG0KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yX4evG0KL._SL200_.jpg' ]

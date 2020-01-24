@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.65902459358066 % en 'Under Armour Speedform Gemini 3  Zapatil'
+title: 'Descuento del 61.65902459358066 % en Under Armour Speedform Gemini 3  Zapatil'
 date: 2019/11/09 18:52:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ok0Is5MbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ok0Is5MbL._SL200_.jpg' ]

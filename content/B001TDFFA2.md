@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guantes Odlo Hombre Warm  10640' al 30.25 % de descuento
+title: 'Guantes Odlo Hombre Warm  10640 al 30.25 % de descuento'
 date: 2019/11/01 18:03:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4143bSInlSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4143bSInlSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.49388209121247 % en 'Cartera de carbono Klixxo para mujeres |'
+title: 'Descuento del 44.49388209121247 % en Cartera de carbono Klixxo para mujeres |'
 date: 2019/12/27 16:29:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-W8ofq-BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-W8ofq-BL._SL200_.jpg' ]

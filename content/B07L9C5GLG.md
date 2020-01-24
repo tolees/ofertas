@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.40173524385435 % en 'ROYAL SLEEP Colchón viscoelástico 140x19'
+title: 'Descuento del 42.40173524385435 % en ROYAL SLEEP Colchón viscoelástico 140x19'
 date: 2019/10/23 13:19:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n45gXU-cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n45gXU-cL._SL200_.jpg' ]

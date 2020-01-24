@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Venice Rw Leila  Vaqueros' al 78.96402877697841 % de descuento
+title: 'Tommy Hilfiger Venice Rw Leila  Vaqueros al 78.96402877697841 % de descuento'
 date: 2019/11/05 17:52:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q71JKHmCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q71JKHmCL._SL200_.jpg' ]

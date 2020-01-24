@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.93987975951904 % en 'PUMA Sole Cross Bag Mochilla  Adultos Un'
+title: 'Descuento del 49.93987975951904 % en PUMA Sole Cross Bag Mochilla  Adultos Un'
 date: 2019/11/30 16:03:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P2MDZgGxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P2MDZgGxL._SL200_.jpg' ]

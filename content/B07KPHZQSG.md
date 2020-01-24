@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Anbass Vaqueros Slim  Azul  Mediu' al 49.18994413407821 % de descuento
+title: 'REPLAY Anbass Vaqueros Slim  Azul  Mediu al 49.18994413407821 % de descuento'
 date: 2019/11/07 08:03:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fFjNj5IqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fFjNj5IqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.499072356215216 % en 'Panasonic KX-TGC310 - Teléfono Fijo Inal'
+title: 'Descuento del 29.499072356215216 % en Panasonic KX-TGC310 - Teléfono Fijo Inal'
 date: 2020-01-17 08:51:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J8-k7vFAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J8-k7vFAL._SL200_.jpg' ]

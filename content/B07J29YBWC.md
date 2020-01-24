@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fossil Smartwatch FTW5031' al 56.937155160812814 % de descuento
+title: 'Fossil Smartwatch FTW5031 al 56.937155160812814 % de descuento'
 date: 2019/11/29 10:28:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LFFX%2BpPIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LFFX%2BpPIL._SL200_.jpg' ]

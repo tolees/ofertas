@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett High Zip Vaqueros Skinny  A' al 61.78089044522261 % de descuento
+title: 'Lee Scarlett High Zip Vaqueros Skinny  A al 61.78089044522261 % de descuento'
 date: 2019/11/04 15:17:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BngUW2zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BngUW2zL._SL200_.jpg' ]

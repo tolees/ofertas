@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.9644128113879 % en 'IRIS & LILLY Tanga Body Smooth Mujer  Pa'
+title: 'Descuento del 59.9644128113879 % en IRIS & LILLY Tanga Body Smooth Mujer  Pa'
 date: 2019/12/27 17:01:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w70boyCjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w70boyCjL._SL200_.jpg' ]

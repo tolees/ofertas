@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.2 % en 'Pepe Jeans Alejandra Sequin Camiseta  Bl'
+title: 'Descuento del 50.2 % en Pepe Jeans Alejandra Sequin Camiseta  Bl'
 date: 2019/10/20 09:14:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MhoqpUb9L._SL200_.jpg' ]

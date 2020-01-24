@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell Expert Kit con Taladro TE-CD 18/' al 26.109467455621292 % de descuento
+title: 'Einhell Expert Kit con Taladro TE-CD 18/ al 26.109467455621292 % de descuento'
 date: 2019/11/28 23:54:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51phMDcT7tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51phMDcT7tL._SL200_.jpg' ]

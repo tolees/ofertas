@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skagen Reloj Analógico para Unisex Adult' al 34.39393939393939 % de descuento
+title: 'Skagen Reloj Analógico para Unisex Adult al 34.39393939393939 % de descuento'
 date: 2020-01-22 02:22:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jiDsYaMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jiDsYaMjL._SL200_.jpg' ]

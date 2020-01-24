@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para Res' al 57.151021574510644 % de descuento
+title: 'BRIKSMAX Kit de Iluminación Led para Res al 57.151021574510644 % de descuento'
 date: 2020-01-23 18:34:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gBCLIU-gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gBCLIU-gL._SL200_.jpg' ]

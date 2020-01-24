@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO: Jurassic World' al 36.18090452261307 % de descuento
+title: 'LEGO: Jurassic World al 36.18090452261307 % de descuento'
 date: 2020-01-15 08:34:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61lorLvWGAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61lorLvWGAL._SL200_.jpg' ]

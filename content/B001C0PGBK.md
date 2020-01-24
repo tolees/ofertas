@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bomann Quitapelusas MC 701 CB' al 40.75 % de descuento
+title: 'Bomann Quitapelusas MC 701 CB al 40.75 % de descuento'
 date: 2019/11/18 18:25:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413o-nKFjXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413o-nKFjXL._SL200_.jpg' ]

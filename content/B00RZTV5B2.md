@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.016666666666666 % en 'Wilson Tour Slam Raqueta de Tenis Cuerda'
+title: 'Descuento del 40.016666666666666 % en Wilson Tour Slam Raqueta de Tenis Cuerda'
 date: 2020-01-06 11:21:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aS3Hm1FaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Tapered Vaqueros para Ho' al 41.34067033516759 % de descuento
+title: 'G-STAR RAW 3301 Tapered Vaqueros para Ho al 41.34067033516759 % de descuento'
 date: 2019/12/21 20:55:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AalU92FmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AalU92FmL._SL200_.jpg' ]

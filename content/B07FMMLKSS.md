@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Vettore Complet Chaqueta  Ho' al 42.05243187305967 % de descuento
+title: 'Trangoworld Vettore Complet Chaqueta  Ho al 42.05243187305967 % de descuento'
 date: 2019/11/18 08:09:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M112BP%2BjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M112BP%2BjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HIKARO Chaqueta Bomber Hombre  Negro  Bl' al 69.98998998999 % de descuento
+title: 'HIKARO Chaqueta Bomber Hombre  Negro  Bl al 69.98998998999 % de descuento'
 date: 2019/10/12 15:06:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CUU5Px8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CUU5Px8GL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Govee Tira LED TV 2M RGB USB con APP  50' al 26.93343593689881 % de descuento
+title: 'Govee Tira LED TV 2M RGB USB con APP  50 al 26.93343593689881 % de descuento'
 date: 2020-01-20 10:29:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LzyGMUMYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LzyGMUMYL._SL200_.jpg' ]

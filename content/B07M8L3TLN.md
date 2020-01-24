@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Sherpa Jacket Chaqueta Vaquera  Azul' al 50.01923816852635 % de descuento
+title: 'Lee Sherpa Jacket Chaqueta Vaquera  Azul al 50.01923816852635 % de descuento'
 date: 2019/10/13 19:27:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rru4enE5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rru4enE5L._SL200_.jpg' ]

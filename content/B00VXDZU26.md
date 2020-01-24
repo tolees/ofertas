@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.00920184036808 % en 'Sylvanian Families - Cedar Terrace  Gift'
+title: 'Descuento del 46.00920184036808 % en Sylvanian Families - Cedar Terrace  Gift'
 date: 2019/12/21 16:39:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UM69UxMcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UM69UxMcL._SL200_.jpg' ]

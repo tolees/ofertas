@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W HH LIFA Merino Basleayer ' al 52.906666666666666 % de descuento
+title: 'Helly Hansen W HH LIFA Merino Basleayer  al 52.906666666666666 % de descuento'
 date: 2019/10/11 16:12:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TLuTzIH%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TLuTzIH%2BL._SL200_.jpg' ]

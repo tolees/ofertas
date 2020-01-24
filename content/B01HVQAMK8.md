@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quiksilver Griffin  Zapatos para Hombre ' al 74.96614230649026 % de descuento
+title: 'Quiksilver Griffin  Zapatos para Hombre  al 74.96614230649026 % de descuento'
 date: 2019/11/16 11:49:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pb5DNMDEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pb5DNMDEL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Emporio Armani Underwear 3-Pack Brief Bó' al 26.428571428571434 % de descuento
+title: 'Emporio Armani Underwear 3-Pack Brief Bó al 26.428571428571434 % de descuento'
 date: 2019/10/11 09:56:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yQ2AhjRGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yQ2AhjRGL._SL200_.jpg' ]

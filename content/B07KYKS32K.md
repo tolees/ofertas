@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.712945590994366 % en 'Springfield 8.Gym.GRAF Bella Crochet Cam'
+title: 'Descuento del 40.712945590994366 % en Springfield 8.Gym.GRAF Bella Crochet Cam'
 date: 2019/12/02 18:41:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EeY0qzdhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EeY0qzdhL._SL200_.jpg' ]

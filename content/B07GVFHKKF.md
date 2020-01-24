@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iPosible Luz Solar Jardín  Upgraded 60 L' al 81.65 % de descuento
+title: 'iPosible Luz Solar Jardín  Upgraded 60 L al 81.65 % de descuento'
 date: 2019/12/22 19:59:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aIBjBEyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aIBjBEyoL._SL200_.jpg' ]

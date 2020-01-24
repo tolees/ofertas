@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MSV MS265 - Papelera de inox clasificado' al 64.45604175030108 % de descuento
+title: 'MSV MS265 - Papelera de inox clasificado al 64.45604175030108 % de descuento'
 date: 2019/10/12 04:44:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VLKmdkTmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VLKmdkTmL._SL200_.jpg' ]

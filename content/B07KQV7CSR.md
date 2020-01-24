@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Linear Core  Mochila Unisex Adult' al 52.32371794871795 % de descuento
+title: 'adidas Linear Core  Mochila Unisex Adult al 52.32371794871795 % de descuento'
 date: 2020-01-19 10:09:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WMyUDknHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WMyUDknHL._SL200_.jpg' ]

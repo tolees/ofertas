@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.589385474860336 % en 'Matrix 60320 - Acondicionador  1000 ml'
+title: 'Descuento del 33.589385474860336 % en Matrix 60320 - Acondicionador  1000 ml'
 date: 2019/11/04 20:48:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21-X%2BR6maKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21-X%2BR6maKL._SL200_.jpg' ]

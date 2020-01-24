@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Base de Maquillaje Fluida ' al 60.13377926421404 % de descuento
+title: 'L Oréal Paris Base de Maquillaje Fluida  al 60.13377926421404 % de descuento'
 date: 2020-01-22 19:26:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LBuG4ZtVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LBuG4ZtVL._SL200_.jpg' ]

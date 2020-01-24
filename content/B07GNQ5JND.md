@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NIVEA Q10 3en1 Cushion Tono Oscuro  1 x ' al 49.97057092407297 % de descuento
+title: 'NIVEA Q10 3en1 Cushion Tono Oscuro  1 x  al 49.97057092407297 % de descuento'
 date: 2020-01-15 13:42:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fdmZ0wxcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fdmZ0wxcL._SL200_.jpg' ]

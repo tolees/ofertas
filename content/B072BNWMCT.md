@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.99165971643035 % en 'Mediterráneo-41193 FISICA Fisicanova  Ci'
+title: 'Descuento del 69.99165971643035 % en Mediterráneo-41193 FISICA Fisicanova  Ci'
 date: 2019/11/28 19:16:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DDlC1uVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DDlC1uVGL._SL200_.jpg' ]

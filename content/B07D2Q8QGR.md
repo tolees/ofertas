@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Cotton Pique Crew  suéter Hombre  G' al 34.883720930232556 % de descuento
+title: 'Gant Cotton Pique Crew  suéter Hombre  G al 34.883720930232556 % de descuento'
 date: 2020-01-09 06:19:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cqysEOx-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cqysEOx-L._SL200_.jpg' ]

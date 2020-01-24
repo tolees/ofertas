@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.013192612137193 % en 'Berydale Camiseta de manga larga de muje'
+title: 'Descuento del 25.013192612137193 % en Berydale Camiseta de manga larga de muje'
 date: 2019/12/08 02:11:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QL2YstjlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QL2YstjlL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Life Basis 6L CD-4862 - Limpiador digita' al 71.21074290664934 % de descuento
+title: 'Life Basis 6L CD-4862 - Limpiador digita al 71.21074290664934 % de descuento'
 date: 2019/12/06 17:27:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rxCrzZtGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rxCrzZtGL._SL200_.jpg' ]

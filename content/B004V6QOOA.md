@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.35564853556485 % en 'Saica Hinchable  Azul'
+title: 'Descuento del 35.35564853556485 % en Saica Hinchable  Azul'
 date: 2019/12/28 20:15:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S0sAHKyPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S0sAHKyPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett Archive Quad Polo   Navy/Sky 5DA' al 37.011281100293616 % de descuento
+title: 'Hackett Archive Quad Polo   Navy/Sky 5DA al 37.011281100293616 % de descuento'
 date: 2019/11/20 09:44:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u-dfLw9lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u-dfLw9lL._SL200_.jpg' ]

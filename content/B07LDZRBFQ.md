@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.55150040551501 % en 'Timbre Inalámbrico  Timbre de Puerta de '
+title: 'Descuento del 40.55150040551501 % en Timbre Inalámbrico  Timbre de Puerta de '
 date: 2019/11/30 17:51:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mQRAxwRVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mQRAxwRVL._SL200_.jpg' ]

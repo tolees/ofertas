@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Discovery W  Zapatillas de Tr' al 57.808094588449286 % de descuento
+title: 'Salomon XA Discovery W  Zapatillas de Tr al 57.808094588449286 % de descuento'
 date: 2019/11/13 21:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QMQ9yE5gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QMQ9yE5gL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.04300430043003 % en 'Sorel Newbie  Botas para Mujer  Marrón  '
+title: 'Descuento del 30.04300430043003 % en Sorel Newbie  Botas para Mujer  Marrón  '
 date: 2020-01-05 19:08:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cOMxcgpWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cOMxcgpWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jcosneak Light Jacket Chaqu' al 57.49149829965994 % de descuento
+title: 'JACK & JONES Jcosneak Light Jacket Chaqu al 57.49149829965994 % de descuento'
 date: 2019/10/10 09:07:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GXBRyBjtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GXBRyBjtL._SL200_.jpg' ]

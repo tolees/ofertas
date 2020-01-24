@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.031289111389242 % en 'Medallero Colgador de Medallas - Porta M'
+title: 'Descuento del 25.031289111389242 % en Medallero Colgador de Medallas - Porta M'
 date: 2020-01-22 18:50:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61hbPk7Bg8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61hbPk7Bg8L._SL200_.jpg' ]

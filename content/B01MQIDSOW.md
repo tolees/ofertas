@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.32573652028906 % en 'Lee Scarlett Cropped  Jeans Mujer  Negro'
+title: 'Descuento del 66.32573652028906 % en Lee Scarlett Cropped  Jeans Mujer  Negro'
 date: 2019/10/08 19:20:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg' ]

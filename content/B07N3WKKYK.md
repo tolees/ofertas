@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HKT by Hackett London Hkt Hoody Capucha ' al 54.78651685393259 % de descuento
+title: 'HKT by Hackett London Hkt Hoody Capucha  al 54.78651685393259 % de descuento'
 date: 2019/12/06 08:45:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dLjL06qpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dLjL06qpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CLUB CUBANA Camisa Hawaiana Florar Casua' al 56.85228409469823 % de descuento
+title: 'CLUB CUBANA Camisa Hawaiana Florar Casua al 56.85228409469823 % de descuento'
 date: 2020-01-20 16:05:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-DE%2BOwh0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-DE%2BOwh0L._SL200_.jpg' ]

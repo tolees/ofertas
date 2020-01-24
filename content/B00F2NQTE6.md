@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bellota 6457-9 P juego llaves allen pavo' al 26.726342710997443 % de descuento
+title: 'Bellota 6457-9 P juego llaves allen pavo al 26.726342710997443 % de descuento'
 date: 2019/10/12 15:51:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ay%2BZOeKFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ay%2BZOeKFL._SL200_.jpg' ]

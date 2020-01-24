@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Seven J Chaqueta  Mujer  ' al 55.91818181818182 % de descuento
+title: 'Helly Hansen W Seven J Chaqueta  Mujer   al 55.91818181818182 % de descuento'
 date: 2019/11/29 18:32:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zTrjwl1FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zTrjwl1FL._SL200_.jpg' ]

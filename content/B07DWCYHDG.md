@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parque Jurásico 1-5 [Blu-ray]' al 49.96245306633293 % de descuento
+title: 'Parque Jurásico 1-5 [Blu-ray] al 49.96245306633293 % de descuento'
 date: 2019/11/26 22:02:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CQrOPTxIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CQrOPTxIL._SL200_.jpg' ]

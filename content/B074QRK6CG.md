@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose SoundLink On-Ear Auriculares extern' al 44.99124781195298 % de descuento
+title: 'Bose SoundLink On-Ear Auriculares extern al 44.99124781195298 % de descuento'
 date: 2019/11/30 12:46:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zMcGsIsXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zMcGsIsXL._SL200_.jpg' ]

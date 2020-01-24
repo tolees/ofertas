@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AURIQUE Velour Panel Mallas de entrenami' al 40.0 % de descuento
+title: 'AURIQUE Velour Panel Mallas de entrenami al 40.0 % de descuento'
 date: 2019/11/16 12:02:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qYSQwD8mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qYSQwD8mL._SL200_.jpg' ]

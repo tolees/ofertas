@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LUDOS Clamor Auriculares con Micrófono y' al 43.66666666666668 % de descuento
+title: 'LUDOS Clamor Auriculares con Micrófono y al 43.66666666666668 % de descuento'
 date: 2019/12/24 09:50:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ANlSNjDcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ANlSNjDcL._SL200_.jpg' ]

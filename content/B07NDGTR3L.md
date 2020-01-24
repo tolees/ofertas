@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.876543209876544 % en 'Saucony Freedom ISO 2  Zapatillas de Run'
+title: 'Descuento del 59.876543209876544 % en Saucony Freedom ISO 2  Zapatillas de Run'
 date: 2019/10/08 16:23:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xoQjfvO9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xoQjfvO9L._SL200_.jpg' ]

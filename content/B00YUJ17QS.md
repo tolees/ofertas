@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.97674418604652 % en 'Brooks Brothers Dress Non-Iron Botton Do'
+title: 'Descuento del 66.97674418604652 % en Brooks Brothers Dress Non-Iron Botton Do'
 date: 2019/10/14 13:01:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GqQEkBsVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GqQEkBsVL._SL200_.jpg' ]

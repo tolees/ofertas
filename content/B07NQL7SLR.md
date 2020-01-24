@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 3Ba Basica Capucha Abierta S' al 42.32397075798383 % de descuento
+title: 'Springfield 3Ba Basica Capucha Abierta S al 42.32397075798383 % de descuento'
 date: 2020-01-16 20:03:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qiL2RqDvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qiL2RqDvL._SL200_.jpg' ]

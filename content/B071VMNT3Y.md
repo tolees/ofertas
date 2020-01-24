@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grupo Erik Editores Premium - Carpeta tr' al 57.861635220125784 % de descuento
+title: 'Grupo Erik Editores Premium - Carpeta tr al 57.861635220125784 % de descuento'
 date: 2019/10/26 17:24:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gcio4SGQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gcio4SGQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.001200030000746 % en 'TerraMaster F2-221 Caja de Servidor NAS '
+title: 'Descuento del 48.001200030000746 % en TerraMaster F2-221 Caja de Servidor NAS '
 date: 2019/11/29 20:15:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TA4pzzreL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TA4pzzreL._SL200_.jpg' ]

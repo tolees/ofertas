@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Men s SH6342 Sweatshirt  Black  ' al 70.0 % de descuento
+title: 'Lacoste Men s SH6342 Sweatshirt  Black   al 70.0 % de descuento'
 date: 2019/12/07 08:23:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fui65RU6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fui65RU6L._SL200_.jpg' ]

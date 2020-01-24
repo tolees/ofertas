@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tepro Toronto Click 2019 - Barbacoa de c' al 28.681912127475172 % de descuento
+title: 'Tepro Toronto Click 2019 - Barbacoa de c al 28.681912127475172 % de descuento'
 date: 2019/11/02 09:38:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D28mtDdDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D28mtDdDL._SL200_.jpg' ]

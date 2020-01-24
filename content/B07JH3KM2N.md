@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.36683417085427 % en 'Pepe Jeans Nuria Pg502216 Camiseta   Opt'
+title: 'Descuento del 53.36683417085427 % en Pepe Jeans Nuria Pg502216 Camiseta   Opt'
 date: 2019/10/06 20:22:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21-KtXgPMcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21-KtXgPMcL._SL200_.jpg' ]

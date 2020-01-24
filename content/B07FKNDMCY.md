@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.41964827167981 % en 'Trangoworld Ripera Chaqueta  Hombre  Neg'
+title: 'Descuento del 42.41964827167981 % en Trangoworld Ripera Chaqueta  Hombre  Neg'
 date: 2019/10/31 15:37:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SUIjU8BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SUIjU8BDL._SL200_.jpg' ]

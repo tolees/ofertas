@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'León 1947 Apparel Sport Fight Activewear' al 68.65756541524459 % de descuento
+title: 'León 1947 Apparel Sport Fight Activewear al 68.65756541524459 % de descuento'
 date: 2019/11/07 08:49:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JuQlpzBbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JuQlpzBbL._SL200_.jpg' ]

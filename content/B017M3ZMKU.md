@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack 10 OSCAR a la Mejor Película de Hab' al 49.96245306633293 % de descuento
+title: 'Pack 10 OSCAR a la Mejor Película de Hab al 49.96245306633293 % de descuento'
 date: 2019/12/14 14:47:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GbQVGkZzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GbQVGkZzL._SL200_.jpg' ]

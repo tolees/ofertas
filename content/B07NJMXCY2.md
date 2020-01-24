@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.099250992509926 % en 'Lenovo Yoga 530-14IKB  Portátil táctil C'
+title: 'Descuento del 25.099250992509926 % en Lenovo Yoga 530-14IKB  Portátil táctil C'
 date: 2020-01-06 18:50:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HE62SO28L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HE62SO28L._SL200_.jpg' ]

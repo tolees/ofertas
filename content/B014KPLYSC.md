@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Tube de Resistencia - Pesado' al 33.62241494329553 % de descuento
+title: 'Reebok Tube de Resistencia - Pesado al 33.62241494329553 % de descuento'
 date: 2020-01-03 00:36:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41liw2Pyo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41liw2Pyo2L._SL200_.jpg' ]

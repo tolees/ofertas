@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mujer Plisada EláStica Escuela Skorts Te' al 41.949015811552115 % de descuento
+title: 'Mujer Plisada EláStica Escuela Skorts Te al 41.949015811552115 % de descuento'
 date: 2019/11/27 20:44:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GJiP3niUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GJiP3niUL._SL200_.jpg' ]

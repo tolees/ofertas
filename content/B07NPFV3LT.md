@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.02859185132237 % en 'Skechers Elite Flex-Lochbay  Zapatillas '
+title: 'Descuento del 40.02859185132237 % en Skechers Elite Flex-Lochbay  Zapatillas '
 date: 2019/12/23 20:04:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-VjcUysNL._SL200_.jpg' ]

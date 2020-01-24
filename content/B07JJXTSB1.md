@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cepillo de Dientes Eléctrico Sónico ATMO' al 25.00694637399279 % de descuento
+title: 'Cepillo de Dientes Eléctrico Sónico ATMO al 25.00694637399279 % de descuento'
 date: 2019/10/05 12:04:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JsyRXdPvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JsyRXdPvL._SL200_.jpg' ]

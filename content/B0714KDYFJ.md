@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trilogía X-Men Precuela Blu-Ray [Blu-ray' al 43.597262952101666 % de descuento
+title: 'Trilogía X-Men Precuela Blu-Ray [Blu-ray al 43.597262952101666 % de descuento'
 date: 2020-01-08 19:12:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R4V9BP1UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R4V9BP1UL._SL200_.jpg' ]

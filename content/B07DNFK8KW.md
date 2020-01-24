@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calcetines de Tenis Performance Crew 3 P' al 50.09633911368015 % de descuento
+title: 'Calcetines de Tenis Performance Crew 3 P al 50.09633911368015 % de descuento'
 date: 2020-01-13 18:43:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OJt9veLgL._SL200_.jpg' ]

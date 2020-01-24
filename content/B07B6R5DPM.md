@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.020013342228147 % en 'IRIS & LILLY Tanga de Tira con Flores Mu'
+title: 'Descuento del 30.020013342228147 % en IRIS & LILLY Tanga de Tira con Flores Mu'
 date: 2019/12/07 17:25:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317qOT2HVmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317qOT2HVmL._SL200_.jpg' ]

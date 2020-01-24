@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UGREEN Lector Tarjetas SD  USB 3.0 Lecto' al 42.1274354923644 % de descuento
+title: 'UGREEN Lector Tarjetas SD  USB 3.0 Lecto al 42.1274354923644 % de descuento'
 date: 2020-01-06 20:54:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ID4wF0MnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ID4wF0MnL._SL200_.jpg' ]

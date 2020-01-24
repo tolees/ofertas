@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.51237809452363 % en 'Playmobil 6692 Super 4 Techno Chameleon '
+title: 'Descuento del 49.51237809452363 % en Playmobil 6692 Super 4 Techno Chameleon '
 date: 2020-01-24 09:45:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CEZEXS%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CEZEXS%2BiL._SL200_.jpg' ]

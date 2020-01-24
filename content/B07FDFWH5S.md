@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'My Little Pony 5410 Vestido  Azul  Bleu ' al 29.879101899827297 % de descuento
+title: 'My Little Pony 5410 Vestido  Azul  Bleu  al 29.879101899827297 % de descuento'
 date: 2020-01-15 09:22:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xczKET0RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xczKET0RL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.98109010011125 % en 'Geox U Walee A  Zapatillas para Hombre  '
+title: 'Descuento del 72.98109010011125 % en Geox U Walee A  Zapatillas para Hombre  '
 date: 2020-01-12 13:47:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419CJAXGmsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419CJAXGmsL._SL200_.jpg' ]

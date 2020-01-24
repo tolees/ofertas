@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 75.86967041238776 % en 'GSC Evolution GS2868 Split Calefaccion c'
+title: 'Descuento del 75.86967041238776 % en GSC Evolution GS2868 Split Calefaccion c'
 date: 2019/10/22 18:43:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21TU1LNRbFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21TU1LNRbFL._SL200_.jpg' ]

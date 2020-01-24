@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.60550458715597 % en 'HP LaserJet Pro M102w - Impresora láser '
+title: 'Descuento del 26.60550458715597 % en HP LaserJet Pro M102w - Impresora láser '
 date: 2020-01-10 23:27:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ne9eRD2dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ne9eRD2dL._SL200_.jpg' ]

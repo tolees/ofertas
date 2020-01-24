@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.8978978978979 % en 'Tommy Hilfiger Slim Bleecker Chino Gmd F'
+title: 'Descuento del 57.8978978978979 % en Tommy Hilfiger Slim Bleecker Chino Gmd F'
 date: 2019/11/01 04:48:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310pwWB0RGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310pwWB0RGL._SL200_.jpg' ]

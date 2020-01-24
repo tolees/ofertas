@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Speed Stride Tank Camiseta ' al 63.92857142857142 % de descuento
+title: 'Under Armour Speed Stride Tank Camiseta  al 63.92857142857142 % de descuento'
 date: 2019/11/07 17:52:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pYrol5GEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pYrol5GEL._SL200_.jpg' ]

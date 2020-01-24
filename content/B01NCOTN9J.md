@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Royal Complete CLN  Zapatillas de' al 25.34534534534535 % de descuento
+title: 'Reebok Royal Complete CLN  Zapatillas de al 25.34534534534535 % de descuento'
 date: 2019/12/02 11:25:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VO4B3W14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VO4B3W14L._SL200_.jpg' ]

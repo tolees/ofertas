@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.670222696359502 % en 'LEGO 41167 Disney Frozen II Arendelle Ca'
+title: 'Descuento del 26.670222696359502 % en LEGO 41167 Disney Frozen II Arendelle Ca'
 date: 2019/12/10 14:44:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BSUBzOoML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BSUBzOoML._SL200_.jpg' ]

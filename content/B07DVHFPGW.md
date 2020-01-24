@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Gobi  Zapatillas ' al 60.31818181818183 % de descuento
+title: 'New Balance Fresh Foam Gobi  Zapatillas  al 60.31818181818183 % de descuento'
 date: 2019/11/18 13:17:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iwXQ4ppnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iwXQ4ppnL._SL200_.jpg' ]

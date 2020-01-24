@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Rocket 9  Zapatillas de Deport' al 30.000000000000004 % de descuento
+title: 'Asics Gel-Rocket 9  Zapatillas de Deport al 30.000000000000004 % de descuento'
 date: 2019/12/26 21:39:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erzCJGHOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erzCJGHOL._SL200_.jpg' ]

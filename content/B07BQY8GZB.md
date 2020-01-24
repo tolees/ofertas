@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2 Piezas de Altavoces Accesorios para Co' al 49.78854286812765 % de descuento
+title: '2 Piezas de Altavoces Accesorios para Co al 49.78854286812765 % de descuento'
 date: 2019/10/14 16:03:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UJADXIVyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UJADXIVyL._SL200_.jpg' ]

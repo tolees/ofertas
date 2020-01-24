@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calcetines de Algodón Mujer Calcetines T' al 41.393583994480856 % de descuento
+title: 'Calcetines de Algodón Mujer Calcetines T al 41.393583994480856 % de descuento'
 date: 2019/11/27 10:13:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z-5uJ61HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z-5uJ61HL._SL200_.jpg' ]

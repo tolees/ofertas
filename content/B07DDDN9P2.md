@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gormiti -  Figuras 25 cm de Acción Artic' al 49.983327775925304 % de descuento
+title: 'Gormiti -  Figuras 25 cm de Acción Artic al 49.983327775925304 % de descuento'
 date: 2019/11/27 10:43:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d7rzor7QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d7rzor7QL._SL200_.jpg' ]

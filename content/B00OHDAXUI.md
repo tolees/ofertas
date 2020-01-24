@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Remilio SS  Camiseta de equipación' al 41.13636363636364 % de descuento
+title: 'Kappa Remilio SS  Camiseta de equipación al 41.13636363636364 % de descuento'
 date: 2019/10/09 11:00:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d-a8uY4vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d-a8uY4vL._SL200_.jpg' ]

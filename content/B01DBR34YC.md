@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.710444027517205 % en 'Clementoni 69945.2 The icequeen Kreativa'
+title: 'Descuento del 36.710444027517205 % en Clementoni 69945.2 The icequeen Kreativa'
 date: 2019/12/14 15:33:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YmxXqdpiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YmxXqdpiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.25414364640885 % en 'Riuty Bulbo del proyector de la Gota de '
+title: 'Descuento del 54.25414364640885 % en Riuty Bulbo del proyector de la Gota de '
 date: 2019/12/08 23:59:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ttAOely2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ttAOely2L._SL200_.jpg' ]

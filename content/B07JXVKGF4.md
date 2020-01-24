@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yale YUL3C/14/230/1 Maximum Defendor U -' al 37.81752203214101 % de descuento
+title: 'Yale YUL3C/14/230/1 Maximum Defendor U - al 37.81752203214101 % de descuento'
 date: 2019/11/27 00:52:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413SBM3jEuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413SBM3jEuL._SL200_.jpg' ]

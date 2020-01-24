@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Proficare HT 3009 - Secador de pelo de v' al 39.24623115577889 % de descuento
+title: 'Proficare HT 3009 - Secador de pelo de v al 39.24623115577889 % de descuento'
 date: 2019/10/18 00:44:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PSk60MDXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PSk60MDXL._SL200_.jpg' ]

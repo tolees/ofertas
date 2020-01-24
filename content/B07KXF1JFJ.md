@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lékué  Juego de cubiertos para llevar  A' al 26.434108527131784 % de descuento
+title: 'Lékué  Juego de cubiertos para llevar  A al 26.434108527131784 % de descuento'
 date: 2019/11/27 15:17:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21wibBa5dtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21wibBa5dtL._SL200_.jpg' ]

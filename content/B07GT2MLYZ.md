@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual - Bag Clio Yakarta Mini Women  ' al 44.50321658327376 % de descuento
+title: 'Desigual - Bag Clio Yakarta Mini Women   al 44.50321658327376 % de descuento'
 date: 2019/12/06 00:57:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bF%2BucK-RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bF%2BucK-RL._SL200_.jpg' ]

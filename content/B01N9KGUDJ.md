@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Royal Glide  Zapatillas de Trail ' al 46.928406466512705 % de descuento
+title: 'Reebok Royal Glide  Zapatillas de Trail  al 46.928406466512705 % de descuento'
 date: 2019/12/01 11:03:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dpSIA3E4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dpSIA3E4L._SL200_.jpg' ]

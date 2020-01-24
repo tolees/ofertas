@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Fal_Zita  Falda para Mujer    D' al 51.994281629735525 % de descuento
+title: 'Desigual Fal_Zita  Falda para Mujer    D al 51.994281629735525 % de descuento'
 date: 2019/11/20 07:01:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UjSm6xSyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UjSm6xSyL._SL200_.jpg' ]

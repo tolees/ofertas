@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zumba Burn it Up!' al 29.480614484272117 % de descuento
+title: 'Zumba Burn it Up! al 29.480614484272117 % de descuento'
 date: 2020-01-13 13:08:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510DoKcFP-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510DoKcFP-L._SL200_.jpg' ]

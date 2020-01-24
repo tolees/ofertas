@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'uhlsport Classic Pantalón de Entrenamien' al 63.48782927642548 % de descuento
+title: 'uhlsport Classic Pantalón de Entrenamien al 63.48782927642548 % de descuento'
 date: 2019/10/25 18:12:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hXLxQxXQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hXLxQxXQL._SL200_.jpg' ]

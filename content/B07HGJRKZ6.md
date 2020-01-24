@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Jeans - Satin Camera Bag  c' al 36.22033898305085 % de descuento
+title: 'Calvin Klein Jeans - Satin Camera Bag  c al 36.22033898305085 % de descuento'
 date: 2019/11/09 01:54:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tXXZ%2ByTpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tXXZ%2ByTpL._SL200_.jpg' ]

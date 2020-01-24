@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell 4513612 Taladro sin Cable TE-CD ' al 36.34379263301501 % de descuento
+title: 'Einhell 4513612 Taladro sin Cable TE-CD  al 36.34379263301501 % de descuento'
 date: 2019/12/07 11:58:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TVHY2exYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TVHY2exYL._SL200_.jpg' ]

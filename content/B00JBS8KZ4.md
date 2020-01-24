@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'uhlsport Match Classic - Chaqueta  Color' al 63.89558232931727 % de descuento
+title: 'uhlsport Match Classic - Chaqueta  Color al 63.89558232931727 % de descuento'
 date: 2019/12/16 08:01:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414TUgIoXiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414TUgIoXiL._SL200_.jpg' ]

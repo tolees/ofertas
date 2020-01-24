@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70041 - Astrid mit Fluganzug u' al 38.82896764252697 % de descuento
+title: 'Playmobil 70041 - Astrid mit Fluganzug u al 38.82896764252697 % de descuento'
 date: 2020-01-08 15:08:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Ug991L5hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Ug991L5hL._SL200_.jpg' ]

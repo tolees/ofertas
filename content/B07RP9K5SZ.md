@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LOHOTEK Guantes de Ciclismo de Bicicleta' al 35.31489111241907 % de descuento
+title: 'LOHOTEK Guantes de Ciclismo de Bicicleta al 35.31489111241907 % de descuento'
 date: 2019/12/03 20:04:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NNd7TTyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NNd7TTyBL._SL200_.jpg' ]

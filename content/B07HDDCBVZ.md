@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein High Waist Hipster Braguita' al 35.25 % de descuento
+title: 'Calvin Klein High Waist Hipster Braguita al 35.25 % de descuento'
 date: 2019/11/09 10:45:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n1G8QDgjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n1G8QDgjL._SL200_.jpg' ]

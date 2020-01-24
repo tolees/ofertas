@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.52811118130133 % en 'Trespass Neely II Jkt TP50 Chaqueta  niñ'
+title: 'Descuento del 58.52811118130133 % en Trespass Neely II Jkt TP50 Chaqueta  niñ'
 date: 2019/12/02 10:13:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xdiSlmCJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xdiSlmCJL._SL200_.jpg' ]

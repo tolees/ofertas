@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.03333333333333 % en 'Under Armour UA Speed Stride Shortsleeve'
+title: 'Descuento del 50.03333333333333 % en Under Armour UA Speed Stride Shortsleeve'
 date: 2019/11/26 19:58:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314TexBedsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314TexBedsL._SL200_.jpg' ]

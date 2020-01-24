@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D W  Zapatillas de Trail' al 32.689495959984605 % de descuento
+title: 'Salomon XA Pro 3D W  Zapatillas de Trail al 32.689495959984605 % de descuento'
 date: 2019/12/03 23:24:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bqchRFNOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bqchRFNOL._SL200_.jpg' ]

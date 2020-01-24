@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.004369356248176 % en 'Assassination Classroom Serie Completa B'
+title: 'Descuento del 45.004369356248176 % en Assassination Classroom Serie Completa B'
 date: 2019/11/22 00:28:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kqAyJPfbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kqAyJPfbL._SL200_.jpg' ]

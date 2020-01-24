@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.15646258503402 % en 'Compactor Funda de Almacenaje Extra Plan'
+title: 'Descuento del 66.15646258503402 % en Compactor Funda de Almacenaje Extra Plan'
 date: 2020-01-15 10:39:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vovFZ981L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vovFZ981L._SL200_.jpg' ]

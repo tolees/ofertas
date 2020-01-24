@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.585040495474022 % en 'LEGO Minecraft - BigFig: Cerdo con Bebé '
+title: 'Descuento del 28.585040495474022 % en LEGO Minecraft - BigFig: Cerdo con Bebé '
 date: 2020-01-24 16:16:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Q2DDKbzpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Q2DDKbzpL._AC_._SL200_.jpg' ]

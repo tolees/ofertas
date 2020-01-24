@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIFA 20 - Standard Edition - PlayStation' al 29.56509216589862 % de descuento
+title: 'FIFA 20 - Standard Edition - PlayStation al 29.56509216589862 % de descuento'
 date: 2019/11/17 19:55:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QsRs-LAuL._SL200_.jpg' ]

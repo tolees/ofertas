@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Jersey con Cuello Polo de Mezcla d' al 52.733333333333334 % de descuento
+title: 'find. Jersey con Cuello Polo de Mezcla d al 52.733333333333334 % de descuento'
 date: 2019/12/10 13:17:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pJLjCfaKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pJLjCfaKL._SL200_.jpg' ]

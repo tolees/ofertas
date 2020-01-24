@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INTEY Correa Retráctil de Perro  Correa ' al 38.72216844143273 % de descuento
+title: 'INTEY Correa Retráctil de Perro  Correa  al 38.72216844143273 % de descuento'
 date: 2019/10/08 11:12:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bgFL3-6ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bgFL3-6ML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica K91010 Polo  Turquesa  Poolside ' al 59.20338983050848 % de descuento
+title: 'Nautica K91010 Polo  Turquesa  Poolside  al 59.20338983050848 % de descuento'
 date: 2019/10/24 19:30:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pTeB0rOHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pTeB0rOHL._SL200_.jpg' ]

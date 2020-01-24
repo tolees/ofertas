@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 273589 Camisa Casual  Hombre' al 53.95131710570189 % de descuento
+title: 'Springfield 273589 Camisa Casual  Hombre al 53.95131710570189 % de descuento'
 date: 2019/11/05 19:28:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417XUi4vcOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417XUi4vcOL._SL200_.jpg' ]

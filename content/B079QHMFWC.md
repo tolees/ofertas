@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fire TV Stick 4K Ultra HD mit Alexa-Spra' al 50.00833472245374 % de descuento
+title: 'Fire TV Stick 4K Ultra HD mit Alexa-Spra al 50.00833472245374 % de descuento'
 date: 2019/12/19 00:21:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ixcs-oR3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ixcs-oR3L._SL200_.jpg' ]

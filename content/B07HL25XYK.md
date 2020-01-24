@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.25575101488497 % en 'Amazon Essentials - Pantalón de chándal '
+title: 'Descuento del 49.25575101488497 % en Amazon Essentials - Pantalón de chándal '
 date: 2019/10/26 18:07:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RIH8y8OjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RIH8y8OjL._SL200_.jpg' ]

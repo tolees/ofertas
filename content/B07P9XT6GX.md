@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lower East LE133  Camisa Manga Larga Hom' al 25.006257822277856 % de descuento
+title: 'Lower East LE133  Camisa Manga Larga Hom al 25.006257822277856 % de descuento'
 date: 2019/12/22 14:07:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nr7XXGzOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nr7XXGzOL._SL200_.jpg' ]

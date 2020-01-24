@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Silk-épil 3 3-410 - Depiladora Elé' al 31.73862310385064 % de descuento
+title: 'Braun Silk-épil 3 3-410 - Depiladora Elé al 31.73862310385064 % de descuento'
 date: 2019/12/05 17:14:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c8JgmtrcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c8JgmtrcL._SL200_.jpg' ]

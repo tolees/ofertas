@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.98748435544431 % en 'Wrangler SS Stripe Polo  Blanco  White 9'
+title: 'Descuento del 49.98748435544431 % en Wrangler SS Stripe Polo  Blanco  White 9'
 date: 2019/10/23 18:37:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315cAV2XlpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315cAV2XlpL._SL200_.jpg' ]

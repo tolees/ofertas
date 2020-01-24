@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.84375 % en 'Urban Leather  Chaqueta para Mujer  Marr'
+title: 'Descuento del 72.84375 % en Urban Leather  Chaqueta para Mujer  Marr'
 date: 2019/11/09 19:37:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DKtE0l0dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DKtE0l0dL._SL200_.jpg' ]

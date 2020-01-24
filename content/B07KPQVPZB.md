@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Shield Hoodie Capucha  Verde  Field' al 29.32293229322932 % de descuento
+title: 'Gant Shield Hoodie Capucha  Verde  Field al 29.32293229322932 % de descuento'
 date: 2019/11/13 21:44:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Wz6sj6KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Wz6sj6KL._SL200_.jpg' ]

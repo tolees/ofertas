@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.73941233273554 % en 'Under Armour UA Speedform Amp 2.0  Zapat'
+title: 'Descuento del 60.73941233273554 % en Under Armour UA Speedform Amp 2.0  Zapat'
 date: 2019/10/29 16:42:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hi9j5DIFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hi9j5DIFL._SL200_.jpg' ]

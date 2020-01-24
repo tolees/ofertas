@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Pantalón Slim Estilo Chino para Ho'
+title: 'Descuento del 70.0 % en find. Pantalón Slim Estilo Chino para Ho'
 date: 2019/10/08 20:25:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gnNH3XckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gnNH3XckL._SL200_.jpg' ]

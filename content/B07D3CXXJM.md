@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange 8nzj13 Vaqueros Slim  Ne' al 51.03472465801473 % de descuento
+title: 'Armani Exchange 8nzj13 Vaqueros Slim  Ne al 51.03472465801473 % de descuento'
 date: 2019/11/22 14:08:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wBLwysYaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wBLwysYaL._SL200_.jpg' ]

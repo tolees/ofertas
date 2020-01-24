@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.264150943396224 % en 'Nike Air MAX 90 Leather  Zapatillas para'
+title: 'Descuento del 62.264150943396224 % en Nike Air MAX 90 Leather  Zapatillas para'
 date: 2019/11/26 12:23:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XHHJRV31L._SL200_.jpg' ]

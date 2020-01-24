@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio Smart Watch Armbanduhr AE-1000W-1B' al 43.04609218436873 % de descuento
+title: 'Casio Smart Watch Armbanduhr AE-1000W-1B al 43.04609218436873 % de descuento'
 date: 2020-01-24 16:28:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CkCv4LBwL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CkCv4LBwL._AC_._SL200_.jpg' ]

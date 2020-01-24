@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.124031007751945 % en 'Napapijri BIBU FZH Sudadera  Gris  Med G'
+title: 'Descuento del 38.124031007751945 % en Napapijri BIBU FZH Sudadera  Gris  Med G'
 date: 2019/12/06 14:54:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416EoAj1zyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416EoAj1zyL._SL200_.jpg' ]

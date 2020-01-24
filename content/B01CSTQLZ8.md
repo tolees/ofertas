@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma 100053.331 - Pantalón de equipación' al 27.831325301204824 % de descuento
+title: 'Joma 100053.331 - Pantalón de equipación al 27.831325301204824 % de descuento'
 date: 2019/12/17 18:51:11 +0000
 thumbnailImage: ''
 images: [ '' ]

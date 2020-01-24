@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dickies Kerman Pantalones  Azul  Navy Bl' al 53.42372881355932 % de descuento
+title: 'dickies Kerman Pantalones  Azul  Navy Bl al 53.42372881355932 % de descuento'
 date: 2019/12/03 12:26:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312BE-ntnAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312BE-ntnAL._SL200_.jpg' ]

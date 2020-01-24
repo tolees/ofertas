@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.684210526315795 % en 'Lacoste L1264 Polo  Gris  Brochet Chiné '
+title: 'Descuento del 46.684210526315795 % en Lacoste L1264 Polo  Gris  Brochet Chiné '
 date: 2019/11/10 11:06:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VyN-q5ikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VyN-q5ikL._SL200_.jpg' ]

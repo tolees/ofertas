@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'jerryvon Mosaico Puzzle con Rejilla y Ta' al 46.6651845264562 % de descuento
+title: 'jerryvon Mosaico Puzzle con Rejilla y Ta al 46.6651845264562 % de descuento'
 date: 2019/11/15 12:41:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SL2nRgEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SL2nRgEWL._SL200_.jpg' ]

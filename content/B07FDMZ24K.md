@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The walking dead  8ª temporada  [Blu-ray' al 38.44574780058652 % de descuento
+title: 'The walking dead  8ª temporada  [Blu-ray al 38.44574780058652 % de descuento'
 date: 2019/11/26 19:25:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QffScnuNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QffScnuNL._SL200_.jpg' ]

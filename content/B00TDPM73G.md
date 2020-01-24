@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versa 19500603 Taburete Pie de Cama Roma' al 35.54166666666666 % de descuento
+title: 'Versa 19500603 Taburete Pie de Cama Roma al 35.54166666666666 % de descuento'
 date: 2019/10/05 08:43:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51o0qsmuznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51o0qsmuznL._SL200_.jpg' ]

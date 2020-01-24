@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.3479773814702 % en 'HP Impresora PageWide Pro 452dw - Impres'
+title: 'Descuento del 40.3479773814702 % en HP Impresora PageWide Pro 452dw - Impres'
 date: 2019/10/25 14:13:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZfyRXkxiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZfyRXkxiL._SL200_.jpg' ]

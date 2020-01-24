@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Accesorios para Gopro Kit Accesorios Cam' al 25.01563477173233 % de descuento
+title: 'Accesorios para Gopro Kit Accesorios Cam al 25.01563477173233 % de descuento'
 date: 2019/11/11 18:09:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ORzrJ1zmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ORzrJ1zmL._SL200_.jpg' ]

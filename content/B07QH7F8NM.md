@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.469149527515285 % en 'AmazonBasics - Cargador de pilas USB ráp'
+title: 'Descuento del 44.469149527515285 % en AmazonBasics - Cargador de pilas USB ráp'
 date: 2020-01-11 22:58:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EaVrs0hHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EaVrs0hHL._SL200_.jpg' ]

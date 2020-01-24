@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.456432054006754 % en 'Under Armour Move Graphic Pant Pantalone'
+title: 'Descuento del 51.456432054006754 % en Under Armour Move Graphic Pant Pantalone'
 date: 2019/12/16 02:02:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ivnq8gOEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ivnq8gOEL._SL200_.jpg' ]

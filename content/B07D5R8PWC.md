@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.19132369299222 % en 'Puma ESS Logo Crew TR Sweatshirt  Mujer '
+title: 'Descuento del 52.19132369299222 % en Puma ESS Logo Crew TR Sweatshirt  Mujer '
 date: 2019/11/23 13:46:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314a35IRXnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314a35IRXnL._SL200_.jpg' ]

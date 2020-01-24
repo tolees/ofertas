@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Umbra Skinny Waste Bin - Sleek  Stylish '
+title: 'Descuento del 50.0 % en Umbra Skinny Waste Bin - Sleek  Stylish '
 date: 2020-01-16 09:00:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W8hLt0atL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W8hLt0atL._SL200_.jpg' ]

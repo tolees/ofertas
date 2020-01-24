@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D.Vinity Kit de Belleza Ultra Soft - 3 P' al 52.258064516129025 % de descuento
+title: 'D.Vinity Kit de Belleza Ultra Soft - 3 P al 52.258064516129025 % de descuento'
 date: 2020-01-04 21:35:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YdcvipctL._SL200_.jpg' ]

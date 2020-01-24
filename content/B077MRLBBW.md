@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUBG - Playerunknown s Battlegrounds  Có' al 79.99333111037012 % de descuento
+title: 'PUBG - Playerunknown s Battlegrounds  Có al 79.99333111037012 % de descuento'
 date: 2019/11/10 11:41:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M8KD3p-8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M8KD3p-8L._SL200_.jpg' ]

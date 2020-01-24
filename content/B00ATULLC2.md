@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.23668639053255 % en 'Invicta 14397 Angel Reloj para Mujer ace'
+title: 'Descuento del 60.23668639053255 % en Invicta 14397 Angel Reloj para Mujer ace'
 date: 2019/12/20 01:25:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UyQ2FsEjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UyQ2FsEjL._SL200_.jpg' ]

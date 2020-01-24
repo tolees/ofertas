@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.74037018509255 % en 'Clarks Tri Chloe  Sandalias de Talón Abi'
+title: 'Descuento del 60.74037018509255 % en Clarks Tri Chloe  Sandalias de Talón Abi'
 date: 2019/10/21 10:45:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3123FLOSl9L._SL200_.jpg' ]

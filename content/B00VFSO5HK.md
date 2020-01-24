@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Emotion Cazadora con Capucha  Muje' al 53.10850439882698 % de descuento
+title: 'Kempa Emotion Cazadora con Capucha  Muje al 53.10850439882698 % de descuento'
 date: 2019/11/26 14:11:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hiPi4GmmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hiPi4GmmL._SL200_.jpg' ]

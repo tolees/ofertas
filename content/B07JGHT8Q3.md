@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tamaris 1-1-24230-32 001  Mocasines para' al 82.06216830932524 % de descuento
+title: 'Tamaris 1-1-24230-32 001  Mocasines para al 82.06216830932524 % de descuento'
 date: 2019/11/11 07:58:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ERDrowJqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ERDrowJqL._SL200_.jpg' ]

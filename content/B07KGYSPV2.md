@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA GL Foundation SS T Camis' al 51.96153846153846 % de descuento
+title: 'Under Armour UA GL Foundation SS T Camis al 51.96153846153846 % de descuento'
 date: 2019/12/20 12:55:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XEiEMKyeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XEiEMKyeL._SL200_.jpg' ]

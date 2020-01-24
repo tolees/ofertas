@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Techniques  Brocha para Maquillaje ' al 69.0909090909091 % de descuento
+title: 'Real Techniques  Brocha para Maquillaje  al 69.0909090909091 % de descuento'
 date: 2019/12/26 10:55:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UxJB6XpML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UxJB6XpML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.33736144678723 % en 'Powerextra Vigilabebé Bebé Monitor Intel'
+title: 'Descuento del 48.33736144678723 % en Powerextra Vigilabebé Bebé Monitor Intel'
 date: 2019/11/27 11:55:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X9NoPVHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X9NoPVHxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.590568060021425 % en 'La Croquetera - Color Azul - utensilio M'
+title: 'Descuento del 53.590568060021425 % en La Croquetera - Color Azul - utensilio M'
 date: 2019/10/10 14:28:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kGdpjESaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kGdpjESaL._SL200_.jpg' ]

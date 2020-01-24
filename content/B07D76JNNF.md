@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.6 % en 'Levi s 510 Skinny Fit  Vaqueros para Hom'
+title: 'Descuento del 42.6 % en Levi s 510 Skinny Fit  Vaqueros para Hom'
 date: 2019/11/29 15:06:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AXGrD3XJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AXGrD3XJL._SL200_.jpg' ]

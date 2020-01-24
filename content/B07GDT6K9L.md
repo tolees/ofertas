@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rowenta CF3212F0 - Tenacillas para rizar' al 26.33015006821282 % de descuento
+title: 'Rowenta CF3212F0 - Tenacillas para rizar al 26.33015006821282 % de descuento'
 date: 2019/10/27 15:41:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21GBazFUfjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21GBazFUfjL._SL200_.jpg' ]

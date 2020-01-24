@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Loke Chaqueta  Hombre  L' al 42.06999999999999 % de descuento
+title: 'Helly Hansen Loke Chaqueta  Hombre  L al 42.06999999999999 % de descuento'
 date: 2019/11/21 19:51:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Foj8V2m9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Foj8V2m9L._SL200_.jpg' ]

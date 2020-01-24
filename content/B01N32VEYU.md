@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Joratlas Knit Crew Neck sué' al 67.55364806866953 % de descuento
+title: 'JACK & JONES Joratlas Knit Crew Neck sué al 67.55364806866953 % de descuento'
 date: 2019/11/13 16:14:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q04w5B0uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q04w5B0uL._SL200_.jpg' ]

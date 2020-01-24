@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.99999999999999 % en 'FOREO UFO mini - Tratamineto de Mascaril'
+title: 'Descuento del 44.99999999999999 % en FOREO UFO mini - Tratamineto de Mascaril'
 date: 2020-01-07 08:38:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u1q0uhYVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u1q0uhYVL._SL200_.jpg' ]

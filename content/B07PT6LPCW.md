@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURLa Dolce Vita Sweater Sudadera  M' al 59.56300969379904 % de descuento
+title: 'RIP CURLa Dolce Vita Sweater Sudadera  M al 59.56300969379904 % de descuento'
 date: 2019/11/07 15:24:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n46YJV-EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n46YJV-EL._SL200_.jpg' ]

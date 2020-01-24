@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.099999999999994 % en 'Under Armour - Camiseta de Manga Larga p'
+title: 'Descuento del 35.099999999999994 % en Under Armour - Camiseta de Manga Larga p'
 date: 2019/10/29 10:36:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XIufAtrAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XIufAtrAL._SL200_.jpg' ]

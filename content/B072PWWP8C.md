@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.4054054054054 % en 'Pepa Loves Lucinda Dress Black Vestido C'
+title: 'Descuento del 83.4054054054054 % en Pepa Loves Lucinda Dress Black Vestido C'
 date: 2019/11/09 15:53:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a29gaKZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a29gaKZML._SL200_.jpg' ]

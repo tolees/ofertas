@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Midge Saddle Mid Waist Bootcu' al 64.64232116058028 % de descuento
+title: 'G-STAR RAW Midge Saddle Mid Waist Bootcu al 64.64232116058028 % de descuento'
 date: 2020-01-19 18:55:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CDUZQExOL._SL200_.jpg' ]

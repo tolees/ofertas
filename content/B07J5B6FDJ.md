@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'amzdeal - 10pcs Organizadores de Zapatos' al 52.71757252417473 % de descuento
+title: 'amzdeal - 10pcs Organizadores de Zapatos al 52.71757252417473 % de descuento'
 date: 2019/10/26 07:12:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iiVwcWzlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iiVwcWzlL._SL200_.jpg' ]

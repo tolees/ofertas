@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q-Man Pokemon Bulbasaur Figure Set  Bric' al 46.48809523809524 % de descuento
+title: 'Q-Man Pokemon Bulbasaur Figure Set  Bric al 46.48809523809524 % de descuento'
 date: 2019/12/05 05:11:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T7v8BudOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T7v8BudOL._SL200_.jpg' ]

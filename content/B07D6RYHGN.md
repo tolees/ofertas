@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.55424467812261 % en 'yoptote Dinosaurios Juguetes Set Tyranno'
+title: 'Descuento del 61.55424467812261 % en yoptote Dinosaurios Juguetes Set Tyranno'
 date: 2019/11/29 13:07:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512BCo-aJAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512BCo-aJAL._SL200_.jpg' ]

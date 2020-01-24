@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'All-new Fire HD 10 Kids Edition Tablet |' al 32.50162508125406 % de descuento
+title: 'All-new Fire HD 10 Kids Edition Tablet | al 32.50162508125406 % de descuento'
 date: 2019/11/23 20:03:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i-qcbUWwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i-qcbUWwL._SL200_.jpg' ]

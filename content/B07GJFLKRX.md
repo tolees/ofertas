@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chicco Next2me - Cuna de colecho con anc' al 28.14070351758794 % de descuento
+title: 'Chicco Next2me - Cuna de colecho con anc al 28.14070351758794 % de descuento'
 date: 2019-12-31 23:06:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BP%2BNaBI5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BP%2BNaBI5L._SL200_.jpg' ]

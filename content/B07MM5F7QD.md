@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.44602422327541 % en 'Ferilinso Funda para Xiaomi Redmi Note 7'
+title: 'Descuento del 47.44602422327541 % en Ferilinso Funda para Xiaomi Redmi Note 7'
 date: 2020-01-19 08:58:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51948uYR1HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51948uYR1HL._SL200_.jpg' ]

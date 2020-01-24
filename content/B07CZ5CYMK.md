@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Trailster GTX  Zapatillas de Tra' al 51.92163401417258 % de descuento
+title: 'Salomon Trailster GTX  Zapatillas de Tra al 51.92163401417258 % de descuento'
 date: 2019/12/04 14:01:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410DWDazT6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410DWDazT6L._SL200_.jpg' ]

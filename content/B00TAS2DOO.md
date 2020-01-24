@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.446808510638306 % en 'Canon PIXMA PRO-10S Drucker  4800 x 2400'
+title: 'Descuento del 57.446808510638306 % en Canon PIXMA PRO-10S Drucker  4800 x 2400'
 date: 2019/11/16 12:29:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C9XmXHELL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C9XmXHELL._SL200_.jpg' ]

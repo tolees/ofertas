@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.012506253126553 % en 'Marvelights Luces de Cadena de Bolas Bat'
+title: 'Descuento del 25.012506253126553 % en Marvelights Luces de Cadena de Bolas Bat'
 date: 2019/12/30 13:14:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OX6OGRvRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OX6OGRvRL._SL200_.jpg' ]

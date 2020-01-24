@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chicco - Esterilizador microondas de has' al 32.82565130260521 % de descuento
+title: 'Chicco - Esterilizador microondas de has al 32.82565130260521 % de descuento'
 date: 2020-01-02 19:25:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eIm9lppFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eIm9lppFL._SL200_.jpg' ]

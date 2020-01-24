@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Willful Pulsera Actividad  Pulsera Activ' al 41.276393078266395 % de descuento
+title: 'Willful Pulsera Actividad  Pulsera Activ al 41.276393078266395 % de descuento'
 date: 2019/12/09 08:04:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t5K4mx2hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t5K4mx2hL._SL200_.jpg' ]

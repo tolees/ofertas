@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tablet 10 Pulgadas 4G Android 9.0 IPS HD' al 76.0025 % de descuento
+title: 'Tablet 10 Pulgadas 4G Android 9.0 IPS HD al 76.0025 % de descuento'
 date: 2020-01-18 11:42:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f8-qYFwoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f8-qYFwoL._SL200_.jpg' ]

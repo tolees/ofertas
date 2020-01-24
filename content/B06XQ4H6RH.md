@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Fal_Anders Falda  Negro 2000  X' al 64.18870621872766 % de descuento
+title: 'Desigual Fal_Anders Falda  Negro 2000  X al 64.18870621872766 % de descuento'
 date: 2019/11/01 19:11:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419s9IDqQtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419s9IDqQtL._SL200_.jpg' ]

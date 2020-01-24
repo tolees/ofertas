@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CASIO Reloj Hombre de Digital con Correa' al 25.441265976871573 % de descuento
+title: 'CASIO Reloj Hombre de Digital con Correa al 25.441265976871573 % de descuento'
 date: 2019/11/03 20:50:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pP841hGvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pP841hGvL._SL200_.jpg' ]

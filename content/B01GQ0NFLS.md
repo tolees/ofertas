@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amzdeal Esterilla Acupresion Kit con Alm' al 29.737766964044344 % de descuento
+title: 'Amzdeal Esterilla Acupresion Kit con Alm al 29.737766964044344 % de descuento'
 date: 2019/12/11 11:59:29 +0000
 thumbnailImage: ''
 images: [ '' ]

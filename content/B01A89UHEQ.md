@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ibili 461024 - Olla con tapa  Aluminio f' al 40.05820875777219 % de descuento
+title: 'Ibili 461024 - Olla con tapa  Aluminio f al 40.05820875777219 % de descuento'
 date: 2019/11/15 15:27:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O9Zv8x9qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O9Zv8x9qL._SL200_.jpg' ]

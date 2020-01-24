@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Textil D Heritage B WHERITAGE2 - Sa' al 66.74057649667407 % de descuento
+title: 'Geox Textil D Heritage B WHERITAGE2 - Sa al 66.74057649667407 % de descuento'
 date: 2019/10/28 16:27:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fmAWh3i4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fmAWh3i4L._SL200_.jpg' ]

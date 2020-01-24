@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.760000000000005 % en 'Love Moschino Jc4003pp18la0000  Bolso ti'
+title: 'Descuento del 46.760000000000005 % en Love Moschino Jc4003pp18la0000  Bolso ti'
 date: 2019/11/02 09:27:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-00dYD5TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-00dYD5TL._SL200_.jpg' ]

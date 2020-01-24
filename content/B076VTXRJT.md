@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Bronson Mid-Waist Skinny Chin' al 81.60900375156315 % de descuento
+title: 'G-STAR RAW Bronson Mid-Waist Skinny Chin al 81.60900375156315 % de descuento'
 date: 2019/11/19 22:01:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317qI2FL5KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317qI2FL5KL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Chaqueta Stratos  Hombre ' al 36.28125 % de descuento
+title: 'The North Face Chaqueta Stratos  Hombre  al 36.28125 % de descuento'
 date: 2019/10/23 16:38:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-r4je24RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-r4je24RL._SL200_.jpg' ]

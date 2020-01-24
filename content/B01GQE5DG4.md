@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marantz CD6006/N1SG CD-Player  geeignet ' al 33.187082405345215 % de descuento
+title: 'Marantz CD6006/N1SG CD-Player  geeignet  al 33.187082405345215 % de descuento'
 date: 2019/12/14 12:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jDHNhzc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jDHNhzc3L._SL200_.jpg' ]

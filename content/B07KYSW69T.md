@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.989462592202315 % en 'AmazonBasics - Juego de fundas de edredó'
+title: 'Descuento del 39.989462592202315 % en AmazonBasics - Juego de fundas de edredó'
 date: 2020-01-21 19:35:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qG2PnpqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qG2PnpqAL._SL200_.jpg' ]

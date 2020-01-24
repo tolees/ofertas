@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lancome - Visionnaire Advanced Skin Corr' al 48.259608411892685 % de descuento
+title: 'Lancome - Visionnaire Advanced Skin Corr al 48.259608411892685 % de descuento'
 date: 2019/11/06 21:08:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21K1wJyUhkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21K1wJyUhkL._SL200_.jpg' ]

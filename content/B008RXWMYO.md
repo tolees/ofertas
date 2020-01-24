@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roberts Radio BluTune 200 Dab+ - Reprodu' al 32.207130730050935 % de descuento
+title: 'Roberts Radio BluTune 200 Dab+ - Reprodu al 32.207130730050935 % de descuento'
 date: 2019/10/19 13:56:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NHu6h5ZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NHu6h5ZaL._SL200_.jpg' ]

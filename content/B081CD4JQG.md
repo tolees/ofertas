@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geographical Norway Parka NIÑO Boomerang' al 33.70786516853933 % de descuento
+title: 'Geographical Norway Parka NIÑO Boomerang al 33.70786516853933 % de descuento'
 date: 2019/12/28 22:00:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GBU01K3yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GBU01K3yL._SL200_.jpg' ]

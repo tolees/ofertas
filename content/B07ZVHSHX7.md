@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weideworld [2 Pack Protector de Pantalla' al 61.97998946814113 % de descuento
+title: 'Weideworld [2 Pack Protector de Pantalla al 61.97998946814113 % de descuento'
 date: 2020-01-13 19:50:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vK77cWVPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vK77cWVPL._SL200_.jpg' ]

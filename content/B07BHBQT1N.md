@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.799764428739685 % en 'Kipling Firefly Up  Mochila para Mujer  '
+title: 'Descuento del 59.799764428739685 % en Kipling Firefly Up  Mochila para Mujer  '
 date: 2019/12/17 08:24:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BNwgPdIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BNwgPdIJL._SL200_.jpg' ]

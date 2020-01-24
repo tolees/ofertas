@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.46580506192784 % en 'MUSITREND Tocadiscos 33/45/78 RPM  Malet'
+title: 'Descuento del 55.46580506192784 % en MUSITREND Tocadiscos 33/45/78 RPM  Malet'
 date: 2019/11/18 22:45:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TUXXWr5fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TUXXWr5fL._SL200_.jpg' ]

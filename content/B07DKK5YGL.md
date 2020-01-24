@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dickies Belspring Chaqueta  Azul  Small ' al 60.294736842105266 % de descuento
+title: 'dickies Belspring Chaqueta  Azul  Small  al 60.294736842105266 % de descuento'
 date: 2019/12/29 16:03:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yZOI9pqgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yZOI9pqgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.821074643149384 % en 'Der neue Kindle Kids Edition - mit Zugri'
+title: 'Descuento del 31.821074643149384 % en Der neue Kindle Kids Edition - mit Zugri'
 date: 2019/11/23 11:28:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511ywNJLKGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511ywNJLKGL._SL200_.jpg' ]

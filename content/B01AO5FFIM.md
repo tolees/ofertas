@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.757575757575747 % en 'Fonex Gummy Professional Cera Capilar Ul'
+title: 'Descuento del 25.757575757575747 % en Fonex Gummy Professional Cera Capilar Ul'
 date: 2019/11/13 01:32:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Kt0bZM%2B3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Kt0bZM%2B3L._SL200_.jpg' ]

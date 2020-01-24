@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Stamina Cutback  Zapatilla Depo' al 53.98373983739837 % de descuento
+title: 'Skechers Stamina Cutback  Zapatilla Depo al 53.98373983739837 % de descuento'
 date: 2020-01-17 17:19:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IgYQNj1CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IgYQNj1CL._SL200_.jpg' ]

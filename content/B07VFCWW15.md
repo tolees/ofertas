@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Western Digital  SSD Portátil  2 TB  Ámb' al 79.77707364210431 % de descuento
+title: 'Western Digital  SSD Portátil  2 TB  Ámb al 79.77707364210431 % de descuento'
 date: 2020-01-10 23:11:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UUVG8iuLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UUVG8iuLL._SL200_.jpg' ]

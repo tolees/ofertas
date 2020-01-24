@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.75135460565924 % en 'Trio Lighting 603900302 Lámpara de techo'
+title: 'Descuento del 62.75135460565924 % en Trio Lighting 603900302 Lámpara de techo'
 date: 2019/11/12 04:28:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L4CJCaKjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L4CJCaKjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.48421052631579 % en 'New Balance 247v2  Zapatillas para Mujer'
+title: 'Descuento del 66.48421052631579 % en New Balance 247v2  Zapatillas para Mujer'
 date: 2019/10/08 17:52:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTb63EG2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTb63EG2L._SL200_.jpg' ]

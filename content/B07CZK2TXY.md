@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Mk1 Short Inset Fade Pantal' al 67.09177294323581 % de descuento
+title: 'Under Armour Mk1 Short Inset Fade Pantal al 67.09177294323581 % de descuento'
 date: 2019/10/05 09:05:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d4iLp974L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d4iLp974L._SL200_.jpg' ]

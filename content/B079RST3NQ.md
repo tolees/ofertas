@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Sita  Suéter para Mujer  Blan' al 71.0923076923077 % de descuento
+title: 'Pepe Jeans Sita  Suéter para Mujer  Blan al 71.0923076923077 % de descuento'
 date: 2019/10/19 10:36:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318Y6qo3dFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318Y6qo3dFL._SL200_.jpg' ]

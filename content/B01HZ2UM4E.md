@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Morgan Mentos Camiseta  Blanco  Off Whit' al 36.6 % de descuento
+title: 'Morgan Mentos Camiseta  Blanco  Off Whit al 36.6 % de descuento'
 date: 2020-01-07 01:08:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s0l6beQBL._SL200_.jpg' ]

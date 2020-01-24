@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.997566585552857 % en 'Garmin Forerunner 735XT-GPS-Uhr  schwarz'
+title: 'Descuento del 26.997566585552857 % en Garmin Forerunner 735XT-GPS-Uhr  schwarz'
 date: 2020-01-06 07:21:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cFpVc6dqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cFpVc6dqL._SL200_.jpg' ]

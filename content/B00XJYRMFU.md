@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.14897165091717 % en 'Reebok Classic Leather Zapatillas  Mujer'
+title: 'Descuento del 48.14897165091717 % en Reebok Classic Leather Zapatillas  Mujer'
 date: 2019/12/25 18:37:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313ClchY2nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313ClchY2nL._SL200_.jpg' ]

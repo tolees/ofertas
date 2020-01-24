@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.10000000000001 % en 'Lacoste Th6386 Camiseta  Verde  caqui S7'
+title: 'Descuento del 45.10000000000001 % en Lacoste Th6386 Camiseta  Verde  caqui S7'
 date: 2019/10/15 19:20:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LKb8leHyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LKb8leHyL._SL200_.jpg' ]

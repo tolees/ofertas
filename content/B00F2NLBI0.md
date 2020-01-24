@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bellota 5501-3 MA Pala Punta  335x290 mm' al 33.03863785199738 % de descuento
+title: 'Bellota 5501-3 MA Pala Punta  335x290 mm al 33.03863785199738 % de descuento'
 date: 2019/10/24 08:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cIOPG4XBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cIOPG4XBL._SL200_.jpg' ]

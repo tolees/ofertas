@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.594787088952863 % en 'AmazonBasics Maleta  diseño geométrico  '
+title: 'Descuento del 25.594787088952863 % en AmazonBasics Maleta  diseño geométrico  '
 date: 2019/12/30 17:45:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xqZQAaQ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xqZQAaQ3L._SL200_.jpg' ]

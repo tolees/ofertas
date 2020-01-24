@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.923913043478265 % en 'Pepe Jeans Spike Vaqueros  Azul  11oz St'
+title: 'Descuento del 48.923913043478265 % en Pepe Jeans Spike Vaqueros  Azul  11oz St'
 date: 2020-01-05 09:49:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t687Dz7wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t687Dz7wL._SL200_.jpg' ]

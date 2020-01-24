@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.98332406892717 % en 'RED WAGON Sudadera Deportiva para Niños '
+title: 'Descuento del 69.98332406892717 % en RED WAGON Sudadera Deportiva para Niños '
 date: 2019/10/28 09:01:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ggHfxmz0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ggHfxmz0L._SL200_.jpg' ]

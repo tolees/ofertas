@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Ch9861 Camisa  Azul  Marine/Hemi' al 65.2 % de descuento
+title: 'Lacoste Ch9861 Camisa  Azul  Marine/Hemi al 65.2 % de descuento'
 date: 2020-01-19 15:20:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oZwMXOQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oZwMXOQ5L._SL200_.jpg' ]

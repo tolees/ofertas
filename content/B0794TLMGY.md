@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.61957730812013 % en 'Philips 55PUS6703/12 139cm  55 Zoll  LED'
+title: 'Descuento del 32.61957730812013 % en Philips 55PUS6703/12 139cm  55 Zoll  LED'
 date: 2019/10/25 13:51:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HxNPGITfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HxNPGITfL._SL200_.jpg' ]

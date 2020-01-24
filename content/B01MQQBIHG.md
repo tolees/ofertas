@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.328310010764255 % en 'Real Techniques Sculpting set - kit de b'
+title: 'Descuento del 55.328310010764255 % en Real Techniques Sculpting set - kit de b'
 date: 2019/12/26 06:03:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UG67Q0DPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UG67Q0DPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.6794921123509 % en 'Springfield 5DS Polo Oxford Liso Jersey '
+title: 'Descuento del 66.6794921123509 % en Springfield 5DS Polo Oxford Liso Jersey '
 date: 2020-01-20 11:43:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I83yVkQ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I83yVkQ4L._SL200_.jpg' ]

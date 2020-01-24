@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma A.C.E. Woven 9` Short Pantalones Co' al 49.155937052932764 % de descuento
+title: 'Puma A.C.E. Woven 9` Short Pantalones Co al 49.155937052932764 % de descuento'
 date: 2019/10/31 11:27:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i1%2BRmNefL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i1%2BRmNefL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.16568350859195 % en 'DLOPK Adaptador de Viaje Universal con 4'
+title: 'Descuento del 46.16568350859195 % en DLOPK Adaptador de Viaje Universal con 4'
 date: 2020-01-23 10:17:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kZS4kLceL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kZS4kLceL._SL200_.jpg' ]

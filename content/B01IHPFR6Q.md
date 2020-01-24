@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel Blazer Donna BLU XL' al 48.52970594118824 % de descuento
+title: 'Cortefiel Blazer Donna BLU XL al 48.52970594118824 % de descuento'
 date: 2019/12/03 20:23:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mwF9xv0HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mwF9xv0HL._SL200_.jpg' ]

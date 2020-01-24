@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack Wolfskin Moab Jam 34 Wandern Outdoo' al 49.99583159649854 % de descuento
+title: 'Jack Wolfskin Moab Jam 34 Wandern Outdoo al 49.99583159649854 % de descuento'
 date: 2019/12/08 11:05:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nGQdlIO4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nGQdlIO4L._SL200_.jpg' ]

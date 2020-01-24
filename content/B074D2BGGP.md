@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deuter Futura Pro 44 EL Mochila Tipo Cas' al 33.43706585162545 % de descuento
+title: 'Deuter Futura Pro 44 EL Mochila Tipo Cas al 33.43706585162545 % de descuento'
 date: 2019/10/26 19:02:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fnRzly1KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fnRzly1KL._SL200_.jpg' ]

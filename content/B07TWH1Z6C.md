@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyAdierTech Lámpara de Escritorio LED  R' al 31.0919540229885 % de descuento
+title: 'HyAdierTech Lámpara de Escritorio LED  R al 31.0919540229885 % de descuento'
 date: 2019/11/19 13:46:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uHa7ktSiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uHa7ktSiL._SL200_.jpg' ]

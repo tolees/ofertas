@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'St.Tropez Self Tan Classic Kit' al 47.75 % de descuento
+title: 'St.Tropez Self Tan Classic Kit al 47.75 % de descuento'
 date: 2019/11/06 08:36:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O72j1VOOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O72j1VOOL._SL200_.jpg' ]

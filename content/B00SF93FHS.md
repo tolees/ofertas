@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01923816852635 % en 'G-STAR RAW ARC 3D Vaqueros  Dk Aged 4639'
+title: 'Descuento del 50.01923816852635 % en G-STAR RAW ARC 3D Vaqueros  Dk Aged 4639'
 date: 2020-01-15 18:02:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZdtqxIMdL._SL200_.jpg' ]

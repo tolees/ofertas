@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Candy CMXG25GDSS - Microondas con grill ' al 29.067114093959734 % de descuento
+title: 'Candy CMXG25GDSS - Microondas con grill  al 29.067114093959734 % de descuento'
 date: 2019/12/01 23:15:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-UEyR0LtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-UEyR0LtL._SL200_.jpg' ]

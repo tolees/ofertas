@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.269543464665418 % en 'Compressport Calcetines Trail Running V3'
+title: 'Descuento del 31.269543464665418 % en Compressport Calcetines Trail Running V3'
 date: 2020-01-11 19:34:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516drOtFTgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516drOtFTgL._SL200_.jpg' ]

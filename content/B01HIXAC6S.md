@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Mochila para cámara  para' al 25.00312539067383 % de descuento
+title: 'AmazonBasics - Mochila para cámara  para al 25.00312539067383 % de descuento'
 date: 2019/12/26 07:04:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UrZckvpqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UrZckvpqL._SL200_.jpg' ]

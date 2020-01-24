@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.341550553769196 % en 'PUMA Rise XT NETFIT 1 Zapatos de Futsal '
+title: 'Descuento del 56.341550553769196 % en PUMA Rise XT NETFIT 1 Zapatos de Futsal '
 date: 2019/12/05 03:35:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mv6DWeq4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mv6DWeq4L._SL200_.jpg' ]

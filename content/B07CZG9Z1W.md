@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Linksys WHW0102 Velop Whole Home Mesh Wi' al 40.0026668444563 % de descuento
+title: 'Linksys WHW0102 Velop Whole Home Mesh Wi al 40.0026668444563 % de descuento'
 date: 2019/12/29 17:01:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fzhT5-RZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fzhT5-RZL._SL200_.jpg' ]

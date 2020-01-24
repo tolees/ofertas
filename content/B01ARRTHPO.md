@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.633802816901408 % en 'HP N9J74AE 364XL Cartucho de Tinta Origi'
+title: 'Descuento del 25.633802816901408 % en HP N9J74AE 364XL Cartucho de Tinta Origi'
 date: 2019/11/20 18:48:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41utv90LhnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41utv90LhnL._SL200_.jpg' ]

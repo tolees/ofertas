@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.20414968506854 % en 'Crocs Classic Clog Kids Roomy fit  Zueco'
+title: 'Descuento del 51.20414968506854 % en Crocs Classic Clog Kids Roomy fit  Zueco'
 date: 2020-01-16 11:20:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MbkAE4eDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MbkAE4eDL._SL200_.jpg' ]

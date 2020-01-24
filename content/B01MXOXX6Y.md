@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Vaqueros Skinny para Mujer  Neg' al 43.03939962476549 % de descuento
+title: 'Wrangler Vaqueros Skinny para Mujer  Neg al 43.03939962476549 % de descuento'
 date: 2019/12/11 23:14:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UaPOHlNqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UaPOHlNqL._SL200_.jpg' ]

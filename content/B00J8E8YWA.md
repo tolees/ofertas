@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX Fury - Memoria RAM de 8 GB  1333 ' al 51.08865506823628 % de descuento
+title: 'HyperX Fury - Memoria RAM de 8 GB  1333  al 51.08865506823628 % de descuento'
 date: 2019/11/05 22:27:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jcP-r12XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jcP-r12XL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samyang F1220302101 - Objetivo fotográfi' al 28.94690265486726 % de descuento
+title: 'Samyang F1220302101 - Objetivo fotográfi al 28.94690265486726 % de descuento'
 date: 2019/10/20 14:19:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sk98dPfxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sk98dPfxL._SL200_.jpg' ]

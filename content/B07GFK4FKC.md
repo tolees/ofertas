@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'P Prettyia 1080P HD 1.5    Pantalla Mini' al 44.44444444444444 % de descuento
+title: 'P Prettyia 1080P HD 1.5    Pantalla Mini al 44.44444444444444 % de descuento'
 date: 2020-01-14 00:42:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eP%2Bb7VeNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eP%2Bb7VeNL._SL200_.jpg' ]

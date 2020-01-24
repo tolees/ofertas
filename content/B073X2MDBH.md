@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Mdr 40444  vestidos mujer Mujer  N'
+title: 'Descuento del 70.0 % en find. Mdr 40444  vestidos mujer Mujer  N'
 date: 2019/10/13 15:13:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5141lLRAI%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5141lLRAI%2BL._SL200_.jpg' ]

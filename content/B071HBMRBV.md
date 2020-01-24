@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Honey EW Tote  Bolso tote' al 50.55915244261331 % de descuento
+title: 'Tommy Hilfiger Honey EW Tote  Bolso tote al 50.55915244261331 % de descuento'
 date: 2019/10/15 21:23:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ImCAD8uvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ImCAD8uvL._SL200_.jpg' ]

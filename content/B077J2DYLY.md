@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '7 PAQUETES 2.1 m  2.4 m  3.0 m 3.6 m 99%' al 33.124197918152 % de descuento
+title: '7 PAQUETES 2.1 m  2.4 m  3.0 m 3.6 m 99% al 33.124197918152 % de descuento'
 date: 2019/10/22 16:34:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510ekcXXtwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510ekcXXtwL._SL200_.jpg' ]

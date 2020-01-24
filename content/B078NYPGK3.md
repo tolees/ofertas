@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JAIMIE JACOBS Cartera Hombre Nano Boy Ca' al 37.59398496240601 % de descuento
+title: 'JAIMIE JACOBS Cartera Hombre Nano Boy Ca al 37.59398496240601 % de descuento'
 date: 2020-01-16 20:03:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BAayvyC5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BAayvyC5L._SL200_.jpg' ]

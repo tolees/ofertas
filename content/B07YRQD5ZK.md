@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.171604463255086 % en 'flintronic® Taza de Viaje  Termo Taza 50'
+title: 'Descuento del 46.171604463255086 % en flintronic® Taza de Viaje  Termo Taza 50'
 date: 2019/12/03 16:06:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vIfhHwQRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vIfhHwQRL._SL200_.jpg' ]

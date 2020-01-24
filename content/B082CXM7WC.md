@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.511877969492375 % en 'NETVIP WiFi Repetidor de Red WiFi Amplif'
+title: 'Descuento del 47.511877969492375 % en NETVIP WiFi Repetidor de Red WiFi Amplif'
 date: 2020-01-21 13:15:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418verXieSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418verXieSL._SL200_.jpg' ]

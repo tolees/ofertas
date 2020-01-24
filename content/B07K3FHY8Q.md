@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Outward - PlayStation 4' al 37.509377344336094 % de descuento
+title: 'Outward - PlayStation 4 al 37.509377344336094 % de descuento'
 date: 2019/10/09 13:25:12 +0000
 thumbnailImage: ''
 images: [ '' ]

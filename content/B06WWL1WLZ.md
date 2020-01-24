@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Silverstone SST-FG141 - Rejilla para Ven' al 45.57620817843866 % de descuento
+title: 'Silverstone SST-FG141 - Rejilla para Ven al 45.57620817843866 % de descuento'
 date: 2019/11/07 01:55:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DFvGVtKSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DFvGVtKSL._SL200_.jpg' ]

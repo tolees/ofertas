@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Greensboro Regular Jeans Vaquer' al 31.219512195121947 % de descuento
+title: 'Wrangler Greensboro Regular Jeans Vaquer al 31.219512195121947 % de descuento'
 date: 2019/12/29 18:57:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b2-OuSsSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b2-OuSsSL._SL200_.jpg' ]

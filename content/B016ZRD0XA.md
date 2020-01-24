@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HTC A9 - Smartphone Libre  Qualcomm Snap' al 29.107739778863472 % de descuento
+title: 'HTC A9 - Smartphone Libre  Qualcomm Snap al 29.107739778863472 % de descuento'
 date: 2019/10/22 21:00:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JYoF7KelL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JYoF7KelL._SL200_.jpg' ]

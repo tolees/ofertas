@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.89999999999999 % en 'Clarks Un Rise Lace  Zapatos de Cordones'
+title: 'Descuento del 52.89999999999999 % en Clarks Un Rise Lace  Zapatos de Cordones'
 date: 2019/10/22 20:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BhNnmzgUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BhNnmzgUL._SL200_.jpg' ]

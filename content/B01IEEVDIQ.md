@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iRobot Roomba 680- Robot aspirador para ' al 29.824561403508774 % de descuento
+title: 'iRobot Roomba 680- Robot aspirador para  al 29.824561403508774 % de descuento'
 date: 2019/12/05 15:12:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uW6AywemL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uW6AywemL._SL200_.jpg' ]

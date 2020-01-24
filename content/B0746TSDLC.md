@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ultrasport Bolsa doble para cuadro de bi' al 55.59284116331096 % de descuento
+title: 'Ultrasport Bolsa doble para cuadro de bi al 55.59284116331096 % de descuento'
 date: 2019/10/30 11:42:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4141uoyiMqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4141uoyiMqL._SL200_.jpg' ]

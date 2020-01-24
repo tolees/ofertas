@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SEIKO SRN043P1 - Reloj de automático par' al 58.57142857142856 % de descuento
+title: 'SEIKO SRN043P1 - Reloj de automático par al 58.57142857142856 % de descuento'
 date: 2019/11/14 01:17:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410AkjTLLXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410AkjTLLXL._SL200_.jpg' ]

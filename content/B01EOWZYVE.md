@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.126086956521746 % en 'Helly Hansen Dubliner Parka Chaqueta 3/4'
+title: 'Descuento del 55.126086956521746 % en Helly Hansen Dubliner Parka Chaqueta 3/4'
 date: 2020-01-17 13:00:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3asBsxhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3asBsxhL._SL200_.jpg' ]

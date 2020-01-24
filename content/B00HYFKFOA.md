@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syndicate 58/6 - Scotch Whisky  700 ml' al 36.0051435919417 % de descuento
+title: 'Syndicate 58/6 - Scotch Whisky  700 ml al 36.0051435919417 % de descuento'
 date: 2020-01-19 23:37:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qGVJVoUEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qGVJVoUEL._SL200_.jpg' ]

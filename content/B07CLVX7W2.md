@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Memorias USB 4 Piezas 16GB USB 2.0 Stick' al 50.01471020888497 % de descuento
+title: 'Memorias USB 4 Piezas 16GB USB 2.0 Stick al 50.01471020888497 % de descuento'
 date: 2019/10/20 10:39:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fdqSWXFML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fdqSWXFML._SL200_.jpg' ]

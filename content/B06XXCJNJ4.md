@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance WL574EB  Zapatillas Mujer  G' al 34.44444444444444 % de descuento
+title: 'New Balance WL574EB  Zapatillas Mujer  G al 34.44444444444444 % de descuento'
 date: 2019/11/21 19:06:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wMpvlF4iL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dodot Sensitive Pañales Talla 5  168 Pañ' al 29.23526696414832 % de descuento
+title: 'Dodot Sensitive Pañales Talla 5  168 Pañ al 29.23526696414832 % de descuento'
 date: 2019/12/04 08:05:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DTSNEMVOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DTSNEMVOL._SL200_.jpg' ]

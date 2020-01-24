@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camiseta Vintage para Hombre  Azul' al 47.5 % de descuento
+title: 'find. Camiseta Vintage para Hombre  Azul al 47.5 % de descuento'
 date: 2019/12/08 20:25:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fkCNNJ3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fkCNNJ3GL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.31602231198308 % en 'Star Wars The Black Series Centrepiece K'
+title: 'Descuento del 43.31602231198308 % en Star Wars The Black Series Centrepiece K'
 date: 2019/12/23 17:01:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s%2BCdfpCxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s%2BCdfpCxL._SL200_.jpg' ]

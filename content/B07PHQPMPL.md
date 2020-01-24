@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alvorog Carro de Almacenaje 3 Nivel Con ' al 45.99379238992988 % de descuento
+title: 'Alvorog Carro de Almacenaje 3 Nivel Con  al 45.99379238992988 % de descuento'
 date: 2019/10/15 09:21:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NbQHqrxkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NbQHqrxkL._SL200_.jpg' ]

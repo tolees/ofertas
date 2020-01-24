@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.076982294072366 % en 'PUMA Nucleus  Zapatillas Unisex Adulto  '
+title: 'Descuento del 60.076982294072366 % en PUMA Nucleus  Zapatillas Unisex Adulto  '
 date: 2019/11/26 10:19:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l-Jj-Y1FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l-Jj-Y1FL._SL200_.jpg' ]

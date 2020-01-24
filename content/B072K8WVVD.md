@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pizarra Planificadora de Comidas y de Pl' al 50.15005001667223 % de descuento
+title: 'Pizarra Planificadora de Comidas y de Pl al 50.15005001667223 % de descuento'
 date: 2019/12/19 09:22:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Aos%2BqOd2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Aos%2BqOd2L._SL200_.jpg' ]

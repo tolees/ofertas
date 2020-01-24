@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.36760482481333 % en 'HIDROTELIAL CREMA PIE DIABETICO 75 ML.'
+title: 'Descuento del 60.36760482481333 % en HIDROTELIAL CREMA PIE DIABETICO 75 ML.'
 date: 2019/10/12 22:37:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wtjsM5XAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wtjsM5XAL._SL200_.jpg' ]

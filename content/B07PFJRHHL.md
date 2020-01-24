@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TagoBee TB11 Smartwatch Bluetooth IP68 P' al 26.368430623749774 % de descuento
+title: 'TagoBee TB11 Smartwatch Bluetooth IP68 P al 26.368430623749774 % de descuento'
 date: 2019/11/07 09:07:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51azQRGmBZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51azQRGmBZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Westinghouse Lighting Industrial Ventila' al 26.179619349722437 % de descuento
+title: 'Westinghouse Lighting Industrial Ventila al 26.179619349722437 % de descuento'
 date: 2019/10/24 21:06:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n6UfBDbmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n6UfBDbmL._SL200_.jpg' ]

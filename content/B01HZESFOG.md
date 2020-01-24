@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas 3ª Equipación Valencia CF Camiset' al 25.02142245072836 % de descuento
+title: 'adidas 3ª Equipación Valencia CF Camiset al 25.02142245072836 % de descuento'
 date: 2019/12/02 12:24:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4113f2OCg8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4113f2OCg8L._SL200_.jpg' ]

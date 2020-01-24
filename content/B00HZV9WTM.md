@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.681489716509166 % en 'AmazonBasics - Juego de 8 pilas recargab'
+title: 'Descuento del 26.681489716509166 % en AmazonBasics - Juego de 8 pilas recargab'
 date: 2019/12/02 08:08:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JPTQ%2BaJ9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JPTQ%2BaJ9L._SL200_.jpg' ]

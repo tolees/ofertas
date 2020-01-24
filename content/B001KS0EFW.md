@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.6060606060606 % en 'Vans Authentic  Zapatillas de Tela Unise'
+title: 'Descuento del 63.6060606060606 % en Vans Authentic  Zapatillas de Tela Unise'
 date: 2019/11/15 14:51:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TETmC9g%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TETmC9g%2BL._SL200_.jpg' ]

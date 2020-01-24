@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sopa CruzaLetras - Juego de Sopa de Letr' al 53.26664582682088 % de descuento
+title: 'Sopa CruzaLetras - Juego de Sopa de Letr al 53.26664582682088 % de descuento'
 date: 2019/11/01 10:46:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nLQhInBeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nLQhInBeL._SL200_.jpg' ]

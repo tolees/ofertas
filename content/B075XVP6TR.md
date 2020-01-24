@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.82698982293076 % en 'Ultimate Ears Blast Bluetooth Speaker  P'
+title: 'Descuento del 58.82698982293076 % en Ultimate Ears Blast Bluetooth Speaker  P'
 date: 2019/12/13 09:54:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PjtIX1llL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PjtIX1llL._SL200_.jpg' ]

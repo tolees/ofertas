@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.644444444444446 % en 'Fred Perry M4528-Bold Tipped Pique Shirt'
+title: 'Descuento del 59.644444444444446 % en Fred Perry M4528-Bold Tipped Pique Shirt'
 date: 2019/11/15 11:19:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B7Bq8rdWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B7Bq8rdWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crocs Crocband Flip  Chanclas Unisex Adu' al 25.012506253126553 % de descuento
+title: 'Crocs Crocband Flip  Chanclas Unisex Adu al 25.012506253126553 % de descuento'
 date: 2019/10/07 23:48:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BTD-l%2BtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d%2BTD-l%2BtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Final Sideline Polo  Hombre  Red/Bl' al 60.851063829787236 % de descuento
+title: 'PUMA Final Sideline Polo  Hombre  Red/Bl al 60.851063829787236 % de descuento'
 date: 2019/11/12 23:53:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41APfBv3hdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41APfBv3hdL._SL200_.jpg' ]

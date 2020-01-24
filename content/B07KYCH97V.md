@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.00233348889926 % en 'Nokia WiFi Beacon 3 Netz-Router-System -'
+title: 'Descuento del 35.00233348889926 % en Nokia WiFi Beacon 3 Netz-Router-System -'
 date: 2019/11/19 13:46:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dcgwL6EhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dcgwL6EhL._SL200_.jpg' ]

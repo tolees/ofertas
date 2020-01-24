@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BaByliss H110E - Plancha rizadora de via' al 28.072289156626507 % de descuento
+title: 'BaByliss H110E - Plancha rizadora de via al 28.072289156626507 % de descuento'
 date: 2019/12/22 02:38:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418u1J23F6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418u1J23F6L._SL200_.jpg' ]

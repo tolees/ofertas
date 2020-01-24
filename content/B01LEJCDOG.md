@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 88.71508379888269 % en 'Figura Mystery Minis Marvel X-Men'
+title: 'Descuento del 88.71508379888269 % en Figura Mystery Minis Marvel X-Men'
 date: 2019/11/11 09:32:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Db-MKFa4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Db-MKFa4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.12280701754385 % en 'Tommy Hilfiger Heritage Crew Neck tee Ca'
+title: 'Descuento del 69.12280701754385 % en Tommy Hilfiger Heritage Crew Neck tee Ca'
 date: 2019/10/23 06:43:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TeJstVV8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TeJstVV8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRESemmé Acondicionador Liso Keratina - ' al 30.08695652173913 % de descuento
+title: 'TRESemmé Acondicionador Liso Keratina -  al 30.08695652173913 % de descuento'
 date: 2019/11/09 09:43:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419diWCLJML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419diWCLJML._SL200_.jpg' ]

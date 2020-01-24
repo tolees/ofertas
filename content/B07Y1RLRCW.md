@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ordenador Portatil Intel Atom Z8350 Ultr' al 36.669999999999995 % de descuento
+title: 'Ordenador Portatil Intel Atom Z8350 Ultr al 36.669999999999995 % de descuento'
 date: 2019/11/02 13:04:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N5IjTEF%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N5IjTEF%2BL._SL200_.jpg' ]

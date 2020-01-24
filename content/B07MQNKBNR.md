@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Textured Crew 6072343 Jersey  M' al 44.258555133079845 % de descuento
+title: 'New Look Textured Crew 6072343 Jersey  M al 44.258555133079845 % de descuento'
 date: 2019/10/28 10:01:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GIsBhoNNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GIsBhoNNL._SL200_.jpg' ]

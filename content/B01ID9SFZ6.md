@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Basic Brief 2P - Calzoncillos para ' al 39.95997331554369 % de descuento
+title: 'Puma Basic Brief 2P - Calzoncillos para  al 39.95997331554369 % de descuento'
 date: 2019/10/14 15:19:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vKiTeqj1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vKiTeqj1L._SL200_.jpg' ]

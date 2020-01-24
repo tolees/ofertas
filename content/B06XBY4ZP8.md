@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.732433108277068 % en 'Vila Clothes VICLASS Pant-Noos Pantalone'
+title: 'Descuento del 29.732433108277068 % en Vila Clothes VICLASS Pant-Noos Pantalone'
 date: 2019/11/25 22:16:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lMdLWR9dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lMdLWR9dL._SL200_.jpg' ]

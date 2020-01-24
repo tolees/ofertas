@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Monopoly- Millenials  Versión Española  ' al 26.591576885406464 % de descuento
+title: 'Monopoly- Millenials  Versión Española   al 26.591576885406464 % de descuento'
 date: 2019/11/26 23:13:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MuhwNuN3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MuhwNuN3L._SL200_.jpg' ]

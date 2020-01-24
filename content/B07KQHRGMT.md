@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.771311661741294 % en 'adidas NMD_ts1 PK GTX  Zapatillas de Gim'
+title: 'Descuento del 53.771311661741294 % en adidas NMD_ts1 PK GTX  Zapatillas de Gim'
 date: 2019/11/02 17:47:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415qbgNWVVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415qbgNWVVL._SL200_.jpg' ]

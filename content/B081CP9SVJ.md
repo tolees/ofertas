@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geographical Norway Parka Hombre Boomera' al 34.34343434343434 % de descuento
+title: 'Geographical Norway Parka Hombre Boomera al 34.34343434343434 % de descuento'
 date: 2019/12/18 11:13:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KmFhUKLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KmFhUKLlL._SL200_.jpg' ]

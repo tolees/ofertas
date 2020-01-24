@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.02501250625312 % en 'Sylvanian Families Igloo Tent'
+title: 'Descuento del 50.02501250625312 % en Sylvanian Families Igloo Tent'
 date: 2020-01-24 09:45:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/5118K364s8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5118K364s8L._AC_._SL200_.jpg' ]

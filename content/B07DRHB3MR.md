@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.34391283751776 % en 'Jabra Elite Active 65t True Wireless Blu'
+title: 'Descuento del 34.34391283751776 % en Jabra Elite Active 65t True Wireless Blu'
 date: 2019/12/21 22:43:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G16JWHoLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G16JWHoLL._SL200_.jpg' ]

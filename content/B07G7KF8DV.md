@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.01333777925975 % en 'JACK & JONES Jjepanther Sweat Hood Noos '
+title: 'Descuento del 40.01333777925975 % en JACK & JONES Jjepanther Sweat Hood Noos '
 date: 2019/11/23 11:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4103TYUUDML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4103TYUUDML._SL200_.jpg' ]

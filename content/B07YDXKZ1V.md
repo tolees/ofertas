@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.694830461367424 % en 'LeYi Funda Xiaomi Redmi Note 8 con HD Pr'
+title: 'Descuento del 50.694830461367424 % en LeYi Funda Xiaomi Redmi Note 8 con HD Pr'
 date: 2020-01-04 19:39:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C2Q3KfooL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C2Q3KfooL._SL200_.jpg' ]

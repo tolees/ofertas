@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01923816852636 % en 'HOVNEE Bombas de Baño de sal 6 piezas de'
+title: 'Descuento del 50.01923816852636 % en HOVNEE Bombas de Baño de sal 6 piezas de'
 date: 2019/12/29 11:02:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s8bJ9bQbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s8bJ9bQbL._SL200_.jpg' ]

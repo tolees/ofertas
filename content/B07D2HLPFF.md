@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola Z3 Play + Moto Mod Bateria - Sm' al 48.296593186372746 % de descuento
+title: 'Motorola Z3 Play + Moto Mod Bateria - Sm al 48.296593186372746 % de descuento'
 date: 2019/11/05 10:29:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41emv50xPvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41emv50xPvL._SL200_.jpg' ]

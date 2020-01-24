@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00277793210734 % en 'WMF Alteo - Cubertería de acero inoxidab'
+title: 'Descuento del 50.00277793210734 % en WMF Alteo - Cubertería de acero inoxidab'
 date: 2019/10/22 14:45:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TCIxjw6WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TCIxjw6WL._SL200_.jpg' ]

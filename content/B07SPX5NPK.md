@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Anbber Aire Acondicionado móvil 4 en 1 m' al 40.00400040004 % de descuento
+title: 'Anbber Aire Acondicionado móvil 4 en 1 m al 40.00400040004 % de descuento'
 date: 2020-01-21 11:25:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JW4-JjOFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JW4-JjOFL._SL200_.jpg' ]

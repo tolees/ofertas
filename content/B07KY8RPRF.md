@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Warehouse + Bolsa de Viaje  81 c' al 49.29090909090908 % de descuento
+title: 'Eastpak Warehouse + Bolsa de Viaje  81 c al 49.29090909090908 % de descuento'
 date: 2019/11/14 16:05:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MsIwFXdwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MsIwFXdwL._SL200_.jpg' ]

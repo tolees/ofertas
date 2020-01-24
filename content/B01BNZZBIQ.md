@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex - Preservativos  color transparent' al 30.620155038759698 % de descuento
+title: 'Durex - Preservativos  color transparent al 30.620155038759698 % de descuento'
 date: 2019/11/14 15:02:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AonxadUVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AonxadUVL._SL200_.jpg' ]

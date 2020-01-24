@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.76040021063717 % en 'Flintronic® Cartera Tarjeta de Crédito  '
+title: 'Descuento del 44.76040021063717 % en Flintronic® Cartera Tarjeta de Crédito  '
 date: 2020-01-23 16:36:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BiQ5jokQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BiQ5jokQL._SL200_.jpg' ]

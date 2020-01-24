@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10883 - Mein erster Abschlepp' al 32.532532532532535 % de descuento
+title: 'LEGO DUPLO 10883 - Mein erster Abschlepp al 32.532532532532535 % de descuento'
 date: 2020-01-01 09:05:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HpKr03DdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HpKr03DdL._SL200_.jpg' ]

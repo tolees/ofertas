@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.805555555555564 % en 'Calvin Klein Low Rise Trunk Boxer  Rojo '
+title: 'Descuento del 41.805555555555564 % en Calvin Klein Low Rise Trunk Boxer  Rojo '
 date: 2019/11/09 15:24:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oDDJnyUcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oDDJnyUcL._SL200_.jpg' ]

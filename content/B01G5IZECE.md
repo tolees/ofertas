@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Redford Camisa Madrid Hombre  Azul  blau' al 69.98073217726397 % de descuento
+title: 'Redford Camisa Madrid Hombre  Azul  blau al 69.98073217726397 % de descuento'
 date: 2019/11/20 12:34:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oBUaSbnIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oBUaSbnIL._SL200_.jpg' ]

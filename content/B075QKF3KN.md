@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.545704197724596 % en 'Philips - Plancha  Plancha a vapor  Stea'
+title: 'Descuento del 41.545704197724596 % en Philips - Plancha  Plancha a vapor  Stea'
 date: 2019/11/03 14:12:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lh3zYVefL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lh3zYVefL._SL200_.jpg' ]

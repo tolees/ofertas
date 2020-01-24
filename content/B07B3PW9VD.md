@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.34026173979985 % en 'PUMA Final Sideline Jacket  Hombre  Pepp'
+title: 'Descuento del 62.34026173979985 % en PUMA Final Sideline Jacket  Hombre  Pepp'
 date: 2019/11/12 17:34:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GMzhTV3TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GMzhTV3TL._SL200_.jpg' ]

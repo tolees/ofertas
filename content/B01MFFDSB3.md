@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.58458458458458 % en 'G-Star Raw Ladd Belt Cinturón  Marrón  D'
+title: 'Descuento del 64.58458458458458 % en G-Star Raw Ladd Belt Cinturón  Marrón  D'
 date: 2019/12/02 09:45:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RJ%2Bq6q2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RJ%2Bq6q2-L._SL200_.jpg' ]

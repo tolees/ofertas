@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Air Zoom Vapor X HC  Zapatillas de ' al 52.31428571428572 % de descuento
+title: 'Nike Air Zoom Vapor X HC  Zapatillas de  al 52.31428571428572 % de descuento'
 date: 2019/11/19 05:19:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318qdOA36yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318qdOA36yL._SL200_.jpg' ]

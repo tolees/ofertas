@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.012506253126553 % en 'pokal-fabrik.de Copa/Regalo para los Mej'
+title: 'Descuento del 25.012506253126553 % en pokal-fabrik.de Copa/Regalo para los Mej'
 date: 2019/11/27 09:55:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pUBcj1bnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pUBcj1bnL._SL200_.jpg' ]

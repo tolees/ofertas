@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K9CK Luces LED para Technic Todoterreno ' al 50.0 % de descuento
+title: 'K9CK Luces LED para Technic Todoterreno  al 50.0 % de descuento'
 date: 2020-01-22 10:50:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PNs51xsdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PNs51xsdL._SL200_.jpg' ]

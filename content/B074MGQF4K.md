@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips MG3740/15 9 en 1 - Recortadora p' al 28.5795941697628 % de descuento
+title: 'Philips MG3740/15 9 en 1 - Recortadora p al 28.5795941697628 % de descuento'
 date: 2019/12/01 23:08:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VJ5eyMV7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VJ5eyMV7L._SL200_.jpg' ]

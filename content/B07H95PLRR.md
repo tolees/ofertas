@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung The Frame 2018 43LS03NAU - Smart' al 38.98840885142255 % de descuento
+title: 'Samsung The Frame 2018 43LS03NAU - Smart al 38.98840885142255 % de descuento'
 date: 2020-01-17 19:34:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IoQ5twJeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IoQ5twJeL._SL200_.jpg' ]

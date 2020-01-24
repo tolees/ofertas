@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.418181818181814 % en 'Helly Hansen W Seven J Chaqueta  Mujer  '
+title: 'Descuento del 50.418181818181814 % en Helly Hansen W Seven J Chaqueta  Mujer  '
 date: 2019/10/06 15:01:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413LONEy3vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413LONEy3vL._SL200_.jpg' ]

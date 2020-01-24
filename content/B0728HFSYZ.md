@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Gyala Chaqueta  Mujer  Agua ' al 40.50938337801608 % de descuento
+title: 'Trangoworld Gyala Chaqueta  Mujer  Agua  al 40.50938337801608 % de descuento'
 date: 2019/11/02 14:38:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E6Gpc3HuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E6Gpc3HuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.29099307159354 % en 'Puma Vista Zapatillas de deporte Unisex '
+title: 'Descuento del 38.29099307159354 % en Puma Vista Zapatillas de deporte Unisex '
 date: 2019/10/08 19:34:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414CDgnZUfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414CDgnZUfL._SL200_.jpg' ]

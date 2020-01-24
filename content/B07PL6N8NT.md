@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Garret B  Botas Clasicas para Hom' al 31.339639914555995 % de descuento
+title: 'Geox U Garret B  Botas Clasicas para Hom al 31.339639914555995 % de descuento'
 date: 2020-01-20 19:38:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t1HAbc-yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t1HAbc-yL._SL200_.jpg' ]

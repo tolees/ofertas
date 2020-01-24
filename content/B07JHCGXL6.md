@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Redmond V2 Mid  Botas de Sender' al 40.04400440044004 % de descuento
+title: 'Columbia Redmond V2 Mid  Botas de Sender al 40.04400440044004 % de descuento'
 date: 2020-01-08 11:30:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v-PEhW%2BCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v-PEhW%2BCL._SL200_.jpg' ]

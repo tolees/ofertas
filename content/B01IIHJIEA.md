@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pinypon - Clases  Pack 2  Set muñeca y A' al 65.81453634085213 % de descuento
+title: 'Pinypon - Clases  Pack 2  Set muñeca y A al 65.81453634085213 % de descuento'
 date: 2019/10/21 13:11:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yXayLuPJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yXayLuPJL._SL200_.jpg' ]

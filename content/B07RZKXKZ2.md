@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.545829892650694 % en 'Hapilife Grifo de Cocina Extraíble Monom'
+title: 'Descuento del 49.545829892650694 % en Hapilife Grifo de Cocina Extraíble Monom'
 date: 2019/10/23 13:11:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kX2-Ls-3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kX2-Ls-3L._SL200_.jpg' ]

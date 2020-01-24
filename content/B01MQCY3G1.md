@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers You  Zapatillas sin cordones pa' al 49.96150885296382 % de descuento
+title: 'Skechers You  Zapatillas sin cordones pa al 49.96150885296382 % de descuento'
 date: 2019/11/03 11:23:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419qksBDlfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419qksBDlfL._SL200_.jpg' ]

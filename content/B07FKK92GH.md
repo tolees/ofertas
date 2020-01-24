@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Men s Superfly 6 Academy MG  Zapati' al 62.472527472527474 % de descuento
+title: 'Nike Men s Superfly 6 Academy MG  Zapati al 62.472527472527474 % de descuento'
 date: 2019/10/26 12:14:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c2dbYB8UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c2dbYB8UL._SL200_.jpg' ]

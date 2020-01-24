@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.37482117310443 % en 'Sony Xperia XZ1 Smartphone  13 2 cm  5 2'
+title: 'Descuento del 61.37482117310443 % en Sony Xperia XZ1 Smartphone  13 2 cm  5 2'
 date: 2019/11/06 11:24:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r43PuDjkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r43PuDjkL._SL200_.jpg' ]

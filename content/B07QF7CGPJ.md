@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luchild Colchoneta Silla Paseo Universal' al 30.571886691608764 % de descuento
+title: 'Luchild Colchoneta Silla Paseo Universal al 30.571886691608764 % de descuento'
 date: 2019/10/22 09:37:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cOLgC5PcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cOLgC5PcL._SL200_.jpg' ]

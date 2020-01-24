@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.160000000000004 % en 'Salomon Agile Belt Set Riñonera de hidra'
+title: 'Descuento del 47.160000000000004 % en Salomon Agile Belt Set Riñonera de hidra'
 date: 2019/12/13 10:15:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TA8tzienL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TA8tzienL._SL200_.jpg' ]

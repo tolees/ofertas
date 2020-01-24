@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.779632721202006 % en 'Led Lenser F1 Linterna LED  Negro'
+title: 'Descuento del 27.779632721202006 % en Led Lenser F1 Linterna LED  Negro'
 date: 2019/10/20 09:14:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oPvwpE1dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oPvwpE1dL._SL200_.jpg' ]

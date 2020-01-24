@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.02222413644586 % en 'Superdry Hero Rookie Military Jacket Cha'
+title: 'Descuento del 38.02222413644586 % en Superdry Hero Rookie Military Jacket Cha'
 date: 2019/10/30 10:40:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417jthyiYhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417jthyiYhL._SL200_.jpg' ]

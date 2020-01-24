@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.31111111111111 % en 'New Balance 997H Core  Zapatillas para H'
+title: 'Descuento del 40.31111111111111 % en New Balance 997H Core  Zapatillas para H'
 date: 2019/10/15 18:44:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UxdmVpG7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UxdmVpG7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.4625 % en 'Salomon Guantes ligeros  pro peller dry '
+title: 'Descuento del 71.4625 % en Salomon Guantes ligeros  pro peller dry '
 date: 2019/11/11 19:57:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KcvmTlm5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KcvmTlm5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.78084802286802 % en 'CORNERIA Portacepillos de Dientes - Cuar'
+title: 'Descuento del 39.78084802286802 % en CORNERIA Portacepillos de Dientes - Cuar'
 date: 2020-01-12 09:06:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41112bswQqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41112bswQqL._SL200_.jpg' ]

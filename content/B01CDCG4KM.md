@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.011252813203306 % en 'Fosmon Cargador Mando Xbox One  Doble Es'
+title: 'Descuento del 45.011252813203306 % en Fosmon Cargador Mando Xbox One  Doble Es'
 date: 2019/12/08 10:04:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bz6S5ymhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bz6S5ymhL._SL200_.jpg' ]

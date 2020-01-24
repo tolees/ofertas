@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cyberdimension Neptunia: 4 Goddesses Onl' al 59.991998399679936 % de descuento
+title: 'Cyberdimension Neptunia: 4 Goddesses Onl al 59.991998399679936 % de descuento'
 date: 2019/11/05 21:21:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61QozeWcVEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61QozeWcVEL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.630522088353416 % en 'Samsung Galaxy A40 - Smartphone de 5.9" '
+title: 'Descuento del 30.630522088353416 % en Samsung Galaxy A40 - Smartphone de 5.9" '
 date: 2020-01-10 07:31:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rhjbPQu0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rhjbPQu0L._SL200_.jpg' ]

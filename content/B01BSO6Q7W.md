@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.432096021338076 % en 'Philips HP6548/01 - Set con depiladora  '
+title: 'Descuento del 44.432096021338076 % en Philips HP6548/01 - Set con depiladora  '
 date: 2019/12/04 08:21:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D0UTYKIQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D0UTYKIQL._SL200_.jpg' ]

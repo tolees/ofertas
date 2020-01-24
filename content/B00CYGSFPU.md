@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.310177705977395 % en 'WD 3 TB for NAS 3.5-inch Desktop Hard Dr'
+title: 'Descuento del 32.310177705977395 % en WD 3 TB for NAS 3.5-inch Desktop Hard Dr'
 date: 2020-01-17 13:19:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zALBrvpgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zALBrvpgL._SL200_.jpg' ]

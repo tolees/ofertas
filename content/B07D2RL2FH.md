@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Superfine Lambswool V-Neck suéter  ' al 40.43179587831207 % de descuento
+title: 'Gant Superfine Lambswool V-Neck suéter   al 40.43179587831207 % de descuento'
 date: 2019/12/02 20:58:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yq8T%2Bkv9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yq8T%2Bkv9L._SL200_.jpg' ]

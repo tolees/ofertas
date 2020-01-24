@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Piquadro CA1044VI-N - Maletín para Orden' al 30.136986301369863 % de descuento
+title: 'Piquadro CA1044VI-N - Maletín para Orden al 30.136986301369863 % de descuento'
 date: 2019/11/06 05:44:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tUL%2B-4x-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tUL%2B-4x-L._SL200_.jpg' ]

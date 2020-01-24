@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica Reloj de Pulsera NAPFRB008' al 56.60377358490566 % de descuento
+title: 'Nautica Reloj de Pulsera NAPFRB008 al 56.60377358490566 % de descuento'
 date: 2019/11/07 15:04:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yzA-1GjDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yzA-1GjDL._SL200_.jpg' ]

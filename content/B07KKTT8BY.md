@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.57333333333333 % en 'Naf Naf Kenr29d Vestido  Multicolor  Imp'
+title: 'Descuento del 46.57333333333333 % en Naf Naf Kenr29d Vestido  Multicolor  Imp'
 date: 2019/11/08 07:35:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MIzp1A3PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MIzp1A3PL._SL200_.jpg' ]

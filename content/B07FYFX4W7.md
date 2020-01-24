@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Pencil Skirt  Falda para Mujer  Azul' al 57.18461538461539 % de descuento
+title: 'Lee Pencil Skirt  Falda para Mujer  Azul al 57.18461538461539 % de descuento'
 date: 2019/11/04 02:26:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vjqm4oMLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vjqm4oMLL._SL200_.jpg' ]

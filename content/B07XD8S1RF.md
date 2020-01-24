@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tableta de Escritura Color LCD 10 Pulgad' al 68.51712928232058 % de descuento
+title: 'Tableta de Escritura Color LCD 10 Pulgad al 68.51712928232058 % de descuento'
 date: 2019/11/19 19:27:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5132Hwm8jeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5132Hwm8jeL._SL200_.jpg' ]

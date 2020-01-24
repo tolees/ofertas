@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Vengadores' al 50.062578222778484 % de descuento
+title: 'LEGO Vengadores al 50.062578222778484 % de descuento'
 date: 2019/11/30 13:03:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lqKLkk4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lqKLkk4gL._SL200_.jpg' ]

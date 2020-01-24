@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose SoundSport In-Ear Headphones for Ap' al 40.38910505836576 % de descuento
+title: 'Bose SoundSport In-Ear Headphones for Ap al 40.38910505836576 % de descuento'
 date: 2019/11/23 08:09:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kN7nRonoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kN7nRonoL._SL200_.jpg' ]

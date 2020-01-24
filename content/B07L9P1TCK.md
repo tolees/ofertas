@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.96330275229358 % en 'Lacoste Masters Cup 319 1 SMA  Zapatilla'
+title: 'Descuento del 60.96330275229358 % en Lacoste Masters Cup 319 1 SMA  Zapatilla'
 date: 2019/12/26 12:32:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31So29q7AxL._SL200_.jpg' ]

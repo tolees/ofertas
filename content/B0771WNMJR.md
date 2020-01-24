@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop!- Games: Cuphead Legendary Cha' al 66.20689655172414 % de descuento
+title: 'Funko Pop!- Games: Cuphead Legendary Cha al 66.20689655172414 % de descuento'
 date: 2019/11/04 15:30:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g%2B%2Bcaw2PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g%2B%2Bcaw2PL._SL200_.jpg' ]

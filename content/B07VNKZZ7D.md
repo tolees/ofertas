@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aitsite Bolas de Navidad 6 cm Bolas de á' al 45.61101549053356 % de descuento
+title: 'Aitsite Bolas de Navidad 6 cm Bolas de á al 45.61101549053356 % de descuento'
 date: 2019/11/22 17:56:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61l9nRuL01L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61l9nRuL01L._SL200_.jpg' ]

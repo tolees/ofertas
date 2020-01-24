@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjepocket tee SS O-Neck Noo' al 54.19553502694381 % de descuento
+title: 'JACK & JONES Jjepocket tee SS O-Neck Noo al 54.19553502694381 % de descuento'
 date: 2019/10/27 22:55:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P1cxmonWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P1cxmonWL._SL200_.jpg' ]

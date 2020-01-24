@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Carnaby EVO Bl 2 Suc  Zapatillas' al 32.400000000000006 % de descuento
+title: 'Lacoste Carnaby EVO Bl 2 Suc  Zapatillas al 32.400000000000006 % de descuento'
 date: 2019/10/06 21:56:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lKl2NuUsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lKl2NuUsL._SL200_.jpg' ]

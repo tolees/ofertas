@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.7709838799333 % en 'Puma Basket Heart Patent Wn s  Damen Sne'
+title: 'Descuento del 67.7709838799333 % en Puma Basket Heart Patent Wn s  Damen Sne'
 date: 2020-01-20 18:36:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31whMn8w8XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31whMn8w8XL._SL200_.jpg' ]

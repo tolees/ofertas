@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optoma HEM2 - Auriculares  Alámbrico  De' al 28.184738955823295 % de descuento
+title: 'Optoma HEM2 - Auriculares  Alámbrico  De al 28.184738955823295 % de descuento'
 date: 2019/10/30 08:33:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317-otxh3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317-otxh3GL._SL200_.jpg' ]

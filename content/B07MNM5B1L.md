@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 91.98447681103872 % en 'Safta - Star Wars Galaxy Oficial Mini Mo'
+title: 'Descuento del 91.98447681103872 % en Safta - Star Wars Galaxy Oficial Mini Mo'
 date: 2019/11/12 09:04:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NH4BLm6oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NH4BLm6oL._SL200_.jpg' ]

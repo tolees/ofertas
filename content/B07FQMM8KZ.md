@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Step Maro Wave  Zapatillas para H' al 60.37169406719085 % de descuento
+title: 'Clarks Step Maro Wave  Zapatillas para H al 60.37169406719085 % de descuento'
 date: 2019/10/29 12:05:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U3YwFwqxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U3YwFwqxL._SL200_.jpg' ]

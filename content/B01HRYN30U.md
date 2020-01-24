@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DeWALT Akku-Tischkreissäge  54 V  Flexvo' al 25.039123630672922 % de descuento
+title: 'DeWALT Akku-Tischkreissäge  54 V  Flexvo al 25.039123630672922 % de descuento'
 date: 2019/11/20 16:35:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VtJ2EvfuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VtJ2EvfuL._SL200_.jpg' ]

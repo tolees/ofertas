@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.151051625239006 % en 'TP-Link Archer T4U AC1200 USB Wi-Fi Dong'
+title: 'Descuento del 52.151051625239006 % en TP-Link Archer T4U AC1200 USB Wi-Fi Dong'
 date: 2019/10/22 19:30:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Od2kx0eIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Od2kx0eIL._SL200_.jpg' ]

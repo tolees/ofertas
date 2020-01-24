@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zapatillas de Baloncesto Altas Superiore' al 44.17516296172489 % de descuento
+title: 'Zapatillas de Baloncesto Altas Superiore al 44.17516296172489 % de descuento'
 date: 2020-01-02 10:18:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fXeVke2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fXeVke2-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.49019607843137 % en 'Liu Jo T69068 MA09E Sudadera Mujer M'
+title: 'Descuento del 25.49019607843137 % en Liu Jo T69068 MA09E Sudadera Mujer M'
 date: 2019/12/03 04:38:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21DerFqYWvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21DerFqYWvL._SL200_.jpg' ]

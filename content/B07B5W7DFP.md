@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.525896414342625 % en 'Jumanji: Bienvenidos A La Jungla  4K UHD'
+title: 'Descuento del 58.525896414342625 % en Jumanji: Bienvenidos A La Jungla  4K UHD'
 date: 2020-01-05 12:18:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Xw3iqmAiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Xw3iqmAiL._SL200_.jpg' ]

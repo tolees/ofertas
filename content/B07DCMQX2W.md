@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike W Blazer Low SD  Zapatos de Balonce' al 72.86813186813187 % de descuento
+title: 'Nike W Blazer Low SD  Zapatos de Balonce al 72.86813186813187 % de descuento'
 date: 2020-01-24 10:50:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hxyaSThRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hxyaSThRL._SL200_.jpg' ]

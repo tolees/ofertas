@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.87090020935101 % en 'Panasonic Lumix DC-FT7EG-A - Cámara 4K a'
+title: 'Descuento del 34.87090020935101 % en Panasonic Lumix DC-FT7EG-A - Cámara 4K a'
 date: 2020-01-10 15:01:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410z0zzPwwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410z0zzPwwL._SL200_.jpg' ]

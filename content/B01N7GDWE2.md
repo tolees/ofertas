@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair Force MP500 - Unidad de Estado s' al 49.995866743820784 % de descuento
+title: 'Corsair Force MP500 - Unidad de Estado s al 49.995866743820784 % de descuento'
 date: 2019/12/13 09:17:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ii6Sn0b2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ii6Sn0b2L._SL200_.jpg' ]

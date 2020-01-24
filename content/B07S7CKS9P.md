@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.14645308924485 % en 'adidas Fest Bag Tref Sports Backpack  Un'
+title: 'Descuento del 28.14645308924485 % en adidas Fest Bag Tref Sports Backpack  Un'
 date: 2019/12/07 07:01:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cBYveO0HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cBYveO0HL._SL200_.jpg' ]

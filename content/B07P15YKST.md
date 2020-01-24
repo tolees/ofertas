@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PopSockets PopGrip - Soporte y Agarre pa' al 25.683789192795192 % de descuento
+title: 'PopSockets PopGrip - Soporte y Agarre pa al 25.683789192795192 % de descuento'
 date: 2019/12/04 14:52:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ag1To5cxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ag1To5cxL._SL200_.jpg' ]

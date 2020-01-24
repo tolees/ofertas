@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COOFIT Mochilas Escolares con Ruedas  Mo' al 47.305310317564896 % de descuento
+title: 'COOFIT Mochilas Escolares con Ruedas  Mo al 47.305310317564896 % de descuento'
 date: 2019/11/28 21:35:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vOFO7-hLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vOFO7-hLL._SL200_.jpg' ]

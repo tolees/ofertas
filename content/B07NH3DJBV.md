@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa 2019/20 Real Betis Primera equipac' al 31.28205128205128 % de descuento
+title: 'Kappa 2019/20 Real Betis Primera equipac al 31.28205128205128 % de descuento'
 date: 2019/12/24 09:06:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GVDxqoRDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GVDxqoRDL._SL200_.jpg' ]

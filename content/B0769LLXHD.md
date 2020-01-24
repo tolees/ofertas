@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.74903474903475 % en 'Vexia Cleverbook Plus - Ordenador portát'
+title: 'Descuento del 34.74903474903475 % en Vexia Cleverbook Plus - Ordenador portát'
 date: 2019/11/12 10:52:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mb47jIKsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mb47jIKsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HETP Auriculares Inalámbricos Bluetooth ' al 76.00666666666666 % de descuento
+title: 'HETP Auriculares Inalámbricos Bluetooth  al 76.00666666666666 % de descuento'
 date: 2019/11/02 07:56:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uPdlRBIAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uPdlRBIAL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PewinGo Electroestimulador Muscular Abdo' al 55.01375343835959 % de descuento
+title: 'PewinGo Electroestimulador Muscular Abdo al 55.01375343835959 % de descuento'
 date: 2020-01-16 12:09:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T1CkJ34nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T1CkJ34nL._SL200_.jpg' ]

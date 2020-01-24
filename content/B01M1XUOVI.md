@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.647647647647656 % en 'Skechers Graceful-Get Connected  Zapatil'
+title: 'Descuento del 27.647647647647656 % en Skechers Graceful-Get Connected  Zapatil'
 date: 2019/11/27 13:06:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m5NfDZTIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m5NfDZTIL._SL200_.jpg' ]

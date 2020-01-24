@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Bluetooth  Manos Libres Orej' al 38.09271054493985 % de descuento
+title: 'Auriculares Bluetooth  Manos Libres Orej al 38.09271054493985 % de descuento'
 date: 2020-01-23 19:00:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rQWEk%2B0AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rQWEk%2B0AL._SL200_.jpg' ]

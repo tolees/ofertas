@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.11502875718931 % en 'JACK & JONES Jjespace Sweat Zip Hood Noo'
+title: 'Descuento del 60.11502875718931 % en JACK & JONES Jjespace Sweat Zip Hood Noo'
 date: 2019/10/10 20:09:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LJvZEPFSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LJvZEPFSL._SL200_.jpg' ]

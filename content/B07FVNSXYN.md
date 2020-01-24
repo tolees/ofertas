@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZENI SILVER Pendientes de aro de plata d' al 57.01900633544514 % de descuento
+title: 'ZENI SILVER Pendientes de aro de plata d al 57.01900633544514 % de descuento'
 date: 2019/11/10 14:28:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rh7GYsOwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rh7GYsOwL._SL200_.jpg' ]

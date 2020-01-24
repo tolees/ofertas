@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair HS50 Stereo Gaming Headset  Unid' al 46.67444574095683 % de descuento
+title: 'Corsair HS50 Stereo Gaming Headset  Unid al 46.67444574095683 % de descuento'
 date: 2019/11/22 23:34:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412WfuqnYAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412WfuqnYAL._SL200_.jpg' ]

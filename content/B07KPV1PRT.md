@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.9908256880734 % en 'Yvsoo Calendario Adviento Juguetes Set 3'
+title: 'Descuento del 44.9908256880734 % en Yvsoo Calendario Adviento Juguetes Set 3'
 date: 2020-01-03 14:55:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h45t6rifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h45t6rifL._SL200_.jpg' ]

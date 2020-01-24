@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Men s Type 3 Denim Jacket  Blue  ' al 49.9913028352757 % de descuento
+title: 'Levi s Men s Type 3 Denim Jacket  Blue   al 49.9913028352757 % de descuento'
 date: 2020-01-16 09:00:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41maVaAe0VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41maVaAe0VL._SL200_.jpg' ]

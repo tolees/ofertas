@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.302325581395344 % en 'Bébé Confort CAPAZO BLANDO LAIKA  Sparkl'
+title: 'Descuento del 47.302325581395344 % en Bébé Confort CAPAZO BLANDO LAIKA  Sparkl'
 date: 2019/10/11 22:58:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qQ%2BMjVGkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qQ%2BMjVGkL._SL200_.jpg' ]

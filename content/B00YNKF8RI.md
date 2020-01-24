@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.52853892570977 % en 'Puma 359135 - Zapatillas de deporte para'
+title: 'Descuento del 73.52853892570977 % en Puma 359135 - Zapatillas de deporte para'
 date: 2019/10/11 10:57:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41slGTb89mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41slGTb89mL._SL200_.jpg' ]

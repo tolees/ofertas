@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.844271412680754 % en 'Energy Sistem Energy Multiroom Portable '
+title: 'Descuento del 29.844271412680754 % en Energy Sistem Energy Multiroom Portable '
 date: 2019/10/10 13:54:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vRSFjV7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vRSFjV7DL._SL200_.jpg' ]

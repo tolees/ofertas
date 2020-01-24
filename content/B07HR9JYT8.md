@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chivas Regal Chivas XV - 700 ml' al 26.93682955899882 % de descuento
+title: 'Chivas Regal Chivas XV - 700 ml al 26.93682955899882 % de descuento'
 date: 2019/12/02 19:13:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WvLFvZlcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WvLFvZlcL._SL200_.jpg' ]

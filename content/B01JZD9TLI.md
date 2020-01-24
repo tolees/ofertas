@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.126340882002395 % en 'BOSS Trunk CO/EL Bóxer  Multicolor  Asso'
+title: 'Descuento del 26.126340882002395 % en BOSS Trunk CO/EL Bóxer  Multicolor  Asso'
 date: 2020-01-16 21:30:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mBuCfF03L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mBuCfF03L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jimmy Choo Brillengestelle Jc96 Monturas' al 57.31272727272727 % de descuento
+title: 'Jimmy Choo Brillengestelle Jc96 Monturas al 57.31272727272727 % de descuento'
 date: 2019/10/12 15:13:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UzvRKDzoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UzvRKDzoL._SL200_.jpg' ]

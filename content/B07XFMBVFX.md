@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack: Monstruos Clásicos Universal  BD  ' al 55.5643752976663 % de descuento
+title: 'Pack: Monstruos Clásicos Universal  BD   al 55.5643752976663 % de descuento'
 date: 2019/11/27 20:52:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F8ZKAP5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F8ZKAP5nL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance MS 247 FK de la Zapatilla de' al 28.57142857142857 % de descuento
+title: 'New Balance MS 247 FK de la Zapatilla de al 28.57142857142857 % de descuento'
 date: 2020-01-21 16:40:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-R8MguAUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-R8MguAUL._SL200_.jpg' ]

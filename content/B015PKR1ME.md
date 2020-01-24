@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips CAFETERAS  1 Liter  Plástico  Ne' al 39.51367781155015 % de descuento
+title: 'Philips CAFETERAS  1 Liter  Plástico  Ne al 39.51367781155015 % de descuento'
 date: 2020-01-04 07:43:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J-UZ9t-EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J-UZ9t-EL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Hoody  Sudadera con Capucha Unisex ' al 44.349070100143074 % de descuento
+title: 'Puma Hoody  Sudadera con Capucha Unisex  al 44.349070100143074 % de descuento'
 date: 2019/10/23 10:30:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315V9gTCmkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315V9gTCmkL._SL200_.jpg' ]

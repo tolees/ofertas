@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2790-COTROPEW  Zapatillas para M' al 59.35443037974684 % de descuento
+title: 'Superga 2790-COTROPEW  Zapatillas para M al 59.35443037974684 % de descuento'
 date: 2019/10/14 17:42:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PBi50N9pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PBi50N9pL._SL200_.jpg' ]

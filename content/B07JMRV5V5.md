@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.60257589696412 % en 'Marca Amazon - Goodthreads - Pantalón ch'
+title: 'Descuento del 35.60257589696412 % en Marca Amazon - Goodthreads - Pantalón ch'
 date: 2019/11/04 15:55:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V3-Y9qpGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V3-Y9qpGL._SL200_.jpg' ]

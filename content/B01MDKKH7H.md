@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.92941176470589 % en 'DC Heathrow M Zapatillas  Hombre  Negro '
+title: 'Descuento del 46.92941176470589 % en DC Heathrow M Zapatillas  Hombre  Negro '
 date: 2020-01-08 07:10:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31saZnxc2oL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Ch4872 Camisa  Rojo  Salvia/Encr' al 61.779816513761475 % de descuento
+title: 'Lacoste Ch4872 Camisa  Rojo  Salvia/Encr al 61.779816513761475 % de descuento'
 date: 2019/10/14 08:36:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w8aEFxdFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w8aEFxdFL._SL200_.jpg' ]

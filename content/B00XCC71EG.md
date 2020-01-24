@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Leibniz PiCK UP! Black´n White 24 x 28 g' al 49.64257347100873 % de descuento
+title: 'Leibniz PiCK UP! Black´n White 24 x 28 g al 49.64257347100873 % de descuento'
 date: 2019/12/19 14:56:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CHUgKFy2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CHUgKFy2L._SL200_.jpg' ]

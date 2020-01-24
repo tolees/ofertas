@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Borrás 18057 Ot  El Juego De Mesa  Multi' al 26.911519198664436 % de descuento
+title: 'Borrás 18057 Ot  El Juego De Mesa  Multi al 26.911519198664436 % de descuento'
 date: 2019/11/23 19:03:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519YR4JoCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519YR4JoCdL._SL200_.jpg' ]

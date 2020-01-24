@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.07862324953603 % en 'Carita Classiques Corps Crema de Día - 4'
+title: 'Descuento del 42.07862324953603 % en Carita Classiques Corps Crema de Día - 4'
 date: 2019/11/24 05:18:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nD8SrctdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nD8SrctdL._SL200_.jpg' ]

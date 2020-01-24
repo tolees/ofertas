@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose QuietComfort 20 Acoustic Noise Canc' al 59.995999199839964 % de descuento
+title: 'Bose QuietComfort 20 Acoustic Noise Canc al 59.995999199839964 % de descuento'
 date: 2020-01-23 19:27:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hs1W7Md4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hs1W7Md4L._SL200_.jpg' ]

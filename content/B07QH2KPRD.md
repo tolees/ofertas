@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HYLOGY Tensiómetro de Brazo  Monitor de ' al 40.008001600320064 % de descuento
+title: 'HYLOGY Tensiómetro de Brazo  Monitor de  al 40.008001600320064 % de descuento'
 date: 2020-01-20 18:32:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qd9%2BCViCL._SL200_.jpg' ]

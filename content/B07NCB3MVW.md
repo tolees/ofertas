@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.81333333333334 % en 'Pepe Jeans Paola Flower Print Vestido  M'
+title: 'Descuento del 57.81333333333334 % en Pepe Jeans Paola Flower Print Vestido  M'
 date: 2019/10/12 10:57:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YoovL4aSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YoovL4aSL._SL200_.jpg' ]

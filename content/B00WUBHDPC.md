@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CASUAL FRIDAY 500924 Camisa  50003 Black' al 53.46683354192741 % de descuento
+title: 'CASUAL FRIDAY 500924 Camisa  50003 Black al 53.46683354192741 % de descuento'
 date: 2019/11/30 21:56:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oXwUTdPuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oXwUTdPuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.991998399679936 % en 'Columbia Sun Ridge - Polo  Hombre  Azul '
+title: 'Descuento del 59.991998399679936 % en Columbia Sun Ridge - Polo  Hombre  Azul '
 date: 2019/11/24 09:30:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41thFEXYUtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41thFEXYUtL._SL200_.jpg' ]

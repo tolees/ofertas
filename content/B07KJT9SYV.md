@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quiksilver Quik Paradise T-Shirt  Hombre' al 43.51450483494498 % de descuento
+title: 'Quiksilver Quik Paradise T-Shirt  Hombre al 43.51450483494498 % de descuento'
 date: 2019/12/06 10:40:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nxvQNoIzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nxvQNoIzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fortnite: Lote De Criogenización  La caj' al 68.34472412068678 % de descuento
+title: 'Fortnite: Lote De Criogenización  La caj al 68.34472412068678 % de descuento'
 date: 2019/10/23 21:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51finR9yC1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51finR9yC1L._SL200_.jpg' ]

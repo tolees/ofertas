@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.1608040201005 % en 'Diadermine - Crema de Día Lift+ Super Re'
+title: 'Descuento del 32.1608040201005 % en Diadermine - Crema de Día Lift+ Super Re'
 date: 2019/12/23 11:09:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTE-DG%2BTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BTE-DG%2BTL._SL200_.jpg' ]

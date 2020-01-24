@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Speedcross 4  Zapatillas de Trai' al 29.97915798249271 % de descuento
+title: 'Salomon Speedcross 4  Zapatillas de Trai al 29.97915798249271 % de descuento'
 date: 2020-01-23 13:05:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B3iU1ndRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B3iU1ndRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite - Guardit - Mochila para Lapto' al 32.08474576271186 % de descuento
+title: 'Samsonite - Guardit - Mochila para Lapto al 32.08474576271186 % de descuento'
 date: 2019/11/01 08:43:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411B8uX5DxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411B8uX5DxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.7 % en 'Odlo Suw Crew Neck Active Originals  Cam'
+title: 'Descuento del 55.7 % en Odlo Suw Crew Neck Active Originals  Cam'
 date: 2020-01-07 16:21:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414gUuaWfpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414gUuaWfpL._SL200_.jpg' ]

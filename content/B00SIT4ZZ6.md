@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.005059875189744 % en 'Devolo dLAN 550 Duo+ - Adaptador PLC Pow'
+title: 'Descuento del 30.005059875189744 % en Devolo dLAN 550 Duo+ - Adaptador PLC Pow'
 date: 2019/11/07 19:08:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mNBy6MhcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mNBy6MhcL._SL200_.jpg' ]

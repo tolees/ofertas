@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.15695915279879 % en 'Caterpillar Economist  Botas Chelsea par'
+title: 'Descuento del 65.15695915279879 % en Caterpillar Economist  Botas Chelsea par'
 date: 2019/10/28 17:40:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lE1oHUnuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lE1oHUnuL._SL200_.jpg' ]

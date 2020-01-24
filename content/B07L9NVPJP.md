@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.1559633027523 % en 'Lacoste Court Slam 319 2 SMA  Zapatillas'
+title: 'Descuento del 41.1559633027523 % en Lacoste Court Slam 319 2 SMA  Zapatillas'
 date: 2019/11/22 02:11:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JXfNE36yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JXfNE36yL._SL200_.jpg' ]

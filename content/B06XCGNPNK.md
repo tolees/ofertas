@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gucci GG0008S gafas de sol  AVANA-BROWN-' al 48.141818181818174 % de descuento
+title: 'Gucci GG0008S gafas de sol  AVANA-BROWN- al 48.141818181818174 % de descuento'
 date: 2019/10/14 16:22:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnrRO7udL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BnrRO7udL._SL200_.jpg' ]

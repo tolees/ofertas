@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY BELK322AM5 Tanga  Red  Scoo' al 35.72303921568627 % de descuento
+title: 'IRIS & LILLY BELK322AM5 Tanga  Red  Scoo al 35.72303921568627 % de descuento'
 date: 2019/12/08 20:30:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uU2HG%2BGdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uU2HG%2BGdL._SL200_.jpg' ]

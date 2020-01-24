@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.53694740238787 % en 'Yasolote 22M Guirnalda de Luces Solares '
+title: 'Descuento del 64.53694740238787 % en Yasolote 22M Guirnalda de Luces Solares '
 date: 2020-01-17 10:02:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ynVQ24dHL._SL200_.jpg' ]

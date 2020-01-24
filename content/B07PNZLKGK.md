@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Nuevo Version] Andven Autoradio Bluetoo' al 44.45679355376494 % de descuento
+title: '[Nuevo Version] Andven Autoradio Bluetoo al 44.45679355376494 % de descuento'
 date: 2019/11/28 10:03:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LUlodXTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LUlodXTSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jvchengxi para Fitbit Ionic Case  TPU Pr' al 33.355570380253496 % de descuento
+title: 'Jvchengxi para Fitbit Ionic Case  TPU Pr al 33.355570380253496 % de descuento'
 date: 2019/10/23 20:12:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-6lZou9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-6lZou9VL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.418967587034814 % en 'Horizon - Complete Edition HITS'
+title: 'Descuento del 47.418967587034814 % en Horizon - Complete Edition HITS'
 date: 2020-01-09 23:24:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tQNpiNPUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tQNpiNPUL._SL200_.jpg' ]

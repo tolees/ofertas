@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Zoe  Suéter para Mujer  Negro' al 40.06666666666666 % de descuento
+title: 'Pepe Jeans Zoe  Suéter para Mujer  Negro al 40.06666666666666 % de descuento'
 date: 2019/10/22 12:17:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tlUeL9yLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tlUeL9yLL._SL200_.jpg' ]

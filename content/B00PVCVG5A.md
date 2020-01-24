@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link DIR-869 – Router WiFi AC 1750 Ap ' al 34.34304562946674 % de descuento
+title: 'D-Link DIR-869 – Router WiFi AC 1750 Ap  al 34.34304562946674 % de descuento'
 date: 2020-01-24 08:37:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QQ2PyjonL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QQ2PyjonL._AC_._SL200_.jpg' ]

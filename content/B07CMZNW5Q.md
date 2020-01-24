@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.01333777925975 % en 'Crocs Handle It Rain Boot K  Botas de Ag'
+title: 'Descuento del 40.01333777925975 % en Crocs Handle It Rain Boot K  Botas de Ag'
 date: 2019/12/13 17:55:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XnMf-7%2BYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XnMf-7%2BYL._SL200_.jpg' ]

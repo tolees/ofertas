@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Step Beat Dune  Zapatos de Cordon' al 59.526842584167426 % de descuento
+title: 'Clarks Step Beat Dune  Zapatos de Cordon al 59.526842584167426 % de descuento'
 date: 2019/10/22 21:07:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fZfVo8rtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fZfVo8rtL._SL200_.jpg' ]

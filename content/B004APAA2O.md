@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.10033444816055 % en 'Scotch-Brite - Rodillo Quitapelusas Mult'
+title: 'Descuento del 30.10033444816055 % en Scotch-Brite - Rodillo Quitapelusas Mult'
 date: 2019/12/02 00:02:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ql4rcMXwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ql4rcMXwL._SL200_.jpg' ]

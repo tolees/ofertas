@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xpansy Hose Manguera Extensible Modelo B' al 40.179806362378976 % de descuento
+title: 'Xpansy Hose Manguera Extensible Modelo B al 40.179806362378976 % de descuento'
 date: 2019/12/28 08:49:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pIKK7VoLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pIKK7VoLL._SL200_.jpg' ]

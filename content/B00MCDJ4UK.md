@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson Workforce WF-2630WF - Impresora mu' al 45.950085593296684 % de descuento
+title: 'Epson Workforce WF-2630WF - Impresora mu al 45.950085593296684 % de descuento'
 date: 2019/11/17 11:10:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qYJAY4jlL._SL200_.jpg' ]

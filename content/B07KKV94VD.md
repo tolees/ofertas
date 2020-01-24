@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Keng4 Chaqueta Punto  Azul  Bleu' al 44.08888888888889 % de descuento
+title: 'Naf Naf Keng4 Chaqueta Punto  Azul  Bleu al 44.08888888888889 % de descuento'
 date: 2019/10/14 21:28:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511c1AoqDsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511c1AoqDsL._SL200_.jpg' ]

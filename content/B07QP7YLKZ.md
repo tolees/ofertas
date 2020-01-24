@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PINPOXE Lámpara Antimosquitos  Lámpara C' al 65.72367481068724 % de descuento
+title: 'PINPOXE Lámpara Antimosquitos  Lámpara C al 65.72367481068724 % de descuento'
 date: 2019/11/28 21:25:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YT9Tk7vgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YT9Tk7vgL._SL200_.jpg' ]

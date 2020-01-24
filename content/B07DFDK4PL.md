@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.25759768451519 % en 'Funko 32770 Pocket POP Keychain: Fantast'
+title: 'Descuento del 42.25759768451519 % en Funko 32770 Pocket POP Keychain: Fantast'
 date: 2019/12/22 00:34:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z2RA4ltmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z2RA4ltmL._SL200_.jpg' ]

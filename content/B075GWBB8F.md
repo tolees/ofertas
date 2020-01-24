@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.290916366546604 % en 'LEGO 10868 DUPLO Town Farm Pony Stable T'
+title: 'Descuento del 27.290916366546604 % en LEGO 10868 DUPLO Town Farm Pony Stable T'
 date: 2019/11/14 04:48:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61oOzAnZsDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61oOzAnZsDL._SL200_.jpg' ]

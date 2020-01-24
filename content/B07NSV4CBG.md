@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 39350 POP. TV: Wheel of Fortune-Va' al 44.45640473627556 % de descuento
+title: 'Funko 39350 POP. TV: Wheel of Fortune-Va al 44.45640473627556 % de descuento'
 date: 2019/12/04 21:10:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313Hzp7nI2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313Hzp7nI2L._SL200_.jpg' ]

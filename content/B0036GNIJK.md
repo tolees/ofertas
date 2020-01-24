@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.349363507779348 % en 'REPSOL MOTO SPORT 4T 10W-40'
+title: 'Descuento del 29.349363507779348 % en REPSOL MOTO SPORT 4T 10W-40'
 date: 2019/10/30 15:43:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H4Y0vsigL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H4Y0vsigL._SL200_.jpg' ]

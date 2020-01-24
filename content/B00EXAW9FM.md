@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TIGI Catwalk Champú - 450 gr' al 57.2934472934473 % de descuento
+title: 'TIGI Catwalk Champú - 450 gr al 57.2934472934473 % de descuento'
 date: 2019/10/27 17:17:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-Loh-fg6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-Loh-fg6L._SL200_.jpg' ]

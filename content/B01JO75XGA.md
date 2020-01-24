@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.875219683655544 % en 'Timex Reloj Analógico para Hombre de Cua'
+title: 'Descuento del 33.875219683655544 % en Timex Reloj Analógico para Hombre de Cua'
 date: 2019/12/23 22:21:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BKyWF30RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BKyWF30RL._SL200_.jpg' ]

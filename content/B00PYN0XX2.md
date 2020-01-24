@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.19215155615698 % en 'Cojín Jimmy  80 × 55 cm  Gris'
+title: 'Descuento del 42.19215155615698 % en Cojín Jimmy  80 × 55 cm  Gris'
 date: 2019/10/11 14:28:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QWGHCBI4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QWGHCBI4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.99159663865545 % en 'Lacoste La Piquee 119 1 Cfa  Zapatillas '
+title: 'Descuento del 48.99159663865545 % en Lacoste La Piquee 119 1 Cfa  Zapatillas '
 date: 2019/11/10 13:51:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg' ]

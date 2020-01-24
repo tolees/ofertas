@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Balenciaga Brillengestelle Ba5034 65A-52' al 81.925 % de descuento
+title: 'Balenciaga Brillengestelle Ba5034 65A-52 al 81.925 % de descuento'
 date: 2020-01-15 08:26:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TUsiaKkoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TUsiaKkoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Gw500v1  Zapatillas de Depor' al 67.46666666666667 % de descuento
+title: 'New Balance Gw500v1  Zapatillas de Depor al 67.46666666666667 % de descuento'
 date: 2020-01-19 17:25:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gcpw33pbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gcpw33pbL._SL200_.jpg' ]

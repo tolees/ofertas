@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Cibeck Vestido  Multicolor  Open Mi' al 57.111111111111114 % de descuento
+title: 'BOSS Cibeck Vestido  Multicolor  Open Mi al 57.111111111111114 % de descuento'
 date: 2019/11/19 13:52:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CE%2BCLM73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CE%2BCLM73L._SL200_.jpg' ]

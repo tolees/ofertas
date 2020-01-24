@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.910000000000004 % en 'New Balance 574S v2  Zapatillas para Muj'
+title: 'Descuento del 40.910000000000004 % en New Balance 574S v2  Zapatillas para Muj'
 date: 2019/10/12 20:11:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412F-g1mZrL._SL200_.jpg' ]

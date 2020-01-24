@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.699999999999996 % en 'Under Armour HG Novelty Leggin  niña  De'
+title: 'Descuento del 58.699999999999996 % en Under Armour HG Novelty Leggin  niña  De'
 date: 2019/10/28 14:39:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519RgtA3eSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519RgtA3eSL._SL200_.jpg' ]

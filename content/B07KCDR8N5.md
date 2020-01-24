@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.95942720763723 % en 'Harry Potter Pijama para Hombre Negro Me'
+title: 'Descuento del 42.95942720763723 % en Harry Potter Pijama para Hombre Negro Me'
 date: 2019/10/10 08:00:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F%2BP%2BftcZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F%2BP%2BftcZL._SL200_.jpg' ]

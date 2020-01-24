@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Easy Camp Austin 20 Back Pack  Color Ver' al 66.57952069716775 % de descuento
+title: 'Easy Camp Austin 20 Back Pack  Color Ver al 66.57952069716775 % de descuento'
 date: 2019/11/10 20:21:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31r6sV9063L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31r6sV9063L._SL200_.jpg' ]

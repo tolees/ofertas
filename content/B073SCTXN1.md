@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Camiseta Mensaje para Hombre  Gris' al 70.0 % de descuento
+title: 'find. Camiseta Mensaje para Hombre  Gris al 70.0 % de descuento'
 date: 2019/10/15 17:27:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dXM9OGotL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dXM9OGotL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moulinex Fresh Express DJ753500 Rallador' al 25.459174395344608 % de descuento
+title: 'Moulinex Fresh Express DJ753500 Rallador al 25.459174395344608 % de descuento'
 date: 2020-01-14 09:42:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xqTj6SRaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xqTj6SRaL._SL200_.jpg' ]

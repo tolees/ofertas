@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.94411866160745 % en 'Worth Garden 2 x Canasta de Jardinera Co'
+title: 'Descuento del 37.94411866160745 % en Worth Garden 2 x Canasta de Jardinera Co'
 date: 2019/10/15 14:18:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n85Wy4ZpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n85Wy4ZpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scuderia Ferrari Reloj Analógico para Ho' al 35.0 % de descuento
+title: 'Scuderia Ferrari Reloj Analógico para Ho al 35.0 % de descuento'
 date: 2019/12/03 00:44:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RNdclN8aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RNdclN8aL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.74121492781259 % en 'Marshmallow Glitter  40 cm  3 litros  Ve'
+title: 'Descuento del 49.74121492781259 % en Marshmallow Glitter  40 cm  3 litros  Ve'
 date: 2020-01-22 16:09:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512OO%2BXwDzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ORNARTO Funda Huawei Mate 20 Lite Mate 2' al 70.02334111370456 % de descuento
+title: 'ORNARTO Funda Huawei Mate 20 Lite Mate 2 al 70.02334111370456 % de descuento'
 date: 2019/12/18 10:08:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Gd0JrhTlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Gd0JrhTlL._SL200_.jpg' ]

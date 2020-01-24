@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.87077415483097 % en 'Los SIMS 4 y Perros y Gatos Colección'
+title: 'Descuento del 53.87077415483097 % en Los SIMS 4 y Perros y Gatos Colección'
 date: 2020-01-11 21:19:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wqTIV9nuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wqTIV9nuL._SL200_.jpg' ]

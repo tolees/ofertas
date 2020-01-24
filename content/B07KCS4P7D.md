@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Blockade II Scribble Backpack M' al 49.44444444444444 % de descuento
+title: 'Hurley M Blockade II Scribble Backpack M al 49.44444444444444 % de descuento'
 date: 2019/10/28 16:28:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZH8ni1ItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZH8ni1ItL._SL200_.jpg' ]

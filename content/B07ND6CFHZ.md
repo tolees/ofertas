@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 42099 Technic Control+ 4x4 X-treme ' al 25.00125006250312 % de descuento
+title: 'LEGO 42099 Technic Control+ 4x4 X-treme  al 25.00125006250312 % de descuento'
 date: 2019/12/22 08:36:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UJ7QH6lJL._SL200_.jpg' ]

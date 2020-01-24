@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INTEY Cajas giratorias para Relojes Auto' al 33.35 % de descuento
+title: 'INTEY Cajas giratorias para Relojes Auto al 33.35 % de descuento'
 date: 2019/11/04 11:44:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yoj26z1cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yoj26z1cL._SL200_.jpg' ]

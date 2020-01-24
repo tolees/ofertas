@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.772709083633444 % en 'SILVERHT Wave - Funda para Apple iPad Ai'
+title: 'Descuento del 31.772709083633444 % en SILVERHT Wave - Funda para Apple iPad Ai'
 date: 2019/11/19 10:14:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TPLXv0vxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TPLXv0vxL._SL200_.jpg' ]

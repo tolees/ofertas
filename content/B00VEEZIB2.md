@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JVC In-Ear Headphones Sweat Proof Earpho' al 60.306871247498336 % de descuento
+title: 'JVC In-Ear Headphones Sweat Proof Earpho al 60.306871247498336 % de descuento'
 date: 2020-01-08 14:27:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hFA3OEpmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hFA3OEpmL._SL200_.jpg' ]

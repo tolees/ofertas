@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.971912273951514 % en 'Remington Nano Lithium Series NE3870 Cor'
+title: 'Descuento del 26.971912273951514 % en Remington Nano Lithium Series NE3870 Cor'
 date: 2019/11/15 16:52:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v4E9OOEiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v4E9OOEiL._SL200_.jpg' ]

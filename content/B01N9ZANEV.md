@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Avent SCF798/01 - Vaso con pajit' al 33.444537114261884 % de descuento
+title: 'Philips Avent SCF798/01 - Vaso con pajit al 33.444537114261884 % de descuento'
 date: 2019/11/28 19:30:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31txdEoVBjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31txdEoVBjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.631968883126504 % en 'G-STAR RAW Vodan Teddy Padded HDD Jkt Ch'
+title: 'Descuento del 52.631968883126504 % en G-STAR RAW Vodan Teddy Padded HDD Jkt Ch'
 date: 2019/11/24 09:12:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GReK5EiSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GReK5EiSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 94.22854944209311 % en 'Pets Rock Tazas en Expositor  Multicolor'
+title: 'Descuento del 94.22854944209311 % en Pets Rock Tazas en Expositor  Multicolor'
 date: 2019/11/13 10:50:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PW%2BkrNAIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PW%2BkrNAIL._SL200_.jpg' ]

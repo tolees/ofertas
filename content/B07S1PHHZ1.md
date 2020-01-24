@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Cumulus 21  Zapatillas de Runn' al 32.985714285714295 % de descuento
+title: 'Asics Gel-Cumulus 21  Zapatillas de Runn al 32.985714285714295 % de descuento'
 date: 2019/10/09 15:30:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mSnietBWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mSnietBWL._SL200_.jpg' ]

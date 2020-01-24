@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.23748211731044 % en 'Kappa Memni  Zapatillas para Mujer  Blac'
+title: 'Descuento del 66.23748211731044 % en Kappa Memni  Zapatillas para Mujer  Blac'
 date: 2020-01-23 15:22:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317MaKsvNlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317MaKsvNlL._SL200_.jpg' ]

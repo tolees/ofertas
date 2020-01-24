@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garmin Forerunner 735XT-GPS-Uhr  schwarz' al 35.4295837023915 % de descuento
+title: 'Garmin Forerunner 735XT-GPS-Uhr  schwarz al 35.4295837023915 % de descuento'
 date: 2020-01-12 09:05:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ln76YhbkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ln76YhbkL._SL200_.jpg' ]

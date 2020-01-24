@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas X 19.3 FG  Zapatillas de Fútbol p' al 36.76047529706066 % de descuento
+title: 'adidas X 19.3 FG  Zapatillas de Fútbol p al 36.76047529706066 % de descuento'
 date: 2019/12/15 12:30:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rUDradY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rUDradY7L._SL200_.jpg' ]

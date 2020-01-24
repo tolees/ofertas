@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.99130056546325 % en 'Timberland Damen 14 Inch Premium Waterpr'
+title: 'Descuento del 69.99130056546325 % en Timberland Damen 14 Inch Premium Waterpr'
 date: 2020-01-16 09:03:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pu-dfP3UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pu-dfP3UL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon AGILE WARM GLOVE U Guantes unise' al 35.71428571428571 % de descuento
+title: 'Salomon AGILE WARM GLOVE U Guantes unise al 35.71428571428571 % de descuento'
 date: 2020-01-24 11:01:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZTRwQLK-L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZTRwQLK-L._AC_._SL200_.jpg' ]

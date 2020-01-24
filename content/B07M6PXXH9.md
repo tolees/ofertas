@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pantalla de proyector de Montaje en Pare' al 50.487621905476374 % de descuento
+title: 'Pantalla de proyector de Montaje en Pare al 50.487621905476374 % de descuento'
 date: 2019/12/30 19:11:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AUg60cyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AUg60cyBL._SL200_.jpg' ]

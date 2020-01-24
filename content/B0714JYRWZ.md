@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.81599233301388 % en 'SELECTED HOMME Shnclash Parka STS  Negro'
+title: 'Descuento del 83.81599233301388 % en SELECTED HOMME Shnclash Parka STS  Negro'
 date: 2019/11/09 21:33:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Thoh3oJ%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Thoh3oJ%2BL._SL200_.jpg' ]

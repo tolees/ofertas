@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.5 % en 'find. 17 03 LLF 04 vestido fiesta mujer '
+title: 'Descuento del 62.5 % en find. 17 03 LLF 04 vestido fiesta mujer '
 date: 2020-01-08 07:16:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d9X-4TGeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d9X-4TGeL._SL200_.jpg' ]

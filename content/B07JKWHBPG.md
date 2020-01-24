@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Austin Vaqueros Tapered  Azul  Dark ' al 79.91106170094497 % de descuento
+title: 'Lee Austin Vaqueros Tapered  Azul  Dark  al 79.91106170094497 % de descuento'
 date: 2019/10/30 07:00:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M5ywURVfL._SL200_.jpg' ]

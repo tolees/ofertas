@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skullcandy S4CHY-K602 Chops Flex Sport -' al 54.84311050477489 % de descuento
+title: 'Skullcandy S4CHY-K602 Chops Flex Sport - al 54.84311050477489 % de descuento'
 date: 2019/10/21 14:17:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31di3EqD2SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31di3EqD2SL._SL200_.jpg' ]

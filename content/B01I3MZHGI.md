@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.49367088607595 % en 'H.Koenig Cafetera de Goteo Programable  '
+title: 'Descuento del 49.49367088607595 % en H.Koenig Cafetera de Goteo Programable  '
 date: 2019/11/03 22:09:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RkvGZaQ0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RkvGZaQ0L._SL200_.jpg' ]

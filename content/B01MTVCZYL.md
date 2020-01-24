@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.441649196366182 % en 'ADIDAS Vs Pace  Zapatillas para Hombre  '
+title: 'Descuento del 28.441649196366182 % en ADIDAS Vs Pace  Zapatillas para Hombre  '
 date: 2019/10/10 20:19:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TwMIHdxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TwMIHdxCL._SL200_.jpg' ]

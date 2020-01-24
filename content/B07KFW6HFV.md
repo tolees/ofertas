@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.95 % en 'Helly Hansen W Daybreaker Chaqueta  Muje'
+title: 'Descuento del 46.95 % en Helly Hansen W Daybreaker Chaqueta  Muje'
 date: 2020-01-15 20:03:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZVWpC0rEL._SL200_.jpg' ]

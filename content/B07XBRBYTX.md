@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nobebird Portátil Calefactor Eléctrico  ' al 28.005601120224043 % de descuento
+title: 'Nobebird Portátil Calefactor Eléctrico   al 28.005601120224043 % de descuento'
 date: 2019/10/24 21:05:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B%2BBOcTFVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B%2BBOcTFVL._SL200_.jpg' ]

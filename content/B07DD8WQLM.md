@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.74396703943496 % en 'LOL Surprise - Pets Serie Espía Mascota '
+title: 'Descuento del 64.74396703943496 % en LOL Surprise - Pets Serie Espía Mascota '
 date: 2020-01-24 10:10:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zDUGCGChL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zDUGCGChL._AC_._SL200_.jpg' ]

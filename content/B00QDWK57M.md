@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.45201625507971 % en 'Ravensburger 16701 Star Wars Universum P'
+title: 'Descuento del 46.45201625507971 % en Ravensburger 16701 Star Wars Universum P'
 date: 2020-01-19 11:01:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J1o17PbBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J1o17PbBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'eXtremeRate Joysticks Thumbsticks Botone' al 44.46091144868469 % de descuento
+title: 'eXtremeRate Joysticks Thumbsticks Botone al 44.46091144868469 % de descuento'
 date: 2019/10/20 12:05:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QVtEsJzzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QVtEsJzzL._SL200_.jpg' ]

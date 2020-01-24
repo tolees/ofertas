@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG 34UM88-P - Monitor Profesional UltraW' al 48.50847457627119 % de descuento
+title: 'LG 34UM88-P - Monitor Profesional UltraW al 48.50847457627119 % de descuento'
 date: 2020-01-14 22:22:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pVW-cOpfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pVW-cOpfL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schott NYC LC1140 - Chaqueta de manga la' al 41.65294117647059 % de descuento
+title: 'Schott NYC LC1140 - Chaqueta de manga la al 41.65294117647059 % de descuento'
 date: 2019/12/02 18:36:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411riM87thL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411riM87thL._SL200_.jpg' ]

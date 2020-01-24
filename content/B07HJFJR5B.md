@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polaroid PLD 2068/S/X Gafas de Sol  Mult' al 42.85714285714286 % de descuento
+title: 'Polaroid PLD 2068/S/X Gafas de Sol  Mult al 42.85714285714286 % de descuento'
 date: 2019/11/04 18:10:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mEMGdEfQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mEMGdEfQL._SL200_.jpg' ]

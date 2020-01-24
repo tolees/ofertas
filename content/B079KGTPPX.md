@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RALPH LAUREN 0RL7059 Gafas de sol  Silve' al 86.84313725490196 % de descuento
+title: 'RALPH LAUREN 0RL7059 Gafas de sol  Silve al 86.84313725490196 % de descuento'
 date: 2019/11/13 13:07:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nr7p61O2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nr7p61O2L._SL200_.jpg' ]

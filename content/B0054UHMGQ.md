@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Play Massage 2 en 1 Gel de Masaje ' al 28.064716863721216 % de descuento
+title: 'Durex Play Massage 2 en 1 Gel de Masaje  al 28.064716863721216 % de descuento'
 date: 2020-01-19 12:05:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NCuAa7WxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NCuAa7WxL._SL200_.jpg' ]

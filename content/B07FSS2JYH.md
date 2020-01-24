@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung SM-N960F/DS Galaxy Note9  6.4"  ' al 41.30262112787927 % de descuento
+title: 'Samsung SM-N960F/DS Galaxy Note9  6.4"   al 41.30262112787927 % de descuento'
 date: 2019/12/22 07:46:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iF7TYn4-L._SL200_.jpg' ]

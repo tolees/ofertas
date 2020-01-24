@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.01666666666667 % en 'Hurley M Phantom Solace 18  BAÑADORES  H'
+title: 'Descuento del 70.01666666666667 % en Hurley M Phantom Solace 18  BAÑADORES  H'
 date: 2019/11/15 21:37:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JlSlVfHtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JlSlVfHtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.675804529201436 % en 'Charles Wilson Originals Sudadera con Ca'
+title: 'Descuento del 47.675804529201436 % en Charles Wilson Originals Sudadera con Ca'
 date: 2020-01-21 13:33:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PIElAQHqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PIElAQHqL._SL200_.jpg' ]

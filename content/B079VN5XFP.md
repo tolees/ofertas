@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.19164430816405 % en 'Montichelvo Backpack A.O. M&L Kiss Me Sc'
+title: 'Descuento del 50.19164430816405 % en Montichelvo Backpack A.O. M&L Kiss Me Sc'
 date: 2020-01-10 21:59:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61v2BN0uHSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61v2BN0uHSL._SL200_.jpg' ]

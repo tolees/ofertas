@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Attacc Straight Jeans  Negro ' al 71.07702567522507 % de descuento
+title: 'G-STAR RAW Attacc Straight Jeans  Negro  al 71.07702567522507 % de descuento'
 date: 2019/10/14 20:06:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ofXpbXuPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ofXpbXuPL._SL200_.jpg' ]

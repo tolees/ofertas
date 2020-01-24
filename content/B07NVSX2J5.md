@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Passionata Georgia Sujetador para Camise' al 33.38632750397457 % de descuento
+title: 'Passionata Georgia Sujetador para Camise al 33.38632750397457 % de descuento'
 date: 2019/12/23 17:52:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yTqVnE9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yTqVnE9fL._SL200_.jpg' ]

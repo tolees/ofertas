@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rip Curl La Dolce Vita Dress Vestido  Mu' al 56.77612935489249 % de descuento
+title: 'Rip Curl La Dolce Vita Dress Vestido  Mu al 56.77612935489249 % de descuento'
 date: 2019/11/04 08:26:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zx6SZY7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zx6SZY7mL._SL200_.jpg' ]

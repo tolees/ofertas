@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Combi Polos Caballero  Hombre  Mari' al 35.050000000000004 % de descuento
+title: 'Joma Combi Polos Caballero  Hombre  Mari al 35.050000000000004 % de descuento'
 date: 2020-01-02 21:39:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bEj3Ct0DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bEj3Ct0DL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cat Footwear Colorado  Botas para Hombre' al 50.24666666666666 % de descuento
+title: 'Cat Footwear Colorado  Botas para Hombre al 50.24666666666666 % de descuento'
 date: 2020-01-02 16:32:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg' ]

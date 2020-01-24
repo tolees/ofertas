@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OKI MB472dnw - Equipo multifunción con t' al 48.940998487140696 % de descuento
+title: 'OKI MB472dnw - Equipo multifunción con t al 48.940998487140696 % de descuento'
 date: 2019/11/04 14:07:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P5bFh4WpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P5bFh4WpL._SL200_.jpg' ]

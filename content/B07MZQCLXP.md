@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Richardson Chaqueta   Black 9' al 41.42727272727272 % de descuento
+title: 'Pepe Jeans Richardson Chaqueta   Black 9 al 41.42727272727272 % de descuento'
 date: 2019/12/17 18:22:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hv2%2BDc7eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hv2%2BDc7eL._SL200_.jpg' ]

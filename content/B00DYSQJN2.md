@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ollas Agnelli Tapa de Cobre stagnato' al 25.031249999999993 % de descuento
+title: 'Ollas Agnelli Tapa de Cobre stagnato al 25.031249999999993 % de descuento'
 date: 2019/10/18 17:36:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQTPkU-XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UQTPkU-XL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin Adapter USB-C auf USB-A  15cm  US' al 52.47623811905952 % de descuento
+title: 'Belkin Adapter USB-C auf USB-A  15cm  US al 52.47623811905952 % de descuento'
 date: 2020-01-02 09:14:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h41OzPlnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h41OzPlnL._SL200_.jpg' ]

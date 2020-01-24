@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Baja: Edge Of Control' al 33.51117039013004 % de descuento
+title: 'Baja: Edge Of Control al 33.51117039013004 % de descuento'
 date: 2019/12/14 12:39:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61p%2BV4K6vwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61p%2BV4K6vwL._SL200_.jpg' ]

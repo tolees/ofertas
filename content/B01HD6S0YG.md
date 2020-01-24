@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Herren Trail Running Schuhe  XA ' al 35.31470716919808 % de descuento
+title: 'Salomon Herren Trail Running Schuhe  XA  al 35.31470716919808 % de descuento'
 date: 2020-01-22 19:08:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QIbBil0fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QIbBil0fL._SL200_.jpg' ]

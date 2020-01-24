@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.19392073874567 % en 'Osram Planon Luminaria LED  36 W  Blanco'
+title: 'Descuento del 64.19392073874567 % en Osram Planon Luminaria LED  36 W  Blanco'
 date: 2019/10/20 16:45:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z6uu1W--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z6uu1W--L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Spike Vaqueros  Azul  Streaky' al 39.470588235294116 % de descuento
+title: 'Pepe Jeans Spike Vaqueros  Azul  Streaky al 39.470588235294116 % de descuento'
 date: 2019/10/30 15:49:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YgS9lB%2BLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YgS9lB%2BLL._SL200_.jpg' ]

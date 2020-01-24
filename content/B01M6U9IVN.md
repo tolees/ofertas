@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.38888888888889 % en 'Umbro Loyal Pantalones  Hombre  Negro  L'
+title: 'Descuento del 33.38888888888889 % en Umbro Loyal Pantalones  Hombre  Negro  L'
 date: 2020-01-12 15:03:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311J%2Btq2ncL._SL200_.jpg' ]

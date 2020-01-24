@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Ganso 1020S190029 Pantalones  Azul Ma' al 27.000650618087175 % de descuento
+title: 'El Ganso 1020S190029 Pantalones  Azul Ma al 27.000650618087175 % de descuento'
 date: 2019/12/03 20:02:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a%2Bysj%2BgrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a%2Bysj%2BgrL._SL200_.jpg' ]

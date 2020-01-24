@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spontex Universale - Set de 3 estropajos' al 46.23655913978495 % de descuento
+title: 'Spontex Universale - Set de 3 estropajos al 46.23655913978495 % de descuento'
 date: 2020-01-19 17:52:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512ShwZr3uL._SL200_.jpg' ]

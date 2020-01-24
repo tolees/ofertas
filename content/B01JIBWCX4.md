@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Neewer 36cm Exterior LED Anillo de Luz 3' al 26.66962995888432 % de descuento
+title: 'Neewer 36cm Exterior LED Anillo de Luz 3 al 26.66962995888432 % de descuento'
 date: 2019/12/14 04:17:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IHd4%2Bm2IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IHd4%2Bm2IL._SL200_.jpg' ]

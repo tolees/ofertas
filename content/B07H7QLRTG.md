@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.011204481792717 % en 'JACK & JONES NOS Jachenrik Trunks 3 Pack'
+title: 'Descuento del 28.011204481792717 % en JACK & JONES NOS Jachenrik Trunks 3 Pack'
 date: 2019/12/28 19:19:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L-2qRflwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L-2qRflwL._SL200_.jpg' ]

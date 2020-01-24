@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.52307692307693 % en 'Lee Western Shirt Camisa  Marfil  Radian'
+title: 'Descuento del 61.52307692307693 % en Lee Western Shirt Camisa  Marfil  Radian'
 date: 2019/11/12 11:38:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qaZyjGK7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qaZyjGK7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orient Reloj Cronógrafo para Hombre de C' al 73.88888888888889 % de descuento
+title: 'Orient Reloj Cronógrafo para Hombre de C al 73.88888888888889 % de descuento'
 date: 2019/11/14 05:04:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lMYUksSdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lMYUksSdL._SL200_.jpg' ]

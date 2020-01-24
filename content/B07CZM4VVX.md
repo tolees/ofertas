@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.11462292458492 % en 'Under Armour UA Speedpocket 8   Linerles'
+title: 'Descuento del 73.11462292458492 % en Under Armour UA Speedpocket 8   Linerles'
 date: 2019/10/06 18:52:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FaIGNNtpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FaIGNNtpL._SL200_.jpg' ]

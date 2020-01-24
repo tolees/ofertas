@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.73869346733668 % en 'FISCHER Kinder Fahrradanhänger Komfort m'
+title: 'Descuento del 47.73869346733668 % en FISCHER Kinder Fahrradanhänger Komfort m'
 date: 2019/11/19 14:46:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MhjzLPciL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MhjzLPciL._SL200_.jpg' ]

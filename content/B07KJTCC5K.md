@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Naturalista N5154 VAQUETILLA Trivia  ' al 73.74687343671836 % de descuento
+title: 'El Naturalista N5154 VAQUETILLA Trivia   al 73.74687343671836 % de descuento'
 date: 2019/11/16 12:11:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41imCQbr2rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41imCQbr2rL._SL200_.jpg' ]

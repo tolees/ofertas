@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GEARGO K181- Purificador de Aire con HEP' al 31.691703112125257 % de descuento
+title: 'GEARGO K181- Purificador de Aire con HEP al 31.691703112125257 % de descuento'
 date: 2019/12/28 09:43:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TsxNH%2BfeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TsxNH%2BfeL._SL200_.jpg' ]

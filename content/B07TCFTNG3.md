@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aurorast 2× Foco Led Exterior Con Sensor' al 27.280994240679 % de descuento
+title: 'Aurorast 2× Foco Led Exterior Con Sensor al 27.280994240679 % de descuento'
 date: 2019/11/06 08:36:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419bv2TCH8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419bv2TCH8L._SL200_.jpg' ]

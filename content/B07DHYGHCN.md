@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L.30 Slide 119 1 Cuc  Sandalias ' al 55.22857142857143 % de descuento
+title: 'Lacoste L.30 Slide 119 1 Cuc  Sandalias  al 55.22857142857143 % de descuento'
 date: 2019/10/11 09:09:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21y7wiaXOGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21y7wiaXOGL._SL200_.jpg' ]

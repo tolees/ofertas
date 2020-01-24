@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Rizzo Colourblock Chaqueta  Roj' al 40.5115872321819 % de descuento
+title: 'New Look Rizzo Colourblock Chaqueta  Roj al 40.5115872321819 % de descuento'
 date: 2019/10/18 14:17:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DlJr0pGlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DlJr0pGlL._SL200_.jpg' ]

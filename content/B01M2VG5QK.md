@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Avery C  Mocasines para Mujer  Na' al 77.21721721721721 % de descuento
+title: 'Geox D Avery C  Mocasines para Mujer  Na al 77.21721721721721 % de descuento'
 date: 2019/11/01 14:12:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jZ9DBXLgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jZ9DBXLgL._SL200_.jpg' ]

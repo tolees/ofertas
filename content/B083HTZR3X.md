@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'K9CK Luces LED para Ideas La casa del ár'
+title: 'Descuento del 50.0 % en K9CK Luces LED para Ideas La casa del ár'
 date: 2020-01-17 03:07:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QqUsD3BUL._SL200_.jpg' ]

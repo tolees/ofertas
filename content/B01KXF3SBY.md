@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.75342465753424 % en 'Wonvin Mujeres 925 Plata esterlina 3D Li'
+title: 'Descuento del 65.75342465753424 % en Wonvin Mujeres 925 Plata esterlina 3D Li'
 date: 2019/12/04 10:34:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fQkTfUmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fQkTfUmpL._SL200_.jpg' ]

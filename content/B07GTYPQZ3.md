@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon JMA001DA NIKKOR Z 50 mm f1.8 S Len' al 45.07512520868113 % de descuento
+title: 'Nikon JMA001DA NIKKOR Z 50 mm f1.8 S Len al 45.07512520868113 % de descuento'
 date: 2019/10/18 09:28:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z1xSI6y3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z1xSI6y3L._SL200_.jpg' ]

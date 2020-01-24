@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ENACFIRE Wireless Headphones  Future Blu' al 60.32224779744424 % de descuento
+title: 'ENACFIRE Wireless Headphones  Future Blu al 60.32224779744424 % de descuento'
 date: 2020-01-23 17:28:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q7MpBCGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q7MpBCGtL._SL200_.jpg' ]

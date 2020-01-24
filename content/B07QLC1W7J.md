@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sierra Circular  GALAX PRO 1400W 5500RPM' al 25.00312539067383 % de descuento
+title: 'Sierra Circular  GALAX PRO 1400W 5500RPM al 25.00312539067383 % de descuento'
 date: 2019/10/11 10:30:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NjszSYayL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NjszSYayL._SL200_.jpg' ]

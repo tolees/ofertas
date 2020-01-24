@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak STAND + Bolsa de viaje  53 cm  3' al 46.96666666666667 % de descuento
+title: 'Eastpak STAND + Bolsa de viaje  53 cm  3 al 46.96666666666667 % de descuento'
 date: 2019/12/29 18:53:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rocyb1xiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rocyb1xiL._SL200_.jpg' ]

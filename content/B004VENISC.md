@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.61538461538461 % en 'L Oréal Paris Barra de Labios Color Rich'
+title: 'Descuento del 32.61538461538461 % en L Oréal Paris Barra de Labios Color Rich'
 date: 2019/12/15 14:25:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TBjQb4S1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TBjQb4S1L._SL200_.jpg' ]

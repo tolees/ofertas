@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko- Pop Vinilo: Big Bang Theory S2: H' al 41.12852664576801 % de descuento
+title: 'Funko- Pop Vinilo: Big Bang Theory S2: H al 41.12852664576801 % de descuento'
 date: 2019/12/29 01:16:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41whwnpeYvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41whwnpeYvL._SL200_.jpg' ]

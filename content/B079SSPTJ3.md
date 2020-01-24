@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.02764976958525 % en 'Desigual Vest_Carlist  Vestido para Muje'
+title: 'Descuento del 42.02764976958525 % en Desigual Vest_Carlist  Vestido para Muje'
 date: 2019/10/12 13:51:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vphDC1mIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vphDC1mIL._SL200_.jpg' ]

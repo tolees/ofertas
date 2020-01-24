@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.05015673981191 % en 'Arena HYDROSOFT JR Boy HOO  Zapatos de P'
+title: 'Descuento del 36.05015673981191 % en Arena HYDROSOFT JR Boy HOO  Zapatos de P'
 date: 2020-01-20 01:54:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KdCCaplJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KdCCaplJL._SL200_.jpg' ]

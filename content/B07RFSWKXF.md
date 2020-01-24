@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy A80 Smartphone de 6.7" FH' al 28.400597907324364 % de descuento
+title: 'Samsung Galaxy A80 Smartphone de 6.7" FH al 28.400597907324364 % de descuento'
 date: 2020-01-22 22:29:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Vty10BCLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Vty10BCLL._SL200_.jpg' ]

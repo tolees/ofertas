@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.054631828978614 % en 'Superdry Orange Label Jogger  Pantalones'
+title: 'Descuento del 37.054631828978614 % en Superdry Orange Label Jogger  Pantalones'
 date: 2019/12/01 11:43:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dwCSpAkFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dwCSpAkFL._SL200_.jpg' ]

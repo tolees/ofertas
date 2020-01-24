@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KYG Licuadora Portátil con 4 Cuchillas M' al 25.935531678399403 % de descuento
+title: 'KYG Licuadora Portátil con 4 Cuchillas M al 25.935531678399403 % de descuento'
 date: 2019/11/11 13:58:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MpfyUxwrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MpfyUxwrL._SL200_.jpg' ]

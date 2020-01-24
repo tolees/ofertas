@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elicoidali Garofalo 500 Gr - [Pack De 16' al 36.241610738255034 % de descuento
+title: 'Elicoidali Garofalo 500 Gr - [Pack De 16 al 36.241610738255034 % de descuento'
 date: 2019/11/12 14:33:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PlDNzEqrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PlDNzEqrL._SL200_.jpg' ]

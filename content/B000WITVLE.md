@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.21359013200606 % en 'Zwiesel Kristalglas 113771 Pure - Vaso a'
+title: 'Descuento del 53.21359013200606 % en Zwiesel Kristalglas 113771 Pure - Vaso a'
 date: 2019/10/26 12:13:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AE392dDoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AE392dDoL._SL200_.jpg' ]

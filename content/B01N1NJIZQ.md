@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black & Decker bdcdc18bafc broca' al 32.53835637247457 % de descuento
+title: 'Black & Decker bdcdc18bafc broca al 32.53835637247457 % de descuento'
 date: 2020-01-12 16:36:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z9nvAbk1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z9nvAbk1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.33444448148272 % en 'SportPlus Bicicleta Estática con Control'
+title: 'Descuento del 33.33444448148272 % en SportPlus Bicicleta Estática con Control'
 date: 2020-01-10 08:34:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vNMK-V0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vNMK-V0NL._SL200_.jpg' ]

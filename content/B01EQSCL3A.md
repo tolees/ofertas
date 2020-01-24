@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.69779853235491 % en 'TOUCHBeauty TB-1583 40 °C Caliente Masaj'
+title: 'Descuento del 46.69779853235491 % en TOUCHBeauty TB-1583 40 °C Caliente Masaj'
 date: 2020-01-12 18:32:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fXfLodJZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fXfLodJZL._SL200_.jpg' ]

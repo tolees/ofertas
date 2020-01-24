@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Limxems - Cargador rápido inalámbrico de' al 64.94152046783626 % de descuento
+title: 'Limxems - Cargador rápido inalámbrico de al 64.94152046783626 % de descuento'
 date: 2019/10/10 09:30:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LlVmqiRCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LlVmqiRCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.411764705882355 % en 'Lacoste Sonnenbrille L789s Gafas de sol '
+title: 'Descuento del 46.411764705882355 % en Lacoste Sonnenbrille L789s Gafas de sol '
 date: 2019/10/13 19:25:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DnOfPzOFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DnOfPzOFL._SL200_.jpg' ]

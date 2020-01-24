@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop! 12441 Animation: Rick and Mor' al 35.38295577130528 % de descuento
+title: 'Funko Pop! 12441 Animation: Rick and Mor al 35.38295577130528 % de descuento'
 date: 2019/12/02 23:33:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51plogACbtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51plogACbtL._SL200_.jpg' ]

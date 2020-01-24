@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Springer Riñonera  23 cm  2 L  G' al 33.518518518518526 % de descuento
+title: 'Eastpak Springer Riñonera  23 cm  2 L  G al 33.518518518518526 % de descuento'
 date: 2019/11/04 04:23:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yFoxlbUYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yFoxlbUYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HUION Tableta de Dibujo gráfico INSPIROY' al 32.42513500245459 % de descuento
+title: 'HUION Tableta de Dibujo gráfico INSPIROY al 32.42513500245459 % de descuento'
 date: 2019/12/27 09:52:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mpvdO50WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mpvdO50WL._SL200_.jpg' ]

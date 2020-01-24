@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'New Balance X-90 Zapatillas Mujer  Gris '
+title: 'Descuento del 50.0 % en New Balance X-90 Zapatillas Mujer  Gris '
 date: 2019/10/15 09:01:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k-hyVw2OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k-hyVw2OL._SL200_.jpg' ]

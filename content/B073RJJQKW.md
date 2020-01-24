@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.79981801637853 % en 'Reebok Royal Classic Jogger 2  Zapatilla'
+title: 'Descuento del 39.79981801637853 % en Reebok Royal Classic Jogger 2  Zapatilla'
 date: 2019/11/14 15:52:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412WR0F6v5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412WR0F6v5L._SL200_.jpg' ]

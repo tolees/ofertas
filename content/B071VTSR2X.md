@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avenzo AV631CH - Auricular imantado  Col' al 41.420118343195256 % de descuento
+title: 'Avenzo AV631CH - Auricular imantado  Col al 41.420118343195256 % de descuento'
 date: 2019/12/25 13:15:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-zTGVve%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-zTGVve%2BL._SL200_.jpg' ]

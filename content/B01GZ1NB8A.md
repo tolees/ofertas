@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G.Skill 8GB DDR4-2800 módulo de - Memori' al 26.879878164858184 % de descuento
+title: 'G.Skill 8GB DDR4-2800 módulo de - Memori al 26.879878164858184 % de descuento'
 date: 2019/10/22 20:47:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oF4UaCtyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oF4UaCtyL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KuGi OPPO RX17 Neo Screen Protector  9H ' al 67.21461187214612 % de descuento
+title: 'KuGi OPPO RX17 Neo Screen Protector  9H  al 67.21461187214612 % de descuento'
 date: 2019/10/11 23:07:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zkjKxzkhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zkjKxzkhL._SL200_.jpg' ]

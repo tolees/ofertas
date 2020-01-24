@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wahl Magic Clip - Cortapelos  120V-60HZ' al 62.495831017231794 % de descuento
+title: 'Wahl Magic Clip - Cortapelos  120V-60HZ al 62.495831017231794 % de descuento'
 date: 2019/10/29 12:47:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gc8R%2B-UbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gc8R%2B-UbL._SL200_.jpg' ]

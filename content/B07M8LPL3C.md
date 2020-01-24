@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler LS 1pkt Bdown Shirt Camisa  Azu' al 50.0417014178482 % de descuento
+title: 'Wrangler LS 1pkt Bdown Shirt Camisa  Azu al 50.0417014178482 % de descuento'
 date: 2020-01-08 20:05:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510qWZt9htL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510qWZt9htL._SL200_.jpg' ]

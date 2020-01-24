@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorstring tee SS Crew Neck ' al 30.887258172114752 % de descuento
+title: 'JACK & JONES Jorstring tee SS Crew Neck  al 30.887258172114752 % de descuento'
 date: 2019/11/07 19:50:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bhq3-HbkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bhq3-HbkL._SL200_.jpg' ]

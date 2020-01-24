@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rowenta Premium Care Liss & Curl SF7660F' al 33.32444325910121 % de descuento
+title: 'Rowenta Premium Care Liss & Curl SF7660F al 33.32444325910121 % de descuento'
 date: 2019/11/15 17:34:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HYefi2-jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HYefi2-jL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Chaqueta Impermeable con Capuch' al 41.57242864835757 % de descuento
+title: 'Columbia Chaqueta Impermeable con Capuch al 41.57242864835757 % de descuento'
 date: 2019/10/26 10:40:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ieQvcUYOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ieQvcUYOL._SL200_.jpg' ]

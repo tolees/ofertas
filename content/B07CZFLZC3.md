@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonderbra Sexy Brazilian Boxer  Negro  N' al 60.700685453160695 % de descuento
+title: 'Wonderbra Sexy Brazilian Boxer  Negro  N al 60.700685453160695 % de descuento'
 date: 2019/11/08 08:16:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wd0nbO79L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wd0nbO79L._SL200_.jpg' ]

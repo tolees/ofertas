@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Aerons Vest Jacke Chaleco  Azu' al 43.74213836477987 % de descuento
+title: 'Napapijri Aerons Vest Jacke Chaleco  Azu al 43.74213836477987 % de descuento'
 date: 2019/11/15 22:38:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416tCU4YaiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416tCU4YaiL._SL200_.jpg' ]

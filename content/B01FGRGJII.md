@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair K70 LUX Rot LED Mechanische Gami' al 35.739814152966396 % de descuento
+title: 'Corsair K70 LUX Rot LED Mechanische Gami al 35.739814152966396 % de descuento'
 date: 2019/11/15 15:52:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ajeukA01L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ajeukA01L._SL200_.jpg' ]

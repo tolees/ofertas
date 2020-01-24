@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Sun Ridge Polo  Hombre  Azul  B' al 46.08921784356872 % de descuento
+title: 'Columbia Sun Ridge Polo  Hombre  Azul  B al 46.08921784356872 % de descuento'
 date: 2019/10/12 15:00:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315Dw1QRMfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315Dw1QRMfL._SL200_.jpg' ]

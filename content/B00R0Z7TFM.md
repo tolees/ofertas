@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional GLM 40 Laser-Entfernu' al 55.9983993597439 % de descuento
+title: 'Bosch Professional GLM 40 Laser-Entfernu al 55.9983993597439 % de descuento'
 date: 2019/11/19 07:54:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gm5C5qL5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gm5C5qL5L._SL200_.jpg' ]

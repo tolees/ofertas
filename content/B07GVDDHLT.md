@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.214740673339406 % en 'Ferilinso Funda para Xiaomi Redmi Note 6'
+title: 'Descuento del 36.214740673339406 % en Ferilinso Funda para Xiaomi Redmi Note 6'
 date: 2019/11/28 19:44:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQO7rYVIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UQO7rYVIL._SL200_.jpg' ]

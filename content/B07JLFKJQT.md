@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL City Life 70049 Rettungswagen ' al 39.57074390498021 % de descuento
+title: 'PLAYMOBIL City Life 70049 Rettungswagen  al 39.57074390498021 % de descuento'
 date: 2020-01-02 14:38:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61T5g42nGLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61T5g42nGLL._SL200_.jpg' ]

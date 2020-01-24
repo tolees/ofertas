@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.89971346704872 % en 'Napapijri Aric Chaqueta  Negro  Black 04'
+title: 'Descuento del 59.89971346704872 % en Napapijri Aric Chaqueta  Negro  Black 04'
 date: 2020-01-19 15:49:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416x7fC4StL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416x7fC4StL._SL200_.jpg' ]

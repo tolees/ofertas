@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lebze Muselina Manta Bebé | Mantas de Mu' al 29.49852507374632 % de descuento
+title: 'Lebze Muselina Manta Bebé | Mantas de Mu al 29.49852507374632 % de descuento'
 date: 2019/11/25 17:52:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kiUSC1KIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kiUSC1KIL._SL200_.jpg' ]

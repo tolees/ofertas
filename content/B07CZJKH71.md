@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Qualifier Half Zip Parte' al 63.96368672103401 % de descuento
+title: 'Under Armour UA Qualifier Half Zip Parte al 63.96368672103401 % de descuento'
 date: 2019/11/05 15:11:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31saGVFxhgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31saGVFxhgL._SL200_.jpg' ]

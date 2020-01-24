@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Platform Kiss ATH Lux Wn s  Zapatil' al 78.68278449353897 % de descuento
+title: 'Puma Platform Kiss ATH Lux Wn s  Zapatil al 78.68278449353897 % de descuento'
 date: 2019/11/13 12:46:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BbHmZkoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U%2BbHmZkoL._SL200_.jpg' ]

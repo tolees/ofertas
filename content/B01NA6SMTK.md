@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pioneer SE-MS7BT-K - Auriculares de Tipo' al 40.310793137933686 % de descuento
+title: 'Pioneer SE-MS7BT-K - Auriculares de Tipo al 40.310793137933686 % de descuento'
 date: 2020-01-04 15:15:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KCIXIyQSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KCIXIyQSL._SL200_.jpg' ]

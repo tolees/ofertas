@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.087810300111144 % en 'RAOYI Memoria Flash USB 2.0 de 2GB Pendr'
+title: 'Descuento del 37.087810300111144 % en RAOYI Memoria Flash USB 2.0 de 2GB Pendr'
 date: 2019/10/08 17:47:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vIy6zdxSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vIy6zdxSL._SL200_.jpg' ]

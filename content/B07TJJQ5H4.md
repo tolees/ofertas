@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.32095096582466 % en 'Funko Pop! - Super Mario  Cuaderno A5 Es'
+title: 'Descuento del 58.32095096582466 % en Funko Pop! - Super Mario  Cuaderno A5 Es'
 date: 2020-01-19 09:33:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CerDMYBQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CerDMYBQL._SL200_.jpg' ]

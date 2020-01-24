@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.28235294117647 % en 'Lee Brooklyn Vaqueros Straight  Azul  Lt'
+title: 'Descuento del 67.28235294117647 % en Lee Brooklyn Vaqueros Straight  Azul  Lt'
 date: 2019/10/21 01:26:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t87YaLq1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t87YaLq1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coleccion Spartacus  Dioses De La Arena+' al 49.825735396626236 % de descuento
+title: 'Coleccion Spartacus  Dioses De La Arena+ al 49.825735396626236 % de descuento'
 date: 2019/11/27 20:52:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kI3BY7vbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kI3BY7vbL._SL200_.jpg' ]

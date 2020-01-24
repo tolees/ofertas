@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin F7U083VFBLK  Boost Up 10 W Soport' al 27.78395198933096 % de descuento
+title: 'Belkin F7U083VFBLK  Boost Up 10 W Soport al 27.78395198933096 % de descuento'
 date: 2020-01-17 14:11:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tvuHIIyDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tvuHIIyDL._SL200_.jpg' ]

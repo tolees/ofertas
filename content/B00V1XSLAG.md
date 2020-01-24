@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.646464646464636 % en 'Superga 2790-SUEW  Zapatillas para Mujer'
+title: 'Descuento del 59.646464646464636 % en Superga 2790-SUEW  Zapatillas para Mujer'
 date: 2019/12/02 18:57:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lEd7BqU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lEd7BqU%2BL._SL200_.jpg' ]

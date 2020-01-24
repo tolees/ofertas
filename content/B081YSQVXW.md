@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Controlador inalámbrico Doubleshock 4 PS' al 73.38657457371033 % de descuento
+title: 'Controlador inalámbrico Doubleshock 4 PS al 73.38657457371033 % de descuento'
 date: 2019/12/05 22:00:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yCK5Fvh7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yCK5Fvh7L._SL200_.jpg' ]

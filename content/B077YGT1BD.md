@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.84049440847557 % en 'Sunbeauty Decoración Abanicos de Papel B'
+title: 'Descuento del 28.84049440847557 % en Sunbeauty Decoración Abanicos de Papel B'
 date: 2019/10/26 19:31:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wkbIOO0zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wkbIOO0zL._SL200_.jpg' ]

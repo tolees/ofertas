@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.555555555555557 % en 'Under Armour UA Charged Escape 3  Zapati'
+title: 'Descuento del 27.555555555555557 % en Under Armour UA Charged Escape 3  Zapati'
 date: 2020-01-03 03:52:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wnkH9d-tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wnkH9d-tL._SL200_.jpg' ]

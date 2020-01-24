@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.498845265588905 % en 'NIVEA SUN Leche Solar Niños Protege & Ju'
+title: 'Descuento del 48.498845265588905 % en NIVEA SUN Leche Solar Niños Protege & Ju'
 date: 2019/10/13 12:47:56 +0000
 thumbnailImage: ''
 images: [ '' ]

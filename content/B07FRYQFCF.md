@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.097949886104786 % en 'Roxy Creek Pantalones  Mujer  Beige  App'
+title: 'Descuento del 63.097949886104786 % en Roxy Creek Pantalones  Mujer  Beige  App'
 date: 2019/11/10 07:01:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tvMS6YKiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tvMS6YKiL._SL200_.jpg' ]

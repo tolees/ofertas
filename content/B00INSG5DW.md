@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.597245711524515 % en 'Obea - Silla de Ducha con Ruedas  91 x 6'
+title: 'Descuento del 32.597245711524515 % en Obea - Silla de Ducha con Ruedas  91 x 6'
 date: 2019/11/04 13:47:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418m9yqTFzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418m9yqTFzL._SL200_.jpg' ]

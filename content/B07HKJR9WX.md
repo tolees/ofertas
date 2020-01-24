@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Charged Rogue  Zapatillas d' al 53.075 % de descuento
+title: 'Under Armour Charged Rogue  Zapatillas d al 53.075 % de descuento'
 date: 2019/11/14 15:06:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M4bxRZUoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M4bxRZUoL._SL200_.jpg' ]

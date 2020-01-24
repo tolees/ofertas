@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips AirFryer HD9216/80 - Freidora si' al 38.533733364104926 % de descuento
+title: 'Philips AirFryer HD9216/80 - Freidora si al 38.533733364104926 % de descuento'
 date: 2020-01-02 11:09:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Te7Sy5xgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Te7Sy5xgL._SL200_.jpg' ]

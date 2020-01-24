@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.57015590200445 % en 'Bosch TWK3A014 - Hervidor de agua  2400 '
+title: 'Descuento del 46.57015590200445 % en Bosch TWK3A014 - Hervidor de agua  2400 '
 date: 2019/10/15 03:38:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XBYNc7FlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XBYNc7FlL._SL200_.jpg' ]

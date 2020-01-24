@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skagen SKW2592  Reloj para Mujer  Correa' al 60.48419367747099 % de descuento
+title: 'Skagen SKW2592  Reloj para Mujer  Correa al 60.48419367747099 % de descuento'
 date: 2019/11/14 05:25:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31f6Liz2ZML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31f6Liz2ZML._SL200_.jpg' ]

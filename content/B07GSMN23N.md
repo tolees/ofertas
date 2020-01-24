@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KollyKolla Botella de Agua Acero Inoxida' al 55.04119262455865 % de descuento
+title: 'KollyKolla Botella de Agua Acero Inoxida al 55.04119262455865 % de descuento'
 date: 2019/12/02 12:51:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411znFpkjwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411znFpkjwL._SL200_.jpg' ]

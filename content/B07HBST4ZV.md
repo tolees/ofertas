@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Soundcore Life 2 Geschenkset  Limited Ed' al 31.03715837572205 % de descuento
+title: 'Soundcore Life 2 Geschenkset  Limited Ed al 31.03715837572205 % de descuento'
 date: 2019/12/28 23:15:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BTkLEq4CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BTkLEq4CL._SL200_.jpg' ]

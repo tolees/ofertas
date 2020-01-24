@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia 10 Plus - Smartphone de 6 5"' al 39.48251748251748 % de descuento
+title: 'Sony Xperia 10 Plus - Smartphone de 6 5" al 39.48251748251748 % de descuento'
 date: 2019/11/25 06:03:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uz7DmMFwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uz7DmMFwL._SL200_.jpg' ]

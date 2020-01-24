@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjiclark Jjicon Bl 774 50sp' al 65.32948105345038 % de descuento
+title: 'JACK & JONES Jjiclark Jjicon Bl 774 50sp al 65.32948105345038 % de descuento'
 date: 2019/11/13 15:11:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TMoaB2GSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TMoaB2GSL._SL200_.jpg' ]

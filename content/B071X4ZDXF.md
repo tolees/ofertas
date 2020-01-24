@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.516208453016 % en 'Damart Lot de 2 tee-Shirts Thermolactyl '
+title: 'Descuento del 66.516208453016 % en Damart Lot de 2 tee-Shirts Thermolactyl '
 date: 2019/10/15 20:18:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319BoQKMJOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319BoQKMJOL._SL200_.jpg' ]

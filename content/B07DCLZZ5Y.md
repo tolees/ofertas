@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.34963868816009 % en 'Puma Muse Satin EP Wn s  Zapatillas para'
+title: 'Descuento del 49.34963868816009 % en Puma Muse Satin EP Wn s  Zapatillas para'
 date: 2019/10/17 10:13:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x03BfViyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x03BfViyL._SL200_.jpg' ]

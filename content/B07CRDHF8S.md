@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Basket Heart Leather Wn s  Zapatill' al 59.50975487743872 % de descuento
+title: 'Puma Basket Heart Leather Wn s  Zapatill al 59.50975487743872 % de descuento'
 date: 2019/10/18 11:01:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410i6n2RRbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410i6n2RRbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.76666666666667 % en 'The North Face W Stshl PT SM Pantalón So'
+title: 'Descuento del 69.76666666666667 % en The North Face W Stshl PT SM Pantalón So'
 date: 2019/12/06 13:55:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LLnavq-OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LLnavq-OL._SL200_.jpg' ]

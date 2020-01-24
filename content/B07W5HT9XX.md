@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.241335044929407 % en 'FORTNITE Mochila Tipo Americano con Bols'
+title: 'Descuento del 28.241335044929407 % en FORTNITE Mochila Tipo Americano con Bols'
 date: 2019/10/09 12:23:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EGIR7DvwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EGIR7DvwL._SL200_.jpg' ]

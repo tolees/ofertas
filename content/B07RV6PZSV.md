@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister Matchup Equipaje de M' al 39.73684210526316 % de descuento
+title: 'American Tourister Matchup Equipaje de M al 39.73684210526316 % de descuento'
 date: 2019/10/13 19:10:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kiRT7wcvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kiRT7wcvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BaByliss X10 - Cortapelos para cara  cab' al 26.64440734557596 % de descuento
+title: 'BaByliss X10 - Cortapelos para cara  cab al 26.64440734557596 % de descuento'
 date: 2019/12/26 13:47:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sSH%2BGJmjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sSH%2BGJmjL._SL200_.jpg' ]

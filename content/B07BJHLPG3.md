@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Straight Vaqueros para H' al 40.74037018509256 % de descuento
+title: 'G-STAR RAW 3301 Straight Vaqueros para H al 40.74037018509256 % de descuento'
 date: 2019/12/07 01:45:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DaWjHdigL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DaWjHdigL._SL200_.jpg' ]

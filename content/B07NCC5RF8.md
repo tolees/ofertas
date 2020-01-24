@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Stanley Pantalones  Azul  Blu' al 33.17084230812832 % de descuento
+title: 'Pepe Jeans Stanley Pantalones  Azul  Blu al 33.17084230812832 % de descuento'
 date: 2019/10/27 16:32:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316Bb9-UatL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316Bb9-UatL._SL200_.jpg' ]

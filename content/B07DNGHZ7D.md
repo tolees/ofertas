@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pablosky Merceditas para Niñas   Azul 32' al 26.66666666666666 % de descuento
+title: 'Pablosky Merceditas para Niñas   Azul 32 al 26.66666666666666 % de descuento'
 date: 2019/10/09 21:53:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ThsZxPkwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ThsZxPkwL._SL200_.jpg' ]

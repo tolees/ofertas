@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JESOHO Protector Pantalla iPhone7/8 Plus' al 28.591851322373117 % de descuento
+title: 'JESOHO Protector Pantalla iPhone7/8 Plus al 28.591851322373117 % de descuento'
 date: 2019/12/08 17:32:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iJZV6XLML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iJZV6XLML._SL200_.jpg' ]

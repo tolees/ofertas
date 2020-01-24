@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. V Neck Blusa para Mujer  Morado  V' al 65.48 % de descuento
+title: 'find. V Neck Blusa para Mujer  Morado  V al 65.48 % de descuento'
 date: 2019/11/17 13:25:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Aeloq5XdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Aeloq5XdL._SL200_.jpg' ]

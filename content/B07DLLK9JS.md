@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.42335290280496 % en 'Springfield 6.T.Ap. Plumas C.Alto Chaque'
+title: 'Descuento del 47.42335290280496 % en Springfield 6.T.Ap. Plumas C.Alto Chaque'
 date: 2019/10/26 14:05:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PWu5pRi6L._SL200_.jpg' ]

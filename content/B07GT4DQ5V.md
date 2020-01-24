@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Skidoo WOM EF 2 Chaqueta  Negr' al 43.4258872651357 % de descuento
+title: 'Napapijri Skidoo WOM EF 2 Chaqueta  Negr al 43.4258872651357 % de descuento'
 date: 2019/11/19 05:20:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4138jukK1GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4138jukK1GL._SL200_.jpg' ]

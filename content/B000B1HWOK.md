@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP 644A - Cartucho de tóner original Las' al 79.79702866708516 % de descuento
+title: 'HP 644A - Cartucho de tóner original Las al 79.79702866708516 % de descuento'
 date: 2019/10/11 10:06:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLXHy51OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLXHy51OL._SL200_.jpg' ]

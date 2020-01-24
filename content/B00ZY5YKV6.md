@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roc Soleil-Protect Leche Hidratante Corp' al 58.292574477545564 % de descuento
+title: 'Roc Soleil-Protect Leche Hidratante Corp al 58.292574477545564 % de descuento'
 date: 2020-01-19 00:35:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31awzw1CogL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31awzw1CogL._SL200_.jpg' ]

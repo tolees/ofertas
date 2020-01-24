@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola VerveLoop 2+ - In Ear Sport Aur' al 58.322617516788114 % de descuento
+title: 'Motorola VerveLoop 2+ - In Ear Sport Aur al 58.322617516788114 % de descuento'
 date: 2019/10/06 11:11:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s19OPQruL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s19OPQruL._SL200_.jpg' ]

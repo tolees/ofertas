@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'electroestimulador muscular Tesmed MAX 8' al 32.07547169811321 % de descuento
+title: 'electroestimulador muscular Tesmed MAX 8 al 32.07547169811321 % de descuento'
 date: 2019/12/24 10:42:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cr8YeY4HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cr8YeY4HL._SL200_.jpg' ]

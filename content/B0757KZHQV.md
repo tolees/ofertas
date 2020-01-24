@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AUKEY USB C Cargador de Red 56 5W USB ca' al 33.93463118414002 % de descuento
+title: 'AUKEY USB C Cargador de Red 56 5W USB ca al 33.93463118414002 % de descuento'
 date: 2019/11/25 04:30:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A8QJC5BPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A8QJC5BPL._SL200_.jpg' ]

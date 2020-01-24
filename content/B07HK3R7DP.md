@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mochila de Pañales 26L Impermeable Bolso' al 41.31332898456187 % de descuento
+title: 'Mochila de Pañales 26L Impermeable Bolso al 41.31332898456187 % de descuento'
 date: 2019/12/06 10:13:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rd6OLH1eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rd6OLH1eL._SL200_.jpg' ]

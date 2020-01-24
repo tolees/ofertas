@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.68686868686869 % en 'Pikolinos Salamanca W3q_i17  Zapatos de '
+title: 'Descuento del 62.68686868686869 % en Pikolinos Salamanca W3q_i17  Zapatos de '
 date: 2019/10/09 07:24:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415U%2BcAXH5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415U%2BcAXH5L._SL200_.jpg' ]

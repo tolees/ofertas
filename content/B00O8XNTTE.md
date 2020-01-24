@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLACK+DECKER PD1820LF-QW - Aspirador de ' al 26.552047514848386 % de descuento
+title: 'BLACK+DECKER PD1820LF-QW - Aspirador de  al 26.552047514848386 % de descuento'
 date: 2019/10/30 14:14:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314mpcWBLBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314mpcWBLBL._SL200_.jpg' ]

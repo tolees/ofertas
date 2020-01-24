@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.7273526824978 % en 'Micro USB Splitter Cable Cable de potenc'
+title: 'Descuento del 29.7273526824978 % en Micro USB Splitter Cable Cable de potenc'
 date: 2019/12/30 12:54:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411rXCdn4IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411rXCdn4IL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.998331943286075 % en 'Desigual Vest_Accra Vestido  Azul  Navy '
+title: 'Descuento del 57.998331943286075 % en Desigual Vest_Accra Vestido  Azul  Navy '
 date: 2019/11/08 22:55:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5161wNgQMZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5161wNgQMZL._SL200_.jpg' ]

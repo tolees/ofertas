@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Classics T7 Track Sweatshirt  Mujer' al 61.6320246343341 % de descuento
+title: 'PUMA Classics T7 Track Sweatshirt  Mujer al 61.6320246343341 % de descuento'
 date: 2019/10/23 10:00:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-5jt2EDsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-5jt2EDsL._SL200_.jpg' ]

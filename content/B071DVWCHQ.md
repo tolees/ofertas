@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.626764244641926 % en 'Robas Lund Tito II Taburete de Bar  100%'
+title: 'Descuento del 57.626764244641926 % en Robas Lund Tito II Taburete de Bar  100%'
 date: 2019/12/14 17:36:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31inE3QhcKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31inE3QhcKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.773386693346666 % en 'RIP CURL Squad Block Boy SS tee Camiseta'
+title: 'Descuento del 46.773386693346666 % en RIP CURL Squad Block Boy SS tee Camiseta'
 date: 2019/10/10 11:40:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NrnhZTTzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NrnhZTTzL._SL200_.jpg' ]

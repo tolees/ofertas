@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.67889296432144 % en 'ValueHall 18 Piezas Sierra de Corona Per'
+title: 'Descuento del 36.67889296432144 % en ValueHall 18 Piezas Sierra de Corona Per'
 date: 2019/12/05 11:22:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41caGFKIlgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41caGFKIlgL._SL200_.jpg' ]

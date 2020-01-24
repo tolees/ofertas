@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Jolt 2 GS  Zapatillas de Running U' al 40.125 % de descuento
+title: 'Asics Jolt 2 GS  Zapatillas de Running U al 40.125 % de descuento'
 date: 2019/12/20 11:09:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RuP6uA5VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RuP6uA5VL._SL200_.jpg' ]

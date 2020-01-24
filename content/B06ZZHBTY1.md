@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Pensacola Vaqueros Relaxed  Azul' al 54.44 % de descuento
+title: 'Dickies Pensacola Vaqueros Relaxed  Azul al 54.44 % de descuento'
 date: 2019/11/01 12:40:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414J%2B2pOADL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414J%2B2pOADL._SL200_.jpg' ]

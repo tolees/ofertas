@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland 6 Inch Premium Waterproof  Bo' al 56.90952380952381 % de descuento
+title: 'Timberland 6 Inch Premium Waterproof  Bo al 56.90952380952381 % de descuento'
 date: 2019/10/28 20:05:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yKdMgDl6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yKdMgDl6L._SL200_.jpg' ]

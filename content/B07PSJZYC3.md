@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lámpara de Pared LED  RGB de Colores Lám' al 57.40890688259109 % de descuento
+title: 'Lámpara de Pared LED  RGB de Colores Lám al 57.40890688259109 % de descuento'
 date: 2019/12/08 23:47:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RL18U4EIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RL18U4EIL._SL200_.jpg' ]

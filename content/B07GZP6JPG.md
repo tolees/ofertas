@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon D3500 Kit AF-P DX 18-55 mm VR schw' al 30.861723446893784 % de descuento
+title: 'Nikon D3500 Kit AF-P DX 18-55 mm VR schw al 30.861723446893784 % de descuento'
 date: 2020-01-06 19:53:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TzqWwOStL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TzqWwOStL._SL200_.jpg' ]

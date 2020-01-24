@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hapilife Grifo Cocina Momomando de Encim' al 39.630118890356684 % de descuento
+title: 'Hapilife Grifo Cocina Momomando de Encim al 39.630118890356684 % de descuento'
 date: 2020-01-21 19:39:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314lUsqRg0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314lUsqRg0L._SL200_.jpg' ]

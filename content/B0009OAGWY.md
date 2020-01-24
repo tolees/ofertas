@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Giorgio Beverly Hills Yellow Agua de toi' al 59.770554493307834 % de descuento
+title: 'Giorgio Beverly Hills Yellow Agua de toi al 59.770554493307834 % de descuento'
 date: 2019/12/29 10:35:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XZvEd%2BAeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XZvEd%2BAeL._SL200_.jpg' ]

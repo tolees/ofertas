@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech Z200 Computer/PC Speakers for D' al 42.87245444801715 % de descuento
+title: 'Logitech Z200 Computer/PC Speakers for D al 42.87245444801715 % de descuento'
 date: 2019/11/22 11:13:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414casXIIiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414casXIIiL._SL200_.jpg' ]

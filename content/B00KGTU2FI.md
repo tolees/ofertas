@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ultrasport MIA Chaqueta  Mujer  Negro/Ro' al 47.37074679628811 % de descuento
+title: 'Ultrasport MIA Chaqueta  Mujer  Negro/Ro al 47.37074679628811 % de descuento'
 date: 2019/10/29 18:27:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QSGsrmXNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QSGsrmXNL._SL200_.jpg' ]

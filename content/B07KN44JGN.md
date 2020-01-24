@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.873421872438108 % en 'NEWKBO 300 ml Aroma Aceite Esencial Difu'
+title: 'Descuento del 27.873421872438108 % en NEWKBO 300 ml Aroma Aceite Esencial Difu'
 date: 2019/12/08 07:03:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XNgVrCleL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XNgVrCleL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pinza Digital Multímetro  Meterk medida ' al 39.1389432485323 % de descuento
+title: 'Pinza Digital Multímetro  Meterk medida  al 39.1389432485323 % de descuento'
 date: 2019/11/28 08:33:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b5Jqy2W0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b5Jqy2W0L._SL200_.jpg' ]

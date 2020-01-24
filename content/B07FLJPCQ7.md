@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.86687187379762 % en 'JOGVELO Culotes Ciclismo Hombre  Calzonc'
+title: 'Descuento del 53.86687187379762 % en JOGVELO Culotes Ciclismo Hombre  Calzonc'
 date: 2019/11/28 10:25:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C3NyYkZoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C3NyYkZoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NEW C 2 Unidades  Protector de Pantalla ' al 44.93882091212458 % de descuento
+title: 'NEW C 2 Unidades  Protector de Pantalla  al 44.93882091212458 % de descuento'
 date: 2019/11/23 15:39:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bc8OyOEML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bc8OyOEML._SL200_.jpg' ]

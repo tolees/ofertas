@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD SN750 1TB High-Performance NVMe Inter' al 45.533852504361896 % de descuento
+title: 'WD SN750 1TB High-Performance NVMe Inter al 45.533852504361896 % de descuento'
 date: 2019/11/26 10:49:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GgwGKW1QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GgwGKW1QL._SL200_.jpg' ]

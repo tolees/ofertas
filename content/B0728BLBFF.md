@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.61538461538462 % en 'Under Armour UA Bball Hard Work Camiseta'
+title: 'Descuento del 55.61538461538462 % en Under Armour UA Bball Hard Work Camiseta'
 date: 2019/11/14 19:57:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YkSFqV5%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YkSFqV5%2BL._SL200_.jpg' ]

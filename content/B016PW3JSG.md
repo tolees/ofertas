@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.26964862039184 % en 'Nest Learning Thermostat  3rd Generation'
+title: 'Descuento del 32.26964862039184 % en Nest Learning Thermostat  3rd Generation'
 date: 2019/12/11 23:53:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iyuBiZ2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iyuBiZ2JL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Mk1 Terry FZ Hoodie Parte S' al 40.82347057842974 % de descuento
+title: 'Under Armour Mk1 Terry FZ Hoodie Parte S al 40.82347057842974 % de descuento'
 date: 2019/10/17 12:11:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3137FIPnhJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3137FIPnhJL._SL200_.jpg' ]

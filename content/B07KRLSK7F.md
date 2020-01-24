@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'New Balance 373  Zapatillas para Mujer  '
+title: 'Descuento del 50.0 % en New Balance 373  Zapatillas para Mujer  '
 date: 2020-01-02 17:05:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ziQAhLBL._SL200_.jpg' ]

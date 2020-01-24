@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.01666666666666 % en 'Levi s LS Battery Hm Shirt Camisa  Negro'
+title: 'Descuento del 45.01666666666666 % en Levi s LS Battery Hm Shirt Camisa  Negro'
 date: 2020-01-06 20:04:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LUbPYv1qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LUbPYv1qL._SL200_.jpg' ]

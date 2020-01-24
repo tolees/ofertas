@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fanspack Mochilas con Ruedas Mochilas Es' al 54.45632798573975 % de descuento
+title: 'Fanspack Mochilas con Ruedas Mochilas Es al 54.45632798573975 % de descuento'
 date: 2019/11/21 13:26:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2Bn6DhCDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G%2Bn6DhCDL._SL200_.jpg' ]

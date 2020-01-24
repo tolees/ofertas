@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.484371092773195 % en 'GoPro AGTSM-001 - Soporte para manillar/'
+title: 'Descuento del 37.484371092773195 % en GoPro AGTSM-001 - Soporte para manillar/'
 date: 2019/11/15 16:15:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ol5l8RKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ol5l8RKL._SL200_.jpg' ]

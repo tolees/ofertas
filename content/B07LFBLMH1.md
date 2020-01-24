@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.07692307692308 % en 'Levi s HR Decon Iconic BF Skirt Falda  G'
+title: 'Descuento del 40.07692307692308 % en Levi s HR Decon Iconic BF Skirt Falda  G'
 date: 2019/10/20 09:44:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415MBfPqXwL._SL200_.jpg' ]

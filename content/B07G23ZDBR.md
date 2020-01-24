@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hoomtaook Bandeja de baño triangular pla' al 67.80998389694042 % de descuento
+title: 'Hoomtaook Bandeja de baño triangular pla al 67.80998389694042 % de descuento'
 date: 2019/11/24 09:33:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RW1D7eLYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RW1D7eLYL._SL200_.jpg' ]

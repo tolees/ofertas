@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola Moto G6 Play - Smartphone Libre' al 31.7035175879397 % de descuento
+title: 'Motorola Moto G6 Play - Smartphone Libre al 31.7035175879397 % de descuento'
 date: 2019/11/06 15:44:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MLmx6IzxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MLmx6IzxL._SL200_.jpg' ]

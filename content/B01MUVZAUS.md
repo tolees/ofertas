@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Seraphina  Botas de Nieve' al 30.000000000000004 % de descuento
+title: 'Helly Hansen W Seraphina  Botas de Nieve al 30.000000000000004 % de descuento'
 date: 2019/11/09 17:45:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519awCeOwjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519awCeOwjL._SL200_.jpg' ]

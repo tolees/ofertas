@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.012004801920767 % en 'XFX RX-590 Fatboy - Tarjeta gráfica  Rad'
+title: 'Descuento del 30.012004801920767 % en XFX RX-590 Fatboy - Tarjeta gráfica  Rad'
 date: 2019/11/30 07:38:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BrBXWqvuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BrBXWqvuL._SL200_.jpg' ]

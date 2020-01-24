@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas 107416 Camiseta sin Man' al 47.63135946622186 % de descuento
+title: 'Dolores Promesas 107416 Camiseta sin Man al 47.63135946622186 % de descuento'
 date: 2019/11/09 20:40:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513OPmTQEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513OPmTQEGL._SL200_.jpg' ]

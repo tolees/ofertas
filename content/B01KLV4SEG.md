@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.89378937893789 % en 'Under Armour Under Armour Hudson Backpac'
+title: 'Descuento del 37.89378937893789 % en Under Armour Under Armour Hudson Backpac'
 date: 2019/10/07 01:19:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nkc-%2Bpc4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nkc-%2Bpc4L._SL200_.jpg' ]

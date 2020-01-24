@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.006251562890736 % en 'Cars 3-FWL70 Circuito Florida 500 para C'
+title: 'Descuento del 25.006251562890736 % en Cars 3-FWL70 Circuito Florida 500 para C'
 date: 2019/10/06 18:45:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qEoxxjOBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qEoxxjOBL._SL200_.jpg' ]

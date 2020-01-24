@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.743388134381696 % en 'Skechers Paxmen  Zapatillas para Hombre '
+title: 'Descuento del 40.743388134381696 % en Skechers Paxmen  Zapatillas para Hombre '
 date: 2019/10/11 22:00:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IsE7TTRVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IsE7TTRVL._SL200_.jpg' ]

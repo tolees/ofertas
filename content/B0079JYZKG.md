@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRA Efficient Orange Sartén 28 cm  alumi' al 49.36682144364711 % de descuento
+title: 'BRA Efficient Orange Sartén 28 cm  alumi al 49.36682144364711 % de descuento'
 date: 2019/11/10 08:34:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HBYmpSGdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HBYmpSGdL._SL200_.jpg' ]

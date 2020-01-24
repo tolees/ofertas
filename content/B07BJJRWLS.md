@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX Fury - Memoria RAM de 16 GB  DDR4' al 74.04053216909054 % de descuento
+title: 'HyperX Fury - Memoria RAM de 16 GB  DDR4 al 74.04053216909054 % de descuento'
 date: 2019/11/03 17:58:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uJSYCrXrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uJSYCrXrL._SL200_.jpg' ]

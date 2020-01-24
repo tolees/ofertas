@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Sonicare ProtectiveClean HX6856/' al 28.002240179214343 % de descuento
+title: 'Philips Sonicare ProtectiveClean HX6856/ al 28.002240179214343 % de descuento'
 date: 2019/11/22 03:50:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TZpNvpaZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TZpNvpaZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WMF Perfect - Olla Rápida  Acero Inoxida' al 43.531972468968775 % de descuento
+title: 'WMF Perfect - Olla Rápida  Acero Inoxida al 43.531972468968775 % de descuento'
 date: 2019/11/24 18:04:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kCM3eNtXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kCM3eNtXL._SL200_.jpg' ]

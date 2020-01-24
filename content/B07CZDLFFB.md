@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.66332916145182 % en 'PUMA Turin II Jr  Zapatillas Unisex Niño'
+title: 'Descuento del 50.66332916145182 % en PUMA Turin II Jr  Zapatillas Unisex Niño'
 date: 2019/10/27 22:31:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sKIpXuOHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sKIpXuOHL._SL200_.jpg' ]

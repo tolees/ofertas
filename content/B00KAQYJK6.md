@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola TLKR T40 Walkie-Talkie  Pantall' al 33.36515513126491 % de descuento
+title: 'Motorola TLKR T40 Walkie-Talkie  Pantall al 33.36515513126491 % de descuento'
 date: 2019/10/25 10:29:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CjTKKl-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CjTKKl-IL._SL200_.jpg' ]

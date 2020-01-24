@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Tolt Track Chaqueta Interchange' al 38.08861254837168 % de descuento
+title: 'Columbia Tolt Track Chaqueta Interchange al 38.08861254837168 % de descuento'
 date: 2019/12/04 14:00:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mkEqsNRYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mkEqsNRYL._SL200_.jpg' ]

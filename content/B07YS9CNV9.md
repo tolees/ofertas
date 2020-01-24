@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 Auriculares Bluetooth  5.0 Auricula' al 64.05617977528091 % de descuento
+title: '2019 Auriculares Bluetooth  5.0 Auricula al 64.05617977528091 % de descuento'
 date: 2020-01-19 09:17:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bfhNJbtWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bfhNJbtWL._SL200_.jpg' ]

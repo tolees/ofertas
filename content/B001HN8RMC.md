@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.34285714285714 % en 'Portacapsulas Dolce Gusto Parco Capacida'
+title: 'Descuento del 74.34285714285714 % en Portacapsulas Dolce Gusto Parco Capacida'
 date: 2019/10/26 09:26:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5123WK22E1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5123WK22E1L._SL200_.jpg' ]

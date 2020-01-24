@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STAR WARS - Puzzle  diseño Droidi  1000 ' al 28.66433216608304 % de descuento
+title: 'STAR WARS - Puzzle  diseño Droidi  1000  al 28.66433216608304 % de descuento'
 date: 2019/10/21 19:14:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515oUgnLzTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515oUgnLzTL._SL200_.jpg' ]

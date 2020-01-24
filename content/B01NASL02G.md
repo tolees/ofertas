@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.213606803401703 % en 'Edge Entertainment The Others - Juego de'
+title: 'Descuento del 27.213606803401703 % en Edge Entertainment The Others - Juego de'
 date: 2019/10/28 07:51:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CigEvAkRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CigEvAkRL._SL200_.jpg' ]

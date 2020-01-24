@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.30573248407642 % en 'Cressi Tauchmaske Erwachsen F1 Clear Fra'
+title: 'Descuento del 36.30573248407642 % en Cressi Tauchmaske Erwachsen F1 Clear Fra'
 date: 2020-01-22 20:16:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wn0V10WOL._SL200_.jpg' ]

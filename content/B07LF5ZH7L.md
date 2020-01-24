@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Men s Thermore Padded Parka  Blac' al 60.0 % de descuento
+title: 'Levi s Men s Thermore Padded Parka  Blac al 60.0 % de descuento'
 date: 2020-01-04 10:11:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3155c2PVeAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3155c2PVeAL._SL200_.jpg' ]

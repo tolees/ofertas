@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant O1. Printed Dot Shirt Blusa  Azul  ' al 46.604660466046596 % de descuento
+title: 'Gant O1. Printed Dot Shirt Blusa  Azul   al 46.604660466046596 % de descuento'
 date: 2019/10/07 08:36:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B2LEIErxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B2LEIErxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLACK+DECKER BDCD8-QW - Taladro atornill' al 44.04404404404405 % de descuento
+title: 'BLACK+DECKER BDCD8-QW - Taladro atornill al 44.04404404404405 % de descuento'
 date: 2019/11/21 17:04:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4149GLSGIkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4149GLSGIkL._SL200_.jpg' ]

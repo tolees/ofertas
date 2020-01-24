@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Mercerised Lite City Polo  Blan' al 50.0 % de descuento
+title: 'Superdry Mercerised Lite City Polo  Blan al 50.0 % de descuento'
 date: 2019/11/07 12:01:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x-IwG7YAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x-IwG7YAL._SL200_.jpg' ]

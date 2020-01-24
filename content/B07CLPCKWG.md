@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 84.83080513418903 % en 'Nobunaga s Ambition : Taishi'
+title: 'Descuento del 84.83080513418903 % en Nobunaga s Ambition : Taishi'
 date: 2020-01-04 10:36:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/614YaAhF3KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/614YaAhF3KL._SL200_.jpg' ]

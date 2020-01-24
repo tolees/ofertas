@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Royal Glide S Clip  Zapatillas pa' al 46.928406466512705 % de descuento
+title: 'Reebok Royal Glide S Clip  Zapatillas pa al 46.928406466512705 % de descuento'
 date: 2019/12/04 12:40:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ghD9cUPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ghD9cUPFL._SL200_.jpg' ]

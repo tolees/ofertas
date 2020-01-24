@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parlat LED lámpara bajo Mueble Rigel  31' al 26.02230483271376 % de descuento
+title: 'Parlat LED lámpara bajo Mueble Rigel  31 al 26.02230483271376 % de descuento'
 date: 2020-01-19 08:03:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Re0m0oT0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Re0m0oT0L._SL200_.jpg' ]

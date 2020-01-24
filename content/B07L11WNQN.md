@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.74545454545455 % en 'Under Armour Rival Fleece LC Logo Novelt'
+title: 'Descuento del 52.74545454545455 % en Under Armour Rival Fleece LC Logo Novelt'
 date: 2019/12/16 09:35:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xRJc3kOVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xRJc3kOVL._SL200_.jpg' ]

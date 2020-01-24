@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.68841970569419 % en 'Wilkinson Sword Hydro 5 Groomer - 4 Reca'
+title: 'Descuento del 48.68841970569419 % en Wilkinson Sword Hydro 5 Groomer - 4 Reca'
 date: 2019/12/08 00:10:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ZWaKjM-AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ZWaKjM-AL._SL200_.jpg' ]

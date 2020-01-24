@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.31032758189548 % en 'Taurus Fashion 3000 Ionico Secador de pe'
+title: 'Descuento del 41.31032758189548 % en Taurus Fashion 3000 Ionico Secador de pe'
 date: 2019/10/25 15:37:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HkMwvbTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HkMwvbTSL._SL200_.jpg' ]

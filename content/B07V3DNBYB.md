@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vampyr' al 35.54710942188438 % de descuento
+title: 'Vampyr al 35.54710942188438 % de descuento'
 date: 2020-01-21 11:41:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4116we%2BihnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.96330275229357 % en 'G-STAR RAW Dirik  Bañador para Hombre  A'
+title: 'Descuento del 55.96330275229357 % en G-STAR RAW Dirik  Bañador para Hombre  A'
 date: 2019/12/01 08:55:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LGXosOJ2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LGXosOJ2L._SL200_.jpg' ]

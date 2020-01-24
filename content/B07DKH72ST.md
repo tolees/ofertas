@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Creativity Xl  Monederos Mujer' al 50.0 % de descuento
+title: 'Kipling - Creativity Xl  Monederos Mujer al 50.0 % de descuento'
 date: 2019/11/25 17:48:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vqzfwNMVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vqzfwNMVL._SL200_.jpg' ]

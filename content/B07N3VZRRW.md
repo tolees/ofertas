@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.87239366138449 % en 'Desigual T-Shirt Bridget Camiseta   Negr'
+title: 'Descuento del 46.87239366138449 % en Desigual T-Shirt Bridget Camiseta   Negr'
 date: 2019/11/21 12:10:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KU0lcPvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KU0lcPvOL._SL200_.jpg' ]

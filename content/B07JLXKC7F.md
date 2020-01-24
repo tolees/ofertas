@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Ramc102  Bóxer Hombre  Azul  Nav' al 34.044444444444444 % de descuento
+title: 'Lacoste Ramc102  Bóxer Hombre  Azul  Nav al 34.044444444444444 % de descuento'
 date: 2019/11/15 11:04:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cAy8j3eCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cAy8j3eCL._SL200_.jpg' ]

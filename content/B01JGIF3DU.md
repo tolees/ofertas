@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell Pack taladro percutor y 15 pieza' al 60.54324517512508 % de descuento
+title: 'Einhell Pack taladro percutor y 15 pieza al 60.54324517512508 % de descuento'
 date: 2020-01-14 07:35:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kNQAsvb6L._SL200_.jpg' ]

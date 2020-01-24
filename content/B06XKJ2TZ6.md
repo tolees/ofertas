@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.50250417362271 % en 'PUMA 838261 01 Pantalón  Hombre  Negro A'
+title: 'Descuento del 61.50250417362271 % en PUMA 838261 01 Pantalón  Hombre  Negro A'
 date: 2019/10/15 11:56:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k56%2BpBMHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k56%2BpBMHL._SL200_.jpg' ]

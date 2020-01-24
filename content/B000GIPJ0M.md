@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optimum Nutrition ON Serious Mass Protei' al 36.49425287356321 % de descuento
+title: 'Optimum Nutrition ON Serious Mass Protei al 36.49425287356321 % de descuento'
 date: 2020-01-21 13:10:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bdyJ1Io2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bdyJ1Io2L._SL200_.jpg' ]

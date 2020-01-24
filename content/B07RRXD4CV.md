@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lower East Herren mit mit V-Ausschnitt T' al 30.189982728842825 % de descuento
+title: 'Lower East Herren mit mit V-Ausschnitt T al 30.189982728842825 % de descuento'
 date: 2019/12/22 19:08:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317IQN8EuCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317IQN8EuCL._SL200_.jpg' ]

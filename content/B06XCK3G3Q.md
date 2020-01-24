@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Glickasha GTX  Botas para Mujer  ' al 62.98666666666666 % de descuento
+title: 'Clarks Glickasha GTX  Botas para Mujer   al 62.98666666666666 % de descuento'
 date: 2019/11/10 03:00:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hazD2-A3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hazD2-A3L._SL200_.jpg' ]

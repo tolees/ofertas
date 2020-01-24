@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland SS Millers River Pique Wide S' al 63.23728813559322 % de descuento
+title: 'Timberland SS Millers River Pique Wide S al 63.23728813559322 % de descuento'
 date: 2019/12/05 19:52:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PBKFZHgmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PBKFZHgmL._SL200_.jpg' ]

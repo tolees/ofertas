@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers ON-The-GO Joy-Bundle UP 15501  ' al 43.956347561817935 % de descuento
+title: 'Skechers ON-The-GO Joy-Bundle UP 15501   al 43.956347561817935 % de descuento'
 date: 2019/11/21 09:40:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OlUHmTkxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OlUHmTkxL._SL200_.jpg' ]

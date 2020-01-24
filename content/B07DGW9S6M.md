@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Davis Square Leather Chukka  ' al 46.8 % de descuento
+title: 'Timberland Davis Square Leather Chukka   al 46.8 % de descuento'
 date: 2019/12/10 16:17:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OG5R6nmwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OG5R6nmwL._SL200_.jpg' ]

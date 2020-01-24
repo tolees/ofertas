@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel Logo Distress Zip Hood Capucha  G' al 67.5 % de descuento
+title: 'Marvel Logo Distress Zip Hood Capucha  G al 67.5 % de descuento'
 date: 2019/11/02 20:01:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cGE5T170L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cGE5T170L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.76960784313725 % en 'MICHAEL KORS Lon 10016G Gafas de Sol Uni'
+title: 'Descuento del 49.76960784313725 % en MICHAEL KORS Lon 10016G Gafas de Sol Uni'
 date: 2019/10/11 21:29:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gA%2BR8TBvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gA%2BR8TBvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.02 % en 'GLEADING Collar De Adiestramiento para P'
+title: 'Descuento del 28.02 % en GLEADING Collar De Adiestramiento para P'
 date: 2020-01-17 08:51:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4187FZXyBnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4187FZXyBnL._SL200_.jpg' ]

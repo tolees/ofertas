@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dockers Clean Khaki Marina Slim-Twill Pa' al 37.98265537889738 % de descuento
+title: 'dockers Clean Khaki Marina Slim-Twill Pa al 37.98265537889738 % de descuento'
 date: 2019/12/06 09:29:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411IKc6TjoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411IKc6TjoL._SL200_.jpg' ]

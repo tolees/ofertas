@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BILLABONG Fontana Bañador de natación  N' al 50.0 % de descuento
+title: 'BILLABONG Fontana Bañador de natación  N al 50.0 % de descuento'
 date: 2019/11/25 10:32:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HRqzSlysL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HRqzSlysL._SL200_.jpg' ]

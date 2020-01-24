@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.66666666666667 % en 'ZODOF Vestido navideño Vintage  Vestido '
+title: 'Descuento del 26.66666666666667 % en ZODOF Vestido navideño Vintage  Vestido '
 date: 2019/11/12 11:13:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xpf-rSFtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xpf-rSFtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Flex Appeal 3.0-INSIDERS 13067 ' al 30.71593533487298 % de descuento
+title: 'Skechers Flex Appeal 3.0-INSIDERS 13067  al 30.71593533487298 % de descuento'
 date: 2019/11/09 16:36:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mVmNtQc6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mVmNtQc6L._SL200_.jpg' ]

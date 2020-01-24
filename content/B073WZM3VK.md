@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. MDR 40435 vestidos mujer  Multicol' al 70.0 % de descuento
+title: 'find. MDR 40435 vestidos mujer  Multicol al 70.0 % de descuento'
 date: 2019/12/04 13:26:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UByQrzPNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UByQrzPNL._SL200_.jpg' ]

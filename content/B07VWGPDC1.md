@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.07658236890984 % en 'Bandolera con Solapa Pepe Jeans ANN Azul'
+title: 'Descuento del 36.07658236890984 % en Bandolera con Solapa Pepe Jeans ANN Azul'
 date: 2019/12/07 19:56:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EoX-qIqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EoX-qIqdL._SL200_.jpg' ]

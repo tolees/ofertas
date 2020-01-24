@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.80825958702064 % en 'Sloggi for Men Men Ever Fresh Short 2p B'
+title: 'Descuento del 34.80825958702064 % en Sloggi for Men Men Ever Fresh Short 2p B'
 date: 2019/12/05 20:55:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/218rSrcVhwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/218rSrcVhwL._SL200_.jpg' ]

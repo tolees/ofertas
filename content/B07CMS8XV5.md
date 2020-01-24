@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frcolor - 6 soportes para peluca de cabe' al 44.9908256880734 % de descuento
+title: 'Frcolor - 6 soportes para peluca de cabe al 44.9908256880734 % de descuento'
 date: 2019/11/28 08:03:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UIXaZORGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UIXaZORGL._SL200_.jpg' ]

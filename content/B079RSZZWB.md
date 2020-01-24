@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.22857142857143 % en 'Pepe Jeans Dani PL503849 Camiseta  Gris '
+title: 'Descuento del 66.22857142857143 % en Pepe Jeans Dani PL503849 Camiseta  Gris '
 date: 2019/11/01 12:31:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W4KinZfaL._SL200_.jpg' ]

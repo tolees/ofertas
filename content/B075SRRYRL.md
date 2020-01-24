@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'jerryvon Frutas y Verduras Juguete para ' al 53.70560988162636 % de descuento
+title: 'jerryvon Frutas y Verduras Juguete para  al 53.70560988162636 % de descuento'
 date: 2020-01-01 23:59:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h5SnZC0kL._SL200_.jpg' ]

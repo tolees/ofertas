@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ubisoft - Figurina Six Collection Series' al 60.184073629451774 % de descuento
+title: 'Ubisoft - Figurina Six Collection Series al 60.184073629451774 % de descuento'
 date: 2019/12/25 16:11:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MbJI1gjOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MbJI1gjOL._SL200_.jpg' ]

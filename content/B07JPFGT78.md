@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.11395077504306 % en 'YUCUN 2.5 Pulgadas SATA III Disco Duro s'
+title: 'Descuento del 51.11395077504306 % en YUCUN 2.5 Pulgadas SATA III Disco Duro s'
 date: 2019/12/08 17:08:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pFELe1CsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pFELe1CsL._SL200_.jpg' ]

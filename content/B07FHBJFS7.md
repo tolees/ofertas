@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.0 % en 'Amazon Essentials - Pantalón corto de co'
+title: 'Descuento del 35.0 % en Amazon Essentials - Pantalón corto de co'
 date: 2019/10/26 17:05:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316T4-0-aBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316T4-0-aBL._SL200_.jpg' ]

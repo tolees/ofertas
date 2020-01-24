@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.67959949937422 % en 'AmazonBasics - Cable USB tipo C a Micro-'
+title: 'Descuento del 43.67959949937422 % en AmazonBasics - Cable USB tipo C a Micro-'
 date: 2020-01-15 13:39:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w8C5LI4RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w8C5LI4RL._SL200_.jpg' ]

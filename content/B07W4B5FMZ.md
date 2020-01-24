@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES JORSHAREE Puffer Jacket Cha' al 54.844355544443054 % de descuento
+title: 'JACK & JONES JORSHAREE Puffer Jacket Cha al 54.844355544443054 % de descuento'
 date: 2020-01-23 19:22:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BN1BO6W-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BN1BO6W-L._SL200_.jpg' ]

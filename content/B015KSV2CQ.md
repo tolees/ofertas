@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.75788244453094 % en 'NNJXD Vestido de Fiesta de Princesa con '
+title: 'Descuento del 37.75788244453094 % en NNJXD Vestido de Fiesta de Princesa con '
 date: 2020-01-22 10:39:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418uJAw1ljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418uJAw1ljL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.02919099249374 % en 'Skechers Go Walk Evolution Ultra-Reach  '
+title: 'Descuento del 35.02919099249374 % en Skechers Go Walk Evolution Ultra-Reach  '
 date: 2019/10/06 00:35:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KDG6I8YIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KDG6I8YIL._SL200_.jpg' ]

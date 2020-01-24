@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Nk Acdmy Team S Duff Gym Duffel Bag' al 25.250000000000007 % de descuento
+title: 'Nike Nk Acdmy Team S Duff Gym Duffel Bag al 25.250000000000007 % de descuento'
 date: 2019/10/11 09:17:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QJqsI7nBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QJqsI7nBL._SL200_.jpg' ]

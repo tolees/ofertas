@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.51062765691424 % en 'BelleStyle 24V 15A 360W Fuente Alimentac'
+title: 'Descuento del 42.51062765691424 % en BelleStyle 24V 15A 360W Fuente Alimentac'
 date: 2020-01-02 08:32:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ezQdkopoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ezQdkopoL._SL200_.jpg' ]

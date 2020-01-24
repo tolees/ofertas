@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 86.13131313131312 % en 'REPLAY Jacksy Vaqueros Skinny  Azul  Dar'
+title: 'Descuento del 86.13131313131312 % en REPLAY Jacksy Vaqueros Skinny  Azul  Dar'
 date: 2019/12/17 10:09:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tkvbpIfbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tkvbpIfbL._SL200_.jpg' ]

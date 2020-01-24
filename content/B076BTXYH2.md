@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj - Lancardo - Para  - LCD21P048' al 66.66666666666666 % de descuento
+title: 'Reloj - Lancardo - Para  - LCD21P048 al 66.66666666666666 % de descuento'
 date: 2019/10/05 08:38:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517dswhvEPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517dswhvEPL._SL200_.jpg' ]

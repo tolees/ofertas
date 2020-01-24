@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sacaleches manual  extractor de leche Ha' al 33.54640756839683 % de descuento
+title: 'Sacaleches manual  extractor de leche Ha al 33.54640756839683 % de descuento'
 date: 2020-01-16 13:05:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310Fd2hHKLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310Fd2hHKLL._SL200_.jpg' ]

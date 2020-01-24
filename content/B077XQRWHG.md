@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Favorite GRPH Legging Logo ' al 64.675 % de descuento
+title: 'Under Armour Favorite GRPH Legging Logo  al 64.675 % de descuento'
 date: 2019/10/29 23:58:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qVi2mG3ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qVi2mG3ML._SL200_.jpg' ]

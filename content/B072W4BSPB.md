@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.114285714285714 % en 'New Balance Flash  Zapatillas de Atletis'
+title: 'Descuento del 56.114285714285714 % en New Balance Flash  Zapatillas de Atletis'
 date: 2019/10/17 02:25:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412Bas1iKrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412Bas1iKrL._SL200_.jpg' ]

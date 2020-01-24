@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sj8063 Sudadera  Azul  Marine/Ar' al 42.281818181818174 % de descuento
+title: 'Lacoste Sj8063 Sudadera  Azul  Marine/Ar al 42.281818181818174 % de descuento'
 date: 2019/10/12 08:16:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VjzAAbJHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VjzAAbJHL._SL200_.jpg' ]

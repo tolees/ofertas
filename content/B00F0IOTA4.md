@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Lighting myLiving Lámpara de Mes' al 30.35379422427803 % de descuento
+title: 'Philips Lighting myLiving Lámpara de Mes al 30.35379422427803 % de descuento'
 date: 2019/11/10 18:51:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IWv-YUHQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IWv-YUHQL._SL200_.jpg' ]

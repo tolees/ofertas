@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Monitor LC34J791WTU | Monitor Cu' al 29.426383981154302 % de descuento
+title: 'Samsung Monitor LC34J791WTU | Monitor Cu al 29.426383981154302 % de descuento'
 date: 2020-01-11 17:36:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lj72joyhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Lj72joyhL._SL200_.jpg' ]

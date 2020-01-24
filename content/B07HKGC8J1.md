@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.9764705882353 % en 'Under Armour Breathe Trainer PRNT  Zapat'
+title: 'Descuento del 61.9764705882353 % en Under Armour Breathe Trainer PRNT  Zapat'
 date: 2019/12/02 07:49:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uhzwvUzmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uhzwvUzmL._SL200_.jpg' ]

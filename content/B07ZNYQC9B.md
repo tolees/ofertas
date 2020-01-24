@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.94411866160745 % en 'Valsole Plantillas Ortopédicas soportes '
+title: 'Descuento del 37.94411866160745 % en Valsole Plantillas Ortopédicas soportes '
 date: 2020-01-01 15:51:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-gykdu7LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-gykdu7LL._SL200_.jpg' ]

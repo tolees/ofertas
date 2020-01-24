@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ALLPOWERS Panel Solar Baterías Cargador ' al 45.340894445160465 % de descuento
+title: 'ALLPOWERS Panel Solar Baterías Cargador  al 45.340894445160465 % de descuento'
 date: 2019/12/29 12:33:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TiVigTdlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TiVigTdlL._SL200_.jpg' ]

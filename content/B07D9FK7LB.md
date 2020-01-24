@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Vaqueros  Sponge' al 37.65151515151515 % de descuento
+title: 'Levi s 501 Original Fit Vaqueros  Sponge al 37.65151515151515 % de descuento'
 date: 2019/12/17 15:56:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg' ]

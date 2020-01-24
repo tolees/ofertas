@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.484949832775925 % en 'Seiko Reloj Analogico para Hombre de Aut'
+title: 'Descuento del 44.484949832775925 % en Seiko Reloj Analogico para Hombre de Aut'
 date: 2019/11/14 01:17:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U8ax4JonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U8ax4JonL._SL200_.jpg' ]

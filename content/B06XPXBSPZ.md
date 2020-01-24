@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.94347173586794 % en 'Desigual Vest_Rotterdam Vestido  Negro 2'
+title: 'Descuento del 66.94347173586794 % en Desigual Vest_Rotterdam Vestido  Negro 2'
 date: 2019/11/08 23:17:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415sMyru-ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415sMyru-ZL._SL200_.jpg' ]

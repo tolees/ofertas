@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vaso de Impacto  Ginour  1/2 de Pulgada ' al 39.25892248238236 % de descuento
+title: 'Vaso de Impacto  Ginour  1/2 de Pulgada  al 39.25892248238236 % de descuento'
 date: 2019/10/21 07:49:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V3xC-fioL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V3xC-fioL._SL200_.jpg' ]

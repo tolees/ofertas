@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.17948717948718 % en 'Felicidad Asiento del Coche de Seguridad'
+title: 'Descuento del 36.17948717948718 % en Felicidad Asiento del Coche de Seguridad'
 date: 2019/12/14 10:09:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sXZ6WYBzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sXZ6WYBzL._SL200_.jpg' ]

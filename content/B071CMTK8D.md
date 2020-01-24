@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.07846188041787 % en 'JACK & JONES Jfwvision Mixed Castlerock '
+title: 'Descuento del 53.07846188041787 % en JACK & JONES Jfwvision Mixed Castlerock '
 date: 2019/10/24 19:51:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41isBzVVeIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41isBzVVeIL._SL200_.jpg' ]

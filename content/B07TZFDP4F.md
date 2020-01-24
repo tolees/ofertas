@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferilinso Funda para Xiaomi Redmi 7A Ele' al 74.60267005721552 % de descuento
+title: 'Ferilinso Funda para Xiaomi Redmi 7A Ele al 74.60267005721552 % de descuento'
 date: 2020-01-01 19:45:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kDY9qu%2BfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kDY9qu%2BfL._SL200_.jpg' ]

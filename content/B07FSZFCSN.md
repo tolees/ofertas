@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Maritsa Lara  Sandalia con Pulser' al 54.554545454545455 % de descuento
+title: 'Clarks Maritsa Lara  Sandalia con Pulser al 54.554545454545455 % de descuento'
 date: 2019/10/07 07:17:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419kkSTQVSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419kkSTQVSL._SL200_.jpg' ]

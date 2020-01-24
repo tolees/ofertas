@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bioderma  Gel y jabón - 1000 ml.' al 49.77777777777778 % de descuento
+title: 'Bioderma  Gel y jabón - 1000 ml. al 49.77777777777778 % de descuento'
 date: 2019/11/10 16:05:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XolKmu-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XolKmu-WL._SL200_.jpg' ]

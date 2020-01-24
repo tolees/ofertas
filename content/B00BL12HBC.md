@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.09090909090909 % en 'Mooer FC-M6 - Maletín para pedales'
+title: 'Descuento del 34.09090909090909 % en Mooer FC-M6 - Maletín para pedales'
 date: 2019/11/01 14:43:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t8obzQaZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t8obzQaZL._SL200_.jpg' ]

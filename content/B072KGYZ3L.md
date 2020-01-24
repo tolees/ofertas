@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.099878408893527 % en 'Lego Marvel Super Heroes 2 - Nintendo Sw'
+title: 'Descuento del 25.099878408893527 % en Lego Marvel Super Heroes 2 - Nintendo Sw'
 date: 2020-01-04 22:01:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512O-Nch%2B5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512O-Nch%2B5L._SL200_.jpg' ]

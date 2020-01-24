@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.05593580363465 % en 'CPU INTEL Core I7-9800X 3.80GHZ 16.50M L'
+title: 'Descuento del 39.05593580363465 % en CPU INTEL Core I7-9800X 3.80GHZ 16.50M L'
 date: 2019/12/12 11:44:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415yuU6DjDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415yuU6DjDL._SL200_.jpg' ]

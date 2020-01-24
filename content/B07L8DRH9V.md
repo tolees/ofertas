@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.01750875437718 % en 'Naipo Cojín para Asiento de Espuma con M'
+title: 'Descuento del 35.01750875437718 % en Naipo Cojín para Asiento de Espuma con M'
 date: 2019/12/17 23:55:19 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

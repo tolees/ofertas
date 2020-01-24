@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.808452624403536 % en 'koulate Luz De Gabinete Led  2 Piezas De'
+title: 'Descuento del 42.808452624403536 % en koulate Luz De Gabinete Led  2 Piezas De'
 date: 2020-01-02 17:37:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M0Sy41baL._SL200_.jpg' ]

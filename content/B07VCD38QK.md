@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Wor Big Delta Tight Mallas  Mujer' al 48.79505224994668 % de descuento
+title: 'Reebok Wor Big Delta Tight Mallas  Mujer al 48.79505224994668 % de descuento'
 date: 2019/10/05 13:59:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hh3lNyViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hh3lNyViL._SL200_.jpg' ]

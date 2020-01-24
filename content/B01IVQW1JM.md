@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One For All WM4421  Soporte de pared par' al 41.84728242747582 % de descuento
+title: 'One For All WM4421  Soporte de pared par al 41.84728242747582 % de descuento'
 date: 2020-01-12 23:39:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HzMkZFu6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HzMkZFu6L._SL200_.jpg' ]

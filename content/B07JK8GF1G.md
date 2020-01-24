@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marca Amazon - Movian Vardar - Silla de ' al 31.582271818086117 % de descuento
+title: 'Marca Amazon - Movian Vardar - Silla de  al 31.582271818086117 % de descuento'
 date: 2019/12/15 19:41:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OMAq4E7ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OMAq4E7ZL._SL200_.jpg' ]

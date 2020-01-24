@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beter Brocha Maquillaje Contouring Pelo ' al 26.067415730337085 % de descuento
+title: 'Beter Brocha Maquillaje Contouring Pelo  al 26.067415730337085 % de descuento'
 date: 2019/11/05 02:28:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DCuh3tPtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DCuh3tPtL._SL200_.jpg' ]

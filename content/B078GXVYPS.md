@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.89111389236546 % en 'Trucco TT16BB1 Jersey   Azul Oscuro   Me'
+title: 'Descuento del 52.89111389236546 % en Trucco TT16BB1 Jersey   Azul Oscuro   Me'
 date: 2019/11/08 06:54:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bhhtdZn2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bhhtdZn2L._SL200_.jpg' ]

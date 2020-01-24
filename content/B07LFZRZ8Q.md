@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.83319935691318 % en 'Geox D ANNYTAH Moc A  Mocasines para Muj'
+title: 'Descuento del 54.83319935691318 % en Geox D ANNYTAH Moc A  Mocasines para Muj'
 date: 2020-01-08 08:18:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WI8SM8sIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WI8SM8sIL._SL200_.jpg' ]

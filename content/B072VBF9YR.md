@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.34228187919462 % en 'Oral-B Smart 4  Cepillo de Dientes Eléct'
+title: 'Descuento del 46.34228187919462 % en Oral-B Smart 4  Cepillo de Dientes Eléct'
 date: 2019/10/16 23:59:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51isSYN13TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51isSYN13TL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DataOcean 32GB Memorias USB 4 Piezas Pen' al 39.14745541539799 % de descuento
+title: 'DataOcean 32GB Memorias USB 4 Piezas Pen al 39.14745541539799 % de descuento'
 date: 2020-01-17 18:56:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PdPZW9DDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PdPZW9DDL._SL200_.jpg' ]

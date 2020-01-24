@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deyard Pelota de Boxeo Reflejo Mejora de' al 35.01750875437718 % de descuento
+title: 'Deyard Pelota de Boxeo Reflejo Mejora de al 35.01750875437718 % de descuento'
 date: 2019/10/30 18:56:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dJJDWniHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dJJDWniHL._SL200_.jpg' ]

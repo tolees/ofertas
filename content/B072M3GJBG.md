@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Silver HT 17119 - Adaptador tipo-C GN30H' al 35.99359935993599 % de descuento
+title: 'Silver HT 17119 - Adaptador tipo-C GN30H al 35.99359935993599 % de descuento'
 date: 2020-01-13 23:01:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OWrZ3vHZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OWrZ3vHZL._SL200_.jpg' ]

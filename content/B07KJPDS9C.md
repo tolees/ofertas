@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Versión actualizada] Micrófono para Cám' al 57.22670579603816 % de descuento
+title: '[Versión actualizada] Micrófono para Cám al 57.22670579603816 % de descuento'
 date: 2019/12/08 18:07:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FQIfgRGcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FQIfgRGcL._SL200_.jpg' ]

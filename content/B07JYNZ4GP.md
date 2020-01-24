@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.95095095095095 % en 'Tommy Hilfiger Lightweight Runner Flag K'
+title: 'Descuento del 50.95095095095095 % en Tommy Hilfiger Lightweight Runner Flag K'
 date: 2019/10/14 13:04:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b-TZOSh8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b-TZOSh8L._SL200_.jpg' ]

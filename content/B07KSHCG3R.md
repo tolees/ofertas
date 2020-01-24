@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung 860 QVO MZ-76Q1T0BW - Disco Duro' al 32.80781222424849 % de descuento
+title: 'Samsung 860 QVO MZ-76Q1T0BW - Disco Duro al 32.80781222424849 % de descuento'
 date: 2020-01-23 21:24:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dNXsA2avL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dNXsA2avL._AC_._SL200_.jpg' ]

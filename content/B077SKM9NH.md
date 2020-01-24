@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste PF7839 Polo  Azul  RUISSEAU T01 ' al 38.08406229997866 % de descuento
+title: 'Lacoste PF7839 Polo  Azul  RUISSEAU T01  al 38.08406229997866 % de descuento'
 date: 2019/12/17 19:25:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dMLmT17pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dMLmT17pL._SL200_.jpg' ]

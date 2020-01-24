@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.49550313931783 % en 'Britney Spears 21999 - Agua de perfume  '
+title: 'Descuento del 60.49550313931783 % en Britney Spears 21999 - Agua de perfume  '
 date: 2019/11/16 09:02:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j%2BGP-tfGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j%2BGP-tfGL._SL200_.jpg' ]

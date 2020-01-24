@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.70967741935484 % en 'NIVEA Loción Corporal Reafirmante Q10  P'
+title: 'Descuento del 38.70967741935484 % en NIVEA Loción Corporal Reafirmante Q10  P'
 date: 2019/10/27 18:38:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UeQ6XgLML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UeQ6XgLML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.014311270125212 % en 'Blindecor Ara - Estor enrollable translú'
+title: 'Descuento del 28.014311270125212 % en Blindecor Ara - Estor enrollable translú'
 date: 2019/11/22 21:47:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BpqIwBXAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BpqIwBXAL._SL200_.jpg' ]

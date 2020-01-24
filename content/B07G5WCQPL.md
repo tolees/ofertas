@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'para GoPro Clip  360 Grados Rotatorio Aj' al 46.006006006006 % de descuento
+title: 'para GoPro Clip  360 Grados Rotatorio Aj al 46.006006006006 % de descuento'
 date: 2019/11/15 19:03:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JuynMpCmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JuynMpCmL._SL200_.jpg' ]

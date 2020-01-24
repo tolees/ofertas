@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Sprocket 200 - Impresora fotográfica ' al 33.355570380253496 % de descuento
+title: 'HP Sprocket 200 - Impresora fotográfica  al 33.355570380253496 % de descuento'
 date: 2019/11/01 20:15:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vgN83S92L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vgN83S92L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Flex Advantage 3.0-Jection  Zap' al 49.621157969978555 % de descuento
+title: 'Skechers Flex Advantage 3.0-Jection  Zap al 49.621157969978555 % de descuento'
 date: 2019/10/21 20:09:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jbHE9GAyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jbHE9GAyL._SL200_.jpg' ]

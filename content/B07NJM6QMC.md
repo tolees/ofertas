@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.82036613272312 % en 'New Look 4 Pocket Utility Shacket Chaque'
+title: 'Descuento del 42.82036613272312 % en New Look 4 Pocket Utility Shacket Chaque'
 date: 2019/10/15 17:09:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWjz32ueL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWjz32ueL._SL200_.jpg' ]

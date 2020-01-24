@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.96666666666667 % en 'REPLAY W3931B.000.20994-354  Camiseta pa'
+title: 'Descuento del 47.96666666666667 % en REPLAY W3931B.000.20994-354  Camiseta pa'
 date: 2019/10/26 21:53:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BeMNI-V2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BeMNI-V2L._SL200_.jpg' ]

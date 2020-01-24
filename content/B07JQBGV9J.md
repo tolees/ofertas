@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.763527054108216 % en 'Tommy Hilfiger Formal Belt 3.5 Cinturón '
+title: 'Descuento del 51.763527054108216 % en Tommy Hilfiger Formal Belt 3.5 Cinturón '
 date: 2019/12/24 13:59:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LVN6NMUEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LVN6NMUEL._SL200_.jpg' ]

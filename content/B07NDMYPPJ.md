@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Halite Polo  Rojo  Dk Baron 4' al 36.93181818181819 % de descuento
+title: 'G-STAR RAW Halite Polo  Rojo  Dk Baron 4 al 36.93181818181819 % de descuento'
 date: 2020-01-20 16:35:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qG1BqNZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qG1BqNZaL._SL200_.jpg' ]

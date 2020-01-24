@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CORONEL TAPIOCCA Mochila hombre con bols' al 44.00880176035208 % de descuento
+title: 'CORONEL TAPIOCCA Mochila hombre con bols al 44.00880176035208 % de descuento'
 date: 2019/10/27 15:18:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511gAfEXM9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511gAfEXM9L._SL200_.jpg' ]

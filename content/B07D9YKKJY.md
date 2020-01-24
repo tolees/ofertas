@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Defy Luxe Wn s  Zapatillas de Depor' al 46.38472032742156 % de descuento
+title: 'Puma Defy Luxe Wn s  Zapatillas de Depor al 46.38472032742156 % de descuento'
 date: 2019/10/31 06:02:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41csIue0ZYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41csIue0ZYL._SL200_.jpg' ]

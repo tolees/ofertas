@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Friday the 13th: The Game - Ultimate Sla' al 44.54323182929541 % de descuento
+title: 'Friday the 13th: The Game - Ultimate Sla al 44.54323182929541 % de descuento'
 date: 2019/12/17 09:48:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sByAal80L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sByAal80L._SL200_.jpg' ]

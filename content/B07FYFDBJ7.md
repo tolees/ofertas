@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Champion The Absolute Workout Sujetador ' al 58.39464882943144 % de descuento
+title: 'Champion The Absolute Workout Sujetador  al 58.39464882943144 % de descuento'
 date: 2020-01-21 15:23:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Trn5rJ8%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Trn5rJ8%2BL._SL200_.jpg' ]

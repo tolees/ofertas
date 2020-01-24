@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L.O.L. Surprise! 556374 L.O.L Surprise M' al 51.98079231692676 % de descuento
+title: 'L.O.L. Surprise! 556374 L.O.L Surprise M al 51.98079231692676 % de descuento'
 date: 2019/12/25 16:26:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eyqMTyLlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eyqMTyLlL._SL200_.jpg' ]

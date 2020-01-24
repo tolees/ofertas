@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio Premium - Bateria de 4 pieza' al 27.46339533043134 % de descuento
+title: 'San Ignacio Premium - Bateria de 4 pieza al 27.46339533043134 % de descuento'
 date: 2020-01-20 07:37:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qj7IQ6DDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qj7IQ6DDL._SL200_.jpg' ]

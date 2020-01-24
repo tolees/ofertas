@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjebasic Knit Crew Neck Noo' al 51.98079231692676 % de descuento
+title: 'JACK & JONES Jjebasic Knit Crew Neck Noo al 51.98079231692676 % de descuento'
 date: 2019/12/09 13:08:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412G-CAeMiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412G-CAeMiL._SL200_.jpg' ]

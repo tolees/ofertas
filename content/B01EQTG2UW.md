@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.52876438219109 % en 'TOUCHBeauty TB-0759M Cepillo Facial de l'
+title: 'Descuento del 57.52876438219109 % en TOUCHBeauty TB-0759M Cepillo Facial de l'
 date: 2019/10/27 11:38:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51W8wITQwNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51W8wITQwNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 82.00840336134453 % en 'Fornarina Moon Azul   Blau Denim AV   W2'
+title: 'Descuento del 82.00840336134453 % en Fornarina Moon Azul   Blau Denim AV   W2'
 date: 2019/11/09 20:05:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LESSwrpbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LESSwrpbL._SL200_.jpg' ]

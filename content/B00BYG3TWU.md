@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike T-Lite Xi Sp15 - Zapatillas para ho' al 27.480000000000004 % de descuento
+title: 'Nike T-Lite Xi Sp15 - Zapatillas para ho al 27.480000000000004 % de descuento'
 date: 2019/10/20 19:05:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zzd3YaNYL._SL200_.jpg' ]

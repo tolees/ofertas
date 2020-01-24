@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Metabo 602353650 SB 18 LTX BL Q I  60235' al 50.53479190942451 % de descuento
+title: 'Metabo 602353650 SB 18 LTX BL Q I  60235 al 50.53479190942451 % de descuento'
 date: 2019/10/09 16:21:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pzdGFAupL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pzdGFAupL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett Vaqueros  Wt Finish  33W / ' al 49.07584448693435 % de descuento
+title: 'Lee Scarlett Vaqueros  Wt Finish  33W /  al 49.07584448693435 % de descuento'
 date: 2019/10/14 12:10:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m7hMX39JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m7hMX39JL._SL200_.jpg' ]

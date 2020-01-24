@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Slip Generous Classique X2 Braguita ' al 81.5437197379664 % de descuento
+title: 'Dim Slip Generous Classique X2 Braguita  al 81.5437197379664 % de descuento'
 date: 2019/11/14 18:44:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EwUYOjtBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EwUYOjtBL._SL200_.jpg' ]

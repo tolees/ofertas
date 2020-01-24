@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zagzog X8-Grau Auriculares deportivos en' al 67.24220623501198 % de descuento
+title: 'Zagzog X8-Grau Auriculares deportivos en al 67.24220623501198 % de descuento'
 date: 2019/11/15 20:49:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412w4WEFxcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412w4WEFxcL._SL200_.jpg' ]

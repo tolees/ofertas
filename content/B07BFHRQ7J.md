@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.364639164563094 % en 'Bébé Confort LARA  Nomad Grey  - Cocheci'
+title: 'Descuento del 45.364639164563094 % en Bébé Confort LARA  Nomad Grey  - Cocheci'
 date: 2019/10/17 09:21:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4169OOr2bIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4169OOr2bIL._SL200_.jpg' ]

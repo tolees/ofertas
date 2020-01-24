@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.4796283059328 % en 'Huiran Funda para Samsung Galaxy J4 Plus'
+title: 'Descuento del 71.4796283059328 % en Huiran Funda para Samsung Galaxy J4 Plus'
 date: 2019/12/07 08:10:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ih8WNKlmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ih8WNKlmL._SL200_.jpg' ]

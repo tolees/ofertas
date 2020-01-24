@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.15384615384615 % en 'LUPO USB 2.0 XD Memory Card Reader For F'
+title: 'Descuento del 46.15384615384615 % en LUPO USB 2.0 XD Memory Card Reader For F'
 date: 2020-01-04 12:56:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ylU-o9YOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ylU-o9YOL._SL200_.jpg' ]

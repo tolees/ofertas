@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmverodona LS Jacket Noos Abri' al 45.089017803560715 % de descuento
+title: 'Vero Moda Vmverodona LS Jacket Noos Abri al 45.089017803560715 % de descuento'
 date: 2019/11/07 08:43:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CwCa6fhHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CwCa6fhHL._SL200_.jpg' ]

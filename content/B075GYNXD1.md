@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.675558519506502 % en 'LEGO Technic 42074 Rennyacht  Set für ge'
+title: 'Descuento del 26.675558519506502 % en LEGO Technic 42074 Rennyacht  Set für ge'
 date: 2019/12/04 13:44:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ww14VGvlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ww14VGvlL._SL200_.jpg' ]

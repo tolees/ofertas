@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans New Brooke Vaqueros  10Oz Str' al 50.578947368421055 % de descuento
+title: 'Pepe Jeans New Brooke Vaqueros  10Oz Str al 50.578947368421055 % de descuento'
 date: 2019/11/02 11:27:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mHle-0hvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mHle-0hvL._SL200_.jpg' ]

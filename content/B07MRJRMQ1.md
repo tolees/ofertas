@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.76923076923077 % en 'Lacoste Th8550 Camiseta  Marfil  Farine '
+title: 'Descuento del 47.76923076923077 % en Lacoste Th8550 Camiseta  Marfil  Farine '
 date: 2019/11/10 12:51:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FFOXfP95L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FFOXfP95L._SL200_.jpg' ]

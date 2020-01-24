@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salsa Jeans Colette Vaqueros Skinny   Ne' al 35.3923205342237 % de descuento
+title: 'Salsa Jeans Colette Vaqueros Skinny   Ne al 35.3923205342237 % de descuento'
 date: 2019/10/10 13:37:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3130Ab-kPSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3130Ab-kPSL._SL200_.jpg' ]

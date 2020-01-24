@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.268425841674265 % en 'PUMA NRGY Comet  Zapatillas de Running U'
+title: 'Descuento del 55.268425841674265 % en PUMA NRGY Comet  Zapatillas de Running U'
 date: 2019/12/23 18:25:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-XO%2BH4tnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-XO%2BH4tnL._SL200_.jpg' ]

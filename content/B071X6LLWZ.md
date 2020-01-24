@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.39086929330831 % en 'adidas EQT Support C  Zapatillas de Gimn'
+title: 'Descuento del 65.39086929330831 % en adidas EQT Support C  Zapatillas de Gimn'
 date: 2019/11/05 20:16:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tCbsBLtcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tCbsBLtcL._SL200_.jpg' ]

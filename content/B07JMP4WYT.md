@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marca Amazon - Goodthreads - Pantalón ch' al 25.0 % de descuento
+title: 'Marca Amazon - Goodthreads - Pantalón ch al 25.0 % de descuento'
 date: 2019/12/21 19:20:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F0PkQMHJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F0PkQMHJL._SL200_.jpg' ]

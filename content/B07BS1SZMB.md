@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Xpress SL-M2078W Laser 20 ppm 1200 x ' al 35.245901639344254 % de descuento
+title: 'HP Xpress SL-M2078W Laser 20 ppm 1200 x  al 35.245901639344254 % de descuento'
 date: 2019/12/19 08:56:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YGzcDDDgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YGzcDDDgL._SL200_.jpg' ]

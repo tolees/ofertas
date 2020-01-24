@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Hyperknit - Funda para Galaxy S9' al 77.65042979942693 % de descuento
+title: 'Samsung Hyperknit - Funda para Galaxy S9 al 77.65042979942693 % de descuento'
 date: 2020-01-19 22:32:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CGbNhrbfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CGbNhrbfL._SL200_.jpg' ]

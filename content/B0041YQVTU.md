@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intel Corp E1G44ET2 Gigabit ET2 Quad Por' al 54.54683191418441 % de descuento
+title: 'Intel Corp E1G44ET2 Gigabit ET2 Quad Por al 54.54683191418441 % de descuento'
 date: 2019/12/05 20:08:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qs45ziAeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qs45ziAeL._SL200_.jpg' ]

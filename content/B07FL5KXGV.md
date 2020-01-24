@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Vintage Logo Entry tee Camiseta' al 52.5062656641604 % de descuento
+title: 'Superdry Vintage Logo Entry tee Camiseta al 52.5062656641604 % de descuento'
 date: 2019/11/17 02:19:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ykcX7ZcGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ykcX7ZcGL._SL200_.jpg' ]

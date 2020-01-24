@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.33444448148272 % en 'Mini PC Windows 10  ACEPC AK2 6GB Ram 64'
+title: 'Descuento del 33.33444448148272 % en Mini PC Windows 10  ACEPC AK2 6GB Ram 64'
 date: 2020-01-20 10:35:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ox9xRb%2BqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ox9xRb%2BqL._SL200_.jpg' ]

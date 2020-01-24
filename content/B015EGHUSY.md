@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Michael Kors Chelsea MK5004 Gafas de sol' al 55.69090909090909 % de descuento
+title: 'Michael Kors Chelsea MK5004 Gafas de sol al 55.69090909090909 % de descuento'
 date: 2019/10/06 17:14:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J7RNjtkpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J7RNjtkpL._SL200_.jpg' ]

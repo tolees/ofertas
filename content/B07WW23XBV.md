@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OFERTA DE LANZAMIENTO Serum Facial de Vi' al 78.58265466495213 % de descuento
+title: 'OFERTA DE LANZAMIENTO Serum Facial de Vi al 78.58265466495213 % de descuento'
 date: 2019/11/25 09:18:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-R9OJ78zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-R9OJ78zL._SL200_.jpg' ]

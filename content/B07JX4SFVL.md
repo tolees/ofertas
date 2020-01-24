@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superman Blu-Ray Uhd [Blu-ray]' al 49.94219653179191 % de descuento
+title: 'Superman Blu-Ray Uhd [Blu-ray] al 49.94219653179191 % de descuento'
 date: 2019/11/26 22:18:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kExENkXNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kExENkXNL._SL200_.jpg' ]

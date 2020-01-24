@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson Workforce WF-7720DTWF - Impresora ' al 45.21601372982607 % de descuento
+title: 'Epson Workforce WF-7720DTWF - Impresora  al 45.21601372982607 % de descuento'
 date: 2019/11/24 12:32:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LJTW3FcWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LJTW3FcWL._SL200_.jpg' ]

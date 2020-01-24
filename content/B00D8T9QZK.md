@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.38167825958266 % en 'Samsung Galaxy S4 Mini - Smartphone Libr'
+title: 'Descuento del 53.38167825958266 % en Samsung Galaxy S4 Mini - Smartphone Libr'
 date: 2019/11/05 22:43:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CfdHp1Q6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CfdHp1Q6L._SL200_.jpg' ]

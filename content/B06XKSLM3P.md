@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Teo 624 Camiseta de Manga Larga  Ni' al 62.75491949910554 % de descuento
+title: 'LEGO Teo 624 Camiseta de Manga Larga  Ni al 62.75491949910554 % de descuento'
 date: 2019/10/31 08:36:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/616cAOyhsTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/616cAOyhsTL._SL200_.jpg' ]

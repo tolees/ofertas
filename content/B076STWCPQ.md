@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tucano-Bolsa para Ordenador Hombre y Muj' al 47.91583166332666 % de descuento
+title: 'Tucano-Bolsa para Ordenador Hombre y Muj al 47.91583166332666 % de descuento'
 date: 2020-01-14 08:01:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hG0PtisxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hG0PtisxL._SL200_.jpg' ]

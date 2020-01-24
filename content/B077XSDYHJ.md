@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tech tee - Camiseta de Mang' al 46.766666666666666 % de descuento
+title: 'Under Armour Tech tee - Camiseta de Mang al 46.766666666666666 % de descuento'
 date: 2019/11/07 09:44:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FPjUrAS9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FPjUrAS9L._SL200_.jpg' ]

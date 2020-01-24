@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Xunday Boy A  Botas Chukka para N' al 39.92846924177397 % de descuento
+title: 'Geox J Xunday Boy A  Botas Chukka para N al 39.92846924177397 % de descuento'
 date: 2019/10/25 07:44:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415CNL6v1uL._SL200_.jpg' ]

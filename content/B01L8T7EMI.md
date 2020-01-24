@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POWER GUIDANCE AB Abdominal Mat  Colchon' al 45.61824729891957 % de descuento
+title: 'POWER GUIDANCE AB Abdominal Mat  Colchon al 45.61824729891957 % de descuento'
 date: 2019/12/08 08:33:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CbInd5I1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CbInd5I1L._SL200_.jpg' ]

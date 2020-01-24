@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.70407315045719 % en 'BRA Bella - Cafetera  capacidad 4 tazas '
+title: 'Descuento del 31.70407315045719 % en BRA Bella - Cafetera  capacidad 4 tazas '
 date: 2019/11/03 20:08:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZRW8HdFRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZRW8HdFRL._SL200_.jpg' ]

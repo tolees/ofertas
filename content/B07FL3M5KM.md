@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BLEND Outerwear Chaqueta  Blau  Dark Nav' al 48.8610763454318 % de descuento
+title: 'BLEND Outerwear Chaqueta  Blau  Dark Nav al 48.8610763454318 % de descuento'
 date: 2019/12/24 13:01:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CTGH-z18L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CTGH-z18L._SL200_.jpg' ]

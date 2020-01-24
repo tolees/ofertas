@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Innovaciones MS Progress - Trona de made' al 34.36363636363636 % de descuento
+title: 'Innovaciones MS Progress - Trona de made al 34.36363636363636 % de descuento'
 date: 2019/11/30 21:04:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sr1D7xORL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sr1D7xORL._SL200_.jpg' ]

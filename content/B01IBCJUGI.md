@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tekken 7 - Standard Edition' al 74.29632804686383 % de descuento
+title: 'Tekken 7 - Standard Edition al 74.29632804686383 % de descuento'
 date: 2020-01-17 06:04:46
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.000000000000004 % en 'Tommy Jeans TJW Shortsleeve Stretch tee '
+title: 'Descuento del 30.000000000000004 % en Tommy Jeans TJW Shortsleeve Stretch tee '
 date: 2019/10/09 17:00:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TjeoQZdHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TjeoQZdHL._SL200_.jpg' ]

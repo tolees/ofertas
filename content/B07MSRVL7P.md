@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolinos Santiago M8m_v19  Zapatos de C' al 34.909090909090914 % de descuento
+title: 'Pikolinos Santiago M8m_v19  Zapatos de C al 34.909090909090914 % de descuento'
 date: 2019/10/30 08:47:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317VDSR9z3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317VDSR9z3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Love2Wait Sophia Pantalones  Negro  Schw' al 87.11377946990775 % de descuento
+title: 'Love2Wait Sophia Pantalones  Negro  Schw al 87.11377946990775 % de descuento'
 date: 2020-01-07 12:06:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IL7tJAq-L._SL200_.jpg' ]

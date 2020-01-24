@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.39999999999999 % en 'Pepe Jeans Whesley Sudadera con Capucha '
+title: 'Descuento del 55.39999999999999 % en Pepe Jeans Whesley Sudadera con Capucha '
 date: 2019/10/15 10:53:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41axdd2Z-zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41axdd2Z-zL._SL200_.jpg' ]

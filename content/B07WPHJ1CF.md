@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marco de Fotos Digital Crosstour de 8 Pu' al 33.338889814969164 % de descuento
+title: 'Marco de Fotos Digital Crosstour de 8 Pu al 33.338889814969164 % de descuento'
 date: 2020-01-15 22:59:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VzJ7I1LtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VzJ7I1LtL._SL200_.jpg' ]

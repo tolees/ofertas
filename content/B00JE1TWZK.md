@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.3322203672788 % en 'Under Armour Fitness - und Shorts Leggin'
+title: 'Descuento del 59.3322203672788 % en Under Armour Fitness - und Shorts Leggin'
 date: 2019/11/04 12:39:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qcPw5ivwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qcPw5ivwL._SL200_.jpg' ]

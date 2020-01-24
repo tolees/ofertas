@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2 Linterna LED Acampada portátil luz Int' al 40.98870056497175 % de descuento
+title: '2 Linterna LED Acampada portátil luz Int al 40.98870056497175 % de descuento'
 date: 2019/12/31 12:21:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TKEn9ayPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TKEn9ayPL._SL200_.jpg' ]

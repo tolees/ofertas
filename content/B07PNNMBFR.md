@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.08817635270541 % en 'Muñeco Peluche Osito con Manta Bebé Estr'
+title: 'Descuento del 44.08817635270541 % en Muñeco Peluche Osito con Manta Bebé Estr'
 date: 2020-01-19 15:05:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PBHgvb0zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PBHgvb0zL._SL200_.jpg' ]

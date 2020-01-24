@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MINILAND BABY - Vigilabebé' al 32.53777777777778 % de descuento
+title: 'MINILAND BABY - Vigilabebé al 32.53777777777778 % de descuento'
 date: 2020-01-08 17:50:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l1VMMTQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l1VMMTQML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.36348478532722 % en 'Salomon SPEEDCROSS 4 W   Damen Traillauf'
+title: 'Descuento del 32.36348478532722 % en Salomon SPEEDCROSS 4 W   Damen Traillauf'
 date: 2019/11/12 07:49:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JKv0KMsDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JKv0KMsDL._SL200_.jpg' ]

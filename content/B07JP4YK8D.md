@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Revend Vaqueros skinny para H' al 74.8311796581909 % de descuento
+title: 'G-STAR RAW Revend Vaqueros skinny para H al 74.8311796581909 % de descuento'
 date: 2019/11/19 20:17:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N6YLEjOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N6YLEjOJL._SL200_.jpg' ]

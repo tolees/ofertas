@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.254933765882676 % en 'softan Manta de Cola de Sirena para niño'
+title: 'Descuento del 43.254933765882676 % en softan Manta de Cola de Sirena para niño'
 date: 2019/11/20 22:40:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HjuHlu0-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HjuHlu0-L._SL200_.jpg' ]

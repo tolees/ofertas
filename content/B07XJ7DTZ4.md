@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.03125781445361 % en 'Roku Premiere | HD/4K/HDR Streaming Medi'
+title: 'Descuento del 25.03125781445361 % en Roku Premiere | HD/4K/HDR Streaming Medi'
 date: 2019/12/04 19:16:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417KBkW6KLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417KBkW6KLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.331210191082803 % en 'Ray-ban Mod. 3498 - Gafas de sol para ho'
+title: 'Descuento del 29.331210191082803 % en Ray-ban Mod. 3498 - Gafas de sol para ho'
 date: 2019/11/09 15:33:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bt80Z0fML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Bt80Z0fML._SL200_.jpg' ]

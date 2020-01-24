@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 70921 Batman Movie Harley Quinn Can' al 26.005201040208036 % de descuento
+title: 'LEGO 70921 Batman Movie Harley Quinn Can al 26.005201040208036 % de descuento'
 date: 2019/10/18 03:58:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLWI-mPkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLWI-mPkL._SL200_.jpg' ]

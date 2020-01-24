@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX KHX-HSCP-GM Cloud II - Cascos de ' al 40.07003501750875 % de descuento
+title: 'HyperX KHX-HSCP-GM Cloud II - Cascos de  al 40.07003501750875 % de descuento'
 date: 2020-01-19 14:09:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MqD4j79ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MqD4j79ZL._SL200_.jpg' ]

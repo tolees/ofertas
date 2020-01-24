@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO MOVIE 2 70842 Emmet s Triple-Decker' al 39.97599039615846 % de descuento
+title: 'LEGO MOVIE 2 70842 Emmet s Triple-Decker al 39.97599039615846 % de descuento'
 date: 2019/12/10 21:59:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VISeorI6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VISeorI6L._SL200_.jpg' ]

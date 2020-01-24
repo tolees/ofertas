@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Morton Vaqueros Rectos  Negro  Black' al 70.90605892162311 % de descuento
+title: 'Lee Morton Vaqueros Rectos  Negro  Black al 70.90605892162311 % de descuento'
 date: 2019/10/17 22:23:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CBcxlWGBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CBcxlWGBL._SL200_.jpg' ]

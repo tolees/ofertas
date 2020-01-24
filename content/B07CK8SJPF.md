@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shenmue I & II - Xbox One' al 48.842526436124615 % de descuento
+title: 'Shenmue I & II - Xbox One al 48.842526436124615 % de descuento'
 date: 2019/11/02 15:02:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cRn7upjHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cRn7upjHL._SL200_.jpg' ]

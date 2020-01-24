@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.61755485893416 % en 'Pop! Ghostbusters - Figura de Vinilo Dr.'
+title: 'Descuento del 37.61755485893416 % en Pop! Ghostbusters - Figura de Vinilo Dr.'
 date: 2019/12/23 15:05:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4148Z7fOhaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4148Z7fOhaL._SL200_.jpg' ]

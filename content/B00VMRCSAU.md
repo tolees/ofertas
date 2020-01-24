@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jako Chaqueta con Capucha Team Azul Tall' al 72.95293359123146 % de descuento
+title: 'Jako Chaqueta con Capucha Team Azul Tall al 72.95293359123146 % de descuento'
 date: 2019/12/17 18:07:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416wrH5JUBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416wrH5JUBL._SL200_.jpg' ]

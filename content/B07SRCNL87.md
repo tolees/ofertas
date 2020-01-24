@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.73078672123694 % en 'adidas EQT Gazelle  Zapatillas de Gimnas'
+title: 'Descuento del 67.73078672123694 % en adidas EQT Gazelle  Zapatillas de Gimnas'
 date: 2019/12/13 17:08:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PmV2oEbPL._SL200_.jpg' ]

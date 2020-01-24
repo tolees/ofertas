@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech G Heavy Equipment Bundle - Farm' al 38.463017808377245 % de descuento
+title: 'Logitech G Heavy Equipment Bundle - Farm al 38.463017808377245 % de descuento'
 date: 2020-01-23 20:15:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4157blVSUAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4157blVSUAL._SL200_.jpg' ]

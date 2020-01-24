@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Juras' al 69.006900690069 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for LEGO Juras al 69.006900690069 % de descuento'
 date: 2019/12/24 16:30:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MPLPKPC-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MPLPKPC-L._SL200_.jpg' ]

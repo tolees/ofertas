@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.59331237496427 % en 'Nike Mercurial Superfly V Cr7 FG  Zapati'
+title: 'Descuento del 76.59331237496427 % en Nike Mercurial Superfly V Cr7 FG  Zapati'
 date: 2019/10/24 00:02:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EYdWLwFvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EYdWLwFvL._SL200_.jpg' ]

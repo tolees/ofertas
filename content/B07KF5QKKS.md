@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.700000000000006 % en 'Levi s 511 Slim Fit Vaqueros  Fennel Sub'
+title: 'Descuento del 30.700000000000006 % en Levi s 511 Slim Fit Vaqueros  Fennel Sub'
 date: 2019/10/24 16:38:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aJj1qA6TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aJj1qA6TL._SL200_.jpg' ]

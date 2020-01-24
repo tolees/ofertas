@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AROYI Funda iPhone 11+2 x Protector de P' al 52.6592943654555 % de descuento
+title: 'AROYI Funda iPhone 11+2 x Protector de P al 52.6592943654555 % de descuento'
 date: 2020-01-14 14:03:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTL2paYuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTL2paYuL._SL200_.jpg' ]

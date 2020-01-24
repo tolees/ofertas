@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.01750875437718 % en 'Hervidor de agua Classe Tivoli - 1.7 L -'
+title: 'Descuento del 35.01750875437718 % en Hervidor de agua Classe Tivoli - 1.7 L -'
 date: 2019/10/12 13:01:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bRi6J16cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bRi6J16cL._SL200_.jpg' ]

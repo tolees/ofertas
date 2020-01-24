@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.00222717149221 % en 'Tommy Hilfiger New Danny Belt - Cinturón'
+title: 'Descuento del 51.00222717149221 % en Tommy Hilfiger New Danny Belt - Cinturón'
 date: 2019/10/12 10:43:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XvTWY003L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XvTWY003L._SL200_.jpg' ]

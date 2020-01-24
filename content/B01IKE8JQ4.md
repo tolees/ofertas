@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cars 3 Pista Choques Locos  Mattel DXY95' al 55.81842662050395 % de descuento
+title: 'Cars 3 Pista Choques Locos  Mattel DXY95 al 55.81842662050395 % de descuento'
 date: 2019/10/06 18:48:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kFZsONLTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kFZsONLTL._SL200_.jpg' ]

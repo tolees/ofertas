@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.41463414634146 % en 'Digipack House I a IV [DVD]'
+title: 'Descuento del 63.41463414634146 % en Digipack House I a IV [DVD]'
 date: 2019/11/19 07:14:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518lzbx5G7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518lzbx5G7L._SL200_.jpg' ]

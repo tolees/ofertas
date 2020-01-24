@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.938433562800356 % en 'Philips Pro HPS930/40 - Plancha de Pelo '
+title: 'Descuento del 25.938433562800356 % en Philips Pro HPS930/40 - Plancha de Pelo '
 date: 2020-01-10 11:38:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31APK9d%2BNuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31APK9d%2BNuL._SL200_.jpg' ]

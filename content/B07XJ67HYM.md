@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.56856974690994 % en 'QHOHQ Protector de Pantalla para Xiaomi '
+title: 'Descuento del 66.56856974690994 % en QHOHQ Protector de Pantalla para Xiaomi '
 date: 2019/12/14 12:56:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-lbX9A-TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-lbX9A-TL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gillette mach-3 Cartridge - Pack de 4' al 52.12328767123287 % de descuento
+title: 'Gillette mach-3 Cartridge - Pack de 4 al 52.12328767123287 % de descuento'
 date: 2020-01-23 17:46:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51swtjuoSCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51swtjuoSCL._SL200_.jpg' ]

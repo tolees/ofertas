@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.89778413152252 % en 'Skechers Energy  Zapatillas para Mujer  '
+title: 'Descuento del 56.89778413152252 % en Skechers Energy  Zapatillas para Mujer  '
 date: 2019/11/25 11:52:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cUEBw-OpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cUEBw-OpL._SL200_.jpg' ]

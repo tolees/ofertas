@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.85285285285285 % en 'TOMMY HILFIGER Como Skinny RW A Tabia Va'
+title: 'Descuento del 62.85285285285285 % en TOMMY HILFIGER Como Skinny RW A Tabia Va'
 date: 2019/11/21 10:23:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nmvuLpctL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nmvuLpctL._SL200_.jpg' ]

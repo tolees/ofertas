@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Odlo Hoody Midlayer 1/2 Zip Steam Sudade' al 43.762499999999996 % de descuento
+title: 'Odlo Hoody Midlayer 1/2 Zip Steam Sudade al 43.762499999999996 % de descuento'
 date: 2020-01-19 09:55:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OvxuDyS4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OvxuDyS4L._SL200_.jpg' ]

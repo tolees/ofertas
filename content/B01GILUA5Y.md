@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.3013698630137 % en 'Calvin Klein 2PK Bikini Braguitas  Blanc'
+title: 'Descuento del 36.3013698630137 % en Calvin Klein 2PK Bikini Braguitas  Blanc'
 date: 2019/10/05 23:43:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rc3AdEC7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rc3AdEC7L._SL200_.jpg' ]

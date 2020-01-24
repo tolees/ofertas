@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.65346534653466 % en 'Farrutx-Joele  Botas para Mujer'
+title: 'Descuento del 55.65346534653466 % en Farrutx-Joele  Botas para Mujer'
 date: 2019/10/05 20:38:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Ij47sk4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Ij47sk4L._SL200_.jpg' ]

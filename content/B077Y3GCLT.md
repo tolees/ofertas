@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.97214484679665 % en 'HIKARO Camiseta Logo Hombre  Beige  Oatm'
+title: 'Descuento del 69.97214484679665 % en HIKARO Camiseta Logo Hombre  Beige  Oatm'
 date: 2019/10/07 12:15:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419%2BQMlCiEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419%2BQMlCiEL._SL200_.jpg' ]

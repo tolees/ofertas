@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.75524475524475 % en 'Tommy Hilfiger 3p Trunk  Bóxers para Hom'
+title: 'Descuento del 34.75524475524475 % en Tommy Hilfiger 3p Trunk  Bóxers para Hom'
 date: 2019/10/07 13:05:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YUGSplPgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YUGSplPgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Neunir Camiseta  Rojo  Red London ' al 49.80694980694981 % de descuento
+title: 'Celio Neunir Camiseta  Rojo  Red London  al 49.80694980694981 % de descuento'
 date: 2019/10/29 16:57:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W5-3Z7ssL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W5-3Z7ssL._SL200_.jpg' ]

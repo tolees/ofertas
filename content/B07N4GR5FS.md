@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.21176470588236 % en 'Hackett H Tonal Knot Belt Cinturón  Marr'
+title: 'Descuento del 40.21176470588236 % en Hackett H Tonal Knot Belt Cinturón  Marr'
 date: 2019/10/12 07:55:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aLva8MFSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aLva8MFSL._SL200_.jpg' ]

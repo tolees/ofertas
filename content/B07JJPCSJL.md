@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack Fear The Walking Dead Temporada 1 -' al 75.0093761720215 % de descuento
+title: 'Pack Fear The Walking Dead Temporada 1 - al 75.0093761720215 % de descuento'
 date: 2019/11/21 22:04:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JaJn5FtbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JaJn5FtbL._SL200_.jpg' ]

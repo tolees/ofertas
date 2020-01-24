@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Light Set For  Ship in a Bot' al 55.016666666666666 % de descuento
+title: 'LIGHTAILING Light Set For  Ship in a Bot al 55.016666666666666 % de descuento'
 date: 2020-01-23 17:36:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513AnyhgcSL._SL200_.jpg' ]

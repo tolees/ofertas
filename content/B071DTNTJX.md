@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WENGER Reloj Analogico para Unisex de Cu' al 55.710691823899374 % de descuento
+title: 'WENGER Reloj Analogico para Unisex de Cu al 55.710691823899374 % de descuento'
 date: 2020-01-02 09:49:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IeB0oHJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IeB0oHJjL._SL200_.jpg' ]

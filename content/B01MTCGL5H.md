@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.87777777777778 % en 'Etnies Metal Mulisha Fader 2  Zapatillas'
+title: 'Descuento del 66.87777777777778 % en Etnies Metal Mulisha Fader 2  Zapatillas'
 date: 2019/10/21 00:25:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mH13mJVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mH13mJVML._SL200_.jpg' ]

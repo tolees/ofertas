@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Midge Zip Mid Waist Skinny Va' al 70.91188918814927 % de descuento
+title: 'G-STAR RAW Midge Zip Mid Waist Skinny Va al 70.91188918814927 % de descuento'
 date: 2019/11/18 17:16:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uqFg2QB%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uqFg2QB%2BL._SL200_.jpg' ]

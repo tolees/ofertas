@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ellesse Contest  Sandalias Deportivas pa' al 51.57735085945399 % de descuento
+title: 'ellesse Contest  Sandalias Deportivas pa al 51.57735085945399 % de descuento'
 date: 2019/11/04 21:42:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BdaQFuLZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BdaQFuLZL._SL200_.jpg' ]

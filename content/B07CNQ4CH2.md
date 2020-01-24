@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Linterna LED Recargable Zoomable Ajustab' al 56.81893964654885 % de descuento
+title: 'Linterna LED Recargable Zoomable Ajustab al 56.81893964654885 % de descuento'
 date: 2020-01-21 20:47:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qHd3ZWH-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qHd3ZWH-L._SL200_.jpg' ]

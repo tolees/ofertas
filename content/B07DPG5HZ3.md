@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Candle - The Power Of The Flame' al 43.081027009002995 % de descuento
+title: 'Candle - The Power Of The Flame al 43.081027009002995 % de descuento'
 date: 2019/11/09 09:24:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pj3B-PykL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pj3B-PykL._SL200_.jpg' ]

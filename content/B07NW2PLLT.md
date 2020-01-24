@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.87513894034827 % en 'Top Top Arose Chaqueta  Multicolor  Esta'
+title: 'Descuento del 62.87513894034827 % en Top Top Arose Chaqueta  Multicolor  Esta'
 date: 2019/10/25 20:29:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5116BnoLmvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5116BnoLmvL._SL200_.jpg' ]

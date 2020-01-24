@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aigostar 2000W Multifunctional Panini Pr' al 25.00446508305054 % de descuento
+title: 'Aigostar 2000W Multifunctional Panini Pr al 25.00446508305054 % de descuento'
 date: 2020-01-03 13:33:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u77SG4TxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u77SG4TxL._SL200_.jpg' ]

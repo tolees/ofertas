@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huawei Matebook X Pro - Ordenador portát' al 35.31489111241907 % de descuento
+title: 'Huawei Matebook X Pro - Ordenador portát al 35.31489111241907 % de descuento'
 date: 2019/10/24 06:14:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417yseh%2B73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417yseh%2B73L._SL200_.jpg' ]

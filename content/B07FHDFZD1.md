@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Axis SL  Zapatillas de Deporte Unis' al 36.487716105550504 % de descuento
+title: 'Puma Axis SL  Zapatillas de Deporte Unis al 36.487716105550504 % de descuento'
 date: 2019/11/05 19:32:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bbpRSGbqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bbpRSGbqL._SL200_.jpg' ]

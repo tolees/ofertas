@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tarent Skibrille mit Ultragroßes rahmenl' al 61.41215106732347 % de descuento
+title: 'Tarent Skibrille mit Ultragroßes rahmenl al 61.41215106732347 % de descuento'
 date: 2020-01-15 15:08:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y1dYyKCpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y1dYyKCpL._SL200_.jpg' ]

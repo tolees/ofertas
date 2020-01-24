@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trust Tytan 2.1 - Set de Altavoces de Or' al 37.50468808601074 % de descuento
+title: 'Trust Tytan 2.1 - Set de Altavoces de Or al 37.50468808601074 % de descuento'
 date: 2019/11/14 16:05:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gWQkFUUfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gWQkFUUfL._SL200_.jpg' ]

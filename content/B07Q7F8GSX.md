@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.272975208865535 % en 'HP Pavilion 14-ce2011ns - Ordenador port'
+title: 'Descuento del 27.272975208865535 % en HP Pavilion 14-ce2011ns - Ordenador port'
 date: 2019/10/29 23:06:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bFqUfA1gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bFqUfA1gL._SL200_.jpg' ]

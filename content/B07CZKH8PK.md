@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FOREO UFO mini  - Tratamiento de Mascari' al 40.0 % de descuento
+title: 'FOREO UFO mini  - Tratamiento de Mascari al 40.0 % de descuento'
 date: 2019/11/28 14:36:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W7mY-a4ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W7mY-a4ML._SL200_.jpg' ]

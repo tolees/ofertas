@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.108695652173914 % en 'Calvin Klein Lightly Lined Demi Sujetado'
+title: 'Descuento del 45.108695652173914 % en Calvin Klein Lightly Lined Demi Sujetado'
 date: 2019/11/23 08:06:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2B1kGPVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2B1kGPVGL._SL200_.jpg' ]

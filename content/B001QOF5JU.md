@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Levi s Original Fit Vaqueros ' al 31.166666666666664 % de descuento
+title: 'Levi s 501 Levi s Original Fit Vaqueros  al 31.166666666666664 % de descuento'
 date: 2019/11/07 11:08:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V3FzI0htL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V3FzI0htL._SL200_.jpg' ]

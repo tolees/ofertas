@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rointe  Radiador eléctrico bajo Consumo ' al 45.71292865963712 % de descuento
+title: 'Rointe  Radiador eléctrico bajo Consumo  al 45.71292865963712 % de descuento'
 date: 2019/11/07 14:13:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JlnNYDEyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JlnNYDEyL._SL200_.jpg' ]

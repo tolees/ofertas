@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panama Jack Salman  Sandalias con Punta ' al 65.83838383838383 % de descuento
+title: 'Panama Jack Salman  Sandalias con Punta  al 65.83838383838383 % de descuento'
 date: 2019/11/12 06:50:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31svR2xvQ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31svR2xvQ3L._SL200_.jpg' ]

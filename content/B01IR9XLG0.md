@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.8 % en 'Maclaren AM1Y031872 Union Jack Princess '
+title: 'Descuento del 36.8 % en Maclaren AM1Y031872 Union Jack Princess '
 date: 2019/11/03 21:00:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JxeQM3%2BcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JxeQM3%2BcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel  Camisa Larga Vivos - Blusa pa' al 68.24470745124187 % de descuento
+title: 'Cortefiel  Camisa Larga Vivos - Blusa pa al 68.24470745124187 % de descuento'
 date: 2019/11/02 05:06:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oih0kpfHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oih0kpfHL._SL200_.jpg' ]

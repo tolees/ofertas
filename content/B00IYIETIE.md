@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun CJ3000 WH - Exprimidor zumo de nar' al 36.14457831325301 % de descuento
+title: 'Braun CJ3000 WH - Exprimidor zumo de nar al 36.14457831325301 % de descuento'
 date: 2019/12/04 09:15:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416ZgHrcrUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416ZgHrcrUL._SL200_.jpg' ]

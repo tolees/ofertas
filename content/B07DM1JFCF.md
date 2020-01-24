@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bioworld Marvel Comics Deadpool Face Coi' al 44.99999999999999 % de descuento
+title: 'Bioworld Marvel Comics Deadpool Face Coi al 44.99999999999999 % de descuento'
 date: 2019/10/08 17:53:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51p%2Bv9D4g9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51p%2Bv9D4g9L._SL200_.jpg' ]

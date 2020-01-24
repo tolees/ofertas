@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.06666666666666 % en 'Sony WI-SP500B - Auriculares Deportivos '
+title: 'Descuento del 42.06666666666666 % en Sony WI-SP500B - Auriculares Deportivos '
 date: 2019/12/20 09:13:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WPnCKFRLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WPnCKFRLL._SL200_.jpg' ]

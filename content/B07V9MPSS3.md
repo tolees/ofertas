@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmzBarley Jessie Princesa Disfraz Vestid' al 61.310100032268465 % de descuento
+title: 'AmzBarley Jessie Princesa Disfraz Vestid al 61.310100032268465 % de descuento'
 date: 2020-01-22 10:39:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zp2wV6grL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zp2wV6grL._SL200_.jpg' ]

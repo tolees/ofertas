@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kölln Muesli de chocolate - 500 g' al 35.08474576271187 % de descuento
+title: 'Kölln Muesli de chocolate - 500 g al 35.08474576271187 % de descuento'
 date: 2019/11/05 15:42:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BH9HeLdVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BH9HeLdVL._SL200_.jpg' ]

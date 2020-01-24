@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kit de Blanqueamiento de Dientes  iFanze' al 80.39254170755643 % de descuento
+title: 'Kit de Blanqueamiento de Dientes  iFanze al 80.39254170755643 % de descuento'
 date: 2019/10/31 11:12:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51olsaQbHsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51olsaQbHsL._SL200_.jpg' ]

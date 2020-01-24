@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony ICF-P36 - Radio analógico portátil ' al 28.878787878787882 % de descuento
+title: 'Sony ICF-P36 - Radio analógico portátil  al 28.878787878787882 % de descuento'
 date: 2019/11/11 15:17:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UZMfFuLjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UZMfFuLjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DON ALGODON Shoulder Bag Palos  Menta  2' al 39.34644881627209 % de descuento
+title: 'DON ALGODON Shoulder Bag Palos  Menta  2 al 39.34644881627209 % de descuento'
 date: 2019/10/28 11:42:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-xC9lIayL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-xC9lIayL._SL200_.jpg' ]

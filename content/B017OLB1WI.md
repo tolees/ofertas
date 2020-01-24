@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schwarzkopf Professional BC Excellium Ta' al 52.70142180094787 % de descuento
+title: 'Schwarzkopf Professional BC Excellium Ta al 52.70142180094787 % de descuento'
 date: 2019/11/04 19:16:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GB-lLYJfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GB-lLYJfL._SL200_.jpg' ]

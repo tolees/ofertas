@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iiniim Maillot Ballet Niña Vestido de Da' al 63.191153238546605 % de descuento
+title: 'iiniim Maillot Ballet Niña Vestido de Da al 63.191153238546605 % de descuento'
 date: 2019/11/01 13:03:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aX3RKgIqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aX3RKgIqL._SL200_.jpg' ]

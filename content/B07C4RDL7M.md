@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ALLPOWERS Power Bank 20000mAh Batería Ex' al 52.43080198722498 % de descuento
+title: 'ALLPOWERS Power Bank 20000mAh Batería Ex al 52.43080198722498 % de descuento'
 date: 2019/11/01 16:17:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/11px10idyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/11px10idyoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.71794871794872 % en 'Chantelle Champs Elysees  Sujetador para'
+title: 'Descuento del 48.71794871794872 % en Chantelle Champs Elysees  Sujetador para'
 date: 2019/11/03 13:49:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L3oUKRIbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L3oUKRIbL._SL200_.jpg' ]

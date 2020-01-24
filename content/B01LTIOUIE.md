@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TASSIMO L Or Café Splendente - 5 paquete' al 28.296593186372743 % de descuento
+title: 'TASSIMO L Or Café Splendente - 5 paquete al 28.296593186372743 % de descuento'
 date: 2019/12/02 10:21:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vCRe7rArL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vCRe7rArL._SL200_.jpg' ]

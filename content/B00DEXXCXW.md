@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell 4350470 TC-RO 1155 E - Fresadora' al 38.670478913509655 % de descuento
+title: 'Einhell 4350470 TC-RO 1155 E - Fresadora al 38.670478913509655 % de descuento'
 date: 2019/11/26 16:21:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DYML1nyXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DYML1nyXL._SL200_.jpg' ]

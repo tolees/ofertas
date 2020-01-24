@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Hybrid Fuego  Zapatillas de Running' al 58.336460287679806 % de descuento
+title: 'PUMA Hybrid Fuego  Zapatillas de Running al 58.336460287679806 % de descuento'
 date: 2019/12/09 13:59:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JVNvsdwEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JVNvsdwEL._SL200_.jpg' ]

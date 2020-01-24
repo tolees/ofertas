@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.57142857142857 % en 'Clatronic TA 3565 Tostadora de Pan Peque'
+title: 'Descuento del 38.57142857142857 % en Clatronic TA 3565 Tostadora de Pan Peque'
 date: 2020-01-10 14:13:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413T3VlJNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413T3VlJNaL._SL200_.jpg' ]

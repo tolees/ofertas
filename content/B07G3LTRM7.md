@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 70832 Movie 2 Emmet s Builder Box B' al 36.09443777511003 % de descuento
+title: 'LEGO 70832 Movie 2 Emmet s Builder Box B al 36.09443777511003 % de descuento'
 date: 2019/11/26 20:38:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cfDrrBj6L._SL200_.jpg' ]

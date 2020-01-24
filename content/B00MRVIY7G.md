@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Big Boy Golden XXL Capsulas - 45 Tableta' al 49.013657056145675 % de descuento
+title: 'Big Boy Golden XXL Capsulas - 45 Tableta al 49.013657056145675 % de descuento'
 date: 2020-01-14 02:29:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WZbuAFglL._SL200_.jpg' ]

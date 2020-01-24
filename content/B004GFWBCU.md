@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.750500333555703 % en 'Funko Pop!- Pop Movies: Friday The 13th-'
+title: 'Descuento del 25.750500333555703 % en Funko Pop!- Pop Movies: Friday The 13th-'
 date: 2019/11/12 14:37:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sQMiXhRhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sQMiXhRhL._SL200_.jpg' ]

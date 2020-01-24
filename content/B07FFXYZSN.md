@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Strett Lace Up  Zapatillas pa' al 71.0569105691057 % de descuento
+title: 'G-STAR RAW Strett Lace Up  Zapatillas pa al 71.0569105691057 % de descuento'
 date: 2019/10/15 14:19:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316rP1HBe6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316rP1HBe6L._SL200_.jpg' ]

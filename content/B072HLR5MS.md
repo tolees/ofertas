@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CINTA ANTIDESLIZANTE - LUMINOSO FLUORESC' al 56.05757696921232 % de descuento
+title: 'CINTA ANTIDESLIZANTE - LUMINOSO FLUORESC al 56.05757696921232 % de descuento'
 date: 2020-01-24 10:15:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n938Sp6fL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n938Sp6fL._AC_._SL200_.jpg' ]

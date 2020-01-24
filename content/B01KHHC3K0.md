@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yamaha MusicCast R-N402D - Receptor esté' al 34.02922755741128 % de descuento
+title: 'Yamaha MusicCast R-N402D - Receptor esté al 34.02922755741128 % de descuento'
 date: 2019/12/16 00:30:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fv3hYH7NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fv3hYH7NL._SL200_.jpg' ]

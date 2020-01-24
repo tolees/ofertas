@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.16666666666666 % en 'Eastpak Delegate + Bolso bandolera  39 c'
+title: 'Descuento del 27.16666666666666 % en Eastpak Delegate + Bolso bandolera  39 c'
 date: 2019/11/09 21:06:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410p-pStOhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410p-pStOhL._SL200_.jpg' ]

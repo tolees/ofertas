@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Winfred A  Zapatos de Cordones Ox' al 49.984603541185535 % de descuento
+title: 'Geox U Winfred A  Zapatos de Cordones Ox al 49.984603541185535 % de descuento'
 date: 2019/11/07 14:48:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u6tLV8o9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u6tLV8o9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.440000000000005 % en 'Desigual Rectangle Foulard Flamingo Road'
+title: 'Descuento del 45.440000000000005 % en Desigual Rectangle Foulard Flamingo Road'
 date: 2019/11/08 17:55:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CtU4Yz7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CtU4Yz7mL._SL200_.jpg' ]

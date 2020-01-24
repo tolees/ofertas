@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.26357379556461 % en 'Dakine 2020W Mochila Tipo Casual 52 Cent'
+title: 'Descuento del 42.26357379556461 % en Dakine 2020W Mochila Tipo Casual 52 Cent'
 date: 2019/10/21 06:11:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qgtW%2B1XpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qgtW%2B1XpL._SL200_.jpg' ]

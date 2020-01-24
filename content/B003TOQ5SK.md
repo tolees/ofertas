@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trixie WC Cachorros  Plástico  49x41 cm' al 39.08396946564885 % de descuento
+title: 'Trixie WC Cachorros  Plástico  49x41 cm al 39.08396946564885 % de descuento'
 date: 2019/11/11 12:23:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WnFunE0XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WnFunE0XL._SL200_.jpg' ]

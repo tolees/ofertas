@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Deep Euphoria Agua de Perfu' al 52.01963534361851 % de descuento
+title: 'Calvin Klein Deep Euphoria Agua de Perfu al 52.01963534361851 % de descuento'
 date: 2020-01-01 11:04:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31baTKZ-xkL._SL200_.jpg' ]

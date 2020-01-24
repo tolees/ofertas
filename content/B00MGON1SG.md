@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Padded Pak R Rucksack  40 cm  24' al 60.02000000000001 % de descuento
+title: 'Eastpak Padded Pak R Rucksack  40 cm  24 al 60.02000000000001 % de descuento'
 date: 2019/12/08 07:38:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m0w3KRMmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m0w3KRMmL._SL200_.jpg' ]

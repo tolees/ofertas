@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 39324 POP Movies: Super Troopers-R' al 56.02209944751382 % de descuento
+title: 'Funko 39324 POP Movies: Super Troopers-R al 56.02209944751382 % de descuento'
 date: 2020-01-11 14:05:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415f2HKqGHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415f2HKqGHL._SL200_.jpg' ]

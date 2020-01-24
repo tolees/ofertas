@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Squamish Cis Chaqueta  Homb' al 53.33157894736842 % de descuento
+title: 'Helly Hansen Squamish Cis Chaqueta  Homb al 53.33157894736842 % de descuento'
 date: 2020-01-19 18:58:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mIkjzbzoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mIkjzbzoL._SL200_.jpg' ]

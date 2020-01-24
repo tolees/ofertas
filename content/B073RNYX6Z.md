@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.71938848406915 % en 'Helly Hansen Logo Hoodie Hombre con Capu'
+title: 'Descuento del 35.71938848406915 % en Helly Hansen Logo Hoodie Hombre con Capu'
 date: 2019/12/01 19:05:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DkLYBGmGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DkLYBGmGL._SL200_.jpg' ]

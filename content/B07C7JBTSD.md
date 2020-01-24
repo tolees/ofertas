@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01250312578145 % en 'Echo Input  Weiß  - Bringen Sie Alexa au'
+title: 'Descuento del 50.01250312578145 % en Echo Input  Weiß  - Bringen Sie Alexa au'
 date: 2019/10/11 22:36:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IRaP5qY5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IRaP5qY5L._SL200_.jpg' ]

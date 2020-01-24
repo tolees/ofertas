@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Jungle Moc  Mocasines para Hombr' al 60.0 % de descuento
+title: 'Merrell Jungle Moc  Mocasines para Hombr al 60.0 % de descuento'
 date: 2019/11/12 09:33:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ltRnKmX2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ltRnKmX2L._SL200_.jpg' ]

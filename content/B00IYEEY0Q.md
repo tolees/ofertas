@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.19510839355197 % en 'Einhell 4258237 TH-RH 900/1 Martillo per'
+title: 'Descuento del 51.19510839355197 % en Einhell 4258237 TH-RH 900/1 Martillo per'
 date: 2019/11/28 18:07:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mmAVD4pYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mmAVD4pYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Micro G Pursuit SE  Zapa' al 37.0 % de descuento
+title: 'Under Armour UA Micro G Pursuit SE  Zapa al 37.0 % de descuento'
 date: 2019/12/16 18:22:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A6iAHmwlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A6iAHmwlL._SL200_.jpg' ]

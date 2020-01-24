@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.01333333333333 % en 'Vans Ward Platform Canvas Zapatillas Muj'
+title: 'Descuento del 32.01333333333333 % en Vans Ward Platform Canvas Zapatillas Muj'
 date: 2019/11/15 12:48:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A3XvtNlOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A3XvtNlOL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant The Broadcloth Banker Reg BD Camisa' al 38.3375930658962 % de descuento
+title: 'Gant The Broadcloth Banker Reg BD Camisa al 38.3375930658962 % de descuento'
 date: 2019/12/13 00:44:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bRce-sAGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bRce-sAGL._SL200_.jpg' ]

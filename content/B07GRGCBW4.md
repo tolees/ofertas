@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.685857321652065 % en 'Urban Classics Hooded Puffer Jacket Chaq'
+title: 'Descuento del 38.685857321652065 % en Urban Classics Hooded Puffer Jacket Chaq'
 date: 2019/10/28 08:15:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FkUsDgWiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FkUsDgWiL._SL200_.jpg' ]

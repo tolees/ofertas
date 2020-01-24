@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.163265306122454 % en 'Keep Out Gaming R4 - Alfombrilla  450x37'
+title: 'Descuento del 63.163265306122454 % en Keep Out Gaming R4 - Alfombrilla  450x37'
 date: 2020-01-04 19:57:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UslIVji%2BL._SL200_.jpg' ]

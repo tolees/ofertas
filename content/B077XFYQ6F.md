@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SOUNDBOKS 2 Altavoz portátil Bluetooth  ' al 29.44640753828033 % de descuento
+title: 'SOUNDBOKS 2 Altavoz portátil Bluetooth   al 29.44640753828033 % de descuento'
 date: 2019/12/01 14:52:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WLgdMOKyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WLgdMOKyL._SL200_.jpg' ]

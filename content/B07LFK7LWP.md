@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.74285714285715 % en 'Levi s Graphic Sport Capucha  Rosa  Hsmk'
+title: 'Descuento del 52.74285714285715 % en Levi s Graphic Sport Capucha  Rosa  Hsmk'
 date: 2019/11/02 20:18:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mh78%2B8c7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mh78%2B8c7L._SL200_.jpg' ]

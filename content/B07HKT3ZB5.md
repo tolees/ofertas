@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.752174368647175 % en 'Ted Baker Ephie  Zapatillas para Mujer  '
+title: 'Descuento del 54.752174368647175 % en Ted Baker Ephie  Zapatillas para Mujer  '
 date: 2019/11/09 08:03:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KR2dpOQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KR2dpOQyL._SL200_.jpg' ]

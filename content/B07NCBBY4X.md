@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Stanley Vaqueros Straight  Ne' al 71.66852057842047 % de descuento
+title: 'Pepe Jeans Stanley Vaqueros Straight  Ne al 71.66852057842047 % de descuento'
 date: 2019/11/29 14:52:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z7wG2i87L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z7wG2i87L._SL200_.jpg' ]

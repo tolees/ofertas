@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NOX ML10 Pro P.3' al 62.74014421811673 % de descuento
+title: 'NOX ML10 Pro P.3 al 62.74014421811673 % de descuento'
 date: 2019/11/13 16:57:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TBsRKHGLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TBsRKHGLL._SL200_.jpg' ]

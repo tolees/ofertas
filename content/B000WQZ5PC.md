@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yankee Candle große Duftkerze im Glas  L' al 28.372681281618895 % de descuento
+title: 'Yankee Candle große Duftkerze im Glas  L al 28.372681281618895 % de descuento'
 date: 2020-01-24 04:47:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/417-yGKaX6L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417-yGKaX6L._AC_._SL200_.jpg' ]

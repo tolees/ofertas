@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.62907268170427 % en 'WEDO 78909 - Cúter  9 mm   color azul y '
+title: 'Descuento del 51.62907268170427 % en WEDO 78909 - Cúter  9 mm   color azul y '
 date: 2019/12/31 10:34:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31paVf2mVeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31paVf2mVeL._SL200_.jpg' ]

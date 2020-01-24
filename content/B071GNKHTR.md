@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.183673469387756 % en 'find. 59179 vaqueros mujer  Azul  Mid Bl'
+title: 'Descuento del 59.183673469387756 % en find. 59179 vaqueros mujer  Azul  Mid Bl'
 date: 2019/12/28 09:09:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419h8SyVp6L._SL200_.jpg' ]

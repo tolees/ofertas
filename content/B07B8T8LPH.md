@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Batidora de Vaso  Decen Mini Batidora pa' al 42.00840168033607 % de descuento
+title: 'Batidora de Vaso  Decen Mini Batidora pa al 42.00840168033607 % de descuento'
 date: 2019/11/15 16:15:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515RVZvTpvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515RVZvTpvL._SL200_.jpg' ]

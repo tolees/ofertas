@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timex T2H281 - Reloj análogico de cuarzo' al 34.851851851851855 % de descuento
+title: 'Timex T2H281 - Reloj análogico de cuarzo al 34.851851851851855 % de descuento'
 date: 2019/12/20 22:47:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FXXt28wpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FXXt28wpL._SL200_.jpg' ]

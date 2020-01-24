@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.60632579072384 % en 'JACK & JONES Jfwstoke Nubuck  Botas Clas'
+title: 'Descuento del 50.60632579072384 % en JACK & JONES Jfwstoke Nubuck  Botas Clas'
 date: 2020-01-02 23:04:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kw1Ed8koL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kw1Ed8koL._SL200_.jpg' ]

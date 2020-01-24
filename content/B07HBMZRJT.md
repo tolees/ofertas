@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hori - Funda Rígida Pokémon Let s Go  Ni' al 25.212606303151574 % de descuento
+title: 'Hori - Funda Rígida Pokémon Let s Go  Ni al 25.212606303151574 % de descuento'
 date: 2020-01-21 07:23:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lh8%2BqcZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lh8%2BqcZgL._SL200_.jpg' ]

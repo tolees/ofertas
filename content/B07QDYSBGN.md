@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.83989326217478 % en 'JACK & JONES Jornew Landers tee SS Crew '
+title: 'Descuento del 59.83989326217478 % en JACK & JONES Jornew Landers tee SS Crew '
 date: 2019/11/13 02:41:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nZBk9IUFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nZBk9IUFL._SL200_.jpg' ]

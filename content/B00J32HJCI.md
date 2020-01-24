@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Módulo de Memoria Dell 8GB PC3-12800 160' al 29.279763504434285 % de descuento
+title: 'Módulo de Memoria Dell 8GB PC3-12800 160 al 29.279763504434285 % de descuento'
 date: 2019/12/02 12:06:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q5c2kMikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q5c2kMikL._SL200_.jpg' ]

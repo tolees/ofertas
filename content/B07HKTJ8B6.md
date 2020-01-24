@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.85897649608269 % en 'Under Armour Spawn Mid Zapatos de Balonc'
+title: 'Descuento del 53.85897649608269 % en Under Armour Spawn Mid Zapatos de Balonc'
 date: 2019/11/05 17:54:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sC9UuIWzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sC9UuIWzL._SL200_.jpg' ]

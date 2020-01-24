@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT Herren O1. The Panel Down Vest Outd' al 49.99749987499376 % de descuento
+title: 'GANT Herren O1. The Panel Down Vest Outd al 49.99749987499376 % de descuento'
 date: 2020-01-03 11:54:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg' ]

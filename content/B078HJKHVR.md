@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY Braguita Estilo Culotte Muj' al 62.63345195729537 % de descuento
+title: 'IRIS & LILLY Braguita Estilo Culotte Muj al 62.63345195729537 % de descuento'
 date: 2020-01-15 21:11:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s2fQKLC3L._SL200_.jpg' ]

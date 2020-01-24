@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Colorblock Windrunner Chaqueta  R' al 50.55555555555556 % de descuento
+title: 'Levi s Colorblock Windrunner Chaqueta  R al 50.55555555555556 % de descuento'
 date: 2019/10/24 14:33:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oihmyeSIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oihmyeSIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Bikini Culotte  Negro  Blac' al 34.6551724137931 % de descuento
+title: 'Calvin Klein Bikini Culotte  Negro  Blac al 34.6551724137931 % de descuento'
 date: 2019/11/11 12:01:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PO-109DpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PO-109DpL._SL200_.jpg' ]

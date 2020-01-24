@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.98529411764706 % en 'Jako Camiseta de LA Manga Sportgrün/Weiß'
+title: 'Descuento del 56.98529411764706 % en Jako Camiseta de LA Manga Sportgrün/Weiß'
 date: 2019/12/10 15:43:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eTS6wn-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eTS6wn-IL._SL200_.jpg' ]

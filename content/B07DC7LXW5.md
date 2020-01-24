@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.70435217608805 % en 'Puma Cali-0 Summer  Zapatillas Unisex Ad'
+title: 'Descuento del 68.70435217608805 % en Puma Cali-0 Summer  Zapatillas Unisex Ad'
 date: 2019/11/04 05:43:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416EJgAnSNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416EJgAnSNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.457142857142856 % en 'Under Armour UA Raid 8 - Pantalón Corto '
+title: 'Descuento del 60.457142857142856 % en Under Armour UA Raid 8 - Pantalón Corto '
 date: 2019/11/06 11:09:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ioJmBzQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ioJmBzQ5L._SL200_.jpg' ]

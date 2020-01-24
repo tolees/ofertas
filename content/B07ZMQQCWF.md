@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DLOPK Cinta de doble cara Lavable multif' al 51.9074421513446 % de descuento
+title: 'DLOPK Cinta de doble cara Lavable multif al 51.9074421513446 % de descuento'
 date: 2020-01-16 17:16:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EAz8Ica4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EAz8Ica4L._SL200_.jpg' ]

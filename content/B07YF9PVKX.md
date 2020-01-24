@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.072002571520414 % en 'Mc Haus MÄS Beige Sofá biplaza  Madera N'
+title: 'Descuento del 26.072002571520414 % en Mc Haus MÄS Beige Sofá biplaza  Madera N'
 date: 2019/11/25 10:19:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zxY52dC5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zxY52dC5L._SL200_.jpg' ]

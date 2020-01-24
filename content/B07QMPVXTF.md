@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GACHI Powerbank  15000mAh Externer Akku ' al 60.62443164595332 % de descuento
+title: 'GACHI Powerbank  15000mAh Externer Akku  al 60.62443164595332 % de descuento'
 date: 2019/12/17 11:16:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HX-%2B-jVaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HX-%2B-jVaL._SL200_.jpg' ]

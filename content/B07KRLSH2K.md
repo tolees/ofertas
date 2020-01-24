@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance - 574v2  Zapatillas Mujer  R' al 28.21111111111111 % de descuento
+title: 'New Balance - 574v2  Zapatillas Mujer  R al 28.21111111111111 % de descuento'
 date: 2020-01-04 18:04:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KBgkFJ3FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KBgkFJ3FL._SL200_.jpg' ]

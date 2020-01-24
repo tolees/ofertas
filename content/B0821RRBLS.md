@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Icons Corner Silla Polipropileno Blanca' al 68.00480128034143 % de descuento
+title: 'Icons Corner Silla Polipropileno Blanca al 68.00480128034143 % de descuento'
 date: 2020-01-15 08:55:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/215Qvy48rLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/215Qvy48rLL._SL200_.jpg' ]

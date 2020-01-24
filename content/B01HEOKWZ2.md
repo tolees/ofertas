@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canterbury Thermoreg Base Layer Top de M' al 45.68627450980392 % de descuento
+title: 'Canterbury Thermoreg Base Layer Top de M al 45.68627450980392 % de descuento'
 date: 2019/11/06 02:08:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41faK588bCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41faK588bCL._SL200_.jpg' ]

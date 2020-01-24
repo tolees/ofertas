@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lost Kitties- Pack de Gatitos  Hasbro E4' al 39.99999999999999 % de descuento
+title: 'Lost Kitties- Pack de Gatitos  Hasbro E4 al 39.99999999999999 % de descuento'
 date: 2019/12/12 15:40:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NfG-lftuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NfG-lftuL._SL200_.jpg' ]

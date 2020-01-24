@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'DXX Technik Bausteine Auto Off-Road  109'
+title: 'Descuento del 50.0 % en DXX Technik Bausteine Auto Off-Road  109'
 date: 2020-01-24 01:56:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D8EBlOEsL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D8EBlOEsL._AC_._SL200_.jpg' ]

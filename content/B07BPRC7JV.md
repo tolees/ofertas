@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.45255474452554 % en 'Homyl 1 Par Sonido de Sistema de Audio E'
+title: 'Descuento del 44.45255474452554 % en Homyl 1 Par Sonido de Sistema de Audio E'
 date: 2020-01-08 15:01:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UJADXIVyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UJADXIVyL._SL200_.jpg' ]

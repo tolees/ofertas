@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TomTom GO 520 - Navegador 5 pulgadas  ll' al 25.266362252663622 % de descuento
+title: 'TomTom GO 520 - Navegador 5 pulgadas  ll al 25.266362252663622 % de descuento'
 date: 2020-01-21 15:25:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MkLc2IrKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MkLc2IrKL._SL200_.jpg' ]

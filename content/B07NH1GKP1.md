@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.89915319476521 % en 'Alpinestars Ride 2.0 Fleece Sudadera  Ro'
+title: 'Descuento del 48.89915319476521 % en Alpinestars Ride 2.0 Fleece Sudadera  Ro'
 date: 2019/11/15 17:36:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414CUzLRi%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414CUzLRi%2BL._SL200_.jpg' ]

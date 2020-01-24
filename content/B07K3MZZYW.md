@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Lapis Camisa  Negro  Black 001   X-' al 80.80044469149527 % de descuento
+title: 'BOSS Lapis Camisa  Negro  Black 001   X- al 80.80044469149527 % de descuento'
 date: 2019/10/20 09:41:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pLUbzTAoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pLUbzTAoL._SL200_.jpg' ]

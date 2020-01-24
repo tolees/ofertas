@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kit de cuidado profesional para barba y ' al 29.737766964044344 % de descuento
+title: 'Kit de cuidado profesional para barba y  al 29.737766964044344 % de descuento'
 date: 2020-01-23 17:05:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413PmSvl06L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413PmSvl06L._SL200_.jpg' ]

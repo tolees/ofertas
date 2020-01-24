@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.42857142857143 % en 'Asics Gel-Pulse 10  Zapatillas de Runnin'
+title: 'Descuento del 46.42857142857143 % en Asics Gel-Pulse 10  Zapatillas de Runnin'
 date: 2019/10/25 00:24:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yPtoqqmqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yPtoqqmqL._SL200_.jpg' ]

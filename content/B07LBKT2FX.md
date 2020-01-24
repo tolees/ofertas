@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.87859824780977 % en 'Tommy Hilfiger Medium Drawstring Pantalo'
+title: 'Descuento del 62.87859824780977 % en Tommy Hilfiger Medium Drawstring Pantalo'
 date: 2019/10/22 23:16:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413sb-hLfEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413sb-hLfEL._SL200_.jpg' ]

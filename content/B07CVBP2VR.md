@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA W Charged Rogue  Zapatil' al 55.06249999999999 % de descuento
+title: 'Under Armour UA W Charged Rogue  Zapatil al 55.06249999999999 % de descuento'
 date: 2020-01-14 20:05:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419YEPl%2BSbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419YEPl%2BSbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Sonicare HX6231/08 - Cepillo de ' al 49.98999799959992 % de descuento
+title: 'Philips Sonicare HX6231/08 - Cepillo de  al 49.98999799959992 % de descuento'
 date: 2019/11/23 16:17:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JBTcZd9mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JBTcZd9mL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Classic Slip-On - Mocasines Unisex ' al 40.0 % de descuento
+title: 'Vans Classic Slip-On - Mocasines Unisex  al 40.0 % de descuento'
 date: 2019/11/04 00:25:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IQT%2Bej9vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IQT%2Bej9vL._SL200_.jpg' ]

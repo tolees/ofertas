@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scitec Nutrition 100% Whey Isolate Suple' al 34.733441033925686 % de descuento
+title: 'Scitec Nutrition 100% Whey Isolate Suple al 34.733441033925686 % de descuento'
 date: 2019/12/22 10:06:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mlGJsaU4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mlGJsaU4L._SL200_.jpg' ]

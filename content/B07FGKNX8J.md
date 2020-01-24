@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.0 % en 'find. Single Buckle Monk Mocasines  Negr'
+title: 'Descuento del 35.0 % en find. Single Buckle Monk Mocasines  Negr'
 date: 2019/12/06 17:46:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BAcAh2scL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BAcAh2scL._SL200_.jpg' ]

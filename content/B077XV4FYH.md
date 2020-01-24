@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Rival Fleece FZ - Sudadera ' al 40.53333333333333 % de descuento
+title: 'Under Armour Rival Fleece FZ - Sudadera  al 40.53333333333333 % de descuento'
 date: 2019/11/01 19:39:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OpZBn-qvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OpZBn-qvL._SL200_.jpg' ]

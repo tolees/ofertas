@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.53984132459469 % en 'Maletin Médico Juguete Doctora Juguetes '
+title: 'Descuento del 65.53984132459469 % en Maletin Médico Juguete Doctora Juguetes '
 date: 2019/12/06 10:17:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n0gdb5RBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n0gdb5RBL._SL200_.jpg' ]

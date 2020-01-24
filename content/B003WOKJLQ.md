@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.10472924703528 % en 'Remington Haarschneidemaschine HC5810  s'
+title: 'Descuento del 33.10472924703528 % en Remington Haarschneidemaschine HC5810  s'
 date: 2019/12/21 16:28:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gE5gZYViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gE5gZYViL._SL200_.jpg' ]

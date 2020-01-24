@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pantalones Cortos De Verano para Hombre ' al 48.07692307692307 % de descuento
+title: 'Pantalones Cortos De Verano para Hombre  al 48.07692307692307 % de descuento'
 date: 2019/10/09 20:09:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K9a5YCREL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K9a5YCREL._SL200_.jpg' ]

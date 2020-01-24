@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'De Longhi Dolce Gusto Mini Me EDG305.BG ' al 34.34343434343434 % de descuento
+title: 'De Longhi Dolce Gusto Mini Me EDG305.BG  al 34.34343434343434 % de descuento'
 date: 2019/11/24 15:32:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h6yDcpkmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h6yDcpkmL._SL200_.jpg' ]

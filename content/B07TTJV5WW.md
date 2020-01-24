@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler ICONS Vaqueros Slim  Azul  3 Ye' al 50.02632964718272 % de descuento
+title: 'Wrangler ICONS Vaqueros Slim  Azul  3 Ye al 50.02632964718272 % de descuento'
 date: 2020-01-13 10:56:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MrTPZOZcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MrTPZOZcL._SL200_.jpg' ]

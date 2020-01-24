@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung  CLT-C4072S/ELS Tóner Láser Cian' al 34.41112152452358 % de descuento
+title: 'Samsung  CLT-C4072S/ELS Tóner Láser Cian al 34.41112152452358 % de descuento'
 date: 2020-01-17 15:11:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mcRgnyPxL._SL200_.jpg' ]

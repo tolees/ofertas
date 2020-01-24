@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gamogo Auriculares inalámbricos Verdader' al 46.461758398856325 % de descuento
+title: 'Gamogo Auriculares inalámbricos Verdader al 46.461758398856325 % de descuento'
 date: 2019/12/15 10:26:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s3mQP630L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s3mQP630L._SL200_.jpg' ]

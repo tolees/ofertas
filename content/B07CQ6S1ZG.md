@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Daren Vaqueros Slim  Azul  Light Daz' al 60.05002501250625 % de descuento
+title: 'Lee Daren Vaqueros Slim  Azul  Light Daz al 60.05002501250625 % de descuento'
 date: 2019/11/25 14:21:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fYd0MrVSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fYd0MrVSL._SL200_.jpg' ]

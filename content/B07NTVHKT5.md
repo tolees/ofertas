@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.200706297822244 % en 'Monocular Telescope 12x50  Ignatv High P'
+title: 'Descuento del 41.200706297822244 % en Monocular Telescope 12x50  Ignatv High P'
 date: 2019/12/09 21:00:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V4PN1Sf6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V4PN1Sf6L._SL200_.jpg' ]

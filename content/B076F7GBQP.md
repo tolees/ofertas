@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.29681978798586 % en 'RED WAGON Camiseta de Manga Corta con Di'
+title: 'Descuento del 52.29681978798586 % en RED WAGON Camiseta de Manga Corta con Di'
 date: 2020-01-14 12:12:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ujT8uyMQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ujT8uyMQL._SL200_.jpg' ]

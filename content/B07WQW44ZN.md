@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ieGeek Autoradio Bluetooth 7-Color Butto' al 28.90940565493364 % de descuento
+title: 'ieGeek Autoradio Bluetooth 7-Color Butto al 28.90940565493364 % de descuento'
 date: 2019/12/23 18:44:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416wujT50KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416wujT50KL._SL200_.jpg' ]

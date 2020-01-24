@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Ashcroft Seam  Zapatos de Cordone' al 63.17954419121734 % de descuento
+title: 'Clarks Ashcroft Seam  Zapatos de Cordone al 63.17954419121734 % de descuento'
 date: 2019/11/03 05:47:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JkWzLcOcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JkWzLcOcL._SL200_.jpg' ]

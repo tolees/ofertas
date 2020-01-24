@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Chaqueta  Mujer  Az' al 57.745774577457745 % de descuento
+title: 'Columbia Powder Lite Chaqueta  Mujer  Az al 57.745774577457745 % de descuento'
 date: 2019/12/11 22:05:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41whPXDISkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41whPXDISkL._SL200_.jpg' ]

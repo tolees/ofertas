@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Portal Knights' al 51.21951219512195 % de descuento
+title: 'Portal Knights al 51.21951219512195 % de descuento'
 date: 2019/11/05 12:16:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61fHUcRlD1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61fHUcRlD1L._SL200_.jpg' ]

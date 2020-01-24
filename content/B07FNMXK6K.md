@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41159 Cindarella s Kutsche Kindersp' al 25.012506253126553 % de descuento
+title: 'LEGO 41159 Cindarella s Kutsche Kindersp al 25.012506253126553 % de descuento'
 date: 2019/11/21 09:27:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BbYePv80L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BbYePv80L._SL200_.jpg' ]

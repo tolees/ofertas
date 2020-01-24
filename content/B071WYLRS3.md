@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Botas de Cordones para Mujer  Rojo' al 60.0 % de descuento
+title: 'find. Botas de Cordones para Mujer  Rojo al 60.0 % de descuento'
 date: 2019/12/23 13:34:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CBkyw62pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CBkyw62pL._SL200_.jpg' ]

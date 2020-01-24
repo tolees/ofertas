@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.2 % en 'Pepe Jeans New Virginia  Camiseta Para M'
+title: 'Descuento del 32.2 % en Pepe Jeans New Virginia  Camiseta Para M'
 date: 2019/11/07 10:11:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sGFddHM8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sGFddHM8L._SL200_.jpg' ]

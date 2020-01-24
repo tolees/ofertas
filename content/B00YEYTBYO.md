@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.94182363727289 % en 'Columbia Midweight Stretch Half Zip Cami'
+title: 'Descuento del 50.94182363727289 % en Columbia Midweight Stretch Half Zip Cami'
 date: 2019/11/17 03:00:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ikLosKExL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ikLosKExL._SL200_.jpg' ]

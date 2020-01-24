@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko POP! 14312 Pocket POP Keychain: Ov' al 40.05847953216375 % de descuento
+title: 'Funko POP! 14312 Pocket POP Keychain: Ov al 40.05847953216375 % de descuento'
 date: 2019/12/10 21:36:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kW7XpviyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kW7XpviyL._SL200_.jpg' ]

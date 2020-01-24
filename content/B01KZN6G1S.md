@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.003750312526044 % en 'Yuntab BL20  proyector multimedia portát'
+title: 'Descuento del 45.003750312526044 % en Yuntab BL20  proyector multimedia portát'
 date: 2020-01-20 13:20:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y1NuH7WIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y1NuH7WIL._SL200_.jpg' ]

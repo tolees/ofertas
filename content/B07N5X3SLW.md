@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.94984326018809 % en 'Funko- Pop Vinilo: Muhammad Ali Sports F'
+title: 'Descuento del 43.94984326018809 % en Funko- Pop Vinilo: Muhammad Ali Sports F'
 date: 2019/12/15 15:53:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-A3DCZ%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-A3DCZ%2BSL._SL200_.jpg' ]

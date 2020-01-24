@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Royal Glide LX  Zapatillas de Dep' al 54.66893039049236 % de descuento
+title: 'Reebok Royal Glide LX  Zapatillas de Dep al 54.66893039049236 % de descuento'
 date: 2019/10/11 11:40:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Da7WEJB2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Da7WEJB2L._SL200_.jpg' ]

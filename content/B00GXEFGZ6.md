@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lemaitre 91538 tamaño 38 XL Ancho S3 And' al 83.57731958762886 % de descuento
+title: 'Lemaitre 91538 tamaño 38 XL Ancho S3 And al 83.57731958762886 % de descuento'
 date: 2020-01-21 15:36:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510SLmye3BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510SLmye3BL._SL200_.jpg' ]

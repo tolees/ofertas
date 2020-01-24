@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.421052631578945 % en 'My Other Me Me-204482 Set de lápidas  Ta'
+title: 'Descuento del 26.421052631578945 % en My Other Me Me-204482 Set de lápidas  Ta'
 date: 2019/10/20 09:53:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Em3AlEVOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Em3AlEVOL._SL200_.jpg' ]

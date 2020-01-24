@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Montse Interiors  S.L. Cuadrante o Cojín' al 43.88714733542321 % de descuento
+title: 'Montse Interiors  S.L. Cuadrante o Cojín al 43.88714733542321 % de descuento'
 date: 2019/12/17 07:48:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wgl3NZKyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Wgl3NZKyL._SL200_.jpg' ]

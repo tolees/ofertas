@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.43734819259894 % en 'Dead Or Alive 6 PS4'
+title: 'Descuento del 61.43734819259894 % en Dead Or Alive 6 PS4'
 date: 2019/11/12 18:11:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412E1K2kXnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412E1K2kXnL._SL200_.jpg' ]

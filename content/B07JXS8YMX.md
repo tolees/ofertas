@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SOLEDI Mantel de Borlas Empalmado  Mante' al 37.94411866160745 % de descuento
+title: 'SOLEDI Mantel de Borlas Empalmado  Mante al 37.94411866160745 % de descuento'
 date: 2019/11/07 13:06:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518J2pQHUvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518J2pQHUvL._SL200_.jpg' ]

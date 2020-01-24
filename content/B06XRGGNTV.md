@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Staedtler Triplus Color 323 M30. Rotulad' al 40.116618075801746 % de descuento
+title: 'Staedtler Triplus Color 323 M30. Rotulad al 40.116618075801746 % de descuento'
 date: 2019/10/25 03:07:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51M%2BeVsC8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51M%2BeVsC8GL._SL200_.jpg' ]

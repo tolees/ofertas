@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Essential Banded Tk Graphic' al 71.725 % de descuento
+title: 'Under Armour Essential Banded Tk Graphic al 71.725 % de descuento'
 date: 2019/11/06 21:34:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HVCGiSVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HVCGiSVcL._SL200_.jpg' ]

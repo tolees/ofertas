@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01000200040009 % en 'Columbia Cascade Ridge Chaqueta Softshel'
+title: 'Descuento del 50.01000200040009 % en Columbia Cascade Ridge Chaqueta Softshel'
 date: 2019/11/29 08:51:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hWPhSmE%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hWPhSmE%2BL._SL200_.jpg' ]

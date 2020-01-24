@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polti Forzaspira Lecologico Aqua Allergy' al 40.16064257028113 % de descuento
+title: 'Polti Forzaspira Lecologico Aqua Allergy al 40.16064257028113 % de descuento'
 date: 2020-01-04 08:51:52
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

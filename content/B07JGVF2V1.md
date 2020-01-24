@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bébé Confort Laika 2  Nomad Grey  - Coch' al 34.618729096989966 % de descuento
+title: 'Bébé Confort Laika 2  Nomad Grey  - Coch al 34.618729096989966 % de descuento'
 date: 2019/11/27 10:04:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QhXNw0UQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QhXNw0UQL._SL200_.jpg' ]

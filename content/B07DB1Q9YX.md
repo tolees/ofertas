@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Future 2.4 FG/AG  Zapatillas de Fút' al 44.98999818148754 % de descuento
+title: 'Puma Future 2.4 FG/AG  Zapatillas de Fút al 44.98999818148754 % de descuento'
 date: 2019/10/29 17:22:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414PbYYjVHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414PbYYjVHL._SL200_.jpg' ]

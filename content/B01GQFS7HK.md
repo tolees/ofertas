@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.97996357012751 % en 'Marantz PM6006/N1SG Verstärker  2x 60 Wa'
+title: 'Descuento del 38.97996357012751 % en Marantz PM6006/N1SG Verstärker  2x 60 Wa'
 date: 2019/12/03 14:35:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WOCQx5RZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WOCQx5RZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.21348314606742 % en 'MOSOTECH Calcetines Termicos de Mujer  5'
+title: 'Descuento del 69.21348314606742 % en MOSOTECH Calcetines Termicos de Mujer  5'
 date: 2020-01-14 14:07:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z9lyBv35L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z9lyBv35L._SL200_.jpg' ]

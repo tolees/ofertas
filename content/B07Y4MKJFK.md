@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'coskefy Guantes Esquí Impermeable para H' al 26.675558519506502 % de descuento
+title: 'coskefy Guantes Esquí Impermeable para H al 26.675558519506502 % de descuento'
 date: 2019/11/25 00:35:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YXVhRn3lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YXVhRn3lL._SL200_.jpg' ]

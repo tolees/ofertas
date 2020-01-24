@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garmin fēnix 5S Smartwatch Gps-multispor' al 50.01250020833681 % de descuento
+title: 'Garmin fēnix 5S Smartwatch Gps-multispor al 50.01250020833681 % de descuento'
 date: 2019/12/29 10:57:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41643zq87xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41643zq87xL._SL200_.jpg' ]

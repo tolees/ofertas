@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.47633705271257 % en 'PINPOXE Crema anticelulítica  Crema redu'
+title: 'Descuento del 38.47633705271257 % en PINPOXE Crema anticelulítica  Crema redu'
 date: 2019/11/25 23:42:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f7Xheo3HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f7Xheo3HL._SL200_.jpg' ]

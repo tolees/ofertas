@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.82555398396983 % en 'Compo 1418502011 Abono Azul Universal 10'
+title: 'Descuento del 69.82555398396983 % en Compo 1418502011 Abono Azul Universal 10'
 date: 2019/10/30 15:18:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xvr7VkJ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xvr7VkJ3L._SL200_.jpg' ]

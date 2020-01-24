@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 118cc1b003 Pantalones  Azu' al 74.94582430405067 % de descuento
+title: 'edc by Esprit 118cc1b003 Pantalones  Azu al 74.94582430405067 % de descuento'
 date: 2020-01-07 11:11:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314LB%2BQMbvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314LB%2BQMbvL._SL200_.jpg' ]

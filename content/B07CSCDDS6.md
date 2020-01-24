@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.72215269086359 % en 'PUMA Tenaz Jr  Zapatos de Futsal Unisex '
+title: 'Descuento del 37.72215269086359 % en PUMA Tenaz Jr  Zapatos de Futsal Unisex '
 date: 2019/11/09 17:41:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EqU%2BLVsHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EqU%2BLVsHL._SL200_.jpg' ]

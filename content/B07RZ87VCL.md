@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferexer Botella de Agua de Cristal Boros' al 26.72451193058568 % de descuento
+title: 'Ferexer Botella de Agua de Cristal Boros al 26.72451193058568 % de descuento'
 date: 2019/11/24 01:35:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318qPVZtzFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318qPVZtzFL._SL200_.jpg' ]

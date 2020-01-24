@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Avent SCF256/00 - Calientabibero' al 33.56798814375694 % de descuento
+title: 'Philips Avent SCF256/00 - Calientabibero al 33.56798814375694 % de descuento'
 date: 2019/10/31 15:40:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v8WjpjKaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v8WjpjKaL._SL200_.jpg' ]

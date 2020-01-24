@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.07266843189174 % en 'fitmore Funda Impermeable Samsung Galaxy'
+title: 'Descuento del 47.07266843189174 % en fitmore Funda Impermeable Samsung Galaxy'
 date: 2019/10/10 13:31:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w380wo5xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w380wo5xL._SL200_.jpg' ]

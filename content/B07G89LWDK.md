@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.349053233297603 % en 'Polar Vantage M -Reloj con GPS y Frecuen'
+title: 'Descuento del 27.349053233297603 % en Polar Vantage M -Reloj con GPS y Frecuen'
 date: 2019/10/30 19:39:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v1nitxwvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v1nitxwvL._SL200_.jpg' ]

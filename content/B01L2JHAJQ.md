@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste 2000959 Lacoste.12.12 Lady - Rel' al 56.00000000000001 % de descuento
+title: 'Lacoste 2000959 Lacoste.12.12 Lady - Rel al 56.00000000000001 % de descuento'
 date: 2019/12/12 06:50:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jtz5DDODL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Flagship Fleece Sudadera  Hombr' al 50.23574796399486 % de descuento
+title: 'RIP CURL Flagship Fleece Sudadera  Hombr al 50.23574796399486 % de descuento'
 date: 2019/11/07 15:24:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m1X-TfEkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m1X-TfEkL._SL200_.jpg' ]

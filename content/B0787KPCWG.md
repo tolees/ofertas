@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brother DCPL2510D - Impresora multifunci' al 30.409314951067934 % de descuento
+title: 'Brother DCPL2510D - Impresora multifunci al 30.409314951067934 % de descuento'
 date: 2019/12/28 15:27:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fmONGfIeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fmONGfIeL._SL200_.jpg' ]

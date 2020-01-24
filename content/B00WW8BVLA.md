@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.50115473441108 % en 'BaByliss Curl Secret Ionic C1050E - Riza'
+title: 'Descuento del 51.50115473441108 % en BaByliss Curl Secret Ionic C1050E - Riza'
 date: 2019/11/09 06:08:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rc6Lg-tfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rc6Lg-tfL._SL200_.jpg' ]

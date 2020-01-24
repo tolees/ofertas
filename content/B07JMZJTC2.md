@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.48914858096828 % en 'DAM. DMX187BKCorrea Metálica Compatible '
+title: 'Descuento del 83.48914858096828 % en DAM. DMX187BKCorrea Metálica Compatible '
 date: 2019/11/11 13:21:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518MDJz%2BySL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518MDJz%2BySL._SL200_.jpg' ]

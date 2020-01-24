@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Unisex Adulto Axis Zapatillas  Azul' al 54.24169296454428 % de descuento
+title: 'Puma Unisex Adulto Axis Zapatillas  Azul al 54.24169296454428 % de descuento'
 date: 2020-01-17 06:46:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GVh3hzzGL._SL200_.jpg' ]

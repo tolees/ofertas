@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guirnalda luces pilas【2 * 10M】  OxaOxe 2' al 61.562139284340134 % de descuento
+title: 'Guirnalda luces pilas【2 * 10M】  OxaOxe 2 al 61.562139284340134 % de descuento'
 date: 2020-01-16 21:31:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KH6cC0xkL._SL200_.jpg' ]

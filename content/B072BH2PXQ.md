@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.42857142857143 % en 'G-STAR RAW Base R T S/s 2-Pack Camiseta '
+title: 'Descuento del 34.42857142857143 % en G-STAR RAW Base R T S/s 2-Pack Camiseta '
 date: 2019/10/24 20:45:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LcpTTy5LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LcpTTy5LL._SL200_.jpg' ]

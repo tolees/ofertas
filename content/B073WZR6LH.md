@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Mdr 40444  vestidos mujer Mujer  R' al 60.0 % de descuento
+title: 'find. Mdr 40444  vestidos mujer Mujer  R al 60.0 % de descuento'
 date: 2020-01-11 19:14:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kT3oPGKtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kT3oPGKtL._SL200_.jpg' ]

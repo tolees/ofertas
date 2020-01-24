@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Happy A  Zapatillas para Mujer  A' al 47.16981132075472 % de descuento
+title: 'Geox D Happy A  Zapatillas para Mujer  A al 47.16981132075472 % de descuento'
 date: 2019/11/29 10:27:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51spoCG7x%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51spoCG7x%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Police Reloj Cronógrafo para Hombre de C' al 40.91428571428571 % de descuento
+title: 'Police Reloj Cronógrafo para Hombre de C al 40.91428571428571 % de descuento'
 date: 2019/10/23 23:01:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MCqRtL5YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MCqRtL5YL._SL200_.jpg' ]

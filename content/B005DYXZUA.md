@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clicktronic Casual cable HDMITM de alta ' al 29.890756302521005 % de descuento
+title: 'Clicktronic Casual cable HDMITM de alta  al 29.890756302521005 % de descuento'
 date: 2019/10/25 16:18:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316XgvNwo9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316XgvNwo9L._SL200_.jpg' ]

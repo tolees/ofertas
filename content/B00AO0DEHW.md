@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alpino DP000139 - Caja de 6 botes de pas' al 26.84210526315789 % de descuento
+title: 'Alpino DP000139 - Caja de 6 botes de pas al 26.84210526315789 % de descuento'
 date: 2019/11/20 09:32:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EZv3iFGAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EZv3iFGAL._SL200_.jpg' ]

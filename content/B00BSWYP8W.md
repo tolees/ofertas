@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deo  Regalo para el cuidado de la piel -' al 55.75221238938053 % de descuento
+title: 'Deo  Regalo para el cuidado de la piel - al 55.75221238938053 % de descuento'
 date: 2019/10/31 08:50:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XgXFZrfNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XgXFZrfNL._SL200_.jpg' ]

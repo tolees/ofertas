@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Slim 2pk Crewneck Camiseta   LS 2' al 31.775 % de descuento
+title: 'Levi s Slim 2pk Crewneck Camiseta   LS 2 al 31.775 % de descuento'
 date: 2019/10/11 07:46:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MxP8iz%2BzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MxP8iz%2BzL._SL200_.jpg' ]

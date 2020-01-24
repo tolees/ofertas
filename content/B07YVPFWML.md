@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Revolution 5  Zapatillas de Atletis' al 40.12738853503185 % de descuento
+title: 'Nike Revolution 5  Zapatillas de Atletis al 40.12738853503185 % de descuento'
 date: 2020-01-07 12:15:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q6A33qWOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q6A33qWOL._SL200_.jpg' ]

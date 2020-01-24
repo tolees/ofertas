@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Odinstone Mujer Colgante Árbol de la Vid' al 39.12570682905611 % de descuento
+title: 'Odinstone Mujer Colgante Árbol de la Vid al 39.12570682905611 % de descuento'
 date: 2019/10/13 14:11:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4173DlKbfRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4173DlKbfRL._SL200_.jpg' ]

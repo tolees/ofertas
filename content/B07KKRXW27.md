@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Kenr8d Vestido  Rosa  Framboise ' al 50.95 % de descuento
+title: 'Naf Naf Kenr8d Vestido  Rosa  Framboise  al 50.95 % de descuento'
 date: 2019/11/04 15:39:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-CU7awehL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-CU7awehL._SL200_.jpg' ]

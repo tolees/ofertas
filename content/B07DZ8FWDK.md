@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Lindores Jacket Chaqueta Imperm' al 40.00160006400256 % de descuento
+title: 'Columbia Lindores Jacket Chaqueta Imperm al 40.00160006400256 % de descuento'
 date: 2019/10/11 23:54:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WNcyfLhKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WNcyfLhKL._SL200_.jpg' ]

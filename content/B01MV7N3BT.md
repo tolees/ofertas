@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caterpillar Chronicle  Botas Clasicas pa' al 50.195982361587454 % de descuento
+title: 'Caterpillar Chronicle  Botas Clasicas pa al 50.195982361587454 % de descuento'
 date: 2019/10/28 02:41:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fWkYMiUdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fWkYMiUdL._SL200_.jpg' ]

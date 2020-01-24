@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YIWER 36 unidades LED Velas CR2032 pilas' al 63.65565322825098 % de descuento
+title: 'YIWER 36 unidades LED Velas CR2032 pilas al 63.65565322825098 % de descuento'
 date: 2019/12/06 08:36:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S0wBMyzAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S0wBMyzAL._SL200_.jpg' ]

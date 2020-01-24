@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.22111055527763 % en 'Clarks Vennor Walk  Zapatos de Cordones '
+title: 'Descuento del 62.22111055527763 % en Clarks Vennor Walk  Zapatos de Cordones '
 date: 2019/10/05 09:14:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oe5EIeNSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oe5EIeNSL._SL200_.jpg' ]

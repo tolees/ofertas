@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASICS T6C8N6701  Zapatillas de Running p' al 48.60714285714286 % de descuento
+title: 'ASICS T6C8N6701  Zapatillas de Running p al 48.60714285714286 % de descuento'
 date: 2019/10/15 08:29:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vU-TnCFHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vU-TnCFHL._SL200_.jpg' ]

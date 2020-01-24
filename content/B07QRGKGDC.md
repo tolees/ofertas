@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01250312578145 % en 'NAVANINO Electroestimulador Muscular Abd'
+title: 'Descuento del 50.01250312578145 % en NAVANINO Electroestimulador Muscular Abd'
 date: 2019/12/07 08:16:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rQVjn6uML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rQVjn6uML._SL200_.jpg' ]

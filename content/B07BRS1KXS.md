@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional Winkelschleifer GWS 8' al 35.91523565948118 % de descuento
+title: 'Bosch Professional Winkelschleifer GWS 8 al 35.91523565948118 % de descuento'
 date: 2019/10/26 06:54:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZSYN1h1uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZSYN1h1uL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Valeo 812255 Calefacción' al 31.292270531400966 % de descuento
+title: 'Valeo 812255 Calefacción al 31.292270531400966 % de descuento'
 date: 2019/10/05 19:46:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511DyIbLy-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511DyIbLy-L._SL200_.jpg' ]

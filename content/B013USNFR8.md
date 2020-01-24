@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WIDMANN- Traje muerte vestido con capuch' al 51.17967332123412 % de descuento
+title: 'WIDMANN- Traje muerte vestido con capuch al 51.17967332123412 % de descuento'
 date: 2019/10/14 18:05:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iOuB2gCsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iOuB2gCsL._SL200_.jpg' ]

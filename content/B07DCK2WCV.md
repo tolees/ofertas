@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.92765460910151 % en 'JACK & JONES Jjialvin Jjjacket AKM 115 C'
+title: 'Descuento del 65.92765460910151 % en JACK & JONES Jjialvin Jjjacket AKM 115 C'
 date: 2019/11/12 15:55:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416mPjDOrxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416mPjDOrxL._SL200_.jpg' ]

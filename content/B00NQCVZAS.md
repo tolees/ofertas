@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weider Victory Endurance  Iso Carbo - 90' al 45.77405857740585 % de descuento
+title: 'Weider Victory Endurance  Iso Carbo - 90 al 45.77405857740585 % de descuento'
 date: 2019/12/07 10:17:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E%2B4GGr8DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E%2B4GGr8DL._SL200_.jpg' ]

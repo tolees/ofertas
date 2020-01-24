@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jane Iredale  Brillo labial - 150 gr.' al 52.930005425935974 % de descuento
+title: 'Jane Iredale  Brillo labial - 150 gr. al 52.930005425935974 % de descuento'
 date: 2019/10/14 04:37:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318MSS8pHxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318MSS8pHxL._SL200_.jpg' ]

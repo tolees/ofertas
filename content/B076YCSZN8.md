@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic tee-B Camiseta  Negro  Hm' al 31.571428571428573 % de descuento
+title: 'Levi s Graphic tee-B Camiseta  Negro  Hm al 31.571428571428573 % de descuento'
 date: 2019/10/29 12:19:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410je8eT8BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410je8eT8BL._SL200_.jpg' ]

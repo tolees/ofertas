@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weekend Peninsula 5 Pares Calcetines de ' al 55.65862708719851 % de descuento
+title: 'Weekend Peninsula 5 Pares Calcetines de  al 55.65862708719851 % de descuento'
 date: 2019/11/08 18:50:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Koh749hXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Koh749hXL._SL200_.jpg' ]

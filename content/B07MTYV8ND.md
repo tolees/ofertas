@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Manguera Jardín Extensible  30 Metros 10' al 70.01000142877554 % de descuento
+title: 'Manguera Jardín Extensible  30 Metros 10 al 70.01000142877554 % de descuento'
 date: 2019/10/24 20:53:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518dHK9nCqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518dHK9nCqL._SL200_.jpg' ]

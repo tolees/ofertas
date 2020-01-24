@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Masajeador 10 Modos de Vibración Silicon' al 56.68556185395131 % de descuento
+title: 'Masajeador 10 Modos de Vibración Silicon al 56.68556185395131 % de descuento'
 date: 2020-01-08 20:02:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V25dAWpJL._SL200_.jpg' ]

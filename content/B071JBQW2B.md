@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.98444876423216 % en 'Allure Nanotex Cool Comfort 120 gsm Jueg'
+title: 'Descuento del 55.98444876423216 % en Allure Nanotex Cool Comfort 120 gsm Jueg'
 date: 2019/11/06 15:50:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qUKlNJfTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qUKlNJfTL._SL200_.jpg' ]

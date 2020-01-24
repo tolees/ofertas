@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Newskill Atami Control Tamaño XL - Alfom' al 40.080160320641276 % de descuento
+title: 'Newskill Atami Control Tamaño XL - Alfom al 40.080160320641276 % de descuento'
 date: 2019/11/04 16:13:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yfKLuPHYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yfKLuPHYL._SL200_.jpg' ]

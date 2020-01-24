@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjianakin Jjcargo Shorts AK' al 80.2760552110422 % de descuento
+title: 'JACK & JONES Jjianakin Jjcargo Shorts AK al 80.2760552110422 % de descuento'
 date: 2019/11/13 03:22:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bRSeaOJUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bRSeaOJUL._SL200_.jpg' ]

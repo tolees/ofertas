@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.61538461538461 % en 'Geox J New Savage Boy A  Zapatillas para'
+title: 'Descuento del 48.61538461538461 % en Geox J New Savage Boy A  Zapatillas para'
 date: 2020-01-05 13:52:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414307osmEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414307osmEL._SL200_.jpg' ]

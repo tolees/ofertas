@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic KX-TGD312 - Teléfono fijo inal' al 27.315741583257513 % de descuento
+title: 'Panasonic KX-TGD312 - Teléfono fijo inal al 27.315741583257513 % de descuento'
 date: 2019/12/03 11:30:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517%2BJw%2BFvML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517%2BJw%2BFvML._SL200_.jpg' ]

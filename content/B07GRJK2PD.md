@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.814536340852136 % en 'Samsung Galaxy Watch - Reloj inteligente'
+title: 'Descuento del 25.814536340852136 % en Samsung Galaxy Watch - Reloj inteligente'
 date: 2019/12/04 07:17:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41keU6yghnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41keU6yghnL._SL200_.jpg' ]

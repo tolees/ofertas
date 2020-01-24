@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Steampod Styler  Plancha de Pelo' al 40.0 % de descuento
+title: 'L Oréal Steampod Styler  Plancha de Pelo al 40.0 % de descuento'
 date: 2020-01-20 17:37:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FI%2B2FqwKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FI%2B2FqwKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIFA 20 Ultimate Team Steelbook para la ' al 60.04002668445631 % de descuento
+title: 'FIFA 20 Ultimate Team Steelbook para la  al 60.04002668445631 % de descuento'
 date: 2019/10/05 18:32:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lydz4fteL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lydz4fteL._SL200_.jpg' ]

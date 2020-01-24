@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.96666666666667 % en 'Under Armour Armour Fly Fast Printed Cap'
+title: 'Descuento del 50.96666666666667 % en Under Armour Armour Fly Fast Printed Cap'
 date: 2019/11/05 07:59:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mf6Iuxk9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mf6Iuxk9L._SL200_.jpg' ]

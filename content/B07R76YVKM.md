@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.79291762894534 % en 'flintronic® Cerradura de Equipaje  TSA S'
+title: 'Descuento del 30.79291762894534 % en flintronic® Cerradura de Equipaje  TSA S'
 date: 2019/10/10 09:37:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G2oJXjwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G2oJXjwcL._SL200_.jpg' ]

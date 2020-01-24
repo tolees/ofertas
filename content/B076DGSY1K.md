@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.70100143061518 % en 'Pepe Jeans Taylor PL900443 Falda  Azul  '
+title: 'Descuento del 70.70100143061518 % en Pepe Jeans Taylor PL900443 Falda  Azul  '
 date: 2020-01-22 15:02:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mkETlUaaL._SL200_.jpg' ]

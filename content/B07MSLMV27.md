@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks - Botines de Sintético Hombre  Co' al 46.018584703359544 % de descuento
+title: 'Clarks - Botines de Sintético Hombre  Co al 46.018584703359544 % de descuento'
 date: 2019/11/09 10:37:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oEuKN6WJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oEuKN6WJL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD 8TB  Elements Desktop External Hard D' al 32.354844402611924 % de descuento
+title: 'WD 8TB  Elements Desktop External Hard D al 32.354844402611924 % de descuento'
 date: 2019/11/27 09:38:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310yTnbr0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310yTnbr0NL._SL200_.jpg' ]

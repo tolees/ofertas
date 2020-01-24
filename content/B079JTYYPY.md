@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K-Way Damen Claudette Jacke  Rot  Red Fl' al 45.67777777777777 % de descuento
+title: 'K-Way Damen Claudette Jacke  Rot  Red Fl al 45.67777777777777 % de descuento'
 date: 2019/12/28 14:29:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4175AjWChDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4175AjWChDL._SL200_.jpg' ]

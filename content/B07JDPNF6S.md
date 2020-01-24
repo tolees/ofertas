@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.03795866722902 % en 'BOYOU Cinturón de cuero para hombres con'
+title: 'Descuento del 60.03795866722902 % en BOYOU Cinturón de cuero para hombres con'
 date: 2019/11/05 18:18:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G5Nliz%2BOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G5Nliz%2BOL._SL200_.jpg' ]

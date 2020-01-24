@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommee Tippee Sangenic Sistema avanzado ' al 40.01600640256102 % de descuento
+title: 'Tommee Tippee Sangenic Sistema avanzado  al 40.01600640256102 % de descuento'
 date: 2020-01-02 19:06:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OUxSPPfpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OUxSPPfpL._SL200_.jpg' ]

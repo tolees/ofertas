@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Bluetooth  Gritin Auriculare' al 27.793218454697044 % de descuento
+title: 'Auriculares Bluetooth  Gritin Auriculare al 27.793218454697044 % de descuento'
 date: 2020-01-18 08:45:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DjTDoLqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DjTDoLqAL._SL200_.jpg' ]

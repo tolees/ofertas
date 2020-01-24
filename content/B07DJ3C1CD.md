@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.28028028028029 % en 'Geox U Leitan B  Zapatos de Cordones Der'
+title: 'Descuento del 60.28028028028029 % en Geox U Leitan B  Zapatos de Cordones Der'
 date: 2019/12/21 12:57:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eh-ZCd9WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eh-ZCd9WL._SL200_.jpg' ]

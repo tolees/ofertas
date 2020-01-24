@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Rapid  Zapatillas de Ent' al 55.230769230769226 % de descuento
+title: 'Under Armour UA Rapid  Zapatillas de Ent al 55.230769230769226 % de descuento'
 date: 2019/11/05 22:18:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wNvX1TG6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wNvX1TG6L._SL200_.jpg' ]

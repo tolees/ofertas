@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.55 % en 'Under Armour Sport Style Wind Anorak Cha'
+title: 'Descuento del 54.55 % en Under Armour Sport Style Wind Anorak Cha'
 date: 2019/10/21 22:02:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sKSksLx%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sKSksLx%2BL._SL200_.jpg' ]

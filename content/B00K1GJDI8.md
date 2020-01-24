@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sisbrill V60 Sport Limpia Llantas - Sin ' al 32.03883495145631 % de descuento
+title: 'Sisbrill V60 Sport Limpia Llantas - Sin  al 32.03883495145631 % de descuento'
 date: 2019/11/19 13:06:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VJjR7LkXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VJjR7LkXL._SL200_.jpg' ]

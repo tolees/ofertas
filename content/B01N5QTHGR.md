@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.14792899408283 % en 'Clementoni - Puzzle 1500 Piezas Calle de'
+title: 'Descuento del 55.14792899408283 % en Clementoni - Puzzle 1500 Piezas Calle de'
 date: 2019/10/29 19:59:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N9yJQw9CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N9yJQw9CL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unno DIM Basic Sin Costuras Pack x2 Dim ' al 29.02902902902903 % de descuento
+title: 'Unno DIM Basic Sin Costuras Pack x2 Dim  al 29.02902902902903 % de descuento'
 date: 2019/10/29 09:11:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JDYopslyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JDYopslyL._SL200_.jpg' ]

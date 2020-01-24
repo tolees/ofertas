@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Terrex Swift R2 GTX  Zapatillas d' al 34.26938192211504 % de descuento
+title: 'adidas Terrex Swift R2 GTX  Zapatillas d al 34.26938192211504 % de descuento'
 date: 2019/12/08 17:01:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ygda4QJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ygda4QJjL._SL200_.jpg' ]

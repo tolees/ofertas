@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.96859734822051 % en 'Approx APPHDD09P - Carcasa para HDD Sata'
+title: 'Descuento del 64.96859734822051 % en Approx APPHDD09P - Carcasa para HDD Sata'
 date: 2019/10/13 20:55:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31frVFjOr-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31frVFjOr-L._SL200_.jpg' ]

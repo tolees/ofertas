@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.36129905277402 % en 'Seiko Reloj Analógico para Mujer de Cuar'
+title: 'Descuento del 47.36129905277402 % en Seiko Reloj Analógico para Mujer de Cuar'
 date: 2019/12/20 01:05:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313fGx0EewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313fGx0EewL._SL200_.jpg' ]

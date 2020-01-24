@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Rackam Yard Low  Zapatillas p' al 71.37360523278183 % de descuento
+title: 'G-STAR RAW Rackam Yard Low  Zapatillas p al 71.37360523278183 % de descuento'
 date: 2019/11/07 18:57:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ljvX1OrWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ljvX1OrWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Awear Chaqueta  Mujer  Azul/' al 47.536121673003805 % de descuento
+title: 'Trangoworld Awear Chaqueta  Mujer  Azul/ al 47.536121673003805 % de descuento'
 date: 2019/12/11 16:58:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313IWTA2BBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313IWTA2BBL._SL200_.jpg' ]

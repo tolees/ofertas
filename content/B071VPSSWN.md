@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timezone Regular Romy Jogg Vaqueros Slim' al 86.24630139781655 % de descuento
+title: 'Timezone Regular Romy Jogg Vaqueros Slim al 86.24630139781655 % de descuento'
 date: 2019/10/29 17:08:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mGOOqLRIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mGOOqLRIL._SL200_.jpg' ]

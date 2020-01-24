@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein 3P Brief  Slip para Hombre ' al 35.32352941176471 % de descuento
+title: 'Calvin Klein 3P Brief  Slip para Hombre  al 35.32352941176471 % de descuento'
 date: 2019/11/18 14:07:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qbMjKxWNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qbMjKxWNL._SL200_.jpg' ]

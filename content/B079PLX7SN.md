@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.01429685469196 % en 'Banpresto One Piece-Flag Diamond Ship-Na'
+title: 'Descuento del 35.01429685469196 % en Banpresto One Piece-Flag Diamond Ship-Na'
 date: 2019/10/20 17:44:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w33RG56TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w33RG56TL._SL200_.jpg' ]

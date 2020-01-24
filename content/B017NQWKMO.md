@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pocket Pop Keychain : Harry Potter' al 40.888888888888886 % de descuento
+title: 'Funko Pocket Pop Keychain : Harry Potter al 40.888888888888886 % de descuento'
 date: 2019/12/16 15:05:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KG6aEp8TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KG6aEp8TL._SL200_.jpg' ]

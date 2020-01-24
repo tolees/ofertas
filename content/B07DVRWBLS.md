@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.1 % en 'Volcom Stone Crew Sudadera  Hombre  Negr'
+title: 'Descuento del 62.1 % en Volcom Stone Crew Sudadera  Hombre  Negr'
 date: 2019/11/12 16:32:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410JKWUfYnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410JKWUfYnL._SL200_.jpg' ]

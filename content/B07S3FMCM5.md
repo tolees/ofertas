@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZUNTO Toallero Adhesivo Toalleros Barra ' al 52.19660722053065 % de descuento
+title: 'ZUNTO Toallero Adhesivo Toalleros Barra  al 52.19660722053065 % de descuento'
 date: 2020-01-20 17:26:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nVBQmnmzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nVBQmnmzL._SL200_.jpg' ]

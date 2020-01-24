@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brillante Benefit Cous Cous Quinoa Verdu' al 38.14814814814815 % de descuento
+title: 'Brillante Benefit Cous Cous Quinoa Verdu al 38.14814814814815 % de descuento'
 date: 2019/11/13 11:13:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BpgmUFBuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BpgmUFBuL._SL200_.jpg' ]

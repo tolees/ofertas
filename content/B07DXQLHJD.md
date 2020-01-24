@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 79.90452261306532 % en 'pendoo Android 9.0 TV Box 4GB RAM 64GB R'
+title: 'Descuento del 79.90452261306532 % en pendoo Android 9.0 TV Box 4GB RAM 64GB R'
 date: 2020-01-08 16:56:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pxr7z9%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pxr7z9%2BAL._SL200_.jpg' ]

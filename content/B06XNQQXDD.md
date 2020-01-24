@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Axiom Verge: Multiverse Edition' al 46.68222740913638 % de descuento
+title: 'Axiom Verge: Multiverse Edition al 46.68222740913638 % de descuento'
 date: 2019/11/22 10:32:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xdTf27--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xdTf27--L._SL200_.jpg' ]

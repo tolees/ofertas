@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.23159260460591 % en 'New Balance Cm997hce  Zapatillas para Ho'
+title: 'Descuento del 42.23159260460591 % en New Balance Cm997hce  Zapatillas para Ho'
 date: 2019/10/31 23:04:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u1N891QKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u1N891QKL._SL200_.jpg' ]

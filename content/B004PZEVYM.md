@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beurer CM50 - Masajeador anticelulítico ' al 29.849624060150383 % de descuento
+title: 'Beurer CM50 - Masajeador anticelulítico  al 29.849624060150383 % de descuento'
 date: 2020-01-19 03:30:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ad1BRahxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ad1BRahxL._SL200_.jpg' ]

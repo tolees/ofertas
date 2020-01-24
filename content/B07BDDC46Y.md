@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'N300 Repetidor Extensor de Red WiFi Enru' al 33.34444814938313 % de descuento
+title: 'N300 Repetidor Extensor de Red WiFi Enru al 33.34444814938313 % de descuento'
 date: 2020-01-07 10:42:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y11X7Z7sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y11X7Z7sL._SL200_.jpg' ]

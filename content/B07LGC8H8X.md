@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fila - Men Night Blocked Hoody - Black I' al 38.47692307692307 % de descuento
+title: 'Fila - Men Night Blocked Hoody - Black I al 38.47692307692307 % de descuento'
 date: 2019/11/25 21:38:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410DoaxZ6eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410DoaxZ6eL._SL200_.jpg' ]

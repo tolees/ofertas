@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.95550611790879 % en 'Medisana PM 100 Oxímetro de pulso  medic'
+title: 'Descuento del 39.95550611790879 % en Medisana PM 100 Oxímetro de pulso  medic'
 date: 2019/12/26 13:02:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BFg3iAo2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BFg3iAo2L._SL200_.jpg' ]

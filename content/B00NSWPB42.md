@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.462284035139 % en 'De Longhi ETAM29.620.SB Autentica Plus B'
+title: 'Descuento del 48.462284035139 % en De Longhi ETAM29.620.SB Autentica Plus B'
 date: 2019/12/07 11:58:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CmzjeQpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CmzjeQpjL._SL200_.jpg' ]

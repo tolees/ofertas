@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mizuno Wave Hitogami 3  Zapatillas de Ru' al 44.52222222222222 % de descuento
+title: 'Mizuno Wave Hitogami 3  Zapatillas de Ru al 44.52222222222222 % de descuento'
 date: 2019/10/18 14:32:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512ZEUnVdlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512ZEUnVdlL._SL200_.jpg' ]

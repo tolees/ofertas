@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri TALY 2 LS Polo  Azul  BLU Mari' al 50.0 % de descuento
+title: 'Napapijri TALY 2 LS Polo  Azul  BLU Mari al 50.0 % de descuento'
 date: 2020-01-22 12:19:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AZVC7bTML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AZVC7bTML._SL200_.jpg' ]

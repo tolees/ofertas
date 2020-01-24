@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Falda Plisada de Encaje para Mujer' al 70.0 % de descuento
+title: 'find. Falda Plisada de Encaje para Mujer al 70.0 % de descuento'
 date: 2019/10/20 12:57:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410%2BPDwU6fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410%2BPDwU6fL._SL200_.jpg' ]

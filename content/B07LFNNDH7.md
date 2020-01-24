@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Francine Down Pckble Jkt Chaqueta' al 44.56923076923077 % de descuento
+title: 'Levi s Francine Down Pckble Jkt Chaqueta al 44.56923076923077 % de descuento'
 date: 2019/12/28 12:43:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414zKRtO2LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414zKRtO2LL._SL200_.jpg' ]

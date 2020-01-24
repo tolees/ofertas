@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'MERAKI Pantalones Capri Mujer  Gris  Mar'
+title: 'Descuento del 70.0 % en MERAKI Pantalones Capri Mujer  Gris  Mar'
 date: 2019/10/08 18:43:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TLujMt4TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TLujMt4TL._SL200_.jpg' ]

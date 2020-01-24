@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG 38UC99-W - Monitor UltraWide Curvo  9' al 58.298582151793156 % de descuento
+title: 'LG 38UC99-W - Monitor UltraWide Curvo  9 al 58.298582151793156 % de descuento'
 date: 2019/11/21 11:32:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zmwl%2BRXsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zmwl%2BRXsL._SL200_.jpg' ]

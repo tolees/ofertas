@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.846889952153106 % en 'Orgawise Carpeta Clasificadora Extensibl'
+title: 'Descuento del 47.846889952153106 % en Orgawise Carpeta Clasificadora Extensibl'
 date: 2019/11/26 08:41:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f1liGD32L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f1liGD32L._SL200_.jpg' ]

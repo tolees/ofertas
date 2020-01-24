@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.41509433962264 % en 'Philips Avent SCD150/60 - Bolsa térmica '
+title: 'Descuento del 44.41509433962264 % en Philips Avent SCD150/60 - Bolsa térmica '
 date: 2019/12/12 05:06:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s0OCK5lXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s0OCK5lXL._SL200_.jpg' ]

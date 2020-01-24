@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.97907188353049 % en 'Columbia Silver Ridge II Short Sleeve Sh'
+title: 'Descuento del 56.97907188353049 % en Columbia Silver Ridge II Short Sleeve Sh'
 date: 2019/11/09 10:36:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UWDcxGTsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UWDcxGTsL._SL200_.jpg' ]

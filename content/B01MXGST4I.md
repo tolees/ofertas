@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELEGOO Conjunto Medio de Iniciación Comp' al 30.441400304414014 % de descuento
+title: 'ELEGOO Conjunto Medio de Iniciación Comp al 30.441400304414014 % de descuento'
 date: 2020-01-13 13:03:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61fQsYALc3L._SL200_.jpg' ]

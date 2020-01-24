@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio Q2374 Set de Sartenes  Alumi' al 56.67133426685338 % de descuento
+title: 'San Ignacio Q2374 Set de Sartenes  Alumi al 56.67133426685338 % de descuento'
 date: 2019/11/03 11:37:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wP1rib7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wP1rib7DL._SL200_.jpg' ]

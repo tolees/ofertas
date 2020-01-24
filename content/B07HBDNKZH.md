@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.506778566817296 % en 'Apple iPhone XS  512 GB  - Silber'
+title: 'Descuento del 35.506778566817296 % en Apple iPhone XS  512 GB  - Silber'
 date: 2019/11/03 19:21:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aEaDIrljL._SL200_.jpg' ]

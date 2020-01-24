@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.02758620689656 % en 'Saucony Guide ISO 2 - Zapatillas para Ho'
+title: 'Descuento del 55.02758620689656 % en Saucony Guide ISO 2 - Zapatillas para Ho'
 date: 2020-01-13 13:14:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YhIaY-siL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YhIaY-siL._SL200_.jpg' ]

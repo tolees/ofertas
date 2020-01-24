@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eshow Bolso Mensajero Bandolera de Hombr' al 35.00875218804702 % de descuento
+title: 'Eshow Bolso Mensajero Bandolera de Hombr al 35.00875218804702 % de descuento'
 date: 2019/11/30 22:59:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L2adW5YzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L2adW5YzL._SL200_.jpg' ]

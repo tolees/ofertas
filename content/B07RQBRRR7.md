@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rii i4 Mini bluetooth teclado inalámbric' al 45.848616205401804 % de descuento
+title: 'Rii i4 Mini bluetooth teclado inalámbric al 45.848616205401804 % de descuento'
 date: 2020-01-13 01:04:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kUgQmDWtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kUgQmDWtL._SL200_.jpg' ]

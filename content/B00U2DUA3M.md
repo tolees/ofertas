@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elizabeth Arden Ceramide Flawless Future' al 42.00000000000001 % de descuento
+title: 'Elizabeth Arden Ceramide Flawless Future al 42.00000000000001 % de descuento'
 date: 2020-01-05 23:26:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319CBIHl3-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319CBIHl3-L._SL200_.jpg' ]

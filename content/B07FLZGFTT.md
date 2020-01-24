@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buff Tiger Hombre  Grey  Talla única' al 37.45819397993311 % de descuento
+title: 'Buff Tiger Hombre  Grey  Talla única al 37.45819397993311 % de descuento'
 date: 2020-01-18 17:05:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HqUAKBmfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HqUAKBmfL._SL200_.jpg' ]

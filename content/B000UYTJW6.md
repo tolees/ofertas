@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Makita 5903RK Sierra Circular  2 W  22.9' al 26.627436557557928 % de descuento
+title: 'Makita 5903RK Sierra Circular  2 W  22.9 al 26.627436557557928 % de descuento'
 date: 2019/10/20 19:10:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p42zcRXiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p42zcRXiL._SL200_.jpg' ]

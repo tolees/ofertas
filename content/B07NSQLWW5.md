@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FURminator Undercoat deShedding Tool par' al 31.263026260942063 % de descuento
+title: 'FURminator Undercoat deShedding Tool par al 31.263026260942063 % de descuento'
 date: 2019/11/29 10:31:16 +0000
 thumbnailImage: ''
 images: [ '' ]

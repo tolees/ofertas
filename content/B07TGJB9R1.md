@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.16270337922404 % en 'Head Core Padel Combi SMU  Green '
+title: 'Descuento del 30.16270337922404 % en Head Core Padel Combi SMU  Green '
 date: 2019/10/16 20:31:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n5NHmi4KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n5NHmi4KL._SL200_.jpg' ]

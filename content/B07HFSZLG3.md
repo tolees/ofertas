@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonderbra Fabulous Feel Bresilien Bragui' al 44.61152882205515 % de descuento
+title: 'Wonderbra Fabulous Feel Bresilien Bragui al 44.61152882205515 % de descuento'
 date: 2019/11/05 09:01:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OzBRck85L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OzBRck85L._SL200_.jpg' ]

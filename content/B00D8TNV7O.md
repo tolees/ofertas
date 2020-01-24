@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by ESPRIT Five Slim - Vaqueros slim ' al 78.63572714542909 % de descuento
+title: 'edc by ESPRIT Five Slim - Vaqueros slim  al 78.63572714542909 % de descuento'
 date: 2019/10/24 11:20:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ai7o20IDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ai7o20IDL._SL200_.jpg' ]

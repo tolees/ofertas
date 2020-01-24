@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.587345894394055 % en 'Amoladora Eléctrica  GALAX PRO 130W  6 V'
+title: 'Descuento del 25.587345894394055 % en Amoladora Eléctrica  GALAX PRO 130W  6 V'
 date: 2020-01-19 10:02:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kut3be%2BHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kut3be%2BHL._SL200_.jpg' ]

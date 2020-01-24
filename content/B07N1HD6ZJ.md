@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.08988764044943 % en 'Kipling ELSIL - Bolso bandolera  10 lite'
+title: 'Descuento del 49.08988764044943 % en Kipling ELSIL - Bolso bandolera  10 lite'
 date: 2019/12/11 22:55:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ROWEENpOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ROWEENpOL._SL200_.jpg' ]

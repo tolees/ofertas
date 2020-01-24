@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Soho Vaqueros  Azul  11Oz Cla' al 41.42666666666667 % de descuento
+title: 'Pepe Jeans Soho Vaqueros  Azul  11Oz Cla al 41.42666666666667 % de descuento'
 date: 2019/11/15 16:52:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i8vO451eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i8vO451eL._SL200_.jpg' ]

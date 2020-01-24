@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.041666666666664 % en 'Levi s The Jacket  Chaqueta Vaquera  Bei'
+title: 'Descuento del 50.041666666666664 % en Levi s The Jacket  Chaqueta Vaquera  Bei'
 date: 2019/10/22 15:34:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xajJkgtEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xajJkgtEL._SL200_.jpg' ]

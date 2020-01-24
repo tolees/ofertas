@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.01750437609402 % en 'Car Tablet Headrest Mount Tablet Holder '
+title: 'Descuento del 70.01750437609402 % en Car Tablet Headrest Mount Tablet Holder '
 date: 2019/12/03 09:14:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4199mODmMcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4199mODmMcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.98733192576953 % en 'Cybex - Silla de coche grupo 0+/1 Sirona'
+title: 'Descuento del 25.98733192576953 % en Cybex - Silla de coche grupo 0+/1 Sirona'
 date: 2019/12/30 20:34:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31d-dwFwjuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31d-dwFwjuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PET SPPTIES Tela de Malla Chaleco para P' al 63.336155800169344 % de descuento
+title: 'PET SPPTIES Tela de Malla Chaleco para P al 63.336155800169344 % de descuento'
 date: 2019/10/25 12:05:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wsQV3AkkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wsQV3AkkL._SL200_.jpg' ]

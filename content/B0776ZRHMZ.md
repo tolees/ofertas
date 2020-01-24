@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.457142857142863 % en 'Tommy Jeans Hombre Original Rib Camisa M'
+title: 'Descuento del 31.457142857142863 % en Tommy Jeans Hombre Original Rib Camisa M'
 date: 2019/12/28 16:23:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41531v-VT%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41531v-VT%2BL._SL200_.jpg' ]

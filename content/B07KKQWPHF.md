@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.541176470588233 % en 'Naf Naf Kend3 Mono  Negro  Écru/Noir 342'
+title: 'Descuento del 26.541176470588233 % en Naf Naf Kend3 Mono  Negro  Écru/Noir 342'
 date: 2019/12/07 00:19:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HapVDFeaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HapVDFeaL._SL200_.jpg' ]

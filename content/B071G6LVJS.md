@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'H.Koenig Vinoteca 6 Botellas  Pequeña  7' al 49.79899497487437 % de descuento
+title: 'H.Koenig Vinoteca 6 Botellas  Pequeña  7 al 49.79899497487437 % de descuento'
 date: 2019/11/23 14:35:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DW7MGFq7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DW7MGFq7L._SL200_.jpg' ]

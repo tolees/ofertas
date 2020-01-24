@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Silicon Power Delgado S55-240 GB Interna' al 32.20338983050848 % de descuento
+title: 'Silicon Power Delgado S55-240 GB Interna al 32.20338983050848 % de descuento'
 date: 2019/10/19 16:25:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wgg%2B4vMNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wgg%2B4vMNL._SL200_.jpg' ]

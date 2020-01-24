@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.062656641604008 % en 'Oral-B 3DWhite Luxe Perfección Pasta Den'
+title: 'Descuento del 25.062656641604008 % en Oral-B 3DWhite Luxe Perfección Pasta Den'
 date: 2019/12/21 19:03:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r3PKyFo0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r3PKyFo0L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Final Casuals Jacket Chaqueta de En' al 39.291762894534266 % de descuento
+title: 'PUMA Final Casuals Jacket Chaqueta de En al 39.291762894534266 % de descuento'
 date: 2019/10/14 00:20:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zzEWO05SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zzEWO05SL._SL200_.jpg' ]

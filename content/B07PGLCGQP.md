@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.333333333333336 % en 'Funko 37472 POP Disney: Toy Story 4-Buzz'
+title: 'Descuento del 33.333333333333336 % en Funko 37472 POP Disney: Toy Story 4-Buzz'
 date: 2019/12/09 09:15:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iNzuv5DEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iNzuv5DEL._SL200_.jpg' ]

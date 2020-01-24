@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.31155778894472 % en 'THE HEAT COMPANY Calentadores Manos - EX'
+title: 'Descuento del 37.31155778894472 % en THE HEAT COMPANY Calentadores Manos - EX'
 date: 2019/12/08 09:27:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qvq5D3zTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qvq5D3zTL._SL200_.jpg' ]

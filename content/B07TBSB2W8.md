@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferilinso Funda para Xiaomi Redmi 7A  Fu' al 69.86921529175049 % de descuento
+title: 'Ferilinso Funda para Xiaomi Redmi 7A  Fu al 69.86921529175049 % de descuento'
 date: 2019/12/12 13:59:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FVNmLLodL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FVNmLLodL._SL200_.jpg' ]

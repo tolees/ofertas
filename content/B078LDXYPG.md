@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.61052631578947 % en 'Tommy Jeans Mujer Textured suéter Manga '
+title: 'Descuento del 59.61052631578947 % en Tommy Jeans Mujer Textured suéter Manga '
 date: 2019/10/12 21:40:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416O6pBjAbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416O6pBjAbL._SL200_.jpg' ]

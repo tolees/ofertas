@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.93846153846154 % en 'Hurley M Phantom BP Fever Bañadores  Hom'
+title: 'Descuento del 64.93846153846154 % en Hurley M Phantom BP Fever Bañadores  Hom'
 date: 2019/10/14 17:57:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41osE9bbSgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41osE9bbSgL._SL200_.jpg' ]

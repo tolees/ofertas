@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.000000000000004 % en 'Levi s 512 Slim Taper Fit Vaqueros Taper'
+title: 'Descuento del 30.000000000000004 % en Levi s 512 Slim Taper Fit Vaqueros Taper'
 date: 2020-01-03 19:05:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MzxyyC18L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MzxyyC18L._SL200_.jpg' ]

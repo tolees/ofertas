@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.72436218109054 % en 'adidas Deerupt Runner  Zapatillas para H'
+title: 'Descuento del 48.72436218109054 % en adidas Deerupt Runner  Zapatillas para H'
 date: 2019/11/30 19:33:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gom6KZNTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gom6KZNTL._SL200_.jpg' ]

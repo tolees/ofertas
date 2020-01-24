@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Woolen Bloom Manga Larga Sueter Invierno' al 28.08202050512628 % de descuento
+title: 'Woolen Bloom Manga Larga Sueter Invierno al 28.08202050512628 % de descuento'
 date: 2020-01-11 19:23:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WTWk465EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WTWk465EL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carita Progressif Loción Perfection Jeun' al 41.864406779661024 % de descuento
+title: 'Carita Progressif Loción Perfection Jeun al 41.864406779661024 % de descuento'
 date: 2019/11/17 10:55:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3133mceioEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3133mceioEL._SL200_.jpg' ]

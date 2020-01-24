@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell Bohrhammer TE-RH 32 E  1250 W  5' al 42.587529176392124 % de descuento
+title: 'Einhell Bohrhammer TE-RH 32 E  1250 W  5 al 42.587529176392124 % de descuento'
 date: 2019/12/25 18:37:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A27jzGYpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A27jzGYpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.39308462238398 % en 'Puma Liga Sideline -Chaqueta  Unisex adu'
+title: 'Descuento del 72.39308462238398 % en Puma Liga Sideline -Chaqueta  Unisex adu'
 date: 2019/10/30 23:01:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V-IDLYweL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V-IDLYweL._SL200_.jpg' ]

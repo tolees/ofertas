@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 5620 Elwood 3D Skinny Jeans  ' al 58.32243170450173 % de descuento
+title: 'G-STAR RAW 5620 Elwood 3D Skinny Jeans   al 58.32243170450173 % de descuento'
 date: 2019/12/06 04:30:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NdkPara9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NdkPara9L._SL200_.jpg' ]

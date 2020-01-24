@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Got2b - Perfume de cabello Floral Glory ' al 62.355555555555554 % de descuento
+title: 'Got2b - Perfume de cabello Floral Glory  al 62.355555555555554 % de descuento'
 date: 2020-01-16 21:58:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314Z%2BJfG7eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314Z%2BJfG7eL._SL200_.jpg' ]

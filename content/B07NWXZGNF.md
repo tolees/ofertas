@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bomber Crew - Signature Edition' al 30.623536922749516 % de descuento
+title: 'Bomber Crew - Signature Edition al 30.623536922749516 % de descuento'
 date: 2019/11/15 08:15:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JzeaX%2BKHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JzeaX%2BKHL._SL200_.jpg' ]

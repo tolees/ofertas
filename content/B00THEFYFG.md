@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga2750 Lame - Zapatillas Mujer  Dor' al 48.458333333333336 % de descuento
+title: 'Superga2750 Lame - Zapatillas Mujer  Dor al 48.458333333333336 % de descuento'
 date: 2019/11/17 17:20:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DjOTjcNhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DjOTjcNhL._SL200_.jpg' ]

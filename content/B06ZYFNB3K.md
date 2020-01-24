@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nintendo - Figura Amiibo Link Skyward Sw' al 27.6536312849162 % de descuento
+title: 'Nintendo - Figura Amiibo Link Skyward Sw al 27.6536312849162 % de descuento'
 date: 2019/10/30 16:11:15 +0000
 thumbnailImage: ''
 images: [ '' ]

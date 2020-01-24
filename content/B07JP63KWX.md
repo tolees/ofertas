@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.0 % en 'Amazon Essentials - Suéter de algodón te'
+title: 'Descuento del 25.0 % en Amazon Essentials - Suéter de algodón te'
 date: 2019/11/27 15:39:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319T7CgkimL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319T7CgkimL._SL200_.jpg' ]

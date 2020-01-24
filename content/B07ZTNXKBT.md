@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.37531276063386 % en 'Frozen Believe-Mochila 3D  Pequeña '
+title: 'Descuento del 50.37531276063386 % en Frozen Believe-Mochila 3D  Pequeña '
 date: 2020-01-22 11:49:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Mpq%2BQN-XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Mpq%2BQN-XL._SL200_.jpg' ]

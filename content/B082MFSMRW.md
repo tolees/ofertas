@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OBEEII Niña Disfraz Princesa Party Vesti' al 50.0 % de descuento
+title: 'OBEEII Niña Disfraz Princesa Party Vesti al 50.0 % de descuento'
 date: 2020-01-23 10:04:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3130qURT8CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3130qURT8CL._SL200_.jpg' ]

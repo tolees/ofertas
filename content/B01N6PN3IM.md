@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.60714285714286 % en 'Kappa Marostica Pantalón Corto  Unisex  '
+title: 'Descuento del 46.60714285714286 % en Kappa Marostica Pantalón Corto  Unisex  '
 date: 2019/10/10 10:58:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q6tgAsnML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q6tgAsnML._SL200_.jpg' ]

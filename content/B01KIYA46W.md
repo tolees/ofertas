@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.00275013750689 % en 'Echo Show  Vorherige Generation - 1. Gen'
+title: 'Descuento del 55.00275013750689 % en Echo Show  Vorherige Generation - 1. Gen'
 date: 2019/10/18 00:41:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ERqoNWrzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ERqoNWrzL._SL200_.jpg' ]

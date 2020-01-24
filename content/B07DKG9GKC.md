@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Arto  Bolsos bandolera Mujer  ' al 40.0 % de descuento
+title: 'Kipling - Arto  Bolsos bandolera Mujer   al 40.0 % de descuento'
 date: 2019/10/24 11:29:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RqG6P2h2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RqG6P2h2L._SL200_.jpg' ]

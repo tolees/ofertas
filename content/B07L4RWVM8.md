@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sockers FCB - Figura de Gerard Piqué 201' al 56.68896321070234 % de descuento
+title: 'Sockers FCB - Figura de Gerard Piqué 201 al 56.68896321070234 % de descuento'
 date: 2020-01-09 22:49:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jfFh1Dd0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jfFh1Dd0L._SL200_.jpg' ]

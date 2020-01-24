@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ted Baker Astrina  Zapatillas para Mujer' al 59.19353725056964 % de descuento
+title: 'Ted Baker Astrina  Zapatillas para Mujer al 59.19353725056964 % de descuento'
 date: 2019/11/08 20:07:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317ZcAynosL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317ZcAynosL._SL200_.jpg' ]

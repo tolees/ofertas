@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.309090909090905 % en 'Tommy Jeans TJM Tommy Classics Solid Pol'
+title: 'Descuento del 52.309090909090905 % en Tommy Jeans TJM Tommy Classics Solid Pol'
 date: 2019/10/22 23:07:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p3pIsRHdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p3pIsRHdL._SL200_.jpg' ]

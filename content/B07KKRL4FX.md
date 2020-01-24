@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Kenc36 Blusa  Marfil  Écru 333  ' al 31.68421052631579 % de descuento
+title: 'Naf Naf Kenc36 Blusa  Marfil  Écru 333   al 31.68421052631579 % de descuento'
 date: 2019/12/07 00:19:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MjVWV3zFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MjVWV3zFL._SL200_.jpg' ]

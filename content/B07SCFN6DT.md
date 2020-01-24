@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Real Madrid Mini Home Kids Equipa' al 34.2971449354428 % de descuento
+title: 'adidas Real Madrid Mini Home Kids Equipa al 34.2971449354428 % de descuento'
 date: 2019/12/12 10:32:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zEpswGsqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zEpswGsqL._SL200_.jpg' ]

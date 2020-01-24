@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.15555555555556 % en 'Samsonite Disney Ultimate 2.0 - Mochila '
+title: 'Descuento del 29.15555555555556 % en Samsonite Disney Ultimate 2.0 - Mochila '
 date: 2020-01-03 16:35:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CF6GeYcFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CF6GeYcFL._SL200_.jpg' ]

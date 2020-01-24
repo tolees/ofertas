@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Penny Mocasines  Negro Black  42 E' al 25.0 % de descuento
+title: 'find. Penny Mocasines  Negro Black  42 E al 25.0 % de descuento'
 date: 2019/12/15 21:04:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318GvN2i7lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318GvN2i7lL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin Slim Protective Sleeve with Carry' al 37.523452157598506 % de descuento
+title: 'Belkin Slim Protective Sleeve with Carry al 37.523452157598506 % de descuento'
 date: 2019/11/21 15:59:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JqPBBv3pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JqPBBv3pL._SL200_.jpg' ]

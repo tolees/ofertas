@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lotus Reloj Analógico para Hombre de Cua' al 43.05797101449276 % de descuento
+title: 'Lotus Reloj Analógico para Hombre de Cua al 43.05797101449276 % de descuento'
 date: 2019/10/21 10:14:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gmnKb4PoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gmnKb4PoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies 01 210088  Pantalones Para Hombr' al 66.3623188405797 % de descuento
+title: 'Dickies 01 210088  Pantalones Para Hombr al 66.3623188405797 % de descuento'
 date: 2019/12/03 12:26:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312yIty1JPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312yIty1JPL._SL200_.jpg' ]

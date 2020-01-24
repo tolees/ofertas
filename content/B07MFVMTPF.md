@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.52173913043478 % en 'Pikolinos Alcudia para Mujer'
+title: 'Descuento del 61.52173913043478 % en Pikolinos Alcudia para Mujer'
 date: 2019/12/10 08:03:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TSAHj0F%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TSAHj0F%2BL._SL200_.jpg' ]

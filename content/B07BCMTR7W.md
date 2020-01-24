@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.2736368184092 % en 'Clarks Tri Clara  Zapatos de Cordones De'
+title: 'Descuento del 47.2736368184092 % en Clarks Tri Clara  Zapatos de Cordones De'
 date: 2019/10/21 09:56:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tYoAWBkKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tYoAWBkKL._SL200_.jpg' ]

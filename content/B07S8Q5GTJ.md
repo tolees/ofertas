@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34259516532371 % en 'Guirnalda navidad de luz 300 LED Blanco '
+title: 'Descuento del 33.34259516532371 % en Guirnalda navidad de luz 300 LED Blanco '
 date: 2020-01-06 09:59:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C48yzuAEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C48yzuAEL._SL200_.jpg' ]

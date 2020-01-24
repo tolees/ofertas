@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Babolat Custom Damp X2 Amortiguador de v' al 26.702269692923895 % de descuento
+title: 'Babolat Custom Damp X2 Amortiguador de v al 26.702269692923895 % de descuento'
 date: 2020-01-03 16:26:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iLGh12ZVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iLGh12ZVL._SL200_.jpg' ]

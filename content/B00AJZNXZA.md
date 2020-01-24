@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.12 % en 'Nike Venom Pantalones Cortos para Niños '
+title: 'Descuento del 50.12 % en Nike Venom Pantalones Cortos para Niños '
 date: 2019/11/05 18:15:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-O56xKl7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-O56xKl7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Vent T-Shirt  Hombre  Sodalite Blue' al 67.29613733905579 % de descuento
+title: 'PUMA Vent T-Shirt  Hombre  Sodalite Blue al 67.29613733905579 % de descuento'
 date: 2019/10/18 02:56:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tPJJYV50L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tPJJYV50L._SL200_.jpg' ]

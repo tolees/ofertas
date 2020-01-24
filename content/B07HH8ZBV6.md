@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Jana Str Pq Polo SS  Muje' al 78.56070087609513 % de descuento
+title: 'Tommy Hilfiger Jana Str Pq Polo SS  Muje al 78.56070087609513 % de descuento'
 date: 2019/11/03 19:21:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Im40tHVPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Im40tHVPL._SL200_.jpg' ]

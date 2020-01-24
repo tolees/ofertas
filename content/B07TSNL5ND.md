@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SYROKAN - Sujetador Deportivo Espalda De' al 61.29032258064516 % de descuento
+title: 'SYROKAN - Sujetador Deportivo Espalda De al 61.29032258064516 % de descuento'
 date: 2019/12/31 11:08:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B1WzBxGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B1WzBxGbL._SL200_.jpg' ]

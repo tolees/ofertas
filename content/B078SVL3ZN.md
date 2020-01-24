@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.02251125562782 % en 'Salomon Trailster W  Zapatillas de Trail'
+title: 'Descuento del 45.02251125562782 % en Salomon Trailster W  Zapatillas de Trail'
 date: 2019/11/09 21:13:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZbV7K-fRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZbV7K-fRL._SL200_.jpg' ]

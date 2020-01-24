@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hozelock - Carrete portamangueras pared ' al 28.246820929747752 % de descuento
+title: 'Hozelock - Carrete portamangueras pared  al 28.246820929747752 % de descuento'
 date: 2019/10/06 12:37:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rSy7WiaRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rSy7WiaRL._SL200_.jpg' ]

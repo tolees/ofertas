@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Remington PROluxe CI91X1 - Rizador de pe' al 27.456363992939792 % de descuento
+title: 'Remington PROluxe CI91X1 - Rizador de pe al 27.456363992939792 % de descuento'
 date: 2019/12/27 07:13:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417Lgclke6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417Lgclke6L._SL200_.jpg' ]

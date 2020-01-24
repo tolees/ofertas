@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Double Pack: Assassin s Creed Odyssey + ' al 30.186037207441498 % de descuento
+title: 'Double Pack: Assassin s Creed Odyssey +  al 30.186037207441498 % de descuento'
 date: 2020-01-15 08:46:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515bhh3Q8OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515bhh3Q8OL._SL200_.jpg' ]

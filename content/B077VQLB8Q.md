@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Victoria Deportivo Lurex  Zapatillas Uni' al 72.98245614035088 % de descuento
+title: 'Victoria Deportivo Lurex  Zapatillas Uni al 72.98245614035088 % de descuento'
 date: 2019/12/03 14:02:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g8Pj9KJ1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g8Pj9KJ1L._SL200_.jpg' ]

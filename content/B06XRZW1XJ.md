@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO Camión Transportador Maletín Portac' al 27.155788470700337 % de descuento
+title: 'deAO Camión Transportador Maletín Portac al 27.155788470700337 % de descuento'
 date: 2019/11/17 20:28:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ccvpAm-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ccvpAm-IL._SL200_.jpg' ]

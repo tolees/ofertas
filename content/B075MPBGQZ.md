@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MERAKI Vestido Camiseta Slim Fit Mujer  ' al 70.0 % de descuento
+title: 'MERAKI Vestido Camiseta Slim Fit Mujer   al 70.0 % de descuento'
 date: 2019/10/07 11:06:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AxqJwS-KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AxqJwS-KL._SL200_.jpg' ]

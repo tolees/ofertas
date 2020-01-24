@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Terence C  Botas Clasicas para Ho' al 50.0 % de descuento
+title: 'Geox U Terence C  Botas Clasicas para Ho al 50.0 % de descuento'
 date: 2019/12/27 07:54:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sx3aTjzeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sx3aTjzeL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.99031945788964 % en 'RED WAGON Vaqueros Niñas con Rotos  Azul'
+title: 'Descuento del 69.99031945788964 % en RED WAGON Vaqueros Niñas con Rotos  Azul'
 date: 2019/11/20 15:59:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xRhIDq2UL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xRhIDq2UL._SL200_.jpg' ]

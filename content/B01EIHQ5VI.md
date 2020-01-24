@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'nick&jess - Negro Camisa Casual - Básico' al 44.06584992343032 % de descuento
+title: 'nick&jess - Negro Camisa Casual - Básico al 44.06584992343032 % de descuento'
 date: 2019/12/21 15:36:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HxQiWSsGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HxQiWSsGL._SL200_.jpg' ]

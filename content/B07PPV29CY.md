@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.03003003003003 % en 'Maxesla Adaptador de Bluetooth 4.0 Bluet'
+title: 'Descuento del 30.03003003003003 % en Maxesla Adaptador de Bluetooth 4.0 Bluet'
 date: 2019/12/15 07:00:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416HNqQnJeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416HNqQnJeL._SL200_.jpg' ]

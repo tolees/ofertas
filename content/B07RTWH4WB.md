@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01000333444481 % en 'Cellulite Massager  Roller Slimming Anti'
+title: 'Descuento del 30.01000333444481 % en Cellulite Massager  Roller Slimming Anti'
 date: 2019/12/01 16:16:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s54NpAJxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s54NpAJxL._SL200_.jpg' ]

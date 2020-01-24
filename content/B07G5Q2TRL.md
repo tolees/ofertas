@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Extreme Pro 400GB microSDXC Memo' al 30.952511066178488 % de descuento
+title: 'SanDisk Extreme Pro 400GB microSDXC Memo al 30.952511066178488 % de descuento'
 date: 2019/12/02 12:12:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oTnpMDkZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oTnpMDkZL._SL200_.jpg' ]

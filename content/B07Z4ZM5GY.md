@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CarbonBlack Mochila Deportiva Resistente' al 28.755364806866968 % de descuento
+title: 'CarbonBlack Mochila Deportiva Resistente al 28.755364806866968 % de descuento'
 date: 2019/11/17 18:58:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Buf1b7eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Buf1b7eL._SL200_.jpg' ]

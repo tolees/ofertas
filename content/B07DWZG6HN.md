@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.159763313609453 % en 'Energy Sistem Box 1+ Altavoz inalámbrico'
+title: 'Descuento del 27.159763313609453 % en Energy Sistem Box 1+ Altavoz inalámbrico'
 date: 2020-01-18 19:05:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cIJ1-IUVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cIJ1-IUVL._SL200_.jpg' ]

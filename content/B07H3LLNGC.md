@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Himaly Cortapelos Profesional Hombre Ele' al 57.8305720537668 % de descuento
+title: 'Himaly Cortapelos Profesional Hombre Ele al 57.8305720537668 % de descuento'
 date: 2020-01-14 17:06:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313-KZoikdL._SL200_.jpg' ]

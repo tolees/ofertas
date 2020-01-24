@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.45575959933222 % en 'Desigual TS_Nashville Camiseta  Azul  Na'
+title: 'Descuento del 53.45575959933222 % en Desigual TS_Nashville Camiseta  Azul  Na'
 date: 2019/11/08 14:19:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dDFRHVSNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dDFRHVSNL._SL200_.jpg' ]

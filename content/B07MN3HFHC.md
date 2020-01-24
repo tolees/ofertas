@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Logo SWS Sudadera  Rojo  Warp Red KG' al 65.03076923076922 % de descuento
+title: 'Lee Logo SWS Sudadera  Rojo  Warp Red KG al 65.03076923076922 % de descuento'
 date: 2019/12/20 12:59:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c6SRNHkQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c6SRNHkQL._SL200_.jpg' ]

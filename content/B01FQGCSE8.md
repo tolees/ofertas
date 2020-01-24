@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOTE 3 PELOTAS TECNIFIBRE PADEL TOUR' al 35.29411764705882 % de descuento
+title: 'BOTE 3 PELOTAS TECNIFIBRE PADEL TOUR al 35.29411764705882 % de descuento'
 date: 2019/11/21 10:05:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FGODTCfHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FGODTCfHL._SL200_.jpg' ]

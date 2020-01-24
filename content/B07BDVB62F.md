@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.09090909090909 % en 'Hurley M Surf Check One & Only - Sudader'
+title: 'Descuento del 50.09090909090909 % en Hurley M Surf Check One & Only - Sudader'
 date: 2019/11/25 12:15:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wMenlP3bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wMenlP3bL._SL200_.jpg' ]

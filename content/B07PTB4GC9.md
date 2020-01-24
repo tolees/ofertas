@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 82.80045909165436 % en 'Riuty Lámpara de Techo Moderna de Montaj'
+title: 'Descuento del 82.80045909165436 % en Riuty Lámpara de Techo Moderna de Montaj'
 date: 2020-01-21 15:16:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O9Uix%2BCWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O9Uix%2BCWL._SL200_.jpg' ]

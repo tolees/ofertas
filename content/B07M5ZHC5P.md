@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.98299149574787 % en 'Lee Slim Rider Chaqueta  Negro  Black Ri'
+title: 'Descuento del 45.98299149574787 % en Lee Slim Rider Chaqueta  Negro  Black Ri'
 date: 2019/11/13 16:37:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tJSKHXElL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tJSKHXElL._SL200_.jpg' ]

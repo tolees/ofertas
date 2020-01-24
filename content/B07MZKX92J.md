@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WOSTOO Alfombra para Piano  Alfombra de ' al 53.0436484634958 % de descuento
+title: 'WOSTOO Alfombra para Piano  Alfombra de  al 53.0436484634958 % de descuento'
 date: 2019/10/22 07:56:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ipARNEGDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ipARNEGDL._SL200_.jpg' ]

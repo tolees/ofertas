@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.00787556605631 % en 'Kérastase  Sueros y íquidos diurnos faci'
+title: 'Descuento del 40.00787556605631 % en Kérastase  Sueros y íquidos diurnos faci'
 date: 2019/10/06 11:17:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510qprVHwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510qprVHwJL._SL200_.jpg' ]

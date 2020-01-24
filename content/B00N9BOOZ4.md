@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.69211514392991 % en 'Beurer MP62 - Set manicura pedicura Prof'
+title: 'Descuento del 43.69211514392991 % en Beurer MP62 - Set manicura pedicura Prof'
 date: 2019/12/28 00:03:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MwYbr2IYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MwYbr2IYL._SL200_.jpg' ]

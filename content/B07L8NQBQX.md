@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.00748713149275 % en 'Dockers by Gerli 43cd011  Zapatillas par'
+title: 'Descuento del 32.00748713149275 % en Dockers by Gerli 43cd011  Zapatillas par'
 date: 2019/12/02 09:46:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413AR21axZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413AR21axZL._SL200_.jpg' ]

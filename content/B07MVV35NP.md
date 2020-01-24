@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.51554685801261 % en 'Riuty Controlador Cargador Multifunciona'
+title: 'Descuento del 71.51554685801261 % en Riuty Controlador Cargador Multifunciona'
 date: 2019/12/08 20:06:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HMoRyIrXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HMoRyIrXL._SL200_.jpg' ]

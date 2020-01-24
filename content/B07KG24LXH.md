@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Jaab XT Wn s  Zapatillas Deportivas' al 62.95184490306441 % de descuento
+title: 'PUMA Jaab XT Wn s  Zapatillas Deportivas al 62.95184490306441 % de descuento'
 date: 2019/11/14 12:28:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gZRJ2QRYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gZRJ2QRYL._SL200_.jpg' ]

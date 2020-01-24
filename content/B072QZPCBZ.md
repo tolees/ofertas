@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers You-Transcend  Zapatillas sin C' al 58.970693352394576 % de descuento
+title: 'Skechers You-Transcend  Zapatillas sin C al 58.970693352394576 % de descuento'
 date: 2019/11/04 11:10:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kc6v4UbjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kc6v4UbjL._SL200_.jpg' ]

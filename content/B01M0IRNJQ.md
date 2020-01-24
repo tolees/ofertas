@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OTB Akku für Fuji NP-40 / Pentax D-LI85 ' al 37.33905579399141 % de descuento
+title: 'OTB Akku für Fuji NP-40 / Pentax D-LI85  al 37.33905579399141 % de descuento'
 date: 2019/12/04 20:19:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nQYVo8XEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nQYVo8XEL._SL200_.jpg' ]

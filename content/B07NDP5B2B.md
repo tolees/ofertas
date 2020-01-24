@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star Raw CPO Slim Camisa Vaquera  Mult' al 75.48885857207821 % de descuento
+title: 'G-Star Raw CPO Slim Camisa Vaquera  Mult al 75.48885857207821 % de descuento'
 date: 2019/12/01 18:21:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qXdQvijYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qXdQvijYL._SL200_.jpg' ]

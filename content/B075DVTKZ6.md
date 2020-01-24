@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Prozis Zero Snack Barra Rico En Proteína' al 29.823413996075864 % de descuento
+title: 'Prozis Zero Snack Barra Rico En Proteína al 29.823413996075864 % de descuento'
 date: 2020-01-04 18:36:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iBvXAAmaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iBvXAAmaL._SL200_.jpg' ]

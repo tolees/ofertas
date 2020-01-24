@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Classic Duffel Bag Bolsa De' al 55.666666666666664 % de descuento
+title: 'Helly Hansen Classic Duffel Bag Bolsa De al 55.666666666666664 % de descuento'
 date: 2019/11/07 19:05:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U4aNlLYzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U4aNlLYzL._SL200_.jpg' ]

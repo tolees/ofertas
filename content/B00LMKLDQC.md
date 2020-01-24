@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.01833944648216 % en 'Quiksilver Carver Suede M Sndl Sandalias'
+title: 'Descuento del 55.01833944648216 % en Quiksilver Carver Suede M Sndl Sandalias'
 date: 2019/12/05 10:45:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8EATZT2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8EATZT2L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Tawny Port  38' al 38.49916620344636 % de descuento
+title: 'Lee Rider Jeans Vaqueros  Tawny Port  38 al 38.49916620344636 % de descuento'
 date: 2020-01-04 16:49:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D6wluEkFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D6wluEkFL._SL200_.jpg' ]

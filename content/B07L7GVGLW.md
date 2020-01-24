@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Bevora C Sudadera  Azul  BLU M' al 33.70786516853933 % de descuento
+title: 'Napapijri Bevora C Sudadera  Azul  BLU M al 33.70786516853933 % de descuento'
 date: 2019/10/09 14:57:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GOci-8HkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GOci-8HkL._SL200_.jpg' ]

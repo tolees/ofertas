@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KIWI design Correa Ajustable de Nudillo ' al 36.01440576230491 % de descuento
+title: 'KIWI design Correa Ajustable de Nudillo  al 36.01440576230491 % de descuento'
 date: 2020-01-22 15:46:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t7w%2BhD%2BWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t7w%2BhD%2BWL._SL200_.jpg' ]

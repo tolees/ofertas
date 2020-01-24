@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL DreamWorks Spirit 70118 Pferde' al 30.02167027837974 % de descuento
+title: 'PLAYMOBIL DreamWorks Spirit 70118 Pferde al 30.02167027837974 % de descuento'
 date: 2020-01-22 10:32:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ifbY8o0hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ifbY8o0hL._SL200_.jpg' ]

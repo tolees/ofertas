@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Trucker Cap Gorra  Unisex Adulto  C' al 49.916434540389965 % de descuento
+title: 'PUMA Trucker Cap Gorra  Unisex Adulto  C al 49.916434540389965 % de descuento'
 date: 2019/11/24 10:26:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wvMX8DWlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wvMX8DWlL._SL200_.jpg' ]

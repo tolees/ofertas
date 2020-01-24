@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Movistar Riders Oficial 2019 Camiseta  A' al 62.47809762202754 % de descuento
+title: 'Movistar Riders Oficial 2019 Camiseta  A al 62.47809762202754 % de descuento'
 date: 2019/11/02 15:03:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zw9MZbUUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zw9MZbUUL._SL200_.jpg' ]

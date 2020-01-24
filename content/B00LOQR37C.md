@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'InterAxon Muse 05-61561 - Auriculares de' al 46.80622837370243 % de descuento
+title: 'InterAxon Muse 05-61561 - Auriculares de al 46.80622837370243 % de descuento'
 date: 2019/11/09 18:11:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w-TUb6hcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w-TUb6hcL._SL200_.jpg' ]

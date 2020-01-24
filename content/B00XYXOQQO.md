@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tantra Beaded Etnich Sandal - Sandalias ' al 95.125 % de descuento
+title: 'Tantra Beaded Etnich Sandal - Sandalias  al 95.125 % de descuento'
 date: 2019/10/31 17:26:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UYetxo3kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UYetxo3kL._SL200_.jpg' ]

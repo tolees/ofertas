@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '60 LED 10M Cadena Solar de Luces  IP65 I' al 49.01633877959319 % de descuento
+title: '60 LED 10M Cadena Solar de Luces  IP65 I al 49.01633877959319 % de descuento'
 date: 2020-01-23 20:27:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515M1e1-MyL._SL200_.jpg' ]

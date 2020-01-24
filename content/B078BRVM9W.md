@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.6375 % en 'Under Armour Forefront Rain Chaqueta  Ho'
+title: 'Descuento del 50.6375 % en Under Armour Forefront Rain Chaqueta  Ho'
 date: 2019/11/26 19:39:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YKOfk2CWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YKOfk2CWL._SL200_.jpg' ]

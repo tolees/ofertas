@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Danver - Mochila de Deporte Reckless  30' al 50.198300283286116 % de descuento
+title: 'Danver - Mochila de Deporte Reckless  30 al 50.198300283286116 % de descuento'
 date: 2019/10/09 14:47:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yZNYt91DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yZNYt91DL._SL200_.jpg' ]

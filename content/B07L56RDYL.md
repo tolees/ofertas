@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versace Jeans Couture Lady T-Shirt Camis' al 27.710843373493976 % de descuento
+title: 'Versace Jeans Couture Lady T-Shirt Camis al 27.710843373493976 % de descuento'
 date: 2019/11/19 19:57:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41igJnvfprL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41igJnvfprL._SL200_.jpg' ]

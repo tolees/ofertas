@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'J.Endéar Infinito Amor Amistad Cuerda Pu' al 70.02 % de descuento
+title: 'J.Endéar Infinito Amor Amistad Cuerda Pu al 70.02 % de descuento'
 date: 2020-01-22 12:30:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vmQe6uFYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vmQe6uFYL._SL200_.jpg' ]

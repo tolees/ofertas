@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.78 % en 'The North Face MC Murdo Parka Chaqueta D'
+title: 'Descuento del 37.78 % en The North Face MC Murdo Parka Chaqueta D'
 date: 2019/10/18 15:45:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tGYe3SZ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tGYe3SZ6L._SL200_.jpg' ]

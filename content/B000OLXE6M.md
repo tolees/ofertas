@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor CT As SP Hi  Zapat' al 40.57142857142857 % de descuento
+title: 'Converse Chuck Taylor CT As SP Hi  Zapat al 40.57142857142857 % de descuento'
 date: 2019/11/30 19:53:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nZUvcfTYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nZUvcfTYL._SL200_.jpg' ]

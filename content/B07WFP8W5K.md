@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.011202240448085 % en 'BTS Conjunto Dos Piezas Map of The Soul '
+title: 'Descuento del 56.011202240448085 % en BTS Conjunto Dos Piezas Map of The Soul '
 date: 2019/12/23 16:31:07 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

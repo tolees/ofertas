@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.7979797979798 % en 'Gardena NatureUp Clip de conexión  para '
+title: 'Descuento del 39.7979797979798 % en Gardena NatureUp Clip de conexión  para '
 date: 2020-01-20 09:09:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NwK9eyWML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NwK9eyWML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.19004751187798 % en 'Vero Moda Vmferndale Ls Long Drapey Card'
+title: 'Descuento del 60.19004751187798 % en Vero Moda Vmferndale Ls Long Drapey Card'
 date: 2019/11/04 13:51:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HEzQ3PP0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HEzQ3PP0L._SL200_.jpg' ]

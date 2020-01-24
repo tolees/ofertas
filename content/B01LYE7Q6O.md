@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Burst TR-Close Knit  Zapatillas' al 44.47321954090641 % de descuento
+title: 'Skechers Burst TR-Close Knit  Zapatillas al 44.47321954090641 % de descuento'
 date: 2019/10/06 18:10:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51436sCSsgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51436sCSsgL._SL200_.jpg' ]

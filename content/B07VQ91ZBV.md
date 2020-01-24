@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.61003861003861 % en 'Proze Cable de Carga USB-C 1M 5A Cable d'
+title: 'Descuento del 38.61003861003861 % en Proze Cable de Carga USB-C 1M 5A Cable d'
 date: 2019/11/24 06:25:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QknnY7QgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QknnY7QgL._SL200_.jpg' ]

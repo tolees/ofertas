@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.3397129186603 % en 'Gucci 0022S_001  57 mm  gafas de sol  Bl'
+title: 'Descuento del 35.3397129186603 % en Gucci 0022S_001  57 mm  gafas de sol  Bl'
 date: 2019/10/09 15:46:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DGk27XDOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DGk27XDOL._SL200_.jpg' ]

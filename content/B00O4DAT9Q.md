@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Komono Moneypenny Royale para Muje' al 42.88777698355969 % de descuento
+title: 'Reloj Komono Moneypenny Royale para Muje al 42.88777698355969 % de descuento'
 date: 2020-01-21 22:24:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IchI8dHXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IchI8dHXL._SL200_.jpg' ]

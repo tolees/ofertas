@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUTTY KITTY 6.5-7L Comedero Automático d' al 50.00390655519962 % de descuento
+title: 'PUTTY KITTY 6.5-7L Comedero Automático d al 50.00390655519962 % de descuento'
 date: 2019/10/08 11:37:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZrlS%2BzD2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZrlS%2BzD2L._SL200_.jpg' ]

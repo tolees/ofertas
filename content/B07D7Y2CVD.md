@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charles Wilson Camisa Original Manga Lar' al 62.94706723891274 % de descuento
+title: 'Charles Wilson Camisa Original Manga Lar al 62.94706723891274 % de descuento'
 date: 2020-01-24 07:35:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nWj4HBSpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nWj4HBSpL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LANGRIA Protector de Colchón de Bambú Hi' al 50.01000200040009 % de descuento
+title: 'LANGRIA Protector de Colchón de Bambú Hi al 50.01000200040009 % de descuento'
 date: 2019/10/18 08:54:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41820SMj1EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41820SMj1EL._SL200_.jpg' ]

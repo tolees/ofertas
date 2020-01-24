@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.79597620853458 % en 'Lacor Chef Luxe - Cacerola inoxidable'
+title: 'Descuento del 60.79597620853458 % en Lacor Chef Luxe - Cacerola inoxidable'
 date: 2019/10/29 16:57:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AZ9LEw5oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AZ9LEw5oL._SL200_.jpg' ]

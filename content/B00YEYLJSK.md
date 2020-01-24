@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.08921784356872 % en 'Columbia Fast Trek II Chaqueta Polar  Mu'
+title: 'Descuento del 46.08921784356872 % en Columbia Fast Trek II Chaqueta Polar  Mu'
 date: 2019/10/07 17:54:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MOZzR30FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MOZzR30FL._SL200_.jpg' ]

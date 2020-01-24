@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.28552855285529 % en 'HotOne Monederos y bolsos luminosos geom'
+title: 'Descuento del 55.28552855285529 % en HotOne Monederos y bolsos luminosos geom'
 date: 2020-01-13 18:32:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iqDpZEBEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iqDpZEBEL._SL200_.jpg' ]

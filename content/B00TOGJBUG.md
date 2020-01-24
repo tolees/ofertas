@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Anker - Set de Material Escolar GRU  Mi ' al 73.65869424692954 % de descuento
+title: 'Anker - Set de Material Escolar GRU  Mi  al 73.65869424692954 % de descuento'
 date: 2020-01-16 17:40:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iJIy32i6L._SL200_.jpg' ]

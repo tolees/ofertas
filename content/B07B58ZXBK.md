@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beurer IPO61 BT Pulsioxímetro de dedo co' al 42.78969957081545 % de descuento
+title: 'Beurer IPO61 BT Pulsioxímetro de dedo co al 42.78969957081545 % de descuento'
 date: 2019/12/21 16:54:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWM0sdgNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWM0sdgNL._SL200_.jpg' ]

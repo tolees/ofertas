@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. BAY001017W170205 vaqueros mujer  A'
+title: 'Descuento del 70.0 % en find. BAY001017W170205 vaqueros mujer  A'
 date: 2019/10/11 06:49:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rN0UkYD0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rN0UkYD0L._SL200_.jpg' ]

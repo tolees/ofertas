@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.65287606604972 % en 'Hackett Cotton Silk Crew suéter  Azul  B'
+title: 'Descuento del 32.65287606604972 % en Hackett Cotton Silk Crew suéter  Azul  B'
 date: 2019/12/06 08:45:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4151XmIqXCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4151XmIqXCL._SL200_.jpg' ]

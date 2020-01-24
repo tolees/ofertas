@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.44827203022558 % en 'Bluetooth Speaker 5.0  Tronsmart T6 Plus'
+title: 'Descuento del 34.44827203022558 % en Bluetooth Speaker 5.0  Tronsmart T6 Plus'
 date: 2019/10/08 16:34:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iGxSVxgvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iGxSVxgvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.02078521939954 % en 'Skechers Relven-Arkson  Zapatillas para '
+title: 'Descuento del 47.02078521939954 % en Skechers Relven-Arkson  Zapatillas para '
 date: 2019/10/05 19:09:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LTmie6%2B9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LTmie6%2B9L._SL200_.jpg' ]

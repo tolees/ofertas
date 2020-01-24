@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.949949949949946 % en 'Paladone Vaso Game Boy  15x9x9 cm'
+title: 'Descuento del 49.949949949949946 % en Paladone Vaso Game Boy  15x9x9 cm'
 date: 2019/12/11 08:37:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NIQkt1YHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NIQkt1YHL._SL200_.jpg' ]

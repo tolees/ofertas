@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Escada Magnetism Agua de perfume Vaporiz' al 52.35064935064935 % de descuento
+title: 'Escada Magnetism Agua de perfume Vaporiz al 52.35064935064935 % de descuento'
 date: 2019/10/05 23:09:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qMoxQr-kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qMoxQr-kL._SL200_.jpg' ]

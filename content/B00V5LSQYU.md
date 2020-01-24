@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Pantalón Deporte Core Modern Gris ' al 65.6011802311286 % de descuento
+title: 'Kempa Pantalón Deporte Core Modern Gris  al 65.6011802311286 % de descuento'
 date: 2020-01-06 08:51:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aDJHLuHrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lenovo ideapad 330-15ICH - Ordenador Por' al 30.463499151143047 % de descuento
+title: 'Lenovo ideapad 330-15ICH - Ordenador Por al 30.463499151143047 % de descuento'
 date: 2020-01-07 17:39:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yMrMfVaVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yMrMfVaVL._SL200_.jpg' ]

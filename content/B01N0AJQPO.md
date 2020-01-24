@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.16 % en 'Under Armour Speed Stride 1/4 Zip Sudade'
+title: 'Descuento del 68.16 % en Under Armour Speed Stride 1/4 Zip Sudade'
 date: 2019/10/27 17:47:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PNGWZgxYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PNGWZgxYL._SL200_.jpg' ]

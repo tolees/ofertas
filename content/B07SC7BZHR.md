@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Ultra 512GB Microsdxc Speicherka' al 42.268978505097735 % de descuento
+title: 'SanDisk Ultra 512GB Microsdxc Speicherka al 42.268978505097735 % de descuento'
 date: 2020-01-09 08:03:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ikVLl%2BgpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ikVLl%2BgpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sideline 319 1 CMA  Zapatillas p' al 60.47058823529412 % de descuento
+title: 'Lacoste Sideline 319 1 CMA  Zapatillas p al 60.47058823529412 % de descuento'
 date: 2019/11/10 11:50:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IrfBz27qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IrfBz27qL._SL200_.jpg' ]

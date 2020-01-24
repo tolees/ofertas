@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BIC Plastidecor Peques - Estuche con 12 ' al 29.1970802919708 % de descuento
+title: 'BIC Plastidecor Peques - Estuche con 12  al 29.1970802919708 % de descuento'
 date: 2019/12/16 22:20:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Cub7izXaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Cub7izXaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Preservativos Dame Placer con Punt' al 49.206349206349195 % de descuento
+title: 'Durex Preservativos Dame Placer con Punt al 49.206349206349195 % de descuento'
 date: 2020-01-23 12:27:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg' ]

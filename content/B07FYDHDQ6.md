@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler 5 Pocket Short Pantalones Corto' al 49.992301770592775 % de descuento
+title: 'Wrangler 5 Pocket Short Pantalones Corto al 49.992301770592775 % de descuento'
 date: 2019/12/11 23:43:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BqFxWPryL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BqFxWPryL._SL200_.jpg' ]

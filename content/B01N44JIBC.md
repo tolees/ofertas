@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon - Funda para Fire HD 8  tablet de' al 27.282648235722085 % de descuento
+title: 'Amazon - Funda para Fire HD 8  tablet de al 27.282648235722085 % de descuento'
 date: 2020-01-24 13:23:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QXrk4jrxL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QXrk4jrxL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.91314954867042 % en 'ROC Pro Define - Crema Anti Flacidez  Re'
+title: 'Descuento del 43.91314954867042 % en ROC Pro Define - Crema Anti Flacidez  Re'
 date: 2019/11/15 17:58:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WUMKEIjTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WUMKEIjTL._SL200_.jpg' ]

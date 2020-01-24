@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Durex Play Lubricante Sabor Fresa 50 ml' al 27.313566936208456 % de descuento
+title: 'Durex Play Lubricante Sabor Fresa 50 ml al 27.313566936208456 % de descuento'
 date: 2019/12/21 14:02:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DREDKXqmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DREDKXqmL._SL200_.jpg' ]

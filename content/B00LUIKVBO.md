@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Originals Adidas Stan Smith M2032' al 34.186413902053715 % de descuento
+title: 'adidas Originals Adidas Stan Smith M2032 al 34.186413902053715 % de descuento'
 date: 2019/12/04 04:43:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312tRH%2B5PqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312tRH%2B5PqL._SL200_.jpg' ]

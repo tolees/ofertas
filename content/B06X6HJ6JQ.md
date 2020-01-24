@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj PUMA Time - Hombre PU911261005' al 47.36363636363636 % de descuento
+title: 'Reloj PUMA Time - Hombre PU911261005 al 47.36363636363636 % de descuento'
 date: 2020-01-22 21:34:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cHeAXZH3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cHeAXZH3L._SL200_.jpg' ]

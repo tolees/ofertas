@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.400000000000006 % en 'Mr. Tronic 15m Cable de Red Ethernet Lat'
+title: 'Descuento del 53.400000000000006 % en Mr. Tronic 15m Cable de Red Ethernet Lat'
 date: 2019/11/23 22:16:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xXnWj6VsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xXnWj6VsL._SL200_.jpg' ]

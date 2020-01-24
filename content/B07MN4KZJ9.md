@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.987496526813 % en 'adidas Ultraboost 19 M  Zapatillas de Ru'
+title: 'Descuento del 34.987496526813 % en adidas Ultraboost 19 M  Zapatillas de Ru'
 date: 2020-01-05 08:40:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QJrcgV1wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QJrcgV1wL._SL200_.jpg' ]

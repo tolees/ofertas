@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yokai - Pack de 5 figuras Nate y los Yo-' al 75.2917639213071 % de descuento
+title: 'Yokai - Pack de 5 figuras Nate y los Yo- al 75.2917639213071 % de descuento'
 date: 2019/10/13 12:45:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R7vizs4jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R7vizs4jL._SL200_.jpg' ]

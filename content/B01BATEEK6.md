@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black+Decker GWC1820PC-QW - Soplador Pow' al 30.613915416098227 % de descuento
+title: 'Black+Decker GWC1820PC-QW - Soplador Pow al 30.613915416098227 % de descuento'
 date: 2020-01-16 13:32:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mNPF4GSQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mNPF4GSQL._SL200_.jpg' ]

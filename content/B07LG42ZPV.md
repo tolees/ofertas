@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Kalispera Girl A  Zapatillas Alta' al 40.92307692307693 % de descuento
+title: 'Geox J Kalispera Girl A  Zapatillas Alta al 40.92307692307693 % de descuento'
 date: 2020-01-03 08:43:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TY3YSOGVL._SL200_.jpg' ]

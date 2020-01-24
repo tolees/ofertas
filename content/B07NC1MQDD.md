@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01000200040009 % en 'A Plague Tale: Innocence'
+title: 'Descuento del 50.01000200040009 % en A Plague Tale: Innocence'
 date: 2019/12/23 06:00:09 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

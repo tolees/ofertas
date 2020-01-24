@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.729423868312765 % en 'GRACE KARIN Niña Vestido de Dama de Hono'
+title: 'Descuento del 53.729423868312765 % en GRACE KARIN Niña Vestido de Dama de Hono'
 date: 2019/11/01 14:56:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wfeNtXr-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wfeNtXr-L._SL200_.jpg' ]

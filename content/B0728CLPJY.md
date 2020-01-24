@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BB-9E App-Enabled Droid con Droid Traine' al 50.01000066671111 % de descuento
+title: 'BB-9E App-Enabled Droid con Droid Traine al 50.01000066671111 % de descuento'
 date: 2019/12/10 08:19:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415TU%2BVreeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415TU%2BVreeL._SL200_.jpg' ]

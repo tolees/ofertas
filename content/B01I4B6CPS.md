@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans VA38FSMML  Zapatilla Hombre  Azul  ' al 41.2 % de descuento
+title: 'Vans VA38FSMML  Zapatilla Hombre  Azul   al 41.2 % de descuento'
 date: 2019/11/15 21:56:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RchsE7wNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RchsE7wNL._SL200_.jpg' ]

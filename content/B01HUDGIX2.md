@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO: Batman 3 - Essentials' al 26.329647182727744 % de descuento
+title: 'LEGO: Batman 3 - Essentials al 26.329647182727744 % de descuento'
 date: 2019/12/12 18:04:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61DgLaWG9QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61DgLaWG9QL._SL200_.jpg' ]

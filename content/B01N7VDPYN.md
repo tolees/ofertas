@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox UOMO Symbol B  Zapatos de Cordones ' al 41.151151151151154 % de descuento
+title: 'Geox UOMO Symbol B  Zapatos de Cordones  al 41.151151151151154 % de descuento'
 date: 2019/12/12 19:24:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XnNddeROL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XnNddeROL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour 1294215 - Camiseta para hom' al 57.825464949928474 % de descuento
+title: 'Under Armour 1294215 - Camiseta para hom al 57.825464949928474 % de descuento'
 date: 2019/10/28 20:30:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QyC8lMBbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QyC8lMBbL._SL200_.jpg' ]

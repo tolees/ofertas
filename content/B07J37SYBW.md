@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Undeniable Duffel 4.0 MD Bo' al 43.35555555555556 % de descuento
+title: 'Under Armour Undeniable Duffel 4.0 MD Bo al 43.35555555555556 % de descuento'
 date: 2019/12/17 10:59:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rSFNogTgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rSFNogTgL._SL200_.jpg' ]

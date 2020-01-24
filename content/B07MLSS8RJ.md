@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks - Botines de Cuero Hombre  Color ' al 65.4307424700174 % de descuento
+title: 'Clarks - Botines de Cuero Hombre  Color  al 65.4307424700174 % de descuento'
 date: 2019/10/29 07:54:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ybthY6bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ybthY6bL._SL200_.jpg' ]

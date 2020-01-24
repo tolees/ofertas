@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam Zante  Zapatillas' al 59.06 % de descuento
+title: 'New Balance Fresh Foam Zante  Zapatillas al 59.06 % de descuento'
 date: 2019/10/25 01:10:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L-2XEEaqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L-2XEEaqL._SL200_.jpg' ]

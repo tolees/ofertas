@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.32397075798383 % en 'Ravensburger Kinderspiele 21353 Monsters'
+title: 'Descuento del 42.32397075798383 % en Ravensburger Kinderspiele 21353 Monsters'
 date: 2019/12/26 09:05:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/610QYYl6sDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/610QYYl6sDL._SL200_.jpg' ]

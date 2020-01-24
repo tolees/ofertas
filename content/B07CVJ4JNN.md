@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Side Street-tegu  Zapatillas pa' al 29.94611239414935 % de descuento
+title: 'Skechers Side Street-tegu  Zapatillas pa al 29.94611239414935 % de descuento'
 date: 2019/12/11 07:55:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31skghjFKlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31skghjFKlL._SL200_.jpg' ]

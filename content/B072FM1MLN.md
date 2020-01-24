@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Zapatillas Clásicas con Cordones p' al 54.773869346733676 % de descuento
+title: 'find. Zapatillas Clásicas con Cordones p al 54.773869346733676 % de descuento'
 date: 2019/12/03 13:11:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ec1aSgDjL._SL200_.jpg' ]

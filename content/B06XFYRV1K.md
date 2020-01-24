@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.14285714285715 % en 'LEVIS FOOTWEAR AND ACCESSORIES New Dunca'
+title: 'Descuento del 30.14285714285715 % en LEVIS FOOTWEAR AND ACCESSORIES New Dunca'
 date: 2019/12/19 14:23:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VSXBsdxhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VSXBsdxhL._SL200_.jpg' ]

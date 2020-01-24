@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.34167318217357 % en 'dockers Alpha Original Khaki Slim Tapere'
+title: 'Descuento del 37.34167318217357 % en dockers Alpha Original Khaki Slim Tapere'
 date: 2019/12/20 14:56:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hdsdoLzSL._SL200_.jpg' ]

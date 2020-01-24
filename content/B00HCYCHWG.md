@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD 3TB  Elements Desktop External Hard D' al 41.03543390621686 % de descuento
+title: 'WD 3TB  Elements Desktop External Hard D al 41.03543390621686 % de descuento'
 date: 2020-01-08 12:47:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319MBS4mOlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319MBS4mOlL._SL200_.jpg' ]

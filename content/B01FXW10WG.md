@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Cumulus 18 Zapatillas de runni' al 50.42857142857142 % de descuento
+title: 'Asics Gel-Cumulus 18 Zapatillas de runni al 50.42857142857142 % de descuento'
 date: 2019/10/16 10:54:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5191yjkjhXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5191yjkjhXL._SL200_.jpg' ]

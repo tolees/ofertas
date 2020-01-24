@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LOMOS mesas de café Finja en Blanco Comp' al 30.06503251625813 % de descuento
+title: 'LOMOS mesas de café Finja en Blanco Comp al 30.06503251625813 % de descuento'
 date: 2019/12/07 20:07:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EwwInLWOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EwwInLWOL._SL200_.jpg' ]

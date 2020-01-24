@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.29603289254361 % en 'Gant D1. TP Broadcloth Plaid Reg BD Cami'
+title: 'Descuento del 64.29603289254361 % en Gant D1. TP Broadcloth Plaid Reg BD Cami'
 date: 2019/11/09 10:48:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gh3IC9hwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gh3IC9hwL._SL200_.jpg' ]

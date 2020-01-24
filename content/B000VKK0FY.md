@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Speedo Swedish Gafas de Natación  Unisex' al 34.49612403100776 % de descuento
+title: 'Speedo Swedish Gafas de Natación  Unisex al 34.49612403100776 % de descuento'
 date: 2019/10/18 19:29:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gG0HPxBHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gG0HPxBHL._SL200_.jpg' ]

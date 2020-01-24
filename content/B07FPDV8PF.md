@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RAOYI Memoria Flash USB 2.0 de 32GB Pend' al 43.34778259419807 % de descuento
+title: 'RAOYI Memoria Flash USB 2.0 de 32GB Pend al 43.34778259419807 % de descuento'
 date: 2019/10/17 09:53:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419c2Hh5P-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419c2Hh5P-L._SL200_.jpg' ]

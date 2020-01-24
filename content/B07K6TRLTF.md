@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.206677265500794 % en 'Sangean DDR-66BT  SmartLink 9  Minicaden'
+title: 'Descuento del 30.206677265500794 % en Sangean DDR-66BT  SmartLink 9  Minicaden'
 date: 2019/10/19 09:16:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QdKjYC5XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QdKjYC5XL._SL200_.jpg' ]

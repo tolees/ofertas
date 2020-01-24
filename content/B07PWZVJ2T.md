@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG XBOOM LK72B - Conjunto de Altavoces 2' al 38.57798165137615 % de descuento
+title: 'LG XBOOM LK72B - Conjunto de Altavoces 2 al 38.57798165137615 % de descuento'
 date: 2019/10/19 18:20:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wY0av7t5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wY0av7t5L._SL200_.jpg' ]

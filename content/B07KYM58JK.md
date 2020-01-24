@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 6Re Logo Colores Orgánico Je' al 37.36407133536319 % de descuento
+title: 'Springfield 6Re Logo Colores Orgánico Je al 37.36407133536319 % de descuento'
 date: 2019/12/02 18:39:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L5GOy2W%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L5GOy2W%2BL._SL200_.jpg' ]

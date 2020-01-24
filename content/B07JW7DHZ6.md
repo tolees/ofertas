@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW ARC 3D Relaxed Tapered Fit Je' al 66.98106466595213 % de descuento
+title: 'G-STAR RAW ARC 3D Relaxed Tapered Fit Je al 66.98106466595213 % de descuento'
 date: 2019/10/15 13:15:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r6C5baa4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r6C5baa4L._SL200_.jpg' ]

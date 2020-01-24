@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Anton Studio Designs Juego de 6 Copas de' al 44.308184484137556 % de descuento
+title: 'Anton Studio Designs Juego de 6 Copas de al 44.308184484137556 % de descuento'
 date: 2019/10/29 22:51:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zyFLP%2BI6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zyFLP%2BI6L._SL200_.jpg' ]

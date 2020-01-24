@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Dualtone Racer  Gs  Zapatillas de G' al 58.90140845070422 % de descuento
+title: 'Nike Dualtone Racer  Gs  Zapatillas de G al 58.90140845070422 % de descuento'
 date: 2019/10/18 20:20:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZG44ZkNJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZG44ZkNJL._SL200_.jpg' ]

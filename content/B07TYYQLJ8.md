@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Marve' al 75.00750075007501 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for LEGO Marve al 75.00750075007501 % de descuento'
 date: 2019/12/22 00:27:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41erjSQt6cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41erjSQt6cL._SL200_.jpg' ]

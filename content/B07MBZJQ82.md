@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Highwaist Vaqueros Skinny  Azul' al 52.78246205733558 % de descuento
+title: 'New Look Highwaist Vaqueros Skinny  Azul al 52.78246205733558 % de descuento'
 date: 2019/10/15 21:21:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oiUCNyueL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oiUCNyueL._SL200_.jpg' ]

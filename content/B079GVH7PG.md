@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Un Cruise Lace  Zapatos de Cordon' al 60.663636363636364 % de descuento
+title: 'Clarks Un Cruise Lace  Zapatos de Cordon al 60.663636363636364 % de descuento'
 date: 2019/11/21 03:15:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z579SUrHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z579SUrHL._SL200_.jpg' ]

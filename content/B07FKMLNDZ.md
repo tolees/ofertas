@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.58461538461538 % en 'The North Face Resolve II Parka para Muj'
+title: 'Descuento del 71.58461538461538 % en The North Face Resolve II Parka para Muj'
 date: 2019/10/25 15:03:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XvUyUrOHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XvUyUrOHL._SL200_.jpg' ]

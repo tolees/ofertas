@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.00208350695892 % en 'ISE Multifuncional Banco de Pesas Plegab'
+title: 'Descuento del 25.00208350695892 % en ISE Multifuncional Banco de Pesas Plegab'
 date: 2019/11/07 20:35:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JNSbXZ8pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JNSbXZ8pL._SL200_.jpg' ]

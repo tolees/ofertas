@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.455811138014525 % en 'FurReal Friends JJ  mein hopsender Mops'
+title: 'Descuento del 61.455811138014525 % en FurReal Friends JJ  mein hopsender Mops'
 date: 2020-01-16 22:19:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XPaozXiIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XPaozXiIL._SL200_.jpg' ]

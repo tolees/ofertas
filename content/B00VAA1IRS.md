@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips HF3506/05 Wake-up Light LED  Auf' al 58.33819484957079 % de descuento
+title: 'Philips HF3506/05 Wake-up Light LED  Auf al 58.33819484957079 % de descuento'
 date: 2019/12/12 00:34:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wokBDqmSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wokBDqmSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YATO YT-3400 - sierra de calar filo de l' al 36.711590296495956 % de descuento
+title: 'YATO YT-3400 - sierra de calar filo de l al 36.711590296495956 % de descuento'
 date: 2019/10/08 03:26:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41av1dS9F5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41av1dS9F5L._SL200_.jpg' ]

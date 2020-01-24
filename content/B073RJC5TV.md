@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.47819871336668 % en 'Reebok Cmplt CLN LX  Zapatillas de Gimna'
+title: 'Descuento del 49.47819871336668 % en Reebok Cmplt CLN LX  Zapatillas de Gimna'
 date: 2019/10/31 17:11:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BU-WRCeNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BU-WRCeNL._SL200_.jpg' ]

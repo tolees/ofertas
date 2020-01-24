@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Cumulus 20 1011a008-401  Zapat' al 47.23613595706618 % de descuento
+title: 'Asics Gel-Cumulus 20 1011a008-401  Zapat al 47.23613595706618 % de descuento'
 date: 2019/12/18 08:06:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U573yul3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U573yul3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.18754688672168 % en 'JACK & JONES Joreris Hood STS Capucha  R'
+title: 'Descuento del 50.18754688672168 % en JACK & JONES Joreris Hood STS Capucha  R'
 date: 2019/10/18 12:34:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aKi1dKLrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aKi1dKLrL._SL200_.jpg' ]

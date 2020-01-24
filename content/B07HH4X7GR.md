@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Borealis Classic Mochila ' al 40.0 % de descuento
+title: 'The North Face Borealis Classic Mochila  al 40.0 % de descuento'
 date: 2020-01-22 17:28:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bL%2BNYjUaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bL%2BNYjUaL._SL200_.jpg' ]

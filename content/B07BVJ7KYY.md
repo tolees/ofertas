@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Alyn Sudadera  Mujer  Gris/Negro  ' al 67.2909090909091 % de descuento
+title: 'Kappa Alyn Sudadera  Mujer  Gris/Negro   al 67.2909090909091 % de descuento'
 date: 2019/12/13 11:01:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TxS44KTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TxS44KTBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Razer Kraken Pro V2 Oval Auriculares par' al 33.3592621402378 % de descuento
+title: 'Razer Kraken Pro V2 Oval Auriculares par al 33.3592621402378 % de descuento'
 date: 2020-01-18 20:41:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y15ll9pmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y15ll9pmL._SL200_.jpg' ]

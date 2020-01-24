@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nixon Reloj Analogico para Hombre de Cua' al 35.68686868686869 % de descuento
+title: 'Nixon Reloj Analogico para Hombre de Cua al 35.68686868686869 % de descuento'
 date: 2019/11/02 09:01:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WE5B9EyFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WE5B9EyFL._SL200_.jpg' ]

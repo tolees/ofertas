@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG G8s Smartphone  15 77 cm  6 21 Zoll  ' al 41.482444733420024 % de descuento
+title: 'LG G8s Smartphone  15 77 cm  6 21 Zoll   al 41.482444733420024 % de descuento'
 date: 2020-01-17 23:09:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413vLNrC0zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413vLNrC0zL._SL200_.jpg' ]

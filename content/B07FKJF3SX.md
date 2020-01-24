@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 81.38023003833972 % en 'Darksiders III - Edición Estándar'
+title: 'Descuento del 81.38023003833972 % en Darksiders III - Edición Estándar'
 date: 2020-01-04 16:45:17
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

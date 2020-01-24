@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blackhole: Complete Edition' al 36.969985707479744 % de descuento
+title: 'Blackhole: Complete Edition al 36.969985707479744 % de descuento'
 date: 2019/11/15 20:41:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OjteUSYBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OjteUSYBL._SL200_.jpg' ]

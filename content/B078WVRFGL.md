@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Unlined Bralette Sujetador ' al 40.65625000000001 % de descuento
+title: 'Calvin Klein Unlined Bralette Sujetador  al 40.65625000000001 % de descuento'
 date: 2020-01-05 20:55:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sfn2f3pQL._SL200_.jpg' ]

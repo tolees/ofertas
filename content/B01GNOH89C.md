@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etekcity EB9388H Báscula de Baño Digital' al 25.011368804001822 % de descuento
+title: 'Etekcity EB9388H Báscula de Baño Digital al 25.011368804001822 % de descuento'
 date: 2019/12/02 10:38:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rID-xTqnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rID-xTqnL._SL200_.jpg' ]

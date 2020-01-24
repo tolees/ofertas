@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.93322203672789 % en 'Ymea Menopausia Vientre Plano - Donación'
+title: 'Descuento del 39.93322203672789 % en Ymea Menopausia Vientre Plano - Donación'
 date: 2019/10/17 11:43:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n1O8jOIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n1O8jOIJL._SL200_.jpg' ]

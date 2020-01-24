@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.50833333333334 % en 'Lacoste Ph4223 Polo  Azul  Marine/Farine'
+title: 'Descuento del 46.50833333333334 % en Lacoste Ph4223 Polo  Azul  Marine/Farine'
 date: 2019/10/14 08:21:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wcg0QlkyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wcg0QlkyL._SL200_.jpg' ]

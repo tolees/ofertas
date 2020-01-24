@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Chaqueta deportiva c' al 29.411764705882348 % de descuento
+title: 'Amazon Essentials - Chaqueta deportiva c al 29.411764705882348 % de descuento'
 date: 2019/11/01 09:32:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4157JdIBz3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4157JdIBz3L._SL200_.jpg' ]

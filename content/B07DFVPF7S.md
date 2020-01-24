@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Plunge  Sujetador con Push-' al 55.91666666666666 % de descuento
+title: 'Calvin Klein Plunge  Sujetador con Push- al 55.91666666666666 % de descuento'
 date: 2019/11/18 10:21:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dGLyoHmqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dGLyoHmqL._SL200_.jpg' ]

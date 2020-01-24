@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Cyber-Shot DSC-WX500 - Cámara compa' al 42.165 % de descuento
+title: 'Sony Cyber-Shot DSC-WX500 - Cámara compa al 42.165 % de descuento'
 date: 2019/10/26 10:27:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg' ]

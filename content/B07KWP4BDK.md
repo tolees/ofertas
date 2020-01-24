@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coronel Tapiocca Mochila Urban Coronel T' al 45.899864682002715 % de descuento
+title: 'Coronel Tapiocca Mochila Urban Coronel T al 45.899864682002715 % de descuento'
 date: 2019/10/10 20:08:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310-JTZtsVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310-JTZtsVL._SL200_.jpg' ]

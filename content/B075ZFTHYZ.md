@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.70609318996416 % en 'Hugo BOSS Reloj Análogo clásico para Hom'
+title: 'Descuento del 32.70609318996416 % en Hugo BOSS Reloj Análogo clásico para Hom'
 date: 2019/10/19 20:34:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tDcWe5m4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tDcWe5m4L._SL200_.jpg' ]

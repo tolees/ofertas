@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Jaysen a  Zapatillas para Mujer  ' al 70.72631578947369 % de descuento
+title: 'Geox D Jaysen a  Zapatillas para Mujer   al 70.72631578947369 % de descuento'
 date: 2019/12/09 09:56:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XwJD8GUlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XwJD8GUlL._SL200_.jpg' ]

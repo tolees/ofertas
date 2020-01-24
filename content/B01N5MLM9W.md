@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.975987993996995 % en 'Sony MDR-XB950N1 kabelloser Kopfhörer mi'
+title: 'Descuento del 51.975987993996995 % en Sony MDR-XB950N1 kabelloser Kopfhörer mi'
 date: 2020-01-19 08:50:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411%2BiEMpsWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411%2BiEMpsWL._SL200_.jpg' ]

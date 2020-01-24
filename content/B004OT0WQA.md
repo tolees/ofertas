@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.85484677476963 % en 'LEGO Sponge Bob 3815: Heroic Heroes of t'
+title: 'Descuento del 67.85484677476963 % en LEGO Sponge Bob 3815: Heroic Heroes of t'
 date: 2019/12/03 13:13:38 +0000
 thumbnailImage: ''
 images: [ '' ]

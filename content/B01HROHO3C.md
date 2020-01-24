@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.83435241801001 % en 'Onitsuka Tiger Mexico 66  Zapatillas de '
+title: 'Descuento del 41.83435241801001 % en Onitsuka Tiger Mexico 66  Zapatillas de '
 date: 2020-01-12 05:02:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e1c9DJSFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e1c9DJSFL._SL200_.jpg' ]

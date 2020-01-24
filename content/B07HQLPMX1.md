@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.25549658832449 % en 'SLTX Remote Controller with Free Silicon'
+title: 'Descuento del 77.25549658832449 % en SLTX Remote Controller with Free Silicon'
 date: 2019/12/11 09:11:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317ALlM54JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317ALlM54JL._SL200_.jpg' ]

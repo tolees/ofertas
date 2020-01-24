@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tous Vera - Bolso para Mujer  Beige  Top' al 34.867924528301884 % de descuento
+title: 'Tous Vera - Bolso para Mujer  Beige  Top al 34.867924528301884 % de descuento'
 date: 2019/10/09 08:09:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HyCA91rLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HyCA91rLL._SL200_.jpg' ]

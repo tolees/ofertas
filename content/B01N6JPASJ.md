@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'eXtremeRate 2 Pares de Gatillo Extensor ' al 52.6592943654555 % de descuento
+title: 'eXtremeRate 2 Pares de Gatillo Extensor  al 52.6592943654555 % de descuento'
 date: 2020-01-06 12:45:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eNtRPmVWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eNtRPmVWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio G-SHOCK Reloj Digital  Reloj radio' al 42.19219219219219 % de descuento
+title: 'Casio G-SHOCK Reloj Digital  Reloj radio al 42.19219219219219 % de descuento'
 date: 2020-01-12 14:42:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CKrux0ZKL._SL200_.jpg' ]

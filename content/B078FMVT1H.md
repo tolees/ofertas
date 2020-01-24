@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.366666666666674 % en 'Under Armour Brawler Tapered Pant Pantal'
+title: 'Descuento del 54.366666666666674 % en Under Armour Brawler Tapered Pant Pantal'
 date: 2019/10/27 14:48:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zeoEAMFKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zeoEAMFKL._SL200_.jpg' ]

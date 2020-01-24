@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.20584144645341 % en 'Desigual 17WGTK59  Camiseta de Manga Lar'
+title: 'Descuento del 58.20584144645341 % en Desigual 17WGTK59  Camiseta de Manga Lar'
 date: 2019/12/27 13:25:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v3piLsbUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v3piLsbUL._SL200_.jpg' ]

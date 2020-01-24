@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panter 350051715 - RAMBO NEGRO Talla: 41' al 68.2646212847555 % de descuento
+title: 'Panter 350051715 - RAMBO NEGRO Talla: 41 al 68.2646212847555 % de descuento'
 date: 2019/10/23 13:47:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JJJ1WlvkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JJJ1WlvkL._SL200_.jpg' ]

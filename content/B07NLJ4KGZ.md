@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versace Jeans CoutureBorsaMujerBolsos ba' al 42.29255319148937 % de descuento
+title: 'Versace Jeans CoutureBorsaMujerBolsos ba al 42.29255319148937 % de descuento'
 date: 2019/11/25 21:38:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Lxn5sm-2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Lxn5sm-2L._SL200_.jpg' ]

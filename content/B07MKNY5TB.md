@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.504063007875985 % en 'Venga! VG AFT 3005 - Freidora de aire si'
+title: 'Descuento del 32.504063007875985 % en Venga! VG AFT 3005 - Freidora de aire si'
 date: 2019/11/10 09:11:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315Y7x7X3tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315Y7x7X3tL._SL200_.jpg' ]

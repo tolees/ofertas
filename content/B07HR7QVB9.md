@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gaatpot Zapatos Invierno Botas Forradas ' al 25.875000000000004 % de descuento
+title: 'Gaatpot Zapatos Invierno Botas Forradas  al 25.875000000000004 % de descuento'
 date: 2020-01-23 13:33:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b3sd41cxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b3sd41cxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.59534467323188 % en 'Adidas Daily 2.0  Zapatillas para Hombre'
+title: 'Descuento del 35.59534467323188 % en Adidas Daily 2.0  Zapatillas para Hombre'
 date: 2020-01-08 14:10:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3125jyC3UfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3125jyC3UfL._SL200_.jpg' ]

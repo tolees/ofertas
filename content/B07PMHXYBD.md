@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Necetwo Polo  Azul  Baby Blue Baby' al 45.222611305652826 % de descuento
+title: 'Celio Necetwo Polo  Azul  Baby Blue Baby al 45.222611305652826 % de descuento'
 date: 2019/11/01 15:58:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pYrKqPyGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pYrKqPyGL._SL200_.jpg' ]

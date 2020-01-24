@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.851617205735245 % en 'Columbia Chaqueta Polar con Media Cremal'
+title: 'Descuento del 54.851617205735245 % en Columbia Chaqueta Polar con Media Cremal'
 date: 2019/11/03 17:40:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31e5OlAYyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31e5OlAYyQL._SL200_.jpg' ]

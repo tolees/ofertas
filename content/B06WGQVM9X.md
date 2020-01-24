@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazy Funda para Tarjeta Protectora RFID' al 54.570259208731244 % de descuento
+title: 'Amazy Funda para Tarjeta Protectora RFID al 54.570259208731244 % de descuento'
 date: 2019/11/20 08:16:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4196tenkhtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4196tenkhtL._SL200_.jpg' ]

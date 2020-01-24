@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.59493670886075 % en 'Lotus Reloj Analógico para Niñas de Cuar'
+title: 'Descuento del 42.59493670886075 % en Lotus Reloj Analógico para Niñas de Cuar'
 date: 2019/10/20 21:17:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RPxsWODyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RPxsWODyL._SL200_.jpg' ]

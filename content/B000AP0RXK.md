@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Classic Nylon Zapatilla de Runnin' al 55.03931379556827 % de descuento
+title: 'Reebok Classic Nylon Zapatilla de Runnin al 55.03931379556827 % de descuento'
 date: 2020-01-07 16:00:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hYP-0ugRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hYP-0ugRL._SL200_.jpg' ]

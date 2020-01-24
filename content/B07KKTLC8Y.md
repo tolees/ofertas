@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joseph Joseph Juego de Tablas para Corta' al 28.06585628558239 % de descuento
+title: 'Joseph Joseph Juego de Tablas para Corta al 28.06585628558239 % de descuento'
 date: 2020-01-21 23:36:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UVLOYX3TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UVLOYX3TL._SL200_.jpg' ]

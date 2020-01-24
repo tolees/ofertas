@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.768115942028984 % en 'Swarovski Remix Collection  Strand Pearl'
+title: 'Descuento del 39.768115942028984 % en Swarovski Remix Collection  Strand Pearl'
 date: 2019/12/02 08:08:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BeMX6IueL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BeMX6IueL._SL200_.jpg' ]

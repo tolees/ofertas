@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mx Onda - Reloj Analógico de Cuarzo para' al 68.71088861076345 % de descuento
+title: 'Mx Onda - Reloj Analógico de Cuarzo para al 68.71088861076345 % de descuento'
 date: 2020-01-17 17:24:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ayFPY853L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ayFPY853L._SL200_.jpg' ]

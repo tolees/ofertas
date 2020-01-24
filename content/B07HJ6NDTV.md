@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko- Pop Vinyl: Animation: Rick & Mort' al 45.141065830721004 % de descuento
+title: 'Funko- Pop Vinyl: Animation: Rick & Mort al 45.141065830721004 % de descuento'
 date: 2019/12/16 18:16:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51noGzxLMBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51noGzxLMBL._SL200_.jpg' ]

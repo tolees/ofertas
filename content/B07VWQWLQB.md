@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rubie s Official Disney Frozen 2  Olaf A' al 31.012404961984796 % de descuento
+title: 'Rubie s Official Disney Frozen 2  Olaf A al 31.012404961984796 % de descuento'
 date: 2019/12/20 01:44:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iezxvQXdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iezxvQXdL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SCHWARZKOPF BC SCALP GENESIS CHAMPU PURI' al 43.41637010676157 % de descuento
+title: 'SCHWARZKOPF BC SCALP GENESIS CHAMPU PURI al 43.41637010676157 % de descuento'
 date: 2019/10/30 13:45:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314mILyRswL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314mILyRswL._SL200_.jpg' ]

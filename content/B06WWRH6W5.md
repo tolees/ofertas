@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.19095258808177 % en 'Revell Control 24710 - Technik RC Car al'
+title: 'Descuento del 39.19095258808177 % en Revell Control 24710 - Technik RC Car al'
 date: 2020-01-19 11:12:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JZXPGnZNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JZXPGnZNL._SL200_.jpg' ]

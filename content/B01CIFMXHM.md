@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.809218950064018 % en 'Tefal Expertise - Sartén de aluminio de '
+title: 'Descuento del 28.809218950064018 % en Tefal Expertise - Sartén de aluminio de '
 date: 2019/11/01 20:14:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B89GPCxsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B89GPCxsL._SL200_.jpg' ]

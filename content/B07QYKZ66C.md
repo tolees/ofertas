@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.69603369603369 % en 'Foshine Depiladora Facial Mujer Recargad'
+title: 'Descuento del 33.69603369603369 % en Foshine Depiladora Facial Mujer Recargad'
 date: 2019/11/13 10:50:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OUyq2XuiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OUyq2XuiL._SL200_.jpg' ]

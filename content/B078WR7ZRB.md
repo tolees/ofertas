@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Abalorio para colgar inspirado en los la' al 70.01750437609402 % de descuento
+title: 'Abalorio para colgar inspirado en los la al 70.01750437609402 % de descuento'
 date: 2019/11/13 10:16:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-42dmIpbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-42dmIpbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.737766964044344 % en 'YOUTHINK Regleta Enchufes Sobretensiones'
+title: 'Descuento del 29.737766964044344 % en YOUTHINK Regleta Enchufes Sobretensiones'
 date: 2019/11/28 22:15:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410tcJZf3pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410tcJZf3pL._SL200_.jpg' ]

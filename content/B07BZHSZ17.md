@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.404006677796325 % en 'Joma Winner Camisetas Equip. M/C  Hombre'
+title: 'Descuento del 42.404006677796325 % en Joma Winner Camisetas Equip. M/C  Hombre'
 date: 2019/10/05 16:15:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zPWSYtbHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zPWSYtbHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris - Brocha de Maquillaje Dúo' al 54.285714285714285 % de descuento
+title: 'L Oréal Paris - Brocha de Maquillaje Dúo al 54.285714285714285 % de descuento'
 date: 2019/11/21 23:07:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S6CagHkeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S6CagHkeL._SL200_.jpg' ]

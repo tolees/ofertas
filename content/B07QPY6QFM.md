@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAYJOY Funda Xiaomi Redmi Note 7/ Xiaomi' al 41.856232939035486 % de descuento
+title: 'LAYJOY Funda Xiaomi Redmi Note 7/ Xiaomi al 41.856232939035486 % de descuento'
 date: 2020-01-10 03:20:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lOWAF5PRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lOWAF5PRL._SL200_.jpg' ]

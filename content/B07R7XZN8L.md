@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charles Wilson Pantalón Vaquero Lavado A' al 45.52352048558422 % de descuento
+title: 'Charles Wilson Pantalón Vaquero Lavado A al 45.52352048558422 % de descuento'
 date: 2019/10/07 21:31:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kaa6Q1leL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kaa6Q1leL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Brow Drama  Máscara ' al 28.785982478097615 % de descuento
+title: 'Maybelline New York Brow Drama  Máscara  al 28.785982478097615 % de descuento'
 date: 2020-01-17 07:36:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Lg2%2BERm2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Lg2%2BERm2L._SL200_.jpg' ]

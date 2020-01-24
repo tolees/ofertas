@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eono by Amazon - Toalla de Microfibra pa' al 71.09324758842443 % de descuento
+title: 'Eono by Amazon - Toalla de Microfibra pa al 71.09324758842443 % de descuento'
 date: 2019/10/31 12:13:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xv58FIeXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xv58FIeXL._SL200_.jpg' ]

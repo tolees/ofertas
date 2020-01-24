@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.07453726863432 % en 'Clarks Un Maui Lace  Zapatillas para Muj'
+title: 'Descuento del 69.07453726863432 % en Clarks Un Maui Lace  Zapatillas para Muj'
 date: 2020-01-03 13:09:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315nri%2B7hNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315nri%2B7hNL._SL200_.jpg' ]

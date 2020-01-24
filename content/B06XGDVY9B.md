@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Zapato Blucher de Piel con Textura' al 70.0 % de descuento
+title: 'find. Zapato Blucher de Piel con Textura al 70.0 % de descuento'
 date: 2019/10/08 22:00:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314S4rWNFDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314S4rWNFDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Medisana HB675 60230 Manta eléctrica 120' al 29.284642321160568 % de descuento
+title: 'Medisana HB675 60230 Manta eléctrica 120 al 29.284642321160568 % de descuento'
 date: 2019/10/11 10:10:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O8HPs8dzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O8HPs8dzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Openroad Mochila tipo casual  ' al 32.70967741935485 % de descuento
+title: 'Samsonite Openroad Mochila tipo casual   al 32.70967741935485 % de descuento'
 date: 2020-01-16 08:36:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ygpw2m9aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ygpw2m9aL._SL200_.jpg' ]

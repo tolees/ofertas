@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WMF 545284021 Permadur Element Sartén de' al 25.006251562890736 % de descuento
+title: 'WMF 545284021 Permadur Element Sartén de al 25.006251562890736 % de descuento'
 date: 2019/12/18 09:27:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SaV79fq1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SaV79fq1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Flagship Hz Fleece Boy Sudadera' al 54.84633569739954 % de descuento
+title: 'RIP CURL Flagship Hz Fleece Boy Sudadera al 54.84633569739954 % de descuento'
 date: 2019/10/11 12:26:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s3XMO1TSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s3XMO1TSL._SL200_.jpg' ]

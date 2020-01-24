@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oral-B CrossAction Black - Cabezales de ' al 43.831751731213146 % de descuento
+title: 'Oral-B CrossAction Black - Cabezales de  al 43.831751731213146 % de descuento'
 date: 2019/11/28 10:46:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TF5x4AEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TF5x4AEWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.00312539067383 % en 'Philips OneBlade Pro QP6520/30 - Recorta'
+title: 'Descuento del 25.00312539067383 % en Philips OneBlade Pro QP6520/30 - Recorta'
 date: 2020-01-14 12:46:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T89g1yNzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T89g1yNzL._SL200_.jpg' ]

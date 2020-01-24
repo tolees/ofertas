@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tapa de Depósito Freno Delantero con Rel' al 44.44831186912634 % de descuento
+title: 'Tapa de Depósito Freno Delantero con Rel al 44.44831186912634 % de descuento'
 date: 2019/12/02 19:56:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BZWRDDhGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BZWRDDhGL._SL200_.jpg' ]

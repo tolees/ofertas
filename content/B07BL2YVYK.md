@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Foam 1080v9  Zapatilla' al 48.00588235294118 % de descuento
+title: 'New Balance Fresh Foam 1080v9  Zapatilla al 48.00588235294118 % de descuento'
 date: 2019/10/20 17:11:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EpMK-BGCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EpMK-BGCL._SL200_.jpg' ]

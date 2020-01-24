@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.74274274274275 % en 'Puma Liga Training Camiseta de equipació'
+title: 'Descuento del 42.74274274274275 % en Puma Liga Training Camiseta de equipació'
 date: 2019/12/06 06:59:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k3eGOU6TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k3eGOU6TL._SL200_.jpg' ]

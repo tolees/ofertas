@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech Harmony Elite Advanced Universa' al 61.33537784592819 % de descuento
+title: 'Logitech Harmony Elite Advanced Universa al 61.33537784592819 % de descuento'
 date: 2019/11/27 07:46:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jtr1vD4uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jtr1vD4uL._SL200_.jpg' ]

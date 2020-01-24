@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.82323513062813 % en 'BOSS Paul Curved Polo  Azul  Medium Blue'
+title: 'Descuento del 61.82323513062813 % en BOSS Paul Curved Polo  Azul  Medium Blue'
 date: 2019/10/14 17:36:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uh3lohZYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uh3lohZYL._SL200_.jpg' ]

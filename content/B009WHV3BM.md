@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.29090909090909 % en 'Apple Lightning Digital AV Adapter'
+title: 'Descuento del 27.29090909090909 % en Apple Lightning Digital AV Adapter'
 date: 2019/11/30 18:07:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21g3alMJuVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21g3alMJuVL._SL200_.jpg' ]

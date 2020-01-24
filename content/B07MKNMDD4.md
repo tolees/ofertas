@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.89111389236547 % en 'BLACK+DECKER BEW230BC-QS Lijadora de Det'
+title: 'Descuento del 32.89111389236547 % en BLACK+DECKER BEW230BC-QS Lijadora de Det'
 date: 2020-01-20 16:36:52
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxfEU5YdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxfEU5YdL._SL200_.jpg' ]

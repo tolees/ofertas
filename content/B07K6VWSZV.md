@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.138966092273485 % en 'adidas Pred Trn J Goalkeeper Gloves  Uni'
+title: 'Descuento del 50.138966092273485 % en adidas Pred Trn J Goalkeeper Gloves  Uni'
 date: 2019/11/15 06:39:05 +0000
 thumbnailImage: ''
 images: [ '' ]

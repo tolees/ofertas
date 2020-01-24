@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.527479469361975 % en 'Superdry Tyler Vaqueros Slim  Negro  Por'
+title: 'Descuento del 30.527479469361975 % en Superdry Tyler Vaqueros Slim  Negro  Por'
 date: 2019/12/22 11:28:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BnX7xLDsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BnX7xLDsL._SL200_.jpg' ]

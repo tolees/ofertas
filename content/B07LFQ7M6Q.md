@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.1421251677443 % en 'Dolores Promesas PV19 2090BNEGRO Vestido'
+title: 'Descuento del 55.1421251677443 % en Dolores Promesas PV19 2090BNEGRO Vestido'
 date: 2019/12/04 02:14:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318Fzg-0-WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318Fzg-0-WL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 82.00157191511659 % en 'Maidenform Bali - Double Support Wirefre'
+title: 'Descuento del 82.00157191511659 % en Maidenform Bali - Double Support Wirefre'
 date: 2019/10/30 10:16:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C0qwbwZvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C0qwbwZvL._SL200_.jpg' ]

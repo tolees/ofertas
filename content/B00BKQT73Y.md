@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.20754716981132 % en 'Daniel Wellington 0201DW - Reloj con cor'
+title: 'Descuento del 63.20754716981132 % en Daniel Wellington 0201DW - Reloj con cor'
 date: 2019/11/08 12:01:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oimolesKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oimolesKL._SL200_.jpg' ]

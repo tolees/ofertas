@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.63999999999999 % en 'Hurley W One&Only Push Through Camisetas'
+title: 'Descuento del 71.63999999999999 % en Hurley W One&Only Push Through Camisetas'
 date: 2019/11/12 08:12:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nxp-95WeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nxp-95WeL._SL200_.jpg' ]

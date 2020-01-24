@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.996799359871986 % en 'ORICO 60W 13 Puertos Aluminio Hub USB 3.'
+title: 'Descuento del 33.996799359871986 % en ORICO 60W 13 Puertos Aluminio Hub USB 3.'
 date: 2019/11/26 16:51:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gPcDHng7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gPcDHng7L._SL200_.jpg' ]

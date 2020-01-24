@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luces Proyector Navidad LED  Sendowtek L' al 40.75583549462763 % de descuento
+title: 'Luces Proyector Navidad LED  Sendowtek L al 40.75583549462763 % de descuento'
 date: 2019/10/17 00:07:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YHZ10Sr%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YHZ10Sr%2BL._SL200_.jpg' ]

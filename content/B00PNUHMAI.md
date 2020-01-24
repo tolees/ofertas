@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.03501750875438 % en 'adidas Originals Superstar  Zapatillas U'
+title: 'Descuento del 70.03501750875438 % en adidas Originals Superstar  Zapatillas U'
 date: 2019/11/29 07:01:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Blr3UEtxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Blr3UEtxL._SL200_.jpg' ]

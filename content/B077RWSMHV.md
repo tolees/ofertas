@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.398069963811825 % en 'MYCARBON Escala del Equipaje Pesa Maleta'
+title: 'Descuento del 30.398069963811825 % en MYCARBON Escala del Equipaje Pesa Maleta'
 date: 2020-01-02 09:13:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41faEXrbMcL._SL200_.jpg' ]

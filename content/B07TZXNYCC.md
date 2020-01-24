@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roxy You Gotta Be-Top De Manga Larga con' al 43.03575893973493 % de descuento
+title: 'Roxy You Gotta Be-Top De Manga Larga con al 43.03575893973493 % de descuento'
 date: 2020-01-18 11:17:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-Y9WXKlQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-Y9WXKlQL._SL200_.jpg' ]

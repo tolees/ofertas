@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips DryCare Advanced HP8232/00 Secad' al 28.41512972804001 % de descuento
+title: 'Philips DryCare Advanced HP8232/00 Secad al 28.41512972804001 % de descuento'
 date: 2020-01-23 20:38:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g0P74Pm7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g0P74Pm7L._SL200_.jpg' ]

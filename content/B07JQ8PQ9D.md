@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.02501250625312 % en 'flintronic 12 Velas Led Pequeñas  Velas '
+title: 'Descuento del 50.02501250625312 % en flintronic 12 Velas Led Pequeñas  Velas '
 date: 2019/11/26 16:33:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IDw%2BU7tXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IDw%2BU7tXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BENYAR Cronógrafo de Cuero de Moda Reloj' al 66.013598139202 % de descuento
+title: 'BENYAR Cronógrafo de Cuero de Moda Reloj al 66.013598139202 % de descuento'
 date: 2019/12/08 16:47:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tea8DB3jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tea8DB3jL._SL200_.jpg' ]

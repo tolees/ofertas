@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '4 Piezas 64GB USB 3.0 ENUODA Pendrive Pi' al 39.497307001795335 % de descuento
+title: '4 Piezas 64GB USB 3.0 ENUODA Pendrive Pi al 39.497307001795335 % de descuento'
 date: 2020-01-05 09:56:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMCyrRimL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMCyrRimL._SL200_.jpg' ]

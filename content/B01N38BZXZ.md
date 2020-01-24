@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trust Quasar - Auriculares con micrófono' al 30.015007503751868 % de descuento
+title: 'Trust Quasar - Auriculares con micrófono al 30.015007503751868 % de descuento'
 date: 2019/10/26 11:56:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jYnOLHuAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jYnOLHuAL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.34126014001556 % en 'QUIKSILVER Stapilton Light Jackets  Homb'
+title: 'Descuento del 71.34126014001556 % en QUIKSILVER Stapilton Light Jackets  Homb'
 date: 2019/10/06 17:50:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414yuohVmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414yuohVmpL._SL200_.jpg' ]

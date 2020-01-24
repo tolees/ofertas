@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.59557661927329 % en 'flintronic Cinturón Cuero Hombre  Cintur'
+title: 'Descuento del 31.59557661927329 % en flintronic Cinturón Cuero Hombre  Cintur'
 date: 2019/12/29 19:32:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41roywhJwjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41roywhJwjL._SL200_.jpg' ]

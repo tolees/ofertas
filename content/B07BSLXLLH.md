@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.553956834532364 % en 'REPLAY Anbass Vaqueros Slim  Gris  Light'
+title: 'Descuento del 52.553956834532364 % en REPLAY Anbass Vaqueros Slim  Gris  Light'
 date: 2019/11/25 22:09:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rDQj9V2JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rDQj9V2JL._SL200_.jpg' ]

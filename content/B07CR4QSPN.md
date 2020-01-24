@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revell Control Technik 24712 RC Car  Kon' al 33.34444814938313 % de descuento
+title: 'Revell Control Technik 24712 RC Car  Kon al 33.34444814938313 % de descuento'
 date: 2019/12/23 00:48:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-gjqu3qWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-gjqu3qWL._SL200_.jpg' ]

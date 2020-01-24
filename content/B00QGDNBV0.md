@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.96377399297107 % en 'Tecool Funda MacBook Air 13 Pulgadas  [U'
+title: 'Descuento del 65.96377399297107 % en Tecool Funda MacBook Air 13 Pulgadas  [U'
 date: 2019/11/24 08:21:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b2Z9XnTxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b2Z9XnTxL._SL200_.jpg' ]

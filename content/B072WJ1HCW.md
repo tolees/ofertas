@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.53588516746411 % en 'A&D Medical UC-502 Báscula de Baño Digit'
+title: 'Descuento del 32.53588516746411 % en A&D Medical UC-502 Báscula de Baño Digit'
 date: 2019/10/19 20:47:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Sh3uUAIpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Sh3uUAIpL._SL200_.jpg' ]

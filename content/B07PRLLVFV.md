@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polaroid PLD 6072/F/S/X Gafas de sol  Mu' al 63.67142857142858 % de descuento
+title: 'Polaroid PLD 6072/F/S/X Gafas de sol  Mu al 63.67142857142858 % de descuento'
 date: 2019/11/14 18:14:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310mZKw4%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310mZKw4%2BiL._SL200_.jpg' ]

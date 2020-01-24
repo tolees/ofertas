@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Legend 8 Club FG/MG  Zapatillas de ' al 35.10877719429858 % de descuento
+title: 'Nike Legend 8 Club FG/MG  Zapatillas de  al 35.10877719429858 % de descuento'
 date: 2019/12/29 15:08:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BDKY47n3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BDKY47n3L._SL200_.jpg' ]

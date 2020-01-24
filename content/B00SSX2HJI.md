@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio EDIFICE Reloj en caja sólida de ac' al 26.226890756302513 % de descuento
+title: 'Casio EDIFICE Reloj en caja sólida de ac al 26.226890756302513 % de descuento'
 date: 2019/12/17 14:11:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XiT7LlNHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XiT7LlNHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.48445171849427 % en 'Under Armour Armour Fly Fast Capri Leggi'
+title: 'Descuento del 64.48445171849427 % en Under Armour Armour Fly Fast Capri Leggi'
 date: 2019/12/18 19:26:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jMobFqXYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jMobFqXYL._SL200_.jpg' ]

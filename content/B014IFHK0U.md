@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.202416918429 % en 'Wonderbra Women s Refined Glamour Triang'
+title: 'Descuento del 43.202416918429 % en Wonderbra Women s Refined Glamour Triang'
 date: 2019/12/20 08:50:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i1vlcbkPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i1vlcbkPL._SL200_.jpg' ]

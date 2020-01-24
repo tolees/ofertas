@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Ultra 128 GB MicroSDXC UHS-I Mem' al 55.826936496859744 % de descuento
+title: 'SanDisk Ultra 128 GB MicroSDXC UHS-I Mem al 55.826936496859744 % de descuento'
 date: 2019/12/21 13:48:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IH4T9Uw0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IH4T9Uw0L._SL200_.jpg' ]

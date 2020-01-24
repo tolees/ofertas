@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.0567612687813 % en 'Maybelline New York Barra de Labios Hidr'
+title: 'Descuento del 34.0567612687813 % en Maybelline New York Barra de Labios Hidr'
 date: 2019/11/04 18:15:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-h8tmNV9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-h8tmNV9L._SL200_.jpg' ]

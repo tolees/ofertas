@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.71606273661438 % en 'Nikkon D7500 - Cámara réflex Digital de '
+title: 'Descuento del 46.71606273661438 % en Nikkon D7500 - Cámara réflex Digital de '
 date: 2020-01-20 04:37:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aCol7rxQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aCol7rxQL._SL200_.jpg' ]

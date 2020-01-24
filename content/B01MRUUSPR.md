@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playstation 4 - Mando inalámbrico Dualsh' al 30.31861694527789 % de descuento
+title: 'Playstation 4 - Mando inalámbrico Dualsh al 30.31861694527789 % de descuento'
 date: 2019/11/10 16:43:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dr1396efL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dr1396efL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Champion Reverse Weave Crewneck Sweatshi' al 32.86961265684669 % de descuento
+title: 'Champion Reverse Weave Crewneck Sweatshi al 32.86961265684669 % de descuento'
 date: 2019/12/03 15:21:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41viDD1gD9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41viDD1gD9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones NOS JJIMARCO JJBOWIE SA BUR' al 60.15338446148717 % de descuento
+title: 'Jack & Jones NOS JJIMARCO JJBOWIE SA BUR al 60.15338446148717 % de descuento'
 date: 2019/11/04 09:46:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OmMh08yUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OmMh08yUL._SL200_.jpg' ]

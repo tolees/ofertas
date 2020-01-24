@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjiglenn Jjfox Bl 820 Noos ' al 61.04610461046105 % de descuento
+title: 'JACK & JONES Jjiglenn Jjfox Bl 820 Noos  al 61.04610461046105 % de descuento'
 date: 2019/10/19 08:28:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-uSnthdfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-uSnthdfL._SL200_.jpg' ]

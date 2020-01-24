@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1000GB  1TB  Disco Duro Externo para iPh' al 50.57665044637724 % de descuento
+title: '1000GB  1TB  Disco Duro Externo para iPh al 50.57665044637724 % de descuento'
 date: 2019/10/15 22:12:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VIlbs2bYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VIlbs2bYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 Flagship Rugged Smartphone - IP68 W' al 31.03555295010173 % de descuento
+title: '2019 Flagship Rugged Smartphone - IP68 W al 31.03555295010173 % de descuento'
 date: 2020-01-08 17:48:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nAt2DbISL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nAt2DbISL._SL200_.jpg' ]

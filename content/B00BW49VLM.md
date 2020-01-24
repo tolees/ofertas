@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schwarzkopf Professional Igora Royal Col' al 55.69620253164557 % de descuento
+title: 'Schwarzkopf Professional Igora Royal Col al 55.69620253164557 % de descuento'
 date: 2019/11/05 13:42:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D2IWrghXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D2IWrghXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Memoria USB 3.0 de 64GB Pendrive con Lla' al 53.351117039013005 % de descuento
+title: 'Memoria USB 3.0 de 64GB Pendrive con Lla al 53.351117039013005 % de descuento'
 date: 2019/12/10 23:27:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ge47qQyOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ge47qQyOL._SL200_.jpg' ]

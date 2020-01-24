@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Your Name Blu-Ray Edición Coleccionista ' al 48.349598163031004 % de descuento
+title: 'Your Name Blu-Ray Edición Coleccionista  al 48.349598163031004 % de descuento'
 date: 2019/11/26 23:04:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519hBTHfTeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519hBTHfTeL._SL200_.jpg' ]

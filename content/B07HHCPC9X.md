@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft Surface Pro  31 25 cm  12 3 Zo' al 44.493882091212456 % de descuento
+title: 'Microsoft Surface Pro  31 25 cm  12 3 Zo al 44.493882091212456 % de descuento'
 date: 2019/10/24 23:47:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jzn4JhybL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jzn4JhybL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York - Superstay Matte In' al 34.37152391546162 % de descuento
+title: 'Maybelline New York - Superstay Matte In al 34.37152391546162 % de descuento'
 date: 2020-01-02 11:34:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wr1NP2wZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wr1NP2wZL._SL200_.jpg' ]

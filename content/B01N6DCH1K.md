@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'USB C a HDMI Adaptador  CHOETECH Adaptad' al 68.58064516129032 % de descuento
+title: 'USB C a HDMI Adaptador  CHOETECH Adaptad al 68.58064516129032 % de descuento'
 date: 2020-01-06 10:21:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MSlJd4aWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MSlJd4aWL._SL200_.jpg' ]

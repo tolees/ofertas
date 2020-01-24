@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour - Sudadera de algodón con c' al 46.733333333333334 % de descuento
+title: 'Under Armour - Sudadera de algodón con c al 46.733333333333334 % de descuento'
 date: 2019/10/30 10:28:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AkD65KwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AkD65KwCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OSHINE - Velas sin Llama  Juego de 3 Pil' al 60.70759625390218 % de descuento
+title: 'OSHINE - Velas sin Llama  Juego de 3 Pil al 60.70759625390218 % de descuento'
 date: 2019/12/08 08:26:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UDWExb-eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UDWExb-eL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dreaming Kamahaus Elite Colchón  con Vis' al 42.327741446308394 % de descuento
+title: 'Dreaming Kamahaus Elite Colchón  con Vis al 42.327741446308394 % de descuento'
 date: 2019/11/24 10:07:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uLsUTcz7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uLsUTcz7L._SL200_.jpg' ]

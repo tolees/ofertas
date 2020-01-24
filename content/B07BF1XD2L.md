@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.1260280062236 % en 'Gregster Pro Precious Chaquetas  Mujer  '
+title: 'Descuento del 67.1260280062236 % en Gregster Pro Precious Chaquetas  Mujer  '
 date: 2019/10/19 19:03:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rYBe2tr-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rYBe2tr-L._SL200_.jpg' ]

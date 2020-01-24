@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.779682811830256 % en 'JKSWT Wireless Earbuds TWS Bluetooth 5.0'
+title: 'Descuento del 57.779682811830256 % en JKSWT Wireless Earbuds TWS Bluetooth 5.0'
 date: 2020-01-11 06:06:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kx2XvRwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kx2XvRwJL._SL200_.jpg' ]

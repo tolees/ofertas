@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon ALPHACROSS W  Zapatillas de Trai' al 53.81878821567538 % de descuento
+title: 'Salomon ALPHACROSS W  Zapatillas de Trai al 53.81878821567538 % de descuento'
 date: 2020-01-12 10:42:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qOdACJb4L._SL200_.jpg' ]

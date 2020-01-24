@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.219852223616336 % en 'Dragon Ball Z Sagas Completas Box 3 Ep. '
+title: 'Descuento del 51.219852223616336 % en Dragon Ball Z Sagas Completas Box 3 Ep. '
 date: 2019/12/01 12:05:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oP3mJ25NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oP3mJ25NL._SL200_.jpg' ]

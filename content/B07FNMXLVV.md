@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.52952952952953 % en 'LEGO NINJAGO 70661 - Spinjitzu Zane'
+title: 'Descuento del 29.52952952952953 % en LEGO NINJAGO 70661 - Spinjitzu Zane'
 date: 2019/12/22 13:32:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MPjZHKOiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MPjZHKOiL._SL200_.jpg' ]

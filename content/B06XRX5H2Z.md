@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG SJ4 Barra de sonido  Subwoofer inalám' al 26.63316582914573 % de descuento
+title: 'LG SJ4 Barra de sonido  Subwoofer inalám al 26.63316582914573 % de descuento'
 date: 2019/10/24 21:02:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21HO05-9t9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21HO05-9t9L._SL200_.jpg' ]

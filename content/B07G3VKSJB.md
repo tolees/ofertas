@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung SM-R800NZSADBT Galaxy Watch 46 m' al 28.808510638297868 % de descuento
+title: 'Samsung SM-R800NZSADBT Galaxy Watch 46 m al 28.808510638297868 % de descuento'
 date: 2019/12/26 21:20:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hxhepucHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hxhepucHL._SL200_.jpg' ]

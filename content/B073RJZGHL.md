@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.39030023094688 % en 'Reebok Trainflex Lite  Zapatillas de Dep'
+title: 'Descuento del 47.39030023094688 % en Reebok Trainflex Lite  Zapatillas de Dep'
 date: 2019/11/14 15:54:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qg33TLCiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qg33TLCiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.67684021543987 % en 'PUMA Weave XT Wn s  Zapatillas Deportiva'
+title: 'Descuento del 39.67684021543987 % en PUMA Weave XT Wn s  Zapatillas Deportiva'
 date: 2019/12/16 09:47:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y9GX%2BnYkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y9GX%2BnYkL._SL200_.jpg' ]

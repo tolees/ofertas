@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etnies Jameson Vulc  Zapatillas de Skate' al 79.40259740259741 % de descuento
+title: 'Etnies Jameson Vulc  Zapatillas de Skate al 79.40259740259741 % de descuento'
 date: 2019/11/15 13:48:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310QVksMA6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310QVksMA6L._SL200_.jpg' ]

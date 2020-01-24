@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pistola de Pintura 500W  TECCPO Pistola ' al 57.005700570057 % de descuento
+title: 'Pistola de Pintura 500W  TECCPO Pistola  al 57.005700570057 % de descuento'
 date: 2020-01-16 10:20:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LFm3qL94L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LFm3qL94L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POPOMAN Amoladora Angular  18v Amoladora' al 50.00250012500626 % de descuento
+title: 'POPOMAN Amoladora Angular  18v Amoladora al 50.00250012500626 % de descuento'
 date: 2019/12/27 18:04:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Phgkdm-6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Phgkdm-6L._SL200_.jpg' ]

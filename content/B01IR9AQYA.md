@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.012506253126553 % en 'deAO Dinosaurios de Juguete Figuras Preh'
+title: 'Descuento del 25.012506253126553 % en deAO Dinosaurios de Juguete Figuras Preh'
 date: 2019/12/08 13:57:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zUZk8oc2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zUZk8oc2L._SL200_.jpg' ]

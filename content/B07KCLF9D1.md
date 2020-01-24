@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS - Pixel_waist Bag  Organizadores de' al 62.12727272727273 % de descuento
+title: 'BOSS - Pixel_waist Bag  Organizadores de al 62.12727272727273 % de descuento'
 date: 2019/10/10 21:21:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N0Emd-gKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N0Emd-gKL._SL200_.jpg' ]

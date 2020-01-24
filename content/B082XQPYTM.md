@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zapatillas de Baloncesto para Hombres Da' al 50.0 % de descuento
+title: 'Zapatillas de Baloncesto para Hombres Da al 50.0 % de descuento'
 date: 2020-01-04 09:30:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xKfDoK-OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xKfDoK-OL._SL200_.jpg' ]

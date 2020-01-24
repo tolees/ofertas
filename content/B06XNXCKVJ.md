@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.71494404213299 % en 'Desigual Vest_Kina  Vestido Mujer  Verde'
+title: 'Descuento del 46.71494404213299 % en Desigual Vest_Kina  Vestido Mujer  Verde'
 date: 2019/11/09 07:41:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410Ci%2B8QtbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410Ci%2B8QtbL._SL200_.jpg' ]

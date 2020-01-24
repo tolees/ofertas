@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pilas AA Recargable POWEROWL Alta Capaci' al 33.70190181335692 % de descuento
+title: 'Pilas AA Recargable POWEROWL Alta Capaci al 33.70190181335692 % de descuento'
 date: 2020-01-23 15:13:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DJPlxe%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DJPlxe%2B4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'legrand 396569 Base de Enchufe para Toma' al 25.396825396825395 % de descuento
+title: 'legrand 396569 Base de Enchufe para Toma al 25.396825396825395 % de descuento'
 date: 2019/10/31 11:07:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WGOuMxOjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WGOuMxOjL._SL200_.jpg' ]

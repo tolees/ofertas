@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.36708860759494 % en 'Tigi SFactor 49544 - Spray para el cuerp'
+title: 'Descuento del 49.36708860759494 % en Tigi SFactor 49544 - Spray para el cuerp'
 date: 2019/11/02 17:51:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31O3U97bdFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31O3U97bdFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Suede Bow Wn s  Zapatillas para Muj' al 65.34083802376485 % de descuento
+title: 'Puma Suede Bow Wn s  Zapatillas para Muj al 65.34083802376485 % de descuento'
 date: 2019/11/13 17:15:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BioUbz2ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BioUbz2ZL._SL200_.jpg' ]

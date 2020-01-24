@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic NN-K10JWMEPG Microondas Compac' al 49.09174311926605 % de descuento
+title: 'Panasonic NN-K10JWMEPG Microondas Compac al 49.09174311926605 % de descuento'
 date: 2020-01-22 18:14:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IMFYv0MUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IMFYv0MUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coziselect Sacacorchos Eléctrico Inalámb' al 37.51875937968984 % de descuento
+title: 'Coziselect Sacacorchos Eléctrico Inalámb al 37.51875937968984 % de descuento'
 date: 2019/12/12 15:42:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415sikcDnqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415sikcDnqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D J  Zapatillas de Depor' al 25.49653579676675 % de descuento
+title: 'Salomon XA Pro 3D J  Zapatillas de Depor al 25.49653579676675 % de descuento'
 date: 2020-01-21 16:39:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UYS0gkxOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UYS0gkxOL._SL200_.jpg' ]

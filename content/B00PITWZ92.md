@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ON.EARZ P105 - Altavoz inalámbrico FM Bl' al 71.37535816618912 % de descuento
+title: 'ON.EARZ P105 - Altavoz inalámbrico FM Bl al 71.37535816618912 % de descuento'
 date: 2019/12/29 12:24:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SP0T8%2B18L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SP0T8%2B18L._SL200_.jpg' ]

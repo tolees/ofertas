@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.8695652173913 % en 'Schwarzkopf Bc Excellium Beautyfing Silv'
+title: 'Descuento del 67.8695652173913 % en Schwarzkopf Bc Excellium Beautyfing Silv'
 date: 2019/10/05 09:50:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OnnBMH%2BXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OnnBMH%2BXL._SL200_.jpg' ]

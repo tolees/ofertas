@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.015384615384605 % en 'Pepe Jeans Soho Vaqueros  Old Navy  25W '
+title: 'Descuento del 40.015384615384605 % en Pepe Jeans Soho Vaqueros  Old Navy  25W '
 date: 2019/11/17 08:50:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mPCXy-gPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mPCXy-gPL._SL200_.jpg' ]

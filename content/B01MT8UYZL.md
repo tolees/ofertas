@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel UMBX-SHAWNTHREEPACK  Calzoncillo ' al 38.11904761904762 % de descuento
+title: 'Diesel UMBX-SHAWNTHREEPACK  Calzoncillo  al 38.11904761904762 % de descuento'
 date: 2020-01-11 07:21:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T0NJUqonL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T0NJUqonL._SL200_.jpg' ]

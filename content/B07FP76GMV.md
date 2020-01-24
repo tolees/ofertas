@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75239 Generator-Attacke B' al 37.64588196065355 % de descuento
+title: 'LEGO Star Wars 75239 Generator-Attacke B al 37.64588196065355 % de descuento'
 date: 2019/11/04 11:34:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg' ]

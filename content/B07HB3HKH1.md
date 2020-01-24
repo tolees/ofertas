@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.64270152505446 % en 'Funko 33991 POP Vinyl: Games: Fallout S2'
+title: 'Descuento del 45.64270152505446 % en Funko 33991 POP Vinyl: Games: Fallout S2'
 date: 2020-01-24 01:25:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tyRE5LmvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tyRE5LmvL._SL200_.jpg' ]

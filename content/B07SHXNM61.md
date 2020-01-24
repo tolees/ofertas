@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.26473859844272 % en 'Samsung Galaxy S10 Smartphone Bundle  15'
+title: 'Descuento del 38.26473859844272 % en Samsung Galaxy S10 Smartphone Bundle  15'
 date: 2019/12/29 05:26:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sNjwjeglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sNjwjeglL._SL200_.jpg' ]

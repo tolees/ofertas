@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.263789522270944 % en 'Salomon Authentic LTR GTX  Zapatillas de'
+title: 'Descuento del 29.263789522270944 % en Salomon Authentic LTR GTX  Zapatillas de'
 date: 2019/11/29 00:19:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nMBHS2PwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nMBHS2PwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devir- Adrenalina  única  Bgadre ' al 34.03319336132773 % de descuento
+title: 'Devir- Adrenalina  única  Bgadre  al 34.03319336132773 % de descuento'
 date: 2019/11/12 10:56:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/6103rXsBGdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/6103rXsBGdL._SL200_.jpg' ]

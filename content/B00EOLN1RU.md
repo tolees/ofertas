@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.53724140258513 % en 'Makita RP0900J Oberfräse 900 W  Blau  Si'
+title: 'Descuento del 51.53724140258513 % en Makita RP0900J Oberfräse 900 W  Blau  Si'
 date: 2019/10/26 09:39:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r-4HNfTUL._SL200_.jpg' ]

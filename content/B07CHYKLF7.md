@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Naturalista NG24 Lux Suede Camel/YUGE' al 53.47826086956522 % de descuento
+title: 'El Naturalista NG24 Lux Suede Camel/YUGE al 53.47826086956522 % de descuento'
 date: 2019/11/08 10:21:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZaWFSLVrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZaWFSLVrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.11592994161802 % en 'Satisfyer Estimulador de Clítoris Pro 2 '
+title: 'Descuento del 39.11592994161802 % en Satisfyer Estimulador de Clítoris Pro 2 '
 date: 2020-01-22 15:35:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VOhKDp6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VOhKDp6BL._SL200_.jpg' ]

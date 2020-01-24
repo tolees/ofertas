@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.379310344827594 % en 'LŽOréal Paris Make Up Artist Pintalabios'
+title: 'Descuento del 31.379310344827594 % en LŽOréal Paris Make Up Artist Pintalabios'
 date: 2020-01-10 16:05:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21lTRVy9L7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21lTRVy9L7L._SL200_.jpg' ]

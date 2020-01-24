@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nerf - Elite Raptorstrike  Hasbro C1895E' al 34.379746835443036 % de descuento
+title: 'Nerf - Elite Raptorstrike  Hasbro C1895E al 34.379746835443036 % de descuento'
 date: 2019/12/07 18:20:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Mp80SatxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Mp80SatxL._SL200_.jpg' ]

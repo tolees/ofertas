@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naf Naf Kenr49d Vestido  Rosa  Framboise' al 51.44285714285714 % de descuento
+title: 'Naf Naf Kenr49d Vestido  Rosa  Framboise al 51.44285714285714 % de descuento'
 date: 2019/11/02 07:26:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317-OLaKCoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317-OLaKCoL._SL200_.jpg' ]

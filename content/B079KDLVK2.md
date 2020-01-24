@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MLT-D116L MLT-D116S Cartucho de tóner  C' al 72.74297663423948 % de descuento
+title: 'MLT-D116L MLT-D116S Cartucho de tóner  C al 72.74297663423948 % de descuento'
 date: 2019/11/25 22:38:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ds52OIdUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ds52OIdUL._SL200_.jpg' ]

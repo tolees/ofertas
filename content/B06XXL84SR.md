@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.4923076923077 % en 'Samsonite Spark SNG Spinner Top Pocket E'
+title: 'Descuento del 32.4923076923077 % en Samsonite Spark SNG Spinner Top Pocket E'
 date: 2019/11/19 19:39:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OXJUGTtxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OXJUGTtxL._SL200_.jpg' ]

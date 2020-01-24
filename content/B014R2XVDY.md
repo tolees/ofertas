@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MDRXB50APW.CE7 - Auriculares intrau' al 41.25 % de descuento
+title: 'Sony MDRXB50APW.CE7 - Auriculares intrau al 41.25 % de descuento'
 date: 2020-01-20 12:22:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pmslv3rvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pmslv3rvL._SL200_.jpg' ]

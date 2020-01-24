@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Earth Round Neck Camiseta  Gr' al 66.34634634634635 % de descuento
+title: 'G-STAR RAW Earth Round Neck Camiseta  Gr al 66.34634634634635 % de descuento'
 date: 2020-01-07 19:14:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cpzpHdBLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cpzpHdBLL._SL200_.jpg' ]

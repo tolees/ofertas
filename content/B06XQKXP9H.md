@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Legging_April Leggings  Negro 2' al 57.21721721721722 % de descuento
+title: 'Desigual Legging_April Leggings  Negro 2 al 57.21721721721722 % de descuento'
 date: 2019/11/11 14:03:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31t%2Bp%2BGjjML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31t%2Bp%2BGjjML._SL200_.jpg' ]

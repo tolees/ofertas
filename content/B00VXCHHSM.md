@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.69509315140383 % en 'G-Star Raw 3301 Tapered  Vaqueros para H'
+title: 'Descuento del 61.69509315140383 % en G-Star Raw 3301 Tapered  Vaqueros para H'
 date: 2019/11/17 07:08:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BzWP%2B1YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i%2BzWP%2B1YL._SL200_.jpg' ]

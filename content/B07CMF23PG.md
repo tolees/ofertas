@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Lacq DT Chaqueta  Mujer  Kak' al 39.66087675765095 % de descuento
+title: 'Trangoworld Lacq DT Chaqueta  Mujer  Kak al 39.66087675765095 % de descuento'
 date: 2019/10/24 16:32:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YhvObDdeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YhvObDdeL._SL200_.jpg' ]

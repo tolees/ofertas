@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Tailored Core Twill Doubl' al 45.705705705705704 % de descuento
+title: 'Tommy Hilfiger Tailored Core Twill Doubl al 45.705705705705704 % de descuento'
 date: 2019/10/23 12:31:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q24lerPsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q24lerPsL._SL200_.jpg' ]

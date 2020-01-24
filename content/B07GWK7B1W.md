@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asus VivoBook S15 S530UF 90NB0IB4-M00640' al 56.17352614015573 % de descuento
+title: 'Asus VivoBook S15 S530UF 90NB0IB4-M00640 al 56.17352614015573 % de descuento'
 date: 2019/10/20 12:43:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mOg-mEjgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mOg-mEjgL._SL200_.jpg' ]

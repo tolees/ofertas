@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01190759704692 % en 'Powerextra 2 Baterías para Canon LP-E8 1'
+title: 'Descuento del 50.01190759704692 % en Powerextra 2 Baterías para Canon LP-E8 1'
 date: 2019/11/17 09:34:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YUnw9EB4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YUnw9EB4L._SL200_.jpg' ]

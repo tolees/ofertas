@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Flex Advantage  Zapatillas De D' al 39.28273561301084 % de descuento
+title: 'Skechers Flex Advantage  Zapatillas De D al 39.28273561301084 % de descuento'
 date: 2019/11/10 13:58:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kRTjHFj9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kRTjHFj9L._SL200_.jpg' ]

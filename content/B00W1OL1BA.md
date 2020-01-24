@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'STAR WARS- Disney Classic Saga IR Millen' al 57.20817259608515 % de descuento
+title: 'STAR WARS- Disney Classic Saga IR Millen al 57.20817259608515 % de descuento'
 date: 2019/10/21 10:04:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512j7qNwOrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512j7qNwOrL._SL200_.jpg' ]

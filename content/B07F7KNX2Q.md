@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SHIMANO B01S - Pastillas de Freno de Dis' al 42.91091593475534 % de descuento
+title: 'SHIMANO B01S - Pastillas de Freno de Dis al 42.91091593475534 % de descuento'
 date: 2019/10/14 16:09:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PY62NxqwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PY62NxqwL._SL200_.jpg' ]

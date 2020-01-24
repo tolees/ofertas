@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.005875734466805 % en 'JACK & JONES Jjiglenn Jjicon JJ 357 50sp'
+title: 'Descuento del 47.005875734466805 % en JACK & JONES Jjiglenn Jjicon JJ 357 50sp'
 date: 2019/12/02 19:07:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NiRrQ2nkL._SL200_.jpg' ]

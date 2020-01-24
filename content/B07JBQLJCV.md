@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.091236494597837 % en 'LEGO 75971 Overwatch Hanzo vs. Genji Toy'
+title: 'Descuento del 28.091236494597837 % en LEGO 75971 Overwatch Hanzo vs. Genji Toy'
 date: 2020-01-19 17:02:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kvcWzIyaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kvcWzIyaL._SL200_.jpg' ]

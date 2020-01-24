@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Emblem T Camiseta  Amarillo  Yellow ' al 56.52754590984975 % de descuento
+title: 'Lee Emblem T Camiseta  Amarillo  Yellow  al 56.52754590984975 % de descuento'
 date: 2019/12/05 06:04:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415gr9UrmUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415gr9UrmUL._SL200_.jpg' ]

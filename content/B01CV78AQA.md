@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.095238095238095 % en 'Schwarzkopf  Gel de rizos - 200 ml'
+title: 'Descuento del 63.095238095238095 % en Schwarzkopf  Gel de rizos - 200 ml'
 date: 2019/11/15 19:33:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RuiQKhiKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RuiQKhiKL._SL200_.jpg' ]

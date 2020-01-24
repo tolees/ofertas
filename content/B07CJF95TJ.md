@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.003400340034005 % en 'Impresora térmica de recibos 300 mm/s 80'
+title: 'Descuento del 34.003400340034005 % en Impresora térmica de recibos 300 mm/s 80'
 date: 2020-01-17 13:19:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xt8aHZ5tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xt8aHZ5tL._SL200_.jpg' ]

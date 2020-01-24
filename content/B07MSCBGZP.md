@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AISIRER Bombilla Inteligente Bombillas L' al 33.152329236924835 % de descuento
+title: 'AISIRER Bombilla Inteligente Bombillas L al 33.152329236924835 % de descuento'
 date: 2020-01-24 17:06:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dLsP32DpL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dLsP32DpL._AC_._SL200_.jpg' ]

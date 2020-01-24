@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disney Frozen - Die Eiskönigin völlig un' al 33.349213911386364 % de descuento
+title: 'Disney Frozen - Die Eiskönigin völlig un al 33.349213911386364 % de descuento'
 date: 2019/12/28 08:57:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XdAiVLglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XdAiVLglL._SL200_.jpg' ]

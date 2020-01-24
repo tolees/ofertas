@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Esprit 029EE2B002 Vaqueros Straight  Azu' al 61.01525381345336 % de descuento
+title: 'Esprit 029EE2B002 Vaqueros Straight  Azu al 61.01525381345336 % de descuento'
 date: 2019/10/05 16:26:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418qkC4QglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418qkC4QglL._SL200_.jpg' ]

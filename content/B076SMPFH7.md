@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Valsetz Rts 1.5  Zapatillas' al 25.363601385148126 % de descuento
+title: 'Under Armour Valsetz Rts 1.5  Zapatillas al 25.363601385148126 % de descuento'
 date: 2019/10/06 16:07:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NgPpr9hxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NgPpr9hxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.05008347245409 % en 'Ultima Nature Pienso para Perros Medium '
+title: 'Descuento del 30.05008347245409 % en Ultima Nature Pienso para Perros Medium '
 date: 2019/11/30 20:02:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pizVaMlDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pizVaMlDL._SL200_.jpg' ]

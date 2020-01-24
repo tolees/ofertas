@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Pj3594 Polo  Rojo  Salvia Adx   ' al 65.5 % de descuento
+title: 'Lacoste Pj3594 Polo  Rojo  Salvia Adx    al 65.5 % de descuento'
 date: 2019/11/10 10:05:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KdUQRpioL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KdUQRpioL._SL200_.jpg' ]

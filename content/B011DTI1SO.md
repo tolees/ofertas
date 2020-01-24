@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ufesa AS2300 Activa - Aspirador Sin Bols' al 29.502185869411925 % de descuento
+title: 'Ufesa AS2300 Activa - Aspirador Sin Bols al 29.502185869411925 % de descuento'
 date: 2019/10/15 09:30:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YVwcVJ6EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YVwcVJ6EL._SL200_.jpg' ]

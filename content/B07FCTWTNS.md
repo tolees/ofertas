@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Floatride 6000  Zapatillas de Dep' al 64.60164344408716 % de descuento
+title: 'Reebok Floatride 6000  Zapatillas de Dep al 64.60164344408716 % de descuento'
 date: 2019/10/11 12:02:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-2XxqzczL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-2XxqzczL._SL200_.jpg' ]

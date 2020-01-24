@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Pantalones de chánda' al 36.30573248407644 % de descuento
+title: 'Amazon Essentials - Pantalones de chánda al 36.30573248407644 % de descuento'
 date: 2019/10/20 21:02:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wQZ6gRPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wQZ6gRPEL._SL200_.jpg' ]

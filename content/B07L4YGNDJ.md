@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.062578222778484 % en 'Marco Tozzi 2-2-22441-33  Zapatos con Pl'
+title: 'Descuento del 50.062578222778484 % en Marco Tozzi 2-2-22441-33  Zapatos con Pl'
 date: 2019/10/23 15:28:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TassfK5rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TassfK5rL._SL200_.jpg' ]

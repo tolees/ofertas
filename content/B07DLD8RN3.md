@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bruetting Highspeed  Zapatillas de Depor' al 71.53153153153153 % de descuento
+title: 'Bruetting Highspeed  Zapatillas de Depor al 71.53153153153153 % de descuento'
 date: 2019/10/27 11:27:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lnj0RPx-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lnj0RPx-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.08881776355271 % en 'Moulinex Faciclick Cristal LM310113 Bati'
+title: 'Descuento del 44.08881776355271 % en Moulinex Faciclick Cristal LM310113 Bati'
 date: 2019/12/04 18:53:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FIpJMgSKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FIpJMgSKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Diesel S-akura Shirt Camisa  Azul  Nauti' al 76.70707070707071 % de descuento
+title: 'Diesel S-akura Shirt Camisa  Azul  Nauti al 76.70707070707071 % de descuento'
 date: 2019/10/18 02:02:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EEpY7Xf6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EEpY7Xf6L._SL200_.jpg' ]

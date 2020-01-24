@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Evil dead 2  terroríficamente muertos  -' al 30.025020850708916 % de descuento
+title: 'Evil dead 2  terroríficamente muertos  - al 30.025020850708916 % de descuento'
 date: 2019/10/18 03:31:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KsT92DQZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KsT92DQZL._SL200_.jpg' ]

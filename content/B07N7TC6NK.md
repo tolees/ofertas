@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.71428571428571 % en 'Seiko Reloj Cronógrafo para Hombre de En'
+title: 'Descuento del 35.71428571428571 % en Seiko Reloj Cronógrafo para Hombre de En'
 date: 2019/10/31 09:25:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z68IxH4cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z68IxH4cL._SL200_.jpg' ]

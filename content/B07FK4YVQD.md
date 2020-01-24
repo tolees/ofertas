@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marqués de Murrieta Castillo Ygay Gran R' al 28.37894736842105 % de descuento
+title: 'Marqués de Murrieta Castillo Ygay Gran R al 28.37894736842105 % de descuento'
 date: 2019/10/16 10:44:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UtoYm7XkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UtoYm7XkL._SL200_.jpg' ]

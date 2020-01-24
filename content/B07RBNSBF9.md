@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.59289843104872 % en 'Tipo C Memoria USB 64GB  RAOYI Metal Pen'
+title: 'Descuento del 62.59289843104872 % en Tipo C Memoria USB 64GB  RAOYI Metal Pen'
 date: 2019/12/14 02:09:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3186rb8SjCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3186rb8SjCL._SL200_.jpg' ]

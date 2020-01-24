@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Campingaz 2 Series Classic LX Vario Barb' al 29.87595458402359 % de descuento
+title: 'Campingaz 2 Series Classic LX Vario Barb al 29.87595458402359 % de descuento'
 date: 2019/10/31 15:09:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418RZvl0tbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418RZvl0tbL._SL200_.jpg' ]

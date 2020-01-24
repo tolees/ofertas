@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel London Super Gel Esmalte de Uñas ' al 65.39792387543253 % de descuento
+title: 'Rimmel London Super Gel Esmalte de Uñas  al 65.39792387543253 % de descuento'
 date: 2020-01-12 13:54:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G2xCjpFPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G2xCjpFPL._SL200_.jpg' ]

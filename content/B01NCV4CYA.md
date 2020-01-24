@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G.Skill Trident Z RGB 32GB DDR4 32GB DDR' al 30.759404739094332 % de descuento
+title: 'G.Skill Trident Z RGB 32GB DDR4 32GB DDR al 30.759404739094332 % de descuento'
 date: 2019/10/13 11:18:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nB7BpgfpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nB7BpgfpL._SL200_.jpg' ]

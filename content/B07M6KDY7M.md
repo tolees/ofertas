@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elrigs Lichterkette Außen/Innen  Farbwec' al 32.69859588382381 % de descuento
+title: 'Elrigs Lichterkette Außen/Innen  Farbwec al 32.69859588382381 % de descuento'
 date: 2019/11/22 13:45:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Qh8eXU5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Qh8eXU5nL._SL200_.jpg' ]

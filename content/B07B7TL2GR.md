@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAGE SJE520 the Nutri Juicer Plus Entsaf' al 56.39825593023722 % de descuento
+title: 'SAGE SJE520 the Nutri Juicer Plus Entsaf al 56.39825593023722 % de descuento'
 date: 2019/12/17 21:47:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ihSGlb0rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ihSGlb0rL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.38983050847458 % en 'Russell Hobbs Victory 23520-56 - Tostado'
+title: 'Descuento del 31.38983050847458 % en Russell Hobbs Victory 23520-56 - Tostado'
 date: 2019/11/17 01:35:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gVZYvL-pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gVZYvL-pL._SL200_.jpg' ]

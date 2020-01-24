@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FR-TEC - Cargador para Mando Playstation' al 33.73159210891914 % de descuento
+title: 'FR-TEC - Cargador para Mando Playstation al 33.73159210891914 % de descuento'
 date: 2020-01-21 11:41:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-BvEECokL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-BvEECokL._SL200_.jpg' ]

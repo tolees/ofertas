@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.22222222222222 % en 'New Balance CRT300v2  Zapatos Tenis para'
+title: 'Descuento del 62.22222222222222 % en New Balance CRT300v2  Zapatos Tenis para'
 date: 2019/11/21 08:00:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uUm5ioPHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uUm5ioPHL._SL200_.jpg' ]

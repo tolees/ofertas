@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CASTELLANISIMOS C00100 - Mocasín de cuer' al 56.774193548387096 % de descuento
+title: 'CASTELLANISIMOS C00100 - Mocasín de cuer al 56.774193548387096 % de descuento'
 date: 2019/10/20 09:04:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mW5SxXCeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mW5SxXCeL._SL200_.jpg' ]

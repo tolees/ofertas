@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.01639344262296 % en 'STAR WARS 8 Sable Camino de la Fuerza  M'
+title: 'Descuento del 69.01639344262296 % en STAR WARS 8 Sable Camino de la Fuerza  M'
 date: 2019/11/14 13:13:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pLwEr9jKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pLwEr9jKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Cash Pm200124 Vaqueros Straig' al 46.38947368421052 % de descuento
+title: 'Pepe Jeans Cash Pm200124 Vaqueros Straig al 46.38947368421052 % de descuento'
 date: 2019/10/14 19:06:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418yNSY%2BGKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418yNSY%2BGKL._SL200_.jpg' ]

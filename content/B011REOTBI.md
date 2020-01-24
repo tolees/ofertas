@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aigostar - Bombilla LED B5 T3 3U  E27  9' al 46.9720905739863 % de descuento
+title: 'Aigostar - Bombilla LED B5 T3 3U  E27  9 al 46.9720905739863 % de descuento'
 date: 2020-01-07 13:06:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dBRdPSVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dBRdPSVkL._SL200_.jpg' ]

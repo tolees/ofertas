@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dreimaster 36036408  Chaqueta para Mujer' al 87.14872118724345 % de descuento
+title: 'Dreimaster 36036408  Chaqueta para Mujer al 87.14872118724345 % de descuento'
 date: 2020-01-14 14:36:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BC6u%2B%2BnSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BC6u%2B%2BnSL._SL200_.jpg' ]

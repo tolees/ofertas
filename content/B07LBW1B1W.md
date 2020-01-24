@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Short Runner-Logo  Bañador ' al 36.02000000000001 % de descuento
+title: 'Calvin Klein Short Runner-Logo  Bañador  al 36.02000000000001 % de descuento'
 date: 2019/11/23 07:46:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qnOMzm4aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qnOMzm4aL._SL200_.jpg' ]

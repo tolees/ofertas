@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.87071240105541 % en 'Agenda 2020 semana vista - Pedrita Parke'
+title: 'Descuento del 30.87071240105541 % en Agenda 2020 semana vista - Pedrita Parke'
 date: 2020-01-12 09:16:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Bc-66xaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Bc-66xaL._SL200_.jpg' ]

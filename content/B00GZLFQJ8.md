@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.561729081009005 % en 'Bosch ART 26-18 LI Akku-Trimmer + Messer'
+title: 'Descuento del 55.561729081009005 % en Bosch ART 26-18 LI Akku-Trimmer + Messer'
 date: 2019/10/21 05:58:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ifujXFrbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ifujXFrbL._SL200_.jpg' ]

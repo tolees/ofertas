@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual - Bols_explorer Victoria  Bolso' al 53.69606003752345 % de descuento
+title: 'Desigual - Bols_explorer Victoria  Bolso al 53.69606003752345 % de descuento'
 date: 2019/11/25 15:42:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51abxZOSfYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51abxZOSfYL._SL200_.jpg' ]

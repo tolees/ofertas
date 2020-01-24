@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack & Jones NOS JJERON Knit Crew Neck S' al 69.01971991997713 % de descuento
+title: 'Jack & Jones NOS JJERON Knit Crew Neck S al 69.01971991997713 % de descuento'
 date: 2019/11/13 13:58:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZOeLSNDdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZOeLSNDdL._SL200_.jpg' ]

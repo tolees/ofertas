@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.43000000000001 % en 'asics Gt-II - Multisport Outdoor de sint'
+title: 'Descuento del 58.43000000000001 % en asics Gt-II - Multisport Outdoor de sint'
 date: 2019/11/04 18:53:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BhLjbrqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x%2BhLjbrqL._SL200_.jpg' ]

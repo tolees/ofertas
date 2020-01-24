@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.813953488372093 % en 'Joma 900248.200 Camiseta  Mujer  Blanco '
+title: 'Descuento del 30.813953488372093 % en Joma 900248.200 Camiseta  Mujer  Blanco '
 date: 2019/10/06 09:51:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v6a3h%2BDKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31v6a3h%2BDKL._SL200_.jpg' ]

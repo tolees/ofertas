@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Raven Remastered' al 27.61248185776488 % de descuento
+title: 'The Raven Remastered al 27.61248185776488 % de descuento'
 date: 2020-01-12 09:03:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l5pZ%2BGsOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l5pZ%2BGsOL._SL200_.jpg' ]

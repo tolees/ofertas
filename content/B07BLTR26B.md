@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Botas de fútbol para Hombres  Calzado de' al 65.72367481068724 % de descuento
+title: 'Botas de fútbol para Hombres  Calzado de al 65.72367481068724 % de descuento'
 date: 2019/12/13 18:46:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zRJ91WwPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zRJ91WwPL._SL200_.jpg' ]

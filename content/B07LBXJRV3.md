@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.17499999999999 % en 'Calvin Klein Fixed Triangle-RP Tops de B'
+title: 'Descuento del 51.17499999999999 % en Calvin Klein Fixed Triangle-RP Tops de B'
 date: 2019/11/20 10:26:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vAek5dpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vAek5dpjL._SL200_.jpg' ]

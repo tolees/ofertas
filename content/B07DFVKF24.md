@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA A.C.E. S/L Hoodie Sweatshirt  Mujer' al 73.15315315315316 % de descuento
+title: 'PUMA A.C.E. S/L Hoodie Sweatshirt  Mujer al 73.15315315315316 % de descuento'
 date: 2019/11/12 16:55:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bRH%2Bf5rqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bRH%2Bf5rqL._SL200_.jpg' ]

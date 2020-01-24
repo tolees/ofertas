@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.67487495190458 % en 'Ternua ® Jaksam Chaqueta  Hombre   Sun G'
+title: 'Descuento del 34.67487495190458 % en Ternua ® Jaksam Chaqueta  Hombre   Sun G'
 date: 2019/10/10 22:04:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ur6Bbq6fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ur6Bbq6fL._SL200_.jpg' ]

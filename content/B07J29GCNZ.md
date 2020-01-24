@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volcom FRICKN MDRN Tap JGR Pantalones  H' al 43.385714285714286 % de descuento
+title: 'Volcom FRICKN MDRN Tap JGR Pantalones  H al 43.385714285714286 % de descuento'
 date: 2019/11/11 19:55:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sJyt85ZRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sJyt85ZRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Bobs Squad 2-Grand Jubilee  Zap' al 35.555555555555564 % de descuento
+title: 'Skechers Bobs Squad 2-Grand Jubilee  Zap al 35.555555555555564 % de descuento'
 date: 2019/11/06 17:07:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rKpR0lNJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rKpR0lNJL._SL200_.jpg' ]

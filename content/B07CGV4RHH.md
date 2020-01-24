@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.01375343835959 % en 'Nacon PCGH-110ST - Auriculares gaming co'
+title: 'Descuento del 55.01375343835959 % en Nacon PCGH-110ST - Auriculares gaming co'
 date: 2019/12/02 11:52:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412uJMGaOhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412uJMGaOhL._SL200_.jpg' ]

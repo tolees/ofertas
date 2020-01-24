@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.85714285714285 % en 'find. Camiseta Manga Larga Hombre  Rojo '
+title: 'Descuento del 42.85714285714285 % en find. Camiseta Manga Larga Hombre  Rojo '
 date: 2020-01-17 07:42:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oy1xkONZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oy1xkONZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.2991202346041 % en 'Shiseido 57102 - Cuidado capilar'
+title: 'Descuento del 68.2991202346041 % en Shiseido 57102 - Cuidado capilar'
 date: 2019/11/07 03:00:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y-oVcHD7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y-oVcHD7L._SL200_.jpg' ]

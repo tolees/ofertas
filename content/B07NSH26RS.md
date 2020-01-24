@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Assassin s Creed III Remastered' al 36.46756216061732 % de descuento
+title: 'Assassin s Creed III Remastered al 36.46756216061732 % de descuento'
 date: 2020-01-13 12:55:28
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Rainforest Winter 1 Chaqueta  ' al 65.45226130653265 % de descuento
+title: 'Napapijri Rainforest Winter 1 Chaqueta   al 65.45226130653265 % de descuento'
 date: 2020-01-19 12:14:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UYgGjCN1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UYgGjCN1L._SL200_.jpg' ]

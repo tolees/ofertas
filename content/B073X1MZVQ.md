@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Billabong Intruder 302 Gbs  Traje de Nat' al 52.37037037037038 % de descuento
+title: 'Billabong Intruder 302 Gbs  Traje de Nat al 52.37037037037038 % de descuento'
 date: 2019/10/08 16:15:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jf%2BED0wBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jf%2BED0wBL._SL200_.jpg' ]

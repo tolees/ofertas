@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.25200833085391 % en 'SUPRBIRD Guantes Ciclismo MTB Dedo Medio'
+title: 'Descuento del 73.25200833085391 % en SUPRBIRD Guantes Ciclismo MTB Dedo Medio'
 date: 2020-01-02 17:37:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jo317uPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jo317uPZL._SL200_.jpg' ]

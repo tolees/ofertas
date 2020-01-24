@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.834862385321095 % en 'Lacoste Carnaby EVO 319 3 SMA  Zapatilla'
+title: 'Descuento del 59.834862385321095 % en Lacoste Carnaby EVO 319 3 SMA  Zapatilla'
 date: 2020-01-04 12:43:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ARgAl-mYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ARgAl-mYL._SL200_.jpg' ]

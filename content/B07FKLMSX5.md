@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.19455564451561 % en 'Trangoworld PC008107 Pantalón Largo  Muj'
+title: 'Descuento del 43.19455564451561 % en Trangoworld PC008107 Pantalón Largo  Muj'
 date: 2019/11/07 06:22:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LZaAEWWqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LZaAEWWqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.75150300601203 % en 'Kingston DTDUO3/32GB - Memoria USB de 32'
+title: 'Descuento del 55.75150300601203 % en Kingston DTDUO3/32GB - Memoria USB de 32'
 date: 2019/11/05 18:51:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q05h9NFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q05h9NFhL._SL200_.jpg' ]

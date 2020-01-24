@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shock Absorber Ultimate Run Bra Sujetado' al 41.501103752759384 % de descuento
+title: 'Shock Absorber Ultimate Run Bra Sujetado al 41.501103752759384 % de descuento'
 date: 2020-01-22 18:08:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411yhf1mrXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411yhf1mrXL._SL200_.jpg' ]

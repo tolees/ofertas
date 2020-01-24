@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell 4300347 Ingletadora de Doble Cor' al 30.99183197199533 % de descuento
+title: 'Einhell 4300347 Ingletadora de Doble Cor al 30.99183197199533 % de descuento'
 date: 2019/11/01 18:20:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p0F-bqazL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p0F-bqazL._SL200_.jpg' ]

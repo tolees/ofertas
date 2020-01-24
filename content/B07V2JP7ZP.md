@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.559449311639554 % en 'Premium Paws Collar Anti Ladridos  Colla'
+title: 'Descuento del 47.559449311639554 % en Premium Paws Collar Anti Ladridos  Colla'
 date: 2019/11/03 11:48:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2Mw1ENUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2Mw1ENUL._SL200_.jpg' ]

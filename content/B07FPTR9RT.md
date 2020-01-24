@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Axis  Zapatillas Unisex Adulto  Bla' al 39.96360327570518 % de descuento
+title: 'PUMA Axis  Zapatillas Unisex Adulto  Bla al 39.96360327570518 % de descuento'
 date: 2019/10/06 23:30:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NHIfE-RaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crema de Manos Deliciosas Almendra - 30 ' al 31.854199683042783 % de descuento
+title: 'Crema de Manos Deliciosas Almendra - 30  al 31.854199683042783 % de descuento'
 date: 2019/10/20 10:27:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41av38KEPoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41av38KEPoL._SL200_.jpg' ]

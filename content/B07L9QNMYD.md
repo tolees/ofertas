@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Erzin Polo  Rojo  True Red R70' al 69.56521739130434 % de descuento
+title: 'Napapijri Erzin Polo  Rojo  True Red R70 al 69.56521739130434 % de descuento'
 date: 2019/10/27 10:57:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xYT80zJrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xYT80zJrL._SL200_.jpg' ]

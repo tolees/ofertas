@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.958367126250344 % en 'BelleStyle Juguetes Cortar Frutas Verdur'
+title: 'Descuento del 45.958367126250344 % en BelleStyle Juguetes Cortar Frutas Verdur'
 date: 2019/12/09 20:32:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51THTd-WpSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51THTd-WpSL._SL200_.jpg' ]

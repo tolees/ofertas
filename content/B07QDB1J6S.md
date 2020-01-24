@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.992798559711936 % en 'Jack & Jones NOS Jcofox Sweat Mix Sudade'
+title: 'Descuento del 63.992798559711936 % en Jack & Jones NOS Jcofox Sweat Mix Sudade'
 date: 2019/10/31 11:12:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MTiZoo12L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MTiZoo12L._SL200_.jpg' ]

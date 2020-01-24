@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moma Bikes Patinete Electrico Plegable U' al 40.00285714285714 % de descuento
+title: 'Moma Bikes Patinete Electrico Plegable U al 40.00285714285714 % de descuento'
 date: 2019/11/20 17:04:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r9Jmbd4OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r9Jmbd4OL._SL200_.jpg' ]

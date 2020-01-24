@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO City ' al 80.00800080008001 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for LEGO City  al 80.00800080008001 % de descuento'
 date: 2019/12/23 00:29:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CBge8jtXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CBge8jtXL._SL200_.jpg' ]

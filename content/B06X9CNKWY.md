@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Pro Compression Camiseta de Manga L' al 28.6 % de descuento
+title: 'Nike Pro Compression Camiseta de Manga L al 28.6 % de descuento'
 date: 2019/11/30 12:14:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iH8OUOn5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iH8OUOn5L._SL200_.jpg' ]

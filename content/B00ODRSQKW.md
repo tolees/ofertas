@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jabra Evolve 80 - Auricular con micrófon' al 34.271753715283936 % de descuento
+title: 'Jabra Evolve 80 - Auricular con micrófon al 34.271753715283936 % de descuento'
 date: 2019/11/04 17:32:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z2BlOn5iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z2BlOn5iL._SL200_.jpg' ]

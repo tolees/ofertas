@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop!- Val Star Wars: Red Cup Figur' al 62.06896551724138 % de descuento
+title: 'Funko Pop!- Val Star Wars: Red Cup Figur al 62.06896551724138 % de descuento'
 date: 2020-01-06 14:30:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Krp49KqXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Krp49KqXL._SL200_.jpg' ]

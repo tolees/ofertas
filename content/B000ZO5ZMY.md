@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 85.75031525851198 % en 'Pelikan 361363 - Cartucho de tinta Broth'
+title: 'Descuento del 85.75031525851198 % en Pelikan 361363 - Cartucho de tinta Broth'
 date: 2019/12/14 23:40:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NBtSr2-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NBtSr2-PL._SL200_.jpg' ]

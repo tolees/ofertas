@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oregon Scientific RMR221P Reloj proyecto' al 42.05784204671858 % de descuento
+title: 'Oregon Scientific RMR221P Reloj proyecto al 42.05784204671858 % de descuento'
 date: 2019/11/25 10:15:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dwooYD7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dwooYD7DL._SL200_.jpg' ]

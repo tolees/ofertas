@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alicates multiherramientas 12 en 1 plega' al 64.2828764402066 % de descuento
+title: 'Alicates multiherramientas 12 en 1 plega al 64.2828764402066 % de descuento'
 date: 2020-01-16 09:40:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ParTw9QEL._SL200_.jpg' ]

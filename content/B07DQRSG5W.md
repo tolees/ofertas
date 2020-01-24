@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.447782546495 % en 'adidas Supernova Camiseta  Naranja  Clea'
+title: 'Descuento del 73.447782546495 % en adidas Supernova Camiseta  Naranja  Clea'
 date: 2019/10/12 03:53:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GIuR8XlCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GIuR8XlCL._SL200_.jpg' ]

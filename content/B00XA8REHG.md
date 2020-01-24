@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.17198922662562 % en 'Hojiblanca  Aceite de oliva  Virgen extr'
+title: 'Descuento del 47.17198922662562 % en Hojiblanca  Aceite de oliva  Virgen extr'
 date: 2020-01-13 13:19:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z5nY8R5PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z5nY8R5PL._SL200_.jpg' ]

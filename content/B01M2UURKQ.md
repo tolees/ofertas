@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.845983787767125 % en 'Amzdeal Caja de Fotografía Caja de Luz P'
+title: 'Descuento del 36.845983787767125 % en Amzdeal Caja de Fotografía Caja de Luz P'
 date: 2020-01-08 16:58:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518D0A3juML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518D0A3juML._SL200_.jpg' ]

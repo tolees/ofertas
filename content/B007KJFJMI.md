@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.32021466905188 % en 'Ravensburger - Atardecer paradisíaco  Pu'
+title: 'Descuento del 49.32021466905188 % en Ravensburger - Atardecer paradisíaco  Pu'
 date: 2019/12/09 22:03:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51azyOZv5TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51azyOZv5TL._SL200_.jpg' ]

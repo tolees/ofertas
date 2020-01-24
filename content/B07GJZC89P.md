@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ecovacs Deebot OZMO Slim10 - Robot Aspir' al 48.49498327759198 % de descuento
+title: 'Ecovacs Deebot OZMO Slim10 - Robot Aspir al 48.49498327759198 % de descuento'
 date: 2020-01-22 09:07:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UrsmYLoOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UrsmYLoOL._SL200_.jpg' ]

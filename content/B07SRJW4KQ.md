@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.151717239079694 % en 'adidas Terrex Agravic Boa  Zapatillas de'
+title: 'Descuento del 35.151717239079694 % en adidas Terrex Agravic Boa  Zapatillas de'
 date: 2019/11/19 15:02:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iE3Fj3wxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iE3Fj3wxL._SL200_.jpg' ]

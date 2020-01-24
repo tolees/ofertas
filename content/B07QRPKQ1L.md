@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.84404636459432 % en 'LANGRIA Zapatero de bambú de 4 Niveles A'
+title: 'Descuento del 51.84404636459432 % en LANGRIA Zapatero de bambú de 4 Niveles A'
 date: 2019/12/25 17:31:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sTjrj5ApL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sTjrj5ApL._SL200_.jpg' ]

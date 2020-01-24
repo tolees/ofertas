@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch GSB 120 - LI Professional 12V with' al 25.00312539067383 % de descuento
+title: 'Bosch GSB 120 - LI Professional 12V with al 25.00312539067383 % de descuento'
 date: 2019/11/30 17:13:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Pa34VLc%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Pa34VLc%2BL._SL200_.jpg' ]

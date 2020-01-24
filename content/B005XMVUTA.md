@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DIM Generous Sujetador  Blanco  105C par' al 26.169014084507037 % de descuento
+title: 'DIM Generous Sujetador  Blanco  105C par al 26.169014084507037 % de descuento'
 date: 2019/12/20 09:38:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O3zCmGO%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O3zCmGO%2BL._SL200_.jpg' ]

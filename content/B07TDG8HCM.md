@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face M Cyclone 2 Chaqueta  Hom' al 32.95294117647059 % de descuento
+title: 'The North Face M Cyclone 2 Chaqueta  Hom al 32.95294117647059 % de descuento'
 date: 2019/10/11 08:27:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rPOHPvabL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rPOHPvabL._SL200_.jpg' ]

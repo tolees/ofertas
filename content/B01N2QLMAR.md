@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tous Renita Piel Rene  Bolso Bandolera p' al 42.14736842105263 % de descuento
+title: 'Tous Renita Piel Rene  Bolso Bandolera p al 42.14736842105263 % de descuento'
 date: 2019/11/25 15:58:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kZW%2BCVd0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kZW%2BCVd0L._SL200_.jpg' ]

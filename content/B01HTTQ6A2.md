@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.3296931877275 % en 'Vileda Turbo EasyWring und Clean Komplet'
+title: 'Descuento del 42.3296931877275 % en Vileda Turbo EasyWring und Clean Komplet'
 date: 2020-01-21 18:09:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GUkosooEL._SL200_.jpg' ]

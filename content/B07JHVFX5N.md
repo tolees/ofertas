@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Future Grip 19.4 Guantes De Portero' al 35.08771929824561 % de descuento
+title: 'PUMA Future Grip 19.4 Guantes De Portero al 35.08771929824561 % de descuento'
 date: 2019/10/27 12:02:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YWfBJh-RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YWfBJh-RL._SL200_.jpg' ]

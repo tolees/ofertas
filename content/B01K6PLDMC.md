@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.3425936215135 % en 'Star Wars  Force Band - Pulsera para rob'
+title: 'Descuento del 83.3425936215135 % en Star Wars  Force Band - Pulsera para rob'
 date: 2019/11/05 09:11:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ztCl9KJyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ztCl9KJyL._SL200_.jpg' ]

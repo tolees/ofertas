@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fred Perry M3600  Polo Para Hombre  Azul' al 50.348314606741575 % de descuento
+title: 'Fred Perry M3600  Polo Para Hombre  Azul al 50.348314606741575 % de descuento'
 date: 2019/10/21 11:10:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eArBUpPpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eArBUpPpL._SL200_.jpg' ]

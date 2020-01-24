@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HKT by Hackett London Hkt Cotton Field J' al 46.995875599152825 % de descuento
+title: 'HKT by Hackett London Hkt Cotton Field J al 46.995875599152825 % de descuento'
 date: 2019/12/06 08:45:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nAZyDS0oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nAZyDS0oL._SL200_.jpg' ]

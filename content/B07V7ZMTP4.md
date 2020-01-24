@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cargador Coche Usb Carga Rápida 30W Para' al 45.47521600727603 % de descuento
+title: 'Cargador Coche Usb Carga Rápida 30W Para al 45.47521600727603 % de descuento'
 date: 2020-01-16 11:19:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zT5HiFOEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zT5HiFOEL._SL200_.jpg' ]

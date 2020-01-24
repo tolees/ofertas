@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.19561302995581 % en 'Versa Perchero de pie Blanco  Metal Laca'
+title: 'Descuento del 45.19561302995581 % en Versa Perchero de pie Blanco  Metal Laca'
 date: 2019/12/14 13:24:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21ilqbcybuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21ilqbcybuL._SL200_.jpg' ]

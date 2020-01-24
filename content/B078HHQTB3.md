@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.59368988072335 % en 'Springfield Jersey Estructura Delantera '
+title: 'Descuento del 43.59368988072335 % en Springfield Jersey Estructura Delantera '
 date: 2019/11/15 14:04:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ELRn6kauL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ELRn6kauL._SL200_.jpg' ]

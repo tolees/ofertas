@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cable USB C  Techole Cable Tipo C a USB ' al 40.02668445630421 % de descuento
+title: 'Cable USB C  Techole Cable Tipo C a USB  al 40.02668445630421 % de descuento'
 date: 2020-01-18 13:50:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412QWlUriBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412QWlUriBL._SL200_.jpg' ]

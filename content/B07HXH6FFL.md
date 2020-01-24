@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy A7 - Smartphone de 6"  Oc' al 37.24928366762178 % de descuento
+title: 'Samsung Galaxy A7 - Smartphone de 6"  Oc al 37.24928366762178 % de descuento'
 date: 2019/10/29 09:11:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414ixNns2EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414ixNns2EL._SL200_.jpg' ]

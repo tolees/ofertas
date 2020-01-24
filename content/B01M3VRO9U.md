@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans London Cash  Vaqueros para Ho' al 46.641304347826086 % de descuento
+title: 'Pepe Jeans London Cash  Vaqueros para Ho al 46.641304347826086 % de descuento'
 date: 2019/10/06 20:45:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uoZroYZNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uoZroYZNL._SL200_.jpg' ]

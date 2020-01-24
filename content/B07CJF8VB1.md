@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIAT500 Rodilleras y Coderas FIAT 500 F5' al 75.21902377972467 % de descuento
+title: 'FIAT500 Rodilleras y Coderas FIAT 500 F5 al 75.21902377972467 % de descuento'
 date: 2020-01-10 09:28:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416jOBKElKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416jOBKElKL._SL200_.jpg' ]

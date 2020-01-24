@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Blizzard Fighter Jacket Chaquet' al 46.73246662898387 % de descuento
+title: 'Columbia Blizzard Fighter Jacket Chaquet al 46.73246662898387 % de descuento'
 date: 2019/11/08 15:38:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pb1qTTvHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pb1qTTvHL._SL200_.jpg' ]

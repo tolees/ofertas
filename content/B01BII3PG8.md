@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Naturalista NG22 Pleasant YUGEN  Bota' al 46.55199999999999 % de descuento
+title: 'El Naturalista NG22 Pleasant YUGEN  Bota al 46.55199999999999 % de descuento'
 date: 2020-01-13 17:07:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CXlEVN%2BBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CXlEVN%2BBL._SL200_.jpg' ]

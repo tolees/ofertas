@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Rival Fleece Sportstyle Gra' al 44.46666666666667 % de descuento
+title: 'Under Armour Rival Fleece Sportstyle Gra al 44.46666666666667 % de descuento'
 date: 2019/11/26 09:08:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DjVQq9B1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DjVQq9B1L._SL200_.jpg' ]

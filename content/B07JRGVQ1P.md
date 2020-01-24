@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.290612944706375 % en 'Zapatillas de Seguridad Hombre  LM-18 Za'
+title: 'Descuento del 34.290612944706375 % en Zapatillas de Seguridad Hombre  LM-18 Za'
 date: 2020-01-14 16:31:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xy%2Bngsb-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xy%2Bngsb-L._SL200_.jpg' ]

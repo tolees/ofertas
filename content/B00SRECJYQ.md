@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disney Frozen - Puzzle 104 Piezas  con J' al 72.87287287287288 % de descuento
+title: 'Disney Frozen - Puzzle 104 Piezas  con J al 72.87287287287288 % de descuento'
 date: 2019/11/07 13:08:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61t21n9eyoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61t21n9eyoL._SL200_.jpg' ]

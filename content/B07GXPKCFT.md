@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Recci - Topper Colchón de Espuma 180x190' al 44.44691371742875 % de descuento
+title: 'Recci - Topper Colchón de Espuma 180x190 al 44.44691371742875 % de descuento'
 date: 2019/11/26 12:05:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bHxW1FTTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bHxW1FTTL._SL200_.jpg' ]

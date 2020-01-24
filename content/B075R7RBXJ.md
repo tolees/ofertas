@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance X-90  Zapatillas para Hombre' al 51.463636363636354 % de descuento
+title: 'New Balance X-90  Zapatillas para Hombre al 51.463636363636354 % de descuento'
 date: 2019/11/01 20:27:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hVunRILZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hVunRILZL._SL200_.jpg' ]

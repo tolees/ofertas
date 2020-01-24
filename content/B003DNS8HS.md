@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch 2607225136 10.8V AL 1130 CV Li-ion' al 68.01360272054411 % de descuento
+title: 'Bosch 2607225136 10.8V AL 1130 CV Li-ion al 68.01360272054411 % de descuento'
 date: 2019/11/11 07:04:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mH1r%2BLZrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mH1r%2BLZrL._SL200_.jpg' ]

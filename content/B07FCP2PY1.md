@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ETNAB|#Etnies Scout  Zapatillas de Skate' al 60.33593879926825 % de descuento
+title: 'ETNAB|#Etnies Scout  Zapatillas de Skate al 60.33593879926825 % de descuento'
 date: 2019/11/15 13:48:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Tyb%2BgAA6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Tyb%2BgAA6L._SL200_.jpg' ]

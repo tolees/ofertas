@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual TS_Daphne Camiseta  Blanco  Cot' al 56.082698585418946 % de descuento
+title: 'Desigual TS_Daphne Camiseta  Blanco  Cot al 56.082698585418946 % de descuento'
 date: 2019/11/08 22:55:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419GsfSVnnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419GsfSVnnL._SL200_.jpg' ]

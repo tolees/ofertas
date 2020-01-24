@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans New Brooke Vaqueros  Azul  10' al 55.800000000000004 % de descuento
+title: 'Pepe Jeans New Brooke Vaqueros  Azul  10 al 55.800000000000004 % de descuento'
 date: 2020-01-15 12:04:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415MaCHSa7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415MaCHSa7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'V7 SB2526-USB-6E Altavoz soundbar Negro ' al 66.7468719923003 % de descuento
+title: 'V7 SB2526-USB-6E Altavoz soundbar Negro  al 66.7468719923003 % de descuento'
 date: 2020-01-03 08:19:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jNmR7SdXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jNmR7SdXL._SL200_.jpg' ]

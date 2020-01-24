@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Damen D Vega MOC B Mokassin  Rot  S' al 73.62921348314606 % de descuento
+title: 'Geox Damen D Vega MOC B Mokassin  Rot  S al 73.62921348314606 % de descuento'
 date: 2019/12/02 07:34:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416SvSNjO-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416SvSNjO-L._SL200_.jpg' ]

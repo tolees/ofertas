@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.46766706937115 % en 'Salomon XA Pro 3D GTX  Zapatillas de Tra'
+title: 'Descuento del 35.46766706937115 % en Salomon XA Pro 3D GTX  Zapatillas de Tra'
 date: 2019/11/21 19:42:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416i3wbv6lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416i3wbv6lL._SL200_.jpg' ]

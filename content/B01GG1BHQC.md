@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.28260869565217 % en 'Hasbro Gaming Clasico Risk  Versión Espa'
+title: 'Descuento del 29.28260869565217 % en Hasbro Gaming Clasico Risk  Versión Espa'
 date: 2020-01-22 15:10:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519AzRJPoyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519AzRJPoyL._SL200_.jpg' ]

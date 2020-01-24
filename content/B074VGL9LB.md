@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony WHH900N  Auriculares  Inalámbrico y' al 29.783333333333328 % de descuento
+title: 'Sony WHH900N  Auriculares  Inalámbrico y al 29.783333333333328 % de descuento'
 date: 2020-01-04 18:53:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lFN6yyLGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lFN6yyLGL._SL200_.jpg' ]

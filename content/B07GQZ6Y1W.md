@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.63213811420983 % en 'Espumador de Leche Electrico KYG Batidor'
+title: 'Descuento del 33.63213811420983 % en Espumador de Leche Electrico KYG Batidor'
 date: 2019/10/29 17:35:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ALcXA0jpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ALcXA0jpL._SL200_.jpg' ]

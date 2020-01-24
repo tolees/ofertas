@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.037868895272915 % en 'Tous Elice New  Cartera para Mujer  Mult'
+title: 'Descuento del 45.037868895272915 % en Tous Elice New  Cartera para Mujer  Mult'
 date: 2019/11/25 07:30:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V8fbukhoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V8fbukhoL._SL200_.jpg' ]

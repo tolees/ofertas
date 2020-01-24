@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JOCCA Soporte De Techo Para Bicicleta' al 49.44444444444444 % de descuento
+title: 'JOCCA Soporte De Techo Para Bicicleta al 49.44444444444444 % de descuento'
 date: 2019/11/03 09:59:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zvY3CbJEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zvY3CbJEL._SL200_.jpg' ]

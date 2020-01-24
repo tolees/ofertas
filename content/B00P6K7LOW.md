@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BISSELL Discos Perfumados - Accesorio pa' al 64.35719784449576 % de descuento
+title: 'BISSELL Discos Perfumados - Accesorio pa al 64.35719784449576 % de descuento'
 date: 2019/11/03 23:13:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ugvhTduAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ugvhTduAL._SL200_.jpg' ]

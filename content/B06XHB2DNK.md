@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.444042076220043 % en 'Westinghouse Lighting Contempra Ventilad'
+title: 'Descuento del 25.444042076220043 % en Westinghouse Lighting Contempra Ventilad'
 date: 2019/11/13 23:18:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nt51dbK0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nt51dbK0L._SL200_.jpg' ]

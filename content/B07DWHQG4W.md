@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.146715571857285 % en 'Neo Geo Mini - Gamepad Mini  Negro  Neo '
+title: 'Descuento del 40.146715571857285 % en Neo Geo Mini - Gamepad Mini  Negro  Neo '
 date: 2019/11/18 23:38:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qfQ0DM9XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qfQ0DM9XL._SL200_.jpg' ]

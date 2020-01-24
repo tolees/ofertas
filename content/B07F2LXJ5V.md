@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Rigging - Chaqueta Impermea' al 46.715384615384615 % de descuento
+title: 'Helly Hansen Rigging - Chaqueta Impermea al 46.715384615384615 % de descuento'
 date: 2019/10/07 15:30:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k0fD9jngL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k0fD9jngL._SL200_.jpg' ]

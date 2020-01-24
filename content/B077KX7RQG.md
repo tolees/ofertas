@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas Pv18 1003 Mono Largo   ' al 45.30442035029192 % de descuento
+title: 'Dolores Promesas Pv18 1003 Mono Largo    al 45.30442035029192 % de descuento'
 date: 2019/11/09 20:40:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zy3xd7lyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zy3xd7lyL._SL200_.jpg' ]

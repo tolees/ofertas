@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.05722460658083 % en 'Skechers Breathe-Easy-Simply Sincere  Za'
+title: 'Descuento del 40.05722460658083 % en Skechers Breathe-Easy-Simply Sincere  Za'
 date: 2019/11/20 03:00:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31z9QE1IZRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31z9QE1IZRL._SL200_.jpg' ]

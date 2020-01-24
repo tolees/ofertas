@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.007143877696805 % en 'adidas Cloudfoam Pure W  Zapatillas de D'
+title: 'Descuento del 50.007143877696805 % en adidas Cloudfoam Pure W  Zapatillas de D'
 date: 2019/12/27 09:21:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Gv3yMvnWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Gv3yMvnWL._SL200_.jpg' ]

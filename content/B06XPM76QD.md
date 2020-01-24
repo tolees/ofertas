@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.020013342228147 % en 'IRIS & LILLY Braguita de Bikini por la C'
+title: 'Descuento del 30.020013342228147 % en IRIS & LILLY Braguita de Bikini por la C'
 date: 2019/12/14 22:55:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517TaINVZIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517TaINVZIL._SL200_.jpg' ]

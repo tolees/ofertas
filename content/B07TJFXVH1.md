@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.63553973134812 % en 'Extractor de zumo AMZCHEF Licuadora Pren'
+title: 'Descuento del 67.63553973134812 % en Extractor de zumo AMZCHEF Licuadora Pren'
 date: 2019/12/05 10:15:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515aj6l9I3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515aj6l9I3L._SL200_.jpg' ]

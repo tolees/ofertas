@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.97050147492626 % en 'Base de maquillaje. Skin79'
+title: 'Descuento del 29.97050147492626 % en Base de maquillaje. Skin79'
 date: 2019/11/11 02:51:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411n%2BfwwH4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411n%2BfwwH4L._SL200_.jpg' ]

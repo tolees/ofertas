@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'OwlFay Disfraz Elsa Frozen Niñas Princes'
+title: 'Descuento del 50.0 % en OwlFay Disfraz Elsa Frozen Niñas Princes'
 date: 2020-01-18 10:53:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H8FdkQIcL._SL200_.jpg' ]

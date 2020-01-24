@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Elevated Leather Flatform' al 69.85588470776621 % de descuento
+title: 'Tommy Hilfiger Elevated Leather Flatform al 69.85588470776621 % de descuento'
 date: 2019/11/21 09:42:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HwY1OBTHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HwY1OBTHL._SL200_.jpg' ]

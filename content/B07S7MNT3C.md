@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.72226855713095 % en 'Rage 2'
+title: 'Descuento del 66.72226855713095 % en Rage 2'
 date: 2020-01-02 19:09:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B9csN8toL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61%2B9csN8toL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Leifheit- Portarrollos Parat Plus' al 32.78969957081546 % de descuento
+title: 'Leifheit- Portarrollos Parat Plus al 32.78969957081546 % de descuento'
 date: 2019/12/05 13:29:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YSkVdDoSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YSkVdDoSL._SL200_.jpg' ]

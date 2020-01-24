@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.899749373433586 % en 'Kayhan Hombre Camisa Royal Paisley Black'
+title: 'Descuento del 49.899749373433586 % en Kayhan Hombre Camisa Royal Paisley Black'
 date: 2019/10/05 18:22:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P05QauHkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P05QauHkL._SL200_.jpg' ]

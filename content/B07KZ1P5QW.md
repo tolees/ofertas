@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.10144668690839 % en 'Springfield 8.G.M.Blazer Lino Rayas Chaq'
+title: 'Descuento del 68.10144668690839 % en Springfield 8.G.M.Blazer Lino Rayas Chaq'
 date: 2019/11/11 11:30:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZkJ0CIPeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZkJ0CIPeL._SL200_.jpg' ]

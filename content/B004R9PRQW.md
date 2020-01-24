@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.58538945331399 % en 'WMF Quality One Olla Baja  Acero Inoxida'
+title: 'Descuento del 45.58538945331399 % en WMF Quality One Olla Baja  Acero Inoxida'
 date: 2019/12/27 07:35:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T7eMGzxDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T7eMGzxDL._SL200_.jpg' ]

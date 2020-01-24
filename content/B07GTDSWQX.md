@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Berg Outdoor ADIÇA Hybrid Jacket  Hombre' al 79.18639546515504 % de descuento
+title: 'Berg Outdoor ADIÇA Hybrid Jacket  Hombre al 79.18639546515504 % de descuento'
 date: 2019/11/15 11:27:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ohIu07GdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ohIu07GdL._SL200_.jpg' ]

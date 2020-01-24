@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel - Figura de Spiderman  Armadura L' al 39.73529411764707 % de descuento
+title: 'Marvel - Figura de Spiderman  Armadura L al 39.73529411764707 % de descuento'
 date: 2019/12/16 09:35:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B9Y6BenL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a%2B9Y6BenL._SL200_.jpg' ]

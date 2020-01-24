@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.41095122407027 % en 'M2 Beauté  Mascarilla refrescante para l'
+title: 'Descuento del 51.41095122407027 % en M2 Beauté  Mascarilla refrescante para l'
 date: 2019/10/16 00:46:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NSwvibqVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NSwvibqVL._SL200_.jpg' ]

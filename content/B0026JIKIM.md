@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Seductive Comfort-Customize' al 33.88960205391528 % de descuento
+title: 'Calvin Klein Seductive Comfort-Customize al 33.88960205391528 % de descuento'
 date: 2019/11/26 10:39:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T7Bi6v9FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T7Bi6v9FL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Rainforest W Sum 1 Chaqueta  B' al 40.81005586592179 % de descuento
+title: 'Napapijri Rainforest W Sum 1 Chaqueta  B al 40.81005586592179 % de descuento'
 date: 2019/10/10 12:08:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wBmf4wmDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wBmf4wmDL._SL200_.jpg' ]

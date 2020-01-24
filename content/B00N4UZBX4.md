@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.771476230191826 % en 'Philips Avent Magic - Taza antigoteo de '
+title: 'Descuento del 25.771476230191826 % en Philips Avent Magic - Taza antigoteo de '
 date: 2019/11/18 08:23:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410F%2Bs-hITL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410F%2Bs-hITL._SL200_.jpg' ]

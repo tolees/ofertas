@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.230648638056046 % en 'Dekoarte 262 - Cuadro moderno en lienzo '
+title: 'Descuento del 41.230648638056046 % en Dekoarte 262 - Cuadro moderno en lienzo '
 date: 2019/11/22 11:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418fsMc-D%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418fsMc-D%2BL._SL200_.jpg' ]

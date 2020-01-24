@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 88.6843790012804 % en 'Bombers Original Berlin Chaqueta  Rot  B'
+title: 'Descuento del 88.6843790012804 % en Bombers Original Berlin Chaqueta  Rot  B'
 date: 2020-01-02 11:05:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LVcFvdbSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LVcFvdbSL._SL200_.jpg' ]

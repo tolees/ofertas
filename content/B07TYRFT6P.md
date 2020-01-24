@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop Doctor Who Kerblam Man Vinyl Figure' al 56.80327868852459 % de descuento
+title: 'Pop Doctor Who Kerblam Man Vinyl Figure al 56.80327868852459 % de descuento'
 date: 2020-01-11 14:32:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I0hxoB8VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I0hxoB8VL._SL200_.jpg' ]

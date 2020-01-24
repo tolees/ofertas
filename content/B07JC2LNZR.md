@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Autumn Rise Mid Jacket Chaqueta' al 59.32296614830742 % de descuento
+title: 'Columbia Autumn Rise Mid Jacket Chaqueta al 59.32296614830742 % de descuento'
 date: 2019/11/26 14:34:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BigvGB83L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BigvGB83L._SL200_.jpg' ]

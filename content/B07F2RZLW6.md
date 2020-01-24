@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH Logo Crew Sudadera  Homb' al 41.51666666666666 % de descuento
+title: 'Helly Hansen HH Logo Crew Sudadera  Homb al 41.51666666666666 % de descuento'
 date: 2019/12/28 10:59:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YgfMR5sWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YgfMR5sWL._SL200_.jpg' ]

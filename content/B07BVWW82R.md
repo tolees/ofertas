@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buyger 22pcs Juguete de Helados Juguetes' al 63.68257554363175 % de descuento
+title: 'Buyger 22pcs Juguete de Helados Juguetes al 63.68257554363175 % de descuento'
 date: 2019/12/24 15:17:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412YzNjer1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412YzNjer1L._SL200_.jpg' ]

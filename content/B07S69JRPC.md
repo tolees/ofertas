@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.59618668184406 % en 'Karen Millen Tie Waist Eyelet Trouser Pa'
+title: 'Descuento del 70.59618668184406 % en Karen Millen Tie Waist Eyelet Trouser Pa'
 date: 2019/12/23 15:35:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sWu7ROv3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sWu7ROv3L._SL200_.jpg' ]

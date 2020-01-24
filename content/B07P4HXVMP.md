@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic University L/s Shirt Ca' al 34.57636805257893 % de descuento
+title: 'Superdry Classic University L/s Shirt Ca al 34.57636805257893 % de descuento'
 date: 2019/12/05 11:45:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ziinvuEfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ziinvuEfL._SL200_.jpg' ]

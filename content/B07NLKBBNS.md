@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.48717948717949 % en 'Versace Jeans CoutureBorsaMujerBolso de '
+title: 'Descuento del 34.48717948717949 % en Versace Jeans CoutureBorsaMujerBolso de '
 date: 2019/11/17 11:59:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MPOQXUo7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MPOQXUo7L._SL200_.jpg' ]

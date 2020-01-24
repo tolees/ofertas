@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Final 6 MS Trainer Balón de Fútbol ' al 27.632311977715872 % de descuento
+title: 'PUMA Final 6 MS Trainer Balón de Fútbol  al 27.632311977715872 % de descuento'
 date: 2019/12/19 23:23:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J3sjvHJcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J3sjvHJcL._SL200_.jpg' ]

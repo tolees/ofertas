@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teka MWE 230 G Microondas con grill  125' al 33.608000000000004 % de descuento
+title: 'Teka MWE 230 G Microondas con grill  125 al 33.608000000000004 % de descuento'
 date: 2020-01-21 22:48:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edhKSFehL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41edhKSFehL._SL200_.jpg' ]

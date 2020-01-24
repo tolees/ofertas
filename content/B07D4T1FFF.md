@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Manta de tela sherpa y mi' al 25.012506253126553 % de descuento
+title: 'AmazonBasics - Manta de tela sherpa y mi al 25.012506253126553 % de descuento'
 date: 2019/11/12 10:36:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412m9G0kiUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412m9G0kiUL._SL200_.jpg' ]

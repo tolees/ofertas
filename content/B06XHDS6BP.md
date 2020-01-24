@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Verglas Down Insulator Chaq' al 45.40869565217391 % de descuento
+title: 'Helly Hansen Verglas Down Insulator Chaq al 45.40869565217391 % de descuento'
 date: 2019/12/04 12:59:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LTIOqRGgL._SL200_.jpg' ]

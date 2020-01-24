@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Tokyo Airtex  Camiseta sin Mang' al 66.43321660830415 % de descuento
+title: 'New Look Tokyo Airtex  Camiseta sin Mang al 66.43321660830415 % de descuento'
 date: 2019/12/11 09:59:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41szfoY3BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41szfoY3BJL._SL200_.jpg' ]

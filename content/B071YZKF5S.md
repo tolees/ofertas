@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Purina Gourmet Gold Doble Placer comida ' al 31.944444444444443 % de descuento
+title: 'Purina Gourmet Gold Doble Placer comida  al 31.944444444444443 % de descuento'
 date: 2020-01-01 20:29:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jwELpDJgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jwELpDJgL._SL200_.jpg' ]

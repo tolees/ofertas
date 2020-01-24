@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.099999999999987 % en 'Nike Revolution 4  Zapatillas de Running'
+title: 'Descuento del 25.099999999999987 % en Nike Revolution 4  Zapatillas de Running'
 date: 2019/10/22 15:17:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N8vSlZ68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N8vSlZ68L._SL200_.jpg' ]

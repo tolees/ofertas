@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HG Armour Ankle Crop Cap' al 75.45008183306055 % de descuento
+title: 'Under Armour UA HG Armour Ankle Crop Cap al 75.45008183306055 % de descuento'
 date: 2019/10/06 10:10:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oVX4lzaNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oVX4lzaNL._SL200_.jpg' ]

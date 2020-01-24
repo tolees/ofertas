@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clementoni - Puzzle de 1000 Piezas Neusc' al 58.44961240310078 % de descuento
+title: 'Clementoni - Puzzle de 1000 Piezas Neusc al 58.44961240310078 % de descuento'
 date: 2019/10/31 13:53:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BsuxZH-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51A%2BsuxZH-L._SL200_.jpg' ]

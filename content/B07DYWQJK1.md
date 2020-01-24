@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.02226815121009 % en 'Columbia Pike Lake  Chaqueta forrada con'
+title: 'Descuento del 34.02226815121009 % en Columbia Pike Lake  Chaqueta forrada con'
 date: 2019/11/14 19:43:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41agXZzUWNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41agXZzUWNL._SL200_.jpg' ]

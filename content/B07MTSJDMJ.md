@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.699999999999996 % en 'Hurley M PRM OAO Small Box tee Camisetas'
+title: 'Descuento del 48.699999999999996 % en Hurley M PRM OAO Small Box tee Camisetas'
 date: 2019/11/03 04:47:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kyg5xFVOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kyg5xFVOL._SL200_.jpg' ]

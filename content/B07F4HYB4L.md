@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Viking Classic Indie Monsters  Botas de ' al 25.044722719141323 % de descuento
+title: 'Viking Classic Indie Monsters  Botas de  al 25.044722719141323 % de descuento'
 date: 2019/12/23 10:52:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hiC4sK8jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hiC4sK8jL._SL200_.jpg' ]

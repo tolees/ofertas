@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.7737556561086 % en 'Kids Frozen 2 Elsa Anna Costume Deluxe C'
+title: 'Descuento del 49.7737556561086 % en Kids Frozen 2 Elsa Anna Costume Deluxe C'
 date: 2019/12/11 22:07:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515reKLLeFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515reKLLeFL._SL200_.jpg' ]

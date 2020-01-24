@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 80.24176740308462 % en 'G-STAR RAW D-STAQ 5-Pocket Mid Waist Ski'
+title: 'Descuento del 80.24176740308462 % en G-STAR RAW D-STAQ 5-Pocket Mid Waist Ski'
 date: 2019/11/15 14:35:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mDLwf-grL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mDLwf-grL._SL200_.jpg' ]

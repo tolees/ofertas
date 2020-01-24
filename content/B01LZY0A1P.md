@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ruicer Toallero Barra Acero Inoxidable F' al 40.31354983202687 % de descuento
+title: 'Ruicer Toallero Barra Acero Inoxidable F al 40.31354983202687 % de descuento'
 date: 2019/12/11 20:21:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KRnd-3ycL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KRnd-3ycL._SL200_.jpg' ]

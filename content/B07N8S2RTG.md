@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.961980990495235 % en 'BOSS Paule 4  Polo Hombre  Blanco  Natur'
+title: 'Descuento del 63.961980990495235 % en BOSS Paule 4  Polo Hombre  Blanco  Natur'
 date: 2020-01-14 20:10:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pnkpmdw0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pnkpmdw0L._SL200_.jpg' ]

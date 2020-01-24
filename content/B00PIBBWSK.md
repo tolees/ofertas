@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.48201438848921 % en 'TP-LINK M7350 - Router 4G LTE para móvil'
+title: 'Descuento del 42.48201438848921 % en TP-LINK M7350 - Router 4G LTE para móvil'
 date: 2019/10/30 10:58:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519RA8u2Q8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519RA8u2Q8L._SL200_.jpg' ]

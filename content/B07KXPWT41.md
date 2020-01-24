@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luces de cadena LED  copo de nieve Ilumi' al 80.68071939663508 % de descuento
+title: 'Luces de cadena LED  copo de nieve Ilumi al 80.68071939663508 % de descuento'
 date: 2019/12/03 10:29:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uDy6j3h3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uDy6j3h3L._SL200_.jpg' ]

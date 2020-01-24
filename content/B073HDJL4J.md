@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Killington New Leather Chukka' al 65.0 % de descuento
+title: 'Timberland Killington New Leather Chukka al 65.0 % de descuento'
 date: 2019/12/05 18:16:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GjxObrzmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GjxObrzmL._SL200_.jpg' ]

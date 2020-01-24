@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.00234810683886 % en 'CEESC Juguete para masticar hueso de per'
+title: 'Descuento del 56.00234810683886 % en CEESC Juguete para masticar hueso de per'
 date: 2019/10/10 14:05:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Yj8PlRn8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Yj8PlRn8L._SL200_.jpg' ]

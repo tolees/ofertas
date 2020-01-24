@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.97622027534419 % en 'Acrylic Display Case for Minifigures Bri'
+title: 'Descuento del 30.97622027534419 % en Acrylic Display Case for Minifigures Bri'
 date: 2020-01-19 02:24:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BRO4qrDTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BRO4qrDTL._SL200_.jpg' ]

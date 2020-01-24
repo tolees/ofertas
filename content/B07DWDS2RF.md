@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.96666666666666 % en 'Under Armour Tech SSC Graphic Camiseta  '
+title: 'Descuento del 53.96666666666666 % en Under Armour Tech SSC Graphic Camiseta  '
 date: 2019/11/01 17:05:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317HTzhGKqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317HTzhGKqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pulsar Reloj de Pulsera PZ4006X1' al 52.26256983240223 % de descuento
+title: 'Pulsar Reloj de Pulsera PZ4006X1 al 52.26256983240223 % de descuento'
 date: 2019/10/29 10:29:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pQzvjuXAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pQzvjuXAL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Monkey King: Hero is Back - PS4' al 50.23755938984746 % de descuento
+title: 'Monkey King: Hero is Back - PS4 al 50.23755938984746 % de descuento'
 date: 2020-01-23 19:37:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51px0kB%2BNbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51px0kB%2BNbL._SL200_.jpg' ]

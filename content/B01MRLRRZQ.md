@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.88146911519199 % en 'PUMA ESS Jersey Shorts 9` Pantalones Cor'
+title: 'Descuento del 68.88146911519199 % en PUMA ESS Jersey Shorts 9` Pantalones Cor'
 date: 2019/11/04 06:44:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kJwMShy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kJwMShy8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Russell Hobbs Mix & Go - Batidora de Vas' al 32.50812703175795 % de descuento
+title: 'Russell Hobbs Mix & Go - Batidora de Vas al 32.50812703175795 % de descuento'
 date: 2020-01-24 08:43:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IKyoXl%2BgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IKyoXl%2BgL._SL200_.jpg' ]

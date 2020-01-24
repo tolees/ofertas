@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YOSICIL Disfraz Princesa Zapatos Frozen ' al 43.978444236176195 % de descuento
+title: 'YOSICIL Disfraz Princesa Zapatos Frozen  al 43.978444236176195 % de descuento'
 date: 2020-01-23 10:08:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LTPxHsDzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LTPxHsDzL._SL200_.jpg' ]

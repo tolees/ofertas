@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.0 % en 'Eastpak Tranverz Maleta  51 cm  42 L  co'
+title: 'Descuento del 49.0 % en Eastpak Tranverz Maleta  51 cm  42 L  co'
 date: 2019/12/13 14:15:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414to9juuHL._SL200_.jpg' ]

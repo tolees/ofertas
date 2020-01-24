@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Worx WR155E Robot Cortacésped Landroid L' al 27.83293240518003 % de descuento
+title: 'Worx WR155E Robot Cortacésped Landroid L al 27.83293240518003 % de descuento'
 date: 2019/11/08 16:23:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41synnrgBoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41synnrgBoL._SL200_.jpg' ]

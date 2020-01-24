@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.02668445630421 % en 'adidas Parma 16 SHO Sport Shorts  Hombre'
+title: 'Descuento del 40.02668445630421 % en adidas Parma 16 SHO Sport Shorts  Hombre'
 date: 2019/12/13 21:17:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uPLhR4DKL._SL200_.jpg' ]

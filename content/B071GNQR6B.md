@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Odlo Bra Feminine M - Sujetador Deportiv' al 69.51026856240127 % de descuento
+title: 'Odlo Bra Feminine M - Sujetador Deportiv al 69.51026856240127 % de descuento'
 date: 2019/11/05 23:52:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rHgaCs2uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rHgaCs2uL._SL200_.jpg' ]

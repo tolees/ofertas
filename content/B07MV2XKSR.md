@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moos  Flamingo Turquoise Oficial Mochila' al 45.39363484087102 % de descuento
+title: 'Moos  Flamingo Turquoise Oficial Mochila al 45.39363484087102 % de descuento'
 date: 2019/10/13 02:20:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51L-F7UnpnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51L-F7UnpnL._SL200_.jpg' ]

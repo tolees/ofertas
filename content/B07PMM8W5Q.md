@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.89830508474576 % en 'Auriculares Bluetooth 5.0  Manos Libres '
+title: 'Descuento del 33.89830508474576 % en Auriculares Bluetooth 5.0  Manos Libres '
 date: 2019/12/15 14:11:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41STdmLVwtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41STdmLVwtL._SL200_.jpg' ]

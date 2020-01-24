@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.90664073353709 % en 'Viedouce Baberos Bebe Bandanas  Impermea'
+title: 'Descuento del 63.90664073353709 % en Viedouce Baberos Bebe Bandanas  Impermea'
 date: 2019/12/29 10:33:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gyKSeB2GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gyKSeB2GL._SL200_.jpg' ]

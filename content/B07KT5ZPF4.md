@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cable Lightning 3 en 1  iHaper Cable de ' al 58.85815185403178 % de descuento
+title: 'Cable Lightning 3 en 1  iHaper Cable de  al 58.85815185403178 % de descuento'
 date: 2020-01-14 18:33:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Hg%2BeyznL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Hg%2BeyznL._SL200_.jpg' ]

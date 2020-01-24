@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.92753623188406 % en 'dickies New York  Pantalones para Hombre'
+title: 'Descuento del 58.92753623188406 % en dickies New York  Pantalones para Hombre'
 date: 2019/12/02 12:52:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VYmsEaR%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VYmsEaR%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INTEY Ruedas para Silla Oficina  5 pierz' al 32.26847370119393 % de descuento
+title: 'INTEY Ruedas para Silla Oficina  5 pierz al 32.26847370119393 % de descuento'
 date: 2019/11/22 11:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XAZwKV8WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XAZwKV8WL._SL200_.jpg' ]

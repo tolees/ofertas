@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.08056872037914 % en 'Lisciani - 47680 - Manualidades - I  m C'
+title: 'Descuento del 53.08056872037914 % en Lisciani - 47680 - Manualidades - I  m C'
 date: 2019/12/05 12:33:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nO2nE4bSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nO2nE4bSL._SL200_.jpg' ]

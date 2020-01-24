@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auricular Bluetooth Verdadero Deporte in' al 40.40404040404041 % de descuento
+title: 'Auricular Bluetooth Verdadero Deporte in al 40.40404040404041 % de descuento'
 date: 2020-01-06 20:46:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cQ9ngNRuL._SL200_.jpg' ]

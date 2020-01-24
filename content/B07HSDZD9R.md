@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.57763975155281 % en 'ellesse Filippo TP  Sandalias Deportivas'
+title: 'Descuento del 42.57763975155281 % en ellesse Filippo TP  Sandalias Deportivas'
 date: 2019/10/09 21:25:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H6ToJLTEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H6ToJLTEL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda NOS Vmcurl High Neck Faux Fur ' al 41.00820164032807 % de descuento
+title: 'Vero Moda NOS Vmcurl High Neck Faux Fur  al 41.00820164032807 % de descuento'
 date: 2019/11/13 08:16:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mieSGlRPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mieSGlRPL._SL200_.jpg' ]

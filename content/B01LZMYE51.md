@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.9816513761468 % en 'Brabantia Newicon Cubo de Basura con Ped'
+title: 'Descuento del 29.9816513761468 % en Brabantia Newicon Cubo de Basura con Ped'
 date: 2019/10/27 20:23:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZRvAZGIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZRvAZGIL._SL200_.jpg' ]

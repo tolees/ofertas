@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Crewline Qd Pant  Hombre  G' al 41.12222222222221 % de descuento
+title: 'Helly Hansen Crewline Qd Pant  Hombre  G al 41.12222222222221 % de descuento'
 date: 2019/11/24 02:58:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MpuzBcM9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MpuzBcM9L._SL200_.jpg' ]

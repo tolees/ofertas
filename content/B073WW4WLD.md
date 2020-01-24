@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.29166666666667 % en 'Demon and Hunter JUVENTUD Serie flaco Je'
+title: 'Descuento del 27.29166666666667 % en Demon and Hunter JUVENTUD Serie flaco Je'
 date: 2019/11/23 03:40:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31omiSmb58L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31omiSmb58L._SL200_.jpg' ]

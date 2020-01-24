@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.47826086956521 % en 'Levi s 502 Regular Taper Vaqueros  Azul '
+title: 'Descuento del 30.47826086956521 % en Levi s 502 Regular Taper Vaqueros  Azul '
 date: 2019/11/01 13:48:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414HoDILKzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414HoDILKzL._SL200_.jpg' ]

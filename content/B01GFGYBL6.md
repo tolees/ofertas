@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung S24F352 - Monitor Full HD LED 23' al 28.06474820143885 % de descuento
+title: 'Samsung S24F352 - Monitor Full HD LED 23 al 28.06474820143885 % de descuento'
 date: 2019/10/10 10:36:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SX%2BIL41YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SX%2BIL41YL._SL200_.jpg' ]

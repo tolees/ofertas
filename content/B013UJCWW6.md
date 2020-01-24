@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland 6 in Premium Waterproof  Bota' al 45.93595199888371 % de descuento
+title: 'Timberland 6 in Premium Waterproof  Bota al 45.93595199888371 % de descuento'
 date: 2019/11/21 14:36:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-vAArf1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-vAArf1L._SL200_.jpg' ]

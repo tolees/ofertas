@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Daren Zip Fly Vaqueros rectors Recto' al 53.27058823529411 % de descuento
+title: 'Lee Daren Zip Fly Vaqueros rectors Recto al 53.27058823529411 % de descuento'
 date: 2019/10/21 00:46:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31clfYyiTNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31clfYyiTNL._SL200_.jpg' ]

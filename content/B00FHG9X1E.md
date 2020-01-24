@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike 928475 Sweatshirt  Hombre   Gym Red' al 71.65454545454546 % de descuento
+title: 'Nike 928475 Sweatshirt  Hombre   Gym Red al 71.65454545454546 % de descuento'
 date: 2019/10/17 12:38:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Sq4NaNjcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Sq4NaNjcL._SL200_.jpg' ]

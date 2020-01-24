@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mr. Wonderful WOA09849ES  Calendario De ' al 54.054054054054056 % de descuento
+title: 'Mr. Wonderful WOA09849ES  Calendario De  al 54.054054054054056 % de descuento'
 date: 2020-01-09 07:37:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pOeeuZh-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pOeeuZh-L._SL200_.jpg' ]

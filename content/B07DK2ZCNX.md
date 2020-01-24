@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Android Boy A  Zapatillas para Ni' al 53.92307692307692 % de descuento
+title: 'Geox J Android Boy A  Zapatillas para Ni al 53.92307692307692 % de descuento'
 date: 2019/10/09 08:52:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zbRe%2B6SQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zbRe%2B6SQL._SL200_.jpg' ]

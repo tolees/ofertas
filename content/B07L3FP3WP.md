@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hilfiger Denim Shiny Metallic Flat Sanda' al 50.58892815076561 % de descuento
+title: 'Hilfiger Denim Shiny Metallic Flat Sanda al 50.58892815076561 % de descuento'
 date: 2019/10/05 11:33:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yVqS9NjsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yVqS9NjsL._SL200_.jpg' ]

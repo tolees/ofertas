@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.92749546846678 % en 'Columbia Mission Air Chaqueta Interchang'
+title: 'Descuento del 39.92749546846678 % en Columbia Mission Air Chaqueta Interchang'
 date: 2019/12/25 20:03:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F2yERLKiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F2yERLKiL._SL200_.jpg' ]

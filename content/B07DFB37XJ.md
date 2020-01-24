@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 32887 POP Vinyl: Walter Lantz: Chi' al 35.504885993485345 % de descuento
+title: 'Funko 32887 POP Vinyl: Walter Lantz: Chi al 35.504885993485345 % de descuento'
 date: 2020-01-17 10:17:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uAwDVeJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uAwDVeJjL._SL200_.jpg' ]

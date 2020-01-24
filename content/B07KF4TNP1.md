@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s SS Original Hm tee Camiseta  Azul' al 40.04 % de descuento
+title: 'Levi s SS Original Hm tee Camiseta  Azul al 40.04 % de descuento'
 date: 2020-01-13 10:49:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418XIqjq0QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418XIqjq0QL._SL200_.jpg' ]

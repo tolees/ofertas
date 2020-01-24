@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vinoteca 8 Botellas  Pequeña  70 W  25 l' al 35.68619246861925 % de descuento
+title: 'Vinoteca 8 Botellas  Pequeña  70 W  25 l al 35.68619246861925 % de descuento'
 date: 2019/10/21 14:41:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iqMTOZFFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iqMTOZFFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma 100689.702 Chubasquero  Hombre  Azu' al 65.14603616133519 % de descuento
+title: 'Joma 100689.702 Chubasquero  Hombre  Azu al 65.14603616133519 % de descuento'
 date: 2019/10/31 06:43:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qq1KPagPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qq1KPagPL._SL200_.jpg' ]

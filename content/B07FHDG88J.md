@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cilia  Zapatillas para Mujer  Black' al 33.39449541284404 % de descuento
+title: 'PUMA Cilia  Zapatillas para Mujer  Black al 33.39449541284404 % de descuento'
 date: 2020-01-04 12:26:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RIuIQ1KQL._SL200_.jpg' ]

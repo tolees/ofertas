@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste L.30 Slide 119 1 Cuj  Chanclas U' al 67.15384615384615 % de descuento
+title: 'Lacoste L.30 Slide 119 1 Cuj  Chanclas U al 67.15384615384615 % de descuento'
 date: 2019/11/10 13:32:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qJ1SM7a7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qJ1SM7a7L._SL200_.jpg' ]

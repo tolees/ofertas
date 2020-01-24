@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Tranverz S Maleta  51 cm  42 L  ' al 25.663862774204194 % de descuento
+title: 'Eastpak Tranverz S Maleta  51 cm  42 L   al 25.663862774204194 % de descuento'
 date: 2019/12/13 14:15:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31URk7uZ8TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31URk7uZ8TL._SL200_.jpg' ]

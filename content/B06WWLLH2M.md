@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.668444562970873 % en 'Baby Playpen - Centro de actividades par'
+title: 'Descuento del 26.668444562970873 % en Baby Playpen - Centro de actividades par'
 date: 2019/12/15 16:07:46 +0000
 thumbnailImage: ''
 images: [ '' ]

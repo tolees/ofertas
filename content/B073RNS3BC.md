@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rider Pu All Day' al 39.97599039615846 % de descuento
+title: 'Rider Pu All Day al 39.97599039615846 % de descuento'
 date: 2019/10/25 00:39:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3125PsrB6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3125PsrB6BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maurer 2323450 Juego de puntas + mango T' al 32.69124931205284 % de descuento
+title: 'Maurer 2323450 Juego de puntas + mango T al 32.69124931205284 % de descuento'
 date: 2019/10/18 01:10:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kq7MXkvcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kq7MXkvcL._SL200_.jpg' ]

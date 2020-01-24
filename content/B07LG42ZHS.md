@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox B RISHON Girl B  Zapatillas para Be' al 36.88888888888889 % de descuento
+title: 'Geox B RISHON Girl B  Zapatillas para Be al 36.88888888888889 % de descuento'
 date: 2020-01-12 12:23:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TSgPnt2%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TSgPnt2%2BL._SL200_.jpg' ]

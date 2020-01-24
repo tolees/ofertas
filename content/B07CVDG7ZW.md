@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tribase Reign  Zapatillas D' al 48.791666666666664 % de descuento
+title: 'Under Armour Tribase Reign  Zapatillas D al 48.791666666666664 % de descuento'
 date: 2019/10/10 22:14:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL200_.jpg' ]

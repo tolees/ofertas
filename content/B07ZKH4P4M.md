@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YINUO LIGHT Luces de Cortina  12 Grandes' al 43.34778259419807 % de descuento
+title: 'YINUO LIGHT Luces de Cortina  12 Grandes al 43.34778259419807 % de descuento'
 date: 2019/11/13 11:48:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LQBNXbzNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LQBNXbzNL._SL200_.jpg' ]

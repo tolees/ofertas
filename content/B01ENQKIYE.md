@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TATAY Urban Food Casual  - Bolsa térmica' al 27.368421052631575 % de descuento
+title: 'TATAY Urban Food Casual  - Bolsa térmica al 27.368421052631575 % de descuento'
 date: 2020-01-02 13:23:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jjvzy96kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jjvzy96kL._SL200_.jpg' ]

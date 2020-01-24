@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.993749218652326 % en 'JACK & JONES Jcoglobe Parka Abrigos Homb'
+title: 'Descuento del 49.993749218652326 % en JACK & JONES Jcoglobe Parka Abrigos Homb'
 date: 2020-01-12 15:21:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zpzIhUDuL._SL200_.jpg' ]

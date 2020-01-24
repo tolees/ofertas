@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.63021800622875 % en 'Philips Audio Fidelio X2HR - Auriculares'
+title: 'Descuento del 57.63021800622875 % en Philips Audio Fidelio X2HR - Auriculares'
 date: 2019/10/06 20:25:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BOIgl%2Bj-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BOIgl%2Bj-L._SL200_.jpg' ]

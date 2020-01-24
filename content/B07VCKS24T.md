@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cisirun Cable de Carga para PS4 y Xbox O' al 55.027513756878434 % de descuento
+title: 'Cisirun Cable de Carga para PS4 y Xbox O al 55.027513756878434 % de descuento'
 date: 2019/11/19 08:28:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g5M9WFL-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g5M9WFL-L._SL200_.jpg' ]

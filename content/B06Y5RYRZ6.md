@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.890660592255127 % en 'Joma Torneo II Falda  Mujer  Negro  M'
+title: 'Descuento del 31.890660592255127 % en Joma Torneo II Falda  Mujer  Negro  M'
 date: 2019/11/04 20:39:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YNDIieGtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YNDIieGtL._SL200_.jpg' ]

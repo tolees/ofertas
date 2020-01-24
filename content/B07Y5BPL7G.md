@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.999999999999993 % en 'Geographical Norway Sudadera DE Hombre G'
+title: 'Descuento del 29.999999999999993 % en Geographical Norway Sudadera DE Hombre G'
 date: 2019/12/22 14:45:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJHVrjhXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJHVrjhXL._SL200_.jpg' ]

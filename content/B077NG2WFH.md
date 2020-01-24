@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.46746746746747 % en 'DKNY Intimates Sheers Convertible Sujeta'
+title: 'Descuento del 67.46746746746747 % en DKNY Intimates Sheers Convertible Sujeta'
 date: 2019/10/30 17:31:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RWY2Ijf7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RWY2Ijf7L._SL200_.jpg' ]

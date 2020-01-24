@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AOC G2460PF 61 cm  24 Zoll  Monitor  DVI' al 48.78892733564014 % de descuento
+title: 'AOC G2460PF 61 cm  24 Zoll  Monitor  DVI al 48.78892733564014 % de descuento'
 date: 2019/11/28 20:34:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F2dZxXwRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F2dZxXwRL._SL200_.jpg' ]

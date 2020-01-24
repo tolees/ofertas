@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.21167283189478 % en 'Russell Hobbs Retro - Hervidor de Agua E'
+title: 'Descuento del 45.21167283189478 % en Russell Hobbs Retro - Hervidor de Agua E'
 date: 2020-01-10 11:08:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IFnYTrbwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IFnYTrbwL._SL200_.jpg' ]

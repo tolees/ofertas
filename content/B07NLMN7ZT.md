@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versace Jeans Couture Sneakers  Zapatill' al 32.59911894273127 % de descuento
+title: 'Versace Jeans Couture Sneakers  Zapatill al 32.59911894273127 % de descuento'
 date: 2019/11/25 17:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BEBFxf3bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BEBFxf3bL._SL200_.jpg' ]

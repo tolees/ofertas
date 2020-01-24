@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cadena de LED de colores Salcar de 10 me' al 70.02917882451021 % de descuento
+title: 'Cadena de LED de colores Salcar de 10 me al 70.02917882451021 % de descuento'
 date: 2019/11/17 20:28:37 +0000
 thumbnailImage: ''
 images: [ '' ]

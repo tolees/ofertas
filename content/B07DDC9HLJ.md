@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Logo tee Camiseta  Mujer  Negro' al 30.075187969924812 % de descuento
+title: 'PUMA ESS Logo tee Camiseta  Mujer  Negro al 30.075187969924812 % de descuento'
 date: 2019/12/16 19:49:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LsXBWV0yL._SL200_.jpg' ]

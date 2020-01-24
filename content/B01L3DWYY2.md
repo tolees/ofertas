@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.06918238993711 % en 'Geographical Norway TEVET Men Color Chaq'
+title: 'Descuento del 55.06918238993711 % en Geographical Norway TEVET Men Color Chaq'
 date: 2019/10/05 15:14:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BaNHFWeoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BaNHFWeoL._SL200_.jpg' ]

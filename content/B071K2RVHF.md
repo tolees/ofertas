@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.41753303926544 % en 'Apple iMac  27 pulgadas  pantalla Retina'
+title: 'Descuento del 26.41753303926544 % en Apple iMac  27 pulgadas  pantalla Retina'
 date: 2020-01-05 14:39:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qLeywkVNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qLeywkVNL._SL200_.jpg' ]

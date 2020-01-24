@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.79396984924623 % en 'TOMMY HILFIGER Boys Basic Cn Knit S/s Ca'
+title: 'Descuento del 58.79396984924623 % en TOMMY HILFIGER Boys Basic Cn Knit S/s Ca'
 date: 2019/11/14 13:31:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ATWTLnbnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ATWTLnbnL._SL200_.jpg' ]

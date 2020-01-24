@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.4 % en 'Burton Shearwater Pantalones Cortos  Muj'
+title: 'Descuento del 74.4 % en Burton Shearwater Pantalones Cortos  Muj'
 date: 2019/11/11 18:08:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n7svkh7IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n7svkh7IL._SL200_.jpg' ]

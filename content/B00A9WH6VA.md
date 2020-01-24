@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe Euroeco - Grifo de ducha Mezclador' al 47.70373470028245 % de descuento
+title: 'Grohe Euroeco - Grifo de ducha Mezclador al 47.70373470028245 % de descuento'
 date: 2019/11/13 13:39:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4117YOd6NWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4117YOd6NWL._SL200_.jpg' ]

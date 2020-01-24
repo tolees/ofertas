@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.31945514249808 % en 'Cisco SPA 509G  base  G.711  G.726  G.72'
+title: 'Descuento del 60.31945514249808 % en Cisco SPA 509G  base  G.711  G.726  G.72'
 date: 2019/11/01 19:49:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wpMMDqf9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wpMMDqf9L._SL200_.jpg' ]

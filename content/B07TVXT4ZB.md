@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FILA Disruptor Low Lilas 1010747.71S' al 28.916666666666668 % de descuento
+title: 'FILA Disruptor Low Lilas 1010747.71S al 28.916666666666668 % de descuento'
 date: 2019/11/25 19:12:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416TFIyGO1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416TFIyGO1L._SL200_.jpg' ]

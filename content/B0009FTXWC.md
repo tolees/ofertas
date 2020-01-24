@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio FX-570ES PLUS - Calculadora cientí' al 31.39362490733877 % de descuento
+title: 'Casio FX-570ES PLUS - Calculadora cientí al 31.39362490733877 % de descuento'
 date: 2019/11/11 13:52:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dSZRrjmML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dSZRrjmML._SL200_.jpg' ]

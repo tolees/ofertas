@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Halloween Ii Blu-Ray [Blu-ray]' al 29.647887323943657 % de descuento
+title: 'Halloween Ii Blu-Ray [Blu-ray] al 29.647887323943657 % de descuento'
 date: 2019/10/20 08:20:04 +0000
 thumbnailImage: ''
 images: [ '' ]

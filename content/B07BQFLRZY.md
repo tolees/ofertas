@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.986644407345565 % en 'Dodot Pants Pañal-Braguita Talla 6  84 P'
+title: 'Descuento del 31.986644407345565 % en Dodot Pants Pañal-Braguita Talla 6  84 P'
 date: 2020-01-10 08:43:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JyZswkyPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JyZswkyPL._SL200_.jpg' ]

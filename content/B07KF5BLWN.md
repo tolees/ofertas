@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Relaxed Graphic Crew Sudadera  Ro' al 60.769230769230774 % de descuento
+title: 'Levi s Relaxed Graphic Crew Sudadera  Ro al 60.769230769230774 % de descuento'
 date: 2019/10/24 15:49:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pfNh8mCTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pfNh8mCTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yamaha A-S201 - Amplificador Hi-Fi estér' al 28.38427947598253 % de descuento
+title: 'Yamaha A-S201 - Amplificador Hi-Fi estér al 28.38427947598253 % de descuento'
 date: 2020-01-10 19:37:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VbMz0xuFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VbMz0xuFL._SL200_.jpg' ]

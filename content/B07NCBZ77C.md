@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Lerez Bañador  Azul  Marine 5' al 68.25454545454545 % de descuento
+title: 'Pepe Jeans Lerez Bañador  Azul  Marine 5 al 68.25454545454545 % de descuento'
 date: 2019/10/14 18:35:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pY0uDQ%2BDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pY0uDQ%2BDL._SL200_.jpg' ]

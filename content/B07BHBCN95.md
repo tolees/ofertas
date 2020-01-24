@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Mojo  Zapatillas de Runn' al 35.945454545454545 % de descuento
+title: 'Under Armour UA Mojo  Zapatillas de Runn al 35.945454545454545 % de descuento'
 date: 2019/11/03 10:39:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WchmUMBVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WchmUMBVL._SL200_.jpg' ]

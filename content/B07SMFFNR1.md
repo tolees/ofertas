@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NEEGO Bloques de Construcción 1000 Pieza' al 47.71142109851788 % de descuento
+title: 'NEEGO Bloques de Construcción 1000 Pieza al 47.71142109851788 % de descuento'
 date: 2020-01-24 10:20:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/61T8ERh7hmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61T8ERh7hmL._AC_._SL200_.jpg' ]

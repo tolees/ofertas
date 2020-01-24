@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Knutsen Cap A Head Wear  Hombre ' al 45.03333333333334 % de descuento
+title: 'Element Knutsen Cap A Head Wear  Hombre  al 45.03333333333334 % de descuento'
 date: 2019/11/30 18:10:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OXGDCy2NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OXGDCy2NL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Kenun 2 Zapatillas para Correr' al 40.0027828022819 % de descuento
+title: 'Asics Gel-Kenun 2 Zapatillas para Correr al 40.0027828022819 % de descuento'
 date: 2019/10/26 14:18:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r0oL0CS6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r0oL0CS6L._SL200_.jpg' ]

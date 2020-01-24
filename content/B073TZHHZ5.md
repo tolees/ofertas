@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vero Moda Vmagoura LS O-Neck Blouse A  s' al 43.355244355530154 % de descuento
+title: 'Vero Moda Vmagoura LS O-Neck Blouse A  s al 43.355244355530154 % de descuento'
 date: 2019/10/27 18:23:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4176OZRXGxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4176OZRXGxL._SL200_.jpg' ]

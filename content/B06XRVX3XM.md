@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.73115737794344 % en 'Satechi Pro Hub - Adaptador Tipo-C de Al'
+title: 'Descuento del 42.73115737794344 % en Satechi Pro Hub - Adaptador Tipo-C de Al'
 date: 2019/11/17 21:40:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dxW9TfVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dxW9TfVkL._SL200_.jpg' ]

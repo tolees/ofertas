@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Jearl D  Zapatillas para Mujer  B' al 74.28428428428428 % de descuento
+title: 'Geox D Jearl D  Zapatillas para Mujer  B al 74.28428428428428 % de descuento'
 date: 2019/11/26 08:47:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31G4k625XSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31G4k625XSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung C49HG90DMU - Monitor Curvo Gamin' al 47.46632456703015 % de descuento
+title: 'Samsung C49HG90DMU - Monitor Curvo Gamin al 47.46632456703015 % de descuento'
 date: 2019/12/16 17:33:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O3KuikMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O3KuikMjL._SL200_.jpg' ]

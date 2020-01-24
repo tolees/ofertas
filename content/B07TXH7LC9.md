@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.47148288973384 % en 'ZOTAC GAMING GeForce RTX 2080 Super AMP '
+title: 'Descuento del 52.47148288973384 % en ZOTAC GAMING GeForce RTX 2080 Super AMP '
 date: 2019/11/17 20:11:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Bs3H5uxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Bs3H5uxUL._SL200_.jpg' ]

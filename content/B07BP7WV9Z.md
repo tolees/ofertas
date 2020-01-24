@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Los Chicos del Maíz I-II-III Edición Dig' al 58.80487804878049 % de descuento
+title: 'Los Chicos del Maíz I-II-III Edición Dig al 58.80487804878049 % de descuento'
 date: 2019/10/17 06:29:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61bNNBP0cgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61bNNBP0cgL._SL200_.jpg' ]

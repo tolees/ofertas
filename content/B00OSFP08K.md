@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.94327030033371 % en 'VeloChampion Warp Gafas de Sol  con 3 Le'
+title: 'Descuento del 48.94327030033371 % en VeloChampion Warp Gafas de Sol  con 3 Le'
 date: 2019/11/22 18:16:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IX-HMvp-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IX-HMvp-L._SL200_.jpg' ]

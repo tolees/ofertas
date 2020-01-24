@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO LEGO-4065 Caja expositora para 8 Mi' al 30.465232616308146 % de descuento
+title: 'LEGO LEGO-4065 Caja expositora para 8 Mi al 30.465232616308146 % de descuento'
 date: 2019/10/18 21:23:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517SOyEWaJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517SOyEWaJL._SL200_.jpg' ]

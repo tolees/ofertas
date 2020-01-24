@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.26779079737068 % en 'Jack & Jones NOS Jachuey Trunks 5 Pack N'
+title: 'Descuento del 37.26779079737068 % en Jack & Jones NOS Jachuey Trunks 5 Pack N'
 date: 2019/10/21 14:52:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hNCqZiiKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hNCqZiiKL._SL200_.jpg' ]

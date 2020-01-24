@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bandas Elasticas Fitness Goma Resistenci' al 50.01923816852636 % de descuento
+title: 'Bandas Elasticas Fitness Goma Resistenci al 50.01923816852636 % de descuento'
 date: 2019/12/04 12:32:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fbQa3qWWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fbQa3qWWL._SL200_.jpg' ]

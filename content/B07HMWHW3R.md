@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TwobeFit Pulsera Actividad  Pulsera Inte' al 62.86612373196171 % de descuento
+title: 'TwobeFit Pulsera Actividad  Pulsera Inte al 62.86612373196171 % de descuento'
 date: 2019/12/20 00:08:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oZ0Q-0G4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oZ0Q-0G4L._SL200_.jpg' ]

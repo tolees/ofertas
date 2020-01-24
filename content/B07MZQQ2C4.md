@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Soho Vaqueros  Dark Khaki Gre' al 40.07692307692308 % de descuento
+title: 'Pepe Jeans Soho Vaqueros  Dark Khaki Gre al 40.07692307692308 % de descuento'
 date: 2019/10/09 20:59:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FODoVdy9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FODoVdy9L._SL200_.jpg' ]

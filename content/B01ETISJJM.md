@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.90825688073395 % en 'ARNETTE Boxcar gafas de sol  Fuzzy Havan'
+title: 'Descuento del 53.90825688073395 % en ARNETTE Boxcar gafas de sol  Fuzzy Havan'
 date: 2019/11/11 12:35:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gfaIyvLAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gfaIyvLAL._SL200_.jpg' ]

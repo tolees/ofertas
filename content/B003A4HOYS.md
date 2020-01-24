@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Corrector Superstay ' al 44.493882091212456 % de descuento
+title: 'Maybelline New York Corrector Superstay  al 44.493882091212456 % de descuento'
 date: 2019/11/26 13:02:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fIUN5gzwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fIUN5gzwL._SL200_.jpg' ]

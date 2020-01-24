@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.46679164434923 % en 'Samsung MLT-D2082L/ELS - Tóner AC SCX-56'
+title: 'Descuento del 48.46679164434923 % en Samsung MLT-D2082L/ELS - Tóner AC SCX-56'
 date: 2020-01-06 05:37:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MKP2Ua0yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MKP2Ua0yL._SL200_.jpg' ]

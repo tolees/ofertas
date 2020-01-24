@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack and Jones Sense Trunks 3-Pack Bóxer' al 43.92785571142285 % de descuento
+title: 'Jack and Jones Sense Trunks 3-Pack Bóxer al 43.92785571142285 % de descuento'
 date: 2020-01-18 17:21:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kt28NDORL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kt28NDORL._SL200_.jpg' ]

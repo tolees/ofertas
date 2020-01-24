@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Speed Champions Porsche 911 RSR und' al 25.181295323830955 % de descuento
+title: 'LEGO Speed Champions Porsche 911 RSR und al 25.181295323830955 % de descuento'
 date: 2019/11/11 02:47:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wU1DdYLOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wU1DdYLOL._SL200_.jpg' ]

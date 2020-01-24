@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.82227409136378 % en 'Starlink - Battle For Atlas  Pack Nave N'
+title: 'Descuento del 66.82227409136378 % en Starlink - Battle For Atlas  Pack Nave N'
 date: 2019/10/09 11:42:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JVHrinibL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JVHrinibL._SL200_.jpg' ]

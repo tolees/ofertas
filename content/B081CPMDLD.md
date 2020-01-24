@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geographical Norway Parka HOMRBE Boomera' al 34.34343434343434 % de descuento
+title: 'Geographical Norway Parka HOMRBE Boomera al 34.34343434343434 % de descuento'
 date: 2019/12/30 11:07:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413GzS85-PL._SL200_.jpg' ]

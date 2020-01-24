@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.76293127395967 % en 'Gant D1. Stretch Cotton Cable Dress Vest'
+title: 'Descuento del 32.76293127395967 % en Gant D1. Stretch Cotton Cable Dress Vest'
 date: 2019/11/20 09:04:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31648eR3MOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31648eR3MOL._SL200_.jpg' ]

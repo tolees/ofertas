@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.012506253126553 % en 'AmazonBasics - Toallas de altas prestaci'
+title: 'Descuento del 25.012506253126553 % en AmazonBasics - Toallas de altas prestaci'
 date: 2019/11/17 09:40:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u9A1hXwfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u9A1hXwfL._SL200_.jpg' ]

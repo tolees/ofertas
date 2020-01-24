@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 88.17629179331307 % en 'Yunteng Precisión Cosido y Durable Drago'
+title: 'Descuento del 88.17629179331307 % en Yunteng Precisión Cosido y Durable Drago'
 date: 2020-01-05 06:30:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oZeuE1KBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oZeuE1KBL._SL200_.jpg' ]

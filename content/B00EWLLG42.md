@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Licor De Hierbas Ibicencas Familia Marí ' al 47.46450304259635 % de descuento
+title: 'Licor De Hierbas Ibicencas Familia Marí  al 47.46450304259635 % de descuento'
 date: 2020-01-24 09:22:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jPik31w5L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jPik31w5L._AC_._SL200_.jpg' ]

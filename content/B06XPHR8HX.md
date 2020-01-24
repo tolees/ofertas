@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.425891181988746 % en 'Desigual Fal_Henry Falda  Negro 2000  36'
+title: 'Descuento del 61.425891181988746 % en Desigual Fal_Henry Falda  Negro 2000  36'
 date: 2019/10/20 09:17:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BW-%2Biy96L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BW-%2Biy96L._SL200_.jpg' ]

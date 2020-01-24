@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.83949543279686 % en 'Taurus Gobi Calefactor  termoventilador '
+title: 'Descuento del 30.83949543279686 % en Taurus Gobi Calefactor  termoventilador '
 date: 2020-01-10 11:38:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5127Ep2tBHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5127Ep2tBHL._SL200_.jpg' ]

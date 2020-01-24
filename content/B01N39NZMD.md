@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W  Ahiga V3 Hydropower Zapa' al 42.010000000000005 % de descuento
+title: 'Helly Hansen W  Ahiga V3 Hydropower Zapa al 42.010000000000005 % de descuento'
 date: 2019/12/05 12:58:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RCsOW1aqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RCsOW1aqL._SL200_.jpg' ]

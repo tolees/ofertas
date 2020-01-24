@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01364256480218 % en 'GANT Footwear Aurora  Zapatillas sin Cor'
+title: 'Descuento del 30.01364256480218 % en GANT Footwear Aurora  Zapatillas sin Cor'
 date: 2019/12/03 01:49:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415NngG8lhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415NngG8lhL._SL200_.jpg' ]

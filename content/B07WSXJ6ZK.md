@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charles Wilson Original Sudadera de Homb' al 38.68031854379977 % de descuento
+title: 'Charles Wilson Original Sudadera de Homb al 38.68031854379977 % de descuento'
 date: 2020-01-02 12:23:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tkfDXiS4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tkfDXiS4L._SL200_.jpg' ]

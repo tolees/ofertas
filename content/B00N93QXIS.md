@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS ROG Gladius - Ratón óptico Gaming 6' al 38.10126582278481 % de descuento
+title: 'ASUS ROG Gladius - Ratón óptico Gaming 6 al 38.10126582278481 % de descuento'
 date: 2019/12/18 08:35:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g49egsFFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g49egsFFL._SL200_.jpg' ]

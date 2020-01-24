@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.30150753768844 % en '24 Kids Super Hero Tattoos'
+title: 'Descuento del 60.30150753768844 % en 24 Kids Super Hero Tattoos'
 date: 2020-01-17 18:17:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4190Se91AtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4190Se91AtL._SL200_.jpg' ]

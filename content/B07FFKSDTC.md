@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech K600  Teclado Para Smart TV  To' al 42.99304793267471 % de descuento
+title: 'Logitech K600  Teclado Para Smart TV  To al 42.99304793267471 % de descuento'
 date: 2020-01-19 22:53:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415Lqj9FqIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415Lqj9FqIL._SL200_.jpg' ]

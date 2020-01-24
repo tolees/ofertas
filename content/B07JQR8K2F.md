@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Tommy Hilfiger Classic Tommy Jeans Sneak'
+title: 'Descuento del 50.0 % en Tommy Hilfiger Classic Tommy Jeans Sneak'
 date: 2019/11/25 11:46:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KkqBY1C6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KkqBY1C6L._SL200_.jpg' ]

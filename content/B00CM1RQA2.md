@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.9731543624161 % en 'Jacques Lemans Smart Watch Armbanduhr 1-'
+title: 'Descuento del 45.9731543624161 % en Jacques Lemans Smart Watch Armbanduhr 1-'
 date: 2020-01-22 15:37:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r70xl4NLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r70xl4NLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Cazadora de Beísbol con Manga Rang'
+title: 'Descuento del 70.0 % en find. Cazadora de Beísbol con Manga Rang'
 date: 2019/11/20 14:52:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gwAMKafFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gwAMKafFL._SL200_.jpg' ]

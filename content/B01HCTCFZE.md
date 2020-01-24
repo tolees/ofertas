@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.07034156239432 % en 'Ankway 8 Modi solar lichterkette led lic'
+title: 'Descuento del 56.07034156239432 % en Ankway 8 Modi solar lichterkette led lic'
 date: 2019/12/19 22:59:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zAHcRRECL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zAHcRRECL._SL200_.jpg' ]

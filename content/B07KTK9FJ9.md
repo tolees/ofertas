@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.80820205051263 % en 'LEGO 41373 - Friends Lustiges Oktopus-Ka'
+title: 'Descuento del 32.80820205051263 % en LEGO 41373 - Friends Lustiges Oktopus-Ka'
 date: 2020-01-13 22:31:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5180nFUFqtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5180nFUFqtL._SL200_.jpg' ]

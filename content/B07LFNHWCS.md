@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.515631513130465 % en 'Levi s LS Baby tee Camiseta  Multicolor '
+title: 'Descuento del 37.515631513130465 % en Levi s LS Baby tee Camiseta  Multicolor '
 date: 2019/12/28 16:10:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NaG%2BRks%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NaG%2BRks%2BL._SL200_.jpg' ]

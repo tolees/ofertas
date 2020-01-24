@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '⭐️KLIMTM Rush - Auriculares gaming + Dia' al 36.00160096057634 % de descuento
+title: '⭐️KLIMTM Rush - Auriculares gaming + Dia al 36.00160096057634 % de descuento'
 date: 2020-01-22 19:34:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KVQwgHytL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KVQwgHytL._SL200_.jpg' ]

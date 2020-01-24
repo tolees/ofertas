@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.333333333333336 % en 'Under Armour Woven Graphic Short Pantaló'
+title: 'Descuento del 30.333333333333336 % en Under Armour Woven Graphic Short Pantaló'
 date: 2019/11/01 17:39:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xTdNuwPyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xTdNuwPyL._SL200_.jpg' ]

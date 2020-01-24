@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.98455598455598 % en 'L Óreal Paris Perfilador de Cejas Brow A'
+title: 'Descuento del 55.98455598455598 % en L Óreal Paris Perfilador de Cejas Brow A'
 date: 2019/12/25 08:41:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/218kP2-eEVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/218kP2-eEVL._SL200_.jpg' ]

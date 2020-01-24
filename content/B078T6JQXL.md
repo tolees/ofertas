@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.88888888888889 % en 'Tommy Hilfiger Flat Sandal Oversized Buc'
+title: 'Descuento del 68.88888888888889 % en Tommy Hilfiger Flat Sandal Oversized Buc'
 date: 2019/11/16 01:44:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412R%2ByBt-zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412R%2ByBt-zL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'South Park: Retaguardia en Peligro' al 32.73318329582396 % de descuento
+title: 'South Park: Retaguardia en Peligro al 32.73318329582396 % de descuento'
 date: 2020-01-09 23:09:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CDsQbyqaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CDsQbyqaL._SL200_.jpg' ]

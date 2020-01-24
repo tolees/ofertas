@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Herringbone Tie Waist Pantalone' al 58.174904942965775 % de descuento
+title: 'New Look Herringbone Tie Waist Pantalone al 58.174904942965775 % de descuento'
 date: 2019/12/16 11:03:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410VLaD5eVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410VLaD5eVL._SL200_.jpg' ]

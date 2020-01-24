@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gafas de sol POLARIZADAS VERDSTER TourDe' al 26.711185308848084 % de descuento
+title: 'Gafas de sol POLARIZADAS VERDSTER TourDe al 26.711185308848084 % de descuento'
 date: 2020-01-22 09:32:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UsY-MMFhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UsY-MMFhL._SL200_.jpg' ]

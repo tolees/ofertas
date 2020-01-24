@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nueva Blink XT2 | Cámara de seguridad in' al 25.00083336111204 % de descuento
+title: 'Nueva Blink XT2 | Cámara de seguridad in al 25.00083336111204 % de descuento'
 date: 2019/11/23 09:57:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413fW4nLFDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413fW4nLFDL._SL200_.jpg' ]

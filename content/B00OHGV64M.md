@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Authentic Tano Sudadera  Hombre  B' al 48.27272727272728 % de descuento
+title: 'Kappa Authentic Tano Sudadera  Hombre  B al 48.27272727272728 % de descuento'
 date: 2019/10/13 11:08:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417YwE-DwwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417YwE-DwwL._SL200_.jpg' ]

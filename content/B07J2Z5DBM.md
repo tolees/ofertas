@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOZO T10 TWS audífonos estéreo inalámbri' al 79.50397519875993 % de descuento
+title: 'TOZO T10 TWS audífonos estéreo inalámbri al 79.50397519875993 % de descuento'
 date: 2020-01-10 12:31:30
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

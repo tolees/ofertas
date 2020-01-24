@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox 43c9999 J Agata C  Zapatos de Vesti' al 75.64615384615385 % de descuento
+title: 'Geox 43c9999 J Agata C  Zapatos de Vesti al 75.64615384615385 % de descuento'
 date: 2019/11/16 10:54:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417xYl6iYqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417xYl6iYqL._SL200_.jpg' ]

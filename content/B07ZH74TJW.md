@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Navaja Plegable Morpilot Cuchillo de Ace' al 55.206896551724135 % de descuento
+title: 'Navaja Plegable Morpilot Cuchillo de Ace al 55.206896551724135 % de descuento'
 date: 2020-01-08 18:36:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ihcu2oAjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ihcu2oAjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic SC-PMX90 -Microcadena Con Alta' al 29.664061631912297 % de descuento
+title: 'Panasonic SC-PMX90 -Microcadena Con Alta al 29.664061631912297 % de descuento'
 date: 2019/12/29 13:23:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L-wWSTUnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L-wWSTUnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.343489565971055 % en 'Columbia Challenger Chaqueta Sudadera  H'
+title: 'Descuento del 52.343489565971055 % en Columbia Challenger Chaqueta Sudadera  H'
 date: 2020-01-14 12:18:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t0CGVd%2BfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t0CGVd%2BfL._SL200_.jpg' ]

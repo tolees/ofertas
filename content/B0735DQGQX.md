@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.550218340611345 % en 'Napapijri Rainforest Pocket  Chaqueta pa'
+title: 'Descuento del 29.550218340611345 % en Napapijri Rainforest Pocket  Chaqueta pa'
 date: 2019/11/30 10:22:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eoANTu1yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eoANTu1yL._SL200_.jpg' ]

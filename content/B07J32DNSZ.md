@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.035714285714285 % en 'Under Armour UA Tech 2.0 SS tee Camiseta'
+title: 'Descuento del 50.035714285714285 % en Under Armour UA Tech 2.0 SS tee Camiseta'
 date: 2019/11/28 19:36:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4145d54KIBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4145d54KIBL._SL200_.jpg' ]

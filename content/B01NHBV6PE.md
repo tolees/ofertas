@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Cruzer Blade- Memoria USB 2.0  P' al 29.23516797712652 % de descuento
+title: 'SanDisk Cruzer Blade- Memoria USB 2.0  P al 29.23516797712652 % de descuento'
 date: 2019/10/17 09:32:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ipjVnV9VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ipjVnV9VL._SL200_.jpg' ]

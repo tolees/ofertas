@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bose SoundTouch 10 Sistema de música ina' al 56.51663405088063 % de descuento
+title: 'Bose SoundTouch 10 Sistema de música ina al 56.51663405088063 % de descuento'
 date: 2019/11/29 21:15:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TZ1iI30iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TZ1iI30iL._SL200_.jpg' ]

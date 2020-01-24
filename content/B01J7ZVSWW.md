@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Sapphire Trail Hooded FZ Chaque' al 49.16655554073876 % de descuento
+title: 'Columbia Sapphire Trail Hooded FZ Chaque al 49.16655554073876 % de descuento'
 date: 2019/11/18 07:28:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O5vKMRtPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O5vKMRtPL._SL200_.jpg' ]

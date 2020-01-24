@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dilwe Soporte de Placa L  Soporte de cám' al 55.03439649781112 % de descuento
+title: 'Dilwe Soporte de Placa L  Soporte de cám al 55.03439649781112 % de descuento'
 date: 2020-01-24 14:49:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FI+anRzTL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FI+anRzTL._AC_._SL200_.jpg' ]

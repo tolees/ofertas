@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CMP Funktionsshirt - Chaqueta de esquí­ ' al 25.062656641604008 % de descuento
+title: 'CMP Funktionsshirt - Chaqueta de esquí­  al 25.062656641604008 % de descuento'
 date: 2019/11/02 00:00:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PZm5xjtOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PZm5xjtOL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft Xbox One X - Consola 1 TB + Me' al 38.11823647294589 % de descuento
+title: 'Microsoft Xbox One X - Consola 1 TB + Me al 38.11823647294589 % de descuento'
 date: 2020-01-05 12:45:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5100Te5bNDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5100Te5bNDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.33933933933934 % en 'Huawei P30 Pro Dual SIM Smartphone Bundl'
+title: 'Descuento del 39.33933933933934 % en Huawei P30 Pro Dual SIM Smartphone Bundl'
 date: 2020-01-15 17:06:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Os05VZ7pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Os05VZ7pL._SL200_.jpg' ]

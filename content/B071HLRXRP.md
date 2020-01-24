@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.06642512077295 % en 'Under Armour UA Speedform Slingshot 2  Z'
+title: 'Descuento del 65.06642512077295 % en Under Armour UA Speedform Slingshot 2  Z'
 date: 2019/11/09 18:52:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J8mFsFyQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J8mFsFyQL._SL200_.jpg' ]

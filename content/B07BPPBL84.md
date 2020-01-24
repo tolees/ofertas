@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.24444444444445 % en 'Under Armour - Sudadera con Capucha y Fo'
+title: 'Descuento del 59.24444444444445 % en Under Armour - Sudadera con Capucha y Fo'
 date: 2019/11/07 22:23:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I0eSFXbhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I0eSFXbhL._SL200_.jpg' ]

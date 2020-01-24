@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour HG Armour 2.0 Comp Short Pa' al 50.035714285714285 % de descuento
+title: 'Under Armour HG Armour 2.0 Comp Short Pa al 50.035714285714285 % de descuento'
 date: 2019/11/27 17:48:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wnHXaOLOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wnHXaOLOL._SL200_.jpg' ]

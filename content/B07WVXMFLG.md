@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xnuoyo Cepillo de Limpieza Facial 5 en 1' al 53.351117039013005 % de descuento
+title: 'Xnuoyo Cepillo de Limpieza Facial 5 en 1 al 53.351117039013005 % de descuento'
 date: 2020-01-04 18:04:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rYrGvT84L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rYrGvT84L._SL200_.jpg' ]

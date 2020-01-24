@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'READ Reloj para Hombre  Reloj de Cuarzo ' al 65.6039351430133 % de descuento
+title: 'READ Reloj para Hombre  Reloj de Cuarzo  al 65.6039351430133 % de descuento'
 date: 2020-01-22 09:23:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416xXLJMrdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416xXLJMrdL._SL200_.jpg' ]

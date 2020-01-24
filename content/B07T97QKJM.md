@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face M Drew Peak Sudadera con ' al 50.0 % de descuento
+title: 'The North Face M Drew Peak Sudadera con  al 50.0 % de descuento'
 date: 2020-01-16 19:53:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Ut0K3y0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Ut0K3y0L._SL200_.jpg' ]

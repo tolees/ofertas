@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.65030674846626 % en 'Quiksilver Molokai Tijuana  Zapatos de P'
+title: 'Descuento del 38.65030674846626 % en Quiksilver Molokai Tijuana  Zapatos de P'
 date: 2019/12/01 10:35:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xsrjI0FYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xsrjI0FYL._SL200_.jpg' ]

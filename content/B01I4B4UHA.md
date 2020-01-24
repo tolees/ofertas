@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.03944045074801 % en 'Vans UA ISO 2  Zapatillas para Hombre  G'
+title: 'Descuento del 51.03944045074801 % en Vans UA ISO 2  Zapatillas para Hombre  G'
 date: 2020-01-07 14:55:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415-ykr9mEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415-ykr9mEL._SL200_.jpg' ]

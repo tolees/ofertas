@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fuel Core 5000  Zapatillas d' al 72.33333333333334 % de descuento
+title: 'New Balance Fuel Core 5000  Zapatillas d al 72.33333333333334 % de descuento'
 date: 2019/11/28 19:30:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VNa-Y0WaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VNa-Y0WaL._SL200_.jpg' ]

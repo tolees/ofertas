@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XTI 48619  Botines para Mujer  Marrón Ca' al 48.46846846846847 % de descuento
+title: 'XTI 48619  Botines para Mujer  Marrón Ca al 48.46846846846847 % de descuento'
 date: 2019/11/11 08:58:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HmUtEb6vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HmUtEb6vL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.59099437148218 % en 'Stagg SGC6 Instrumento Cable  6m  de cal'
+title: 'Descuento del 45.59099437148218 % en Stagg SGC6 Instrumento Cable  6m  de cal'
 date: 2020-01-10 13:10:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mpkfDqRjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mpkfDqRjL._SL200_.jpg' ]

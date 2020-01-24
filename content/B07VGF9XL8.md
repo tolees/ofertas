@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OBEEII Vestidos Niñas Fiesta Bordado de ' al 51.150383461153716 % de descuento
+title: 'OBEEII Vestidos Niñas Fiesta Bordado de  al 51.150383461153716 % de descuento'
 date: 2020-01-23 10:00:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413uarMENFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413uarMENFL._SL200_.jpg' ]

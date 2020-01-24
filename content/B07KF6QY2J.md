@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 511 Slim Fit Vaqueros  Norse Warp' al 47.72727272727273 % de descuento
+title: 'Levi s 511 Slim Fit Vaqueros  Norse Warp al 47.72727272727273 % de descuento'
 date: 2020-01-23 10:40:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414SOHSIrAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414SOHSIrAL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Jet Mid Zapatos de Balonces' al 27.900000000000002 % de descuento
+title: 'Under Armour Jet Mid Zapatos de Balonces al 27.900000000000002 % de descuento'
 date: 2019/10/14 16:51:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vjuo84i9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vjuo84i9L._SL200_.jpg' ]

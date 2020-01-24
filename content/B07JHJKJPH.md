@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange Sparking Jersey Chaqueta' al 64.78571428571429 % de descuento
+title: 'Armani Exchange Sparking Jersey Chaqueta al 64.78571428571429 % de descuento'
 date: 2019/11/11 19:54:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jtztXBkUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jtztXBkUL._SL200_.jpg' ]

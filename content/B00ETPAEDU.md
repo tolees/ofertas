@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech G602 Wireless Gaming Mouse - N/' al 31.253906738342284 % de descuento
+title: 'Logitech G602 Wireless Gaming Mouse - N/ al 31.253906738342284 % de descuento'
 date: 2019/12/24 20:08:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tupVwdxtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tupVwdxtL._SL200_.jpg' ]

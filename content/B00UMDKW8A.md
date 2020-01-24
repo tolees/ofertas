@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ricoh 407645 - Tóner SPC240DN  color cia' al 56.351828643044314 % de descuento
+title: 'Ricoh 407645 - Tóner SPC240DN  color cia al 56.351828643044314 % de descuento'
 date: 2019/11/30 06:55:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21mcxqWldWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21mcxqWldWL._SL200_.jpg' ]

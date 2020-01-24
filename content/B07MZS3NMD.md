@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.0 % en 'Spotted Zebra 5-Pack Long-Sleeve T-Shirt'
+title: 'Descuento del 25.0 % en Spotted Zebra 5-Pack Long-Sleeve T-Shirt'
 date: 2019/11/03 17:13:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417gBichQpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417gBichQpL._SL200_.jpg' ]

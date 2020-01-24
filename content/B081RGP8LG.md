@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Conjunto de Luces  Ideas Vol' al 45.01666666666666 % de descuento
+title: 'LIGHTAILING Conjunto de Luces  Ideas Vol al 45.01666666666666 % de descuento'
 date: 2019/12/30 10:23:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I0869pV%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I0869pV%2BL._SL200_.jpg' ]

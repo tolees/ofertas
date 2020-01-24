@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil Ghostbusters 70172 Collection ' al 33.723958333333336 % de descuento
+title: 'Playmobil Ghostbusters 70172 Collection  al 33.723958333333336 % de descuento'
 date: 2020-01-17 10:41:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LDYKlzbJL._SL200_.jpg' ]

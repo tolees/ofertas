@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.55909943714822 % en 'Skechers Escape Plan  Zapatillas para Ho'
+title: 'Descuento del 34.55909943714822 % en Skechers Escape Plan  Zapatillas para Ho'
 date: 2019/10/19 21:49:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uRQthwAgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uRQthwAgL._SL200_.jpg' ]

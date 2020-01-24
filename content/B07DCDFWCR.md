@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Zeta Suede  Zapatillas Unisex Adult' al 66.6147859922179 % de descuento
+title: 'Puma Zeta Suede  Zapatillas Unisex Adult al 66.6147859922179 % de descuento'
 date: 2019/11/21 11:40:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3187m6K%2BcfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3187m6K%2BcfL._SL200_.jpg' ]

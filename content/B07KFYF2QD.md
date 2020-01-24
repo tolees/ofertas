@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.942452043369485 % en 'PUMA Carina L  Zapatillas para Mujer  Wh'
+title: 'Descuento del 30.942452043369485 % en PUMA Carina L  Zapatillas para Mujer  Wh'
 date: 2020-01-07 11:34:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B0843BIWL._SL200_.jpg' ]

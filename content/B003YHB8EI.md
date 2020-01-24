@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.81011351909184 % en 'StarMark Bob-a-Lot - Juguete Interactivo'
+title: 'Descuento del 35.81011351909184 % en StarMark Bob-a-Lot - Juguete Interactivo'
 date: 2019/10/08 08:56:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41suZhGk%2BSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41suZhGk%2BSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 79.99230473258946 % en 'Springfield 10 Posicionado Reconsider Ba'
+title: 'Descuento del 79.99230473258946 % en Springfield 10 Posicionado Reconsider Ba'
 date: 2019/12/02 18:36:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U8Ap4VuoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U8Ap4VuoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.47280334728033 % en 'HP 27f - Monitor de 27"  FHD  1920 x 108'
+title: 'Descuento del 33.47280334728033 % en HP 27f - Monitor de 27"  FHD  1920 x 108'
 date: 2019/11/01 13:31:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JlniX4SnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JlniX4SnL._SL200_.jpg' ]

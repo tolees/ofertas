@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.88757396449704 % en 'De longhi ECP35.31 - Cafetera espresso  '
+title: 'Descuento del 40.88757396449704 % en De longhi ECP35.31 - Cafetera espresso  '
 date: 2019/12/01 23:40:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LhM6MeEvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LhM6MeEvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.2 % en 'Inesita la jirafa mordedora. Juguete con'
+title: 'Descuento del 37.2 % en Inesita la jirafa mordedora. Juguete con'
 date: 2019/10/12 11:07:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414e1bFlsLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414e1bFlsLL._SL200_.jpg' ]

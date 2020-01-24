@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Max factor - Miracle touch creamy blush ' al 49.786324786324776 % de descuento
+title: 'Max factor - Miracle touch creamy blush  al 49.786324786324776 % de descuento'
 date: 2019/10/08 23:51:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jmZS7mAtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jmZS7mAtL._SL200_.jpg' ]

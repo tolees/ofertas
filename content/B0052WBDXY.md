@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.306298999729655 % en 'Grundig MC 6040 - Cortapelos para cabell'
+title: 'Descuento del 33.306298999729655 % en Grundig MC 6040 - Cortapelos para cabell'
 date: 2019/11/15 23:08:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41szzZ0EgsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41szzZ0EgsL._SL200_.jpg' ]

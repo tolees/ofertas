@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J SPACECLUB Girl C  Zapatillas para' al 50.0 % de descuento
+title: 'Geox J SPACECLUB Girl C  Zapatillas para al 50.0 % de descuento'
 date: 2020-01-11 22:52:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yc4bc8m8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yc4bc8m8L._SL200_.jpg' ]

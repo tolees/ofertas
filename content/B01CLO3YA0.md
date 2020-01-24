@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois Radiance Reveal Corrector Tono ' al 47.78947368421053 % de descuento
+title: 'Bourjois Radiance Reveal Corrector Tono  al 47.78947368421053 % de descuento'
 date: 2019/12/26 22:52:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UsSHNZEUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UsSHNZEUL._SL200_.jpg' ]

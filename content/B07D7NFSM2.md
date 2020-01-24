@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas 107417 Vestido  Naranja' al 70.55292259083727 % de descuento
+title: 'Dolores Promesas 107417 Vestido  Naranja al 70.55292259083727 % de descuento'
 date: 2019/11/10 08:01:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CfppTVSvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CfppTVSvL._SL200_.jpg' ]

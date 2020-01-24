@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Afeitadora Eléctrica Hombre  Afeitadora ' al 44.45267642155956 % de descuento
+title: 'Afeitadora Eléctrica Hombre  Afeitadora  al 44.45267642155956 % de descuento'
 date: 2019/11/16 13:14:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51G1bBkSgDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51G1bBkSgDL._SL200_.jpg' ]

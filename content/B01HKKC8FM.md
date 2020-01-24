@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Pantalon Largo Deportivo  Hombre  E' al 25.250000000000007 % de descuento
+title: 'Joma Pantalon Largo Deportivo  Hombre  E al 25.250000000000007 % de descuento'
 date: 2019/10/22 08:28:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MWLIY6GAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MWLIY6GAL._SL200_.jpg' ]

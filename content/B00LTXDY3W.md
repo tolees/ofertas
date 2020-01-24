@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Safta Safta Sf-711457741 Bolsa de Viaje ' al 41.233676021116985 % de descuento
+title: 'Safta Safta Sf-711457741 Bolsa de Viaje  al 41.233676021116985 % de descuento'
 date: 2019/11/03 09:13:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qVoCP9i-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qVoCP9i-L._SL200_.jpg' ]

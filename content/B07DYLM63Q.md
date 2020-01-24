@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.01333777925975 % en 'TOPELEK Teclado y Raton Inálambrico con '
+title: 'Descuento del 40.01333777925975 % en TOPELEK Teclado y Raton Inálambrico con '
 date: 2020-01-03 18:10:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QORUA0%2B8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QORUA0%2B8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Tommy Raffia Wedge Sandal' al 50.36028823058447 % de descuento
+title: 'Tommy Hilfiger Tommy Raffia Wedge Sandal al 50.36028823058447 % de descuento'
 date: 2019/10/17 12:42:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51k1nEf3X7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51k1nEf3X7L._SL200_.jpg' ]

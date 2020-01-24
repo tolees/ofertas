@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Fitted CG Crew Camiseta de ' al 54.47272727272727 % de descuento
+title: 'Under Armour Fitted CG Crew Camiseta de  al 54.47272727272727 % de descuento'
 date: 2019/10/30 16:30:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VEdzILuzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VEdzILuzL._SL200_.jpg' ]

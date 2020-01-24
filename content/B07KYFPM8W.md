@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Revolution 4  GS   Zapatillas de Ma' al 43.36519226494777 % de descuento
+title: 'Nike Revolution 4  GS   Zapatillas de Ma al 43.36519226494777 % de descuento'
 date: 2019/11/11 11:01:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wc7Kn4ErL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wc7Kn4ErL._SL200_.jpg' ]

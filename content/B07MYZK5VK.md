@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.944120100083396 % en 'Skechers Flex Appeal 3.0-First Insight  '
+title: 'Descuento del 32.944120100083396 % en Skechers Flex Appeal 3.0-First Insight  '
 date: 2019/12/25 14:06:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419i5BEOMcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419i5BEOMcL._SL200_.jpg' ]

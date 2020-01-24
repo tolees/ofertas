@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonderbra Fabulous Feel Padded Wireless ' al 70.42420646692375 % de descuento
+title: 'Wonderbra Fabulous Feel Padded Wireless  al 70.42420646692375 % de descuento'
 date: 2019/12/12 08:14:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FQaTLiSTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FQaTLiSTL._SL200_.jpg' ]

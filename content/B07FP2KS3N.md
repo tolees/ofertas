@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41369 Friends Mia s House Set  3 mi' al 25.03750625104184 % de descuento
+title: 'LEGO 41369 Friends Mia s House Set  3 mi al 25.03750625104184 % de descuento'
 date: 2019/11/11 12:43:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-ohHpBOIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-ohHpBOIL._SL200_.jpg' ]

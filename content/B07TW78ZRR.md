@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jersey Mujer Invierno Sueter Mujer 2019 ' al 35.00875218804702 % de descuento
+title: 'Jersey Mujer Invierno Sueter Mujer 2019  al 35.00875218804702 % de descuento'
 date: 2019/12/06 16:46:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414zdy18AfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414zdy18AfL._SL200_.jpg' ]

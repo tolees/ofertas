@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Vana Windbreaker Chaqueta I' al 56.86 % de descuento
+title: 'Helly Hansen Vana Windbreaker Chaqueta I al 56.86 % de descuento'
 date: 2019/12/26 14:39:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ANGA6yuOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ANGA6yuOL._SL200_.jpg' ]

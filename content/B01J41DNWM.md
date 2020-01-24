@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.355570380253496 % en 'LEGO Creator 31058 - Dinosaurier  Dinosa'
+title: 'Descuento del 33.355570380253496 % en LEGO Creator 31058 - Dinosaurier  Dinosa'
 date: 2019/12/25 09:28:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-vYbxkXgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-vYbxkXgL._SL200_.jpg' ]

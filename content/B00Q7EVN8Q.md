@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Peakfreak Venture  Zapatos Impe' al 26.93464588460487 % de descuento
+title: 'Columbia Peakfreak Venture  Zapatos Impe al 26.93464588460487 % de descuento'
 date: 2019/11/29 14:19:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AWJZIDgSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AWJZIDgSL._SL200_.jpg' ]

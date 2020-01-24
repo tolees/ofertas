@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher Aspiradores multiuso WD 3 Premiu' al 30.877671668940433 % de descuento
+title: 'Kärcher Aspiradores multiuso WD 3 Premiu al 30.877671668940433 % de descuento'
 date: 2019/10/20 17:06:47 +0000
 thumbnailImage: ''
 images: [ '' ]

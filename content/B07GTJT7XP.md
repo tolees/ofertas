@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SEEALLDE Cuaderno de piel B6 páginas en ' al 56.68556185395131 % de descuento
+title: 'SEEALLDE Cuaderno de piel B6 páginas en  al 56.68556185395131 % de descuento'
 date: 2019/12/05 07:23:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKncYo9HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BKncYo9HL._SL200_.jpg' ]

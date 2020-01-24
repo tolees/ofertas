@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.74708171206225 % en 'Wrangler Skinny  Vaqueros Skinny  Mujer '
+title: 'Descuento del 64.74708171206225 % en Wrangler Skinny  Vaqueros Skinny  Mujer '
 date: 2020-01-19 11:51:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31w4wEbzJLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31w4wEbzJLL._SL200_.jpg' ]

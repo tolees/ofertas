@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue White and Color Ambiance - K' al 36.83035714285714 % de descuento
+title: 'Philips Hue White and Color Ambiance - K al 36.83035714285714 % de descuento'
 date: 2019/11/24 23:42:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zYei3WoGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zYei3WoGL._SL200_.jpg' ]

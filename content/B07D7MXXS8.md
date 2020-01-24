@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas 107433 Camiseta sin Man' al 42.625139043381544 % de descuento
+title: 'Dolores Promesas 107433 Camiseta sin Man al 42.625139043381544 % de descuento'
 date: 2019/11/09 20:40:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PY8RNqMwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PY8RNqMwL._SL200_.jpg' ]

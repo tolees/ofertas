@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEVI S Men s 501 Original Fit Straight J' al 72.0 % de descuento
+title: 'LEVI S Men s 501 Original Fit Straight J al 72.0 % de descuento'
 date: 2019/11/27 18:01:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zpbE8xAmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zpbE8xAmL._SL200_.jpg' ]

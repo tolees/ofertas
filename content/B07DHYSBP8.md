@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U New Life A  Zapatos de Cordones D' al 30.003002552169345 % de descuento
+title: 'Geox U New Life A  Zapatos de Cordones D al 30.003002552169345 % de descuento'
 date: 2019/12/11 20:18:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310iwaagpKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310iwaagpKL._SL200_.jpg' ]

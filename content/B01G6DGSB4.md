@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.226130653266324 % en 'Utensilios barbacoa  Blusmart Juego de u'
+title: 'Descuento del 45.226130653266324 % en Utensilios barbacoa  Blusmart Juego de u'
 date: 2020-01-13 17:22:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IAG9-5YJL._SL200_.jpg' ]

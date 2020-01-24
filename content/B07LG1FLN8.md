@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Ask SPR 2.0 34 Mallas  Mujer  Gri' al 49.98748435544431 % de descuento
+title: 'adidas Ask SPR 2.0 34 Mallas  Mujer  Gri al 49.98748435544431 % de descuento'
 date: 2019/11/21 11:52:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XgaqFTKVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XgaqFTKVL._SL200_.jpg' ]

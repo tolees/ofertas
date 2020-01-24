@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Swarovski Attract runden Ring  Weiß  rho' al 39.24050632911392 % de descuento
+title: 'Swarovski Attract runden Ring  Weiß  rho al 39.24050632911392 % de descuento'
 date: 2020-01-20 08:18:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Ng93DTqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Ng93DTqdL._SL200_.jpg' ]

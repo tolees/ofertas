@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ben & Lea Sipi Chaqueta  Multicolor  Cam' al 60.37639877924721 % de descuento
+title: 'Ben & Lea Sipi Chaqueta  Multicolor  Cam al 60.37639877924721 % de descuento'
 date: 2019/11/19 14:45:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZttnzuneL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZttnzuneL._SL200_.jpg' ]

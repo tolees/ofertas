@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.242414138046012 % en 'Star Wars - Disfraz de Storm Trooper par'
+title: 'Descuento del 27.242414138046012 % en Star Wars - Disfraz de Storm Trooper par'
 date: 2020-01-03 12:09:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DFcg0OXdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DFcg0OXdL._SL200_.jpg' ]

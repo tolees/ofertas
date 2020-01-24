@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Tesis SS Camiseta  Hombre  Rojo  6' al 47.95454545454546 % de descuento
+title: 'Kappa Tesis SS Camiseta  Hombre  Rojo  6 al 47.95454545454546 % de descuento'
 date: 2019/10/26 07:28:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FopLpxcZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FopLpxcZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hasbro Nerf E7942EU4 Modulus Tracker ECS' al 38.048992607624285 % de descuento
+title: 'Hasbro Nerf E7942EU4 Modulus Tracker ECS al 38.048992607624285 % de descuento'
 date: 2019/11/29 20:54:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-eoCWXJtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-eoCWXJtL._SL200_.jpg' ]

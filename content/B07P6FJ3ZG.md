@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL City Life 70190 Großes Kranken' al 28.57346953353812 % de descuento
+title: 'PLAYMOBIL City Life 70190 Großes Kranken al 28.57346953353812 % de descuento'
 date: 2020-01-17 02:55:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nTlu5hlSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nTlu5hlSL._SL200_.jpg' ]

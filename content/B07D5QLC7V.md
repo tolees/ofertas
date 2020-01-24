@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Sweat TR Chándal  Hombre  Negro' al 50.08347245409015 % de descuento
+title: 'PUMA ESS Sweat TR Chándal  Hombre  Negro al 50.08347245409015 % de descuento'
 date: 2019/10/09 19:08:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313i5fhnbnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313i5fhnbnL._SL200_.jpg' ]

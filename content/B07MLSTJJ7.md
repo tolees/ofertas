@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks 261430357 - Botines de Cuero Homb' al 64.4460138104206 % de descuento
+title: 'Clarks 261430357 - Botines de Cuero Homb al 64.4460138104206 % de descuento'
 date: 2019/10/24 10:02:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vmuhA7W%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vmuhA7W%2BL._SL200_.jpg' ]

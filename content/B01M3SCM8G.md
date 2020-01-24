@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.56 % en 'Under Armour Sportstyle Crew Camisa de M'
+title: 'Descuento del 47.56 % en Under Armour Sportstyle Crew Camisa de M'
 date: 2019/11/04 12:39:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MkC3kb98L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MkC3kb98L._SL200_.jpg' ]

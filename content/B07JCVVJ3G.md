@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KAKOO 4pcs brazaletes Reflectantes Visib' al 57.52876438219109 % de descuento
+title: 'KAKOO 4pcs brazaletes Reflectantes Visib al 57.52876438219109 % de descuento'
 date: 2019/12/20 09:18:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BFOdb0uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s%2BFOdb0uL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Herren Herren Sweatshirt Classic Cr' al 40.05 % de descuento
+title: 'Vans Herren Herren Sweatshirt Classic Cr al 40.05 % de descuento'
 date: 2019/11/13 20:43:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ddXfv0kYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ddXfv0kYL._SL200_.jpg' ]

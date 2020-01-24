@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEABAGS Springfield Monedero de auténtic' al 80.01250781738587 % de descuento
+title: 'LEABAGS Springfield Monedero de auténtic al 80.01250781738587 % de descuento'
 date: 2020-01-19 11:58:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514Tnh3WiSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514Tnh3WiSL._SL200_.jpg' ]

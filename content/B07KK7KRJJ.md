@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.61635220125785 % en 'ELEGIANT Mini LED Luz USB con Altavoz Bl'
+title: 'Descuento del 68.61635220125785 % en ELEGIANT Mini LED Luz USB con Altavoz Bl'
 date: 2020-01-16 19:59:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TfZhiSQxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TfZhiSQxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 10889 DUPLO Disney Mickey s Vacatio' al 30.006668148477445 % de descuento
+title: 'LEGO 10889 DUPLO Disney Mickey s Vacatio al 30.006668148477445 % de descuento'
 date: 2019/11/25 12:40:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Fe2rSR53L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Fe2rSR53L._SL200_.jpg' ]

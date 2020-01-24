@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.675 % en 'Helly Hansen W Long Belfast Chaqueta  Mu'
+title: 'Descuento del 47.675 % en Helly Hansen W Long Belfast Chaqueta  Mu'
 date: 2019/12/06 13:07:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fAncZ90JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fAncZ90JL._SL200_.jpg' ]

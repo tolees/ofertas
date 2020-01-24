@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Paramount Resistente Al Agu' al 38.20769230769231 % de descuento
+title: 'Helly Hansen Paramount Resistente Al Agu al 38.20769230769231 % de descuento'
 date: 2020-01-14 16:43:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nntPYniJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nntPYniJL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour - Sudadera con Capucha para' al 42.981818181818184 % de descuento
+title: 'Under Armour - Sudadera con Capucha para al 42.981818181818184 % de descuento'
 date: 2019/10/29 12:58:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31l6YtLymaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31l6YtLymaL._SL200_.jpg' ]

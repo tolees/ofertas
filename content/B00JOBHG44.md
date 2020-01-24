@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio Reloj Analógico para Hombre de Cua' al 45.562913907284766 % de descuento
+title: 'Casio Reloj Analógico para Hombre de Cua al 45.562913907284766 % de descuento'
 date: 2019/11/11 11:56:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516YYTIqU9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516YYTIqU9L._SL200_.jpg' ]

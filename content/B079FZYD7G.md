@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Energy Phone Pro 4G Navy  4G  Quad-Core ' al 36.93467336683417 % de descuento
+title: 'Energy Phone Pro 4G Navy  4G  Quad-Core  al 36.93467336683417 % de descuento'
 date: 2019/11/17 11:49:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NuIEUpatL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NuIEUpatL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.87975951903808 % en 'Rimmel London Exaggerate Automatic Eyeli'
+title: 'Descuento del 39.87975951903808 % en Rimmel London Exaggerate Automatic Eyeli'
 date: 2019/11/18 15:09:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uh3xlTItL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uh3xlTItL._SL200_.jpg' ]

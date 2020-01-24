@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.16048353480616 % en 'adidas EQT Support RF  Zapatillas de Gim'
+title: 'Descuento del 65.16048353480616 % en adidas EQT Support RF  Zapatillas de Gim'
 date: 2019/11/12 11:06:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LN9fkWMhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LN9fkWMhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.66666666666666 % en 'Under Armour Rival Sudadera con Capucha '
+title: 'Descuento del 67.66666666666666 % en Under Armour Rival Sudadera con Capucha '
 date: 2019/10/23 10:55:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419RJhPWd9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419RJhPWd9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rowenta Calefactor SO6510F2 Comfort Aqua' al 29.078014184397162 % de descuento
+title: 'Rowenta Calefactor SO6510F2 Comfort Aqua al 29.078014184397162 % de descuento'
 date: 2020-01-13 18:26:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RiAQiUekL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RiAQiUekL._SL200_.jpg' ]

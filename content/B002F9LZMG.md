@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Josef Seibel Schuhfabrik GmbH Bradfjord ' al 52.95221416062046 % de descuento
+title: 'Josef Seibel Schuhfabrik GmbH Bradfjord  al 52.95221416062046 % de descuento'
 date: 2019/11/05 12:24:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WFySJrb1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WFySJrb1L._SL200_.jpg' ]

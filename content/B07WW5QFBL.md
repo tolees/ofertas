@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.17495490852874 % en 'YOSICIL Vestido Elsa con Capa Disfraz de'
+title: 'Descuento del 41.17495490852874 % en YOSICIL Vestido Elsa con Capa Disfraz de'
 date: 2019/12/30 00:53:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ejZHNGl%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ejZHNGl%2BL._SL200_.jpg' ]

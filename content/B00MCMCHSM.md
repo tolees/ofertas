@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.72206303724929 % en 'T.Y 37132 - Peluche  10.3 cm  TY37132  -'
+title: 'Descuento del 52.72206303724929 % en T.Y 37132 - Peluche  10.3 cm  TY37132  -'
 date: 2019/12/04 23:05:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I4J2V1PqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I4J2V1PqL._SL200_.jpg' ]

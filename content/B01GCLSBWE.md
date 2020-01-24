@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Creative iRoar - Altavoz portátil para D' al 52.501312532813316 % de descuento
+title: 'Creative iRoar - Altavoz portátil para D al 52.501312532813316 % de descuento'
 date: 2019/10/08 01:42:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ApxNC1NLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ApxNC1NLL._SL200_.jpg' ]

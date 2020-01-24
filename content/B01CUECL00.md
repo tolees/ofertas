@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.855542216886754 % en 'Aigostar Eve 30GON - Hervidor de Agua cr'
+title: 'Descuento del 38.855542216886754 % en Aigostar Eve 30GON - Hervidor de Agua cr'
 date: 2019/11/22 08:06:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WbWJO83LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WbWJO83LL._SL200_.jpg' ]

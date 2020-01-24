@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.026005201040217 % en 'Jakks 207474 - Disney Frozen II - Die Ei'
+title: 'Descuento del 30.026005201040217 % en Jakks 207474 - Disney Frozen II - Die Ei'
 date: 2020-01-05 22:25:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EJANjCEGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EJANjCEGL._SL200_.jpg' ]

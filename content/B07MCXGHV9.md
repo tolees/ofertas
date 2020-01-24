@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.355570380253496 % en 'BOROK 140Pcs Weapons Set Custom Army Ves'
+title: 'Descuento del 33.355570380253496 % en BOROK 140Pcs Weapons Set Custom Army Ves'
 date: 2020-01-24 09:44:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61jWhWJvd4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61jWhWJvd4L._SL200_.jpg' ]

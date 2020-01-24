@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lámpara Antimosquitos  Repelente Mosquit' al 54.06866720735335 % de descuento
+title: 'Lámpara Antimosquitos  Repelente Mosquit al 54.06866720735335 % de descuento'
 date: 2019/12/27 09:50:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PVfK9qHgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PVfK9qHgL._SL200_.jpg' ]

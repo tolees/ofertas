@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moleskine Pro Weekly 2020 - Agenda Seman' al 44.98327759197325 % de descuento
+title: 'Moleskine Pro Weekly 2020 - Agenda Seman al 44.98327759197325 % de descuento'
 date: 2019/12/12 09:41:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X9MFcYjVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X9MFcYjVL._SL200_.jpg' ]

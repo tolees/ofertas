@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.04 % en 'Pancellent Medidor de Suelo Sensor de Su'
+title: 'Descuento del 32.04 % en Pancellent Medidor de Suelo Sensor de Su'
 date: 2019/11/26 18:11:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yajyUfm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yajyUfm1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rimmel London Exaggerate Automatic Lipli' al 26.280991735537185 % de descuento
+title: 'Rimmel London Exaggerate Automatic Lipli al 26.280991735537185 % de descuento'
 date: 2020-01-17 05:02:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PTXH39ETL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PTXH39ETL._SL200_.jpg' ]

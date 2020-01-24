@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01000200040009 % en 'Echo Dot  3rd Gen  - Smart speaker with '
+title: 'Descuento del 50.01000200040009 % en Echo Dot  3rd Gen  - Smart speaker with '
 date: 2020-01-02 13:14:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg' ]

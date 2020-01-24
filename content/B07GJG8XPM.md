@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.36436436436436 % en 'Acer TravelMate X3410  TMX3410-MG-50LB  '
+title: 'Descuento del 64.36436436436436 % en Acer TravelMate X3410  TMX3410-MG-50LB  '
 date: 2019/12/22 13:49:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ivFwzQyUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ivFwzQyUL._SL200_.jpg' ]

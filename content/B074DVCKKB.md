@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'George Pig - Pijama para Niños - George ' al 31.6622691292876 % de descuento
+title: 'George Pig - Pijama para Niños - George  al 31.6622691292876 % de descuento'
 date: 2019/10/08 12:14:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iZXMQBezL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iZXMQBezL._SL200_.jpg' ]

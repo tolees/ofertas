@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazonas AZ-3027000 - Cuerda para hamaca' al 45.34778681120145 % de descuento
+title: 'Amazonas AZ-3027000 - Cuerda para hamaca al 45.34778681120145 % de descuento'
 date: 2019/10/20 09:25:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YCWKnZIRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YCWKnZIRL._SL200_.jpg' ]

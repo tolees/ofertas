@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.99999999999999 % en 'Orient Reloj Analógico para Hombre de Cu'
+title: 'Descuento del 44.99999999999999 % en Orient Reloj Analógico para Hombre de Cu'
 date: 2019/11/14 19:27:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cWFBQxzmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cWFBQxzmL._SL200_.jpg' ]

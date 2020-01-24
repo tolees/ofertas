@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.992301770592775 % en 'Wrangler 80\u00b4s Retro Sweat Sudadera '
+title: 'Descuento del 49.992301770592775 % en Wrangler 80\u00b4s Retro Sweat Sudadera '
 date: 2020-01-07 14:07:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o9nePv4lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o9nePv4lL._SL200_.jpg' ]

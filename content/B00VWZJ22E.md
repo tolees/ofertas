@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yosoo 3 5 Zoll Raspberry Pi Touch Screen' al 42.24647567075943 % de descuento
+title: 'Yosoo 3 5 Zoll Raspberry Pi Touch Screen al 42.24647567075943 % de descuento'
 date: 2019/11/15 18:15:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XR1Es8c-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XR1Es8c-L._SL200_.jpg' ]

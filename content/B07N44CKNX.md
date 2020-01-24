@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.29662077596998 % en 'Desigual T-Shirt Matilde Camiseta  Negro'
+title: 'Descuento del 57.29662077596998 % en Desigual T-Shirt Matilde Camiseta  Negro'
 date: 2020-01-22 14:39:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HzoTgk%2BIL._SL200_.jpg' ]

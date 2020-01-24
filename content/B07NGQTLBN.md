@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'El Ganso Running Washed  Zapatillas para' al 42.42372881355932 % de descuento
+title: 'El Ganso Running Washed  Zapatillas para al 42.42372881355932 % de descuento'
 date: 2019/11/03 14:45:13 +0000
 thumbnailImage: ''
 images: [ '' ]

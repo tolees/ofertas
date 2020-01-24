@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '14 Pack luz de Botella  Kolpop luz Corch' al 35.01750875437718 % de descuento
+title: '14 Pack luz de Botella  Kolpop luz Corch al 35.01750875437718 % de descuento'
 date: 2019/12/11 07:50:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61wCRWTLbpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61wCRWTLbpL._SL200_.jpg' ]

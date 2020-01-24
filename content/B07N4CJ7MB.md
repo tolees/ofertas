@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois  Maquillaje corrector  Tono: 20' al 53.388888888888886 % de descuento
+title: 'Bourjois  Maquillaje corrector  Tono: 20 al 53.388888888888886 % de descuento'
 date: 2020-01-13 13:55:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZJHhsrOTL._SL200_.jpg' ]

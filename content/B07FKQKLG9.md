@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Marsella Camisetas Equip. M/c  Homb' al 33.44444444444444 % de descuento
+title: 'Joma Marsella Camisetas Equip. M/c  Homb al 33.44444444444444 % de descuento'
 date: 2019/12/26 11:09:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Udbj%2BIJML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Udbj%2BIJML._SL200_.jpg' ]

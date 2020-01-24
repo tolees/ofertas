@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Nueva versión 2019] Antena TV Interior-' al 33.34444814938313 % de descuento
+title: '[Nueva versión 2019] Antena TV Interior- al 33.34444814938313 % de descuento'
 date: 2019/10/10 20:56:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415gGpOHPFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415gGpOHPFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tech Hoody 2.0-Twist Sudade' al 59.82222222222222 % de descuento
+title: 'Under Armour Tech Hoody 2.0-Twist Sudade al 59.82222222222222 % de descuento'
 date: 2019/10/29 12:30:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PUIGvkAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PUIGvkAHL._SL200_.jpg' ]

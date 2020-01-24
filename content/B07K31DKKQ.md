@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blend Shorts  Pantalones Cortos para Hom' al 28.580968280467445 % de descuento
+title: 'Blend Shorts  Pantalones Cortos para Hom al 28.580968280467445 % de descuento'
 date: 2019/11/23 13:11:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ws6ygzqlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ws6ygzqlL._SL200_.jpg' ]

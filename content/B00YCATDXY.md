@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crock-Pot AutoStir CSC012X Olla de cocci' al 51.823573017049675 % de descuento
+title: 'Crock-Pot AutoStir CSC012X Olla de cocci al 51.823573017049675 % de descuento'
 date: 2020-01-24 02:17:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5104yJEGcHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5104yJEGcHL._SL200_.jpg' ]

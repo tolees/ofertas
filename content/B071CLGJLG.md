@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Decowood DCW02 Cómoda Horizontal 2 Cajas' al 36.64861783984041 % de descuento
+title: 'Decowood DCW02 Cómoda Horizontal 2 Cajas al 36.64861783984041 % de descuento'
 date: 2019/11/04 13:36:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R2pGSmtzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R2pGSmtzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.18523153942428 % en 'Sony Xperia XZ2 - Smartphone de 5.7"  Oc'
+title: 'Descuento del 48.18523153942428 % en Sony Xperia XZ2 - Smartphone de 5.7"  Oc'
 date: 2020-01-23 10:55:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wmas5HW8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wmas5HW8L._SL200_.jpg' ]

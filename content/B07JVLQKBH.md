@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mando Bluetooth PC  8Bitdo SF30 Pro Inal' al 50.555006044620285 % de descuento
+title: 'Mando Bluetooth PC  8Bitdo SF30 Pro Inal al 50.555006044620285 % de descuento'
 date: 2019/11/21 12:10:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hVNFcWjRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hVNFcWjRL._SL200_.jpg' ]

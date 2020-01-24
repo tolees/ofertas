@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Shirt Core Polo Manga Corta  Hombr' al 46.65542439572793 % de descuento
+title: 'Kempa Shirt Core Polo Manga Corta  Hombr al 46.65542439572793 % de descuento'
 date: 2020-01-22 07:14:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xs5nPoSWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xs5nPoSWL._SL200_.jpg' ]

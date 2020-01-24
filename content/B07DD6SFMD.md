@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Borau Chaqueta  Hombre  Rojo' al 43.94518801784576 % de descuento
+title: 'Trangoworld Borau Chaqueta  Hombre  Rojo al 43.94518801784576 % de descuento'
 date: 2019/11/07 08:23:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zsmAVzQhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zsmAVzQhL._SL200_.jpg' ]

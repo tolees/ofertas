@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sunburst Finish  Remastered & Expanded E' al 66.79664933564413 % de descuento
+title: 'Sunburst Finish  Remastered & Expanded E al 66.79664933564413 % de descuento'
 date: 2019/10/08 01:04:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WOmWb9K0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WOmWb9K0L._SL200_.jpg' ]

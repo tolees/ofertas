@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hercules Universal DJ - Consola para DJ ' al 35.49677483874194 % de descuento
+title: 'Hercules Universal DJ - Consola para DJ  al 35.49677483874194 % de descuento'
 date: 2019/12/01 09:26:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ApQhNRqlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ApQhNRqlL._SL200_.jpg' ]

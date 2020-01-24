@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Camper Right Nina  Bailarinas  Negro  Bl' al 40.91666666666666 % de descuento
+title: 'Camper Right Nina  Bailarinas  Negro  Bl al 40.91666666666666 % de descuento'
 date: 2019/11/17 08:10:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ST8V3-2wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ST8V3-2wL._SL200_.jpg' ]

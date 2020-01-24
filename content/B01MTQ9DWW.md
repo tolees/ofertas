@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Woxter Mic Studio Golden - Micrófono de ' al 30.015007503751868 % de descuento
+title: 'Woxter Mic Studio Golden - Micrófono de  al 30.015007503751868 % de descuento'
 date: 2019/11/11 14:29:57 +0000
 thumbnailImage: ''
 images: [ '' ]

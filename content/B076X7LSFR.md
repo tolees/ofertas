@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.95995995995996 % en 'Geox U Damian D  Zapatillas para Hombre '
+title: 'Descuento del 59.95995995995996 % en Geox U Damian D  Zapatillas para Hombre '
 date: 2019/10/19 08:58:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mhGKaoNHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mhGKaoNHL._SL200_.jpg' ]

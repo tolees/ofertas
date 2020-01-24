@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Green Valley Cadenas Track SUV N°051' al 44.56824512534819 % de descuento
+title: 'Green Valley Cadenas Track SUV N°051 al 44.56824512534819 % de descuento'
 date: 2019/12/01 06:19:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KMWlZnNyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KMWlZnNyL._SL200_.jpg' ]

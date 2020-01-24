@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dockers Smart 360 Flex Alpha Skinny Vaqu' al 44.95196093873051 % de descuento
+title: 'dockers Smart 360 Flex Alpha Skinny Vaqu al 44.95196093873051 % de descuento'
 date: 2020-01-21 22:36:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HmQEvquoL._SL200_.jpg' ]

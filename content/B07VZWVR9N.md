@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ardistel - Game Traveler Deluxe Travel C' al 25.463659147869677 % de descuento
+title: 'Ardistel - Game Traveler Deluxe Travel C al 25.463659147869677 % de descuento'
 date: 2020-01-16 15:37:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fia7fuWZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fia7fuWZL._SL200_.jpg' ]

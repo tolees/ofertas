@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.88420300214439 % en 'Kappa Farum  Botines para Hombre  Beige '
+title: 'Descuento del 37.88420300214439 % en Kappa Farum  Botines para Hombre  Beige '
 date: 2019/11/13 15:02:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519fRDdGSHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519fRDdGSHL._SL200_.jpg' ]

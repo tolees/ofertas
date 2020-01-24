@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.58655346566217 % en 'HyperX Predator HX429C15PB3AK4/32 - Kit '
+title: 'Descuento del 58.58655346566217 % en HyperX Predator HX429C15PB3AK4/32 - Kit '
 date: 2019/11/03 18:14:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A2QQaRixL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A2QQaRixL._SL200_.jpg' ]

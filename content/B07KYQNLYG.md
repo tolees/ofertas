@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 6BA Polo Basico Reg T5 Jerse' al 32.973944294699024 % de descuento
+title: 'Springfield 6BA Polo Basico Reg T5 Jerse al 32.973944294699024 % de descuento'
 date: 2019/12/02 18:41:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Fd%2BKeKcUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Fd%2BKeKcUL._SL200_.jpg' ]

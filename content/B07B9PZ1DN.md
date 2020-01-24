@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Juego de ropa de cama con' al 28.843338213762802 % de descuento
+title: 'AmazonBasics - Juego de ropa de cama con al 28.843338213762802 % de descuento'
 date: 2019/12/10 09:26:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DP0TDmfXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DP0TDmfXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SALOMON S-Lab Light Jkt W Jacket  women ' al 71.85925925925926 % de descuento
+title: 'SALOMON S-Lab Light Jkt W Jacket  women  al 71.85925925925926 % de descuento'
 date: 2019/11/30 15:36:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QUYMfv9qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QUYMfv9qL._SL200_.jpg' ]

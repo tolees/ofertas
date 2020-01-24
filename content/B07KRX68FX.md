@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gioseppo 48223  Sandalias con Punta Abie' al 40.9511889862328 % de descuento
+title: 'Gioseppo 48223  Sandalias con Punta Abie al 40.9511889862328 % de descuento'
 date: 2019/10/28 17:15:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YDVUDJsnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YDVUDJsnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0 % en 'Asics Gel-Sonoma 4 G-TX 1011a210-600  Za'
+title: 'Descuento del 40.0 % en Asics Gel-Sonoma 4 G-TX 1011a210-600  Za'
 date: 2019/12/23 22:41:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qQZLxtyCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qQZLxtyCL._SL200_.jpg' ]

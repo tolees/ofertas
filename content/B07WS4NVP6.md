@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NUBILY Mochila Portatil 17.3 Pulgadas co' al 52.359380898452244 % de descuento
+title: 'NUBILY Mochila Portatil 17.3 Pulgadas co al 52.359380898452244 % de descuento'
 date: 2019/10/23 23:44:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jByAGlrJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jByAGlrJL._SL200_.jpg' ]

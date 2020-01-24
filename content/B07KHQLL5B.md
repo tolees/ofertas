@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.74456521739131 % en 'Auriculares Bluetooth Deportivos  Syllab'
+title: 'Descuento del 57.74456521739131 % en Auriculares Bluetooth Deportivos  Syllab'
 date: 2019/12/09 12:51:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vYMubGbiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vYMubGbiL._SL200_.jpg' ]

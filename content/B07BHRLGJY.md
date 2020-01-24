@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.04160246533128 % en 'Hisense H50U7A - TV Hisense 50" ULED 4K '
+title: 'Descuento del 26.04160246533128 % en Hisense H50U7A - TV Hisense 50" ULED 4K '
 date: 2020-01-16 13:27:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IQUKUFgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IQUKUFgwL._SL200_.jpg' ]

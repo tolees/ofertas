@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Juego de 12 pajitas de acero inoxidable ' al 50.24896265560166 % de descuento
+title: 'Juego de 12 pajitas de acero inoxidable  al 50.24896265560166 % de descuento'
 date: 2020-01-21 13:20:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zA7u%2BHBoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zA7u%2BHBoL._SL200_.jpg' ]

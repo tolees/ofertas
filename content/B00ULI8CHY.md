@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.6875 % en 'Samsonite Neopulse - Spinner S  Ancho: 2'
+title: 'Descuento del 29.6875 % en Samsonite Neopulse - Spinner S  Ancho: 2'
 date: 2019/12/18 10:02:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414d0-MUvIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414d0-MUvIL._SL200_.jpg' ]

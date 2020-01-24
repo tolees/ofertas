@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Trucker Denim Chaqueta  Azul  Mid ' al 68.0 % de descuento
+title: 'find. Trucker Denim Chaqueta  Azul  Mid  al 68.0 % de descuento'
 date: 2019/12/20 13:21:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZUNM9cDUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZUNM9cDUL._SL200_.jpg' ]

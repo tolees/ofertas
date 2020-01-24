@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 11411 POP Vinylfigur: Dishonored 2' al 46.390278770550395 % de descuento
+title: 'Funko 11411 POP Vinylfigur: Dishonored 2 al 46.390278770550395 % de descuento'
 date: 2020-01-08 06:45:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lDk6O70-L._SL200_.jpg' ]

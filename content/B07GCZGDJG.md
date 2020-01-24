@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rollo Envasado Vacío  9 Rollos Bolsas de' al 36.12114476243402 % de descuento
+title: 'Rollo Envasado Vacío  9 Rollos Bolsas de al 36.12114476243402 % de descuento'
 date: 2019/10/14 09:04:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S7xHIWqdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S7xHIWqdL._SL200_.jpg' ]

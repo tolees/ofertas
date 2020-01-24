@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.95499540769467 % en 'Kingston DataTraveler 106  DT106/256GB  '
+title: 'Descuento del 58.95499540769467 % en Kingston DataTraveler 106  DT106/256GB  '
 date: 2019/11/01 17:30:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31apHjkSSKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31apHjkSSKL._SL200_.jpg' ]

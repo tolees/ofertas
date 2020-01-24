@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.56080114449213 % en 'PUMA ESS+ Stripe J. Polo T-Shirt  Hombre'
+title: 'Descuento del 72.56080114449213 % en PUMA ESS+ Stripe J. Polo T-Shirt  Hombre'
 date: 2019/11/02 18:07:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416u6dvJWOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416u6dvJWOL._SL200_.jpg' ]

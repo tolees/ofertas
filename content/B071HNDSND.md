@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES PREMIUM Jprmagnum Blazer ST' al 79.62150934687284 % de descuento
+title: 'JACK & JONES PREMIUM Jprmagnum Blazer ST al 79.62150934687284 % de descuento'
 date: 2019/11/10 11:32:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VCRVp1YPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VCRVp1YPL._SL200_.jpg' ]

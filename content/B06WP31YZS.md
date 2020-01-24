@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garnier Skin Active Rescue Mask - Mascar' al 81.64014687882496 % de descuento
+title: 'Garnier Skin Active Rescue Mask - Mascar al 81.64014687882496 % de descuento'
 date: 2019/10/28 16:44:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oxAUX0NXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oxAUX0NXL._SL200_.jpg' ]

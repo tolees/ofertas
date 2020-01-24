@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DANISH ENDURANCE Calcetines de Lana Meri' al 30.15075376884422 % de descuento
+title: 'DANISH ENDURANCE Calcetines de Lana Meri al 30.15075376884422 % de descuento'
 date: 2019/10/06 18:44:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UgPmAOkjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UgPmAOkjL._SL200_.jpg' ]

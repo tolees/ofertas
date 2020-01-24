@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Terminator 2  Shocking Dark  [Blu-ray]' al 36.62979830839297 % de descuento
+title: 'Terminator 2  Shocking Dark  [Blu-ray] al 36.62979830839297 % de descuento'
 date: 2019/10/18 01:20:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y4AlQy0GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y4AlQy0GL._SL200_.jpg' ]

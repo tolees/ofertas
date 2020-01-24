@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.45679355376494 % en 'SAFETYON Accesorios para iRobot Roomba 1'
+title: 'Descuento del 44.45679355376494 % en SAFETYON Accesorios para iRobot Roomba 1'
 date: 2020-01-09 08:19:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516lgAn8gML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516lgAn8gML._SL200_.jpg' ]

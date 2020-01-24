@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tiny Love Pack & Go Mini Mobile Meadow D' al 39.24623115577889 % de descuento
+title: 'Tiny Love Pack & Go Mini Mobile Meadow D al 39.24623115577889 % de descuento'
 date: 2019/11/02 12:42:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ckbax5lcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ckbax5lcL._SL200_.jpg' ]

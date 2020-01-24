@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Hombre Split Logo  Camisa Ma' al 60.885714285714286 % de descuento
+title: 'Tommy Jeans Hombre Split Logo  Camisa Ma al 60.885714285714286 % de descuento'
 date: 2019/11/15 18:10:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KMDqy-zkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KMDqy-zkL._SL200_.jpg' ]

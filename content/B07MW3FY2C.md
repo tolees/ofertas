@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas YATRA  Zapatillas de Deporte para' al 49.9909008189263 % de descuento
+title: 'Adidas YATRA  Zapatillas de Deporte para al 49.9909008189263 % de descuento'
 date: 2020-01-15 12:07:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vUuMu23tL._SL200_.jpg' ]

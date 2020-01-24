@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574  Entrenadores para Niños' al 44.98461538461539 % de descuento
+title: 'New Balance 574  Entrenadores para Niños al 44.98461538461539 % de descuento'
 date: 2019/11/18 02:59:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b7Y8zlK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b7Y8zlK2L._SL200_.jpg' ]

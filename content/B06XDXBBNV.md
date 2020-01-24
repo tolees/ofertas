@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pasito a pasito 73749 - Bolsa canastilla' al 41.48936170212766 % de descuento
+title: 'Pasito a pasito 73749 - Bolsa canastilla al 41.48936170212766 % de descuento'
 date: 2019/10/15 19:37:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jU4TIXcAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jU4TIXcAL._SL200_.jpg' ]

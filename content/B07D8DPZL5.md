@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.3526425798746 % en 'Skechers Street Cleat-Bring It Back  Zap'
+title: 'Descuento del 31.3526425798746 % en Skechers Street Cleat-Bring It Back  Zap'
 date: 2019/12/30 17:45:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DqH6C0obL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DqH6C0obL._SL200_.jpg' ]

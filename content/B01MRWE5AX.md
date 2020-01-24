@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KLIMTM Wind + Base de refrigeración para' al 33.44481605351171 % de descuento
+title: 'KLIMTM Wind + Base de refrigeración para al 33.44481605351171 % de descuento'
 date: 2019/12/29 12:50:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519ugHFX2AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519ugHFX2AL._SL200_.jpg' ]

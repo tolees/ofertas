@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FYLINA Handyhalterung Fahrrad  Handyhalt' al 31.83265120509322 % de descuento
+title: 'FYLINA Handyhalterung Fahrrad  Handyhalt al 31.83265120509322 % de descuento'
 date: 2020-01-20 09:16:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sk5p8cdYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sk5p8cdYL._SL200_.jpg' ]

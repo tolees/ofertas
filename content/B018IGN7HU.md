@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.49114703618167 % en 'Nintendo - Figura amiibo Animal Crossing'
+title: 'Descuento del 38.49114703618167 % en Nintendo - Figura amiibo Animal Crossing'
 date: 2020-01-23 16:04:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vpNefq9xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vpNefq9xL._SL200_.jpg' ]

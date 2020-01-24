@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.22935779816514 % en 'Geox U Garret A  Zapatos de Cordones Der'
+title: 'Descuento del 35.22935779816514 % en Geox U Garret A  Zapatos de Cordones Der'
 date: 2020-01-03 10:08:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zlHQ3Qk0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zlHQ3Qk0L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Citizen Reloj Analogico para Hombre de E' al 42.21776504297995 % de descuento
+title: 'Citizen Reloj Analogico para Hombre de E al 42.21776504297995 % de descuento'
 date: 2019/11/06 12:16:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vmqiCevSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vmqiCevSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk iXpand - Memoria Flash USB de 12' al 68.63417982155113 % de descuento
+title: 'SanDisk iXpand - Memoria Flash USB de 12 al 68.63417982155113 % de descuento'
 date: 2019/12/07 16:52:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qj81lhGGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qj81lhGGL._SL200_.jpg' ]

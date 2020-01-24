@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.766277128547586 % en 'Neato Robotics D85 Robot Aspirador - Asp'
+title: 'Descuento del 37.766277128547586 % en Neato Robotics D85 Robot Aspirador - Asp'
 date: 2019/11/03 12:32:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Qlkvjkv-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Qlkvjkv-L._SL200_.jpg' ]

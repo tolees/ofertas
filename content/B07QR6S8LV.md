@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bulova Reloj Cronógrafo para Hombre de C' al 38.06388888888888 % de descuento
+title: 'Bulova Reloj Cronógrafo para Hombre de C al 38.06388888888888 % de descuento'
 date: 2019/12/13 22:32:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-G3FYnuRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-G3FYnuRL._SL200_.jpg' ]

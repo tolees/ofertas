@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.01785714285714 % en 'Wedo 212200 Taburete con Ruedas  Blanco'
+title: 'Descuento del 52.01785714285714 % en Wedo 212200 Taburete con Ruedas  Blanco'
 date: 2019/10/27 09:21:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ltMap9-fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ltMap9-fL._SL200_.jpg' ]

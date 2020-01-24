@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2750-cotbumpj  Zapatillas de Gim' al 59.95918367346938 % de descuento
+title: 'Superga 2750-cotbumpj  Zapatillas de Gim al 59.95918367346938 % de descuento'
 date: 2020-01-03 10:22:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OCipKXQwL._SL200_.jpg' ]

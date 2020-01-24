@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Mochila de equipo de béis' al 39.50790158031607 % de descuento
+title: 'AmazonBasics - Mochila de equipo de béis al 39.50790158031607 % de descuento'
 date: 2019/11/12 10:36:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lNwGX0FsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lNwGX0FsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Jock Strap 2pk Ropa Interio' al 33.46153846153847 % de descuento
+title: 'Calvin Klein Jock Strap 2pk Ropa Interio al 33.46153846153847 % de descuento'
 date: 2019/10/31 14:13:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W8RH%2BnPRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W8RH%2BnPRL._SL200_.jpg' ]

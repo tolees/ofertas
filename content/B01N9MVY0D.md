@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Veet Bandas de Cera Depilatoria Facial -' al 29.568788501026688 % de descuento
+title: 'Veet Bandas de Cera Depilatoria Facial - al 29.568788501026688 % de descuento'
 date: 2020-01-19 03:15:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tOIuXTj9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tOIuXTj9L._SL200_.jpg' ]

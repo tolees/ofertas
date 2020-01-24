@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Bobble: Star Wars: E8 TLJ: Poe Dame' al 45.34501642935378 % de descuento
+title: 'POP! Bobble: Star Wars: E8 TLJ: Poe Dame al 45.34501642935378 % de descuento'
 date: 2020-01-08 14:18:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519MaHlaXKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519MaHlaXKL._SL200_.jpg' ]

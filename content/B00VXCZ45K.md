@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW ARC 3D Slim Jeans  Azul  Medi' al 68.1533972488537 % de descuento
+title: 'G-STAR RAW ARC 3D Slim Jeans  Azul  Medi al 68.1533972488537 % de descuento'
 date: 2019/10/15 17:13:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ewtmuJ7iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ewtmuJ7iL._SL200_.jpg' ]

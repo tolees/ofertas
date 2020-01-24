@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance WL574EB  Zapatillas Mujer  A' al 42.9077608869585 % de descuento
+title: 'New Balance WL574EB  Zapatillas Mujer  A al 42.9077608869585 % de descuento'
 date: 2019/12/07 06:19:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I9H5draFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I9H5draFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.12 % en 'Diesel P-aimi-p Shorts Pantalones Cortos'
+title: 'Descuento del 70.12 % en Diesel P-aimi-p Shorts Pantalones Cortos'
 date: 2019/11/12 07:31:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YyrVSLfRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YyrVSLfRL._SL200_.jpg' ]

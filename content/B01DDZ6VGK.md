@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Third of Life Almohada de Espuma Viscoel' al 31.595576619273302 % de descuento
+title: 'Third of Life Almohada de Espuma Viscoel al 31.595576619273302 % de descuento'
 date: 2019/11/28 17:20:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pE-fSTW6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pE-fSTW6L._SL200_.jpg' ]

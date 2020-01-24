@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.51542952460383 % en 'Supportiback® Cojín ortopédico para ciát'
+title: 'Descuento del 58.51542952460383 % en Supportiback® Cojín ortopédico para ciát'
 date: 2019/11/11 16:06:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iNwPi3qeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iNwPi3qeL._SL200_.jpg' ]

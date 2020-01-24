@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.39577836411608 % en 'Duracell - Ultra Pilas Recargables AA 25'
+title: 'Descuento del 50.39577836411608 % en Duracell - Ultra Pilas Recargables AA 25'
 date: 2019/11/27 20:04:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bh0dzZraL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bh0dzZraL._SL200_.jpg' ]

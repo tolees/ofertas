@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.89749430523918 % en 'Indeca - Auricular Raiyin color Sound  P'
+title: 'Descuento del 54.89749430523918 % en Indeca - Auricular Raiyin color Sound  P'
 date: 2019/11/11 08:45:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319c1FSfg7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319c1FSfg7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cable HDMI trenzado de al' al 61.577934573444516 % de descuento
+title: 'AmazonBasics - Cable HDMI trenzado de al al 61.577934573444516 % de descuento'
 date: 2019/12/22 10:06:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U5FGpLi9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U5FGpLi9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein 2PK Bikini Braguitas  Gris ' al 28.995433789954326 % de descuento
+title: 'Calvin Klein 2PK Bikini Braguitas  Gris  al 28.995433789954326 % de descuento'
 date: 2019/10/05 19:46:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414fB0Z5KwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414fB0Z5KwL._SL200_.jpg' ]

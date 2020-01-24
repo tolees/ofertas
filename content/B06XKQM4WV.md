@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La Roche-Posay - Leche hidratante lipika' al 41.95121951219512 % de descuento
+title: 'La Roche-Posay - Leche hidratante lipika al 41.95121951219512 % de descuento'
 date: 2019/11/06 10:44:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XWkc0fvEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XWkc0fvEL._SL200_.jpg' ]

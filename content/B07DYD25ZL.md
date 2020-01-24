@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Bare Access Flex 2  Zapatillas D' al 50.009090909090915 % de descuento
+title: 'Merrell Bare Access Flex 2  Zapatillas D al 50.009090909090915 % de descuento'
 date: 2019/11/01 13:31:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NAbCD-Q%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NAbCD-Q%2BL._SL200_.jpg' ]

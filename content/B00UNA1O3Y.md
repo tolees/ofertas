@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seagate STEB2000200 Expansion Desktop 2 ' al 36.845983787767125 % de descuento
+title: 'Seagate STEB2000200 Expansion Desktop 2  al 36.845983787767125 % de descuento'
 date: 2019/10/27 13:40:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418ChT27VTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418ChT27VTL._SL200_.jpg' ]

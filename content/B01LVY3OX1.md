@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.915789473684214 % en 'Vans Old Skool Zip  Zapatillas Unisex Ad'
+title: 'Descuento del 39.915789473684214 % en Vans Old Skool Zip  Zapatillas Unisex Ad'
 date: 2019/11/15 18:00:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C3IL41KeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C3IL41KeL._SL200_.jpg' ]

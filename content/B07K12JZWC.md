@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Gazelle  Zapatillas de Gimnasia p' al 59.079539769884946 % de descuento
+title: 'adidas Gazelle  Zapatillas de Gimnasia p al 59.079539769884946 % de descuento'
 date: 2019/10/09 19:45:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-sDkZ-hvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-sDkZ-hvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cámara de Video Videocámara Full HD 1080' al 37.003700370036995 % de descuento
+title: 'Cámara de Video Videocámara Full HD 1080 al 37.003700370036995 % de descuento'
 date: 2019/12/31 09:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vlRwtWhaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vlRwtWhaL._SL200_.jpg' ]

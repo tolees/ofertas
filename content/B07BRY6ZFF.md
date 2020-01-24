@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s - The L Pack Side Tab  Mochilas H' al 57.89830508474576 % de descuento
+title: 'Levi s - The L Pack Side Tab  Mochilas H al 57.89830508474576 % de descuento'
 date: 2019/10/29 15:03:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZQpRaGWAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZQpRaGWAL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mantona 20142 - Bolsa para cámara Color ' al 50.655933214072746 % de descuento
+title: 'Mantona 20142 - Bolsa para cámara Color  al 50.655933214072746 % de descuento'
 date: 2020-01-03 11:45:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CB1bfp%2BrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CB1bfp%2BrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.56324769562659 % en 'ZAMAC Terror Máscara de Halloween Látex '
+title: 'Descuento del 72.56324769562659 % en ZAMAC Terror Máscara de Halloween Látex '
 date: 2019/10/18 17:11:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b%2B9DZlmkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b%2B9DZlmkL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.73078022292084 % en 'Columbia Zero Rules Short Sleeve Shirt C'
+title: 'Descuento del 57.73078022292084 % en Columbia Zero Rules Short Sleeve Shirt C'
 date: 2019/11/17 12:27:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LG6Nkj1GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LG6Nkj1GL._SL200_.jpg' ]

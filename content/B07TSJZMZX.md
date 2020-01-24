@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Techn' al 65.00650065006501 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for LEGO Techn al 65.00650065006501 % de descuento'
 date: 2020-01-23 17:38:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S0cTl8gIL._SL200_.jpg' ]

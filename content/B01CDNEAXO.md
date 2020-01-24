@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony PS-HX500 Plattenspieler  High-Resol' al 45.8937875751503 % de descuento
+title: 'Sony PS-HX500 Plattenspieler  High-Resol al 45.8937875751503 % de descuento'
 date: 2019/12/18 22:36:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yIFCQpUbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yIFCQpUbL._SL200_.jpg' ]

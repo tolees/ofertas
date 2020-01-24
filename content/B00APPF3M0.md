@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Bobble - Marvel: Deadpool' al 44.96330887258172 % de descuento
+title: 'POP! Bobble - Marvel: Deadpool al 44.96330887258172 % de descuento'
 date: 2020-01-13 23:29:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D4bIG484L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D4bIG484L._SL200_.jpg' ]

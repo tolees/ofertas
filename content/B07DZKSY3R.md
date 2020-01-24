@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Hooded Chaqueta De ' al 55.06577429033004 % de descuento
+title: 'Columbia Powder Lite Hooded Chaqueta De  al 55.06577429033004 % de descuento'
 date: 2019/12/13 20:09:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413Xcwb6JUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413Xcwb6JUL._SL200_.jpg' ]

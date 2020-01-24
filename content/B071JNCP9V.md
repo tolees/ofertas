@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.18987341772152 % en 'Apple Funda Leather Smart Cover  para el'
+title: 'Descuento del 53.18987341772152 % en Apple Funda Leather Smart Cover  para el'
 date: 2019/10/09 13:49:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t%2B%2B-g0DGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t%2B%2B-g0DGL._SL200_.jpg' ]

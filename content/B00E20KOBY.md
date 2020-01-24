@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vogel s Base 05 L - Soporte de pared fij' al 42.898907524234495 % de descuento
+title: 'Vogel s Base 05 L - Soporte de pared fij al 42.898907524234495 % de descuento'
 date: 2020-01-19 06:02:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F5Mf8XynL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F5Mf8XynL._SL200_.jpg' ]

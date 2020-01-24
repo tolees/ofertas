@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hevanto 10W Cargador inalámbrico 7.5W pa' al 70.01750437609402 % de descuento
+title: 'Hevanto 10W Cargador inalámbrico 7.5W pa al 70.01750437609402 % de descuento'
 date: 2019/12/26 16:03:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31E05p-8jAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31E05p-8jAL._SL200_.jpg' ]

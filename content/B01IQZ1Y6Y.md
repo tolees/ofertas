@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars Rogue One - Disfraz de Death T' al 66.3887962654218 % de descuento
+title: 'Star Wars Rogue One - Disfraz de Death T al 66.3887962654218 % de descuento'
 date: 2020-01-14 16:39:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uiBpl7euL._SL200_.jpg' ]

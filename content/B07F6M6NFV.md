@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Bmg Badge Camiseta  Hombre  Verde  ' al 30.075187969924812 % de descuento
+title: 'PUMA Bmg Badge Camiseta  Hombre  Verde   al 30.075187969924812 % de descuento'
 date: 2019/11/27 10:21:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ub1tfy13L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ub1tfy13L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Abody Secador de Uñas 48W Lámpara Uñas U' al 32.36245954692557 % de descuento
+title: 'Abody Secador de Uñas 48W Lámpara Uñas U al 32.36245954692557 % de descuento'
 date: 2020-01-24 08:32:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31QqUvMLdrL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31QqUvMLdrL._AC_._SL200_.jpg' ]

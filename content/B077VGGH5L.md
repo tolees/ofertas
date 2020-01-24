@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coco [Blu-ray]' al 78.86617817200154 % de descuento
+title: 'Coco [Blu-ray] al 78.86617817200154 % de descuento'
 date: 2019/11/28 07:40:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61I7fUQqE7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61I7fUQqE7L._SL200_.jpg' ]

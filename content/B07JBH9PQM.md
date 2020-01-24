@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tablet 10 Pulgadas  2GB+32GB  1280x800 I' al 76.52013422818791 % de descuento
+title: 'Tablet 10 Pulgadas  2GB+32GB  1280x800 I al 76.52013422818791 % de descuento'
 date: 2020-01-05 18:04:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419O7fm%2Be0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419O7fm%2Be0L._SL200_.jpg' ]

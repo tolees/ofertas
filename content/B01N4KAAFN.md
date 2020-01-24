@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok X Spirit Classic Leather  Zapatil' al 74.76576481734921 % de descuento
+title: 'Reebok X Spirit Classic Leather  Zapatil al 74.76576481734921 % de descuento'
 date: 2019/11/07 20:56:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f5OUo0hZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f5OUo0hZL._SL200_.jpg' ]

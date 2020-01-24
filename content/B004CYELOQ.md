@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.052422557585373 % en 'Wilton Molde para donas con 6 cavidades '
+title: 'Descuento del 26.052422557585373 % en Wilton Molde para donas con 6 cavidades '
 date: 2019/10/13 15:36:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CYDwNkpSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CYDwNkpSL._SL200_.jpg' ]

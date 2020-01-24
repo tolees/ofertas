@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.232558139534895 % en 'NieR Automata - Game Of The YoRHa Edició'
+title: 'Descuento del 30.232558139534895 % en NieR Automata - Game Of The YoRHa Edició'
 date: 2020-01-17 12:11:31
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.00600120024005 % en 'Lintelek Pulsera Actividad Impermeable  '
+title: 'Descuento del 30.00600120024005 % en Lintelek Pulsera Actividad Impermeable  '
 date: 2020-01-16 18:06:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RaCt8iEFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RaCt8iEFL._SL200_.jpg' ]

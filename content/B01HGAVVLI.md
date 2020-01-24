@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descalcificador para cafetera concentrad' al 32.1285140562249 % de descuento
+title: 'Descalcificador para cafetera concentrad al 32.1285140562249 % de descuento'
 date: 2019/11/02 15:50:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kzMSPpzPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kzMSPpzPL._SL200_.jpg' ]

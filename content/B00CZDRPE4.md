@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.09025663331884 % en 'Grohe Grandera - inversor 5 vías p.ext. '
+title: 'Descuento del 45.09025663331884 % en Grohe Grandera - inversor 5 vías p.ext. '
 date: 2019/12/28 21:27:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kKeRd5MkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kKeRd5MkL._SL200_.jpg' ]

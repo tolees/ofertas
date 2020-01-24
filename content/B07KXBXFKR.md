@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.236188951160926 % en 'Bronchotos Pediátrico - Jarabe tos seca '
+title: 'Descuento del 45.236188951160926 % en Bronchotos Pediátrico - Jarabe tos seca '
 date: 2020-01-20 23:37:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HYkHVdkBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HYkHVdkBL._SL200_.jpg' ]

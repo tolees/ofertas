@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.5795941697628 % en 'Philips OneBlade QP230/50 - Pack con 3 c'
+title: 'Descuento del 28.5795941697628 % en Philips OneBlade QP230/50 - Pack con 3 c'
 date: 2019/11/28 15:14:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ReNZAudeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ReNZAudeL._SL200_.jpg' ]

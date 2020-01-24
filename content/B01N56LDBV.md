@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.0588367392769 % en 'Rotulador punta fina STABILO point 88 - '
+title: 'Descuento del 46.0588367392769 % en Rotulador punta fina STABILO point 88 - '
 date: 2019/11/09 10:52:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51S8Z0DIS-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51S8Z0DIS-L._SL200_.jpg' ]

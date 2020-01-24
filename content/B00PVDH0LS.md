@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.80927786646634 % en 'D-Link DXS-1100-10TS - Switch 10GbE Gest'
+title: 'Descuento del 48.80927786646634 % en D-Link DXS-1100-10TS - Switch 10GbE Gest'
 date: 2019/10/19 00:42:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zd-RilqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zd-RilqAL._SL200_.jpg' ]

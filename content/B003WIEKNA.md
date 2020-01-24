@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.06950532247964 % en 'The Glenlivet - Whisky de malta escocés '
+title: 'Descuento del 37.06950532247964 % en The Glenlivet - Whisky de malta escocés '
 date: 2020-01-18 17:34:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jlFEoMVwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jlFEoMVwL._SL200_.jpg' ]

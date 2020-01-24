@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Care 550141 Camisa Manga Larga  Verde  W' al 49.968652037617545 % de descuento
+title: 'Care 550141 Camisa Manga Larga  Verde  W al 49.968652037617545 % de descuento'
 date: 2019/10/08 00:44:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5194%2B896bsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5194%2B896bsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 42091 Technic Polizei-Verfolgungsja' al 32.666333166583286 % de descuento
+title: 'Lego 42091 Technic Polizei-Verfolgungsja al 32.666333166583286 % de descuento'
 date: 2020-01-23 17:37:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Sf6u-RUDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Sf6u-RUDL._SL200_.jpg' ]

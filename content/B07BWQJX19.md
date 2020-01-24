@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Reloj Analógico para Mujer de Cu' al 47.23618090452262 % de descuento
+title: 'Lacoste Reloj Analógico para Mujer de Cu al 47.23618090452262 % de descuento'
 date: 2019/12/12 06:50:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xQ%2Bj4hN3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xQ%2Bj4hN3L._SL200_.jpg' ]

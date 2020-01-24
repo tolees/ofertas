@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.31782945736434 % en 'BOSS J10 Ventura Vaqueros Skinny Fit  Az'
+title: 'Descuento del 63.31782945736434 % en BOSS J10 Ventura Vaqueros Skinny Fit  Az'
 date: 2019/11/12 17:45:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314CNMuS37L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314CNMuS37L._SL200_.jpg' ]

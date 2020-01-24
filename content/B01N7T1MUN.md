@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.05263157894736 % en 'Pepe Jeans Pixie PL200025  Vaqueros Skin'
+title: 'Descuento del 40.05263157894736 % en Pepe Jeans Pixie PL200025  Vaqueros Skin'
 date: 2019/10/17 15:28:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41od6lLcvoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41od6lLcvoL._SL200_.jpg' ]

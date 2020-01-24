@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.42328042328042 % en 'Goonies / Gremlins / Gremlins 2 [Edizion'
+title: 'Descuento del 52.42328042328042 % en Goonies / Gremlins / Gremlins 2 [Edizion'
 date: 2020-01-03 20:03:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZPypXMNbL._SL200_.jpg' ]

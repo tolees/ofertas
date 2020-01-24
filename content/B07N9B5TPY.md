@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.48829431438128 % en 'Pepe Jeans Flag Logo Camiseta  Gris  Gre'
+title: 'Descuento del 36.48829431438128 % en Pepe Jeans Flag Logo Camiseta  Gris  Gre'
 date: 2019/12/30 10:56:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OmIjWdyYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OmIjWdyYL._SL200_.jpg' ]

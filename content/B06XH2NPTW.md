@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH LIFA Merino Crew LS Base' al 57.62500000000001 % de descuento
+title: 'Helly Hansen HH LIFA Merino Crew LS Base al 57.62500000000001 % de descuento'
 date: 2019/11/29 08:59:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kWNkKIKML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kWNkKIKML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.83333333333333 % en 'Under Armour UA Tech Graphic SS tee Cami'
+title: 'Descuento del 52.83333333333333 % en Under Armour UA Tech Graphic SS tee Cami'
 date: 2019/11/04 12:39:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415F3gKenLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415F3gKenLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funda iPhone X  Ultra delgada y ligera t' al 49.02210884353742 % de descuento
+title: 'Funda iPhone X  Ultra delgada y ligera t al 49.02210884353742 % de descuento'
 date: 2019/12/08 14:01:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bq6Kn7hiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bq6Kn7hiL._SL200_.jpg' ]

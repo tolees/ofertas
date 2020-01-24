@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fresh Faom Cruz v2 Hygge Pac' al 70.2421052631579 % de descuento
+title: 'New Balance Fresh Faom Cruz v2 Hygge Pac al 70.2421052631579 % de descuento'
 date: 2019/11/04 19:18:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-NCr5Ob7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-NCr5Ob7L._SL200_.jpg' ]

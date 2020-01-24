@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour - Camiseta de Manga Corta p' al 63.7 % de descuento
+title: 'Under Armour - Camiseta de Manga Corta p al 63.7 % de descuento'
 date: 2019/10/25 14:34:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VdOs1YQfL._SL200_.jpg' ]

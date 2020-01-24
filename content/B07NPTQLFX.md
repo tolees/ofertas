@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley W Rose Stripe tee Dress Vestidos ' al 68.42222222222222 % de descuento
+title: 'Hurley W Rose Stripe tee Dress Vestidos  al 68.42222222222222 % de descuento'
 date: 2019/11/06 06:03:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ob-v6fKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ob-v6fKL._SL200_.jpg' ]

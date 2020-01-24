@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75964 Harry Potter Advent Calendar ' al 36.83909688482423 % de descuento
+title: 'LEGO 75964 Harry Potter Advent Calendar  al 36.83909688482423 % de descuento'
 date: 2020-01-24 01:28:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iMtENCn3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iMtENCn3L._SL200_.jpg' ]

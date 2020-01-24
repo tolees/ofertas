@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.18750000000001 % en 'Kappa Lucera Camiseta  Hombre  Blanco  W'
+title: 'Descuento del 47.18750000000001 % en Kappa Lucera Camiseta  Hombre  Blanco  W'
 date: 2019/10/11 22:45:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hb35G2sNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hb35G2sNL._SL200_.jpg' ]

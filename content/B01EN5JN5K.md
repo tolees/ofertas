@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer Predator XB271HU - Monitor de 27"  ' al 27.27140493463518 % de descuento
+title: 'Acer Predator XB271HU - Monitor de 27"   al 27.27140493463518 % de descuento'
 date: 2019/11/21 09:27:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416pU1fxGRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416pU1fxGRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Doheny  Zapatillas para Hombre  Mul' al 47.8 % de descuento
+title: 'Vans Doheny  Zapatillas para Hombre  Mul al 47.8 % de descuento'
 date: 2019/12/23 11:25:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h9RuSvfcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h9RuSvfcL._SL200_.jpg' ]

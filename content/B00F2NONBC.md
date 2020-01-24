@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.175704989154017 % en 'Bellota 50109-9 - Herramienta de nivel c'
+title: 'Descuento del 29.175704989154017 % en Bellota 50109-9 - Herramienta de nivel c'
 date: 2019/12/08 17:16:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YVkrOD7FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YVkrOD7FL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.91590953025323 % en 'Lámpara de escritorio inteligente iHaper'
+title: 'Descuento del 44.91590953025323 % en Lámpara de escritorio inteligente iHaper'
 date: 2020-01-18 16:51:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CtctppqXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EMOCCI Estuche Brochas Maquillaje Make U' al 47.59409242496426 % de descuento
+title: 'EMOCCI Estuche Brochas Maquillaje Make U al 47.59409242496426 % de descuento'
 date: 2019/12/01 11:58:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XYFrpCvJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XYFrpCvJL._SL200_.jpg' ]

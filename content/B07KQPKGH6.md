@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kerastase 57977 Blond Bain Lumiere  250 ' al 31.3953488372093 % de descuento
+title: 'Kerastase 57977 Blond Bain Lumiere  250  al 31.3953488372093 % de descuento'
 date: 2020-01-12 23:08:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eIA0OOBhL._SL200_.jpg' ]

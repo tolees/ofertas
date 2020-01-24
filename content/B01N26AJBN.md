@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asus Expedition GeForce GTX1070-O8G Gami' al 33.9622641509434 % de descuento
+title: 'Asus Expedition GeForce GTX1070-O8G Gami al 33.9622641509434 % de descuento'
 date: 2019/11/16 09:06:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cFCevYeBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cFCevYeBL._SL200_.jpg' ]

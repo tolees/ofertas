@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Baseline Word Mark tee - Ca' al 58.65714285714285 % de descuento
+title: 'Under Armour Baseline Word Mark tee - Ca al 58.65714285714285 % de descuento'
 date: 2019/11/07 22:04:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31crg8ZtjFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31crg8ZtjFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Bristum Utility Straight Shir' al 67.98399199599801 % de descuento
+title: 'G-STAR RAW Bristum Utility Straight Shir al 67.98399199599801 % de descuento'
 date: 2019/11/22 05:15:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417ICYUVsYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417ICYUVsYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAYNEW 5 Pares de Calcetines Antidesliza' al 39.39745075318656 % de descuento
+title: 'DAYNEW 5 Pares de Calcetines Antidesliza al 39.39745075318656 % de descuento'
 date: 2020-01-12 12:33:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XUtOuoUfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XUtOuoUfL._SL200_.jpg' ]

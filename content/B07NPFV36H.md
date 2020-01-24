@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.25894134477827 % en 'Scalpers Basic V Neck Jersey  Rojo  Burg'
+title: 'Descuento del 31.25894134477827 % en Scalpers Basic V Neck Jersey  Rojo  Burg'
 date: 2019/10/11 10:50:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oCyXZwS-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oCyXZwS-L._SL200_.jpg' ]

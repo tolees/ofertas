@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Princess 132401 - Churrera para 4 churro' al 38.69061150261424 % de descuento
+title: 'Princess 132401 - Churrera para 4 churro al 38.69061150261424 % de descuento'
 date: 2019/10/11 15:40:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XYRP08oUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XYRP08oUL._SL200_.jpg' ]

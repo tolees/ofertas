@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[3 aquetes] Cámara Trasera Lente Pantall' al 58.50447604002106 % de descuento
+title: '[3 aquetes] Cámara Trasera Lente Pantall al 58.50447604002106 % de descuento'
 date: 2019/11/29 18:50:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qZZyyFILL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qZZyyFILL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.33933933933934 % en 'Ravensburger 09115 - Schwestern für imme'
+title: 'Descuento del 39.33933933933934 % en Ravensburger 09115 - Schwestern für imme'
 date: 2019/12/23 00:34:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XT5HvZI5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XT5HvZI5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Original Straight Ryan ELKMB' al 50.526315789473685 % de descuento
+title: 'Tommy Jeans Original Straight Ryan ELKMB al 50.526315789473685 % de descuento'
 date: 2019/10/09 19:33:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wYWug9b3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wYWug9b3L._SL200_.jpg' ]

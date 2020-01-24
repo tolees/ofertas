@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polaroid PLD 1028/S SP Sao 55 gafas de s' al 52.63934426229508 % de descuento
+title: 'Polaroid PLD 1028/S SP Sao 55 gafas de s al 52.63934426229508 % de descuento'
 date: 2019/10/18 08:28:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314M91LY3-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314M91LY3-L._SL200_.jpg' ]

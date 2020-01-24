@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.993865030674847 % en 'Neutrogena Crema De Manos Y Uñas - 75 ml'
+title: 'Descuento del 26.993865030674847 % en Neutrogena Crema De Manos Y Uñas - 75 ml'
 date: 2019/12/29 15:59:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41khEyI4KGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41khEyI4KGL._SL200_.jpg' ]

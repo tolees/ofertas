@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Speedcross 4 W  Zapatillas de Tr' al 37.065443934972905 % de descuento
+title: 'Salomon Speedcross 4 W  Zapatillas de Tr al 37.065443934972905 % de descuento'
 date: 2019/11/02 11:25:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T80zuO3sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T80zuO3sL._SL200_.jpg' ]

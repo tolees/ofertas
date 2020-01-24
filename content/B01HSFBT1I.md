@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.15795328142381 % en 'Einhell Elektro Laubsauger Laubbläser GC'
+title: 'Descuento del 42.15795328142381 % en Einhell Elektro Laubsauger Laubbläser GC'
 date: 2019/12/10 22:09:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wKLBZ3lvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wKLBZ3lvL._SL200_.jpg' ]

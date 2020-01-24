@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tayhot - Reloj digital para hombre  colo' al 55.31343283582088 % de descuento
+title: 'Tayhot - Reloj digital para hombre  colo al 55.31343283582088 % de descuento'
 date: 2020-01-18 19:17:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uhX30pRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uhX30pRBL._SL200_.jpg' ]

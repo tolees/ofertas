@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 36342 POP Captain Marvel-Vers Coll' al 34.56924754634678 % de descuento
+title: 'Funko 36342 POP Captain Marvel-Vers Coll al 34.56924754634678 % de descuento'
 date: 2019-12-31 22:07:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N%2B%2BICSnrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N%2B%2BICSnrL._SL200_.jpg' ]

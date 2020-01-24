@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Heritage 6 Inch Premium Water' al 26.956521739130434 % de descuento
+title: 'Timberland Heritage 6 Inch Premium Water al 26.956521739130434 % de descuento'
 date: 2020-01-08 11:33:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j3dXuP%2BFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j3dXuP%2BFL._SL200_.jpg' ]

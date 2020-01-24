@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Romika Alaska 02  Botas de Nieve para Mu' al 31.04604380867233 % de descuento
+title: 'Romika Alaska 02  Botas de Nieve para Mu al 31.04604380867233 % de descuento'
 date: 2020-01-06 10:09:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MzUph%2BjTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MzUph%2BjTL._SL200_.jpg' ]

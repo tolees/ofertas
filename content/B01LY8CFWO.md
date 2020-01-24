@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.45070020005717 % en 'New Look Woven Crew Jersey  Green  Dark '
+title: 'Descuento del 77.45070020005717 % en New Look Woven Crew Jersey  Green  Dark '
 date: 2019/11/22 11:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CODfHBYCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CODfHBYCL._SL200_.jpg' ]

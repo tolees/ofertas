@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.91563906831083 % en 'adidas FL_TRH Tec COO Camiseta  Hombre  '
+title: 'Descuento del 58.91563906831083 % en adidas FL_TRH Tec COO Camiseta  Hombre  '
 date: 2020-01-14 19:42:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OWRfS8TaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OWRfS8TaL._SL200_.jpg' ]

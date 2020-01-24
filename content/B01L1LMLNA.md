@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.929604628736737 % en 'Nespresso Krups Expert XN6008 - Cafetera'
+title: 'Descuento del 28.929604628736737 % en Nespresso Krups Expert XN6008 - Cafetera'
 date: 2020-01-15 15:51:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jfTosirTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jfTosirTL._SL200_.jpg' ]

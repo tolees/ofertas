@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.02007541017018 % en 'Mio Link - Pulsómetro sin Banda Pectoral'
+title: 'Descuento del 31.02007541017018 % en Mio Link - Pulsómetro sin Banda Pectoral'
 date: 2019/11/18 16:46:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GzaRc1wxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GzaRc1wxL._SL200_.jpg' ]

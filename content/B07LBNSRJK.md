@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Claire Sweatshirt C-nk LS' al 51.056729699666306 % de descuento
+title: 'Tommy Hilfiger Claire Sweatshirt C-nk LS al 51.056729699666306 % de descuento'
 date: 2019/10/15 22:37:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qtoNYtc8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qtoNYtc8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Die Unglaublichen - Standard Editio' al 36.239373228871486 % de descuento
+title: 'LEGO Die Unglaublichen - Standard Editio al 36.239373228871486 % de descuento'
 date: 2020-01-20 09:08:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg' ]

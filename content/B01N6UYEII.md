@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.51421800947867 % en 'A Little Lovely Company LTCP054 - Lámpar'
+title: 'Descuento del 64.51421800947867 % en A Little Lovely Company LTCP054 - Lámpar'
 date: 2019/11/12 18:43:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21T3N%2BlDAKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21T3N%2BlDAKL._SL200_.jpg' ]

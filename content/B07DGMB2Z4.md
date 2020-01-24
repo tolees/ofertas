@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.696745903531045 % en 'Oral-B Pulsonic Slim Luxe 4100 Elektrisc'
+title: 'Descuento del 57.696745903531045 % en Oral-B Pulsonic Slim Luxe 4100 Elektrisc'
 date: 2019/10/06 08:59:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iXJ-D591L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iXJ-D591L._SL200_.jpg' ]

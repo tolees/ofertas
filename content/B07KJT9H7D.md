@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quiksilver The Jungle Camiseta de Manga ' al 40.58786741713571 % de descuento
+title: 'Quiksilver The Jungle Camiseta de Manga  al 40.58786741713571 % de descuento'
 date: 2019/11/13 10:39:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ee-tzxFrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ee-tzxFrL._SL200_.jpg' ]

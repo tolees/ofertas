@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Mexico 66  Zapatillas de Deporte U' al 33.267522211253706 % de descuento
+title: 'Asics Mexico 66  Zapatillas de Deporte U al 33.267522211253706 % de descuento'
 date: 2020-01-12 20:29:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QGS2vt36L._SL200_.jpg' ]

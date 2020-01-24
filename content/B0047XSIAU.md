@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.86405337781485 % en 'Nikon AF-S 24-120mm F4 ED VR -  [Versión'
+title: 'Descuento del 39.86405337781485 % en Nikon AF-S 24-120mm F4 ED VR -  [Versión'
 date: 2019/11/03 09:27:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FGOp7uOQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FGOp7uOQL._SL200_.jpg' ]

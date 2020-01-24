@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.35338345864662 % en 'Honor 10 - Smartphone Android  pantalla '
+title: 'Descuento del 41.35338345864662 % en Honor 10 - Smartphone Android  pantalla '
 date: 2019/10/28 09:28:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sxo-NnQWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sxo-NnQWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.30909090909091 % en 'New Balance X90 entrenadores Hombre  Azu'
+title: 'Descuento del 68.30909090909091 % en New Balance X90 entrenadores Hombre  Azu'
 date: 2019/11/13 16:05:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jdz83IpeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jdz83IpeL._SL200_.jpg' ]

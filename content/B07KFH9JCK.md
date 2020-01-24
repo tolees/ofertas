@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Dunda Slim Polo S\\s  white 1' al 46.346346346346344 % de descuento
+title: 'G-STAR RAW Dunda Slim Polo S\\s  white 1 al 46.346346346346344 % de descuento'
 date: 2019/10/22 11:44:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TnzO95CbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TnzO95CbL._SL200_.jpg' ]

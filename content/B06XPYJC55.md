@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mr Wonderful WOA03836ES Pack para padres' al 49.97722095671981 % de descuento
+title: 'Mr Wonderful WOA03836ES Pack para padres al 49.97722095671981 % de descuento'
 date: 2019/12/02 15:43:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uQbPaUTdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uQbPaUTdL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 7.0.Franq.Vestido Canalé Bot' al 42.31410470156718 % de descuento
+title: 'Springfield 7.0.Franq.Vestido Canalé Bot al 42.31410470156718 % de descuento'
 date: 2019/11/12 00:14:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dXWoRJqJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dXWoRJqJL._SL200_.jpg' ]

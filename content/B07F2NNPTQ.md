@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange Flat Sandal with Knot  C' al 63.081481481481475 % de descuento
+title: 'Armani Exchange Flat Sandal with Knot  C al 63.081481481481475 % de descuento'
 date: 2019/10/16 06:24:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310a%2BMZqPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310a%2BMZqPcL._SL200_.jpg' ]

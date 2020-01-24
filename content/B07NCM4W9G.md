@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luz de Noche 3D  ilusión 3D Vision Hiena' al 36.46071700991609 % de descuento
+title: 'Luz de Noche 3D  ilusión 3D Vision Hiena al 36.46071700991609 % de descuento'
 date: 2019/12/09 00:01:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iKyIJLb3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iKyIJLb3L._SL200_.jpg' ]

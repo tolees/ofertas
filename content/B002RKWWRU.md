@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP 648A - Cartucho de tóner original Las' al 35.466523258940576 % de descuento
+title: 'HP 648A - Cartucho de tóner original Las al 35.466523258940576 % de descuento'
 date: 2019/11/05 00:23:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512xVqsUjkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512xVqsUjkL._SL200_.jpg' ]

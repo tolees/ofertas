@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.8893829905503 % en 'G-Star Loose Hooded Sw Wmn L/s Sudadera '
+title: 'Descuento del 40.8893829905503 % en G-Star Loose Hooded Sw Wmn L/s Sudadera '
 date: 2019/11/03 08:42:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RAHLBXKSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RAHLBXKSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.013579049466536 % en 'Reebok BD5612  Zapatillas de Trail Runni'
+title: 'Descuento del 56.013579049466536 % en Reebok BD5612  Zapatillas de Trail Runni'
 date: 2019/11/04 22:26:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4115%2BYZAhYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4115%2BYZAhYL._SL200_.jpg' ]

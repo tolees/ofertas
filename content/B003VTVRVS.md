@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Madal Bal Gel Aloe Árbol Te - 200 gr' al 30.46296296296297 % de descuento
+title: 'Madal Bal Gel Aloe Árbol Te - 200 gr al 30.46296296296297 % de descuento'
 date: 2020-01-16 07:43:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nctBw0NrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nctBw0NrL._SL200_.jpg' ]

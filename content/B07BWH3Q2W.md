@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO Soldados en Battalla Fuerzas Armada' al 65.10604241696679 % de descuento
+title: 'deAO Soldados en Battalla Fuerzas Armada al 65.10604241696679 % de descuento'
 date: 2020-01-18 15:58:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/6156gEH-M6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/6156gEH-M6L._SL200_.jpg' ]

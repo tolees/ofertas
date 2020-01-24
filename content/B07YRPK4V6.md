@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DJSJ- Niños Cosplay Disfraz Capa Negra A' al 33.34444814938313 % de descuento
+title: 'DJSJ- Niños Cosplay Disfraz Capa Negra A al 33.34444814938313 % de descuento'
 date: 2019/10/06 20:25:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512-IIzsW%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512-IIzsW%2BL._SL200_.jpg' ]

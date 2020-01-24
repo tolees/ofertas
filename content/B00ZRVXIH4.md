@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.16416416416418 % en 'Ghost Recon Wildlands - Standard Edition'
+title: 'Descuento del 64.16416416416418 % en Ghost Recon Wildlands - Standard Edition'
 date: 2019/12/13 15:31:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z8XozVZNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z8XozVZNL._SL200_.jpg' ]

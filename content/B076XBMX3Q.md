@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.70450751252087 % en 'Geox J Alonisso A  Zapatillas Altas para'
+title: 'Descuento del 62.70450751252087 % en Geox J Alonisso A  Zapatillas Altas para'
 date: 2019/12/08 12:54:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SDB4xXWxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SDB4xXWxL._SL200_.jpg' ]

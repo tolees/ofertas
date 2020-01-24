@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy Note 9  Single SIM  128 G' al 36.49610678531702 % de descuento
+title: 'Samsung Galaxy Note 9  Single SIM  128 G al 36.49610678531702 % de descuento'
 date: 2019/12/16 16:26:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t-rkKbp7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t-rkKbp7L._SL200_.jpg' ]

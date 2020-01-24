@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 247v2  Entrenadores para Muj' al 73.3111111111111 % de descuento
+title: 'New Balance 247v2  Entrenadores para Muj al 73.3111111111111 % de descuento'
 date: 2019/12/15 10:26:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jgcXWqktL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jgcXWqktL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjepaulos Polo SS Noos  Gri' al 45.022511255627805 % de descuento
+title: 'JACK & JONES Jjepaulos Polo SS Noos  Gri al 45.022511255627805 % de descuento'
 date: 2020-01-10 13:16:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gKxt%2BfFZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gKxt%2BfFZL._SL200_.jpg' ]

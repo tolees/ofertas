@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 34488 POP Vinyl  Juguete  modelos ' al 49.786975045648205 % de descuento
+title: 'Funko 34488 POP Vinyl  Juguete  modelos  al 49.786975045648205 % de descuento'
 date: 2020-01-10 19:05:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sm-1nKTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sm-1nKTSL._SL200_.jpg' ]

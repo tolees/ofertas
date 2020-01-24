@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.405880569869666 % en 'AGPTEK Reproductor Mp3 Bluetooth 8GB  HD'
+title: 'Descuento del 39.405880569869666 % en AGPTEK Reproductor Mp3 Bluetooth 8GB  HD'
 date: 2020-01-11 22:27:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s0g1bk2lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s0g1bk2lL._SL200_.jpg' ]

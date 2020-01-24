@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'E·Durable Mini Pistolas de encolar con 3' al 40.02668445630421 % de descuento
+title: 'E·Durable Mini Pistolas de encolar con 3 al 40.02668445630421 % de descuento'
 date: 2019/11/25 02:30:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rHgrsDRtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rHgrsDRtL._SL200_.jpg' ]

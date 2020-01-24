@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Trailblazer Mochila de Senderism' al 44.214285714285715 % de descuento
+title: 'Salomon Trailblazer Mochila de Senderism al 44.214285714285715 % de descuento'
 date: 2019/12/13 11:21:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eY5a1mBbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eY5a1mBbL._SL200_.jpg' ]

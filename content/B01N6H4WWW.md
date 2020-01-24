@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. 13649 vestidos mujer  Negro  Black' al 70.0 % de descuento
+title: 'find. 13649 vestidos mujer  Negro  Black al 70.0 % de descuento'
 date: 2019/10/07 23:14:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tB6UGINmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tB6UGINmL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.01562988433885 % en '500ml Botella de Agua de Acero Inoxidabl'
+title: 'Descuento del 50.01562988433885 % en 500ml Botella de Agua de Acero Inoxidabl'
 date: 2020-01-14 20:50:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aNuCBcIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aNuCBcIwL._SL200_.jpg' ]

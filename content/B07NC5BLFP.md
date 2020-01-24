@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Royal Padel RP Aniversario 2019  Adultos' al 36.681222707423586 % de descuento
+title: 'Royal Padel RP Aniversario 2019  Adultos al 36.681222707423586 % de descuento'
 date: 2019/10/31 15:29:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ej-Eoq-9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ej-Eoq-9L._SL200_.jpg' ]

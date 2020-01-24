@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UMIDIGI A3 Pro Smartphone Libres Android' al 34.61804754211863 % de descuento
+title: 'UMIDIGI A3 Pro Smartphone Libres Android al 34.61804754211863 % de descuento'
 date: 2019/10/23 19:05:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dQXYtv5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dQXYtv5lL._SL200_.jpg' ]

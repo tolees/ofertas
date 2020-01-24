@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy Book W620 26 92 cm  10 6 ' al 64.06035665294925 % de descuento
+title: 'Samsung Galaxy Book W620 26 92 cm  10 6  al 64.06035665294925 % de descuento'
 date: 2020-01-14 08:38:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412zKVDl2ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412zKVDl2ML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.11567951994666 % en 'Columbia Triple Canyon Fall Pantalón de '
+title: 'Descuento del 41.11567951994666 % en Columbia Triple Canyon Fall Pantalón de '
 date: 2020-01-02 07:36:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aqhUP7jrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aqhUP7jrL._SL200_.jpg' ]

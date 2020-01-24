@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.05419942076955 % en 'Approx RT3072L USB 2.0 de 300 Mbps Adapt'
+title: 'Descuento del 57.05419942076955 % en Approx RT3072L USB 2.0 de 300 Mbps Adapt'
 date: 2019/11/08 14:51:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V8TvRGF3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V8TvRGF3L._SL200_.jpg' ]

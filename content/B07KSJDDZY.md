@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung 860 QVO 4 TB SATA 2.5" Internal ' al 38.62820839624306 % de descuento
+title: 'Samsung 860 QVO 4 TB SATA 2.5" Internal  al 38.62820839624306 % de descuento'
 date: 2019/11/23 11:45:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412tlQvl6cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412tlQvl6cL._SL200_.jpg' ]

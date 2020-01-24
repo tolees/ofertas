@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.12029370410873 % en 'Cofan Gomera Barbacoa  82x5.5x23.5 cm'
+title: 'Descuento del 50.12029370410873 % en Cofan Gomera Barbacoa  82x5.5x23.5 cm'
 date: 2019/10/21 17:34:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411xg7%2BOGfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411xg7%2BOGfL._SL200_.jpg' ]

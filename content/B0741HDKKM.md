@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Manarola Chándal  Unisex adulto  M' al 72.89999999999999 % de descuento
+title: 'Kappa Manarola Chándal  Unisex adulto  M al 72.89999999999999 % de descuento'
 date: 2019/11/13 19:02:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hzk0JpEcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hzk0JpEcL._SL200_.jpg' ]

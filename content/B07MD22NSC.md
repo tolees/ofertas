@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Le Coq Sportif COURTSTAR Craft  Zapatill' al 40.00693361067776 % de descuento
+title: 'Le Coq Sportif COURTSTAR Craft  Zapatill al 40.00693361067776 % de descuento'
 date: 2020-01-13 15:49:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iz4j72ayL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iz4j72ayL._SL200_.jpg' ]

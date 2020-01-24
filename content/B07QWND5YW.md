@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Metallic Woven FZ Parte Sup' al 60.16923076923077 % de descuento
+title: 'Under Armour Metallic Woven FZ Parte Sup al 60.16923076923077 % de descuento'
 date: 2020-01-14 07:41:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417fGQ5xx7L._SL200_.jpg' ]

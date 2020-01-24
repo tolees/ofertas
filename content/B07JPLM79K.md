@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.90943498242768 % en 'Abollria Pijamas Navidad para Familias A'
+title: 'Descuento del 64.90943498242768 % en Abollria Pijamas Navidad para Familias A'
 date: 2019/10/31 08:56:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411eqR1J7tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411eqR1J7tL._SL200_.jpg' ]

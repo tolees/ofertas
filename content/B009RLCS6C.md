@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.09330933093308 % en 'Braun Satin Hair 7 ST780 - Plancha de pe'
+title: 'Descuento del 33.09330933093308 % en Braun Satin Hair 7 ST780 - Plancha de pe'
 date: 2019/12/30 11:15:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x62sUVSWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x62sUVSWL._SL200_.jpg' ]

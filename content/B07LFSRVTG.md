@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Koko Glam  Zapatillas para Mu' al 62.4 % de descuento
+title: 'Pepe Jeans Koko Glam  Zapatillas para Mu al 62.4 % de descuento'
 date: 2019/11/15 12:51:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oiv5rwbnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oiv5rwbnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.56345854634364 % en 'Russell Hobbs Victory - Hervidor de Agua'
+title: 'Descuento del 35.56345854634364 % en Russell Hobbs Victory - Hervidor de Agua'
 date: 2019/12/23 08:06:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wRm3aX6WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wRm3aX6WL._SL200_.jpg' ]

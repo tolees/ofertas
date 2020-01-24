@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma 100238.703 - Bañador para Hombre  C' al 56.74603174603175 % de descuento
+title: 'Joma 100238.703 - Bañador para Hombre  C al 56.74603174603175 % de descuento'
 date: 2019/10/31 07:03:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YEmwMygKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YEmwMygKL._SL200_.jpg' ]

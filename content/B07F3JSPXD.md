@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.78333333333333 % en 'Under Armour UA Parte Superior del Calen'
+title: 'Descuento del 60.78333333333333 % en Under Armour UA Parte Superior del Calen'
 date: 2019/10/20 14:47:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YdDgkuvUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YdDgkuvUL._SL200_.jpg' ]

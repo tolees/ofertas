@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.013333333333325 % en 'New Balance Trail Nitrel  Zapatillas de '
+title: 'Descuento del 30.013333333333325 % en New Balance Trail Nitrel  Zapatillas de '
 date: 2020-01-04 21:47:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ruAlA11L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ruAlA11L._SL200_.jpg' ]

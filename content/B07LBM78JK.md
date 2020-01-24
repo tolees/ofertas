@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.44943820224719 % en 'Napapijri Gergei Camisa   Fantasy F02   '
+title: 'Descuento del 49.44943820224719 % en Napapijri Gergei Camisa   Fantasy F02   '
 date: 2019/12/21 18:55:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KiyvIDlSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KiyvIDlSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.68550763461025 % en 'WISHDOIT Hombre Moda Clásico Negro Ultra'
+title: 'Descuento del 77.68550763461025 % en WISHDOIT Hombre Moda Clásico Negro Ultra'
 date: 2020-01-20 11:29:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nuaPwx-JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nuaPwx-JL._SL200_.jpg' ]

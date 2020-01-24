@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.943679599499376 % en 'G-STAR RAW ZED Cinturón  Negro  Black/bl'
+title: 'Descuento del 34.943679599499376 % en G-STAR RAW ZED Cinturón  Negro  Black/bl'
 date: 2019/12/21 10:15:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KuAkA8%2B-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KuAkA8%2B-L._SL200_.jpg' ]

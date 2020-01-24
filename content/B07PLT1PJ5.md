@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Don Algodon DO015  Zapatillas para Mujer' al 29.552170947942724 % de descuento
+title: 'Don Algodon DO015  Zapatillas para Mujer al 29.552170947942724 % de descuento'
 date: 2020-01-09 13:59:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dx-e-g10L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dx-e-g10L._SL200_.jpg' ]

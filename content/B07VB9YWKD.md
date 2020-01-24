@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34444814938313 % en 'edc by Esprit 099cc1i020 suéter  Gris  G'
+title: 'Descuento del 33.34444814938313 % en edc by Esprit 099cc1i020 suéter  Gris  G'
 date: 2020-01-17 14:06:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GJQyjcr8L._SL200_.jpg' ]

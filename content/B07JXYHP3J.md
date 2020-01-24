@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pinko LENZUOLO Pantalones Mujer Negro 40' al 50.0 % de descuento
+title: 'Pinko LENZUOLO Pantalones Mujer Negro 40 al 50.0 % de descuento'
 date: 2019/12/01 00:52:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yvGNAK-kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yvGNAK-kL._SL200_.jpg' ]

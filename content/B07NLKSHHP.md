@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Versace Jeans CouturePortafoglioMujerCar' al 33.953608247422686 % de descuento
+title: 'Versace Jeans CouturePortafoglioMujerCar al 33.953608247422686 % de descuento'
 date: 2019/11/16 23:35:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o8dp5vAVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o8dp5vAVL._SL200_.jpg' ]

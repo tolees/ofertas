@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Inalámbricos Bluetooth 5.0 S' al 28.895310068904212 % de descuento
+title: 'Auriculares Inalámbricos Bluetooth 5.0 S al 28.895310068904212 % de descuento'
 date: 2019/12/26 14:32:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fzU6eacyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fzU6eacyL._SL200_.jpg' ]

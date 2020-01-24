@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tablet 10 Pulgadas 3G Dual Sim - TOSCIDO' al 56.79396984924623 % de descuento
+title: 'Tablet 10 Pulgadas 3G Dual Sim - TOSCIDO al 56.79396984924623 % de descuento'
 date: 2019/10/21 12:11:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JWOBlmbzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JWOBlmbzL._SL200_.jpg' ]

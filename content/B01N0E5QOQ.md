@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HP 1/2 Zip Pullover Jersey ' al 49.083333333333336 % de descuento
+title: 'Helly Hansen HP 1/2 Zip Pullover Jersey  al 49.083333333333336 % de descuento'
 date: 2019/11/11 21:55:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ie8nV7pxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ie8nV7pxL._SL200_.jpg' ]

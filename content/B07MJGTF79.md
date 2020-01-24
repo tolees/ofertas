@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.1651376146789 % en 'Pikolinos Liverpool M2a_v19  Mocasines p'
+title: 'Descuento del 56.1651376146789 % en Pikolinos Liverpool M2a_v19  Mocasines p'
 date: 2019/10/31 02:10:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qzd6YbQoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qzd6YbQoL._SL200_.jpg' ]

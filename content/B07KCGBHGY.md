@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.43723645799545 % en 'Baoblaze Commlite Ct-g430cr Receptor de '
+title: 'Descuento del 44.43723645799545 % en Baoblaze Commlite Ct-g430cr Receptor de '
 date: 2020-01-13 14:40:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lIHakdlOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lIHakdlOL._SL200_.jpg' ]

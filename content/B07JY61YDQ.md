@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.6740748972108 % en 'Pecute Funda de Asiento para Perros 2019'
+title: 'Descuento del 66.6740748972108 % en Pecute Funda de Asiento para Perros 2019'
 date: 2020-01-24 14:04:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/512agja6WNL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512agja6WNL._AC_._SL200_.jpg' ]

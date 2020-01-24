@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Barra de labios líquida In' al 37.87709497206704 % de descuento
+title: 'L Oréal Paris Barra de labios líquida In al 37.87709497206704 % de descuento'
 date: 2020-01-11 07:45:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fB%2BWENhIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fB%2BWENhIL._SL200_.jpg' ]

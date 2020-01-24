@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.57857857857858 % en 'Skechers Bobs Squad-Alpha GAL  Zapatilla'
+title: 'Descuento del 38.57857857857858 % en Skechers Bobs Squad-Alpha GAL  Zapatilla'
 date: 2019/10/12 23:08:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vI%2BIRBMRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vI%2BIRBMRL._SL200_.jpg' ]

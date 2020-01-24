@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.53040800615859 % en 'Skechers Delson-Fonzo  Zapatillas para H'
+title: 'Descuento del 49.53040800615859 % en Skechers Delson-Fonzo  Zapatillas para H'
 date: 2019/11/19 18:09:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Bnpg8jrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Bnpg8jrL._SL200_.jpg' ]

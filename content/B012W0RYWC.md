@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips BHD006/10 - Secador de pelo' al 34.667333666833414 % de descuento
+title: 'Philips BHD006/10 - Secador de pelo al 34.667333666833414 % de descuento'
 date: 2019/10/09 15:54:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oR745t%2B%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oR745t%2B%2BL._SL200_.jpg' ]

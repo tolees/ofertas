@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 75952 Harry Potter Fantastic Beasts' al 33.318515225605694 % de descuento
+title: 'LEGO 75952 Harry Potter Fantastic Beasts al 33.318515225605694 % de descuento'
 date: 2019/12/10 21:51:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BCPfqGHfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BCPfqGHfL._SL200_.jpg' ]

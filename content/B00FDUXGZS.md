@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.685618729096994 % en 'Cobertor Invierno para Piscina Desmontab'
+title: 'Descuento del 25.685618729096994 % en Cobertor Invierno para Piscina Desmontab'
 date: 2019/10/23 15:28:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YDqZ6D9XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YDqZ6D9XL._SL200_.jpg' ]

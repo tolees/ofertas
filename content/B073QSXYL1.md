@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. 18137 camisetas  Gris  Grau   42  '
+title: 'Descuento del 70.0 % en find. 18137 camisetas  Gris  Grau   42  '
 date: 2019/10/15 17:24:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415pqCVLC9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415pqCVLC9L._SL200_.jpg' ]

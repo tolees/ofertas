@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Royal EC Ride  Zapatillas de Trai' al 30.990990990990998 % de descuento
+title: 'Reebok Royal EC Ride  Zapatillas de Trai al 30.990990990990998 % de descuento'
 date: 2019/10/10 13:32:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LMD-wzayL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LMD-wzayL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.318766066838045 % en 'Nautica Reloj Cronógrafo para Hombre de '
+title: 'Descuento del 44.318766066838045 % en Nautica Reloj Cronógrafo para Hombre de '
 date: 2019/12/11 04:28:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tvF4nJV9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tvF4nJV9L._SL200_.jpg' ]

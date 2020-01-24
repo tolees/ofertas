@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips S3110/06 - Afeitadora eléctrica ' al 37.85866535497623 % de descuento
+title: 'Philips S3110/06 - Afeitadora eléctrica  al 37.85866535497623 % de descuento'
 date: 2019/12/23 21:36:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AP9yDFNNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AP9yDFNNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.5 % en 'Under Armour HG Armour Mesh Back Tank Ca'
+title: 'Descuento del 58.5 % en Under Armour HG Armour Mesh Back Tank Ca'
 date: 2019/11/06 21:57:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g6wWlYeKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g6wWlYeKL._SL200_.jpg' ]

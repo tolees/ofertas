@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. MDR 40621 vestidos mujer  Azul  Bl' al 50.63157894736842 % de descuento
+title: 'find. MDR 40621 vestidos mujer  Azul  Bl al 50.63157894736842 % de descuento'
 date: 2019/10/20 19:56:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cgXz4YRnL._SL200_.jpg' ]

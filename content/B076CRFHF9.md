@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MSI Raider GE63VR 7RF-227XES - Ordenador' al 45.025013896609224 % de descuento
+title: 'MSI Raider GE63VR 7RF-227XES - Ordenador al 45.025013896609224 % de descuento'
 date: 2019/10/22 06:00:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dNb9j3jdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dNb9j3jdL._SL200_.jpg' ]

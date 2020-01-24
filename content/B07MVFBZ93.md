@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lápiz Capacitivo con Estación de Carga m' al 58.19996558251592 % de descuento
+title: 'Lápiz Capacitivo con Estación de Carga m al 58.19996558251592 % de descuento'
 date: 2019/12/22 23:21:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414PhLgzr1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414PhLgzr1L._SL200_.jpg' ]

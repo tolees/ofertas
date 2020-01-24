@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Trust Footwear  Zapatillas Unisex ' al 51.78794698674669 % de descuento
+title: 'Kappa Trust Footwear  Zapatillas Unisex  al 51.78794698674669 % de descuento'
 date: 2020-01-21 23:24:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rrLqMof%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.08461538461538 % en 'Asics Hypergel-sai  Zapatillas de Entren'
+title: 'Descuento del 51.08461538461538 % en Asics Hypergel-sai  Zapatillas de Entren'
 date: 2019/10/16 20:01:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Qm6uxTFML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Qm6uxTFML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Katuki Saguyaki - Termo Infantil Para Só' al 32.37430167597765 % de descuento
+title: 'Katuki Saguyaki - Termo Infantil Para Só al 32.37430167597765 % de descuento'
 date: 2020-01-07 09:39:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYgbLwzRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYgbLwzRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Juego de 2 toallas de sec' al 49.9722067815453 % de descuento
+title: 'AmazonBasics - Juego de 2 toallas de sec al 49.9722067815453 % de descuento'
 date: 2019/11/12 07:29:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IeLgpmVgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IeLgpmVgL._SL200_.jpg' ]

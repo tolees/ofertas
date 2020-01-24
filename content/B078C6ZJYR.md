@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.02404809619239 % en 'Puma Liga Baselayer Shorttight Jr  Panta'
+title: 'Descuento del 52.02404809619239 % en Puma Liga Baselayer Shorttight Jr  Panta'
 date: 2019/10/18 00:20:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wIDKL88ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wIDKL88ML._SL200_.jpg' ]

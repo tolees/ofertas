@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pamięć DDR4 16GB  2x8GB  TridentZ RGB fo' al 26.128714496798555 % de descuento
+title: 'Pamięć DDR4 16GB  2x8GB  TridentZ RGB fo al 26.128714496798555 % de descuento'
 date: 2020-01-09 00:13:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-dczrwNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-dczrwNL._SL200_.jpg' ]

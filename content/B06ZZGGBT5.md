@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars: Battlefront II - Edición está' al 65.8131626325265 % de descuento
+title: 'Star Wars: Battlefront II - Edición está al 65.8131626325265 % de descuento'
 date: 2019/10/31 16:02:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RG8S4Ao7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RG8S4Ao7L._SL200_.jpg' ]

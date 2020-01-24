@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld PC008096 Pantalón Largo  Hom' al 43.5256032960565 % de descuento
+title: 'Trangoworld PC008096 Pantalón Largo  Hom al 43.5256032960565 % de descuento'
 date: 2019/11/07 12:02:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AX0R7qKYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AX0R7qKYL._SL200_.jpg' ]

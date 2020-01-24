@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.76344086021506 % en 'Jack & Jones NOS Jjimarco Jjbowie Sa Pan'
+title: 'Descuento del 53.76344086021506 % en Jack & Jones NOS Jjimarco Jjbowie Sa Pan'
 date: 2019/12/07 21:58:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317Yisq4GiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317Yisq4GiL._SL200_.jpg' ]

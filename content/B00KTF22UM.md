@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.58715596330275 % en 'Energy Sistem Running Two - Auriculares '
+title: 'Descuento del 54.58715596330275 % en Energy Sistem Running Two - Auriculares '
 date: 2019/11/06 13:09:00 +0000
 thumbnailImage: ''
 images: [ '' ]

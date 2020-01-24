@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Lucera Youth Camiseta  Niños  Negr' al 46.785714285714285 % de descuento
+title: 'Kappa Lucera Youth Camiseta  Niños  Negr al 46.785714285714285 % de descuento'
 date: 2019/11/13 11:43:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41luLboDw6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41luLboDw6L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Kendra Sienna  Zapatos de Tacón p' al 59.1695847923962 % de descuento
+title: 'Clarks Kendra Sienna  Zapatos de Tacón p al 59.1695847923962 % de descuento'
 date: 2019/10/18 04:19:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P1egOnUhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P1egOnUhL._SL200_.jpg' ]

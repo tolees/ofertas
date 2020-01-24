@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonderbra Ultimate Silhouette Soutien-Go' al 55.920484010371666 % de descuento
+title: 'Wonderbra Ultimate Silhouette Soutien-Go al 55.920484010371666 % de descuento'
 date: 2019/10/17 15:14:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uAJNXaQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uAJNXaQ5L._SL200_.jpg' ]

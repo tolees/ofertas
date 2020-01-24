@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia CSC Basic Logo Camiseta  Hombre' al 25.370148059223684 % de descuento
+title: 'Columbia CSC Basic Logo Camiseta  Hombre al 25.370148059223684 % de descuento'
 date: 2019/10/28 07:58:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wyUxNUQ6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wyUxNUQ6L._SL200_.jpg' ]

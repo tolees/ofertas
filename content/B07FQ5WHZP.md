@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FITTOO Mallas Pantalones Deportivos Legg' al 61.55424467812261 % de descuento
+title: 'FITTOO Mallas Pantalones Deportivos Legg al 61.55424467812261 % de descuento'
 date: 2019/12/26 20:17:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fxz6vLIDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fxz6vLIDL._SL200_.jpg' ]

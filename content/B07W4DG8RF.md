@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech G332 Wired Gaming Headset Speci' al 50.01000200040009 % de descuento
+title: 'Logitech G332 Wired Gaming Headset Speci al 50.01000200040009 % de descuento'
 date: 2019/12/26 20:38:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41du6dAuokL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41du6dAuokL._SL200_.jpg' ]

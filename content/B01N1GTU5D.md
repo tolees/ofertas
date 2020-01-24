@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Roma Basic Zapatillas deportivas Ho' al 59.65310206804537 % de descuento
+title: 'PUMA Roma Basic Zapatillas deportivas Ho al 59.65310206804537 % de descuento'
 date: 2019/12/26 02:36:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41euLSIDIQL._SL200_.jpg' ]

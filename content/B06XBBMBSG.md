@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.55418592706728 % en 'Desmontar y ensamblar Coches con la Herr'
+title: 'Descuento del 43.55418592706728 % en Desmontar y ensamblar Coches con la Herr'
 date: 2020-01-14 14:25:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LPs4NWw1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LPs4NWw1L._SL200_.jpg' ]

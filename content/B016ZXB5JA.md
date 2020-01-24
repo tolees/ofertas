@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garmin Forerunner 235 - Reloj con pulsóm' al 33.31443814604867 % de descuento
+title: 'Garmin Forerunner 235 - Reloj con pulsóm al 33.31443814604867 % de descuento'
 date: 2020-01-11 12:40:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HhWCMxhOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HhWCMxhOL._SL200_.jpg' ]

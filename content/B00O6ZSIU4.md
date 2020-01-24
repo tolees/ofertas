@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.95135135135134 % en 'Versa 19500454 Taburete pie de Cama Red '
+title: 'Descuento del 57.95135135135134 % en Versa 19500454 Taburete pie de Cama Red '
 date: 2019/11/11 15:33:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kgjh1-9lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kgjh1-9lL._SL200_.jpg' ]

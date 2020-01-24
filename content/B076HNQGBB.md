@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Core18 PES Jkt Chaqueta  Hombre  ' al 45.148382794264755 % de descuento
+title: 'Adidas Core18 PES Jkt Chaqueta  Hombre   al 45.148382794264755 % de descuento'
 date: 2019/10/23 12:48:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4137iEVL0XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4137iEVL0XL._SL200_.jpg' ]

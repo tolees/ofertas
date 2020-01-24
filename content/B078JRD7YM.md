@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RICOO Estanteria Bandeja de Muro para ca' al 37.5741492350921 % de descuento
+title: 'RICOO Estanteria Bandeja de Muro para ca al 37.5741492350921 % de descuento'
 date: 2019/11/22 20:05:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UDxqFS5vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UDxqFS5vL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SALOMON XA tee Camiseta  Mujer  Amarillo' al 78.175 % de descuento
+title: 'SALOMON XA tee Camiseta  Mujer  Amarillo al 78.175 % de descuento'
 date: 2019/12/15 14:34:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31J2iunyHUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31J2iunyHUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Monkey 47 Schwarzwald Dry Gin - Harmonis' al 32.70817704426106 % de descuento
+title: 'Monkey 47 Schwarzwald Dry Gin - Harmonis al 32.70817704426106 % de descuento'
 date: 2019/12/28 13:33:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RthFNKNgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RthFNKNgL._SL200_.jpg' ]

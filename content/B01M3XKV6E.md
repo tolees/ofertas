@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Slim Vaqueros  Dk Aged 5' al 38.31596498541059 % de descuento
+title: 'G-STAR RAW 3301 Slim Vaqueros  Dk Aged 5 al 38.31596498541059 % de descuento'
 date: 2019/12/10 09:28:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x53QzHk0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x53QzHk0L._SL200_.jpg' ]

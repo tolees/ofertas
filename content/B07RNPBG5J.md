@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YAMTION Mochila Portatil Mochilas Escola' al 32.312822067293126 % de descuento
+title: 'YAMTION Mochila Portatil Mochilas Escola al 32.312822067293126 % de descuento'
 date: 2020-01-12 23:45:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DPH2tIBbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DPH2tIBbL._SL200_.jpg' ]

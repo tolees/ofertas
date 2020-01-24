@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quiksilver Molokai Deluxe  Chanclas para' al 36.107954545454554 % de descuento
+title: 'Quiksilver Molokai Deluxe  Chanclas para al 36.107954545454554 % de descuento'
 date: 2019/12/03 11:01:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313VWwxwl1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313VWwxwl1L._SL200_.jpg' ]

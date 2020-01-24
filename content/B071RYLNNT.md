@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.5909090909091 % en 'Joma Tropical Malla Corta  Mujer  Verde '
+title: 'Descuento del 66.5909090909091 % en Joma Tropical Malla Corta  Mujer  Verde '
 date: 2020-01-13 09:40:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-TD5K5ufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-TD5K5ufL._SL200_.jpg' ]

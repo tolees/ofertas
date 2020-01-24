@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.72149366525895 % en 'L.O.L. Surprise! 556299 L.O.L. Surprise '
+title: 'Descuento del 46.72149366525895 % en L.O.L. Surprise! 556299 L.O.L. Surprise '
 date: 2020-01-13 22:03:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SH2uBSF%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SH2uBSF%2BL._SL200_.jpg' ]

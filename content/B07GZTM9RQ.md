@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP Tango X Smart Home Drucker  HP Instan' al 50.7303651825913 % de descuento
+title: 'HP Tango X Smart Home Drucker  HP Instan al 50.7303651825913 % de descuento'
 date: 2019/11/30 16:26:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415SsMvOnqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415SsMvOnqL._SL200_.jpg' ]

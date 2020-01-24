@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373 Zapatillas Hombre  Marró' al 40.0 % de descuento
+title: 'New Balance 373 Zapatillas Hombre  Marró al 40.0 % de descuento'
 date: 2020-01-14 13:17:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pBxxfZYML._SL200_.jpg' ]

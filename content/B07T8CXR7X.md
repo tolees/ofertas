@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.00760076007602 % en 'FANCI Regalos Navidad Mujer Pendientes M'
+title: 'Descuento del 76.00760076007602 % en FANCI Regalos Navidad Mujer Pendientes M'
 date: 2019/10/30 23:13:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uwsDoLv-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uwsDoLv-L._SL200_.jpg' ]

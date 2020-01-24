@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorwavy tee SS Crew Neck Ca' al 43.69579719813209 % de descuento
+title: 'JACK & JONES Jorwavy tee SS Crew Neck Ca al 43.69579719813209 % de descuento'
 date: 2019/11/01 21:00:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LAAId6TqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LAAId6TqL._SL200_.jpg' ]

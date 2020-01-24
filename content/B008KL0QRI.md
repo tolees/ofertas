@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Novartis - Rhinomer Fuerza Fuerte' al 32.881355932203384 % de descuento
+title: 'Novartis - Rhinomer Fuerza Fuerte al 32.881355932203384 % de descuento'
 date: 2019/12/26 07:26:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZFWzlAiYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZFWzlAiYL._SL200_.jpg' ]

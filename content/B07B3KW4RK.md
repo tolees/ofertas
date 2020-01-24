@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Final Sideline Chaqueta  Hombre  Re' al 53.64126250962279 % de descuento
+title: 'PUMA Final Sideline Chaqueta  Hombre  Re al 53.64126250962279 % de descuento'
 date: 2019/11/12 17:34:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rNL7cQLeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rNL7cQLeL._SL200_.jpg' ]

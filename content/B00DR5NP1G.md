@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Luke Vaqueros  Clean Black  28W / 34' al 45.21400778210117 % de descuento
+title: 'Lee Luke Vaqueros  Clean Black  28W / 34 al 45.21400778210117 % de descuento'
 date: 2019/12/12 02:41:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31T-DCpbVuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.27678199249686 % en 'G-STAR RAW 3301 Deconstructed Skinny Vaq'
+title: 'Descuento del 64.27678199249686 % en G-STAR RAW 3301 Deconstructed Skinny Vaq'
 date: 2019/10/08 01:45:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413rTLy5IAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413rTLy5IAL._SL200_.jpg' ]

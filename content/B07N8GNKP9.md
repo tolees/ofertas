@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Slip Generous Limited Edition Pantis' al 42.05555555555556 % de descuento
+title: 'Dim Slip Generous Limited Edition Pantis al 42.05555555555556 % de descuento'
 date: 2019/11/05 02:14:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zpQYwiMgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zpQYwiMgL._SL200_.jpg' ]

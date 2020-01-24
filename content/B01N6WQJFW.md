@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smart Panda Calendario Magnético para Ne' al 50.15005001667223 % de descuento
+title: 'Smart Panda Calendario Magnético para Ne al 50.15005001667223 % de descuento'
 date: 2020-01-18 08:44:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510ithvINLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510ithvINLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.59287054409006 % en 'Desigual Vest_SM Birmania  Vestido Mujer'
+title: 'Descuento del 48.59287054409006 % en Desigual Vest_SM Birmania  Vestido Mujer'
 date: 2019/11/08 23:17:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XhhTa0jVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XhhTa0jVL._SL200_.jpg' ]

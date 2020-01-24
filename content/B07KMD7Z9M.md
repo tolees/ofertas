@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vigilabebés Inalambrico Bebé Monitor con' al 51.89518951895189 % de descuento
+title: 'Vigilabebés Inalambrico Bebé Monitor con al 51.89518951895189 % de descuento'
 date: 2019/12/26 05:03:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417XGP4H%2BjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417XGP4H%2BjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elro TM106 Programador  Blanco' al 30.03003003003003 % de descuento
+title: 'Elro TM106 Programador  Blanco al 30.03003003003003 % de descuento'
 date: 2019/11/13 10:12:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410hzgUSa0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410hzgUSa0L._SL200_.jpg' ]

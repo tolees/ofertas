@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CASIO F-108WH-2A2EF - Reloj Digital Unis' al 25.52763819095477 % de descuento
+title: 'CASIO F-108WH-2A2EF - Reloj Digital Unis al 25.52763819095477 % de descuento'
 date: 2019/12/14 23:47:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sJz%2BYty7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sJz%2BYty7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.31003039513678 % en 'BOXEUR DES RUES BXT-1731 Leggings  Mujer'
+title: 'Descuento del 72.31003039513678 % en BOXEUR DES RUES BXT-1731 Leggings  Mujer'
 date: 2019/10/07 01:29:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315c2jfzKuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315c2jfzKuL._SL200_.jpg' ]

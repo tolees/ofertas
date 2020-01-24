@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIU JO Zapatos Mujeres Sneakers Karlie05' al 40.31446540880502 % de descuento
+title: 'LIU JO Zapatos Mujeres Sneakers Karlie05 al 40.31446540880502 % de descuento'
 date: 2019/11/26 02:05:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pSykest2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pSykest2L._SL200_.jpg' ]

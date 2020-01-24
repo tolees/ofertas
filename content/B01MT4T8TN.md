@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TP-Link EAP110-Outdoor - Punto de Acceso' al 25.792988313856423 % de descuento
+title: 'TP-Link EAP110-Outdoor - Punto de Acceso al 25.792988313856423 % de descuento'
 date: 2020-01-18 10:09:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21WU3XL6zEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21WU3XL6zEL._SL200_.jpg' ]

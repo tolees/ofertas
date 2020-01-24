@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sklz Slidez - Material para Entrenamient' al 29.916527545909855 % de descuento
+title: 'Sklz Slidez - Material para Entrenamient al 29.916527545909855 % de descuento'
 date: 2019/12/01 05:50:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FHvgjGoSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FHvgjGoSL._SL200_.jpg' ]

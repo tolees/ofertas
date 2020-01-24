@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.68888888888889 % en 'Under Armour Sportstyle Cotton Graphic P'
+title: 'Descuento del 46.68888888888889 % en Under Armour Sportstyle Cotton Graphic P'
 date: 2019/11/25 16:33:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ye55NCFfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ye55NCFfL._SL200_.jpg' ]

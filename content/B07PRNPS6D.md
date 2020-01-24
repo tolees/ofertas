@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.499545316762664 % en 'Samsung RU8009 207 cm  82 Zoll  LED Fern'
+title: 'Descuento del 48.499545316762664 % en Samsung RU8009 207 cm  82 Zoll  LED Fern'
 date: 2020-01-19 09:48:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510aZyZngRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510aZyZngRL._SL200_.jpg' ]

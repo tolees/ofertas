@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.00855650627847 % en 'JACK & JONES Jcoeight Chaqueta Bomber  N'
+title: 'Descuento del 77.00855650627847 % en JACK & JONES Jcoeight Chaqueta Bomber  N'
 date: 2019/11/09 08:22:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n%2Bc3T40hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n%2Bc3T40hL._SL200_.jpg' ]

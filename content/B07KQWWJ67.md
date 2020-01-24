@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen KOS Polo  Hombre   Verde Pe' al 50.07692307692307 % de descuento
+title: 'Helly Hansen KOS Polo  Hombre   Verde Pe al 50.07692307692307 % de descuento'
 date: 2019/10/05 16:57:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yNKQP08KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yNKQP08KL._SL200_.jpg' ]

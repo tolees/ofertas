@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.96496496496497 % en 'Triumph Amourette Charm W Sujetador con '
+title: 'Descuento del 44.96496496496497 % en Triumph Amourette Charm W Sujetador con '
 date: 2019/10/13 11:25:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416JBJcIz5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416JBJcIz5L._SL200_.jpg' ]

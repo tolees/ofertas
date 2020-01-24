@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mandarina Duck Women s Camden Cross-Body' al 42.47641280031126 % de descuento
+title: 'Mandarina Duck Women s Camden Cross-Body al 42.47641280031126 % de descuento'
 date: 2019/12/02 07:39:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S40-hglAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S40-hglAL._SL200_.jpg' ]

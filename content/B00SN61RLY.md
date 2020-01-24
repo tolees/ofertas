@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.08153701968134 % en 'Barbie - Princess Power y la Varita mági'
+title: 'Descuento del 39.08153701968134 % en Barbie - Princess Power y la Varita mági'
 date: 2020-01-19 18:38:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VimfnWR-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VimfnWR-L._SL200_.jpg' ]

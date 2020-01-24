@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.04347826086956 % en 'Luces solares al aire libre   100 LED 8 '
+title: 'Descuento del 42.04347826086956 % en Luces solares al aire libre   100 LED 8 '
 date: 2020-01-03 09:46:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511dQSzXSFL._SL200_.jpg' ]

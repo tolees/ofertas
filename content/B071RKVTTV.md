@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maidenform Casual Comfort-Convertible Su' al 30.03754693366709 % de descuento
+title: 'Maidenform Casual Comfort-Convertible Su al 30.03754693366709 % de descuento'
 date: 2019/11/23 08:57:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GllV3ps9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GllV3ps9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00625390869293 % en 'G-STAR RAW Graphic 8 Sudadera  Negro  Dk'
+title: 'Descuento del 50.00625390869293 % en G-STAR RAW Graphic 8 Sudadera  Negro  Dk'
 date: 2020-01-12 00:01:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jmF1g9YKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jmF1g9YKL._SL200_.jpg' ]

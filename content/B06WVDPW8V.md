@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.83648619265058 % en 'TIBES Grande Oxford Bolso del ordenador '
+title: 'Descuento del 47.83648619265058 % en TIBES Grande Oxford Bolso del ordenador '
 date: 2020-01-12 16:03:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ELhlcOBRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ELhlcOBRL._SL200_.jpg' ]

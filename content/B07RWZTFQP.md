@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.39287857571514 % en 'Only Onlenya Faux Leather Biker CC Otw C'
+title: 'Descuento del 64.39287857571514 % en Only Onlenya Faux Leather Biker CC Otw C'
 date: 2019/12/16 17:59:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DP7JZJXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DP7JZJXL._SL200_.jpg' ]

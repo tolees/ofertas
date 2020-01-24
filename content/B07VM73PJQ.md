@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 099cc1k048 Camisa Manga La' al 50.02501250625312 % de descuento
+title: 'edc by Esprit 099cc1k048 Camisa Manga La al 50.02501250625312 % de descuento'
 date: 2019/12/24 08:06:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wSoo0L3hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wSoo0L3hL._SL200_.jpg' ]

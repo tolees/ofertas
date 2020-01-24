@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.00750125020837 % en 'Amzdeal Softbox 50 x 70 cm Kit de llumin'
+title: 'Descuento del 45.00750125020837 % en Amzdeal Softbox 50 x 70 cm Kit de llumin'
 date: 2020-01-21 13:32:22
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

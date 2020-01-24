@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Raissa Vaqueros Skinny  Negro  Bl' al 61.34453781512605 % de descuento
+title: 'REPLAY Raissa Vaqueros Skinny  Negro  Bl al 61.34453781512605 % de descuento'
 date: 2019/10/27 02:20:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w6iKFc8ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w6iKFc8ML._SL200_.jpg' ]

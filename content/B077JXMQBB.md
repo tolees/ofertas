@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pala De Padel Head Stratos Pro Ltd' al 57.17857142857143 % de descuento
+title: 'Pala De Padel Head Stratos Pro Ltd al 57.17857142857143 % de descuento'
 date: 2020-01-16 09:52:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XKaRQvtFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XKaRQvtFL._SL200_.jpg' ]

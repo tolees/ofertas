@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.006257822277856 % en 'AmazonBasics - Vajilla de 18 piezas  Por'
+title: 'Descuento del 25.006257822277856 % en AmazonBasics - Vajilla de 18 piezas  Por'
 date: 2019/12/09 19:20:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31n7YMhdazL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31n7YMhdazL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.666666666666664 % en 'Under Armour UA Tormenta Pantalón  Hombr'
+title: 'Descuento del 54.666666666666664 % en Under Armour UA Tormenta Pantalón  Hombr'
 date: 2019/11/06 10:35:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LpHTR-8jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LpHTR-8jL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ratón Vertical con Barra de Control Zelo' al 46.00920184036808 % de descuento
+title: 'Ratón Vertical con Barra de Control Zelo al 46.00920184036808 % de descuento'
 date: 2020-01-20 09:48:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XALhTL5KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XALhTL5KL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.76833976833977 % en 'Napapijri Rainforest Pkt Print Chaqueta '
+title: 'Descuento del 34.76833976833977 % en Napapijri Rainforest Pkt Print Chaqueta '
 date: 2019/11/22 17:58:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AcO-c%2BWDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AcO-c%2BWDL._SL200_.jpg' ]

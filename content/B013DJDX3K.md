@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skylanders SuperCharges - Figura High Vo' al 37.906976744186046 % de descuento
+title: 'Skylanders SuperCharges - Figura High Vo al 37.906976744186046 % de descuento'
 date: 2020-01-24 17:04:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ls7AGzxiL._AC_._SL200_.jpg' ]

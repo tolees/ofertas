@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'modamoda de - cuero italiano de embrague' al 26.675558519506502 % de descuento
+title: 'modamoda de - cuero italiano de embrague al 26.675558519506502 % de descuento'
 date: 2019/12/25 19:07:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OjVUyYOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OjVUyYOpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX Fury HX432C16FB3K2/16 DDR4  Kit 2' al 27.51570935481015 % de descuento
+title: 'HyperX Fury HX432C16FB3K2/16 DDR4  Kit 2 al 27.51570935481015 % de descuento'
 date: 2019/10/14 12:52:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cpdeRiUtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cpdeRiUtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Manfrotto MB MA-SB-C1 - Funda Avanzada p' al 59.02752293577982 % de descuento
+title: 'Manfrotto MB MA-SB-C1 - Funda Avanzada p al 59.02752293577982 % de descuento'
 date: 2020-01-20 21:28:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlv1Y3QsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlv1Y3QsL._SL200_.jpg' ]

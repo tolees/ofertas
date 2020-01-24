@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Herren Core 18 Trainingshose  Bla' al 40.05006257822279 % de descuento
+title: 'Adidas Herren Core 18 Trainingshose  Bla al 40.05006257822279 % de descuento'
 date: 2020-01-18 08:46:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eSXjcUfsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eSXjcUfsL._SL200_.jpg' ]

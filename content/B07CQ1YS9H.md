@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Daren Zip Fly Vaqueros Rectos  Azul ' al 44.60208379516737 % de descuento
+title: 'Lee Daren Zip Fly Vaqueros Rectos  Azul  al 44.60208379516737 % de descuento'
 date: 2020-01-16 14:07:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hZUEsQ3YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hZUEsQ3YL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.595385481148 % en 'Collistar - Afinador de poros para labio'
+title: 'Descuento del 46.595385481148 % en Collistar - Afinador de poros para labio'
 date: 2019/10/26 12:39:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31upuzwTUmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31upuzwTUmL._SL200_.jpg' ]

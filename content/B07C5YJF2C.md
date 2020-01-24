@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjitim Jjoriginal JJ 119 Li' al 46.67185242804756 % de descuento
+title: 'JACK & JONES Jjitim Jjoriginal JJ 119 Li al 46.67185242804756 % de descuento'
 date: 2019/12/29 13:01:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b9XWx3jgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sportstyle Logo LS Camiseta' al 28.342780926975664 % de descuento
+title: 'Under Armour Sportstyle Logo LS Camiseta al 28.342780926975664 % de descuento'
 date: 2020-01-10 09:32:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AAUUwUZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AAUUwUZBL._SL200_.jpg' ]

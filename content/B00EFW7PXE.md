@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.089999999999996 % en 'Helly Hansen Loke Chaqueta  Hombre  Negr'
+title: 'Descuento del 59.089999999999996 % en Helly Hansen Loke Chaqueta  Hombre  Negr'
 date: 2019/10/06 14:30:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Foj8V2m9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Foj8V2m9L._SL200_.jpg' ]

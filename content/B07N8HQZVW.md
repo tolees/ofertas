@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.55555555555556 % en 'Dim Slip SUBLIM Dentelle Pantis  Rojo  R'
+title: 'Descuento del 50.55555555555556 % en Dim Slip SUBLIM Dentelle Pantis  Rojo  R'
 date: 2019/11/05 02:14:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J7f%2BA7tOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J7f%2BA7tOL._SL200_.jpg' ]

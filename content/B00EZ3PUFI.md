@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Redken COLOR EXTEND MAGNETICS conditione' al 36.70951156812339 % de descuento
+title: 'Redken COLOR EXTEND MAGNETICS conditione al 36.70951156812339 % de descuento'
 date: 2019/10/27 11:56:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QzkpIBckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QzkpIBckL._SL200_.jpg' ]

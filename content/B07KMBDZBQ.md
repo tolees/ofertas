@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Agility Synthesis Flex  Zapatill' al 56.530434782608694 % de descuento
+title: 'Merrell Agility Synthesis Flex  Zapatill al 56.530434782608694 % de descuento'
 date: 2019/11/03 19:12:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419TKnP%2B8HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419TKnP%2B8HL._SL200_.jpg' ]

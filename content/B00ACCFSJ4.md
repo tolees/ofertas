@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.964982491245618 % en 'It s Skin Power 10 Formula GF Effector -'
+title: 'Descuento del 29.964982491245618 % en It s Skin Power 10 Formula GF Effector -'
 date: 2019/11/28 07:59:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YILGe6KvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YILGe6KvL._SL200_.jpg' ]

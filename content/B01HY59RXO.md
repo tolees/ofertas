@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 590  Zapatillas de Running  ' al 39.27142857142858 % de descuento
+title: 'New Balance 590  Zapatillas de Running   al 39.27142857142858 % de descuento'
 date: 2019/10/28 15:09:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nka%2Bk1c-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nka%2Bk1c-L._SL200_.jpg' ]

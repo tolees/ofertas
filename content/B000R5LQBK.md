@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional 2607010146 Bosch 2607' al 43.154574132492115 % de descuento
+title: 'Bosch Professional 2607010146 Bosch 2607 al 43.154574132492115 % de descuento'
 date: 2019/11/15 12:37:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C6VxJ1duL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C6VxJ1duL._SL200_.jpg' ]

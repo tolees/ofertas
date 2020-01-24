@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.15759849906192 % en 'TACKLIFE Juego de Brocas  ADC01C Taladro'
+title: 'Descuento del 52.15759849906192 % en TACKLIFE Juego de Brocas  ADC01C Taladro'
 date: 2019/10/19 20:28:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a8EdIFVtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a8EdIFVtL._SL200_.jpg' ]

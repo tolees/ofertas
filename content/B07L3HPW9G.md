@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Bold Blocking Text S/s te' al 58.42809364548495 % de descuento
+title: 'Tommy Hilfiger Bold Blocking Text S/s te al 58.42809364548495 % de descuento'
 date: 2019/11/01 04:48:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416HE5lIHAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416HE5lIHAL._SL200_.jpg' ]

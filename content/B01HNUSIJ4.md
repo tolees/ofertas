@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon Soft Flask Botella Flexible  Sol' al 30.049999999999997 % de descuento
+title: 'Salomon Soft Flask Botella Flexible  Sol al 30.049999999999997 % de descuento'
 date: 2020-01-03 18:53:13
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

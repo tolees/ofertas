@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iRobot Roomba i7156 Robot Aspirador Adap' al 31.145717463848722 % de descuento
+title: 'iRobot Roomba i7156 Robot Aspirador Adap al 31.145717463848722 % de descuento'
 date: 2020-01-17 04:40:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416DpmWlVxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416DpmWlVxL._SL200_.jpg' ]

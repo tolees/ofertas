@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.45941945892612 % en 'Samsung MZ-N6E2T0BW 860 EVO M.2 - Disco '
+title: 'Descuento del 56.45941945892612 % en Samsung MZ-N6E2T0BW 860 EVO M.2 - Disco '
 date: 2019/10/10 21:18:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4196qWsgVRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4196qWsgVRL._SL200_.jpg' ]

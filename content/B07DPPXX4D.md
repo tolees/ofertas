@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amzdeal Tapa de wc  Tapa de inodoro con ' al 38.33972328721453 % de descuento
+title: 'Amzdeal Tapa de wc  Tapa de inodoro con  al 38.33972328721453 % de descuento'
 date: 2019/12/02 08:26:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X9HDdJtiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X9HDdJtiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pierre Cardin Reloj Analogico para Mujer' al 45.33619456366238 % de descuento
+title: 'Pierre Cardin Reloj Analogico para Mujer al 45.33619456366238 % de descuento'
 date: 2019/10/30 06:41:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BjLXftQdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BjLXftQdL._SL200_.jpg' ]

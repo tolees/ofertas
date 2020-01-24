@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.67044696464309 % en 'Liebeskind Berlin - Soft Messenger Clutc'
+title: 'Descuento del 55.67044696464309 % en Liebeskind Berlin - Soft Messenger Clutc'
 date: 2019/10/24 10:36:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZXR6EoCfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZXR6EoCfL._SL200_.jpg' ]

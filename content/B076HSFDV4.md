@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.20150187734669 % en 'Adidas Core18 Pre Jkt Sport Jacket  Homb'
+title: 'Descuento del 41.20150187734669 % en Adidas Core18 Pre Jkt Sport Jacket  Homb'
 date: 2020-01-05 19:45:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412PQugRxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412PQugRxCL._SL200_.jpg' ]

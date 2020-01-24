@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salewa Saco de Dormir vivac para Condici' al 49.806666666666665 % de descuento
+title: 'Salewa Saco de Dormir vivac para Condici al 49.806666666666665 % de descuento'
 date: 2019/12/08 16:18:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412wzRxWLRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412wzRxWLRL._SL200_.jpg' ]

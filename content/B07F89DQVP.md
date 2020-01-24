@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.997270245677896 % en 'adidas ESS Solid FZ HD Chaqueta  Mujer  '
+title: 'Descuento del 36.997270245677896 % en adidas ESS Solid FZ HD Chaqueta  Mujer  '
 date: 2019/10/29 20:57:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e7dg0hPCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e7dg0hPCL._SL200_.jpg' ]

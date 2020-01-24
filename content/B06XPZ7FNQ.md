@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.75597554196776 % en 'Desigual Second Skin Gold Pantalones Vaq'
+title: 'Descuento del 40.75597554196776 % en Desigual Second Skin Gold Pantalones Vaq'
 date: 2019/10/10 14:15:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BG7Hi0pRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BG7Hi0pRL._SL200_.jpg' ]

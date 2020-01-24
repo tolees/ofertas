@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Phantom Block Party Solid 18  B' al 58.49230769230769 % de descuento
+title: 'Hurley M Phantom Block Party Solid 18  B al 58.49230769230769 % de descuento'
 date: 2019/11/08 15:00:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aO4jP8QdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aO4jP8QdL._SL200_.jpg' ]

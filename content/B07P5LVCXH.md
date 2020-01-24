@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garnier Delial Bruma Protectora Refresca' al 54.148148148148145 % de descuento
+title: 'Garnier Delial Bruma Protectora Refresca al 54.148148148148145 % de descuento'
 date: 2019/10/13 14:10:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uZpCakBpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uZpCakBpL._SL200_.jpg' ]

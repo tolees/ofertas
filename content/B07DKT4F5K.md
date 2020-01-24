@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA 517091 Sujetador  Mujer  Negro/Gris' al 64.96106785317019 % de descuento
+title: 'PUMA 517091 Sujetador  Mujer  Negro/Gris al 64.96106785317019 % de descuento'
 date: 2019/10/29 01:12:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j6l-4XwKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j6l-4XwKL._SL200_.jpg' ]

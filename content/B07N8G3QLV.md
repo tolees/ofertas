@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Slip Les Pockets Coton X3 Pantis   V' al 37.46153846153846 % de descuento
+title: 'Dim Slip Les Pockets Coton X3 Pantis   V al 37.46153846153846 % de descuento'
 date: 2019/10/15 07:34:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qrvQNCUaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qrvQNCUaL._SL200_.jpg' ]

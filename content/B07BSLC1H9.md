@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.08450704225352 % en 'Nike SB Portmore II Solar  Zapatillas de'
+title: 'Descuento del 57.08450704225352 % en Nike SB Portmore II Solar  Zapatillas de'
 date: 2020-01-24 16:33:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kM5wFfPKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kM5wFfPKL._AC_._SL200_.jpg' ]

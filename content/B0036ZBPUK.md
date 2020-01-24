@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FEBER - Triciclo Ferrari  Famosa 8000058' al 30.003000300030003 % de descuento
+title: 'FEBER - Triciclo Ferrari  Famosa 8000058 al 30.003000300030003 % de descuento'
 date: 2020-01-03 12:12:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HQehM0C-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HQehM0C-L._SL200_.jpg' ]

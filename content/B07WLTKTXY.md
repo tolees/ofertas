@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00833472245374 % en 'Echo Dot  3. Gen.  Intelligenter Lautspr'
+title: 'Descuento del 50.00833472245374 % en Echo Dot  3. Gen.  Intelligenter Lautspr'
 date: 2019/12/16 13:00:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg' ]

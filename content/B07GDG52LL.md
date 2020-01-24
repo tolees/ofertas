@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smith Optics Haywire Gafas de sol  Multi' al 34.21854887880226 % de descuento
+title: 'Smith Optics Haywire Gafas de sol  Multi al 34.21854887880226 % de descuento'
 date: 2019/10/16 05:43:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xT5Y2jOqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xT5Y2jOqL._SL200_.jpg' ]

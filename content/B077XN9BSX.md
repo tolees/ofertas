@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.84615384615384 % en 'Under Armour Pindot Tanque  Mujer  Steel'
+title: 'Descuento del 66.84615384615384 % en Under Armour Pindot Tanque  Mujer  Steel'
 date: 2019/10/18 21:05:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tx-GFajlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tx-GFajlL._SL200_.jpg' ]

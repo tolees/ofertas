@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Yc373v1  Zapatillas para Niñ' al 40.0 % de descuento
+title: 'New Balance Yc373v1  Zapatillas para Niñ al 40.0 % de descuento'
 date: 2019/12/31 12:29:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OTp%2BInloL._SL200_.jpg' ]

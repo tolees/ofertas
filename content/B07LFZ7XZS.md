@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Android Boy C  Zapatillas para Ni' al 40.150250417362265 % de descuento
+title: 'Geox J Android Boy C  Zapatillas para Ni al 40.150250417362265 % de descuento'
 date: 2020-01-06 18:41:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rqZkuD9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rqZkuD9iL._SL200_.jpg' ]

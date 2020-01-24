@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Energy SS tee Camiseta  Hombre  Neg' al 60.667779632721206 % de descuento
+title: 'PUMA Energy SS tee Camiseta  Hombre  Neg al 60.667779632721206 % de descuento'
 date: 2019/11/12 23:32:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B6Z%2BuQFXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B6Z%2BuQFXL._SL200_.jpg' ]

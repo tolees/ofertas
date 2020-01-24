@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT Footwear Portland  Zapatillas para ' al 43.809920800333465 % de descuento
+title: 'GANT Footwear Portland  Zapatillas para  al 43.809920800333465 % de descuento'
 date: 2019/12/13 04:31:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DZ%2BixcebL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DZ%2BixcebL._SL200_.jpg' ]

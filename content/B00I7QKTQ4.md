@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0 % en 'Levi s Men s 527 Boot Cut Jeans  Blue  E'
+title: 'Descuento del 60.0 % en Levi s Men s 527 Boot Cut Jeans  Blue  E'
 date: 2020-01-16 22:04:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ATXDOP7kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ATXDOP7kL._SL200_.jpg' ]

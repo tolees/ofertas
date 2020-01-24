@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW D-STAQ 3D Skinny  Vaqueros  A' al 57.38360908041553 % de descuento
+title: 'G-STAR RAW D-STAQ 3D Skinny  Vaqueros  A al 57.38360908041553 % de descuento'
 date: 2019/12/28 19:12:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tszoBThaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tszoBThaL._SL200_.jpg' ]

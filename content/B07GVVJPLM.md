@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin Ultra HD  2018  - Cable HDMI de A' al 25.71795970852978 % de descuento
+title: 'Belkin Ultra HD  2018  - Cable HDMI de A al 25.71795970852978 % de descuento'
 date: 2019/12/31 10:22:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L22p86ZIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L22p86ZIL._SL200_.jpg' ]

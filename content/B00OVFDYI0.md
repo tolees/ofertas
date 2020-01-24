@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.951519815313574 % en 'Nike Wmns Air MAX Thea PRM  Zapatillas p'
+title: 'Descuento del 53.951519815313574 % en Nike Wmns Air MAX Thea PRM  Zapatillas p'
 date: 2019/10/20 06:44:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EYAZJWwkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EYAZJWwkL._SL200_.jpg' ]

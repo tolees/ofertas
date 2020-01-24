@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Ella Pg400833 Chaqueta    Sai' al 56.71578947368421 % de descuento
+title: 'Pepe Jeans Ella Pg400833 Chaqueta    Sai al 56.71578947368421 % de descuento'
 date: 2019/10/07 23:54:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oCqrTypkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oCqrTypkL._SL200_.jpg' ]

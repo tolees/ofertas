@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star Raw Jirgi Zip Round Neck Chaqueta' al 50.00714796283059 % de descuento
+title: 'G-Star Raw Jirgi Zip Round Neck Chaqueta al 50.00714796283059 % de descuento'
 date: 2019/12/04 06:08:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418u76R3cqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418u76R3cqL._SL200_.jpg' ]

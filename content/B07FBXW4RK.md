@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COMIFORT Mesa de Centro Elevable Moderna' al 46.73154362416108 % de descuento
+title: 'COMIFORT Mesa de Centro Elevable Moderna al 46.73154362416108 % de descuento'
 date: 2019/11/10 17:53:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418YC0-xsQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418YC0-xsQL._SL200_.jpg' ]

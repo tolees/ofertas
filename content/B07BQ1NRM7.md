@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett Vaqueros  Azul  Blue Drop E' al 76.42821410705352 % de descuento
+title: 'Lee Scarlett Vaqueros  Azul  Blue Drop E al 76.42821410705352 % de descuento'
 date: 2019/10/12 01:06:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Tgr-KeIQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Tgr-KeIQL._SL200_.jpg' ]

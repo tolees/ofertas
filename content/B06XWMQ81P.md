@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk Extreme - Tarjeta de memoria 32G' al 30.86989992301771 % de descuento
+title: 'SanDisk Extreme - Tarjeta de memoria 32G al 30.86989992301771 % de descuento'
 date: 2020-01-17 09:57:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RGfU1iKlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RGfU1iKlL._SL200_.jpg' ]

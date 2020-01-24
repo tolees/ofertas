@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lámpara Escritorio LED  Lámparas de Mesa' al 31.045187995860644 % de descuento
+title: 'Lámpara Escritorio LED  Lámparas de Mesa al 31.045187995860644 % de descuento'
 date: 2020-01-02 09:55:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y8deMSsmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y8deMSsmL._SL200_.jpg' ]

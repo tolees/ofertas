@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.45045045045045 % en 'HP Pavilion 15-dk0006ng  15 6 Zoll / Ful'
+title: 'Descuento del 50.45045045045045 % en HP Pavilion 15-dk0006ng  15 6 Zoll / Ful'
 date: 2019/11/18 08:17:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BkFDPDKqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BkFDPDKqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Giradiscos de dl Record Player  33/45/78' al 60.62878929933121 % de descuento
+title: 'Giradiscos de dl Record Player  33/45/78 al 60.62878929933121 % de descuento'
 date: 2019/11/17 21:40:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OvSdQLKFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OvSdQLKFL._SL200_.jpg' ]

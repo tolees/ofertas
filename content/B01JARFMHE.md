@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Replay Anbass  Vaqueros Slim para Hombre' al 57.83018867924529 % de descuento
+title: 'Replay Anbass  Vaqueros Slim para Hombre al 57.83018867924529 % de descuento'
 date: 2019/12/15 13:27:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vNJNf-0NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vNJNf-0NL._SL200_.jpg' ]

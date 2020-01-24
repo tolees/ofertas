@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dragon Ball Super. Box 6 Blu-Ray Edición' al 49.25810230378759 % de descuento
+title: 'Dragon Ball Super. Box 6 Blu-Ray Edición al 49.25810230378759 % de descuento'
 date: 2019/11/28 18:03:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P9L%2BUHHCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P9L%2BUHHCL._SL200_.jpg' ]

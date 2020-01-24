@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Shoes Ripley Chaqueta  Hombre  Negro ' al 65.08325416270814 % de descuento
+title: 'DC Shoes Ripley Chaqueta  Hombre  Negro  al 65.08325416270814 % de descuento'
 date: 2019/11/11 22:04:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X7rCAsJmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X7rCAsJmL._SL200_.jpg' ]

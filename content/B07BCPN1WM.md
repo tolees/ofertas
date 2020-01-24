@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moulinex Juice Express JU550D10 Licuador' al 34.43715968440938 % de descuento
+title: 'Moulinex Juice Express JU550D10 Licuador al 34.43715968440938 % de descuento'
 date: 2019/10/09 14:15:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YEQv96uAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YEQv96uAL._SL200_.jpg' ]

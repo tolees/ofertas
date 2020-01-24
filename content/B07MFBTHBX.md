@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skagen Reloj Analógico para Hombre de Cu' al 50.0 % de descuento
+title: 'Skagen Reloj Analógico para Hombre de Cu al 50.0 % de descuento'
 date: 2019/12/02 22:23:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41poSSWXqhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41poSSWXqhL._SL200_.jpg' ]

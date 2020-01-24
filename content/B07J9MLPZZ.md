@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black+Decker BXCJ100E Exprimidor  100 W ' al 31.82396799418076 % de descuento
+title: 'Black+Decker BXCJ100E Exprimidor  100 W  al 31.82396799418076 % de descuento'
 date: 2019/12/16 08:07:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pL1g-IVeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pL1g-IVeL._SL200_.jpg' ]

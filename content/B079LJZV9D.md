@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'camel active Damen Canberra GTX 70 Schne' al 60.22359517505149 % de descuento
+title: 'camel active Damen Canberra GTX 70 Schne al 60.22359517505149 % de descuento'
 date: 2019/11/30 13:15:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410%2BeG9X32L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410%2BeG9X32L._SL200_.jpg' ]

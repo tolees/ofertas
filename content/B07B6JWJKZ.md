@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.64427404567428 % en 'K-Swiss Court Casper SDE  Zapatillas par'
+title: 'Descuento del 65.64427404567428 % en K-Swiss Court Casper SDE  Zapatillas par'
 date: 2019/11/08 20:29:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-Ue6xvHKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-Ue6xvHKL._SL200_.jpg' ]

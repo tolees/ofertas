@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.177257525083604 % en 'Sally Hansen Airbrush Legs Maquillaje pa'
+title: 'Descuento del 33.177257525083604 % en Sally Hansen Airbrush Legs Maquillaje pa'
 date: 2019/11/27 09:26:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QyykDttjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QyykDttjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nuevo Versión Transmisor FM Manos Libres' al 47.511877969492375 % de descuento
+title: 'Nuevo Versión Transmisor FM Manos Libres al 47.511877969492375 % de descuento'
 date: 2019/12/21 19:45:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rUjMAm9eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rUjMAm9eL._SL200_.jpg' ]

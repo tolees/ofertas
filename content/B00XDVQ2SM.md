@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.52941176470589 % en 'NIVEA SUN Protege & Refresca Spray Bruma'
+title: 'Descuento del 38.52941176470589 % en NIVEA SUN Protege & Refresca Spray Bruma'
 date: 2019/12/03 18:40:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LZMYYMdYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LZMYYMdYL._SL200_.jpg' ]

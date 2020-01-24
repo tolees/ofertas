@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.9794121455393 % en 'Cortek Warthog Torre Negro Carcasa de Or'
+title: 'Descuento del 32.9794121455393 % en Cortek Warthog Torre Negro Carcasa de Or'
 date: 2019/12/08 21:15:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hY5i02FwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hY5i02FwL._SL200_.jpg' ]

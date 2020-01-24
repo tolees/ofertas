@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.97050147492625 % en 'Twins Bademantel TIM  Traje de baño Bebé'
+title: 'Descuento del 69.97050147492625 % en Twins Bademantel TIM  Traje de baño Bebé'
 date: 2019/11/19 20:52:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wDxi%2B5azL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wDxi%2B5azL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.487498975325835 % en 'Hymer 402604 - Escalera de mano'
+title: 'Descuento del 47.487498975325835 % en Hymer 402604 - Escalera de mano'
 date: 2019/11/07 16:07:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31k7%2BRtIRqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31k7%2BRtIRqL._SL200_.jpg' ]

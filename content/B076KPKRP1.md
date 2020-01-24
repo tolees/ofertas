@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.0208507089241 % en 'Silk Route Spice Company Grinder Gigante'
+title: 'Descuento del 25.0208507089241 % en Silk Route Spice Company Grinder Gigante'
 date: 2019/12/08 10:09:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zKoCmQOuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zKoCmQOuL._SL200_.jpg' ]

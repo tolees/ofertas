@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Dc Super-Villans - Xbox One [Edizio' al 50.062578222778484 % de descuento
+title: 'LEGO Dc Super-Villans - Xbox One [Edizio al 50.062578222778484 % de descuento'
 date: 2020-01-15 11:14:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Yi39HTeIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Yi39HTeIL._SL200_.jpg' ]

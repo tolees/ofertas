@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia WAYFINDER Outdry  Zapatos Multi' al 55.037919826652214 % de descuento
+title: 'Columbia WAYFINDER Outdry  Zapatos Multi al 55.037919826652214 % de descuento'
 date: 2020-01-07 08:31:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414rzxd6WNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414rzxd6WNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auihiay - Guirnalda de 75 corazones de f' al 44.20505200594354 % de descuento
+title: 'Auihiay - Guirnalda de 75 corazones de f al 44.20505200594354 % de descuento'
 date: 2020-01-13 18:04:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D3gEDzeEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D3gEDzeEL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Venice Slim RW Fura Vaque' al 60.28028028028029 % de descuento
+title: 'Tommy Hilfiger Venice Slim RW Fura Vaque al 60.28028028028029 % de descuento'
 date: 2019/10/28 23:40:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uwNdHjJOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uwNdHjJOL._SL200_.jpg' ]

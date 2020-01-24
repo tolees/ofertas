@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga S0001R0 - Zapatillas de deporte ' al 52.65217391304348 % de descuento
+title: 'Superga S0001R0 - Zapatillas de deporte  al 52.65217391304348 % de descuento'
 date: 2019/12/06 18:14:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bKd2hdDoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bKd2hdDoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0 % en 'Napapijri Giulian Camisa   Check C12   4'
+title: 'Descuento del 60.0 % en Napapijri Giulian Camisa   Check C12   4'
 date: 2019/10/15 11:46:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EN0xYjv%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EN0xYjv%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.50833333333333 % en 'Under Armour UA W TriBase Reign  Zapatil'
+title: 'Descuento del 47.50833333333333 % en Under Armour UA W TriBase Reign  Zapatil'
 date: 2020-01-23 12:17:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XURd-BdGL._SL200_.jpg' ]

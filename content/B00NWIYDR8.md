@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Oval Single Estuche  22 cm  Gris' al 27.833333333333332 % de descuento
+title: 'Eastpak Oval Single Estuche  22 cm  Gris al 27.833333333333332 % de descuento'
 date: 2020-01-19 15:33:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41daIPruhaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41daIPruhaL._SL200_.jpg' ]

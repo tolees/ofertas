@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.85201793721973 % en 'Karactermania The Avengers Force-Basic R'
+title: 'Descuento del 40.85201793721973 % en Karactermania The Avengers Force-Basic R'
 date: 2019/10/13 15:38:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iKJ0qio0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iKJ0qio0L._SL200_.jpg' ]

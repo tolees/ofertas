@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Courtvantage Cutout W  Zapatillas' al 74.39719859929966 % de descuento
+title: 'adidas Courtvantage Cutout W  Zapatillas al 74.39719859929966 % de descuento'
 date: 2019/11/01 19:47:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iEXYaqCUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iEXYaqCUL._SL200_.jpg' ]

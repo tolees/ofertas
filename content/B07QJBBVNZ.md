@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ROYAL SLEEP Canapé Abatible  105x190  de' al 50.3563829787234 % de descuento
+title: 'ROYAL SLEEP Canapé Abatible  105x190  de al 50.3563829787234 % de descuento'
 date: 2020-01-12 11:37:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417gZV4f3mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417gZV4f3mL._SL200_.jpg' ]

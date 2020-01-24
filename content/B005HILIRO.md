@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rosa Faia - Sujetador sin costuras para ' al 27.91377983063895 % de descuento
+title: 'Rosa Faia - Sujetador sin costuras para  al 27.91377983063895 % de descuento'
 date: 2019/10/29 14:06:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WFxkhXwJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WFxkhXwJL._SL200_.jpg' ]

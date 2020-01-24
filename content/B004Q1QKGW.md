@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kelo-Cote Gel de silicona para el tratam' al 48.75736612861902 % de descuento
+title: 'Kelo-Cote Gel de silicona para el tratam al 48.75736612861902 % de descuento'
 date: 2019/12/21 18:55:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zsecLcqCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zsecLcqCL._SL200_.jpg' ]

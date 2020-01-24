@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00625078134766 % en 'Tacklife Sierra de Calar  Caladora  Cabl'
+title: 'Descuento del 50.00625078134766 % en Tacklife Sierra de Calar  Caladora  Cabl'
 date: 2020-01-08 12:17:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419Zi0FuzkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419Zi0FuzkL._SL200_.jpg' ]

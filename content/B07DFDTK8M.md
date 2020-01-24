@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop Power Rangers Figura de Vinilo' al 59.53177257525084 % de descuento
+title: 'Funko Pop Power Rangers Figura de Vinilo al 59.53177257525084 % de descuento'
 date: 2019/12/13 12:49:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pRygj3KCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pRygj3KCL._SL200_.jpg' ]

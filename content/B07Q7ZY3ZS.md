@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amilril Collar  Plata de Ley 925 Moda Jo' al 90.0163666121113 % de descuento
+title: 'Amilril Collar  Plata de Ley 925 Moda Jo al 90.0163666121113 % de descuento'
 date: 2020-01-02 09:34:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VcyEhp%2B-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VcyEhp%2B-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.47244094488189 % en 'TRANGO Keva Pantalones Cortos  Mujer  Ro'
+title: 'Descuento del 46.47244094488189 % en TRANGO Keva Pantalones Cortos  Mujer  Ro'
 date: 2019/11/15 15:53:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417-mjUUs1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417-mjUUs1L._SL200_.jpg' ]

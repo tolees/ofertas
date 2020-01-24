@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TURATA Bolsas de Bicicleta  Bolsa Imperm' al 36.4402317008952 % de descuento
+title: 'TURATA Bolsas de Bicicleta  Bolsa Imperm al 36.4402317008952 % de descuento'
 date: 2019/10/09 05:44:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oO8eWmN9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oO8eWmN9L._SL200_.jpg' ]

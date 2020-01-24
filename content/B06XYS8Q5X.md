@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bang & Olufsen Beoplay P2 Bluetooth-Laut' al 43.42857142857143 % de descuento
+title: 'Bang & Olufsen Beoplay P2 Bluetooth-Laut al 43.42857142857143 % de descuento'
 date: 2019/12/03 23:04:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M-tdOR36L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M-tdOR36L._SL200_.jpg' ]

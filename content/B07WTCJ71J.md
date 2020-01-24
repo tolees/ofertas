@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 81.008100810081 % en 'BRIKSMAX Led Lighting Kit for Creator 3i'
+title: 'Descuento del 81.008100810081 % en BRIKSMAX Led Lighting Kit for Creator 3i'
 date: 2019/12/31 06:05:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ztZcNk75L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ztZcNk75L._SL200_.jpg' ]

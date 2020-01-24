@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NV Compression Race and Recover Calentad' al 50.90036014405762 % de descuento
+title: 'NV Compression Race and Recover Calentad al 50.90036014405762 % de descuento'
 date: 2019/12/18 19:15:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XaT0uOZpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XaT0uOZpL._SL200_.jpg' ]

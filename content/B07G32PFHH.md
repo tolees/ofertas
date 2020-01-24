@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enchufe wifi inteligente  Mini Smart plu' al 38.44827586206897 % de descuento
+title: 'Enchufe wifi inteligente  Mini Smart plu al 38.44827586206897 % de descuento'
 date: 2019/10/24 20:50:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313wvb3-%2BPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313wvb3-%2BPL._SL200_.jpg' ]

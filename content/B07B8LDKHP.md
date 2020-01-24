@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Decdeal - Bolsa Térmica Gruesa de Gran C' al 38.59899928520372 % de descuento
+title: 'Decdeal - Bolsa Térmica Gruesa de Gran C al 38.59899928520372 % de descuento'
 date: 2019/10/14 09:59:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i8RJ%2BA6LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i8RJ%2BA6LL._SL200_.jpg' ]

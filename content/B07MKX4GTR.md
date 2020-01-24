@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.93700250170571 % en 'AECCN Telescopio Monocular-12X50 monocul'
+title: 'Descuento del 40.93700250170571 % en AECCN Telescopio Monocular-12X50 monocul'
 date: 2020-01-07 15:10:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yEc0hFuNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yEc0hFuNL._SL200_.jpg' ]

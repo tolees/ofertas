@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.58531008859674 % en 'Calcetines de Dedos Mujer Calcetines Cin'
+title: 'Descuento del 48.58531008859674 % en Calcetines de Dedos Mujer Calcetines Cin'
 date: 2019/12/14 12:11:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iUljkbRoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iUljkbRoL._SL200_.jpg' ]

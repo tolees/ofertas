@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.99280575539568 % en 'Timberland Eastham Fall Windbre Tim Impe'
+title: 'Descuento del 67.99280575539568 % en Timberland Eastham Fall Windbre Tim Impe'
 date: 2019/11/15 23:32:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nko%2BHUrmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nko%2BHUrmL._SL200_.jpg' ]

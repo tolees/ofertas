@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Straight Vaqueros  Mediu' al 34.22259274697791 % de descuento
+title: 'G-STAR RAW 3301 Straight Vaqueros  Mediu al 34.22259274697791 % de descuento'
 date: 2019/12/25 12:43:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NiBLDM4vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NiBLDM4vL._SL200_.jpg' ]

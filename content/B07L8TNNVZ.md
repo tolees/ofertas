@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ANGEL NINA Regalos Navidad Mujer collare' al 74.00740074007402 % de descuento
+title: 'ANGEL NINA Regalos Navidad Mujer collare al 74.00740074007402 % de descuento'
 date: 2019/11/09 12:06:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jegVqAOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jegVqAOPL._SL200_.jpg' ]

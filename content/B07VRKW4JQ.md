@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'INTEY Bolsa Estanca  10L/20L Bolsa Imper' al 57.514378594648676 % de descuento
+title: 'INTEY Bolsa Estanca  10L/20L Bolsa Imper al 57.514378594648676 % de descuento'
 date: 2019/10/06 22:35:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RooUaDzoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RooUaDzoL._SL200_.jpg' ]

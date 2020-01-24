@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Giulian Camisa   Check C01   4' al 56.531645569620245 % de descuento
+title: 'Napapijri Giulian Camisa   Check C01   4 al 56.531645569620245 % de descuento'
 date: 2019/12/10 15:25:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WtOK%2BDoEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WtOK%2BDoEL._SL200_.jpg' ]

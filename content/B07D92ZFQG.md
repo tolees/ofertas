@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scalpers Hudson Parka Paño Navy Chaqueta' al 45.41048034934497 % de descuento
+title: 'Scalpers Hudson Parka Paño Navy Chaqueta al 45.41048034934497 % de descuento'
 date: 2019/10/09 10:05:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41llqUAHHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41llqUAHHEL._SL200_.jpg' ]

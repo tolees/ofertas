@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee SS Western Camisa  Marfil  Bright Re' al 68.38838838838839 % de descuento
+title: 'Lee SS Western Camisa  Marfil  Bright Re al 68.38838838838839 % de descuento'
 date: 2019/12/05 06:26:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T-QwhgJaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T-QwhgJaL._SL200_.jpg' ]

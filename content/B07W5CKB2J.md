@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Harry' al 50.01000200040009 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for LEGO Harry al 50.01000200040009 % de descuento'
 date: 2020-01-20 10:40:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517HtVRu%2B4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517HtVRu%2B4L._SL200_.jpg' ]

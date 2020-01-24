@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Hi Lite-Glitz-n-Glam  Zapatilla' al 60.43676069153776 % de descuento
+title: 'Skechers Hi Lite-Glitz-n-Glam  Zapatilla al 60.43676069153776 % de descuento'
 date: 2019/10/18 19:23:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a8rjHkoVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a8rjHkoVL._SL200_.jpg' ]

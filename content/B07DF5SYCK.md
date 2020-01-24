@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.70882971268396 % en 'Adidas SAMBAROSE W  Zapatillas de Deport'
+title: 'Descuento del 38.70882971268396 % en Adidas SAMBAROSE W  Zapatillas de Deport'
 date: 2019/11/09 21:55:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SxR%2BbgSML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SxR%2BbgSML._SL200_.jpg' ]

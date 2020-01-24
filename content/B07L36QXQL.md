@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Colored Stripes Wedge San' al 78.27862289831866 % de descuento
+title: 'Tommy Hilfiger Colored Stripes Wedge San al 78.27862289831866 % de descuento'
 date: 2019/11/19 12:59:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-YPp-7rQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-YPp-7rQL._SL200_.jpg' ]

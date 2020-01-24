@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wilson - Overgrip para raqueta de tenis ' al 35.857142857142854 % de descuento
+title: 'Wilson - Overgrip para raqueta de tenis  al 35.857142857142854 % de descuento'
 date: 2019/12/31 10:16:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gUcqd8MbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gUcqd8MbL._SL200_.jpg' ]

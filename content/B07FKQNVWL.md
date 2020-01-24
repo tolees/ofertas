@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.44221105527639 % en 'Apple Funda de piel  para el MacBook Pro'
+title: 'Descuento del 49.44221105527639 % en Apple Funda de piel  para el MacBook Pro'
 date: 2019/10/31 06:48:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ijVXirLzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ijVXirLzL._SL200_.jpg' ]

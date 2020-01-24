@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.49146078593932 % en 'Michelin 801671 - Bomba de pie  8 Bar'
+title: 'Descuento del 56.49146078593932 % en Michelin 801671 - Bomba de pie  8 Bar'
 date: 2019/10/31 17:02:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v8c0hpKjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31v8c0hpKjL._SL200_.jpg' ]

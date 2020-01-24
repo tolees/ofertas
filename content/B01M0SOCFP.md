@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.59226629839516 % en 'Seagate Backup Plus Slim - Disco duro ex'
+title: 'Descuento del 37.59226629839516 % en Seagate Backup Plus Slim - Disco duro ex'
 date: 2019/10/11 21:53:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LXA1EHt4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LXA1EHt4L._SL200_.jpg' ]

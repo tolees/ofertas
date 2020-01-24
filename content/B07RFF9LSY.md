@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cable de Carga para iPhone con Certifica' al 57.170080990948065 % de descuento
+title: 'Cable de Carga para iPhone con Certifica al 57.170080990948065 % de descuento'
 date: 2020-01-12 23:43:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51efPsr3L6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51efPsr3L6L._SL200_.jpg' ]

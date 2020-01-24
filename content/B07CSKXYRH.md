@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGE Relojes Hombres Cronógrafo Impermea' al 67.78530947883098 % de descuento
+title: 'LIGE Relojes Hombres Cronógrafo Impermea al 67.78530947883098 % de descuento'
 date: 2019/10/22 14:29:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61RzEg-KmuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61RzEg-KmuL._SL200_.jpg' ]

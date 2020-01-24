@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.050000000000004 % en 'find. - Slim Formal - Pantalones de Traj'
+title: 'Descuento del 47.050000000000004 % en find. - Slim Formal - Pantalones de Traj'
 date: 2019/12/08 09:36:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PGPinVjtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PGPinVjtL._SL200_.jpg' ]

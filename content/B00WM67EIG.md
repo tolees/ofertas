@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.33078281341966 % en 'Puma Suede Classic +  Zapatillas Unisex '
+title: 'Descuento del 62.33078281341966 % en Puma Suede Classic +  Zapatillas Unisex '
 date: 2019/11/26 18:39:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yAoLxwL4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yAoLxwL4L._SL200_.jpg' ]

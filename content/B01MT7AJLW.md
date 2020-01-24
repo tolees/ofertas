@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony XB950B1 Extra Bass  Auriculares Ina' al 53.059999999999995 % de descuento
+title: 'Sony XB950B1 Extra Bass  Auriculares Ina al 53.059999999999995 % de descuento'
 date: 2020-01-21 21:40:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fOLzDYK3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fOLzDYK3L._SL200_.jpg' ]

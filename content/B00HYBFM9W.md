@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Britney Spears Fantasy The Nice Remix Pe' al 47.93713163064833 % de descuento
+title: 'Britney Spears Fantasy The Nice Remix Pe al 47.93713163064833 % de descuento'
 date: 2019/11/10 14:47:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416FgCNQJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416FgCNQJ4L._SL200_.jpg' ]

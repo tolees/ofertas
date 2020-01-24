@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Psicosis  Oring Halloween 2019   BD  [Bl' al 50.050050050050054 % de descuento
+title: 'Psicosis  Oring Halloween 2019   BD  [Bl al 50.050050050050054 % de descuento'
 date: 2019/11/26 21:43:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uKPEaxTyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uKPEaxTyL._SL200_.jpg' ]

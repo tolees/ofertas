@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.56666666666666 % en 'New Balance Fresh Foam Roav  Zapatillas '
+title: 'Descuento del 72.56666666666666 % en New Balance Fresh Foam Roav  Zapatillas '
 date: 2019/12/23 22:58:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j2z8KBvtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j2z8KBvtL._SL200_.jpg' ]

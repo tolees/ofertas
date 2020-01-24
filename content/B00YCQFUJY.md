@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.277686852154936 % en 'VTech - Supergaraje  Tut Tut Bólidos  In'
+title: 'Descuento del 27.277686852154936 % en VTech - Supergaraje  Tut Tut Bólidos  In'
 date: 2019/10/31 13:34:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510aAnpsX%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510aAnpsX%2BL._SL200_.jpg' ]

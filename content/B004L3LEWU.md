@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SFA 0046 SaniCondens Pro - Bomba de cond' al 41.652034506450875 % de descuento
+title: 'SFA 0046 SaniCondens Pro - Bomba de cond al 41.652034506450875 % de descuento'
 date: 2019/11/13 18:41:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P1FEYFj9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P1FEYFj9L._SL200_.jpg' ]

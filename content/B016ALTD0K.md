@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant 3-Pack Trunk  Camiseta sin Mangas p' al 50.23755938984746 % de descuento
+title: 'Gant 3-Pack Trunk  Camiseta sin Mangas p al 50.23755938984746 % de descuento'
 date: 2019/10/26 11:57:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vGeg4bkeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vGeg4bkeL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00416701391782 % en 'Tidylife Freidora sin Aceite  3.5L Progr'
+title: 'Descuento del 50.00416701391782 % en Tidylife Freidora sin Aceite  3.5L Progr'
 date: 2019/11/27 13:20:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gcuiAxNpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gcuiAxNpL._SL200_.jpg' ]

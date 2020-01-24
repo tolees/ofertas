@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Botines Superior Desgastada para H' al 70.0 % de descuento
+title: 'find. Botines Superior Desgastada para H al 70.0 % de descuento'
 date: 2019/10/18 09:16:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ctE3Xld4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ctE3Xld4L._SL200_.jpg' ]

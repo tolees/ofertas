@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Finsbury Pm200338 Vaqueros Sk' al 68.12013348164628 % de descuento
+title: 'Pepe Jeans Finsbury Pm200338 Vaqueros Sk al 68.12013348164628 % de descuento'
 date: 2019/11/18 22:19:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dS4rjP96L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dS4rjP96L._SL200_.jpg' ]

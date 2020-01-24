@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.3 % en 'Under Armour 1320610 UA Slim Leg Crop - '
+title: 'Descuento del 61.3 % en Under Armour 1320610 UA Slim Leg Crop - '
 date: 2019/10/18 03:39:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pYVWCGeeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pYVWCGeeL._SL200_.jpg' ]

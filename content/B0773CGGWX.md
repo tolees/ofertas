@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Canyon Point Mid  Zapatos Imper' al 43.29164297896533 % de descuento
+title: 'Columbia Canyon Point Mid  Zapatos Imper al 43.29164297896533 % de descuento'
 date: 2019/11/24 19:11:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51afixMbIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51afixMbIwL._SL200_.jpg' ]

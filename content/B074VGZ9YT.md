@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.400000000000006 % en 'HUGO Zaira Belt 3 Cm-zl Cinturón  Medium'
+title: 'Descuento del 55.400000000000006 % en HUGO Zaira Belt 3 Cm-zl Cinturón  Medium'
 date: 2019/10/29 20:11:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vrULo9x8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vrULo9x8L._SL200_.jpg' ]

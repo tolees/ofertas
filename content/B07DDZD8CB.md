@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Mawenzi Pant. Largo  Mujer  ' al 50.41701417848207 % de descuento
+title: 'Trangoworld Mawenzi Pant. Largo  Mujer   al 50.41701417848207 % de descuento'
 date: 2019/11/08 16:26:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kiB6lMDRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kiB6lMDRL._SL200_.jpg' ]

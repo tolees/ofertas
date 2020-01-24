@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler High Rise Skinny Vaqueros  Azul' al 54.69705391884381 % de descuento
+title: 'Wrangler High Rise Skinny Vaqueros  Azul al 54.69705391884381 % de descuento'
 date: 2019/12/28 09:54:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y6gCSf-HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y6gCSf-HL._SL200_.jpg' ]

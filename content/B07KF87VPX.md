@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.183333333333326 % en 'Levi s Graphic Crew B Sudadera  Blanco  '
+title: 'Descuento del 29.183333333333326 % en Levi s Graphic Crew B Sudadera  Blanco  '
 date: 2020-01-21 07:15:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a0fDnxr7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a0fDnxr7L._SL200_.jpg' ]

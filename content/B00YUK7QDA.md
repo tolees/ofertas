@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brooks Brothers Sport Non-Iron Oxford Sl' al 55.74399999999999 % de descuento
+title: 'Brooks Brothers Sport Non-Iron Oxford Sl al 55.74399999999999 % de descuento'
 date: 2019/10/13 12:03:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aEHvSvQpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aEHvSvQpL._SL200_.jpg' ]

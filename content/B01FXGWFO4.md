@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Tech Pant Pantalón de Golf ' al 81.06153846153846 % de descuento
+title: 'Under Armour Tech Pant Pantalón de Golf  al 81.06153846153846 % de descuento'
 date: 2019/10/24 23:33:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rP7je2azL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rP7je2azL._SL200_.jpg' ]

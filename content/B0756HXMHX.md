@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tiny Love 3 in 1 Close to Me Bouncer - B' al 38.631284916201125 % de descuento
+title: 'Tiny Love 3 in 1 Close to Me Bouncer - B al 38.631284916201125 % de descuento'
 date: 2020-01-18 22:48:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PQTY4KL7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PQTY4KL7L._SL200_.jpg' ]

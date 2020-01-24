@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EVGA SuperNOVA 750 G3  80 Plus Gold 750W' al 25.716122580184308 % de descuento
+title: 'EVGA SuperNOVA 750 G3  80 Plus Gold 750W al 25.716122580184308 % de descuento'
 date: 2020-01-17 07:44:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512pcBwiPWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512pcBwiPWL._SL200_.jpg' ]

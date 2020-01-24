@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.168861347792415 % en 'Salsa'
+title: 'Descuento del 52.168861347792415 % en Salsa'
 date: 2019/10/30 20:18:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21m6gvEUZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21m6gvEUZBL._SL200_.jpg' ]

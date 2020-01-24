@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Condis 95 Piezas Bloques de Construcción' al 50.00833472245374 % de descuento
+title: 'Condis 95 Piezas Bloques de Construcción al 50.00833472245374 % de descuento'
 date: 2020-01-24 10:22:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/61GWVccHSOL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61GWVccHSOL._AC_._SL200_.jpg' ]

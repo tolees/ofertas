@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Cali Nubuck  Zapatillas Deportivas ' al 54.98749374687344 % de descuento
+title: 'Puma Cali Nubuck  Zapatillas Deportivas  al 54.98749374687344 % de descuento'
 date: 2019/10/18 05:36:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317vyN4IDlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317vyN4IDlL._SL200_.jpg' ]

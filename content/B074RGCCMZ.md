@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.9307279125764 % en 'Yogurtera Aicok Yoghurt Hecho en Casa 8 '
+title: 'Descuento del 25.9307279125764 % en Yogurtera Aicok Yoghurt Hecho en Casa 8 '
 date: 2020-01-24 12:15:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ovixXEMvL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ovixXEMvL._AC_._SL200_.jpg' ]

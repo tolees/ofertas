@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bébé Confort TITÁN  Nomad Black   Silla ' al 31.73092369477911 % de descuento
+title: 'Bébé Confort TITÁN  Nomad Black   Silla  al 31.73092369477911 % de descuento'
 date: 2020-01-13 21:08:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YFXeGKHzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YFXeGKHzL._SL200_.jpg' ]

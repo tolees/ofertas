@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0034281796366 % en 'Object Objbay 3/4 Top Noos Blusa  Azul S'
+title: 'Descuento del 70.0034281796366 % en Object Objbay 3/4 Top Noos Blusa  Azul S'
 date: 2019/12/16 16:04:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jhpp7gOYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jhpp7gOYL._SL200_.jpg' ]

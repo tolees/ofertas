@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Robot aspirador con función WLAN  Dcenta' al 46.15562137005269 % de descuento
+title: 'Robot aspirador con función WLAN  Dcenta al 46.15562137005269 % de descuento'
 date: 2019/11/29 18:12:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mk7ElShYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mk7ElShYL._SL200_.jpg' ]

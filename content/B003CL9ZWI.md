@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP C9363EE 344 Cartucho de Tinta Origina' al 25.07492507492508 % de descuento
+title: 'HP C9363EE 344 Cartucho de Tinta Origina al 25.07492507492508 % de descuento'
 date: 2020-01-01 10:36:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515vV2c9cPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515vV2c9cPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unno DIM Basic Lote X4 Boxer Sin Costura' al 46.38748274275195 % de descuento
+title: 'Unno DIM Basic Lote X4 Boxer Sin Costura al 46.38748274275195 % de descuento'
 date: 2019/10/24 23:53:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hQTlu1dvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hQTlu1dvL._SL200_.jpg' ]

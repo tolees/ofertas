@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.68948247078465 % en 'G-STAR RAW Civita Slim T-Shirt Camiseta '
+title: 'Descuento del 53.68948247078465 % en G-STAR RAW Civita Slim T-Shirt Camiseta '
 date: 2019/12/07 19:13:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ac4j4wKqL._SL200_.jpg' ]

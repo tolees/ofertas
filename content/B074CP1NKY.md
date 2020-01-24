@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lorus Reloj Cronógrafo para Hombre de Cu' al 53.535353535353536 % de descuento
+title: 'Lorus Reloj Cronógrafo para Hombre de Cu al 53.535353535353536 % de descuento'
 date: 2019/10/22 10:32:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uD42MS%2BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uD42MS%2BJL._SL200_.jpg' ]

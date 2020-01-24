@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.83999999999999 % en 'Puma Zapatillas Negro EU 37'
+title: 'Descuento del 73.83999999999999 % en Puma Zapatillas Negro EU 37'
 date: 2019/11/22 07:33:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31crac3dpaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31crac3dpaL._SL200_.jpg' ]

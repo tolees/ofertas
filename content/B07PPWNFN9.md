@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.01563477173233 % en 'Anoopsyche Rodillera Deportiva  Ajustabl'
+title: 'Descuento del 25.01563477173233 % en Anoopsyche Rodillera Deportiva  Ajustabl'
 date: 2020-01-18 15:03:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EC5vaIdqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EC5vaIdqL._SL200_.jpg' ]

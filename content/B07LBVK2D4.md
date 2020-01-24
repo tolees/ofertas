@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Fixed Triangle-rp Parte de ' al 49.150000000000006 % de descuento
+title: 'Calvin Klein Fixed Triangle-rp Parte de  al 49.150000000000006 % de descuento'
 date: 2019/11/20 10:26:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vAek5dpjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vAek5dpjL._SL200_.jpg' ]

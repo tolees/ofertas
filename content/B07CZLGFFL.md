@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Charged Cotton 6In 3 Pack R' al 30.02263012320846 % de descuento
+title: 'Under Armour Charged Cotton 6In 3 Pack R al 30.02263012320846 % de descuento'
 date: 2019/12/04 16:22:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q43xdGxoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q43xdGxoL._SL200_.jpg' ]

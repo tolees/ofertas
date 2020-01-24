@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.006251562890736 % en 'Creative BT-W2 - Transceptor de Audio Bl'
+title: 'Descuento del 25.006251562890736 % en Creative BT-W2 - Transceptor de Audio Bl'
 date: 2019/10/06 17:07:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vd5gmgNVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vd5gmgNVL._SL200_.jpg' ]

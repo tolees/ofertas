@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Western Shirt Camisa  Heather Blue L' al 67.34666666666666 % de descuento
+title: 'Lee Western Shirt Camisa  Heather Blue L al 67.34666666666666 % de descuento'
 date: 2020-01-19 10:23:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uzMVJ3LiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uzMVJ3LiL._SL200_.jpg' ]

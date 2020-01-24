@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.13188647746243 % en 'Tommy Hilfiger H2285ARLOW 1D  Zapatillas'
+title: 'Descuento del 29.13188647746243 % en Tommy Hilfiger H2285ARLOW 1D  Zapatillas'
 date: 2019/10/29 20:07:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312DWphR%2BhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312DWphR%2BhL._SL200_.jpg' ]

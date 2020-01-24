@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'H.Koenig Vinoteca 12 Botellas  Pequeña  ' al 50.14749262536873 % de descuento
+title: 'H.Koenig Vinoteca 12 Botellas  Pequeña   al 50.14749262536873 % de descuento'
 date: 2019/12/16 06:07:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gBCFKHx4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gBCFKHx4L._SL200_.jpg' ]

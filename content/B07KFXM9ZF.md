@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Vikky Stacked SD  Zapatillas para M' al 44.42035029190993 % de descuento
+title: 'PUMA Vikky Stacked SD  Zapatillas para M al 44.42035029190993 % de descuento'
 date: 2019/12/05 03:35:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313KtcTtFTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313KtcTtFTL._SL200_.jpg' ]

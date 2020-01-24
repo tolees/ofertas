@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler SS Modern Western SH Camisa  Ve' al 83.98544131028207 % de descuento
+title: 'Wrangler SS Modern Western SH Camisa  Ve al 83.98544131028207 % de descuento'
 date: 2019/10/16 10:10:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dMyiXv2SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dMyiXv2SL._SL200_.jpg' ]

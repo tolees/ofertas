@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.012506253126553 % en 'Termometro Infrarrojos laser - AUELEK Pr'
+title: 'Descuento del 25.012506253126553 % en Termometro Infrarrojos laser - AUELEK Pr'
 date: 2020-01-21 19:22:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tjAT1O-1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tjAT1O-1L._SL200_.jpg' ]

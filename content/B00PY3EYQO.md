@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.085617123424676 % en 'LEGO Classic - Caja de ladrillos creativ'
+title: 'Descuento del 28.085617123424676 % en LEGO Classic - Caja de ladrillos creativ'
 date: 2020-01-01 23:49:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ch-pdomML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ch-pdomML._SL200_.jpg' ]

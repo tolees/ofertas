@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Gyre Camiseta   Khaki/Army Gr' al 69.88735919899875 % de descuento
+title: 'G-STAR RAW Gyre Camiseta   Khaki/Army Gr al 69.88735919899875 % de descuento'
 date: 2019/10/15 19:38:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41b6gER%2BTPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41b6gER%2BTPL._SL200_.jpg' ]

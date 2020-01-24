@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mandolina de Cocina 13 en 1 Cortador Fru' al 44.90712390283732 % de descuento
+title: 'Mandolina de Cocina 13 en 1 Cortador Fru al 44.90712390283732 % de descuento'
 date: 2019/10/13 18:20:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wgHc19i9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wgHc19i9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.725545109021798 % en 'Cortefiel C2Bck 5 Bolsillos Estruct Pant'
+title: 'Descuento del 27.725545109021798 % en Cortefiel C2Bck 5 Bolsillos Estruct Pant'
 date: 2019/11/26 02:05:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31K9WtO6nQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31K9WtO6nQL._SL200_.jpg' ]

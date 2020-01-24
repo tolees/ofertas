@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.552395997893626 % en 'Bluetooth Earphones Syncwire Wireless He'
+title: 'Descuento del 49.552395997893626 % en Bluetooth Earphones Syncwire Wireless He'
 date: 2019/11/05 19:24:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4107tldOj4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4107tldOj4L._SL200_.jpg' ]

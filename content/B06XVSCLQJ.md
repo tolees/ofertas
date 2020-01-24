@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rabbitgoo Arnes Perro Antitirones Extra ' al 29.041626331074543 % de descuento
+title: 'Rabbitgoo Arnes Perro Antitirones Extra  al 29.041626331074543 % de descuento'
 date: 2019/10/10 12:28:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N9aMSCsKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N9aMSCsKL._SL200_.jpg' ]

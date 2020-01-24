@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia Bo Touch Bin Cubo de Basura  N' al 30.000000000000004 % de descuento
+title: 'Brabantia Bo Touch Bin Cubo de Basura  N al 30.000000000000004 % de descuento'
 date: 2019/10/27 14:06:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aZh5ABuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aZh5ABuYL._SL200_.jpg' ]

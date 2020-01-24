@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Filamento PLA Plus de la impresora SUNLU' al 55.01375343835959 % de descuento
+title: 'Filamento PLA Plus de la impresora SUNLU al 55.01375343835959 % de descuento'
 date: 2019/10/13 09:08:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C5CS5MsIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C5CS5MsIL._SL200_.jpg' ]

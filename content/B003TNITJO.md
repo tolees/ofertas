@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.4516129032258 % en 'Hugo Boss Bottled Night Eau de Toilette '
+title: 'Descuento del 46.4516129032258 % en Hugo Boss Bottled Night Eau de Toilette '
 date: 2019/11/06 09:41:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415xNkimfuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415xNkimfuL._SL200_.jpg' ]

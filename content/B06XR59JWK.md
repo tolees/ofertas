@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch UniversalImpact 700 - Taladro Perc' al 36.0936093609361 % de descuento
+title: 'Bosch UniversalImpact 700 - Taladro Perc al 36.0936093609361 % de descuento'
 date: 2020-01-01 15:24:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41h-du7UbHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41h-du7UbHL._SL200_.jpg' ]

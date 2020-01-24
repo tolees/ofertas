@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEABAGS London Bolso Bandolera de autént' al 70.59135039717563 % de descuento
+title: 'LEABAGS London Bolso Bandolera de autént al 70.59135039717563 % de descuento'
 date: 2019/12/08 08:31:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RGby0OQNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RGby0OQNL._SL200_.jpg' ]

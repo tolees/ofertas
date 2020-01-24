@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.18528957177926 % en 'APEMAN A80 Cámara Deportiva 4K WiFi 20MP'
+title: 'Descuento del 38.18528957177926 % en APEMAN A80 Cámara Deportiva 4K WiFi 20MP'
 date: 2020-01-12 09:16:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512gtIU7U1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512gtIU7U1L._SL200_.jpg' ]

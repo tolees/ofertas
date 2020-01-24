@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WisFox Explosion Box  Creativo DIY Hecho' al 33.34444814938313 % de descuento
+title: 'WisFox Explosion Box  Creativo DIY Hecho al 33.34444814938313 % de descuento'
 date: 2019/12/28 12:13:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61bbPcf4F1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61bbPcf4F1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Striped 15 Camiseta de Equipación' al 30.200000000000003 % de descuento
+title: 'adidas Striped 15 Camiseta de Equipación al 30.200000000000003 % de descuento'
 date: 2019/11/03 21:53:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U35mT48EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U35mT48EL._SL200_.jpg' ]

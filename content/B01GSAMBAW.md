@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.85433280170122 % en 'Camiseta de deporte para mujer  para gim'
+title: 'Descuento del 53.85433280170122 % en Camiseta de deporte para mujer  para gim'
 date: 2019/10/19 21:33:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qsTpcOJjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qsTpcOJjL._SL200_.jpg' ]

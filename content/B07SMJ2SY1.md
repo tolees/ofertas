@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.01000250062516 % en 'Double Pack: Far Cry 4 + Far Cry 5'
+title: 'Descuento del 40.01000250062516 % en Double Pack: Far Cry 4 + Far Cry 5'
 date: 2020-01-16 17:36:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61UD-VTK2AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61UD-VTK2AL._SL200_.jpg' ]

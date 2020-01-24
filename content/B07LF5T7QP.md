@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.085714285714275 % en 'Levi s SS Color Block tee Camiseta  Mult'
+title: 'Descuento del 63.085714285714275 % en Levi s SS Color Block tee Camiseta  Mult'
 date: 2020-01-04 13:35:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RfRtBNxtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RfRtBNxtL._SL200_.jpg' ]

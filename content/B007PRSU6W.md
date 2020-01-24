@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lg Agf200Dr - Gafas 3D' al 31.164658634538146 % de descuento
+title: 'Lg Agf200Dr - Gafas 3D al 31.164658634538146 % de descuento'
 date: 2019/10/17 06:11:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UzBE%2BX1nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UzBE%2BX1nL._SL200_.jpg' ]

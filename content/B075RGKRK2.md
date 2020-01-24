@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.827524575513856 % en 'GORE WEAR R5 Mallas cortas de running pa'
+title: 'Descuento del 46.827524575513856 % en GORE WEAR R5 Mallas cortas de running pa'
 date: 2020-01-24 10:40:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419PeDhYYKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419PeDhYYKL._SL200_.jpg' ]

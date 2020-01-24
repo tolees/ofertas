@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Candy 33801786 Encimeras De Cocción   Co' al 30.79904306220096 % de descuento
+title: 'Candy 33801786 Encimeras De Cocción   Co al 30.79904306220096 % de descuento'
 date: 2019/12/02 14:32:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s1sNXoKJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s1sNXoKJL._SL200_.jpg' ]

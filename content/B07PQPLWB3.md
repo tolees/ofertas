@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '4K Cable HDMI 2 metros  2.0 Cable HDMI U' al 57.92522380200105 % de descuento
+title: '4K Cable HDMI 2 metros  2.0 Cable HDMI U al 57.92522380200105 % de descuento'
 date: 2020-01-17 12:37:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X4cvmpyWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X4cvmpyWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics Adventure - Mochila para po' al 50.013590649633045 % de descuento
+title: 'AmazonBasics Adventure - Mochila para po al 50.013590649633045 % de descuento'
 date: 2019/11/28 11:03:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KTRpZFBpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KTRpZFBpL._SL200_.jpg' ]

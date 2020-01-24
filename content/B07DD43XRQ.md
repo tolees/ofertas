@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Parka Chaqueta  Azul  Navy   46  T' al 36.30882352941176 % de descuento
+title: 'find. Parka Chaqueta  Azul  Navy   46  T al 36.30882352941176 % de descuento'
 date: 2019/12/07 13:31:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bZCjV11kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bZCjV11kL._SL200_.jpg' ]

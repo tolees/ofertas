@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Big and Tall B&t Graphic tee Cami' al 63.12 % de descuento
+title: 'Levi s Big and Tall B&t Graphic tee Cami al 63.12 % de descuento'
 date: 2019/10/29 19:11:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N4Vk6gh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N4Vk6gh%2BL._SL200_.jpg' ]

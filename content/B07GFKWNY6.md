@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Botellero para vinos de 4' al 27.62545266425246 % de descuento
+title: 'AmazonBasics - Botellero para vinos de 4 al 27.62545266425246 % de descuento'
 date: 2020-01-17 19:54:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RvPIwvZVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RvPIwvZVL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Genius DX-110 - Ratón' al 46.8 % de descuento
+title: 'Genius DX-110 - Ratón al 46.8 % de descuento'
 date: 2019/12/01 19:55:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BME0%2BGnyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BME0%2BGnyL._SL200_.jpg' ]

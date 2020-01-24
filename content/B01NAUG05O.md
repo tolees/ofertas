@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sylvanian Families Toy Poodle Baby' al 41.56928213689483 % de descuento
+title: 'Sylvanian Families Toy Poodle Baby al 41.56928213689483 % de descuento'
 date: 2019/12/26 17:25:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qJdCX8p8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qJdCX8p8L._SL200_.jpg' ]

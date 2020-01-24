@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bolsa de Almacenamiento de Juguetes para' al 52.79244234509587 % de descuento
+title: 'Bolsa de Almacenamiento de Juguetes para al 52.79244234509587 % de descuento'
 date: 2020-01-01 18:56:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vUKGJRhAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vUKGJRhAL._SL200_.jpg' ]

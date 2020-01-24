@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IWEMEK Disfraz Elsa Frozen 2 Vestido de ' al 59.54634756206466 % de descuento
+title: 'IWEMEK Disfraz Elsa Frozen 2 Vestido de  al 59.54634756206466 % de descuento'
 date: 2020-01-24 10:12:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ed2AveozL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ed2AveozL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dusk Diver - Day One Edition pour PS4' al 28.085617123424676 % de descuento
+title: 'Dusk Diver - Day One Edition pour PS4 al 28.085617123424676 % de descuento'
 date: 2019/12/11 23:34:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ju-7poajL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ju-7poajL._SL200_.jpg' ]

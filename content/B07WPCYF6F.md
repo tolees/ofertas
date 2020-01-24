@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for Frozen Els' al 73.007300730073 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for Frozen Els al 73.007300730073 % de descuento'
 date: 2019/12/24 08:28:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HionmCY5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HionmCY5L._SL200_.jpg' ]

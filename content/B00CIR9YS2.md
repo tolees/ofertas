@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.96039603960396 % en 'Polesie Wader - Vehículo de Juguete  381'
+title: 'Descuento del 43.96039603960396 % en Polesie Wader - Vehículo de Juguete  381'
 date: 2020-01-20 16:08:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sY4mRhdbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sY4mRhdbL._SL200_.jpg' ]

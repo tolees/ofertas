@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Deconstructed Mid Waist ' al 65.79289644822411 % de descuento
+title: 'G-STAR RAW 3301 Deconstructed Mid Waist  al 65.79289644822411 % de descuento'
 date: 2019/10/08 20:29:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uDmEQj86L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uDmEQj86L._SL200_.jpg' ]

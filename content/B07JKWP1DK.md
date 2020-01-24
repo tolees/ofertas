@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL City Life 70016 Mein Blumenlad' al 41.085271317829466 % de descuento
+title: 'PLAYMOBIL City Life 70016 Mein Blumenlad al 41.085271317829466 % de descuento'
 date: 2020-01-23 17:57:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pTZDsweaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pTZDsweaL._SL200_.jpg' ]

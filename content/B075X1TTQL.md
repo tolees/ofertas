@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. NEWSTW045 vaqueros mujer  Azul  In' al 60.0 % de descuento
+title: 'find. NEWSTW045 vaqueros mujer  Azul  In al 60.0 % de descuento'
 date: 2020-01-03 13:31:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hy1uUH7-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hy1uUH7-L._SL200_.jpg' ]

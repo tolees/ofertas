@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.985507246376805 % en 'Converse As Hi Can Optic. Wht  Zapatilla'
+title: 'Descuento del 28.985507246376805 % en Converse As Hi Can Optic. Wht  Zapatilla'
 date: 2019/12/05 00:23:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qfr7PPBUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qfr7PPBUL._SL200_.jpg' ]

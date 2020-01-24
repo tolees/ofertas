@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frozen 2 Top Trumps Match Board Game' al 37.460913070669164 % de descuento
+title: 'Frozen 2 Top Trumps Match Board Game al 37.460913070669164 % de descuento'
 date: 2020-01-01 14:15:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T5-nBegGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T5-nBegGL._SL200_.jpg' ]

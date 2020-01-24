@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Mile High Super Skinny Vaqueros  ' al 43.21818181818182 % de descuento
+title: 'Levi s Mile High Super Skinny Vaqueros   al 43.21818181818182 % de descuento'
 date: 2019/12/11 12:18:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410akwKwHIL._SL200_.jpg' ]

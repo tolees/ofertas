@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Activewear Camiseta Ciclismo de Manga Co' al 70.0 % de descuento
+title: 'Activewear Camiseta Ciclismo de Manga Co al 70.0 % de descuento'
 date: 2019/12/10 00:40:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416aYPTkAcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416aYPTkAcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Impresora láser multifunción color Canon' al 28.166721919170612 % de descuento
+title: 'Impresora láser multifunción color Canon al 28.166721919170612 % de descuento'
 date: 2019/11/10 15:08:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UvP-4%2BDlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UvP-4%2BDlL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Paddy Pro Polo  Azul  Dark Blue 407' al 53.162312330062655 % de descuento
+title: 'BOSS Paddy Pro Polo  Azul  Dark Blue 407 al 53.162312330062655 % de descuento'
 date: 2019/10/16 10:36:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kpwLrpFqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kpwLrpFqL._SL200_.jpg' ]

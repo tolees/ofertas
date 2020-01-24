@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Syberia 3' al 40.008001600320064 % de descuento
+title: 'Syberia 3 al 40.008001600320064 % de descuento'
 date: 2019/10/28 09:14:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d7C2UcOhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d7C2UcOhL._SL200_.jpg' ]

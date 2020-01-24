@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRA Advanced Cacerola 24 cm  Aluminio Fu' al 25.005435964340073 % de descuento
+title: 'BRA Advanced Cacerola 24 cm  Aluminio Fu al 25.005435964340073 % de descuento'
 date: 2019/12/19 07:05:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q5xGAR9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q5xGAR9fL._SL200_.jpg' ]

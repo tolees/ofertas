@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.618556701030926 % en 'Calvin Klein Bikini Braguita  Marrón  Ny'
+title: 'Descuento del 35.618556701030926 % en Calvin Klein Bikini Braguita  Marrón  Ny'
 date: 2019/11/18 10:58:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ssYGgohKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ssYGgohKL._SL200_.jpg' ]

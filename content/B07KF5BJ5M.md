@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s unbasic  Hoodie Capucha  Blanco  ' al 40.0 % de descuento
+title: 'Levi s unbasic  Hoodie Capucha  Blanco   al 40.0 % de descuento'
 date: 2020-01-04 13:25:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lHdaQfs4L._SL200_.jpg' ]

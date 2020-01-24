@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Sonoma 4 G-TX  Zapatillas de R' al 25.212521252125207 % de descuento
+title: 'Asics Gel-Sonoma 4 G-TX  Zapatillas de R al 25.212521252125207 % de descuento'
 date: 2019/11/02 10:20:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41St%2BihFCJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41St%2BihFCJL._SL200_.jpg' ]

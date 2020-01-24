@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Seductive Comfort Tailored-' al 62.97872340425532 % de descuento
+title: 'Calvin Klein Seductive Comfort Tailored- al 62.97872340425532 % de descuento'
 date: 2019/11/26 11:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WHpB5v0HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WHpB5v0HL._SL200_.jpg' ]

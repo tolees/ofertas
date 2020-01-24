@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Max Factor  Prebase  tono 40 ivory piel ' al 48.37635303913406 % de descuento
+title: 'Max Factor  Prebase  tono 40 ivory piel  al 48.37635303913406 % de descuento'
 date: 2019/12/05 06:07:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HxMMbvLFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HxMMbvLFL._SL200_.jpg' ]

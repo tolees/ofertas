@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cressi Aqua Shoes Zapatos Deportivo para' al 42.54751583861287 % de descuento
+title: 'Cressi Aqua Shoes Zapatos Deportivo para al 42.54751583861287 % de descuento'
 date: 2019/11/03 14:16:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DQ4cUdy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DQ4cUdy8L._SL200_.jpg' ]

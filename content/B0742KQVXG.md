@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.43877696813831 % en 'Symphonized PWR Bluetooth Auriculares De'
+title: 'Descuento del 71.43877696813831 % en Symphonized PWR Bluetooth Auriculares De'
 date: 2019/12/17 18:03:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bcm9j9LDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2Bcm9j9LDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas MTS Co Relax Tracksuit  Hombre  A' al 49.99374609130707 % de descuento
+title: 'adidas MTS Co Relax Tracksuit  Hombre  A al 49.99374609130707 % de descuento'
 date: 2020-01-19 08:54:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fy0y8-xLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fy0y8-xLL._SL200_.jpg' ]

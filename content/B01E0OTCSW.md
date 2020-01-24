@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Liu Jo LJ652S 002 53 Gafas de sol  Black' al 62.592000000000006 % de descuento
+title: 'Liu Jo LJ652S 002 53 Gafas de sol  Black al 62.592000000000006 % de descuento'
 date: 2019/11/07 23:48:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Q%2BRgDIyYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Q%2BRgDIyYL._SL200_.jpg' ]

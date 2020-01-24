@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.62645914396887 % en 'G-STAR RAW Core R Knit L/s suéter  Rojo '
+title: 'Descuento del 67.62645914396887 % en G-STAR RAW Core R Knit L/s suéter  Rojo '
 date: 2019/10/14 20:08:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TGbJF6qfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TGbJF6qfL._SL200_.jpg' ]

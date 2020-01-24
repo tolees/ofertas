@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.010000000000005 % en 'New Balance Synact  Zapatillas de Runnin'
+title: 'Descuento del 54.010000000000005 % en New Balance Synact  Zapatillas de Runnin'
 date: 2019/10/28 08:24:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Zp4Bget-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Zp4Bget-L._SL200_.jpg' ]

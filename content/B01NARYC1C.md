@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Fabbiana Auth JKT Chaqueta  Mujer ' al 64.1 % de descuento
+title: 'Kappa Fabbiana Auth JKT Chaqueta  Mujer  al 64.1 % de descuento'
 date: 2019/11/13 12:03:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TzxZ9jj9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TzxZ9jj9L._SL200_.jpg' ]

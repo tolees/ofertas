@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Sharon Crystal  Zapatos de Cordon' al 68.43802112284602 % de descuento
+title: 'Clarks Sharon Crystal  Zapatos de Cordon al 68.43802112284602 % de descuento'
 date: 2019/10/28 23:02:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DrQFZzu1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DrQFZzu1L._SL200_.jpg' ]

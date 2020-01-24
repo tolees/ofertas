@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.134314957802125 % en 'HP 651A - Cartucho de tóner original Las'
+title: 'Descuento del 48.134314957802125 % en HP 651A - Cartucho de tóner original Las'
 date: 2019/11/25 02:04:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pLPaeYp3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pLPaeYp3L._SL200_.jpg' ]

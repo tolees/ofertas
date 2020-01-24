@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.50593824228028 % en 'Tommee Tippee Closer to Nature - Esteril'
+title: 'Descuento del 47.50593824228028 % en Tommee Tippee Closer to Nature - Esteril'
 date: 2019/11/30 09:51:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312t6OaoVhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312t6OaoVhL._SL200_.jpg' ]

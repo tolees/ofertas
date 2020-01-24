@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.242966751918164 % en 'Tommy Hilfiger - Poppy Small Tote  Bolso'
+title: 'Descuento del 30.242966751918164 % en Tommy Hilfiger - Poppy Small Tote  Bolso'
 date: 2019/11/22 20:16:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qnJzMI53L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qnJzMI53L._SL200_.jpg' ]

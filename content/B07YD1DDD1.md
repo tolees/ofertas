@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZUNTO Estanteria Baño Autoadhesivo Estan' al 50.01250312578145 % de descuento
+title: 'ZUNTO Estanteria Baño Autoadhesivo Estan al 50.01250312578145 % de descuento'
 date: 2020-01-23 12:29:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519Pcn5PyKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519Pcn5PyKL._SL200_.jpg' ]

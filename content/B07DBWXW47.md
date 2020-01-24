@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Suede Heart Galaxy Wn s  Zapatillas' al 65.78098943857698 % de descuento
+title: 'Puma Suede Heart Galaxy Wn s  Zapatillas al 65.78098943857698 % de descuento'
 date: 2019/10/31 05:03:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41487E5QlWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41487E5QlWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REHYPE Herren Longsleeve Oversize Langar' al 62.65664160401002 % de descuento
+title: 'REHYPE Herren Longsleeve Oversize Langar al 62.65664160401002 % de descuento'
 date: 2020-01-15 13:53:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jU19jSEHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jU19jSEHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.04253544620517 % en 'Skechers You Define-Passion  Zapatillas '
+title: 'Descuento del 51.04253544620517 % en Skechers You Define-Passion  Zapatillas '
 date: 2019/11/13 17:16:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LoGaQiU1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LoGaQiU1L._SL200_.jpg' ]

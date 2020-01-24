@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.37777777777778 % en 'Hurley M Dri-Fit Coronado Polo S/S Parte'
+title: 'Descuento del 70.37777777777778 % en Hurley M Dri-Fit Coronado Polo S/S Parte'
 date: 2019/11/08 07:14:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411ELzD9SaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411ELzD9SaL._SL200_.jpg' ]

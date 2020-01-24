@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Soporte Tablet Coche  Soporte para Table' al 50.01923816852636 % de descuento
+title: 'Soporte Tablet Coche  Soporte para Table al 50.01923816852636 % de descuento'
 date: 2019/10/09 21:37:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AMhdCV9NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AMhdCV9NL._SL200_.jpg' ]

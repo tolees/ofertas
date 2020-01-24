@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Liga Sideline Polo T-Shirt  Hombre ' al 51.18530884808013 % de descuento
+title: 'PUMA Liga Sideline Polo T-Shirt  Hombre  al 51.18530884808013 % de descuento'
 date: 2019/11/12 04:25:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wErvqsQXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wErvqsQXL._SL200_.jpg' ]

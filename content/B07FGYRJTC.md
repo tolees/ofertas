@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.11567951994666 % en 'Columbia Powder Lite Forro Polar  Mujer '
+title: 'Descuento del 41.11567951994666 % en Columbia Powder Lite Forro Polar  Mujer '
 date: 2020-01-14 07:26:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg' ]

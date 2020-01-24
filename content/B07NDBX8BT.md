@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko Unisex Adult Chronograph Quartz Wa' al 57.30769230769231 % de descuento
+title: 'Seiko Unisex Adult Chronograph Quartz Wa al 57.30769230769231 % de descuento'
 date: 2019/11/18 20:55:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VK7HFhwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VK7HFhwCL._SL200_.jpg' ]

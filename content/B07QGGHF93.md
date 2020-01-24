@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.69674185463659 % en 'PUMA ESS+ Cropped Logo tee Camiseta  Muj'
+title: 'Descuento del 58.69674185463659 % en PUMA ESS+ Cropped Logo tee Camiseta  Muj'
 date: 2019/11/25 18:28:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tv3b9Y-wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tv3b9Y-wL._SL200_.jpg' ]

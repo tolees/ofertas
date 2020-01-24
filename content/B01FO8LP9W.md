@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jenny Zandvoort  Zapatillas de Estar por' al 74.22297819700015 % de descuento
+title: 'Jenny Zandvoort  Zapatillas de Estar por al 74.22297819700015 % de descuento'
 date: 2019/10/08 22:29:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GxHqI-KxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GxHqI-KxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.45247359644247 % en 'Lee Rider Jeans Vaqueros  Rinse  29W / 3'
+title: 'Descuento del 74.45247359644247 % en Lee Rider Jeans Vaqueros  Rinse  29W / 3'
 date: 2019/11/24 11:28:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CRENeSBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CRENeSBqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orient Reloj Analógico para Mujer de Cua' al 60.0 % de descuento
+title: 'Orient Reloj Analógico para Mujer de Cua al 60.0 % de descuento'
 date: 2019/11/01 05:07:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-ZpbEiwLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-ZpbEiwLL._SL200_.jpg' ]

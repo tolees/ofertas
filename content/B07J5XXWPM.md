@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Bounder  Zapatillas para Hombre' al 40.033361134278564 % de descuento
+title: 'Skechers Bounder  Zapatillas para Hombre al 40.033361134278564 % de descuento'
 date: 2019/12/14 22:59:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UKCeNSYEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UKCeNSYEL._SL200_.jpg' ]

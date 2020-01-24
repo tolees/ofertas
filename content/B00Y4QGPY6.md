@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cherub WST-2046BD - Afinador cromático d' al 41.42599277978339 % de descuento
+title: 'Cherub WST-2046BD - Afinador cromático d al 41.42599277978339 % de descuento'
 date: 2019/12/26 15:36:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tLBXgGk%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tLBXgGk%2BL._SL200_.jpg' ]

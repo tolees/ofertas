@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.502950295029507 % en 'Ghost Recon: Breakpoint - Edition Gold P'
+title: 'Descuento del 29.502950295029507 % en Ghost Recon: Breakpoint - Edition Gold P'
 date: 2019/12/10 08:55:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GeBxCZ2nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GeBxCZ2nL._SL200_.jpg' ]

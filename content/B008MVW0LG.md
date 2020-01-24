@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WENKO Anti-Schimmel Duschvorhang Uni  An' al 62.16534274786702 % de descuento
+title: 'WENKO Anti-Schimmel Duschvorhang Uni  An al 62.16534274786702 % de descuento'
 date: 2020-01-20 04:38:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EWq5l%2BA7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EWq5l%2BA7L._SL200_.jpg' ]

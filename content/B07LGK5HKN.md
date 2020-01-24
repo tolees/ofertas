@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.90664073353709 % en 'Fundas iPhone XR  Funda iPhone XR Libro '
+title: 'Descuento del 63.90664073353709 % en Fundas iPhone XR  Funda iPhone XR Libro '
 date: 2020-01-21 08:17:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ulzmveohL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ulzmveohL._SL200_.jpg' ]

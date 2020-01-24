@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 Nuevo Toque Auriculares Bluetooth  ' al 40.40404040404041 % de descuento
+title: '2019 Nuevo Toque Auriculares Bluetooth   al 40.40404040404041 % de descuento'
 date: 2020-01-09 15:56:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41go%2B5Ktn5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41go%2B5Ktn5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.63409058436918 % en 'Columbia Fast Trek Chaqueta con Capucha '
+title: 'Descuento del 38.63409058436918 % en Columbia Fast Trek Chaqueta con Capucha '
 date: 2019/10/15 13:45:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S9R490WCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S9R490WCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Paperbag Pantalones  Azul  Mid ' al 53.760789149198516 % de descuento
+title: 'New Look Paperbag Pantalones  Azul  Mid  al 53.760789149198516 % de descuento'
 date: 2019/12/03 16:57:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ugNjlWM1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ugNjlWM1L._SL200_.jpg' ]

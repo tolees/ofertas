@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Band Bikni Braguita de Biki' al 71.63043478260869 % de descuento
+title: 'Calvin Klein Band Bikni Braguita de Biki al 71.63043478260869 % de descuento'
 date: 2019/10/09 07:33:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zZgaIoKfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zZgaIoKfL._SL200_.jpg' ]

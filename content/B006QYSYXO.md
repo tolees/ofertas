@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Silver Ridge Cargo Pant AM8007 ' al 53.25635103926098 % de descuento
+title: 'Columbia Silver Ridge Cargo Pant AM8007  al 53.25635103926098 % de descuento'
 date: 2019/11/21 00:52:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RyszAtPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RyszAtPcL._SL200_.jpg' ]

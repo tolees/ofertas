@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.863266180882974 % en 'Creative Outlier Sports - Cascos interno'
+title: 'Descuento del 42.863266180882974 % en Creative Outlier Sports - Cascos interno'
 date: 2019/10/30 15:23:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41174lAiLbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41174lAiLbL._SL200_.jpg' ]

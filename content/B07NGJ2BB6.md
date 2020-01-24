@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.996306293507594 % en 'El Ganso 1020S190039 Pantalones  Beige  '
+title: 'Descuento del 33.996306293507594 % en El Ganso 1020S190039 Pantalones  Beige  '
 date: 2019/11/02 09:08:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wRQrKPXrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wRQrKPXrL._SL200_.jpg' ]

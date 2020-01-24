@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.144898032072575 % en 'Nespresso EN550.BM Lattissima Touch Auto'
+title: 'Descuento del 57.144898032072575 % en Nespresso EN550.BM Lattissima Touch Auto'
 date: 2019/12/13 12:03:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d6tBrPZrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d6tBrPZrL._SL200_.jpg' ]

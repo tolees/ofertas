@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Bevora C  Sudadera para Hombre' al 26.08988764044944 % de descuento
+title: 'Napapijri Bevora C  Sudadera para Hombre al 26.08988764044944 % de descuento'
 date: 2019/11/22 22:51:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sf1NbK%2BKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sf1NbK%2BKL._SL200_.jpg' ]

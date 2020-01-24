@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Cosmo_Tenn_MX  Zapatillas para Homb' al 43.50588235294117 % de descuento
+title: 'BOSS Cosmo_Tenn_MX  Zapatillas para Homb al 43.50588235294117 % de descuento'
 date: 2019/11/18 15:09:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AzF2RctYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AzF2RctYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.95882352941177 % en 'Asics Gel-kenun Knit MX  Zapatillas de E'
+title: 'Descuento del 61.95882352941177 % en Asics Gel-kenun Knit MX  Zapatillas de E'
 date: 2019/10/30 09:02:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GyM8uiH6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GyM8uiH6L._SL200_.jpg' ]

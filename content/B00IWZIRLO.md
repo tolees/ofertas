@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.64705882352941 % en 'Sony ICF-M780SL - Radio portátil  FM/SW/'
+title: 'Descuento del 37.64705882352941 % en Sony ICF-M780SL - Radio portátil  FM/SW/'
 date: 2019/11/15 19:50:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JbqIxd1gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JbqIxd1gL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DKNY Intimates Nightfall-Sheer Lace Tang' al 41.56862745098039 % de descuento
+title: 'DKNY Intimates Nightfall-Sheer Lace Tang al 41.56862745098039 % de descuento'
 date: 2019/10/10 15:54:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512q-NmRwoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512q-NmRwoL._SL200_.jpg' ]

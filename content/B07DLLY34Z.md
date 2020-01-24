@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.919406150583242 % en 'Tom Tailor Denim Basic Langarmpullover M'
+title: 'Descuento del 31.919406150583242 % en Tom Tailor Denim Basic Langarmpullover M'
 date: 2019/10/12 02:46:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HBObDI4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HBObDI4gL._SL200_.jpg' ]

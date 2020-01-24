@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.539386883973606 % en 'HP CF373AM 125A Cartucho de Tóner Origin'
+title: 'Descuento del 30.539386883973606 % en HP CF373AM 125A Cartucho de Tóner Origin'
 date: 2020-01-10 19:09:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313UXppIzYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313UXppIzYL._SL200_.jpg' ]

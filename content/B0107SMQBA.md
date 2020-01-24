@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.21932114882506 % en 'Joma Polo Crew  Camisa para Hombre  Blan'
+title: 'Descuento del 52.21932114882506 % en Joma Polo Crew  Camisa para Hombre  Blan'
 date: 2019/11/19 18:26:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ikn7iQ7-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ikn7iQ7-L._SL200_.jpg' ]

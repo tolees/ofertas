@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.471411901983668 % en 'AmazonBasics - Maleta rígida «hardside» '
+title: 'Descuento del 28.471411901983668 % en AmazonBasics - Maleta rígida «hardside» '
 date: 2019/11/10 12:03:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BYc%2B83H4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BYc%2B83H4L._SL200_.jpg' ]

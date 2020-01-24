@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon BG-E14 - Empuñadura con batería pa' al 29.597183887355495 % de descuento
+title: 'Canon BG-E14 - Empuñadura con batería pa al 29.597183887355495 % de descuento'
 date: 2019/11/09 06:31:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jTVC8upjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jTVC8upjL._SL200_.jpg' ]

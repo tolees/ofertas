@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.01167055685228 % en 'LBLA Niños Puzzle de Bloques de Madera M'
+title: 'Descuento del 35.01167055685228 % en LBLA Niños Puzzle de Bloques de Madera M'
 date: 2020-01-23 16:40:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oX9c0q6LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oX9c0q6LL._SL200_.jpg' ]

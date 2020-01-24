@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Firecamp SLEDDER 3  Zapatos Mul' al 68.96149358226371 % de descuento
+title: 'Columbia Firecamp SLEDDER 3  Zapatos Mul al 68.96149358226371 % de descuento'
 date: 2019/12/23 22:41:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zDogTVrIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zDogTVrIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pajitas de silicona reutilizables – paji' al 50.02501250625312 % de descuento
+title: 'Pajitas de silicona reutilizables – paji al 50.02501250625312 % de descuento'
 date: 2020-01-24 09:23:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DbFKsVnIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DbFKsVnIL._AC_._SL200_.jpg' ]

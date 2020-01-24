@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.88461538461539 % en 'Almohada Embarazada y Cojin Lactancia Be'
+title: 'Descuento del 32.88461538461539 % en Almohada Embarazada y Cojin Lactancia Be'
 date: 2019/10/24 16:02:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xVluqvv%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xVluqvv%2BL._SL200_.jpg' ]

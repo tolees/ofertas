@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FCB FC Barcelona - Bolsa de cuerdas con ' al 33.356840620592386 % de descuento
+title: 'FCB FC Barcelona - Bolsa de cuerdas con  al 33.356840620592386 % de descuento'
 date: 2019/12/10 13:36:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qv-2OeuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qv-2OeuYL._SL200_.jpg' ]

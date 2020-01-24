@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Sash 242706-1110  Zapatillas para ' al 41.268933981137465 % de descuento
+title: 'Kappa Sash 242706-1110  Zapatillas para  al 41.268933981137465 % de descuento'
 date: 2019/10/30 09:17:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QtD8jC5-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QtD8jC5-L._SL200_.jpg' ]

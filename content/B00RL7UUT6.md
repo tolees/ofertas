@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.68556185395131 % en '[Versión Actualizada] TOPELEK Ratón Gami'
+title: 'Descuento del 56.68556185395131 % en [Versión Actualizada] TOPELEK Ratón Gami'
 date: 2019/11/13 12:46:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vumt9VOaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vumt9VOaL._SL200_.jpg' ]

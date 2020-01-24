@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.846889952153106 % en 'Codo de Tenista  Cinta de Codo con Almoh'
+title: 'Descuento del 47.846889952153106 % en Codo de Tenista  Cinta de Codo con Almoh'
 date: 2019/11/08 19:59:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K3KY1tRHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K3KY1tRHL._SL200_.jpg' ]

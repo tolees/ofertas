@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Proyector de mano LED múltiple  Función ' al 28.32901926948519 % de descuento
+title: 'Proyector de mano LED múltiple  Función  al 28.32901926948519 % de descuento'
 date: 2019/12/08 23:47:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aZd%2BJCc%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aZd%2BJCc%2BL._SL200_.jpg' ]

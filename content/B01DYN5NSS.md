@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.51367781155015 % en 'Huawei P9 Lite 16Gb 3Gb RAM Dual- SIM Go'
+title: 'Descuento del 39.51367781155015 % en Huawei P9 Lite 16Gb 3Gb RAM Dual- SIM Go'
 date: 2019/11/04 18:21:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KfC3WoAuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KfC3WoAuL._SL200_.jpg' ]

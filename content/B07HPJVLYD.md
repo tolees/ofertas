@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung VG-SCFN49WM - Marco Personalizab' al 50.256281407035175 % de descuento
+title: 'Samsung VG-SCFN49WM - Marco Personalizab al 50.256281407035175 % de descuento'
 date: 2019/10/13 16:29:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21N5lAa%2Bn6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21N5lAa%2Bn6L._SL200_.jpg' ]

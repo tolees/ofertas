@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Akku Handkreissäge  TECCPO 18V 4.0Ah Akk' al 37.004999999999995 % de descuento
+title: 'Akku Handkreissäge  TECCPO 18V 4.0Ah Akk al 37.004999999999995 % de descuento'
 date: 2020-01-08 16:01:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417G5dLD1RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417G5dLD1RL._SL200_.jpg' ]

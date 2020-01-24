@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Favorite Mesh Crop Capri  M' al 46.76594798844188 % de descuento
+title: 'Under Armour Favorite Mesh Crop Capri  M al 46.76594798844188 % de descuento'
 date: 2019/10/25 21:41:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318pUBEE3GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318pUBEE3GL._SL200_.jpg' ]

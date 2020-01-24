@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.137920581994535 % en 'Springfield 2.J.MD.G+I.Chenilla Tenis  J'
+title: 'Descuento del 55.137920581994535 % en Springfield 2.J.MD.G+I.Chenilla Tenis  J'
 date: 2019/11/06 20:02:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hnvc%2BP6XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hnvc%2BP6XL._SL200_.jpg' ]

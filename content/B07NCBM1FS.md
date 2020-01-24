@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Peace Camiseta  Blanco  Optic' al 56.913043478260875 % de descuento
+title: 'Pepe Jeans Peace Camiseta  Blanco  Optic al 56.913043478260875 % de descuento'
 date: 2019/10/08 18:48:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aE5eR1w8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aE5eR1w8L._SL200_.jpg' ]

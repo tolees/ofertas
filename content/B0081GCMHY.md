@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VonHaus - Wall Shelf - Wall Mount for DV' al 40.02001000500249 % de descuento
+title: 'VonHaus - Wall Shelf - Wall Mount for DV al 40.02001000500249 % de descuento'
 date: 2019/10/18 15:04:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CCsO9IzGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CCsO9IzGL._SL200_.jpg' ]

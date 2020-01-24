@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0 % en 'find. Vaqueros Skinny con Rotos Hombre G'
+title: 'Descuento del 60.0 % en find. Vaqueros Skinny con Rotos Hombre G'
 date: 2019/12/20 11:42:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1y7uF5IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t1y7uF5IL._SL200_.jpg' ]

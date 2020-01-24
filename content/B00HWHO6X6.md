@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Melissa & Doug 12195 - Autoadhesivos esp' al 42.91845493562232 % de descuento
+title: 'Melissa & Doug 12195 - Autoadhesivos esp al 42.91845493562232 % de descuento'
 date: 2019/12/29 12:44:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GsULQ0uHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GsULQ0uHL._SL200_.jpg' ]

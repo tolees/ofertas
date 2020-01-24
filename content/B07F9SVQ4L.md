@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.65978736710444 % en 'Esprit Kids RM1039307 Camiseta  Blanco  '
+title: 'Descuento del 55.65978736710444 % en Esprit Kids RM1039307 Camiseta  Blanco  '
 date: 2020-01-07 12:00:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XXseVsr4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XXseVsr4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Western Shirt Camisa  Warp Red  M pa' al 52.800000000000004 % de descuento
+title: 'Lee Western Shirt Camisa  Warp Red  M pa al 52.800000000000004 % de descuento'
 date: 2019/12/11 19:58:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sWFAYM%2BvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Necetwo Polo  Azul Navy Blue 02  L' al 40.22011005502751 % de descuento
+title: 'Celio Necetwo Polo  Azul Navy Blue 02  L al 40.22011005502751 % de descuento'
 date: 2019/10/07 11:30:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DsZ31BN0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DsZ31BN0L._SL200_.jpg' ]

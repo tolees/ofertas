@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Vneck Camiseta  Azul  Annalise St' al 30.200000000000003 % de descuento
+title: 'Levi s Vneck Camiseta  Azul  Annalise St al 30.200000000000003 % de descuento'
 date: 2019/12/14 21:33:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K6YwtVcEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K6YwtVcEL._SL200_.jpg' ]

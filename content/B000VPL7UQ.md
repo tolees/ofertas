@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Avent SCF634/27 - Tetina de sili' al 38.67334167709636 % de descuento
+title: 'Philips Avent SCF634/27 - Tetina de sili al 38.67334167709636 % de descuento'
 date: 2019/11/22 12:21:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4167AhCN76L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4167AhCN76L._SL200_.jpg' ]

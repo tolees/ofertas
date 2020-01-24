@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.00817661488143 % en 'Pepe Jeans London Sydney Basic Girl  Zap'
+title: 'Descuento del 30.00817661488143 % en Pepe Jeans London Sydney Basic Girl  Zap'
 date: 2019/11/28 13:23:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-o9hUNnvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-o9hUNnvL._SL200_.jpg' ]

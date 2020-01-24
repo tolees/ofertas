@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.00680068006801 % en 'ENACFIRE E18 Bluetooth 5.0 Wireless Head'
+title: 'Descuento del 68.00680068006801 % en ENACFIRE E18 Bluetooth 5.0 Wireless Head'
 date: 2020-01-15 13:36:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HZO2aQvIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HZO2aQvIL._SL200_.jpg' ]

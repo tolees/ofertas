@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen KOS Polo  Hombre   Azul 563' al 60.78461538461539 % de descuento
+title: 'Helly Hansen KOS Polo  Hombre   Azul 563 al 60.78461538461539 % de descuento'
 date: 2019/10/09 13:46:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xSFtBVNLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xSFtBVNLL._SL200_.jpg' ]

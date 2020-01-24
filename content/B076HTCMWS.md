@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Motorola termómetro inteligente de oído ' al 38.7877575515103 % de descuento
+title: 'Motorola termómetro inteligente de oído  al 38.7877575515103 % de descuento'
 date: 2020-01-16 11:40:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Cy5rAfvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Cy5rAfvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.94894894894895 % en 'Ringke Onyx Compatible con Funda Galaxy '
+title: 'Descuento del 48.94894894894895 % en Ringke Onyx Compatible con Funda Galaxy '
 date: 2019/11/05 15:42:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410c8mjE03L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410c8mjE03L._SL200_.jpg' ]

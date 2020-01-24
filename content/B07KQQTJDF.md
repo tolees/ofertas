@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D GTX W  Zapatillas de T' al 57.899343544857764 % de descuento
+title: 'Salomon XA Pro 3D GTX W  Zapatillas de T al 57.899343544857764 % de descuento'
 date: 2019/12/18 23:57:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41onXM1EsAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41onXM1EsAL._SL200_.jpg' ]

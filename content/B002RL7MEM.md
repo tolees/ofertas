@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ranex 10.009.10 Aplique de Pared Ascende' al 33.355570380253496 % de descuento
+title: 'Ranex 10.009.10 Aplique de Pared Ascende al 33.355570380253496 % de descuento'
 date: 2019/10/15 10:56:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LJ6m4ZHkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LJ6m4ZHkL._SL200_.jpg' ]

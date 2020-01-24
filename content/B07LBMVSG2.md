@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.57794369892039 % en 'Tommy Jeans Mid Rise Skinny Nora 7/8 PST'
+title: 'Descuento del 52.57794369892039 % en Tommy Jeans Mid Rise Skinny Nora 7/8 PST'
 date: 2019/11/01 11:25:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hoKZBidTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hoKZBidTL._SL200_.jpg' ]

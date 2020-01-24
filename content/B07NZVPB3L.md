@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio Premium Set de Bateria 8 Pie' al 60.8470389782517 % de descuento
+title: 'San Ignacio Premium Set de Bateria 8 Pie al 60.8470389782517 % de descuento'
 date: 2019/10/07 00:44:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BqK4crVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51J%2BqK4crVL._SL200_.jpg' ]

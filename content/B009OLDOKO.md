@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.98518831993229 % en 'Timberland Classic Unlined  Náuticos par'
+title: 'Descuento del 44.98518831993229 % en Timberland Classic Unlined  Náuticos par'
 date: 2019/11/21 15:01:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BURo1EeTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BURo1EeTL._SL200_.jpg' ]

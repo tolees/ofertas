@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jurassic World Evolution' al 42.50708451408568 % de descuento
+title: 'Jurassic World Evolution al 42.50708451408568 % de descuento'
 date: 2019/12/30 19:56:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s3N06sjwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s3N06sjwL._SL200_.jpg' ]

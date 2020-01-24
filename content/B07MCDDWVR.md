@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT Madison  Zapatillas para Mujer  Bei' al 30.929876676568547 % de descuento
+title: 'GANT Madison  Zapatillas para Mujer  Bei al 30.929876676568547 % de descuento'
 date: 2020-01-23 10:24:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SMhTmOMML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SMhTmOMML._SL200_.jpg' ]

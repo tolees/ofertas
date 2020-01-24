@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.43636363636363 % en 'Asics Gel-kenun Lyte MX  Zapatillas de E'
+title: 'Descuento del 60.43636363636363 % en Asics Gel-kenun Lyte MX  Zapatillas de E'
 date: 2019/11/07 21:00:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Wj6GQZS%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Wj6GQZS%2BL._SL200_.jpg' ]

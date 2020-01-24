@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Favorite Legging WM Ar Legg' al 50.02857142857143 % de descuento
+title: 'Under Armour Favorite Legging WM Ar Legg al 50.02857142857143 % de descuento'
 date: 2019/11/30 07:06:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Bfu2nVVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Bfu2nVVsL._SL200_.jpg' ]

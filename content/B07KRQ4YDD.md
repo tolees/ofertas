@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.99030620095398 % en 'Columbia Silver Ridge 2.0 Manga Larga  M'
+title: 'Descuento del 36.99030620095398 % en Columbia Silver Ridge 2.0 Manga Larga  M'
 date: 2019/11/11 15:07:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wph0En27L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wph0En27L._SL200_.jpg' ]

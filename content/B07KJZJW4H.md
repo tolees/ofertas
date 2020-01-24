@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.7247828991316 % en 'BILLABONG Scheme Cargo Pantalones Cortos'
+title: 'Descuento del 45.7247828991316 % en BILLABONG Scheme Cargo Pantalones Cortos'
 date: 2019/11/16 11:08:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MiA5cjhwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MiA5cjhwL._SL200_.jpg' ]

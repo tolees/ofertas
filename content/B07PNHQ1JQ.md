@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'flintronic® Fresas Set  15PCS Cortadores' al 38.815526210484194 % de descuento
+title: 'flintronic® Fresas Set  15PCS Cortadores al 38.815526210484194 % de descuento'
 date: 2019/11/15 18:22:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NnTwRckpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NnTwRckpL._SL200_.jpg' ]

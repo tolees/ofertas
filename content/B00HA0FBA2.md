@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fisher-Price BFH06 3-in-1 Swing-N-Rocker' al 35.387337487499046 % de descuento
+title: 'Fisher-Price BFH06 3-in-1 Swing-N-Rocker al 35.387337487499046 % de descuento'
 date: 2019/12/09 14:22:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IPk36r%2ByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IPk36r%2ByL._SL200_.jpg' ]

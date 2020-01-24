@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Speed Stride Short Sleeve C' al 55.2037845705968 % de descuento
+title: 'Under Armour Speed Stride Short Sleeve C al 55.2037845705968 % de descuento'
 date: 2019/10/28 14:38:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412QQfEohsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412QQfEohsL._SL200_.jpg' ]

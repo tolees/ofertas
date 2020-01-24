@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.83300589390963 % en 'Shock Absorber Ultimate Run Bra  Sujetad'
+title: 'Descuento del 54.83300589390963 % en Shock Absorber Ultimate Run Bra  Sujetad'
 date: 2020-01-11 09:51:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UQe3g6RjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UQe3g6RjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Long Jersey Bomber Chaqueta para M' al 50.0 % de descuento
+title: 'find. Long Jersey Bomber Chaqueta para M al 50.0 % de descuento'
 date: 2019/10/13 08:21:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41diNc7iZ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41diNc7iZ3L._SL200_.jpg' ]

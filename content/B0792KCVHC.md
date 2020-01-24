@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.89271817676487 % en 'Geox U Saymore D  Mocasines para Hombre '
+title: 'Descuento del 36.89271817676487 % en Geox U Saymore D  Mocasines para Hombre '
 date: 2019/10/18 13:28:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Mpm54KfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Mpm54KfL._SL200_.jpg' ]

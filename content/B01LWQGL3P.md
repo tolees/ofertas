@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aussie Miracle Light acondicionador - 25' al 79.95991983967936 % de descuento
+title: 'Aussie Miracle Light acondicionador - 25 al 79.95991983967936 % de descuento'
 date: 2019/11/08 10:07:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UatAFO-SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UatAFO-SL._SL200_.jpg' ]

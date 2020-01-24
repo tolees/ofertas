@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orbegozo RRM 1510 Emisor térmico de bajo' al 34.85552407932011 % de descuento
+title: 'Orbegozo RRM 1510 Emisor térmico de bajo al 34.85552407932011 % de descuento'
 date: 2019/10/14 12:26:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d06iA6L7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d06iA6L7L._SL200_.jpg' ]

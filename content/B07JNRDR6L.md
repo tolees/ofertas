@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pinko 1G13F67080 Pantalone Mujer 44' al 59.583333333333336 % de descuento
+title: 'Pinko 1G13F67080 Pantalone Mujer 44 al 59.583333333333336 % de descuento'
 date: 2020-01-17 08:09:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zRmfw8EnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zRmfw8EnL._SL200_.jpg' ]

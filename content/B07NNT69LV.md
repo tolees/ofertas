@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.00000000000001 % en 'Seiko Reloj de Pulsera SUP857P1'
+title: 'Descuento del 55.00000000000001 % en Seiko Reloj de Pulsera SUP857P1'
 date: 2019/12/20 01:05:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lZ69pXeGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lZ69pXeGL._SL200_.jpg' ]

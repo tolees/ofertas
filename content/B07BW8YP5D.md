@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G.L.O.W. Stick' al 75.38769384692345 % de descuento
+title: 'G.L.O.W. Stick al 75.38769384692345 % de descuento'
 date: 2020-01-22 00:49:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qS7zBv0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qS7zBv0OL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 500  Zapatillas para Hombre ' al 28.352783623493394 % de descuento
+title: 'New Balance 500  Zapatillas para Hombre  al 28.352783623493394 % de descuento'
 date: 2019/12/11 09:46:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gMenC6jOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gMenC6jOL._SL200_.jpg' ]

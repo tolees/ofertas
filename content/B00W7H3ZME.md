@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEABAGS Fort Wayne Estuche de auténtico ' al 73.4122353725621 % de descuento
+title: 'LEABAGS Fort Wayne Estuche de auténtico  al 73.4122353725621 % de descuento'
 date: 2020-01-19 10:08:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L62SXxy-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L62SXxy-L._SL200_.jpg' ]

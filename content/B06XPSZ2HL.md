@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.888240200166805 % en 'Desigual CAM_Glenn Blusa  Amarillo  Curr'
+title: 'Descuento del 45.888240200166805 % en Desigual CAM_Glenn Blusa  Amarillo  Curr'
 date: 2019/10/25 12:10:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cUS4wwDdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cUS4wwDdL._SL200_.jpg' ]

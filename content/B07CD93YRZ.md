@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.40278381905176 % en 'Nike Zapatillas de Gimnasia para Hombre '
+title: 'Descuento del 46.40278381905176 % en Nike Zapatillas de Gimnasia para Hombre '
 date: 2019/10/18 18:26:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414AVrwDAHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414AVrwDAHL._SL200_.jpg' ]

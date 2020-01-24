@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUTUO Calcetines de Dedos Mujer Calcetin' al 48.58531008859674 % de descuento
+title: 'PUTUO Calcetines de Dedos Mujer Calcetin al 48.58531008859674 % de descuento'
 date: 2019/12/14 17:30:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZE9gyClJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZE9gyClJL._SL200_.jpg' ]

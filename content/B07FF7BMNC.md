@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.680942843937764 % en 'San Ignacio -  Batería de cocina 4 cacer'
+title: 'Descuento del 30.680942843937764 % en San Ignacio -  Batería de cocina 4 cacer'
 date: 2019/12/16 01:32:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OrxxO5NwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OrxxO5NwL._SL200_.jpg' ]

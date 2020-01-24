@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.019207683073226 % en 'Qlebao Recambios Cepillo para Oral B  16'
+title: 'Descuento del 48.019207683073226 % en Qlebao Recambios Cepillo para Oral B  16'
 date: 2020-01-15 08:17:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F6hF8KQOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F6hF8KQOL._SL200_.jpg' ]

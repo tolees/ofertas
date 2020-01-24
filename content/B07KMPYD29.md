@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'United Colors of Benetton Trousers Panta' al 57.57196495619525 % de descuento
+title: 'United Colors of Benetton Trousers Panta al 57.57196495619525 % de descuento'
 date: 2019/12/05 07:41:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ONQxneYIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ONQxneYIL._SL200_.jpg' ]

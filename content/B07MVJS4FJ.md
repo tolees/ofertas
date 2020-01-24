@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.244897959183675 % en 'Napapijri Serber LS Camiseta  Verde  Gre'
+title: 'Descuento del 49.244897959183675 % en Napapijri Serber LS Camiseta  Verde  Gre'
 date: 2019/12/11 17:16:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3177bkTM7hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3177bkTM7hL._SL200_.jpg' ]

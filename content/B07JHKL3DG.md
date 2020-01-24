@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.09670696123385 % en 'G-STAR RAW Biwes High Waist Skinny Vaque'
+title: 'Descuento del 72.09670696123385 % en G-STAR RAW Biwes High Waist Skinny Vaque'
 date: 2019/10/12 01:35:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IHrfX9AlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IHrfX9AlL._SL200_.jpg' ]

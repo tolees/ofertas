@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Vinilo - DC: The Flash' al 46.69779853235491 % de descuento
+title: 'POP! Vinilo - DC: The Flash al 46.69779853235491 % de descuento'
 date: 2019/10/25 15:58:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dalutyccL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dalutyccL._SL200_.jpg' ]

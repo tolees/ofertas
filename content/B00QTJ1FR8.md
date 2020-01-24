@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Venus ComfortGlide Breeze Recambio De Ma' al 32.72727272727273 % de descuento
+title: 'Venus ComfortGlide Breeze Recambio De Ma al 32.72727272727273 % de descuento'
 date: 2020-01-19 12:49:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jUyZLnJ%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jUyZLnJ%2BL._SL200_.jpg' ]

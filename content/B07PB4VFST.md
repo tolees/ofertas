@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.63435255613807 % en 'Bissell 2228N SmartClean Pet Aspirador T'
+title: 'Descuento del 33.63435255613807 % en Bissell 2228N SmartClean Pet Aspirador T'
 date: 2019/11/23 23:27:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416AClE2vBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416AClE2vBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Flex Appeal 3.0-Endless Glamo  ' al 51.35709818636648 % de descuento
+title: 'Skechers Flex Appeal 3.0-Endless Glamo   al 51.35709818636648 % de descuento'
 date: 2019/11/08 09:17:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41321GUFtvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41321GUFtvL._SL200_.jpg' ]

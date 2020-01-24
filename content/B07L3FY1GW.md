@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Interwoven Pattern Wedge ' al 50.36028823058447 % de descuento
+title: 'Tommy Hilfiger Interwoven Pattern Wedge  al 50.36028823058447 % de descuento'
 date: 2019/12/07 08:47:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNsDOMSSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BNsDOMSSL._SL200_.jpg' ]

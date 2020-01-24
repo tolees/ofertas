@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '【2019 Nueva Versión】CHORTAU Camara de Co' al 54.550413673970354 % de descuento
+title: '【2019 Nueva Versión】CHORTAU Camara de Co al 54.550413673970354 % de descuento'
 date: 2020-01-20 16:51:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517GgdWc5rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517GgdWc5rL._SL200_.jpg' ]

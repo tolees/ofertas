@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.06583072100314 % en 'Beurer HKM100 Almohadilla eléctrica térm'
+title: 'Descuento del 31.06583072100314 % en Beurer HKM100 Almohadilla eléctrica térm'
 date: 2020-01-24 10:17:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41j+FppgncL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41j+FppgncL._AC_._SL200_.jpg' ]

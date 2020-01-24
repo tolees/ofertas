@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.5 % en 'find. Zapatos De Cordones con Perforacio'
+title: 'Descuento del 62.5 % en find. Zapatos De Cordones con Perforacio'
 date: 2020-01-16 00:00:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xAqq87G4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xAqq87G4L._SL200_.jpg' ]

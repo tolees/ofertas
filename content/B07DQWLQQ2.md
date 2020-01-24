@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mega Man 11' al 32.944314771590534 % de descuento
+title: 'Mega Man 11 al 32.944314771590534 % de descuento'
 date: 2019/11/10 14:03:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kd2IWyxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kd2IWyxUL._SL200_.jpg' ]

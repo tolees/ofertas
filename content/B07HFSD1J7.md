@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mr. Wonderful WOA09190SM 2019 Paraguas c' al 55.230460921843694 % de descuento
+title: 'Mr. Wonderful WOA09190SM 2019 Paraguas c al 55.230460921843694 % de descuento'
 date: 2019/12/01 13:32:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41myPmIrXrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41myPmIrXrL._SL200_.jpg' ]

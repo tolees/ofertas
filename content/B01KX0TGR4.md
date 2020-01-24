@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.608084358523733 % en 'Gloss - caja de maquillaje  caja de rega'
+title: 'Descuento del 26.608084358523733 % en Gloss - caja de maquillaje  caja de rega'
 date: 2020-01-23 19:04:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510jYd4u6nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510jYd4u6nL._SL200_.jpg' ]

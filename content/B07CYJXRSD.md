@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.275900900900915 % en 'LENBEST Bullet Journal Stencil  Dibujo P'
+title: 'Descuento del 35.275900900900915 % en LENBEST Bullet Journal Stencil  Dibujo P'
 date: 2019/12/25 15:38:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61wBs%2BQ39jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61wBs%2BQ39jL._SL200_.jpg' ]

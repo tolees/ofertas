@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Juego de Utensilios de Cocina  6 Unidade' al 49.92910943730615 % de descuento
+title: 'Juego de Utensilios de Cocina  6 Unidade al 49.92910943730615 % de descuento'
 date: 2019/10/06 21:33:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TzLVOWQWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TzLVOWQWL._SL200_.jpg' ]

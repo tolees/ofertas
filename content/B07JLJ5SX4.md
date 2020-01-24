@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charmast Batería Externa 10400mAh Power ' al 67.36734693877551 % de descuento
+title: 'Charmast Batería Externa 10400mAh Power  al 67.36734693877551 % de descuento'
 date: 2019/11/23 22:36:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nuCgRK26L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nuCgRK26L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Authentic  Vaqueros Straight  A' al 39.99999999999999 % de descuento
+title: 'Wrangler Authentic  Vaqueros Straight  A al 39.99999999999999 % de descuento'
 date: 2019/12/17 22:01:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xUaxAf7rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xUaxAf7rL._SL200_.jpg' ]

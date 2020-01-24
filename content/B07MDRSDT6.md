@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GOKOO Smartwatch Hombre Mujer Android  P' al 28.57551078725531 % de descuento
+title: 'GOKOO Smartwatch Hombre Mujer Android  P al 28.57551078725531 % de descuento'
 date: 2019/10/30 23:44:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51siQbnO3XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51siQbnO3XL._SL200_.jpg' ]

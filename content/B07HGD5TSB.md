@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 997h  Zapatillas para Mujer ' al 37.788888888888884 % de descuento
+title: 'New Balance 997h  Zapatillas para Mujer  al 37.788888888888884 % de descuento'
 date: 2019/12/30 09:20:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iABtCX0EL._SL200_.jpg' ]

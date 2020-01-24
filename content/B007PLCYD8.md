@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Port Designs Colorado - Funda para disco' al 68.22351959966639 % de descuento
+title: 'Port Designs Colorado - Funda para disco al 68.22351959966639 % de descuento'
 date: 2019/10/07 11:15:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41biJM28I5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41biJM28I5L._SL200_.jpg' ]

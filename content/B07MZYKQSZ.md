@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.0 % en 'find. Mendel Sports Zapatos de Cordones '
+title: 'Descuento del 35.0 % en find. Mendel Sports Zapatos de Cordones '
 date: 2019/12/07 08:34:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zRxkvShaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zRxkvShaL._SL200_.jpg' ]

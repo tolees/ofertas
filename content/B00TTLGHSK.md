@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Arlo VMA1000 Smart Home Adjustable Mount' al 49.96150885296382 % de descuento
+title: 'Arlo VMA1000 Smart Home Adjustable Mount al 49.96150885296382 % de descuento'
 date: 2019/12/22 13:01:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AMIBLPPnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AMIBLPPnL._SL200_.jpg' ]

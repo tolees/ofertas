@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko Reloj Cronógrafo para Hombre de Cu' al 36.187999999999995 % de descuento
+title: 'Seiko Reloj Cronógrafo para Hombre de Cu al 36.187999999999995 % de descuento'
 date: 2020-01-12 21:13:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5183XtDggqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5183XtDggqL._SL200_.jpg' ]

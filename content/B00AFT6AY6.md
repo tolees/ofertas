@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Suecos® Nordic - Zueco confort con plant' al 60.0 % de descuento
+title: 'Suecos® Nordic - Zueco confort con plant al 60.0 % de descuento'
 date: 2019/12/01 18:48:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411t7vesBnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411t7vesBnL._SL200_.jpg' ]

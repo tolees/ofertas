@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disfraz Familiar Carnaval Trajes Super M' al 75.02083912197833 % de descuento
+title: 'Disfraz Familiar Carnaval Trajes Super M al 75.02083912197833 % de descuento'
 date: 2020-01-22 14:42:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Rh5dcaw2L._SL200_.jpg' ]

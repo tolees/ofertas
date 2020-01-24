@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Sport Hoodie Sudadera Dep' al 59.266666666666666 % de descuento
+title: 'The North Face Sport Hoodie Sudadera Dep al 59.266666666666666 % de descuento'
 date: 2020-01-11 14:28:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TB3xLkdML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TB3xLkdML._SL200_.jpg' ]

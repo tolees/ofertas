@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT FOOTWEAR New Haven  Zapatillas para' al 61.76814011676397 % de descuento
+title: 'GANT FOOTWEAR New Haven  Zapatillas para al 61.76814011676397 % de descuento'
 date: 2020-01-05 23:54:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SN1vdH7oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SN1vdH7oL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.68222740913638 % en 'deAO Carretilla y Herramientas de Jardín'
+title: 'Descuento del 46.68222740913638 % en deAO Carretilla y Herramientas de Jardín'
 date: 2019/11/19 09:12:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OD2f2TIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OD2f2TIJL._SL200_.jpg' ]

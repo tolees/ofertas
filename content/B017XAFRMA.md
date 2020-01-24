@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher Pistola pulverizadora multifunci' al 38.27586206896553 % de descuento
+title: 'Kärcher Pistola pulverizadora multifunci al 38.27586206896553 % de descuento'
 date: 2019/11/06 21:33:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OMGR1J7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OMGR1J7DL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue Go LED Hue Incluido  conexió' al 44.54203262233375 % de descuento
+title: 'Philips Hue Go LED Hue Incluido  conexió al 44.54203262233375 % de descuento'
 date: 2019/11/22 09:28:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41orH1qlcXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41orH1qlcXL._SL200_.jpg' ]

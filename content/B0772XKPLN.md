@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Silver Ridge II Pantalones de S' al 63.955194025870114 % de descuento
+title: 'Columbia Silver Ridge II Pantalones de S al 63.955194025870114 % de descuento'
 date: 2019/11/16 22:52:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IPV7ipqzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IPV7ipqzL._SL200_.jpg' ]

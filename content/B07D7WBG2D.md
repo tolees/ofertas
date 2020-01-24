@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cable macho de USB 2.0 C ' al 30.153121319199062 % de descuento
+title: 'AmazonBasics - Cable macho de USB 2.0 C  al 30.153121319199062 % de descuento'
 date: 2019/11/14 10:50:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417v%2BOjv73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417v%2BOjv73L._SL200_.jpg' ]

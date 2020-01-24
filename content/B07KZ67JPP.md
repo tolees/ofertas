@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cortefiel C2Cbi Americana Gales Gri Amer' al 68.37735849056602 % de descuento
+title: 'Cortefiel C2Cbi Americana Gales Gri Amer al 68.37735849056602 % de descuento'
 date: 2019/11/07 07:22:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qIGTnoG3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qIGTnoG3L._SL200_.jpg' ]

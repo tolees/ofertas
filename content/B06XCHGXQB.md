@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.63157894736842 % en 'Pepe Jeans Kingston Zip  Vaqueros Regula'
+title: 'Descuento del 41.63157894736842 % en Pepe Jeans Kingston Zip  Vaqueros Regula'
 date: 2019/11/11 21:23:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VvFT1rEyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VvFT1rEyL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devir - Through The Ages: Historia de La' al 50.016666666666666 % de descuento
+title: 'Devir - Through The Ages: Historia de La al 50.016666666666666 % de descuento'
 date: 2019/10/12 20:05:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OEP1VgTGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OEP1VgTGL._SL200_.jpg' ]

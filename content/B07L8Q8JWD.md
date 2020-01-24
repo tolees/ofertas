@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.202020202020215 % en 'Panama Jack Julia Snake  Sandalia con Pu'
+title: 'Descuento del 61.202020202020215 % en Panama Jack Julia Snake  Sandalia con Pu'
 date: 2019/11/26 04:48:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ayvwNFPqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ayvwNFPqL._SL200_.jpg' ]

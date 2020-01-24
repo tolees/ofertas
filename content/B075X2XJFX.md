@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.89801699716714 % en 'find. NEWSTW051 vaqueros mujer cintura a'
+title: 'Descuento del 61.89801699716714 % en find. NEWSTW051 vaqueros mujer cintura a'
 date: 2020-01-09 15:12:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iTxTqMsuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iTxTqMsuL._SL200_.jpg' ]

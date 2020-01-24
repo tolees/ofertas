@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Loclassy  Pantalones para Hombre  ' al 56.98576972833118 % de descuento
+title: 'Celio Loclassy  Pantalones para Hombre   al 56.98576972833118 % de descuento'
 date: 2019/12/10 16:28:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Md%2Bfhuk5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Md%2Bfhuk5L._SL200_.jpg' ]

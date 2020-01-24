@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Super Mario Carnet Grand Format Ligne Fu' al 49.04761904761905 % de descuento
+title: 'Super Mario Carnet Grand Format Ligne Fu al 49.04761904761905 % de descuento'
 date: 2019/11/26 17:37:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yEd3x2GCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yEd3x2GCL._SL200_.jpg' ]

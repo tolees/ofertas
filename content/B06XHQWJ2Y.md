@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Kommodor B  Zapatillas para Niños' al 55.138461538461534 % de descuento
+title: 'Geox J Kommodor B  Zapatillas para Niños al 55.138461538461534 % de descuento'
 date: 2020-01-14 08:56:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AfdXY3t%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AfdXY3t%2BL._SL200_.jpg' ]

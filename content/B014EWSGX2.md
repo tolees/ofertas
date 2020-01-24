@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rowenta Compact Power SO2210F0 Calefacto' al 30.408688196627608 % de descuento
+title: 'Rowenta Compact Power SO2210F0 Calefacto al 30.408688196627608 % de descuento'
 date: 2019/10/25 00:44:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51v%2B-fNy9qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51v%2B-fNy9qL._SL200_.jpg' ]

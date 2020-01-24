@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Silver HT - Funda para Samsung Galaxy Ta' al 60.25125628140704 % de descuento
+title: 'Silver HT - Funda para Samsung Galaxy Ta al 60.25125628140704 % de descuento'
 date: 2019/10/28 18:16:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j6B-JyWKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j6B-JyWKL._SL200_.jpg' ]

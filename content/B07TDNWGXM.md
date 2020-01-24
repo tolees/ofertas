@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGADO Pulsera Hombre Mujer Cuero con Ac' al 56.68556185395131 % de descuento
+title: 'LEGADO Pulsera Hombre Mujer Cuero con Ac al 56.68556185395131 % de descuento'
 date: 2019/10/25 07:43:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413NRNlBuYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413NRNlBuYL._SL200_.jpg' ]

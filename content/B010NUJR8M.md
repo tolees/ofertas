@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.12500000000001 % en 'Nike Court Royale  PSV   Zapatillas de T'
+title: 'Descuento del 45.12500000000001 % en Nike Court Royale  PSV   Zapatillas de T'
 date: 2019/10/14 14:06:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bhCssXnCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bhCssXnCL._SL200_.jpg' ]

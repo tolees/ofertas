@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.9749373433584 % en 'FABTASTICS Minions Acc Set  3-tlg.  Cint'
+title: 'Descuento del 69.9749373433584 % en FABTASTICS Minions Acc Set  3-tlg.  Cint'
 date: 2019/10/08 12:33:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Q6-WdfCqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Q6-WdfCqL._SL200_.jpg' ]

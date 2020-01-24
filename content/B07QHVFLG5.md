@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.011113580795744 % en 'KFD 19V 65W Power Adapter Netzteil Ladeg'
+title: 'Descuento del 50.011113580795744 % en KFD 19V 65W Power Adapter Netzteil Ladeg'
 date: 2020-01-24 09:57:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z3CBbLK8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z3CBbLK8L._SL200_.jpg' ]

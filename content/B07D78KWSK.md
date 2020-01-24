@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.78 % en 'New Balance 574S v2  Zapatillas para Hom'
+title: 'Descuento del 46.78 % en New Balance 574S v2  Zapatillas para Hom'
 date: 2019/11/18 21:58:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GA1yE1sRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GA1yE1sRL._SL200_.jpg' ]

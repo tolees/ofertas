@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.79310344827586 % en 'Ibiza Splbox400 - Altavoz multimedia'
+title: 'Descuento del 41.79310344827586 % en Ibiza Splbox400 - Altavoz multimedia'
 date: 2019/11/13 11:34:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kK5jgDxIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kK5jgDxIL._SL200_.jpg' ]

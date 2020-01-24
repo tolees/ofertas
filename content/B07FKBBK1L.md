@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elizabeth Arden Retinol Ceramide 30 Caps' al 61.29235420078095 % de descuento
+title: 'Elizabeth Arden Retinol Ceramide 30 Caps al 61.29235420078095 % de descuento'
 date: 2019/11/08 17:12:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31btUtFShgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31btUtFShgL._SL200_.jpg' ]

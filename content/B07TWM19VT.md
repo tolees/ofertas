@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KIWI design dji Osmo Pocket 4-en-1 Sopor' al 30.781069642170067 % de descuento
+title: 'KIWI design dji Osmo Pocket 4-en-1 Sopor al 30.781069642170067 % de descuento'
 date: 2019/10/25 18:15:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KAsqU-WrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KAsqU-WrL._SL200_.jpg' ]

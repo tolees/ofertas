@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.230769230769226 % en 'Cardo Mariano 1000 mg | 180 cápsulas veg'
+title: 'Descuento del 42.230769230769226 % en Cardo Mariano 1000 mg | 180 cápsulas veg'
 date: 2019/12/03 08:03:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jOfTMaUAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jOfTMaUAL._SL200_.jpg' ]

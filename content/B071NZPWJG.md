@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.011204481792717 % en 'Bisutería Pendientes Blanca Femenina de '
+title: 'Descuento del 28.011204481792717 % en Bisutería Pendientes Blanca Femenina de '
 date: 2020-01-08 16:56:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NZ2SK4K9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NZ2SK4K9L._SL200_.jpg' ]

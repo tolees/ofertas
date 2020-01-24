@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 78.0980980980981 % en 'Puma 516427 01 Pantalón  Mujer  Negro  L'
+title: 'Descuento del 78.0980980980981 % en Puma 516427 01 Pantalón  Mujer  Negro  L'
 date: 2019/11/10 10:05:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YCIXxc-9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YCIXxc-9L._SL200_.jpg' ]

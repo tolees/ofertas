@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual TS_Winnipeg  Camisa Manga Larga' al 54.355083459787565 % de descuento
+title: 'Desigual TS_Winnipeg  Camisa Manga Larga al 54.355083459787565 % de descuento'
 date: 2019/10/22 16:15:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419pDVkuy3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419pDVkuy3L._SL200_.jpg' ]

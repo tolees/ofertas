@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Drive Bermuda Deporte  Hombre  Negr' al 25.08960573476703 % de descuento
+title: 'Joma Drive Bermuda Deporte  Hombre  Negr al 25.08960573476703 % de descuento'
 date: 2019/10/19 18:18:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AmdAyootL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AmdAyootL._SL200_.jpg' ]

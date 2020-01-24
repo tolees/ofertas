@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Essential Polo  Azul  Sea Captain' al 40.11111111111111 % de descuento
+title: 'Levi s Essential Polo  Azul  Sea Captain al 40.11111111111111 % de descuento'
 date: 2019/10/27 20:35:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dJuy0ITxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dJuy0ITxL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eiffel Textile Nimes Funda para Sofá  Al' al 42.80444444444444 % de descuento
+title: 'Eiffel Textile Nimes Funda para Sofá  Al al 42.80444444444444 % de descuento'
 date: 2019/11/11 16:24:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GcMgc1mNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GcMgc1mNL._SL200_.jpg' ]

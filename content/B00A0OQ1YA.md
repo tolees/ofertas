@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.865304081505094 % en 'Sorel 1964 Pac 2  Botas de Invierno para'
+title: 'Descuento del 44.865304081505094 % en Sorel 1964 Pac 2  Botas de Invierno para'
 date: 2019/11/19 07:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vJBG%2BfyvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vJBG%2BfyvL._SL200_.jpg' ]

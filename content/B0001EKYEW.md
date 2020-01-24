@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jane Iredale  Delineador de ojos - 150 g' al 51.754023937267846 % de descuento
+title: 'Jane Iredale  Delineador de ojos - 150 g al 51.754023937267846 % de descuento'
 date: 2019/10/29 17:38:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vHX6-nwGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vHX6-nwGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein PERFECTLY FIT - MEMORY TOUC' al 33.08510638297872 % de descuento
+title: 'Calvin Klein PERFECTLY FIT - MEMORY TOUC al 33.08510638297872 % de descuento'
 date: 2019/11/21 12:53:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514R%2BWryKYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514R%2BWryKYL._SL200_.jpg' ]

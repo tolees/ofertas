@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Yung-96  Zapatillas de Gimnasia p' al 55.02751375687844 % de descuento
+title: 'adidas Yung-96  Zapatillas de Gimnasia p al 55.02751375687844 % de descuento'
 date: 2019/12/10 20:52:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RhquWYuLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RhquWYuLL._SL200_.jpg' ]

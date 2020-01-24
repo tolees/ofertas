@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.72682926829268 % en 'Nenuco - Famosa Peluca   700014056'
+title: 'Descuento del 31.72682926829268 % en Nenuco - Famosa Peluca   700014056'
 date: 2019/10/26 17:59:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61cUDgwvasL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61cUDgwvasL._SL200_.jpg' ]

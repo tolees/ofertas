@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Quantum 360 4  Zapatillas de E' al 39.21052631578947 % de descuento
+title: 'Asics Gel-Quantum 360 4  Zapatillas de E al 39.21052631578947 % de descuento'
 date: 2019/11/26 15:25:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A-F5UzYIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A-F5UzYIL._SL200_.jpg' ]

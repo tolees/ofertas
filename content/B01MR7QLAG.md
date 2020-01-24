@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Victoria Basket Lona Piso Negro  Zapatil' al 29.306122448979586 % de descuento
+title: 'Victoria Basket Lona Piso Negro  Zapatil al 29.306122448979586 % de descuento'
 date: 2019/12/30 16:26:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RN0L9xqsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RN0L9xqsL._SL200_.jpg' ]

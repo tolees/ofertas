@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jabones faciales  Jabón de hecho a mano ' al 42.32397075798383 % de descuento
+title: 'Jabones faciales  Jabón de hecho a mano  al 42.32397075798383 % de descuento'
 date: 2019/12/15 20:46:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Wczh8aVhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Wczh8aVhL._SL200_.jpg' ]

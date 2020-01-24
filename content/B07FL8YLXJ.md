@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Vintage Logo 1st tee Camiseta d' al 52.40601503759399 % de descuento
+title: 'Superdry Vintage Logo 1st tee Camiseta d al 52.40601503759399 % de descuento'
 date: 2019/11/17 03:20:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k2d%2BvNgzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k2d%2BvNgzL._SL200_.jpg' ]

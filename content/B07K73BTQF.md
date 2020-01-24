@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Graphic B Sudadera  Negro  Logo S' al 50.83333333333333 % de descuento
+title: 'Levi s Graphic B Sudadera  Negro  Logo S al 50.83333333333333 % de descuento'
 date: 2020-01-21 07:15:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Gn51t8zTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Gn51t8zTL._SL200_.jpg' ]

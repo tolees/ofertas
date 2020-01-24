@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Baby Jogger City Mini ZIP - Silla de pas' al 32.448377581120944 % de descuento
+title: 'Baby Jogger City Mini ZIP - Silla de pas al 32.448377581120944 % de descuento'
 date: 2019/12/25 06:17:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WZkUtlxfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WZkUtlxfL._SL200_.jpg' ]

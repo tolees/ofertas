@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tikea Bolsa Geométrica de Corcho Natural' al 46.88232536333802 % de descuento
+title: 'Tikea Bolsa Geométrica de Corcho Natural al 46.88232536333802 % de descuento'
 date: 2019/12/23 09:35:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518TroXZdyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518TroXZdyL._SL200_.jpg' ]

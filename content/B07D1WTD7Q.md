@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.95232371794872 % en 'Armani Exchange'
+title: 'Descuento del 38.95232371794872 % en Armani Exchange'
 date: 2019/10/11 11:27:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FNnQlCDHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FNnQlCDHL._SL200_.jpg' ]

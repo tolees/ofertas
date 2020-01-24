@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VeloVendo® Alfombra Puzzle Infantiles co' al 45.55555555555556 % de descuento
+title: 'VeloVendo® Alfombra Puzzle Infantiles co al 45.55555555555556 % de descuento'
 date: 2020-01-07 08:59:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h94sfwP3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h94sfwP3L._SL200_.jpg' ]

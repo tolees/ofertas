@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Vest_Helen Vestido  Azul  Navy ' al 40.033351862145636 % de descuento
+title: 'Desigual Vest_Helen Vestido  Azul  Navy  al 40.033351862145636 % de descuento'
 date: 2019/11/08 20:34:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4161yta4m%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4161yta4m%2BL._SL200_.jpg' ]

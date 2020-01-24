@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Led Lighting Kit for LEGO Ideas' al 75.00750075007501 % de descuento
+title: 'BRIKSMAX Led Lighting Kit for LEGO Ideas al 75.00750075007501 % de descuento'
 date: 2020-01-23 17:34:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E6Fn-bCTL._SL200_.jpg' ]

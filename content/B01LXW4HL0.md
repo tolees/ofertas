@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Artego  Bolsas para portátil M' al 34.21292083712466 % de descuento
+title: 'Kipling - Artego  Bolsas para portátil M al 34.21292083712466 % de descuento'
 date: 2019/10/28 08:23:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HaKZWanoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HaKZWanoL._SL200_.jpg' ]

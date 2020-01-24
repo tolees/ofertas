@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Sonnenbrille Ga7072 50G 59 Gafas de' al 83.2074074074074 % de descuento
+title: 'Gant Sonnenbrille Ga7072 50G 59 Gafas de al 83.2074074074074 % de descuento'
 date: 2019/11/10 15:08:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GfS1p%2Bm4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GfS1p%2Bm4L._SL200_.jpg' ]

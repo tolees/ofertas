@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.91228070175438 % en 'A NEW ERA Era Ne Basic 9Forty Gorra de b'
+title: 'Descuento del 44.91228070175438 % en A NEW ERA Era Ne Basic 9Forty Gorra de b'
 date: 2020-01-15 19:47:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eZlrPlt-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eZlrPlt-L._SL200_.jpg' ]

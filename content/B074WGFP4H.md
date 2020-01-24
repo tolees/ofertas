@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sheaffer A5 Star Wars Collection R2 D2 -' al 50.0 % de descuento
+title: 'Sheaffer A5 Star Wars Collection R2 D2 - al 50.0 % de descuento'
 date: 2020-01-06 09:33:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41247fjPzJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41247fjPzJL._SL200_.jpg' ]

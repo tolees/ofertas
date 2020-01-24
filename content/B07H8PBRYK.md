@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonderbra Fabulous Feel Triangle Padde S' al 54.60700618192522 % de descuento
+title: 'Wonderbra Fabulous Feel Triangle Padde S al 54.60700618192522 % de descuento'
 date: 2019/11/01 08:30:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uoKNzgAzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uoKNzgAzL._SL200_.jpg' ]

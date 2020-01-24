@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Poppi Sudadera  Mujer  Blanc' al 57.19438877755512 % de descuento
+title: 'Trangoworld Poppi Sudadera  Mujer  Blanc al 57.19438877755512 % de descuento'
 date: 2019/10/29 15:17:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3137A%2B5JuPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3137A%2B5JuPL._SL200_.jpg' ]

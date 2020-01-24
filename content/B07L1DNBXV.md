@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jcooval tee SS Crew Neck Ca' al 34.15610406937959 % de descuento
+title: 'JACK & JONES Jcooval tee SS Crew Neck Ca al 34.15610406937959 % de descuento'
 date: 2019/11/09 15:52:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415NY2qEPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415NY2qEPxL._SL200_.jpg' ]

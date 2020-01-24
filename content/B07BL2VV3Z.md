@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 997H  Zapatillas para Hombre' al 44.58888888888889 % de descuento
+title: 'New Balance 997H  Zapatillas para Hombre al 44.58888888888889 % de descuento'
 date: 2019/10/20 08:26:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31suJQnGWDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31suJQnGWDL._SL200_.jpg' ]

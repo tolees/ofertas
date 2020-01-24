@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 10884 DUPLO My First Balancing Anim' al 25.558121632024633 % de descuento
+title: 'LEGO 10884 DUPLO My First Balancing Anim al 25.558121632024633 % de descuento'
 date: 2020-01-17 08:45:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510%2B-7XJjzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510%2B-7XJjzL._SL200_.jpg' ]

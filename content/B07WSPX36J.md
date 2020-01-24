@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oxkers Sony NP-FZ100 2 * 2100mAh Bateria' al 53.005300530053 % de descuento
+title: 'Oxkers Sony NP-FZ100 2 * 2100mAh Bateria al 53.005300530053 % de descuento'
 date: 2019/12/03 09:30:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aqt%2BAnsxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aqt%2BAnsxL._SL200_.jpg' ]

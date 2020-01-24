@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.60504201680673 % en 'VERGE BY WE-VIBE SLATE'
+title: 'Descuento del 42.60504201680673 % en VERGE BY WE-VIBE SLATE'
 date: 2019/11/07 06:14:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZsHshflzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZsHshflzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MARNUR Báscula Digital Báscula de Grasa ' al 63.72124041347116 % de descuento
+title: 'MARNUR Báscula Digital Báscula de Grasa  al 63.72124041347116 % de descuento'
 date: 2020-01-16 10:07:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W3oqzYPxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W3oqzYPxL._SL200_.jpg' ]

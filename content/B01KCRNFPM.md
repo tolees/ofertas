@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TomTom GO 6200 Pkw-Navi  6 Zoll mit Upda' al 41.42744063324538 % de descuento
+title: 'TomTom GO 6200 Pkw-Navi  6 Zoll mit Upda al 41.42744063324538 % de descuento'
 date: 2019/11/25 07:31:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YTcBj6S%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YTcBj6S%2BL._SL200_.jpg' ]

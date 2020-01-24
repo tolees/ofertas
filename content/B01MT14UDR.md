@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Men Expert Tratamiento Men' al 30.550918196994992 % de descuento
+title: 'L Oréal Paris Men Expert Tratamiento Men al 30.550918196994992 % de descuento'
 date: 2020-01-03 13:35:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412qVyqFiuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412qVyqFiuL._SL200_.jpg' ]

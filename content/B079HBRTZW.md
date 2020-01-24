@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.35 % en 'Kingston SDCS/32GBSP - MicroSD Canvas Se'
+title: 'Descuento del 67.35 % en Kingston SDCS/32GBSP - MicroSD Canvas Se'
 date: 2019/11/04 18:14:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310rU0ymEXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310rU0ymEXL._SL200_.jpg' ]

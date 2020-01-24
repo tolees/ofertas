@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Chaqueta De Plumón ' al 58.89683821832449 % de descuento
+title: 'Columbia Powder Lite Chaqueta De Plumón  al 58.89683821832449 % de descuento'
 date: 2020-01-21 22:38:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wJcKu1MNL._SL200_.jpg' ]

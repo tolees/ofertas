@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.51 % en 'Under Armour UA W Charged Bandit 3 Digi '
+title: 'Descuento del 66.51 % en Under Armour UA W Charged Bandit 3 Digi '
 date: 2019/11/09 18:52:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BW-xmuHlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BW-xmuHlL._SL200_.jpg' ]

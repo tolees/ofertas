@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.27316224445411 % en 'zedela Hub USB C  concentrador Tipo c 9 '
+title: 'Descuento del 28.27316224445411 % en zedela Hub USB C  concentrador Tipo c 9 '
 date: 2019/10/29 12:47:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pOk-GOGqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pOk-GOGqL._SL200_.jpg' ]

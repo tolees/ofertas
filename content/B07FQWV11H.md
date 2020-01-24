@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Coling Limit  Zapatos de Cordones' al 59.440000000000005 % de descuento
+title: 'Clarks Coling Limit  Zapatos de Cordones al 59.440000000000005 % de descuento'
 date: 2019/11/03 06:07:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KwV7IOVaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KwV7IOVaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Devir - Galletas  juego de mesa  BGGALLE' al 27.499999999999993 % de descuento
+title: 'Devir - Galletas  juego de mesa  BGGALLE al 27.499999999999993 % de descuento'
 date: 2019/12/02 09:24:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61EYUMKyQqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61EYUMKyQqL._SL200_.jpg' ]

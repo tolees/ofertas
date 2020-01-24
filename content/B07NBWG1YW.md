@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Trunk 3p Co/el Bóxer   Open Miscell' al 45.757196495619525 % de descuento
+title: 'BOSS Trunk 3p Co/el Bóxer   Open Miscell al 45.757196495619525 % de descuento'
 date: 2019/11/22 13:14:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415558WFgHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415558WFgHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aigital Repetidor de Red WiFi Amplificad' al 36.374658987572 % de descuento
+title: 'Aigital Repetidor de Red WiFi Amplificad al 36.374658987572 % de descuento'
 date: 2019/11/23 14:27:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dSo%2BfA9QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dSo%2BfA9QL._SL200_.jpg' ]

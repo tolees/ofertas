@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.0287859824781 % en 'Rock Jaw Alfa Genus V2 Earphones 3x Tuni'
+title: 'Descuento del 43.0287859824781 % en Rock Jaw Alfa Genus V2 Earphones 3x Tuni'
 date: 2020-01-22 13:11:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VO%2BZGOBaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VO%2BZGOBaL._SL200_.jpg' ]

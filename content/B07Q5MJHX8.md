@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mascarilla Blackhead  máscara de espinil' al 44.46091144868469 % de descuento
+title: 'Mascarilla Blackhead  máscara de espinil al 44.46091144868469 % de descuento'
 date: 2020-01-08 19:06:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5165czx9POL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5165czx9POL._SL200_.jpg' ]

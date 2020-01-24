@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bergner BGIB-5074 Bolsa de Almuerzo de N' al 58.0752739399714 % de descuento
+title: 'Bergner BGIB-5074 Bolsa de Almuerzo de N al 58.0752739399714 % de descuento'
 date: 2019/12/10 14:26:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mS9oPZ4KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mS9oPZ4KL._SL200_.jpg' ]

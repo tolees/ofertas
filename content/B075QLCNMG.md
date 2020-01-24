@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.31288656507047 % en 'WaveSound 3 Auriculares inalámbricos con'
+title: 'Descuento del 71.31288656507047 % en WaveSound 3 Auriculares inalámbricos con'
 date: 2019/12/19 08:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UARJc1dgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UARJc1dgL._SL200_.jpg' ]

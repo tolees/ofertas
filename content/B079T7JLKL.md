@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.77777777777779 % en 'Timex Reloj Cronógrafo para Hombre de Cu'
+title: 'Descuento del 67.77777777777779 % en Timex Reloj Cronógrafo para Hombre de Cu'
 date: 2020-01-23 22:23:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/415IbJjDK3L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415IbJjDK3L._AC_._SL200_.jpg' ]

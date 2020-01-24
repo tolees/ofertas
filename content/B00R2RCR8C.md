@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Safety 1st TIMBA - Trona de Madera Evolu' al 45.07142857142856 % de descuento
+title: 'Safety 1st TIMBA - Trona de Madera Evolu al 45.07142857142856 % de descuento'
 date: 2019/11/20 19:13:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31khy3zDm1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31khy3zDm1L._SL200_.jpg' ]

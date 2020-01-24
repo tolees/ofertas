@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.42857142857143 % en 'Salomon Cami seta deportiva de manga cor'
+title: 'Descuento del 57.42857142857143 % en Salomon Cami seta deportiva de manga cor'
 date: 2019/10/23 02:13:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M08tLTLvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M08tLTLvL._SL200_.jpg' ]

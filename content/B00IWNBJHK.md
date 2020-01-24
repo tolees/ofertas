@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.21841381035777 % en 'Jack & Jones Tim Original - Vaqueros sli'
+title: 'Descuento del 41.21841381035777 % en Jack & Jones Tim Original - Vaqueros sli'
 date: 2019/12/14 12:04:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tuXnRPiEL._SL200_.jpg' ]

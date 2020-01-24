@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.35555555555556 % en 'SALOMON Agile LS tee M Camiseta Deportiv'
+title: 'Descuento del 43.35555555555556 % en SALOMON Agile LS tee M Camiseta Deportiv'
 date: 2019/11/25 20:39:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lM2LYOhyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lM2LYOhyL._SL200_.jpg' ]

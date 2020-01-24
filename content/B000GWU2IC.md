@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.39933333333333 % en 'Sony SAL135F28 - Objetivo para Sony  Dis'
+title: 'Descuento del 49.39933333333333 % en Sony SAL135F28 - Objetivo para Sony  Dis'
 date: 2019/11/12 13:24:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41T-b%2BhIpML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41T-b%2BhIpML._SL200_.jpg' ]

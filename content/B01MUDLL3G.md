@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.251368182675975 % en 'Russell Hobbs Adventure 23610-56 - Tosta'
+title: 'Descuento del 32.251368182675975 % en Russell Hobbs Adventure 23610-56 - Tosta'
 date: 2019/12/29 15:18:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GjtAmiGRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GjtAmiGRL._SL200_.jpg' ]

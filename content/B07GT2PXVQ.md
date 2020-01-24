@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.78556111508221 % en 'Desigual - Bag Carmela Patch Bowling Wom'
+title: 'Descuento del 39.78556111508221 % en Desigual - Bag Carmela Patch Bowling Wom'
 date: 2019/11/08 18:15:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RH-Y8oVZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RH-Y8oVZL._SL200_.jpg' ]

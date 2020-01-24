@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Sachini2 D  Pantalones Mujer  Rosa ' al 52.65116279069768 % de descuento
+title: 'BOSS Sachini2 D  Pantalones Mujer  Rosa  al 52.65116279069768 % de descuento'
 date: 2019/11/19 08:41:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3114HQloPaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3114HQloPaL._SL200_.jpg' ]

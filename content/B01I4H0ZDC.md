@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Urban Classics Winter Boots  Botas Chukk' al 45.88567034093822 % de descuento
+title: 'Urban Classics Winter Boots  Botas Chukk al 45.88567034093822 % de descuento'
 date: 2019/11/26 17:10:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iwAkg4PmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iwAkg4PmL._SL200_.jpg' ]

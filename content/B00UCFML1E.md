@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tesa Assa Abloy  TX853535N  Cilindro de ' al 34.240924092409244 % de descuento
+title: 'Tesa Assa Abloy  TX853535N  Cilindro de  al 34.240924092409244 % de descuento'
 date: 2019/12/23 20:30:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OnKT11akL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OnKT11akL._SL200_.jpg' ]

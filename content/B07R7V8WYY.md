@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.80643417139768 % en 'Removedor de Espinillas Kit  EIVOTOR Ext'
+title: 'Descuento del 83.80643417139768 % en Removedor de Espinillas Kit  EIVOTOR Ext'
 date: 2019/12/14 17:24:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u80pfa1xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u80pfa1xL._SL200_.jpg' ]

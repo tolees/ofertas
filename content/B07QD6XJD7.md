@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Rebel Bold tee Camiseta  Hombre  Wh' al 52.28070175438597 % de descuento
+title: 'PUMA Rebel Bold tee Camiseta  Hombre  Wh al 52.28070175438597 % de descuento'
 date: 2020-01-22 15:41:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qTCZbNS7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qTCZbNS7L._SL200_.jpg' ]

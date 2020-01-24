@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ralph Rompe Internet Steelbook [Blu-ray]' al 45.016077170418 % de descuento
+title: 'Ralph Rompe Internet Steelbook [Blu-ray] al 45.016077170418 % de descuento'
 date: 2019/11/26 19:56:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jYtDJHQyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jYtDJHQyL._SL200_.jpg' ]

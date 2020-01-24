@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Crossfade Camiseta de Ma' al 64.5 % de descuento
+title: 'Under Armour UA Crossfade Camiseta de Ma al 64.5 % de descuento'
 date: 2019/10/25 13:18:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dLuTPkw1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dLuTPkw1L._SL200_.jpg' ]

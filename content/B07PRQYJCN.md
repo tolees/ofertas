@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Untertown Filter SS tee Camiset' al 74.09672040022235 % de descuento
+title: 'RIP CURL Untertown Filter SS tee Camiset al 74.09672040022235 % de descuento'
 date: 2019/10/05 14:18:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tXlr2BUJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tXlr2BUJL._SL200_.jpg' ]

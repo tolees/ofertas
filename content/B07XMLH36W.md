@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AURIQUE BAL1178 Leggings Deporte Mujer  ' al 30.6379821958457 % de descuento
+title: 'AURIQUE BAL1178 Leggings Deporte Mujer   al 30.6379821958457 % de descuento'
 date: 2020-01-03 15:59:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ze40jBkiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ze40jBkiL._SL200_.jpg' ]

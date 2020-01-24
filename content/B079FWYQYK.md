@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'find. Botín de Tacón Cuadrado Mujer  Neg'
+title: 'Descuento del 50.0 % en find. Botín de Tacón Cuadrado Mujer  Neg'
 date: 2019/10/09 10:41:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VrMBdJ5%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VrMBdJ5%2BL._SL200_.jpg' ]

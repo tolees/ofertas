@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spider-Man: Un Nuevo Universo  4K UHD + ' al 51.953875720691855 % de descuento
+title: 'Spider-Man: Un Nuevo Universo  4K UHD +  al 51.953875720691855 % de descuento'
 date: 2019/11/28 07:50:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516-qhRSO%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516-qhRSO%2BL._SL200_.jpg' ]

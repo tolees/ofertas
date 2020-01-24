@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.06012024048096 % en 'Suunto - Spartan Sport - SS022649000 - R'
+title: 'Descuento del 30.06012024048096 % en Suunto - Spartan Sport - SS022649000 - R'
 date: 2019/11/19 13:52:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hZDEvXd-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hZDEvXd-L._SL200_.jpg' ]

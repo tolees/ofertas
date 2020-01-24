@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.277686852154936 % en 'Rowenta Advancer TN5240F0 - Cortapelos h'
+title: 'Descuento del 27.277686852154936 % en Rowenta Advancer TN5240F0 - Cortapelos h'
 date: 2019/12/18 12:35:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZyZm-8VUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZyZm-8VUL._SL200_.jpg' ]

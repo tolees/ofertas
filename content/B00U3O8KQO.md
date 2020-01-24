@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Hatch  Vaqueros Slim para Hom' al 37.56509663233422 % de descuento
+title: 'Pepe Jeans Hatch  Vaqueros Slim para Hom al 37.56509663233422 % de descuento'
 date: 2019/10/29 13:26:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4147PnPXLoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4147PnPXLoL._SL200_.jpg' ]

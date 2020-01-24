@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.46153846153845 % en 'Timberland Bermuda Bañador  Azul  Amiral'
+title: 'Descuento del 61.46153846153845 % en Timberland Bermuda Bañador  Azul  Amiral'
 date: 2019/10/14 12:23:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TCaU7e5zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TCaU7e5zL._SL200_.jpg' ]

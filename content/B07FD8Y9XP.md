@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.9603267211202 % en 'Tiffosi Alford Chaqueta  Azul  Blue 790 '
+title: 'Descuento del 61.9603267211202 % en Tiffosi Alford Chaqueta  Azul  Blue 790 '
 date: 2019/11/14 13:03:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XSFwiHbIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XSFwiHbIL._SL200_.jpg' ]

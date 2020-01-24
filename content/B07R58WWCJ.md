@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.989853601971294 % en 'CARE OF by PUMA Zapatillas bajas en cuer'
+title: 'Descuento del 29.989853601971294 % en CARE OF by PUMA Zapatillas bajas en cuer'
 date: 2020-01-18 17:03:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21pAaFoi1WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21pAaFoi1WL._SL200_.jpg' ]

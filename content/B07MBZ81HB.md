@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.133005035577927 % en 'MSI GE75 Raider 8SF-032ES - Ordenador po'
+title: 'Descuento del 26.133005035577927 % en MSI GE75 Raider 8SF-032ES - Ordenador po'
 date: 2019/10/23 14:16:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Le3WfdOOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Le3WfdOOL._SL200_.jpg' ]

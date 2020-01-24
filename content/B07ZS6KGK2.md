@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.18181818181817 % en 'Sneakers Converse Limited Edition Mujer '
+title: 'Descuento del 53.18181818181817 % en Sneakers Converse Limited Edition Mujer '
 date: 2019/10/31 14:30:11 +0000
 thumbnailImage: ''
 images: [ '' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.36956521739131 % en 'BSN Nutrition Syntha 6 Edge Whey Protein'
+title: 'Descuento del 48.36956521739131 % en BSN Nutrition Syntha 6 Edge Whey Protein'
 date: 2020-01-23 12:04:49
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

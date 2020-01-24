@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.099300993009926 % en 'ASUS ZenBook Flip UX362FA-EL142T 13.3 In'
+title: 'Descuento del 30.099300993009926 % en ASUS ZenBook Flip UX362FA-EL142T 13.3 In'
 date: 2019/11/19 10:21:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kyW-rYcML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kyW-rYcML._SL200_.jpg' ]

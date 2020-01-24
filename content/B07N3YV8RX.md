@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HKT by Hackett London Hkt Jersey SS Polo' al 54.68008353901652 % de descuento
+title: 'HKT by Hackett London Hkt Jersey SS Polo al 54.68008353901652 % de descuento'
 date: 2019/11/20 09:44:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31K8VHUTXRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31K8VHUTXRL._SL200_.jpg' ]

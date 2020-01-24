@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 60234 City Town People Pack - Fun F' al 31.40897399256931 % de descuento
+title: 'LEGO 60234 City Town People Pack - Fun F al 31.40897399256931 % de descuento'
 date: 2019/12/27 20:47:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lj9N0tq2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lj9N0tq2L._SL200_.jpg' ]

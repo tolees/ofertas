@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Tapered Jeans  Azul  dk ' al 58.14907453726863 % de descuento
+title: 'G-STAR RAW 3301 Tapered Jeans  Azul  dk  al 58.14907453726863 % de descuento'
 date: 2019/11/11 21:20:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nrBbg0kAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nrBbg0kAL._SL200_.jpg' ]

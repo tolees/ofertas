@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crocs Crocband LodgePoint Boot Kids  Bot' al 49.98999799959992 % de descuento
+title: 'Crocs Crocband LodgePoint Boot Kids  Bot al 49.98999799959992 % de descuento'
 date: 2019/12/27 15:08:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41U5TYH2%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41U5TYH2%2BiL._SL200_.jpg' ]

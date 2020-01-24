@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cable HDMI tipo CL3  inst' al 83.65258866066621 % de descuento
+title: 'AmazonBasics - Cable HDMI tipo CL3  inst al 83.65258866066621 % de descuento'
 date: 2019/11/22 00:36:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hv2Epz16L._SL200_.jpg' ]

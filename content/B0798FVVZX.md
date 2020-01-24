@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.46773386693346 % en 'Frantics'
+title: 'Descuento del 35.46773386693346 % en Frantics'
 date: 2019/10/28 15:25:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RWIbmWmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RWIbmWmpL._SL200_.jpg' ]

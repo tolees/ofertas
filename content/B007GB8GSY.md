@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor All Star Core Ox  ' al 34.03076923076923 % de descuento
+title: 'Converse Chuck Taylor All Star Core Ox   al 34.03076923076923 % de descuento'
 date: 2019/12/03 07:06:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xUTF9UxhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xUTF9UxhL._SL200_.jpg' ]

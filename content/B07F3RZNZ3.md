@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.31428571428572 % en 'Vans Classic Heather  Camiseta para Homb'
+title: 'Descuento del 34.31428571428572 % en Vans Classic Heather  Camiseta para Homb'
 date: 2019/11/13 20:22:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513dG171dAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513dG171dAL._SL200_.jpg' ]

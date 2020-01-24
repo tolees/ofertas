@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic ER-GB40-S503 - Cortapelos en s' al 28.204081632653065 % de descuento
+title: 'Panasonic ER-GB40-S503 - Cortapelos en s al 28.204081632653065 % de descuento'
 date: 2019/11/07 08:40:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512suwAVnLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512suwAVnLL._SL200_.jpg' ]

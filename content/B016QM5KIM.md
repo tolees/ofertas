@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Core Denton Straight Chin' al 48.06806806806807 % de descuento
+title: 'Tommy Hilfiger Core Denton Straight Chin al 48.06806806806807 % de descuento'
 date: 2019/10/27 19:20:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41arXHJJe8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41arXHJJe8L._SL200_.jpg' ]

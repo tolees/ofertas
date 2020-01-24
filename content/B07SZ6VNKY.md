@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luz Solar de Jardín Cónica LED Exterior ' al 64.02561024409763 % de descuento
+title: 'Luz Solar de Jardín Cónica LED Exterior  al 64.02561024409763 % de descuento'
 date: 2019/12/31 13:17:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N37DTNDUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N37DTNDUL._SL200_.jpg' ]

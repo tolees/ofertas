@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher Hochdruckreiniger K 2 Basic  Dru' al 28.57551078725531 % de descuento
+title: 'Kärcher Hochdruckreiniger K 2 Basic  Dru al 28.57551078725531 % de descuento'
 date: 2020-01-07 16:22:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kz8KQTPtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kz8KQTPtL._SL200_.jpg' ]

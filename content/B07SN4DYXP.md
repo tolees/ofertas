@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Umi. Essentials - Auriculares de botón i' al 61.65233046609322 % de descuento
+title: 'Umi. Essentials - Auriculares de botón i al 61.65233046609322 % de descuento'
 date: 2020-01-05 17:49:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ciUHQchSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ciUHQchSL._SL200_.jpg' ]

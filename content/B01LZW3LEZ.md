@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.363579863269116 % en 'ProfiCook Sous Vide Olla cocción Lenta y'
+title: 'Descuento del 55.363579863269116 % en ProfiCook Sous Vide Olla cocción Lenta y'
 date: 2019/11/07 00:54:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OrvBKpdlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OrvBKpdlL._SL200_.jpg' ]

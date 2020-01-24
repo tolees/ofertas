@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.08902225556389 % en 'Cortefiel C7CB Denim Color Straight Pant'
+title: 'Descuento del 56.08902225556389 % en Cortefiel C7CB Denim Color Straight Pant'
 date: 2019/11/09 20:36:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xbxwnOSIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xbxwnOSIL._SL200_.jpg' ]

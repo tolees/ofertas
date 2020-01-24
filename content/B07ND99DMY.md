@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 70423 Hidden Side Paranormal Interc' al 36.37024913620658 % de descuento
+title: 'LEGO 70423 Hidden Side Paranormal Interc al 36.37024913620658 % de descuento'
 date: 2019/12/21 17:19:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZzUGVRSTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZzUGVRSTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Elly Vaqueros  Azul  Light Rugged GE' al 82.26113056528264 % de descuento
+title: 'Lee Elly Vaqueros  Azul  Light Rugged GE al 82.26113056528264 % de descuento'
 date: 2019/12/23 18:25:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318PR357ATL._SL200_.jpg' ]

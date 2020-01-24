@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.79245283018868 % en 'Geox U Nebula B  Zapatillas de Deporte p'
+title: 'Descuento del 47.79245283018868 % en Geox U Nebula B  Zapatillas de Deporte p'
 date: 2019/12/10 17:17:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S8njSHo9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S8njSHo9L._SL200_.jpg' ]

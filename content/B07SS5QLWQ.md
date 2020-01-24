@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP 24x - Monitor para Gaming de 23.8"  F' al 25.125628140703515 % de descuento
+title: 'HP 24x - Monitor para Gaming de 23.8"  F al 25.125628140703515 % de descuento'
 date: 2019/12/18 05:29:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i-FGdM8NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i-FGdM8NL._SL200_.jpg' ]

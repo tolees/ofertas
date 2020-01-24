@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA One Protect 3 Guantes De Portero  U' al 26.69632925472747 % de descuento
+title: 'PUMA One Protect 3 Guantes De Portero  U al 26.69632925472747 % de descuento'
 date: 2019/10/22 21:02:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xeyLcN46L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xeyLcN46L._SL200_.jpg' ]

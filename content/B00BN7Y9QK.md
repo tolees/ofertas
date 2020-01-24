@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.069930069930063 % en 'A6583500 L Óreal Paris Barra de labios -'
+title: 'Descuento del 30.069930069930063 % en A6583500 L Óreal Paris Barra de labios -'
 date: 2019/10/26 03:47:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31a8IscL%2BCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31a8IscL%2BCL._SL200_.jpg' ]

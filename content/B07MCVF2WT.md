@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GANT MD. Extrafine Lambswool V-Neck suét' al 41.074107410741064 % de descuento
+title: 'GANT MD. Extrafine Lambswool V-Neck suét al 41.074107410741064 % de descuento'
 date: 2020-01-13 02:34:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fDQZ8%2BPUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fDQZ8%2BPUL._SL200_.jpg' ]

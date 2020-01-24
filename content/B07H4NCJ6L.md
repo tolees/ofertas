@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UGREEN Cargador Quick Charge 3.0  Cargad' al 47.39336492890994 % de descuento
+title: 'UGREEN Cargador Quick Charge 3.0  Cargad al 47.39336492890994 % de descuento'
 date: 2020-01-18 16:14:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419epprrB5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419epprrB5L._SL200_.jpg' ]

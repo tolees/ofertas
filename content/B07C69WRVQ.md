@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.38017280582082 % en 'UGREEN Carcasa Disco Duro 2.5"  Caja Dis'
+title: 'Descuento del 36.38017280582082 % en UGREEN Carcasa Disco Duro 2.5"  Caja Dis'
 date: 2020-01-15 11:05:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xwCNqCFqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xwCNqCFqL._SL200_.jpg' ]

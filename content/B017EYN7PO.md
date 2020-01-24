@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'THE HEAT COMPANY Plantillas Calentadoras' al 52.340019102196756 % de descuento
+title: 'THE HEAT COMPANY Plantillas Calentadoras al 52.340019102196756 % de descuento'
 date: 2019/11/22 16:36:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TvsXrRCtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TvsXrRCtL._SL200_.jpg' ]

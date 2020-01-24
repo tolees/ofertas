@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amazon Essentials - Pantalones cortos de' al 54.18848167539267 % de descuento
+title: 'Amazon Essentials - Pantalones cortos de al 54.18848167539267 % de descuento'
 date: 2019/10/29 20:48:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FAKJKKBhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FAKJKKBhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.12373615792008 % en 'Softinos Evi523sof  Zapatos y Bolsos par'
+title: 'Descuento del 39.12373615792008 % en Softinos Evi523sof  Zapatos y Bolsos par'
 date: 2020-01-14 21:17:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hoy--j5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hoy--j5CL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.85714285714286 % en 'find. Camiseta de Deporte con Paneles de'
+title: 'Descuento del 42.85714285714286 % en find. Camiseta de Deporte con Paneles de'
 date: 2020-01-13 11:32:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zeRyATO1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zeRyATO1L._SL200_.jpg' ]

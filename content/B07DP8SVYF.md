@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POWER DOUGH Canal Toys Amazon ES1 DP017 ' al 58.29716193656094 % de descuento
+title: 'POWER DOUGH Canal Toys Amazon ES1 DP017  al 58.29716193656094 % de descuento'
 date: 2019/10/30 11:33:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bdlTxqAOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bdlTxqAOL._SL200_.jpg' ]

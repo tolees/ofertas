@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.46558197747184 % en 'Puma Logo Bra M Sujetador Deportivo  Muj'
+title: 'Descuento del 52.46558197747184 % en Puma Logo Bra M Sujetador Deportivo  Muj'
 date: 2019/11/25 18:49:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418nvgBsSwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418nvgBsSwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00833472245374 % en 'Briksmax Led Lighting Kit for Architectu'
+title: 'Descuento del 50.00833472245374 % en Briksmax Led Lighting Kit for Architectu'
 date: 2019/12/11 21:56:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412fdbPcCUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412fdbPcCUL._SL200_.jpg' ]

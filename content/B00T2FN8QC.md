@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brother LC22EBK - Cartucho de tinta negr' al 38.307650716409846 % de descuento
+title: 'Brother LC22EBK - Cartucho de tinta negr al 38.307650716409846 % de descuento'
 date: 2019/11/30 05:32:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q4vdRvKlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q4vdRvKlL._SL200_.jpg' ]

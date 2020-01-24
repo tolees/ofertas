@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.26378421261405 % en 'Optimum Nutrition ON Gold Standard Pre W'
+title: 'Descuento del 35.26378421261405 % en Optimum Nutrition ON Gold Standard Pre W'
 date: 2020-01-11 18:23:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ma3axfOgL._SL200_.jpg' ]

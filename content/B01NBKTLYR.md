@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.42907592701588 % en 'SOLEDI Kit de Costura 30 Hilo de Coser 1'
+title: 'Descuento del 29.42907592701588 % en SOLEDI Kit de Costura 30 Hilo de Coser 1'
 date: 2019/10/31 15:32:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TfLfyZ7qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TfLfyZ7qL._SL200_.jpg' ]

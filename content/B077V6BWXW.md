@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.2780913288866 % en 'Kipling Creativity L  Monedero para Muje'
+title: 'Descuento del 42.2780913288866 % en Kipling Creativity L  Monedero para Muje'
 date: 2019/12/17 18:03:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417w3qd0eoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417w3qd0eoL._SL200_.jpg' ]

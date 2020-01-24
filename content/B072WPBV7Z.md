@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.316812979219904 % en 'Kingston DataTraveler Bolt Duo C-USB3L-S'
+title: 'Descuento del 51.316812979219904 % en Kingston DataTraveler Bolt Duo C-USB3L-S'
 date: 2019/10/23 07:47:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bfnOU0xjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bfnOU0xjL._SL200_.jpg' ]

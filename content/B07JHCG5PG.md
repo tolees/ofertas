@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.08929946112394 % en 'Puma Fusion Pants Pantalones  Hombre  Gr'
+title: 'Descuento del 56.08929946112394 % en Puma Fusion Pants Pantalones  Hombre  Gr'
 date: 2019/10/18 01:24:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314hVD00qgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314hVD00qgL._SL200_.jpg' ]

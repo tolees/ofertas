@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Ambilight 55OLED804 139 cm  55 Z' al 36.33515234197362 % de descuento
+title: 'Philips Ambilight 55OLED804 139 cm  55 Z al 36.33515234197362 % de descuento'
 date: 2019/11/22 09:09:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TG-DgknyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TG-DgknyL._SL200_.jpg' ]

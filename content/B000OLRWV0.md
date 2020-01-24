@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.84285714285714 % en 'Converse Chuck Taylor All Star Season Hi'
+title: 'Descuento del 43.84285714285714 % en Converse Chuck Taylor All Star Season Hi'
 date: 2019/12/02 18:32:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nDCR9pS-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nDCR9pS-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MAD GIGA Seguro Estación de Carga USB  1' al 52.53813453363341 % de descuento
+title: 'MAD GIGA Seguro Estación de Carga USB  1 al 52.53813453363341 % de descuento'
 date: 2019/10/22 20:34:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sXYEWLJCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sXYEWLJCL._SL200_.jpg' ]

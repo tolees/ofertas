@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Campingaz Kühltasche Fold N Cool Nevera ' al 34.44049031237644 % de descuento
+title: 'Campingaz Kühltasche Fold N Cool Nevera  al 34.44049031237644 % de descuento'
 date: 2019/10/24 13:54:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n%2BM6Tt-KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n%2BM6Tt-KL._SL200_.jpg' ]

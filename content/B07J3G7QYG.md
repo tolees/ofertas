@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Sportstyle Left Chest SS Ca' al 44.269230769230774 % de descuento
+title: 'Under Armour Sportstyle Left Chest SS Ca al 44.269230769230774 % de descuento'
 date: 2019/12/17 08:59:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413I5P7gOhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413I5P7gOhL._SL200_.jpg' ]

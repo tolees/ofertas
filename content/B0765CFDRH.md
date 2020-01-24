@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO Güterzug  10875  Kinderspielz' al 25.00208350695892 % de descuento
+title: 'LEGO DUPLO Güterzug  10875  Kinderspielz al 25.00208350695892 % de descuento'
 date: 2019/12/18 09:27:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51FvIBba2aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51FvIBba2aL._SL200_.jpg' ]

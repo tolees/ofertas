@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Bluetooth 5.0 Inalámbricos A' al 41.434490641520206 % de descuento
+title: 'Auriculares Bluetooth 5.0 Inalámbricos A al 41.434490641520206 % de descuento'
 date: 2019/12/22 06:31:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RBvZEfilL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RBvZEfilL._SL200_.jpg' ]

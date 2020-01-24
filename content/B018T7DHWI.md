@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.92805755395684 % en 'LUNA mini 2 de FOREO es el limpiador fac'
+title: 'Descuento del 34.92805755395684 % en LUNA mini 2 de FOREO es el limpiador fac'
 date: 2019/11/27 21:04:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bxwx-D7bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bxwx-D7bL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.844444444444434 % en 'Hurley M Icon Stretch Chino 19  Bermudas'
+title: 'Descuento del 61.844444444444434 % en Hurley M Icon Stretch Chino 19  Bermudas'
 date: 2019/11/06 02:27:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hQ9fyLivL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hQ9fyLivL._SL200_.jpg' ]

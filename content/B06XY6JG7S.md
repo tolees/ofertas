@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OAKLEY Flak Beta OO9363 Gafas de sol par' al 44.474999999999994 % de descuento
+title: 'OAKLEY Flak Beta OO9363 Gafas de sol par al 44.474999999999994 % de descuento'
 date: 2019/10/30 15:05:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QDsfNoZtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QDsfNoZtL._SL200_.jpg' ]

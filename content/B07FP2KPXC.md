@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Speed Champions 75890 - Ferrari F40' al 26.684456304202797 % de descuento
+title: 'LEGO Speed Champions 75890 - Ferrari F40 al 26.684456304202797 % de descuento'
 date: 2020-01-17 09:25:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517PRuvIw3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517PRuvIw3L._SL200_.jpg' ]

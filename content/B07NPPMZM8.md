@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nene Toys - Torre de Bloques de Madera 4' al 33.36666666666667 % de descuento
+title: 'Nene Toys - Torre de Bloques de Madera 4 al 33.36666666666667 % de descuento'
 date: 2020-01-22 16:38:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513bespKpbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513bespKpbL._SL200_.jpg' ]

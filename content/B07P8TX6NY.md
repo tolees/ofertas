@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES PREMIUM Jprpaulos Play Stri' al 57.743097238895544 % de descuento
+title: 'JACK & JONES PREMIUM Jprpaulos Play Stri al 57.743097238895544 % de descuento'
 date: 2019/10/31 11:12:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BVGwHU-NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BVGwHU-NL._SL200_.jpg' ]

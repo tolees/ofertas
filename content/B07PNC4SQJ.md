@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Relaxed Busted Knee  Pantalones' al 65.8994032395567 % de descuento
+title: 'New Look Relaxed Busted Knee  Pantalones al 65.8994032395567 % de descuento'
 date: 2019/12/23 14:49:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LOtJWpV5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LOtJWpV5L._SL200_.jpg' ]

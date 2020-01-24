@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Julius-K9 16IDC - Power Harness' al 33.94433129667345 % de descuento
+title: 'Julius-K9 16IDC - Power Harness al 33.94433129667345 % de descuento'
 date: 2019/12/17 19:31:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pyLkPnzJL._SL200_.jpg' ]

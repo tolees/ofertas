@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jack Daniels Gentleman - Whisky   70 cl' al 36.61455788959452 % de descuento
+title: 'Jack Daniels Gentleman - Whisky   70 cl al 36.61455788959452 % de descuento'
 date: 2019/11/03 20:26:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zJsCH0vOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zJsCH0vOL._SL200_.jpg' ]

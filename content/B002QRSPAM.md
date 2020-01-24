@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Silverline 251087 - Báscula colgante rob' al 26.490066225165563 % de descuento
+title: 'Silverline 251087 - Báscula colgante rob al 26.490066225165563 % de descuento'
 date: 2019/10/15 20:58:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419YmBHWA8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419YmBHWA8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brabantia Bin newIcon Cubo de Basura con' al 29.066666666666663 % de descuento
+title: 'Brabantia Bin newIcon Cubo de Basura con al 29.066666666666663 % de descuento'
 date: 2019/12/26 20:00:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/214KHgx9n6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/214KHgx9n6L._SL200_.jpg' ]

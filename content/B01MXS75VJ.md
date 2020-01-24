@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lovable Celebrity Secret Strapless Sujet' al 84.16132478632478 % de descuento
+title: 'Lovable Celebrity Secret Strapless Sujet al 84.16132478632478 % de descuento'
 date: 2019/11/29 11:10:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UAntMKwBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UAntMKwBL._SL200_.jpg' ]

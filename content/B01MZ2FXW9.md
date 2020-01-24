@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Royal Glide Rpl  Zapatillas de Tr' al 55.36566589684373 % de descuento
+title: 'Reebok Royal Glide Rpl  Zapatillas de Tr al 55.36566589684373 % de descuento'
 date: 2019/11/13 21:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mejy2w2GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mejy2w2GL._SL200_.jpg' ]

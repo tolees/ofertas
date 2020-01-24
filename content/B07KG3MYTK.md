@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Rise XT 3 Zapatos de Futsal Unisex ' al 45.02814258911819 % de descuento
+title: 'PUMA Rise XT 3 Zapatos de Futsal Unisex  al 45.02814258911819 % de descuento'
 date: 2019/10/11 10:02:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EjvHgAtLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EjvHgAtLL._SL200_.jpg' ]

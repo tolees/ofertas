@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.69423558897243 % en 'LEGO Nexo Knights 70372 - Combo Kräfte S'
+title: 'Descuento del 77.69423558897243 % en LEGO Nexo Knights 70372 - Combo Kräfte S'
 date: 2020-01-08 14:36:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51XPkzXRT6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51XPkzXRT6L._SL200_.jpg' ]

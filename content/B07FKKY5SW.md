@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.706062844479796 % en 'Trangoworld Vettore Complet Chaqueta  Ho'
+title: 'Descuento del 26.706062844479796 % en Trangoworld Vettore Complet Chaqueta  Ho'
 date: 2020-01-19 14:34:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fLK%2BQV%2BvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fLK%2BQV%2BvL._SL200_.jpg' ]

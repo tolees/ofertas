@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Springer Riñonera Interior  23 c' al 42.881646655231556 % de descuento
+title: 'Eastpak Springer Riñonera Interior  23 c al 42.881646655231556 % de descuento'
 date: 2020-01-22 07:26:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FT9deZGJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FT9deZGJL._SL200_.jpg' ]

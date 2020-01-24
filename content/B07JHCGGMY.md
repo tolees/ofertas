@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Ivo Trail  Zapatillas para Homb' al 39.993999399939995 % de descuento
+title: 'Columbia Ivo Trail  Zapatillas para Homb al 39.993999399939995 % de descuento'
 date: 2020-01-06 19:03:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xyJSaTGWL._SL200_.jpg' ]

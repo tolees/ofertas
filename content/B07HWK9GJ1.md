@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.16490425835954 % en 'Huawei 51992696 Mate 20 Pro Aktiv Schutz'
+title: 'Descuento del 77.16490425835954 % en Huawei 51992696 Mate 20 Pro Aktiv Schutz'
 date: 2019/12/19 09:02:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313Louni8WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313Louni8WL._SL200_.jpg' ]

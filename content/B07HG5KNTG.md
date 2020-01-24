@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'New Balance FuelCell Propel  Zapatillas '
+title: 'Descuento del 50.0 % en New Balance FuelCell Propel  Zapatillas '
 date: 2020-01-03 15:19:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XnEffiP8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XnEffiP8L._SL200_.jpg' ]

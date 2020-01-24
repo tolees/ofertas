@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.188531421903654 % en 'Philips BG5020/15 Bodygroom Series 5000 '
+title: 'Descuento del 31.188531421903654 % en Philips BG5020/15 Bodygroom Series 5000 '
 date: 2019/10/21 13:36:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c9BjW7OGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c9BjW7OGL._SL200_.jpg' ]

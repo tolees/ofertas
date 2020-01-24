@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.000000000000004 % en 'American Tourister AT Work - Mochila Pri'
+title: 'Descuento del 30.000000000000004 % en American Tourister AT Work - Mochila Pri'
 date: 2020-01-13 19:21:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O4KYmmkNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O4KYmmkNL._SL200_.jpg' ]

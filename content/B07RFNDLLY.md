@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Galaxy 4  Zapatillas de Running p' al 34.774774774774784 % de descuento
+title: 'adidas Galaxy 4  Zapatillas de Running p al 34.774774774774784 % de descuento'
 date: 2019/11/05 10:52:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-v77pGTjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-v77pGTjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Arbily Auricular inalámbrico Bluetooth 5' al 60.01500375093774 % de descuento
+title: 'Arbily Auricular inalámbrico Bluetooth 5 al 60.01500375093774 % de descuento'
 date: 2019/11/11 18:33:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c95Tf0AfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c95Tf0AfL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.868995633187765 % en 'Moleskine - Set de Escritura Inteligente'
+title: 'Descuento del 38.868995633187765 % en Moleskine - Set de Escritura Inteligente'
 date: 2020-01-12 22:59:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IoTgOiTXL._SL200_.jpg' ]

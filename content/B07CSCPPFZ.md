@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Marta Pantalones    Multi Ble' al 75.46494992846925 % de descuento
+title: 'Pepe Jeans Marta Pantalones    Multi Ble al 75.46494992846925 % de descuento'
 date: 2019/12/26 20:11:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41USxm4zxkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41USxm4zxkL._SL200_.jpg' ]

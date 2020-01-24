@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Calla Rose Zapatos de Tacón Mujer' al 69.82491245622812 % de descuento
+title: 'Clarks Calla Rose Zapatos de Tacón Mujer al 69.82491245622812 % de descuento'
 date: 2019/12/13 10:26:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YJEtZaU1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YJEtZaU1L._SL200_.jpg' ]

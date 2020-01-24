@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.5 % en 'find. Blusa con Manga Acampanada para Mu'
+title: 'Descuento del 62.5 % en find. Blusa con Manga Acampanada para Mu'
 date: 2020-01-07 10:25:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zPbNy2RKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zPbNy2RKL._SL200_.jpg' ]

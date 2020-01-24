@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seiko Reloj Analógico para Hombre de Ene' al 48.440740740740736 % de descuento
+title: 'Seiko Reloj Analógico para Hombre de Ene al 48.440740740740736 % de descuento'
 date: 2020-01-02 06:38:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418i-ojrOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418i-ojrOTL._SL200_.jpg' ]

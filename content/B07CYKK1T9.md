@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.96031061259706 % en 'NOBES Tableta de Escritura LCD 8.5 Inch '
+title: 'Descuento del 43.96031061259706 % en NOBES Tableta de Escritura LCD 8.5 Inch '
 date: 2020-01-22 11:17:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ir8qlDmfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ir8qlDmfL._SL200_.jpg' ]

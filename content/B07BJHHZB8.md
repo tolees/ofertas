@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Midge Saddle Mid-Waist Straig' al 84.53522300958734 % de descuento
+title: 'G-STAR RAW Midge Saddle Mid-Waist Straig al 84.53522300958734 % de descuento'
 date: 2019/10/12 18:21:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41giFDekO5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41giFDekO5L._SL200_.jpg' ]

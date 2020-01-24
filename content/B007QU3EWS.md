@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Speedo Sportsbrief Essential Endurance T' al 27.54646840148699 % de descuento
+title: 'Speedo Sportsbrief Essential Endurance T al 27.54646840148699 % de descuento'
 date: 2019/12/02 04:27:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sYUcYy97L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sYUcYy97L._SL200_.jpg' ]

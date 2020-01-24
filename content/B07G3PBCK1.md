@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BabySteps I-Race - Zapatos para bebé' al 66.59993326659993 % de descuento
+title: 'BabySteps I-Race - Zapatos para bebé al 66.59993326659993 % de descuento'
 date: 2019/12/17 10:53:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DqzMI3SPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DqzMI3SPL._SL200_.jpg' ]

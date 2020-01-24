@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Infalible More than Concea' al 27.413127413127402 % de descuento
+title: 'L Oreal Paris Infalible More than Concea al 27.413127413127402 % de descuento'
 date: 2020-01-20 06:04:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iScYd0mJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iScYd0mJL._SL200_.jpg' ]

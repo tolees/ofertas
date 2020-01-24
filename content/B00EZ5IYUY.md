@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Eggo Long PM501321 Top de man' al 33.50000000000001 % de descuento
+title: 'Pepe Jeans Eggo Long PM501321 Top de man al 33.50000000000001 % de descuento'
 date: 2019/10/18 10:12:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TCh9kr%2BVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TCh9kr%2BVL._SL200_.jpg' ]

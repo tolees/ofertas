@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Powder Lite H Chaqueta De Plumó' al 37.20531504500643 % de descuento
+title: 'Columbia Powder Lite H Chaqueta De Plumó al 37.20531504500643 % de descuento'
 date: 2019/12/21 07:01:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MgR9bIBzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MgR9bIBzL._SL200_.jpg' ]

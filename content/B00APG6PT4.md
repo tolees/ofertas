@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.95991983967935 % en 'STANLEY 1-70-326 - Taller móvil 3 en 1'
+title: 'Descuento del 29.95991983967935 % en STANLEY 1-70-326 - Taller móvil 3 en 1'
 date: 2019/11/19 19:03:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CQxZM5tkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CQxZM5tkL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio FX-7400GII - Calculadora gráfica' al 58.7492182614134 % de descuento
+title: 'Casio FX-7400GII - Calculadora gráfica al 58.7492182614134 % de descuento'
 date: 2019/10/15 09:30:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410YW5bcoXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410YW5bcoXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.53691275167785 % en 'TOMMY HILFIGER Girls Basic Cn Knit S/s C'
+title: 'Descuento del 60.53691275167785 % en TOMMY HILFIGER Girls Basic Cn Knit S/s C'
 date: 2019/11/15 10:18:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310x6M%2BsiZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310x6M%2BsiZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.266292564723884 % en 'Pierre Cardin Antibes Raw Denim Vaqueros'
+title: 'Descuento del 32.266292564723884 % en Pierre Cardin Antibes Raw Denim Vaqueros'
 date: 2020-01-16 10:47:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PkF1oY82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PkF1oY82L._SL200_.jpg' ]

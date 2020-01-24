@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.88788788788789 % en 'Puma Liga Casual Sudadera  Hombre  Peaco'
+title: 'Descuento del 47.88788788788789 % en Puma Liga Casual Sudadera  Hombre  Peaco'
 date: 2019/11/06 08:05:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cdf-DHu%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cdf-DHu%2BL._SL200_.jpg' ]

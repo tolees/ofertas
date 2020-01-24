@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.470672389127326 % en 'iRobot Roomba 981 Saugroboter mit 3-stuf'
+title: 'Descuento del 28.470672389127326 % en iRobot Roomba 981 Saugroboter mit 3-stuf'
 date: 2019/11/07 10:49:01 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B07B6GGJGV.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07B6GGJGV.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]

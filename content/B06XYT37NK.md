@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SanDisk SDSQXCG-064G-GN6MA 64GB Extreme ' al 34.02627966267896 % de descuento
+title: 'SanDisk SDSQXCG-064G-GN6MA 64GB Extreme  al 34.02627966267896 % de descuento'
 date: 2020-01-05 12:24:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QFb%2BS1BlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QFb%2BS1BlL._SL200_.jpg' ]

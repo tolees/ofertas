@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pierre Cardin Smart Casual Sakko Michel ' al 52.935553654978115 % de descuento
+title: 'Pierre Cardin Smart Casual Sakko Michel  al 52.935553654978115 % de descuento'
 date: 2019/12/04 10:28:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M-l49jT6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M-l49jT6L._SL200_.jpg' ]

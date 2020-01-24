@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aigostar - Bombilla LED E27 12W equivale' al 60.053351117039014 % de descuento
+title: 'Aigostar - Bombilla LED E27 12W equivale al 60.053351117039014 % de descuento'
 date: 2019/11/30 21:48:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YbH15UMiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YbH15UMiL._SL200_.jpg' ]

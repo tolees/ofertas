@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger LR Trunk Bóxer  Negro  Bl' al 51.80722891566265 % de descuento
+title: 'Tommy Hilfiger LR Trunk Bóxer  Negro  Bl al 51.80722891566265 % de descuento'
 date: 2020-01-14 11:08:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d7CMbk7TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d7CMbk7TL._SL200_.jpg' ]

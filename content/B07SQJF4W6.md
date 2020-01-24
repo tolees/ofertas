@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.150000000000006 % en 'American Tourister Fun Limit - Mochila  '
+title: 'Descuento del 38.150000000000006 % en American Tourister Fun Limit - Mochila  '
 date: 2020-01-07 19:56:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edW1x6kwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41edW1x6kwL._SL200_.jpg' ]

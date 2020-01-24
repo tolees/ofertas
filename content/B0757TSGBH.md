@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Vaqueros Recto Hombre   Gris  Wash'
+title: 'Descuento del 70.0 % en find. Vaqueros Recto Hombre   Gris  Wash'
 date: 2019/10/08 09:10:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CePlbi-zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CePlbi-zL._SL200_.jpg' ]

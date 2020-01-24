@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Jacket Chaqueta  Ho' al 41.004100410041 % de descuento
+title: 'Columbia Powder Lite Jacket Chaqueta  Ho al 41.004100410041 % de descuento'
 date: 2019/12/30 20:09:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WGY02KjSL._SL200_.jpg' ]

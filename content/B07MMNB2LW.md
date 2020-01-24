@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.04600460046004 % en 'GANT D1.Winter TWI Buffalo Check Reg BD '
+title: 'Descuento del 60.04600460046004 % en GANT D1.Winter TWI Buffalo Check Reg BD '
 date: 2020-01-21 01:17:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YODsYamKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YODsYamKL._SL200_.jpg' ]

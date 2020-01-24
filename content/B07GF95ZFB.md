@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Festina Reloj Analógico para Mujer de Cu' al 44.60431654676259 % de descuento
+title: 'Festina Reloj Analógico para Mujer de Cu al 44.60431654676259 % de descuento'
 date: 2019/12/10 23:23:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Id%2BJHg3VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Id%2BJHg3VL._SL200_.jpg' ]

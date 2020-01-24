@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fujifilm XF 50-140 mm f/2.8 R LM OIS WR ' al 43.77736085053158 % de descuento
+title: 'Fujifilm XF 50-140 mm f/2.8 R LM OIS WR  al 43.77736085053158 % de descuento'
 date: 2019/11/24 07:48:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417dJSt4y9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417dJSt4y9L._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 1599 EUR
 inStock: true
 ---
 
-Está [Fujifilm XF 50-140 mm f/2.8 R LM OIS WR - Objetivo para Fujifilm X Mount  distancia focal 50-140 mm  apertura f/2.8-22  zoom óptico 2.8x  estabilizador óptico  diámetro: 72mm   negro](https://www.amazon.com/dp/B00NGFLO74/?tag=redken08-20) con 43.77736085053158 por 899 EUR (original: 1599 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fujifilm XF 50-140 mm f/2.8 R LM OIS WR - Objetivo para Fujifilm X Mount  distancia focal 50-140 mm  apertura f/2.8-22  zoom óptico 2.8x  estabilizador óptico  diámetro: 72mm   negro](https://www.amazon.com/dp/B00NGFLO74/?tag=redken08-20) a 899 EUR (original: 1599 EUR) (43.77736085053158 %) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/417dJSt4y9L._SL200_.jpg)](https://www.amazon.com/dp/B00NGFLO74/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00NGFLO74/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00NGFLO74/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Adipower ATTK 1.8' al 48.765625 % de descuento
+title: 'Adidas Adipower ATTK 1.8 al 48.765625 % de descuento'
 date: 2019/10/09 12:26:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O2vDuFL4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O2vDuFL4L._SL200_.jpg' ]

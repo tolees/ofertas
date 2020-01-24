@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.81990995497748 % en 'LEGO 10767 - Disney Pixar s Toy Story  D'
+title: 'Descuento del 39.81990995497748 % en LEGO 10767 - Disney Pixar s Toy Story  D'
 date: 2020-01-08 14:41:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hA9JBIjGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hA9JBIjGL._SL200_.jpg' ]

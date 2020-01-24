@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CHAMPU TEPEZCOHUITE 250 ml' al 44.726368159203986 % de descuento
+title: 'CHAMPU TEPEZCOHUITE 250 ml al 44.726368159203986 % de descuento'
 date: 2019/11/03 11:23:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IFUYXWdJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IFUYXWdJL._SL200_.jpg' ]

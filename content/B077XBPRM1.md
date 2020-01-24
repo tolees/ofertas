@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fruitman plumas multiherramientas electr' al 40.81753554502369 % de descuento
+title: 'Fruitman plumas multiherramientas electr al 40.81753554502369 % de descuento'
 date: 2019/10/27 14:47:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513DzLcRQJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513DzLcRQJL._SL200_.jpg' ]

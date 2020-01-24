@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.464 % en 'Calvin Klein - Ck Cast Sml Flap Xbody  B'
+title: 'Descuento del 42.464 % en Calvin Klein - Ck Cast Sml Flap Xbody  B'
 date: 2020-01-21 16:20:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418Ccp2MN1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418Ccp2MN1L._SL200_.jpg' ]

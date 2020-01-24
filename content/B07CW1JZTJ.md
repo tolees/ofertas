@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.00384911470363 % en 'Skechers Bikers-CONTAINED 44703  Mocasin'
+title: 'Descuento del 65.00384911470363 % en Skechers Bikers-CONTAINED 44703  Mocasin'
 date: 2019/11/02 19:17:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eg-0zUpJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eg-0zUpJL._SL200_.jpg' ]

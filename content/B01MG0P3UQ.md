@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.18333333333334 % en 'Asics T768N9690  Zapatillas de Running p'
+title: 'Descuento del 72.18333333333334 % en Asics T768N9690  Zapatillas de Running p'
 date: 2019/12/18 08:21:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vWNFmWKlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vWNFmWKlL._SL200_.jpg' ]

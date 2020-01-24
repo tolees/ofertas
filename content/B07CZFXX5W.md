@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.69779074614422 % en 'G-STAR RAW 3301-L High Waist Skinny Vaqu'
+title: 'Descuento del 74.69779074614422 % en G-STAR RAW 3301-L High Waist Skinny Vaqu'
 date: 2019/10/15 13:16:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Xz3z5V%2BBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Xz3z5V%2BBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop! Game of Thrones - Keychain Ni' al 38.129496402877706 % de descuento
+title: 'Funko Pop! Game of Thrones - Keychain Ni al 38.129496402877706 % de descuento'
 date: 2019/12/06 18:06:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BwwuX%2BzIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BwwuX%2BzIL._SL200_.jpg' ]

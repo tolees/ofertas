@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Rinse  38W / 3' al 66.27015008337966 % de descuento
+title: 'Lee Rider Jeans Vaqueros  Rinse  38W / 3 al 66.27015008337966 % de descuento'
 date: 2020-01-03 12:35:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CRENeSBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CRENeSBqL._SL200_.jpg' ]

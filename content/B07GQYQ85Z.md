@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EVGA GeForce RTX 2080 Ti XC Ultra Gaming' al 58.93042093157808 % de descuento
+title: 'EVGA GeForce RTX 2080 Ti XC Ultra Gaming al 58.93042093157808 % de descuento'
 date: 2019/12/20 12:11:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512YkprjjHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512YkprjjHL._SL200_.jpg' ]

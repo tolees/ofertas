@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.03754693366709 % en 'LEGO 41386 Friends Stephanie s Summer He'
+title: 'Descuento del 30.03754693366709 % en LEGO 41386 Friends Stephanie s Summer He'
 date: 2019/12/26 08:59:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oUrwaEspL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oUrwaEspL._SL200_.jpg' ]

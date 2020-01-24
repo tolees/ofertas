@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.04347826086956 % en 'Guantes de Invierno Calientes Impermeabl'
+title: 'Descuento del 42.04347826086956 % en Guantes de Invierno Calientes Impermeabl'
 date: 2020-01-09 09:12:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51R1mIeK7lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51R1mIeK7lL._SL200_.jpg' ]

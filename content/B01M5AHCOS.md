@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance ML373  Zapatillas para Hombr' al 37.33831177490331 % de descuento
+title: 'New Balance ML373  Zapatillas para Hombr al 37.33831177490331 % de descuento'
 date: 2019/12/28 18:54:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cKbVuOCKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cKbVuOCKL._SL200_.jpg' ]

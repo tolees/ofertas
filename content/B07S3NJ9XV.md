@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DON ALGODÓN Urban  Bolsa de Viaje Necese' al 41.70141784820684 % de descuento
+title: 'DON ALGODÓN Urban  Bolsa de Viaje Necese al 41.70141784820684 % de descuento'
 date: 2019/11/08 18:11:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S-TKrlv%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S-TKrlv%2BL._SL200_.jpg' ]

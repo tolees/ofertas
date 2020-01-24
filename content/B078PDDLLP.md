@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mitre Impel Training Football - White/Si' al 37.70212765957447 % de descuento
+title: 'Mitre Impel Training Football - White/Si al 37.70212765957447 % de descuento'
 date: 2019/11/08 16:40:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dMVkGYroL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dMVkGYroL._SL200_.jpg' ]

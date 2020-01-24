@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.44444444444444 % en 'Minkissy 14 Sets Polvos de uñas metálico'
+title: 'Descuento del 44.44444444444444 % en Minkissy 14 Sets Polvos de uñas metálico'
 date: 2019/11/29 00:16:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H2yGYtiGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H2yGYtiGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wolfenstein Youngblood - Edición Deluxe ' al 50.23755938984746 % de descuento
+title: 'Wolfenstein Youngblood - Edición Deluxe  al 50.23755938984746 % de descuento'
 date: 2019/12/20 10:50:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518kqCxmZQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518kqCxmZQL._SL200_.jpg' ]

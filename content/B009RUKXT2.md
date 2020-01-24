@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Johnnie Walker Blue Whisky Escocés - 700' al 40.50638749250566 % de descuento
+title: 'Johnnie Walker Blue Whisky Escocés - 700 al 40.50638749250566 % de descuento'
 date: 2020-01-21 00:36:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ivH6iYEZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ivH6iYEZL._SL200_.jpg' ]

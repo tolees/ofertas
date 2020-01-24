@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maquinilla de afeitar profesional  hoja ' al 73.7230121116377 % de descuento
+title: 'Maquinilla de afeitar profesional  hoja  al 73.7230121116377 % de descuento'
 date: 2020-01-22 12:28:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41c-CecZLpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41c-CecZLpL._SL200_.jpg' ]

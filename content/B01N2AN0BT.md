@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.79962894248609 % en 'Loovara OMG - gel estimulante para mujer'
+title: 'Descuento del 51.79962894248609 % en Loovara OMG - gel estimulante para mujer'
 date: 2019/12/31 12:08:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ll5nzDnAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ll5nzDnAL._SL200_.jpg' ]

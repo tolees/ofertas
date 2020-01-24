@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Shape High Waist Super Skinny' al 64.12466333205077 % de descuento
+title: 'G-STAR RAW Shape High Waist Super Skinny al 64.12466333205077 % de descuento'
 date: 2019/11/17 07:49:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c2SaXqHuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c2SaXqHuL._SL200_.jpg' ]

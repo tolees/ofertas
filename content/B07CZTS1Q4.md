@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon X Radiant  Zapatillas de Senderi' al 30.01667593107282 % de descuento
+title: 'Salomon X Radiant  Zapatillas de Senderi al 30.01667593107282 % de descuento'
 date: 2019/12/18 22:01:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MC4VX1STL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MC4VX1STL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.62985685071575 % en 'Under Armour Loudon - Mochila unisex  co'
+title: 'Descuento del 28.62985685071575 % en Under Armour Loudon - Mochila unisex  co'
 date: 2020-01-17 12:00:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lShJ8BhRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lShJ8BhRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Classic S/s Pique Polo  Negro  ' al 52.31046209241848 % de descuento
+title: 'Superdry Classic S/s Pique Polo  Negro   al 52.31046209241848 % de descuento'
 date: 2019/11/23 11:52:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319Etds8FML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319Etds8FML._SL200_.jpg' ]

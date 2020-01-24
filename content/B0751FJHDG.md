@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Falda Efecto Cuero con Abalorios M'
+title: 'Descuento del 70.0 % en find. Falda Efecto Cuero con Abalorios M'
 date: 2019/10/10 22:18:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XAuapX8YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XAuapX8YL._SL200_.jpg' ]

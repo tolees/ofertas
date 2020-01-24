@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Technic Porsche 911 GT3 RS Led ' al 61.43734819259894 % de descuento
+title: 'BRIKSMAX Technic Porsche 911 GT3 RS Led  al 61.43734819259894 % de descuento'
 date: 2020-01-22 09:42:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ag6%2BOieDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ag6%2BOieDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.10714285714286 % en 'Clarks Clarkdale Moon  Zapatos de Cordon'
+title: 'Descuento del 72.10714285714286 % en Clarks Clarkdale Moon  Zapatos de Cordon'
 date: 2020-01-20 14:20:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z3EmcuHiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z3EmcuHiL._SL200_.jpg' ]

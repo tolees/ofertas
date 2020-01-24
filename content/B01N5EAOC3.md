@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Velvet - Serie completa [DVD]' al 57.22858095343927 % de descuento
+title: 'Velvet - Serie completa [DVD] al 57.22858095343927 % de descuento'
 date: 2019/12/02 23:43:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Avnejq8-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Avnejq8-L._SL200_.jpg' ]

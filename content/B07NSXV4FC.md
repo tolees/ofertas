@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'E27 Cuerda de cáñamo de Doble de Socket ' al 74.04049561801149 % de descuento
+title: 'E27 Cuerda de cáñamo de Doble de Socket  al 74.04049561801149 % de descuento'
 date: 2019/12/08 20:06:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZkJGmImEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZkJGmImEL._SL200_.jpg' ]

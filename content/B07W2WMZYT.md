@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Cascos Gaming PS4 Gamer PC c' al 34.29551300371535 % de descuento
+title: 'Auriculares Cascos Gaming PS4 Gamer PC c al 34.29551300371535 % de descuento'
 date: 2019/12/06 09:19:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414ep%2BCV8GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414ep%2BCV8GL._SL200_.jpg' ]

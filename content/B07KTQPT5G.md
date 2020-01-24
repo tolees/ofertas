@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.080160320641276 % en 'Hugo Boss Reloj de Pulsera 1513676'
+title: 'Descuento del 40.080160320641276 % en Hugo Boss Reloj de Pulsera 1513676'
 date: 2019/12/01 22:19:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41scGTt6JbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41scGTt6JbL._SL200_.jpg' ]

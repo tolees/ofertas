@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Urban Classics 3-Tone Sweat Hoody Sudade' al 43.31797235023041 % de descuento
+title: 'Urban Classics 3-Tone Sweat Hoody Sudade al 43.31797235023041 % de descuento'
 date: 2019/11/26 20:36:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yGyZ3bcXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yGyZ3bcXL._SL200_.jpg' ]

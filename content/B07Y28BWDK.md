@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HP ENVY 17-ce1210ng  17 3 Zoll / Full HD' al 49.949949949949946 % de descuento
+title: 'HP ENVY 17-ce1210ng  17 3 Zoll / Full HD al 49.949949949949946 % de descuento'
 date: 2019/11/17 15:20:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PnALFVcPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PnALFVcPL._SL200_.jpg' ]

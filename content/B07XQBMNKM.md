@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.03391070992925 % en 'PVZ Battle for Neighborville'
+title: 'Descuento del 39.03391070992925 % en PVZ Battle for Neighborville'
 date: 2020-01-20 12:43:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cExLH3qQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cExLH3qQL._SL200_.jpg' ]

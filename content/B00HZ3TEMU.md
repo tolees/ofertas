@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UGG Neumel  Botas para Hombre  Negro  Bl' al 26.013967230727896 % de descuento
+title: 'UGG Neumel  Botas para Hombre  Negro  Bl al 26.013967230727896 % de descuento'
 date: 2020-01-17 00:57:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415n1MA%2BWyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415n1MA%2BWyL._SL200_.jpg' ]

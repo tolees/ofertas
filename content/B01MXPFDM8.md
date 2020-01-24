@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Flex Appeal 2.0-Insights  Zapat' al 47.45188606620477 % de descuento
+title: 'Skechers Flex Appeal 2.0-Insights  Zapat al 47.45188606620477 % de descuento'
 date: 2019/10/12 23:06:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JbEN0XodL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JbEN0XodL._SL200_.jpg' ]

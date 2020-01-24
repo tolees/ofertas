@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Inalámbricos Verdaderos  iHa' al 50.01087192868015 % de descuento
+title: 'Auriculares Inalámbricos Verdaderos  iHa al 50.01087192868015 % de descuento'
 date: 2020-01-05 21:01:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414NK91qtNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414NK91qtNL._SL200_.jpg' ]

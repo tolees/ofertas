@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.4180083482409 % en 'Calibres Digitales - JUNING Pinza digita'
+title: 'Descuento del 37.4180083482409 % en Calibres Digitales - JUNING Pinza digita'
 date: 2019/10/30 09:05:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D6hQoo2HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D6hQoo2HL._SL200_.jpg' ]

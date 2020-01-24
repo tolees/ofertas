@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 80.95652173913044 % en 'Superga 2750-FANTASY COTU  Zapatillas Un'
+title: 'Descuento del 80.95652173913044 % en Superga 2750-FANTASY COTU  Zapatillas Un'
 date: 2019/11/12 03:24:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oRzX8bX9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oRzX8bX9L._SL200_.jpg' ]

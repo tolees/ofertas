@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.91845493562232 % en 'Charles Wilson Jersey de Punto Fino de A'
+title: 'Descuento del 42.91845493562232 % en Charles Wilson Jersey de Punto Fino de A'
 date: 2020-01-21 08:58:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N4xVipOsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N4xVipOsL._SL200_.jpg' ]

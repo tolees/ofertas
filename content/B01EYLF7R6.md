@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DANISH ENDURANCE Calcetines Orgánicos de' al 53.5194880744619 % de descuento
+title: 'DANISH ENDURANCE Calcetines Orgánicos de al 53.5194880744619 % de descuento'
 date: 2019/10/11 23:53:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P3k6a7Z1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P3k6a7Z1L._SL200_.jpg' ]

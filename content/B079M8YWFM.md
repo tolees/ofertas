@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hasbro Gaming - Juego infantil Caca Chaf' al 27.758620689655178 % de descuento
+title: 'Hasbro Gaming - Juego infantil Caca Chaf al 27.758620689655178 % de descuento'
 date: 2020-01-22 23:11:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/614lsS263GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/614lsS263GL._SL200_.jpg' ]

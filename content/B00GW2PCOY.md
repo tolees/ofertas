@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cacique Añejo Ron - 700 ml' al 25.681969394544247 % de descuento
+title: 'Cacique Añejo Ron - 700 ml al 25.681969394544247 % de descuento'
 date: 2020-01-05 20:10:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ixKaHzzmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ixKaHzzmL._SL200_.jpg' ]

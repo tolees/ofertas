@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riuty Lámpara Colgante E27  Estilo clási' al 62.08388814913448 % de descuento
+title: 'Riuty Lámpara Colgante E27  Estilo clási al 62.08388814913448 % de descuento'
 date: 2019/12/08 23:50:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QKW1-%2BBZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QKW1-%2BBZL._SL200_.jpg' ]

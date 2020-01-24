@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.11879949979158 % en 'Salomon Trailster GTX W  Zapatillas de T'
+title: 'Descuento del 65.11879949979158 % en Salomon Trailster GTX W  Zapatillas de T'
 date: 2020-01-18 07:36:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lXyrLZyRL._SL200_.jpg' ]

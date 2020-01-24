@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech MK540 Wireless Keyboard and Mou' al 50.01000200040009 % de descuento
+title: 'Logitech MK540 Wireless Keyboard and Mou al 50.01000200040009 % de descuento'
 date: 2019/11/29 01:41:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzjhTUF9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BzjhTUF9L._SL200_.jpg' ]

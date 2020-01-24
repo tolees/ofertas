@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Classic Leather  Zapatillas de Tr' al 29.94994994994995 % de descuento
+title: 'Reebok Classic Leather  Zapatillas de Tr al 29.94994994994995 % de descuento'
 date: 2019/10/05 11:05:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xnJlBTXzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xnJlBTXzL._SL200_.jpg' ]

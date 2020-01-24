@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dockers Alpha Khaki Tapered Stretch Twil' al 26.63760468050935 % de descuento
+title: 'dockers Alpha Khaki Tapered Stretch Twil al 26.63760468050935 % de descuento'
 date: 2019/12/03 09:54:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tA75nIfrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tA75nIfrL._SL200_.jpg' ]

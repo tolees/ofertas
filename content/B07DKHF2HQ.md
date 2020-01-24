@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.999999999999993 % en 'Kipling - Inami S  Monederos Mujer  Mult'
+title: 'Descuento del 29.999999999999993 % en Kipling - Inami S  Monederos Mujer  Mult'
 date: 2020-01-04 10:37:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51s8YJUFaPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51s8YJUFaPL._SL200_.jpg' ]

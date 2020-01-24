@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Alpine Action Chaqueta OH Ski d' al 44.1075846097163 % de descuento
+title: 'Columbia Alpine Action Chaqueta OH Ski d al 44.1075846097163 % de descuento'
 date: 2020-01-03 17:44:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kxw1hXOxL._SL200_.jpg' ]

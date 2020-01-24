@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cup Casuals tee Camiseta  Hombre  G' al 49.94991652754591 % de descuento
+title: 'PUMA Cup Casuals tee Camiseta  Hombre  G al 49.94991652754591 % de descuento'
 date: 2019/12/20 20:48:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4130LoQCbdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4130LoQCbdL._SL200_.jpg' ]

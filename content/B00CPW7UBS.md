@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Misslight Casa para mascota plegable sua' al 95.38 % de descuento
+title: 'Misslight Casa para mascota plegable sua al 95.38 % de descuento'
 date: 2019/10/23 10:59:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iZfMAmUbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iZfMAmUbL._SL200_.jpg' ]

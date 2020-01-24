@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.94305502116199 % en 'KRISP 6488-NVY-08  Vestido Corto Fruncid'
+title: 'Descuento del 51.94305502116199 % en KRISP 6488-NVY-08  Vestido Corto Fruncid'
 date: 2020-01-23 20:28:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aygS3nvoL._SL200_.jpg' ]

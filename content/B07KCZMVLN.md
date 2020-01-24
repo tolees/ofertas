@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LANCARDO Reloj Médico de Bolsillo Colgan' al 60.89604175728578 % de descuento
+title: 'LANCARDO Reloj Médico de Bolsillo Colgan al 60.89604175728578 % de descuento'
 date: 2020-01-17 05:32:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cSfIHm0rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cSfIHm0rL._SL200_.jpg' ]

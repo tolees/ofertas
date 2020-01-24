@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.86560504654204 % en 'Columbia Pike Lake Chaqueta  Mujer  Rojo'
+title: 'Descuento del 52.86560504654204 % en Columbia Pike Lake Chaqueta  Mujer  Rojo'
 date: 2020-01-21 13:22:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414vPZeWnIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414vPZeWnIL._SL200_.jpg' ]

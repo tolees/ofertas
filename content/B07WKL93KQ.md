@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.015007503751868 % en 'Tarjetero RFID Cartera Crédito Cuero PU '
+title: 'Descuento del 30.015007503751868 % en Tarjetero RFID Cartera Crédito Cuero PU '
 date: 2019/12/10 14:00:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51N0v0Kw1bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51N0v0Kw1bL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 4.1.Gym.MD.Pash.Cruda Jacq. ' al 41.49432955303536 % de descuento
+title: 'Springfield 4.1.Gym.MD.Pash.Cruda Jacq.  al 41.49432955303536 % de descuento'
 date: 2019/10/20 16:29:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61PfrUMgr0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61PfrUMgr0L._SL200_.jpg' ]

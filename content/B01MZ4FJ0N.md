@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geomag- Classic Color Construcciones mag' al 41.36666666666666 % de descuento
+title: 'Geomag- Classic Color Construcciones mag al 41.36666666666666 % de descuento'
 date: 2019/11/30 07:50:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AwfyMLHML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AwfyMLHML._SL200_.jpg' ]

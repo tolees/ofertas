@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 75.18487394957984 % en 'Guess Sun GU7433 02C-53-16-140 Gafas de '
+title: 'Descuento del 75.18487394957984 % en Guess Sun GU7433 02C-53-16-140 Gafas de '
 date: 2019/10/31 14:44:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316W2gV-nzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316W2gV-nzL._SL200_.jpg' ]

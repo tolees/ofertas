@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.087617523504704 % en 'Columbia Hombre Chaqueta Polar con Crema'
+title: 'Descuento del 38.087617523504704 % en Columbia Hombre Chaqueta Polar con Crema'
 date: 2019/10/07 16:35:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ykGxsgqDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ykGxsgqDL._SL200_.jpg' ]

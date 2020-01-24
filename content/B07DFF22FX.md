@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LAST LEVEL- Funko Disney: Wreck-It-Ralph' al 52.16300940438872 % de descuento
+title: 'LAST LEVEL- Funko Disney: Wreck-It-Ralph al 52.16300940438872 % de descuento'
 date: 2020-01-17 02:59:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i1VQZWk4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 077cc2g003 Chaqueta de Bom' al 52.13803450862715 % de descuento
+title: 'edc by Esprit 077cc2g003 Chaqueta de Bom al 52.13803450862715 % de descuento'
 date: 2019/11/13 11:37:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wyzyKVpDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wyzyKVpDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.91428571428571 % en 'Eastpak Back TO Work Mochila Tipo Casual'
+title: 'Descuento del 50.91428571428571 % en Eastpak Back TO Work Mochila Tipo Casual'
 date: 2019/11/23 22:15:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bA37u7PjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bA37u7PjL._SL200_.jpg' ]

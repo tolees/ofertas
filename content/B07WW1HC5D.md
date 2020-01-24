@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Need for Speed Heat  Esta caja contiene ' al 55.87998064203904 % de descuento
+title: 'Need for Speed Heat  Esta caja contiene  al 55.87998064203904 % de descuento'
 date: 2019/12/16 09:21:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fSnJBUqNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fSnJBUqNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Clarks Sharon Pearl  Botines para Mujer '
+title: 'Descuento del 50.0 % en Clarks Sharon Pearl  Botines para Mujer '
 date: 2019/11/08 01:10:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qy3G9bgPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qy3G9bgPL._SL200_.jpg' ]

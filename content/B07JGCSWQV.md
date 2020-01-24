@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.28181818181818 % en 'Lacoste Sh6382 Sudadera  Azul  Marine 16'
+title: 'Descuento del 52.28181818181818 % en Lacoste Sh6382 Sudadera  Azul  Marine 16'
 date: 2019/12/30 19:29:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ok6i057WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ok6i057WL._SL200_.jpg' ]

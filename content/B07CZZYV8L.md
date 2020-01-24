@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Trunk CO/EL Bóxer  Azul  Open Blue ' al 42.860548271752094 % de descuento
+title: 'BOSS Trunk CO/EL Bóxer  Azul  Open Blue  al 42.860548271752094 % de descuento'
 date: 2019/11/29 08:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BwhBiBcfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BwhBiBcfL._SL200_.jpg' ]

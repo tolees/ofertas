@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Drasanvi Collmar Cao Colágeno Marino Hid' al 49.46969696969696 % de descuento
+title: 'Drasanvi Collmar Cao Colágeno Marino Hid al 49.46969696969696 % de descuento'
 date: 2019/10/25 00:56:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LV8pRsz8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LV8pRsz8L._SL200_.jpg' ]

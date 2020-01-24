@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 40157 POP Marvel: Spider-Man Far f' al 33.44444444444444 % de descuento
+title: 'Funko 40157 POP Marvel: Spider-Man Far f al 33.44444444444444 % de descuento'
 date: 2019/12/16 23:22:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rO5dqts9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rO5dqts9L._SL200_.jpg' ]

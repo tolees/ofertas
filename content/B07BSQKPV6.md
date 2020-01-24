@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.500652457590256 % en 'MSI GS65 8RF-019DE Stealth Thin  39 6 cm'
+title: 'Descuento del 51.500652457590256 % en MSI GS65 8RF-019DE Stealth Thin  39 6 cm'
 date: 2019/12/22 11:28:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YjYCDNoiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YjYCDNoiL._SL200_.jpg' ]

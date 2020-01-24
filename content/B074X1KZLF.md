@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.214285714285715 % en 'Sony GTK-XB60 - Sistema de Audio  Altavo'
+title: 'Descuento del 40.214285714285715 % en Sony GTK-XB60 - Sistema de Audio  Altavo'
 date: 2019/10/29 14:29:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413XrJc8WVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413XrJc8WVL._SL200_.jpg' ]

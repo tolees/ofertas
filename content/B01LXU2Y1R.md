@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett London Tailored Logo  Polo manga' al 26.94699837750134 % de descuento
+title: 'Hackett London Tailored Logo  Polo manga al 26.94699837750134 % de descuento'
 date: 2019/11/22 07:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a715oIdxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a715oIdxL._SL200_.jpg' ]

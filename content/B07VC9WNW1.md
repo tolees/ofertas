@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorclan Parka  Negro Black ' al 57.25103586226603 % de descuento
+title: 'JACK & JONES Jorclan Parka  Negro Black  al 57.25103586226603 % de descuento'
 date: 2020-01-22 20:49:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EpXRwhBiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EpXRwhBiL._SL200_.jpg' ]

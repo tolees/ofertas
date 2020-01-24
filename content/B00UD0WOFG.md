@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars - Disfraz de R2-D2 para mascot' al 65.78859619873292 % de descuento
+title: 'Star Wars - Disfraz de R2-D2 para mascot al 65.78859619873292 % de descuento'
 date: 2019/12/22 09:40:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411vCvIU%2B9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411vCvIU%2B9L._SL200_.jpg' ]

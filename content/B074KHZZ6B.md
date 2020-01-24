@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Osram Smart Sensor  2.4 W  Blanco  Lote ' al 40.114379084967325 % de descuento
+title: 'Osram Smart Sensor  2.4 W  Blanco  Lote  al 40.114379084967325 % de descuento'
 date: 2019/12/02 10:52:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hOh0kAXZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hOh0kAXZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Carson 2 Jr  Zapatillas Unisex Niño' al 50.21276595744681 % de descuento
+title: 'Puma Carson 2 Jr  Zapatillas Unisex Niño al 50.21276595744681 % de descuento'
 date: 2019/11/08 17:50:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bcpXmdHVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bcpXmdHVL._SL200_.jpg' ]

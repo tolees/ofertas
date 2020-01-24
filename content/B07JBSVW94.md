@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Energy Urban Box 4 BassTube - Altavoz  1' al 44.02805611222445 % de descuento
+title: 'Energy Urban Box 4 BassTube - Altavoz  1 al 44.02805611222445 % de descuento'
 date: 2019/10/15 07:20:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vf4j5JebL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vf4j5JebL._SL200_.jpg' ]

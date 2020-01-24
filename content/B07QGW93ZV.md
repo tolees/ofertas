@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Canasto de tela  alto  cú' al 39.22686945500633 % de descuento
+title: 'AmazonBasics - Canasto de tela  alto  cú al 39.22686945500633 % de descuento'
 date: 2019/12/12 18:06:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yDCnvjGSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yDCnvjGSL._SL200_.jpg' ]

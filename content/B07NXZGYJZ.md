@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferilinso Cristal Templado para Samsung ' al 63.085834649815695 % de descuento
+title: 'Ferilinso Cristal Templado para Samsung  al 63.085834649815695 % de descuento'
 date: 2019/12/01 14:03:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i70TRs25L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i70TRs25L._SL200_.jpg' ]

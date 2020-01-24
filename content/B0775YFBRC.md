@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Juego de accesorios moder' al 49.98484389208851 % de descuento
+title: 'AmazonBasics - Juego de accesorios moder al 49.98484389208851 % de descuento'
 date: 2020-01-13 11:05:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z5bpfJ8oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z5bpfJ8oL._SL200_.jpg' ]

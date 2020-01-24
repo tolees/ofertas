@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.535381598300376 % en 'Ted Baker Gaelah  Mocasines para Hombre '
+title: 'Descuento del 46.535381598300376 % en Ted Baker Gaelah  Mocasines para Hombre '
 date: 2020-01-10 00:49:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312zHqRQQpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312zHqRQQpL._SL200_.jpg' ]

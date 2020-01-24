@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hero Hero Sport Extreme M.Marquez Coloni' al 51.045751633986924 % de descuento
+title: 'Hero Hero Sport Extreme M.Marquez Coloni al 51.045751633986924 % de descuento'
 date: 2019/11/14 09:57:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E2K-a-sOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E2K-a-sOL._SL200_.jpg' ]

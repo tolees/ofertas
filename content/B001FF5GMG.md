@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.777690379037416 % en 'HP CE250A - Cartucho de tóner'
+title: 'Descuento del 41.777690379037416 % en HP CE250A - Cartucho de tóner'
 date: 2019/11/04 14:37:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LF-HEMtjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LF-HEMtjL._SL200_.jpg' ]

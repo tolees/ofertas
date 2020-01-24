@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pecute Cama de Perros y Mascotas Básica ' al 47.376732760133365 % de descuento
+title: 'Pecute Cama de Perros y Mascotas Básica  al 47.376732760133365 % de descuento'
 date: 2019/10/12 14:19:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4119D9yJxcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4119D9yJxcL._SL200_.jpg' ]

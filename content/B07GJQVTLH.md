@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ringke Fusion-X Funda Compatible con Sam' al 68.10506566604128 % de descuento
+title: 'Ringke Fusion-X Funda Compatible con Sam al 68.10506566604128 % de descuento'
 date: 2019/11/03 19:51:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mTvzI0CnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mTvzI0CnL._SL200_.jpg' ]

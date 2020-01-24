@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BY BENYAR Reloj cronógrafo para Hombre M' al 74.5016444056648 % de descuento
+title: 'BY BENYAR Reloj cronógrafo para Hombre M al 74.5016444056648 % de descuento'
 date: 2019/10/31 10:41:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PSJEEKyqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PSJEEKyqL._SL200_.jpg' ]

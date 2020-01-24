@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Brasil Logo Zehentrenner Unise' al 33.096234309623426 % de descuento
+title: 'Havaianas Brasil Logo Zehentrenner Unise al 33.096234309623426 % de descuento'
 date: 2020-01-22 18:23:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HihTeMKnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HihTeMKnL._SL200_.jpg' ]

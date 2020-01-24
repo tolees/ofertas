@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 84.67812408971744 % en 'Leg Avenue - Sexo y sensualidad'
+title: 'Descuento del 84.67812408971744 % en Leg Avenue - Sexo y sensualidad'
 date: 2019/11/12 16:51:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q3A639eWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q3A639eWL._SL200_.jpg' ]

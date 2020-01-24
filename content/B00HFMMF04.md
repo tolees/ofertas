@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York Perfilador de Ojos M' al 29.184549356223176 % de descuento
+title: 'Maybelline New York Perfilador de Ojos M al 29.184549356223176 % de descuento'
 date: 2019/11/12 11:22:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qt5K6%2BX%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qt5K6%2BX%2BL._SL200_.jpg' ]

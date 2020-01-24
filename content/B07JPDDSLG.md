@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.02898550724638 % en 'DAM. DMX197BKCorrea Diseño Flores De Pie'
+title: 'Descuento del 71.02898550724638 % en DAM. DMX197BKCorrea Diseño Flores De Pie'
 date: 2020-01-15 11:49:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wOiv28QtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wOiv28QtL._SL200_.jpg' ]

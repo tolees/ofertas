@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.08801760352071 % en 'JACK & JONES Jjitim Jjoriginal Am 782 50'
+title: 'Descuento del 40.08801760352071 % en JACK & JONES Jjitim Jjoriginal Am 782 50'
 date: 2019/11/06 10:44:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UF72R2zxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UF72R2zxL._SL200_.jpg' ]

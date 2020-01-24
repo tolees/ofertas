@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.01644031451037 % en 'PUMA Active Yogini Woven Suit Chándal  M'
+title: 'Descuento del 63.01644031451037 % en PUMA Active Yogini Woven Suit Chándal  M'
 date: 2019/11/12 02:22:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ej3FgJ5nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ej3FgJ5nL._SL200_.jpg' ]

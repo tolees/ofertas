@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.59870550161812 % en 'Samsung Galaxy Watch - Reloj Inteligente'
+title: 'Descuento del 35.59870550161812 % en Samsung Galaxy Watch - Reloj Inteligente'
 date: 2020-01-06 12:27:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ognm1IQwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ognm1IQwL._SL200_.jpg' ]

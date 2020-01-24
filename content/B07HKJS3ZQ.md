@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Breathe Trainer X NM  Zapat' al 50.012499999999996 % de descuento
+title: 'Under Armour Breathe Trainer X NM  Zapat al 50.012499999999996 % de descuento'
 date: 2019/11/18 11:36:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41igzKGFsoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41igzKGFsoL._SL200_.jpg' ]

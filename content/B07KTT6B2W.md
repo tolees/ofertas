@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ORICO Concentrador USB 3.0  7 Puertos US' al 27.785495971103092 % de descuento
+title: 'ORICO Concentrador USB 3.0  7 Puertos US al 27.785495971103092 % de descuento'
 date: 2019/10/24 23:01:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51mnKPTMFqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51mnKPTMFqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bref Blue Activ Cesta higenica para WC -' al 39.01869158878504 % de descuento
+title: 'Bref Blue Activ Cesta higenica para WC - al 39.01869158878504 % de descuento'
 date: 2020-01-21 13:16:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iPhnMs1nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iPhnMs1nL._SL200_.jpg' ]

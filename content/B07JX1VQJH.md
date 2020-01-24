@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.76767676767676 % en 'Timberland Adventure 2.0 Cupsole  Zapati'
+title: 'Descuento del 26.76767676767676 % en Timberland Adventure 2.0 Cupsole  Zapati'
 date: 2020-01-08 19:53:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u8TBRjEZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u8TBRjEZL._SL200_.jpg' ]

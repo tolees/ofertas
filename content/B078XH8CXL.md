@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wien Gin Klimt Vienna Dry in Gift Box - ' al 26.99040090344439 % de descuento
+title: 'Wien Gin Klimt Vienna Dry in Gift Box -  al 26.99040090344439 % de descuento'
 date: 2019/12/16 00:47:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cnhETYe-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cnhETYe-L._SL200_.jpg' ]

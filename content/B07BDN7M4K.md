@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.03999999999999 % en 'Beoankit Correa para Perros sin Manos  c'
+title: 'Descuento del 36.03999999999999 % en Beoankit Correa para Perros sin Manos  c'
 date: 2019/10/20 18:36:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4162XRKuzML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4162XRKuzML._SL200_.jpg' ]

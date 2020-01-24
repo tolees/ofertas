@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WEMEK Niñas Disfraz de Princesa Elsa con' al 70.1175293823456 % de descuento
+title: 'WEMEK Niñas Disfraz de Princesa Elsa con al 70.1175293823456 % de descuento'
 date: 2020-01-23 10:07:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515reKLLeFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515reKLLeFL._SL200_.jpg' ]

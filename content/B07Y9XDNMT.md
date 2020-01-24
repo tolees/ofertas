@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.86183740534361 % en 'Altavoces portátiles AY 30W Bluetooth 4.'
+title: 'Descuento del 32.86183740534361 % en Altavoces portátiles AY 30W Bluetooth 4.'
 date: 2019/12/03 10:29:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MEgO67NKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MEgO67NKL._SL200_.jpg' ]

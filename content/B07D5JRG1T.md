@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.0 % en 'Michael Kors - Junie  Bolsos totes Mujer'
+title: 'Descuento del 37.0 % en Michael Kors - Junie  Bolsos totes Mujer'
 date: 2019/12/04 01:52:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i0II5ms2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i0II5ms2L._SL200_.jpg' ]

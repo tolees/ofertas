@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vicloon Paraguas Que Cambia de Color Mág' al 25.012506253126553 % de descuento
+title: 'Vicloon Paraguas Que Cambia de Color Mág al 25.012506253126553 % de descuento'
 date: 2020-01-09 14:38:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k9SHgf9RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k9SHgf9RL._SL200_.jpg' ]

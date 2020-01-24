@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Digital TV  Portable TV with Freeview DV' al 51.69502532796467 % de descuento
+title: 'Digital TV  Portable TV with Freeview DV al 51.69502532796467 % de descuento'
 date: 2020-01-01 08:03:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51n7F9nAoJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51n7F9nAoJL._SL200_.jpg' ]

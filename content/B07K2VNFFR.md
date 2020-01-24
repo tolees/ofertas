@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.56666666666667 % en 'Hurley M Oceanside - Gorra para Hombre  '
+title: 'Descuento del 60.56666666666667 % en Hurley M Oceanside - Gorra para Hombre  '
 date: 2019/12/02 18:53:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MEAAW1zSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MEAAW1zSL._SL200_.jpg' ]

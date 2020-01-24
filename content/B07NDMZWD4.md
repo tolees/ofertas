@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.35853251806559 % en 'G-STAR RAW Graphic 17 Core Round Neck Su'
+title: 'Descuento del 65.35853251806559 % en G-STAR RAW Graphic 17 Core Round Neck Su'
 date: 2019/12/23 19:12:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vJeizyIIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vJeizyIIL._SL200_.jpg' ]

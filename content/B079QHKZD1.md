@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Stone' al 59.06666666666667 % de descuento
+title: 'Levi s 502 Regular Taper Vaqueros  Stone al 59.06666666666667 % de descuento'
 date: 2019/12/22 15:22:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41P7nV9YP9L._SL200_.jpg' ]

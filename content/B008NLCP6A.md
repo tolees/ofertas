@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.833333333333336 % en 'Nike W Np Pro Classic Swoosh Bra  Sujeta'
+title: 'Descuento del 30.833333333333336 % en Nike W Np Pro Classic Swoosh Bra  Sujeta'
 date: 2019/11/04 11:19:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t1DLBYY-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t1DLBYY-L._SL200_.jpg' ]

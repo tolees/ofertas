@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups Piccolo KP1A08 - Cafetera cápsulas' al 37.9746835443038 % de descuento
+title: 'Krups Piccolo KP1A08 - Cafetera cápsulas al 37.9746835443038 % de descuento'
 date: 2019/12/13 16:20:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VErHKcrIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VErHKcrIL._SL200_.jpg' ]

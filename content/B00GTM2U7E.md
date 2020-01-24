@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XSories Weye-Feye Distance Remote for Re' al 70.01400280056012 % de descuento
+title: 'XSories Weye-Feye Distance Remote for Re al 70.01400280056012 % de descuento'
 date: 2019/11/15 17:07:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GFrxCQ-tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GFrxCQ-tL._SL200_.jpg' ]

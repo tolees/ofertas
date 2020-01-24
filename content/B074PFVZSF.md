@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Pop Deluxe: Leia on Speeder Bike C' al 35.360068995256576 % de descuento
+title: 'Funko Pop Deluxe: Leia on Speeder Bike C al 35.360068995256576 % de descuento'
 date: 2019/12/02 14:43:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FaV0g3bEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FaV0g3bEL._SL200_.jpg' ]

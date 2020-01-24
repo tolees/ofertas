@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Colorshield 2 - Funda para por' al 30.58333333333334 % de descuento
+title: 'Samsonite Colorshield 2 - Funda para por al 30.58333333333334 % de descuento'
 date: 2019/11/15 14:45:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311jPegR%2B-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311jPegR%2B-L._SL200_.jpg' ]

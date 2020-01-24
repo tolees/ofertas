@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.39393939393939 % en 'Under Armour Threadborne SSC WM Gráfico '
+title: 'Descuento del 64.39393939393939 % en Under Armour Threadborne SSC WM Gráfico '
 date: 2019/10/21 08:29:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N2d6xaXIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N2d6xaXIL._SL200_.jpg' ]

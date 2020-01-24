@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Máscara para pelo  Cabello Mascarillas  ' al 34.62870334744132 % de descuento
+title: 'Máscara para pelo  Cabello Mascarillas   al 34.62870334744132 % de descuento'
 date: 2019/12/17 16:25:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Gfkgr1bPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Gfkgr1bPL._SL200_.jpg' ]

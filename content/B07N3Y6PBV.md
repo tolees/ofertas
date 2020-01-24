@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett GMT Dyed Linen PS Camisa  Blanco' al 46.096323333036594 % de descuento
+title: 'Hackett GMT Dyed Linen PS Camisa  Blanco al 46.096323333036594 % de descuento'
 date: 2019/11/20 22:39:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ffiUs2FOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ffiUs2FOL._SL200_.jpg' ]

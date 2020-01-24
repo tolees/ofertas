@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.005601120224043 % en 'ZKCREATION Smartwatch  Reloj Inteligente'
+title: 'Descuento del 28.005601120224043 % en ZKCREATION Smartwatch  Reloj Inteligente'
 date: 2020-01-19 15:46:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NIDxXFwCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NIDxXFwCL._SL200_.jpg' ]

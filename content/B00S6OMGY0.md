@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.716694347979264 % en 'MAKITA DGA504Z Herramienta'
+title: 'Descuento del 40.716694347979264 % en MAKITA DGA504Z Herramienta'
 date: 2020-01-04 11:58:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FeWgxkCEL._SL200_.jpg' ]

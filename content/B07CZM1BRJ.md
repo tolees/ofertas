@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Rival Fleece Logo Sweatshor' al 65.07499999999999 % de descuento
+title: 'Under Armour Rival Fleece Logo Sweatshor al 65.07499999999999 % de descuento'
 date: 2020-01-04 13:15:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BK%2BMLV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O%2BK%2BMLV3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maxi-Cosi Citi Babyschale  federleichter' al 49.966638865721436 % de descuento
+title: 'Maxi-Cosi Citi Babyschale  federleichter al 49.966638865721436 % de descuento'
 date: 2019/12/09 21:42:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lBwEvm5eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lBwEvm5eL._SL200_.jpg' ]

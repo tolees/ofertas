@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.4186046511628 % en 'Diadora Spa L. 3/4 Tight Pantalones  Muj'
+title: 'Descuento del 74.4186046511628 % en Diadora Spa L. 3/4 Tight Pantalones  Muj'
 date: 2019/11/12 14:37:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Jd4A6TQQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Jd4A6TQQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Stream Audífonos Bluetooth inalámbrico D' al 33.347228011671525 % de descuento
+title: 'Stream Audífonos Bluetooth inalámbrico D al 33.347228011671525 % de descuento'
 date: 2019/11/03 20:01:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CGx-mi0ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CGx-mi0ML._SL200_.jpg' ]

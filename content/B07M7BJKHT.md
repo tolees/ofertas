@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.52029163171818 % en 'GT Media V8 Nova DVB-S2 Decodificador Sa'
+title: 'Descuento del 64.52029163171818 % en GT Media V8 Nova DVB-S2 Decodificador Sa'
 date: 2019/12/09 18:02:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H4HktYSRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H4HktYSRL._SL200_.jpg' ]

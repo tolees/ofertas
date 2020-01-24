@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.98498748957465 % en 'Puma EVOSTRIPE Pants  Mujer  Black  M'
+title: 'Descuento del 61.98498748957465 % en Puma EVOSTRIPE Pants  Mujer  Black  M'
 date: 2019/11/05 22:40:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mpuy-5rKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mpuy-5rKL._SL200_.jpg' ]

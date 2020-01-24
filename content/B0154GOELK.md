@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deus Ex: Mankind Divided - Collector s E' al 36.47972920993924 % de descuento
+title: 'Deus Ex: Mankind Divided - Collector s E al 36.47972920993924 % de descuento'
 date: 2019/10/09 20:15:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511lyPtBLXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511lyPtBLXL._SL200_.jpg' ]

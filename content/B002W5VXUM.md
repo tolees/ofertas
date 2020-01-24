@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Burgmeister Delft BM510-362 - Reloj de M' al 51.24017467248909 % de descuento
+title: 'Burgmeister Delft BM510-362 - Reloj de M al 51.24017467248909 % de descuento'
 date: 2019/11/10 17:20:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JOGRyQ0PL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JOGRyQ0PL._SL200_.jpg' ]

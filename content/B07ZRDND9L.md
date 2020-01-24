@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'zociko Electroestimulador Muscular Abdom' al 61.43734819259894 % de descuento
+title: 'zociko Electroestimulador Muscular Abdom al 61.43734819259894 % de descuento'
 date: 2020-01-24 12:55:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pC9ka7kRL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pC9ka7kRL._AC_._SL200_.jpg' ]

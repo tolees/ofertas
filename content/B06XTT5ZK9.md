@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 78.19455894476505 % en 'M.O.D Loren Vaqueros Slim  Verde  Winter'
+title: 'Descuento del 78.19455894476505 % en M.O.D Loren Vaqueros Slim  Verde  Winter'
 date: 2019/11/08 14:52:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oZWlj2nbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oZWlj2nbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.849999999999998 % en 'Under Armour Sportstyle Tricot Jogger Pa'
+title: 'Descuento del 27.849999999999998 % en Under Armour Sportstyle Tricot Jogger Pa'
 date: 2019/12/23 20:57:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31BPSv8SydL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31BPSv8SydL._SL200_.jpg' ]

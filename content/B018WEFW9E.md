@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sorel Tofino II  Botas de Nieve para Muj' al 49.352467623381166 % de descuento
+title: 'Sorel Tofino II  Botas de Nieve para Muj al 49.352467623381166 % de descuento'
 date: 2019/11/02 19:14:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PL6GUtEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PL6GUtEWL._SL200_.jpg' ]

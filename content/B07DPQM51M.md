@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.338889814969164 % en 'Amzdeal Tapa y Asiento para inodoro Univ'
+title: 'Descuento del 33.338889814969164 % en Amzdeal Tapa y Asiento para inodoro Univ'
 date: 2019/10/15 08:21:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31esPPvoxbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31esPPvoxbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Court-Master 319 6 CMA  Zapatill' al 31.589473684210535 % de descuento
+title: 'Lacoste Court-Master 319 6 CMA  Zapatill al 31.589473684210535 % de descuento'
 date: 2019/10/14 08:34:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XDeV1BW6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XDeV1BW6L._SL200_.jpg' ]

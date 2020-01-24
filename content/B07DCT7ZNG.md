@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DeWalt dck551p3t-qw Kit de 5 herramienta' al 47.36834630460718 % de descuento
+title: 'DeWalt dck551p3t-qw Kit de 5 herramienta al 47.36834630460718 % de descuento'
 date: 2019/12/04 08:40:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UG990vowL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UG990vowL._SL200_.jpg' ]

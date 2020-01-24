@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'X-Men: Saga Completa Blu-Ray [Blu-ray]' al 36.148401269221374 % de descuento
+title: 'X-Men: Saga Completa Blu-Ray [Blu-ray] al 36.148401269221374 % de descuento'
 date: 2020-01-06 15:32:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DbYbYUWcL._SL200_.jpg' ]

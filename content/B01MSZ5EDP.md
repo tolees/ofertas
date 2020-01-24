@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.30144809300428 % en 's.Oliver 14704783465  Falda para Mujer  '
+title: 'Descuento del 74.30144809300428 % en s.Oliver 14704783465  Falda para Mujer  '
 date: 2020-01-02 08:11:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dP-Le2rBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dP-Le2rBL._SL200_.jpg' ]

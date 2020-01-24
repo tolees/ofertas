@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Monopoly- Junior  versión Española  Hasb' al 35.0 % de descuento
+title: 'Monopoly- Junior  versión Española  Hasb al 35.0 % de descuento'
 date: 2019/12/21 17:10:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-T-D4dwcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-T-D4dwcL._SL200_.jpg' ]

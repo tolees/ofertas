@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups EA8118 Arabica Picto Quattro Force' al 28.74550183489507 % de descuento
+title: 'Krups EA8118 Arabica Picto Quattro Force al 28.74550183489507 % de descuento'
 date: 2019/11/28 19:41:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MRuKDQ%2BaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MRuKDQ%2BaL._SL200_.jpg' ]

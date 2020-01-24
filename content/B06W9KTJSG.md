@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars Top Trumps Match Board Game' al 25.046992481203013 % de descuento
+title: 'Star Wars Top Trumps Match Board Game al 25.046992481203013 % de descuento'
 date: 2020-01-23 09:31:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61sJzDmhGfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61sJzDmhGfL._SL200_.jpg' ]

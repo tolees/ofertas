@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quiksilver Arnet Wind Cortaviento  Hombr' al 64.89648964896489 % de descuento
+title: 'Quiksilver Arnet Wind Cortaviento  Hombr al 64.89648964896489 % de descuento'
 date: 2019/10/12 20:02:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41znVcIWWvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41znVcIWWvL._SL200_.jpg' ]

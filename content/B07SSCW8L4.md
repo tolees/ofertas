@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.555412163252136 % en 'FIFA 20  La caja contiene un código de d'
+title: 'Descuento del 43.555412163252136 % en FIFA 20  La caja contiene un código de d'
 date: 2020-01-10 07:28:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hPvc4ioeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hPvc4ioeL._SL200_.jpg' ]

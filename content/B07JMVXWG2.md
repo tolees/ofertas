@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Palas de Ping Pong Profesional  Raqueta ' al 36.745581860620206 % de descuento
+title: 'Palas de Ping Pong Profesional  Raqueta  al 36.745581860620206 % de descuento'
 date: 2019/10/12 00:30:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UGEA1EfoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UGEA1EfoL._SL200_.jpg' ]

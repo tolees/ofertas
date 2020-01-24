@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.62870334744132 % en 'LOHOTEK Hombres 7" Pantalones Cortos par'
+title: 'Descuento del 34.62870334744132 % en LOHOTEK Hombres 7" Pantalones Cortos par'
 date: 2019/11/02 09:12:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o9NFmYQgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o9NFmYQgL._SL200_.jpg' ]

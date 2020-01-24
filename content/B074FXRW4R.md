@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lúdilo Guinness World Records Challenges' al 54.53167626553501 % de descuento
+title: 'Lúdilo Guinness World Records Challenges al 54.53167626553501 % de descuento'
 date: 2019/11/29 22:39:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51twCZREMHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51twCZREMHL._SL200_.jpg' ]

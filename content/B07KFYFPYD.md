@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.82371054657428 % en 'PUMA Caracal  Zapatillas Unisex Adulto  '
+title: 'Descuento del 50.82371054657428 % en PUMA Caracal  Zapatillas Unisex Adulto  '
 date: 2019/11/07 20:49:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YricMXk-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YricMXk-L._SL200_.jpg' ]

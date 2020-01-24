@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.681238615664846 % en 'BOXEUR DES RUES BXT-593 Guantes de Piel '
+title: 'Descuento del 34.681238615664846 % en BOXEUR DES RUES BXT-593 Guantes de Piel '
 date: 2019/11/03 18:10:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d9S4NkcPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d9S4NkcPL._SL200_.jpg' ]

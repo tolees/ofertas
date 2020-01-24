@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.15835972662111 % en 'NBA 2k20'
+title: 'Descuento del 50.15835972662111 % en NBA 2k20'
 date: 2020-01-15 23:05:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51i9Y7p81hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51i9Y7p81hL._SL200_.jpg' ]

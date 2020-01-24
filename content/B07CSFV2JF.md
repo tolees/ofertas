@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.620034542314343 % en 'Skechers Harsen-Ortego-BLK 65620  Mocasi'
+title: 'Descuento del 29.620034542314343 % en Skechers Harsen-Ortego-BLK 65620  Mocasi'
 date: 2019/12/03 08:03:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hVI2bsegL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hVI2bsegL._SL200_.jpg' ]

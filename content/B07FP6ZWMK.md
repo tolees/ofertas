@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO NINJAGO 70660 - Spinjitzu Jay' al 31.931931931931935 % de descuento
+title: 'LEGO NINJAGO 70660 - Spinjitzu Jay al 31.931931931931935 % de descuento'
 date: 2019/11/07 02:52:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51E11xURbUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51E11xURbUL._SL200_.jpg' ]

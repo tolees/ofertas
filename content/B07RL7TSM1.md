@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intel Optane Memory H10 32GB 512GB M.2 8' al 35.77325619190016 % de descuento
+title: 'Intel Optane Memory H10 32GB 512GB M.2 8 al 35.77325619190016 % de descuento'
 date: 2019/12/30 17:27:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hz0zupJvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hz0zupJvL._SL200_.jpg' ]

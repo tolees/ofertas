@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FIND - Glossy Charm  Líquido de labios m' al 65.73849878934624 % de descuento
+title: 'FIND - Glossy Charm  Líquido de labios m al 65.73849878934624 % de descuento'
 date: 2020-01-20 17:05:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kqCzdE9jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kqCzdE9jL._SL200_.jpg' ]

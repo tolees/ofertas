@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bambú Máscara Negra  Peel off Mascarilla' al 56.68556185395131 % de descuento
+title: 'Bambú Máscara Negra  Peel off Mascarilla al 56.68556185395131 % de descuento'
 date: 2019/11/19 07:23:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61f39vF-ccL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61f39vF-ccL._SL200_.jpg' ]

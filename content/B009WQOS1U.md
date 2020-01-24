@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple Adaptador de conector Lightning a ' al 25.0 % de descuento
+title: 'Apple Adaptador de conector Lightning a  al 25.0 % de descuento'
 date: 2019/12/27 13:39:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21p8-47RscL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21p8-47RscL._SL200_.jpg' ]

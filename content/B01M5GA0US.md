@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aigostar Sea 30CDW - Hervidor de agua de' al 48.019207683073226 % de descuento
+title: 'Aigostar Sea 30CDW - Hervidor de agua de al 48.019207683073226 % de descuento'
 date: 2019/11/23 19:03:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jOudc1hxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jOudc1hxL._SL200_.jpg' ]

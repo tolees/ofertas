@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.689801485073495 % en 'DC Apparel Dagup Jackets  Hombre  Black '
+title: 'Descuento del 52.689801485073495 % en DC Apparel Dagup Jackets  Hombre  Black '
 date: 2019/10/14 06:35:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iy3-EGKEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iy3-EGKEL._SL200_.jpg' ]

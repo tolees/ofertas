@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Microsoft - Sculpt Comfort Desktop  Rató' al 25.183537263626256 % de descuento
+title: 'Microsoft - Sculpt Comfort Desktop  Rató al 25.183537263626256 % de descuento'
 date: 2020-01-20 08:51:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WflVipooL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WflVipooL._SL200_.jpg' ]

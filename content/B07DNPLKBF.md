@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KPCB Mini Máquina de Coser Portatil y Ve' al 25.006251562890736 % de descuento
+title: 'KPCB Mini Máquina de Coser Portatil y Ve al 25.006251562890736 % de descuento'
 date: 2019/10/29 15:39:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ty-1kKcuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ty-1kKcuL._SL200_.jpg' ]

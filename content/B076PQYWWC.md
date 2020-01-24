@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nilfisk - Aspiradora Hepa Basic EU - Ser' al 55.22791221159258 % de descuento
+title: 'Nilfisk - Aspiradora Hepa Basic EU - Ser al 55.22791221159258 % de descuento'
 date: 2020-01-19 13:48:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S%2B7sIgSiL._SL200_.jpg' ]

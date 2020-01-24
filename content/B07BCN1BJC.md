@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Camisa de Excursionismo de Mang' al 53.62363440529312 % de descuento
+title: 'Columbia Camisa de Excursionismo de Mang al 53.62363440529312 % de descuento'
 date: 2019/11/21 00:31:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mewHboTCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mewHboTCL._SL200_.jpg' ]

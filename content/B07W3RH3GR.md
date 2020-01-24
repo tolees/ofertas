@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VICSPORT Guantes de Cuero con Mensaje de' al 40.444893832153696 % de descuento
+title: 'VICSPORT Guantes de Cuero con Mensaje de al 40.444893832153696 % de descuento'
 date: 2019/11/30 20:55:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MWmKCDrLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MWmKCDrLL._SL200_.jpg' ]

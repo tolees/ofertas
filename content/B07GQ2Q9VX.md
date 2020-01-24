@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.983709631323244 % en 'Hello Neighbor'
+title: 'Descuento del 42.983709631323244 % en Hello Neighbor'
 date: 2019/12/21 09:27:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K1DKafjgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K1DKafjgL._SL200_.jpg' ]

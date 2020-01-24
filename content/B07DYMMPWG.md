@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.20833333333333 % en 'Merrell Trail Glove 5  Zapatillas Deport'
+title: 'Descuento del 34.20833333333333 % en Merrell Trail Glove 5  Zapatillas Deport'
 date: 2019/10/09 17:53:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ffLmiL5GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ffLmiL5GL._SL200_.jpg' ]

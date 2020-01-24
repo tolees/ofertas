@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.83838383838385 % en 'Panama Jack Vera Snake  Sandalia con Pul'
+title: 'Descuento del 57.83838383838385 % en Panama Jack Vera Snake  Sandalia con Pul'
 date: 2019/11/17 18:03:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sb%2BhNaPtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sb%2BhNaPtL._SL200_.jpg' ]

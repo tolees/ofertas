@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.649155722326455 % en 'Desigual 19WAXA68 - Bolso de hombro de S'
+title: 'Descuento del 38.649155722326455 % en Desigual 19WAXA68 - Bolso de hombro de S'
 date: 2020-01-24 08:57:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nQ2O6kc+L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nQ2O6kc+L._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorluis Shirt SS Org Camisa' al 25.0 % de descuento
+title: 'JACK & JONES Jorluis Shirt SS Org Camisa al 25.0 % de descuento'
 date: 2019/11/02 18:49:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kJA9uItOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kJA9uItOL._SL200_.jpg' ]

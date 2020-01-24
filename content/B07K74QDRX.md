@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Classic Slide  Pantuflas Unisex A' al 39.639278557114224 % de descuento
+title: 'Reebok Classic Slide  Pantuflas Unisex A al 39.639278557114224 % de descuento'
 date: 2019/11/20 02:20:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21rOSlQHxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21rOSlQHxCL._SL200_.jpg' ]

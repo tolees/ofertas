@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.43877696813831 % en 'Cortapelos Nariz y Oreja Recargable 5 en'
+title: 'Descuento del 71.43877696813831 % en Cortapelos Nariz y Oreja Recargable 5 en'
 date: 2019-12-31 15:21:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AtYFtXz%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AtYFtXz%2BL._SL200_.jpg' ]

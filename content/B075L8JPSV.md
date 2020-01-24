@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.615786040443574 % en 'Memoria USB 2.0 de 128 MB 10 Piezas Mini'
+title: 'Descuento del 32.615786040443574 % en Memoria USB 2.0 de 128 MB 10 Piezas Mini'
 date: 2019/12/16 03:03:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uKTobSusL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uKTobSusL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZKCREATION Smartwatch Reloj Inteligente ' al 28.005601120224043 % de descuento
+title: 'ZKCREATION Smartwatch Reloj Inteligente  al 28.005601120224043 % de descuento'
 date: 2020-01-24 10:30:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JGUZ96sSL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JGUZ96sSL._AC_._SL200_.jpg' ]

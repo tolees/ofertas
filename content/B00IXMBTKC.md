@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joma Nobel Pantalón de equipación  Negro' al 33.07262569832401 % de descuento
+title: 'Joma Nobel Pantalón de equipación  Negro al 33.07262569832401 % de descuento'
 date: 2020-01-13 16:11:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rzaiUwzIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rzaiUwzIL._SL200_.jpg' ]

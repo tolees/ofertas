@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 81.64541135283821 % en 'Cortefiel 3.T.M.Blusa Detal Cuentas  Muj'
+title: 'Descuento del 81.64541135283821 % en Cortefiel 3.T.M.Blusa Detal Cuentas  Muj'
 date: 2019/11/09 14:37:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iCaBxmjCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iCaBxmjCL._SL200_.jpg' ]

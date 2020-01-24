@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.61879242586638 % en 'G-STAR RAW ARC 3D Relaxed Tapered Fit Je'
+title: 'Descuento del 52.61879242586638 % en G-STAR RAW ARC 3D Relaxed Tapered Fit Je'
 date: 2019/12/06 03:26:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r6C5baa4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r6C5baa4L._SL200_.jpg' ]

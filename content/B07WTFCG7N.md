@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G915 LIGHTSPEED Wireless RGB Mechanical ' al 26.425057002280095 % de descuento
+title: 'G915 LIGHTSPEED Wireless RGB Mechanical  al 26.425057002280095 % de descuento'
 date: 2020-01-22 05:03:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418lENL-QYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418lENL-QYL._SL200_.jpg' ]

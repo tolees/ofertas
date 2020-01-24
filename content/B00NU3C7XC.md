@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Piquadro Bolso Bandolera CA3337B2/N' al 27.163076923076922 % de descuento
+title: 'Piquadro Bolso Bandolera CA3337B2/N al 27.163076923076922 % de descuento'
 date: 2019/11/04 00:57:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yWuxDsqYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yWuxDsqYL._SL200_.jpg' ]

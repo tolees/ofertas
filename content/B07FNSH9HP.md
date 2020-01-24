@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO DUPLO 10908 - Flugzeug' al 29.929929929929934 % de descuento
+title: 'LEGO DUPLO 10908 - Flugzeug al 29.929929929929934 % de descuento'
 date: 2019/12/30 15:12:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vrNmErojL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vrNmErojL._SL200_.jpg' ]

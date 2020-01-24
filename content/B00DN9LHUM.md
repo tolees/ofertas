@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Solaray Vitamin C 1000mg | con Escaramuj' al 25.836160930683462 % de descuento
+title: 'Solaray Vitamin C 1000mg | con Escaramuj al 25.836160930683462 % de descuento'
 date: 2020-01-14 12:13:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SAtdv-lLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SAtdv-lLL._SL200_.jpg' ]

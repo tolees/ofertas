@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.20320320320321 % en 'PUMA Own It Full Tight Mallas Deporte  M'
+title: 'Descuento del 63.20320320320321 % en PUMA Own It Full Tight Mallas Deporte  M'
 date: 2019/11/04 03:42:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yH%2BgDkoqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yH%2BgDkoqL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OwlFay Vestido de Tutu Princesa Fiesta D' al 74.82634065018061 % de descuento
+title: 'OwlFay Vestido de Tutu Princesa Fiesta D al 74.82634065018061 % de descuento'
 date: 2019/10/20 22:07:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311CLuA7mdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311CLuA7mdL._SL200_.jpg' ]

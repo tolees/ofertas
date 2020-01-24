@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Straight Tapered Jeans  ' al 55.48774387193597 % de descuento
+title: 'G-STAR RAW 3301 Straight Tapered Jeans   al 55.48774387193597 % de descuento'
 date: 2019/12/04 06:51:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mcxEu2VoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mcxEu2VoL._SL200_.jpg' ]

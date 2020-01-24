@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.020040080160314 % en 'adidas D2m tee 3s T-Shirt  Hombre  Black'
+title: 'Descuento del 30.020040080160314 % en adidas D2m tee 3s T-Shirt  Hombre  Black'
 date: 2020-01-10 11:34:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4153j8x0kTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4153j8x0kTL._SL200_.jpg' ]

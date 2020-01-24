@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.54093389933292 % en 'Columbia Klamath Range II Forro Polar co'
+title: 'Descuento del 42.54093389933292 % en Columbia Klamath Range II Forro Polar co'
 date: 2019/11/06 09:20:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412zNtR2XSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412zNtR2XSL._SL200_.jpg' ]

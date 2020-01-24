@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.351254480286737 % en 'Bosch Professional GSB 18V-28 - Taladro '
+title: 'Descuento del 28.351254480286737 % en Bosch Professional GSB 18V-28 - Taladro '
 date: 2019/11/18 08:04:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z-RiEfTdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z-RiEfTdL._SL200_.jpg' ]

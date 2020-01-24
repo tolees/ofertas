@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NUK Active Cup - Cuerpo de la botella de' al 31.581969566465695 % de descuento
+title: 'NUK Active Cup - Cuerpo de la botella de al 31.581969566465695 % de descuento'
 date: 2019/10/25 10:29:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XOSjgcSGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XOSjgcSGL._SL200_.jpg' ]

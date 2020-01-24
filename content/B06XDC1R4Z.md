@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson WF4720 Impresora multifunción c11c' al 42.63255101581153 % de descuento
+title: 'Epson WF4720 Impresora multifunción c11c al 42.63255101581153 % de descuento'
 date: 2019/11/29 13:07:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31c-jriPvFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31c-jriPvFL._SL200_.jpg' ]

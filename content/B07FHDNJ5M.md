@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Otw Camiseta  Gris  Heather-White T' al 46.099999999999994 % de descuento
+title: 'Vans Otw Camiseta  Gris  Heather-White T al 46.099999999999994 % de descuento'
 date: 2019/11/13 19:42:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RdpF4KvmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RdpF4KvmL._SL200_.jpg' ]

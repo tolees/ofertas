@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taurus Phoenix Sandwichera  800 W  2 Ind' al 31.704501731435165 % de descuento
+title: 'Taurus Phoenix Sandwichera  800 W  2 Ind al 31.704501731435165 % de descuento'
 date: 2020-01-17 22:54:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318InkDR9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318InkDR9iL._SL200_.jpg' ]

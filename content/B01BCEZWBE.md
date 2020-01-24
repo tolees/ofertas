@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung S22F350FHU - Monitor LED de 21.5' al 27.739495798319336 % de descuento
+title: 'Samsung S22F350FHU - Monitor LED de 21.5 al 27.739495798319336 % de descuento'
 date: 2019/10/17 09:18:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OJvLCUO2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OJvLCUO2L._SL200_.jpg' ]

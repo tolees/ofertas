@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EGOGO Multifuncional Pack de Mochila Ban' al 32.61578604044358 % de descuento
+title: 'EGOGO Multifuncional Pack de Mochila Ban al 32.61578604044358 % de descuento'
 date: 2019/12/03 20:46:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mWxyeyMJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mWxyeyMJL._SL200_.jpg' ]

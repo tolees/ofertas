@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.008001600320064 % en 'Woxter Stinger FX 80 Megakit - Kit gamin'
+title: 'Descuento del 40.008001600320064 % en Woxter Stinger FX 80 Megakit - Kit gamin'
 date: 2019/12/01 22:54:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510JPZIAZPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510JPZIAZPL._SL200_.jpg' ]

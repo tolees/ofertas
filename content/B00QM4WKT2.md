@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ravensburger 29841 - 2-in-1 Mandala Desi' al 42.57921067259588 % de descuento
+title: 'Ravensburger 29841 - 2-in-1 Mandala Desi al 42.57921067259588 % de descuento'
 date: 2020-01-22 01:17:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61eXI2gipsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61eXI2gipsL._SL200_.jpg' ]

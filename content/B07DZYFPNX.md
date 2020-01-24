@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marca Amazon - Goodthreads - Jersey de a' al 42.72727272727273 % de descuento
+title: 'Marca Amazon - Goodthreads - Jersey de a al 42.72727272727273 % de descuento'
 date: 2019/12/04 17:07:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TbcBn%2B1VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TbcBn%2B1VL._SL200_.jpg' ]

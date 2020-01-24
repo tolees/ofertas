@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ENKEEO - 23x103.5cm Longboard  Monopatín' al 28.57551078725531 % de descuento
+title: 'ENKEEO - 23x103.5cm Longboard  Monopatín al 28.57551078725531 % de descuento'
 date: 2020-01-22 14:24:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HTie8zo8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HTie8zo8L._SL200_.jpg' ]

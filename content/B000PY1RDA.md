@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'First American Brands Love Is just The T' al 83.63636363636364 % de descuento
+title: 'First American Brands Love Is just The T al 83.63636363636364 % de descuento'
 date: 2020-01-18 15:28:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YngToGS2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YngToGS2L._SL200_.jpg' ]

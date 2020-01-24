@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VSADEY IPL Depiladora Profesional de Dep' al 38.464497269020704 % de descuento
+title: 'VSADEY IPL Depiladora Profesional de Dep al 38.464497269020704 % de descuento'
 date: 2019/11/06 22:39:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DWwqAiL0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DWwqAiL0L._SL200_.jpg' ]

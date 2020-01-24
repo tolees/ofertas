@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.335555703713595 % en 'Corsair K65 Rapidfire Mechanische Gaming'
+title: 'Descuento del 33.335555703713595 % en Corsair K65 Rapidfire Mechanische Gaming'
 date: 2019/12/02 18:35:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s7rL5g8ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s7rL5g8ML._SL200_.jpg' ]

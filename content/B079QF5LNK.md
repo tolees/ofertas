@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.99615355027311 % en 'Pepe Jeans London Hubert Boot  Botas Cla'
+title: 'Descuento del 49.99615355027311 % en Pepe Jeans London Hubert Boot  Botas Cla'
 date: 2019/11/07 11:56:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WI8mGBrpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WI8mGBrpL._SL200_.jpg' ]

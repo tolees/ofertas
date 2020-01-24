@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.22666666666667 % en 'New Balance 500 Core  Zapatillas para Ho'
+title: 'Descuento del 39.22666666666667 % en New Balance 500 Core  Zapatillas para Ho'
 date: 2019/12/17 12:09:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QrVGy0r8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QrVGy0r8L._SL200_.jpg' ]

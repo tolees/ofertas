@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein CKIN2U For Him Eau de Toile' al 60.099999999999994 % de descuento
+title: 'Calvin Klein CKIN2U For Him Eau de Toile al 60.099999999999994 % de descuento'
 date: 2020-01-01 10:17:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FesetPTlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FesetPTlL._SL200_.jpg' ]

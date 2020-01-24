@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WOSTOO Mujer Cintura Entrenador  Fajas R' al 34.20888055034397 % de descuento
+title: 'WOSTOO Mujer Cintura Entrenador  Fajas R al 34.20888055034397 % de descuento'
 date: 2019/10/06 08:31:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zmZoSD6uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zmZoSD6uL._SL200_.jpg' ]

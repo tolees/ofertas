@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Ward - Zapatillas para Mujer  Negro' al 27.95714285714286 % de descuento
+title: 'Vans Ward - Zapatillas para Mujer  Negro al 27.95714285714286 % de descuento'
 date: 2019/12/25 20:13:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UDeC1N3OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UDeC1N3OL._SL200_.jpg' ]

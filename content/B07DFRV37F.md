@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Rebel Block FZ Hoody FL Sweatshirt ' al 59.97140814867763 % de descuento
+title: 'PUMA Rebel Block FZ Hoody FL Sweatshirt  al 59.97140814867763 % de descuento'
 date: 2019/11/04 15:17:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PrHt5f1CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PrHt5f1CL._SL200_.jpg' ]

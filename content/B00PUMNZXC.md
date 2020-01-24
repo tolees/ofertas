@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Belkin F5L091BT - Base de refrigeración ' al 71.70620177193484 % de descuento
+title: 'Belkin F5L091BT - Base de refrigeración  al 71.70620177193484 % de descuento'
 date: 2019/11/11 23:48:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LaM0wMnIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LaM0wMnIL._SL200_.jpg' ]

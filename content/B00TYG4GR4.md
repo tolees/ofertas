@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tristar SZ-2131 Aspirador Multi Ciclónic' al 31.082352941176474 % de descuento
+title: 'Tristar SZ-2131 Aspirador Multi Ciclónic al 31.082352941176474 % de descuento'
 date: 2019/10/26 09:47:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415BoKbd3cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415BoKbd3cL._SL200_.jpg' ]

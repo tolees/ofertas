@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.99925225258909 % en 'GODNECE Technic Container Truck  902Pcs '
+title: 'Descuento del 59.99925225258909 % en GODNECE Technic Container Truck  902Pcs '
 date: 2020-01-23 17:45:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f9BZex9ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f9BZex9ZL._SL200_.jpg' ]

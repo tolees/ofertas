@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.366666666666674 % en 'Under Armour Wind Anorak Chaqueta  Hombr'
+title: 'Descuento del 53.366666666666674 % en Under Armour Wind Anorak Chaqueta  Hombr'
 date: 2019/11/09 15:44:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S57z5OJ%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S57z5OJ%2BL._SL200_.jpg' ]

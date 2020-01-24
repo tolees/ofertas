@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Muévete | Potente antiinflamatorio con a' al 49.098196392785574 % de descuento
+title: 'Muévete | Potente antiinflamatorio con a al 49.098196392785574 % de descuento'
 date: 2019/12/29 01:20:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416CAYamgML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416CAYamgML._SL200_.jpg' ]

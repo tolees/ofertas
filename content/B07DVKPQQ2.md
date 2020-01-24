@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance X90 entrenadores Hombre  Neg' al 71.88181818181818 % de descuento
+title: 'New Balance X90 entrenadores Hombre  Neg al 71.88181818181818 % de descuento'
 date: 2019/10/06 11:16:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZPSNNm0yL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZPSNNm0yL._SL200_.jpg' ]

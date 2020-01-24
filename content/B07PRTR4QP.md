@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pistola de aire caliente TECCPO 2000W  5' al 70.00777864207134 % de descuento
+title: 'Pistola de aire caliente TECCPO 2000W  5 al 70.00777864207134 % de descuento'
 date: 2019/11/25 13:02:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BI6OItGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51h%2BI6OItGL._SL200_.jpg' ]

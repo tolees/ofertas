@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cable USB A con conector ' al 49.93742177722152 % de descuento
+title: 'AmazonBasics - Cable USB A con conector  al 49.93742177722152 % de descuento'
 date: 2020-01-11 15:27:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jUnvUsc7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jUnvUsc7L._SL200_.jpg' ]

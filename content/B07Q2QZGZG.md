@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jortraveller tee SS Crew Ne' al 66.82063125481139 % de descuento
+title: 'JACK & JONES Jortraveller tee SS Crew Ne al 66.82063125481139 % de descuento'
 date: 2019/11/04 13:33:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MbpbVBdiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MbpbVBdiL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.44744744744745 % en 'adidas Hoops Mid 2.0 K  Zapatillas de Gi'
+title: 'Descuento del 47.44744744744745 % en adidas Hoops Mid 2.0 K  Zapatillas de Gi'
 date: 2019/10/09 20:38:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413XFizygEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413XFizygEL._SL200_.jpg' ]

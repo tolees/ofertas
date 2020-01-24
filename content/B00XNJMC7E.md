@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aigostar - Regleta con 6 enchufes y 1 5 ' al 27.2975432211101 % de descuento
+title: 'Aigostar - Regleta con 6 enchufes y 1 5  al 27.2975432211101 % de descuento'
 date: 2019/11/26 17:46:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mHgkAtSUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mHgkAtSUL._SL200_.jpg' ]

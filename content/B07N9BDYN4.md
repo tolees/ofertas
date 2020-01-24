@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 71.83946488294315 % en 'Pepe Jeans Florent Camiseta   Multi 0aa '
+title: 'Descuento del 71.83946488294315 % en Pepe Jeans Florent Camiseta   Multi 0aa '
 date: 2019/10/15 21:20:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JFv-VcRvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JFv-VcRvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.533413365346135 % en 'Bandai - Prodigiosa: Las aventuras de La'
+title: 'Descuento del 33.533413365346135 % en Bandai - Prodigiosa: Las aventuras de La'
 date: 2019/12/13 11:32:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hb%2BbkvjaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hb%2BbkvjaL._SL200_.jpg' ]

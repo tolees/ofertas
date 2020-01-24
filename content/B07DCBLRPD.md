@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Future Runner  Zapatillas Unisex Ad' al 60.9578270192995 % de descuento
+title: 'PUMA Future Runner  Zapatillas Unisex Ad al 60.9578270192995 % de descuento'
 date: 2019/11/11 11:54:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mp04eC%2BrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mp04eC%2BrL._SL200_.jpg' ]

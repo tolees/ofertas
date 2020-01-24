@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jcobullhead Crew Neck suéte' al 66.5904544155473 % de descuento
+title: 'JACK & JONES Jcobullhead Crew Neck suéte al 66.5904544155473 % de descuento'
 date: 2019/10/28 16:48:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xdUh3xsHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xdUh3xsHL._SL200_.jpg' ]

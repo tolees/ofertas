@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.423804226918804 % en 'Kappa Follow OC  Zapatillas Unisex Adult'
+title: 'Descuento del 41.423804226918804 % en Kappa Follow OC  Zapatillas Unisex Adult'
 date: 2019/10/30 12:58:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s53y6IJhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s53y6IJhL._SL200_.jpg' ]

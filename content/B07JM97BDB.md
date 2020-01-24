@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.88851823953513 % en 'Lee Daren Zip Fly Jeans Vaqueros Straigh'
+title: 'Descuento del 51.88851823953513 % en Lee Daren Zip Fly Jeans Vaqueros Straigh'
 date: 2019/10/25 03:40:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wvuXvBZLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wvuXvBZLL._SL200_.jpg' ]

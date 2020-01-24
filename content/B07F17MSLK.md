@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Goodthreads Soft Cotton Shawl Cardigan S' al 60.62499999999999 % de descuento
+title: 'Goodthreads Soft Cotton Shawl Cardigan S al 60.62499999999999 % de descuento'
 date: 2019/12/04 19:05:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TPJKD41GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TPJKD41GL._SL200_.jpg' ]

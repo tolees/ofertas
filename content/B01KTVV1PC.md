@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.996428316308304 % en 'AmazonBasics Colchón extra confort de mu'
+title: 'Descuento del 49.996428316308304 % en AmazonBasics Colchón extra confort de mu'
 date: 2019/11/08 07:23:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31u54uyQCqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31u54uyQCqL._SL200_.jpg' ]

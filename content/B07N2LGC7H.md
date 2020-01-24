@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Nemeziz 18.4 FxG  Botas de fútbol' al 43.02302302302302 % de descuento
+title: 'Adidas Nemeziz 18.4 FxG  Botas de fútbol al 43.02302302302302 % de descuento'
 date: 2019/11/13 10:44:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gOVnv88uL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gOVnv88uL._SL200_.jpg' ]

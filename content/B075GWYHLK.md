@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Technic 42075 First Responder  Set ' al 25.006251562890736 % de descuento
+title: 'LEGO Technic 42075 First Responder  Set  al 25.006251562890736 % de descuento'
 date: 2019/12/02 13:47:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c5zzuabTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c5zzuabTL._SL200_.jpg' ]

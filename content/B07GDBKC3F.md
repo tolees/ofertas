@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Televisor Philips 24PFS5863/12  24 Pulga' al 39.47157190635452 % de descuento
+title: 'Televisor Philips 24PFS5863/12  24 Pulga al 39.47157190635452 % de descuento'
 date: 2020-01-17 08:25:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rNvFvy3ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rNvFvy3ML._SL200_.jpg' ]

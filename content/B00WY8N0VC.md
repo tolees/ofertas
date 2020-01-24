@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chicco 00006811000000 Niño/niña 30pieza ' al 50.03849114703618 % de descuento
+title: 'Chicco 00006811000000 Niño/niña 30pieza  al 50.03849114703618 % de descuento'
 date: 2019/12/19 09:09:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tTbpol4YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tTbpol4YL._SL200_.jpg' ]

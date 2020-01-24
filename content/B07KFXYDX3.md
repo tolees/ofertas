@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cilia SD  Zapatillas para Mujer  Bl' al 60.1000834028357 % de descuento
+title: 'PUMA Cilia SD  Zapatillas para Mujer  Bl al 60.1000834028357 % de descuento'
 date: 2019/12/30 12:22:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XKkdeUU7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XKkdeUU7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 84.94719288493607 % en 'Calida Favourites Trend 1 Top de Pijama '
+title: 'Descuento del 84.94719288493607 % en Calida Favourites Trend 1 Top de Pijama '
 date: 2019/10/26 17:38:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTaObOufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTaObOufL._SL200_.jpg' ]

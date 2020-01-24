@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 311 Shaping Skinny Vaqueros  Pari' al 34.0 % de descuento
+title: 'Levi s 311 Shaping Skinny Vaqueros  Pari al 34.0 % de descuento'
 date: 2020-01-10 17:57:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XKPZReFzL._SL200_.jpg' ]

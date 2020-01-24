@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.9741985926505 % en 'Saint Seiya Hade Inferno   Eliseos Blu-R'
+title: 'Descuento del 26.9741985926505 % en Saint Seiya Hade Inferno   Eliseos Blu-R'
 date: 2020-01-12 15:31:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ce%2B3FVrmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ce%2B3FVrmL._SL200_.jpg' ]

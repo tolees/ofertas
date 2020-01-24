@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans TJM Tommy Classics tee Camis' al 61.96551724137931 % de descuento
+title: 'Tommy Jeans TJM Tommy Classics tee Camis al 61.96551724137931 % de descuento'
 date: 2019/11/15 10:38:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dvYaZpiyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dvYaZpiyL._SL200_.jpg' ]

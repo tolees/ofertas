@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Rhon Camiseta  Hombre  Negro' al 42.952127659574465 % de descuento
+title: 'Trangoworld Rhon Camiseta  Hombre  Negro al 42.952127659574465 % de descuento'
 date: 2019/10/25 03:20:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Sx0dHV0mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Sx0dHV0mL._SL200_.jpg' ]

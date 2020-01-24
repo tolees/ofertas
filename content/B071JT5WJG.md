@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.040000000000006 % en 'CHILIPET Correa para Perros de 122cm de '
+title: 'Descuento del 60.040000000000006 % en CHILIPET Correa para Perros de 122cm de '
 date: 2019/12/15 09:38:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bvrEUFKWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bvrEUFKWL._SL200_.jpg' ]

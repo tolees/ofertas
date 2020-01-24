@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Audio-Technica ATH-PDG1 - Auriculares Ab' al 55.88725490196078 % de descuento
+title: 'Audio-Technica ATH-PDG1 - Auriculares Ab al 55.88725490196078 % de descuento'
 date: 2019/12/12 15:34:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nhJvImpoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nhJvImpoL._SL200_.jpg' ]

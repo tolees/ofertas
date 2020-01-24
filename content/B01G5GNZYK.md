@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clementoni-39370 Minions Los Pingüinos D' al 33.48837209302326 % de descuento
+title: 'Clementoni-39370 Minions Los Pingüinos D al 33.48837209302326 % de descuento'
 date: 2019/12/05 13:43:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b9XoowDsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b9XoowDsL._SL200_.jpg' ]

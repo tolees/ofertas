@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.19684668784564 % en 'Under Armour UA Storm Launch Jacket Chaq'
+title: 'Descuento del 73.19684668784564 % en Under Armour UA Storm Launch Jacket Chaq'
 date: 2019/10/07 01:13:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31oxzHjJ0nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31oxzHjJ0nL._SL200_.jpg' ]

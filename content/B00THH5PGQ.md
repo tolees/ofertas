@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.47521600727603 % en 'ReliBeauty Little Girls Princess Fancy D'
+title: 'Descuento del 45.47521600727603 % en ReliBeauty Little Girls Princess Fancy D'
 date: 2019/12/13 16:37:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510Lu1rOTIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510Lu1rOTIL._SL200_.jpg' ]

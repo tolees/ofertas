@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.59529764882441 % en 'Puma RS-150 Wn s  Zapatillas para Mujer '
+title: 'Descuento del 70.59529764882441 % en Puma RS-150 Wn s  Zapatillas para Mujer '
 date: 2019/11/01 12:34:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cg8aPVLtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cg8aPVLtL._SL200_.jpg' ]

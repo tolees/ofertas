@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Vapor Glove 4  Zapatillas Deport' al 34.050000000000004 % de descuento
+title: 'Merrell Vapor Glove 4  Zapatillas Deport al 34.050000000000004 % de descuento'
 date: 2019/11/07 08:12:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3180rc17hvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3180rc17hvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grundig DTR 3000 Dab+ - Radio  Personal ' al 26.921178212934027 % de descuento
+title: 'Grundig DTR 3000 Dab+ - Radio  Personal  al 26.921178212934027 % de descuento'
 date: 2020-01-21 19:34:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41v1rm1cwVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41v1rm1cwVL._SL200_.jpg' ]

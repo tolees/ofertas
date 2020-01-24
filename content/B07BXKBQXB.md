@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Batidora de Vaso  Deik Batidora 3 en 1 c' al 34.48870494912916 % de descuento
+title: 'Batidora de Vaso  Deik Batidora 3 en 1 c al 34.48870494912916 % de descuento'
 date: 2020-01-24 11:42:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/516sw3Ql2mL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516sw3Ql2mL._AC_._SL200_.jpg' ]

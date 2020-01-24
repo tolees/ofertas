@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.82227409136378 % en 'Case Logic CSIE2140PI - Funda para Apple'
+title: 'Descuento del 66.82227409136378 % en Case Logic CSIE2140PI - Funda para Apple'
 date: 2019/10/05 08:33:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cmf8s6x%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cmf8s6x%2BL._SL200_.jpg' ]

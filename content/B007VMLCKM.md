@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.8643216080402 % en 'Rapesco Grapas - Caja de 1000 grapas 24/'
+title: 'Descuento del 72.8643216080402 % en Rapesco Grapas - Caja de 1000 grapas 24/'
 date: 2020-01-20 20:04:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZxQ8lwcVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZxQ8lwcVL._SL200_.jpg' ]

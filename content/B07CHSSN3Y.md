@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.68333333333333 % en 'Levi s Barstow Western Camisa   Wildcat '
+title: 'Descuento del 41.68333333333333 % en Levi s Barstow Western Camisa   Wildcat '
 date: 2019/10/13 16:59:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PcfX7oBOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PcfX7oBOL._SL200_.jpg' ]

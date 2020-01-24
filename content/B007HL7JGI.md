@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Steinel LED-Strahler XLED Home 1 Slave s' al 32.33323623652782 % de descuento
+title: 'Steinel LED-Strahler XLED Home 1 Slave s al 32.33323623652782 % de descuento'
 date: 2019/10/16 06:22:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BCR2OaDML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BCR2OaDML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.36412625096227 % en 'Skechers On-The-go City 3.0-Renovated  E'
+title: 'Descuento del 53.36412625096227 % en Skechers On-The-go City 3.0-Renovated  E'
 date: 2019/10/12 12:42:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V6C54-wUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V6C54-wUL._SL200_.jpg' ]

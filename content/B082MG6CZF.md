@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OBEEII Vestido Princesa Niña Bordado de ' al 50.0 % de descuento
+title: 'OBEEII Vestido Princesa Niña Bordado de  al 50.0 % de descuento'
 date: 2020-01-23 10:03:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mqY%2BJ35ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mqY%2BJ35ML._SL200_.jpg' ]

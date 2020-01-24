@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Norcia Short de Baloncesto  Mujer ' al 47.75 % de descuento
+title: 'Kappa Norcia Short de Baloncesto  Mujer  al 47.75 % de descuento'
 date: 2019/11/13 19:02:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R0VhWsBOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R0VhWsBOL._SL200_.jpg' ]

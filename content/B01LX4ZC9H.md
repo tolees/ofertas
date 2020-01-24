@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.38264738598443 % en 'Playmobil 9224 - Spengler und Geist'
+title: 'Descuento del 44.38264738598443 % en Playmobil 9224 - Spengler und Geist'
 date: 2020-01-08 15:07:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61cxX7rMNhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61cxX7rMNhL._SL200_.jpg' ]

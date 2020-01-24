@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.44044044044044 % en 'JACK & JONES Jjecorp Logo tee SS Crew Ne'
+title: 'Descuento del 40.44044044044044 % en JACK & JONES Jjecorp Logo tee SS Crew Ne'
 date: 2019/10/20 17:28:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wAgU30yWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wAgU30yWL._SL200_.jpg' ]

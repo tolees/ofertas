@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 75.91795897948974 % en 'G-Star Raw ARC 3D Low Waist Boyfriend Je'
+title: 'Descuento del 75.91795897948974 % en G-Star Raw ARC 3D Low Waist Boyfriend Je'
 date: 2019/11/20 11:06:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qVwMIiz0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qVwMIiz0L._SL200_.jpg' ]

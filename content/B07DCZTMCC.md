@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Suede Heart Street 2 Wn s  Zapatill' al 77.22861430715358 % de descuento
+title: 'Puma Suede Heart Street 2 Wn s  Zapatill al 77.22861430715358 % de descuento'
 date: 2019/10/25 20:32:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ydUguyDaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ydUguyDaL._SL200_.jpg' ]

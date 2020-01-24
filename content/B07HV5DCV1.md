@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luchild Nido Bebé Recién Nacido  Reducto' al 26.005201040208036 % de descuento
+title: 'Luchild Nido Bebé Recién Nacido  Reducto al 26.005201040208036 % de descuento'
 date: 2020-01-07 11:38:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2HFapv-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2HFapv-L._SL200_.jpg' ]

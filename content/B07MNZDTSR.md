@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sport Gh8652 Bañador  Azul  Mari' al 60.07142857142858 % de descuento
+title: 'Lacoste Sport Gh8652 Bañador  Azul  Mari al 60.07142857142858 % de descuento'
 date: 2019/10/08 10:19:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4162vtdpQJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4162vtdpQJL._SL200_.jpg' ]

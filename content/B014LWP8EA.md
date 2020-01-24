@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional 2607010903 Hojas de S' al 60.19859329747621 % de descuento
+title: 'Bosch Professional 2607010903 Hojas de S al 60.19859329747621 % de descuento'
 date: 2020-01-04 21:03:07
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

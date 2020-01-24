@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikmi Pops Serie 2 -  Piruleta 1 Peluche' al 72.27227227227226 % de descuento
+title: 'Pikmi Pops Serie 2 -  Piruleta 1 Peluche al 72.27227227227226 % de descuento'
 date: 2019/12/28 23:10:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517HNYuZdwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517HNYuZdwL._SL200_.jpg' ]

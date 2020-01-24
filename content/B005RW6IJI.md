@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.48225712623619 % en 'Premier Housewares - Recipiente para Man'
+title: 'Descuento del 69.48225712623619 % en Premier Housewares - Recipiente para Man'
 date: 2019/10/28 12:11:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jOIIKJmBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jOIIKJmBL._SL200_.jpg' ]

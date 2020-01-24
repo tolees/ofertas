@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.060274703293764 % en 'Rip Curl Kelly Combi Pant Pantalón  Muje'
+title: 'Descuento del 52.060274703293764 % en Rip Curl Kelly Combi Pant Pantalón  Muje'
 date: 2019/11/07 11:40:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-pXUWVPoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-pXUWVPoL._SL200_.jpg' ]

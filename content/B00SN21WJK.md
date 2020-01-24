@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nenuco 700012131 - Hermanos Gemelos  acc' al 31.38088012139606 % de descuento
+title: 'Nenuco 700012131 - Hermanos Gemelos  acc al 31.38088012139606 % de descuento'
 date: 2019/11/05 22:27:26 +0000
 thumbnailImage: ''
 images: [ '' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Professionnel Inoa Tinte 7 - 60m' al 53.22095123419627 % de descuento
+title: 'L Oreal Professionnel Inoa Tinte 7 - 60m al 53.22095123419627 % de descuento'
 date: 2019/10/12 10:11:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OB%2BPQ427L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OB%2BPQ427L._SL200_.jpg' ]

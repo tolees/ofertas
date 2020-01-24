@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orient Reloj Analógico para Unisex Adult' al 58.40555555555555 % de descuento
+title: 'Orient Reloj Analógico para Unisex Adult al 58.40555555555555 % de descuento'
 date: 2020-01-24 12:13:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FVBPJDUnL._AC_._SL200_.jpg' ]

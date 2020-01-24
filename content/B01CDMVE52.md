@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Caudalie Gel De Ducha Figue De Vigne 200' al 30.18335684062059 % de descuento
+title: 'Caudalie Gel De Ducha Figue De Vigne 200 al 30.18335684062059 % de descuento'
 date: 2019/10/15 19:19:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-sa1XLD3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-sa1XLD3L._SL200_.jpg' ]

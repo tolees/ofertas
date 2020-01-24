@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.08791208791209 % en 'Agatha Ruíz de la Prada Pala Padel Agath'
+title: 'Descuento del 67.08791208791209 % en Agatha Ruíz de la Prada Pala Padel Agath'
 date: 2019/12/01 10:22:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PAQnj8WKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PAQnj8WKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry 76 Surf tee Camiseta de Tirante' al 44.586466165413526 % de descuento
+title: 'Superdry 76 Surf tee Camiseta de Tirante al 44.586466165413526 % de descuento'
 date: 2019/11/09 07:01:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4101ZP75yTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4101ZP75yTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony SRS-XB12H  Altavoz  1  Gris' al 39.4 % de descuento
+title: 'Sony SRS-XB12H  Altavoz  1  Gris al 39.4 % de descuento'
 date: 2019/12/24 06:01:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nFtGLMBKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nFtGLMBKL._SL200_.jpg' ]

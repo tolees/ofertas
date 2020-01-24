@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Classic CT  Zapatos de Baloncesto ' al 40.08333333333333 % de descuento
+title: 'Asics Classic CT  Zapatos de Baloncesto  al 40.08333333333333 % de descuento'
 date: 2019/11/27 10:13:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pHrxCjHAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pHrxCjHAL._SL200_.jpg' ]

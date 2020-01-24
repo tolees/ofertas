@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LTDNB Cargador Inalámbrico Rápido Qi Wir' al 56.92528735632183 % de descuento
+title: 'LTDNB Cargador Inalámbrico Rápido Qi Wir al 56.92528735632183 % de descuento'
 date: 2019/12/14 10:31:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BNrhAh4iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BNrhAh4iL._SL200_.jpg' ]

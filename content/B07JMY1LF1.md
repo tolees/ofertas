@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.36934195511601 % en 'Timberland Adventure 2.0 Cupsole Modern '
+title: 'Descuento del 51.36934195511601 % en Timberland Adventure 2.0 Cupsole Modern '
 date: 2020-01-13 11:35:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sJjfPyL0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sJjfPyL0L._SL200_.jpg' ]

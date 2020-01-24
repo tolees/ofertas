@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Jamison  Vaqueros Slim para N' al 34.555555555555564 % de descuento
+title: 'Pepe Jeans Jamison  Vaqueros Slim para N al 34.555555555555564 % de descuento'
 date: 2019/10/26 20:26:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f3qsvN2zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f3qsvN2zL._SL200_.jpg' ]

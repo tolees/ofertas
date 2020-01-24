@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares inalámbricos Bluetooth  Casc' al 25.00416736122687 % de descuento
+title: 'Auriculares inalámbricos Bluetooth  Casc al 25.00416736122687 % de descuento'
 date: 2020-01-04 17:47:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oZExhmSVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oZExhmSVL._SL200_.jpg' ]

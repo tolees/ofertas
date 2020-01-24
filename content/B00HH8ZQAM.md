@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.89579158316632 % en 'Denon DHT-S514 - Barra de sonido Bluetoo'
+title: 'Descuento del 44.89579158316632 % en Denon DHT-S514 - Barra de sonido Bluetoo'
 date: 2019/12/13 21:23:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bqX5%2Bg1OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bqX5%2Bg1OL._SL200_.jpg' ]

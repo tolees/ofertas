@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.30332132853141 % en 'Joseph Joseph 85054 - Jabonera  Color Gr'
+title: 'Descuento del 58.30332132853141 % en Joseph Joseph 85054 - Jabonera  Color Gr'
 date: 2019/10/30 04:24:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QKVb7-u8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QKVb7-u8L._SL200_.jpg' ]

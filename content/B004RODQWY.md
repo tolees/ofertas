@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.46153846153846 % en 'Renbow Crazy Color Color de cabello Crem'
+title: 'Descuento del 28.46153846153846 % en Renbow Crazy Color Color de cabello Crem'
 date: 2019/10/13 06:09:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C5-i6b08L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C5-i6b08L._SL200_.jpg' ]

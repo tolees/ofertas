@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Let S Sing 11 - Edición Estándar Con 2 M' al 33.40556759459909 % de descuento
+title: 'Let S Sing 11 - Edición Estándar Con 2 M al 33.40556759459909 % de descuento'
 date: 2019/11/10 09:04:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sPjX9C0kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sPjX9C0kL._SL200_.jpg' ]

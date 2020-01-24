@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JATA PP601 - Plancha de pelo cerámica"bu' al 68.74371859296483 % de descuento
+title: 'JATA PP601 - Plancha de pelo cerámica"bu al 68.74371859296483 % de descuento'
 date: 2019/11/07 13:29:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31INBWpUIqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31INBWpUIqL._SL200_.jpg' ]

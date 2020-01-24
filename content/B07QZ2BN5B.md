@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DlandHome Banco Pesas Multifunción  Banc' al 76.0955676937831 % de descuento
+title: 'DlandHome Banco Pesas Multifunción  Banc al 76.0955676937831 % de descuento'
 date: 2020-01-10 17:48:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416dIMQckzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416dIMQckzL._SL200_.jpg' ]

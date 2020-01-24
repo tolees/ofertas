@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Fuel Cell Impulse  Zapatilla' al 78.14285714285714 % de descuento
+title: 'New Balance Fuel Cell Impulse  Zapatilla al 78.14285714285714 % de descuento'
 date: 2019/11/25 13:33:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I9Hsc5gvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I9Hsc5gvL._SL200_.jpg' ]

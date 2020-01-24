@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRANGO Trangoworld Zeta Cinturón  Unisex' al 66.74418604651163 % de descuento
+title: 'TRANGO Trangoworld Zeta Cinturón  Unisex al 66.74418604651163 % de descuento'
 date: 2019/10/13 13:43:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31iwAeRLhUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31iwAeRLhUL._SL200_.jpg' ]

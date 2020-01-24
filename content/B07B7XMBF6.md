@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Tatiny blusa  Negro  480   Small pa' al 40.96048024012007 % de descuento
+title: 'BOSS Tatiny blusa  Negro  480   Small pa al 40.96048024012007 % de descuento'
 date: 2019/11/03 08:52:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fwUZrIyIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fwUZrIyIL._SL200_.jpg' ]

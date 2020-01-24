@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.66666666666667 % en 'Lacoste Fh9542 Bañador  Beige  Viennois '
+title: 'Descuento del 39.66666666666667 % en Lacoste Fh9542 Bañador  Beige  Viennois '
 date: 2019/11/10 12:30:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MLT7yIloL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MLT7yIloL._SL200_.jpg' ]

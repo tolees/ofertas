@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'beileshi Red & Green Dot Sight 4 Reticle' al 76.67518613179243 % de descuento
+title: 'beileshi Red & Green Dot Sight 4 Reticle al 76.67518613179243 % de descuento'
 date: 2020-01-14 14:58:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cabhcRkhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cabhcRkhL._SL200_.jpg' ]

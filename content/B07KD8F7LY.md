@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.46577629382304 % en 'BOSS T-Shirt Rundhals Camiseta  Azul  Tu'
+title: 'Descuento del 39.46577629382304 % en BOSS T-Shirt Rundhals Camiseta  Azul  Tu'
 date: 2019/10/28 11:14:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mUs7t46IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mUs7t46IL._SL200_.jpg' ]

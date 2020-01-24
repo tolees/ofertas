@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.230230230230237 % en 'LEGO City 60219 Frontlader'
+title: 'Descuento del 30.230230230230237 % en LEGO City 60219 Frontlader'
 date: 2019/12/17 09:27:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513et77M7BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513et77M7BL._SL200_.jpg' ]

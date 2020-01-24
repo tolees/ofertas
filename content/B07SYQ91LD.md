@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mpow Bluetooth Headset  Bluetooth Earpie' al 57.514378594648676 % de descuento
+title: 'Mpow Bluetooth Headset  Bluetooth Earpie al 57.514378594648676 % de descuento'
 date: 2020-01-23 17:30:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OtiGkwu4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OtiGkwu4L._SL200_.jpg' ]

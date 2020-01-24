@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.458100558659204 % en 'Control Peppermint Preservativos - 12 Un'
+title: 'Descuento del 42.458100558659204 % en Control Peppermint Preservativos - 12 Un'
 date: 2020-01-12 04:49:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i3EQKGLBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i3EQKGLBL._SL200_.jpg' ]

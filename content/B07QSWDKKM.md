@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Plastificadora A3 A4  DINOKA Máquina de ' al 64.62035541195476 % de descuento
+title: 'Plastificadora A3 A4  DINOKA Máquina de  al 64.62035541195476 % de descuento'
 date: 2019/11/15 12:37:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514fCtu%2BvgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514fCtu%2BvgL._SL200_.jpg' ]

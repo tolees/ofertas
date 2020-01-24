@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.41282051282051 % en 'The North Face M Gotham Chaqueta De Plum'
+title: 'Descuento del 36.41282051282051 % en The North Face M Gotham Chaqueta De Plum'
 date: 2019/12/13 08:32:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41--zAmYeKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41--zAmYeKL._SL200_.jpg' ]

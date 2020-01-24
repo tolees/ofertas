@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Frozen FZ007413/SIL Mädchen Hausschuh Ka' al 46.82274247491638 % de descuento
+title: 'Frozen FZ007413/SIL Mädchen Hausschuh Ka al 46.82274247491638 % de descuento'
 date: 2019/12/27 08:50:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FQrt357zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FQrt357zL._SL200_.jpg' ]

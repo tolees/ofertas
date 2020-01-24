@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.03003003003003 % en 'Vicloon Cesta Vaporera Plegable de Acero'
+title: 'Descuento del 30.03003003003003 % en Vicloon Cesta Vaporera Plegable de Acero'
 date: 2019/10/24 21:17:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510VnbM5xPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510VnbM5xPL._SL200_.jpg' ]

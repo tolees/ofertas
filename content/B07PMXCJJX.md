@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pantalones de Sauna Adelgazantes Mujer N' al 54.3596434007393 % de descuento
+title: 'Pantalones de Sauna Adelgazantes Mujer N al 54.3596434007393 % de descuento'
 date: 2020-01-08 12:52:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pDCP4zF%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pDCP4zF%2BL._SL200_.jpg' ]

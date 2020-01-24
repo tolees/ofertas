@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Greencut 8435574309204 Taladro Columna 6' al 28.57346953353812 % de descuento
+title: 'Greencut 8435574309204 Taladro Columna 6 al 28.57346953353812 % de descuento'
 date: 2019/11/04 13:33:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414BUyHB1tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414BUyHB1tL._SL200_.jpg' ]

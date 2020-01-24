@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.13142591300303 % en 'Novawo Guantes Táctiles Unisexos Calient'
+title: 'Descuento del 65.13142591300303 % en Novawo Guantes Táctiles Unisexos Calient'
 date: 2019/10/10 09:04:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KJdWWAa3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KJdWWAa3L._SL200_.jpg' ]

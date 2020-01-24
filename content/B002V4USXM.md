@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.42736248236954 % en 'Stanley CT100 - Grapas para cable  12 mm'
+title: 'Descuento del 33.42736248236954 % en Stanley CT100 - Grapas para cable  12 mm'
 date: 2019/10/10 22:21:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ccI8NWyIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ccI8NWyIL._SL200_.jpg' ]

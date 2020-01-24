@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.991047448522824 % en 'Relojes Pulsera Cronógrafo Calendario An'
+title: 'Descuento del 29.991047448522824 % en Relojes Pulsera Cronógrafo Calendario An'
 date: 2019/12/13 10:08:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uPz-4q5tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uPz-4q5tL._SL200_.jpg' ]

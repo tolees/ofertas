@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Assassin s Creed Odyssey - Ultimate Edit' al 59.99652143664667 % de descuento
+title: 'Assassin s Creed Odyssey - Ultimate Edit al 59.99652143664667 % de descuento'
 date: 2019/12/14 17:53:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412rh-fNVGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.54693366708386 % en 'Pacsafe Travelsafe 5L - Mobiler Safe mit'
+title: 'Descuento del 37.54693366708386 % en Pacsafe Travelsafe 5L - Mobiler Safe mit'
 date: 2019/12/03 21:50:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o48vtJbfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o48vtJbfL._SL200_.jpg' ]

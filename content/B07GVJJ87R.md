@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Figurízate | Potente adelgazante con acc' al 42.38921001926782 % de descuento
+title: 'Figurízate | Potente adelgazante con acc al 42.38921001926782 % de descuento'
 date: 2020-01-24 17:05:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41frxGB1o6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41frxGB1o6L._SL200_.jpg' ]

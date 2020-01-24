@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.04204204204204 % en 'Tommy Hilfiger Technical Details Flexi S'
+title: 'Descuento del 62.04204204204204 % en Tommy Hilfiger Technical Details Flexi S'
 date: 2019/12/08 08:22:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mdGrxGXSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mdGrxGXSL._SL200_.jpg' ]

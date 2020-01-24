@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.02401200600299 % en 'Ezfull Protector para Parabrisas  Protec'
+title: 'Descuento del 48.02401200600299 % en Ezfull Protector para Parabrisas  Protec'
 date: 2020-01-13 19:58:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DX7WIYM9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DX7WIYM9L._SL200_.jpg' ]

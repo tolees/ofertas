@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BEAUTURAL Plancha de Vapor Vertical y Pr' al 28.57551078725531 % de descuento
+title: 'BEAUTURAL Plancha de Vapor Vertical y Pr al 28.57551078725531 % de descuento'
 date: 2019/12/14 10:33:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410rKn3yp4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410rKn3yp4L._SL200_.jpg' ]

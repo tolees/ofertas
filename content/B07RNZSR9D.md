@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.404040404040394 % en 'Camara de Caza EXCELVAN Ángulo de detecc'
+title: 'Descuento del 39.404040404040394 % en Camara de Caza EXCELVAN Ángulo de detecc'
 date: 2019/12/17 18:16:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-sFhg8u1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-sFhg8u1L._SL200_.jpg' ]

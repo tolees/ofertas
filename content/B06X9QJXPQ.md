@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nerf Nitro - Motofurry  Hasbro C0787EU40' al 69.73015873015873 % de descuento
+title: 'Nerf Nitro - Motofurry  Hasbro C0787EU40 al 69.73015873015873 % de descuento'
 date: 2019/11/14 18:52:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tDIRJnD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tDIRJnD5L._SL200_.jpg' ]

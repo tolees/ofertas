@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levoit Jarra de Agua Filtrada 2 5L con 1' al 45.011252813203306 % de descuento
+title: 'Levoit Jarra de Agua Filtrada 2 5L con 1 al 45.011252813203306 % de descuento'
 date: 2019/11/08 15:49:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vhwqh125L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vhwqh125L._SL200_.jpg' ]

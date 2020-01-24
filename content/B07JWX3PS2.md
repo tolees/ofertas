@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.7599142550911 % en 'G-STAR RAW Feldspar High Waist Straight '
+title: 'Descuento del 67.7599142550911 % en G-STAR RAW Feldspar High Waist Straight '
 date: 2019/10/15 12:29:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6HATvrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Vk6HATvrL._SL200_.jpg' ]

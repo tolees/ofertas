@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Crew Vest  Mujer  Navy  X' al 64.46666666666667 % de descuento
+title: 'Helly Hansen W Crew Vest  Mujer  Navy  X al 64.46666666666667 % de descuento'
 date: 2019/11/24 18:40:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uczozsa3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uczozsa3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.8628762541806 % en 'Artesania Cerda Gorra Visera Plana Black'
+title: 'Descuento del 58.8628762541806 % en Artesania Cerda Gorra Visera Plana Black'
 date: 2019/10/20 09:47:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gYNuhQ8aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gYNuhQ8aL._SL200_.jpg' ]

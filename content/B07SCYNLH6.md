@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.34139023170528 % en 'Tws auricolari wireless true Auricolari '
+title: 'Descuento del 48.34139023170528 % en Tws auricolari wireless true Auricolari '
 date: 2019/10/15 12:01:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21v0RugJpFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21v0RugJpFL._SL200_.jpg' ]

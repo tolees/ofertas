@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.86206896551724 % en 'Funko Simpsons Pop Mr Burns  Multicolor '
+title: 'Descuento del 35.86206896551724 % en Funko Simpsons Pop Mr Burns  Multicolor '
 date: 2020-01-24 02:09:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kbR%2BpySlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kbR%2BpySlL._SL200_.jpg' ]

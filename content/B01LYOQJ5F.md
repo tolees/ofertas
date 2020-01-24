@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 502 Regular Taper Vaqueros  Azul ' al 30.126701079305484 % de descuento
+title: 'Levi s 502 Regular Taper Vaqueros  Azul  al 30.126701079305484 % de descuento'
 date: 2019/12/25 09:22:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nZjFk%2Bv8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nZjFk%2Bv8L._SL200_.jpg' ]

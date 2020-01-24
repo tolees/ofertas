@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher Kit para el hogar  2.863-002.0 ' al 35.89140658401027 % de descuento
+title: 'Kärcher Kit para el hogar  2.863-002.0  al 35.89140658401027 % de descuento'
 date: 2019/10/23 17:06:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NMYuF5LML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NMYuF5LML._SL200_.jpg' ]

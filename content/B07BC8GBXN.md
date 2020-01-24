@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois Satin Edition Sombra de Ojos Lí' al 61.53846153846154 % de descuento
+title: 'Bourjois Satin Edition Sombra de Ojos Lí al 61.53846153846154 % de descuento'
 date: 2019/10/28 19:28:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EJ6dFhV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EJ6dFhV3L._SL200_.jpg' ]

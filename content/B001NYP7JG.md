@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.97567954220315 % en 'BaByliss 2735E - Cepillo rotativo de air'
+title: 'Descuento del 32.97567954220315 % en BaByliss 2735E - Cepillo rotativo de air'
 date: 2020-01-11 17:34:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zi%2BQSQXlL._SL200_.jpg' ]

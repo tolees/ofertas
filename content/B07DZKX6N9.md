@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Acer Nitro 5  AN515-42-R1GF  39 6 cm  15' al 51.43929912390488 % de descuento
+title: 'Acer Nitro 5  AN515-42-R1GF  39 6 cm  15 al 51.43929912390488 % de descuento'
 date: 2019/12/17 13:33:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eF7eDoETL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eF7eDoETL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ted Baker Floxen  Zapatos de tacón con P' al 54.85982747997535 % de descuento
+title: 'Ted Baker Floxen  Zapatos de tacón con P al 54.85982747997535 % de descuento'
 date: 2019/11/09 09:22:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o3kobkHpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o3kobkHpL._SL200_.jpg' ]

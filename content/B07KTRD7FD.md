@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIU JO Shoes Karlie 14-Sneaker Met Leath' al 47.11195240670632 % de descuento
+title: 'LIU JO Shoes Karlie 14-Sneaker Met Leath al 47.11195240670632 % de descuento'
 date: 2019/11/05 15:53:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4152iZQBzaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4152iZQBzaL._SL200_.jpg' ]

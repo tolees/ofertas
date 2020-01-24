@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'QTshine Funda Bateria para iPhone 8/7/6/' al 30.5980528511822 % de descuento
+title: 'QTshine Funda Bateria para iPhone 8/7/6/ al 30.5980528511822 % de descuento'
 date: 2019/12/23 11:25:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z5ovHAPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z5ovHAPZL._SL200_.jpg' ]

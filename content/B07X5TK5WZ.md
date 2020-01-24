@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xnuoyo Plancha de Pelo Profesional  Alis' al 33.338889814969164 % de descuento
+title: 'Xnuoyo Plancha de Pelo Profesional  Alis al 33.338889814969164 % de descuento'
 date: 2020-01-24 09:03:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NLhT+sADL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NLhT+sADL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOPsic Correa Galaxy Watch Active 40mm  ' al 66.67974112571093 % de descuento
+title: 'TOPsic Correa Galaxy Watch Active 40mm   al 66.67974112571093 % de descuento'
 date: 2019/11/28 08:16:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IGMfap-ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IGMfap-ML._SL200_.jpg' ]

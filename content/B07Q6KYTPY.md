@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.75796974621828 % en 'Esterilizador Biberones Eléctrico Calien'
+title: 'Descuento del 63.75796974621828 % en Esterilizador Biberones Eléctrico Calien'
 date: 2019/12/28 13:11:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hKWddEhXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hKWddEhXL._SL200_.jpg' ]

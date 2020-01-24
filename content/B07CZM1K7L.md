@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Playoff Polo 2.0  Hombre  V' al 56.11632558855209 % de descuento
+title: 'Under Armour Playoff Polo 2.0  Hombre  V al 56.11632558855209 % de descuento'
 date: 2019/10/29 15:39:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410tPtMy--L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410tPtMy--L._SL200_.jpg' ]

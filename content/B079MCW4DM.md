@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair K68 RGB - Teclado mecánico Gamin' al 35.716836916922645 % de descuento
+title: 'Corsair K68 RGB - Teclado mecánico Gamin al 35.716836916922645 % de descuento'
 date: 2019/11/30 09:06:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PCOLK8xoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PCOLK8xoL._SL200_.jpg' ]

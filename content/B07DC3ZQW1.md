@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XP-PEN Deco 02 Tableta de Dibujo Gráfico' al 50.0 % de descuento
+title: 'XP-PEN Deco 02 Tableta de Dibujo Gráfico al 50.0 % de descuento'
 date: 2019/12/26 14:18:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IzDXipkeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IzDXipkeL._SL200_.jpg' ]

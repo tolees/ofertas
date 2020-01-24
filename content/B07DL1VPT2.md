@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia 1840661 EVOLUTION VALLEY  Panta' al 62.28278534816851 % de descuento
+title: 'Columbia 1840661 EVOLUTION VALLEY  Panta al 62.28278534816851 % de descuento'
 date: 2019/11/17 01:16:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rBYUk2frL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rBYUk2frL._SL200_.jpg' ]

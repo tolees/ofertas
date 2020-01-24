@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cartera Pepe Jeans Burned vertical con c' al 35.89473684210527 % de descuento
+title: 'Cartera Pepe Jeans Burned vertical con c al 35.89473684210527 % de descuento'
 date: 2019/11/22 09:09:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lTfmi0jUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lTfmi0jUL._SL200_.jpg' ]

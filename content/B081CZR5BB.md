@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.70786516853933 % en 'Geographical Norway Parka DE NIÑA Baby A'
+title: 'Descuento del 33.70786516853933 % en Geographical Norway Parka DE NIÑA Baby A'
 date: 2019/12/30 12:34:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XaXsImj4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XaXsImj4L._SL200_.jpg' ]

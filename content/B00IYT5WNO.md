@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pinypon Cupcake Cuties Doll Playset  5-P' al 31.045187995860644 % de descuento
+title: 'Pinypon Cupcake Cuties Doll Playset  5-P al 31.045187995860644 % de descuento'
 date: 2020-01-23 10:01:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZLSQbfAoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZLSQbfAoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bristol BA2151 - Caña de calavera para d' al 33.33333333333333 % de descuento
+title: 'Bristol BA2151 - Caña de calavera para d al 33.33333333333333 % de descuento'
 date: 2019/11/02 08:03:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XwcB31Y8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XwcB31Y8L._SL200_.jpg' ]

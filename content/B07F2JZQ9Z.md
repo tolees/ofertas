@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Original Sherpa Trucker Chaqueta ' al 35.42307692307693 % de descuento
+title: 'Levi s Original Sherpa Trucker Chaqueta  al 35.42307692307693 % de descuento'
 date: 2019/12/26 15:04:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41C7lAIV6sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41C7lAIV6sL._SL200_.jpg' ]

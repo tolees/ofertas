@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.353451150383464 % en 'Traje de la Casa de Papel con Mascara Mo'
+title: 'Descuento del 60.353451150383464 % en Traje de la Casa de Papel con Mascara Mo'
 date: 2019/10/23 13:27:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lroYcI%2BzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lroYcI%2BzL._SL200_.jpg' ]

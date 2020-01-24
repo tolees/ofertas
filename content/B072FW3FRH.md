@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mattel Games La Gallina Josefina  juego ' al 29.58333333333334 % de descuento
+title: 'Mattel Games La Gallina Josefina  juego  al 29.58333333333334 % de descuento'
 date: 2019/11/29 19:06:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xSsKx3GbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xSsKx3GbL._SL200_.jpg' ]

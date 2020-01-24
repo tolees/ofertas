@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.89340101522843 % en 'find. Camiseta Estampada para Hombre  Ne'
+title: 'Descuento del 42.89340101522843 % en find. Camiseta Estampada para Hombre  Ne'
 date: 2020-01-13 09:16:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413LhgWihyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413LhgWihyL._SL200_.jpg' ]

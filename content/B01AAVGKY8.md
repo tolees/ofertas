@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.993259184361314 % en 'Only & Sons 22004029-Jeans Hombre Negro '
+title: 'Descuento del 59.993259184361314 % en Only & Sons 22004029-Jeans Hombre Negro '
 date: 2019/10/26 15:38:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bBedcpPeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bBedcpPeL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 069cc1d014 Falda  Negro  B' al 50.02501250625312 % de descuento
+title: 'edc by Esprit 069cc1d014 Falda  Negro  B al 50.02501250625312 % de descuento'
 date: 2019/12/05 17:10:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dzCmlhVYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dzCmlhVYL._SL200_.jpg' ]

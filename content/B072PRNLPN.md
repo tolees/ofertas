@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.88549238275416 % en 'Grohe Lineare -  Grifo de bidé 1/2"
+title: 'Descuento del 49.88549238275416 % en Grohe Lineare -  Grifo de bidé 1/2"
 Tama'
 date: 2020-01-05 23:20:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ko1J%2Bkj1L._SL200_.jpg'

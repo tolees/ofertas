@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Go Run Mojo 2.0-Escape  Zapatil' al 57.30561970746728 % de descuento
+title: 'Skechers Go Run Mojo 2.0-Escape  Zapatil al 57.30561970746728 % de descuento'
 date: 2020-01-21 13:52:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JBU%2BNJQzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JBU%2BNJQzL._SL200_.jpg' ]

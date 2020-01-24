@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VICHY IDEAL SOLEIL Leche Protectora Niño' al 32.68797838811347 % de descuento
+title: 'VICHY IDEAL SOLEIL Leche Protectora Niño al 32.68797838811347 % de descuento'
 date: 2019/12/07 14:58:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YhhodkssL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YhhodkssL._SL200_.jpg' ]

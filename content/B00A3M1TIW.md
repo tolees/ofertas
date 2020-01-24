@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weleda Skin Food Crema  Corporal  Nutrit' al 50.17006802721088 % de descuento
+title: 'Weleda Skin Food Crema  Corporal  Nutrit al 50.17006802721088 % de descuento'
 date: 2019/10/27 11:30:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uVTGig9fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uVTGig9fL._SL200_.jpg' ]

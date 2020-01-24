@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ENKEEO Mini Bomba de Aire de Mano  Bomba' al 35.31489111241907 % de descuento
+title: 'ENKEEO Mini Bomba de Aire de Mano  Bomba al 35.31489111241907 % de descuento'
 date: 2020-01-24 13:17:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YG8EnY7dL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YG8EnY7dL._AC_._SL200_.jpg' ]

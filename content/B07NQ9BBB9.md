@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy Watch Active  Schwarz' al 29.887550200803204 % de descuento
+title: 'Samsung Galaxy Watch Active  Schwarz al 29.887550200803204 % de descuento'
 date: 2019/12/22 17:46:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31YXbhqTIiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31YXbhqTIiL._SL200_.jpg' ]

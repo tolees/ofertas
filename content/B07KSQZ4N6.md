@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.5050505050505 % en 'Columbia Inner Limits Chaqueta para Lluv'
+title: 'Descuento del 50.5050505050505 % en Columbia Inner Limits Chaqueta para Lluv'
 date: 2019/12/22 14:47:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bBzHt6JGL._SL200_.jpg' ]

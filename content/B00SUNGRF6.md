@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shunga Vela De Masaje Verde Exótico - 17' al 39.89974937343358 % de descuento
+title: 'Shunga Vela De Masaje Verde Exótico - 17 al 39.89974937343358 % de descuento'
 date: 2020-01-21 19:37:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y4id%2BtrML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y4id%2BtrML._SL200_.jpg' ]

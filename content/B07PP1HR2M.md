@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RATEL Temporizador Digital Programable  ' al 47.511877969492375 % de descuento
+title: 'RATEL Temporizador Digital Programable   al 47.511877969492375 % de descuento'
 date: 2020-01-06 06:32:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KS0CaaCFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KS0CaaCFL._SL200_.jpg' ]

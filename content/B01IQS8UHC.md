@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.78008181689942 % en 'HP OfficeJet 250 Mobile AiO - Impresora '
+title: 'Descuento del 30.78008181689942 % en HP OfficeJet 250 Mobile AiO - Impresora '
 date: 2019/10/30 05:03:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ivTvdqmtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ivTvdqmtL._SL200_.jpg' ]

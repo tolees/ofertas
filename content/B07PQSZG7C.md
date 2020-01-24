@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oral-B Genius Edición Especial Cepillo E' al 51.5492331629251 % de descuento
+title: 'Oral-B Genius Edición Especial Cepillo E al 51.5492331629251 % de descuento'
 date: 2019/10/16 06:23:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g2YH9wmHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g2YH9wmHL._SL200_.jpg' ]

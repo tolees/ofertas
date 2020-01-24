@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Cilia Lux  Zapatillas para Mujer  W' al 44.52655889145497 % de descuento
+title: 'PUMA Cilia Lux  Zapatillas para Mujer  W al 44.52655889145497 % de descuento'
 date: 2019/12/06 17:34:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sQ2hkMQKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sQ2hkMQKL._SL200_.jpg' ]

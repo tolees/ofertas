@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple Adaptador de alimentación MagSafe ' al 26.72941176470588 % de descuento
+title: 'Apple Adaptador de alimentación MagSafe  al 26.72941176470588 % de descuento'
 date: 2020-01-22 20:26:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Taww7lb2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Taww7lb2L._SL200_.jpg' ]

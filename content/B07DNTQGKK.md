@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.125313283208015 % en 'Just Cause 4'
+title: 'Descuento del 50.125313283208015 % en Just Cause 4'
 date: 2019/11/23 10:30:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dHhgoJIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dHhgoJIuL._SL200_.jpg' ]

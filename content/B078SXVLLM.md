@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Newport Bay Canvas  Zapatilla' al 36.83076923076922 % de descuento
+title: 'Timberland Newport Bay Canvas  Zapatilla al 36.83076923076922 % de descuento'
 date: 2019/10/25 10:28:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oGgEzwc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oGgEzwc3L._SL200_.jpg' ]

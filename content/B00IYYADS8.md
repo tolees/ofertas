@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ' Campagnolo 644040 Juego de Ruedas  H50 ' al 30.392897952008447 % de descuento
+title: ' Campagnolo 644040 Juego de Ruedas  H50  al 30.392897952008447 % de descuento'
 date: 2019/11/05 12:47:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LtNF5wK2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LtNF5wK2L._SL200_.jpg' ]

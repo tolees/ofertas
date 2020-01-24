@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.96330887258172 % en 'POP! Vinilo - Horror: Michael Myers'
+title: 'Descuento del 44.96330887258172 % en POP! Vinilo - Horror: Michael Myers'
 date: 2020-01-24 02:10:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n0o5y3deL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n0o5y3deL._AC_._SL200_.jpg' ]

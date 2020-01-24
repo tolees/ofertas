@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.1025641025641 % en 'Colgate Crem Dental Sensation Blanqueado'
+title: 'Descuento del 54.1025641025641 % en Colgate Crem Dental Sensation Blanqueado'
 date: 2019/10/30 12:02:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41D-amnGzrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41D-amnGzrL._SL200_.jpg' ]

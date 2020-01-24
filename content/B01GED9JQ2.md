@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Crevice Chaqueta Marrón ES 48' al 62.832854106763335 % de descuento
+title: 'Black Crevice Chaqueta Marrón ES 48 al 62.832854106763335 % de descuento'
 date: 2019/11/02 17:57:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f9MZB4J5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f9MZB4J5L._SL200_.jpg' ]

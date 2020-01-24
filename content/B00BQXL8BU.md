@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sigma 30 mm/F 1 4 DC/HSM - Objetivo para' al 28.532554257095168 % de descuento
+title: 'Sigma 30 mm/F 1 4 DC/HSM - Objetivo para al 28.532554257095168 % de descuento'
 date: 2020-01-11 18:29:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vAkNgX7SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vAkNgX7SL._SL200_.jpg' ]

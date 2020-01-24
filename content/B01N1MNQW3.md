@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Club C 85  Zapatillas Hombre  Neg' al 32.657911194496556 % de descuento
+title: 'Reebok Club C 85  Zapatillas Hombre  Neg al 32.657911194496556 % de descuento'
 date: 2019/11/30 10:51:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hVQgYmtgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hVQgYmtgL._SL200_.jpg' ]

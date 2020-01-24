@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.49524480450863 % en 'Asics Gel-Kayano 26 LS  Zapatillas de Ru'
+title: 'Descuento del 46.49524480450863 % en Asics Gel-Kayano 26 LS  Zapatillas de Ru'
 date: 2019/11/26 00:07:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ew2Ph4B5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ew2Ph4B5L._SL200_.jpg' ]

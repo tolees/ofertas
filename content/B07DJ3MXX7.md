@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Uomo Symbol a  Zapatos con Cordones' al 51.001001001001 % de descuento
+title: 'Geox Uomo Symbol a  Zapatos con Cordones al 51.001001001001 % de descuento'
 date: 2019/11/23 09:14:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416M1H1ae6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416M1H1ae6L._SL200_.jpg' ]

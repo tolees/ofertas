@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Heatgear Armour Leggings  M' al 68.23636363636363 % de descuento
+title: 'Under Armour Heatgear Armour Leggings  M al 68.23636363636363 % de descuento'
 date: 2019/10/30 20:46:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412SEQZuP4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412SEQZuP4L._SL200_.jpg' ]

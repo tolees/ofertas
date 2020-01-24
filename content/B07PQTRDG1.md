@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 373  Zapatillas para Hombre ' al 50.0 % de descuento
+title: 'New Balance 373  Zapatillas para Hombre  al 50.0 % de descuento'
 date: 2020-01-18 19:17:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jCJmLoLaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Originals Adidas Terrex Swift Sol' al 35.11846802986044 % de descuento
+title: 'adidas Originals Adidas Terrex Swift Sol al 35.11846802986044 % de descuento'
 date: 2019/12/06 19:43:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BNN-FqjrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BNN-FqjrL._SL200_.jpg' ]

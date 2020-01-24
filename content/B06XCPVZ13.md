@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Activewear Polo Clásico para Hombre  Azu' al 70.0 % de descuento
+title: 'Activewear Polo Clásico para Hombre  Azu al 70.0 % de descuento'
 date: 2019/10/07 21:05:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hOzQGuhpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hOzQGuhpL._SL200_.jpg' ]

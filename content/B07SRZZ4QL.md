@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.112651342340754 % en 'Cepillo Alisador de Pelo  Cepillo Alisad'
+title: 'Descuento del 42.112651342340754 % en Cepillo Alisador de Pelo  Cepillo Alisad'
 date: 2019/12/02 02:05:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w9kORdSKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w9kORdSKL._SL200_.jpg' ]

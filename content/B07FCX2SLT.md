@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ETNAB|#Etnies Cirrus  Zapatillas sin Cor' al 63.44285714285714 % de descuento
+title: 'ETNAB|#Etnies Cirrus  Zapatillas sin Cor al 63.44285714285714 % de descuento'
 date: 2019/10/21 00:45:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RWnP65uaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RWnP65uaL._SL200_.jpg' ]

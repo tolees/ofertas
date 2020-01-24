@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KIKILASH Sérum crece pestañas 3ml - Trat' al 30.06012024048096 % de descuento
+title: 'KIKILASH Sérum crece pestañas 3ml - Trat al 30.06012024048096 % de descuento'
 date: 2019/11/12 10:44:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gPHsJU6-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gPHsJU6-L._SL200_.jpg' ]

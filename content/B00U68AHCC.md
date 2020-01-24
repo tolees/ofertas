@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.05555555555555 % en 'Diadora Game L Low Waxed  Sandalias con '
+title: 'Descuento del 35.05555555555555 % en Diadora Game L Low Waxed  Sandalias con '
 date: 2019/10/21 03:38:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rqVZHL-eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rqVZHL-eL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Crevice Abrigo Corto Azul / Amaril' al 78.93420958639904 % de descuento
+title: 'Black Crevice Abrigo Corto Azul / Amaril al 78.93420958639904 % de descuento'
 date: 2019/11/10 14:31:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WHGDt-NRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WHGDt-NRL._SL200_.jpg' ]

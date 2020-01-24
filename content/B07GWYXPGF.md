@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolin Home - Edredón/Relleno nórdico a' al 37.36424394319132 % de descuento
+title: 'Pikolin Home - Edredón/Relleno nórdico a al 37.36424394319132 % de descuento'
 date: 2019/11/09 09:57:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CWLpeUouL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CWLpeUouL._SL200_.jpg' ]

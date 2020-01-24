@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WiMiUS Cámara de Caza Vigilancia 16MP108' al 44.893877097455274 % de descuento
+title: 'WiMiUS Cámara de Caza Vigilancia 16MP108 al 44.893877097455274 % de descuento'
 date: 2019/12/26 16:17:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a1f6cRCuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a1f6cRCuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga' al 59.493670886075954 % de descuento
+title: 'Superga al 59.493670886075954 % de descuento'
 date: 2019/11/12 03:03:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MHmRRAXLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MHmRRAXLL._SL200_.jpg' ]

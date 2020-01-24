@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual TS_Net Camisa Manga Larga  Rojo' al 46.98140200286123 % de descuento
+title: 'Desigual TS_Net Camisa Manga Larga  Rojo al 46.98140200286123 % de descuento'
 date: 2019/11/09 14:42:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61O5XFui2DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61O5XFui2DL._SL200_.jpg' ]

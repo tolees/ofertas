@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.29484706924384 % en 'Garmin Fenix 5S Plus - Reloj GPS multide'
+title: 'Descuento del 39.29484706924384 % en Garmin Fenix 5S Plus - Reloj GPS multide'
 date: 2019/10/29 17:14:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KkxMTj-%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KkxMTj-%2BL._SL200_.jpg' ]

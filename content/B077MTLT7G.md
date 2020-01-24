@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA Urban Plus SD  Zapatillas Unisex Ad' al 42.09281164695178 % de descuento
+title: 'PUMA Urban Plus SD  Zapatillas Unisex Ad al 42.09281164695178 % de descuento'
 date: 2019/10/31 11:12:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rsMNnVWxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rsMNnVWxL._SL200_.jpg' ]

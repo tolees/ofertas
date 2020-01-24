@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.771106941838646 % en 'Maxesla WiFi Adaptador AC 600Mbps Mini U'
+title: 'Descuento del 33.771106941838646 % en Maxesla WiFi Adaptador AC 600Mbps Mini U'
 date: 2019/12/25 09:40:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bWagPgbVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bWagPgbVL._SL200_.jpg' ]

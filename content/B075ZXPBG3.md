@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.011204481792717 % en 'Espiralizador vegetal Sedhoom Cortador d'
+title: 'Descuento del 28.011204481792717 % en Espiralizador vegetal Sedhoom Cortador d'
 date: 2020-01-16 09:25:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4178pIu2kdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4178pIu2kdL._SL200_.jpg' ]

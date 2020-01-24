@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.78419824424936 % en 'Smart Plug Koogeek Intelligente Wifi Ste'
+title: 'Descuento del 57.78419824424936 % en Smart Plug Koogeek Intelligente Wifi Ste'
 date: 2019/10/24 22:01:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lDsLjz8JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lDsLjz8JL._SL200_.jpg' ]

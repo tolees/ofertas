@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.48666532985763 % en 'adidas Gazelle  Zapatillas de deporte Un'
+title: 'Descuento del 29.48666532985763 % en adidas Gazelle  Zapatillas de deporte Un'
 date: 2020-01-23 18:56:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fB3HYU%2BiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fB3HYU%2BiL._SL200_.jpg' ]

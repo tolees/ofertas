@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.54414498141264 % en 'Pack Fringe Temporada 1-5 [DVD]'
+title: 'Descuento del 52.54414498141264 % en Pack Fringe Temporada 1-5 [DVD]'
 date: 2019/11/22 00:28:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jfjsjnLVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jfjsjnLVL._SL200_.jpg' ]

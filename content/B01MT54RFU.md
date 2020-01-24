@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMRON EVOLV - Tensiómetro de Brazo Todo ' al 36.319783516677454 % de descuento
+title: 'OMRON EVOLV - Tensiómetro de Brazo Todo  al 36.319783516677454 % de descuento'
 date: 2019/12/10 22:47:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jwbowe7iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jwbowe7iL._SL200_.jpg' ]

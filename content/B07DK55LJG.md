@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Jr Alonisso Boy G  Zapatillas Altas' al 50.0 % de descuento
+title: 'Geox Jr Alonisso Boy G  Zapatillas Altas al 50.0 % de descuento'
 date: 2019/10/20 15:52:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FH6ebljHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FH6ebljHL._SL200_.jpg' ]

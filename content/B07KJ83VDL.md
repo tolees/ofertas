@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.46987951807229 % en 'Love Moschino - Jc4085pp18lo0000  Unisex'
+title: 'Descuento del 35.46987951807229 % en Love Moschino - Jc4085pp18lo0000  Unisex'
 date: 2019/12/03 06:03:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rhvkrG5QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rhvkrG5QL._SL200_.jpg' ]

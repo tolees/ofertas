@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timex Reloj de Pulsera TW2T10600' al 46.96124031007752 % de descuento
+title: 'Timex Reloj de Pulsera TW2T10600 al 46.96124031007752 % de descuento'
 date: 2019/12/23 21:46:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412ShEydSoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412ShEydSoL._SL200_.jpg' ]

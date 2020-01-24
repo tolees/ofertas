@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.5175972479492 % en 'adidas T19 M Polo Shirt  Hombre  Team Na'
+title: 'Descuento del 36.5175972479492 % en adidas T19 M Polo Shirt  Hombre  Team Na'
 date: 2020-01-06 21:27:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HSRbisaqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HSRbisaqL._SL200_.jpg' ]

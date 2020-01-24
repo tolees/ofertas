@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nintendo - Figura Amiibo Link Majora s M' al 37.93296089385475 % de descuento
+title: 'Nintendo - Figura Amiibo Link Majora s M al 37.93296089385475 % de descuento'
 date: 2019/12/16 00:36:13 +0000
 thumbnailImage: ''
 images: [ '' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.0705596107056 % en 'AstroAI Pinza Amperimétrica Profesional '
+title: 'Descuento del 61.0705596107056 % en AstroAI Pinza Amperimétrica Profesional '
 date: 2019/11/29 11:58:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UdNIkbuUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UdNIkbuUL._SL200_.jpg' ]

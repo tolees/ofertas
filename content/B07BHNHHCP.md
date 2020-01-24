@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COLCHA BOUTI A CUADROS IZAN BLANCA' al 55.47741834661666 % de descuento
+title: 'COLCHA BOUTI A CUADROS IZAN BLANCA al 55.47741834661666 % de descuento'
 date: 2019/10/24 10:53:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vTUyyfAEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vTUyyfAEL._SL200_.jpg' ]

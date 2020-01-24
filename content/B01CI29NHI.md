@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00250012500626 % en 'Tefal Optigrill GC712D12 - Plancha Grill'
+title: 'Descuento del 50.00250012500626 % en Tefal Optigrill GC712D12 - Plancha Grill'
 date: 2020-01-05 14:15:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DQ2QSQvWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DQ2QSQvWL._SL200_.jpg' ]

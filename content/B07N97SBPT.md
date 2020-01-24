@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Trek 4 Camiseta  Negro  Black 001  ' al 63.319432860717264 % de descuento
+title: 'BOSS Trek 4 Camiseta  Negro  Black 001   al 63.319432860717264 % de descuento'
 date: 2020-01-10 19:25:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WsydjL9rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WsydjL9rL._SL200_.jpg' ]

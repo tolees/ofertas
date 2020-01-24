@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.3280546757793 % en 'Maegoo Mandos Controlador Inalámbrico pa'
+title: 'Descuento del 68.3280546757793 % en Maegoo Mandos Controlador Inalámbrico pa'
 date: 2019/11/29 07:26:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51niE4lkRQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51niE4lkRQL._SL200_.jpg' ]

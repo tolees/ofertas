@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers OG 90-Cozine  Zapatillas de Ent' al 58.62414008755472 % de descuento
+title: 'Skechers OG 90-Cozine  Zapatillas de Ent al 58.62414008755472 % de descuento'
 date: 2019/11/01 22:19:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419jZJ6dUCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419jZJ6dUCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.00666777796299 % en 'ASHION Kinder Winterschuhe Wanderschuhe '
+title: 'Descuento del 40.00666777796299 % en ASHION Kinder Winterschuhe Wanderschuhe '
 date: 2019/11/02 09:38:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SyPufxU0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SyPufxU0L._SL200_.jpg' ]

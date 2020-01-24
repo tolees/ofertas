@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Grohe Eurosmart  - Grifo de lavabo con v' al 47.85364679451176 % de descuento
+title: 'Grohe Eurosmart  - Grifo de lavabo con v al 47.85364679451176 % de descuento'
 date: 2020-01-22 00:13:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419HfdUQa3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419HfdUQa3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ahat Nueva actualización LED Marquee Luc' al 40.02001000500249 % de descuento
+title: 'Ahat Nueva actualización LED Marquee Luc al 40.02001000500249 % de descuento'
 date: 2019/10/18 11:03:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BSXmFxyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q%2BSXmFxyL._SL200_.jpg' ]

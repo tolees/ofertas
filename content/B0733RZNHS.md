@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Converse Chuck Taylor Ctas Hi Leather  Z' al 51.2 % de descuento
+title: 'Converse Chuck Taylor Ctas Hi Leather  Z al 51.2 % de descuento'
 date: 2019/11/02 09:08:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Id53TaY6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Id53TaY6L._SL200_.jpg' ]

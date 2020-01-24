@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.999999999999993 % en 'Geographical Norway Sudadera Mujer GYMCL'
+title: 'Descuento del 29.999999999999993 % en Geographical Norway Sudadera Mujer GYMCL'
 date: 2019/12/23 10:40:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OqHH2cCkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OqHH2cCkL._SL200_.jpg' ]

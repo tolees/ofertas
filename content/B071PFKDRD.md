@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shimmer y Shine Alfombra mágica voladora' al 52.305982589368405 % de descuento
+title: 'Shimmer y Shine Alfombra mágica voladora al 52.305982589368405 % de descuento'
 date: 2020-01-08 13:24:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ticJtc9zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ticJtc9zL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.98079022047589 % en 'DKNY Intimates Modern Lights-Mesh Litewe'
+title: 'Descuento del 47.98079022047589 % en DKNY Intimates Modern Lights-Mesh Litewe'
 date: 2019/12/05 08:12:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uVq3%2BE8dL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uVq3%2BE8dL._SL200_.jpg' ]

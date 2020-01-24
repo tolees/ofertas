@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IRIS & LILLY Pezoneras de Silicona Dd+  ' al 32.59803921568628 % de descuento
+title: 'IRIS & LILLY Pezoneras de Silicona Dd+   al 32.59803921568628 % de descuento'
 date: 2019/11/19 11:25:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310w9l5sLpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310w9l5sLpL._SL200_.jpg' ]

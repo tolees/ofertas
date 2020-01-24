@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Orbegozo HO 810 A Mini horno- tostador m' al 35.732647814910024 % de descuento
+title: 'Orbegozo HO 810 A Mini horno- tostador m al 35.732647814910024 % de descuento'
 date: 2020-01-06 14:21:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XVFNmXLPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XVFNmXLPL._SL200_.jpg' ]

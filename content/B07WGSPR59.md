@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0054550413674 % en 'YGJT Bicicletas sin Pedales para niños 1'
+title: 'Descuento del 60.0054550413674 % en YGJT Bicicletas sin Pedales para niños 1'
 date: 2020-01-22 15:25:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EGl4SaxZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EGl4SaxZL._SL200_.jpg' ]

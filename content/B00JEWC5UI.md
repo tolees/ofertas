@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blend 700522 Blizzard - Vaqueros para ho' al 51.33917396745933 % de descuento
+title: 'Blend 700522 Blizzard - Vaqueros para ho al 51.33917396745933 % de descuento'
 date: 2019/12/25 12:32:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SP9WYObXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SP9WYObXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HoneyHolly 3D Cubo De Hielo Del Cráneo M' al 48.97872340425532 % de descuento
+title: 'HoneyHolly 3D Cubo De Hielo Del Cráneo M al 48.97872340425532 % de descuento'
 date: 2019/10/29 11:24:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o5voO6bCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o5voO6bCL._SL200_.jpg' ]

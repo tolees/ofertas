@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline Superstay Matte Ink - Pintala' al 40.94094094094094 % de descuento
+title: 'Maybelline Superstay Matte Ink - Pintala al 40.94094094094094 % de descuento'
 date: 2019/12/27 19:47:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jPSaFPn3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jPSaFPn3L._SL200_.jpg' ]

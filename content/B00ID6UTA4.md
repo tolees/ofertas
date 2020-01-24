@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.87499999999999 % en 'Beissier M56072 - Aguaplast instantaneo '
+title: 'Descuento del 41.87499999999999 % en Beissier M56072 - Aguaplast instantaneo '
 date: 2019/11/18 20:30:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKi3NDEHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mKi3NDEHL._SL200_.jpg' ]

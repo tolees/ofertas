@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Invision Soporte de Pared para TV Para 2' al 38.73468367091773 % de descuento
+title: 'Invision Soporte de Pared para TV Para 2 al 38.73468367091773 % de descuento'
 date: 2019/12/04 09:32:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fm%2BlLn73L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fm%2BlLn73L._SL200_.jpg' ]

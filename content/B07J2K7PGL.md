@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.524735964424686 % en 'adidas Predator 19.3 TF  Zapatillas de F'
+title: 'Descuento del 44.524735964424686 % en adidas Predator 19.3 TF  Zapatillas de F'
 date: 2019/12/30 10:31:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g6nvHIpKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g6nvHIpKL._SL200_.jpg' ]

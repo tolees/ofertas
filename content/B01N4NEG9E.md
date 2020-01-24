@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson EcoTank ET-2600 nachfüllbares 3-in' al 53.665122170739025 % de descuento
+title: 'Epson EcoTank ET-2600 nachfüllbares 3-in al 53.665122170739025 % de descuento'
 date: 2019/12/05 20:32:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ygQ844UCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ygQ844UCL._SL200_.jpg' ]

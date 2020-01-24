@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.263079222720474 % en 'Yamaha MusicCast RX-V685 - Receptor AV  '
+title: 'Descuento del 25.263079222720474 % en Yamaha MusicCast RX-V685 - Receptor AV  '
 date: 2020-01-13 19:27:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DylGjuS4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DylGjuS4L._SL200_.jpg' ]

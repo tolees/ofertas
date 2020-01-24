@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech K400 Plus Wireless Touch Keyboa' al 45.75593026579023 % de descuento
+title: 'Logitech K400 Plus Wireless Touch Keyboa al 45.75593026579023 % de descuento'
 date: 2019/10/14 08:13:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iyuu5I2SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iyuu5I2SL._SL200_.jpg' ]

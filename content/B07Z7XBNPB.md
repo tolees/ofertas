@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amoladora Angular 18V Brushless  POPOMAN' al 35.00175008750437 % de descuento
+title: 'Amoladora Angular 18V Brushless  POPOMAN al 35.00175008750437 % de descuento'
 date: 2020-01-22 17:55:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KX67lGy6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KX67lGy6L._SL200_.jpg' ]

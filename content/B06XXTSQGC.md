@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pinceles de artista  9 piezas  mango lar' al 57.17142857142857 % de descuento
+title: 'Pinceles de artista  9 piezas  mango lar al 57.17142857142857 % de descuento'
 date: 2019/10/22 10:24:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-QTSyhfTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-QTSyhfTL._SL200_.jpg' ]

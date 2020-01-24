@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Lt Fit 119 1 SMA  Zapatillas par' al 60.656565656565654 % de descuento
+title: 'Lacoste Lt Fit 119 1 SMA  Zapatillas par al 60.656565656565654 % de descuento'
 date: 2019/10/12 08:56:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416uS3JdJcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416uS3JdJcL._SL200_.jpg' ]

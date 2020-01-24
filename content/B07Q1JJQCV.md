@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.355570380253496 % en 'Vicloon Barras Luminosas  Pulseras Lumin'
+title: 'Descuento del 33.355570380253496 % en Vicloon Barras Luminosas  Pulseras Lumin'
 date: 2019/11/01 10:22:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510gsnRzhvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510gsnRzhvL._SL200_.jpg' ]

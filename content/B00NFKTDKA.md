@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.58404396437369 % en 'Gardinia 6920102180 Cilindro-Estor Ahorr'
+title: 'Descuento del 34.58404396437369 % en Gardinia 6920102180 Cilindro-Estor Ahorr'
 date: 2019/10/23 14:07:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Zcy1cA8vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Zcy1cA8vL._SL200_.jpg' ]

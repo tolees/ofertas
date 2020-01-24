@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.33078281341966 % en 'Puma 352634  Zapatillas Unisex Adulto  N'
+title: 'Descuento del 62.33078281341966 % en Puma 352634  Zapatillas Unisex Adulto  N'
 date: 2019/11/26 08:26:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KXXnZFZqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KXXnZFZqL._SL200_.jpg' ]

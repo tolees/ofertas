@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asonway Corrección de Postura - Correcto' al 53.871794871794876 % de descuento
+title: 'Asonway Corrección de Postura - Correcto al 53.871794871794876 % de descuento'
 date: 2019/10/07 10:01:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gLpxZnztL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gLpxZnztL._SL200_.jpg' ]

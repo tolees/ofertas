@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 2pk Crewneck 1 Camiseta  Multicol' al 63.94285714285714 % de descuento
+title: 'Levi s 2pk Crewneck 1 Camiseta  Multicol al 63.94285714285714 % de descuento'
 date: 2020-01-19 13:09:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31M1t5keBuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31M1t5keBuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star RAW Core Strap Flat  Sandalias de' al 69.04452226113055 % de descuento
+title: 'G-Star RAW Core Strap Flat  Sandalias de al 69.04452226113055 % de descuento'
 date: 2019/10/15 13:31:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lsbOxbV2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lsbOxbV2L._SL200_.jpg' ]

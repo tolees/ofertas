@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.247191011235955 % en 'Napapijri Berber C Sudadera  Azul  BLU M'
+title: 'Descuento del 43.247191011235955 % en Napapijri Berber C Sudadera  Azul  BLU M'
 date: 2019/11/16 02:04:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VnnPxTTOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VnnPxTTOL._SL200_.jpg' ]

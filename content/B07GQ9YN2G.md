@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch TAS1007 Tassimo Happy Cafetera Mon' al 63.29113924050633 % de descuento
+title: 'Bosch TAS1007 Tassimo Happy Cafetera Mon al 63.29113924050633 % de descuento'
 date: 2020-01-05 09:59:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pulzo4XzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pulzo4XzL._SL200_.jpg' ]

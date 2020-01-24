@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.328042328042336 % en 'Maxi-Cosi EASYFIX BASE  base para grupo '
+title: 'Descuento del 51.328042328042336 % en Maxi-Cosi EASYFIX BASE  base para grupo '
 date: 2019/12/02 06:04:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qLa3x9bSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qLa3x9bSL._SL200_.jpg' ]

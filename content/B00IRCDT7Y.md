@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.011252813203306 % en 'Logitech Bluetooth Audio Adapter/Receive'
+title: 'Descuento del 45.011252813203306 % en Logitech Bluetooth Audio Adapter/Receive'
 date: 2020-01-08 19:28:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z0uhT84zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z0uhT84zL._SL200_.jpg' ]

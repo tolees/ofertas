@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAZAKA Juego de Destornilladores de Prec' al 50.0 % de descuento
+title: 'DAZAKA Juego de Destornilladores de Prec al 50.0 % de descuento'
 date: 2020-01-19 13:06:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fHW0T8z6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fHW0T8z6L._SL200_.jpg' ]

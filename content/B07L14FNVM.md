@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIU JO Shoes Jog 07-Sock Sneaker Peach  ' al 37.79592878565503 % de descuento
+title: 'LIU JO Shoes Jog 07-Sock Sneaker Peach   al 37.79592878565503 % de descuento'
 date: 2019/12/06 00:13:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YjBV5jWDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YjBV5jWDL._SL200_.jpg' ]

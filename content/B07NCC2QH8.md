@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.07692307692308 % en 'Pepe Jeans Saturn Crop Bañador  Blanco  '
+title: 'Descuento del 74.07692307692308 % en Pepe Jeans Saturn Crop Bañador  Blanco  '
 date: 2019/10/08 00:30:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-LLx9Xb4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-LLx9Xb4L._SL200_.jpg' ]

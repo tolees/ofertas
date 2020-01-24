@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.301692327268103 % en 'Intex 64414 Fibertech comfortplush - Col'
+title: 'Descuento del 31.301692327268103 % en Intex 64414 Fibertech comfortplush - Col'
 date: 2019/12/07 09:12:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f0FetX%2BWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f0FetX%2BWL._SL200_.jpg' ]

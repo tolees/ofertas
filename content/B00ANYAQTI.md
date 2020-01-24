@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WELEDA Acondicionador Reparador con Aven' al 42.7891156462585 % de descuento
+title: 'WELEDA Acondicionador Reparador con Aven al 42.7891156462585 % de descuento'
 date: 2019/12/15 02:02:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YShK2-4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YShK2-4gL._SL200_.jpg' ]

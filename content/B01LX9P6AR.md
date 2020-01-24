@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.76161446289679 % en 'Bella Aurora Bella Día Tratamiento Anti-'
+title: 'Descuento del 61.76161446289679 % en Bella Aurora Bella Día Tratamiento Anti-'
 date: 2019/10/07 15:33:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411UwGDLwML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411UwGDLwML._SL200_.jpg' ]

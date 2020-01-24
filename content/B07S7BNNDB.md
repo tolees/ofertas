@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mochila Térmica  Besrey Mochila Nevera b' al 45.90765127521254 % de descuento
+title: 'Mochila Térmica  Besrey Mochila Nevera b al 45.90765127521254 % de descuento'
 date: 2019/12/07 09:35:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ohYFS0m-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ohYFS0m-L._SL200_.jpg' ]

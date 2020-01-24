@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '60W Smart Wifi Lámpara de techo Luz de p' al 75.83599021279751 % de descuento
+title: '60W Smart Wifi Lámpara de techo Luz de p al 75.83599021279751 % de descuento'
 date: 2020-01-10 14:08:29
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

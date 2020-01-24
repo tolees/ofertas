@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01000333444481 % en 'JACK & JONES Jjegingham Shirt L/s Camisa'
+title: 'Descuento del 30.01000333444481 % en JACK & JONES Jjegingham Shirt L/s Camisa'
 date: 2019/12/29 19:23:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lz0xMCYGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lz0xMCYGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amzdeal Alcachofa de ducha Cabezal de Du' al 79.22640880293432 % de descuento
+title: 'Amzdeal Alcachofa de ducha Cabezal de Du al 79.22640880293432 % de descuento'
 date: 2020-01-20 12:34:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMn6XMOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMn6XMOpL._SL200_.jpg' ]

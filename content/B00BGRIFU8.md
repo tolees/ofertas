@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickie Toys 203462411 - Giant Crane  kab' al 52.71757252417473 % de descuento
+title: 'Dickie Toys 203462411 - Giant Crane  kab al 52.71757252417473 % de descuento'
 date: 2019/12/13 13:56:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417IFXI0PdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417IFXI0PdL._SL200_.jpg' ]

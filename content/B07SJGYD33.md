@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio PK1464 Set 4 Cuchillos de Co' al 53.684561520506826 % de descuento
+title: 'San Ignacio PK1464 Set 4 Cuchillos de Co al 53.684561520506826 % de descuento'
 date: 2019/12/29 13:32:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315CykWNqXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315CykWNqXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.63286919003727 % en 'FIFA 20 - Edición Legacy'
+title: 'Descuento del 27.63286919003727 % en FIFA 20 - Edición Legacy'
 date: 2020-01-21 21:46:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518rtYnBs4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518rtYnBs4L._SL200_.jpg' ]

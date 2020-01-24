@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.214285714285715 % en 'Burton Retro Mountain Organic Crew Sudad'
+title: 'Descuento del 57.214285714285715 % en Burton Retro Mountain Organic Crew Sudad'
 date: 2019/11/11 16:59:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31abTooDlfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31abTooDlfL._SL200_.jpg' ]

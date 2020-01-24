@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.43672748675691 % en 'Pertop Cortina de Luces  Luz Cadena  Luz'
+title: 'Descuento del 42.43672748675691 % en Pertop Cortina de Luces  Luz Cadena  Luz'
 date: 2019/11/23 19:45:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m9OxaehNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m9OxaehNL._SL200_.jpg' ]

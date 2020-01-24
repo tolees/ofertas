@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.78929765886287 % en 'Huawei MediaPad M5 Lite Tablet-PC 25  6 '
+title: 'Descuento del 36.78929765886287 % en Huawei MediaPad M5 Lite Tablet-PC 25  6 '
 date: 2019/12/09 07:17:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41socNpjfUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41socNpjfUL._SL200_.jpg' ]

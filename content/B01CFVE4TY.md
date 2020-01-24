@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TROLLS - Make up artist book  estuche de' al 62.949240459429426 % de descuento
+title: 'TROLLS - Make up artist book  estuche de al 62.949240459429426 % de descuento'
 date: 2019/12/05 15:21:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TSbGwHKXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TSbGwHKXL._SL200_.jpg' ]

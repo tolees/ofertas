@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.82465809348847 % en 'Altavoz Bluetooth Portátil IP67 Impermea'
+title: 'Descuento del 40.82465809348847 % en Altavoz Bluetooth Portátil IP67 Impermea'
 date: 2020-01-06 08:47:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b0pp0%2B9JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b0pp0%2B9JL._SL200_.jpg' ]

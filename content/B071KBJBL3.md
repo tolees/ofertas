@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.68360033726812 % en 'Festina Reloj Cronógrafo para Hombre de '
+title: 'Descuento del 28.68360033726812 % en Festina Reloj Cronógrafo para Hombre de '
 date: 2019/12/15 18:42:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cMEbeFhYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cMEbeFhYL._SL200_.jpg' ]

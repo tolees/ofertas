@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.1001001001001 % en 'Puma Icra Trainer SD Zapatillas  Unisex '
+title: 'Descuento del 40.1001001001001 % en Puma Icra Trainer SD Zapatillas  Unisex '
 date: 2019/10/17 16:58:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ykxPE4iDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ykxPE4iDL._SL200_.jpg' ]

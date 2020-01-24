@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Beka 13113284 Marmite - Olla  Acero Inox' al 29.94331443814604 % de descuento
+title: 'Beka 13113284 Marmite - Olla  Acero Inox al 29.94331443814604 % de descuento'
 date: 2019/12/29 19:07:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WE46WFX3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WE46WFX3L._SL200_.jpg' ]

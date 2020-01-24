@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.59557661927329 % en 'TFA Dostmann Sprechender Wecker mit Zeit'
+title: 'Descuento del 31.59557661927329 % en TFA Dostmann Sprechender Wecker mit Zeit'
 date: 2019/10/21 20:25:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311Yo91WHgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311Yo91WHgL._SL200_.jpg' ]

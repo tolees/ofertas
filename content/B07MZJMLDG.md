@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superdry Low Roller tee Camiseta  Verde ' al 72.35220125786164 % de descuento
+title: 'Superdry Low Roller tee Camiseta  Verde  al 72.35220125786164 % de descuento'
 date: 2019/12/16 11:30:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qtCBjbZPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qtCBjbZPL._SL200_.jpg' ]

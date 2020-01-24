@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fitbit Versa - Reloj Deportivo Smartwatc' al 39.138943248532286 % de descuento
+title: 'Fitbit Versa - Reloj Deportivo Smartwatc al 39.138943248532286 % de descuento'
 date: 2019/12/23 11:19:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51l%2BvcVHLkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51l%2BvcVHLkL._SL200_.jpg' ]

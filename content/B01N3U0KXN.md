@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auna Melodia Radio Dab Bluetooth  minica' al 55.91163234692487 % de descuento
+title: 'Auna Melodia Radio Dab Bluetooth  minica al 55.91163234692487 % de descuento'
 date: 2020-01-21 00:49:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bdmsw2fFL._SL200_.jpg' ]

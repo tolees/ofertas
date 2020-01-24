@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crema hidratante facial para el cuidado ' al 47.61904761904761 % de descuento
+title: 'Crema hidratante facial para el cuidado  al 47.61904761904761 % de descuento'
 date: 2019/10/15 16:15:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4164DTnZi-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4164DTnZi-L._SL200_.jpg' ]

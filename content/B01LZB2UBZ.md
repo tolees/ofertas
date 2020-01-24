@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.49114703618167 % en 'Vicloon Bombilla Lámpara Halogena G9 60W'
+title: 'Descuento del 38.49114703618167 % en Vicloon Bombilla Lámpara Halogena G9 60W'
 date: 2019/10/25 13:16:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bbW5O7KwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bbW5O7KwL._SL200_.jpg' ]

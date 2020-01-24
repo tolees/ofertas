@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.94706723891274 % en 'Sony Xperia XZ1 - Smartphone de 5.2"  Bl'
+title: 'Descuento del 62.94706723891274 % en Sony Xperia XZ1 - Smartphone de 5.2"  Bl'
 date: 2020-01-22 00:32:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-O%2B0lEmeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-O%2B0lEmeL._SL200_.jpg' ]

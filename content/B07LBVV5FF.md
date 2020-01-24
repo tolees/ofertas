@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Fixed Triangle-rp Top de Bi' al 45.22222222222223 % de descuento
+title: 'Calvin Klein Fixed Triangle-rp Top de Bi al 45.22222222222223 % de descuento'
 date: 2020-01-03 20:56:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LpHzQbR3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LpHzQbR3L._SL200_.jpg' ]

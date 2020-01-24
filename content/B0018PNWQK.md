@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.33847454046059 % en 'WMF Gala Plus Batería de Cocina  7 Pieza'
+title: 'Descuento del 31.33847454046059 % en WMF Gala Plus Batería de Cocina  7 Pieza'
 date: 2020-01-20 02:30:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CS2c1BgsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CS2c1BgsL._SL200_.jpg' ]

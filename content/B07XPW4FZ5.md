@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.032967032967036 % en 'Botas de Nieve para Mujer  Invierno Outd'
+title: 'Descuento del 27.032967032967036 % en Botas de Nieve para Mujer  Invierno Outd'
 date: 2019/11/28 11:47:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iD15M2zjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iD15M2zjL._SL200_.jpg' ]

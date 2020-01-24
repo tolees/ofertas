@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.00760152030407 % en 'Rollercoaster Tycoon Adventures'
+title: 'Descuento del 38.00760152030407 % en Rollercoaster Tycoon Adventures'
 date: 2019/11/02 13:13:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514bzFyaSaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514bzFyaSaL._SL200_.jpg' ]

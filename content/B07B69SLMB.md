@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.62440780509756 % en 'Nokia 8 Sirocco 128 GB UK SIM-Free Smart'
+title: 'Descuento del 52.62440780509756 % en Nokia 8 Sirocco 128 GB UK SIM-Free Smart'
 date: 2019/12/24 15:34:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mEhcCTGML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mEhcCTGML._SL200_.jpg' ]

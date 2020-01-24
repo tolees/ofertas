@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lubricante Intimo CONTROL Kit de 3 Geles' al 33.333333333333336 % de descuento
+title: 'Lubricante Intimo CONTROL Kit de 3 Geles al 33.333333333333336 % de descuento'
 date: 2019/12/13 11:34:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EmQXUQMNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EmQXUQMNL._SL200_.jpg' ]

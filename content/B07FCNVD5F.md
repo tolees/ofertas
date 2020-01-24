@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.27669902912622 % en 'ETNAB|#Etnies Kingpin  Zapatillas de Ska'
+title: 'Descuento del 53.27669902912622 % en ETNAB|#Etnies Kingpin  Zapatillas de Ska'
 date: 2019/11/10 08:04:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318F80HjrkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318F80HjrkL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.67 % en 'New Balance Fresh Foam Cruz Sockfit  Zap'
+title: 'Descuento del 56.67 % en New Balance Fresh Foam Cruz Sockfit  Zap'
 date: 2019/10/15 07:17:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fHVt8mP7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fHVt8mP7L._SL200_.jpg' ]

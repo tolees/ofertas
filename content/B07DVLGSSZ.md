@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Mujer Pantalón Convertible  Sat' al 69.14614326790849 % de descuento
+title: 'Columbia Mujer Pantalón Convertible  Sat al 69.14614326790849 % de descuento'
 date: 2019/11/17 12:27:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UPQUuwXmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UPQUuwXmL._SL200_.jpg' ]

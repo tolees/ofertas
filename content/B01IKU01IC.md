@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'rocabo 1176 RJ45 Netzwerkkabel Patchkabe' al 40.07285974499089 % de descuento
+title: 'rocabo 1176 RJ45 Netzwerkkabel Patchkabe al 40.07285974499089 % de descuento'
 date: 2019/11/02 18:12:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BG3X0T66L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BG3X0T66L._SL200_.jpg' ]

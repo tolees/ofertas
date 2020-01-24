@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34343434343435 % en 'Lacoste Hh9553 Pantalones  Beige  Vienno'
+title: 'Descuento del 33.34343434343435 % en Lacoste Hh9553 Pantalones  Beige  Vienno'
 date: 2019/12/22 12:39:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314qdeRIGqL._SL200_.jpg' ]

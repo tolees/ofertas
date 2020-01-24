@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hoover Telios Extra TX60PET - Aspirador ' al 45.226130653266324 % de descuento
+title: 'Hoover Telios Extra TX60PET - Aspirador  al 45.226130653266324 % de descuento'
 date: 2020-01-17 18:07:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pjHLVbA0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pjHLVbA0L._SL200_.jpg' ]

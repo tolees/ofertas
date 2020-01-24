@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.3306613226453 % en 'Burgmeister Reloj Analógico Cuarzo Allin'
+title: 'Descuento del 68.3306613226453 % en Burgmeister Reloj Analógico Cuarzo Allin'
 date: 2019/11/15 15:25:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51z4eezo8wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51z4eezo8wL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Rugged 6 Inch Plain Toe Water' al 50.347619047619055 % de descuento
+title: 'Timberland Rugged 6 Inch Plain Toe Water al 50.347619047619055 % de descuento'
 date: 2019/11/22 12:34:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pn9uJSnuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pn9uJSnuL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riuty 12-14V 50W el Panel de la MAZORCA ' al 61.630036630036635 % de descuento
+title: 'Riuty 12-14V 50W el Panel de la MAZORCA  al 61.630036630036635 % de descuento'
 date: 2019/12/08 23:59:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nY-oRyGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nY-oRyGbL._SL200_.jpg' ]

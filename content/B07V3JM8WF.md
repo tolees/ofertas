@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KASTEWILL Aro de Luz LED  Regulable 8" R' al 44.00880176035208 % de descuento
+title: 'KASTEWILL Aro de Luz LED  Regulable 8" R al 44.00880176035208 % de descuento'
 date: 2019/11/25 15:42:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QlD2Y4w2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QlD2Y4w2L._SL200_.jpg' ]

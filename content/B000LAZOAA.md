@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 81.87924258663809 % en 'Kyocera TK-520Y Cartucho de tóner Amaril'
+title: 'Descuento del 81.87924258663809 % en Kyocera TK-520Y Cartucho de tóner Amaril'
 date: 2019/10/10 18:00:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sUV5hZSaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sUV5hZSaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.189189189189186 % en 'YuLu-#Snapstar Echo  407246 '
+title: 'Descuento del 35.189189189189186 % en YuLu-#Snapstar Echo  407246 '
 date: 2020-01-03 06:20:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vCazSNrQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vCazSNrQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ibiza Sound PORT12VHF- BT - Megafonia po' al 26.640926640926644 % de descuento
+title: 'Ibiza Sound PORT12VHF- BT - Megafonia po al 26.640926640926644 % de descuento'
 date: 2020-01-17 13:07:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jho3UTjaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jho3UTjaL._SL200_.jpg' ]

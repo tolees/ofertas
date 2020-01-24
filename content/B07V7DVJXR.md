@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SmartHitech 1 Pieza Portátil Torniquete ' al 50.0 % de descuento
+title: 'SmartHitech 1 Pieza Portátil Torniquete  al 50.0 % de descuento'
 date: 2019/11/03 15:35:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41u5eb4uheL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41u5eb4uheL._SL200_.jpg' ]

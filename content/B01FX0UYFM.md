@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Revlon Equave Instant Beauty Blonde Deta' al 71.42857142857143 % de descuento
+title: 'Revlon Equave Instant Beauty Blonde Deta al 71.42857142857143 % de descuento'
 date: 2019/10/09 09:15:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31odzcD0iuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31odzcD0iuL._SL200_.jpg' ]

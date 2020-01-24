@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Roshe One GS 599729-302  Zapatillas' al 69.72718936267766 % de descuento
+title: 'Nike Roshe One GS 599729-302  Zapatillas al 69.72718936267766 % de descuento'
 date: 2019/11/05 18:35:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YpW05XRkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YpW05XRkL._SL200_.jpg' ]

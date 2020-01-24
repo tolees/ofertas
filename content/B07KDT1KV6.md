@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange Sneaker Hombre' al 28.59999999999999 % de descuento
+title: 'Armani Exchange Sneaker Hombre al 28.59999999999999 % de descuento'
 date: 2019/12/06 02:02:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zjkvx-XCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zjkvx-XCL._SL200_.jpg' ]

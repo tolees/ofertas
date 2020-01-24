@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.84615384615385 % en 'Tuscany Silver Pendientes de Plata de Le'
+title: 'Descuento del 53.84615384615385 % en Tuscany Silver Pendientes de Plata de Le'
 date: 2019/11/10 20:12:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NGhGIGGDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NGhGIGGDL._SL200_.jpg' ]

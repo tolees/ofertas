@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'American Tourister Bon Air - Equipaje de' al 42.307692307692314 % de descuento
+title: 'American Tourister Bon Air - Equipaje de al 42.307692307692314 % de descuento'
 date: 2019/11/27 16:36:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F7Qiv4ISL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F7Qiv4ISL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.216828478964395 % en 'fischertechnik 524325 - PROFI Tractor Se'
+title: 'Descuento del 37.216828478964395 % en fischertechnik 524325 - PROFI Tractor Se'
 date: 2019/12/29 01:23:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61F2pEiXH9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61F2pEiXH9L._SL200_.jpg' ]

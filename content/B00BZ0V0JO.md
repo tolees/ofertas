@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Green Lantern Logo Camiseta  Verde  M pa' al 42.96566393193558 % de descuento
+title: 'Green Lantern Logo Camiseta  Verde  M pa al 42.96566393193558 % de descuento'
 date: 2019/12/28 09:43:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hrnKUMHlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hrnKUMHlL._SL200_.jpg' ]

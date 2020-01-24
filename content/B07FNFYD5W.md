@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.52990687305986 % en 'MSI Pro 20EX 8GL-001XEU - Ordenador de s'
+title: 'Descuento del 35.52990687305986 % en MSI Pro 20EX 8GL-001XEU - Ordenador de s'
 date: 2019/11/12 16:28:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YCRap0fuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YCRap0fuL._SL200_.jpg' ]

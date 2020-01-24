@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.409545804464976 % en 'LEGO 41169 Disney Frozen II Olaf the Sno'
+title: 'Descuento del 32.409545804464976 % en LEGO 41169 Disney Frozen II Olaf the Sno'
 date: 2019/12/18 21:34:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CQx3DPn6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CQx3DPn6L._SL200_.jpg' ]

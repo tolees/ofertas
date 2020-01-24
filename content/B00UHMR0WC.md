@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aceite de oliva virgen extra carbonell 5' al 51.53988868274582 % de descuento
+title: 'Aceite de oliva virgen extra carbonell 5 al 51.53988868274582 % de descuento'
 date: 2019/10/12 21:53:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EwtDyHxWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EwtDyHxWL._SL200_.jpg' ]

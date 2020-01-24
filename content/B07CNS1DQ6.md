@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.199999999999996 % en 'PEKITAS Juego De 3 Piezas De Sábanas Fin'
+title: 'Descuento del 36.199999999999996 % en PEKITAS Juego De 3 Piezas De Sábanas Fin'
 date: 2019/11/25 20:05:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dLh3iyIIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dLh3iyIIL._SL200_.jpg' ]

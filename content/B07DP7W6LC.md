@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.163081540770396 % en 'Adidas Falcon W  Zapatillas de Gimnasia '
+title: 'Descuento del 26.163081540770396 % en Adidas Falcon W  Zapatillas de Gimnasia '
 date: 2019/12/04 04:00:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4141NKjZMWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4141NKjZMWL._SL200_.jpg' ]

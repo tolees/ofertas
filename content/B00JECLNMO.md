@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'One Piece: Unlimited World Red - Edición' al 33.1851522560569 % de descuento
+title: 'One Piece: Unlimited World Red - Edición al 33.1851522560569 % de descuento'
 date: 2019/10/19 19:18:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xg1B4NlrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xg1B4NlrL._SL200_.jpg' ]

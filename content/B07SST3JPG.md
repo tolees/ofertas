@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Darksiders Genesis - Xbox One' al 25.006251562890736 % de descuento
+title: 'Darksiders Genesis - Xbox One al 25.006251562890736 % de descuento'
 date: 2019/12/27 14:46:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iPcE9ibnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iPcE9ibnL._SL200_.jpg' ]

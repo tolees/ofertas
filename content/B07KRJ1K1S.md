@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Stella Ankle Zip Vaqueros Skinny ' al 83.12230215827338 % de descuento
+title: 'REPLAY Stella Ankle Zip Vaqueros Skinny  al 83.12230215827338 % de descuento'
 date: 2019/10/17 00:17:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WuJdeeMpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WuJdeeMpL._SL200_.jpg' ]

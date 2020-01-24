@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pulidora de Coche  GALAX PRO 1200W Veloc' al 25.00312539067383 % de descuento
+title: 'Pulidora de Coche  GALAX PRO 1200W Veloc al 25.00312539067383 % de descuento'
 date: 2020-01-07 18:24:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZdkwIx5RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZdkwIx5RL._SL200_.jpg' ]

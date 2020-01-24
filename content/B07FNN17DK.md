@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.015007503751868 % en 'Lego 60207 City Polizei Drohnenjagd  bun'
+title: 'Descuento del 30.015007503751868 % en Lego 60207 City Polizei Drohnenjagd  bun'
 date: 2020-01-23 10:02:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gNDDfCPML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gNDDfCPML._SL200_.jpg' ]

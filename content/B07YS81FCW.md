@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UniqueMe [6 Pack] Protector de Pantalla ' al 30.79291762894534 % de descuento
+title: 'UniqueMe [6 Pack] Protector de Pantalla  al 30.79291762894534 % de descuento'
 date: 2019/12/13 12:32:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yjoJqdy5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yjoJqdy5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.6 % en 'Timberland 6-inch Premium Wp Botas Clasi'
+title: 'Descuento del 49.6 % en Timberland 6-inch Premium Wp Botas Clasi'
 date: 2019/10/09 14:13:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CvcnwZmhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CvcnwZmhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.02001668056714 % en 'BOSS Tauch Camiseta  Azul  Dark Blue 404'
+title: 'Descuento del 64.02001668056714 % en BOSS Tauch Camiseta  Azul  Dark Blue 404'
 date: 2019/11/10 12:46:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xOxr7JSQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xOxr7JSQL._SL200_.jpg' ]

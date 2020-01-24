@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Logitech MK850 Performance 920-008228 - ' al 31.608000000000004 % de descuento
+title: 'Logitech MK850 Performance 920-008228 -  al 31.608000000000004 % de descuento'
 date: 2020-01-16 16:24:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gQCXOS0jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gQCXOS0jL._SL200_.jpg' ]

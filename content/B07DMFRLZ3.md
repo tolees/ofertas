@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.011252813203306 % en 'Philips Avent SCD301/01 - Set de recién '
+title: 'Descuento del 45.011252813203306 % en Philips Avent SCD301/01 - Set de recién '
 date: 2020-01-22 11:26:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ku%2Bdz3L6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ku%2Bdz3L6L._SL200_.jpg' ]

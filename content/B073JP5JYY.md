@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.38095238095237 % en 'find. Jersey de Algodón Hombre  Verde   '
+title: 'Descuento del 52.38095238095237 % en find. Jersey de Algodón Hombre  Verde   '
 date: 2019/12/28 13:52:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ajwN-nZ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ajwN-nZ3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.004300430042996 % en 'Sharp HT-SB110 2.0 Slim - Barra de Sonid'
+title: 'Descuento del 43.004300430042996 % en Sharp HT-SB110 2.0 Slim - Barra de Sonid'
 date: 2019/11/30 21:28:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21LZlHvdOJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21LZlHvdOJL._SL200_.jpg' ]

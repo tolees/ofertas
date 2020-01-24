@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony KD-55XG8196BAEP - Televisor 4K HDR ' al 47.43494085532301 % de descuento
+title: 'Sony KD-55XG8196BAEP - Televisor 4K HDR  al 47.43494085532301 % de descuento'
 date: 2020-01-10 20:10:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ms9gt0caL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ms9gt0caL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.60000000000001 % en 'Under Armour Tech 9In 2 Pack Ropa Interi'
+title: 'Descuento del 48.60000000000001 % en Under Armour Tech 9In 2 Pack Ropa Interi'
 date: 2019/12/16 18:56:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ok5heacjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ok5heacjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.753835890593727 % en 'Philips Vibes SHE3705BL - Auricualres in'
+title: 'Descuento del 30.753835890593727 % en Philips Vibes SHE3705BL - Auricualres in'
 date: 2019/10/26 16:22:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414sjX07PqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414sjX07PqL._SL200_.jpg' ]

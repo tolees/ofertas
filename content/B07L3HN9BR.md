@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Tommy Hooded Parka Abrigo' al 66.43884892086331 % de descuento
+title: 'Tommy Hilfiger Tommy Hooded Parka Abrigo al 66.43884892086331 % de descuento'
 date: 2019/10/20 23:23:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fJJLQnMgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fJJLQnMgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.087617523504704 % en 'Columbia Fast Trek II Forro Polar con Cr'
+title: 'Descuento del 38.087617523504704 % en Columbia Fast Trek II Forro Polar con Cr'
 date: 2019/10/25 06:50:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K2nGLmqZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K2nGLmqZL._SL200_.jpg' ]

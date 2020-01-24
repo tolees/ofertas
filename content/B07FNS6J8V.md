@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO City 60216 Feuerwehr in der Stadt' al 25.002500250025005 % de descuento
+title: 'LEGO City 60216 Feuerwehr in der Stadt al 25.002500250025005 % de descuento'
 date: 2019/12/11 23:30:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PGrSK0kOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PGrSK0kOL._SL200_.jpg' ]

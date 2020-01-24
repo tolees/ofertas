@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chloe 22810 Loción corporal - 200 ml' al 50.49627791563276 % de descuento
+title: 'Chloe 22810 Loción corporal - 200 ml al 50.49627791563276 % de descuento'
 date: 2020-01-22 07:16:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hSbfqgK0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hSbfqgK0L._SL200_.jpg' ]

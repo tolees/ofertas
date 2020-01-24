@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.025062656641595 % en 'Porsche Design Brief Bag XL Roadster 4.0'
+title: 'Descuento del 27.025062656641595 % en Porsche Design Brief Bag XL Roadster 4.0'
 date: 2019/10/19 06:38:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MKMztZZgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MKMztZZgL._SL200_.jpg' ]

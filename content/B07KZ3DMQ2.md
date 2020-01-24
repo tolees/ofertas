@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.04334778259419 % en 'Springfield 4WK Wide Stripe  Camisa Casu'
+title: 'Descuento del 30.04334778259419 % en Springfield 4WK Wide Stripe  Camisa Casu'
 date: 2019/11/12 12:53:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412aIg5R2-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412aIg5R2-L._SL200_.jpg' ]

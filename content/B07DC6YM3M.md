@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Leadcat  Chanclas Unisex Adulto  Ve' al 52.10420841683367 % de descuento
+title: 'Puma Leadcat  Chanclas Unisex Adulto  Ve al 52.10420841683367 % de descuento'
 date: 2019/10/18 09:25:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dQvQnLcdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dQvQnLcdL._SL200_.jpg' ]

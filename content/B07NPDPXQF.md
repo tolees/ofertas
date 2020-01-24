@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Elite Flex-Westerfeld  Zapatill' al 51.26518942101501 % de descuento
+title: 'Skechers Elite Flex-Westerfeld  Zapatill al 51.26518942101501 % de descuento'
 date: 2019/11/05 20:35:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4178OK3vdCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4178OK3vdCL._SL200_.jpg' ]

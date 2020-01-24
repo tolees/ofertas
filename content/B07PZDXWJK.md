@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 42652 POP. Bobble: Marvel: 80th - ' al 45.65217391304347 % de descuento
+title: 'Funko 42652 POP. Bobble: Marvel: 80th -  al 45.65217391304347 % de descuento'
 date: 2020-01-22 09:34:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pco%2BO2MjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pco%2BO2MjL._SL200_.jpg' ]

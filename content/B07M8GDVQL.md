@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.188297074268576 % en 'MTNG Collection 51091  Sandalia con Puls'
+title: 'Descuento del 53.188297074268576 % en MTNG Collection 51091  Sandalia con Puls'
 date: 2019/10/10 20:13:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZY5b3J99L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZY5b3J99L._SL200_.jpg' ]

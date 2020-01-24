@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.02859185132237 % en 'Mi vecino Totoro [Blu-ray]'
+title: 'Descuento del 40.02859185132237 % en Mi vecino Totoro [Blu-ray]'
 date: 2019/11/26 18:45:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512DyfRvl4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512DyfRvl4L._SL200_.jpg' ]

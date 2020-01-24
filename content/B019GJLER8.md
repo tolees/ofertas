@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.178824510212586 % en 'Anker PowerCore 10000 mAh - Batería exte'
+title: 'Descuento del 29.178824510212586 % en Anker PowerCore 10000 mAh - Batería exte'
 date: 2020-01-24 08:26:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31B5rBNP+8L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31B5rBNP+8L._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.035238762638905 % en 'WAVLINK USB 3.0 Universal Docking Statio'
+title: 'Descuento del 32.035238762638905 % en WAVLINK USB 3.0 Universal Docking Statio'
 date: 2020-01-22 13:21:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XKmie4NHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XKmie4NHL._SL200_.jpg' ]

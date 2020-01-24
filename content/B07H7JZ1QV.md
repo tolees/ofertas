@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.965517241379324 % en 'X-TIGER Hombres de Bicicleta con 5D Gel '
+title: 'Descuento del 37.965517241379324 % en X-TIGER Hombres de Bicicleta con 5D Gel '
 date: 2019/12/17 03:16:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z1VJxeMUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z1VJxeMUL._SL200_.jpg' ]

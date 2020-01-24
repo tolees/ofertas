@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.30434782608697 % en 'San Ignacio - Set 3 sartenes  16-20-24 c'
+title: 'Descuento del 64.30434782608697 % en San Ignacio - Set 3 sartenes  16-20-24 c'
 date: 2020-01-21 20:57:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUInQbMTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BUInQbMTL._SL200_.jpg' ]

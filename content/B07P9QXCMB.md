@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rip Curl Daisy Kington Dress Vestido  Mu' al 29.98833138856476 % de descuento
+title: 'Rip Curl Daisy Kington Dress Vestido  Mu al 29.98833138856476 % de descuento'
 date: 2019/12/22 18:43:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eE7NhSbKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eE7NhSbKL._SL200_.jpg' ]

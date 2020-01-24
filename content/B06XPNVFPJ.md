@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Comics T-Shirt Mono Batman White L' al 69.82857142857142 % de descuento
+title: 'DC Comics T-Shirt Mono Batman White L al 69.82857142857142 % de descuento'
 date: 2019/11/14 20:01:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B3DlofHaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2B3DlofHaL._SL200_.jpg' ]

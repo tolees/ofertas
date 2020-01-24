@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Love Moschino Quilted Nappa PU  bolso ba' al 27.097437655326083 % de descuento
+title: 'Love Moschino Quilted Nappa PU  bolso ba al 27.097437655326083 % de descuento'
 date: 2019/11/30 20:15:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415LaQt9rTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415LaQt9rTL._SL200_.jpg' ]

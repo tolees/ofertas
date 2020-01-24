@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kamik HAWKSBAY  Botas de Nieve para Homb' al 73.83999999999999 % de descuento
+title: 'Kamik HAWKSBAY  Botas de Nieve para Homb al 73.83999999999999 % de descuento'
 date: 2019/10/08 09:57:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gX3cGhlyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gX3cGhlyL._SL200_.jpg' ]

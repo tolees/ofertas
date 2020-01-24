@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.97995991983967 % en 'NIZZIN Felicia Chaqueta  Rosa  Nude Blus'
+title: 'Descuento del 69.97995991983967 % en NIZZIN Felicia Chaqueta  Rosa  Nude Blus'
 date: 2019/10/08 21:58:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gBszklRXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gBszklRXL._SL200_.jpg' ]

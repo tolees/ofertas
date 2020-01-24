@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.830443159922936 % en 'Pijama Para Dos [DVD]'
+title: 'Descuento del 51.830443159922936 % en Pijama Para Dos [DVD]'
 date: 2019/12/25 20:33:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5137mzuyEqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5137mzuyEqL._SL200_.jpg' ]

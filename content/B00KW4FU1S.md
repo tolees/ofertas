@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schwarzkopf - 3D Men - Hair-Scalp-Roots ' al 37.2258064516129 % de descuento
+title: 'Schwarzkopf - 3D Men - Hair-Scalp-Roots  al 37.2258064516129 % de descuento'
 date: 2019/11/08 14:11:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j4LXZfQmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j4LXZfQmL._SL200_.jpg' ]

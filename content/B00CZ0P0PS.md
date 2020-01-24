@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Verbatim MediaShare Wireless  tragbares ' al 55.526368963426954 % de descuento
+title: 'Verbatim MediaShare Wireless  tragbares  al 55.526368963426954 % de descuento'
 date: 2020-01-20 04:41:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4115I-lYrjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4115I-lYrjL._SL200_.jpg' ]

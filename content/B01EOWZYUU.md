@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Coastal 2 Parka  Hombre  Az' al 45.225925925925935 % de descuento
+title: 'Helly Hansen Coastal 2 Parka  Hombre  Az al 45.225925925925935 % de descuento'
 date: 2020-01-13 21:13:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KBRsBfOPL._SL200_.jpg' ]

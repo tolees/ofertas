@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fitbit Versa Smartwatch Deportivo  Meloc' al 40.48512128032008 % de descuento
+title: 'Fitbit Versa Smartwatch Deportivo  Meloc al 40.48512128032008 % de descuento'
 date: 2020-01-04 09:11:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HIqEATGBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HIqEATGBL._SL200_.jpg' ]

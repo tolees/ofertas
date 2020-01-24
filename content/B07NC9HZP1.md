@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Joey Mix Vaqueros Boyfriend  ' al 63.36363636363635 % de descuento
+title: 'Pepe Jeans Joey Mix Vaqueros Boyfriend   al 63.36363636363635 % de descuento'
 date: 2019/10/06 20:01:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tAhSJb86L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tAhSJb86L._SL200_.jpg' ]

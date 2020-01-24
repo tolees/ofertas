@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.67889296432144 % en 'LEGO City 60182 - Starke Fahrzeuge Picku'
+title: 'Descuento del 36.67889296432144 % en LEGO City 60182 - Starke Fahrzeuge Picku'
 date: 2019/11/28 09:28:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514Jerra7-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514Jerra7-L._SL200_.jpg' ]

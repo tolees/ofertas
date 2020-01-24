@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guess Gafas de sol  Azul  Blue   56.0 pa' al 72.60869565217392 % de descuento
+title: 'Guess Gafas de sol  Azul  Blue   56.0 pa al 72.60869565217392 % de descuento'
 date: 2019/11/14 20:21:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nlVZFUO4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nlVZFUO4L._SL200_.jpg' ]

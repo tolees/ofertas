@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guirnaldas Solares Luminosas de 50 LEDs ' al 67.51687921980496 % de descuento
+title: 'Guirnaldas Solares Luminosas de 50 LEDs  al 67.51687921980496 % de descuento'
 date: 2019/12/29 18:06:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rvQoo4J2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rvQoo4J2L._SL200_.jpg' ]

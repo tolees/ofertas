@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.02501250625312 % en 'Parfois - Bandolera Efecto Ante Grabado '
+title: 'Descuento del 50.02501250625312 % en Parfois - Bandolera Efecto Ante Grabado '
 date: 2020-01-10 17:14:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41taPPlm-1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41taPPlm-1L._SL200_.jpg' ]

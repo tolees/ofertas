@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.97278911564625 % en 'LEGO 41372 Friends Stephanie s Gymnastic'
+title: 'Descuento del 31.97278911564625 % en LEGO 41372 Friends Stephanie s Gymnastic'
 date: 2019/12/18 07:07:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xTAlYbV3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SELECTED FEMME Sfranja SS Highneck Dress' al 76.79250063339245 % de descuento
+title: 'SELECTED FEMME Sfranja SS Highneck Dress al 76.79250063339245 % de descuento'
 date: 2020-01-15 10:18:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kY42IVRUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kY42IVRUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Madrid CF Saco Mochila Plano Cuerda' al 50.269622528460154 % de descuento
+title: 'Real Madrid CF Saco Mochila Plano Cuerda al 50.269622528460154 % de descuento'
 date: 2020-01-23 08:04:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ygTMqKmpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ygTMqKmpL._SL200_.jpg' ]

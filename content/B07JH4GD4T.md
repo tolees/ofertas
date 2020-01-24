@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.49587396849212 % en 'Eono Essentials - Chaqueta de esquí híbr'
+title: 'Descuento del 83.49587396849212 % en Eono Essentials - Chaqueta de esquí híbr'
 date: 2020-01-03 08:06:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kmUZNdp6L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEFANT M501-A Robot Aspirador  Aspira Ba' al 48.57281636618189 % de descuento
+title: 'LEFANT M501-A Robot Aspirador  Aspira Ba al 48.57281636618189 % de descuento'
 date: 2019/12/09 20:10:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lM9FWxb4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lM9FWxb4L._SL200_.jpg' ]

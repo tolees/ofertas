@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.0300214438885 % en 'Desigual Pant_angelinass Pantalones  Roj'
+title: 'Descuento del 42.0300214438885 % en Desigual Pant_angelinass Pantalones  Roj'
 date: 2019/11/08 10:55:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aVML6q14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aVML6q14L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.02668445630421 % en 'MaGeek® [Pack de 5] 0.3m Cables Micro US'
+title: 'Descuento del 40.02668445630421 % en MaGeek® [Pack de 5] 0.3m Cables Micro US'
 date: 2019/11/29 13:50:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511nlaPOiDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511nlaPOiDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIPIKAR LECHE ROCHE POSAY 400ML' al 47.900158478605384 % de descuento
+title: 'LIPIKAR LECHE ROCHE POSAY 400ML al 47.900158478605384 % de descuento'
 date: 2019/10/17 19:17:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jMfcIHNnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jMfcIHNnL._SL200_.jpg' ]

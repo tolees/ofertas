@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.42897998093423 % en 'Trangoworld Wifa SK Pantalones Largos  M'
+title: 'Descuento del 50.42897998093423 % en Trangoworld Wifa SK Pantalones Largos  M'
 date: 2019/11/16 10:50:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313nUub7KyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313nUub7KyL._SL200_.jpg' ]

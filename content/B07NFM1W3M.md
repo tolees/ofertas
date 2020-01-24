@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.9799899949975 % en 'Monix Verona Gold - Set de cubiertos de '
+title: 'Descuento del 39.9799899949975 % en Monix Verona Gold - Set de cubiertos de '
 date: 2019/11/30 17:53:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vHsVbdoML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vHsVbdoML._SL200_.jpg' ]

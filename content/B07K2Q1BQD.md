@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.8 % en 'Under Armour Charged Impulse  Zapatillas'
+title: 'Descuento del 59.8 % en Under Armour Charged Impulse  Zapatillas'
 date: 2019/11/29 11:00:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412NG8BxbgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412NG8BxbgL._SL200_.jpg' ]

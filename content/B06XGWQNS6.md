@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko - Pop! Vinilo Colección El señor d' al 44.96330887258172 % de descuento
+title: 'Funko - Pop! Vinilo Colección El señor d al 44.96330887258172 % de descuento'
 date: 2020-01-15 22:33:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MCU2ij8pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MCU2ij8pL._SL200_.jpg' ]

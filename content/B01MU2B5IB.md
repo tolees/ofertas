@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.371175628173418 % en 'Mammut Unisex s Xeron Courier 20 Hiking '
+title: 'Descuento del 29.371175628173418 % en Mammut Unisex s Xeron Courier 20 Hiking '
 date: 2019/10/17 15:16:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OPe11jfmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OPe11jfmL._SL200_.jpg' ]

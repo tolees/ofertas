@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Green Saturn_lowp_Act  Zapatillas p' al 60.20000000000001 % de descuento
+title: 'BOSS Green Saturn_lowp_Act  Zapatillas p al 60.20000000000001 % de descuento'
 date: 2020-01-21 15:00:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21I6JaYXPXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21I6JaYXPXL._SL200_.jpg' ]

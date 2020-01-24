@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.71706503613117 % en 'Lee Rider Vaqueros Slim  Marfil  Off Whi'
+title: 'Descuento del 70.71706503613117 % en Lee Rider Vaqueros Slim  Marfil  Off Whi'
 date: 2019/11/13 11:43:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hFumvXglL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hFumvXglL._SL200_.jpg' ]

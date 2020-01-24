@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.1034103410341 % en 'Columbia WAYFINDER  Zapatos Multideporte'
+title: 'Descuento del 34.1034103410341 % en Columbia WAYFINDER  Zapatos Multideporte'
 date: 2020-01-10 21:39:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hsixhyG8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hsixhyG8L._SL200_.jpg' ]

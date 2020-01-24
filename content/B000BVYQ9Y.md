@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La Colección Noble Hermione varita la ca' al 26.815476190476197 % de descuento
+title: 'La Colección Noble Hermione varita la ca al 26.815476190476197 % de descuento'
 date: 2019/11/27 11:55:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CxQ%2Bx8MFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CxQ%2Bx8MFL._SL200_.jpg' ]

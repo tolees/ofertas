@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack Conan 1+2¿ Black Metal Edition Blu-' al 49.96873045653534 % de descuento
+title: 'Pack Conan 1+2¿ Black Metal Edition Blu- al 49.96873045653534 % de descuento'
 date: 2019/11/26 19:24:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519R3I95MYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519R3I95MYL._SL200_.jpg' ]

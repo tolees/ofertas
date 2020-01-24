@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.18940609951847 % en 'BIODERMA Atoderm Intensive Piel Atopica '
+title: 'Descuento del 34.18940609951847 % en BIODERMA Atoderm Intensive Piel Atopica '
 date: 2019/11/10 18:38:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415WehhA8CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415WehhA8CL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TFA 301042 - Termómetro digital para fri' al 47.5 % de descuento
+title: 'TFA 301042 - Termómetro digital para fri al 47.5 % de descuento'
 date: 2019/10/19 19:18:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B5Vsr6nVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B5Vsr6nVL._SL200_.jpg' ]

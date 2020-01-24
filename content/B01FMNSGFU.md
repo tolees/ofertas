@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.314984452474995 % en 'KAPORAL Nodus Abrigo  Gris  2XL para Hom'
+title: 'Descuento del 48.314984452474995 % en KAPORAL Nodus Abrigo  Gris  2XL para Hom'
 date: 2020-01-08 21:22:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fcnGZ64gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fcnGZ64gL._SL200_.jpg' ]

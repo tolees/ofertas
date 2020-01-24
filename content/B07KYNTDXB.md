@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield 3.Gym.Vestido Camisero Nu Ve' al 42.31410470156718 % de descuento
+title: 'Springfield 3.Gym.Vestido Camisero Nu Ve al 42.31410470156718 % de descuento'
 date: 2019/11/12 11:06:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X1ix7fA2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X1ix7fA2L._SL200_.jpg' ]

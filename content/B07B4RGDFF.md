@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 High Waist Straight 90 s' al 76.03801900950475 % de descuento
+title: 'G-STAR RAW 3301 High Waist Straight 90 s al 76.03801900950475 % de descuento'
 date: 2019/10/15 12:30:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UnzUcZrZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UnzUcZrZL._SL200_.jpg' ]

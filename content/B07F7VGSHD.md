@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0030001500075 % en 'YANSENXING ysx 8 Digital Despertador  Ca'
+title: 'Descuento del 60.0030001500075 % en YANSENXING ysx 8 Digital Despertador  Ca'
 date: 2019/11/27 17:29:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tc3fRYu7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tc3fRYu7L._SL200_.jpg' ]

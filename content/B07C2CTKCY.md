@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PANTALON CORTO BULLPADEL ARMOME AZUL MAR' al 44.2 % de descuento
+title: 'PANTALON CORTO BULLPADEL ARMOME AZUL MAR al 44.2 % de descuento'
 date: 2019/10/26 11:25:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XGLygc%2BNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XGLygc%2BNL._SL200_.jpg' ]

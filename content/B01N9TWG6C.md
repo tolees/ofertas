@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.36683417085427 % en 'Clementoni - Puzzle Virtual Reality 100 '
+title: 'Descuento del 63.36683417085427 % en Clementoni - Puzzle Virtual Reality 100 '
 date: 2019/10/08 21:21:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RMECUaYdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RMECUaYdL._SL200_.jpg' ]

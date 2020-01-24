@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.509377344336094 % en 'Taladro Atornillador 12V  GOXAWEE 100Pcs'
+title: 'Descuento del 37.509377344336094 % en Taladro Atornillador 12V  GOXAWEE 100Pcs'
 date: 2020-01-08 12:20:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Z5NyulUML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Z5NyulUML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s 501 Original Fit Vaqueros  Haber ' al 34.869565217391305 % de descuento
+title: 'Levi s 501 Original Fit Vaqueros  Haber  al 34.869565217391305 % de descuento'
 date: 2019/11/28 21:30:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M9KpaEHCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M9KpaEHCL._SL200_.jpg' ]

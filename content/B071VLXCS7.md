@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.17777777777777 % en 'Schwarzkopf Professional Blondme Instant'
+title: 'Descuento del 44.17777777777777 % en Schwarzkopf Professional Blondme Instant'
 date: 2019/10/18 11:28:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31tgokOjvCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31tgokOjvCL._SL200_.jpg' ]

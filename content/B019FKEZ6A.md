@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Béaba Babycook - Robot de cocina 4 en 1' al 27.516778523489936 % de descuento
+title: 'Béaba Babycook - Robot de cocina 4 en 1 al 27.516778523489936 % de descuento'
 date: 2019/11/22 10:59:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415V5ui4cwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415V5ui4cwL._SL200_.jpg' ]

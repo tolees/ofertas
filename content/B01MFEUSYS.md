@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.996443730641275 % en 'Dockers Clean Khaki Marina Slim-Twill Pa'
+title: 'Descuento del 42.996443730641275 % en Dockers Clean Khaki Marina Slim-Twill Pa'
 date: 2019/12/02 10:30:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310VDJnv49L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310VDJnv49L._SL200_.jpg' ]

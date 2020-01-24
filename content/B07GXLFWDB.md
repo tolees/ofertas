@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nikon D750 - Cámara réflex digital de 24' al 29.969984992496247 % de descuento
+title: 'Nikon D750 - Cámara réflex digital de 24 al 29.969984992496247 % de descuento'
 date: 2020-01-17 15:35:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZbqiNle1L._SL200_.jpg' ]

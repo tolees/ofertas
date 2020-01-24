@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.802027675023965 % en 'Sacaleches Eléctrico  KidoMe Recargable '
+title: 'Descuento del 54.802027675023965 % en Sacaleches Eléctrico  KidoMe Recargable '
 date: 2019/10/11 11:04:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41w1g6gC14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41w1g6gC14L._SL200_.jpg' ]

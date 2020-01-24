@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Erasky Tarjeta de Memoria 256GB Micro SD' al 28.011204481792717 % de descuento
+title: 'Erasky Tarjeta de Memoria 256GB Micro SD al 28.011204481792717 % de descuento'
 date: 2019/11/19 18:28:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dzUnan%2BlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dzUnan%2BlL._SL200_.jpg' ]

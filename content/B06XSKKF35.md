@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SKYSPER Ciclismo Maillot  Hombres Jersey' al 66.05019815059445 % de descuento
+title: 'SKYSPER Ciclismo Maillot  Hombres Jersey al 66.05019815059445 % de descuento'
 date: 2019/10/08 09:16:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51LRzj%2BMgWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51LRzj%2BMgWL._SL200_.jpg' ]

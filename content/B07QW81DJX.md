@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.022511255627805 % en 'flintronic Cartera Hombre  Triple Pliegu'
+title: 'Descuento del 45.022511255627805 % en flintronic Cartera Hombre  Triple Pliegu'
 date: 2020-01-23 16:36:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tgwavmm6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tgwavmm6L._SL200_.jpg' ]

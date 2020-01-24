@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.55937052932761 % en 'Geox J HADRIEL Girl D  Botas Slouch para'
+title: 'Descuento del 41.55937052932761 % en Geox J HADRIEL Girl D  Botas Slouch para'
 date: 2020-01-03 08:03:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413g2YZgVoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413g2YZgVoL._SL200_.jpg' ]

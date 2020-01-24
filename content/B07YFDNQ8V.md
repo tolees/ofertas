@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.8583673819252 % en 'Mc Haus - Sofa Evy gris claro 2 plazas d'
+title: 'Descuento del 42.8583673819252 % en Mc Haus - Sofa Evy gris claro 2 plazas d'
 date: 2019/11/29 13:58:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Etcu1HikL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Etcu1HikL._SL200_.jpg' ]

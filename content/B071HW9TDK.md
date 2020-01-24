@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.78333333333334 % en 'Under Armour XXL Chaqueta  Hombre  Negro'
+title: 'Descuento del 53.78333333333334 % en Under Armour XXL Chaqueta  Hombre  Negro'
 date: 2019/10/29 21:33:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41x4tGXmi4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41x4tGXmi4L._SL200_.jpg' ]

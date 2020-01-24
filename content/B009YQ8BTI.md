@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Carcasas transparente par' al 70.0 % de descuento
+title: 'AmazonBasics - Carcasas transparente par al 70.0 % de descuento'
 date: 2019/12/30 16:50:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HSGUUSdQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HSGUUSdQL._SL200_.jpg' ]

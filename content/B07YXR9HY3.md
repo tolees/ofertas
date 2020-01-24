@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.00600120024005 % en 'Pluma para impresión 3D con Pantalla LCD'
+title: 'Descuento del 30.00600120024005 % en Pluma para impresión 3D con Pantalla LCD'
 date: 2019/11/25 12:07:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5197DLzbVIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5197DLzbVIL._SL200_.jpg' ]

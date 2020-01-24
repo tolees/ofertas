@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Collar Antiladridos Recargable para Perr' al 42.51062765691424 % de descuento
+title: 'Collar Antiladridos Recargable para Perr al 42.51062765691424 % de descuento'
 date: 2019/12/17 09:53:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UJBjBZPRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UJBjBZPRL._SL200_.jpg' ]

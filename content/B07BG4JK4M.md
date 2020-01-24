@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikmi Pops  Serie 2 Mega Pack 6 Peluches' al 72.01440288057613 % de descuento
+title: 'Pikmi Pops  Serie 2 Mega Pack 6 Peluches al 72.01440288057613 % de descuento'
 date: 2019/10/23 14:39:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QgqwP%2BSqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QgqwP%2BSqL._SL200_.jpg' ]

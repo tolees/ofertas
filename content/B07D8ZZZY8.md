@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.03128911138923 % en 'Alcachofa de ducha  HOWEIN Mano la Cabez'
+title: 'Descuento del 25.03128911138923 % en Alcachofa de ducha  HOWEIN Mano la Cabez'
 date: 2019/11/30 08:53:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KMFUDt-nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KMFUDt-nL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Michelin 415368  Cubierta  Rennradreifen' al 29.583702391496892 % de descuento
+title: 'Michelin 415368  Cubierta  Rennradreifen al 29.583702391496892 % de descuento'
 date: 2019/10/11 03:24:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQjzLZqwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZQjzLZqwL._SL200_.jpg' ]

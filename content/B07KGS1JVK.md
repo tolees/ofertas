@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.605701167017415 % en 'BILLABONG Fluid OG Bañador  Negro  Black'
+title: 'Descuento del 42.605701167017415 % en BILLABONG Fluid OG Bañador  Negro  Black'
 date: 2019/11/16 10:48:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OCFux6m2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OCFux6m2L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teléfono Móvil para Personas Mayores Tec' al 41.90322106192087 % de descuento
+title: 'Teléfono Móvil para Personas Mayores Tec al 41.90322106192087 % de descuento'
 date: 2019/12/14 08:05:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vG03r0yXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vG03r0yXL._SL200_.jpg' ]

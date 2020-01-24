@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun 20S - Recambio para Afeitadora Elé' al 76.91428571428571 % de descuento
+title: 'Braun 20S - Recambio para Afeitadora Elé al 76.91428571428571 % de descuento'
 date: 2019/12/16 19:27:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ik-meyTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ik-meyTBL._SL200_.jpg' ]

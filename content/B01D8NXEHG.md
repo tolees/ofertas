@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.1274354923644 % en 'Esponja Konjac Facial 100% Naturales  Es'
+title: 'Descuento del 42.1274354923644 % en Esponja Konjac Facial 100% Naturales  Es'
 date: 2019/12/17 16:04:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kpzV-aC0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kpzV-aC0L._SL200_.jpg' ]

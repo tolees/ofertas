@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual 19WAXPBN - Bolso de hombro de S' al 40.0 % de descuento
+title: 'Desigual 19WAXPBN - Bolso de hombro de S al 40.0 % de descuento'
 date: 2019/12/01 20:25:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2B963lCIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2B963lCIuL._SL200_.jpg' ]

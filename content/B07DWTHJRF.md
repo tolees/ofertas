@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Staedtler Noris Triplus Ball 437 MSB4. B' al 68.51098454027664 % de descuento
+title: 'Staedtler Noris Triplus Ball 437 MSB4. B al 68.51098454027664 % de descuento'
 date: 2019/11/02 08:03:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417FnD95XSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417FnD95XSL._SL200_.jpg' ]

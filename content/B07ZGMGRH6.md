@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.44444444444444 % en '【2019 Nuevo Versión】 Auriculares Inalamb'
+title: 'Descuento del 43.44444444444444 % en 【2019 Nuevo Versión】 Auriculares Inalamb'
 date: 2020-01-17 09:49:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qxp7fiDLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qxp7fiDLL._SL200_.jpg' ]

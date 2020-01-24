@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RED WAGON Zapatillas con Brillantina par' al 70.0 % de descuento
+title: 'RED WAGON Zapatillas con Brillantina par al 70.0 % de descuento'
 date: 2019/10/27 18:10:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D4vwZGx%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D4vwZGx%2BL._SL200_.jpg' ]

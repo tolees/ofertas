@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Slim 2pk Crewneck 1 Camiseta  Mul' al 50.0 % de descuento
+title: 'Levi s Slim 2pk Crewneck 1 Camiseta  Mul al 50.0 % de descuento'
 date: 2020-01-24 16:12:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V3jrwwylL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V3jrwwylL._AC_._SL200_.jpg' ]

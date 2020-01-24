@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.009601920384085 % en 'steanum Cargador inalámbrico Coche  Qi 1'
+title: 'Descuento del 48.009601920384085 % en steanum Cargador inalámbrico Coche  Qi 1'
 date: 2020-01-06 03:32:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PthX%2B0csL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PthX%2B0csL._SL200_.jpg' ]

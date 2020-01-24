@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Morgan 192-gara.n Chaqueta  Negro  Noir ' al 41.20338983050848 % de descuento
+title: 'Morgan 192-gara.n Chaqueta  Negro  Noir  al 41.20338983050848 % de descuento'
 date: 2019/12/20 14:49:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Bo7e%2Bk0hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Bo7e%2Bk0hL._SL200_.jpg' ]

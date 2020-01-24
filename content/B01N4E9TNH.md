@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Blusa de Flores para Mujer   Negro' al 70.0 % de descuento
+title: 'find. Blusa de Flores para Mujer   Negro al 70.0 % de descuento'
 date: 2019/10/08 21:57:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51H4tHM42FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51H4tHM42FL._SL200_.jpg' ]

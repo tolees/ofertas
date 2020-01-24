@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.54385964912281 % en 'Tommy Hilfiger Big Scale Relaxed Fit tee'
+title: 'Descuento del 57.54385964912281 % en Tommy Hilfiger Big Scale Relaxed Fit tee'
 date: 2019/11/12 10:25:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZseA6eEIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZseA6eEIL._SL200_.jpg' ]

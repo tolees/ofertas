@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingdom Hearts Hd 1.5 + 2.5 Remix' al 47.19330475607266 % de descuento
+title: 'Kingdom Hearts Hd 1.5 + 2.5 Remix al 47.19330475607266 % de descuento'
 date: 2019/12/05 10:45:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61%2B1VHfyPyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61%2B1VHfyPyL._SL200_.jpg' ]

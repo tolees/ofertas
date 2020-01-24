@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ZANZEA Mujer Camiseta Blusa Casual con E' al 30.01077586206896 % de descuento
+title: 'ZANZEA Mujer Camiseta Blusa Casual con E al 30.01077586206896 % de descuento'
 date: 2019/10/05 14:00:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415oB68xMzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415oB68xMzL._SL200_.jpg' ]

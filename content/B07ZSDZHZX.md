@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.40400363967243 % en 'LAYJOY Funda Xiaomi Redmi Note 8  Ligera'
+title: 'Descuento del 44.40400363967243 % en LAYJOY Funda Xiaomi Redmi Note 8  Ligera'
 date: 2020-01-12 06:58:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TFAIEllPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TFAIEllPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NUBILY Bolsos de Mujer Bolso para Portat' al 47.31049449697722 % de descuento
+title: 'NUBILY Bolsos de Mujer Bolso para Portat al 47.31049449697722 % de descuento'
 date: 2020-01-19 16:05:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLyUMLJfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BLyUMLJfL._SL200_.jpg' ]

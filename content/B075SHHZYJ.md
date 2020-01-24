@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'edc by Esprit 107cc1k065 Camisa Manga La' al 68.94223555888972 % de descuento
+title: 'edc by Esprit 107cc1k065 Camisa Manga La al 68.94223555888972 % de descuento'
 date: 2019/11/15 09:05:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51V7tQsXBCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51V7tQsXBCL._SL200_.jpg' ]

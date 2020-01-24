@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj - Guanqin - para - GJ16132' al 45.23444347063978 % de descuento
+title: 'Reloj - Guanqin - para - GJ16132 al 45.23444347063978 % de descuento'
 date: 2020-01-16 10:57:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5100A8WIbjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5100A8WIbjL._SL200_.jpg' ]

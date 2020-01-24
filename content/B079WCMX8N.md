@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carrera 154/S Gafas de sol  Negro  BLACK' al 48.32214765100671 % de descuento
+title: 'Carrera 154/S Gafas de sol  Negro  BLACK al 48.32214765100671 % de descuento'
 date: 2019/12/08 15:53:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KWF3B6aBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KWF3B6aBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zapatos de Senderismo Selva Chicos Camin' al 39.36853371387799 % de descuento
+title: 'Zapatos de Senderismo Selva Chicos Camin al 39.36853371387799 % de descuento'
 date: 2019/10/16 07:12:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qJQ645dxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qJQ645dxL._SL200_.jpg' ]

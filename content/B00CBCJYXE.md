@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Nike 905211 001  Zapatillas de Deporte p'
+title: 'Descuento del 50.0 % en Nike 905211 001  Zapatillas de Deporte p'
 date: 2020-01-22 09:38:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ronHf1SsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ronHf1SsL._SL200_.jpg' ]

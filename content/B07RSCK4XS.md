@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.91205897840969 % en 'AmazonBasics - Paquete de 12 bolsas de v'
+title: 'Descuento del 32.91205897840969 % en AmazonBasics - Paquete de 12 bolsas de v'
 date: 2019/12/28 14:59:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51F8FG8Yv%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51F8FG8Yv%2BL._SL200_.jpg' ]

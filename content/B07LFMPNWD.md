@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Women s 315 Shaping Boot Bootcut ' al 56.25 % de descuento
+title: 'Levi s Women s 315 Shaping Boot Bootcut  al 56.25 % de descuento'
 date: 2020-01-10 11:55:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wj884iWYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wj884iWYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.68157423971377 % en 'TBS JARDINS  Zapatos de Cordones Derby p'
+title: 'Descuento del 61.68157423971377 % en TBS JARDINS  Zapatos de Cordones Derby p'
 date: 2019/11/06 12:26:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HD%2B-OjvOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HD%2B-OjvOL._SL200_.jpg' ]

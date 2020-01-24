@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.23076923076924 % en 'Superga 2288-Vcotw  Sandalias con Punta '
+title: 'Descuento del 77.23076923076924 % en Superga 2288-Vcotw  Sandalias con Punta '
 date: 2019/12/02 18:57:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R4T8WKpbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R4T8WKpbL._SL200_.jpg' ]

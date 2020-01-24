@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen HH LIFA Crew LS Baselayer  ' al 39.275000000000006 % de descuento
+title: 'Helly Hansen HH LIFA Crew LS Baselayer   al 39.275000000000006 % de descuento'
 date: 2019/12/25 06:25:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qyD%2BmMELL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qyD%2BmMELL._SL200_.jpg' ]

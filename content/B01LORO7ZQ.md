@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tarjeta de Memoria SanDisk Extreme SDXC ' al 55.964532426023304 % de descuento
+title: 'Tarjeta de Memoria SanDisk Extreme SDXC  al 55.964532426023304 % de descuento'
 date: 2020-01-22 15:47:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/515F01VO-RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/515F01VO-RL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Only onlSANNA Soho L/S Blazer TLR Abrigo' al 60.25205041008201 % de descuento
+title: 'Only onlSANNA Soho L/S Blazer TLR Abrigo al 60.25205041008201 % de descuento'
 date: 2019/10/23 07:13:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hiMb9zL1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hiMb9zL1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley Alpha Trainer 2.0 18 Bermudas  Ho' al 75.21818181818182 % de descuento
+title: 'Hurley Alpha Trainer 2.0 18 Bermudas  Ho al 75.21818181818182 % de descuento'
 date: 2019/11/04 18:31:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LV4DKy0rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LV4DKy0rL._SL200_.jpg' ]

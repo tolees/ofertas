@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj para mujer Hugo Boss 1502395.' al 34.497991967871485 % de descuento
+title: 'Reloj para mujer Hugo Boss 1502395. al 34.497991967871485 % de descuento'
 date: 2019/12/10 23:23:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H7V5aZbzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H7V5aZbzL._SL200_.jpg' ]

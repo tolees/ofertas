@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.14525139664804 % en 'SANICAT Lecho higiénico Clean & Green Ce'
+title: 'Descuento del 26.14525139664804 % en SANICAT Lecho higiénico Clean & Green Ce'
 date: 2019/10/09 10:18:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ph3kfb4WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ph3kfb4WL._SL200_.jpg' ]

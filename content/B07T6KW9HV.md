@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'COOLJOY Magnetische Bausteine  117 Stück' al 37.711100180357434 % de descuento
+title: 'COOLJOY Magnetische Bausteine  117 Stück al 37.711100180357434 % de descuento'
 date: 2020-01-12 22:19:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nNEMjHOML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nNEMjHOML._SL200_.jpg' ]

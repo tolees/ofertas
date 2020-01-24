@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Kayano Trainer H6n6n-4845  Zap' al 64.3040311826854 % de descuento
+title: 'Asics Gel-Kayano Trainer H6n6n-4845  Zap al 64.3040311826854 % de descuento'
 date: 2019/12/11 18:24:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uVj8njS7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uVj8njS7L._SL200_.jpg' ]

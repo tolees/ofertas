@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.78930817610063 % en 'ETNAB|#Etnies Jameson 2 Eco  Zapatillas '
+title: 'Descuento del 58.78930817610063 % en ETNAB|#Etnies Jameson 2 Eco  Zapatillas '
 date: 2019/11/13 23:06:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WC-GgFIBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WC-GgFIBL._SL200_.jpg' ]

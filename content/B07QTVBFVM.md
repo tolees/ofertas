@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.77006507592192 % en 'Funko 39892 POP. Star Wars The Rise of S'
+title: 'Descuento del 45.77006507592192 % en Funko 39892 POP. Star Wars The Rise of S'
 date: 2020-01-23 17:27:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Oy7E2UkCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Oy7E2UkCL._SL200_.jpg' ]

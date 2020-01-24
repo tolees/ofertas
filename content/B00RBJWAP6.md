@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.3889816360601 % en 'Quemagrasas potente para adelgazar  100%'
+title: 'Descuento del 33.3889816360601 % en Quemagrasas potente para adelgazar  100%'
 date: 2019/12/21 18:10:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PO5ycnkrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PO5ycnkrL._SL200_.jpg' ]

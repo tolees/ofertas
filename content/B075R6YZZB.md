@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.06315789473685 % en 'New Balance Fresh Foam Cruz v2  Zapatill'
+title: 'Descuento del 45.06315789473685 % en New Balance Fresh Foam Cruz v2  Zapatill'
 date: 2019/10/29 00:21:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HlxvLJKIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HlxvLJKIL._SL200_.jpg' ]

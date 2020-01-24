@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.00492345565043 % en 'Under Armour UA Cgr Exert Jacket Chaquet'
+title: 'Descuento del 64.00492345565043 % en Under Armour UA Cgr Exert Jacket Chaquet'
 date: 2019/11/25 07:01:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JQLwD70eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JQLwD70eL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.36170212765958 % en 'Result R114 X - Micro Forro Polar  Unise'
+title: 'Descuento del 51.36170212765958 % en Result R114 X - Micro Forro Polar  Unise'
 date: 2019/11/28 15:23:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418R3Z1RWgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418R3Z1RWgL._SL200_.jpg' ]

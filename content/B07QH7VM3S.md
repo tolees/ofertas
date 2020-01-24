@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.50666666666667 % en 'Bulova Reloj Analógico para Mujer de Cua'
+title: 'Descuento del 37.50666666666667 % en Bulova Reloj Analógico para Mujer de Cua'
 date: 2019/12/11 00:33:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bx-Bf8f5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bx-Bf8f5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance WT83526 Sudadera  Azul  Pigm' al 56.81818181818181 % de descuento
+title: 'New Balance WT83526 Sudadera  Azul  Pigm al 56.81818181818181 % de descuento'
 date: 2019/11/11 14:10:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VjxyyR7cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VjxyyR7cL._SL200_.jpg' ]

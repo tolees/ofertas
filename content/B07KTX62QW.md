@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.8936170212766 % en 'adidas Duramo 9 C  Zapatillas de Running'
+title: 'Descuento del 54.8936170212766 % en adidas Duramo 9 C  Zapatillas de Running'
 date: 2020-01-04 21:29:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q8JeN1jhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q8JeN1jhL._SL200_.jpg' ]

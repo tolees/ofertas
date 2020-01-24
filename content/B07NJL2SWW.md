@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.40487804878049 % en 'Ted Baker Daiinos  Botas Chukka para Hom'
+title: 'Descuento del 42.40487804878049 % en Ted Baker Daiinos  Botas Chukka para Hom'
 date: 2019/11/09 09:06:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N-rjzThhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N-rjzThhL._SL200_.jpg' ]

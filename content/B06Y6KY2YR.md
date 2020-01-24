@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REPLAY Katewin Pantalones Vaqueros Delga' al 82.94949494949495 % de descuento
+title: 'REPLAY Katewin Pantalones Vaqueros Delga al 82.94949494949495 % de descuento'
 date: 2019/10/17 00:15:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NQUeN%2BcRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NQUeN%2BcRL._SL200_.jpg' ]

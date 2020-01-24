@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Capri Leather  Zapatillas Unisex Ad' al 70.6816760475297 % de descuento
+title: 'Puma Capri Leather  Zapatillas Unisex Ad al 70.6816760475297 % de descuento'
 date: 2019/11/12 05:28:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N8vtOOW3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N8vtOOW3L._SL200_.jpg' ]

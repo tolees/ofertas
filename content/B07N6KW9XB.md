@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Alpaca Mix Bufanda  Beige' al 50.0 % de descuento
+title: 'Tommy Hilfiger Alpaca Mix Bufanda  Beige al 50.0 % de descuento'
 date: 2020-01-06 17:06:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jlmvbo3bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jlmvbo3bL._SL200_.jpg' ]

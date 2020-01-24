@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.19784568036931 % en 'Clarks Fairford Walk  Zapatillas para Ho'
+title: 'Descuento del 50.19784568036931 % en Clarks Fairford Walk  Zapatillas para Ho'
 date: 2019/10/18 16:42:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s45rNjP5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s45rNjP5L._SL200_.jpg' ]

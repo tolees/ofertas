@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld PC007385-4D4-M Pantalón Larg' al 36.29681978798587 % de descuento
+title: 'Trangoworld PC007385-4D4-M Pantalón Larg al 36.29681978798587 % de descuento'
 date: 2019/10/05 17:28:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xtdn4tliL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xtdn4tliL._SL200_.jpg' ]

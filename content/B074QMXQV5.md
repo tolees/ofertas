@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.904649793996455 % en 'Tomshine Guirnalda Luces 10 m 80LEDs Bla'
+title: 'Descuento del 37.904649793996455 % en Tomshine Guirnalda Luces 10 m 80LEDs Bla'
 date: 2019/12/09 12:31:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51P6VPs-thL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51P6VPs-thL._SL200_.jpg' ]

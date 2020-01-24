@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G.Skill F4-3200C16S-16GIS Aegis - Ordena' al 32.257111920464624 % de descuento
+title: 'G.Skill F4-3200C16S-16GIS Aegis - Ordena al 32.257111920464624 % de descuento'
 date: 2019/12/10 17:16:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZQKG24T7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZQKG24T7L._SL200_.jpg' ]

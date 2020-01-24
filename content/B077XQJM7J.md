@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour 7.1 Deporte Bralette Sujeta' al 65.71428571428571 % de descuento
+title: 'Under Armour 7.1 Deporte Bralette Sujeta al 65.71428571428571 % de descuento'
 date: 2019/10/18 16:03:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZxDZYn67L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZxDZYn67L._SL200_.jpg' ]

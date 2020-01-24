@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 83.2216108054027 % en 'Lee Luke Vaqueros  Pine Cone EG  29W / 3'
+title: 'Descuento del 83.2216108054027 % en Lee Luke Vaqueros  Pine Cone EG  29W / 3'
 date: 2019/12/26 19:48:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418F174GsdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418F174GsdL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.08135168961201 % en 'adidas Ask SPR LT H Tights  Mujer  Dark '
+title: 'Descuento del 45.08135168961201 % en adidas Ask SPR LT H Tights  Mujer  Dark '
 date: 2019/11/09 15:22:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hv3%2BXXM0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hv3%2BXXM0L._SL200_.jpg' ]

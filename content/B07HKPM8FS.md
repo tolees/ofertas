@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.03703703703704 % en 'Amazon Essentials - Camisa de mezclilla '
+title: 'Descuento del 37.03703703703704 % en Amazon Essentials - Camisa de mezclilla '
 date: 2019/10/24 22:52:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yYCzEXe-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yYCzEXe-L._SL200_.jpg' ]

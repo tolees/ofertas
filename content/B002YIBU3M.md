@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.126660208131504 % en 'Máquina para Hacer Hielo  Silenciosa  10'
+title: 'Descuento del 53.126660208131504 % en Máquina para Hacer Hielo  Silenciosa  10'
 date: 2020-01-08 06:11:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315WgxVU1AL._SL200_.jpg' ]

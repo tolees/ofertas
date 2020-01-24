@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.767979987492186 % en 'Izas Ampriu Chaqueta Ligera de Fibra  Ho'
+title: 'Descuento del 28.767979987492186 % en Izas Ampriu Chaqueta Ligera de Fibra  Ho'
 date: 2019/10/23 09:21:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Acmz6NmmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Acmz6NmmL._SL200_.jpg' ]

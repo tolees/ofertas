@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UGREEN Cargador USB de Red con Doble USB' al 42.1274354923644 % de descuento
+title: 'UGREEN Cargador USB de Red con Doble USB al 42.1274354923644 % de descuento'
 date: 2020-01-02 10:39:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31dBEHTylZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31dBEHTylZL._SL200_.jpg' ]

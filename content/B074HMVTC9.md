@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blade Runner 2049 Blade Runner 2049-Funk' al 63.308872581721154 % de descuento
+title: 'Blade Runner 2049 Blade Runner 2049-Funk al 63.308872581721154 % de descuento'
 date: 2020-01-18 18:33:14
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B-cakq%2BAL._SL200_.jpg' ]

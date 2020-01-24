@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.67223382045928 % en 'D-Link DIR-809 - Router WiFi AC 750 Mbps'
+title: 'Descuento del 42.67223382045928 % en D-Link DIR-809 - Router WiFi AC 750 Mbps'
 date: 2019/12/09 17:55:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x9LS6XOOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x9LS6XOOL._SL200_.jpg' ]

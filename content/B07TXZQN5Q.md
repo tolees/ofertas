@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.40219092331768 % en 'New Look Lattice Front Vestido  Negro  B'
+title: 'Descuento del 37.40219092331768 % en New Look Lattice Front Vestido  Negro  B'
 date: 2019/10/13 13:07:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CqCjQ5qRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CqCjQ5qRL._SL200_.jpg' ]

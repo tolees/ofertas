@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Flex-Glow 90542L  Zapatillas pa' al 36.93693693693694 % de descuento
+title: 'Skechers Flex-Glow 90542L  Zapatillas pa al 36.93693693693694 % de descuento'
 date: 2019/11/13 10:50:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o19%2BFm-jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o19%2BFm-jL._SL200_.jpg' ]

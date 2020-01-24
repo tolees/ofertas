@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Criadas Y Señoras [Blu-ray]' al 58.59004739336493 % de descuento
+title: 'Criadas Y Señoras [Blu-ray] al 58.59004739336493 % de descuento'
 date: 2019/10/21 11:59:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517GoCmOL8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517GoCmOL8L._SL200_.jpg' ]

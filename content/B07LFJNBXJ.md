@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.335583895974004 % en 'Crash Team Racing Nitro Fueled'
+title: 'Descuento del 42.335583895974004 % en Crash Team Racing Nitro Fueled'
 date: 2020-01-10 09:18:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UidIf0mLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UidIf0mLL._SL200_.jpg' ]

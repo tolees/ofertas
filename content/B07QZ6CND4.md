@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.2375 % en 'Asics Gel-fujisetsu GTX 2  Zapatillas de'
+title: 'Descuento del 46.2375 % en Asics Gel-fujisetsu GTX 2  Zapatillas de'
 date: 2019/12/04 23:39:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cFpzU2R-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cFpzU2R-L._SL200_.jpg' ]

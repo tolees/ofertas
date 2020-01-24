@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.37577639751552 % en 'Midi Maxi Vestido de Las Mujeres Cuello '
+title: 'Descuento del 57.37577639751552 % en Midi Maxi Vestido de Las Mujeres Cuello '
 date: 2019/12/14 21:55:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4173pd5T4FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4173pd5T4FL._SL200_.jpg' ]

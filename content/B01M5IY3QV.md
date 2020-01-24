@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 78.6494372655273 % en 'G-Star Raw 3301 Contour High Waist Skinn'
+title: 'Descuento del 78.6494372655273 % en G-Star Raw 3301 Contour High Waist Skinn'
 date: 2019/12/04 05:47:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31x3%2BLY55qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31x3%2BLY55qL._SL200_.jpg' ]

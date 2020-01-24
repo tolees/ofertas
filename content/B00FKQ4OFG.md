@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO: Marvel Super Heroes' al 34.34478159386462 % de descuento
+title: 'LEGO: Marvel Super Heroes al 34.34478159386462 % de descuento'
 date: 2020-01-18 13:02:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ay%2BS6MwML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ay%2BS6MwML._SL200_.jpg' ]

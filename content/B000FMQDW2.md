@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SEVERIN Yogurtera  Incl. 7 Tarros de 150' al 32.13285314125649 % de descuento
+title: 'SEVERIN Yogurtera  Incl. 7 Tarros de 150 al 32.13285314125649 % de descuento'
 date: 2019/12/16 09:47:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ha-CD0NjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ha-CD0NjL._SL200_.jpg' ]

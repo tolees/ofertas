@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.96804098560625 % en 'Meinkind Espejo Retrovisor Bebé para Vig'
+title: 'Descuento del 68.96804098560625 % en Meinkind Espejo Retrovisor Bebé para Vig'
 date: 2020-01-03 05:56:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418igKkxXWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418igKkxXWL._SL200_.jpg' ]

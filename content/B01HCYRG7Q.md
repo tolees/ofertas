@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES JACLICHFIELD TRUNKS 3 PACK ' al 39.91983967935872 % de descuento
+title: 'JACK & JONES JACLICHFIELD TRUNKS 3 PACK  al 39.91983967935872 % de descuento'
 date: 2019/11/19 15:37:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51j52SJ1SIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51j52SJ1SIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Medicos Juguete Bebe Madera Doctora Jugu' al 54.06866720735335 % de descuento
+title: 'Medicos Juguete Bebe Madera Doctora Jugu al 54.06866720735335 % de descuento'
 date: 2019/12/22 20:15:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kSxV2uazL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kSxV2uazL._SL200_.jpg' ]

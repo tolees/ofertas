@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.095372306573324 % en 'Bosch Bohrhammer PBH 2100 RE  550 Watt  '
+title: 'Descuento del 49.095372306573324 % en Bosch Bohrhammer PBH 2100 RE  550 Watt  '
 date: 2019/12/16 11:19:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4145ofZWZbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4145ofZWZbL._SL200_.jpg' ]

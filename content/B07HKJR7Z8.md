@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA HOVR Havoc 2  Zapatos de' al 54.34166666666667 % de descuento
+title: 'Under Armour UA HOVR Havoc 2  Zapatos de al 54.34166666666667 % de descuento'
 date: 2019/12/16 08:35:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NUqE%2B9r8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NUqE%2B9r8L._SL200_.jpg' ]

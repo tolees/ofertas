@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.368454661558104 % en 'Hugo Boss Reloj Analógico para Hombre de'
+title: 'Descuento del 63.368454661558104 % en Hugo Boss Reloj Analógico para Hombre de'
 date: 2019/11/14 03:42:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513s9xqtdML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513s9xqtdML._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch 2 607 017 082 - Juego de 7 brocas ' al 39.07074973600846 % de descuento
+title: 'Bosch 2 607 017 082 - Juego de 7 brocas  al 39.07074973600846 % de descuento'
 date: 2019/12/30 08:07:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Clf03x6nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Clf03x6nL._SL200_.jpg' ]

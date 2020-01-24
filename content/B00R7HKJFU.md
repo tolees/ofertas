@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.61456637360251 % en 'Melitta Look IV Therm Timer Cafetera de '
+title: 'Descuento del 26.61456637360251 % en Melitta Look IV Therm Timer Cafetera de '
 date: 2019/12/16 21:41:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41694bE1TDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41694bE1TDL._SL200_.jpg' ]

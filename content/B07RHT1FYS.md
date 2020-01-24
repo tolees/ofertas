@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Unlined Triangle Sujetador ' al 54.390243902439025 % de descuento
+title: 'Calvin Klein Unlined Triangle Sujetador  al 54.390243902439025 % de descuento'
 date: 2019/11/19 01:56:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410lvOMb5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410lvOMb5lL._SL200_.jpg' ]

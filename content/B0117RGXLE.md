@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.59913326110509 % en 'Bose SoundTouch  30 Serie III - Sistema '
+title: 'Descuento del 29.59913326110509 % en Bose SoundTouch  30 Serie III - Sistema '
 date: 2019/12/18 09:05:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aiu2wO9IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aiu2wO9IL._SL200_.jpg' ]

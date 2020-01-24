@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RED WAGON Merceditas de Charol con Gatit' al 69.99166435120867 % de descuento
+title: 'RED WAGON Merceditas de Charol con Gatit al 69.99166435120867 % de descuento'
 date: 2019/12/20 11:09:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31asEu48QtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31asEu48QtL._SL200_.jpg' ]

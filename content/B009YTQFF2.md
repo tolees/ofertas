@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SAMYANG 8 mm f/3.5 UMC CS II fisheye len' al 25.55015197568389 % de descuento
+title: 'SAMYANG 8 mm f/3.5 UMC CS II fisheye len al 25.55015197568389 % de descuento'
 date: 2019/10/19 19:18:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GWpEsNSjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GWpEsNSjL._SL200_.jpg' ]

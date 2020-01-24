@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Quetzal Chaqueta  Hombre  Ve' al 44.02750491159135 % de descuento
+title: 'Trangoworld Quetzal Chaqueta  Hombre  Ve al 44.02750491159135 % de descuento'
 date: 2019/11/15 15:38:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-mIC7Oy7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-mIC7Oy7L._SL200_.jpg' ]

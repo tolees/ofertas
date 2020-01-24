@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL Ghostbusters 9388 Stantz mit F' al 30.16508254127063 % de descuento
+title: 'PLAYMOBIL Ghostbusters 9388 Stantz mit F al 30.16508254127063 % de descuento'
 date: 2020-01-22 10:36:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/619n0vqGI9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/619n0vqGI9L._SL200_.jpg' ]

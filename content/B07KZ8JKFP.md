@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.61315328832208 % en 'DC Shoes Rebel Pants  Hombre  Black  XXL'
+title: 'Descuento del 52.61315328832208 % en DC Shoes Rebel Pants  Hombre  Black  XXL'
 date: 2019/10/05 12:39:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LXS61-auL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LXS61-auL._SL200_.jpg' ]

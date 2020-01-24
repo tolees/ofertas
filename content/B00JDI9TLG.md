@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.71256038647342 % en 'Gimcat Gimcat Malt Soft Extra 200G 1 Uni'
+title: 'Descuento del 45.71256038647342 % en Gimcat Gimcat Malt Soft Extra 200G 1 Uni'
 date: 2020-01-18 20:49:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L7IuUJA0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L7IuUJA0L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ingenious Toys® technic RC car 2.4GHz / ' al 50.062578222778484 % de descuento
+title: 'Ingenious Toys® technic RC car 2.4GHz /  al 50.062578222778484 % de descuento'
 date: 2019/12/02 23:38:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61Ll-5tYYSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61Ll-5tYYSL._SL200_.jpg' ]

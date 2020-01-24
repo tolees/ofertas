@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.146067415730336 % en 'Fred Perry M6000  Polo para Hombre'
+title: 'Descuento del 44.146067415730336 % en Fred Perry M6000  Polo para Hombre'
 date: 2019/11/14 07:08:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Km%2BzTusnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Km%2BzTusnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Dermo Expertise Crema de D' al 34.92462311557789 % de descuento
+title: 'L Oreal Paris Dermo Expertise Crema de D al 34.92462311557789 % de descuento'
 date: 2019/12/31 12:29:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ciMh2CDLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ciMh2CDLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Siren Edge Q2  Zapatillas de Sen' al 63.31578947368421 % de descuento
+title: 'Merrell Siren Edge Q2  Zapatillas de Sen al 63.31578947368421 % de descuento'
 date: 2019/12/06 08:36:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xWmftlzPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xWmftlzPL._SL200_.jpg' ]

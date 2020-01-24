@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fila Seamus Camiseta Black' al 31.944444444444443 % de descuento
+title: 'Fila Seamus Camiseta Black al 31.944444444444443 % de descuento'
 date: 2019/12/02 18:09:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31I5xuTHsNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31I5xuTHsNL._SL200_.jpg' ]

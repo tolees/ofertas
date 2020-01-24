@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.022511255627805 % en 'TK.DILIGARM Look At You Becoming A Medic'
+title: 'Descuento del 45.022511255627805 % en TK.DILIGARM Look At You Becoming A Medic'
 date: 2020-01-23 09:52:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gJEBZKS%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gJEBZKS%2BL._SL200_.jpg' ]

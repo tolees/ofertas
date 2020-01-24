@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas VS Switch 2 CMF C  Zapatillas Uni' al 27.525035765379123 % de descuento
+title: 'adidas VS Switch 2 CMF C  Zapatillas Uni al 27.525035765379123 % de descuento'
 date: 2019/11/09 15:22:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413XKvm3U1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413XKvm3U1L._SL200_.jpg' ]

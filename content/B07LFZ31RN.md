@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.869565217391305 % en 'Geox U Timothy B  Zapatos de Cordones De'
+title: 'Descuento del 44.869565217391305 % en Geox U Timothy B  Zapatos de Cordones De'
 date: 2020-01-04 19:18:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X%2BFuk8zFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X%2BFuk8zFL._SL200_.jpg' ]

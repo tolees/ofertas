@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.41681468324453 % en 'Trangoworld Bern Chaqueta  Hombre  Gris '
+title: 'Descuento del 54.41681468324453 % en Trangoworld Bern Chaqueta  Hombre  Gris '
 date: 2020-01-19 14:57:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kp2WBAWVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kp2WBAWVL._SL200_.jpg' ]

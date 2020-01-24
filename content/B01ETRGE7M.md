@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fire TV Stick | Basic Edition   Generaci' al 37.509377344336094 % de descuento
+title: 'Fire TV Stick | Basic Edition   Generaci al 37.509377344336094 % de descuento'
 date: 2019/12/09 11:09:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415kiMyoKpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415kiMyoKpL._SL200_.jpg' ]

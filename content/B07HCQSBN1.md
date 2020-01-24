@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Teclado Gaming Rii RM400 Combo Rainbow R' al 52.02080832332933 % de descuento
+title: 'Teclado Gaming Rii RM400 Combo Rainbow R al 52.02080832332933 % de descuento'
 date: 2020-01-11 23:33:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41be938P-IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41be938P-IL._SL200_.jpg' ]

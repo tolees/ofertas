@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Bluetooth Deportivos  Bagott' al 26.93343593689881 % de descuento
+title: 'Auriculares Bluetooth Deportivos  Bagott al 26.93343593689881 % de descuento'
 date: 2019/10/26 10:18:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411HVCvjweL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411HVCvjweL._SL200_.jpg' ]

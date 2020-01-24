@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41168 Disney Frozen II Elsa s Jewel' al 34.73368342085521 % de descuento
+title: 'LEGO 41168 Disney Frozen II Elsa s Jewel al 34.73368342085521 % de descuento'
 date: 2019/12/17 12:49:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51c6cBEOlLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51c6cBEOlLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.975 % en 'PARTU Envasadora al Vacio - de Secos y H'
+title: 'Descuento del 58.975 % en PARTU Envasadora al Vacio - de Secos y H'
 date: 2019/11/21 23:47:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51I2MpkXscL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51I2MpkXscL._SL200_.jpg' ]

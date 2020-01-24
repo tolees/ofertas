@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.88416988416988 % en 'Jack & Jones Basic Tank Top - Camiseta d'
+title: 'Descuento del 49.88416988416988 % en Jack & Jones Basic Tank Top - Camiseta d'
 date: 2019/12/06 05:33:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41snKSedRCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41snKSedRCL._SL200_.jpg' ]

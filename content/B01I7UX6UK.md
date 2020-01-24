@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.61314321140732 % en 'Light Irridiance  Champú - 1000 ml.'
+title: 'Descuento del 47.61314321140732 % en Light Irridiance  Champú - 1000 ml.'
 date: 2019/11/06 04:11:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21m0vAFrWML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21m0vAFrWML._SL200_.jpg' ]

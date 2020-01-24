@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Blue Waters  4' al 56.57828914457229 % de descuento
+title: 'Lee Rider Jeans Vaqueros  Blue Waters  4 al 56.57828914457229 % de descuento'
 date: 2019/10/10 09:32:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qImX7u66L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qImX7u66L._SL200_.jpg' ]

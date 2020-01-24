@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mornex Strap Compatible Fitbit Charge 2 ' al 76.69223074358119 % de descuento
+title: 'Mornex Strap Compatible Fitbit Charge 2  al 76.69223074358119 % de descuento'
 date: 2019/11/28 17:29:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bFW80kaTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bFW80kaTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.06451612903225 % en 'Timberland Bradstreet Plain Toe Sensorfl'
+title: 'Descuento del 58.06451612903225 % en Timberland Bradstreet Plain Toe Sensorfl'
 date: 2019/10/19 13:50:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B8UK%2BIGsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B8UK%2BIGsL._SL200_.jpg' ]

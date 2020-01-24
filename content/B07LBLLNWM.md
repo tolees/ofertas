@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.86206896551724 % en 'Tommy Jeans TJW Soft Jersey tee Camiseta'
+title: 'Descuento del 54.86206896551724 % en Tommy Jeans TJW Soft Jersey tee Camiseta'
 date: 2019/10/30 13:05:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BuZEeIsFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BuZEeIsFL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Netgear Nighthawk XR300 WLAN Gaming-Rout' al 44.49722486124307 % de descuento
+title: 'Netgear Nighthawk XR300 WLAN Gaming-Rout al 44.49722486124307 % de descuento'
 date: 2019/12/09 15:53:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Z7NtEgjxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Z7NtEgjxL._SL200_.jpg' ]

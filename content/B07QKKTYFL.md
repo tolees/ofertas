@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.50934456435905 % en 'Van s - Mochila MN Old Skool III Bac Van'
+title: 'Descuento del 35.50934456435905 % en Van s - Mochila MN Old Skool III Bac Van'
 date: 2020-01-22 14:10:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YxGVG6rmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YxGVG6rmL._SL200_.jpg' ]

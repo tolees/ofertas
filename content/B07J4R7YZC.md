@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue White and Color Ambiance Pac' al 29.103908484270736 % de descuento
+title: 'Philips Hue White and Color Ambiance Pac al 29.103908484270736 % de descuento'
 date: 2020-01-17 13:07:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YYW-PT8AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YYW-PT8AL._SL200_.jpg' ]

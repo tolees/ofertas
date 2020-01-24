@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Color Riche Quad Pro S4 - ' al 57.060931899641574 % de descuento
+title: 'L Oréal Paris Color Riche Quad Pro S4 -  al 57.060931899641574 % de descuento'
 date: 2020-01-23 18:50:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513VLeB8dqL._SL200_.jpg' ]

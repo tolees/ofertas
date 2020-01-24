@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Boxer para Hombre  Multicolor  Sm' al 50.969899665551836 % de descuento
+title: 'Reebok Boxer para Hombre  Multicolor  Sm al 50.969899665551836 % de descuento'
 date: 2020-01-05 19:19:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fAecDmVML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fAecDmVML._SL200_.jpg' ]

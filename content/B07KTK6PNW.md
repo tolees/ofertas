@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 41376 - Friends Schildkröten-Rettun' al 31.665832916458225 % de descuento
+title: 'LEGO 41376 - Friends Schildkröten-Rettun al 31.665832916458225 % de descuento'
 date: 2020-01-07 06:30:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Djn1k7b4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Djn1k7b4L._SL200_.jpg' ]

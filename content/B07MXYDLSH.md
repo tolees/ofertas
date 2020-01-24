@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.24707846410685 % en 'Campingaz Gasgrill 4 Series Classic WL  '
+title: 'Descuento del 43.24707846410685 % en Campingaz Gasgrill 4 Series Classic WL  '
 date: 2019/10/24 23:59:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31R8EmzRgRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31R8EmzRgRL._SL200_.jpg' ]

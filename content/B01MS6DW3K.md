@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'dockers Washed Khaki Slim Tapered-Stretc' al 35.41428571428571 % de descuento
+title: 'dockers Washed Khaki Slim Tapered-Stretc al 35.41428571428571 % de descuento'
 date: 2019/11/10 14:34:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311f4ej1s%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311f4ej1s%2BL._SL200_.jpg' ]

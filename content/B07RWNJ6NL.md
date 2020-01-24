@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.5323076923077 % en 'Philips 65PUS7304/12 65-Inch 4K Ultra HD'
+title: 'Descuento del 32.5323076923077 % en Philips 65PUS7304/12 65-Inch 4K Ultra HD'
 date: 2019/10/17 02:12:06 +0000
 thumbnailImage: ''
 images: [ '' ]

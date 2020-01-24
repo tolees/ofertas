@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Pilas de litio CR2 de 3 V' al 50.951503990178026 % de descuento
+title: 'AmazonBasics - Pilas de litio CR2 de 3 V al 50.951503990178026 % de descuento'
 date: 2019/10/08 18:58:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KPrUctuPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KPrUctuPL._SL200_.jpg' ]

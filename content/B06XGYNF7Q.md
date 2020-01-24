@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.065000000000005 % en 'Helly Hansen W Ardmore Parka  Mujer  Bla'
+title: 'Descuento del 51.065000000000005 % en Helly Hansen W Ardmore Parka  Mujer  Bla'
 date: 2019/10/09 14:00:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gVhdmcibL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gVhdmcibL._SL200_.jpg' ]

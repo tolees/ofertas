@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Izzo Camiseta   Off White 803' al 69.26421404682274 % de descuento
+title: 'Pepe Jeans Izzo Camiseta   Off White 803 al 69.26421404682274 % de descuento'
 date: 2019/11/15 08:02:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Lf2-wm76L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Lf2-wm76L._SL200_.jpg' ]

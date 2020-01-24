@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.670222696359502 % en 'Anker Soundcore Liberty Neo - Auriculare'
+title: 'Descuento del 26.670222696359502 % en Anker Soundcore Liberty Neo - Auriculare'
 date: 2020-01-19 04:29:33
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

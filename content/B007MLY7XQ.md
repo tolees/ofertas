@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.80057526366251 % en 'Derbystar Uni Spielertrikot - Camiseta d'
+title: 'Descuento del 55.80057526366251 % en Derbystar Uni Spielertrikot - Camiseta d'
 date: 2020-01-14 17:39:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JOoSREtWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JOoSREtWL._SL200_.jpg' ]

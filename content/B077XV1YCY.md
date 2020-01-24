@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.53333333333333 % en 'Under Armour HG - Camiseta de Manga Cort'
+title: 'Descuento del 60.53333333333333 % en Under Armour HG - Camiseta de Manga Cort'
 date: 2019/10/14 06:35:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cbH51Vd2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cbH51Vd2L._SL200_.jpg' ]

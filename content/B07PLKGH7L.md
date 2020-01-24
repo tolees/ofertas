@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.005800580058 % en 'Wodondog Collar Adiestramiento Perros Re'
+title: 'Descuento del 58.005800580058 % en Wodondog Collar Adiestramiento Perros Re'
 date: 2019/11/17 10:25:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vvdnzBOpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vvdnzBOpL._SL200_.jpg' ]

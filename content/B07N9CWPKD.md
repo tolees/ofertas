@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.27759197324415 % en 'Pepe Jeans Flag Logo Camiseta  Blanco  O'
+title: 'Descuento del 33.27759197324415 % en Pepe Jeans Flag Logo Camiseta  Blanco  O'
 date: 2019/11/06 17:51:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDdpZSn1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDdpZSn1L._SL200_.jpg' ]

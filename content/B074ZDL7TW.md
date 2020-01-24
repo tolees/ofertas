@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00500050005 % en 'De Longhi EDG 355 NESCAFÉ Dolce Gusto Co'
+title: 'Descuento del 50.00500050005 % en De Longhi EDG 355 NESCAFÉ Dolce Gusto Co'
 date: 2019/10/28 13:26:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318pW9gsNAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318pW9gsNAL._SL200_.jpg' ]

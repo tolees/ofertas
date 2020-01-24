@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance Flash  Zapatillas Deportivas' al 57.98571428571429 % de descuento
+title: 'New Balance Flash  Zapatillas Deportivas al 57.98571428571429 % de descuento'
 date: 2019/10/31 09:00:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5128aXr2YpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5128aXr2YpL._SL200_.jpg' ]

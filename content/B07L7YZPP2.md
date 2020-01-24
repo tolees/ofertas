@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.85697616269378 % en 'Zapatillas de Deporte para Hombre Zapati'
+title: 'Descuento del 41.85697616269378 % en Zapatillas de Deporte para Hombre Zapati'
 date: 2019/10/22 21:22:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41e4jMViKrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41e4jMViKrL._SL200_.jpg' ]

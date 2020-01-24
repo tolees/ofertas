@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zotac NVIDIA GeForce GTX 1070 8 GB Mini ' al 44.95495330189545 % de descuento
+title: 'Zotac NVIDIA GeForce GTX 1070 8 GB Mini  al 44.95495330189545 % de descuento'
 date: 2019/11/15 16:07:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UKm9G3YOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UKm9G3YOL._SL200_.jpg' ]

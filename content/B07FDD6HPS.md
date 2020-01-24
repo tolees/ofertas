@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.812265331664584 % en 'Blend Jeans w. Light Trash Vaqueros Skin'
+title: 'Descuento del 49.812265331664584 % en Blend Jeans w. Light Trash Vaqueros Skin'
 date: 2019/10/14 13:41:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r-KYTmDcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r-KYTmDcL._SL200_.jpg' ]

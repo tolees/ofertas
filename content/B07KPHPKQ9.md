@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.35519125683061 % en 'Funko 38490 POP Vinyl: Men in Black-Inte'
+title: 'Descuento del 45.35519125683061 % en Funko 38490 POP Vinyl: Men in Black-Inte'
 date: 2019/12/08 17:05:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yLbE3ddeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yLbE3ddeL._SL200_.jpg' ]

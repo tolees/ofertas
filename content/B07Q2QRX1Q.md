@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'homgeek Licuadora Profesional 2000W  Bat' al 48.00240012000601 % de descuento
+title: 'homgeek Licuadora Profesional 2000W  Bat al 48.00240012000601 % de descuento'
 date: 2019/12/10 08:56:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Fr6Zl%2B74L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Fr6Zl%2B74L._SL200_.jpg' ]

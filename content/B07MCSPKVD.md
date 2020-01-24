@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Rainforest W PKT 2 Chaqueta  B' al 60.83263598326361 % de descuento
+title: 'Napapijri Rainforest W PKT 2 Chaqueta  B al 60.83263598326361 % de descuento'
 date: 2019/12/29 09:08:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sFsKx203L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sFsKx203L._SL200_.jpg' ]

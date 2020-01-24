@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.133333333333336 % en 'Under Armour Play Up Pant-Solid Pantalon'
+title: 'Descuento del 31.133333333333336 % en Under Armour Play Up Pant-Solid Pantalon'
 date: 2019/12/23 02:27:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jk-pVvU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jk-pVvU%2BL._SL200_.jpg' ]

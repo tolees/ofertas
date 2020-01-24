@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling - Firefly Up  Mochilas Mujer  Gr' al 40.0 % de descuento
+title: 'Kipling - Firefly Up  Mochilas Mujer  Gr al 40.0 % de descuento'
 date: 2019/10/24 11:19:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OhAJlX1fL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OhAJlX1fL._SL200_.jpg' ]

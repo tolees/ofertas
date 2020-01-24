@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GORE WEAR M Calcetines unisex  Talla: 35' al 63.60902255639098 % de descuento
+title: 'GORE WEAR M Calcetines unisex  Talla: 35 al 63.60902255639098 % de descuento'
 date: 2020-01-19 12:06:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V4aTEMFPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V4aTEMFPL._SL200_.jpg' ]

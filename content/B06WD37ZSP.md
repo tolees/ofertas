@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Silk-épil 9 SkinSpa 9-969v - Depil' al 30.613756613756628 % de descuento
+title: 'Braun Silk-épil 9 SkinSpa 9-969v - Depil al 30.613756613756628 % de descuento'
 date: 2020-01-16 13:51:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419hraipckL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419hraipckL._SL200_.jpg' ]

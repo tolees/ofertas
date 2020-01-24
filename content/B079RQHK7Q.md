@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Heidi JR PG501948 Camiseta  B' al 61.68750000000001 % de descuento
+title: 'Pepe Jeans Heidi JR PG501948 Camiseta  B al 61.68750000000001 % de descuento'
 date: 2019/11/25 12:45:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j3bme5-7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j3bme5-7L._SL200_.jpg' ]

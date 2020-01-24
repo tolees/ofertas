@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.826413206603306 % en 'HP Essential Top Load 15.6" - Funda band'
+title: 'Descuento del 52.826413206603306 % en HP Essential Top Load 15.6" - Funda band'
 date: 2020-01-18 15:07:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xA7aDei4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xA7aDei4L._SL200_.jpg' ]

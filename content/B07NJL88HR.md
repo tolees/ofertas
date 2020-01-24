@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look 4 Pocket Utility Shacket Chaque' al 48.51258581235698 % de descuento
+title: 'New Look 4 Pocket Utility Shacket Chaque al 48.51258581235698 % de descuento'
 date: 2019/12/24 11:10:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWjz32ueL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWjz32ueL._SL200_.jpg' ]

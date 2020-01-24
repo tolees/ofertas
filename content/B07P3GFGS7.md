@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00833472245374 % en 'Paw Patrol 6053098 Super PAWs  2-in-1 Tr'
+title: 'Descuento del 50.00833472245374 % en Paw Patrol 6053098 Super PAWs  2-in-1 Tr'
 date: 2020-01-10 14:06:27
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/613Fx4UIrRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/613Fx4UIrRL._SL200_.jpg' ]

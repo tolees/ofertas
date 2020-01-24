@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.13636363636365 % en 'Unique Party 79123 Taschen'
+title: 'Descuento del 36.13636363636365 % en Unique Party 79123 Taschen'
 date: 2020-01-13 22:26:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IHxMq9ZcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IHxMq9ZcL._SL200_.jpg' ]

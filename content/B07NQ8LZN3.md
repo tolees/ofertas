@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung Galaxy Buds SM-R170NZWADBT I Kab' al 25.503355704697984 % de descuento
+title: 'Samsung Galaxy Buds SM-R170NZWADBT I Kab al 25.503355704697984 % de descuento'
 date: 2019/12/02 10:44:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-JaW4k1KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-JaW4k1KL._SL200_.jpg' ]

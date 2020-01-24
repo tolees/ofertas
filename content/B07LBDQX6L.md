@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOMMY HILFIGER Barbara Knot Dress NS Ves' al 70.20134228187919 % de descuento
+title: 'TOMMY HILFIGER Barbara Knot Dress NS Ves al 70.20134228187919 % de descuento'
 date: 2019/11/21 09:21:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410RzARuK7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410RzARuK7L._SL200_.jpg' ]

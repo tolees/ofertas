@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite - Maleta  Gris  Gris  - 115776' al 26.57142857142857 % de descuento
+title: 'Samsonite - Maleta  Gris  Gris  - 115776 al 26.57142857142857 % de descuento'
 date: 2019/11/18 14:13:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RaU7e6NJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RaU7e6NJL._SL200_.jpg' ]

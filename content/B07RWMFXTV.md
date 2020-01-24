@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AiRunTech Cintura Fanny Pack Riñoneras D' al 36.56207366984992 % de descuento
+title: 'AiRunTech Cintura Fanny Pack Riñoneras D al 36.56207366984992 % de descuento'
 date: 2020-01-20 22:35:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B2PZ8NtDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B2PZ8NtDL._SL200_.jpg' ]

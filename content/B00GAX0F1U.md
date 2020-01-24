@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Imetec Relaxy Intellisense HP-01 Almohad' al 37.69647696476965 % de descuento
+title: 'Imetec Relaxy Intellisense HP-01 Almohad al 37.69647696476965 % de descuento'
 date: 2019/11/15 16:55:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hcR8PxH0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hcR8PxH0L._SL200_.jpg' ]

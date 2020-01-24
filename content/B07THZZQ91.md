@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRA Advanced Cacerola baja 28 cm  alumin' al 39.09801782142207 % de descuento
+title: 'BRA Advanced Cacerola baja 28 cm  alumin al 39.09801782142207 % de descuento'
 date: 2019/12/19 10:02:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wgTa3KzBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wgTa3KzBL._SL200_.jpg' ]

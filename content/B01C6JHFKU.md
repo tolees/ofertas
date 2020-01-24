@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour HG Armour Capri Leggings  M' al 41.827284105131426 % de descuento
+title: 'Under Armour HG Armour Capri Leggings  M al 41.827284105131426 % de descuento'
 date: 2019/10/29 01:30:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I-GgeSwdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I-GgeSwdL._SL200_.jpg' ]

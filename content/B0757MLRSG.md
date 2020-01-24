@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.385877175435095 % en 'Rowenta CF4512  Fashion Stylist 3 en 1 -'
+title: 'Descuento del 29.385877175435095 % en Rowenta CF4512  Fashion Stylist 3 en 1 -'
 date: 2019/12/16 00:59:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RSpunxFFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RSpunxFFL._SL200_.jpg' ]

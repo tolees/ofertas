@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.765966566652374 % en 'Wolfenstein II: The New Colossus - Day O'
+title: 'Descuento del 61.765966566652374 % en Wolfenstein II: The New Colossus - Day O'
 date: 2019/11/07 20:02:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wSBBKy5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wSBBKy5CL._SL200_.jpg' ]

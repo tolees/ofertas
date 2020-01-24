@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Chia Violet  Bailarinas para Muje' al 61.92994996426019 % de descuento
+title: 'Clarks Chia Violet  Bailarinas para Muje al 61.92994996426019 % de descuento'
 date: 2019/10/30 10:48:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311NT7m2qNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311NT7m2qNL._SL200_.jpg' ]

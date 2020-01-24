@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VERSACE Dylos Automatic VAG020016 ...' al 71.89075630252101 % de descuento
+title: 'VERSACE Dylos Automatic VAG020016 ... al 71.89075630252101 % de descuento'
 date: 2020-01-15 09:28:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411XxguDHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411XxguDHEL._SL200_.jpg' ]

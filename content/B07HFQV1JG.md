@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonderbra Sexy Bralette Shorty  Boxer pa' al 37.821482602118 % de descuento
+title: 'Wonderbra Sexy Bralette Shorty  Boxer pa al 37.821482602118 % de descuento'
 date: 2019/12/12 08:13:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SxwD10M-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SxwD10M-L._SL200_.jpg' ]

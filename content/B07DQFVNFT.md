@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '10M RGB Tira de LED 12V con Chip SMD 505' al 42.00840168033607 % de descuento
+title: '10M RGB Tira de LED 12V con Chip SMD 505 al 42.00840168033607 % de descuento'
 date: 2019/11/09 07:01:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51f9pV3EoVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51f9pV3EoVL._SL200_.jpg' ]

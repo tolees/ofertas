@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony MEXM100BT.UC - Receptor de CD  NFC ' al 34.0 % de descuento
+title: 'Sony MEXM100BT.UC - Receptor de CD  NFC  al 34.0 % de descuento'
 date: 2019/10/26 17:14:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OsDVO75LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OsDVO75LL._SL200_.jpg' ]

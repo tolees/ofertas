@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.007814942169425 % en 'Lixada Maillots de Ciclismo Hombres Cami'
+title: 'Descuento del 25.007814942169425 % en Lixada Maillots de Ciclismo Hombres Cami'
 date: 2019/10/23 10:21:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51urenF4lyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51urenF4lyL._SL200_.jpg' ]

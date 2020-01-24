@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MARNUR Cama de Masaje Plegables 3 Seccio' al 69.46356604670956 % de descuento
+title: 'MARNUR Cama de Masaje Plegables 3 Seccio al 69.46356604670956 % de descuento'
 date: 2020-01-12 09:45:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410ezviFXvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410ezviFXvL._SL200_.jpg' ]

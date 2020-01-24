@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Mapped Edge  Zapatos de Cordones ' al 67.45969983324069 % de descuento
+title: 'Clarks Mapped Edge  Zapatos de Cordones  al 67.45969983324069 % de descuento'
 date: 2019/11/09 20:18:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416SKqZGhgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416SKqZGhgL._SL200_.jpg' ]

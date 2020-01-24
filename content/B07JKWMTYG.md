@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'medisana AH 670 Air Humidifier Ultrasoni' al 45.81909128803668 % de descuento
+title: 'medisana AH 670 Air Humidifier Ultrasoni al 45.81909128803668 % de descuento'
 date: 2019/11/07 02:26:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31doppbuQFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31doppbuQFL._SL200_.jpg' ]

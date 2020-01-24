@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.98998998999 % en 'HIKARO Chaqueta Bomber Hombre  Beige  St'
+title: 'Descuento del 69.98998998999 % en HIKARO Chaqueta Bomber Hombre  Beige  St'
 date: 2019/11/02 21:43:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419zY1yx2eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419zY1yx2eL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Ronnie Limit  Zapatos de Cordones' al 65.84292146073037 % de descuento
+title: 'Clarks Ronnie Limit  Zapatos de Cordones al 65.84292146073037 % de descuento'
 date: 2020-01-02 19:37:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y0OPHE0QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y0OPHE0QL._SL200_.jpg' ]

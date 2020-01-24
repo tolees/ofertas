@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.955056179775276 % en 'Napapijri BOVES C Sudadera  Azul  BLU Ma'
+title: 'Descuento del 54.955056179775276 % en Napapijri BOVES C Sudadera  Azul  BLU Ma'
 date: 2020-01-10 07:22:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y5v4cSwRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y5v4cSwRL._SL200_.jpg' ]

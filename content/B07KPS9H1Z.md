@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko- Pop Bobble: Star Wars: Ewok Villa' al 48.96551724137931 % de descuento
+title: 'Funko- Pop Bobble: Star Wars: Ewok Villa al 48.96551724137931 % de descuento'
 date: 2019/10/18 02:49:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312RqmoHx2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312RqmoHx2L._SL200_.jpg' ]

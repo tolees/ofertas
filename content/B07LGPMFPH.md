@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.01750875437718 % en 'RenFox [12 Piezas] Bolsas Vacio Ropa Bol'
+title: 'Descuento del 35.01750875437718 % en RenFox [12 Piezas] Bolsas Vacio Ropa Bol'
 date: 2019/11/01 12:31:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SxCl2WeML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SxCl2WeML._SL200_.jpg' ]

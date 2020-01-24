@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.59511295476825 % en 'Nuevo Apple MacBook  de 12 pulgadas  Int'
+title: 'Descuento del 33.59511295476825 % en Nuevo Apple MacBook  de 12 pulgadas  Int'
 date: 2020-01-18 08:28:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21pHroy5%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21pHroy5%2B2L._SL200_.jpg' ]

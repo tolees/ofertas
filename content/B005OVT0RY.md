@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BERING Reloj Analógico para Hombre de Cu' al 35.723618090452256 % de descuento
+title: 'BERING Reloj Analógico para Hombre de Cu al 35.723618090452256 % de descuento'
 date: 2020-01-08 13:55:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411blffG%2BuL._SL200_.jpg' ]

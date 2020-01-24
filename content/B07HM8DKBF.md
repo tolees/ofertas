@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Torre Sonido PRIMUX TW02 Bass' al 33.338889814969164 % de descuento
+title: 'Torre Sonido PRIMUX TW02 Bass al 33.338889814969164 % de descuento'
 date: 2019/12/11 21:05:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31y9sQBZAOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31y9sQBZAOL._SL200_.jpg' ]

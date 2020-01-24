@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.215293403335828 % en 'Rowenta Perfect Steam Pro DG8642F0 - Cen'
+title: 'Descuento del 28.215293403335828 % en Rowenta Perfect Steam Pro DG8642F0 - Cen'
 date: 2020-01-11 21:27:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ez5PExSTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ez5PExSTL._SL200_.jpg' ]

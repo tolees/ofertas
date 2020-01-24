@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574v2  Entrenadores para Hom' al 50.0 % de descuento
+title: 'New Balance 574v2  Entrenadores para Hom al 50.0 % de descuento'
 date: 2019/10/10 07:42:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Td-81NHRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Td-81NHRL._SL200_.jpg' ]

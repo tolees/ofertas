@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Puma Vikky v2 Zapatillas Mujer  Neg' al 47.5523202911738 % de descuento
+title: 'Puma Puma Vikky v2 Zapatillas Mujer  Neg al 47.5523202911738 % de descuento'
 date: 2019/10/31 12:48:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V6uZEgTCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V6uZEgTCL._SL200_.jpg' ]

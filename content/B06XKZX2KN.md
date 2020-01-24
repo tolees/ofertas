@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Pimlico PL200024 bengalas Jea' al 63.031578947368416 % de descuento
+title: 'Pepe Jeans Pimlico PL200024 bengalas Jea al 63.031578947368416 % de descuento'
 date: 2019/10/06 20:22:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OhK3BKqAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OhK3BKqAL._SL200_.jpg' ]

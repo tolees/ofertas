@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HyperX HX-KB1SS2-UK Alloy FPS RGB Mechan' al 30.003000300030003 % de descuento
+title: 'HyperX HX-KB1SS2-UK Alloy FPS RGB Mechan al 30.003000300030003 % de descuento'
 date: 2019/12/06 12:48:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-PrCV0t-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-PrCV0t-L._SL200_.jpg' ]

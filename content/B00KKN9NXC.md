@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Habitdesign - Cajonera para Armario  Dim' al 27.055702917771885 % de descuento
+title: 'Habitdesign - Cajonera para Armario  Dim al 27.055702917771885 % de descuento'
 date: 2020-01-21 19:44:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jTYI5fWYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jTYI5fWYL._SL200_.jpg' ]

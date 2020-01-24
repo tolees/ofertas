@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'K9CK Juego de Luces para Land Rover Defe' al 50.0 % de descuento
+title: 'K9CK Juego de Luces para Land Rover Defe al 50.0 % de descuento'
 date: 2020-01-24 10:30:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/517jjkGx+sL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517jjkGx+sL._AC_._SL200_.jpg' ]

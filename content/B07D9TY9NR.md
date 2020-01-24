@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Future 2.2 Netfit FG/AG  Zapatillas' al 57.98249270529388 % de descuento
+title: 'Puma Future 2.2 Netfit FG/AG  Zapatillas al 57.98249270529388 % de descuento'
 date: 2019/10/15 15:44:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UZneIFCGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UZneIFCGL._SL200_.jpg' ]

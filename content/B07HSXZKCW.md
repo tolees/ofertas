@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.57551078725531 % en 'Fantany Auriculares inalámbricos  Blueto'
+title: 'Descuento del 28.57551078725531 % en Fantany Auriculares inalámbricos  Blueto'
 date: 2019/10/29 15:24:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Ar6mzkSmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Ar6mzkSmL._SL200_.jpg' ]

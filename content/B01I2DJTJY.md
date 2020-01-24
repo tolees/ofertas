@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans UA Classic Slip-on  Zapatillas para' al 66.81428571428572 % de descuento
+title: 'Vans UA Classic Slip-on  Zapatillas para al 66.81428571428572 % de descuento'
 date: 2019/10/13 17:10:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ANeetWLJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ANeetWLJL._SL200_.jpg' ]

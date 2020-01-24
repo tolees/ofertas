@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WOSTOO Faja Reductora Adelgazante  Hombr' al 41.200706297822244 % de descuento
+title: 'WOSTOO Faja Reductora Adelgazante  Hombr al 41.200706297822244 % de descuento'
 date: 2020-01-13 09:31:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZXMML5fHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZXMML5fHL._SL200_.jpg' ]

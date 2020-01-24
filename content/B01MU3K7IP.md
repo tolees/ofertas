@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'San Ignacio PK329 Set Juego de Tres sart' al 54.09735687315032 % de descuento
+title: 'San Ignacio PK329 Set Juego de Tres sart al 54.09735687315032 % de descuento'
 date: 2020-01-18 20:04:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sMuQmjk2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sMuQmjk2L._SL200_.jpg' ]

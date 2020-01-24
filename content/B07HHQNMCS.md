@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.600481570661245 % en 'Elegear Ski Gafas Snowboard Gafas Esquí '
+title: 'Descuento del 42.600481570661245 % en Elegear Ski Gafas Snowboard Gafas Esquí '
 date: 2019/12/15 17:09:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413d2okUShL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413d2okUShL._SL200_.jpg' ]

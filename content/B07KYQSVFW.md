@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield Frq Poplin Check  Camisa Cas' al 74.29143047682561 % de descuento
+title: 'Springfield Frq Poplin Check  Camisa Cas al 74.29143047682561 % de descuento'
 date: 2019/10/05 22:42:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316GWbB7QiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316GWbB7QiL._SL200_.jpg' ]

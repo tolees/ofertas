@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko- Pop Vinilo: Gears of War S3: Marc' al 45.141065830721004 % de descuento
+title: 'Funko- Pop Vinilo: Gears of War S3: Marc al 45.141065830721004 % de descuento'
 date: 2019/12/10 20:15:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uHVLllsmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uHVLllsmL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NutriZing Aceite de Coco Virgen Orgánico' al 83.77540475370307 % de descuento
+title: 'NutriZing Aceite de Coco Virgen Orgánico al 83.77540475370307 % de descuento'
 date: 2019/11/06 08:44:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dtynZjRyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dtynZjRyL._SL200_.jpg' ]

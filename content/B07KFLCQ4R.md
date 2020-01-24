@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Solar Lt Trainer W  Zapatillas de' al 69.11819887429644 % de descuento
+title: 'Adidas Solar Lt Trainer W  Zapatillas de al 69.11819887429644 % de descuento'
 date: 2019/12/13 10:58:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QtKkILgKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QtKkILgKL._SL200_.jpg' ]

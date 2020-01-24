@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES PREMIUM Jprtom BLU. Sweat C' al 55.71392848212054 % de descuento
+title: 'JACK & JONES PREMIUM Jprtom BLU. Sweat C al 55.71392848212054 % de descuento'
 date: 2019/11/13 14:49:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BuoSKYr8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BuoSKYr8L._SL200_.jpg' ]

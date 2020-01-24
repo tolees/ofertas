@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dewalt D25133K-QS Martillo Ligero Combin' al 30.49762440610152 % de descuento
+title: 'Dewalt D25133K-QS Martillo Ligero Combin al 30.49762440610152 % de descuento'
 date: 2020-01-24 17:06:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wkgOw3SmL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wkgOw3SmL._AC_._SL200_.jpg' ]

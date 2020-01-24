@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.432432432432435 % en 'LAST LEVEL- Funko Figura Pop Kingdom Hea'
+title: 'Descuento del 32.432432432432435 % en LAST LEVEL- Funko Figura Pop Kingdom Hea'
 date: 2019/12/12 15:17:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51r2yml0jwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51r2yml0jwL._SL200_.jpg' ]

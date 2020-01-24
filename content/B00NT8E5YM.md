@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Kingsley-sudadera Hombre  Grey M' al 52.559322033898304 % de descuento
+title: 'Dickies Kingsley-sudadera Hombre  Grey M al 52.559322033898304 % de descuento'
 date: 2019/11/10 09:04:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PImvDpC-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PImvDpC-L._SL200_.jpg' ]

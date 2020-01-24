@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wiiguda@Artificial Falso Cabello De La C' al 29.44640753828033 % de descuento
+title: 'Wiiguda@Artificial Falso Cabello De La C al 29.44640753828033 % de descuento'
 date: 2019/12/01 18:01:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L7w%2BKucxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L7w%2BKucxL._SL200_.jpg' ]

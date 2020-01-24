@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.31111111111112 % en 'New Balance Mlazrv1  Zapatillas para Hom'
+title: 'Descuento del 61.31111111111112 % en New Balance Mlazrv1  Zapatillas para Hom'
 date: 2019/10/12 09:43:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415P0gpD%2ByL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415P0gpD%2ByL._SL200_.jpg' ]

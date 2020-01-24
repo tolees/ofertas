@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 72.03530060672918 % en 'Star Wars HQ2022 Pijama de una Pieza  Gr'
+title: 'Descuento del 72.03530060672918 % en Star Wars HQ2022 Pijama de una Pieza  Gr'
 date: 2020-01-14 09:24:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oLitbi6HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oLitbi6HL._SL200_.jpg' ]

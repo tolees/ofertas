@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.111111111111114 % en 'New Balance 997H  Entrenadores para Muje'
+title: 'Descuento del 56.111111111111114 % en New Balance 997H  Entrenadores para Muje'
 date: 2019/11/08 19:22:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ecG1ojcpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ecG1ojcpL._SL200_.jpg' ]

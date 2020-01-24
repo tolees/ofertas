@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lotus Reloj Analógico para Mujer de Cuar' al 45.691275167785236 % de descuento
+title: 'Lotus Reloj Analógico para Mujer de Cuar al 45.691275167785236 % de descuento'
 date: 2019/11/03 19:15:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EzLL4UapL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EzLL4UapL._SL200_.jpg' ]

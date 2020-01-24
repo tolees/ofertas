@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma St Trainer Evo Gleam Jr  Zapatilla ' al 47.84444444444445 % de descuento
+title: 'Puma St Trainer Evo Gleam Jr  Zapatilla  al 47.84444444444445 % de descuento'
 date: 2019/10/05 21:57:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TaNr95HYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TaNr95HYL._SL200_.jpg' ]

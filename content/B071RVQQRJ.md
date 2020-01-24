@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics Everyday - Juego de fundas ' al 42.056292160967665 % de descuento
+title: 'AmazonBasics Everyday - Juego de fundas  al 42.056292160967665 % de descuento'
 date: 2019/12/26 12:28:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vXAlMjDbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vXAlMjDbL._SL200_.jpg' ]

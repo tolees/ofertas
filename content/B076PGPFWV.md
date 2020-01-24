@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cooler Master MasterWatt 650 EU - Fuente' al 30.053625553742137 % de descuento
+title: 'Cooler Master MasterWatt 650 EU - Fuente al 30.053625553742137 % de descuento'
 date: 2020-01-16 08:29:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419mB6XDTiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419mB6XDTiL._SL200_.jpg' ]

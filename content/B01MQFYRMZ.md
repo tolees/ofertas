@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timex Southview TW2R29100 - Reloj de cua' al 26.707865168539325 % de descuento
+title: 'Timex Southview TW2R29100 - Reloj de cua al 26.707865168539325 % de descuento'
 date: 2019/12/21 00:54:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Ax-jB48NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Ax-jB48NL._SL200_.jpg' ]

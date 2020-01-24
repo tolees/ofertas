@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.058954393770854 % en 'PUMA Future 4.4 TT Jr  Botas de fútbol U'
+title: 'Descuento del 33.058954393770854 % en PUMA Future 4.4 TT Jr  Botas de fútbol U'
 date: 2019/11/19 11:39:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PqZj0AMIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PqZj0AMIL._SL200_.jpg' ]

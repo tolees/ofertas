@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.545909849749584 % en 'Einhell 4321135 Sierra de Calar Electron'
+title: 'Descuento del 27.545909849749584 % en Einhell 4321135 Sierra de Calar Electron'
 date: 2019/11/12 16:09:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518Jc1HIoIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518Jc1HIoIL._SL200_.jpg' ]

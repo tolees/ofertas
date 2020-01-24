@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.159999999999997 % en 'adidas Trefoil  Camiseta para mujer  Roj'
+title: 'Descuento del 30.159999999999997 % en adidas Trefoil  Camiseta para mujer  Roj'
 date: 2019/11/12 10:29:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/2142Ee0gifL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/2142Ee0gifL._SL200_.jpg' ]

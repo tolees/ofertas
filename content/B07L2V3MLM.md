@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.011542901115806 % en 'AmazonBasics - Perchero de pared  5 ganc'
+title: 'Descuento del 30.011542901115806 % en AmazonBasics - Perchero de pared  5 ganc'
 date: 2019/11/23 16:58:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21Jknr9sLjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21Jknr9sLjL._SL200_.jpg' ]

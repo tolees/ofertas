@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bizak Fungus Amungus - Pack  10 Figuras ' al 31.965982991495746 % de descuento
+title: 'Bizak Fungus Amungus - Pack  10 Figuras  al 31.965982991495746 % de descuento'
 date: 2019/12/31 11:56:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5192wVuX6pL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5192wVuX6pL._SL200_.jpg' ]

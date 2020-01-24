@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Berglander - Juego de cubiertos  30 piez' al 33.75495563526524 % de descuento
+title: 'Berglander - Juego de cubiertos  30 piez al 33.75495563526524 % de descuento'
 date: 2020-01-08 11:43:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nGAmi6NNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nGAmi6NNL._SL200_.jpg' ]

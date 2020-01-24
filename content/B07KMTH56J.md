@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange V Neck Horizontal Logo C' al 29.45830797321972 % de descuento
+title: 'Armani Exchange V Neck Horizontal Logo C al 29.45830797321972 % de descuento'
 date: 2019/12/06 01:40:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FCuCg1OGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FCuCg1OGL._SL200_.jpg' ]

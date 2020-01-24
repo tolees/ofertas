@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers DELSON-Antigo 65693  Zapatos de' al 30.04291845493563 % de descuento
+title: 'Skechers DELSON-Antigo 65693  Zapatos de al 30.04291845493563 % de descuento'
 date: 2019/12/07 19:46:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kbdpt6nRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kbdpt6nRL._SL200_.jpg' ]

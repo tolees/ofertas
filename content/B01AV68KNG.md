@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mont Blanc Legend Spirit eau de toilette' al 28.22285481903213 % de descuento
+title: 'Mont Blanc Legend Spirit eau de toilette al 28.22285481903213 % de descuento'
 date: 2019/10/27 20:07:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41n6Ed1KPIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41n6Ed1KPIL._SL200_.jpg' ]

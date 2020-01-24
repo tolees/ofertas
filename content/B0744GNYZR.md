@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DXRacer OH/RE21/NY/NAVI Asiento Acolchad' al 27.390238967695524 % de descuento
+title: 'DXRacer OH/RE21/NY/NAVI Asiento Acolchad al 27.390238967695524 % de descuento'
 date: 2020-01-20 10:00:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RJ-5V2B0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RJ-5V2B0L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.41196777905638 % en 'Pack Dragon Ball Z. Película 3: Super Ba'
+title: 'Descuento del 68.41196777905638 % en Pack Dragon Ball Z. Película 3: Super Ba'
 date: 2019/11/27 09:31:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61ty8VhyUuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61ty8VhyUuL._SL200_.jpg' ]

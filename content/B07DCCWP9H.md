@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.04202101050525 % en 'Puma Suede Platform  Zapatillas para Muj'
+title: 'Descuento del 64.04202101050525 % en Puma Suede Platform  Zapatillas para Muj'
 date: 2019/10/18 02:29:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dT3ZDpBqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dT3ZDpBqL._SL200_.jpg' ]

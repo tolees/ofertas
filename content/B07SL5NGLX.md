@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LATEC Pulsera Actividad Reloj Inteligent' al 50.00500050005 % de descuento
+title: 'LATEC Pulsera Actividad Reloj Inteligent al 50.00500050005 % de descuento'
 date: 2020-01-19 21:14:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VhToEpr2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VhToEpr2L._SL200_.jpg' ]

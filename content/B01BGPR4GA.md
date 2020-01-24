@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.38421395955643 % en 'Deadpool Blu-Ray [Blu-ray]'
+title: 'Descuento del 67.38421395955643 % en Deadpool Blu-Ray [Blu-ray]'
 date: 2019/11/11 18:11:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AtEvgnZeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AtEvgnZeL._SL200_.jpg' ]

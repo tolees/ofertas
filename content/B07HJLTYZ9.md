@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fresh  n Rebel Earbuds Vibe Wireless Con' al 25.69305515861675 % de descuento
+title: 'Fresh  n Rebel Earbuds Vibe Wireless Con al 25.69305515861675 % de descuento'
 date: 2019/12/07 21:34:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31v2nrkxUoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31v2nrkxUoL._SL200_.jpg' ]

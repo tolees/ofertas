@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Hoops 2.0 CMF C  Zapatos de Balon' al 49.98569384835479 % de descuento
+title: 'Adidas Hoops 2.0 CMF C  Zapatos de Balon al 49.98569384835479 % de descuento'
 date: 2020-01-18 09:20:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yIuYj3AJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yIuYj3AJL._SL200_.jpg' ]

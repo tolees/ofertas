@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Severin AT 2232 Tostadora Automática  1 ' al 39.405880569869666 % de descuento
+title: 'Severin AT 2232 Tostadora Automática  1  al 39.405880569869666 % de descuento'
 date: 2020-01-20 16:43:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NtbJYfmhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NtbJYfmhL._SL200_.jpg' ]

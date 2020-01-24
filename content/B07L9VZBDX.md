@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.37209302325581 % en 'Emporio Armani Underwear 3-Pack Trunk Ba'
+title: 'Descuento del 42.37209302325581 % en Emporio Armani Underwear 3-Pack Trunk Ba'
 date: 2019/11/17 15:52:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ODy61EQ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ODy61EQ5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.43373493975904 % en 'B Blesiya Silla de Animal para Niños Sil'
+title: 'Descuento del 44.43373493975904 % en B Blesiya Silla de Animal para Niños Sil'
 date: 2019/11/19 20:38:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Vl55lZ7ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Vl55lZ7ML._SL200_.jpg' ]

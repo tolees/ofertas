@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour W Charged Bandit 3 1298664 ' al 62.420382165605105 % de descuento
+title: 'Under Armour W Charged Bandit 3 1298664  al 62.420382165605105 % de descuento'
 date: 2019/11/09 19:14:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51K%2BswuMCnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51K%2BswuMCnL._SL200_.jpg' ]

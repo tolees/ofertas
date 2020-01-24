@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego 41363 Friends Mias Outdoor Abenteue' al 32.95530353569046 % de descuento
+title: 'Lego 41363 Friends Mias Outdoor Abenteue al 32.95530353569046 % de descuento'
 date: 2019/12/30 21:45:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Mt0XGXypL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Mt0XGXypL._SL200_.jpg' ]

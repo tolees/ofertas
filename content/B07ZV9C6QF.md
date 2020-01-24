@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NinkBox Raspberry Pi 4 Modelo B  Tarjeta' al 30.94244604316547 % de descuento
+title: 'NinkBox Raspberry Pi 4 Modelo B  Tarjeta al 30.94244604316547 % de descuento'
 date: 2020-01-19 17:10:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tSgSNpLPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tSgSNpLPL._SL200_.jpg' ]

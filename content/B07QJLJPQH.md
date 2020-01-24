@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.2203147353362 % en 'PUMA Strappy Studio Bra L Sujetador Depo'
+title: 'Descuento del 34.2203147353362 % en PUMA Strappy Studio Bra L Sujetador Depo'
 date: 2019/12/08 19:47:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hpWbKrmgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hpWbKrmgL._SL200_.jpg' ]

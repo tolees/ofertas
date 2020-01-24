@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.275 % en 'Under Armour Sujetador Deportivo para Mu'
+title: 'Descuento del 64.275 % en Under Armour Sujetador Deportivo para Mu'
 date: 2019/11/05 11:03:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y%2BmNQZbRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y%2BmNQZbRL._SL200_.jpg' ]

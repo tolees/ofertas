@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.18888888888889 % en 'Dockers Clean Khaki Marina Slim Tapered-'
+title: 'Descuento del 36.18888888888889 % en Dockers Clean Khaki Marina Slim Tapered-'
 date: 2019/11/15 14:26:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31REMobPoKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31REMobPoKL._SL200_.jpg' ]

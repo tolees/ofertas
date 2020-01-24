@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.860759493670884 % en 'Fluval Válvula Aquastop  10  para el Fil'
+title: 'Descuento del 53.860759493670884 % en Fluval Válvula Aquastop  10  para el Fil'
 date: 2019/10/06 20:53:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G44MC1v2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G44MC1v2L._SL200_.jpg' ]

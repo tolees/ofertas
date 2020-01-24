@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.57197844495766 % en 'Funko 30775 POP Vinyl: Austin Powers: Va'
+title: 'Descuento del 43.57197844495766 % en Funko 30775 POP Vinyl: Austin Powers: Va'
 date: 2020-01-24 09:31:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wBve%2BEVkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wBve%2BEVkL._SL200_.jpg' ]

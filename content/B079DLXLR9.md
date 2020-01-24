@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Linterna Taller Lampara led Recargable，H' al 37.54693366708385 % de descuento
+title: 'Linterna Taller Lampara led Recargable，H al 37.54693366708385 % de descuento'
 date: 2019/10/08 12:24:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41O6axzJjrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41O6axzJjrL._SL200_.jpg' ]

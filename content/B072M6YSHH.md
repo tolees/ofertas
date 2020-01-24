@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roxy Suntrippers Colors Vaqueros Corte P' al 78.29689955707958 % de descuento
+title: 'Roxy Suntrippers Colors Vaqueros Corte P al 78.29689955707958 % de descuento'
 date: 2019/12/02 12:28:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31g0C%2ByLDzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31g0C%2ByLDzL._SL200_.jpg' ]

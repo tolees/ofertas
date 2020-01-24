@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WONDER BEAUTY Mujer Vestido de Cuero PU ' al 71.00710071007101 % de descuento
+title: 'WONDER BEAUTY Mujer Vestido de Cuero PU  al 71.00710071007101 % de descuento'
 date: 2019/10/27 14:57:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41F5qWsJ7hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41F5qWsJ7hL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.03000333370375 % en 'Auriculares Bluetooth  Auriculares Inalá'
+title: 'Descuento del 70.03000333370375 % en Auriculares Bluetooth  Auriculares Inalá'
 date: 2019/10/31 12:29:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51swt0QYUjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51swt0QYUjL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weider Mega Mass 2000  Sabor Chocolate -' al 31.76764869371872 % de descuento
+title: 'Weider Mega Mass 2000  Sabor Chocolate - al 31.76764869371872 % de descuento'
 date: 2020-01-03 23:30:27
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

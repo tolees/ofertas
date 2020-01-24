@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.222611305652826 % en 'Vero Moda Vmbuci 3/4 Fold-up Top Noos Bl'
+title: 'Descuento del 45.222611305652826 % en Vero Moda Vmbuci 3/4 Fold-up Top Noos Bl'
 date: 2019/11/10 15:24:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wdDSi7y9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wdDSi7y9L._SL200_.jpg' ]

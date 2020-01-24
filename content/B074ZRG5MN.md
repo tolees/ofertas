@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony WH-1000XM2 Bluetooth High-Resolutio' al 39.5778364116095 % de descuento
+title: 'Sony WH-1000XM2 Bluetooth High-Resolutio al 39.5778364116095 % de descuento'
 date: 2019/11/30 13:27:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kgP5UvbRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kgP5UvbRL._SL200_.jpg' ]

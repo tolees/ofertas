@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.84730583611125 % en 'Beelink BT3 Pro II Mini PC Ordenador de '
+title: 'Descuento del 30.84730583611125 % en Beelink BT3 Pro II Mini PC Ordenador de '
 date: 2020-01-24 10:05:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CORlsi87L._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CORlsi87L._AC_._SL200_.jpg' ]

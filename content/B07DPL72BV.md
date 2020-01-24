@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.42236961109436 % en 'Caudalie Caudalie Vinoperfect Essence Ec'
+title: 'Descuento del 47.42236961109436 % en Caudalie Caudalie Vinoperfect Essence Ec'
 date: 2019/10/25 12:39:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316xaTwWL9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316xaTwWL9L._SL200_.jpg' ]

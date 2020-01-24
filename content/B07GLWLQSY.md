@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.22222222222222 % en 'Sony XAV-AX3005DB - Reproductor 2DIN par'
+title: 'Descuento del 32.22222222222222 % en Sony XAV-AX3005DB - Reproductor 2DIN par'
 date: 2019/10/30 06:19:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sVoZfNPtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sVoZfNPtL._SL200_.jpg' ]

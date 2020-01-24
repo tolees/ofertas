@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.93493493493494 % en 'Maybelline New York - Superstay Matte In'
+title: 'Descuento del 34.93493493493494 % en Maybelline New York - Superstay Matte In'
 date: 2020-01-02 11:38:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2Btf8wFZAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2Btf8wFZAL._SL200_.jpg' ]

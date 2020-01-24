@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cillit Bang Limpiador Spray Antical - 75' al 30.946882217090067 % de descuento
+title: 'Cillit Bang Limpiador Spray Antical - 75 al 30.946882217090067 % de descuento'
 date: 2019/11/15 08:49:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519llgtav0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519llgtav0L._SL200_.jpg' ]

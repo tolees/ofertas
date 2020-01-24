@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.64173415912338 % en 'Tobillera Elástica con Soporte de Arco  '
+title: 'Descuento del 47.64173415912338 % en Tobillera Elástica con Soporte de Arco  '
 date: 2019/12/01 12:02:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pmq4Yi7ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pmq4Yi7ML._SL200_.jpg' ]

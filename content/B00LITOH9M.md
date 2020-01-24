@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.142857142857146 % en 'Tuscany Silver Pulsera de mujer con plat'
+title: 'Descuento del 37.142857142857146 % en Tuscany Silver Pulsera de mujer con plat'
 date: 2019/12/17 08:07:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317skwgZmKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317skwgZmKL._SL200_.jpg' ]

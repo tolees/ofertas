@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saucony Jazz 21  Zapatillas de Deporte p' al 59.08333333333333 % de descuento
+title: 'Saucony Jazz 21  Zapatillas de Deporte p al 59.08333333333333 % de descuento'
 date: 2019/11/03 08:52:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BG58gOCnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BG58gOCnL._SL200_.jpg' ]

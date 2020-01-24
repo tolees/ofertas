@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Vest_flopo  Vestido para Mujer ' al 40.157255182273055 % de descuento
+title: 'Desigual Vest_flopo  Vestido para Mujer  al 40.157255182273055 % de descuento'
 date: 2019/10/13 11:37:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o-Lye1w-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o-Lye1w-L._SL200_.jpg' ]

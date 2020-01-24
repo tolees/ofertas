@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Mujer Camiseta  ZERO RULES SHOR' al 45.72735067162047 % de descuento
+title: 'Columbia Mujer Camiseta  ZERO RULES SHOR al 45.72735067162047 % de descuento'
 date: 2019/11/26 14:49:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jFAqpR-ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jFAqpR-ML._SL200_.jpg' ]

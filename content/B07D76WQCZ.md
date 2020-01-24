@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.67185242804756 % en 'gracosy Sandalias Cuero Planas Verano Mu'
+title: 'Descuento del 46.67185242804756 % en gracosy Sandalias Cuero Planas Verano Mu'
 date: 2019/10/18 18:31:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xxjAieDZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xxjAieDZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Herren Left Chest Logo Tee T-Shirt ' al 30.049999999999997 % de descuento
+title: 'Vans Herren Left Chest Logo Tee T-Shirt  al 30.049999999999997 % de descuento'
 date: 2019/12/02 14:48:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Vwq0m0KzL._SL200_.jpg' ]

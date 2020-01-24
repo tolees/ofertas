@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Blend Swimwear  Bañador para Hombre  Azu' al 67.04507512520867 % de descuento
+title: 'Blend Swimwear  Bañador para Hombre  Azu al 67.04507512520867 % de descuento'
 date: 2019/10/05 15:32:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CVhUBCuWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CVhUBCuWL._SL200_.jpg' ]

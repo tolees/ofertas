@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.73717146433042 % en 'Clarks Roamer Star T  Bailarinas para Be'
+title: 'Descuento del 69.73717146433042 % en Clarks Roamer Star T  Bailarinas para Be'
 date: 2019/10/24 21:33:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ehqL%2BbNBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ehqL%2BbNBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.2975432211101 % en 'QULLOO Protector Pantalla Echo Show 5 Vi'
+title: 'Descuento del 27.2975432211101 % en QULLOO Protector Pantalla Echo Show 5 Vi'
 date: 2019/11/24 19:02:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rwl6qfCPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rwl6qfCPL._SL200_.jpg' ]

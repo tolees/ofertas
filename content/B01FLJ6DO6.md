@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch Professional Kreuzlinienlaser GCL ' al 54.059609455292915 % de descuento
+title: 'Bosch Professional Kreuzlinienlaser GCL  al 54.059609455292915 % de descuento'
 date: 2019/11/19 08:40:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXCcm8QhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BXCcm8QhL._SL200_.jpg' ]

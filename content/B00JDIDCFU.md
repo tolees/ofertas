@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nissin Digital NFG013C - Flash con zapat' al 37.35341365461847 % de descuento
+title: 'Nissin Digital NFG013C - Flash con zapat al 37.35341365461847 % de descuento'
 date: 2019/11/21 08:15:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ykmRgTKjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ykmRgTKjL._SL200_.jpg' ]

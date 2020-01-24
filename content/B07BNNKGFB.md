@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'meiqicool de Puzzle para niños schaumsto' al 47.277985709424975 % de descuento
+title: 'meiqicool de Puzzle para niños schaumsto al 47.277985709424975 % de descuento'
 date: 2019/12/15 16:57:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BadWiCkaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BadWiCkaL._SL200_.jpg' ]

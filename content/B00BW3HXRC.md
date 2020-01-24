@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carchivo 133319  Pack 10 Hojas Goma Eva ' al 52.493261455525605 % de descuento
+title: 'Carchivo 133319  Pack 10 Hojas Goma Eva  al 52.493261455525605 % de descuento'
 date: 2019/11/04 11:06:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a0jTzQjvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a0jTzQjvL._SL200_.jpg' ]

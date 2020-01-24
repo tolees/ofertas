@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WD Black SN750 - SSD Interno NVMe con di' al 33.88399088323115 % de descuento
+title: 'WD Black SN750 - SSD Interno NVMe con di al 33.88399088323115 % de descuento'
 date: 2020-01-13 12:53:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kbV9VA-aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kbV9VA-aL._SL200_.jpg' ]

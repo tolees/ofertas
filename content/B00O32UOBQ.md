@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois Contour Edition Perfilador de L' al 40.74074074074075 % de descuento
+title: 'Bourjois Contour Edition Perfilador de L al 40.74074074074075 % de descuento'
 date: 2019/11/12 10:04:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SGAYVo0%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SGAYVo0%2BL._SL200_.jpg' ]

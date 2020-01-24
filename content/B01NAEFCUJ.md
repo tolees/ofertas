@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zotac NVIDIA GeForce GTX 1060 3 GB AMP E' al 41.29931247472334 % de descuento
+title: 'Zotac NVIDIA GeForce GTX 1060 3 GB AMP E al 41.29931247472334 % de descuento'
 date: 2019/11/15 20:59:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nu4CtrSxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nu4CtrSxL._SL200_.jpg' ]

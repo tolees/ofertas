@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eléctrico Soldador Kit de Estaño con Caj' al 49.50745137661027 % de descuento
+title: 'Eléctrico Soldador Kit de Estaño con Caj al 49.50745137661027 % de descuento'
 date: 2019/12/13 00:13:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518zH1SBvUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518zH1SBvUL._SL200_.jpg' ]

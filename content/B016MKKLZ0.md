@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sky Rebel Cris-Azul Hombre Azul  Middle ' al 55.20624749699638 % de descuento
+title: 'Sky Rebel Cris-Azul Hombre Azul  Middle  al 55.20624749699638 % de descuento'
 date: 2019/11/13 14:14:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416Od2zpDeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416Od2zpDeL._SL200_.jpg' ]

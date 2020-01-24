@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SALOMON Essential JKT Jacket  Mujer  Azu' al 50.85454545454545 % de descuento
+title: 'SALOMON Essential JKT Jacket  Mujer  Azu al 50.85454545454545 % de descuento'
 date: 2019/12/01 13:40:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NYqQCmy1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NYqQCmy1L._SL200_.jpg' ]

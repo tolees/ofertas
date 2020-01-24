@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO 76114 Marvel Super Heroes Spider-Ma' al 25.007144898542457 % de descuento
+title: 'LEGO 76114 Marvel Super Heroes Spider-Ma al 25.007144898542457 % de descuento'
 date: 2020-01-18 16:23:56
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513WmAWlCHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513WmAWlCHL._SL200_.jpg' ]

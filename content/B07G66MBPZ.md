@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASICS Seamless T-Shirt - XL' al 65.73033707865167 % de descuento
+title: 'ASICS Seamless T-Shirt - XL al 65.73033707865167 % de descuento'
 date: 2019/11/29 18:46:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416fE%2BFcZbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416fE%2BFcZbL._SL200_.jpg' ]

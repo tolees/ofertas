@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '8safe Protector de Alta Calidad para Asi' al 50.01000200040009 % de descuento
+title: '8safe Protector de Alta Calidad para Asi al 50.01000200040009 % de descuento'
 date: 2020-01-24 13:58:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dL4N7cAoL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dL4N7cAoL._AC_._SL200_.jpg' ]

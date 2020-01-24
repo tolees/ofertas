@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.107526881720425 % en 'Yamaha CD-S300 - Reproductor de CD  MP3 '
+title: 'Descuento del 30.107526881720425 % en Yamaha CD-S300 - Reproductor de CD  MP3 '
 date: 2019/10/27 20:35:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LPybL6eML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LPybL6eML._SL200_.jpg' ]

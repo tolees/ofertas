@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.01077586206896 % en 'PIXNOR Falda crinolina enagua de medio r'
+title: 'Descuento del 30.01077586206896 % en PIXNOR Falda crinolina enagua de medio r'
 date: 2019/11/02 11:02:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31cqyGfK6CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31cqyGfK6CL._SL200_.jpg' ]

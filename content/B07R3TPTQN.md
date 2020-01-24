@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CARE OF by PUMA Chaleco acolchado imperm' al 30.000000000000004 % de descuento
+title: 'CARE OF by PUMA Chaleco acolchado imperm al 30.000000000000004 % de descuento'
 date: 2020-01-04 15:34:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aLn9raIuL._SL200_.jpg' ]

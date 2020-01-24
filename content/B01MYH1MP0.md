@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.15107913669065 % en 'Festina Reloj Análogo clásico para Mujer'
+title: 'Descuento del 36.15107913669065 % en Festina Reloj Análogo clásico para Mujer'
 date: 2019/12/20 02:30:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SZisyxtnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SZisyxtnL._SL200_.jpg' ]

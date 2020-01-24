@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline Corrector de Ojeras  Bolsas e' al 34.927697441601794 % de descuento
+title: 'Maybelline Corrector de Ojeras  Bolsas e al 34.927697441601794 % de descuento'
 date: 2019/11/23 17:35:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31khOMKnIFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31khOMKnIFL._SL200_.jpg' ]

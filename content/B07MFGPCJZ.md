@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.02668445630421 % en 'Mardozon 14 Piezas Correas Xiaomi Mi Ban'
+title: 'Descuento del 40.02668445630421 % en Mardozon 14 Piezas Correas Xiaomi Mi Ban'
 date: 2020-01-20 19:57:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Tjmy2hQ3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Tjmy2hQ3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bresser Optics Topas 10x25 BK-7 Negro  R' al 35.51971326164875 % de descuento
+title: 'Bresser Optics Topas 10x25 BK-7 Negro  R al 35.51971326164875 % de descuento'
 date: 2019/10/26 14:31:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZyoOgPnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BZyoOgPnL._SL200_.jpg' ]

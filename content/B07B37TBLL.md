@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marqués de Carrión Reserva Vino Tinto D.' al 38.46153846153846 % de descuento
+title: 'Marqués de Carrión Reserva Vino Tinto D. al 38.46153846153846 % de descuento'
 date: 2020-01-02 10:22:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JJz9BJAwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JJz9BJAwL._SL200_.jpg' ]

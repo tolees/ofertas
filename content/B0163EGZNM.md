@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dim Invisi Fit Sujetador  New Skin  85C ' al 35.55984555984555 % de descuento
+title: 'Dim Invisi Fit Sujetador  New Skin  85C  al 35.55984555984555 % de descuento'
 date: 2019/12/20 08:56:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41l3UU5SQbL._SL200_.jpg' ]

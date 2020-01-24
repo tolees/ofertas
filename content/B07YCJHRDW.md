@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elegantpark Crystal Decoraciones Mujeres' al 50.01250312578145 % de descuento
+title: 'Elegantpark Crystal Decoraciones Mujeres al 50.01250312578145 % de descuento'
 date: 2020-01-20 13:10:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519q7LsssZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519q7LsssZL._SL200_.jpg' ]

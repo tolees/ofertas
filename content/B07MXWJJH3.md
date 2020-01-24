@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.84203002144389 % en 'Desigual 19WAXABG - Bolso de hombro de S'
+title: 'Descuento del 58.84203002144389 % en Desigual 19WAXABG - Bolso de hombro de S'
 date: 2020-01-24 11:14:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TwDivM6fL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TwDivM6fL._AC_._SL200_.jpg' ]

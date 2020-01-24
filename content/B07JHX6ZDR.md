@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia WAYFINDER Mid Outdry  Zapatos d' al 61.397030540810825 % de descuento
+title: 'Columbia WAYFINDER Mid Outdry  Zapatos d al 61.397030540810825 % de descuento'
 date: 2019/11/01 22:36:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41PNKYQMSXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41PNKYQMSXL._SL200_.jpg' ]

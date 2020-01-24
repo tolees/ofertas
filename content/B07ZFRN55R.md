@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.00996264009963 % en 'Wesho Guantes Gimnasio  Guantes Gimnasio'
+title: 'Descuento del 64.00996264009963 % en Wesho Guantes Gimnasio  Guantes Gimnasio'
 date: 2019/12/08 19:08:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519yOpH5ZqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519yOpH5ZqL._SL200_.jpg' ]

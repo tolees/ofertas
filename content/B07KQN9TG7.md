@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.4 % en 'Helly Hansen KOS Polo  Hombre  Blanco  B'
+title: 'Descuento del 61.4 % en Helly Hansen KOS Polo  Hombre  Blanco  B'
 date: 2019/11/26 12:54:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315RT2tLpXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315RT2tLpXL._SL200_.jpg' ]

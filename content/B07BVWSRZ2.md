@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'seQoya - General Sherman | Reloj de Made' al 37.54693366708386 % de descuento
+title: 'seQoya - General Sherman | Reloj de Made al 37.54693366708386 % de descuento'
 date: 2019/12/21 17:19:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416FIOMuc9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416FIOMuc9L._SL200_.jpg' ]

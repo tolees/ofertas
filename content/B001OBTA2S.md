@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.895096921322704 % en 'HP 940 - Cabezal de impresión Original H'
+title: 'Descuento del 25.895096921322704 % en HP 940 - Cabezal de impresión Original H'
 date: 2020-01-17 14:49:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B38wa5R5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B38wa5R5L._SL200_.jpg' ]

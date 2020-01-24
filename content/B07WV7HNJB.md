@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dreamingbox Regalos para Adolescente de ' al 27.793218454697044 % de descuento
+title: 'Dreamingbox Regalos para Adolescente de  al 27.793218454697044 % de descuento'
 date: 2020-01-07 08:03:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aSoGBoGPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aSoGBoGPL._SL200_.jpg' ]

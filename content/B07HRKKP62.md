@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.02601300650325 % en 'WOSTOO Pelo Tiza  10 Colores Colorful te'
+title: 'Descuento del 52.02601300650325 % en WOSTOO Pelo Tiza  10 Colores Colorful te'
 date: 2019/12/22 21:32:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61igpR8H7EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61igpR8H7EL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pistola de Silicona  G★LAXIA Pistola de ' al 46.68222740913638 % de descuento
+title: 'Pistola de Silicona  G★LAXIA Pistola de  al 46.68222740913638 % de descuento'
 date: 2019/10/22 15:26:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VVgWBI2eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VVgWBI2eL._SL200_.jpg' ]

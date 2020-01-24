@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.42028985507246 % en 'Rimmel London Scandaleyes Wow Wings Másc'
+title: 'Descuento del 59.42028985507246 % en Rimmel London Scandaleyes Wow Wings Másc'
 date: 2019/12/20 19:55:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K8CNzj-5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K8CNzj-5L._SL200_.jpg' ]

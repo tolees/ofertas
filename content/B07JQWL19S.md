@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.52560477536915 % en 'adidas Athletics 24/7 TR M  Zapatillas d'
+title: 'Descuento del 69.52560477536915 % en adidas Athletics 24/7 TR M  Zapatillas d'
 date: 2019/12/12 19:57:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41o7W9MhUGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41o7W9MhUGL._SL200_.jpg' ]

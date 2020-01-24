@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.8989898989899 % en 'Napapijri Burgee 2 Sudadera con Capucha '
+title: 'Descuento del 66.8989898989899 % en Napapijri Burgee 2 Sudadera con Capucha '
 date: 2019/11/22 19:22:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iThlrDY4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iThlrDY4L._SL200_.jpg' ]

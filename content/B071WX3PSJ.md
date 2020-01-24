@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ark Survival Evolved' al 64.69495642234604 % de descuento
+title: 'Ark Survival Evolved al 64.69495642234604 % de descuento'
 date: 2020-01-24 02:10:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516tvB7skgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516tvB7skgL._SL200_.jpg' ]

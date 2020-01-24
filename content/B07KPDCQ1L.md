@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant O1. The Panel Down Vest Chaleco  Az' al 30.989552059565263 % de descuento
+title: 'Gant O1. The Panel Down Vest Chaleco  Az al 30.989552059565263 % de descuento'
 date: 2019/10/09 08:17:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m-hw%2BeZFL._SL200_.jpg' ]

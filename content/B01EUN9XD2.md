@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.96868203566769 % en 'Ingenuity Jungle Journey - Columpio port'
+title: 'Descuento del 27.96868203566769 % en Ingenuity Jungle Journey - Columpio port'
 date: 2019/10/18 10:52:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mOr4o%2BICL._SL200_.jpg' ]

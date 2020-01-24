@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.81350748119368 % en 'Saint Seiya- Saga Geminis CG Movie Figur'
+title: 'Descuento del 47.81350748119368 % en Saint Seiya- Saga Geminis CG Movie Figur'
 date: 2019/10/27 07:30:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pTivt0CPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pTivt0CPL._SL200_.jpg' ]

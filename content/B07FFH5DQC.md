@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Dc Super-Villans' al 76.78630958995444 % de descuento
+title: 'Lego Dc Super-Villans al 76.78630958995444 % de descuento'
 date: 2020-01-11 20:01:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dUj1VlxCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dUj1VlxCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xiaomi MI A2 - Smartphone DE 5.9"  Qualc' al 25.08960573476703 % de descuento
+title: 'Xiaomi MI A2 - Smartphone DE 5.9"  Qualc al 25.08960573476703 % de descuento'
 date: 2020-01-24 12:05:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FplfIiZJL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FplfIiZJL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.13213213213213 % en 'Samsung Galaxy S10+ Smartphone Bundle  1'
+title: 'Descuento del 32.13213213213213 % en Samsung Galaxy S10+ Smartphone Bundle  1'
 date: 2019/11/26 14:06:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A-zNxO4vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A-zNxO4vL._SL200_.jpg' ]

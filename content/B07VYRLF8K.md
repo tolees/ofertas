@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Viedouce Portabebé Ergonómico Asiento de' al 38.006644518272424 % de descuento
+title: 'Viedouce Portabebé Ergonómico Asiento de al 38.006644518272424 % de descuento'
 date: 2019/11/26 13:24:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eQy1Zb1KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eQy1Zb1KL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger CIRA Logo tee  Camiseta M' al 70.68447412353923 % de descuento
+title: 'Tommy Hilfiger CIRA Logo tee  Camiseta M al 70.68447412353923 % de descuento'
 date: 2019/10/25 19:17:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lV6PKuv8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lV6PKuv8L._SL200_.jpg' ]

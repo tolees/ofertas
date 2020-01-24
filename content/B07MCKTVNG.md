@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.906642728904856 % en 'Wilbest Cartera de Tarjetas  Cartera Hom'
+title: 'Descuento del 35.906642728904856 % en Wilbest Cartera de Tarjetas  Cartera Hom'
 date: 2020-01-09 14:18:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418B3Cpd4GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418B3Cpd4GL._SL200_.jpg' ]

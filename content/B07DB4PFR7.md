@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Suede Heart Artica Wn s  Zapatillas' al 79.40970485242622 % de descuento
+title: 'Puma Suede Heart Artica Wn s  Zapatillas al 79.40970485242622 % de descuento'
 date: 2019/11/13 13:28:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OSK8GHI8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OSK8GHI8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0120024004801 % en 'Xnuoyo 10000mAh PD Mini Power Bank  USB-'
+title: 'Descuento del 60.0120024004801 % en Xnuoyo 10000mAh PD Mini Power Bank  USB-'
 date: 2019/10/13 11:48:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rN0PPondL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rN0PPondL._SL200_.jpg' ]

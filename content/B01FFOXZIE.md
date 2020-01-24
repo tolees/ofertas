@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips QP210/50 - Cuchilla de recambio ' al 33.355570380253496 % de descuento
+title: 'Philips QP210/50 - Cuchilla de recambio  al 33.355570380253496 % de descuento'
 date: 2019/11/28 15:24:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dvwdihGmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dvwdihGmL._SL200_.jpg' ]

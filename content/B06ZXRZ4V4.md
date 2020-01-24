@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MSI Radeon RX 580 GAMING X 8 GB GDDR5 2x' al 34.713334542345656 % de descuento
+title: 'MSI Radeon RX 580 GAMING X 8 GB GDDR5 2x al 34.713334542345656 % de descuento'
 date: 2019/12/02 22:28:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51skHRuo82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51skHRuo82L._SL200_.jpg' ]

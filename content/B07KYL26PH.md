@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.718906302100706 % en 'Springfield 5.Pa.Midi Liso Volante Vesti'
+title: 'Descuento del 56.718906302100706 % en Springfield 5.Pa.Midi Liso Volante Vesti'
 date: 2019/10/24 22:56:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31A-OPeCSZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31A-OPeCSZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Finether Chimenea Eléctrica  Estufa Eléc' al 25.001562597662364 % de descuento
+title: 'Finether Chimenea Eléctrica  Estufa Eléc al 25.001562597662364 % de descuento'
 date: 2019/12/16 21:41:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RwiCVo54L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RwiCVo54L._SL200_.jpg' ]

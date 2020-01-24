@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oreal Paris Dermo Expertise Revitalift' al 51.05527638190954 % de descuento
+title: 'L Oreal Paris Dermo Expertise Revitalift al 51.05527638190954 % de descuento'
 date: 2020-01-11 13:23:12
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Y4mrK9PxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Y4mrK9PxL._SL200_.jpg' ]

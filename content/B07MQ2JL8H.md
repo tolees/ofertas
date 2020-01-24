@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Ronnie Walk  Zapatos de Cordones ' al 54.49724862431216 % de descuento
+title: 'Clarks Ronnie Walk  Zapatos de Cordones  al 54.49724862431216 % de descuento'
 date: 2019/10/17 12:17:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KBzCu-LJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KBzCu-LJL._SL200_.jpg' ]

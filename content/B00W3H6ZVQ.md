@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher Akku-Fenstersauger WV 5 Plus Non' al 40.367306118738064 % de descuento
+title: 'Kärcher Akku-Fenstersauger WV 5 Plus Non al 40.367306118738064 % de descuento'
 date: 2019/12/18 19:54:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wbRGsr2YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wbRGsr2YL._SL200_.jpg' ]

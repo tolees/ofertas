@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Madrid CF- Estuche  Multicolor  SAF' al 50.34642032332564 % de descuento
+title: 'Real Madrid CF- Estuche  Multicolor  SAF al 50.34642032332564 % de descuento'
 date: 2020-01-13 08:32:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41feywlUrsL._SL200_.jpg' ]

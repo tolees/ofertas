@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Street Cleats-Luckier  Zapatill' al 54.89574645537949 % de descuento
+title: 'Skechers Street Cleats-Luckier  Zapatill al 54.89574645537949 % de descuento'
 date: 2020-01-23 17:20:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ba3tS8x7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ba3tS8x7L._SL200_.jpg' ]

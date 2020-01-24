@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DC Apparel Star tee-Shirt  Hombre  Black' al 56.81893964654885 % de descuento
+title: 'DC Apparel Star tee-Shirt  Hombre  Black al 56.81893964654885 % de descuento'
 date: 2019/11/11 21:42:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BslTBURUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BslTBURUL._SL200_.jpg' ]

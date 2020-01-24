@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Klamath Range II Forro Polar co' al 40.01333777925975 % de descuento
+title: 'Columbia Klamath Range II Forro Polar co al 40.01333777925975 % de descuento'
 date: 2020-01-16 09:47:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412zNtR2XSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412zNtR2XSL._SL200_.jpg' ]

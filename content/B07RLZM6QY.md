@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RAOYI Memoria USB 32GB 3.0 Pendrive Flas' al 30.015007503751868 % de descuento
+title: 'RAOYI Memoria USB 32GB 3.0 Pendrive Flas al 30.015007503751868 % de descuento'
 date: 2019/10/09 18:09:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SFCLVepfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SFCLVepfL._SL200_.jpg' ]

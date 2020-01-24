@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'All-new Fire 7 Tablet | 7" display  16 G' al 40.008001600320064 % de descuento
+title: 'All-new Fire 7 Tablet | 7" display  16 G al 40.008001600320064 % de descuento'
 date: 2019/11/23 19:54:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dlzKmR2DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dlzKmR2DL._SL200_.jpg' ]

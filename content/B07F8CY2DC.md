@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.58071278825996 % en 'S.Oliver Big Size 15.809.21.6798 Camisa '
+title: 'Descuento del 59.58071278825996 % en S.Oliver Big Size 15.809.21.6798 Camisa '
 date: 2019/12/05 15:52:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KSciFEieL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KSciFEieL._SL200_.jpg' ]

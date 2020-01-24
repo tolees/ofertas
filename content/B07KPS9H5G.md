@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Vinyl: Disney: Dumbo: Pop 1 Firema' al 48.275862068965516 % de descuento
+title: 'Funko Vinyl: Disney: Dumbo: Pop 1 Firema al 48.275862068965516 % de descuento'
 date: 2020-01-23 18:37:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QLjpzDp2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QLjpzDp2L._SL200_.jpg' ]

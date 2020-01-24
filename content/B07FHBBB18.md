@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Men s 514 Straight Jeans  Black  ' al 59.400000000000006 % de descuento
+title: 'Levi s Men s 514 Straight Jeans  Black   al 59.400000000000006 % de descuento'
 date: 2019/12/02 13:12:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MTWyacBbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MTWyacBbL._SL200_.jpg' ]

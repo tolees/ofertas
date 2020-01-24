@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield Calidos Structure Short Cami' al 69.83455175067334 % de descuento
+title: 'Springfield Calidos Structure Short Cami al 69.83455175067334 % de descuento'
 date: 2019/11/14 18:16:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pT2YjcbTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pT2YjcbTL._SL200_.jpg' ]

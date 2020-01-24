@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox D Vivyanne Ballerina A  Bailarinas ' al 74.33694745621351 % de descuento
+title: 'Geox D Vivyanne Ballerina A  Bailarinas  al 74.33694745621351 % de descuento'
 date: 2019/12/07 11:12:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31hdlf-8KNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31hdlf-8KNL._SL200_.jpg' ]

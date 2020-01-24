@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 220  Zapatillas Unisex Niños' al 64.74545454545455 % de descuento
+title: 'New Balance 220  Zapatillas Unisex Niños al 64.74545454545455 % de descuento'
 date: 2020-01-14 15:57:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rpdqvvcoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rpdqvvcoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.254933765882676 % en 'yoptote Bolos Infantiles Sets de Bolos J'
+title: 'Descuento del 43.254933765882676 % en yoptote Bolos Infantiles Sets de Bolos J'
 date: 2019/12/03 09:23:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YoLxTksEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YoLxTksEL._SL200_.jpg' ]

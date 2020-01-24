@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance M1400V6  Zapatillas de Runni' al 40.0 % de descuento
+title: 'New Balance M1400V6  Zapatillas de Runni al 40.0 % de descuento'
 date: 2019/12/30 20:04:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Id5wSGwbL._SL200_.jpg' ]

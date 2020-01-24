@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timex Grid Shock - Reloj digital con cor' al 42.43434343434343 % de descuento
+title: 'Timex Grid Shock - Reloj digital con cor al 42.43434343434343 % de descuento'
 date: 2020-01-14 06:51:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MJDsRUaDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MJDsRUaDL._SL200_.jpg' ]

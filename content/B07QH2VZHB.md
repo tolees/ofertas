@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fruit of the Loom Valueweight 5 Pack Cam' al 47.66301211771494 % de descuento
+title: 'Fruit of the Loom Valueweight 5 Pack Cam al 47.66301211771494 % de descuento'
 date: 2019/10/27 19:35:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ubqhUqELL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ubqhUqELL._SL200_.jpg' ]

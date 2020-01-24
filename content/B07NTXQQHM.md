@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Niños Smart Watch Phone  La Musica Smart' al 34.00680136027206 % de descuento
+title: 'Niños Smart Watch Phone  La Musica Smart al 34.00680136027206 % de descuento'
 date: 2020-01-21 20:43:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZmmuE71nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZmmuE71nL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Fuzex Rush  Zapatillas de Running ' al 57.125 % de descuento
+title: 'Asics Fuzex Rush  Zapatillas de Running  al 57.125 % de descuento'
 date: 2019/10/28 21:37:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bt5SDskIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bt5SDskIL._SL200_.jpg' ]

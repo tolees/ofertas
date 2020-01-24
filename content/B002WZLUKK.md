@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.58068057080131 % en 'Gum Cepillo de Dientes - 30 gr'
+title: 'Descuento del 61.58068057080131 % en Gum Cepillo de Dientes - 30 gr'
 date: 2019/11/05 06:02:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4153bTATM7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4153bTATM7L._SL200_.jpg' ]

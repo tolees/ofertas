@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 76.43636363636364 % en 'Hurley Phantom One&Only 18 Bañador  Homb'
+title: 'Descuento del 76.43636363636364 % en Hurley Phantom One&Only 18 Bañador  Homb'
 date: 2019/11/17 21:14:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EaaLnEbYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EaaLnEbYL._SL200_.jpg' ]

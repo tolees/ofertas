@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler LS 1pkt Shirt Camisa  Rojo  Cri' al 77.44418783679754 % de descuento
+title: 'Wrangler LS 1pkt Shirt Camisa  Rojo  Cri al 77.44418783679754 % de descuento'
 date: 2020-01-12 12:18:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qfbL0YEWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qfbL0YEWL._SL200_.jpg' ]

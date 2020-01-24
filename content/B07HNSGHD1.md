@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toshiba Portege X20W-E-111 - Ordenador p' al 51.87733182589034 % de descuento
+title: 'Toshiba Portege X20W-E-111 - Ordenador p al 51.87733182589034 % de descuento'
 date: 2019/10/07 10:35:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kYNeaRv2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kYNeaRv2L._SL200_.jpg' ]

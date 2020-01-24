@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Cortez  GS   Zapatillas de Running ' al 51.36923076923077 % de descuento
+title: 'Nike Cortez  GS   Zapatillas de Running  al 51.36923076923077 % de descuento'
 date: 2019/10/12 04:20:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4124LiCKbFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4124LiCKbFL._SL200_.jpg' ]

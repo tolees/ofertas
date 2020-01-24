@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.557705136757846 % en 'Pdp - Pixel Pals Street Fighter Ken'
+title: 'Descuento del 36.557705136757846 % en Pdp - Pixel Pals Street Fighter Ken'
 date: 2019/12/23 14:14:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nayolA7CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nayolA7CL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Optimum Nutrition Gold Standard 100% Whe' al 25.089310250068696 % de descuento
+title: 'Optimum Nutrition Gold Standard 100% Whe al 25.089310250068696 % de descuento'
 date: 2019/10/08 18:19:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dbGqQ-tAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dbGqQ-tAL._SL200_.jpg' ]

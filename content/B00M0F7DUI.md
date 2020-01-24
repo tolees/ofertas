@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Paris Sombra de Ojos Color Riche' al 28.20143884892086 % de descuento
+title: 'L Oréal Paris Sombra de Ojos Color Riche al 28.20143884892086 % de descuento'
 date: 2019/11/14 22:08:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Leaw83XyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Leaw83XyL._SL200_.jpg' ]

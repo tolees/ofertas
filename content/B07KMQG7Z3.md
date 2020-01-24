@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cortina de ducha de PEVA ' al 54.55136540962289 % de descuento
+title: 'AmazonBasics - Cortina de ducha de PEVA  al 54.55136540962289 % de descuento'
 date: 2019/10/27 16:03:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61xavpj2EIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61xavpj2EIL._SL200_.jpg' ]

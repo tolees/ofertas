@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.04291845493563 % en 'PUMA ICRA Trainer SD V PS  Zapatillas Un'
+title: 'Descuento del 30.04291845493563 % en PUMA ICRA Trainer SD V PS  Zapatillas Un'
 date: 2019/10/31 13:02:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mXhBzIpCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mXhBzIpCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.8836809288325 % en 'Nike Air MAX Alpha Savage  Zapatillas de'
+title: 'Descuento del 40.8836809288325 % en Nike Air MAX Alpha Savage  Zapatillas de'
 date: 2019/10/21 06:41:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kRoO-ZjrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kRoO-ZjrL._SL200_.jpg' ]

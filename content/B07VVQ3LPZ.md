@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Proyector TAOCOCO Mini Portátil Proyecto' al 47.061591858344606 % de descuento
+title: 'Proyector TAOCOCO Mini Portátil Proyecto al 47.061591858344606 % de descuento'
 date: 2019/12/15 08:46:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51e5u2alSgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51e5u2alSgL._SL200_.jpg' ]

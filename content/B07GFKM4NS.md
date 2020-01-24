@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ellesse Piacentino  Sandalias Deportivas' al 47.21941354903944 % de descuento
+title: 'ellesse Piacentino  Sandalias Deportivas al 47.21941354903944 % de descuento'
 date: 2019/10/21 19:52:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418cnWvYwZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418cnWvYwZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Armour Sport Mesh Swing Tan' al 58.86666666666667 % de descuento
+title: 'Under Armour Armour Sport Mesh Swing Tan al 58.86666666666667 % de descuento'
 date: 2019/10/05 09:05:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d--uvs-3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d--uvs-3L._SL200_.jpg' ]

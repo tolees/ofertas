@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.97011877411896 % en 'Samsung Galaxy S7 G930F 32 GB Smartphone'
+title: 'Descuento del 69.97011877411896 % en Samsung Galaxy S7 G930F 32 GB Smartphone'
 date: 2019/11/03 11:09:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nQtmTjS0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nQtmTjS0L._SL200_.jpg' ]

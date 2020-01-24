@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Avent SCF810/17 - Biberón Anti-c' al 37.6720901126408 % de descuento
+title: 'Philips Avent SCF810/17 - Biberón Anti-c al 37.6720901126408 % de descuento'
 date: 2020-01-12 19:01:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31gORVoVO4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31gORVoVO4L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.79427604246807 % en 'RIP CURL Sun Drenched Fleece Sudadera  H'
+title: 'Descuento del 62.79427604246807 % en RIP CURL Sun Drenched Fleece Sudadera  H'
 date: 2019/11/02 12:13:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414181jaokL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414181jaokL._SL200_.jpg' ]

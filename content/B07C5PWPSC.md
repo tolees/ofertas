@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.02501250625312 % en 'LiuShan Moto G6 Funda  Heavy Duty Silico'
+title: 'Descuento del 50.02501250625312 % en LiuShan Moto G6 Funda  Heavy Duty Silico'
 date: 2019/10/14 20:27:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TPrm3lXcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TPrm3lXcL._SL200_.jpg' ]

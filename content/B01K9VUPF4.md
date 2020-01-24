@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A2BC LED Lighting  Bombilla Esférica con' al 38.95639742673339 % de descuento
+title: 'A2BC LED Lighting  Bombilla Esférica con al 38.95639742673339 % de descuento'
 date: 2019/11/29 08:05:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jd7Zg8UmL._SL200_.jpg' ]

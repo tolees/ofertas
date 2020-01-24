@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bisk 00403 Deco Portarollos con Tapa  11' al 47.20755765490414 % de descuento
+title: 'Bisk 00403 Deco Portarollos con Tapa  11 al 47.20755765490414 % de descuento'
 date: 2019/10/25 05:46:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VT1bqQS6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VT1bqQS6L._SL200_.jpg' ]

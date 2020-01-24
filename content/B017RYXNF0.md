@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Linksys EA9500-EU - Router Gigabit MU-MI' al 39.34976332807395 % de descuento
+title: 'Linksys EA9500-EU - Router Gigabit MU-MI al 39.34976332807395 % de descuento'
 date: 2019/11/06 07:45:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wYF7u3PPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wYF7u3PPL._SL200_.jpg' ]

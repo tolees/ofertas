@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scottex Original Papel Higiénico - 96 Ro' al 25.080385852090036 % de descuento
+title: 'Scottex Original Papel Higiénico - 96 Ro al 25.080385852090036 % de descuento'
 date: 2020-01-23 19:10:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516wKVfyS9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516wKVfyS9L._SL200_.jpg' ]

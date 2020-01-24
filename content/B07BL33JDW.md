@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'New Balance Fuel Core NERGIZE  Zapatilla'
+title: 'Descuento del 50.0 % en New Balance Fuel Core NERGIZE  Zapatilla'
 date: 2019/11/15 09:33:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M6xk5cChL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M6xk5cChL._SL200_.jpg' ]

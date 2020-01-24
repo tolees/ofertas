@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bausch & Lomb - Soflens 59 Esféricas - L' al 82.36514522821577 % de descuento
+title: 'Bausch & Lomb - Soflens 59 Esféricas - L al 82.36514522821577 % de descuento'
 date: 2019/12/08 16:42:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-APcYqwTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-APcYqwTL._SL200_.jpg' ]

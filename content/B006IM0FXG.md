@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tamron B011S AF 18-200 mm F/3 5-6.3 - Ob' al 25.393419170243202 % de descuento
+title: 'Tamron B011S AF 18-200 mm F/3 5-6.3 - Ob al 25.393419170243202 % de descuento'
 date: 2020-01-02 19:32:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4191QrOFj7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4191QrOFj7L._SL200_.jpg' ]

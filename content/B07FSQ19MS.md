@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.02251125562782 % en 'Clarks Un Maui Lace  Zapatos de Cordones'
+title: 'Descuento del 45.02251125562782 % en Clarks Un Maui Lace  Zapatos de Cordones'
 date: 2019/12/05 20:22:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UojqRsbXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UojqRsbXL._SL200_.jpg' ]

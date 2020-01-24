@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsung EF-WA600 5.6" Funda cartera Negr' al 73.37792642140468 % de descuento
+title: 'Samsung EF-WA600 5.6" Funda cartera Negr al 73.37792642140468 % de descuento'
 date: 2019/10/18 16:31:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31434BqjyAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31434BqjyAL._SL200_.jpg' ]

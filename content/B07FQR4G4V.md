@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.63408521303259 % en 'GANT Footwear Zoee  Zapatillas para Muje'
+title: 'Descuento del 53.63408521303259 % en GANT Footwear Zoee  Zapatillas para Muje'
 date: 2019/10/15 10:34:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KYH5q3xDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KYH5q3xDL._SL200_.jpg' ]

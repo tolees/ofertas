@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Jeans Mujer  Cropped Lana Embroide' al 76.46511627906976 % de descuento
+title: 'Tommy Jeans Mujer  Cropped Lana Embroide al 76.46511627906976 % de descuento'
 date: 2019/10/12 18:57:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vdgX9USIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vdgX9USIL._SL200_.jpg' ]

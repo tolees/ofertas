@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pulseras de Mujer Letra I Pulsera de la ' al 68.91111111111111 % de descuento
+title: 'Pulseras de Mujer Letra I Pulsera de la  al 68.91111111111111 % de descuento'
 date: 2019/10/20 16:28:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QdJjNtjdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QdJjNtjdL._SL200_.jpg' ]

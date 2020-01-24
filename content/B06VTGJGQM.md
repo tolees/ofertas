@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Sábana bajera ajustable  ' al 25.010004001600638 % de descuento
+title: 'AmazonBasics - Sábana bajera ajustable   al 25.010004001600638 % de descuento'
 date: 2019/11/12 09:07:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ub4NioNYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ub4NioNYL._SL200_.jpg' ]

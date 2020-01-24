@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.4206315187884 % en 'Code Vein'
+title: 'Descuento del 44.4206315187884 % en Code Vein'
 date: 2020-01-21 17:56:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61fjrmzN68L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61fjrmzN68L._SL200_.jpg' ]

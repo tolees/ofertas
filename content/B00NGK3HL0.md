@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Comodynes Parches Reductores Corporales ' al 50.53857350800583 % de descuento
+title: 'Comodynes Parches Reductores Corporales  al 50.53857350800583 % de descuento'
 date: 2019/10/23 10:32:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d4-N2K6hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d4-N2K6hL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Johnnie Walker Black Label - Blended Sco' al 28.102532041262897 % de descuento
+title: 'Johnnie Walker Black Label - Blended Sco al 28.102532041262897 % de descuento'
 date: 2019/12/10 19:47:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HIzkCLPbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HIzkCLPbL._SL200_.jpg' ]

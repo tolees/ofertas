@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Uomo Carnaby D  Zapatos de Cuero co' al 59.49949949949951 % de descuento
+title: 'Geox Uomo Carnaby D  Zapatos de Cuero co al 59.49949949949951 % de descuento'
 date: 2019/12/01 06:04:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vRUmVxgsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vRUmVxgsL._SL200_.jpg' ]

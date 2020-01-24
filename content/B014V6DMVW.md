@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler ARIZONA-W12O3339E Vaqueros  Azu' al 83.81322957198444 % de descuento
+title: 'Wrangler ARIZONA-W12O3339E Vaqueros  Azu al 83.81322957198444 % de descuento'
 date: 2019/10/18 02:42:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415ysmMJF-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415ysmMJF-L._SL200_.jpg' ]

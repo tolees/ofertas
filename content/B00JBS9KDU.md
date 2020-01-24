@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kempa Tejido Pantalón Corto de Entrenami' al 72.5181295323831 % de descuento
+title: 'Kempa Tejido Pantalón Corto de Entrenami al 72.5181295323831 % de descuento'
 date: 2019/11/15 10:11:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31V8oElqmXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31V8oElqmXL._SL200_.jpg' ]

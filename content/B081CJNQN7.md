@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.70786516853933 % en 'Geographical Norway Chaqueta NIÑO BIBLOS'
+title: 'Descuento del 33.70786516853933 % en Geographical Norway Chaqueta NIÑO BIBLOS'
 date: 2019/12/30 18:15:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jYpogMUkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jYpogMUkL._SL200_.jpg' ]

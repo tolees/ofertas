@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KappaKOMBO MID Footwear unisex - Zapatil' al 53.37781484570476 % de descuento
+title: 'KappaKOMBO MID Footwear unisex - Zapatil al 53.37781484570476 % de descuento'
 date: 2019/11/13 16:57:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RHiBEi3nL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RHiBEi3nL._SL200_.jpg' ]

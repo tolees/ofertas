@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lijadora Eléctrica  TECCPO Professional ' al 73.40122947059363 % de descuento
+title: 'Lijadora Eléctrica  TECCPO Professional  al 73.40122947059363 % de descuento'
 date: 2019/11/28 18:41:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510LeFJpX5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510LeFJpX5L._SL200_.jpg' ]

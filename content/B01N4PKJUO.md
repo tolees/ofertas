@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 80.86447546150383 % en 'edc by Esprit 047cc1c001  Short Mujer  B'
+title: 'Descuento del 80.86447546150383 % en edc by Esprit 047cc1c001  Short Mujer  B'
 date: 2019/12/23 14:50:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uMP4bAdeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uMP4bAdeL._SL200_.jpg' ]

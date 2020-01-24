@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ready 2 Robot Serie 1 - Bot Blaster Caps' al 76.69223074358119 % de descuento
+title: 'Ready 2 Robot Serie 1 - Bot Blaster Caps al 76.69223074358119 % de descuento'
 date: 2020-01-20 10:14:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a9ECmytQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a9ECmytQL._SL200_.jpg' ]

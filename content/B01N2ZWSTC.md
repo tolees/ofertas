@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher G 180Q Pistole Quick Connect  2.' al 31.70158187259513 % de descuento
+title: 'Kärcher G 180Q Pistole Quick Connect  2. al 31.70158187259513 % de descuento'
 date: 2019/11/06 08:44:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B7dsdezOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B7dsdezOL._SL200_.jpg' ]

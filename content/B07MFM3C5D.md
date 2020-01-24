@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.8090909090909 % en 'Clarks Batcombe Wing  Zapatos de Cordone'
+title: 'Descuento del 58.8090909090909 % en Clarks Batcombe Wing  Zapatos de Cordone'
 date: 2019/11/02 03:03:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31aebg6PCIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31aebg6PCIL._SL200_.jpg' ]

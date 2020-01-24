@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Ward Canvas  Zapatillas Hombre  Neg' al 45.11428571428571 % de descuento
+title: 'Vans Ward Canvas  Zapatillas Hombre  Neg al 45.11428571428571 % de descuento'
 date: 2019/11/29 06:17:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xRQSyY4RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xRQSyY4RL._SL200_.jpg' ]

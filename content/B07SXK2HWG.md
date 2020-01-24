@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Muzili Auriculares Inalámbricos Bluetoot' al 25.006251562890736 % de descuento
+title: 'Muzili Auriculares Inalámbricos Bluetoot al 25.006251562890736 % de descuento'
 date: 2019/12/10 16:19:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AH27BPZEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AH27BPZEL._SL200_.jpg' ]

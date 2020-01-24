@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger New Chiara Str Pq Polo SS' al 60.21702838063439 % de descuento
+title: 'Tommy Hilfiger New Chiara Str Pq Polo SS al 60.21702838063439 % de descuento'
 date: 2019/11/14 18:14:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xl2HjEsdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xl2HjEsdL._SL200_.jpg' ]

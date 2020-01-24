@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.25454545454546 % en 'Burton Treble Yell Mochila  Unisex Adult'
+title: 'Descuento del 35.25454545454546 % en Burton Treble Yell Mochila  Unisex Adult'
 date: 2019/12/09 06:24:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31LMqmVyw9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31LMqmVyw9L._SL200_.jpg' ]

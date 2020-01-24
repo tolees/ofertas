@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Blazin SS Camisetas  Hombre  Bla' al 61.68996188055908 % de descuento
+title: 'Element Blazin SS Camisetas  Hombre  Bla al 61.68996188055908 % de descuento'
 date: 2020-01-14 17:26:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iY4pSzPpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iY4pSzPpL._SL200_.jpg' ]

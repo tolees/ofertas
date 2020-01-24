@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.98799599866622 % en '8-Bit Armies'
+title: 'Descuento del 63.98799599866622 % en 8-Bit Armies'
 date: 2020-01-15 15:03:02
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b8f5tCC8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b8f5tCC8L._SL200_.jpg' ]

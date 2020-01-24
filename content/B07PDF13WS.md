@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.008001600320064 % en 'Umami® ⭐ Lunch Box Rose Kawaii | Bento B'
+title: 'Descuento del 40.008001600320064 % en Umami® ⭐ Lunch Box Rose Kawaii | Bento B'
 date: 2019/10/30 22:09:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RjUDHAu-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RjUDHAu-L._SL200_.jpg' ]

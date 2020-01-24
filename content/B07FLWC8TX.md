@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Little Big Planet 3 Hits - Versión 14' al 52.52626313156578 % de descuento
+title: 'Little Big Planet 3 Hits - Versión 14 al 52.52626313156578 % de descuento'
 date: 2019/12/27 08:37:14 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

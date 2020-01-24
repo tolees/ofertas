@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.69367052436062 % en 'Springfield 5Ua-PU Gds C/Funnel  Chaquet'
+title: 'Descuento del 55.69367052436062 % en Springfield 5Ua-PU Gds C/Funnel  Chaquet'
 date: 2019/11/13 20:42:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ng-pjlxXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ng-pjlxXL._SL200_.jpg' ]

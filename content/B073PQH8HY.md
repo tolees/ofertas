@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etekcity Colchón Hinchable de Aire  191 ' al 30.003000300030003 % de descuento
+title: 'Etekcity Colchón Hinchable de Aire  191  al 30.003000300030003 % de descuento'
 date: 2020-01-22 16:59:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413a8m48SGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413a8m48SGL._SL200_.jpg' ]

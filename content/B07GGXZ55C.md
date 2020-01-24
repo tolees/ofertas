@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amplificador de Señal Celular Teléfonos ' al 71.61584454409567 % de descuento
+title: 'Amplificador de Señal Celular Teléfonos  al 71.61584454409567 % de descuento'
 date: 2020-01-03 12:57:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FI94dH91L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FI94dH91L._SL200_.jpg' ]

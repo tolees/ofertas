@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Feketeuki Colorido árbol de Navidad de N' al 41.32231404958679 % de descuento
+title: 'Feketeuki Colorido árbol de Navidad de N al 41.32231404958679 % de descuento'
 date: 2020-01-23 11:31:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31N4SvP5EbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31N4SvP5EbL._SL200_.jpg' ]

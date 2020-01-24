@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etnies Barge Ls  Zapatillas de Skateboar' al 76.38364779874213 % de descuento
+title: 'Etnies Barge Ls  Zapatillas de Skateboar al 76.38364779874213 % de descuento'
 date: 2019/10/29 14:29:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319Ex5WoIqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319Ex5WoIqL._SL200_.jpg' ]

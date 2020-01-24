@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.550383964042645 % en 'Acer Predator Orion 3000 - PO3-600 - Ord'
+title: 'Descuento del 25.550383964042645 % en Acer Predator Orion 3000 - PO3-600 - Ord'
 date: 2019/10/25 11:15:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41G%2BRe5OgtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41G%2BRe5OgtL._SL200_.jpg' ]

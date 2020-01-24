@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAM. DMZ051SLV. Smartwatch Bluetooth Tip' al 73.16107382550335 % de descuento
+title: 'DAM. DMZ051SLV. Smartwatch Bluetooth Tip al 73.16107382550335 % de descuento'
 date: 2019/11/25 15:01:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JW2Up5hvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JW2Up5hvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Logo Sweat TR Cl B Chándal  Niñ' al 54.95826377295492 % de descuento
+title: 'PUMA ESS Logo Sweat TR Cl B Chándal  Niñ al 54.95826377295492 % de descuento'
 date: 2019/10/08 18:33:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41A9sl7sQBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41A9sl7sQBL._SL200_.jpg' ]

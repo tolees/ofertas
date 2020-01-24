@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.10344827586207 % en 'Tommy Jeans Hombre Circular  Camiseta Ma'
+title: 'Descuento del 49.10344827586207 % en Tommy Jeans Hombre Circular  Camiseta Ma'
 date: 2019/10/30 17:08:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mw1wxpjWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mw1wxpjWL._SL200_.jpg' ]

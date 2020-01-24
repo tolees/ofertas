@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MSI GT76 9SG-028 Titan DT 4K  43 9 cm/17' al 51.50030618493571 % de descuento
+title: 'MSI GT76 9SG-028 Titan DT 4K  43 9 cm/17 al 51.50030618493571 % de descuento'
 date: 2019/12/17 16:31:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51oEVU4oqzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51oEVU4oqzL._SL200_.jpg' ]

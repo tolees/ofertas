@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nautica K91010 Polo  Verde  Mist Green 3' al 67.3220338983051 % de descuento
+title: 'Nautica K91010 Polo  Verde  Mist Green 3 al 67.3220338983051 % de descuento'
 date: 2019/10/16 10:12:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31s0JQzkGJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31s0JQzkGJL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Karl Lagerfeld 42739 - Agua de perfume P' al 70.58823529411764 % de descuento
+title: 'Karl Lagerfeld 42739 - Agua de perfume P al 70.58823529411764 % de descuento'
 date: 2019/10/16 23:04:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V91yAuLoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V91yAuLoL._SL200_.jpg' ]

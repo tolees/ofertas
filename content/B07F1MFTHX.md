@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LARNMERN Zapatos de Seguridad para Hombr' al 36.928758270503145 % de descuento
+title: 'LARNMERN Zapatos de Seguridad para Hombr al 36.928758270503145 % de descuento'
 date: 2019/10/21 10:10:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UF4gysdkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UF4gysdkL._SL200_.jpg' ]

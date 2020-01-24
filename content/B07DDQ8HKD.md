@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vila Clothes Viplace V-Neck Knit Top-Noo' al 60.578420467185765 % de descuento
+title: 'Vila Clothes Viplace V-Neck Knit Top-Noo al 60.578420467185765 % de descuento'
 date: 2020-01-22 12:06:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hW8rwkYnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hW8rwkYnL._SL200_.jpg' ]

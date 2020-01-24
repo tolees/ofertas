@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XuanPad Mini Proyector Multimedia Vídeo ' al 59.60101010101011 % de descuento
+title: 'XuanPad Mini Proyector Multimedia Vídeo  al 59.60101010101011 % de descuento'
 date: 2020-01-24 09:49:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/418knE5ozaL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418knE5ozaL._AC_._SL200_.jpg' ]

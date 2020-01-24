@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Tach Trunk 3 Pack Bañador  Ne' al 35.04380475594494 % de descuento
+title: 'G-STAR RAW Tach Trunk 3 Pack Bañador  Ne al 35.04380475594494 % de descuento'
 date: 2019/10/17 09:29:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nIpZgXQsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nIpZgXQsL._SL200_.jpg' ]

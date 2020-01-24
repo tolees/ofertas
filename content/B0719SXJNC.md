@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.209841968393675 % en 'FEBER- Motofeber 2 Cars 3  Famosa 800011'
+title: 'Descuento del 49.209841968393675 % en FEBER- Motofeber 2 Cars 3  Famosa 800011'
 date: 2019/10/17 02:49:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xzfPaRiaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xzfPaRiaL._SL200_.jpg' ]

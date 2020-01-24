@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.191489361702125 % en 'Kappa Modus II  Zapatillas Unisex Adulto'
+title: 'Descuento del 53.191489361702125 % en Kappa Modus II  Zapatillas Unisex Adulto'
 date: 2019/12/12 13:56:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uYTv7Ft-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uYTv7Ft-L._SL200_.jpg' ]

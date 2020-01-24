@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kérastase  Champú y acondicionador - 1 u' al 36.57740039190072 % de descuento
+title: 'Kérastase  Champú y acondicionador - 1 u al 36.57740039190072 % de descuento'
 date: 2019/10/21 06:42:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xzeHFJWeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xzeHFJWeL._SL200_.jpg' ]

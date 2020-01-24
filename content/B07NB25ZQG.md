@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.62727272727273 % en 'Diesel T-gorou Polo Shirt  Negro  Black '
+title: 'Descuento del 74.62727272727273 % en Diesel T-gorou Polo Shirt  Negro  Black '
 date: 2019/11/12 07:51:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PP8VoiLpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PP8VoiLpL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pack The Wire Temporada 1-5 Blu-Ray [Blu' al 41.87106774870065 % de descuento
+title: 'Pack The Wire Temporada 1-5 Blu-Ray [Blu al 41.87106774870065 % de descuento'
 date: 2020-01-17 11:31:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tojpVLVsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tojpVLVsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Plus Size 311 Pl Shaping Skinny V' al 35.56666666666667 % de descuento
+title: 'Levi s Plus Size 311 Pl Shaping Skinny V al 35.56666666666667 % de descuento'
 date: 2019/11/02 11:25:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qWmTojXaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qWmTojXaL._SL200_.jpg' ]

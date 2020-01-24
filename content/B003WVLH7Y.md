@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic ES-RF31 4 Blade Electric Shave' al 63.435214700918806 % de descuento
+title: 'Panasonic ES-RF31 4 Blade Electric Shave al 63.435214700918806 % de descuento'
 date: 2020-01-10 11:53:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zsuVzeumL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zsuVzeumL._SL200_.jpg' ]

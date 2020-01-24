@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AUCARY Proyector  Mini Proyector T7  Pro' al 36.99992124744054 % de descuento
+title: 'AUCARY Proyector  Mini Proyector T7  Pro al 36.99992124744054 % de descuento'
 date: 2020-01-10 20:07:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41808fnaY0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41808fnaY0L._SL200_.jpg' ]

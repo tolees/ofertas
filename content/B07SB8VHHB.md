@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS ROG Rapture GT-AC2900 - Router Gami' al 27.33910034602076 % de descuento
+title: 'ASUS ROG Rapture GT-AC2900 - Router Gami al 27.33910034602076 % de descuento'
 date: 2019/12/18 23:24:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XLQIev5DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XLQIev5DL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.52551845859685 % en 'Moser MAX 50  Maquina Cortapelo para Ani'
+title: 'Descuento del 48.52551845859685 % en Moser MAX 50  Maquina Cortapelo para Ani'
 date: 2019/10/14 18:43:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ErQaH7ncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ErQaH7ncL._SL200_.jpg' ]

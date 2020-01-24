@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Killington Chukka  Zapatillas' al 32.31872393356259 % de descuento
+title: 'Timberland Killington Chukka  Zapatillas al 32.31872393356259 % de descuento'
 date: 2019/10/29 15:12:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4135Yc8SHnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4135Yc8SHnL._SL200_.jpg' ]

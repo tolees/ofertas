@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maybelline New York SuperStay 3D Efecto ' al 34.76394849785408 % de descuento
+title: 'Maybelline New York SuperStay 3D Efecto  al 34.76394849785408 % de descuento'
 date: 2019/12/06 04:59:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k6ykBAPKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k6ykBAPKL._SL200_.jpg' ]

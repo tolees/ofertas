@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.66666666666667 % en 'Levi s Modern Hm Hoodie Capucha  Marrón '
+title: 'Descuento del 36.66666666666667 % en Levi s Modern Hm Hoodie Capucha  Marrón '
 date: 2020-01-12 03:19:44
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4133csUS0LL._SL200_.jpg' ]

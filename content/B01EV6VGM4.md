@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Woxter Big Bass 260 S - Altavoces 2.1  1' al 25.00416736122687 % de descuento
+title: 'Woxter Big Bass 260 S - Altavoces 2.1  1 al 25.00416736122687 % de descuento'
 date: 2020-01-23 01:01:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sjeHPVzQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sjeHPVzQL._SL200_.jpg' ]

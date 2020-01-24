@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Element Howland Classic WK Walkshort  Ho' al 40.30909090909092 % de descuento
+title: 'Element Howland Classic WK Walkshort  Ho al 40.30909090909092 % de descuento'
 date: 2019/11/30 18:11:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RugnJq0YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RugnJq0YL._SL200_.jpg' ]

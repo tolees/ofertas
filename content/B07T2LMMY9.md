@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tikea Bolsa Geométrica Luminosa Holográf' al 46.68222740913638 % de descuento
+title: 'Tikea Bolsa Geométrica Luminosa Holográf al 46.68222740913638 % de descuento'
 date: 2020-01-02 16:32:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IBFGVykHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IBFGVykHL._SL200_.jpg' ]

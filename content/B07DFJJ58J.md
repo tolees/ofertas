@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop! Smallfoot - Figura de Vinilo Migo' al 56.42633228840125 % de descuento
+title: 'Pop! Smallfoot - Figura de Vinilo Migo al 56.42633228840125 % de descuento'
 date: 2019/10/22 12:05:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rX6brhahL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rX6brhahL._SL200_.jpg' ]

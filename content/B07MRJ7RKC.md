@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sh6342 Sudadera  Marrón  Baobab ' al 44.18333333333333 % de descuento
+title: 'Lacoste Sh6342 Sudadera  Marrón  Baobab  al 44.18333333333333 % de descuento'
 date: 2019/10/11 08:25:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21iZKXnyMNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21iZKXnyMNL._SL200_.jpg' ]

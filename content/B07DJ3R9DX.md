@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.49166666666667 % en 'New Balance Revlite 890v6  Zapatillas de'
+title: 'Descuento del 51.49166666666667 % en New Balance Revlite 890v6  Zapatillas de'
 date: 2019/11/07 14:44:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IGdw%2BxGfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IGdw%2BxGfL._SL200_.jpg' ]

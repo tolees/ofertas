@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.4140127388535 % en 'HP Pavilion 590-p0571ng Desktop PC  AMD '
+title: 'Descuento del 55.4140127388535 % en HP Pavilion 590-p0571ng Desktop PC  AMD '
 date: 2019/11/26 08:13:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313hCIJVa%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313hCIJVa%2BL._SL200_.jpg' ]

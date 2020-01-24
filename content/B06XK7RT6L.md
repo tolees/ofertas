@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.93742177722153 % en 'Pasito a pasito 73748 - Bolsa canastilla'
+title: 'Descuento del 39.93742177722153 % en Pasito a pasito 73748 - Bolsa canastilla'
 date: 2020-01-08 16:26:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qi1Dky0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qi1Dky0aL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarks Rushwaymid GTX  Botas Chelsea par' al 56.16875 % de descuento
+title: 'Clarks Rushwaymid GTX  Botas Chelsea par al 56.16875 % de descuento'
 date: 2019/10/31 15:29:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KnNRlNksL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KnNRlNksL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.15894868585732 % en 'Skechers Go Run 600-recess Chic  Zapatil'
+title: 'Descuento del 27.15894868585732 % en Skechers Go Run 600-recess Chic  Zapatil'
 date: 2019/11/02 12:46:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fWiHZkO0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fWiHZkO0L._SL200_.jpg' ]

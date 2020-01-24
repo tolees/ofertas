@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rocket DogSidestep - Botas Estilo Motero' al 26.768769768603295 % de descuento
+title: 'Rocket DogSidestep - Botas Estilo Motero al 26.768769768603295 % de descuento'
 date: 2019/10/29 12:19:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S5KohuY7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S5KohuY7L._SL200_.jpg' ]

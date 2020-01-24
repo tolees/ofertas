@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.0671256454389 % en 'Pepe Jeans Noah Short Checkered   Azul  '
+title: 'Descuento del 56.0671256454389 % en Pepe Jeans Noah Short Checkered   Azul  '
 date: 2019/10/09 18:15:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41lcOgr2a5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41lcOgr2a5L._SL200_.jpg' ]

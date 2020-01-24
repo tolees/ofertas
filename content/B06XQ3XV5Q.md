@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Vest_ulianne Vestido  Negro 200' al 70.19299499642602 % de descuento
+title: 'Desigual Vest_ulianne Vestido  Negro 200 al 70.19299499642602 % de descuento'
 date: 2019/11/08 05:12:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j-LHah2wL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j-LHah2wL._SL200_.jpg' ]

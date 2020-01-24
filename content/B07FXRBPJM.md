@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vans Palomar  Zapatillas para Mujer  Neg' al 44.857142857142854 % de descuento
+title: 'Vans Palomar  Zapatillas para Mujer  Neg al 44.857142857142854 % de descuento'
 date: 2019/11/13 15:43:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41laAhKT-rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41laAhKT-rL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.0 % en 'Abanderado ASA03JP Bóxers  Negro  M/48/M'
+title: 'Descuento del 36.0 % en Abanderado ASA03JP Bóxers  Negro  M/48/M'
 date: 2019/10/13 08:52:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TnALZFubL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TnALZFubL._SL200_.jpg' ]

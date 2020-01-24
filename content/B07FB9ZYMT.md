@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FC Barcelona 411829847 2018 Neceser 23 c' al 38.490709139173305 % de descuento
+title: 'FC Barcelona 411829847 2018 Neceser 23 c al 38.490709139173305 % de descuento'
 date: 2019/10/19 01:13:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t8g6fDs0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t8g6fDs0L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IKOHS ION CERAMIC - Secador de Pelo Ióni' al 28.591851322373117 % de descuento
+title: 'IKOHS ION CERAMIC - Secador de Pelo Ióni al 28.591851322373117 % de descuento'
 date: 2019/12/18 18:11:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qZdyBydnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qZdyBydnL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.354398179140446 % en 'Memoria USB Universal de 128 GB  Pen Dri'
+title: 'Descuento del 37.354398179140446 % en Memoria USB Universal de 128 GB  Pen Dri'
 date: 2020-01-12 23:47:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Hp9pPATL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Hp9pPATL._SL200_.jpg' ]

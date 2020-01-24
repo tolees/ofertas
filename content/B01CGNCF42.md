@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schwarzkopf Laca - 300 ml' al 45.81395348837209 % de descuento
+title: 'Schwarzkopf Laca - 300 ml al 45.81395348837209 % de descuento'
 date: 2019/10/30 21:12:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41egsi5Jh3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41egsi5Jh3L._SL200_.jpg' ]

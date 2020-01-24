@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BaByliss iPro 230 Steam - Plancha de vap' al 38.448448448448445 % de descuento
+title: 'BaByliss iPro 230 Steam - Plancha de vap al 38.448448448448445 % de descuento'
 date: 2020-01-08 06:14:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417s45CFg%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417s45CFg%2BL._SL200_.jpg' ]

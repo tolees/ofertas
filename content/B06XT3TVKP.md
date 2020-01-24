@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.563578415210454 % en 'MSI GeForce GTX 1080 Ti Gaming X 11G - T'
+title: 'Descuento del 28.563578415210454 % en MSI GeForce GTX 1080 Ti Gaming X 11G - T'
 date: 2019/10/14 21:35:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NJUzbrlML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NJUzbrlML._SL200_.jpg' ]

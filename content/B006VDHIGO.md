@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gillette Set De Rasuradoras - 30 ml' al 60.27895694360218 % de descuento
+title: 'Gillette Set De Rasuradoras - 30 ml al 60.27895694360218 % de descuento'
 date: 2019/10/12 00:24:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51GzisZun0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51GzisZun0L._SL200_.jpg' ]

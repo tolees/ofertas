@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield Oxford Melange Camisa Casual' al 45.615205068356126 % de descuento
+title: 'Springfield Oxford Melange Camisa Casual al 45.615205068356126 % de descuento'
 date: 2019/11/12 11:06:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zcvT0jiWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zcvT0jiWL._SL200_.jpg' ]

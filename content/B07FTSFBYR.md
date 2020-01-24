@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.17647058823529 % en 'Lee Logo tee Camiseta  Marfil  Radiant Y'
+title: 'Descuento del 41.17647058823529 % en Lee Logo tee Camiseta  Marfil  Radiant Y'
 date: 2019/12/05 20:44:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GC%2B2hEsZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GC%2B2hEsZL._SL200_.jpg' ]

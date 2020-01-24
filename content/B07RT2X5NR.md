@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.04408817635271 % en 'HUION Tableta gráfica Kamvas Pro 16 - IP'
+title: 'Descuento del 37.04408817635271 % en HUION Tableta gráfica Kamvas Pro 16 - IP'
 date: 2019/12/30 04:10:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Rf2dsz2kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Rf2dsz2kL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chaqueta polar Columbia 1420421 para hom' al 46.00920184036808 % de descuento
+title: 'Chaqueta polar Columbia 1420421 para hom al 46.00920184036808 % de descuento'
 date: 2019/12/27 08:07:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg' ]

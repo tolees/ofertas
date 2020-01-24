@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.02692307692308 % en 'Helly Hansen W Salt Power Jacket  Mujer '
+title: 'Descuento del 66.02692307692308 % en Helly Hansen W Salt Power Jacket  Mujer '
 date: 2019/11/21 23:58:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-DWQOQeyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-DWQOQeyL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.453945394539446 % en 'adidas Stan Smith S75104  Zapatillas par'
+title: 'Descuento del 39.453945394539446 % en adidas Stan Smith S75104  Zapatillas par'
 date: 2020-01-07 19:36:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31uk4ZI6L4L._SL200_.jpg' ]

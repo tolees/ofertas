@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.201689545934535 % en 'Quiksilver Molokai Variable Volley  Zapa'
+title: 'Descuento del 47.201689545934535 % en Quiksilver Molokai Variable Volley  Zapa'
 date: 2019/12/01 10:35:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hu9HNhNxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hu9HNhNxL._SL200_.jpg' ]

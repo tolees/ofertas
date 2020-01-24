@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Power Bank 25000mAh  Bateria Externa par' al 60.0120024004801 % de descuento
+title: 'Power Bank 25000mAh  Bateria Externa par al 60.0120024004801 % de descuento'
 date: 2019/12/10 23:31:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Y6muIiA5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Y6muIiA5L._SL200_.jpg' ]

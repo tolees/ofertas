@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox Strada H  Sandalias con Punta Abier' al 46.45207439198856 % de descuento
+title: 'Geox Strada H  Sandalias con Punta Abier al 46.45207439198856 % de descuento'
 date: 2019/12/09 19:08:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3117JmAWUmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3117JmAWUmL._SL200_.jpg' ]

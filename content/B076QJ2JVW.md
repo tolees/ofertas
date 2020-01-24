@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Moussel Classique Gel Moussant 900 Ml - ' al 40.83694083694084 % de descuento
+title: 'Moussel Classique Gel Moussant 900 Ml -  al 40.83694083694084 % de descuento'
 date: 2020-01-12 06:56:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ej1wAqGOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ej1wAqGOL._SL200_.jpg' ]

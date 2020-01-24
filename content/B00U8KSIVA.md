@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.7344336084021 % en 'Panasonic Lumix DC-TZ70 - Cámara Compact'
+title: 'Descuento del 37.7344336084021 % en Panasonic Lumix DC-TZ70 - Cámara Compact'
 date: 2020-01-16 09:43:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41M0VoLGlbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41M0VoLGlbL._SL200_.jpg' ]

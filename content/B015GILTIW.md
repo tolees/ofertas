@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.472727272727276 % en 'Nike Jr Mercurial Victory V IC  Botas de'
+title: 'Descuento del 45.472727272727276 % en Nike Jr Mercurial Victory V IC  Botas de'
 date: 2019/10/17 22:06:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413mO2l-6WL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413mO2l-6WL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Saucony Xodus ISO 3  Zapatillas de Trail' al 36.87499999999999 % de descuento
+title: 'Saucony Xodus ISO 3  Zapatillas de Trail al 36.87499999999999 % de descuento'
 date: 2019/11/15 07:50:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SsaAti32L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SsaAti32L._SL200_.jpg' ]

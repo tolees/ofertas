@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Continental 80  Zapatillas de Gim' al 32.77638819409705 % de descuento
+title: 'Adidas Continental 80  Zapatillas de Gim al 32.77638819409705 % de descuento'
 date: 2019/10/08 22:38:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fM6zioS3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fM6zioS3L._SL200_.jpg' ]

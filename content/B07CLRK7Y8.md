@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OMRON VIVA - Báscula inteligente y monit' al 61.248062015503876 % de descuento
+title: 'OMRON VIVA - Báscula inteligente y monit al 61.248062015503876 % de descuento'
 date: 2020-01-20 17:06:25
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

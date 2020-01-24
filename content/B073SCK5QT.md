@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 70.0 % en 'find. Camiseta para Hombre  Rosa  Deauvi'
+title: 'Descuento del 70.0 % en find. Camiseta para Hombre  Rosa  Deauvi'
 date: 2019/10/15 17:22:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XlC9QZ-mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XlC9QZ-mL._SL200_.jpg' ]

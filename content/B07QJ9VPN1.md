@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Onduva Plancha Ropa Vertical 2en1 - Vapo' al 49.629777866720026 % de descuento
+title: 'Onduva Plancha Ropa Vertical 2en1 - Vapo al 49.629777866720026 % de descuento'
 date: 2019/11/22 10:43:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418QxMc3uOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418QxMc3uOL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Davis Square Leather Oxford  ' al 51.160355958820446 % de descuento
+title: 'Timberland Davis Square Leather Oxford   al 51.160355958820446 % de descuento'
 date: 2020-01-11 21:03:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/314vrfCxyKL._SL200_.jpg' ]

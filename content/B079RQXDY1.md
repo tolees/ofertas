@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.388235294117656 % en 'Pepe Jeans Dina Stripe PL701364 suéter  '
+title: 'Descuento del 62.388235294117656 % en Pepe Jeans Dina Stripe PL701364 suéter  '
 date: 2019/11/01 20:02:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fo7NnLdDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fo7NnLdDL._SL200_.jpg' ]

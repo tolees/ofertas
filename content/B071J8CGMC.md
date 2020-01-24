@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Garmin VIRB 360 - wasserdichte 360-Grad-' al 44.57063672338176 % de descuento
+title: 'Garmin VIRB 360 - wasserdichte 360-Grad- al 44.57063672338176 % de descuento'
 date: 2020-01-10 08:39:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ESXxFacBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ESXxFacBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.151021574510644 % en 'Dead Or Alive 6 Xbox One'
+title: 'Descuento del 57.151021574510644 % en Dead Or Alive 6 Xbox One'
 date: 2019/11/13 16:57:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JAQhHvrJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JAQhHvrJL._SL200_.jpg' ]

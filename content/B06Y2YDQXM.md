@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ANNKE Sistema de seguridad Kit de 8 CCTV' al 26.00052001040021 % de descuento
+title: 'ANNKE Sistema de seguridad Kit de 8 CCTV al 26.00052001040021 % de descuento'
 date: 2019/11/12 17:26:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HU0Lf3RIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HU0Lf3RIL._SL200_.jpg' ]

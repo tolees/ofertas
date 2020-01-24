@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.59059921062074 % en 'CRZ YOGA Sujetador Deportivo Yoga para M'
+title: 'Descuento del 42.59059921062074 % en CRZ YOGA Sujetador Deportivo Yoga para M'
 date: 2019/11/22 17:19:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VSilOjKcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VSilOjKcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Laxtto Elefante Peluche de Juguete Músic' al 55.898793762871435 % de descuento
+title: 'Laxtto Elefante Peluche de Juguete Músic al 55.898793762871435 % de descuento'
 date: 2019/12/07 12:04:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MGcTJVtlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MGcTJVtlL._SL200_.jpg' ]

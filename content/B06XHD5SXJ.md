@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen Verglas Hooded Down Insulat' al 47.7576923076923 % de descuento
+title: 'Helly Hansen Verglas Hooded Down Insulat al 47.7576923076923 % de descuento'
 date: 2019/12/20 01:33:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Kb98aGuML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Kb98aGuML._SL200_.jpg' ]

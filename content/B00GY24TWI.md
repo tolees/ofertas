@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.21857923497268 % en 'LACER Clorhexidina Colutorio 500 ml'
+title: 'Descuento del 45.21857923497268 % en LACER Clorhexidina Colutorio 500 ml'
 date: 2019/12/13 06:45:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ylGxpIesL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ylGxpIesL._SL200_.jpg' ]

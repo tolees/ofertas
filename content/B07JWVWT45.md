@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma ESS+ Logo Cropped Hoody Sudadera  M' al 43.025583982202456 % de descuento
+title: 'Puma ESS+ Logo Cropped Hoody Sudadera  M al 43.025583982202456 % de descuento'
 date: 2019/10/11 07:23:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aX10KIvwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aX10KIvwL._SL200_.jpg' ]

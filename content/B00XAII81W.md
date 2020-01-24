@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Camomila Intea Loción Cubrevello - 100 m' al 34.4 % de descuento
+title: 'Camomila Intea Loción Cubrevello - 100 m al 34.4 % de descuento'
 date: 2019/11/17 08:34:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51b4pvkUbEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51b4pvkUbEL._SL200_.jpg' ]

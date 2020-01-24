@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NOVOO Hub USB C con 2xUSB 3.0  HDMI  Lec' al 33.34444814938313 % de descuento
+title: 'NOVOO Hub USB C con 2xUSB 3.0  HDMI  Lec al 33.34444814938313 % de descuento'
 date: 2020-01-24 13:13:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vszPozIiL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vszPozIiL._AC_._SL200_.jpg' ]

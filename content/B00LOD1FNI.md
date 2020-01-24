@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The North Face Evolution II Triclimate C' al 42.93750000000001 % de descuento
+title: 'The North Face Evolution II Triclimate C al 42.93750000000001 % de descuento'
 date: 2019/10/30 21:25:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gsSKDZwHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gsSKDZwHL._SL200_.jpg' ]

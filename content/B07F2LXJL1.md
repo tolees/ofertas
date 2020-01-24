@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 77.7 % en 'Helly Hansen W Lyness II Coat Chaqueta  '
+title: 'Descuento del 77.7 % en Helly Hansen W Lyness II Coat Chaqueta  '
 date: 2019/10/08 14:30:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r1aTLxFiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r1aTLxFiL._SL200_.jpg' ]

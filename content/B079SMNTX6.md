@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.79628305932809 % en 'Desigual TS_kunik suéter    Gris Vigore '
+title: 'Descuento del 54.79628305932809 % en Desigual TS_kunik suéter    Gris Vigore '
 date: 2019/10/06 12:19:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41d9ahPRdeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41d9ahPRdeL._SL200_.jpg' ]

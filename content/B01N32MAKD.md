@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Talucci Jkt Chaqueta  Unisex infan' al 55.74285714285714 % de descuento
+title: 'Kappa Talucci Jkt Chaqueta  Unisex infan al 55.74285714285714 % de descuento'
 date: 2019/12/13 18:24:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GDQ3HZh%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GDQ3HZh%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iRobot Roomba 960 Saugroboter mit 3-stuf' al 38.52234206471494 % de descuento
+title: 'iRobot Roomba 960 Saugroboter mit 3-stuf al 38.52234206471494 % de descuento'
 date: 2019/10/17 01:50:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xt2EgY4JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xt2EgY4JL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics NC1504159R1 Explorer Laptop' al 42.21740700613941 % de descuento
+title: 'AmazonBasics NC1504159R1 Explorer Laptop al 42.21740700613941 % de descuento'
 date: 2019/11/23 07:23:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AgolrK5QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AgolrK5QL._SL200_.jpg' ]

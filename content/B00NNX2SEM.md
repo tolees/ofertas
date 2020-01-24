@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.63956748097718 % en 'Blend Jeans - Noos Cirrus - Parte de arr'
+title: 'Descuento del 49.63956748097718 % en Blend Jeans - Noos Cirrus - Parte de arr'
 date: 2020-01-24 12:52:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Tizvq22KL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Tizvq22KL._AC_._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.74396135265701 % en 'Trixie Fogger Generador ultrasónico Nieb'
+title: 'Descuento del 26.74396135265701 % en Trixie Fogger Generador ultrasónico Nieb'
 date: 2019/11/29 22:32:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V8F-DhiiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V8F-DhiiL._SL200_.jpg' ]

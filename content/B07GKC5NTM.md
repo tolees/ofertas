@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.44027517198249 % en 'Wiko View2 Go - Smartphone con pantalla '
+title: 'Descuento del 34.44027517198249 % en Wiko View2 Go - Smartphone con pantalla '
 date: 2019/10/17 12:24:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4147WSA-wrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4147WSA-wrL._SL200_.jpg' ]

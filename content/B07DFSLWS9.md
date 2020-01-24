@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant O1. The Airlight Down Jacket Chaque' al 42.084337349397586 % de descuento
+title: 'Gant O1. The Airlight Down Jacket Chaque al 42.084337349397586 % de descuento'
 date: 2019/10/09 08:17:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B5bLl4LJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B5bLl4LJL._SL200_.jpg' ]

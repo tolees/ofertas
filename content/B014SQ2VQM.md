@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tamron SP - Objetivo para Canon DSLR  Di' al 31.222778473091374 % de descuento
+title: 'Tamron SP - Objetivo para Canon DSLR  Di al 31.222778473091374 % de descuento'
 date: 2020-01-15 11:56:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SlPdYOcOL._SL200_.jpg' ]

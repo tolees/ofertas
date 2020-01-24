@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BERING Reloj Analógico para Mujer de Cua' al 42.630522088353416 % de descuento
+title: 'BERING Reloj Analógico para Mujer de Cua al 42.630522088353416 % de descuento'
 date: 2019/10/28 19:34:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wuDvmJKGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wuDvmJKGL._SL200_.jpg' ]

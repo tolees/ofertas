@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fashy Bermuda - Pantalones para Hombre  ' al 42.39043824701195 % de descuento
+title: 'Fashy Bermuda - Pantalones para Hombre   al 42.39043824701195 % de descuento'
 date: 2019/11/16 22:55:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4133U1rcVVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4133U1rcVVL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.49532107131333 % en 'Yooka-Laylee and the Impossible Lair'
+title: 'Descuento del 35.49532107131333 % en Yooka-Laylee and the Impossible Lair'
 date: 2020-01-21 07:18:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xqU-Ly8YL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xqU-Ly8YL._SL200_.jpg' ]

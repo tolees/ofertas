@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JOGVELO Maillot Ciclismo  Ropa Ciclismo ' al 35.30103941949402 % de descuento
+title: 'JOGVELO Maillot Ciclismo  Ropa Ciclismo  al 35.30103941949402 % de descuento'
 date: 2019/10/30 09:21:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4140zLm2SBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4140zLm2SBL._SL200_.jpg' ]

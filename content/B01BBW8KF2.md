@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aeronautica Militare  blank Melange Grey' al 81.26954346466542 % de descuento
+title: 'Aeronautica Militare  blank Melange Grey al 81.26954346466542 % de descuento'
 date: 2020-01-16 18:57:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WW7ptb0JL._SL200_.jpg' ]

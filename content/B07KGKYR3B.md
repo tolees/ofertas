@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nestlé Caja Roja Bombones De Chocolate E' al 27.855670103092777 % de descuento
+title: 'Nestlé Caja Roja Bombones De Chocolate E al 27.855670103092777 % de descuento'
 date: 2019/12/13 06:43:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rTg4oo0ZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rTg4oo0ZL._SL200_.jpg' ]

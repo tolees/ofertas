@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elli Premium Ring Damen Bandring Kreuz S' al 64.25786163522012 % de descuento
+title: 'Elli Premium Ring Damen Bandring Kreuz S al 64.25786163522012 % de descuento'
 date: 2019/12/24 15:06:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31QQuoKJt7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31QQuoKJt7L._SL200_.jpg' ]

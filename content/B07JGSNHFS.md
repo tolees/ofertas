@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 81.33684210526314 % en 'Pepe Jeans Betties HW Vaqueros Straight '
+title: 'Descuento del 81.33684210526314 % en Pepe Jeans Betties HW Vaqueros Straight '
 date: 2020-01-11 16:18:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31o3oLLsXsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31o3oLLsXsL._SL200_.jpg' ]

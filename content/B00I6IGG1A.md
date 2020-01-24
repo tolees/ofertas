@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.136335209505944 % en 'Ergobaby 360 - Mochila portabebé  color '
+title: 'Descuento del 38.136335209505944 % en Ergobaby 360 - Mochila portabebé  color '
 date: 2019/12/29 18:14:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B7vRnhuHL._SL200_.jpg' ]

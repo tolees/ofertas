@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.50000000000001 % en 'Naf Naf Kenc32 Blusa  Beige  Fadded Nude'
+title: 'Descuento del 43.50000000000001 % en Naf Naf Kenc32 Blusa  Beige  Fadded Nude'
 date: 2019/11/07 15:49:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W0pKU5nQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W0pKU5nQL._SL200_.jpg' ]

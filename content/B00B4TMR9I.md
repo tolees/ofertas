@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.410646387832685 % en 'Collistar - Liquido Extra-Brillo Cristal'
+title: 'Descuento del 34.410646387832685 % en Collistar - Liquido Extra-Brillo Cristal'
 date: 2019/10/31 06:14:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31i7Sgg0KKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31i7Sgg0KKL._SL200_.jpg' ]

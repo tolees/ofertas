@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Living Dead Dolls- Muñeco  Color Red  Gr' al 37.5 % de descuento
+title: 'Living Dead Dolls- Muñeco  Color Red  Gr al 37.5 % de descuento'
 date: 2019/12/10 17:09:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414eLzcjpcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414eLzcjpcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.511877969492375 % en 'JACK & JONES Jjesheridan Shirt L/s Camis'
+title: 'Descuento del 47.511877969492375 % en JACK & JONES Jjesheridan Shirt L/s Camis'
 date: 2019/12/09 14:49:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RGgx25V0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RGgx25V0L._SL200_.jpg' ]

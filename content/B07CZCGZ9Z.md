@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Salomon XA Pro 3D CSWP J  Zapatillas de ' al 30.767178118745832 % de descuento
+title: 'Salomon XA Pro 3D CSWP J  Zapatillas de  al 30.767178118745832 % de descuento'
 date: 2019/10/20 14:25:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51khaJxlslL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51khaJxlslL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA One 5.3 FG/AG  Botas de fútbol para' al 57.060662914321455 % de descuento
+title: 'PUMA One 5.3 FG/AG  Botas de fútbol para al 57.060662914321455 % de descuento'
 date: 2019/12/26 07:09:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RDKBwh%2B2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RDKBwh%2B2L._SL200_.jpg' ]

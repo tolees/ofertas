@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '!Solid Knit - Haral - Jersey para Hombre' al 75.01501501501502 % de descuento
+title: '!Solid Knit - Haral - Jersey para Hombre al 75.01501501501502 % de descuento'
 date: 2019/11/15 19:33:33 +0000
 thumbnailImage: ''
 images: [ '' ]

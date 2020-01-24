@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Fast Trek II Chaqueta Polar par' al 59.991998399679936 % de descuento
+title: 'Columbia Fast Trek II Chaqueta Polar par al 59.991998399679936 % de descuento'
 date: 2020-01-18 10:09:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ZVe4H43SL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ZVe4H43SL._SL200_.jpg' ]

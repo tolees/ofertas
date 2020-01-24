@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Christopeit Türreck Klimmzugstange  1688' al 41.379310344827594 % de descuento
+title: 'Christopeit Türreck Klimmzugstange  1688 al 41.379310344827594 % de descuento'
 date: 2020-01-02 19:17:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JPk%2Bw9YDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JPk%2Bw9YDL._SL200_.jpg' ]

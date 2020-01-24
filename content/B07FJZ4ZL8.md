@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.15978994748688 % en 'Only Onlnew Lucca Parka Jacket Otw  Nara'
+title: 'Descuento del 39.15978994748688 % en Only Onlnew Lucca Parka Jacket Otw  Nara'
 date: 2019/10/15 23:09:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UIDSKdzwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UIDSKdzwL._SL200_.jpg' ]

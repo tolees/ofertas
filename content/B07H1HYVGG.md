@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Gaming PS4 Cascos Gaming  Au' al 52.01486138896828 % de descuento
+title: 'Auriculares Gaming PS4 Cascos Gaming  Au al 52.01486138896828 % de descuento'
 date: 2019/10/31 18:25:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uYz3fV-sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uYz3fV-sL._SL200_.jpg' ]

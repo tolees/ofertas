@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hackett Slim Fit Logo Polo  Gris  Light ' al 42.962256438206836 % de descuento
+title: 'Hackett Slim Fit Logo Polo  Gris  Light  al 42.962256438206836 % de descuento'
 date: 2019/12/04 08:59:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wCAHvcL-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wCAHvcL-L._SL200_.jpg' ]

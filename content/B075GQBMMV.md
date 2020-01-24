@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.028228495221164 % en 'LEGO Duplo 10864 - Steinebox mit großem '
+title: 'Descuento del 27.028228495221164 % en LEGO Duplo 10864 - Steinebox mit großem '
 date: 2019/11/09 02:50:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51SKVkAqx8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51SKVkAqx8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.200726438539476 % en 'Calvin Klein 2 Pack Boxer Briefs  Azul  '
+title: 'Descuento del 50.200726438539476 % en Calvin Klein 2 Pack Boxer Briefs  Azul  '
 date: 2019/10/31 11:07:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bcgwa6m%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2Bcgwa6m%2BL._SL200_.jpg' ]

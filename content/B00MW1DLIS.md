@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rexxor 239-6067-44 - Reloj de cuarzo par' al 50.10020040080161 % de descuento
+title: 'Rexxor 239-6067-44 - Reloj de cuarzo par al 50.10020040080161 % de descuento'
 date: 2020-01-22 08:46:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E46-aVPWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E46-aVPWL._SL200_.jpg' ]

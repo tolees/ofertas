@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.02670226969293 % en 'Hilfiger Denim Shiny Metallic Espadrille'
+title: 'Descuento del 60.02670226969293 % en Hilfiger Denim Shiny Metallic Espadrille'
 date: 2019/11/21 13:12:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415jj-O-ojL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415jj-O-ojL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein CK ONE  Agua de tocador par' al 59.931113662456944 % de descuento
+title: 'Calvin Klein CK ONE  Agua de tocador par al 59.931113662456944 % de descuento'
 date: 2019/10/31 22:33:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Vgu1Hb8CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Vgu1Hb8CL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weider Victory Endurance  Amino Recovery' al 45.20547945205479 % de descuento
+title: 'Weider Victory Endurance  Amino Recovery al 45.20547945205479 % de descuento'
 date: 2020-01-09 14:09:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uhzfr5b5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uhzfr5b5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dr. Martens 1461 Cherry Red Antique Temp' al 61.236363636363635 % de descuento
+title: 'Dr. Martens 1461 Cherry Red Antique Temp al 61.236363636363635 % de descuento'
 date: 2019/12/02 12:53:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BHZm%2BvyBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BHZm%2BvyBL._SL200_.jpg' ]

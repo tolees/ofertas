@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fred Perry Twin Tipped Shirt Polo  Rosa ' al 35.46067415730337 % de descuento
+title: 'Fred Perry Twin Tipped Shirt Polo  Rosa  al 35.46067415730337 % de descuento'
 date: 2019/11/26 09:20:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JE10MG3ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JE10MG3ML._SL200_.jpg' ]

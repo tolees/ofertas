@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.98768757214312 % en 'adidas I-5923 Zapatillas de Gimnasia Hom'
+title: 'Descuento del 47.98768757214312 % en adidas I-5923 Zapatillas de Gimnasia Hom'
 date: 2019/11/01 21:39:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EJ4BFnUVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EJ4BFnUVL._SL200_.jpg' ]

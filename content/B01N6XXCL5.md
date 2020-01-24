@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casio Reloj Digital para Hombre de Cuarz' al 46.66295884315906 % de descuento
+title: 'Casio Reloj Digital para Hombre de Cuarz al 46.66295884315906 % de descuento'
 date: 2019/10/22 20:29:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51gaubcqVOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51gaubcqVOL._SL200_.jpg' ]

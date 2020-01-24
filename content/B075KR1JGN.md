@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.39348370927318 % en 'Mat & Vic s Calcetines  cómodo  OEKO-TEX'
+title: 'Descuento del 37.39348370927318 % en Mat & Vic s Calcetines  cómodo  OEKO-TEX'
 date: 2019/10/05 22:03:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bu9Na4N1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bu9Na4N1L._SL200_.jpg' ]

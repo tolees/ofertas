@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Smartwatch  Reloj Inteligente Pulsera de' al 33.35 % de descuento
+title: 'Smartwatch  Reloj Inteligente Pulsera de al 33.35 % de descuento'
 date: 2020-01-09 12:24:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BtpaYPexL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BtpaYPexL._SL200_.jpg' ]

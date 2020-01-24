@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.01240248049611 % en 'Auriculares Bluetooth Diadema NOUDOO Cas'
+title: 'Descuento del 62.01240248049611 % en Auriculares Bluetooth Diadema NOUDOO Cas'
 date: 2019/11/22 11:35:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yFQA8rHaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yFQA8rHaL._SL200_.jpg' ]

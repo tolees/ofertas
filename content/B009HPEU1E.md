@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2750 Jvel Classic Zapatillas Uni' al 67.63265306122449 % de descuento
+title: 'Superga 2750 Jvel Classic Zapatillas Uni al 67.63265306122449 % de descuento'
 date: 2019/11/17 19:07:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bj4BtfMjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bj4BtfMjL._SL200_.jpg' ]

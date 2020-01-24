@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.39672429481347 % en 'zanmini Oso Garras para Carne para desme'
+title: 'Descuento del 36.39672429481347 % en zanmini Oso Garras para Carne para desme'
 date: 2019/10/14 07:35:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4125U32f5%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4125U32f5%2BL._SL200_.jpg' ]

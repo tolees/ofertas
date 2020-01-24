@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RAM Chocolate Líquido a la Taza - 6 x 1 ' al 35.89743589743589 % de descuento
+title: 'RAM Chocolate Líquido a la Taza - 6 x 1  al 35.89743589743589 % de descuento'
 date: 2020-01-24 08:23:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41835nu61ML._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41835nu61ML._AC_._SL200_.jpg' ]

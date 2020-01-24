@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.00160005333511 % en 'Umi. by Amazon - Silla Gaming Oficina Es'
+title: 'Descuento del 48.00160005333511 % en Umi. by Amazon - Silla Gaming Oficina Es'
 date: 2019/10/24 22:04:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H6KNSJ0VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H6KNSJ0VL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Slim Herringbone Check Sh' al 46.18464961067853 % de descuento
+title: 'Tommy Hilfiger Slim Herringbone Check Sh al 46.18464961067853 % de descuento'
 date: 2019/11/15 11:59:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qWqnbFLPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qWqnbFLPL._SL200_.jpg' ]

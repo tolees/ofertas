@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 200  Sandalias de Punta Abie' al 61.17857142857144 % de descuento
+title: 'New Balance 200  Sandalias de Punta Abie al 61.17857142857144 % de descuento'
 date: 2019/10/29 11:53:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PYT7CSA0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PYT7CSA0L._SL200_.jpg' ]

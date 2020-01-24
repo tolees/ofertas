@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMJV|#Puma Defy Wn s Zapatillas Deporti' al 71.36186770428016 % de descuento
+title: 'PUMJV|#Puma Defy Wn s Zapatillas Deporti al 71.36186770428016 % de descuento'
 date: 2020-01-04 11:47:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Iq7hZ%2BrEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Iq7hZ%2BrEL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WMF Profi Plus Juego de Cocina  Acero In' al 36.785533636823466 % de descuento
+title: 'WMF Profi Plus Juego de Cocina  Acero In al 36.785533636823466 % de descuento'
 date: 2020-01-02 15:15:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BeD796h7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BeD796h7L._SL200_.jpg' ]

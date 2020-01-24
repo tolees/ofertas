@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.51217072357452 % en 'LEGO 75261 Star Wars Kinderspielzeug  Bu'
+title: 'Descuento del 36.51217072357452 % en LEGO 75261 Star Wars Kinderspielzeug  Bu'
 date: 2020-01-13 08:59:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51OgWL9xGrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51OgWL9xGrL._SL200_.jpg' ]

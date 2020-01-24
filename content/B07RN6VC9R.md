@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ghost Recon Breakpoint - Gold Edition' al 59.005900590059 % de descuento
+title: 'Ghost Recon Breakpoint - Gold Edition al 59.005900590059 % de descuento'
 date: 2020-01-13 19:35:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xbgEtxW3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xbgEtxW3L._SL200_.jpg' ]

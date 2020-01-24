@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mars Gaming - Fuente de alimentación par' al 29.737766964044344 % de descuento
+title: 'Mars Gaming - Fuente de alimentación par al 29.737766964044344 % de descuento'
 date: 2019/11/26 13:56:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51apjrDXDkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51apjrDXDkL._SL200_.jpg' ]

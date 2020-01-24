@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.487500000000004 % en 'Burton Taproot Sudaderas  Hombre  Weeds '
+title: 'Descuento del 49.487500000000004 % en Burton Taproot Sudaderas  Hombre  Weeds '
 date: 2019/10/15 19:52:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UJRgM751L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UJRgM751L._SL200_.jpg' ]

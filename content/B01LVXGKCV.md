@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LANGRIA 2 x Taburetes de Bar Stockholm c' al 38.464497269020704 % de descuento
+title: 'LANGRIA 2 x Taburetes de Bar Stockholm c al 38.464497269020704 % de descuento'
 date: 2019/11/10 19:07:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xTgD8L6FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xTgD8L6FL._SL200_.jpg' ]

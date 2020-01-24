@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Maternity Venice Knee Vaqueros ' al 60.19595835884874 % de descuento
+title: 'New Look Maternity Venice Knee Vaqueros  al 60.19595835884874 % de descuento'
 date: 2019/11/04 08:54:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3112%2BMBl%2BGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3112%2BMBl%2BGL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wilson Raqueta de tenis  H5  Principiant' al 67.86 % de descuento
+title: 'Wilson Raqueta de tenis  H5  Principiant al 67.86 % de descuento'
 date: 2019/11/10 18:12:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418KXA1aGrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418KXA1aGrL._SL200_.jpg' ]

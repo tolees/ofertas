@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Soporte TV De Pared Articulado Inclinabl' al 25.81477896095514 % de descuento
+title: 'Soporte TV De Pared Articulado Inclinabl al 25.81477896095514 % de descuento'
 date: 2019/10/30 10:58:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UOew-KGlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UOew-KGlL._SL200_.jpg' ]

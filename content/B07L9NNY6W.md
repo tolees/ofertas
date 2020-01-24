@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Avent Vigilabebés con cámara SCD' al 41.66898161008945 % de descuento
+title: 'Philips Avent Vigilabebés con cámara SCD al 41.66898161008945 % de descuento'
 date: 2019/12/30 16:20:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B%2B-z7Gr6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B%2B-z7Gr6L._SL200_.jpg' ]

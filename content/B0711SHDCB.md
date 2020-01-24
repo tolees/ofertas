@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour SC30 LS Hooded tee Sudadera' al 62.46000000000001 % de descuento
+title: 'Under Armour SC30 LS Hooded tee Sudadera al 62.46000000000001 % de descuento'
 date: 2019/10/18 16:02:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ZhYCv2EML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ZhYCv2EML._SL200_.jpg' ]

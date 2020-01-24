@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wilkinson Sword Quattro Titanium - Carga' al 53.71859296482411 % de descuento
+title: 'Wilkinson Sword Quattro Titanium - Carga al 53.71859296482411 % de descuento'
 date: 2020-01-11 09:05:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513mdvEUv%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513mdvEUv%2BL._SL200_.jpg' ]

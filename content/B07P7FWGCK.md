@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOSING XR Micrófono de Karaoke Inalámbri' al 80.0053336889126 % de descuento
+title: 'TOSING XR Micrófono de Karaoke Inalámbri al 80.0053336889126 % de descuento'
 date: 2019/12/15 17:49:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mRzfRmbWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mRzfRmbWL._SL200_.jpg' ]

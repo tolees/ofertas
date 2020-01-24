@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wonderbra Glamour Raffine Triangle Padde' al 37.39837398373983 % de descuento
+title: 'Wonderbra Glamour Raffine Triangle Padde al 37.39837398373983 % de descuento'
 date: 2019/12/15 08:07:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51WSTk2ortL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51WSTk2ortL._SL200_.jpg' ]

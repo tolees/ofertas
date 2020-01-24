@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.199999999999996 % en 'Volcom Ermont Chaqueta  Hombre  Dark Kha'
+title: 'Descuento del 46.199999999999996 % en Volcom Ermont Chaqueta  Hombre  Dark Kha'
 date: 2019/11/11 19:13:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DEssU2CFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DEssU2CFL._SL200_.jpg' ]

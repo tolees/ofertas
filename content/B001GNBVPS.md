@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.35135135135135 % en 'Max Factor Crème Puff Polvos Compactos T'
+title: 'Descuento del 51.35135135135135 % en Max Factor Crème Puff Polvos Compactos T'
 date: 2019/11/11 11:56:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q80aCd4gL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q80aCd4gL._SL200_.jpg' ]

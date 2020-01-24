@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.59123002601264 % en 'Orient Reloj de Pulsera RA-AP0003S10B'
+title: 'Descuento del 29.59123002601264 % en Orient Reloj de Pulsera RA-AP0003S10B'
 date: 2020-01-03 19:41:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OltE5UA9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OltE5UA9L._SL200_.jpg' ]

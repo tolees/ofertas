@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ROYAL SLEEP Colchón viscoelástico 105x19' al 27.99925829779344 % de descuento
+title: 'ROYAL SLEEP Colchón viscoelástico 105x19 al 27.99925829779344 % de descuento'
 date: 2019/10/25 12:46:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fxREErKkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fxREErKkL._SL200_.jpg' ]

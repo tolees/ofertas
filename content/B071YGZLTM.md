@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.874035989717232 % en 'Wilson  Set completo para principiantes '
+title: 'Descuento del 31.874035989717232 % en Wilson  Set completo para principiantes '
 date: 2020-01-05 18:04:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ltXOKhvGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ltXOKhvGL._SL200_.jpg' ]

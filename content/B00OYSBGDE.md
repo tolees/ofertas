@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Schmidt Spiele 49311 Qwirkle  Legespiel' al 52.39758653540807 % de descuento
+title: 'Schmidt Spiele 49311 Qwirkle  Legespiel al 52.39758653540807 % de descuento'
 date: 2019/12/12 23:33:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/617zspRiwFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/617zspRiwFL._SL200_.jpg' ]

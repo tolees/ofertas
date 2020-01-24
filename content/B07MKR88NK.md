@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Sport Tj2910 Camiseta  Azul  Sum' al 34.66666666666666 % de descuento
+title: 'Lacoste Sport Tj2910 Camiseta  Azul  Sum al 34.66666666666666 % de descuento'
 date: 2019/11/18 06:47:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416sv2Edg5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416sv2Edg5L._SL200_.jpg' ]

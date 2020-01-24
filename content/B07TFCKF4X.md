@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 84.3164734361065 % en 'TEEHON Billetera Hombre de Piel  Cartera'
+title: 'Descuento del 84.3164734361065 % en TEEHON Billetera Hombre de Piel  Cartera'
 date: 2020-01-03 01:30:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DaTlSmy8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DaTlSmy8L._SL200_.jpg' ]

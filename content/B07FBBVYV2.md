@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Seago Cepillo de dientes eléctrico para ' al 45.320197044334975 % de descuento
+title: 'Seago Cepillo de dientes eléctrico para  al 45.320197044334975 % de descuento'
 date: 2019/12/07 20:00:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312wmB9ntVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312wmB9ntVL._SL200_.jpg' ]

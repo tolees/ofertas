@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike M CFD FLC TM Club19 - Pantalones  H' al 43.222222222222214 % de descuento
+title: 'Nike M CFD FLC TM Club19 - Pantalones  H al 43.222222222222214 % de descuento'
 date: 2019/11/15 11:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315VZu1MrZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315VZu1MrZL._SL200_.jpg' ]

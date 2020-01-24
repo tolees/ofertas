@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cicsa Radiador Toallero Eléctrico Zeta E' al 34.67336683417085 % de descuento
+title: 'Cicsa Radiador Toallero Eléctrico Zeta E al 34.67336683417085 % de descuento'
 date: 2019/10/17 23:03:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z7cJBwZTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z7cJBwZTL._SL200_.jpg' ]

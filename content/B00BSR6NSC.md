@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox J Agata D  Zapatos de Cordones de c' al 70.73846153846154 % de descuento
+title: 'Geox J Agata D  Zapatos de Cordones de c al 70.73846153846154 % de descuento'
 date: 2019/11/05 20:16:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31VpXgaMURL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31VpXgaMURL._SL200_.jpg' ]

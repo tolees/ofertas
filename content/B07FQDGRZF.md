@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lomvum Medidor Laser de Distancia  120M ' al 78.82816636272723 % de descuento
+title: 'Lomvum Medidor Laser de Distancia  120M  al 78.82816636272723 % de descuento'
 date: 2020-01-09 15:24:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eAIvrwKfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eAIvrwKfL._SL200_.jpg' ]

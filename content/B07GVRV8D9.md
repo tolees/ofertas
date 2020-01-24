@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mando con cable Pro4 controller para con' al 28.70566838435891 % de descuento
+title: 'Mando con cable Pro4 controller para con al 28.70566838435891 % de descuento'
 date: 2020-01-19 21:20:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41colk6hvhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41colk6hvhL._SL200_.jpg' ]

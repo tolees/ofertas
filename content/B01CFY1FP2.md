@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Soccerstarz "Atlético de Madrid Koke Kit' al 31.163594470046085 % de descuento
+title: 'Soccerstarz "Atlético de Madrid Koke Kit al 31.163594470046085 % de descuento'
 date: 2019/11/01 08:49:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41y3xa3IJzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41y3xa3IJzL._SL200_.jpg' ]

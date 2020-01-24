@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'D-Link Wireless Open Access Point Router' al 46.44515898535191 % de descuento
+title: 'D-Link Wireless Open Access Point Router al 46.44515898535191 % de descuento'
 date: 2019/12/04 20:51:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31j0peNhIJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31j0peNhIJL._SL200_.jpg' ]

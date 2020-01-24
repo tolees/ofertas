@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.89716312056738 % en 'Hurley M Phantom Baja Malibu 18  Bañador'
+title: 'Descuento del 46.89716312056738 % en Hurley M Phantom Baja Malibu 18  Bañador'
 date: 2019/11/26 06:51:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WV7DRXXdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WV7DRXXdL._SL200_.jpg' ]

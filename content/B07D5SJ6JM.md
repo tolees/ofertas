@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PUMA ESS Logo Pants  Mujer  Negro  Cotto' al 35.456570155902 % de descuento
+title: 'PUMA ESS Logo Pants  Mujer  Negro  Cotto al 35.456570155902 % de descuento'
 date: 2019/12/16 08:13:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319k1y5MTQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319k1y5MTQL._SL200_.jpg' ]

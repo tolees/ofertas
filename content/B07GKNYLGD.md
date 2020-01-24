@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FITTOO Mujeres PU Leggins Cuero Brillant' al 36.650000000000006 % de descuento
+title: 'FITTOO Mujeres PU Leggins Cuero Brillant al 36.650000000000006 % de descuento'
 date: 2019/12/04 16:50:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31FgklUyRZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31FgklUyRZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.005000833472238 % en 'Daemon X Machina'
+title: 'Descuento del 30.005000833472238 % en Daemon X Machina'
 date: 2020-01-21 11:37:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ns3LDSpVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ns3LDSpVL._SL200_.jpg' ]

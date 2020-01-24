@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Microburst-Scholar Spirit  Merc' al 47.44744744744745 % de descuento
+title: 'Skechers Microburst-Scholar Spirit  Merc al 47.44744744744745 % de descuento'
 date: 2019/10/11 22:21:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hdNo8P0aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hdNo8P0aL._SL200_.jpg' ]

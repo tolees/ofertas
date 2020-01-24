@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BENYARI Reloj de Cuarzo para Hombre  dis' al 78.82579403272378 % de descuento
+title: 'BENYARI Reloj de Cuarzo para Hombre  dis al 78.82579403272378 % de descuento'
 date: 2019/11/18 13:21:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C6-4VhkZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C6-4VhkZL._SL200_.jpg' ]

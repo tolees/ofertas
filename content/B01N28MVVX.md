@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Snap Jacket Chaqueta  Azul  Bleached' al 76.7993484678815 % de descuento
+title: 'Lee Snap Jacket Chaqueta  Azul  Bleached al 76.7993484678815 % de descuento'
 date: 2019/12/27 20:36:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417I6ClC9%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417I6ClC9%2BL._SL200_.jpg' ]

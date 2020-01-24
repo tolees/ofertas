@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'StarTech USB3S2SAT3CB - Adaptador USB 3.' al 36.485788113695094 % de descuento
+title: 'StarTech USB3S2SAT3CB - Adaptador USB 3. al 36.485788113695094 % de descuento'
 date: 2019/10/17 13:12:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nH7mG1bbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nH7mG1bbL._SL200_.jpg' ]

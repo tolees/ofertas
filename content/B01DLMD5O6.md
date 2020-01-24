@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.424242424242415 % en 'Sony SEL50F18F.SYX - Objetivo Fijo  FE 5'
+title: 'Descuento del 52.424242424242415 % en Sony SEL50F18F.SYX - Objetivo Fijo  FE 5'
 date: 2019/12/23 20:02:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LS1wijtQL._SL200_.jpg' ]

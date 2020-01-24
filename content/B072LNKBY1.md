@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Ua Ultimate Speed Zapatilla' al 60.78212290502793 % de descuento
+title: 'Under Armour Ua Ultimate Speed Zapatilla al 60.78212290502793 % de descuento'
 date: 2019/10/20 22:19:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418jzmQNfhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418jzmQNfhL._SL200_.jpg' ]

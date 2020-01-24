@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Baberos Bebe Baberos Bandanas LENBEST  B' al 64.34348239771646 % de descuento
+title: 'Baberos Bebe Baberos Bandanas LENBEST  B al 64.34348239771646 % de descuento'
 date: 2019/12/27 12:03:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61KmTx2XatL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61KmTx2XatL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.027777777777786 % en 'NNJXD Partido del Unicornio Flor de Las '
+title: 'Descuento del 50.027777777777786 % en NNJXD Partido del Unicornio Flor de Las '
 date: 2020-01-18 02:37:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lF%2BSGaR2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lF%2BSGaR2L._SL200_.jpg' ]

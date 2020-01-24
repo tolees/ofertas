@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko 33411 Vinyl: Disney: Wreck-It-Ralp' al 43.4949961508853 % de descuento
+title: 'Funko 33411 Vinyl: Disney: Wreck-It-Ralp al 43.4949961508853 % de descuento'
 date: 2019/12/14 07:07:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OasJSVnhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OasJSVnhL._SL200_.jpg' ]

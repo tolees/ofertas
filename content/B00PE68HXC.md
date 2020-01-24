@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meltin Pot Maner - Vaqueros para hombre ' al 64.94382022471909 % de descuento
+title: 'Meltin Pot Maner - Vaqueros para hombre  al 64.94382022471909 % de descuento'
 date: 2019/11/12 17:56:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W8FO0TtJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W8FO0TtJL._SL200_.jpg' ]

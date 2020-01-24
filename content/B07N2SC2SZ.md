@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELEGIANT Reloj Despertador Digital Proye' al 52.0104020804161 % de descuento
+title: 'ELEGIANT Reloj Despertador Digital Proye al 52.0104020804161 % de descuento'
 date: 2020-01-19 15:33:21
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513Kyf8WoQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513Kyf8WoQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PLAYMOBIL DreamWorks Dragons 70038 Tagsc' al 28.5795941697628 % de descuento
+title: 'PLAYMOBIL DreamWorks Dragons 70038 Tagsc al 28.5795941697628 % de descuento'
 date: 2020-01-03 06:46:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51PjHJAtQtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51PjHJAtQtL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Skinny Chino  Pantalones para H' al 69.40177849636217 % de descuento
+title: 'New Look Skinny Chino  Pantalones para H al 69.40177849636217 % de descuento'
 date: 2019/11/20 17:23:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s71q1nnnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s71q1nnnL._SL200_.jpg' ]

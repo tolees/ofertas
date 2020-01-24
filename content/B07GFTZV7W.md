@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hitman 2 - Standard Edition' al 62.703379224030044 % de descuento
+title: 'Hitman 2 - Standard Edition al 62.703379224030044 % de descuento'
 date: 2019/12/09 15:45:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BVt9wSsBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BVt9wSsBL._SL200_.jpg' ]

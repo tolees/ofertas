@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.212606303151574 % en 'PLAYMOBIL Adventskalender 9262 Reiterhof'
+title: 'Descuento del 25.212606303151574 % en PLAYMOBIL Adventskalender 9262 Reiterhof'
 date: 2019/12/18 23:30:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61JykegHrfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61JykegHrfL._SL200_.jpg' ]

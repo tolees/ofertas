@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Etekcity Báscula Digital para Cocina  Bá' al 25.012506253126553 % de descuento
+title: 'Etekcity Báscula Digital para Cocina  Bá al 25.012506253126553 % de descuento'
 date: 2019/10/19 14:43:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qT85g4hiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qT85g4hiL._SL200_.jpg' ]

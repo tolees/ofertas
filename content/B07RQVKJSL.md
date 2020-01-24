@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.56928213689483 % en 'LEGO City Satellite Polybag Set 30365  B'
+title: 'Descuento del 41.56928213689483 % en LEGO City Satellite Polybag Set 30365  B'
 date: 2020-01-19 02:22:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514EssHpbRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514EssHpbRL._SL200_.jpg' ]

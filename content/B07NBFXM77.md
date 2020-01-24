@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trigema 527601 Polo  Beige  Taupe/Melang' al 75.88118811881188 % de descuento
+title: 'Trigema 527601 Polo  Beige  Taupe/Melang al 75.88118811881188 % de descuento'
 date: 2019/10/15 19:13:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XXgayZ8NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XXgayZ8NL._SL200_.jpg' ]

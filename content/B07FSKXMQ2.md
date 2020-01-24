@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.84337092998511 % en 'Masajeador de Silicona  METALBAY Vibrado'
+title: 'Descuento del 63.84337092998511 % en Masajeador de Silicona  METALBAY Vibrado'
 date: 2019/11/29 10:26:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417tr-hrT9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417tr-hrT9L._SL200_.jpg' ]

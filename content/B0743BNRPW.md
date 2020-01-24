@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TRUTH & FABLE 13791 vestido fiesta mujer' al 62.5 % de descuento
+title: 'TRUTH & FABLE 13791 vestido fiesta mujer al 62.5 % de descuento'
 date: 2019/12/20 00:35:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IWgpqgb%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IWgpqgb%2BL._SL200_.jpg' ]

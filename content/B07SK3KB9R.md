@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair HS35 - Auriculares Stereo para J' al 26.672593909757726 % de descuento
+title: 'Corsair HS35 - Auriculares Stereo para J al 26.672593909757726 % de descuento'
 date: 2019/12/18 00:00:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lv9Cs5fSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lv9Cs5fSL._SL200_.jpg' ]

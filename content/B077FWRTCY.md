@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Selección de Uruguay Camiseta  Homb' al 70.4391328515842 % de descuento
+title: 'Puma Selección de Uruguay Camiseta  Homb al 70.4391328515842 % de descuento'
 date: 2019/10/17 12:41:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GMGRxEMNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GMGRxEMNL._SL200_.jpg' ]

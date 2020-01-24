@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant D1. Archive Sweat Hoodie Sudadera c' al 63.72046505813227 % de descuento
+title: 'Gant D1. Archive Sweat Hoodie Sudadera c al 63.72046505813227 % de descuento'
 date: 2019/11/13 08:13:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wq4QjtNBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wq4QjtNBL._SL200_.jpg' ]

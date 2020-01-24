@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.75969962453066 % en 'Tommy Hilfiger Core Hilfiger Regular Pol'
+title: 'Descuento del 47.75969962453066 % en Tommy Hilfiger Core Hilfiger Regular Pol'
 date: 2019/10/08 08:05:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412F7JgqewL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412F7JgqewL._SL200_.jpg' ]

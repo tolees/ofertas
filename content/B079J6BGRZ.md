@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.03125 % en 'Asics Dynamis 2  Zapatillas de Entrenami'
+title: 'Descuento del 55.03125 % en Asics Dynamis 2  Zapatillas de Entrenami'
 date: 2019/10/19 22:39:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Xcz%2BesmwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Xcz%2BesmwL._SL200_.jpg' ]

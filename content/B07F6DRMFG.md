@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jjeholmen Sweat Crew Neck N' al 45.022511255627805 % de descuento
+title: 'JACK & JONES Jjeholmen Sweat Crew Neck N al 45.022511255627805 % de descuento'
 date: 2020-01-06 13:32:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AlT9hFrbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AlT9hFrbL._SL200_.jpg' ]

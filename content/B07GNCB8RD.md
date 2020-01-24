@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Angshop 2 piezas Halloween sangrienta ve' al 51.88888888888889 % de descuento
+title: 'Angshop 2 piezas Halloween sangrienta ve al 51.88888888888889 % de descuento'
 date: 2019/10/21 14:15:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51iof3A4hSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51iof3A4hSL._SL200_.jpg' ]

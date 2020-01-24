@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Humbgo Rollo Envasado Vacío  6 Rollos Bo' al 31.715052451817527 % de descuento
+title: 'Humbgo Rollo Envasado Vacío  6 Rollos Bo al 31.715052451817527 % de descuento'
 date: 2019/10/26 19:50:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AAK3wczHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AAK3wczHL._SL200_.jpg' ]

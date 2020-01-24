@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas X 18.3 AG  Botas de fútbol para H' al 38.36147592245154 % de descuento
+title: 'Adidas X 18.3 AG  Botas de fútbol para H al 38.36147592245154 % de descuento'
 date: 2019/10/22 22:35:13 +0000
 thumbnailImage: ''
 images: [ '' ]

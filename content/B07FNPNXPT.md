@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Wool Harrington Chaqueta  Negro  B' al 36.51030773827307 % de descuento
+title: 'find. Wool Harrington Chaqueta  Negro  B al 36.51030773827307 % de descuento'
 date: 2019/12/23 17:37:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bZT7%2BzuEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bZT7%2BzuEL._SL200_.jpg' ]

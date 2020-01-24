@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Sudadera con Lazadas en Mangas par' al 70.0 % de descuento
+title: 'find. Sudadera con Lazadas en Mangas par al 70.0 % de descuento'
 date: 2019/11/20 08:53:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416yzvC2uzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416yzvC2uzL._SL200_.jpg' ]

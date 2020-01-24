@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.37899191996921 % en 'G-STAR RAW 3301 Low Waist Super Skinny V'
+title: 'Descuento del 65.37899191996921 % en G-STAR RAW 3301 Low Waist Super Skinny V'
 date: 2019/11/10 22:04:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Tbqw-OTBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Tbqw-OTBL._SL200_.jpg' ]

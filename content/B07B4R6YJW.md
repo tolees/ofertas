@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.0 % en 'Fossil Reloj Analógico para Mujer de Cua'
+title: 'Descuento del 60.0 % en Fossil Reloj Analógico para Mujer de Cua'
 date: 2019/11/11 13:35:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fQ8nW6IxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fQ8nW6IxL._SL200_.jpg' ]

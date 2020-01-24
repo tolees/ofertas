@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.00625078134766 % en 'TOOBUR Smartwatch  IP68 Impermeable Relo'
+title: 'Descuento del 50.00625078134766 % en TOOBUR Smartwatch  IP68 Impermeable Relo'
 date: 2020-01-19 19:31:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41unHg91rLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41unHg91rLL._SL200_.jpg' ]

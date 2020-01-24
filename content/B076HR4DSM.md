@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adidas Regista 18 Track Top Chaqueta Dep' al 30.49525101763908 % de descuento
+title: 'Adidas Regista 18 Track Top Chaqueta Dep al 30.49525101763908 % de descuento'
 date: 2020-01-06 13:14:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NxAOFpcwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NxAOFpcwL._SL200_.jpg' ]

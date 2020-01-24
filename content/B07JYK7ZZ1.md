@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.95313468146229 % en 'Invicta 27308 Pro Diver Reloj para Hombr'
+title: 'Descuento del 43.95313468146229 % en Invicta 27308 Pro Diver Reloj para Hombr'
 date: 2019/10/30 23:08:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uihXT2%2BxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uihXT2%2BxL._SL200_.jpg' ]

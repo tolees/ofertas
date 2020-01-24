@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.38369184592297 % en 'Crocs Crocband Strap Flip  Chanclas Unis'
+title: 'Descuento del 67.38369184592297 % en Crocs Crocband Strap Flip  Chanclas Unis'
 date: 2019/12/23 23:04:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41So9xz76VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41So9xz76VL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Silver Ridge C Pantalón Convert' al 69.88659106070713 % de descuento
+title: 'Columbia Silver Ridge C Pantalón Convert al 69.88659106070713 % de descuento'
 date: 2019/11/26 15:43:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/311TuMCFJeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/311TuMCFJeL._SL200_.jpg' ]

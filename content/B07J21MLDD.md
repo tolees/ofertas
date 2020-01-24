@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fossil Reloj Analógico para Mujer de Cua' al 31.25157232704402 % de descuento
+title: 'Fossil Reloj Analógico para Mujer de Cua al 31.25157232704402 % de descuento'
 date: 2019/10/29 03:42:21 +0000
 thumbnailImage: ''
 images: [ '' ]

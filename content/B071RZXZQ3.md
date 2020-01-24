@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Art Soma  Botas Unisex Adulto  Negro  He' al 55.98532844281428 % de descuento
+title: 'Art Soma  Botas Unisex Adulto  Negro  He al 55.98532844281428 % de descuento'
 date: 2019/11/26 08:28:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q0uKhKf2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q0uKhKf2L._SL200_.jpg' ]

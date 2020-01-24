@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Prime Camiseta  Verde  Open Green 3' al 50.03573981415297 % de descuento
+title: 'BOSS Prime Camiseta  Verde  Open Green 3 al 50.03573981415297 % de descuento'
 date: 2020-01-24 08:55:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KOwpfonIL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KOwpfonIL._AC_._SL200_.jpg' ]

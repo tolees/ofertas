@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Housemark Graphic tee Camiseta  B' al 52.2 % de descuento
+title: 'Levi s Housemark Graphic tee Camiseta  B al 52.2 % de descuento'
 date: 2019/11/14 23:26:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31B7GWZB2qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31B7GWZB2qL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zwilling King - Set de cubiertos de mesa' al 62.59712230215827 % de descuento
+title: 'Zwilling King - Set de cubiertos de mesa al 62.59712230215827 % de descuento'
 date: 2020-01-20 11:21:19
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FAWhBsAvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FAWhBsAvL._SL200_.jpg' ]

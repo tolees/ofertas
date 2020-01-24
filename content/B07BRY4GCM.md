@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.24946390278771 % en 'Salomon XA Pro 3D CSWP K  Zapatillas de '
+title: 'Descuento del 29.24946390278771 % en Salomon XA Pro 3D CSWP K  Zapatillas de '
 date: 2020-01-20 19:17:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5157BEqS51L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5157BEqS51L._SL200_.jpg' ]

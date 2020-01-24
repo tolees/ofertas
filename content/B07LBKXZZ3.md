@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.372372372372375 % en 'Tommy Hilfiger Badu T5 Chino Pantalones '
+title: 'Descuento del 52.372372372372375 % en Tommy Hilfiger Badu T5 Chino Pantalones '
 date: 2019/10/19 04:44:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31SkZOuOPRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31SkZOuOPRL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lovable My Daily Comfort Printed  Sujeta' al 75.08090614886731 % de descuento
+title: 'Lovable My Daily Comfort Printed  Sujeta al 75.08090614886731 % de descuento'
 date: 2019/10/24 17:08:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MQSgyhqyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MQSgyhqyL._SL200_.jpg' ]

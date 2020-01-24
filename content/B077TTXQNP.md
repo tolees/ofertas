@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.44691495275153 % en 'Reebok CL LTHR Woven EMB  Zapatillas de '
+title: 'Descuento del 44.44691495275153 % en Reebok CL LTHR Woven EMB  Zapatillas de '
 date: 2019/10/11 12:02:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eEWfcMq8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eEWfcMq8L._SL200_.jpg' ]

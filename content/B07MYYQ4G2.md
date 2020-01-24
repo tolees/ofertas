@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.80530355896721 % en 'Hieha Electroestimulador Muscular  Abdom'
+title: 'Descuento del 62.80530355896721 % en Hieha Electroestimulador Muscular  Abdom'
 date: 2020-01-16 21:15:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Akr%2BioDtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Akr%2BioDtL._SL200_.jpg' ]

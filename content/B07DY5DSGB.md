@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.707692307692305 % en 'Under Armour Baseline - Sudadera con Cap'
+title: 'Descuento del 60.707692307692305 % en Under Armour Baseline - Sudadera con Cap'
 date: 2019/10/20 18:52:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41V5%2BFudO0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41V5%2BFudO0L._SL200_.jpg' ]

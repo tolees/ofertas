@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XTI 49105  Sandalias con Plataforma para' al 76.0 % de descuento
+title: 'XTI 49105  Sandalias con Plataforma para al 76.0 % de descuento'
 date: 2019/11/15 19:08:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QGK1-QpoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QGK1-QpoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 66.8557130942452 % en 'Bruetting Countdown  Zapatos de Low Rise'
+title: 'Descuento del 66.8557130942452 % en Bruetting Countdown  Zapatos de Low Rise'
 date: 2019/10/27 09:41:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kI1ssSPZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kI1ssSPZL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.318199307425928 % en 'LEGO Star Wars - Cabaña de Yoda  75208 '
+title: 'Descuento del 27.318199307425928 % en LEGO Star Wars - Cabaña de Yoda  75208 '
 date: 2019/11/29 09:23:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514kPJP9kWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514kPJP9kWL._SL200_.jpg' ]

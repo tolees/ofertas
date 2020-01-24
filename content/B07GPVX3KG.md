@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.65 % en 'Desigual T-Shirt Short Sleeve Manchester'
+title: 'Descuento del 30.65 % en Desigual T-Shirt Short Sleeve Manchester'
 date: 2019/11/26 14:11:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AAEW%2BHLaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AAEW%2BHLaL._SL200_.jpg' ]

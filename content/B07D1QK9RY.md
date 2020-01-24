@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Armani Exchange 8nzm3e Sudadera  Gris  B' al 60.9578947368421 % de descuento
+title: 'Armani Exchange 8nzm3e Sudadera  Gris  B al 60.9578947368421 % de descuento'
 date: 2019/11/26 01:24:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ofu2MlrEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ofu2MlrEL._SL200_.jpg' ]

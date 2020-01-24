@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Taurus Professional 3 Plus 973.953 Profe' al 30.591834333450983 % de descuento
+title: 'Taurus Professional 3 Plus 973.953 Profe al 30.591834333450983 % de descuento'
 date: 2019/12/17 11:53:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uKeFE4eJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uKeFE4eJL._SL200_.jpg' ]

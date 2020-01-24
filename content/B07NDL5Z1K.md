@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.76794657762939 % en 'G-Star Raw Graphic 8 Round Neck Camiseta'
+title: 'Descuento del 40.76794657762939 % en G-Star Raw Graphic 8 Round Neck Camiseta'
 date: 2019/12/02 13:10:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41r3Mz2v4xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41r3Mz2v4xL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'DXX Technik Bausteine Auto Benz G500  13'
+title: 'Descuento del 50.0 % en DXX Technik Bausteine Auto Benz G500  13'
 date: 2020-01-16 18:39:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D6gipVJAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D6gipVJAL._SL200_.jpg' ]

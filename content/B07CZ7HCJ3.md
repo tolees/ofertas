@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.35537190082644 % en 'Salomon X-Mission 3 W  Zapatillas de Tra'
+title: 'Descuento del 37.35537190082644 % en Salomon X-Mission 3 W  Zapatillas de Tra'
 date: 2019/10/30 19:11:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412HyuDC2bL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412HyuDC2bL._SL200_.jpg' ]

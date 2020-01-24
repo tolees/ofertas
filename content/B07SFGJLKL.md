@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pulsera Super Power de Plata Vermeil ros' al 30.000000000000004 % de descuento
+title: 'Pulsera Super Power de Plata Vermeil ros al 30.000000000000004 % de descuento'
 date: 2019/11/25 15:42:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Eqa51lUUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Eqa51lUUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.77777777777778 % en 'Element Vertical SS Camiseta de Manga Co'
+title: 'Descuento del 40.77777777777778 % en Element Vertical SS Camiseta de Manga Co'
 date: 2019/12/01 17:43:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DKHfTPuXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DKHfTPuXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Epson WFDS360W - Escáner de Color móvil ' al 39.227602972457795 % de descuento
+title: 'Epson WFDS360W - Escáner de Color móvil  al 39.227602972457795 % de descuento'
 date: 2019/11/07 17:14:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31-76nrabOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31-76nrabOL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TECOOL Funda para MacBook Pro 13 2016 20' al 62.9596940276552 % de descuento
+title: 'TECOOL Funda para MacBook Pro 13 2016 20 al 62.9596940276552 % de descuento'
 date: 2019/11/24 00:18:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i6Jmj%2Ba0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i6Jmj%2Ba0L._SL200_.jpg' ]

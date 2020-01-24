@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Memory Touch Sujetador con ' al 40.645833333333336 % de descuento
+title: 'Calvin Klein Memory Touch Sujetador con  al 40.645833333333336 % de descuento'
 date: 2019/11/18 23:48:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IZ2sfr5lL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IZ2sfr5lL._SL200_.jpg' ]

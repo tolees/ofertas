@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.262048192771076 % en 'Bosch X-Line - Maletín de 34 unidades pa'
+title: 'Descuento del 34.262048192771076 % en Bosch X-Line - Maletín de 34 unidades pa'
 date: 2019/11/15 14:54:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QZ-IkYJ4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QZ-IkYJ4L._SL200_.jpg' ]

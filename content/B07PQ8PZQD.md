@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 80.13831856494488 % en 'Riuty Luz de Techo LED  Montaje Empotrad'
+title: 'Descuento del 80.13831856494488 % en Riuty Luz de Techo LED  Montaje Empotrad'
 date: 2019/12/08 23:51:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yJEcwuJuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yJEcwuJuL._SL200_.jpg' ]

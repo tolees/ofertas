@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wrangler Sign Off tee Camiseta  Rojo  Sc' al 53.38677354709418 % de descuento
+title: 'Wrangler Sign Off tee Camiseta  Rojo  Sc al 53.38677354709418 % de descuento'
 date: 2019/11/05 17:52:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hG10vz7vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hG10vz7vL._SL200_.jpg' ]

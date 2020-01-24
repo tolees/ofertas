@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Oral-B Pro 700 CrossAction - Cepillo de ' al 45.561403508771924 % de descuento
+title: 'Oral-B Pro 700 CrossAction - Cepillo de  al 45.561403508771924 % de descuento'
 date: 2019/10/20 19:47:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41abSK0VrmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41abSK0VrmL._SL200_.jpg' ]

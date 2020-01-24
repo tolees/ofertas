@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.015007503751878 % en 'BOSS Mabsoot Camisa  Blanco  White 100  '
+title: 'Descuento del 30.015007503751878 % en BOSS Mabsoot Camisa  Blanco  White 100  '
 date: 2019/10/20 16:31:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RqvsifX8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RqvsifX8L._SL200_.jpg' ]

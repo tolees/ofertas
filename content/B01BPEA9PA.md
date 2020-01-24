@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bombas de Baño ORGÁNICAS con Aceites Ese' al 50.00833472245374 % de descuento
+title: 'Bombas de Baño ORGÁNICAS con Aceites Ese al 50.00833472245374 % de descuento'
 date: 2020-01-16 11:23:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51d0Md-C7RL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51d0Md-C7RL._SL200_.jpg' ]

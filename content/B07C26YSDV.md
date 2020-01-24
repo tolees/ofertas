@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.01440576230491 % en 'JACK & JONES Jjecorp Logo Sweat Hood Noo'
+title: 'Descuento del 36.01440576230491 % en JACK & JONES Jjecorp Logo Sweat Hood Noo'
 date: 2019/11/21 07:22:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NY90VYYLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NY90VYYLL._SL200_.jpg' ]

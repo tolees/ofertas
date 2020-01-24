@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'V-Bag movetrack by Vodafone - GPS Tracke' al 78.61230329041489 % de descuento
+title: 'V-Bag movetrack by Vodafone - GPS Tracke al 78.61230329041489 % de descuento'
 date: 2019/12/24 19:14:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316jrSoC4KL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316jrSoC4KL._SL200_.jpg' ]

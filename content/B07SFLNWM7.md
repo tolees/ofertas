@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hieha Electroestimulador Muscular  Abdom' al 48.84856943475228 % de descuento
+title: 'Hieha Electroestimulador Muscular  Abdom al 48.84856943475228 % de descuento'
 date: 2019/10/08 03:02:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y4iD%2Bu5hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y4iD%2Bu5hL._SL200_.jpg' ]

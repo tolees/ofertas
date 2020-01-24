@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.38179393131043 % en 'Springfield 5.G.Vestido Cadenas Vestido '
+title: 'Descuento del 45.38179393131043 % en Springfield 5.G.Vestido Cadenas Vestido '
 date: 2019/11/03 19:26:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jvlf7lmDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jvlf7lmDL._SL200_.jpg' ]

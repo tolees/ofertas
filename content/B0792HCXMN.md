@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Geox U Wells C  Zapatillas para Hombre  ' al 60.270270270270274 % de descuento
+title: 'Geox U Wells C  Zapatillas para Hombre   al 60.270270270270274 % de descuento'
 date: 2019/11/04 09:23:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PnnQEuJsL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PnnQEuJsL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Tunes  Zapatillas para Hombre  Gri' al 29.449081803005008 % de descuento
+title: 'Kappa Tunes  Zapatillas para Hombre  Gri al 29.449081803005008 % de descuento'
 date: 2019/10/19 08:34:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iMXI-6YeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iMXI-6YeL._SL200_.jpg' ]

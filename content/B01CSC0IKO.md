@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.80248781307783 % en 'LEABAGS Illinois Monedero de auténtico C'
+title: 'Descuento del 74.80248781307783 % en LEABAGS Illinois Monedero de auténtico C'
 date: 2020-01-19 12:28:37
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41socZBFLpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41socZBFLpL._SL200_.jpg' ]

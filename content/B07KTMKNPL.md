@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.01625406351587 % en 'LAPPAZO- Reloj Niña de Analógico Cuarzo '
+title: 'Descuento del 65.01625406351587 % en LAPPAZO- Reloj Niña de Analógico Cuarzo '
 date: 2020-01-23 18:12:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ORYcebOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ORYcebOPL._SL200_.jpg' ]

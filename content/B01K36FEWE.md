@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desconocido USB 2.0 MP3 Reproductor de M' al 44.44444444444445 % de descuento
+title: 'Desconocido USB 2.0 MP3 Reproductor de M al 44.44444444444445 % de descuento'
 date: 2020-01-23 16:14:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tlbvgVGQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tlbvgVGQL._SL200_.jpg' ]

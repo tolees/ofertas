@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Turin Ii Zapatillas Unisex adulto  ' al 49.44494995450409 % de descuento
+title: 'Puma Turin Ii Zapatillas Unisex adulto   al 49.44494995450409 % de descuento'
 date: 2019/10/19 09:35:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411k8x7EYIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411k8x7EYIL._SL200_.jpg' ]

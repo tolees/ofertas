@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kärcher Detergente universal detergente ' al 26.932367149758452 % de descuento
+title: 'Kärcher Detergente universal detergente  al 26.932367149758452 % de descuento'
 date: 2019/12/28 06:18:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419PVSFLi9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419PVSFLi9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.156900472275666 % en 'Burton Menswear London Globe Funnel Jack'
+title: 'Descuento del 59.156900472275666 % en Burton Menswear London Globe Funnel Jack'
 date: 2019/11/11 17:19:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VcQqx2ueL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VcQqx2ueL._SL200_.jpg' ]

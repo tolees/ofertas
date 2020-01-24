@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riuty Lámpara Decorativa 3pcs LED Luz Ci' al 61.240310077519375 % de descuento
+title: 'Riuty Lámpara Decorativa 3pcs LED Luz Ci al 61.240310077519375 % de descuento'
 date: 2019/12/08 23:52:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nP-CscVEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nP-CscVEL._SL200_.jpg' ]

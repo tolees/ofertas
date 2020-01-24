@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Logo Sweatshirt Sudadera  Negro  Bla' al 42.32307692307692 % de descuento
+title: 'Lee Logo Sweatshirt Sudadera  Negro  Bla al 42.32307692307692 % de descuento'
 date: 2019/12/01 18:30:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414lQfqSWEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414lQfqSWEL._SL200_.jpg' ]

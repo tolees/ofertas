@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.84981226533167 % en 'Kingston DTDUO3/64GB - Memoria USB  64 G'
+title: 'Descuento del 59.84981226533167 % en Kingston DTDUO3/64GB - Memoria USB  64 G'
 date: 2019/11/01 21:55:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/4175OlNY8QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/4175OlNY8QL._SL200_.jpg' ]

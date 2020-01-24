@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Clarins Solaire Lait Fondant Auto-Bronza' al 38.421052631578945 % de descuento
+title: 'Clarins Solaire Lait Fondant Auto-Bronza al 38.421052631578945 % de descuento'
 date: 2020-01-09 15:59:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H1AuXbhVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H1AuXbhVL._SL200_.jpg' ]

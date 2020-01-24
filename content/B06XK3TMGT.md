@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fisher-Price Proyector osito dormilón  j' al 39.49681721733859 % de descuento
+title: 'Fisher-Price Proyector osito dormilón  j al 39.49681721733859 % de descuento'
 date: 2019/12/16 10:02:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31mN61MPYAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31mN61MPYAL._SL200_.jpg' ]

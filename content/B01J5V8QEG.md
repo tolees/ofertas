@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.01750875437718 % en 'Vicloon - Disfraz de Princesa Elsa - Rei'
+title: 'Descuento del 35.01750875437718 % en Vicloon - Disfraz de Princesa Elsa - Rei'
 date: 2019/10/31 10:07:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Uj8K44U-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Uj8K44U-L._SL200_.jpg' ]

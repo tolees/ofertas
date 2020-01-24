@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 87.16129392703503 % en 'CIVO Reloj Negro Ultra Fino para Hombre '
+title: 'Descuento del 87.16129392703503 % en CIVO Reloj Negro Ultra Fino para Hombre '
 date: 2019/12/13 15:00:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VySRCgZbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VySRCgZbL._SL200_.jpg' ]

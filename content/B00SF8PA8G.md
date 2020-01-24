@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.99533177725908 % en 'G-STAR RAW Midge Cody Mid Waist Skinny V'
+title: 'Descuento del 65.99533177725908 % en G-STAR RAW Midge Cody Mid Waist Skinny V'
 date: 2019/12/05 01:48:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LnZMb-h5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LnZMb-h5L._SL200_.jpg' ]

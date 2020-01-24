@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Surface Pen  Autonomía De 500 Horas en U' al 43.47345132743362 % de descuento
+title: 'Surface Pen  Autonomía De 500 Horas en U al 43.47345132743362 % de descuento'
 date: 2020-01-20 17:21:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VncC5csvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VncC5csvL._SL200_.jpg' ]

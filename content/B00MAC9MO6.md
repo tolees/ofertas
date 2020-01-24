@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.509377344336094 % en 'NEWSTYLE Fuente Alimentacion Transformad'
+title: 'Descuento del 37.509377344336094 % en NEWSTYLE Fuente Alimentacion Transformad'
 date: 2019/12/08 14:33:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RA72%2BJu1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RA72%2BJu1L._SL200_.jpg' ]

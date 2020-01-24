@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.38287783429606 % en 'Controlslim -Aquisana | Quema Grasas Pot'
+title: 'Descuento del 41.38287783429606 % en Controlslim -Aquisana | Quema Grasas Pot'
 date: 2020-01-23 08:09:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51KLmgOuOrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51KLmgOuOrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BIC Cristal Fun bolígrafos Punta Ancha  ' al 34.49275362318841 % de descuento
+title: 'BIC Cristal Fun bolígrafos Punta Ancha   al 34.49275362318841 % de descuento'
 date: 2019/12/14 19:21:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516M80jT8CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516M80jT8CL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.84952978056427 % en 'Café FORTALEZA - Surtido de Cápsulas de '
+title: 'Descuento del 46.84952978056427 % en Café FORTALEZA - Surtido de Cápsulas de '
 date: 2020-01-21 11:11:04
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

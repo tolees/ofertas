@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.088480801335564 % en 'Parrot BEBOP 2 FPV - Dron cuadricóptero '
+title: 'Descuento del 33.088480801335564 % en Parrot BEBOP 2 FPV - Dron cuadricóptero '
 date: 2020-01-09 06:44:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eO-rgjpCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eO-rgjpCL._SL200_.jpg' ]

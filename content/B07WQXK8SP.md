@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'YOSICIL Zapatos de la Princesa Elsa niña' al 40.0 % de descuento
+title: 'YOSICIL Zapatos de la Princesa Elsa niña al 40.0 % de descuento'
 date: 2020-01-06 22:23:32
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hi5HNegzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hi5HNegzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Timberland Malibu Waves Cross Slide  San' al 66.725 % de descuento
+title: 'Timberland Malibu Waves Cross Slide  San al 66.725 % de descuento'
 date: 2019/10/10 13:05:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Nc8n-cH5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Nc8n-cH5L._SL200_.jpg' ]

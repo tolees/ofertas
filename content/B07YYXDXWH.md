@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.40400363967243 % en 'LAYJOY Funda Xiaomi Mi A3  Ligera Carcas'
+title: 'Descuento del 44.40400363967243 % en LAYJOY Funda Xiaomi Mi A3  Ligera Carcas'
 date: 2019/12/27 22:43:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Q9HmKDmZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Q9HmKDmZL._SL200_.jpg' ]

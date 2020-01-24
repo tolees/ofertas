@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pikolinos Cadaques W8k_v19  Sandalias Pu' al 46.898989898989896 % de descuento
+title: 'Pikolinos Cadaques W8k_v19  Sandalias Pu al 46.898989898989896 % de descuento'
 date: 2019/11/03 12:58:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41i3oCihkUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41i3oCihkUL._SL200_.jpg' ]

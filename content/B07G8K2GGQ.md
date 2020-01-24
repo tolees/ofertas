@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Russell Hobbs One Temp 25090-56 - Planch' al 38.89127018145449 % de descuento
+title: 'Russell Hobbs One Temp 25090-56 - Planch al 38.89127018145449 % de descuento'
 date: 2020-01-21 16:22:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tcLTOiNaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tcLTOiNaL._SL200_.jpg' ]

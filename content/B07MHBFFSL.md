@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.99756085662715 % en 'Star vie Aquila Pro'
+title: 'Descuento del 49.99756085662715 % en Star vie Aquila Pro'
 date: 2020-01-22 15:39:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w%2B4CyTSvL._SL200_.jpg' ]

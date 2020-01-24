@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP BENJAMIN FRANKLIN VINYL FI' al 37.61467889908256 % de descuento
+title: 'POP BENJAMIN FRANKLIN VINYL FI al 37.61467889908256 % de descuento'
 date: 2020-01-24 14:36:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZX8dnIalL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZX8dnIalL._AC_._SL200_.jpg' ]

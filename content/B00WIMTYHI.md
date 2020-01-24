@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Huerto Urbano - Kit Stevia - Batlle' al 45.137614678899084 % de descuento
+title: 'Huerto Urbano - Kit Stevia - Batlle al 45.137614678899084 % de descuento'
 date: 2019/10/19 16:19:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51m%2BPJZFo1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51m%2BPJZFo1L._SL200_.jpg' ]

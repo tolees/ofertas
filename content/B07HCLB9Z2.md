@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.61003861003861 % en 'Ingenious Toys® Technic classic bicycle '
+title: 'Descuento del 38.61003861003861 % en Ingenious Toys® Technic classic bicycle '
 date: 2019/12/13 13:29:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51eWTKasBZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51eWTKasBZL._SL200_.jpg' ]

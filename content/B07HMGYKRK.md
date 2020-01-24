@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Toallas de altas prestaci' al 49.57340394233598 % de descuento
+title: 'AmazonBasics - Toallas de altas prestaci al 49.57340394233598 % de descuento'
 date: 2019/11/17 12:34:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YmWhdH%2BIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YmWhdH%2BIL._SL200_.jpg' ]

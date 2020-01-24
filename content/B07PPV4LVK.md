@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RIP CURL Rider s Raglan Fleece Sudadera ' al 69.56454839206032 % de descuento
+title: 'RIP CURL Rider s Raglan Fleece Sudadera  al 69.56454839206032 % de descuento'
 date: 2019/10/26 17:14:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31STjBhLqOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31STjBhLqOL._SL200_.jpg' ]

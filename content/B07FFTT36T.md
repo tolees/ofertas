@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Juego de 4 accesorios par' al 25.052105043768226 % de descuento
+title: 'AmazonBasics - Juego de 4 accesorios par al 25.052105043768226 % de descuento'
 date: 2019/10/07 20:58:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31pcID-KGFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31pcID-KGFL._SL200_.jpg' ]

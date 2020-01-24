@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.05059418755147 % en 'Nike Classic Cortez Leather  Zapatillas '
+title: 'Descuento del 30.05059418755147 % en Nike Classic Cortez Leather  Zapatillas '
 date: 2019/11/28 19:44:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UuU5STKeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UuU5STKeL._SL200_.jpg' ]

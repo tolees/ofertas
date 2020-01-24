@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KollyKolla Botella de Agua Deporte  Bote' al 26.329647182727744 % de descuento
+title: 'KollyKolla Botella de Agua Deporte  Bote al 26.329647182727744 % de descuento'
 date: 2020-01-02 22:02:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514gECRnPhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514gECRnPhL._SL200_.jpg' ]

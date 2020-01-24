@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bolso de Fiesta Noche Hard Shell Clutch ' al 32.50812703175795 % de descuento
+title: 'Bolso de Fiesta Noche Hard Shell Clutch  al 32.50812703175795 % de descuento'
 date: 2020-01-18 11:51:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51VTEkAifmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51VTEkAifmL._SL200_.jpg' ]

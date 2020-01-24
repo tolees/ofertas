@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Antimosquitos Repelente Ultrasónico de C' al 48.50343473994112 % de descuento
+title: 'Antimosquitos Repelente Ultrasónico de C al 48.50343473994112 % de descuento'
 date: 2019/11/21 06:43:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jxHHJc7aL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jxHHJc7aL._SL200_.jpg' ]

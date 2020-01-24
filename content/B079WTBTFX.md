@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fujifilm X-A5 Mirrorless Digital Camera ' al 49.44320712694877 % de descuento
+title: 'Fujifilm X-A5 Mirrorless Digital Camera  al 49.44320712694877 % de descuento'
 date: 2020-01-07 17:26:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ayNj5gRAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ayNj5gRAL._SL200_.jpg' ]

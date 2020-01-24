@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.04291845493563 % en 'Calvin Klein Demi Unlined Sujetador  Neg'
+title: 'Descuento del 30.04291845493563 % en Calvin Klein Demi Unlined Sujetador  Neg'
 date: 2019/11/26 11:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413vY2PxLbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413vY2PxLbL._SL200_.jpg' ]

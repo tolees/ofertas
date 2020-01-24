@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scottex Acolchado Papel Higiénico - 32 R' al 36.025732666190144 % de descuento
+title: 'Scottex Acolchado Papel Higiénico - 32 R al 36.025732666190144 % de descuento'
 date: 2019/11/06 18:02:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51w6pOC7KxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51w6pOC7KxL._SL200_.jpg' ]

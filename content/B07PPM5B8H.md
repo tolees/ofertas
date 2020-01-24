@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Masantal1 Camisa  Gris  Charcoal  ' al 48.1135340948425 % de descuento
+title: 'Celio Masantal1 Camisa  Gris  Charcoal   al 48.1135340948425 % de descuento'
 date: 2019/10/06 13:23:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cW67ivuFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cW67ivuFL._SL200_.jpg' ]

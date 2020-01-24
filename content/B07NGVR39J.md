@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Hip Brief 3pk Bóxer  Negro ' al 33.85579937304074 % de descuento
+title: 'Calvin Klein Hip Brief 3pk Bóxer  Negro  al 33.85579937304074 % de descuento'
 date: 2019/10/24 09:05:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XMc6TKWmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XMc6TKWmL._SL200_.jpg' ]

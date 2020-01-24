@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.981990995497746 % en 'G-STAR RAW Rovic Zip 3D Tapered  Pantalo'
+title: 'Descuento del 43.981990995497746 % en G-STAR RAW Rovic Zip 3D Tapered  Pantalo'
 date: 2019/12/03 11:06:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41S8qRoxkmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41S8qRoxkmL._SL200_.jpg' ]

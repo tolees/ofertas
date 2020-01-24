@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reloj Fossil - Hombre ME3140' al 66.86289578850293 % de descuento
+title: 'Reloj Fossil - Hombre ME3140 al 66.86289578850293 % de descuento'
 date: 2019/11/13 07:11:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dG3zgcM5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dG3zgcM5L._SL200_.jpg' ]

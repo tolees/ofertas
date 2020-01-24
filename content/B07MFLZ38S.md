@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Think Gizmos Kit de Construcción de Vehí' al 56.91267443533305 % de descuento
+title: 'Think Gizmos Kit de Construcción de Vehí al 56.91267443533305 % de descuento'
 date: 2019/12/03 08:00:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51sNRXIRzSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51sNRXIRzSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buff Zest Gorra Trucker  Hombre  Grey  T' al 34.73533619456367 % de descuento
+title: 'Buff Zest Gorra Trucker  Hombre  Grey  T al 34.73533619456367 % de descuento'
 date: 2019/11/06 19:21:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419dB%2Bpf4TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419dB%2Bpf4TL._SL200_.jpg' ]

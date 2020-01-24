@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.006251562890736 % en 'AGPTEK Luces Proyector de Navidad de Hal'
+title: 'Descuento del 25.006251562890736 % en AGPTEK Luces Proyector de Navidad de Hal'
 date: 2019/11/10 12:35:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51y9gbjtUoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51y9gbjtUoL._SL200_.jpg' ]

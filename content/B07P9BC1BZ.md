@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorvole tee SS Crew Neck Ca' al 59.979989994997496 % de descuento
+title: 'JACK & JONES Jorvole tee SS Crew Neck Ca al 59.979989994997496 % de descuento'
 date: 2019/11/26 00:02:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gNs2JVncL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gNs2JVncL._SL200_.jpg' ]

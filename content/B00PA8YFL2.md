@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.3368324965769 % en 'Jinzu Ginebra - 700 ml'
+title: 'Descuento del 32.3368324965769 % en Jinzu Ginebra - 700 ml'
 date: 2019/10/31 11:16:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aFPZEBQML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aFPZEBQML._SL200_.jpg' ]

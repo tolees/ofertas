@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.617461519051226 % en 'Auchentoshan 12Y Whisky Single Malt - 70'
+title: 'Descuento del 31.617461519051226 % en Auchentoshan 12Y Whisky Single Malt - 70'
 date: 2019/12/02 19:41:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414MC%2BaH0LL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414MC%2BaH0LL._SL200_.jpg' ]

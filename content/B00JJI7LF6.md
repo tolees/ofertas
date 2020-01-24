@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant Stretch Cotton Cable Crew  Jersey P' al 45.6821313734497 % de descuento
+title: 'Gant Stretch Cotton Cable Crew  Jersey P al 45.6821313734497 % de descuento'
 date: 2019/12/03 01:26:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qypAvwcXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qypAvwcXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Einhell 4466260 LIJADORA DE Banda 850 W ' al 27.224749772520475 % de descuento
+title: 'Einhell 4466260 LIJADORA DE Banda 850 W  al 27.224749772520475 % de descuento'
 date: 2019/10/22 09:48:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410jnXX52xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410jnXX52xL._SL200_.jpg' ]

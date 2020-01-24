@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toshiba N300 HDWD105UZSVA - Disco duro i' al 27.32544378698225 % de descuento
+title: 'Toshiba N300 HDWD105UZSVA - Disco duro i al 27.32544378698225 % de descuento'
 date: 2019/11/04 14:21:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sjhBxZb-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sjhBxZb-L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Rider Jeans Vaqueros  Blue Drop  32W' al 38.52900446222495 % de descuento
+title: 'Lee Rider Jeans Vaqueros  Blue Drop  32W al 38.52900446222495 % de descuento'
 date: 2019/10/14 09:01:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DahiZ-vVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DahiZ-vVL._SL200_.jpg' ]

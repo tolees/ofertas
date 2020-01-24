@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.47633705271257 % en 'Brillos corporales  Purpurinas Polvo  Pu'
+title: 'Descuento del 38.47633705271257 % en Brillos corporales  Purpurinas Polvo  Pu'
 date: 2020-01-16 15:36:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/510H-xSNw2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/510H-xSNw2L._SL200_.jpg' ]

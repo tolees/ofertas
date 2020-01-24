@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Brief  High Waist   Braguit' al 40.53191489361703 % de descuento
+title: 'Calvin Klein Brief  High Waist   Braguit al 40.53191489361703 % de descuento'
 date: 2019/11/09 01:54:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xQTvR-oCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xQTvR-oCL._SL200_.jpg' ]

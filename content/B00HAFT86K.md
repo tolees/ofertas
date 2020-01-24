@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bourjois - 123 Perfect CC Cream  crema c' al 33.16582914572863 % de descuento
+title: 'Bourjois - 123 Perfect CC Cream  crema c al 33.16582914572863 % de descuento'
 date: 2019/10/31 17:37:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ybk9T%2BpXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ybk9T%2BpXL._SL200_.jpg' ]

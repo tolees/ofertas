@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Suede Platform SNK Jr  Zapatillas U' al 54.636424282855245 % de descuento
+title: 'Puma Suede Platform SNK Jr  Zapatillas U al 54.636424282855245 % de descuento'
 date: 2019/10/22 19:52:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DXDU783ML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DXDU783ML._SL200_.jpg' ]

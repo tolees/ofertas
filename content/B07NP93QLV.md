@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.53257790368272 % en 'Stranger Things SCMG25282 Taza TERMOCOLO'
+title: 'Descuento del 29.53257790368272 % en Stranger Things SCMG25282 Taza TERMOCOLO'
 date: 2019/11/24 11:21:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m20gS8wHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m20gS8wHL._SL200_.jpg' ]

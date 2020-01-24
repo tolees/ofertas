@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Charging Station Para Mandos  PS4 ' al 26.31315657828913 % de descuento
+title: 'Charging Station Para Mandos  PS4  al 26.31315657828913 % de descuento'
 date: 2020-01-08 23:34:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JnSLzIoQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JnSLzIoQL._SL200_.jpg' ]

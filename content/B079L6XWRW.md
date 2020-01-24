@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.603174603174608 % en 'Gorjuss 796gj01 Bolso Bandolera  36 cm  '
+title: 'Descuento del 28.603174603174608 % en Gorjuss 796gj01 Bolso Bandolera  36 cm  '
 date: 2019/10/12 01:39:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Sz-hopiNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Sz-hopiNL._SL200_.jpg' ]

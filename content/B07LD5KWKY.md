@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shayson Paquete de 16 Mascarilla rcp  CP' al 54.81382978723405 % de descuento
+title: 'Shayson Paquete de 16 Mascarilla rcp  CP al 54.81382978723405 % de descuento'
 date: 2019/11/02 11:59:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61FaCw8iqZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61FaCw8iqZL._SL200_.jpg' ]

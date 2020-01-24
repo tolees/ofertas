@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Albatros Sillas de Comedor Crystal  Set ' al 28.03556543484301 % de descuento
+title: 'Albatros Sillas de Comedor Crystal  Set  al 28.03556543484301 % de descuento'
 date: 2019/10/27 15:35:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bHWJNHOPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bHWJNHOPL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bosch - Medidor láser de distancias Zamo' al 33.09330933093308 % de descuento
+title: 'Bosch - Medidor láser de distancias Zamo al 33.09330933093308 % de descuento'
 date: 2019/11/25 12:54:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KdBZKOzIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KdBZKOzIL._SL200_.jpg' ]

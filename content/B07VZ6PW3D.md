@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Showyoo Fitness Pulsera de Actividad Int' al 37.541666666666664 % de descuento
+title: 'Showyoo Fitness Pulsera de Actividad Int al 37.541666666666664 % de descuento'
 date: 2020-01-05 11:16:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518PO%2Bh2q7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518PO%2Bh2q7L._SL200_.jpg' ]

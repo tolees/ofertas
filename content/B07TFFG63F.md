@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.77736085053158 % en 'Correas para Xiaomi Mi Band 4 Mi Band 3 '
+title: 'Descuento del 43.77736085053158 % en Correas para Xiaomi Mi Band 4 Mi Band 3 '
 date: 2019/11/26 23:55:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a17CPO1VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a17CPO1VL._SL200_.jpg' ]

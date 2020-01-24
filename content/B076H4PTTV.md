@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Hue White and Colour Ambience 3-' al 46.666172766335755 % de descuento
+title: 'Philips Hue White and Colour Ambience 3- al 46.666172766335755 % de descuento'
 date: 2019/10/13 07:54:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313i5IRccqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313i5IRccqL._SL200_.jpg' ]

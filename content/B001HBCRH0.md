@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cat Footwear Colorado 652  Botas para Ho' al 26.786407766990294 % de descuento
+title: 'Cat Footwear Colorado 652  Botas para Ho al 26.786407766990294 % de descuento'
 date: 2019/10/27 17:43:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41TkqH9hNwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41TkqH9hNwL._SL200_.jpg' ]

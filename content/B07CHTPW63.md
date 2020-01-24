@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aeg RX9-1-IBM Robot Aspirador  60 Min de' al 50.050050050050054 % de descuento
+title: 'Aeg RX9-1-IBM Robot Aspirador  60 Min de al 50.050050050050054 % de descuento'
 date: 2019/11/27 10:10:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mCVVEh-tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mCVVEh-tL._SL200_.jpg' ]

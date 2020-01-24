@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mochila para Portátil con Puerto de Carg' al 60.396341463414636 % de descuento
+title: 'Mochila para Portátil con Puerto de Carg al 60.396341463414636 % de descuento'
 date: 2019/11/29 12:28:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5130D7pAiiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5130D7pAiiL._SL200_.jpg' ]

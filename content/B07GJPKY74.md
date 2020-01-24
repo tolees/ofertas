@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Xperia XA2 Plus - Smartphone Dual S' al 34.98245614035087 % de descuento
+title: 'Sony Xperia XA2 Plus - Smartphone Dual S al 34.98245614035087 % de descuento'
 date: 2019/11/18 01:11:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UNF9RIsjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UNF9RIsjL._SL200_.jpg' ]

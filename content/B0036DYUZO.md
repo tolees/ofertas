@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.088082901554404 % en 'Nike Sport-BH Pro Victory Compression  S'
+title: 'Descuento del 31.088082901554404 % en Nike Sport-BH Pro Victory Compression  S'
 date: 2019/10/14 19:33:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MBh0u%2BDZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MBh0u%2BDZL._SL200_.jpg' ]

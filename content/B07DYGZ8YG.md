@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Moab 2 Gore-Tex  Zapatillas de S' al 56.92307692307692 % de descuento
+title: 'Merrell Moab 2 Gore-Tex  Zapatillas de S al 56.92307692307692 % de descuento'
 date: 2019/11/14 21:58:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41WUng%2B5IZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41WUng%2B5IZL._SL200_.jpg' ]

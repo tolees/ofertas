@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calypso Hombre Reloj Digital con Pantall' al 34.65627214741318 % de descuento
+title: 'Calypso Hombre Reloj Digital con Pantall al 34.65627214741318 % de descuento'
 date: 2019/12/02 00:40:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MQEUOdq4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MQEUOdq4L._SL200_.jpg' ]

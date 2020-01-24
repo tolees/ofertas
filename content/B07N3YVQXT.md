@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual T-Shirt Andora Camiseta   Negro' al 50.8506075768406 % de descuento
+title: 'Desigual T-Shirt Andora Camiseta   Negro al 50.8506075768406 % de descuento'
 date: 2020-01-16 20:03:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EOSE61yoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EOSE61yoL._SL200_.jpg' ]

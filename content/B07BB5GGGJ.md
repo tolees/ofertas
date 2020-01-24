@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'XLS Medical Mantenimiento despues de per' al 79.27927927927928 % de descuento
+title: 'XLS Medical Mantenimiento despues de per al 79.27927927927928 % de descuento'
 date: 2020-01-16 12:09:06
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BWBhAM5CL._SL200_.jpg' ]

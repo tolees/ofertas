@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.999999999999993 % en 'AURIQUE MKSS18AZL04 Pantalones  Azul  Na'
+title: 'Descuento del 29.999999999999993 % en AURIQUE MKSS18AZL04 Pantalones  Azul  Na'
 date: 2019/11/14 11:53:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/312mMj2vc3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/312mMj2vc3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia 1420421  Chaqueta Forro Polar H' al 60.47209441888377 % de descuento
+title: 'Columbia 1420421  Chaqueta Forro Polar H al 60.47209441888377 % de descuento'
 date: 2020-01-06 16:10:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mKSB3-4cL._SL200_.jpg' ]

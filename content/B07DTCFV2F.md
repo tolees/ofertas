@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Cable de conector Lightni' al 66.34885025238361 % de descuento
+title: 'AmazonBasics - Cable de conector Lightni al 66.34885025238361 % de descuento'
 date: 2019/11/15 07:11:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31fNIPiJHEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31fNIPiJHEL._SL200_.jpg' ]

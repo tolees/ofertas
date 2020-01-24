@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Goodbye  Rita. Round 6 Gafas  Azul  Tall' al 33.44481605351171 % de descuento
+title: 'Goodbye  Rita. Round 6 Gafas  Azul  Tall al 33.44481605351171 % de descuento'
 date: 2020-01-19 17:07:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OdH-eW7GL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OdH-eW7GL._SL200_.jpg' ]

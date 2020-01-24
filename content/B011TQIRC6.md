@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.389440061946473 % en 'BINTEC be.IP IP Access Media Gateway 2X '
+title: 'Descuento del 31.389440061946473 % en BINTEC be.IP IP Access Media Gateway 2X '
 date: 2019/11/28 19:13:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qx2sMsgwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qx2sMsgwL._SL200_.jpg' ]

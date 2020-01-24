@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.98214285714286 % en 'BSEED Interruptores de luz de pared Smar'
+title: 'Descuento del 45.98214285714286 % en BSEED Interruptores de luz de pared Smar'
 date: 2019/12/15 16:52:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31U4cKCfZaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31U4cKCfZaL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Daren Vaqueros Straight  Azul  Blue ' al 67.97398699349675 % de descuento
+title: 'Lee Daren Vaqueros Straight  Azul  Blue  al 67.97398699349675 % de descuento'
 date: 2019/10/28 20:12:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417lEVIAn4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417lEVIAn4L._SL200_.jpg' ]

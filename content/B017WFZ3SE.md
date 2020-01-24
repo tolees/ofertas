@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HJH Office Bright Silla de confidente  1' al 37.994472956968025 % de descuento
+title: 'HJH Office Bright Silla de confidente  1 al 37.994472956968025 % de descuento'
 date: 2019/10/24 17:06:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31wetRwDNXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31wetRwDNXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.49090909090909 % en 'Clarks Un Cruise Lace  Zapatos de Cordon'
+title: 'Descuento del 43.49090909090909 % en Clarks Un Cruise Lace  Zapatos de Cordon'
 date: 2019/10/31 18:00:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z579SUrHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z579SUrHL._SL200_.jpg' ]

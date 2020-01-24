@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Black Crevice Abrigo Corto Negro / Naran' al 74.83391670833632 % de descuento
+title: 'Black Crevice Abrigo Corto Negro / Naran al 74.83391670833632 % de descuento'
 date: 2019/10/11 07:35:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41k05eUjqtL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41k05eUjqtL._SL200_.jpg' ]

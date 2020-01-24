@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Max - Estuche con Tres Compar' al 50.075187969924805 % de descuento
+title: 'Pepe Jeans Max - Estuche con Tres Compar al 50.075187969924805 % de descuento'
 date: 2019/11/02 00:07:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BPgDTLqfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BPgDTLqfL._SL200_.jpg' ]

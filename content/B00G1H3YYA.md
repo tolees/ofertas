@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.43429286608261 % en 'PUMA Sweatshirt Hoody - Sudadera de fútb'
+title: 'Descuento del 27.43429286608261 % en PUMA Sweatshirt Hoody - Sudadera de fútb'
 date: 2019/11/24 10:32:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yg6vr4j3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yg6vr4j3L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.97248624312157 % en 'Clarks Gilman Mode  Zapatos de Cordones '
+title: 'Descuento del 64.97248624312157 % en Clarks Gilman Mode  Zapatos de Cordones '
 date: 2019/12/13 15:43:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41I1NLHFV8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41I1NLHFV8L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.0 % en 'Amazon Essentials Denim Trucker Jacket J'
+title: 'Descuento del 25.0 % en Amazon Essentials Denim Trucker Jacket J'
 date: 2019/12/10 19:32:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JkkTFe8oL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JkkTFe8oL._SL200_.jpg' ]

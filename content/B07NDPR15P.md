@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0125156445557 % en 'G-Star Raw Graphic 17 Loose V-Neck Camis'
+title: 'Descuento del 50.0125156445557 % en G-Star Raw Graphic 17 Loose V-Neck Camis'
 date: 2019/12/03 23:24:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oHWBdnD5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oHWBdnD5L._SL200_.jpg' ]

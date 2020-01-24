@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lower East Chaqueta de hombre  Negro  M' al 33.123486682808725 % de descuento
+title: 'Lower East Chaqueta de hombre  Negro  M al 33.123486682808725 % de descuento'
 date: 2019/12/26 20:38:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YwPeopXeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YwPeopXeL._SL200_.jpg' ]

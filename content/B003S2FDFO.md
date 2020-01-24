@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.43333333333333 % en 'Vans Herren OTW T-Shirt  Weiß  WHITE-BLA'
+title: 'Descuento del 35.43333333333333 % en Vans Herren OTW T-Shirt  Weiß  WHITE-BLA'
 date: 2019/10/06 15:09:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315h5wdICML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315h5wdICML._SL200_.jpg' ]

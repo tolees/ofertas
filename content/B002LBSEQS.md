@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.49152542372882 % en 'Samson SR850 - Auriculares de diadema ce'
+title: 'Descuento del 54.49152542372882 % en Samson SR850 - Auriculares de diadema ce'
 date: 2019/12/04 08:33:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MScvELJiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MScvELJiL._SL200_.jpg' ]

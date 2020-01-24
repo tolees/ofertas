@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.429338103756706 % en 'Brrnoo Corrector de Postura para Espalda'
+title: 'Descuento del 40.429338103756706 % en Brrnoo Corrector de Postura para Espalda'
 date: 2019/10/13 18:11:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41W7sm9T17L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41W7sm9T17L._SL200_.jpg' ]

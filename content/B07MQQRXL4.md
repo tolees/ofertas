@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ANTIMI Bluetooth Headphones Wireless Ear' al 67.29702700245477 % de descuento
+title: 'ANTIMI Bluetooth Headphones Wireless Ear al 67.29702700245477 % de descuento'
 date: 2020-01-23 17:27:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cdLqMxE6L._SL200_.jpg' ]

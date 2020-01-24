@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG 65UK6100PLB - Televisor de 65    Smar' al 57.233848953594176 % de descuento
+title: 'LG 65UK6100PLB - Televisor de 65    Smar al 57.233848953594176 % de descuento'
 date: 2019/11/13 10:58:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Hx7z8UKdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Hx7z8UKdL._SL200_.jpg' ]

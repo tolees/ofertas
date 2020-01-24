@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 54.19230769230769 % en 'Under Armour Ua Classic Script SS Camise'
+title: 'Descuento del 54.19230769230769 % en Under Armour Ua Classic Script SS Camise'
 date: 2019/10/10 14:09:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413ypP0eGTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413ypP0eGTL._SL200_.jpg' ]

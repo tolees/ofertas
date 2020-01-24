@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Zero Rules Polo  Hombre  Rojo  ' al 69.08201822627251 % de descuento
+title: 'Columbia Zero Rules Polo  Hombre  Rojo   al 69.08201822627251 % de descuento'
 date: 2019/11/26 14:34:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OmtT1KPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OmtT1KPEL._SL200_.jpg' ]

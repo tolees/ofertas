@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.32888888888889 % en 'Orient Reloj Analógico para Unisex Adult'
+title: 'Descuento del 50.32888888888889 % en Orient Reloj Analógico para Unisex Adult'
 date: 2019/12/18 22:01:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512nb%2BOQe4L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512nb%2BOQe4L._SL200_.jpg' ]

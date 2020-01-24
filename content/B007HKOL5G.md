@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Philips Avent SCF651/27 - Tetina Natural' al 53.529411764705884 % de descuento
+title: 'Philips Avent SCF651/27 - Tetina Natural al 53.529411764705884 % de descuento'
 date: 2019/11/20 08:40:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41zJpLLCO9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41zJpLLCO9L._SL200_.jpg' ]

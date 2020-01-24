@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Jump Force - Edición Estándar' al 25.062656641604008 % de descuento
+title: 'Jump Force - Edición Estándar al 25.062656641604008 % de descuento'
 date: 2019/11/24 23:30:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51tqxBKev9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51tqxBKev9L._SL200_.jpg' ]

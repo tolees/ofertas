@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'puersit Jarra Térmica 1.8L 304 Acero Ino' al 53.62542955326462 % de descuento
+title: 'puersit Jarra Térmica 1.8L 304 Acero Ino al 53.62542955326462 % de descuento'
 date: 2019/11/20 14:20:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xXactaUUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xXactaUUL._SL200_.jpg' ]

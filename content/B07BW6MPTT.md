@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.06006006006006 % en 'seQoya - Yosemite Traveller | Reloj de M'
+title: 'Descuento del 60.06006006006006 % en seQoya - Yosemite Traveller | Reloj de M'
 date: 2020-01-13 15:14:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Z8fS7O%2BJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Z8fS7O%2BJL._SL200_.jpg' ]

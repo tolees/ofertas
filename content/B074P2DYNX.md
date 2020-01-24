@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.21348956844813 % en 'MAX-T RMS6101 Afeitadora Eléctrica para '
+title: 'Descuento del 47.21348956844813 % en MAX-T RMS6101 Afeitadora Eléctrica para '
 date: 2020-01-13 11:06:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41XnUIh%2BhVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41XnUIh%2BhVL._SL200_.jpg' ]

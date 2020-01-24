@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Satin Hair 7 Colour Saver ST750 - ' al 42.505313164145505 % de descuento
+title: 'Braun Satin Hair 7 Colour Saver ST750 -  al 42.505313164145505 % de descuento'
 date: 2019/10/21 19:41:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410JdMFXOAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410JdMFXOAL._SL200_.jpg' ]

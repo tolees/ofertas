@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.18036072144288 % en 'Tommy Hilfiger Tommy Patch Square Pañuel'
+title: 'Descuento del 60.18036072144288 % en Tommy Hilfiger Tommy Patch Square Pañuel'
 date: 2019/10/26 10:22:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417TPYOSzdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417TPYOSzdL._SL200_.jpg' ]

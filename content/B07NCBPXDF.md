@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans MC Queen Short para Hombre  V' al 66.57314629258518 % de descuento
+title: 'Pepe Jeans MC Queen Short para Hombre  V al 66.57314629258518 % de descuento'
 date: 2019/10/15 10:41:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31F34QOlIuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31F34QOlIuL._SL200_.jpg' ]

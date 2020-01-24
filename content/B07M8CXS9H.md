@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Recortadora Barba BT5042 Recortado' al 27.277686852154936 % de descuento
+title: 'Braun Recortadora Barba BT5042 Recortado al 27.277686852154936 % de descuento'
 date: 2019/12/22 00:07:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Pwmx0EARL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Pwmx0EARL._SL200_.jpg' ]

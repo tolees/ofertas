@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.929648241206024 % en 'SAMSONITE Spark SNG - Spinner 55/20 with'
+title: 'Descuento del 35.929648241206024 % en SAMSONITE Spark SNG - Spinner 55/20 with'
 date: 2019/10/09 22:09:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41f0UFyfObL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41f0UFyfObL._SL200_.jpg' ]

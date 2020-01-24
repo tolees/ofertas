@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.34666666666666 % en 'Etnies Jameson 2 Eco  Zapatillas de Skat'
+title: 'Descuento del 68.34666666666666 % en Etnies Jameson 2 Eco  Zapatillas de Skat'
 date: 2019/10/30 15:49:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nPEE61IRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nPEE61IRL._SL200_.jpg' ]

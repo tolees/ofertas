@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Krups The Sub Heineken VB650E10 - Tirado' al 42.56212810640532 % de descuento
+title: 'Krups The Sub Heineken VB650E10 - Tirado al 42.56212810640532 % de descuento'
 date: 2020-01-17 13:36:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bO41-0JeL._SL200_.jpg' ]

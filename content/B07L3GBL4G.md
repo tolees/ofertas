@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hilfiger Denim Classic Tommy Jeans Sneak' al 50.50734312416556 % de descuento
+title: 'Hilfiger Denim Classic Tommy Jeans Sneak al 50.50734312416556 % de descuento'
 date: 2019/11/10 18:56:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s9VBXj6BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s9VBXj6BL._SL200_.jpg' ]

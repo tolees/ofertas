@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Festina Reloj Analógico para Hombre de C' al 50.797752808988776 % de descuento
+title: 'Festina Reloj Analógico para Hombre de C al 50.797752808988776 % de descuento'
 date: 2019/11/14 09:18:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qld0gPBxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qld0gPBxL._SL200_.jpg' ]

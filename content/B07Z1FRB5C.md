@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.343890648441416 % en 'Fayleer Electroestimulador Muscular  EMS'
+title: 'Descuento del 63.343890648441416 % en Fayleer Electroestimulador Muscular  EMS'
 date: 2019/11/24 02:41:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51-Z7UlPRoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51-Z7UlPRoL._SL200_.jpg' ]

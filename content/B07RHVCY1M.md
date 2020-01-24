@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.505007153075816 % en 'Denon AVR-X2600H 7.2-Kanal AV-Receiver  '
+title: 'Descuento del 32.505007153075816 % en Denon AVR-X2600H 7.2-Kanal AV-Receiver  '
 date: 2019/12/28 20:58:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JW-X6078L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JW-X6078L._SL200_.jpg' ]

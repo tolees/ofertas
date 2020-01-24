@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.001118187563804 % en 'APC Back-UPS BX - BX1400U-GR - Sistema d'
+title: 'Descuento del 33.001118187563804 % en APC Back-UPS BX - BX1400U-GR - Sistema d'
 date: 2019/10/07 15:12:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Xv6x1qJmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Xv6x1qJmL._SL200_.jpg' ]

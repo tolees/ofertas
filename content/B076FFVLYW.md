@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M DRI-FIT Breathe 19  Bermudas  H' al 79.9090909090909 % de descuento
+title: 'Hurley M DRI-FIT Breathe 19  Bermudas  H al 79.9090909090909 % de descuento'
 date: 2020-01-15 12:22:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51kVZWVN9NL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.0 % en 'New Balance 574 Zapatillas Hombre  Verde'
+title: 'Descuento del 40.0 % en New Balance 574 Zapatillas Hombre  Verde'
 date: 2019/10/10 21:47:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ib23gT7mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ib23gT7mL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.96720935565238 % en 'Equipo fotográfico portátil de Photo Boo'
+title: 'Descuento del 62.96720935565238 % en Equipo fotográfico portátil de Photo Boo'
 date: 2020-01-17 01:32:11
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IaXkT-H5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IaXkT-H5L._SL200_.jpg' ]

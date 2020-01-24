@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'HORI - Horipad negro  Nintendo Switch ' al 43.405676126878134 % de descuento
+title: 'HORI - Horipad negro  Nintendo Switch  al 43.405676126878134 % de descuento'
 date: 2019/12/17 11:49:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41poAYdBOeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41poAYdBOeL._SL200_.jpg' ]

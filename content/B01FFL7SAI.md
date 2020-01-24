@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Heatgear - Pantalones Corto' al 59.651878026436336 % de descuento
+title: 'Under Armour Heatgear - Pantalones Corto al 59.651878026436336 % de descuento'
 date: 2020-01-20 12:15:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31JF%2BA9u8mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31JF%2BA9u8mL._SL200_.jpg' ]

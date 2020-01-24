@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.71938848406915 % en 'Homever Cuchillos Cocina  Juego de Cuchi'
+title: 'Descuento del 35.71938848406915 % en Homever Cuchillos Cocina  Juego de Cuchi'
 date: 2019/11/20 15:02:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41soNmhXKUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41soNmhXKUL._SL200_.jpg' ]

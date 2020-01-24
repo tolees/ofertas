@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.99565154370198 % en 'AmazonBasics Lightning auf USB A Kabel  '
+title: 'Descuento del 69.99565154370198 % en AmazonBasics Lightning auf USB A Kabel  '
 date: 2019/11/28 18:04:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EFyDXqv7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EFyDXqv7L._SL200_.jpg' ]

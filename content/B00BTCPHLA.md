@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 86.53161175422974 % en 'Samsung Flip - Funda para móvil Galaxy S'
+title: 'Descuento del 86.53161175422974 % en Samsung Flip - Funda para móvil Galaxy S'
 date: 2020-01-16 11:32:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fSIIx7GNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fSIIx7GNL._SL200_.jpg' ]

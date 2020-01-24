@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.29352901934624 % en 'Jack & Jones  Jjebasic Polo SS Noos - Ca'
+title: 'Descuento del 40.29352901934624 % en Jack & Jones  Jjebasic Polo SS Noos - Ca'
 date: 2019/10/23 21:59:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319FBszlm0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319FBszlm0L._SL200_.jpg' ]

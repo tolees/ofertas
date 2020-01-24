@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ferrari Scuderia Ferrari Black Eau de To' al 59.54869358669834 % de descuento
+title: 'Ferrari Scuderia Ferrari Black Eau de To al 59.54869358669834 % de descuento'
 date: 2020-01-23 12:33:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41abrM9c1XL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41abrM9c1XL._SL200_.jpg' ]

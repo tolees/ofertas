@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fantasy Flight Games- Caja de Inicio par' al 46.68222740913638 % de descuento
+title: 'Fantasy Flight Games- Caja de Inicio par al 46.68222740913638 % de descuento'
 date: 2020-01-06 12:05:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uU52PgAbL._SL200_.jpg' ]

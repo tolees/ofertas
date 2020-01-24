@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pop! Romeo & Juliet - Figura de Vinilo R' al 48.275862068965516 % de descuento
+title: 'Pop! Romeo & Juliet - Figura de Vinilo R al 48.275862068965516 % de descuento'
 date: 2020-01-06 14:28:31
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41E40vynErL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41E40vynErL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.993249156144515 % en 'AmazonBasics - tienda iglú para 4 person'
+title: 'Descuento del 45.993249156144515 % en AmazonBasics - tienda iglú para 4 person'
 date: 2019/11/20 17:11:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wuEXczNbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wuEXczNbL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LG 50UK6300PLB - Smart TV de 50" LED UHD' al 44.95994993742178 % de descuento
+title: 'LG 50UK6300PLB - Smart TV de 50" LED UHD al 44.95994993742178 % de descuento'
 date: 2019/10/06 23:50:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kUqSD8aHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kUqSD8aHL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Centrum Advance Multivitamin Tablets  Pa' al 59.78391356542616 % de descuento
+title: 'Centrum Advance Multivitamin Tablets  Pa al 59.78391356542616 % de descuento'
 date: 2020-01-16 08:59:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413jnWzsvqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413jnWzsvqL._SL200_.jpg' ]

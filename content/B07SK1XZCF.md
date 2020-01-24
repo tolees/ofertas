@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Battery Base for Dot 3rd Generation＆Smar' al 40.008001600320064 % de descuento
+title: 'Battery Base for Dot 3rd Generation＆Smar al 40.008001600320064 % de descuento'
 date: 2019/12/13 19:45:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5194GTN9PWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5194GTN9PWL._SL200_.jpg' ]

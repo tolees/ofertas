@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.58238825883923 % en 'JACK & JONES Jorsummerretro tee SS Crew '
+title: 'Descuento del 73.58238825883923 % en JACK & JONES Jorsummerretro tee SS Crew '
 date: 2019/11/23 19:36:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31WzmdKFNHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31WzmdKFNHL._SL200_.jpg' ]

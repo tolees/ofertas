@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEDVANCE Smart+ LED ZigBee Bombilla con ' al 25.75270975511842 % de descuento
+title: 'LEDVANCE Smart+ LED ZigBee Bombilla con  al 25.75270975511842 % de descuento'
 date: 2019/11/29 14:34:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HabX9NoUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HabX9NoUL._SL200_.jpg' ]

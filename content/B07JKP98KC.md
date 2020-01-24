@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.64060763245646 % en 'Amy&Benton Juguetes para bebé  8PCS Figu'
+title: 'Descuento del 29.64060763245646 % en Amy&Benton Juguetes para bebé  8PCS Figu'
 date: 2019/11/10 05:50:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51AS6GbI1EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51AS6GbI1EL._SL200_.jpg' ]

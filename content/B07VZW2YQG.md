@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.68222740913638 % en 'Gel de Aloe Vera  100% Orgánico Aloe Ver'
+title: 'Descuento del 46.68222740913638 % en Gel de Aloe Vera  100% Orgánico Aloe Ver'
 date: 2020-01-22 16:11:08
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O11KpV75L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O11KpV75L._SL200_.jpg' ]

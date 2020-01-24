@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.033370411568416 % en 'Anita Active Momentum - Sujetador deport'
+title: 'Descuento del 30.033370411568416 % en Anita Active Momentum - Sujetador deport'
 date: 2020-01-02 21:06:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/511VQ3%2BIklL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/511VQ3%2BIklL._SL200_.jpg' ]

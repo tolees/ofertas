@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Desigual Abrig_Selena  Gris Vigore Claro' al 59.91762283024418 % de descuento
+title: 'Desigual Abrig_Selena  Gris Vigore Claro al 59.91762283024418 % de descuento'
 date: 2019/10/31 03:42:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51B2WSYRXyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51B2WSYRXyL._SL200_.jpg' ]

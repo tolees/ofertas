@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.97726239199637 % en 'GLOBE Sabre  Zapatillas de Skateboard pa'
+title: 'Descuento del 49.97726239199637 % en GLOBE Sabre  Zapatillas de Skateboard pa'
 date: 2019/11/26 12:41:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ov2bbhvwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ov2bbhvwL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.97651152675076 % en 'Probus Santoku knife 34 cm  hand sharpen'
+title: 'Descuento del 45.97651152675076 % en Probus Santoku knife 34 cm  hand sharpen'
 date: 2019/12/13 21:57:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21fKIkhjcUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21fKIkhjcUL._SL200_.jpg' ]

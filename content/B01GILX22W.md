@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein Demi Lightly Lined Multiway' al 34.009191673425256 % de descuento
+title: 'Calvin Klein Demi Lightly Lined Multiway al 34.009191673425256 % de descuento'
 date: 2019/10/29 19:55:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ozwBrKzIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ozwBrKzIL._SL200_.jpg' ]

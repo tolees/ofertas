@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.54260528893243 % en 'find. Jersey de Crochet con Hombros al A'
+title: 'Descuento del 26.54260528893243 % en find. Jersey de Crochet con Hombros al A'
 date: 2020-01-06 13:13:17
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418-pvRoZqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418-pvRoZqL._SL200_.jpg' ]

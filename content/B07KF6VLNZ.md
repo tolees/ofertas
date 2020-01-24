@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Barstow Western Camisa   Bodhran ' al 56.75 % de descuento
+title: 'Levi s Barstow Western Camisa   Bodhran  al 56.75 % de descuento'
 date: 2019/10/08 12:32:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41anLsmrjlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41anLsmrjlL._SL200_.jpg' ]

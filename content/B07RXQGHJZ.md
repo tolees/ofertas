@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.585835257890686 % en 'FORYOURS Masajeador Mujeres Encantador  '
+title: 'Descuento del 61.585835257890686 % en FORYOURS Masajeador Mujeres Encantador  '
 date: 2020-01-18 18:02:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ClrlgVCdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ClrlgVCdL._SL200_.jpg' ]

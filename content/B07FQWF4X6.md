@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.80790395197599 % en 'Clarks Edward Walk  Zapatos de Cordones '
+title: 'Descuento del 55.80790395197599 % en Clarks Edward Walk  Zapatos de Cordones '
 date: 2019/11/19 04:18:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rBQq4htOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rBQq4htOL._SL200_.jpg' ]

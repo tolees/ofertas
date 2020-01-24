@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.511165913138782 % en 'Bosch Miniamoladora PWS 750-115  con dis'
+title: 'Descuento del 31.511165913138782 % en Bosch Miniamoladora PWS 750-115  con dis'
 date: 2020-01-11 17:56:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414Jd3HAIHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414Jd3HAIHL._SL200_.jpg' ]

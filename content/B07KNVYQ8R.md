@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 39.36708860759494 % en 'HP Envy 5010 - Impresora multifunción  W'
+title: 'Descuento del 39.36708860759494 % en HP Envy 5010 - Impresora multifunción  W'
 date: 2020-01-22 08:58:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31bzCFV3ZlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31bzCFV3ZlL._SL200_.jpg' ]

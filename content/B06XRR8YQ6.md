@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Echo Plus  Vorherige Generation - 1. Gen' al 57.14693906707622 % de descuento
+title: 'Echo Plus  Vorherige Generation - 1. Gen al 57.14693906707622 % de descuento'
 date: 2019/12/04 18:06:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jtHkZn1xL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jtHkZn1xL._SL200_.jpg' ]

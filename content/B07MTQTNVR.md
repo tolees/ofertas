@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sabrent 2TB Rocket NVMe PCIe M.2 2280 SS' al 25.00083336111204 % de descuento
+title: 'Sabrent 2TB Rocket NVMe PCIe M.2 2280 SS al 25.00083336111204 % de descuento'
 date: 2019/11/29 00:04:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uP2z-OXZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uP2z-OXZL._SL200_.jpg' ]

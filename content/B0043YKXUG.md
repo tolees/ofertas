@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.02860572114423 % en 'Mattel Games V9364 - UNO Extreme Kartens'
+title: 'Descuento del 43.02860572114423 % en Mattel Games V9364 - UNO Extreme Kartens'
 date: 2020-01-24 09:57:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41buRa3EFEL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41buRa3EFEL._AC_._SL200_.jpg' ]

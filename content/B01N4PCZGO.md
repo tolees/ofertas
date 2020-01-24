@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vanguard Alta Fly 48T - Trolley profesio' al 28.545909253304746 % de descuento
+title: 'Vanguard Alta Fly 48T - Trolley profesio al 28.545909253304746 % de descuento'
 date: 2019/11/05 04:14:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418UoEB3RbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418UoEB3RbL._SL200_.jpg' ]

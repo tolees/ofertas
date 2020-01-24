@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alvivi Ropa de Deporte Traje Baño Dos Pi' al 80.0266755585195 % de descuento
+title: 'Alvivi Ropa de Deporte Traje Baño Dos Pi al 80.0266755585195 % de descuento'
 date: 2019/11/01 15:09:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ik0xXo4sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ik0xXo4sL._SL200_.jpg' ]

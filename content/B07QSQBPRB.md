@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.73333333333334 % en 'Toyk Boy Toys - LED Hover Football - Air'
+title: 'Descuento del 34.73333333333334 % en Toyk Boy Toys - LED Hover Football - Air'
 date: 2020-01-10 22:04:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41t9KPMKdbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41t9KPMKdbL._SL200_.jpg' ]

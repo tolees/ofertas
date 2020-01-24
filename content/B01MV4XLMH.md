@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.199999999999996 % en 'Vans Ninety Three Crew  Camisa para Homb'
+title: 'Descuento del 48.199999999999996 % en Vans Ninety Three Crew  Camisa para Homb'
 date: 2019/10/11 17:04:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DkdAEk3DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DkdAEk3DL._SL200_.jpg' ]

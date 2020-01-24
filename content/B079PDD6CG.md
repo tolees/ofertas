@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok Speedlux 3.0  Zapatillas de Depor' al 54.37677363021175 % de descuento
+title: 'Reebok Speedlux 3.0  Zapatillas de Depor al 54.37677363021175 % de descuento'
 date: 2019/11/13 13:32:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cImuMg-AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cImuMg-AL._SL200_.jpg' ]

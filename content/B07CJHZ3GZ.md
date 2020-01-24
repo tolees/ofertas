@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.73074614922986 % en 'Only Onlcarmen Reg SK Black4ever Soo1796'
+title: 'Descuento del 53.73074614922986 % en Only Onlcarmen Reg SK Black4ever Soo1796'
 date: 2019/10/26 23:57:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qjwuNSSQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qjwuNSSQL._SL200_.jpg' ]

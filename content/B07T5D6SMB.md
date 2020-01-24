@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 59.314055144586405 % en 'Reisenthel Mini Maxi Shopper - Bolsa de '
+title: 'Descuento del 59.314055144586405 % en Reisenthel Mini Maxi Shopper - Bolsa de '
 date: 2019/11/04 12:04:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519IpajgjKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519IpajgjKL._SL200_.jpg' ]

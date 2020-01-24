@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kingston KVR24N17S8/8 - Memoria RAM Inte' al 65.69266892773284 % de descuento
+title: 'Kingston KVR24N17S8/8 - Memoria RAM Inte al 65.69266892773284 % de descuento'
 date: 2019/10/26 14:32:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21jhxRNhsSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21jhxRNhsSL._SL200_.jpg' ]

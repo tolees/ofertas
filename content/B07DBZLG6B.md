@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma RS-150 Nylon Wn s  Zapatillas para ' al 71.61580790395197 % de descuento
+title: 'Puma RS-150 Nylon Wn s  Zapatillas para  al 71.61580790395197 % de descuento'
 date: 2019/11/14 15:41:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z%2B2KKgjKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z%2B2KKgjKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Braun Series 9 9390cc Latest Generation ' al 64.00128002560051 % de descuento
+title: 'Braun Series 9 9390cc Latest Generation  al 64.00128002560051 % de descuento'
 date: 2019/11/29 20:37:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yS1PMfFoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yS1PMfFoL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.90994813767091 % en 'Tesa Assa Abloy  TX853040N  Cilindro de '
+title: 'Descuento del 45.90994813767091 % en Tesa Assa Abloy  TX853040N  Cilindro de '
 date: 2019/12/28 09:59:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OnKT11akL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OnKT11akL._SL200_.jpg' ]

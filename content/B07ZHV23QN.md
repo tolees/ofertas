@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shadow of The Tomb Raider Definitive Edi' al 25.23130782695675 % de descuento
+title: 'Shadow of The Tomb Raider Definitive Edi al 25.23130782695675 % de descuento'
 date: 2019/12/16 14:32:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/517nxrgb%2BfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/517nxrgb%2BfL._SL200_.jpg' ]

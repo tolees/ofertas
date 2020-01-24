@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CMP Strick Fleece Chaqueta  Mujer  Verde' al 74.69336670838548 % de descuento
+title: 'CMP Strick Fleece Chaqueta  Mujer  Verde al 74.69336670838548 % de descuento'
 date: 2019/12/25 09:22:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ezEDGjO7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ezEDGjO7L._SL200_.jpg' ]

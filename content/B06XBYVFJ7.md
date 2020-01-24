@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.79017177647316 % en 'NP-FW50 Cargador Bateria Sony RAVPower 1'
+title: 'Descuento del 34.79017177647316 % en NP-FW50 Cargador Bateria Sony RAVPower 1'
 date: 2019/12/09 16:10:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CDn1t8jzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CDn1t8jzL._SL200_.jpg' ]

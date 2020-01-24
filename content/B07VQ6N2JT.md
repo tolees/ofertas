@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Flyfun Puzzles Rompecabezas Magnéticos d' al 29.178824510212586 % de descuento
+title: 'Flyfun Puzzles Rompecabezas Magnéticos d al 29.178824510212586 % de descuento'
 date: 2020-01-15 10:08:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51a9elEmk3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51a9elEmk3L._SL200_.jpg' ]

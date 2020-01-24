@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.59557661927329 % en 'LA Active Calcetines Deportivos Antidesl'
+title: 'Descuento del 31.59557661927329 % en LA Active Calcetines Deportivos Antidesl'
 date: 2019/10/07 15:42:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AProzVyvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AProzVyvL._SL200_.jpg' ]

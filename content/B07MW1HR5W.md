@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.225245049009803 % en 'AMASAVA Maletín para Maquillaje  Estuche'
+title: 'Descuento del 26.225245049009803 % en AMASAVA Maletín para Maquillaje  Estuche'
 date: 2019/12/04 19:46:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U2dKn%2Bx7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U2dKn%2Bx7L._SL200_.jpg' ]

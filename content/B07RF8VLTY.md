@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fila Disruptor 2 Premium Metallic Mujere' al 31.260593220338983 % de descuento
+title: 'Fila Disruptor 2 Premium Metallic Mujere al 31.260593220338983 % de descuento'
 date: 2020-01-21 16:42:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41R7WfWDHJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41R7WfWDHJL._SL200_.jpg' ]

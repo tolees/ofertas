@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BES 22629 Tubo LED  18 W  120 cm  4000 K' al 60.41909196740396 % de descuento
+title: 'BES 22629 Tubo LED  18 W  120 cm  4000 K al 60.41909196740396 % de descuento'
 date: 2019/12/16 18:56:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31rQ1uO6o%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31rQ1uO6o%2BL._SL200_.jpg' ]

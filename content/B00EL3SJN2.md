@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.35974158449507 % en 'Canon NB-6LH camera/camcorder battery Ió'
+title: 'Descuento del 62.35974158449507 % en Canon NB-6LH camera/camcorder battery Ió'
 date: 2019/10/05 21:27:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MkKmk1npL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MkKmk1npL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars Ep. VIII - Disfraz de Rey para' al 26.332060374613576 % de descuento
+title: 'Star Wars Ep. VIII - Disfraz de Rey para al 26.332060374613576 % de descuento'
 date: 2019/10/23 22:56:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HtlItRM7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HtlItRM7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.93278645144218 % en 'deAO RC Dragón Inteligente Robot Teledir'
+title: 'Descuento del 25.93278645144218 % en deAO RC Dragón Inteligente Robot Teledir'
 date: 2019/12/27 07:22:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51O1YVJgXjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51O1YVJgXjL._SL200_.jpg' ]

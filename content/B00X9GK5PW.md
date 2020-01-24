@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toshiba TransMemory U301 - Memoria USB d' al 53.56589147286821 % de descuento
+title: 'Toshiba TransMemory U301 - Memoria USB d al 53.56589147286821 % de descuento'
 date: 2019/10/12 18:09:06 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AfU5p1rTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AfU5p1rTL._SL200_.jpg' ]

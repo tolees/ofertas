@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 75.2376188094047 % en 'Gioteck - Funda de silicona con Grips y '
+title: 'Descuento del 75.2376188094047 % en Gioteck - Funda de silicona con Grips y '
 date: 2019/11/22 21:19:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a%2BM2foOrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a%2BM2foOrL._SL200_.jpg' ]

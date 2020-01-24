@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.23529411764706 % en 'MICHELIN 007759 Cadenas para la Nieve Ex'
+title: 'Descuento del 44.23529411764706 % en MICHELIN 007759 Cadenas para la Nieve Ex'
 date: 2019/12/05 09:06:21 +0000
 thumbnailImage: ''
 images: [ '' ]

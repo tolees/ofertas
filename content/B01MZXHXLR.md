@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.34343740527434 % en 'DURAGADGET Bandolera para Videocámara So'
+title: 'Descuento del 33.34343740527434 % en DURAGADGET Bandolera para Videocámara So'
 date: 2020-01-02 14:11:07
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51MZTxpbBRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51MZTxpbBRL._SL200_.jpg' ]

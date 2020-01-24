@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.27506549178376 % en 'WanNing Paquete de deformación Luminosa '
+title: 'Descuento del 55.27506549178376 % en WanNing Paquete de deformación Luminosa '
 date: 2019/12/25 09:03:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31xToP2EeNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31xToP2EeNL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Martina Home Tunez Funda sofá Duplex  Mo' al 43.18181818181819 % de descuento
+title: 'Martina Home Tunez Funda sofá Duplex  Mo al 43.18181818181819 % de descuento'
 date: 2020-01-07 18:47:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31MTWiD-vyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31MTWiD-vyL._SL200_.jpg' ]

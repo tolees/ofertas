@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Professionnel - Tecni Art Fix Ma' al 58.69565217391304 % de descuento
+title: 'L Oréal Professionnel - Tecni Art Fix Ma al 58.69565217391304 % de descuento'
 date: 2019/11/02 06:06:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/313pxLoW3CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/313pxLoW3CL._SL200_.jpg' ]

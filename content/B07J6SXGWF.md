@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Funko Rugrats Pop Angelica  Multicolor  ' al 50.21943573667711 % de descuento
+title: 'Funko Rugrats Pop Angelica  Multicolor   al 50.21943573667711 % de descuento'
 date: 2020-01-23 18:39:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p9hEYcarL._SL200_.jpg' ]

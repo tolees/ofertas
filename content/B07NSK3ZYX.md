@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Riuty COB - Lámpara de Techo  LED  Plata' al 60.92874299439552 % de descuento
+title: 'Riuty COB - Lámpara de Techo  LED  Plata al 60.92874299439552 % de descuento'
 date: 2019/12/08 23:50:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414%2BHrMjU2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414%2BHrMjU2L._SL200_.jpg' ]

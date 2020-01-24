@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Maurer 15013410 Botas Seguridad 40' al 41.98250728862975 % de descuento
+title: 'Maurer 15013410 Botas Seguridad 40 al 41.98250728862975 % de descuento'
 date: 2020-01-17 12:01:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51BuzlZ48QL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51BuzlZ48QL._SL200_.jpg' ]

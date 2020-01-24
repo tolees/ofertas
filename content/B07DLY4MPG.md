@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panama Jack Tania  Botas Altas para Muje' al 40.0 % de descuento
+title: 'Panama Jack Tania  Botas Altas para Muje al 40.0 % de descuento'
 date: 2020-01-21 21:28:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HIi4iJSaL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HIi4iJSaL._SL200_.jpg' ]

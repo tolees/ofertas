@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Birkenstock Gizeh Eva - Sandalias unisex' al 49.1 % de descuento
+title: 'Birkenstock Gizeh Eva - Sandalias unisex al 49.1 % de descuento'
 date: 2020-01-14 13:05:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31X1XhT2xWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31X1XhT2xWL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.2953529068637 % en 'Joules Golightly Abrigo para Lluvia  Ver'
+title: 'Descuento del 67.2953529068637 % en Joules Golightly Abrigo para Lluvia  Ver'
 date: 2019/12/19 14:39:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/514dBFIq84L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/514dBFIq84L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.14634146341463 % en 'Calvin Klein Low Rise Trunk 2pk Bóxer  N'
+title: 'Descuento del 34.14634146341463 % en Calvin Klein Low Rise Trunk 2pk Bóxer  N'
 date: 2019/11/18 23:48:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31r4peuy0hL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31r4peuy0hL._SL200_.jpg' ]

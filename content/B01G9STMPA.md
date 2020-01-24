@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.92139737991266 % en 'Funko 10318-PDQ Pop! Keychain: The Flash'
+title: 'Descuento del 41.92139737991266 % en Funko 10318-PDQ Pop! Keychain: The Flash'
 date: 2020-01-08 14:15:18
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417EIxopgrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417EIxopgrL._SL200_.jpg' ]

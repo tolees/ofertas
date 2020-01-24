@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Samsonite Termo Young Spinner M Maleta  ' al 50.85427135678392 % de descuento
+title: 'Samsonite Termo Young Spinner M Maleta   al 50.85427135678392 % de descuento'
 date: 2019/11/29 13:07:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CxH8%2BBpCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CxH8%2BBpCL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FOSTAK Bolsos totes/Bolso de hombro para' al 30.203924586379372 % de descuento
+title: 'FOSTAK Bolsos totes/Bolso de hombro para al 30.203924586379372 % de descuento'
 date: 2019/12/14 01:58:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QL0mvrQvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QL0mvrQvL._SL200_.jpg' ]

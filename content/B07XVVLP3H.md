@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 33.45286885245902 % en 'Bergner Botella termo cola 500ml acero i'
+title: 'Descuento del 33.45286885245902 % en Bergner Botella termo cola 500ml acero i'
 date: 2020-01-23 11:47:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418TXfr%2BJEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418TXfr%2BJEL._SL200_.jpg' ]

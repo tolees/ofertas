@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Roxy Take Me Back Fleece Top  Mujer  Mar' al 59.33186637327466 % de descuento
+title: 'Roxy Take Me Back Fleece Top  Mujer  Mar al 59.33186637327466 % de descuento'
 date: 2019/10/31 17:04:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415fofFMGwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415fofFMGwL._SL200_.jpg' ]

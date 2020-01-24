@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DUNLOP Nitro 25 - Raqueta de Tenis Unise' al 52.40601503759399 % de descuento
+title: 'DUNLOP Nitro 25 - Raqueta de Tenis Unise al 52.40601503759399 % de descuento'
 date: 2019/12/22 20:21:18 +0000
 thumbnailImage: 'None._SL200_'
 images: [ 'None._SL200_' ]

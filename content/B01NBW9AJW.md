@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SELECTED HOMME 16057321 Camisa  Azul  Li' al 79.96999249812453 % de descuento
+title: 'SELECTED HOMME 16057321 Camisa  Azul  Li al 79.96999249812453 % de descuento'
 date: 2019/11/12 12:37:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QQwGAHdwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QQwGAHdwL._SL200_.jpg' ]

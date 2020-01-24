@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springfield Tren Tricolor Cinturón  Azul' al 57.736720554272516 % de descuento
+title: 'Springfield Tren Tricolor Cinturón  Azul al 57.736720554272516 % de descuento'
 date: 2020-01-13 14:56:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xEs%2BdzgGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xEs%2BdzgGL._SL200_.jpg' ]

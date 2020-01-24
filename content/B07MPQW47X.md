@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.75 % en 'Sony SRS-XB12V  Altavoz Inalámbrico  Blu'
+title: 'Descuento del 31.75 % en Sony SRS-XB12V  Altavoz Inalámbrico  Blu'
 date: 2019/12/24 06:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nHbeg-10L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nHbeg-10L._SL200_.jpg' ]

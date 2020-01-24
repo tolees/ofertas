@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Woxter Big Bass 500 - Altavoces 2.1  150' al 36.55231745348962 % de descuento
+title: 'Woxter Big Bass 500 - Altavoces 2.1  150 al 36.55231745348962 % de descuento'
 date: 2019/12/24 16:30:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IO-wndeHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IO-wndeHL._SL200_.jpg' ]

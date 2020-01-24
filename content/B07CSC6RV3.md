@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma Vikky Platform Ribbon P  Zapatillas' al 42.83059328091494 % de descuento
+title: 'Puma Vikky Platform Ribbon P  Zapatillas al 42.83059328091494 % de descuento'
 date: 2020-01-20 20:34:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rK-GRhBKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rK-GRhBKL._SL200_.jpg' ]

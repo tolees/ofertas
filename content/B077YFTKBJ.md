@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 69.98998998999 % en 'HIKARO Sudadera con Cremallera y Capucha'
+title: 'Descuento del 69.98998998999 % en HIKARO Sudadera con Cremallera y Capucha'
 date: 2019/10/20 18:54:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417rPJSHWdL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417rPJSHWdL._SL200_.jpg' ]

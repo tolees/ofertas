@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.80622009569377 % en 'Paper Mate InkJoy - Bolígrafo retráctil '
+title: 'Descuento del 41.80622009569377 % en Paper Mate InkJoy - Bolígrafo retráctil '
 date: 2019/11/01 16:09:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51cINyKvoTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51cINyKvoTL._SL200_.jpg' ]

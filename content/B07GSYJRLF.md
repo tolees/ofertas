@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.73981415296641 % en 'EKKONG 24 Piezas Ganchos Adhesivos  Adhe'
+title: 'Descuento del 35.73981415296641 % en EKKONG 24 Piezas Ganchos Adhesivos  Adhe'
 date: 2020-01-21 02:59:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jpnjoYzKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jpnjoYzKL._SL200_.jpg' ]

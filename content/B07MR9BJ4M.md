@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lee Scarlett Vaqueros Skinny  Negro  Bla' al 49.98332406892718 % de descuento
+title: 'Lee Scarlett Vaqueros Skinny  Negro  Bla al 49.98332406892718 % de descuento'
 date: 2019/11/12 08:55:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31UtJziwDOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31UtJziwDOL._SL200_.jpg' ]

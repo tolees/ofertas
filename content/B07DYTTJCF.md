@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Powder Lite - Chaqueta  Hombre ' al 47.24472447244724 % de descuento
+title: 'Columbia Powder Lite - Chaqueta  Hombre  al 47.24472447244724 % de descuento'
 date: 2019/11/15 16:04:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pe4DVVOTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pe4DVVOTL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ILIFE V55 Robot Aspirador para el Hogar ' al 27.149698105350815 % de descuento
+title: 'ILIFE V55 Robot Aspirador para el Hogar  al 27.149698105350815 % de descuento'
 date: 2019/11/20 15:07:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411QJxT9BHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411QJxT9BHL._SL200_.jpg' ]

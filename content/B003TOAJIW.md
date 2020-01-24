@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRA Efficient - Cacerola alta con tapa d' al 42.20349187236605 % de descuento
+title: 'BRA Efficient - Cacerola alta con tapa d al 42.20349187236605 % de descuento'
 date: 2020-01-15 20:40:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31jC3EOxHjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31jC3EOxHjL._SL200_.jpg' ]

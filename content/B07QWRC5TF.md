@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Amilril Collar  Amor Corazon Colgantes M' al 83.65157301327514 % de descuento
+title: 'Amilril Collar  Amor Corazon Colgantes M al 83.65157301327514 % de descuento'
 date: 2019/12/19 08:35:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41GK7%2BkySPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41GK7%2BkySPL._SL200_.jpg' ]

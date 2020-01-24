@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.03001500750374 % en 'Knixmax Plantillas Memory Foam para Zapa'
+title: 'Descuento del 60.03001500750374 % en Knixmax Plantillas Memory Foam para Zapa'
 date: 2019/11/11 15:32:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OchnVwO5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OchnVwO5L._SL200_.jpg' ]

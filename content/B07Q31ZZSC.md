@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jorfunnymal tee SS Crew Nec' al 55.530850472484715 % de descuento
+title: 'JACK & JONES Jorfunnymal tee SS Crew Nec al 55.530850472484715 % de descuento'
 date: 2019/10/12 07:47:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416MGG%2BwaiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416MGG%2BwaiL._SL200_.jpg' ]

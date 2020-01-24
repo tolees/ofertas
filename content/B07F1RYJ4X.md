@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celio Mofirst Pantalones  Azul  Prussian' al 46.594844170834925 % de descuento
+title: 'Celio Mofirst Pantalones  Azul  Prussian al 46.594844170834925 % de descuento'
 date: 2019/10/08 00:07:03 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GIJg6lZeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GIJg6lZeL._SL200_.jpg' ]

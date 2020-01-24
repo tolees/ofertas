@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'find. Blusa Estampada con Volantes Mujer'
+title: 'Descuento del 50.0 % en find. Blusa Estampada con Volantes Mujer'
 date: 2019/10/26 17:26:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/512-rzUJCDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/512-rzUJCDL._SL200_.jpg' ]

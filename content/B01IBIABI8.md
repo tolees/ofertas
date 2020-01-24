@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS' al 43.977591036414566 % de descuento
+title: 'JACK & JONES JJIPAUL JJLEATHER BELT NOOS al 43.977591036414566 % de descuento'
 date: 2020-01-06 21:20:48
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qPzTlrLhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qPzTlrLhL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.4 % en 'Champion Crewneck Sweatshirt-C-Logo Suda'
+title: 'Descuento del 46.4 % en Champion Crewneck Sweatshirt-C-Logo Suda'
 date: 2019/12/02 15:43:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Lhm8Lv9FL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Lhm8Lv9FL._SL200_.jpg' ]

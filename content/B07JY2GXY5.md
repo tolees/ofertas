@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.0 % en 'Amazon Essentials - Leggins largos de de'
+title: 'Descuento del 25.0 % en Amazon Essentials - Leggins largos de de'
 date: 2019/10/29 12:00:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51QZZ5aL2qL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51QZZ5aL2qL._SL200_.jpg' ]

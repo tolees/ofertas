@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.155428952392505 % en 'Netgear Orbi Wifi Mesh AC3000 RBS40V  re'
+title: 'Descuento del 29.155428952392505 % en Netgear Orbi Wifi Mesh AC3000 RBS40V  re'
 date: 2019/11/07 14:03:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RCAcnH2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RCAcnH2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Naissance Aceite Vegetal de Rosa Mosquet' al 41.200706297822244 % de descuento
+title: 'Naissance Aceite Vegetal de Rosa Mosquet al 41.200706297822244 % de descuento'
 date: 2020-01-23 08:17:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41RNa3pyrYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41RNa3pyrYL._SL200_.jpg' ]

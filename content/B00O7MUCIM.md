@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 67.36710444027517 % en 'Uvex City I-Vo Casco de Ciclismo  Hombre'
+title: 'Descuento del 67.36710444027517 % en Uvex City I-Vo Casco de Ciclismo  Hombre'
 date: 2019/10/27 18:22:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HrU61ODUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HrU61ODUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ASUS ROG Zephyrus S GX701GWR-EV003T - Or' al 25.639702558810228 % de descuento
+title: 'ASUS ROG Zephyrus S GX701GWR-EV003T - Or al 25.639702558810228 % de descuento'
 date: 2019/10/28 09:12:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jsQbeF2eL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jsQbeF2eL._SL200_.jpg' ]

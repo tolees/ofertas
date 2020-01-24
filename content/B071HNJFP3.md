@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.35454545454545 % en 'Lacoste Bh7479 Chaqueta  Gris  Graphite '
+title: 'Descuento del 49.35454545454545 % en Lacoste Bh7479 Chaqueta  Gris  Graphite '
 date: 2019/10/12 08:36:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nt0J6JMpL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nt0J6JMpL._SL200_.jpg' ]

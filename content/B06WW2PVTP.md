@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Go Step Lite  Entrenadores para' al 55.11259382819016 % de descuento
+title: 'Skechers Go Step Lite  Entrenadores para al 55.11259382819016 % de descuento'
 date: 2019/11/03 19:38:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51C1xOgUg%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51C1xOgUg%2BL._SL200_.jpg' ]

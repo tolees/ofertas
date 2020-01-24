@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luz de Lectura Recargable  YINSAN 9 LED ' al 69.46373992775771 % de descuento
+title: 'Luz de Lectura Recargable  YINSAN 9 LED  al 69.46373992775771 % de descuento'
 date: 2019/12/12 09:22:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rZrYHpXhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rZrYHpXhL._SL200_.jpg' ]

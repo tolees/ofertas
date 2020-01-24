@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.04755944931164 % en 'Satisfyer - Vibradores'
+title: 'Descuento del 38.04755944931164 % en Satisfyer - Vibradores'
 date: 2019/10/26 21:02:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/316v7HaAKkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/316v7HaAKkL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW Dexter Slinky Super Skinny Va' al 57.33036707452725 % de descuento
+title: 'G-STAR RAW Dexter Slinky Super Skinny Va al 57.33036707452725 % de descuento'
 date: 2019/10/20 20:34:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31TIOIslcmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31TIOIslcmL._SL200_.jpg' ]

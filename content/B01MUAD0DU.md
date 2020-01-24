@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.846889952153106 % en 'Guzack Brazalete Deportivo Running para '
+title: 'Descuento del 47.846889952153106 % en Guzack Brazalete Deportivo Running para '
 date: 2019/12/26 19:33:14 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZTVl46lfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZTVl46lfL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Freddy F8mcyls1 suéter  Azul  Night Blue' al 50.0 % de descuento
+title: 'Freddy F8mcyls1 suéter  Azul  Night Blue al 50.0 % de descuento'
 date: 2019/10/24 16:53:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/318Z0JQzXfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/318Z0JQzXfL._SL200_.jpg' ]

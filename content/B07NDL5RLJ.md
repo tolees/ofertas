@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.91369606003752 % en 'G-STAR RAW Core Super Slim Camisa Vaquer'
+title: 'Descuento del 61.91369606003752 % en G-STAR RAW Core Super Slim Camisa Vaquer'
 date: 2019/12/25 20:15:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uZv5OJxFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uZv5OJxFL._SL200_.jpg' ]

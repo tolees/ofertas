@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.030150753768833 % en 'L Oréal Paris Lápiz de Labios Lip Liner '
+title: 'Descuento del 26.030150753768833 % en L Oréal Paris Lápiz de Labios Lip Liner '
 date: 2020-01-19 20:38:16
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21s768HfTkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21s768HfTkL._SL200_.jpg' ]

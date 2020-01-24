@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 57.57750234855601 % en 'Kemier Maletín de Viaje para Cosméticos-'
+title: 'Descuento del 57.57750234855601 % en Kemier Maletín de Viaje para Cosméticos-'
 date: 2020-01-18 18:03:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RVjKWZToL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RVjKWZToL._SL200_.jpg' ]

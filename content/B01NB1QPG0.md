@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.12270756918973 % en 'UEETEK Magnética flotante acuario vidrio'
+title: 'Descuento del 68.12270756918973 % en UEETEK Magnética flotante acuario vidrio'
 date: 2020-01-17 12:50:58
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fFmON%2BAqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fFmON%2BAqL._SL200_.jpg' ]

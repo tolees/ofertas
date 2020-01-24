@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PC Stick Windows 10 Professional  4GB RA' al 49.39246962348118 % de descuento
+title: 'PC Stick Windows 10 Professional  4GB RA al 49.39246962348118 % de descuento'
 date: 2020-01-13 12:07:20
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pxmXmTfCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pxmXmTfCL._SL200_.jpg' ]

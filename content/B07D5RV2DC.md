@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.70463078848561 % en 'PUMA ESS Logo TR op SRL Pantalones  Homb'
+title: 'Descuento del 43.70463078848561 % en PUMA ESS Logo TR op SRL Pantalones  Homb'
 date: 2019/12/19 09:43:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417oe7gH6jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417oe7gH6jL._SL200_.jpg' ]

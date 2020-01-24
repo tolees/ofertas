@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Regleta Enchufes Múltiples Protección Re' al 41.393583994480856 % de descuento
+title: 'Regleta Enchufes Múltiples Protección Re al 41.393583994480856 % de descuento'
 date: 2019/10/12 19:56:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vgd5jrcVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vgd5jrcVL._SL200_.jpg' ]

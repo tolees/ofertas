@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 58.84615384615385 % en 'Hurley M Phantom Block Party Solid 18  B'
+title: 'Descuento del 58.84615384615385 % en Hurley M Phantom Block Party Solid 18  B'
 date: 2019/10/13 16:19:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31p-P6q-ecL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31p-P6q-ecL._SL200_.jpg' ]

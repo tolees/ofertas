@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skagen Reloj Analógico para Mujer de Cua' al 51.3758389261745 % de descuento
+title: 'Skagen Reloj Analógico para Mujer de Cua al 51.3758389261745 % de descuento'
 date: 2019/12/17 22:37:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wKuLb0AKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wKuLb0AKL._SL200_.jpg' ]

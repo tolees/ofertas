@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Daniel Wellington Reloj analogico para U' al 45.330935251798564 % de descuento
+title: 'Daniel Wellington Reloj analogico para U al 45.330935251798564 % de descuento'
 date: 2019/11/09 18:57:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41grKmwnzXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41grKmwnzXL._SL200_.jpg' ]

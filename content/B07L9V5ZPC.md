@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lacoste Carnaby EVO 319 1 SUI  Zapatilla' al 69.2542372881356 % de descuento
+title: 'Lacoste Carnaby EVO 319 1 SUI  Zapatilla al 69.2542372881356 % de descuento'
 date: 2020-01-12 19:24:57
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31yR8eOj1jL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.003849114703623 % en 'Zapatillas de Hombre SKECHERS Sneakers e'
+title: 'Descuento del 25.003849114703623 % en Zapatillas de Hombre SKECHERS Sneakers e'
 date: 2019/12/27 19:58:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BcF-8vCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41H%2BcF-8vCL._SL200_.jpg' ]

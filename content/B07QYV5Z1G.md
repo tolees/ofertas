@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auriculares Gaming PS4  YINSAN Cascos Ga' al 60.479181204931386 % de descuento
+title: 'Auriculares Gaming PS4  YINSAN Cascos Ga al 60.479181204931386 % de descuento'
 date: 2020-01-20 09:50:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/5120mBhD9JL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/5120mBhD9JL._SL200_.jpg' ]

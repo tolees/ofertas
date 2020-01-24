@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.99374609130707 % en 'Reebok Ex-o-Fit Clean Logo Int  Zapatill'
+title: 'Descuento del 49.99374609130707 % en Reebok Ex-o-Fit Clean Logo Int  Zapatill'
 date: 2019/12/06 11:24:29 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419J45PrlXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419J45PrlXL._SL200_.jpg' ]

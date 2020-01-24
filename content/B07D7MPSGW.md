@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dolores Promesas 107404 Vestido  Multico' al 54.15610406937959 % de descuento
+title: 'Dolores Promesas 107404 Vestido  Multico al 54.15610406937959 % de descuento'
 date: 2019/11/09 21:42:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kE04HZZhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kE04HZZhL._SL200_.jpg' ]

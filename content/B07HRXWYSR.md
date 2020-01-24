@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.269841269841265 % en 'Eme Hybrid Challenger WPT'
+title: 'Descuento del 50.269841269841265 % en Eme Hybrid Challenger WPT'
 date: 2020-01-09 09:17:01
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pzGiMEkiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pzGiMEkiL._SL200_.jpg' ]

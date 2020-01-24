@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 56.0989010989011 % en '30 pieza Neodimio Imán 10x3 mm Unidad im'
+title: 'Descuento del 56.0989010989011 % en 30 pieza Neodimio Imán 10x3 mm Unidad im'
 date: 2020-01-17 07:02:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ullxprZGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ullxprZGL._SL200_.jpg' ]

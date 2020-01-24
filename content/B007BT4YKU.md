@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nike Core Items 3.0 Bolsa de Hombro  Neg' al 50.2 % de descuento
+title: 'Nike Core Items 3.0 Bolsa de Hombro  Neg al 50.2 % de descuento'
 date: 2020-01-16 12:50:04
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51g3Z3iJrhL._SL200_.jpg' ]

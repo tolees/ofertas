@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA Crossbody - Bolsa Deport' al 42.61704681872749 % de descuento
+title: 'Under Armour UA Crossbody - Bolsa Deport al 42.61704681872749 % de descuento'
 date: 2019/11/04 12:39:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/518X7glYzVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/518X7glYzVL._SL200_.jpg' ]

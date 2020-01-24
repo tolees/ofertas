@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 42.69340974212034 % en 'Philips Secador BHD170/40 - Secador de p'
+title: 'Descuento del 42.69340974212034 % en Philips Secador BHD170/40 - Secador de p'
 date: 2020-01-10 07:25:50
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QSKcUhSUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QSKcUhSUL._SL200_.jpg' ]

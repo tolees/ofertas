@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Juvena Aqua Recharge Essence Tratamiento' al 39.40425531914894 % de descuento
+title: 'Juvena Aqua Recharge Essence Tratamiento al 39.40425531914894 % de descuento'
 date: 2019/12/17 14:40:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Zczr7Gv6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Zczr7Gv6L._SL200_.jpg' ]

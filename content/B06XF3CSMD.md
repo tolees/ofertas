@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.94993742177722 % en 'XL-S Medical Xanthigen Quema Calorías Av'
+title: 'Descuento del 49.94993742177722 % en XL-S Medical Xanthigen Quema Calorías Av'
 date: 2019/12/29 10:35:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41vQ39vjW8L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41vQ39vjW8L._SL200_.jpg' ]

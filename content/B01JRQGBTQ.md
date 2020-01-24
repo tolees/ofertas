@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panama Jack Panama 03  Zapatillas de Est' al 39.4792899408284 % de descuento
+title: 'Panama Jack Panama 03  Zapatillas de Est al 39.4792899408284 % de descuento'
 date: 2019/11/30 10:15:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fJJPW0gEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fJJPW0gEL._SL200_.jpg' ]

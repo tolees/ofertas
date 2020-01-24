@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Marquam Peak Jacket Chaqueta  H' al 41.75833731901388 % de descuento
+title: 'Columbia Marquam Peak Jacket Chaqueta  H al 41.75833731901388 % de descuento'
 date: 2019/10/10 15:39:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ajXJT7aRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ajXJT7aRL._SL200_.jpg' ]

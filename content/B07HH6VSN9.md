@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Lulu Shirt LS Camisa Mang' al 59.445378151260506 % de descuento
+title: 'Tommy Hilfiger Lulu Shirt LS Camisa Mang al 59.445378151260506 % de descuento'
 date: 2019/10/30 14:25:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QmLZL2ydL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QmLZL2ydL._SL200_.jpg' ]

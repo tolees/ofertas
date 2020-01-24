@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 41.68403501458941 % en 'adidas Terrex Ax3 GTX W  Zapatillas de T'
+title: 'Descuento del 41.68403501458941 % en adidas Terrex Ax3 GTX W  Zapatillas de T'
 date: 2020-01-23 19:37:28
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jlxa1BNDL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jlxa1BNDL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Casals C63010000 Hidrolimpiadora  1400 W' al 28.759233754851643 % de descuento
+title: 'Casals C63010000 Hidrolimpiadora  1400 W al 28.759233754851643 % de descuento'
 date: 2019/11/19 08:40:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51RTP6-6EuL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51RTP6-6EuL._SL200_.jpg' ]

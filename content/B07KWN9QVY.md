@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Lego Wear Jungen LWTIGER 652-T-SHIRT L/S' al 45.07512520868113 % de descuento
+title: 'Lego Wear Jungen LWTIGER 652-T-SHIRT L/S al 45.07512520868113 % de descuento'
 date: 2019/12/22 00:55:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413UbbBr9iL._SL200_.jpg' ]

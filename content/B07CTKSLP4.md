@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jfwalbany Leather Anthracit' al 38.003800380038 % de descuento
+title: 'JACK & JONES Jfwalbany Leather Anthracit al 38.003800380038 % de descuento'
 date: 2019/12/15 17:19:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LYntT1CrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LYntT1CrL._SL200_.jpg' ]

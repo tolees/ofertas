@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Bobble - Star Wars: E7 TFA: Finn' al 66.6444296197465 % de descuento
+title: 'POP! Bobble - Star Wars: E7 TFA: Finn al 66.6444296197465 % de descuento'
 date: 2019/11/04 15:30:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51u55TprnTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51u55TprnTL._SL200_.jpg' ]

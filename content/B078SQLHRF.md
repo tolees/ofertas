@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.008001600320064 % en 'Victure Cámara Deportiva 4k WiFi Camara '
+title: 'Descuento del 40.008001600320064 % en Victure Cámara Deportiva 4k WiFi Camara '
 date: 2020-01-16 11:40:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fbchUA2kL._SL200_.jpg' ]

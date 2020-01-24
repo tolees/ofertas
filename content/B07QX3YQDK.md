@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'EAVANCEL Gaming Silla Oficina Reclinable' al 31.178304606153308 % de descuento
+title: 'EAVANCEL Gaming Silla Oficina Reclinable al 31.178304606153308 % de descuento'
 date: 2019/11/25 12:02:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KRYg6wGbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KRYg6wGbL._SL200_.jpg' ]

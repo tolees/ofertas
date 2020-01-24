@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.11206270866599 % en 'Hosome Fahrradlicht Set  StVZO Zugelasse'
+title: 'Descuento del 52.11206270866599 % en Hosome Fahrradlicht Set  StVZO Zugelasse'
 date: 2019/11/20 15:01:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qXmu8MdRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qXmu8MdRL._SL200_.jpg' ]

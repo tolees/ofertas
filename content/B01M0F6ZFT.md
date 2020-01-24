@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dorina Michelle Bandeau Bra Sujetador bá' al 40.176070428171265 % de descuento
+title: 'Dorina Michelle Bandeau Bra Sujetador bá al 40.176070428171265 % de descuento'
 date: 2019/10/14 22:22:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41LlZuiIHzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41LlZuiIHzL._SL200_.jpg' ]

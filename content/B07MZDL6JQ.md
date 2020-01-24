@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MUSTANG Herren Regular Fit Michigan Stra' al 50.00625078134766 % de descuento
+title: 'MUSTANG Herren Regular Fit Michigan Stra al 50.00625078134766 % de descuento'
 date: 2020-01-21 15:52:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oX19sZIhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oX19sZIhL._SL200_.jpg' ]

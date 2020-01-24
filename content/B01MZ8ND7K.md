@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Camper Serena  Mary Jane para Mujer  Sch' al 44.74666666666667 % de descuento
+title: 'Camper Serena  Mary Jane para Mujer  Sch al 44.74666666666667 % de descuento'
 date: 2019/11/24 04:11:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Hn0CSlMBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Hn0CSlMBL._SL200_.jpg' ]

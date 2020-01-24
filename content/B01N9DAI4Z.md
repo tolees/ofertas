@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AmazonBasics - Barra de cortina de 2 54 ' al 49.974987493746866 % de descuento
+title: 'AmazonBasics - Barra de cortina de 2 54  al 49.974987493746866 % de descuento'
 date: 2019/12/17 06:30:50 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qhBEFfVNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qhBEFfVNL._SL200_.jpg' ]

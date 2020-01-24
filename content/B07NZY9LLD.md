@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Oak Canyon-Ironhide  Zapatillas' al 57.82909930715936 % de descuento
+title: 'Skechers Oak Canyon-Ironhide  Zapatillas al 57.82909930715936 % de descuento'
 date: 2019/12/24 18:58:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419i2qBirIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419i2qBirIL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ortungsgerät  Tacklife Metalldetektor  5' al 34.55173667939625 % de descuento
+title: 'Ortungsgerät  Tacklife Metalldetektor  5 al 34.55173667939625 % de descuento'
 date: 2019/12/19 09:43:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ZaJ1XPA9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ZaJ1XPA9L._SL200_.jpg' ]

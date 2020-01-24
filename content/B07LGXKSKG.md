@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.5 % en 'The North Face Quest Print Jacket Chaque'
+title: 'Descuento del 38.5 % en The North Face Quest Print Jacket Chaque'
 date: 2019/11/05 09:11:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413bwCA-ddL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413bwCA-ddL._SL200_.jpg' ]

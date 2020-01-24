@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 38.618556701030926 % en 'SONGMICS Caja Joyero Extra Grande  Estuc'
+title: 'Descuento del 38.618556701030926 % en SONGMICS Caja Joyero Extra Grande  Estuc'
 date: 2020-01-19 09:50:30
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418YPQqMvAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418YPQqMvAL._SL200_.jpg' ]

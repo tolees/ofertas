@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 73.76086005375336 % en 'Lapet Collar de Adiestramiento para Perr'
+title: 'Descuento del 73.76086005375336 % en Lapet Collar de Adiestramiento para Perr'
 date: 2019/12/02 09:55:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51yTY2k-CVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51yTY2k-CVL._SL200_.jpg' ]

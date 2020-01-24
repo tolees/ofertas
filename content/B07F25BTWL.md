@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puma BVB Liga M Bag Funda  PUMA Black de' al 51.29619415333701 % de descuento
+title: 'Puma BVB Liga M Bag Funda  PUMA Black de al 51.29619415333701 % de descuento'
 date: 2019/11/24 17:17:00 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qSQxV0GlL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qSQxV0GlL._SL200_.jpg' ]

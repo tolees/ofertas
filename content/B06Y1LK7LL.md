@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 65.21587743732591 % en 'Soporte de aluminio universal Zice para '
+title: 'Descuento del 65.21587743732591 % en Soporte de aluminio universal Zice para '
 date: 2020-01-23 19:23:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41flivCS4HL._SL200_.jpg' ]

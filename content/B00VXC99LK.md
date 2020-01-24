@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 Straight Classic Vaquero' al 51.285642821410704 % de descuento
+title: 'G-STAR RAW 3301 Straight Classic Vaquero al 51.285642821410704 % de descuento'
 date: 2019/12/25 00:24:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FsmXSui0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FsmXSui0L._SL200_.jpg' ]

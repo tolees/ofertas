@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.68222740913638 % en 'KEXIN 64GB Memoria USB Tipo C y 64GB Mem'
+title: 'Descuento del 46.68222740913638 % en KEXIN 64GB Memoria USB Tipo C y 64GB Mem'
 date: 2019/12/17 13:49:38 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IU4SqKViL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IU4SqKViL._SL200_.jpg' ]

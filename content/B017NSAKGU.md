@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 44.883794300136714 % en 'Kärcher Kit de reformas  2.863-220.0 '
+title: 'Descuento del 44.883794300136714 % en Kärcher Kit de reformas  2.863-220.0 '
 date: 2019/10/12 02:35:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JP3gdoBYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JP3gdoBYL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.18203883495145 % en 'ETNAB|#Etnies Jameson Vulc  Zapatillas d'
+title: 'Descuento del 50.18203883495145 % en ETNAB|#Etnies Jameson Vulc  Zapatillas d'
 date: 2019/10/30 03:00:55 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/310QVksMA6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/310QVksMA6L._SL200_.jpg' ]

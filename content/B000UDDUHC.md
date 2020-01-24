@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '1-Day Acuvue Moist - Lentes de contacto ' al 37.965517241379324 % de descuento
+title: '1-Day Acuvue Moist - Lentes de contacto  al 37.965517241379324 % de descuento'
 date: 2019/10/15 05:15:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315Sj1aKBfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315Sj1aKBfL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.50468808601074 % en 'Introducing Echo Show 5 - Compact smart '
+title: 'Descuento del 37.50468808601074 % en Introducing Echo Show 5 - Compact smart '
 date: 2019/11/24 21:17:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31L194MAa1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31L194MAa1L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Luchild Dispensador de Leche en Polvo  F' al 31.269543464665418 % de descuento
+title: 'Luchild Dispensador de Leche en Polvo  F al 31.269543464665418 % de descuento'
 date: 2020-01-11 10:08:45
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41edsbdm8cL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41edsbdm8cL._SL200_.jpg' ]

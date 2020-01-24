@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'find. Vaqueros Lavados con Rotos para Ho' al 42.22436206066442 % de descuento
+title: 'find. Vaqueros Lavados con Rotos para Ho al 42.22436206066442 % de descuento'
 date: 2019/10/08 08:03:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s55GmGXQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s55GmGXQL._SL200_.jpg' ]

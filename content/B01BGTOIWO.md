@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-Star Raw Bronson  Pantalones Para Homb' al 74.72736368184091 % de descuento
+title: 'G-Star Raw Bronson  Pantalones Para Homb al 74.72736368184091 % de descuento'
 date: 2019/10/06 22:26:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GeKzySh1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GeKzySh1L._SL200_.jpg' ]

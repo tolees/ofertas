@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trangoworld Trx2 Stretch Pro Pullover  H' al 33.189992181391716 % de descuento
+title: 'Trangoworld Trx2 Stretch Pro Pullover  H al 33.189992181391716 % de descuento'
 date: 2019/10/10 14:50:32 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417fS7a%2BQUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417fS7a%2BQUL._SL200_.jpg' ]

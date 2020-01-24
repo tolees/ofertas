@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2750 COTU Classic  Zapatillas Un' al 66.1864406779661 % de descuento
+title: 'Superga 2750 COTU Classic  Zapatillas Un al 66.1864406779661 % de descuento'
 date: 2019/10/14 16:35:48 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eTq5XYmAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eTq5XYmAL._SL200_.jpg' ]

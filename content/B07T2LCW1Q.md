@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 52.01486138896828 % en 'Don Algodon Beach Edition  Bolsa de Tela'
+title: 'Descuento del 52.01486138896828 % en Don Algodon Beach Edition  Bolsa de Tela'
 date: 2019/10/29 20:01:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iPSzlYv7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iPSzlYv7L._SL200_.jpg' ]

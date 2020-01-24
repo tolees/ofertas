@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 29.961089494163428 % en 'Reebok Classic Leather - Zapatillas de c'
+title: 'Descuento del 29.961089494163428 % en Reebok Classic Leather - Zapatillas de c'
 date: 2019/12/21 15:14:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41g1tzcja3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41g1tzcja3L._SL200_.jpg' ]

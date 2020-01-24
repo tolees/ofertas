@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mantona Elements outdoor backpack  with ' al 60.86261980830672 % de descuento
+title: 'Mantona Elements outdoor backpack  with  al 60.86261980830672 % de descuento'
 date: 2019/11/01 09:49:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BsfEYWUqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2BsfEYWUqL._SL200_.jpg' ]

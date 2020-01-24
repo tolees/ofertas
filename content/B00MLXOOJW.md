@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 26.505000000000003 % en 'Sony CMT-SBT40D - Sistema Hi-Fi Compacto'
+title: 'Descuento del 26.505000000000003 % en Sony CMT-SBT40D - Sistema Hi-Fi Compacto'
 date: 2019/10/24 16:09:39 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mrT9rFlTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mrT9rFlTL._SL200_.jpg' ]

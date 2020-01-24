@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.67796610169491 % en 'American Tourister Urban Groove Lifestyl'
+title: 'Descuento del 47.67796610169491 % en American Tourister Urban Groove Lifestyl'
 date: 2020-01-12 14:25:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/414se68jkmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/414se68jkmL._SL200_.jpg' ]

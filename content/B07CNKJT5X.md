@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gant The Broadcloth Gingham Reg BD Camis' al 25.902878097566383 % de descuento
+title: 'Gant The Broadcloth Gingham Reg BD Camis al 25.902878097566383 % de descuento'
 date: 2019/12/02 03:32:45 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bj1eijI9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bj1eijI9L._SL200_.jpg' ]

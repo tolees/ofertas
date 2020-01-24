@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'meiqicool - Alfombra puzzle infantil par' al 39.288077279343646 % de descuento
+title: 'meiqicool - Alfombra puzzle infantil par al 39.288077279343646 % de descuento'
 date: 2020-01-04 10:46:03
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kzp16ZCKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kzp16ZCKL._SL200_.jpg' ]

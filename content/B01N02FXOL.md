@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Festina Reloj Análogo clásico para Mujer' al 49.24460431654677 % de descuento
+title: 'Festina Reloj Análogo clásico para Mujer al 49.24460431654677 % de descuento'
 date: 2019/11/07 04:01:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P6%2B7D5cgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P6%2B7D5cgL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Eils SS Polo  Verde  Green For' al 62.898305084745765 % de descuento
+title: 'Napapijri Eils SS Polo  Verde  Green For al 62.898305084745765 % de descuento'
 date: 2020-01-02 20:20:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Yi7c%2BPCnL._SL200_.jpg' ]

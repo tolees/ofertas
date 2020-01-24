@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reebok CL LTHR 3912 - Zapatillas de cuer' al 64.42468037798777 % de descuento
+title: 'Reebok CL LTHR 3912 - Zapatillas de cuer al 64.42468037798777 % de descuento'
 date: 2019/12/16 11:14:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412t5r87ogL._SL200_.jpg' ]

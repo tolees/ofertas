@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Sinking City: Day One - Edition PS4 ' al 50.007143877696805 % de descuento
+title: 'The Sinking City: Day One - Edition PS4  al 50.007143877696805 % de descuento'
 date: 2019/11/25 19:30:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HvVbdV82L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HvVbdV82L._SL200_.jpg' ]

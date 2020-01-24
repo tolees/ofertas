@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fendi FF 0228/S 70 4ES Gafas de sol  Mar' al 72.85000000000001 % de descuento
+title: 'Fendi FF 0228/S 70 4ES Gafas de sol  Mar al 72.85000000000001 % de descuento'
 date: 2019/10/30 18:12:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31vdk3ryDWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31vdk3ryDWL._SL200_.jpg' ]

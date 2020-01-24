@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 36.174469787915164 % en 'Superdry O L Vintage Emb S/s Vee tee Cam'
+title: 'Descuento del 36.174469787915164 % en Superdry O L Vintage Emb S/s Vee tee Cam'
 date: 2019/10/18 10:48:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31sMdC8gJ5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31sMdC8gJ5L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.98166327097611 % en 'G-STAR RAW Strett Short Chevron HDD Anor'
+title: 'Descuento del 60.98166327097611 % en G-STAR RAW Strett Short Chevron HDD Anor'
 date: 2019/12/06 03:26:49 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qWuj0YeAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qWuj0YeAL._SL200_.jpg' ]

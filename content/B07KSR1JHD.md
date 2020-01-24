@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 64.58203043568898 % en 'AnazoZ Acero Inoxidable Gemelos para Hom'
+title: 'Descuento del 64.58203043568898 % en AnazoZ Acero Inoxidable Gemelos para Hom'
 date: 2020-01-24 02:14:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VKuYN+zKL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VKuYN+zKL._AC_._SL200_.jpg' ]

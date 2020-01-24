@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.55882352941176 % en 'Tipp-Ex Mini Pocket Mouse Cinta Correcto'
+title: 'Descuento del 34.55882352941176 % en Tipp-Ex Mini Pocket Mouse Cinta Correcto'
 date: 2019/10/18 05:33:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51U2Z7n1rvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51U2Z7n1rvL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.25333333333333 % en 'Under Armour UA W Press 2  Zapatillas de'
+title: 'Descuento del 74.25333333333333 % en Under Armour UA W Press 2  Zapatillas de'
 date: 2019/10/29 16:57:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412rWmIKemL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412rWmIKemL._SL200_.jpg' ]

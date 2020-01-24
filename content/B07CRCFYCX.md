@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pepe Jeans Gaby L Sudadera    Grey Marl ' al 47.46781115879829 % de descuento
+title: 'Pepe Jeans Gaby L Sudadera    Grey Marl  al 47.46781115879829 % de descuento'
 date: 2019/10/29 12:00:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41knxwKXXSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41knxwKXXSL._SL200_.jpg' ]

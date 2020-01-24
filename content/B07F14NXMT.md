@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Havaianas Slim Logo  Chanclas para Niñas' al 34.91620111731842 % de descuento
+title: 'Havaianas Slim Logo  Chanclas para Niñas al 34.91620111731842 % de descuento'
 date: 2020-01-02 21:53:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pH2RPUdSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pH2RPUdSL._SL200_.jpg' ]

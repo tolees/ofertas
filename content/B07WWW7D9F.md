@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.33879176809029 % en 'Juego de Rodillos de Espuma FitBeast 2 e'
+title: 'Descuento del 51.33879176809029 % en Juego de Rodillos de Espuma FitBeast 2 e'
 date: 2020-01-15 20:15:53
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416KgCTGWXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416KgCTGWXL._SL200_.jpg' ]

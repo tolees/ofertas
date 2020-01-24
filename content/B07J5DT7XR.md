@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 55.453350854139295 % en 'SUPERMOM Pants Utb Tropical Pantalones p'
+title: 'Descuento del 55.453350854139295 % en SUPERMOM Pants Utb Tropical Pantalones p'
 date: 2020-01-07 17:55:25
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51T4gt0lFAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51T4gt0lFAL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.80273141122914 % en 'Desigual TS_Nunavut Camiseta  Azul  Mari'
+title: 'Descuento del 49.80273141122914 % en Desigual TS_Nunavut Camiseta  Azul  Mari'
 date: 2019/11/08 22:32:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51on2mHpCvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51on2mHpCvL._SL200_.jpg' ]

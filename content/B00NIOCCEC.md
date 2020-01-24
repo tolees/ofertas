@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Panasonic ER-GB80-S503 - Cortapelos impe' al 37.53932584269663 % de descuento
+title: 'Panasonic ER-GB80-S503 - Cortapelos impe al 37.53932584269663 % de descuento'
 date: 2019/12/21 12:39:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51qApDpkhvL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51qApDpkhvL._SL200_.jpg' ]

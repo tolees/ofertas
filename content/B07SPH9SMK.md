@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'MERAKI Balm017 Body  Azul  Navy   44  Ta'
+title: 'Descuento del 50.0 % en MERAKI Balm017 Body  Azul  Navy   44  Ta'
 date: 2019/12/05 16:31:37 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31W37hoT7AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31W37hoT7AL._SL200_.jpg' ]

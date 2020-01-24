@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cartera Pepe Jeans Burned horizontal Azu' al 31.57894736842105 % de descuento
+title: 'Cartera Pepe Jeans Burned horizontal Azu al 31.57894736842105 % de descuento'
 date: 2019/12/10 19:05:24 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41fMKOTqVQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41fMKOTqVQL._SL200_.jpg' ]

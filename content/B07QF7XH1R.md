@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mpow Auricular Bluetooth Telefóno  Mini ' al 46.68222740913638 % de descuento
+title: 'Mpow Auricular Bluetooth Telefóno  Mini  al 46.68222740913638 % de descuento'
 date: 2019/12/04 09:38:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41JMC9uyRBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41JMC9uyRBL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bohemian Rhapsody Blu-Ray [Blu-ray]' al 52.43386243386243 % de descuento
+title: 'Bohemian Rhapsody Blu-Ray [Blu-ray] al 52.43386243386243 % de descuento'
 date: 2019/11/01 14:56:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41sqJMNvN6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41sqJMNvN6L._SL200_.jpg' ]

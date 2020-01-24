@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coronel Tapiocca  Maletin Ordenador Red ' al 39.66201069149853 % de descuento
+title: 'Coronel Tapiocca  Maletin Ordenador Red  al 39.66201069149853 % de descuento'
 date: 2019/10/09 18:25:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gB9hX%2BKCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gB9hX%2BKCL._SL200_.jpg' ]

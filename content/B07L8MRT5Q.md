@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dockers by Gerli 44es203-610610  Zapatil' al 55.79474342928661 % de descuento
+title: 'Dockers by Gerli 44es203-610610  Zapatil al 55.79474342928661 % de descuento'
 date: 2019/11/06 10:28:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41FI22QlVcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41FI22QlVcL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.224999999999994 % en 'The North Face Y Fleece Short Pantalón C'
+title: 'Descuento del 63.224999999999994 % en The North Face Y Fleece Short Pantalón C'
 date: 2019/11/21 04:36:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31lMqpwAwYL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31lMqpwAwYL._SL200_.jpg' ]

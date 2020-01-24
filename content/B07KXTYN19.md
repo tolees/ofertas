@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES NOS JJEDESERT Bomber Noos C' al 69.99249812453114 % de descuento
+title: 'JACK & JONES NOS JJEDESERT Bomber Noos C al 69.99249812453114 % de descuento'
 date: 2019/12/29 10:33:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31P5KuKr9HL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31P5KuKr9HL._SL200_.jpg' ]

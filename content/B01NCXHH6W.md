@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.274131274131268 % en 'L Oréal Paris Total Cover Base maquillaj'
+title: 'Descuento del 31.274131274131268 % en L Oréal Paris Total Cover Base maquillaj'
 date: 2019/10/18 00:31:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31PSSANg-TL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31PSSANg-TL._SL200_.jpg' ]

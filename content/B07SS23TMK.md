@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.005209418628883 % en 'YoTilon Trípode para Cámara 124cm Trípod'
+title: 'Descuento del 25.005209418628883 % en YoTilon Trípode para Cámara 124cm Trípod'
 date: 2019/11/09 08:36:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51xqN7cSx6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51xqN7cSx6L._SL200_.jpg' ]

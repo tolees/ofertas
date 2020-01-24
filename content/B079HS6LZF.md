@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bloques de construcción de Bloques magné' al 69.07322823044055 % de descuento
+title: 'Bloques de construcción de Bloques magné al 69.07322823044055 % de descuento'
 date: 2019/12/11 15:13:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61p7SsM3PrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61p7SsM3PrL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Rival Fitted Tapered Jogger' al 45.47474747474748 % de descuento
+title: 'Under Armour Rival Fitted Tapered Jogger al 45.47474747474748 % de descuento'
 date: 2019/11/25 11:39:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41a6Im6oSrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41a6Im6oSrL._SL200_.jpg' ]

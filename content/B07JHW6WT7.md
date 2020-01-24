@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 53.15741583257507 % en 'PUMA Energy Woven Pant Pantalones  Hombr'
+title: 'Descuento del 53.15741583257507 % en PUMA Energy Woven Pant Pantalones  Hombr'
 date: 2019/11/13 11:01:26 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DpL6EkiLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DpL6EkiLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Trek: Stardate Colección 1-10  Edic' al 52.03581325943296 % de descuento
+title: 'Star Trek: Stardate Colección 1-10  Edic al 52.03581325943296 % de descuento'
 date: 2019/12/01 11:37:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/418AzVzjqSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/418AzVzjqSL._SL200_.jpg' ]

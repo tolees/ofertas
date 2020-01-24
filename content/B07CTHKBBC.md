@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jfwstoke Nubuck Boot Honey ' al 40.055006875859476 % de descuento
+title: 'JACK & JONES Jfwstoke Nubuck Boot Honey  al 40.055006875859476 % de descuento'
 date: 2019/10/23 22:19:53 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hrWIBZIPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hrWIBZIPL._SL200_.jpg' ]

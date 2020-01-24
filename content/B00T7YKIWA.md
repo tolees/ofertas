@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.2 % en 'adidas Striped 15 Camiseta  Hombre  Azul'
+title: 'Descuento del 32.2 % en adidas Striped 15 Camiseta  Hombre  Azul'
 date: 2019/10/10 17:38:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41K-Gy1TmzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41K-Gy1TmzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 27.224749772520475 % en 'Puma Future 4.4 Fg/ag Botas de fútbol Ho'
+title: 'Descuento del 27.224749772520475 % en Puma Future 4.4 Fg/ag Botas de fútbol Ho'
 date: 2019/12/24 19:33:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51IwU8Us%2BCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51IwU8Us%2BCL._SL200_.jpg' ]

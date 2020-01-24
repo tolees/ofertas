@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hurley M Dri-Fit Coronado Polo S/S Polos' al 45.22222222222223 % de descuento
+title: 'Hurley M Dri-Fit Coronado Polo S/S Polos al 45.22222222222223 % de descuento'
 date: 2019/11/15 19:27:57 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VSKxMhPTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VSKxMhPTL._SL200_.jpg' ]

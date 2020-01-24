@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.04906771344455 % en 'Pepe Jeans Wyatt Pm305905 Camisa    Blue'
+title: 'Descuento del 50.04906771344455 % en Pepe Jeans Wyatt Pm305905 Camisa    Blue'
 date: 2019/11/29 10:34:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BfvEHhqKL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.898480918858834 % en 'Eli - Collar con Colgante para Mujer de '
+title: 'Descuento del 25.898480918858834 % en Eli - Collar con Colgante para Mujer de '
 date: 2019/11/25 02:36:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31nFaKHFwHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31nFaKHFwHL._SL200_.jpg' ]

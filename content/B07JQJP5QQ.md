@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Formula 1 2018 - PlayStation 4' al 62.99471353050436 % de descuento
+title: 'Formula 1 2018 - PlayStation 4 al 62.99471353050436 % de descuento'
 date: 2019/11/03 15:27:53 +0000
 thumbnailImage: 'http://images.amazon.com/images/P/B07JQJP5QQ.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B07JQJP5QQ.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]

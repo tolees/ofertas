@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Skechers Equalizer 3.0-Aquablast  Zapati' al 35.86321934945788 % de descuento
+title: 'Skechers Equalizer 3.0-Aquablast  Zapati al 35.86321934945788 % de descuento'
 date: 2020-01-08 11:26:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cIdPVo6CL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cIdPVo6CL._SL200_.jpg' ]

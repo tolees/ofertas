@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BALL RESCUER: Bote Presurizador de Pelot' al 25.062656641604008 % de descuento
+title: 'BALL RESCUER: Bote Presurizador de Pelot al 25.062656641604008 % de descuento'
 date: 2020-01-12 12:32:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31ki-SRVd3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31ki-SRVd3L._SL200_.jpg' ]

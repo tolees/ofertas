@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Max Factor Excess Volume Extreme Impact ' al 34.54968944099379 % de descuento
+title: 'Max Factor Excess Volume Extreme Impact  al 34.54968944099379 % de descuento'
 date: 2019/10/20 12:52:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dcUf1ZeTL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dcUf1ZeTL._SL200_.jpg' ]

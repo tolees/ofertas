@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.011252813203306 % en 'Pro Breeze Calefactor Eléctrico Cerámico'
+title: 'Descuento del 45.011252813203306 % en Pro Breeze Calefactor Eléctrico Cerámico'
 date: 2020-01-01 10:29:35
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51DxG-ZWvRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51DxG-ZWvRL._SL200_.jpg' ]

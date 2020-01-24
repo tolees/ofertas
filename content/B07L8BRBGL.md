@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OBEEII Cenicienta Disfraz Cinderella Car' al 53.781512605042 % de descuento
+title: 'OBEEII Cenicienta Disfraz Cinderella Car al 53.781512605042 % de descuento'
 date: 2020-01-21 18:35:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jcl92-0EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jcl92-0EL._SL200_.jpg' ]

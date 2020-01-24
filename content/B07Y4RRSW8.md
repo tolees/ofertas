@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'maxineer 7" Tablet PC Quad Core 512MB RA' al 40.005715102157446 % de descuento
+title: 'maxineer 7" Tablet PC Quad Core 512MB RA al 40.005715102157446 % de descuento'
 date: 2019/12/20 23:34:28 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SOa-sFczL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SOa-sFczL._SL200_.jpg' ]

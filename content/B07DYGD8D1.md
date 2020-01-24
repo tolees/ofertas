@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.28181818181818 % en 'Merrell Moab 2 Vent  Zapatillas de Sende'
+title: 'Descuento del 47.28181818181818 % en Merrell Moab 2 Vent  Zapatillas de Sende'
 date: 2019/11/19 19:46:44 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Nh-eBtbKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Nh-eBtbKL._SL200_.jpg' ]

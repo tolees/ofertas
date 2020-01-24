@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marvel Legends Series Black Panther Elec' al 73.35258403672442 % de descuento
+title: 'Marvel Legends Series Black Panther Elec al 73.35258403672442 % de descuento'
 date: 2019/12/23 15:21:01 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NZbptia7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NZbptia7L._SL200_.jpg' ]

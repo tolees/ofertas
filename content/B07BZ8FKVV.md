@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sloggi Women Move Flex Tights Ropa Inter' al 63.95494367959951 % de descuento
+title: 'Sloggi Women Move Flex Tights Ropa Inter al 63.95494367959951 % de descuento'
 date: 2019/11/08 18:46:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31DY50fo4VL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31DY50fo4VL._SL200_.jpg' ]

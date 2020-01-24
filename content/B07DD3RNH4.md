@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VTech Jirafa Scooter 4 en 1  andador evo' al 25.00416736122687 % de descuento
+title: 'VTech Jirafa Scooter 4 en 1  andador evo al 25.00416736122687 % de descuento'
 date: 2019/11/29 19:18:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51obpVgzd1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51obpVgzd1L._SL200_.jpg' ]

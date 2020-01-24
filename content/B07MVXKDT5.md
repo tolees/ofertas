@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 32.04285714285714 % en 'Naf Naf Millie R1 Vestido  Rojo  Rubis A'
+title: 'Descuento del 32.04285714285714 % en Naf Naf Millie R1 Vestido  Rojo  Rubis A'
 date: 2019/12/07 06:39:35 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41q49eoUxWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41q49eoUxWL._SL200_.jpg' ]

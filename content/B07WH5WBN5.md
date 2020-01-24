@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.00203340111337 % en 'YxFlower Custom Bausteine   1:8 2.4GHz R'
+title: 'Descuento del 61.00203340111337 % en YxFlower Custom Bausteine   1:8 2.4GHz R'
 date: 2020-01-01 23:03:05
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51JtIZxaxXL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Handycam FDR-AX33 4KUHD - Videocáma' al 37.65882352941177 % de descuento
+title: 'Sony Handycam FDR-AX33 4KUHD - Videocáma al 37.65882352941177 % de descuento'
 date: 2020-01-07 15:55:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41L4VsxbtbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41L4VsxbtbL._SL200_.jpg' ]

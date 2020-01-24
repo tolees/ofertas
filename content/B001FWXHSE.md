@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 45.168816909140816 % en 'Hugo Boss 18693 - Agua de colonia'
+title: 'Descuento del 45.168816909140816 % en Hugo Boss 18693 - Agua de colonia'
 date: 2019/10/24 23:44:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IlwzRYPcL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IlwzRYPcL._SL200_.jpg' ]

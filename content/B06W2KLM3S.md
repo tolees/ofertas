@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Elgato Stream Deck Live Content Creation' al 33.31777259086361 % de descuento
+title: 'Elgato Stream Deck Live Content Creation al 33.31777259086361 % de descuento'
 date: 2019/11/25 06:39:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417IUEbV4OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417IUEbV4OL._SL200_.jpg' ]

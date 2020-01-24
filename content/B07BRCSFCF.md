@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.38333333333333 % en 'Asics Kanmei 2  Zapatillas de Running pa'
+title: 'Descuento del 62.38333333333333 % en Asics Kanmei 2  Zapatillas de Running pa'
 date: 2020-01-21 13:55:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AZha6Y7DL._SL200_.jpg' ]

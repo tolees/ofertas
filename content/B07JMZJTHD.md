@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAM DMX187RG - Correa Metálica para Appl' al 85.66666666666667 % de descuento
+title: 'DAM DMX187RG - Correa Metálica para Appl al 85.66666666666667 % de descuento'
 date: 2019/11/04 08:09:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B2cvHVumL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B2cvHVumL._SL200_.jpg' ]

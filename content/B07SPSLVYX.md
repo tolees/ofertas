@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tiras de LED  REAFOO WiFi Tira LED imper' al 40.00666777796299 % de descuento
+title: 'Tiras de LED  REAFOO WiFi Tira LED imper al 40.00666777796299 % de descuento'
 date: 2020-01-04 12:40:51
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51TSk6sIg2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51TSk6sIg2L._SL200_.jpg' ]

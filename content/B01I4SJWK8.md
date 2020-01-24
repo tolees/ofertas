@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.34778259419807 % en 'Luces Solar Exterior Tira Lamparas led d'
+title: 'Descuento del 43.34778259419807 % en Luces Solar Exterior Tira Lamparas led d'
 date: 2019/11/01 12:31:41 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61nyrP-%2B5IL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61nyrP-%2B5IL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 49.342517219787105 % en 'Emooqi Navidad Pintura Facial  36 Colore'
+title: 'Descuento del 49.342517219787105 % en Emooqi Navidad Pintura Facial  36 Colore'
 date: 2020-01-14 21:11:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vlUJzjbEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vlUJzjbEL._SL200_.jpg' ]

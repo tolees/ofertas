@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.212606303151574 % en 'Science4you - Fábrica de jabones - jugue'
+title: 'Descuento del 25.212606303151574 % en Science4you - Fábrica de jabones - jugue'
 date: 2019/11/28 06:45:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/513azLHzEQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/513azLHzEQL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dihope  - Botas indias para mujer  tacón' al 62.06896551724138 % de descuento
+title: 'Dihope  - Botas indias para mujer  tacón al 62.06896551724138 % de descuento'
 date: 2019/10/06 09:33:12 +0000
 thumbnailImage: ''
 images: [ '' ]

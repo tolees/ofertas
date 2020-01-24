@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.66958698372967 % en 'Skylanders SuperCharges - Figura Shark T'
+title: 'Descuento del 35.66958698372967 % en Skylanders SuperCharges - Figura Shark T'
 date: 2019/12/15 19:03:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51bOPBJLKQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51bOPBJLKQL._SL200_.jpg' ]

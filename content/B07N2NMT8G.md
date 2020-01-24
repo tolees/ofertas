@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de Iluminación Led para The' al 60.0120024004801 % de descuento
+title: 'BRIKSMAX Kit de Iluminación Led para The al 60.0120024004801 % de descuento'
 date: 2020-01-23 09:51:26
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8iVgJFrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51%2B8iVgJFrL._SL200_.jpg' ]

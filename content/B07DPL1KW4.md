@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 68.57381150959132 % en 'Puma ESS FZ Hoody TR Big Logo Sweatshirt'
+title: 'Descuento del 68.57381150959132 % en Puma ESS FZ Hoody TR Big Logo Sweatshirt'
 date: 2019/10/28 07:09:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bwnpiQbqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bwnpiQbqL._SL200_.jpg' ]

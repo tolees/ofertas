@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'JACK & JONES Jfwtrent PU 19 Noos  Zapati' al 49.98999799959992 % de descuento
+title: 'JACK & JONES Jfwtrent PU 19 Noos  Zapati al 49.98999799959992 % de descuento'
 date: 2019/11/11 14:49:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31q1zr1B0OL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31q1zr1B0OL._SL200_.jpg' ]

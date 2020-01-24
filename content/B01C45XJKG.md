@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DIM Generous Sujetador  Beige  New Skin ' al 54.92957746478873 % de descuento
+title: 'DIM Generous Sujetador  Beige  New Skin  al 54.92957746478873 % de descuento'
 date: 2020-01-11 19:55:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41norz5v4%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41norz5v4%2BL._SL200_.jpg' ]

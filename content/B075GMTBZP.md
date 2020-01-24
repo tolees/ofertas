@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pendientes Mujer J.Rosée Pendientes Muje' al 94.00220286372284 % de descuento
+title: 'Pendientes Mujer J.Rosée Pendientes Muje al 94.00220286372284 % de descuento'
 date: 2020-01-06 13:10:59
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315J2oI5nzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315J2oI5nzL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TOPELEK Luz de Lectura Recargable con 60' al 36.38017280582082 % de descuento
+title: 'TOPELEK Luz de Lectura Recargable con 60 al 36.38017280582082 % de descuento'
 date: 2020-01-15 17:27:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41s1mFc9NLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41s1mFc9NLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAM TEKKIWEAR. DMW007DBL. Smartwatch GPS' al 70.84873949579831 % de descuento
+title: 'DAM TEKKIWEAR. DMW007DBL. Smartwatch GPS al 70.84873949579831 % de descuento'
 date: 2020-01-13 18:35:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416dbq2PceL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416dbq2PceL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Calvin Klein PRIMARY BACKPACKMujerBolsos' al 51.59259259259259 % de descuento
+title: 'Calvin Klein PRIMARY BACKPACKMujerBolsos al 51.59259259259259 % de descuento'
 date: 2019/11/26 10:19:51 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410wyCROlQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410wyCROlQL._SL200_.jpg' ]

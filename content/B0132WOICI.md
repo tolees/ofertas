@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scottex Jumbo Papel de Cocina - 2 Rollos' al 25.563909774436087 % de descuento
+title: 'Scottex Jumbo Papel de Cocina - 2 Rollos al 25.563909774436087 % de descuento'
 date: 2020-01-18 23:40:40
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51rRoykblZL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51rRoykblZL._SL200_.jpg' ]

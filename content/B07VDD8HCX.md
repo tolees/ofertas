@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.150383461153716 % en 'OBEEII Vestido de Comunion Niña Bordado '
+title: 'Descuento del 51.150383461153716 % en OBEEII Vestido de Comunion Niña Bordado '
 date: 2020-01-23 10:01:13
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41j8poo7LHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41j8poo7LHL._SL200_.jpg' ]

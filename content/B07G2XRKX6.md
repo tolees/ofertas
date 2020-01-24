@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ammoon Amplificador de Guitarra Portátil' al 40.00400040004 % de descuento
+title: 'ammoon Amplificador de Guitarra Portátil al 40.00400040004 % de descuento'
 date: 2019/12/17 18:26:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516Gu9AbBIL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516Gu9AbBIL._SL200_.jpg' ]

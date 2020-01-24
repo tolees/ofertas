@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 74.89489489489489 % en 'Triumph Amourette 300 WHP X Sujetador de'
+title: 'Descuento del 74.89489489489489 % en Triumph Amourette 300 WHP X Sujetador de'
 date: 2019/10/25 05:15:07 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41X6zEUzKWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41X6zEUzKWL._SL200_.jpg' ]

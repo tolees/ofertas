@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Prime Polo  Azul  Bright Blue 434  ' al 57.912794853466764 % de descuento
+title: 'BOSS Prime Polo  Azul  Bright Blue 434   al 57.912794853466764 % de descuento'
 date: 2020-01-02 21:05:54
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IsfJzygxL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IsfJzygxL._SL200_.jpg' ]

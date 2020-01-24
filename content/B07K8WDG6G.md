@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 81.32066033016508 % en 'G-STAR RAW 3301 Slim Vaqueros  Medium Ag'
+title: 'Descuento del 81.32066033016508 % en G-STAR RAW 3301 Slim Vaqueros  Medium Ag'
 date: 2019/12/05 01:48:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YhkSlpCLL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YhkSlpCLL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.762233736327 % en 'Philips HP8103/00/WH/VT Secador de Pelo '
+title: 'Descuento del 48.762233736327 % en Philips HP8103/00/WH/VT Secador de Pelo '
 date: 2019/10/06 14:13:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/315wuIZCsCL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/315wuIZCsCL._SL200_.jpg' ]

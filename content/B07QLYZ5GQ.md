@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Zapatillas de fútbol para Hombre Boy Pro' al 55.00916819469912 % de descuento
+title: 'Zapatillas de fútbol para Hombre Boy Pro al 55.00916819469912 % de descuento'
 date: 2019/12/15 12:23:51 +0000
 thumbnailImage: ''
 images: [ '' ]

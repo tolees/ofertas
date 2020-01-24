@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW ARC Mid Waist Ripped Pantalon' al 71.09363831308077 % de descuento
+title: 'G-STAR RAW ARC Mid Waist Ripped Pantalon al 71.09363831308077 % de descuento'
 date: 2019/11/22 03:53:10 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-NiWOxk1L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-NiWOxk1L._SL200_.jpg' ]

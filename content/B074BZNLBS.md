@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 47.5108695652174 % en 'Pepe Jeans Kingston Zip  Vaqueros Recto '
+title: 'Descuento del 47.5108695652174 % en Pepe Jeans Kingston Zip  Vaqueros Recto '
 date: 2019/12/30 20:26:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41VnX5cnsUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41VnX5cnsUL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asics Gel-Sonoma 4  Zapatillas de Runnin' al 35.68235294117647 % de descuento
+title: 'Asics Gel-Sonoma 4  Zapatillas de Runnin al 35.68235294117647 % de descuento'
 date: 2019/11/29 01:37:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YvtMzcojL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YvtMzcojL._SL200_.jpg' ]

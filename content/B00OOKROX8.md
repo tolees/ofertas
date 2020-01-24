@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Superga 2790Cotw Linea Up And Down  Zapa' al 57.85507246376812 % de descuento
+title: 'Superga 2790Cotw Linea Up And Down  Zapa al 57.85507246376812 % de descuento'
 date: 2019/10/11 23:03:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gjCt0NRhL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gjCt0NRhL._SL200_.jpg' ]

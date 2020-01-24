@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Crocs Crocband Clog Kids  Zuecos Unisex ' al 64.95779931228509 % de descuento
+title: 'Crocs Crocband Clog Kids  Zuecos Unisex  al 64.95779931228509 % de descuento'
 date: 2020-01-22 14:13:41
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QmrG8TESL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QmrG8TESL._SL200_.jpg' ]

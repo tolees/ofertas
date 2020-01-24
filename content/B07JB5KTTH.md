@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 37.523452157598506 % en 'TACKLIFE Papeles de Lija  10PCS 225mm Li'
+title: 'Descuento del 37.523452157598506 % en TACKLIFE Papeles de Lija  10PCS 225mm Li'
 date: 2019/10/17 18:00:13 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Hjlyd9PGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Hjlyd9PGL._SL200_.jpg' ]

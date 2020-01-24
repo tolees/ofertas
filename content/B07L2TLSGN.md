@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2x COCIER Enchufe Programable  Programad' al 57.15452133088385 % de descuento
+title: '2x COCIER Enchufe Programable  Programad al 57.15452133088385 % de descuento'
 date: 2019/10/12 15:52:42 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41cirBDHOkL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41cirBDHOkL._SL200_.jpg' ]

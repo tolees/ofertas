@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DAM TEKKIWEAR. DMX097WHITE. Brazalete In' al 69.85427135678393 % de descuento
+title: 'DAM TEKKIWEAR. DMX097WHITE. Brazalete In al 69.85427135678393 % de descuento'
 date: 2020-01-20 13:17:24
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Jso9Oy2mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Jso9Oy2mL._SL200_.jpg' ]

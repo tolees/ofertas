@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FMPC Funda Compatible con Samsung Galaxy' al 66.68889629876625 % de descuento
+title: 'FMPC Funda Compatible con Samsung Galaxy al 66.68889629876625 % de descuento'
 date: 2020-01-10 19:04:39
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41bAJLEpIwL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41bAJLEpIwL._SL200_.jpg' ]

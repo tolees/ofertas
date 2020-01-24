@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Playmobil 70007 Top Agents Team S.H.A.R.' al 26.947819871336666 % de descuento
+title: 'Playmobil 70007 Top Agents Team S.H.A.R. al 26.947819871336666 % de descuento'
 date: 2020-01-22 10:34:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61-sHFV%2BzML._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61-sHFV%2BzML._SL200_.jpg' ]

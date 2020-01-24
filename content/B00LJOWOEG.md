@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dickies Streetwear Male Denims Michigan ' al 53.0 % de descuento
+title: 'Dickies Streetwear Male Denims Michigan  al 53.0 % de descuento'
 date: 2019/11/21 05:37:05 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UCkmnUcjL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UCkmnUcjL._SL200_.jpg' ]

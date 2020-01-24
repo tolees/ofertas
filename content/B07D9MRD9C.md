@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Duramo 9  Zapatillas de Trail Run' al 37.714762301918256 % de descuento
+title: 'adidas Duramo 9  Zapatillas de Trail Run al 37.714762301918256 % de descuento'
 date: 2019/12/04 04:22:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rfT29zC0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rfT29zC0L._SL200_.jpg' ]

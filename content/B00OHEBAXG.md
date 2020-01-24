@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kappa Lucera Camiseta  Hombre  Naranja  ' al 46.9375 % de descuento
+title: 'Kappa Lucera Camiseta  Hombre  Naranja   al 46.9375 % de descuento'
 date: 2019/11/13 11:21:16 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nzZkLVX7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nzZkLVX7L._SL200_.jpg' ]

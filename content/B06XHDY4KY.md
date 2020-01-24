@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W HH LIFA T-Shirt  Mujer  B' al 59.94285714285714 % de descuento
+title: 'Helly Hansen W HH LIFA T-Shirt  Mujer  B al 59.94285714285714 % de descuento'
 date: 2019/10/07 16:24:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410w8L-oY-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410w8L-oY-L._SL200_.jpg' ]

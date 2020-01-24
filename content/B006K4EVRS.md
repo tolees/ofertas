@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Darphin  Crema corporal - 50 ml.' al 47.332000615100725 % de descuento
+title: 'Darphin  Crema corporal - 50 ml. al 47.332000615100725 % de descuento'
 date: 2020-01-08 23:48:22
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41nTmuR5IrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41nTmuR5IrL._SL200_.jpg' ]

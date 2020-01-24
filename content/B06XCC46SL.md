@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 3301 D-Mid Waist Super Skinny' al 42.65132566283142 % de descuento
+title: 'G-STAR RAW 3301 D-Mid Waist Super Skinny al 42.65132566283142 % de descuento'
 date: 2019/12/05 19:19:56 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BsM9tCt7L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BsM9tCt7L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 31.331331331331334 % en 'Skechers Bobs Squad 2-Grand Jubilee  Zap'
+title: 'Descuento del 31.331331331331334 % en Skechers Bobs Squad 2-Grand Jubilee  Zap'
 date: 2019/11/23 06:04:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rKpR0lNJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rKpR0lNJL._SL200_.jpg' ]

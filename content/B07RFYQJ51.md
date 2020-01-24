@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'G-STAR RAW 5620 3D Vaqueros Slim  Gris  ' al 47.29883192731993 % de descuento
+title: 'G-STAR RAW 5620 3D Vaqueros Slim  Gris   al 47.29883192731993 % de descuento'
 date: 2020-01-13 10:20:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qi9qZmJJL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qi9qZmJJL._SL200_.jpg' ]

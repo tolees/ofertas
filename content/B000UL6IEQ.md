@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 60.79447322970639 % en 'Magnat Needle Alu Super Tower I 1 Paar 2'
+title: 'Descuento del 60.79447322970639 % en Magnat Needle Alu Super Tower I 1 Paar 2'
 date: 2019/11/30 15:39:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/317bPhvW6rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/317bPhvW6rL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buff R-Solid Gorra  Unisex Adulto  White' al 49.473684210526315 % de descuento
+title: 'Buff R-Solid Gorra  Unisex Adulto  White al 49.473684210526315 % de descuento'
 date: 2019/11/30 21:49:23 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31eIe-0tTKL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31eIe-0tTKL._SL200_.jpg' ]

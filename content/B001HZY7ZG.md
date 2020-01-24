@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shunga Aceites Esenciales - 1 unidad' al 33.589041095890416 % de descuento
+title: 'Shunga Aceites Esenciales - 1 unidad al 33.589041095890416 % de descuento'
 date: 2019/11/25 07:43:09 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDIrE6lmL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDIrE6lmL._SL200_.jpg' ]

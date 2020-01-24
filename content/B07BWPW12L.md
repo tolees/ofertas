@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'deAO RC Camiones de Serie Camión de Cons' al 28.585040495474022 % de descuento
+title: 'deAO RC Camiones de Serie Camión de Cons al 28.585040495474022 % de descuento'
 date: 2019/11/18 17:16:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51fMp16Yh0L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51fMp16Yh0L._SL200_.jpg' ]

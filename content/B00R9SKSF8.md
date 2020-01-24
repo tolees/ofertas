@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Palladium US Baggy H  Zapatillas Altas p' al 25.309005297233668 % de descuento
+title: 'Palladium US Baggy H  Zapatillas Altas p al 25.309005297233668 % de descuento'
 date: 2019/10/31 12:04:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41twtL%2BtjqL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41twtL%2BtjqL._SL200_.jpg' ]

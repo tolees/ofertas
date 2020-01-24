@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'jerryvon Cocina Infantil Madera Pequeña ' al 56.986423822559914 % de descuento
+title: 'jerryvon Cocina Infantil Madera Pequeña  al 56.986423822559914 % de descuento'
 date: 2020-01-12 08:50:00
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41B-t51dIrL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41B-t51dIrL._SL200_.jpg' ]

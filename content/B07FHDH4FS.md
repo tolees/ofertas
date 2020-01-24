@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Helly Hansen W Jeloey Jacket  Mujer  Nav' al 36.39230769230769 % de descuento
+title: 'Helly Hansen W Jeloey Jacket  Mujer  Nav al 36.39230769230769 % de descuento'
 date: 2019/12/06 13:07:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31%2BokqDnMfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31%2BokqDnMfL._SL200_.jpg' ]

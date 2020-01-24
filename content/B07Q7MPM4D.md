@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Happy Cherry - Sombrero Pescador de Prot' al 33.349213911386364 % de descuento
+title: 'Happy Cherry - Sombrero Pescador de Prot al 33.349213911386364 % de descuento'
 date: 2019/11/06 14:32:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41z8BF%2BBcXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41z8BF%2BBcXL._SL200_.jpg' ]

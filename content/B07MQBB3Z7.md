@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 63.15146127347484 % en 'Jack & Jones NOS JJICLARK Jjoriginal JJ '
+title: 'Descuento del 63.15146127347484 % en Jack & Jones NOS JJICLARK Jjoriginal JJ '
 date: 2019/11/17 05:46:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41rgVs4UovL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41rgVs4UovL._SL200_.jpg' ]

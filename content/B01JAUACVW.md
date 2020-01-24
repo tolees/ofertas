@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Look Green  Dark Green  IT 48  DE 42' al 56.82272909163666 % de descuento
+title: 'New Look Green  Dark Green  IT 48  DE 42 al 56.82272909163666 % de descuento'
 date: 2019/10/29 09:51:43 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41mMXozCNVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41mMXozCNVL._SL200_.jpg' ]

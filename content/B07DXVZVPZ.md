@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour Storm - Camiseta de Calenta' al 61.0 % de descuento
+title: 'Under Armour Storm - Camiseta de Calenta al 61.0 % de descuento'
 date: 2019/10/25 12:56:30 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BWC1vPEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Y%2BWC1vPEL._SL200_.jpg' ]

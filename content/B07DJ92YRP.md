@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.887499999999996 % en 'New Balance 220  Zapatillas para Mujer  '
+title: 'Descuento del 40.887499999999996 % en New Balance 220  Zapatillas para Mujer  '
 date: 2019/12/03 02:52:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41EegbmXhOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41EegbmXhOL._SL200_.jpg' ]

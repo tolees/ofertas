@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 61.9 % en 'Under Armour Rival Exploded Graphic Pant'
+title: 'Descuento del 61.9 % en Under Armour Rival Exploded Graphic Pant'
 date: 2019/11/02 23:41:20 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xTTb0o2sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xTTb0o2sL._SL200_.jpg' ]

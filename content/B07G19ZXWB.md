@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brochas de Maquillaje EmaxDesign 17 piez' al 34.022681787858566 % de descuento
+title: 'Brochas de Maquillaje EmaxDesign 17 piez al 34.022681787858566 % de descuento'
 date: 2019/10/13 05:01:31 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51nYMI9%2BR3L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51nYMI9%2BR3L._SL200_.jpg' ]

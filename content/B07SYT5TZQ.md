@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trials of Mana' al 28.54077253218884 % de descuento
+title: 'Trials of Mana al 28.54077253218884 % de descuento'
 date: 2020-01-01 12:05:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ttaYqyzeL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ttaYqyzeL._SL200_.jpg' ]

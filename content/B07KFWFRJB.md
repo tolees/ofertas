@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 28.318996415770602 % en 'Honor 8X 128GB Smartphone BUNDLE  16 5 c'
+title: 'Descuento del 28.318996415770602 % en Honor 8X 128GB Smartphone BUNDLE  16 5 c'
 date: 2019/12/05 11:29:12 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41J4r4JTImL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41J4r4JTImL._SL200_.jpg' ]

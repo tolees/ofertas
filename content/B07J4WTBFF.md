@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.988735919899874 % en 'Triumph Sexy Angel Spotlight W02 Sujetad'
+title: 'Descuento del 50.988735919899874 % en Triumph Sexy Angel Spotlight W02 Sujetad'
 date: 2020-01-07 20:55:55
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410FVxO8bRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410FVxO8bRL._SL200_.jpg' ]

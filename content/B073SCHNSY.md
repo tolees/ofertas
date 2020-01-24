@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 62.5 % en 'find. Sudadera para Hombre  Azul  Mariti'
+title: 'Descuento del 62.5 % en find. Sudadera para Hombre  Azul  Mariti'
 date: 2020-01-13 14:49:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/411na9wCGyL._SL200_.jpg' ]

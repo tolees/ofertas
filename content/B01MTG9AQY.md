@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 34.168865435356196 % en 'Tommy Hilfiger 3p Brief  Bóxer para Homb'
+title: 'Descuento del 34.168865435356196 % en Tommy Hilfiger 3p Brief  Bóxer para Homb'
 date: 2019/10/28 12:20:54 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41tZJdExv6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41tZJdExv6L._SL200_.jpg' ]

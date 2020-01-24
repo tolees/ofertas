@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MyWay Women Sneaker Socks 12er Calcetine' al 29.966555183946486 % de descuento
+title: 'MyWay Women Sneaker Socks 12er Calcetine al 29.966555183946486 % de descuento'
 date: 2019/11/10 14:21:36 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31RfMiLgojL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31RfMiLgojL._SL200_.jpg' ]

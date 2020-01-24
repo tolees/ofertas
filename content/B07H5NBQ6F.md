@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.025017869907074 % en 'Skechers Uno- Stand on Air  Zapatillas p'
+title: 'Descuento del 35.025017869907074 % en Skechers Uno- Stand on Air  Zapatillas p'
 date: 2019/10/17 06:26:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31IdHy5FojL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31IdHy5FojL._SL200_.jpg' ]

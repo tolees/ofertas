@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Napapijri Rainforest S Pkt BLU Marine Ch' al 44.72361809045226 % de descuento
+title: 'Napapijri Rainforest S Pkt BLU Marine Ch al 44.72361809045226 % de descuento'
 date: 2019/11/22 19:22:46 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31Agr23if-L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31Agr23if-L._SL200_.jpg' ]

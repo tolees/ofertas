@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'TONGJI Vitrina de Acrílico con Luces Com'
+title: 'Descuento del 50.0 % en TONGJI Vitrina de Acrílico con Luces Com'
 date: 2020-01-14 21:21:29
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BJn88cfNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BJn88cfNL._SL200_.jpg' ]

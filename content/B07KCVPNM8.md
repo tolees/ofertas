@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOSS Mix&Match T-Shirt Rundhals Camiseta' al 45.607008760951196 % de descuento
+title: 'BOSS Mix&Match T-Shirt Rundhals Camiseta al 45.607008760951196 % de descuento'
 date: 2019/10/29 19:11:04 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31h5dWNY7AL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31h5dWNY7AL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tommy Hilfiger Essential Basic Down Jack' al 52.88590604026846 % de descuento
+title: 'Tommy Hilfiger Essential Basic Down Jack al 52.88590604026846 % de descuento'
 date: 2019/12/16 22:14:59 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uAJybkZzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uAJybkZzL._SL200_.jpg' ]

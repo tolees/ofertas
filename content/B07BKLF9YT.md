@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.07285974499089 % en 'Skechers Madison Ave-Inner City  Zapatil'
+title: 'Descuento del 40.07285974499089 % en Skechers Madison Ave-Inner City  Zapatil'
 date: 2019/11/20 01:19:08 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31OfWd11M2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31OfWd11M2L._SL200_.jpg' ]

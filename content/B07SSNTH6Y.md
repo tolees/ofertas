@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.12225618227285 % en 'ROXY Sugar - Mochila para mujer  True Bl'
+title: 'Descuento del 40.12225618227285 % en ROXY Sugar - Mochila para mujer  True Bl'
 date: 2019/11/01 12:26:27 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ns67jTU%2BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ns67jTU%2BL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 85.68345323741006 % en 'REPLAY Dominiqli Vaqueros Corte de Bota '
+title: 'Descuento del 85.68345323741006 % en REPLAY Dominiqli Vaqueros Corte de Bota '
 date: 2019/12/17 00:21:17 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31diSQqdcOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31diSQqdcOL._SL200_.jpg' ]

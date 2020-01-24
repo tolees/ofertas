@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Balance 574v2  Zapatillas para Hombr' al 30.000000000000004 % de descuento
+title: 'New Balance 574v2  Zapatillas para Hombr al 30.000000000000004 % de descuento'
 date: 2020-01-21 14:54:46
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/417lAXeVcRL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/417lAXeVcRL._SL200_.jpg' ]

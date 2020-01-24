@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Guantes Invierno Hombre Mujer Guantes Te' al 50.02501250625312 % de descuento
+title: 'Guantes Invierno Hombre Mujer Guantes Te al 50.02501250625312 % de descuento'
 date: 2020-01-21 13:25:33
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41YmZgrX%2BOL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41YmZgrX%2BOL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s Perfect-tee Camiseta de Manga Cor' al 50.0 % de descuento
+title: 'Levi s Perfect-tee Camiseta de Manga Cor al 50.0 % de descuento'
 date: 2019/10/24 22:37:58 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Weg0k%2Bs9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Weg0k%2Bs9L._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'tonies® Hörfigur - Kreativ Weihnachtsman' al 26.68890742285238 % de descuento
+title: 'tonies® Hörfigur - Kreativ Weihnachtsman al 26.68890742285238 % de descuento'
 date: 2019/11/29 06:25:25 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41izLdNU8EL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41izLdNU8EL._SL200_.jpg' ]

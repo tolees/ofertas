@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.32000000000001 % en 'Naf Naf Kenp17 Pantalones  Azul  Bleu Ma'
+title: 'Descuento del 46.32000000000001 % en Naf Naf Kenp17 Pantalones  Azul  Bleu Ma'
 date: 2019/12/07 06:39:34 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31qbTEaWYXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31qbTEaWYXL._SL200_.jpg' ]

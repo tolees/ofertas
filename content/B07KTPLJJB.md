@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 35.0 % en 'Scuderia Ferrari Reloj de Pulsera 830587'
+title: 'Descuento del 35.0 % en Scuderia Ferrari Reloj de Pulsera 830587'
 date: 2019/12/03 00:44:02 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51wwB6wWBiL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51wwB6wWBiL._SL200_.jpg' ]

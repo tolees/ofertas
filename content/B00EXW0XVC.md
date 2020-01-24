@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 48.371517027863774 % en 'Calvin Klein Euphoria Perfume con vapori'
+title: 'Descuento del 48.371517027863774 % en Calvin Klein Euphoria Perfume con vapori'
 date: 2019/12/23 20:04:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31zgP6WY7kL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31zgP6WY7kL._SL200_.jpg' ]

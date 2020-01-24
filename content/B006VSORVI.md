@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.125628140703515 % en 'Rubies Esqueleto Mordiscos S0480'
+title: 'Descuento del 25.125628140703515 % en Rubies Esqueleto Mordiscos S0480'
 date: 2019/10/29 20:47:19 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31D0IIHe20L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31D0IIHe20L._SL200_.jpg' ]

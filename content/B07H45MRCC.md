@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 25.985197039407883 % en 'Philips MG7720/18 14 en 1 - Recortadora '
+title: 'Descuento del 25.985197039407883 % en Philips MG7720/18 14 en 1 - Recortadora '
 date: 2019/11/25 09:04:22 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41iezN12loL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41iezN12loL._SL200_.jpg' ]

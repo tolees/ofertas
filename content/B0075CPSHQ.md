@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POP! Vinilo - Disney: Minnie Mouse' al 44.96330887258172 % de descuento
+title: 'POP! Vinilo - Disney: Minnie Mouse al 44.96330887258172 % de descuento'
 date: 2020-01-13 23:29:09
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51Req542dEL._SL200_.jpg' ]

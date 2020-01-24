@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.46657571623466 % en 'GANT Footwear Atlanta  Zapatillas para H'
+title: 'Descuento del 46.46657571623466 % en GANT Footwear Atlanta  Zapatillas para H'
 date: 2019/11/13 04:24:40 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ttv3YpTSL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ttv3YpTSL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 51.44646322102664 % en 'Tommy Jeans Mujer MID RISE BOOT SANDY SP'
+title: 'Descuento del 51.44646322102664 % en Tommy Jeans Mujer MID RISE BOOT SANDY SP'
 date: 2019/10/20 00:04:15 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41aM3yKBmfL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41aM3yKBmfL._SL200_.jpg' ]

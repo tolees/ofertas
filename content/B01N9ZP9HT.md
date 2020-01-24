@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Puyo Puyo Tetris' al 50.11252813203302 % de descuento
+title: 'Puyo Puyo Tetris al 50.11252813203302 % de descuento'
 date: 2019/10/28 18:05:52 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51t73lNAUBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51t73lNAUBL._SL200_.jpg' ]

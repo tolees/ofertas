@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 50.0 % en 'Geox U NORWOLK B  Botas Chukka para Homb'
+title: 'Descuento del 50.0 % en Geox U NORWOLK B  Botas Chukka para Homb'
 date: 2020-01-04 09:53:10
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31KSUlI%2B2zL._SL200_.jpg' ]

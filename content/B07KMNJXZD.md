@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 30.008110300081103 % en 'The Legend of Heroes: Trails of Cold Ste'
+title: 'Descuento del 30.008110300081103 % en The Legend of Heroes: Trails of Cold Ste'
 date: 2019/12/11 08:59:33 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51lhmbtbeNL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51lhmbtbeNL._SL200_.jpg' ]

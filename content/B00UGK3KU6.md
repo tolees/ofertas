@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'L Oréal Expert Vitamino Color A-Ox - Cha' al 43.843594009983356 % de descuento
+title: 'L Oréal Expert Vitamino Color A-Ox - Cha al 43.843594009983356 % de descuento'
 date: 2019/11/07 13:18:21 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31GmtM3lBVL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31GmtM3lBVL._SL200_.jpg' ]

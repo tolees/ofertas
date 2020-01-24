@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Graco SlimFit All-in-One Car Seat  Group' al 41.23183716689217 % de descuento
+title: 'Graco SlimFit All-in-One Car Seat  Group al 41.23183716689217 % de descuento'
 date: 2019/12/15 21:33:11 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BNHWwDPoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BNHWwDPoL._SL200_.jpg' ]

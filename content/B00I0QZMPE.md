@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AVerMedia Live Gamer Portable Lite  capt' al 29.303030303030308 % de descuento
+title: 'AVerMedia Live Gamer Portable Lite  capt al 29.303030303030308 % de descuento'
 date: 2020-01-13 20:58:15
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41oJ1wUzxUL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41oJ1wUzxUL._SL200_.jpg' ]

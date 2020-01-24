@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 40.01000250062516 % en 'Andven Autoradio Bluetooth  4×60W Manos '
+title: 'Descuento del 40.01000250062516 % en Andven Autoradio Bluetooth  4×60W Manos '
 date: 2019/12/22 14:02:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51CqU4qxywL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51CqU4qxywL._SL200_.jpg' ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 43.60225140712946 % en 'Timezone Herren Straight Leg Hose Benito'
+title: 'Descuento del 43.60225140712946 % en Timezone Herren Straight Leg Hose Benito'
 date: 2020-01-20 04:42:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41DhaY9NZbL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41DhaY9NZbL._SL200_.jpg' ]

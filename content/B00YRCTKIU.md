@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELINKUME G9 SMD 3014 Bombilla LED AC220V' al 42.88571428571429 % de descuento
+title: 'ELINKUME G9 SMD 3014 Bombilla LED AC220V al 42.88571428571429 % de descuento'
 date: 2019/11/04 12:51:18 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aWugN23vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aWugN23vL._SL200_.jpg' ]

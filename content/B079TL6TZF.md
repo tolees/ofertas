@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Descuento del 46.94781987133667 % en 'Desigual Sneaker Rubber Print Scarlet  Z'
+title: 'Descuento del 46.94781987133667 % en Desigual Sneaker Rubber Print Scarlet  Z'
 date: 2019/11/08 18:15:47 +0000
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kVjyzvETL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kVjyzvETL._SL200_.jpg' ]
