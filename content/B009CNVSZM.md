@@ -14,10 +14,10 @@ comparePrice: 749 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Fujifilm Fujinon XF 18-55 mm F2.8-4.0 R LM OIS - Objetivo para Fujifilm X  distancia focal 18-55 mm  apertura f/2.8-16  zoom óptico 1x  estabilizador óptico  motor de enfoque  diámetro: 52mm   negro](https://www.amazon.com/dp/B009CNVSZM/?tag=redken08-20) a 539 EUR (original: 749 EUR) en el siguiente enlace!
+Tienes [Fujifilm Fujinon XF 18-55 mm F2.8-4.0 R LM OIS - Objetivo para Fujifilm X  distancia focal 18-55 mm  apertura f/2.8-16  zoom óptico 1x  estabilizador óptico  motor de enfoque  diámetro: 52mm   negro](https://www.amazon.com/dp/B009CNVSZM/?tag=redken08-20) a precio de oferta de 539 EUR (original: 749 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51qm1aqIo%2BL._SL200_.jpg)](https://www.amazon.com/dp/B009CNVSZM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B009CNVSZM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B009CNVSZM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

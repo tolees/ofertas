@@ -14,10 +14,10 @@ comparePrice: 23.82 EUR
 inStock: true
 ---
 
-Tienes [Midnight Oud Eau de Natural Perfume Spray100 ml Alternative Amouag Interlude](https://www.amazon.com/dp/B07HLVRY76/?tag=redken08-20) a precio de oferta de 14.83 EUR (original: 23.82 EUR) en el siguiente enlace!
+Está [Midnight Oud Eau de Natural Perfume Spray100 ml Alternative Amouag Interlude](https://www.amazon.com/dp/B07HLVRY76/?tag=redken08-20) por 14.83 EUR (original: 23.82 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51im0V94IkL._SL200_.jpg)](https://www.amazon.com/dp/B07HLVRY76/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07HLVRY76/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07HLVRY76/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

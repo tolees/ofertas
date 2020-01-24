@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CLUB CUBANA Camisa Hawaiana Florar Casua'
-date: 2020-01-16 15:21:40
+date: 2020-01-23 19:56:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51hdZUccshL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51hdZUccshL._SL200_.jpg' ]
 comments: true

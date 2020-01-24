@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L CARNITINA-Navit Plus. Complemento alim'
-date: 2020-01-19 09:08:10
+date: 2020-01-24 02:00:42
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IvuTE3b9L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IvuTE3b9L._SL200_.jpg' ]
 comments: true

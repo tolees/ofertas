@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Cardhu 18 Años Whisky Escocés - 700 ml'
-date: 2020-01-22 20:17:17
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415ytIK9sIL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415ytIK9sIL._SL200_.jpg' ]
+date: 2020-01-24 00:23:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/415ytIK9sIL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/415ytIK9sIL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Tienes [Cardhu 18 Años Whisky Escocés - 700 ml](https://www.amazon.com/dp/B008DVNTCO/?tag=redken08-20) a precio de oferta de 57.48 EUR (original: 79.85 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/415ytIK9sIL._SL200_.jpg)](https://www.amazon.com/dp/B008DVNTCO/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/415ytIK9sIL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B008DVNTCO/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B008DVNTCO/?tag=redken08-20)
 

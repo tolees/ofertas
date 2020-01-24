@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B PRO 2 2950N CrossAction - Cepillo'
-date: 2020-01-22 19:59:25
+date: 2020-01-23 20:11:43
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51pABiCh0sL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51pABiCh0sL._SL200_.jpg' ]
 comments: true

@@ -1,22 +1,22 @@
 ---
 layout: post
 title: 'Timex Reloj Cronógrafo para Hombre de Cu'
-date: 2020-01-13 22:02:05
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415IbJjDK3L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415IbJjDK3L._SL200_.jpg' ]
+date: 2020-01-23 22:23:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/415IbJjDK3L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/415IbJjDK3L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B079T7JLKL
 description:
 actualPrice: 43.5 EUR
-comparePrice: 135 EUR
+comparePrice: 135.0 EUR
 inStock: true
 ---
 
-Está [Timex Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero TW2R70800](https://www.amazon.com/dp/B079T7JLKL/?tag=redken08-20) por 43.5 EUR (original: 135 EUR) en el siguiente enlace!
+Está [Timex Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero TW2R70800](https://www.amazon.com/dp/B079T7JLKL/?tag=redken08-20) por 43.5 EUR (original: 135.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/415IbJjDK3L._SL200_.jpg)](https://www.amazon.com/dp/B079T7JLKL/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/415IbJjDK3L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B079T7JLKL/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B079T7JLKL/?tag=redken08-20)
 

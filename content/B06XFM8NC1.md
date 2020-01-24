@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Willful Impermeable Pulsera Inteligente '
-date: 2020-01-14 10:56:04
+date: 2020-01-23 20:15:38
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/415zTdqD4jL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/415zTdqD4jL._SL200_.jpg' ]
 comments: true

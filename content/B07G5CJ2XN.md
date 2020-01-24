@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'SeeKool MII Mini PC Ordenador de sobreme'
-date: 2020-01-21 18:28:55
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg' ]
+date: 2020-01-24 02:05:52
+thumbnailImage: 'https://m.media-amazon.com/images/I/41OM4NZAy8L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41OM4NZAy8L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [SeeKool MII Mini PC Ordenador de sobremesa  Full 4K HD H.265 Soporte Windows 10 Mini ordenador  4GB+64GB  Apollo Lake N3350 Procesador  Dual-Band WiFi  Gigabit Ethernet  USB 3.0  Salida HDMI/USB/SD](https://www.amazon.com/dp/B07G5CJ2XN/?tag=redken08-20) por 134.99 EUR (original: 215.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41OM4NZAy8L._SL200_.jpg)](https://www.amazon.com/dp/B07G5CJ2XN/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41OM4NZAy8L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07G5CJ2XN/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07G5CJ2XN/?tag=redken08-20)
 

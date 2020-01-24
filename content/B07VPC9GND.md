@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OBEEII Vestido de Princesa Sofia Niña Di'
-date: 2020-01-22 01:40:27
+date: 2020-01-24 02:18:23
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41eDcdTP3rL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41eDcdTP3rL._SL200_.jpg' ]
 comments: true

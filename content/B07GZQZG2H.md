@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMERIL - Luces Bicicleta Delantera y Tra'
-date: 2020-01-13 09:54:31
+date: 2020-01-23 20:28:34
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51uF30qT14L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51uF30qT14L._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07GZQZG2H
 description:
-actualPrice: 19.99 EUR
+actualPrice: 14.99 EUR
 comparePrice: 28.99 EUR
 inStock: true
 ---
 
-Está [OMERIL - Luces Bicicleta Delantera y Trasera Linterna Bicicleta Recargable  IP65 Resistente con 6 Modes  Bocina y Luz para Carretera y Montaña  Control Remoto](https://www.amazon.com/dp/B07GZQZG2H/?tag=redken08-20) por 19.99 EUR (original: 28.99 EUR) en el siguiente enlace!
+Está [OMERIL - Luces Bicicleta Delantera y Trasera Linterna Bicicleta Recargable  IP65 Resistente con 6 Modes  Bocina y Luz para Carretera y Montaña  Control Remoto](https://www.amazon.com/dp/B07GZQZG2H/?tag=redken08-20) por 14.99 EUR (original: 28.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51uF30qT14L._SL200_.jpg)](https://www.amazon.com/dp/B07GZQZG2H/?tag=redken08-20)
 

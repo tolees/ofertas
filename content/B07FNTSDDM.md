@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'LEGO 70829 Movie 2 with Emmet  Lucy and '
-date: 2020-01-22 17:09:44
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg' ]
+title: 'THE LEGO MOVIE 2 70829 Emmets und Lucys '
+date: 2020-01-22 17:21:04
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YYXogbMnL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YYXogbMnL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07FNTSDDM
 description:
-actualPrice: 26.99 GBP
-comparePrice: 44.99 GBP
+actualPrice: 31.76 EUR
+comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [LEGO 70829 Movie 2 with Emmet  Lucy and Sharkira Minifigures  3 Buildable Figures and Exploding Vehicle Construction Set](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20) por 26.99 GBP (original: 44.99 GBP) en el siguiente enlace!
+Tienes [THE LEGO MOVIE 2 70829 Emmets und Lucys Flucht-Buggy!](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20) a precio de oferta de 31.76 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51zMi-pbYgL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20)
+[![](https://images-eu.ssl-images-amazon.com/images/I/51YYXogbMnL._SL200_.jpg)](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07FNTSDDM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

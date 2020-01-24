@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Braun 9 en 1 MGK3085 - Corta Barbas homb'
-date: 2020-01-21 12:42:03
+date: 2020-01-23 20:20:49
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51HS3Nx-DWL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51HS3Nx-DWL._SL200_.jpg' ]
 comments: true
