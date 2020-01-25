@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Seagate STEA2000400 - Disco duro de 2 TB al 34.63 % de descuento'
-date: 2020-01-17 19:06:39
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg' ]
+title: 'Seagate STEA2000400 - Disco duro de 2 TB al 34.67 % de descuento'
+date: 2020-01-25 10:46:41
+thumbnailImage: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51vHOg-KVEL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00TKFEE5S
 description:
-actualPrice: 72.85 EUR
+actualPrice: 72.8 EUR
 comparePrice: 111.44 EUR
 inStock: true
 ---
 
-Está [Seagate STEA2000400 - Disco duro de 2 TB  color negro  Edición Estandard 2019](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20) con 34.63 de descuento por 72.85 EUR (original: 111.44 EUR) en el siguiente enlace!
+Está [Seagate STEA2000400 - Disco duro de 2 TB  color negro  Edición Estandard 2019](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20) con 34.67 de descuento por 72.8 EUR (original: 111.44 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg)](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51vHOg-KVEL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B00TKFEE5S/?tag=redken08-20)
 

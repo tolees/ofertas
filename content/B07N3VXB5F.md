@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.99 % en Desigual Postcards Dress Vestido  Multic'
-date: 2019/12/28 20:53:24 +0000
+date: 2020-01-25 10:23:36
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NGLFZ6xAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NGLFZ6xAL._SL200_.jpg' ]
 comments: true

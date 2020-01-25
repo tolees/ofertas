@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 26.39 % en Sony Xperia 10 - Smartphone de 6" Full H'
-date: 2019/12/28 12:07:52 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31XaKN9CsJL._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31XaKN9CsJL._SL200_.jpg' ]
+title: 'Descuento del 28.65 % en Sony Xperia 10 - Smartphone de 6" Full H'
+date: 2020-01-25 12:17:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/31XaKN9CsJL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31XaKN9CsJL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07NDSJMVX
 description:
-actualPrice: 256.9 EUR
-comparePrice: 349 EUR
+actualPrice: 249.0 EUR
+comparePrice: 349.0 EUR
 inStock: true
 ---
 
-Tienes [Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Azul [Versión española]](https://www.amazon.com/dp/B07NDSJMVX/?tag=redken08-20) con un 26.39 % de descuento con precio de oferta de 256.9 EUR (original: 349 EUR) en el siguiente enlace!
+Tienes [Sony Xperia 10 - Smartphone de 6" Full HD+ 21:9 CinemaWide  Octa-Core de 2 2 Ghz  3 GB de RAM  64 GB de memoria interna  cámara dual de 13+5 MP  Android P Dual Sim   Color Azul [Versión española]](https://www.amazon.com/dp/B07NDSJMVX/?tag=redken08-20) con un 28.65 % de descuento con precio de oferta de 249.0 EUR (original: 349.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/31XaKN9CsJL._SL200_.jpg)](https://www.amazon.com/dp/B07NDSJMVX/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31XaKN9CsJL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07NDSJMVX/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07NDSJMVX/?tag=redken08-20)
 

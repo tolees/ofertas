@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.38 % en Consola de Juegos Portátil  Consola de J'
-date: 2020-01-21 20:54:08
+date: 2020-01-25 11:04:47
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51ztTj2AuFL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51ztTj2AuFL._SL200_.jpg' ]
 comments: true
