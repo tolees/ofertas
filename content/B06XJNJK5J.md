@@ -14,10 +14,10 @@ comparePrice: 15.99 GBP
 inStock: true
 ---
 
-Tienes [Solar Power Leadleds Attractive Lightly Plastic Display Stand Rotating Turntable Holder with 4 Blue LED Lights  Black ](https://www.amazon.com/dp/B06XJNJK5J/?tag=redken08-20) a precio de oferta de 8.99 GBP (original: 15.99 GBP) en el siguiente enlace!
+Está [Solar Power Leadleds Attractive Lightly Plastic Display Stand Rotating Turntable Holder with 4 Blue LED Lights  Black ](https://www.amazon.com/dp/B06XJNJK5J/?tag=redken08-20) por 8.99 GBP (original: 15.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51YQBzF-Z7L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B06XJNJK5J/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B06XJNJK5J/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06XJNJK5J/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

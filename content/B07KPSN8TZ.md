@@ -14,10 +14,10 @@ comparePrice: 9.12 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 36675 POP Bobble: Avengers Endgame: Captain Marvel  Multi](https://www.amazon.com/dp/B07KPSN8TZ/?tag=redken08-20) a 5.0 GBP (original: 9.12 GBP) en el siguiente enlace!
+Está [Funko 36675 POP Bobble: Avengers Endgame: Captain Marvel  Multi](https://www.amazon.com/dp/B07KPSN8TZ/?tag=redken08-20) por 5.0 GBP (original: 9.12 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/417zogO4Y+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07KPSN8TZ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KPSN8TZ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KPSN8TZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

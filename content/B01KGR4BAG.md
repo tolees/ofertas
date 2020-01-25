@@ -14,10 +14,10 @@ comparePrice: 209 EUR
 inStock: true
 ---
 
-Está [Gucci 0022S_001  57 mm  gafas de sol  Black  57 para Mujer](https://www.amazon.com/dp/B01KGR4BAG/?tag=redken08-20) por 135.14 EUR (original: 209 EUR) en el siguiente enlace!
+Tienes [Gucci 0022S_001  57 mm  gafas de sol  Black  57 para Mujer](https://www.amazon.com/dp/B01KGR4BAG/?tag=redken08-20) a precio de oferta de 135.14 EUR (original: 209 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/31DGk27XDOL._SL200_.jpg)](https://www.amazon.com/dp/B01KGR4BAG/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01KGR4BAG/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01KGR4BAG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

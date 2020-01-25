@@ -1,23 +1,23 @@
 ---
 layout: post
 title: 'Suunto - Spartan Sport - SS022649000 - R'
-date: 2019/11/19 13:52:39 +0000
-thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hZDEvXd-L._SL200_.jpg'
-images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hZDEvXd-L._SL200_.jpg' ]
+date: 2020-01-25 20:32:41
+thumbnailImage: 'https://m.media-amazon.com/images/I/41hZDEvXd-L._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41hZDEvXd-L._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01KA5IJFM
 description:
-actualPrice: 349 EUR
-comparePrice: 499 EUR
+actualPrice: 299.0 EUR
+comparePrice: 499.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Suunto - Spartan Sport - SS022649000 - Reloj GPS para Atletas Multideporte - Pantalla táctil de Color - Negro - Talla única](https://www.amazon.com/dp/B01KA5IJFM/?tag=redken08-20) a 349 EUR (original: 499 EUR) en el siguiente enlace!
+Tienes [Suunto - Spartan Sport - SS022649000 - Reloj GPS para Atletas Multideporte - Pantalla táctil de Color - Negro - Talla única](https://www.amazon.com/dp/B01KA5IJFM/?tag=redken08-20) a precio de oferta de 299.0 EUR (original: 499.0 EUR) en el siguiente enlace!
 
-[![](https://images-eu.ssl-images-amazon.com/images/I/41hZDEvXd-L._SL200_.jpg)](https://www.amazon.com/dp/B01KA5IJFM/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41hZDEvXd-L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01KA5IJFM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01KA5IJFM/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01KA5IJFM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

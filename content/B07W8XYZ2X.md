@@ -14,10 +14,10 @@ comparePrice: 15.6 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Star Wars TM - Microfighter: Lanzadera de Kylo Ren  Set de construcción de nave con alas plegables  juguete de La Guerra de las Galaxias Episodio 9: El ascenso de Skywalker  Novedad 2020  75264 ](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20) a 10.95 EUR (original: 15.6 EUR) en el siguiente enlace!
+Tienes [LEGO Star Wars TM - Microfighter: Lanzadera de Kylo Ren  Set de construcción de nave con alas plegables  juguete de La Guerra de las Galaxias Episodio 9: El ascenso de Skywalker  Novedad 2020  75264 ](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20) a precio de oferta de 10.95 EUR (original: 15.6 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51KaFn-kEDL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B07W8XYZ2X/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
